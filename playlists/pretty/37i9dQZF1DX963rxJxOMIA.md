@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX963rxJxOMIA.md) - [plain]
 
 > Fino y elegante, como X 1 BESO de Ryan Castro con De La Ghetto
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,341 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,483 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

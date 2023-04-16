@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 
 > Descubra MC Paiva ZS e novos talentos brasileiros no horizonte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,811 likes - 60 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,809 likes - 60 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,12 +19,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 9 | [Bagulho Louco](https://open.spotify.com/track/04vzhKfl5HtPEgrdZJCZ7L) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN) | [Bagulho Louco](https://open.spotify.com/album/7vmDYV51NrlXuzdyyQYDen) | 2:04 |
 | 10 | [Desligado](https://open.spotify.com/track/2919vhmu3wuoNnUgcZBL6w) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU), [Zero](https://open.spotify.com/artist/1t58HpJzdyzWvRl2mo0ZIR) | [Desligado](https://open.spotify.com/album/0ZMqBtsnyJiSPmFVRC2pSC) | 2:02 |
 | 11 | [Aulas e Cursos](https://open.spotify.com/track/2ABBlgwXo68orcunvBYYiY) | [DNASTY](https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn) | [Aulas e Cursos](https://open.spotify.com/album/1xP900BTjxxWc641y9UKvr) | 3:33 |
-| 12 | [Maresia](https://open.spotify.com/track/14MmpI6ZOB9QaetEIPSzqB) | [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR), [Cuper](https://open.spotify.com/artist/5nxSXjNaqM5nInGmULlfpG), [Zamba](https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW), [Fredinho O Louco](https://open.spotify.com/artist/25EuS30LCi2tFM0DftRLyF) | [Maresia](https://open.spotify.com/album/0LeTsEVvfdJ86Hi7uE7CxK) | 2:24 |
-| 13 | [Pra Gente Acordar](https://open.spotify.com/track/4uh2UmvDt2b8xrQPsWZhfv) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Pra Gente Acordar](https://open.spotify.com/album/2IoDCH4Y4KTTTm399IUwzI) | 2:50 |
+| 12 | [Pra Gente Acordar](https://open.spotify.com/track/4uh2UmvDt2b8xrQPsWZhfv) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Pra Gente Acordar](https://open.spotify.com/album/2IoDCH4Y4KTTTm399IUwzI) | 2:50 |
+| 13 | [Maresia](https://open.spotify.com/track/14MmpI6ZOB9QaetEIPSzqB) | [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR), [Cuper](https://open.spotify.com/artist/5nxSXjNaqM5nInGmULlfpG), [Zamba](https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW), [Fredinho O Louco](https://open.spotify.com/artist/25EuS30LCi2tFM0DftRLyF) | [Maresia](https://open.spotify.com/album/0LeTsEVvfdJ86Hi7uE7CxK) | 2:24 |
 | 14 | [Doce Veneno](https://open.spotify.com/track/7woVi4HBuv0rsO98Ox2Fcq) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC), [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN) | [Doce Veneno](https://open.spotify.com/album/04GVjCszesD4CSwLqyKkFl) | 3:28 |
 | 15 | [Putaria 2000](https://open.spotify.com/track/5Qjz1w6gyWje58AK2u0IMV) | [Puterrier](https://open.spotify.com/artist/0zbO4WWM2wJM3ulFmCbMwB), [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy) | [Putaria 2000](https://open.spotify.com/album/6PX62HEjc1VcSeGGrauuaC) | 1:47 |
-| 16 | [Formosa](https://open.spotify.com/track/1QmupixsVNc0osesKXraZC) | [Kaio Viana](https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4), [MC CJ](https://open.spotify.com/artist/6JXRSEJa8jE6sxsjMFMozp) | [Formosa](https://open.spotify.com/album/4cEk2x8T69nPNXnryzvrJI) | 3:05 |
-| 17 | [Incrível Jogando a Potranca](https://open.spotify.com/track/2F4wyz6gkLTbyD9b5vTVoh) | [Mc Gabzin](https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K), [DJ Swat](https://open.spotify.com/artist/3JrsRa8z1Pngkkf4pDrokD) | [Incrível Jogando a Potranca](https://open.spotify.com/album/011KbNJxyWw5B9AUwFkFe1) | 1:50 |
+| 16 | [Incrível Jogando a Potranca](https://open.spotify.com/track/2F4wyz6gkLTbyD9b5vTVoh) | [Mc Gabzin](https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K), [DJ Swat](https://open.spotify.com/artist/3JrsRa8z1Pngkkf4pDrokD) | [Incrível Jogando a Potranca](https://open.spotify.com/album/011KbNJxyWw5B9AUwFkFe1) | 1:50 |
+| 17 | [Formosa](https://open.spotify.com/track/1QmupixsVNc0osesKXraZC) | [Kaio Viana](https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4), [MC CJ](https://open.spotify.com/artist/6JXRSEJa8jE6sxsjMFMozp) | [Formosa](https://open.spotify.com/album/4cEk2x8T69nPNXnryzvrJI) | 3:05 |
 | 18 | [Calculista](https://open.spotify.com/track/3tEaSuDA0eWnIF8ari2Xly) | [Dom Vittor & Gustavo](https://open.spotify.com/artist/36CiwS6BaZffBHzjJL8y6N), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Calculista](https://open.spotify.com/album/6KCcAGSlLAlUo3nGAQqWMy) | 2:38 |
 | 19 | [Red de Maracujá](https://open.spotify.com/track/1Ox6cNiWa6diK3mIImaq1P) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [Kadu Martins](https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK) | [Red de Maracujá](https://open.spotify.com/album/6vSJkKFM9XI4Pmy23P5MJO) | 2:22 |
 | 20 | [Animais Traidores](https://open.spotify.com/track/0joR9BM1Y2ieSnl7bA2EHY) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [VEGA](https://open.spotify.com/artist/6x0SXnV5f1D9q5pHkwToub) | [Animais Traidores](https://open.spotify.com/album/6y2A0eRXjwkJ0b9VCaLkum) | 3:16 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 59 | [Devagarin](https://open.spotify.com/track/4ha4wjgFHh4FvNZcFaEr5I) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Devagarin](https://open.spotify.com/album/5BnsHrRvr8XpqMz92LLx4F) | 2:34 |
 | 60 | [Viciado em Você](https://open.spotify.com/track/6ysuy7FHJrSMayidz0ni5D) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Viciado em Você](https://open.spotify.com/album/0cpzXFyvb1RroJP0sS4VYb) | 2:27 |
 
-Snapshot ID: `MTY3NTk5ODAwMCwwMDAwMDAwMGJkNzA3NWQ4M2U4OGU2YzhiZjU2NTJiMzdjNjFlNTQ4`
+Snapshot ID: `MTY3NTk5ODAwMCwwMDAwMDAwMDUzYjIwYTk3NjVjN2I5OGNjNzA4YWI2NmEwNDlmYjFk`

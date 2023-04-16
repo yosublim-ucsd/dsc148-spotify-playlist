@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6rGPDxQsF1V.md) - [plain]
 
 > <a href="spotify:playlist:37i9dQZF1DXayDMsJG9ZBv">Hot Hits Japan</a>、もしくは<a href="spotify:playlist:37i9dQZF1DXafb0IuPwJyF">Tokyo Super Hits</a>に10週以上リスト・インしたメガヒット曲をひとつのプレイリストに。Cover: Harry Styles
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,811 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,828 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6rGPDxQsF1V.md) - [plain]
 | 55 | [おもかげ \(produced by Vaundy\)](https://open.spotify.com/track/6ts1KCOudfDYXYfyWtq0k1) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [おもかげ \(produced by Vaundy\)](https://open.spotify.com/album/3PQH45Tw7K3IzTLsGze9UE) | 3:08 |
 | 56 | [Build a Bitch](https://open.spotify.com/track/7BoobGhD4x5K96Me0hqC8Q) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Build a Bitch](https://open.spotify.com/album/5YKqfiQdPYWJ0kZ5pttY5o) | 2:02 |
 | 57 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 |
-| 58 | [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 |
+| 58 | [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 |
 | 59 | [Smokin Out The Window](https://open.spotify.com/track/3xVZYkcuWalGudeKl861wb) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 3:17 |
 | 60 | [Red Eye \(feat\. TroyBoi\)](https://open.spotify.com/track/24OeEKPQ8qqNZnPevRHxUT) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [Justice \(The Complete Edition\)](https://open.spotify.com/album/3uPnO1aZBwMgWK1DI5zve9) | 3:07 |
 | 61 | [Family \(feat\. Bebe Rexha, Ty Dolla $ign & A Boogie Wit da Hoodie\)](https://open.spotify.com/track/0HLhptvI8NozbOHRLNniFz) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Family \(feat\. Bebe Rexha, Ty Dolla $ign & A Boogie Wit da Hoodie\)](https://open.spotify.com/album/1O3wGX19uKgXZZuW7uKb9l) | 2:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6rGPDxQsF1V.md) - [plain]
 | 99 | [分かってないよ](https://open.spotify.com/track/5wosJVYKzl3g7XElM98m23) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [分かってないよ](https://open.spotify.com/album/3QI0sONMNyoJT96dweJ5EY) | 3:29 |
 | 100 | [群青](https://open.spotify.com/track/1zd35Y44Blc1CwwVbW3Qnk) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK](https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv) | 4:08 |
 
-Snapshot ID: `MTY4MDk5MjA3NiwwMDAwMDAwMDcyZGNmNTUyYmFmZDg1NzZkMDFlMDA4OTM2YTI0ZTA2`
+Snapshot ID: `MTY4MDk5MjA3NiwwMDAwMDAwMGQzMGU4Y2Q0NGI0YzU5ODM0ZTFlOTM3OTE5ZjUxNzIy`

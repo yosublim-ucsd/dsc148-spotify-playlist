@@ -17791,6 +17791,24 @@
     },
     {
       "album": {
+        "name": "Los Verdes",
+        "url": "https://open.spotify.com/album/6sIiL8o7zvpjSOVC8QLY65"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144880,
+      "name": "Los Verdes",
+      "url": "https://open.spotify.com/track/4ofofqYez8kibiUHjt15GM"
+    },
+    {
+      "album": {
         "name": "Luz De Dia",
         "url": "https://open.spotify.com/album/6xnSHz2wdF53mBTDEIb8XQ"
       },

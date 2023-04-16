@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXi6GqUgtvam.md) - [plain]
 
 > medieval tunes for board gaming, roleplay or some historical chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,406 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,554 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXi6GqUgtvam.md) - [plain]
 | 16 | [Wild Boar Inn](https://open.spotify.com/track/0J5dQaraExlSRVtny0u7UB) | [Celestial Aeon Project](https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO) | [Inns & Taverns](https://open.spotify.com/album/7MVPWVTAhypYmu6NjTH05u) | 0:50 |
 | 17 | [Lamento Di Tristano And La Rotta](https://open.spotify.com/track/2hxdofcXRRprDttD4INEyr) | [Cheryl Ann Fulton](https://open.spotify.com/artist/4WZQjddfkBTqhMxJ3LJM8K) | [The Once & Future Harp](https://open.spotify.com/album/6zNObFuUkAdowWx7ZY5kH2) | 5:39 |
 | 18 | [Saltarello I & II](https://open.spotify.com/track/0AA77trqxrC447ZkBpVNYp) | [Giacomo Gorzanis](https://open.spotify.com/artist/5v1EIf3kNF2XUlgpevYoj3), [Marc Lewon](https://open.spotify.com/artist/4NFHFqu4lLW38TWHbVWfCV) | [Bis an der Welt ihr Ende](https://open.spotify.com/album/0uYw7LNkcsScQ69xfJTgwd) | 3:24 |
-| 19 | [Simple Gifts \(Arr\. Knigge Recorder and Ensemble\)](https://open.spotify.com/track/7aqx8hsa0qrpkDYfDnQy54) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Lucie Horsch](https://open.spotify.com/artist/452bvXDIbdFJ8L0Dye7kkn), [LUDWIG Orchestra](https://open.spotify.com/artist/3pAMpzxkvRNTXZZ6EpT41Q) | [Traditional: Simple Gifts \(Arr\. Knigge Recorder and Ensemble\)](https://open.spotify.com/album/2bGvmIpKf3832AfZ3w3CVD) | 2:47 |
+| 19 | [Traditional: Simple Gifts \(Arr\. Knigge Recorder and Ensemble\)](https://open.spotify.com/track/7aqx8hsa0qrpkDYfDnQy54) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Lucie Horsch](https://open.spotify.com/artist/452bvXDIbdFJ8L0Dye7kkn), [LUDWIG Orchestra](https://open.spotify.com/artist/3pAMpzxkvRNTXZZ6EpT41Q) | [Traditional: Simple Gifts \(Arr\. Knigge Recorder and Ensemble\)](https://open.spotify.com/album/2bGvmIpKf3832AfZ3w3CVD) | 2:47 |
 | 20 | [Lute Sonata in F Minor \[Augsburg manuscript\]: I\. Affettuoso](https://open.spotify.com/track/7LMjfpcFS1zbFf10GAIILB) | [Bernhard Joachim Hagen](https://open.spotify.com/artist/4C5ayULfDjchGDFpclI1bx), [Robert Barto](https://open.spotify.com/artist/2CnMgd69h3tuIxd875biVF) | [Hagen: The Augsburg Manuscript Music for Lute](https://open.spotify.com/album/4KnKIzBvsnu4IiyPVGUbS5) | 3:32 |
 | 21 | [Ein Schottisch Tanz](https://open.spotify.com/track/2AZPcBbu7HTfffRG5xSQeR) | [William Brade](https://open.spotify.com/artist/72CceCzVMQDJriXo0JCn0h), [Jordi Savall](https://open.spotify.com/artist/3faEZMpTmZFXpELU1EwWNL) | [Musica Nova](https://open.spotify.com/album/6xBs7zg7UmEmjUm7H4LEKJ) | 2:56 |
 | 22 | [The Fairy Round \(Galliard\)](https://open.spotify.com/track/217B2aNAKMidvy7RDSfMaA) | [Anthony Holborne](https://open.spotify.com/artist/5wBrgZigt8RFVrcARWc9bD), [Lutz Kirchhof](https://open.spotify.com/artist/22dMjgcNzSEmrWEtU8JBVH) | [Lute Music for Witches and Alchemists](https://open.spotify.com/album/3PdQWrrT44V9EoZjhccESU) | 3:24 |

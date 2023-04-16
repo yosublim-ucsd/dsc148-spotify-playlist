@@ -1,12 +1,12 @@
 {
   "description": "Country Music that ROCKS!! Cover: Brothers Osborne\n",
-  "num_followers": 535581,
+  "num_followers": 535833,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDI1MWM0M2ViNDc2ZDk5NTU4MmMzODMyMGNkMDNmYWE2",
+  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDdmZWZkMTdiYzYwNTU1ZmIwZWIzODEzMzQxNTI0ZWY4",
   "tracks": [
     {
       "added_at": "2023-04-14 04:00:00",
@@ -195,6 +195,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Starting Over",
+        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 231720,
+      "name": "Devil Always Made Me Think Twice",
+      "url": "https://open.spotify.com/track/3olGkpomYOWwRZsbFTZqiX"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Who I Am",
         "url": "https://open.spotify.com/album/1AmO83yyDpjLjQuPdMsf3Y"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 197234,
       "name": "Outlaws & Outsiders",
       "url": "https://open.spotify.com/track/4NJjWHBLbon4OjbCfVMWkh"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Starting Over",
-        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 231720,
-      "name": "Devil Always Made Me Think Twice",
-      "url": "https://open.spotify.com/track/3olGkpomYOWwRZsbFTZqiX"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Jackson Dean",
-        "url": "https://open.spotify.com/album/1azIpNHDqoiGEI3diDqvJp"
-      },
-      "artists": [
-        {
-          "name": "Jackson Dean",
-          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
-        }
-      ],
-      "duration_ms": 187957,
-      "name": "Don't Come Lookin'",
-      "url": "https://open.spotify.com/track/1vscizuuPwkwC1cc5N5KQV"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Noise Complaint",
         "url": "https://open.spotify.com/album/3O0ADFFtbXVRMf1x2fiClS"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 240265,
       "name": "Fuss & Fight",
       "url": "https://open.spotify.com/track/0NCnQYoe5YdxFjJQgEM5rX"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Jackson Dean",
+        "url": "https://open.spotify.com/album/1azIpNHDqoiGEI3diDqvJp"
+      },
+      "artists": [
+        {
+          "name": "Jackson Dean",
+          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
+        }
+      ],
+      "duration_ms": 187957,
+      "name": "Don't Come Lookin'",
+      "url": "https://open.spotify.com/track/1vscizuuPwkwC1cc5N5KQV"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -547,18 +547,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Tejano Punk Boyz",
-        "url": "https://open.spotify.com/album/4jNsjnBYtuXuprFqRhbA85"
+        "name": "Break My Bones",
+        "url": "https://open.spotify.com/album/6jfQgc5MPRJrPqeJ8L1eu5"
       },
       "artists": [
         {
-          "name": "Giovannie and the Hired Guns",
-          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
+          "name": "Wyatt Flores",
+          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
         }
       ],
-      "duration_ms": 168311,
-      "name": "Ramon Ayala",
-      "url": "https://open.spotify.com/track/6lFVmakxYOXqtBtkbGXrOD"
+      "duration_ms": 206931,
+      "name": "Break My Bones",
+      "url": "https://open.spotify.com/track/1VSJKbdlrDRdI8oYu3tnzi"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -579,18 +579,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Break My Bones",
-        "url": "https://open.spotify.com/album/6jfQgc5MPRJrPqeJ8L1eu5"
+        "name": "Hell Paso",
+        "url": "https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD"
       },
       "artists": [
         {
-          "name": "Wyatt Flores",
-          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 206931,
-      "name": "Break My Bones",
-      "url": "https://open.spotify.com/track/1VSJKbdlrDRdI8oYu3tnzi"
+      "duration_ms": 156610,
+      "name": "Money Spent",
+      "url": "https://open.spotify.com/track/1HxcB2FgfYVhkbqNMCmq1O"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -611,18 +611,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Hell Paso",
-        "url": "https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD"
+        "name": "Tejano Punk Boyz",
+        "url": "https://open.spotify.com/album/4jNsjnBYtuXuprFqRhbA85"
       },
       "artists": [
         {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+          "name": "Giovannie and the Hired Guns",
+          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
         }
       ],
-      "duration_ms": 156610,
-      "name": "Money Spent",
-      "url": "https://open.spotify.com/track/1HxcB2FgfYVhkbqNMCmq1O"
+      "duration_ms": 168311,
+      "name": "Ramon Ayala",
+      "url": "https://open.spotify.com/track/6lFVmakxYOXqtBtkbGXrOD"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -723,18 +723,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Fire On Wheels",
-        "url": "https://open.spotify.com/album/6FaaYVLUK4mAjSqYykdvv7"
+        "name": "Creeps",
+        "url": "https://open.spotify.com/album/2lUDd3HMuFnMgK3KfniBGB"
       },
       "artists": [
         {
-          "name": "Kip Moore",
-          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 156973,
-      "name": "Fire On Wheels",
-      "url": "https://open.spotify.com/track/2EuSpBqoWsE5ohMBCXXUHO"
+      "duration_ms": 226309,
+      "name": "Creeps",
+      "url": "https://open.spotify.com/track/0zOert4KpMDEf332FVRuxb"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -795,18 +795,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Creeps",
-        "url": "https://open.spotify.com/album/2lUDd3HMuFnMgK3KfniBGB"
+        "name": "Fire On Wheels",
+        "url": "https://open.spotify.com/album/6FaaYVLUK4mAjSqYykdvv7"
       },
       "artists": [
         {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+          "name": "Kip Moore",
+          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
         }
       ],
-      "duration_ms": 226309,
-      "name": "Creeps",
-      "url": "https://open.spotify.com/track/0zOert4KpMDEf332FVRuxb"
+      "duration_ms": 156973,
+      "name": "Fire On Wheels",
+      "url": "https://open.spotify.com/track/2EuSpBqoWsE5ohMBCXXUHO"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -891,38 +891,34 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Cottonmouth (Rock Mix) (feat. Spencer Charnas of Ice Nine Kills)",
-        "url": "https://open.spotify.com/album/6ddfTbi21HXRpqGNTmswOL"
+        "name": "Hit Different",
+        "url": "https://open.spotify.com/album/4wMy9xe7Ob8pFG7lrBiXFB"
       },
       "artists": [
         {
           "name": "Rvshvd",
           "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
-        },
-        {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
         }
       ],
-      "duration_ms": 165465,
-      "name": "Cottonmouth (Rock Mix)",
-      "url": "https://open.spotify.com/track/0wCXdCprsEdga0yF9rBuFp"
+      "duration_ms": 193271,
+      "name": "Hit Different",
+      "url": "https://open.spotify.com/track/5utQCXbXEQmOdIp9vE3rOD"
     },
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Like an Arrow",
-        "url": "https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0"
+        "name": "Greenbroke",
+        "url": "https://open.spotify.com/album/4Y0V2f8zZ53O0mF9nL1ine"
       },
       "artists": [
         {
-          "name": "Blackberry Smoke",
-          "url": "https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8"
+          "name": "Jackson Dean",
+          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
         }
       ],
-      "duration_ms": 247008,
-      "name": "Waiting for the Thunder",
-      "url": "https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ"
+      "duration_ms": 218528,
+      "name": "Trailer Park",
+      "url": "https://open.spotify.com/track/5rUC54BQV0Zhj0iIxcNYne"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -943,18 +939,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Greenbroke",
-        "url": "https://open.spotify.com/album/4Y0V2f8zZ53O0mF9nL1ine"
+        "name": "Like an Arrow",
+        "url": "https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0"
       },
       "artists": [
         {
-          "name": "Jackson Dean",
-          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
+          "name": "Blackberry Smoke",
+          "url": "https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8"
         }
       ],
-      "duration_ms": 218528,
-      "name": "Trailer Park",
-      "url": "https://open.spotify.com/track/5rUC54BQV0Zhj0iIxcNYne"
+      "duration_ms": 247008,
+      "name": "Waiting for the Thunder",
+      "url": "https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -991,22 +987,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "I Only Date Cowboys",
-        "url": "https://open.spotify.com/album/6haivFChfJxUDTm0DytCpI"
-      },
-      "artists": [
-        {
-          "name": "Kylie Morgan",
-          "url": "https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV"
-        }
-      ],
-      "duration_ms": 176813,
-      "name": "I Only Date Cowboys",
-      "url": "https://open.spotify.com/track/0Jq7igSKyTZxkvLoqr0bsX"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "That Lonesome Song",
         "url": "https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i"
       },
@@ -1023,18 +1003,38 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Hit Different",
-        "url": "https://open.spotify.com/album/4wMy9xe7Ob8pFG7lrBiXFB"
+        "name": "I Only Date Cowboys",
+        "url": "https://open.spotify.com/album/6haivFChfJxUDTm0DytCpI"
+      },
+      "artists": [
+        {
+          "name": "Kylie Morgan",
+          "url": "https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV"
+        }
+      ],
+      "duration_ms": 176813,
+      "name": "I Only Date Cowboys",
+      "url": "https://open.spotify.com/track/0Jq7igSKyTZxkvLoqr0bsX"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Cottonmouth (Rock Mix) (feat. Spencer Charnas of Ice Nine Kills)",
+        "url": "https://open.spotify.com/album/6ddfTbi21HXRpqGNTmswOL"
       },
       "artists": [
         {
           "name": "Rvshvd",
           "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
+        },
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
         }
       ],
-      "duration_ms": 193271,
-      "name": "Hit Different",
-      "url": "https://open.spotify.com/track/5utQCXbXEQmOdIp9vE3rOD"
+      "duration_ms": 165465,
+      "name": "Cottonmouth (Rock Mix)",
+      "url": "https://open.spotify.com/track/0wCXdCprsEdga0yF9rBuFp"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1207,18 +1207,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Get There First",
-        "url": "https://open.spotify.com/album/0yWPPQExIRCNu4vl43YFQz"
+        "name": "Ain't Nothin' to It",
+        "url": "https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob"
       },
       "artists": [
         {
-          "name": "Austin Snell",
-          "url": "https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx"
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        },
+        {
+          "name": "The Rockin' CJB",
+          "url": "https://open.spotify.com/artist/29MrkEEHOU5icmFXxLe0OV"
         }
       ],
-      "duration_ms": 226304,
-      "name": "Get There First",
-      "url": "https://open.spotify.com/track/3qPyGq482dSHJhuLXeHqgu"
+      "duration_ms": 257079,
+      "name": "Long Haired Country Boy (feat. The Rockin' CJB)",
+      "url": "https://open.spotify.com/track/4j6mrg4fGP1MVfOPN740VJ"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1239,22 +1243,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Ain't Nothin' to It",
-        "url": "https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob"
+        "name": "Get There First",
+        "url": "https://open.spotify.com/album/0yWPPQExIRCNu4vl43YFQz"
       },
       "artists": [
         {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        },
-        {
-          "name": "The Rockin' CJB",
-          "url": "https://open.spotify.com/artist/29MrkEEHOU5icmFXxLe0OV"
+          "name": "Austin Snell",
+          "url": "https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx"
         }
       ],
-      "duration_ms": 257079,
-      "name": "Long Haired Country Boy (feat. The Rockin' CJB)",
-      "url": "https://open.spotify.com/track/4j6mrg4fGP1MVfOPN740VJ"
+      "duration_ms": 226304,
+      "name": "Get There First",
+      "url": "https://open.spotify.com/track/3qPyGq482dSHJhuLXeHqgu"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "The Wolf",
-        "url": "https://open.spotify.com/album/6YBw7OskPoG9FOdDlrrvuR"
-      },
-      "artists": [
-        {
-          "name": "Whiskey Myers",
-          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
-        }
-      ],
-      "duration_ms": 337239,
-      "name": "The Wolf",
-      "url": "https://open.spotify.com/track/0cIrXiEPOLClwGcc2q64Qv"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Meat and Candy",
         "url": "https://open.spotify.com/album/1G4WDlYjm0VqgyEymNJRcf"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 208480,
       "name": "Wrong Turns",
       "url": "https://open.spotify.com/track/74uXfGRDayyx7UIV1irrhK"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "The Wolf",
+        "url": "https://open.spotify.com/album/6YBw7OskPoG9FOdDlrrvuR"
+      },
+      "artists": [
+        {
+          "name": "Whiskey Myers",
+          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
+        }
+      ],
+      "duration_ms": 337239,
+      "name": "The Wolf",
+      "url": "https://open.spotify.com/track/0cIrXiEPOLClwGcc2q64Qv"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Hurt No More",
-        "url": "https://open.spotify.com/album/2XYMwjnmcRzpGAPmJQrQyG"
-      },
-      "artists": [
-        {
-          "name": "Pecos & the Rooftops",
-          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
-        }
-      ],
-      "duration_ms": 214582,
-      "name": "Hurt No More",
-      "url": "https://open.spotify.com/track/3qJ5OBunIPNIvU4WAI6RYh"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Tabasco & Sweet Tea",
         "url": "https://open.spotify.com/album/6uqyfBbmNhlGU6kRlD3WoA"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 280065,
       "name": "Tabasco & Sweet Tea",
       "url": "https://open.spotify.com/track/4Vqhd4iIm8rzXg3nGvOV5B"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Hurt No More",
+        "url": "https://open.spotify.com/album/2XYMwjnmcRzpGAPmJQrQyG"
+      },
+      "artists": [
+        {
+          "name": "Pecos & the Rooftops",
+          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
+        }
+      ],
+      "duration_ms": 214582,
+      "name": "Hurt No More",
+      "url": "https://open.spotify.com/track/3qJ5OBunIPNIvU4WAI6RYh"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1495,38 +1495,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Neon Grave EP",
-        "url": "https://open.spotify.com/album/5ofgQK2bhBfCwK3MstIGez"
-      },
-      "artists": [
-        {
-          "name": "Tyler Braden",
-          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Wrong Right Now",
-      "url": "https://open.spotify.com/track/3eYGnIYCmbijn1IJQiDIb0"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Make Matters Worse",
-        "url": "https://open.spotify.com/album/0vSu0riQ2DRPIUu8ZfXgKI"
-      },
-      "artists": [
-        {
-          "name": "Shawn David",
-          "url": "https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2"
-        }
-      ],
-      "duration_ms": 220443,
-      "name": "Make Matters Worse",
-      "url": "https://open.spotify.com/track/7EUoEK6keyGlntdRJ6rKYK"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Cloud of Dust (feat. The Gronkowski Brothers)",
         "url": "https://open.spotify.com/album/72EWD9Ef18RP1lV5jQ9bCC"
       },
@@ -1547,6 +1515,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Make Matters Worse",
+        "url": "https://open.spotify.com/album/0vSu0riQ2DRPIUu8ZfXgKI"
+      },
+      "artists": [
+        {
+          "name": "Shawn David",
+          "url": "https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2"
+        }
+      ],
+      "duration_ms": 220443,
+      "name": "Make Matters Worse",
+      "url": "https://open.spotify.com/track/7EUoEK6keyGlntdRJ6rKYK"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Find a Light",
         "url": "https://open.spotify.com/album/3l5leCt5ddRcUmcQvx1KG7"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 225165,
       "name": "Till the Wheels Fall Off",
       "url": "https://open.spotify.com/track/5jsFP9UeOXngDEslmUVozc"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Neon Grave EP",
+        "url": "https://open.spotify.com/album/5ofgQK2bhBfCwK3MstIGez"
+      },
+      "artists": [
+        {
+          "name": "Tyler Braden",
+          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Wrong Right Now",
+      "url": "https://open.spotify.com/track/3eYGnIYCmbijn1IJQiDIb0"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Frayed At Both Ends",
-        "url": "https://open.spotify.com/album/2u0CICEVwEw51td3iLqcar"
-      },
-      "artists": [
-        {
-          "name": "Aaron Lewis",
-          "url": "https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx"
-        }
-      ],
-      "duration_ms": 268162,
-      "name": "Pull Me Under",
-      "url": "https://open.spotify.com/track/3hxE4hDy1kEYt1LBnpvD4e"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "High Country Sound",
         "url": "https://open.spotify.com/album/0XsPCNDdepOg4OP3Z1X6Za"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 169700,
       "name": "Catch Me If You Can",
       "url": "https://open.spotify.com/track/4yxdTF0DcdXfD9XA3F8gvX"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Frayed At Both Ends",
+        "url": "https://open.spotify.com/album/2u0CICEVwEw51td3iLqcar"
+      },
+      "artists": [
+        {
+          "name": "Aaron Lewis",
+          "url": "https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx"
+        }
+      ],
+      "duration_ms": 268162,
+      "name": "Pull Me Under",
+      "url": "https://open.spotify.com/track/3hxE4hDy1kEYt1LBnpvD4e"
     },
     {
       "added_at": "2023-04-14 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Chiminyo Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,019 likes - 75 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,048 likes - 75 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

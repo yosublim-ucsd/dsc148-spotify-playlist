@@ -4,7 +4,7 @@
 
 > This is Mercy Chinwo\. The essential tracks, all in one playlist.
 
-38 songs - 3 hr 34 min
+39 songs - 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Trust](https://open.spotify.com/track/3RZoiOu3Pae30Cm11y4hwt) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Trust](https://open.spotify.com/album/0yedzr4B8mZkmcsugAuv2u) | 2:53 | 2023-04-02 |  |
 | [Who Is on the Lord's Side](https://open.spotify.com/track/5pVeIe34S5rbP6FZAEahBS) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Birth of Revival](https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH) | 10:29 | 2023-04-02 |  |
 | [With our God all things are possible](https://open.spotify.com/track/1xOg39z68YKgYEpbLzdoQW) | [Rev\. Sam Oye](https://open.spotify.com/artist/1IsPJMbzL8v2OyLfRNMO6O), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Transformers Worship Team](https://open.spotify.com/artist/2cNuJvj9PX6bf5iNMbUZ0n) | [With our God all things are possible](https://open.spotify.com/album/7G9tmEdtkiXVoOj5h0UFko) | 11:50 | 2023-04-02 |  |
+| [Wonder](https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Elevated](https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg) | 3:54 | 2023-04-15 |  |
 | [Yahweh](https://open.spotify.com/track/4MPfkCbLCfVYoCGvt9hkZJ) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Yahweh](https://open.spotify.com/album/4RjUVXlEwzzVPvCbkT5aiA) | 7:04 | 2023-04-02 |  |
 
 \*This playlist was first scraped on 2023-04-03. Prior content cannot be recovered.

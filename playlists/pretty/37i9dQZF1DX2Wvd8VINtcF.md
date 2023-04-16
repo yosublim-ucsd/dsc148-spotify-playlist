@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > the pearls of an oyster.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,114 likes - 114 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,120 likes - 114 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

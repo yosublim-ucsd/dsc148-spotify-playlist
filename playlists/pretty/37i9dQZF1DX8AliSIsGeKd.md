@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Jonas Saalbach
 
-[Spotify](https://open.spotify.com/user/spotify) - 582,601 likes - 80 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 582,729 likes - 80 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 9 | [Take You](https://open.spotify.com/track/1Mqg86bac6H0wgukTgG3gR) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/4xADuwIS5TSQzoYTaPA5VH) | 3:13 |
 | 10 | [Turning Away \- Parra for Cuva Remix](https://open.spotify.com/track/02JRU5lHhypYRUKlF4mw8o) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Turning Away \(Parra for Cuva Remix\)](https://open.spotify.com/album/1lIxiDKxX65zzDz9J1UVVs) | 4:21 |
 | 11 | [Funkenflug](https://open.spotify.com/track/319lRoBVgCsDtR3M3iEfS1) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Funkenflug](https://open.spotify.com/album/65xp7xUkGiERTwc7Zc8ZhQ) | 7:43 |
-| 12 | [Remember Me](https://open.spotify.com/track/54PCyKj5lICOgjk5WaC0li) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [KeeQ](https://open.spotify.com/artist/5OSkggAoi9qMYfSJuTz4pB), [Tamara Byrne](https://open.spotify.com/artist/54f7LmAoru27GBiOX1Dmdj) | [Remember Me](https://open.spotify.com/album/1C13hkYjqhNLmDbgwkmiVp) | 3:46 |
+| 12 | [Remember Me](https://open.spotify.com/track/54PCyKj5lICOgjk5WaC0li) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [KeeQ](https://open.spotify.com/artist/5OSkggAoi9qMYfSJuTz4pB), [Tamara Blessa](https://open.spotify.com/artist/7gLbU9emwsE9xuxnA5rNLN) | [Remember Me](https://open.spotify.com/album/1C13hkYjqhNLmDbgwkmiVp) | 3:46 |
 | 13 | [Flat White](https://open.spotify.com/track/7cg8kY2L8LKgTvcx1tHoQn) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Flat White](https://open.spotify.com/album/7sKKPLtbw2k0WkTcwKBmFM) | 7:02 |
 | 14 | [Please Take Me Home](https://open.spotify.com/track/72PlQyeoq9XueF832ATSJh) | [Hidden Voices](https://open.spotify.com/artist/7nm1s5jeLUOtV654BErfeu) | [Please Take Me Home](https://open.spotify.com/album/3siJAEpBhqZzIA2XMCUk4X) | 4:44 |
 | 15 | [Schöneberg \- DJ T\. From Mitte To Schöneberg Remix](https://open.spotify.com/track/3eZfRfaZ4Ke9QC4QL839Wl) | [Marmion](https://open.spotify.com/artist/0oYWH7Hk2l25TKHJhO9gus), [DJ T.](https://open.spotify.com/artist/3gkLqGRDA19txXCSKXq6Gx) | [Schöneberg \(DJ T\. Remix\)](https://open.spotify.com/album/77vosoOM4yUJfP1k6AHb2j) | 5:15 |

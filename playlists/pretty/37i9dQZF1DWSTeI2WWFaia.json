@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Hit-Boy",
-  "num_followers": 1608918,
+  "num_followers": 1609201,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDVkNWQ3ZWIyY2FjNDUzNzMxZjk4YmJhNWY2YzdhMzFj",
+  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDhjOGRlMWQzYTBkYzVkYzU3MGViOTc4Y2Q0Mjc0OThm",
   "tracks": [
     {
       "added_at": "2023-04-14 04:00:00",
@@ -339,26 +339,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "2000",
-        "url": "https://open.spotify.com/album/261LWEVYViMXijB95mAty3"
-      },
-      "artists": [
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        },
-        {
-          "name": "Westside Gunn",
-          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
-        }
-      ],
-      "duration_ms": 178786,
-      "name": "Brand New 911",
-      "url": "https://open.spotify.com/track/1SJnJJmrqRyE8YSdhEtbPv"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "SURF OR DROWN",
         "url": "https://open.spotify.com/album/4cWnM4WLlf53drLOX90KuQ"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 236730,
       "name": "The Tide",
       "url": "https://open.spotify.com/track/27N0pJsw7yMwewEEgFdklN"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "2000",
+        "url": "https://open.spotify.com/album/261LWEVYViMXijB95mAty3"
+      },
+      "artists": [
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        },
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        }
+      ],
+      "duration_ms": 178786,
+      "name": "Brand New 911",
+      "url": "https://open.spotify.com/track/1SJnJJmrqRyE8YSdhEtbPv"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -507,18 +507,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "King's Disease III",
-        "url": "https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk"
+        "name": "Slipping Into Darkness",
+        "url": "https://open.spotify.com/album/05HfppEroQ2s6h4CkBbr6N"
       },
       "artists": [
         {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
         }
       ],
-      "duration_ms": 167724,
-      "name": "Michael & Quincy",
-      "url": "https://open.spotify.com/track/5MfCvL6jCTkxPCBQf3OkYH"
+      "duration_ms": 256926,
+      "name": "Slipping Into Darkness",
+      "url": "https://open.spotify.com/track/7oTTYjFN9TksJwsj55r2hb"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -559,22 +563,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Slipping Into Darkness",
-        "url": "https://open.spotify.com/album/05HfppEroQ2s6h4CkBbr6N"
+        "name": "King's Disease III",
+        "url": "https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk"
       },
       "artists": [
         {
-          "name": "Hit-Boy",
-          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
         }
       ],
-      "duration_ms": 256926,
-      "name": "Slipping Into Darkness",
-      "url": "https://open.spotify.com/track/7oTTYjFN9TksJwsj55r2hb"
+      "duration_ms": 167724,
+      "name": "Michael & Quincy",
+      "url": "https://open.spotify.com/track/5MfCvL6jCTkxPCBQf3OkYH"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -847,8 +847,8 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Vinyl Days",
-        "url": "https://open.spotify.com/album/0RTHMVF27KRMHIGnF7iLru"
+        "name": "3P",
+        "url": "https://open.spotify.com/album/7oct4g7sEmjOy2kw8RkrCd"
       },
       "artists": [
         {
@@ -856,13 +856,17 @@
           "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
         },
         {
-          "name": "Action Bronson",
-          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
+          "name": "C Dot Castro",
+          "url": "https://open.spotify.com/artist/1EEH91ujjE6eIlYtEjrHv6"
+        },
+        {
+          "name": "halfBREED",
+          "url": "https://open.spotify.com/artist/2OKpImEHt9ug1QUHp56tQj"
         }
       ],
-      "duration_ms": 108387,
-      "name": "In my lifetime (feat. Action Bronson)",
-      "url": "https://open.spotify.com/track/6FoyBTuvyX2YFw4QW1e6DK"
+      "duration_ms": 216521,
+      "name": "Game 6",
+      "url": "https://open.spotify.com/track/2NpAwkhQZDFD1kWR1ZxuWM"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -923,6 +927,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Wimbledon",
+        "url": "https://open.spotify.com/album/3AlI6rmqiVJWDopXWdCb2m"
+      },
+      "artists": [
+        {
+          "name": "Free Party",
+          "url": "https://open.spotify.com/artist/2A1dxDBORVkkbHJDVDOhed"
+        }
+      ],
+      "duration_ms": 142409,
+      "name": "Wimbledon",
+      "url": "https://open.spotify.com/track/7AUXScBeRD7EXEFOsglJag"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Do Better",
         "url": "https://open.spotify.com/album/4XhdHEPifvpnVUa4S33548"
       },
@@ -943,24 +963,8 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Wimbledon",
-        "url": "https://open.spotify.com/album/3AlI6rmqiVJWDopXWdCb2m"
-      },
-      "artists": [
-        {
-          "name": "Free Party",
-          "url": "https://open.spotify.com/artist/2A1dxDBORVkkbHJDVDOhed"
-        }
-      ],
-      "duration_ms": 142409,
-      "name": "Wimbledon",
-      "url": "https://open.spotify.com/track/7AUXScBeRD7EXEFOsglJag"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "3P",
-        "url": "https://open.spotify.com/album/7oct4g7sEmjOy2kw8RkrCd"
+        "name": "Vinyl Days",
+        "url": "https://open.spotify.com/album/0RTHMVF27KRMHIGnF7iLru"
       },
       "artists": [
         {
@@ -968,17 +972,13 @@
           "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
         },
         {
-          "name": "C Dot Castro",
-          "url": "https://open.spotify.com/artist/1EEH91ujjE6eIlYtEjrHv6"
-        },
-        {
-          "name": "halfBREED",
-          "url": "https://open.spotify.com/artist/2OKpImEHt9ug1QUHp56tQj"
+          "name": "Action Bronson",
+          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
         }
       ],
-      "duration_ms": 216521,
-      "name": "Game 6",
-      "url": "https://open.spotify.com/track/2NpAwkhQZDFD1kWR1ZxuWM"
+      "duration_ms": 108387,
+      "name": "In my lifetime (feat. Action Bronson)",
+      "url": "https://open.spotify.com/track/6FoyBTuvyX2YFw4QW1e6DK"
     },
     {
       "added_at": "2023-04-14 04:00:00",

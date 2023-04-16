@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,437 songs - 5 day 12 hr 12 min
+3,438 songs - 5 day 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1494,6 +1494,7 @@
 | [Jupiter's Moon](https://open.spotify.com/track/1jyMnfxnWvHj4hbQIPoVnm) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Nofeels](https://open.spotify.com/artist/3Qn4P4XWpnaL8MfK237Mjl) | [Jupiter's Moon](https://open.spotify.com/album/0mfq94OEqLvxnCfpvdQ94L) | 2:10 | 2022-11-24 | 2022-12-15 |
 | [Jupiter's Moon](https://open.spotify.com/track/3BDFBS075FaAQYlHHlf9so) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Nofeels](https://open.spotify.com/artist/3Qn4P4XWpnaL8MfK237Mjl) | [Jupiter's Moon](https://open.spotify.com/album/2yxggFfAAg9RBiDJOD8zaj) | 2:10 | 2022-12-22 |  |
 | [Jupiter's Moon](https://open.spotify.com/track/7724wSPiV8l8l7cGx7k8LU) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Nofeels](https://open.spotify.com/artist/3Qn4P4XWpnaL8MfK237Mjl) | [Jupiter's Moon](https://open.spotify.com/album/4mdsbWwthZzh81YCYFhhiq) | 2:10 | 2021-08-08 | 2022-11-20 |
+| [Jurassic Snooze](https://open.spotify.com/track/2P5hbyBB7LhOaJ2HM7G6Eb) | [Howie Doowin](https://open.spotify.com/artist/5GsPaA0g3apgEmOW1HmP7n) | [Jurassic Snooze](https://open.spotify.com/album/7elLC0JbnSXiYNVkwygoz9) | 1:49 | 2023-04-13 |  |
 | [Juslikedat](https://open.spotify.com/track/0tBZiOpUGEXgp0d1uFDJFW) | [Brous One](https://open.spotify.com/artist/1B8h9tQRqagUQ7XcHRvh3k) | [Juslikedat](https://open.spotify.com/album/0w1CbWHtlrvTEy92MWTDe5) | 1:44 | 2020-02-21 | 2020-05-15 |
 | [Just Came](https://open.spotify.com/track/3pspamOmDItl65iDOGBZvK) | [Qadir Bijoux](https://open.spotify.com/artist/26dpXNQaUiknQXGV3zQqzQ) | [E](https://open.spotify.com/album/1UAjIGvrqJ4YIqwmwITr90) | 3:31 | 2020-06-05 | 2020-08-07 |
 | [Just Relax](https://open.spotify.com/track/6FKPqYsQSvYCTmcTEIh9ui) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Just Relax](https://open.spotify.com/album/79lRHBOxuS1ucJyq7L5Gr0) | 1:23 | 2020-07-24 | 2020-11-06 |
@@ -3409,7 +3410,7 @@
 | [Yellow Napkins](https://open.spotify.com/track/72AJ5sfLfwtKHiQnUeB7rV) | [JAY VANILLA](https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV) | [Yellow Napkins](https://open.spotify.com/album/1zBsYqIgx9Isyw0D74Ley9) | 1:39 | 2021-11-19 | 2022-05-16 |
 | [Yellowish](https://open.spotify.com/track/0RuvfeEVkmCo92saAi7xkX) | [Oskar Hahn](https://open.spotify.com/artist/5D47BWKQT56z8xey53ZxmL), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Yellowish](https://open.spotify.com/album/7nsFGePR3P9QFbtfgA3d4o) | 2:01 | 2022-09-05 |  |
 | [yes or no](https://open.spotify.com/track/3nmqPqq6QIz1iNUJg7COJ9) | [Sandy Mental](https://open.spotify.com/artist/1TIM4mSeLlFajoWxR0GDK3) | [yes or no](https://open.spotify.com/album/5EVpCM2wGzwryXT8JMnHUA) | 2:08 | 2021-04-16 | 2021-10-08 |
-| [Yesterday](https://open.spotify.com/track/0hNpX4O9P3qYowjFiuBosI) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Yesterday](https://open.spotify.com/album/3ztDRUPYQ3oKCofA618anq) | 2:29 | 2023-04-13 |  |
+| [Yesterday](https://open.spotify.com/track/0hNpX4O9P3qYowjFiuBosI) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Yesterday](https://open.spotify.com/album/3ztDRUPYQ3oKCofA618anq) | 2:29 | 2023-04-13 | 2023-04-16 |
 | [Yesterday's Tomorrow](https://open.spotify.com/track/3SkGlju255xnaTQld9d0DO) | [Parental](https://open.spotify.com/artist/1zcTB8gtjbKxJmluk0amve), [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [Yesterday's Tomorrow](https://open.spotify.com/album/5yfF9N6Cgy7olJBLPKRkhM) | 2:13 | 2022-12-22 | 2023-01-27 |
 | [Yooo](https://open.spotify.com/track/0JRjnHIVTbSAKsjAJKDaMk) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Ooo](https://open.spotify.com/album/0lmxEBodHRZiNf56qljxag) | 2:36 | 2020-08-08 | 2020-09-11 |
 | [yoru](https://open.spotify.com/track/0zKfr2YCfOq6WtRlQlmdpg) | [lōland](https://open.spotify.com/artist/5AUK3KLrqdHpcsRowJVJIn), [Rudy Raw](https://open.spotify.com/artist/4ZITuhWAaVoUTge2JwIton) | [yoru \| renge](https://open.spotify.com/album/1qEEMw81t7U3MlWhwkpFhk) | 2:22 | 2020-07-24 | 2021-03-26 |

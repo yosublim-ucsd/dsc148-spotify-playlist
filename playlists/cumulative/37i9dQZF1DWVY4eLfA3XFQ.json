@@ -2527,6 +2527,28 @@
     },
     {
       "album": {
+        "name": "Can't Miss",
+        "url": "https://open.spotify.com/album/44zEa0I7Ns6Cl62Vhdx80y"
+      },
+      "artists": [
+        {
+          "name": "Dillon Nathaniel",
+          "url": "https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j"
+        },
+        {
+          "name": "Kaysin",
+          "url": "https://open.spotify.com/artist/10mZhaOPNKtQfg46DptrBU"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211875,
+      "name": "Can't Miss",
+      "url": "https://open.spotify.com/track/2FWAqHDVwtldyMwv2HnRnn"
+    },
+    {
+      "album": {
         "name": "Can't You See",
         "url": "https://open.spotify.com/album/0Qd8m380OmHYpwVf36tdOy"
       },
@@ -6878,6 +6900,24 @@
       "duration_ms": 155152,
       "name": "Guest List",
       "url": "https://open.spotify.com/track/7zXBzvwVLh5Oaonc9FzUBI"
+    },
+    {
+      "album": {
+        "name": "Guru",
+        "url": "https://open.spotify.com/album/7cWNZrvfGYoVZULq6nP1r3"
+      },
+      "artists": [
+        {
+          "name": "BLR",
+          "url": "https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Guru",
+      "url": "https://open.spotify.com/track/3h7Puhs0ZRMq470id6WYxo"
     },
     {
       "album": {
@@ -14036,7 +14076,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 154285,
       "name": "Program",
       "url": "https://open.spotify.com/track/5RzgHp25FmEO0nYNMynuHE"
@@ -14902,7 +14942,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 112380,
       "name": "Rollin'",
       "url": "https://open.spotify.com/track/1s73Nzd18edWcJzRJfKmRE"
@@ -16179,6 +16219,24 @@
     },
     {
       "album": {
+        "name": "Snatch",
+        "url": "https://open.spotify.com/album/3NBR8469FQQ4tq3idiztto"
+      },
+      "artists": [
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258750,
+      "name": "Snatch",
+      "url": "https://open.spotify.com/track/2WnWl10jDfmFHFFsQNAiAD"
+    },
+    {
+      "album": {
         "name": "So High",
         "url": "https://open.spotify.com/album/6JODn5MLAj2RfrFjPusWCJ"
       },
@@ -16346,6 +16404,24 @@
       "duration_ms": 181440,
       "name": "Something",
       "url": "https://open.spotify.com/track/1S3VL4F0d6WnS71pSpNSe8"
+    },
+    {
+      "album": {
+        "name": "Something Else (Radio Edit)",
+        "url": "https://open.spotify.com/album/5BPi8plYpaWc5LGSytii45"
+      },
+      "artists": [
+        {
+          "name": "Lancie Green",
+          "url": "https://open.spotify.com/artist/7nEMUaXfIQ3Hw3XmEgqe5b"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161904,
+      "name": "Something Else - Radio Edit",
+      "url": "https://open.spotify.com/track/5fhaYitqsKinuko13PTqHo"
     },
     {
       "album": {
@@ -17692,7 +17768,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 207096,
       "name": "The Awakening",
       "url": "https://open.spotify.com/track/1i3usBZnVIjlYZOfGywtLk"
@@ -19834,7 +19910,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 215813,
       "name": "Westside Trippin",
       "url": "https://open.spotify.com/track/6FUCfttIpDffqKo2JLIf5A"

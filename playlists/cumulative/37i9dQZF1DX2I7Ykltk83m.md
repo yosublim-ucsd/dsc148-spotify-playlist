@@ -4,7 +4,7 @@
 
 > killer songs from badass artists\. Cover: Tommy Lefroy
 
-336 songs - 20 hr 22 min
+337 songs - 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Fire](https://open.spotify.com/track/2lBEWXP11gpEySIXgA5ALH) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud](https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M) | 3:37 | 2022-05-20 |  |
 | [First Prize Bravery](https://open.spotify.com/track/7juXOrLe6pu2Jz8EbiG67i) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [First Prize Bravery](https://open.spotify.com/album/5DNRLMYCFWYiXrp9RPdCM9) | 3:50 | 2021-11-14 | 2022-07-29 |
 | [Flood](https://open.spotify.com/track/2rdHpC57kfwsxuQKfaEjjQ) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Flower of Devotion](https://open.spotify.com/album/0kn1V8vpoxtEw69CcMDlik) | 2:57 | 2021-11-14 | 2022-01-29 |
-| [Flood](https://open.spotify.com/track/6WstYKyrp8qkVBNtpcvaO1) | [Stella Donnelly](https://open.spotify.com/artist/2mHjhKyKCLh6MZELuCe1Es) | [Flood](https://open.spotify.com/album/3un2FDbZwuK5JidL4OFaTW) | 3:43 | 2022-10-07 |  |
+| [Flood](https://open.spotify.com/track/6WstYKyrp8qkVBNtpcvaO1) | [Stella Donnelly](https://open.spotify.com/artist/2mHjhKyKCLh6MZELuCe1Es) | [Flood](https://open.spotify.com/album/3un2FDbZwuK5JidL4OFaTW) | 3:43 | 2022-10-07 | 2023-04-16 |
 | [Freak Like Me](https://open.spotify.com/track/1JSFJDPv6vCGETnNzDHGJr) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [Superstar](https://open.spotify.com/album/0t3bYFMzeZg2iO5yVCUpIG) | 3:42 | 2021-11-14 |  |
 | [Free to Live in Colour](https://open.spotify.com/track/0SC5Qw42owQ0b4TGblRCex) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Free to Live in Colour](https://open.spotify.com/album/2XCINSxKMX5TsEarfGQpme) | 3:14 | 2022-10-07 |  |
 | [Free to Live in Colour](https://open.spotify.com/track/4LqnVwGQlJQ7HvW8tEA9vp) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Free to Live in Colour](https://open.spotify.com/album/4luQOplfg3mJ2MnNy2rT5X) | 3:14 | 2021-11-14 | 2022-10-13 |
@@ -220,6 +220,7 @@
 | [Not The Time](https://open.spotify.com/track/0Vmd1bjR3CAhT86mHs3Mp1) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [SASAMI](https://open.spotify.com/album/5dJhE07Jbhdg8wj3ysnT7H) | 2:50 | 2022-01-21 | 2022-07-28 |
 | [Oblivion](https://open.spotify.com/track/4VrhxPwnirO4cKLfQJz2Xk) | [Alaska Reid](https://open.spotify.com/artist/2CIThLiaeJxWgG5xAgL3p0) | [Oblivion](https://open.spotify.com/album/2C9vOSfkKENVtJVSl4KYhB) | 4:11 | 2021-11-14 | 2022-01-10 |
 | [Oh No](https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Oh No / Liahr](https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f) | 2:44 | 2022-01-21 | 2022-10-08 |
+| [Oh No Darling!](https://open.spotify.com/track/1PZhJNvdDjpsjZWrkfgff4) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Oh No Darling!](https://open.spotify.com/album/3RBeWddW8FHxtCdzD0VHns) | 3:23 | 2023-04-14 |  |
 | [Old Peel](https://open.spotify.com/track/0vuZebTvcwkstUpoo82lpG) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Old Peel](https://open.spotify.com/album/5SdjxVnwwn4w25boDjEmMR) | 3:16 | 2021-11-14 | 2022-04-02 |
 | [Open up the Heavens](https://open.spotify.com/track/1dthu6dMsSfRe2k1nBTL36) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Open up the Heavens](https://open.spotify.com/album/6uNbLM4IL5OojfhAb8nISM) | 2:41 | 2021-11-14 | 2022-07-17 |
 | [Overslept \(feat\. mei ehara\)](https://open.spotify.com/track/0zzePeqwaCTJxqgkIVcivx) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j), [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [I Know I'm Funny haha](https://open.spotify.com/album/424bxvpYyNDM2DFFibeKs0) | 3:29 | 2021-11-14 | 2022-10-08 |

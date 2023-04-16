@@ -13119,6 +13119,24 @@
     },
     {
       "album": {
+        "name": "I Should Have Stayed at Home",
+        "url": "https://open.spotify.com/album/7Gg6nUfvmeyxJ2FBvP3tDR"
+      },
+      "artists": [
+        {
+          "name": "Ryan Mack",
+          "url": "https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163013,
+      "name": "I Should Have Stayed at Home",
+      "url": "https://open.spotify.com/track/2y42aEs7Rczw5eMLK9UMeW"
+    },
+    {
+      "album": {
         "name": "I Should've Told You",
         "url": "https://open.spotify.com/album/1N4ACWnpLSrpXokSWcsh9j"
       },
@@ -27860,7 +27878,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 152053,
       "name": "Ugly Crier",
       "url": "https://open.spotify.com/track/6duh2S2a8bVSzoFXJoJUFR"

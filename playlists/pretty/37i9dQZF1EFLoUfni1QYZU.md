@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 20 | [Dreamer](https://open.spotify.com/track/53N2lUWiXmZHNlR8ydET2p) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart to Mouth](https://open.spotify.com/album/0pGDQC60cx6f5roJfHLF1g) | 3:25 |
 | 21 | [N'oublie pas](https://open.spotify.com/track/7FIpYtyMksImC785MQ6rk0) | [Mylène Farmer](https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD), [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Désobéissance](https://open.spotify.com/album/5YDET5CVSy7YvV7I3s5wAI) | 3:39 |
 | 22 | [Mirror Man](https://open.spotify.com/track/5ItmPIcrJGy1e9sMnihDqB) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Chapter One](https://open.spotify.com/album/0KP9GNOxpsKRSA0t0B4ZsL) | 3:42 |
-| 23 | [Up Against Me](https://open.spotify.com/track/2EyNDcf37MM2eez5Csf3YX) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost on You](https://open.spotify.com/album/3R2TVCA5PMMnEcVlIOCMEG) | 3:02 |
-| 24 | [Someday](https://open.spotify.com/track/6aqQwBaJ2W7z5PIqWMheGx) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 4:12 |
+| 23 | [Someday](https://open.spotify.com/track/6aqQwBaJ2W7z5PIqWMheGx) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 4:12 |
+| 24 | [Up Against Me](https://open.spotify.com/track/2EyNDcf37MM2eez5Csf3YX) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost on You](https://open.spotify.com/album/3R2TVCA5PMMnEcVlIOCMEG) | 3:02 |
 | 25 | [Shine Ya Light](https://open.spotify.com/track/53Jn6XWHu86vTZEK4elSH7) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [ORA](https://open.spotify.com/album/1aDnLoXL8rl3WFJWLTxZmx) | 3:30 |
 | 26 | [Suspicion](https://open.spotify.com/track/3m2xJrdQwtkv6NCs2SG7O4) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost on You](https://open.spotify.com/album/0dYi4VGov4Dl4AED2eVwPw) | 3:20 |
 | 27 | [House On Fire](https://open.spotify.com/track/01mKJ0Xz90naXw0iOf0YhH) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart to Mouth](https://open.spotify.com/album/0pGDQC60cx6f5roJfHLF1g) | 3:01 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 82 | [Afraid To Sleep \- The Voice Performance](https://open.spotify.com/track/06Km3ZJ7x5Bbw6BzwvKNgq) | [Vicci Martinez](https://open.spotify.com/artist/1sxu3pxg9icRUHpyWpDxz2) | [Afraid To Sleep \(The Voice Performance\)](https://open.spotify.com/album/1ZXYmRM2sYpVMXRHYvSezX) | 3:20 |
 | 83 | [Pedestal](https://open.spotify.com/track/1mVW6SmGOr1UMfIBf9xSag) | [EMIN](https://open.spotify.com/artist/0sKY9AcBdiGx4FbFbQsXoX) | [Good Love](https://open.spotify.com/album/13jgOeU2lMcpB0JJ77aJXt) | 3:25 |
 
-Snapshot ID: `MjgwMjUyODEsMDAwMDAwMDBkZDA3MzQxNTZiZWE0YjU3NGMzZjhkMmY3MDkwNzFlZQ==`
+Snapshot ID: `MjgwMjY3MjEsMDAwMDAwMDA3YzBlOGM0OTUwNjJkOGQ1ZWQ5NmFiOWRjYjgzMDkwOA==`

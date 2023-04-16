@@ -1,12 +1,12 @@
 {
   "description": "Scopa, paletta e musica!",
-  "num_followers": 76761,
+  "num_followers": 76783,
   "original_name": "Pulizie di Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNjcxNDMwNywwMDAwMDAwMDk2YWJkNmIyYmY0YTE2OTEyNWQwMDEwY2IzMWI1MTVj",
+  "snapshot_id": "MTYyNjcxNDMwNywwMDAwMDAwMDk5NGI2YzkyZjVmZDlkNjVkNGRhYzg0NzZhZTVjMWU2",
   "tracks": [
     {
       "added_at": "2021-07-19 17:05:07",
@@ -455,22 +455,6 @@
     {
       "added_at": "2021-07-19 17:05:07",
       "album": {
-        "name": "The Colour And The Shape",
-        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 250546,
-      "name": "Everlong",
-      "url": "https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk"
-    },
-    {
-      "added_at": "2021-07-19 17:05:07",
-      "album": {
         "name": "Slippery When Wet",
         "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 249293,
       "name": "Livin' On A Prayer",
       "url": "https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF"
+    },
+    {
+      "added_at": "2021-07-19 17:05:07",
+      "album": {
+        "name": "The Colour And The Shape",
+        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 250546,
+      "name": "Everlong",
+      "url": "https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk"
     },
     {
       "added_at": "2021-07-19 17:05:07",
@@ -535,6 +535,22 @@
     {
       "added_at": "2021-07-19 17:05:07",
       "album": {
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 356066,
+      "name": "Sweet Child O' Mine",
+      "url": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW"
+    },
+    {
+      "added_at": "2021-07-19 17:05:07",
+      "album": {
         "name": "Narrated For You",
         "url": "https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 215733,
       "name": "Shallow",
       "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B"
-    },
-    {
-      "added_at": "2021-07-19 17:05:07",
-      "album": {
-        "name": "Appetite For Destruction",
-        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 356066,
-      "name": "Sweet Child O' Mine",
-      "url": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW"
     },
     {
       "added_at": "2021-07-19 17:05:07",
@@ -707,22 +707,6 @@
     {
       "added_at": "2021-07-19 17:05:07",
       "album": {
-        "name": "Demon Days",
-        "url": "https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        }
-      ],
-      "duration_ms": 222640,
-      "name": "Feel Good Inc.",
-      "url": "https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT"
-    },
-    {
-      "added_at": "2021-07-19 17:05:07",
-      "album": {
         "name": "Toto IV",
         "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 295893,
       "name": "Africa",
       "url": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX"
+    },
+    {
+      "added_at": "2021-07-19 17:05:07",
+      "album": {
+        "name": "Demon Days",
+        "url": "https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "duration_ms": 222640,
+      "name": "Feel Good Inc.",
+      "url": "https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT"
     },
     {
       "added_at": "2021-07-19 17:05:07",
@@ -771,22 +771,6 @@
     {
       "added_at": "2021-07-19 17:05:07",
       "album": {
-        "name": "A Perfect Contradiction (Outsiders' Expanded Edition)",
-        "url": "https://open.spotify.com/album/3jRG3qOfsSSW3SBdeBiIfC"
-      },
-      "artists": [
-        {
-          "name": "Paloma Faith",
-          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
-        }
-      ],
-      "duration_ms": 232893,
-      "name": "Only Love Can Hurt Like This",
-      "url": "https://open.spotify.com/track/62ke5zFUJN6RvtXZgVH0F8"
-    },
-    {
-      "added_at": "2021-07-19 17:05:07",
-      "album": {
         "name": "Back In Black",
         "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 255493,
       "name": "Back In Black",
       "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
+    },
+    {
+      "added_at": "2021-07-19 17:05:07",
+      "album": {
+        "name": "A Perfect Contradiction (Outsiders' Expanded Edition)",
+        "url": "https://open.spotify.com/album/3jRG3qOfsSSW3SBdeBiIfC"
+      },
+      "artists": [
+        {
+          "name": "Paloma Faith",
+          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
+        }
+      ],
+      "duration_ms": 232893,
+      "name": "Only Love Can Hurt Like This",
+      "url": "https://open.spotify.com/track/62ke5zFUJN6RvtXZgVH0F8"
     },
     {
       "added_at": "2021-07-19 17:05:07",
@@ -947,22 +947,6 @@
     {
       "added_at": "2021-07-19 17:05:07",
       "album": {
-        "name": "Voicenotes",
-        "url": "https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 208786,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/5cF0dROlMOK5uNZtivgu50"
-    },
-    {
-      "added_at": "2021-07-19 17:05:07",
-      "album": {
         "name": "Doo-Wops & Hooligans",
         "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
       },
@@ -979,18 +963,18 @@
     {
       "added_at": "2021-07-19 17:05:07",
       "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+        "name": "Voicenotes",
+        "url": "https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR"
       },
       "artists": [
         {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
         }
       ],
-      "duration_ms": 201726,
-      "name": "R U Mine?",
-      "url": "https://open.spotify.com/track/2AT8iROs4FQueDv2c8q2KE"
+      "duration_ms": 208786,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/5cF0dROlMOK5uNZtivgu50"
     },
     {
       "added_at": "2021-07-19 17:05:07",
@@ -1007,6 +991,22 @@
       "duration_ms": 190360,
       "name": "The Man",
       "url": "https://open.spotify.com/track/3RauEVgRgj1IuWdJ9fDs70"
+    },
+    {
+      "added_at": "2021-07-19 17:05:07",
+      "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 201726,
+      "name": "R U Mine?",
+      "url": "https://open.spotify.com/track/2AT8iROs4FQueDv2c8q2KE"
     },
     {
       "added_at": "2021-07-19 17:05:07",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2021-07-19 17:05:07",
       "album": {
+        "name": "Pray for the Wicked",
+        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 190946,
+      "name": "High Hopes",
+      "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
+    },
+    {
+      "added_at": "2021-07-19 17:05:07",
+      "album": {
         "name": "Speakerboxxx/The Love Below",
         "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 235213,
       "name": "Hey Ya!",
       "url": "https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM"
-    },
-    {
-      "added_at": "2021-07-19 17:05:07",
-      "album": {
-        "name": "thank u, next",
-        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 207320,
-      "name": "thank u, next",
-      "url": "https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ"
     },
     {
       "added_at": "2021-07-19 17:05:07",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2021-07-19 17:05:07",
       "album": {
-        "name": "Pray for the Wicked",
-        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 190946,
-      "name": "High Hopes",
-      "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
-    },
-    {
-      "added_at": "2021-07-19 17:05:07",
-      "album": {
         "name": "Whitney",
         "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
       },
@@ -1171,22 +1155,6 @@
       "duration_ms": 291293,
       "name": "I Wanna Dance with Somebody (Who Loves Me)",
       "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
-    },
-    {
-      "added_at": "2021-07-19 17:05:07",
-      "album": {
-        "name": "I met you when I was 18. (the playlist)",
-        "url": "https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 197436,
-      "name": "I Like Me Better",
-      "url": "https://open.spotify.com/track/0EcQcdcbQeVJn9fknj44Be"
     },
     {
       "added_at": "2021-07-19 17:05:07",
@@ -1211,18 +1179,50 @@
     {
       "added_at": "2021-07-19 17:05:07",
       "album": {
-        "name": "Dynasty",
-        "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
+        "name": "I met you when I was 18. (the playlist)",
+        "url": "https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR"
       },
       "artists": [
         {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
         }
       ],
-      "duration_ms": 271240,
-      "name": "I Was Made For Lovin' You",
-      "url": "https://open.spotify.com/track/07q0QVgO56EorrSGHC48y3"
+      "duration_ms": 197436,
+      "name": "I Like Me Better",
+      "url": "https://open.spotify.com/track/0EcQcdcbQeVJn9fknj44Be"
+    },
+    {
+      "added_at": "2021-07-19 17:05:07",
+      "album": {
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 273480,
+      "name": "Welcome To The Jungle",
+      "url": "https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8"
+    },
+    {
+      "added_at": "2021-07-19 17:05:07",
+      "album": {
+        "name": "thank u, next",
+        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 207320,
+      "name": "thank u, next",
+      "url": "https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ"
     },
     {
       "added_at": "2021-07-19 17:05:07",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2021-07-19 17:05:07",
       "album": {
-        "name": "Appetite For Destruction",
-        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
+        "name": "Dynasty",
+        "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
       },
       "artists": [
         {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 273480,
-      "name": "Welcome To The Jungle",
-      "url": "https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8"
+      "duration_ms": 271240,
+      "name": "I Was Made For Lovin' You",
+      "url": "https://open.spotify.com/track/07q0QVgO56EorrSGHC48y3"
     },
     {
       "added_at": "2021-07-19 17:05:07",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2021-07-19 17:05:07",
       "album": {
-        "name": "Millennium",
-        "url": "https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ"
-      },
-      "artists": [
-        {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
-        }
-      ],
-      "duration_ms": 213306,
-      "name": "I Want It That Way",
-      "url": "https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya"
-    },
-    {
-      "added_at": "2021-07-19 17:05:07",
-      "album": {
         "name": "reputation",
         "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 232253,
       "name": "Delicate",
       "url": "https://open.spotify.com/track/6NFyWDv5CjfwuzoCkw47Xf"
+    },
+    {
+      "added_at": "2021-07-19 17:05:07",
+      "album": {
+        "name": "Millennium",
+        "url": "https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ"
+      },
+      "artists": [
+        {
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ],
+      "duration_ms": 213306,
+      "name": "I Want It That Way",
+      "url": "https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya"
     },
     {
       "added_at": "2021-07-19 17:05:07",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2021-07-19 17:05:07",
       "album": {
-        "name": "Illuminate (Deluxe)",
-        "url": "https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 208733,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/0AS63m1wHv9n4VVRizK6Hc"
-    },
-    {
-      "added_at": "2021-07-19 17:05:07",
-      "album": {
         "name": "Honky Chateau",
         "url": "https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 281613,
       "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
       "url": "https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY"
+    },
+    {
+      "added_at": "2021-07-19 17:05:07",
+      "album": {
+        "name": "Illuminate (Deluxe)",
+        "url": "https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 208733,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/0AS63m1wHv9n4VVRizK6Hc"
     },
     {
       "added_at": "2021-07-19 17:05:07",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2021-07-19 17:05:07",
       "album": {
-        "name": "Speak Your Mind (Deluxe)",
-        "url": "https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5"
-      },
-      "artists": [
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        }
-      ],
-      "duration_ms": 186986,
-      "name": "2002",
-      "url": "https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo"
-    },
-    {
-      "added_at": "2021-07-19 17:05:07",
-      "album": {
         "name": "Second Helping (Expanded Edition)",
         "url": "https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 219146,
       "name": "Cake By The Ocean",
       "url": "https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC"
+    },
+    {
+      "added_at": "2021-07-19 17:05:07",
+      "album": {
+        "name": "Speak Your Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "duration_ms": 186986,
+      "name": "2002",
+      "url": "https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo"
     },
     {
       "added_at": "2021-07-19 17:05:07",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2021-07-19 17:05:07",
       "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 187436,
-      "name": "Sweet but Psycho",
-      "url": "https://open.spotify.com/track/7DnAm9FOTWE3cUvso43HhI"
-    },
-    {
-      "added_at": "2021-07-19 17:05:07",
-      "album": {
         "name": "Dream Your Life Away (Special Edition)",
         "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
       },
@@ -1531,18 +1515,18 @@
     {
       "added_at": "2021-07-19 17:05:07",
       "album": {
-        "name": "Dua Lipa (Deluxe)",
-        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         }
       ],
-      "duration_ms": 209320,
-      "name": "New Rules",
-      "url": "https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0"
+      "duration_ms": 187436,
+      "name": "Sweet but Psycho",
+      "url": "https://open.spotify.com/track/7DnAm9FOTWE3cUvso43HhI"
     },
     {
       "added_at": "2021-07-19 17:05:07",
@@ -1559,6 +1543,22 @@
       "duration_ms": 295533,
       "name": "What's Up?",
       "url": "https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm"
+    },
+    {
+      "added_at": "2021-07-19 17:05:07",
+      "album": {
+        "name": "Dua Lipa (Deluxe)",
+        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 209320,
+      "name": "New Rules",
+      "url": "https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0"
     },
     {
       "added_at": "2021-07-19 17:05:07",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2021-07-19 17:05:07",
       "album": {
-        "name": "Lukas Graham",
-        "url": "https://open.spotify.com/album/4rFrdkSWs0dtj0rWPzOk1v"
-      },
-      "artists": [
-        {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
-        }
-      ],
-      "duration_ms": 237300,
-      "name": "7 Years",
-      "url": "https://open.spotify.com/track/5kqIPrATaCc2LqxVWzQGbk"
-    },
-    {
-      "added_at": "2021-07-19 17:05:07",
-      "album": {
         "name": "Crush",
         "url": "https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 224493,
       "name": "It's My Life",
       "url": "https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l"
+    },
+    {
+      "added_at": "2021-07-19 17:05:07",
+      "album": {
+        "name": "Lukas Graham",
+        "url": "https://open.spotify.com/album/4rFrdkSWs0dtj0rWPzOk1v"
+      },
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        }
+      ],
+      "duration_ms": 237300,
+      "name": "7 Years",
+      "url": "https://open.spotify.com/track/5kqIPrATaCc2LqxVWzQGbk"
     },
     {
       "added_at": "2021-07-19 17:05:07",

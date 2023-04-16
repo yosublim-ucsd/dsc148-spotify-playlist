@@ -1,12 +1,12 @@
 {
   "description": "Las m\u00e1s bichotas del party featuring Cazzu & Young Miko \ud83d\ude08",
-  "num_followers": 22199,
+  "num_followers": 22282,
   "original_name": "EQUAL Urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0MTIwMCwwMDAwMDAwMGU1MTExNzUwODNiNDNmMzEzNWI4YzhjZWQ4YTUzZDU2",
+  "snapshot_id": "MTY4MTQ0MTIwMCwwMDAwMDAwMDVjNzM3ZjYzYzU4YmFlMDczZWI1ZDgzNGJkZDlkNmQz",
   "tracks": [
     {
       "added_at": "2023-04-14 03:00:00",
@@ -263,26 +263,18 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "La Loto",
-        "url": "https://open.spotify.com/album/3kNJsC47065Ucjk6AuCb8y"
+        "name": "ALGARETE",
+        "url": "https://open.spotify.com/album/7leHFUki2RpwAxMJU6Du3n"
       },
       "artists": [
         {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
         }
       ],
-      "duration_ms": 190666,
-      "name": "La Loto",
-      "url": "https://open.spotify.com/track/3AbNNvo2OmyeDMvRBgf9vk"
+      "duration_ms": 208549,
+      "name": "ALGARETE",
+      "url": "https://open.spotify.com/track/2ec3eRB4zEYzuBl3cja0qA"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -339,18 +331,26 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "ALGARETE",
-        "url": "https://open.spotify.com/album/7leHFUki2RpwAxMJU6Du3n"
+        "name": "La Loto",
+        "url": "https://open.spotify.com/album/3kNJsC47065Ucjk6AuCb8y"
       },
       "artists": [
         {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 208549,
-      "name": "ALGARETE",
-      "url": "https://open.spotify.com/track/2ec3eRB4zEYzuBl3cja0qA"
+      "duration_ms": 190666,
+      "name": "La Loto",
+      "url": "https://open.spotify.com/track/3AbNNvo2OmyeDMvRBgf9vk"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Papi Quiero Perrear",
-        "url": "https://open.spotify.com/album/6vY4xHJXWv0ETD6LiDBbvY"
-      },
-      "artists": [
-        {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
-        }
-      ],
-      "duration_ms": 135303,
-      "name": "Papi Quiero Perrear",
-      "url": "https://open.spotify.com/track/1fO0hDlLYH13JSEegukxcE"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Ella (Remix De Ellas)",
         "url": "https://open.spotify.com/album/1S3W5Bf9guhX9p3m8DG1Oe"
       },
@@ -967,6 +951,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Papi Quiero Perrear",
+        "url": "https://open.spotify.com/album/6vY4xHJXWv0ETD6LiDBbvY"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        }
+      ],
+      "duration_ms": 135303,
+      "name": "Papi Quiero Perrear",
+      "url": "https://open.spotify.com/track/1fO0hDlLYH13JSEegukxcE"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "Mujer\u00f3n",
         "url": "https://open.spotify.com/album/7yY1iOFMzA5Zv0cDvOJgjX"
       },
@@ -983,22 +983,6 @@
       "duration_ms": 170721,
       "name": "Mujer\u00f3n",
       "url": "https://open.spotify.com/track/2F2kre9J0uxhoap5iQyCV0"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "TOLKIN YIT",
-        "url": "https://open.spotify.com/album/4t00wtgmOwZwhv562woUPp"
-      },
-      "artists": [
-        {
-          "name": "TAICHU",
-          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
-        }
-      ],
-      "duration_ms": 141407,
-      "name": "TOLKIN YIT",
-      "url": "https://open.spotify.com/track/37yI1sQRX7xmdrp4RfTmK1"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1023,6 +1007,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "TOLKIN YIT",
+        "url": "https://open.spotify.com/album/4t00wtgmOwZwhv562woUPp"
+      },
+      "artists": [
+        {
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+        }
+      ],
+      "duration_ms": 141407,
+      "name": "TOLKIN YIT",
+      "url": "https://open.spotify.com/track/37yI1sQRX7xmdrp4RfTmK1"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "Piketona (with Kim Loaiza)",
         "url": "https://open.spotify.com/album/4JWW3H1HSUA5beQdZ8oj8K"
       },
@@ -1039,30 +1039,6 @@
       "duration_ms": 158894,
       "name": "Piketona (with Kim Loaiza)",
       "url": "https://open.spotify.com/track/0MBbWL85frwcC7hKCQm4r7"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Parte de M\u00ed",
-        "url": "https://open.spotify.com/album/3ma7if5xuOYxZouDsuCsdP"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        },
-        {
-          "name": "Ptazeta",
-          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
-        },
-        {
-          "name": "Snow Tha Product",
-          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
-        }
-      ],
-      "duration_ms": 182470,
-      "name": "Tengo To",
-      "url": "https://open.spotify.com/track/07Y65et1sMhIcVP4MA7p0R"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1099,6 +1075,30 @@
       "duration_ms": 131680,
       "name": "Peligrosa",
       "url": "https://open.spotify.com/track/3LZpREjBfKM1y53OrCBlX1"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Parte de M\u00ed",
+        "url": "https://open.spotify.com/album/3ma7if5xuOYxZouDsuCsdP"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        },
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        }
+      ],
+      "duration_ms": 182470,
+      "name": "Tengo To",
+      "url": "https://open.spotify.com/track/07Y65et1sMhIcVP4MA7p0R"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "EST\u00c1S BUEN\u00cdSIMO",
+        "url": "https://open.spotify.com/album/5whnoCyMbHr7TRFMoSGsM5"
+      },
+      "artists": [
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "duration_ms": 211693,
+      "name": "EST\u00c1S BUEN\u00cdSIMO",
+      "url": "https://open.spotify.com/track/13MRbFUJGGRKucCMzzdnWF"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "dale Play",
         "url": "https://open.spotify.com/album/0Iq5DxqRwkw2Y4uY0zun6V"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 226946,
       "name": "dale Play",
       "url": "https://open.spotify.com/track/33gFV76PlZtTunQCaqYIJH"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "EST\u00c1S BUEN\u00cdSIMO",
-        "url": "https://open.spotify.com/album/5whnoCyMbHr7TRFMoSGsM5"
-      },
-      "artists": [
-        {
-          "name": "NATHY PELUSO",
-          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
-        }
-      ],
-      "duration_ms": 211693,
-      "name": "EST\u00c1S BUEN\u00cdSIMO",
-      "url": "https://open.spotify.com/track/13MRbFUJGGRKucCMzzdnWF"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "La Piti",
+        "url": "https://open.spotify.com/album/1LVYwpAVevauvcv6s8Euh9"
+      },
+      "artists": [
+        {
+          "name": "Pitizion",
+          "url": "https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq"
+        }
+      ],
+      "duration_ms": 173653,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/6NFlEQvg4h41e08fj70zxd"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "Estoy Soltera",
         "url": "https://open.spotify.com/album/5WZfuGX8Ca4eaes5LYxk22"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 172653,
       "name": "Estoy Soltera",
       "url": "https://open.spotify.com/track/597HxeFN4prkOZml250ZhR"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "La Piti",
-        "url": "https://open.spotify.com/album/1LVYwpAVevauvcv6s8Euh9"
-      },
-      "artists": [
-        {
-          "name": "Pitizion",
-          "url": "https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq"
-        }
-      ],
-      "duration_ms": 173653,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/6NFlEQvg4h41e08fj70zxd"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1415,18 +1415,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Hey Siri",
-        "url": "https://open.spotify.com/album/26PSRzfCh69uiTBWg2eIZO"
+        "name": "Nena Trampa (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7ntr88BWCrwZGySZQlHgBM"
       },
       "artists": [
         {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        },
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
         }
       ],
-      "duration_ms": 147933,
-      "name": "Hey Siri",
-      "url": "https://open.spotify.com/track/5ohqJK8ieHOGIUsbw2oZqQ"
+      "duration_ms": 178992,
+      "name": "Glock",
+      "url": "https://open.spotify.com/track/1N6VDChBSHkitVoaJlU42T"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1443,6 +1447,62 @@
       "duration_ms": 95008,
       "name": "TOP",
       "url": "https://open.spotify.com/track/6qFEielNbJIiwgIbZA24nQ"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Mi real lova",
+        "url": "https://open.spotify.com/album/4QhzuSzmMkVQEqPSIC9Fnn"
+      },
+      "artists": [
+        {
+          "name": "Akatumamy",
+          "url": "https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd"
+        },
+        {
+          "name": "Ovyze",
+          "url": "https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4"
+        }
+      ],
+      "duration_ms": 166105,
+      "name": "Mi real lova",
+      "url": "https://open.spotify.com/track/1A8CcPnmexGWEDrzoFwyoR"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Hey Siri",
+        "url": "https://open.spotify.com/album/26PSRzfCh69uiTBWg2eIZO"
+      },
+      "artists": [
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        }
+      ],
+      "duration_ms": 147933,
+      "name": "Hey Siri",
+      "url": "https://open.spotify.com/track/5ohqJK8ieHOGIUsbw2oZqQ"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Nena",
+        "url": "https://open.spotify.com/album/5Ymw3x5pQric87TAWRTnva"
+      },
+      "artists": [
+        {
+          "name": "Aura BAE",
+          "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
+        },
+        {
+          "name": "EKKI",
+          "url": "https://open.spotify.com/artist/4lHI9smP4kDm7gz1exU7G5"
+        }
+      ],
+      "duration_ms": 201724,
+      "name": "Nena",
+      "url": "https://open.spotify.com/track/1n7VtU8L0owUJRz0ppvETo"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1471,58 +1531,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Flow Rom\u00e1ntico",
-        "url": "https://open.spotify.com/album/4r0PI0BKDrDhftCfvFjxWT"
-      },
-      "artists": [
-        {
-          "name": "Las Villa",
-          "url": "https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM"
-        }
-      ],
-      "duration_ms": 155638,
-      "name": "Poema",
-      "url": "https://open.spotify.com/track/4ki07OxnhAu6PT5iViZxye"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Mi real lova",
-        "url": "https://open.spotify.com/album/4QhzuSzmMkVQEqPSIC9Fnn"
-      },
-      "artists": [
-        {
-          "name": "Akatumamy",
-          "url": "https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd"
-        },
-        {
-          "name": "Ovyze",
-          "url": "https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4"
-        }
-      ],
-      "duration_ms": 166105,
-      "name": "Mi real lova",
-      "url": "https://open.spotify.com/track/1A8CcPnmexGWEDrzoFwyoR"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Guilla",
-        "url": "https://open.spotify.com/album/2wvlZcsnGAzbRx6C1wUYtw"
-      },
-      "artists": [
-        {
-          "name": "Loyaltty",
-          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
-        }
-      ],
-      "duration_ms": 139428,
-      "name": "Guilla",
-      "url": "https://open.spotify.com/track/4xTZL1wNVCtCrqJQUHqHdc"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Calentura",
         "url": "https://open.spotify.com/album/0BWKR99sP38uPNKeiubjMl"
       },
@@ -1539,22 +1547,18 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Nena",
-        "url": "https://open.spotify.com/album/5Ymw3x5pQric87TAWRTnva"
+        "name": "Flow Rom\u00e1ntico",
+        "url": "https://open.spotify.com/album/4r0PI0BKDrDhftCfvFjxWT"
       },
       "artists": [
         {
-          "name": "Aura BAE",
-          "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
-        },
-        {
-          "name": "EKKI",
-          "url": "https://open.spotify.com/artist/4lHI9smP4kDm7gz1exU7G5"
+          "name": "Las Villa",
+          "url": "https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM"
         }
       ],
-      "duration_ms": 201724,
-      "name": "Nena",
-      "url": "https://open.spotify.com/track/1n7VtU8L0owUJRz0ppvETo"
+      "duration_ms": 155638,
+      "name": "Poema",
+      "url": "https://open.spotify.com/track/4ki07OxnhAu6PT5iViZxye"
     }
   ],
   "unique_name": "EQUAL Urbano",

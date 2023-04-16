@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BaAkp.md) - [plain]
 
 > This is Arctic Monkeys\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,488,630 likes - 52 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,489,148 likes - 52 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BaAkp.md) - [plain]
 | 51 | [One Point Perspective](https://open.spotify.com/track/2AKwcNHeGAqCpD6etK425X) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Tranquility Base Hotel & Casino](https://open.spotify.com/album/1jeMiSeSnNS0Oys375qegp) | 3:28 |
 | 52 | [Tranquility Base Hotel & Casino](https://open.spotify.com/track/2URDbWGmPz3vhagl25p8OC) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Tranquility Base Hotel & Casino](https://open.spotify.com/album/7v6FNgLDS8KmaWA1amUtqe) | 3:31 |
 
-Snapshot ID: `MjgwMjQ4NTIsMDAwMDAwMDBlODNiNTkyOTk3ODYxYzEyMmY5MGE3N2NhZmY4ODM3Yw==`
+Snapshot ID: `MjgwMjYwMzIsMDAwMDAwMDA5MTY2YTczMjdiY2M0MjVlNzZkZGQ5YjdkODk5MDIzZA==`

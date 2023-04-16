@@ -2006,7 +2006,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 131625,
       "name": "Blicky",
       "url": "https://open.spotify.com/track/5udNN5hwk870U9dk7a0nHe"
@@ -4948,7 +4948,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-31",
+      "date_removed": null,
       "duration_ms": 208630,
       "name": "Favorite Song",
       "url": "https://open.spotify.com/track/1SRw5p2lVAi7RGlHEmZg66"
@@ -5346,7 +5346,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 108695,
       "name": "Forever",
       "url": "https://open.spotify.com/track/7uHRKSQ9WIlBBuBY7BHcbq"
@@ -6631,6 +6631,24 @@
     },
     {
       "album": {
+        "name": "HOJE EU VOU COMER NOVINHA",
+        "url": "https://open.spotify.com/album/7FNd2yodzN9NDZTBJhI2Eh"
+      },
+      "artists": [
+        {
+          "name": "DJ AG O GRINGO",
+          "url": "https://open.spotify.com/artist/5x5QpMsxPAaMgm0bxQyKJC"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107128,
+      "name": "HOJE EU VOU COMER NOVINHA 02",
+      "url": "https://open.spotify.com/track/1vKRuWNMzYKX2MxdQawM0N"
+    },
+    {
+      "album": {
         "name": "HOLA",
         "url": "https://open.spotify.com/album/4gQeFcc0wE7uoce3RNjaqR"
       },
@@ -7310,7 +7328,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-12",
+      "date_removed": null,
       "duration_ms": 194213,
       "name": "if looks could kill",
       "url": "https://open.spotify.com/track/1cdqNRXIRrvT4HnApj6yw6"
@@ -7512,7 +7530,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 169841,
       "name": "Introvert\u00e1lt dal",
       "url": "https://open.spotify.com/track/2SoIhnJXdHp8oo0w9pktub"
@@ -8636,7 +8654,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-15",
+      "date_removed": null,
       "duration_ms": 60000,
       "name": "LIE DOWN!",
       "url": "https://open.spotify.com/track/2RPe3OsUu4E4fDtmAlqh20"
@@ -10146,7 +10164,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 153238,
       "name": "Montagem - Conga Conga (Remix)",
       "url": "https://open.spotify.com/track/4h3IQVSBs8lbFCvwMjGp83"
@@ -10280,6 +10298,24 @@
       "duration_ms": 185437,
       "name": "Moving On",
       "url": "https://open.spotify.com/track/1HziFe87mEtaTjLAdGHXyl"
+    },
+    {
+      "album": {
+        "name": "MTG - REBOLA NO MEU C4RALHO",
+        "url": "https://open.spotify.com/album/63WfQxZlaM7RieVafWxH6p"
+      },
+      "artists": [
+        {
+          "name": "DJ LA BEAT",
+          "url": "https://open.spotify.com/artist/7x17bGSbbPvPv9YOhPhMch"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207692,
+      "name": "MTG - REBOLA NO MEU C4RALHO",
+      "url": "https://open.spotify.com/track/6UsDf89sHDBewBBw7hc0Qc"
     },
     {
       "album": {
@@ -14315,6 +14351,24 @@
     },
     {
       "album": {
+        "name": "Cottonwood 2",
+        "url": "https://open.spotify.com/album/7l49L64CFakYuaV4EL11sP"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123672,
+      "name": "SLUT ME OUT",
+      "url": "https://open.spotify.com/track/0WoVfPjxsf9MTvPt9ptqeE"
+    },
+    {
+      "album": {
         "name": "SLUT ME OUT",
         "url": "https://open.spotify.com/album/48868AJJd7JVl1IVmaBsaQ"
       },
@@ -14326,7 +14380,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 123672,
       "name": "SLUT ME OUT",
       "url": "https://open.spotify.com/track/5BmB3OaQyYXCqRyN8iR2Yi"
@@ -17564,7 +17618,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 186769,
       "name": "Whiskey Cola",
       "url": "https://open.spotify.com/track/21E5ifBRaCw2Z8Ya5sW4LY"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 
 > Immerse deeper into obscure alternate dimensions..\. 🦇🔮
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,609 likes - 75 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,613 likes - 75 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 | 39 | [\#4](https://open.spotify.com/track/4fQEbOabaTSC80INS7cD3Q) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH) | 4:39 |
 | 40 | [Ones Atop the Unknown](https://open.spotify.com/track/7EQXtgp56sFwJu1euom2GC) | [Apocryphos](https://open.spotify.com/artist/64qsbZn2w42kGEHQWsjgdP), [Atrium Carceri](https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr), [Kammarheit](https://open.spotify.com/artist/3uUghlgJJQPZOHB6KRrSXZ) | [Onyx](https://open.spotify.com/album/6fSwC689X5NJC8hIOEOBLS) | 5:37 |
 | 41 | [Now Night Her Course Began](https://open.spotify.com/track/2uK3MyZTClTtjMaisrbLYE) | [Sephiroth](https://open.spotify.com/artist/3W7sDTEvCYpE7JpxdyNZeo) | [Draconian Poetry](https://open.spotify.com/album/33wV7dDwlDalTn1ArAcbcp) | 9:03 |
-| 42 | [Eleven](https://open.spotify.com/track/0yMaGil4yVbV6YhXXAXw83) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things, Vol\. 1 \(A Netflix Original Series Soundtrack\)](https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ) | 3:14 |
+| 42 | [The First I love You](https://open.spotify.com/track/4JWNeArR4aYNnOZ0NOIQV5) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 3 \(Original Score from the Netflix Original Series\)](https://open.spotify.com/album/3qjUxwtbMHsiO0U20ezOjR) | 2:26 |
 | 43 | [A Room Between the Rooms](https://open.spotify.com/track/6aAfkcsiO7rerTy6kHJ6V4) | [Kammarheit](https://open.spotify.com/artist/3uUghlgJJQPZOHB6KRrSXZ) | [The Starwheel](https://open.spotify.com/album/5Dh3rhalDH2MPXTS2yhIOG) | 6:33 |
 | 44 | [The Experience Of Swimming \- 2003 Digital Remaster](https://open.spotify.com/track/3xTX2k03pGJ8PO9pytIrY2) | [Japan](https://open.spotify.com/artist/7vPXrGlSGukcwpaPxUfKKR) | [Gentlemen Take Polaroids](https://open.spotify.com/album/0RhywRDYdXYC5Qzk0iIprW) | 4:04 |
 | 45 | [Prepare the Stage of Night](https://open.spotify.com/track/2LNvSjqhxh9UBv0rF1PMlR) | [Atrium Carceri](https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr), [Cities Last Broadcast](https://open.spotify.com/artist/4TiCdaMLVAz0W8GqeZ6jN4) | [Black Corner Den](https://open.spotify.com/album/10flibooBjjwWKy02B5obV) | 4:24 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 | 74 | [Ambulance Chase](https://open.spotify.com/track/7mOxAfHsYo0SsmPhVKEWVD) | [Ben Salisbury](https://open.spotify.com/artist/3WifYZsO8WO6hGlWIDM4Zq), [Geoff Barrow](https://open.spotify.com/artist/53b2a4ytPlelgBJYLLocWh) | [Annihilation \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/70iPSxP7Jtb2ZwrypiZFQG) | 2:58 |
 | 75 | [Mogadon Coffee Morning](https://open.spotify.com/track/4qM00ki1r0Y94lqUkuedia) | [The Advisory Circle](https://open.spotify.com/artist/6W0YlZ9EupJ8kSsW97KG6S) | [Other Channels](https://open.spotify.com/album/5e8pjxQuuRyMf6FjjaQT3D) | 2:56 |
 
-Snapshot ID: `MTY2ODcyMTM0OCwwMDAwMDAwMGEzODc2ZDlmZDdlMTNkY2MwZmE4N2EzODU4Y2QwMzIz`
+Snapshot ID: `MTY2ODcyMTM0OCwwMDAwMDAwMGQyNWZhY2Y0ZjMzNjJmZmRiNTVlY2M0MjI1NmVhMDBk`

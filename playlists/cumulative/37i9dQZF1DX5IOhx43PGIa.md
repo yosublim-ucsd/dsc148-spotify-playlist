@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere\. Cover: beabadoobee.
 
-421 songs - 22 hr 5 min
+422 songs - 22 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,7 +201,7 @@
 | [ITIM](https://open.spotify.com/track/2akEAk7cu3FNtIzNUMtfX2) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [ITIM](https://open.spotify.com/album/5KvLMStgJsZiYziduNFOIh) | 3:02 | 2022-05-27 | 2022-07-28 |
 | [Joker \(Feat\. JAMIE\)](https://open.spotify.com/track/7GLn0324YKGYxbYN7GH8Ip) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [Bucket List](https://open.spotify.com/album/0lviZJTZcp60rZnT5vYdqB) | 3:19 | 2022-05-27 | 2022-08-27 |
 | [juice](https://open.spotify.com/track/0W1jDXkALMfPqheeSEEk5x) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [juice](https://open.spotify.com/album/6DY3UVNU1qvSjY4HIiLkP2) | 3:15 | 2022-05-27 |  |
-| [just like before](https://open.spotify.com/track/2JAHDn2zTqHFsFmktmZ4Mt) | [juno roome](https://open.spotify.com/artist/75OmhmviEWTWkMBllWgdQv) | [just like before](https://open.spotify.com/album/0Z1PdgaM4I3cATEl9RgDam) | 4:26 | 2022-08-30 |  |
+| [just like before](https://open.spotify.com/track/2JAHDn2zTqHFsFmktmZ4Mt) | [juno roome](https://open.spotify.com/artist/75OmhmviEWTWkMBllWgdQv) | [just like before](https://open.spotify.com/album/0Z1PdgaM4I3cATEl9RgDam) | 4:26 | 2022-08-30 | 2023-04-16 |
 | [Keeping Tabs](https://open.spotify.com/track/2zz4plJxtgMIsQg5SMl2Bg) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx) | 2:57 | 2022-08-12 |  |
 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 | 2022-10-21 | 2023-03-04 |
 | [killer queen](https://open.spotify.com/track/0qo1JukfClmpHnUOJxpFXi) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [killer queen](https://open.spotify.com/album/09h4w3F8jXAQnbYmGYktRR) | 2:58 | 2022-05-27 | 2022-08-27 |
@@ -272,6 +272,7 @@
 | [Nobody Sees Me Like You Do](https://open.spotify.com/track/3vGsonmcc2Y7x8BZYKnjhi) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Nobody Sees Me Like You Do](https://open.spotify.com/album/6W8UhZlIF4yuQolmJPAO1P) | 3:31 | 2022-05-27 | 2023-04-09 |
 | [Oceans & Engines](https://open.spotify.com/track/3vZk7OAUjMtVDNC852aNqi) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Oceans & Engines](https://open.spotify.com/album/2va673nk2JXgCxJeTiZdM9) | 5:36 | 2022-07-08 |  |
 | [Off the Rails](https://open.spotify.com/track/0h7Vz5MQyJjO4ZnMW7HTjV) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Off the Rails](https://open.spotify.com/album/7lhVwtCdwtbtDkfZ0747aS) | 2:20 | 2022-05-27 | 2022-05-31 |
+| [Oh No Darling!](https://open.spotify.com/track/1PZhJNvdDjpsjZWrkfgff4) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Oh No Darling!](https://open.spotify.com/album/3RBeWddW8FHxtCdzD0VHns) | 3:23 | 2023-04-14 |  |
 | [Old Her](https://open.spotify.com/track/29SZ02R7DwLxLeusrbgpCl) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [Old Her](https://open.spotify.com/album/65Uv70W3Ci8mU3obr002Jc) | 3:01 | 2022-06-10 | 2022-08-27 |
 | [omg](https://open.spotify.com/track/0Ni3UTucdl8y2j3EG4w5PB) | [Gloria Kim](https://open.spotify.com/artist/1DUd25ybTBglvAohsXTmBx) | [omg](https://open.spotify.com/album/52tsBgV4HNKMsS00PZXbUF) | 2:22 | 2023-02-07 |  |
 | [OMG](https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'OMG'](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) | 3:32 | 2023-01-06 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0cc8YMQWsSzODyTpdVB6mI.md) - [plain]
 
 > The best NEW Music right now, curated by Kitsuné Musique and added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday.
 
-[Kitsuné Musique](https://open.spotify.com/user/maisonkitsune) - 45,154 likes - 53 songs - 3 hr 8 min
+[Kitsuné Musique](https://open.spotify.com/user/maisonkitsune) - 45,152 likes - 53 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/0cc8YMQWsSzODyTpdVB6mI.md) - [plain]
 | 4 | [Shiver & Gold \- Fallenius Remix](https://open.spotify.com/track/7gdcrDv0Dxa5MS9XCdieac) | [Imanos](https://open.spotify.com/artist/26fsavNxrXVdRK7wL3jZKb), [Fallenius](https://open.spotify.com/artist/1uMowT5YqJIkKcYnwVLpru) | [Shiver & Gold \(Fallenius Remix\)](https://open.spotify.com/album/5etya24cHghPP0czV9QBM0) | 2:43 |
 | 5 | [Shiver & Gold \- RJ The Second Remix](https://open.spotify.com/track/6OZMJyT3EttQpNO7HtAs0Q) | [Imanos](https://open.spotify.com/artist/26fsavNxrXVdRK7wL3jZKb), [RJ The Second](https://open.spotify.com/artist/2hfegcERF3KkLLAp8CpdFf) | [Shiver & Gold \(RJ The Second Remix\)](https://open.spotify.com/album/2FfKgU6tIKQXbeQiB4yZP8) | 3:47 |
 | 6 | [SUEÑO \- Harry Romero Remix](https://open.spotify.com/track/6YeE6BmI4UO0BbehpZtZXj) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1), [Harry Romero](https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM) | [SUEÑO \(Harry Romero Remix\)](https://open.spotify.com/album/0VFlojZdwoZDdZfLXHDf8d) | 5:47 |
-| 7 | [RABONA \- Kolter Remix](https://open.spotify.com/track/14635LEGaiyHFMN2HDdiKh) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1), [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry), [DJOKO](https://open.spotify.com/artist/3fdC2UHP39tyWCUsHB6qlv) | [RABONA \(Kolter Remix\)](https://open.spotify.com/album/5YqnKBllt7n0EjlW3hmo3c) | 3:29 |
+| 7 | [RABONA \- Kolter Remix](https://open.spotify.com/track/14635LEGaiyHFMN2HDdiKh) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1), [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [RABONA \(Kolter Remix\)](https://open.spotify.com/album/5YqnKBllt7n0EjlW3hmo3c) | 3:29 |
 | 8 | [Leather Free Seats \- Mosey Remix](https://open.spotify.com/track/77tGVhgSQbOopj3qSDKhZm) | [Lil Seyi](https://open.spotify.com/artist/2Z5C4k6StRPuT2ZipvC00O), [Mosey](https://open.spotify.com/artist/3HzwQ0PpRbsyKSzFMXobLJ) | [Leather Free Seats \(Mosey Remix\)](https://open.spotify.com/album/4Aehq0oOw4WgMeWEaOr36R) | 2:58 |
 | 9 | [MY MIND \- Duarte Remix](https://open.spotify.com/track/6BEAYuiyGLW1qEzwROV26G) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1), [Duarte](https://open.spotify.com/artist/11ofEe58zrex8X5NBbWhsk) | [MY MIND \(Duarte Remix\)](https://open.spotify.com/album/6dOb32eRDgw7APDZ6REMPj) | 4:26 |
 | 10 | [Shiver & Gold](https://open.spotify.com/track/3N71XPi2XVIuIMSrrsy8fB) | [Imanos](https://open.spotify.com/artist/26fsavNxrXVdRK7wL3jZKb) | [Shiver & Gold](https://open.spotify.com/album/5o7cXm5Xm6KMkltlPzBDIW) | 3:34 |

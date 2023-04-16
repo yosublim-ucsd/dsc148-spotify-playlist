@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Thailand.
 
-590 songs - 1 day 10 hr 40 min
+591 songs - 1 day 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -493,7 +493,7 @@
 | [ฟีโรโมน](https://open.spotify.com/track/03Pc18Z9L1n2LcyBb6SKZ1) | [BlackHeart](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV), [2TFLOW](https://open.spotify.com/artist/5gPpLgNHI1brQiqNmgN5bd) | [ฟีโรโมน](https://open.spotify.com/album/0dpdzEeWNDE626rNHpKiuH) | 3:40 | 2022-02-01 | 2022-07-03 |
 | [มีปัญหาปรึกษาดาว](https://open.spotify.com/track/4YxaxRxi8lFZdAWS9nCmAn) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [มีปัญหาปรึกษาดาว](https://open.spotify.com/album/2Xt4DOcKSz4DZfB1cKsZAo) | 3:58 | 2021-04-30 | 2021-09-10 |
 | [ยิ่งใกล้ยิ่งเก็บ](https://open.spotify.com/track/1GcLstNhtKD1c60tPGxYcH) | [I HATE MONDAY](https://open.spotify.com/artist/4bZFk69BTd1y2IsxIjO35M), [feat\. AUTTA](https://open.spotify.com/artist/4rVLBFI2QUVzXq4h4jzUFj) | [ยิ่งใกล้ยิ่งเก็บ \(feat\. AUTTA\)](https://open.spotify.com/album/3yeiECYxzfsMV77YsDVDnY) | 3:39 | 2021-05-03 | 2021-07-22 |
-| [ยิ้มทั้งน้ำตา](https://open.spotify.com/track/1m1aNI4vjnwmrxateBIXgK) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ยิ้มทั้งน้ำตา](https://open.spotify.com/album/0gGRJrAvSjPI4U2mf0D0Hd) | 4:45 | 2023-03-10 |  |
+| [ยิ้มทั้งน้ำตา](https://open.spotify.com/track/1m1aNI4vjnwmrxateBIXgK) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ยิ้มทั้งน้ำตา](https://open.spotify.com/album/0gGRJrAvSjPI4U2mf0D0Hd) | 4:45 | 2023-03-10 | 2023-04-16 |
 | [รสหวาน](https://open.spotify.com/track/2Ab1HQjbMcqHY3TkTycrYr) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [ท้องฟ้าจำลอง](https://open.spotify.com/album/5x8QUkAqNR1sV93J3XdVPr) | 4:53 | 2023-02-11 |  |
 | [รักแท้ \- True Love \(เพลงจากละคร คุณชาย\)](https://open.spotify.com/track/5m9iZ0wLgpbSBwVW62AZvf) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [รักแท้ \- True Love \(เพลงจากละคร คุณชาย\)](https://open.spotify.com/album/6MOTJiGfu8jW9yjSVBcwm3) | 3:35 | 2022-10-01 | 2023-04-15 |
 | [รู้กันแค่นี้ \- mint](https://open.spotify.com/track/6ck9dK5Wh0lZvvBsX49HZD) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [รู้กันแค่นี้ \(mint\)](https://open.spotify.com/album/3qyFShIWhPpf4lgxZ1EaWE) | 3:36 | 2023-02-16 | 2023-04-14 |
@@ -580,6 +580,7 @@
 | [โต๊ะริม \- melt](https://open.spotify.com/track/60ZuPJ8kseTn6isqhyxpCi) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [Cigarette Candy & Vanilla Sky](https://open.spotify.com/album/0WgyERgiBxZTMyzpZbv0Mu) | 4:07 | 2022-08-02 |  |
 | [โลกคู่ขนาน](https://open.spotify.com/track/3A1tAv6J87HqjFhUZ3LHNi) | [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [โลกคู่ขนาน](https://open.spotify.com/album/1ax89fjEDQYz5ukVXpjCFk) | 4:40 | 2022-05-15 | 2022-10-04 |
 | [ใครเพื่อนแก](https://open.spotify.com/track/47WfK6QKlLwIOxJaonJ3bA) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [เศร้าศาสตร์](https://open.spotify.com/album/1C45xLNvMc8HqJD5jHEP4q) | 4:08 | 2022-12-15 |  |
+| [ใจลอย](https://open.spotify.com/track/3MIVadmVbWGZR0VzNceGt1) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [ใจลอย](https://open.spotify.com/album/0qmKBO8NsxqowXTbcXpSiG) | 3:17 | 2023-04-15 |  |
 | [ใจหายอ่ะ สงสัยอยู่ที่เธอ \- AirTag](https://open.spotify.com/track/1pFNuRW1pWWrDvw3d6HFfR) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7) | [ใจหายอ่ะ สงสัยอยู่ที่เธอ \(AirTag\)](https://open.spotify.com/album/2Y7LL9rhInVW0YH5uK0hMY) | 3:18 | 2022-04-09 | 2022-07-26 |
 | [ใจเกเร](https://open.spotify.com/track/0rDzLlocH57yvez6q3fSWK) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [ใจเกเร](https://open.spotify.com/album/06nVVnuo262M0lNw7PwlIQ) | 3:48 | 2022-06-02 | 2022-09-12 |
 | [ไดโนเสาร์ไข่ดาวปาจังกี้](https://open.spotify.com/track/7e285rnQ9CFxZaMmEtMuwG) | [THEMOONWILLALWAYSBEWITHME](https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz) | [ไดโนเสาร์ไข่ดาวปาจังกี้](https://open.spotify.com/album/2lByhjQW64vPra5SUV3AFI) | 3:45 | 2022-07-11 | 2022-07-17 |

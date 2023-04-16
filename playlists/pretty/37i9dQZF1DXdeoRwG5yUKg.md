@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 
 > Soulful, bluesy ballads\. Cover: The War and Treaty
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,799 likes - 97 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,825 likes - 97 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

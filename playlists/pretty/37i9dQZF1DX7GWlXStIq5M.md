@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 
 > Os hits já consagrados e os novos nomes do pop dividindo o mesmo palco!   / Foto: Priscilla Alcantara
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,346 likes - 81 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,447 likes - 81 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

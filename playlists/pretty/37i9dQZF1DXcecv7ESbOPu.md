@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,209 likes - 118 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,241 likes - 118 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 40 | [Don't Give Up](https://open.spotify.com/track/7AGMaD98w28eaNh2639jD2) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Don't Give Up](https://open.spotify.com/album/2XZMNStMl0nxjQ3LYdNboK) | 2:46 |
 | 41 | [Say It To Me](https://open.spotify.com/track/7t7ozrjWAqQPyvBZPoVbdQ) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8) | [Say It To Me](https://open.spotify.com/album/5Hmf5zuiJv54jvkureLeiW) | 4:02 |
 | 42 | [Worship You](https://open.spotify.com/track/2rfZyAX6wZxQWMQ9GYyLIu) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Worship You](https://open.spotify.com/album/1hQiBI8EdaW5dR4gja8w7f) | 2:58 |
-| 43 | [Do U Want Me Baby? \(feat\. Elphi\)](https://open.spotify.com/track/392tWI7KlzCkP2bmAOOqzS) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82), [Elphi](https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY) | [Do U Want Me Baby? \(feat\. Elphi\)](https://open.spotify.com/album/2okBYRPFzRqd6Ex5M5F34Y) | 2:22 |
+| 43 | [Do U Want Me Baby? \(feat\. Elphi\)](https://open.spotify.com/track/392tWI7KlzCkP2bmAOOqzS) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82), [Elphi](https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY) | [Do U Want Me Baby? \(feat\. Elphi\)](https://open.spotify.com/album/2okBYRPFzRqd6Ex5M5F34Y) | 2:23 |
 | 44 | [Only One](https://open.spotify.com/track/02vGi2rNDdy77ACQUG3rhC) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi), [NYAROL](https://open.spotify.com/artist/378ilmifyE7FfICFkwlAD7) | [Only One](https://open.spotify.com/album/5VA3TCtSnQQrwA85SY3kT3) | 2:51 |
 | 45 | [All Alone](https://open.spotify.com/track/3ORLYx06Pyb0oHbgn6KB6d) | [The Waked](https://open.spotify.com/artist/1D953gELvYO8pd1hxk5swV), [Teck Noir](https://open.spotify.com/artist/38YJI7lbvZiO9nvcjHqUtE) | [All Alone](https://open.spotify.com/album/6E8o2GRha8ymN5aw9u8zLv) | 2:49 |
 | 46 | [Round 2](https://open.spotify.com/track/3zIU7arseZc1XXoI9Ag0Qc) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Round 2](https://open.spotify.com/album/4KprDOfUTn4yf1f3AMKnab) | 2:20 |
@@ -118,7 +118,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 108 | [THERAPY](https://open.spotify.com/track/49Lbka7DlfHkooF7ZIkQl2) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [THERAPY](https://open.spotify.com/album/13pHhMjxP0rRnWm7o0CZHw) | 2:06 |
 | 109 | [Chrome Hearted \(feat\. Tyga\)](https://open.spotify.com/track/7xNgrfKL4Ih82SbJIU9S1q) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Chrome Hearted \(feat\. Tyga\)](https://open.spotify.com/album/5vrfdCvUGoxtqXBeGnY5qQ) | 2:33 |
 | 110 | [Lessons](https://open.spotify.com/track/5xyqfAbWfT6kLJ7WbtbQIJ) | [Pi’erre Bourne](https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M) | [Grails](https://open.spotify.com/album/0k3SQoikUmoeJYd6yxZlSt) | 3:09 |
-| 111 | [Get Busy With It](https://open.spotify.com/track/0BBgVqwEyC8gUPeAPwa7lj) | [Conducta](https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn), [Novelist](https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc) | [Get Busy With It](https://open.spotify.com/album/3VzCxoStC9s1XH2CtPqH10) | 3:06 |
+| 111 | [Get Busy With It \(feat\. Novelist\)](https://open.spotify.com/track/0BBgVqwEyC8gUPeAPwa7lj) | [Conducta](https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn), [Novelist](https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc) | [Get Busy With It \(feat\. Novelist\)](https://open.spotify.com/album/3VzCxoStC9s1XH2CtPqH10) | 3:06 |
 | 112 | [BFF ∞](https://open.spotify.com/track/0nQJwGu6N7yMeXrmoqgkKp) | [sonic girl](https://open.spotify.com/artist/31vO4IuGYTlzTeEPIVw8TR) | [BFF ∞](https://open.spotify.com/album/7xgkkeop4nr5w3L3vR3jsl) | 1:59 |
 | 113 | [Begin Again \- Single Edit](https://open.spotify.com/track/36CGnEiFk8rGx0R14aW1Dw) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Begin Again](https://open.spotify.com/album/5uvyLKCk0xALxoSlBEzP21) | 3:37 |
 | 114 | [stranger](https://open.spotify.com/track/08eP2utJXPSZ4rhRJTgYJ8) | [Isac Halldin](https://open.spotify.com/artist/3DvEEc12DMy5peHWgSw2UF), [Salty Licorice](https://open.spotify.com/artist/6ipya2KPF19iwpylWPCHZs) | [stranger](https://open.spotify.com/album/7ipfDWlzsSKI6oN71W3vN1) | 2:31 |

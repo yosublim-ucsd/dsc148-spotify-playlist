@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 165053,
       "name": "Ashtray Heart",
       "url": "https://open.spotify.com/track/3jUXDyGRhU0y4IUdtjUVMU"
@@ -128,6 +128,24 @@
       "duration_ms": 111040,
       "name": "Broken Bricks",
       "url": "https://open.spotify.com/track/1kw5Mr19smLQWlZPzJkLCL"
+    },
+    {
+      "album": {
+        "name": "Elephant (Deluxe)",
+        "url": "https://open.spotify.com/album/6CcC2RiYVSTsxI73d4lEeB"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170013,
+      "name": "Cannon / Party Of Special Things to Do - Live at The Aragon Ballroom, July 2, 2003",
+      "url": "https://open.spotify.com/track/7e0KsgQMDmxpeNLLtZKy6x"
     },
     {
       "album": {

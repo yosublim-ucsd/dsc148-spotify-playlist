@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37pZLd58ED5.md) - [plain]
 
 > Solo beat e rime avvolgenti\. Cover: Tedua
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,502 likes - 60 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,632 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

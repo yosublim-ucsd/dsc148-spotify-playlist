@@ -344,7 +344,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-15",
+      "date_removed": null,
       "duration_ms": 298825,
       "name": "Aftermath",
       "url": "https://open.spotify.com/track/6kjEZNcvRZZW1h4E6x8HJD"
@@ -2901,7 +2901,7 @@
     },
     {
       "album": {
-        "name": "From Hell with Love",
+        "name": "From Hell With Love",
         "url": "https://open.spotify.com/album/3aT1PLgA6MomsX7MMlNRHr"
       },
       "artists": [
@@ -2914,7 +2914,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 194838,
-      "name": "Die by the Blade",
+      "name": "Die By The Blade",
       "url": "https://open.spotify.com/track/53h1ZSLWi8hVWF9DWKNXVh"
     },
     {
@@ -3919,7 +3919,7 @@
     },
     {
       "album": {
-        "name": "From Hell with Love",
+        "name": "From Hell With Love",
         "url": "https://open.spotify.com/album/3aT1PLgA6MomsX7MMlNRHr"
       },
       "artists": [
@@ -3932,7 +3932,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 235295,
-      "name": "From Hell with Love",
+      "name": "From Hell With Love",
       "url": "https://open.spotify.com/track/3iKSyNDGzJ3FcjXoDKqehS"
     },
     {
@@ -4020,7 +4020,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 310026,
       "name": "Gateways",
       "url": "https://open.spotify.com/track/5JxyDHWj4XMRgvuRzWd9JK"

@@ -1,12 +1,12 @@
 {
   "description": "The official 2020 VMAs playlist from MTV + Spotify. See more at <a href=\"http://www.mtv.com/vma\">vma.mtv.com</a> \ud83d\ude80",
-  "num_followers": 105109,
+  "num_followers": 105108,
   "original_name": "MTV VMAs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5ODMwNzU2OSwwMDAwMDAwMDVkZTE3YmMzMWRiZDZiNTEyNmU1NDRhMGQ4NTc1Zjdi",
+  "snapshot_id": "MTU5ODMwNzU2OSwwMDAwMDAwMGNhNTRhMTJjZDdkNjYyODhiMGIzZjU1NWM2NTE2NTk4",
   "tracks": [
     {
       "added_at": "2020-08-24 22:19:29",
@@ -275,22 +275,22 @@
     {
       "added_at": "2020-08-24 22:19:29",
       "album": {
-        "name": "Tusa",
-        "url": "https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F"
+        "name": "Life Is Good (feat. Drake)",
+        "url": "https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         },
         {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 200960,
-      "name": "Tusa",
-      "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
+      "duration_ms": 237735,
+      "name": "Life Is Good (feat. Drake)",
+      "url": "https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"
     },
     {
       "added_at": "2020-08-24 22:19:29",
@@ -311,22 +311,22 @@
     {
       "added_at": "2020-08-24 22:19:29",
       "album": {
-        "name": "Life Is Good (feat. Drake)",
-        "url": "https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl"
+        "name": "Tusa",
+        "url": "https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F"
       },
       "artists": [
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         },
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 237735,
-      "name": "Life Is Good (feat. Drake)",
-      "url": "https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"
+      "duration_ms": 200960,
+      "name": "Tusa",
+      "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
     },
     {
       "added_at": "2020-08-24 22:19:29",
@@ -395,22 +395,6 @@
     {
       "added_at": "2020-08-24 22:19:29",
       "album": {
-        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
-        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 168839,
-      "name": "all the good girls go to hell",
-      "url": "https://open.spotify.com/track/6IRdLKIyS4p7XNiP8r6rsx"
-    },
-    {
-      "added_at": "2020-08-24 22:19:29",
-      "album": {
         "name": "China",
         "url": "https://open.spotify.com/album/1PTTAq0OxggVgqP5WTYWDh"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 301714,
       "name": "China",
       "url": "https://open.spotify.com/track/2ksOAxtIxY8yElEWw8RhgK"
+    },
+    {
+      "added_at": "2020-08-24 22:19:29",
+      "album": {
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 168839,
+      "name": "all the good girls go to hell",
+      "url": "https://open.spotify.com/track/6IRdLKIyS4p7XNiP8r6rsx"
     },
     {
       "added_at": "2020-08-24 22:19:29",
@@ -483,22 +483,6 @@
     {
       "added_at": "2020-08-24 22:19:29",
       "album": {
-        "name": "Toosie Slide",
-        "url": "https://open.spotify.com/album/3xIwVbGJuAcovYIhzbLO3J"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 247058,
-      "name": "Toosie Slide",
-      "url": "https://open.spotify.com/track/127QTOFJsJQp5LbJbu3A1y"
-    },
-    {
-      "added_at": "2020-08-24 22:19:29",
-      "album": {
         "name": "What A Man Gotta Do",
         "url": "https://open.spotify.com/album/3SgvmlSsTrMuqICaOTlo0p"
       },
@@ -515,18 +499,18 @@
     {
       "added_at": "2020-08-24 22:19:29",
       "album": {
-        "name": "Harleys In Hawaii",
-        "url": "https://open.spotify.com/album/30UjBkRwwBeCdspCGPBB8V"
+        "name": "Toosie Slide",
+        "url": "https://open.spotify.com/album/3xIwVbGJuAcovYIhzbLO3J"
       },
       "artists": [
         {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 185815,
-      "name": "Harleys In Hawaii",
-      "url": "https://open.spotify.com/track/5nCthAh3jt4xKuLJAifAaR"
+      "duration_ms": 247058,
+      "name": "Toosie Slide",
+      "url": "https://open.spotify.com/track/127QTOFJsJQp5LbJbu3A1y"
     },
     {
       "added_at": "2020-08-24 22:19:29",
@@ -547,6 +531,22 @@
       "duration_ms": 182200,
       "name": "Rain On Me (with Ariana Grande)",
       "url": "https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu"
+    },
+    {
+      "added_at": "2020-08-24 22:19:29",
+      "album": {
+        "name": "Harleys In Hawaii",
+        "url": "https://open.spotify.com/album/30UjBkRwwBeCdspCGPBB8V"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 185815,
+      "name": "Harleys In Hawaii",
+      "url": "https://open.spotify.com/track/5nCthAh3jt4xKuLJAifAaR"
     },
     {
       "added_at": "2020-08-24 22:19:29",

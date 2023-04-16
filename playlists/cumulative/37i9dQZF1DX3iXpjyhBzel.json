@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Aline Barros",
+  "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Fernandinho",
   "name": "Louvor & Adora\u00e7\u00e3o",
   "tracks": [
     {
@@ -173,6 +173,28 @@
     },
     {
       "album": {
+        "name": "Altar (Altar) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/4tH5BOcwod8VYIfL4UNp0L"
+      },
+      "artists": [
+        {
+          "name": "Juliano Son",
+          "url": "https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408720,
+      "name": "Altar (Altar) - Ao Vivo",
+      "url": "https://open.spotify.com/track/1443AAE4jcmn2muyV34s2h"
+    },
+    {
+      "album": {
         "name": "Al\u00edvio",
         "url": "https://open.spotify.com/album/2hOdw9Pcm4J5ROCiQKm9Nr"
       },
@@ -202,7 +224,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 404383,
       "name": "Anseio Ardente - Ao Vivo",
       "url": "https://open.spotify.com/track/3AcVl7SE6owh7okU2oQBUQ"
@@ -960,7 +982,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 229759,
       "name": "Espera S\u00f3 Mais um Pouquinho",
       "url": "https://open.spotify.com/track/41NtlFmWQgIDWXv6mSgNrf"
@@ -1022,7 +1044,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 240000,
       "name": "Ess\u00eancia da Adora\u00e7\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/2NVOSlLVgrsgD2Vugz4J03"
@@ -1279,6 +1301,42 @@
     },
     {
       "album": {
+        "name": "Preto No Branco Vertical (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0u5htebXaNt7pw6TtQHZ5X"
+      },
+      "artists": [
+        {
+          "name": "Preto no Branco",
+          "url": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380218,
+      "name": "Glorificamos - Ao Vivo",
+      "url": "https://open.spotify.com/track/7MxHxlNl5F2KHaihS92CJ7"
+    },
+    {
+      "album": {
+        "name": "\u00danico (Live)",
+        "url": "https://open.spotify.com/album/1lOiNzzfdghtwLHhr2Jikh"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379514,
+      "name": "Jeov\u00e1 - Live",
+      "url": "https://open.spotify.com/track/65vz0dGp7fzWp9nXN1COS5"
+    },
+    {
+      "album": {
         "name": "Jeov\u00e1 Jireh",
         "url": "https://open.spotify.com/album/2wfiFaBmVcK8aJ4BHYQHse"
       },
@@ -1483,6 +1541,28 @@
     },
     {
       "album": {
+        "name": "Meu Pai Governa",
+        "url": "https://open.spotify.com/album/44Kj6i5tPowBzt2QJ8ZMce"
+      },
+      "artists": [
+        {
+          "name": "Arthur Callazans",
+          "url": "https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS"
+        },
+        {
+          "name": "Sarah Beatriz",
+          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452000,
+      "name": "Meu Pai Governa",
+      "url": "https://open.spotify.com/track/1HyP1gEk4yLdtxkwOf8Li5"
+    },
+    {
+      "album": {
         "name": "Minha Calmaria",
         "url": "https://open.spotify.com/album/7yEu4W8HFWye8SXWakWNeJ"
       },
@@ -1546,7 +1626,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 330200,
       "name": "Na Casa - Ao Vivo",
       "url": "https://open.spotify.com/track/1dgxAD9MgYOm5lLrmskGLP"
@@ -1604,7 +1684,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 267142,
       "name": "No Secreto",
       "url": "https://open.spotify.com/track/5jBDl0t9QF4hHkElNCbmsg"
@@ -1760,6 +1840,24 @@
       "duration_ms": 281000,
       "name": "O Deus dos Pequeninos",
       "url": "https://open.spotify.com/track/4kwrcCpp5QjKWrh6gkMncq"
+    },
+    {
+      "album": {
+        "name": "O Grande Eu Sou",
+        "url": "https://open.spotify.com/album/62QQniKZ3Sw4SAR2s6Er89"
+      },
+      "artists": [
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388600,
+      "name": "O Grande Eu Sou",
+      "url": "https://open.spotify.com/track/4bvgiKYPehGp4OUSflTPTt"
     },
     {
       "album": {
@@ -2246,7 +2344,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 275260,
       "name": "Sangue de Jesus",
       "url": "https://open.spotify.com/track/7DxTA3yeeE2X3OVBcvai5m"
@@ -2442,7 +2540,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 341962,
       "name": "Sol da Justi\u00e7a",
       "url": "https://open.spotify.com/track/0M6CaZejftGPBvx9S0aQiD"
@@ -3011,6 +3109,24 @@
     },
     {
       "album": {
+        "name": "Onde o Fogo N\u00e3o Apaga (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7kBqgrErxLl6crYHNwauFY"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366461,
+      "name": "Yeshua (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6v81JSXJisSLcxoRNJiW6n"
+    },
+    {
+      "album": {
         "name": "\u00c1guas Purificadoras",
         "url": "https://open.spotify.com/album/2LXgzRBHXBx8K1SiUOtczX"
       },
@@ -3102,6 +3218,24 @@
       "duration_ms": 403538,
       "name": "\u00c9s o Amor - Ao Vivo",
       "url": "https://open.spotify.com/track/1GCcCDFgvbWkvoV0p63GzE"
+    },
+    {
+      "album": {
+        "name": "\u00danico (Live)",
+        "url": "https://open.spotify.com/album/1lOiNzzfdghtwLHhr2Jikh"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419280,
+      "name": "\u00danico - Live",
+      "url": "https://open.spotify.com/track/00E2KxBwL0B3idGMJcRoEh"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3iXpjyhBzel"

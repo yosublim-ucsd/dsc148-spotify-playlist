@@ -1,12 +1,12 @@
 {
   "description": "deep & dark. bold & bare. cover: Samia",
-  "num_followers": 252604,
+  "num_followers": 252650,
   "original_name": "noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIzNTIwMCwwMDAwMDAwMDVmMWFjYTkwMmU0Yjc0NTM5ODA5NGM2ZTFlNWUzNTZj",
+  "snapshot_id": "MTY4MDIzNTIwMCwwMDAwMDAwMDM4ZDAzMzk5ODEyOTdlMjJlNjBiMGI5OTliMTQxODVm",
   "tracks": [
     {
       "added_at": "2023-03-31 04:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Are We There",
-        "url": "https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 290613,
-      "name": "Tarifa",
-      "url": "https://open.spotify.com/track/5rm0BXilbprpZiBFFJgiFu"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "untitled",
         "url": "https://open.spotify.com/album/4Xweu1d5gXbscOXhIRMLUT"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 225640,
       "name": "untitled",
       "url": "https://open.spotify.com/track/4foKnVvnAHmQYbONUcbgkK"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Are We There",
+        "url": "https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 290613,
+      "name": "Tarifa",
+      "url": "https://open.spotify.com/track/5rm0BXilbprpZiBFFJgiFu"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "Unmoved (A Black Woman Truth)",
+        "url": "https://open.spotify.com/album/1UMLyY1xxIresXTsh6PtL3"
+      },
+      "artists": [
+        {
+          "name": "Ayoni",
+          "url": "https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6"
+        }
+      ],
+      "duration_ms": 256451,
+      "name": "Unmoved (A Black Woman Truth)",
+      "url": "https://open.spotify.com/track/2zmLkPOV4Y3NTwh5P6gM51"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Pick Apart",
         "url": "https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO"
       },
@@ -1323,18 +1339,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Unmoved (A Black Woman Truth)",
-        "url": "https://open.spotify.com/album/1UMLyY1xxIresXTsh6PtL3"
+        "name": "To Enjoy Is the Only Thing",
+        "url": "https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E"
       },
       "artists": [
         {
-          "name": "Ayoni",
-          "url": "https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6"
+          "name": "Maple Glider",
+          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
         }
       ],
-      "duration_ms": 256451,
-      "name": "Unmoved (A Black Woman Truth)",
-      "url": "https://open.spotify.com/track/2zmLkPOV4Y3NTwh5P6gM51"
+      "duration_ms": 252413,
+      "name": "Swimming",
+      "url": "https://open.spotify.com/track/3iRzlevHgHqYyEi15CRIOQ"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1355,18 +1371,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "To Enjoy Is the Only Thing",
-        "url": "https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E"
+        "name": "Still Life",
+        "url": "https://open.spotify.com/album/4pHFtbFFyiccsHgu1NvKQq"
       },
       "artists": [
         {
-          "name": "Maple Glider",
-          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
+          "name": "Humbird",
+          "url": "https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB"
         }
       ],
-      "duration_ms": 252413,
-      "name": "Swimming",
-      "url": "https://open.spotify.com/track/3iRzlevHgHqYyEi15CRIOQ"
+      "duration_ms": 238515,
+      "name": "May",
+      "url": "https://open.spotify.com/track/6HahXy57PZHiHTFdSCrW7U"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1399,22 +1415,6 @@
       "duration_ms": 174465,
       "name": "It's Infinite",
       "url": "https://open.spotify.com/track/6lOHvNgGKFK0HVzSu4HEca"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Still Life",
-        "url": "https://open.spotify.com/album/4pHFtbFFyiccsHgu1NvKQq"
-      },
-      "artists": [
-        {
-          "name": "Humbird",
-          "url": "https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB"
-        }
-      ],
-      "duration_ms": 238515,
-      "name": "May",
-      "url": "https://open.spotify.com/track/6HahXy57PZHiHTFdSCrW7U"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "Lincoln, Nebraska",
+        "url": "https://open.spotify.com/album/7i0yanefGAo38sxISoem4B"
+      },
+      "artists": [
+        {
+          "name": "Humbird",
+          "url": "https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB"
+        }
+      ],
+      "duration_ms": 143674,
+      "name": "Lincoln, Nebraska",
+      "url": "https://open.spotify.com/track/3pEs3UIsXoLC75O66Uc31M"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Porcupine",
         "url": "https://open.spotify.com/album/4xctRCSg1b1K9D25NvO9L5"
       },
@@ -1527,6 +1543,22 @@
       "duration_ms": 304773,
       "name": "I'm Too Smart",
       "url": "https://open.spotify.com/track/3cHUgy2YScaImqEk8ovZBz"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Kitchen Table",
+        "url": "https://open.spotify.com/album/7zTtcqJ0SCAXuiALhxNEi0"
+      },
+      "artists": [
+        {
+          "name": "Molly Parden",
+          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
+        }
+      ],
+      "duration_ms": 208800,
+      "name": "Kitchen Table",
+      "url": "https://open.spotify.com/track/1XxLV1Ag179JlXq1gwICcl"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1583,22 +1615,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Lincoln, Nebraska",
-        "url": "https://open.spotify.com/album/7i0yanefGAo38sxISoem4B"
-      },
-      "artists": [
-        {
-          "name": "Humbird",
-          "url": "https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB"
-        }
-      ],
-      "duration_ms": 143674,
-      "name": "Lincoln, Nebraska",
-      "url": "https://open.spotify.com/track/3pEs3UIsXoLC75O66Uc31M"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Soft Drop",
         "url": "https://open.spotify.com/album/6Uw2NnSBTN9FSotz6NBfcB"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 285760,
       "name": "We Cannot Resist",
       "url": "https://open.spotify.com/track/068ZytZuPeqoSgaffebBVD"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Kitchen Table",
-        "url": "https://open.spotify.com/album/7zTtcqJ0SCAXuiALhxNEi0"
-      },
-      "artists": [
-        {
-          "name": "Molly Parden",
-          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
-        }
-      ],
-      "duration_ms": 208800,
-      "name": "Kitchen Table",
-      "url": "https://open.spotify.com/track/1XxLV1Ag179JlXq1gwICcl"
     },
     {
       "added_at": "2023-03-31 04:00:00",

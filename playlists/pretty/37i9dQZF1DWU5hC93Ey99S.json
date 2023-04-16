@@ -1,12 +1,12 @@
 {
   "description": "\"What in the stutter/rainy/tremolo house list did I just create??\"",
-  "num_followers": 2853,
+  "num_followers": 2909,
   "original_name": "Emotional Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQyNjgwMCwwMDAwMDAwMGI5NDY5ZTFiYjhmZGFmYjU0YjIxY2QzNDJkOWQ2NGI5",
+  "snapshot_id": "MTY4MTQyNjgwMCwwMDAwMDAwMDk2N2M1YTNmODY0Mjc0ODczN2NjYzc4ZDM2MTcyMjU1",
   "tracks": [
     {
       "added_at": "2023-04-13 23:00:00",
@@ -367,6 +367,30 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
+        "name": "What You Do To Me",
+        "url": "https://open.spotify.com/album/35Mc0p9KECg2XVfy1287pR"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "Madism",
+          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
+        },
+        {
+          "name": "Adam Woods",
+          "url": "https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc"
+        }
+      ],
+      "duration_ms": 154209,
+      "name": "What You Do To Me",
+      "url": "https://open.spotify.com/track/74Sk5cVfVNhfKY9S7hDqrp"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
         "name": "Lost My Mind (Wake Up)",
         "url": "https://open.spotify.com/album/3sHc1hZu6UZ63wgnqqUjDw"
       },
@@ -403,46 +427,18 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "What You Do To Me",
-        "url": "https://open.spotify.com/album/35Mc0p9KECg2XVfy1287pR"
+        "name": "We Don\u2019t Ever Stop",
+        "url": "https://open.spotify.com/album/0ZrhY3h9Flf23MIl5udSTV"
       },
       "artists": [
         {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "Madism",
-          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
-        },
-        {
-          "name": "Adam Woods",
-          "url": "https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc"
+          "name": "Tom Santa",
+          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
         }
       ],
-      "duration_ms": 154209,
-      "name": "What You Do To Me",
-      "url": "https://open.spotify.com/track/74Sk5cVfVNhfKY9S7hDqrp"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
-        "name": "Need U (feat. Madishu)",
-        "url": "https://open.spotify.com/album/7lXXoVekBjvjj728xk93Ty"
-      },
-      "artists": [
-        {
-          "name": "MOONBOY",
-          "url": "https://open.spotify.com/artist/16r05v3b8WwDS2TYRSlBCm"
-        },
-        {
-          "name": "Madishu",
-          "url": "https://open.spotify.com/artist/3tQg7VPp1T879q1AE4yIM2"
-        }
-      ],
-      "duration_ms": 206341,
-      "name": "Need U (feat. Madishu)",
-      "url": "https://open.spotify.com/track/2AWWbN4ZDWaUMgOqxpsk4n"
+      "duration_ms": 160638,
+      "name": "We Don't Ever Stop",
+      "url": "https://open.spotify.com/track/7tzsbAE9Md4tr8MAbK4h5i"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -471,18 +467,22 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "We Don\u2019t Ever Stop",
-        "url": "https://open.spotify.com/album/0ZrhY3h9Flf23MIl5udSTV"
+        "name": "Need U (feat. Madishu)",
+        "url": "https://open.spotify.com/album/7lXXoVekBjvjj728xk93Ty"
       },
       "artists": [
         {
-          "name": "Tom Santa",
-          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
+          "name": "MOONBOY",
+          "url": "https://open.spotify.com/artist/16r05v3b8WwDS2TYRSlBCm"
+        },
+        {
+          "name": "Madishu",
+          "url": "https://open.spotify.com/artist/3tQg7VPp1T879q1AE4yIM2"
         }
       ],
-      "duration_ms": 160638,
-      "name": "We Don't Ever Stop",
-      "url": "https://open.spotify.com/track/7tzsbAE9Md4tr8MAbK4h5i"
+      "duration_ms": 206341,
+      "name": "Need U (feat. Madishu)",
+      "url": "https://open.spotify.com/track/2AWWbN4ZDWaUMgOqxpsk4n"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -643,6 +643,26 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
+        "name": "There's Another Life 4 U / So Long",
+        "url": "https://open.spotify.com/album/5VwbMyHjQ1hPcIHnEEvTKa"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        },
+        {
+          "name": "Origami Human",
+          "url": "https://open.spotify.com/artist/6vOoZCnNiawjGeViOSoY1t"
+        }
+      ],
+      "duration_ms": 227624,
+      "name": "So Long",
+      "url": "https://open.spotify.com/track/0PFqyFI62E0nTjIcBdhHPD"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
         "name": "Pearls (SILK Remix)",
         "url": "https://open.spotify.com/album/3yo2oAvILNLiOcmswEzYfr"
       },
@@ -683,22 +703,54 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "There's Another Life 4 U / So Long",
-        "url": "https://open.spotify.com/album/5VwbMyHjQ1hPcIHnEEvTKa"
+        "name": "Need Somebody (Icarus Remix)",
+        "url": "https://open.spotify.com/album/5ZmEZhwaAUEkkkhRUhGUFM"
       },
       "artists": [
         {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+          "name": "BONNIE X CLYDE",
+          "url": "https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r"
         },
         {
-          "name": "Origami Human",
-          "url": "https://open.spotify.com/artist/6vOoZCnNiawjGeViOSoY1t"
+          "name": "Icarus",
+          "url": "https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3"
         }
       ],
-      "duration_ms": 227624,
-      "name": "So Long",
-      "url": "https://open.spotify.com/track/0PFqyFI62E0nTjIcBdhHPD"
+      "duration_ms": 284003,
+      "name": "Need Somebody (Icarus Remix)",
+      "url": "https://open.spotify.com/track/42Axq8KVKQLestbSsQG1Qe"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Little Love",
+        "url": "https://open.spotify.com/album/793CKt4Qo8QvaOx2uWkhst"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 263891,
+      "name": "Wasted On You",
+      "url": "https://open.spotify.com/track/3HSf2e7s5Q9WQO16biu4U4"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Her",
+        "url": "https://open.spotify.com/album/5tLg7FOM4rHctSrbPMun95"
+      },
+      "artists": [
+        {
+          "name": "Montee",
+          "url": "https://open.spotify.com/artist/2rgFqpsqtoEJGOr0JzFxtG"
+        }
+      ],
+      "duration_ms": 211024,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/2EMLyx9QTYPDa9GNCxhAqz"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -723,42 +775,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Little Love",
-        "url": "https://open.spotify.com/album/793CKt4Qo8QvaOx2uWkhst"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 263891,
-      "name": "Wasted On You",
-      "url": "https://open.spotify.com/track/3HSf2e7s5Q9WQO16biu4U4"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
-        "name": "Need Somebody (Icarus Remix)",
-        "url": "https://open.spotify.com/album/5ZmEZhwaAUEkkkhRUhGUFM"
-      },
-      "artists": [
-        {
-          "name": "BONNIE X CLYDE",
-          "url": "https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r"
-        },
-        {
-          "name": "Icarus",
-          "url": "https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3"
-        }
-      ],
-      "duration_ms": 284003,
-      "name": "Need Somebody (Icarus Remix)",
-      "url": "https://open.spotify.com/track/42Axq8KVKQLestbSsQG1Qe"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Tell Me",
         "url": "https://open.spotify.com/album/1jPgrvTG7bG5VLWTxIaUDd"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 181000,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/5o5tFFa10RqTWPsGXnL6uj"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
-        "name": "Her",
-        "url": "https://open.spotify.com/album/5tLg7FOM4rHctSrbPMun95"
-      },
-      "artists": [
-        {
-          "name": "Montee",
-          "url": "https://open.spotify.com/artist/2rgFqpsqtoEJGOr0JzFxtG"
-        }
-      ],
-      "duration_ms": 211024,
-      "name": "Her",
-      "url": "https://open.spotify.com/track/2EMLyx9QTYPDa9GNCxhAqz"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -839,6 +839,38 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
+        "name": "Say It To Me",
+        "url": "https://open.spotify.com/album/5Hmf5zuiJv54jvkureLeiW"
+      },
+      "artists": [
+        {
+          "name": "Otto Knows",
+          "url": "https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8"
+        }
+      ],
+      "duration_ms": 242076,
+      "name": "Say It To Me",
+      "url": "https://open.spotify.com/track/7t7ozrjWAqQPyvBZPoVbdQ"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Nothing Is Easy EP",
+        "url": "https://open.spotify.com/album/4nm8MRARxw1YRlVX8m2BBW"
+      },
+      "artists": [
+        {
+          "name": "Jengi",
+          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
+        }
+      ],
+      "duration_ms": 191328,
+      "name": "Nothing Is Easy",
+      "url": "https://open.spotify.com/track/5iKzJujKsuWtQcZ1JqrRIH"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
         "name": "Radio (SILK Remix)",
         "url": "https://open.spotify.com/album/1ccpjciLT1hr63qZpj9ZPA"
       },
@@ -875,38 +907,6 @@
       "duration_ms": 214527,
       "name": "Need You",
       "url": "https://open.spotify.com/track/5HWybXhMxw8W8t0sUPysxf"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
-        "name": "What If",
-        "url": "https://open.spotify.com/album/3exQ4HL1e66YnZGd2bYNgz"
-      },
-      "artists": [
-        {
-          "name": "ATRIP",
-          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
-        }
-      ],
-      "duration_ms": 205217,
-      "name": "What If",
-      "url": "https://open.spotify.com/track/3vseyNLwyEmY8iRs1Jji4N"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
-        "name": "Hollow",
-        "url": "https://open.spotify.com/album/1zbkU3kuZLIZ0c4kYypI56"
-      },
-      "artists": [
-        {
-          "name": "MAFRO",
-          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
-        }
-      ],
-      "duration_ms": 276367,
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/1mNxu2fyZJ8eND2WzddSIg"
     }
   ],
   "unique_name": "Emotional Dance",

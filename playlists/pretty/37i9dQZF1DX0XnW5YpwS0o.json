@@ -1,12 +1,12 @@
 {
   "description": "2016 highlights from the home of indie music.",
-  "num_followers": 64258,
+  "num_followers": 64359,
   "original_name": "Best of Indie 2016",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTIxNzE0NiwwMDAwMDAwMDJlNWFmNTYyMjY0NzlmY2UwYjU3ZTBlZmY2Mzc5YTFh",
+  "snapshot_id": "MTY0MTIxNzE0NiwwMDAwMDAwMGY2YzI2NGNkYzUwMDM3ZWZjYzdlZDU5NzNlMTkxZDU2",
   "tracks": [
     {
       "added_at": "2021-09-22 14:36:46",
@@ -575,22 +575,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Citizen of Glass",
-        "url": "https://open.spotify.com/album/78BjMfLH8YUXM6hbodHKmA"
-      },
-      "artists": [
-        {
-          "name": "Agnes Obel",
-          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
-        }
-      ],
-      "duration_ms": 235988,
-      "name": "Familiar",
-      "url": "https://open.spotify.com/track/2EWnKuspetOzgfBtmaNZvJ"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "Everything You've Come To Expect (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6q1ZuWCnYTQb7KhXHZo947"
       },
@@ -607,34 +591,18 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "A Moon Shaped Pool",
-        "url": "https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg"
+        "name": "Citizen of Glass",
+        "url": "https://open.spotify.com/album/78BjMfLH8YUXM6hbodHKmA"
       },
       "artists": [
         {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+          "name": "Agnes Obel",
+          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
         }
       ],
-      "duration_ms": 283463,
-      "name": "True Love Waits",
-      "url": "https://open.spotify.com/track/07XaOyTS5hyaWiUK1Bc3bR"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
-        "name": "A/B",
-        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 377000,
-      "name": "I Can't Go on Without You",
-      "url": "https://open.spotify.com/track/1dX6oGAG5PaexuPj29PsYd"
+      "duration_ms": 235988,
+      "name": "Familiar",
+      "url": "https://open.spotify.com/track/2EWnKuspetOzgfBtmaNZvJ"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -655,18 +623,34 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "All My Demons Greeting Me as a Friend (Deluxe)",
-        "url": "https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf"
+        "name": "A/B",
+        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
       },
       "artists": [
         {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
         }
       ],
-      "duration_ms": 194760,
-      "name": "Running with the Wolves",
-      "url": "https://open.spotify.com/track/6qMMJiCtrlHmxGyFUStff8"
+      "duration_ms": 377000,
+      "name": "I Can't Go on Without You",
+      "url": "https://open.spotify.com/track/1dX6oGAG5PaexuPj29PsYd"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "A Moon Shaped Pool",
+        "url": "https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 283463,
+      "name": "True Love Waits",
+      "url": "https://open.spotify.com/track/07XaOyTS5hyaWiUK1Bc3bR"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -683,6 +667,22 @@
       "duration_ms": 187013,
       "name": "Daft Pretty Boys",
       "url": "https://open.spotify.com/track/41d2Q6DHcM20OdzynkRtvf"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "All My Demons Greeting Me as a Friend (Deluxe)",
+        "url": "https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 194760,
+      "name": "Running with the Wolves",
+      "url": "https://open.spotify.com/track/6qMMJiCtrlHmxGyFUStff8"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -807,22 +807,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Light Upon the Lake",
-        "url": "https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv"
-      },
-      "artists": [
-        {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
-        }
-      ],
-      "duration_ms": 237973,
-      "name": "No Woman",
-      "url": "https://open.spotify.com/track/5KPXcfXaGOaWUqOHLDXFRP"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "I See You",
         "url": "https://open.spotify.com/album/6Zw6NKh3oIUhDRMOyBmsUU"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 224133,
       "name": "On Hold",
       "url": "https://open.spotify.com/track/5w3CRkbTWXfbYepIdFpGUN"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "Light Upon the Lake",
+        "url": "https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "duration_ms": 237973,
+      "name": "No Woman",
+      "url": "https://open.spotify.com/track/5KPXcfXaGOaWUqOHLDXFRP"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Shadowboxer",
-        "url": "https://open.spotify.com/album/1lozs5nIWjppJZWFEnfGlV"
-      },
-      "artists": [
-        {
-          "name": "Mansionair",
-          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
-        }
-      ],
-      "duration_ms": 272680,
-      "name": "Easier",
-      "url": "https://open.spotify.com/track/59yTEzjOYeugvF9WKAvONs"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "MY WOMAN",
         "url": "https://open.spotify.com/album/3CHcldbsbrBOOlw8cnLpNm"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 202200,
       "name": "Shut Up Kiss Me",
       "url": "https://open.spotify.com/track/3EEr6l5PYelwkrvvKX7N0X"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "Shadowboxer",
+        "url": "https://open.spotify.com/album/1lozs5nIWjppJZWFEnfGlV"
+      },
+      "artists": [
+        {
+          "name": "Mansionair",
+          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
+        }
+      ],
+      "duration_ms": 272680,
+      "name": "Easier",
+      "url": "https://open.spotify.com/track/59yTEzjOYeugvF9WKAvONs"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Our Own House",
-        "url": "https://open.spotify.com/album/726GB3GTBwPdsGr5XzOQbz"
-      },
-      "artists": [
-        {
-          "name": "MisterWives",
-          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
-        }
-      ],
-      "duration_ms": 232186,
-      "name": "Our Own House",
-      "url": "https://open.spotify.com/track/3QzbEvmnuZIONNv82PylZb"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "saintmotelevision",
         "url": "https://open.spotify.com/album/43URJ507cdoIRy3GJdfxjs"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 187893,
       "name": "Move",
       "url": "https://open.spotify.com/track/4vuJuTLFomqItDrn482nzV"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "Our Own House",
+        "url": "https://open.spotify.com/album/726GB3GTBwPdsGr5XzOQbz"
+      },
+      "artists": [
+        {
+          "name": "MisterWives",
+          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+        }
+      ],
+      "duration_ms": 232186,
+      "name": "Our Own House",
+      "url": "https://open.spotify.com/track/3QzbEvmnuZIONNv82PylZb"
     },
     {
       "added_at": "2021-09-22 14:36:46",

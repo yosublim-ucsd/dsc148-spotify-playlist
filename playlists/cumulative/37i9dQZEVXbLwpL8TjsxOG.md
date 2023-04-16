@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-580 songs - 1 day 10 hr 52 min
+581 songs - 1 day 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,7 +185,7 @@
 | [Light Switch](https://open.spotify.com/track/1BSMpVGWs3v5BZKnAQziAc) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Light Switch](https://open.spotify.com/album/6PBwTu4IgZMQNTKtrgxzZQ) | 3:05 | 2022-01-22 | 2022-02-06 |
 | [Light Switch](https://open.spotify.com/track/3AVXwaOGCEL8cmBecfcsFJ) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Light Switch \(Instrumental\)](https://open.spotify.com/album/4RRj9PqBj79OFDB2ydM7qs) | 3:05 | 2022-02-05 | 2022-05-02 |
 | [Like Crazy](https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 | 2023-03-26 |  |
-| [Like Crazy \(English Version\)](https://open.spotify.com/track/0u8rZGtXJrLtiSe34FPjGG) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 | 2023-03-25 |  |
+| [Like Crazy \(English Version\)](https://open.spotify.com/track/0u8rZGtXJrLtiSe34FPjGG) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 | 2023-03-25 | 2023-04-16 |
 | [LILAC](https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:34 | 2021-03-27\* | 2021-04-22 |
 | [Lips](https://open.spotify.com/track/0dRSOmb7pqkkmjXCu5BYbe) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:01 | 2023-04-12 | 2023-04-14 |
 | [LOCO](https://open.spotify.com/track/59c0HrzmHfyQs6LgDw5cHe) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/3Pr7XlWzWnX9enSVZXuPKh) | 3:11 | 2021-09-27 | 2021-10-17 |
@@ -249,12 +249,12 @@
 | [Overkill](https://open.spotify.com/track/7eBbC3r09nQKx3EPU476Wt) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [Overkill](https://open.spotify.com/album/6sV3xFKHrCX5P5TB8lJ9IO) | 3:18 | 2022-11-29 | 2022-12-24 |
 | [Overpass Graffiti](https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:56 | 2021-10-31 | 2021-11-12 |
 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 | 2021-03-27\* | 2021-10-23 |
-| [People Pt.2 \(feat\. IU\)](https://open.spotify.com/track/4EaQ0ouIydfeAgQUz284EF) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [People Pt.2 \(feat\. IU\)](https://open.spotify.com/album/1l12B55qdesQorPcQLJDRo) | 3:33 | 2023-04-08 |  |
+| [People Pt.2 \(feat\. IU\)](https://open.spotify.com/track/4EaQ0ouIydfeAgQUz284EF) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [People Pt.2 \(feat\. IU\)](https://open.spotify.com/album/1l12B55qdesQorPcQLJDRo) | 3:33 | 2023-04-08 | 2023-04-16 |
 | [Permission to Dance](https://open.spotify.com/track/0LThjFY2iTtNdd4wviwVV2) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter / Permission to Dance](https://open.spotify.com/album/1iLUfFVZF8bltkBkONumgG) | 3:07 | 2021-07-11 | 2021-07-25 |
 | [Permission to Dance](https://open.spotify.com/track/5eXBXreN3d1zdj6Sa8dS0u) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Permission to Dance](https://open.spotify.com/album/6oLwgqPJrxnTibrzawDGqY) | 3:07 | 2021-07-25 | 2021-09-01 |
 | [Pink Ocean](https://open.spotify.com/track/0w8p2STLgLE2VIVYUzAszZ) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [Greatest Works of Art](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 3:06 | 2022-07-16 | 2022-07-20 |
 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-20 | 2022-09-18 |
-| [Pink Venom](https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:06 | 2022-09-17 | 2023-04-15 |
+| [Pink Venom](https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:06 | 2022-09-17 |  |
 | [POP!](https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 2:48 | 2022-06-25 | 2022-06-27 |
 | [POP!](https://open.spotify.com/track/5rJ7bdPmr8nfmm2JQ8xHOz) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/7yePounUspaQfanDsw6nI0) | 2:48 | 2022-06-26 | 2022-07-16 |
 | [QUEEN](https://open.spotify.com/track/5PimlePLQd8xdf7uKccHqS) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [SABINA之淚](https://open.spotify.com/album/5Pw6K47tHMJzjlyMqqF0yf) | 2:43 | 2021-09-01 | 2021-09-06 |
@@ -452,6 +452,7 @@
 | [愛情值日生](https://open.spotify.com/track/0ZXAnDoI4IDVab7Tg760Uh) | [Error](https://open.spotify.com/artist/6lhZDlPnfVWXxJUr9eVfEJ) | [愛情值日生](https://open.spotify.com/album/2OQ6GqUTwZSrwSlYEvPHoE) | 4:00 | 2022-02-19 | 2022-05-28 |
 | [懷舊金曲之夜](https://open.spotify.com/track/2jxqkUylLlJl7p45bFbH9u) | [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [懷舊金曲之夜](https://open.spotify.com/album/6ev7ivUUzC1DRhFzeg9RoV) | 3:49 | 2023-02-15 |  |
 | [我不如](https://open.spotify.com/track/0uAW2j0sLBHVr3Gs9IGIqf) | [Mike 曾比特](https://open.spotify.com/artist/33oY0RTyXAMYBM6QSImuo7) | [我不如](https://open.spotify.com/album/6duDqjjDQ7RDxN4aL7FSjA) | 3:36 | 2021-04-26 | 2022-03-21 |
+| [我不是神,我只是平凡卻直拗愛著你的人](https://open.spotify.com/track/1XkaiiA1izzcVhVuhB532l) | [Yoga Lin](https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2) | [我不是神,我只是平凡卻直拗愛著你的人](https://open.spotify.com/album/7BMCjQbDoNCetLD5sZnKFL) | 4:59 | 2023-04-15 |  |
 | [我不是邱比特](https://open.spotify.com/track/3wELjotjK7vdWGYD7G9s6z) | [Mike 曾比特](https://open.spotify.com/artist/33oY0RTyXAMYBM6QSImuo7) | [我不是邱比特](https://open.spotify.com/album/5PR6jwqIR8MXBu0Xs6FJnh) | 4:02 | 2021-07-12 | 2021-10-31 |
 | [我不是邱比特 \- 合唱版](https://open.spotify.com/track/2TPOTSNzJKfVRN39ALLZbw) | [Mike 曾比特](https://open.spotify.com/artist/33oY0RTyXAMYBM6QSImuo7), [JC 陳詠桐](https://open.spotify.com/artist/757epCpvbpqyBoMMzbIC3g) | [我不是邱比特 \(合唱版\)](https://open.spotify.com/album/2zEMj01nJpqJ5Ilsztc1QU) | 4:02 | 2021-07-17 | 2022-04-19 |
 | [我也難過的](https://open.spotify.com/track/3kQvyf0lMEpcn0xGWM1blY) | [吳林峰](https://open.spotify.com/artist/7vUVBbfIykXkc668JoZI5P), [謝芊彤](https://open.spotify.com/artist/75X1AosgRNJ3OkpcrDS8TP) | [我也難過的](https://open.spotify.com/album/5NjBK5wSTAX9a2BbtBDKZ4) | 4:38 | 2022-05-25 | 2022-06-07 |

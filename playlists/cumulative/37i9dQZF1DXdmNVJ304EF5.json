@@ -582,10 +582,28 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 256333,
       "name": "No Sleep Tonight",
       "url": "https://open.spotify.com/track/0kkvGHFs7oTdfItBF4n1hW"
+    },
+    {
+      "album": {
+        "name": "Common Dreads",
+        "url": "https://open.spotify.com/album/0Y9wwArjVhEGBR9ptMSwvC"
+      },
+      "artists": [
+        {
+          "name": "Enter Shikari",
+          "url": "https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256453,
+      "name": "No Sleep Tonight",
+      "url": "https://open.spotify.com/track/7t87sUN9PulbbAvF7Uxajd"
     },
     {
       "album": {

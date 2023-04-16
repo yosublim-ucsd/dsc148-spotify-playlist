@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HaZQk.md) - [plain]
 
 > This is Natalia Lafourcade\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,147 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,314 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HaZQk.md) - [plain]
 | 16 | [Que la Vida Vale](https://open.spotify.com/track/4SDPTQRh2WvydrhBTAmdt1) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Que la Vida Vale](https://open.spotify.com/album/3WnKgNvbPDs3TxizVPYH9J) | 3:10 |
 | 17 | [Ya No Vivo por Vivir \(feat\. Natalia Lafourcade\)](https://open.spotify.com/track/1vGTXll8t4co7lsSXy80x4) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [50 Años de Ser el Divo de Juárez](https://open.spotify.com/album/2ZbkfkpptOqfiWgMGeQC1y) | 6:14 |
 | 18 | [Remember Me \(Dúo\)](https://open.spotify.com/track/3pCgIUkmRHKydu9HE03QKY) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 2:44 |
-| 19 | [Para Qué Sufrir](https://open.spotify.com/track/4nehxVflg443IcjhsqpfEG) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:46 |
-| 20 | [Remamos](https://open.spotify.com/track/2mtmUkZBBPehTwrAp05VGv) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Contra el Viento](https://open.spotify.com/album/16nUcmZoEneQGzyvqpXrGr) | 3:51 |
+| 19 | [Remamos](https://open.spotify.com/track/2mtmUkZBBPehTwrAp05VGv) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Contra el Viento](https://open.spotify.com/album/16nUcmZoEneQGzyvqpXrGr) | 3:51 |
+| 20 | [Para Qué Sufrir](https://open.spotify.com/track/4nehxVflg443IcjhsqpfEG) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:46 |
 | 21 | [María \(with Natalia Lafourcade\) \- Directo Primera Fila](https://open.spotify.com/track/0xiI5ZeP6mUbem9onslgtK) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Primera Fila](https://open.spotify.com/album/7pC1BMjl8x5Yr60xX2tyZh) | 4:01 |
 | 22 | [Mamita \(feat\. Natalia Lafourcade\)](https://open.spotify.com/track/4YU0xHroexMt4ohhPVbKla) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [RawayanaLand](https://open.spotify.com/album/3Qxc69fEzxQpVni3yfu5UD) | 4:27 |
 | 23 | [Que Nadie Sepa Mi Sufrir \(with Natalia Lafourcade\)](https://open.spotify.com/track/5jy5rt0KuI9jfEps9K3wxz) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Grandes Éxitos de las Sonoras, Con la Más Grande, La Sonora Santanera](https://open.spotify.com/album/5Gir03Fy6IXYvsdE1G3WfZ) | 4:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HaZQk.md) - [plain]
 | 49 | [Mujer Divina \(with Adrián Dárgelos\)](https://open.spotify.com/track/5Q2bP4QKyM7nOPju1QVZiZ) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Adrian Dargelos](https://open.spotify.com/artist/4F55zi79SZIr5PPOLTJ6cg) | [Mujer Divina \- Homenaje a Agustín Lara](https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh) | 3:29 |
 | 50 | [Salvavidas de hielo \(feat\. Natalia Lafourcade\)](https://open.spotify.com/track/70LZISLWsPXGBn1bpJuYAU) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Salvavidas de hielo](https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0) | 3:29 |
 
-Snapshot ID: `MjgwMjQ4NTIsMDAwMDAwMDBjOGYzN2M3YjhjNjc3OTkwN2U1YzJlMGRiYzRhMjIyNg==`
+Snapshot ID: `MjgwMjYwMzIsMDAwMDAwMDAxZGEzYWE1MGQxMTA2MzhiY2UxY2JjOTRlYjMzZTg3ZA==`

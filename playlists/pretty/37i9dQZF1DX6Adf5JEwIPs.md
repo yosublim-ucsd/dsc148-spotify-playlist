@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo nuevo de la Música Mexicana\. Cover:  Ivan Orozco & Jaziel Avilez
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,218 likes - 52 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,278 likes - 52 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

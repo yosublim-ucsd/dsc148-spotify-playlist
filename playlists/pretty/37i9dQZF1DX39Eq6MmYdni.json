@@ -1,12 +1,12 @@
 {
   "description": "Everything in Texas is best! Lo que suena in the Lone Star state. Cover: Grupo Frontera & Luis R Conriquez",
-  "num_followers": 4420,
+  "num_followers": 4531,
   "original_name": "Rompiendo: Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI0Nzc1MCwwMDAwMDAwMGRhODczMzM5ZWQ3MzlhMWNkYjFiZDA0MGZhZjFmMmRm",
+  "snapshot_id": "MTY4MDI0Nzc1MCwwMDAwMDAwMGJiNjQ3YjM3YzNkMTg5MzkxZDk0ZTNmZTM2ZmMzNDQ1",
   "tracks": [
     {
       "added_at": "2023-03-31 07:29:10",
@@ -335,26 +335,6 @@
     {
       "added_at": "2023-03-31 07:29:10",
       "album": {
-        "name": "Di Que Si",
-        "url": "https://open.spotify.com/album/5YFKVLWDPKkm94RWatZu9e"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 190553,
-      "name": "Di Que Si",
-      "url": "https://open.spotify.com/track/0kzN7YAMSbmlHOvxlbQW9y"
-    },
-    {
-      "added_at": "2023-03-31 07:29:10",
-      "album": {
         "name": "Siempre Pendientes",
         "url": "https://open.spotify.com/album/3ri7jQpYUr63gKKyoihGCN"
       },
@@ -371,6 +351,26 @@
       "duration_ms": 186828,
       "name": "Siempre Pendientes",
       "url": "https://open.spotify.com/track/3gfSH9aYZbyGjdmbeoWliw"
+    },
+    {
+      "added_at": "2023-03-31 07:29:10",
+      "album": {
+        "name": "Di Que Si",
+        "url": "https://open.spotify.com/album/5YFKVLWDPKkm94RWatZu9e"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 190553,
+      "name": "Di Que Si",
+      "url": "https://open.spotify.com/track/0kzN7YAMSbmlHOvxlbQW9y"
     },
     {
       "added_at": "2023-03-31 07:29:10",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-03-31 07:29:10",
       "album": {
+        "name": "Tirando la H",
+        "url": "https://open.spotify.com/album/7uyYaGMsVlUEF0Uc10zyod"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 119333,
+      "name": "Tirando la H",
+      "url": "https://open.spotify.com/track/0SLnqaBaYLFH3ncId7ClCU"
+    },
+    {
+      "added_at": "2023-03-31 07:29:10",
+      "album": {
         "name": "Sin Parar",
         "url": "https://open.spotify.com/album/6RCOTMBvh5h0bcrpbyk1WS"
       },
@@ -755,18 +771,18 @@
     {
       "added_at": "2023-03-31 07:29:10",
       "album": {
-        "name": "Tirando la H",
-        "url": "https://open.spotify.com/album/7uyYaGMsVlUEF0Uc10zyod"
+        "name": "Corridos y Sentimientos (Vol 2)",
+        "url": "https://open.spotify.com/album/0ywgnvhlgNb1zDnUCewG0s"
       },
       "artists": [
         {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
         }
       ],
-      "duration_ms": 119333,
-      "name": "Tirando la H",
-      "url": "https://open.spotify.com/track/0SLnqaBaYLFH3ncId7ClCU"
+      "duration_ms": 130250,
+      "name": "Y Es Que Contigo",
+      "url": "https://open.spotify.com/track/1x87m5qOQDngRadEcIPVhX"
     },
     {
       "added_at": "2023-03-31 07:29:10",
@@ -791,22 +807,6 @@
     {
       "added_at": "2023-03-31 07:29:10",
       "album": {
-        "name": "Corridos y Sentimientos (Vol 2)",
-        "url": "https://open.spotify.com/album/0ywgnvhlgNb1zDnUCewG0s"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 130250,
-      "name": "Y Es Que Contigo",
-      "url": "https://open.spotify.com/track/1x87m5qOQDngRadEcIPVhX"
-    },
-    {
-      "added_at": "2023-03-31 07:29:10",
-      "album": {
         "name": "Nivelado",
         "url": "https://open.spotify.com/album/7wet6Vo8IdfH2gMzp19HBF"
       },
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-03-31 07:29:10",
       "album": {
-        "name": "First Of The Year",
-        "url": "https://open.spotify.com/album/1mgwNlzi9VzFcE1Qd4Xj86"
+        "name": "De Cuando Ac\u00e1",
+        "url": "https://open.spotify.com/album/05RvA9U5fT5ojjzH91W5Ki"
       },
       "artists": [
         {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+          "name": "La Energia Nortena",
+          "url": "https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp"
         }
       ],
-      "duration_ms": 170873,
-      "name": "First Of The Year",
-      "url": "https://open.spotify.com/track/7ijipCHwLo0ZoABNxm2qp6"
+      "duration_ms": 178474,
+      "name": "De Cuando Ac\u00e1",
+      "url": "https://open.spotify.com/track/2sZ9VjimnCq5JrLPR0GUui"
     },
     {
       "added_at": "2023-03-31 07:29:10",
@@ -859,18 +859,34 @@
     {
       "added_at": "2023-03-31 07:29:10",
       "album": {
-        "name": "De Cuando Ac\u00e1",
-        "url": "https://open.spotify.com/album/05RvA9U5fT5ojjzH91W5Ki"
+        "name": "First Of The Year",
+        "url": "https://open.spotify.com/album/1mgwNlzi9VzFcE1Qd4Xj86"
       },
       "artists": [
         {
-          "name": "La Energia Nortena",
-          "url": "https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp"
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
         }
       ],
-      "duration_ms": 178474,
-      "name": "De Cuando Ac\u00e1",
-      "url": "https://open.spotify.com/track/2sZ9VjimnCq5JrLPR0GUui"
+      "duration_ms": 170873,
+      "name": "First Of The Year",
+      "url": "https://open.spotify.com/track/7ijipCHwLo0ZoABNxm2qp6"
+    },
+    {
+      "added_at": "2023-03-31 07:29:10",
+      "album": {
+        "name": "Cumbias Light, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 188736,
+      "name": "Por las Ma\u00f1anas - En Vivo",
+      "url": "https://open.spotify.com/track/1mC0IjF8C77C819QVzPNQf"
     },
     {
       "added_at": "2023-03-31 07:29:10",
@@ -891,22 +907,6 @@
       "duration_ms": 197647,
       "name": "Nena Ven",
       "url": "https://open.spotify.com/track/2a9jv3CXsBaW6sZoXEeOrk"
-    },
-    {
-      "added_at": "2023-03-31 07:29:10",
-      "album": {
-        "name": "Cumbias Light, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 188736,
-      "name": "Por las Ma\u00f1anas - En Vivo",
-      "url": "https://open.spotify.com/track/1mC0IjF8C77C819QVzPNQf"
     },
     {
       "added_at": "2023-03-31 07:29:10",

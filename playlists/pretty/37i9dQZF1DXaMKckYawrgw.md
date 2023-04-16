@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 
 > Ska 100% hecho en México con chilito del que pica\. La Tremenda Korte en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,971 likes - 107 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,973 likes - 107 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 | 52 | [Algo De Suerte](https://open.spotify.com/track/2u8cFYHuAXvLlbxCEkb7ED) | [Sonora Skandalera](https://open.spotify.com/artist/0uks9zgvJkFeg8Weapt3ac) | [Sonora Skandalera](https://open.spotify.com/album/6VsKLBwxtU6pFYzlk0os4n) | 4:14 |
 | 53 | [Ruperta](https://open.spotify.com/track/5fFWruyNL7FZL1nLrkCTcM) | [Sekta Core](https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc) | [Morbo's Club](https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v) | 4:09 |
 | 54 | [Me cambiaste la vida](https://open.spotify.com/track/0ryQ6jI5uGf8oymICMTpRH) | [Melodycans](https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF) | [Una cosa es el ska y otra cosa es el rocksteady](https://open.spotify.com/album/6O50zOjFZO8TeOxE9IfUBs) | 3:29 |
-| 55 | [Cumbia Feminista](https://open.spotify.com/track/7M2mgKUSxmjHumNkwpjN2d) | [Las Decapitadas](https://open.spotify.com/artist/0NEkSiH8k5fTu30jlK2UdQ) | [Cumbia Feminista](https://open.spotify.com/album/51CRWf9nKbj5OWlKLudBuZ) | 3:53 |
+| 55 | [Como un Minuto](https://open.spotify.com/track/4AO65tvVdVNVUwH3TSt4Az) | [Skaterrestres](https://open.spotify.com/artist/6DPMHNkqHRSvsxYxzbDEpO) | [Invasion](https://open.spotify.com/album/778rPdFwvmW6CItfpQph1d) | 0:57 |
 | 56 | [No Hemos Muerto](https://open.spotify.com/track/6r6qsNxpxO75px7lsH3VXn) | [Royal Club](https://open.spotify.com/artist/6nvwIE7PkdPwNx48i5scxu) | [15 Años de Fuerza, Corazón y Resistencia](https://open.spotify.com/album/3HJqnp5b9tcTOYGcYkX4nu) | 3:29 |
 | 57 | [Nana Punk](https://open.spotify.com/track/5z4NEn8aaE25kxcE3LORdQ) | [Nana Pancha](https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK) | [Armada Hasta los Dientes V 1.5](https://open.spotify.com/album/3mcGUxLcbiPvIrVkXQ4XK9) | 2:12 |
 | 58 | [Y la Recuerdo de Ayer](https://open.spotify.com/track/30qRh0j4htHrsroySiDh57) | [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt) | [La Rebelión](https://open.spotify.com/album/5Iw7dSyJDgnSZGKYHl6gTL) | 4:31 |
-| 59 | [Como un Minuto](https://open.spotify.com/track/4AO65tvVdVNVUwH3TSt4Az) | [Skaterrestres](https://open.spotify.com/artist/6DPMHNkqHRSvsxYxzbDEpO) | [Invasion](https://open.spotify.com/album/778rPdFwvmW6CItfpQph1d) | 0:57 |
+| 59 | [Cumbia Feminista](https://open.spotify.com/track/7M2mgKUSxmjHumNkwpjN2d) | [Las Decapitadas](https://open.spotify.com/artist/0NEkSiH8k5fTu30jlK2UdQ) | [Cumbia Feminista](https://open.spotify.com/album/51CRWf9nKbj5OWlKLudBuZ) | 3:53 |
 | 60 | [Manifiesto del Pinguino Asesino](https://open.spotify.com/track/7FwHzFdpM0eMMtK1cVlAvx) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [Salon Victoria](https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o) | 3:10 |
 | 61 | [Si Te Vas](https://open.spotify.com/track/7LTDgxW0Wkl0lZOq4Z5fOZ) | [Sonora Skandalera](https://open.spotify.com/artist/0uks9zgvJkFeg8Weapt3ac) | [Sonora Skandalera](https://open.spotify.com/album/6VsKLBwxtU6pFYzlk0os4n) | 6:00 |
 | 62 | [Marichú](https://open.spotify.com/track/269LeYy1CgAmIEAcQF4RHi) | [Los Korucos](https://open.spotify.com/artist/1Akvcd38yi7M2q6Z0HWlgx) | [De Todo Tengo Señor](https://open.spotify.com/album/3hvT6HiskpLzcwgXIpjhJz) | 2:30 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 | 91 | [La Ultima Noche](https://open.spotify.com/track/4RG7LZHHzZZQw73EPGoS9n) | [Pachecos Orchestra](https://open.spotify.com/artist/4hPssieu35ERaNP3dcKuoR) | [La Ultima Noche](https://open.spotify.com/album/25dU9mgaLoyFQBC3crluDT) | 4:08 |
 | 92 | [Amargo Adiós](https://open.spotify.com/track/4mQwxVqjcHdUEfwSWEOopx) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Video Rola](https://open.spotify.com/album/68LCD69EOv3P1Pdk8OI4Ew) | 3:49 |
 | 93 | [Te He Prometido](https://open.spotify.com/track/4iyecQDmyi2VmscbQVeabb) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 3:12 |
-| 94 | [Como Un Sol](https://open.spotify.com/track/3TDJAqSeDZheVTrPU7Ruui) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 4:17 |
-| 95 | [Sin Rencor](https://open.spotify.com/track/5XlcdeVwKUz0iZhPQTeh0c) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 3:52 |
+| 94 | [Sin Rencor](https://open.spotify.com/track/5XlcdeVwKUz0iZhPQTeh0c) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 3:52 |
+| 95 | [Como Un Sol](https://open.spotify.com/track/3TDJAqSeDZheVTrPU7Ruui) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 4:17 |
 | 96 | [La Rubia y el Demonio](https://open.spotify.com/track/4iBUoHT6aNcP4J883m49xU) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Compañeros Musicales](https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw) | 4:06 |
 | 97 | [Osito Dormilón \(feat\. Tony Hernandez El Gran Silencio\)](https://open.spotify.com/track/0AisSsUIcNNDPBFUuShQxr) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Tony Hernández El Gran Silencio](https://open.spotify.com/artist/2xyRb0bM3w9pGtRVYFjiS6) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 4:06 |
 | 98 | [Cúrame](https://open.spotify.com/track/2X8Dc7hJwv3gb9cCbgu1zH) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [A la Izquierda de la Tierra](https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd) | 3:41 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 | 106 | [Esta Noche](https://open.spotify.com/track/3k7QtSyXq3lbv51kaFwzMB) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Compañeros Musicales](https://open.spotify.com/album/6che3OFwfIG8KzJQ7IkwXc) | 3:25 |
 | 107 | [El Dejado](https://open.spotify.com/track/1SLeMtVgr6TJMmuPjCPgxv) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Los Skarnales](https://open.spotify.com/artist/0Fs8ncEYnVSmzepxUocr5n) | [A2Í 5Uena!, Vol 2](https://open.spotify.com/album/2Fbw8FPgMnce7PN46CAjNW) | 4:56 |
 
-Snapshot ID: `MTY4MDI0MjQwMCwwMDAwMDAwMDNiZjM3YTYxY2Y3ZTZlMjMwNThjMzYzZjlhZjUwMDg2`
+Snapshot ID: `MTY4MDI0MjQwMCwwMDAwMDAwMDJhNjVmZDU4YTI0NmRmZGY2MDhlMzA3MWFjNmY5MDY4`

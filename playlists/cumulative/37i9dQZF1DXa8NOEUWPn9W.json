@@ -1822,7 +1822,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 202524,
       "name": "Chromatic",
       "url": "https://open.spotify.com/track/3FcKnF4nEwGxlwdAmRIogh"
@@ -10046,6 +10046,32 @@
       "duration_ms": 325200,
       "name": "U Feel Mi - Kai Alce's New Feel",
       "url": "https://open.spotify.com/track/7kAWkF6EHSxR0lXmFJokYc"
+    },
+    {
+      "album": {
+        "name": "U Ok?",
+        "url": "https://open.spotify.com/album/7KXw7os5bHmyb1LtfBFDY7"
+      },
+      "artists": [
+        {
+          "name": "PARISI",
+          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
+        },
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        },
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154176,
+      "name": "U Ok?",
+      "url": "https://open.spotify.com/track/7eHBDsqfqOMyzMhtnhytNB"
     },
     {
       "album": {

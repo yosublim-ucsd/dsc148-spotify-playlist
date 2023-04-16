@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Dale buena onda c\u00e1lida y frutal a tu d\u00eda!",
-  "num_followers": 644274,
+  "num_followers": 644407,
   "original_name": "Vibra Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTUxOTI5OSwwMDAwMDAwMGFjZGI1MzYxOGMwMzIxMmYxZTA1NGFjZmIyOTViYmFj",
+  "snapshot_id": "MTY4MTUxOTI5OSwwMDAwMDAwMDc2N2IzM2MzZWU0Y2VjMzdlZTNkNzEwMzU2NjIyYzcw",
   "tracks": [
     {
       "added_at": "2022-05-09 03:43:40",
@@ -783,22 +783,6 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Black Catbird",
-        "url": "https://open.spotify.com/album/67ll9vOLmqydy8lrHVQFKo"
-      },
-      "artists": [
-        {
-          "name": "the Garifuna Collective",
-          "url": "https://open.spotify.com/artist/24OmLPZEq6dYiGJbPCAFVm"
-        }
-      ],
-      "duration_ms": 165593,
-      "name": "Black Catbird",
-      "url": "https://open.spotify.com/track/1CkGUqwaz1UfFSo2BmySGI"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
         "name": "chiquita suelta",
         "url": "https://open.spotify.com/album/5Hc9NaLoW5cXLRwxqxgxxL"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 160718,
       "name": "chiquita suelta",
       "url": "https://open.spotify.com/track/2tu1kkUvtloityaRwbSNZQ"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Black Catbird",
+        "url": "https://open.spotify.com/album/67ll9vOLmqydy8lrHVQFKo"
+      },
+      "artists": [
+        {
+          "name": "the Garifuna Collective",
+          "url": "https://open.spotify.com/artist/24OmLPZEq6dYiGJbPCAFVm"
+        }
+      ],
+      "duration_ms": 165593,
+      "name": "Black Catbird",
+      "url": "https://open.spotify.com/track/1CkGUqwaz1UfFSo2BmySGI"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -835,6 +835,26 @@
       "duration_ms": 221335,
       "name": "Aurora Dijo Adi\u00f3s",
       "url": "https://open.spotify.com/track/2Z82k4TZ7rLmyxrw8ApeQI"
+    },
+    {
+      "added_at": "2022-04-17 18:31:09",
+      "album": {
+        "name": "TANDEM",
+        "url": "https://open.spotify.com/album/1qm1yaOMS8Hhz4QS4aUB69"
+      },
+      "artists": [
+        {
+          "name": "Mit\u00fa",
+          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
+        },
+        {
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+        }
+      ],
+      "duration_ms": 170158,
+      "name": "SALTA",
+      "url": "https://open.spotify.com/track/3Jc8DUdZ1iX5FbYaKzKVh1"
     },
     {
       "added_at": "2022-04-01 06:20:39",
@@ -873,24 +893,20 @@
       "url": "https://open.spotify.com/track/6tsPTremXK46tOWQfgjQXx"
     },
     {
-      "added_at": "2022-04-17 18:31:09",
+      "added_at": "2022-02-18 18:50:25",
       "album": {
-        "name": "TANDEM",
-        "url": "https://open.spotify.com/album/1qm1yaOMS8Hhz4QS4aUB69"
+        "name": "Laura Itandehui",
+        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
       },
       "artists": [
         {
-          "name": "Mit\u00fa",
-          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
-        },
-        {
-          "name": "Ela Minus",
-          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+          "name": "Laura Itandehui",
+          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
         }
       ],
-      "duration_ms": 170158,
-      "name": "SALTA",
-      "url": "https://open.spotify.com/track/3Jc8DUdZ1iX5FbYaKzKVh1"
+      "duration_ms": 171750,
+      "name": "Yo no Necesito de Mucho",
+      "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
     },
     {
       "added_at": "2022-04-23 04:18:59",
@@ -923,22 +939,6 @@
       "duration_ms": 235435,
       "name": "Passarinha",
       "url": "https://open.spotify.com/track/0cLilijUD3FgmzYzV7UAug"
-    },
-    {
-      "added_at": "2022-02-18 18:50:25",
-      "album": {
-        "name": "Laura Itandehui",
-        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
-      },
-      "artists": [
-        {
-          "name": "Laura Itandehui",
-          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
-        }
-      ],
-      "duration_ms": 171750,
-      "name": "Yo no Necesito de Mucho",
-      "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1005,26 +1005,6 @@
       "url": "https://open.spotify.com/track/7v0WvqGq7auy99Nydgc6YJ"
     },
     {
-      "added_at": "2021-11-10 16:29:39",
-      "album": {
-        "name": "Bichota \u2013 Spotify Singles",
-        "url": "https://open.spotify.com/album/5FdT0wz3QPts6r1aJoWDgq"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 157666,
-      "name": "Bichota - Spotify Singles",
-      "url": "https://open.spotify.com/track/7tlPDub0mJRBkGA2VdTSAS"
-    },
-    {
       "added_at": "2021-10-20 20:06:54",
       "album": {
         "name": "Aloha",
@@ -1045,20 +1025,24 @@
       "url": "https://open.spotify.com/track/0GARcbxLIOmzrs0lHpuvmi"
     },
     {
-      "added_at": "2022-09-30 05:00:00",
+      "added_at": "2021-11-10 16:29:39",
       "album": {
-        "name": "Post Qu\u00edmica",
-        "url": "https://open.spotify.com/album/6ofvehgD9KHjywtwgIy7nR"
+        "name": "Bichota \u2013 Spotify Singles",
+        "url": "https://open.spotify.com/album/5FdT0wz3QPts6r1aJoWDgq"
       },
       "artists": [
         {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 188320,
-      "name": "Post Qu\u00edmica",
-      "url": "https://open.spotify.com/track/0NhUS4oQ8vQNaLgdQU6nRI"
+      "duration_ms": 157666,
+      "name": "Bichota - Spotify Singles",
+      "url": "https://open.spotify.com/track/7tlPDub0mJRBkGA2VdTSAS"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1085,20 +1069,20 @@
       "url": "https://open.spotify.com/track/5BeMNrGr9Wk3mDmf0DbQaA"
     },
     {
-      "added_at": "2023-02-09 18:14:43",
+      "added_at": "2022-09-30 05:00:00",
       "album": {
-        "name": "costas de coral",
-        "url": "https://open.spotify.com/album/3hQmxck36h07jfn8UEQLps"
+        "name": "Post Qu\u00edmica",
+        "url": "https://open.spotify.com/album/6ofvehgD9KHjywtwgIy7nR"
       },
       "artists": [
         {
-          "name": "Salom\u00f3n Beda",
-          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
         }
       ],
-      "duration_ms": 188841,
-      "name": "costas de coral",
-      "url": "https://open.spotify.com/track/258tAJYRrYUtcEgfHXNRAt"
+      "duration_ms": 188320,
+      "name": "Post Qu\u00edmica",
+      "url": "https://open.spotify.com/track/0NhUS4oQ8vQNaLgdQU6nRI"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1119,6 +1103,22 @@
       "duration_ms": 294499,
       "name": "Agua fr\u00eda",
       "url": "https://open.spotify.com/track/7CSebbAAlgMqngWpEkhBl5"
+    },
+    {
+      "added_at": "2023-02-09 18:14:43",
+      "album": {
+        "name": "costas de coral",
+        "url": "https://open.spotify.com/album/3hQmxck36h07jfn8UEQLps"
+      },
+      "artists": [
+        {
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
+        }
+      ],
+      "duration_ms": 188841,
+      "name": "costas de coral",
+      "url": "https://open.spotify.com/track/258tAJYRrYUtcEgfHXNRAt"
     },
     {
       "added_at": "2022-07-01 02:47:32",
@@ -1503,18 +1503,22 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Tengo Lo Que Tengo",
-        "url": "https://open.spotify.com/album/3cBPxSdXfF1BGajgGm2QtE"
+        "name": "Dividido",
+        "url": "https://open.spotify.com/album/2OygT6vALfqvnQD1heNxZC"
       },
       "artists": [
         {
-          "name": "Jimena Angel",
-          "url": "https://open.spotify.com/artist/1K0Pin4AUnN7GVGJaS7z0E"
+          "name": "Alex Cuba",
+          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
+        },
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 203664,
-      "name": "Tengo Lo Que Tengo",
-      "url": "https://open.spotify.com/track/21iJNBkKbsIwALHDEqiesL"
+      "duration_ms": 214777,
+      "name": "Dividido",
+      "url": "https://open.spotify.com/track/6EF2wGmHfnKSVjR3t6Ufwd"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1535,22 +1539,18 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Dividido",
-        "url": "https://open.spotify.com/album/2OygT6vALfqvnQD1heNxZC"
+        "name": "Tengo Lo Que Tengo",
+        "url": "https://open.spotify.com/album/3cBPxSdXfF1BGajgGm2QtE"
       },
       "artists": [
         {
-          "name": "Alex Cuba",
-          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
-        },
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+          "name": "Jimena Angel",
+          "url": "https://open.spotify.com/artist/1K0Pin4AUnN7GVGJaS7z0E"
         }
       ],
-      "duration_ms": 214777,
-      "name": "Dividido",
-      "url": "https://open.spotify.com/track/6EF2wGmHfnKSVjR3t6Ufwd"
+      "duration_ms": 203664,
+      "name": "Tengo Lo Que Tengo",
+      "url": "https://open.spotify.com/track/21iJNBkKbsIwALHDEqiesL"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1587,18 +1587,22 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Con la Fiesta a Cuestas",
-        "url": "https://open.spotify.com/album/3hQfz8GVtX9q71VAIm7kmR"
+        "name": "Ch'usay Remixes",
+        "url": "https://open.spotify.com/album/1RQV9i0gRL4QhR9lcZcvLl"
       },
       "artists": [
         {
-          "name": "Los Telep\u00e1ticos",
-          "url": "https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS"
+          "name": "Novalima",
+          "url": "https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI"
+        },
+        {
+          "name": "Captain Planet",
+          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
         }
       ],
-      "duration_ms": 196480,
-      "name": "Aguardiente",
-      "url": "https://open.spotify.com/track/6CpBRucGBV8c2ztigPg6C4"
+      "duration_ms": 207621,
+      "name": "Paso a Huella - Captain Planet Remix",
+      "url": "https://open.spotify.com/track/157GatsyJwcoaLGDD43duL"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1619,22 +1623,18 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Ch'usay Remixes",
-        "url": "https://open.spotify.com/album/1RQV9i0gRL4QhR9lcZcvLl"
+        "name": "Con la Fiesta a Cuestas",
+        "url": "https://open.spotify.com/album/3hQfz8GVtX9q71VAIm7kmR"
       },
       "artists": [
         {
-          "name": "Novalima",
-          "url": "https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI"
-        },
-        {
-          "name": "Captain Planet",
-          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
+          "name": "Los Telep\u00e1ticos",
+          "url": "https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS"
         }
       ],
-      "duration_ms": 207621,
-      "name": "Paso a Huella - Captain Planet Remix",
-      "url": "https://open.spotify.com/track/157GatsyJwcoaLGDD43duL"
+      "duration_ms": 196480,
+      "name": "Aguardiente",
+      "url": "https://open.spotify.com/track/6CpBRucGBV8c2ztigPg6C4"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
+        "name": "Gardenia",
+        "url": "https://open.spotify.com/album/1aUCzIb8C1558x8qlo2gjM"
+      },
+      "artists": [
+        {
+          "name": "Monogem",
+          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
+        }
+      ],
+      "duration_ms": 232160,
+      "name": "Para\u00edso",
+      "url": "https://open.spotify.com/track/2qtr6hH2mkhpV1yIY8i2la"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
         "name": "Bailemos en la Sala",
         "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
       },
@@ -1743,22 +1759,6 @@
       "duration_ms": 222000,
       "name": "Gar\u00faa (Sabor a Querer)",
       "url": "https://open.spotify.com/track/39jlkB93dZvtx8RG0Zkhdc"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "Gardenia",
-        "url": "https://open.spotify.com/album/1aUCzIb8C1558x8qlo2gjM"
-      },
-      "artists": [
-        {
-          "name": "Monogem",
-          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
-        }
-      ],
-      "duration_ms": 232160,
-      "name": "Para\u00edso",
-      "url": "https://open.spotify.com/track/2qtr6hH2mkhpV1yIY8i2la"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1875,6 +1875,22 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
+        "name": "Jungle Fire",
+        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
+      },
+      "artists": [
+        {
+          "name": "Jungle Fire",
+          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
+        }
+      ],
+      "duration_ms": 229080,
+      "name": "At\u00f3mico",
+      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
         "name": "Aguacate",
         "url": "https://open.spotify.com/album/1TArVEfPbbOXvsY84OuZBh"
       },
@@ -1891,34 +1907,22 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Jungle Fire",
-        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
+        "name": "Mojo",
+        "url": "https://open.spotify.com/album/0SMSBq8yQiGXqultNvsRWy"
       },
       "artists": [
         {
-          "name": "Jungle Fire",
-          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
-        }
-      ],
-      "duration_ms": 229080,
-      "name": "At\u00f3mico",
-      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
-    },
-    {
-      "added_at": "2022-10-27 23:00:16",
-      "album": {
-        "name": "Mi manera de querer",
-        "url": "https://open.spotify.com/album/0sNxXiClNbKVecxR0LaizG"
-      },
-      "artists": [
+          "name": "Caztro",
+          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
+        },
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Marissa Mur",
+          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
         }
       ],
-      "duration_ms": 233800,
-      "name": "Mi manera de querer",
-      "url": "https://open.spotify.com/track/4vf86rvT51NZtZHeLB1noi"
+      "duration_ms": 206284,
+      "name": "Mojo",
+      "url": "https://open.spotify.com/track/70NxnUV2P0uOus3V5eL9gs"
     }
   ],
   "unique_name": "Vibra Tropical",

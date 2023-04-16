@@ -476,7 +476,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 253586,
       "name": "505",
       "url": "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS"
@@ -3577,6 +3577,42 @@
     },
     {
       "album": {
+        "name": "Chemical",
+        "url": "https://open.spotify.com/album/6NoH5RUtjoh6ae2lJ9gWfq"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184004,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/4qzEjmuz380jeiBJp31oDY"
+    },
+    {
+      "album": {
+        "name": "Chemical",
+        "url": "https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184013,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
+    },
+    {
+      "album": {
         "name": "Christmas (Baby, Please Come Home)",
         "url": "https://open.spotify.com/album/3miX7IkmfMBJhQejq5rsA6"
       },
@@ -4574,6 +4610,24 @@
       "duration_ms": 187342,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/69w5X6uTrOaWM32IetSzvO"
+    },
+    {
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212953,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
     },
     {
       "album": {
@@ -9420,7 +9474,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
@@ -10561,6 +10615,28 @@
     },
     {
       "album": {
+        "name": "Kill Bill (feat. Doja Cat)",
+        "url": "https://open.spotify.com/album/4OanbmuJAWz8JPVE4cJA9L"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175836,
+      "name": "Kill Bill (feat. Doja Cat)",
+      "url": "https://open.spotify.com/track/0CrcwVLUe8wzLUIXgjXVZJ"
+    },
+    {
+      "album": {
         "name": "King",
         "url": "https://open.spotify.com/album/1kGXtKuYw5WuWUsMKKsTOE"
       },
@@ -11306,7 +11382,7 @@
       ],
       "date_added": "2022-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 174246,
       "name": "LET GO",
       "url": "https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN"
@@ -13252,7 +13328,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 250760,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
@@ -14444,7 +14520,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 292799,
       "name": "No Role Modelz",
       "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
@@ -15573,6 +15649,24 @@
     },
     {
       "album": {
+        "name": "The Super Mario Bros. Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3QITNyRzvTqn0t9tLmS1Vd"
+      },
+      "artists": [
+        {
+          "name": "Jack Black",
+          "url": "https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95440,
+      "name": "Peaches",
+      "url": "https://open.spotify.com/track/4w9soAM7IrmYDhSXLp14p6"
+    },
+    {
+      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -15610,7 +15704,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 95440,
       "name": "Peaches (from The Super Mario Bros. Movie)",
       "url": "https://open.spotify.com/track/3ll9PUsB2KIliRoyGEUwFz"
@@ -15962,6 +16056,28 @@
       "duration_ms": 140309,
       "name": "Pretty Boys",
       "url": "https://open.spotify.com/track/698ehyxjqZ7i06vUJQFviN"
+    },
+    {
+      "album": {
+        "name": "Princess Diana (with Nicki Minaj)",
+        "url": "https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172125,
+      "name": "Princess Diana (with Nicki Minaj)",
+      "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
     },
     {
       "album": {
@@ -18326,7 +18442,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 230453,
       "name": "Starboy",
       "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
@@ -22244,6 +22360,24 @@
       "duration_ms": 133213,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/1yxcKrEcxt4O03IIC25yHk"
+    },
+    {
+      "album": {
+        "name": "Wish You The Best",
+        "url": "https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210880,
+      "name": "Wish You The Best",
+      "url": "https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19UBIk.md) - [plain]
 
 > This is The Doors\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 602,224 likes - 47 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 602,445 likes - 47 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19UBIk.md) - [plain]
 | 21 | [Indian Summer](https://open.spotify.com/track/2hdeaGl9nT3UoQIgSqctHj) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Morrison Hotel](https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX) | 2:34 |
 | 22 | [Alabama Song \(Whisky Bar\)](https://open.spotify.com/track/0JNZGIavoUrdup1NsgJOQs) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 3:17 |
 | 23 | [Five to One](https://open.spotify.com/track/5FlBGGwGuqYmqr0qeBWrxe) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Waiting for the Sun](https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh) | 4:24 |
-| 24 | [The Changeling](https://open.spotify.com/track/3uqxwLp7Hs9sJhm4uVF8li) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [L.A\. Woman](https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS) | 4:19 |
+| 24 | [Moonlight Drive](https://open.spotify.com/track/0ja1dJM5gBTjk5U9wsMP9r) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Strange Days](https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf) | 3:01 |
 | 25 | [Queen of the Highway](https://open.spotify.com/track/1tBMs9Rmw3UMvPJrsXsUyL) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Morrison Hotel](https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX) | 2:47 |
-| 26 | [Moonlight Drive](https://open.spotify.com/track/0ja1dJM5gBTjk5U9wsMP9r) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Strange Days](https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf) | 3:01 |
+| 26 | [The Changeling](https://open.spotify.com/track/3uqxwLp7Hs9sJhm4uVF8li) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [L.A\. Woman](https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS) | 4:19 |
 | 27 | [Spanish Caravan](https://open.spotify.com/track/32bJv8V2Xgi5mtxdPcsi8B) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Waiting for the Sun](https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh) | 2:58 |
 | 28 | [Newborn Awakening](https://open.spotify.com/track/2EStd4GGmC155o0ZQROmqB) | [Jim Morrison](https://open.spotify.com/artist/1QB4oo4JbSRdxNyidIuD0W), [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [An American Prayer](https://open.spotify.com/album/7qj6lZyChZxDGAqzTArHHQ) | 2:24 |
 | 29 | [Waiting for the Sun](https://open.spotify.com/track/6KVM6U9Wcxgjh0jDjoRDgh) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Morrison Hotel](https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX) | 3:58 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19UBIk.md) - [plain]
 | 46 | [Wishful Sinful](https://open.spotify.com/track/13ejmQX8lVzeKijqMWiNO7) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Soft Parade](https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI) | 2:55 |
 | 47 | [The Soft Parade](https://open.spotify.com/track/0YMzPd9mYx4txOuCnhYUGU) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Soft Parade](https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI) | 8:34 |
 
-Snapshot ID: `MjgwMjQ4NTIsMDAwMDAwMDBmZDk2ZjU4NGY3NTk1OGZkYWFhZGMyMTIwNDZlODdlZQ==`
+Snapshot ID: `MjgwMjYwMzIsMDAwMDAwMDA4NzExNmM3ZTE2YTJhNTY0NWM4NWY4YTRiN2U0M2UzNg==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Post Malone, yama, Diplo, d4vd, Metallica and more! Cover: Post Malone
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,155 likes - 85 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,206 likes - 85 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 48 | [Can't Go \(feat\. Phoelix\)](https://open.spotify.com/track/0TuuzZDwssPfVQvgubXsYV) | [Dinner Party](https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU), [Phoelix](https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0) | [Enigmatic Society](https://open.spotify.com/album/57O5Ll1mLkLQgSeOCayVCe) | 2:44 |
 | 49 | [Me Pone Mal](https://open.spotify.com/track/1i7WoaZrt8jGH9vM0GKYdn) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Me Pone Mal](https://open.spotify.com/album/7aJJYJalxCJx6kNLINcR9y) | 2:57 |
 | 50 | [Over Again](https://open.spotify.com/track/00U3nGjoxrqX04GvjiypUz) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ) | [Over Again](https://open.spotify.com/album/3yvIAGFouolgRJTItuv3br) | 2:39 |
-| 51 | [Do U Want Me Baby? \(feat\. Elphi\)](https://open.spotify.com/track/392tWI7KlzCkP2bmAOOqzS) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82), [Elphi](https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY) | [Do U Want Me Baby? \(feat\. Elphi\)](https://open.spotify.com/album/2okBYRPFzRqd6Ex5M5F34Y) | 2:22 |
+| 51 | [Do U Want Me Baby? \(feat\. Elphi\)](https://open.spotify.com/track/392tWI7KlzCkP2bmAOOqzS) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82), [Elphi](https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY) | [Do U Want Me Baby? \(feat\. Elphi\)](https://open.spotify.com/album/2okBYRPFzRqd6Ex5M5F34Y) | 2:23 |
 | 52 | [Fujiyama \- feat\. ELIONE](https://open.spotify.com/track/7wMex24FqjxiAAuSfO8LVC) | [Yamato](https://open.spotify.com/artist/0mABPY4ahkb1qWFf2TSaQz), [ELIONE](https://open.spotify.com/artist/3fOp14elQgw1Js3NqGOIlg) | [Fujiyama \(feat\. ELIONE\)](https://open.spotify.com/album/3vh1kuLzrbx8B12DM3IAew) | 2:49 |
 | 53 | [TekitoTekito](https://open.spotify.com/track/3IG0e29em8BuAamKE8iFQZ) | [Taiyoh](https://open.spotify.com/artist/6hT6jq5757GgRKLuPi2g4h) | [Chapter 1](https://open.spotify.com/album/0gkDx5rfH7A4GI4bXefkX8) | 1:53 |
 | 54 | [Round 2](https://open.spotify.com/track/3zIU7arseZc1XXoI9Ag0Qc) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Round 2](https://open.spotify.com/album/4KprDOfUTn4yf1f3AMKnab) | 2:20 |

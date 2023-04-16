@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 
 > The official playlist for the 64th GRAMMY Awards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,809 likes - 75 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,807 likes - 75 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 | 41 | [Invincible \(feat\. Daniel Caesar\)](https://open.spotify.com/track/7jhxagwOk9y1HC5ciRfmkQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 |
 | 42 | [Black Summer](https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Black Summer](https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH) | 3:52 |
 | 43 | [Over](https://open.spotify.com/track/1DOgkaR5Gqa8JtPEIbQORC) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Over](https://open.spotify.com/album/5AnJbiMebwoHI7mwgbhv2H) | 3:25 |
-| 44 | [GOD DID \(feat\. Rick Ross, Lil Wayne, Jay\-Z, John Legend & Fridayy\)](https://open.spotify.com/track/2sOj9vyd6yiss9W1IK6chU) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 8:21 |
-| 45 | [There’d Better Be A Mirrorball](https://open.spotify.com/track/0yowbJnnbTLpr99f9l1uba) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [There’d Better Be A Mirrorball](https://open.spotify.com/album/0ZUmodAwUq8cQJFvyibKwT) | 4:25 |
+| 44 | [There’d Better Be A Mirrorball](https://open.spotify.com/track/0yowbJnnbTLpr99f9l1uba) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [There’d Better Be A Mirrorball](https://open.spotify.com/album/0ZUmodAwUq8cQJFvyibKwT) | 4:25 |
+| 45 | [GOD DID \(feat\. Rick Ross, Lil Wayne, Jay\-Z, John Legend & Fridayy\)](https://open.spotify.com/track/2sOj9vyd6yiss9W1IK6chU) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 8:21 |
 | 46 | [Spitting Off the Edge of the World](https://open.spotify.com/track/0JX23XA8E7aN1Chj32kgVn) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:17 |
 | 47 | [King](https://open.spotify.com/track/31ABtQJdfloNaGz7ZhXaN5) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 4:40 |
 | 48 | [BLACKOUT](https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:53 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 | 74 | [Crooked Tree](https://open.spotify.com/track/1NlwiyN4GGn3gVgyZ8T5AW) | [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Crooked Tree](https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc) | 3:52 |
 | 75 | [God Really Loves Us \- Radio Version](https://open.spotify.com/track/1MUvduWBFLja3z8Itooyf3) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV) | [God Really Loves Us \(Radio Version\)](https://open.spotify.com/album/3oHa5uSjT3eLuD4eSPclDR) | 4:21 |
 
-Snapshot ID: `MTY3NTczNDQ0MCwwMDAwMDAwMDNmMzExZWE2ODhhZTU4ZDNkNzJjYzIxYTZkNzFlZmQ5`
+Snapshot ID: `MTY3NTczNDQ0MCwwMDAwMDAwMDhmZWFlZDljZjExMDlmMzFjNjM0MDc0ZmMwNmQyNWJj`

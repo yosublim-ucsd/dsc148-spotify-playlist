@@ -1,12 +1,12 @@
 {
   "description": "A blend of the best from years past\u2014from indie folk and pop grass to roots rock and Americana. Cover: The Lumineers",
-  "num_followers": 602858,
+  "num_followers": 603025,
   "original_name": "Roots Revival",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQxOTMyOSwwMDAwMDAwMGM2ZmJjMjg1ZWUzM2VlNThhOWIzNzAzMmRjZjU5MThk",
+  "snapshot_id": "MTY4MTQxOTMyOSwwMDAwMDAwMGFkZGRlYWFjNDkwN2MxYmIzOTQ5YWIzNWJjZGQ0MzEz",
   "tracks": [
     {
       "added_at": "2022-03-11 23:43:10",
@@ -487,22 +487,6 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "The Nashville Sound",
-        "url": "https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw"
-      },
-      "artists": [
-        {
-          "name": "Jason Isbell and the 400 Unit",
-          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
-        }
-      ],
-      "duration_ms": 215563,
-      "name": "If We Were Vampires",
-      "url": "https://open.spotify.com/track/250RLekaiL1q9qZer975Eg"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
         "name": "Nathaniel Rateliff & The Night Sweats",
         "url": "https://open.spotify.com/album/1uJRMyfjWu3255ihMnNuj4"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 247613,
       "name": "S.O.B.",
       "url": "https://open.spotify.com/track/1VPUpUwtbpoRVXt0txVU0w"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
+        "name": "The Nashville Sound",
+        "url": "https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw"
+      },
+      "artists": [
+        {
+          "name": "Jason Isbell and the 400 Unit",
+          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+        }
+      ],
+      "duration_ms": 215563,
+      "name": "If We Were Vampires",
+      "url": "https://open.spotify.com/track/250RLekaiL1q9qZer975Eg"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "b'lieve i'm goin down...",
-        "url": "https://open.spotify.com/album/07W2z9W0uWJPdG8Po0MDiR"
-      },
-      "artists": [
-        {
-          "name": "Kurt Vile",
-          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
-        }
-      ],
-      "duration_ms": 298760,
-      "name": "Pretty Pimpin",
-      "url": "https://open.spotify.com/track/47cNDW1xyM03mT2kseO41a"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
         "name": "Sleeping Operator",
         "url": "https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq"
       },
@@ -975,18 +959,18 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "Hozier",
-        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
+        "name": "b'lieve i'm goin down...",
+        "url": "https://open.spotify.com/album/07W2z9W0uWJPdG8Po0MDiR"
       },
       "artists": [
         {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          "name": "Kurt Vile",
+          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
         }
       ],
-      "duration_ms": 240146,
-      "name": "Cherry Wine - Live",
-      "url": "https://open.spotify.com/track/0bZ52QzCCKfrfOqs7za6lI"
+      "duration_ms": 298760,
+      "name": "Pretty Pimpin",
+      "url": "https://open.spotify.com/track/47cNDW1xyM03mT2kseO41a"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -1003,6 +987,22 @@
       "duration_ms": 251933,
       "name": "I Was Born To Love You",
       "url": "https://open.spotify.com/track/3YllcvA3PW1DUwjckCVjIw"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
+        "name": "Hozier",
+        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 240146,
+      "name": "Cherry Wine - Live",
+      "url": "https://open.spotify.com/track/0bZ52QzCCKfrfOqs7za6lI"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "My Finest Work Yet",
-        "url": "https://open.spotify.com/album/2xQ1WHVV0MdVSRkpND5P51"
+        "name": "Bahamas Is Afie",
+        "url": "https://open.spotify.com/album/2UqlVTULRPG2qm8Bico9CK"
       },
       "artists": [
         {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
         }
       ],
-      "duration_ms": 247493,
-      "name": "Sisyphus",
-      "url": "https://open.spotify.com/track/403vzOZN0tETDpvFipkNIL"
+      "duration_ms": 157040,
+      "name": "Stronger Than That",
+      "url": "https://open.spotify.com/track/5kgyNmIytvTGGuiv0MwzZp"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "Bahamas Is Afie",
-        "url": "https://open.spotify.com/album/2UqlVTULRPG2qm8Bico9CK"
+        "name": "My Finest Work Yet",
+        "url": "https://open.spotify.com/album/2xQ1WHVV0MdVSRkpND5P51"
       },
       "artists": [
         {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
         }
       ],
-      "duration_ms": 157040,
-      "name": "Stronger Than That",
-      "url": "https://open.spotify.com/track/5kgyNmIytvTGGuiv0MwzZp"
+      "duration_ms": 247493,
+      "name": "Sisyphus",
+      "url": "https://open.spotify.com/track/403vzOZN0tETDpvFipkNIL"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "Ana\u00efs Mitchell",
-        "url": "https://open.spotify.com/album/1ZpLitOlsiSKy0Sdmhudi6"
-      },
-      "artists": [
-        {
-          "name": "Ana\u00efs Mitchell",
-          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
-        }
-      ],
-      "duration_ms": 190586,
-      "name": "Bright Star",
-      "url": "https://open.spotify.com/track/2MzJjyG6MWkAY8wQIfDMSZ"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
         "name": "Mouthfuls",
         "url": "https://open.spotify.com/album/1Wx4ud28ypU7HAWuOHkmQ2"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 271160,
       "name": "When U Love Somebody",
       "url": "https://open.spotify.com/track/68Euox5QCQrf0sMI847CfC"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
+        "name": "Ana\u00efs Mitchell",
+        "url": "https://open.spotify.com/album/1ZpLitOlsiSKy0Sdmhudi6"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs Mitchell",
+          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
+        }
+      ],
+      "duration_ms": 190586,
+      "name": "Bright Star",
+      "url": "https://open.spotify.com/track/2MzJjyG6MWkAY8wQIfDMSZ"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "Alas I Cannot Swim",
-        "url": "https://open.spotify.com/album/1P3B7c85W4mTXHk0fafGw2"
-      },
-      "artists": [
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 179960,
-      "name": "Ghosts",
-      "url": "https://open.spotify.com/track/3LHg768dEKqJKht2uPTlVR"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
         "name": "Let's Be Still",
         "url": "https://open.spotify.com/album/6KE9bPdNZqkYvXebow0i42"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 241706,
       "name": "Shake",
       "url": "https://open.spotify.com/track/7CtViMh5EgoE8krmPPuOhi"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
+        "name": "Alas I Cannot Swim",
+        "url": "https://open.spotify.com/album/1P3B7c85W4mTXHk0fafGw2"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 179960,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/3LHg768dEKqJKht2uPTlVR"
     },
     {
       "added_at": "2022-03-11 23:43:10",

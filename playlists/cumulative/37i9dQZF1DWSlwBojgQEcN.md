@@ -4,7 +4,7 @@
 
 > Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.
 
-321 songs - 20 hr 9 min
+322 songs - 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [Land of the Living](https://open.spotify.com/track/4m9DSdV4XU49dDJ8yhaMMv) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Land of the Living EP](https://open.spotify.com/album/7uQsGnLLXirmXDEcNtfQqc) | 4:24 | 2019-09-29\* | 2022-07-29 |
 | [Last Time](https://open.spotify.com/track/5ctQUn7CnXhw5IN3ipcPUt) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Last Time](https://open.spotify.com/album/3E9bLoDvWxhJiBQ7Y71Asn) | 3:13 | 2021-01-12 |  |
 | [Leave the Light On \- Demo](https://open.spotify.com/track/2nxBkZ02hsiU3SIowH4XQI) | [Marissa Nadler](https://open.spotify.com/artist/5zjaF8JUdylMWrA7AVo3hJ) | [Before July: Demos & Unreleased Songs](https://open.spotify.com/album/7lNnNfJjnoQIKAzyZY9sdL) | 3:12 | 2020-06-12 | 2021-05-28 |
-| [Left for America](https://open.spotify.com/track/2UJy2HHo4afrQbI5FizxLM) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU) | [Kosher](https://open.spotify.com/album/2mUoO1Fwso37aBUKJzQzod) | 2:50 | 2022-02-14 |  |
+| [Left for America](https://open.spotify.com/track/2UJy2HHo4afrQbI5FizxLM) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU) | [Kosher](https://open.spotify.com/album/2mUoO1Fwso37aBUKJzQzod) | 2:50 | 2022-02-14 | 2023-04-16 |
 | [Left for America](https://open.spotify.com/track/37z3ghNvcoPvHypKWTb2Sz) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU) | [Kosher](https://open.spotify.com/album/139OD5CEdzkVnocD4ew1Wt) | 2:50 | 2020-06-12 | 2021-05-28 |
 | [Let Her Go \- Live in Amsterdam](https://open.spotify.com/track/2JXnsuFhfVgLHPL1mp3xdW) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Spotify Session](https://open.spotify.com/album/6gMzMZ9HpMXosMlu2JtGti) | 3:43 | 2020-05-17 | 2021-10-16 |
 | [Let Me Down Easy](https://open.spotify.com/track/4kld790XFQCeXlat3BFnFF) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Desdemona](https://open.spotify.com/album/1l2bevRB9zAwnBguBSWjvi) | 3:08 | 2022-02-14 | 2022-11-13 |
@@ -159,6 +159,7 @@
 | [Love Is Blind](https://open.spotify.com/track/66gYCVuAKeIlVgTbAmAbWq) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Love Is Blind](https://open.spotify.com/album/7ajyVPfdzn9WgosdGUnWHw) | 3:53 | 2019-09-29\* | 2022-07-29 |
 | [Love Is Real](https://open.spotify.com/track/29WxNjKosNpws3mqiuQokS) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [Love Is Real](https://open.spotify.com/album/5XESkiNh8sT8Hn5lrjZWia) | 2:28 | 2022-02-14 | 2022-02-19 |
 | [Love No Less Worthy](https://open.spotify.com/track/39ex1gng2xOIUrNjLOc7Ti) | [J\. Tillman](https://open.spotify.com/artist/21XbnrbEMUTZelIfoV12hC) | [Singing Ax](https://open.spotify.com/album/6tbON4U1Aw1od8B3OkuTz8) | 3:13 | 2020-06-12 | 2021-10-16 |
+| [Love You Anyway](https://open.spotify.com/track/31QplXgQf5ZZzk6mbx5KHr) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Love You Anyway](https://open.spotify.com/album/3yDRYiQJHgrzUxztqO5hrG) | 3:47 | 2023-04-07 |  |
 | [Love You True](https://open.spotify.com/track/73EaA3mjNHgsIiFrm2hZzV) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [The Tides](https://open.spotify.com/album/4L0K6IA83m6hrJNVgkmIKU) | 3:53 | 2019-09-29\* | 2023-01-17 |
 | [Lover](https://open.spotify.com/track/1A3ZhVCFvYPKj8SRMPbpsg) | [Jane Ellen Bryant](https://open.spotify.com/artist/0Lzcyqk8mIPURNWygVExKm) | [Hourglass](https://open.spotify.com/album/7lZJMlYFGEqpyqcKi2PDmr) | 4:34 | 2019-09-29\* | 2020-06-10 |
 | [Lover / / Over the Moon](https://open.spotify.com/track/5hGzYOXKT3YxJu2qcDTc44) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Glow](https://open.spotify.com/album/17bMGqdO2UxbHHgiE9mX6X) | 3:27 | 2023-01-06 |  |

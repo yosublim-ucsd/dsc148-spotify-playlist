@@ -1,12 +1,12 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 169534,
+  "num_followers": 169714,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzg1NjIwNiwwMDAwMDAwMGJkM2Q0ZmQ2YzQ3ZDUyZTg0ODM2MTUxNDE0OTQyNTZm",
+  "snapshot_id": "MTY0Mzg1NjIwNiwwMDAwMDAwMDFlOWEzMDY3NjZiZTdmMjQ2Njc3Y2UyNDI2OWQzYjIx",
   "tracks": [
     {
       "added_at": "2022-02-03 02:43:26",
@@ -295,26 +295,18 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Small Craft On A Milk Sea",
-        "url": "https://open.spotify.com/album/1CNhM669xHzsZMF1yZ9WFg"
+        "name": "Wintermusik",
+        "url": "https://open.spotify.com/album/7wkQV8xvauPFBG2xC3pawK"
       },
       "artists": [
         {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        },
-        {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
-        },
-        {
-          "name": "Leo Abrahams",
-          "url": "https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd"
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
         }
       ],
-      "duration_ms": 132306,
-      "name": "Emerald and Stone",
-      "url": "https://open.spotify.com/track/6fymXW3eFHPmIOdDfnLXS4"
+      "duration_ms": 227184,
+      "name": "Ambre",
+      "url": "https://open.spotify.com/track/25zykbJGBYXYjnq5VyhO3N"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -367,18 +359,26 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Wintermusik",
-        "url": "https://open.spotify.com/album/7wkQV8xvauPFBG2xC3pawK"
+        "name": "Small Craft On A Milk Sea",
+        "url": "https://open.spotify.com/album/1CNhM669xHzsZMF1yZ9WFg"
       },
       "artists": [
         {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        },
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        },
+        {
+          "name": "Leo Abrahams",
+          "url": "https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd"
         }
       ],
-      "duration_ms": 227184,
-      "name": "Ambre",
-      "url": "https://open.spotify.com/track/25zykbJGBYXYjnq5VyhO3N"
+      "duration_ms": 132306,
+      "name": "Emerald and Stone",
+      "url": "https://open.spotify.com/track/6fymXW3eFHPmIOdDfnLXS4"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Hallucinogen",
-        "url": "https://open.spotify.com/album/0kbTEjztiBKiwDGqogecTy"
-      },
-      "artists": [
-        {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        }
-      ],
-      "duration_ms": 268987,
-      "name": "All the Way Down",
-      "url": "https://open.spotify.com/track/3GZpSLgW7eaPzbJUFD7jfL"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "The Noise Made By People",
         "url": "https://open.spotify.com/album/10nM1bEq6nBmY5CvK9gDVI"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 191893,
       "name": "Echo's Answer",
       "url": "https://open.spotify.com/track/0mpKGswMW2MypC6kryHQmL"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Hallucinogen",
+        "url": "https://open.spotify.com/album/0kbTEjztiBKiwDGqogecTy"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "duration_ms": 268987,
+      "name": "All the Way Down",
+      "url": "https://open.spotify.com/track/3GZpSLgW7eaPzbJUFD7jfL"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Gone To Earth (Remastered 2003)",
-        "url": "https://open.spotify.com/album/3CRipGCmcoBTKdadiYIMOc"
-      },
-      "artists": [
-        {
-          "name": "David Sylvian",
-          "url": "https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw"
-        }
-      ],
-      "duration_ms": 141120,
-      "name": "Silver Moon Over Sleeping Steeples",
-      "url": "https://open.spotify.com/track/7h7wT4LgpdWMuR2t3kmQAI"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Transient Random-Noise Bursts With Announcements",
         "url": "https://open.spotify.com/album/0XwFmkEzDFl5KrVG5z0lE6"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 306133,
       "name": "Pack Yr Romantic Mind",
       "url": "https://open.spotify.com/track/4CxKeyGN8tyBf04mYx4GgC"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Gone To Earth (Remastered 2003)",
+        "url": "https://open.spotify.com/album/3CRipGCmcoBTKdadiYIMOc"
+      },
+      "artists": [
+        {
+          "name": "David Sylvian",
+          "url": "https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw"
+        }
+      ],
+      "duration_ms": 141120,
+      "name": "Silver Moon Over Sleeping Steeples",
+      "url": "https://open.spotify.com/track/7h7wT4LgpdWMuR2t3kmQAI"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Within and Without",
-        "url": "https://open.spotify.com/album/1TwAADd8Z8C1GeeCSaXTNr"
-      },
-      "artists": [
-        {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
-        }
-      ],
-      "duration_ms": 287720,
-      "name": "Eyes Be Closed",
-      "url": "https://open.spotify.com/track/3Qp1ja1oYotWn5K0XBRrUV"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Sabresonic",
         "url": "https://open.spotify.com/album/22UTF5k9TRZ1Mg2V0i0qLw"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 256133,
       "name": "Smokebelch II - Beatless Mix",
       "url": "https://open.spotify.com/track/5Z8BtdkhEzHbb8QlYODMgM"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Within and Without",
+        "url": "https://open.spotify.com/album/1TwAADd8Z8C1GeeCSaXTNr"
+      },
+      "artists": [
+        {
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+        }
+      ],
+      "duration_ms": 287720,
+      "name": "Eyes Be Closed",
+      "url": "https://open.spotify.com/track/3Qp1ja1oYotWn5K0XBRrUV"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Bright Serpent",
-        "url": "https://open.spotify.com/album/1VukT3w77oaLOgkQWkznwu"
-      },
-      "artists": [
-        {
-          "name": "Inwards",
-          "url": "https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse"
-        }
-      ],
-      "duration_ms": 232960,
-      "name": "At Height",
-      "url": "https://open.spotify.com/track/4n7Cl2IPm0wQpJq63moUKc"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "ANTH01",
         "url": "https://open.spotify.com/album/53wStBoNAK1lhbfbuCJ2zd"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 403080,
       "name": "Another Girl",
       "url": "https://open.spotify.com/track/1tsoKfM2I3a1VGpkjhzFTw"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Bright Serpent",
+        "url": "https://open.spotify.com/album/1VukT3w77oaLOgkQWkznwu"
+      },
+      "artists": [
+        {
+          "name": "Inwards",
+          "url": "https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse"
+        }
+      ],
+      "duration_ms": 232960,
+      "name": "At Height",
+      "url": "https://open.spotify.com/track/4n7Cl2IPm0wQpJq63moUKc"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
+        "name": "Love In The Time Of Lexapro",
+        "url": "https://open.spotify.com/album/66KiYNDdmJ8h7KvDSwRCR0"
+      },
+      "artists": [
+        {
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+        }
+      ],
+      "duration_ms": 246129,
+      "name": "Love In The Time Of Lexapro",
+      "url": "https://open.spotify.com/track/2C3ssFGH4NoGIUp9YkHK2Q"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
         "name": "I Will Make Room for You (Four Tet Remix)",
         "url": "https://open.spotify.com/album/6PI10ucPVSfshOfIDhGesh"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 497500,
       "name": "I Will Make Room for You - Four Tet Remix",
       "url": "https://open.spotify.com/track/0MUyYLTGossGLHTkHQH65W"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
-        "name": "Love In The Time Of Lexapro",
-        "url": "https://open.spotify.com/album/66KiYNDdmJ8h7KvDSwRCR0"
-      },
-      "artists": [
-        {
-          "name": "Oneohtrix Point Never",
-          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
-        }
-      ],
-      "duration_ms": 246129,
-      "name": "Love In The Time Of Lexapro",
-      "url": "https://open.spotify.com/track/2C3ssFGH4NoGIUp9YkHK2Q"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Under The Sun (Expanded Vol. 1)",
-        "url": "https://open.spotify.com/album/7oCVk3zWkNB6ByYbjkxYk2"
-      },
-      "artists": [
-        {
-          "name": "Mark Pritchard",
-          "url": "https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK"
-        }
-      ],
-      "duration_ms": 181440,
-      "name": "Light Bodied",
-      "url": "https://open.spotify.com/track/2ZItZwBUl47tieac2NBBcP"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Karma & Desire",
         "url": "https://open.spotify.com/album/5tDW2Im2auURmW8IOA8dQ1"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 250383,
       "name": "Walking Flames",
       "url": "https://open.spotify.com/track/45AwkbYypZWEGFuwQcMiOm"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Under The Sun (Expanded Vol. 1)",
+        "url": "https://open.spotify.com/album/7oCVk3zWkNB6ByYbjkxYk2"
+      },
+      "artists": [
+        {
+          "name": "Mark Pritchard",
+          "url": "https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK"
+        }
+      ],
+      "duration_ms": 181440,
+      "name": "Light Bodied",
+      "url": "https://open.spotify.com/track/2ZItZwBUl47tieac2NBBcP"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
+        "name": "I Lost My Body (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3Dp7SEi0Sx65fByb5JpCoG"
+      },
+      "artists": [
+        {
+          "name": "S+C+A+R+R",
+          "url": "https://open.spotify.com/artist/579T5fNgfbDetyamUTAetw"
+        }
+      ],
+      "duration_ms": 167986,
+      "name": "You're the One",
+      "url": "https://open.spotify.com/track/1BMLBURMMwAi4FBesaKVbG"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
         "name": "Encores 2",
         "url": "https://open.spotify.com/album/2C2LdCgWMw6MkJ5RGJi5eg"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 486941,
       "name": "Together - Rework",
       "url": "https://open.spotify.com/track/5cawG3coP2I6fBQA5ijRZI"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
-        "name": "I Lost My Body (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3Dp7SEi0Sx65fByb5JpCoG"
-      },
-      "artists": [
-        {
-          "name": "S+C+A+R+R",
-          "url": "https://open.spotify.com/artist/579T5fNgfbDetyamUTAetw"
-        }
-      ],
-      "duration_ms": 167986,
-      "name": "You're the One",
-      "url": "https://open.spotify.com/track/1BMLBURMMwAi4FBesaKVbG"
     },
     {
       "added_at": "2022-02-03 02:43:26",

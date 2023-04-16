@@ -1697,6 +1697,24 @@
     },
     {
       "album": {
+        "name": "Dancing In The Courthouse",
+        "url": "https://open.spotify.com/album/6y1x1MUnhsqTIRkp6KpYkq"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157563,
+      "name": "Dancing In The Courthouse",
+      "url": "https://open.spotify.com/track/4ZwgD4frTwoDdOUsjyoqAJ"
+    },
+    {
+      "album": {
         "name": "Danger",
         "url": "https://open.spotify.com/album/6jJup68OjU0nYjj6LWIsUj"
       },
@@ -1730,6 +1748,24 @@
       "duration_ms": 173104,
       "name": "Dark Red",
       "url": "https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa"
+    },
+    {
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212953,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
     },
     {
       "album": {
@@ -2328,7 +2364,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 206269,
       "name": "Favorite Part",
       "url": "https://open.spotify.com/track/4rRWJUXC3wjs5z217dwCUW"
@@ -2548,7 +2584,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 183079,
       "name": "For Those Who Can't Be Here",
       "url": "https://open.spotify.com/track/7nrB7gaYNe1x8Kvv7c0Tps"
@@ -3402,7 +3438,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 204240,
       "name": "Humble Quest",
       "url": "https://open.spotify.com/track/2kxytjpDPwjZGqVLH8eWkr"
@@ -8306,6 +8342,24 @@
       "duration_ms": 161157,
       "name": "Will We Ever Get This Right",
       "url": "https://open.spotify.com/track/7Ck7GSPoBIDwNwcas05Sz1"
+    },
+    {
+      "album": {
+        "name": "Wish You The Best",
+        "url": "https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210880,
+      "name": "Wish You The Best",
+      "url": "https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3"
     },
     {
       "album": {

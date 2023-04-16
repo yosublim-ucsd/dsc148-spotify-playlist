@@ -3951,6 +3951,28 @@
     },
     {
       "album": {
+        "name": "EL DRAG\u00d3N",
+        "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187986,
+      "name": "EL TONTO",
+      "url": "https://open.spotify.com/track/4rKQ8daoK0aklVptea8A9E"
+    },
+    {
+      "album": {
         "name": "EL TREN",
         "url": "https://open.spotify.com/album/4awGSTShdK0MrxjbuFHnEY"
       },
@@ -6484,10 +6506,28 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 165285,
       "name": "LA SANTA",
       "url": "https://open.spotify.com/track/3TcSNX1WhlcVAI6fLWt7Qs"
+    },
+    {
+      "album": {
+        "name": "EL DRAG\u00d3N",
+        "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165906,
+      "name": "LA SANTA",
+      "url": "https://open.spotify.com/track/5IkKZvMCle5egJBU7VG4Ly"
     },
     {
       "album": {
@@ -7056,7 +7096,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 155031,
       "name": "lo que hay x aqu\u00ed",
       "url": "https://open.spotify.com/track/5IlLm20JXhKbMtsH20NblC"
@@ -7644,7 +7684,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 237473,
       "name": "Marisola - Remix",
       "url": "https://open.spotify.com/track/0NO2zL0kw8sGGnaMvHKAZF"
@@ -12586,6 +12626,28 @@
       "duration_ms": 324426,
       "name": "Travesuras - Remix",
       "url": "https://open.spotify.com/track/0VWLId2RwPCno9s1cJm2Vy"
+    },
+    {
+      "album": {
+        "name": "Triste Verano",
+        "url": "https://open.spotify.com/album/3tQugDvLsNa3RDu7bfRu6Y"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212375,
+      "name": "Triste Verano",
+      "url": "https://open.spotify.com/track/1AOPHC5whvr8K359BZu4kp"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
-  "num_followers": 15796,
+  "num_followers": 15801,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQxNzI2MCwwMDAwMDAwMDA4NTVjZjc5NmNmY2U0YTdlNGRkMjBiYmM3ZDMwOTMw",
+  "snapshot_id": "MTY3ODQxNzI2MCwwMDAwMDAwMDNhN2RmZWQxN2RlNDkxMWIzOTI1NGNiNzQ0MmM0OWJj",
   "tracks": [
     {
       "added_at": "2023-03-10 03:01:00",
@@ -1243,38 +1243,6 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
-        "name": "Dior",
-        "url": "https://open.spotify.com/album/1OtjO72XdEOLXSEKlgEP7y"
-      },
-      "artists": [
-        {
-          "name": "Yung Buda",
-          "url": "https://open.spotify.com/artist/34JhhuxlkDFSA5ek4AuZOp"
-        },
-        {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        },
-        {
-          "name": "OG L",
-          "url": "https://open.spotify.com/artist/6usXKXCK5gkyeZ18o3Fmg6"
-        },
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Alaska",
-          "url": "https://open.spotify.com/artist/1D8yVlgOfpn6lW5UfwOMj7"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Dior",
-      "url": "https://open.spotify.com/track/6iIN2VXurWz90YBHXOIziD"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/09pLe9TmUD5UxYWiWqjBqf"
       },
@@ -1303,6 +1271,38 @@
       "duration_ms": 217392,
       "name": "Cake",
       "url": "https://open.spotify.com/track/4c98woI6F0ptrGFyK8O1m2"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
+        "name": "Dior",
+        "url": "https://open.spotify.com/album/1OtjO72XdEOLXSEKlgEP7y"
+      },
+      "artists": [
+        {
+          "name": "Yung Buda",
+          "url": "https://open.spotify.com/artist/34JhhuxlkDFSA5ek4AuZOp"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        },
+        {
+          "name": "OG L",
+          "url": "https://open.spotify.com/artist/6usXKXCK5gkyeZ18o3Fmg6"
+        },
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Alaska",
+          "url": "https://open.spotify.com/artist/1D8yVlgOfpn6lW5UfwOMj7"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Dior",
+      "url": "https://open.spotify.com/track/6iIN2VXurWz90YBHXOIziD"
     },
     {
       "added_at": "2023-03-10 03:01:00",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
-        "name": "Oriente",
-        "url": "https://open.spotify.com/album/5i7yYQx7XGmfl5G6XZIsUu"
+        "name": "Foco, For\u00e7a E F\u00e9",
+        "url": "https://open.spotify.com/album/2ZkIlqqupIDBsfG1zzvToD"
       },
       "artists": [
         {
-          "name": "Oriente, Rebeca",
-          "url": "https://open.spotify.com/artist/4OihQRMAYzuKUobEFCpmLE"
+          "name": "Projota",
+          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
         }
       ],
-      "duration_ms": 202617,
-      "name": "Linda, Louca e Mimada",
-      "url": "https://open.spotify.com/track/1rcZKMWbCac4FDnUvtYfyK"
+      "duration_ms": 224546,
+      "name": "Foco, For\u00e7a E F\u00e9",
+      "url": "https://open.spotify.com/track/28M9CSVpZ8x526MKvb1U2W"
     }
   ],
   "unique_name": "Cole\u00e7\u00e3o Hip Hop",

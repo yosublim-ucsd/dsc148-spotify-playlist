@@ -1,12 +1,12 @@
 {
   "description": "A relaxing evening with a smooth glass never sounded so good. Hit play and let the room fill with some of the classics.",
-  "num_followers": 146453,
+  "num_followers": 146562,
   "original_name": "Blues on the Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDc4MTQwMSwwMDAwMDAwMGNiYzI4NWUzN2JiOWU0YTdhNGFhNDIyMDY4MDU3OWVm",
+  "snapshot_id": "MTY4MDc4MTQwMSwwMDAwMDAwMDU2YjllY2M3NGVhMzc0NjkyNTg3Y2RkYzgxYzJjM2Iz",
   "tracks": [
     {
       "added_at": "2023-02-24 17:24:38",
@@ -227,22 +227,6 @@
     {
       "added_at": "2023-02-24 17:24:38",
       "album": {
-        "name": "Poet Of the Blues (Mojo Workin'- Blues For The Next Generation)",
-        "url": "https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD"
-      },
-      "artists": [
-        {
-          "name": "Willie Dixon",
-          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
-        }
-      ],
-      "duration_ms": 215026,
-      "name": "Little Red Rooster",
-      "url": "https://open.spotify.com/track/3Gq3uFAdJltar4ddwboPby"
-    },
-    {
-      "added_at": "2023-02-24 17:24:38",
-      "album": {
         "name": "Lucille",
         "url": "https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 616560,
       "name": "Lucille",
       "url": "https://open.spotify.com/track/4ZSJs1cqeincEi2KjUGmZC"
+    },
+    {
+      "added_at": "2023-02-24 17:24:38",
+      "album": {
+        "name": "Poet Of the Blues (Mojo Workin'- Blues For The Next Generation)",
+        "url": "https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD"
+      },
+      "artists": [
+        {
+          "name": "Willie Dixon",
+          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
+        }
+      ],
+      "duration_ms": 215026,
+      "name": "Little Red Rooster",
+      "url": "https://open.spotify.com/track/3Gq3uFAdJltar4ddwboPby"
     },
     {
       "added_at": "2023-02-24 17:24:38",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-02-24 17:24:38",
       "album": {
-        "name": "Heavy Load Blues",
-        "url": "https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan"
-      },
-      "artists": [
-        {
-          "name": "Gov't Mule",
-          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
-        }
-      ],
-      "duration_ms": 401040,
-      "name": "Make It Rain",
-      "url": "https://open.spotify.com/track/4FLsABaj5iQbOfp7akXEn5"
-    },
-    {
-      "added_at": "2023-02-24 17:24:38",
-      "album": {
         "name": "Peter Green's Fleetwood Mac (Deluxe)",
         "url": "https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 176373,
       "name": "I Loved Another Woman",
       "url": "https://open.spotify.com/track/5G5YA3qzHlEa2RMuf1WDqB"
+    },
+    {
+      "added_at": "2023-02-24 17:24:38",
+      "album": {
+        "name": "Heavy Load Blues",
+        "url": "https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan"
+      },
+      "artists": [
+        {
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+        }
+      ],
+      "duration_ms": 401040,
+      "name": "Make It Rain",
+      "url": "https://open.spotify.com/track/4FLsABaj5iQbOfp7akXEn5"
     },
     {
       "added_at": "2023-02-24 17:24:38",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-02-24 17:24:38",
       "album": {
+        "name": "A Savage Life",
+        "url": "https://open.spotify.com/album/3EUOVC5lWv58P8Dmetgb5B"
+      },
+      "artists": [
+        {
+          "name": "Dom Martin",
+          "url": "https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ"
+        }
+      ],
+      "duration_ms": 167330,
+      "name": "Blues On The Bay",
+      "url": "https://open.spotify.com/track/7offXLsItZzJ7sF08FRkoM"
+    },
+    {
+      "added_at": "2023-02-24 17:24:38",
+      "album": {
         "name": "The Right Time",
         "url": "https://open.spotify.com/album/1FIwDtSAdIyBCpBvNheudQ"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 566960,
       "name": "12:15 Slow Goonbash Blues",
       "url": "https://open.spotify.com/track/4zy2Th0CDzOyNwbTODygmj"
-    },
-    {
-      "added_at": "2023-02-24 17:24:38",
-      "album": {
-        "name": "A Savage Life",
-        "url": "https://open.spotify.com/album/3EUOVC5lWv58P8Dmetgb5B"
-      },
-      "artists": [
-        {
-          "name": "Dom Martin",
-          "url": "https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ"
-        }
-      ],
-      "duration_ms": 167330,
-      "name": "Blues On The Bay",
-      "url": "https://open.spotify.com/track/7offXLsItZzJ7sF08FRkoM"
     },
     {
       "added_at": "2023-02-24 17:24:38",
@@ -999,6 +999,22 @@
     {
       "added_at": "2023-02-24 17:24:38",
       "album": {
+        "name": "Sweet Giant of the Blues",
+        "url": "https://open.spotify.com/album/4VOsqjPQLgQ8x5uZELEWQw"
+      },
+      "artists": [
+        {
+          "name": "Otis Spann",
+          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
+        }
+      ],
+      "duration_ms": 366826,
+      "name": "Bird in a Cage",
+      "url": "https://open.spotify.com/track/2Xx66yeqdxjPViOEkKFkB4"
+    },
+    {
+      "added_at": "2023-02-24 17:24:38",
+      "album": {
         "name": "Fragments - Time Out of Mind Sessions (1996-1997): The Bootleg Series, Vol. 17",
         "url": "https://open.spotify.com/album/145Jtm8B3iZcxttgY9Y5NJ"
       },
@@ -1015,18 +1031,18 @@
     {
       "added_at": "2023-02-24 17:24:38",
       "album": {
-        "name": "Sweet Giant of the Blues",
-        "url": "https://open.spotify.com/album/4VOsqjPQLgQ8x5uZELEWQw"
+        "name": "I Be Trying",
+        "url": "https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY"
       },
       "artists": [
         {
-          "name": "Otis Spann",
-          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
+          "name": "Cedric Burnside",
+          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
         }
       ],
-      "duration_ms": 366826,
-      "name": "Bird in a Cage",
-      "url": "https://open.spotify.com/track/2Xx66yeqdxjPViOEkKFkB4"
+      "duration_ms": 171346,
+      "name": "Pretty Flowers",
+      "url": "https://open.spotify.com/track/60vycVSlMAOiqZd7qtW9Vp"
     },
     {
       "added_at": "2023-02-24 17:24:38",
@@ -1059,22 +1075,6 @@
       "duration_ms": 192121,
       "name": "One Scotch, One Bourbon, One Beer",
       "url": "https://open.spotify.com/track/0l33ve0XHG5XxKwMQPKcZk"
-    },
-    {
-      "added_at": "2023-02-24 17:24:38",
-      "album": {
-        "name": "I Be Trying",
-        "url": "https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY"
-      },
-      "artists": [
-        {
-          "name": "Cedric Burnside",
-          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
-        }
-      ],
-      "duration_ms": 171346,
-      "name": "Pretty Flowers",
-      "url": "https://open.spotify.com/track/60vycVSlMAOiqZd7qtW9Vp"
     },
     {
       "added_at": "2023-02-24 17:24:38",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-02-24 17:24:38",
       "album": {
-        "name": "Love Transcends",
-        "url": "https://open.spotify.com/album/0gbhkq77MWLw3BXB63Hby2"
-      },
-      "artists": [
-        {
-          "name": "Jackie Venson",
-          "url": "https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg"
-        }
-      ],
-      "duration_ms": 175177,
-      "name": "One Step Forward",
-      "url": "https://open.spotify.com/track/0RQTKzj5xYJeuHKH0WFdoN"
-    },
-    {
-      "added_at": "2023-02-24 17:24:38",
-      "album": {
         "name": "Somewhere",
         "url": "https://open.spotify.com/album/2ygBH4zpXVlycVtYL5JqX9"
       },
@@ -1175,18 +1159,18 @@
     {
       "added_at": "2023-02-24 17:24:38",
       "album": {
-        "name": "From The Heart Of A Woman",
-        "url": "https://open.spotify.com/album/5o48YTSOnQu5UrC8HEuj9h"
+        "name": "Love Transcends",
+        "url": "https://open.spotify.com/album/0gbhkq77MWLw3BXB63Hby2"
       },
       "artists": [
         {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+          "name": "Jackie Venson",
+          "url": "https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg"
         }
       ],
-      "duration_ms": 257093,
-      "name": "Thanks, But No Thanks",
-      "url": "https://open.spotify.com/track/09dWT48I3CR2nxiEA5FwwW"
+      "duration_ms": 175177,
+      "name": "One Step Forward",
+      "url": "https://open.spotify.com/track/0RQTKzj5xYJeuHKH0WFdoN"
     },
     {
       "added_at": "2023-02-24 17:24:38",
@@ -1203,6 +1187,22 @@
       "duration_ms": 81000,
       "name": "Don't Go Back To New Orleans - Remastered 2022",
       "url": "https://open.spotify.com/track/17J48o0PQhGI7KFZXMe9j1"
+    },
+    {
+      "added_at": "2023-02-24 17:24:38",
+      "album": {
+        "name": "From The Heart Of A Woman",
+        "url": "https://open.spotify.com/album/5o48YTSOnQu5UrC8HEuj9h"
+      },
+      "artists": [
+        {
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+        }
+      ],
+      "duration_ms": 257093,
+      "name": "Thanks, But No Thanks",
+      "url": "https://open.spotify.com/track/09dWT48I3CR2nxiEA5FwwW"
     },
     {
       "added_at": "2023-02-24 17:24:38",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-02-24 17:24:38",
       "album": {
-        "name": "Try It...You Might Like It: GA-20 Does Hound Dog Taylor",
-        "url": "https://open.spotify.com/album/4d9H4axCobgD9iuMsP3XCj"
-      },
-      "artists": [
-        {
-          "name": "GA-20",
-          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
-        }
-      ],
-      "duration_ms": 275853,
-      "name": "Sitting At Home Alone",
-      "url": "https://open.spotify.com/track/3y5yJbyAJcCSWJmUF7Fi8d"
-    },
-    {
-      "added_at": "2023-02-24 17:24:38",
-      "album": {
         "name": "Love on the Rocks",
         "url": "https://open.spotify.com/album/1GMBZjGm9SylBHR9VgtIJA"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 222826,
       "name": "Love on the Rocks",
       "url": "https://open.spotify.com/track/06naKf1yua8cwigjhWtOSz"
+    },
+    {
+      "added_at": "2023-02-24 17:24:38",
+      "album": {
+        "name": "Try It...You Might Like It: GA-20 Does Hound Dog Taylor",
+        "url": "https://open.spotify.com/album/4d9H4axCobgD9iuMsP3XCj"
+      },
+      "artists": [
+        {
+          "name": "GA-20",
+          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
+        }
+      ],
+      "duration_ms": 275853,
+      "name": "Sitting At Home Alone",
+      "url": "https://open.spotify.com/track/3y5yJbyAJcCSWJmUF7Fi8d"
     },
     {
       "added_at": "2023-02-24 17:24:38",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2023-02-24 17:24:38",
       "album": {
+        "name": "Best Of The Vanguard Years",
+        "url": "https://open.spotify.com/album/50S1EIpm4XRJhZQEAzcMh3"
+      },
+      "artists": [
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+        }
+      ],
+      "duration_ms": 210040,
+      "name": "Help Me",
+      "url": "https://open.spotify.com/track/2MBcCczDECsZFVaDxFVwgT"
+    },
+    {
+      "added_at": "2023-02-24 17:24:38",
+      "album": {
         "name": "Bob Corritore & Friends: You Shocked Me",
         "url": "https://open.spotify.com/album/18rXZSxt8oRqSMZChCNEPE"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 197388,
       "name": "Blue Blue Water",
       "url": "https://open.spotify.com/track/6YqNOEJY1xQw1Zbgxa10Bu"
-    },
-    {
-      "added_at": "2023-02-24 17:24:38",
-      "album": {
-        "name": "Best Of The Vanguard Years",
-        "url": "https://open.spotify.com/album/50S1EIpm4XRJhZQEAzcMh3"
-      },
-      "artists": [
-        {
-          "name": "Charlie Musselwhite",
-          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
-        }
-      ],
-      "duration_ms": 210040,
-      "name": "Help Me",
-      "url": "https://open.spotify.com/track/2MBcCczDECsZFVaDxFVwgT"
     },
     {
       "added_at": "2023-02-24 17:24:38",

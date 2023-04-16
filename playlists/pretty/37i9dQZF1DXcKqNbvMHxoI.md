@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKqNbvMHxoI.md) - [plain]
 
 > Songs so beautiful, made for the night
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,284 likes - 80 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,283 likes - 80 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

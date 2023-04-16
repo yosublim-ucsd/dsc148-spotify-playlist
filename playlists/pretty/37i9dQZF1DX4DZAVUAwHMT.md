@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: Another Sky
 
-[Spotify](https://open.spotify.com/user/spotify) - 587,299 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 587,283 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 44 | [So So Soon](https://open.spotify.com/track/0pbRMdTybJA51v0tUjQv9G) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [So So Soon](https://open.spotify.com/album/5b47ZAEieOQUTSNk2M1ZkP) | 3:48 |
 | 45 | [Play My Favourite Song](https://open.spotify.com/track/4uBs8miGwBykRYjrbAO5kV) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [Play My Favourite Song](https://open.spotify.com/album/48kUWLzmZrvwHqYrpOkBat) | 2:35 |
 | 46 | [God Bless The 90s Kids](https://open.spotify.com/track/19UJqP2jQuFEjQ5i7cxLd2) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Truth Decay](https://open.spotify.com/album/4lXFVUD20Jim7r4U1sBY3D) | 3:23 |
-| 47 | [Cherophobe](https://open.spotify.com/track/5N2s4ZcU9sAuEHlnOMGzny) | [The Royston Club](https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD) | [Cherophobe](https://open.spotify.com/album/628bjj2XYcW0GISs7ei2fC) | 4:16 |
+| 47 | [Cherophobe \- Rerecorded](https://open.spotify.com/track/5N2s4ZcU9sAuEHlnOMGzny) | [The Royston Club](https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD) | [Cherophobe \(Rerecorded\)](https://open.spotify.com/album/628bjj2XYcW0GISs7ei2fC) | 4:16 |
 | 48 | [JUMP!](https://open.spotify.com/track/3XfqHrrVnG4BI2XAOaYiim) | [Only The Poets](https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t) | [JUMP!](https://open.spotify.com/album/6IJQx7e2CdRtZ4VN5QvoSD) | 3:14 |
 | 49 | [Houses of American Style](https://open.spotify.com/track/5Kky5Fr02ofJwTnQCgzBFl) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Houses of American Style](https://open.spotify.com/album/4fVSfJltN2th0XhpMcgx0O) | 4:04 |
 | 50 | [Chain Reactions](https://open.spotify.com/track/4UejYXB2uDM2Aw6bZUG6IM) | [Dream State](https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw) | [Untethered](https://open.spotify.com/album/5w7LosrCdnBUoQJnCavlY3) | 3:51 |

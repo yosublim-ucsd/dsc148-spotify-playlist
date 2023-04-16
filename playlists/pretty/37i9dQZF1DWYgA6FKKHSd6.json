@@ -1,12 +1,12 @@
 {
   "description": "A perfect rendezvous of funk, jazz, R&B, and soul. Cover: Eric Darius",
-  "num_followers": 211190,
+  "num_followers": 211219,
   "original_name": "Sax and the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5NTY2MCwwMDAwMDAwMDM5YmZhODM3NjA2ZjFmNjQ0ZjI3MjA3OGI3MTc2ZWY3",
+  "snapshot_id": "MTY3NDc5NTY2MCwwMDAwMDAwMGE0YWIxODkyYzZlM2ZmYjY3MjRjYWZiYmU4Njc3ZTc2",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -171,22 +171,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "A Song For You",
-        "url": "https://open.spotify.com/album/51ilWc2VBkdoBQOUIohhil"
-      },
-      "artists": [
-        {
-          "name": "Michael Lington",
-          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
-        }
-      ],
-      "duration_ms": 281920,
-      "name": "It's Too Late",
-      "url": "https://open.spotify.com/track/3Zwphwi81qVI7ucNusDSRq"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Soul To Souls",
         "url": "https://open.spotify.com/album/2rzjVifrHIbbSEvBIGavtb"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 333880,
       "name": "City Lights",
       "url": "https://open.spotify.com/track/5kmQaaHOzgnzJmDpHJVtQY"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "A Song For You",
+        "url": "https://open.spotify.com/album/51ilWc2VBkdoBQOUIohhil"
+      },
+      "artists": [
+        {
+          "name": "Michael Lington",
+          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
+        }
+      ],
+      "duration_ms": 281920,
+      "name": "It's Too Late",
+      "url": "https://open.spotify.com/track/3Zwphwi81qVI7ucNusDSRq"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -283,22 +283,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Chill Factor",
-        "url": "https://open.spotify.com/album/1DUAy4KMoe4R3R5eY5PTii"
-      },
-      "artists": [
-        {
-          "name": "Richard Elliot",
-          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
-        }
-      ],
-      "duration_ms": 298773,
-      "name": "Chill Factor",
-      "url": "https://open.spotify.com/track/5RBz7DhODMg5hVM5vJ9NrM"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Turn It Up",
         "url": "https://open.spotify.com/album/2emYvyogfNZbvdVJwUFRrb"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 303693,
       "name": "Reverence",
       "url": "https://open.spotify.com/track/5aCHWYlwuHAnZkV0Po17Yn"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Chill Factor",
+        "url": "https://open.spotify.com/album/1DUAy4KMoe4R3R5eY5PTii"
+      },
+      "artists": [
+        {
+          "name": "Richard Elliot",
+          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
+        }
+      ],
+      "duration_ms": 298773,
+      "name": "Chill Factor",
+      "url": "https://open.spotify.com/track/5RBz7DhODMg5hVM5vJ9NrM"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -485,10 +485,10 @@
       "url": "https://open.spotify.com/track/0Cul7Nx1V0E1bPkuajTr4m"
     },
     {
-      "added_at": "2022-06-03 04:02:00",
+      "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Another Day In Paradise",
-        "url": "https://open.spotify.com/album/20nnoaK341xKWNK6cNlNBn"
+        "name": "Solid",
+        "url": "https://open.spotify.com/album/1YcK4A5I2wdtgDJZ8Cht0F"
       },
       "artists": [
         {
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
         }
       ],
-      "duration_ms": 275680,
-      "name": "Another Day In Paradise",
-      "url": "https://open.spotify.com/track/07EjeqkqzPeEhz6B2zgmDU"
+      "duration_ms": 231560,
+      "name": "Full Effect",
+      "url": "https://open.spotify.com/track/26xPHXWjYspNmZgChhDRYR"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -519,18 +519,18 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "The Morning After",
-        "url": "https://open.spotify.com/album/4ILJ7RNqetmplRsoyFvouK"
+        "name": "M.P.3",
+        "url": "https://open.spotify.com/album/5dHIYzhFckBVCZO7FTA5VN"
       },
       "artists": [
         {
-          "name": "Najee",
-          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
+          "name": "Mike Phillips",
+          "url": "https://open.spotify.com/artist/7qvPuqxswjsFxbsDUfaNGb"
         }
       ],
-      "duration_ms": 301853,
-      "name": "Rendezvous",
-      "url": "https://open.spotify.com/track/6lyoLhAkRUDGXVgcpXXcCx"
+      "duration_ms": 199573,
+      "name": "Gonna' Miss You",
+      "url": "https://open.spotify.com/track/4TCscGfdcw4qamFgbtwBpA"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -555,18 +555,18 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "M.P.3",
-        "url": "https://open.spotify.com/album/5dHIYzhFckBVCZO7FTA5VN"
+        "name": "The Morning After",
+        "url": "https://open.spotify.com/album/4ILJ7RNqetmplRsoyFvouK"
       },
       "artists": [
         {
-          "name": "Mike Phillips",
-          "url": "https://open.spotify.com/artist/7qvPuqxswjsFxbsDUfaNGb"
+          "name": "Najee",
+          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
         }
       ],
-      "duration_ms": 199573,
-      "name": "Gonna' Miss You",
-      "url": "https://open.spotify.com/track/4TCscGfdcw4qamFgbtwBpA"
+      "duration_ms": 301853,
+      "name": "Rendezvous",
+      "url": "https://open.spotify.com/track/6lyoLhAkRUDGXVgcpXXcCx"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -649,6 +649,22 @@
       "url": "https://open.spotify.com/track/13XQpSrDR5iE5DQsjW97wA"
     },
     {
+      "added_at": "2021-10-01 04:02:00",
+      "album": {
+        "name": "The Goddess",
+        "url": "https://open.spotify.com/album/0cTkdfXKNIzFDW6uRs5xMO"
+      },
+      "artists": [
+        {
+          "name": "Will Donato",
+          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
+        }
+      ],
+      "duration_ms": 246458,
+      "name": "The Goddess",
+      "url": "https://open.spotify.com/track/30gMOvwtvkEpSDyQmEKdN2"
+    },
+    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "Hello Tomorrow",
@@ -667,22 +683,6 @@
       "duration_ms": 291386,
       "name": "When Will I Know For Sure",
       "url": "https://open.spotify.com/track/1MTT89DX8ZoN92fXJHxRqF"
-    },
-    {
-      "added_at": "2021-10-01 04:02:00",
-      "album": {
-        "name": "The Goddess",
-        "url": "https://open.spotify.com/album/0cTkdfXKNIzFDW6uRs5xMO"
-      },
-      "artists": [
-        {
-          "name": "Will Donato",
-          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
-        }
-      ],
-      "duration_ms": 246458,
-      "name": "The Goddess",
-      "url": "https://open.spotify.com/track/30gMOvwtvkEpSDyQmEKdN2"
     },
     {
       "added_at": "2021-07-12 18:23:33",
@@ -819,22 +819,18 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "And Coffee",
-        "url": "https://open.spotify.com/album/1hIWkw4oviD5KkaMMJNoLd"
+        "name": "My One And Only One",
+        "url": "https://open.spotify.com/album/4aINB0LIcdX5jTzT55TB5J"
       },
       "artists": [
         {
-          "name": "Marcus Anderson",
-          "url": "https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf"
-        },
-        {
-          "name": "Darnell Showcase Taylor",
-          "url": "https://open.spotify.com/artist/1V4CTe8w8LFvPmwvNDIyia"
+          "name": "Jessy J",
+          "url": "https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x"
         }
       ],
-      "duration_ms": 212325,
-      "name": "Espresso Shot",
-      "url": "https://open.spotify.com/track/04G8syWNtbjgFSto01d7kd"
+      "duration_ms": 316377,
+      "name": "Lovesong",
+      "url": "https://open.spotify.com/track/0tWkzUTlC82KsJpfJ7oC2d"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -859,6 +855,26 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
+        "name": "And Coffee",
+        "url": "https://open.spotify.com/album/1hIWkw4oviD5KkaMMJNoLd"
+      },
+      "artists": [
+        {
+          "name": "Marcus Anderson",
+          "url": "https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf"
+        },
+        {
+          "name": "Darnell Showcase Taylor",
+          "url": "https://open.spotify.com/artist/1V4CTe8w8LFvPmwvNDIyia"
+        }
+      ],
+      "duration_ms": 212325,
+      "name": "Espresso Shot",
+      "url": "https://open.spotify.com/track/04G8syWNtbjgFSto01d7kd"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
         "name": "Manhattan Nights",
         "url": "https://open.spotify.com/album/5DGDEZkZPkc2OrnBAp9ij1"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 232733,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/4V3dOJuQQwy0kjSWBkO0Ay"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "My One And Only One",
-        "url": "https://open.spotify.com/album/4aINB0LIcdX5jTzT55TB5J"
-      },
-      "artists": [
-        {
-          "name": "Jessy J",
-          "url": "https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x"
-        }
-      ],
-      "duration_ms": 316377,
-      "name": "Lovesong",
-      "url": "https://open.spotify.com/track/0tWkzUTlC82KsJpfJ7oC2d"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -947,22 +947,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Quintastic",
-        "url": "https://open.spotify.com/album/4LzFSL2q6GErS6Kq1PnOxS"
-      },
-      "artists": [
-        {
-          "name": "Deon Yates",
-          "url": "https://open.spotify.com/artist/7rRyjSFGUWRFh7UgN70MZO"
-        }
-      ],
-      "duration_ms": 243685,
-      "name": "Quintastic",
-      "url": "https://open.spotify.com/track/7CBCAj6NaFYKjFhIEMYtBf"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Summer Horns II From A To Z",
         "url": "https://open.spotify.com/album/1qpQY8EzHc1BqPr4Bhb7CT"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 258138,
       "name": "L.I.T.",
       "url": "https://open.spotify.com/track/7JWyMt0OBBnPKuTGx6UNYs"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Quintastic",
+        "url": "https://open.spotify.com/album/4LzFSL2q6GErS6Kq1PnOxS"
+      },
+      "artists": [
+        {
+          "name": "Deon Yates",
+          "url": "https://open.spotify.com/artist/7rRyjSFGUWRFh7UgN70MZO"
+        }
+      ],
+      "duration_ms": 243685,
+      "name": "Quintastic",
+      "url": "https://open.spotify.com/track/7CBCAj6NaFYKjFhIEMYtBf"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "City Beat",
-        "url": "https://open.spotify.com/album/2qh5ZiEghmYBPamiTUeO2z"
-      },
-      "artists": [
-        {
-          "name": "Michael J Thomas",
-          "url": "https://open.spotify.com/artist/2jeiNrIK545gXuj6yv3VR0"
-        }
-      ],
-      "duration_ms": 242933,
-      "name": "City Beat",
-      "url": "https://open.spotify.com/track/3T9bPsBqGslbXXKMcUBjMo"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Eye Of The Storm",
         "url": "https://open.spotify.com/album/1evVKw0Y7cCwz5HUtBZq0d"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 256652,
       "name": "Eye Of The Storm",
       "url": "https://open.spotify.com/track/6O0FDghGmoL5w0WOVaoNIP"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "City Beat",
+        "url": "https://open.spotify.com/album/2qh5ZiEghmYBPamiTUeO2z"
+      },
+      "artists": [
+        {
+          "name": "Michael J Thomas",
+          "url": "https://open.spotify.com/artist/2jeiNrIK545gXuj6yv3VR0"
+        }
+      ],
+      "duration_ms": 242933,
+      "name": "City Beat",
+      "url": "https://open.spotify.com/track/3T9bPsBqGslbXXKMcUBjMo"
     },
     {
       "added_at": "2021-08-13 04:01:00",
@@ -1253,6 +1253,22 @@
       "url": "https://open.spotify.com/track/5D3zhloazy4TDWxClQAkIo"
     },
     {
+      "added_at": "2021-08-13 04:01:00",
+      "album": {
+        "name": "West Coast Soul",
+        "url": "https://open.spotify.com/album/1twn2s1XpW5lwVQ2Lhol0V"
+      },
+      "artists": [
+        {
+          "name": "Chris Godber",
+          "url": "https://open.spotify.com/artist/2UpaCo1jPuhehJBrIAaj53"
+        }
+      ],
+      "duration_ms": 259838,
+      "name": "West Coast Soul",
+      "url": "https://open.spotify.com/track/6FIXVKzMAqi9GTv0rysrVH"
+    },
+    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "Align",
@@ -1287,22 +1303,6 @@
       "duration_ms": 263106,
       "name": "A-Game",
       "url": "https://open.spotify.com/track/16SqVat33WWYI4ebWf2iJq"
-    },
-    {
-      "added_at": "2021-08-13 04:01:00",
-      "album": {
-        "name": "West Coast Soul",
-        "url": "https://open.spotify.com/album/1twn2s1XpW5lwVQ2Lhol0V"
-      },
-      "artists": [
-        {
-          "name": "Chris Godber",
-          "url": "https://open.spotify.com/artist/2UpaCo1jPuhehJBrIAaj53"
-        }
-      ],
-      "duration_ms": 259838,
-      "name": "West Coast Soul",
-      "url": "https://open.spotify.com/track/6FIXVKzMAqi9GTv0rysrVH"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1343,30 +1343,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Sweetness",
-        "url": "https://open.spotify.com/album/0fEG5FbdY24aA6sSlceKEW"
-      },
-      "artists": [
-        {
-          "name": "David Garfield",
-          "url": "https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb"
-        },
-        {
-          "name": "Gerald Albright",
-          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
-        },
-        {
-          "name": "Rick Braun",
-          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
-        }
-      ],
-      "duration_ms": 410753,
-      "name": "Sweetness",
-      "url": "https://open.spotify.com/track/6XqIJu5pvnmk2hYjne89E9"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Human Nature",
         "url": "https://open.spotify.com/album/3zdZdYZmNYFWOd00GxOn0h"
       },
@@ -1391,6 +1367,30 @@
       "duration_ms": 310480,
       "name": "Another Part Of Me",
       "url": "https://open.spotify.com/track/4vMb0VIg2w6qcrfaqRjcYB"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Sweetness",
+        "url": "https://open.spotify.com/album/0fEG5FbdY24aA6sSlceKEW"
+      },
+      "artists": [
+        {
+          "name": "David Garfield",
+          "url": "https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb"
+        },
+        {
+          "name": "Gerald Albright",
+          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
+        },
+        {
+          "name": "Rick Braun",
+          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
+        }
+      ],
+      "duration_ms": 410753,
+      "name": "Sweetness",
+      "url": "https://open.spotify.com/track/6XqIJu5pvnmk2hYjne89E9"
     },
     {
       "added_at": "2021-10-08 04:02:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Pulling Off The Covers",
-        "url": "https://open.spotify.com/album/1cl7i0OKKnt75YYUmpiwN4"
-      },
-      "artists": [
-        {
-          "name": "Mike Phillips",
-          "url": "https://open.spotify.com/artist/7qvPuqxswjsFxbsDUfaNGb"
-        }
-      ],
-      "duration_ms": 248880,
-      "name": "Setembro",
-      "url": "https://open.spotify.com/track/1bZuzZgY4M6wLNs1aFWlS9"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Pride And Joy",
         "url": "https://open.spotify.com/album/31yg17GTD9YNJBIcqUKkXB"
       },
@@ -1505,6 +1489,38 @@
       "url": "https://open.spotify.com/track/5Eug7AiCUq449ZsPpDae7P"
     },
     {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Pulling Off The Covers",
+        "url": "https://open.spotify.com/album/1cl7i0OKKnt75YYUmpiwN4"
+      },
+      "artists": [
+        {
+          "name": "Mike Phillips",
+          "url": "https://open.spotify.com/artist/7qvPuqxswjsFxbsDUfaNGb"
+        }
+      ],
+      "duration_ms": 248880,
+      "name": "Setembro",
+      "url": "https://open.spotify.com/track/1bZuzZgY4M6wLNs1aFWlS9"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Chocolate Vibez",
+        "url": "https://open.spotify.com/album/61Ky4kdiJLMwg78uyXeZpk"
+      },
+      "artists": [
+        {
+          "name": "Jeanette Harris",
+          "url": "https://open.spotify.com/artist/7jGPYcJEXorMuY90PnvvXn"
+        }
+      ],
+      "duration_ms": 254011,
+      "name": "Crown Royal",
+      "url": "https://open.spotify.com/track/4mZbsrWprSBCb61ZSMI6XR"
+    },
+    {
       "added_at": "2021-07-12 18:23:33",
       "album": {
         "name": "In the Moment",
@@ -1523,22 +1539,6 @@
       "duration_ms": 238529,
       "name": "In the Moment",
       "url": "https://open.spotify.com/track/4cEmNYuJF3sRAHTHcV16c4"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Chocolate Vibez",
-        "url": "https://open.spotify.com/album/61Ky4kdiJLMwg78uyXeZpk"
-      },
-      "artists": [
-        {
-          "name": "Jeanette Harris",
-          "url": "https://open.spotify.com/artist/7jGPYcJEXorMuY90PnvvXn"
-        }
-      ],
-      "duration_ms": 254011,
-      "name": "Crown Royal",
-      "url": "https://open.spotify.com/track/4mZbsrWprSBCb61ZSMI6XR"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Steppin' Up",
-        "url": "https://open.spotify.com/album/0DITfrhUVScJdnsT4OmgMT"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Ward",
-          "url": "https://open.spotify.com/artist/3yroTvZKrVMjmu5yufiWJG"
-        }
-      ],
-      "duration_ms": 284093,
-      "name": "City Vibe",
-      "url": "https://open.spotify.com/track/79x2Lkq33VN2rQdrs9i6h6"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Can You Feel It",
         "url": "https://open.spotify.com/album/3U0Sga1ARwm8WajY9Y2eJh"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 243986,
       "name": "Can You Feel It",
       "url": "https://open.spotify.com/track/2KBRV7S5JLe2elIN7y1DaC"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Steppin' Up",
+        "url": "https://open.spotify.com/album/0DITfrhUVScJdnsT4OmgMT"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Ward",
+          "url": "https://open.spotify.com/artist/3yroTvZKrVMjmu5yufiWJG"
+        }
+      ],
+      "duration_ms": 284093,
+      "name": "City Vibe",
+      "url": "https://open.spotify.com/track/79x2Lkq33VN2rQdrs9i6h6"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Prime Time",
-        "url": "https://open.spotify.com/album/3eoSNLul2FSqaoQfsN7Gs1"
-      },
-      "artists": [
-        {
-          "name": "Paul Taylor",
-          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
-        }
-      ],
-      "duration_ms": 239506,
-      "name": "Prime Time",
-      "url": "https://open.spotify.com/track/73y1mF0koz768FqU0BkgK5"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Slam Dunk",
         "url": "https://open.spotify.com/album/4abjBabp4Ce9MIShgUqsBy"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 280106,
       "name": "Slam Dunk",
       "url": "https://open.spotify.com/track/7mSAW4ke915ZwPQQUL0mtF"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Prime Time",
+        "url": "https://open.spotify.com/album/3eoSNLul2FSqaoQfsN7Gs1"
+      },
+      "artists": [
+        {
+          "name": "Paul Taylor",
+          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
+        }
+      ],
+      "duration_ms": 239506,
+      "name": "Prime Time",
+      "url": "https://open.spotify.com/track/73y1mF0koz768FqU0BkgK5"
     },
     {
       "added_at": "2022-04-15 04:02:00",

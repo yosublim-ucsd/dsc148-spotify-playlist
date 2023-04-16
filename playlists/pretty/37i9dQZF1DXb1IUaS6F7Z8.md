@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 
 > All of the best Celtic punk tracks\. Cover: The Dreadnoughts
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,964 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,201 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,10 +24,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 | 14 | [The State Of Massachusetts](https://open.spotify.com/track/0kXpvPNNjjPsEGRg3SE0xW) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Meanest Of Times](https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX) | 3:52 |
 | 15 | [A Fistful O' Roses](https://open.spotify.com/track/34m9v482iwNV9QHWfzNFq0) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Sleepin' Rough](https://open.spotify.com/album/11gXkG9RdZCEuJwIOZ7OPW) | 4:47 |
 | 16 | [Cheer Up Love \(Worse Things Happen at Sea\), Pt\. 3](https://open.spotify.com/track/1geM10YkSCzsCIFen0LQvW) | [Smokey Bastard](https://open.spotify.com/artist/1hMdCc6Bzz9cB05C7UTEY8) | [Tales from the Wasteland](https://open.spotify.com/album/0gWD1s9jyyDQjLi50IoUrl) | 2:31 |
-| 17 | [The Rocky Road To Dublin](https://open.spotify.com/track/59sa6RabsXP6xXIPA2UAb6) | [The Tossers](https://open.spotify.com/artist/6JqiYCJwtFqBMCvX772Pw2) | [On A Fine Spring Evening](https://open.spotify.com/album/5KSnHmtTDuFsNNapMDrRnW) | 2:40 |
+| 17 | [Into the Night](https://open.spotify.com/track/2n1gX9ahXB2bXJi1cUtwo9) | [Firkin](https://open.spotify.com/artist/4gStxnd8dQCtu5jeE4rEBF) | [Into the Night](https://open.spotify.com/album/2CdQhqlGScDcSE4cBLgj1b) | 2:35 |
 | 18 | [Seven Deadly Sins](https://open.spotify.com/track/66jfY0gvhfylkoocCEyhv0) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Within a Mile of Home](https://open.spotify.com/album/0qVJEliXJswOdaabP9hGmJ) | 2:50 |
 | 19 | [Smash Shit Up](https://open.spotify.com/track/5WWOVWXoOBa0IPUOSPiU7w) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Turn Up That Dial \(Expanded Version\)](https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd) | 3:49 |
-| 20 | [Into the Night](https://open.spotify.com/track/2n1gX9ahXB2bXJi1cUtwo9) | [Firkin](https://open.spotify.com/artist/4gStxnd8dQCtu5jeE4rEBF) | [Into the Night](https://open.spotify.com/album/2CdQhqlGScDcSE4cBLgj1b) | 2:35 |
+| 20 | [The Rocky Road To Dublin](https://open.spotify.com/track/59sa6RabsXP6xXIPA2UAb6) | [The Tossers](https://open.spotify.com/artist/6JqiYCJwtFqBMCvX772Pw2) | [On A Fine Spring Evening](https://open.spotify.com/album/5KSnHmtTDuFsNNapMDrRnW) | 2:40 |
 | 21 | [The Tempest](https://open.spotify.com/track/6gXLYsEkqlhe41lWPdBKOx) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [Westwinds](https://open.spotify.com/album/2XRertV5XG54s3PAiMBRlO) | 4:08 |
 | 22 | [The Gipsy Dancer](https://open.spotify.com/track/5kHz0PMhxREjnD3rmulNbC) | [The Rumpled](https://open.spotify.com/artist/1KBTFIV3DLMDZlnQzoQUw6) | [Toss the Coin](https://open.spotify.com/album/6iyWp7G8k1eh3kiPa9OMX0) | 2:49 |
 | 23 | [Botany Bay](https://open.spotify.com/track/0EjrmUYfo0bo787mvveLLi) | [Blaggards](https://open.spotify.com/artist/0IlUKxz8kZ4EpKrZjlvFr1) | [Standards](https://open.spotify.com/album/54rl8J9TynN3Qah4u9Eph4) | 3:30 |
@@ -45,13 +45,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 | 35 | [Join the Riot](https://open.spotify.com/track/4Vv0cjSnoGMnBUgbJOm1qM) | [Paddy And The Rats](https://open.spotify.com/artist/3XquRQYlB1gXQkYdOV7S2x) | [Riot City Outlaws](https://open.spotify.com/album/0kS0A4VWsiDeTyj8vXwMzu) | 3:09 |
 | 36 | [Sainted Millions](https://open.spotify.com/track/5vHsCIZgJLXjUPZHZddwMC) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Hestia](https://open.spotify.com/album/2pPRVxlpHiN4oSvwM18w4o) | 3:35 |
 | 37 | [Fool \(Fight of Our Lives\)](https://open.spotify.com/track/0FaTgXZvAq3vqRGWir79ew) | [Sir Reg](https://open.spotify.com/artist/0ircDsEvOEB5iDlGl2lT63) | [The Underdogs](https://open.spotify.com/album/4037g1dZC3to82wXOwQYAg) | 3:38 |
-| 38 | [These Times Have Got Me Drinking / Tripping Up The Stairs](https://open.spotify.com/track/47AK0542IdPkD4pMbynDxg) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [These Times Have Got Me Drinking / Tripping Up The Stairs](https://open.spotify.com/album/3OFS3PgFrKOz3cKfQ4S8Vx) | 4:13 |
-| 39 | [Orange and the Green](https://open.spotify.com/track/3Czlbc2EbEiaIjSrWY5zKA) | [The Kreellers](https://open.spotify.com/artist/39ljFcdvjH7BB9OsVJwnBn) | [Sixth and Porter](https://open.spotify.com/album/7tn0ug4ECBWSrNSBxGVVo8) | 2:53 |
+| 38 | [Orange and the Green](https://open.spotify.com/track/3Czlbc2EbEiaIjSrWY5zKA) | [The Kreellers](https://open.spotify.com/artist/39ljFcdvjH7BB9OsVJwnBn) | [Sixth and Porter](https://open.spotify.com/album/7tn0ug4ECBWSrNSBxGVVo8) | 2:53 |
+| 39 | [These Times Have Got Me Drinking / Tripping Up The Stairs](https://open.spotify.com/track/47AK0542IdPkD4pMbynDxg) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [These Times Have Got Me Drinking / Tripping Up The Stairs](https://open.spotify.com/album/3OFS3PgFrKOz3cKfQ4S8Vx) | 4:13 |
 | 40 | [The Cabin](https://open.spotify.com/track/7h0ua2NID4KBYNjs401sxT) | [Irish Moutarde](https://open.spotify.com/artist/5G57ycjj8BsL5ynIN06l7P) | [Raise 'em All](https://open.spotify.com/album/3dQ7S6VtgQfNR4XTSGor1I) | 2:37 |
 | 41 | [Bullhead](https://open.spotify.com/track/5EAEFB8usSqF2rCvwmjJbr) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Hestia](https://open.spotify.com/album/2pPRVxlpHiN4oSvwM18w4o) | 2:39 |
 | 42 | [This Is Our Day](https://open.spotify.com/track/0yqvEhELr8LocDUNJ0mtgr) | [The Roughneck Riot](https://open.spotify.com/artist/3ZEVCSPdokOgNx4uaueOdi) | [This Is Our Day](https://open.spotify.com/album/1ANmq1z1kNWjeetSl7V0rJ) | 3:23 |
-| 43 | [Arsehole](https://open.spotify.com/track/2201cH5trK1nfpLgY0FfFG) | [The Gobshites](https://open.spotify.com/artist/0JwbhBhNG5Sdm3Gbm0y3hF) | [When the Shite Hits the Fans](https://open.spotify.com/album/2Cw2JK22aGlznfDEdibeBK) | 2:40 |
-| 44 | [Old Maui](https://open.spotify.com/track/3RR2COvkYZlw28BmyxdTFO) | [Brave the Sea](https://open.spotify.com/artist/2ImOzhCBveQtdB7x0RcHkQ) | [The Murders Three](https://open.spotify.com/album/32nwMM1uqcXZpRyD3sxgfo) | 2:26 |
+| 43 | [Old Maui](https://open.spotify.com/track/3RR2COvkYZlw28BmyxdTFO) | [Brave the Sea](https://open.spotify.com/artist/2ImOzhCBveQtdB7x0RcHkQ) | [The Murders Three](https://open.spotify.com/album/32nwMM1uqcXZpRyD3sxgfo) | 2:26 |
+| 44 | [Arsehole](https://open.spotify.com/track/2201cH5trK1nfpLgY0FfFG) | [The Gobshites](https://open.spotify.com/artist/0JwbhBhNG5Sdm3Gbm0y3hF) | [When the Shite Hits the Fans](https://open.spotify.com/album/2Cw2JK22aGlznfDEdibeBK) | 2:40 |
 | 45 | [The Secret Set \(Drowsy Maggie / The Star of Munster\)](https://open.spotify.com/track/5sW7CM5Tq9Ub15GesYUsx0) | [Saint Bushmill's Choir](https://open.spotify.com/artist/4BAmvqtlQnj48zj888clBo) | [The Very Best of Saint Bushmill's Choir](https://open.spotify.com/album/32lSaCl9f3KboCK6kcu08I) | 3:03 |
 | 46 | [Stand Up](https://open.spotify.com/track/5YmZ8wmqrZulmgtOfLHAnx) | [The Rumpled](https://open.spotify.com/artist/1KBTFIV3DLMDZlnQzoQUw6), [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Toss the Coin](https://open.spotify.com/album/6iyWp7G8k1eh3kiPa9OMX0) | 3:31 |
 | 47 | [On Your Own](https://open.spotify.com/track/1L3qWMIBl3YFkjGtrHkQsY) | [Happy Ol'McWeasel](https://open.spotify.com/artist/5BLgMlT6LTidk2KkfheS4p) | [Heard Ya Say!](https://open.spotify.com/album/29QEOosmeg8xZM2VzEgU1x) | 3:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 | 49 | [36 Barrels](https://open.spotify.com/track/4VQJ2EROhC6aTe72oZCdG0) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [Beer and Loathing](https://open.spotify.com/album/7Lt36zggZgLxpiglpKHpiF) | 3:34 |
 | 50 | [Haul Away, Joe](https://open.spotify.com/track/1aW6Tir7Q7qSPaD7ZQS9hC) | [Fiddler's Green](https://open.spotify.com/artist/3EDllPZzA7Ipj53OWeArLe) | [3 Cheers for 30 Years](https://open.spotify.com/album/4RhmgxIRCzuo9fyF2SZAVh) | 3:21 |
 
-Snapshot ID: `MTY0NzYxNTU3MSwwMDAwMDAwMDJlZGIyZTE4NGU5NzkzNDdhMDMyN2MyMGEyNDlmNjkw`
+Snapshot ID: `MTY0NzYxNTU3MSwwMDAwMDAwMGM4NWY2ODExZjdkMzY4ZWUxZTU2YzZkODZjZTRkYzRj`

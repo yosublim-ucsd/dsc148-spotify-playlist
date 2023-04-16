@@ -1,12 +1,12 @@
 {
   "description": "The songs of the 1990s that will make you dance all summer long!",
-  "num_followers": 501623,
+  "num_followers": 501843,
   "original_name": "Summer Hits of the 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDk3MjQ2MywwMDAwMDAwMDY0MDUwOWQ5MDdiMDdhMTE3ZmIwMDAyNWMwNTIwNWIw",
+  "snapshot_id": "MTY4MDk3MjQ2MywwMDAwMDAwMGY5NGJiYzYzZjg1ODQ1OWNlOTNhOWQ2MWI0YTJjMWRj",
   "tracks": [
     {
       "added_at": "2023-04-08 16:47:43",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-04-08 16:47:43",
       "album": {
+        "name": "Third Eye Blind",
+        "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
+      },
+      "artists": [
+        {
+          "name": "Third Eye Blind",
+          "url": "https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS"
+        }
+      ],
+      "duration_ms": 268360,
+      "name": "Semi-Charmed Life",
+      "url": "https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl"
+    },
+    {
+      "added_at": "2023-04-08 16:47:43",
+      "album": {
         "name": "Life After Death (2014 Remastered Edition)",
         "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 257399,
       "name": "Mo Money Mo Problems (feat. Puff Daddy & Mase) - 2014 Remaster",
       "url": "https://open.spotify.com/track/4INDiWSKvqSKDEu7mh8HFz"
-    },
-    {
-      "added_at": "2023-04-08 16:47:43",
-      "album": {
-        "name": "Third Eye Blind",
-        "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
-      },
-      "artists": [
-        {
-          "name": "Third Eye Blind",
-          "url": "https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS"
-        }
-      ],
-      "duration_ms": 268360,
-      "name": "Semi-Charmed Life",
-      "url": "https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl"
     },
     {
       "added_at": "2023-04-08 16:47:43",
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-04-08 16:47:43",
       "album": {
+        "name": "What Is Love (Remixes)",
+        "url": "https://open.spotify.com/album/0qTVjeVP70YvQG4GctetOf"
+      },
+      "artists": [
+        {
+          "name": "Haddaway",
+          "url": "https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma"
+        }
+      ],
+      "duration_ms": 270373,
+      "name": "What Is Love - 7\" Mix",
+      "url": "https://open.spotify.com/track/2ahnofp2LbBWDXcJbMaSTu"
+    },
+    {
+      "added_at": "2023-04-08 16:47:43",
+      "album": {
         "name": "Never Say Never",
         "url": "https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 294786,
       "name": "The Boy Is Mine",
       "url": "https://open.spotify.com/track/6sHsXIJoEN5JpdkGMQDJxt"
-    },
-    {
-      "added_at": "2023-04-08 16:47:43",
-      "album": {
-        "name": "What Is Love (Remixes)",
-        "url": "https://open.spotify.com/album/0qTVjeVP70YvQG4GctetOf"
-      },
-      "artists": [
-        {
-          "name": "Haddaway",
-          "url": "https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma"
-        }
-      ],
-      "duration_ms": 270373,
-      "name": "What Is Love - 7\" Mix",
-      "url": "https://open.spotify.com/track/2ahnofp2LbBWDXcJbMaSTu"
     },
     {
       "added_at": "2023-04-08 16:47:43",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-04-08 16:47:43",
       "album": {
-        "name": "Now in a Minute",
-        "url": "https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL"
-      },
-      "artists": [
-        {
-          "name": "Donna Lewis",
-          "url": "https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2"
-        }
-      ],
-      "duration_ms": 239960,
-      "name": "I Love You Always Forever",
-      "url": "https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD"
-    },
-    {
-      "added_at": "2023-04-08 16:47:43",
-      "album": {
         "name": "Bad Boy's 10th Anniversary- The Hits",
         "url": "https://open.spotify.com/album/46JQVqJpOg8opDLUl1qHT1"
       },
@@ -823,18 +807,18 @@
     {
       "added_at": "2023-04-08 16:47:43",
       "album": {
-        "name": "Picture This (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2ddZd59LSTHIyH8QGSisjY"
+        "name": "Now in a Minute",
+        "url": "https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL"
       },
       "artists": [
         {
-          "name": "Wet Wet Wet",
-          "url": "https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai"
+          "name": "Donna Lewis",
+          "url": "https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2"
         }
       ],
-      "duration_ms": 246240,
-      "name": "Love Is All Around - From \"Four Weddings And A Funeral\"",
-      "url": "https://open.spotify.com/track/0PCGfA36HrVPmsBZJ57zOU"
+      "duration_ms": 239960,
+      "name": "I Love You Always Forever",
+      "url": "https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD"
     },
     {
       "added_at": "2023-04-08 16:47:43",
@@ -855,18 +839,18 @@
     {
       "added_at": "2023-04-08 16:47:43",
       "album": {
-        "name": "Cracked Rear View",
-        "url": "https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K"
+        "name": "Picture This (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2ddZd59LSTHIyH8QGSisjY"
       },
       "artists": [
         {
-          "name": "Hootie & The Blowfish",
-          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
+          "name": "Wet Wet Wet",
+          "url": "https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai"
         }
       ],
-      "duration_ms": 229586,
-      "name": "Only Wanna Be with You",
-      "url": "https://open.spotify.com/track/1OFKUn2VLafrHj7ybnap0Q"
+      "duration_ms": 246240,
+      "name": "Love Is All Around - From \"Four Weddings And A Funeral\"",
+      "url": "https://open.spotify.com/track/0PCGfA36HrVPmsBZJ57zOU"
     },
     {
       "added_at": "2023-04-08 16:47:43",
@@ -883,6 +867,22 @@
       "duration_ms": 200400,
       "name": "Bye Bye Bye",
       "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
+    },
+    {
+      "added_at": "2023-04-08 16:47:43",
+      "album": {
+        "name": "Cracked Rear View",
+        "url": "https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K"
+      },
+      "artists": [
+        {
+          "name": "Hootie & The Blowfish",
+          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
+        }
+      ],
+      "duration_ms": 229586,
+      "name": "Only Wanna Be with You",
+      "url": "https://open.spotify.com/track/1OFKUn2VLafrHj7ybnap0Q"
     },
     {
       "added_at": "2023-04-08 16:47:43",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-04-08 16:47:43",
       "album": {
-        "name": "Mack Daddy",
-        "url": "https://open.spotify.com/album/6c62jxWCe2aisIudaDRcaP"
-      },
-      "artists": [
-        {
-          "name": "Sir Mix-A-Lot",
-          "url": "https://open.spotify.com/artist/3TQ9JTBI2n2hfo7aRONEYV"
-        }
-      ],
-      "duration_ms": 262826,
-      "name": "Baby Got Back",
-      "url": "https://open.spotify.com/track/1SAkL1mYNJlaqnBQxVZrRl"
-    },
-    {
-      "added_at": "2023-04-08 16:47:43",
-      "album": {
         "name": "Supernatural (Remastered)",
         "url": "https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 294986,
       "name": "Smooth (feat. Rob Thomas)",
       "url": "https://open.spotify.com/track/0n2SEXB2qoRQg171q7XqeW"
+    },
+    {
+      "added_at": "2023-04-08 16:47:43",
+      "album": {
+        "name": "Mack Daddy",
+        "url": "https://open.spotify.com/album/6c62jxWCe2aisIudaDRcaP"
+      },
+      "artists": [
+        {
+          "name": "Sir Mix-A-Lot",
+          "url": "https://open.spotify.com/artist/3TQ9JTBI2n2hfo7aRONEYV"
+        }
+      ],
+      "duration_ms": 262826,
+      "name": "Baby Got Back",
+      "url": "https://open.spotify.com/track/1SAkL1mYNJlaqnBQxVZrRl"
     },
     {
       "added_at": "2023-04-08 16:47:43",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-04-08 16:47:43",
       "album": {
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
+      },
+      "artists": [
+        {
+          "name": "Sash!",
+          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
+        }
+      ],
+      "duration_ms": 212133,
+      "name": "Ecuador - Original Radio Edit",
+      "url": "https://open.spotify.com/track/1arJHhz6TxMV50SNvSmGnV"
+    },
+    {
+      "added_at": "2023-04-08 16:47:43",
+      "album": {
         "name": "Violator | The 12\" Singles",
         "url": "https://open.spotify.com/album/6nYdAmB6enE4lKlt4IHuVT"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 257630,
       "name": "Enjoy the Silence",
       "url": "https://open.spotify.com/track/4wGSg2Qqpt2sGCWuAZj6EN"
-    },
-    {
-      "added_at": "2023-04-08 16:47:43",
-      "album": {
-        "name": "It's My Life",
-        "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
-      },
-      "artists": [
-        {
-          "name": "Sash!",
-          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
-        }
-      ],
-      "duration_ms": 212133,
-      "name": "Ecuador - Original Radio Edit",
-      "url": "https://open.spotify.com/track/1arJHhz6TxMV50SNvSmGnV"
     },
     {
       "added_at": "2023-04-08 16:47:43",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-04-08 16:47:43",
       "album": {
-        "name": "My Love Is Your Love",
-        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 292400,
-      "name": "It's Not Right But It's Okay",
-      "url": "https://open.spotify.com/track/7861kBrZ5aw7o4NfggcyYW"
-    },
-    {
-      "added_at": "2023-04-08 16:47:43",
-      "album": {
         "name": "Spice",
         "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 235973,
       "name": "Say You'll Be There",
       "url": "https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy"
+    },
+    {
+      "added_at": "2023-04-08 16:47:43",
+      "album": {
+        "name": "My Love Is Your Love",
+        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 292400,
+      "name": "It's Not Right But It's Okay",
+      "url": "https://open.spotify.com/track/7861kBrZ5aw7o4NfggcyYW"
     },
     {
       "added_at": "2023-04-08 16:47:43",

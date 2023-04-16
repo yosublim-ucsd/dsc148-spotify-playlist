@@ -4,7 +4,7 @@
 
 > we didn't have CharBrina on our 2023 bingo card tbh
 
-741 songs - 1 day 14 hr 26 min
+742 songs - 1 day 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,7 +229,8 @@
 | [engravings](https://open.spotify.com/track/4u5CfuAGAHNYDIHSSW7BiY) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [engravings](https://open.spotify.com/album/2SbLcM1nwlKO76evmEuX6w) | 3:00 | 2022-06-24 | 2022-10-15 |
 | [Enough](https://open.spotify.com/track/4vuVzf7BIZhDAFm3TB0Tzy) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Enough](https://open.spotify.com/album/1fw8J18rs7te12Bj1UxAUo) | 3:05 | 2022-08-17 | 2022-12-17 |
 | [Environmental Anxiety.](https://open.spotify.com/track/0Pp2I1kM3JnnyAX2S5jtHG) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:14 | 2023-02-03 | 2023-02-18 |
-| [Escapism\. \- Sped Up](https://open.spotify.com/track/4rPJSqrov3zqGwXlemLBMw) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. \(Sped Up\)](https://open.spotify.com/album/1bdKI997loh6G68NED2cwX) | 3:59 | 2022-11-29 |  |
+| [Escapism\. \- Sped Up](https://open.spotify.com/track/3XCpS4k8WqNnCpcDOSRRuz) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism.](https://open.spotify.com/album/4parxQfGC25WtlVVAm5S9q) | 3:59 | 2023-02-03 |  |
+| [Escapism\. \- Sped Up](https://open.spotify.com/track/4rPJSqrov3zqGwXlemLBMw) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. \(Sped Up\)](https://open.spotify.com/album/1bdKI997loh6G68NED2cwX) | 3:59 | 2022-11-29 | 2023-04-16 |
 | [ever fallen?](https://open.spotify.com/track/2sGCU9QbPOaHkavcFJdtCu) | [Kate Peytavin](https://open.spotify.com/artist/6PnD7O3Er35tK4TeFyndOS) | [ever fallen?](https://open.spotify.com/album/76MqqEKkr3PqvDuZv5BlVo) | 2:48 | 2022-12-16 | 2023-02-11 |
 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2022-09-14 | 2023-01-14 |
 | [Every Breath You Take](https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 4:13 | 2022-07-03 | 2022-08-06 |

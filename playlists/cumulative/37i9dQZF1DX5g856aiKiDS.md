@@ -4,7 +4,7 @@
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-271 songs - 15 hr 19 min
+272 songs - 15 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [lovesick](https://open.spotify.com/track/1nP1TjjP1p0CPnXtWzNzal) | [FR:EDEN](https://open.spotify.com/artist/6psIuXSnGPGKY93Wcj1qeW), [Oz](https://open.spotify.com/artist/4qSDffaAMImvr2UHN5iqi5) | [collection 1](https://open.spotify.com/album/6qu0hjg5oGIlupNylGYEb2) | 3:39 | 2022-06-09 | 2022-06-14 |
 | [Lovey Dovey \(Feat\. meenoi\)](https://open.spotify.com/track/1s3AJx7XASsPSA2cKJdXG6) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Lovey Dovey](https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k) | 3:39 | 2022-05-11 |  |
 | [Lucid Dream \(feat\. MNZU\)](https://open.spotify.com/track/6lJUvqmdG1jt1y3nWT9Exh) | [Camtono](https://open.spotify.com/artist/6hZ5K83wnSmPDM4R3iGF9s), [MNZU](https://open.spotify.com/artist/1juqEV8as6kKzFY3bKSmP9) | [Lucid Dream \(feat\. MNZU\)](https://open.spotify.com/album/5eRzpXBXvklSf1LucQJxdA) | 3:09 | 2022-07-04 | 2022-07-23 |
-| [Magnolia](https://open.spotify.com/track/5XrRVO7bjxl1HUZ5Ffri4g) | [Aden](https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv) | [Magnolia](https://open.spotify.com/album/1xvErKDx1NMXm0nYNgMuW7) | 2:51 | 2022-05-03 |  |
+| [Magnolia](https://open.spotify.com/track/5XrRVO7bjxl1HUZ5Ffri4g) | [Aden](https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv) | [Magnolia](https://open.spotify.com/album/1xvErKDx1NMXm0nYNgMuW7) | 2:51 | 2022-05-03 | 2023-04-16 |
 | [Marry Me](https://open.spotify.com/track/7BNV7EACj2jSl0fdiG6726) | [Woody](https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw) | [Marry Me](https://open.spotify.com/album/0qkWVEZ616XWGaxME5RyHP) | 3:08 | 2023-02-03 | 2023-02-15 |
 | [May](https://open.spotify.com/track/6Mnnb4HXLTUUUG1JT7jGql) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [May](https://open.spotify.com/album/2t7mzhYYKBkEaNVAkFyPAv) | 3:16 | 2022-04-12 | 2022-07-29 |
 | [Maybe It’s Not Our Fault](https://open.spotify.com/track/2xxAW1kGFSVCDdRVoryX8R) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Our Love is Great](https://open.spotify.com/album/6o7uJmwJP40A8lllMXk8MW) | 3:53 | 2022-04-21 |  |
@@ -197,6 +197,7 @@
 | [Running to You](https://open.spotify.com/track/3UoHkXZkIZz7Lna8rwzYiy) | [YNR](https://open.spotify.com/artist/6KNsuFP4y43HfGwlgXGStK) | [Running to You](https://open.spotify.com/album/2DJwEaPL3UvpqwyLQSnuN2) | 3:31 | 2022-05-11 | 2022-06-10 |
 | [Safety Distance](https://open.spotify.com/track/513DfQz8PCkHlnWcn1QeLJ) | [휘슬 \(Whistle\)](https://open.spotify.com/artist/6zZR8DsPLAROAhjBYRGROH) | [Safety Distance](https://open.spotify.com/album/2z1r6akTAwpd3f6bTWmJr9) | 3:47 | 2022-05-02 | 2022-05-12 |
 | [say what's on your mind](https://open.spotify.com/track/5sZOGj6SfzD7lWpwKhF6oE) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [as long as you're okay](https://open.spotify.com/album/4sbtxKb5DcFEBjFFLrMftn) | 2:53 | 2022-07-22 | 2023-03-16 |
+| [say what's on your mind](https://open.spotify.com/track/2ZQIrXkgwZeWp4NQTclnpY) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [as long as you're okay](https://open.spotify.com/album/4WxKF7kCXULf9zgAug5EpE) | 2:53 | 2023-04-07 |  |
 | [Secret love \(Feat\. Ashley Alisha, Jae luna\)](https://open.spotify.com/track/3D5tJv3dKwIBW0eBxoauR1) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [Jae Luna](https://open.spotify.com/artist/0z1uYQ5NabhwzkRMHfUipU) | [High\-teen](https://open.spotify.com/album/7btdv5NiqdVwA2CJm4vYZk) | 2:46 | 2022-04-21 | 2022-07-28 |
 | [Silly Silly Love](https://open.spotify.com/track/4lH8rMXkYqE5TZMHxnSfmJ) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Pink!](https://open.spotify.com/album/1I5gyzHtCXanpYqRukAQGP) | 3:34 | 2022-04-12 | 2022-07-26 |
 | [Sleepless in Seoul \(Feat\. LEE SUHYUN\)](https://open.spotify.com/track/2bPHxBNkKpnehnmEBYuW9n) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp), [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [5.2 \(Feat\. LEE SUHYUN\)](https://open.spotify.com/album/30RJMNXikhoIuTMEqdESS0) | 4:17 | 2022-04-12 |  |

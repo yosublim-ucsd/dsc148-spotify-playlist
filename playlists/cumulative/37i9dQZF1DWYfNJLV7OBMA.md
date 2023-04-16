@@ -4,7 +4,7 @@
 
 > Trending Sinhalese pop hits\. Cover \- DILU Beats
 
-204 songs - 12 hr 12 min
+205 songs - 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,8 @@
 | [Thaniwama](https://open.spotify.com/track/6NQzm9KuXMtKBk60UYw75z) | [NAVI Katugampala](https://open.spotify.com/artist/0Uijw6YUBx3J7nw2nD4JEd), [Shaniya](https://open.spotify.com/artist/1NAbrukGb9uG8swM5g7XDJ) | [Thaniwama](https://open.spotify.com/album/1by2GMjYDWOdIyy9g3Dhmx) | 4:21 | 2022-07-15 | 2022-09-24 |
 | [Tharunai](https://open.spotify.com/track/4oiiMeKhgdCmbnwrArnaQR) | [DJ Mass](https://open.spotify.com/artist/7DDdKIvTMJoVym9n4UOKYA), [Romaine Willis](https://open.spotify.com/artist/5KW7Z7pvvXDPbig7Dlt4Rp) | [Tharunai](https://open.spotify.com/album/6iMXypO3u1bSP5ATa9de0H) | 2:38 | 2023-02-27 |  |
 | [Thurumpuva](https://open.spotify.com/track/5W9ivlHXPYhn10GCu4TDyC) | [Rap Sheyiya](https://open.spotify.com/artist/1hS4Cj1D35StoLRNFvgI7s), [CHU BBY](https://open.spotify.com/artist/29ko9iZWA1mUHNMQzU0Tfw), [Keefa](https://open.spotify.com/artist/2TCq1H7QnqxS36pZI026dT) | [Thurumpuva](https://open.spotify.com/album/2DpkcOMYEzVlzHiTIEgCLM) | 3:34 | 2022-06-16 | 2022-12-01 |
-| [Tinkiri](https://open.spotify.com/track/3PltuHhD5BYPXp6F6OCF9I) | [DJ JNK](https://open.spotify.com/artist/0cw03AoYoYH79oBa0L0hoT), [Moniyo](https://open.spotify.com/artist/1QcBHj8ZwJZVHVRp61NSAo), [Dimi3](https://open.spotify.com/artist/7uRcNDbRBROKZcU6r2ZPIE) | [Tinkiri](https://open.spotify.com/album/2XtOcPpTEH0z1grjCrYgbg) | 4:07 | 2022-11-30 |  |
+| [Tinkiri](https://open.spotify.com/track/3PltuHhD5BYPXp6F6OCF9I) | [DJ JNK](https://open.spotify.com/artist/0cw03AoYoYH79oBa0L0hoT), [Moniyo](https://open.spotify.com/artist/1QcBHj8ZwJZVHVRp61NSAo), [Dimi3](https://open.spotify.com/artist/7uRcNDbRBROKZcU6r2ZPIE) | [Tinkiri](https://open.spotify.com/album/2XtOcPpTEH0z1grjCrYgbg) | 4:07 | 2022-11-30 | 2023-04-16 |
+| [Tinkiri](https://open.spotify.com/track/4mTLVWdXLgEvllb5GIfJAi) | [DJ JNK](https://open.spotify.com/artist/0cw03AoYoYH79oBa0L0hoT), [Moniyo](https://open.spotify.com/artist/1QcBHj8ZwJZVHVRp61NSAo), [Dimi3](https://open.spotify.com/artist/7uRcNDbRBROKZcU6r2ZPIE) | [Tinkiri](https://open.spotify.com/album/2fTgZauT1vZb7UZlmHZHLR) | 4:07 | 2023-02-27 |  |
 | [Toyyo Bayyo](https://open.spotify.com/track/1AQpgplBRfllLbYEkmn2km) | [Funky Dirt](https://open.spotify.com/artist/4EmQAPX89Zg1TUUaQut1IC) | [Toyyo Bayyo](https://open.spotify.com/album/5r6hrTUJRGIMyoa6VB0PaS) | 5:06 | 2022-10-07 | 2022-11-05 |
 | [Udurawee](https://open.spotify.com/track/16O3jCcjYlDQ1enroz7Gyt) | [Kanchana Anuradhi](https://open.spotify.com/artist/5FvRanU1qnYzZQ5BpIfU9u) | [Udurawee](https://open.spotify.com/album/75XT4gNdhho54ACtrblPRw) | 3:19 | 2022-11-30 |  |
 | [Unmada Prema Geeya](https://open.spotify.com/track/1lZLtkHlAVF0iBdkNUkLt2) | [Bathiya & Santhush](https://open.spotify.com/artist/4qOcN0iWp8vs7OBhxzHY8Q), [Yohani](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI), [Kaizer Kaiz](https://open.spotify.com/artist/79GTGDgSIN8i5DAngINh7k) | [Unmada Prema Geeya](https://open.spotify.com/album/6wUgVuhCZTFxKFG3lfvLF6) | 4:29 | 2022-11-30 |  |

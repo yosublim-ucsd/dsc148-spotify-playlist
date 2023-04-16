@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,402 likes - 200 songs - 15 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,724 likes - 200 songs - 15 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1334,7 +1334,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-14",
+      "date_removed": null,
       "duration_ms": 415831,
       "name": "Amasango (feat. SjavasDaDeejay & TitoM)",
       "url": "https://open.spotify.com/track/3IKb9dsBhceDuKzxvJQdpu"
@@ -1810,7 +1810,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 216000,
       "name": "Asiwaju",
       "url": "https://open.spotify.com/track/7ErtOGQ9DwyQa3lwP77j4u"
@@ -5585,6 +5585,24 @@
     },
     {
       "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212953,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
+    },
+    {
+      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -8502,7 +8520,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 350309,
       "name": "Gangnam Style (feat. DJ Maphorisa & Kabza De Small)",
       "url": "https://open.spotify.com/track/5m6AedvemL6Oz8GVwAOTF3"
@@ -8564,6 +8582,40 @@
       "duration_ms": 212165,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC"
+    },
+    {
+      "album": {
+        "name": "The III Wise Men",
+        "url": "https://open.spotify.com/album/4D8HZrq24Rh4hdJ1NS3ZIB"
+      },
+      "artists": [
+        {
+          "name": "Felo Le Tee",
+          "url": "https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV"
+        },
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        },
+        {
+          "name": "SjavasDaDeejay",
+          "url": "https://open.spotify.com/artist/7LkCT07miUMz6JlKRqi3v0"
+        },
+        {
+          "name": "Kabelo Sings",
+          "url": "https://open.spotify.com/artist/3YOKEbNmcMxvIDpZxw4jvn"
+        },
+        {
+          "name": "Keynote",
+          "url": "https://open.spotify.com/artist/6FYh3c2fVA1bq9Tkuaj9q5"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381484,
+      "name": "Gedlela (feat. Kabelo Sings & Keynote)",
+      "url": "https://open.spotify.com/track/4SnsV0PFEszDt8V2GD42WS"
     },
     {
       "album": {
@@ -10340,7 +10392,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 148120,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/4fYte8ZvTK14NEhAOZocBi"
@@ -12120,7 +12172,7 @@
       ],
       "date_added": "2023-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-14",
+      "date_removed": null,
       "duration_ms": 327416,
       "name": "JAGERMEISTER",
       "url": "https://open.spotify.com/track/3VBwoaePYGdOmG1YHgGOHi"
@@ -12408,7 +12460,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-14",
+      "date_removed": null,
       "duration_ms": 323423,
       "name": "Johnny ke Johnny (feat. Papi_SA)",
       "url": "https://open.spotify.com/track/1vBqDhQhSlwr8rgIWTpCWT"
@@ -17718,7 +17770,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 292799,
       "name": "No Role Modelz",
       "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
@@ -19525,6 +19577,28 @@
     },
     {
       "album": {
+        "name": "Princess Diana (with Nicki Minaj)",
+        "url": "https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172125,
+      "name": "Princess Diana (with Nicki Minaj)",
+      "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
+    },
+    {
+      "album": {
         "name": "DS4EVER",
         "url": "https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW"
       },
@@ -20250,7 +20324,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 239359,
       "name": "Rich Flex",
       "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
@@ -28010,7 +28084,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 217346,
       "name": "When I See U",
       "url": "https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS"

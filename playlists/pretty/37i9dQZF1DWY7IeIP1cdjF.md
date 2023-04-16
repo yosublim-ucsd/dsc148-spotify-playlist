@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7IeIP1cdjF.md) - [plain]
 
 > Reggaeton hits from Yng Lvcas, Peso Pluma, Feid, KAROL G, and more.🔥🥵
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,898,881 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,900,554 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7IeIP1cdjF.md) - [plain]
 | 5 | [Gato de Noche](https://open.spotify.com/track/54ELExv56KCAB4UP9cOCzC) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Gato de Noche](https://open.spotify.com/album/2GS2h80Dp8rFdGEa0j0JhH) | 3:47 |
 | 6 | [Classy 101](https://open.spotify.com/track/6XSqqQIy7Lm7SnwxS4NrGx) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Classy 101](https://open.spotify.com/album/4jtQUtS4ABgER3DnGfKJCv) | 3:15 |
 | 7 | [Mas Rica Que Ayer](https://open.spotify.com/track/3XjvMZqm2AQ8thMCD6w9w2) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD) | [Mas Rica Que Ayer](https://open.spotify.com/album/7goOJ9hkBfNyuESHKmtGWu) | 3:19 |
-| 8 | [AGUARDIENTE](https://open.spotify.com/track/6jhB0WW148mVOX7VuV2ga0) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [AGUARDIENTE](https://open.spotify.com/album/1ox6fzQPXwDtsTg8EQrplp) | 2:47 |
+| 8 | [AGUARDIENTE](https://open.spotify.com/track/3Z0l8qwMuC376pcutLVsY8) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 2:47 |
 | 9 | [Te Gusta](https://open.spotify.com/track/4l4AiTqEyjCAJui6xVREH7) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Resistencia](https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ) | 3:20 |
 | 10 | [MAÑANA SERÁ BONITO](https://open.spotify.com/track/4bycD60yZgR6anIBtmU8UH) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:30 |
 | 11 | [Hey Mor](https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [OzuTochi](https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7IeIP1cdjF.md) - [plain]
 | 49 | [Una Noche en Medellín](https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Una Noche en Medellín](https://open.spotify.com/album/455Vc66bPFRI5D0zDEDn46) | 2:33 |
 | 50 | [Es un Secreto](https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G) | 3:10 |
 
-Snapshot ID: `MTY4MTQ0NDg2MCwwMDAwMDAwMDQ0NGYxNzA3YTJiNmUzNTE1YmY4NDFhZTFiZWRjYzkx`
+Snapshot ID: `MTY4MTQ0NDg2MCwwMDAwMDAwMGVlYjVjYTIxYjdmYzQ3ZDNiYTk2ZTRiNmMyNWNkNTZj`

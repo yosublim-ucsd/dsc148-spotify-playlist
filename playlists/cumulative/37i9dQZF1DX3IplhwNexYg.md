@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: Gengahr
 
-395 songs - 22 hr 15 min
+397 songs - 22 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Apartment Complex on the Eastside](https://open.spotify.com/track/2nm0J9sicQTiW8M8k2yZ4x) | [Dylan Fraser](https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D) | [Apartment Complex on the Eastside](https://open.spotify.com/album/52bzMUfIaS9YeVADl51eoT) | 4:07 | 2022-08-18 | 2022-09-04 |
 | [Arrow](https://open.spotify.com/track/3q1JpULBaGhyRUhlTcsBFc) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Arrow](https://open.spotify.com/album/3rcIom2GSEtDpyG5pFDZbo) | 2:05 | 2022-09-29 | 2023-01-21 |
 | [Athlete](https://open.spotify.com/track/1IGYX6cUsDXJEMG9XTf50W) | [Why Bonnie](https://open.spotify.com/artist/4FAX5kglTvU5WiFq7yPNb9) | [Athlete](https://open.spotify.com/album/1nMeS1nijjgmMA4uqVUX4G) | 3:11 | 2021-03-09 | 2022-01-17 |
+| [atomic](https://open.spotify.com/track/5kBBVaQUEisiw5AHIGbRn4) | [Aziya](https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW) | [atomic](https://open.spotify.com/album/7IYojlDZvmGIURf0qTulLd) | 2:49 | 2023-04-13 |  |
 | [Avalanche](https://open.spotify.com/track/0LIekCgqw0a3Ule7WtPfBJ) | [The Reytons](https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ) | [Avalanche](https://open.spotify.com/album/2Rntp0bJx7YKBmV3Kg8wbm) | 3:10 | 2022-09-29 |  |
 | [Baby Don't Cry](https://open.spotify.com/track/0fq4yVxkZbu59JiCe5zeFZ) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Baby Don't Cry](https://open.spotify.com/album/6MYBlQZe66fp8R7npEl9xZ) | 3:57 | 2021-10-15 | 2022-08-19 |
 | [Bad Love](https://open.spotify.com/track/0atclF6Pp5MffEEi7CSFlE) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Blue Skies](https://open.spotify.com/album/1vzqa9wcGcflSTyVbQPRFE) | 2:30 | 2022-04-01 | 2022-08-19 |
@@ -222,10 +223,11 @@
 | [Labrador](https://open.spotify.com/track/06LiHAhneCsoLvRPDHPrJR) | [WAAX](https://open.spotify.com/artist/1KaaogmGXWK1Qi3WR81Tmi) | [Labrador](https://open.spotify.com/album/19nKwENJSpAHPUmTjEn0pC) | 3:41 | 2021-03-09 | 2022-01-17 |
 | [Lain \(phone clone\)](https://open.spotify.com/track/3aq2HJqPhVH3D8jcbAQJvT) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Lain \(phone clone\)](https://open.spotify.com/album/6kVkofYbaUHoPO1YKObr3k) | 4:01 | 2023-01-13 | 2023-02-26 |
 | [last july](https://open.spotify.com/track/3vC1FzGYGsjUDEeZahvaRt) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [If I never know you like this again](https://open.spotify.com/album/7nMKqegypHLrmj9fN98Tyx) | 3:46 | 2022-08-18 | 2022-11-18 |
+| [Last Together](https://open.spotify.com/track/3mBV6qqVvE1NcuLmD2vTg6) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Last Together](https://open.spotify.com/album/1jfzgHMJyZUTchRliRmz3F) | 3:18 | 2023-04-13 |  |
 | [Late Teens](https://open.spotify.com/track/376W9y1HicyWrGiHInYdzZ) | [Press Club](https://open.spotify.com/artist/7x6qYdGPScBRRz5lOPeHnG) | [Late Teens](https://open.spotify.com/album/7bwleaGVTYLtJagViscDrC) | 3:25 | 2021-03-09 | 2022-01-17 |
 | [Lay Your Troubles on Me](https://open.spotify.com/track/7HxflaQez3QfWoehXQ1B5T) | [The Slow Readers Club](https://open.spotify.com/artist/1DYrH6sucKrK0dskzU4Gsk) | [Lay Your Troubles on Me](https://open.spotify.com/album/4kSn6blI3HVRI0lD9WoD8H) | 3:51 | 2023-02-10 | 2023-03-03 |
 | [Leader of the Pack](https://open.spotify.com/track/5ZrE7guVgMc6Vjvri6aZYg) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Leader of the Pack](https://open.spotify.com/album/00n83NrrZI1uq7BzXInyNS) | 3:03 | 2022-08-18 | 2022-10-07 |
-| [Leather](https://open.spotify.com/track/4lj9sAmb00T1JloLEsQaGl) | [Talk Show](https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3) | [Leather](https://open.spotify.com/album/1zomrGI2LeCPKzxfS5eN4x) | 4:20 | 2022-10-06 |  |
+| [Leather](https://open.spotify.com/track/4lj9sAmb00T1JloLEsQaGl) | [Talk Show](https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3) | [Leather](https://open.spotify.com/album/1zomrGI2LeCPKzxfS5eN4x) | 4:20 | 2022-10-06 | 2023-04-16 |
 | [Let The Lights On](https://open.spotify.com/track/1ydI7YlZY6Ik7lzeaRc3jN) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Let The Lights On](https://open.spotify.com/album/4GvPhsT3ybieptovGBbzqP) | 3:03 | 2022-08-18 | 2022-10-07 |
 | [Let's Go](https://open.spotify.com/track/0FGRPpBeQxkGEpnIChlnf8) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Let's Go](https://open.spotify.com/album/09PcwXJ6Kdt2M6ezSCYnQb) | 2:22 | 2021-04-30 | 2022-02-04 |
 | [Liffey](https://open.spotify.com/track/6JWsaKAJaqznc19DLk5d00) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [In Waiting](https://open.spotify.com/album/1bcRBsdflwrlfkkVSTFKBI) | 4:19 | 2021-03-09 | 2022-01-22 |
@@ -316,7 +318,7 @@
 | [She Loves Me Not](https://open.spotify.com/track/5HQqtwfb3UtZSJUzvoSiVl) | [Troi Irons](https://open.spotify.com/artist/6jWwWbLoxKthbM8C6pi9cI) | [She Loves Me Not](https://open.spotify.com/album/7CKujk9GsIiPldom4TUvZN) | 2:38 | 2021-07-16 | 2022-07-29 |
 | [Shitshow](https://open.spotify.com/track/1PX8nxFjgtuKgANbNNmYcJ) | [Ailbhe Reddy](https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn) | [Shitshow](https://open.spotify.com/album/2EroPweOR6Pi1Zy9eT907V) | 3:51 | 2022-11-18 | 2022-11-30 |
 | [Show & Tell](https://open.spotify.com/track/5lKLRqfjytzxOGJtqOZqxF) | [Queen Cult](https://open.spotify.com/artist/3UAgcbjWTEC0xcEZEYNrQt) | [Show & Tell](https://open.spotify.com/album/6rlVrcewSVgwBENyMbu5Hj) | 3:27 | 2022-02-04 | 2022-09-09 |
-| [Six\-Pack](https://open.spotify.com/track/4m6CLhBh46R33ELYBRa7ge) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Six\-Pack](https://open.spotify.com/album/3w357KurjmtsRZhooOMjgI) | 3:51 | 2023-01-13 |  |
+| [Six\-Pack](https://open.spotify.com/track/4m6CLhBh46R33ELYBRa7ge) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Six\-Pack](https://open.spotify.com/album/3w357KurjmtsRZhooOMjgI) | 3:51 | 2023-01-13 | 2023-04-16 |
 | [Sleep](https://open.spotify.com/track/6h17D5OtByI2UJ9StWVgAv) | [L.A\. WITCH](https://open.spotify.com/artist/4VIQa9l1HW6VPhR9IdJS8C) | [Octubre](https://open.spotify.com/album/1GMAtZzE5QxNlRoAnMH3f3) | 3:53 | 2021-03-09 | 2022-01-17 |
 | [Slowing Down](https://open.spotify.com/track/3o1ah1V2PJDtsCyDCpwXe4) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Waiting to Spill](https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C) | 5:20 | 2022-10-13 |  |
 | [Slowing Down](https://open.spotify.com/track/4PPodWxVosPAXvwLlqbjyt) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Slowing Down](https://open.spotify.com/album/3Yo08VwO5AZjYxM9XC6IXp) | 5:20 | 2022-10-13 | 2022-11-13 |

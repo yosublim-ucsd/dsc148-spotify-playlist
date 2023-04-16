@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 5,790 likes - 26 songs - 1 hr 40 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 5,796 likes - 29 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,5 +34,8 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 24 | [Heeltoe](https://open.spotify.com/track/5ARZ2FhxtqgRoJC6Wz7LDw) | [t e s t p r e s s](https://open.spotify.com/artist/4udW3rcRXEmwm706eR5h8u) | [Trick Presents Lethal Bangers Vol\. 1](https://open.spotify.com/album/37dOkKKFnbHAanbhzcmwaJ) | 6:45 |
 | 25 | [Hello Sweetheart](https://open.spotify.com/track/2tQOLIFdLUUYHfTrIkLGPN) | [Arnold & Lane](https://open.spotify.com/artist/1lOq8MFrqfYB486L9xycj2) | [Hello Sweetheart](https://open.spotify.com/album/6HVEDZzJwSUVdXbu1Ig6fQ) | 3:52 |
 | 26 | [Pressure](https://open.spotify.com/track/5Bhpw5EbF6fLflC41NI4HD) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Pressure](https://open.spotify.com/album/5dxB50EGjlSa9p1F9z2gfX) | 2:56 |
+| 27 | [Jackstion \- Edit](https://open.spotify.com/track/5WRe14AMPtYOpIkfJjVogv) | [M\-High](https://open.spotify.com/artist/5lNjdR9GxHHF3twNE6ayJW) | [Up The Attic EP](https://open.spotify.com/album/6Hh8t98iHvGEUZyHRIOUdq) | 4:09 |
+| 28 | [Room 2 \- Edit](https://open.spotify.com/track/2agDmUuQsLVAJP89qHs8dJ) | [Jordan Peak](https://open.spotify.com/artist/5Jhhsm26nMbGu8FNOvN3Gk) | [Beats 4 Eats Part\. I](https://open.spotify.com/album/4po1t87GmYVQgB6ZROK2FQ) | 2:56 |
+| 29 | [Gimme Dat](https://open.spotify.com/track/3qBAdCLkuuPS4M4YhJuaiW) | [1000 Handz](https://open.spotify.com/artist/6nvVfQDguCLS7by9aJhMly) | [Gimme Dat](https://open.spotify.com/album/5uzcCo9bysmAZ3mHTsq1vr) | 3:42 |
 
-Snapshot ID: `NjkyNCxlOGMwZjg1MjgyM2UwYzFjM2JkMTczNWM5NmYwNDE4M2UxNTkzZGE3`
+Snapshot ID: `NjkyNyw3ZjMyMmJhYmZlY2RhYmU5MDhjZDMzYjc3MzQ5NmRkZDViM2YyODU5`

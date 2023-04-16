@@ -990,10 +990,28 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 105612,
       "name": "CRYPT",
       "url": "https://open.spotify.com/track/1oLnJ7OXGCvdRWBgkiTQfU"
+    },
+    {
+      "album": {
+        "name": "CRYPT",
+        "url": "https://open.spotify.com/album/4dvognytsyyoFKrV9lW5F6"
+      },
+      "artists": [
+        {
+          "name": "Roderick Porter",
+          "url": "https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105612,
+      "name": "CRYPT",
+      "url": "https://open.spotify.com/track/3ja23IMkvBSzyvCMmyV6Fq"
     },
     {
       "album": {

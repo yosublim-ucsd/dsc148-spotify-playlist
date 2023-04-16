@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAWtyHQImlQ.md) - [plain]
 
 > All 60s, all ballads\. Cover: Etta James
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,980 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,052 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Stand by Me](https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Don't Play That Song \(Mono\)](https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7) | 3:00 |
 | 2 | [Break It To Me Gently](https://open.spotify.com/track/5JccvAiwcZ7n3urnXqWPsG) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [..."Let Me Sing"](https://open.spotify.com/album/4oC3Mh9wD9vaZIvlxTsdX4) | 2:44 |
-| 3 | [Little Wing](https://open.spotify.com/track/1Eolhana7nKHYpcYpdVcT5) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Axis: Bold As Love](https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r) | 2:25 |
-| 4 | [Something \- Remastered 2009](https://open.spotify.com/track/0pNeVovbiZHkulpGeOx1Gj) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 3:02 |
+| 3 | [Something \- Remastered 2009](https://open.spotify.com/track/0pNeVovbiZHkulpGeOx1Gj) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 3:02 |
+| 4 | [Little Wing](https://open.spotify.com/track/1Eolhana7nKHYpcYpdVcT5) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Axis: Bold As Love](https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r) | 2:25 |
 | 5 | [I'd Rather Go Blind](https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Tell Mama](https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr) | 2:36 |
 | 6 | [At Last](https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 2:59 |
 | 7 | [\(You Make Me Feel Like\) A Natural Woman](https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Lady Soul \(With Bonus Selections\)](https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG) | 2:45 |
 | 8 | [A Change Is Gonna Come](https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Ain't That Good News](https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP) | 3:11 |
 | 9 | [All I Have to Do Is Dream](https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 2:23 |
 | 10 | [Nights In White Satin \- Single Version / Mono](https://open.spotify.com/track/6L5BZEcZmD6RBJnimzlyKr) | [The Moody Blues](https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1) | [Days Of Future Passed \(Deluxe Version\)](https://open.spotify.com/album/3JyYXOBRAuc3XFQxFxrEcM) | 4:29 |
-| 11 | [Emotions](https://open.spotify.com/track/60jQTAr2OkFcV4SWSRz3st) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Emotions](https://open.spotify.com/album/6k1CVP7aiwq2KAcouCW70z) | 2:51 |
-| 12 | [Crazy \- Single Version](https://open.spotify.com/track/3zpj9dvJABiyMrmLCPw6i8) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK), [The Jordanaires](https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv) | [Showcase](https://open.spotify.com/album/54Ykk8Gg8TuHjLbYvErsKh) | 2:44 |
-| 13 | [Here, There And Everywhere \- Remastered 2009](https://open.spotify.com/track/2B4Y9u4ERAFiMo13XPJyGP) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Revolver \(Remastered\)](https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR) | 2:24 |
+| 11 | [Here, There And Everywhere \- Remastered 2009](https://open.spotify.com/track/2B4Y9u4ERAFiMo13XPJyGP) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Revolver \(Remastered\)](https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR) | 2:24 |
+| 12 | [Emotions](https://open.spotify.com/track/60jQTAr2OkFcV4SWSRz3st) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Emotions](https://open.spotify.com/album/6k1CVP7aiwq2KAcouCW70z) | 2:51 |
+| 13 | [Crazy \- Single Version](https://open.spotify.com/track/3zpj9dvJABiyMrmLCPw6i8) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK), [The Jordanaires](https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv) | [Showcase](https://open.spotify.com/album/54Ykk8Gg8TuHjLbYvErsKh) | 2:44 |
 | 14 | [God Only Knows \- Mono / 1997 Remastered](https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds \(Original Mono & Stereo Mix Versions\)](https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8) | 2:53 |
 | 15 | [Can't Help Falling In Love](https://open.spotify.com/track/4hAUynwghvrqDXs1ejKNEq) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 30 \#1 Hits](https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc) | 2:57 |
 | 16 | [These Arms of Mine](https://open.spotify.com/track/4skknrc3sJqaPTtUr2cwFq) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Pain in My Heart](https://open.spotify.com/album/2BFOk5b8jjm2xmsbx7qXq3) | 2:34 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAWtyHQImlQ.md) - [plain]
 | 40 | [Love Hurts \- 2007 Remaster](https://open.spotify.com/track/6hgY1l6EqrfrHRNrxwKRiK) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [A Date with The Everly Brothers](https://open.spotify.com/album/4Nro0nGcWVybv8cZXmSU4P) | 2:22 |
 | 41 | [Cherish](https://open.spotify.com/track/7uGeDI6nJEdUYMsMd7mQyl) | [The Association](https://open.spotify.com/artist/2kuNswDC82PL9xRbfaZJaS) | [And Then...Along Comes](https://open.spotify.com/album/6NDt4G1QiGzMNnri4kxq6f) | 3:27 |
 | 42 | [You Don't Have To Say You Love Me](https://open.spotify.com/track/0q8nQ0H4ad4KYcZdrTZPux) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [You Don't Have To Say You Love Me](https://open.spotify.com/album/52uwBxHFIheYUU0ydCL5Hh) | 2:50 |
-| 43 | [Skyline Pigeon](https://open.spotify.com/track/5MimWt53Ukh0gcv7mC0Rnx) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Empty Sky](https://open.spotify.com/album/2AWW5zXJBwLeroqj9D5oWV) | 3:37 |
-| 44 | [Anyone Who Had a Heart \- 2003 Remaster](https://open.spotify.com/track/28Y2taEFmHofu2EsU04ILf) | [Cilla Black](https://open.spotify.com/artist/3bCvHtuIXWXPbCMdSYudmZ) | [Beginnings](https://open.spotify.com/album/1OYFI2ylkl9kluPmY4SUmD) | 2:51 |
+| 43 | [Anyone Who Had a Heart \- 2003 Remaster](https://open.spotify.com/track/28Y2taEFmHofu2EsU04ILf) | [Cilla Black](https://open.spotify.com/artist/3bCvHtuIXWXPbCMdSYudmZ) | [Beginnings](https://open.spotify.com/album/1OYFI2ylkl9kluPmY4SUmD) | 2:51 |
+| 44 | [Skyline Pigeon](https://open.spotify.com/track/5MimWt53Ukh0gcv7mC0Rnx) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Empty Sky](https://open.spotify.com/album/2AWW5zXJBwLeroqj9D5oWV) | 3:37 |
 | 45 | [As Tears Go By \- \(Original Single Mono Version\)](https://open.spotify.com/track/5rUwnfuvEebahvFInZB8mC) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Singles 1965\-1967](https://open.spotify.com/album/1IeXdR2ptc5Jhxmko89CgE) | 2:45 |
 | 46 | [Oh, What A Night](https://open.spotify.com/track/2ht21Rlf8L6cPLBkYmhpcs) | [The Dells](https://open.spotify.com/artist/0wbrRIw2po5DV4LeaHw55S) | [Oh, What A Night! / The Great Ballads](https://open.spotify.com/album/5IjlGKFY636wmz3eqE7V1N) | 4:07 |
 | 47 | [La\-La Means I Love You](https://open.spotify.com/track/5jzqOYJmouDjfxlUw2u27f) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Love Songs](https://open.spotify.com/album/47I69OChJY93PaFpCRhS31) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAWtyHQImlQ.md) - [plain]
 | 49 | [Losing You](https://open.spotify.com/track/78HTdAIfx2UBmFWZN4s7A6) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [..."Let Me Sing"](https://open.spotify.com/album/4oC3Mh9wD9vaZIvlxTsdX4) | 2:34 |
 | 50 | [Love Letters \(Alternate Take\)](https://open.spotify.com/track/3DDV3CsZan0GcUVZAtvs7N) | [Ketty Lester](https://open.spotify.com/artist/36pJnWrcvAsoWm6fUqGaHi) | [Ketty Lester Presenting Love Letters](https://open.spotify.com/album/3u5x4ufBilwbvdf6qt61yF) | 2:42 |
 
-Snapshot ID: `MTY3MjY4MjA3NiwwMDAwMDAwMGRjOWJjOGRjZDlhZGIwYWE3YTAzYmVjZmQyMWI1OGEw`
+Snapshot ID: `MTY3MjY4MjA3NiwwMDAwMDAwMDJhZjBmNjgzNjY0OGQyOTc1YWQ4ODAwMjk4NWU3NmRh`

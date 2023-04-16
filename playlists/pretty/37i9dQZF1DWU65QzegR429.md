@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 
 > Latin music making waves\. Cover: Myke Towers by Ian Woods
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,533 likes - 59 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,559 likes - 59 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,10 +62,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 | 52 | [KLK TE PASA A TI](https://open.spotify.com/track/4XSO2ESu4JENljsN2irGWz) | [Rosaly Rubio](https://open.spotify.com/artist/1RDmz5jLTAyj9onvIA4qv8) | [KLK TE PASA A TI](https://open.spotify.com/album/6BLCH4XUfASbKUCIZ5Zko3) | 2:46 |
 | 53 | [Saque Otro Tema](https://open.spotify.com/track/0JNCNJZC29fOBjiCIaDwIu) | [Menor Menor](https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW) | [Saque Otro Tema](https://open.spotify.com/album/07P3YTWehCjPYI571sbkew) | 2:51 |
 | 54 | [Solita](https://open.spotify.com/track/3gV9Ru9Kdkq5RcF0A2WjZj) | [Nino Augustine](https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU), [Mystro](https://open.spotify.com/artist/7GUayRAp1ClL94DXIwMmD4) | [Champion Ninz](https://open.spotify.com/album/4jRjuppvJlqiNdlxcl3Z31) | 2:19 |
-| 55 | [Deja Que Te Lleve](https://open.spotify.com/track/4DGSLcVNvIV7f2lDQgaCCn) | [Sessi](https://open.spotify.com/artist/6aPCzcaD2zGsu387By8SZX) | [Deja Que Te Lleve](https://open.spotify.com/album/4rYd9sf3XIZbTjhyk9WsES) | 3:23 |
-| 56 | [Noches X Madrid](https://open.spotify.com/track/5sWZqNtHppp5FdxPEIJnIn) | [Sara Deop](https://open.spotify.com/artist/3Wb3zC9MU5MF0xdvaB8too) | [Noches X Madrid](https://open.spotify.com/album/0y7pSZ8Z8CyuM2HhtEh1Zx) | 3:37 |
-| 57 | [Dime La Verdad](https://open.spotify.com/track/2ksfEETsqZ0La3QnJcfxbV) | [Luchy DR](https://open.spotify.com/artist/0SbiXy5hZuC7ZjOXNXygql), [Alcover](https://open.spotify.com/artist/2PctE0f82UrDM9CR3SXXGo) | [Lucky 7](https://open.spotify.com/album/3b2Zck8DtLyhMYxUgVDyho) | 3:15 |
-| 58 | [Yo Soy De PR](https://open.spotify.com/track/2YDcWtjC6zKfx3NYHR5SKW) | [Jey Blessing](https://open.spotify.com/artist/1MVP5iQH6wMKZuOn41UHOB), [Los Fantastikos](https://open.spotify.com/artist/0jaakjO6cMB5cJLeoa5aV2) | [Yo Soy De PR](https://open.spotify.com/album/4S35csP0ALLI8p1aNlqSj5) | 3:21 |
-| 59 | [Peligroso](https://open.spotify.com/track/2WRCmqSUVWpVZNeZ1u7njt) | [Joelii](https://open.spotify.com/artist/0wSQpwa2cKXukzGMH7WooV) | [Peligroso](https://open.spotify.com/album/6QIrGcDvMIooPaTOXLXk1Q) | 2:48 |
+| 55 | [Noches X Madrid](https://open.spotify.com/track/5sWZqNtHppp5FdxPEIJnIn) | [Sara Deop](https://open.spotify.com/artist/3Wb3zC9MU5MF0xdvaB8too) | [Noches X Madrid](https://open.spotify.com/album/0y7pSZ8Z8CyuM2HhtEh1Zx) | 3:37 |
+| 56 | [Dime La Verdad](https://open.spotify.com/track/2ksfEETsqZ0La3QnJcfxbV) | [Luchy DR](https://open.spotify.com/artist/0SbiXy5hZuC7ZjOXNXygql), [Alcover](https://open.spotify.com/artist/2PctE0f82UrDM9CR3SXXGo) | [Lucky 7](https://open.spotify.com/album/3b2Zck8DtLyhMYxUgVDyho) | 3:15 |
+| 57 | [Yo Soy De PR](https://open.spotify.com/track/2YDcWtjC6zKfx3NYHR5SKW) | [Jey Blessing](https://open.spotify.com/artist/1MVP5iQH6wMKZuOn41UHOB), [Los Fantastikos](https://open.spotify.com/artist/0jaakjO6cMB5cJLeoa5aV2) | [Yo Soy De PR](https://open.spotify.com/album/4S35csP0ALLI8p1aNlqSj5) | 3:21 |
+| 58 | [Peligroso](https://open.spotify.com/track/2WRCmqSUVWpVZNeZ1u7njt) | [Joelii](https://open.spotify.com/artist/0wSQpwa2cKXukzGMH7WooV) | [Peligroso](https://open.spotify.com/album/6QIrGcDvMIooPaTOXLXk1Q) | 2:48 |
+| 59 | [Pimpin' Smokin' Dro](https://open.spotify.com/track/4Q516psr4tSjGBrNbq2BHo) | [Los Rakas](https://open.spotify.com/artist/513odGmQbPb6hVERfJGeF0), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Pimpin' Smokin' Dro](https://open.spotify.com/album/7HM5lsCIeSuuxL3iD5hEXJ) | 3:50 |
 
-Snapshot ID: `MTY4MDU0ODA4NCwwMDAwMDAwMGViYWNlNmZlMTYzYmNlNTJmMmM1MjEwZDgzNGVhOWZk`
+Snapshot ID: `MTY4MDU0ODA4NCwwMDAwMDAwMGFiZDg1OWE5ZDUwZjU0ZWMzMGJiNWYyN2I5YjI2MGIy`

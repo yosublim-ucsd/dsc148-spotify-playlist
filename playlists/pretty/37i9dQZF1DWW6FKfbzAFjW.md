@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6FKfbzAFjW.md) - [plain]
 
 > Feel\-good tunes for your Cinco de Mayo\. ¡Salud!
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,732 likes - 44 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,731 likes - 44 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6FKfbzAFjW.md) - [plain]
 | 13 | [Volver, Volver](https://open.spotify.com/track/4Fvnz1ZJ86IdqDAepWYPAh) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Arriba Huentitan](https://open.spotify.com/album/5C4hWSmiBTcTKbBGB4ILx9) | 3:00 |
 | 14 | [Bidi Bidi Bom Bom](https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 3:07 |
 | 15 | [Rumba Cha\-Cha\-Cha](https://open.spotify.com/track/6Y0Z4tAyI5JwBPVbxKQpXe) | [Grupo Kual?](https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX) | [El Poder De La Cumbia](https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m) | 4:43 |
-| 16 | [Inténtalo \(feat\. América Sierra & El Bebeto\)](https://open.spotify.com/track/61aPpbJMAD5BjWkiHeX9R6) | [3BallMTY](https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L), [América Sierra](https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly), [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Inténtalo \(Deluxe Edition\)](https://open.spotify.com/album/4ldSAxBxxmdxlfoh81njb4) | 3:13 |
-| 17 | [La ingrata](https://open.spotify.com/track/19ScoKGqnfUggyqOVQjsoH) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Re](https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84) | 3:32 |
+| 16 | [La ingrata](https://open.spotify.com/track/19ScoKGqnfUggyqOVQjsoH) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Re](https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84) | 3:32 |
+| 17 | [Inténtalo \(feat\. América Sierra & El Bebeto\)](https://open.spotify.com/track/61aPpbJMAD5BjWkiHeX9R6) | [3BallMTY](https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L), [América Sierra](https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly), [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Inténtalo \(Deluxe Edition\)](https://open.spotify.com/album/4ldSAxBxxmdxlfoh81njb4) | 3:13 |
 | 18 | [Nunca Es Suficiente](https://open.spotify.com/track/63USmok1OioBzKuWGW9wAg) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Esto Sí Es Cumbia](https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY) | 4:26 |
 | 19 | [El Tucanazo](https://open.spotify.com/track/07Ag8vm1pW409NrhpPokFg) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Tucanes De Oro ..\. Secuestro De Amor](https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ) | 2:54 |
 | 20 | [Qué Maldición](https://open.spotify.com/track/1ovCSSWps8DWQwEDgmGiFp) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Qué Maldición](https://open.spotify.com/album/6oRHxFUQKBLocEBeWw24gb) | 3:23 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6FKfbzAFjW.md) - [plain]
 | 30 | [Mis Sentimientos](https://open.spotify.com/track/2LyHAsMcpW0Dm17rWYa79p) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Cómo Te Voy A Olvidar ¡Edición De Súper Lujo!](https://open.spotify.com/album/6Deil0rDdWFnJfYWryngKd) | 3:36 |
 | 31 | [Amor A La Mexicana](https://open.spotify.com/track/1LxoxVuG3T5Ji0eCua8N30) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Amor A La Mexicana](https://open.spotify.com/album/2tOjQfrdrnRNOwtDY1BLqD) | 4:25 |
 | 32 | [Estos Tragos Van Por Ti](https://open.spotify.com/track/7juo3MoTOGEkP3vcJi2aB6) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Estos Tragos Van Por Ti](https://open.spotify.com/album/3jjUeZ1Xz4TuqPLmyx0Dgc) | 2:24 |
-| 33 | [El Rey](https://open.spotify.com/track/32r25QdtfHgAxjohp2EoPH) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Historia De Un Idolo Vol.II](https://open.spotify.com/album/6S9uJJ8HUhvHrE42UIdaMH) | 2:34 |
-| 34 | [Tragos Amargos](https://open.spotify.com/track/7ENNmSQQajwKTPX0m7ejYA) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Cruzando Fronteras](https://open.spotify.com/album/4gNEQSuUGtz13sLf11vchI) | 2:44 |
+| 33 | [Tragos Amargos](https://open.spotify.com/track/7ENNmSQQajwKTPX0m7ejYA) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Cruzando Fronteras](https://open.spotify.com/album/4gNEQSuUGtz13sLf11vchI) | 2:44 |
+| 34 | [El Rey](https://open.spotify.com/track/32r25QdtfHgAxjohp2EoPH) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Historia De Un Idolo Vol.II](https://open.spotify.com/album/6S9uJJ8HUhvHrE42UIdaMH) | 2:34 |
 | 35 | [Tequila \(Original\)](https://open.spotify.com/track/14bUqUj1EUnQabWeAqnj39) | [The Champs](https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp) | [Tequila](https://open.spotify.com/album/2NJ4uQ6j4wASjGpGFc0m3C) | 2:10 |
 | 36 | [AYAYAY!](https://open.spotify.com/track/1yXOIdoYQiLMDzx9UHwD29) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [AYAYAY!](https://open.spotify.com/album/3oLsKk6OXduHxUv79P9I4H) | 2:10 |
 | 37 | [Monterrey](https://open.spotify.com/track/6y6xATSjOC2EpMTJh51R4v) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Pain Digital](https://open.spotify.com/artist/3ROBnT2BmT0WBbwJCOxtRD) | [Monterrey](https://open.spotify.com/album/5e62RmU6dB91wQA6TWrIyL) | 2:44 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6FKfbzAFjW.md) - [plain]
 | 43 | [La Fiesta en Acción](https://open.spotify.com/track/3xX5uR8mDntlOXZ3FbdEqh) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Durmiendo en el Lugar Equivocado](https://open.spotify.com/album/50x6RBfdV0Ao2eX3T2ekty) | 2:28 |
 | 44 | [Dame Otro Tequila](https://open.spotify.com/track/1vJcLbQyYRfmCoiyXKTsLk) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Pau Factor](https://open.spotify.com/album/5aJbHf0uuWc09nain4j3wl) | 2:42 |
 
-Snapshot ID: `MTY3MzI0NTkzNywwMDAwMDAwMDcxNDkyMWMwNDVlMDU2ZmNlOTUyMWI0MGNjODE2NzAx`
+Snapshot ID: `MTY3MzI0NTkzNywwMDAwMDAwMDQxMzc2MmJlMTMyZWIyMjU4NjZlNzM1MDA4ZmI1M2Yw`

@@ -4,13 +4,13 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-1,388 songs - 3 day 2 hr 19 min
+1,390 songs - 3 day 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/2Xwyq4AyKumjXIVV7uk1Z9) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Big boys](https://open.spotify.com/album/50yqUyt7aBiffET4A5nsjw) | 0:00 | 2023-01-15 | 2023-01-29 |
 | [](https://open.spotify.com/track/2la7g9bMqsgsWPC9WcQg56) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2Ul6Xcx8ghlQE20DVs3B0d) | 0:00 | 2022-10-01 | 2022-10-07 |
-| [](https://open.spotify.com/track/6j4w8KLDP4QZBrje0lEXFp) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Cupid \(Sped Up\) \[Remix\]](https://open.spotify.com/album/4y4ZPmIEBHAkD80Z3r64Ba) | 0:00 | 2023-04-13 |  |
+| [](https://open.spotify.com/track/6j4w8KLDP4QZBrje0lEXFp) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Cupid \(Sped Up\) \[Remix\]](https://open.spotify.com/album/4y4ZPmIEBHAkD80Z3r64Ba) | 0:00 | 2023-04-13 | 2023-04-16 |
 | [](https://open.spotify.com/track/6wJavOotAd4bEeB9QusGcE) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6OEHTTAAZowKU7LLZmvj2D) | 0:00 | 2022-07-08 | 2022-07-15 |
 | [\#doyalike](https://open.spotify.com/track/28wSGs5ktiBQeeArATV8VX) | [kazeWIW](https://open.spotify.com/artist/021U5Ph1AQMVUndqnLPMkL) | [\#doyalike](https://open.spotify.com/album/0nnDPfom0EYbRYphovv0hu) | 3:03 | 2022-05-24 | 2022-06-01 |
 | [\#doyalike](https://open.spotify.com/track/2HfZIE33sAibTpHibfdEDs) | [kazeWIW](https://open.spotify.com/artist/03G9a7of6KbiBL30L7UAAS) | [\#doyalike](https://open.spotify.com/album/2lB1L11fAMtcOyo3xnZGQ6) | 3:03 | 2022-04-22 | 2022-04-24 |
@@ -272,6 +272,7 @@
 | [Cria Da Ivete \- Ao Vivo](https://open.spotify.com/track/4XpB5oBPuygG2Gbpi3PUhu) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Chega Mais \(Ao Vivo\)](https://open.spotify.com/album/72ubm2vqYUYmYOjEUl687c) | 3:57 | 2023-02-20 | 2023-02-25 |
 | [Cupid](https://open.spotify.com/track/4dKa5ZzlGqUy3Wo0yaXKNI) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | 2:54 | 2023-03-21 | 2023-04-03 |
 | [Cupid](https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-04-02 |  |
+| [cupid \- \(sped up\)](https://open.spotify.com/track/2Bs3OsJiMadTe1oBRxMOSk) | [EXE ROHIT](https://open.spotify.com/artist/5tX9xh9VreUOfLMKftfgZu), [Shiv Jee Chaudhary](https://open.spotify.com/artist/48ltHaXk8qTrw0ZwbY84RZ), [Shivam Beatz](https://open.spotify.com/artist/4FLOGtHjaO2qkUKE4jYoIS) | [cupid \- \(sped up\)](https://open.spotify.com/album/23lLouUu8nNKAKxB1NcJVx) | 2:26 | 2023-04-15 |  |
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/3Kw7zkALCVxY4wmlnh2IWC) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | 2:54 | 2023-03-21 | 2023-04-03 |
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-04-02 |  |
 | [Cupido](https://open.spotify.com/track/04ndZkbKGthTgYSv3xS7en) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:54 | 2023-03-14 | 2023-03-19 |
@@ -1110,7 +1111,8 @@
 | [Sleazy Flow](https://open.spotify.com/track/5mt882Eqx22RwFOTE01jS8) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [Sleazy Flow](https://open.spotify.com/album/4Qku5Zl0Smuzw2ZbupxtaV) | 1:51 | 2022-03-23 | 2022-04-13 |
 | [SloMo](https://open.spotify.com/track/3XREkzDHsWdBL5tybyCDBH) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1) | [SloMo](https://open.spotify.com/album/0UMDRKVU0rz2nALo2bms9d) | 2:56 | 2022-02-02 | 2022-05-29 |
 | [Slow Motion](https://open.spotify.com/track/493QaNbrvbEiQdPH9hDP6z) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [Slow Motion](https://open.spotify.com/album/4UOWUmv18BNHHSOimMbP0g) | 2:46 | 2022-04-21 | 2022-05-15 |
-| [SLUT ME OUT](https://open.spotify.com/track/5BmB3OaQyYXCqRyN8iR2Yi) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [SLUT ME OUT](https://open.spotify.com/album/48868AJJd7JVl1IVmaBsaQ) | 2:03 | 2023-04-08 |  |
+| [SLUT ME OUT](https://open.spotify.com/track/0WoVfPjxsf9MTvPt9ptqeE) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Cottonwood 2](https://open.spotify.com/album/7l49L64CFakYuaV4EL11sP) | 2:03 | 2023-04-15 |  |
+| [SLUT ME OUT](https://open.spotify.com/track/5BmB3OaQyYXCqRyN8iR2Yi) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [SLUT ME OUT](https://open.spotify.com/album/48868AJJd7JVl1IVmaBsaQ) | 2:03 | 2023-04-08 | 2023-04-16 |
 | [SMILEY\(Feat\. BIBI\)](https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [ˣ‿ˣ \(SMiLEY\)](https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw) | 2:53 | 2022-02-08 | 2022-03-02 |
 | [SMOKE IT OFF!](https://open.spotify.com/track/1KEv0es8xWsrPU7VSFiZym) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm), [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh) | [SMOKE IT OFF!](https://open.spotify.com/album/59i6c9Y4NtR28gdkQ4Bg0S) | 1:57 | 2023-02-10 | 2023-03-22 |
 | [Smoke Sprite \(feat\. RM of BTS\)](https://open.spotify.com/track/5YSkDxmHvzSDWTu4MaEtfa) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Episode1 : Love](https://open.spotify.com/album/7yoMXU6kgxjIsowenBxzwD) | 4:02 | 2023-04-11 |  |

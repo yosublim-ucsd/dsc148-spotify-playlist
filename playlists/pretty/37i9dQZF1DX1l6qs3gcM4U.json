@@ -1,12 +1,12 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Badoxa.  ",
-  "num_followers": 162927,
+  "num_followers": 163032,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQyNjgwMCwwMDAwMDAwMDUxYTMzMDJhMzMwMTg4ZWQ2ZTU4N2IwNmQ4NDgzN2Q5",
+  "snapshot_id": "MTY4MTQyNjgwMCwwMDAwMDAwMGNlYTkxNjE3MDNkMDllNzc4MzI4ZjA3MjkwMmYwNzdl",
   "tracks": [
     {
       "added_at": "2023-04-13 23:00:00",
@@ -571,38 +571,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Mais Nada",
-        "url": "https://open.spotify.com/album/4qUns8RK2Sjqz9lHKCbPhT"
-      },
-      "artists": [
-        {
-          "name": "Cubita",
-          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
-        }
-      ],
-      "duration_ms": 176770,
-      "name": "Mais Nada",
-      "url": "https://open.spotify.com/track/2DDBR1QD9d9Qjg0a1hwOAJ"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
-        "name": "Bela",
-        "url": "https://open.spotify.com/album/6wYlnMmxyiCqrQqiW2fDtA"
-      },
-      "artists": [
-        {
-          "name": "Djodje",
-          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
-        }
-      ],
-      "duration_ms": 238790,
-      "name": "Bela",
-      "url": "https://open.spotify.com/track/03iBdmxAQ20A3SeIBazzjS"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Ayah",
         "url": "https://open.spotify.com/album/5QLgF0BFmcrhgIwDeNJemY"
       },
@@ -623,18 +591,34 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Ponto Fraco",
-        "url": "https://open.spotify.com/album/4BLNPhgHzxIWpbKNlJn68y"
+        "name": "Bela",
+        "url": "https://open.spotify.com/album/6wYlnMmxyiCqrQqiW2fDtA"
       },
       "artists": [
         {
-          "name": "Ver\u00e9",
-          "url": "https://open.spotify.com/artist/22ETMn3YclHsYBIh4iKuQp"
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
         }
       ],
-      "duration_ms": 184302,
-      "name": "Ponto Fraco",
-      "url": "https://open.spotify.com/track/3rVRiXccJGkY2LnO4JbjIx"
+      "duration_ms": 238790,
+      "name": "Bela",
+      "url": "https://open.spotify.com/track/03iBdmxAQ20A3SeIBazzjS"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Mais Nada",
+        "url": "https://open.spotify.com/album/4qUns8RK2Sjqz9lHKCbPhT"
+      },
+      "artists": [
+        {
+          "name": "Cubita",
+          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
+        }
+      ],
+      "duration_ms": 176770,
+      "name": "Mais Nada",
+      "url": "https://open.spotify.com/track/2DDBR1QD9d9Qjg0a1hwOAJ"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -659,6 +643,22 @@
       "duration_ms": 200598,
       "name": "Suleban",
       "url": "https://open.spotify.com/track/6nDSopKJiyH5XfhwNSsKYG"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Ponto Fraco",
+        "url": "https://open.spotify.com/album/4BLNPhgHzxIWpbKNlJn68y"
+      },
+      "artists": [
+        {
+          "name": "Ver\u00e9",
+          "url": "https://open.spotify.com/artist/22ETMn3YclHsYBIh4iKuQp"
+        }
+      ],
+      "duration_ms": 184302,
+      "name": "Ponto Fraco",
+      "url": "https://open.spotify.com/track/3rVRiXccJGkY2LnO4JbjIx"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
+        "name": "Desculpa",
+        "url": "https://open.spotify.com/album/258S9L0PGKl7o0dRA1A27H"
+      },
+      "artists": [
+        {
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+        }
+      ],
+      "duration_ms": 212504,
+      "name": "Desculpa",
+      "url": "https://open.spotify.com/track/0TuuZwRot3vVK6tqV8zh2q"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
         "name": "Don't Judge Me (Saxo-Kizomba)",
         "url": "https://open.spotify.com/album/7xpxOj2V9Pr00hgfNeeq4C"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 296000,
       "name": "Don't Judge Me (Saxo-Kizomba)",
       "url": "https://open.spotify.com/track/4kfiS4tlucOjdcBXT29cVY"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
-        "name": "Desculpa",
-        "url": "https://open.spotify.com/album/258S9L0PGKl7o0dRA1A27H"
-      },
-      "artists": [
-        {
-          "name": "Irina Barros",
-          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
-        }
-      ],
-      "duration_ms": 212504,
-      "name": "Desculpa",
-      "url": "https://open.spotify.com/track/0TuuZwRot3vVK6tqV8zh2q"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Mad Love",
-        "url": "https://open.spotify.com/album/6DxudgqAsL7IH8h1b5DYPZ"
-      },
-      "artists": [
-        {
-          "name": "Dynamo",
-          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
-        }
-      ],
-      "duration_ms": 192641,
-      "name": "Mad Love",
-      "url": "https://open.spotify.com/track/6J724avGtyTfnIWfKjlzLD"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Corno",
         "url": "https://open.spotify.com/album/5wIj5r7RnXbgpY86w5NIRZ"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 210424,
       "name": "Corno",
       "url": "https://open.spotify.com/track/65YDzoTd19yrff1ThXfmOW"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Mad Love",
+        "url": "https://open.spotify.com/album/6DxudgqAsL7IH8h1b5DYPZ"
+      },
+      "artists": [
+        {
+          "name": "Dynamo",
+          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
+        }
+      ],
+      "duration_ms": 192641,
+      "name": "Mad Love",
+      "url": "https://open.spotify.com/track/6J724avGtyTfnIWfKjlzLD"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1023,6 +1023,26 @@
       "duration_ms": 187109,
       "name": "N\u00e3o vai l\u00e1",
       "url": "https://open.spotify.com/track/1l52eiHWhwnSLfdyqBRAeY"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Esperei por Ti",
+        "url": "https://open.spotify.com/album/7xl0YtWJshZRPKBrtWDINn"
+      },
+      "artists": [
+        {
+          "name": "Badoxa",
+          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
+        },
+        {
+          "name": "Kiari Flores",
+          "url": "https://open.spotify.com/artist/44m8I1XmfEB4P6GeXqPq06"
+        }
+      ],
+      "duration_ms": 199037,
+      "name": "Esperei por Ti",
+      "url": "https://open.spotify.com/track/56JfvUwX7byrAiyteTG70P"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1063,26 +1083,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Esperei por Ti",
-        "url": "https://open.spotify.com/album/7xl0YtWJshZRPKBrtWDINn"
-      },
-      "artists": [
-        {
-          "name": "Badoxa",
-          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
-        },
-        {
-          "name": "Kiari Flores",
-          "url": "https://open.spotify.com/artist/44m8I1XmfEB4P6GeXqPq06"
-        }
-      ],
-      "duration_ms": 199037,
-      "name": "Esperei por Ti",
-      "url": "https://open.spotify.com/track/56JfvUwX7byrAiyteTG70P"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Segredo",
         "url": "https://open.spotify.com/album/3uUtzU3MSm7NSLlDCSEyNi"
       },
@@ -1095,6 +1095,22 @@
       "duration_ms": 207640,
       "name": "Segredo",
       "url": "https://open.spotify.com/track/034IlOlEs16xC7Pl4j9RTk"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Longe de Ti",
+        "url": "https://open.spotify.com/album/03wfykCwviZBpxcxcBEaN1"
+      },
+      "artists": [
+        {
+          "name": "Jay Oliver",
+          "url": "https://open.spotify.com/artist/19ynMaKoJYvOhZATkHYt3X"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Voc\u00ea Me Kuia",
+      "url": "https://open.spotify.com/track/4gvDUHpTEiVHhDeeobenz4"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1143,22 +1159,6 @@
       "duration_ms": 230217,
       "name": "Cuiar Assim",
       "url": "https://open.spotify.com/track/1624vqUVv4mXnaV1M4z6Fd"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
-        "name": "Longe de Ti",
-        "url": "https://open.spotify.com/album/03wfykCwviZBpxcxcBEaN1"
-      },
-      "artists": [
-        {
-          "name": "Jay Oliver",
-          "url": "https://open.spotify.com/artist/19ynMaKoJYvOhZATkHYt3X"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Voc\u00ea Me Kuia",
-      "url": "https://open.spotify.com/track/4gvDUHpTEiVHhDeeobenz4"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Vis\u00e3o",
-        "url": "https://open.spotify.com/album/5xiIvycERRfpQd1P3bGN9d"
-      },
-      "artists": [
-        {
-          "name": "Mika Mendes",
-          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
-        },
-        {
-          "name": "Cl\u00e1udio Ismael",
-          "url": "https://open.spotify.com/artist/5EoiaFh1ngnwqgcptsXRTo"
-        }
-      ],
-      "duration_ms": 214353,
-      "name": "Apaixonado",
-      "url": "https://open.spotify.com/track/0YOLLYNnFbOz0xagmru0SD"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Jaj\u00e3o (feat. Eddy Flow)",
         "url": "https://open.spotify.com/album/6EXDkJvIsctHejnqH1aQyN"
       },
@@ -1291,22 +1271,38 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "J\u00e1 N\u00e3o Sei",
-        "url": "https://open.spotify.com/album/5vPwS60vaPLCjp3L58jluO"
+        "name": "Vis\u00e3o",
+        "url": "https://open.spotify.com/album/5xiIvycERRfpQd1P3bGN9d"
       },
       "artists": [
         {
-          "name": "Badoxa",
-          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
+          "name": "Mika Mendes",
+          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
         },
+        {
+          "name": "Cl\u00e1udio Ismael",
+          "url": "https://open.spotify.com/artist/5EoiaFh1ngnwqgcptsXRTo"
+        }
+      ],
+      "duration_ms": 214353,
+      "name": "Apaixonado",
+      "url": "https://open.spotify.com/track/0YOLLYNnFbOz0xagmru0SD"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Sinto Falta",
+        "url": "https://open.spotify.com/album/10aek1HVhJYomxdvkC7jyq"
+      },
+      "artists": [
         {
           "name": "Yasmine",
           "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
         }
       ],
-      "duration_ms": 261115,
-      "name": "J\u00e1 N\u00e3o Sei",
-      "url": "https://open.spotify.com/track/2axmBwJacXBbSqvVbxtNzY"
+      "duration_ms": 202397,
+      "name": "Sinto Falta",
+      "url": "https://open.spotify.com/track/3HjUVOsrtf2fkJRXaXzhkO"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1327,18 +1323,22 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Sinto Falta",
-        "url": "https://open.spotify.com/album/10aek1HVhJYomxdvkC7jyq"
+        "name": "J\u00e1 N\u00e3o Sei",
+        "url": "https://open.spotify.com/album/5vPwS60vaPLCjp3L58jluO"
       },
       "artists": [
+        {
+          "name": "Badoxa",
+          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
+        },
         {
           "name": "Yasmine",
           "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
         }
       ],
-      "duration_ms": 202397,
-      "name": "Sinto Falta",
-      "url": "https://open.spotify.com/track/3HjUVOsrtf2fkJRXaXzhkO"
+      "duration_ms": 261115,
+      "name": "J\u00e1 N\u00e3o Sei",
+      "url": "https://open.spotify.com/track/2axmBwJacXBbSqvVbxtNzY"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1371,6 +1371,26 @@
       "duration_ms": 199500,
       "name": "Infinito",
       "url": "https://open.spotify.com/track/2e3KTRfz4appswSpkawQid"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Benka Benka",
+        "url": "https://open.spotify.com/album/02hwY0hIvxe1FWcZgTk5Iy"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Dias",
+          "url": "https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml"
+        },
+        {
+          "name": "SOS MUCCI",
+          "url": "https://open.spotify.com/artist/21ocGsKFd81lXPoObBFoCU"
+        }
+      ],
+      "duration_ms": 180026,
+      "name": "Benka Benka",
+      "url": "https://open.spotify.com/track/1qyB67YZSNblHfX5hQ09Ko"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1419,26 +1439,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Benka Benka",
-        "url": "https://open.spotify.com/album/02hwY0hIvxe1FWcZgTk5Iy"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Dias",
-          "url": "https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml"
-        },
-        {
-          "name": "SOS MUCCI",
-          "url": "https://open.spotify.com/artist/21ocGsKFd81lXPoObBFoCU"
-        }
-      ],
-      "duration_ms": 180026,
-      "name": "Benka Benka",
-      "url": "https://open.spotify.com/track/1qyB67YZSNblHfX5hQ09Ko"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Sempre Sonhei (feat. Yasmine)",
         "url": "https://open.spotify.com/album/28CIGKGLowlhWdHy7G8IHO"
       },
@@ -1475,6 +1475,26 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
+        "name": "Boda",
+        "url": "https://open.spotify.com/album/5MBwc952fsqXyjK2MPBHDR"
+      },
+      "artists": [
+        {
+          "name": "The Nitrox",
+          "url": "https://open.spotify.com/artist/1QHmQj5zO28KW6Af9MQ8xj"
+        },
+        {
+          "name": "CEF Tanzy",
+          "url": "https://open.spotify.com/artist/1H9tGEiPd91p977DunDG8G"
+        }
+      ],
+      "duration_ms": 173844,
+      "name": "Boda",
+      "url": "https://open.spotify.com/track/1oXbGqMPqugKoEaEuBZMXL"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
         "name": "Arrepios",
         "url": "https://open.spotify.com/album/430jQV4UrweqvoV5osODxI"
       },
@@ -1487,26 +1507,6 @@
       "duration_ms": 204149,
       "name": "Arrepios",
       "url": "https://open.spotify.com/track/7KBOMXpAmxO7kmPpyj43vb"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
-        "name": "Vibra",
-        "url": "https://open.spotify.com/album/3y3l6JbXvuBAKP5TGY7Fu2"
-      },
-      "artists": [
-        {
-          "name": "William Araujo",
-          "url": "https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon"
-        },
-        {
-          "name": "SOS MUCCI",
-          "url": "https://open.spotify.com/artist/21ocGsKFd81lXPoObBFoCU"
-        }
-      ],
-      "duration_ms": 170906,
-      "name": "Vibra",
-      "url": "https://open.spotify.com/track/4Puvx015SEBAgnvPFi3yGq"
     }
   ],
   "unique_name": "Dancing Kizomba",

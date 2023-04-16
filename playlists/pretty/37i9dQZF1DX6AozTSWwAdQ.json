@@ -1,15 +1,15 @@
 {
   "description": "\u6c92\u6709\u4ec0\u9ebc\u6bd4\u611f\u89ba\u597d\u66f4\u91cd\u8981\u4e86\uff01\u9019\u88e1\u7684\u6b4c\u66f2\u80fd\u5927\u5927\u632f\u596e\u5fc3\u60c5\u3001\u4ee4\u4f60\u5143\u6c23\u5341\u8db3\uff01",
-  "num_followers": 55727,
+  "num_followers": 55738,
   "original_name": "\u5fc3\u60c5\u5927\u632f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTEwMTI1OSwwMDAwMDAwMDdjOTY3OGRiOTU3MmFlM2U1YWMxOTFhZmFjZTRkMDgw",
+  "snapshot_id": "MTY4MTEwMTI1OSwwMDAwMDAwMDZkZjJkOGVjM2IxY2E0MTViYTA5ZGRlYzU1MWJiYzY4",
   "tracks": [
     {
-      "added_at": "2023-04-15 01:06:34",
+      "added_at": "2023-04-16 00:44:14",
       "album": {
         "name": "Meteora 20th Anniversary Edition",
         "url": "https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
     },
     {
-      "added_at": "2023-04-15 01:06:34",
+      "added_at": "2023-04-16 00:44:14",
       "album": {
         "name": "eighteen",
         "url": "https://open.spotify.com/album/5X37ePjevJgwrKDzk9S3mY"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ"
     },
     {
-      "added_at": "2023-04-15 01:06:34",
+      "added_at": "2023-04-16 00:44:14",
       "album": {
         "name": "Misery Made Me (Deluxe)",
         "url": "https://open.spotify.com/album/3ENQtNYF2dLk3vwHP67oy0"
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-04-03 02:33:10",
       "album": {
-        "name": "Harry Styles",
-        "url": "https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 176386,
-      "name": "Kiwi",
-      "url": "https://open.spotify.com/track/33SNO8AaciGbNaQFkxvPrW"
-    },
-    {
-      "added_at": "2023-04-03 02:33:10",
-      "album": {
         "name": "Honeymoon",
         "url": "https://open.spotify.com/album/6QZyKchQivUBTSMcoBmlPa"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 147350,
       "name": "Cloud 9",
       "url": "https://open.spotify.com/track/6vFsBXYczYsP0H3lgunZOm"
+    },
+    {
+      "added_at": "2023-04-03 02:33:10",
+      "album": {
+        "name": "Harry Styles",
+        "url": "https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 176386,
+      "name": "Kiwi",
+      "url": "https://open.spotify.com/track/33SNO8AaciGbNaQFkxvPrW"
     },
     {
       "added_at": "2023-04-03 02:33:10",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-04-03 02:33:10",
       "album": {
-        "name": "Amelia",
-        "url": "https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D"
-      },
-      "artists": [
-        {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
-        }
-      ],
-      "duration_ms": 176989,
-      "name": "Freezing",
-      "url": "https://open.spotify.com/track/7reh67rES37v1n9grDX6HO"
-    },
-    {
-      "added_at": "2023-04-03 02:33:10",
-      "album": {
         "name": "Eyes On You",
         "url": "https://open.spotify.com/album/2vwW8EzZGZaAFfZ2HYL1hE"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 177371,
       "name": "Eyes On You",
       "url": "https://open.spotify.com/track/6qItx3M2IZbXBKRnptbnHM"
+    },
+    {
+      "added_at": "2023-04-03 02:33:10",
+      "album": {
+        "name": "Amelia",
+        "url": "https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "duration_ms": 176989,
+      "name": "Freezing",
+      "url": "https://open.spotify.com/track/7reh67rES37v1n9grDX6HO"
     },
     {
       "added_at": "2023-04-03 02:33:10",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-04-03 02:33:10",
       "album": {
-        "name": "she's all i wanna be",
-        "url": "https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 206772,
-      "name": "she's all i wanna be",
-      "url": "https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW"
-    },
-    {
-      "added_at": "2023-04-03 02:33:10",
-      "album": {
         "name": "Lost The Breakup",
         "url": "https://open.spotify.com/album/60trS6aUorLG5ZBi1bWcz8"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 189413,
       "name": "Lost The Breakup",
       "url": "https://open.spotify.com/track/13SfKfixPEDQBOYYtaY3Wh"
+    },
+    {
+      "added_at": "2023-04-03 02:33:10",
+      "album": {
+        "name": "she's all i wanna be",
+        "url": "https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 206772,
+      "name": "she's all i wanna be",
+      "url": "https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW"
     },
     {
       "added_at": "2023-04-03 02:33:10",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-04-03 02:33:10",
       "album": {
-        "name": "POS",
-        "url": "https://open.spotify.com/album/0zS7Tn6JbtibKKAHabrjA5"
-      },
-      "artists": [
-        {
-          "name": "Sueco",
-          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
-        }
-      ],
-      "duration_ms": 133882,
-      "name": "POS",
-      "url": "https://open.spotify.com/track/2dGj0K0iIrgb3ie1QSLtSL"
-    },
-    {
-      "added_at": "2023-04-03 02:33:10",
-      "album": {
         "name": "Heartbreak Weather",
         "url": "https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 193089,
       "name": "Black And White",
       "url": "https://open.spotify.com/track/7rpNuuoMbid56XkDsx2FjE"
+    },
+    {
+      "added_at": "2023-04-03 02:33:10",
+      "album": {
+        "name": "POS",
+        "url": "https://open.spotify.com/album/0zS7Tn6JbtibKKAHabrjA5"
+      },
+      "artists": [
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        }
+      ],
+      "duration_ms": 133882,
+      "name": "POS",
+      "url": "https://open.spotify.com/track/2dGj0K0iIrgb3ie1QSLtSL"
     },
     {
       "added_at": "2023-04-03 02:33:10",

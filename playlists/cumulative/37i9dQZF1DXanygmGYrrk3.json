@@ -1928,7 +1928,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 238677,
       "name": "En Tu Perra Vida",
       "url": "https://open.spotify.com/track/0ldT3gl7aGNzrJyd4b1CA4"
@@ -2506,7 +2506,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 188416,
       "name": "La Boda Del Huitlacoche - Live",
       "url": "https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs"
@@ -2984,7 +2984,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-21",
+      "date_removed": null,
       "duration_ms": 155802,
       "name": "Me La Avente",
       "url": "https://open.spotify.com/track/3ahvKiNH7l6EpnTnzkZpG1"
@@ -4198,6 +4198,28 @@
       "duration_ms": 197819,
       "name": "Qu\u00e9 Mal Te Ves Sin M\u00ed",
       "url": "https://open.spotify.com/track/4lc3SmNj0FBtPGygUfeGc4"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Onda Perdida",
+        "url": "https://open.spotify.com/album/6kbhZqFlf80O9LW2EAWz15"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239637,
+      "name": "Qu\u00e9 Onda Perdida",
+      "url": "https://open.spotify.com/track/3upTB6o5YgeALHgDp3mzte"
     },
     {
       "album": {

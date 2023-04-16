@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEerxa93vDU.md) - [plain]
 
 > Relaxing and soft piano, to get those chill sunday morning vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,287 likes - 233 songs - 9 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,295 likes - 233 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEerxa93vDU.md) - [plain]
 | 49 | [Amsterdam](https://open.spotify.com/track/6L72yLmrVEasOQ42jonfO1) | [Michiel Borstlap](https://open.spotify.com/artist/3NLvXOZtSYiCwXc24os7Wh) | [Amsterdam](https://open.spotify.com/album/771V9r0kAhWx7BA399Eirf) | 1:51 |
 | 50 | [Starling](https://open.spotify.com/track/0JJW5BjdAwIfwcZ87fWswG) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Starling](https://open.spotify.com/album/17HUO0GuAJJGeDZfOiSQbr) | 4:04 |
 | 51 | [Singularities](https://open.spotify.com/track/0Tkj0zVric1PWv2NVauxdi) | [Constance Lucas](https://open.spotify.com/artist/3xe11Jl7vdO7Py3udTGzWq) | [Singularities](https://open.spotify.com/album/6S4hCHy5zVfBy0Ceauipg9) | 2:29 |
-| 52 | [Eternity](https://open.spotify.com/track/77Ou8ploPVp1uIrw6YJttx) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Gjeilo: Eternity](https://open.spotify.com/album/4LZCr4GDptLhBau8gLAE4s) | 1:45 |
+| 52 | [Gjeilo: Eternity](https://open.spotify.com/track/77Ou8ploPVp1uIrw6YJttx) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Gjeilo: Eternity](https://open.spotify.com/album/4LZCr4GDptLhBau8gLAE4s) | 1:45 |
 | 53 | [Periferi](https://open.spotify.com/track/3XQE7ZJGVZTcPcZMZslJk5) | [Aeyes Libe](https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv) | [Periferi](https://open.spotify.com/album/1hlrScthcnYasjcFUZk5Ca) | 2:24 |
 | 54 | [in a room full of you](https://open.spotify.com/track/0BZLKyvqypWnn5kfysaNPt) | [like gentle rain](https://open.spotify.com/artist/1buksjoq8qDrWEYexFNnG4) | [in a room full of you](https://open.spotify.com/album/2YPuaSGp6LRpyD1GchSwkI) | 3:12 |
 | 55 | [Lanterns Ascending](https://open.spotify.com/track/1q4LgMZguHvaPnmihuL62s) | [Eberina](https://open.spotify.com/artist/3VPVhQsx3V6CNIjMr0EQf4) | [Lanterns Ascending](https://open.spotify.com/album/4DN6WfnwvhROng2D9dV0SR) | 3:07 |

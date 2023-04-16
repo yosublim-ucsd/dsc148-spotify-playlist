@@ -1,12 +1,12 @@
 {
   "description": "The Latin soundtrack of the 2000s! Cover: Shakira",
-  "num_followers": 251012,
+  "num_followers": 251072,
   "original_name": "00s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTIwNzI3MCwwMDAwMDAwMDUxN2Q4MzQxYjIxMTgzYmIwMzg1MGNhZWQ0ODQwZjU2",
+  "snapshot_id": "MTY3NTIwNzI3MCwwMDAwMDAwMGMwNjhjNTM4NWY4YzI2ZWI5YzA3MjBmMWNiODhiYmNh",
   "tracks": [
     {
       "added_at": "2023-01-31 23:21:10",
@@ -127,6 +127,22 @@
     {
       "added_at": "2023-01-31 23:21:10",
       "album": {
+        "name": "Un D\u00eda Normal",
+        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 250693,
+      "name": "Es Por Ti",
+      "url": "https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl"
+    },
+    {
+      "added_at": "2023-01-31 23:21:10",
+      "album": {
         "name": "De mi pu\u00f1o y letra - Edicion Coleccionista",
         "url": "https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 230280,
       "name": "Colgando en tus manos (con Marta S\u00e1nchez)",
       "url": "https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO"
-    },
-    {
-      "added_at": "2023-01-31 23:21:10",
-      "album": {
-        "name": "Un D\u00eda Normal",
-        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 250693,
-      "name": "Es Por Ti",
-      "url": "https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl"
     },
     {
       "added_at": "2023-01-31 23:21:10",
@@ -335,6 +335,22 @@
     {
       "added_at": "2023-01-31 23:21:10",
       "album": {
+        "name": "Caraluna",
+        "url": "https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj"
+      },
+      "artists": [
+        {
+          "name": "Bacilos",
+          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
+        }
+      ],
+      "duration_ms": 237386,
+      "name": "Mi primer millon",
+      "url": "https://open.spotify.com/track/5fSDXbY8o9pA3TKwAbfwML"
+    },
+    {
+      "added_at": "2023-01-31 23:21:10",
+      "album": {
         "name": "Cuatro Caminos",
         "url": "https://open.spotify.com/album/3ifA4OUPiT92YB4vYtAdVh"
       },
@@ -387,22 +403,6 @@
     {
       "added_at": "2023-01-31 23:21:10",
       "album": {
-        "name": "Caraluna",
-        "url": "https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj"
-      },
-      "artists": [
-        {
-          "name": "Bacilos",
-          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
-        }
-      ],
-      "duration_ms": 237386,
-      "name": "Mi primer millon",
-      "url": "https://open.spotify.com/track/5fSDXbY8o9pA3TKwAbfwML"
-    },
-    {
-      "added_at": "2023-01-31 23:21:10",
-      "album": {
         "name": "God's Project",
         "url": "https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5"
       },
@@ -439,6 +439,22 @@
     {
       "added_at": "2023-01-31 23:21:10",
       "album": {
+        "name": "Stereo Hits",
+        "url": "https://open.spotify.com/album/6y3FTrfW6zFquk2V1qU2as"
+      },
+      "artists": [
+        {
+          "name": "M\u0153nia",
+          "url": "https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV"
+        }
+      ],
+      "duration_ms": 219533,
+      "name": "Ni T\u00fa Ni Nadie",
+      "url": "https://open.spotify.com/track/16J6wH4Evm97ta1hDQIYQC"
+    },
+    {
+      "added_at": "2023-01-31 23:21:10",
+      "album": {
         "name": "Santo Pecado",
         "url": "https://open.spotify.com/album/7jlpMHgMoGjy2mc0CwzCjf"
       },
@@ -455,18 +471,18 @@
     {
       "added_at": "2023-01-31 23:21:10",
       "album": {
-        "name": "Stereo Hits",
-        "url": "https://open.spotify.com/album/6y3FTrfW6zFquk2V1qU2as"
+        "name": "Pa'l Mundo",
+        "url": "https://open.spotify.com/album/0mfiGkVJST0ysEVznu2aZP"
       },
       "artists": [
         {
-          "name": "M\u0153nia",
-          "url": "https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV"
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
         }
       ],
-      "duration_ms": 219533,
-      "name": "Ni T\u00fa Ni Nadie",
-      "url": "https://open.spotify.com/track/16J6wH4Evm97ta1hDQIYQC"
+      "duration_ms": 172680,
+      "name": "Rakata",
+      "url": "https://open.spotify.com/track/1kQqiC1rS1FiuVpeBKN0QN"
     },
     {
       "added_at": "2023-01-31 23:21:10",
@@ -523,22 +539,6 @@
       "duration_ms": 300160,
       "name": "Tu Amor Me Hace Bien - Salsa Version",
       "url": "https://open.spotify.com/track/3yEtuhGR8jOtusa29jWrhG"
-    },
-    {
-      "added_at": "2023-01-31 23:21:10",
-      "album": {
-        "name": "Pa'l Mundo",
-        "url": "https://open.spotify.com/album/0mfiGkVJST0ysEVznu2aZP"
-      },
-      "artists": [
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        }
-      ],
-      "duration_ms": 172680,
-      "name": "Rakata",
-      "url": "https://open.spotify.com/track/1kQqiC1rS1FiuVpeBKN0QN"
     },
     {
       "added_at": "2023-01-31 23:21:10",
@@ -855,6 +855,38 @@
     {
       "added_at": "2023-01-31 23:21:10",
       "album": {
+        "name": "Elefante",
+        "url": "https://open.spotify.com/album/42Fc71rqB9qZAb84q0Hs3U"
+      },
+      "artists": [
+        {
+          "name": "Elefante",
+          "url": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
+        }
+      ],
+      "duration_ms": 244760,
+      "name": "Mentirosa",
+      "url": "https://open.spotify.com/track/2AW8HXB5U4QA0ZmApbRM0B"
+    },
+    {
+      "added_at": "2023-01-31 23:21:10",
+      "album": {
+        "name": "Laundry Service",
+        "url": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 224066,
+      "name": "Underneath Your Clothes",
+      "url": "https://open.spotify.com/track/15f8Cv8RXUlOOCIf2oaceN"
+    },
+    {
+      "added_at": "2023-01-31 23:21:10",
+      "album": {
         "name": "Celestial",
         "url": "https://open.spotify.com/album/1cjDwE4UHCXZOwgYE3XUgw"
       },
@@ -895,38 +927,6 @@
     {
       "added_at": "2023-01-31 23:21:10",
       "album": {
-        "name": "Elefante",
-        "url": "https://open.spotify.com/album/42Fc71rqB9qZAb84q0Hs3U"
-      },
-      "artists": [
-        {
-          "name": "Elefante",
-          "url": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
-        }
-      ],
-      "duration_ms": 244760,
-      "name": "Mentirosa",
-      "url": "https://open.spotify.com/track/2AW8HXB5U4QA0ZmApbRM0B"
-    },
-    {
-      "added_at": "2023-01-31 23:21:10",
-      "album": {
-        "name": "Laundry Service",
-        "url": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 224066,
-      "name": "Underneath Your Clothes",
-      "url": "https://open.spotify.com/track/15f8Cv8RXUlOOCIf2oaceN"
-    },
-    {
-      "added_at": "2023-01-31 23:21:10",
-      "album": {
         "name": "Par\u00eds",
         "url": "https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8"
       },
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-01-31 23:21:10",
       "album": {
-        "name": "Prince Royce",
-        "url": "https://open.spotify.com/album/5zEFCJy9kAyD8rMbBESdYh"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 205266,
-      "name": "Stand by Me",
-      "url": "https://open.spotify.com/track/0DQd0tWurMHUAv0cMnDELH"
-    },
-    {
-      "added_at": "2023-01-31 23:21:10",
-      "album": {
         "name": "Hijas del Tomate",
         "url": "https://open.spotify.com/album/5Fs94v1xXPl8Q1mTMWMTLO"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 213973,
       "name": "The Ketchup Song (Aserej\u00e9) - Spanglish Version",
       "url": "https://open.spotify.com/track/6UEfyhyfhYQsyipxOd95Ie"
+    },
+    {
+      "added_at": "2023-01-31 23:21:10",
+      "album": {
+        "name": "Prince Royce",
+        "url": "https://open.spotify.com/album/5zEFCJy9kAyD8rMbBESdYh"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 205266,
+      "name": "Stand by Me",
+      "url": "https://open.spotify.com/track/0DQd0tWurMHUAv0cMnDELH"
     },
     {
       "added_at": "2023-01-31 23:21:10",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-01-31 23:21:10",
       "album": {
-        "name": "Los Rayos",
-        "url": "https://open.spotify.com/album/3V1lU1Jy0eKU2wMCsmJ0TF"
-      },
-      "artists": [
-        {
-          "name": "Vicentico",
-          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
-        }
-      ],
-      "duration_ms": 239040,
-      "name": "Los Caminos de la Vida",
-      "url": "https://open.spotify.com/track/1crk0MXXyFQ1zVow6YTJOo"
-    },
-    {
-      "added_at": "2023-01-31 23:21:10",
-      "album": {
         "name": "Nuestro Amor",
         "url": "https://open.spotify.com/album/6pBngj1vpWoWV2L2e0XQVF"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 214933,
       "name": "A\u00fan Hay Algo",
       "url": "https://open.spotify.com/track/6fqpsCQ7jF7OgQolXgYovX"
+    },
+    {
+      "added_at": "2023-01-31 23:21:10",
+      "album": {
+        "name": "Los Rayos",
+        "url": "https://open.spotify.com/album/3V1lU1Jy0eKU2wMCsmJ0TF"
+      },
+      "artists": [
+        {
+          "name": "Vicentico",
+          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
+        }
+      ],
+      "duration_ms": 239040,
+      "name": "Los Caminos de la Vida",
+      "url": "https://open.spotify.com/track/1crk0MXXyFQ1zVow6YTJOo"
     },
     {
       "added_at": "2023-01-31 23:21:10",
@@ -1175,6 +1175,46 @@
       "duration_ms": 227280,
       "name": "Pam Pam",
       "url": "https://open.spotify.com/track/2up69Rho7swRdP1MHqzX3n"
+    },
+    {
+      "added_at": "2023-01-31 23:21:10",
+      "album": {
+        "name": "Nuestro Amor",
+        "url": "https://open.spotify.com/album/6pBngj1vpWoWV2L2e0XQVF"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+        }
+      ],
+      "duration_ms": 215746,
+      "name": "Nuestro Amor",
+      "url": "https://open.spotify.com/track/7F7qwp7VZRVwZsNoddRRgX"
     },
     {
       "added_at": "2023-01-31 23:21:10",
@@ -1275,46 +1315,6 @@
     {
       "added_at": "2023-01-31 23:21:10",
       "album": {
-        "name": "Nuestro Amor",
-        "url": "https://open.spotify.com/album/6pBngj1vpWoWV2L2e0XQVF"
-      },
-      "artists": [
-        {
-          "name": "RBD",
-          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
-        },
-        {
-          "name": "Anah\u00ed",
-          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
-        },
-        {
-          "name": "Dulce Mar\u00eda",
-          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
-        },
-        {
-          "name": "Maite Perroni",
-          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
-        },
-        {
-          "name": "Christian Ch\u00e1vez",
-          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
-        },
-        {
-          "name": "Christopher von Uckermann",
-          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
-        },
-        {
-          "name": "Alfonso Herrera",
-          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
-        }
-      ],
-      "duration_ms": 215746,
-      "name": "Nuestro Amor",
-      "url": "https://open.spotify.com/track/7F7qwp7VZRVwZsNoddRRgX"
-    },
-    {
-      "added_at": "2023-01-31 23:21:10",
-      "album": {
         "name": "Ananda",
         "url": "https://open.spotify.com/album/3crF1rm8dNCybqtUd1gNZj"
       },
@@ -1363,18 +1363,42 @@
     {
       "added_at": "2023-01-31 23:21:10",
       "album": {
-        "name": "Dejame Entrar",
-        "url": "https://open.spotify.com/album/7qRqrZOCvzZLsNlOawHURC"
+        "name": "Rebelde",
+        "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
       "artists": [
         {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
         }
       ],
-      "duration_ms": 240760,
-      "name": "Dejame Entrar",
-      "url": "https://open.spotify.com/track/2jNqxXMkVVpEvjvvwvUDDD"
+      "duration_ms": 214306,
+      "name": "Rebelde",
+      "url": "https://open.spotify.com/track/56tOMi4N980gmsdUoyaLb3"
     }
   ],
   "unique_name": "00s Latino",

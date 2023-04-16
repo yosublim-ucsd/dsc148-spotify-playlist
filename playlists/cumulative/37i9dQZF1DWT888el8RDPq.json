@@ -1830,7 +1830,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 239888,
       "name": "Escapism. - Sped Up",
       "url": "https://open.spotify.com/track/4rPJSqrov3zqGwXlemLBMw"
@@ -2412,10 +2412,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
+    },
+    {
+      "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
     },
     {
       "album": {
@@ -3534,6 +3552,24 @@
       "duration_ms": 234093,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723"
+    },
+    {
+      "album": {
+        "name": "Lost The Breakup",
+        "url": "https://open.spotify.com/album/60trS6aUorLG5ZBi1bWcz8"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189413,
+      "name": "Lost The Breakup",
+      "url": "https://open.spotify.com/track/13SfKfixPEDQBOYYtaY3Wh"
     },
     {
       "album": {

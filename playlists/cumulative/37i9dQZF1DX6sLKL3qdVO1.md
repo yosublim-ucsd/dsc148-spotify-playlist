@@ -4,7 +4,7 @@
 
 > Nosotros tenemo' la calle prendida\. Dale Flow con Rosalía toda la noche y todo el día
 
-380 songs - 20 hr 58 min
+381 songs - 21 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [787](https://open.spotify.com/track/7fkckxJLcwDO62DeutVtUo) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [787](https://open.spotify.com/album/3Y3aMcdlV3b2InwFcNvsxa) | 3:45 | 2021-12-17 | 2022-07-23 |
 | [A Mí](https://open.spotify.com/track/7MmrcXVA7A5zZ2CbDuGHNa) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [A Mí](https://open.spotify.com/album/3tc9WifLZvWKnoWzLPmaeO) | 3:29 | 2022-12-16 |  |
 | [AFTER PARTY](https://open.spotify.com/track/2dJBk3D3vAqj3hnULBYny6) | [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [AFTER PARTY](https://open.spotify.com/album/2kNNMnHh6XovIPMNA2mIzU) | 3:30 | 2023-03-10 |  |
-| [AGUARDIENTE](https://open.spotify.com/track/6jhB0WW148mVOX7VuV2ga0) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [AGUARDIENTE](https://open.spotify.com/album/1ox6fzQPXwDtsTg8EQrplp) | 2:47 | 2023-03-10 |  |
+| [AGUARDIENTE](https://open.spotify.com/track/3Z0l8qwMuC376pcutLVsY8) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 2:47 | 2023-04-14 |  |
+| [AGUARDIENTE](https://open.spotify.com/track/6jhB0WW148mVOX7VuV2ga0) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [AGUARDIENTE](https://open.spotify.com/album/1ox6fzQPXwDtsTg8EQrplp) | 2:47 | 2023-03-10 | 2023-04-16 |
 | [ALERTA BB](https://open.spotify.com/track/5WoudyHePcBEHrwVYCQmSn) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [ALERTA BB](https://open.spotify.com/album/0PA4BKQQgSYov1Hytn6Ilp) | 3:16 | 2023-02-24 |  |
 | [ALGARETE](https://open.spotify.com/track/2ec3eRB4zEYzuBl3cja0qA) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [ALGARETE](https://open.spotify.com/album/7leHFUki2RpwAxMJU6Du3n) | 3:28 | 2023-03-31 |  |
 | [AMIGA](https://open.spotify.com/track/37Q98j1xECmF8FDH8NHVlx) | [Lizz](https://open.spotify.com/artist/7DPxoBLEzgxzbhN0MAvyt6), [Tomasa del Real](https://open.spotify.com/artist/3Dz4sliAAIVOlALfHW9TtD) | [AMIGA](https://open.spotify.com/album/0vBbku18pQfN1H8q3mQWoc) | 3:24 | 2023-02-17 | 2023-02-25 |

@@ -4,7 +4,7 @@
 
 > Músicas calminhas pra começar o dia bem relax.
 
-186 songs - 10 hr 41 min
+187 songs - 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Coisa Mais Linda Que Existe](https://open.spotify.com/track/6aATs7AGA2Er7FwEPZFKD9) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [A Coisa Mais Linda Que Existe](https://open.spotify.com/album/2gi7OZoy2d0VHMQBeV8OJV) | 3:52 | 2022-02-18 | 2022-07-29 |
 | [A noite](https://open.spotify.com/track/06XSmh92M0FIYNGC4Ss0CX) | [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7) | [Esmeraldas \(Álbum Comentado\)](https://open.spotify.com/album/6EtAuxIwZCEuUZEqn2DwII) | 3:38 | 2022-04-01 |  |
 | [Acalanto](https://open.spotify.com/track/16eU7wtX9pv2RPtIoDHVeO) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Um Corpo no Mundo](https://open.spotify.com/album/3PH6R6Ah2YfJeufrRYREZ4) | 3:44 | 2022-04-01 | 2023-01-28 |
+| [Acalanto](https://open.spotify.com/track/5TTWOyGAjATPEuDiTIRd62) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Um Corpo no Mundo](https://open.spotify.com/album/6Qg6H9Uo0Iymf3OROPLSDN) | 3:44 | 2023-04-15 |  |
 | [Acontecer](https://open.spotify.com/track/6RTh9V7Po93v5V0HAM230J) | [Sávio](https://open.spotify.com/artist/4ElL2M4IPZftmoEmkHgMiz) | [Acontecer](https://open.spotify.com/album/7r9zQdhPp0M1cDIsItlExI) | 2:59 | 2022-04-01 | 2022-04-21 |
 | [Ai de Mim](https://open.spotify.com/track/5df99H7yd4phkyAR9feLdf) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo), [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8) | [OutroEu](https://open.spotify.com/album/0TkXnCE4W4ePll9mXmjhP4) | 4:18 | 2022-04-01 | 2022-04-19 |
 | [Ai que Saudade D'Ocê \- Sessions](https://open.spotify.com/track/3jLkEBt841U8Nbca03XD0q) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Mariana Nolasco Sessions 2](https://open.spotify.com/album/5hOl5QyQ3r0Y9DQDoVfszF) | 2:18 | 2022-02-18 |  |
@@ -36,10 +37,10 @@
 | [Benditas](https://open.spotify.com/track/0QzxEXZTx8Ygqhl3yDhvaA) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Moska Apresenta Zoombido: Mart'nália](https://open.spotify.com/album/61iI1h0ZvmKVjJOE3siQhn) | 3:30 | 2022-04-01 | 2022-06-09 |
 | [Benzin](https://open.spotify.com/track/15zJ06ES4cb5elQNwey99F) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Juliette](https://open.spotify.com/album/2QGcICCnguCa8ovMHUMs3q) | 2:54 | 2022-02-18 | 2022-11-15 |
 | [Bixinho](https://open.spotify.com/track/04RFAnuBZkyITGUNIbZHhb) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Sinto Muito](https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx) | 3:25 | 2022-02-18 |  |
-| [Boca de Açaí](https://open.spotify.com/track/7xN0nAmh7igHAFoB0PW8kX) | [Maria Luiza Jobim](https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM) | [Boca de Açaí](https://open.spotify.com/album/3koHtGJavl6vMvCImlNNXG) | 3:27 | 2023-03-17 |  |
+| [Boca de Açaí](https://open.spotify.com/track/7xN0nAmh7igHAFoB0PW8kX) | [Maria Luiza Jobim](https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM) | [Boca de Açaí](https://open.spotify.com/album/3koHtGJavl6vMvCImlNNXG) | 3:27 | 2023-03-17 | 2023-04-16 |
 | [Bola de Sabão](https://open.spotify.com/track/0Wr2aRTg74el3e98NKu8Zs) | [Pe Lu](https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD) | [Carnaval de Sofá](https://open.spotify.com/album/6ne5ijX7ThpjEdy3y3GZBk) | 3:06 | 2022-02-18 | 2022-07-25 |
 | [Bolso de Fora](https://open.spotify.com/track/5iWMuRfisNdTVfKYxF5NXr) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Onze \(Músicas Inéditas de Adoniran Barbosa\)](https://open.spotify.com/album/5XhVm7loNdz3YTAkTgDPgF) | 2:54 | 2022-04-01 | 2022-04-16 |
-| [Borboleta Efeito](https://open.spotify.com/track/6oqV9zAqT9vea7nXIBIkyc) | [Leo Middea](https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG), [Mallu Magalhães](https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN) | [Borboleta Efeito](https://open.spotify.com/album/7x6SlBDCpyx8aTKRymsWR9) | 3:05 | 2023-03-17 |  |
+| [Borboleta Efeito](https://open.spotify.com/track/6oqV9zAqT9vea7nXIBIkyc) | [Leo Middea](https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG), [Mallu Magalhães](https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN) | [Borboleta Efeito](https://open.spotify.com/album/7x6SlBDCpyx8aTKRymsWR9) | 3:05 | 2023-03-17 | 2023-04-16 |
 | [Bossinha](https://open.spotify.com/track/1gSKh4JqZ1odoPLK4d8SE4) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [Bossinha](https://open.spotify.com/album/3Ejxw6TpFdEbiaVZrs0RK9) | 2:42 | 2022-03-11 | 2022-06-24 |
 | [Cafeína](https://open.spotify.com/track/0S3Q4nv7VBxWQmRBQ36RGp) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai) | [Cafeína](https://open.spotify.com/album/5NmVr6admdym5ik1G7v5Lo) | 3:11 | 2022-02-18 | 2022-07-29 |
 | [Cais](https://open.spotify.com/track/3d4Ve0MGsj6nJuu4gFgID1) | [KARINE](https://open.spotify.com/artist/1ZPNC5O5lhPN5B7oeUKcB8) | [Cais](https://open.spotify.com/album/26Whcw57vCgEvwgUiWjt2q) | 3:07 | 2022-02-18 | 2022-07-20 |
@@ -167,7 +168,7 @@
 | [Tenha do Seu Lado](https://open.spotify.com/track/7iRxsuKe44yvOYMypoBnzs) | [Benziê](https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH) | [Tenha Do Seu Lado](https://open.spotify.com/album/3xbo5AXOm0UgWVt71j52d3) | 3:22 | 2022-02-18 | 2022-07-29 |
 | [Tetas Totais](https://open.spotify.com/track/1LTDVFVKmRzayPR2m97gym) | [MANA](https://open.spotify.com/artist/0yCwm7IY2ypxgGogCqpp5W), [Maria Ó](https://open.spotify.com/artist/5m4ExqaQ9Z2JMzgzKZVSgc), [Nathalia Ferro](https://open.spotify.com/artist/2J14HmtqgidEeZ0ngYzOWD) | [Nada Permanece](https://open.spotify.com/album/5l6lRx3yo2PRr5hHuiO7xh) | 2:59 | 2022-04-01 | 2022-04-12 |
 | [Teu Bloco](https://open.spotify.com/track/5GbVbW6dqmkZz9zYqIb65j) | [KRU! Produtora](https://open.spotify.com/artist/5uUoNn9Qwc3rGspP998wtW), [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [Teu Bloco](https://open.spotify.com/album/1DtcYi6byli9MfYSCzNSk2) | 2:26 | 2022-02-18 | 2022-07-29 |
-| [Toda Beleza](https://open.spotify.com/track/4yPKVW76qe5VWOK4WOUsZa) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [Bala Desejo](https://open.spotify.com/artist/4MF1QlpuvKRIfkmfOA4DrH) | [AS PALAVRAS, VOL\. 1 & 2](https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg) | 3:06 | 2023-03-11 | 2023-04-11 |
+| [Toda Beleza](https://open.spotify.com/track/4yPKVW76qe5VWOK4WOUsZa) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [Bala Desejo](https://open.spotify.com/artist/4MF1QlpuvKRIfkmfOA4DrH) | [AS PALAVRAS, VOL\. 1 & 2](https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg) | 3:06 | 2023-03-11 |  |
 | [Toda Manhã](https://open.spotify.com/track/6lmSM41n29qLnp4dnawFSS) | [Qinhones](https://open.spotify.com/artist/0pcMoyp7o9Fv8sGMm9rjAU), [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Toda Manhã](https://open.spotify.com/album/71bzvUqB464u17RWMKkPOu) | 3:41 | 2022-04-01 | 2022-04-20 |
 | [Todo Carinho](https://open.spotify.com/track/118239i3aWkav7mlAmldh9) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Sinto Muito](https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx) | 4:29 | 2022-04-01 | 2022-04-17 |
 | [Todo Dia](https://open.spotify.com/track/5llLJnrQq6shUp9uptOkPx) | [Carol Mainá](https://open.spotify.com/artist/36Ttpg703LUOHbSL9iohXu) | [Carol Mainá](https://open.spotify.com/album/440jJk2ORhCL2O50ZTvpDR) | 2:39 | 2022-04-01 | 2022-04-18 |

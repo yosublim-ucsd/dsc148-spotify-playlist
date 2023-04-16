@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSLTEOzJTCp.md) - [plain]
 
 > why is this game so hard goddamnit \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,912 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,939 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSLTEOzJTCp.md) - [plain]
 | 38 | [Back To The Top](https://open.spotify.com/track/5Jyk55gbmaRXAmcQyPvcFX) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159), [Dreamers Delight](https://open.spotify.com/artist/1bDXdxSg3Ve7V7f3bteIyk) | [Back To The Top](https://open.spotify.com/album/00lI4kcdbVJyX62fe1HHuw) | 3:18 |
 | 39 | [Skins](https://open.spotify.com/track/54zrIs7UXX7kp3sFj7mlvG) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [SKINS](https://open.spotify.com/album/6MQeqXw9V1TmwvQRmZCSfP) | 5:10 |
 | 40 | [Seduce / Destroy](https://open.spotify.com/track/1eG6ogBMDCT36ciEocKV8V) | [Lucille Croft](https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy) | [Seduce / Destroy](https://open.spotify.com/album/6mqahR4zbL1sioyN1AFcgv) | 3:02 |
-| 41 | [fisticuffs \(feat\. tiLLie\)](https://open.spotify.com/track/5uwjwHf7gA1DqLvnsTM3aW) | [LŪN](https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc), [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [fuck ya go us](https://open.spotify.com/album/3nD84oMa7zffmYcLEPkWZT) | 3:57 |
-| 42 | [BODY SH!T](https://open.spotify.com/track/2yq5k7wZqY11UXOulrfO8F) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg), [A$AP TyY](https://open.spotify.com/artist/3XRvpMCFnLf5pF3uiiuLfY) | [BODY SH!T](https://open.spotify.com/album/32LG1HYCXe5uN2FAQZD4sr) | 3:04 |
+| 41 | [BODY SH!T](https://open.spotify.com/track/2yq5k7wZqY11UXOulrfO8F) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg), [A$AP TyY](https://open.spotify.com/artist/3XRvpMCFnLf5pF3uiiuLfY) | [BODY SH!T](https://open.spotify.com/album/32LG1HYCXe5uN2FAQZD4sr) | 3:04 |
+| 42 | [fisticuffs \(feat\. tiLLie\)](https://open.spotify.com/track/5uwjwHf7gA1DqLvnsTM3aW) | [LŪN](https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc), [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [fuck ya go us](https://open.spotify.com/album/3nD84oMa7zffmYcLEPkWZT) | 3:57 |
 | 43 | [Colorblind \(feat\. Dayseeker\)](https://open.spotify.com/track/44J9wUVTFIGKmjDJb4e5Oq) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Love // Chaos](https://open.spotify.com/album/3Iz1TViTuDQ6C7Cyn5CD7k) | 3:19 |
 | 44 | [Desperado](https://open.spotify.com/track/2SW0q2M7fYw27ZZmxGGToo) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Desperado](https://open.spotify.com/album/378W0F6qYxBYkINDywxZz6) | 3:53 |
 | 45 | [Sleep \(with Calcium\)](https://open.spotify.com/track/091NiGWv2nTM8pnOEXZR6T) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Calcium](https://open.spotify.com/artist/1s6bMklFjSRcrMy2FtobWM) | [Sleep \(with Calcium\)](https://open.spotify.com/album/3U2klaDh13JHc5jP2uW4Y6) | 3:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSLTEOzJTCp.md) - [plain]
 | 49 | [Carousel](https://open.spotify.com/track/2vP8axvS6mqgnPwwxMARPs) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [E.L.E \(Extinction Level Event\)](https://open.spotify.com/album/6dwrAsvDJ3qpogoK1jxzAE) | 2:46 |
 | 50 | [Deathstalker](https://open.spotify.com/track/3jToiObyGXOLaK5Xo15GZc) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC), [YOOKiE](https://open.spotify.com/artist/26RHyTSsP5JoS4udf8txU5) | [Once Upon A Time In Cyberworld](https://open.spotify.com/album/7lKY2k6pNBzNlC19WIHXxS) | 3:45 |
 
-Snapshot ID: `MTY2OTgxOTgzOCwwMDAwMDAwMGM1YmU4NjIwYjBmNjM0MTA0ZDBiYzQ4NjI4MWUxNTQ0`
+Snapshot ID: `MTY2OTgxOTgzOCwwMDAwMDAwMDJjNzAxN2Q0YWU0NDllMzViMzhlZGRiZTc5OWE4YmY1`

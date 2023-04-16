@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 
 > 😈 turn anywhere into a sexy club 😈
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,626 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,710 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 | 35 | [Feels Like](https://open.spotify.com/track/4MzOMQEv4DY79F1uKPWRMJ) | [MikeQ](https://open.spotify.com/artist/0H2tgKu7aoe1YVflaRWH6o), [Kevin Jz Prodigy](https://open.spotify.com/artist/6f7VuR9EQ1JqkWXqGwvVH5) | [Let It All Out EP](https://open.spotify.com/album/2n4OhDkh0yjrFimKqX9cFN) | 2:23 |
 | 36 | [Grab Dat Ass All Night](https://open.spotify.com/track/6SKDs0q95ZpmiVot0UYPVC) | [Kiddy.Wav](https://open.spotify.com/artist/4a0aeeAMBaJthFkE2A5QBW), [YTP](https://open.spotify.com/artist/1Y7DmQJicuaVo1OeQOWn6S) | [Level up My Skills](https://open.spotify.com/album/3hO7708tej9BhxYRzcsj4x) | 4:29 |
 | 37 | [Dealer's Gone \- DJ\_Dave Edit](https://open.spotify.com/track/685cyLbhLOWDTbsdV5oQcQ) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme), [Von](https://open.spotify.com/artist/4I6ModFVv3BWDsjMqzYcMc) | [Dealer's Gone \- DJ\_Dave Edit](https://open.spotify.com/album/6LLGrZtEhKiX0l4wdzr6lA) | 2:52 |
-| 38 | [CO1N](https://open.spotify.com/track/3Oh4rpQGw4rPbs09o04YXZ) | [LVL1](https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ) | [CO1N](https://open.spotify.com/album/21DWVujXLDiBamWYmop1fA) | 3:17 |
+| 38 | [ELASTIC](https://open.spotify.com/track/3enhwNFECQX6psc1uqprYV) | [ZDBT](https://open.spotify.com/artist/68KFHlDFncH62HCfIdH2tj), [Prado Monroe](https://open.spotify.com/artist/1Tw87xR7p102yY4fqusZzq), [Slim Media Player](https://open.spotify.com/artist/0Bf5T1UU0g3YYNrJijScNR) | [ELASTIC](https://open.spotify.com/album/3CYm2Tdcb3dAOIIkRIBvoO) | 3:39 |
 | 39 | [Tear the House Up](https://open.spotify.com/track/5NHMpUXObw7wi2cTjDIAPW) | [Zebra Katz](https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a), [Hervé](https://open.spotify.com/artist/0lmpSjaPzC8ChqeFQ6Z3VS) | [Tear The House Up](https://open.spotify.com/album/7xRaM4csKANBCc9QHxQ6da) | 4:40 |
-| 40 | [ELASTIC](https://open.spotify.com/track/3enhwNFECQX6psc1uqprYV) | [ZDBT](https://open.spotify.com/artist/68KFHlDFncH62HCfIdH2tj), [Prado Monroe](https://open.spotify.com/artist/1Tw87xR7p102yY4fqusZzq), [Slim Media Player](https://open.spotify.com/artist/0Bf5T1UU0g3YYNrJijScNR) | [ELASTIC](https://open.spotify.com/album/3CYm2Tdcb3dAOIIkRIBvoO) | 3:39 |
+| 40 | [CO1N](https://open.spotify.com/track/3Oh4rpQGw4rPbs09o04YXZ) | [LVL1](https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ) | [CO1N](https://open.spotify.com/album/21DWVujXLDiBamWYmop1fA) | 3:17 |
 | 41 | [Hypnotized](https://open.spotify.com/track/3BDAxgeGpUEUfKCbuXCyxn) | [Soraya](https://open.spotify.com/artist/6mHCVD6zJMB6lFNfg5mi7R) | [Hypnotized](https://open.spotify.com/album/0Jx1Hy8YQ5ZzGwy8DLW8Hu) | 4:25 |
 | 42 | [Taste My Body](https://open.spotify.com/track/4mbkDcR6qnklqWPtd4X3q6) | [James Indigo](https://open.spotify.com/artist/4RRL9qwT5AUFLz7Pe2ode1), [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU) | [Taste My Body](https://open.spotify.com/album/34yCNBM4QzFbr6tIF4hZDO) | 2:14 |
 | 43 | [Mugler](https://open.spotify.com/track/3uqXJXVspIA6rgcciv5xFi) | [Housewife 9](https://open.spotify.com/artist/2BWlGuH1XFha6dh3IXGcJM), [Soso Zelda](https://open.spotify.com/artist/4Y4BIUg4pXSsCcCWFJHzBp) | [Mugler](https://open.spotify.com/album/0XsuV7RykFeQnTbTEdf4mF) | 2:31 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 | 47 | [Dirty Work](https://open.spotify.com/track/1qbzrgjYqA84EOKisIqdz1) | [DJ Planet Express](https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg), [Samantha](https://open.spotify.com/artist/285mEVJq6Woe2rlEeN43AI) | [Dirty Work](https://open.spotify.com/album/3y2ujmddDnMX5L6hcMkyvT) | 2:04 |
 | 48 | [Hummer](https://open.spotify.com/track/4ewmSKVCdsKn7YORFhDUAS) | [Juicy Romance](https://open.spotify.com/artist/55RZaB7LJnx3sXeyVJXB2e) | [Hummer](https://open.spotify.com/album/2iT8KeGh5G7yOtdnWL3U1q) | 3:54 |
 | 49 | [High Tide \- Doss Remix](https://open.spotify.com/track/5Q7L6IfdsLqRaAtxIMDTWa) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0), [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [High Tide \(Doss Remix\)](https://open.spotify.com/album/2h2McsLfMB1ZNJywK2TRG4) | 3:43 |
-| 50 | [U Wanna?](https://open.spotify.com/track/0lhWFpWU9NgQ2j7FuvjXH1) | [TT The Artist](https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr), [Sir JoQ](https://open.spotify.com/artist/0t2ATkbihdqPzUaE9PZaEs) | [U Wanna?](https://open.spotify.com/album/7wicSDee8Jznltmn6Bk9ZO) | 4:10 |
+| 50 | [Tired and Sick](https://open.spotify.com/track/59rqs8yRLVyfw5CosESRQX) | [Otha](https://open.spotify.com/artist/6UMUvqiDBEJLyx2uYplGCV) | [Tired and Sick](https://open.spotify.com/album/5bx8drBY6ZIOlIy5wZtb6s) | 2:52 |
 
-Snapshot ID: `MTY4MDYxNjYyMiwwMDAwMDAwMGE3MmQ2ZjdlYjIwZmU4M2NhM2Y3ZDEzOWU2NDUxZjlk`
+Snapshot ID: `MTY4MDYxNjYyMiwwMDAwMDAwMGY2YWU0ZDU2NTA1ZTc1YzkwOTdiNWNiMmMzMWNlZDA5`

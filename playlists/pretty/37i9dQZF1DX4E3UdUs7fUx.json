@@ -1,12 +1,12 @@
 {
   "description": "Unwind and let the afternoon unfold.",
-  "num_followers": 2318135,
+  "num_followers": 2318079,
   "original_name": "Afternoon Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg0MDAwMCwwMDAwMDAwMGYwOTU1NTEwYWE5NDA4Mjc1ZjE3ZjE0MDA3ODBhMTkx",
+  "snapshot_id": "MTY4MDg0MDAwMCwwMDAwMDAwMGE2NDk1ZTk4YTcyOTQyOWJjN2RlZmEyYjEyZDZiNWYy",
   "tracks": [
     {
       "added_at": "2023-04-07 04:00:00",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Undercurrent",
-        "url": "https://open.spotify.com/album/0MXtcpjNSnK68Xpv5rXnrc"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 154200,
-      "name": "Take Me Back",
-      "url": "https://open.spotify.com/track/3CiZBMNMkRm8CzPD4ZLM6C"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "Colder Heavens EP",
         "url": "https://open.spotify.com/album/5OxtmtnqvwogIYMdo2h4eQ"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 273893,
       "name": "Colder Heavens",
       "url": "https://open.spotify.com/track/1wwKY8ICsV9wiCFMpdhPrr"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Undercurrent",
+        "url": "https://open.spotify.com/album/0MXtcpjNSnK68Xpv5rXnrc"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 154200,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/3CiZBMNMkRm8CzPD4ZLM6C"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Wouldn't Come Back",
-        "url": "https://open.spotify.com/album/2X0Oi2vkyzqYWPy2dSdim1"
-      },
-      "artists": [
-        {
-          "name": "Trousdale",
-          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
-        }
-      ],
-      "duration_ms": 219533,
-      "name": "Wouldn't Come Back",
-      "url": "https://open.spotify.com/track/1zeQjPT367QcGrkpIXYjuW"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "Goodnight (Go Home)",
         "url": "https://open.spotify.com/album/4VWuOzRhYZQ2Qo2upiTcbd"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 246453,
       "name": "Dirty Old Town",
       "url": "https://open.spotify.com/track/3sPpEYjRGQYV0XOjy4pYqh"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Wouldn't Come Back",
+        "url": "https://open.spotify.com/album/2X0Oi2vkyzqYWPy2dSdim1"
+      },
+      "artists": [
+        {
+          "name": "Trousdale",
+          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
+        }
+      ],
+      "duration_ms": 219533,
+      "name": "Wouldn't Come Back",
+      "url": "https://open.spotify.com/track/1zeQjPT367QcGrkpIXYjuW"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "My Mother the Moon",
-        "url": "https://open.spotify.com/album/4dN53nS6qFV78cpbX24X6P"
-      },
-      "artists": [
-        {
-          "name": "Dead Horses",
-          "url": "https://open.spotify.com/artist/4dcU7cmzO3GECQGSKwl92z"
-        }
-      ],
-      "duration_ms": 196173,
-      "name": "Turntable",
-      "url": "https://open.spotify.com/track/0Dp07EA5ybveKSUE27CuEd"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "Idle Mind",
         "url": "https://open.spotify.com/album/5jz07RajgJtqxfBAwWULOW"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 295265,
       "name": "Warped Window",
       "url": "https://open.spotify.com/track/7jd2h2mIeyKpqkFsrl5EHN"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "My Mother the Moon",
+        "url": "https://open.spotify.com/album/4dN53nS6qFV78cpbX24X6P"
+      },
+      "artists": [
+        {
+          "name": "Dead Horses",
+          "url": "https://open.spotify.com/artist/4dcU7cmzO3GECQGSKwl92z"
+        }
+      ],
+      "duration_ms": 196173,
+      "name": "Turntable",
+      "url": "https://open.spotify.com/track/0Dp07EA5ybveKSUE27CuEd"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Ruins",
-        "url": "https://open.spotify.com/album/5l2Ts5Hd4BN2O28rZksznR"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 192813,
-      "name": "To Live a Life",
-      "url": "https://open.spotify.com/track/4K00AQLpOhGUdDfDINDfYL"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "Colder Heavens EP",
         "url": "https://open.spotify.com/album/5OxtmtnqvwogIYMdo2h4eQ"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 231706,
       "name": "El B\u00faho",
       "url": "https://open.spotify.com/track/4TtrTorJrVMEIprmQydrVv"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Ruins",
+        "url": "https://open.spotify.com/album/5l2Ts5Hd4BN2O28rZksznR"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 192813,
+      "name": "To Live a Life",
+      "url": "https://open.spotify.com/track/4K00AQLpOhGUdDfDINDfYL"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Build Me Up From Bones",
-        "url": "https://open.spotify.com/album/3WgIxB4vFl8i5ZHCypubIK"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 216173,
-      "name": "Build Me Up From Bones",
-      "url": "https://open.spotify.com/track/1I9dSqB5XSdwOfn9M8zpRg"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "On Hold",
         "url": "https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 216252,
       "name": "Top to Toe",
       "url": "https://open.spotify.com/track/3Dtg7OR2EYGI5zZuuRpFKT"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Build Me Up From Bones",
+        "url": "https://open.spotify.com/album/3WgIxB4vFl8i5ZHCypubIK"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 216173,
+      "name": "Build Me Up From Bones",
+      "url": "https://open.spotify.com/track/1I9dSqB5XSdwOfn9M8zpRg"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
+        "name": "The Pleasant Trees (Volume 2)",
+        "url": "https://open.spotify.com/album/7njexd4MXzmW0tXn0GK5EW"
+      },
+      "artists": [
+        {
+          "name": "Tom Rosenthal",
+          "url": "https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB"
+        }
+      ],
+      "duration_ms": 164721,
+      "name": "Middle Of My Mind",
+      "url": "https://open.spotify.com/track/5RSQUFoAIg75ZQKP5zyT8i"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
         "name": "IOWA",
         "url": "https://open.spotify.com/album/4jLnoqNXzY7DquELf6mz46"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 275170,
       "name": "IOWA",
       "url": "https://open.spotify.com/track/3c9srkZXPYH5969NYxVXZS"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "The Pleasant Trees (Volume 2)",
-        "url": "https://open.spotify.com/album/7njexd4MXzmW0tXn0GK5EW"
-      },
-      "artists": [
-        {
-          "name": "Tom Rosenthal",
-          "url": "https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB"
-        }
-      ],
-      "duration_ms": 164721,
-      "name": "Middle Of My Mind",
-      "url": "https://open.spotify.com/track/5RSQUFoAIg75ZQKP5zyT8i"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Desdemona",
-        "url": "https://open.spotify.com/album/1l2bevRB9zAwnBguBSWjvi"
-      },
-      "artists": [
-        {
-          "name": "Andrea von Kampen",
-          "url": "https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY"
-        }
-      ],
-      "duration_ms": 207616,
-      "name": "Dink's Song",
-      "url": "https://open.spotify.com/track/3NoxYXXEK5bdur7QXUkNfb"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "Saint Monica (Undone)",
         "url": "https://open.spotify.com/album/6BpkD2uOOcpYp4IB1kANL6"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 146884,
       "name": "Saint Monica - Undone",
       "url": "https://open.spotify.com/track/3vfYJg7cPqQgAFh1KtJMRT"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Desdemona",
+        "url": "https://open.spotify.com/album/1l2bevRB9zAwnBguBSWjvi"
+      },
+      "artists": [
+        {
+          "name": "Andrea von Kampen",
+          "url": "https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY"
+        }
+      ],
+      "duration_ms": 207616,
+      "name": "Dink's Song",
+      "url": "https://open.spotify.com/track/3NoxYXXEK5bdur7QXUkNfb"
     },
     {
       "added_at": "2023-04-07 04:00:00",

@@ -2064,6 +2064,32 @@
     {
       "album": {
         "name": "DON DADA",
+        "url": "https://open.spotify.com/album/1aElHPJaZyQZkJ2OIwXWAu"
+      },
+      "artists": [
+        {
+          "name": "Don Joe",
+          "url": "https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ"
+        },
+        {
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        },
+        {
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217086,
+      "name": "FIUMI ROS\u00c9 (feat. Ernia & Neima Ezza)",
+      "url": "https://open.spotify.com/track/2LGYGPBAl0Vm4mJ9jjcRcd"
+    },
+    {
+      "album": {
+        "name": "DON DADA",
         "url": "https://open.spotify.com/album/2hwelY2TJPQy1LVZn6XJdU"
       },
       "artists": [
@@ -2108,7 +2134,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 217086,
       "name": "FIUMI ROS\u00c9 (feat. Ernia & Neima Ezza)",
       "url": "https://open.spotify.com/track/6pGPbGOCkRg2bBOcwMqFB4"

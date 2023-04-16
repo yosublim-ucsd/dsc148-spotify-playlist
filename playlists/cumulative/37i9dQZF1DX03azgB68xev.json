@@ -342,7 +342,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 158571,
       "name": "BANG! BANG!",
       "url": "https://open.spotify.com/track/6vk8gF6WJJTQ4lmdfqRFXr"
@@ -2974,6 +2974,24 @@
       "duration_ms": 195853,
       "name": "Interruption",
       "url": "https://open.spotify.com/track/6XAPzvnQkz6gYMQgFW4gKl"
+    },
+    {
+      "album": {
+        "name": "Better View, Part II",
+        "url": "https://open.spotify.com/album/6VJwdT4jWHtnhCtC7tzMNy"
+      },
+      "artists": [
+        {
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184393,
+      "name": "Invited",
+      "url": "https://open.spotify.com/track/4LHJUZCjDrjI7mQEbM48r3"
     },
     {
       "album": {

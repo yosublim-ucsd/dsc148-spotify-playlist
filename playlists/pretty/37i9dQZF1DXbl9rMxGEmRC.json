@@ -1,12 +1,12 @@
 {
   "description": "Black, death and beyond. Recent tracks and classics from the world of extreme metal. Cover: Darkthrone",
-  "num_followers": 427531,
+  "num_followers": 427692,
   "original_name": "Extreme Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg0MDA2MCwwMDAwMDAwMDY1Njk1YzU5YWY0OTgzNWM0MjYyYWJkM2M3ZjNkODg1",
+  "snapshot_id": "MTY4MDg0MDA2MCwwMDAwMDAwMGJjOGUzZjVlNTlhYThjYjFkYjUwYmY3ODNiNmU1MTky",
   "tracks": [
     {
       "added_at": "2023-04-07 04:01:00",
@@ -587,18 +587,18 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "Under the Sign of the Black Mark",
-        "url": "https://open.spotify.com/album/5HT0xp5AqEzzAzzjj9gPZN"
+        "name": "93696",
+        "url": "https://open.spotify.com/album/28gL6vjKVFaO7UG0ImRzkY"
       },
       "artists": [
         {
-          "name": "Bathory",
-          "url": "https://open.spotify.com/artist/6rBvjnvdsRxFRSrq1StGOM"
+          "name": "Liturgy",
+          "url": "https://open.spotify.com/artist/5PIuMlRY9PSLUSFzs6lQu1"
         }
       ],
-      "duration_ms": 294266,
-      "name": "Call from the Grave",
-      "url": "https://open.spotify.com/track/2v74ik56b9FHNwdhoAEVOd"
+      "duration_ms": 500411,
+      "name": "Djennaration",
+      "url": "https://open.spotify.com/track/2yF0Gpl0t5aUvnlL2cm9Hg"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -619,18 +619,18 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "93696",
-        "url": "https://open.spotify.com/album/28gL6vjKVFaO7UG0ImRzkY"
+        "name": "Under the Sign of the Black Mark",
+        "url": "https://open.spotify.com/album/5HT0xp5AqEzzAzzjj9gPZN"
       },
       "artists": [
         {
-          "name": "Liturgy",
-          "url": "https://open.spotify.com/artist/5PIuMlRY9PSLUSFzs6lQu1"
+          "name": "Bathory",
+          "url": "https://open.spotify.com/artist/6rBvjnvdsRxFRSrq1StGOM"
         }
       ],
-      "duration_ms": 500411,
-      "name": "Djennaration",
-      "url": "https://open.spotify.com/track/2yF0Gpl0t5aUvnlL2cm9Hg"
+      "duration_ms": 294266,
+      "name": "Call from the Grave",
+      "url": "https://open.spotify.com/track/2v74ik56b9FHNwdhoAEVOd"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -715,6 +715,22 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
+        "name": "Hamartia - EP",
+        "url": "https://open.spotify.com/album/57vmtY5HBATeIPGrFQS1hN"
+      },
+      "artists": [
+        {
+          "name": "Tribulation",
+          "url": "https://open.spotify.com/artist/7xTo7ipdBZezIoyAkmcRge"
+        }
+      ],
+      "duration_ms": 408053,
+      "name": "Hemoclysm",
+      "url": "https://open.spotify.com/track/4y3Cvx3RnGiVwjKJRc2Jl1"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
         "name": "Nordland I",
         "url": "https://open.spotify.com/album/7831vQlOH3NIwwC15R7oog"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 334973,
       "name": "Ring of Gold",
       "url": "https://open.spotify.com/track/35yrWddjHkq0FqDBitYZZT"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "Heimdal",
-        "url": "https://open.spotify.com/album/1gf4tdMN4aMMYEkXeUJTKG"
-      },
-      "artists": [
-        {
-          "name": "Enslaved",
-          "url": "https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD"
-        }
-      ],
-      "duration_ms": 445106,
-      "name": "The Eternal Sea",
-      "url": "https://open.spotify.com/track/7G06HILoIIRiDDRXFo77f0"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
+        "name": "Heimdal",
+        "url": "https://open.spotify.com/album/1gf4tdMN4aMMYEkXeUJTKG"
+      },
+      "artists": [
+        {
+          "name": "Enslaved",
+          "url": "https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD"
+        }
+      ],
+      "duration_ms": 445106,
+      "name": "The Eternal Sea",
+      "url": "https://open.spotify.com/track/7G06HILoIIRiDDRXFo77f0"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
         "name": "Dom Andra",
         "url": "https://open.spotify.com/album/0ozRtnZ9AjY2DwWDQTAiby"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 221000,
       "name": "Dom Andra",
       "url": "https://open.spotify.com/track/6w0jYoUuRzyNwCp0HdagvY"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "Hamartia - EP",
-        "url": "https://open.spotify.com/album/57vmtY5HBATeIPGrFQS1hN"
-      },
-      "artists": [
-        {
-          "name": "Tribulation",
-          "url": "https://open.spotify.com/artist/7xTo7ipdBZezIoyAkmcRge"
-        }
-      ],
-      "duration_ms": 408053,
-      "name": "Hemoclysm",
-      "url": "https://open.spotify.com/track/4y3Cvx3RnGiVwjKJRc2Jl1"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "Lawless Darkness",
-        "url": "https://open.spotify.com/album/2pQr4wN4SN9Ax3gdXDhrRz"
-      },
-      "artists": [
-        {
-          "name": "Watain",
-          "url": "https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX"
-        }
-      ],
-      "duration_ms": 418213,
-      "name": "Malfeitor",
-      "url": "https://open.spotify.com/track/79qyNyF12jmPSLGCvPyInr"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
         "name": "Nemesis Divina",
         "url": "https://open.spotify.com/album/1R4Dava3wQxKN0As0OcQFb"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 385413,
       "name": "Mother North",
       "url": "https://open.spotify.com/track/79iREiH6mrODItQGLaidt8"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "Lawless Darkness",
+        "url": "https://open.spotify.com/album/2pQr4wN4SN9Ax3gdXDhrRz"
+      },
+      "artists": [
+        {
+          "name": "Watain",
+          "url": "https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX"
+        }
+      ],
+      "duration_ms": 418213,
+      "name": "Malfeitor",
+      "url": "https://open.spotify.com/track/79qyNyF12jmPSLGCvPyInr"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -911,18 +911,22 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "Anima",
-        "url": "https://open.spotify.com/album/7M0gsNq0pmdXsjZrSIUSUm"
+        "name": "Holy Mountain",
+        "url": "https://open.spotify.com/album/6sDAVTX74dB0v6RdNCbYOL"
       },
       "artists": [
         {
-          "name": "Heretoir",
-          "url": "https://open.spotify.com/artist/4W1aTc1mS8IudqNaxfGKar"
+          "name": "Rotting Christ",
+          "url": "https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ"
+        },
+        {
+          "name": "Lars Nedland",
+          "url": "https://open.spotify.com/artist/2ed4HnBvIrLITZkNsmVRgd"
         }
       ],
-      "duration_ms": 269453,
-      "name": "Anima",
-      "url": "https://open.spotify.com/track/77VGFCWFgsGLIWjoDTzJiq"
+      "duration_ms": 313209,
+      "name": "Holy Mountain",
+      "url": "https://open.spotify.com/track/0kco15ozQ8NHEeZSqgWZ0U"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -943,22 +947,18 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "Holy Mountain",
-        "url": "https://open.spotify.com/album/6sDAVTX74dB0v6RdNCbYOL"
+        "name": "Anima",
+        "url": "https://open.spotify.com/album/7M0gsNq0pmdXsjZrSIUSUm"
       },
       "artists": [
         {
-          "name": "Rotting Christ",
-          "url": "https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ"
-        },
-        {
-          "name": "Lars Nedland",
-          "url": "https://open.spotify.com/artist/2ed4HnBvIrLITZkNsmVRgd"
+          "name": "Heretoir",
+          "url": "https://open.spotify.com/artist/4W1aTc1mS8IudqNaxfGKar"
         }
       ],
-      "duration_ms": 313209,
-      "name": "Holy Mountain",
-      "url": "https://open.spotify.com/track/0kco15ozQ8NHEeZSqgWZ0U"
+      "duration_ms": 269453,
+      "name": "Anima",
+      "url": "https://open.spotify.com/track/77VGFCWFgsGLIWjoDTzJiq"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "Where Fear and Weapons Meet",
-        "url": "https://open.spotify.com/album/05u8REOHWoW9b25e7KvZvW"
-      },
-      "artists": [
-        {
-          "name": "1914",
-          "url": "https://open.spotify.com/artist/0IpKWttPlwhd7Cevxsh1Bz"
-        }
-      ],
-      "duration_ms": 354249,
-      "name": "Fn .380 Acp#19074",
-      "url": "https://open.spotify.com/track/3yYfPXQ5hRYVV7lgOFlPWr"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
         "name": "In The Sign... (Re-issue + Bonus) [Deluxe Version]",
         "url": "https://open.spotify.com/album/3rG83VdcvygOrL6BJGYitt"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 274093,
       "name": "Open the Gates",
       "url": "https://open.spotify.com/track/0LsNJ1h4WWX8T9wZJW9u8l"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "Where Fear and Weapons Meet",
+        "url": "https://open.spotify.com/album/05u8REOHWoW9b25e7KvZvW"
+      },
+      "artists": [
+        {
+          "name": "1914",
+          "url": "https://open.spotify.com/artist/0IpKWttPlwhd7Cevxsh1Bz"
+        }
+      ],
+      "duration_ms": 354249,
+      "name": "Fn .380 Acp#19074",
+      "url": "https://open.spotify.com/track/3yYfPXQ5hRYVV7lgOFlPWr"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "Rashomon",
-        "url": "https://open.spotify.com/album/3iErNnoi1sc1pqKntalRN2"
-      },
-      "artists": [
-        {
-          "name": "Ibaraki",
-          "url": "https://open.spotify.com/artist/2KfAvhpbfc8YkLBj6w3hfU"
-        }
-      ],
-      "duration_ms": 454920,
-      "name": "Kagutsuchi",
-      "url": "https://open.spotify.com/track/33jOwx7sKn4ugMYsGgJG41"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
         "name": "Dark Medieval Times (Remastered 2021)",
         "url": "https://open.spotify.com/album/1PI7BARhjM3hpdvt6dGtYl"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 491573,
       "name": "Dark Medieval Times - Remastered 2021",
       "url": "https://open.spotify.com/track/7qTuFxOFVJnmWP0FuGWegz"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "Rashomon",
+        "url": "https://open.spotify.com/album/3iErNnoi1sc1pqKntalRN2"
+      },
+      "artists": [
+        {
+          "name": "Ibaraki",
+          "url": "https://open.spotify.com/artist/2KfAvhpbfc8YkLBj6w3hfU"
+        }
+      ],
+      "duration_ms": 454920,
+      "name": "Kagutsuchi",
+      "url": "https://open.spotify.com/track/33jOwx7sKn4ugMYsGgJG41"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "Human Scum",
-        "url": "https://open.spotify.com/album/5cSjClzqXAx0MXW6kUodZF"
+        "name": "Triade III : Nyx",
+        "url": "https://open.spotify.com/album/4XuMfuiIXtS6yPc9nE6Zp0"
       },
       "artists": [
         {
-          "name": "Distant",
-          "url": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ"
+          "name": "Aara",
+          "url": "https://open.spotify.com/artist/3UpDjZ41s0rOQsDKSECKmt"
         }
       ],
-      "duration_ms": 275419,
-      "name": "Human Scum",
-      "url": "https://open.spotify.com/track/2CXoE7kgrfepUxvfuApzNw"
+      "duration_ms": 456750,
+      "name": "Moribunda",
+      "url": "https://open.spotify.com/track/0jy5t9s6Ooqx08G7keyS6F"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
+        "name": "Human Scum",
+        "url": "https://open.spotify.com/album/5cSjClzqXAx0MXW6kUodZF"
+      },
+      "artists": [
+        {
+          "name": "Distant",
+          "url": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ"
+        }
+      ],
+      "duration_ms": 275419,
+      "name": "Human Scum",
+      "url": "https://open.spotify.com/track/2CXoE7kgrfepUxvfuApzNw"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
         "name": "Hellfire",
         "url": "https://open.spotify.com/album/4qntR4s02MF97EkxAhcdr2"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 250506,
       "name": "I Am Abomination",
       "url": "https://open.spotify.com/track/1SBGE2wrNmiwHnnLSAiegd"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "Triade III : Nyx",
-        "url": "https://open.spotify.com/album/4XuMfuiIXtS6yPc9nE6Zp0"
-      },
-      "artists": [
-        {
-          "name": "Aara",
-          "url": "https://open.spotify.com/artist/3UpDjZ41s0rOQsDKSECKmt"
-        }
-      ],
-      "duration_ms": 456750,
-      "name": "Moribunda",
-      "url": "https://open.spotify.com/track/0jy5t9s6Ooqx08G7keyS6F"
     },
     {
       "added_at": "2023-04-07 04:01:00",

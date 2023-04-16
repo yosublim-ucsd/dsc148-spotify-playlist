@@ -1,15 +1,15 @@
 {
   "description": "Latin music making waves. Cover: Myke Towers by Ian Woods",
-  "num_followers": 7533,
+  "num_followers": 7559,
   "original_name": "Latin Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDU0ODA4NCwwMDAwMDAwMGViYWNlNmZlMTYzYmNlNTJmMmM1MjEwZDgzNGVhOWZk",
+  "snapshot_id": "MTY4MDU0ODA4NCwwMDAwMDAwMGFiZDg1OWE5ZDUwZjU0ZWMzMGJiNWYyN2I5YjI2MGIy",
   "tracks": [
     {
-      "added_at": "2023-04-15 01:01:03",
+      "added_at": "2023-04-16 00:59:55",
       "album": {
         "name": "LA VIDA ES UNA",
         "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
@@ -249,7 +249,7 @@
       "url": "https://open.spotify.com/track/2E6BB9DvlEltjJfjSJLzFS"
     },
     {
-      "added_at": "2023-04-15 01:01:03",
+      "added_at": "2023-04-16 00:59:55",
       "album": {
         "name": "Tibro",
         "url": "https://open.spotify.com/album/1ydYjSifTmO14cEY8l1eij"
@@ -341,7 +341,7 @@
       "url": "https://open.spotify.com/track/6RaabFZyIbKpoC2Xh8XeXZ"
     },
     {
-      "added_at": "2023-04-15 01:01:03",
+      "added_at": "2023-04-16 00:59:55",
       "album": {
         "name": "3MEN2 KBRN",
         "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-02-27 18:10:09",
       "album": {
-        "name": "Deja Que Te Lleve",
-        "url": "https://open.spotify.com/album/4rYd9sf3XIZbTjhyk9WsES"
-      },
-      "artists": [
-        {
-          "name": "Sessi",
-          "url": "https://open.spotify.com/artist/6aPCzcaD2zGsu387By8SZX"
-        }
-      ],
-      "duration_ms": 203202,
-      "name": "Deja Que Te Lleve",
-      "url": "https://open.spotify.com/track/4DGSLcVNvIV7f2lDQgaCCn"
-    },
-    {
-      "added_at": "2023-02-27 18:10:09",
-      "album": {
         "name": "Noches X Madrid",
         "url": "https://open.spotify.com/album/0y7pSZ8Z8CyuM2HhtEh1Zx"
       },
@@ -1047,6 +1031,26 @@
       "duration_ms": 168024,
       "name": "Peligroso",
       "url": "https://open.spotify.com/track/2WRCmqSUVWpVZNeZ1u7njt"
+    },
+    {
+      "added_at": "2023-02-27 18:10:09",
+      "album": {
+        "name": "Pimpin' Smokin' Dro",
+        "url": "https://open.spotify.com/album/7HM5lsCIeSuuxL3iD5hEXJ"
+      },
+      "artists": [
+        {
+          "name": "Los Rakas",
+          "url": "https://open.spotify.com/artist/513odGmQbPb6hVERfJGeF0"
+        },
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        }
+      ],
+      "duration_ms": 230434,
+      "name": "Pimpin' Smokin' Dro",
+      "url": "https://open.spotify.com/track/4Q516psr4tSjGBrNbq2BHo"
     }
   ],
   "unique_name": "Latin Frequency",

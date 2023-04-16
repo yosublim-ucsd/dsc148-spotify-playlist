@@ -368,7 +368,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 282888,
       "name": "Chore pra Deus",
       "url": "https://open.spotify.com/track/7q4Z46Zj9LRkFpCIIDZmmh"
@@ -1255,6 +1255,28 @@
     },
     {
       "album": {
+        "name": "Minha Presen\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6mUP6dDAa6DeoZ3KKU4Pfq"
+      },
+      "artists": [
+        {
+          "name": "Sued Silva",
+          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
+        },
+        {
+          "name": "Nath\u00e1lia Braga",
+          "url": "https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421992,
+      "name": "Minha Presen\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/17InIcGBZFZ9WZkGsUWL5l"
+    },
+    {
+      "album": {
         "name": "Nada Vai Te Faltar",
         "url": "https://open.spotify.com/album/12xibWqBSa4cJDWZDfVU3d"
       },
@@ -1385,6 +1407,24 @@
     },
     {
       "album": {
+        "name": "Jesus e Eu",
+        "url": "https://open.spotify.com/album/3yirJSowuG0LVwqiuOjN8l"
+      },
+      "artists": [
+        {
+          "name": "Gerson Rufino",
+          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242909,
+      "name": "O Amor de Deus",
+      "url": "https://open.spotify.com/track/33EQhf72X79yomlKYCkIlf"
+    },
+    {
+      "album": {
         "name": "O C\u00e9u Tem Mais",
         "url": "https://open.spotify.com/album/1g1bympJzlFfIie5LZo8qz"
       },
@@ -1462,7 +1502,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 256000,
       "name": "O Grande \u00c9 Ele (Ao Vivo)",
       "url": "https://open.spotify.com/track/50uNXyX4nUIuDs4zIk54tS"

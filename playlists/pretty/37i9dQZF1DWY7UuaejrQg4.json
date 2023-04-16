@@ -1,12 +1,12 @@
 {
   "description": "2018 highlights from the home of indie music.",
-  "num_followers": 70807,
+  "num_followers": 70867,
   "original_name": "Best of Indie 2018",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njc1MjAyNiwwMDAwMDAwMDYxZmRhYjkwYmYwNGRiZDgyOTlkYTU2MGExNDg4ZDQx",
+  "snapshot_id": "MTY0Njc1MjAyNiwwMDAwMDAwMDQyODZiYTkwYjY5MGM3NmViZDYyZmViZTJiMGFjMGQx",
   "tracks": [
     {
       "added_at": "2022-03-08 15:07:06",
@@ -315,18 +315,18 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Sunset Season",
-        "url": "https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz"
+        "name": "Nation of Two",
+        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
       },
       "artists": [
         {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 220866,
-      "name": "Lookalike",
-      "url": "https://open.spotify.com/track/4K3gM7kzX4POAfrs71HomN"
+      "duration_ms": 214720,
+      "name": "Saturday Sun",
+      "url": "https://open.spotify.com/track/2RiBogNRfulkNf7fVbPOrJ"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -347,18 +347,18 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Nation of Two",
-        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
+        "name": "Sunset Season",
+        "url": "https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz"
       },
       "artists": [
         {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
         }
       ],
-      "duration_ms": 214720,
-      "name": "Saturday Sun",
-      "url": "https://open.spotify.com/track/2RiBogNRfulkNf7fVbPOrJ"
+      "duration_ms": 220866,
+      "name": "Lookalike",
+      "url": "https://open.spotify.com/track/4K3gM7kzX4POAfrs71HomN"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -411,6 +411,22 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
+        "name": "Staying at Tamara's",
+        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 222044,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/38zwkK6TtTjIW9tpYBfZ3D"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
         "name": "Isolation",
         "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 177697,
       "name": "Just A Stranger (feat. Steve Lacy)",
       "url": "https://open.spotify.com/track/1HA2V2EfAgJUBVOju4YfiB"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
-        "name": "Staying at Tamara's",
-        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 222044,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/38zwkK6TtTjIW9tpYBfZ3D"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Nation of Two",
-        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 239786,
-      "name": "I'm with You",
-      "url": "https://open.spotify.com/track/6Qwuw0eOeszVlewLpu24gR"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "The Now Now",
         "url": "https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 162626,
       "name": "Tranz",
       "url": "https://open.spotify.com/track/7jYUaoOfdcYgUvkK8NnFfx"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "Nation of Two",
+        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 239786,
+      "name": "I'm with You",
+      "url": "https://open.spotify.com/track/6Qwuw0eOeszVlewLpu24gR"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Sunset Season",
-        "url": "https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 219680,
-      "name": "Generation Why",
-      "url": "https://open.spotify.com/track/79e2GU4RLPjAqnijfvsXYr"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "On the Train Ride Home",
         "url": "https://open.spotify.com/album/4amdDYo23aSOrv7hSZrCMT"
       },
@@ -919,18 +903,18 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Tearing At The Seams",
-        "url": "https://open.spotify.com/album/6d0PPZVxoyKN3VlFrzsKYp"
+        "name": "Sunset Season",
+        "url": "https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz"
       },
       "artists": [
         {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
         }
       ],
-      "duration_ms": 214160,
-      "name": "You Worry Me",
-      "url": "https://open.spotify.com/track/7ADBL3WZ9Oyj7zgkg7ODT8"
+      "duration_ms": 219680,
+      "name": "Generation Why",
+      "url": "https://open.spotify.com/track/79e2GU4RLPjAqnijfvsXYr"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -947,6 +931,22 @@
       "duration_ms": 230959,
       "name": "Superposition",
       "url": "https://open.spotify.com/track/67YPjbcxUypwNOwYBZquq1"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "Tearing At The Seams",
+        "url": "https://open.spotify.com/album/6d0PPZVxoyKN3VlFrzsKYp"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+        }
+      ],
+      "duration_ms": 214160,
+      "name": "You Worry Me",
+      "url": "https://open.spotify.com/track/7ADBL3WZ9Oyj7zgkg7ODT8"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -995,22 +995,6 @@
       "duration_ms": 197946,
       "name": "Feeling Lonely",
       "url": "https://open.spotify.com/track/5uIRujGRZv5t4fGKkUTv4n"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
-        "name": "Sunset Season",
-        "url": "https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 236746,
-      "name": "Greek God",
-      "url": "https://open.spotify.com/track/7KJXiuMXQu723ODChoxENp"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -1075,6 +1059,22 @@
       "duration_ms": 207720,
       "name": "Talia",
       "url": "https://open.spotify.com/track/53jbdPQBaH6WaQvW0zmGBs"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "Sunset Season",
+        "url": "https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 236746,
+      "name": "Greek God",
+      "url": "https://open.spotify.com/track/7KJXiuMXQu723ODChoxENp"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Moodie",
-        "url": "https://open.spotify.com/album/4XMQDHZSKpEg1UReRiMuJC"
-      },
-      "artists": [
-        {
-          "name": "Yuno",
-          "url": "https://open.spotify.com/artist/36BjLtXEXIifbRrfc1Rtqa"
-        }
-      ],
-      "duration_ms": 208200,
-      "name": "No Going Back",
-      "url": "https://open.spotify.com/track/356aM3w6i5v1cltIzOnVTP"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "Tranquility Base Hotel & Casino",
         "url": "https://open.spotify.com/album/1jeMiSeSnNS0Oys375qegp"
       },
@@ -1183,18 +1167,18 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Make My Bed",
-        "url": "https://open.spotify.com/album/6VnoKML5dWRxOOEbMAPfG5"
+        "name": "Moodie",
+        "url": "https://open.spotify.com/album/4XMQDHZSKpEg1UReRiMuJC"
       },
       "artists": [
         {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+          "name": "Yuno",
+          "url": "https://open.spotify.com/artist/36BjLtXEXIifbRrfc1Rtqa"
         }
       ],
-      "duration_ms": 174666,
-      "name": "Holy",
-      "url": "https://open.spotify.com/track/7FVGIPgLMDChTffvG2LuHV"
+      "duration_ms": 208200,
+      "name": "No Going Back",
+      "url": "https://open.spotify.com/track/356aM3w6i5v1cltIzOnVTP"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -1227,6 +1211,22 @@
       "duration_ms": 190693,
       "name": "All I Want To Hear You Say",
       "url": "https://open.spotify.com/track/7BZWTu4Pv77TxGmmsQaSXN"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "Make My Bed",
+        "url": "https://open.spotify.com/album/6VnoKML5dWRxOOEbMAPfG5"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        }
+      ],
+      "duration_ms": 174666,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/7FVGIPgLMDChTffvG2LuHV"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Lenses",
-        "url": "https://open.spotify.com/album/1RTm973fIk4zlqW69bqXOU"
+        "name": "Soy Pablo",
+        "url": "https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw"
       },
       "artists": [
         {
-          "name": "Shoffy",
-          "url": "https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG"
+          "name": "boy pablo",
+          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
         }
       ],
-      "duration_ms": 191935,
-      "name": "Cool Again",
-      "url": "https://open.spotify.com/track/4CFJuKGq5CiGF95M2Jrw3S"
+      "duration_ms": 186681,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/7mjOxXnZYbGtgjyX0hqaLs"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
+        "name": "Lenses",
+        "url": "https://open.spotify.com/album/1RTm973fIk4zlqW69bqXOU"
+      },
+      "artists": [
+        {
+          "name": "Shoffy",
+          "url": "https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG"
+        }
+      ],
+      "duration_ms": 191935,
+      "name": "Cool Again",
+      "url": "https://open.spotify.com/track/4CFJuKGq5CiGF95M2Jrw3S"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
         "name": "In the Sky",
         "url": "https://open.spotify.com/album/0WuS7pRWpHnsSjOqizOZix"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 217284,
       "name": "Groceries",
       "url": "https://open.spotify.com/track/3II5NhDhjzIessLfaSjPQn"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
-        "name": "Soy Pablo",
-        "url": "https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw"
-      },
-      "artists": [
-        {
-          "name": "boy pablo",
-          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
-        }
-      ],
-      "duration_ms": 186681,
-      "name": "Losing You",
-      "url": "https://open.spotify.com/track/7mjOxXnZYbGtgjyX0hqaLs"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Calm",
-        "url": "https://open.spotify.com/album/4yuJkYEGuZ5cR5qMtS342L"
+        "name": "Lush",
+        "url": "https://open.spotify.com/album/2ZlrWJ4Ev4DhG6mRo5h1AP"
       },
       "artists": [
         {
-          "name": "Vistas",
-          "url": "https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc"
+          "name": "Snail Mail",
+          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
         }
       ],
-      "duration_ms": 208760,
-      "name": "Calm",
-      "url": "https://open.spotify.com/track/4j7R6F40QS9mlvAOKP8U9G"
+      "duration_ms": 308346,
+      "name": "Heat Wave",
+      "url": "https://open.spotify.com/track/7B0uWqVjMySfDKhtZghBkO"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Lush",
-        "url": "https://open.spotify.com/album/2ZlrWJ4Ev4DhG6mRo5h1AP"
+        "name": "Calm",
+        "url": "https://open.spotify.com/album/4yuJkYEGuZ5cR5qMtS342L"
       },
       "artists": [
         {
-          "name": "Snail Mail",
-          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+          "name": "Vistas",
+          "url": "https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc"
         }
       ],
-      "duration_ms": 308346,
-      "name": "Heat Wave",
-      "url": "https://open.spotify.com/track/7B0uWqVjMySfDKhtZghBkO"
+      "duration_ms": 208760,
+      "name": "Calm",
+      "url": "https://open.spotify.com/track/4j7R6F40QS9mlvAOKP8U9G"
     },
     {
       "added_at": "2022-03-08 15:07:06",

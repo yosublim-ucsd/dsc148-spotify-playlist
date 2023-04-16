@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-434 songs - 1 day 5 hr 41 min
+435 songs - 1 day 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Eleanor \- Edit](https://open.spotify.com/track/4kLyAbRTMMfmAH5Fjm3cYU) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Eleanor](https://open.spotify.com/album/55cPRNZBzTJMc0B96RGoFx) | 3:53 | 2022-07-12 | 2022-07-14 |
 | [Eleanor \- Krystal Klear Remix](https://open.spotify.com/track/6fbNF4DkcP515bxSxGyjPQ) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5), [Krystal Klear](https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI) | [Eleanor \(Remixes\)](https://open.spotify.com/album/4nu8uFwNBbIJBrRWNt6GXo) | 6:05 | 2022-09-07 | 2022-10-21 |
 | [Elevation](https://open.spotify.com/track/0vTkJkiYQriLDzdmSt0zHr) | [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5), [Sunni Colón](https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2) | [Elevation](https://open.spotify.com/album/5JREjQEjOHhHEreuSIGSud) | 3:34 | 2022-06-08 | 2022-06-30 |
+| [Elevation \- Paul Woolford Remix Edit](https://open.spotify.com/track/7tW66gGa6fIo8DluDWANKN) | [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Sunni Colón](https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5) | [Elevation \(Paul Woolford Remix\)](https://open.spotify.com/album/3B9oGr5gd5u2VDkHVuM44X) | 3:12 | 2023-04-15 |  |
 | [Empty Heavy](https://open.spotify.com/track/7k7qOmiSsynXcqVNhTrHJK) | [deathcrash](https://open.spotify.com/artist/7m7gr3M1p4S92xuwXvorEH) | [Empty Heavy](https://open.spotify.com/album/5KyOCe2mY9u322n5DvfJJv) | 3:39 | 2023-01-25 | 2023-02-23 |
 | [Estrangement Zone](https://open.spotify.com/track/6z0rIv811kzEidxgGpRvtm) | [Will Sheff](https://open.spotify.com/artist/0JUTh3GM8SoFZTEyqPCRl5) | [Nothing Special](https://open.spotify.com/album/07wtrSTxfDBIKBq4eyY0kM) | 5:35 | 2022-12-07 | 2023-01-26 |
 | [Eternal September](https://open.spotify.com/track/3Vpn6xh4JmtryjRp80Krqh) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz), [Anunaku](https://open.spotify.com/artist/0dAzvKzbG3tMwFeWkjgHrZ), [A+A](https://open.spotify.com/artist/68bLkhHI4bzw9ZXfmhwLwN) | [Eternal September](https://open.spotify.com/album/0dEWqk9rBnxsDMccGmZRQs) | 5:33 | 2022-10-06 | 2022-11-10 |

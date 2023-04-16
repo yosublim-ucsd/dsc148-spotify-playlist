@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.spotify.com/genre/edm_dance\">Dance music</a> unplugged.",
-  "num_followers": 274229,
+  "num_followers": 274233,
   "original_name": "mint Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTM0MzU5MywwMDAwMDAwMDQwNzhkYWJlNjIwODYwY2FjNTc3NzYxMDg2Y2JjYThl",
+  "snapshot_id": "MTY3OTM0MzU5MywwMDAwMDAwMDRlZDI5ZDM1OWU5MDQwMDg4NWU3MmRlZGQ3ZTZhNTBm",
   "tracks": [
     {
       "added_at": "2023-03-20 20:19:53",
@@ -207,26 +207,6 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "Scared to Be Lonely (Acoustic Version)",
-        "url": "https://open.spotify.com/album/6YGs9QbzBuoXWWeJ2rcSBY"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 257357,
-      "name": "Scared to Be Lonely - Acoustic Version",
-      "url": "https://open.spotify.com/track/29CjkGjZnDVdJsfbRoNOGJ"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
         "name": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen) [Acoustic]",
         "url": "https://open.spotify.com/album/5Q41hlQpul1txWWurdTHtY"
       },
@@ -251,6 +231,26 @@
       "duration_ms": 212692,
       "name": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen) - Acoustic",
       "url": "https://open.spotify.com/track/0qynC1yRTNWI7JEsKV9dwg"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
+        "name": "Scared to Be Lonely (Acoustic Version)",
+        "url": "https://open.spotify.com/album/6YGs9QbzBuoXWWeJ2rcSBY"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 257357,
+      "name": "Scared to Be Lonely - Acoustic Version",
+      "url": "https://open.spotify.com/track/29CjkGjZnDVdJsfbRoNOGJ"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -375,26 +375,6 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "Hey (Acoustic Version)",
-        "url": "https://open.spotify.com/album/2ZwzsbOlmqGn7AGgK4pVNC"
-      },
-      "artists": [
-        {
-          "name": "F\u00c4IS",
-          "url": "https://open.spotify.com/artist/5w6mMj1qwSILG0pcylfchp"
-        },
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 156804,
-      "name": "Hey - Acoustic",
-      "url": "https://open.spotify.com/track/28vyxr4A3WyiZ9dR1mTIr5"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
         "name": "Change The World (Strings) (feat. Nicole Dash Jones)",
         "url": "https://open.spotify.com/album/3NisgTcMSNtM3aaf484arV"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 266413,
       "name": "Change the World (feat. Nicole Dash Jones) - Strings In Motion Mix",
       "url": "https://open.spotify.com/track/1C3arE9PgTbFPLp5n1c8PE"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
+        "name": "Hey (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2ZwzsbOlmqGn7AGgK4pVNC"
+      },
+      "artists": [
+        {
+          "name": "F\u00c4IS",
+          "url": "https://open.spotify.com/artist/5w6mMj1qwSILG0pcylfchp"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 156804,
+      "name": "Hey - Acoustic",
+      "url": "https://open.spotify.com/track/28vyxr4A3WyiZ9dR1mTIr5"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -619,26 +619,6 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "Sun Comes Up (Acoustic)",
-        "url": "https://open.spotify.com/album/0nV7xy2faNV4ckOpZTJhhs"
-      },
-      "artists": [
-        {
-          "name": "Rudimental",
-          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
-        },
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 255582,
-      "name": "Sun Comes Up - Acoustic",
-      "url": "https://open.spotify.com/track/2YO0VBWKaIdtUqfOKelqF1"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
         "name": "Deep Down (Acoustic Version) (feat. Never Dull)",
         "url": "https://open.spotify.com/album/0FXgNlUQuffimeBnWUsepH"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 188527,
       "name": "Deep Down (Acoustic Version) (feat. Never Dull)",
       "url": "https://open.spotify.com/track/4Sea2XMlbP2Yt8E5CMwvbb"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
+        "name": "Sun Comes Up (Acoustic)",
+        "url": "https://open.spotify.com/album/0nV7xy2faNV4ckOpZTJhhs"
+      },
+      "artists": [
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        },
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 255582,
+      "name": "Sun Comes Up - Acoustic",
+      "url": "https://open.spotify.com/track/2YO0VBWKaIdtUqfOKelqF1"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
+        "name": "Acoustic",
+        "url": "https://open.spotify.com/album/2w9QEpndpkUoQ2dglFHmY3"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "duration_ms": 288026,
+      "name": "Sun & Moon",
+      "url": "https://open.spotify.com/track/072qkZtviQdaPDhfHPtnZi"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
         "name": "Stay The Night (Acoustic)",
         "url": "https://open.spotify.com/album/723Y2fykArGgggQKPmvW0v"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 171840,
       "name": "Stay The Night - Acoustic",
       "url": "https://open.spotify.com/track/4beQ74mY5EVRwXgBJ7wFf6"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
-        "name": "Acoustic",
-        "url": "https://open.spotify.com/album/2w9QEpndpkUoQ2dglFHmY3"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        }
-      ],
-      "duration_ms": 288026,
-      "name": "Sun & Moon",
-      "url": "https://open.spotify.com/track/072qkZtviQdaPDhfHPtnZi"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1175,6 +1175,42 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
+        "name": "You Were Loved (with OneRepublic) [Acoustic]",
+        "url": "https://open.spotify.com/album/62maG5ACfFJ232Nle4rtqq"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 211967,
+      "name": "You Were Loved (with OneRepublic) - Acoustic",
+      "url": "https://open.spotify.com/track/3QcvwgkJmYL6Hz7tvYqkD3"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
+        "name": "Say Nothing (MAY-A\u2019s Version)",
+        "url": "https://open.spotify.com/album/08GGyfCuW03I97rDzpfv8K"
+      },
+      "artists": [
+        {
+          "name": "MAY-A",
+          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
+        }
+      ],
+      "duration_ms": 217894,
+      "name": "Say Nothing - MAY-A\u2019s Version",
+      "url": "https://open.spotify.com/track/4pIuWMo1pUkVGId6w2Ib3T"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
         "name": "Living Without You (Acoustic)",
         "url": "https://open.spotify.com/album/5sFCDMxGb2T6DkMgEFNTFU"
       },
@@ -1199,26 +1235,6 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "You Were Loved (with OneRepublic) [Acoustic]",
-        "url": "https://open.spotify.com/album/62maG5ACfFJ232Nle4rtqq"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 211967,
-      "name": "You Were Loved (with OneRepublic) - Acoustic",
-      "url": "https://open.spotify.com/track/3QcvwgkJmYL6Hz7tvYqkD3"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
         "name": "I Could Be The One [Avicii vs Nicky Romero] (Remixes)",
         "url": "https://open.spotify.com/album/1EzEbNySBZEQq6swaClGw0"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 231426,
       "name": "I Could Be The One [Avicii vs Nicky Romero] - Noonie Bao Acoustic Mix",
       "url": "https://open.spotify.com/track/5jENp0YwSkdQt9VbYI0DAC"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
-        "name": "Say Nothing (MAY-A\u2019s Version)",
-        "url": "https://open.spotify.com/album/08GGyfCuW03I97rDzpfv8K"
-      },
-      "artists": [
-        {
-          "name": "MAY-A",
-          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
-        }
-      ],
-      "duration_ms": 217894,
-      "name": "Say Nothing - MAY-A\u2019s Version",
-      "url": "https://open.spotify.com/track/4pIuWMo1pUkVGId6w2Ib3T"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "How You Love Me (Acoustic Version)",
-        "url": "https://open.spotify.com/album/2HwW0kegqZTxmZw6COLgiN"
-      },
-      "artists": [
-        {
-          "name": "3LAU",
-          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
-        },
-        {
-          "name": "Bright Lights",
-          "url": "https://open.spotify.com/artist/2AoeqcUs8DySgZRJ9yV4Ou"
-        }
-      ],
-      "duration_ms": 171101,
-      "name": "How You Love Me - Acoustic Version",
-      "url": "https://open.spotify.com/track/4UKlAy4rj6kCXZ076PyHyd"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
         "name": "Communion (Deluxe)",
         "url": "https://open.spotify.com/album/09mWpzpUOSjjvK2iNqEIYn"
       },
@@ -1363,6 +1343,26 @@
       "duration_ms": 239453,
       "name": "Never Let You Go (feat. John Newman) - Acoustic Version",
       "url": "https://open.spotify.com/track/0hsEwB7RvpWOJYZnAF4j4E"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
+        "name": "How You Love Me (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2HwW0kegqZTxmZw6COLgiN"
+      },
+      "artists": [
+        {
+          "name": "3LAU",
+          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
+        },
+        {
+          "name": "Bright Lights",
+          "url": "https://open.spotify.com/artist/2AoeqcUs8DySgZRJ9yV4Ou"
+        }
+      ],
+      "duration_ms": 171101,
+      "name": "How You Love Me - Acoustic Version",
+      "url": "https://open.spotify.com/track/4UKlAy4rj6kCXZ076PyHyd"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1535,26 +1535,6 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "Sound Advice (Chapter One)",
-        "url": "https://open.spotify.com/album/6m2CZMjj9W3KBn6DfTOp63"
-      },
-      "artists": [
-        {
-          "name": "Ben Gold",
-          "url": "https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL"
-        },
-        {
-          "name": "Audrey Gallagher",
-          "url": "https://open.spotify.com/artist/0RC0nC8QI7l4NXAOqDsamQ"
-        }
-      ],
-      "duration_ms": 193432,
-      "name": "There Will Be Angels - Acoustic Version",
-      "url": "https://open.spotify.com/track/0xF8IIySZUL4lrh92UE3O7"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
         "name": "Where Are \u00dc Now Live (with Justin Bieber)",
         "url": "https://open.spotify.com/album/4ZnjWNmJbuN2DKc5HLNA8b"
       },
@@ -1579,6 +1559,26 @@
       "duration_ms": 216339,
       "name": "Where Are \u00dc Now LIVE (with Justin Bieber)",
       "url": "https://open.spotify.com/track/1CjiAOoegmUDgbhKzAqSkl"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
+        "name": "Sound Advice (Chapter One)",
+        "url": "https://open.spotify.com/album/6m2CZMjj9W3KBn6DfTOp63"
+      },
+      "artists": [
+        {
+          "name": "Ben Gold",
+          "url": "https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL"
+        },
+        {
+          "name": "Audrey Gallagher",
+          "url": "https://open.spotify.com/artist/0RC0nC8QI7l4NXAOqDsamQ"
+        }
+      ],
+      "duration_ms": 193432,
+      "name": "There Will Be Angels - Acoustic Version",
+      "url": "https://open.spotify.com/track/0xF8IIySZUL4lrh92UE3O7"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
+        "name": "Brighter Future",
+        "url": "https://open.spotify.com/album/2j5Ie27rxisV2j51sm2mVA"
+      },
+      "artists": [
+        {
+          "name": "Big Gigantic",
+          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
+        }
+      ],
+      "duration_ms": 139701,
+      "name": "Long Time Coming",
+      "url": "https://open.spotify.com/track/1zFTuPPXc1pn2W1LXNQ9ND"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
         "name": "This Is What It Feels Like (John Ewbank Classical Remix)",
         "url": "https://open.spotify.com/album/5CLXV7ugS8VViNfpUdFJrr"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 192724,
       "name": "This Is What It Feels Like - John Ewbank Classical Remix",
       "url": "https://open.spotify.com/track/77Rx3xMZWX1NxEUnFwQavQ"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
-        "name": "Brighter Future",
-        "url": "https://open.spotify.com/album/2j5Ie27rxisV2j51sm2mVA"
-      },
-      "artists": [
-        {
-          "name": "Big Gigantic",
-          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
-        }
-      ],
-      "duration_ms": 139701,
-      "name": "Long Time Coming",
-      "url": "https://open.spotify.com/track/1zFTuPPXc1pn2W1LXNQ9ND"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1719,6 +1719,26 @@
       "duration_ms": 199080,
       "name": "Surrender - Acoustic",
       "url": "https://open.spotify.com/track/5Q92iqDv61uNqMLABwdqWW"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
+        "name": "Where Did You Go? (Acoustic)",
+        "url": "https://open.spotify.com/album/41LZiXValPCTFoxZx6NqT2"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 202680,
+      "name": "Where Did You Go? - Acoustic",
+      "url": "https://open.spotify.com/track/5AHam2qo8G5SqYtmqVIAq6"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1763,26 +1783,6 @@
       "duration_ms": 110440,
       "name": "Spectrum - Acoustic Version",
       "url": "https://open.spotify.com/track/23meR9hk6hYjvMJjExeYE1"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
-        "name": "Where Did You Go? (Acoustic)",
-        "url": "https://open.spotify.com/album/41LZiXValPCTFoxZx6NqT2"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
-        }
-      ],
-      "duration_ms": 202680,
-      "name": "Where Did You Go? - Acoustic",
-      "url": "https://open.spotify.com/track/5AHam2qo8G5SqYtmqVIAq6"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1851,26 +1851,6 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "Shelter",
-        "url": "https://open.spotify.com/album/22fYYTeKGVhw2tRTUOr2lN"
-      },
-      "artists": [
-        {
-          "name": "Dash Berlin",
-          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
-        },
-        {
-          "name": "Roxanne Emery",
-          "url": "https://open.spotify.com/artist/70bIIPbBQeaFzRrIfahMEM"
-        }
-      ],
-      "duration_ms": 169846,
-      "name": "Shelter",
-      "url": "https://open.spotify.com/track/5kyvAU6QooIxhMEtUOcIO3"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
         "name": "Another Chance (Remixes)",
         "url": "https://open.spotify.com/album/06RlOKlbMSJajJXRm2qVpt"
       },
@@ -1911,6 +1891,26 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
+        "name": "Moon Faces (Acoustic Journey)",
+        "url": "https://open.spotify.com/album/2PKQRTPkOdcgdyBFnu2fK0"
+      },
+      "artists": [
+        {
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+        },
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Lost - Acoustic",
+      "url": "https://open.spotify.com/track/0FMV06iWpotUirc42n1Oj4"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
         "name": "Diplo (Deluxe)",
         "url": "https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7"
       },
@@ -1931,6 +1931,26 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
+        "name": "Shelter",
+        "url": "https://open.spotify.com/album/22fYYTeKGVhw2tRTUOr2lN"
+      },
+      "artists": [
+        {
+          "name": "Dash Berlin",
+          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
+        },
+        {
+          "name": "Roxanne Emery",
+          "url": "https://open.spotify.com/artist/70bIIPbBQeaFzRrIfahMEM"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "Shelter",
+      "url": "https://open.spotify.com/track/5kyvAU6QooIxhMEtUOcIO3"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
         "name": "No Time For Tears (Acoustic)",
         "url": "https://open.spotify.com/album/6JdEdTE43TPbQ49iawf3uw"
       },
@@ -1947,26 +1967,6 @@
       "duration_ms": 205305,
       "name": "No Time For Tears - Acoustic",
       "url": "https://open.spotify.com/track/6j7JXcBcgkqiMV7RMWzcpk"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
-        "name": "Moon Faces (Acoustic Journey)",
-        "url": "https://open.spotify.com/album/2PKQRTPkOdcgdyBFnu2fK0"
-      },
-      "artists": [
-        {
-          "name": "Giol\u00ec & Assia",
-          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
-        },
-        {
-          "name": "Mahmut Orhan",
-          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Lost - Acoustic",
-      "url": "https://open.spotify.com/track/0FMV06iWpotUirc42n1Oj4"
     },
     {
       "added_at": "2023-03-20 20:19:53",

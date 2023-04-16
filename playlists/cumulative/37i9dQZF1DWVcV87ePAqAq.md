@@ -4,7 +4,7 @@
 
 > Gott nytt år!
 
-359 songs - 20 hr 17 min
+360 songs - 20 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,8 @@
 | [Head & Heart \(feat\. MNEK\) \- Tiësto Remix](https://open.spotify.com/track/1ohLQfIwj9NUN7e5UKeDl9) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Head & Heart \(feat\. MNEK\) \[Tiësto Remix\]](https://open.spotify.com/album/1UK3zb3VPzjcTT9MBN9mAa) | 2:04 | 2021-12-30 | 2022-07-29 |
 | [Heading Home](https://open.spotify.com/track/2Lh9Vp6Bi83hNe5RFYh8SA) | [Ludvigsson](https://open.spotify.com/artist/3oa1ydh8eLVXesBUwIfBWQ), [Jorm](https://open.spotify.com/artist/05pZjhj26S39scU4qPUhzq), [Vide](https://open.spotify.com/artist/33DYTSjYcxK2DzjeK7w539) | [Heading Home](https://open.spotify.com/album/5axYeuvwIhNRxajMkwr3cY) | 3:09 | 2020-12-31 | 2021-12-31 |
 | [Heartbreak Anthem \(with David Guetta & Little Mix\)](https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Heartbreak Anthem \(with David Guetta & Little Mix\)](https://open.spotify.com/album/6kBuGNoOGE7uiPhN82dcJ1) | 3:03 | 2021-12-30 | 2022-12-30 |
-| [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 | 2021-12-30 |  |
+| [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 | 2021-12-30 | 2023-04-16 |
+| [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 | 2022-12-31 |  |
 | [Heaven \- David Guetta & MORTEN Remix](https://open.spotify.com/track/4QAUGy6k7c3IOAhgWz52r7) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Heaven \(David Guetta & MORTEN Remix\)](https://open.spotify.com/album/37bCTD5iLWMpDcBanNkkXB) | 3:35 | 2020-12-31 | 2022-07-29 |
 | [Heaven Is a Place On Earth](https://open.spotify.com/track/37Q5anxoGWYdRsyeXkkNoI) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Greatest Vol.1 \- Belinda Carlisle](https://open.spotify.com/album/3fzHLg5RfRXzQlHlR4F7JG) | 4:06 | 2020-12-31 | 2022-07-29 |
 | [Helt seriöst](https://open.spotify.com/track/7shcnBgfWJ6AT7jmvAw4xO) | [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY) | [Helt seriöst](https://open.spotify.com/album/7EOGeHfxU0h3resdAq94fd) | 3:03 | 2020-12-31 | 2022-07-29 |

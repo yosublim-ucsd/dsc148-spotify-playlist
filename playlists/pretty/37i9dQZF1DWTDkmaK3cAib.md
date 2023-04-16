@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDkmaK3cAib.md) - [plain]
 
 > let's get it on
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,178 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,237 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDkmaK3cAib.md) - [plain]
 | 5 | [PERO TÚ](https://open.spotify.com/track/1dw7qShk971xMD6r6mA4VN) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:03 |
 | 6 | [LA NOCHE DE ANOCHE](https://open.spotify.com/track/2XIc1pqjXV3Cr2BQUGNBck) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 3:23 |
 | 7 | [LA FAMA](https://open.spotify.com/track/6Y46tOTRhkBamosyuWa6YX) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 3:08 |
-| 8 | [Volví](https://open.spotify.com/track/2vmfvSoZBFAt9hhRoEByLi) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Volví](https://open.spotify.com/album/23zzZlUiABIg4ftZbJ7peK) | 3:50 |
+| 8 | [Mi Nena Remix](https://open.spotify.com/track/7q1KFoWUNYudhKW8RYJFsZ) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Mi Nena Remix](https://open.spotify.com/album/6N2xUWDyxIusQX9s71HWFW) | 3:40 |
 | 9 | [Moonlight](https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Moonlight](https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u) | 3:07 |
-| 10 | [Mi Nena Remix](https://open.spotify.com/track/7q1KFoWUNYudhKW8RYJFsZ) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Mi Nena Remix](https://open.spotify.com/album/6N2xUWDyxIusQX9s71HWFW) | 3:40 |
+| 10 | [Volví](https://open.spotify.com/track/2vmfvSoZBFAt9hhRoEByLi) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Volví](https://open.spotify.com/album/23zzZlUiABIg4ftZbJ7peK) | 3:50 |
 | 11 | [A Mí](https://open.spotify.com/track/7MmrcXVA7A5zZ2CbDuGHNa) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [A Mí](https://open.spotify.com/album/3tc9WifLZvWKnoWzLPmaeO) | 3:29 |
 | 12 | [Mónaco](https://open.spotify.com/track/3HgvO4B5LLmdPOT2d8cSZd) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Clásicos](https://open.spotify.com/album/0t8H6Wc8P63LO0zj7kwZuj) | 3:12 |
 | 13 | [Le Pido a DIOS](https://open.spotify.com/track/4TFNKnMWjcMWzpkSwQrrcu) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [SIXDO](https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa) | 2:45 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDkmaK3cAib.md) - [plain]
 | 26 | [CORONE](https://open.spotify.com/track/1A7rUacip28yYERtzuQZ55) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [INTER SHIBUYA \- LA MAFIA](https://open.spotify.com/album/4hUQ4FB9GD5oDmw3XHIr0G) | 2:42 |
 | 27 | [Tú](https://open.spotify.com/track/1jecO8NeYLsVWVptITz4c1) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Tú](https://open.spotify.com/album/41OfyTxfB3ou95Ib24VlV2) | 3:26 |
 | 28 | [Feel Me](https://open.spotify.com/track/6KeweE0BlXx3AtjMKhBLaz) | [Rich Music LTD](https://open.spotify.com/artist/2kqUKsTuEj1lPbm6BSn1AU), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [The Academy](https://open.spotify.com/album/1faqBAWocW4ZOe0OFjudGw) | 5:00 |
-| 29 | [7 Veces](https://open.spotify.com/track/7iJQk4HvwwIZWrEfnuzTPP) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:54 |
-| 30 | [SOLO POR VOS](https://open.spotify.com/track/0qhynIDQPUYENhtIQ3TUyE) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [BIEN O MAL](https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl) | 3:19 |
+| 29 | [SOLO POR VOS](https://open.spotify.com/track/0qhynIDQPUYENhtIQ3TUyE) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [BIEN O MAL](https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl) | 3:19 |
+| 30 | [7 Veces](https://open.spotify.com/track/7iJQk4HvwwIZWrEfnuzTPP) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:54 |
 | 31 | [2/Catorce](https://open.spotify.com/track/71R8HJxQk5qMiRstrlXN9t) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Mr\. Naisgai](https://open.spotify.com/artist/37BIBvfliXJpSgn10yQUJM) | [2/Catorce](https://open.spotify.com/album/23ceOvjypWsCUj9ZrW8Fno) | 3:32 |
 | 32 | [CAMA KING \(feat\. Chita\)](https://open.spotify.com/track/1EOyHhh5uOwNrDhiUNnH2u) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 2:43 |
 | 33 | [fue mejor \(feat\. SZA\)](https://open.spotify.com/track/1CrPPsibP3uTc3DSI5vQC5) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [fue mejor \(feat\. SZA\)](https://open.spotify.com/album/5h23sIlF1FvjdIdcJofXlI) | 3:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDkmaK3cAib.md) - [plain]
 | 49 | [No Me Sueltes Más](https://open.spotify.com/track/5wWfs4E9RBXMQRpeNWRlXj) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [Sensaciones](https://open.spotify.com/album/7Hr8FOf7NQIe7UhLcllXq9) | 3:27 |
 | 50 | [Bye](https://open.spotify.com/track/0hucTc8Bg42b3Ihwz3WS7o) | [suei](https://open.spotify.com/artist/6jEjSPxnwsibG6vPOjkeER) | [Bye](https://open.spotify.com/album/6MnlRXoedn0gZHwVh9mOjI) | 2:37 |
 
-Snapshot ID: `MTY4MTIzNDQ1MiwwMDAwMDAwMGMwOWI5YjczYTBjMWFkMjcwOTRmZmY1YmI4MGQyNzgw`
+Snapshot ID: `MTY4MTIzNDQ1MiwwMDAwMDAwMGQ2Zjk0NzRhZGZjMzk4ZTJlYjc1ZWEyMzI2NzJhMjhj`

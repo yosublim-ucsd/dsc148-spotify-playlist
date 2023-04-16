@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgwMjQwODAsMDAwMDAwMDA0MzNlMGMxMTczY2VjZGVhMjc0ZmM1YmFjYTNiYTlmYw==",
+  "snapshot_id": "MjgwMjQwODAsMDAwMDAwMDA1OGNhNWFlYzVjMWMxYzFkOWE1NzcxMDg4ZWVkNDhlYw==",
   "tracks": [
     {
       "added_at": "2023-04-14 04:00:00",
@@ -23,6 +23,26 @@
       "duration_ms": 273693,
       "name": "Too Far Gone?",
       "url": "https://open.spotify.com/track/7KdgYr9jNkQO1Au7BGjGLW"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Jealous (feat. Snoop Dogg) [Instrumental]",
+        "url": "https://open.spotify.com/album/2uXC3O4e1Bym8noosNhTGE"
+      },
+      "artists": [
+        {
+          "name": "Young Sagg",
+          "url": "https://open.spotify.com/artist/7wGyQjvU5B5Qd2ev3wgNaj"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 208793,
+      "name": "Jealous (feat. Snoop Dogg) - Instrumental",
+      "url": "https://open.spotify.com/track/4PUBPtUymTVXYR6DUaA3C3"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -155,6 +175,22 @@
       "duration_ms": 109241,
       "name": "No Tomorrow",
       "url": "https://open.spotify.com/track/0ctvAQSD8kcQP6VUYF5yLf"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Blitzkrieg Bop (Metal Version)",
+        "url": "https://open.spotify.com/album/7Aqn93ZfDxQgc5F4uCxlju"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+        }
+      ],
+      "duration_ms": 139966,
+      "name": "Blitzkrieg Bop (Metal Version)",
+      "url": "https://open.spotify.com/track/7zQBUTdmR08xAzwL7ppqdx"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -300,9 +336,25 @@
           "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
         }
       ],
-      "duration_ms": 182852,
-      "name": "Lines in the Sand (Doug Pinnick Vocals)",
-      "url": "https://open.spotify.com/track/4P5YQ59SLoO6VcPtkoMPsA"
+      "duration_ms": 213316,
+      "name": "You Not Me (Strings, Piano, Vocals and Key Overdubs)",
+      "url": "https://open.spotify.com/track/6TIj3K9nu4HNrtogAfSJAH"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Count The Clouds",
+        "url": "https://open.spotify.com/album/0hYFW952nfZWyN5y1vxjdb"
+      },
+      "artists": [
+        {
+          "name": "Dan Horne",
+          "url": "https://open.spotify.com/artist/32GWtrYOojtYr0DVybdhev"
+        }
+      ],
+      "duration_ms": 263893,
+      "name": "Bicycle Rider",
+      "url": "https://open.spotify.com/track/3Bdh4UCIwbRZoDLZ5UFvXI"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -323,22 +375,6 @@
       "duration_ms": 199742,
       "name": "STUNTMAN (feat. Vince Staples)",
       "url": "https://open.spotify.com/track/6S4WM9LW6oGkAtBFePffh2"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "PSYCHO (Metal Version)",
-        "url": "https://open.spotify.com/album/0dkjVxhFAmNFY9RDokxMvp"
-      },
-      "artists": [
-        {
-          "name": "Leo",
-          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
-        }
-      ],
-      "duration_ms": 229448,
-      "name": "PSYCHO (Metal Version)",
-      "url": "https://open.spotify.com/track/3NI6G8TcZce3tqdTbiA9Hi"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -475,26 +511,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Tomorrow (Snoop Dogg feat. Denaun)",
-        "url": "https://open.spotify.com/album/5GyiLdYRAwYThnfdIpNh0R"
+        "name": "Just What I Need",
+        "url": "https://open.spotify.com/album/5PisCzqfPtR3D1c4jINRzl"
       },
       "artists": [
         {
-          "name": "Godfather of Harlem",
-          "url": "https://open.spotify.com/artist/6ss7NRk9Y2P9n8q1yH2HXA"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Denaun",
-          "url": "https://open.spotify.com/artist/4NhyK1Uoo8ScQOSl8x0jqI"
+          "name": "Telula",
+          "url": "https://open.spotify.com/artist/1EoYANOJzjAhHD0ChMfn0G"
         }
       ],
-      "duration_ms": 182802,
-      "name": "Tomorrow (Snoop Dogg feat. Denaun)",
-      "url": "https://open.spotify.com/track/090KQwFxJk5AWIffpXEzXB"
+      "duration_ms": 196800,
+      "name": "Just What I Need",
+      "url": "https://open.spotify.com/track/1FxlApP9GjAwZMigYP3LUI"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -551,70 +579,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Swarm",
-        "url": "https://open.spotify.com/album/7AXxq1n3X7JZbbEnGCfLAX"
+        "name": "So Much (For) Stardust",
+        "url": "https://open.spotify.com/album/5mWnMYLnfcnkDOCojHW6O1"
       },
       "artists": [
         {
-          "name": "Ni'jah",
-          "url": "https://open.spotify.com/artist/0RkeQU983gcehOYs7632vR"
-        },
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        },
-        {
-          "name": "KIRBY",
-          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 171706,
-      "name": "Sticky (feat. Childish Gambino & KIRBY)",
-      "url": "https://open.spotify.com/track/14adSLAL6WgvwH5snRF3gs"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Wreckless",
-        "url": "https://open.spotify.com/album/1E1HHfY6IClaSASPELV7t9"
-      },
-      "artists": [
-        {
-          "name": "Meeco",
-          "url": "https://open.spotify.com/artist/6n5aqrtqKxRHEdap5f4vgQ"
-        },
-        {
-          "name": "DJ Access",
-          "url": "https://open.spotify.com/artist/6pgLZsB8Z4kotoAiX8yW3T"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        },
-        {
-          "name": "Fashawn",
-          "url": "https://open.spotify.com/artist/6sDyTDjzGxcvyhLn5x9RyY"
-        }
-      ],
-      "duration_ms": 156066,
-      "name": "Wreckless",
-      "url": "https://open.spotify.com/track/2C7ZHLGI6eQoQ1m0aGtLK3"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "At Capolinea (Remastered)",
-        "url": "https://open.spotify.com/album/0KoYmJEWsOq1kJ6Z6eSQ1r"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 266750,
-      "name": "Dream Drops",
-      "url": "https://open.spotify.com/track/5ySdE6NWLnL5SsaDHzHt8B"
+      "duration_ms": 215601,
+      "name": "Hold Me Like a Grudge",
+      "url": "https://open.spotify.com/track/7u2nN6yhi4SfFyMHLE032Q"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

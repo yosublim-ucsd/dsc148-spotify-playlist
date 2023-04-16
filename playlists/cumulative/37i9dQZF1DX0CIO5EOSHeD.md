@@ -4,7 +4,7 @@
 
 > Slacker jams\. Cover: d4vd
 
-341 songs - 18 hr 15 min
+342 songs - 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [Ill Die for U](https://open.spotify.com/track/5v7XjzreQIVYJQkI4V5c7j) | [R.L\. Beats](https://open.spotify.com/artist/0EYPvjUpwFLKU6KHM6ecCO), [Lul Patchy](https://open.spotify.com/artist/10aK4Kl54Gv2thryqsscMN) | [Ill Die for U](https://open.spotify.com/album/2zx4Ttn8iNSCRwQ7SKDvHV) | 2:27 | 2021-04-02 | 2022-04-29 |
 | [ily<3](https://open.spotify.com/track/3ZP4D8jYZ7CdqXUfp1o71I) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [ily<3](https://open.spotify.com/album/0o1clGmQMvWEhwQYH6TBWd) | 3:34 | 2022-03-03 | 2022-07-29 |
 | [In My Head](https://open.spotify.com/track/3Y6tV3yhArEd7yfGggq2WF) | [Andreww](https://open.spotify.com/artist/3nNrtcMuKJcs40QGH5xoQS) | [In My Head](https://open.spotify.com/album/2nxQBBRveSpoNgmDGCS8pE) | 2:52 | 2021-10-09 | 2022-04-18 |
-| [IN THE DOG HOUSE](https://open.spotify.com/track/0WFalqmpdkBXkD1RLet7hz) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Franky Villani](https://open.spotify.com/artist/29JCRfv9Nox4co1GozSPDb) | [FULL TIME LOVER](https://open.spotify.com/album/1h8IiVZrZcdG68TYvxduLt) | 1:42 | 2022-08-05 |  |
+| [IN THE DOG HOUSE](https://open.spotify.com/track/0WFalqmpdkBXkD1RLet7hz) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Franky Villani](https://open.spotify.com/artist/29JCRfv9Nox4co1GozSPDb) | [FULL TIME LOVER](https://open.spotify.com/album/1h8IiVZrZcdG68TYvxduLt) | 1:42 | 2022-08-05 | 2023-04-16 |
 | [IN THE DOG HOUSE](https://open.spotify.com/track/4x9Yt0EnOEKRs2cdSJwSzN) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Franky Villani](https://open.spotify.com/artist/29JCRfv9Nox4co1GozSPDb) | [IN THE DOG HOUSE](https://open.spotify.com/album/2gRMnlczuJaGBVYl1X1vpg) | 1:42 | 2022-08-05 | 2022-08-28 |
 | [Intersection](https://open.spotify.com/track/4rNqlRwYCCcVUv37ZLmMTY) | [Modern Baseball](https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8) | [Polyvinyl 4\-Track Singles Series, Vol\. 3](https://open.spotify.com/album/7HxyUjqGjryGDxX0aVyoEh) | 3:53 | 2021-04-29 | 2022-11-27 |
 | [Intersection](https://open.spotify.com/track/79n6LMR1b5Puu9FxWzxtDA) | [Modern Baseball](https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8) | [Polyvinyl 4\-Track Singles Series, Vol\. 3](https://open.spotify.com/album/5JIUd8YI5MSUvtVPI0RNZn) | 3:53 | 2022-09-13 |  |
@@ -230,6 +230,7 @@
 | [Obsessed](https://open.spotify.com/track/2OIIhZsJps4wpv1ob4AtDH) | [Joss Mogli](https://open.spotify.com/artist/1m8ckDOsejA9s7GN9Y6N8q) | [Obsessed](https://open.spotify.com/album/3gCG7pVXTL4avBjoEOD41V) | 2:50 | 2021-09-25 | 2022-07-26 |
 | [obvious](https://open.spotify.com/track/4CsSN0KzU3bqhkrA7P3kIw) | [tøm hughes](https://open.spotify.com/artist/336D2sdfb7SeACYYG8TNWf) | [obvious](https://open.spotify.com/album/6NvlVbfUaUyOgZEfvSXHcm) | 3:09 | 2020-11-27 | 2022-07-16 |
 | [OH GOD](https://open.spotify.com/track/5jRsnHqasY3MPLsZq76KiO) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [OH GOD](https://open.spotify.com/album/7x4qNYyuYnLTNjuJgG0KJ5) | 2:12 | 2021-04-02 | 2023-03-19 |
+| [OH GOD](https://open.spotify.com/track/6WE3Ai38FIfTiBvOWLZwA1) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [OH GOD](https://open.spotify.com/album/4IrzLi3zyjvFxiinNRQM3P) | 2:12 | 2022-09-13 |  |
 | [One Year Stand](https://open.spotify.com/track/3d295CXrZtRVRVMFzr7VP8) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [One Year Stand](https://open.spotify.com/album/2hKOa5tJbt1ZTvAeg5926d) | 2:35 | 2022-08-05 | 2022-10-26 |
 | [One Year Stand](https://open.spotify.com/track/6NehzYGU99fC39zs2KqONu) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Inner World Peace](https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz) | 2:35 | 2022-09-13 |  |
 | [Orange Roses](https://open.spotify.com/track/670aiWD6QsDWp84szcpWE6) | [Lazygirl](https://open.spotify.com/artist/1YV0K79qt0uLTxtGflXTH9) | [Orange Roses](https://open.spotify.com/album/3R6PGdhybXer7PrwSCpc0w) | 4:05 | 2020-10-27\* | 2022-07-29 |

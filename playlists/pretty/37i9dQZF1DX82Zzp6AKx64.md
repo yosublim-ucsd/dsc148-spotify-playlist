@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 
 > Emotional and powerful \- let your feelings out with these classic power ballads\. Cover: Styx
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,108,060 likes - 100 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,108,375 likes - 100 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 | 24 | [Home Sweet Home](https://open.spotify.com/track/2C0hJUVjp7FSchyhYiceJq) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Theatre of Pain \(2021 \- Remaster\)](https://open.spotify.com/album/4ns4vxdkk4PdkneLNfJL52) | 3:59 |
 | 25 | [Faithfully](https://open.spotify.com/track/57ebBLITHpRgRKGrlbxMZS) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Frontiers](https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw) | 4:27 |
 | 26 | [Mama, I'm Coming Home](https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [No More Tears \(Expanded Edition\)](https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7) | 4:11 |
-| 27 | [All I Wanna Do Is Make Love To You](https://open.spotify.com/track/5YjKdeES9QRJ8NmF4Xc8pV) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Brigade](https://open.spotify.com/album/5CuSWXFhWielWXrXK8Sd8m) | 5:10 |
-| 28 | [Never Say Goodbye](https://open.spotify.com/track/4AfsbRvvuN7nEHAhONdeEp) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t) | 4:48 |
-| 29 | [Crazy](https://open.spotify.com/track/3QxKpdTB8ZSFn8MGeCCpsQ) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/180jTzor4W2MQ9HW5h5Fh4) | 5:16 |
+| 27 | [Crazy](https://open.spotify.com/track/3QxKpdTB8ZSFn8MGeCCpsQ) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/180jTzor4W2MQ9HW5h5Fh4) | 5:16 |
+| 28 | [All I Wanna Do Is Make Love To You](https://open.spotify.com/track/5YjKdeES9QRJ8NmF4Xc8pV) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Brigade](https://open.spotify.com/album/5CuSWXFhWielWXrXK8Sd8m) | 5:10 |
+| 29 | [Never Say Goodbye](https://open.spotify.com/track/4AfsbRvvuN7nEHAhONdeEp) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t) | 4:48 |
 | 30 | [Still Loving You](https://open.spotify.com/track/7kjsCbksOZotNNHOvKsJJh) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Love At First Sting](https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C) | 6:27 |
 | 31 | [I Remember You](https://open.spotify.com/track/4ZpXHlV2vQVfPXUvbDSZ92) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Skid Row](https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi) | 5:13 |
 | 32 | [The Flame](https://open.spotify.com/track/528CAH5pTLq86oZ52fHifA) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [Lap Of Luxury](https://open.spotify.com/album/1aYjx4tcmci0lYwT5sKgvM) | 5:38 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 | 68 | [Without You](https://open.spotify.com/track/2Pntw3RoGXhANFihOS8XyD) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood \(Deluxe Version\)](https://open.spotify.com/album/23krn1eEy7o3u9laLI1PLD) | 4:30 |
 | 69 | [Wasted Time](https://open.spotify.com/track/4BAhIRDG9GNeMvcigDKF7L) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Slave to the Grind](https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3) | 5:48 |
 | 70 | [Miles Away](https://open.spotify.com/track/3Bzh1AtiViTIaZV6yqySZH) | [Winger](https://open.spotify.com/artist/2qQeKHrQJHLLbvDAOSO874) | [In The Heart Of The Young](https://open.spotify.com/album/2P5MIQaEXsyDtiXXChyijs) | 4:12 |
-| 71 | [Honestly](https://open.spotify.com/track/4NBxoKAY9PR2PdfNnmVRkN) | [Harem Scarem](https://open.spotify.com/artist/6q72NwO3LCZ2WNKkDKy5va) | [Harem Scarem](https://open.spotify.com/album/2dJCA94x49HdrvyYsBxx5c) | 4:02 |
-| 72 | [Hysteria \- Remastered 2017](https://open.spotify.com/track/6EzSduIPnAmO3o41HY5V9d) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria \(Super Deluxe\)](https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE) | 5:54 |
+| 71 | [Hysteria \- Remastered 2017](https://open.spotify.com/track/6EzSduIPnAmO3o41HY5V9d) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria \(Super Deluxe\)](https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE) | 5:54 |
+| 72 | [Honestly](https://open.spotify.com/track/4NBxoKAY9PR2PdfNnmVRkN) | [Harem Scarem](https://open.spotify.com/artist/6q72NwO3LCZ2WNKkDKy5va) | [Harem Scarem](https://open.spotify.com/album/2dJCA94x49HdrvyYsBxx5c) | 4:02 |
 | 73 | [I Won't Forget You \- Remastered](https://open.spotify.com/track/6WmVgLj2htklkU3SZOsItg) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Look What The Cat Dragged In \- 20th Anniversary Edition](https://open.spotify.com/album/2SkbSj0eZ2H5uqKYEnMmIe) | 3:34 |
 | 74 | [Love Song](https://open.spotify.com/track/0vJUdIefT5caKla9H8b1q4) | [Tesla](https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU) | [The Great Radio Controversy](https://open.spotify.com/album/6E84FmjNjs38HXdhtOzbCM) | 5:23 |
 | 75 | [House of Pain](https://open.spotify.com/track/46Qy1xAr2K7rylRYwdQ6Gw) | [Faster Pussycat](https://open.spotify.com/artist/1FwGBBwUviGVIeDIByO7u7) | [Wake Me When It's Over](https://open.spotify.com/album/37X0TI6pz7fSg2aUREHzys) | 5:44 |
@@ -93,11 +93,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 | 83 | [What You Give](https://open.spotify.com/track/6XKLX2SOAdS0ZDQK2PbZKn) | [Tesla](https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU) | [Psychotic Supper](https://open.spotify.com/album/0JHYpUoXnAHGdd6rE9nrLY) | 7:15 |
 | 84 | [Fly To The Angels](https://open.spotify.com/track/6e165g8fp2WDCBwF1zxLMh) | [Slaughter](https://open.spotify.com/artist/4ibNXJiMYOPibpS9DB9Qz3) | [Mass Slaughter](https://open.spotify.com/album/1PLl8ONmplOUyu5Bq8GYJL) | 4:32 |
 | 85 | [Sister Christian](https://open.spotify.com/track/6LoSKNsYkRQbyuiReooMjG) | [Night Ranger](https://open.spotify.com/artist/1Ha0Fz4i0d4gu5fZbhBCtH) | [Boogie Nights / Music From The Original Motion Picture](https://open.spotify.com/album/4HUntZg0YV0qCvRxmIhq2U) | 5:00 |
-| 86 | [I Live My Life for You](https://open.spotify.com/track/4vHp893kV7HksfB5FN1Nk5) | [Firehouse](https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I) | [Good Acoustics](https://open.spotify.com/album/6Ee7BhLDpdOuMuPaJzTJVf) | 4:21 |
-| 87 | [Goodbye to Romance](https://open.spotify.com/track/44iFQNDCVfv2WHPdn7Wy1R) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Blizzard Of Ozz \(40th Anniversary Expanded Edition\)](https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS) | 5:35 |
+| 86 | [Goodbye to Romance](https://open.spotify.com/track/44iFQNDCVfv2WHPdn7Wy1R) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Blizzard Of Ozz \(40th Anniversary Expanded Edition\)](https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS) | 5:35 |
+| 87 | [I Live My Life for You](https://open.spotify.com/track/4vHp893kV7HksfB5FN1Nk5) | [Firehouse](https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I) | [Good Acoustics](https://open.spotify.com/album/6Ee7BhLDpdOuMuPaJzTJVf) | 4:21 |
 | 88 | [Coming Home](https://open.spotify.com/track/5EicljVZKVOo2LZHREtWmQ) | [Cinderella](https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx) | [Long Cold Winter](https://open.spotify.com/album/5EsAeGDozof1PIH3WPXLr2) | 4:55 |
-| 89 | [When I'm With You](https://open.spotify.com/track/3RJof5CojqlbgZ5adHw50O) | [Sheriff](https://open.spotify.com/artist/5jllns7VtBfhF3AyjvZP8d) | [Sheriff](https://open.spotify.com/album/23sISo3WqoIysj2AHHem3V) | 3:58 |
-| 90 | [Edge Of A Broken Heart](https://open.spotify.com/track/2mEk0VdrbDJ11DBC6Y92mh) | [Vixen](https://open.spotify.com/artist/4wlPkvHKZzP2K8wtBzFRyY) | [Vixen](https://open.spotify.com/album/51aj98h378eXQJZXtIZKjK) | 4:25 |
+| 89 | [Edge Of A Broken Heart](https://open.spotify.com/track/2mEk0VdrbDJ11DBC6Y92mh) | [Vixen](https://open.spotify.com/artist/4wlPkvHKZzP2K8wtBzFRyY) | [Vixen](https://open.spotify.com/album/51aj98h378eXQJZXtIZKjK) | 4:25 |
+| 90 | [When I'm With You](https://open.spotify.com/track/3RJof5CojqlbgZ5adHw50O) | [Sheriff](https://open.spotify.com/artist/5jllns7VtBfhF3AyjvZP8d) | [Sheriff](https://open.spotify.com/album/23sISo3WqoIysj2AHHem3V) | 3:58 |
 | 91 | [Stone Cold](https://open.spotify.com/track/7HXYoe65kmrPrJR1r0DGtW) | [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m) | [Straight Between The Eyes](https://open.spotify.com/album/2TjkjpMXM0fsgmmVjmxNmI) | 5:17 |
 | 92 | [Before the Dawn](https://open.spotify.com/track/29KPwkhfGpRkrL57TmFbDE) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Killing Machine](https://open.spotify.com/album/5Ud4v6Y2UC3uNeTdVssXj0) | 3:23 |
 | 93 | [Givin' Yourself Away](https://open.spotify.com/track/066s12j61ZlXnMDtnUiDbP) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Detonator](https://open.spotify.com/album/1I8TqSMkoRvF4xZSvuFDiq) | 5:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 | 99 | [If You Needed Somebody](https://open.spotify.com/track/6GaFUMG9opnMytdc0lwnQw) | [Bad Company](https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84) | [Holy Water](https://open.spotify.com/album/30ts0TMRhxu4usurOw99cE) | 4:21 |
 | 100 | [Every Time I Look At You](https://open.spotify.com/track/0ute0e8bY0FmSEIqDfhrBJ) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Revenge](https://open.spotify.com/album/70eknRp5bKGdFq0rJ7kA3x) | 4:39 |
 
-Snapshot ID: `MTY3NDA1Nzk5NSwwMDAwMDAwMGVjZWVhOGE4ZjUzMmEwOWM5YWMxOTMxYTVmOGRmYWI3`
+Snapshot ID: `MTY3NDA1Nzk5NSwwMDAwMDAwMDRmZjE4ZjliM2EzOGY1NmY1YWVkMzlmZTYwMWNlNTQz`

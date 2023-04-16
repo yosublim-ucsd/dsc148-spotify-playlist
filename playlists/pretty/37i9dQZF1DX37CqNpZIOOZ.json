@@ -1,12 +1,12 @@
 {
   "description": "Discover the music of Richard Strauss.",
-  "num_followers": 18870,
+  "num_followers": 18894,
   "original_name": "This Is Richard Strauss",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTcxODkyMSwwMDAwMDAwMDAxZDkwNGIwODIyZmIxZmQwMzg5NTBkMDhhNDBlMDkx",
+  "snapshot_id": "MTY1NTcxODkyMSwwMDAwMDAwMGY2ODBmMzlmOThiMTI3N2JkZjNiY2Q0ZTU4ZTAyZTkw",
   "tracks": [
     {
       "added_at": "2022-06-20 09:55:21",
@@ -631,30 +631,6 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "R. Strauss: Also sprach Zarathustra, Op. 30, TrV 176",
-        "url": "https://open.spotify.com/album/1M0t1KctQbDvdZKVqkmeFP"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "City Of Birmingham Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/6wuudWq7XpVutoFp4bsVDo"
-        },
-        {
-          "name": "Andris Nelsons",
-          "url": "https://open.spotify.com/artist/6fkV4LaygxybcMjo4cJLrI"
-        }
-      ],
-      "duration_ms": 928133,
-      "name": "Till Eulenspiegels lustige Streiche (Till Eulenspiegel's Merry Pranks), Op. 28, TrV 171",
-      "url": "https://open.spotify.com/track/4p0X3sBErkuxoyNAUPzi7C"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
         "name": "Strauss: Elektra",
         "url": "https://open.spotify.com/album/6sL7ArNAaZelHIwfDSl1Mt"
       },
@@ -699,8 +675,8 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "Strauss: Piano Trios Nos. 1 & 2",
-        "url": "https://open.spotify.com/album/00s2P1buYthLmGCADnRplP"
+        "name": "R. Strauss: Also sprach Zarathustra, Op. 30, TrV 176",
+        "url": "https://open.spotify.com/album/1M0t1KctQbDvdZKVqkmeFP"
       },
       "artists": [
         {
@@ -708,17 +684,17 @@
           "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
         },
         {
-          "name": "Amelia Piano Trio",
-          "url": "https://open.spotify.com/artist/4h7J09G0nNzkoK9UFBkFMB"
+          "name": "City Of Birmingham Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6wuudWq7XpVutoFp4bsVDo"
         },
         {
-          "name": "Max Mandel",
-          "url": "https://open.spotify.com/artist/1lgyh5VKSj4wK26xwOuNuE"
+          "name": "Andris Nelsons",
+          "url": "https://open.spotify.com/artist/6fkV4LaygxybcMjo4cJLrI"
         }
       ],
-      "duration_ms": 240306,
-      "name": "Standchen, TrV 114",
-      "url": "https://open.spotify.com/track/4vSZuTSLCZNj9EeCE60d0p"
+      "duration_ms": 928133,
+      "name": "Till Eulenspiegels lustige Streiche (Till Eulenspiegel's Merry Pranks), Op. 28, TrV 171",
+      "url": "https://open.spotify.com/track/4p0X3sBErkuxoyNAUPzi7C"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -747,6 +723,30 @@
       "duration_ms": 480000,
       "name": "Arabella, Op. 79, TrV 263: Das war sehr gut, Mandryka",
       "url": "https://open.spotify.com/track/3ZKdNbMGZBPDYpPPJE4jmm"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "Strauss: Piano Trios Nos. 1 & 2",
+        "url": "https://open.spotify.com/album/00s2P1buYthLmGCADnRplP"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Amelia Piano Trio",
+          "url": "https://open.spotify.com/artist/4h7J09G0nNzkoK9UFBkFMB"
+        },
+        {
+          "name": "Max Mandel",
+          "url": "https://open.spotify.com/artist/1lgyh5VKSj4wK26xwOuNuE"
+        }
+      ],
+      "duration_ms": 240306,
+      "name": "Standchen, TrV 114",
+      "url": "https://open.spotify.com/track/4vSZuTSLCZNj9EeCE60d0p"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -883,6 +883,58 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
+        "name": "Strauss, R: Violin Concerto, Op. 8, Burleske for Piano and Orchestra & Panathen\u00e4enzug, Op. 74",
+        "url": "https://open.spotify.com/album/3ycgAEuX3XJCUuGezmWZmw"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Rudolf Kempe",
+          "url": "https://open.spotify.com/artist/0zTyIQF8geFUI5op5Ocimg"
+        },
+        {
+          "name": "Ulf Hoelscher",
+          "url": "https://open.spotify.com/artist/1VXfTBvqKdOZtlpAVSmXIW"
+        },
+        {
+          "name": "Staatskapelle Dresden",
+          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
+        }
+      ],
+      "duration_ms": 907586,
+      "name": "Strauss, R: Violin Concerto in D Minor, Op. 8: I. Allegro",
+      "url": "https://open.spotify.com/track/4Z8N17SsWOYsZjNwdiDcJx"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "Strauss: Josephslegende, Love Scene from Feuersnot & Festmarsch",
+        "url": "https://open.spotify.com/album/2tXjyOIFgCw9yJxsFXGY9O"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Neeme J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
+        },
+        {
+          "name": "Royal Scottish National Orchestra",
+          "url": "https://open.spotify.com/artist/5xBSsPfZtPItmn72C2EHVf"
+        }
+      ],
+      "duration_ms": 348533,
+      "name": "Feuersnot, Op. 50, TrV 203: Love Scene",
+      "url": "https://open.spotify.com/track/2C7IfSb4nMXuY7vmoBNwYY"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
         "name": "R. Strauss: Ariadne auf Naxos",
         "url": "https://open.spotify.com/album/4x850YHmpioj4WsUwiaduE"
       },
@@ -935,58 +987,6 @@
       "duration_ms": 421200,
       "name": "Ariadne auf Naxos, Op. 60 / Opera: Ein Sch\u00f6nes war: hiess Theseus - Ariadne",
       "url": "https://open.spotify.com/track/4HFqlyxdEybDTBMTlR3ETW"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
-        "name": "Strauss: Josephslegende, Love Scene from Feuersnot & Festmarsch",
-        "url": "https://open.spotify.com/album/2tXjyOIFgCw9yJxsFXGY9O"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Neeme J\u00e4rvi",
-          "url": "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
-        },
-        {
-          "name": "Royal Scottish National Orchestra",
-          "url": "https://open.spotify.com/artist/5xBSsPfZtPItmn72C2EHVf"
-        }
-      ],
-      "duration_ms": 348533,
-      "name": "Feuersnot, Op. 50, TrV 203: Love Scene",
-      "url": "https://open.spotify.com/track/2C7IfSb4nMXuY7vmoBNwYY"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
-        "name": "Strauss, R: Violin Concerto, Op. 8, Burleske for Piano and Orchestra & Panathen\u00e4enzug, Op. 74",
-        "url": "https://open.spotify.com/album/3ycgAEuX3XJCUuGezmWZmw"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Rudolf Kempe",
-          "url": "https://open.spotify.com/artist/0zTyIQF8geFUI5op5Ocimg"
-        },
-        {
-          "name": "Ulf Hoelscher",
-          "url": "https://open.spotify.com/artist/1VXfTBvqKdOZtlpAVSmXIW"
-        },
-        {
-          "name": "Staatskapelle Dresden",
-          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
-        }
-      ],
-      "duration_ms": 907586,
-      "name": "Strauss, R: Violin Concerto in D Minor, Op. 8: I. Allegro",
-      "url": "https://open.spotify.com/track/4Z8N17SsWOYsZjNwdiDcJx"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "Strauss: Also sprach Zarathustra, Op. 30; Don Juan, Op. 20; Le Bourgeois Gentilhomme: Suite, Op. 60 - Sony Classical Masters",
-        "url": "https://open.spotify.com/album/45G3Fdfsgv0miISIGG15jP"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Fritz Reiner",
-          "url": "https://open.spotify.com/artist/4nsMLwMcViXAqwTLJ71y8i"
-        }
-      ],
-      "duration_ms": 611146,
-      "name": "Le bourgeois gentilhomme, Op. 60: The Dinner",
-      "url": "https://open.spotify.com/track/5GHeLyf4Bc8eZRlCHvyoa7"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
         "name": "Marc, Alessandra: Arias (Opera Gala) -Bellini, V. / Donizetti, G. / Hofmannsthal, H. / Barber, S. / Puccini, G.",
         "url": "https://open.spotify.com/album/0eBBqRUksRqE0JWjvRsFNQ"
       },
@@ -1363,6 +1343,26 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
+        "name": "Strauss: Also sprach Zarathustra, Op. 30; Don Juan, Op. 20; Le Bourgeois Gentilhomme: Suite, Op. 60 - Sony Classical Masters",
+        "url": "https://open.spotify.com/album/45G3Fdfsgv0miISIGG15jP"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Fritz Reiner",
+          "url": "https://open.spotify.com/artist/4nsMLwMcViXAqwTLJ71y8i"
+        }
+      ],
+      "duration_ms": 611146,
+      "name": "Le bourgeois gentilhomme, Op. 60: The Dinner",
+      "url": "https://open.spotify.com/track/5GHeLyf4Bc8eZRlCHvyoa7"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
         "name": "Richard Strauss - Complete Tone Poems & Concertos (13 Components)",
         "url": "https://open.spotify.com/album/6g2U3uW1ViECb6VZsT4Z0V"
       },
@@ -1383,30 +1383,6 @@
       "duration_ms": 1736520,
       "name": "Metamorphosen for 23 Solo Strings, TrV 290",
       "url": "https://open.spotify.com/track/3nIQb1IY2OWVsZ1dLzXnLZ"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
-        "name": "Strauss, R.: Vier letzte Lieder; Ein Heldenleben (Live)",
-        "url": "https://open.spotify.com/album/1yMrEQQMiFRD1rxjkCwsLj"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Staatskapelle Berlin",
-          "url": "https://open.spotify.com/artist/7vEPPI71V8dEHtEhPMAxWT"
-        },
-        {
-          "name": "Daniel Barenboim",
-          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
-        }
-      ],
-      "duration_ms": 264040,
-      "name": "Ein Heldenleben, Op. 40: Der Held - Live",
-      "url": "https://open.spotify.com/track/6zXuhOLQSrGel3H8c89VM4"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -1435,6 +1411,30 @@
       "duration_ms": 291786,
       "name": "_: R. Strauss: Wie umgibst du mich mit Frieden [Die Liebe der Danae]",
       "url": "https://open.spotify.com/track/1lDXttEeQgf55CNp8YebTF"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "Strauss, R.: Vier letzte Lieder; Ein Heldenleben (Live)",
+        "url": "https://open.spotify.com/album/1yMrEQQMiFRD1rxjkCwsLj"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Staatskapelle Berlin",
+          "url": "https://open.spotify.com/artist/7vEPPI71V8dEHtEhPMAxWT"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        }
+      ],
+      "duration_ms": 264040,
+      "name": "Ein Heldenleben, Op. 40: Der Held - Live",
+      "url": "https://open.spotify.com/track/6zXuhOLQSrGel3H8c89VM4"
     },
     {
       "added_at": "2022-06-20 09:55:21",

@@ -1,12 +1,12 @@
 {
   "description": "Reimagined pop covers of your favorite songs.  Cover: Sam Smith",
-  "num_followers": 95478,
+  "num_followers": 95581,
   "original_name": "Pop Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDg2MCwwMDAwMDAwMDg1MjIwMWExZDhiNWUxZmM3ZjgwZThmNDk3MDFmNjYy",
+  "snapshot_id": "MTY4MTQ0NDg2MCwwMDAwMDAwMDI4MDhiNmY0NTNjN2JjMGM2YWE5YTU0MjBkNmI4MDYw",
   "tracks": [
     {
       "added_at": "2023-04-14 04:01:00",
@@ -496,22 +496,6 @@
       "added_at": "2023-04-14 04:01:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5F6IRzJZGzLGb8R0GDMKSz"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 241776,
-      "name": "You'll Be In My Heart - Spotify Singles",
-      "url": "https://open.spotify.com/track/37mbA1RwYja7WFaIOzSczX"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5AS789PRyPv5B6l17kLfAW"
       },
       "artists": [
@@ -527,18 +511,18 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "I Wanna Dance With Somebody (Who Loves Me)",
-        "url": "https://open.spotify.com/album/32eU7uDLs7JNgYXoFtG2AW"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5F6IRzJZGzLGb8R0GDMKSz"
       },
       "artists": [
         {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
         }
       ],
-      "duration_ms": 203538,
-      "name": "I Wanna Dance With Somebody - Who Loves Me",
-      "url": "https://open.spotify.com/track/0cgFnx6yIVv3RrqXlZTiGZ"
+      "duration_ms": 241776,
+      "name": "You'll Be In My Heart - Spotify Singles",
+      "url": "https://open.spotify.com/track/37mbA1RwYja7WFaIOzSczX"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -571,6 +555,22 @@
       "duration_ms": 228853,
       "name": "Cupid - Deluxe Edition Version",
       "url": "https://open.spotify.com/track/5kG1ARHk8dli0bKiMN2oE6"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "I Wanna Dance With Somebody (Who Loves Me)",
+        "url": "https://open.spotify.com/album/32eU7uDLs7JNgYXoFtG2AW"
+      },
+      "artists": [
+        {
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+        }
+      ],
+      "duration_ms": 203538,
+      "name": "I Wanna Dance With Somebody - Who Loves Me",
+      "url": "https://open.spotify.com/track/0cgFnx6yIVv3RrqXlZTiGZ"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "In Your Eyes",
-        "url": "https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA"
-      },
-      "artists": [
-        {
-          "name": "Ben Abraham",
-          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
-        }
-      ],
-      "duration_ms": 329086,
-      "name": "In Your Eyes",
-      "url": "https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "Wouldn't It Be Nice",
         "url": "https://open.spotify.com/album/4oJIQO49IQeU5mhzdU11B0"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 152181,
       "name": "Wouldn't It Be Nice",
       "url": "https://open.spotify.com/track/1vKusrenzlsriyzUAJHb9i"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "In Your Eyes",
+        "url": "https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA"
+      },
+      "artists": [
+        {
+          "name": "Ben Abraham",
+          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
+        }
+      ],
+      "duration_ms": 329086,
+      "name": "In Your Eyes",
+      "url": "https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -995,6 +995,22 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
+        "name": "Meet Me At Our Spot",
+        "url": "https://open.spotify.com/album/7yYIY5ZSptEn9CBm9QhW5O"
+      },
+      "artists": [
+        {
+          "name": "Christian French",
+          "url": "https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM"
+        }
+      ],
+      "duration_ms": 137508,
+      "name": "Meet Me At Our Spot",
+      "url": "https://open.spotify.com/track/36d4GIYKnTr37URimc6FSP"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0z8PfudkG3FoO5LrWW4akU"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 173482,
       "name": "so into you - Spotify Singles",
       "url": "https://open.spotify.com/track/4TQLfbI12rrIVxOeWIr6gI"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "Meet Me At Our Spot",
-        "url": "https://open.spotify.com/album/7yYIY5ZSptEn9CBm9QhW5O"
-      },
-      "artists": [
-        {
-          "name": "Christian French",
-          "url": "https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM"
-        }
-      ],
-      "duration_ms": 137508,
-      "name": "Meet Me At Our Spot",
-      "url": "https://open.spotify.com/track/36d4GIYKnTr37URimc6FSP"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Fade into You",
-        "url": "https://open.spotify.com/album/70oTwRc3ogwa37NxrHqPdg"
-      },
-      "artists": [
-        {
-          "name": "Mallrat",
-          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
-        }
-      ],
-      "duration_ms": 252596,
-      "name": "Fade into You",
-      "url": "https://open.spotify.com/track/0UV2btQxu47HidfjAaM6f8"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6sHBQWEvoS10m9PE9mY9ND"
       },
@@ -1139,18 +1123,18 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "LEGEND (Solo Piano Version)",
-        "url": "https://open.spotify.com/album/5WgC0rNbr8aC5vEqL9U8Zo"
+        "name": "Fade into You",
+        "url": "https://open.spotify.com/album/70oTwRc3ogwa37NxrHqPdg"
       },
       "artists": [
         {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
         }
       ],
-      "duration_ms": 278226,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/2DWteQehd27R6qkJdHFggd"
+      "duration_ms": 252596,
+      "name": "Fade into You",
+      "url": "https://open.spotify.com/track/0UV2btQxu47HidfjAaM6f8"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1171,6 +1155,22 @@
       "duration_ms": 177261,
       "name": "Watermelon Sugar (featuring Avenue Beat)",
       "url": "https://open.spotify.com/track/6pPD1k342KK4fMU6xPHufi"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "LEGEND (Solo Piano Version)",
+        "url": "https://open.spotify.com/album/5WgC0rNbr8aC5vEqL9U8Zo"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 278226,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/2DWteQehd27R6qkJdHFggd"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1304,22 +1304,6 @@
       "added_at": "2023-04-14 04:01:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0Innco4HcewIE6ClCLB9kS"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 236334,
-      "name": "Halo - Spotify Singles",
-      "url": "https://open.spotify.com/track/42RzrKAGLgCzRmUtYeQuRQ"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/17z7tsbs0gZi7ASeae9saS"
       },
       "artists": [
@@ -1331,22 +1315,6 @@
       "duration_ms": 232175,
       "name": "Circles - Recorded at Electric Lady Studios NYC, 2020",
       "url": "https://open.spotify.com/track/2zpXEpZbAgQdhNyy6iwPwZ"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "All Too Well",
-        "url": "https://open.spotify.com/album/6efKXWSoIcByFOuxyu7Sh3"
-      },
-      "artists": [
-        {
-          "name": "Jake Scott",
-          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
-        }
-      ],
-      "duration_ms": 315475,
-      "name": "All Too Well",
-      "url": "https://open.spotify.com/track/3iTb61NCoUhOvbChmdhcRM"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1367,18 +1335,34 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "LOVE ALL COVER ALL",
-        "url": "https://open.spotify.com/album/1290P26ZPIKJSHOrOyqLXD"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0Innco4HcewIE6ClCLB9kS"
       },
       "artists": [
         {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
         }
       ],
-      "duration_ms": 169383,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/6tbSgMKlQ31izXvorTATrn"
+      "duration_ms": 236334,
+      "name": "Halo - Spotify Singles",
+      "url": "https://open.spotify.com/track/42RzrKAGLgCzRmUtYeQuRQ"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "All Too Well",
+        "url": "https://open.spotify.com/album/6efKXWSoIcByFOuxyu7Sh3"
+      },
+      "artists": [
+        {
+          "name": "Jake Scott",
+          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
+        }
+      ],
+      "duration_ms": 315475,
+      "name": "All Too Well",
+      "url": "https://open.spotify.com/track/3iTb61NCoUhOvbChmdhcRM"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1395,6 +1379,22 @@
       "duration_ms": 237876,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3WPYHZy8f7KIS5fVTUmliT"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "LOVE ALL COVER ALL",
+        "url": "https://open.spotify.com/album/1290P26ZPIKJSHOrOyqLXD"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "duration_ms": 169383,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/6tbSgMKlQ31izXvorTATrn"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1DwD96qkcmYfDAor27Gj38"
-      },
-      "artists": [
-        {
-          "name": "CHVRCHES",
-          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
-        }
-      ],
-      "duration_ms": 244315,
-      "name": "Stay - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/3kSIXQW05MKcprFP1RtwWX"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "Everybody Wants To Rule The World",
         "url": "https://open.spotify.com/album/4vNTnk9ZwBi2zIJlAiOYms"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 166016,
       "name": "The Sweet Escape",
       "url": "https://open.spotify.com/track/0UPYSuHKAZq6diZrCaBAsW"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1DwD96qkcmYfDAor27Gj38"
+      },
+      "artists": [
+        {
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+        }
+      ],
+      "duration_ms": 244315,
+      "name": "Stay - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/3kSIXQW05MKcprFP1RtwWX"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "High Drama",
-        "url": "https://open.spotify.com/album/4y5hDajuXPBoqceqFMOfNH"
+        "name": "I\u2019m Blue",
+        "url": "https://open.spotify.com/album/5oerPhDkPTBfRj1O8gXZBS"
       },
       "artists": [
         {
-          "name": "Adam Lambert",
-          "url": "https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7"
+          "name": "Faouzia",
+          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
         }
       ],
-      "duration_ms": 224588,
-      "name": "Chandelier",
-      "url": "https://open.spotify.com/track/7e1OnEIKfoJkBD2GM6V9vr"
+      "duration_ms": 150511,
+      "name": "I\u2019m Blue",
+      "url": "https://open.spotify.com/track/7kIlkxmhj6AvR5gwKvcXZp"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1603,6 +1603,22 @@
       "duration_ms": 140090,
       "name": "How Long Will I Love You",
       "url": "https://open.spotify.com/track/7EhFX5jwXkchEamoQmlC8C"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "High Drama",
+        "url": "https://open.spotify.com/album/4y5hDajuXPBoqceqFMOfNH"
+      },
+      "artists": [
+        {
+          "name": "Adam Lambert",
+          "url": "https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7"
+        }
+      ],
+      "duration_ms": 224588,
+      "name": "Chandelier",
+      "url": "https://open.spotify.com/track/7e1OnEIKfoJkBD2GM6V9vr"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1743,22 +1759,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Take On Me",
-        "url": "https://open.spotify.com/album/15j2HxHLy1N90wLlCno4Uw"
-      },
-      "artists": [
-        {
-          "name": "Thunder Jackson",
-          "url": "https://open.spotify.com/artist/3o0xJMKswwtXz2PhrRCHhJ"
-        }
-      ],
-      "duration_ms": 146533,
-      "name": "Take On Me",
-      "url": "https://open.spotify.com/track/7aW7NJWNPSNOMGRUCmIody"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "TROLLS Holiday In Harmony",
         "url": "https://open.spotify.com/album/4QhiPwSJKMHBk0EL67zBaT"
       },
@@ -1787,6 +1787,22 @@
       "duration_ms": 156200,
       "name": "Signed, Sealed, Delivered (I'm Yours)",
       "url": "https://open.spotify.com/track/0LKsKNbx1NhGRzGSVBHH1F"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Take On Me",
+        "url": "https://open.spotify.com/album/15j2HxHLy1N90wLlCno4Uw"
+      },
+      "artists": [
+        {
+          "name": "Thunder Jackson",
+          "url": "https://open.spotify.com/artist/3o0xJMKswwtXz2PhrRCHhJ"
+        }
+      ],
+      "duration_ms": 146533,
+      "name": "Take On Me",
+      "url": "https://open.spotify.com/track/7aW7NJWNPSNOMGRUCmIody"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1923,22 +1939,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "The Middle",
-        "url": "https://open.spotify.com/album/2ePzBY8wNV0LsUx5GM6Z44"
-      },
-      "artists": [
-        {
-          "name": "Emilee Moore",
-          "url": "https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m"
-        }
-      ],
-      "duration_ms": 192029,
-      "name": "The Middle",
-      "url": "https://open.spotify.com/track/0QkZwn3aLQDSqZ130CxvEe"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "Come As You Are",
         "url": "https://open.spotify.com/album/18yErQMF59Oup4SvhmCoEm"
       },
@@ -1951,6 +1951,22 @@
       "duration_ms": 156625,
       "name": "Come As You Are",
       "url": "https://open.spotify.com/track/02iQfxXKbeR8L0AuGWrt9c"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "The Middle",
+        "url": "https://open.spotify.com/album/2ePzBY8wNV0LsUx5GM6Z44"
+      },
+      "artists": [
+        {
+          "name": "Emilee Moore",
+          "url": "https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m"
+        }
+      ],
+      "duration_ms": 192029,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/0QkZwn3aLQDSqZ130CxvEe"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -2159,22 +2175,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Wrecking Ball",
-        "url": "https://open.spotify.com/album/3j2WcjsXEb4wMJqUFSfW95"
-      },
-      "artists": [
-        {
-          "name": "Patrick Droney",
-          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
-        }
-      ],
-      "duration_ms": 213706,
-      "name": "Wrecking Ball",
-      "url": "https://open.spotify.com/track/4blEH2R5HZHTsZapNlvApV"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe"
       },
@@ -2191,18 +2191,18 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/6Q3yJG9z24SwouL3qsZkOm"
+        "name": "Wrecking Ball",
+        "url": "https://open.spotify.com/album/3j2WcjsXEb4wMJqUFSfW95"
       },
       "artists": [
         {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+          "name": "Patrick Droney",
+          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
         }
       ],
-      "duration_ms": 252716,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/5U8frcz1zLfKDX5sDTpsnV"
+      "duration_ms": 213706,
+      "name": "Wrecking Ball",
+      "url": "https://open.spotify.com/track/4blEH2R5HZHTsZapNlvApV"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -2219,6 +2219,22 @@
       "duration_ms": 147457,
       "name": "dancing in the moonlight",
       "url": "https://open.spotify.com/track/0pSLfXI0tYQU2Gvycaw4B6"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/6Q3yJG9z24SwouL3qsZkOm"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "duration_ms": 252716,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/5U8frcz1zLfKDX5sDTpsnV"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -2399,22 +2415,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "If I Were A Boy",
-        "url": "https://open.spotify.com/album/7C7uRn4p2HhauHrzjb486u"
-      },
-      "artists": [
-        {
-          "name": "Mickey Guyton",
-          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
-        }
-      ],
-      "duration_ms": 244906,
-      "name": "If I Were A Boy",
-      "url": "https://open.spotify.com/track/13dtX3TNkdeo126Ccib6CA"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "Smells Like Teen Spirit",
         "url": "https://open.spotify.com/album/4X0aM6J4cffAbWDFHMbnLy"
       },
@@ -2427,6 +2427,22 @@
       "duration_ms": 268437,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/5IqCc31SeFJd5C7v2JGq0I"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "If I Were A Boy",
+        "url": "https://open.spotify.com/album/7C7uRn4p2HhauHrzjb486u"
+      },
+      "artists": [
+        {
+          "name": "Mickey Guyton",
+          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
+        }
+      ],
+      "duration_ms": 244906,
+      "name": "If I Were A Boy",
+      "url": "https://open.spotify.com/track/13dtX3TNkdeo126Ccib6CA"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -2479,22 +2495,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "In Da Club",
-        "url": "https://open.spotify.com/album/0tY0cLxwPSwvjyFfOol58C"
-      },
-      "artists": [
-        {
-          "name": "Skylar Stecker",
-          "url": "https://open.spotify.com/artist/6f6VAs9A49Er8jbbCUjAH0"
-        }
-      ],
-      "duration_ms": 204186,
-      "name": "In Da Club",
-      "url": "https://open.spotify.com/track/1kDSSQ0xBiZgogNN2a7ofQ"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "All The Things She Said",
         "url": "https://open.spotify.com/album/5ESAbhn6KetEUOmf5VOkkh"
       },
@@ -2507,6 +2507,22 @@
       "duration_ms": 199874,
       "name": "All The Things She Said",
       "url": "https://open.spotify.com/track/4EWfxnUb6TPQlaUjFgxnym"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "In Da Club",
+        "url": "https://open.spotify.com/album/0tY0cLxwPSwvjyFfOol58C"
+      },
+      "artists": [
+        {
+          "name": "Skylar Stecker",
+          "url": "https://open.spotify.com/artist/6f6VAs9A49Er8jbbCUjAH0"
+        }
+      ],
+      "duration_ms": 204186,
+      "name": "In Da Club",
+      "url": "https://open.spotify.com/track/1kDSSQ0xBiZgogNN2a7ofQ"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -2639,22 +2655,6 @@
       "duration_ms": 178146,
       "name": "If Your Man Only Knew",
       "url": "https://open.spotify.com/track/7H8kBmya327d7KTXsbln2v"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "I\u2019m Blue",
-        "url": "https://open.spotify.com/album/5oerPhDkPTBfRj1O8gXZBS"
-      },
-      "artists": [
-        {
-          "name": "Faouzia",
-          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
-        }
-      ],
-      "duration_ms": 150511,
-      "name": "I\u2019m Blue",
-      "url": "https://open.spotify.com/track/7kIlkxmhj6AvR5gwKvcXZp"
     }
   ],
   "unique_name": "Pop Covers",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: KANA\-BOON
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,407 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,453 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 5 | [I Don’t Think That I Like Her](https://open.spotify.com/track/0Ts1lnK3lYa2dwE2orDJc5) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [CHARLIE](https://open.spotify.com/album/2LTqBgZUH4EkDcj8hdkNjK) | 3:08 |
 | 6 | [Green Green Grass \- Sped\-Up](https://open.spotify.com/track/1gGeEcwqBNxVqjzjAWvS4N) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Green Green Grass \(Sped\-Up\)](https://open.spotify.com/album/147Dfr5kuQAK5bcNSuMDP0) | 2:08 |
 | 7 | [ビートDEトーヒ](https://open.spotify.com/track/5D4XpDNbB5WTFLQ8VA442k) | [ハマいく](https://open.spotify.com/artist/0yAwTq1vSQQ8fpvLr5wdoF) | [ビートDEトーヒ](https://open.spotify.com/album/2AFM1KkgOLDZFibeUoxq7G) | 2:18 |
-| 8 | [OTONABLUE](https://open.spotify.com/track/2ay8z5vGqKTSpGkmOR9IAo) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [OTONABLUE](https://open.spotify.com/album/7vUVx8e9SrqIZe22KqLd6i) | 3:05 |
+| 8 | [OTONABLUE](https://open.spotify.com/track/3h1XlHgx0m1dO6nNSO1kSV) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ICHIJIKIKOKU](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) | 3:04 |
 | 9 | [いつのまに](https://open.spotify.com/track/1VZMySTb2Sqs30c0FaO9H0) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [いつのまに](https://open.spotify.com/album/6fWI3YkfSUUL5QY1yfTDyB) | 3:28 |
 | 10 | [Kawaikutegomen](https://open.spotify.com/track/4Mo0vn7a03pJ19uESUrH5a) | [HoneyWorks](https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd), [Capi](https://open.spotify.com/artist/1CnxV1xCQR5pmAR6IHIIyR) | [Kokuhakujikkouiinkai \-FLYING SONGS\- Koishiteru](https://open.spotify.com/album/6RriT3rElmDYDODZjcKBcq) | 3:39 |
 | 11 | [日常革命](https://open.spotify.com/track/1Ej4gvxiMMXtD8uDnADCTT) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [ワンダーランドに愛情を!](https://open.spotify.com/album/52s8JzniZA0dZA1D6sQOih) | 4:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 49 | [DAILY](https://open.spotify.com/track/26nx74NjcyLlVUaUeJ2Qnr) | [Issei Uno Fifth](https://open.spotify.com/artist/3ChsBdunsttUJkFhSKRhfq) | [DAILY](https://open.spotify.com/album/1bmDjRLQ2stA2ytCo2tVm7) | 1:59 |
 | 50 | [Our Bright Parade](https://open.spotify.com/track/4fuwpHWlsoPUTFXEWhHC6l) | [hololive IDOL PROJECT](https://open.spotify.com/artist/18Zr9CaElvS40S0AtizMWZ) | [Our Bright Parade](https://open.spotify.com/album/7eCf9tUxrNZ3LleQY5ofvX) | 4:29 |
 
-Snapshot ID: `MTY4MTM5ODAwMCwwMDAwMDAwMGMwMmNkMzcyZmQ1YmZhMGY4MjA1NDYwNTJhZTllMTk2`
+Snapshot ID: `MTY4MTM5ODAwMCwwMDAwMDAwMDNhYTQ0OTFjMzlhNDU2YTA4NjdjMWIzZDU3ZjQyZTRk`

@@ -1,12 +1,12 @@
 {
   "description": "Grab your dancing shoes and strut your stuff with these upbeat blues numbers.",
-  "num_followers": 42082,
+  "num_followers": 42162,
   "original_name": "Upbeat Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQzMDQ2MCwwMDAwMDAwMGM1ODNkNGRhOTNiOGUzZWZkZTZjNGUzODMwMDE1MmVh",
+  "snapshot_id": "MTY4MTQzMDQ2MCwwMDAwMDAwMDk5MGM3MDhkNzNjNDM3ZmIzOGNlY2Y2NWMyNTUyYWE4",
   "tracks": [
     {
       "added_at": "2023-04-14 00:01:00",
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
+        "name": "662",
+        "url": "https://open.spotify.com/album/3oHvQF3GcnbPRsnp2pieAZ"
+      },
+      "artists": [
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "duration_ms": 203481,
+      "name": "That's What You Do",
+      "url": "https://open.spotify.com/track/4SHIHwvtqgRO25NQ5eOChk"
+    },
+    {
+      "added_at": "2023-04-14 00:01:00",
+      "album": {
         "name": "Down The Road Apiece -The Best Of Amos Milburn",
         "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 156733,
       "name": "Poor Boy",
       "url": "https://open.spotify.com/track/6UAPJQ5qrM5oRViQCC9sFd"
-    },
-    {
-      "added_at": "2023-04-14 00:01:00",
-      "album": {
-        "name": "662",
-        "url": "https://open.spotify.com/album/3oHvQF3GcnbPRsnp2pieAZ"
-      },
-      "artists": [
-        {
-          "name": "Christone \"Kingfish\" Ingram",
-          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
-        }
-      ],
-      "duration_ms": 203481,
-      "name": "That's What You Do",
-      "url": "https://open.spotify.com/track/4SHIHwvtqgRO25NQ5eOChk"
     },
     {
       "added_at": "2023-04-14 00:01:00",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
+        "name": "Sharecropper's Son",
+        "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
+      },
+      "artists": [
+        {
+          "name": "Robert Finley",
+          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
+        }
+      ],
+      "duration_ms": 186960,
+      "name": "Sharecropper\u2019s Son",
+      "url": "https://open.spotify.com/track/5TTctmQn2AlFAgdCB5sGoU"
+    },
+    {
+      "added_at": "2023-04-14 00:01:00",
+      "album": {
         "name": "If These Walls Could Talk",
         "url": "https://open.spotify.com/album/1oSDdZ6ANLOXgxT8sW75uw"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 216716,
       "name": "Watch Me Change",
       "url": "https://open.spotify.com/track/01jQJSRH05Y1GnldY8nhp1"
-    },
-    {
-      "added_at": "2023-04-14 00:01:00",
-      "album": {
-        "name": "Georgia Women",
-        "url": "https://open.spotify.com/album/1Ju9SXFdTM6uvkjTdiQNAS"
-      },
-      "artists": [
-        {
-          "name": "Hank Williams, Jr.",
-          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
-        }
-      ],
-      "duration_ms": 245280,
-      "name": "Georgia Women",
-      "url": "https://open.spotify.com/track/6iXthXEPC9OJi9UkOZSN2g"
     }
   ],
   "unique_name": "Upbeat Blues",

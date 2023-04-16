@@ -1,15 +1,15 @@
 {
   "description": "Lovely, pop-filled, fun.",
-  "num_followers": 38101,
+  "num_followers": 38123,
   "original_name": "Wholesome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDYyOTcxNCwwMDAwMDAwMGVlMDgzNzUxZjk2OTAxNGRmYTY4ZWVjZDc0ZjM1ZjQ2",
+  "snapshot_id": "MTY4MDYyOTcxNCwwMDAwMDAwMGZiNDFhMzExMGNiYzJkNzg2MmFiZGUyOWJjN2IxZTVi",
   "tracks": [
     {
-      "added_at": "2023-04-15 01:14:11",
+      "added_at": "2023-04-16 01:00:10",
       "album": {
         "name": "live more & love more",
         "url": "https://open.spotify.com/album/5sgznu5iMVavhZy04BsUb4"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
     },
     {
-      "added_at": "2023-04-15 01:14:11",
+      "added_at": "2023-04-16 01:00:10",
       "album": {
         "name": "The Beginning: Cupid",
         "url": "https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt"
     },
     {
-      "added_at": "2023-04-15 01:14:11",
+      "added_at": "2023-04-16 01:00:10",
       "album": {
         "name": "It's Euphoric",
         "url": "https://open.spotify.com/album/4PO8IlUdTJpBbsUremuM69"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
     },
     {
-      "added_at": "2023-04-15 01:14:11",
+      "added_at": "2023-04-16 01:00:10",
       "album": {
         "name": "i loved a boy",
         "url": "https://open.spotify.com/album/6YwhtYV8vYjaJzA7Df4mHi"
@@ -485,7 +485,7 @@
       "url": "https://open.spotify.com/track/5Ne1q9Hv3l2NHBA3Agt8WT"
     },
     {
-      "added_at": "2023-04-15 01:14:11",
+      "added_at": "2023-04-16 01:00:10",
       "album": {
         "name": "Dive",
         "url": "https://open.spotify.com/album/3R7QQAIWQNYV5I2GViJqee"
@@ -857,7 +857,7 @@
       "url": "https://open.spotify.com/track/61vlpInisekQjqqipr7HkP"
     },
     {
-      "added_at": "2023-04-15 01:14:11",
+      "added_at": "2023-04-16 01:00:10",
       "album": {
         "name": "Ready To Be Loved",
         "url": "https://open.spotify.com/album/0n154sm1hveOmE5VKenM9n"
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-03-24 16:50:00",
       "album": {
-        "name": "Nothing Lasts Forever",
-        "url": "https://open.spotify.com/album/0eeLFV76Mnl91MEXf893YQ"
-      },
-      "artists": [
-        {
-          "name": "Dylan",
-          "url": "https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk"
-        }
-      ],
-      "duration_ms": 167550,
-      "name": "Nothing Lasts Forever",
-      "url": "https://open.spotify.com/track/6IzTSuvoY6w3QAhCfN1Sgb"
-    },
-    {
-      "added_at": "2023-03-24 16:50:00",
-      "album": {
         "name": "Whole",
         "url": "https://open.spotify.com/album/5rITGmazx7CpQZ8N3nTgaW"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 174466,
       "name": "Whole",
       "url": "https://open.spotify.com/track/2JZixjPnrQ67VOPQRDKSmH"
+    },
+    {
+      "added_at": "2023-03-24 16:50:00",
+      "album": {
+        "name": "Nothing Lasts Forever",
+        "url": "https://open.spotify.com/album/0eeLFV76Mnl91MEXf893YQ"
+      },
+      "artists": [
+        {
+          "name": "Dylan",
+          "url": "https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk"
+        }
+      ],
+      "duration_ms": 167550,
+      "name": "Nothing Lasts Forever",
+      "url": "https://open.spotify.com/track/6IzTSuvoY6w3QAhCfN1Sgb"
     },
     {
       "added_at": "2023-03-24 16:50:00",

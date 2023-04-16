@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07shWw.md) - [plain]
 
 > This is Ingrid Andress\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,050 likes - 28 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,056 likes - 28 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Feel Like This](https://open.spotify.com/track/4QWXSTeUHFzU0INh7SNqSU) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 3:16 |
 | 2 | [More Hearts Than Mine](https://open.spotify.com/track/60RFlt48hm0l4Fu0JoccOl) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:34 |
-| 3 | [Blue](https://open.spotify.com/track/0A4gEliYdWpZQeRt1en0XN) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Blue](https://open.spotify.com/album/2Sfi2gRtjCAQqEEgg2EJ2h) | 3:21 |
-| 4 | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe) | 3:14 |
+| 3 | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe) | 3:14 |
+| 4 | [Blue](https://open.spotify.com/track/0A4gEliYdWpZQeRt1en0XN) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Blue](https://open.spotify.com/album/2Sfi2gRtjCAQqEEgg2EJ2h) | 3:21 |
 | 5 | [Runnin \(with JP Saxe\)](https://open.spotify.com/track/2SaQRVlA0qJNvV8CQxX7AX) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii), [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Good Person \(Deluxe\)](https://open.spotify.com/album/74uGCjYtRRC4vuQiD6L97I) | 3:26 |
 | 6 | [Lady Like](https://open.spotify.com/track/7c3Y6INQrmNXDAOquinyw4) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:14 |
 | 7 | [Bed on Fire \(with Ingrid Andress\)](https://open.spotify.com/track/0739yB1rNxAQeLda9pOrEP) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Bed on Fire \(with Ingrid Andress\)](https://open.spotify.com/album/1tOEXqqFrTxoyHTXhvb8E5) | 3:48 |
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07shWw.md) - [plain]
 | 22 | [Wish You Would](https://open.spotify.com/track/7lYLGVuVHQBfuaElYAqPpD) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person \(Deluxe\)](https://open.spotify.com/album/74uGCjYtRRC4vuQiD6L97I) | 4:18 |
 | 23 | [Feeling Things](https://open.spotify.com/track/5WgmV76XjrQ2ABWem3rTM1) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like \(Deluxe\)](https://open.spotify.com/album/5meYwtXnMng9XzeQ4eoJyO) | 3:10 |
 | 24 | [Life of the Party](https://open.spotify.com/track/2Kj0CNt34RnYByxCYETiJv) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 2:56 |
-| 25 | [Falling For You](https://open.spotify.com/track/1WqmNnwx0aIEoEY8h3ayl1) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 3:39 |
+| 25 | [All The Love](https://open.spotify.com/track/6Ux1OziwTqAns38d7CfdWG) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 3:45 |
 | 26 | [Boys](https://open.spotify.com/track/7vO6jY3bzXEMA5pPL3VRYT) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like \(Deluxe\)](https://open.spotify.com/album/5meYwtXnMng9XzeQ4eoJyO) | 2:43 |
-| 27 | [All The Love](https://open.spotify.com/track/6Ux1OziwTqAns38d7CfdWG) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 3:45 |
+| 27 | [Falling For You](https://open.spotify.com/track/1WqmNnwx0aIEoEY8h3ayl1) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 3:39 |
 | 28 | [Yearbook](https://open.spotify.com/track/0V4kaCT7kbYjB3xDVBYWLP) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 3:32 |
 
-Snapshot ID: `MjgwMjQ4NTIsMDAwMDAwMDBkMjM0NWMxZDZmOGRlMDYwZTM5Njk3N2NjNzdiYWJmMQ==`
+Snapshot ID: `MjgwMjYwMzIsMDAwMDAwMDBiNjc2ZTgwNGQ3NWZmYjQzOTM3YWRiMWFhNzEzNDhiNQ==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > this heylog song is crazy\. Cover: 100 gecs
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,530 likes - 98 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,007 likes - 98 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,10 +101,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 91 | [April \(Eyes\)](https://open.spotify.com/track/2KaM0vJC3mpraNUjDmjr0C) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [APRIL \(EYES\)](https://open.spotify.com/album/7p24hLtyoSdmLHHFnr6Uft) | 2:08 |
 | 92 | [never a question](https://open.spotify.com/track/7nylWKjEqReecr2RUbyAVY) | [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [never a question](https://open.spotify.com/album/68cIolfxZhAW2OLD7eOrhI) | 2:44 |
 | 93 | [NECTA\_ \(V.5\)](https://open.spotify.com/track/66V6X8rtqAWgcjek6sUqz7) | [BABii](https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0), [Pholo](https://open.spotify.com/artist/53Wk6hhoFwz3REXaZ2XW2a) | [SCREAMER](https://open.spotify.com/album/1Xx8ecx9sLnnIV7eNGU8EM) | 4:21 |
-| 94 | [Black Ferrari](https://open.spotify.com/track/1L5vMc5dGU1Si8DRvdYLEh) | [Neggy Gemmy](https://open.spotify.com/artist/3SU7pCbOPCUMboKnxMvHVW) | [Black Ferrari](https://open.spotify.com/album/2IKWPVXyWFbbCBKrJGS43P) | 3:41 |
+| 94 | [Black Ferrari](https://open.spotify.com/track/54S5rVc3nKZZrwKOYyBUi2) | [Neggy Gemmy](https://open.spotify.com/artist/3SU7pCbOPCUMboKnxMvHVW) | [Black Ferrari \(club mix\)](https://open.spotify.com/album/4VLCYsusoHGBcdUjAmOx2j) | 3:41 |
 | 95 | [1:15](https://open.spotify.com/track/0TNFCRzOnlgu7W1K47sFnY) | [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [1:15](https://open.spotify.com/album/1UyLZP0hiJA0A2b6CWmQbU) | 2:10 |
 | 96 | [blank point](https://open.spotify.com/track/70qQK5Oi4Q4aCwmiC9aCsX) | [Nosgov](https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh), [demxntia](https://open.spotify.com/artist/6trEYfLSuAd9CS8bCy4sOH) | [blank point](https://open.spotify.com/album/2vmredwSZqPrwGVuqvGPkX) | 2:34 |
 | 97 | [The Fairy, the Wizard and the Moon](https://open.spotify.com/track/6U4O5hDzujciV75r6OKOfa) | [Ryan Leahan](https://open.spotify.com/artist/4BX7bOS5nj3842rKfEnTIg) | [The Fairy, the Wizard and the Moon](https://open.spotify.com/album/6ATJCnlR0nXQxw3gvamMGc) | 2:22 |
 | 98 | [4get](https://open.spotify.com/track/2mlgFhBe2shVc1ITY0ri9B) | [Delto](https://open.spotify.com/artist/1WlSGhncfBqk79KNYuTicp), [Canna](https://open.spotify.com/artist/3UQddXFBR9NoYWpcxwAYkh) | [4get](https://open.spotify.com/album/6fDcYde0k1VUiSaK5hTCc6) | 2:19 |
 
-Snapshot ID: `MTY4MTQ0NDg2MCwwMDAwMDAwMGFkZDBjYmFhOTFkNjVmMjU3ZGJkNzFhY2NiMzc4ZmJl`
+Snapshot ID: `MTY4MTQ0NDg2MCwwMDAwMDAwMDRlODIwOWIwZWEwYjhjODY0YTEzOTQ4NDllZmVkZTli`

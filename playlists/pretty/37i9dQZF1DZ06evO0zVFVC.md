@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zVFVC.md) - [plain]
 
 > This is Parkway Drive\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,838 likes - 47 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,882 likes - 47 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zVFVC.md) - [plain]
 | 46 | [Pandora](https://open.spotify.com/track/0DvT1fJmgN0pWA7R7AlGAf) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Killing With A Smile](https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1) | 3:58 |
 | 47 | [Mutiny](https://open.spotify.com/track/0JhU5780ClX6njQAN21bP9) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Killing With A Smile](https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1) | 3:13 |
 
-Snapshot ID: `MjgwMjQ4NTIsMDAwMDAwMDAzMTQwZTNkMDVjMTMyMGJhM2JlZTk2YTRhMGE0NzJlNw==`
+Snapshot ID: `MjgwMjYwMzIsMDAwMDAwMDBhOGQ0NWQ0YWI5ZTk4NDBiNWFlNmE4MzQwMWY3NDQ3YQ==`

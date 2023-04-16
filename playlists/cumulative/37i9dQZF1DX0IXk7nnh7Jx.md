@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="spotify:artist:3SjPZFpbGUgmdGqpLIZ2lc">IMRSQD</a>
 
-309 songs - 19 hr 5 min
+310 songs - 19 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Not Afraid Of The Dark](https://open.spotify.com/track/7JnVYNEMeIryihBV8bADTz) | [Carrollton](https://open.spotify.com/artist/1i5HhzrkpHFFDpsUYdz2Fs) | [Carrollton](https://open.spotify.com/album/4oBlrxNq2gvN8OFwB05gYf) | 3:52 | 2020-12-18 | 2023-02-19 |
 | [Notice](https://open.spotify.com/track/4U4BCKxoVM1L3WcxJRjJ5t) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [Notice](https://open.spotify.com/album/3vzg623fvEuthjjCpX1dFK) | 3:22 | 2023-02-19 |  |
 | [Oh, the Deep](https://open.spotify.com/track/0nWSEbzNG6GN6AaPcLMyFn) | [Asaph](https://open.spotify.com/artist/2t40riPUnb3uogM98mgx3f) | [Oh, the Deep](https://open.spotify.com/album/2wws5SPicpYsnvCPJTB1Ce) | 4:49 | 2020-12-18 | 2022-07-27 |
+| [OH, YOUR GOODNESS!](https://open.spotify.com/track/55ssIBAfttyZyIxbhROXRl) | [Sam&Steff](https://open.spotify.com/artist/5sxcOpP4RaZjYhaiwmPnWZ) | [OH, YOUR GOODNESS!](https://open.spotify.com/album/4ipfRLb4GhL2XahDcsWBKS) | 4:01 | 2023-04-07 |  |
 | [Only You Can Do It](https://open.spotify.com/track/0wUKaAELGGKa0M1SMhJI88) | [Chris August](https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8) | [Only You Can Do It](https://open.spotify.com/album/5rhWXmx3zQh0z2F2bcaOV1) | 2:20 | 2023-02-19 |  |
 | [Our Salvation is Bound Up Together](https://open.spotify.com/track/2aaBlsDmROA9D2BW7YdWRd) | [Paul Zach](https://open.spotify.com/artist/6OXhFcIGqhYoum3CZBPF38) | [Our Salvation is Bound Up Together](https://open.spotify.com/album/54KPD58pTk4raKt7RwXlNk) | 2:46 | 2023-02-19 |  |
 | [Over and Over](https://open.spotify.com/track/3Fq9eU3HKUviaVtgEIq8lu) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Over and Over](https://open.spotify.com/album/3EUqmYgGBbQQKawUQOzteX) | 3:35 | 2023-02-19 |  |
@@ -311,7 +312,7 @@
 | [Wounded Healer](https://open.spotify.com/track/4YsShNqQca2l7F0ycSpZXi) | [Laura Hackett Park](https://open.spotify.com/artist/6ScYoRIa2PsNj7YZd030BV) | [Wounded Healer](https://open.spotify.com/album/0mdmYWwRjrZwnN6kWlVwFx) | 2:59 | 2023-02-19 |  |
 | [Wrong](https://open.spotify.com/track/3V0xcq6HiLRuZZMuFiAAgY) | [Jordan Brown](https://open.spotify.com/artist/1WoLpIruMrKzcV8GUgM9dN) | [Wrong](https://open.spotify.com/album/4MdOCxbtM3GdC7eClrvV85) | 5:01 | 2020-12-18 | 2023-02-19 |
 | [Yes and Amen](https://open.spotify.com/track/4DgiEJ7Jd1P91E88iswJoX) | [Matthew Zigenis](https://open.spotify.com/artist/6qW8jmrfF8dslzJDELDxdj) | [Everything Is Possible](https://open.spotify.com/album/0u2ivB7R3oDMcA5zfUfeuX) | 4:29 | 2020-12-18 | 2023-02-19 |
-| [Yeshua](https://open.spotify.com/track/2XfiL5W2ZakGuKXuREcT3Q) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [Yeshua](https://open.spotify.com/album/2B5iWGV0ji9uhIxmLGtwli) | 4:03 | 2023-04-07 |  |
+| [Yeshua](https://open.spotify.com/track/2XfiL5W2ZakGuKXuREcT3Q) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [Yeshua](https://open.spotify.com/album/2B5iWGV0ji9uhIxmLGtwli) | 4:03 | 2023-04-07 | 2023-04-16 |
 | [YOU](https://open.spotify.com/track/3ZMh5ZG2KPAyhfzR7C99vj) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [YOU](https://open.spotify.com/album/6VvEgJ1Ji4sTik5Kqdh7dL) | 2:13 | 2023-04-07 |  |
 | [You Are My Country](https://open.spotify.com/track/0JdJ8UhDjZ4n5R8kTXOkYS) | [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [The Field](https://open.spotify.com/album/2QsHmBlrLqbN1MVtZVqHWu) | 2:39 | 2023-02-19 |  |
 | [You Kept Me](https://open.spotify.com/track/0AZYXACuV2paDlQ0umLDZM) | [Lj the Messenger](https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB), [Kushim](https://open.spotify.com/artist/7ySTyvAPMU1SaCLo7fRvHX), [Oliver Trinidad](https://open.spotify.com/artist/365hr0ByB1a4rNYCCleBg4) | [You Kept Me](https://open.spotify.com/album/0HmFxGQtPH3qIGmmihRL9q) | 2:21 | 2023-02-19 | 2023-04-09 |

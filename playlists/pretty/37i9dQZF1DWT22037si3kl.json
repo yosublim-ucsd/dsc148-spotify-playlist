@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do Trap. Foto: Welisson",
-  "num_followers": 95161,
+  "num_followers": 95302,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0MTI2MCwwMDAwMDAwMDhmYWNhNTJlNWEyZDA2ZDU4NmQ5MWUyYWQxYTBmODgw",
+  "snapshot_id": "MTY4MTQ0MTI2MCwwMDAwMDAwMDZhNjc2MjZlZjcwM2U1MzU5NGJkOTM2NzZlOTE2OTFk",
   "tracks": [
     {
       "added_at": "2023-04-14 03:01:00",
@@ -1239,6 +1239,30 @@
     {
       "added_at": "2023-04-14 03:01:00",
       "album": {
+        "name": "NO WAY",
+        "url": "https://open.spotify.com/album/0huWAe5IoXvu2oP1VZEf1L"
+      },
+      "artists": [
+        {
+          "name": "NN3RD",
+          "url": "https://open.spotify.com/artist/1Z03arRtzZ9BC49yiCQ839"
+        },
+        {
+          "name": "Lil Fuub",
+          "url": "https://open.spotify.com/artist/47KYl2Wi5f5jmldU2F13An"
+        },
+        {
+          "name": "Indie Space",
+          "url": "https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr"
+        }
+      ],
+      "duration_ms": 126342,
+      "name": "NO WAY",
+      "url": "https://open.spotify.com/track/7wprYFS7O5GZC3EOeDS8ce"
+    },
+    {
+      "added_at": "2023-04-14 03:01:00",
+      "album": {
         "name": "3S",
         "url": "https://open.spotify.com/album/6aAotKbE8C0TLA0RNFGwA4"
       },
@@ -1263,30 +1287,6 @@
       "duration_ms": 173548,
       "name": "3S",
       "url": "https://open.spotify.com/track/7IUjxiS0HGn45BePSWJDK7"
-    },
-    {
-      "added_at": "2023-04-14 03:01:00",
-      "album": {
-        "name": "NO WAY",
-        "url": "https://open.spotify.com/album/0huWAe5IoXvu2oP1VZEf1L"
-      },
-      "artists": [
-        {
-          "name": "NN3RD",
-          "url": "https://open.spotify.com/artist/1Z03arRtzZ9BC49yiCQ839"
-        },
-        {
-          "name": "Lil Fuub",
-          "url": "https://open.spotify.com/artist/47KYl2Wi5f5jmldU2F13An"
-        },
-        {
-          "name": "Indie Space",
-          "url": "https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr"
-        }
-      ],
-      "duration_ms": 126342,
-      "name": "NO WAY",
-      "url": "https://open.spotify.com/track/7wprYFS7O5GZC3EOeDS8ce"
     }
   ],
   "unique_name": "O Drip",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgwMjQwODAsMDAwMDAwMDA1OWEyMjMwOWVmMGUxMjg3N2EwZTM4OWE4NjgwYmNhYg==",
+  "snapshot_id": "MjgwMjQwODAsMDAwMDAwMDAwN2Y3MjM3NmFkYzI0MzA2N2I2MzY4NDUzY2U1ZGUzNQ==",
   "tracks": [
     {
       "added_at": "2023-04-14 04:00:00",
@@ -55,22 +55,6 @@
       "duration_ms": 405106,
       "name": "Chasing Light",
       "url": "https://open.spotify.com/track/0aHwh2rqyJNN0eZ4sGZLEt"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "It's Called Paradise",
-        "url": "https://open.spotify.com/album/5KVHMKigtRSzH2qV6rd1XU"
-      },
-      "artists": [
-        {
-          "name": "Paradise Lost",
-          "url": "https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp"
-        }
-      ],
-      "duration_ms": 263925,
-      "name": "It's Called Paradise",
-      "url": "https://open.spotify.com/track/645MkmRB7md78K9cIUemDn"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -303,7 +287,7 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "La Sangre En El Cuerpo (En Vivo)",
+        "name": "La sangre en el cuerpo (En Vivo)",
         "url": "https://open.spotify.com/album/1VwqVC3ohbh3Xtxtwu3z5J"
       },
       "artists": [
@@ -313,7 +297,7 @@
         }
       ],
       "duration_ms": 290000,
-      "name": "La Sangre En El Cuerpo - En Vivo",
+      "name": "La sangre en el cuerpo - En Vivo",
       "url": "https://open.spotify.com/track/6AnVTLDZWEiY7zu3JnpNQe"
     },
     {
@@ -607,110 +591,6 @@
       "duration_ms": 178863,
       "name": "So Good Right Now",
       "url": "https://open.spotify.com/track/0GbJXh142SGBmH9fsiFsEL"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Playing For Time (Bright-Side Mix)",
-        "url": "https://open.spotify.com/album/4tkYeUSPaS2QwBtVbIAYXc"
-      },
-      "artists": [
-        {
-          "name": "Peter Gabriel",
-          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
-        }
-      ],
-      "duration_ms": 377929,
-      "name": "Playing For Time - Bright-Side Mix",
-      "url": "https://open.spotify.com/track/6bPpa4CddsqY16GtMUu4ko"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Tell Me I'm Alive",
-        "url": "https://open.spotify.com/album/5eJl0AxsyDIyO5B1tgET3D"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 179419,
-      "name": "I'd Be Fine (If I Never Saw You Again)",
-      "url": "https://open.spotify.com/track/0cLNjebMun5VyYDORebAkp"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Don't Show This Album to Your Mom",
-        "url": "https://open.spotify.com/album/0JAEGCKwQpqwh2BWMvNWTr"
-      },
-      "artists": [
-        {
-          "name": "\u0427\u0442\u043e?",
-          "url": "https://open.spotify.com/artist/66T7A37jfW4M4SiEwUktyT"
-        },
-        {
-          "name": "The Guess Who",
-          "url": "https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc"
-        }
-      ],
-      "duration_ms": 146137,
-      "name": "Damage",
-      "url": "https://open.spotify.com/track/17SU6rNaDH0e6vil1Iwh3B"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Ego Trip (Deluxe)",
-        "url": "https://open.spotify.com/album/0cjCJprou4GNLdDAWlJ2fc"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 160937,
-      "name": "Dying To Believe (Acoustic)",
-      "url": "https://open.spotify.com/track/6yVIPSY8DWCM5D63E3LGWs"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "The Awakening",
-        "url": "https://open.spotify.com/album/5DluQzwyljDIzV0i5XSqfE"
-      },
-      "artists": [
-        {
-          "name": "Kamelot",
-          "url": "https://open.spotify.com/artist/7gTbq5nTZGQIUgjEGXQpOS"
-        }
-      ],
-      "duration_ms": 231453,
-      "name": "Willow",
-      "url": "https://open.spotify.com/track/0Y3JU2NmksU7dd9iWxQFHd"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "SET ME FREE (Remixes)",
-        "url": "https://open.spotify.com/album/6lEtnxGk1CMv0ZbhI6i0eD"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        },
-        {
-          "name": "Tommy \u201cTBHits\u201d Brown",
-          "url": "https://open.spotify.com/artist/06moEoVtCKweJmGYid8vU7"
-        }
-      ],
-      "duration_ms": 170800,
-      "name": "SET ME FREE (Tommy \u201cTBHits\u201d Brown Remix)",
-      "url": "https://open.spotify.com/track/3em8yvglQOquNvttDVnRWS"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

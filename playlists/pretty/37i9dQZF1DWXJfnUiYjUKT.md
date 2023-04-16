@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Lewis Capaldi
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,904 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,021 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 80 | [How Many Times](https://open.spotify.com/track/45Vvoe20MW6GD7FwoacZc8) | [DJ Big N](https://open.spotify.com/artist/2mGQZqxcJJOHMYhU8c7l4B), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [How Many Times](https://open.spotify.com/album/32pRltYP2ioIOuycPQFpXm) | 3:12 |
 | 81 | [EL TONTO](https://open.spotify.com/track/4rKQ8daoK0aklVptea8A9E) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 3:07 |
 | 82 | [Deep End](https://open.spotify.com/track/6gNxFvK5yLL0uWCNQdP7GB) | [Whyte Fang](https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt) | [GENESIS](https://open.spotify.com/album/2y3ZfgrrqOtkexvBjGa49v) | 4:51 |
-| 83 | [Do U Want Me Baby? \(feat\. Elphi\)](https://open.spotify.com/track/392tWI7KlzCkP2bmAOOqzS) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82), [Elphi](https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY) | [Do U Want Me Baby? \(feat\. Elphi\)](https://open.spotify.com/album/2okBYRPFzRqd6Ex5M5F34Y) | 2:22 |
+| 83 | [Do U Want Me Baby? \(feat\. Elphi\)](https://open.spotify.com/track/392tWI7KlzCkP2bmAOOqzS) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82), [Elphi](https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY) | [Do U Want Me Baby? \(feat\. Elphi\)](https://open.spotify.com/album/2okBYRPFzRqd6Ex5M5F34Y) | 2:23 |
 | 84 | [So Clear](https://open.spotify.com/track/5je2hi3IPkN0DnDKYpZWds) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [So Clear](https://open.spotify.com/album/3CIQIdtkViKUEzsNBjXxLI) | 3:32 |
 | 85 | [pieces](https://open.spotify.com/track/63Nx8zAsDf3YRfZmNF5OTC) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [pieces](https://open.spotify.com/album/0wvlzL66ClrOKiy3Vc4s5E) | 2:27 |
 | 86 | [I Take It Back](https://open.spotify.com/track/6DcI73tbK4PoyI3GGV4zZS) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq) | 2:59 |

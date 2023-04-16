@@ -1,12 +1,12 @@
 {
   "description": "Rock out while you game.",
-  "num_followers": 476121,
+  "num_followers": 476666,
   "original_name": "Ultimate Rock Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDU5ZjcyNjZlZmE4NGUwMDM5NDEyY2IwZDYxZjVjNjYx",
+  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDc0ZjE0ZTkwM2MzMzFhZjIzYmIxYzU0ZTBkYzNiYTIy",
   "tracks": [
     {
       "added_at": "2023-02-09 19:51:15",
@@ -57,20 +57,20 @@
       "url": "https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-02-09 19:51:15",
       "album": {
-        "name": "Fighting Myself",
-        "url": "https://open.spotify.com/album/0S1tvjDaar0S6LaRJAFcWF"
+        "name": "The Better Life",
+        "url": "https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6"
       },
       "artists": [
         {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
         }
       ],
-      "duration_ms": 201428,
-      "name": "Fighting Myself",
-      "url": "https://open.spotify.com/track/5CVZeK7bOC9QxYcZ9gJ5X2"
+      "duration_ms": 233933,
+      "name": "Kryptonite",
+      "url": "https://open.spotify.com/track/6ZOBP3NvffbU4SZcrnt1k6"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -89,20 +89,20 @@
       "url": "https://open.spotify.com/track/4wOr5PIiM64Q7UCzXmISIX"
     },
     {
-      "added_at": "2023-02-09 19:51:15",
+      "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "The Better Life",
-        "url": "https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6"
+        "name": "Fighting Myself",
+        "url": "https://open.spotify.com/album/0S1tvjDaar0S6LaRJAFcWF"
       },
       "artists": [
         {
-          "name": "3 Doors Down",
-          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 233933,
-      "name": "Kryptonite",
-      "url": "https://open.spotify.com/track/6ZOBP3NvffbU4SZcrnt1k6"
+      "duration_ms": 201428,
+      "name": "Fighting Myself",
+      "url": "https://open.spotify.com/track/5CVZeK7bOC9QxYcZ9gJ5X2"
     },
     {
       "added_at": "2023-03-09 17:50:54",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-02-09 19:51:15",
       "album": {
-        "name": "Minutes to Midnight",
-        "url": "https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 166373,
-      "name": "Bleed It Out",
-      "url": "https://open.spotify.com/track/0UFDKFqW2oGspYeYqo9wjA"
-    },
-    {
-      "added_at": "2023-02-09 19:51:15",
-      "album": {
         "name": "Sam's Town",
         "url": "https://open.spotify.com/album/4o3RJndRhHxkieQzQGhmbw"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 232453,
       "name": "Drive",
       "url": "https://open.spotify.com/track/7nnWIPM5hwE3DaUBkvOIpy"
+    },
+    {
+      "added_at": "2023-02-09 19:51:15",
+      "album": {
+        "name": "Minutes to Midnight",
+        "url": "https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 166373,
+      "name": "Bleed It Out",
+      "url": "https://open.spotify.com/track/0UFDKFqW2oGspYeYqo9wjA"
     },
     {
       "added_at": "2023-02-09 19:51:15",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-02-09 19:51:15",
       "album": {
-        "name": "The Used",
-        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 208693,
-      "name": "The Taste of Ink",
-      "url": "https://open.spotify.com/track/5jZ1Z2GFTf2gwmFc3qiUxs"
-    },
-    {
-      "added_at": "2023-02-09 19:51:15",
-      "album": {
         "name": "Brothers",
         "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 191800,
       "name": "Howlin' for You",
       "url": "https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4"
+    },
+    {
+      "added_at": "2023-02-09 19:51:15",
+      "album": {
+        "name": "The Used",
+        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 208693,
+      "name": "The Taste of Ink",
+      "url": "https://open.spotify.com/track/5jZ1Z2GFTf2gwmFc3qiUxs"
     },
     {
       "added_at": "2023-02-09 19:51:15",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-02-09 19:51:15",
       "album": {
+        "name": "Ember",
+        "url": "https://open.spotify.com/album/2D1s85eD7MLnPd3zjfK4tr"
+      },
+      "artists": [
+        {
+          "name": "Breaking Benjamin",
+          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
+        }
+      ],
+      "duration_ms": 189120,
+      "name": "Blood",
+      "url": "https://open.spotify.com/track/7gQ7DfSSc3b8e4cHtFnDxu"
+    },
+    {
+      "added_at": "2023-02-09 19:51:15",
+      "album": {
         "name": "Story Of My Life (feat. Trippie Redd)",
         "url": "https://open.spotify.com/album/6C4DfusL8qEXmt6MFhAMU6"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 191124,
       "name": "Story Of My Life (feat. Trippie Redd)",
       "url": "https://open.spotify.com/track/1g7j5AxiNKTGjryhFIlAsA"
-    },
-    {
-      "added_at": "2023-02-09 19:51:15",
-      "album": {
-        "name": "Ember",
-        "url": "https://open.spotify.com/album/2D1s85eD7MLnPd3zjfK4tr"
-      },
-      "artists": [
-        {
-          "name": "Breaking Benjamin",
-          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
-        }
-      ],
-      "duration_ms": 189120,
-      "name": "Blood",
-      "url": "https://open.spotify.com/track/7gQ7DfSSc3b8e4cHtFnDxu"
     },
     {
       "added_at": "2023-02-09 19:51:15",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-02-09 19:51:15",
       "album": {
-        "name": "YUNGBLUD",
-        "url": "https://open.spotify.com/album/0cdlBfbso4Iyim5XRQFBER"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 215163,
-      "name": "Tissues",
-      "url": "https://open.spotify.com/track/5J1zn7OE12a0gFnjJc0Um6"
-    },
-    {
-      "added_at": "2023-02-09 19:51:15",
-      "album": {
         "name": "N.A.T.I.O.N.",
         "url": "https://open.spotify.com/album/1OSVLEGK6WXM1wPsF4v5M1"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 237065,
       "name": "Killing Me Slowly",
       "url": "https://open.spotify.com/track/34lLAsdH4Y5TLf1B2SIj1I"
+    },
+    {
+      "added_at": "2023-02-09 19:51:15",
+      "album": {
+        "name": "YUNGBLUD",
+        "url": "https://open.spotify.com/album/0cdlBfbso4Iyim5XRQFBER"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 215163,
+      "name": "Tissues",
+      "url": "https://open.spotify.com/track/5J1zn7OE12a0gFnjJc0Um6"
     },
     {
       "added_at": "2023-02-09 19:51:15",
@@ -1059,22 +1059,18 @@
     {
       "added_at": "2023-02-09 19:51:15",
       "album": {
-        "name": "Sing To Me",
-        "url": "https://open.spotify.com/album/5XdXw120Se7gs2kCDfIh3Z"
+        "name": "Going To Hell (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2PYeB2ZxvfvPsEpd951xP4"
       },
       "artists": [
         {
-          "name": "MISSIO",
-          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
-        },
-        {
-          "name": "Death Stranding: Timefall",
-          "url": "https://open.spotify.com/artist/4rojTfP5nRkmYpdSbWQgV4"
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
         }
       ],
-      "duration_ms": 189920,
-      "name": "Sing To Me",
-      "url": "https://open.spotify.com/track/44oCGRuPFy7Uz6w4KliMBS"
+      "duration_ms": 224533,
+      "name": "Heaven Knows",
+      "url": "https://open.spotify.com/track/04w73SmPfQkkmEpKbcrHOL"
     },
     {
       "added_at": "2023-02-09 19:51:15",
@@ -1095,18 +1091,22 @@
     {
       "added_at": "2023-02-09 19:51:15",
       "album": {
-        "name": "Going To Hell (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2PYeB2ZxvfvPsEpd951xP4"
+        "name": "Sing To Me",
+        "url": "https://open.spotify.com/album/5XdXw120Se7gs2kCDfIh3Z"
       },
       "artists": [
         {
-          "name": "The Pretty Reckless",
-          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+          "name": "MISSIO",
+          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
+        },
+        {
+          "name": "Death Stranding: Timefall",
+          "url": "https://open.spotify.com/artist/4rojTfP5nRkmYpdSbWQgV4"
         }
       ],
-      "duration_ms": 224533,
-      "name": "Heaven Knows",
-      "url": "https://open.spotify.com/track/04w73SmPfQkkmEpKbcrHOL"
+      "duration_ms": 189920,
+      "name": "Sing To Me",
+      "url": "https://open.spotify.com/track/44oCGRuPFy7Uz6w4KliMBS"
     },
     {
       "added_at": "2023-02-09 19:51:15",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-02-09 19:51:15",
       "album": {
-        "name": "Below",
-        "url": "https://open.spotify.com/album/5AQKqldLehNX6p4rxFFwAz"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 198927,
-      "name": "Skin",
-      "url": "https://open.spotify.com/track/75KnjXtPMCZf60zlEp5m1D"
-    },
-    {
-      "added_at": "2023-02-09 19:51:15",
-      "album": {
         "name": "Like A House On Fire",
         "url": "https://open.spotify.com/album/0adkC2KoD14ep1kjOXwkJA"
       },
@@ -1195,18 +1179,18 @@
     {
       "added_at": "2023-02-09 19:51:15",
       "album": {
-        "name": "HEAVY META",
-        "url": "https://open.spotify.com/album/6w5N3oL83KiitLdFcCrzTj"
+        "name": "Below",
+        "url": "https://open.spotify.com/album/5AQKqldLehNX6p4rxFFwAz"
       },
       "artists": [
         {
-          "name": "Ron Gallo",
-          "url": "https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg"
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
         }
       ],
-      "duration_ms": 220538,
-      "name": "Young Lady, You're Scaring Me",
-      "url": "https://open.spotify.com/track/6PtIXICwmoxCgLjw2zApDs"
+      "duration_ms": 198927,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/75KnjXtPMCZf60zlEp5m1D"
     },
     {
       "added_at": "2023-02-09 19:51:15",
@@ -1223,6 +1207,22 @@
       "duration_ms": 211235,
       "name": "Talk to a Friend",
       "url": "https://open.spotify.com/track/6nqCVzh5uUc85E0Kctky9r"
+    },
+    {
+      "added_at": "2023-02-09 19:51:15",
+      "album": {
+        "name": "HEAVY META",
+        "url": "https://open.spotify.com/album/6w5N3oL83KiitLdFcCrzTj"
+      },
+      "artists": [
+        {
+          "name": "Ron Gallo",
+          "url": "https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg"
+        }
+      ],
+      "duration_ms": 220538,
+      "name": "Young Lady, You're Scaring Me",
+      "url": "https://open.spotify.com/track/6PtIXICwmoxCgLjw2zApDs"
     },
     {
       "added_at": "2023-02-09 19:51:15",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-02-09 19:51:15",
       "album": {
-        "name": "Young Beauties and Fools",
-        "url": "https://open.spotify.com/album/7bauAaXGIb5m0O5zliJKwE"
-      },
-      "artists": [
-        {
-          "name": "The Glorious Sons",
-          "url": "https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH"
-        }
-      ],
-      "duration_ms": 195173,
-      "name": "S.O.S. (Sawed Off Shotgun)",
-      "url": "https://open.spotify.com/track/3NyovXfcpc8PDWWKH7xEDs"
-    },
-    {
-      "added_at": "2023-02-09 19:51:15",
-      "album": {
         "name": "Flames (feat. Avril Lavigne)",
         "url": "https://open.spotify.com/album/3woElJWz4XHbRXbKm9kKgH"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 151989,
       "name": "Flames (feat. Avril Lavigne)",
       "url": "https://open.spotify.com/track/6z7mOTf4O20AApGsTNn7fC"
+    },
+    {
+      "added_at": "2023-02-09 19:51:15",
+      "album": {
+        "name": "Young Beauties and Fools",
+        "url": "https://open.spotify.com/album/7bauAaXGIb5m0O5zliJKwE"
+      },
+      "artists": [
+        {
+          "name": "The Glorious Sons",
+          "url": "https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH"
+        }
+      ],
+      "duration_ms": 195173,
+      "name": "S.O.S. (Sawed Off Shotgun)",
+      "url": "https://open.spotify.com/track/3NyovXfcpc8PDWWKH7xEDs"
     },
     {
       "added_at": "2023-02-09 19:51:15",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2023-02-09 19:51:15",
       "album": {
+        "name": "When Legends Rise",
+        "url": "https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV"
+      },
+      "artists": [
+        {
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+        }
+      ],
+      "duration_ms": 208418,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/1184omF5xTwYyI6fMijVrr"
+    },
+    {
+      "added_at": "2023-02-09 19:51:15",
+      "album": {
         "name": "See What\u2019s On The Inside",
         "url": "https://open.spotify.com/album/11gvWPhkQyVoYIJgVsojmm"
       },
@@ -1415,6 +1431,22 @@
     {
       "added_at": "2023-02-09 19:51:15",
       "album": {
+        "name": "The Bravery",
+        "url": "https://open.spotify.com/album/3GNa5HhqzUlonZoLGYC8vb"
+      },
+      "artists": [
+        {
+          "name": "The Bravery",
+          "url": "https://open.spotify.com/artist/2bcrMsFlF632EQ6VZERWFu"
+        }
+      ],
+      "duration_ms": 219706,
+      "name": "An Honest Mistake",
+      "url": "https://open.spotify.com/track/7DoMGZLVzga3vhyZlb0hBX"
+    },
+    {
+      "added_at": "2023-02-09 19:51:15",
+      "album": {
         "name": "Who Do You Trust?",
         "url": "https://open.spotify.com/album/4o6vvGb6VGYz725fP45kAx"
       },
@@ -1431,22 +1463,6 @@
     {
       "added_at": "2023-02-09 19:51:15",
       "album": {
-        "name": "When Legends Rise",
-        "url": "https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV"
-      },
-      "artists": [
-        {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
-        }
-      ],
-      "duration_ms": 208418,
-      "name": "Unforgettable",
-      "url": "https://open.spotify.com/track/1184omF5xTwYyI6fMijVrr"
-    },
-    {
-      "added_at": "2023-02-09 19:51:15",
-      "album": {
         "name": "Home of the Strange",
         "url": "https://open.spotify.com/album/3PYk8e7eo2t5CA1Y3AvhaG"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 228466,
       "name": "Something to Believe In",
       "url": "https://open.spotify.com/track/6L3VWDPDTQkQFkqvmpAUMU"
-    },
-    {
-      "added_at": "2023-02-09 19:51:15",
-      "album": {
-        "name": "The Bravery",
-        "url": "https://open.spotify.com/album/3GNa5HhqzUlonZoLGYC8vb"
-      },
-      "artists": [
-        {
-          "name": "The Bravery",
-          "url": "https://open.spotify.com/artist/2bcrMsFlF632EQ6VZERWFu"
-        }
-      ],
-      "duration_ms": 219706,
-      "name": "An Honest Mistake",
-      "url": "https://open.spotify.com/track/7DoMGZLVzga3vhyZlb0hBX"
     },
     {
       "added_at": "2023-02-09 19:51:15",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2023-02-09 19:51:15",
       "album": {
+        "name": "LOVE LUST FAITH + DREAMS",
+        "url": "https://open.spotify.com/album/4JbJCZWuB0iuCZZt8ZISih"
+      },
+      "artists": [
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "duration_ms": 275786,
+      "name": "Up In The Air",
+      "url": "https://open.spotify.com/track/0zqwz7SNny9fwqSDpIu4qN"
+    },
+    {
+      "added_at": "2023-02-09 19:51:15",
+      "album": {
         "name": "Everybody Wants",
         "url": "https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj"
       },
@@ -1543,18 +1559,18 @@
     {
       "added_at": "2023-02-09 19:51:15",
       "album": {
-        "name": "LOVE LUST FAITH + DREAMS",
-        "url": "https://open.spotify.com/album/4JbJCZWuB0iuCZZt8ZISih"
+        "name": "Atlas Falls",
+        "url": "https://open.spotify.com/album/3jOuZwZorZqcxcRAwLXDIV"
       },
       "artists": [
         {
-          "name": "Thirty Seconds To Mars",
-          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
         }
       ],
-      "duration_ms": 275786,
-      "name": "Up In The Air",
-      "url": "https://open.spotify.com/track/0zqwz7SNny9fwqSDpIu4qN"
+      "duration_ms": 192370,
+      "name": "Atlas Falls",
+      "url": "https://open.spotify.com/track/7m1Lw3uTakxHFxGjXXbE4l"
     },
     {
       "added_at": "2023-02-09 19:51:15",
@@ -1579,18 +1595,18 @@
     {
       "added_at": "2023-02-09 19:51:15",
       "album": {
-        "name": "Atlas Falls",
-        "url": "https://open.spotify.com/album/3jOuZwZorZqcxcRAwLXDIV"
+        "name": "Nowhere Generation",
+        "url": "https://open.spotify.com/album/0NaOsrcxpNfSIPtTkazQdI"
       },
       "artists": [
         {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 192370,
-      "name": "Atlas Falls",
-      "url": "https://open.spotify.com/track/7m1Lw3uTakxHFxGjXXbE4l"
+      "duration_ms": 232933,
+      "name": "Nowhere Generation",
+      "url": "https://open.spotify.com/track/74zUPQTB6HMnfS1cagJnd8"
     },
     {
       "added_at": "2023-02-09 19:51:15",
@@ -1611,18 +1627,18 @@
     {
       "added_at": "2023-02-09 19:51:15",
       "album": {
-        "name": "Nowhere Generation",
-        "url": "https://open.spotify.com/album/0NaOsrcxpNfSIPtTkazQdI"
+        "name": "Panic",
+        "url": "https://open.spotify.com/album/0OopBWrY0eXqld7UQlRDPj"
       },
       "artists": [
         {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
         }
       ],
-      "duration_ms": 232933,
-      "name": "Nowhere Generation",
-      "url": "https://open.spotify.com/track/74zUPQTB6HMnfS1cagJnd8"
+      "duration_ms": 200800,
+      "name": "Panic",
+      "url": "https://open.spotify.com/track/2OPcwNyO1CmKwlqiP0Y4DT"
     },
     {
       "added_at": "2023-02-09 19:51:15",
@@ -1643,22 +1659,6 @@
       "duration_ms": 175342,
       "name": "Heat Seeker",
       "url": "https://open.spotify.com/track/7noHzxuNmeIwYftylZfVRT"
-    },
-    {
-      "added_at": "2023-02-09 19:51:15",
-      "album": {
-        "name": "Panic",
-        "url": "https://open.spotify.com/album/0OopBWrY0eXqld7UQlRDPj"
-      },
-      "artists": [
-        {
-          "name": "From Ashes to New",
-          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "Panic",
-      "url": "https://open.spotify.com/track/2OPcwNyO1CmKwlqiP0Y4DT"
     }
   ],
   "unique_name": "Ultimate Rock Gaming",

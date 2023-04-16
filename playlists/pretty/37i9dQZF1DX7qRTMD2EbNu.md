@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: <a href="https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew?si=RHEYtx3RTmqZJsS7fnoeCw"> Amerado</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,760 likes - 80 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,777 likes - 80 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

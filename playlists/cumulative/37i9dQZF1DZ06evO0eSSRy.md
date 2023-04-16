@@ -4,7 +4,7 @@
 
 > This is PÆRISH\. The essential tracks, all in one playlist.
 
-20 songs - 1 hr 12 min
+21 songs - 1 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Archives](https://open.spotify.com/track/0tmgEJKwEDX1znh5owSKLo) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W) | 3:17 | 2022-09-16 |  |
 | [Boy](https://open.spotify.com/track/2hshvAEGDQESVol0zrHPQU) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Boy](https://open.spotify.com/album/0QbdLXY2Y1uROAxsautWnI) | 3:21 | 2022-09-16 |  |
 | [Fixed It All](https://open.spotify.com/track/19UtO7hBxFYhqYMqFePsjv) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W) | 4:21 | 2022-09-16 |  |
+| [Houses of American Style](https://open.spotify.com/track/5Kky5Fr02ofJwTnQCgzBFl) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Houses of American Style](https://open.spotify.com/album/4fVSfJltN2th0XhpMcgx0O) | 4:04 | 2023-04-15 |  |
 | [I Got Punched in the Face, What's Your Excuse](https://open.spotify.com/track/1UWkXVBzlGeADNlUXep8B5) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb) | 3:31 | 2023-04-14 |  |
 | [Journey of the Prairie King](https://open.spotify.com/track/3xoOHYehP6FjTLxmVtQr2t) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W) | 3:28 | 2022-09-16 |  |
 | [Marcel and the Prince](https://open.spotify.com/track/6zZwvuzLs6Zc1lsOMkfXa8) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Marcel and the Prince](https://open.spotify.com/album/0GswR3L2aBUkWskZlBezhl) | 3:27 | 2022-09-16 |  |

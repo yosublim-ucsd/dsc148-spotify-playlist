@@ -4,7 +4,7 @@
 
 > Éxitos internacionales que no pasan de moda.<br/>Para novedades, escucha <a href="spotify:playlist:37i9dQZF1DX6aTaZa0K6VA">Pop Up</a>.
 
-641 songs - 1 day 15 hr 1 min
+642 songs - 1 day 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,6 +299,7 @@
 | [Jealous](https://open.spotify.com/track/2RqtfcLB7iOZj0zYB8Auhu) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Nick Jonas X2](https://open.spotify.com/album/4G4Azv5cwPBv3vCA0mD6ei) | 3:43 | 2022-04-08 | 2022-04-21 |
 | [Just Dance](https://open.spotify.com/track/5vQXxfGn1bjv5WESrYVVpw) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Colby O'Donis](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z) | [Just Dance](https://open.spotify.com/album/6sjW1TdbydfGkxADcsHXoU) | 4:04 | 2022-04-13 | 2022-04-18 |
 | [Just Give Me a Reason](https://open.spotify.com/track/1qHaLcG3LOeh6ZB8vii5ZZ) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Nate Ruess](https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ) | [The Truth About Love](https://open.spotify.com/album/2rBb9rAEuMC8VH9uk7js3e) | 4:02 | 2022-06-07 | 2022-07-29 |
+| [Just Give Me a Reason \(feat\. Nate Ruess\)](https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Nate Ruess](https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ) | [The Truth About Love](https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj) | 4:02 | 2022-12-12 |  |
 | [Just the Way You Are](https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:40 | 2021-11-17 |  |
 | [King](https://open.spotify.com/track/6pIZ0u32c2Lku8PmCWtnMy) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [King](https://open.spotify.com/album/0OPchq4bHgKDaJUBJFITgy) | 3:33 | 2022-04-13 | 2022-04-19 |
 | [Kings & Queens](https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:42 | 2022-04-13 | 2022-11-13 |
@@ -553,7 +554,7 @@
 | [Tears \(feat\. Louisa Johnson\)](https://open.spotify.com/track/7py16W5fWYLFFS6BElKAjn) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Louisa](https://open.spotify.com/artist/5IHqlcCbQkyhWl0KmIwgeq) | [Tears \(feat\. Louisa Johnson\)](https://open.spotify.com/album/5J1vKkCC6aoOGZjE7YZrHE) | 3:45 | 2022-04-13 | 2022-04-17 |
 | [Teenage Dream](https://open.spotify.com/track/235LXPXfi0SmOaS9TaCh3c) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/06SY6Ke6mXzZHhURLVU57R) | 3:47 | 2022-04-13 | 2022-05-05 |
 | [Telephone](https://open.spotify.com/track/7rl7ao5pb9BhvAzPdWStxi) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Fame Monster \(Deluxe Edition\)](https://open.spotify.com/album/6DGZdMi124iOOih9GMlhN2) | 3:40 | 2022-04-13 | 2022-04-19 |
-| [thank u, next](https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:27 | 2021-11-17 |  |
+| [thank u, next](https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:27 | 2021-11-17 | 2023-04-16 |
 | [That's What I Like](https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:26 | 2021-11-17 |  |
 | [The A Team](https://open.spotify.com/track/1XpYodsD36XN7ygcdF7mJJ) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [+](https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC) | 4:18 | 2022-04-13 | 2022-04-21 |
 | [The Cure](https://open.spotify.com/track/34oB5r0lcN3fYWCs2uA1k5) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Cure](https://open.spotify.com/album/2yaSZnZhaxsbQ5xhgGbw3g) | 3:31 | 2022-04-08 | 2022-04-20 |

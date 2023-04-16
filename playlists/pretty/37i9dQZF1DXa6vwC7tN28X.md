@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6vwC7tN28X.md) - [plain]
 
 > Tangueros \- Rockeros, Rockeros \- Tangueros.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,937 likes - 45 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,947 likes - 45 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6vwC7tN28X.md) - [plain]
 | 7 | [Naranjo En Flor](https://open.spotify.com/track/058IA4FZ3oSj0wJbSLtcWi) | [Juan Carlos Baglietto](https://open.spotify.com/artist/1Mt6JeVWV9Tvgk8ercp5O9) | [Postales De Este Lado Del Mundo](https://open.spotify.com/album/4dR2dfCJaLvateYFEB9tKp) | 3:09 |
 | 8 | [No Soy Un Extraño \- Live](https://open.spotify.com/track/6KxhnLR6OlcieIudHZqL2V) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Unplugged](https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R) | 4:22 |
 | 9 | [Codigo de barra](https://open.spotify.com/track/6IEKmDAJZxOlXM5kcJXVWm) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O) | [Presente](https://open.spotify.com/album/0ajrl96QETMiLmTXeit8zY) | 3:01 |
-| 10 | [Tango en Segunda](https://open.spotify.com/track/34NGjr3W7K9E484f7C5xVf) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Pequenas Anécdotas Sobre Las Instituciones](https://open.spotify.com/album/2bW96QNHxL6oDb7kERQrA1) | 3:32 |
-| 11 | [Límites](https://open.spotify.com/track/7iLRaN2zGfHJUJfTpRoAjZ) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Señales](https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy) | 3:38 |
+| 10 | [Límites](https://open.spotify.com/track/7iLRaN2zGfHJUJfTpRoAjZ) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Señales](https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy) | 3:38 |
+| 11 | [Tango en Segunda](https://open.spotify.com/track/34NGjr3W7K9E484f7C5xVf) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Pequenas Anécdotas Sobre Las Instituciones](https://open.spotify.com/album/2bW96QNHxL6oDb7kERQrA1) | 3:32 |
 | 12 | [Los Piratas \- MTV Unplugged](https://open.spotify.com/track/69ni0mzLxPJ1ipk7ENsXWi) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Fiesta Nacional \(Mtv Unplugged\)](https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7) | 2:56 |
 | 13 | [Nostalgias](https://open.spotify.com/track/6pexRB1QZYbsUCQkwWpA42) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Tinta roja](https://open.spotify.com/album/69WRi5hgYF8knlDJmBStHS) | 4:03 |
 | 14 | [La Bestia Pop](https://open.spotify.com/track/0whYWhGNZ2YuTiiXF0AQXS) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Inconsciente Colectivo](https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE) | 3:30 |
@@ -52,6 +52,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6vwC7tN28X.md) - [plain]
 | 42 | [Las Tribus](https://open.spotify.com/track/0Hnne5lFK5ppt6UO4BzYjc) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [Martingala](https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc) | 3:45 |
 | 43 | [Turbias Golondrinas](https://open.spotify.com/track/7b1E5XfeVSYRTILXCeIvnR) | [Palo Pandolfo](https://open.spotify.com/artist/01wwxIe4Qgb0a4PCfzBjsf) | [Ritual Criollo](https://open.spotify.com/album/0bt7q9mBdN06EQhDj0pEBt) | 1:46 |
 | 44 | [Barro Tal Vez](https://open.spotify.com/track/0X5l6Oljnw9PPU1zVCn3PO) | [Angelito Martinez](https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2), [Mariano Godoy](https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR) | [Antología, Vol.2: Viejas Alegrias](https://open.spotify.com/album/3p1lXEENvPdfbtivMxBZbS) | 3:42 |
-| 45 | [Laura Va](https://open.spotify.com/track/5caXGav3sqgWv6UWbOyxzr) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 3:15 |
+| 45 | [Salvavidas de Plomo](https://open.spotify.com/track/7vfkvaLx1g6b8iWJoWrOaI) | [Juan Subira](https://open.spotify.com/artist/1TQCf74SMH4NMVPHUC7ohk), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Fisura Expuesta](https://open.spotify.com/album/3xMB06xJvBVJJeEnmC4VC3) | 6:44 |
 
-Snapshot ID: `MTY4MTQ0MTIwMCwwMDAwMDAwMDFmZDYzNTk5ZjkwOTg5YWM0Mzg0OTdmNmVjYjA0ZWIx`
+Snapshot ID: `MTY4MTQ0MTIwMCwwMDAwMDAwMDZkMWIxZmI4ZDY5YjM3YTNjZDA1MzUwMWY3NTc0OTY1`

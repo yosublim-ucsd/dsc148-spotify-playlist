@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: The Wood Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 606,458 likes - 149 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 606,510 likes - 149 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

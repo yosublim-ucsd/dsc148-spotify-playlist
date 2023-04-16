@@ -4,7 +4,7 @@
 
 > Fresh Latin Indie\. Cover: Caloncho & Cuco.
 
-329 songs - 18 hr 23 min
+330 songs - 18 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,11 +13,12 @@
 | [7'11](https://open.spotify.com/track/49f4F5vB3f3Bt8jDPU2eRZ) | [REYNA](https://open.spotify.com/artist/4AHhe1KXVCCoOdHQNjH5Zu) | [7'11](https://open.spotify.com/album/7LMPO9UhGA06NlyoR2qZze) | 3:27 | 2021-11-18 | 2022-07-29 |
 | [98](https://open.spotify.com/track/3H7oZCSHd0QbV79Ur2wCPZ) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [98](https://open.spotify.com/album/6FIyZQ7DHCY6Jlg3AbrF50) | 3:26 | 2022-12-09 | 2023-03-28 |
 | [A carta cabal](https://open.spotify.com/track/3asOJIkC0NT24zR2S20azY) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [La Cantera](https://open.spotify.com/album/3BDwyojdwMAmBEsXZlyQjW) | 4:29 | 2022-05-06 | 2023-01-21 |
+| [A La Quien Quieres](https://open.spotify.com/track/4q9lwDou2FP4Vj3993sfAW) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Ojos Vacíos](https://open.spotify.com/album/39MoSLkmTFasjXjfWGzqqB) | 3:41 | 2023-04-14 |  |
 | [A Mi Cama](https://open.spotify.com/track/3QJnb9jAkV48Q0J0sCsFHF) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [A Mi Cama](https://open.spotify.com/album/4cXE08JpfNa7O2oSBtr6G6) | 2:34 | 2023-03-10 |  |
 | [A Veces](https://open.spotify.com/track/2hEGuvAcZGt6kOh5COiBgF) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [A Veces](https://open.spotify.com/album/6miHXeWD9DWJLrUtgNAf5C) | 2:45 | 2021-11-18 | 2022-11-25 |
 | [Aeroplanos](https://open.spotify.com/track/2uTOK71u7nWtvDQky4wyEx) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH), [Sous\-Sol](https://open.spotify.com/artist/6npvMAuRzmnkSxIlxwdG0T) | [Aeroplanos](https://open.spotify.com/album/2V5rVAdsjlL4fiwHzbQ1OG) | 3:59 | 2021-11-18 | 2022-11-25 |
 | [Agua al dolor](https://open.spotify.com/track/4gJob9AR3tWEh1OfGtVj1h) | [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Agua al dolor](https://open.spotify.com/album/6GET4E1rNMJVSENvXiKBBh) | 3:28 | 2023-01-13 |  |
-| [Alejémonos](https://open.spotify.com/track/51UK26oZlN0iHGDFz9Idkp) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH), [Lilly Yan](https://open.spotify.com/artist/5FBHMcTg26VVGLJz5mqU5C) | [Alejémonos](https://open.spotify.com/album/3ptNF4zl1sec0fViprKxCK) | 2:45 | 2022-12-02 |  |
+| [Alejémonos](https://open.spotify.com/track/51UK26oZlN0iHGDFz9Idkp) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH), [Lilly Yan](https://open.spotify.com/artist/5FBHMcTg26VVGLJz5mqU5C) | [Alejémonos](https://open.spotify.com/album/3ptNF4zl1sec0fViprKxCK) | 2:45 | 2022-12-02 | 2023-04-16 |
 | [Aleros/Pompeii](https://open.spotify.com/track/2KSyKlJ3SWPFflplhYhPTl) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [Caribe Caribe](https://open.spotify.com/album/7zGq7oV1gSW4Aga1a9XJUK) | 4:00 | 2023-03-10 | 2023-03-25 |
 | [Algo Bien](https://open.spotify.com/track/6k2HTT8CqCUWlEG7saWg0r) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 2:30 | 2023-02-03 |  |
 | [Algo Me Pasa](https://open.spotify.com/track/1tZU2osSQKZ4VsAcmszltK) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Algo Me Pasa](https://open.spotify.com/album/2dhVZS72T4n6KfI71hnSXb) | 3:25 | 2023-02-03 |  |

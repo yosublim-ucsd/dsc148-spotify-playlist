@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-367 songs - 20 hr 45 min
+368 songs - 20 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,7 +316,8 @@
 | [Thank You Master \(For My Soul\)](https://open.spotify.com/track/6xaAoSvOozsjDHTMWhYtAx) | [Sons Of The James](https://open.spotify.com/artist/2glaJzU6VwtGLSo777oyiM), [Rob Milton](https://open.spotify.com/artist/3vvRSvTEKNAAsZQqP5Fdcl), [DJ Harrison](https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK) | [Everlasting](https://open.spotify.com/album/6qKrcLdkdpGLuPzN0i4oTJ) | 1:55 | 2021-09-21 | 2022-08-09 |
 | [The Problem Song](https://open.spotify.com/track/7flrjP7Dag40j2Fw8TX4iC) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [The Problem Song](https://open.spotify.com/album/4EVTxuDyTxsS7w9W5AC0kX) | 2:37 | 2022-09-30 |  |
 | [THE SUN SHINES SO BRIGHT WITH YOU](https://open.spotify.com/track/3jJF4tK7hDS5MBRHyVns0V) | [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU) | [THE SUN SHINES SO BRIGHT WITH YOU](https://open.spotify.com/album/0NlU3SdIMDeuWXbxaxlBNu) | 2:52 | 2020-11-13 | 2022-03-19 |
-| [The Thrill Is Gone.](https://open.spotify.com/track/0OY4O9PuW7A5fbI2o90WA8) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Escapism\. / The Thrill Is Gone.](https://open.spotify.com/album/3omkMn8vbTKOebb9ABbqyb) | 3:19 | 2023-02-03 |  |
+| [The Thrill Is Gone.](https://open.spotify.com/track/0OY4O9PuW7A5fbI2o90WA8) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Escapism\. / The Thrill Is Gone.](https://open.spotify.com/album/3omkMn8vbTKOebb9ABbqyb) | 3:19 | 2023-02-03 | 2023-04-16 |
+| [The Thrill Is Gone.](https://open.spotify.com/track/5eVG50IlyjSevPsWnSI76r) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:19 | 2023-02-17 |  |
 | [The Two of Us](https://open.spotify.com/track/24i3ftE5sMEGsGtclPQPSc) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Apolonio](https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7) | 2:32 | 2020-11-13 | 2022-01-15 |
 | [The Way](https://open.spotify.com/track/63fsY7TeTPnj71W1kRrzxc) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE) | [The Way](https://open.spotify.com/album/69aZjluFIQ5I1QMm1mwOxx) | 4:25 | 2021-04-30 | 2022-04-21 |
 | [The Wheel](https://open.spotify.com/track/6Mm7nCTVVduH0uehfNfITB) | [Midas Hutch](https://open.spotify.com/artist/3sN7A6NULbpDrV5bAD9B6g), [Reva DeVito](https://open.spotify.com/artist/00jACgDWIBdPM4eH8nORwz) | [The Wheel](https://open.spotify.com/album/3YnQLqCzYIh8wJJtxYQit6) | 3:20 | 2021-09-21 | 2022-07-23 |

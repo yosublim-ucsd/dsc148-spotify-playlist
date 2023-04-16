@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTPoXeL0dkL.md) - [plain]
 
 > ¡Los grandes nombres del Vallenato viven aquí!
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,971 likes - 60 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,057 likes - 60 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTPoXeL0dkL.md) - [plain]
 | 37 | [El Santo Cachon](https://open.spotify.com/track/3zR4QhbiQ7zZ6eR58jT43d) | [Los Embajadores Vallenato](https://open.spotify.com/artist/2J95wKK8c7dnly0hkJ2b6X) | [Grandes Exitos](https://open.spotify.com/album/3RsbxYK9uTkSMZTDqNaJnM) | 4:29 |
 | 38 | [No Comprendi Tu Amor](https://open.spotify.com/track/1geLwtTJ0LTCwNA2cX8k9z) | [Jorge Oñate](https://open.spotify.com/artist/36nvA2snEFUkDbg5qI0ZiG), [Álvaro López](https://open.spotify.com/artist/6TzsQhITSRn9p0E3WVXloO) | [Coleccion Top 50](https://open.spotify.com/album/6C1Kx81vuSDKo3V1r0DLMY) | 4:42 |
 | 39 | [No Te Detengas](https://open.spotify.com/track/294HmohCkFANQH6tm9jzfA) | [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri), [Juan David Herrera](https://open.spotify.com/artist/1hYXDj3QsJFjAXz53VIKTh) | [Gracias Mi Gente](https://open.spotify.com/album/42mGPazMoiDn6hWgitQYgX) | 4:46 |
-| 40 | [Tu Olvido](https://open.spotify.com/track/3YwtXX7xtSvQSVMzwc1PUP) | [Ivan Zuleta](https://open.spotify.com/artist/5EaL3CfK7WVRU5pCzUt35B), [Ivan Villazon](https://open.spotify.com/artist/0gudLEFCyMFIBCt1EQaMh7) | [Pa Que Te Enamores](https://open.spotify.com/album/0zYbs9xZl8BpKXjv74GeJM) | 4:37 |
-| 41 | [Infiel](https://open.spotify.com/track/1PTQMGoaQ2ZnWi3WBzFpwp) | [Daniel Calderón](https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA) | [Alto Voltaje](https://open.spotify.com/album/58S0vKkRnOwYGwpDSXNsEX) | 4:06 |
+| 40 | [Infiel](https://open.spotify.com/track/1PTQMGoaQ2ZnWi3WBzFpwp) | [Daniel Calderón](https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA) | [Alto Voltaje](https://open.spotify.com/album/58S0vKkRnOwYGwpDSXNsEX) | 4:06 |
+| 41 | [Tu Olvido](https://open.spotify.com/track/3YwtXX7xtSvQSVMzwc1PUP) | [Ivan Zuleta](https://open.spotify.com/artist/5EaL3CfK7WVRU5pCzUt35B), [Ivan Villazon](https://open.spotify.com/artist/0gudLEFCyMFIBCt1EQaMh7) | [Pa Que Te Enamores](https://open.spotify.com/album/0zYbs9xZl8BpKXjv74GeJM) | 4:37 |
 | 42 | [Sin Perdón](https://open.spotify.com/track/41aYSjyFc0BwR2wdUawpzj) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Jimmy Zambrano](https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj) | [Jorge Celedón & Jimmy Zambrano De Lo Nuevo..\. Lo Mejor](https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D) | 4:47 |
 | 43 | [Sombra Perdida](https://open.spotify.com/track/1iLUNt0JQR8FOohEGHE22z) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [De Caché](https://open.spotify.com/album/3GX1tHN5YaqV4xxqTdKzXs) | 4:24 |
 | 44 | [Dile](https://open.spotify.com/track/1MGlNhK0XHWaeh5CfXmU2Y) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Juancho De La Espriella](https://open.spotify.com/artist/2jyCUmtPh36YRwhuhxzUZ3) | [Ponte a la Moda](https://open.spotify.com/album/5EArLgK3ztJCjEdBb71nGn) | 4:11 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTPoXeL0dkL.md) - [plain]
 | 56 | [Donde Estas](https://open.spotify.com/track/7vyGzPh1AAGCWa6OXYweZH) | [Los Embajadores Vallenato](https://open.spotify.com/artist/2J95wKK8c7dnly0hkJ2b6X) | [Grandes Exitos](https://open.spotify.com/album/3RsbxYK9uTkSMZTDqNaJnM) | 4:25 |
 | 57 | [Directo Al Corazón](https://open.spotify.com/track/0y16eBgMZ3ItBzFT6Jqchy) | [Jesus Manuel Estrada](https://open.spotify.com/artist/6V6SKtrFyezkvonhvkd4Yg) | [Directo Al Corazón](https://open.spotify.com/album/2kF0AEAgWqpZTbLXNfJooJ) | 5:01 |
 | 58 | [Adios Amor](https://open.spotify.com/track/3ZakXSNfEAUWLB0sPmjR3q) | [Luis Mateus Y La Nueva Generacion](https://open.spotify.com/artist/47Bb4NcbxnlPH6LIYgAGFF), [David Rendon](https://open.spotify.com/artist/6mUIKTMphJ1lYGBDo2yXhX) | [14 Vallenatos Románticos, Vol\. 1](https://open.spotify.com/album/5Mwissywi3bMNfg2kLuDf6) | 4:19 |
-| 59 | [Nunca Comprendi Tu Amor](https://open.spotify.com/track/3bHaEgoiLOAFgll66PpqTU) | [Rugido Vallenato](https://open.spotify.com/artist/0DDIFBpXAGaVvQEGsR8Dpq) | [30 Vallenatos Pegaditos](https://open.spotify.com/album/7oj4qPIDO56UXqltslNqm5) | 4:44 |
+| 59 | [Nunca Comprendi Tu Amor](https://open.spotify.com/track/3bHaEgoiLOAFgll66PpqTU) | [Rugido Vallenato](https://open.spotify.com/artist/3jjsdnDxKqpce2JuEXp11j) | [30 Vallenatos Pegaditos](https://open.spotify.com/album/7oj4qPIDO56UXqltslNqm5) | 4:44 |
 | 60 | [Parranda en el Cafetal](https://open.spotify.com/track/4t1HrUv6iMdLK6nDpvdMLi) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek) | [Jorge Celedón & Jimmy Zambrano De Lo Nuevo..\. Lo Mejor](https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D) | 4:12 |
 
-Snapshot ID: `MTY3NTczMzUxNiwwMDAwMDAwMDJkYzBiMmI1OGQyMzBiYjkxYjAyYmRkNjAxOWRiOTY0`
+Snapshot ID: `MTY3NTczMzUxNiwwMDAwMDAwMDMwNGM2MTg2MTg1MmU5OGQyYWUzYzQ2NTg3NmZmODMx`

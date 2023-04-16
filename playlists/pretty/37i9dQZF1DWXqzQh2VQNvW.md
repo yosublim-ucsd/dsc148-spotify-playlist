@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqzQh2VQNvW.md) - [plain]
 
 > The latest and greatest music out now!
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,680 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,671 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqzQh2VQNvW.md) - [plain]
 | 13 | [Applause \- From "Tell It Like a Woman"](https://open.spotify.com/track/4ZlWlBH5FEoFDKgthWtHRl) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Applause \(From "Tell It Like a Woman"\)](https://open.spotify.com/album/7tfweNIzqYmP7abrg3SR31) | 3:02 |
 | 14 | [So Special](https://open.spotify.com/track/2yYj4A83qox4a2SBAE6a3t) | [Citizen Queen](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) | [So Special](https://open.spotify.com/album/5CIv2KGq1JvtcuNI584N1i) | 2:41 |
 | 15 | [BIG](https://open.spotify.com/track/2m4Bk1tHjFEmtGStZBx8rF) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [BIG!](https://open.spotify.com/album/4xrzNkHJXlkvwYyVipesug) | 3:36 |
-| 16 | [Don't Leave](https://open.spotify.com/track/3Uuobd2VLUX9E1ugsQv4wj) | [Josh Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda), [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [Don't Leave](https://open.spotify.com/album/1qWusCEgXBfPcOBtEGoQhT) | 3:02 |
+| 16 | [Don't Leave](https://open.spotify.com/track/3Uuobd2VLUX9E1ugsQv4wj) | [Josh Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [Don't Leave](https://open.spotify.com/album/1qWusCEgXBfPcOBtEGoQhT) | 3:02 |
 | 17 | [Breakfast](https://open.spotify.com/track/6GUiIbJ834FcHewby3PwV0) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Breakfast](https://open.spotify.com/album/7HWnZ3HvfiVjEIyFWC4Qlf) | 2:28 |
 | 18 | [Used To](https://open.spotify.com/track/0v2TpzTRJvP43SNFs8iB4k) | [Lila Drew](https://open.spotify.com/artist/31ce51nzy9QQQlfnkwRm9F) | [Used To](https://open.spotify.com/album/0c1M4N5265NMLoKlJAFd0q) | 3:19 |
 | 19 | [Startover](https://open.spotify.com/track/2K2vxaBjIJGpS7bKUBtqYp) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Startover](https://open.spotify.com/album/6lWCvK8L1GzYaa4htMufrE) | 3:05 |
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqzQh2VQNvW.md) - [plain]
 | 58 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM) | 3:04 |
 | 59 | [The Kind of Love We Make](https://open.spotify.com/track/28n8z9IQKyjMPxmvYMBqZa) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Kind of Love We Make](https://open.spotify.com/album/77B78XJKo4LcsrRg34GNTu) | 3:44 |
 | 60 | [Loved You Since I Was Young](https://open.spotify.com/track/4ayHZpebCShYtJuSL8701H) | [good problem](https://open.spotify.com/artist/3aRk4W0Y1YbyEXJT6UL2cK) | [Loved You Since I Was Young](https://open.spotify.com/album/7u4FHNJdVRLDLuum8iJnkd) | 3:03 |
-| 61 | [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 |
+| 61 | [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 |
 | 62 | [100% Pure Love](https://open.spotify.com/track/46id9snGVXnL2aUR5nISKC) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [100% Pure Love](https://open.spotify.com/album/1YTJKcEfwPsi53BAPu3RXG) | 3:00 |
 | 63 | [2 Be Loved \(Am I Ready\)](https://open.spotify.com/track/13Irp51zj01BZu2XtDrnAg) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1KtDsGsSRGbnmH07v5hB1I) | 3:07 |
 | 64 | [Secrets](https://open.spotify.com/track/0xGQGTbDkwrzXFRo0xGfQH) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C) | [Human](https://open.spotify.com/album/2N3CpixB4uEbAa6L5xoQED) | 2:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqzQh2VQNvW.md) - [plain]
 | 99 | [Piece Of Me \(with LOVA\)](https://open.spotify.com/track/5mlNLzIdl6Ae2a4YRphSI4) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Piece Of Me \(with LOVA\)](https://open.spotify.com/album/3L5V3sfPdsd1SoSWzcW5Xb) | 3:22 |
 | 100 | [Stitches](https://open.spotify.com/track/7tbzPLKvG08lwU6h33wSso) | [good problem](https://open.spotify.com/artist/3aRk4W0Y1YbyEXJT6UL2cK) | [Stitches](https://open.spotify.com/album/3G3fVF6R5DEhQg19XZBzwl) | 2:40 |
 
-Snapshot ID: `MTY4MTQ0NzI2MSwwMDAwMDAwMDE5Njg3ODcyZjcyMDdiZTVlYjQ0MjY2NzNhZGEzZmVk`
+Snapshot ID: `MTY4MTQ0NzI2MSwwMDAwMDAwMGM1OWQ0OTM3ZWE1Mzg5MmJhOGUzODZmNmJhZGZkZmY4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0nABhe.md) - [plain]
 
 > This is Story Of The Year\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,325 likes - 42 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,328 likes - 42 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,11 +18,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0nABhe.md) - [plain]
 | 8 | [The Ghost Of You and I](https://open.spotify.com/track/7zRqTH0txMQBLp2yWRASma) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Constant \(Deluxe Edition\)](https://open.spotify.com/album/5w2zfZyYBVlN3gE7ld5Zkg) | 3:55 |
 | 9 | [And the Hero Will Drown](https://open.spotify.com/track/3WsgkhWH001sMkbZVcjreS) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Page Avenue](https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW) | 3:13 |
 | 10 | [Wake Up](https://open.spotify.com/track/6mKvriTiArIIJWa2IEQ3dN) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Black Swan](https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF) | 3:31 |
-| 11 | [Afterglow](https://open.spotify.com/track/3CiGKCuCs6VwrdrEnujIaU) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 2:53 |
+| 11 | [Tear Me to Pieces](https://open.spotify.com/track/4o8iQ9HKmZP0D7eRcTnW0g) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 2:56 |
 | 12 | [Take Me Back](https://open.spotify.com/track/4Y9SvDoZpyuaulD7XAfcUH) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [In the Wake of Determination](https://open.spotify.com/album/5IOgRGEVVKdFVuqL88I7sy) | 4:07 |
 | 13 | [Sidewalks](https://open.spotify.com/track/5mXcLmgkTDJeSSqDMQnhUh) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Page Avenue](https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW) | 3:34 |
 | 14 | [A Silent Murder](https://open.spotify.com/track/7DBCg0ZMoNYWesMM8atUdf) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [A Silent Murder](https://open.spotify.com/album/7G2jy9v1Obr7Qv9TTTumcx) | 2:36 |
-| 15 | [Tear Me to Pieces](https://open.spotify.com/track/4o8iQ9HKmZP0D7eRcTnW0g) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 2:56 |
+| 15 | [Afterglow](https://open.spotify.com/track/3CiGKCuCs6VwrdrEnujIaU) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 2:53 |
 | 16 | [Just Close Your Eyes \(Christian\)](https://open.spotify.com/track/76RksvwSv7RUYM16AAtbFu) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [WWE: The Music \- A New Day, Vol\. 10](https://open.spotify.com/album/2iKsNhYnCpBn0OXtEp1DzT) | 4:31 |
 | 17 | [Miracle](https://open.spotify.com/track/0vYWk3uQezVYj9AU0yn8Mn) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Wolves](https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi) | 3:51 |
 | 18 | [In the Shadows](https://open.spotify.com/track/0mwgzibUcY7DE1Q09P2eL1) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Page Avenue](https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW) | 3:33 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0nABhe.md) - [plain]
 | 41 | [The Children Sing](https://open.spotify.com/track/1aYT1emiHxA0x0c1SPmY7H) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Constant \(Deluxe Edition\)](https://open.spotify.com/album/5w2zfZyYBVlN3gE7ld5Zkg) | 4:07 |
 | 42 | [The Heart of Polka Is Still Beating](https://open.spotify.com/track/3IsREZMhoZmqjP99F7xFu5) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Heart of Polka Is Still Beating](https://open.spotify.com/album/0wsXROGwmu8RT3c6EhT5Qg) | 3:45 |
 
-Snapshot ID: `MjgwMjQ4NTIsMDAwMDAwMDBiN2ExOWFkMTc1YmQxYzU0YjQyZDE0NDAwNzgzYzJkMQ==`
+Snapshot ID: `MjgwMjYwMzEsMDAwMDAwMDAyM2JkMGFmNWU1MDQ2MWQ4MTJkYjBhODY1NjI1MzFjNg==`

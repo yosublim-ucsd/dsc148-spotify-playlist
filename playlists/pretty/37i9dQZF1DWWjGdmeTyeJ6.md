@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Justend\. Artwork by Isu Kim\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,152,992 likes - 73 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,152,995 likes - 73 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

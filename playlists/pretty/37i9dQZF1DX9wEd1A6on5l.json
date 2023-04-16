@@ -1,12 +1,12 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 26473,
+  "num_followers": 26531,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ5MDI5NCwwMDAwMDAwMDU1NTYyNzlhMjdmNGRlYTEzZmFhZGJiM2QyMzhiNDI4",
+  "snapshot_id": "MTY4MTQ5MDI5NCwwMDAwMDAwMDAwZmY1MDcxNmM1OWNkOTU2ZTk3YTJhZTk4ZDQ3MTMw",
   "tracks": [
     {
       "added_at": "2023-04-14 16:38:14",
@@ -723,26 +723,6 @@
     {
       "added_at": "2023-04-14 16:38:14",
       "album": {
-        "name": "Loaded",
-        "url": "https://open.spotify.com/album/1bz4MGZBxnYFjmCXf9lm0g"
-      },
-      "artists": [
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 155789,
-      "name": "Loaded",
-      "url": "https://open.spotify.com/track/3J5IO8OLj05dRaZjHBHS8D"
-    },
-    {
-      "added_at": "2023-04-14 16:38:14",
-      "album": {
         "name": "Carry Me Go",
         "url": "https://open.spotify.com/album/7hAXzkLo3J1tLMMO3H74do"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 136464,
       "name": "Carry Me Go",
       "url": "https://open.spotify.com/track/7qxtOyjZ2zSaxBPH8fLyNi"
+    },
+    {
+      "added_at": "2023-04-14 16:38:14",
+      "album": {
+        "name": "Loaded",
+        "url": "https://open.spotify.com/album/1bz4MGZBxnYFjmCXf9lm0g"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 155789,
+      "name": "Loaded",
+      "url": "https://open.spotify.com/track/3J5IO8OLj05dRaZjHBHS8D"
     },
     {
       "added_at": "2023-04-14 16:38:14",
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-04-14 16:38:14",
       "album": {
+        "name": "Traboski",
+        "url": "https://open.spotify.com/album/7A0qUYFzVQZGI6IcFebIiN"
+      },
+      "artists": [
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 155860,
+      "name": "Traboski",
+      "url": "https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE"
+    },
+    {
+      "added_at": "2023-04-14 16:38:14",
+      "album": {
         "name": "Bienvenue",
         "url": "https://open.spotify.com/album/7I8qzFpNzR1NT1n65rfW1W"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 176000,
       "name": "Bienvenue",
       "url": "https://open.spotify.com/track/5X55V3mn3RTvHAheUtL6LR"
-    },
-    {
-      "added_at": "2023-04-14 16:38:14",
-      "album": {
-        "name": "Traboski",
-        "url": "https://open.spotify.com/album/7A0qUYFzVQZGI6IcFebIiN"
-      },
-      "artists": [
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 155860,
-      "name": "Traboski",
-      "url": "https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE"
     },
     {
       "added_at": "2023-04-14 16:38:14",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-04-14 16:38:14",
       "album": {
+        "name": "Ijo (Laba Laba)",
+        "url": "https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH"
+      },
+      "artists": [
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Ijo (Laba Laba)",
+      "url": "https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM"
+    },
+    {
+      "added_at": "2023-04-14 16:38:14",
+      "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/54mr7b1004Jqg9PD185VI1"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 186446,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/47FuxUowVBxua1XxsbLKKX"
-    },
-    {
-      "added_at": "2023-04-14 16:38:14",
-      "album": {
-        "name": "Ijo (Laba Laba)",
-        "url": "https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH"
-      },
-      "artists": [
-        {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Ijo (Laba Laba)",
-      "url": "https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM"
     },
     {
       "added_at": "2023-04-14 16:38:14",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-04-14 16:38:14",
       "album": {
+        "name": "Barnabas",
+        "url": "https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 184800,
+      "name": "Eh God (Barnabas)",
+      "url": "https://open.spotify.com/track/2Ydj7wgn4ZrFFQsfFBTTYJ"
+    },
+    {
+      "added_at": "2023-04-14 16:38:14",
+      "album": {
         "name": "Big Flexa",
         "url": "https://open.spotify.com/album/5MhQBsStYfPKxStExE5wM3"
       },
@@ -1107,18 +1123,22 @@
     {
       "added_at": "2023-04-14 16:38:14",
       "album": {
-        "name": "Barnabas",
-        "url": "https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU"
+        "name": "PALAZZO",
+        "url": "https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf"
       },
       "artists": [
         {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 184800,
-      "name": "Eh God (Barnabas)",
-      "url": "https://open.spotify.com/track/2Ydj7wgn4ZrFFQsfFBTTYJ"
+      "duration_ms": 186002,
+      "name": "PALAZZO",
+      "url": "https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt"
     },
     {
       "added_at": "2023-04-14 16:38:14",
@@ -1139,26 +1159,6 @@
       "duration_ms": 166801,
       "name": "Aboboyaa (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk"
-    },
-    {
-      "added_at": "2023-04-14 16:38:14",
-      "album": {
-        "name": "PALAZZO",
-        "url": "https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf"
-      },
-      "artists": [
-        {
-          "name": "SPINALL",
-          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 186002,
-      "name": "PALAZZO",
-      "url": "https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt"
     },
     {
       "added_at": "2023-04-14 16:38:14",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-04-14 16:38:14",
       "album": {
-        "name": "Outlaw",
-        "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Apollo",
-      "url": "https://open.spotify.com/track/1OGZU2zmK6x0UnM3yeZ4lR"
-    },
-    {
-      "added_at": "2023-04-14 16:38:14",
-      "album": {
         "name": "Colors (My Baby) / Loyal",
         "url": "https://open.spotify.com/album/3BNffda5IHaWQe5YVC986B"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 164240,
       "name": "Colors (My Baby)",
       "url": "https://open.spotify.com/track/0lTUcfkmtQPp6mhjC6EBPq"
+    },
+    {
+      "added_at": "2023-04-14 16:38:14",
+      "album": {
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/1OGZU2zmK6x0UnM3yeZ4lR"
     },
     {
       "added_at": "2023-04-14 16:38:14",
@@ -1343,22 +1343,6 @@
       "duration_ms": 189000,
       "name": "Bloody Samaritan (with Kelly Rowland) - Remix",
       "url": "https://open.spotify.com/track/0RGGAP5gpvToJyUZbiEcXO"
-    },
-    {
-      "added_at": "2023-04-14 16:38:14",
-      "album": {
-        "name": "Werser",
-        "url": "https://open.spotify.com/album/1GkNzKt3pj4Gg2by8cokBI"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 248697,
-      "name": "Werser",
-      "url": "https://open.spotify.com/track/5ysRcpZAYSHvqtMNKgQQ16"
     },
     {
       "added_at": "2023-04-14 16:38:14",
@@ -1391,6 +1375,22 @@
     {
       "added_at": "2023-04-14 16:38:14",
       "album": {
+        "name": "Werser",
+        "url": "https://open.spotify.com/album/1GkNzKt3pj4Gg2by8cokBI"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 248697,
+      "name": "Werser",
+      "url": "https://open.spotify.com/track/5ysRcpZAYSHvqtMNKgQQ16"
+    },
+    {
+      "added_at": "2023-04-14 16:38:14",
+      "album": {
         "name": "GANGSTER ROMANTIC",
         "url": "https://open.spotify.com/album/0qogcdzZgkdwcVGrtHho6G"
       },
@@ -1403,6 +1403,26 @@
       "duration_ms": 175264,
       "name": "AVAILABU",
       "url": "https://open.spotify.com/track/6hVwoGjU2l2tHk9Cm1kEiZ"
+    },
+    {
+      "added_at": "2023-04-14 16:38:14",
+      "album": {
+        "name": "Great Is He (Deluxe)",
+        "url": "https://open.spotify.com/album/32vNuIiZ5Q4wh6FDsq1y0o"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 227313,
+      "name": "Celebrate (feat. Black Sherif)",
+      "url": "https://open.spotify.com/track/1HEEnDxmxHvrAddczaWS48"
     },
     {
       "added_at": "2023-04-14 16:38:14",
@@ -1443,22 +1463,26 @@
     {
       "added_at": "2023-04-14 16:38:14",
       "album": {
-        "name": "Great Is He (Deluxe)",
-        "url": "https://open.spotify.com/album/32vNuIiZ5Q4wh6FDsq1y0o"
+        "name": "Patek",
+        "url": "https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0"
       },
       "artists": [
         {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         },
         {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        },
+        {
+          "name": "DJ Tarico",
+          "url": "https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H"
         }
       ],
-      "duration_ms": 227313,
-      "name": "Celebrate (feat. Black Sherif)",
-      "url": "https://open.spotify.com/track/1HEEnDxmxHvrAddczaWS48"
+      "duration_ms": 218230,
+      "name": "Patek",
+      "url": "https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8"
     },
     {
       "added_at": "2023-04-14 16:38:14",
@@ -1527,46 +1551,6 @@
     {
       "added_at": "2023-04-14 16:38:14",
       "album": {
-        "name": "Personal",
-        "url": "https://open.spotify.com/album/3A2ta8zCeJjbZkmx0yTxtx"
-      },
-      "artists": [
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        }
-      ],
-      "duration_ms": 143452,
-      "name": "Personal",
-      "url": "https://open.spotify.com/track/1Lg2Agsu9XTZ6M4wfRMpff"
-    },
-    {
-      "added_at": "2023-04-14 16:38:14",
-      "album": {
-        "name": "Patek",
-        "url": "https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Joey B",
-          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
-        },
-        {
-          "name": "DJ Tarico",
-          "url": "https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H"
-        }
-      ],
-      "duration_ms": 218230,
-      "name": "Patek",
-      "url": "https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8"
-    },
-    {
-      "added_at": "2023-04-14 16:38:14",
-      "album": {
         "name": "The Second Wave",
         "url": "https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD"
       },
@@ -1579,6 +1563,26 @@
       "duration_ms": 206775,
       "name": "Snapchat",
       "url": "https://open.spotify.com/track/10m1yYuud3w7bb43srjbWi"
+    },
+    {
+      "added_at": "2023-04-14 16:38:14",
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 209968,
+      "name": "Different Size (feat. Victony)",
+      "url": "https://open.spotify.com/track/0s5nhb6ts6uCKAVnGg46y6"
     }
   ],
   "unique_name": "Party Dey!",

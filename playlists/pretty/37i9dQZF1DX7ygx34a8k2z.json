@@ -1,12 +1,12 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 124316,
+  "num_followers": 124596,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODgyNzA4OSwwMDAwMDAwMDM2MDU4Yzg4ZDhlMThhMmYzNTk4N2E3N2QyMTViYWY2",
+  "snapshot_id": "MTY3ODgyNzA4OSwwMDAwMDAwMGM2NTM1NjQ2ODY4MjEwY2QyMDQ5YjQ5MDkyY2I4MWNh",
   "tracks": [
     {
       "added_at": "2023-01-10 19:08:23",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-01-10 19:08:23",
       "album": {
-        "name": "Welcome To The Monkey House",
-        "url": "https://open.spotify.com/album/2SS8nVmmgJqJhRuYGboIOx"
-      },
-      "artists": [
-        {
-          "name": "The Dandy Warhols",
-          "url": "https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod"
-        }
-      ],
-      "duration_ms": 199960,
-      "name": "We Used To Be Friends",
-      "url": "https://open.spotify.com/track/7hpFYWL3cw5m4y70cce7Zb"
-    },
-    {
-      "added_at": "2023-01-10 19:08:23",
-      "album": {
         "name": "Without a Sound",
         "url": "https://open.spotify.com/album/0yxM1OyaFOZiJhi9eNThE4"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 259600,
       "name": "Feel the Pain",
       "url": "https://open.spotify.com/track/28c4nfBHdb3xviamRCEsIe"
+    },
+    {
+      "added_at": "2023-01-10 19:08:23",
+      "album": {
+        "name": "Welcome To The Monkey House",
+        "url": "https://open.spotify.com/album/2SS8nVmmgJqJhRuYGboIOx"
+      },
+      "artists": [
+        {
+          "name": "The Dandy Warhols",
+          "url": "https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod"
+        }
+      ],
+      "duration_ms": 199960,
+      "name": "We Used To Be Friends",
+      "url": "https://open.spotify.com/track/7hpFYWL3cw5m4y70cce7Zb"
     },
     {
       "added_at": "2023-01-10 19:08:23",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-01-10 19:08:23",
       "album": {
-        "name": "Rites Of Passage (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7Bpm8RN7CWTEH2Os4vw3Po"
-      },
-      "artists": [
-        {
-          "name": "Indigo Girls",
-          "url": "https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG"
-        }
-      ],
-      "duration_ms": 252960,
-      "name": "Galileo",
-      "url": "https://open.spotify.com/track/1Q0DVZhtZJZs9t45b8zNSD"
-    },
-    {
-      "added_at": "2023-01-10 19:08:23",
-      "album": {
         "name": "Cure for Pain",
         "url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 194093,
       "name": "Cure for Pain",
       "url": "https://open.spotify.com/track/3hO9gaVixKDoYDrlTBrEWf"
+    },
+    {
+      "added_at": "2023-01-10 19:08:23",
+      "album": {
+        "name": "Rites Of Passage (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7Bpm8RN7CWTEH2Os4vw3Po"
+      },
+      "artists": [
+        {
+          "name": "Indigo Girls",
+          "url": "https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG"
+        }
+      ],
+      "duration_ms": 252960,
+      "name": "Galileo",
+      "url": "https://open.spotify.com/track/1Q0DVZhtZJZs9t45b8zNSD"
     },
     {
       "added_at": "2023-01-10 19:08:23",

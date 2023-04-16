@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Don Joe, Guè, Rondodasosa e tanti altri 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,003 likes - 100 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,014 likes - 100 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 23 | [BEBE](https://open.spotify.com/track/4dsqgorYVHBCexgAA56Mfr) | [spadam](https://open.spotify.com/artist/1l1xsFnC27TW3eKhdfnhCW) | [BEBE](https://open.spotify.com/album/0eZ7AfZdpfk4QTjmlDGLov) | 2:33 |
 | 24 | [QUANNO ME NE SO JUTO, Pt\. II](https://open.spotify.com/track/0ZgM3SJ7xdLr0fj0l7lHN9) | [Kunta](https://open.spotify.com/artist/2yJDUGrAgtX7NyJ1RULAnX) | [QUANNO ME NE SO JUTO, Pt\. II](https://open.spotify.com/album/7tAZQpjOq08v3WE2IoEK3b) | 3:01 |
 | 25 | [Affari](https://open.spotify.com/track/20lkVupovafdaIZEJMM20s) | [Faith](https://open.spotify.com/artist/6Dy0TeCFQtJgA3RaC0EBrw) | [Affari](https://open.spotify.com/album/6EM7DUS1bpMYORVrTjszLp) | 2:43 |
-| 26 | [GOTHAM FREAK/RAVE](https://open.spotify.com/track/4qhsnQQgWcFIGUOCVEblBv) | [Business Clvss](https://open.spotify.com/artist/2UFgmEbGvWJbM1NVorPAAE), [MANIAX](https://open.spotify.com/artist/4yM0KjUj8lgf1kOardkepi), [LUKE LIES](https://open.spotify.com/artist/7v4pcXcfLBhHOlSOEwwaYY) | [GOTHAM RAVE](https://open.spotify.com/album/4WeFOphsHmcKj1tfmYnaou) | 2:00 |
+| 26 | [GOTHAM FREAK/RAVE](https://open.spotify.com/track/4qhsnQQgWcFIGUOCVEblBv) | [MANIAX](https://open.spotify.com/artist/4yM0KjUj8lgf1kOardkepi), [LUKE LIES](https://open.spotify.com/artist/7v4pcXcfLBhHOlSOEwwaYY) | [GOTHAM RAVE](https://open.spotify.com/album/4WeFOphsHmcKj1tfmYnaou) | 2:00 |
 | 27 | [10 INDIRIZZI](https://open.spotify.com/track/376MryWtGdZ4KUrXXjOlGZ) | [LA PLATA](https://open.spotify.com/artist/2Hb9O6tBkCp1zVmq1vR3KQ), [RÄD](https://open.spotify.com/artist/5AYlHjA1obBZMUoCM3XWWN), [CallmeShelby](https://open.spotify.com/artist/0j4scQHJ5xgv2fhDpDcy73) | [10 INDIRIZZI](https://open.spotify.com/album/0xZ4J6OtXK4rfCzM3Lx5aU) | 2:46 |
 | 28 | [PARANOIA \(feat\. Sally Cruz\)](https://open.spotify.com/track/414L6br3FfdiKjFiLaZDKh) | [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP), [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc) | [OUTSIDER](https://open.spotify.com/album/65bhPTCdqbC37RhICrkUUu) | 2:51 |
 | 29 | [ZONDA](https://open.spotify.com/track/28Q3CFgOA5EM2bmKaB9d53) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [ZONDA](https://open.spotify.com/album/0XC7jYCEXjyK9Skl7ydilK) | 3:37 |

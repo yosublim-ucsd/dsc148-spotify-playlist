@@ -1,12 +1,12 @@
 {
   "description": "Get jiggy in the kitchen with this groovy playlist.",
-  "num_followers": 925989,
+  "num_followers": 926631,
   "original_name": "Kitchen Swagger",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTU3MDY0MywwMDAwMDAwMDNjYzEyZDc2NzBjNTY1YWRmNWE2YWU5OWJkOTkxZDhj",
+  "snapshot_id": "MTY3OTU3MDY0MywwMDAwMDAwMDI1NmM3YzIwMTg3YTAzYmQ0ODExOTBlMDI1NmIyZDZh",
   "tracks": [
     {
       "added_at": "2023-02-10 11:00:00",
@@ -155,6 +155,26 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "Supernatural (Remastered)",
+        "url": "https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        },
+        {
+          "name": "The Product G&B",
+          "url": "https://open.spotify.com/artist/782IpIScTpnDhYb9hyxOu1"
+        }
+      ],
+      "duration_ms": 261973,
+      "name": "Maria Maria (feat. The Product G&B)",
+      "url": "https://open.spotify.com/track/3XKIUb7HzIF1Vu9usunMzc"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "Moondance",
         "url": "https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam"
       },
@@ -171,22 +191,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
-        "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 226240,
-      "name": "Kiss",
-      "url": "https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Exodus",
         "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
       },
@@ -199,6 +203,22 @@
       "duration_ms": 211000,
       "name": "Jamming",
       "url": "https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
+        "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 226240,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -235,26 +255,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Supernatural (Remastered)",
-        "url": "https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq"
-      },
-      "artists": [
-        {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
-        },
-        {
-          "name": "The Product G&B",
-          "url": "https://open.spotify.com/artist/782IpIScTpnDhYb9hyxOu1"
-        }
-      ],
-      "duration_ms": 261973,
-      "name": "Maria Maria (feat. The Product G&B)",
-      "url": "https://open.spotify.com/track/3XKIUb7HzIF1Vu9usunMzc"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Funk Wav Bounces Vol.1",
         "url": "https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0"
       },
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/7tr2za8SQg2CI8EDgrdtNl"
     },
     {
-      "added_at": "2023-04-15 00:40:34",
+      "added_at": "2023-04-16 01:08:28",
       "album": {
         "name": "The Divine Feminine",
         "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Midnight Love",
-        "url": "https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 238600,
-      "name": "Sexual Healing",
-      "url": "https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Big Willie Style",
         "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 210299,
       "name": "Cold Little Heart - Radio Edit",
       "url": "https://open.spotify.com/track/7KX65PC1UZuImsUInThbav"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Midnight Love",
+        "url": "https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 238600,
+      "name": "Sexual Healing",
+      "url": "https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -443,22 +443,6 @@
       "duration_ms": 198305,
       "name": "Music Sounds Better with You",
       "url": "https://open.spotify.com/track/1vMGIZbIkpaLSagdF2ygcV"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "What's Going On",
-        "url": "https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "What's Going On",
-      "url": "https://open.spotify.com/track/3Um9toULmYFGCpvaIPFw7l"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -519,6 +503,22 @@
       "duration_ms": 201026,
       "name": "Where I Go (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "What's Going On",
+        "url": "https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "What's Going On",
+      "url": "https://open.spotify.com/track/3Um9toULmYFGCpvaIPFw7l"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Janet",
-        "url": "https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg"
-      },
-      "artists": [
-        {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
-        }
-      ],
-      "duration_ms": 265106,
-      "name": "That's The Way Love Goes",
-      "url": "https://open.spotify.com/track/29rQJydAlO0uMyWvRIZxQg"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Bad (Remastered)",
         "url": "https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH"
       },
@@ -659,18 +643,18 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Mahogany Soul",
-        "url": "https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw"
+        "name": "Janet",
+        "url": "https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg"
       },
       "artists": [
         {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
         }
       ],
-      "duration_ms": 270893,
-      "name": "Wish I Didn't Miss You",
-      "url": "https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk"
+      "duration_ms": 265106,
+      "name": "That's The Way Love Goes",
+      "url": "https://open.spotify.com/track/29rQJydAlO0uMyWvRIZxQg"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -691,18 +675,18 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "That's The Way Of The World",
-        "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
+        "name": "Mahogany Soul",
+        "url": "https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw"
       },
       "artists": [
         {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
         }
       ],
-      "duration_ms": 170160,
-      "name": "Shining Star",
-      "url": "https://open.spotify.com/track/0RgcOUQg4qYAEt9RIdf3oB"
+      "duration_ms": 270893,
+      "name": "Wish I Didn't Miss You",
+      "url": "https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -727,6 +711,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "That's The Way Of The World",
+        "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 170160,
+      "name": "Shining Star",
+      "url": "https://open.spotify.com/track/0RgcOUQg4qYAEt9RIdf3oB"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "Very Necessary",
         "url": "https://open.spotify.com/album/2W2EmEpud13QHlhCFS9P8g"
       },
@@ -743,22 +743,6 @@
       "duration_ms": 308360,
       "name": "Whatta Man",
       "url": "https://open.spotify.com/track/7sJN693sYKEIEMu7fc5VnJ"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Maxwell's Urban Hang Suite",
-        "url": "https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p"
-      },
-      "artists": [
-        {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
-        }
-      ],
-      "duration_ms": 345975,
-      "name": "Ascension (Don't Ever Wonder) - Remastered 2021",
-      "url": "https://open.spotify.com/track/6l4TNbfPtNAOOlGIfceSaO"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -783,6 +767,22 @@
       "duration_ms": 241760,
       "name": "Got 'Til It's Gone",
       "url": "https://open.spotify.com/track/1EhvYd5e7vkoN3udEN1Vyl"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Maxwell's Urban Hang Suite",
+        "url": "https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p"
+      },
+      "artists": [
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+        }
+      ],
+      "duration_ms": 345975,
+      "name": "Ascension (Don't Ever Wonder) - Remastered 2021",
+      "url": "https://open.spotify.com/track/6l4TNbfPtNAOOlGIfceSaO"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -851,26 +851,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "My God Has a Telephone",
-        "url": "https://open.spotify.com/album/6A6ktPfg9TWvgNmk87FUmk"
-      },
-      "artists": [
-        {
-          "name": "The Flying Stars Of Brooklyn NY",
-          "url": "https://open.spotify.com/artist/1Q33Sd9px79c7lWMbQXwxm"
-        },
-        {
-          "name": "Aaron Frazer",
-          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
-        }
-      ],
-      "duration_ms": 175492,
-      "name": "My God Has A Telephone",
-      "url": "https://open.spotify.com/track/0vOHWx4itwA0pQeWromAAx"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Older",
         "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 226946,
       "name": "Right Here - Human Nature Radio Mix",
       "url": "https://open.spotify.com/track/7tUEDtHchueeUJTfEFEhii"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "My God Has a Telephone",
+        "url": "https://open.spotify.com/album/6A6ktPfg9TWvgNmk87FUmk"
+      },
+      "artists": [
+        {
+          "name": "The Flying Stars Of Brooklyn NY",
+          "url": "https://open.spotify.com/artist/1Q33Sd9px79c7lWMbQXwxm"
+        },
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+        }
+      ],
+      "duration_ms": 175492,
+      "name": "My God Has A Telephone",
+      "url": "https://open.spotify.com/track/0vOHWx4itwA0pQeWromAAx"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Still Groovin (Remastered)",
-        "url": "https://open.spotify.com/album/0tbD9NloEactUnj0nliNkL"
-      },
-      "artists": [
-        {
-          "name": "Paul Carrack",
-          "url": "https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz"
-        }
-      ],
-      "duration_ms": 163320,
-      "name": "Groovin' - Remastered",
-      "url": "https://open.spotify.com/track/3nqC1N0ySzuSE0bThf6eSA"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Sunrise European Single",
         "url": "https://open.spotify.com/album/2gGRaRaEHSywDFAhQUfdGP"
       },
@@ -1463,6 +1447,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "Still Groovin (Remastered)",
+        "url": "https://open.spotify.com/album/0tbD9NloEactUnj0nliNkL"
+      },
+      "artists": [
+        {
+          "name": "Paul Carrack",
+          "url": "https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz"
+        }
+      ],
+      "duration_ms": 163320,
+      "name": "Groovin' - Remastered",
+      "url": "https://open.spotify.com/track/3nqC1N0ySzuSE0bThf6eSA"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "Lost & Found",
         "url": "https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm"
       },
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Palo Santo",
-        "url": "https://open.spotify.com/album/3iDJodyAXkwE76Z3NNt8W8"
-      },
-      "artists": [
-        {
-          "name": "Saint Joshua",
-          "url": "https://open.spotify.com/artist/5dSZ45x1qKuQFU9L6cODmz"
-        }
-      ],
-      "duration_ms": 175309,
-      "name": "Palo Santo",
-      "url": "https://open.spotify.com/track/0rT1uRsIdsIht4deJOlF0z"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "times",
         "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 255826,
       "name": "Chemicals",
       "url": "https://open.spotify.com/track/2ORvnjpTAXtyTKnaGAgFIv"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Palo Santo",
+        "url": "https://open.spotify.com/album/3iDJodyAXkwE76Z3NNt8W8"
+      },
+      "artists": [
+        {
+          "name": "Saint Joshua",
+          "url": "https://open.spotify.com/artist/5dSZ45x1qKuQFU9L6cODmz"
+        }
+      ],
+      "duration_ms": 175309,
+      "name": "Palo Santo",
+      "url": "https://open.spotify.com/track/0rT1uRsIdsIht4deJOlF0z"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "The Family",
-        "url": "https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy"
-      },
-      "artists": [
-        {
-          "name": "BROCKHAMPTON",
-          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
-        }
-      ],
-      "duration_ms": 166946,
-      "name": "All That",
-      "url": "https://open.spotify.com/track/0dRMqHJre73e9V0wOfwV6u"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "The Best of George Benson",
         "url": "https://open.spotify.com/album/6MOO5U9nQ6tuGuvyOnFNfm"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 219560,
       "name": "Give Me the Night - Edit",
       "url": "https://open.spotify.com/track/7IQMKJNcppgahjNWVPmxkl"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "The Family",
+        "url": "https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy"
+      },
+      "artists": [
+        {
+          "name": "BROCKHAMPTON",
+          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+        }
+      ],
+      "duration_ms": 166946,
+      "name": "All That",
+      "url": "https://open.spotify.com/track/0dRMqHJre73e9V0wOfwV6u"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "S.O.S.: Save Our Soul",
-        "url": "https://open.spotify.com/album/6vk5kBQsE8SQzv3FxG3TWu"
-      },
-      "artists": [
-        {
-          "name": "Marc Broussard",
-          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
-        }
-      ],
-      "duration_ms": 278146,
-      "name": "Love And Happiness",
-      "url": "https://open.spotify.com/track/5fMInRpERS8jP2zPz6QyUI"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Older",
         "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
       },
@@ -1847,18 +1831,18 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Children Of The World",
-        "url": "https://open.spotify.com/album/4V8z8vZUCyYUBlUI9CfSbY"
+        "name": "S.O.S.: Save Our Soul",
+        "url": "https://open.spotify.com/album/6vk5kBQsE8SQzv3FxG3TWu"
       },
       "artists": [
         {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
         }
       ],
-      "duration_ms": 206160,
-      "name": "You Stepped Into My Life",
-      "url": "https://open.spotify.com/track/51VbUJoYc1TX1e7GPcLhFQ"
+      "duration_ms": 278146,
+      "name": "Love And Happiness",
+      "url": "https://open.spotify.com/track/5fMInRpERS8jP2zPz6QyUI"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1875,6 +1859,22 @@
       "duration_ms": 228613,
       "name": "Bad News",
       "url": "https://open.spotify.com/track/3uRggMbe2X8gD5KdwTlKrw"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Children Of The World",
+        "url": "https://open.spotify.com/album/4V8z8vZUCyYUBlUI9CfSbY"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 206160,
+      "name": "You Stepped Into My Life",
+      "url": "https://open.spotify.com/track/51VbUJoYc1TX1e7GPcLhFQ"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2071,22 +2071,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Now (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2XpO3g1oIEXCjXV9HKbYwS"
-      },
-      "artists": [
-        {
-          "name": "Patrice Rushen",
-          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
-        }
-      ],
-      "duration_ms": 254480,
-      "name": "To Each His Own",
-      "url": "https://open.spotify.com/track/3FOtABYcehdbEpaLi9KEJd"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Much Love",
         "url": "https://open.spotify.com/album/6DhCo5DZPHqFAW8QoapQPz"
       },
@@ -2099,6 +2083,22 @@
       "duration_ms": 291120,
       "name": "You Might Need Somebody",
       "url": "https://open.spotify.com/track/24IFYP3J99HK3aB6xG5jtP"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Now (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2XpO3g1oIEXCjXV9HKbYwS"
+      },
+      "artists": [
+        {
+          "name": "Patrice Rushen",
+          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+        }
+      ],
+      "duration_ms": 254480,
+      "name": "To Each His Own",
+      "url": "https://open.spotify.com/track/3FOtABYcehdbEpaLi9KEJd"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2151,22 +2151,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Live from the Artists Den: Season 2",
-        "url": "https://open.spotify.com/album/0kZaBpZZZINkqWpH5VvrXG"
-      },
-      "artists": [
-        {
-          "name": "Corinne Bailey Rae",
-          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
-        }
-      ],
-      "duration_ms": 268853,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/6XaV2S7rtFLMw2YBXcIhvv"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Move On",
         "url": "https://open.spotify.com/album/5kK0N3M1FTlqaTM6mCPKyd"
       },
@@ -2179,6 +2163,22 @@
       "duration_ms": 218027,
       "name": "Move On",
       "url": "https://open.spotify.com/track/4FoGNyJaWEY5g4N0AHBM3K"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Live from the Artists Den: Season 2",
+        "url": "https://open.spotify.com/album/0kZaBpZZZINkqWpH5VvrXG"
+      },
+      "artists": [
+        {
+          "name": "Corinne Bailey Rae",
+          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
+        }
+      ],
+      "duration_ms": 268853,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/6XaV2S7rtFLMw2YBXcIhvv"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2231,22 +2231,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "No Pressure",
-        "url": "https://open.spotify.com/album/64aMsMjyIBGTpIIWSFg4p7"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 196484,
-      "name": "No Pressure",
-      "url": "https://open.spotify.com/track/5Sr3ppJ2yQEHPTjKPHbKuU"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Kaleidoscope Dream",
         "url": "https://open.spotify.com/album/0vlIws8YGMQAbMEkubJgAP"
       },
@@ -2283,6 +2267,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/64aMsMjyIBGTpIIWSFg4p7"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 196484,
+      "name": "No Pressure",
+      "url": "https://open.spotify.com/track/5Sr3ppJ2yQEHPTjKPHbKuU"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/5QpKwmnzXq00f9W43yeAhY"
       },
@@ -2315,22 +2315,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Loose Tonight",
-        "url": "https://open.spotify.com/album/4VOUTfka8VJP2aiHYDcP7D"
-      },
-      "artists": [
-        {
-          "name": "Hips",
-          "url": "https://open.spotify.com/artist/0m9ekHCOGq5A4NxMagH8wP"
-        }
-      ],
-      "duration_ms": 272333,
-      "name": "Loose Tonight",
-      "url": "https://open.spotify.com/track/2nKgKHYLYnhzC1t3zvRzeL"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Say Less",
         "url": "https://open.spotify.com/album/2VLY0KLCsRkanyaL5PSruh"
       },
@@ -2343,6 +2327,22 @@
       "duration_ms": 172874,
       "name": "Little Bit of Lovin",
       "url": "https://open.spotify.com/track/15iPPD2UhkZs71jPXG8a08"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Loose Tonight",
+        "url": "https://open.spotify.com/album/4VOUTfka8VJP2aiHYDcP7D"
+      },
+      "artists": [
+        {
+          "name": "Hips",
+          "url": "https://open.spotify.com/artist/0m9ekHCOGq5A4NxMagH8wP"
+        }
+      ],
+      "duration_ms": 272333,
+      "name": "Loose Tonight",
+      "url": "https://open.spotify.com/track/2nKgKHYLYnhzC1t3zvRzeL"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2387,22 +2387,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Man of the Woods",
-        "url": "https://open.spotify.com/album/01l3jTY261V3CESZR4dABz"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 258506,
-      "name": "Higher Higher",
-      "url": "https://open.spotify.com/track/7GfhZZq8plOVTeqsDMbftc"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Limbo/Lagune",
         "url": "https://open.spotify.com/album/04B1wnvfsJF97vAf4pUaLJ"
       },
@@ -2415,6 +2399,22 @@
       "duration_ms": 209090,
       "name": "Deja vu",
       "url": "https://open.spotify.com/track/0tingGcGmcXnRozU493hbr"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Man of the Woods",
+        "url": "https://open.spotify.com/album/01l3jTY261V3CESZR4dABz"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 258506,
+      "name": "Higher Higher",
+      "url": "https://open.spotify.com/track/7GfhZZq8plOVTeqsDMbftc"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2439,22 +2439,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Playing For You",
-        "url": "https://open.spotify.com/album/0SI5ac5z1UBwebBw1pSKjD"
-      },
-      "artists": [
-        {
-          "name": "Joe Hertz",
-          "url": "https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman"
-        }
-      ],
-      "duration_ms": 258895,
-      "name": "Playing For You",
-      "url": "https://open.spotify.com/track/3DmMNjjYb4xedWBXAN6IUM"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Living My Life",
         "url": "https://open.spotify.com/album/4EsGuoM79PDO7tQwqAwjKC"
       },
@@ -2467,6 +2451,22 @@
       "duration_ms": 362293,
       "name": "My Jamaican Guy",
       "url": "https://open.spotify.com/track/7zcC5yZZp1IKnI73ztsIaE"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Playing For You",
+        "url": "https://open.spotify.com/album/0SI5ac5z1UBwebBw1pSKjD"
+      },
+      "artists": [
+        {
+          "name": "Joe Hertz",
+          "url": "https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman"
+        }
+      ],
+      "duration_ms": 258895,
+      "name": "Playing For You",
+      "url": "https://open.spotify.com/track/3DmMNjjYb4xedWBXAN6IUM"
     },
     {
       "added_at": "2023-02-10 11:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "All your favourite holiday jazz classics for your christmas dinner party.",
-  "num_followers": 105175,
+  "num_followers": 105157,
   "original_name": "Jazzy Christmas Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjczMjI0NiwwMDAwMDAwMDI0YjA1MWViNzE0MWJjODdiMDliYmFlODMzNjEwZDNi",
+  "snapshot_id": "MTY3MjczMjI0NiwwMDAwMDAwMGI4MjM1MDRiYjRjZWNjZDVmYTViYmIyZDgwYWNjYzVi",
   "tracks": [
     {
       "added_at": "2023-01-03 07:50:46",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-01-03 07:50:46",
       "album": {
-        "name": "Christmas Classics",
-        "url": "https://open.spotify.com/album/3f22Ap0VSZYWsqrGcphUnY"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole Trio",
-          "url": "https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ"
-        }
-      ],
-      "duration_ms": 151333,
-      "name": "All I Want For Christmas (Is My Two Front Teeth)",
-      "url": "https://open.spotify.com/track/4xXMJbzVQSCyprr4PG5sBj"
-    },
-    {
-      "added_at": "2023-01-03 07:50:46",
-      "album": {
         "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
         "url": "https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 163130,
       "name": "The Chipmunk Song",
       "url": "https://open.spotify.com/track/0fQOIeqzT092q2p8wDDBYl"
+    },
+    {
+      "added_at": "2023-01-03 07:50:46",
+      "album": {
+        "name": "Christmas Classics",
+        "url": "https://open.spotify.com/album/3f22Ap0VSZYWsqrGcphUnY"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole Trio",
+          "url": "https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ"
+        }
+      ],
+      "duration_ms": 151333,
+      "name": "All I Want For Christmas (Is My Two Front Teeth)",
+      "url": "https://open.spotify.com/track/4xXMJbzVQSCyprr4PG5sBj"
     },
     {
       "added_at": "2023-01-03 07:50:46",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-01-03 07:50:46",
       "album": {
+        "name": "Mistletoe And Holly",
+        "url": "https://open.spotify.com/album/0GQGvFHYPbLc3jZR11f8Hu"
+      },
+      "artists": [
+        {
+          "name": "Ben & Katsy",
+          "url": "https://open.spotify.com/artist/7zk65sKwJHv61CsjCr8PVw"
+        }
+      ],
+      "duration_ms": 146510,
+      "name": "Mistletoe And Holly",
+      "url": "https://open.spotify.com/track/5SEjKY2Q0hQTmSfd8lHnGJ"
+    },
+    {
+      "added_at": "2023-01-03 07:50:46",
+      "album": {
         "name": "Louis Wishes You a Cool Yule",
         "url": "https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 175001,
       "name": "Christmas In New Orleans",
       "url": "https://open.spotify.com/track/280jC1bGyGtZq3VXsSk6hH"
-    },
-    {
-      "added_at": "2023-01-03 07:50:46",
-      "album": {
-        "name": "Mistletoe And Holly",
-        "url": "https://open.spotify.com/album/0GQGvFHYPbLc3jZR11f8Hu"
-      },
-      "artists": [
-        {
-          "name": "Ben & Katsy",
-          "url": "https://open.spotify.com/artist/7zk65sKwJHv61CsjCr8PVw"
-        }
-      ],
-      "duration_ms": 146510,
-      "name": "Mistletoe And Holly",
-      "url": "https://open.spotify.com/track/5SEjKY2Q0hQTmSfd8lHnGJ"
     },
     {
       "added_at": "2023-01-03 07:50:46",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-01-03 07:50:46",
       "album": {
-        "name": "I Wish It Would Snow",
-        "url": "https://open.spotify.com/album/6l7uq39brjSI3uEacWRkDP"
-      },
-      "artists": [
-        {
-          "name": "Dave Barnes",
-          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
-        }
-      ],
-      "duration_ms": 165596,
-      "name": "I Wish It Would Snow",
-      "url": "https://open.spotify.com/track/78pwKtHN83mApILvMcp2ZL"
-    },
-    {
-      "added_at": "2023-01-03 07:50:46",
-      "album": {
         "name": "Busy Santa",
         "url": "https://open.spotify.com/album/2Q8zMZnQ3GkbpTiqLleuQD"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 200872,
       "name": "Busy Santa",
       "url": "https://open.spotify.com/track/6mupcBc2lZIzSLhpaAzGtM"
+    },
+    {
+      "added_at": "2023-01-03 07:50:46",
+      "album": {
+        "name": "I Wish It Would Snow",
+        "url": "https://open.spotify.com/album/6l7uq39brjSI3uEacWRkDP"
+      },
+      "artists": [
+        {
+          "name": "Dave Barnes",
+          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
+        }
+      ],
+      "duration_ms": 165596,
+      "name": "I Wish It Would Snow",
+      "url": "https://open.spotify.com/track/78pwKtHN83mApILvMcp2ZL"
     },
     {
       "added_at": "2023-01-03 07:50:46",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-01-03 07:50:46",
       "album": {
-        "name": "That Holiday Feelin'",
-        "url": "https://open.spotify.com/album/73x03sZD5Xkb6cOqbJ5R1j"
-      },
-      "artists": [
-        {
-          "name": "Joe Williams",
-          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
-        }
-      ],
-      "duration_ms": 313066,
-      "name": "Christmas Rainbows",
-      "url": "https://open.spotify.com/track/3YriJtNU0FTmdTE8vZUaxd"
-    },
-    {
-      "added_at": "2023-01-03 07:50:46",
-      "album": {
         "name": "Billy Eckstine Sings",
         "url": "https://open.spotify.com/album/75Xfs589ceaAnTYsOvHKqC"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 185293,
       "name": "Christmas Eve",
       "url": "https://open.spotify.com/track/57vYmspSByGGELFVb4e8Tz"
+    },
+    {
+      "added_at": "2023-01-03 07:50:46",
+      "album": {
+        "name": "That Holiday Feelin'",
+        "url": "https://open.spotify.com/album/73x03sZD5Xkb6cOqbJ5R1j"
+      },
+      "artists": [
+        {
+          "name": "Joe Williams",
+          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
+        }
+      ],
+      "duration_ms": 313066,
+      "name": "Christmas Rainbows",
+      "url": "https://open.spotify.com/track/3YriJtNU0FTmdTE8vZUaxd"
     },
     {
       "added_at": "2023-01-03 07:50:46",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Barbi Recanati en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,258 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,267 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 19 | [FILA 14](https://open.spotify.com/track/3bzhWqjLW4YWUqC3hPLFJ8) | [Los Dynamite](https://open.spotify.com/artist/1GKdmNdhZtLT9oCmtAEFL9) | [FILA 14](https://open.spotify.com/album/5utuRSmD6b2yBYHO5iDiTC) | 2:29 |
 | 20 | [Celosa](https://open.spotify.com/track/7jD6f0JGn3S4wwQlx9P5g3) | [ANGEL22](https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44) | [ANGEL22](https://open.spotify.com/album/5uXD1YCyJ5Cwh7O0JHWnVL) | 2:30 |
 | 21 | [El piso es lava](https://open.spotify.com/track/7qbzTM4Vl02UfrB8Oq5K6y) | [Todo Aparenta Normal](https://open.spotify.com/artist/3wsEppaZbJOYZEtwMfNI0o), [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A) | [El piso es lava](https://open.spotify.com/album/3V2UVfnQpccVj661MB97Bm) | 4:05 |
-| 22 | [Rockstar](https://open.spotify.com/track/42JgLal0sNYZTp7WbmmpAm) | [KRISTAL](https://open.spotify.com/artist/7AZMHZVrYudHtNLQbXdJ7e), [Laura Stangl](https://open.spotify.com/artist/006sULnXnohbBzQaISk1tr) | [ROCKSTAR](https://open.spotify.com/album/4D8eO2vT31B0TZl0bIj3do) | 2:34 |
+| 22 | [ROCKSTAR](https://open.spotify.com/track/42JgLal0sNYZTp7WbmmpAm) | [KRISTAL](https://open.spotify.com/artist/7AZMHZVrYudHtNLQbXdJ7e), [Laura Stangl](https://open.spotify.com/artist/006sULnXnohbBzQaISk1tr) | [ROCKSTAR](https://open.spotify.com/album/4D8eO2vT31B0TZl0bIj3do) | 2:34 |
 | 23 | [Jardines](https://open.spotify.com/track/4xvuJOjKCZCdGwbr2Hfz61) | [Mad Tree](https://open.spotify.com/artist/7ozAaEiZsgJUvQ8TDm6X1h) | [Así Hablan Los Pájaros](https://open.spotify.com/album/3wTBXeIlfG8qeV1RQav0C2) | 3:38 |
 | 24 | [Luces Sensacional \(Mix 2023\)](https://open.spotify.com/track/4gieSKYjJUoG4uANeB73gZ) | [Los Látigos](https://open.spotify.com/artist/4gQjSrUccdskocfsE4L1MF) | [Luces Sensacional \(Mix 2023\)](https://open.spotify.com/album/6WwwORnLcqBTUFu6eELXnJ) | 4:20 |
 | 25 | [Kiss Anymore](https://open.spotify.com/track/4P6kBonVlZ6xv2E57IPrII) | [Banana Leaf Boy](https://open.spotify.com/artist/76fnNniEsJceBtSKOneZyY) | [Kiss Anymore](https://open.spotify.com/album/4oAHzZj9R5uycWfYPTzE0M) | 3:07 |

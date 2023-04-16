@@ -1,12 +1,12 @@
 {
   "description": "The most romantic tracks of all time, featuring today's hits and all the classics.",
-  "num_followers": 551625,
+  "num_followers": 551754,
   "original_name": "Valentine's Day Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY0MTE1NSwwMDAwMDAwMDkzOGJmNjJlM2QyYzZlMTYyYjU3MDYxMzc2NGEzZmJj",
+  "snapshot_id": "MTY3NjY0MTE1NSwwMDAwMDAwMGViYzVmM2EwNmI1MjllZTIwYmNiYjhhYWE0MDVhZWI2",
   "tracks": [
     {
       "added_at": "2023-02-14 15:24:25",
@@ -607,26 +607,6 @@
     {
       "added_at": "2023-02-14 15:24:25",
       "album": {
-        "name": "Different Man",
-        "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        },
-        {
-          "name": "Katelyn Brown",
-          "url": "https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB"
-        }
-      ],
-      "duration_ms": 174560,
-      "name": "Thank God",
-      "url": "https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8"
-    },
-    {
-      "added_at": "2023-02-14 15:24:25",
-      "album": {
         "name": "Come On Over",
         "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
+    },
+    {
+      "added_at": "2023-02-14 15:24:25",
+      "album": {
+        "name": "Different Man",
+        "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "Katelyn Brown",
+          "url": "https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB"
+        }
+      ],
+      "duration_ms": 174560,
+      "name": "Thank God",
+      "url": "https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8"
     },
     {
       "added_at": "2023-02-14 15:24:25",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-02-14 15:24:25",
       "album": {
-        "name": "Into The Light",
-        "url": "https://open.spotify.com/album/5Yi08NDFoVAnvHoXqpp9O5"
-      },
-      "artists": [
-        {
-          "name": "Chris de Burgh",
-          "url": "https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U"
-        }
-      ],
-      "duration_ms": 256173,
-      "name": "The Lady In Red",
-      "url": "https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO"
-    },
-    {
-      "added_at": "2023-02-14 15:24:25",
-      "album": {
         "name": "Repeat Offender",
         "url": "https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 264333,
       "name": "Right Here Waiting",
       "url": "https://open.spotify.com/track/4LFwNJWoj74Yd71fIr1W8x"
+    },
+    {
+      "added_at": "2023-02-14 15:24:25",
+      "album": {
+        "name": "Into The Light",
+        "url": "https://open.spotify.com/album/5Yi08NDFoVAnvHoXqpp9O5"
+      },
+      "artists": [
+        {
+          "name": "Chris de Burgh",
+          "url": "https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U"
+        }
+      ],
+      "duration_ms": 256173,
+      "name": "The Lady In Red",
+      "url": "https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO"
     },
     {
       "added_at": "2023-02-14 15:24:25",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-02-14 15:24:25",
       "album": {
-        "name": "If You Love Her",
-        "url": "https://open.spotify.com/album/5hgwPA78vCrhEDaTazNMyR"
-      },
-      "artists": [
-        {
-          "name": "Forest Blakk",
-          "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
-        }
-      ],
-      "duration_ms": 217351,
-      "name": "If You Love Her",
-      "url": "https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY"
-    },
-    {
-      "added_at": "2023-02-14 15:24:25",
-      "album": {
         "name": "Room For Squares",
         "url": "https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48"
       },
@@ -1019,18 +1003,18 @@
     {
       "added_at": "2023-02-14 15:24:25",
       "album": {
-        "name": "The Stranger (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
+        "name": "If You Love Her",
+        "url": "https://open.spotify.com/album/5hgwPA78vCrhEDaTazNMyR"
       },
       "artists": [
         {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          "name": "Forest Blakk",
+          "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
         }
       ],
-      "duration_ms": 201373,
-      "name": "She's Always a Woman",
-      "url": "https://open.spotify.com/track/5RgFlk1fcClZd0Y4SGYhqH"
+      "duration_ms": 217351,
+      "name": "If You Love Her",
+      "url": "https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY"
     },
     {
       "added_at": "2023-02-14 15:24:25",
@@ -1047,6 +1031,22 @@
       "duration_ms": 227426,
       "name": "Die A Happy Man",
       "url": "https://open.spotify.com/track/5kNe7PE09d6Kvw5pAsx23n"
+    },
+    {
+      "added_at": "2023-02-14 15:24:25",
+      "album": {
+        "name": "The Stranger (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 201373,
+      "name": "She's Always a Woman",
+      "url": "https://open.spotify.com/track/5RgFlk1fcClZd0Y4SGYhqH"
     },
     {
       "added_at": "2023-02-14 15:24:25",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-02-14 15:24:25",
       "album": {
-        "name": "The Very Best of Frankie Valli & The 4 Seasons",
-        "url": "https://open.spotify.com/album/0NUEQILaBzavnzcMEs4buZ"
-      },
-      "artists": [
-        {
-          "name": "Frankie Valli",
-          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
-        }
-      ],
-      "duration_ms": 203240,
-      "name": "Can't Take My Eyes off You",
-      "url": "https://open.spotify.com/track/6ft9PAgNOjmZ2kFVP7LGqb"
-    },
-    {
-      "added_at": "2023-02-14 15:24:25",
-      "album": {
         "name": "Call Me Irresponsible",
         "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 212373,
       "name": "Everything",
       "url": "https://open.spotify.com/track/4T6HLdP6OcAtqC6tGnQelG"
+    },
+    {
+      "added_at": "2023-02-14 15:24:25",
+      "album": {
+        "name": "The Very Best of Frankie Valli & The 4 Seasons",
+        "url": "https://open.spotify.com/album/0NUEQILaBzavnzcMEs4buZ"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli",
+          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
+        }
+      ],
+      "duration_ms": 203240,
+      "name": "Can't Take My Eyes off You",
+      "url": "https://open.spotify.com/track/6ft9PAgNOjmZ2kFVP7LGqb"
     },
     {
       "added_at": "2023-02-14 15:24:25",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2023-02-14 15:24:25",
       "album": {
+        "name": "When a Man Loves a Woman",
+        "url": "https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M"
+      },
+      "artists": [
+        {
+          "name": "Percy Sledge",
+          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
+        }
+      ],
+      "duration_ms": 173866,
+      "name": "When a Man Loves a Woman",
+      "url": "https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av"
+    },
+    {
+      "added_at": "2023-02-14 15:24:25",
+      "album": {
         "name": "I Can Stand A Little Rain",
         "url": "https://open.spotify.com/album/3pZNBYMFG6OSNuajvsdN4Q"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 187720,
       "name": "She",
       "url": "https://open.spotify.com/track/31Tp5iKrVUayn65qhg06nE"
-    },
-    {
-      "added_at": "2023-02-14 15:24:25",
-      "album": {
-        "name": "When a Man Loves a Woman",
-        "url": "https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M"
-      },
-      "artists": [
-        {
-          "name": "Percy Sledge",
-          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
-        }
-      ],
-      "duration_ms": 173866,
-      "name": "When a Man Loves a Woman",
-      "url": "https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av"
     },
     {
       "added_at": "2023-02-14 15:24:25",
@@ -1555,26 +1555,6 @@
     {
       "added_at": "2023-02-14 15:24:25",
       "album": {
-        "name": "Chasing After You (with Maren Morris)",
-        "url": "https://open.spotify.com/album/5QUwCi1lbk0kZ5k87fRNbK"
-      },
-      "artists": [
-        {
-          "name": "Ryan Hurd",
-          "url": "https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 207973,
-      "name": "Chasing After You (with Maren Morris)",
-      "url": "https://open.spotify.com/track/1ZIKpMTRPqhwAoVXWY3tXI"
-    },
-    {
-      "added_at": "2023-02-14 15:24:25",
-      "album": {
         "name": "Surfacing",
         "url": "https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP"
       },
@@ -1603,6 +1583,26 @@
       "duration_ms": 205453,
       "name": "Marry Me",
       "url": "https://open.spotify.com/track/2MWOqewf5j0qf2b6S5J6cS"
+    },
+    {
+      "added_at": "2023-02-14 15:24:25",
+      "album": {
+        "name": "Chasing After You (with Maren Morris)",
+        "url": "https://open.spotify.com/album/5QUwCi1lbk0kZ5k87fRNbK"
+      },
+      "artists": [
+        {
+          "name": "Ryan Hurd",
+          "url": "https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 207973,
+      "name": "Chasing After You (with Maren Morris)",
+      "url": "https://open.spotify.com/track/1ZIKpMTRPqhwAoVXWY3tXI"
     },
     {
       "added_at": "2023-02-14 15:24:25",

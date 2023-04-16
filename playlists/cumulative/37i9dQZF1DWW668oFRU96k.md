@@ -4,7 +4,7 @@
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Diplo + Dove Cameron
 
-234 songs - 11 hr 41 min
+235 songs - 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,8 @@
 | [Living For Love](https://open.spotify.com/track/2IxtpD4O1qJpcj1EOs5pTw) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [Natty Rico](https://open.spotify.com/artist/4XjCsLo0E4017wblpE9BDL) | [Living For Love](https://open.spotify.com/album/0dOdtCTbMPftykOIPwWo9W) | 2:37 | 2023-02-23 | 2023-03-31 |
 | [Look Where We Are](https://open.spotify.com/track/4I3kvtjNBcJWI7H9bszT75) | [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW), [Willim](https://open.spotify.com/artist/5bp5XaFz8Py4UFEhQ6FZRk) | [Look Where We Are](https://open.spotify.com/album/108Pp4ZFqOsChhw1g9MFFD) | 3:12 | 2023-02-02 | 2023-03-25 |
 | [Losing My Head](https://open.spotify.com/track/3eQZbK5mweA7WkbPnSaejl) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [Losing My Head](https://open.spotify.com/album/3JWoL41S9fFXbMooVYxvCz) | 3:09 | 2023-02-09 | 2023-02-17 |
-| [Love You Anyway](https://open.spotify.com/track/05JTD0bHgbmKrUnieqtEGU) | [Tweellve](https://open.spotify.com/artist/0DejclZvFobqZbbfiVZAsF) | [Love You Anyway](https://open.spotify.com/album/6osNz07wM86LL8fm0vFFw1) | 2:58 | 2023-04-06 |  |
+| [Love You Anyway](https://open.spotify.com/track/05JTD0bHgbmKrUnieqtEGU) | [Tweellve](https://open.spotify.com/artist/0DejclZvFobqZbbfiVZAsF) | [Love You Anyway](https://open.spotify.com/album/6osNz07wM86LL8fm0vFFw1) | 2:58 | 2023-04-06 | 2023-04-16 |
+| [Love You Anyway](https://open.spotify.com/track/7fbagCDljK2tqvJOcpgSEx) | [Tweellve](https://open.spotify.com/artist/0DejclZvFobqZbbfiVZAsF) | [Love You Anyway](https://open.spotify.com/album/7He4g7bd15rvo5sZpRkuks) | 2:58 | 2023-04-13 |  |
 | [Loveline](https://open.spotify.com/track/1srU3olawRkqWsazU5neT0) | [Midnight Avenue](https://open.spotify.com/artist/3HdMVp3ihVW0oKXYfHirzw), [FIXL](https://open.spotify.com/artist/0Kxf9SzJfQfE0o80i5N3Li), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Loveline](https://open.spotify.com/album/2PM0UsUjuGkSuLGzho3gdI) | 2:37 | 2023-02-02 | 2023-03-18 |
 | [Lucky Ones](https://open.spotify.com/track/5aYA3xB53IuRAMp0jZ1al1) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Lucky Ones](https://open.spotify.com/album/6KZkiVwe0aEu3ypYWNyO6R) | 3:35 | 2023-03-09 | 2023-04-14 |
 | [Lucky Ones](https://open.spotify.com/track/3pc3XHhHHZLQikQCk6q8FP) | [Waxel](https://open.spotify.com/artist/2ntcMtENqlteqaa8NdB087), [Kaiz3n](https://open.spotify.com/artist/3rmJcFPohTWLXDUMOdzlJC), [PRD](https://open.spotify.com/artist/3MhsYmRrIr7YrhADT3l6WL), [PRYVT RYN](https://open.spotify.com/artist/6zq6KNF09GUIFltBdxaSb0) | [Lucky Ones](https://open.spotify.com/album/6HSakqCRVLCCj2tdNAjwRG) | 3:11 | 2023-03-16 |  |

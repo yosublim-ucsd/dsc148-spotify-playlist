@@ -421,6 +421,24 @@
     },
     {
       "album": {
+        "name": "Al Aram\u0131zdan",
+        "url": "https://open.spotify.com/album/6hxlscwVxcHll5lq1bHnZl"
+      },
+      "artists": [
+        {
+          "name": "K\u00d6FN",
+          "url": "https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171382,
+      "name": "Al Aram\u0131zdan",
+      "url": "https://open.spotify.com/track/6Uaw8GEKP6AxIMNUyi6q6w"
+    },
+    {
+      "album": {
         "name": "Al Sevgilim",
         "url": "https://open.spotify.com/album/3ToGL3pGP4wYodmOBxj9lA"
       },
@@ -604,6 +622,28 @@
       "duration_ms": 269693,
       "name": "Anla",
       "url": "https://open.spotify.com/track/5SFBaOi2ELB2P5tFzmcD73"
+    },
+    {
+      "album": {
+        "name": "ANLARSIN",
+        "url": "https://open.spotify.com/album/1u95gvoiah3kNlf4s2sBjZ"
+      },
+      "artists": [
+        {
+          "name": "cakal",
+          "url": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2"
+        },
+        {
+          "name": "Era7capone",
+          "url": "https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178378,
+      "name": "ANLARSIN",
+      "url": "https://open.spotify.com/track/7422iH48oKjQzRNC8khQnK"
     },
     {
       "album": {
@@ -2068,7 +2108,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 204320,
       "name": "Bir Derdim Var",
       "url": "https://open.spotify.com/track/5UV2oqgMXvlkOvvtK3aT7f"
@@ -3897,6 +3937,24 @@
     },
     {
       "album": {
+        "name": "Feryat",
+        "url": "https://open.spotify.com/album/7u4X18F6fxNlsLfluWXHUs"
+      },
+      "artists": [
+        {
+          "name": "Hadise",
+          "url": "https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185060,
+      "name": "Feryat",
+      "url": "https://open.spotify.com/track/10SXKV8mddSJm6Dsj0Oe4s"
+    },
+    {
+      "album": {
         "name": "FEST\u0130VAL",
         "url": "https://open.spotify.com/album/3HGvrhL5kRdzZzay6jOou1"
       },
@@ -4446,7 +4504,7 @@
       ],
       "date_added": "2021-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 207915,
       "name": "Gitme",
       "url": "https://open.spotify.com/track/4Sng3wnol2Gb2yXgFdr9lj"
@@ -5366,7 +5424,7 @@
       ],
       "date_added": "2022-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 185333,
       "name": "Herkes Gibisin",
       "url": "https://open.spotify.com/track/7jnN5sT8rk6PIvBZRWYdJj"
@@ -5962,7 +6020,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 156233,
       "name": "\u0130ntikam",
       "url": "https://open.spotify.com/track/3bzRdp5Q2GpwCqTSZsouqP"
@@ -8943,6 +9001,24 @@
     },
     {
       "album": {
+        "name": "Pen\u00e7e",
+        "url": "https://open.spotify.com/album/3vaQY7xSf4KjNSL0Ku0vdg"
+      },
+      "artists": [
+        {
+          "name": "Melike \u015eahin",
+          "url": "https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229225,
+      "name": "Pen\u00e7e",
+      "url": "https://open.spotify.com/track/1ol3ppkqUsSfMTJ9gv3bWP"
+    },
+    {
+      "album": {
         "name": "Peri",
         "url": "https://open.spotify.com/album/25nUqvm2yszXUWCIg4cRAg"
       },
@@ -10514,7 +10590,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-12",
+      "date_removed": null,
       "duration_ms": 171894,
       "name": "Su\u00e7lar\u0131mdan Biri",
       "url": "https://open.spotify.com/track/65tIJClJx8fHo6YW4wVDhi"
@@ -11100,7 +11176,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 250218,
       "name": "Unuttun mu Beni",
       "url": "https://open.spotify.com/track/0x9154bA7PgqF6Za1CtszP"

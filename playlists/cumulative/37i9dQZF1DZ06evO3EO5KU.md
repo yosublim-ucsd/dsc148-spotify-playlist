@@ -4,7 +4,7 @@
 
 > This is Los Plebes del Rancho de Ariel Camacho\. The essential tracks, all in one playlist.
 
-78 songs - 4 hr 17 min
+79 songs - 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [DEL Negociante](https://open.spotify.com/track/55gDXEcj1heJNWZU2Ah5HH) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo](https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc) | 3:23 | 2022-06-01 |  |
 | [Descargas Del R 15](https://open.spotify.com/track/1FT7A7MjkRAceyZjYIMjhI) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [\(En Vivo\) con Banda Sinaloense La Tuyia de Culiacan, Sinaloa \(Vol 2\)](https://open.spotify.com/album/13ypsbRldKgFVj9npcAl4A) | 3:31 | 2022-06-01 | 2022-08-26 |
 | [Duren](https://open.spotify.com/track/11Hyc6dj7gEuTobhK9HDWa) | [Giovanny Ayala](https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Duren](https://open.spotify.com/album/3opbMuXUbqktLyqgZ0W7Cx) | 3:10 | 2022-08-16 |  |
+| [El Cholo Iván \- En Vivo](https://open.spotify.com/track/6luTTNib9LsQc0trSP4121) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [El Cholo Iván \(En Vivo\)](https://open.spotify.com/album/5fFIZpur4giaSJLfT69ZuU) | 3:28 | 2023-04-15 |  |
 | [El Destroyer](https://open.spotify.com/track/2qMX1kP7iX5LqJT7iuQYrl) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [El Destroyer](https://open.spotify.com/album/4WG0oUlZ4sX2uP8SYDklzA) | 2:53 | 2022-09-03 | 2023-04-01 |
 | [El Doble R \- En Vivo](https://open.spotify.com/track/2WeNqWQXNq8gXhiSPvH0yZ) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [El Doble R \(En Vivo\)](https://open.spotify.com/album/7pf3JcYWMmFGYNC8sCqmdv) | 2:24 | 2022-09-14 |  |
 | [El Güero Colorado](https://open.spotify.com/track/0QBOB9Cf0XZ9mzvq2ZdDJa) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Nació Pa' Leyenda](https://open.spotify.com/album/2ctNHopUQHri09MYsc33q1) | 3:39 | 2022-12-03 |  |

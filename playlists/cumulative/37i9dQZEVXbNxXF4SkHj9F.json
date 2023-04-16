@@ -3275,6 +3275,24 @@
     },
     {
       "album": {
+        "name": "Chemical",
+        "url": "https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184013,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
+    },
+    {
+      "album": {
         "name": "CHESHIRE",
         "url": "https://open.spotify.com/album/1E5swTfZ9FF5ECxH1N7EvL"
       },
@@ -8144,7 +8162,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 239026,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/2lsRp40mCRkhqULWdMbOzn"
@@ -9099,6 +9117,102 @@
     },
     {
       "album": {
+        "name": "keep our love alive",
+        "url": "https://open.spotify.com/album/2SSeECDl5pq9d27DgddboH"
+      },
+      "artists": [
+        {
+          "name": "Akame",
+          "url": "https://open.spotify.com/artist/13xYfJOINDVvMZ3EqcPUVB"
+        },
+        {
+          "name": "Yukura",
+          "url": "https://open.spotify.com/artist/2Vhn3KVzJ02cObdPyvjLk2"
+        },
+        {
+          "name": "sixaiti",
+          "url": "https://open.spotify.com/artist/0QAozzhSO2D3WvSCgdv8v9"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75833,
+      "name": "keep our love alive",
+      "url": "https://open.spotify.com/track/4F0ft3ZDmIN7xz4HxYW7y0"
+    },
+    {
+      "album": {
+        "name": "keep our love alive",
+        "url": "https://open.spotify.com/album/2SSeECDl5pq9d27DgddboH"
+      },
+      "artists": [
+        {
+          "name": "Akame",
+          "url": "https://open.spotify.com/artist/13xYfJOINDVvMZ3EqcPUVB"
+        },
+        {
+          "name": "Yukura",
+          "url": "https://open.spotify.com/artist/2Vhn3KVzJ02cObdPyvjLk2"
+        },
+        {
+          "name": "sixaiti",
+          "url": "https://open.spotify.com/artist/0QAozzhSO2D3WvSCgdv8v9"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87980,
+      "name": "keep our love alive v3",
+      "url": "https://open.spotify.com/track/3HEalV7Rp19wijgkBFZyje"
+    },
+    {
+      "album": {
+        "name": "keep our love alive",
+        "url": "https://open.spotify.com/album/2SSeECDl5pq9d27DgddboH"
+      },
+      "artists": [
+        {
+          "name": "Akame",
+          "url": "https://open.spotify.com/artist/13xYfJOINDVvMZ3EqcPUVB"
+        },
+        {
+          "name": "Yukura",
+          "url": "https://open.spotify.com/artist/2Vhn3KVzJ02cObdPyvjLk2"
+        },
+        {
+          "name": "sixaiti",
+          "url": "https://open.spotify.com/artist/0QAozzhSO2D3WvSCgdv8v9"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74657,
+      "name": "keep our love alive v4",
+      "url": "https://open.spotify.com/track/1wZrHQvZhhe2vTwHFN6VKi"
+    },
+    {
+      "album": {
+        "name": "keep our love alive",
+        "url": "https://open.spotify.com/album/2SSeECDl5pq9d27DgddboH"
+      },
+      "artists": [
+        {
+          "name": "Akame",
+          "url": "https://open.spotify.com/artist/13xYfJOINDVvMZ3EqcPUVB"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86935,
+      "name": "keep our love alive v5",
+      "url": "https://open.spotify.com/track/67VMTaC74dpi1e2Z8Rs1O3"
+    },
+    {
+      "album": {
         "name": "KICK BACK",
         "url": "https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B"
       },
@@ -9110,7 +9224,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 193495,
       "name": "KICK BACK",
       "url": "https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG"
@@ -10166,7 +10280,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 181400,
       "name": "Lips",
       "url": "https://open.spotify.com/track/0dRSOmb7pqkkmjXCu5BYbe"
@@ -10820,7 +10934,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 195173,
       "name": "Lovely Touch",
       "url": "https://open.spotify.com/track/7x3SGAkfIrzDr9paSslwMv"
@@ -20242,7 +20356,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 238560,
       "name": "\u3059\u305a\u3081",
       "url": "https://open.spotify.com/track/3HCGX2gmPLu6ttkbYvPGTR"

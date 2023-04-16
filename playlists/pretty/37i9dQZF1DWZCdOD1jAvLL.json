@@ -1,12 +1,12 @@
 {
   "description": "Ride the bassline. Cover: Rezz",
-  "num_followers": 205602,
+  "num_followers": 205710,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMGMwYTJjZDc5ZmY3NTYzZjY3ZjExYWY1NTE2ODVlNmE1",
+  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMGIwYzczYjVhZTMzYjRlNDUzY2ZlMzUxOTdiYTgzYzYw",
   "tracks": [
     {
       "added_at": "2023-03-31 04:00:00",
@@ -539,6 +539,30 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/5LSnkj5aoJBih89lJ21D5w"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+        }
+      ],
+      "duration_ms": 147401,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/3YCr7Q8EbWoGLByCTPmxoe"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "New Bottega",
         "url": "https://open.spotify.com/album/6dlPgHkvVUMkTBsovGFAxH"
       },
@@ -555,22 +579,6 @@
       "duration_ms": 188915,
       "name": "New Bottega",
       "url": "https://open.spotify.com/track/05IOuexttkZG6eQLFi3v40"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/45hEdeNHcpC2FIvgDMlaCP"
-      },
-      "artists": [
-        {
-          "name": "Space 92",
-          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
-        }
-      ],
-      "duration_ms": 365568,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/0VTnsXnW2kuMFlwdKSTSBy"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -599,26 +607,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Friends",
-        "url": "https://open.spotify.com/album/5LSnkj5aoJBih89lJ21D5w"
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/45hEdeNHcpC2FIvgDMlaCP"
       },
       "artists": [
         {
-          "name": "Dimitri Vegas",
-          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Chapter & Verse",
-          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
         }
       ],
-      "duration_ms": 147401,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/3YCr7Q8EbWoGLByCTPmxoe"
+      "duration_ms": 365568,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/0VTnsXnW2kuMFlwdKSTSBy"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -755,26 +755,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Party Jumpin'",
-        "url": "https://open.spotify.com/album/2OCsxR71jK4ONRHTMacXRg"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Jamie Brown",
-          "url": "https://open.spotify.com/artist/1itVP3ysVe9MMrYCeOKMsO"
-        }
-      ],
-      "duration_ms": 155555,
-      "name": "Party Jumpin'",
-      "url": "https://open.spotify.com/track/2S5e00424Wsh4bVcvV8AKc"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Nightbird",
         "url": "https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 140645,
       "name": "Be Here (La La La)",
       "url": "https://open.spotify.com/track/4JXgJ33UmguXF3F9B5LwlD"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Party Jumpin'",
+        "url": "https://open.spotify.com/album/2OCsxR71jK4ONRHTMacXRg"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Jamie Brown",
+          "url": "https://open.spotify.com/artist/1itVP3ysVe9MMrYCeOKMsO"
+        }
+      ],
+      "duration_ms": 155555,
+      "name": "Party Jumpin'",
+      "url": "https://open.spotify.com/track/2S5e00424Wsh4bVcvV8AKc"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -851,6 +851,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "Faster",
+        "url": "https://open.spotify.com/album/4cIrSFEwm1MVc53X9XdACU"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        }
+      ],
+      "duration_ms": 180517,
+      "name": "Faster",
+      "url": "https://open.spotify.com/track/2EZ27G58YiHySXVFR1R14I"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Rabbit Hole",
         "url": "https://open.spotify.com/album/0wanFcSpIzJwxpEIgr7sVe"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 238736,
       "name": "Rabbit Hole",
       "url": "https://open.spotify.com/track/4T2i7b1SkRTGHmT5Xr6ym9"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Faster",
-        "url": "https://open.spotify.com/album/4cIrSFEwm1MVc53X9XdACU"
-      },
-      "artists": [
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        }
-      ],
-      "duration_ms": 180517,
-      "name": "Faster",
-      "url": "https://open.spotify.com/track/2EZ27G58YiHySXVFR1R14I"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -943,6 +943,26 @@
       "duration_ms": 157036,
       "name": "HEADSH\u00d6T",
       "url": "https://open.spotify.com/track/1I53j1Vvwkla8P2JIecioT"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Synergy",
+        "url": "https://open.spotify.com/album/10FiVORbZ6sRGYLWkP3PQ4"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "DVBBS",
+          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
+        }
+      ],
+      "duration_ms": 209714,
+      "name": "Synergy",
+      "url": "https://open.spotify.com/track/5KkxBEAqnxcfibAepMZSyA"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1039,6 +1059,26 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "HYPNOSIS",
+        "url": "https://open.spotify.com/album/1AFn827ZpGac5mVf7wPa6q"
+      },
+      "artists": [
+        {
+          "name": "AYYBO",
+          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
+        },
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        }
+      ],
+      "duration_ms": 158583,
+      "name": "HYPNOSIS",
+      "url": "https://open.spotify.com/track/7Hrdx0AjXCVQX6qnQiJ7We"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "BACK ONLINE",
         "url": "https://open.spotify.com/album/4Jo971sLoS2lO4bf9hKe2j"
       },
@@ -1063,26 +1103,6 @@
       "duration_ms": 217846,
       "name": "BACK ONLINE",
       "url": "https://open.spotify.com/track/46bI9wmq6kDJJ3yAqTvkzH"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "HYPNOSIS",
-        "url": "https://open.spotify.com/album/1AFn827ZpGac5mVf7wPa6q"
-      },
-      "artists": [
-        {
-          "name": "AYYBO",
-          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
-        },
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        }
-      ],
-      "duration_ms": 158583,
-      "name": "HYPNOSIS",
-      "url": "https://open.spotify.com/track/7Hrdx0AjXCVQX6qnQiJ7We"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1263,26 +1283,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Molotov",
-        "url": "https://open.spotify.com/album/1EdnERTVSGKrVPNq7tb44e"
-      },
-      "artists": [
-        {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
-        },
-        {
-          "name": "Malaa",
-          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
-        }
-      ],
-      "duration_ms": 178065,
-      "name": "Molotov",
-      "url": "https://open.spotify.com/track/6FggaqcdwsE4pocJ5GaWxr"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Thrones of Blood",
         "url": "https://open.spotify.com/album/3bA9JNdeH91Id0ilofZlVX"
       },
@@ -1303,6 +1303,26 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "Molotov",
+        "url": "https://open.spotify.com/album/1EdnERTVSGKrVPNq7tb44e"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        },
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        }
+      ],
+      "duration_ms": 178065,
+      "name": "Molotov",
+      "url": "https://open.spotify.com/track/6FggaqcdwsE4pocJ5GaWxr"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Don't Miss (The Bloody Beetroots Remix)",
         "url": "https://open.spotify.com/album/3yLlpoqKPuRHhUPdvxHJCD"
       },
@@ -1319,6 +1339,22 @@
       "duration_ms": 178181,
       "name": "Don\u2019t Miss - The Bloody Beetroots Remix",
       "url": "https://open.spotify.com/track/5noYbWiU8xMYd4VEPOeFRz"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "One Touch",
+        "url": "https://open.spotify.com/album/4VCCLsmrSghXSM8dxyhVWo"
+      },
+      "artists": [
+        {
+          "name": "BAMBII",
+          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
+        }
+      ],
+      "duration_ms": 180437,
+      "name": "One Touch",
+      "url": "https://open.spotify.com/track/6DURQC9m8Rt8SjL4ZKp0Eq"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1347,22 +1383,6 @@
       "duration_ms": 190714,
       "name": "KLK",
       "url": "https://open.spotify.com/track/36B9zvERwdBR7ZtGDAqibg"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "One Touch",
-        "url": "https://open.spotify.com/album/4VCCLsmrSghXSM8dxyhVWo"
-      },
-      "artists": [
-        {
-          "name": "BAMBII",
-          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
-        }
-      ],
-      "duration_ms": 180437,
-      "name": "One Touch",
-      "url": "https://open.spotify.com/track/6DURQC9m8Rt8SjL4ZKp0Eq"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1419,26 +1439,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Heritage",
-        "url": "https://open.spotify.com/album/4hO0xNT3cqylkfL5Raw3zG"
-      },
-      "artists": [
-        {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
-        },
-        {
-          "name": "IMANU",
-          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
-        }
-      ],
-      "duration_ms": 198582,
-      "name": "Libre",
-      "url": "https://open.spotify.com/track/7KibjIxYJsdP9UGjjMUEn6"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/1VxPsvoY1SE2wWG6hStEpG"
       },
@@ -1467,6 +1467,26 @@
       "duration_ms": 204651,
       "name": "Slang Bang",
       "url": "https://open.spotify.com/track/2qYh4nKrsYsXb3T7U1VWxi"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Heritage",
+        "url": "https://open.spotify.com/album/4hO0xNT3cqylkfL5Raw3zG"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        },
+        {
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        }
+      ],
+      "duration_ms": 198582,
+      "name": "Libre",
+      "url": "https://open.spotify.com/track/7KibjIxYJsdP9UGjjMUEn6"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1555,26 +1575,6 @@
       "duration_ms": 256721,
       "name": "Hyperreal",
       "url": "https://open.spotify.com/track/3NxY6I8zzqT2F2Ue2G8BRZ"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Front To Back (feat. DLMT)",
-        "url": "https://open.spotify.com/album/2gPIAG5O5NinWCtB4yuSSR"
-      },
-      "artists": [
-        {
-          "name": "FOMO",
-          "url": "https://open.spotify.com/artist/6K4rA9ocjtIaTOEVZ4N6dX"
-        },
-        {
-          "name": "DLMT",
-          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
-        }
-      ],
-      "duration_ms": 211653,
-      "name": "Front To Back (feat. DLMT)",
-      "url": "https://open.spotify.com/track/2NNOhqpefQ8OKfibeox8El"
     }
   ],
   "unique_name": "Bangers",

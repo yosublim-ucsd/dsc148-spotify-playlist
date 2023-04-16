@@ -4,7 +4,7 @@
 
 > Epic and melodic metal \- for the dragonslayer in you! Cover: Sabaton
 
-529 songs - 1 day 16 hr 42 min
+530 songs - 1 day 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Bulletproof](https://open.spotify.com/track/3fW5bM0HE0C6SjmATeMhOp) | [Enemy Inside](https://open.spotify.com/artist/4DX0ctdZRMWec9KCiigIXy) | [Seven](https://open.spotify.com/album/7BmZ8XbskH7qzoBux13TZb) | 3:42 | 2021-08-28 | 2022-04-02 |
 | [Burial](https://open.spotify.com/track/1VkhH0SytxPrHqBYWG2R7o) | [God Is An Astronaut](https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2) | [Burial](https://open.spotify.com/album/6vqfy51SMG4lTk4TvXIGg8) | 6:04 | 2022-07-13 | 2022-07-29 |
 | [Burial](https://open.spotify.com/track/39OK2v0ZYohVbvqg4X4uDE) | [God Is An Astronaut](https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2) | [Ghost Tapes \#10](https://open.spotify.com/album/19Jy4bfbeWkmKAy7qA97oR) | 6:04 | 2022-07-13 | 2022-07-30 |
-| [Call My Name](https://open.spotify.com/track/3FkMke69v3NF3oufwhMygY) | [Sleeping Romance](https://open.spotify.com/artist/0ppFjJOvd6dhcpKktp6heM) | [Call My Name](https://open.spotify.com/album/69FOJK2zUuEdfdpLc3D7pl) | 4:27 | 2022-07-08 |  |
+| [Call My Name](https://open.spotify.com/track/3FkMke69v3NF3oufwhMygY) | [Sleeping Romance](https://open.spotify.com/artist/0ppFjJOvd6dhcpKktp6heM) | [Call My Name](https://open.spotify.com/album/69FOJK2zUuEdfdpLc3D7pl) | 4:27 | 2022-07-08 | 2023-04-16 |
 | [Call of the North](https://open.spotify.com/track/4BS6jSRHgqNjL1eSlokBBd) | [Frozen Crown](https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E) | [Call of the North](https://open.spotify.com/album/4w7w5ZXaUSAqY6qot06f5t) | 6:24 | 2022-12-16 |  |
 | [Call out the Dark](https://open.spotify.com/track/5IqvKkwIqeqc2s8DF0avei) | [Evergrey](https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D) | [A Heartless Portrait \(The Orphéan Testament\)](https://open.spotify.com/album/7ks1taIwddDv4bjFrujxn2) | 4:23 | 2022-05-20 |  |
 | [Catalyst 2.0 \- Instrumental](https://open.spotify.com/track/4jXpPRxmokNuSFS5u3GWrM) | [IAMONE](https://open.spotify.com/artist/3fhSDZ3YSUfbYQGTzlolkx) | [Catalyst 2.0 \(Instrumental\)](https://open.spotify.com/album/2gKCHN1nWT0o6E26bqaZB0) | 5:24 | 2022-07-13 | 2022-07-28 |
@@ -433,6 +433,7 @@
 | [The Bell](https://open.spotify.com/track/1g2eSCd9S2onJcfJxAcS71) | [Eye of Melian](https://open.spotify.com/artist/4o6EEebyNsDyI14s2jnB4G), [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI), [Johanna Kurkela](https://open.spotify.com/artist/7fsO7iJz8gv776THRffk0A) | [The Bell](https://open.spotify.com/album/4sw2lggNNlSRYa34GbEoTu) | 4:31 | 2021-12-11 |  |
 | [The Call of the Mountains](https://open.spotify.com/track/5P22hTnPNDK7LbAD6k7syp) | [Eluveitie](https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT), [Masha Scream](https://open.spotify.com/artist/0rKNwdazSGDxEvTaNNxu6X) | [The Call of the Mountains & Ambiramus in Russian](https://open.spotify.com/album/0ifBPqJ1ol8j1H0G8cjZPa) | 4:14 | 2020-11-29\* | 2021-07-10 |
 | [The Crown and the Ring](https://open.spotify.com/track/1HtsvQYdss4JESyNjLwK0N) | [Soulspell](https://open.spotify.com/artist/4YmdAxENgEABrxFj8zRSsA) | [The Crown and the Ring](https://open.spotify.com/album/2QGVSOtuG50JyTMa9EUQss) | 5:17 | 2021-08-14 | 2022-04-09 |
+| [The Endless Shore](https://open.spotify.com/track/1MmecgkGmAS0dpJtF0k4Is) | [Mortemia](https://open.spotify.com/artist/5RUUgjv8Q0H2osxIC3AYBi), [Ulli Perhonen](https://open.spotify.com/artist/5sVlAjN68bza0JFzEbagzH), [Nils Courbaron](https://open.spotify.com/artist/5TXDrJYFMZU5x7DqNnJcR4) | [The Endless Shore](https://open.spotify.com/album/7KnfUdPa3pZ37r3GQe6yz7) | 4:58 | 2023-04-14 |  |
 | [The Eye of Ra](https://open.spotify.com/track/79d72HkT6mQVkeeYmoswIa) | [Etherius](https://open.spotify.com/artist/2Zf0Tw5O2i9ecpqmSl5lOb) | [Chaos\. Order\. Renewal.](https://open.spotify.com/album/2nkXL3bfEip5LpyIn9oUxj) | 3:04 | 2022-07-13 | 2022-07-27 |
 | [The Final Sacrifice](https://open.spotify.com/track/4cScKIcfk0H7Awz0Yugsa2) | [Soulspell](https://open.spotify.com/artist/4YmdAxENgEABrxFj8zRSsA) | [The Final Sacrifice](https://open.spotify.com/album/2xJzhdiI0vskP79u3CYHMR) | 5:03 | 2021-05-21 | 2022-01-08 |
 | [The Fire and the Sinner](https://open.spotify.com/track/7n5VVe0Sya3ZeM3DcZqvs5) | [Timo Tolkki’s Avalon](https://open.spotify.com/artist/6UkYfNV9Y4kp00UT4D2djV), [Jake E.](https://open.spotify.com/artist/0Q29XLn4nejBlTmouEUeOO), [Brittney Slayes](https://open.spotify.com/artist/47gDQfHce3BxdKGzAbI9v0) | [The Fire and the Sinner](https://open.spotify.com/album/39dyo9LI63I2Wn4lDsBvyk) | 3:05 | 2021-05-14 | 2021-06-11 |

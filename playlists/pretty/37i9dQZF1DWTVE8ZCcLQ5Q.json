@@ -1,12 +1,12 @@
 {
   "description": "Descubra MC Paiva ZS e novos talentos brasileiros no horizonte.",
-  "num_followers": 421811,
+  "num_followers": 421809,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk5ODAwMCwwMDAwMDAwMGJkNzA3NWQ4M2U4OGU2YzhiZjU2NTJiMzdjNjFlNTQ4",
+  "snapshot_id": "MTY3NTk5ODAwMCwwMDAwMDAwMDUzYjIwYTk3NjVjN2I5OGNjNzA4YWI2NmEwNDlmYjFk",
   "tracks": [
     {
       "added_at": "2023-02-10 03:00:00",
@@ -251,6 +251,22 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
+        "name": "Pra Gente Acordar",
+        "url": "https://open.spotify.com/album/2IoDCH4Y4KTTTm399IUwzI"
+      },
+      "artists": [
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        }
+      ],
+      "duration_ms": 170410,
+      "name": "Pra Gente Acordar",
+      "url": "https://open.spotify.com/track/4uh2UmvDt2b8xrQPsWZhfv"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
         "name": "Maresia",
         "url": "https://open.spotify.com/album/0LeTsEVvfdJ86Hi7uE7CxK"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 144553,
       "name": "Maresia",
       "url": "https://open.spotify.com/track/14MmpI6ZOB9QaetEIPSzqB"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
-        "name": "Pra Gente Acordar",
-        "url": "https://open.spotify.com/album/2IoDCH4Y4KTTTm399IUwzI"
-      },
-      "artists": [
-        {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        }
-      ],
-      "duration_ms": 170410,
-      "name": "Pra Gente Acordar",
-      "url": "https://open.spotify.com/track/4uh2UmvDt2b8xrQPsWZhfv"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -339,26 +339,6 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
-        "name": "Formosa",
-        "url": "https://open.spotify.com/album/4cEk2x8T69nPNXnryzvrJI"
-      },
-      "artists": [
-        {
-          "name": "Kaio Viana",
-          "url": "https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4"
-        },
-        {
-          "name": "MC CJ",
-          "url": "https://open.spotify.com/artist/6JXRSEJa8jE6sxsjMFMozp"
-        }
-      ],
-      "duration_ms": 185831,
-      "name": "Formosa",
-      "url": "https://open.spotify.com/track/1QmupixsVNc0osesKXraZC"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
         "name": "Incr\u00edvel Jogando a Potranca",
         "url": "https://open.spotify.com/album/011KbNJxyWw5B9AUwFkFe1"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 110769,
       "name": "Incr\u00edvel Jogando a Potranca",
       "url": "https://open.spotify.com/track/2F4wyz6gkLTbyD9b5vTVoh"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
+        "name": "Formosa",
+        "url": "https://open.spotify.com/album/4cEk2x8T69nPNXnryzvrJI"
+      },
+      "artists": [
+        {
+          "name": "Kaio Viana",
+          "url": "https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4"
+        },
+        {
+          "name": "MC CJ",
+          "url": "https://open.spotify.com/artist/6JXRSEJa8jE6sxsjMFMozp"
+        }
+      ],
+      "duration_ms": 185831,
+      "name": "Formosa",
+      "url": "https://open.spotify.com/track/1QmupixsVNc0osesKXraZC"
     },
     {
       "added_at": "2023-02-10 03:00:00",

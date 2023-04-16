@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 
 > A happy place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,001 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,103 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 39 | [Make Me Believe](https://open.spotify.com/track/57j1baIxDU1WmSHajjLb3R) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX) | [Diplo \(Deluxe\)](https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7) | 3:12 |
 | 40 | [Sometimes The Going Gets A Little Tough \- Mella Dee Going Got A Bit Tougher Mix](https://open.spotify.com/track/0sseNUohdOMxlKtLHGxNH1) | [Finn](https://open.spotify.com/artist/4p8fvQcLMWToTpmezUb8T5), [Mella Dee](https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn) | [Sometimes The Going Gets A Little Tough](https://open.spotify.com/album/7hk8GE39ew5hvnrPPlhng9) | 5:39 |
 | 41 | [saudade \- Edit](https://open.spotify.com/track/3ecmX9cdy5NKeoE4GwLoV3) | [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo) | [saudade \- Edit](https://open.spotify.com/album/71QyRx58NvssqPyzBQq9B3) | 4:32 |
-| 42 | [Your Good Times Are Here](https://open.spotify.com/track/7tAGnxLiQTU0EjezyOjUj2) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Your Good Times Are Here](https://open.spotify.com/album/6nEU8r105q0illnVY0ypDh) | 4:45 |
-| 43 | [Losers \- Purple Disco Machine Remix Edit](https://open.spotify.com/track/7M8RlfP8SviqaH4kCkOkyE) | [Balthazar](https://open.spotify.com/artist/4oMBP1OWXtmxyDhAj2aRyQ), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Losers \(Purple Disco Machine Remix\)](https://open.spotify.com/album/1oSiIn6xeyDl5Ode3dHrU4) | 3:42 |
+| 42 | [Losers \- Purple Disco Machine Remix Edit](https://open.spotify.com/track/7M8RlfP8SviqaH4kCkOkyE) | [Balthazar](https://open.spotify.com/artist/4oMBP1OWXtmxyDhAj2aRyQ), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Losers \(Purple Disco Machine Remix\)](https://open.spotify.com/album/1oSiIn6xeyDl5Ode3dHrU4) | 3:42 |
+| 43 | [Your Good Times Are Here](https://open.spotify.com/track/7tAGnxLiQTU0EjezyOjUj2) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Your Good Times Are Here](https://open.spotify.com/album/6nEU8r105q0illnVY0ypDh) | 4:45 |
 | 44 | [Love If You Need It \(feat\. Fi McCluskey\) \- Mousse T.'s Classic Shizzle](https://open.spotify.com/track/1MQ1gkmAvEE0hIuPlyeaCz) | [Horse Meat Disco](https://open.spotify.com/artist/5MnToV7aAt2Zy9ag3DAsna), [Fi McCluskey](https://open.spotify.com/artist/72gbbXcVtvFcqEVEdL1LPf), [Mousse T.](https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6) | [Love If You Need It \(feat\. Fi McCluskey\)](https://open.spotify.com/album/7af5vVzmDMwfSGXjTZBZkE) | 3:24 |
 | 45 | [Best Of Me](https://open.spotify.com/track/6GkSwWTuOF8awxEtVaBvVt) | [Picard Brothers](https://open.spotify.com/artist/1bATQwgDSJlmYJ4obvTFmN) | [Best Of Me](https://open.spotify.com/album/0jKRFNGHFQujXgmZ7G3n8c) | 3:49 |
 | 46 | [Surrender \(feat\. PRICIE\)](https://open.spotify.com/track/6seDjSbkqKkOUsHjhhHMJw) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf), [PRICIE](https://open.spotify.com/artist/74qq2TFVWRaySx8MVjKelJ) | [Surrender \(feat\. PRICIE\)](https://open.spotify.com/album/37hBfo5a5MO72OgX37K3KC) | 3:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 49 | [Sunshine](https://open.spotify.com/track/08hSsSeBxyyri4j8cQxXm4) | [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA) | [Sunshine](https://open.spotify.com/album/76bUUVdpVkQIrJif3PQYx2) | 3:38 |
 | 50 | [Real Groove \(feat\. Dua Lipa\) \- Studio 2054 Initial Talk Remix](https://open.spotify.com/track/3I9gIF7c1VwAdvjTsvLgod) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Initial Talk](https://open.spotify.com/artist/0YQmcNgfnoqxBMJ8dcw3Eh) | [Real Groove \(feat\. Dua Lipa\) \[Studio 2054 Initial Talk Remix\]](https://open.spotify.com/album/5qhswDV7pVbYdJvU9PuVA8) | 3:43 |
 
-Snapshot ID: `MTY3NTcwNjg4NCwwMDAwMDAwMDg2ZmJhYTY2MGNiYjBhNmZmNzQzYWMyMjIwMWY1MDdm`
+Snapshot ID: `MTY3NTcwNjg4NCwwMDAwMDAwMDYyM2YzNDJiYjcxNzBlNWU1MDc5ZjViZDJhYzkxNmEz`

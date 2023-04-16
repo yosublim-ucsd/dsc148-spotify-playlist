@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,260 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,369 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 | 8 | [Perhaps Love \(사랑인가요\) \(Prod.By 박근태\)](https://open.spotify.com/track/5bN1ltT5BhVMnszmgsqGD5) | [에릭남 \(Eric Nam\), CHEEZE \(치즈\)](https://open.spotify.com/artist/1Dw5bHJLyFrbpoKWNvzNQX) | [Your BGM Vol.1](https://open.spotify.com/album/5Cu42bX04gv9mMr6NhfAr4) | 3:59 |
 | 9 | [Fxxxnds \(Feat\. Kim Min Seok of MeloMance\)](https://open.spotify.com/track/0S2GNnqAHC96zqB8ZIcxg4) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Fxxxnds](https://open.spotify.com/album/7rwRRay2hz12bl652kIOTH) | 3:29 |
 | 10 | [Galaxy 우주를 줄게](https://open.spotify.com/track/15c7KZTrsCUxCQcOdUVELc) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Full Album RED PLANET](https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL) | 3:33 |
-| 11 | [One Moment](https://open.spotify.com/track/3TYs2qtL4hCfZbMypOHYvQ) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [Seasonal Hiatus](https://open.spotify.com/album/0aIwKONwBn7YD25RrM4445) | 3:38 |
-| 12 | [Let Me Know](https://open.spotify.com/track/1SPDWTBH7qcjbZ8zMRXlQ9) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Let Me Know](https://open.spotify.com/album/1x7V4e67JZoCpJWXSb8Yw1) | 3:08 |
+| 11 | [Let Me Know](https://open.spotify.com/track/1SPDWTBH7qcjbZ8zMRXlQ9) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Let Me Know](https://open.spotify.com/album/1x7V4e67JZoCpJWXSb8Yw1) | 3:08 |
+| 12 | [One Moment](https://open.spotify.com/track/3TYs2qtL4hCfZbMypOHYvQ) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [Seasonal Hiatus](https://open.spotify.com/album/0aIwKONwBn7YD25RrM4445) | 3:38 |
 | 13 | [2 O' CLOCK](https://open.spotify.com/track/36PxJOUB8qFTcDFp2M0h6K) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [2 O' CLOCK](https://open.spotify.com/album/2VAiqG6FNssKi5vOda6kil) | 2:32 |
 | 14 | [Like A Fool](https://open.spotify.com/track/1E8Cztx0OIj4zm1IZh2XXj) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Like A Fool](https://open.spotify.com/album/4wJPiw5ZoTJFRUt2r2zvCy) | 3:34 |
 | 15 | [nostalgia](https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [nostalgia](https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG) | 3:16 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 | 40 | [Love like that](https://open.spotify.com/track/1nY4Op7iJyyRAxRdzgpy4G) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL) | [Absence 'Side A'](https://open.spotify.com/album/0fYkcK5aT1o6mzFsKWxZxI) | 3:35 |
 | 41 | [Rain Song \(Feat\. Colde\)](https://open.spotify.com/track/5IWlLl3xT95o8TSv3O8tRH) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Rain Song](https://open.spotify.com/album/1DXAqvIPDtdyTmug9hCX8J) | 4:03 |
 | 42 | [Epilogue](https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:49 |
-| 43 | [Only U \(Feat\. PENOMECO\)](https://open.spotify.com/track/11ysgxz5ER0yvnZ8Uogbe8) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt), [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [Only U](https://open.spotify.com/album/2olAsLaKHRckNVhmB8xTI0) | 3:47 |
-| 44 | [Love Song](https://open.spotify.com/track/7JF6USn1d7oBnjITCKtSHp) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [World Peace Project Vol.2](https://open.spotify.com/album/1OunRKupt1U7K8eq2NgkPZ) | 3:40 |
+| 43 | [Love Song](https://open.spotify.com/track/7JF6USn1d7oBnjITCKtSHp) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [World Peace Project Vol.2](https://open.spotify.com/album/1OunRKupt1U7K8eq2NgkPZ) | 3:40 |
+| 44 | [Only U \(Feat\. PENOMECO\)](https://open.spotify.com/track/11ysgxz5ER0yvnZ8Uogbe8) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt), [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [Only U](https://open.spotify.com/album/2olAsLaKHRckNVhmB8xTI0) | 3:47 |
 | 45 | [With me](https://open.spotify.com/track/2MS6xZ1HG8Mur5AGrvuVUG) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [The Interest of Love \(Original Television Soundtrack, Pt\. 5\)](https://open.spotify.com/album/1g5n1707yYQ67EZHD8E65Q) | 3:46 |
 | 46 | [Sleepless in Seoul \(Feat\. LEE SUHYUN\)](https://open.spotify.com/track/2bPHxBNkKpnehnmEBYuW9n) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp), [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [5.2 \(Feat\. LEE SUHYUN\)](https://open.spotify.com/album/30RJMNXikhoIuTMEqdESS0) | 4:17 |
 | 47 | [NOBODY](https://open.spotify.com/track/3U5ti2dwp5FA70lZPrhv9l) | [Blue.D](https://open.spotify.com/artist/0rK0ZPLX4fKnFSbqs6gYfY), [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [NOBODY](https://open.spotify.com/album/2m3vWrMY3MvVNSDMyEH1N8) | 3:21 |
 | 48 | [U](https://open.spotify.com/track/7wTqBeoo4bDr4eNnn3HHJk) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [grayground.](https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK) | 3:19 |
 | 49 | [doodle \(Feat\. Yerin Baek\) \(Prod\. by WOOGIE\)](https://open.spotify.com/track/4WiZMFJos3BUHSieP9cHTM) | [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [doodle](https://open.spotify.com/album/4ASTYYT0psxkyK3Y52oWfV) | 3:07 |
-| 50 | [Magnolia](https://open.spotify.com/track/5XrRVO7bjxl1HUZ5Ffri4g) | [Aden](https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv) | [Magnolia](https://open.spotify.com/album/1xvErKDx1NMXm0nYNgMuW7) | 2:51 |
+| 50 | [say what's on your mind](https://open.spotify.com/track/2ZQIrXkgwZeWp4NQTclnpY) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [as long as you're okay](https://open.spotify.com/album/4WxKF7kCXULf9zgAug5EpE) | 2:53 |
 
-Snapshot ID: `MTY4MDg0MDgxMCwwMDAwMDAwMDkxMDI3ZmFjNmI2MTY1MzAxNzE0NzhhYjU1NjBmNjBi`
+Snapshot ID: `MTY4MDg0MDgxMCwwMDAwMDAwMDE2NWIzODQ5OWQ4YWY4YjZmOWU0ZWY3NGM1MGIxNWUw`

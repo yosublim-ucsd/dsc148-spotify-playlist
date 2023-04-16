@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24HW7kIIcEV.md) - [plain]
 
 > Life’s what you make it\. So let’s make it rock!
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,222 likes - 85 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,547 likes - 85 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

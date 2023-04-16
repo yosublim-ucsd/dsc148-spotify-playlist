@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Diplo + Dove Cameron
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,449 likes - 84 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,469 likes - 84 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 59 | [Midnight](https://open.spotify.com/track/0PvenWz2SkoSLov51tkFie) | [Hurshel](https://open.spotify.com/artist/6z6uBfaMCKFCDIuHNYhRra) | [Midnight](https://open.spotify.com/album/40jzUasoJQgkkjnY64GCf3) | 2:14 |
 | 60 | [Concentrate](https://open.spotify.com/track/4Xog5MwTrBLlgNOJoy1UC4) | [Sonic Snares](https://open.spotify.com/artist/40tx66qbWQV574qEFI6fC2), [NORII](https://open.spotify.com/artist/4I1nNVymsW8VCQpkkAiqn1) | [Concentrate](https://open.spotify.com/album/6Gao96EEcEs55cIYp0uEYu) | 4:51 |
 | 61 | [Whatever It Takes](https://open.spotify.com/track/1T2S42IKI0ZYGICi6lD5mu) | [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM), [Noz Cate](https://open.spotify.com/artist/2nhjBKSJ2wpxLGM5PDQ1lt), [Severman](https://open.spotify.com/artist/4kiGFkkVQVz9a8XIw8lX7u) | [Whatever It Takes](https://open.spotify.com/album/3DckY75iAtLrNO3YF2bVvT) | 3:00 |
-| 62 | [Love You Anyway](https://open.spotify.com/track/05JTD0bHgbmKrUnieqtEGU) | [Tweellve](https://open.spotify.com/artist/0DejclZvFobqZbbfiVZAsF) | [Love You Anyway](https://open.spotify.com/album/6osNz07wM86LL8fm0vFFw1) | 2:58 |
+| 62 | [Love You Anyway](https://open.spotify.com/track/7fbagCDljK2tqvJOcpgSEx) | [Tweellve](https://open.spotify.com/artist/0DejclZvFobqZbbfiVZAsF) | [Love You Anyway](https://open.spotify.com/album/7He4g7bd15rvo5sZpRkuks) | 2:58 |
 | 63 | [Lucky Ones](https://open.spotify.com/track/3pc3XHhHHZLQikQCk6q8FP) | [Waxel](https://open.spotify.com/artist/2ntcMtENqlteqaa8NdB087), [Kaiz3n](https://open.spotify.com/artist/3rmJcFPohTWLXDUMOdzlJC), [PRD](https://open.spotify.com/artist/3MhsYmRrIr7YrhADT3l6WL), [PRYVT RYN](https://open.spotify.com/artist/6zq6KNF09GUIFltBdxaSb0) | [Lucky Ones](https://open.spotify.com/album/6HSakqCRVLCCj2tdNAjwRG) | 3:11 |
 | 64 | [Oral Music](https://open.spotify.com/track/46BoeZF5op6JNf4RDr0jfA) | [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a), [AFROJACK presents NLW](https://open.spotify.com/artist/4lWmv250WqWOnM0FKmHxiO) | [Oral Music](https://open.spotify.com/album/52dKjD8ccelCMUiofFwmzN) | 3:20 |
 | 65 | [One Last Time](https://open.spotify.com/track/14Nvqd5dAsY7mWeXwpucfa) | [KienThien](https://open.spotify.com/artist/3DdiH8dQofZaCq3kr6ElhW), [VISERLE](https://open.spotify.com/artist/2vYc6WS6i4Regk1AbGvNiw), [ÁIMY](https://open.spotify.com/artist/794UXJAticPkY3WoIbkqfH) | [One Last Time](https://open.spotify.com/album/1Zn9pK7RhLozAtZacWqCg5) | 2:56 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 83 | [Sunglasses](https://open.spotify.com/track/7owu5qEotPwPCfngV9pagy) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Baby B3ns](https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP) | [Sunglasses](https://open.spotify.com/album/1objEKeuFIj0HYpj3HHTTu) | 2:29 |
 | 84 | [Nothing To Hide](https://open.spotify.com/track/18k64Fjx1gZnh017XdteP6) | [Anthony Pappa](https://open.spotify.com/artist/7AjadUCPS3CyVaeyQYySfd), [Jamie Stevens](https://open.spotify.com/artist/6I75HfBud6PhaYTyhNW9xT), [Alice Rose](https://open.spotify.com/artist/5cqyYu3GNG0eoqZLZDV8JV) | [Nothing To Hide](https://open.spotify.com/album/2xQgSqKMBFzXMeeSuusWHb) | 7:13 |
 
-Snapshot ID: `MTY4MTQwMTYwMCwwMDAwMDAwMDE1Yjg1YmUxYTFhOTNlOTk3OGY3OWViZDA0YjU0MzVi`
+Snapshot ID: `MTY4MTQwMTYwMCwwMDAwMDAwMGNiMjA5ZjdlNDNiYzE0NjAyNTk1NGNkZGZiZTc0MmIw`

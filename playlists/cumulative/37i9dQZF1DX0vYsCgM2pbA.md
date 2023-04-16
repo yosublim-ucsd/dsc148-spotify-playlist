@@ -4,7 +4,7 @@
 
 > Kick on with this mix of homegrown electronic music
 
-92 songs - 5 hr 33 min
+93 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [On Fire](https://open.spotify.com/track/5Uy4klMydEVKvWYqoCUpqn) | [Set Mo](https://open.spotify.com/artist/2rv8IrcIQiFKkdvQAgUTZj) | [On Fire](https://open.spotify.com/album/3WfaBo5m4OjYqkLq1wQ9KT) | 4:28 | 2022-12-01 | 2023-01-27 |
 | [On My Knees](https://open.spotify.com/track/7ABUiQBM8cjktnp6QLTTaT) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [On My Knees](https://open.spotify.com/album/67AAnBLQfoNPbHLdtJHa6Q) | 4:21 | 2022-12-01 |  |
 | [OoooH](https://open.spotify.com/track/0pirokrbgCxZ0nvZsl5qEU) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn) | [OoooH](https://open.spotify.com/album/0GFRCYzjZQJDNCnu4z4FOa) | 3:22 | 2022-12-01 |  |
+| [Patience](https://open.spotify.com/track/0MYqjhoG0r9K23MAk4ok5A) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [What I Breathe](https://open.spotify.com/album/4Xt7IVNtLEjVjetUBufoyw) | 4:17 | 2023-04-13 |  |
 | [Plaid](https://open.spotify.com/track/7knr1Ak0hW5apJicbQ1doJ) | [99 Nissan Patrol](https://open.spotify.com/artist/6NLwlRl1gc64NVdC4ZXxgw), [Monako](https://open.spotify.com/artist/281y760OdoAujOeovQnKmC) | [Codec Tweak/Plaid](https://open.spotify.com/album/3f6HJFDtEOdFCTdGlrDkux) | 6:04 | 2023-02-09 | 2023-04-14 |
 | [Rainfall \(Praise You\)](https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [Rainfall \(Praise You\)](https://open.spotify.com/album/4VanY5i4E59Mhz52qznJ95) | 2:46 | 2022-12-01 |  |
 | [Rainfall \(Praise You\) \- Nathan Dawe Remix](https://open.spotify.com/track/36VkLBq245WRvM9pVjpQNY) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ), [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p) | [Rainfall \(Praise You\) \[Nathan Dawe Remix\]](https://open.spotify.com/album/65ZiJDx9OpOKOYI8R8sa7K) | 2:17 | 2022-12-01 |  |
@@ -95,7 +96,7 @@
 | [We Don't Ever Stop](https://open.spotify.com/track/7tzsbAE9Md4tr8MAbK4h5i) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [We Don’t Ever Stop](https://open.spotify.com/album/0ZrhY3h9Flf23MIl5udSTV) | 2:40 | 2022-12-01 |  |
 | [Where The Angels Go To Die](https://open.spotify.com/track/0zwJUJgcZrcdAKfATMYhcq) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Too Much Fun](https://open.spotify.com/album/6DVEb2UcjI2o4W4SdOXksM) | 3:32 | 2023-01-13 |  |
 | [Why 1.3 \[2012 Export Wav\]](https://open.spotify.com/track/4K0dZGCi79U9TnZNkLJpkb) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Things Don't Always Go The Way You Plan](https://open.spotify.com/album/6JlmbLrsozWe61rYTVsG7n) | 4:53 | 2023-02-09 |  |
-| [wish that i could \- Memphis LK Remix](https://open.spotify.com/track/10kgI5WbVmGmfaLzZPElCM) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [wish that i could \(Memphis LK Remix\)](https://open.spotify.com/album/2XOxNQQpNIccflEHM0x6u3) | 3:01 | 2022-12-15 |  |
+| [wish that i could \- Memphis LK Remix](https://open.spotify.com/track/10kgI5WbVmGmfaLzZPElCM) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [wish that i could \(Memphis LK Remix\)](https://open.spotify.com/album/2XOxNQQpNIccflEHM0x6u3) | 3:01 | 2022-12-15 | 2023-04-16 |
 | [Won't Forget You \(Edit\)](https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Won't Forget You](https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J) | 3:50 | 2022-12-01 |  |
 | [World Hold On \- FISHER Rework](https://open.spotify.com/track/2YDOjCfkGciEXxSutB6LJR) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC) | [World Hold On \(FISHER Rework\)](https://open.spotify.com/album/4Z6joMam5q6D8khEfuaCWD) | 2:58 | 2022-12-01 |  |
 | [Yeah The Girls](https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Yeah The Girls](https://open.spotify.com/album/6yxWTg8P4cAJ0gyPHUqPfv) | 3:14 | 2022-12-01 |  |

@@ -4,7 +4,7 @@
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-178 songs - 10 hr 31 min
+179 songs - 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Christmas Dreamin'](https://open.spotify.com/track/18bB4dKdUBeLBsxT9DJFf6) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [Christmas Dreamin'](https://open.spotify.com/album/5KzguAF3siR3o1tjXnVLjZ) | 3:14 | 2021-12-24 |  |
 | [Christmas Lights](https://open.spotify.com/track/2JApOkyG5QGrn0luyAAUDz) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [Christmas Lights](https://open.spotify.com/album/2ML0HivGBfi9C1ihEAnqck) | 3:01 | 2021-12-24 |  |
 | [Christmas Pick Me Up](https://open.spotify.com/track/0QN8SGs82YIuYsz2wOAH9N) | [Rudy Currence](https://open.spotify.com/artist/1XjkqiNiTkbF2FOEDMNqC8), [Raheem DeVaughn](https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL) | [Christmas Pick Me Up](https://open.spotify.com/album/44odr8fGUzUtNRRNqeTyJu) | 3:59 | 2022-12-11 | 2022-12-17 |
-| [Christmas Time Again](https://open.spotify.com/track/4fZOOTo7H9ralEE18IeIi0) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [Joy](https://open.spotify.com/album/0IJGoazlUcCQTWdL7BV1Oa) | 3:13 | 2022-12-11 |  |
+| [Christmas Time Again](https://open.spotify.com/track/4fZOOTo7H9ralEE18IeIi0) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [Joy](https://open.spotify.com/album/0IJGoazlUcCQTWdL7BV1Oa) | 3:13 | 2022-12-11 | 2023-04-16 |
 | [Christmas Time Is Here](https://open.spotify.com/track/6qsGiwpMUHXo752nUPg1YW) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [this is our Christmas album](https://open.spotify.com/album/6wBted9sjsgGSoGhELXaBC) | 2:45 | 2022-11-26 |  |
 | [Christmas Time Is Here](https://open.spotify.com/track/2v3o68jkmZhT9KxEHTCXAJ) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Snowflakes](https://open.spotify.com/album/5iUvnkcBLlxrrdPsx4zwmu) | 4:11 | 2021-12-24 |  |
 | [Christmas Valentine](https://open.spotify.com/track/3IGnC58kVTeQQGxEybWtaE) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [This Christmas](https://open.spotify.com/album/2qvU0V1K9WGP13QBztAKVF) | 3:02 | 2022-12-11 | 2023-03-21 |
@@ -94,6 +94,7 @@
 | [Joy To The World](https://open.spotify.com/track/3sgPVrKXSVvxPKzvLaSh8P) | [LOFI Worship](https://open.spotify.com/artist/7140i1cyhuEArRQcADGja9) | [LOFI Christmas](https://open.spotify.com/album/4cySFdHNpqV62fAOZDC93N) | 2:56 | 2022-12-11 |  |
 | [Joy to the World](https://open.spotify.com/track/2OggiWqL8exckT6kOrcDuA) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:17 | 2021-12-24 |  |
 | [Just A Breath Away \(Noel\) \- Radio Version](https://open.spotify.com/track/1UGK7thDiNRQA7P4rQVOrd) | [Jonas Myrin](https://open.spotify.com/artist/2NFO8MvrS1FOyjQZKwgra5) | [Just A Breath Away \(Noel\) \[Radio Version\]](https://open.spotify.com/album/2BIt2v8Y5YJ3o1gzZy8i7B) | 3:10 | 2021-12-24 | 2022-12-13 |
+| [Keep The Fire On](https://open.spotify.com/track/5UOCErQ8T4ZD7fKnmBtgXJ) | [AO1 Collective](https://open.spotify.com/artist/7B1PFNIplX3KFKPizcl8e5), [Saint James](https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi), [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h) | [Keep The Fire On](https://open.spotify.com/album/1chKbzdQ4Jdn9ZUKVnwdek) | 2:40 | 2022-12-11 |  |
 | [King Of Glory](https://open.spotify.com/track/4i29NqYXWDce8dhnT1PLTB) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [King Of Glory](https://open.spotify.com/album/6EBKn3EDTvm6QJfcUtpmPX) | 3:20 | 2022-11-26 |  |
 | [Let It Be Christmas](https://open.spotify.com/track/70OrTBlb0RLKNfxWE6fZZM) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Let It Be Christmas](https://open.spotify.com/album/1IwTlARBAG1aVi9uIBmZqm) | 4:11 | 2021-12-24 |  |
 | [Let It Snow](https://open.spotify.com/track/3TWIngtwbWAbLWSnMWdzge) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [A Tori Kelly Christmas](https://open.spotify.com/album/3T1Te4622DNLaTajXIkY9l) | 1:58 | 2021-12-24 |  |

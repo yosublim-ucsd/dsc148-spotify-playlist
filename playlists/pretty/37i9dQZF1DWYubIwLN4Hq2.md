@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYubIwLN4Hq2.md) - [plain]
 
 > It's a Saturday night in the country, all the time!
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,093 likes - 68 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,220 likes - 68 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

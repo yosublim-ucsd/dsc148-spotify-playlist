@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Kasablanca
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,038 likes - 85 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,084 likes - 85 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 8 | [Rewind.\. \(But I Love You\)](https://open.spotify.com/track/2v5lLKdZG0PsXGWfvigk55) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [Someone You Can Count On](https://open.spotify.com/album/5wj4dMktjUCPq8BfsQCMR2) | 2:53 |
 | 9 | [Waiting \(feat\. Stephen Puth\)](https://open.spotify.com/track/7yAk9XlktYexlz5RCMbfXl) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Stephen Puth](https://open.spotify.com/artist/6B72wjgAkhvxTVCL6xS6mC) | [Waiting \(feat\. Stephen Puth\)](https://open.spotify.com/album/1pbmnH9n46MSq7aTHRolQ4) | 3:14 |
 | 10 | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx) | 3:06 |
-| 11 | [Remember Me](https://open.spotify.com/track/54PCyKj5lICOgjk5WaC0li) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [KeeQ](https://open.spotify.com/artist/5OSkggAoi9qMYfSJuTz4pB), [Tamara Byrne](https://open.spotify.com/artist/54f7LmAoru27GBiOX1Dmdj) | [Remember Me](https://open.spotify.com/album/1C13hkYjqhNLmDbgwkmiVp) | 3:46 |
+| 11 | [Remember Me](https://open.spotify.com/track/54PCyKj5lICOgjk5WaC0li) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [KeeQ](https://open.spotify.com/artist/5OSkggAoi9qMYfSJuTz4pB), [Tamara Blessa](https://open.spotify.com/artist/7gLbU9emwsE9xuxnA5rNLN) | [Remember Me](https://open.spotify.com/album/1C13hkYjqhNLmDbgwkmiVp) | 3:46 |
 | 12 | [Caught A Body \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/4JvJj733DNy6nuVcC1NzCq) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Caught A Body \(feat\. Ty Dolla $ign\)](https://open.spotify.com/album/5JEgZa6di9DVcftMmEoN2r) | 2:29 |
 | 13 | [If Love Is A Skill](https://open.spotify.com/track/4w5uos4sTvjQeg8ofXtBm8) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [If Love Is A Skill & Georgia](https://open.spotify.com/album/5Z1OUXWZHGbQFiUNJJz9Z1) | 3:37 |
 | 14 | [Ke Shy](https://open.spotify.com/track/71X7xhERhWY7k4I2ST3A1F) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [LuuDaDeejay](https://open.spotify.com/artist/1XoIF7wcOtFdQdB6vJQumb), [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Piano Republik](https://open.spotify.com/album/5ggKabvYHoNLEyl3x5K4iZ) | 3:19 |

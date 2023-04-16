@@ -1,12 +1,12 @@
 {
   "description": "Chill & Bumpy",
-  "num_followers": 163658,
+  "num_followers": 163795,
   "original_name": "Umami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ2MDg3MywwMDAwMDAwMDhlYWYxZTFkNDRhMDBiYTdmOTJjYjY2OTc2OTM4NDcz",
+  "snapshot_id": "MTY4MTQ2MDg3MywwMDAwMDAwMDY3ZTI4M2Q4N2MzNWU4YTkxM2MwN2MzNzc4MzRkMTg0",
   "tracks": [
     {
       "added_at": "2023-04-13 23:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Deny It",
-        "url": "https://open.spotify.com/album/6lIxoZV2okhpBngVJvXi8i"
-      },
-      "artists": [
-        {
-          "name": "Jasper Tygner",
-          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
-        }
-      ],
-      "duration_ms": 242250,
-      "name": "Deny It",
-      "url": "https://open.spotify.com/track/2G0pIL19syX70AXLc9ykPj"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Money",
         "url": "https://open.spotify.com/album/0WPnWF4ZnJFn6Li3DXcObK"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 214108,
       "name": "Money",
       "url": "https://open.spotify.com/track/3oGcjB8hAH7LVlqHX6fpWn"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Deny It",
+        "url": "https://open.spotify.com/album/6lIxoZV2okhpBngVJvXi8i"
+      },
+      "artists": [
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        }
+      ],
+      "duration_ms": 242250,
+      "name": "Deny It",
+      "url": "https://open.spotify.com/track/2G0pIL19syX70AXLc9ykPj"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -843,26 +843,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Function",
-        "url": "https://open.spotify.com/album/1aWuDVpiNWrOQgMNB59adV"
-      },
-      "artists": [
-        {
-          "name": "Tentendo",
-          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
-        },
-        {
-          "name": "Jordan Dennis",
-          "url": "https://open.spotify.com/artist/2iSbupdaMW303tk8tqdCv5"
-        }
-      ],
-      "duration_ms": 197639,
-      "name": "Function",
-      "url": "https://open.spotify.com/track/4I58pzQEyFpHLXyDGekkCc"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "porco rosso",
         "url": "https://open.spotify.com/album/2DkNjsTfC3rPkgmN77x1fS"
       },
@@ -875,6 +855,22 @@
       "duration_ms": 219840,
       "name": "porco rosso",
       "url": "https://open.spotify.com/track/5165zeO9t08BHlSJH7h0iN"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Nothing",
+        "url": "https://open.spotify.com/album/7lyFqWFcHcQCk8YXJo6hiK"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 312000,
+      "name": "Nothing - Original Mix",
+      "url": "https://open.spotify.com/track/273poy5BHtv5YFedkWIqwj"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -911,18 +907,42 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Nothing",
-        "url": "https://open.spotify.com/album/7lyFqWFcHcQCk8YXJo6hiK"
+        "name": "Function",
+        "url": "https://open.spotify.com/album/1aWuDVpiNWrOQgMNB59adV"
       },
       "artists": [
         {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+          "name": "Tentendo",
+          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
+        },
+        {
+          "name": "Jordan Dennis",
+          "url": "https://open.spotify.com/artist/2iSbupdaMW303tk8tqdCv5"
         }
       ],
-      "duration_ms": 312000,
-      "name": "Nothing - Original Mix",
-      "url": "https://open.spotify.com/track/273poy5BHtv5YFedkWIqwj"
+      "duration_ms": 197639,
+      "name": "Function",
+      "url": "https://open.spotify.com/track/4I58pzQEyFpHLXyDGekkCc"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "IT WON\u2019T DO (MAFRO Remix)",
+        "url": "https://open.spotify.com/album/1FykaudvXZXg1Iaq8WvfSS"
+      },
+      "artists": [
+        {
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        },
+        {
+          "name": "MAFRO",
+          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
+        }
+      ],
+      "duration_ms": 310153,
+      "name": "IT WON\u2019T DO - MAFRO Remix",
+      "url": "https://open.spotify.com/track/597VPWWuiNG3IrtcSmuf5a"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -975,26 +995,6 @@
       "duration_ms": 240674,
       "name": "hei",
       "url": "https://open.spotify.com/track/30wTNGjHpvAI9fspMsUpIo"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
-        "name": "IT WON\u2019T DO (MAFRO Remix)",
-        "url": "https://open.spotify.com/album/1FykaudvXZXg1Iaq8WvfSS"
-      },
-      "artists": [
-        {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
-        },
-        {
-          "name": "MAFRO",
-          "url": "https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm"
-        }
-      ],
-      "duration_ms": 310153,
-      "name": "IT WON\u2019T DO - MAFRO Remix",
-      "url": "https://open.spotify.com/track/597VPWWuiNG3IrtcSmuf5a"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1071,6 +1071,38 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
+        "name": "Violet Drive",
+        "url": "https://open.spotify.com/album/21PmcwFrDQFqr2vskQgyDu"
+      },
+      "artists": [
+        {
+          "name": "Kerala Dust",
+          "url": "https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH"
+        }
+      ],
+      "duration_ms": 341088,
+      "name": "Moonbeam, Midnight, Howl",
+      "url": "https://open.spotify.com/track/4TGDSeSPvNW1t9lEApQOVE"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Burnt Orange",
+        "url": "https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4"
+      },
+      "artists": [
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        }
+      ],
+      "duration_ms": 271475,
+      "name": "Burnt Orange - Edit",
+      "url": "https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
         "name": "Fashion Week (with Channel Tres)",
         "url": "https://open.spotify.com/album/25ru5khx1Ak99m4a2n2YBB"
       },
@@ -1087,22 +1119,6 @@
       "duration_ms": 214575,
       "name": "Fashion Week (with Channel Tres)",
       "url": "https://open.spotify.com/track/22dTRFvs4NIWcfynMRHWxM"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
-        "name": "Violet Drive",
-        "url": "https://open.spotify.com/album/21PmcwFrDQFqr2vskQgyDu"
-      },
-      "artists": [
-        {
-          "name": "Kerala Dust",
-          "url": "https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH"
-        }
-      ],
-      "duration_ms": 341088,
-      "name": "Moonbeam, Midnight, Howl",
-      "url": "https://open.spotify.com/track/4TGDSeSPvNW1t9lEApQOVE"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1139,22 +1155,6 @@
       "duration_ms": 228734,
       "name": "Interior - Edit",
       "url": "https://open.spotify.com/track/0lITcp6BtydURi2OqWQffZ"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
-        "name": "Burnt Orange",
-        "url": "https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4"
-      },
-      "artists": [
-        {
-          "name": "Elkka",
-          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
-        }
-      ],
-      "duration_ms": 271475,
-      "name": "Burnt Orange - Edit",
-      "url": "https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Floating on Silence",
-        "url": "https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO"
-      },
-      "artists": [
-        {
-          "name": "Tour-Maubourg",
-          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
-        }
-      ],
-      "duration_ms": 381864,
-      "name": "Floating on Silence",
-      "url": "https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Alright",
         "url": "https://open.spotify.com/album/7uFPxf7dz1jdeBj6fyVVLi"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 295230,
       "name": "Alright",
       "url": "https://open.spotify.com/track/4bao9qwqgkBdCuNmKehrOA"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Floating on Silence",
+        "url": "https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO"
+      },
+      "artists": [
+        {
+          "name": "Tour-Maubourg",
+          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
+        }
+      ],
+      "duration_ms": 381864,
+      "name": "Floating on Silence",
+      "url": "https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp"
     },
     {
       "added_at": "2023-04-13 23:00:00",

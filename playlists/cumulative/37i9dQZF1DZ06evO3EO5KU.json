@@ -467,6 +467,28 @@
     },
     {
       "album": {
+        "name": "El Cholo Iv\u00e1n (En Vivo)",
+        "url": "https://open.spotify.com/album/5fFIZpur4giaSJLfT69ZuU"
+      },
+      "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        },
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208386,
+      "name": "El Cholo Iv\u00e1n - En Vivo",
+      "url": "https://open.spotify.com/track/6luTTNib9LsQc0trSP4121"
+    },
+    {
+      "album": {
         "name": "El Destroyer",
         "url": "https://open.spotify.com/album/4WG0oUlZ4sX2uP8SYDklzA"
       },

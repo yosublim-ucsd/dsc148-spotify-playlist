@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 
 > Classic tunes that shaped and defined the 90s rave scene \- a unique era for dance music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,695 likes - 50 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,911 likes - 50 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,12 +34,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 | 24 | [Energy Flash](https://open.spotify.com/track/46ddej1ibGIgs58H0wakoK) | [Joey Beltram](https://open.spotify.com/artist/4OW0w5K2UNaWtbpRqzWqI0) | [Classics](https://open.spotify.com/album/28lpBShPdRMmQxT2kEAKMq) | 5:50 |
 | 25 | [Maximum Style \(Lover To Lover\)](https://open.spotify.com/track/5aqLROQOpWX2H8Q3b0IB6b) | [Tom & Jerry](https://open.spotify.com/artist/11XdPK1p3uSxX0qiBy5WBZ) | [Jungle Hits, Vol\. 1](https://open.spotify.com/album/6ajFWIR0zVPWu3cBj68B4z) | 4:05 |
 | 26 | [Sweet Love](https://open.spotify.com/track/2XdL95Ifg9gysRDpFWNYWt) | [M\-Beat](https://open.spotify.com/artist/42tN6kVgx34E0Oqk2nef4g), [Nazlin](https://open.spotify.com/artist/7EHyk9B3KdWJFIbMpte5GL) | [Jungle Hits, Vol\. 1](https://open.spotify.com/album/6ajFWIR0zVPWu3cBj68B4z) | 3:58 |
-| 27 | [Digeridoo](https://open.spotify.com/track/3QSQbRPGDky3vRmXVeP8iU) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Digeridoo](https://open.spotify.com/album/1yDakrbF2ddXhBd6c8bV0G) | 7:11 |
-| 28 | [Everybody's Free \(To Feel Good\)](https://open.spotify.com/track/4rkiST7hsHEuU5EMvApemD) | [Rozalla](https://open.spotify.com/artist/2wnJCxpnKAagrdBJAvaDrQ) | [The Very Best of Rozalla](https://open.spotify.com/album/2xLMSSS0oFoJshrOIrvK7b) | 3:31 |
+| 27 | [Everybody's Free \(To Feel Good\)](https://open.spotify.com/track/4rkiST7hsHEuU5EMvApemD) | [Rozalla](https://open.spotify.com/artist/2wnJCxpnKAagrdBJAvaDrQ) | [The Very Best of Rozalla](https://open.spotify.com/album/2xLMSSS0oFoJshrOIrvK7b) | 3:31 |
+| 28 | [Digeridoo](https://open.spotify.com/track/3QSQbRPGDky3vRmXVeP8iU) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Digeridoo](https://open.spotify.com/album/1yDakrbF2ddXhBd6c8bV0G) | 7:11 |
 | 29 | [Ain't Talkin' 'Bout Dub](https://open.spotify.com/track/0lk1zdGFPEv6U7omOAqhSs) | [Apollo 440](https://open.spotify.com/artist/37f9cjf8Ic4t7vYNRYAzI7) | [Electro Glide In Blue](https://open.spotify.com/album/5SBkxQjY7zgrKDrpz6vcV8) | 4:30 |
 | 30 | [LFO \- Leeds Warehouse Mix](https://open.spotify.com/track/5AMGYRhiqZoCYkJEK3yqgi) | [LFO](https://open.spotify.com/artist/2M0T4a1pkOC5nifN9W6e9e) | [Frequencies](https://open.spotify.com/album/1USvljUnnceyGwsJFf9IR8) | 5:19 |
-| 31 | [Injected with a Poison](https://open.spotify.com/track/6pjNPFhhzSho4EYffiV8Pa) | [Praga Khan](https://open.spotify.com/artist/571MZ41OAhLQwOHzW6XfRb) | [Conquers Your Love \(Remastered\)](https://open.spotify.com/album/1TvcBifosVJDio8eHJjuoz) | 5:03 |
-| 32 | [Don't You Want Me \- Edit](https://open.spotify.com/track/5xmZDSLfUKwgTxfEqVv7g0) | [Felix](https://open.spotify.com/artist/6iRRErKYy1iojOaJoq6Ltk) | [90s 100 Hits](https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b) | 3:09 |
+| 31 | [Don't You Want Me \- Edit](https://open.spotify.com/track/5xmZDSLfUKwgTxfEqVv7g0) | [Felix](https://open.spotify.com/artist/6iRRErKYy1iojOaJoq6Ltk) | [90s 100 Hits](https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b) | 3:09 |
+| 32 | [Injected with a Poison](https://open.spotify.com/track/6pjNPFhhzSho4EYffiV8Pa) | [Praga Khan](https://open.spotify.com/artist/571MZ41OAhLQwOHzW6XfRb) | [Conquers Your Love \(Remastered\)](https://open.spotify.com/album/1TvcBifosVJDio8eHJjuoz) | 5:03 |
 | 33 | [Let Me Be Your Fantasy](https://open.spotify.com/track/5NrSz7dRurN8VjHpFuRgph) | [Baby D](https://open.spotify.com/artist/33ZOI0WTjYkLh5WuwucLhc) | [Deliverance](https://open.spotify.com/album/2l6eqXAWTJD43002cCPiYn) | 7:50 |
 | 34 | [Your Love \- Remix](https://open.spotify.com/track/6vsy0Bg3BeAyq7INPGEA2o) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Experience](https://open.spotify.com/album/7uSC6NXKlE3zGo0mu8Ik5r) | 5:31 |
 | 35 | [Beat Dis](https://open.spotify.com/track/6L8xB44ZvgAJjQEY9Zx6y6) | [Bomb The Bass](https://open.spotify.com/artist/1G3Eh23f2hwhEnAMw7HsZ6) | [80s 100 Hits \- Volume 2](https://open.spotify.com/album/56QkBFCRUIGCMWnKKKheXC) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 | 49 | [No Good \(Start the Dance\)](https://open.spotify.com/track/6B8Sm7JafUT6zMfMkWWnH0) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Music for the Jilted Generation](https://open.spotify.com/album/05yevdRXvaX6KGRaZehaDW) | 6:19 |
 | 50 | [Breaking Free](https://open.spotify.com/track/6IRt1vOT1AyMpmhfTZLDy8) | [Slipmatt](https://open.spotify.com/artist/0F71ra6iKMvn6ndmnaM2Lr) | [Pure Rave \- The Very Best Of Old Skool](https://open.spotify.com/album/3v5BpAStWBBZpyHr1wsngS) | 5:40 |
 
-Snapshot ID: `MTYxOTY4MTQ0OSwwMDAwMDAwMDA1M2QyM2U4OGIyNjY4NTBkOTg4MzU4NjZhZjVlMjE0`
+Snapshot ID: `MTYxOTY4MTQ0OSwwMDAwMDAwMDc5NzdhYjJjYTk5ODhmYjNhNzJjNWM3NTdkN2U3NDE3`

@@ -1,12 +1,12 @@
 {
   "description": "\u604b\u3057\u3066\u308b\u3042\u306a\u305f\u306b\u5bc4\u308a\u6dfb\u3046\u3001\u7d20\u6575\u306a\u30e9\u30d6\u30bd\u30f3\u30b0\u3092\u96c6\u3081\u307e\u3057\u305f\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 103994,
+  "num_followers": 104133,
   "original_name": "\u604b\u3059\u308b\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTM5ODAwMCwwMDAwMDAwMGQyZGI3NGJjMGZhYjQ3ZTI1ZjA0OWM5N2NiNjU4MDk2",
+  "snapshot_id": "MTY4MTM5ODAwMCwwMDAwMDAwMDczNTQ5N2FmMDEwYmQxYmYyZmEzNGY5NGQ5ZTcyNWNm",
   "tracks": [
     {
       "added_at": "2023-04-13 15:00:00",
@@ -439,18 +439,18 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
-        "name": "\u30b9\u30d1\u30fc\u30af\u30eb",
-        "url": "https://open.spotify.com/album/0HmvMEiGowPfT2UvYNRDcv"
+        "name": "Your Name.",
+        "url": "https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP"
       },
       "artists": [
         {
-          "name": "Lilas Ikuta",
-          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
         }
       ],
-      "duration_ms": 213600,
-      "name": "\u30b9\u30d1\u30fc\u30af\u30eb",
-      "url": "https://open.spotify.com/track/6EuubEs5qOmJdpNhkU47OZ"
+      "duration_ms": 131666,
+      "name": "Dream lantern",
+      "url": "https://open.spotify.com/track/5mEqD00bdFcsiVd0MfvEeF"
     },
     {
       "added_at": "2023-04-13 15:00:00",
@@ -471,18 +471,18 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
-        "name": "Your Name.",
-        "url": "https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP"
+        "name": "\u30b9\u30d1\u30fc\u30af\u30eb",
+        "url": "https://open.spotify.com/album/0HmvMEiGowPfT2UvYNRDcv"
       },
       "artists": [
         {
-          "name": "RADWIMPS",
-          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+          "name": "Lilas Ikuta",
+          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
         }
       ],
-      "duration_ms": 131666,
-      "name": "Dream lantern",
-      "url": "https://open.spotify.com/track/5mEqD00bdFcsiVd0MfvEeF"
+      "duration_ms": 213600,
+      "name": "\u30b9\u30d1\u30fc\u30af\u30eb",
+      "url": "https://open.spotify.com/track/6EuubEs5qOmJdpNhkU47OZ"
     },
     {
       "added_at": "2023-04-13 15:00:00",
@@ -599,26 +599,22 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
-        "name": "\u30a2\u30a4\u30bf\u30ea\u30ca\u30a4",
-        "url": "https://open.spotify.com/album/1C5VITN2qaLE4PChtSmSrj"
+        "name": "\u30d6\u30eb\u30fc\u30a2\u30f3\u30d3\u30a8\u30f3\u30b9",
+        "url": "https://open.spotify.com/album/4fbghPZI7ZAQIbO4V7yrVj"
       },
       "artists": [
         {
-          "name": "MAISONdes",
-          "url": "https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM"
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
         },
         {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        },
-        {
-          "name": "\u30cb\u30c8\u3002",
-          "url": "https://open.spotify.com/artist/7bNO9nNPBOXrcUzOA66UbE"
+          "name": "asmi",
+          "url": "https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza"
         }
       ],
-      "duration_ms": 162366,
-      "name": "\u30a2\u30a4\u30bf\u30ea\u30ca\u30a4",
-      "url": "https://open.spotify.com/track/67seLhibwW3OAyZcEw5Ijh"
+      "duration_ms": 250773,
+      "name": "\u30d6\u30eb\u30fc\u30a2\u30f3\u30d3\u30a8\u30f3\u30b9",
+      "url": "https://open.spotify.com/track/1S1WSh4uCprvucg6Hx57Eh"
     },
     {
       "added_at": "2023-04-13 15:00:00",
@@ -639,22 +635,26 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
-        "name": "\u30d6\u30eb\u30fc\u30a2\u30f3\u30d3\u30a8\u30f3\u30b9",
-        "url": "https://open.spotify.com/album/4fbghPZI7ZAQIbO4V7yrVj"
+        "name": "\u30a2\u30a4\u30bf\u30ea\u30ca\u30a4",
+        "url": "https://open.spotify.com/album/1C5VITN2qaLE4PChtSmSrj"
       },
       "artists": [
         {
-          "name": "Mrs. GREEN APPLE",
-          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+          "name": "MAISONdes",
+          "url": "https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM"
         },
         {
-          "name": "asmi",
-          "url": "https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza"
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        },
+        {
+          "name": "\u30cb\u30c8\u3002",
+          "url": "https://open.spotify.com/artist/7bNO9nNPBOXrcUzOA66UbE"
         }
       ],
-      "duration_ms": 250773,
-      "name": "\u30d6\u30eb\u30fc\u30a2\u30f3\u30d3\u30a8\u30f3\u30b9",
-      "url": "https://open.spotify.com/track/1S1WSh4uCprvucg6Hx57Eh"
+      "duration_ms": 162366,
+      "name": "\u30a2\u30a4\u30bf\u30ea\u30ca\u30a4",
+      "url": "https://open.spotify.com/track/67seLhibwW3OAyZcEw5Ijh"
     },
     {
       "added_at": "2023-04-13 15:00:00",

@@ -4,7 +4,7 @@
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there.
 
-204 songs - 15 hr 58 min
+205 songs - 16 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,7 @@
 | [The Man Who Can't Be Moved \- Live At The Aviva Stadium, Dublin](https://open.spotify.com/track/2xMVakxkbsjd8KI6QmG79Q) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [\#3 Deluxe Version](https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj) | 4:55 | 2022-04-14 |  |
 | [The Power Of Love \- Live à Paris](https://open.spotify.com/track/2nJKHm0UEvnXIxUWSOq26L) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Live à Paris](https://open.spotify.com/album/0mXmpNs70razpUGj8NEu4u) | 4:45 | 2022-04-14 | 2023-03-07 |
 | [The Strangest Thing \- Live](https://open.spotify.com/track/6tGDadVUsPiO7U4TmB8MPS) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Older \(Expanded Edition\)](https://open.spotify.com/album/6vrPb5bne9kMaRB22t1Rmn) | 6:05 | 2022-11-11 |  |
-| [Treat You Better \- Live](https://open.spotify.com/track/4LEtCNmFV5NyWcANGZC9si) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Live At Madison Square Garden](https://open.spotify.com/album/6kTIdOmlTbxh7vzNwb4n0L) | 4:16 | 2022-04-14 |  |
+| [Treat You Better \- Live](https://open.spotify.com/track/4LEtCNmFV5NyWcANGZC9si) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Live At Madison Square Garden](https://open.spotify.com/album/6kTIdOmlTbxh7vzNwb4n0L) | 4:16 | 2022-04-14 | 2023-04-16 |
 | [True \- Live from the N.E.C.](https://open.spotify.com/track/0B8dJbFyc2SZgiolBwNQsM) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [Live At The NEC](https://open.spotify.com/album/6wWteACsElSVowr1JzAMGf) | 5:58 | 2022-04-14 | 2022-07-29 |
 | [Up Where We Belong \- Live](https://open.spotify.com/track/0FpkKD9MzzOmYPUB15S4lz) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [Fire It Up \- Live](https://open.spotify.com/album/5zAk411l61QmbdiyAbqCEK) | 6:03 | 2022-04-14 | 2022-07-28 |
 | [Viva La Vida \- Live](https://open.spotify.com/track/5ZV67iTfNpW3ueMCELLiSX) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Live 2012](https://open.spotify.com/album/2OkEsqGTfu8PWRrNHzfr0m) | 4:58 | 2022-04-14 |  |
@@ -210,6 +210,7 @@
 | [You're Still The One \- Live](https://open.spotify.com/track/7iGY3k5bvs2D8yPeF4z1y4) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Still The One: Live From Vegas](https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC) | 3:35 | 2022-04-14 |  |
 | [You're The One That I Want \- Live](https://open.spotify.com/track/7vCqjFCrn2070QxxM8G7V4) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Olivia's Live Hits](https://open.spotify.com/album/4pMYAWXWTDY73KIRTpNsON) | 3:51 | 2022-08-09 | 2023-01-09 |
 | [You're The One That I Want \- Live](https://open.spotify.com/track/5FWlmanf50i18yCshnNuF9) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9), [The Sydney Orchestra](https://open.spotify.com/artist/7CCAEuSzV238SuznJvgKju) | [Olivia's Live Hits](https://open.spotify.com/album/3cxKwjKZTtrLHxYnVYNQqV) | 3:51 | 2022-08-09 |  |
+| [Youngblood \- Live from The Royal Albert Hall](https://open.spotify.com/track/64IHMtwaJFXLpTPzRJPM30) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [The Feeling of Falling Upwards \(Live from The Royal Albert Hall\)](https://open.spotify.com/album/7u1CQclaB8RUyOfn4gTPlY) | 3:55 | 2023-04-14 |  |
 | [Your Love Is King \- Live at Live Aid, Wembley Stadium, 13th July 1985](https://open.spotify.com/track/0jkicPAjQnmOb9kKH9rmzP) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Live Aid \(Live, 13th July 1985\)](https://open.spotify.com/album/5Ke7S3qdSjC6on0xfVkAss) | 4:40 | 2022-04-14 | 2022-07-28 |
 | [Your Song \- Live At Madison Square Garden](https://open.spotify.com/track/1PohdWJ1WMBL82q4GBeFN6) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton 60 \- Live At Madison Square Garden](https://open.spotify.com/album/1hBjd4MuIWjv6uwik1bA68) | 4:09 | 2022-04-14 |  |
 

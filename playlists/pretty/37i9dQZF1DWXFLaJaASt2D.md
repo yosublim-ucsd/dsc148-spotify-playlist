@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXFLaJaASt2D.md) - [plain]
 
 > A collection of tracks for punks big and small.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,429 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,501 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXFLaJaASt2D.md) - [plain]
 | 48 | [Punk Rock Girl](https://open.spotify.com/track/1l04CzFskMiq7c30lZvr7i) | [The Dead Milkmen](https://open.spotify.com/artist/2fhngmJMaaKcdhXHCa4cPK) | [Beelzebubba](https://open.spotify.com/album/6rOSsanZwjydXb9dY9ACZH) | 2:38 |
 | 49 | [Don't Want to Know If You Are Lonely](https://open.spotify.com/track/4tPFEWRuNQhibDQSGB2PVE) | [Hüsker Dü](https://open.spotify.com/artist/16bN8mhtDFdegWbg0z3s10) | [Candy Apple Grey](https://open.spotify.com/album/6zoU9wwvh8ETkMsWU3Mtv1) | 3:30 |
 | 50 | [To Have And To Have Not](https://open.spotify.com/track/2KeEzXxpADVpW1gbUj0rS7) | [Lars Frederiksen and the Bastards](https://open.spotify.com/artist/64HBI5GPR0TqM0TyAKu0nG) | [Lars Frederiksen And The Bastards](https://open.spotify.com/album/4NnKPdKvKmfX4b8OgPf9uP) | 2:46 |
-| 51 | [Bad Luck](https://open.spotify.com/track/6Y19VBGJBoixg6umIkE7ar) | [Social Distortion](https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI) | [Somewhere Between Heaven And Hell](https://open.spotify.com/album/7yAO087eGmjE9jTUWQw0oj) | 4:24 |
-| 52 | [Salvation](https://open.spotify.com/track/6b769E9sQf0kZTILVjSDaH) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Let's Go](https://open.spotify.com/album/44FRRbDmIqioUuIKjua6MT) | 2:53 |
-| 53 | [Title Holder](https://open.spotify.com/track/5dt0dBcBTgGb7Gt5hNTG91) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Fight the Good Fight](https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL) | 2:41 |
+| 51 | [Title Holder](https://open.spotify.com/track/5dt0dBcBTgGb7Gt5hNTG91) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Fight the Good Fight](https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL) | 2:41 |
+| 52 | [Bad Luck](https://open.spotify.com/track/6Y19VBGJBoixg6umIkE7ar) | [Social Distortion](https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI) | [Somewhere Between Heaven And Hell](https://open.spotify.com/album/7yAO087eGmjE9jTUWQw0oj) | 4:24 |
+| 53 | [Salvation](https://open.spotify.com/track/6b769E9sQf0kZTILVjSDaH) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Let's Go](https://open.spotify.com/album/44FRRbDmIqioUuIKjua6MT) | 2:53 |
 | 54 | [Modern Girl](https://open.spotify.com/track/2GOQVqZ3uVp7LKVAY1T0mk) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [The Woods](https://open.spotify.com/album/73ctstwnbNifu5U902X2zL) | 3:01 |
 | 55 | [Super Rad!](https://open.spotify.com/track/0wZuFLzQhVAJU9JSmdixTE) | [The Aquabats!](https://open.spotify.com/artist/0WgiEOrXlaXJGHKhkd9s4s) | [The Fury of the Aquabats!](https://open.spotify.com/album/3ytuNr6VyEkILS2PG14LCM) | 3:02 |
 | 56 | [Lust For Life](https://open.spotify.com/track/0kvH59HS2T2m4bsXJhBGNC) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [A Million In Prizes: Iggy Pop Anthology \(Edited Version\)](https://open.spotify.com/album/39vZUsVRUvo1l2HwR7Cfpg) | 5:12 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXFLaJaASt2D.md) - [plain]
 | 59 | [White People for Peace](https://open.spotify.com/track/53S5rCt8LFsocU95QXoK1X) | [Against Me!](https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl) | [New Wave \(U.S\. Version\)](https://open.spotify.com/album/08IrBeiM2LU3HAqAaHQcQq) | 3:31 |
 | 60 | [Woo Hoo](https://open.spotify.com/track/6GA8fbPKP6KZ3fP75AIjRI) | [The 5.6.7.8's](https://open.spotify.com/artist/5MZqcO35TJh5QXaFmvXmUy) | [Bomb the Twist](https://open.spotify.com/album/61IsFgLDnUXc9buDJyi3Eo) | 2:02 |
 
-Snapshot ID: `MTY0OTc5NjQwNiwwMDAwMDAwMDZlNWRkMGUwNzhhZDJhMGIyYzYxZDA5ZWQ4YWYyMjBk`
+Snapshot ID: `MTY0OTc5NjQwNiwwMDAwMDAwMDY4NzY0Mjc2Zjc5NjMzODAzZjFlYTI2ZTBjNDdmNDA1`

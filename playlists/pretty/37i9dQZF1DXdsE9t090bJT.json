@@ -1,12 +1,12 @@
 {
   "description": "S\u00fabete a la troca \u2764\ufe0f",
-  "num_followers": 29639,
+  "num_followers": 29762,
   "original_name": "La Mamalona Rom\u00e1ntica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDYzMTA2OSwwMDAwMDAwMGM1ZGQ5ZDU4NDM2NTllYzA1MGZmY2I3OGI2N2YwMGFk",
+  "snapshot_id": "MTY4MDYzMTA2OSwwMDAwMDAwMGJiMjZlMGNhMTkwOGNlOGUzOTQwYzRiZjJjYmI5MGNl",
   "tracks": [
     {
       "added_at": "2023-03-17 06:39:57",
@@ -69,7 +69,7 @@
       "url": "https://open.spotify.com/track/0IKeDy5bT9G0bA7ZixRT4A"
     },
     {
-      "added_at": "2023-04-15 00:47:28",
+      "added_at": "2023-04-16 01:32:36",
       "album": {
         "name": "Chanel",
         "url": "https://open.spotify.com/album/4cd4QB02mwPtiTOJBzQmWo"
@@ -141,6 +141,26 @@
       "url": "https://open.spotify.com/track/6WYB1odDfMPVMyp1QxFInT"
     },
     {
+      "added_at": "2023-04-16 01:32:36",
+      "album": {
+        "name": "Qu\u00e9 Onda Perdida",
+        "url": "https://open.spotify.com/album/6kbhZqFlf80O9LW2EAWz15"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "duration_ms": 239637,
+      "name": "Qu\u00e9 Onda Perdida",
+      "url": "https://open.spotify.com/track/3upTB6o5YgeALHgDp3mzte"
+    },
+    {
       "added_at": "2023-03-17 06:39:57",
       "album": {
         "name": "Loco Enamorado",
@@ -197,26 +217,6 @@
       "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
     },
     {
-      "added_at": "2023-04-15 00:47:28",
-      "album": {
-        "name": "Qu\u00e9 Onda Perdida",
-        "url": "https://open.spotify.com/album/6kbhZqFlf80O9LW2EAWz15"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        }
-      ],
-      "duration_ms": 239637,
-      "name": "Qu\u00e9 Onda Perdida",
-      "url": "https://open.spotify.com/track/3upTB6o5YgeALHgDp3mzte"
-    },
-    {
       "added_at": "2023-03-17 06:39:57",
       "album": {
         "name": "Our Wave Nuestra Ola",
@@ -247,6 +247,22 @@
       "duration_ms": 159172,
       "name": "Eso Y M\u00e1s",
       "url": "https://open.spotify.com/track/7HW5tUjaKxBUamSi7nnzPt"
+    },
+    {
+      "added_at": "2023-03-17 06:39:57",
+      "album": {
+        "name": "MUSICA <3",
+        "url": "https://open.spotify.com/album/1wAx2wnAA7F1SRrznW2GcH"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 253605,
+      "name": "Psicodelica",
+      "url": "https://open.spotify.com/track/6HzREffgQ16b7Rlrr6BY0m"
     },
     {
       "added_at": "2023-03-17 06:39:57",
@@ -283,22 +299,6 @@
       "duration_ms": 208160,
       "name": "El Amor de Mi Vida",
       "url": "https://open.spotify.com/track/1w3FzkhH82foC5oIbIKKut"
-    },
-    {
-      "added_at": "2023-03-17 06:39:57",
-      "album": {
-        "name": "MUSICA <3",
-        "url": "https://open.spotify.com/album/1wAx2wnAA7F1SRrznW2GcH"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 253605,
-      "name": "Psicodelica",
-      "url": "https://open.spotify.com/track/6HzREffgQ16b7Rlrr6BY0m"
     },
     {
       "added_at": "2023-03-17 06:39:57",
@@ -413,7 +413,7 @@
       "url": "https://open.spotify.com/track/6ajVb9JDdueaxbtLImUEPC"
     },
     {
-      "added_at": "2023-04-15 00:47:28",
+      "added_at": "2023-04-16 01:32:36",
       "album": {
         "name": "Mil Maneras De Morir",
         "url": "https://open.spotify.com/album/3Dkya3iIixR12RhWy8KnY5"
@@ -481,24 +481,20 @@
       "url": "https://open.spotify.com/track/0G9e3gdGPeer3BC1jh1qGN"
     },
     {
-      "added_at": "2023-03-17 06:39:57",
+      "added_at": "2023-04-16 01:32:36",
       "album": {
-        "name": "M\u00fasica Rom\u00e1ntica",
-        "url": "https://open.spotify.com/album/5B6pvL3W5WyqxiZ8k70y8U"
+        "name": "No Se Puede Decir Adi\u00f3s / Nuestra Canci\u00f3n",
+        "url": "https://open.spotify.com/album/2hajlGHDWlqIzHh1bvST29"
       },
       "artists": [
         {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
         }
       ],
-      "duration_ms": 232573,
-      "name": "M\u00fasica Rom\u00e1ntica",
-      "url": "https://open.spotify.com/track/0gOwkN1piWLMINfj97SogV"
+      "duration_ms": 164135,
+      "name": "No Se Puede Decir Adi\u00f3s",
+      "url": "https://open.spotify.com/track/1B9Y0b1XIyw6jci2C7oTJc"
     },
     {
       "added_at": "2023-03-17 06:39:57",
@@ -537,36 +533,24 @@
       "url": "https://open.spotify.com/track/6sGYPF1Ud3pYSyh28XOUp2"
     },
     {
-      "added_at": "2023-04-15 00:47:28",
-      "album": {
-        "name": "No Se Puede Decir Adi\u00f3s / Nuestra Canci\u00f3n",
-        "url": "https://open.spotify.com/album/2hajlGHDWlqIzHh1bvST29"
-      },
-      "artists": [
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        }
-      ],
-      "duration_ms": 164135,
-      "name": "No Se Puede Decir Adi\u00f3s",
-      "url": "https://open.spotify.com/track/1B9Y0b1XIyw6jci2C7oTJc"
-    },
-    {
       "added_at": "2023-03-17 06:39:57",
       "album": {
-        "name": "Qu\u00e9date Conmigo",
-        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
+        "name": "M\u00fasica Rom\u00e1ntica",
+        "url": "https://open.spotify.com/album/5B6pvL3W5WyqxiZ8k70y8U"
       },
       "artists": [
         {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         }
       ],
-      "duration_ms": 193666,
-      "name": "Qu\u00e9date Conmigo",
-      "url": "https://open.spotify.com/track/1BjQB4vJPolq7ctCnUC59Z"
+      "duration_ms": 232573,
+      "name": "M\u00fasica Rom\u00e1ntica",
+      "url": "https://open.spotify.com/track/0gOwkN1piWLMINfj97SogV"
     },
     {
       "added_at": "2023-03-17 06:39:57",
@@ -591,18 +575,18 @@
     {
       "added_at": "2023-03-17 06:39:57",
       "album": {
-        "name": "Es Amor",
-        "url": "https://open.spotify.com/album/3b9zRa6yyjSTA6Z24UgbYZ"
+        "name": "Qu\u00e9date Conmigo",
+        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
       },
       "artists": [
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 164933,
-      "name": "Es Amor",
-      "url": "https://open.spotify.com/track/4ktsS76uu22xyxnWOQcNLv"
+      "duration_ms": 193666,
+      "name": "Qu\u00e9date Conmigo",
+      "url": "https://open.spotify.com/track/1BjQB4vJPolq7ctCnUC59Z"
     },
     {
       "added_at": "2023-03-17 06:39:57",
@@ -619,6 +603,22 @@
       "duration_ms": 209906,
       "name": "Mi Raz\u00f3n De Ser",
       "url": "https://open.spotify.com/track/7EDEbNBsxgsTOfrOifN37a"
+    },
+    {
+      "added_at": "2023-03-17 06:39:57",
+      "album": {
+        "name": "Es Amor",
+        "url": "https://open.spotify.com/album/3b9zRa6yyjSTA6Z24UgbYZ"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 164933,
+      "name": "Es Amor",
+      "url": "https://open.spotify.com/track/4ktsS76uu22xyxnWOQcNLv"
     },
     {
       "added_at": "2023-03-17 06:39:57",
@@ -655,22 +655,18 @@
     {
       "added_at": "2023-03-17 06:39:57",
       "album": {
-        "name": "Me Hace Tanto Bien",
-        "url": "https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV"
+        "name": "Andamos En El Ruedo",
+        "url": "https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R"
       },
       "artists": [
         {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        },
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
         }
       ],
-      "duration_ms": 231304,
-      "name": "Me Hace Tanto Bien",
-      "url": "https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg"
+      "duration_ms": 194962,
+      "name": "Te Regalo",
+      "url": "https://open.spotify.com/track/7c36pInnsI3DzAGDQcTW99"
     },
     {
       "added_at": "2023-03-17 06:39:57",
@@ -691,18 +687,22 @@
     {
       "added_at": "2023-03-17 06:39:57",
       "album": {
-        "name": "Andamos En El Ruedo",
-        "url": "https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R"
+        "name": "Me Hace Tanto Bien",
+        "url": "https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV"
       },
       "artists": [
         {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 194962,
-      "name": "Te Regalo",
-      "url": "https://open.spotify.com/track/7c36pInnsI3DzAGDQcTW99"
+      "duration_ms": 231304,
+      "name": "Me Hace Tanto Bien",
+      "url": "https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg"
     },
     {
       "added_at": "2023-03-17 06:39:57",
@@ -741,23 +741,7 @@
       "url": "https://open.spotify.com/track/1NRL1xr9JCqu5ITWURgfk6"
     },
     {
-      "added_at": "2023-03-17 06:39:57",
-      "album": {
-        "name": "Corridos 602",
-        "url": "https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 167370,
-      "name": "Pideme la Luna",
-      "url": "https://open.spotify.com/track/3m2S4eEc19o5krIEplPq2c"
-    },
-    {
-      "added_at": "2023-04-15 00:47:28",
+      "added_at": "2023-04-16 01:32:36",
       "album": {
         "name": "Ni\u00f1a Bonita",
         "url": "https://open.spotify.com/album/0hwRPsmQlENjWhGp1JZdCT"
@@ -775,18 +759,18 @@
     {
       "added_at": "2023-03-17 06:39:57",
       "album": {
-        "name": "Limerencia",
-        "url": "https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj"
+        "name": "Corridos 602",
+        "url": "https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO"
       },
       "artists": [
         {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 226636,
-      "name": "No Te Quiero Perder",
-      "url": "https://open.spotify.com/track/4AwlNIyid3oRyNqX61kTKt"
+      "duration_ms": 167370,
+      "name": "Pideme la Luna",
+      "url": "https://open.spotify.com/track/3m2S4eEc19o5krIEplPq2c"
     },
     {
       "added_at": "2023-03-17 06:39:57",
@@ -803,6 +787,22 @@
       "duration_ms": 188413,
       "name": "Ni\u00f1a De Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2UZoSuDO0D6y9bW9Z3Hkng"
+    },
+    {
+      "added_at": "2023-03-17 06:39:57",
+      "album": {
+        "name": "Limerencia",
+        "url": "https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 226636,
+      "name": "No Te Quiero Perder",
+      "url": "https://open.spotify.com/track/4AwlNIyid3oRyNqX61kTKt"
     },
     {
       "added_at": "2023-03-17 06:39:57",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-03-17 06:39:57",
       "album": {
-        "name": "Junto A Ti",
-        "url": "https://open.spotify.com/album/7mBK2LPlyhQTi3WLM00j7r"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 193922,
-      "name": "Junto A Ti",
-      "url": "https://open.spotify.com/track/6Vjznt4fAGn3rFTuP4EJIC"
-    },
-    {
-      "added_at": "2023-03-17 06:39:57",
-      "album": {
         "name": "D\u00e9jame Ser",
         "url": "https://open.spotify.com/album/3WPHKzqx1q136JTnQ9Q7xz"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 188500,
       "name": "D\u00e9jame Ser",
       "url": "https://open.spotify.com/track/281MU4q1qidG9gUNj2FZsf"
+    },
+    {
+      "added_at": "2023-03-17 06:39:57",
+      "album": {
+        "name": "Junto A Ti",
+        "url": "https://open.spotify.com/album/7mBK2LPlyhQTi3WLM00j7r"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 193922,
+      "name": "Junto A Ti",
+      "url": "https://open.spotify.com/track/6Vjznt4fAGn3rFTuP4EJIC"
     },
     {
       "added_at": "2023-03-17 06:39:57",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-03-17 06:39:57",
       "album": {
-        "name": "Boleros de Hoy",
-        "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 161766,
-      "name": "La Fiesta",
-      "url": "https://open.spotify.com/track/0JazIfsytYrcSkoK8EhLaR"
-    },
-    {
-      "added_at": "2023-03-17 06:39:57",
-      "album": {
         "name": "Caminando",
         "url": "https://open.spotify.com/album/7gKR2yAqsDQoeCRGKKrLQl"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 169000,
       "name": "La Magia de Tus Ojos",
       "url": "https://open.spotify.com/track/16DU79T2PdFSdGf0Z59rr5"
+    },
+    {
+      "added_at": "2023-03-17 06:39:57",
+      "album": {
+        "name": "Boleros de Hoy",
+        "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 161766,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/0JazIfsytYrcSkoK8EhLaR"
     },
     {
       "added_at": "2023-03-17 06:39:57",

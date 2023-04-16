@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uk5oHRWimT.md) - [plain]
 
 > Have yourself a little cozy Christmas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,064 likes - 134 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,042 likes - 134 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

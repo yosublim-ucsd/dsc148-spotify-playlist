@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Os Bico Tão Se Perguntando e os funks mais 🔑 do Brasil\. Foto: MC PH
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,538,359 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,541,497 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

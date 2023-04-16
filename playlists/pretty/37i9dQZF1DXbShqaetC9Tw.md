@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 
 > 새벽 감성\. Issa Vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,066 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,138 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 | 3 | [Cigarette \(Feat\. Tablo, MISO\)](https://open.spotify.com/track/14p5EKgbPx4U3P1j5JNHeh) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv), [Miso](https://open.spotify.com/artist/04xEkodoWyFji8icX911jM) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 4:01 |
 | 4 | [Love Scene](https://open.spotify.com/track/1WWskMa6hvLgHuNhc6suE2) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Bambi \- The 3rd Mini Album](https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p) | 3:37 |
 | 5 | [nvrmnd](https://open.spotify.com/track/0xxtbKIRlFwQ8bZ16u7wJ4) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [SOULBYSEL Compilation 03](https://open.spotify.com/album/290gHiDTfO5EEP1j4VX7za) | 2:33 |
-| 6 | [SUNSET WITH YOU](https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [LOVE.](https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU) | 3:23 |
-| 7 | [Epilogue](https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:49 |
+| 6 | [Epilogue](https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:49 |
+| 7 | [SUNSET WITH YOU](https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [LOVE.](https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU) | 3:23 |
 | 8 | [Movies](https://open.spotify.com/track/5EMGQPQI60jvyDjKT2Fn2I) | [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [CRÈME](https://open.spotify.com/album/50OexC7HF7AMO8ypWaGvPd) | 1:56 |
 | 9 | [U](https://open.spotify.com/track/7wTqBeoo4bDr4eNnn3HHJk) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [grayground.](https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK) | 3:19 |
 | 10 | [Magnolia](https://open.spotify.com/track/5XrRVO7bjxl1HUZ5Ffri4g) | [Aden](https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv) | [Magnolia](https://open.spotify.com/album/1xvErKDx1NMXm0nYNgMuW7) | 2:51 |
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 | 13 | [Photograph](https://open.spotify.com/track/0PkpRtJqrwuXhbdtJuQm7E) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:59 |
 | 14 | [When Dawn Comes Again \(feat\. BAEKHYUN\)](https://open.spotify.com/track/3K5LF6pX2oTzIQA62t6qnK) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [When Dawn Comes Again \(feat\. BAEKHYUN\)](https://open.spotify.com/album/7wgyRpzVueGdjV9yozlIYj) | 4:00 |
 | 15 | [Lights](https://open.spotify.com/track/6iFdx5TnKmYxh47Y3O1rBv) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY) | [Take You Down](https://open.spotify.com/album/55igE6NKmOq7BthH5S0iZZ) | 2:52 |
-| 16 | [Will spring come?](https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [Will spring come?](https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83) | 3:18 |
-| 17 | [Empty Cup](https://open.spotify.com/track/4YnVz2QRU6OnoJ8lt23QHM) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 2:19 |
+| 16 | [Empty Cup](https://open.spotify.com/track/4YnVz2QRU6OnoJ8lt23QHM) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 2:19 |
+| 17 | [Will spring come?](https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [Will spring come?](https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83) | 3:18 |
 | 18 | [Flower \(Feat\. Jay Park, Woo, GIRIBOY\)](https://open.spotify.com/track/0mVvkepe2sQUa0j8NWukaZ) | [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [PEOPLE](https://open.spotify.com/album/2UF3SkoMBUZZf5n6sCBUft) | 4:33 |
 | 19 | [A Song Nobody Knows](https://open.spotify.com/track/5HB7KB2HPCex1iOjiZnal7) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [idealism](https://open.spotify.com/album/3Al5AVkcxXux7ZhhEajQiV) | 4:49 |
 | 20 | [study abroad \(Feat\. Han\-All\)](https://open.spotify.com/track/6O4S5bDDOrhnHcVkwyAx1L) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ), [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [starry night ‘17](https://open.spotify.com/album/2RPyn31wYLC9lWn4p0OVEI) | 3:52 |
@@ -35,13 +35,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 | 25 | [That's Why I Can't Talk About Love \(Feat\. Woo\)](https://open.spotify.com/track/1BmvCldqrJeAKZ898FPdUZ) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [That's Why I Can't Talk About Love](https://open.spotify.com/album/1RrhtJWm5crbMBiIP34arG) | 3:22 |
 | 26 | [U](https://open.spotify.com/track/6tB91x3oFMbXdQaNNbVoxj) | [OSUN](https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb) | [OFOSUN](https://open.spotify.com/album/5kezSa95PtqnwifxO0K6ky) | 3:46 |
 | 27 | [wandering \(feat\. george\)](https://open.spotify.com/track/6jMcjpMJEjdJa9GQLgQNZ2) | [basecamp](https://open.spotify.com/artist/4MI73VbvvaJFXe1T6iacWx), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [wandering \(feat\. george\)](https://open.spotify.com/album/6hBEslMx5wtLS5wehYiwPP) | 3:24 |
-| 28 | [Overthinking](https://open.spotify.com/track/1OJExKEuSvIdtw9NIaszOc) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 6:10 |
+| 28 | [Moon, 12:04am](https://open.spotify.com/track/57mWHxgHxZnhFhFiBrpYUV) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:43 |
 | 29 | [PIZZA](https://open.spotify.com/track/3xzl4MYc0YLQHJbaD6LxT6) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Far From the Madding City](https://open.spotify.com/album/43toiDnPej9XfkfNB821JD) | 3:31 |
 | 30 | [In the Blur of the Rain](https://open.spotify.com/track/5NbGKVTywRBQpqkkaQJi5j) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Evergray](https://open.spotify.com/album/7DMeNlCClB36augRfjESKN) | 3:53 |
 | 31 | [LA VIE](https://open.spotify.com/track/0eW5FMPvIQXhMYZQhea7Hj) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Little Women, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2AoSgorhPk4logk3wEufL6) | 3:49 |
 | 32 | [BRB](https://open.spotify.com/track/1KTkQFju4e9JnuYuXWRNnM) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 3:28 |
 | 33 | [One Snowy Day \(Feat\. SOLE\)](https://open.spotify.com/track/0JQgYzXuL2wCTAv6z4mESW) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [One Snowy Day](https://open.spotify.com/album/5KgyDwE5ziv44yAMFAghGo) | 4:00 |
-| 34 | [Moon, 12:04am](https://open.spotify.com/track/57mWHxgHxZnhFhFiBrpYUV) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:43 |
+| 34 | [Overthinking](https://open.spotify.com/track/1OJExKEuSvIdtw9NIaszOc) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 6:10 |
 | 35 | [Please Love Me](https://open.spotify.com/track/4SFNHcxBFUmhAWwVZUpx4n) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Wave](https://open.spotify.com/album/6a1hq6e3NBDmSNQeVm2MbE) | 4:19 |
 | 36 | [Rain Drop](https://open.spotify.com/track/4aJxNxnrW5tbL8gay0pCdU) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [Dry Flower](https://open.spotify.com/album/45VLePxOqvMWcGOPImCpNg) | 2:25 |
 | 37 | [This Night](https://open.spotify.com/track/15BICHMgXBWNJ8EXwHuSXZ) | [Rad Museum](https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo) | [SINK](https://open.spotify.com/album/16xCQMS0ioflP8PWrLD0UN) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 | 49 | [Blue Candle](https://open.spotify.com/track/74NAth9jobuzJLmRyDde3n) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [idealism](https://open.spotify.com/album/3Al5AVkcxXux7ZhhEajQiV) | 3:18 |
 | 50 | [When The Rain Stops](https://open.spotify.com/track/5UvS2soEVuRr4SFpvB09KJ) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [D\-day](https://open.spotify.com/album/6FAG9dF5HWKlUALQeLYWpt) | 3:01 |
 
-Snapshot ID: `MTY4MDI1ODAxOCwwMDAwMDAwMDM2YzBlODc4NmVlZDRkNDExZTk2ZjA0NTljMmI1ZmU2`
+Snapshot ID: `MTY4MDI1ODAxOCwwMDAwMDAwMGJhZmRkMTIzOTc2YmQ5Y2I1NjFkZThjMjRlNzkxY2Qx`

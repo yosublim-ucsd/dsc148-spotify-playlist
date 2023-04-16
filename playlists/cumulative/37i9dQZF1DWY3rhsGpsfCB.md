@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-265 songs - 14 hr 3 min
+266 songs - 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Psychic](https://open.spotify.com/track/64pUytZWfCpeeMBN0XAadF) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Breezy](https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM) | 3:40 | 2022-06-24 | 2022-11-26 |
 | [Reckless & Sweet](https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Reckless & Sweet](https://open.spotify.com/album/61txqqf1NJIql5AnkSNdNz) | 2:39 | 2023-03-17 |  |
 | [recognize](https://open.spotify.com/track/6ezXpXqbGqIwxUuVBMpHTp) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 1:23 | 2022-07-14 | 2022-08-30 |
+| [Right My Wrongs](https://open.spotify.com/track/2a6dtqGypYvr9h1s6RDSNo) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Right My Wrongs](https://open.spotify.com/album/0MUdV84DUtrrIfUlr1QNL2) | 2:20 | 2023-04-14 |  |
 | [Right Now](https://open.spotify.com/track/75iErUVF1heXnj5CB1gaju) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Right Now](https://open.spotify.com/album/3Lk51jNfQewZIGuTvvE8uk) | 3:12 | 2022-06-24 | 2022-08-12 |
 | [Rolling Stone](https://open.spotify.com/track/5JHMXUWq4FxSuZndpq3wKI) | [B Young](https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Rolling Stone](https://open.spotify.com/album/0qQC6ZOVFaCNphabIMRWVJ) | 3:20 | 2022-09-09 | 2022-11-19 |
 | [Room 69](https://open.spotify.com/track/3dl81ypaK6k0y0RCszBKS4) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/6MFyUXJ1YrcHvraPVirOZ1) | 3:09 | 2023-02-16 | 2023-02-24 |
@@ -211,7 +212,7 @@
 | [Run](https://open.spotify.com/track/1SAxAnhOG0xTh0Gm2Qlsoj) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Run](https://open.spotify.com/album/5p5FoOxBxlXv6VjDWJy6Hq) | 2:33 | 2023-02-16 |  |
 | [Runaway](https://open.spotify.com/track/4vHVukKtQOkJNX5TwjRaBm) | [NATIVE Sound System](https://open.spotify.com/artist/5Vug6iR3M9khAmBF8TL5fy), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Runaway](https://open.spotify.com/album/2r1ln8Z5prTPO5qGQkBA4T) | 3:40 | 2022-06-24 | 2023-02-24 |
 | [safe haven](https://open.spotify.com/track/7EEinxDxDsRX3AIIJ026TZ) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:49 | 2022-07-14 |  |
-| [Scared](https://open.spotify.com/track/0EW3cgvLiqTBvSQnDy2IPp) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Wanderlust](https://open.spotify.com/album/47850oZFnjDTaEjPAgIEuf) | 3:51 | 2022-11-04 |  |
+| [Scared](https://open.spotify.com/track/0EW3cgvLiqTBvSQnDy2IPp) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Wanderlust](https://open.spotify.com/album/47850oZFnjDTaEjPAgIEuf) | 3:51 | 2022-11-04 | 2023-04-16 |
 | [Scarred](https://open.spotify.com/track/5PSYn0XVImstXPFFDtajEK) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 2:58 | 2022-06-24 | 2023-02-11 |
 | [Scenic Drive \(feat\. Ari Lennox & Smino\)](https://open.spotify.com/track/6zIen2DYr2t19vbwqgORY2) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Scenic Drive \(The Tape\)](https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE) | 4:09 | 2022-06-24 | 2023-02-17 |
 | [Selling Dreams](https://open.spotify.com/track/50BvQjbcdQlYBivMUjK2QR) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Selling Dreams](https://open.spotify.com/album/40jDnDL4AczO7ZgIIauyOL) | 2:28 | 2023-02-03 |  |

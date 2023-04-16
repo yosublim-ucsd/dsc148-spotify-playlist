@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/akademiks/\">DJ Akademiks</a>",
-  "num_followers": 5891,
+  "num_followers": 5909,
   "original_name": "DJ Akademiks' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MTAzNywwMDAwMDAwMGMxOTFlMzQ5MmMzODY3OTdkZjUzN2ZiMTNiNDZjMDJm",
+  "snapshot_id": "MTY2NDY0MTAzNywwMDAwMDAwMGQwZDMzOGUwNWU4NTBjY2QyNTIyYWJiMzFiNzYzZDJh",
   "tracks": [
     {
       "added_at": "2022-10-01 16:17:17",
@@ -395,6 +395,22 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
+        "name": "LLC",
+        "url": "https://open.spotify.com/album/6FjAZZk6sL9UVMFY1tQloy"
+      },
+      "artists": [
+        {
+          "name": "Money Man",
+          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
+        }
+      ],
+      "duration_ms": 137813,
+      "name": "LLC",
+      "url": "https://open.spotify.com/track/53JqTGiqfRuNwC54WAIG6H"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
         "name": "On Go (feat. Polo G)",
         "url": "https://open.spotify.com/album/5d1WnOlcSun3ghG0H3dV7z"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 180805,
       "name": "On Go (feat. Polo G)",
       "url": "https://open.spotify.com/track/3Ho13bRS28xEvGvgW4LOFM"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
-        "name": "LLC",
-        "url": "https://open.spotify.com/album/6FjAZZk6sL9UVMFY1tQloy"
-      },
-      "artists": [
-        {
-          "name": "Money Man",
-          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
-        }
-      ],
-      "duration_ms": 137813,
-      "name": "LLC",
-      "url": "https://open.spotify.com/track/53JqTGiqfRuNwC54WAIG6H"
     },
     {
       "added_at": "2022-10-01 16:17:17",
@@ -791,6 +791,26 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
+        "name": "Relentless (feat. Lil Durk)",
+        "url": "https://open.spotify.com/album/7805rgXmjrssqgW03U9ZTu"
+      },
+      "artists": [
+        {
+          "name": "Booka600",
+          "url": "https://open.spotify.com/artist/5g8mXUQcC8DVAHLwGGAIrJ"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 206533,
+      "name": "Relentless (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/6mdPEY68QpFtEau2sfQLW1"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
         "name": "It Ain't My Fault",
         "url": "https://open.spotify.com/album/5aTCwMHvG9VSoeX1ZpYQY0"
       },
@@ -811,26 +831,6 @@
       "duration_ms": 206720,
       "name": "It Ain't My Fault",
       "url": "https://open.spotify.com/track/5cX92psZ1aSHr6rTmGQMps"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
-        "name": "Relentless (feat. Lil Durk)",
-        "url": "https://open.spotify.com/album/7805rgXmjrssqgW03U9ZTu"
-      },
-      "artists": [
-        {
-          "name": "Booka600",
-          "url": "https://open.spotify.com/artist/5g8mXUQcC8DVAHLwGGAIrJ"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 206533,
-      "name": "Relentless (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/6mdPEY68QpFtEau2sfQLW1"
     },
     {
       "added_at": "2022-10-01 16:17:17",

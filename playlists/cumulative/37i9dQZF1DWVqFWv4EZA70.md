@@ -4,11 +4,12 @@
 
 > Beats que le suben el ánimo a tu día.
 
-85 songs - 5 hr 26 min
+86 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1925](https://open.spotify.com/track/3navZS9goNH9MlBiKD1E6V) | [LVDS](https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s) | [1925](https://open.spotify.com/album/02JcbHQKbM8u2wRO5WHaOe) | 2:44 | 2021-10-15 |  |
+| [1925](https://open.spotify.com/track/2xqQQSou8MTah33wgZRQJ3) | [LVDS](https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s) | [Golden Days](https://open.spotify.com/album/2jbAtaivV9FTqp4WXcKqxk) | 2:44 | 2022-10-10 |  |
+| [1925](https://open.spotify.com/track/3navZS9goNH9MlBiKD1E6V) | [LVDS](https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s) | [1925](https://open.spotify.com/album/02JcbHQKbM8u2wRO5WHaOe) | 2:44 | 2021-10-15 | 2023-04-16 |
 | [Atlantic Oscillations](https://open.spotify.com/track/0FzxpBbzXCiOjNvSW0Q1NY) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Atlantic Oscillations](https://open.spotify.com/album/729Ja1YsqDHtt4kVh4nP7J) | 5:51 | 2021-10-15 | 2022-07-29 |
 | [Atlantic Oscillations](https://open.spotify.com/track/4c0MBMraTqhHafXnATV1st) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Atlantic Oscillations](https://open.spotify.com/album/7m3CyxNH2qJ5COtYLC7PPp) | 5:51 | 2021-10-15 |  |
 | [Atlantic Oscillations](https://open.spotify.com/track/7jAXf51D0PTQme53oTyck5) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Disco Funkin', Vol\. 2 \(Curated by Flevans\)](https://open.spotify.com/album/1w3aaTjIft7Q637XWakE8F) | 5:51 | 2022-10-10 | 2022-11-13 |

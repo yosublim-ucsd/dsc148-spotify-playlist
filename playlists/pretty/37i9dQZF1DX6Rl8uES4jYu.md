@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,367 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,357 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 | 93 | [Automatic](https://open.spotify.com/track/27KqSOzLiN6p9sjs95MnZg) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Automatic](https://open.spotify.com/album/40P7jOxKnMf7KVpX0kWcCD) | 3:58 |
 | 94 | [Up](https://open.spotify.com/track/1WWRakZzeLuWPlfymWPSYf) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Up](https://open.spotify.com/album/0xwpeyyjply5M7AHR2ksx3) | 2:57 |
 | 95 | [Tip Of The Flame \- 12" Disco Mix](https://open.spotify.com/track/67DpsCMB560OVTv3EfztzW) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Tip Of The Flame \(12" Disco Mix\)](https://open.spotify.com/album/6QoIPnSuTwSMWoWjoqtiCD) | 5:57 |
-| 96 | [The Thrill Is Gone.](https://open.spotify.com/track/0OY4O9PuW7A5fbI2o90WA8) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Escapism\. / The Thrill Is Gone.](https://open.spotify.com/album/3omkMn8vbTKOebb9ABbqyb) | 3:19 |
+| 96 | [The Thrill Is Gone.](https://open.spotify.com/track/5eVG50IlyjSevPsWnSI76r) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:19 |
 | 97 | [Lunar Eclipse](https://open.spotify.com/track/5LeKKDF7i65mQ3NIW8mkwP) | [Fulton Lee](https://open.spotify.com/artist/5CAvR9koH16JpcoTxUoeyS) | [Lunar Eclipse](https://open.spotify.com/album/40SlzaFKQTtGh2vOv1BPAC) | 3:14 |
 | 98 | [Kids Are Born Stars](https://open.spotify.com/track/2pD74s7WAlBWUXjrTsKgdS) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Kids Are Born Stars](https://open.spotify.com/album/7HhcskxiIqyd0KthMqR7eA) | 3:07 |
 | 99 | [First Avenue](https://open.spotify.com/track/2ICzjmxUrrS0x5YgLqpXqh) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Joey Dosik](https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E) | [Power Station](https://open.spotify.com/album/5SBfou3NNkuYL0LeU004xy) | 3:38 |
 | 100 | [closure](https://open.spotify.com/track/10B7inTJO0QRBskRuEZ6mr) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [closure](https://open.spotify.com/album/41CSc4GOz0mCIjbNcBlVyb) | 3:02 |
 
-Snapshot ID: `MTY4MDg0MDA2MCwwMDAwMDAwMDk0NTUxZDcyNmQ4MTZkZGVhMjNlMzBkMDRmZTJkNzlh`
+Snapshot ID: `MTY4MDg0MDA2MCwwMDAwMDAwMGMzYjRiM2YzMzgwYTk0NjBiYWNjNDgwMWE0NmQxYjhj`

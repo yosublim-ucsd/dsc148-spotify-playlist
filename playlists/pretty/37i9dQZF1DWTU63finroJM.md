@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > From across the globe\. New artists on the horizon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,755 likes - 191 songs - 10 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,937 likes - 191 songs - 10 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

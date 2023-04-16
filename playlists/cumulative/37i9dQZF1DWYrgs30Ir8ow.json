@@ -489,6 +489,24 @@
     },
     {
       "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212953,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
+    },
+    {
+      "album": {
         "name": "De Nacht",
         "url": "https://open.spotify.com/album/7BwQcp2ElEdta4qGT0HUII"
       },
@@ -1306,7 +1324,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 231030,
       "name": "Midden In De Club",
       "url": "https://open.spotify.com/track/0Fu1u02G2t0zx57nznFwC8"

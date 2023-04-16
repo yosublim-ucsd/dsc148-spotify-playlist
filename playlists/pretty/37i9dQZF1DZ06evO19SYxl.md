@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19SYxl.md) - [plain]
 
 > This is Tex Tex\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,561 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,566 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19SYxl.md) - [plain]
 | 37 | [Deja en Paz Mi Corazón](https://open.spotify.com/track/5Ov9ys2XQdAuxBg8OW3Ugy) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Perdidos](https://open.spotify.com/album/28kwRlbn4AFl6VNu4LC87a) | 3:49 |
 | 38 | [Despedazado](https://open.spotify.com/track/0KyMslVGDKRMxTcE3ntrjh) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Tex Tex 3](https://open.spotify.com/album/3yd7QnbMmZ5uDiYb1u28Pi) | 4:12 |
 | 39 | [Dinero \- En Vivo](https://open.spotify.com/track/5C82BHmoJImku3MZbDaITZ) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Los Muñecos Desenchufados \(En Vivo\) \[Serie Alive\]](https://open.spotify.com/album/7pixSb8mEYaDg1Nk6oak9I) | 4:24 |
-| 40 | [Asesinos del Rock](https://open.spotify.com/track/5PrzzhjU0EiN2ryEdVnsDB) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [La Fiesta](https://open.spotify.com/album/5NMDR1l1QRdzUgOQNlFNN8) | 3:21 |
+| 40 | [La Calle 16](https://open.spotify.com/track/1wf4pyJiS0fkX84FLwoEPf) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Un Toque Magico](https://open.spotify.com/album/58ozvUHrRppgI8nCqAyCdL) | 5:17 |
 | 41 | [Un Tipo Guapo](https://open.spotify.com/track/0V7UQCv8krGwIXcSjjWiUM) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Perdidos](https://open.spotify.com/album/28kwRlbn4AFl6VNu4LC87a) | 4:04 |
-| 42 | [La Calle 16](https://open.spotify.com/track/1wf4pyJiS0fkX84FLwoEPf) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Un Toque Magico](https://open.spotify.com/album/58ozvUHrRppgI8nCqAyCdL) | 5:17 |
-| 43 | [Tex Tex Boogie](https://open.spotify.com/track/6DQGq9NknX23NMBIgQs83m) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Hombre Afortunado](https://open.spotify.com/album/2TDsxyCXFpUuMYgIWdtriW) | 4:37 |
-| 44 | [Vengador Anónimo](https://open.spotify.com/track/4YmEl8T1rbGyNifdmB7tTp) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Me Haces Volar](https://open.spotify.com/album/258YrXJW3cZPhinJpiCKef) | 5:20 |
-| 45 | [El Gato Con Botas](https://open.spotify.com/track/2auwC34hJtOYDV8qs0LXNW) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 1:47 |
-| 46 | [Vestido Blanco](https://open.spotify.com/track/3WVRoIs8UO1OV89G3ezp6O) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Te Vas a Acordar de Mi](https://open.spotify.com/album/3UWvD8vARmr4oXYLRfSXEP) | 3:59 |
+| 42 | [Asesinos del Rock](https://open.spotify.com/track/5PrzzhjU0EiN2ryEdVnsDB) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [La Fiesta](https://open.spotify.com/album/5NMDR1l1QRdzUgOQNlFNN8) | 3:21 |
+| 43 | [Vengador Anónimo](https://open.spotify.com/track/4YmEl8T1rbGyNifdmB7tTp) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Me Haces Volar](https://open.spotify.com/album/258YrXJW3cZPhinJpiCKef) | 5:20 |
+| 44 | [El Gato Con Botas](https://open.spotify.com/track/2auwC34hJtOYDV8qs0LXNW) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 1:47 |
+| 45 | [Vestido Blanco](https://open.spotify.com/track/3WVRoIs8UO1OV89G3ezp6O) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Te Vas a Acordar de Mi](https://open.spotify.com/album/3UWvD8vARmr4oXYLRfSXEP) | 3:59 |
+| 46 | [Tex Tex Boogie](https://open.spotify.com/track/6DQGq9NknX23NMBIgQs83m) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Hombre Afortunado](https://open.spotify.com/album/2TDsxyCXFpUuMYgIWdtriW) | 4:37 |
 | 47 | [Fast Food](https://open.spotify.com/track/5tZQcnx2HRbeRwBp8P24U9) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Súbete al Tren](https://open.spotify.com/album/6scq5eOKVsFPlzmgZtjdxC) | 2:27 |
 | 48 | [Pienso en Ti \- 2022 Remasterizado](https://open.spotify.com/track/2R6U2IsnJOKoPL7k0FotuA) | [Gallo Rojo](https://open.spotify.com/artist/5snI6175hjbf6Du8Z2E5Mk), [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Pienso en Ti \(2022 Remasterizado\)](https://open.spotify.com/album/2aYTPJH1knXa3TLh7LIXNz) | 3:28 |
 | 49 | [Funky, Pt\. 1 \- En Vivo](https://open.spotify.com/track/5gYOs5IL03sXdbsYT58xeI) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Los Muñecos Desenchufados \(En Vivo\) \[Serie Alive\]](https://open.spotify.com/album/7pixSb8mEYaDg1Nk6oak9I) | 5:11 |
 | 50 | [Swing de la Tarde / Flores en Tu Pelo](https://open.spotify.com/track/0gvqro1POjzsUSGfjgY88B) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Hombre Afortunado](https://open.spotify.com/album/2TDsxyCXFpUuMYgIWdtriW) | 4:33 |
 
-Snapshot ID: `MjgwMjQ4NTIsMDAwMDAwMDAwMTRkMTg0ZTBkNmIzNDE5MzE3YWJjOTUyOGQ4MjNhNw==`
+Snapshot ID: `MjgwMjYwMzEsMDAwMDAwMDA4NGQzYzFlZmM0ZmUwOWUzNmUzNjI3MGY2NGJhYjk5ZA==`

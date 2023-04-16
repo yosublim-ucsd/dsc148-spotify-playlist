@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks for punks big and small.",
-  "num_followers": 40429,
+  "num_followers": 40501,
   "original_name": "Raised on Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTc5NjQwNiwwMDAwMDAwMDZlNWRkMGUwNzhhZDJhMGIyYzYxZDA5ZWQ4YWYyMjBk",
+  "snapshot_id": "MTY0OTc5NjQwNiwwMDAwMDAwMDY4NzY0Mjc2Zjc5NjMzODAzZjFlYTI2ZTBjNDdmNDA1",
   "tracks": [
     {
       "added_at": "2021-04-20 17:48:20",
@@ -811,6 +811,22 @@
     {
       "added_at": "2021-04-20 17:48:20",
       "album": {
+        "name": "Fight the Good Fight",
+        "url": "https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL"
+      },
+      "artists": [
+        {
+          "name": "The Interrupters",
+          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+        }
+      ],
+      "duration_ms": 161680,
+      "name": "Title Holder",
+      "url": "https://open.spotify.com/track/5dt0dBcBTgGb7Gt5hNTG91"
+    },
+    {
+      "added_at": "2021-04-20 17:48:20",
+      "album": {
         "name": "Somewhere Between Heaven And Hell",
         "url": "https://open.spotify.com/album/7yAO087eGmjE9jTUWQw0oj"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 173103,
       "name": "Salvation",
       "url": "https://open.spotify.com/track/6b769E9sQf0kZTILVjSDaH"
-    },
-    {
-      "added_at": "2021-04-20 17:48:20",
-      "album": {
-        "name": "Fight the Good Fight",
-        "url": "https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL"
-      },
-      "artists": [
-        {
-          "name": "The Interrupters",
-          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
-        }
-      ],
-      "duration_ms": 161680,
-      "name": "Title Holder",
-      "url": "https://open.spotify.com/track/5dt0dBcBTgGb7Gt5hNTG91"
     },
     {
       "added_at": "2021-04-20 17:48:20",

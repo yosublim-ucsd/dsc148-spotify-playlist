@@ -1,12 +1,12 @@
 {
   "description": "Pagode e Sertanejo pura sofr\u00eancia para te acompanhar na faxina!",
-  "num_followers": 648456,
+  "num_followers": 649060,
   "original_name": "Faxina com Sofr\u00eancia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk5ODA2MCwwMDAwMDAwMDQxNjdlNTFjYTUyODMzZTU0YTUxZTdmNTY0ZjFkZDUz",
+  "snapshot_id": "MTY3NTk5ODA2MCwwMDAwMDAwMDEzNGEwMDdjNWQwZmRhNTdjZTQ2NDY0ZjRjMWJkMzJi",
   "tracks": [
     {
       "added_at": "2023-02-10 03:01:00",
@@ -247,18 +247,18 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
-        "name": "O Cara Certo",
-        "url": "https://open.spotify.com/album/46AcQjehXf14WEIzG7X780"
+        "name": "In The Cities - Ao Vivo Em Cuiab\u00e1",
+        "url": "https://open.spotify.com/album/5nGde95l1DJcFZCB3NOduX"
       },
       "artists": [
         {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+          "name": "Cristiano Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/4HF14RSTZQcEafvfPCFEpI"
         }
       ],
-      "duration_ms": 223546,
-      "name": "Ref\u00e9m",
-      "url": "https://open.spotify.com/track/4muZ1PUxmss4cVmYnpLrvs"
+      "duration_ms": 313266,
+      "name": "Caso Indefinido - Ao Vivo",
+      "url": "https://open.spotify.com/track/54TwNxgRorpA9lsStXcv0k"
     },
     {
       "added_at": "2023-02-10 03:01:00",
@@ -279,18 +279,18 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
-        "name": "In The Cities - Ao Vivo Em Cuiab\u00e1",
-        "url": "https://open.spotify.com/album/5nGde95l1DJcFZCB3NOduX"
+        "name": "O Cara Certo",
+        "url": "https://open.spotify.com/album/46AcQjehXf14WEIzG7X780"
       },
       "artists": [
         {
-          "name": "Cristiano Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/4HF14RSTZQcEafvfPCFEpI"
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
         }
       ],
-      "duration_ms": 313266,
-      "name": "Caso Indefinido - Ao Vivo",
-      "url": "https://open.spotify.com/track/54TwNxgRorpA9lsStXcv0k"
+      "duration_ms": 223546,
+      "name": "Ref\u00e9m",
+      "url": "https://open.spotify.com/track/4muZ1PUxmss4cVmYnpLrvs"
     },
     {
       "added_at": "2023-02-10 03:01:00",
@@ -379,26 +379,6 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
-        "name": "Sobrenome (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5mxkr7VInEvT2afoTjiQVB"
-      },
-      "artists": [
-        {
-          "name": "Vitinho",
-          "url": "https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp"
-        },
-        {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
-        }
-      ],
-      "duration_ms": 192253,
-      "name": "Sobrenome - Ao vivo",
-      "url": "https://open.spotify.com/track/3gYvOU6MJGBS2WNyDTW7Ui"
-    },
-    {
-      "added_at": "2023-02-10 03:01:00",
-      "album": {
         "name": "Ao Cubo, Ao Vivo, Em Cores",
         "url": "https://open.spotify.com/album/29zZdrNrxlZsolrlspfmDA"
       },
@@ -419,6 +399,26 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
+        "name": "Sobrenome (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5mxkr7VInEvT2afoTjiQVB"
+      },
+      "artists": [
+        {
+          "name": "Vitinho",
+          "url": "https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp"
+        },
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        }
+      ],
+      "duration_ms": 192253,
+      "name": "Sobrenome - Ao vivo",
+      "url": "https://open.spotify.com/track/3gYvOU6MJGBS2WNyDTW7Ui"
+    },
+    {
+      "added_at": "2023-02-10 03:01:00",
+      "album": {
         "name": "Por Mais Beijos Ao Vivo (ao Vivo)",
         "url": "https://open.spotify.com/album/1Yg3QTRv9IGAWeJQb7q8bT"
       },
@@ -435,8 +435,8 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
-        "name": "Ao Vivo Em Bras\u00edlia (Deluxe)",
-        "url": "https://open.spotify.com/album/2pHdbp86D4AfZkSu3MVHTg"
+        "name": "Novas Hist\u00f3rias (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4pUsKJjeqLi99MZbRKD03U"
       },
       "artists": [
         {
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Cuida Bem Dela - Ao Vivo",
-      "url": "https://open.spotify.com/track/0T6QwkFrB2czW5DWj531rQ"
+      "duration_ms": 163913,
+      "name": "Como \u00c9 Que A Gente Fica - Ao Vivo",
+      "url": "https://open.spotify.com/track/0zxWyvrKyz031tFfBnkYLr"
     },
     {
       "added_at": "2023-02-10 03:01:00",
@@ -567,8 +567,8 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
-        "name": "Novas Hist\u00f3rias (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4pUsKJjeqLi99MZbRKD03U"
+        "name": "Ao Vivo Em Bras\u00edlia (Deluxe)",
+        "url": "https://open.spotify.com/album/2pHdbp86D4AfZkSu3MVHTg"
       },
       "artists": [
         {
@@ -576,9 +576,25 @@
           "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
         }
       ],
-      "duration_ms": 163913,
-      "name": "Como \u00c9 Que A Gente Fica - Ao Vivo",
-      "url": "https://open.spotify.com/track/0zxWyvrKyz031tFfBnkYLr"
+      "duration_ms": 200000,
+      "name": "Cuida Bem Dela - Ao Vivo",
+      "url": "https://open.spotify.com/track/0T6QwkFrB2czW5DWj531rQ"
+    },
+    {
+      "added_at": "2023-02-10 03:01:00",
+      "album": {
+        "name": "Querosene e o Viol\u00e3o",
+        "url": "https://open.spotify.com/album/6gbvsAZViRa9rIq0GjfQbp"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        }
+      ],
+      "duration_ms": 161403,
+      "name": "Infarto",
+      "url": "https://open.spotify.com/track/0XEJ7eph2IWFYZc73Jm3n2"
     },
     {
       "added_at": "2023-02-10 03:01:00",
@@ -599,22 +615,6 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
-        "name": "Continua",
-        "url": "https://open.spotify.com/album/5MApIKrwbZby8tMOND098R"
-      },
-      "artists": [
-        {
-          "name": "Cristiano Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/4HF14RSTZQcEafvfPCFEpI"
-        }
-      ],
-      "duration_ms": 193680,
-      "name": "Maus Bocados",
-      "url": "https://open.spotify.com/track/1Tditr5KyzStSK3GiO6Xlj"
-    },
-    {
-      "added_at": "2023-02-10 03:01:00",
-      "album": {
         "name": "Todos Os Cantos, Vol. 2 (ao Vivo)",
         "url": "https://open.spotify.com/album/3mTbv6MyAR4KEDh0w8s9Nk"
       },
@@ -631,22 +631,18 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
-        "name": "O Alvo (feat. Henrique & Juliano) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/3yprBTFIy7DnJCHnMDifRv"
+        "name": "Continua",
+        "url": "https://open.spotify.com/album/5MApIKrwbZby8tMOND098R"
       },
       "artists": [
         {
-          "name": "Diego & Victor Hugo",
-          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
-        },
-        {
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+          "name": "Cristiano Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/4HF14RSTZQcEafvfPCFEpI"
         }
       ],
-      "duration_ms": 164956,
-      "name": "O Alvo (feat. Henrique & Juliano) - Ao Vivo",
-      "url": "https://open.spotify.com/track/5Vw6ZLNB6Ko7VZM6vmNIbr"
+      "duration_ms": 193680,
+      "name": "Maus Bocados",
+      "url": "https://open.spotify.com/track/1Tditr5KyzStSK3GiO6Xlj"
     },
     {
       "added_at": "2023-02-10 03:01:00",
@@ -731,18 +727,22 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
-        "name": "S\u00f3 Vem! (ao Vivo) - Deluxe",
-        "url": "https://open.spotify.com/album/04tzF0EuVB13cbdgH0d9iV"
+        "name": "O Alvo (feat. Henrique & Juliano) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/3yprBTFIy7DnJCHnMDifRv"
       },
       "artists": [
         {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        },
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
         }
       ],
-      "duration_ms": 205430,
-      "name": "Ponto Fraco - Ao Vivo",
-      "url": "https://open.spotify.com/track/0KkZFQSvZrTL1zU3cX8Z7e"
+      "duration_ms": 164956,
+      "name": "O Alvo (feat. Henrique & Juliano) - Ao Vivo",
+      "url": "https://open.spotify.com/track/5Vw6ZLNB6Ko7VZM6vmNIbr"
     },
     {
       "added_at": "2023-02-10 03:01:00",
@@ -763,18 +763,18 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
-        "name": "Querosene e o Viol\u00e3o",
-        "url": "https://open.spotify.com/album/6gbvsAZViRa9rIq0GjfQbp"
+        "name": "S\u00f3 Vem! (ao Vivo) - Deluxe",
+        "url": "https://open.spotify.com/album/04tzF0EuVB13cbdgH0d9iV"
       },
       "artists": [
         {
-          "name": "Diego & Victor Hugo",
-          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
         }
       ],
-      "duration_ms": 161403,
-      "name": "Infarto",
-      "url": "https://open.spotify.com/track/0XEJ7eph2IWFYZc73Jm3n2"
+      "duration_ms": 205430,
+      "name": "Ponto Fraco - Ao Vivo",
+      "url": "https://open.spotify.com/track/0KkZFQSvZrTL1zU3cX8Z7e"
     },
     {
       "added_at": "2023-02-10 03:01:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
-        "name": "De Volta pro Amanh\u00e3",
-        "url": "https://open.spotify.com/album/6rJfOUFtfOAzFve2Qp2Ei5"
-      },
-      "artists": [
-        {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        }
-      ],
-      "duration_ms": 221693,
-      "name": "Dependente",
-      "url": "https://open.spotify.com/track/2xOa2qPj8kDnlj8Nr1D07s"
-    },
-    {
-      "added_at": "2023-02-10 03:01:00",
-      "album": {
         "name": "De Bra\u00e7os Abertos (Ao Vivo)",
         "url": "https://open.spotify.com/album/6plZQVlgm6HDExDtMcb4iC"
       },
@@ -1027,6 +1011,38 @@
       "duration_ms": 192946,
       "name": "Rasp\u00e3o (feat. Simone & Simaria) - Ao Vivo",
       "url": "https://open.spotify.com/track/6gquljDBW7rE6mCBzmTRxo"
+    },
+    {
+      "added_at": "2023-02-10 03:01:00",
+      "album": {
+        "name": "De Volta pro Amanh\u00e3",
+        "url": "https://open.spotify.com/album/6rJfOUFtfOAzFve2Qp2Ei5"
+      },
+      "artists": [
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        }
+      ],
+      "duration_ms": 221693,
+      "name": "Dependente",
+      "url": "https://open.spotify.com/track/2xOa2qPj8kDnlj8Nr1D07s"
+    },
+    {
+      "added_at": "2023-02-10 03:01:00",
+      "album": {
+        "name": "Livre (Ao Vivo / Deluxe)",
+        "url": "https://open.spotify.com/album/5XzBQMo9WMrpRlgoBaeTIf"
+      },
+      "artists": [
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        }
+      ],
+      "duration_ms": 164407,
+      "name": "Viva Voz - Ao Vivo Em S\u00e3o Paulo / 2019",
+      "url": "https://open.spotify.com/track/1jomN1tLiPE5eGd9siFJYE"
     },
     {
       "added_at": "2023-02-10 03:01:00",
@@ -1059,22 +1075,6 @@
       "duration_ms": 220853,
       "name": "\u00c9 Com Ela Que Eu Estou - Ao Vivo",
       "url": "https://open.spotify.com/track/07NSyHtBkMt2pb9sJoZxUB"
-    },
-    {
-      "added_at": "2023-02-10 03:01:00",
-      "album": {
-        "name": "Livre (Ao Vivo / Deluxe)",
-        "url": "https://open.spotify.com/album/5XzBQMo9WMrpRlgoBaeTIf"
-      },
-      "artists": [
-        {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
-        }
-      ],
-      "duration_ms": 164407,
-      "name": "Viva Voz - Ao Vivo Em S\u00e3o Paulo / 2019",
-      "url": "https://open.spotify.com/track/1jomN1tLiPE5eGd9siFJYE"
     },
     {
       "added_at": "2023-02-10 03:01:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
-        "name": "De Volta aos Bares",
-        "url": "https://open.spotify.com/album/7DTmJxoehELMhqA0GSughG"
-      },
-      "artists": [
-        {
-          "name": "Bruno & Marrone",
-          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
-        }
-      ],
-      "duration_ms": 217666,
-      "name": "Pode Ir Embora - Ao Vivo",
-      "url": "https://open.spotify.com/track/43y4wpk8iKaLAY21CsEmst"
-    },
-    {
-      "added_at": "2023-02-10 03:01:00",
-      "album": {
         "name": "Esquece o Mundo L\u00e1 Fora (Ao Vivo) - Deluxe",
         "url": "https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN"
       },
@@ -1191,18 +1175,18 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
-        "name": "Recairei (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1VqC063saacxnL4IlMnHtI"
+        "name": "De Volta aos Bares",
+        "url": "https://open.spotify.com/album/7DTmJxoehELMhqA0GSughG"
       },
       "artists": [
         {
-          "name": "Os Bar\u00f5es Da Pisadinha",
-          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
+          "name": "Bruno & Marrone",
+          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
         }
       ],
-      "duration_ms": 166837,
-      "name": "Recairei - Ao Vivo",
-      "url": "https://open.spotify.com/track/71FrGl0XcpL3VId65tB5mg"
+      "duration_ms": 217666,
+      "name": "Pode Ir Embora - Ao Vivo",
+      "url": "https://open.spotify.com/track/43y4wpk8iKaLAY21CsEmst"
     },
     {
       "added_at": "2023-02-10 03:01:00",
@@ -1219,6 +1203,22 @@
       "duration_ms": 180687,
       "name": "Onze e Pouquinho",
       "url": "https://open.spotify.com/track/65i9Mc7h1CG7ssI1OhMPcT"
+    },
+    {
+      "added_at": "2023-02-10 03:01:00",
+      "album": {
+        "name": "Recairei (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1VqC063saacxnL4IlMnHtI"
+      },
+      "artists": [
+        {
+          "name": "Os Bar\u00f5es Da Pisadinha",
+          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
+        }
+      ],
+      "duration_ms": 166837,
+      "name": "Recairei - Ao Vivo",
+      "url": "https://open.spotify.com/track/71FrGl0XcpL3VId65tB5mg"
     },
     {
       "added_at": "2023-02-10 03:01:00",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
-        "name": "Ao Vivo Em Goi\u00e2nia",
-        "url": "https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha"
+        "name": "Ensaio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7qq2SnvgPsm5Uz79LaKN2T"
       },
       "artists": [
         {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+          "name": "Bruno & Marrone",
+          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
         }
       ],
-      "duration_ms": 174653,
-      "name": "10% - Ao Vivo",
-      "url": "https://open.spotify.com/track/2wFnRPjuqwNySFiK0Qfg8L"
+      "duration_ms": 161678,
+      "name": "Beijo De Varanda - Ao Vivo",
+      "url": "https://open.spotify.com/track/2E8Shaw5menB7ImgCQA4th"
     }
   ],
   "unique_name": "Faxina com Sofr\u00eancia",

@@ -1,12 +1,12 @@
 {
   "description": "2010\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 10484,
+  "num_followers": 10497,
   "original_name": "2010\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNDU2ODA0MiwwMDAwMDAwMDc1NGZiMGM5MTNlN2ZiZmQ1ODU2ZjBkYTMyNWIwNDc3",
+  "snapshot_id": "MTYxNDU2ODA0MiwwMDAwMDAwMDA2YTMwYTQ5ZjRjZjA3YThjN2Q2NWIzZDkwYTk3NjQ5",
   "tracks": [
     {
       "added_at": "2021-03-01 03:07:22",
@@ -479,22 +479,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Your BGM Vol.1",
-        "url": "https://open.spotify.com/album/5Cu42bX04gv9mMr6NhfAr4"
-      },
-      "artists": [
-        {
-          "name": "\uc5d0\ub9ad\ub0a8 (Eric Nam), CHEEZE (\uce58\uc988)",
-          "url": "https://open.spotify.com/artist/1Dw5bHJLyFrbpoKWNvzNQX"
-        }
-      ],
-      "duration_ms": 239099,
-      "name": "Perhaps Love (\uc0ac\ub791\uc778\uac00\uc694) (Prod.By \ubc15\uadfc\ud0dc)",
-      "url": "https://open.spotify.com/track/5bN1ltT5BhVMnszmgsqGD5"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "Gotta Go",
         "url": "https://open.spotify.com/album/3WgHekDElv10Kam9aCMwnx"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 221813,
       "name": "Gotta Go",
       "url": "https://open.spotify.com/track/1exnDFdC34GyBcaLt9ZJfX"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "Your BGM Vol.1",
+        "url": "https://open.spotify.com/album/5Cu42bX04gv9mMr6NhfAr4"
+      },
+      "artists": [
+        {
+          "name": "\uc5d0\ub9ad\ub0a8 (Eric Nam), CHEEZE (\uce58\uc988)",
+          "url": "https://open.spotify.com/artist/1Dw5bHJLyFrbpoKWNvzNQX"
+        }
+      ],
+      "duration_ms": 239099,
+      "name": "Perhaps Love (\uc0ac\ub791\uc778\uac00\uc694) (Prod.By \ubc15\uadfc\ud0dc)",
+      "url": "https://open.spotify.com/track/5bN1ltT5BhVMnszmgsqGD5"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -807,22 +807,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Descendants Of The Sun (Original Television Soundtrack) Pt.6 - Talk Love",
-        "url": "https://open.spotify.com/album/6P6LHEL8gmkX4G4PFFp6dJ"
-      },
-      "artists": [
-        {
-          "name": "K.Will",
-          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
-        }
-      ],
-      "duration_ms": 216555,
-      "name": "Descendants Of The Sun (Original Television Soundtrack) Pt.6 - Talk Love",
-      "url": "https://open.spotify.com/track/5NkpsRKvSBukdYQtl3WLZW"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "I GOT A BOY - The 4th Album",
         "url": "https://open.spotify.com/album/3uhihQCm9aSvdJmDXcVrvi"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 271325,
       "name": "I GOT A BOY",
       "url": "https://open.spotify.com/track/2WkPfNd237yc0l5KewCDpp"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "Descendants Of The Sun (Original Television Soundtrack) Pt.6 - Talk Love",
+        "url": "https://open.spotify.com/album/6P6LHEL8gmkX4G4PFFp6dJ"
+      },
+      "artists": [
+        {
+          "name": "K.Will",
+          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
+        }
+      ],
+      "duration_ms": 216555,
+      "name": "Descendants Of The Sun (Original Television Soundtrack) Pt.6 - Talk Love",
+      "url": "https://open.spotify.com/track/5NkpsRKvSBukdYQtl3WLZW"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "KARA 3rd Album STEP",
-        "url": "https://open.spotify.com/album/3D9pw2IEWic2jPL7ER8sM9"
+        "name": "The 1st Album 'XOXO' (Repackage)",
+        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
       },
       "artists": [
         {
-          "name": "KARA",
-          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
         }
       ],
-      "duration_ms": 203586,
-      "name": "STEP",
-      "url": "https://open.spotify.com/track/3YxK7NqMCWDpmrQ82Wvx25"
+      "duration_ms": 234856,
+      "name": "Peter Pan",
+      "url": "https://open.spotify.com/track/0FF1qj8n4vZEzY54Kt5qh1"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "The 1st Album 'XOXO' (Repackage)",
-        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 234856,
-      "name": "Peter Pan",
-      "url": "https://open.spotify.com/track/0FF1qj8n4vZEzY54Kt5qh1"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "Sherlock - The 4th Mini Album",
         "url": "https://open.spotify.com/album/2Mfisiv88pNRQNugqrEUHQ"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 239186,
       "name": "Sherlock (Clue + Note)",
       "url": "https://open.spotify.com/track/2sVtrcj32v3fR8mLjqWziv"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "KARA 3rd Album STEP",
+        "url": "https://open.spotify.com/album/3D9pw2IEWic2jPL7ER8sM9"
+      },
+      "artists": [
+        {
+          "name": "KARA",
+          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
+        }
+      ],
+      "duration_ms": 203586,
+      "name": "STEP",
+      "url": "https://open.spotify.com/track/3YxK7NqMCWDpmrQ82Wvx25"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "John Travolta Wanna Be",
-        "url": "https://open.spotify.com/album/3phQgRvQwZ0OPzmzoNKaYq"
+        "name": "The 1st Album 'XOXO' (Repackage)",
+        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
       },
       "artists": [
         {
-          "name": "T-ARA",
-          "url": "https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8"
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
         }
       ],
-      "duration_ms": 214427,
-      "name": "Roly-Poly",
-      "url": "https://open.spotify.com/track/1p9damTV6h7u7THZKZB2tW"
+      "duration_ms": 230600,
+      "name": "Wolf",
+      "url": "https://open.spotify.com/track/7n0D1iLva5zp4JcnlIMeVa"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "The 1st Album 'XOXO' (Repackage)",
-        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 230600,
-      "name": "Wolf",
-      "url": "https://open.spotify.com/track/7n0D1iLva5zp4JcnlIMeVa"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "Lucifer - The 2nd Album",
         "url": "https://open.spotify.com/album/4jNPKKJ0NL349RXPx7y9f4"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 233986,
       "name": "LUCIFER",
       "url": "https://open.spotify.com/track/7xAACq6jlGqXw4bNCTYcm6"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "John Travolta Wanna Be",
+        "url": "https://open.spotify.com/album/3phQgRvQwZ0OPzmzoNKaYq"
+      },
+      "artists": [
+        {
+          "name": "T-ARA",
+          "url": "https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8"
+        }
+      ],
+      "duration_ms": 214427,
+      "name": "Roly-Poly",
+      "url": "https://open.spotify.com/track/1p9damTV6h7u7THZKZB2tW"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1391,18 +1391,34 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "INSANE LOVE",
-        "url": "https://open.spotify.com/album/4Yz1WY6PlJepdbnl4m72b8"
+        "name": "The 1st Album 'XOXO' (Repackage)",
+        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
       },
       "artists": [
         {
-          "name": "SISTAR",
-          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
         }
       ],
-      "duration_ms": 221371,
-      "name": "I Like That",
-      "url": "https://open.spotify.com/track/4wAjmojVxc6Wbeca9XvnDo"
+      "duration_ms": 233955,
+      "name": "Baby, Don't Cry",
+      "url": "https://open.spotify.com/track/7M4eO9xXwmAnO0hq6XDles"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "The Boys - The 3rd Album",
+        "url": "https://open.spotify.com/album/4vGkZl9P0sKxupLdJE7ndS"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "duration_ms": 228880,
+      "name": "The Boys",
+      "url": "https://open.spotify.com/track/4sRQg2aoec0VIvQ7GZPGMy"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1423,18 +1439,18 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "The 1st Album 'XOXO' (Repackage)",
-        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
+        "name": "INSANE LOVE",
+        "url": "https://open.spotify.com/album/4Yz1WY6PlJepdbnl4m72b8"
       },
       "artists": [
         {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+          "name": "SISTAR",
+          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
         }
       ],
-      "duration_ms": 233955,
-      "name": "Baby, Don't Cry",
-      "url": "https://open.spotify.com/track/7M4eO9xXwmAnO0hq6XDles"
+      "duration_ms": 221371,
+      "name": "I Like That",
+      "url": "https://open.spotify.com/track/4wAjmojVxc6Wbeca9XvnDo"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1451,22 +1467,6 @@
       "duration_ms": 196946,
       "name": "Electric Shock",
       "url": "https://open.spotify.com/track/7tMN6iGJMulMFpSCeU7pmU"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
-        "name": "The Boys - The 3rd Album",
-        "url": "https://open.spotify.com/album/4vGkZl9P0sKxupLdJE7ndS"
-      },
-      "artists": [
-        {
-          "name": "Girls' Generation",
-          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
-        }
-      ],
-      "duration_ms": 228880,
-      "name": "The Boys",
-      "url": "https://open.spotify.com/track/4sRQg2aoec0VIvQ7GZPGMy"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Rain - SM STATION",
-        "url": "https://open.spotify.com/album/5MgY1E2inbDcthAQEzwz8L"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 222047,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/1ukyvyEeSg1odSQvhlRAIU"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "ALONE",
         "url": "https://open.spotify.com/album/5PXVRXQIPAXH0j78MfeDrV"
       },
@@ -1575,34 +1559,18 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "\uad11\ud654\ubb38\uc5d0\uc11c At Gwanghwamun - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/0hfvOkRJnV2eVhdy41bbvv"
+        "name": "Rain - SM STATION",
+        "url": "https://open.spotify.com/album/5MgY1E2inbDcthAQEzwz8L"
       },
       "artists": [
         {
-          "name": "KYUHYUN",
-          "url": "https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln"
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
         }
       ],
-      "duration_ms": 282806,
-      "name": "\uad11\ud654\ubb38\uc5d0\uc11c (At Gwanghwamun)",
-      "url": "https://open.spotify.com/track/1YqGY2dW0a9ocyxaB5PtrR"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
-        "name": "Pink Tape - The 2nd Album",
-        "url": "https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z"
-      },
-      "artists": [
-        {
-          "name": "f(x)",
-          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
-        }
-      ],
-      "duration_ms": 197672,
-      "name": "\uccab \uc0ac\ub791\ub2c8 (Rum Pum Pum Pum)",
-      "url": "https://open.spotify.com/track/22sIPXiQzcPydCC6skPPPq"
+      "duration_ms": 222047,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/1ukyvyEeSg1odSQvhlRAIU"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1623,6 +1591,22 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
+        "name": "\uad11\ud654\ubb38\uc5d0\uc11c At Gwanghwamun - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/0hfvOkRJnV2eVhdy41bbvv"
+      },
+      "artists": [
+        {
+          "name": "KYUHYUN",
+          "url": "https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln"
+        }
+      ],
+      "duration_ms": 282806,
+      "name": "\uad11\ud654\ubb38\uc5d0\uc11c (At Gwanghwamun)",
+      "url": "https://open.spotify.com/track/1YqGY2dW0a9ocyxaB5PtrR"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
         "name": "\ubbf8\uc778\uc544 (Bonamana) - The 4th Album",
         "url": "https://open.spotify.com/album/7pPLMINIGSzIEczVTCnIxp"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 239186,
       "name": "\ubbf8\uc778\uc544 Bonamana",
       "url": "https://open.spotify.com/track/2cRTwcRq1idIR9NrcYKb63"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "Pink Tape - The 2nd Album",
+        "url": "https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z"
+      },
+      "artists": [
+        {
+          "name": "f(x)",
+          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
+        }
+      ],
+      "duration_ms": 197672,
+      "name": "\uccab \uc0ac\ub791\ub2c8 (Rum Pum Pum Pum)",
+      "url": "https://open.spotify.com/track/22sIPXiQzcPydCC6skPPPq"
     },
     {
       "added_at": "2021-03-01 03:07:22",

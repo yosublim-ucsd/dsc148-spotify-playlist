@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayjeC0C6R14.md) - [plain]
 
 > Canciones de rock dignas de festival para dedicarle a tu media naranja.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,983 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,084 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayjeC0C6R14.md) - [plain]
 | 45 | [Llamame, Si Me Necesitas](https://open.spotify.com/track/42HQLzOUKwStGDTNlX0DzY) | [Miguel Mateos \- Zas](https://open.spotify.com/artist/3YG18nhGaJkR1F6VpcnSG6) | [Solos en América](https://open.spotify.com/album/2xuIhYMc9jjZDUynjd64RM) | 4:29 |
 | 46 | [Caney](https://open.spotify.com/track/1iy127mskdnMF5mC5kicFF) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8) | [Caney](https://open.spotify.com/album/1x8IWBHGkrxSuHZibxOvgc) | 3:50 |
 | 47 | [Soun Tha Mi Primer Amor \- Remastered](https://open.spotify.com/track/1ABzvnkHLpLaIN7VlB00LJ) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Kinky \(Remastered\)](https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI) | 3:11 |
-| 48 | [Tu Que Pediras](https://open.spotify.com/track/43rvPyr8S3YGjE61efRlrw) | [Maskatesta](https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE) | [The Maskatonians All Stars And Friends](https://open.spotify.com/album/369qblMdVKisn6er3exhcw) | 3:44 |
-| 49 | [Lupita](https://open.spotify.com/track/2LGgcycTOrbMQ43pEJy8Xh) | [Pito Perez](https://open.spotify.com/artist/32u70gnkFTJfjlbDhH9Ew8) | [Pito Perez](https://open.spotify.com/album/6oqejsCHRGasHg4adH98C4) | 4:01 |
+| 48 | [Lupita](https://open.spotify.com/track/2LGgcycTOrbMQ43pEJy8Xh) | [Pito Perez](https://open.spotify.com/artist/32u70gnkFTJfjlbDhH9Ew8) | [Pito Perez](https://open.spotify.com/album/6oqejsCHRGasHg4adH98C4) | 4:01 |
+| 49 | [Tu Que Pediras](https://open.spotify.com/track/43rvPyr8S3YGjE61efRlrw) | [Maskatesta](https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE) | [The Maskatonians All Stars And Friends](https://open.spotify.com/album/369qblMdVKisn6er3exhcw) | 3:44 |
 | 50 | [Lo Pasado, Pasado](https://open.spotify.com/track/0loVgkJy6V4bK1RwN47eBl) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [A 30 Años](https://open.spotify.com/album/6N14CMYjjUcMFgWIsQqRgY) | 3:21 |
 
-Snapshot ID: `MTY4MTUwMDM0NSwwMDAwMDAwMDM0NmE3ZDNmZDhmMDgzMjg0ZmZmZGZjYmRlMjQ4MDQw`
+Snapshot ID: `MTY4MTUwMDM0NSwwMDAwMDAwMDJhZjgxYmVmODcxODQxODNhZjY1NDA2MTYxNDVhNjM4`

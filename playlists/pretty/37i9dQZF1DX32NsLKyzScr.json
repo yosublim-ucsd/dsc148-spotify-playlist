@@ -1,12 +1,12 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2378905,
+  "num_followers": 2379952,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIzNTIwMCwwMDAwMDAwMDcyYTBkMDliNWM3YWYzYTU3YjUyNzg4YTAyMWZiYTRi",
+  "snapshot_id": "MTY4MDIzNTIwMCwwMDAwMDAwMGZjN2VkMjYyNzdjMTgzZThiNzQwNzU3YjdmZDk1NDJk",
   "tracks": [
     {
       "added_at": "2023-03-31 04:00:00",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "Edge of Seventeen",
+        "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
+      },
+      "artists": [
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        }
+      ],
+      "duration_ms": 164042,
+      "name": "Edge of Seventeen",
+      "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "BREAK MY SOUL",
         "url": "https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 145766,
       "name": "Marianela (Que Pasa)",
       "url": "https://open.spotify.com/track/5bZjb7xKqLqa58QiUBcVvl"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Edge of Seventeen",
-        "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
-      },
-      "artists": [
-        {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
-        }
-      ],
-      "duration_ms": 164042,
-      "name": "Edge of Seventeen",
-      "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -799,6 +799,26 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "Eternity",
+        "url": "https://open.spotify.com/album/0U7a7nBQGHhDyDuhBxc3mw"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Chris Avantgarde",
+          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
+        }
+      ],
+      "duration_ms": 186284,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/4XzeThE3txvCBIrP40tj85"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Bad Memories (Felix Jaehn Remix)",
         "url": "https://open.spotify.com/album/1BDhBICG1Iowos7dCtSizl"
       },
@@ -827,26 +847,6 @@
       "duration_ms": 149565,
       "name": "Bad Memories - Felix Jaehn Remix",
       "url": "https://open.spotify.com/track/04R4oiYD4NU6ZkdwlaJSep"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Eternity",
-        "url": "https://open.spotify.com/album/0U7a7nBQGHhDyDuhBxc3mw"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
-          "name": "Chris Avantgarde",
-          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
-        }
-      ],
-      "duration_ms": 186284,
-      "name": "Eternity",
-      "url": "https://open.spotify.com/track/4XzeThE3txvCBIrP40tj85"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "Explore Your Future",
+        "url": "https://open.spotify.com/album/1U38OrHbK9mDQFawzU4P7B"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        }
+      ],
+      "duration_ms": 220887,
+      "name": "Explore Your Future",
+      "url": "https://open.spotify.com/track/5SfcsMI2nJhdZpmwCcNEGf"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Kx5",
         "url": "https://open.spotify.com/album/7krgzxFJr9YxsmyWlO5Ubg"
       },
@@ -1235,22 +1251,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Explore Your Future",
-        "url": "https://open.spotify.com/album/1U38OrHbK9mDQFawzU4P7B"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        }
-      ],
-      "duration_ms": 220887,
-      "name": "Explore Your Future",
-      "url": "https://open.spotify.com/track/5SfcsMI2nJhdZpmwCcNEGf"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "About Damn Time (Purple Disco Machine Remix)",
         "url": "https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6"
       },
@@ -1271,6 +1271,30 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "On & On",
+        "url": "https://open.spotify.com/album/2R1IseXguOsELhULk1H60P"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+        },
+        {
+          "name": "Alika",
+          "url": "https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf"
+        }
+      ],
+      "duration_ms": 170578,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/19bua05ITWjFrk9iGxOA7r"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Take Me Away",
         "url": "https://open.spotify.com/album/6EYwIO2gr5pTgQBysWPQvt"
       },
@@ -1283,26 +1307,6 @@
       "duration_ms": 179528,
       "name": "Take Me Away",
       "url": "https://open.spotify.com/track/1EXDjOpV3Lbiv8CzJ7caHs"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Children",
-        "url": "https://open.spotify.com/album/4pAD0l5icphM5TC1A4q8Yn"
-      },
-      "artists": [
-        {
-          "name": "Deborah de Luca",
-          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
-        },
-        {
-          "name": "Robert Miles",
-          "url": "https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0"
-        }
-      ],
-      "duration_ms": 206222,
-      "name": "Children - Radio Edit",
-      "url": "https://open.spotify.com/track/7Bg90Jhm3Dhtu7m2YCpo6C"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1331,26 +1335,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "On & On",
-        "url": "https://open.spotify.com/album/2R1IseXguOsELhULk1H60P"
+        "name": "Children",
+        "url": "https://open.spotify.com/album/4pAD0l5icphM5TC1A4q8Yn"
       },
       "artists": [
         {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+          "name": "Deborah de Luca",
+          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
         },
         {
-          "name": "Punctual",
-          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
-        },
-        {
-          "name": "Alika",
-          "url": "https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf"
+          "name": "Robert Miles",
+          "url": "https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0"
         }
       ],
-      "duration_ms": 170578,
-      "name": "On & On",
-      "url": "https://open.spotify.com/track/19bua05ITWjFrk9iGxOA7r"
+      "duration_ms": 206222,
+      "name": "Children - Radio Edit",
+      "url": "https://open.spotify.com/track/7Bg90Jhm3Dhtu7m2YCpo6C"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1719,6 +1719,34 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/3cgql1fqxswMfgrCfmsgcg"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "Danny Howard",
+          "url": "https://open.spotify.com/artist/14MtanGZe4G1fzC8raLFUK"
+        },
+        {
+          "name": "Stevie Appleton",
+          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
+        }
+      ],
+      "duration_ms": 199967,
+      "name": "Remember (feat. Stevie Appleton)",
+      "url": "https://open.spotify.com/track/5Cv9UBYh2VkiCspwh4Wog5"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Make Me Feel",
         "url": "https://open.spotify.com/album/6VGs1p7hG1sRLmToA3Dw9d"
       },
@@ -1755,34 +1783,6 @@
       "duration_ms": 162540,
       "name": "Rise (Sam Feldt Remix)",
       "url": "https://open.spotify.com/track/2PI3dfxZWkaEpBoCJq56RK"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/3cgql1fqxswMfgrCfmsgcg"
-      },
-      "artists": [
-        {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
-        },
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        },
-        {
-          "name": "Danny Howard",
-          "url": "https://open.spotify.com/artist/14MtanGZe4G1fzC8raLFUK"
-        },
-        {
-          "name": "Stevie Appleton",
-          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
-        }
-      ],
-      "duration_ms": 199967,
-      "name": "Remember (feat. Stevie Appleton)",
-      "url": "https://open.spotify.com/track/5Cv9UBYh2VkiCspwh4Wog5"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1859,26 +1859,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "I Want You",
-        "url": "https://open.spotify.com/album/57XBP2FVAwf3mqByG0xiUZ"
-      },
-      "artists": [
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 146756,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/39C3SOi6UMD9rHeXAQPNa9"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "If Love Is A Skill & Georgia",
         "url": "https://open.spotify.com/album/5Z1OUXWZHGbQFiUNJJz9Z1"
       },
@@ -1895,6 +1875,26 @@
       "duration_ms": 217708,
       "name": "If Love Is A Skill",
       "url": "https://open.spotify.com/track/4w5uos4sTvjQeg8ofXtBm8"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Reflection EP",
+        "url": "https://open.spotify.com/album/4Qqe2c9VgbdnbFO2F7AyGe"
+      },
+      "artists": [
+        {
+          "name": "Enrico Sangiuliano",
+          "url": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
+        },
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        }
+      ],
+      "duration_ms": 406584,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/67dg2dYPGza76ZEnp7k00d"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1923,6 +1923,26 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/57XBP2FVAwf3mqByG0xiUZ"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 146756,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/39C3SOi6UMD9rHeXAQPNa9"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Anti-Hero (ILLENIUM Remix)",
         "url": "https://open.spotify.com/album/20wq0dFrgEhhulGXqnb4A6"
       },
@@ -1939,26 +1959,6 @@
       "duration_ms": 267960,
       "name": "Anti-Hero - ILLENIUM Remix",
       "url": "https://open.spotify.com/track/6C0H8ts9M6deezz0yYR6LK"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Reflection EP",
-        "url": "https://open.spotify.com/album/4Qqe2c9VgbdnbFO2F7AyGe"
-      },
-      "artists": [
-        {
-          "name": "Enrico Sangiuliano",
-          "url": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
-        },
-        {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        }
-      ],
-      "duration_ms": 406584,
-      "name": "Reflection",
-      "url": "https://open.spotify.com/track/67dg2dYPGza76ZEnp7k00d"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -2011,30 +2011,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Sweetest Pie (David Guetta Remixes)",
-        "url": "https://open.spotify.com/album/3dOimtCkfFTZEgII99rZFl"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 143000,
-      "name": "Sweetest Pie - David Guetta Dance Remix",
-      "url": "https://open.spotify.com/track/5xUJYQA7f6WU77N8VDASBH"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Sweet Caroline",
         "url": "https://open.spotify.com/album/3P5F6AdFTFBhBbPKwFUhbT"
       },
@@ -2055,6 +2031,30 @@
       "duration_ms": 210853,
       "name": "Sweet Caroline",
       "url": "https://open.spotify.com/track/6YtUe8dzZ357QD4t56nG00"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Sweetest Pie (David Guetta Remixes)",
+        "url": "https://open.spotify.com/album/3dOimtCkfFTZEgII99rZFl"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 143000,
+      "name": "Sweetest Pie - David Guetta Dance Remix",
+      "url": "https://open.spotify.com/track/5xUJYQA7f6WU77N8VDASBH"
     },
     {
       "added_at": "2023-03-31 04:00:00",

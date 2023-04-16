@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 391,336 likes - 502 songs - 19 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,474 likes - 502 songs - 19 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 15 | [Lost Focus](https://open.spotify.com/track/7jHvJk5nhJ75EiXzi6iDBt) | [Asha Eyes](https://open.spotify.com/artist/0kT70uuyReYQKONxepyC3Q) | [Lost Focus](https://open.spotify.com/album/6U2LrL0pjWWz3Tulevbhk4) | 3:01 |
 | 16 | [LoFistory](https://open.spotify.com/track/3EHS4GucJsHj9zsryxZ4gp) | [Nomadic Focus](https://open.spotify.com/artist/6tZYiudQKCGp6IUbo9vAer) | [LoFistory](https://open.spotify.com/album/6vtCDfFFFN8duHnt2hBqnE) | 3:40 |
 | 17 | [Spaced](https://open.spotify.com/track/4dYuVQO70DgS3qLgpNJKhI) | [Brad Enbata](https://open.spotify.com/artist/3wD2klKiJIKgXsdWGq07wi) | [Spaced](https://open.spotify.com/album/7DqmAnxgbCBzDNx2L0KRfY) | 1:57 |
-| 18 | [Thinking of you](https://open.spotify.com/track/7o5dVuBnQyNJpp2RLOw9aO) | [Mariana Red](https://open.spotify.com/artist/0gehovGx04GX2D2GDfpaNQ) | [Thinking of you](https://open.spotify.com/album/3npdrpVJTTk07pk0tNvGHL) | 1:38 |
+| 18 | [Thinking of you](https://open.spotify.com/track/7o5dVuBnQyNJpp2RLOw9aO) | [Mariana Red](https://open.spotify.com/artist/0gehovGx04GX2D2GDfpaNQ), [SpoonBeats](https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl) | [Thinking of you](https://open.spotify.com/album/3npdrpVJTTk07pk0tNvGHL) | 1:38 |
 | 19 | [Forest For The Trees](https://open.spotify.com/track/3qf3tcgxxYmdyLAgJt5ns8) | [Holographic Landscapes](https://open.spotify.com/artist/03LeuK9TVEPdFkf9RdHfEN) | [Forest For The Trees](https://open.spotify.com/album/67m6xBoeW7yDdKPULCNWAJ) | 2:51 |
 | 20 | [Never forget to smile](https://open.spotify.com/track/0Ai8kfNRzoD55JuDHi0qu8) | [夕方の犬\(U ・ェ・\)](https://open.spotify.com/artist/6GkFLYRT7Q2qU4kEnNsytR) | [Never forget to smile](https://open.spotify.com/album/0a9ua95iM8g4pSqXkty576) | 3:10 |
 | 21 | [Wild Mallow](https://open.spotify.com/track/7Ed0zQz9cAArGzWbxrmhiS) | [The Lofi Big Band](https://open.spotify.com/artist/0A63pWT1p5WGcJfyiSAEkc) | [Wild Mallow](https://open.spotify.com/album/2XUqR0rvvEPpSHRG1ATe4h) | 2:57 |

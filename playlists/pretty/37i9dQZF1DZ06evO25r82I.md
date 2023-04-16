@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25r82I.md) - [plain]
 
 > This is Jimmy Eat World\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,439 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,444 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Middle](https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 2:45 |
 | 2 | [Pain](https://open.spotify.com/track/2WhDg8UWljoAl8oNh8uZbJ) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Futures \(Deluxe Edition\)](https://open.spotify.com/album/58EcHXCjDzwqHiXDo9523u) | 3:01 |
 | 3 | [The Middle \- Acoustic Version](https://open.spotify.com/track/7HJmJYQqBq2tn7RleFlun5) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American \(Deluxe Edition\)](https://open.spotify.com/album/2P6BqQ7RMpgx8lgoeahpW8) | 3:10 |
-| 4 | [Let It Happen](https://open.spotify.com/track/2Vm9PdvlNkCDqInLdOVkAN) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Chase This Light](https://open.spotify.com/album/4Xu33ctS2pLQX9FicNS5IY) | 3:25 |
+| 4 | [Big Casino](https://open.spotify.com/track/463wBlCYhDPuOVvAU8bS1h) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Chase This Light](https://open.spotify.com/album/4Xu33ctS2pLQX9FicNS5IY) | 3:40 |
 | 5 | [Sweetness](https://open.spotify.com/track/429IbFR4yp2J81CeTwF5iY) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 3:40 |
 | 6 | [Work](https://open.spotify.com/track/7jOmU5z5lgwTL5meoapbMf) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Futures \(Deluxe Edition\)](https://open.spotify.com/album/58EcHXCjDzwqHiXDo9523u) | 3:23 |
 | 7 | [Something Loud](https://open.spotify.com/track/5wZK0hHduZpjWWoT0rq9p4) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Something Loud](https://open.spotify.com/album/07jTFwFWX1boeyv2mTmtx1) | 3:16 |
-| 8 | [Big Casino](https://open.spotify.com/track/463wBlCYhDPuOVvAU8bS1h) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Chase This Light](https://open.spotify.com/album/4Xu33ctS2pLQX9FicNS5IY) | 3:40 |
+| 8 | [Let It Happen](https://open.spotify.com/track/2Vm9PdvlNkCDqInLdOVkAN) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Chase This Light](https://open.spotify.com/album/4Xu33ctS2pLQX9FicNS5IY) | 3:25 |
 | 9 | [Bleed American](https://open.spotify.com/track/61XspFITuKmAlYdQacNCbF) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 3:01 |
 | 10 | [Just Tonight](https://open.spotify.com/track/5ZLwbxq5jydIxksfX6ezAn) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Futures \(Deluxe Edition\)](https://open.spotify.com/album/58EcHXCjDzwqHiXDo9523u) | 3:26 |
 | 11 | [555](https://open.spotify.com/track/2TJkd845G0ocbd0m5jLroC) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Surviving](https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI) | 3:41 |
@@ -41,13 +41,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25r82I.md) - [plain]
 | 31 | [All The Way \(Stay\)](https://open.spotify.com/track/5l0pUBYQ5CpPZWMtRvX26K) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Surviving](https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI) | 4:05 |
 | 32 | [Electable \(Give It Up\)](https://open.spotify.com/track/6YF86Myf8ganLrq9QtCg0E) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Chase This Light](https://open.spotify.com/album/4Xu33ctS2pLQX9FicNS5IY) | 2:56 |
 | 33 | [Your New Aesthetic](https://open.spotify.com/track/0gL7j0cio6IOFizDz0kKpu) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Clarity \(Expanded Edition\)](https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4) | 2:40 |
-| 34 | [Polaris](https://open.spotify.com/track/4fQjex0ezXcMGpdjlGVi44) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Futures](https://open.spotify.com/album/2EDsu3fuAiflZczcFZTr4y) | 4:51 |
+| 34 | [It Matters](https://open.spotify.com/track/6gXzzIJs34eYV6CnpiJsP2) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Integrity Blues](https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod) | 3:54 |
 | 35 | [Surviving](https://open.spotify.com/track/6oKVC61L9Jrd13dvDJJVJr) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Surviving](https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI) | 3:04 |
-| 36 | [It Matters](https://open.spotify.com/track/6gXzzIJs34eYV6CnpiJsP2) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Integrity Blues](https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod) | 3:54 |
+| 36 | [Polaris](https://open.spotify.com/track/4fQjex0ezXcMGpdjlGVi44) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Futures](https://open.spotify.com/album/2EDsu3fuAiflZczcFZTr4y) | 4:51 |
 | 37 | [Crush](https://open.spotify.com/track/4WgqQODh6GOGqIf7o7pkX4) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Clarity \(Expanded Edition\)](https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4) | 3:11 |
-| 38 | [Appreciation](https://open.spotify.com/track/0laArkVVQj7e5ld4oiN615) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Damage](https://open.spotify.com/album/3cTKLglWH2XfDfbwqXvaGo) | 3:16 |
+| 38 | [Through](https://open.spotify.com/track/4Iydh0QUgxeOB1o5oKAzAr) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Integrity Blues](https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod) | 2:51 |
 | 39 | [Delivery](https://open.spotify.com/track/3MY5hKy9nT2D1gEdg3UFVv) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Surviving](https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI) | 3:13 |
-| 40 | [Through](https://open.spotify.com/track/4Iydh0QUgxeOB1o5oKAzAr) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Integrity Blues](https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod) | 2:51 |
+| 40 | [Appreciation](https://open.spotify.com/track/0laArkVVQj7e5ld4oiN615) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Damage](https://open.spotify.com/album/3cTKLglWH2XfDfbwqXvaGo) | 3:16 |
 | 41 | [Ten](https://open.spotify.com/track/2WKfrlOLw7U1RvqvdiMpM2) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Clarity \(Expanded Edition\)](https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4) | 3:48 |
 | 42 | [Littlething](https://open.spotify.com/track/1OPeUHaZESc6zMHGXzsk6U) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Invented \(Deluxe Edition\)](https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo) | 4:09 |
 | 43 | [Love Never](https://open.spotify.com/track/2lfp6K5WOQ44IhxD2Wkhr2) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Surviving](https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25r82I.md) - [plain]
 | 49 | [Stop](https://open.spotify.com/track/5P0IZCEAXz3Bbsp9xquM82) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Invented \(Deluxe Edition\)](https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo) | 3:34 |
 | 50 | [You Are Free](https://open.spotify.com/track/1V0F9RsyNMbbcBPNEVk0Jm) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Integrity Blues](https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod) | 4:14 |
 
-Snapshot ID: `MjgwMjQ4NTIsMDAwMDAwMDBkMGJkNWJiMzExZTQyZjYzZjM4ZWMxNmYzMzhkYTQwNA==`
+Snapshot ID: `MjgwMjYwMzIsMDAwMDAwMDBkMGFjY2U4YmEwZjIwYTU2ZjY4MDMxMjU5NTZlMDVmMA==`

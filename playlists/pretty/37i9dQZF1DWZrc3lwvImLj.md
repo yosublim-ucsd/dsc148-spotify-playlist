@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 
 > Beautifully sad and moody piano music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,022 likes - 210 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,086 likes - 210 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 | 76 | [Reverie](https://open.spotify.com/track/2qmYLGvjNm4PlS1p786Xfr) | [Simeon Walker](https://open.spotify.com/artist/5jEGjnI2WdRyJSUICQQIrK) | [Reverie](https://open.spotify.com/album/69qZp1tfgNgDPU0M5PtO37) | 4:16 |
 | 77 | [For Annemieke](https://open.spotify.com/track/6d8UCO1LCZUsDRUcN2hBUs) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [For Annemieke](https://open.spotify.com/album/5WZbdzE2PigFpUn4IpwEe1) | 2:12 |
 | 78 | [Vento leggero](https://open.spotify.com/track/6ksVNrLijeVZjx4zmWKzQQ) | [Aglisia](https://open.spotify.com/artist/1wkWfJO2iWD4TL4tCag8Sh) | [Vento leggero](https://open.spotify.com/album/36CdDJmXetrsM84GKsQGwB) | 3:00 |
-| 79 | [Eternity](https://open.spotify.com/track/77Ou8ploPVp1uIrw6YJttx) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Gjeilo: Eternity](https://open.spotify.com/album/4LZCr4GDptLhBau8gLAE4s) | 1:45 |
+| 79 | [Gjeilo: Eternity](https://open.spotify.com/track/77Ou8ploPVp1uIrw6YJttx) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Gjeilo: Eternity](https://open.spotify.com/album/4LZCr4GDptLhBau8gLAE4s) | 1:45 |
 | 80 | [Lavandula](https://open.spotify.com/track/79TCHEeIxQmvo1Y40jgf7Z) | [Isaac Boudillet](https://open.spotify.com/artist/1435UnexYmW8YoyUf5cTmx) | [Lavandula](https://open.spotify.com/album/7DohO27xmIQwXhO6mp0ZyB) | 2:50 |
 | 81 | [Ruhevoll](https://open.spotify.com/track/3a29LVdJdkqOBNDFnbbqJN) | [Naia Lambert](https://open.spotify.com/artist/0zo7bpOTP4vsR9ar1yoNgb) | [Ruhevoll](https://open.spotify.com/album/3KxGRGWUmnauKY3wXDGqtV) | 2:19 |
 | 82 | [Nuxe](https://open.spotify.com/track/6h0V5bM7dDmwvrrmqHVlPE) | [Valla](https://open.spotify.com/artist/1nrQ489GYy77LqrmBOmtfh) | [lachlan](https://open.spotify.com/album/4upy9Hil2WVSEwu8eYEVWB) | 2:18 |
@@ -164,7 +164,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 | 154 | [Semplice](https://open.spotify.com/track/7nvmbWRwKohWwRnp5vmbzU) | [Simone Scarda](https://open.spotify.com/artist/7hSXYgXfuNG4YsQPout5VG) | [Semplice](https://open.spotify.com/album/4rHM6zmyde1MECxLPHw3vW) | 2:21 |
 | 155 | [A Heavy Heart](https://open.spotify.com/track/4pbeMmSR2AUaZUUkTZq2Jz) | [Garreth Broke](https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx) | [A Heavy Heart](https://open.spotify.com/album/0s9UY6BfLpQWYx9Q1nNZoD) | 1:58 |
 | 156 | [Those Moments](https://open.spotify.com/track/6LBeWgaeVS1VpxEcFp7FJH) | [Korey Banks](https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG) | [Those Moments](https://open.spotify.com/album/4ml9X8eka1kIsbx8ytmv6g) | 2:05 |
-| 157 | [heart pieces](https://open.spotify.com/track/0vQIs6UM5iNmIEtazl28za) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [heart pieces](https://open.spotify.com/album/5HrBAQJ2gvG43Ce8B9zPwj) | 2:29 |
+| 157 | [Moux: heart pieces](https://open.spotify.com/track/0vQIs6UM5iNmIEtazl28za) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [heart pieces](https://open.spotify.com/album/5HrBAQJ2gvG43Ce8B9zPwj) | 2:29 |
 | 158 | [Sværmer](https://open.spotify.com/track/3rcULbCqrlDWDyKPL9OHkh) | [Mark Jubel](https://open.spotify.com/artist/6QhnbblQwendc1TdZMj6qd) | [Sværmer](https://open.spotify.com/album/5VRsA8TwmgXTgTgDBuHnP6) | 2:18 |
 | 159 | [Silentness](https://open.spotify.com/track/1WAUBllQeB7ujdoSehgoiu) | [Jasmin Lambert](https://open.spotify.com/artist/0HLA85Q8hIRYUY0qJO2gnk) | [Silentness](https://open.spotify.com/album/6iPO8Vy1ivrDbJT4b6qqmZ) | 2:58 |
 | 160 | [Once I saw the northern lights](https://open.spotify.com/track/5F0xQGBmdcmcm3bpvHNIt9) | [Bruno Engel](https://open.spotify.com/artist/0Sb2aOfzhbp5opi1w083TP) | [Once I saw the northern lights](https://open.spotify.com/album/4PxukojNA6yqMB3rB17Sda) | 3:34 |

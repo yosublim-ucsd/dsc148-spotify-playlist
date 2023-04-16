@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Move</a> your feet!
 
-888 songs - 2 day 0 hr 49 min
+889 songs - 2 day 0 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -759,7 +759,7 @@
 | [Sunroof \- Loud Luxury Remix](https://open.spotify.com/track/1E8i4Xq9tH2LVWC0b1Sptj) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x), [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ) | [Sunroof \(Loud Luxury Remix\)](https://open.spotify.com/album/7LC439zjDcvAgdooLmL67Q) | 2:53 | 2022-08-19 |  |
 | [Survivor](https://open.spotify.com/track/4pD9SWYlUlzj47sUkWtAxp) | [Jack Back](https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt) | [Survivor / Put Your Phone Down \(Low\)](https://open.spotify.com/album/2FY0KY4u0usEJHwR2gcXFN) | 2:43 | 2020-05-22\* | 2022-04-17 |
 | [Sweet Caroline](https://open.spotify.com/track/6YtUe8dzZ357QD4t56nG00) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Sweet Caroline](https://open.spotify.com/album/3P5F6AdFTFBhBbPKwFUhbT) | 3:30 | 2022-11-11 |  |
-| [Sweet Lies](https://open.spotify.com/track/3BW3HN3slcmHuuiXvLbfTi) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [Sweet Lies](https://open.spotify.com/album/60OqSPmJkHe7CQIN8JYcen) | 3:10 | 2023-04-14 |  |
+| [Sweet Lies](https://open.spotify.com/track/3BW3HN3slcmHuuiXvLbfTi) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [Sweet Lies](https://open.spotify.com/album/60OqSPmJkHe7CQIN8JYcen) | 3:10 | 2023-04-14 | 2023-04-16 |
 | [Sweet Talker](https://open.spotify.com/track/6FRxFke9VsjXmibGgSeKki) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Sweet Talker](https://open.spotify.com/album/301gSTTWjmjIa1M6Hx4hPT) | 2:56 | 2021-12-11 | 2023-04-07 |
 | [Take Me Away](https://open.spotify.com/track/1EXDjOpV3Lbiv8CzJ7caHs) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd) | [Take Me Away](https://open.spotify.com/album/6EYwIO2gr5pTgQBysWPQvt) | 2:59 | 2023-03-03 |  |
 | [Take Me Back](https://open.spotify.com/track/2oGzHeApGhjANPNWYQNRQw) | [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Take Me Back](https://open.spotify.com/album/3KEQLt8OBP8Y3VbKKQoIiI) | 2:09 | 2022-07-29 | 2023-03-21 |
@@ -833,6 +833,7 @@
 | [Up All Night](https://open.spotify.com/track/5RugEn59RTnWE4IM4uBaC9) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Fiora](https://open.spotify.com/artist/2r7POU2f5jV6x3k4vsNwrM) | [Up All Night](https://open.spotify.com/album/0YFbpYgj1TyV9P8L1n8XbW) | 2:41 | 2020-05-22\* | 2022-04-21 |
 | [Uptown Funk \(feat\. Bruno Mars\) \- Will Sparks Remix](https://open.spotify.com/track/5MpKzeXvOBFiZpQWV9iP5O) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Uptown Funk \(Remixes\) \(feat\. Bruno Mars\)](https://open.spotify.com/album/6oJPf4A0f047HhhANIFJVK) | 4:37 | 2020-05-22\* | 2020-11-14 |
 | [Use Me Again \(And Again\)](https://open.spotify.com/track/6GCA4mop7cqrqFkyqMjmMF) | [Tom Trago](https://open.spotify.com/artist/2vUpX2Zq1DBdCHuoEnmzkK) | [Use Me Again \(And Again\)](https://open.spotify.com/album/0PEKVd030jHP00OnxwIFtb) | 8:15 | 2022-07-14 | 2022-07-30 |
+| [V I B R A T I O N](https://open.spotify.com/track/2t3FV5IpL1uWeMjt7vOomW) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [V I B R A T I O N](https://open.spotify.com/album/3b7azG2yR8EPj1V6pcW47r) | 2:49 | 2023-04-14 |  |
 | [Vibe](https://open.spotify.com/track/4YprqLB3jEAlHNOMXEcZtm) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Vibe](https://open.spotify.com/album/7xAt2RbkWlsf7lp8m8wePW) | 2:21 | 2021-07-16 | 2022-08-23 |
 | [Vibe \(If I Back It Up\)](https://open.spotify.com/track/4ZAQiu61otvHVveuTsPAUr) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Club Soda, Vol\. 2](https://open.spotify.com/album/5uYz79dshnrizAGPcM7bKz) | 1:24 | 2020-12-27 | 2021-05-25 |
 | [Wait A Minute](https://open.spotify.com/track/59ujQJCSRNgLtKQ1ly3b7c) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Wait A Minute](https://open.spotify.com/album/2rieP0vqq7SkCqyOnDDb69) | 3:35 | 2021-11-20 | 2022-04-21 |

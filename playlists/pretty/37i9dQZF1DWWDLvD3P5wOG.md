@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 
 > Throwbacks you can catch a wine to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,139 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,617 likes - 80 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,20 +56,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 | 46 | [Gal A Bubble](https://open.spotify.com/track/3Ib4YrvFEug9vY4JaCmBBw) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Strictly The Best Vol\. 51](https://open.spotify.com/album/6EFR4aXlC8CtacHf30uOnH) | 3:31 |
 | 47 | [Beautiful](https://open.spotify.com/track/5tLDX5Z50VZAvga5695enB) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi), [Bobby Brown](https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE) | [Welcome to Jamrock](https://open.spotify.com/album/4Y0PrDckfFKxKaVXsscDLB) | 4:47 |
 | 48 | [I Love My Life](https://open.spotify.com/track/6S0nwCOEAftiihy73YVDnl) | [Demarco](https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6) | [I Love My Life \- Single](https://open.spotify.com/album/48o7c4uGPRJybVClvbTBde) | 3:30 |
-| 49 | [Bedroom Bully](https://open.spotify.com/track/5esGnzJMqZQP3XBWC4PJYY) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [It \(Incomparable Talent\)](https://open.spotify.com/album/1DHJhXAwi3cvPM0LscDsyZ) | 2:45 |
-| 50 | [Dutty Whine](https://open.spotify.com/track/0faQCjG6E7VecroZfmSA3J) | [Tony Matterhorn](https://open.spotify.com/artist/6taesTUSevB9eK8bm5Y7b9) | [Dutty Whine](https://open.spotify.com/album/7fv1oxFvj0feUywPYZKpR0) | 3:13 |
+| 49 | [Dutty Whine](https://open.spotify.com/track/0faQCjG6E7VecroZfmSA3J) | [Tony Matterhorn](https://open.spotify.com/artist/6taesTUSevB9eK8bm5Y7b9) | [Dutty Whine](https://open.spotify.com/album/7fv1oxFvj0feUywPYZKpR0) | 3:13 |
+| 50 | [Bedroom Bully](https://open.spotify.com/track/5esGnzJMqZQP3XBWC4PJYY) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [It \(Incomparable Talent\)](https://open.spotify.com/album/1DHJhXAwi3cvPM0LscDsyZ) | 2:45 |
 | 51 | [Settle Down \(Destiny\)](https://open.spotify.com/track/3No90yqhFHg1vcFCHrCR6b) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Settle Down \(Destiny\)](https://open.spotify.com/album/5wqSokkE06joXVP6Pe3tlf) | 3:09 |
 | 52 | [Party Shot \(Ravin Part\. 2\)](https://open.spotify.com/track/0rGKPQZZxLlNBPfhYQ2JU1) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [When Mi Party](https://open.spotify.com/album/0tE82B0ff2X8Ss6JSMqpMH) | 3:50 |
-| 53 | [Click Mi Finger](https://open.spotify.com/track/0cB3PmOkBRTW0afu5Z4x0K) | [Erup](https://open.spotify.com/artist/06u187az5ps4QsoZHMN8DJ) | [Click Mi Finger Remixed \- EP](https://open.spotify.com/album/5iDqaU40yAqPKNLPqA80jm) | 2:38 |
+| 53 | [Tight Up Skirt](https://open.spotify.com/track/1uNIWPKOnJw92GPDcvaJY9) | [Red Rat](https://open.spotify.com/artist/4lthN9sVX4QW2lnXQEUbMh) | [Oh No It's Red Rat](https://open.spotify.com/album/7ET4yhpl6CoZQmHJmmfWZi) | 3:34 |
 | 54 | [Go Go Wine](https://open.spotify.com/track/4uQjPCRQJF2QGTKh2vp45a) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Kingston Story \(Deluxe Edition\)](https://open.spotify.com/album/3Ekq3FY8u4AMUDmgoK5FJU) | 3:23 |
-| 55 | [Tight Up Skirt](https://open.spotify.com/track/1uNIWPKOnJw92GPDcvaJY9) | [Red Rat](https://open.spotify.com/artist/4lthN9sVX4QW2lnXQEUbMh) | [Oh No It's Red Rat](https://open.spotify.com/album/7ET4yhpl6CoZQmHJmmfWZi) | 3:34 |
+| 55 | [Click Mi Finger](https://open.spotify.com/track/0cB3PmOkBRTW0afu5Z4x0K) | [Erup](https://open.spotify.com/artist/06u187az5ps4QsoZHMN8DJ) | [Click Mi Finger Remixed \- EP](https://open.spotify.com/album/5iDqaU40yAqPKNLPqA80jm) | 2:38 |
 | 56 | [Gyal Bruk Out](https://open.spotify.com/track/6aHhMN1QoYiDttlyOoa9Ck) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Raw as Eva](https://open.spotify.com/album/3WWCe11tMBN6nM26gMIeha) | 2:42 |
-| 57 | [Ganja Farmer](https://open.spotify.com/track/4IPQwZBtK0B2DabP0rQvV0) | [Marlon Asher](https://open.spotify.com/artist/4DeCJnS3fuqohKk4FCVl0y) | [Unconditional Love](https://open.spotify.com/album/6vCafqC9POiyyLxqC4kdpf) | 3:56 |
-| 58 | [Throat](https://open.spotify.com/track/4LGDRn6E199hReOZGF5Exw) | [Gage](https://open.spotify.com/artist/5ENdfpGHYMwemMEe0uJG8w) | [Throat \- Single](https://open.spotify.com/album/21pDh5Ze2VGN8g94uQj5J5) | 2:52 |
+| 57 | [Throat](https://open.spotify.com/track/4LGDRn6E199hReOZGF5Exw) | [Gage](https://open.spotify.com/artist/5ENdfpGHYMwemMEe0uJG8w) | [Throat \- Single](https://open.spotify.com/album/21pDh5Ze2VGN8g94uQj5J5) | 2:52 |
+| 58 | [Ganja Farmer](https://open.spotify.com/track/4IPQwZBtK0B2DabP0rQvV0) | [Marlon Asher](https://open.spotify.com/artist/4DeCJnS3fuqohKk4FCVl0y) | [Unconditional Love](https://open.spotify.com/album/6vCafqC9POiyyLxqC4kdpf) | 3:56 |
 | 59 | [Everything Fi Hold Him](https://open.spotify.com/track/7v2IaYqhKoMndOWt6Krsgd) | [Gaza Slim](https://open.spotify.com/artist/7mPRzTE0BI6QMFmWhevSog) | [Girl Boss \- The Realest Girl](https://open.spotify.com/album/3m2CNO9jD3BKz8vusgkDYE) | 3:46 |
 | 60 | [Kotch](https://open.spotify.com/track/0V64KIinm3gUN04DhxEHwW) | [RDX](https://open.spotify.com/artist/4GpVRyxDYccJrbQkO3KWws) | [Kotch](https://open.spotify.com/album/0oprdfurN8Dhv9mdLl0iPC) | 3:15 |
-| 61 | [Likes](https://open.spotify.com/track/0L7ByJIFyro93nWs7wwioM) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Chronology](https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm) | 4:18 |
-| 62 | [Bad Man Forward](https://open.spotify.com/track/1KW6PVabkLbthK4y0sPX5a) | [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Bad Man Forward, Bad Man Pull Up](https://open.spotify.com/album/4pWeMGhrk1bvKE3Od3jePT) | 3:15 |
+| 61 | [Bad Man Forward](https://open.spotify.com/track/1KW6PVabkLbthK4y0sPX5a) | [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Bad Man Forward, Bad Man Pull Up](https://open.spotify.com/album/4pWeMGhrk1bvKE3Od3jePT) | 3:15 |
+| 62 | [Likes](https://open.spotify.com/track/0L7ByJIFyro93nWs7wwioM) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Chronology](https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm) | 4:18 |
 | 63 | [Things Mi Love](https://open.spotify.com/track/0ANTPHMeOjPIyfGHiKDGU9) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ), [Notnice](https://open.spotify.com/artist/3xE5Mbgql6pnTTaTifw8UX) | [Things Mi Love](https://open.spotify.com/album/2Ultkk4UOH342Elt4y1dDT) | 3:27 |
 | 64 | [Nah Let Go](https://open.spotify.com/track/39ThJ78YJf1Ouyb63rjYFu) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Pon Di Gaza 2.0](https://open.spotify.com/album/5xkTjyLPKbSeNuY7QLgnqT) | 3:34 |
 | 65 | [Bounce Along](https://open.spotify.com/track/6hDdz3s6TMHF6ohnCIa1z6) | [Wayne Wonder](https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO) | [No Holding Back](https://open.spotify.com/album/3WH8Q7LS2p143e5PrKGLeA) | 4:50 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 | 77 | [Willie Bounce](https://open.spotify.com/track/0pjbztKqMcjVZpDYokMBhI) | [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on) | [Strictly The Best Vol 33](https://open.spotify.com/album/6ucY1k9M0WTQCDZRTbXqzV) | 4:10 |
 | 78 | [Bend Ova](https://open.spotify.com/track/6ajqSWogEt8ngg7ErtEaVa) | [RDX](https://open.spotify.com/artist/4GpVRyxDYccJrbQkO3KWws) | [Kotch EP](https://open.spotify.com/album/0xXIL4sAD2GXXjUk1NFV2y) | 3:09 |
 | 79 | [Wine and Jiggle](https://open.spotify.com/track/1eeKTJd1LvONWC8WTV5KF8) | [I\-Octane](https://open.spotify.com/artist/2T5FHRvBN0LYvlvDoU89dS), [Seanizzle](https://open.spotify.com/artist/4WYP9l7S3oTiE2Pb8awwOX) | [Wine and Jiggle](https://open.spotify.com/album/0KxLXkWpZwKTLfLl9QabMV) | 2:31 |
-| 80 | [Wine Pon Di Edge](https://open.spotify.com/track/2nDStKSqTRrWF7vyrvvodA) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Loaded](https://open.spotify.com/album/2tpA1IQ99v1OVIOkowexHy) | 3:14 |
+| 80 | [Hot Fuk / Hot Wuk](https://open.spotify.com/track/1aoq8ZJBdrqdM1FSzciy4G) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Mr Vegas: The Hits](https://open.spotify.com/album/2ImQoEEg93DwKIIBtb5RLg) | 2:47 |
 
-Snapshot ID: `MTY0MzE1ODMzNSwwMDAwMDAwMDFkNTI4N2NmYTg5MGUyM2E1MDdjMjgwZjI0YzUyNzhm`
+Snapshot ID: `MTY0MzE1ODMzNSwwMDAwMDAwMDZmOWY0MDhlYmIxNWZlMTgzYjRkMjJkYTIzMjM1MjZk`

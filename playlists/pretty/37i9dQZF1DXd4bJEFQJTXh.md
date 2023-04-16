@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4bJEFQJTXh.md) - [plain]
 
 > Turn down the lights, snack on some popcorn, and enjoy these tracks from your family's favorite films.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,629 likes - 140 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,850 likes - 140 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,7 +111,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4bJEFQJTXh.md) - [plain]
 | 101 | [Everything Is AWESOME!!! \(feat\. The Lonely Island\)](https://open.spotify.com/track/58vnVBWfKWIjSVvKTZJly2) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH), [The Lonely Island](https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu) | [The Lego Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0GFqFY8fZonWLoX6O6tPNX) | 2:43 |
 | 102 | [Zero \- From the Original Motion Picture "Ralph Breaks The Internet"](https://open.spotify.com/track/2bzitsPcImYC6DZWvvLCQi) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Origins \(Deluxe\)](https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr) | 3:30 |
 | 103 | [Faith \- From "Sing" Original Motion Picture Soundtrack](https://open.spotify.com/track/1Ol9VB4eBkSuM9sghD4lgP) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sing \(Original Motion Picture Soundtrack / Deluxe\)](https://open.spotify.com/album/5Sdmly0VRVw0wIow5eMHAW) | 2:42 |
-| 104 | [Rainbow](https://open.spotify.com/track/2xie0OhRzMjWE1Be82sC0k) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [My Little Pony: The Movie \(Original Motion Picture Score\)](https://open.spotify.com/album/5L7cZeMTVwaJUt1NHJSuEm) | 3:17 |
+| 104 | [Rainbow](https://open.spotify.com/track/2xie0OhRzMjWE1Be82sC0k) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [My Little Pony: The Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5L7cZeMTVwaJUt1NHJSuEm) | 3:17 |
 | 105 | [When I Am Older](https://open.spotify.com/track/1Tt7zr1yDbKbT8L4jzSZ74) | [Josh Gad](https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY) | [Frozen 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 1:51 |
 | 106 | [Captain Underpants Theme Song](https://open.spotify.com/track/1SGnWl33MUNd9QHYAoqJtW) | ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | [Captain Underpants: The First Epic Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/57Wdjt6tJU2Mv51NRdpUoD) | 2:14 |
 | 107 | [Home \- From The Motion Picture "Ferdinand"](https://open.spotify.com/track/7gkiBjpe8iHs5esLLlThly) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Ferdinand \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7JCNm5gXgKMKWrNtnYezXu) | 3:00 |

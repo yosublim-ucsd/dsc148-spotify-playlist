@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTC99MCpbjP8.md) - [plain]
 
 > Slow down and relax with a mix of calming piano music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,455 likes - 319 songs - 13 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,492 likes - 319 songs - 13 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTC99MCpbjP8.md) - [plain]
 | 77 | [Wisteria Blue](https://open.spotify.com/track/2uDpyb11bwgMOqLQ1ZQ9E9) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Wisteria Blue](https://open.spotify.com/album/53Dsdz4bBI6oIzsRBNSTh0) | 2:27 |
 | 78 | [unkai](https://open.spotify.com/track/26Sfu4rZ10IU9R5u3erN00) | [Klaüs](https://open.spotify.com/artist/3252lQrYqRgAFw2xXuNdVZ) | [unkai](https://open.spotify.com/album/7ujkaYYK3zTOSpovl6piTa) | 2:21 |
 | 79 | [Waiting For You](https://open.spotify.com/track/12fP6KSs4CyLE6MnVs2VLc) | [Lavendle](https://open.spotify.com/artist/4yJMaS2zuoK9RhQWzOE38u) | [Waiting For You](https://open.spotify.com/album/5wanR4vJ9jSXcD9MlN6XWc) | 2:27 |
-| 80 | [Winter \- Ambient Mix](https://open.spotify.com/track/59xDPiJXRjFptEUIKmagDn) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Winter \(Ambient Mix\)](https://open.spotify.com/album/2kmzeCtSXl8N7ODN94r3RM) | 4:12 |
+| 80 | [Gjeilo: Winter \- Ambient Mix](https://open.spotify.com/track/59xDPiJXRjFptEUIKmagDn) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Winter \(Ambient Mix\)](https://open.spotify.com/album/2kmzeCtSXl8N7ODN94r3RM) | 4:12 |
 | 81 | [Sonnen Sterne](https://open.spotify.com/track/1uKZ6TyMFXuvu9sZWpN202) | [Che Lan](https://open.spotify.com/artist/7spHGT6sHhYOiJN52obbbM) | [Tal Weg](https://open.spotify.com/album/4nZmqnXwBWbaPUvr44VG3u) | 2:59 |
 | 82 | [Saving Daylight \(Revisited\)](https://open.spotify.com/track/0A3qYD4HtfUkL4mMytek2m) | [Lake Isabel](https://open.spotify.com/artist/1O7IHNwUuOSOnMIS1ueGEJ) | [Saving Daylight \(Revisited\)](https://open.spotify.com/album/6iPFhGhZDGywqm8J8jqiXr) | 2:58 |
 | 83 | [Al fín](https://open.spotify.com/track/3F1jev8GAdSB1jyKHuAqhZ) | [Arata Rin](https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI) | [Al fín](https://open.spotify.com/album/0FjpiJwqP0wFPTdi0tbTs7) | 2:28 |

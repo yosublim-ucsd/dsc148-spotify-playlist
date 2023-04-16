@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 
 > La orilla donde el indie se fusiona con la electrónica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,385 likes - 69 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,428 likes - 69 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,10 +26,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 | 16 | [Tainted Love](https://open.spotify.com/track/1wAPbQ5XjbZqPl0WDl5mHH) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Trip Tape](https://open.spotify.com/album/707cK3j40hIquI15sOcYXP) | 2:59 |
 | 17 | [Hanoï café](https://open.spotify.com/track/2I4AhSWdVku2SQsJXiIci6) | [Bleu Toucan](https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r) | [Origami](https://open.spotify.com/album/4EkS7qZRqAHYPJSVIrxPbA) | 3:14 |
 | 18 | [me acostumbro](https://open.spotify.com/track/6xqwYV9XH89Ug1HXItusje) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2) | [me acostumbro](https://open.spotify.com/album/6VdyxAmkc5YNXo7TqipDwj) | 2:50 |
-| 19 | [The Divine Chord](https://open.spotify.com/track/3A0cAzFKPefBCz7Z02UnnO) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Johnny Marr](https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS) | [We Will Always Love You](https://open.spotify.com/album/755yBlrk0Sz8tIgMMTgyr1) | 3:07 |
+| 19 | [Strangers](https://open.spotify.com/track/6VS4OTcpylKl984tzFYC11) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 3:40 |
 | 20 | [De Maravilla](https://open.spotify.com/track/7osWLKq6j6KxoMT03EdvHv) | [The Vue](https://open.spotify.com/artist/1bCVI2X0v8Ext3IXFNd0oY) | [Las Cosas Que No Dije \(LCQND\)](https://open.spotify.com/album/2uC2X3vkFU4hLmRUPKWZ98) | 3:22 |
 | 21 | [Algo De Verdad](https://open.spotify.com/track/1v7TEaSKfwkfJmmpAPhqF5) | [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG) | [Algo De Verdad](https://open.spotify.com/album/7CqpPvnqNYpAXsGI9YkdkV) | 2:27 |
-| 22 | [Strangers](https://open.spotify.com/track/6VS4OTcpylKl984tzFYC11) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 3:40 |
+| 22 | [The Divine Chord](https://open.spotify.com/track/3A0cAzFKPefBCz7Z02UnnO) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Johnny Marr](https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS) | [We Will Always Love You](https://open.spotify.com/album/755yBlrk0Sz8tIgMMTgyr1) | 3:07 |
 | 23 | [405 \- Metronomy x Biig Piig](https://open.spotify.com/track/1KjLbuPsJmYdZJt0CsyVAg) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [405 \- Metronomy x Biig Piig](https://open.spotify.com/album/2GJgVsNLu7RkTe6HoXvzEi) | 4:25 |
 | 24 | [Time](https://open.spotify.com/track/2Oc5ez4PVPnIWAmYr8i99V) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 4:19 |
 | 25 | [Chapstick](https://open.spotify.com/track/2c0NslS6dfGp1LT1iXbqyS) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Chapstick](https://open.spotify.com/album/4AspTebwxBeNJHCWzBWrC9) | 3:13 |
@@ -76,6 +76,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 | 66 | [Los Buenos Tiempos](https://open.spotify.com/track/6mSzSTjVWDsXEsUuCEqKWF) | [Melov](https://open.spotify.com/artist/20gixjtBBVMyxYSnMRCV22), [Juan Astronauta](https://open.spotify.com/artist/4pcBzfDpLQElWkjEif8BI3), [Solo Valencia](https://open.spotify.com/artist/2ZDmVE82uDUSsXwPnjr2xH) | [Máquina Yin Yang](https://open.spotify.com/album/3to9oi39PyJrayxZ3MuY5x) | 4:34 |
 | 67 | [Tears At Bae](https://open.spotify.com/track/78YZ3FMouneV2rWFtBWifu) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Hyperreal](https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId) | 3:22 |
 | 68 | [Vine Hasta Marte](https://open.spotify.com/track/2QESbnic0tiuE32iosLu6s) | [Cohetes](https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ) | [Vine Hasta Marte](https://open.spotify.com/album/7KMhR1LUULSVFR4SRFkKMg) | 3:44 |
-| 69 | [Realidades No Ordinarias](https://open.spotify.com/track/71GdwydcMwyK63mJncZwTt) | [Bardo José](https://open.spotify.com/artist/5KGBbZQTTbci3K89C99XPT), [Boris Vian](https://open.spotify.com/artist/539tqg3ZD8rczM6eTXYFy8) | [Realidades No Ordinarias, Vol\. 2](https://open.spotify.com/album/7iDKNoDsFFEZrTUqvKsXAM) | 4:49 |
+| 69 | [Takotsubo](https://open.spotify.com/track/0xQ5PRG33HEEjMS4WiGNaz) | [Floreana](https://open.spotify.com/artist/3pwB3UZlXcnlXoKr0abRVQ) | [Cuadros](https://open.spotify.com/album/4Zpj0ZC8asCsFfaHBa1yxK) | 3:23 |
 
-Snapshot ID: `MTY4MTUyMDE4NSwwMDAwMDAwMDMxZmI4ZjEyNGNlYzJlYjZhNDVmNGU5MTU2NWMxMWI1`
+Snapshot ID: `MTY4MTUyMDE4NSwwMDAwMDAwMDU1NmYyNTk1Yzk5ODI0NWI2NDJlZjM0MGI3MWI1MWM4`

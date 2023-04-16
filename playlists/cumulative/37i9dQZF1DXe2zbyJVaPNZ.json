@@ -2259,6 +2259,24 @@
     },
     {
       "album": {
+        "name": "The Sleep Project",
+        "url": "https://open.spotify.com/album/25ZJSTznISJssjpVmDu1hK"
+      },
+      "artists": [
+        {
+          "name": "Tom Salta",
+          "url": "https://open.spotify.com/artist/0KFl3wbs0hvoKlKDPcXODj"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240971,
+      "name": "Salta: Second Sleep",
+      "url": "https://open.spotify.com/track/27czMd5PkUmbowhIj70e52"
+    },
+    {
+      "album": {
         "name": "Dream Vibes",
         "url": "https://open.spotify.com/album/3UIy1t5U2AUDF22IvmKuPD"
       },
@@ -2274,24 +2292,6 @@
       "duration_ms": 304545,
       "name": "Sea Angel",
       "url": "https://open.spotify.com/track/0NJTbN4WsbZvEJAtXFuvfW"
-    },
-    {
-      "album": {
-        "name": "The Sleep Project",
-        "url": "https://open.spotify.com/album/25ZJSTznISJssjpVmDu1hK"
-      },
-      "artists": [
-        {
-          "name": "Tom Salta",
-          "url": "https://open.spotify.com/artist/0KFl3wbs0hvoKlKDPcXODj"
-        }
-      ],
-      "date_added": "2022-08-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 240971,
-      "name": "Second Sleep",
-      "url": "https://open.spotify.com/track/27czMd5PkUmbowhIj70e52"
     },
     {
       "album": {

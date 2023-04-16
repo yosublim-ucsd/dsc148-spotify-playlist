@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 
 > RADAR's artists to watch in 2023\. Featuring RADAR official artist Q on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,502 likes - 41 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,520 likes - 41 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -161,6 +161,24 @@
     },
     {
       "album": {
+        "name": "Alaska",
+        "url": "https://open.spotify.com/album/4okxJTqEzEQdyS682cvCKr"
+      },
+      "artists": [
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258573,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/1LpsC9iwh1VK1nOtN7729V"
+    },
+    {
+      "album": {
         "name": "NMDQH",
         "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
       },
@@ -1234,7 +1252,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 150985,
       "name": "enganchao",
       "url": "https://open.spotify.com/track/5WtolAqrKBXPp8wOcqS9CX"
@@ -1400,6 +1418,28 @@
       "duration_ms": 251177,
       "name": "Ha Sido",
       "url": "https://open.spotify.com/track/5rF9YXAcAAOPzdaCe1fFhj"
+    },
+    {
+      "album": {
+        "name": "Himno (para los que est\u00e1n jodidos)",
+        "url": "https://open.spotify.com/album/0WCX8VZK7JA2mChT1sQO3c"
+      },
+      "artists": [
+        {
+          "name": "La La Love You",
+          "url": "https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ"
+        },
+        {
+          "name": "Allison",
+          "url": "https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185790,
+      "name": "Himno (para los que est\u00e1n jodidos)",
+      "url": "https://open.spotify.com/track/0xk30CeA3Klu0xOOdE8grl"
     },
     {
       "album": {
@@ -1619,6 +1659,24 @@
     },
     {
       "album": {
+        "name": "La \u00daltima Canci\u00f3n",
+        "url": "https://open.spotify.com/album/1hPosK94j6gE80FZzEkgMy"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Obreg\u00f3n",
+          "url": "https://open.spotify.com/artist/0AQMbCYt6y84wEHGzScKve"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157144,
+      "name": "La \u00daltima Canci\u00f3n",
+      "url": "https://open.spotify.com/track/3js8DzXWWL7hfRMumQRAAQ"
+    },
+    {
+      "album": {
         "name": "Dharma",
         "url": "https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8"
       },
@@ -1800,7 +1858,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 285440,
       "name": "Los \u00c1ngeles, California",
       "url": "https://open.spotify.com/track/5VYaHqFTsRjvqgaox7Iu6C"
@@ -2372,6 +2430,24 @@
       "duration_ms": 177826,
       "name": "Nublado (feat. Travis Barker)",
       "url": "https://open.spotify.com/track/5p5CzJAFaStkaqrQhkYpBT"
+    },
+    {
+      "album": {
+        "name": "Ojal\u00e1",
+        "url": "https://open.spotify.com/album/6WNr4SBLBhTqGWI17liKAb"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193360,
+      "name": "Ojal\u00e1",
+      "url": "https://open.spotify.com/track/1GOCK6Pr1oXFQUpqNVSTZ9"
     },
     {
       "album": {
@@ -3050,7 +3126,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 202755,
       "name": "Teletecho",
       "url": "https://open.spotify.com/track/7tk6NW5Mk9KJOE0v31yNb5"
@@ -3270,7 +3346,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 247871,
       "name": "Tratar\u00e9",
       "url": "https://open.spotify.com/track/6WJoIAAWCFam54pzy7tmSZ"

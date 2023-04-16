@@ -1,12 +1,12 @@
 {
   "description": "Lainey Wilson is taking over with her favorite workout tracks to keep up with her New Year's resolution. \ud83c\udf51",
-  "num_followers": 94956,
+  "num_followers": 94954,
   "original_name": "Country Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzMwNDQyOCwwMDAwMDAwMDkwNWYzMGM5ZDEzYjY1MzI0YTUyNjA0ZWY5YmVmYmQw",
+  "snapshot_id": "MTY3MzMwNDQyOCwwMDAwMDAwMGFiY2YwM2ZhNTBhZTk2ZDU3ZmI2OGM4MjhiOWMyYTlm",
   "tracks": [
     {
       "added_at": "2023-01-09 22:47:08",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-01-09 22:47:08",
       "album": {
-        "name": "Everything She Ain\u2019t",
-        "url": "https://open.spotify.com/album/761yinsOXW3p74dFBge4c7"
-      },
-      "artists": [
-        {
-          "name": "Hailey Whitters",
-          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
-        }
-      ],
-      "duration_ms": 151973,
-      "name": "Everything She Ain\u2019t",
-      "url": "https://open.spotify.com/track/3zAOcNGOFq5Q1OsN0tcxA0"
-    },
-    {
-      "added_at": "2023-01-09 22:47:08",
-      "album": {
         "name": "Up All Night",
         "url": "https://open.spotify.com/album/191BU6Uvnf7oNTjO4n36Yu"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 213826,
       "name": "Somethin' 'Bout A Truck",
       "url": "https://open.spotify.com/track/6Ymvlzom4TQeoKqAWsZRD8"
+    },
+    {
+      "added_at": "2023-01-09 22:47:08",
+      "album": {
+        "name": "Everything She Ain\u2019t",
+        "url": "https://open.spotify.com/album/761yinsOXW3p74dFBge4c7"
+      },
+      "artists": [
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+        }
+      ],
+      "duration_ms": 151973,
+      "name": "Everything She Ain\u2019t",
+      "url": "https://open.spotify.com/track/3zAOcNGOFq5Q1OsN0tcxA0"
     },
     {
       "added_at": "2023-01-09 22:47:08",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-01-09 22:47:08",
       "album": {
-        "name": "Yours",
-        "url": "https://open.spotify.com/album/6NxQDh433Rl4EQXT6QiQCE"
-      },
-      "artists": [
-        {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
-        }
-      ],
-      "duration_ms": 190640,
-      "name": "Every Little Thing",
-      "url": "https://open.spotify.com/track/3kgCJPXDlnL5bl1HFesHUi"
-    },
-    {
-      "added_at": "2023-01-09 22:47:08",
-      "album": {
         "name": "How Country Feels",
         "url": "https://open.spotify.com/album/4BVzcXLDJ8pRtJttQiU3G6"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 193773,
       "name": "Runnin' Outta Moonlight",
       "url": "https://open.spotify.com/track/6enPOmd3vSFpI4jjms8kXN"
+    },
+    {
+      "added_at": "2023-01-09 22:47:08",
+      "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/6NxQDh433Rl4EQXT6QiQCE"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "duration_ms": 190640,
+      "name": "Every Little Thing",
+      "url": "https://open.spotify.com/track/3kgCJPXDlnL5bl1HFesHUi"
     },
     {
       "added_at": "2023-01-09 22:47:08",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-01-09 22:47:08",
       "album": {
-        "name": "Tangled Up",
-        "url": "https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 190733,
-      "name": "Crash and Burn",
-      "url": "https://open.spotify.com/track/2Fk0WwAqTBesLtKg97nojy"
-    },
-    {
-      "added_at": "2023-01-09 22:47:08",
-      "album": {
         "name": "Take A Back Road",
         "url": "https://open.spotify.com/album/2qLz69eIC6A7GggjGvxEMp"
       },
@@ -1247,6 +1231,38 @@
       "duration_ms": 209426,
       "name": "Take A Back Road",
       "url": "https://open.spotify.com/track/7B6m8tHAYZsOKOKMU5SR2n"
+    },
+    {
+      "added_at": "2023-01-09 22:47:08",
+      "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/6NxQDh433Rl4EQXT6QiQCE"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "duration_ms": 212066,
+      "name": "Blue Tacoma",
+      "url": "https://open.spotify.com/track/5PBx0zFfehUMyv5H4YXVAU"
+    },
+    {
+      "added_at": "2023-01-09 22:47:08",
+      "album": {
+        "name": "Tangled Up",
+        "url": "https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 190733,
+      "name": "Crash and Burn",
+      "url": "https://open.spotify.com/track/2Fk0WwAqTBesLtKg97nojy"
     },
     {
       "added_at": "2023-01-09 22:47:08",
@@ -1283,22 +1299,6 @@
     {
       "added_at": "2023-01-09 22:47:08",
       "album": {
-        "name": "Yours",
-        "url": "https://open.spotify.com/album/6NxQDh433Rl4EQXT6QiQCE"
-      },
-      "artists": [
-        {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
-        }
-      ],
-      "duration_ms": 212066,
-      "name": "Blue Tacoma",
-      "url": "https://open.spotify.com/track/5PBx0zFfehUMyv5H4YXVAU"
-    },
-    {
-      "added_at": "2023-01-09 22:47:08",
-      "album": {
         "name": "Unapologetically (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
       },
@@ -1311,38 +1311,6 @@
       "duration_ms": 192840,
       "name": "Miss Me More",
       "url": "https://open.spotify.com/track/5NfJGBAL9mgFPRQxKJmiX2"
-    },
-    {
-      "added_at": "2023-01-09 22:47:08",
-      "album": {
-        "name": "My Kinda Party",
-        "url": "https://open.spotify.com/album/6gYk1JlSSmlUZGs1Lef1BI"
-      },
-      "artists": [
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        }
-      ],
-      "duration_ms": 284960,
-      "name": "My Kinda Party",
-      "url": "https://open.spotify.com/track/215FCyLSBcXeX0NASXEjyn"
-    },
-    {
-      "added_at": "2023-01-09 22:47:08",
-      "album": {
-        "name": "Denim & Rhinestones",
-        "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 183573,
-      "name": "Hate My Heart",
-      "url": "https://open.spotify.com/track/4oGCfTHN1hmXGy5mqmJVc3"
     },
     {
       "added_at": "2023-01-09 22:47:08",
@@ -1363,34 +1331,34 @@
     {
       "added_at": "2023-01-09 22:47:08",
       "album": {
-        "name": "Last Night Lonely",
-        "url": "https://open.spotify.com/album/6RVASKYeyPoQCjExSbmpzp"
+        "name": "Denim & Rhinestones",
+        "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
       },
       "artists": [
         {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 181990,
-      "name": "Last Night Lonely",
-      "url": "https://open.spotify.com/track/3SeeaIXnrCfT88vHVCRWHl"
+      "duration_ms": 183573,
+      "name": "Hate My Heart",
+      "url": "https://open.spotify.com/track/4oGCfTHN1hmXGy5mqmJVc3"
     },
     {
       "added_at": "2023-01-09 22:47:08",
       "album": {
-        "name": "My Kind Of Livin'",
-        "url": "https://open.spotify.com/album/4ovUdHrbzwtbtKMyU997Hl"
+        "name": "My Kinda Party",
+        "url": "https://open.spotify.com/album/6gYk1JlSSmlUZGs1Lef1BI"
       },
       "artists": [
         {
-          "name": "Craig Morgan",
-          "url": "https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD"
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
         }
       ],
-      "duration_ms": 230373,
-      "name": "Redneck Yacht Club",
-      "url": "https://open.spotify.com/track/4etE2X6t7GmyiuYLIdI8H5"
+      "duration_ms": 284960,
+      "name": "My Kinda Party",
+      "url": "https://open.spotify.com/track/215FCyLSBcXeX0NASXEjyn"
     },
     {
       "added_at": "2023-01-09 22:47:08",
@@ -1411,18 +1379,50 @@
     {
       "added_at": "2023-01-09 22:47:08",
       "album": {
-        "name": "Night Train",
-        "url": "https://open.spotify.com/album/2uXHwdc2aTcUP2EhXKhPRu"
+        "name": "My Kind Of Livin'",
+        "url": "https://open.spotify.com/album/4ovUdHrbzwtbtKMyU997Hl"
       },
       "artists": [
         {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+          "name": "Craig Morgan",
+          "url": "https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD"
         }
       ],
-      "duration_ms": 171120,
-      "name": "When She Says Baby",
-      "url": "https://open.spotify.com/track/3gVRILe7XCyNakb6sy5umX"
+      "duration_ms": 230373,
+      "name": "Redneck Yacht Club",
+      "url": "https://open.spotify.com/track/4etE2X6t7GmyiuYLIdI8H5"
+    },
+    {
+      "added_at": "2023-01-09 22:47:08",
+      "album": {
+        "name": "Last Night Lonely",
+        "url": "https://open.spotify.com/album/6RVASKYeyPoQCjExSbmpzp"
+      },
+      "artists": [
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "duration_ms": 181990,
+      "name": "Last Night Lonely",
+      "url": "https://open.spotify.com/track/3SeeaIXnrCfT88vHVCRWHl"
+    },
+    {
+      "added_at": "2023-01-09 22:47:08",
+      "album": {
+        "name": "A.M.",
+        "url": "https://open.spotify.com/album/3cyLH6iUGPjEsZIUFnJfd3"
+      },
+      "artists": [
+        {
+          "name": "Chris Young",
+          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
+        }
+      ],
+      "duration_ms": 188706,
+      "name": "Aw Naw",
+      "url": "https://open.spotify.com/track/53Dj5PCDhb22qWqmre3YQs"
     },
     {
       "added_at": "2023-01-09 22:47:08",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2023-01-09 22:47:08",
       "album": {
-        "name": "A.M.",
-        "url": "https://open.spotify.com/album/3cyLH6iUGPjEsZIUFnJfd3"
+        "name": "Night Train",
+        "url": "https://open.spotify.com/album/2uXHwdc2aTcUP2EhXKhPRu"
       },
       "artists": [
         {
-          "name": "Chris Young",
-          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
         }
       ],
-      "duration_ms": 188706,
-      "name": "Aw Naw",
-      "url": "https://open.spotify.com/track/53Dj5PCDhb22qWqmre3YQs"
+      "duration_ms": 171120,
+      "name": "When She Says Baby",
+      "url": "https://open.spotify.com/track/3gVRILe7XCyNakb6sy5umX"
     },
     {
       "added_at": "2023-01-09 22:47:08",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-01-09 22:47:08",
       "album": {
-        "name": "Play On",
-        "url": "https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 236786,
-      "name": "Cowboy Casanova",
-      "url": "https://open.spotify.com/track/6OqdF0vHI9xkqswI7EK0cD"
-    },
-    {
-      "added_at": "2023-01-09 22:47:08",
-      "album": {
         "name": "HIXTAPE: Vol. 1",
         "url": "https://open.spotify.com/album/5e3Kjap4XBZ44dc36AqtEo"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 173173,
       "name": "ONE BEER (feat. Lauren Alaina & Devin Dawson)",
       "url": "https://open.spotify.com/track/5FmvaZGd6fulojSToozLRD"
+    },
+    {
+      "added_at": "2023-01-09 22:47:08",
+      "album": {
+        "name": "Play On",
+        "url": "https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 236786,
+      "name": "Cowboy Casanova",
+      "url": "https://open.spotify.com/track/6OqdF0vHI9xkqswI7EK0cD"
     },
     {
       "added_at": "2023-01-09 22:47:08",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-01-09 22:47:08",
       "album": {
-        "name": "The Road And The Radio",
-        "url": "https://open.spotify.com/album/5uMLCobPh02IG3fyH0Dzec"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        }
-      ],
-      "duration_ms": 206586,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/3cE5ltZFHmBpiS77itKaOM"
-    },
-    {
-      "added_at": "2023-01-09 22:47:08",
-      "album": {
         "name": "You Should Be Here",
         "url": "https://open.spotify.com/album/7EZEhfO3ULNRHwX2jaiGei"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 177066,
       "name": "Flatliner (feat. Dierks Bentley)",
       "url": "https://open.spotify.com/track/0WyFpxYlBCgH1gMXd26OOr"
+    },
+    {
+      "added_at": "2023-01-09 22:47:08",
+      "album": {
+        "name": "The Road And The Radio",
+        "url": "https://open.spotify.com/album/5uMLCobPh02IG3fyH0Dzec"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "duration_ms": 206586,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/3cE5ltZFHmBpiS77itKaOM"
     },
     {
       "added_at": "2023-01-09 22:47:08",

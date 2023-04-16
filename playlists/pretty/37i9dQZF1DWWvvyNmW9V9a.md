@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > we didn't have CharBrina on our 2023 bingo card tbh
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,040,786 likes - 105 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,040,838 likes - 105 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 | 50 | [Kill Em With Kindness](https://open.spotify.com/track/1QNoKVgA758HFLu3TW2q7R) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revival \(Deluxe\)](https://open.spotify.com/album/7lDBDk8OQarV5dBMu3qrdz) | 3:37 |
 | 51 | [always be a fan](https://open.spotify.com/track/35RZ3ak8JdBKTJt8uM5c5e) | [Eva Grace](https://open.spotify.com/artist/67sX3xnatlElE31KHjSWVr) | [always be a fan](https://open.spotify.com/album/7dFfYuzQGnG8H5uNSKVsPa) | 2:18 |
 | 52 | [Mother](https://open.spotify.com/track/69ZzhvHnSSnzMO8SMYEJWb) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back \(Deluxe\)](https://open.spotify.com/album/6IK5i5sR0uxIcM0rV8HThX) | 2:27 |
-| 53 | [Escapism\. \- Sped Up](https://open.spotify.com/track/4rPJSqrov3zqGwXlemLBMw) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. \(Sped Up\)](https://open.spotify.com/album/1bdKI997loh6G68NED2cwX) | 3:59 |
+| 53 | [Escapism\. \- Sped Up](https://open.spotify.com/track/3XCpS4k8WqNnCpcDOSRRuz) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism.](https://open.spotify.com/album/4parxQfGC25WtlVVAm5S9q) | 3:59 |
 | 54 | [Apocalypse](https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 4:50 |
 | 55 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 |
 | 56 | [Beauty And A Beat](https://open.spotify.com/track/190jyVPHYjAqEaOGmMzdyk) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Believe \(Deluxe Edition\)](https://open.spotify.com/album/70f70xLCpH7wHaVvB2oZT9) | 3:47 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 | 104 | [Only Love Can Hurt Like This \- Sped Up Version](https://open.spotify.com/track/6SCJiS8fAWC5VzRpMEiHxV) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa), [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl) | [Only Love Can Hurt Like This \(Sped Up Version\)](https://open.spotify.com/album/4n584qCBn2N7MDkjPX6Cs8) | 2:45 |
 | 105 | [Habits \(Stay High\)](https://open.spotify.com/track/14OxJlLdcHNpgsm4DRwDOB) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Queen Of The Clouds](https://open.spotify.com/album/47C7w4o1resDhr7jvYEpxE) | 3:29 |
 
-Snapshot ID: `MTY4MTQ4ODc1NCwwMDAwMDAwMDNkZjA3MGNjYTg2N2Y5OTczYWEyZjE1M2NkN2VkYzcy`
+Snapshot ID: `MTY4MTQ4ODc1NCwwMDAwMDAwMDc0NjRjYTQxZmNiMWUyMTA4ZWQ1MTZiY2VkOGMwZWVk`

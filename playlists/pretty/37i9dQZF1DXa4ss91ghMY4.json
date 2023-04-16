@@ -1,12 +1,12 @@
 {
   "description": "Chegou a hora de sair da cama e deixar seu dia mais pop! LEVANTA",
-  "num_followers": 581230,
+  "num_followers": 581249,
   "original_name": "Pulando da Cama",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDgzNjQwMCwwMDAwMDAwMGM2ZDc3YWUzNGYxNWQ2ZTBlYTJjNjY3NGY4MTlmNmI1",
+  "snapshot_id": "MTY4MDgzNjQwMCwwMDAwMDAwMDIwNmRjODdmMDk4M2M2NDJhZmU0ZGY0MDg3ODM5OWU4",
   "tracks": [
     {
       "added_at": "2023-04-07 03:00:00",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-04-07 03:00:00",
       "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 237520,
-      "name": "In Your Eyes",
-      "url": "https://open.spotify.com/track/7szuecWAPwGoV1e5vGu8tl"
-    },
-    {
-      "added_at": "2023-04-07 03:00:00",
-      "album": {
         "name": "Destined 2 Win",
         "url": "https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 205458,
       "name": "Calling My Phone",
       "url": "https://open.spotify.com/track/3J8EOeKLTLXORtWPpOU5bE"
+    },
+    {
+      "added_at": "2023-04-07 03:00:00",
+      "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 237520,
+      "name": "In Your Eyes",
+      "url": "https://open.spotify.com/track/7szuecWAPwGoV1e5vGu8tl"
     },
     {
       "added_at": "2023-04-07 03:00:00",
@@ -639,26 +639,6 @@
     {
       "added_at": "2023-04-07 03:00:00",
       "album": {
-        "name": "Levitating (feat. DaBaby)",
-        "url": "https://open.spotify.com/album/04m06KhJUuwe1Q487puIud"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 203064,
-      "name": "Levitating (feat. DaBaby)",
-      "url": "https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9"
-    },
-    {
-      "added_at": "2023-04-07 03:00:00",
-      "album": {
         "name": "No.6 Collaborations Project",
         "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 204466,
       "name": "South of the Border (feat. Camila Cabello & Cardi B)",
       "url": "https://open.spotify.com/track/4vUmTMuQqjdnvlZmAH61Qk"
+    },
+    {
+      "added_at": "2023-04-07 03:00:00",
+      "album": {
+        "name": "Levitating (feat. DaBaby)",
+        "url": "https://open.spotify.com/album/04m06KhJUuwe1Q487puIud"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 203064,
+      "name": "Levitating (feat. DaBaby)",
+      "url": "https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9"
     },
     {
       "added_at": "2023-04-07 03:00:00",
@@ -783,30 +783,6 @@
     {
       "added_at": "2023-04-07 03:00:00",
       "album": {
-        "name": "PS5 (with TOMORROW X TOGETHER & Alan Walker)",
-        "url": "https://open.spotify.com/album/3d5T4SpuAOMi7GSFojXktx"
-      },
-      "artists": [
-        {
-          "name": "salem ilese",
-          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
-        },
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        },
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 152214,
-      "name": "PS5 (with TOMORROW X TOGETHER & Alan Walker)",
-      "url": "https://open.spotify.com/track/7xNCacksfUkYXsXuSW4vNF"
-    },
-    {
-      "added_at": "2023-04-07 03:00:00",
-      "album": {
         "name": "Feel Alive",
         "url": "https://open.spotify.com/album/3zNr5IOpeOlfhpAHYz4ihP"
       },
@@ -835,6 +811,30 @@
       "duration_ms": 277591,
       "name": "Mr. Perfectly Fine (Taylor\u2019s Version) (From The Vault)",
       "url": "https://open.spotify.com/track/7l2tmgUhV7Y2aJHjiszifg"
+    },
+    {
+      "added_at": "2023-04-07 03:00:00",
+      "album": {
+        "name": "PS5 (with TOMORROW X TOGETHER & Alan Walker)",
+        "url": "https://open.spotify.com/album/3d5T4SpuAOMi7GSFojXktx"
+      },
+      "artists": [
+        {
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+        },
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 152214,
+      "name": "PS5 (with TOMORROW X TOGETHER & Alan Walker)",
+      "url": "https://open.spotify.com/track/7xNCacksfUkYXsXuSW4vNF"
     },
     {
       "added_at": "2023-04-07 03:00:00",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2023-04-07 03:00:00",
       "album": {
+        "name": "drowning",
+        "url": "https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 131824,
+      "name": "Always Been You",
+      "url": "https://open.spotify.com/track/53UMRr4KOgZP5Ins0aGlhs"
+    },
+    {
+      "added_at": "2023-04-07 03:00:00",
+      "album": {
         "name": "Savage Love (Laxed - Siren Beat) [BTS Remix]",
         "url": "https://open.spotify.com/album/5O6izFQ2veRaZOcQSyOi4o"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 184905,
       "name": "Savage Love (Laxed \u2013 Siren Beat) [BTS Remix]",
       "url": "https://open.spotify.com/track/4TgxFMOn5yoESW6zCidCXL"
-    },
-    {
-      "added_at": "2023-04-07 03:00:00",
-      "album": {
-        "name": "drowning",
-        "url": "https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 131824,
-      "name": "Always Been You",
-      "url": "https://open.spotify.com/track/53UMRr4KOgZP5Ins0aGlhs"
     }
   ],
   "unique_name": "Pulando da Cama",

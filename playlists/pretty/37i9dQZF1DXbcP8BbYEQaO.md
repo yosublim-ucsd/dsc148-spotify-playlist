@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcP8BbYEQaO.md) - [plain]
 
 > sparkling, shimmery synth pop ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,242 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,355 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcP8BbYEQaO.md) - [plain]
 | 13 | [The Archer](https://open.spotify.com/track/3pHkh7d0lzM2AldUtz2x37) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:31 |
 | 14 | [Violet Chemistry](https://open.spotify.com/track/00Ga884hbpVvCNyeQdle1U) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 4:06 |
 | 15 | [Smalltown Boy](https://open.spotify.com/track/5vmRQ3zELMLUQPo2FLQ76x) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08) | [The Age of Consent](https://open.spotify.com/album/6OMYQUITdN6wBaWfEtgooI) | 5:02 |
-| 16 | [Ghost](https://open.spotify.com/track/7LbhIjYNfCguxjAw43Mkff) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Diamonds & Dancefloors](https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ) | 3:01 |
-| 17 | [Ghosts Again](https://open.spotify.com/track/3TiVl5igD6Z5Pw6R5sp8YV) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Ghosts Again](https://open.spotify.com/album/71hI1kZm2fvpY19mlv38nF) | 3:58 |
-| 18 | [Borderline](https://open.spotify.com/track/164QjgWOxnSZYHQghRKeC0) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Borderline](https://open.spotify.com/album/71bAwRaSVv4NIHmY61UutA) | 3:13 |
-| 19 | [You](https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [You](https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1) | 3:53 |
-| 20 | [Substitution](https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Substitution](https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7) | 3:01 |
+| 16 | [Substitution](https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Substitution](https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7) | 3:01 |
+| 17 | [Ghost](https://open.spotify.com/track/7LbhIjYNfCguxjAw43Mkff) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Diamonds & Dancefloors](https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ) | 3:01 |
+| 18 | [Ghosts Again](https://open.spotify.com/track/3TiVl5igD6Z5Pw6R5sp8YV) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Ghosts Again](https://open.spotify.com/album/71hI1kZm2fvpY19mlv38nF) | 3:58 |
+| 19 | [Borderline](https://open.spotify.com/track/164QjgWOxnSZYHQghRKeC0) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Borderline](https://open.spotify.com/album/71bAwRaSVv4NIHmY61UutA) | 3:13 |
+| 20 | [You](https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [You](https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1) | 3:53 |
 | 21 | [Handstand](https://open.spotify.com/track/6fcZVY3WjwKxVKlKFu84rF) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:25 |
 | 22 | [Glitch](https://open.spotify.com/track/6wAFvJPpTZVirBKGZ4EnMW) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq) | 2:28 |
 | 23 | [By The End Of The Night](https://open.spotify.com/track/0tYtfBFJLVn2ITE66FbaLT) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [By The End Of The Night](https://open.spotify.com/album/0cNb1JOALBpKIZtOxxSabq) | 3:08 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcP8BbYEQaO.md) - [plain]
 | 47 | [Frozen \(feat\. 070 Shake\)](https://open.spotify.com/track/34itnB3u4NTwj9ctVfiPmC) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Frozen \(feat\. 070 Shake\)](https://open.spotify.com/album/78zdwUAgBJyjPjwYAMSUDD) | 2:19 |
 | 48 | [tears in the club \(feat\. the weeknd\)](https://open.spotify.com/track/1GsSM1Fju5J1Fsu51jEsTg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 3:16 |
 | 49 | [NOT ALONE](https://open.spotify.com/track/42RpLZC6rKzQZyLMaJMsDJ) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [NOT ALONE](https://open.spotify.com/album/06osQucbdoBctWgXgdFblC) | 3:05 |
-| 50 | [Iridium](https://open.spotify.com/track/5amRolITZmPuqDQOqJ4aWr) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Iridium](https://open.spotify.com/album/573lYeLYHCPSKBOa0RyDbE) | 2:46 |
-| 51 | [What I Want](https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 4:03 |
+| 50 | [What I Want](https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 4:03 |
+| 51 | [Iridium](https://open.spotify.com/track/5amRolITZmPuqDQOqJ4aWr) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Iridium](https://open.spotify.com/album/573lYeLYHCPSKBOa0RyDbE) | 2:46 |
 | 52 | [Duel](https://open.spotify.com/track/1sgMo3mjFB8mA7KLzETTeO) | [Propaganda](https://open.spotify.com/artist/28yIUgPYZqgJoNZjeBvrHn) | [A Secret Wish \(Analogue Sequence\)](https://open.spotify.com/album/4W0pFYAaKVuJwY9ZMTmsUW) | 4:42 |
 | 53 | [No Romeo](https://open.spotify.com/track/2n4U8Qf9vkpl6rFQnXtLK5) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [No Romeo EP](https://open.spotify.com/album/6dpPmjQADL8JE813YWKfQ3) | 3:11 |
 | 54 | [Wolf](https://open.spotify.com/track/4g3alZ0okNvZiOWW4pGUpw) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:13 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcP8BbYEQaO.md) - [plain]
 | 63 | [Sunset](https://open.spotify.com/track/2eQ9B2SsQFU2qCnHSas3eQ) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Sunset](https://open.spotify.com/album/0JlGrm9d6P37h0TXEWxaQo) | 2:42 |
 | 64 | [Love You When You’re Gone](https://open.spotify.com/track/54liA2Xwyb7ZCrh9sDGQ3B) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Love You When You’re Gone](https://open.spotify.com/album/3DtAEhLFoQSftobryAhftd) | 3:04 |
 | 65 | [What's It Gonna Be?](https://open.spotify.com/track/1Jb8fejyUddXtl2JKAEFmQ) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Nothing's Real](https://open.spotify.com/album/2igeHhP9UZ7ko10H1K0DbP) | 3:34 |
-| 66 | [I F\*cking Love You](https://open.spotify.com/track/7duGuHM4EiL8unwYQ4aDk5) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [I F\*cking Love You](https://open.spotify.com/album/0PJoyjLXZFuYNY4m1TCbQw) | 3:00 |
-| 67 | [Save A Kiss](https://open.spotify.com/track/6rlQYRWG6ZN5X89LA0zBE7) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [What's Your Pleasure?](https://open.spotify.com/album/1CTm3ARqDETSm7GfvNYNJp) | 4:02 |
+| 66 | [Save A Kiss](https://open.spotify.com/track/6rlQYRWG6ZN5X89LA0zBE7) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [What's Your Pleasure?](https://open.spotify.com/album/1CTm3ARqDETSm7GfvNYNJp) | 4:02 |
+| 67 | [I F\*cking Love You](https://open.spotify.com/track/7duGuHM4EiL8unwYQ4aDk5) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [I F\*cking Love You](https://open.spotify.com/album/0PJoyjLXZFuYNY4m1TCbQw) | 3:00 |
 | 68 | [Dance Away The Pain](https://open.spotify.com/track/1ZVzr825BOBAyGZoQqCSRg) | [Number One Popstar](https://open.spotify.com/artist/26K6dJKDXGJc5TRt0sOD3q) | [Dance Away The Pain](https://open.spotify.com/album/21WomUkBD1tJBCAH0Ow7in) | 2:56 |
 | 69 | [Lights & Music](https://open.spotify.com/track/2dngx6srtqsxvyh7oGV8FM) | [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [In Ghost Colours](https://open.spotify.com/album/6k3dwEFYKsGrhS40jtiAGt) | 4:37 |
 | 70 | [For My Friends](https://open.spotify.com/track/6IEzGhvKEeUprf0pVk21ye) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 3:35 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcP8BbYEQaO.md) - [plain]
 | 72 | [Where Do We Go From Here?](https://open.spotify.com/track/5DObWDHfwHE2mIdZGgRnzE) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Easy / Where Do We Go From Here?](https://open.spotify.com/album/1paYV647AAPnlKgpFJVtLa) | 3:51 |
 | 73 | [Welcome To My Island](https://open.spotify.com/track/2QeUnYtvlfQdfWxzF3b1ud) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Welcome To My Island](https://open.spotify.com/album/53LBDupH6C8cJvPEzH6nKI) | 3:52 |
 | 74 | [Overthinking](https://open.spotify.com/track/1rQkqnN2ky1KmchT66eWFu) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Overthinking](https://open.spotify.com/album/73w5XKOuWg456VuawuUH47) | 2:54 |
-| 75 | [Firefly](https://open.spotify.com/track/6K51akbgV0Tb3WI0NY1yYX) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nymph](https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4) | 3:18 |
+| 75 | [Naked In Manhattan](https://open.spotify.com/track/1IfgSUsltB1wGK9SzK7SDa) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Naked In Manhattan](https://open.spotify.com/album/6nMbaV420wdCbTqJNU6Dnp) | 3:31 |
 
-Snapshot ID: `MTY4MTQ0NDgwMCwwMDAwMDAwMDZhMjViYmIyYzQwOTEzNzdiNjdjYjQ4YzJjMjY1YzZl`
+Snapshot ID: `MTY4MTQ0NDgwMCwwMDAwMDAwMGJjMTkwMjg1ZjVjNTVjY2MzYmQ3NGVkMjhiYmI3NjE2`

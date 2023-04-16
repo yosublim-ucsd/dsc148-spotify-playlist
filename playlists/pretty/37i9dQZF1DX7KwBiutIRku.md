@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KwBiutIRku.md) - [plain]
 
 > Southern boogie, swinging blues rock and classic boogie rock\. Cover: ZZ Top
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,274 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,364 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,10 +19,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KwBiutIRku.md) - [plain]
 | 9 | [Mama Kin](https://open.spotify.com/track/6Qs5u9Tqh1rm1ljdr1ckhw) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE) | 4:29 |
 | 10 | [Happy](https://open.spotify.com/track/5fXRPS1tp70DbqsBZVyG4e) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Exile On Main Street \(Deluxe Version\)](https://open.spotify.com/album/1D0PTM0bg7skufClSUOxTP) | 3:04 |
 | 11 | [Smokin' in the Boy's Room](https://open.spotify.com/track/1AIGp3gpj1NXJvh3engmUQ) | [Brownsville Station](https://open.spotify.com/artist/67SxctqWYOGe8lthWjTDwu) | [Yeah! \(US Internet Release\)](https://open.spotify.com/album/0sOT2G3ov21Lc8t5UNEoi3) | 2:56 |
-| 12 | [Rockin' All Over The World](https://open.spotify.com/track/1ydpGKWD5D8tvTHWN8h58q) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Rockin' All Over The World](https://open.spotify.com/album/4UyEneWCIKATQf3keQnG7O) | 3:37 |
+| 12 | [Move It On Over](https://open.spotify.com/track/2bgsFbiStgVqxOtQ4UK3Uf) | [George Thorogood & The Destroyers](https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK) | [The Baddest Of George Thorogood And The Destroyers](https://open.spotify.com/album/5vliZHMdEeEHpTOZC2XcBw) | 4:18 |
 | 13 | [James Dean \- 2013 Remaster](https://open.spotify.com/track/0HznRAeJLyGtyLZgecDiLI) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [On the Border \(2013 Remaster\)](https://open.spotify.com/album/2iCHyD9XHtA3vJFJIuXzqu) | 3:38 |
 | 14 | [Let's Work Together](https://open.spotify.com/track/4GAqWEmxzMZDZ1T0NFHqKG) | [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [Future Blues \(Expanded Edition\)](https://open.spotify.com/album/7CZCDYdgJPRzRAHk91SJGh) | 2:50 |
-| 15 | [Move It On Over](https://open.spotify.com/track/2bgsFbiStgVqxOtQ4UK3Uf) | [George Thorogood & The Destroyers](https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK) | [The Baddest Of George Thorogood And The Destroyers](https://open.spotify.com/album/5vliZHMdEeEHpTOZC2XcBw) | 4:18 |
+| 15 | [Rockin' All Over The World](https://open.spotify.com/track/1ydpGKWD5D8tvTHWN8h58q) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Rockin' All Over The World](https://open.spotify.com/album/4UyEneWCIKATQf3keQnG7O) | 3:37 |
 | 16 | [Hot Love](https://open.spotify.com/track/7EZw2AXVKWSNq5n7cw94RF) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Electric Warrior \[Expanded & Remastered\]](https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt) | 4:58 |
 | 17 | [California Man](https://open.spotify.com/track/5e4kUj91oLjKxxiT8akiQV) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [Heaven Tonight](https://open.spotify.com/album/5w20U3G3GyWiPvvDeVzkhN) | 3:44 |
 | 18 | [Let's Make It](https://open.spotify.com/track/7EGw2guJbgCqNAP6HHtPmR) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [Hooker 'N Heat](https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3) | 4:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KwBiutIRku.md) - [plain]
 | 49 | [Born To Boogie](https://open.spotify.com/track/3Qd1sMmuPHEgycQOn6Mdve) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Tanx](https://open.spotify.com/album/3I4VF8Hg1aXiCOC3zLxfXG) | 2:04 |
 | 50 | [Keep Playin' That Rock 'n' Roll](https://open.spotify.com/track/0rQf7arPF7Fob1ewkKicL1) | [Edgar Winter's White Trash](https://open.spotify.com/artist/4uOdVRRuTWjJVkcN0LXxwL) | [The Essential Edgar Winter](https://open.spotify.com/album/3a27WqEqhsikCfuxVSq2vW) | 3:44 |
 
-Snapshot ID: `MTYzODg5Njg2OCwwMDAwMDAwMDY3ZjBiMDA5MTE3NzY5NzM5ZDlkYThjNzJlM2YxYjcx`
+Snapshot ID: `MTYzODg5Njg2OCwwMDAwMDAwMDUyZjFlZGM1ZDgwMDllYmZkZGM3OWFkMzEwZGNmYWM1`

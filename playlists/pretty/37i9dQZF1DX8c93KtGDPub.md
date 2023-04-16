@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8c93KtGDPub.md) - [plain]
 
 > Play these festive songs upon a winter's night, and have yourself a folksy little Christmas now\. Cover: She & Him
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,648 likes - 174 songs - 10 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,630 likes - 174 songs - 10 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8c93KtGDPub.md) - [plain]
 | 20 | [Silver Bells](https://open.spotify.com/track/45ppW2lNnho5FgWdfK3EO9) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Silver Bells](https://open.spotify.com/album/3xf3VdXLz6ZtvnCFCxYUou) | 1:55 |
 | 21 | [Christmas Alone \- Live](https://open.spotify.com/track/4KkzdFdx8KVQNt1hBDLWFV) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE) | [Christmas Alone \(Live from the Blue Room\)](https://open.spotify.com/album/3zDVgEGn74AjkKShyC3gGn) | 3:30 |
 | 22 | [Blame It on the Mistletoe](https://open.spotify.com/track/2COaokC9QUFmEVf6dCeXAh) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [For Christmas](https://open.spotify.com/album/6ZAI9hpgCoNtxpF0cpup0G) | 3:18 |
-| 23 | [O Come O Come Emmanuel](https://open.spotify.com/track/22Fol0wZjTxAtS5NHlxYK6) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [O Come O Come Emmanuel](https://open.spotify.com/album/3YmuNVghxaV1bqILKe88hk) | 3:01 |
+| 23 | [O Come O Come Emmanuel](https://open.spotify.com/track/0nPf3v2C9h2qABsVTQr54L) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [O Come O Come Emmanuel](https://open.spotify.com/album/6X5x5WVDG1Nb5M2T9ESJIE) | 3:01 |
 | 24 | [If We Make It Through December](https://open.spotify.com/track/2vnVkHPckitpXFyC2Q2ULG) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [If We Make It Through December](https://open.spotify.com/album/5c7rZDAKYf6PsA3MUfNZXL) | 2:59 |
 | 25 | [Auld Lang Syne](https://open.spotify.com/track/5lCpu4mVtJtqTAvuyTCfvm) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Auld Lang Syne](https://open.spotify.com/album/0NtG3wF1OMkitdXQsJ3cgm) | 3:32 |
 | 26 | [Fairytale of New York](https://open.spotify.com/track/4fYUi0MSSzdX7Q696Fn81f) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT), [Atlantic Holiday](https://open.spotify.com/artist/5D9NYfOaGxFKCalJIeia1N) | [Fairytale of New York](https://open.spotify.com/album/3m34lxhVHHZmCFVa9zsulA) | 3:59 |
@@ -183,4 +183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8c93KtGDPub.md) - [plain]
 | 173 | [7 O'clock News / Silent Night](https://open.spotify.com/track/0Va2A1oD5n0ezfvKqPOXaD) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Parsley, Sage, Rosemary And Thyme](https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7) | 2:00 |
 | 174 | [Happy Xmas \(War Is Over\) \- Remastered 2010](https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ) | [Signature Box](https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v) | 3:34 |
 
-Snapshot ID: `MTY2OTk5ODQ0MCwwMDAwMDAwMDk3MmMxNTJiY2U0ZjVmMTRjNDliYjY3MTc4YWY0ZTFm`
+Snapshot ID: `MTY2OTk5ODQ0MCwwMDAwMDAwMGRjYjExYzRlYzVjYTdiZTY5MjgwNmIxYzU5ZmU3OTc3`

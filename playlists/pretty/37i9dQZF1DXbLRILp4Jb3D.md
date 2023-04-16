@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLRILp4Jb3D.md) - [plain]
 
 > Dulces canciones para disfrutar con tus bebés.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,731 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,774 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLRILp4Jb3D.md) - [plain]
 | 46 | [No Woman No Cry](https://open.spotify.com/track/6EeYBu8RautSHkqJeWgKff) | [Sweet Little Band](https://open.spotify.com/artist/7HBA3bLuJTLRvjK8NX9ZSy) | [Bob Marley For Babies](https://open.spotify.com/album/1rDl2v4himtK04EL0yYDXr) | 3:43 |
 | 47 | [El Niño Robot](https://open.spotify.com/track/4inKpFJUU3iES0WwU0zGIN) | [Los Hermanos Rincon](https://open.spotify.com/artist/54nUT6aFw4BREEh8vutdK2) | [El Niño Robot](https://open.spotify.com/album/2jRAVcRsU8Z5QHuH3sJgo4) | 2:31 |
 | 48 | [Más feliz](https://open.spotify.com/track/0OgBaJaUYGe0wHw3xElA07) | [Pedrina y Rio](https://open.spotify.com/artist/6JkcXRzUF8IXV78ATWAHRK) | [Canciones Sin Ropa](https://open.spotify.com/album/0L9cqmT0jwp00pj6r49Ttj) | 2:53 |
-| 49 | [Nube de Algodón](https://open.spotify.com/track/2UEj5kNRL0VJ9oQC6SGdjP) | [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz), [CACUCA](https://open.spotify.com/artist/5yxqs3dYSbyBYRebEh7aJe) | [Nube de Algodón](https://open.spotify.com/album/3jN0mCiud1s0mQ46aj2Yom) | 2:16 |
+| 49 | [El Piojo y la Pulga](https://open.spotify.com/track/5nC6wXvj96JvcAafI4DUZA) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Viva Kids, Vol\. 1](https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5) | 2:32 |
 | 50 | [Vivir Mi Vida](https://open.spotify.com/track/5F2iynEIlALVPgl8RYouu4) | [Marc Anthony For Babies](https://open.spotify.com/artist/4dKFhri6ILBCHZQUHlV0XA) | [Marc Anthony For Babies](https://open.spotify.com/album/414ko0TBJNP8zSFWWr3TVa) | 4:15 |
 
-Snapshot ID: `MTY3OTUxMTI1NywwMDAwMDAwMGJjNzU5NmQ4NGQwNDk3NzQ5Njg3ZTdjNjk4Mzg3OGZj`
+Snapshot ID: `MTY3OTUxMTI1NywwMDAwMDAwMGFlZjJmNmEyYzRkYjcyNDNlNDEwNGExNTc3MjI4NDk2`

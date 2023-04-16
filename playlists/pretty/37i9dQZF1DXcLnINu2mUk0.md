@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bispo e Bárbara Tinoco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,800 likes - 70 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,880 likes - 70 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 36 | [Estrela Maior](https://open.spotify.com/track/1gT41VulD8jslM993Ah8hF) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Estrela Maior](https://open.spotify.com/album/2am7Y7OsEJDh8SOU0w3mz0) | 4:25 |
 | 37 | [Saudade](https://open.spotify.com/track/0dLrhO7oCMp0hQvXAUgbaC) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Reflexo](https://open.spotify.com/album/7zr66qWybr1mAMSUVVosKU) | 5:06 |
 | 38 | [That's Me](https://open.spotify.com/track/1ktNayJwoiwQoWq7ffKMJf) | [mishlawi](https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [That's Me](https://open.spotify.com/album/3Pv2DAxh8Fql8dPafV4I7u) | 3:23 |
-| 39 | [VIDA DE ARTISTA](https://open.spotify.com/track/4fTXCTg0AdAdqGaFfVs3FK) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx) | [VIDA DE ARTISTA](https://open.spotify.com/album/2sPnAz4lY0WTYlpJyDNOpk) | 3:12 |
+| 39 | [Salto Alto](https://open.spotify.com/track/3sIXzuNgN9HrC7amkEQWiP) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Salto Alto](https://open.spotify.com/album/0uatAqfa3VviB7GZuUXd6l) | 3:39 |
 | 40 | [GUUD](https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [GUUD](https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI) | 2:48 |
-| 41 | [Salto Alto](https://open.spotify.com/track/3sIXzuNgN9HrC7amkEQWiP) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Salto Alto](https://open.spotify.com/album/0uatAqfa3VviB7GZuUXd6l) | 3:39 |
+| 41 | [VIDA DE ARTISTA](https://open.spotify.com/track/4fTXCTg0AdAdqGaFfVs3FK) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx) | [VIDA DE ARTISTA](https://open.spotify.com/album/2sPnAz4lY0WTYlpJyDNOpk) | 3:12 |
 | 42 | [Sons de Amor](https://open.spotify.com/track/44PSI3qwDKTTBa4TbqpjnL) | [ANDREZO](https://open.spotify.com/artist/4gHzU6X4vIGR06pt7mlX60), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Sons de Amor](https://open.spotify.com/album/7sov1YBuhBoydHePYGr69s) | 4:14 |
 | 43 | [Bad Like You](https://open.spotify.com/track/2Gle4hosXEnrkdTu2YMwsH) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Come quarantine w me](https://open.spotify.com/album/4w38KrD6iNjnzUUEj8hfsi) | 4:27 |
 | 44 | [Backstage](https://open.spotify.com/track/7eoputmT8ACWDmhVFuYFS8) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/4ZgWBr16niSFDwCIiJ4iBk) | 4:16 |
@@ -67,16 +67,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 57 | [Quando Quiseres](https://open.spotify.com/track/5MGLrlZlzfCuosuAR6Q0xJ) | [Uzzy](https://open.spotify.com/artist/2Ia5AqFe2PZmGirbLc7zMi), [Mr\. Marley](https://open.spotify.com/artist/1IFNNxxrEmMT7e5H9ioRSB) | [Quando Quiseres](https://open.spotify.com/album/7zBnYqXux65VVgVWoo1V9B) | 2:58 |
 | 58 | [Vistas](https://open.spotify.com/track/4LsIyhpdZNl4xFYvmPRYQW) | [Ary Rafeiro](https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO), [Murta](https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx) | [Vistas](https://open.spotify.com/album/0u93E1oGwRdehRkCnywK3o) | 3:00 |
 | 59 | [Não Me Leves a Mal](https://open.spotify.com/track/74lzWQmKWFI5Z0RJqV8hEG) | [Yang](https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci) | [Não Me Leves a Mal](https://open.spotify.com/album/11hvGr1BS32qZ4MOAAGiXP) | 4:00 |
-| 60 | [Falling](https://open.spotify.com/track/6dS3q4aYdfNTQ3ZMRP2p2u) | [J.Yen](https://open.spotify.com/artist/1cHrAXseLt7kFWFdvQE2HO) | [Falling](https://open.spotify.com/album/1s8l50CTfyziLZqKR9OkPz) | 3:28 |
-| 61 | [AHORA](https://open.spotify.com/track/5o7ZLRlTl9LuUzQvzDFJLU) | [La Dianna](https://open.spotify.com/artist/3Kh3D2QUAQUreGlBnyF7UD), [Ary Rafeiro](https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO) | [AHORA](https://open.spotify.com/album/3rslRwi4PXo3aamFuHgaa2) | 3:08 |
-| 62 | [Sei Que Te Amo](https://open.spotify.com/track/4wRHER6nXzSDArytUocrV3) | [Carlos Kendrick](https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH), [Jess 5K](https://open.spotify.com/artist/2NeUWpEKR9x4SohRs4h2bT) | [Sei Que Te Amo](https://open.spotify.com/album/6CBP6oIIWSv7s11FGY7nTd) | 3:32 |
-| 63 | [Vai](https://open.spotify.com/track/6y2kYJAT69eIW88dc2NvQz) | [10/16](https://open.spotify.com/artist/7C85XCknYDZcSHj68BiwQE), [SAYLESSALEX.](https://open.spotify.com/artist/6bw5SVjt0q54wNmwozMg7O) | [Vai](https://open.spotify.com/album/30E33TmWJkLCZ1ivfd6zUF) | 3:16 |
-| 64 | [Culpa Do Álcool](https://open.spotify.com/track/1GAy3MLjR2Nlhdr1Z4iQb0) | [Stefânia Leonel](https://open.spotify.com/artist/5vBDGts6FgwIFgGezr0gZE) | [Culpa Do Álcool](https://open.spotify.com/album/0vnNwTitOdyUljMkE1qUPW) | 2:13 |
-| 65 | [Lua](https://open.spotify.com/track/1WjnWfl2X36CBYDB0Dtga0) | [Curl](https://open.spotify.com/artist/7y655l8CPBN1uuVpeZHQ5y) | [Lua](https://open.spotify.com/album/4Oyobh3tcmdIuf8c3nrkTj) | 3:36 |
-| 66 | [Diário](https://open.spotify.com/track/6bjjfB4s9DZGAWdxRWo2hU) | [Keven Santos](https://open.spotify.com/artist/1Tz3pfjgndAnZLV2Wqtxc4), [MasterPiece](https://open.spotify.com/artist/2A4Hd66juilvQXfb8JQe0L) | [Diário](https://open.spotify.com/album/5WQ4L6OyXmtkp5Trh6w6Ag) | 1:48 |
-| 67 | [Chama](https://open.spotify.com/track/21IKJYkz8ixquQUHXu6cXK) | [Jovem Ricch](https://open.spotify.com/artist/6h1XzP48C784CYNKfgCY8D) | [Chama](https://open.spotify.com/album/6ahh3FXc4m8PpHLXzaC5kS) | 2:15 |
-| 68 | [Preciso de alguém](https://open.spotify.com/track/30U1EU9Tn3cx8iFp2QSbQn) | [Dougie Knight](https://open.spotify.com/artist/2PU8j6LKs1ndgXQQ92n5RB) | [Preciso de alguém](https://open.spotify.com/album/5j326RJto69tuJk04jned4) | 2:30 |
-| 69 | [Entorpecente](https://open.spotify.com/track/0fZ7aqPmqDSI1sGTO5MPqg) | [Manaux](https://open.spotify.com/artist/6tq70oYBgLGQmo3Rit9khr) | [Entorpecente](https://open.spotify.com/album/5TlSkej09g8DTIRYj1DHDC) | 2:38 |
-| 70 | [3815](https://open.spotify.com/track/7ejBGFJ0XzsLvDNscxZOQe) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [3815](https://open.spotify.com/album/1oZCUxBvbv55jnTlC9sT90) | 3:09 |
+| 60 | [3815](https://open.spotify.com/track/7ejBGFJ0XzsLvDNscxZOQe) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [3815](https://open.spotify.com/album/1oZCUxBvbv55jnTlC9sT90) | 3:09 |
+| 61 | [Falling](https://open.spotify.com/track/6dS3q4aYdfNTQ3ZMRP2p2u) | [J.Yen](https://open.spotify.com/artist/1cHrAXseLt7kFWFdvQE2HO) | [Falling](https://open.spotify.com/album/1s8l50CTfyziLZqKR9OkPz) | 3:28 |
+| 62 | [AHORA](https://open.spotify.com/track/5o7ZLRlTl9LuUzQvzDFJLU) | [La Dianna](https://open.spotify.com/artist/3Kh3D2QUAQUreGlBnyF7UD), [Ary Rafeiro](https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO) | [AHORA](https://open.spotify.com/album/3rslRwi4PXo3aamFuHgaa2) | 3:08 |
+| 63 | [Sei Que Te Amo](https://open.spotify.com/track/4wRHER6nXzSDArytUocrV3) | [Carlos Kendrick](https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH), [Jess 5K](https://open.spotify.com/artist/2NeUWpEKR9x4SohRs4h2bT) | [Sei Que Te Amo](https://open.spotify.com/album/6CBP6oIIWSv7s11FGY7nTd) | 3:32 |
+| 64 | [Vai](https://open.spotify.com/track/6y2kYJAT69eIW88dc2NvQz) | [10/16](https://open.spotify.com/artist/7C85XCknYDZcSHj68BiwQE), [SAYLESSALEX.](https://open.spotify.com/artist/6bw5SVjt0q54wNmwozMg7O) | [Vai](https://open.spotify.com/album/30E33TmWJkLCZ1ivfd6zUF) | 3:16 |
+| 65 | [Culpa Do Álcool](https://open.spotify.com/track/1GAy3MLjR2Nlhdr1Z4iQb0) | [Stefânia Leonel](https://open.spotify.com/artist/5vBDGts6FgwIFgGezr0gZE) | [Culpa Do Álcool](https://open.spotify.com/album/0vnNwTitOdyUljMkE1qUPW) | 2:13 |
+| 66 | [Tu Reclamas](https://open.spotify.com/track/1R5wKY4PsyED3atWwJwfDB) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [TeniTeach](https://open.spotify.com/artist/79p4kSzCWg2NOxhCJtktwE) | [Tu Reclamas](https://open.spotify.com/album/3ihIy7j62q5IBpWWVu8EVR) | 3:50 |
+| 67 | [Roll Another One](https://open.spotify.com/track/0WtWIiMHgYKCX11kOwX6my) | [Jvst Fly](https://open.spotify.com/artist/4yafH0N98ld6th7MqELRXa) | [Roll Another One](https://open.spotify.com/album/5QsRYyibg1rSkwTKhWJhPe) | 3:13 |
+| 68 | [Chama](https://open.spotify.com/track/21IKJYkz8ixquQUHXu6cXK) | [Jovem Ricch](https://open.spotify.com/artist/6h1XzP48C784CYNKfgCY8D) | [Chama](https://open.spotify.com/album/6ahh3FXc4m8PpHLXzaC5kS) | 2:15 |
+| 69 | [EU SEI](https://open.spotify.com/track/7BN2gjCwesbpg6fk2AgRvB) | [Wayn Dior](https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n) | [EU SEI](https://open.spotify.com/album/7Ks72VKkVAbJqTbvz8VwVa) | 3:43 |
+| 70 | [Lua](https://open.spotify.com/track/1WjnWfl2X36CBYDB0Dtga0) | [Curl](https://open.spotify.com/artist/7y655l8CPBN1uuVpeZHQ5y) | [Lua](https://open.spotify.com/album/4Oyobh3tcmdIuf8c3nrkTj) | 3:36 |
 
-Snapshot ID: `MTY4MTQyNjgwMCwwMDAwMDAwMGIxNTYzNmRkYmQzNTg5NmRiYmM3ZjEwNTk5Y2VjZTdk`
+Snapshot ID: `MTY4MTQyNjgwMCwwMDAwMDAwMDY2NDBkZTc2YTcyZDNjMzk3NmNkOGJlNWI5ZmQ1Y2Zl`

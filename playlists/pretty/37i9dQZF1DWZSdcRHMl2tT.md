@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 
 > Chill house beats for hanging out in the sun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,302 likes - 236 songs - 11 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,402 likes - 236 songs - 11 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

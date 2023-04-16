@@ -1,12 +1,12 @@
 {
   "description": "Get cozy and relax to these laid-back festive sounds.",
-  "num_followers": 126465,
+  "num_followers": 126455,
   "original_name": "Easy Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU0NDAwMCwwMDAwMDAwMDc0OWQ0YzczZjZlOTg3M2NiZGYyMmJhYjg2MzNmMWM2",
+  "snapshot_id": "MTY3MDU0NDAwMCwwMDAwMDAwMDM5OTlhZjUwMDk0YWI5NmExM2ZhMjhmNjJhNWIwZWNh",
   "tracks": [
     {
       "added_at": "2022-11-18 01:05:05",
@@ -159,22 +159,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "Elvis' Christmas Album",
-        "url": "https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 129173,
-      "name": "Blue Christmas",
-      "url": "https://open.spotify.com/track/3QiAAp20rPC3dcAtKtMaqQ"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "Kissin' In The Cold",
         "url": "https://open.spotify.com/album/1HsifiywuteSStUutGfkpO"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 224083,
       "name": "Kissin' In The Cold",
       "url": "https://open.spotify.com/track/2nZq5WQOW4FEPxCVTdNGfB"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "Elvis' Christmas Album",
+        "url": "https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 129173,
+      "name": "Blue Christmas",
+      "url": "https://open.spotify.com/track/3QiAAp20rPC3dcAtKtMaqQ"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "Christmas Portrait (Special Edition/Reissue)",
-        "url": "https://open.spotify.com/album/5GMAtv4CU6GYQMo36Uuiqc"
-      },
-      "artists": [
-        {
-          "name": "Carpenters",
-          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
-        }
-      ],
-      "duration_ms": 159440,
-      "name": "Sleigh Ride",
-      "url": "https://open.spotify.com/track/07RmHXaYqBdUyfAESPZkRO"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "Christmas (Deluxe Special Edition)",
         "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 171826,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/1FRqLI971CD1QedTiJeL3c"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "Christmas Portrait (Special Edition/Reissue)",
+        "url": "https://open.spotify.com/album/5GMAtv4CU6GYQMo36Uuiqc"
+      },
+      "artists": [
+        {
+          "name": "Carpenters",
+          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+        }
+      ],
+      "duration_ms": 159440,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/07RmHXaYqBdUyfAESPZkRO"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "Christmas Party",
-        "url": "https://open.spotify.com/album/4s3vR4B3qPc9U5Gs1NPxLR"
-      },
-      "artists": [
-        {
-          "name": "She & Him",
-          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
-        }
-      ],
-      "duration_ms": 132453,
-      "name": "Let It Snow",
-      "url": "https://open.spotify.com/track/7Al57JVDx4Cgj0KMDxJNKF"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "Spotify Singles - Christmas",
         "url": "https://open.spotify.com/album/7M98dHpMyIBx7jwE8MO2tM"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 227887,
       "name": "Oh Holy Night - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/0yS8P7DFNEBYQ5yHadM5z0"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "Christmas Party",
+        "url": "https://open.spotify.com/album/4s3vR4B3qPc9U5Gs1NPxLR"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "duration_ms": 132453,
+      "name": "Let It Snow",
+      "url": "https://open.spotify.com/track/7Al57JVDx4Cgj0KMDxJNKF"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "Songs For Christmas",
-        "url": "https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 260786,
-      "name": "Joy To The World",
-      "url": "https://open.spotify.com/track/2IqU8ku7GvY7HE0s3sYA34"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "The Magic Of Boney M. (Special Remix Edition)",
         "url": "https://open.spotify.com/album/6pk0hdvIssxawpMRznE4Zf"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 242186,
       "name": "Mary's Boy Child / Oh My Lord",
       "url": "https://open.spotify.com/track/2YYcLUtmPR44ERAQA7DfwZ"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "Songs For Christmas",
+        "url": "https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 260786,
+      "name": "Joy To The World",
+      "url": "https://open.spotify.com/track/2IqU8ku7GvY7HE0s3sYA34"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "Tracks in the Snow",
-        "url": "https://open.spotify.com/album/2b2J83VmJmpvKX9TEPDKa9"
-      },
-      "artists": [
-        {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
-        }
-      ],
-      "duration_ms": 230973,
-      "name": "Tracks in the Snow",
-      "url": "https://open.spotify.com/track/4mxbwJfgB1Ba64OurGx4bT"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "What The World Needs Now (In Aid of The Hygiene Bank)",
         "url": "https://open.spotify.com/album/3JbFpGAcLNqPYrJOlg9nM6"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 170459,
       "name": "What The World Needs Now (In Aid of The Hygiene Bank)",
       "url": "https://open.spotify.com/track/58slbodEk0CkLmnGRf2La2"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "Tracks in the Snow",
+        "url": "https://open.spotify.com/album/2b2J83VmJmpvKX9TEPDKa9"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 230973,
+      "name": "Tracks in the Snow",
+      "url": "https://open.spotify.com/track/4mxbwJfgB1Ba64OurGx4bT"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "Have Yourself A Merry Little Christmas",
-        "url": "https://open.spotify.com/album/4jPnSXA5LhdzR8Cz9ZGa3D"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        }
-      ],
-      "duration_ms": 144440,
-      "name": "Have Yourself A Merry Little Christmas",
-      "url": "https://open.spotify.com/track/5L8OxPOln5z2D1rfutPZy4"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "Give Love on Christmas Day - Recorded at Spotify Studios NYC (Spotify Singles - Christmas)",
         "url": "https://open.spotify.com/album/3oRUIETu6Lclw9xQdif183"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 225576,
       "name": "Give Love on Christmas Day - Recorded at Spotify Studios NYC - Spotify Singles - Christmas",
       "url": "https://open.spotify.com/track/2bhUuihxnwHia4kXN0Tx6m"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "Have Yourself A Merry Little Christmas",
+        "url": "https://open.spotify.com/album/4jPnSXA5LhdzR8Cz9ZGa3D"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "duration_ms": 144440,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/5L8OxPOln5z2D1rfutPZy4"
     },
     {
       "added_at": "2022-11-18 01:05:05",

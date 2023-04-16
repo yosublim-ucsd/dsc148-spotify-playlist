@@ -4,7 +4,7 @@
 
 > 話題のロックヒットをVolume上げて爆音で。Cover: Metallica
 
-167 songs - 9 hr 16 min
+168 songs - 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,9 +88,10 @@
 | [I’m a Mess \(with YUNGBLUD\)](https://open.spotify.com/track/1yvArCvZLTHiawRdWKSAWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [I’m a Mess \(with YUNGBLUD\)](https://open.spotify.com/album/7kpLyQOiE4j9bNCZhKvWBr) | 3:07 | 2023-03-16 | 2023-04-07 |
 | [Jealousy](https://open.spotify.com/track/7xMZix45UoyZiS40vHC8oy) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Jealousy](https://open.spotify.com/album/1948jAOGWUVxGl7mCLEIef) | 2:09 | 2023-04-13 |  |
 | [Jesus He Knows Me](https://open.spotify.com/track/1zd8h6ho3mlbhkZnADHVzP) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Jesus He Knows Me](https://open.spotify.com/album/5ATKAJjDVbFIoQVuaHrLNK) | 4:05 | 2023-04-14 |  |
-| [Just A Girl \- From The Original Series “Yellowjackets”](https://open.spotify.com/track/7DtbrNlYifGnJc7HY0fS9i) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Just A Girl \(From The Original Series “Yellowjackets”\)](https://open.spotify.com/album/2g9A59r1lqhUp29wxLY3Nk) | 4:34 | 2023-03-16 |  |
+| [Just A Girl \- From The Original Series “Yellowjackets”](https://open.spotify.com/track/7DtbrNlYifGnJc7HY0fS9i) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Just A Girl \(From The Original Series “Yellowjackets”\)](https://open.spotify.com/album/2g9A59r1lqhUp29wxLY3Nk) | 4:34 | 2023-03-16 | 2023-04-16 |
 | [Just Pretend](https://open.spotify.com/track/1H4Y9uW4N0LsxJUz0VnaPJ) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA) | 3:24 | 2023-03-16 |  |
 | [Kamikaze \(feat\. Jason Williamson\)](https://open.spotify.com/track/3GIfxO4nC66ctxemNbsnja) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt), [Jason Williamson](https://open.spotify.com/artist/6FXpwZCAFTac1SZyvCXBeI) | [Kamikaze \(feat\. Jason Williamson\)](https://open.spotify.com/album/7sRIz0hKDDtZCzVNZmneuC) | 2:20 | 2023-03-30 | 2023-04-07 |
+| [Left Behind](https://open.spotify.com/track/5G6jZFDAFlpAA9v5LTV4NI) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Left Behind](https://open.spotify.com/album/2efABZ7jsJTkRkZALraqEM) | 3:26 | 2023-04-14 |  |
 | [Lights Out](https://open.spotify.com/track/1pExLSWrXaDyDdLmznxm7u) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [Lights Out](https://open.spotify.com/album/5LrQKwzxSxCXVIFr4XJ48F) | 2:53 | 2023-03-30 | 2023-04-07 |
 | [Loser Kid 2.0](https://open.spotify.com/track/3SVjnYq17hnR82HSnfzSjV) | [Busted](https://open.spotify.com/artist/3Z6IRCo7umuk8K2XQy0ZDj), [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Loser Kid 2.0](https://open.spotify.com/album/3SBe4YU8D2PVgKZopdMKny) | 3:43 | 2023-04-13 |  |
 | [Lost](https://open.spotify.com/track/373gDROnujxNTFa1FojYIl) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Lost](https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC) | 3:19 | 2023-03-16 |  |

@@ -4,7 +4,7 @@
 
 > Si está pegao, está aquí\. Feat\. Jhayco
 
-333 songs - 18 hr 28 min
+334 songs - 18 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [787](https://open.spotify.com/track/7fkckxJLcwDO62DeutVtUo) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [787](https://open.spotify.com/album/3Y3aMcdlV3b2InwFcNvsxa) | 3:45 | 2022-01-07 | 2022-03-09 |
 | [A Veces \(feat\. Feid\)](https://open.spotify.com/track/63OA8vSo2PhUkmQopR1l64) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [A Veces \(feat\. Feid\)](https://open.spotify.com/album/5IUJCo0aRD98yxFbTvEezC) | 3:11 | 2022-11-04 | 2022-12-15 |
 | [Aborrecio](https://open.spotify.com/track/3KSldp6Yh0XIvN0tyPJWK4) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Aborrecio](https://open.spotify.com/album/69jl774R0WfPrK5v3O21Yg) | 4:28 | 2023-02-21 | 2023-03-18 |
-| [AGUARDIENTE](https://open.spotify.com/track/6jhB0WW148mVOX7VuV2ga0) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [AGUARDIENTE](https://open.spotify.com/album/1ox6fzQPXwDtsTg8EQrplp) | 2:47 | 2023-03-10 |  |
+| [AGUARDIENTE](https://open.spotify.com/track/3Z0l8qwMuC376pcutLVsY8) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 2:47 | 2023-04-14 |  |
+| [AGUARDIENTE](https://open.spotify.com/track/6jhB0WW148mVOX7VuV2ga0) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [AGUARDIENTE](https://open.spotify.com/album/1ox6fzQPXwDtsTg8EQrplp) | 2:47 | 2023-03-10 | 2023-04-16 |
 | [AHORA QUÉ](https://open.spotify.com/track/5qP24CrDI0rmY5zwRvUfzU) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [DONDE QUIERO ESTAR](https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3) | 2:51 | 2023-01-19 | 2023-04-01 |
 | [Ahora Y Siempre](https://open.spotify.com/track/1AhNxunSSizAllibrQ7jhu) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Linton](https://open.spotify.com/artist/39TshGQ7RY8nYrhILYRT1S) | [Ahora Y Siempre](https://open.spotify.com/album/3jTzodvOzhVKQgNbLjM93z) | 2:29 | 2022-02-14 | 2022-07-13 |
 | [Alejarme de Ti](https://open.spotify.com/track/4SVrkrtAeQLXoNOfQdmSAw) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Alejarme de Ti](https://open.spotify.com/album/20gN79b9t0habJ5tWsANC8) | 3:53 | 2022-01-07 | 2022-02-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 
 > Dope, Asian, and Femme\. Cover: Bella Poarch
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,767 likes - 90 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,789 likes - 90 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 69 | [Pretty Girl Hi Reimagined](https://open.spotify.com/track/6aSdfeuUMtk7XOEHn93kkP) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Introspection Reimagined](https://open.spotify.com/album/3H1v8w26UVp4tylel4cRrr) | 3:33 |
 | 70 | [Crying on the Subway](https://open.spotify.com/track/75IJJjmjryq1SGHWlcMj2K) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [How Many Times Have You Driven By](https://open.spotify.com/album/14oVfK6bX4Kqtgl3N0lOhh) | 2:44 |
 | 71 | [Selfish](https://open.spotify.com/track/4U8z0N3ELIhn9gys3u4ahp) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [Selfish](https://open.spotify.com/album/4fGjZLAfNlFz5hoUFuvyil) | 2:26 |
-| 72 | [Someone Else](https://open.spotify.com/track/43tQOLiTfoVwURdx5Ei7yr) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Someone Else](https://open.spotify.com/album/4Hu3O4jVEImkIqYmvq2KUk) | 3:27 |
+| 72 | [Rebel Girl](https://open.spotify.com/track/51nLSjsBKMYBJSvUI3q88D) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Moxie \(Music from the Netflix Film\)](https://open.spotify.com/album/1u76mMnTzrzjxPYD37mMJq) | 2:41 |
 | 73 | [Wish You Were Here](https://open.spotify.com/track/47jhKD8sm2I3Aoktj4G5J8) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [Wish You Were Here](https://open.spotify.com/album/5MgtnDKyeSkXEkKu5u82gr) | 3:41 |
-| 74 | [Rebel Girl](https://open.spotify.com/track/51nLSjsBKMYBJSvUI3q88D) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Moxie \(Music from the Netflix Film\)](https://open.spotify.com/album/1u76mMnTzrzjxPYD37mMJq) | 2:41 |
+| 74 | [Someone Else](https://open.spotify.com/track/43tQOLiTfoVwURdx5Ei7yr) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Someone Else](https://open.spotify.com/album/4Hu3O4jVEImkIqYmvq2KUk) | 3:27 |
 | 75 | [inhibitions \(feat\. P\-Lo\)](https://open.spotify.com/track/38i2wm5NBB5iS3WpjlMmWY) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [inhibitions \(feat\. P\-Lo\)](https://open.spotify.com/album/0W84AyMDAbWKIGN1gHObDA) | 2:49 |
 | 76 | [Can you](https://open.spotify.com/track/4fOYETeXvq7Ub4E9FMY3JB) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [Can you \(Galcher Lustwerk Remix\)](https://open.spotify.com/album/3afqWbI8qEdTB2CBDiKAAD) | 3:39 |
 | 77 | [Everyday](https://open.spotify.com/track/2wVlyzhcwcJmM46l4BfVj0) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [Amanda Yang](https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed) | [Everyday](https://open.spotify.com/album/0Qf2zbgqkcBQ6FHiOaRLzV) | 2:43 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 89 | [sardines](https://open.spotify.com/track/2sFXzS9LnbQe5BigrfsVRP) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [chump change](https://open.spotify.com/album/4k2Hqh0Df6b788PGH6KAUE) | 2:12 |
 | 90 | [Chatter](https://open.spotify.com/track/6S3B1l2CIGvEo3vLpVfBRQ) | [Jess Connelly](https://open.spotify.com/artist/1XC87A3NVlw6xDW1kIB5FN) | [Chatter](https://open.spotify.com/album/0ke6IZ0jAiFuZuOT7Jwr8u) | 2:53 |
 
-Snapshot ID: `MTY3OTMyODI3MiwwMDAwMDAwMDkyZmNhMWY5ZTZhMDdiMTc0YWIwYjdjNzVkMzlkNWQz`
+Snapshot ID: `MTY3OTMyODI3MiwwMDAwMDAwMDU1OTM3ZmJmMDI1ZjQzZGRiMGVhZmM0OGU2NjY5Y2Rl`

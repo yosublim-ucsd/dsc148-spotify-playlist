@@ -779,6 +779,24 @@
     },
     {
       "album": {
+        "name": "Elevated",
+        "url": "https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234667,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub"
+    },
+    {
+      "album": {
         "name": "Yahweh",
         "url": "https://open.spotify.com/album/4RjUVXlEwzzVPvCbkT5aiA"
       },

@@ -1,12 +1,12 @@
 {
   "description": "En\u00e9rgicos beats para musicalizar tu rutina diaria de ejercicio.",
-  "num_followers": 135345,
+  "num_followers": 135364,
   "original_name": "Ejercicio Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzA2Mjg5MSwwMDAwMDAwMDg1ZTU2ZjM0OGY0ZDM3NTBmOTYwN2IwMDFkNWY3YzU5",
+  "snapshot_id": "MTY3MzA2Mjg5MSwwMDAwMDAwMGViNWFlODI3NmIzN2I2ODg4MmJhNzhiMmEwMTZkMTdl",
   "tracks": [
     {
       "added_at": "2022-10-12 15:43:07",
@@ -1047,6 +1047,30 @@
     {
       "added_at": "2022-10-12 15:43:07",
       "album": {
+        "name": "Epic (Garmiani Remix)",
+        "url": "https://open.spotify.com/album/3C2yoz4fitqOF92byjClX5"
+      },
+      "artists": [
+        {
+          "name": "Sandro Silva",
+          "url": "https://open.spotify.com/artist/53UXMZxwzQyV4j7tZaVF58"
+        },
+        {
+          "name": "Quintino",
+          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
+        },
+        {
+          "name": "Garmiani",
+          "url": "https://open.spotify.com/artist/2yhI3iWovCQYjhjoqzKO2R"
+        }
+      ],
+      "duration_ms": 155864,
+      "name": "Epic - Garmiani Remix",
+      "url": "https://open.spotify.com/track/4D5uw4lzpyBIwA54NmjFND"
+    },
+    {
+      "added_at": "2022-10-12 15:43:07",
+      "album": {
         "name": "Butterflies",
         "url": "https://open.spotify.com/album/1j2uX2CKl8szGRxKqsXOfm"
       },
@@ -1095,30 +1119,6 @@
       "duration_ms": 234255,
       "name": "Serotonina",
       "url": "https://open.spotify.com/track/5tENzpT5sqDRc0EXQf1k6o"
-    },
-    {
-      "added_at": "2022-10-12 15:43:07",
-      "album": {
-        "name": "Epic (Garmiani Remix)",
-        "url": "https://open.spotify.com/album/3C2yoz4fitqOF92byjClX5"
-      },
-      "artists": [
-        {
-          "name": "Sandro Silva",
-          "url": "https://open.spotify.com/artist/53UXMZxwzQyV4j7tZaVF58"
-        },
-        {
-          "name": "Quintino",
-          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
-        },
-        {
-          "name": "Garmiani",
-          "url": "https://open.spotify.com/artist/2yhI3iWovCQYjhjoqzKO2R"
-        }
-      ],
-      "duration_ms": 155864,
-      "name": "Epic - Garmiani Remix",
-      "url": "https://open.spotify.com/track/4D5uw4lzpyBIwA54NmjFND"
     },
     {
       "added_at": "2022-10-12 15:43:07",
@@ -1183,6 +1183,26 @@
     {
       "added_at": "2022-10-12 15:43:07",
       "album": {
+        "name": "Exotica (Deluxe)",
+        "url": "https://open.spotify.com/album/24SuLVhTS9iDvnH3fh0gms"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Sophie and the Giants",
+          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
+        }
+      ],
+      "duration_ms": 185564,
+      "name": "In The Dark",
+      "url": "https://open.spotify.com/track/0k5RQGviUoEt78mfqI3wDV"
+    },
+    {
+      "added_at": "2022-10-12 15:43:07",
+      "album": {
         "name": "Blue Dreams",
         "url": "https://open.spotify.com/album/3R2U7mwzBgEAEPyb75ieqe"
       },
@@ -1203,26 +1223,6 @@
       "duration_ms": 248780,
       "name": "Blue Dreams",
       "url": "https://open.spotify.com/track/40kMwlgBSTjg7sqK694ze3"
-    },
-    {
-      "added_at": "2022-10-12 15:43:07",
-      "album": {
-        "name": "Exotica (Deluxe)",
-        "url": "https://open.spotify.com/album/24SuLVhTS9iDvnH3fh0gms"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "Sophie and the Giants",
-          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
-        }
-      ],
-      "duration_ms": 185564,
-      "name": "In The Dark",
-      "url": "https://open.spotify.com/track/0k5RQGviUoEt78mfqI3wDV"
     },
     {
       "added_at": "2022-10-12 15:43:07",
@@ -1295,6 +1295,30 @@
     {
       "added_at": "2022-10-12 15:43:07",
       "album": {
+        "name": "Party On My Own (feat. FAULHABER)",
+        "url": "https://open.spotify.com/album/0KyVN9LjYo0ASG1ibiShht"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "FAULHABER",
+          "url": "https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu"
+        }
+      ],
+      "duration_ms": 146500,
+      "name": "Party On My Own (feat. FAULHABER)",
+      "url": "https://open.spotify.com/track/4c9Py6O1NeuYKbJ8Ok7mTl"
+    },
+    {
+      "added_at": "2022-10-12 15:43:07",
+      "album": {
         "name": "Remember the Summer (feat. Karra)",
         "url": "https://open.spotify.com/album/6B0znwNH8mpUMNgH7uO1H3"
       },
@@ -1335,30 +1359,6 @@
       "duration_ms": 231290,
       "name": "Permanence",
       "url": "https://open.spotify.com/track/05IbhAKODbXn8og9uaUgpc"
-    },
-    {
-      "added_at": "2022-10-12 15:43:07",
-      "album": {
-        "name": "Party On My Own (feat. FAULHABER)",
-        "url": "https://open.spotify.com/album/0KyVN9LjYo0ASG1ibiShht"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "FAULHABER",
-          "url": "https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu"
-        }
-      ],
-      "duration_ms": 146500,
-      "name": "Party On My Own (feat. FAULHABER)",
-      "url": "https://open.spotify.com/track/4c9Py6O1NeuYKbJ8Ok7mTl"
     },
     {
       "added_at": "2022-10-12 15:43:07",

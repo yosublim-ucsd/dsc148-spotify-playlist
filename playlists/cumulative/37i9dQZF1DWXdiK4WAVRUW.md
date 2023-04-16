@@ -4,7 +4,7 @@
 
 > We're celebrating the 10th anniversary of Kacey Musgraves' debut record Same Trailer Different Park on 2010s Country!
 
-242 songs - 14 hr 25 min
+243 songs - 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Anywhere With You](https://open.spotify.com/track/2yWtLaPCOUDyi7f1lOXCn5) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Barefoot Blue Jean Night](https://open.spotify.com/album/4GeJssW5iLOSLOIXhLfOUJ) | 3:29 | 2021-06-07 |  |
 | [Are You Gonna Kiss Me Or Not](https://open.spotify.com/track/2TAcwD5KcV9uY3O1tLGV15) | [Thompson Square](https://open.spotify.com/artist/0Bvs8yPjrQSbmVIRqSg1Sp) | [Thompson Square](https://open.spotify.com/album/0kXrl96iUzWkRvxnfrC2YF) | 3:04 | 2021-05-12 |  |
 | [As She's Walking Away](https://open.spotify.com/track/2MxvvBEJreIHojGrYCwTVB) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS), [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Country](https://open.spotify.com/album/4YiqUj68PLm3CRlTEydT3Y) | 3:43 | 2021-07-22 | 2022-07-29 |
+| [As She's Walking Away \(feat\. Alan Jackson\)](https://open.spotify.com/track/65UCejW01DAovmluVYHWAt) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [You Get What You Give](https://open.spotify.com/album/7xnimikDuIBDpLeLrjptb8) | 3:43 | 2023-03-14 |  |
 | [Aw Naw](https://open.spotify.com/track/53Dj5PCDhb22qWqmre3YQs) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [A.M.](https://open.spotify.com/album/3cyLH6iUGPjEsZIUFnJfd3) | 3:08 | 2021-05-12 |  |
 | [Back To December](https://open.spotify.com/track/3DrjZArsPsoqbLzUZZV1Id) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now](https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy) | 4:53 | 2022-07-24 |  |
 | [Backroad Song](https://open.spotify.com/track/6naYpFIKihKbGg6lGxpveI) | [Granger Smith](https://open.spotify.com/artist/4sTFGCigAQIUiEy8wSSQNF) | [Remington](https://open.spotify.com/album/67RQfNZRRY9LTkRrnOxcJF) | 3:56 | 2021-05-12 |  |
@@ -69,7 +70,7 @@
 | [Die From A Broken Heart](https://open.spotify.com/track/1kFpL1itkwkdhO6kcmNJra) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Die From A Broken Heart](https://open.spotify.com/album/4DPIFHZfh65TPPGem973zy) | 3:08 | 2021-06-07 |  |
 | [Dirt On My Boots](https://open.spotify.com/track/7f08qp3HROTkfrtNpiYGGo) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [California Sunrise](https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ) | 3:21 | 2021-05-12 |  |
 | [Dirt Road Anthem](https://open.spotify.com/track/2qYsSHsYkihWx043HVJQRV) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [My Kinda Party](https://open.spotify.com/album/6gYk1JlSSmlUZGs1Lef1BI) | 3:49 | 2021-05-12 |  |
-| [Dirty Laundry](https://open.spotify.com/track/5qRRiqndqXaq2QBudIrkYU) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 3:24 | 2021-05-12 |  |
+| [Dirty Laundry](https://open.spotify.com/track/5qRRiqndqXaq2QBudIrkYU) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 3:24 | 2021-05-12 | 2023-04-16 |
 | [Don't It](https://open.spotify.com/track/4iLPK8QnOvqm0Azbsk2GDn) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Summer Forever](https://open.spotify.com/album/3OkqAak6KhIQExElXif7UW) | 3:09 | 2021-05-12 |  |
 | [Don't Ya](https://open.spotify.com/track/3Qe097eJNp9MfpT2PieEw0) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Bring You Back](https://open.spotify.com/album/7weU5IWFfeueNG5V68CTTT) | 3:01 | 2021-05-12 |  |
 | [Don't You Wanna Stay \(with Kelly Clarkson\)](https://open.spotify.com/track/7CZiLgkiVHhFcDkI2Y4lZ4) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [My Kinda Party](https://open.spotify.com/album/6gYk1JlSSmlUZGs1Lef1BI) | 4:16 | 2021-05-12 | 2022-07-29 |
@@ -104,7 +105,7 @@
 | [God's Country](https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [God's Country](https://open.spotify.com/album/5b92Q0wcU49AnhBmu3IxOx) | 3:25 | 2021-06-07 |  |
 | [God, Your Mama, And Me](https://open.spotify.com/track/4VFE6ZNqa8jHAmbYICoAFg) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg), [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Dig Your Roots](https://open.spotify.com/album/09KOjaflTBRE28GVvXqkYC) | 3:03 | 2021-05-12 |  |
 | [Gonna Wanna Tonight](https://open.spotify.com/track/1HE3TzRFmNQ7QQLoEMl0R2) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Ignite the Night \(Party Edition\)](https://open.spotify.com/album/5lkRYpePZze7eng9Spx1Gq) | 3:34 | 2021-06-07 | 2022-01-10 |
-| [Good Girl](https://open.spotify.com/track/20DfkHC5grnKNJCzZQB6KC) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Blown Away](https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9) | 3:25 | 2021-05-12 | 2022-07-29 |
+| [Good Girl](https://open.spotify.com/track/20DfkHC5grnKNJCzZQB6KC) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Blown Away](https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9) | 3:25 | 2021-05-12 |  |
 | [Hard To Love](https://open.spotify.com/track/6E9V9TRlVOLjenGjHemzEH) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Hard 2 Love](https://open.spotify.com/album/0RnVSSUbSBEjk5MlQZhYYP) | 3:44 | 2021-05-12 |  |
 | [Head Over Boots](https://open.spotify.com/track/4ly1QBXEwYoDmje9rmEgC4) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [California Sunrise](https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ) | 3:22 | 2021-05-12 |  |
 | [Heartless \(feat\. Morgan Wallen\)](https://open.spotify.com/track/0rFQ5cKYJ9WtHSKp9sxVYt) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Heartless \(feat\. Morgan Wallen\)](https://open.spotify.com/album/4YEes0AZtUChqtLBwaQLzh) | 2:49 | 2021-05-12 | 2022-07-29 |
@@ -249,6 +250,6 @@
 | [You Make It Easy](https://open.spotify.com/track/6EGAfJaLUFzhS4zRBIEQ2J) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Rearview Town](https://open.spotify.com/album/5irmzpXixcdNF2ZJjcrN0A) | 3:16 | 2021-05-12 |  |
 | [Yours](https://open.spotify.com/track/3I4WFddKpe2PGZWFh7f10J) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Yours](https://open.spotify.com/album/6NxQDh433Rl4EQXT6QiQCE) | 3:36 | 2022-07-24 |  |
 | [Yours](https://open.spotify.com/track/6RSNKGdv3nDTHqgw4bdzyF) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Yours](https://open.spotify.com/album/2iarUPEwf9aLuvE0PDvpfi) | 3:36 | 2021-05-12 | 2022-07-29 |
-| [Yours If You Want It](https://open.spotify.com/track/4D4xJ4LyDXBWIf9thFSMAJ) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Back To Us](https://open.spotify.com/album/0SVt148hDLtlcJ95kIngKE) | 3:26 | 2021-06-07 |  |
+| [Yours If You Want It](https://open.spotify.com/track/4D4xJ4LyDXBWIf9thFSMAJ) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Back To Us](https://open.spotify.com/album/0SVt148hDLtlcJ95kIngKE) | 3:26 | 2021-06-07 | 2023-04-16 |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

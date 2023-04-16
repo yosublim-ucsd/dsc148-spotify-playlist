@@ -1,12 +1,12 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \ud83c\udf37",
-  "num_followers": 107891,
+  "num_followers": 107909,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMGM4OGIxNDljNTlkOTExYWExNmFmOTk0YjMxYmNkNDY5",
+  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDI0OGY2YjA0OWM4Zjk1Y2E5NTdkNzFmMmUzOTQwNjU5",
   "tracks": [
     {
       "added_at": "2023-04-14 04:00:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Cantalou",
-        "url": "https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd"
-      },
-      "artists": [
-        {
-          "name": "Thierry Larose",
-          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
-        }
-      ],
-      "duration_ms": 215560,
-      "name": "L'\u00eele \u00e0 vingt-cinq sous",
-      "url": "https://open.spotify.com/track/02HOfaxe6KpIqrnLFdHhYc"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "C'est tout, c'est rien",
         "url": "https://open.spotify.com/album/6OP8Gsos17WsdQwNMZJXi7"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 173515,
       "name": "C'est tout, c'est rien",
       "url": "https://open.spotify.com/track/5zYZD2nQRCDEMleFB5pkzq"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Cantalou",
+        "url": "https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd"
+      },
+      "artists": [
+        {
+          "name": "Thierry Larose",
+          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
+        }
+      ],
+      "duration_ms": 215560,
+      "name": "L'\u00eele \u00e0 vingt-cinq sous",
+      "url": "https://open.spotify.com/track/02HOfaxe6KpIqrnLFdHhYc"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Fables (The Garden Version)",
-        "url": "https://open.spotify.com/album/38uDEzlrOXkLtPfRz0zX5s"
-      },
-      "artists": [
-        {
-          "name": "Basia Bulat",
-          "url": "https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV"
-        }
-      ],
-      "duration_ms": 176536,
-      "name": "Fables - The Garden Version",
-      "url": "https://open.spotify.com/track/3jLVtU8Sm0cyiVHWFENICL"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "L'\u00e9trange pays",
         "url": "https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 200706,
       "name": "Passe ton chemin",
       "url": "https://open.spotify.com/track/6wKUnfSAJRQagiCuvNgMbB"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Fables (The Garden Version)",
+        "url": "https://open.spotify.com/album/38uDEzlrOXkLtPfRz0zX5s"
+      },
+      "artists": [
+        {
+          "name": "Basia Bulat",
+          "url": "https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV"
+        }
+      ],
+      "duration_ms": 176536,
+      "name": "Fables - The Garden Version",
+      "url": "https://open.spotify.com/track/3jLVtU8Sm0cyiVHWFENICL"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -691,6 +691,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Eleven Songs",
+        "url": "https://open.spotify.com/album/77m8od7UnE2rznmbLzpp76"
+      },
+      "artists": [
+        {
+          "name": "Aliocha",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+        }
+      ],
+      "duration_ms": 169320,
+      "name": "Flash in the Pan",
+      "url": "https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Travelling",
         "url": "https://open.spotify.com/album/4DansuCidnugwQO3H3S7VA"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 188027,
       "name": "Heavy Stone",
       "url": "https://open.spotify.com/track/6di7vKnA0XkftU6YrXwhCM"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Eleven Songs",
-        "url": "https://open.spotify.com/album/77m8od7UnE2rznmbLzpp76"
-      },
-      "artists": [
-        {
-          "name": "Aliocha",
-          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
-        }
-      ],
-      "duration_ms": 169320,
-      "name": "Flash in the Pan",
-      "url": "https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "The Ballad of the Runaway Girl",
-        "url": "https://open.spotify.com/album/4thL3jIVt8oFNZgvnHslkU"
-      },
-      "artists": [
-        {
-          "name": "Elisapie",
-          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
-        }
-      ],
-      "duration_ms": 281131,
-      "name": "Ton vieux nom",
-      "url": "https://open.spotify.com/track/0N48WjkYqRjnjGpTGAA0Ok"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Live Slow Die Wise",
         "url": "https://open.spotify.com/album/2exje2s1zj4OX3qIToppco"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 263720,
       "name": "As My Old Man Always Said",
       "url": "https://open.spotify.com/track/6y0zKZPrKL1gbXqXEHIwm8"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "The Ballad of the Runaway Girl",
+        "url": "https://open.spotify.com/album/4thL3jIVt8oFNZgvnHslkU"
+      },
+      "artists": [
+        {
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+        }
+      ],
+      "duration_ms": 281131,
+      "name": "Ton vieux nom",
+      "url": "https://open.spotify.com/track/0N48WjkYqRjnjGpTGAA0Ok"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -907,26 +907,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "1969",
-        "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
-      },
-      "artists": [
-        {
-          "name": "1969 Collective",
-          "url": "https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL"
-        },
-        {
-          "name": "Claudia Bouvette",
-          "url": "https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn"
-        }
-      ],
-      "duration_ms": 223733,
-      "name": "Post Mortem",
-      "url": "https://open.spotify.com/track/12jcVkf8DJREOy25MLS63v"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "La vraie nature - Chansons par Pilou",
         "url": "https://open.spotify.com/album/1sPNNoeAwmRJxMKoGlVdQD"
       },
@@ -959,70 +939,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Je retourne \u00e0 la maison",
-        "url": "https://open.spotify.com/album/1XaroAGE9SU4W2ImUI5Scl"
+        "name": "1969",
+        "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
       },
       "artists": [
         {
-          "name": "Meghan Oak",
-          "url": "https://open.spotify.com/artist/0zcVg1Jym2sknaMn46kO2k"
+          "name": "1969 Collective",
+          "url": "https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL"
         },
         {
-          "name": "Laurence Castera",
-          "url": "https://open.spotify.com/artist/4lBTYV3dOG4aAFKyKmeHsx"
+          "name": "Claudia Bouvette",
+          "url": "https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn"
         }
       ],
-      "duration_ms": 200397,
-      "name": "Je retourne \u00e0 la maison",
-      "url": "https://open.spotify.com/track/5uJYXto5Lbfb3fCb1VXgR8"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "La nuit est une panth\u00e8re",
-        "url": "https://open.spotify.com/album/7eau0t375JHKnxK48tequj"
-      },
-      "artists": [
-        {
-          "name": "Les Louanges",
-          "url": "https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l"
-        }
-      ],
-      "duration_ms": 177116,
-      "name": "Platane",
-      "url": "https://open.spotify.com/track/74GGj9rWMmSzJEzn4k0rjs"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "La hi\u00e9rarchill",
-        "url": "https://open.spotify.com/album/4fK0td94I2nsMsykLcquaO"
-      },
-      "artists": [
-        {
-          "name": "J\u00e9r\u00f4me 50",
-          "url": "https://open.spotify.com/artist/1afINkCcmeRcLKsjGof7F6"
-        }
-      ],
-      "duration_ms": 217560,
-      "name": "1, 2, 3, 4",
-      "url": "https://open.spotify.com/track/4vJGPuwAEtR9xmRZHdWOqm"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Encounter",
-        "url": "https://open.spotify.com/album/0RkPGBq7HrHgcAhAoTKp75"
-      },
-      "artists": [
-        {
-          "name": "Beyries",
-          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
-        }
-      ],
-      "duration_ms": 167920,
-      "name": "Nous sommes",
-      "url": "https://open.spotify.com/track/28RDzdBt25o1sU2MFOTlRK"
+      "duration_ms": 223733,
+      "name": "Post Mortem",
+      "url": "https://open.spotify.com/track/12jcVkf8DJREOy25MLS63v"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1043,6 +975,58 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Je retourne \u00e0 la maison",
+        "url": "https://open.spotify.com/album/1XaroAGE9SU4W2ImUI5Scl"
+      },
+      "artists": [
+        {
+          "name": "Meghan Oak",
+          "url": "https://open.spotify.com/artist/0zcVg1Jym2sknaMn46kO2k"
+        },
+        {
+          "name": "Laurence Castera",
+          "url": "https://open.spotify.com/artist/4lBTYV3dOG4aAFKyKmeHsx"
+        }
+      ],
+      "duration_ms": 200397,
+      "name": "Je retourne \u00e0 la maison",
+      "url": "https://open.spotify.com/track/5uJYXto5Lbfb3fCb1VXgR8"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "La hi\u00e9rarchill",
+        "url": "https://open.spotify.com/album/4fK0td94I2nsMsykLcquaO"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9r\u00f4me 50",
+          "url": "https://open.spotify.com/artist/1afINkCcmeRcLKsjGof7F6"
+        }
+      ],
+      "duration_ms": 217560,
+      "name": "1, 2, 3, 4",
+      "url": "https://open.spotify.com/track/4vJGPuwAEtR9xmRZHdWOqm"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "La nuit est une panth\u00e8re",
+        "url": "https://open.spotify.com/album/7eau0t375JHKnxK48tequj"
+      },
+      "artists": [
+        {
+          "name": "Les Louanges",
+          "url": "https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l"
+        }
+      ],
+      "duration_ms": 177116,
+      "name": "Platane",
+      "url": "https://open.spotify.com/track/74GGj9rWMmSzJEzn4k0rjs"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Les choses ext\u00e9rieures",
         "url": "https://open.spotify.com/album/3RLBT6Do3B4ZbX5eJBdCH0"
       },
@@ -1059,6 +1043,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Encounter",
+        "url": "https://open.spotify.com/album/0RkPGBq7HrHgcAhAoTKp75"
+      },
+      "artists": [
+        {
+          "name": "Beyries",
+          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
+        }
+      ],
+      "duration_ms": 167920,
+      "name": "Nous sommes",
+      "url": "https://open.spotify.com/track/28RDzdBt25o1sU2MFOTlRK"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Et on pleurera ensemble",
         "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
       },
@@ -1071,6 +1071,22 @@
       "duration_ms": 191280,
       "name": "Le vent se l\u00e8ve",
       "url": "https://open.spotify.com/track/3xXFfmiWrbSpOfOb4AnTPM"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "C'est Plus Comme Avant (Version Acoustique)",
+        "url": "https://open.spotify.com/album/7c8jLJfowKojwRsdMk61AA"
+      },
+      "artists": [
+        {
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+        }
+      ],
+      "duration_ms": 166306,
+      "name": "C'est Plus Comme Avant - Version Acoustique",
+      "url": "https://open.spotify.com/track/3cDKsbbkGsflwPfVLYg10X"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1107,22 +1123,6 @@
       "duration_ms": 318880,
       "name": "Moi, Elsie",
       "url": "https://open.spotify.com/track/4GQbRIeWqmiJaosRyQ2WsF"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "C'est Plus Comme Avant (Version Acoustique)",
-        "url": "https://open.spotify.com/album/7c8jLJfowKojwRsdMk61AA"
-      },
-      "artists": [
-        {
-          "name": "The Franklin Electric",
-          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
-        }
-      ],
-      "duration_ms": 166306,
-      "name": "C'est Plus Comme Avant - Version Acoustique",
-      "url": "https://open.spotify.com/track/3cDKsbbkGsflwPfVLYg10X"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "New Waves (Live Recordings \u201919-\u201921)",
-        "url": "https://open.spotify.com/album/15I1wphrnMoeRZ38YqiqgR"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 430506,
-      "name": "Transatlantic Flight - Live at Roy Thomson Hall",
-      "url": "https://open.spotify.com/track/1fUuUjWmAEUSYvqZnPFLVB"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Sailors",
         "url": "https://open.spotify.com/album/2ZkWGXSW6wuOp8maQ5vbp7"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 241462,
       "name": "Sailors",
       "url": "https://open.spotify.com/track/2zo2zOxH0wpLWX80jYsaWF"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "New Waves (Live Recordings \u201919-\u201921)",
+        "url": "https://open.spotify.com/album/15I1wphrnMoeRZ38YqiqgR"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 430506,
+      "name": "Transatlantic Flight - Live at Roy Thomson Hall",
+      "url": "https://open.spotify.com/track/1fUuUjWmAEUSYvqZnPFLVB"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Guadalupe",
-        "url": "https://open.spotify.com/album/6p928KTAWMrhynOWiVp3y8"
-      },
-      "artists": [
-        {
-          "name": "Joe Grass",
-          "url": "https://open.spotify.com/artist/6WSA0zU18B65jo2QDo58Uv"
-        }
-      ],
-      "duration_ms": 229426,
-      "name": "Guadalupe",
-      "url": "https://open.spotify.com/track/3VZsYijc2ZVXqHtCpHdUsu"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Blind",
         "url": "https://open.spotify.com/album/5JKfHycWZ3soRfR1VTfsuC"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 218653,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/5yE3Mi1Vu66PB6zyAIIPFu"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Guadalupe",
+        "url": "https://open.spotify.com/album/6p928KTAWMrhynOWiVp3y8"
+      },
+      "artists": [
+        {
+          "name": "Joe Grass",
+          "url": "https://open.spotify.com/artist/6WSA0zU18B65jo2QDo58Uv"
+        }
+      ],
+      "duration_ms": 229426,
+      "name": "Guadalupe",
+      "url": "https://open.spotify.com/track/3VZsYijc2ZVXqHtCpHdUsu"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Espoir",
-        "url": "https://open.spotify.com/album/1WoZ8Ugtcpg8gXD9VNDSJ2"
+        "name": "Pauline \u00e0 la ferme",
+        "url": "https://open.spotify.com/album/2oZWLCRMIaGP6DlA9iXCVr"
       },
       "artists": [
         {
-          "name": "Ariane Moffatt",
-          "url": "https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l"
+          "name": "Philippe B",
+          "url": "https://open.spotify.com/artist/7FvBLeBeCiWR09phkPyyrf"
         }
       ],
-      "duration_ms": 210177,
-      "name": "Espoir",
-      "url": "https://open.spotify.com/track/1mGRwSfyiVBnvMbfOKAP2x"
+      "duration_ms": 219937,
+      "name": "Pauline \u00e0 la ferme",
+      "url": "https://open.spotify.com/track/4toSZdP0xjSUiilPk93dsP"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Espoir",
+        "url": "https://open.spotify.com/album/1WoZ8Ugtcpg8gXD9VNDSJ2"
+      },
+      "artists": [
+        {
+          "name": "Ariane Moffatt",
+          "url": "https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l"
+        }
+      ],
+      "duration_ms": 210177,
+      "name": "Espoir",
+      "url": "https://open.spotify.com/track/1mGRwSfyiVBnvMbfOKAP2x"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Hiboux",
         "url": "https://open.spotify.com/album/4D7WHshT3h2wZngM9x4AzQ"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 199693,
       "name": "Girouette",
       "url": "https://open.spotify.com/track/7cEjFMHqhnJEbpbnHUQP7E"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Pauline \u00e0 la ferme",
-        "url": "https://open.spotify.com/album/2oZWLCRMIaGP6DlA9iXCVr"
-      },
-      "artists": [
-        {
-          "name": "Philippe B",
-          "url": "https://open.spotify.com/artist/7FvBLeBeCiWR09phkPyyrf"
-        }
-      ],
-      "duration_ms": 219937,
-      "name": "Pauline \u00e0 la ferme",
-      "url": "https://open.spotify.com/track/4toSZdP0xjSUiilPk93dsP"
     },
     {
       "added_at": "2023-04-14 04:00:00",

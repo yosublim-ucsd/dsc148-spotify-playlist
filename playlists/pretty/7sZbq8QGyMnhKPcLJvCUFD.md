@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Alan Walker
 
-[NCS](https://open.spotify.com/user/nocopyrightsounds) - 752,486 likes - 242 songs - 12 hr 13 min
+[NCS](https://open.spotify.com/user/nocopyrightsounds) - 752,552 likes - 242 songs - 12 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 | 8 | [The Raven](https://open.spotify.com/track/2w2iMR6n4qVqshzSqRvxb8) | [ATSMXN](https://open.spotify.com/artist/0SfWpeYPEYKn732iefQThW), [XTOM](https://open.spotify.com/artist/4zB6ahEJIuTVI5AgzqYrH5) | [The Raven](https://open.spotify.com/album/6RWjPQmoIP50S14aLXBS8E) | 1:55 |
 | 9 | [Immortal \(feat\. Josh Rubin\)](https://open.spotify.com/track/2RdwrJkx3swffe5ylzvfKR) | [CITYWLKR](https://open.spotify.com/artist/37195HH4Ces0cQkYr4rSCU), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Immortal \(feat\. Josh Rubin\)](https://open.spotify.com/album/3OqnZbyxed8WsO2D1wlEUj) | 4:30 |
 | 10 | [094](https://open.spotify.com/track/7v9aoBvujg2C7VanzsiAoY) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U) | [094](https://open.spotify.com/album/6WR24Wjp6Bm3I7VAeAxgX1) | 2:00 |
-| 11 | [Bad Habit \(feat\. Zaug\) \- Phonk Version](https://open.spotify.com/track/2cxSqpXFAEa0VIZkDed4eM) | [Jéja](https://open.spotify.com/artist/7BOIhtXWB8DCWOykIHF2dh), [Zaug](https://open.spotify.com/artist/2EaTQL9xXLLtRR3ypvRqL1) | [Bad Habit \- Phonk Version](https://open.spotify.com/album/2iG2ou48zBxOk3qH2vT1px) | 1:39 |
+| 11 | [Bad Habit \- Phonk Version](https://open.spotify.com/track/2cxSqpXFAEa0VIZkDed4eM) | [Jéja](https://open.spotify.com/artist/7BOIhtXWB8DCWOykIHF2dh), [Zaug](https://open.spotify.com/artist/2EaTQL9xXLLtRR3ypvRqL1) | [Bad Habit \(Phonk Version\)](https://open.spotify.com/album/2iG2ou48zBxOk3qH2vT1px) | 1:39 |
 | 12 | [Overdrive](https://open.spotify.com/track/10okOJmLKcEysZuKFJ2lki) | [Millbrook](https://open.spotify.com/artist/5yd0a8BOCNke9EhV2ynQOm), [Ellerslie](https://open.spotify.com/artist/6ouVw2vTrKmhK2XUsmUMHE) | [Overdrive](https://open.spotify.com/album/5Tp0z2WyBNhie2ryMj0q2A) | 3:13 |
 | 13 | [Ignite](https://open.spotify.com/track/4KucTjdHBmBQnWDuBEkx5x) | [VERB](https://open.spotify.com/artist/1pRjBwChdQFuoYH6NiI3pe), [22 Void Beats](https://open.spotify.com/artist/7HSsXPuibnpm1vpFZLQPIL), [Nat James](https://open.spotify.com/artist/3OyUmeS7InBZFjCduVVhGa) | [Ignite](https://open.spotify.com/album/5TIQMdZH1peU8YK8tTyAdm) | 2:50 |
 | 14 | [CONNECTION](https://open.spotify.com/track/2VyXOUGlZwEcfAHozs0xfr) | [Rxm リム](https://open.spotify.com/artist/6xQr9sbtrCuoW4qJoATNLB) | [CONNECTION](https://open.spotify.com/album/2xfoZq6jYPWnejcKBtodH6) | 1:48 |

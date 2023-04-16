@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 
 > Uplifting and happy jazz christmas classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,358 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,339 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 | 36 | [Boogie Woogie Santa Claus](https://open.spotify.com/track/03MYXczT3SF2QYCdZYVUpJ) | [Lionel Hampton](https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP), [Sonny Parker](https://open.spotify.com/artist/70RwoGWutTm2ztdpEBmwdv) | [Merry Christmas](https://open.spotify.com/album/4v2byuh7XMZGBrYjH3XnBx) | 2:42 |
 | 37 | [The Very Best Day This Year](https://open.spotify.com/track/4tS8ySaehAjC9hd54xCesZ) | [Jeff Meegan](https://open.spotify.com/artist/2XS2MrkksPqxbs0jputTr8), [David Tobin](https://open.spotify.com/artist/4URqQyKF1NuIVmYiJtQIHb), [Mark Armstrong](https://open.spotify.com/artist/2heBrCXNrnKh0sOfaaThiy), [Steve Memmolo](https://open.spotify.com/artist/316EMLib9M7s8r6hxFnBtv) | [The Season's Back Again](https://open.spotify.com/album/1TFxAeGNb72icOOpa5jxHE) | 2:56 |
 | 38 | [Mr\. Christmas](https://open.spotify.com/track/20JGzStdmjMwqOZw4w7Grt) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Mr\. Christmas](https://open.spotify.com/album/5JPo6hwhiDvkRXXizqE71B) | 3:36 |
-| 39 | [Show Me The Magic](https://open.spotify.com/track/7CO9j3NbotOqtajfvM1ilQ) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Show Me The Magic](https://open.spotify.com/album/7gI7vQXmYWCl2QY7gc8VAq) | 2:30 |
-| 40 | [Here We Come A\-Caroling](https://open.spotify.com/track/2Vh915f8W7DKMRq56upIEJ) | [Dries Riesen](https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL) | [Here We Come A\-Caroling](https://open.spotify.com/album/5aux4vuQsbLHr84UvKtx5t) | 1:08 |
+| 39 | [Here We Come A\-Caroling](https://open.spotify.com/track/2Vh915f8W7DKMRq56upIEJ) | [Dries Riesen](https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL) | [Here We Come A\-Caroling](https://open.spotify.com/album/5aux4vuQsbLHr84UvKtx5t) | 1:08 |
+| 40 | [Show Me The Magic](https://open.spotify.com/track/7CO9j3NbotOqtajfvM1ilQ) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Show Me The Magic](https://open.spotify.com/album/7gI7vQXmYWCl2QY7gc8VAq) | 2:30 |
 | 41 | [Poppa Santa Claus](https://open.spotify.com/track/6xF6R6029v5XsSL0yFFW2X) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM) | [Their Complete Recordings Together](https://open.spotify.com/album/59FWajrRYfw3QEoR3VSNc7) | 3:13 |
 | 42 | [Little Saint Nick](https://open.spotify.com/track/3P6tmwGm7rkztBLjgQ6A7F) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [Little Saint Nick](https://open.spotify.com/album/2O4ORdButEzDMcODSjzCJw) | 3:35 |
 | 43 | [O Little Town Of Bethlehem](https://open.spotify.com/track/6V23uUPhBn3NZuUVq1aOlz) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Gospel Train \(Expanded Edition\)](https://open.spotify.com/album/3OGOZW8wCyD0zj254FZ0Ei) | 2:26 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 | 69 | [Santa Claus Got Stuck \(In My Chimney\)](https://open.spotify.com/track/37DyuqC8sgnnfmqxA5I1Fq) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [The Ink Spots](https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY) | [The Complete Decca Singles Vol\. 4: 1950\-1955](https://open.spotify.com/album/3nXCCfwBpz0FlUdxJrMfwM) | 3:09 |
 | 70 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/79Vow814grawUCdrBlYZbs) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella & Louis Christmas](https://open.spotify.com/album/4Stxbm7asfnEVduhRpWpzl) | 2:44 |
 
-Snapshot ID: `MTY3MTgwMDY5MywwMDAwMDAwMGE4OWQzOWMxYjQzYWVlMzRlYzI5M2QzNmRlMzg5YWFj`
+Snapshot ID: `MTY3MTgwMDY5MywwMDAwMDAwMDBiMGE1MmMxOGEyMTA2MDAxZTE5Yzg2MjUwOTZlODgw`

@@ -4,7 +4,7 @@
 
 > Sing along and enjoy the drive...
 
-821 songs - 2 day 2 hr 35 min
+822 songs - 2 day 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [Escape](https://open.spotify.com/track/0Y33wASIhTQpT54DIs5sF9) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Greatest Hits](https://open.spotify.com/album/45oxrhbTq2olcPIluFroYA) | 3:27 | 2020-06-12 | 2022-04-18 |
 | [Escape \(The Pina Colada Song\)](https://open.spotify.com/track/79Dl8iYn0PFQG2wqDxPlQU) | [Rupert Holmes](https://open.spotify.com/artist/0TqIPD4IS1w4e30R38B3vj) | ['70s Pop \#1's](https://open.spotify.com/album/0EGFovrr9MRmTAqnTAaYMU) | 4:36 | 2021-03-17 | 2022-04-08 |
 | [Escapism.](https://open.spotify.com/track/5Z2MiIZ5I3jJvvmeWMLbOQ) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. / The Thrill Is Gone.](https://open.spotify.com/album/3omkMn8vbTKOebb9ABbqyb) | 4:32 | 2023-03-14 | 2023-04-15 |
+| [Escapism.](https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:32 | 2023-04-16 |  |
 | [Eternal Flame](https://open.spotify.com/track/5MoDQWMDMaAGDEiWsJfeCi) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [The Essential Bangles](https://open.spotify.com/album/4yaX6Gmlvo42PnGgBdhzGf) | 3:58 | 2021-03-10 | 2022-04-16 |
 | [Everlong \- Acoustic Version](https://open.spotify.com/track/3QmesrvdbPjwf7i40nht1D) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Greatest Hits](https://open.spotify.com/album/1zCNrbPpz5OLSr6mSpPdKm) | 4:10 | 2021-03-17 | 2021-05-28 |
 | [Every Breath You Take](https://open.spotify.com/track/4U3Ggqyv2XgnS1u82HOGQX) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [The Very Best Of Sting And The Police](https://open.spotify.com/album/0psHZUD4dKFmxEfEmGRCLB) | 4:11 | 2021-03-20 | 2021-05-28 |
@@ -277,7 +278,7 @@
 | [Havana \(feat\. Young Thug\)](https://open.spotify.com/track/0ofbQMrRDsUaVKq2mGLEAb) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Havana \(feat\. Young Thug\)](https://open.spotify.com/album/5chBPOVY2I0bG5V3igb5QL) | 3:36 | 2019-07-29\* | 2022-04-21 |
 | [Havana \(feat\. Young Thug\)](https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Camila](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) | 3:37 | 2022-07-26 | 2022-11-12 |
 | [Heart Attack](https://open.spotify.com/track/1V6gIisPpYqgFeWbMLI0bA) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Demi](https://open.spotify.com/album/6Kssm2LosQ0WyLukFZkEG5) | 3:30 | 2019-07-29\* | 2020-04-13 |
-| [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 | 2021-09-18 |  |
+| [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 | 2021-09-18 | 2023-04-16 |
 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 | 2021-07-17 |  |
 | [Heaven Is a Place On Earth](https://open.spotify.com/track/37Q5anxoGWYdRsyeXkkNoI) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Greatest Vol.1 \- Belinda Carlisle](https://open.spotify.com/album/3fzHLg5RfRXzQlHlR4F7JG) | 4:06 | 2019-08-11 | 2022-07-19 |
 | [Here I Go Again](https://open.spotify.com/track/29pzjF6ZkzcW3ofgOVbF0t) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Saints & Sinners](https://open.spotify.com/album/5HSdx1824FepWuf8NbG7B3) | 5:08 | 2021-03-10 | 2022-04-16 |

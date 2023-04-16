@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Piba\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,523 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,525 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 5 | [Tiempo](https://open.spotify.com/track/5kNOeciDEYgCTe5XyQrJOh) | [Mina & El Tigre](https://open.spotify.com/artist/5CloCdNqLzzzz6y7At6Laz) | [Tiempo](https://open.spotify.com/album/52s8CsnS9McjKPTlJukBkN) | 3:31 |
 | 6 | [Arrullo](https://open.spotify.com/track/1WNZcZIO1LsoUra7hiYT7A) | [Siempreviva](https://open.spotify.com/artist/0AobgYoJ2EnfnraXDiiXQX) | [Bajo las primeras luces elegimos volver](https://open.spotify.com/album/4U1TlWXfxUZbZvnOVkuDXq) | 5:03 |
 | 7 | [te miraría](https://open.spotify.com/track/1VTM0nE0kPvf7g45CDEf8A) | [Victoria Davancens](https://open.spotify.com/artist/3C0A0jaQn169OBA4hfweQJ) | [te miraría](https://open.spotify.com/album/4BlvYZB9VQ5qlISigYwRnM) | 3:43 |
-| 8 | [Estrella](https://open.spotify.com/track/65ujqMp1mdOhzp75c5t90R) | [Dinié](https://open.spotify.com/artist/1Xaa9v4eSL7fShYSUs4Jjq) | [Amor Eterno Vol\. 1](https://open.spotify.com/album/1qbfBzAmMF3SbzO0IXdbpa) | 2:14 |
+| 8 | [Estrella](https://open.spotify.com/track/65ujqMp1mdOhzp75c5t90R) | [Dinié](https://open.spotify.com/artist/1Xaa9v4eSL7fShYSUs4Jjq), [Amor Eterno](https://open.spotify.com/artist/5azVpthdaO4HLN381lLqW6) | [Amor Eterno Vol\. 1](https://open.spotify.com/album/1qbfBzAmMF3SbzO0IXdbpa) | 2:14 |
 | 9 | [Días Raros](https://open.spotify.com/track/4fJaW9IqJbuDyXb4BQLVzd) | [Andrés Arzate](https://open.spotify.com/artist/6Bv95Dh7WpuZ2899lLrUBY) | [Días Raros](https://open.spotify.com/album/2AZ9oKEvlD7fvO01GybPRp) | 3:25 |
 | 10 | [Las Pibas](https://open.spotify.com/track/5vCQcyoQH4iLypn0WYU4ik) | [Mel Ömana](https://open.spotify.com/artist/2beEvJlotpHyrcksZteM4z) | [Las Pibas](https://open.spotify.com/album/4UJjY6XLhk7SuMZSsbM67R) | 2:39 |
 | 11 | [Ficción](https://open.spotify.com/track/5jK90x3YoYnsxt2hUGpj3R) | [Mirror Revelations](https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9) | [Ficción](https://open.spotify.com/album/6Jfr6xIsA2JC7foD567P4Z) | 6:24 |
@@ -37,21 +37,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 27 | [QQTF](https://open.spotify.com/track/3SuFvHvhvqxD7Hf1bX4OfH) | [Lena Dardelet](https://open.spotify.com/artist/37orxD8Q5PDm53FazTRpP7), [Calacote](https://open.spotify.com/artist/52PhGA4a6erATMkWfLuFvO) | [QQTF](https://open.spotify.com/album/2C3I9L24UeN9x2uCwZWidH) | 3:16 |
 | 28 | [No Te Conozco, Pero Te Extraño](https://open.spotify.com/track/781oj1x6Uc6SKEgyLFsJ0v) | [Oliver Kid](https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG), [Juan Pino](https://open.spotify.com/artist/6Vri1Sn9BAdOZUz0eK1SK1) | [No Te Conozco, Pero Te Extraño](https://open.spotify.com/album/7mErNgL0ywcgSDKsHDnZoT) | 3:00 |
 | 29 | [Cierto](https://open.spotify.com/track/3alsIFbORQvU7j9AUsvhYj) | [Luca Laurito](https://open.spotify.com/artist/7E5RaJlaFBjjD8nrZsK1iz), [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [Cierto](https://open.spotify.com/album/2jdcppCWNa80802PF01AuP) | 3:26 |
-| 30 | [Me Muero](https://open.spotify.com/track/1j5TURkDjZRUSEp3ZUk17D) | [Tiago Cruz](https://open.spotify.com/artist/3VzpQ5AiGRdFcC3DC0NoGW) | [Me Muero](https://open.spotify.com/album/4Reu7Thhx2CPhUxAy00jjA) | 2:49 |
+| 30 | [Me Muero](https://open.spotify.com/track/1j5TURkDjZRUSEp3ZUk17D) | [Tivgo Cruz](https://open.spotify.com/artist/7vJtUpjucrjn89hvtpVw1S) | [Me Muero](https://open.spotify.com/album/4Reu7Thhx2CPhUxAy00jjA) | 2:49 |
 | 31 | [Before The Dawn](https://open.spotify.com/track/4dYtUInvejpxihZgV03QVM) | [Omar Andino](https://open.spotify.com/artist/6W7hzb76Wv2tCwX7mfFe0z) | [Before The Dawn](https://open.spotify.com/album/3oc1NZrCDUAP6jgXvzcKaP) | 3:45 |
 | 32 | [A La Quien Quieres](https://open.spotify.com/track/4q9lwDou2FP4Vj3993sfAW) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Ojos Vacíos](https://open.spotify.com/album/39MoSLkmTFasjXjfWGzqqB) | 3:41 |
 | 33 | [Un Pulmón](https://open.spotify.com/track/6AYnkty42TUyN6RW7lkgRe) | [Mayra Sánchez](https://open.spotify.com/artist/15G6Ay5IOV6z7Sw2bpCQWv) | [Un Pulmón](https://open.spotify.com/album/7yaFTYiVVPjEhgJi4YW78v) | 3:13 |
 | 34 | [Bailo Pa' Mí](https://open.spotify.com/track/3j7ye5ngM4xpoaGdw09CHZ) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO), [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [Bailo Pa' Mí](https://open.spotify.com/album/0E9cD34EmwzYDlYAklBdvU) | 3:20 |
 | 35 | [Tu Mal](https://open.spotify.com/track/5MM7qBRE7av0neCcsPrll0) | [Mimi Rose](https://open.spotify.com/artist/0gm0s1Jbc0lIuzDLHH1SYB) | [Tu Mal](https://open.spotify.com/album/39uy6LRqVbLbh5pFNCFtgT) | 2:56 |
-| 36 | [Amargura](https://open.spotify.com/track/6e3pKfgk4h7uxMFYP9YDF7) | [MAR MEJÍA](https://open.spotify.com/artist/2W7MXufoOuXiXjPjjbjEmw) | [Amargura](https://open.spotify.com/album/7scO0Ib7m8xtFTFJMeNtwL) | 2:19 |
-| 37 | [Suave](https://open.spotify.com/track/618IMJUulw0aN5yptpcxSD) | [PRIMO](https://open.spotify.com/artist/1b0KsC0utT7mnfZSQXQ9iP) | [Suave](https://open.spotify.com/album/1fJII2RTRrKbtxvciiiuLY) | 2:46 |
+| 36 | [Suave](https://open.spotify.com/track/618IMJUulw0aN5yptpcxSD) | [PRIMO](https://open.spotify.com/artist/1b0KsC0utT7mnfZSQXQ9iP) | [Suave](https://open.spotify.com/album/1fJII2RTRrKbtxvciiiuLY) | 2:46 |
+| 37 | [Amargura](https://open.spotify.com/track/6e3pKfgk4h7uxMFYP9YDF7) | [MAR MEJÍA](https://open.spotify.com/artist/2W7MXufoOuXiXjPjjbjEmw) | [Amargura](https://open.spotify.com/album/7scO0Ib7m8xtFTFJMeNtwL) | 2:19 |
 | 38 | [Otros XOXO](https://open.spotify.com/track/3vJ44oLx2n1izEqpD9yycT) | [Poloo](https://open.spotify.com/artist/3YkiWrlonFPswrvoietLc7) | [Otros XOXO](https://open.spotify.com/album/7MYLqUdrYDK6i1K7bbCVcr) | 3:15 |
 | 39 | [El Gran Varón](https://open.spotify.com/track/0vxgL9ele9vzJbWrVDrL6Y) | [Ana Macho](https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu), [La Brega](https://open.spotify.com/artist/7n3zQKm0K6MOVshW2qjBsp) | [El Gran Varón](https://open.spotify.com/album/0MQR3TIJWypZjcadiyFcbV) | 4:50 |
 | 40 | [Vibras Positivas](https://open.spotify.com/track/6nq8qg9OAldCiM6jaCVKer) | [Tomás Lauría](https://open.spotify.com/artist/0neHEgLsKKdPl2izN9qVzY) | [Viaje \(a\)marte](https://open.spotify.com/album/0s5pP23tx9XCUAQ82xSouC) | 1:58 |
 | 41 | [Lo Único Que Tenemos Que Ver Tú y Yo Es Lo de en Frente](https://open.spotify.com/track/6FuR5KzA4mm9oEB1OsIX1x) | [Mariscos](https://open.spotify.com/artist/47TIxmNNgoxt3EngNU4PWn) | [Lo Único Que Tenemos Que Ver Tú y Yo Es Lo de en Frente](https://open.spotify.com/album/4khJHEa8AuphacJcuEVORy) | 1:39 |
 | 42 | [Tu Adicción](https://open.spotify.com/track/0JDxwd3PzqgKRXYqJYBo3A) | [Dharma y Flora](https://open.spotify.com/artist/5jjs8LaABvB8WZpahQ0CwO) | [Tu Adicción](https://open.spotify.com/album/3FJbYrTR0kolbnf1E91MtJ) | 4:37 |
-| 43 | [No Se Ve](https://open.spotify.com/track/0cDYVAmMrQEvnpdBEFiPyb) | [Lalo Cortés](https://open.spotify.com/artist/5aOSxuZtFtsOFvNB4xlssQ) | [No Se Ve](https://open.spotify.com/album/1D6xmhub4qV8PTjPovk3n6) | 4:01 |
-| 44 | [Brilla](https://open.spotify.com/track/5sWnTIlO1DzWt9mQcYXiH8) | [Selene](https://open.spotify.com/artist/3hk133tFNlWGS6SKHSeE7j) | [Brilla](https://open.spotify.com/album/2ADSOpQF29tah5CcxFNaVv) | 2:35 |
+| 43 | [Brilla](https://open.spotify.com/track/5sWnTIlO1DzWt9mQcYXiH8) | [Selene](https://open.spotify.com/artist/3hk133tFNlWGS6SKHSeE7j) | [Brilla](https://open.spotify.com/album/2ADSOpQF29tah5CcxFNaVv) | 2:35 |
+| 44 | [No Se Ve](https://open.spotify.com/track/0cDYVAmMrQEvnpdBEFiPyb) | [Lalo Cortés](https://open.spotify.com/artist/5aOSxuZtFtsOFvNB4xlssQ) | [No Se Ve](https://open.spotify.com/album/1D6xmhub4qV8PTjPovk3n6) | 4:01 |
 | 45 | [Lo Disfrutaría](https://open.spotify.com/track/5qJ015XdHUQlU2hVObvmrc) | [Mila Magal](https://open.spotify.com/artist/6aVKvI8vXjzhp9FICkwRWV) | [Lo Disfrutaría](https://open.spotify.com/album/6QToLNDMnSZ0nzm0lqP0qD) | 3:26 |
 | 46 | [tal para cual](https://open.spotify.com/track/4lMmTToPlpzuEVo6vTjgvt) | [Lina Sanabria](https://open.spotify.com/artist/4NNyMWpP0BxL3RL0G60hmV) | [tal para cual](https://open.spotify.com/album/2vnCpwlT0q7R11ve53x1Ji) | 2:21 |
 | 47 | [Buscando a Orión](https://open.spotify.com/track/4iO1Oi2QBMwOgXBWFsLmre) | [XALU](https://open.spotify.com/artist/6oYnCz7GvDdeyg9KlRzsla), [Fco\. Chandia](https://open.spotify.com/artist/655dPMaDIzxF49DrrYNc4p) | [Buscando a Orión](https://open.spotify.com/album/0KCRU1HgBRhCBLOLNdG0Np) | 2:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [BBY? \(Intro\)](https://open.spotify.com/track/6IIQmE2vbGbm7nKKytEJz6) | [KATTO](https://open.spotify.com/artist/7MthCm9PLvyv3cF2va9Y80) | [BBY?](https://open.spotify.com/album/0z8ygzNS0kFsriH3w1lxGk) | 1:43 |
 | 50 | [Me Aburren las Cosas Perfectas](https://open.spotify.com/track/0fPbVT8ica6n6RJoxJVLQR) | [Sofía Uzal](https://open.spotify.com/artist/19Hdi3JmltQbOwPCfcUEjd) | [Desde Lejos](https://open.spotify.com/album/62mpJuTtiuCrHphbARcqhM) | 3:10 |
 
-Snapshot ID: `MTY4MTMxODgwMCwwMDAwMDAwMDJiZDVkZDNkNjY3NTkzMTJhOTYxYWUxMjBlN2IyZGE2`
+Snapshot ID: `MTY4MTMxODgwMCwwMDAwMDAwMDA3M2YxOWY0OTlhNTIxYTNjNTg2M2I5NDlmZmRkOGRl`

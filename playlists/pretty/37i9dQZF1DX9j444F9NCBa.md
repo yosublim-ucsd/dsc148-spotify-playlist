@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 
 > Gentle instrumental covers of known songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 613,918 likes - 309 songs - 15 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 614,171 likes - 309 songs - 15 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 | 54 | [Made You Look](https://open.spotify.com/track/2k3QV3SMq2dtrhOawzW1jo) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [CUFF IT](https://open.spotify.com/album/4yU9HvloC2VTTKnTqlNT4P) | 3:32 |
 | 55 | [You Are The Sunshine Of My Life](https://open.spotify.com/track/5WAQrNbnEDGOk1f3aLHOv6) | [Diego Bellucci](https://open.spotify.com/artist/1wkbTJShPHkMwIWUaMY6KZ) | [Acoustic Guitar Covers](https://open.spotify.com/album/4gcOb5WxltsSyhSfXS5uzI) | 2:29 |
 | 56 | [Wicked Game](https://open.spotify.com/track/2xdZFU10kxBAZSyImawWkf) | [Claire Haeving](https://open.spotify.com/artist/1TwEiPFLOc40tfIB7EvaWX) | [Uncovered](https://open.spotify.com/album/0xOfEKGbSpYALqMH3IHahO) | 3:10 |
-| 57 | [No Surprise](https://open.spotify.com/track/51sVrKfRknbj5PGg3dVspr) | [Odette Pineda](https://open.spotify.com/artist/2Eiqzzb4kGdlWttizRLpaw) | [No Surprise](https://open.spotify.com/album/4xge3Hsn6XDhchQEElHkG9) | 3:38 |
+| 57 | [No Surprises](https://open.spotify.com/track/51sVrKfRknbj5PGg3dVspr) | [Odette Pineda](https://open.spotify.com/artist/2Eiqzzb4kGdlWttizRLpaw) | [No Surprises](https://open.spotify.com/album/4xge3Hsn6XDhchQEElHkG9) | 3:38 |
 | 58 | [Shut Up and Dance](https://open.spotify.com/track/4VgOXazSiLJGjC3zeyDJfb) | [Lucian Byrne](https://open.spotify.com/artist/76JjyD3D3gmVw6h9Do2T2C) | [Shut Up and Dance](https://open.spotify.com/album/2sWu6EVSn5fPk9NYUYN7zV) | 2:33 |
 | 59 | [Get Lucky](https://open.spotify.com/track/4CvzxUEgqlN2aHUQHDRnls) | [Troy Mair](https://open.spotify.com/artist/5veMU6D1o2oIb7fOcg5VAZ) | [Get Lucky](https://open.spotify.com/album/4WEgJcuTLcG5JlcvWA4OJC) | 2:47 |
 | 60 | [Sailing](https://open.spotify.com/track/7vrm7MunIj4mXiEZdj8zfF) | [Nilo Almeida](https://open.spotify.com/artist/1FFwV2WdNXvSTHJAI0CZlF) | [Sailing](https://open.spotify.com/album/26VqwTUlZPYlDFdFr86HsM) | 1:45 |

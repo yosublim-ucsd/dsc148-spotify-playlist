@@ -4,10 +4,11 @@
 
 > Pop para refrescarte los días, featuring Alex Ponce.
 
-55 songs - 2 hr 51 min
+56 songs - 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [1Trago](https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [1Trago](https://open.spotify.com/album/61bbTZzUgZZnZPpuKYHj26) | 3:21 | 2023-04-14 |  |
 | [5 Estrellas](https://open.spotify.com/track/3XbzMSWKdp8FzcQHA9BeXw) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [5 Estrellas](https://open.spotify.com/album/2yANiBjyI4vqHfUax5a8RF) | 3:11 | 2023-04-04 |  |
 | [7 Veces](https://open.spotify.com/track/7iJQk4HvwwIZWrEfnuzTPP) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:54 | 2023-04-04 |  |
 | [Ajedrez](https://open.spotify.com/track/502C76In6ki3rUo47QP6pA) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Ajedrez](https://open.spotify.com/album/0KrZrlCpxZQgw11uvAp3n4) | 3:28 | 2023-04-04 |  |
@@ -19,7 +20,7 @@
 | [Bendita](https://open.spotify.com/track/3vDP0LdVBqGhKvz2nyMRXS) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM), [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Bendita](https://open.spotify.com/album/7KREKP5rqz2xTxFNYABhLr) | 3:19 | 2023-04-04 |  |
 | [Break](https://open.spotify.com/track/7J0JOQbmOm9u78T2esQS5p) | [Pau Mueller](https://open.spotify.com/artist/2o0cdt1TrTZSh2NssVL1ko) | [Break](https://open.spotify.com/album/0ZDZYvpfOogYbs4rTsGOW6) | 3:25 | 2023-04-04 | 2023-04-15 |
 | [Como Tú y Yo](https://open.spotify.com/track/5epkD1MXbSjJTvQexDE3Q9) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Como Tú y Yo](https://open.spotify.com/album/3IsvaEBEofbtXoVRRTK7jT) | 3:12 | 2023-04-04 |  |
-| [Contraluz](https://open.spotify.com/track/1sVBiZA6OMCQYAaryp5Gbe) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Contraluz](https://open.spotify.com/album/3Gxm7cLKDllPSHUR1sEDyA) | 3:32 | 2023-04-04 |  |
+| [Contraluz](https://open.spotify.com/track/1sVBiZA6OMCQYAaryp5Gbe) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Contraluz](https://open.spotify.com/album/3Gxm7cLKDllPSHUR1sEDyA) | 3:32 | 2023-04-04 | 2023-04-16 |
 | [Correcaminos](https://open.spotify.com/track/3aCLD0IqnpnG09ZhfyUqIC) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Correcaminos](https://open.spotify.com/album/5URH83B2vJrrZ47uTOb3zQ) | 3:02 | 2023-04-04 |  |
 | [Cupido](https://open.spotify.com/track/04ndZkbKGthTgYSv3xS7en) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:54 | 2023-04-04 |  |
 | [Dementes](https://open.spotify.com/track/05T29iTmS1rFDLrF1Qy1JI) | [Alex Hoyer](https://open.spotify.com/artist/45ztMs8dTg6GRQ41yY4xtr) | [Dementes](https://open.spotify.com/album/0fsASfqU4Xd5UlCGN7ltTR) | 2:56 | 2023-04-04 |  |

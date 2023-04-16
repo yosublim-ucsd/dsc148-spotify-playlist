@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Pm0RFqsA0C.md) - [plain]
 
 > 90년대 댄스를 즐기고 싶은 사람 손!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,587 likes - 150 songs - 9 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,582 likes - 150 songs - 9 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Pm0RFqsA0C.md) - [plain]
 | 35 | [December](https://open.spotify.com/track/5rpFNrOoB6rVKc0K8Gv9Qx) | [TURBO](https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G) | [BORN AGAIN](https://open.spotify.com/album/5t40BdoTOPrSnUcWDoGA6o) | 4:20 |
 | 36 | [안되나요](https://open.spotify.com/track/7JXQOKFhZ0h8VrYdWbwM8F) | [Realslow](https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn) | [Like A Movie](https://open.spotify.com/album/71bHxIobu3Ib3oSL3A4jKj) | 4:30 |
 | 37 | [3!4!](https://open.spotify.com/track/5ZRS1jfampQ4mVfNidYZfk) | [Roo'RA](https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca) | [All System Go](https://open.spotify.com/album/7tyc2JJtnIBo4hKDmhCgjk) | 4:09 |
-| 38 | [We are the future](https://open.spotify.com/track/2khPCdofF2cFTDKjINZavV) | [H.O.T.](https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS) | [Wolf And Sheep](https://open.spotify.com/album/2RWrsv0kIKreXvm7IrMeYN) | 3:40 |
+| 38 | [애송이의 사랑](https://open.spotify.com/track/5mCY172DdlbnXfXWoLINmF) | [Yangpa](https://open.spotify.com/artist/05Tt2bRgkP3yY2TnpRMvpS) | [애송이의 사랑](https://open.spotify.com/album/2vCLAlhvbVkIgxOX3YFi3b) | 3:40 |
 | 39 | [All For You](https://open.spotify.com/track/06Y6AQOxZw8Ybibi1ELCoi) | [COOL](https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9) | [Cool Best](https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA) | 4:15 |
 | 40 | [To My Boyfriend](https://open.spotify.com/track/0qD5kstOSUeLUQgW3cuhcD) | [Fin.K.L](https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS) | [Fine Killing Liberty : Blue Rain](https://open.spotify.com/album/7qYBfdhb8Lq4icwXhHoXoe) | 3:58 |
-| 41 | [애송이의 사랑](https://open.spotify.com/track/5mCY172DdlbnXfXWoLINmF) | [Yangpa](https://open.spotify.com/artist/05Tt2bRgkP3yY2TnpRMvpS) | [애송이의 사랑](https://open.spotify.com/album/2vCLAlhvbVkIgxOX3YFi3b) | 3:40 |
+| 41 | [We are the future](https://open.spotify.com/track/2khPCdofF2cFTDKjINZavV) | [H.O.T.](https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS) | [Wolf And Sheep](https://open.spotify.com/album/2RWrsv0kIKreXvm7IrMeYN) | 3:40 |
 | 42 | [검은 고양이 네로](https://open.spotify.com/track/6Ykaa9o0JR7j06sk1jfXKJ) | [TURBO](https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G) | [280KM SPEED](https://open.spotify.com/album/3v28A8eeQlCOnsGZlwsfVI) | 3:13 |
 | 43 | [T.O.P\. \(Twinkling Of Paradise\)](https://open.spotify.com/track/3b0Bt0CBAEesLLO0CifT5r) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [T.O.P \- The 2nd Album](https://open.spotify.com/album/6pu3g3bwekMRa0QWQ7XGyG) | 4:41 |
 | 44 | [Sea Of Love](https://open.spotify.com/track/02AThDf6z3YEYObZdqskyB) | [FLY TO THE SKY](https://open.spotify.com/artist/7rlMZAZYtRkjFg4HHhvYeC) | [Back in Time](https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt) | 4:15 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Pm0RFqsA0C.md) - [plain]
 | 48 | [GO](https://open.spotify.com/track/5NJ46GTkjkN7pc5soOyiMu) | [Baby V.O.X](https://open.spotify.com/artist/7H5LMtjHqkyH4U8dpLR4lo) | [Baby V.O.X Special Album](https://open.spotify.com/album/0SEOmCDuKkiXZR2v5jnmd9) | 4:15 |
 | 49 | [날개 잃은 천사](https://open.spotify.com/track/2X8dHI8PeFg9h8iFwdfsEz) | [Roo'RA](https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca) | [날개 잃은 천사](https://open.spotify.com/album/2FtHrfBijh49IGnbjtlScO) | 4:02 |
 | 50 | [Eve's Warning](https://open.spotify.com/track/2HZ8C7JkjJWSBA84bYaH1R) | [Park Mi Kyung](https://open.spotify.com/artist/7vMwmuQgDCbHQNdd7Kj3vV) | [Jungle New Style](https://open.spotify.com/album/3Il58xylKEfnn8clhyWpJU) | 4:12 |
-| 51 | [Ruby](https://open.spotify.com/track/10dxjxvKWTuJmG6vBKMz8j) | [Fin.K.L](https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS) | [Fine Killing Liberty : Blue Rain](https://open.spotify.com/album/7qYBfdhb8Lq4icwXhHoXoe) | 4:11 |
-| 52 | [여름 안에서](https://open.spotify.com/track/0haGSQ43x5QhbloDnTxVZA) | [DEUX](https://open.spotify.com/artist/64RfnYDHtR3ZaLdtxAjPDA) | [Rhythm Light Beat Black](https://open.spotify.com/album/4gGo7s9JdJAohetReMJTpI) | 4:31 |
+| 51 | [여름 안에서](https://open.spotify.com/track/0haGSQ43x5QhbloDnTxVZA) | [DEUX](https://open.spotify.com/artist/64RfnYDHtR3ZaLdtxAjPDA) | [Rhythm Light Beat Black](https://open.spotify.com/album/4gGo7s9JdJAohetReMJTpI) | 4:31 |
+| 52 | [Ruby](https://open.spotify.com/track/10dxjxvKWTuJmG6vBKMz8j) | [Fin.K.L](https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS) | [Fine Killing Liberty : Blue Rain](https://open.spotify.com/album/7qYBfdhb8Lq4icwXhHoXoe) | 4:11 |
 | 53 | [Sleepless Rainy Night](https://open.spotify.com/track/6FkYXuozDHGdeMzvjpRjpG) | [Kim Gun Mo](https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO) | [잠못 드는 밤 비는 내리고](https://open.spotify.com/album/6xCo8nIse1WgSFS0TdvRTa) | 4:28 |
 | 54 | [Get Up](https://open.spotify.com/track/5PmzpRLsWoWhgjpFZ6Hh9i) | [Baby V.O.X](https://open.spotify.com/artist/7H5LMtjHqkyH4U8dpLR4lo) | [Baby V.O.X Special Album](https://open.spotify.com/album/0SEOmCDuKkiXZR2v5jnmd9) | 2:12 |
 | 55 | [Com\` Back](https://open.spotify.com/track/2I0ZI9OGrihh0Dbn8RVSr8) | [SECHSKIES](https://open.spotify.com/artist/6uRyNreOHUvWPNGnKfIo27) | [Com\` Back](https://open.spotify.com/album/3XWtqLXDZycu7Q0BGofhiq) | 3:52 |
@@ -88,9 +88,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Pm0RFqsA0C.md) - [plain]
 | 78 | [비의 랩소디](https://open.spotify.com/track/0zXc1HfRIwrf7j2vcvDAjN) | [최재훈](https://open.spotify.com/artist/5dL3HWKQaQBnqhIDsMZQBB) | [Return](https://open.spotify.com/album/4tFPCuB69IGx1YyvrhNwEV) | 4:21 |
 | 79 | [너희가 힙합을 아느냐?](https://open.spotify.com/track/2XbeVUIpalh7O9FZflpydb) | [Drunken Tiger](https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI) | [Year of The Tiger](https://open.spotify.com/album/0bU84bQLsRzW4THAlnQGw0) | 3:40 |
 | 80 | [뿌요뿌요](https://open.spotify.com/track/4FyJtlsvCNO8uS58aqI354) | [UP](https://open.spotify.com/artist/1gjzJCtXM9MERO7IyUNLUN) | [Second Birth](https://open.spotify.com/album/62tR9ZoFJr4GcfTMgjDacm) | 4:00 |
-| 81 | [Magic carpet ride](https://open.spotify.com/track/5rtSUuJx5VMaG88z9YEJUa) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [Jaurim, The Wonder Land](https://open.spotify.com/album/5e0Jv8JbDWQxbRZq3xhZE3) | 3:33 |
+| 81 | [I Love You](https://open.spotify.com/track/0O5TFim1TzHy46xZTpoWN1) | [Cha Tae Hyun](https://open.spotify.com/artist/3TQcPdZGQoeUMmScKHHgh3) | [Accident](https://open.spotify.com/album/2HkKsqlpwGC68BEQFy6nGX) | 3:05 |
 | 82 | [Shaky Friendship](https://open.spotify.com/track/3dG8hABjshvQOkCtcq9k7R) | [Hong Kyung\-min](https://open.spotify.com/artist/6CeGrlHkhTuqMVLDQRQ4qy) | [홍경민 Vol\. 3](https://open.spotify.com/album/0LGwglKMxT0zZ97bzAzjMU) | 3:56 |
-| 83 | [I Love You](https://open.spotify.com/track/0O5TFim1TzHy46xZTpoWN1) | [Cha Tae Hyun](https://open.spotify.com/artist/3TQcPdZGQoeUMmScKHHgh3) | [Accident](https://open.spotify.com/album/2HkKsqlpwGC68BEQFy6nGX) | 3:05 |
+| 83 | [Magic carpet ride](https://open.spotify.com/track/5rtSUuJx5VMaG88z9YEJUa) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [Jaurim, The Wonder Land](https://open.spotify.com/album/5e0Jv8JbDWQxbRZq3xhZE3) | 3:33 |
 | 84 | [Unreasonable Reason](https://open.spotify.com/track/2FUiNAUxiuHwLFexjh3uFo) | [Park Mi Kyung](https://open.spotify.com/artist/7vMwmuQgDCbHQNdd7Kj3vV) | [이유같지 않은 이유](https://open.spotify.com/album/62H2Sd5Up0rUnftGbRjjuO) | 3:57 |
 | 85 | [SWEETY](https://open.spotify.com/track/2WOcdPaRHZp20PwaGOk602) | [Lee Ji Hye](https://open.spotify.com/artist/4fjnGkj0w54KWyIk2VTW7B), [장석현](https://open.spotify.com/artist/3StglvxBkZBZ0fk0ONsTSy), [윤보민](https://open.spotify.com/artist/1rpdg91Cnpy6E6woB0JEmk), [DINDIN](https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z) | [투유 프로젝트 \- 슈가맨 Pt.33](https://open.spotify.com/album/58KgXF6gkzxLtu19adWtZL) | 3:32 |
 | 86 | [동네](https://open.spotify.com/track/5YKTjm1NVqGAFsuuzKHNG8) | [Kim Hyun Chul](https://open.spotify.com/artist/39Jf69SNjTiIQfCQyLh4Gb) | [김현철 1집 오랜만에/동네](https://open.spotify.com/album/1cdhF1Mi82sHEttpJiOkNh) | 4:32 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Pm0RFqsA0C.md) - [plain]
 | 92 | [Show](https://open.spotify.com/track/2QFRLSOaX1jjV7nNoCQSKO) | [Kim Won Jun](https://open.spotify.com/artist/0XojSZQ9oNETM8AtA9kJe8) | [Show](https://open.spotify.com/album/0vqRnu3TWGSCA5rmTu4pTw) | 3:47 |
 | 93 | [Love is gone](https://open.spotify.com/track/0DBhDnGxwmHV70ATccFPtD) | [Kim Gun Mo](https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO) | [Myself](https://open.spotify.com/album/6mlVLQt9U7RD7hYWWNwoe9) | 3:59 |
 | 94 | [Missing You](https://open.spotify.com/track/7fKZEW2QI7hdRITkMJZY9N) | [Baby V.O.X](https://open.spotify.com/artist/7H5LMtjHqkyH4U8dpLR4lo) | [Come Come Come baby](https://open.spotify.com/album/0SwgQkiMgFLn7dLKj0yOcW) | 3:51 |
-| 95 | [째즈 카페](https://open.spotify.com/track/0SwSiNArqc58nd21Zfj1Ow) | [Byun Jin\-Sub](https://open.spotify.com/artist/19TSeYJNZVClzoWb6hUVr7), [Shin Hae Chul](https://open.spotify.com/artist/0X7uU5t8s4p9vXE4PjPvfn) | [신해철](https://open.spotify.com/album/4m0fkoRpLFiJALSqwZ1ibX) | 4:58 |
-| 96 | [You’Re Just At A Higher Place Than Me](https://open.spotify.com/track/3GnMlkzjET1fWIpIOQE8zv) | [Shin Seung Hun](https://open.spotify.com/artist/4xgRWQOK2y3pGRFtmWNjyw) | [나보다 조금 더 높은곳에 니가 있을뿐](https://open.spotify.com/album/3J8FrMezc82fIZziATBdcH) | 4:57 |
+| 95 | [You’Re Just At A Higher Place Than Me](https://open.spotify.com/track/3GnMlkzjET1fWIpIOQE8zv) | [Shin Seung Hun](https://open.spotify.com/artist/4xgRWQOK2y3pGRFtmWNjyw) | [나보다 조금 더 높은곳에 니가 있을뿐](https://open.spotify.com/album/3J8FrMezc82fIZziATBdcH) | 4:57 |
+| 96 | [째즈 카페](https://open.spotify.com/track/0SwSiNArqc58nd21Zfj1Ow) | [Byun Jin\-Sub](https://open.spotify.com/artist/19TSeYJNZVClzoWb6hUVr7), [Shin Hae Chul](https://open.spotify.com/artist/0X7uU5t8s4p9vXE4PjPvfn) | [신해철](https://open.spotify.com/album/4m0fkoRpLFiJALSqwZ1ibX) | 4:58 |
 | 97 | [날개](https://open.spotify.com/track/1QQkOKDSk8bdR5aqzR0WeL) | [언타이틀](https://open.spotify.com/artist/0nOqGVyoTpF3SUOIMZk3v2) | [The blue color](https://open.spotify.com/album/2FpdDy17iRIIYVw0aTKLdA) | 3:46 |
 | 98 | [Sad Fate](https://open.spotify.com/track/3cgyPqSOEKIjW63CeOyJb1) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7) | [Big 5](https://open.spotify.com/album/1jePHxR3ksfXevvOi2IiiN) | 4:04 |
 | 99 | [Speed](https://open.spotify.com/track/3c2FIZMJrhl7BrEEKHGiG0) | [Kim Gun Mo](https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO) | [Exchange Kg\. M4](https://open.spotify.com/album/0r7DQWB1NLwAPxC4zlQoVJ) | 3:46 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Pm0RFqsA0C.md) - [plain]
 | 149 | [Git it up!](https://open.spotify.com/track/5Dg2iJomKtU2MxHK8BUkzn) | [H.O.T.](https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS) | [I Yah! \- The 4th Album](https://open.spotify.com/album/2hTRBrQt64fYVfZl9viZh3) | 4:16 |
 | 150 | [First Sight](https://open.spotify.com/track/7A4eu80BnbdWEAEBO7pTyC) | [Kim Gun Mo](https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO) | [잠못 드는 밤 비는 내리고](https://open.spotify.com/album/6xCo8nIse1WgSFS0TdvRTa) | 3:37 |
 
-Snapshot ID: `MTYxMjE4MTkzNCwwMDAwMDAwMGRiOWUwODQ1MzI1Njk0OTJmZDliOThkZWZiMjg5ZWVi`
+Snapshot ID: `MTYxMjE4MTkzNCwwMDAwMDAwMGY1MWMwYmFlN2QwZDA3NDk4Yzc4MTQzZDcwNjNhNTlj`

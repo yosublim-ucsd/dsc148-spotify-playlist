@@ -1,12 +1,12 @@
 {
   "description": "Let's mix it. Cover: GAYLE",
-  "num_followers": 98140,
+  "num_followers": 98241,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg0MDAwMCwwMDAwMDAwMGI1MThmNjYzZWQ2YWU2NzVkNjgwNzVlN2E0YzUyNjAy",
+  "snapshot_id": "MTY4MDg0MDAwMCwwMDAwMDAwMGZjMzIyYWRiMTE3ZjUyODZmZTkwZThkYWYxYzUwNjRm",
   "tracks": [
     {
       "added_at": "2023-04-07 04:00:00",
@@ -495,6 +495,22 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
+        "name": "5SOS5",
+        "url": "https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 206361,
+      "name": "COMPLETE MESS",
+      "url": "https://open.spotify.com/track/48kpWTPYYy5Edp3CHwrrOj"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/0fAeiVQKeMPvewBk7UXsSm"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 172466,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/3ryXl6OFAr9fzUpIjAnHIY"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "5SOS5",
-        "url": "https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 206361,
-      "name": "COMPLETE MESS",
-      "url": "https://open.spotify.com/track/48kpWTPYYy5Edp3CHwrrOj"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
+        "name": "5SOS5",
+        "url": "https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 215734,
+      "name": "Bad Omens",
+      "url": "https://open.spotify.com/track/2ovVwEXwcRYuIfnfJedGnQ"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
         "name": "Insanity",
         "url": "https://open.spotify.com/album/5uaMyd4eWrWSXVPX6hPgBm"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 183132,
       "name": "Insanity",
       "url": "https://open.spotify.com/track/01Cbf3nijsIYjKcqdDGvqa"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "5SOS5",
-        "url": "https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 215734,
-      "name": "Bad Omens",
-      "url": "https://open.spotify.com/track/2ovVwEXwcRYuIfnfJedGnQ"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -995,6 +995,22 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
+        "name": "eighteen",
+        "url": "https://open.spotify.com/album/5X37ePjevJgwrKDzk9S3mY"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "duration_ms": 189179,
+      "name": "eighteen",
+      "url": "https://open.spotify.com/track/37ZOqyxz7B7bmIa2sq5odC"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
         "name": "Fix Yourself, Not the World",
         "url": "https://open.spotify.com/album/2PZIytLiCWDHEjAXuwkVKz"
       },
@@ -1027,38 +1043,18 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "eighteen",
-        "url": "https://open.spotify.com/album/5X37ePjevJgwrKDzk9S3mY"
+        "name": "If I Can Dream (From The Original Motion Picture Soundtrack ELVIS)",
+        "url": "https://open.spotify.com/album/5q021NVGXBp7c9QPpZnijt"
       },
       "artists": [
         {
-          "name": "Henry Moodie",
-          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
         }
       ],
-      "duration_ms": 189179,
-      "name": "eighteen",
-      "url": "https://open.spotify.com/track/37ZOqyxz7B7bmIa2sq5odC"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "FREAK (Feat. jxdn)",
-        "url": "https://open.spotify.com/album/4mzZ6AB3vMXeuz2W0AWsN5"
-      },
-      "artists": [
-        {
-          "name": "Beauty School Dropout",
-          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
-        },
-        {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
-        }
-      ],
-      "duration_ms": 149142,
-      "name": "FREAK (Feat. jxdn)",
-      "url": "https://open.spotify.com/track/59QtD84KONsWuBFL7bwQrP"
+      "duration_ms": 196000,
+      "name": "If I Can Dream (From The Original Motion Picture Soundtrack ELVIS)",
+      "url": "https://open.spotify.com/track/4yibMEwSzelLmFtyXwWwZs"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1079,18 +1075,22 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "If I Can Dream (From The Original Motion Picture Soundtrack ELVIS)",
-        "url": "https://open.spotify.com/album/5q021NVGXBp7c9QPpZnijt"
+        "name": "FREAK (Feat. jxdn)",
+        "url": "https://open.spotify.com/album/4mzZ6AB3vMXeuz2W0AWsN5"
       },
       "artists": [
         {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+          "name": "Beauty School Dropout",
+          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
+        },
+        {
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
         }
       ],
-      "duration_ms": 196000,
-      "name": "If I Can Dream (From The Original Motion Picture Soundtrack ELVIS)",
-      "url": "https://open.spotify.com/track/4yibMEwSzelLmFtyXwWwZs"
+      "duration_ms": 149142,
+      "name": "FREAK (Feat. jxdn)",
+      "url": "https://open.spotify.com/track/59QtD84KONsWuBFL7bwQrP"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1343,30 +1343,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "The Credits",
-        "url": "https://open.spotify.com/album/6bKpBgTWnZAfSMS7Whj1qu"
-      },
-      "artists": [
-        {
-          "name": "Arrows in Action",
-          "url": "https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ"
-        },
-        {
-          "name": "Loveless",
-          "url": "https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ"
-        },
-        {
-          "name": "Magnolia Park",
-          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
-        }
-      ],
-      "duration_ms": 184180,
-      "name": "The Credits",
-      "url": "https://open.spotify.com/track/7LeRrm1Cg4yCLe3YtrxC3n"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "Twinkle Twinkle",
         "url": "https://open.spotify.com/album/1ybrTFXVkVuSmFdS0twHzb"
       },
@@ -1395,6 +1371,30 @@
       "duration_ms": 118759,
       "name": "One of the Guys",
       "url": "https://open.spotify.com/track/4jXEvctpjLM9moyDwG8SGp"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "The Credits",
+        "url": "https://open.spotify.com/album/6bKpBgTWnZAfSMS7Whj1qu"
+      },
+      "artists": [
+        {
+          "name": "Arrows in Action",
+          "url": "https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ"
+        },
+        {
+          "name": "Loveless",
+          "url": "https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ"
+        },
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        }
+      ],
+      "duration_ms": 184180,
+      "name": "The Credits",
+      "url": "https://open.spotify.com/track/7LeRrm1Cg4yCLe3YtrxC3n"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Blood Bunny",
-        "url": "https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA"
-      },
-      "artists": [
-        {
-          "name": "chloe moriondo",
-          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
-        }
-      ],
-      "duration_ms": 158306,
-      "name": "Bodybag",
-      "url": "https://open.spotify.com/track/3XlrbYlaUFnDYGfRcdoYRU"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "PainHub",
         "url": "https://open.spotify.com/album/0SamMMaFRb5EgaQadXP2Yx"
       },
@@ -1551,18 +1535,18 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Every Heart But Mine",
-        "url": "https://open.spotify.com/album/6vDayREemPdb81FBBGaiX8"
+        "name": "Blood Bunny",
+        "url": "https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA"
       },
       "artists": [
         {
-          "name": "Dylan",
-          "url": "https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk"
+          "name": "chloe moriondo",
+          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
         }
       ],
-      "duration_ms": 195275,
-      "name": "Every Heart But Mine",
-      "url": "https://open.spotify.com/track/3NdrWLR4BsyiCGbQQmuwSL"
+      "duration_ms": 158306,
+      "name": "Bodybag",
+      "url": "https://open.spotify.com/track/3XlrbYlaUFnDYGfRcdoYRU"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1579,6 +1563,22 @@
       "duration_ms": 159832,
       "name": "<maybe> it's my fault",
       "url": "https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Every Heart But Mine",
+        "url": "https://open.spotify.com/album/6vDayREemPdb81FBBGaiX8"
+      },
+      "artists": [
+        {
+          "name": "Dylan",
+          "url": "https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk"
+        }
+      ],
+      "duration_ms": 195275,
+      "name": "Every Heart But Mine",
+      "url": "https://open.spotify.com/track/3NdrWLR4BsyiCGbQQmuwSL"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1719,18 +1719,18 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Slowly Healing",
-        "url": "https://open.spotify.com/album/7AbtRZ6tCp19EsBFyAiVm7"
+        "name": "m.i.a.",
+        "url": "https://open.spotify.com/album/48dzjyMdd8UILx5WRIF1v8"
       },
       "artists": [
         {
-          "name": "Huddy",
-          "url": "https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f"
+          "name": "MICO",
+          "url": "https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG"
         }
       ],
-      "duration_ms": 154466,
-      "name": "Slowly Healing",
-      "url": "https://open.spotify.com/track/67nyrWSrrWoUDTZJX4MjTl"
+      "duration_ms": 152000,
+      "name": "m.i.a.",
+      "url": "https://open.spotify.com/track/4SZsO44hUGeMb5dVJbncez"
     }
   ],
   "unique_name": "Pop Rock",

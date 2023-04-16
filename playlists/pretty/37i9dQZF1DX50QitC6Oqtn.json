@@ -1,12 +1,12 @@
 {
   "description": "Because we all deserve great pop love songs in one playlist.",
-  "num_followers": 3587949,
+  "num_followers": 3588076,
   "original_name": "Love Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODI5NzcwMSwwMDAwMDAwMGY0OGY3MzU5ZDY0MTRlZGIwODI3MTM4OGRiNzExZTRh",
+  "snapshot_id": "MTY3ODI5NzcwMSwwMDAwMDAwMGRjODQ4ZjBlMWYyYzc5MGY0NjBhODU0MWYyYTY3OTk3",
   "tracks": [
     {
       "added_at": "2022-12-08 16:33:34",
@@ -223,22 +223,6 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "this is what ____ feels like (Vol. 1-4)",
-        "url": "https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT"
-      },
-      "artists": [
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        }
-      ],
-      "duration_ms": 120308,
-      "name": "this is what falling in love feels like",
-      "url": "https://open.spotify.com/track/2PWTZV5znjLtZC5T1EVJvL"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
         "name": "A Thousand Years",
         "url": "https://open.spotify.com/album/15yvc643iYfQtb6zh9NEJo"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 285120,
       "name": "A Thousand Years",
       "url": "https://open.spotify.com/track/6lanRgr6wXibZr8KgzXxBl"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
+        "name": "this is what ____ feels like (Vol. 1-4)",
+        "url": "https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 120308,
+      "name": "this is what falling in love feels like",
+      "url": "https://open.spotify.com/track/2PWTZV5znjLtZC5T1EVJvL"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "Positions",
-        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 201882,
-      "name": "pov",
-      "url": "https://open.spotify.com/track/3UoULw70kMsiVXxW0L3A33"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
         "name": "I GUESS I'M IN LOVE",
         "url": "https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 204093,
       "name": "I GUESS I'M IN LOVE",
       "url": "https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
+        "name": "Positions",
+        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 201882,
+      "name": "pov",
+      "url": "https://open.spotify.com/track/3UoULw70kMsiVXxW0L3A33"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "How Do You Sleep?",
-        "url": "https://open.spotify.com/album/7baaCf70tVcUBL2bbkuXjo"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 202204,
-      "name": "How Do You Sleep?",
-      "url": "https://open.spotify.com/track/6b2RcmUt1g9N9mQ3CbjX2Y"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
         "name": "Blood Harmony",
         "url": "https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 190348,
       "name": "Let's Fall in Love for the Night",
       "url": "https://open.spotify.com/track/6I0KEvFfWszVJiCy5hum4V"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
+        "name": "How Do You Sleep?",
+        "url": "https://open.spotify.com/album/7baaCf70tVcUBL2bbkuXjo"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 202204,
+      "name": "How Do You Sleep?",
+      "url": "https://open.spotify.com/track/6b2RcmUt1g9N9mQ3CbjX2Y"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
+        "name": "Halcyon Nights",
+        "url": "https://open.spotify.com/album/1gKVOJVxDTqw9IaCbKaYd4"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 154440,
+      "name": "How Long Will I Love You",
+      "url": "https://open.spotify.com/track/3X003bO0MMxXEsJJxidiig"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
         "name": "Shawn Mendes",
         "url": "https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s"
       },
@@ -1191,18 +1207,18 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "Halcyon Nights",
-        "url": "https://open.spotify.com/album/1gKVOJVxDTqw9IaCbKaYd4"
+        "name": "All-4-One",
+        "url": "https://open.spotify.com/album/4L5ZA0GukWNWjsk9b7HHDy"
       },
       "artists": [
         {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+          "name": "All-4-One",
+          "url": "https://open.spotify.com/artist/1B8ySGDAiXTCvnJNH4HSCG"
         }
       ],
-      "duration_ms": 154440,
-      "name": "How Long Will I Love You",
-      "url": "https://open.spotify.com/track/3X003bO0MMxXEsJJxidiig"
+      "duration_ms": 259853,
+      "name": "I Swear",
+      "url": "https://open.spotify.com/track/4WUnM4KNZ0kjp0CUeoyOnS"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -1223,22 +1239,6 @@
       "duration_ms": 281066,
       "name": "I'll Never Love Again - Film Version",
       "url": "https://open.spotify.com/track/4A7EkKijzA4ryEoCRWJzdG"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
-        "name": "All-4-One",
-        "url": "https://open.spotify.com/album/4L5ZA0GukWNWjsk9b7HHDy"
-      },
-      "artists": [
-        {
-          "name": "All-4-One",
-          "url": "https://open.spotify.com/artist/1B8ySGDAiXTCvnJNH4HSCG"
-        }
-      ],
-      "duration_ms": 259853,
-      "name": "I Swear",
-      "url": "https://open.spotify.com/track/4WUnM4KNZ0kjp0CUeoyOnS"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "America Town",
-        "url": "https://open.spotify.com/album/5MqEXYwwyJYjOb3g7vJ9ZY"
-      },
-      "artists": [
-        {
-          "name": "Five For Fighting",
-          "url": "https://open.spotify.com/artist/7FgMLbnZVrEnir95O0YujA"
-        }
-      ],
-      "duration_ms": 221693,
-      "name": "Superman (It's Not Easy)",
-      "url": "https://open.spotify.com/track/3TwtrR1yNLY1PMPsrGQpOp"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
         "name": "Electronic Earth (Expanded Edition)",
         "url": "https://open.spotify.com/album/6PBBbXmYV7dKnaik0fjkOI"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 271813,
       "name": "Beneath Your Beautiful (feat. Emeli Sand\u00e9)",
       "url": "https://open.spotify.com/track/2EcsgXlxz99UMDSPg5T8RF"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
+        "name": "America Town",
+        "url": "https://open.spotify.com/album/5MqEXYwwyJYjOb3g7vJ9ZY"
+      },
+      "artists": [
+        {
+          "name": "Five For Fighting",
+          "url": "https://open.spotify.com/artist/7FgMLbnZVrEnir95O0YujA"
+        }
+      ],
+      "duration_ms": 221693,
+      "name": "Superman (It's Not Easy)",
+      "url": "https://open.spotify.com/track/3TwtrR1yNLY1PMPsrGQpOp"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -1643,22 +1643,18 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "There's No Way (feat. Julia Michaels)",
-        "url": "https://open.spotify.com/album/0fZ8R5krm1zAkzUFjqwtpU"
+        "name": "Only Wanna Be With You (Pok\u00e9mon 25 Version)",
+        "url": "https://open.spotify.com/album/2xZhidR4y5OPpCRYF09XB4"
       },
       "artists": [
         {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         }
       ],
-      "duration_ms": 174860,
-      "name": "There's No Way (feat. Julia Michaels)",
-      "url": "https://open.spotify.com/track/3F7bhRhNpY4YKrwa4kGeUz"
+      "duration_ms": 241360,
+      "name": "Only Wanna Be With You - Pok\u00e9mon 25 Version",
+      "url": "https://open.spotify.com/track/3SawmGBjjq8EOYZJV11cJm"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -1679,18 +1675,22 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "Only Wanna Be With You (Pok\u00e9mon 25 Version)",
-        "url": "https://open.spotify.com/album/2xZhidR4y5OPpCRYF09XB4"
+        "name": "There's No Way (feat. Julia Michaels)",
+        "url": "https://open.spotify.com/album/0fZ8R5krm1zAkzUFjqwtpU"
       },
       "artists": [
         {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
         }
       ],
-      "duration_ms": 241360,
-      "name": "Only Wanna Be With You - Pok\u00e9mon 25 Version",
-      "url": "https://open.spotify.com/track/3SawmGBjjq8EOYZJV11cJm"
+      "duration_ms": 174860,
+      "name": "There's No Way (feat. Julia Michaels)",
+      "url": "https://open.spotify.com/track/3F7bhRhNpY4YKrwa4kGeUz"
     },
     {
       "added_at": "2022-12-08 16:33:34",

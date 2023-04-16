@@ -1,12 +1,12 @@
 {
   "description": "\u90fd\u4f1a\u306e\u7a7a\u3092\u898b\u4e0a\u3052\u308b\u3068\u8074\u3053\u3048\u3066\u304f\u308b\u97f3\u697d\u3002 cover painting: \u6c38\u4e95\u535a",
-  "num_followers": 114344,
+  "num_followers": 114406,
   "original_name": "\u90fd\u4f1a\u306e\u7a7a\u3068\u97f3\u697d\u3068",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTM5ODAwMCwwMDAwMDAwMDI3ZjM4NWNlNzMxOTRiNDQ3NDFiYTYyZTdkMGY2NWFi",
+  "snapshot_id": "MTY4MTM5ODAwMCwwMDAwMDAwMGM4OWU5NjZlNWE3YmIzMTUxZDllOWQzZjUwNDAzYWQy",
   "tracks": [
     {
       "added_at": "2023-04-13 15:00:00",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
+        "name": "Softest Touch",
+        "url": "https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 164282,
+      "name": "Softest Touch",
+      "url": "https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD"
+    },
+    {
+      "added_at": "2023-04-13 15:00:00",
+      "album": {
         "name": "Two Tens (feat. Anderson .Paak)",
         "url": "https://open.spotify.com/album/32iVvfIYkmugGRxcTlzYjr"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 152371,
       "name": "Two Tens (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL"
-    },
-    {
-      "added_at": "2023-04-13 15:00:00",
-      "album": {
-        "name": "Softest Touch",
-        "url": "https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 164282,
-      "name": "Softest Touch",
-      "url": "https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD"
     },
     {
       "added_at": "2023-04-13 15:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
-        "name": "Since I Have A Lover",
-        "url": "https://open.spotify.com/album/6rnB57BMxdU6Z2TNExuPh7"
-      },
-      "artists": [
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 282000,
-      "name": "Since I Have A Lover",
-      "url": "https://open.spotify.com/track/1qtwebmDBKPQEggSKGoSfy"
-    },
-    {
-      "added_at": "2023-04-13 15:00:00",
-      "album": {
         "name": "grace",
         "url": "https://open.spotify.com/album/0i6jJH5oVQh0KL8INSSPpu"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 289541,
       "name": "grace",
       "url": "https://open.spotify.com/track/7tnYsRepXLaNhqj4xtcWP2"
+    },
+    {
+      "added_at": "2023-04-13 15:00:00",
+      "album": {
+        "name": "Since I Have A Lover",
+        "url": "https://open.spotify.com/album/6rnB57BMxdU6Z2TNExuPh7"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 282000,
+      "name": "Since I Have A Lover",
+      "url": "https://open.spotify.com/track/1qtwebmDBKPQEggSKGoSfy"
     },
     {
       "added_at": "2023-04-13 15:00:00",
@@ -943,6 +943,22 @@
       "duration_ms": 252416,
       "name": "After Party",
       "url": "https://open.spotify.com/track/2eq9zlqLn7RqWkZrF85Ox4"
+    },
+    {
+      "added_at": "2023-04-13 15:00:00",
+      "album": {
+        "name": "Fallin'",
+        "url": "https://open.spotify.com/album/3jRxPwXTP8INLOVpmDxDxo"
+      },
+      "artists": [
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 260532,
+      "name": "Fallin'",
+      "url": "https://open.spotify.com/track/1pkK7kZtxGBoXb583vDS9E"
     },
     {
       "added_at": "2023-04-13 15:00:00",
@@ -1007,18 +1023,22 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
-        "name": "Fallin'",
-        "url": "https://open.spotify.com/album/3jRxPwXTP8INLOVpmDxDxo"
+        "name": "Waterfall",
+        "url": "https://open.spotify.com/album/2GDxorOmiV0k1LnoAoiTIi"
       },
       "artists": [
         {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 260532,
-      "name": "Fallin'",
-      "url": "https://open.spotify.com/track/1pkK7kZtxGBoXb583vDS9E"
+      "duration_ms": 232120,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/3X2Aw6bQ7TfMMKsTzjTlDg"
     },
     {
       "added_at": "2023-04-13 15:00:00",
@@ -1039,26 +1059,6 @@
       "duration_ms": 211782,
       "name": "To Be Yours (feat. Claud)",
       "url": "https://open.spotify.com/track/3lNBpsW30g2xSngVw2l1U7"
-    },
-    {
-      "added_at": "2023-04-13 15:00:00",
-      "album": {
-        "name": "Waterfall",
-        "url": "https://open.spotify.com/album/2GDxorOmiV0k1LnoAoiTIi"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 232120,
-      "name": "Waterfall",
-      "url": "https://open.spotify.com/track/3X2Aw6bQ7TfMMKsTzjTlDg"
     },
     {
       "added_at": "2023-04-13 15:00:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
-        "name": "First Love (2022 Mix)",
-        "url": "https://open.spotify.com/album/1TwR0thoGz0hCk0ot73xID"
-      },
-      "artists": [
-        {
-          "name": "Hikaru Utada",
-          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
-        }
-      ],
-      "duration_ms": 261122,
-      "name": "First Love - 2022 Mix",
-      "url": "https://open.spotify.com/track/0PvuVoqa1IHCnTrNnltS70"
-    },
-    {
-      "added_at": "2023-04-13 15:00:00",
-      "album": {
         "name": "GABRIEL",
         "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 151301,
       "name": "GET IT",
       "url": "https://open.spotify.com/track/4LaZ8RpIP6DIgN73bXQVlO"
+    },
+    {
+      "added_at": "2023-04-13 15:00:00",
+      "album": {
+        "name": "First Love (2022 Mix)",
+        "url": "https://open.spotify.com/album/1TwR0thoGz0hCk0ot73xID"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "duration_ms": 261122,
+      "name": "First Love - 2022 Mix",
+      "url": "https://open.spotify.com/track/0PvuVoqa1IHCnTrNnltS70"
     },
     {
       "added_at": "2023-04-13 15:00:00",
@@ -1383,38 +1383,6 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
-        "name": "Impurities",
-        "url": "https://open.spotify.com/album/4bN7xco6FT5lDwmBcZ18tP"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 229203,
-      "name": "Impurities",
-      "url": "https://open.spotify.com/track/0yUpBx2Y5KwzENVCshSy3M"
-    },
-    {
-      "added_at": "2023-04-13 15:00:00",
-      "album": {
-        "name": "The Sun Is Up Forever",
-        "url": "https://open.spotify.com/album/47axSNTeQ43lYBoW3simcR"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 224739,
-      "name": "The Sun Is Up Forever",
-      "url": "https://open.spotify.com/track/4i17ViZoevssgUvRifo0V5"
-    },
-    {
-      "added_at": "2023-04-13 15:00:00",
-      "album": {
         "name": "Good Care",
         "url": "https://open.spotify.com/album/6GE5HCTdt1M0ByOFLoXV4d"
       },
@@ -1439,22 +1407,18 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
-        "name": "CooCool",
-        "url": "https://open.spotify.com/album/4oPrQ3KXGrzE2DxJVnAU7F"
+        "name": "The Sun Is Up Forever",
+        "url": "https://open.spotify.com/album/47axSNTeQ43lYBoW3simcR"
       },
       "artists": [
         {
-          "name": "R\u00f3is\u00edn Murphy",
-          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
-        },
-        {
-          "name": "DJ Koze",
-          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
         }
       ],
-      "duration_ms": 271112,
-      "name": "CooCool",
-      "url": "https://open.spotify.com/track/0C8jkmcNV7VxyHemnI917F"
+      "duration_ms": 224739,
+      "name": "The Sun Is Up Forever",
+      "url": "https://open.spotify.com/track/4i17ViZoevssgUvRifo0V5"
     },
     {
       "added_at": "2023-04-13 15:00:00",
@@ -1479,6 +1443,42 @@
       "duration_ms": 225882,
       "name": "Curious (feat. Fabolous)",
       "url": "https://open.spotify.com/track/3ED40EjXiD4plW6UMteKGx"
+    },
+    {
+      "added_at": "2023-04-13 15:00:00",
+      "album": {
+        "name": "Impurities",
+        "url": "https://open.spotify.com/album/4bN7xco6FT5lDwmBcZ18tP"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 229203,
+      "name": "Impurities",
+      "url": "https://open.spotify.com/track/0yUpBx2Y5KwzENVCshSy3M"
+    },
+    {
+      "added_at": "2023-04-13 15:00:00",
+      "album": {
+        "name": "CooCool",
+        "url": "https://open.spotify.com/album/4oPrQ3KXGrzE2DxJVnAU7F"
+      },
+      "artists": [
+        {
+          "name": "R\u00f3is\u00edn Murphy",
+          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
+        },
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "duration_ms": 271112,
+      "name": "CooCool",
+      "url": "https://open.spotify.com/track/0C8jkmcNV7VxyHemnI917F"
     }
   ],
   "unique_name": "\u90fd\u4f1a\u306e\u7a7a\u3068\u97f3\u697d\u3068",

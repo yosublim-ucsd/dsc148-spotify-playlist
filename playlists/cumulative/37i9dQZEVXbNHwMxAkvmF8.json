@@ -2915,6 +2915,24 @@
     },
     {
       "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212953,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
+    },
+    {
+      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -3708,6 +3726,24 @@
       "duration_ms": 178714,
       "name": "El Barto",
       "url": "https://open.spotify.com/track/5HiMjc8jz0OeTnUQgp15FP"
+    },
+    {
+      "album": {
+        "name": "Last album",
+        "url": "https://open.spotify.com/album/1osdtqNJcPB5VLothrDKIp"
+      },
+      "artists": [
+        {
+          "name": "T\u00f3th Andi",
+          "url": "https://open.spotify.com/artist/3jsS2HaBW5WphHabBDxtQu"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159489,
+      "name": "Elhagyott",
+      "url": "https://open.spotify.com/track/0TbhapWcm8UxFS4wU27Ooa"
     },
     {
       "album": {
@@ -6770,7 +6806,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 128858,
       "name": "Kincsem 2",
       "url": "https://open.spotify.com/track/7kNQcIdtqUgXgbCsSoK6NF"
@@ -10022,7 +10058,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 176551,
       "name": "Paris",
       "url": "https://open.spotify.com/track/430AL9fjgrmLCHSYcgmA6i"
@@ -13242,7 +13278,7 @@
       ],
       "date_added": "2023-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-13",
+      "date_removed": null,
       "duration_ms": 124186,
       "name": "Tilidin",
       "url": "https://open.spotify.com/track/23A0p49PgR5YAyYzY8TAyc"
@@ -14902,7 +14938,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 180000,
       "name": "Zivatar",
       "url": "https://open.spotify.com/track/7fCnysGjGEav9xo33FGXLW"

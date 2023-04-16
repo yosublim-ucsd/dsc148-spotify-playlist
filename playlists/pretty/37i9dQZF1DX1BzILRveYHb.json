@@ -1,12 +1,12 @@
 {
   "description": "Easy listening pop that feels sunny wherever you are.",
-  "num_followers": 569396,
+  "num_followers": 569864,
   "original_name": "Sunny Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjI5NDAxNSwwMDAwMDAwMGI1OWJkMDQ2MWUzMjAxYjg3NmE1YzQ0YWQ4NjYyY2Y0",
+  "snapshot_id": "MTY3MjI5NDAxNSwwMDAwMDAwMDkyNDMxMzNiYjY0YzRkMGEzOTI0ZGQwMTJhZDgwZGI5",
   "tracks": [
     {
       "added_at": "2022-12-29 06:06:55",
@@ -159,18 +159,18 @@
     {
       "added_at": "2022-12-29 06:06:55",
       "album": {
-        "name": "Don't Kill the Magic",
-        "url": "https://open.spotify.com/album/0RZ4Ct4vegYBmL9g88TBNi"
+        "name": "Eyes Open",
+        "url": "https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3"
       },
       "artists": [
         {
-          "name": "MAGIC!",
-          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
+          "name": "Snow Patrol",
+          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
         }
       ],
-      "duration_ms": 224840,
-      "name": "Rude",
-      "url": "https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp"
+      "duration_ms": 267960,
+      "name": "Chasing Cars",
+      "url": "https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6"
     },
     {
       "added_at": "2022-12-29 06:06:55",
@@ -191,18 +191,18 @@
     {
       "added_at": "2022-12-29 06:06:55",
       "album": {
-        "name": "Eyes Open",
-        "url": "https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3"
+        "name": "Don't Kill the Magic",
+        "url": "https://open.spotify.com/album/0RZ4Ct4vegYBmL9g88TBNi"
       },
       "artists": [
         {
-          "name": "Snow Patrol",
-          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
+          "name": "MAGIC!",
+          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
         }
       ],
-      "duration_ms": 267960,
-      "name": "Chasing Cars",
-      "url": "https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6"
+      "duration_ms": 224840,
+      "name": "Rude",
+      "url": "https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp"
     },
     {
       "added_at": "2022-12-29 06:06:55",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-12-29 06:06:55",
       "album": {
-        "name": "August And Everything After",
-        "url": "https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ"
-      },
-      "artists": [
-        {
-          "name": "Counting Crows",
-          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
-        }
-      ],
-      "duration_ms": 272293,
-      "name": "Mr. Jones",
-      "url": "https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu"
-    },
-    {
-      "added_at": "2022-12-29 06:06:55",
-      "album": {
         "name": "Drops Of Jupiter",
         "url": "https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 259933,
       "name": "Drops of Jupiter (Tell Me)",
       "url": "https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA"
+    },
+    {
+      "added_at": "2022-12-29 06:06:55",
+      "album": {
+        "name": "August And Everything After",
+        "url": "https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ"
+      },
+      "artists": [
+        {
+          "name": "Counting Crows",
+          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
+        }
+      ],
+      "duration_ms": 272293,
+      "name": "Mr. Jones",
+      "url": "https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu"
     },
     {
       "added_at": "2022-12-29 06:06:55",
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-12-29 06:06:55",
       "album": {
-        "name": "Love Grows (Where My Rosemary Goes) & Other Gems",
-        "url": "https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y"
-      },
-      "artists": [
-        {
-          "name": "Edison Lighthouse",
-          "url": "https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa"
-        }
-      ],
-      "duration_ms": 174760,
-      "name": "Love Grows (Where My Rosemary Goes)",
-      "url": "https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh"
-    },
-    {
-      "added_at": "2022-12-29 06:06:55",
-      "album": {
         "name": "Blind Melon",
         "url": "https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 217106,
       "name": "No Rain",
       "url": "https://open.spotify.com/track/6txWz9UapYHVxEd7dDIHXT"
+    },
+    {
+      "added_at": "2022-12-29 06:06:55",
+      "album": {
+        "name": "Love Grows (Where My Rosemary Goes) & Other Gems",
+        "url": "https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y"
+      },
+      "artists": [
+        {
+          "name": "Edison Lighthouse",
+          "url": "https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa"
+        }
+      ],
+      "duration_ms": 174760,
+      "name": "Love Grows (Where My Rosemary Goes)",
+      "url": "https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh"
     },
     {
       "added_at": "2022-12-29 06:06:55",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-12-29 06:06:55",
       "album": {
-        "name": "Upside Down",
-        "url": "https://open.spotify.com/album/4nvgSs9EQXS5AIwprqq8OU"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 209546,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/0aJrYfARfCKzv6gXjhs4SZ"
-    },
-    {
-      "added_at": "2022-12-29 06:06:55",
-      "album": {
         "name": "Third Eye Blind",
         "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 268360,
       "name": "Semi-Charmed Life",
       "url": "https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl"
+    },
+    {
+      "added_at": "2022-12-29 06:06:55",
+      "album": {
+        "name": "Upside Down",
+        "url": "https://open.spotify.com/album/4nvgSs9EQXS5AIwprqq8OU"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 209546,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/0aJrYfARfCKzv6gXjhs4SZ"
     },
     {
       "added_at": "2022-12-29 06:06:55",
@@ -759,18 +759,18 @@
     {
       "added_at": "2022-12-29 06:06:55",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Semisonic",
-        "url": "https://open.spotify.com/album/4JDBx5wQ82jb8PjLYPBP8L"
+        "name": "Little Voice",
+        "url": "https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF"
       },
       "artists": [
         {
-          "name": "Semisonic",
-          "url": "https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0"
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
         }
       ],
-      "duration_ms": 274160,
-      "name": "Closing Time",
-      "url": "https://open.spotify.com/track/1A5V1sxyCLpKJezp75tUXn"
+      "duration_ms": 258826,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/4E6cwWJWZw2zWf7VFbH7wf"
     },
     {
       "added_at": "2022-12-29 06:06:55",
@@ -791,18 +791,18 @@
     {
       "added_at": "2022-12-29 06:06:55",
       "album": {
-        "name": "Little Voice",
-        "url": "https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF"
+        "name": "20th Century Masters: The Millennium Collection: Best Of Semisonic",
+        "url": "https://open.spotify.com/album/4JDBx5wQ82jb8PjLYPBP8L"
       },
       "artists": [
         {
-          "name": "Sara Bareilles",
-          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+          "name": "Semisonic",
+          "url": "https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0"
         }
       ],
-      "duration_ms": 258826,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/4E6cwWJWZw2zWf7VFbH7wf"
+      "duration_ms": 274160,
+      "name": "Closing Time",
+      "url": "https://open.spotify.com/track/1A5V1sxyCLpKJezp75tUXn"
     },
     {
       "added_at": "2022-12-29 06:06:55",

@@ -4,7 +4,7 @@
 
 > musica per quando non sai insomma come
 
-289 songs - 13 hr 34 min
+290 songs - 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Normale](https://open.spotify.com/track/6dy9z9gihX2vTErxPBwb5f) | [Selene Ice](https://open.spotify.com/artist/5PZmds1lJa2IF34jRVYo5i) | [AŠ](https://open.spotify.com/album/0rEUENxnbqXDRvd6NAZSYE) | 1:58 | 2022-05-06 | 2022-05-24 |
 | [Not Allowed](https://open.spotify.com/track/0jA4h2SD50Oak4C3Vn905a) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Who Really Cares](https://open.spotify.com/album/5tm1XKTwxHAL80b1yoPQ5U) | 2:47 | 2022-05-06 | 2022-07-27 |
 | [Not Allowed](https://open.spotify.com/track/3IznIgmXtrUaoPWpQTy5jB) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Who Really Cares](https://open.spotify.com/album/4oL7pMxnb04uuRI7ReXmuh) | 2:47 | 2022-07-22 |  |
+| [novocaine](https://open.spotify.com/track/2OrucC3HEPmZpkaQ05Nx0V) | [GenriX](https://open.spotify.com/artist/6hxcqtqpmf08pTDkffU5xx), [CORBAL](https://open.spotify.com/artist/2jjSx5EpZwv9iBAgFkGWPh), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [unfortunately yours,](https://open.spotify.com/album/1fm7CNqCCdnqOoxdb23VTs) | 3:15 | 2023-04-07 |  |
 | [Nu jeans e 'na maglietta](https://open.spotify.com/track/3AGZy82gF4NbHHHozfde8P) | [Nino D'Angelo](https://open.spotify.com/artist/4xhEhRE75hHgXMeNeeTTsx) | [60](https://open.spotify.com/album/4omJRDSgYbdT87DRuy1e1T) | 4:54 | 2022-06-13 | 2022-06-18 |
 | [nuts](https://open.spotify.com/track/11k8KTbNeG9iabeNXMuwf0) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [rainy bear](https://open.spotify.com/artist/080kPbQFzomkrfHW8U4XkZ) | [LIVE FOREVER](https://open.spotify.com/album/0xwtJXyI8H5fxIGVPvfYeI) | 1:25 | 2023-01-13 |  |
 | [nuts \(feat\. rainy bear\)](https://open.spotify.com/track/2SabxRgV7VMc1LRHgw0HIo) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [rainy bear](https://open.spotify.com/artist/77rBWNHXStkstapAO5w6rl) | [nuts \(feat\. rainy bear\)](https://open.spotify.com/album/6BLWg8PQC0yCeCeWSddKaI) | 1:25 | 2022-05-06 | 2022-12-03 |
@@ -291,7 +292,7 @@
 | [Washing Machine Heart](https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 2:08 | 2022-05-06 |  |
 | [WASTE](https://open.spotify.com/track/4NgherJDfCXWBZBYheM4jK) | [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [DISORDER](https://open.spotify.com/album/3yKGB4IYu6MeLkhFJFn9eI) | 2:00 | 2023-01-13 |  |
 | [Watch This \- ARIZONATEARS Pluggnb Remix](https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [ARIZONATEARS](https://open.spotify.com/artist/2xzyIzdjfeXX6FIQtlAAyw) | [Watch This \(ARIZONATEARS Pluggnb Remix\)](https://open.spotify.com/album/3VvPLpCZR5viLBFTbzm6E1) | 2:43 | 2023-02-28 |  |
-| [WORTH NOTHING \- Fast & Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [WORTH NOTHING \(Fast & Furious: Drift Tape/Phonk Vol 1\)](https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI) | 2:44 | 2022-11-07 |  |
+| [WORTH NOTHING \- Fast & Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [WORTH NOTHING \(Fast & Furious: Drift Tape/Phonk Vol 1\)](https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI) | 2:44 | 2022-11-07 | 2023-04-16 |
 | [XTC \(feat\. LA NIÑA & BigMama\)](https://open.spotify.com/track/6N0wZxSpYH5pm6XrubgxEy) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM), [LA NIÑA](https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj), [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [CLUB TOPPERIA](https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei) | 2:35 | 2022-06-03 | 2022-07-26 |
 | [ZOOM](https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [ZOOM](https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz) | 2:54 | 2022-05-06 | 2022-09-23 |
 | [Ратата](https://open.spotify.com/track/14YjOD4J7N1FGZMt5N4eIs) | [Konfuz](https://open.spotify.com/artist/0JHx4h8GAtjhmHMQ68iQiU) | [Ратата](https://open.spotify.com/album/43gbw596irkRsQM6Rv17BL) | 2:17 | 2022-05-20 | 2022-07-05 |

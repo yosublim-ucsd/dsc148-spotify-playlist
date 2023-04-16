@@ -4,7 +4,7 @@
 
 > The latest straight bars and Afro\-Trap\. Cover:  <a href="https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy?si=5kcYUJToRKKCA6nuJ2XUuw"> ODUMODUBLVCK </a>
 
-156 songs - 8 hr 16 min
+157 songs - 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Amigo](https://open.spotify.com/track/6UEW9NiyPzXxbhkjEiEHPe) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [Amigo](https://open.spotify.com/album/6iysreppwtVyUjTK8VTgJe) | 2:35 | 2021-10-14 | 2022-03-04 |
 | [AMMO](https://open.spotify.com/track/5HW3uYRMzmlLNHlnJZXD9U) | [Shane Eagle](https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV), [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv) | [AMMO](https://open.spotify.com/album/1j7tTQQ39XfjhJd97xiO26) | 3:50 | 2021-10-14 | 2022-03-17 |
 | [Animalistic](https://open.spotify.com/track/7Hvn6MDsWBj3aOVvJRu9Np) | [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw) | [Animalistic](https://open.spotify.com/album/1lyaP0XZFR1nF4XjjQo4ds) | 2:46 | 2021-10-14 |  |
-| [Another Me](https://open.spotify.com/track/69IVi92WUl9tN6Xw8UfGkR) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [B A H D](https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8) | 2:12 | 2022-06-09 |  |
+| [Another Me](https://open.spotify.com/track/69IVi92WUl9tN6Xw8UfGkR) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [B A H D](https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8) | 2:12 | 2022-06-09 | 2023-04-16 |
 | [ASTRONAUTE](https://open.spotify.com/track/0Mm1sVPZCrUqNcLK0Gug7a) | [Youssoupha](https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4) | [ASTRONAUTE](https://open.spotify.com/album/2BIMATZr1ZmgpYAoZOvGPT) | 3:27 | 2021-10-14 | 2022-11-04 |
 | [BACK IN UNI](https://open.spotify.com/track/1DjjSWom4la3p67sZcBWTN) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [BACK IN UNI](https://open.spotify.com/album/3QvPbmCWd2dOOB0ZztZN5I) | 2:30 | 2022-10-07 |  |
 | [BAD GUY](https://open.spotify.com/track/6wuIh8EH2MYLI5su3FZ935) | [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP) | [DEADLINES: FREE P2](https://open.spotify.com/album/5DvFNfnvFyPLDZp5gQm8ir) | 1:32 | 2022-10-21 |  |
@@ -84,6 +84,7 @@
 | [Khuphuka](https://open.spotify.com/track/0yonvZ8xFI5IYgOVaXTSa5) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Khuphuka](https://open.spotify.com/album/6UsHrbbrXsM36PT0BbGWjj) | 3:03 | 2022-05-26 |  |
 | [KingSize](https://open.spotify.com/track/3Up92OTxG9rcnWCGrB26w9) | [Octopizzo](https://open.spotify.com/artist/7Ijwdl32LSddH695Qn3q5o) | [FUEGO](https://open.spotify.com/album/2UBVY8AKfYWYJuIwamCbuE) | 3:40 | 2021-11-18 | 2022-02-03 |
 | [Koobi](https://open.spotify.com/track/197R5eZFfywBrXGQ6tBofH) | [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Reggie](https://open.spotify.com/artist/65ZsNUD4VR9tanQXJeMxt1) | [Koobi](https://open.spotify.com/album/67NQONOlbvJVe4qlCf2llO) | 2:40 | 2022-02-17 | 2023-02-17 |
+| [Korokoro](https://open.spotify.com/track/0Zf0e7O4nLaIq15SnhDI10) | [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y) | [Korokoro](https://open.spotify.com/album/72ET6Hb9KWaMWgsipSy90H) | 2:24 | 2023-04-14 |  |
 | [Kwaku the Traveller](https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Kwaku the Traveller](https://open.spotify.com/album/4ftrG1ro4ObsbNDKkYaZBR) | 3:05 | 2022-03-31 |  |
 | [La Vida](https://open.spotify.com/track/5JwjfDu3lSEnetsqeGbwFf) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX) | [La Vida](https://open.spotify.com/album/0rtt0wrH2eoFLLg3WO8GIF) | 2:50 | 2021-10-14 | 2022-08-16 |
 | [Lane](https://open.spotify.com/track/17DG8UuM9rZpVnz44aJYpG) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Powers Pleasant](https://open.spotify.com/artist/0fYw4bch7qTxBZLS3rSVMj) | [Lane](https://open.spotify.com/album/3PMdJrGUZTY3ruBIQiFlPH) | 2:42 | 2022-04-28 | 2022-07-01 |

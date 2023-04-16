@@ -3591,6 +3591,24 @@
     },
     {
       "album": {
+        "name": "BOO",
+        "url": "https://open.spotify.com/album/3WgIFOH5NcAONFDaOeaC5V"
+      },
+      "artists": [
+        {
+          "name": "Le Juiice",
+          "url": "https://open.spotify.com/artist/67MIpliQaIhUN1WLSkYEqC"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140629,
+      "name": "BOO",
+      "url": "https://open.spotify.com/track/12x0etPnK49pq5vhH5bqUY"
+    },
+    {
+      "album": {
         "name": "Boomerang",
         "url": "https://open.spotify.com/album/1HNfPlgAqBhOlNrvb4f2in"
       },
@@ -3606,6 +3624,24 @@
       "duration_ms": 192051,
       "name": "Boomerang",
       "url": "https://open.spotify.com/track/1rcmr65eaea379nhSZVa4e"
+    },
+    {
+      "album": {
+        "name": "Bootleg",
+        "url": "https://open.spotify.com/album/0HqGg6WYY7iaxWBlP2NY6P"
+      },
+      "artists": [
+        {
+          "name": "Mister V",
+          "url": "https://open.spotify.com/artist/5qisLjDrKoHMI9zOK2hfzs"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115226,
+      "name": "Bootleg",
+      "url": "https://open.spotify.com/track/21bPnt9C4Dw7xj8UUUXZp1"
     },
     {
       "album": {
@@ -4418,7 +4454,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 216960,
       "name": "C'est un bum",
       "url": "https://open.spotify.com/track/3Y9tjAA2R3hACMJnnE66fd"
@@ -5838,6 +5874,24 @@
       "duration_ms": 185275,
       "name": "Cobra Kai",
       "url": "https://open.spotify.com/track/7wfpL51ZlfBQ4nC0ynnLx7"
+    },
+    {
+      "album": {
+        "name": "Ozoror",
+        "url": "https://open.spotify.com/album/6OPqZboiTNSYCKd3fSiSLX"
+      },
+      "artists": [
+        {
+          "name": "Meryl",
+          "url": "https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155638,
+      "name": "Coca-Cola Mentos",
+      "url": "https://open.spotify.com/track/7d5h2OAmrKHVFrvivayPzl"
     },
     {
       "album": {
@@ -7990,7 +8044,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 185453,
       "name": "Dis-moi t'es o\u00f9",
       "url": "https://open.spotify.com/track/7ndCfMwCqTpqWwWvlwau19"
@@ -16476,7 +16530,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 203830,
       "name": "La missive",
       "url": "https://open.spotify.com/track/1gyz0BM3BISwLNfyviZGpz"
@@ -20458,6 +20512,24 @@
       "duration_ms": 255232,
       "name": "Mathilde",
       "url": "https://open.spotify.com/track/0HAnT8aym7IKQ0Swayvoh3"
+    },
+    {
+      "album": {
+        "name": "Mauvais r\u00eave",
+        "url": "https://open.spotify.com/album/5blMLwINO84ZJntrW0CTNh"
+      },
+      "artists": [
+        {
+          "name": "Hoshi",
+          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239546,
+      "name": "Mauvais r\u00eave",
+      "url": "https://open.spotify.com/track/6IZWTHVNit0ajtXwAWDGO9"
     },
     {
       "album": {
@@ -24489,6 +24561,24 @@
     },
     {
       "album": {
+        "name": "Photographies",
+        "url": "https://open.spotify.com/album/0BRpAxU0TVRDmidxpZrGpD"
+      },
+      "artists": [
+        {
+          "name": "Alice et Moi",
+          "url": "https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176821,
+      "name": "Photographies",
+      "url": "https://open.spotify.com/track/3zjeCHlhWyJwQDKppjMG1F"
+    },
+    {
+      "album": {
         "name": "Ph\u00e9nix (vue par Misstress Barbara) [Remix]",
         "url": "https://open.spotify.com/album/3pG19W4oJwhWxuGbD4DNOw"
       },
@@ -25646,6 +25736,24 @@
       "duration_ms": 165789,
       "name": "Pris au pi\u00e8ge",
       "url": "https://open.spotify.com/track/1GbWu2NwYqEkOaztYMaYTa"
+    },
+    {
+      "album": {
+        "name": "Prisonnier",
+        "url": "https://open.spotify.com/album/41QFH5g1zEwAyoXLHaDOfu"
+      },
+      "artists": [
+        {
+          "name": "Yanns",
+          "url": "https://open.spotify.com/artist/3mirzmIKVfvqcW0M5OKAzR"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158776,
+      "name": "Prisonnier",
+      "url": "https://open.spotify.com/track/5vZHwm3Neb8UHxdo8PXb55"
     },
     {
       "album": {
@@ -27132,7 +27240,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 262184,
       "name": "RIVI\u00c8RE",
       "url": "https://open.spotify.com/track/7IPS4QVAre25NbjV9aWYsy"
@@ -30456,7 +30564,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 211687,
       "name": "Teke Fren - Voilaaa Remix",
       "url": "https://open.spotify.com/track/2GIEDsWQGAY0Kv4bnzflVy"
@@ -31989,6 +32097,28 @@
     },
     {
       "album": {
+        "name": "Tu mentais (feat. DJ Kawest)",
+        "url": "https://open.spotify.com/album/2iyVrsJMWu3oFR35TIUA4I"
+      },
+      "artists": [
+        {
+          "name": "Keen' V",
+          "url": "https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd"
+        },
+        {
+          "name": "DJ Kawest",
+          "url": "https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161268,
+      "name": "Tu mentais (feat. DJ Kawest)",
+      "url": "https://open.spotify.com/track/2I2G4B2qXDtmQBCB1UDA75"
+    },
+    {
+      "album": {
         "name": "Redcar les adorables \u00e9toiles (prologue)",
         "url": "https://open.spotify.com/album/5Zq3w5bDJpN8Kl7zCMFpRw"
       },
@@ -32076,7 +32206,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 186693,
       "name": "T\u00e9l\u00e9",
       "url": "https://open.spotify.com/track/3BKdM9lQk2zoMAs3fr75fs"
@@ -33496,7 +33626,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 198963,
       "name": "Wait a minute",
       "url": "https://open.spotify.com/track/7e5G1tmINb2indrx4mG3am"

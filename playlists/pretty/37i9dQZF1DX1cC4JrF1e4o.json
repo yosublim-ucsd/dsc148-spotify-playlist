@@ -1,12 +1,12 @@
 {
   "description": "Timeless and smooth. Here are your favorite crooners. Cover: Nat King Cole. ",
-  "num_followers": 333717,
+  "num_followers": 333915,
   "original_name": "Crooner Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY1MzA5NiwwMDAwMDAwMGYzZjY0ZWIzODM2MTIxZWI5NjA5OGZlODA4Y2Y2YzNi",
+  "snapshot_id": "MTY2MjY1MzA5NiwwMDAwMDAwMGE1YTY1MDU2MGEzZmI1ZDAwODQ4MDdmM2FkNDBhOTIz",
   "tracks": [
     {
       "added_at": "2022-09-08 16:04:56",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-09-08 16:04:56",
       "album": {
-        "name": "Blossom Dearie (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6"
-      },
-      "artists": [
-        {
-          "name": "BLOSSOM DEARIE",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
-        }
-      ],
-      "duration_ms": 133666,
-      "name": "'Deed I Do",
-      "url": "https://open.spotify.com/track/2dLM74n8z8UgW9NQhSbhm1"
-    },
-    {
-      "added_at": "2022-09-08 16:04:56",
-      "album": {
         "name": "Comin' Home Baby",
         "url": "https://open.spotify.com/album/5OtQlb0pY3Xkg0teNeVm22"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 165360,
       "name": "Comin' Home Baby",
       "url": "https://open.spotify.com/track/71tjsDvB4EMJqNG8EMmFnb"
+    },
+    {
+      "added_at": "2022-09-08 16:04:56",
+      "album": {
+        "name": "Blossom Dearie (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6"
+      },
+      "artists": [
+        {
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 133666,
+      "name": "'Deed I Do",
+      "url": "https://open.spotify.com/track/2dLM74n8z8UgW9NQhSbhm1"
     },
     {
       "added_at": "2022-09-08 16:04:56",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-09-08 16:04:56",
       "album": {
-        "name": "It's Impossible",
-        "url": "https://open.spotify.com/album/5ja7POltOonfMB2tQSEMWV"
-      },
-      "artists": [
-        {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
-        }
-      ],
-      "duration_ms": 197626,
-      "name": "And I Love You So",
-      "url": "https://open.spotify.com/track/1naVD19eofGpFf6wosmHIe"
-    },
-    {
-      "added_at": "2022-09-08 16:04:56",
-      "album": {
         "name": "Sarah Vaughan's Golden Hits",
         "url": "https://open.spotify.com/album/6pZ5dSsfNRSuMV9RcMyfwU"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 179373,
       "name": "Misty",
       "url": "https://open.spotify.com/track/7gHFBNy0Qn86xGKJ9OdFTw"
+    },
+    {
+      "added_at": "2022-09-08 16:04:56",
+      "album": {
+        "name": "It's Impossible",
+        "url": "https://open.spotify.com/album/5ja7POltOonfMB2tQSEMWV"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        }
+      ],
+      "duration_ms": 197626,
+      "name": "And I Love You So",
+      "url": "https://open.spotify.com/track/1naVD19eofGpFf6wosmHIe"
     },
     {
       "added_at": "2022-09-08 16:04:56",
@@ -811,18 +811,18 @@
     {
       "added_at": "2022-09-08 16:04:56",
       "album": {
-        "name": "Perry Como with the Fontane Sisters (with The Fontane Sisters)",
-        "url": "https://open.spotify.com/album/3eaYuwaKlw7yb1tjXMjtOD"
+        "name": "Oh! Look At Me Now",
+        "url": "https://open.spotify.com/album/0SgrkcvwuEk3v7lA95FNCE"
       },
       "artists": [
         {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
         }
       ],
-      "duration_ms": 160946,
-      "name": "It's A Lovely Day Today",
-      "url": "https://open.spotify.com/track/0ApUPYg8ifMJZchhFeFLDs"
+      "duration_ms": 138600,
+      "name": "I'm Beginning To See The Light - 2001 Digital Remaster",
+      "url": "https://open.spotify.com/track/76F9rF3pQjPm4i8KVwx9Yd"
     }
   ],
   "unique_name": "Crooner Classics",

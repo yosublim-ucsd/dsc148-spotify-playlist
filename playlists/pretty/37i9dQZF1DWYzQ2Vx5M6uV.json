@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Aya Nakamura & Myke Towers",
-  "num_followers": 106304,
+  "num_followers": 106359,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgzMDUyOSwwMDAwMDAwMGFjNTYyMzA5YWU2NzFhZGU3ODQwNWM3NzMyNDcxMzEz",
+  "snapshot_id": "MTY3NzgzMDUyOSwwMDAwMDAwMDkzMTEyNmY3ZjAxNTVkMzA5OTA2OGU5NDBhMWViYzI1",
   "tracks": [
     {
       "added_at": "2023-02-10 16:08:22",
@@ -315,6 +315,22 @@
     {
       "added_at": "2023-02-10 16:08:22",
       "album": {
+        "name": "Touch It",
+        "url": "https://open.spotify.com/album/3VDgHI9zYEzSeH1dv8ij1c"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Touch It",
+      "url": "https://open.spotify.com/track/3h3xeg5OGNYVM0U9rOAc6j"
+    },
+    {
+      "added_at": "2023-02-10 16:08:22",
+      "album": {
         "name": "ZaZa Vibes (Extended Version)",
         "url": "https://open.spotify.com/album/1QFQBlZ2zwGRcwhPwEOCpQ"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 164081,
       "name": "Sempe - Remix",
       "url": "https://open.spotify.com/track/27aOnrAdyXMNTDInNoXcYj"
-    },
-    {
-      "added_at": "2023-02-10 16:08:22",
-      "album": {
-        "name": "Touch It",
-        "url": "https://open.spotify.com/album/3VDgHI9zYEzSeH1dv8ij1c"
-      },
-      "artists": [
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Touch It",
-      "url": "https://open.spotify.com/track/3h3xeg5OGNYVM0U9rOAc6j"
     },
     {
       "added_at": "2023-02-10 16:08:22",
@@ -603,26 +603,6 @@
     {
       "added_at": "2023-02-10 16:08:22",
       "album": {
-        "name": "Posa",
-        "url": "https://open.spotify.com/album/2pt4yzywteOWyobOMyRN7n"
-      },
-      "artists": [
-        {
-          "name": "C4 Pedro",
-          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
-        },
-        {
-          "name": "Zara Williams",
-          "url": "https://open.spotify.com/artist/6cDW8p42zhFhvAbiCPeGQB"
-        }
-      ],
-      "duration_ms": 206585,
-      "name": "Posa",
-      "url": "https://open.spotify.com/track/3fcIZ1K25xOEAwePGagbN8"
-    },
-    {
-      "added_at": "2023-02-10 16:08:22",
-      "album": {
         "name": "Versions of Me",
         "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 186476,
       "name": "Maria Elegante (feat. Afro B)",
       "url": "https://open.spotify.com/track/2OU6RxOSA8n7nDpg3gF3aX"
+    },
+    {
+      "added_at": "2023-02-10 16:08:22",
+      "album": {
+        "name": "Posa",
+        "url": "https://open.spotify.com/album/2pt4yzywteOWyobOMyRN7n"
+      },
+      "artists": [
+        {
+          "name": "C4 Pedro",
+          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
+        },
+        {
+          "name": "Zara Williams",
+          "url": "https://open.spotify.com/artist/6cDW8p42zhFhvAbiCPeGQB"
+        }
+      ],
+      "duration_ms": 206585,
+      "name": "Posa",
+      "url": "https://open.spotify.com/track/3fcIZ1K25xOEAwePGagbN8"
     },
     {
       "added_at": "2023-02-10 16:08:22",
@@ -681,7 +681,7 @@
       "url": "https://open.spotify.com/track/4ltz90zE6hPqE12EGHDMDu"
     },
     {
-      "added_at": "2023-04-15 00:16:52",
+      "added_at": "2023-04-16 00:15:51",
       "album": {
         "name": "Guava Rose",
         "url": "https://open.spotify.com/album/5s6AYaudqnGc8v3OhscQvs"
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2023-02-10 16:08:22",
       "album": {
-        "name": "Toko Challenge",
-        "url": "https://open.spotify.com/album/5YM0xejbqgF9nsg4gUHrW0"
-      },
-      "artists": [
-        {
-          "name": "DJ Flex",
-          "url": "https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125"
-        },
-        {
-          "name": "Kreatunez",
-          "url": "https://open.spotify.com/artist/1m4eSszfpkM2qznh5FeUKv"
-        }
-      ],
-      "duration_ms": 98772,
-      "name": "Toko Challenge",
-      "url": "https://open.spotify.com/track/7lVYGPGRWwW6BvRtv56LFU"
-    },
-    {
-      "added_at": "2023-02-10 16:08:22",
-      "album": {
         "name": "Boom Bam (with Afro B & Mariah Angeliq",
         "url": "https://open.spotify.com/album/3SgiVymzgM0tF6U0Uua8hH"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 177000,
       "name": "Boom Bam (with Afro B & Mariah Angeliq",
       "url": "https://open.spotify.com/track/3VmnJVSkgLIZujxut5yf73"
+    },
+    {
+      "added_at": "2023-02-10 16:08:22",
+      "album": {
+        "name": "Toko Challenge",
+        "url": "https://open.spotify.com/album/5YM0xejbqgF9nsg4gUHrW0"
+      },
+      "artists": [
+        {
+          "name": "DJ Flex",
+          "url": "https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125"
+        },
+        {
+          "name": "Kreatunez",
+          "url": "https://open.spotify.com/artist/1m4eSszfpkM2qznh5FeUKv"
+        }
+      ],
+      "duration_ms": 98772,
+      "name": "Toko Challenge",
+      "url": "https://open.spotify.com/track/7lVYGPGRWwW6BvRtv56LFU"
     },
     {
       "added_at": "2023-02-10 16:08:22",
@@ -1483,22 +1483,22 @@
     {
       "added_at": "2023-02-10 16:08:22",
       "album": {
-        "name": "Mare Mare",
-        "url": "https://open.spotify.com/album/5smSak9EETU92nlyJ4ARRS"
+        "name": "LoLo (Remix) [feat. Farina]",
+        "url": "https://open.spotify.com/album/2x2JPCp6svGwi8zHO6Y0fU"
       },
       "artists": [
         {
-          "name": "Matata",
-          "url": "https://open.spotify.com/artist/7imj8fIllhgGJqvKUVrdgV"
+          "name": "Eugy",
+          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
         },
         {
-          "name": "Lamaz KOB",
-          "url": "https://open.spotify.com/artist/4kqNOkXINObNexaey34DMj"
+          "name": "Farina",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
         }
       ],
-      "duration_ms": 197210,
-      "name": "Mare Mare",
-      "url": "https://open.spotify.com/track/4Z6VSJZDhmMhS9V7E4etFV"
+      "duration_ms": 166730,
+      "name": "LoLo (Remix) [feat. Farina]",
+      "url": "https://open.spotify.com/track/05s2GU3X9VET94jDtQi4bg"
     }
   ],
   "unique_name": "Afro Ritmo",

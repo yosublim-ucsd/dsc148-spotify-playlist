@@ -4,7 +4,7 @@
 
 > every main character needs their soundtrack
 
-355 songs - 21 hr 44 min
+356 songs - 21 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [All These Things That I've Done](https://open.spotify.com/track/0kYUrLVQOfx21xuXu7OGrT) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4undIeGmofnAYKhnDclN1w) | 5:01 | 2021-03-26 | 2022-07-29 |
 | [All These Things That I've Done](https://open.spotify.com/track/5vollujufHY0jMZxx77VWr) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 5:01 | 2021-03-26 |  |
 | [All These Things That I've Done](https://open.spotify.com/track/65m5l8o19KawZ814Ky7SPl) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Chillax Hits](https://open.spotify.com/album/2FOGiB9hLtTBPpr69ocwaK) | 5:03 | 2022-10-13 | 2022-11-13 |
-| [Alright](https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [I Should Coco](https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd) | 3:00 | 2021-03-26 |  |
+| [Alright](https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [I Should Coco](https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd) | 3:00 | 2021-03-26 | 2023-04-16 |
 | [Always Forever](https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Static](https://open.spotify.com/album/6WnfWrfsfu7T9TXbHIFHX9) | 3:43 | 2021-03-26 |  |
 | [American Honey](https://open.spotify.com/track/2CG6oeuMEtbL5OvKsyT7JL) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [American Honey](https://open.spotify.com/album/3V9AjOHddNkAIx7fmX9UcP) | 4:13 | 2021-04-02 | 2022-07-16 |
 | [American Teen](https://open.spotify.com/track/312WNtMs3F28cUukaPY9bo) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg) | 4:10 | 2021-03-26 | 2022-04-13 |
@@ -62,6 +62,7 @@
 | [Cayendo \(Side A \- Acoustic\)](https://open.spotify.com/track/72794Eag03xdy7TO0KNuid) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Cayendo \(Side A \- Acoustic\)](https://open.spotify.com/album/0FAWfXvd58Rm2VUSZMF8pr) | 3:22 | 2021-03-26 | 2022-04-21 |
 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2023-01-09 |  |
 | [Champagne Supernova \- Remastered](https://open.spotify.com/track/40bynawzslg9U7ACq07fAj) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/6ozp33PI3p9AdddB6ZL3xQ) | 7:28 | 2021-03-26 | 2022-04-21 |
+| [Chemical](https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA) | 3:04 | 2023-04-14 |  |
 | [Cigarette Daydreams](https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz) | 3:28 | 2021-03-26 |  |
 | [Cigarette Daydreams](https://open.spotify.com/track/7q2vQa5a1LCqEbssxR1QXF) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/2hvgnujpTiyjBxv9gLpmss) | 3:28 | 2021-03-26 | 2022-07-29 |
 | [circle the drain](https://open.spotify.com/track/2drtd6SptpMJ1KylMQ7mrE) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [color theory](https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez) | 4:40 | 2021-03-26 | 2022-04-19 |

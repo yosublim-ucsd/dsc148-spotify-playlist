@@ -4,7 +4,7 @@
 
 > La casa de los corazones rotos.
 
-271 songs - 14 hr 54 min
+272 songs - 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Cuál Adiós](https://open.spotify.com/track/3WWOgwKCsqi5GCO5eRoen0) | [Banda Clave Nueva](https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R) | [Ya No Vives En Mí](https://open.spotify.com/album/3GcFU0ICHxdr3rkWoRXcfE) | 3:29 | 2022-01-07 | 2022-07-29 |
 | [Cuál Adiós](https://open.spotify.com/track/5R9lPFnoJGppR1MsI7vHxy) | [Banda Clave Nueva](https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R) | [Ya No Vives En Mí](https://open.spotify.com/album/61NkuD5RHMUdi46sxcvCKE) | 3:29 | 2022-05-23 |  |
 | [Cuánto A Que Te Olvido](https://open.spotify.com/track/5EQDA6xM2wUfrKOoT6QoRn) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Cuánto A Que Te Olvido](https://open.spotify.com/album/7FkvXmGwNgh74yRwVAaQRw) | 3:23 | 2022-05-23 | 2023-01-17 |
-| [Cómo Me Haces Falta](https://open.spotify.com/track/1dtpnvjay5bEhEuui09YWx) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [La Colección de Covers, Vol\. 1](https://open.spotify.com/album/5wRMWOVabGtz0ulOwZMusZ) | 3:48 | 2022-12-16 |  |
+| [Cómo Me Haces Falta](https://open.spotify.com/track/1dtpnvjay5bEhEuui09YWx) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [La Colección de Covers, Vol\. 1](https://open.spotify.com/album/5wRMWOVabGtz0ulOwZMusZ) | 3:48 | 2022-12-16 | 2023-04-16 |
 | [De Cuando Acá](https://open.spotify.com/track/2sZ9VjimnCq5JrLPR0GUui) | [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp) | [De Cuando Acá](https://open.spotify.com/album/05RvA9U5fT5ojjzH91W5Ki) | 2:58 | 2022-04-18 |  |
 | [De Trago En Trago](https://open.spotify.com/track/5lWE6BsxJE9RoXbkvkGR60) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [De Trago En Trago](https://open.spotify.com/album/0YMa5EGXvE8uwAIyNDnxyJ) | 4:01 | 2022-05-06 | 2022-06-21 |
 | [Decepciones](https://open.spotify.com/track/2LTYkSso5VAfdqzqjprOcH) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Decepciones](https://open.spotify.com/album/4Q7weZZRXGVLoKk3NeOuNT) | 3:43 | 2022-01-07 | 2022-04-19 |
@@ -155,6 +155,7 @@
 | [Me Vale Madre](https://open.spotify.com/track/2bgzjBJcfn0r0HkJ0N2Lzx) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Tragedias de Mi Pueblo \(Con Banda\)](https://open.spotify.com/album/4nNePoAqTJ2VRkljtzCcrg) | 4:13 | 2022-05-23 | 2022-10-01 |
 | [Me Vas a Extrañar](https://open.spotify.com/track/2yS8aYWXEWJ1NlZ7VPDroT) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Que Bendición](https://open.spotify.com/album/5VL90afs1EsezktD44XMIN) | 2:56 | 2022-01-07 |  |
 | [Mejor Ni Me La Nombren](https://open.spotify.com/track/7y3TuUYfFzF7PgdSz3FplN) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5), [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Mejor Ni Me La Nombren](https://open.spotify.com/album/5Q7i8xatCEmGh7wX81r4bw) | 3:30 | 2022-06-08 | 2022-09-03 |
+| [Mentira No Es](https://open.spotify.com/track/6cmZSeILXKvgFRpUcDGQHZ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Mentira No Es](https://open.spotify.com/album/6Eb0XXaJ6oEVPclUXz1kz9) | 3:20 | 2023-04-14 |  |
 | [Mentiras](https://open.spotify.com/track/3jRZg6U0m9Ir115Wt66ebU) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Pura Manzanita Vol\. 3](https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7) | 3:54 | 2022-12-16 |  |
 | [Mi Enemigo El Amor](https://open.spotify.com/track/1jpMQqcqmYBGCkAtNNLy4z) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [El Vagabundo Que Te Ama](https://open.spotify.com/album/6IW904Y2lu2IWmTGdyt7CF) | 3:52 | 2022-01-07 | 2022-07-29 |
 | [Mi Enemigo El Amor](https://open.spotify.com/track/0RamYKFsyfiVjV8S5e5x2n) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Despecho y Licor](https://open.spotify.com/album/4jN7mxIJWGV8mh4Etv7hBx) | 3:54 | 2022-11-07 | 2022-11-13 |

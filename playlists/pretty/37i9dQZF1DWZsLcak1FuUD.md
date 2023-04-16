@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsLcak1FuUD.md) - [plain]
 
 > Fue durante los '70 que el Rock se manifestó como un gigante a nivel mundial\. Argentina no fue la excepción\.  Foto: <a href="spotify:artist:10vtHOCA3qPLmrGylgO2F1">Manal</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,527 likes - 55 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,542 likes - 55 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsLcak1FuUD.md) - [plain]
 | 49 | [En el país de la libertad](https://open.spotify.com/track/4cfkWf9EmRZCKMZBAPebNm) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [León Gieco](https://open.spotify.com/album/6fSW2xHU18TEgEnoV1VsjJ) | 3:13 |
 | 50 | [Los Delirios del Mariscal](https://open.spotify.com/track/56vhyP9UvLtGYUbeBBxqke) | [Crucis](https://open.spotify.com/artist/3PN8odvj48fnALdAsCKG3g) | [Los Delirios del Mariscal](https://open.spotify.com/album/1IQKV1zaM2GihjCXjZTdeJ) | 10:03 |
 | 51 | [Vamos a Buscar la Luz](https://open.spotify.com/track/3olst9SIdO6I9lhYa6HyYQ) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [40 Obras Fundamentales](https://open.spotify.com/album/3hopYMyIaBFZTU5Fvt91NF) | 3:51 |
-| 52 | [La Casa De La Mente](https://open.spotify.com/track/4o4LVmNCWYAisLF8j9yc69) | [Espiritu](https://open.spotify.com/artist/5QH5oyyvZkvgzAiENV3tph) | [Crisálida](https://open.spotify.com/album/373aJj6wGlb49JD46Qhh7Q) | 6:55 |
+| 52 | [Se Ama O No Se Ama](https://open.spotify.com/track/7sYM4xTvfR0N3UkRT9n7Vp) | [La Cofradia De La Flor Solar](https://open.spotify.com/artist/5wkCcDqHUaJbR79G5rEEpL) | [La Cofradía De La Flor Solar](https://open.spotify.com/album/13AoE3gnX1NjlEmlNZmhUR) | 4:26 |
 | 53 | [Más Fuerte Que El Hombre](https://open.spotify.com/track/0kCvymt8ka2hQqecsJDC4h) | [El Reloj](https://open.spotify.com/artist/4qZeDZdBD3NiWVbkwX2Lpx) | [El Reloj](https://open.spotify.com/album/3xIkQ0YsEyRvjEY1a8KdXc) | 3:09 |
-| 54 | [Se Ama O No Se Ama](https://open.spotify.com/track/7sYM4xTvfR0N3UkRT9n7Vp) | [La Cofradia De La Flor Solar](https://open.spotify.com/artist/5wkCcDqHUaJbR79G5rEEpL) | [La Cofradía De La Flor Solar](https://open.spotify.com/album/13AoE3gnX1NjlEmlNZmhUR) | 4:26 |
+| 54 | [La Casa De La Mente](https://open.spotify.com/track/4o4LVmNCWYAisLF8j9yc69) | [Espiritu](https://open.spotify.com/artist/5QH5oyyvZkvgzAiENV3tph) | [Crisálida](https://open.spotify.com/album/373aJj6wGlb49JD46Qhh7Q) | 6:55 |
 | 55 | [En El Hospicio](https://open.spotify.com/track/6NZ2OTfVCJ9rf6hm6tpJxh) | [Pastoral](https://open.spotify.com/artist/3budmcJD4fTyytFVDp5lud) | [Oro](https://open.spotify.com/album/67TJF7Es43tCAfZtWv5kiq) | 3:37 |
 
-Snapshot ID: `MTU4MjczNDMyMiwwMDAwMDAwMDFmYWVjY2NlYWY2YjRiZWU0MDRiNWU4NDM3YzAyM2Rk`
+Snapshot ID: `MTU4MjczNDMyMiwwMDAwMDAwMDZlMGJkZTU5NzhmYzkwZWQzYjViOGFhY2M1OGZlZTgz`

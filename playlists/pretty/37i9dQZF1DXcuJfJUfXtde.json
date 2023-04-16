@@ -1,12 +1,12 @@
 {
   "description": "\u00e9xitos de regreso",
-  "num_followers": 107072,
+  "num_followers": 107173,
   "original_name": "virales viejitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODg1ODQ1NSwwMDAwMDAwMGYyYzBjMmYxMzdkYzMzMjQ4NmIzMWVlZGJiOTJlNTcw",
+  "snapshot_id": "MTY1ODg1ODQ1NSwwMDAwMDAwMGNiZTBkNTgxNDJhMGI5MDFlYjMzOTM5Y2QzNzhmMjli",
   "tracks": [
     {
       "added_at": "2022-07-26 18:00:55",
@@ -407,38 +407,6 @@
     {
       "added_at": "2022-07-26 18:00:55",
       "album": {
-        "name": "we fell in love in october / October Passed Me By",
-        "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 184153,
-      "name": "we fell in love in october",
-      "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
-    },
-    {
-      "added_at": "2022-07-26 18:00:55",
-      "album": {
-        "name": "Bored",
-        "url": "https://open.spotify.com/album/4iyJ8i3eKbez8JXDbsHIdZ"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 180933,
-      "name": "Bored",
-      "url": "https://open.spotify.com/track/04sN26COy28wTXYj3dMoiZ"
-    },
-    {
-      "added_at": "2022-07-26 18:00:55",
-      "album": {
         "name": "Fine Line",
         "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
       },
@@ -467,6 +435,38 @@
       "duration_ms": 287120,
       "name": "Pepas",
       "url": "https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k"
+    },
+    {
+      "added_at": "2022-07-26 18:00:55",
+      "album": {
+        "name": "we fell in love in october / October Passed Me By",
+        "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 184153,
+      "name": "we fell in love in october",
+      "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
+    },
+    {
+      "added_at": "2022-07-26 18:00:55",
+      "album": {
+        "name": "Bored",
+        "url": "https://open.spotify.com/album/4iyJ8i3eKbez8JXDbsHIdZ"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 180933,
+      "name": "Bored",
+      "url": "https://open.spotify.com/track/04sN26COy28wTXYj3dMoiZ"
     },
     {
       "added_at": "2022-07-26 18:00:55",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-07-26 18:00:55",
       "album": {
-        "name": "Depression Cherry",
-        "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 320466,
-      "name": "Space Song",
-      "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
-    },
-    {
-      "added_at": "2022-07-26 18:00:55",
-      "album": {
         "name": "Voulez-Vous",
         "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 292613,
       "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
       "url": "https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6"
+    },
+    {
+      "added_at": "2022-07-26 18:00:55",
+      "album": {
+        "name": "Depression Cherry",
+        "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 320466,
+      "name": "Space Song",
+      "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
     },
     {
       "added_at": "2022-07-26 18:00:55",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-07-26 18:00:55",
       "album": {
-        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 221800,
-      "name": "Hasta la Ra\u00edz",
-      "url": "https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf"
-    },
-    {
-      "added_at": "2022-07-26 18:00:55",
-      "album": {
         "name": "Ladies And Gentlemen... The Best Of George Michael",
         "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 300106,
       "name": "Careless Whisper",
       "url": "https://open.spotify.com/track/4jDmJ51x1o9NZB5Nxxc7gY"
+    },
+    {
+      "added_at": "2022-07-26 18:00:55",
+      "album": {
+        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 221800,
+      "name": "Hasta la Ra\u00edz",
+      "url": "https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf"
     },
     {
       "added_at": "2022-07-26 18:00:55",
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-07-26 18:00:55",
       "album": {
-        "name": "Plastic Beach",
-        "url": "https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        }
-      ],
-      "duration_ms": 200173,
-      "name": "Rhinestone Eyes",
-      "url": "https://open.spotify.com/track/1foMv2HQwfQ2vntFf9HFeG"
-    },
-    {
-      "added_at": "2022-07-26 18:00:55",
-      "album": {
         "name": "FutureSex/LoveSounds",
         "url": "https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3"
       },
@@ -951,18 +935,18 @@
     {
       "added_at": "2022-07-26 18:00:55",
       "album": {
-        "name": "LALISA",
-        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
+        "name": "Plastic Beach",
+        "url": "https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8"
       },
       "artists": [
         {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         }
       ],
-      "duration_ms": 168227,
-      "name": "MONEY",
-      "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
+      "duration_ms": 200173,
+      "name": "Rhinestone Eyes",
+      "url": "https://open.spotify.com/track/1foMv2HQwfQ2vntFf9HFeG"
     },
     {
       "added_at": "2022-07-26 18:00:55",
@@ -983,6 +967,22 @@
       "duration_ms": 192313,
       "name": "M\u00f3naco",
       "url": "https://open.spotify.com/track/3HgvO4B5LLmdPOT2d8cSZd"
+    },
+    {
+      "added_at": "2022-07-26 18:00:55",
+      "album": {
+        "name": "LALISA",
+        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 168227,
+      "name": "MONEY",
+      "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
     },
     {
       "added_at": "2022-07-26 18:00:55",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2022-07-26 18:00:55",
       "album": {
-        "name": "To Let A Good Thing Die",
-        "url": "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz"
+        "name": "The Last Don II",
+        "url": "https://open.spotify.com/album/57mWSm5UtRGT08KeJuyZqu"
       },
       "artists": [
         {
-          "name": "Bruno Major",
-          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
         }
       ],
-      "duration_ms": 162797,
-      "name": "Nothing",
-      "url": "https://open.spotify.com/track/1lORkxEMmsCZqhoxcmk3A3"
+      "duration_ms": 193613,
+      "name": "Guaya Guaya",
+      "url": "https://open.spotify.com/track/79zvVrn65ksbiGQxrtV4I5"
     },
     {
       "added_at": "2022-07-26 18:00:55",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2022-07-26 18:00:55",
       "album": {
-        "name": "The Last Don II",
-        "url": "https://open.spotify.com/album/57mWSm5UtRGT08KeJuyZqu"
+        "name": "To Let A Good Thing Die",
+        "url": "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz"
       },
       "artists": [
         {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+          "name": "Bruno Major",
+          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
         }
       ],
-      "duration_ms": 193613,
-      "name": "Guaya Guaya",
-      "url": "https://open.spotify.com/track/79zvVrn65ksbiGQxrtV4I5"
+      "duration_ms": 162797,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/1lORkxEMmsCZqhoxcmk3A3"
     },
     {
       "added_at": "2022-07-26 18:00:55",
@@ -1495,26 +1495,18 @@
     {
       "added_at": "2022-07-26 18:00:55",
       "album": {
-        "name": "Random Access Memories",
-        "url": "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa"
+        "name": "DIVA- Platinum Edition",
+        "url": "https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb"
       },
       "artists": [
         {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
         }
       ],
-      "duration_ms": 369626,
-      "name": "Get Lucky (feat. Pharrell Williams & Nile Rodgers)",
-      "url": "https://open.spotify.com/track/69kOkLUCkxIZYexIgSG8rq"
+      "duration_ms": 186506,
+      "name": "Quiero Bailar",
+      "url": "https://open.spotify.com/track/7mY1dIaY9vY6Jrlrjg3dRn"
     },
     {
       "added_at": "2022-07-26 18:00:55",
@@ -1535,18 +1527,26 @@
     {
       "added_at": "2022-07-26 18:00:55",
       "album": {
-        "name": "DIVA- Platinum Edition",
-        "url": "https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb"
+        "name": "Random Access Memories",
+        "url": "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa"
       },
       "artists": [
         {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
         }
       ],
-      "duration_ms": 186506,
-      "name": "Quiero Bailar",
-      "url": "https://open.spotify.com/track/7mY1dIaY9vY6Jrlrjg3dRn"
+      "duration_ms": 369626,
+      "name": "Get Lucky (feat. Pharrell Williams & Nile Rodgers)",
+      "url": "https://open.spotify.com/track/69kOkLUCkxIZYexIgSG8rq"
     },
     {
       "added_at": "2022-07-26 18:00:55",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2022-07-26 18:00:55",
       "album": {
-        "name": "Chandelier",
-        "url": "https://open.spotify.com/album/1VC4P7rm1o3aYlYVYFkpGF"
-      },
-      "artists": [
-        {
-          "name": "Will Paquin",
-          "url": "https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6"
-        }
-      ],
-      "duration_ms": 127464,
-      "name": "Chandelier",
-      "url": "https://open.spotify.com/track/1cwqP7Tyxu5z8XDYoPkNte"
-    },
-    {
-      "added_at": "2022-07-26 18:00:55",
-      "album": {
         "name": "Meet The Orphans",
         "url": "https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 237973,
       "name": "Hooka",
       "url": "https://open.spotify.com/track/0BenZn1xELuxhb7Pjwyjxv"
+    },
+    {
+      "added_at": "2022-07-26 18:00:55",
+      "album": {
+        "name": "Chandelier",
+        "url": "https://open.spotify.com/album/1VC4P7rm1o3aYlYVYFkpGF"
+      },
+      "artists": [
+        {
+          "name": "Will Paquin",
+          "url": "https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6"
+        }
+      ],
+      "duration_ms": 127464,
+      "name": "Chandelier",
+      "url": "https://open.spotify.com/track/1cwqP7Tyxu5z8XDYoPkNte"
     },
     {
       "added_at": "2022-07-26 18:00:55",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2022-07-26 18:00:55",
       "album": {
-        "name": "Piel Canela",
-        "url": "https://open.spotify.com/album/2sNKWMhg0kOHdPDlvl0w6t"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 102371,
-      "name": "Piel Canela",
-      "url": "https://open.spotify.com/track/7qBT9qcbtkLqrfm9LiTNB4"
-    },
-    {
-      "added_at": "2022-07-26 18:00:55",
-      "album": {
         "name": "Loving is Easy",
         "url": "https://open.spotify.com/album/3GgV5IZzgFljVfmxFeHsLY"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 155720,
       "name": "Loving Is Easy",
       "url": "https://open.spotify.com/track/7ASFZh1D0DPZro7UXUKGmd"
+    },
+    {
+      "added_at": "2022-07-26 18:00:55",
+      "album": {
+        "name": "Piel Canela",
+        "url": "https://open.spotify.com/album/2sNKWMhg0kOHdPDlvl0w6t"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 102371,
+      "name": "Piel Canela",
+      "url": "https://open.spotify.com/track/7qBT9qcbtkLqrfm9LiTNB4"
     },
     {
       "added_at": "2022-07-26 18:00:55",

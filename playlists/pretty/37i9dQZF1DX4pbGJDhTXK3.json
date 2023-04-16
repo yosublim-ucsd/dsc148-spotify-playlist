@@ -1,12 +1,12 @@
 {
   "description": "A celebration of Norway's dance scene!",
-  "num_followers": 125641,
+  "num_followers": 125677,
   "original_name": "Space Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE2OTIwMCwwMDAwMDAwMGZlY2JlOGQzMWU5MzNkZmVjOTc1MmM1YWNmZTMxNWUy",
+  "snapshot_id": "MTY3NDE2OTIwMCwwMDAwMDAwMGFiNTlhMjBhZDJkMGFjZGM2ZWQ5MjM3ODUwYmQ2ZWRm",
   "tracks": [
     {
       "added_at": "2023-01-19 23:00:00",
@@ -295,22 +295,18 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "Feel It",
-        "url": "https://open.spotify.com/album/3khiFvo7qCQ2CDyKD7UP4g"
+        "name": "The Ladder",
+        "url": "https://open.spotify.com/album/42EOGihk8LGxmFHtTHPLSi"
       },
       "artists": [
         {
           "name": "R\u00f6yksopp",
           "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
-        },
-        {
-          "name": "Maurissa Rose",
-          "url": "https://open.spotify.com/artist/2VZfxVHA2JsWss2mJCYmv1"
         }
       ],
-      "duration_ms": 199272,
-      "name": "Feel It - Edit",
-      "url": "https://open.spotify.com/track/1YHpJo0PCcxATrmX55pdCf"
+      "duration_ms": 333520,
+      "name": "The Ladder",
+      "url": "https://open.spotify.com/track/0mThH0uqT9pmj5cCS7Oeoj"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -371,22 +367,18 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "Tyrkisk Pepper",
-        "url": "https://open.spotify.com/album/2KUdBmCPOBpD2YweRXPAMt"
+        "name": "Be A Man You Ant",
+        "url": "https://open.spotify.com/album/5PNdVI9kYjjyda8J7fuxig"
       },
       "artists": [
         {
-          "name": "Blackbelt Andersen",
-          "url": "https://open.spotify.com/artist/67qty1jpSV57pPDYDTDUgL"
-        },
-        {
-          "name": "D\u00f8lle J\u00f8lle",
-          "url": "https://open.spotify.com/artist/1UbgLp0E5zKU0BAhpPp59B"
+          "name": "Andr\u00e9 Bratten",
+          "url": "https://open.spotify.com/artist/4JumlwBeaIE16moHUv3xzZ"
         }
       ],
-      "duration_ms": 482835,
-      "name": "Tyrkisk Pepper - Dolle Jolle Remix",
-      "url": "https://open.spotify.com/track/38KKAivesNw1zoh8eshIZX"
+      "duration_ms": 384055,
+      "name": "Be A Man You Ant - Original Mix",
+      "url": "https://open.spotify.com/track/380B4H9JdSzDqjdJFtTykb"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -407,18 +399,22 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "Be A Man You Ant",
-        "url": "https://open.spotify.com/album/5PNdVI9kYjjyda8J7fuxig"
+        "name": "Tyrkisk Pepper",
+        "url": "https://open.spotify.com/album/2KUdBmCPOBpD2YweRXPAMt"
       },
       "artists": [
         {
-          "name": "Andr\u00e9 Bratten",
-          "url": "https://open.spotify.com/artist/4JumlwBeaIE16moHUv3xzZ"
+          "name": "Blackbelt Andersen",
+          "url": "https://open.spotify.com/artist/67qty1jpSV57pPDYDTDUgL"
+        },
+        {
+          "name": "D\u00f8lle J\u00f8lle",
+          "url": "https://open.spotify.com/artist/1UbgLp0E5zKU0BAhpPp59B"
         }
       ],
-      "duration_ms": 384055,
-      "name": "Be A Man You Ant - Original Mix",
-      "url": "https://open.spotify.com/track/380B4H9JdSzDqjdJFtTykb"
+      "duration_ms": 482835,
+      "name": "Tyrkisk Pepper - Dolle Jolle Remix",
+      "url": "https://open.spotify.com/track/38KKAivesNw1zoh8eshIZX"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -471,18 +467,22 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "The Ladder",
-        "url": "https://open.spotify.com/album/42EOGihk8LGxmFHtTHPLSi"
+        "name": "Feel It",
+        "url": "https://open.spotify.com/album/3khiFvo7qCQ2CDyKD7UP4g"
       },
       "artists": [
         {
           "name": "R\u00f6yksopp",
           "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+        },
+        {
+          "name": "Maurissa Rose",
+          "url": "https://open.spotify.com/artist/2VZfxVHA2JsWss2mJCYmv1"
         }
       ],
-      "duration_ms": 333520,
-      "name": "The Ladder",
-      "url": "https://open.spotify.com/track/0mThH0uqT9pmj5cCS7Oeoj"
+      "duration_ms": 199272,
+      "name": "Feel It - Edit",
+      "url": "https://open.spotify.com/track/1YHpJo0PCcxATrmX55pdCf"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
+        "name": "Full Pupp Splits 004 - Hamar-O-Ramah!",
+        "url": "https://open.spotify.com/album/3PuGBseuPHRXLXO05LYsFy"
+      },
+      "artists": [
+        {
+          "name": "Melkeveien",
+          "url": "https://open.spotify.com/artist/0I22LfGyl3Ro59xmhLQPx8"
+        }
+      ],
+      "duration_ms": 358802,
+      "name": "Thirst Issues",
+      "url": "https://open.spotify.com/track/28SztSmKNenBcY2vMQl00W"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
         "name": "Maskindans",
         "url": "https://open.spotify.com/album/22bvOQCEhiV9UJQb4i7WZE"
       },
@@ -707,18 +723,18 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "Full Pupp Splits 004 - Hamar-O-Ramah!",
-        "url": "https://open.spotify.com/album/3PuGBseuPHRXLXO05LYsFy"
+        "name": "Pax Americana",
+        "url": "https://open.spotify.com/album/58JeZwpWQCpzZZeNJIlDFF"
       },
       "artists": [
         {
-          "name": "Melkeveien",
-          "url": "https://open.spotify.com/artist/0I22LfGyl3Ro59xmhLQPx8"
+          "name": "Andr\u00e9 Bratten",
+          "url": "https://open.spotify.com/artist/4JumlwBeaIE16moHUv3xzZ"
         }
       ],
-      "duration_ms": 358802,
-      "name": "Thirst Issues",
-      "url": "https://open.spotify.com/track/28SztSmKNenBcY2vMQl00W"
+      "duration_ms": 291018,
+      "name": "HS",
+      "url": "https://open.spotify.com/track/1R5dYnxQDgeceQA6mmdk9Q"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -739,22 +755,6 @@
       "duration_ms": 127524,
       "name": "Low",
       "url": "https://open.spotify.com/track/5SBlfw8rNCcerJxbNUGxue"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
-        "name": "Pax Americana",
-        "url": "https://open.spotify.com/album/58JeZwpWQCpzZZeNJIlDFF"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Bratten",
-          "url": "https://open.spotify.com/artist/4JumlwBeaIE16moHUv3xzZ"
-        }
-      ],
-      "duration_ms": 291018,
-      "name": "HS",
-      "url": "https://open.spotify.com/track/1R5dYnxQDgeceQA6mmdk9Q"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -811,26 +811,6 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "This Time (Lindstr\u00f8m Remix)",
-        "url": "https://open.spotify.com/album/3X6t27Kq0J2aK7nLFUe9bX"
-      },
-      "artists": [
-        {
-          "name": "Nina Kraviz",
-          "url": "https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE"
-        },
-        {
-          "name": "Lindstr\u00f8m",
-          "url": "https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB"
-        }
-      ],
-      "duration_ms": 569159,
-      "name": "This Time - Lindstr\u00f8m Remix",
-      "url": "https://open.spotify.com/track/17i25eEW6w8zuunLzgsKni"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
         "name": "Tidl\u00f8s (Remixes)",
         "url": "https://open.spotify.com/album/44ShL59sThfH0kX2NhnKli"
       },
@@ -851,18 +831,42 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "Sadsongwtf",
-        "url": "https://open.spotify.com/album/0snl6gC7BXLFyK1MJjWy42"
+        "name": "This Time (Lindstr\u00f8m Remix)",
+        "url": "https://open.spotify.com/album/3X6t27Kq0J2aK7nLFUe9bX"
       },
       "artists": [
         {
-          "name": "Jerry Folk",
-          "url": "https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv"
+          "name": "Nina Kraviz",
+          "url": "https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE"
+        },
+        {
+          "name": "Lindstr\u00f8m",
+          "url": "https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB"
         }
       ],
-      "duration_ms": 173164,
-      "name": "Sadsongwtf",
-      "url": "https://open.spotify.com/track/2zA7dBlE6tarkCzK2Rsi3o"
+      "duration_ms": 569159,
+      "name": "This Time - Lindstr\u00f8m Remix",
+      "url": "https://open.spotify.com/track/17i25eEW6w8zuunLzgsKni"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "Motown",
+        "url": "https://open.spotify.com/album/7HFK2ICVRt9dkd4szhk42l"
+      },
+      "artists": [
+        {
+          "name": "Ost & Kjex",
+          "url": "https://open.spotify.com/artist/3cduU2huZ18pS50V7tic61"
+        },
+        {
+          "name": "Tracee Meyn",
+          "url": "https://open.spotify.com/artist/0V5mBY6o8MxoDNdKD49gly"
+        }
+      ],
+      "duration_ms": 388272,
+      "name": "Motown",
+      "url": "https://open.spotify.com/track/78NzFZ6gnIltx8fsH55ZeX"
     },
     {
       "added_at": "2023-01-19 23:00:00",

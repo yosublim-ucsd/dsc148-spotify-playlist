@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-272 songs - 15 hr 56 min
+273 songs - 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,8 @@
 | [Luci´s Game](https://open.spotify.com/track/6qRVIbgAvISszexBLE6O4H) | [Varrick Frost](https://open.spotify.com/artist/294JUMftLLs3Ezkc77s9WV) | [Luci´s Game](https://open.spotify.com/album/5ShUQaYetjK74xFfYg1hEv) | 4:13 | 2020-10-30 | 2022-11-08 |
 | [Lullaby](https://open.spotify.com/track/4eQKQ5ZO4UlSUzskVqFU0d) | [Proleter](https://open.spotify.com/artist/5dCpFeKxLbycrnsjWZjha8) | [Bubbles](https://open.spotify.com/album/73KjLxHjBCmF1MF3Iw5405) | 4:40 | 2020-10-30 | 2022-05-14 |
 | [Ma Che Bella Compagnia](https://open.spotify.com/track/7MyWJygAJSDHHCuUYQjLij) | [Melania](https://open.spotify.com/artist/4BgqxhBc4xQYh4LtvsdY1j), [Christian Lisi](https://open.spotify.com/artist/2Y5F7YnM8WtYuFgedTtrXW) | [Ma Che Bella Compagnia](https://open.spotify.com/album/6mMymPze76dt6udn3DvpID) | 3:01 | 2021-10-01 |  |
-| [Mad Swing](https://open.spotify.com/track/71GQcDwhFboLeiFccQM3x9) | [DJ Mibor](https://open.spotify.com/artist/7wkjhjRAaChOE0hMghtlvc) | [Mad Swing](https://open.spotify.com/album/5HjXRmCThrSQsEdthLCIYk) | 4:00 | 2021-07-09 |  |
+| [Mad Swing](https://open.spotify.com/track/2TgsiOuEXM1nEtGAMtVoFD) | [DJ Mibor](https://open.spotify.com/artist/7wkjhjRAaChOE0hMghtlvc) | [Mad Swing](https://open.spotify.com/album/0KWVTkbOqjpI5rnWDD9YfZ) | 4:00 | 2022-11-07 |  |
+| [Mad Swing](https://open.spotify.com/track/71GQcDwhFboLeiFccQM3x9) | [DJ Mibor](https://open.spotify.com/artist/7wkjhjRAaChOE0hMghtlvc) | [Mad Swing](https://open.spotify.com/album/5HjXRmCThrSQsEdthLCIYk) | 4:00 | 2021-07-09 | 2023-04-16 |
 | [Magic Man](https://open.spotify.com/track/0hPLh77jQo9DFNVP2YPKUD) | [Balduin](https://open.spotify.com/artist/6vSMEdD0kY3g9AaqUGeMMv), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [J Fitz](https://open.spotify.com/artist/5fO3cjaQXn3DpDsxlJbmQJ) | [Magic Man](https://open.spotify.com/album/1ChLMfuAUS9ieJlUDix04t) | 3:22 | 2022-11-18 |  |
 | [Mais Non \- 1920 Version](https://open.spotify.com/track/5OeflTgTzyBrdLxJQtcn0c) | [Klischée](https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB) | [Mais Non \(1920 Version\)](https://open.spotify.com/album/1WnrAf1vekSKVzhUUiixzO) | 3:11 | 2020-10-30 | 2023-03-11 |
 | [Make Me Dizzy \(Radio Edit\)](https://open.spotify.com/track/0FilMYb2ATvOOmJPtEH0t3) | [Phos Toni](https://open.spotify.com/artist/1D2acYwVzm55CayJwUwqB5) | [Make Me Dizzy \(Radio Edit\)](https://open.spotify.com/album/1a3Ce15aKCM4me0RqMLIUZ) | 4:10 | 2020-10-30 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Y8O2w.md) - [plain]
 
 > This is Phyllis Hyman\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,211 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,214 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Y8O2w.md) - [plain]
 | 32 | [We Both Need Each Other \(feat\. Phyllis Hyman & Michael Henderson\)](https://open.spotify.com/track/30IeocGEafO6mJpVD5Wlvg) | [Norman Connors](https://open.spotify.com/artist/54bbmw5qZiMf23TTmm6ojR), [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv), [Michael Henderson](https://open.spotify.com/artist/6KzAnKswHOUCX8xiEudD7K) | [You Are My Starship](https://open.spotify.com/album/0whQoF11EIgNxK3FntxLCU) | 4:10 |
 | 33 | [Remember Who You Are \- Reprise](https://open.spotify.com/track/4dSzqYdNc4nz3knQp7wXAO) | [Norman Connors](https://open.spotify.com/artist/54bbmw5qZiMf23TTmm6ojR), [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Remember Who You Are](https://open.spotify.com/album/5yCGSEkSYJdLMa57czbpOa) | 1:13 |
 | 34 | [I'm Truly Yours](https://open.spotify.com/track/3pXp6U7fYTj2sy5bK2FMML) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [I Refuse To Be Lonely](https://open.spotify.com/album/5ZL0TvoU13FleSFEGSbqPc) | 5:39 |
-| 35 | [Gonna Make Changes](https://open.spotify.com/track/4URmiJKUQuceu4ZfcaIA5S) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [The Legacy Of Phyllis Hyman](https://open.spotify.com/album/6fXm4HqvSqxh6jsiU5f505) | 4:57 |
-| 36 | [Give a Little More](https://open.spotify.com/track/2kgfnVggBSdoz1XKmHNB1w) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [You Know How to Love Me \(Expanded Edition\)](https://open.spotify.com/album/6McedcPTihVzYQ7dqLK7PM) | 4:04 |
+| 35 | [Give a Little More](https://open.spotify.com/track/2kgfnVggBSdoz1XKmHNB1w) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [You Know How to Love Me \(Expanded Edition\)](https://open.spotify.com/album/6McedcPTihVzYQ7dqLK7PM) | 4:04 |
+| 36 | [Gonna Make Changes](https://open.spotify.com/track/4URmiJKUQuceu4ZfcaIA5S) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [The Legacy Of Phyllis Hyman](https://open.spotify.com/album/6fXm4HqvSqxh6jsiU5f505) | 4:57 |
 | 37 | [We Both Need Each Other](https://open.spotify.com/track/4BeImLQAWd9QlnjYnTOeWM) | [Michael Henderson](https://open.spotify.com/artist/6KzAnKswHOUCX8xiEudD7K), [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [The Best of Michael Henderson](https://open.spotify.com/album/6feal3fAi2Mr3FURLMpTfZ) | 4:04 |
 | 38 | [Forever with You](https://open.spotify.com/track/4YQLkLUyEro4Xeh9EGSNoX) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Forever with You](https://open.spotify.com/album/34aeEx1cGFw53Q9wNlQ9kR) | 4:20 |
 | 39 | [Be Careful \(How You Treat My Love\)](https://open.spotify.com/track/5rPFEVyqIztyj80EolIn4S) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [The Essential Phyllis Hyman](https://open.spotify.com/album/6VUEth5sqgE8jceRauguLC) | 4:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Y8O2w.md) - [plain]
 | 49 | [In A Sentimental Mood](https://open.spotify.com/track/73PpHL1BhZ3ji6c1FLhEfo) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [The Legacy Of Phyllis Hyman](https://open.spotify.com/album/6fXm4HqvSqxh6jsiU5f505) | 3:26 |
 | 50 | [Be One \- From The "School Daze" Soundtrack](https://open.spotify.com/track/1EF7lcwgxH3Np3fcE3v81t) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [School Daze \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4J3xFfnjMRpHtyf5PjILtT) | 4:36 |
 
-Snapshot ID: `MjgwMjQ4NTIsMDAwMDAwMDBjOWNhZWQ1YTU5ODg0ZmQ3MGMxMjg4OTQ1ZWFmMDc1MQ==`
+Snapshot ID: `MjgwMjYwMzEsMDAwMDAwMDA0ZTZkOTM3ODRiYzdkOTY4YTA5YmNhODhhMWZkZDBjNw==`

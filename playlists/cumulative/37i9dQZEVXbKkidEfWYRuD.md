@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,046 songs - 2 day 0 hr 30 min
+1,048 songs - 2 day 0 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [5 Nights Crazy](https://open.spotify.com/track/7vbXtUsr3lSZtBzwL6lpVg) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [BANDANA I](https://open.spotify.com/album/6kzabofELlyd7dYqY78dzu) | 2:19 | 2021-10-23 | 2021-12-14 |
 | [5:00 AM](https://open.spotify.com/track/3VrsQ6PAcP2eDJKhP1m7fa) | [LSP](https://open.spotify.com/artist/4h8pGxEIOi7j4me1yhYxlD), [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [5:00 AM](https://open.spotify.com/album/0j42aJ2EUyOPIZ9WwLznY5) | 2:19 | 2022-07-23 | 2022-07-28 |
 | [5IVE](https://open.spotify.com/track/2kLmAwQCBSlvtcptioAoTv) | [LOVV66](https://open.spotify.com/artist/5A9NWhs9ydYZPGgvcWI8Ms) | [5IVE](https://open.spotify.com/album/4YOwEVRxXTTnq5taJ3fT7J) | 2:23 | 2023-01-08 | 2023-02-18 |
+| [6AM в Будапеште](https://open.spotify.com/track/6cicFqh6IvNOc4FGXChnFB) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW) | [6AM в Будапеште](https://open.spotify.com/album/1HL8rCyocGXRmHPE796Gqb) | 3:06 | 2023-04-15 |  |
 | [99 Problems](https://open.spotify.com/track/0r9fpWPI6z3V3YZXIiVaNC) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [BANDANA I](https://open.spotify.com/album/6kzabofELlyd7dYqY78dzu) | 2:39 | 2021-10-23 | 2022-07-22 |
 | [^\_\_^ ;D :3](https://open.spotify.com/track/4GUbuZEijCo6AlKFcBe5lN) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW) | [FREERIO 2](https://open.spotify.com/album/4Bxc3xz4eRLzZBfluYRfiP) | 1:19 | 2022-04-30 | 2022-05-02 |
 | [A&W](https://open.spotify.com/track/1wTopxO5eQBpxrBXPSbsUn) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [A&W](https://open.spotify.com/album/46XKgCOOHTZkQTdiMsBxHS) | 7:13 | 2023-02-16 | 2023-02-26 |
@@ -50,7 +51,7 @@
 | [ARISTOCRAT](https://open.spotify.com/track/0si4hbWQ2OwdxKLF6x5xEX) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [MILLION DOLLAR: BUSINESS](https://open.spotify.com/album/04KjJSDImRLbElsI39hPLY) | 2:06 | 2021-05-29 | 2021-09-19 |
 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2022-05-21 | 2022-08-14 |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-04-02 | 2022-05-17 |
-| [ASPHALT 8](https://open.spotify.com/track/0ndWY0kASiq9s2Fx76W4Jq) | [MACAN](https://open.spotify.com/artist/5VKufGMVAZ6fs111xYNKnU) | [ASPHALT 8](https://open.spotify.com/album/2zqtLUw2PYbyUOVnsXcyDk) | 2:15 | 2023-04-05 |  |
+| [ASPHALT 8](https://open.spotify.com/track/0ndWY0kASiq9s2Fx76W4Jq) | [MACAN](https://open.spotify.com/artist/5VKufGMVAZ6fs111xYNKnU) | [ASPHALT 8](https://open.spotify.com/album/2zqtLUw2PYbyUOVnsXcyDk) | 2:15 | 2023-04-05 | 2023-04-16 |
 | [astral step](https://open.spotify.com/track/47iHvzU9Po0e6raFlgLBOF) | [shadowraze](https://open.spotify.com/artist/0TO6y1x0LQodwBnxGtQu9o) | [astral step](https://open.spotify.com/album/2Ctdcl5QkFWiHH1XdnQiA5) | 2:01 | 2021-10-31 | 2022-08-21 |
 | [Astronaut In The Ocean](https://open.spotify.com/track/0BGwAKW4u8kWOhWFflZxfl) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Astronaut In The Ocean \(International Remixes\)](https://open.spotify.com/album/4YtSVQwETLHiKNZXySp7Mw) | 2:12 | 2021-05-30 | 2021-08-22 |
 | [Astronaut In The Ocean](https://open.spotify.com/track/3VT8hOC5vuDXBsHrR53WFh) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Astronaut In The Ocean](https://open.spotify.com/album/57UjGWNfxfsBCykDm73XBK) | 2:12 | 2021-03-27\* | 2021-05-30 |
@@ -117,6 +118,7 @@
 | [DALEKO](https://open.spotify.com/track/17SiOJ50b7dQU1ZSFtAXVc) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l), [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo) | [DALEKO](https://open.spotify.com/album/129hDAnA0r5LAsUOo1oPAa) | 2:28 | 2022-07-09 | 2022-08-08 |
 | [Dark Side](https://open.spotify.com/track/6A8B1kJ9ZNHbl2uFPN6Wtm) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Dark Side](https://open.spotify.com/album/6Lzb7EjZXgtelxgBsZUhMS) | 2:57 | 2021-05-25 | 2021-06-01 |
 | [DAVID BECKHAM](https://open.spotify.com/track/6i1wYW9aYzrPTbqYfjamS8) | [OBLADAET](https://open.spotify.com/artist/1hwKCeSXpLrh4OQND6iQHw) | [PLAYERS CLUB](https://open.spotify.com/album/5sw0ehyM0UI5NX7BwPQlXI) | 2:51 | 2021-03-27 | 2021-04-02 |
+| [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2023-04-15 |  |
 | [De Diepte](https://open.spotify.com/track/7uQ7e7nzbtyX87eIYHpj6Z) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [De Diepte](https://open.spotify.com/album/6XAKVt3CT7r1Zf0uiMWt7o) | 2:56 | 2022-05-16 | 2022-05-29 |
 | [Dead Inside](https://open.spotify.com/track/0EPK3XVvgbe8q0KrS7nEiY) | [АДЛИН](https://open.spotify.com/artist/3vw4wtxW7yv7yJSDqkIuUz) | [Dead Inside](https://open.spotify.com/album/5HwVMu4cxjViVqtg1wSYIN) | 2:04 | 2022-09-27 | 2022-11-16 |
 | [Deck The Halls](https://open.spotify.com/track/0rHToGels2lt8Y0mCYoF90) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 1:08 | 2023-01-01 | 2023-01-03 |
@@ -303,7 +305,7 @@
 | [Miss The Rage \(feat\. Playboi Carti\)](https://open.spotify.com/track/2BITQ360Knh6qNAOqR7Dyq) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Miss The Rage \(feat\. Playboi Carti\)](https://open.spotify.com/album/1FsFHXroF1ILBdVyBRMt3A) | 3:56 | 2021-05-09 | 2021-05-23 |
 | [Miss You](https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Miss You](https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo) | 3:26 | 2022-10-21 | 2022-11-27 |
 | [Mixtape](https://open.spotify.com/track/6SfyzcVxW2P9ieifice761) | [MAYOT](https://open.spotify.com/artist/3KtiWEUyKC5lgHedcN6y6C) | [Mixtape](https://open.spotify.com/album/6DxSSb0rVQAFW6F86sC48v) | 1:28 | 2021-08-29 | 2021-08-30 |
-| [Mockingbird](https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Encore \(Deluxe Version\)](https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif) | 4:10 | 2022-10-18 |  |
+| [Mockingbird](https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Encore \(Deluxe Version\)](https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif) | 4:10 | 2022-10-18 | 2023-04-16 |
 | [MONEY](https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 2:48 | 2021-09-29 | 2021-11-23 |
 | [MONEY FLOW](https://open.spotify.com/track/7DOkGpObmhDr1ehcvN1GkR) | [LIL MORTY](https://open.spotify.com/artist/09W1Zh2IfOs6YYEiKgYY1K) | [LIL MORTY 3](https://open.spotify.com/album/2YtMe6ByCgYKIO4uu76xGv) | 2:27 | 2022-12-03 | 2022-12-05 |
 | [MONEYDEALER](https://open.spotify.com/track/3bKGBW6oxVWekfkfZ2BJqw) | [INSTASAMKA](https://open.spotify.com/artist/2SeRP5iAIhVec4azKHJzjX) | [MONEYDEALER](https://open.spotify.com/album/4n9BQVu07XjxoncNbAusUR) | 2:16 | 2021-11-21 | 2021-11-22 |

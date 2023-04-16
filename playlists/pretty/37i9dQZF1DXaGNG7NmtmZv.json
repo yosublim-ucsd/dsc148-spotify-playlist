@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 182931,
+  "num_followers": 183009,
   "original_name": "Classic Hardcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNzQ0MDMzMSwwMDAwMDAwMDA1ZDE3NDdlODYzN2IxZDIwMGY1M2I4YzRkZmM2ZGQ1",
+  "snapshot_id": "MTYwNzQ0MDMzMSwwMDAwMDAwMGJjYzJlYzI0N2Y4N2Q4NDJkM2JhYTk5ZDMzOGQwZjc4",
   "tracks": [
     {
       "added_at": "2020-12-08 15:12:11",
@@ -347,22 +347,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Manic Compression",
-        "url": "https://open.spotify.com/album/63jH8y8w07RTXjYqD136U6"
-      },
-      "artists": [
-        {
-          "name": "Quicksand",
-          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
-        }
-      ],
-      "duration_ms": 156693,
-      "name": "Thorn In My Side",
-      "url": "https://open.spotify.com/track/55QjemxhcFnHRvTjGHLJCO"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Everything You Know",
         "url": "https://open.spotify.com/album/4xh3WT4Y416HM7KKUAFwXx"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 203440,
       "name": "Chasing the Dragon",
       "url": "https://open.spotify.com/track/4MJkV5HQSuaLxFgM7yvTiy"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Manic Compression",
+        "url": "https://open.spotify.com/album/63jH8y8w07RTXjYqD136U6"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "duration_ms": 156693,
+      "name": "Thorn In My Side",
+      "url": "https://open.spotify.com/track/55QjemxhcFnHRvTjGHLJCO"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -427,22 +427,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "This Is Just the Beginning",
-        "url": "https://open.spotify.com/album/4RHBb8u3uid3lJGFwS0Jb1"
-      },
-      "artists": [
-        {
-          "name": "Kill Your Idols",
-          "url": "https://open.spotify.com/artist/6XMDTpG4mtZWvDlFjRF3XT"
-        }
-      ],
-      "duration_ms": 96053,
-      "name": "Can't Take It Away",
-      "url": "https://open.spotify.com/track/0AaoUCJLOhCiiMEWVNAc5C"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Before The Quarrel",
         "url": "https://open.spotify.com/album/4cOlUeoODYu4DODpSnlU3i"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 135471,
       "name": "World Peace",
       "url": "https://open.spotify.com/track/54P30qdoSqp3MgngBMZOW3"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "This Is Just the Beginning",
+        "url": "https://open.spotify.com/album/4RHBb8u3uid3lJGFwS0Jb1"
+      },
+      "artists": [
+        {
+          "name": "Kill Your Idols",
+          "url": "https://open.spotify.com/artist/6XMDTpG4mtZWvDlFjRF3XT"
+        }
+      ],
+      "duration_ms": 96053,
+      "name": "Can't Take It Away",
+      "url": "https://open.spotify.com/track/0AaoUCJLOhCiiMEWVNAc5C"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -475,22 +475,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "The Damned, the Shamed",
-        "url": "https://open.spotify.com/album/08ujsql7ywpo2VBmLgMNsW"
-      },
-      "artists": [
-        {
-          "name": "Terror",
-          "url": "https://open.spotify.com/artist/1GVRgPtEC6sZFqvItIk3eg"
-        }
-      ],
-      "duration_ms": 170453,
-      "name": "Never Alone",
-      "url": "https://open.spotify.com/track/4Z4W0zIwGr9eJ40opS0t2C"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "H2O",
         "url": "https://open.spotify.com/album/6SIXL2tKLkV6FBZSzf9agC"
       },
@@ -507,18 +491,18 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Death Knows Your Name",
-        "url": "https://open.spotify.com/album/6U0Bmn36FE4pISKv5fluBK"
+        "name": "The Damned, the Shamed",
+        "url": "https://open.spotify.com/album/08ujsql7ywpo2VBmLgMNsW"
       },
       "artists": [
         {
-          "name": "The Hope Conspiracy",
-          "url": "https://open.spotify.com/artist/0EE0FUSX633ANADunRfZ9d"
+          "name": "Terror",
+          "url": "https://open.spotify.com/artist/1GVRgPtEC6sZFqvItIk3eg"
         }
       ],
-      "duration_ms": 220413,
-      "name": "Animal Farm",
-      "url": "https://open.spotify.com/track/1QfjU50ABFOfNhoQVREWXa"
+      "duration_ms": 170453,
+      "name": "Never Alone",
+      "url": "https://open.spotify.com/track/4Z4W0zIwGr9eJ40opS0t2C"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -539,6 +523,22 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
+        "name": "Death Knows Your Name",
+        "url": "https://open.spotify.com/album/6U0Bmn36FE4pISKv5fluBK"
+      },
+      "artists": [
+        {
+          "name": "The Hope Conspiracy",
+          "url": "https://open.spotify.com/artist/0EE0FUSX633ANADunRfZ9d"
+        }
+      ],
+      "duration_ms": 220413,
+      "name": "Animal Farm",
+      "url": "https://open.spotify.com/track/1QfjU50ABFOfNhoQVREWXa"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
         "name": "Bulldog Edition",
         "url": "https://open.spotify.com/album/6Q1Y7gyccEvxvYl698G2iy"
       },
@@ -551,54 +551,6 @@
       "duration_ms": 104600,
       "name": "Just Can't Hate Enough",
       "url": "https://open.spotify.com/track/1qrzQuZ0CegX3PQtrsek7R"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
-        "name": "Merciless",
-        "url": "https://open.spotify.com/album/6JmRIhTDgoZG1fy8UahchU"
-      },
-      "artists": [
-        {
-          "name": "Most Precious Blood",
-          "url": "https://open.spotify.com/artist/0znKUm4tIhX5cGPnynkrMu"
-        }
-      ],
-      "duration_ms": 220453,
-      "name": "Shark Ethic",
-      "url": "https://open.spotify.com/track/7lWpl0id3QSafkh4rCBCJR"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
-        "name": "Silence Is Betrayal",
-        "url": "https://open.spotify.com/album/7tIMZsN8CNgmkgA5zFulUv"
-      },
-      "artists": [
-        {
-          "name": "First Blood",
-          "url": "https://open.spotify.com/artist/4z2rZXnFuTCl75Vpb26Eg0"
-        }
-      ],
-      "duration_ms": 53168,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/2rf23PCJH09ZAc8eq4yL1B"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
-        "name": "Sound Of The Republic",
-        "url": "https://open.spotify.com/album/42NliwV96RRrJCD0yS0SCm"
-      },
-      "artists": [
-        {
-          "name": "Raised Fist",
-          "url": "https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm"
-        }
-      ],
-      "duration_ms": 212573,
-      "name": "You Ignore Them All",
-      "url": "https://open.spotify.com/track/35MYAs5EQtZ9c5NLlZammA"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -619,18 +571,50 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Count Me In",
-        "url": "https://open.spotify.com/album/6qDsZxas2r5Ye6EmHk8Wnv"
+        "name": "Silence Is Betrayal",
+        "url": "https://open.spotify.com/album/7tIMZsN8CNgmkgA5zFulUv"
       },
       "artists": [
         {
-          "name": "Death Before Dishonor",
-          "url": "https://open.spotify.com/artist/0BIBoMLD3B0gptcCP0b9K5"
+          "name": "First Blood",
+          "url": "https://open.spotify.com/artist/4z2rZXnFuTCl75Vpb26Eg0"
         }
       ],
-      "duration_ms": 181226,
-      "name": "Break Through It All",
-      "url": "https://open.spotify.com/track/4WN54cERPExpnOs1adL5nB"
+      "duration_ms": 53168,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/2rf23PCJH09ZAc8eq4yL1B"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Merciless",
+        "url": "https://open.spotify.com/album/6JmRIhTDgoZG1fy8UahchU"
+      },
+      "artists": [
+        {
+          "name": "Most Precious Blood",
+          "url": "https://open.spotify.com/artist/0znKUm4tIhX5cGPnynkrMu"
+        }
+      ],
+      "duration_ms": 220453,
+      "name": "Shark Ethic",
+      "url": "https://open.spotify.com/track/7lWpl0id3QSafkh4rCBCJR"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Sound Of The Republic",
+        "url": "https://open.spotify.com/album/42NliwV96RRrJCD0yS0SCm"
+      },
+      "artists": [
+        {
+          "name": "Raised Fist",
+          "url": "https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm"
+        }
+      ],
+      "duration_ms": 212573,
+      "name": "You Ignore Them All",
+      "url": "https://open.spotify.com/track/35MYAs5EQtZ9c5NLlZammA"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -647,6 +631,22 @@
       "duration_ms": 124373,
       "name": "Break Down the Walls",
       "url": "https://open.spotify.com/track/32dTnE7cWjEHCUAjSEvpiM"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Count Me In",
+        "url": "https://open.spotify.com/album/6qDsZxas2r5Ye6EmHk8Wnv"
+      },
+      "artists": [
+        {
+          "name": "Death Before Dishonor",
+          "url": "https://open.spotify.com/artist/0BIBoMLD3B0gptcCP0b9K5"
+        }
+      ],
+      "duration_ms": 181226,
+      "name": "Break Through It All",
+      "url": "https://open.spotify.com/track/4WN54cERPExpnOs1adL5nB"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -715,22 +715,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Ugly",
-        "url": "https://open.spotify.com/album/0DfwAJXDy8TzMgRuPNsjkc"
-      },
-      "artists": [
-        {
-          "name": "Life Of Agony",
-          "url": "https://open.spotify.com/artist/4gyzQpfG5YQZJt2jj0IkEl"
-        }
-      ],
-      "duration_ms": 238333,
-      "name": "Let's Pretend",
-      "url": "https://open.spotify.com/track/2fnHEggVPhncefeyheMsfw"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Break Down The Walls",
         "url": "https://open.spotify.com/album/37Mj1nYiNbbpOXYACvQPJX"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 100800,
       "name": "Take a Stand",
       "url": "https://open.spotify.com/track/2pyFrdfsP9c5ElbXv3m4OQ"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Ugly",
+        "url": "https://open.spotify.com/album/0DfwAJXDy8TzMgRuPNsjkc"
+      },
+      "artists": [
+        {
+          "name": "Life Of Agony",
+          "url": "https://open.spotify.com/artist/4gyzQpfG5YQZJt2jj0IkEl"
+        }
+      ],
+      "duration_ms": 238333,
+      "name": "Let's Pretend",
+      "url": "https://open.spotify.com/track/2fnHEggVPhncefeyheMsfw"
     },
     {
       "added_at": "2020-12-08 15:12:11",

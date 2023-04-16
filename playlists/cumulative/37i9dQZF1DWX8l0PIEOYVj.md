@@ -4,7 +4,7 @@
 
 > Future & melodic bass\. Cover: Blanke.
 
-334 songs - 20 hr 11 min
+335 songs - 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [All To You \(feat\. Micah Martin\)](https://open.spotify.com/track/4cQzvfSsPLcUxieNmesdzb) | [Crystal Skies](https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [All To You \(feat\. Micah Martin\)](https://open.spotify.com/album/1GyqD7X9T1UxyiYGdhvqE8) | 3:09 | 2022-07-08 | 2022-08-06 |
 | [All We Needed](https://open.spotify.com/track/6DfESv6z9PPLo1RhbzlVIb) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [All We Needed](https://open.spotify.com/album/3K5Uj6OuNzPPetcRSJhVLt) | 4:01 | 2022-07-22 |  |
 | [Almost Home \- MitiS Remix](https://open.spotify.com/track/2ddJ5eXea7HzGwAC745jOr) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Justine Suissa](https://open.spotify.com/artist/6UKSvQC8EQZUOKtUaj5uCj), [MitiS](https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw) | [Almost Home \(The Remixes\)](https://open.spotify.com/album/0xEGWXpT3SZhB5KyIbOKZ7) | 3:14 | 2022-07-08 |  |
-| [ANEMONE](https://open.spotify.com/track/5YvjSiIeHcn2eV3NZLxMj8) | [P\*Light](https://open.spotify.com/artist/7A5iW5McqgmSz4uV12zw5J) | [ANEMONE](https://open.spotify.com/album/4ubXh9LjM4YuWTiOuw7efI) | 3:15 | 2023-03-10 |  |
+| [ANEMONE](https://open.spotify.com/track/5YvjSiIeHcn2eV3NZLxMj8) | [P\*Light](https://open.spotify.com/artist/7A5iW5McqgmSz4uV12zw5J) | [ANEMONE](https://open.spotify.com/album/4ubXh9LjM4YuWTiOuw7efI) | 3:15 | 2023-03-10 | 2023-04-16 |
 | [Angel](https://open.spotify.com/track/1qX54AHbcvUeGCLM9lzorU) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu), [Dani King](https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp) | [Angel](https://open.spotify.com/album/0mojBj3o9EM3B13S5AaY52) | 3:22 | 2022-07-08 | 2022-12-03 |
 | [Angel](https://open.spotify.com/track/5BHTAblv4q9jJSffiLNvR3) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu), [Dani King](https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp) | [Angel](https://open.spotify.com/album/0Zs75HDpdepTEcZOGpwfNd) | 3:22 | 2023-03-31 |  |
 | [Another Way](https://open.spotify.com/track/6sm1OQ89659UUpGctNTXvv) | [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF), [EMME](https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs) | [Another Way](https://open.spotify.com/album/2k8sl8eCdvZGmLT2udUJLe) | 4:51 | 2022-10-07 |  |
@@ -88,6 +88,7 @@
 | [Dystopia](https://open.spotify.com/track/755jaJqdAQTreuL8MLYT5K) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Hope In Chaos](https://open.spotify.com/album/3pRgDX9Fl29rR0WcQNm0tt) | 3:13 | 2022-07-08 |  |
 | [End Of The World](https://open.spotify.com/track/57Gbza8PAWUhQfoArMnEJk) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums), [Donna Tella](https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm) | [End Of The World](https://open.spotify.com/album/5bDqrXW41FMv3f2XWkp0fW) | 3:42 | 2022-07-08 | 2022-08-27 |
 | [End Of Us](https://open.spotify.com/track/54JH6BSeisRY4MeCRwIqjX) | [N3WPORT](https://open.spotify.com/artist/1iyaH6NJWncvktAfUcNht8), [Meggie York](https://open.spotify.com/artist/0ydORocQawKL2QaPiGG8fZ) | [End Of Us](https://open.spotify.com/album/4Mvo4d7kc3htCjfxIY68Yw) | 3:00 | 2022-07-08 | 2022-07-28 |
+| [Endgame \(feat\. AERIA\)](https://open.spotify.com/track/2ttJwF0jzKnfdBgAqsTQoG) | [Rubayne](https://open.spotify.com/artist/3HbsDinWqq6h7SXIjVEpIz), [Aeria](https://open.spotify.com/artist/0xIkiN6ruvEtYA13pkLExe) | [Endgame \(feat\. AERIA\)](https://open.spotify.com/album/5tL3jv8AHpPsIhsNxdv67K) | 2:36 | 2023-03-31 |  |
 | [Endgame \(feat\. Aeria\)](https://open.spotify.com/track/3P5XaFgG3IgpbA6nhPQEJb) | [Rubayne](https://open.spotify.com/artist/3HbsDinWqq6h7SXIjVEpIz), [Aeria](https://open.spotify.com/artist/0xIkiN6ruvEtYA13pkLExe) | [Endgame \(feat\. Aeria\)](https://open.spotify.com/album/3uYebFzzsF9ECABrBPSQYx) | 2:36 | 2022-07-08 | 2022-09-16 |
 | [Endless \(Best of Me\)](https://open.spotify.com/track/1UyiFox8VnAAFRweBDKhy0) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Endless \(Best of Me\)](https://open.spotify.com/album/72LIl7Rlti55JL63E6UsmY) | 3:40 | 2022-11-11 |  |
 | [Enter REM](https://open.spotify.com/track/4TXjpUyeao6glOJfVARWi3) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF) | [Enter REM](https://open.spotify.com/album/71hcjKcbu0W3A87LKeKQN7) | 2:41 | 2022-07-08 | 2023-04-09 |

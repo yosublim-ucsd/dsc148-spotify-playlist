@@ -1,12 +1,12 @@
 {
   "description": "Alegra tu d\u00eda con lo m\u00e1s pop para la ma\u00f1ana.",
-  "num_followers": 1012379,
+  "num_followers": 1012559,
   "original_name": "Despierta y Sonr\u00ede",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI0MDMzMSwwMDAwMDAwMGU3YTgyNmU1MjdkMWExNzkyNTgwMTRiYTY1MmZlZDA5",
+  "snapshot_id": "MTY4MDI0MDMzMSwwMDAwMDAwMDNjNjMwYzIzNDc0YjBiM2I5ZDllZjRjNjgwMTBiOTAz",
   "tracks": [
     {
       "added_at": "2023-03-31 05:25:31",
@@ -215,6 +215,22 @@
     {
       "added_at": "2023-03-31 05:25:31",
       "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO",
+        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 164386,
+      "name": "MIENTRAS ME CURO DEL CORA",
+      "url": "https://open.spotify.com/track/6otePxalBK8AVa20xhZYVQ"
+    },
+    {
+      "added_at": "2023-03-31 05:25:31",
+      "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 258298,
       "name": "Ojitos Lindos",
       "url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"
-    },
-    {
-      "added_at": "2023-03-31 05:25:31",
-      "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO",
-        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 164386,
-      "name": "MIENTRAS ME CURO DEL CORA",
-      "url": "https://open.spotify.com/track/6otePxalBK8AVa20xhZYVQ"
     },
     {
       "added_at": "2023-03-31 05:25:31",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-03-31 05:25:31",
       "album": {
-        "name": "No Se Va (En Vivo)",
-        "url": "https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 194019,
-      "name": "No Se Va - En Vivo",
-      "url": "https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX"
-    },
-    {
-      "added_at": "2023-03-31 05:25:31",
-      "album": {
         "name": "Twelve Carat Toothache",
         "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 192840,
       "name": "I Like You (A Happier Song) (with Doja Cat)",
       "url": "https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"
+    },
+    {
+      "added_at": "2023-03-31 05:25:31",
+      "album": {
+        "name": "No Se Va (En Vivo)",
+        "url": "https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 194019,
+      "name": "No Se Va - En Vivo",
+      "url": "https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX"
     },
     {
       "added_at": "2023-03-31 05:25:31",
@@ -447,6 +447,22 @@
     {
       "added_at": "2023-03-31 05:25:31",
       "album": {
+        "name": "Hounds Of Love",
+        "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 298933,
+      "name": "Running Up That Hill (A Deal With God)",
+      "url": "https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO"
+    },
+    {
+      "added_at": "2023-03-31 05:25:31",
+      "album": {
         "name": "Emmanuel",
         "url": "https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 196600,
       "name": "Hey Mor",
       "url": "https://open.spotify.com/track/6Rpbzk2LC8xWZI93RyodAq"
-    },
-    {
-      "added_at": "2023-03-31 05:25:31",
-      "album": {
-        "name": "Hounds Of Love",
-        "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 298933,
-      "name": "Running Up That Hill (A Deal With God)",
-      "url": "https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO"
     },
     {
       "added_at": "2023-03-31 05:25:31",
@@ -675,6 +675,26 @@
     {
       "added_at": "2023-03-31 05:25:31",
       "album": {
+        "name": "Bam Bam (feat. Ed Sheeran)",
+        "url": "https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 206070,
+      "name": "Bam Bam (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1"
+    },
+    {
+      "added_at": "2023-03-31 05:25:31",
+      "album": {
         "name": "Mu\u00f1ecas",
         "url": "https://open.spotify.com/album/3N60ysBDxJsDwM5bpwqqwR"
       },
@@ -695,26 +715,6 @@
       "duration_ms": 156318,
       "name": "Mu\u00f1ecas",
       "url": "https://open.spotify.com/track/1PAvhqefivTNdxZ4u8RT1d"
-    },
-    {
-      "added_at": "2023-03-31 05:25:31",
-      "album": {
-        "name": "Bam Bam (feat. Ed Sheeran)",
-        "url": "https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 206070,
-      "name": "Bam Bam (feat. Ed Sheeran)",
-      "url": "https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1"
     },
     {
       "added_at": "2023-03-31 05:25:31",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-03-31 05:25:31",
       "album": {
-        "name": "Thousand Miles",
-        "url": "https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 164781,
-      "name": "Thousand Miles",
-      "url": "https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg"
-    },
-    {
-      "added_at": "2023-03-31 05:25:31",
-      "album": {
         "name": "Tiroteo (Remix)",
         "url": "https://open.spotify.com/album/2Ke07jWpOWaNVYpNMmXt7C"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 321555,
       "name": "Tiroteo - Remix",
       "url": "https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i"
+    },
+    {
+      "added_at": "2023-03-31 05:25:31",
+      "album": {
+        "name": "Thousand Miles",
+        "url": "https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 164781,
+      "name": "Thousand Miles",
+      "url": "https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg"
     },
     {
       "added_at": "2023-03-31 05:25:31",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-03-31 05:25:31",
       "album": {
-        "name": "El Madrile\u00f1o",
-        "url": "https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9"
-      },
-      "artists": [
-        {
-          "name": "C. Tangana",
-          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
-        }
-      ],
-      "duration_ms": 153960,
-      "name": "Demasiadas Mujeres",
-      "url": "https://open.spotify.com/track/3GaGWoU1KfVqgl7vnRHP55"
-    },
-    {
-      "added_at": "2023-03-31 05:25:31",
-      "album": {
         "name": "Celebration (double disc version)",
         "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 240280,
       "name": "Material Girl",
       "url": "https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5"
+    },
+    {
+      "added_at": "2023-03-31 05:25:31",
+      "album": {
+        "name": "El Madrile\u00f1o",
+        "url": "https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9"
+      },
+      "artists": [
+        {
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        }
+      ],
+      "duration_ms": 153960,
+      "name": "Demasiadas Mujeres",
+      "url": "https://open.spotify.com/track/3GaGWoU1KfVqgl7vnRHP55"
     },
     {
       "added_at": "2023-03-31 05:25:31",
@@ -1103,42 +1103,6 @@
     {
       "added_at": "2023-03-31 05:25:31",
       "album": {
-        "name": "CHAO BEBE",
-        "url": "https://open.spotify.com/album/7C2TalJn5YLPTuY7tA0ok5"
-      },
-      "artists": [
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 206499,
-      "name": "CHAO BEBE",
-      "url": "https://open.spotify.com/track/2caVKAWz7oM5Hw3LDWWVnQ"
-    },
-    {
-      "added_at": "2023-03-31 05:25:31",
-      "album": {
-        "name": "Junio",
-        "url": "https://open.spotify.com/album/5Gabq4Ub8V9izQ0WNGToqB"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 168601,
-      "name": "Junio",
-      "url": "https://open.spotify.com/track/4XqXNU8MwPHwbgZmNXmAdc"
-    },
-    {
-      "added_at": "2023-03-31 05:25:31",
-      "album": {
         "name": "12x3",
         "url": "https://open.spotify.com/album/2yTsZhJ86LtD1hvl8wSRPr"
       },
@@ -1155,18 +1119,18 @@
     {
       "added_at": "2023-03-31 05:25:31",
       "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD"
+        "name": "Junio",
+        "url": "https://open.spotify.com/album/5Gabq4Ub8V9izQ0WNGToqB"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 153190,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/5dPz35akJjPqb17yeqNwqH"
+      "duration_ms": 168601,
+      "name": "Junio",
+      "url": "https://open.spotify.com/track/4XqXNU8MwPHwbgZmNXmAdc"
     },
     {
       "added_at": "2023-03-31 05:25:31",
@@ -1191,6 +1155,42 @@
       "duration_ms": 226187,
       "name": "Una Vaina Loca",
       "url": "https://open.spotify.com/track/2qEoAz0i6yEz5dPggABcLH"
+    },
+    {
+      "added_at": "2023-03-31 05:25:31",
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 153190,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/5dPz35akJjPqb17yeqNwqH"
+    },
+    {
+      "added_at": "2023-03-31 05:25:31",
+      "album": {
+        "name": "CHAO BEBE",
+        "url": "https://open.spotify.com/album/7C2TalJn5YLPTuY7tA0ok5"
+      },
+      "artists": [
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 206499,
+      "name": "CHAO BEBE",
+      "url": "https://open.spotify.com/track/2caVKAWz7oM5Hw3LDWWVnQ"
     },
     {
       "added_at": "2023-03-31 05:25:31",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-03-31 05:25:31",
       "album": {
+        "name": "PARA\u00cdSO",
+        "url": "https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "duration_ms": 190745,
+      "name": "DOMINGO DE BOTE",
+      "url": "https://open.spotify.com/track/0rvbMTIWwMZaMC9UnubDPb"
+    },
+    {
+      "added_at": "2023-03-31 05:25:31",
+      "album": {
         "name": "Pareja Del A\u00f1o",
         "url": "https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 195053,
       "name": "Pareja Del A\u00f1o",
       "url": "https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM"
-    },
-    {
-      "added_at": "2023-03-31 05:25:31",
-      "album": {
-        "name": "PARA\u00cdSO",
-        "url": "https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        }
-      ],
-      "duration_ms": 190745,
-      "name": "DOMINGO DE BOTE",
-      "url": "https://open.spotify.com/track/0rvbMTIWwMZaMC9UnubDPb"
     },
     {
       "added_at": "2023-03-31 05:25:31",
@@ -1619,22 +1619,18 @@
     {
       "added_at": "2023-03-31 05:25:31",
       "album": {
-        "name": "Te Espero",
-        "url": "https://open.spotify.com/album/6vBJJJEUCqmzaBnzwtRgPK"
+        "name": "El Amor En Los Tiempos Del Perreo",
+        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
       },
       "artists": [
         {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
         }
       ],
-      "duration_ms": 246850,
-      "name": "Te Espero",
-      "url": "https://open.spotify.com/track/46GsFW8AFIvi8TUDlYRlXR"
+      "duration_ms": 211998,
+      "name": "Tan Bonita",
+      "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
     },
     {
       "added_at": "2023-03-31 05:25:31",
@@ -1663,18 +1659,22 @@
     {
       "added_at": "2023-03-31 05:25:31",
       "album": {
-        "name": "El Amor En Los Tiempos Del Perreo",
-        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
+        "name": "Te Espero",
+        "url": "https://open.spotify.com/album/6vBJJJEUCqmzaBnzwtRgPK"
       },
       "artists": [
         {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 211998,
-      "name": "Tan Bonita",
-      "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
+      "duration_ms": 246850,
+      "name": "Te Espero",
+      "url": "https://open.spotify.com/track/46GsFW8AFIvi8TUDlYRlXR"
     },
     {
       "added_at": "2023-03-31 05:25:31",
@@ -1751,26 +1751,6 @@
     {
       "added_at": "2023-03-31 05:25:31",
       "album": {
-        "name": "@dannocean",
-        "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 212914,
-      "name": "SI ES AMOR",
-      "url": "https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S"
-    },
-    {
-      "added_at": "2023-03-31 05:25:31",
-      "album": {
         "name": "Pegao",
         "url": "https://open.spotify.com/album/2BzQoZdHURkzdFErSQ2Qll"
       },
@@ -1799,6 +1779,26 @@
       "duration_ms": 155380,
       "name": "Fr\u00edo",
       "url": "https://open.spotify.com/track/0df1oUN5ta7FSWwjGvhHa5"
+    },
+    {
+      "added_at": "2023-03-31 05:25:31",
+      "album": {
+        "name": "@dannocean",
+        "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 212914,
+      "name": "SI ES AMOR",
+      "url": "https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S"
     },
     {
       "added_at": "2023-03-31 05:25:31",

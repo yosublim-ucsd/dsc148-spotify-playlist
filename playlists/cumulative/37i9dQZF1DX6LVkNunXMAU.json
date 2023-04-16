@@ -1091,6 +1091,28 @@
     },
     {
       "album": {
+        "name": "Es Tan Bonita",
+        "url": "https://open.spotify.com/album/3YkDljxrqjy8O4CEJQkvLY"
+      },
+      "artists": [
+        {
+          "name": "George Rhoads",
+          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
+        },
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159333,
+      "name": "Es Tan Bonita",
+      "url": "https://open.spotify.com/track/05lyKjGs0wYxWvoxWnJQju"
+    },
+    {
+      "album": {
         "name": "El Poder del Mar",
         "url": "https://open.spotify.com/album/1ruz4l7Q6kJu92ezyaMYYL"
       },
@@ -2236,7 +2258,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 165205,
       "name": "Pasajeros",
       "url": "https://open.spotify.com/track/65VrYowEhFUUuyK8DQKdHY"

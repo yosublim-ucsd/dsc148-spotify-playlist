@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 
 > Acoustic playlist to accompany your coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 549,017 likes - 75 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 549,102 likes - 75 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 | 44 | [Resah](https://open.spotify.com/track/1k5vv2ood14aa5uBYWBlWh) | [Payung Teduh](https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ) | [Dunia Batas](https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ) | 4:00 |
 | 45 | [Fly Me to the Moon](https://open.spotify.com/track/0flo3KqhjkcuoB1G6Mhq7s) | [The Macarons Project](https://open.spotify.com/artist/61VZakASLH5PweMQzF7R8r) | [Fly Me to the Moon](https://open.spotify.com/album/46IRvicHZhTd1qrdwaLJxC) | 2:35 |
 | 46 | [I Still Love You](https://open.spotify.com/track/4reIsHKw5hUj4pV8zzMjLA) | [TheOvertunes](https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk) | [Cek Toko Sebelah \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5RWbax0hn7iswKdw9FsyAe) | 4:46 |
-| 47 | [happy](https://open.spotify.com/track/6YTmsdqH5LZzCGIY0lqloD) | [Skinnyfabs](https://open.spotify.com/artist/3f0GZTXzBCmd5IBiMfsh1H) | [happy](https://open.spotify.com/album/0pVXyvbdicfbAhqKaxsnkd) | 2:53 |
-| 48 | [Melukis Senja](https://open.spotify.com/track/0ZEYRVISCaqz5yamWZWzaA) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [Melukis Senja](https://open.spotify.com/album/0jLBLt7jIjOz5n3jDiL2zn) | 4:11 |
+| 47 | [Melukis Senja](https://open.spotify.com/track/0ZEYRVISCaqz5yamWZWzaA) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [Melukis Senja](https://open.spotify.com/album/0jLBLt7jIjOz5n3jDiL2zn) | 4:11 |
+| 48 | [happy](https://open.spotify.com/track/6YTmsdqH5LZzCGIY0lqloD) | [Skinnyfabs](https://open.spotify.com/artist/3f0GZTXzBCmd5IBiMfsh1H) | [happy](https://open.spotify.com/album/0pVXyvbdicfbAhqKaxsnkd) | 2:53 |
 | 49 | [April](https://open.spotify.com/track/3IesVVqYxCsRCsz5OCmC7q) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Tempat Aku Pulang](https://open.spotify.com/album/1AA1avbCE48opUmDgywTO7) | 4:23 |
 | 50 | [Kita usahakan rumah itu](https://open.spotify.com/track/1x9jnpPOAMSrr7DuIG5jMl) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [MARKERS AND SUCH](https://open.spotify.com/album/6pEUguV7EoReCpbQQE6QrE) | 3:31 |
 | 51 | [Dekat Di Hati](https://open.spotify.com/track/0owU9W5gPsJEcwAmMjzomy) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX) | [Hari Baru](https://open.spotify.com/album/7xnqhnEdGGRmEQ6oGDudkr) | 4:28 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 | 64 | [Rumpang](https://open.spotify.com/track/2TRGNVokPnC2a2oHg5iv1H) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Rumpang](https://open.spotify.com/album/3StxBwbZwtipjzs3ZfldlJ) | 5:23 |
 | 65 | [Zona Nyaman \(From "Filosofi Kopi 2: Ben & Jody"\)](https://open.spotify.com/track/4lfAvFv8roumWVKXhHF8uN) | [Fourtwnty](https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj) | [Ego & Fungsi Otak](https://open.spotify.com/album/01PCAiyhBHXTj9KfSigcQz) | 4:03 |
 | 66 | [Kenanglah Aku](https://open.spotify.com/track/0zJIPpVcHKWqmf2FaKXbQQ) | [NaFF](https://open.spotify.com/artist/1ryXwlpQNzkSCfU685Ftx5) | [Senandung Hati dan Jiwa](https://open.spotify.com/album/6JZRJTpUNTsaTqk5auZj52) | 4:00 |
-| 67 | [Yang Patah Tumbuh, Yang Hilang Berganti](https://open.spotify.com/track/6Rd4ep779v8CjlFVhaHrNX) | [Banda Neira](https://open.spotify.com/artist/3f49JTIdjQTVVx2Y6ifVLc) | [Yang Patah Tumbuh, Yang Hilang Berganti](https://open.spotify.com/album/1e1NmOduCFHp1z29cSzyMa) | 6:33 |
-| 68 | [Putus Atau Terus](https://open.spotify.com/track/7HBW6yX8iRf81nn6NVOzHL) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Putus Atau Terus](https://open.spotify.com/album/1zqYuKvhLBILR5PZdyAMyW) | 4:08 |
+| 67 | [Putus Atau Terus](https://open.spotify.com/track/7HBW6yX8iRf81nn6NVOzHL) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Putus Atau Terus](https://open.spotify.com/album/1zqYuKvhLBILR5PZdyAMyW) | 4:08 |
+| 68 | [Yang Patah Tumbuh, Yang Hilang Berganti](https://open.spotify.com/track/6Rd4ep779v8CjlFVhaHrNX) | [Banda Neira](https://open.spotify.com/artist/3f49JTIdjQTVVx2Y6ifVLc) | [Yang Patah Tumbuh, Yang Hilang Berganti](https://open.spotify.com/album/1e1NmOduCFHp1z29cSzyMa) | 6:33 |
 | 69 | [Gajah](https://open.spotify.com/track/7vZTvo2aJ6wHKCGjwjdWIf) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Gajah](https://open.spotify.com/album/0d5mFusjnb62TQWBft3zc6) | 3:59 |
 | 70 | [Untitled](https://open.spotify.com/track/1i9iliTpiPLizleapSg37I) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [1st Special Edition](https://open.spotify.com/album/0qG0Ij0WCn6JgWREX8eAaK) | 4:05 |
 | 71 | [Pegang Tanganku](https://open.spotify.com/track/6xHRfpo0kMRNuZ3v1e3xYF) | [Nosstress](https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co) | [Perspektif Bodoh, Vol\. 2](https://open.spotify.com/album/3HsbseyB7O4YOrvsSnryS1) | 5:08 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 | 74 | [Seamin Tak Seiman](https://open.spotify.com/track/26mwiyfmCKJBneTzlELpun) | [Mahen](https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh) | [Seamin Tak Seiman](https://open.spotify.com/album/7owNPjJUe8SaGuJ8zpYf6m) | 3:36 |
 | 75 | [Dewi](https://open.spotify.com/track/3dPqT7eqD97dsN6kFUixk0) | [Alexa](https://open.spotify.com/artist/4uuAKtwipCmH2ZmVkUce0W) | [Alexa](https://open.spotify.com/album/570sRCpoqrYLlOmKVC8yog) | 4:17 |
 
-Snapshot ID: `MTY4MTQ1ODI3NywwMDAwMDAwMDIxM2RhYTU5Nzg2MWY2ZGZmNGM1Yzg3NzBkNDA3Y2Yy`
+Snapshot ID: `MTY4MTQ1ODI3NywwMDAwMDAwMGQ1MTI4NzU5YmNjNzhhNWU4ODMyM2M2NDQ1NGMxMTU3`

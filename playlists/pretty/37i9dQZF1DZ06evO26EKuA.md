@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26EKuA.md) - [plain]
 
 > This is Valentín Elizalde\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,203 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,461 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26EKuA.md) - [plain]
 | 26 | [Vete Con Él](https://open.spotify.com/track/11GMhNq5s4B2FTPzi0ahZL) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Las Bandas Románticas](https://open.spotify.com/album/0msllXlEH4Ndpv2NFcSCBd) | 3:06 |
 | 27 | [118 Balazos](https://open.spotify.com/track/1x7w8NuVvmSP4r65576eUZ) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [La Historia De Los Exitos](https://open.spotify.com/album/5oDuUiZkrmZeBgdyVcgFL6) | 2:52 |
 | 28 | [La Suavecita](https://open.spotify.com/track/2hHIB7iJW9Pj7sDNqZ2S3g) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [17 Exitos en Honor a Mi Padre](https://open.spotify.com/album/2BzMoa1U74hHKVgLlzKVoU) | 3:15 |
-| 29 | [El M Grande](https://open.spotify.com/track/4DMuDJisndgBlDGsvx5yG8) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [El M Grande](https://open.spotify.com/album/3mtVCsqcqQ9N56rIeLbO5y) | 3:00 |
+| 29 | [Mi Gusto Es \- En Vivo Desde Delfos, Guadalajara/2002](https://open.spotify.com/track/02fiVilPtgr2v54oU7V0Tz) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Valentin Elizalde En Vivo](https://open.spotify.com/album/59xpl8GLkPx7p6cuEVrZ8L) | 3:04 |
 | 30 | [Aunque Te Enamores](https://open.spotify.com/track/0F6ajDDUlAepkLFIyBLS0W) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Las Bandas Románticas](https://open.spotify.com/album/0msllXlEH4Ndpv2NFcSCBd) | 3:54 |
-| 31 | [Mi Gusto Es \- En Vivo Desde Delfos, Guadalajara/2002](https://open.spotify.com/track/02fiVilPtgr2v54oU7V0Tz) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Valentin Elizalde En Vivo](https://open.spotify.com/album/59xpl8GLkPx7p6cuEVrZ8L) | 3:04 |
+| 31 | [El M Grande](https://open.spotify.com/track/4DMuDJisndgBlDGsvx5yG8) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [El M Grande](https://open.spotify.com/album/3mtVCsqcqQ9N56rIeLbO5y) | 3:00 |
 | 32 | [Que Vivan Las Mujeres](https://open.spotify.com/track/42Ja72gm1M9ddPKoIVotVI) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Volveré a Amar](https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h) | 2:32 |
 | 33 | [Los "Pajaros" \- Bonus Track](https://open.spotify.com/track/6M517vjML2dFAE41OfF1JA) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Sin Censura Su Último Concierto \(En Vivo Desde Los Angeles CA, 2006 / Componente 2\)](https://open.spotify.com/album/509Khys7Q3ZDhPuGaDL11p) | 2:56 |
 | 34 | [Sobre La Tumba De Mi Padre](https://open.spotify.com/track/6jVcf6qobg1VLoYah4jomr) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Íconos 25 Éxitos](https://open.spotify.com/album/0GKxtrQuqpABUvukziRENV) | 3:51 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26EKuA.md) - [plain]
 | 38 | [La Tambora Va A Sonar](https://open.spotify.com/track/2VeCQKwNIqeEBIu4abOKKO) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [La Mejor Colección De Corridos](https://open.spotify.com/album/7lk2j5XmLBaWJw40K6lTtZ) | 2:37 |
 | 39 | [Acá Entre Nos \- En Vivo Desde Delfos, Guadalajara/2002](https://open.spotify.com/track/2YBcpGHHvg9vfCosDvTeal) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Valentin Elizalde En Vivo](https://open.spotify.com/album/59xpl8GLkPx7p6cuEVrZ8L) | 3:55 |
 | 40 | [Ya Viene Amaneciendo](https://open.spotify.com/track/5AVJgFRGY7zv55T2XcuJcH) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Las Bandas Románticas](https://open.spotify.com/album/0msllXlEH4Ndpv2NFcSCBd) | 2:17 |
-| 41 | [Mi Virgencita](https://open.spotify.com/track/2uKWSWKk9Mi7tCFgDg7Tui) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Regresan Los Mafiosos](https://open.spotify.com/album/6t1A1wEKK74pqQkS06OTzY) | 2:25 |
-| 42 | [El Huizache](https://open.spotify.com/track/6GYRz31A9T4PaUbrO5Kprz) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Exitos De Valentín Elizalde](https://open.spotify.com/album/40Uw1siLm23gdzJGgzpJkB) | 3:55 |
+| 41 | [El Huizache](https://open.spotify.com/track/6GYRz31A9T4PaUbrO5Kprz) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Exitos De Valentín Elizalde](https://open.spotify.com/album/40Uw1siLm23gdzJGgzpJkB) | 3:55 |
+| 42 | [Mi Virgencita](https://open.spotify.com/track/2uKWSWKk9Mi7tCFgDg7Tui) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Regresan Los Mafiosos](https://open.spotify.com/album/6t1A1wEKK74pqQkS06OTzY) | 2:25 |
 | 43 | [La Gallina Ponedora](https://open.spotify.com/track/7sWpr279lr6tDK5w0js3pC) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Soy Así](https://open.spotify.com/album/4SrvbBpwiAJf09kK7EvQsk) | 2:53 |
 | 44 | [Flor de Capomo](https://open.spotify.com/track/4tjXsHj3H4RYPd0vGHmACg) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Flor de Capomo](https://open.spotify.com/album/0TBSLDwB9LUUUwKLdWdHjf) | 2:35 |
 | 45 | [Porque Te Extraño](https://open.spotify.com/track/15HZrq9yh0fDrI3RIsmwBe) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Lobo Domesticado](https://open.spotify.com/album/3zLqP9HFFRT6uEI0kOLuNP) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26EKuA.md) - [plain]
 | 49 | [Pa' Qué Son Pasiones](https://open.spotify.com/track/1g8OBHnpZeQI1yoyJrjWQ2) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA), [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Pa' Qué Son Pasiones](https://open.spotify.com/album/3ghUPKQkDQ0ZjNTePotJDj) | 2:50 |
 | 50 | [Amor Que Muere \- En Vivo Desde Delfos, Guadalajara/2002](https://open.spotify.com/track/2NHZp87Eo4QbgSTYwcFAcs) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Valentin Elizalde En Vivo](https://open.spotify.com/album/59xpl8GLkPx7p6cuEVrZ8L) | 2:52 |
 
-Snapshot ID: `MjgwMjQ4NTIsMDAwMDAwMDAwZWM3NWY0NzQxMjlhOWRmNzM5OGE0MzYxOGY0ZjdjOA==`
+Snapshot ID: `MjgwMjYwMzEsMDAwMDAwMDBhMTUyMjczMzAwZmFiYmExNDk1Mzg4NTkwNjUxMTUzNg==`

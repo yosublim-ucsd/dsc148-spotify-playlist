@@ -1,12 +1,12 @@
 {
   "description": "The best instrumental versions of the american songbook classics. Cover: Stan Getz",
-  "num_followers": 71168,
+  "num_followers": 71308,
   "original_name": "Instrumental Jazz Standards",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTM4NzI5MSwwMDAwMDAwMGUzN2UzMThhOGNhZTIyMjAxNTZhNzIzM2Y2Mzg4YmU2",
+  "snapshot_id": "MTY4MTM4NzI5MSwwMDAwMDAwMDM1OGFmYTUyNDFjNWUwODI1OGU0NzYwNjVjZjQ3MTVm",
   "tracks": [
     {
       "added_at": "2023-04-13 12:01:31",
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-04-13 12:01:31",
       "album": {
-        "name": "Night Lights (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1uJ9OJIgmgj4ta8xjq9nEJ"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan Sextet",
-          "url": "https://open.spotify.com/artist/6tzN9Ew9w6JB0UQr8culs1"
-        }
-      ],
-      "duration_ms": 339533,
-      "name": "In The Wee Small Hours Of The Morning",
-      "url": "https://open.spotify.com/track/4c9u4ruTL1xWv2YcnS8AjN"
-    },
-    {
-      "added_at": "2023-04-13 12:01:31",
-      "album": {
         "name": "The Magnificent Thad Jones (Remastered)",
         "url": "https://open.spotify.com/album/5ZaHEBnWWXSD3zvfiY6pju"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 403360,
       "name": "April In Paris - 2007 Remaster/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/3QuSHJUfvuOyeKMS32Wckj"
+    },
+    {
+      "added_at": "2023-04-13 12:01:31",
+      "album": {
+        "name": "Night Lights (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1uJ9OJIgmgj4ta8xjq9nEJ"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan Sextet",
+          "url": "https://open.spotify.com/artist/6tzN9Ew9w6JB0UQr8culs1"
+        }
+      ],
+      "duration_ms": 339533,
+      "name": "In The Wee Small Hours Of The Morning",
+      "url": "https://open.spotify.com/track/4c9u4ruTL1xWv2YcnS8AjN"
     },
     {
       "added_at": "2023-04-13 12:01:31",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-04-13 12:01:31",
       "album": {
+        "name": "Used To Be Duke",
+        "url": "https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hodges",
+          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
+        }
+      ],
+      "duration_ms": 176240,
+      "name": "On The Sunny Side Of The Street",
+      "url": "https://open.spotify.com/track/3FAweDLYCPCPac82221ULG"
+    },
+    {
+      "added_at": "2023-04-13 12:01:31",
+      "album": {
         "name": "Master Trio",
         "url": "https://open.spotify.com/album/0O6FZJtO0RcQEDu3t55vF4"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 191293,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/1Jrdpneg6p0j2crsbuxW0R"
-    },
-    {
-      "added_at": "2023-04-13 12:01:31",
-      "album": {
-        "name": "Used To Be Duke",
-        "url": "https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hodges",
-          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
-        }
-      ],
-      "duration_ms": 176240,
-      "name": "On The Sunny Side Of The Street",
-      "url": "https://open.spotify.com/track/3FAweDLYCPCPac82221ULG"
     },
     {
       "added_at": "2023-04-13 12:01:31",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-04-13 12:01:31",
       "album": {
-        "name": "Explorations [Original Jazz Classics Remasters]",
-        "url": "https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans Trio",
-          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
-        }
-      ],
-      "duration_ms": 213720,
-      "name": "How Deep Is The Ocean",
-      "url": "https://open.spotify.com/track/3Cx9inYYVQw4VEUrwKgPuX"
-    },
-    {
-      "added_at": "2023-04-13 12:01:31",
-      "album": {
         "name": "Chet (Keepnews Collection)",
         "url": "https://open.spotify.com/album/1MlU3WEMLbxw9d4B08AptQ"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 218093,
       "name": "How High The Moon",
       "url": "https://open.spotify.com/track/1qagJUT7uzS8eAkDJmO8QG"
+    },
+    {
+      "added_at": "2023-04-13 12:01:31",
+      "album": {
+        "name": "Explorations [Original Jazz Classics Remasters]",
+        "url": "https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans Trio",
+          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+        }
+      ],
+      "duration_ms": 213720,
+      "name": "How Deep Is The Ocean",
+      "url": "https://open.spotify.com/track/3Cx9inYYVQw4VEUrwKgPuX"
     },
     {
       "added_at": "2023-04-13 12:01:31",
@@ -999,26 +999,6 @@
     {
       "added_at": "2023-04-13 12:01:31",
       "album": {
-        "name": "Lee Konitz with Warne Marsh",
-        "url": "https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c"
-      },
-      "artists": [
-        {
-          "name": "Lee Konitz",
-          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
-        },
-        {
-          "name": "Warne Marsh",
-          "url": "https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D"
-        }
-      ],
-      "duration_ms": 285666,
-      "name": "There Will Never Be Another You",
-      "url": "https://open.spotify.com/track/1Ju8QHOsXPehuL2pCPjXA0"
-    },
-    {
-      "added_at": "2023-04-13 12:01:31",
-      "album": {
         "name": "Soul Station",
         "url": "https://open.spotify.com/album/731OW49heGHCMrMOREHYlY"
       },
@@ -1035,18 +1015,22 @@
     {
       "added_at": "2023-04-13 12:01:31",
       "album": {
-        "name": "Gettin' Together!",
-        "url": "https://open.spotify.com/album/2R7pL2UXf9wBMYg7b37XLB"
+        "name": "Lee Konitz with Warne Marsh",
+        "url": "https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c"
       },
       "artists": [
         {
-          "name": "Paul Gonsalves",
-          "url": "https://open.spotify.com/artist/23hRv3SqLMrj4i3b3tfUu4"
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+        },
+        {
+          "name": "Warne Marsh",
+          "url": "https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D"
         }
       ],
-      "duration_ms": 245906,
-      "name": "I Cover The Waterfront",
-      "url": "https://open.spotify.com/track/1YNHdhvXBogdk54KI1yd2P"
+      "duration_ms": 285666,
+      "name": "There Will Never Be Another You",
+      "url": "https://open.spotify.com/track/1Ju8QHOsXPehuL2pCPjXA0"
     },
     {
       "added_at": "2023-04-13 12:01:31",
@@ -1079,22 +1063,18 @@
     {
       "added_at": "2023-04-13 12:01:31",
       "album": {
-        "name": "Pres & Teddy",
-        "url": "https://open.spotify.com/album/7BsTlBs92PJa4mTPKTi8Nq"
+        "name": "Gettin' Together!",
+        "url": "https://open.spotify.com/album/2R7pL2UXf9wBMYg7b37XLB"
       },
       "artists": [
         {
-          "name": "Lester Young",
-          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
-        },
-        {
-          "name": "Teddy Wilson Quartet",
-          "url": "https://open.spotify.com/artist/4BeuZiSWQWLybvkCiBos0c"
+          "name": "Paul Gonsalves",
+          "url": "https://open.spotify.com/artist/23hRv3SqLMrj4i3b3tfUu4"
         }
       ],
-      "duration_ms": 410666,
-      "name": "Love Me Or Leave Me",
-      "url": "https://open.spotify.com/track/03zs6lKk7xwsdIusCnwXL9"
+      "duration_ms": 245906,
+      "name": "I Cover The Waterfront",
+      "url": "https://open.spotify.com/track/1YNHdhvXBogdk54KI1yd2P"
     },
     {
       "added_at": "2023-04-13 12:01:31",
@@ -1115,22 +1095,6 @@
     {
       "added_at": "2023-04-13 12:01:31",
       "album": {
-        "name": "Jazz 'Round Midnight",
-        "url": "https://open.spotify.com/album/7pFxr8Y8sqlALBW2mg1AUr"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 399000,
-      "name": "Tenderly",
-      "url": "https://open.spotify.com/track/6i5EWjhdORPYWGyYVHfhxE"
-    },
-    {
-      "added_at": "2023-04-13 12:01:31",
-      "album": {
         "name": "Another Workout",
         "url": "https://open.spotify.com/album/0asfmpz1bfQKt2Q0GDJAji"
       },
@@ -1143,6 +1107,42 @@
       "duration_ms": 483946,
       "name": "Hello, Young Lovers - Remastered 2006",
       "url": "https://open.spotify.com/track/0FbiwclsX9EVAY711xZQ9g"
+    },
+    {
+      "added_at": "2023-04-13 12:01:31",
+      "album": {
+        "name": "Pres & Teddy",
+        "url": "https://open.spotify.com/album/7BsTlBs92PJa4mTPKTi8Nq"
+      },
+      "artists": [
+        {
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+        },
+        {
+          "name": "Teddy Wilson Quartet",
+          "url": "https://open.spotify.com/artist/4BeuZiSWQWLybvkCiBos0c"
+        }
+      ],
+      "duration_ms": 410666,
+      "name": "Love Me Or Leave Me",
+      "url": "https://open.spotify.com/track/03zs6lKk7xwsdIusCnwXL9"
+    },
+    {
+      "added_at": "2023-04-13 12:01:31",
+      "album": {
+        "name": "Jazz 'Round Midnight",
+        "url": "https://open.spotify.com/album/7pFxr8Y8sqlALBW2mg1AUr"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 399000,
+      "name": "Tenderly",
+      "url": "https://open.spotify.com/track/6i5EWjhdORPYWGyYVHfhxE"
     },
     {
       "added_at": "2023-04-13 12:01:31",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-04-13 12:01:31",
       "album": {
-        "name": "Piano In The Background",
-        "url": "https://open.spotify.com/album/5HRYqb7mp810fhgWiUL0uo"
-      },
-      "artists": [
-        {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
-        }
-      ],
-      "duration_ms": 322333,
-      "name": "Lullaby of Birdland",
-      "url": "https://open.spotify.com/track/1SOdC5J2VbpVuvxOxmsVdX"
-    },
-    {
-      "added_at": "2023-04-13 12:01:31",
-      "album": {
         "name": "Further Definitions",
         "url": "https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 250840,
       "name": "Body And Soul",
       "url": "https://open.spotify.com/track/0BKNINLyNmQUvs9biD0ynB"
+    },
+    {
+      "added_at": "2023-04-13 12:01:31",
+      "album": {
+        "name": "Piano In The Background",
+        "url": "https://open.spotify.com/album/5HRYqb7mp810fhgWiUL0uo"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "duration_ms": 322333,
+      "name": "Lullaby of Birdland",
+      "url": "https://open.spotify.com/track/1SOdC5J2VbpVuvxOxmsVdX"
     },
     {
       "added_at": "2023-04-13 12:01:31",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-04-13 12:01:31",
       "album": {
-        "name": "Julian \"Cannonball\" Adderley",
-        "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        }
-      ],
-      "duration_ms": 253133,
-      "name": "The Song Is You",
-      "url": "https://open.spotify.com/track/64UJdbSWjE1iS5pWhP8m1f"
-    },
-    {
-      "added_at": "2023-04-13 12:01:31",
-      "album": {
         "name": "New Faces - New Sounds, Wynton Kelly Piano Interpretations",
         "url": "https://open.spotify.com/album/2lB4nYpIXctWDzAT5RRrVu"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 191146,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/1uqApAOabz4EsmiTIHBD00"
+    },
+    {
+      "added_at": "2023-04-13 12:01:31",
+      "album": {
+        "name": "Julian \"Cannonball\" Adderley",
+        "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        }
+      ],
+      "duration_ms": 253133,
+      "name": "The Song Is You",
+      "url": "https://open.spotify.com/track/64UJdbSWjE1iS5pWhP8m1f"
     },
     {
       "added_at": "2023-04-13 12:01:31",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-04-13 12:01:31",
       "album": {
-        "name": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
-        "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
-      },
-      "artists": [
-        {
-          "name": "Johnny Griffin",
-          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
-        }
-      ],
-      "duration_ms": 309253,
-      "name": "These Foolish Things - Remastered 2006/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/6TmiTiUSaogXRfKFayMtjD"
-    },
-    {
-      "added_at": "2023-04-13 12:01:31",
-      "album": {
         "name": "Cannonball Adderley Quintet In Chicago",
         "url": "https://open.spotify.com/album/5XrBfIAn0HPSmeOvcmkNpk"
       },
@@ -1515,22 +1499,34 @@
     {
       "added_at": "2023-04-13 12:01:31",
       "album": {
-        "name": "Nancy Wilson/Cannonball Adderley",
-        "url": "https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ"
+        "name": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
+        "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
       },
       "artists": [
         {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        },
-        {
-          "name": "Sweet",
-          "url": "https://open.spotify.com/artist/67nLnlcWUfGyc0hKgZQILs"
+          "name": "Johnny Griffin",
+          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
         }
       ],
-      "duration_ms": 297533,
-      "name": "I Can't Get Started - Instrumental",
-      "url": "https://open.spotify.com/track/5OJw2p5rD4DwtGOCC438De"
+      "duration_ms": 309253,
+      "name": "These Foolish Things - Remastered 2006/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/6TmiTiUSaogXRfKFayMtjD"
+    },
+    {
+      "added_at": "2023-04-13 12:01:31",
+      "album": {
+        "name": "Kelly Blue (Keepnews Collection)",
+        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
+      },
+      "artists": [
+        {
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+        }
+      ],
+      "duration_ms": 267053,
+      "name": "Do Nothing Till You Hear From Me",
+      "url": "https://open.spotify.com/track/2gC5J2BtNCK9L0qRTYYD12"
     },
     {
       "added_at": "2023-04-13 12:01:31",
@@ -1571,38 +1567,6 @@
     {
       "added_at": "2023-04-13 12:01:31",
       "album": {
-        "name": "Modern Art",
-        "url": "https://open.spotify.com/album/49HY44cDZDZ3iytyXdajQ6"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 363026,
-      "name": "What Is This Thing Called Love?",
-      "url": "https://open.spotify.com/track/7uwEQccVDaRZwz3zp09e5M"
-    },
-    {
-      "added_at": "2023-04-13 12:01:31",
-      "album": {
-        "name": "Kelly Blue (Keepnews Collection)",
-        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
-      },
-      "artists": [
-        {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
-        }
-      ],
-      "duration_ms": 267053,
-      "name": "Do Nothing Till You Hear From Me",
-      "url": "https://open.spotify.com/track/2gC5J2BtNCK9L0qRTYYD12"
-    },
-    {
-      "added_at": "2023-04-13 12:01:31",
-      "album": {
         "name": "Cosmopolite: The Oscar Peterson Verve Sessions",
         "url": "https://open.spotify.com/album/2PcX4DkcszoOZ0ee0efDMN"
       },
@@ -1623,34 +1587,38 @@
     {
       "added_at": "2023-04-13 12:01:31",
       "album": {
-        "name": "Standards",
-        "url": "https://open.spotify.com/album/20CL0GYrvQaf6haE8i2QOf"
+        "name": "Nancy Wilson/Cannonball Adderley",
+        "url": "https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ"
       },
       "artists": [
         {
-          "name": "Sonny Clark",
-          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        },
+        {
+          "name": "Sweet",
+          "url": "https://open.spotify.com/artist/67nLnlcWUfGyc0hKgZQILs"
         }
       ],
-      "duration_ms": 259000,
-      "name": "Can't We Be Friends - Remastered",
-      "url": "https://open.spotify.com/track/48ouTE8wi3LU4ZTQjJjstB"
+      "duration_ms": 297533,
+      "name": "I Can't Get Started - Instrumental",
+      "url": "https://open.spotify.com/track/5OJw2p5rD4DwtGOCC438De"
     },
     {
       "added_at": "2023-04-13 12:01:31",
       "album": {
-        "name": "See You At The Fair",
-        "url": "https://open.spotify.com/album/1jMKRKYJTWspPOKBmjfUsq"
+        "name": "Modern Art",
+        "url": "https://open.spotify.com/album/49HY44cDZDZ3iytyXdajQ6"
       },
       "artists": [
         {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
         }
       ],
-      "duration_ms": 266360,
-      "name": "In A Mellow Tone",
-      "url": "https://open.spotify.com/track/7ne7SWFZnES4KE2vwBc367"
+      "duration_ms": 363026,
+      "name": "What Is This Thing Called Love?",
+      "url": "https://open.spotify.com/track/7uwEQccVDaRZwz3zp09e5M"
     },
     {
       "added_at": "2023-04-13 12:01:31",
@@ -1687,6 +1655,38 @@
     {
       "added_at": "2023-04-13 12:01:31",
       "album": {
+        "name": "Standards",
+        "url": "https://open.spotify.com/album/20CL0GYrvQaf6haE8i2QOf"
+      },
+      "artists": [
+        {
+          "name": "Sonny Clark",
+          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
+        }
+      ],
+      "duration_ms": 259000,
+      "name": "Can't We Be Friends - Remastered",
+      "url": "https://open.spotify.com/track/48ouTE8wi3LU4ZTQjJjstB"
+    },
+    {
+      "added_at": "2023-04-13 12:01:31",
+      "album": {
+        "name": "See You At The Fair",
+        "url": "https://open.spotify.com/album/1jMKRKYJTWspPOKBmjfUsq"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 266360,
+      "name": "In A Mellow Tone",
+      "url": "https://open.spotify.com/track/7ne7SWFZnES4KE2vwBc367"
+    },
+    {
+      "added_at": "2023-04-13 12:01:31",
+      "album": {
         "name": "Young Chet",
         "url": "https://open.spotify.com/album/2DYP3Cpj7U88CgUqdZubky"
       },
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2023-04-13 12:01:31",
       "album": {
+        "name": "Go! (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 457560,
+      "name": "Love For Sale - Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/31LoccJiEwfzHm72hDHLj0"
+    },
+    {
+      "added_at": "2023-04-13 12:01:31",
+      "album": {
         "name": "The Real... Toots Thielemans",
         "url": "https://open.spotify.com/album/45kY69KnMtysdft3o07LiZ"
       },
@@ -1747,26 +1763,6 @@
       "duration_ms": 198223,
       "name": "They Can't Take That Away From Me",
       "url": "https://open.spotify.com/track/687ORY7Mxi44UdgBm3Vfbz"
-    },
-    {
-      "added_at": "2023-04-13 12:01:31",
-      "album": {
-        "name": "Konitz Meets Mulligan",
-        "url": "https://open.spotify.com/album/7yXH6IIoz1egpOdG62fiMh"
-      },
-      "artists": [
-        {
-          "name": "Lee Konitz",
-          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
-        },
-        {
-          "name": "Gerry Mulligan Quartet",
-          "url": "https://open.spotify.com/artist/6nLkWu5DSXItXcB6q2ISTO"
-        }
-      ],
-      "duration_ms": 178640,
-      "name": "Almost Like Being In Love",
-      "url": "https://open.spotify.com/track/4wUYuo0KGplgiav1AzY1RV"
     }
   ],
   "unique_name": "Instrumental Jazz Standards",

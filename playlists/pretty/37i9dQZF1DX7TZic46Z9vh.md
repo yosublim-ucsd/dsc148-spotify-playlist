@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TZic46Z9vh.md) - [plain]
 
 > Celebrando el Festival de Avándaro, hito del rock mexicano\. ¡Paz y amor! Portada: Los Dug Dug's.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,301 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,308 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TZic46Z9vh.md) - [plain]
 | 42 | [Ciudad Hippie](https://open.spotify.com/track/6VwQN0X2kpPnnYohDCPK7v) | [Rabbits And Carrots](https://open.spotify.com/artist/5FjZWiU4wLCmX0QBaMKhwQ) | [Soul Latino](https://open.spotify.com/album/53nfvyyeuDSxk7PZjptrFE) | 5:07 |
 | 43 | [Groupie](https://open.spotify.com/track/5CNo2B3LgMJgheq3ikhVir) | [EL RITUAL](https://open.spotify.com/artist/5892Xxyev45o73ZrqlmMGT) | [El Ritual](https://open.spotify.com/album/5BUdMrFRo924docI7JKqmo) | 3:54 |
 | 44 | [Nada Nos Detendrá](https://open.spotify.com/track/6bpu24bVKDCEyFHdpcNEMA) | [Grupo Ciruela](https://open.spotify.com/artist/1xPdPBhKemqYuJUlaLTR9S) | [Regreso al Origen](https://open.spotify.com/album/54FzvnC07SZN2QpZ1yF0Jn) | 3:12 |
-| 45 | [Roaming](https://open.spotify.com/track/7qbSUZaGP6FyvadcKT59WF) | [La Fachada De Piedra](https://open.spotify.com/artist/4alM2y1QDZQ9NkVgdmO0f9) | [Rock en Avándaro Valle de Bravo](https://open.spotify.com/album/4YeKgMdvtyH6pLC0g4uqMT) | 3:07 |
+| 45 | [Let's Make It Now \(Hagámoslo Ahora\)](https://open.spotify.com/track/7pKFG1Hlr37cS8TLJCs27j) | [Los Dug Dug's](https://open.spotify.com/artist/4NJDvfZdkJBPqecQ83THVT) | [RCA 100 Años de Música](https://open.spotify.com/album/1d3ehrCDJMcz0qWKQ1GYg7) | 4:36 |
 | 46 | [Mi Mami Dijo](https://open.spotify.com/track/6SqepgrJ8ThiNLmZZW0IcT) | [Los Monjes](https://open.spotify.com/artist/6PjH1bMbi3GPcgur2egQMO) | [Pebbles Vol\. 12, Mexico Pt\. 1, Originals Artifacts From The Psychedelic Era](https://open.spotify.com/album/4KLAjeofXYCHrB1s3tDZDy) | 2:05 |
-| 47 | [Let's Make It Now \(Hagámoslo Ahora\)](https://open.spotify.com/track/7pKFG1Hlr37cS8TLJCs27j) | [Los Dug Dug's](https://open.spotify.com/artist/4NJDvfZdkJBPqecQ83THVT) | [RCA 100 Años de Música](https://open.spotify.com/album/1d3ehrCDJMcz0qWKQ1GYg7) | 4:36 |
+| 47 | [Roaming](https://open.spotify.com/track/7qbSUZaGP6FyvadcKT59WF) | [La Fachada De Piedra](https://open.spotify.com/artist/4alM2y1QDZQ9NkVgdmO0f9) | [Rock en Avándaro Valle de Bravo](https://open.spotify.com/album/4YeKgMdvtyH6pLC0g4uqMT) | 3:07 |
 | 48 | [Boom! Boom! Boom!](https://open.spotify.com/track/4BuMxDprV7PhLj5ykVwA9I) | [The Spiders](https://open.spotify.com/artist/5mrfwFGMT56yGbirhVdInL) | [Slitherama: Teen Trash From Psychedelic Tokyo '66 \- '69 \(Volume 3\)](https://open.spotify.com/album/3sV1mS552317G9XyVhkQOb) | 2:34 |
 | 49 | [Mony Mony](https://open.spotify.com/track/4roB2QW6dbmd799xB21dQX) | [Las Moskas](https://open.spotify.com/artist/5tqciiCyuTvqWLNGE7MvpY) | [Rock Sound](https://open.spotify.com/album/3O3bm3NTe7IRZHPmbm2dMZ) | 2:43 |
 | 50 | [Regreso al Origen](https://open.spotify.com/track/27T3luqWg01rUHNaO6RB5X) | [Grupo Ciruela](https://open.spotify.com/artist/1xPdPBhKemqYuJUlaLTR9S) | [Regreso al Origen](https://open.spotify.com/album/54FzvnC07SZN2QpZ1yF0Jn) | 3:57 |
 
-Snapshot ID: `MTY0MDM1MzE2NSwwMDAwMDAwMDIxNzRiOGY2MjVjZTU4YTljZjQyOGViZjllOTgzZDBm`
+Snapshot ID: `MTY0MDM1MzE2NSwwMDAwMDAwMGVmMzEyODIwYmI1ZjU0ZTc0ODAxN2NmMzQxNWYxMDc2`

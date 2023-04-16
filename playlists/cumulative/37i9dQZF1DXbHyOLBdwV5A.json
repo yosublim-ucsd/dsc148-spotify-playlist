@@ -1231,6 +1231,32 @@
     },
     {
       "album": {
+        "name": "Mi Rey",
+        "url": "https://open.spotify.com/album/0BdNaQV0f2LnPh6J6mHSmP"
+      },
+      "artists": [
+        {
+          "name": "Gui Brazil",
+          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
+        },
+        {
+          "name": "GV3",
+          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
+        },
+        {
+          "name": "JoyFull",
+          "url": "https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131250,
+      "name": "Mi Rey",
+      "url": "https://open.spotify.com/track/32a3S0w8oGXX2aZS0NF9fI"
+    },
+    {
+      "album": {
         "name": "Minha For\u00e7a",
         "url": "https://open.spotify.com/album/6LbhPjrzrWMvlLd2BlAHNb"
       },
@@ -1882,7 +1908,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 232500,
       "name": "S\u00f3 em Ti",
       "url": "https://open.spotify.com/track/0tNR8q9dwVpnB27DQ6goz8"

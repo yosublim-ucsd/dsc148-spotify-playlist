@@ -1,12 +1,12 @@
 {
   "description": "De beste norske l\u00e5tene fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 67856,
+  "num_followers": 67869,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQyMzI2MCwwMDAwMDAwMDQ3ZDE0MmYwZDIzNTMxOTE4YTk5MDlkODdiNWY2YmJk",
+  "snapshot_id": "MTY4MTQyMzI2MCwwMDAwMDAwMDI5OWYzMzcyYzQyZmJjMTNmNjU1MTU4NTdjYWM4YjE4",
   "tracks": [
     {
       "added_at": "2023-04-13 22:01:00",
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
+        "name": "Alle Snakker Sant",
+        "url": "https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3"
+      },
+      "artists": [
+        {
+          "name": "Siri Nilsen",
+          "url": "https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM"
+        }
+      ],
+      "duration_ms": 223706,
+      "name": "Jeg Vet",
+      "url": "https://open.spotify.com/track/3ZTHN0y3NwiciPH3CpfXcL"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
         "name": "Til deg (Single Version)",
         "url": "https://open.spotify.com/album/1dZ6qeWJTDkOPO3ZECRvd2"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 254680,
       "name": "Tr\u00f8stevise (Tr\u00f6stevisa)",
       "url": "https://open.spotify.com/track/05MxJsc8F0G2u3IIz6g0b2"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "Alle Snakker Sant",
-        "url": "https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3"
-      },
-      "artists": [
-        {
-          "name": "Siri Nilsen",
-          "url": "https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM"
-        }
-      ],
-      "duration_ms": 223706,
-      "name": "Jeg Vet",
-      "url": "https://open.spotify.com/track/3ZTHN0y3NwiciPH3CpfXcL"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -887,18 +887,18 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "Fra 4 Til 70",
-        "url": "https://open.spotify.com/album/1HtbTHXEUz2MSQg4cCWQtP"
+        "name": "Alle Snakker Sant",
+        "url": "https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3"
       },
       "artists": [
         {
-          "name": "Inger Lise Rypdal",
-          "url": "https://open.spotify.com/artist/1lvXjNoyEprcUc0Cb2N0QH"
+          "name": "Siri Nilsen",
+          "url": "https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM"
         }
       ],
-      "duration_ms": 222146,
-      "name": "En Spennende Dag for Josefine",
-      "url": "https://open.spotify.com/track/6TOeA3fUURRV9hbRd2dpXa"
+      "duration_ms": 168373,
+      "name": "Alle Snakker Sant",
+      "url": "https://open.spotify.com/track/34gxnmqg4Nbzziv265qul7"
     }
   ],
   "unique_name": "Norske viser",

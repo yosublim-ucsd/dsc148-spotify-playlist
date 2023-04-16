@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 
 > High energy Techno to boost your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,900 likes - 50 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,412 likes - 50 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,14 +16,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 6 | [Gravity](https://open.spotify.com/track/0VTnsXnW2kuMFlwdKSTSBy) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Gravity](https://open.spotify.com/album/45hEdeNHcpC2FIvgDMlaCP) | 6:05 |
 | 7 | [Mercury](https://open.spotify.com/track/25dFcH5EsCJLMSmFDDJLT3) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Mercury](https://open.spotify.com/album/5q2bsjSrluBoWf3F61Fofp) | 3:45 |
 | 8 | [Roll the Dice](https://open.spotify.com/track/4WPdis6kH2iI0a7zXpmUfW) | [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT) | [Roll the Dice](https://open.spotify.com/album/01gHHJybHczwlyVZqwvCSZ) | 4:36 |
-| 9 | [Say It Again](https://open.spotify.com/track/0dDGl66J8riMFyp2yUn88W) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Say It Again](https://open.spotify.com/album/6qmP3e4qPHcnj0576IRaV6) | 3:27 |
-| 10 | [Rock With Me](https://open.spotify.com/track/2BfFW4C5SIgbp33539WAah) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi) | [Rock With Me](https://open.spotify.com/album/7g7DbWfA0XSpsnFsyrvRlP) | 3:25 |
+| 9 | [Rock With Me](https://open.spotify.com/track/2BfFW4C5SIgbp33539WAah) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi) | [Rock With Me](https://open.spotify.com/album/7g7DbWfA0XSpsnFsyrvRlP) | 3:25 |
+| 10 | [Say It Again](https://open.spotify.com/track/0dDGl66J8riMFyp2yUn88W) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Say It Again](https://open.spotify.com/album/6qmP3e4qPHcnj0576IRaV6) | 3:27 |
 | 11 | [Up Down Jumper](https://open.spotify.com/track/0evYoPRWnnQ6ACNC0LJPul) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Up Down Jumper](https://open.spotify.com/album/77gAd4MCswYYXswGlBaLbv) | 7:12 |
 | 12 | [Doppler](https://open.spotify.com/track/0TtgKq96j4bpE5UQUDXrwH) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Formula EP](https://open.spotify.com/album/0apCw1VDY8LhLH5YHfKOZ5) | 7:13 |
 | 13 | [Seduction](https://open.spotify.com/track/47JBICKenLcZ2mukYVxDXx) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Olly James](https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC) | [The Seduction EP](https://open.spotify.com/album/0o4acAEnhuhzFfOKfNk6vh) | 3:11 |
 | 14 | [Choir Of Spirits](https://open.spotify.com/track/0V6GWgubCBR8955ZWtJ4WR) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Choir Of Spirits](https://open.spotify.com/album/7yGPNpwNMQmMb6ufCztgnd) | 6:45 |
-| 15 | [You Can't Stop Us](https://open.spotify.com/track/39stAgopu3xQH0ZpEiNNw3) | [Denise Schneider](https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI) | [You Can't Stop Us](https://open.spotify.com/album/2ysLpJ6RrQzrZQU3ZpO5rM) | 2:22 |
-| 16 | [Believe](https://open.spotify.com/track/40up5wCfwQXTDXyE18hJbJ) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Believe](https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N) | 6:48 |
+| 15 | [Believe](https://open.spotify.com/track/40up5wCfwQXTDXyE18hJbJ) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Believe](https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N) | 6:48 |
+| 16 | [You Can't Stop Us](https://open.spotify.com/track/39stAgopu3xQH0ZpEiNNw3) | [Denise Schneider](https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI) | [You Can't Stop Us](https://open.spotify.com/album/2ysLpJ6RrQzrZQU3ZpO5rM) | 2:22 |
 | 17 | [We Control](https://open.spotify.com/track/7K3OyIuvYF1qcwr4xqILeu) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [We Control](https://open.spotify.com/album/5VgrFAxkLmF6xAfgY6ByeW) | 3:26 |
 | 18 | [WANNA GO BANG](https://open.spotify.com/track/37vqTNt3bLeDeBVWL6tNqh) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [DJ Deeon](https://open.spotify.com/artist/5wY9R35VmZOg7NxQvKJXdH) | [WANNA GO BANG](https://open.spotify.com/album/3L2XHaprl2pQWAIzwem33z) | 3:57 |
 | 19 | [You're Toxic](https://open.spotify.com/track/5Ig2RPAPLrkAkFpyr8uAPj) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [You're Toxic](https://open.spotify.com/album/5xMufmAVskrZV4Llusco8r) | 6:11 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 27 | [Quiet Woman \- Simina Grigoriu Remix](https://open.spotify.com/track/5L2xfiztZvJZdWLnd64GcY) | [Tao Andra](https://open.spotify.com/artist/1zcGW4JIJJPbA8SdYwNLLC), [Simina Grigoriu](https://open.spotify.com/artist/1PjzNHCXycxUqsP2yqFqhU) | [Quiet Woman](https://open.spotify.com/album/3CVBDukXHdeMX4Tntt1O98) | 6:05 |
 | 28 | [Alle meine Raver](https://open.spotify.com/track/3UShLxr87usr5yQ6G3GVKK) | [Mark Dekoda](https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8), [Ben Dust](https://open.spotify.com/artist/4smTLJEoRPULdc4QuG7JGo) | [Alle meine Raver](https://open.spotify.com/album/3u1t460lF2E1dS547CkEg4) | 5:14 |
 | 29 | [Minimal](https://open.spotify.com/track/333mKnEIccxUgOwQCCTPD8) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [MNML](https://open.spotify.com/album/6p6LLo0tfRX8DqozS9n6E8) | 6:30 |
-| 30 | [The Coldest Form](https://open.spotify.com/track/0EEq5t7dahypAAQDUK1WjW) | [Julien Riess](https://open.spotify.com/artist/2qmoexIy9YzYFb0xmjzh4N), [CNTRBND](https://open.spotify.com/artist/0FZp81997YIf776FPtBsGk) | [The Coldest Form](https://open.spotify.com/album/17MkLzzH2Wa6cUJcH5PcSh) | 6:00 |
-| 31 | [Never Go Back To Sleep](https://open.spotify.com/track/5QZBC1smhtLUqPsHrNI9mJ) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Never Go Back To Sleep](https://open.spotify.com/album/7LTsOeCZMSlYLbyhoJmwM5) | 4:00 |
+| 30 | [Never Go Back To Sleep](https://open.spotify.com/track/5QZBC1smhtLUqPsHrNI9mJ) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Never Go Back To Sleep](https://open.spotify.com/album/7LTsOeCZMSlYLbyhoJmwM5) | 4:00 |
+| 31 | [The Coldest Form](https://open.spotify.com/track/0EEq5t7dahypAAQDUK1WjW) | [Julien Riess](https://open.spotify.com/artist/2qmoexIy9YzYFb0xmjzh4N), [CNTRBND](https://open.spotify.com/artist/0FZp81997YIf776FPtBsGk) | [The Coldest Form](https://open.spotify.com/album/17MkLzzH2Wa6cUJcH5PcSh) | 6:00 |
 | 32 | [Black Unicorn](https://open.spotify.com/track/1WSF0LJGwJkYejuMtyJVuA) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 05](https://open.spotify.com/album/5ad6LcmH6riZRxu4VzI7Vf) | 8:05 |
 | 33 | [Don't Look Back](https://open.spotify.com/track/6Z2NosTNVXFCTqKG3HmB04) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [We Control](https://open.spotify.com/album/5F2AxyNUfQ9jVfsVJMG9jl) | 3:51 |
 | 34 | [Platia](https://open.spotify.com/track/6ZDlNJ1RTu4HZv18GYVB2v) | [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8) | [Platia](https://open.spotify.com/album/41qA6izdabkSGBrE4wc6TL) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 49 | [Zulu](https://open.spotify.com/track/2N0F739pJcD6b4uQe6NxDr) | [A.D.H.S.](https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl) | [Zulu](https://open.spotify.com/album/49qQ08O2n3E1QqH9hRBEgF) | 4:58 |
 | 50 | [Together One Time](https://open.spotify.com/track/5J7b7SmcTkhmO31mF0tEja) | [Kaiserdisco](https://open.spotify.com/artist/2lPXenWgbh51R950CMdk6i) | [Together One Time](https://open.spotify.com/album/3lj2pp5dJlBCLS1rHD2MHM) | 4:48 |
 
-Snapshot ID: `MTY4MTQyMzI2MCwwMDAwMDAwMGE4MjVhODg0YmQzOTJjZDFlZTQ1NTdmMmI0Zjc4NTc2`
+Snapshot ID: `MTY4MTQyMzI2MCwwMDAwMDAwMDM0NmI5NmMxMTA2M2M0NTY3MWQ3OWYzNmY5NWMzZjdk`

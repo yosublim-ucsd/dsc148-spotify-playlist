@@ -1,12 +1,12 @@
 {
   "description": "Dale play, y que el amor no pare.",
-  "num_followers": 153294,
+  "num_followers": 153407,
   "original_name": "Enganchados: Rom\u00e1nticos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODEyMjM4NCwwMDAwMDAwMDhhNjlhN2YzZmYxOGE4NmFmMjY1ZWM0Nzg1Y2MxYmM3",
+  "snapshot_id": "MTY3ODEyMjM4NCwwMDAwMDAwMGY3MmM1YzNiOTFhMTE4MGFkMTFiNmFhODYwZTBjZjMy",
   "tracks": [
     {
       "added_at": "2023-03-06 17:06:24",
@@ -43,6 +43,22 @@
     {
       "added_at": "2023-03-06 17:06:24",
       "album": {
+        "name": "Un D\u00eda Normal",
+        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 250693,
+      "name": "Es Por Ti",
+      "url": "https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl"
+    },
+    {
+      "added_at": "2023-03-06 17:06:24",
+      "album": {
         "name": "De mi pu\u00f1o y letra - Edicion Coleccionista",
         "url": "https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 230280,
       "name": "Colgando en tus manos (con Marta S\u00e1nchez)",
       "url": "https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO"
-    },
-    {
-      "added_at": "2023-03-06 17:06:24",
-      "album": {
-        "name": "Un D\u00eda Normal",
-        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 250693,
-      "name": "Es Por Ti",
-      "url": "https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl"
     },
     {
       "added_at": "2023-03-06 17:06:24",
@@ -263,6 +263,22 @@
     {
       "added_at": "2023-03-06 17:06:24",
       "album": {
+        "name": "\u00bfCon Qui\u00e9n Se Queda El Perro?",
+        "url": "https://open.spotify.com/album/5koG6JeFEwcINyN1QuXyiq"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 288893,
+      "name": "\u00a1Corre!",
+      "url": "https://open.spotify.com/track/5kIcrM3QVD4BQPFMszQnU1"
+    },
+    {
+      "added_at": "2023-03-06 17:06:24",
+      "album": {
         "name": "La Mejor Versi\u00f3n de Mi (Remix)",
         "url": "https://open.spotify.com/album/0OChMQnL4dpFZQH93uPb1d"
       },
@@ -283,22 +299,6 @@
     {
       "added_at": "2023-03-06 17:06:24",
       "album": {
-        "name": "\u00bfCon Qui\u00e9n Se Queda El Perro?",
-        "url": "https://open.spotify.com/album/5koG6JeFEwcINyN1QuXyiq"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 288893,
-      "name": "\u00a1Corre!",
-      "url": "https://open.spotify.com/track/5kIcrM3QVD4BQPFMszQnU1"
-    },
-    {
-      "added_at": "2023-03-06 17:06:24",
-      "album": {
         "name": "De Viaje",
         "url": "https://open.spotify.com/album/0MystbDJBhdcJZBFkpgVbd"
       },
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-03-06 17:06:24",
       "album": {
-        "name": "Donde Hay M\u00fasica (Spanish Version)",
-        "url": "https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 265626,
-      "name": "La Cosa Mas Bella",
-      "url": "https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2"
-    },
-    {
-      "added_at": "2023-03-06 17:06:24",
-      "album": {
         "name": "Amor Supremo (Desnudo)",
         "url": "https://open.spotify.com/album/3ChFP3YQevhl7lbTBtO0Yz"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 242446,
       "name": "Te Regalo",
       "url": "https://open.spotify.com/track/4brw4anhV4og38Rv6o1dBa"
+    },
+    {
+      "added_at": "2023-03-06 17:06:24",
+      "album": {
+        "name": "Donde Hay M\u00fasica (Spanish Version)",
+        "url": "https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 265626,
+      "name": "La Cosa Mas Bella",
+      "url": "https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2"
     },
     {
       "added_at": "2023-03-06 17:06:24",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-03-06 17:06:24",
       "album": {
-        "name": "Todo Historias",
-        "url": "https://open.spotify.com/album/6nWZLgTAuIgulKZcJxgsg4"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 281226,
-      "name": "Otra Como Tu",
-      "url": "https://open.spotify.com/track/2cSXotAohYx0EWCNljCzs7"
-    },
-    {
-      "added_at": "2023-03-06 17:06:24",
-      "album": {
         "name": "Un D\u00eda Normal",
         "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 238133,
       "name": "Fotograf\u00eda",
       "url": "https://open.spotify.com/track/0dEPlb8waIqRtKpLb3l6So"
+    },
+    {
+      "added_at": "2023-03-06 17:06:24",
+      "album": {
+        "name": "Todo Historias",
+        "url": "https://open.spotify.com/album/6nWZLgTAuIgulKZcJxgsg4"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 281226,
+      "name": "Otra Como Tu",
+      "url": "https://open.spotify.com/track/2cSXotAohYx0EWCNljCzs7"
     },
     {
       "added_at": "2023-03-06 17:06:24",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-03-06 17:06:24",
       "album": {
-        "name": "Franco De Vita En Primera Fila",
-        "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
-      },
-      "artists": [
-        {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
-        }
-      ],
-      "duration_ms": 218760,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ"
-    },
-    {
-      "added_at": "2023-03-06 17:06:24",
-      "album": {
         "name": "Mi Reflejo",
         "url": "https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 265733,
       "name": "Pero Me Acuerdo de T\u00ed",
       "url": "https://open.spotify.com/track/4B1sb2YVO03sBmyR8bvzEB"
+    },
+    {
+      "added_at": "2023-03-06 17:06:24",
+      "album": {
+        "name": "Franco De Vita En Primera Fila",
+        "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        }
+      ],
+      "duration_ms": 218760,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ"
     },
     {
       "added_at": "2023-03-06 17:06:24",
@@ -815,18 +815,18 @@
     {
       "added_at": "2023-03-06 17:06:24",
       "album": {
-        "name": "Grandes Hits",
-        "url": "https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL"
+        "name": "A Medio Vivir",
+        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
       },
       "artists": [
         {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
         }
       ],
-      "duration_ms": 256133,
-      "name": "Lloviendo Estrellas",
-      "url": "https://open.spotify.com/track/5b00r2xveYfVIOExZJJ395"
+      "duration_ms": 279000,
+      "name": "Te Extra\u00f1o, Te Olvido, Te Amo",
+      "url": "https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ"
     },
     {
       "added_at": "2023-03-06 17:06:24",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-03-06 17:06:24",
       "album": {
+        "name": "Grandes Hits",
+        "url": "https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL"
+      },
+      "artists": [
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 256133,
+      "name": "Lloviendo Estrellas",
+      "url": "https://open.spotify.com/track/5b00r2xveYfVIOExZJJ395"
+    },
+    {
+      "added_at": "2023-03-06 17:06:24",
+      "album": {
         "name": "Iconos",
         "url": "https://open.spotify.com/album/5SGUCNeCuGHbR73Iyh2F7g"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 240733,
       "name": "Y C\u00f3mo Es El",
       "url": "https://open.spotify.com/track/3h8KGJn9UFX2cfjN78iMVF"
-    },
-    {
-      "added_at": "2023-03-06 17:06:24",
-      "album": {
-        "name": "A Medio Vivir",
-        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 279000,
-      "name": "Te Extra\u00f1o, Te Olvido, Te Amo",
-      "url": "https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ"
     },
     {
       "added_at": "2023-03-06 17:06:24",
@@ -947,6 +947,22 @@
     {
       "added_at": "2023-03-06 17:06:24",
       "album": {
+        "name": "Almas Del Silencio",
+        "url": "https://open.spotify.com/album/5ME0ACeS6VWaqTOCpsoFT2"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 279226,
+      "name": "Tal Vez",
+      "url": "https://open.spotify.com/track/2VspVkHity8i4H9jammhhR"
+    },
+    {
+      "added_at": "2023-03-06 17:06:24",
+      "album": {
         "name": "Buen Viaje",
         "url": "https://open.spotify.com/album/0rvJrsAmPLF7YnmpR5CMEi"
       },
@@ -999,22 +1015,6 @@
     {
       "added_at": "2023-03-06 17:06:24",
       "album": {
-        "name": "Almas Del Silencio",
-        "url": "https://open.spotify.com/album/5ME0ACeS6VWaqTOCpsoFT2"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 279226,
-      "name": "Tal Vez",
-      "url": "https://open.spotify.com/track/2VspVkHity8i4H9jammhhR"
-    },
-    {
-      "added_at": "2023-03-06 17:06:24",
-      "album": {
         "name": "Tu Mano",
         "url": "https://open.spotify.com/album/0ofPx6C6bKrF23aZbDwbLR"
       },
@@ -1043,6 +1043,22 @@
       "duration_ms": 278440,
       "name": "No Me Compares",
       "url": "https://open.spotify.com/track/6pZmdSXGVzlYG2FJvSOZod"
+    },
+    {
+      "added_at": "2023-03-06 17:06:24",
+      "album": {
+        "name": "A Quien Quiera Escuchar (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/375cUd86z58eqXN2yW3Do9"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 230346,
+      "name": "Disparo al Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5828oiHxe6DSSAuIrPSeVT"
     },
     {
       "added_at": "2023-03-06 17:06:24",
@@ -1079,22 +1095,6 @@
     {
       "added_at": "2023-03-06 17:06:24",
       "album": {
-        "name": "La Dif\u00edcil",
-        "url": "https://open.spotify.com/album/6Pc3YAtxdkZba2tpmeXAXW"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 158533,
-      "name": "La Dif\u00edcil",
-      "url": "https://open.spotify.com/track/0PaNKfwdqHjmW7hVEQ0lbu"
-    },
-    {
-      "added_at": "2023-03-06 17:06:24",
-      "album": {
         "name": "Dispuesto A Amarte",
         "url": "https://open.spotify.com/album/2TjcppxUUfwFZ7H9XAxwfw"
       },
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2023-03-06 17:06:24",
       "album": {
+        "name": "La Dif\u00edcil",
+        "url": "https://open.spotify.com/album/6Pc3YAtxdkZba2tpmeXAXW"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 158533,
+      "name": "La Dif\u00edcil",
+      "url": "https://open.spotify.com/track/0PaNKfwdqHjmW7hVEQ0lbu"
+    },
+    {
+      "added_at": "2023-03-06 17:06:24",
+      "album": {
         "name": "\u00bfD\u00f3nde Est\u00e1n Coraz\u00f3n?",
         "url": "https://open.spotify.com/album/2PvvCXswfTBnTHDg3GIh9p"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 259399,
       "name": "\u00bfD\u00f3nde Est\u00e1n Coraz\u00f3n?",
       "url": "https://open.spotify.com/track/0Ky9DFq4xtsIZQiI0d2fnG"
-    },
-    {
-      "added_at": "2023-03-06 17:06:24",
-      "album": {
-        "name": "A Quien Quiera Escuchar (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/375cUd86z58eqXN2yW3Do9"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 230346,
-      "name": "Disparo al Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5828oiHxe6DSSAuIrPSeVT"
     },
     {
       "added_at": "2023-03-06 17:06:24",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2023-03-06 17:06:24",
       "album": {
+        "name": "Signos",
+        "url": "https://open.spotify.com/album/5WZizOyx12sTkACa66HQ4q"
+      },
+      "artists": [
+        {
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+        }
+      ],
+      "duration_ms": 291040,
+      "name": "Entre La Tierra Y El Cielo",
+      "url": "https://open.spotify.com/track/1hQgzgaxymIbhqoWpMYDnf"
+    },
+    {
+      "added_at": "2023-03-06 17:06:24",
+      "album": {
         "name": "Cosas Del Amor",
         "url": "https://open.spotify.com/album/3DWm5mRGgDkBBQ8BH4TYIB"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 274933,
       "name": "Bailar Pegados - En Concierto",
       "url": "https://open.spotify.com/track/4Z7hD7n1hmjbqAmitLFY5V"
-    },
-    {
-      "added_at": "2023-03-06 17:06:24",
-      "album": {
-        "name": "Signos",
-        "url": "https://open.spotify.com/album/5WZizOyx12sTkACa66HQ4q"
-      },
-      "artists": [
-        {
-          "name": "Los Nocheros",
-          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
-        }
-      ],
-      "duration_ms": 291040,
-      "name": "Entre La Tierra Y El Cielo",
-      "url": "https://open.spotify.com/track/1hQgzgaxymIbhqoWpMYDnf"
     },
     {
       "added_at": "2023-03-06 17:06:24",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-03-06 17:06:24",
       "album": {
-        "name": "20 A\u00f1os Contigo",
-        "url": "https://open.spotify.com/album/7j74PZNNtthH0JwMPSqIVw"
-      },
-      "artists": [
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        }
-      ],
-      "duration_ms": 167306,
-      "name": "Hasta El Final",
-      "url": "https://open.spotify.com/track/4jLAgMw4tzHzSJuKF3UJA7"
-    },
-    {
-      "added_at": "2023-03-06 17:06:24",
-      "album": {
         "name": "He Venido Por Ti",
         "url": "https://open.spotify.com/album/6wpz5IBiPdIKsOy7JBJu5C"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 199866,
       "name": "He Venido Por Ti",
       "url": "https://open.spotify.com/track/0BzpzUw1akFAoEUzTLGoQ0"
+    },
+    {
+      "added_at": "2023-03-06 17:06:24",
+      "album": {
+        "name": "20 A\u00f1os Contigo",
+        "url": "https://open.spotify.com/album/7j74PZNNtthH0JwMPSqIVw"
+      },
+      "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        }
+      ],
+      "duration_ms": 167306,
+      "name": "Hasta El Final",
+      "url": "https://open.spotify.com/track/4jLAgMw4tzHzSJuKF3UJA7"
     },
     {
       "added_at": "2023-03-06 17:06:24",

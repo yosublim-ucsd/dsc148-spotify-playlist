@@ -4,7 +4,7 @@
 
 > Reggaeton hits from Yng Lvcas, Peso Pluma, Feid, KAROL G, and more.🔥🥵
 
-251 songs - 14 hr 11 min
+252 songs - 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [911 \- Remix](https://open.spotify.com/track/27RSJHEA99Y0Vsow7nA37A) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [911 \(Remix\)](https://open.spotify.com/album/57ppCWTeAnqooyrR4DzbwR) | 3:28 | 2021-12-24 | 2022-06-04 |
 | [A Tu Merced](https://open.spotify.com/track/4r9jkMEnArtWGH2rL2FZl0) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:55 | 2021-12-24 | 2022-08-27 |
 | [A Veces \(feat\. Feid\)](https://open.spotify.com/track/63OA8vSo2PhUkmQopR1l64) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [A Veces \(feat\. Feid\)](https://open.spotify.com/album/5IUJCo0aRD98yxFbTvEezC) | 3:11 | 2022-11-04 | 2022-12-24 |
-| [AGUARDIENTE](https://open.spotify.com/track/6jhB0WW148mVOX7VuV2ga0) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [AGUARDIENTE](https://open.spotify.com/album/1ox6fzQPXwDtsTg8EQrplp) | 2:47 | 2023-03-10 |  |
+| [AGUARDIENTE](https://open.spotify.com/track/3Z0l8qwMuC376pcutLVsY8) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 2:47 | 2023-04-14 |  |
+| [AGUARDIENTE](https://open.spotify.com/track/6jhB0WW148mVOX7VuV2ga0) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [AGUARDIENTE](https://open.spotify.com/album/1ox6fzQPXwDtsTg8EQrplp) | 2:47 | 2023-03-10 | 2023-04-16 |
 | [AIRBNB](https://open.spotify.com/track/0fuyLaeHh0TvQ65m5ojgP2) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 3:05 | 2022-11-11 |  |
 | [ALMAS GEMELAS](https://open.spotify.com/track/2KcNrONbZ0hvBPjvrDO2tx) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [ALMAS GEMELAS](https://open.spotify.com/album/3DcHy54Up1gEXKXbsv8xeT) | 3:55 | 2021-12-24 | 2022-06-11 |
 | [AM Remix](https://open.spotify.com/track/05bfbizlM5AX6Mf1RRyMho) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [AM Remix](https://open.spotify.com/album/1jTRS4KS666BesH1GUHyEV) | 4:21 | 2021-12-24 | 2022-03-12 |

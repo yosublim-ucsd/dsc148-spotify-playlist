@@ -1,12 +1,12 @@
 {
   "description": "The greatest operatic and orchestral works of Rossini, featuring William Tell, The Barber of Seville and Cinderella.",
-  "num_followers": 30579,
+  "num_followers": 30602,
   "original_name": "This Is Rossini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzIyMzg2MiwwMDAwMDAwMDM5N2NhYzY4OGQ4NTg4NjE3MDMxYTBiMzU1OTc3YjVl",
+  "snapshot_id": "MTY1NzIyMzg2MiwwMDAwMDAwMGY5OWE5OTE0Zjg3ZjdjZDA2YTU5ZGUyZjIzODZkOGY3",
   "tracks": [
     {
       "added_at": "2022-06-28 08:38:32",
@@ -443,6 +443,30 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
+        "name": "Rossini : La Cenerentola",
+        "url": "https://open.spotify.com/album/5U6hxRD7Lj5my3DK0kHncQ"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Carlo Rizzi",
+          "url": "https://open.spotify.com/artist/2H1dGTBfjYrqkXN2WxsiZf"
+        },
+        {
+          "name": "Orchestra of the Royal Opera House, Covent Garden",
+          "url": "https://open.spotify.com/artist/2t5BHUdyeL3NBKqpOpaA4V"
+        }
+      ],
+      "duration_ms": 95360,
+      "name": "Rossini : La Cenerentola : Act 2 \"Della Fortuna instabile\" [Chorus]",
+      "url": "https://open.spotify.com/track/4NJIS1JHOvBFMQWUs5MVo6"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
         "name": "Rossini-Oeuvres vocales-Duo des chats-Ave maria-Promenade",
         "url": "https://open.spotify.com/album/1hWOXOktfgLpGq9WB5STV4"
       },
@@ -471,30 +495,6 @@
       "duration_ms": 185560,
       "name": "Duetto buffo di due gatti",
       "url": "https://open.spotify.com/track/6fNJ1XGd7DQOaOUemy5sVH"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
-        "name": "Rossini : La Cenerentola",
-        "url": "https://open.spotify.com/album/5U6hxRD7Lj5my3DK0kHncQ"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Carlo Rizzi",
-          "url": "https://open.spotify.com/artist/2H1dGTBfjYrqkXN2WxsiZf"
-        },
-        {
-          "name": "Orchestra of the Royal Opera House, Covent Garden",
-          "url": "https://open.spotify.com/artist/2t5BHUdyeL3NBKqpOpaA4V"
-        }
-      ],
-      "duration_ms": 95360,
-      "name": "Rossini : La Cenerentola : Act 2 \"Della Fortuna instabile\" [Chorus]",
-      "url": "https://open.spotify.com/track/4NJIS1JHOvBFMQWUs5MVo6"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -583,30 +583,6 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
-        "name": "Rossini: Il Barbiere di Siviglia",
-        "url": "https://open.spotify.com/album/2kSCA5c2qEXVIGmvtGwIXQ"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Bavarian Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/74gWOpgM97HU3Mn8A8d0Vm"
-        },
-        {
-          "name": "Bruno Bartoletti",
-          "url": "https://open.spotify.com/artist/7drPVBAlMSneq1rZuNM3FQ"
-        }
-      ],
-      "duration_ms": 184840,
-      "name": "Il barbiere di Siviglia / Act 2: No. 15 Temporale (Thunderstorm)",
-      "url": "https://open.spotify.com/track/3mb8XLlJgkjq2gpuS8coAc"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
         "name": "Rossini: La gazza ladra (Live)",
         "url": "https://open.spotify.com/album/2Yr7ygE0GfrjGutqpLLtNl"
       },
@@ -635,6 +611,30 @@
       "duration_ms": 255973,
       "name": "La gazza ladra, Act II: Act II Scene 6: A mio nome, deh, consegna (Ninetta, Pippo)",
       "url": "https://open.spotify.com/track/5domJuSyJr3DLR8g46RBvy"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
+        "name": "Rossini: Il Barbiere di Siviglia",
+        "url": "https://open.spotify.com/album/2kSCA5c2qEXVIGmvtGwIXQ"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Bavarian Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/74gWOpgM97HU3Mn8A8d0Vm"
+        },
+        {
+          "name": "Bruno Bartoletti",
+          "url": "https://open.spotify.com/artist/7drPVBAlMSneq1rZuNM3FQ"
+        }
+      ],
+      "duration_ms": 184840,
+      "name": "Il barbiere di Siviglia / Act 2: No. 15 Temporale (Thunderstorm)",
+      "url": "https://open.spotify.com/track/3mb8XLlJgkjq2gpuS8coAc"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -1043,30 +1043,6 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
-        "name": "Rossini: Giovanna d'Arco; 19 songs",
-        "url": "https://open.spotify.com/album/3VVwrNDAiowYFUeK5DSYZQ"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Cecilia Bartoli",
-          "url": "https://open.spotify.com/artist/3uw6GzeL10NfFrcikMo9Na"
-        },
-        {
-          "name": "Charles Spencer",
-          "url": "https://open.spotify.com/artist/1rJfq4FTiCrG734zcybxQN"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "La regata veneziana: 1. Anzoleta avanti la regata",
-      "url": "https://open.spotify.com/track/0Xe9mqXpAHD95aCsCVjloG"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
         "name": "Rossini: Otello",
         "url": "https://open.spotify.com/album/0tNEiJodkTVwMo74ggdl27"
       },
@@ -1127,6 +1103,30 @@
       "duration_ms": 410120,
       "name": "Otello, ossia Il moro di Venezia: Act I: Cavatina: Ah si, per voi gia sento (Otello, Jago, Choir)",
       "url": "https://open.spotify.com/track/4OSwqWEcJRHyxne4K0vk5m"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
+        "name": "Rossini: Giovanna d'Arco; 19 songs",
+        "url": "https://open.spotify.com/album/3VVwrNDAiowYFUeK5DSYZQ"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Cecilia Bartoli",
+          "url": "https://open.spotify.com/artist/3uw6GzeL10NfFrcikMo9Na"
+        },
+        {
+          "name": "Charles Spencer",
+          "url": "https://open.spotify.com/artist/1rJfq4FTiCrG734zcybxQN"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "La regata veneziana: 1. Anzoleta avanti la regata",
+      "url": "https://open.spotify.com/track/0Xe9mqXpAHD95aCsCVjloG"
     },
     {
       "added_at": "2022-06-28 08:38:32",

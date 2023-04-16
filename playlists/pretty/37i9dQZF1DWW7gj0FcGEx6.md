@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,105 likes - 158 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,190 likes - 158 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 12 | [Leaving Home](https://open.spotify.com/track/36bhoKLSIcHFPP9GH8XCE8) | [Simon Franglen](https://open.spotify.com/artist/12WCXE6DlRcCn2rEShNepL) | [Avatar: The Way of Water \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4M2Mf4pmARKGVT9MLCe3HA) | 3:27 |
 | 13 | [Luther's Theme](https://open.spotify.com/track/7DPuAbyLW2zgtEyC5pHufG) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [Luther: The Fallen Sun \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1uSLtpDg49OkNRSYihJl04) | 2:29 |
 | 14 | [Actually Her](https://open.spotify.com/track/7DYB52sRKxgh8N1wU3NFMp) | [Martin Phipps](https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn) | [The Crown: Season Five \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4kecm8cI0FFGF70NiNYkSE) | 3:12 |
-| 15 | [The Last Kingdom: The Beloveds](https://open.spotify.com/track/5WSFsgLql08p89fRCbD0OH) | [John Lunn](https://open.spotify.com/artist/5Zly5j72BTO6psXGz12qSt), [Eivør](https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H), [Danny Saul](https://open.spotify.com/artist/43gWjTULCnVjc3zzs0wHhG) | [The Last Kingdom: The Beloveds](https://open.spotify.com/album/3sOjQz2ALdRf4UETZBdHBk) | 6:00 |
+| 15 | [The Beloveds](https://open.spotify.com/track/5WSFsgLql08p89fRCbD0OH) | [John Lunn](https://open.spotify.com/artist/5Zly5j72BTO6psXGz12qSt), [Eivør](https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H), [Danny Saul](https://open.spotify.com/artist/43gWjTULCnVjc3zzs0wHhG) | [The Last Kingdom: The Beloveds](https://open.spotify.com/album/3sOjQz2ALdRf4UETZBdHBk) | 6:00 |
 | 16 | [My Life Is on Inisherin](https://open.spotify.com/track/11kh0ybfoTNvuRp7eckI5R) | [Carter Burwell](https://open.spotify.com/artist/0SbSDzM4X41hnlURed0fcV) | [The Banshees of Inisherin \(Original Score\)](https://open.spotify.com/album/0aIEKTzRH1fuEyCWCAri1n) | 3:46 |
 | 17 | [Coda](https://open.spotify.com/track/7vbuuyi5UaDkEhnHRBVaOu) | [Clint Mansell](https://open.spotify.com/artist/01xiB0IlXMXy3wrrotgDnU) | [Sharper \(Soundtrack from the Apple Original Film\)](https://open.spotify.com/album/6opqUrdNLqpqAJX8uVHklI) | 3:38 |
 | 18 | [The Academy](https://open.spotify.com/track/5Dwz3DfVfFpMgGTHyx3x1m) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7) | [The Pale Blue Eye \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4hHNqYHgntpzJuR10punUt) | 2:27 |

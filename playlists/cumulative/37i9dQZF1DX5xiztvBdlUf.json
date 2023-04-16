@@ -486,7 +486,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 367578,
       "name": "Basic Juno",
       "url": "https://open.spotify.com/track/1hgWPFzfyUuKPSieELghgg"
@@ -578,6 +578,24 @@
       "duration_ms": 378536,
       "name": "Bind - Rampa Remix",
       "url": "https://open.spotify.com/track/7wAVCSMQa3WyFFhfGfPDNP"
+    },
+    {
+      "album": {
+        "name": "Colorize 2023 Spring Sampler",
+        "url": "https://open.spotify.com/album/2RQiB9SPWqSLQETVpLVacO"
+      },
+      "artists": [
+        {
+          "name": "VisionV",
+          "url": "https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240448,
+      "name": "Blossom",
+      "url": "https://open.spotify.com/track/5kAv0wk38BRqdMPbaGbKQe"
     },
     {
       "album": {
@@ -1468,7 +1486,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 414000,
       "name": "De\u00eda - AVEM Remix",
       "url": "https://open.spotify.com/track/4pgBB90REWf829lym8RE6N"
@@ -2412,6 +2430,24 @@
       "duration_ms": 595837,
       "name": "High Seas",
       "url": "https://open.spotify.com/track/3vIN77NsPlbqUOYC0DZBvo"
+    },
+    {
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/7Hw5AFpacyOqZ208oWRUJY"
+      },
+      "artists": [
+        {
+          "name": "Sound Support",
+          "url": "https://open.spotify.com/artist/4m837NfydgrNAAeZJHFpxn"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208469,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/5ju2w8RfI79r2fE3nTOXDK"
     },
     {
       "album": {

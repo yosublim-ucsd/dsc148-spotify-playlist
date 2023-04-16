@@ -1,12 +1,12 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour.",
-  "num_followers": 17439,
+  "num_followers": 17456,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0MTIwMCwwMDAwMDAwMDM0OGEzMWJiYmM0NWE2NDQ1MWVhYWI1ZmQ4N2QzZTVk",
+  "snapshot_id": "MTY4MTQ0MTIwMCwwMDAwMDAwMGU3NGY2OTFlNDAzYzNiMjY5MmFkNjliNmJmZWZkNzhi",
   "tracks": [
     {
       "added_at": "2023-04-14 03:00:00",
@@ -335,18 +335,18 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Fin del Mundo",
-        "url": "https://open.spotify.com/album/4GffZQPSerrC3OR1n9sjiu"
+        "name": "PARANOIA",
+        "url": "https://open.spotify.com/album/7rTfKkqiMRMr9PGNZQAqqb"
       },
       "artists": [
         {
-          "name": "Fin del Mundo",
-          "url": "https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn"
+          "name": "KAKTOV",
+          "url": "https://open.spotify.com/artist/4G8DaRnN7oPFkEJXwX2i94"
         }
       ],
-      "duration_ms": 213898,
-      "name": "La Noche",
-      "url": "https://open.spotify.com/track/1NPScuwas3jC2PpOO86vJX"
+      "duration_ms": 104727,
+      "name": "PARANOIA",
+      "url": "https://open.spotify.com/track/1QHurP8fLcwXDi4IkE6sBv"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -367,18 +367,18 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "PARANOIA",
-        "url": "https://open.spotify.com/album/7rTfKkqiMRMr9PGNZQAqqb"
+        "name": "Fin del Mundo",
+        "url": "https://open.spotify.com/album/4GffZQPSerrC3OR1n9sjiu"
       },
       "artists": [
         {
-          "name": "KAKTOV",
-          "url": "https://open.spotify.com/artist/4G8DaRnN7oPFkEJXwX2i94"
+          "name": "Fin del Mundo",
+          "url": "https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn"
         }
       ],
-      "duration_ms": 104727,
-      "name": "PARANOIA",
-      "url": "https://open.spotify.com/track/1QHurP8fLcwXDi4IkE6sBv"
+      "duration_ms": 213898,
+      "name": "La Noche",
+      "url": "https://open.spotify.com/track/1NPScuwas3jC2PpOO86vJX"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Antibi\u00f3ticx",
-        "url": "https://open.spotify.com/album/4lO3CYyULcgc6RPKfJqS02"
-      },
-      "artists": [
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
-        }
-      ],
-      "duration_ms": 223500,
-      "name": "La Luna",
-      "url": "https://open.spotify.com/track/79coItEGCwZOV8SttjU9IN"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Ubicaci\u00f3n en Tiempo Real",
         "url": "https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 230437,
       "name": "Que No",
       "url": "https://open.spotify.com/track/3xoF6TyldRJh0Fa2zIhEif"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Antibi\u00f3ticx",
+        "url": "https://open.spotify.com/album/4lO3CYyULcgc6RPKfJqS02"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 223500,
+      "name": "La Luna",
+      "url": "https://open.spotify.com/track/79coItEGCwZOV8SttjU9IN"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -711,18 +711,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Deseo Permanente",
-        "url": "https://open.spotify.com/album/1sga3Ihe2EfxoGIL4wvBLd"
+        "name": "Ubicaci\u00f3n en Tiempo Real",
+        "url": "https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp"
       },
       "artists": [
         {
-          "name": "El pr\u00edncipe idiota",
-          "url": "https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u"
+          "name": "Barbi Recanati",
+          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
+        },
+        {
+          "name": "Paula Trama",
+          "url": "https://open.spotify.com/artist/6qUDw7IqelgJuzAIhGMx6u"
         }
       ],
-      "duration_ms": 344434,
-      "name": "Deseo Permanente",
-      "url": "https://open.spotify.com/track/00P9KJpQNtviOk95bb1CBl"
+      "duration_ms": 255860,
+      "name": "Los D\u00edas Que No Est\u00e1s",
+      "url": "https://open.spotify.com/track/6wj9l4v47KaIGN2OBfKtpI"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -739,6 +743,22 @@
       "duration_ms": 211699,
       "name": "La Nieve",
       "url": "https://open.spotify.com/track/4nFGMqZXWjoPf06D6SMaNL"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Deseo Permanente",
+        "url": "https://open.spotify.com/album/1sga3Ihe2EfxoGIL4wvBLd"
+      },
+      "artists": [
+        {
+          "name": "El pr\u00edncipe idiota",
+          "url": "https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u"
+        }
+      ],
+      "duration_ms": 344434,
+      "name": "Deseo Permanente",
+      "url": "https://open.spotify.com/track/00P9KJpQNtviOk95bb1CBl"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -775,26 +795,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Ubicaci\u00f3n en Tiempo Real",
-        "url": "https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp"
-      },
-      "artists": [
-        {
-          "name": "Barbi Recanati",
-          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
-        },
-        {
-          "name": "Paula Trama",
-          "url": "https://open.spotify.com/artist/6qUDw7IqelgJuzAIhGMx6u"
-        }
-      ],
-      "duration_ms": 255860,
-      "name": "Los D\u00edas Que No Est\u00e1s",
-      "url": "https://open.spotify.com/track/6wj9l4v47KaIGN2OBfKtpI"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": ":3",
         "url": "https://open.spotify.com/album/6RmsOgYMg3kwjgcGFOo6Ke"
       },
@@ -807,6 +807,30 @@
       "duration_ms": 182045,
       "name": "Verano En Espiral",
       "url": "https://open.spotify.com/track/0f5qo7mMapxEZ0Py10vp4T"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "NT al sol",
+        "url": "https://open.spotify.com/album/1iI0hU3oBxRKRGs6lprkse"
+      },
+      "artists": [
+        {
+          "name": "Melanie Williams & El Cabloide",
+          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
+        },
+        {
+          "name": "Paul Higgs",
+          "url": "https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V"
+        },
+        {
+          "name": "El Mundo Limon",
+          "url": "https://open.spotify.com/artist/6ewUKYDx23YcomTOQdDvTB"
+        }
+      ],
+      "duration_ms": 202827,
+      "name": "NT al sol",
+      "url": "https://open.spotify.com/track/7maIZJiVUL5HBOzjFqOwp0"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -839,30 +863,6 @@
       "duration_ms": 154548,
       "name": "TKM",
       "url": "https://open.spotify.com/track/3IojTR6Zm6U9hnToRnW55L"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "NT al sol",
-        "url": "https://open.spotify.com/album/1iI0hU3oBxRKRGs6lprkse"
-      },
-      "artists": [
-        {
-          "name": "Melanie Williams & El Cabloide",
-          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
-        },
-        {
-          "name": "Paul Higgs",
-          "url": "https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V"
-        },
-        {
-          "name": "El Mundo Limon",
-          "url": "https://open.spotify.com/artist/6ewUKYDx23YcomTOQdDvTB"
-        }
-      ],
-      "duration_ms": 202827,
-      "name": "NT al sol",
-      "url": "https://open.spotify.com/track/7maIZJiVUL5HBOzjFqOwp0"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Corriendo",
-        "url": "https://open.spotify.com/album/5U18YE0iw5uEiTB8OorYLb"
-      },
-      "artists": [
-        {
-          "name": "TELESCOPIOS",
-          "url": "https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG"
-        }
-      ],
-      "duration_ms": 159576,
-      "name": "Corriendo",
-      "url": "https://open.spotify.com/track/4RKs3I15fRANzpyAr36zfx"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Como Bailan los Dem\u00e1s",
         "url": "https://open.spotify.com/album/4wz7oHddJ7WT2MwROywUQF"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 243951,
       "name": "El Im\u00e1n",
       "url": "https://open.spotify.com/track/2AzQoLgqijY6WVBndchJvP"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Corriendo",
+        "url": "https://open.spotify.com/album/5U18YE0iw5uEiTB8OorYLb"
+      },
+      "artists": [
+        {
+          "name": "TELESCOPIOS",
+          "url": "https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG"
+        }
+      ],
+      "duration_ms": 159576,
+      "name": "Corriendo",
+      "url": "https://open.spotify.com/track/4RKs3I15fRANzpyAr36zfx"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -955,6 +955,38 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Jard\u00edn Secreto",
+        "url": "https://open.spotify.com/album/73sOVogAh0frrxkzHpKBs6"
+      },
+      "artists": [
+        {
+          "name": "Mi Amigo Invencible",
+          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
+        }
+      ],
+      "duration_ms": 232454,
+      "name": "Jardin Secreto",
+      "url": "https://open.spotify.com/track/0IygTofvuok3zLmPQgjtbw"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Comprensi\u00f3n1",
+        "url": "https://open.spotify.com/album/5YNBPuFNznCRaJU2AaKPut"
+      },
+      "artists": [
+        {
+          "name": "Melanie Williams & El Cabloide",
+          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
+        }
+      ],
+      "duration_ms": 145407,
+      "name": "5A",
+      "url": "https://open.spotify.com/track/2T1g1V41vJ06rgVGMpBXMZ"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "Rayo El\u00e9ctrico",
         "url": "https://open.spotify.com/album/3kc3kZbhYmb22GHlCaqiYs"
       },
@@ -975,22 +1007,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Jard\u00edn Secreto",
-        "url": "https://open.spotify.com/album/73sOVogAh0frrxkzHpKBs6"
-      },
-      "artists": [
-        {
-          "name": "Mi Amigo Invencible",
-          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
-        }
-      ],
-      "duration_ms": 232454,
-      "name": "Jardin Secreto",
-      "url": "https://open.spotify.com/track/0IygTofvuok3zLmPQgjtbw"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "De la Monarqu\u00eda a la Criptocracia",
         "url": "https://open.spotify.com/album/5aFAIfjQXClsuPrK6o1WlZ"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 167900,
       "name": "De la Monarqu\u00eda a la Criptocracia",
       "url": "https://open.spotify.com/track/72iVtVA5CNx5kGRkd987iN"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Comprensi\u00f3n1",
-        "url": "https://open.spotify.com/album/5YNBPuFNznCRaJU2AaKPut"
-      },
-      "artists": [
-        {
-          "name": "Melanie Williams & El Cabloide",
-          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
-        }
-      ],
-      "duration_ms": 145407,
-      "name": "5A",
-      "url": "https://open.spotify.com/track/2T1g1V41vJ06rgVGMpBXMZ"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Soy un Extra\u00f1o",
-        "url": "https://open.spotify.com/album/5ZvDMLfhc8pjbqqFnb6SDi"
+        "name": "Solomias",
+        "url": "https://open.spotify.com/album/06cawtPKkwWUdt30hgfoIf"
       },
       "artists": [
         {
-          "name": "L E O",
-          "url": "https://open.spotify.com/artist/3NlTAtfmLjoRSJ0vzck3G2"
+          "name": "Melanie Williams & El Cabloide",
+          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
         }
       ],
-      "duration_ms": 154411,
-      "name": "Qu\u00e9 Decir?",
-      "url": "https://open.spotify.com/track/3QKDDd7Se1cthtt5viCa4h"
+      "duration_ms": 125333,
+      "name": "Solomias",
+      "url": "https://open.spotify.com/track/4lIocFgnBIEuugfXHTlq0h"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1083,6 +1083,22 @@
       "duration_ms": 153710,
       "name": "Toxi",
       "url": "https://open.spotify.com/track/3FcI2Prz1qgwXO8CDlGZwF"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Soy un Extra\u00f1o",
+        "url": "https://open.spotify.com/album/5ZvDMLfhc8pjbqqFnb6SDi"
+      },
+      "artists": [
+        {
+          "name": "L E O",
+          "url": "https://open.spotify.com/artist/3NlTAtfmLjoRSJ0vzck3G2"
+        }
+      ],
+      "duration_ms": 154411,
+      "name": "Qu\u00e9 Decir?",
+      "url": "https://open.spotify.com/track/3QKDDd7Se1cthtt5viCa4h"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1123,22 +1139,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Solomias",
-        "url": "https://open.spotify.com/album/06cawtPKkwWUdt30hgfoIf"
-      },
-      "artists": [
-        {
-          "name": "Melanie Williams & El Cabloide",
-          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
-        }
-      ],
-      "duration_ms": 125333,
-      "name": "Solomias",
-      "url": "https://open.spotify.com/track/4lIocFgnBIEuugfXHTlq0h"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Gracias Por Nada",
         "url": "https://open.spotify.com/album/3nPaS8oCr3C0ttEL1vdAte"
       },
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Lucy Patan\u00e9",
+        "url": "https://open.spotify.com/album/3DBoYj1Q8vZ3Xu1k2MIO9w"
+      },
+      "artists": [
+        {
+          "name": "Lucy Patan\u00e9",
+          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
+        }
+      ],
+      "duration_ms": 246594,
+      "name": "En Toneles",
+      "url": "https://open.spotify.com/track/0AKSlOfNxuM2c3ydqUPYdg"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "Ultravioleta",
         "url": "https://open.spotify.com/album/0jkMj6BjWylbc7sFz2sTAO"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 314026,
       "name": "Ultravioleta",
       "url": "https://open.spotify.com/track/09YzJAn8N069K6JcQw4caJ"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Lucy Patan\u00e9",
-        "url": "https://open.spotify.com/album/3DBoYj1Q8vZ3Xu1k2MIO9w"
-      },
-      "artists": [
-        {
-          "name": "Lucy Patan\u00e9",
-          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
-        }
-      ],
-      "duration_ms": 246594,
-      "name": "En Toneles",
-      "url": "https://open.spotify.com/track/0AKSlOfNxuM2c3ydqUPYdg"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Autorretrato en Blanco - Versi\u00f3n Lofi",
-        "url": "https://open.spotify.com/album/3Y0ga9ccVWjbbcsz4WbShY"
-      },
-      "artists": [
-        {
-          "name": "Los Jardines De Bruselas",
-          "url": "https://open.spotify.com/artist/2F4tyujNuSw8UiWfwujwP8"
-        }
-      ],
-      "duration_ms": 232173,
-      "name": "Autorretrato en Blanco - Versi\u00f3n Lofi",
-      "url": "https://open.spotify.com/track/2hTLilKnyaOeQ2Ost5uGDS"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Este Debe Ser el Lugar",
         "url": "https://open.spotify.com/album/7J04keLANxCpdY8yFR1Pws"
       },
@@ -1355,18 +1339,18 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Mejor Sin Miedo",
-        "url": "https://open.spotify.com/album/7wG8LczSGRTbiwFW5Hqjgs"
+        "name": "Autorretrato en Blanco - Versi\u00f3n Lofi",
+        "url": "https://open.spotify.com/album/3Y0ga9ccVWjbbcsz4WbShY"
       },
       "artists": [
         {
-          "name": "La Gente del Bien",
-          "url": "https://open.spotify.com/artist/0M7YLSxwvd6kNKHbH8eQUw"
+          "name": "Los Jardines De Bruselas",
+          "url": "https://open.spotify.com/artist/2F4tyujNuSw8UiWfwujwP8"
         }
       ],
-      "duration_ms": 188632,
-      "name": "Mejor Sin Miedo",
-      "url": "https://open.spotify.com/track/4nbkZq5yLjPh4Zy7kEqOGX"
+      "duration_ms": 232173,
+      "name": "Autorretrato en Blanco - Versi\u00f3n Lofi",
+      "url": "https://open.spotify.com/track/2hTLilKnyaOeQ2Ost5uGDS"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1399,6 +1383,22 @@
       "duration_ms": 224031,
       "name": "Son\u00e1mbulos",
       "url": "https://open.spotify.com/track/3E9jp8FfxeKPAkMBJwMaMc"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Mejor Sin Miedo",
+        "url": "https://open.spotify.com/album/7wG8LczSGRTbiwFW5Hqjgs"
+      },
+      "artists": [
+        {
+          "name": "La Gente del Bien",
+          "url": "https://open.spotify.com/artist/0M7YLSxwvd6kNKHbH8eQUw"
+        }
+      ],
+      "duration_ms": 188632,
+      "name": "Mejor Sin Miedo",
+      "url": "https://open.spotify.com/track/4nbkZq5yLjPh4Zy7kEqOGX"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "gigaaaante",
+        "url": "https://open.spotify.com/album/3QCktFDtwLwQ7jWtpPuoUo"
+      },
+      "artists": [
+        {
+          "name": "El pr\u00edncipe idiota",
+          "url": "https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u"
+        }
+      ],
+      "duration_ms": 213101,
+      "name": "obrador",
+      "url": "https://open.spotify.com/track/1fPs0v0bN5kUbj9K8Nr1OD"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "Si No Hubiera Ma\u00f1ana",
         "url": "https://open.spotify.com/album/1WmcAiuPAtwzxCLzSwFXf4"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 228506,
       "name": "Conf\u00edn Dorado",
       "url": "https://open.spotify.com/track/3O8NcxrSDChmIR4RkeFRf3"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "gigaaaante",
-        "url": "https://open.spotify.com/album/3QCktFDtwLwQ7jWtpPuoUo"
-      },
-      "artists": [
-        {
-          "name": "El pr\u00edncipe idiota",
-          "url": "https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u"
-        }
-      ],
-      "duration_ms": 213101,
-      "name": "obrador",
-      "url": "https://open.spotify.com/track/1fPs0v0bN5kUbj9K8Nr1OD"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Tan Cerca",
+        "url": "https://open.spotify.com/album/3b4moRrmBqJKu3mwvHenh7"
+      },
+      "artists": [
+        {
+          "name": "Garage 21",
+          "url": "https://open.spotify.com/artist/1vhJgSGrEaNhIEnFkBsu6j"
+        }
+      ],
+      "duration_ms": 194760,
+      "name": "Tan Cerca",
+      "url": "https://open.spotify.com/track/1ZpUJ5B8l8YmGXs5ZbnKnY"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "Me Siento Que No",
         "url": "https://open.spotify.com/album/2jjrnQTIGnT3wPufY0dlrG"
       },
@@ -1559,18 +1575,18 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Tan Cerca",
-        "url": "https://open.spotify.com/album/3b4moRrmBqJKu3mwvHenh7"
+        "name": "Mensajitos al Amanecer",
+        "url": "https://open.spotify.com/album/3545sPfmr4yIeb8yuDNi30"
       },
       "artists": [
         {
-          "name": "Garage 21",
-          "url": "https://open.spotify.com/artist/1vhJgSGrEaNhIEnFkBsu6j"
+          "name": "Alfonso El Pintor",
+          "url": "https://open.spotify.com/artist/1wGhNVSFMYSNhp0tsvzauZ"
         }
       ],
-      "duration_ms": 194760,
-      "name": "Tan Cerca",
-      "url": "https://open.spotify.com/track/1ZpUJ5B8l8YmGXs5ZbnKnY"
+      "duration_ms": 240000,
+      "name": "Mensajitos al Amanecer",
+      "url": "https://open.spotify.com/track/3mSpGG3XJ3gruH18lcwmIO"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1591,18 +1607,34 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Mensajitos al Amanecer",
-        "url": "https://open.spotify.com/album/3545sPfmr4yIeb8yuDNi30"
+        "name": "Egnaro",
+        "url": "https://open.spotify.com/album/7znyyR87CLZ0q0j5YiSwKJ"
       },
       "artists": [
         {
-          "name": "Alfonso El Pintor",
-          "url": "https://open.spotify.com/artist/1wGhNVSFMYSNhp0tsvzauZ"
+          "name": "Los Valses",
+          "url": "https://open.spotify.com/artist/5sZZ653SyHEsrxet9XZo47"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Mensajitos al Amanecer",
-      "url": "https://open.spotify.com/track/3mSpGG3XJ3gruH18lcwmIO"
+      "duration_ms": 187050,
+      "name": "Egnaro",
+      "url": "https://open.spotify.com/track/2nfSbYDQACqABuWDE5lHKV"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Mandala",
+        "url": "https://open.spotify.com/album/70s5AZ6uIkQeuXGuGPHnle"
+      },
+      "artists": [
+        {
+          "name": "boom boom kid",
+          "url": "https://open.spotify.com/artist/2h2frsYL6pssri5AZdlMUU"
+        }
+      ],
+      "duration_ms": 205557,
+      "name": "Mandala",
+      "url": "https://open.spotify.com/track/1ZbPfPD5voaTWndeCxuxU5"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1639,22 +1671,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Mandala",
-        "url": "https://open.spotify.com/album/70s5AZ6uIkQeuXGuGPHnle"
-      },
-      "artists": [
-        {
-          "name": "boom boom kid",
-          "url": "https://open.spotify.com/artist/2h2frsYL6pssri5AZdlMUU"
-        }
-      ],
-      "duration_ms": 205557,
-      "name": "Mandala",
-      "url": "https://open.spotify.com/track/1ZbPfPD5voaTWndeCxuxU5"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Fuera de Lugar",
         "url": "https://open.spotify.com/album/7k7pDs1peFehrsg3sVZHKh"
       },
@@ -1683,22 +1699,6 @@
       "duration_ms": 209032,
       "name": "Fantasmas",
       "url": "https://open.spotify.com/track/161UJ1aTjzHXcI1J9sAV7S"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Egnaro",
-        "url": "https://open.spotify.com/album/7znyyR87CLZ0q0j5YiSwKJ"
-      },
-      "artists": [
-        {
-          "name": "Los Valses",
-          "url": "https://open.spotify.com/artist/5sZZ653SyHEsrxet9XZo47"
-        }
-      ],
-      "duration_ms": 187050,
-      "name": "Egnaro",
-      "url": "https://open.spotify.com/track/2nfSbYDQACqABuWDE5lHKV"
     },
     {
       "added_at": "2023-04-14 03:00:00",

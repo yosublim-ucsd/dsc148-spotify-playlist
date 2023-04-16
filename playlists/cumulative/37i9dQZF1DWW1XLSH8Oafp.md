@@ -4,7 +4,7 @@
 
 > ur on the list bb 🪐 featuring Nia Archives
 
-577 songs - 1 day 9 hr 12 min
+578 songs - 1 day 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -517,7 +517,8 @@
 | [Things I Never Nu](https://open.spotify.com/track/1NAYrYgd473ua418mz32xb) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Second Nature](https://open.spotify.com/album/39g7HzX4s9teKLxwNYebw1) | 3:46 | 2022-11-11 | 2022-12-03 |
 | [Think](https://open.spotify.com/track/1BBvZu7jLWvqD2v7YCUC7C) | [Willo](https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA) | [Past Time](https://open.spotify.com/album/5yogKpMg28ACLLKzjKmnS2) | 5:17 | 2022-01-28 | 2022-02-12 |
 | [Time Goes By](https://open.spotify.com/track/6QXoQhDw7HyTQvbdtIJBh3) | [Take Van](https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj) | [Time Goes By](https://open.spotify.com/album/1pzWzxEYfQ1pp04EAJgy9r) | 2:01 | 2021-10-17 | 2022-06-18 |
-| [Time To Leave](https://open.spotify.com/track/20U6exJLpbUBHlhl0cWMVc) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Backseat Tape](https://open.spotify.com/album/3vjULlZhcatjZgSREPs3V1) | 2:48 | 2022-10-28 |  |
+| [Time To Leave](https://open.spotify.com/track/20U6exJLpbUBHlhl0cWMVc) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Backseat Tape](https://open.spotify.com/album/3vjULlZhcatjZgSREPs3V1) | 2:48 | 2022-10-28 | 2023-04-16 |
+| [Time To Leave](https://open.spotify.com/track/5vQjmdyWzdh2PhRv9LutsH) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Backseat Tape](https://open.spotify.com/album/3kukhQjrtZcMNL43oLBedf) | 2:48 | 2023-03-17 |  |
 | [Tiptoeing \- Tommy Villiers Remix](https://open.spotify.com/track/55FIIN6xVEjOIEheCmdV9K) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [Tiptoeing \(Tommy Villiers Remix\)](https://open.spotify.com/album/6aFoBYMo1H4lNQkiCxYz7t) | 3:08 | 2021-12-10 | 2022-08-06 |
 | [tokyothrift](https://open.spotify.com/track/6q4po5Wr42seuLqBliuZr1) | [In Explosions](https://open.spotify.com/artist/1KmwUUV5of4VqBf445WWNb), [Ryan Celsius Sounds](https://open.spotify.com/artist/2AtYJoC6VmUtkxonmVnbVR) | [tokyothrift](https://open.spotify.com/album/32iH6ohhmZEEx0EFLbdUxh) | 2:42 | 2022-05-06 | 2022-06-18 |
 | [Too Dead Inside](https://open.spotify.com/track/5fzFsmKy3ey9HHkUxrKYhW) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Too Dead Inside](https://open.spotify.com/album/0zPUzIJvszvVPkiQ6wZXyA) | 3:25 | 2022-01-14 | 2022-03-05 |

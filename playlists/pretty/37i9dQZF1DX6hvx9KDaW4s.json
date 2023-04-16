@@ -1,12 +1,12 @@
 {
   "description": "For when only raw rock will do...",
-  "num_followers": 546468,
+  "num_followers": 546608,
   "original_name": "The Rock Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTg1NzQ0MSwwMDAwMDAwMDE5ODIxNWRjMjFmNjc0MTU2ODYyMDU2MTU1N2I2MmU3",
+  "snapshot_id": "MTY3NTg1NzQ0MSwwMDAwMDAwMDU2ZWU0NWExMjY3N2Y4NTM3NTFjNzM4ZGFkNjI5NWUy",
   "tracks": [
     {
       "added_at": "2021-04-07 17:15:56",
@@ -107,22 +107,6 @@
     {
       "added_at": "2021-04-07 17:15:56",
       "album": {
-        "name": "Only By The Night",
-        "url": "https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 203346,
-      "name": "Sex on Fire",
-      "url": "https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45"
-    },
-    {
-      "added_at": "2021-04-07 17:15:56",
-      "album": {
         "name": "Appetite For Destruction",
         "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 273480,
       "name": "Welcome To The Jungle",
       "url": "https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8"
+    },
+    {
+      "added_at": "2021-04-07 17:15:56",
+      "album": {
+        "name": "Only By The Night",
+        "url": "https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 203346,
+      "name": "Sex on Fire",
+      "url": "https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45"
     },
     {
       "added_at": "2021-04-07 17:15:56",
@@ -555,22 +555,6 @@
     {
       "added_at": "2021-04-07 17:15:56",
       "album": {
-        "name": "Ill Communication",
-        "url": "https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8"
-      },
-      "artists": [
-        {
-          "name": "Beastie Boys",
-          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
-        }
-      ],
-      "duration_ms": 178440,
-      "name": "Sabotage",
-      "url": "https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9"
-    },
-    {
-      "added_at": "2021-04-07 17:15:56",
-      "album": {
         "name": "Are You Gonna Go My Way",
         "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 211933,
       "name": "Are You Gonna Go My Way",
       "url": "https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea"
+    },
+    {
+      "added_at": "2021-04-07 17:15:56",
+      "album": {
+        "name": "Ill Communication",
+        "url": "https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8"
+      },
+      "artists": [
+        {
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+        }
+      ],
+      "duration_ms": 178440,
+      "name": "Sabotage",
+      "url": "https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9"
     },
     {
       "added_at": "2021-04-07 17:15:56",

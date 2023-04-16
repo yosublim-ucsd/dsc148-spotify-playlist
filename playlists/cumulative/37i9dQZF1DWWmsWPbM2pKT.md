@@ -4,7 +4,7 @@
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world\. Molchat Doma on cover.
 
-153 songs - 10 hr 7 min
+154 songs - 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Always Then](https://open.spotify.com/track/4ti3jFBiVjPE4t9WOzKkHW) | [The KVB](https://open.spotify.com/artist/0BzJFLqchxKNQyEwswwQ40) | [Always Then](https://open.spotify.com/album/6K1bLeeV0TSh37uczoEvFC) | 4:11 | 2023-01-06 |  |
 | [American Nightmare](https://open.spotify.com/track/4i6snrjpdYSv5PBB7wH6qk) | [Vestron Vulture](https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr) | [American Nightmare](https://open.spotify.com/album/6zaXhrtWGMMJP4ty8XyMiT) | 3:09 | 2023-03-17 |  |
 | [Anvil](https://open.spotify.com/track/4eKN8RPS06OHyk8dTdempU) | [Lorn](https://open.spotify.com/artist/1PmVyfIR9KtCxbHWuga8E5) | [VESSEL](https://open.spotify.com/album/2fiGmNRXBH0QMnkm4jswEr) | 3:29 | 2020-12-21 |  |
-| [Audiotool Day 2016](https://open.spotify.com/track/0mAYx7e7gOsH7wUQgrD8t2) | [Xtract](https://open.spotify.com/artist/24Czv2dNQjRYh7thO4y2re) | [Audiotool Day 2016](https://open.spotify.com/album/3Zs4J3UFVJxLA2Bs0Iz6rA) | 3:57 | 2020-12-21 |  |
+| [Audiotool Day 2016](https://open.spotify.com/track/0mAYx7e7gOsH7wUQgrD8t2) | [Xtract](https://open.spotify.com/artist/24Czv2dNQjRYh7thO4y2re) | [Audiotool Day 2016](https://open.spotify.com/album/3Zs4J3UFVJxLA2Bs0Iz6rA) | 3:57 | 2020-12-21 | 2023-04-16 |
 | [Bad Night at Black's Beach](https://open.spotify.com/track/462Sv9QLexPjExQE8dZeam) | [L.A\. Takedown](https://open.spotify.com/artist/1XB4jI2i8cikuntyOuUi1v) | [II](https://open.spotify.com/album/3hRA9H6ESgJua9SdHZwe73) | 2:50 | 2020-12-21 |  |
 | [Bela Lugosi's Dead \(Official Version\)](https://open.spotify.com/track/1wyVyr8OhYsC9l0WgPPbh8) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [The Bela Session](https://open.spotify.com/album/5NhiaFlFGgymG2rDNqAcm1) | 9:36 | 2023-02-09 |  |
 | [Bichota \(Post\-Punk\)](https://open.spotify.com/track/3o8tpXm59d9a8wulsGLZ3y) | [FrioLento](https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn) | [Bichota \(Post\-Punk\)](https://open.spotify.com/album/0u9yvtJJdXmqMOOa53VuUD) | 3:01 | 2023-04-03 |  |
@@ -149,6 +149,7 @@
 | [Память](https://open.spotify.com/track/5T67lF0OIIwrhjaF2IDAK0) | [Мать Тереза](https://open.spotify.com/artist/2LvfF1x5DayV5lGcF1WFEo) | [Иллюзия](https://open.spotify.com/album/5aNoF2BBIbl1kMOk6MfOEV) | 4:08 | 2020-12-21 | 2023-02-10 |
 | [Пластинки](https://open.spotify.com/track/1OgLQdSMi9a7fZOqV96veS) | [Дурной Вкус](https://open.spotify.com/artist/75hHfYoo9WURXtqGB24Q2j) | [Пластинки](https://open.spotify.com/album/0jvMXv33xPDwS96RSQZe9U) | 3:04 | 2020-12-21 |  |
 | [По краю острова](https://open.spotify.com/track/0VJYAiu5uZzOCBPSqDrjJq) | [Ploho](https://open.spotify.com/artist/7yjnZ3eibFQRN65u1syJZg), [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [По краю острова](https://open.spotify.com/album/1QviwtPK0YQwvlPcwxs42s) | 3:41 | 2020-12-21 | 2023-04-06 |
+| [По краю острова](https://open.spotify.com/track/6wTo0Z5PVnIrvaDAXlixXD) | [Ploho](https://open.spotify.com/artist/7yjnZ3eibFQRN65u1syJZg), [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [По Краю Острова](https://open.spotify.com/album/6F1QbOIurgbtsbhKaS3SUr) | 3:41 | 2020-12-21 |  |
 | [Последний вальс](https://open.spotify.com/track/6LBEYGmGLY3qFBzzmgsil5) | [Улица Восток](https://open.spotify.com/artist/38BTzy0ZnEd1Jvde8wJhDE) | [Последний вальс](https://open.spotify.com/album/6y0hbbK5MptLOOme4GAgZa) | 2:36 | 2021-01-29 | 2023-02-10 |
 | [Пробовать / Probovat'](https://open.spotify.com/track/7r3XYCNzePZSlMtByx5nmG) | [Anum Preto](https://open.spotify.com/artist/01zIROcqWjGFgVJxYGxq9O) | [Anum Preto](https://open.spotify.com/album/4EXJxigpLtRwP5IIVSuK5M) | 3:54 | 2023-01-12 | 2023-02-22 |
 | [Прости](https://open.spotify.com/track/5dJ3y5jID3pbXgtTIADKGn) | [Ploho](https://open.spotify.com/artist/7yjnZ3eibFQRN65u1syJZg) | [Phantom Feelings](https://open.spotify.com/album/7Hx5SYpRQ0fNGP4l4n4Mng) | 3:29 | 2021-06-23 | 2023-02-10 |

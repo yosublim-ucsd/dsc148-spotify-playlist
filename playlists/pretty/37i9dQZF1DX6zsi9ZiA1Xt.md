@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zsi9ZiA1Xt.md) - [plain]
 
 > Con un poco de buena salsa todo queda limpio y reluciente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,711 likes - 50 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,732 likes - 50 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zsi9ZiA1Xt.md) - [plain]
 | 28 | [La Esencia Del Guaguancó](https://open.spotify.com/track/5NTB60qZtpRwFtDlNANKCt) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Pete "El Conde" Rodriguez](https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa) | [La Perfecta Combinación](https://open.spotify.com/album/4iaNq48hB9AJQiZ0x3phc0) | 4:06 |
 | 29 | [Yamulemau](https://open.spotify.com/track/0UCVLx34GEdkVkjDuSfB45) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [La Verdad de Joe Arroyo](https://open.spotify.com/album/74zkwPCMHbyZhPnLE0fSE3) | 4:30 |
 | 30 | [La Murga](https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [Asalto Navideño](https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe) | 5:34 |
-| 31 | [Sandra Mora](https://open.spotify.com/track/1Lyg0T9xKFXIyIj3jHpOm8) | [Velvet Salsa All Stars](https://open.spotify.com/artist/0Vb0pkmuJAdJkFGJtSe3mI), [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v), [Maritza Blanco De Puchi](https://open.spotify.com/artist/2Z23kB3gIu7mNJ4PG76yqI), [PABLO ÁLVAREZ](https://open.spotify.com/artist/0p0TwkF6LO1fYdx8NxcgGK) | [Velvet Salsa All Stars](https://open.spotify.com/album/0cFRprKvLnPrTJ7eWpG9ON) | 4:14 |
-| 32 | [Bang! Bang!](https://open.spotify.com/track/0gbeHMR4ESdykYOwWQ3PBw) | [Joe Cuba Sextet](https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj) | [Wanted Dead Or Alive \(Bang Bang Push Push Push\)](https://open.spotify.com/album/4W0zbRYPZqZgxzjQDVA63H) | 4:06 |
+| 31 | [Bang! Bang!](https://open.spotify.com/track/0gbeHMR4ESdykYOwWQ3PBw) | [Joe Cuba Sextet](https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj) | [Wanted Dead Or Alive \(Bang Bang Push Push Push\)](https://open.spotify.com/album/4W0zbRYPZqZgxzjQDVA63H) | 4:06 |
+| 32 | [Sandra Mora](https://open.spotify.com/track/1Lyg0T9xKFXIyIj3jHpOm8) | [Velvet Salsa All Stars](https://open.spotify.com/artist/0Vb0pkmuJAdJkFGJtSe3mI), [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v), [Maritza Blanco De Puchi](https://open.spotify.com/artist/2Z23kB3gIu7mNJ4PG76yqI), [PABLO ÁLVAREZ](https://open.spotify.com/artist/0p0TwkF6LO1fYdx8NxcgGK) | [Velvet Salsa All Stars](https://open.spotify.com/album/0cFRprKvLnPrTJ7eWpG9ON) | 4:14 |
 | 33 | [El Manicero](https://open.spotify.com/track/1xTtQuHbtAh6WvzZZNXbIu) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Éxitos, Vol\. 1](https://open.spotify.com/album/1BoeS73vVRPncBCDWbF3ep) | 4:42 |
 | 34 | [Salsa Y Control](https://open.spotify.com/track/4y6QWwI8lqYYemjYK1PCPc) | [Lebrón Brothers](https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam) | [Salsa Y Control](https://open.spotify.com/album/539af69eELgsPBWn4ZwK8I) | 3:47 |
 | 35 | [Ché Ché Colé](https://open.spotify.com/track/4rPtnAmfvHkVSCO2KKkiC1) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Crime Pays](https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zsi9ZiA1Xt.md) - [plain]
 | 49 | [Que Bueno Baila Usted](https://open.spotify.com/track/5c2JVgFOORbNCtaMS0myWY) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw) | [The Very Best Of Beny More Vol\. 1](https://open.spotify.com/album/45tO9TmvTvtAFWqWqB89hq) | 3:14 |
 | 50 | [Como Mi Salsa Ninguna](https://open.spotify.com/track/2pGrvFiWSrqw2POyEEeFui) | [Pirulo y la Tribu](https://open.spotify.com/artist/7yUFtMptVtCtg3vIR018vO) | [Calle Linda \(Golden Edition\)](https://open.spotify.com/album/66FlKUgkg7EQY6nzWtuX8V) | 6:21 |
 
-Snapshot ID: `MTY3NjMzODA4NiwwMDAwMDAwMDA2MWM5MjE4ZGEzYzVkZmI4NzE4YzQwOTRjYjgwZmVl`
+Snapshot ID: `MTY3NjMzODA4NiwwMDAwMDAwMGU4MjQ4MWYxNGE1MGY2MWU0NWIzNjVhYzlkZDFiYTAx`

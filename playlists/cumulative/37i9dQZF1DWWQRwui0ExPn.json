@@ -4666,7 +4666,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-14",
+      "date_removed": null,
       "duration_ms": 179076,
       "name": "Amorphous",
       "url": "https://open.spotify.com/track/3C8zrHlJxohCkkofSuuoQO"
@@ -14154,7 +14154,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 137187,
       "name": "b\u0103ng chuy\u1ec1n",
       "url": "https://open.spotify.com/track/7pOER4lDtIjMxeVImNK2P6"
@@ -14778,7 +14778,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 154000,
       "name": "Calm Down",
       "url": "https://open.spotify.com/track/1Kk396FQE7EqvbSdr23lCn"
@@ -15342,7 +15342,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 74886,
       "name": "Careless",
       "url": "https://open.spotify.com/track/7aWbMM0ABFa7NJJAmVbYYw"
@@ -28692,7 +28692,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 134505,
       "name": "En Route",
       "url": "https://open.spotify.com/track/0nUFD6i20AB1yzCxB3zGA5"
@@ -39186,6 +39186,24 @@
       "duration_ms": 119350,
       "name": "Guitar Vignette No. 4",
       "url": "https://open.spotify.com/track/1KbfQXm5JJT16VaSqnfsBP"
+    },
+    {
+      "album": {
+        "name": "Gurkebakken",
+        "url": "https://open.spotify.com/album/3u4D8v52kTtjre8m6n2es3"
+      },
+      "artists": [
+        {
+          "name": "Oslo",
+          "url": "https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106308,
+      "name": "Gurkebakken",
+      "url": "https://open.spotify.com/track/3Yn41lGF0i8RR2DGs3Z0YR"
     },
     {
       "album": {
@@ -62692,7 +62710,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 134256,
       "name": "My House, Your Rules",
       "url": "https://open.spotify.com/track/6qAFemH2WWhEM9ZNn5dcBN"
@@ -63018,6 +63036,28 @@
       "duration_ms": 126666,
       "name": "Myth & Moor",
       "url": "https://open.spotify.com/track/6xshSKcpQASLYyY9Ow2YQZ"
+    },
+    {
+      "album": {
+        "name": "N.I.P.",
+        "url": "https://open.spotify.com/album/5PuMIpcIGVG9owe3LFc7zF"
+      },
+      "artists": [
+        {
+          "name": "Frances The Mute",
+          "url": "https://open.spotify.com/artist/2wCcRWGIQVa5m5oJuBplAs"
+        },
+        {
+          "name": "Robochop",
+          "url": "https://open.spotify.com/artist/6XmSY1R2qkEj84yT8XDPe8"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111326,
+      "name": "N.I.P.",
+      "url": "https://open.spotify.com/track/0dDKqMo1XG4ZDoHM5kRFgu"
     },
     {
       "album": {
@@ -72391,6 +72431,28 @@
     },
     {
       "album": {
+        "name": "Planet Dminor",
+        "url": "https://open.spotify.com/album/6bpgJwFQg8zAvS5M49aGNn"
+      },
+      "artists": [
+        {
+          "name": "Zmeyev",
+          "url": "https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL"
+        },
+        {
+          "name": "okwow",
+          "url": "https://open.spotify.com/artist/1Gx2S5p5nWuMKhPq3k2kCq"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117000,
+      "name": "Planet Dminor",
+      "url": "https://open.spotify.com/track/3bOe5CQYObjx1klrNXEpz4"
+    },
+    {
+      "album": {
         "name": "Planet Love",
         "url": "https://open.spotify.com/album/4VPcdizHJ4BXJxMyam0Sun"
       },
@@ -79390,7 +79452,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-26",
+      "date_removed": null,
       "duration_ms": 124000,
       "name": "Sanduhr",
       "url": "https://open.spotify.com/track/7xOrraM4CMEgvOMdP5w7ah"
@@ -80864,6 +80926,28 @@
       "duration_ms": 126720,
       "name": "Serenity",
       "url": "https://open.spotify.com/track/1HK3PN1mjFuVhZMhuAOQna"
+    },
+    {
+      "album": {
+        "name": "serenity (I)",
+        "url": "https://open.spotify.com/album/1wGgXVO8zhOmUD3UTf8g1W"
+      },
+      "artists": [
+        {
+          "name": "DRWN.",
+          "url": "https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy"
+        },
+        {
+          "name": "dhar\u0101",
+          "url": "https://open.spotify.com/artist/1M6OZtIOe8HhLXuGy8djF6"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "serenity (I)",
+      "url": "https://open.spotify.com/track/0MJnCQigS9d0kaP5ATMVKR"
     },
     {
       "album": {
@@ -83190,7 +83274,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 143773,
       "name": "Sleepy",
       "url": "https://open.spotify.com/track/611sqq1ogKBrXyK4qq9get"

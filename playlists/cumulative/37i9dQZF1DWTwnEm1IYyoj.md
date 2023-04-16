@@ -4,7 +4,7 @@
 
 > Warm familiar pop you know and love\. Cover: Sam Smith
 
-370 songs - 23 hr 4 min
+371 songs - 23 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,8 @@
 | [Head Above Water](https://open.spotify.com/track/1N7YeVU0ZwAFbOhwM61ef6) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Head Above Water](https://open.spotify.com/album/6uQufJrxAdQNH2QlnJMEgi) | 3:40 | 2019-05-26\* | 2022-04-21 |
 | [Heartbreak Anniversary](https://open.spotify.com/track/27tDoZsybt3KvJWTDoW9id) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done..\. Take Time](https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd) | 3:18 | 2023-02-13 | 2023-02-19 |
 | [Heartbreak Anniversary](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 3:18 | 2021-08-07 |  |
-| [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 | 2022-12-28 |  |
+| [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 | 2022-12-28 | 2023-04-16 |
+| [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 | 2023-03-14 |  |
 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 | 2021-06-12 |  |
 | [Heaven](https://open.spotify.com/track/2mQ1RBK7s87mdPCzh97RSH) | [Los Lonely Boys](https://open.spotify.com/artist/4aSEmLLxLX9wR5aLMllOKj) | [Playlist: The Very Best Of Los Lonely Boys](https://open.spotify.com/album/1ZyeNQ6uvVyK3yNJDSLdRU) | 3:47 | 2019-05-26\* | 2021-06-08 |
 | [Hello](https://open.spotify.com/track/4sPmO7WMQUAf45kwMOtONw) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/0K4pIOOsfJ9lK8OjrZfXzd) | 4:55 | 2019-05-26\* | 2022-04-21 |

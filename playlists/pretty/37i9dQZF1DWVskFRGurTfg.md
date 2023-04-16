@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVskFRGurTfg.md) - [plain]
 
 > Éxitos urbanos de Latinoamérica con ROSALÍA y Rauw Alejandro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,861,761 likes - 99 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,862,722 likes - 99 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVskFRGurTfg.md) - [plain]
 | 43 | [Tiki Tiki](https://open.spotify.com/track/2J8lIDwvxPZQQ0I0wt1oRO) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Tiki Tiki](https://open.spotify.com/album/27WZ3udXyjazvsInPtfuIQ) | 2:11 |
 | 44 | [Tarot](https://open.spotify.com/track/41oY4WCTj5kccfesTVFnvN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:57 |
 | 45 | [Mío No Tuyo \(feat\. Julianno Sosa\)](https://open.spotify.com/track/2y7M3BNqkUGY0eJ9oAL55R) | [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [Javiielo](https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Mío No Tuyo \(feat\. Julianno Sosa\)](https://open.spotify.com/album/3MsigXOlPVWg1Csy7xzPrI) | 3:07 |
-| 46 | [AGUARDIENTE](https://open.spotify.com/track/6jhB0WW148mVOX7VuV2ga0) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [AGUARDIENTE](https://open.spotify.com/album/1ox6fzQPXwDtsTg8EQrplp) | 2:47 |
+| 46 | [AGUARDIENTE](https://open.spotify.com/track/3Z0l8qwMuC376pcutLVsY8) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 2:47 |
 | 47 | [Mi Gata \- Remix](https://open.spotify.com/track/4llRitxwDsJF4NJbXPfatx) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [El Barto](https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Mi Gata \(Remix\)](https://open.spotify.com/album/49nXirxfEoHGlEkrzCp2tE) | 4:06 |
 | 48 | [WOW](https://open.spotify.com/track/7dnWwiWTF7JSEAXhmeUBpa) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Obie Wanshot](https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV) | [WOW](https://open.spotify.com/album/6vFeKKeRjOrndZ4OT80E7g) | 3:37 |
 | 49 | [En Bajita](https://open.spotify.com/track/5K9VzfSr7L34rMMJxe8ndg) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [En Bajita](https://open.spotify.com/album/77hesD3v2jWR2dnhElz9Yp) | 3:29 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVskFRGurTfg.md) - [plain]
 | 98 | [Vengo De La Brea](https://open.spotify.com/track/6ECKufSE72CsQUb3PRNYmq) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [Vengo De La Brea](https://open.spotify.com/album/4yjqw4nUPFJt0BGSfiyJvO) | 2:30 |
 | 99 | [TE EXO DE MENOS :\(](https://open.spotify.com/track/72d8QGh77awoqnxiAOFRMI) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [TE EXO DE MENOS :\(](https://open.spotify.com/album/2nl4PR8ItbHzzjmhmW1m3p) | 2:31 |
 
-Snapshot ID: `MTY4MTUwNjg4OSwwMDAwMDAwMDkzNGVhNWQwZTM3OWE5OTdmMWMyMTUzMmI1MzhlYTgx`
+Snapshot ID: `MTY4MTUwNjg4OSwwMDAwMDAwMDM1MjU0YTI2MDNiMzI3YmFhNWM2MDY3MjY3NjY5ZmY5`

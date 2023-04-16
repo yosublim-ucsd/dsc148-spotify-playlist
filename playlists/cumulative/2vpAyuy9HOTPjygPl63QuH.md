@@ -4,7 +4,7 @@
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-951 songs - 2 day 6 hr 40 min
+954 songs - 2 day 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,6 +318,7 @@
 | [Get Ur Freak On](https://open.spotify.com/track/6FSY2EEtEfW8Xj95dqw3UC) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE) | [Freak With Us](https://open.spotify.com/album/5C6ite2nuxQ3FSKc161KAa) | 2:56 | 2022-09-17 | 2022-09-24 |
 | [Getaway](https://open.spotify.com/track/3mREWT3SWgL5eNevye37bG) | [Poolhaus](https://open.spotify.com/artist/1tD9iofjoSqExWwVRhBKGH), [SELCO \(BE\)](https://open.spotify.com/artist/0GXQS4aBpAGNNvbGM9qSFt) | [Getaway](https://open.spotify.com/album/7zhqid6qc4aXhwxUpBDQqQ) | 3:50 | 2022-07-15 | 2022-07-30 |
 | [Ghosts In My Bed](https://open.spotify.com/track/3dQVVuNZKEmNNLmIlQXjau) | [ToMix](https://open.spotify.com/artist/2huaButoWP7CiTeaYzKgIR) | [Ghosts In My Bed](https://open.spotify.com/album/4P469Mu97SlHlaPxzkrXdQ) | 3:10 | 2023-03-04 | 2023-03-11 |
+| [Gimme Dat](https://open.spotify.com/track/3qBAdCLkuuPS4M4YhJuaiW) | [1000 Handz](https://open.spotify.com/artist/6nvVfQDguCLS7by9aJhMly) | [Gimme Dat](https://open.spotify.com/album/5uzcCo9bysmAZ3mHTsq1vr) | 3:42 | 2023-04-15 |  |
 | [Gimme Head](https://open.spotify.com/track/29vezKqX1mJUEtYbPdAlrZ) | [Zack Darza](https://open.spotify.com/artist/1lTlUGVbQ7f7NQ5vHeg6xm) | [Gimme Head](https://open.spotify.com/album/57CKVXXVsxobPrpVRHgcIG) | 3:05 | 2023-02-17 | 2023-02-25 |
 | [Gimme Some Keys \- Cave Studio Remix](https://open.spotify.com/track/4kFt0wCEMo1eYKltXr9jIt) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Cave Studio](https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE) | [Gimme Some Keys \(Remixes\)](https://open.spotify.com/album/0DCYwEDewo2R9GbzwueiN6) | 2:53 | 2022-12-16 | 2023-01-07 |
 | [Gimme That Bounce](https://open.spotify.com/track/7jURkEKDVEm9sHueqUX0ko) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Gimme That Bounce](https://open.spotify.com/album/1aCIYDZTw34CIRq8Vr1VQv) | 3:37 | 2023-01-28 | 2023-02-11 |
@@ -424,6 +425,7 @@
 | [It's On Fire \- Original Edit](https://open.spotify.com/track/5tuhxKlP0La0YMvMLHQbzw) | [Maxinne](https://open.spotify.com/artist/3sv9dCyzqOsGcJHPl5seiq), [Jordano Roosevelt](https://open.spotify.com/artist/0ogLGZX9wtUfbgotgKRfm8) | [It's On Fire](https://open.spotify.com/album/4DqECgdlJp6wXWWsl4EVCg) | 4:10 | 2022-10-07 | 2022-10-15 |
 | [It's Ours](https://open.spotify.com/track/19Oh5hnq89a94Upp66mOoy) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [It's Ours](https://open.spotify.com/album/11Z7v788eMOAVcWvsKAMG8) | 8:03 | 2022-10-14 | 2022-10-29 |
 | [Jack On The Line](https://open.spotify.com/track/3am9Xqm1H9bEpcl6g4m7tI) | [CASHEW](https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw) | [Jack On The Line](https://open.spotify.com/album/4IGGQibQn3uUOhCQOLtwFS) | 4:23 | 2022-11-11 | 2022-11-19 |
+| [Jackstion \- Edit](https://open.spotify.com/track/5WRe14AMPtYOpIkfJjVogv) | [M\-High](https://open.spotify.com/artist/5lNjdR9GxHHF3twNE6ayJW) | [Up The Attic EP](https://open.spotify.com/album/6Hh8t98iHvGEUZyHRIOUdq) | 4:09 | 2023-04-15 |  |
 | [Jenny From The Block](https://open.spotify.com/track/3eHD5n37Rw3n6sxE9AJZCf) | [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS) | [Jenny From The Block](https://open.spotify.com/album/62MGYRNMNdura41YeBrwDP) | 3:49 | 2023-03-03 | 2023-03-11 |
 | [Jump Em](https://open.spotify.com/track/05CumuPfFqJu7FmBtO0KmV) | [GIANT](https://open.spotify.com/artist/5SNRm9Vv3wf1c1MEOU6K1K) | [Jump Em](https://open.spotify.com/album/10xWCzTEr6LbahxswjrGEt) | 3:19 | 2023-03-24 | 2023-04-01 |
 | [Jumpman](https://open.spotify.com/track/3sWJfExp0jAqvOlfoAfpFA) | [Sonickraft](https://open.spotify.com/artist/6TM9nl47jBGEA9C2nsUP4o) | [It's Ecstasy EP](https://open.spotify.com/album/0iY9cBd95XTzOSxuUykGsZ) | 3:18 | 2022-06-11 | 2022-06-18 |
@@ -702,6 +704,7 @@
 | [Rock & Roll](https://open.spotify.com/track/5uRm2oHJnyUlWY7KETuP2r) | [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [Rock & Roll](https://open.spotify.com/album/4j5XQFMWoEqXvR2NJFiCKl) | 2:32 | 2022-06-10 | 2022-06-18 |
 | [Rodeo](https://open.spotify.com/track/3n7bTMRshWeaIcl8mfJboJ) | [Frents](https://open.spotify.com/artist/4vc5Jd6VrKpKcsimzyMYFK) | [Casse Croûte Sampler Vol\. 01](https://open.spotify.com/album/5nhCaLvXOG3NYQJObiBahC) | 3:49 | 2022-09-02 | 2022-09-10 |
 | [Roll Out](https://open.spotify.com/track/71UwgcOkkTPVarPPAjpTBk) | [Brad Wood \(UK\)](https://open.spotify.com/artist/6jVDb9wCqGfbWdhEhMfdKX) | [Roll Out](https://open.spotify.com/album/1tIkoqZ1zPyrubTCxWQwl3) | 3:35 | 2022-07-29 | 2022-08-06 |
+| [Room 2 \- Edit](https://open.spotify.com/track/2agDmUuQsLVAJP89qHs8dJ) | [Jordan Peak](https://open.spotify.com/artist/5Jhhsm26nMbGu8FNOvN3Gk) | [Beats 4 Eats Part\. I](https://open.spotify.com/album/4po1t87GmYVQgB6ZROK2FQ) | 2:56 | 2023-04-15 |  |
 | [Roots Of House Music](https://open.spotify.com/track/0yFuwfNxXHerJmBEtMPzyS) | [CASHEW](https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw) | [Roots Of House Music](https://open.spotify.com/album/5cTGR5XmPnc60KJm6H0PyG) | 3:08 | 2023-01-28 | 2023-02-11 |
 | [Round N Round](https://open.spotify.com/track/5wqFVHgtgMV0AE6akJyH8u) | [Cloverdale](https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB), [SQWAD](https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI) | [Round N Round](https://open.spotify.com/album/0wHtWW77BIrll2RFk7Be3K) | 3:30 | 2022-07-29 | 2022-08-06 |
 | [Rover Grover](https://open.spotify.com/track/6YiUwCBQMlOUFwNXBU4wfV) | [Kramder](https://open.spotify.com/artist/0zE8RK1Xe0w3PEJC5WUVlQ) | [Rover Grover](https://open.spotify.com/album/31bbluK8eO1yP0JHOkbZNE) | 3:18 | 2022-04-29 | 2022-05-14 |

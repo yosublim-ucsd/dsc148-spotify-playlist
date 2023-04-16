@@ -4,7 +4,7 @@
 
 > Top hits from homegrown artists showcasing rich culture and talent from Uganda
 
-131 songs - 6 hr 44 min
+132 songs - 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,13 +103,14 @@
 | [Osobola](https://open.spotify.com/track/3Bz6rWbCF6dPyGZUWnfq4q) | [Emilian Starz](https://open.spotify.com/artist/2S7N3sP6mqXp5yyu82QWOb) | [Osobola](https://open.spotify.com/album/6Y0mGvsjLUQUb2E7twJlws) | 3:13 | 2022-08-05 | 2022-10-06 |
 | [Osobola](https://open.spotify.com/track/6YelPUEUNYf0o7vipnvZgl) | [Emilian Starz](https://open.spotify.com/artist/2S7N3sP6mqXp5yyu82QWOb) | [Osobola](https://open.spotify.com/album/7o055OuUVkYJlLrmDE0SMC) | 3:13 | 2022-09-30 | 2022-10-07 |
 | [Part2 \(Dinner in Maui\)](https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te) | [Hermez](https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [Part2 \(Dinner in Maui\)](https://open.spotify.com/album/2RjYPIml5GBer8oZvUV1OO) | 3:13 | 2022-09-22 |  |
+| [Pause](https://open.spotify.com/track/2yx8yJQIWgyZ3xS67mg8Qp) | [Mugaba](https://open.spotify.com/artist/1EBLonfYVb5s9f047W2CS6), [Amani Greene](https://open.spotify.com/artist/0nJznPzHXT4c62if3o5tsO) | [Pause](https://open.spotify.com/album/53V8rIv7Bix3IbNXbnG0px) | 3:04 | 2023-04-06 |  |
 | [Personal](https://open.spotify.com/track/75GrSLQFXf1tWzgHBEUvd9) | [Zulitums](https://open.spotify.com/artist/7KJHPQ0SRCI3AlxKX7heea) | [Personal](https://open.spotify.com/album/5wYH1MacgZZEpIew5uQBTF) | 3:10 | 2022-05-12 |  |
 | [Pirepe](https://open.spotify.com/track/1c6pBk5cUupGEKuEc8gpgT) | [Suzan Kerunen](https://open.spotify.com/artist/2aNSI0ak2Os9PHD11PdkHr), [Aloysius Migadde](https://open.spotify.com/artist/7rJOWggakrq6vVC3gQ35XY) | [From Ashes We Rise](https://open.spotify.com/album/6qdLGSQgD4Qnl088lO3lgp) | 4:25 | 2022-05-12 | 2022-08-20 |
 | [Pretty Young Thing](https://open.spotify.com/track/67hRQkotvl3eGiEYD3r8FK) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Pretty Young Thing](https://open.spotify.com/album/7pAqhUVUSXlXl7ANiO8KgF) | 3:10 | 2023-03-24 |  |
 | [Raha](https://open.spotify.com/track/2GJMYdqcS8uMRdUdwHJCY1) | [Navio](https://open.spotify.com/artist/0itCt7khLTvv5WqlMJwYNQ) | [Vibes Out The East](https://open.spotify.com/album/0qYAUeR7eF1HCKJGmRgLoz) | 3:32 | 2022-09-22 | 2022-11-11 |
 | [RainFall](https://open.spotify.com/track/7JMR4ksKkxC0UhxfkKFFUP) | [HerbertSkillz](https://open.spotify.com/artist/30hteLyFTmiRraerHJBoba), [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j) | [RainFall](https://open.spotify.com/album/0cOqoc0T8yzsN4WbtDbCDK) | 3:29 | 2022-11-25 | 2023-02-28 |
 | [Riri](https://open.spotify.com/track/3OgiA8uA9uRS5hSfUfctAo) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Riri](https://open.spotify.com/album/2txk6mLoIFVO2Bj3IJJqYn) | 3:35 | 2022-09-30 | 2023-02-27 |
-| [Riri](https://open.spotify.com/track/3kYMCCE3sV70yPOaFM4eCr) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Music for the Soul](https://open.spotify.com/album/1Py43eA0a9cU9cRuhvF46K) | 3:35 | 2022-09-30 |  |
+| [Riri](https://open.spotify.com/track/3kYMCCE3sV70yPOaFM4eCr) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Music for the Soul](https://open.spotify.com/album/1Py43eA0a9cU9cRuhvF46K) | 3:35 | 2022-09-30 | 2023-04-16 |
 | [Riri](https://open.spotify.com/track/6uuhUQUMzrnEZdTaTwpgYZ) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Riri](https://open.spotify.com/album/0YbmSdTyRouipTci3DtkQv) | 3:35 | 2022-05-12 | 2022-10-21 |
 | [Sakata](https://open.spotify.com/track/1vOBjsXST8IjLgoUZIwDU6) | [Authentically Plastic](https://open.spotify.com/artist/1Gum664eHo0JeNdHWb4hoY) | [Sakata](https://open.spotify.com/album/7oscxpiTiwjPlcBdqYa4uX) | 3:42 | 2022-07-22 | 2022-10-16 |
 | [Saving My Love](https://open.spotify.com/track/7kmuCdJaXVu2b5ntYHPDW5) | [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds), [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1), [Andy Muzic](https://open.spotify.com/artist/79oZcy8wWml3rDoZv8A47z) | [Saving My Love](https://open.spotify.com/album/0x1lCC3RTUArlkWGiyUBTg) | 3:18 | 2023-02-10 | 2023-04-09 |

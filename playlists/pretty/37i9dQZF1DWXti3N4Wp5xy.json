@@ -1,12 +1,12 @@
 {
   "description": "A perfect little pop party. ",
-  "num_followers": 424826,
+  "num_followers": 425266,
   "original_name": "Pop Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjI2MDE3MSwwMDAwMDAwMDRiNTA5YTIxZmJjNGE3NWQ4YTc4NDc3ODZlZGQxYzE4",
+  "snapshot_id": "MTY3NjI2MDE3MSwwMDAwMDAwMDliZjcxNDRmZjI5YmZjMzJhNzI5MGJjMzZhYjIyMTll",
   "tracks": [
     {
       "added_at": "2023-02-13 03:49:30",
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-02-13 03:49:30",
       "album": {
-        "name": "Dreamland (+ Bonus Levels)",
-        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
-    },
-    {
-      "added_at": "2023-02-13 03:49:30",
-      "album": {
         "name": "Fine Line",
         "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
       },
@@ -435,22 +419,6 @@
     {
       "added_at": "2023-02-13 03:49:30",
       "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 230746,
-      "name": "Bad Habits",
-      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
-    },
-    {
-      "added_at": "2023-02-13 03:49:30",
-      "album": {
         "name": "Pepas",
         "url": "https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1"
       },
@@ -463,6 +431,22 @@
       "duration_ms": 287120,
       "name": "Pepas",
       "url": "https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k"
+    },
+    {
+      "added_at": "2023-02-13 03:49:30",
+      "album": {
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 230746,
+      "name": "Bad Habits",
+      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
     },
     {
       "added_at": "2023-02-13 03:49:30",
@@ -575,6 +559,26 @@
     {
       "added_at": "2023-02-13 03:49:30",
       "album": {
+        "name": "Save Your Tears (Remix)",
+        "url": "https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 191013,
+      "name": "Save Your Tears (with Ariana Grande) (Remix)",
+      "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy"
+    },
+    {
+      "added_at": "2023-02-13 03:49:30",
+      "album": {
         "name": "The Fame Monster (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4"
       },
@@ -623,26 +627,6 @@
       "duration_ms": 212000,
       "name": "INDUSTRY BABY (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK"
-    },
-    {
-      "added_at": "2023-02-13 03:49:30",
-      "album": {
-        "name": "Save Your Tears (Remix)",
-        "url": "https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 191013,
-      "name": "Save Your Tears (with Ariana Grande) (Remix)",
-      "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy"
     },
     {
       "added_at": "2023-02-13 03:49:30",
@@ -699,22 +683,6 @@
     {
       "added_at": "2023-02-13 03:49:30",
       "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 183290,
-      "name": "Don't Start Now",
-      "url": "https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62"
-    },
-    {
-      "added_at": "2023-02-13 03:49:30",
-      "album": {
         "name": "Purpose (Deluxe)",
         "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
       },
@@ -727,6 +695,22 @@
       "duration_ms": 200786,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF"
+    },
+    {
+      "added_at": "2023-02-13 03:49:30",
+      "album": {
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 183290,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62"
     },
     {
       "added_at": "2023-02-13 03:49:30",
@@ -759,22 +743,18 @@
     {
       "added_at": "2023-02-13 03:49:30",
       "album": {
-        "name": "Do It To It",
-        "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
+        "name": "Pray for the Wicked",
+        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
       },
       "artists": [
         {
-          "name": "ACRAZE",
-          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
-        },
-        {
-          "name": "Cherish",
-          "url": "https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo"
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 157890,
-      "name": "Do It To It",
-      "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
+      "duration_ms": 190946,
+      "name": "High Hopes",
+      "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
     },
     {
       "added_at": "2023-02-13 03:49:30",
@@ -795,18 +775,22 @@
     {
       "added_at": "2023-02-13 03:49:30",
       "album": {
-        "name": "Pray for the Wicked",
-        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
+        "name": "Do It To It",
+        "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
       },
       "artists": [
         {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        },
+        {
+          "name": "Cherish",
+          "url": "https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo"
         }
       ],
-      "duration_ms": 190946,
-      "name": "High Hopes",
-      "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
+      "duration_ms": 157890,
+      "name": "Do It To It",
+      "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
     },
     {
       "added_at": "2023-02-13 03:49:30",
@@ -895,22 +879,22 @@
     {
       "added_at": "2023-02-13 03:49:30",
       "album": {
-        "name": "El Dorado",
-        "url": "https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq"
+        "name": "Global Warming: Meltdown (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy"
       },
       "artists": [
         {
-          "name": "24kGoldn",
-          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
         },
         {
-          "name": "iann dior",
-          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
         }
       ],
-      "duration_ms": 140533,
-      "name": "Mood (feat. iann dior)",
-      "url": "https://open.spotify.com/track/4jPy3l0RUwlUI9T5XHBW2m"
+      "duration_ms": 204160,
+      "name": "Timber (feat. Ke$ha)",
+      "url": "https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS"
     },
     {
       "added_at": "2023-02-13 03:49:30",
@@ -931,22 +915,22 @@
     {
       "added_at": "2023-02-13 03:49:30",
       "album": {
-        "name": "Global Warming: Meltdown (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy"
+        "name": "El Dorado",
+        "url": "https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq"
       },
       "artists": [
         {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
         },
         {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
         }
       ],
-      "duration_ms": 204160,
-      "name": "Timber (feat. Ke$ha)",
-      "url": "https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS"
+      "duration_ms": 140533,
+      "name": "Mood (feat. iann dior)",
+      "url": "https://open.spotify.com/track/4jPy3l0RUwlUI9T5XHBW2m"
     },
     {
       "added_at": "2023-02-13 03:49:30",
@@ -1099,22 +1083,6 @@
     {
       "added_at": "2023-02-13 03:49:30",
       "album": {
-        "name": "Music Of The Sun",
-        "url": "https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 246960,
-      "name": "Pon de Replay",
-      "url": "https://open.spotify.com/track/4TsmezEQVSZNNPv5RJ65Ov"
-    },
-    {
-      "added_at": "2023-02-13 03:49:30",
-      "album": {
         "name": "Heaven & Hell",
         "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
       },
@@ -1127,6 +1095,22 @@
       "duration_ms": 187436,
       "name": "Sweet but Psycho",
       "url": "https://open.spotify.com/track/7DnAm9FOTWE3cUvso43HhI"
+    },
+    {
+      "added_at": "2023-02-13 03:49:30",
+      "album": {
+        "name": "Music Of The Sun",
+        "url": "https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 246960,
+      "name": "Pon de Replay",
+      "url": "https://open.spotify.com/track/4TsmezEQVSZNNPv5RJ65Ov"
     },
     {
       "added_at": "2023-02-13 03:49:30",
@@ -1255,6 +1239,22 @@
     {
       "added_at": "2023-02-13 03:49:30",
       "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
+    },
+    {
+      "added_at": "2023-02-13 03:49:30",
+      "album": {
         "name": "Bangerz (Deluxe Version)",
         "url": "https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0"
       },
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-02-13 03:49:30",
       "album": {
-        "name": "24K Magic",
-        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 225983,
-      "name": "24K Magic",
-      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
-    },
-    {
-      "added_at": "2023-02-13 03:49:30",
-      "album": {
         "name": "Love?",
         "url": "https://open.spotify.com/album/3sysiYphqNRQw7VKLCg1yE"
       },
@@ -1323,6 +1307,58 @@
       "duration_ms": 284866,
       "name": "On The Floor",
       "url": "https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN"
+    },
+    {
+      "added_at": "2023-02-13 03:49:30",
+      "album": {
+        "name": "Head & Heart (feat. MNEK)",
+        "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 166028,
+      "name": "Head & Heart (feat. MNEK)",
+      "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
+    },
+    {
+      "added_at": "2023-02-13 03:49:30",
+      "album": {
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 225983,
+      "name": "24K Magic",
+      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
+    },
+    {
+      "added_at": "2023-02-13 03:49:30",
+      "album": {
+        "name": "1989",
+        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 231826,
+      "name": "Blank Space",
+      "url": "https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky"
     },
     {
       "added_at": "2023-02-13 03:49:30",
@@ -1351,42 +1387,6 @@
     {
       "added_at": "2023-02-13 03:49:30",
       "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 231826,
-      "name": "Blank Space",
-      "url": "https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky"
-    },
-    {
-      "added_at": "2023-02-13 03:49:30",
-      "album": {
-        "name": "Head & Heart (feat. MNEK)",
-        "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
-        }
-      ],
-      "duration_ms": 166028,
-      "name": "Head & Heart (feat. MNEK)",
-      "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
-    },
-    {
-      "added_at": "2023-02-13 03:49:30",
-      "album": {
         "name": "Acapulco",
         "url": "https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW"
       },
@@ -1399,6 +1399,54 @@
       "duration_ms": 139672,
       "name": "Acapulco",
       "url": "https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ"
+    },
+    {
+      "added_at": "2023-02-13 03:49:30",
+      "album": {
+        "name": "Wild Ones",
+        "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 232946,
+      "name": "Wild Ones (feat. Sia)",
+      "url": "https://open.spotify.com/track/1NpW5kyvO4XrNJ3rnfcNy3"
+    },
+    {
+      "added_at": "2023-02-13 03:49:30",
+      "album": {
+        "name": "OUT OUT (feat. Charli XCX & Saweetie)",
+        "url": "https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 162603,
+      "name": "OUT OUT (feat. Charli XCX & Saweetie)",
+      "url": "https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ"
     },
     {
       "added_at": "2023-02-13 03:49:30",
@@ -1443,22 +1491,34 @@
     {
       "added_at": "2023-02-13 03:49:30",
       "album": {
-        "name": "Wild Ones",
-        "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
+        "name": "Raise Your Glass",
+        "url": "https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh"
       },
       "artists": [
         {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
         }
       ],
-      "duration_ms": 232946,
-      "name": "Wild Ones (feat. Sia)",
-      "url": "https://open.spotify.com/track/1NpW5kyvO4XrNJ3rnfcNy3"
+      "duration_ms": 202960,
+      "name": "Raise Your Glass",
+      "url": "https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR"
+    },
+    {
+      "added_at": "2023-02-13 03:49:30",
+      "album": {
+        "name": "True",
+        "url": "https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "duration_ms": 255093,
+      "name": "Hey Brother",
+      "url": "https://open.spotify.com/track/4lhqb6JvbHId48OUJGwymk"
     },
     {
       "added_at": "2023-02-13 03:49:30",
@@ -1487,38 +1547,6 @@
     {
       "added_at": "2023-02-13 03:49:30",
       "album": {
-        "name": "True",
-        "url": "https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        }
-      ],
-      "duration_ms": 255093,
-      "name": "Hey Brother",
-      "url": "https://open.spotify.com/track/4lhqb6JvbHId48OUJGwymk"
-    },
-    {
-      "added_at": "2023-02-13 03:49:30",
-      "album": {
-        "name": "Raise Your Glass",
-        "url": "https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 202960,
-      "name": "Raise Your Glass",
-      "url": "https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR"
-    },
-    {
-      "added_at": "2023-02-13 03:49:30",
-      "album": {
         "name": "Dangerously In Love",
         "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
       },
@@ -1535,34 +1563,6 @@
       "duration_ms": 236133,
       "name": "Crazy In Love (feat. Jay-Z)",
       "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
-    },
-    {
-      "added_at": "2023-02-13 03:49:30",
-      "album": {
-        "name": "OUT OUT (feat. Charli XCX & Saweetie)",
-        "url": "https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 162603,
-      "name": "OUT OUT (feat. Charli XCX & Saweetie)",
-      "url": "https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ"
     },
     {
       "added_at": "2023-02-13 03:49:30",
@@ -1599,18 +1599,22 @@
     {
       "added_at": "2023-02-13 03:49:30",
       "album": {
-        "name": "Sweetener",
-        "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
+        "name": "My Everything (Deluxe)",
+        "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
       },
       "artists": [
         {
           "name": "Ariana Grande",
           "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
         }
       ],
-      "duration_ms": 205920,
-      "name": "no tears left to cry",
-      "url": "https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo"
+      "duration_ms": 214840,
+      "name": "Break Free",
+      "url": "https://open.spotify.com/track/12KUFSHFgT0XCoiSlvdQi4"
     },
     {
       "added_at": "2023-02-13 03:49:30",
@@ -1651,6 +1655,26 @@
     {
       "added_at": "2023-02-13 03:49:30",
       "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 167903,
+      "name": "Paradise (feat. Dermot Kennedy)",
+      "url": "https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr"
+    },
+    {
+      "added_at": "2023-02-13 03:49:30",
+      "album": {
         "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
         "url": "https://open.spotify.com/album/6kBuGNoOGE7uiPhN82dcJ1"
       },
@@ -1671,26 +1695,6 @@
       "duration_ms": 183725,
       "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
       "url": "https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP"
-    },
-    {
-      "added_at": "2023-02-13 03:49:30",
-      "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 167903,
-      "name": "Paradise (feat. Dermot Kennedy)",
-      "url": "https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr"
     },
     {
       "added_at": "2023-02-13 03:49:30",
@@ -1779,22 +1783,18 @@
     {
       "added_at": "2023-02-13 03:49:30",
       "album": {
-        "name": "My Everything (Deluxe)",
-        "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
+        "name": "Sweetener",
+        "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
       },
       "artists": [
         {
           "name": "Ariana Grande",
           "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
         }
       ],
-      "duration_ms": 214840,
-      "name": "Break Free",
-      "url": "https://open.spotify.com/track/12KUFSHFgT0XCoiSlvdQi4"
+      "duration_ms": 205920,
+      "name": "no tears left to cry",
+      "url": "https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo"
     },
     {
       "added_at": "2023-02-13 03:49:30",
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2023-02-13 03:49:30",
       "album": {
-        "name": "Country Stuff The Album",
-        "url": "https://open.spotify.com/album/4sShdTo9jO2RGLgDkZBgN8"
-      },
-      "artists": [
-        {
-          "name": "Walker Hayes",
-          "url": "https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf"
-        }
-      ],
-      "duration_ms": 161853,
-      "name": "Fancy Like",
-      "url": "https://open.spotify.com/track/58UKC45GPNTflCN6nwCUeF"
-    },
-    {
-      "added_at": "2023-02-13 03:49:30",
-      "album": {
         "name": "Teenage Dream",
         "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
       },
@@ -2155,6 +2139,22 @@
       "duration_ms": 230733,
       "name": "Last Friday Night (T.G.I.F.)",
       "url": "https://open.spotify.com/track/3avYqdwHKEq8beXbeWCKqJ"
+    },
+    {
+      "added_at": "2023-02-13 03:49:30",
+      "album": {
+        "name": "Country Stuff The Album",
+        "url": "https://open.spotify.com/album/4sShdTo9jO2RGLgDkZBgN8"
+      },
+      "artists": [
+        {
+          "name": "Walker Hayes",
+          "url": "https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf"
+        }
+      ],
+      "duration_ms": 161853,
+      "name": "Fancy Like",
+      "url": "https://open.spotify.com/track/58UKC45GPNTflCN6nwCUeF"
     },
     {
       "added_at": "2023-02-13 03:49:30",
@@ -2211,22 +2211,6 @@
     {
       "added_at": "2023-02-13 03:49:30",
       "album": {
-        "name": "Cuz I Love You",
-        "url": "https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 195144,
-      "name": "Juice",
-      "url": "https://open.spotify.com/track/0k664IuFwVP557Gnx7RhIl"
-    },
-    {
-      "added_at": "2023-02-13 03:49:30",
-      "album": {
         "name": "Vibras",
         "url": "https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT"
       },
@@ -2243,6 +2227,22 @@
       "duration_ms": 185040,
       "name": "Mi Gente",
       "url": "https://open.spotify.com/track/7COfe3P7KgfwDwIRB8LIDw"
+    },
+    {
+      "added_at": "2023-02-13 03:49:30",
+      "album": {
+        "name": "Cuz I Love You",
+        "url": "https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 195144,
+      "name": "Juice",
+      "url": "https://open.spotify.com/track/0k664IuFwVP557Gnx7RhIl"
     },
     {
       "added_at": "2023-02-13 03:49:30",
@@ -2351,22 +2351,6 @@
     {
       "added_at": "2023-02-13 03:49:30",
       "album": {
-        "name": "Goosebumps",
-        "url": "https://open.spotify.com/album/49HjM8mnjS9PgYjSC03tkS"
-      },
-      "artists": [
-        {
-          "name": "HVME",
-          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
-        }
-      ],
-      "duration_ms": 163208,
-      "name": "Goosebumps",
-      "url": "https://open.spotify.com/track/20McUFi8KCIVdNDLrkTDuZ"
-    },
-    {
-      "added_at": "2023-02-13 03:49:30",
-      "album": {
         "name": "Queen Of The Clouds",
         "url": "https://open.spotify.com/album/47C7w4o1resDhr7jvYEpxE"
       },
@@ -2379,6 +2363,22 @@
       "duration_ms": 209160,
       "name": "Habits (Stay High)",
       "url": "https://open.spotify.com/track/14OxJlLdcHNpgsm4DRwDOB"
+    },
+    {
+      "added_at": "2023-02-13 03:49:30",
+      "album": {
+        "name": "Goosebumps",
+        "url": "https://open.spotify.com/album/49HjM8mnjS9PgYjSC03tkS"
+      },
+      "artists": [
+        {
+          "name": "HVME",
+          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
+        }
+      ],
+      "duration_ms": 163208,
+      "name": "Goosebumps",
+      "url": "https://open.spotify.com/track/20McUFi8KCIVdNDLrkTDuZ"
     },
     {
       "added_at": "2023-02-13 03:49:30",
@@ -2607,6 +2607,26 @@
     {
       "added_at": "2023-02-13 03:49:30",
       "album": {
+        "name": "Nothing but the Beat 2.0",
+        "url": "https://open.spotify.com/album/5aprcHwM1KJhaY9Kbxkfkn"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 245040,
+      "name": "Titanium (feat. Sia)",
+      "url": "https://open.spotify.com/track/0lHAMNU8RGiIObScrsRgmP"
+    },
+    {
+      "added_at": "2023-02-13 03:49:30",
+      "album": {
         "name": "VIDA",
         "url": "https://open.spotify.com/album/5C0YLr4OoRGFDaqdMQmkeH"
       },
@@ -2627,26 +2647,6 @@
       "duration_ms": 230413,
       "name": "Despacito - Remix",
       "url": "https://open.spotify.com/track/1vnnXMrBeEWiRg3YCMCjQq"
-    },
-    {
-      "added_at": "2023-02-13 03:49:30",
-      "album": {
-        "name": "Nothing but the Beat 2.0",
-        "url": "https://open.spotify.com/album/5aprcHwM1KJhaY9Kbxkfkn"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 245040,
-      "name": "Titanium (feat. Sia)",
-      "url": "https://open.spotify.com/track/0lHAMNU8RGiIObScrsRgmP"
     },
     {
       "added_at": "2023-02-13 03:49:30",

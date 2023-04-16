@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIEXqkZKKXl.md) - [plain]
 
 > Background scores to help you sail through the day
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,430 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,452 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIEXqkZKKXl.md) - [plain]
 | 12 | [Destroyed In Love \[Lounge Mix\] \(Instrumental\)](https://open.spotify.com/track/40S0GyHvtdogjOhiyP6i1o) | [Jatin\-Lalit](https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ), [Prasoon Joshi](https://open.spotify.com/artist/0e7Xsukwik0zDaqCcSvJTg) | [Fanaa](https://open.spotify.com/album/2L3NV5Fxjrj6mi59Gs5tUx) | 4:50 |
 | 13 | [Dor Theme](https://open.spotify.com/track/0pgw4O5h8wKOVplM54YMCx) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq) | [Dor \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7kiwHm9mwEnOjka8GrN9hS) | 1:49 |
 | 14 | [Tum Se Hi \(Instrumental\)](https://open.spotify.com/track/6r7QuBSfe9Ooz2VcWAH9jw) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Jab We Met](https://open.spotify.com/album/4OYdTHNgjhXzgVjbqsb0tO) | 4:54 |
-| 15 | [Veer'S Story – Saamiya'S Theme \(Instrumental\)](https://open.spotify.com/track/0cOi8CPOAhUgw1asVhQVdW) | [Madan Mohan](https://open.spotify.com/artist/5Uvn1P3OFu268QovsUAnDu), [Javed Akhtar](https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014) | [The Love Legend Themes: Veer\-Zaara Themes & Instrumental Scores](https://open.spotify.com/album/7cufmUMLy4bGanr9fc6Jnl) | 3:11 |
-| 16 | [Akash's Love Theme](https://open.spotify.com/track/1glyMug7gR6ahQ8evXYqcy) | [Mike Harvey](https://open.spotify.com/artist/4SeAXyEmckKjoQoweI9fiT) | [Dil Chahta Hai](https://open.spotify.com/album/3Hks2UVvtQT8Q9VHRAJUgI) | 2:10 |
+| 15 | [Akash's Love Theme](https://open.spotify.com/track/1glyMug7gR6ahQ8evXYqcy) | [Mike Harvey](https://open.spotify.com/artist/4SeAXyEmckKjoQoweI9fiT) | [Dil Chahta Hai](https://open.spotify.com/album/3Hks2UVvtQT8Q9VHRAJUgI) | 2:10 |
+| 16 | [Veer'S Story – Saamiya'S Theme \(Instrumental\)](https://open.spotify.com/track/0cOi8CPOAhUgw1asVhQVdW) | [Madan Mohan](https://open.spotify.com/artist/5Uvn1P3OFu268QovsUAnDu), [Javed Akhtar](https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014) | [The Love Legend Themes: Veer\-Zaara Themes & Instrumental Scores](https://open.spotify.com/album/7cufmUMLy4bGanr9fc6Jnl) | 3:11 |
 | 17 | [Separation \- Instrumental](https://open.spotify.com/track/3GyffYdNhFgjmywjXt6spW) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ) | [Lakshya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2U02MTp5MJnqV54xsJOVIe) | 2:29 |
 | 18 | [Tango For Taj](https://open.spotify.com/track/3mLdsGVuIG0jJAn8dQFvqU) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Rockstar](https://open.spotify.com/album/3RZxrS2dDZlbsYtMRM89v8) | 2:58 |
 | 19 | [Title Music](https://open.spotify.com/track/0JssnFzBVPo5Wk9k9UT808) | [Ismail Darbar](https://open.spotify.com/artist/3r4HOyyBpGvNIyajw3mcER) | [Devdas \- An Adaptation Of Sarat Chandra Chattopadhyay's "Devdas"](https://open.spotify.com/album/7DMHBOZasKAboJFNNV7k4m) | 1:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIEXqkZKKXl.md) - [plain]
 | 49 | [Rockford Theme \- Instrumental](https://open.spotify.com/track/6rZRfqE5yPnOMqhqgNPxaM) | [Ashirvad](https://open.spotify.com/artist/4BXd7j6uYCeZFgi3B5v3K7), [Sangeeth Luke](https://open.spotify.com/artist/3MJZzdlZhRijyUHSMnaP5o) | [Rockford \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LUE9RNRU8IpGGYbpjtJpC) | 3:35 |
 | 50 | [Hanuman Theme](https://open.spotify.com/track/6J4UQsBAj04eKLRdR480bZ) | [Swapnil Bandodkar](https://open.spotify.com/artist/5yHnIri2Bj5Ysuaki6VOVy) | [Hanuman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3YJ4ybOBMtxPyhdy8Q9al1) | 3:03 |
 
-Snapshot ID: `MTY3NzQ3MDEzOSwwMDAwMDAwMDljY2UzYWMzMTA5OTAzODI4ZDZjM2E0NDk2ZDViOTIw`
+Snapshot ID: `MTY3NzQ3MDEzOSwwMDAwMDAwMDA4OTQ4NGQxZGIxZTU2MjU4NzdhYTAxYjM2MWY4ZjMx`

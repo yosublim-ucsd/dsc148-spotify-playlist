@@ -4,7 +4,7 @@
 
 > Feel good songs yang bikin kamu happy
 
-86 songs - 4 hr 57 min
+87 songs - 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Gemintang Hatiku](https://open.spotify.com/track/2Q44ftk6lRes25tvoXlAqp) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Tiara Andini](https://open.spotify.com/album/0jxUY7K5FdwJNl3SmnOZOl) | 3:55 | 2023-03-30 |  |
 | [golden hour](https://open.spotify.com/track/4yNk9iz9WVJikRFle3XEvn) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what falling in love feels like \(554Hz\)](https://open.spotify.com/album/2uiQo0DIcriQKVm5ivXuDO) | 3:29 | 2022-12-13 |  |
 | [Good Days](https://open.spotify.com/track/4PMqSO5qyjpvzhlLI5GnID) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 4:38 | 2022-12-13 |  |
-| [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 | 2022-12-13 |  |
+| [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 | 2022-12-13 | 2023-04-16 |
+| [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 | 2023-03-30 |  |
 | [Heaven](https://open.spotify.com/track/0vtnYQ2A6o2fuEWim7DRYy) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk), [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Heaven](https://open.spotify.com/album/3ZlxavMQWzOa0dfcRrCUpi) | 3:44 | 2023-01-09 |  |
 | [High School in Jakarta](https://open.spotify.com/track/0r6oCPoDuCOXvEPOPV6UXN) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [High School in Jakarta](https://open.spotify.com/album/3QtwI1FUvH2kCD9Y5HaG9y) | 3:39 | 2022-12-13 |  |
 | [House of Memories \- Sped Up Version](https://open.spotify.com/track/7AduRd5A2eoZSy3Lwx9JNb) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV) | [House Of Memories](https://open.spotify.com/album/3R6ZYq94MaeYKEMtPsj2hj) | 2:44 | 2022-12-13 |  |

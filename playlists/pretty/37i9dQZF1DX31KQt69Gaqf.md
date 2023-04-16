@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31KQt69Gaqf.md) - [plain]
 
 > Let us take care of your workday soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,919 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,917 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31KQt69Gaqf.md) - [plain]
 | 15 | [madhouse](https://open.spotify.com/track/36fC4xtAucJ7KH6sdSDDo7) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [madhouse](https://open.spotify.com/album/3C7TLQLW8cXiDoogT7Hrlj) | 3:31 |
 | 16 | [When You Were Mine](https://open.spotify.com/track/05NwKm5My3fS780CUUDJFy) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [When You Were Mine](https://open.spotify.com/album/7nI3v7qE8bJ3MP8K0vRDlk) | 3:23 |
 | 17 | [Bittersweet \- Radio Edit](https://open.spotify.com/track/7CNtRYYyhNJKXFr2bQ5rv2) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Bittersweet \(Radio Edit\)](https://open.spotify.com/album/6zqOLPAQagrbNJCd10MiST) | 3:56 |
-| 18 | [Tell Me](https://open.spotify.com/track/2jrAN4OhqpaeWrE8Krt2to) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M) | [Collage 1](https://open.spotify.com/album/6OdqJNtnslCLIeUZt5jogs) | 3:20 |
-| 19 | [U&ME](https://open.spotify.com/track/3i4ColsuZEvjeLz63m0jPt) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [The Dream](https://open.spotify.com/album/5ogYKSRRlVAgMzv09HFeIn) | 3:18 |
+| 18 | [U&ME](https://open.spotify.com/track/3i4ColsuZEvjeLz63m0jPt) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [The Dream](https://open.spotify.com/album/5ogYKSRRlVAgMzv09HFeIn) | 3:18 |
+| 19 | [Tell Me](https://open.spotify.com/track/2jrAN4OhqpaeWrE8Krt2to) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M) | [Collage 1](https://open.spotify.com/album/6OdqJNtnslCLIeUZt5jogs) | 3:20 |
 | 20 | [Chinatown \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/7IY2JF7AlVN5uvIUBVnSJd) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Chinatown \(feat\. Bruce Springsteen\)](https://open.spotify.com/album/10fSu9RLAJlasIup4ylHPM) | 4:07 |
 | 21 | [Eyes On You](https://open.spotify.com/track/5yGD15DsGXfiNDg9d7fXmY) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Eyes On You](https://open.spotify.com/album/3NtZnt7iqak8rIW5o1BYkd) | 2:16 |
 | 22 | [I Wonder Why](https://open.spotify.com/track/5Jwh9paNfKbgeVxVv5cCQp) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [I Wonder Why](https://open.spotify.com/album/1qDCmcKhDPEVHfLYgZUIBD) | 3:48 |
@@ -63,13 +63,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31KQt69Gaqf.md) - [plain]
 | 53 | [Good Woman](https://open.spotify.com/track/6hZ3wAZGh5yQcZMxDXnTL3) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/6b3CgvhvJFT6asCeHiOF3M) | 3:17 |
 | 54 | [Rockstar](https://open.spotify.com/track/6PwwPfIpqnQOVJUCkYUJcH) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Butterfly Blue](https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z) | 3:28 |
 | 55 | [Southwark](https://open.spotify.com/track/1FSPgi8zlBB5Xh4qxrnvws) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Truth or Consequences](https://open.spotify.com/album/6pj8dUGAFuv0epn0R3Lns4) | 3:22 |
-| 56 | [It Might Take a Woman](https://open.spotify.com/track/6iHhkXBS6HIkzaQ0IKAdIS) | [Girlhood](https://open.spotify.com/artist/1zmozsuAfLwrawutG7x9VA) | [Girlhood](https://open.spotify.com/album/36pD53bU7Igw82ZHD4Herb) | 3:10 |
-| 57 | [My House](https://open.spotify.com/track/5kuSneVOTmvanncpK3RZcl) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [My House](https://open.spotify.com/album/7sSEGFxjJTaT1amaNYOmWD) | 4:16 |
+| 56 | [My House](https://open.spotify.com/track/5kuSneVOTmvanncpK3RZcl) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [My House](https://open.spotify.com/album/7sSEGFxjJTaT1amaNYOmWD) | 4:16 |
+| 57 | [It Might Take a Woman](https://open.spotify.com/track/6iHhkXBS6HIkzaQ0IKAdIS) | [Girlhood](https://open.spotify.com/artist/1zmozsuAfLwrawutG7x9VA) | [Girlhood](https://open.spotify.com/album/36pD53bU7Igw82ZHD4Herb) | 3:10 |
 | 58 | [Oh GOD](https://open.spotify.com/track/6b7P9ZrNbF7WNczuIJqJL1) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Freckle Season](https://open.spotify.com/album/4emwoxUmeMCYHSsYosCdOW) | 2:46 |
 | 59 | [bloodstream](https://open.spotify.com/track/3VJ8JnA1femj0x5KCcfBpT) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [color theory](https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez) | 5:37 |
 | 60 | [cold water](https://open.spotify.com/track/3keIh8QdhxlHQ0hsyDHrzA) | [Uly](https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg) | [cold water](https://open.spotify.com/album/0ygmFGHb9QLdOqsAfs6Nhe) | 3:53 |
-| 61 | [Stronger](https://open.spotify.com/track/5xYhT6DfdLNOk9VYzkv0z9) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Stronger](https://open.spotify.com/album/4p6WCaxi2nrkO5i06iKWm5) | 3:18 |
-| 62 | [Running Red Lights \(feat\. Rivers Cuomo & Pink Siifu\)](https://open.spotify.com/track/0UdYkM8rQeOV9B8n65fsfN) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [Rivers Cuomo](https://open.spotify.com/artist/4LAz9VRX8Nat9kvIzgkg2v), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [Running Red Lights \(feat\. Rivers Cuomo & Pink Siifu\)](https://open.spotify.com/album/0H6aN1da6Hv7nnZK5RrQVm) | 4:39 |
+| 61 | [Running Red Lights \(feat\. Rivers Cuomo & Pink Siifu\)](https://open.spotify.com/track/0UdYkM8rQeOV9B8n65fsfN) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [Rivers Cuomo](https://open.spotify.com/artist/4LAz9VRX8Nat9kvIzgkg2v), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [Running Red Lights \(feat\. Rivers Cuomo & Pink Siifu\)](https://open.spotify.com/album/0H6aN1da6Hv7nnZK5RrQVm) | 4:39 |
+| 62 | [Stronger](https://open.spotify.com/track/5xYhT6DfdLNOk9VYzkv0z9) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Stronger](https://open.spotify.com/album/4p6WCaxi2nrkO5i06iKWm5) | 3:18 |
 | 63 | [Fading](https://open.spotify.com/track/77GXioLcswmFLd6wAqN2Eo) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Magical Thinking](https://open.spotify.com/album/4RY8E9iJR1Ec6d3FXqqodJ) | 4:43 |
 | 64 | [Icarus](https://open.spotify.com/track/78OhueBD5iAZuW2gPhZ5EF) | [Gengahr](https://open.spotify.com/artist/2ATweaQe83QUQVjM8LMh7J) | [Sanctuary](https://open.spotify.com/album/57DpPfLzyxA5iP8zjLQoY4) | 3:54 |
 | 65 | [Baby It's You](https://open.spotify.com/track/3Yoy8R29IewKS8sO80L4XB) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Baby It's You](https://open.spotify.com/album/1X25p3GpzvOSH8oupRUh0t) | 4:02 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31KQt69Gaqf.md) - [plain]
 | 72 | [Taurus](https://open.spotify.com/track/2qAZTSoZL0tNEw2RX0MpMw) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Taurus](https://open.spotify.com/album/0IaxrgQd3Q2z66CE02UyC0) | 3:06 |
 | 73 | [Like Sand](https://open.spotify.com/track/3zRd3xkdmZZSzBHgGo4mAl) | [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM), [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu) | [Like Sand](https://open.spotify.com/album/25DRkwsnYG06w8ExeR7xx6) | 4:31 |
 | 74 | [Astronaut](https://open.spotify.com/track/7phnXD1tItFiVKsOK2icnH) | [Uma](https://open.spotify.com/artist/0RZewmdiKrFtejSJ3jfmGs) | [Bel•li](https://open.spotify.com/album/7toAAFcowWW8pH2KY96EBO) | 2:52 |
-| 75 | [Gladstone](https://open.spotify.com/track/7y8stO3CzbhstlHg6cYBs4) | [Blair Lee](https://open.spotify.com/artist/1pYkoc6a3QKymoCVfAWuNc) | [Gladstone](https://open.spotify.com/album/5XWJvBc60xAv1WSn3EIPPw) | 2:54 |
-| 76 | [California Screaming](https://open.spotify.com/track/7aoQKm7L9RGg5VxYitUkEG) | [Liz Lawrence](https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC) | [California Screaming](https://open.spotify.com/album/61Xno5oEO3TchKwEpmYyvw) | 3:17 |
+| 75 | [California Screaming](https://open.spotify.com/track/7aoQKm7L9RGg5VxYitUkEG) | [Liz Lawrence](https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC) | [California Screaming](https://open.spotify.com/album/61Xno5oEO3TchKwEpmYyvw) | 3:17 |
+| 76 | [Gladstone](https://open.spotify.com/track/7y8stO3CzbhstlHg6cYBs4) | [Blair Lee](https://open.spotify.com/artist/1pYkoc6a3QKymoCVfAWuNc) | [Gladstone](https://open.spotify.com/album/5XWJvBc60xAv1WSn3EIPPw) | 2:54 |
 | 77 | [Caught Up & Confused](https://open.spotify.com/track/3qS0ySnwtPC2JvTnr4x9KO) | [MarthaGunn](https://open.spotify.com/artist/4Rt63oQJifMiMbQEcmeqK8) | [Something Good Will Happen](https://open.spotify.com/album/73NXw8O4hc5Uqbx1D4cYNK) | 3:24 |
 | 78 | [Pure Shores](https://open.spotify.com/track/4BfC6YSExs6vhuDrJca9Lz) | [Eliza Shaddad](https://open.spotify.com/artist/3B63aIfra43Vs4F33ecM9E) | [Pure Shores](https://open.spotify.com/album/1MWEYBI6r6QinmApx4QkO8) | 3:52 |
 | 79 | [Womxn](https://open.spotify.com/track/3uZfLLYmvNUTWuZieOgJKr) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Through Water](https://open.spotify.com/album/4U7KMGWUL0FQtYCVxVy1Za) | 3:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31KQt69Gaqf.md) - [plain]
 | 99 | [So Simpatico \- Edit](https://open.spotify.com/track/4GzHrLySoKpHdsLwZDwioT) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [So Simpatico](https://open.spotify.com/album/3T6jlI15kmoraxuM5AvGkR) | 3:05 |
 | 100 | [Treat You Right](https://open.spotify.com/track/7ItOfW0Phlgis72tCdIcsw) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [Treat You Right](https://open.spotify.com/album/3F91sv7XPeK9JYQdpXktd2) | 4:21 |
 
-Snapshot ID: `MTY3NDY5MzEyMCwwMDAwMDAwMGVkNDczNjM4YTQzMDZmOWNlMWZlZDg0NzVlN2M1NTky`
+Snapshot ID: `MTY3NDY5MzEyMCwwMDAwMDAwMGY1MDBiMjkzNzU1YmFiNWVlNDE4NGMyMjJlYzc5YjM5`

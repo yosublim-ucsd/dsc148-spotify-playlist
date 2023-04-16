@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! LAGOS y Reik en portada.",
-  "num_followers": 64837,
+  "num_followers": 64917,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg4MjcyNywwMDAwMDAwMDlmNzg2ZWYxZDY3Y2VkMzA1N2U3ZTNlYjg3NmZkYTdh",
+  "snapshot_id": "MTY4MDg4MjcyNywwMDAwMDAwMGFhMWMxMmRiYWI0YmI2ZDVlY2QwMzVmNmMwMjFlMjNi",
   "tracks": [
     {
       "added_at": "2023-04-07 15:52:07",
@@ -196,8 +196,8 @@
       },
       "artists": [
         {
-          "name": "ADRI",
-          "url": "https://open.spotify.com/artist/4dpXYalt8qXd3R4yLPQE7E"
+          "name": "Adri Torron",
+          "url": "https://open.spotify.com/artist/3T0oriPM85tk87rTIIX6pL"
         }
       ],
       "duration_ms": 136796,
@@ -951,30 +951,18 @@
     {
       "added_at": "2023-04-07 15:52:07",
       "album": {
-        "name": "Marea (feat. legallyrxx)",
-        "url": "https://open.spotify.com/album/11ZztgTrgbcz4TA64WxQ6R"
+        "name": "Morena Mujer",
+        "url": "https://open.spotify.com/album/52Enkie6zGmASAECzepRp1"
       },
       "artists": [
         {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        },
-        {
-          "name": "Francely Abreuu",
-          "url": "https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh"
-        },
-        {
-          "name": "LuisOn",
-          "url": "https://open.spotify.com/artist/2PpwJIa82Jd0CVT1IKgTGs"
-        },
-        {
-          "name": "legallyrxx",
-          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
+          "name": "Urb\u00f8i",
+          "url": "https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy"
         }
       ],
-      "duration_ms": 166036,
-      "name": "Marea (feat. legallyrxx)",
-      "url": "https://open.spotify.com/track/63ZPI191Myh2F8GpzW14q1"
+      "duration_ms": 174666,
+      "name": "Morena Mujer",
+      "url": "https://open.spotify.com/track/3nqD2zEi8WQlI2gUzsGDtm"
     }
   ],
   "unique_name": "Oye Pop",

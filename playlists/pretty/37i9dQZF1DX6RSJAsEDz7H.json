@@ -1,12 +1,12 @@
 {
   "description": "Celebrate the epic GTA series with memorable moments and hidden gems from the soundtrack.",
-  "num_followers": 212158,
+  "num_followers": 212157,
   "original_name": "Grand Theft Auto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzk4NjkyMSwwMDAwMDAwMDlmNjhkMDRmZjA2ZmZmNjRhYWY0MTQ1NzhkNTI2ZGNm",
+  "snapshot_id": "MTY0Mzk4NjkyMSwwMDAwMDAwMDE4YTg4ZWQ1ZDUzOGIwMWFlYTNiODhlZWUyZTIyMDI0",
   "tracks": [
     {
       "added_at": "2022-02-04 14:59:05",
@@ -403,18 +403,22 @@
     {
       "added_at": "2021-12-18 00:28:47",
       "album": {
-        "name": "Vacilar Contigo",
-        "url": "https://open.spotify.com/album/2027oLjrFGqEQtffhbcCbA"
+        "name": "\u00d1ejo & Dalmata (Special Edition)",
+        "url": "https://open.spotify.com/album/3MOiuwrJVffz1A2MWSpuHo"
       },
       "artists": [
         {
-          "name": "Goya Alfa",
-          "url": "https://open.spotify.com/artist/4nggYuFtlufqW2xXN8bz3Y"
+          "name": "\u00d1ejo",
+          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
+        },
+        {
+          "name": "Dalmata",
+          "url": "https://open.spotify.com/artist/3jGlU8UMMo44I2xeLQ6FD3"
         }
       ],
-      "duration_ms": 195906,
+      "duration_ms": 195216,
       "name": "Vacilar Contigo",
-      "url": "https://open.spotify.com/track/2BWvRZzMVzjvcLnBbxwJcV"
+      "url": "https://open.spotify.com/track/5ktUa06LisFFjJZG2BmH2y"
     },
     {
       "added_at": "2021-12-18 00:28:47",

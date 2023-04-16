@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ow6ru.md) - [plain]
 
 > This is All Time Low\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,787 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,813 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ow6ru.md) - [plain]
 | 20 | [Ghost Story \(with All Time Low\)](https://open.spotify.com/track/2zgYAaDIic9iTLujB3FARq) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [HELLRAISERS, Part 2](https://open.spotify.com/album/0diNd1xPp5eiaugv9HRpYb) | 2:47 |
 | 21 | [Umbrella](https://open.spotify.com/track/6ZUQhRkFJqiPsOucrXZwS6) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Umbrella](https://open.spotify.com/album/1CFjrFSA35xbgP134I8Xtq) | 3:49 |
 | 22 | [Once In A Lifetime](https://open.spotify.com/track/2Qjkvp4GLlL60lFXtEte0X) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Once In A Lifetime](https://open.spotify.com/album/4IV3UUGKbd9bZeRZlZDNJd) | 3:09 |
-| 23 | [I'd Be Fine \(If I Never Saw You Again\)](https://open.spotify.com/track/4XHpjfFokgNyARkjUS79G9) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Tell Me I'm Alive](https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh) | 2:59 |
+| 23 | [Tell Me I’m Alive](https://open.spotify.com/track/1H4BiYE8G4XuaKpVxvtJ4n) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Tell Me I'm Alive](https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh) | 2:35 |
 | 24 | [Missing You](https://open.spotify.com/track/0LSY3NePenK0VG7nRUTVk8) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Future Hearts](https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I) | 4:04 |
 | 25 | [Lost In Stereo](https://open.spotify.com/track/2WO1QXoR1o0R1rYKAxF7Ya) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Nothing Personal \(Deluxe Version\)](https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I) | 3:47 |
 | 26 | [Blinding Lights](https://open.spotify.com/track/2fx0rkeRamaGtmtA5QVkuy) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Blinding Lights](https://open.spotify.com/album/3ORJYsMxoNvahUL8YWwKMm) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ow6ru.md) - [plain]
 | 49 | [The Reckless And The Brave](https://open.spotify.com/track/2oiPju78ZfnBRePyM95iq6) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Don't Panic](https://open.spotify.com/album/78ZshSpqcIXyrYBJGgiPK0) | 3:19 |
 | 50 | [Life of the Party](https://open.spotify.com/track/4pcyWJiAvOwdVxn7xjhR0N) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Last Young Renegade](https://open.spotify.com/album/0gpNGTVNivS2wB32tzV3OH) | 3:25 |
 
-Snapshot ID: `MjgwMjQ4NTIsMDAwMDAwMDA0YmFlMDFlYWNmZTVjNzdmODUxODkyODk2NmMzNmFiNw==`
+Snapshot ID: `MjgwMjYwMzEsMDAwMDAwMDAzNjYzNTk0MWJhM2Q2MDkyYjFhZThhN2E2OWZhMDA3MA==`

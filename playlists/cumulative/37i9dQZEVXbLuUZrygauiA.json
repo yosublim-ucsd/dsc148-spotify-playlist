@@ -271,6 +271,28 @@
     },
     {
       "album": {
+        "name": "6 A.M.",
+        "url": "https://open.spotify.com/album/0smv8Q6YbBf6takvymTyad"
+      },
+      "artists": [
+        {
+          "name": "princesa cereza",
+          "url": "https://open.spotify.com/artist/607kbpXirULyTo1jdRtooo"
+        },
+        {
+          "name": "Kontax",
+          "url": "https://open.spotify.com/artist/3Gm9VUAvppr5ROz0u73tMi"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183716,
+      "name": "6 A.M.",
+      "url": "https://open.spotify.com/track/5axSTOstQDAbVdq4fUTJdP"
+    },
+    {
+      "album": {
         "name": "7 L\u00e1grimas (Remix)",
         "url": "https://open.spotify.com/album/3SPDYewQ7iwqYuLVoDOTQl"
       },
@@ -4180,7 +4202,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 306655,
       "name": "DEATH",
       "url": "https://open.spotify.com/track/4wFvGKW4jxTgIHLFoOtRMs"
@@ -9767,6 +9789,28 @@
     },
     {
       "album": {
+        "name": "M.L.P",
+        "url": "https://open.spotify.com/album/2Y6PFvErT2EPBIVo7RMXK1"
+      },
+      "artists": [
+        {
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+        },
+        {
+          "name": "Jaziel Avilez",
+          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211961,
+      "name": "M.L.P",
+      "url": "https://open.spotify.com/track/0oYk83uZu4S5ROlM8VZMGl"
+    },
+    {
+      "album": {
         "name": "K23",
         "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
       },
@@ -14592,7 +14636,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 206946,
       "name": "REMIX EXCLUSIVO",
       "url": "https://open.spotify.com/track/3eqCJfgJJs8iKx49KO12s3"
@@ -14704,7 +14748,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 125508,
       "name": "RITMADINHA DAN\u00c7ANTE",
       "url": "https://open.spotify.com/track/4sVrOA0sytAzv102tnQmr7"
@@ -19540,6 +19584,32 @@
       "duration_ms": 197668,
       "name": "yes to heaven",
       "url": "https://open.spotify.com/track/1Vswy6mJf9gAYhqqxdMCr7"
+    },
+    {
+      "album": {
+        "name": "Yes To Heaven",
+        "url": "https://open.spotify.com/album/146Of7Xf1cBZAuoDUhT1iK"
+      },
+      "artists": [
+        {
+          "name": "jazyxd",
+          "url": "https://open.spotify.com/artist/5aj7D6owUlXgCAour8ulCY"
+        },
+        {
+          "name": "Leopanforte",
+          "url": "https://open.spotify.com/artist/72ptKrXdQG9VlKwtwzwpi7"
+        },
+        {
+          "name": "Bark\u0131nwind",
+          "url": "https://open.spotify.com/artist/3I7vquH2ryQMEJpB5sn5Gk"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197578,
+      "name": "Yes To Heaven",
+      "url": "https://open.spotify.com/track/2LFdU0NCFgh0k5nDeXqIWS"
     },
     {
       "album": {

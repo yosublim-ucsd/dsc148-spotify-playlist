@@ -1,12 +1,12 @@
 {
   "description": "Estas son las indomables del Regional Mexicano. Chiquis en portada.",
-  "num_followers": 85671,
+  "num_followers": 85758,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ1MjAwMCwwMDAwMDAwMGZlNWM0ZDNlY2VjN2EyN2Y4YTk0YzVlMTFmOTJlOTdl",
+  "snapshot_id": "MTY4MTQ1MjAwMCwwMDAwMDAwMDBmNDExODBiODNhMTE5YWM4ZTExNDA5OTA0YzljMmM5",
   "tracks": [
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "No Me Lamentare",
-        "url": "https://open.spotify.com/album/7Bl7KTEP0tDvSLfLbYhn1O"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 135806,
-      "name": "No Me Lamentare",
-      "url": "https://open.spotify.com/track/1Wmxfl6r5CVc8FplFZ8hxM"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "Hazme Tuya",
         "url": "https://open.spotify.com/album/0a48C884SUXHbslHhIwlGI"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 144869,
       "name": "Hazme Tuya",
       "url": "https://open.spotify.com/track/7GbzKGxTsaNmvgnBhcnNP5"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "No Me Lamentare",
+        "url": "https://open.spotify.com/album/7Bl7KTEP0tDvSLfLbYhn1O"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 135806,
+      "name": "No Me Lamentare",
+      "url": "https://open.spotify.com/track/1Wmxfl6r5CVc8FplFZ8hxM"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
+        "name": "Pa' Dentro",
+        "url": "https://open.spotify.com/album/1KuZ2S6sbJF1BE3Uw70ncW"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 152160,
+      "name": "Pa' Dentro - Versi\u00f3n Banda",
+      "url": "https://open.spotify.com/track/10Uc1hSwdM9RG9zMbIeJSz"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
         "name": "Ahora Va La M\u00eda",
         "url": "https://open.spotify.com/album/6oqlFEjgYbCrsMBPiH0NID"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 211493,
       "name": "Y Sigues Siendo T\u00fa",
       "url": "https://open.spotify.com/track/0aoR2KYk8JJDDaKwSeP4Y8"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Pa' Dentro",
-        "url": "https://open.spotify.com/album/1KuZ2S6sbJF1BE3Uw70ncW"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 152160,
-      "name": "Pa' Dentro - Versi\u00f3n Banda",
-      "url": "https://open.spotify.com/track/10Uc1hSwdM9RG9zMbIeJSz"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Lo Que A Usted Le Falta",
-        "url": "https://open.spotify.com/album/7k7f0reFwLXPWXjAgIYnts"
+        "name": "Volver\u00e9 A Amar",
+        "url": "https://open.spotify.com/album/52la7FZHARCdV9pOo09E2o"
       },
       "artists": [
         {
-          "name": "Grace Guill\u00e9n",
-          "url": "https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD"
+          "name": "Valentina Elizalde",
+          "url": "https://open.spotify.com/artist/3mrPm4M2JDsWBSrB0deiT1"
         }
       ],
-      "duration_ms": 168066,
-      "name": "Lo Que A Usted Le Falta",
-      "url": "https://open.spotify.com/track/1CxvKku2dDNICvZ3Jg5PyS"
+      "duration_ms": 240680,
+      "name": "Volver\u00e9 A Amar",
+      "url": "https://open.spotify.com/track/15AwwPqHhOSA3LviBHfIAN"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Volver\u00e9 A Amar",
-        "url": "https://open.spotify.com/album/52la7FZHARCdV9pOo09E2o"
+        "name": "Lo Que A Usted Le Falta",
+        "url": "https://open.spotify.com/album/7k7f0reFwLXPWXjAgIYnts"
       },
       "artists": [
         {
-          "name": "Valentina Elizalde",
-          "url": "https://open.spotify.com/artist/3mrPm4M2JDsWBSrB0deiT1"
+          "name": "Grace Guill\u00e9n",
+          "url": "https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD"
         }
       ],
-      "duration_ms": 240680,
-      "name": "Volver\u00e9 A Amar",
-      "url": "https://open.spotify.com/track/15AwwPqHhOSA3LviBHfIAN"
+      "duration_ms": 168066,
+      "name": "Lo Que A Usted Le Falta",
+      "url": "https://open.spotify.com/track/1CxvKku2dDNICvZ3Jg5PyS"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Una Tarde De Abril",
-        "url": "https://open.spotify.com/album/3lESpmcn3r1pR2prmtMrfh"
-      },
-      "artists": [
-        {
-          "name": "Irene del Rosario",
-          "url": "https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN"
-        }
-      ],
-      "duration_ms": 173148,
-      "name": "Una Tarde De Abril",
-      "url": "https://open.spotify.com/track/2WP7Hffpxt4SuvZY0UG6PY"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "Ya Te Olvid\u00e9",
         "url": "https://open.spotify.com/album/5naqdFvqwIyTVEcLdUmPrV"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 220946,
       "name": "Ya Te Olvid\u00e9",
       "url": "https://open.spotify.com/track/6AQmEy0PpEHNb72Pz94sMD"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Una Tarde De Abril",
+        "url": "https://open.spotify.com/album/3lESpmcn3r1pR2prmtMrfh"
+      },
+      "artists": [
+        {
+          "name": "Irene del Rosario",
+          "url": "https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN"
+        }
+      ],
+      "duration_ms": 173148,
+      "name": "Una Tarde De Abril",
+      "url": "https://open.spotify.com/track/2WP7Hffpxt4SuvZY0UG6PY"
     },
     {
       "added_at": "2023-04-14 06:00:00",

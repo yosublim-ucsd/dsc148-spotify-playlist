@@ -4,7 +4,7 @@
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: KANA\-BOON
 
-117 songs - 6 hr 38 min
+118 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [NaNaNa Tokyo](https://open.spotify.com/track/1wj4yYURESSkb67NIxxm8m) | [Repezen Foxx](https://open.spotify.com/artist/7hflj6zifcC4waqD6JIL7U), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [NaNaNa Tokyo](https://open.spotify.com/album/5ZtzL00EDIBLZQho1vKQ49) | 3:15 | 2023-04-06 |  |
 | [Ninji\-n Loves you yeah!](https://open.spotify.com/track/4BRBpWDkJM7QlVYIyedm0s) | [Ranka Lee = Megumi Nakajima](https://open.spotify.com/artist/3JODQ7XeLxOZtG9cGuVPUw) | [MACROSS FRONTIER \~The False Songstress\~ CM Ranka](https://open.spotify.com/album/5g9MR6bwfKq3tUj1PXyUFM) | 1:01 | 2023-02-16 |  |
 | [Oops \(feat\. Charlie Puth\)](https://open.spotify.com/track/7uU7UhUzfZJ5vEMoemdcIW) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Glory Days \(Expanded Edition\)](https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m) | 3:24 | 2023-03-17 |  |
-| [OTONABLUE](https://open.spotify.com/track/2ay8z5vGqKTSpGkmOR9IAo) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [OTONABLUE](https://open.spotify.com/album/7vUVx8e9SrqIZe22KqLd6i) | 3:05 | 2023-01-26 |  |
+| [OTONABLUE](https://open.spotify.com/track/3h1XlHgx0m1dO6nNSO1kSV) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ICHIJIKIKOKU](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) | 3:04 | 2023-04-13 |  |
+| [OTONABLUE](https://open.spotify.com/track/2ay8z5vGqKTSpGkmOR9IAo) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [OTONABLUE](https://open.spotify.com/album/7vUVx8e9SrqIZe22KqLd6i) | 3:05 | 2023-01-26 | 2023-04-16 |
 | [Our Bright Parade](https://open.spotify.com/track/4fuwpHWlsoPUTFXEWhHC6l) | [hololive IDOL PROJECT](https://open.spotify.com/artist/18Zr9CaElvS40S0AtizMWZ) | [Our Bright Parade](https://open.spotify.com/album/7eCf9tUxrNZ3LleQY5ofvX) | 4:29 | 2023-03-17 |  |
 | [Pa Pi Pu Pe POP!](https://open.spotify.com/track/6sAaPOTjwisyye2fyavqKd) | [Appare!](https://open.spotify.com/artist/3avXpwvPXKpP2AoUvd9pEe) | [Appare!Future](https://open.spotify.com/album/0Uy7NcYLJnUp5uJmTMNxj4) | 4:13 | 2023-01-26 |  |
 | [PULL UP](https://open.spotify.com/track/7HVA1EkKQi4zNaYwE17Cvo) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [PULL UP](https://open.spotify.com/album/4bqkpI02r4Qc2BFrJtHOic) | 2:41 | 2023-01-26 | 2023-03-03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 
 > No hay nada como una Rumba Colombiana\. ¡Hasta el amanecer! Foto: La Mambanegra
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,315 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,343 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 | 21 | [Una Hoja en Blanco](https://open.spotify.com/track/3G5OfJVzos5wI0L09oyTOW) | [Omar Geles](https://open.spotify.com/artist/19ufHMEaPSvoM3iIVk8sTR), [Esmeralda](https://open.spotify.com/artist/58yU6MSNwlAbu5NRnLOzFu) | [Nace Del Alma](https://open.spotify.com/album/7CL4FmomsC1pPNHNs1mXjW) | 4:44 |
 | 22 | [Los Caminos De La Vida](https://open.spotify.com/track/3xMLWeaF5GejsfnUq9zzn6) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Sorpresa Caribe](https://open.spotify.com/album/3snupj4n5mx4O77YCAYXUC) | 4:35 |
 | 23 | [En Barranquilla Me Quedo](https://open.spotify.com/track/3WXfQDsASfXrSojk9WB3aR) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [32 Cañonazos](https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn) | 5:12 |
-| 24 | [La Ventanita](https://open.spotify.com/track/30RgZM0hngr1UOy4rs7WYf) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Coleccion de Oro](https://open.spotify.com/album/3fKpYMR0aoC3t8GqdnpL4u) | 4:46 |
-| 25 | [Tarde Lo Conoci](https://open.spotify.com/track/3J8blQzr6m5cPAlrmoHe93) | [Patricia Teherán](https://open.spotify.com/artist/2pctdrQetn7EI0QpCm9RIF) | [Con Aroma de Mujer](https://open.spotify.com/album/09xubrMSDM95JYSUJQk0Ii) | 4:54 |
+| 24 | [Tarde Lo Conoci](https://open.spotify.com/track/3J8blQzr6m5cPAlrmoHe93) | [Patricia Teherán](https://open.spotify.com/artist/2pctdrQetn7EI0QpCm9RIF) | [Con Aroma de Mujer](https://open.spotify.com/album/09xubrMSDM95JYSUJQk0Ii) | 4:54 |
+| 25 | [La Ventanita](https://open.spotify.com/track/30RgZM0hngr1UOy4rs7WYf) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Coleccion de Oro](https://open.spotify.com/album/3fKpYMR0aoC3t8GqdnpL4u) | 4:46 |
 | 26 | [Como Duele El Frio](https://open.spotify.com/track/2QcUxndr7skMMHLElnl4Bo) | [Jose Luis Carrascal](https://open.spotify.com/artist/0HfJ1yICQwR6jvdHST3SSh) | [Corazon Vallenato](https://open.spotify.com/album/0TsndRPa1GLYdvsNEJ2VvZ) | 4:58 |
 | 27 | [Vivo Pensando En Ti \(feat\. Maluma\)](https://open.spotify.com/track/0H7cz1bR7w9PulJL7Na774) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Vivo Pensando En Ti \(feat\. Maluma\)](https://open.spotify.com/album/22GyzVcUc0jsXtnH6TqAyu) | 3:52 |
 | 28 | [Voy a Beber](https://open.spotify.com/track/00MIYoxM5jrqZ9zzU1h4C2) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Voy a Beber](https://open.spotify.com/album/7pbNrorPeJquteY1Xb9z1p) | 3:32 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 | 33 | [Materialista \(feat\. Nicky Jam\)](https://open.spotify.com/track/3jqSBJ8I20iUN0Bw8NA5xQ) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Gente Valiente](https://open.spotify.com/album/5kEnDeBQVa1V1YT485bMyF) | 3:11 |
 | 34 | [Vivo en el limbo](https://open.spotify.com/track/6qvCE9WhoF57af6boMwaOz) | [Kaleth Morales](https://open.spotify.com/artist/1JzCCMAjM3FCr9eM3jp0uH), [Andres Herrera](https://open.spotify.com/artist/2b7FVYTLTkP4YTT0VokeJU) | [La Hora de la Verdad](https://open.spotify.com/album/3Go9Lvj1m9UOzidlfDOFVA) | 6:16 |
 | 35 | [Obsesión](https://open.spotify.com/track/4OhFOoVfaqw3Xuz2vjceDq) | [Peter Manjarrés](https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL), [Emiliano Zuleta](https://open.spotify.com/artist/4j2ttDkyLZNpyM2RS9hCf5), [Sergio Luis Rodríguez](https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw) | [Sólo Clásicos](https://open.spotify.com/album/5bsES1XTrXLgo9HGpFWVK0) | 3:42 |
-| 36 | [Amantes](https://open.spotify.com/track/4HQa0epS8B23YEHqyA2fKr) | [Elder Dayán Díaz](https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K), [Rolando Ochoa](https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ) | [El Disco Que Me Gusta](https://open.spotify.com/album/5ymciF4IdHbVu5yxJlCf1W) | 3:45 |
-| 37 | [10 Razones Para Amarte](https://open.spotify.com/track/4chfldJFfWiuuSx1n3mojQ) | [El Gran Martín Elías](https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz) | [La Historia Continua](https://open.spotify.com/album/7tOgagliNLN0RTLt0t0ODM) | 5:15 |
+| 36 | [10 Razones Para Amarte](https://open.spotify.com/track/4chfldJFfWiuuSx1n3mojQ) | [El Gran Martín Elías](https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz) | [La Historia Continua](https://open.spotify.com/album/7tOgagliNLN0RTLt0t0ODM) | 5:15 |
+| 37 | [Amantes](https://open.spotify.com/track/4HQa0epS8B23YEHqyA2fKr) | [Elder Dayán Díaz](https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K), [Rolando Ochoa](https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ) | [El Disco Que Me Gusta](https://open.spotify.com/album/5ymciF4IdHbVu5yxJlCf1W) | 3:45 |
 | 38 | [Cali Ají](https://open.spotify.com/track/29iVbAneOn1ZGW4zzrBlUb) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 4:36 |
 | 39 | [La Oficial \- Remix](https://open.spotify.com/track/5JpUhPdInQTkknuw1wYoA1) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [La Oficial \(Remix\)](https://open.spotify.com/album/2CytLArktzEP6k1ran6G7j) | 3:39 |
 | 40 | [La Noche](https://open.spotify.com/track/2uyCcoHiRGttV0uXaNXGB1) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Milenario, Vol\. 3](https://open.spotify.com/album/3OKmxN48BfZ9AaQwQXVlW2) | 4:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 | 49 | [Tu Sonrisa](https://open.spotify.com/track/2pPgF067E3mtYhA5paJfcI) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente...Los Exitos](https://open.spotify.com/album/4p7YUpyEWoFheYconnjTqh) | 4:33 |
 | 50 | [Abrete](https://open.spotify.com/track/3dET1wKtvMHbuONHeclcH9) | [El Gran Martín Elías](https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz) | [El Terremoto Musical](https://open.spotify.com/album/2bWsAObvGNg2GOwlIPRRZc) | 4:31 |
 
-Snapshot ID: `MTY3OTYzMjQ0OCwwMDAwMDAwMGRhN2Q5Yjg1YzljMjllNDY5ODI0ZmU5NjhiMThkNTk5`
+Snapshot ID: `MTY3OTYzMjQ0OCwwMDAwMDAwMGIxMTFhY2VlODA1MmJkMTk2NDlkNDI4YzE3ODY4ZDcx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO180nDR.md) - [plain]
 
 > This is Los Dareyes De La Sierra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,034 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,058 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO180nDR.md) - [plain]
 | 49 | [Dueña De Mi Vida](https://open.spotify.com/track/1aZ6Zxjsohp85AEUPhJkCm) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Dueña De Mi Vida](https://open.spotify.com/album/6f5nr9l9CD2OJYgPPKAWxS) | 4:11 |
 | 50 | [Ven Y Ven](https://open.spotify.com/track/4CP1GpmLYMSnrdlFT5AQuy) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [El Águila Real](https://open.spotify.com/album/4Rt8x3lAOEwPN1XxUSWejx) | 2:48 |
 
-Snapshot ID: `MjgwMjQ4NTIsMDAwMDAwMDBkMTQ2NTBiMjc3MGU2NTcyMzA3MDlmNmYwZjM2NDI3MQ==`
+Snapshot ID: `MjgwMjYwMzIsMDAwMDAwMDBlYTAwNzkzZDM2Y2ExODRjOTI2NjZiNTIyNWIxYzZmZQ==`

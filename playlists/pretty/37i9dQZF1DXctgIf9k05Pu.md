@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXctgIf9k05Pu.md) - [plain]
 
 > Aesthetic vibes that just make sense.
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,971 likes - 50 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,044 likes - 50 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXctgIf9k05Pu.md) - [plain]
 | 37 | [viola](https://open.spotify.com/track/4HMWw4uQBzqXq0Y8uye9J8) | [eevee](https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q) | [unexpected](https://open.spotify.com/album/1FSH709UYOnXifCr9mihgJ) | 1:26 |
 | 38 | [waking up in the park](https://open.spotify.com/track/278zobyI14d3iaE39jGfHM) | [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [waking up in the park](https://open.spotify.com/album/4jGrBMzBYAxIMdwxOLvlod) | 1:08 |
 | 39 | [the way that you see me \(feat\. Ayleen Valentine\)](https://open.spotify.com/track/0k2bhZ9oM3boyUWaV3MfWk) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [drinking under the streetlights](https://open.spotify.com/album/3hHe7soPaQsQqALZOgNIYe) | 3:02 |
-| 40 | [sincerely, yours](https://open.spotify.com/track/3gV0E3N4uOcoNsbxLkGWkp) | [Nohidea](https://open.spotify.com/artist/5b0XQwyoJBFd3MwL2YxEPO) | [osho](https://open.spotify.com/album/3IeZJRDlyJdbgF64pkMlqc) | 2:19 |
-| 41 | [Getsomerest/sleepwell](https://open.spotify.com/track/2RycgtfFQZOPgEGrzBGE0j) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Quickly Quickly, Vol\. 1](https://open.spotify.com/album/2JhVhsYSe65vunncE4AYV1) | 5:32 |
-| 42 | [I'm Sorry](https://open.spotify.com/track/1XWLdjLUzNDxW7ggw8uQnM) | [Swell](https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez) | [Theres Still Us](https://open.spotify.com/album/6weHAeERW1hoGdgXtEP1QZ) | 2:37 |
-| 43 | [Summer Picnic](https://open.spotify.com/track/5qLIUUbJUlb3aXEiDThZef) | [Jordy Chandra](https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh) | [Summer Picnic](https://open.spotify.com/album/6U05K7fOYSMkZ7qJuKCVND) | 1:55 |
-| 44 | [change ur mind](https://open.spotify.com/track/58Mh6zmqSo9IvysPAXnG0h) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24), [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [change ur mind](https://open.spotify.com/album/5Sq4GMxxUnYNkcXZEORRQh) | 3:03 |
+| 40 | [I'm Sorry](https://open.spotify.com/track/1XWLdjLUzNDxW7ggw8uQnM) | [Swell](https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez) | [Theres Still Us](https://open.spotify.com/album/6weHAeERW1hoGdgXtEP1QZ) | 2:37 |
+| 41 | [sincerely, yours](https://open.spotify.com/track/3gV0E3N4uOcoNsbxLkGWkp) | [Nohidea](https://open.spotify.com/artist/5b0XQwyoJBFd3MwL2YxEPO) | [osho](https://open.spotify.com/album/3IeZJRDlyJdbgF64pkMlqc) | 2:19 |
+| 42 | [Getsomerest/sleepwell](https://open.spotify.com/track/2RycgtfFQZOPgEGrzBGE0j) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Quickly Quickly, Vol\. 1](https://open.spotify.com/album/2JhVhsYSe65vunncE4AYV1) | 5:32 |
+| 43 | [change ur mind](https://open.spotify.com/track/58Mh6zmqSo9IvysPAXnG0h) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24), [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [change ur mind](https://open.spotify.com/album/5Sq4GMxxUnYNkcXZEORRQh) | 3:03 |
+| 44 | [Summer Picnic](https://open.spotify.com/track/5qLIUUbJUlb3aXEiDThZef) | [Jordy Chandra](https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh) | [Summer Picnic](https://open.spotify.com/album/6U05K7fOYSMkZ7qJuKCVND) | 1:55 |
 | 45 | [fountain](https://open.spotify.com/track/35D1qs5m12ATl5WhkiunHT) | [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE) | [recreation](https://open.spotify.com/album/7is9hZHWtLUcsfKlOd7TJg) | 1:52 |
-| 46 | [To the Girl With Red Converse](https://open.spotify.com/track/4rM66iPZNDZlq4V6g3GLz6) | [Jackie Xan](https://open.spotify.com/artist/2ykxC1VJhlsCrfLfuFEcL1) | [To the Girl With Red Converse](https://open.spotify.com/album/3R5ky3UbYYHGQJR1Ah7wfd) | 2:23 |
-| 47 | [Who? \(feat\. Shiloh Dynasty\)](https://open.spotify.com/track/1F0a3Au8NIpoRP7PVdO1YR) | [TSUKI](https://open.spotify.com/artist/5JUQJ7KsNBUfvga48DbmAf), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Who? \(feat\. Shiloh Dynasty\)](https://open.spotify.com/album/6hS1GnERLOTXde2WYhUzCL) | 2:37 |
-| 48 | [Redbone](https://open.spotify.com/track/2hYuPn9UXZCqkA3mMedCXe) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Redbone](https://open.spotify.com/album/7ifFCYOT1n2YGyYhSuU59g) | 1:42 |
+| 46 | [Redbone](https://open.spotify.com/track/2hYuPn9UXZCqkA3mMedCXe) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Redbone](https://open.spotify.com/album/7ifFCYOT1n2YGyYhSuU59g) | 1:42 |
+| 47 | [To the Girl With Red Converse](https://open.spotify.com/track/4rM66iPZNDZlq4V6g3GLz6) | [Jackie Xan](https://open.spotify.com/artist/2ykxC1VJhlsCrfLfuFEcL1) | [To the Girl With Red Converse](https://open.spotify.com/album/3R5ky3UbYYHGQJR1Ah7wfd) | 2:23 |
+| 48 | [Who? \(feat\. Shiloh Dynasty\)](https://open.spotify.com/track/1F0a3Au8NIpoRP7PVdO1YR) | [TSUKI](https://open.spotify.com/artist/5JUQJ7KsNBUfvga48DbmAf), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Who? \(feat\. Shiloh Dynasty\)](https://open.spotify.com/album/6hS1GnERLOTXde2WYhUzCL) | 2:37 |
 | 49 | [Day in Paris](https://open.spotify.com/track/5uuD5CBnuAF6VoC57WLxol) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb) | [Day in Paris](https://open.spotify.com/album/71Xu2aatGYldckWmQHeYSF) | 3:17 |
 | 50 | [Aesthetic](https://open.spotify.com/track/5nQfC1vjISMUlstveJG7Ge) | [Xilo](https://open.spotify.com/artist/63kE1M6nlHBGwRttAc4Q6Z) | [Aesthetic](https://open.spotify.com/album/3OWiPXLWYWCvQ9nIKvTQkk) | 2:38 |
 
-Snapshot ID: `MTY0Mzc2MTMwOCwwMDAwMDAwMGY3YzRjMmM4MjJiZWYzNDk3ZDJiOTMzMzllNmUwYTEw`
+Snapshot ID: `MTY0Mzc2MTMwOCwwMDAwMDAwMDdjOGYxMzI1ZmFlOTBmODQ2MDYwMmM4YmY2ZWI0MzAz`

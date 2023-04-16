@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 
 > Atmospheric and emotional piano pieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,686 likes - 99 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,830 likes - 99 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 | 52 | [Of Twilight Skies](https://open.spotify.com/track/5FgOdb5ilNpgXpPBYl23Ln) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [Of Twilight Skies](https://open.spotify.com/album/76YGw1azMme9elduNgSeld) | 3:18 |
 | 53 | [Playful \(variation\)](https://open.spotify.com/track/2vrY8qX7KWe8RGNQYLVix5) | [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) | [Correlations B\-Sides \(on Yamaha Upright, 1981\)](https://open.spotify.com/album/2G4IIha9htug2thniT54uy) | 3:17 |
 | 54 | [a gift](https://open.spotify.com/track/1CmQKnFJKWTesGSSQ2noNL) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [ask the river](https://open.spotify.com/album/4yhyBrxpfFUjazK1rVgzzO) | 2:59 |
-| 55 | [Sun Prelude](https://open.spotify.com/track/07RjQvhbiROEpMtNyNE08U) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Gjeilo: Sun Prelude](https://open.spotify.com/album/2j5otpbzoJX9uB9pD7jdzK) | 2:34 |
+| 55 | [Gjeilo: Sun Prelude](https://open.spotify.com/track/07RjQvhbiROEpMtNyNE08U) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Gjeilo: Sun Prelude](https://open.spotify.com/album/2j5otpbzoJX9uB9pD7jdzK) | 2:34 |
 | 56 | [Apartment Song \#5](https://open.spotify.com/track/0GG1KOVmUeZfipy9MB9m4e) | [Bruno Bavota](https://open.spotify.com/artist/22kkuXdiuYd7ISzXU5o7eH) | [Apartment Song \#5](https://open.spotify.com/album/3c5jf7GTivqPWw5bGLvtT5) | 3:11 |
 | 57 | [Summer 1987.](https://open.spotify.com/track/2k7pE7D98DMSXaLc57tsG1) | [Christian.](https://open.spotify.com/artist/0pwpSckn3W7W3TSeAYZevV) | [Summer 1987.](https://open.spotify.com/album/4DXELJ6zegvkSUFDmYKKRv) | 2:59 |
 | 58 | [About Coming and Leaving](https://open.spotify.com/track/6DQ0d8YVCs0wi1zHN0fedq) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [About Coming and Leaving](https://open.spotify.com/album/1jXegZ2mzIXJZHjlaD9NLf) | 2:07 |

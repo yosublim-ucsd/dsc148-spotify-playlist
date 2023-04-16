@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bG046.md) - [plain]
 
 > This is Los Jaivas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,368 likes - 50 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,383 likes - 50 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bG046.md) - [plain]
 | 49 | [Danzas](https://open.spotify.com/track/1g5kVDd0YvwDG7XUpkDuSc) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Canción del Sur](https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA) | 8:44 |
 | 50 | [Aguamarina](https://open.spotify.com/track/38oA0SevVbUsoZCBDEWcvb) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Si Tú No Estás](https://open.spotify.com/album/0kGRBbp77zJZjR6SUOGDo2) | 4:02 |
 
-Snapshot ID: `MjgwMjQ4NTIsMDAwMDAwMDA3OTQzOGNhZTI4ZThkNjBhY2Y4MTA3OGFiZWMyNjBmYQ==`
+Snapshot ID: `MjgwMjYwMzIsMDAwMDAwMDAyZDQ4M2VmMmJjN2Y1NTFkODQ2ZTdmNThlN2ZmM2FlZg==`

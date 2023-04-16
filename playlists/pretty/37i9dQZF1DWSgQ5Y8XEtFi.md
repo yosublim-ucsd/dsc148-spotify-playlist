@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgQ5Y8XEtFi.md) - [plain]
 
 > songs that break bones
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,317 likes - 52 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,404 likes - 52 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgQ5Y8XEtFi.md) - [plain]
 | 28 | [The Plug](https://open.spotify.com/track/39hVR792uDgkDS14wLWmBy) | [Belaganas](https://open.spotify.com/artist/4dxp2iZCasMOmCDFztR22q) | [The Plug](https://open.spotify.com/album/0yf9wxPXrA8bP1yB4iFpAP) | 3:08 |
 | 29 | [I Kill Everything](https://open.spotify.com/track/67yPz95D3cWkA0afvBGgtP) | [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI), [AWAY](https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij) | [I Kill Everything](https://open.spotify.com/album/4Vit7uug9JxFeTKtrO3bWd) | 3:36 |
 | 30 | [SUPERCALAFRAGIVICIOUS](https://open.spotify.com/track/5nU2Hi0QCmbtf1PgFfgw6c) | [steve breaux](https://open.spotify.com/artist/10RaWqDdK3ZxvKObBVkm1g) | [SUPERCALAFRAGIVICIOUS](https://open.spotify.com/album/6FIAYIGvA008E0d4l6wvDx) | 1:46 |
-| 31 | [CRYPT](https://open.spotify.com/track/1oLnJ7OXGCvdRWBgkiTQfU) | [Roderick Porter](https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy) | [CRYPT](https://open.spotify.com/album/7Jz9ANs32REV7h7C3z1Yw2) | 1:45 |
+| 31 | [CRYPT](https://open.spotify.com/track/3ja23IMkvBSzyvCMmyV6Fq) | [Roderick Porter](https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy) | [CRYPT](https://open.spotify.com/album/4dvognytsyyoFKrV9lW5F6) | 1:45 |
 | 32 | [OMG BRITT](https://open.spotify.com/track/1lHO9Z4KzFzm9VPxKvT0KE) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [OMG BRITT](https://open.spotify.com/album/1ZxJENucMcyS2Q34PckcAx) | 2:52 |
 | 33 | [Want \(feat\. prodby668\)](https://open.spotify.com/track/1sRqm1JxQL88mrHhMLpQ5y) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F), [prodby668](https://open.spotify.com/artist/56g4P11Gxl7nROZBbm8X3F) | [Freddie's Inferno](https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl) | 1:48 |
 | 34 | [Static](https://open.spotify.com/track/7fAyZGPp22pbGMZQgJuf1C) | [99 Neighbors](https://open.spotify.com/artist/5uhqkMm8dyQvX83kl4Znq0), [Wahid](https://open.spotify.com/artist/1kiX1oBF90ZSWJoXSiFy8x) | [Static](https://open.spotify.com/album/5tCYwml6XCzWbbhZwNsw8I) | 2:20 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgQ5Y8XEtFi.md) - [plain]
 | 51 | [Crazy](https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Crazy](https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB) | 2:14 |
 | 52 | [Racked](https://open.spotify.com/track/6Puwg0sgPn5ByIXy4srRCj) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [MONEYSUTRA](https://open.spotify.com/album/6yxdybIsZMRnsAAMR1A2vf) | 3:04 |
 
-Snapshot ID: `MTY4MTQ0NDgwMCwwMDAwMDAwMDk4YzNjNTlkYmNmNDQ1YjA0ZTYxZmIyOWY5YmJiNzYw`
+Snapshot ID: `MTY4MTQ0NDgwMCwwMDAwMDAwMGU5YzgyNWEwMTZjZTBjNTFlYzI4ZmZiZTAwM2M1YjE1`

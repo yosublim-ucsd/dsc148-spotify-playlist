@@ -1,12 +1,12 @@
 {
   "description": "Hit del passato e nuovi brani per la tua giornata perfetta.",
-  "num_followers": 172336,
+  "num_followers": 172386,
   "original_name": "La vita \u00e8 bella!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM4OTY2NCwwMDAwMDAwMGY5NDAzZGVlMjdiN2M2ZDVjNDY5ZGQ2OWJkZGU5NWQ0",
+  "snapshot_id": "MTY2OTM4OTY2NCwwMDAwMDAwMGM0ZGM1ZDJhMzdiZDZjZGRmYWE4MmNhMzI1Njg1ZWIz",
   "tracks": [
     {
       "added_at": "2022-11-25 15:21:04",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-11-25 15:21:04",
       "album": {
-        "name": "A Brief Inquiry Into Online Relationships",
-        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 248335,
-      "name": "It's Not Living (If It's Not With You)",
-      "url": "https://open.spotify.com/track/3TgMcrV32NUKjEG2ujn9eh"
-    },
-    {
-      "added_at": "2022-11-25 15:21:04",
-      "album": {
         "name": "Left Of The Middle",
         "url": "https://open.spotify.com/album/38alWeQVP9UUAGJvLptys9"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 244666,
       "name": "Torn",
       "url": "https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU"
+    },
+    {
+      "added_at": "2022-11-25 15:21:04",
+      "album": {
+        "name": "A Brief Inquiry Into Online Relationships",
+        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 248335,
+      "name": "It's Not Living (If It's Not With You)",
+      "url": "https://open.spotify.com/track/3TgMcrV32NUKjEG2ujn9eh"
     },
     {
       "added_at": "2022-11-25 15:21:04",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-11-25 15:21:04",
       "album": {
-        "name": "Sharks",
-        "url": "https://open.spotify.com/album/587Ykd8NOCdzRmaW4nlT4e"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 190883,
-      "name": "Sharks",
-      "url": "https://open.spotify.com/track/0TyUOnU4H4GLqOcrH0auc8"
-    },
-    {
-      "added_at": "2022-11-25 15:21:04",
-      "album": {
         "name": "Dish of the Day",
         "url": "https://open.spotify.com/album/1VQkUcV1j0hbsZAFghmeXh"
       },
@@ -891,18 +875,18 @@
     {
       "added_at": "2022-11-25 15:21:04",
       "album": {
-        "name": "Camino Palmero",
-        "url": "https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV"
+        "name": "Sharks",
+        "url": "https://open.spotify.com/album/587Ykd8NOCdzRmaW4nlT4e"
       },
       "artists": [
         {
-          "name": "The Calling",
-          "url": "https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp"
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
         }
       ],
-      "duration_ms": 208600,
-      "name": "Wherever You Will Go",
-      "url": "https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz"
+      "duration_ms": 190883,
+      "name": "Sharks",
+      "url": "https://open.spotify.com/track/0TyUOnU4H4GLqOcrH0auc8"
     },
     {
       "added_at": "2022-11-25 15:21:04",
@@ -919,6 +903,22 @@
       "duration_ms": 200213,
       "name": "Live While We're Young",
       "url": "https://open.spotify.com/track/6Vh03bkEfXqekWp7Y1UBRb"
+    },
+    {
+      "added_at": "2022-11-25 15:21:04",
+      "album": {
+        "name": "Camino Palmero",
+        "url": "https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV"
+      },
+      "artists": [
+        {
+          "name": "The Calling",
+          "url": "https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp"
+        }
+      ],
+      "duration_ms": 208600,
+      "name": "Wherever You Will Go",
+      "url": "https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz"
     },
     {
       "added_at": "2022-11-25 15:21:04",

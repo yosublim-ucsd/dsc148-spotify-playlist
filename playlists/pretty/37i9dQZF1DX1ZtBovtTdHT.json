@@ -1,12 +1,12 @@
 {
   "description": "Legendary euro- trance & progressive tracks  from the 90s and 00s.",
-  "num_followers": 154673,
+  "num_followers": 154782,
   "original_name": "Dreamy Dance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg1MTQwMCwwMDAwMDAwMDI0NWU2Mjc2MmI3ZTAzZWUzMTU1NzI0N2RkNTE4MGE2",
+  "snapshot_id": "MTY3Nzg1MTQwMCwwMDAwMDAwMDJkOWI5MDE1ZmIzMDJkMjg3YzE1ODYzY2QzNDIzYzEx",
   "tracks": [
     {
       "added_at": "2022-06-10 12:01:48",
@@ -455,22 +455,6 @@
     {
       "added_at": "2022-06-10 12:01:48",
       "album": {
-        "name": "Seven Days and One Week",
-        "url": "https://open.spotify.com/album/1WJ0SZdrAvouJXwp6I5Gs5"
-      },
-      "artists": [
-        {
-          "name": "BBE",
-          "url": "https://open.spotify.com/artist/1Jz17Vwjc2WYOT2MfYG5GO"
-        }
-      ],
-      "duration_ms": 271568,
-      "name": "Seven Days and One Week - Radio Edit",
-      "url": "https://open.spotify.com/track/47BPp5TPDpl0wCXB0FWXvg"
-    },
-    {
-      "added_at": "2022-06-10 12:01:48",
-      "album": {
         "name": "Greatest Hits & Remixes",
         "url": "https://open.spotify.com/album/3kzFmML169KngWKdeutrhc"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 203440,
       "name": "Komodo (Radio Edit)",
       "url": "https://open.spotify.com/track/3NjmHXAKcpg5e0BseNJtUJ"
+    },
+    {
+      "added_at": "2022-06-10 12:01:48",
+      "album": {
+        "name": "Seven Days and One Week",
+        "url": "https://open.spotify.com/album/1WJ0SZdrAvouJXwp6I5Gs5"
+      },
+      "artists": [
+        {
+          "name": "BBE",
+          "url": "https://open.spotify.com/artist/1Jz17Vwjc2WYOT2MfYG5GO"
+        }
+      ],
+      "duration_ms": 271568,
+      "name": "Seven Days and One Week - Radio Edit",
+      "url": "https://open.spotify.com/track/47BPp5TPDpl0wCXB0FWXvg"
     },
     {
       "added_at": "2022-06-10 12:01:48",

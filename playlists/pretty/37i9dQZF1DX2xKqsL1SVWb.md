@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKqsL1SVWb.md) - [plain]
 
 > Folk tan dulce como la miel\. Kevin Kaarl en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,904 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,910 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKqsL1SVWb.md) - [plain]
 | 11 | [Juntos](https://open.spotify.com/track/6DnmHa24M6jVBisjhyHcIs) | [Erich](https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU) | [HSN](https://open.spotify.com/album/6mZZOWFnjModwsij9EDDam) | 2:40 |
 | 12 | [Miel](https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [Miel](https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B) | 2:04 |
 | 13 | [Vuelvo Pronto](https://open.spotify.com/track/2HECQdPQtR1K9DfEdCBAoa) | [Karina Galicia](https://open.spotify.com/artist/0syMDHmkYbx5dG8bOnZ60z) | [Canciones Secretas](https://open.spotify.com/album/6CrUSUaGNBRz8MNYTkvNm1) | 2:32 |
-| 14 | [Brindo](https://open.spotify.com/track/1oLp4xkeNCxjMy4glz0vbL) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn) | [Brindo](https://open.spotify.com/album/5WBJnHs3CWYPwoi3yJS58x) | 3:05 |
-| 15 | [Soñar Contigo](https://open.spotify.com/track/0GYS14rwcsMXhYMP57W164) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Mundo De Dos](https://open.spotify.com/album/2prBuM9hprQROvEI5MDZ5C) | 2:48 |
+| 14 | [Soñar Contigo](https://open.spotify.com/track/0GYS14rwcsMXhYMP57W164) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Mundo De Dos](https://open.spotify.com/album/2prBuM9hprQROvEI5MDZ5C) | 2:48 |
+| 15 | [Brindo](https://open.spotify.com/track/1oLp4xkeNCxjMy4glz0vbL) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn) | [Brindo](https://open.spotify.com/album/5WBJnHs3CWYPwoi3yJS58x) | 3:05 |
 | 16 | [Mi Despedida](https://open.spotify.com/track/6Svlf7ToRwf8VFaHWpdN9O) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Mi Despedida](https://open.spotify.com/album/23INaDzOxYRJqQOm5X2Twv) | 3:16 |
 | 17 | [Reina de mi Corazón](https://open.spotify.com/track/6pBV756dsPFIMGfLi29Obk) | [Jesus Dimas](https://open.spotify.com/artist/3T8yvcStZybKlw4Douh93g) | [Reina de mi Corazón](https://open.spotify.com/album/2eg5l4Mktmc950WhNBdybS) | 3:34 |
 | 18 | [Colapso](https://open.spotify.com/track/7dT9D6117e5DbhnKxDLNW9) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Hasta el Fin Del Mundo](https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7) | 3:55 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKqsL1SVWb.md) - [plain]
 | 65 | [Al Pie del Volcán](https://open.spotify.com/track/5TpldaZoFR74NclU2mEhTP) | [Yo y las Bestias](https://open.spotify.com/artist/6IMsvQIE5UuA92aA22TfxP) | [Al Pie del Volcán](https://open.spotify.com/album/34jUSNv9RoyaxI78mHzFmr) | 4:05 |
 | 66 | [El Fin](https://open.spotify.com/track/0tMZaa09HA20lbBvKEkd8N) | [Karla Cruise](https://open.spotify.com/artist/1lDvMKVfuYM3tO8iAIlYrs) | [El Fin](https://open.spotify.com/album/36zytWk6zIaTL5hcrPplY8) | 2:57 |
 | 67 | [Yaya](https://open.spotify.com/track/7jm48iiBt7oI8skNwgzNrs) | [Venado Meraki](https://open.spotify.com/artist/5bLXtvIMDtusv4j9PtXjgB) | [Yaya](https://open.spotify.com/album/6ZhmkUD947boo8m6KGS4CM) | 3:53 |
-| 68 | [Bolero Surrealista](https://open.spotify.com/track/0axqkZNASfnYOI3abp06dT) | [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [Bolero Surrealista](https://open.spotify.com/album/6kZcXw3tT2Kbj9rqZsh83a) | 3:54 |
+| 68 | [Arena Roja](https://open.spotify.com/track/5LxBsUiUHcxHeg1bQyQYeF) | [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [Arena Roja](https://open.spotify.com/album/35nR8jjRVVjo6R3IhQO9le) | 3:58 |
 | 69 | [¿Qué pasó?](https://open.spotify.com/track/1VgWAGoBepDqO0elgJ7LHL) | [Brandd Alvarez](https://open.spotify.com/artist/38Fp7nDn5ldveEZHy1fkbo) | [¿Qué pasó?](https://open.spotify.com/album/7mTdih8YvmbQBKsmXNOISQ) | 4:19 |
 | 70 | [La Triste Historia de un Cazafantasmas Retirado](https://open.spotify.com/track/66upbgKkgfSxMmIWMCvL8p) | [Sad Saturno](https://open.spotify.com/artist/4skcssepAWMUywr7Nmng2d) | [La Triste Historia de un Cazafantasmas Retirado](https://open.spotify.com/album/7EoVqsPnTl7mEj3p1wMZus) | 3:34 |
 | 71 | [Repetir](https://open.spotify.com/track/4TlpJDThWiOD0KJz0snvD7) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Repetir](https://open.spotify.com/album/2hN53yrLB2x6xcHwPiHTd5) | 2:43 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKqsL1SVWb.md) - [plain]
 | 74 | [Se Te Olvidó](https://open.spotify.com/track/43p7kAVqa4CYkwQtl0ZBb3) | [Bella Álvarez](https://open.spotify.com/artist/6dqfuonDrw9UdawWJIAGjs) | [Se Te Olvidó](https://open.spotify.com/album/1k8eERaYIlNo3PI5VOx2Eo) | 3:31 |
 | 75 | [Nos Dijimos Adiós](https://open.spotify.com/track/4DEa05v9flZt5Q009QucTU) | [Paola Decanini](https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE) | [Nos Dijimos Adiós](https://open.spotify.com/album/2AQqArbCTwT5LEAD01IXHe) | 3:42 |
 
-Snapshot ID: `MTY4MDI5MDE5NSwwMDAwMDAwMGI1OTIyYzVjNzZiMGVmN2U5YmRjYWVlZTM4Mzc2NzA0`
+Snapshot ID: `MTY4MDI5MDE5NSwwMDAwMDAwMDg5MWU5ZTBkN2U2YjZmNjAzOWFmMTNjYTYyMTY3MTE2`

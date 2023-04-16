@@ -1249,6 +1249,28 @@
     },
     {
       "album": {
+        "name": "What I Breathe",
+        "url": "https://open.spotify.com/album/4Xt7IVNtLEjVjetUBufoyw"
+      },
+      "artists": [
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        },
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257424,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/0MYqjhoG0r9K23MAk4ok5A"
+    },
+    {
+      "album": {
         "name": "Codec Tweak/Plaid",
         "url": "https://open.spotify.com/album/3f6HJFDtEOdFCTdGlrDkux"
       },
@@ -1830,7 +1852,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 181330,
       "name": "wish that i could - Memphis LK Remix",
       "url": "https://open.spotify.com/track/10kgI5WbVmGmfaLzZPElCM"

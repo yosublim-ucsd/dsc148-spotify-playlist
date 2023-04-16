@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX88mTcSM3nFc.md) - [plain]
 
 > christmas always makes me cry
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,719 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,717 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX88mTcSM3nFc.md) - [plain]
 | 15 | [Lonely This Christmas](https://open.spotify.com/track/6ka53p5HloApRQ2ptSpuGB) | [Mud](https://open.spotify.com/artist/3cqIsBnzV3BabbPWKz8Txf) | [The Very Best Of Mud](https://open.spotify.com/album/6fkg20RDjOK5JSZ3wqt6i4) | 3:33 |
 | 16 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/46pF1zFimM582ss1PrMy68) | [Darlene Love](https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu) | [A Christmas Gift For You From Phil Spector](https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu) | 2:46 |
 | 17 | [If We Make It Through December](https://open.spotify.com/track/2vnVkHPckitpXFyC2Q2ULG) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [If We Make It Through December](https://open.spotify.com/album/5c7rZDAKYf6PsA3MUfNZXL) | 2:59 |
-| 18 | [For Those Who Can't Be Here](https://open.spotify.com/track/7nrB7gaYNe1x8Kvv7c0Tps) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [For Those Who Can't Be Here](https://open.spotify.com/album/06whzJAwv0hrYW3i2N4TWx) | 3:03 |
-| 19 | [Single On The 25th](https://open.spotify.com/track/3hTSUqyG6ntAYXjgYOjS16) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Single On The 25th](https://open.spotify.com/album/3dQ9PkqMkvgcjvEnKWEL3n) | 2:41 |
-| 20 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/030mot3ZKR3oskfMsqDB2R) | [Judy Garland](https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf) | [Meet Me In St\. Louis](https://open.spotify.com/album/1owtCiTnAkCB4vKJ5FD0ki) | 2:42 |
+| 18 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/030mot3ZKR3oskfMsqDB2R) | [Judy Garland](https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf) | [Meet Me In St\. Louis](https://open.spotify.com/album/1owtCiTnAkCB4vKJ5FD0ki) | 2:42 |
+| 19 | [For Those Who Can't Be Here](https://open.spotify.com/track/7nrB7gaYNe1x8Kvv7c0Tps) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [For Those Who Can't Be Here](https://open.spotify.com/album/06whzJAwv0hrYW3i2N4TWx) | 3:03 |
+| 20 | [Single On The 25th](https://open.spotify.com/track/3hTSUqyG6ntAYXjgYOjS16) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Single On The 25th](https://open.spotify.com/album/3dQ9PkqMkvgcjvEnKWEL3n) | 2:41 |
 | 21 | [Angel In The Snow](https://open.spotify.com/track/7FtqC39RKToWH7x4lUDCJW) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon](https://open.spotify.com/album/22KjY8SLvYh2DVMmLPPatF) | 2:37 |
 | 22 | [Merry Christmas Darling \- Remix](https://open.spotify.com/track/0z5HSQGWgnjdNvwbOmhB2w) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Christmas Portrait \(Special Edition/Reissue\)](https://open.spotify.com/album/5GMAtv4CU6GYQMo36Uuiqc) | 3:06 |
 | 23 | [Someday At Christmas](https://open.spotify.com/track/2X5noCM9Klrm4zXfyyPdRN) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Mono Singles](https://open.spotify.com/album/7oMcO4p7P1JtJR2G1v2NoK) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX88mTcSM3nFc.md) - [plain]
 | 49 | [I Want To Come Home For Christmas](https://open.spotify.com/track/79XX797KcCCXMQFvgWkU6h) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [You're The Man](https://open.spotify.com/album/7aX5aMq94oHw4eQdQBo854) | 4:46 |
 | 50 | [Did I Make You Cry On Christmas Day? \(Well, You Deserved It!\)](https://open.spotify.com/track/0ONfnpyVTlpU2wyIouPJ0A) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Songs For Christmas](https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis) | 3:21 |
 
-Snapshot ID: `MTY3MTE2NjgwMCwwMDAwMDAwMDEzMDY5NDJjYjgwODdmM2Q2MWE2YzQzOGNkM2Q4YWUw`
+Snapshot ID: `MTY3MTE2NjgwMCwwMDAwMDAwMGExMWE4MjczMDRlMjdlN2RiY2Q3ZGU3ZjBjMGIzMDA1`

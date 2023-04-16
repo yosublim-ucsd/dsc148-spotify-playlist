@@ -1,12 +1,12 @@
 {
   "description": "Slow jams from West Africa that unwind and relax",
-  "num_followers": 11871,
+  "num_followers": 11897,
   "original_name": "Chill Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ3NzUyOCwwMDAwMDAwMDQ3NDllOTFkZDRjNDc4MDQ3ZWI1MDY4ODcwZGE2NjUw",
+  "snapshot_id": "MTY4MTQ3NzUyOCwwMDAwMDAwMGE2MTM3NTliOTQ3YTNhNThjMTU0ZTY2NDE1N2E4ZTgw",
   "tracks": [
     {
       "added_at": "2023-04-14 13:05:28",
@@ -1211,6 +1211,26 @@
     {
       "added_at": "2023-04-14 13:05:28",
       "album": {
+        "name": "Trobul",
+        "url": "https://open.spotify.com/album/0rR5whQcGWozzVgQ9XV2VS"
+      },
+      "artists": [
+        {
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+        },
+        {
+          "name": "WurlD",
+          "url": "https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn"
+        }
+      ],
+      "duration_ms": 242026,
+      "name": "Trobul",
+      "url": "https://open.spotify.com/track/3mitop70iyN03AreLNsit4"
+    },
+    {
+      "added_at": "2023-04-14 13:05:28",
+      "album": {
         "name": "Stuck (Your Heart)",
         "url": "https://open.spotify.com/album/6DUNvxsja1HRJWSTdaoK5O"
       },
@@ -1235,42 +1255,6 @@
     {
       "added_at": "2023-04-14 13:05:28",
       "album": {
-        "name": "Trobul",
-        "url": "https://open.spotify.com/album/0rR5whQcGWozzVgQ9XV2VS"
-      },
-      "artists": [
-        {
-          "name": "Sarz",
-          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
-        },
-        {
-          "name": "WurlD",
-          "url": "https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn"
-        }
-      ],
-      "duration_ms": 242026,
-      "name": "Trobul",
-      "url": "https://open.spotify.com/track/3mitop70iyN03AreLNsit4"
-    },
-    {
-      "added_at": "2023-04-14 13:05:28",
-      "album": {
-        "name": "Heart Of The Heavenly Undeniable (HOTHU)",
-        "url": "https://open.spotify.com/album/198JrQy13MkMT65kWGoo59"
-      },
-      "artists": [
-        {
-          "name": "Somadina",
-          "url": "https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U"
-        }
-      ],
-      "duration_ms": 133392,
-      "name": "I Saw An Angel On The Roof & Wept",
-      "url": "https://open.spotify.com/track/0bDSVRBBZDLCVHhCH3mMXz"
-    },
-    {
-      "added_at": "2023-04-14 13:05:28",
-      "album": {
         "name": "Water & Garri",
         "url": "https://open.spotify.com/album/4kaFvICfRtvFJawQ6p7VSW"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 204444,
       "name": "Tales By Moonlight (Ft Amaarae)",
       "url": "https://open.spotify.com/track/53JGRDnTAbXozbVusHa5ht"
+    },
+    {
+      "added_at": "2023-04-14 13:05:28",
+      "album": {
+        "name": "Heart Of The Heavenly Undeniable (HOTHU)",
+        "url": "https://open.spotify.com/album/198JrQy13MkMT65kWGoo59"
+      },
+      "artists": [
+        {
+          "name": "Somadina",
+          "url": "https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U"
+        }
+      ],
+      "duration_ms": 133392,
+      "name": "I Saw An Angel On The Roof & Wept",
+      "url": "https://open.spotify.com/track/0bDSVRBBZDLCVHhCH3mMXz"
     },
     {
       "added_at": "2023-04-14 13:05:28",
@@ -1379,26 +1379,6 @@
     {
       "added_at": "2023-04-14 13:05:28",
       "album": {
-        "name": "Fine Wine (ft. Amaarae)",
-        "url": "https://open.spotify.com/album/6BIs3FxdoJXjJFVAbPWR61"
-      },
-      "artists": [
-        {
-          "name": "Kelechief",
-          "url": "https://open.spotify.com/artist/5RYLLsBCVrGJtU2RrlXrOR"
-        },
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Fine Wine (ft. Amaarae)",
-      "url": "https://open.spotify.com/track/3WfgYlFwZMt0Gszdj6TsQo"
-    },
-    {
-      "added_at": "2023-04-14 13:05:28",
-      "album": {
         "name": "Vanity",
         "url": "https://open.spotify.com/album/2NNV633QV0mNfqRDoFx0q0"
       },
@@ -1415,6 +1395,26 @@
       "duration_ms": 224837,
       "name": "Can You See Her",
       "url": "https://open.spotify.com/track/6ClDzvO4Ys2FAYXEBAqRJ3"
+    },
+    {
+      "added_at": "2023-04-14 13:05:28",
+      "album": {
+        "name": "Fine Wine (ft. Amaarae)",
+        "url": "https://open.spotify.com/album/6BIs3FxdoJXjJFVAbPWR61"
+      },
+      "artists": [
+        {
+          "name": "Kelechief",
+          "url": "https://open.spotify.com/artist/5RYLLsBCVrGJtU2RrlXrOR"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Fine Wine (ft. Amaarae)",
+      "url": "https://open.spotify.com/track/3WfgYlFwZMt0Gszdj6TsQo"
     },
     {
       "added_at": "2023-04-14 13:05:28",

@@ -1,12 +1,12 @@
 {
   "description": "\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30e1\u30ed\u30c7\u30a3\u30fc\u30ba\u3002\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3068\u5171\u306b\u3001\u723d\u3084\u304b\u306a1\u65e5\u3092\u8fce\u3048\u307e\u305b\u3093\u304b\uff1f",
-  "num_followers": 96765,
+  "num_followers": 96776,
   "original_name": "Acoustic Melodies Tokyo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTM5ODAwMCwwMDAwMDAwMDI3NDhlYzQ1Mzg3ODFlZWMyNWM3MzRmMTFkM2YzYzlk",
+  "snapshot_id": "MTY4MTM5ODAwMCwwMDAwMDAwMDk4OGE2YTBmYmE2NGU1NjU3NDViY2E4MGQyN2Q3NTMw",
   "tracks": [
     {
       "added_at": "2023-04-13 15:00:00",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
-        "name": "VHS",
-        "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 195200,
-      "name": "Renegades",
-      "url": "https://open.spotify.com/track/0fYVliAYKHuPmECRs1pbRf"
-    },
-    {
-      "added_at": "2023-04-13 15:00:00",
-      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/03sQVTmOjeFVi8GsSaJSNV"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 157373,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/6Z165JvPnS8PYvGW8oLGLc"
+    },
+    {
+      "added_at": "2023-04-13 15:00:00",
+      "album": {
+        "name": "VHS",
+        "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 195200,
+      "name": "Renegades",
+      "url": "https://open.spotify.com/track/0fYVliAYKHuPmECRs1pbRf"
     },
     {
       "added_at": "2023-04-13 15:00:00",
@@ -579,18 +579,22 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
-        "name": "Melodrama",
-        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
+        "name": "Is There Anybody Out There?",
+        "url": "https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl"
       },
       "artists": [
         {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+          "name": "A Great Big World",
+          "url": "https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF"
+        },
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 171727,
-      "name": "Liability",
-      "url": "https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o"
+      "duration_ms": 229400,
+      "name": "Say Something",
+      "url": "https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N"
     },
     {
       "added_at": "2023-04-13 15:00:00",
@@ -611,22 +615,18 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
-        "name": "Is There Anybody Out There?",
-        "url": "https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl"
+        "name": "Where the Light Is: John Mayer Live In Los Angeles",
+        "url": "https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb"
       },
       "artists": [
         {
-          "name": "A Great Big World",
-          "url": "https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF"
-        },
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 229400,
-      "name": "Say Something",
-      "url": "https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N"
+      "duration_ms": 263573,
+      "name": "Free Fallin' - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
+      "url": "https://open.spotify.com/track/4LloVtxNZpeh7q7xdi1DQc"
     },
     {
       "added_at": "2023-04-13 15:00:00",
@@ -663,18 +663,18 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
-        "name": "Coming Home (Deluxe)",
-        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
+        "name": "Melodrama",
+        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
       },
       "artists": [
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
         }
       ],
-      "duration_ms": 240200,
-      "name": "River",
-      "url": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK"
+      "duration_ms": 171727,
+      "name": "Liability",
+      "url": "https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o"
     },
     {
       "added_at": "2023-04-13 15:00:00",
@@ -695,18 +695,18 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
-        "name": "Where the Light Is: John Mayer Live In Los Angeles",
-        "url": "https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb"
+        "name": "Coming Home (Deluxe)",
+        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
       },
       "artists": [
         {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 263573,
-      "name": "Free Fallin' - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
-      "url": "https://open.spotify.com/track/4LloVtxNZpeh7q7xdi1DQc"
+      "duration_ms": 240200,
+      "name": "River",
+      "url": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK"
     },
     {
       "added_at": "2023-04-13 15:00:00",
@@ -795,18 +795,18 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
-        "name": "Good Thing",
-        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
+        "name": "hate u love u",
+        "url": "https://open.spotify.com/album/0rajxwGsaQ1sqoegXK6gvw"
       },
       "artists": [
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Olivia O'Brien",
+          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
         }
       ],
-      "duration_ms": 240600,
-      "name": "Beyond",
-      "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
+      "duration_ms": 175466,
+      "name": "hate u love u",
+      "url": "https://open.spotify.com/track/6ATgDc6e4sPn84hvJsAmPt"
     },
     {
       "added_at": "2023-04-13 15:00:00",
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
-        "name": "hate u love u",
-        "url": "https://open.spotify.com/album/0rajxwGsaQ1sqoegXK6gvw"
+        "name": "Still Falling For You (From \"Bridget Jones's Baby\" Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6YIaqFvhOWma5gbjcB18Nu"
       },
       "artists": [
         {
-          "name": "Olivia O'Brien",
-          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
         }
       ],
-      "duration_ms": 175466,
-      "name": "hate u love u",
-      "url": "https://open.spotify.com/track/6ATgDc6e4sPn84hvJsAmPt"
+      "duration_ms": 240867,
+      "name": "Still Falling For You - From \"Bridget Jones's Baby\"",
+      "url": "https://open.spotify.com/track/3odrUVQ9tvRpkC9II2oWzx"
     },
     {
       "added_at": "2023-04-13 15:00:00",
@@ -859,18 +859,18 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
-        "name": "Still Falling For You (From \"Bridget Jones's Baby\" Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6YIaqFvhOWma5gbjcB18Nu"
+        "name": "Good Thing",
+        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
       },
       "artists": [
         {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 240867,
-      "name": "Still Falling For You - From \"Bridget Jones's Baby\"",
-      "url": "https://open.spotify.com/track/3odrUVQ9tvRpkC9II2oWzx"
+      "duration_ms": 240600,
+      "name": "Beyond",
+      "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
     },
     {
       "added_at": "2023-04-13 15:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
-        "name": "I Love You So (Acoustic)",
-        "url": "https://open.spotify.com/album/5WU3xyxDUz9pSjBg8h6cYU"
-      },
-      "artists": [
-        {
-          "name": "The Walters",
-          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
-        }
-      ],
-      "duration_ms": 147333,
-      "name": "I Love You So - Acoustic",
-      "url": "https://open.spotify.com/track/5cjagrNaegv6IQZKflkPTf"
-    },
-    {
-      "added_at": "2023-04-13 15:00:00",
-      "album": {
         "name": "Crazy Rich Asians (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2wMz3oVNS1bMXaEWY6QWmA"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 201933,
       "name": "Can't Help Falling In Love",
       "url": "https://open.spotify.com/track/6lfxq3CG4xtTiEg7opyCyx"
+    },
+    {
+      "added_at": "2023-04-13 15:00:00",
+      "album": {
+        "name": "I Love You So (Acoustic)",
+        "url": "https://open.spotify.com/album/5WU3xyxDUz9pSjBg8h6cYU"
+      },
+      "artists": [
+        {
+          "name": "The Walters",
+          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
+        }
+      ],
+      "duration_ms": 147333,
+      "name": "I Love You So - Acoustic",
+      "url": "https://open.spotify.com/track/5cjagrNaegv6IQZKflkPTf"
     },
     {
       "added_at": "2023-04-13 15:00:00",
@@ -1127,22 +1127,18 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
-        "name": "Dear August",
-        "url": "https://open.spotify.com/album/6gaOMLivdMhiFaTuPqTmgj"
+        "name": "I Ain\u2019t Worried - Acoustic (Music From The Motion Picture \"Top Gun: Maverick\")",
+        "url": "https://open.spotify.com/album/7lR2Xqpmvr2r05DQENflBG"
       },
       "artists": [
         {
-          "name": "PJ Harding",
-          "url": "https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP"
-        },
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         }
       ],
-      "duration_ms": 200940,
-      "name": "Dear August",
-      "url": "https://open.spotify.com/track/16gW9O8A4rIMx5OOVlzsSn"
+      "duration_ms": 149233,
+      "name": "I Ain\u2019t Worried - Acoustic",
+      "url": "https://open.spotify.com/track/29kUiQdEvB9q7joHiYZNJ3"
     },
     {
       "added_at": "2023-04-13 15:00:00",
@@ -1195,6 +1191,26 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
+        "name": "Dear August",
+        "url": "https://open.spotify.com/album/6gaOMLivdMhiFaTuPqTmgj"
+      },
+      "artists": [
+        {
+          "name": "PJ Harding",
+          "url": "https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP"
+        },
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 200940,
+      "name": "Dear August",
+      "url": "https://open.spotify.com/track/16gW9O8A4rIMx5OOVlzsSn"
+    },
+    {
+      "added_at": "2023-04-13 15:00:00",
+      "album": {
         "name": "Anti-Hero (Acoustic Version)",
         "url": "https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 196473,
       "name": "Anti-Hero - Acoustic Version",
       "url": "https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F"
-    },
-    {
-      "added_at": "2023-04-13 15:00:00",
-      "album": {
-        "name": "I Ain\u2019t Worried - Acoustic (Music From The Motion Picture \"Top Gun: Maverick\")",
-        "url": "https://open.spotify.com/album/7lR2Xqpmvr2r05DQENflBG"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 149233,
-      "name": "I Ain\u2019t Worried - Acoustic",
-      "url": "https://open.spotify.com/track/29kUiQdEvB9q7joHiYZNJ3"
     },
     {
       "added_at": "2023-04-13 15:00:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
-        "name": "Heaven (Acoustic)",
-        "url": "https://open.spotify.com/album/2BVa3nSaQSubIwgKYEtXka"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 183644,
-      "name": "Heaven - Acoustic",
-      "url": "https://open.spotify.com/track/0DXmK0QaBycr8MpM52Kaeo"
-    },
-    {
-      "added_at": "2023-04-13 15:00:00",
-      "album": {
         "name": "Little Voice",
         "url": "https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 232760,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L"
+    },
+    {
+      "added_at": "2023-04-13 15:00:00",
+      "album": {
+        "name": "Heaven (Acoustic)",
+        "url": "https://open.spotify.com/album/2BVa3nSaQSubIwgKYEtXka"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 183644,
+      "name": "Heaven - Acoustic",
+      "url": "https://open.spotify.com/track/0DXmK0QaBycr8MpM52Kaeo"
     },
     {
       "added_at": "2023-04-13 15:00:00",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
-        "name": "Cover My Own (Acoustic)",
-        "url": "https://open.spotify.com/album/5mwu7jwvBkTcLuwLvdYAX4"
-      },
-      "artists": [
-        {
-          "name": "Old Sea Brigade",
-          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
-        }
-      ],
-      "duration_ms": 155050,
-      "name": "Tidal Wave - Acoustic",
-      "url": "https://open.spotify.com/track/4I7nXv6iqKh60sWMJdpUbN"
-    },
-    {
-      "added_at": "2023-04-13 15:00:00",
-      "album": {
         "name": "Bright Lights (Lights Re-pack / Bonus Version)",
         "url": "https://open.spotify.com/album/64Pv36CiG9rBcyvKnud02V"
       },
@@ -1519,18 +1503,18 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
-        "name": "Part Of The Light",
-        "url": "https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f"
+        "name": "Cover My Own (Acoustic)",
+        "url": "https://open.spotify.com/album/5mwu7jwvBkTcLuwLvdYAX4"
       },
       "artists": [
         {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
         }
       ],
-      "duration_ms": 296386,
-      "name": "Such A Simple Thing",
-      "url": "https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa"
+      "duration_ms": 155050,
+      "name": "Tidal Wave - Acoustic",
+      "url": "https://open.spotify.com/track/4I7nXv6iqKh60sWMJdpUbN"
     },
     {
       "added_at": "2023-04-13 15:00:00",
@@ -1551,18 +1535,18 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
-        "name": "The Ones We Once Loved",
-        "url": "https://open.spotify.com/album/0276LtRwBrOo2uoRlTOiPX"
+        "name": "Part Of The Light",
+        "url": "https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f"
       },
       "artists": [
         {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
         }
       ],
-      "duration_ms": 273362,
-      "name": "The Ones We Once Loved",
-      "url": "https://open.spotify.com/track/6YjKd9oPXKqjLUVPo4Y0oi"
+      "duration_ms": 296386,
+      "name": "Such A Simple Thing",
+      "url": "https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa"
     },
     {
       "added_at": "2023-04-13 15:00:00",
@@ -1583,18 +1567,18 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
-        "name": "Wasteland, Baby!",
-        "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
+        "name": "The Ones We Once Loved",
+        "url": "https://open.spotify.com/album/0276LtRwBrOo2uoRlTOiPX"
       },
       "artists": [
         {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
         }
       ],
-      "duration_ms": 266466,
-      "name": "Wasteland, Baby!",
-      "url": "https://open.spotify.com/track/1HYnjKqSSHh1tdl2Hi57zH"
+      "duration_ms": 273362,
+      "name": "The Ones We Once Loved",
+      "url": "https://open.spotify.com/track/6YjKd9oPXKqjLUVPo4Y0oi"
     },
     {
       "added_at": "2023-04-13 15:00:00",
@@ -1615,6 +1599,22 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
+        "name": "Wasteland, Baby!",
+        "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 266466,
+      "name": "Wasteland, Baby!",
+      "url": "https://open.spotify.com/track/1HYnjKqSSHh1tdl2Hi57zH"
+    },
+    {
+      "added_at": "2023-04-13 15:00:00",
+      "album": {
         "name": "Luck Of The Draw",
         "url": "https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf"
       },
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
-        "name": "All The Light Above It Too",
-        "url": "https://open.spotify.com/album/1a15dDOiwz5ebSxk1ZeFB5"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 210466,
-      "name": "Sunsets For Somebody Else",
-      "url": "https://open.spotify.com/track/41Az1BCotlAUt7Ud8k6H2Y"
-    },
-    {
-      "added_at": "2023-04-13 15:00:00",
-      "album": {
         "name": "Wild Love (Acoustic)",
         "url": "https://open.spotify.com/album/07NunjdVGPXs07aqNDiVVk"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 189146,
       "name": "Wild Love - Acoustic",
       "url": "https://open.spotify.com/track/4zDQS1OCghoOKkjw6hf2qT"
+    },
+    {
+      "added_at": "2023-04-13 15:00:00",
+      "album": {
+        "name": "All The Light Above It Too",
+        "url": "https://open.spotify.com/album/1a15dDOiwz5ebSxk1ZeFB5"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 210466,
+      "name": "Sunsets For Somebody Else",
+      "url": "https://open.spotify.com/track/41Az1BCotlAUt7Ud8k6H2Y"
     },
     {
       "added_at": "2023-04-13 15:00:00",

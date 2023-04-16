@@ -1,12 +1,12 @@
 {
   "description": "Get ready for good feels and fireworks!",
-  "num_followers": 132143,
+  "num_followers": 132142,
   "original_name": "4th of July Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Njk2NzU0MiwwMDAwMDAwMDRiYTYyMTE5MWFmYjlmZDk2NTllYjU4Y2ExMWY2YzA2",
+  "snapshot_id": "MTY1Njk2NzU0MiwwMDAwMDAwMDk4MDlmNmI4ZjdjZjNkNDhlY2ExNjcwZWE5ZDM0NjJk",
   "tracks": [
     {
       "added_at": "2022-07-04 20:41:30",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-07-04 20:41:30",
       "album": {
-        "name": "Voulez-Vous",
-        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 292613,
-      "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
-      "url": "https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6"
-    },
-    {
-      "added_at": "2022-07-04 20:41:30",
-      "album": {
         "name": "Second Helping (Expanded Edition)",
         "url": "https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 283800,
       "name": "Sweet Home Alabama",
       "url": "https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg"
+    },
+    {
+      "added_at": "2022-07-04 20:41:30",
+      "album": {
+        "name": "Voulez-Vous",
+        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 292613,
+      "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+      "url": "https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6"
     },
     {
       "added_at": "2022-07-04 20:41:30",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2022-07-04 20:41:30",
       "album": {
+        "name": "Sweet Caroline",
+        "url": "https://open.spotify.com/album/6RfgcwsOUlWkGNAd6zjjYd"
+      },
+      "artists": [
+        {
+          "name": "Neil Diamond",
+          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
+        }
+      ],
+      "duration_ms": 203573,
+      "name": "Sweet Caroline",
+      "url": "https://open.spotify.com/track/62AuGbAkt8Ox2IrFFb8GKV"
+    },
+    {
+      "added_at": "2022-07-04 20:41:30",
+      "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/1fpyVGMhF1vdl4XTFo1IH0"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 284733,
       "name": "American Boy",
       "url": "https://open.spotify.com/track/6etwirSInfuJrSOlogS6Sh"
-    },
-    {
-      "added_at": "2022-07-04 20:41:30",
-      "album": {
-        "name": "Sweet Caroline",
-        "url": "https://open.spotify.com/album/6RfgcwsOUlWkGNAd6zjjYd"
-      },
-      "artists": [
-        {
-          "name": "Neil Diamond",
-          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
-        }
-      ],
-      "duration_ms": 203573,
-      "name": "Sweet Caroline",
-      "url": "https://open.spotify.com/track/62AuGbAkt8Ox2IrFFb8GKV"
     },
     {
       "added_at": "2022-07-04 20:41:30",

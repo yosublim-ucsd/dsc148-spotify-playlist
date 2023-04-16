@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C7dIs.md) - [plain]
 
 > This is Nightwish\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,492 likes - 50 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,609 likes - 50 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,10 +15,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C7dIs.md) - [plain]
 | 5 | [Élan](https://open.spotify.com/track/5oAvb7LpUBwQfBtQ6hmS4Q) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Endless Forms Most Beautiful \(Deluxe Version\)](https://open.spotify.com/album/1tVEWlyn2nsAke3Lp7HoZ0) | 4:47 |
 | 6 | [The Phantom Of The Opera](https://open.spotify.com/track/2WmbbiWfFEKsSZe6E5GeVe) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Century Child](https://open.spotify.com/album/4FFDudC4xBVF6MYJUynRsN) | 4:08 |
 | 7 | [Nemo](https://open.spotify.com/track/6PkOmPMlH5nPFeoCPU0lo2) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Highest Hopes\-The Best Of Nightwish](https://open.spotify.com/album/2VjhAwhEZfKc0qMzgrc0Oj) | 4:33 |
-| 8 | [While Your Lips Are Still Red \- Theme from the Movie "Lieksa!"](https://open.spotify.com/track/3r3KRYYOFjNGD4OJB5ddam) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [The Sound of Nightwish Reborn](https://open.spotify.com/album/4A8TYBcOB8B2lIOlpU4k30) | 4:18 |
-| 9 | [Over The Hills And Far Away](https://open.spotify.com/track/4004xnMLj5QGxWvu6JPcJ7) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Over The Hills And Far Away](https://open.spotify.com/album/4sPRDVFW50ZnrKDlg9SwIG) | 5:02 |
+| 8 | [Over The Hills And Far Away](https://open.spotify.com/track/4004xnMLj5QGxWvu6JPcJ7) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Over The Hills And Far Away](https://open.spotify.com/album/4sPRDVFW50ZnrKDlg9SwIG) | 5:02 |
+| 9 | [Alpenglow](https://open.spotify.com/track/5UlVP9eewIYpqewZv6kToz) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Endless Forms Most Beautiful \(Deluxe Version\)](https://open.spotify.com/album/1tVEWlyn2nsAke3Lp7HoZ0) | 4:49 |
 | 10 | [End Of All Hope](https://open.spotify.com/track/3RqTWAc3noEuDS5B0BimD7) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Century Child](https://open.spotify.com/album/4FFDudC4xBVF6MYJUynRsN) | 3:53 |
-| 11 | [Alpenglow](https://open.spotify.com/track/5UlVP9eewIYpqewZv6kToz) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Endless Forms Most Beautiful \(Deluxe Version\)](https://open.spotify.com/album/1tVEWlyn2nsAke3Lp7HoZ0) | 4:49 |
+| 11 | [While Your Lips Are Still Red \- Theme from the Movie "Lieksa!"](https://open.spotify.com/track/3r3KRYYOFjNGD4OJB5ddam) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [The Sound of Nightwish Reborn](https://open.spotify.com/album/4A8TYBcOB8B2lIOlpU4k30) | 4:18 |
 | 12 | [Bye Bye Beautiful](https://open.spotify.com/track/6K03JHEberhdFjgZvFYcfs) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Dark Passion Play](https://open.spotify.com/album/33knvUBRR5ekNBrtLqQVTD) | 4:14 |
 | 13 | [How's the Heart?](https://open.spotify.com/track/6lkVbijlh932FSS2I0gDrR) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [HUMAN\. :II: NATURE.](https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li) | 5:02 |
 | 14 | [Ever Dream](https://open.spotify.com/track/5SNDGulFALe3DpSbuYarl7) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Century Child](https://open.spotify.com/album/4FFDudC4xBVF6MYJUynRsN) | 4:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C7dIs.md) - [plain]
 | 49 | [Escapist](https://open.spotify.com/track/66X2i4bMFJB9zGgff9gyzq) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Bye Bye Beautiful](https://open.spotify.com/album/4qomktB4Z9mQVPm42eEYwd) | 5:01 |
 | 50 | [7 Days to the Wolves \- Live, at Wembley, 2015](https://open.spotify.com/track/1SQlzlYlaMXvBphd1Z1nmD) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Vehicle of Spirit: Wembley Arena \(Live\)](https://open.spotify.com/album/1y6lNpSBJck5Fi0iRwHot1) | 7:11 |
 
-Snapshot ID: `MjgwMjQ4NTIsMDAwMDAwMDA4OTRjNzA2YWNhNGYzOWQ5MmRjNDI4NzAzODRlNGQyYw==`
+Snapshot ID: `MjgwMjYwMzEsMDAwMDAwMDBjODFjZGY1MWI4ZGJiYmY0YThjNzM5OWYwZGU2YzAyMA==`

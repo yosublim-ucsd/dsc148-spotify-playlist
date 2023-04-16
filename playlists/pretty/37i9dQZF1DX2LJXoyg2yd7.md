@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LJXoyg2yd7.md) - [plain]
 
 > The sweet sounds of Yemen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,649 likes - 40 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,675 likes - 40 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LJXoyg2yd7.md) - [plain]
 | 16 | [Eineik](https://open.spotify.com/track/2fIk79ZPj7BB8GCP3m1zl5) | [Arwa](https://open.spotify.com/artist/25vaZT076LoTTwM5BZ6Dmn) | [Eineik](https://open.spotify.com/album/2osFjuJ98QiX6TaJQKEQjs) | 6:06 |
 | 17 | [عاده صغير](https://open.spotify.com/track/6QJLJ7LhunlxbwkobbjJBx) | [Faysal Alawi](https://open.spotify.com/artist/4PRa5qwOK0FRxd0JnutD8x) | [يا بدر يا غصن](https://open.spotify.com/album/63qgOooIYqQ8bLuK4Xw4td) | 9:00 |
 | 18 | [Habibti](https://open.spotify.com/track/3ZK3sfXR0qal1vdu30AMcw) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Habibti](https://open.spotify.com/album/6rWsWm2XEgvvZens32Bl2C) | 4:44 |
-| 19 | [ياورد ياكاذي](https://open.spotify.com/track/2Q7LfXzspve6Iza70Itbak) | [Fouad Al Kabsy](https://open.spotify.com/artist/6FSA4cbJcVlF2rDwEdNmYJ) | [حفلة نجران](https://open.spotify.com/album/0Q6xLBvxom21S1iQ44yWD7) | 9:42 |
-| 20 | [Galow Ashyaa](https://open.spotify.com/track/65ZfHeY07AKmkSN1KzRZEW) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Galow Ashyaa](https://open.spotify.com/album/7Ca717RPn43npVbckSmQ4e) | 3:00 |
+| 19 | [Galow Ashyaa](https://open.spotify.com/track/65ZfHeY07AKmkSN1KzRZEW) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Galow Ashyaa](https://open.spotify.com/album/7Ca717RPn43npVbckSmQ4e) | 3:00 |
+| 20 | [ياورد ياكاذي](https://open.spotify.com/track/2Q7LfXzspve6Iza70Itbak) | [Fouad Al Kabsy](https://open.spotify.com/artist/6FSA4cbJcVlF2rDwEdNmYJ) | [حفلة نجران](https://open.spotify.com/album/0Q6xLBvxom21S1iQ44yWD7) | 9:42 |
 | 21 | [أنا اليماني](https://open.spotify.com/track/2crXyiPYfYTJrgU4i7a0FJ) | [Ammar Alazaki](https://open.spotify.com/artist/6TLBFfFm6S2e9lAL8eDkkR) | [أنا اليماني](https://open.spotify.com/album/4N6IOBbQyfPVD9sOC2s2TN) | 4:08 |
 | 22 | [غني غني](https://open.spotify.com/track/5470jMcakM58nZJGutrw81) | [عمار العزكي](https://open.spotify.com/artist/76ajZfqRS0o5xHT9L0Wz65) | [كلام أبيض](https://open.spotify.com/album/5BRl9OXmQmSj2R4FZE8qIE) | 4:25 |
 | 23 | [بديت تخون](https://open.spotify.com/track/0MObXyHSdlisHTUUIRoGPs) | [Arwa](https://open.spotify.com/artist/25vaZT076LoTTwM5BZ6Dmn) | [بديت تخون](https://open.spotify.com/album/4KVWYxFQ7eBaEuwdhpo09K) | 3:05 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LJXoyg2yd7.md) - [plain]
 | 35 | [جاء يدلع](https://open.spotify.com/track/1NQpWc80PagHGzfpuSvyJN) | [Sharaf Al Qaady](https://open.spotify.com/artist/1IdxbAEwj8rBjjtfxWUKLx) | [ليالي الانس, Vol\. 2](https://open.spotify.com/album/0FxgMbi7dnrzIsZtdu2Yzq) | 6:03 |
 | 36 | [يا جانيات العناقيد](https://open.spotify.com/track/3HIM2MSek0HBoMJU2HOnNQ) | [Yahya Rassam](https://open.spotify.com/artist/5i5MhtJPyyrHIAqT97DTPd) | [ليالي الانس, Vol\. 2](https://open.spotify.com/album/0FxgMbi7dnrzIsZtdu2Yzq) | 5:36 |
 | 37 | [يا مهاجر](https://open.spotify.com/track/3bBj0z4e5PSRKq9uIB8LGD) | [احمد العطاس](https://open.spotify.com/artist/6l0FoPSmxMITuwCK5GEQo1) | [يا مهاجر](https://open.spotify.com/album/1AhnOD0kXo4Nc3B0oMl7eJ) | 7:07 |
-| 38 | [يهددني](https://open.spotify.com/track/210bnFRVRTGdBJ1kt7DseV) | [Assala Al Majidi](https://open.spotify.com/artist/2pTl8ndSxB3HXTCkpyxD9D) | [يهددني](https://open.spotify.com/album/5La0nvvmt7Tcq2JZCs2gmE) | 3:02 |
-| 39 | [لي قلب اضناني](https://open.spotify.com/track/6b1ZwfUyHlNN1dBTSdFlvy) | [Sheikh Ahmed Al Hobaishi](https://open.spotify.com/artist/1DuhcPKBk1ulZQkWiN5smR) | [انا وقلبي](https://open.spotify.com/album/6kbIHqXGsQgrWzYsvKvKOJ) | 6:36 |
+| 38 | [يا متيم](https://open.spotify.com/track/7w7GSGMmMGFJa7jIXOkTXz) | [مروة سالم](https://open.spotify.com/artist/5T8HcA0hsPwLvdejz6NKJj) | [يا متيم \- Single](https://open.spotify.com/album/7dwA6hXAiRBvPG11tyAdwM) | 4:34 |
+| 39 | [يهددني](https://open.spotify.com/track/210bnFRVRTGdBJ1kt7DseV) | [Assala Al Majidi](https://open.spotify.com/artist/2pTl8ndSxB3HXTCkpyxD9D) | [يهددني](https://open.spotify.com/album/5La0nvvmt7Tcq2JZCs2gmE) | 3:02 |
 | 40 | [سهران ليلي طويل](https://open.spotify.com/track/5JznYp6lPkay71CMMlioYN) | [Yousef Al Badgi](https://open.spotify.com/artist/3VNIVCXWZ65vQQvNwM5YvQ) | [يستر عليك](https://open.spotify.com/album/0OGrM2ovZPZb11Lrws7Mqq) | 5:29 |
 
-Snapshot ID: `MTY1ODkxMzUxNiwwMDAwMDAwMDZlZjM0YzBiZGZiYWYwMjg3OGJlNjE5NTViZThkMDU3`
+Snapshot ID: `MTY1ODkxMzUxNiwwMDAwMDAwMGE1MjY5YWNhNGQ4YjJhYTVlMzkzNGRkZmQwNGFlZGNk`

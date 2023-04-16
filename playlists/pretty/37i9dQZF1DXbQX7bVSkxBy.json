@@ -1,12 +1,12 @@
 {
   "description": "Raise a voice and testify with Nigerian gospel music.  Cover: Mercy Chinwo",
-  "num_followers": 353,
+  "num_followers": 449,
   "original_name": "Testify",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ5MDUzMywwMDAwMDAwMDg2OWJmYTBjNzM0OTNhNjg0ZTU2YzUyOGQ5ZmIzMjA4",
+  "snapshot_id": "MTY4MTQ5MDUzMywwMDAwMDAwMDkwM2M0OGFhYTMyZGIxNGFjNmM5Y2M4MTBkMGRiM2M3",
   "tracks": [
     {
       "added_at": "2023-04-14 16:42:13",
@@ -215,22 +215,18 @@
     {
       "added_at": "2023-04-14 16:42:13",
       "album": {
-        "name": "Nara",
-        "url": "https://open.spotify.com/album/24dR45SETUfw44qynSI732"
+        "name": "The Glory Experience (Live In Houston)",
+        "url": "https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ"
       },
       "artists": [
         {
-          "name": "Tim Godfrey",
-          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
-        },
-        {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+          "name": "Uche Agu",
+          "url": "https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj"
         }
       ],
-      "duration_ms": 296320,
-      "name": "Nara",
-      "url": "https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0"
+      "duration_ms": 148146,
+      "name": "My God Is Good - Double Double Remix/Live",
+      "url": "https://open.spotify.com/track/3ya7LWyudZ1kv04IwmBGes"
     },
     {
       "added_at": "2023-04-14 16:42:13",
@@ -251,18 +247,22 @@
     {
       "added_at": "2023-04-14 16:42:13",
       "album": {
-        "name": "The Glory Experience (Live In Houston)",
-        "url": "https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ"
+        "name": "Nara",
+        "url": "https://open.spotify.com/album/24dR45SETUfw44qynSI732"
       },
       "artists": [
         {
-          "name": "Uche Agu",
-          "url": "https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj"
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
         }
       ],
-      "duration_ms": 148146,
-      "name": "My God Is Good - Double Double Remix/Live",
-      "url": "https://open.spotify.com/track/3ya7LWyudZ1kv04IwmBGes"
+      "duration_ms": 296320,
+      "name": "Nara",
+      "url": "https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0"
     },
     {
       "added_at": "2023-04-14 16:42:13",
@@ -339,6 +339,22 @@
     {
       "added_at": "2023-04-14 16:42:13",
       "album": {
+        "name": "The Glory Experience (Live In Houston)",
+        "url": "https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ"
+      },
+      "artists": [
+        {
+          "name": "Uche Agu",
+          "url": "https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj"
+        }
+      ],
+      "duration_ms": 298306,
+      "name": "Most High - African Worship Medley/Live",
+      "url": "https://open.spotify.com/track/4BvbY6pmXzt0S895doZv9y"
+    },
+    {
+      "added_at": "2023-04-14 16:42:13",
+      "album": {
         "name": "Born of God",
         "url": "https://open.spotify.com/album/1IkGtT3gU6fHxhqRVL6inf"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 294053,
       "name": "Congratulations",
       "url": "https://open.spotify.com/track/1aNryETX3dSY4A0M8BIqPE"
-    },
-    {
-      "added_at": "2023-04-14 16:42:13",
-      "album": {
-        "name": "The Glory Experience (Live In Houston)",
-        "url": "https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ"
-      },
-      "artists": [
-        {
-          "name": "Uche Agu",
-          "url": "https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj"
-        }
-      ],
-      "duration_ms": 298306,
-      "name": "Most High - African Worship Medley/Live",
-      "url": "https://open.spotify.com/track/4BvbY6pmXzt0S895doZv9y"
     },
     {
       "added_at": "2023-04-14 16:42:13",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-04-14 16:42:13",
       "album": {
-        "name": "Under The Canopy",
-        "url": "https://open.spotify.com/album/0m4KXfassO1hsCsQBnQBkb"
-      },
-      "artists": [
-        {
-          "name": "Frank Edwards",
-          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
-        }
-      ],
-      "duration_ms": 313175,
-      "name": "Under The Canopy",
-      "url": "https://open.spotify.com/track/59SR0FpZzENp1Xa5yXExzW"
-    },
-    {
-      "added_at": "2023-04-14 16:42:13",
-      "album": {
         "name": "Daddy Wey Dey Pamper (Special Version)",
         "url": "https://open.spotify.com/album/7MoXTFv7bTm0g5moOX0Tz2"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 287739,
       "name": "Daddy Wey Dey Pamper - Special Version",
       "url": "https://open.spotify.com/track/21K28NfxP5PJQcCdxtbOpL"
+    },
+    {
+      "added_at": "2023-04-14 16:42:13",
+      "album": {
+        "name": "Under The Canopy",
+        "url": "https://open.spotify.com/album/0m4KXfassO1hsCsQBnQBkb"
+      },
+      "artists": [
+        {
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
+        }
+      ],
+      "duration_ms": 313175,
+      "name": "Under The Canopy",
+      "url": "https://open.spotify.com/track/59SR0FpZzENp1Xa5yXExzW"
     },
     {
       "added_at": "2023-04-14 16:42:13",

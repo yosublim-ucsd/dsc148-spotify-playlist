@@ -710,7 +710,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-07",
+      "date_removed": null,
       "duration_ms": 140351,
       "name": "All About You",
       "url": "https://open.spotify.com/track/7IoKlG2BoBWUgL34Gw5Dnz"
@@ -3669,6 +3669,24 @@
     },
     {
       "album": {
+        "name": "Chemical",
+        "url": "https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184013,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
+    },
+    {
+      "album": {
         "name": "Chop (Nouvelle \u00c9cole)",
         "url": "https://open.spotify.com/album/2vAVFfoAjUMrDpXtcYhp5U"
       },
@@ -3818,6 +3836,24 @@
       "duration_ms": 123002,
       "name": "Chromosom",
       "url": "https://open.spotify.com/track/1pxWHJuBJNCJPhj7biFzbN"
+    },
+    {
+      "album": {
+        "name": "Pa' Que Lo Bailen y Se Lo Gocen",
+        "url": "https://open.spotify.com/album/5ki5JQdAfF5pRqxoWq3DI3"
+      },
+      "artists": [
+        {
+          "name": "Choz",
+          "url": "https://open.spotify.com/artist/46Fkupvzvf427AZ9gv0Xku"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227036,
+      "name": "Chubaruba",
+      "url": "https://open.spotify.com/track/5wMW0moRVTLGOOege0iFVQ"
     },
     {
       "album": {
@@ -4032,7 +4068,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-07",
+      "date_removed": null,
       "duration_ms": 192213,
       "name": "COEUR DE ICE (feat. Damso)",
       "url": "https://open.spotify.com/track/7jbu9k6w67hWlhSinmGT3c"
@@ -4814,6 +4850,24 @@
       "duration_ms": 187342,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/69w5X6uTrOaWM32IetSzvO"
+    },
+    {
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212953,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
     },
     {
       "album": {
@@ -11772,7 +11826,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 192631,
       "name": "Lua",
       "url": "https://open.spotify.com/track/7BELSQR2lAJLELaKvVkct3"
@@ -16755,6 +16809,28 @@
     },
     {
       "album": {
+        "name": "Say Something",
+        "url": "https://open.spotify.com/album/4Vcp79MAJWdKueWiG9xBOd"
+      },
+      "artists": [
+        {
+          "name": "Waynewood",
+          "url": "https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ"
+        },
+        {
+          "name": "JavyDade",
+          "url": "https://open.spotify.com/artist/5x2MghffUs9Ypcb9pOsrWH"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188280,
+      "name": "Say Something",
+      "url": "https://open.spotify.com/track/4RaudxrJWcOHElbD8u8RBh"
+    },
+    {
+      "album": {
         "name": "SCHMETTERLING",
         "url": "https://open.spotify.com/album/5g5MrW0VTQxK0wa7Tnn1al"
       },
@@ -19438,7 +19514,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-26",
+      "date_removed": null,
       "duration_ms": 167933,
       "name": "TOUTE LA JOURN\u00c9E (feat. Tiakola)",
       "url": "https://open.spotify.com/track/6QPFWJJLKKPjnwRQJ1OwSC"

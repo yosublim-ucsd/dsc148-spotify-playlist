@@ -4,7 +4,7 @@
 
 > love peace techno
 
-64 songs - 4 hr 54 min
+65 songs - 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Heute Nacht](https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Heute Nacht](https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82) | 3:24 | 2023-03-10 |  |
 | [How I Fell in Love](https://open.spotify.com/track/2wUmENDPjBtgNvP2XmnRr7) | [Ch4yn](https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU) | [How I Fell in Love](https://open.spotify.com/album/461FLD6OW9OextuRH70VKF) | 1:52 | 2023-04-06 |  |
 | [I Am Machine](https://open.spotify.com/track/7A8ec8nBw1BEwGgdSL5H90) | [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD), [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [I Am Machine](https://open.spotify.com/album/3m4demyPqalmJXRsKInCKi) | 6:17 | 2023-03-10 |  |
-| [Italo Disco](https://open.spotify.com/track/7BnlmCIxJ9PKojxusCrgDB) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Backseat Tape](https://open.spotify.com/album/3vjULlZhcatjZgSREPs3V1) | 3:18 | 2023-03-10 |  |
+| [Italo Disco](https://open.spotify.com/track/42H7zXATS1GpuFGawmNKqU) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Backseat Tape](https://open.spotify.com/album/3kukhQjrtZcMNL43oLBedf) | 3:18 | 2023-04-06 |  |
+| [Italo Disco](https://open.spotify.com/track/7BnlmCIxJ9PKojxusCrgDB) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Backseat Tape](https://open.spotify.com/album/3vjULlZhcatjZgSREPs3V1) | 3:18 | 2023-03-10 | 2023-04-16 |
 | [JE N'EXISTE PAS](https://open.spotify.com/track/25xqUhCDGyJejMANoigvrI) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [ULTRAKUNST](https://open.spotify.com/album/1OegF0mIizsl36EVw1y1SW) | 4:40 | 2023-04-06 |  |
 | [Jet Plane](https://open.spotify.com/track/7c87NBp808HkgxfDzQCs4j) | [Gusted](https://open.spotify.com/artist/2BRM24K0fU89hsKIZZXeuZ) | [Jet Plane](https://open.spotify.com/album/0hax7oeHg8KrpWqwEsJayV) | 3:02 | 2023-03-10 |  |
 | [Keine Liebe, Kein Rave](https://open.spotify.com/track/0UkGdrKm6PaVCxTwPzP2xX) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Kiki Solvej](https://open.spotify.com/artist/3REA7BOURYizezV7PGQJEW) | [Keine Liebe, Kein Rave](https://open.spotify.com/album/2iL5gzdjVQsTsUI7i8KxDq) | 4:20 | 2023-03-21 |  |

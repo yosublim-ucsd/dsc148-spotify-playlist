@@ -2381,6 +2381,40 @@
     },
     {
       "album": {
+        "name": "Elevation (Paul Woolford Remix)",
+        "url": "https://open.spotify.com/album/3B9oGr5gd5u2VDkHVuM44X"
+      },
+      "artists": [
+        {
+          "name": "Braxe + Falcon",
+          "url": "https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA"
+        },
+        {
+          "name": "Paul Woolford",
+          "url": "https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV"
+        },
+        {
+          "name": "Sunni Col\u00f3n",
+          "url": "https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2"
+        },
+        {
+          "name": "Alan Braxe",
+          "url": "https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW"
+        },
+        {
+          "name": "DJ Falcon",
+          "url": "https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192078,
+      "name": "Elevation - Paul Woolford Remix Edit",
+      "url": "https://open.spotify.com/track/7tW66gGa6fIo8DluDWANKN"
+    },
+    {
+      "album": {
         "name": "Empty Heavy",
         "url": "https://open.spotify.com/album/5KyOCe2mY9u322n5DvfJJv"
       },

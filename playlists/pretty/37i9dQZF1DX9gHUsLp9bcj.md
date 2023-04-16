@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gHUsLp9bcj.md) - [plain]
 
 > This is the Latin soundtrack of the 50s! Cover:  Pérez Prado
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,614 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,648 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gHUsLp9bcj.md) - [plain]
 | 47 | [El agarrao \- Remastered](https://open.spotify.com/track/1D8odg3YqpBNDPL9pIx5ql) | [Benny Moré](https://open.spotify.com/artist/4cnQXgOckSZPIh3YhB500P) | [Cienfuegos \(Remastered\)](https://open.spotify.com/album/53cadHSNf6jX0PLCeet7Fc) | 2:41 |
 | 48 | [Cuban Nightmare](https://open.spotify.com/track/66QFXwU9ctm6PiiBqJrSZV) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Hoy y Ayer](https://open.spotify.com/album/1Gg0LMPxbrR8SCXtAMveyG) | 3:03 |
 | 49 | [Somos \(Bolero\) \- Remastered](https://open.spotify.com/track/4vYLtJruIsptXIberxsgWM) | [Antonio Machín](https://open.spotify.com/artist/30iuQTTr3l7QihN6KKgJrG) | [Antonio Machin, Vol\. 3 \(1947\-1950 Remastered\)](https://open.spotify.com/album/6E45UvcXJk3sZNrisgRLho) | 3:07 |
-| 50 | [Yo](https://open.spotify.com/track/7E94RnuinkUBYSengvutwL) | [Andrés Huesca](https://open.spotify.com/artist/1orgmwm2zOE5T4HJQWOuAt) | [México 100 Canciones Vintage](https://open.spotify.com/album/20OYDA6NCIXxUFuprskMbd) | 3:07 |
+| 50 | [Soy Feliz](https://open.spotify.com/track/6kzdmSs9Kmx4p3CXO5ydCE) | [María Victoria](https://open.spotify.com/artist/2ZaGoLikmuGjY9tFEFQ14o) | [María Victoria](https://open.spotify.com/album/64Rwiu8nkPZQpvhuHFwx6i) | 3:31 |
 
-Snapshot ID: `MTY3NjY2NzM5NSwwMDAwMDAwMDVkY2FmZDE5OWI2MTI3YjViNGQ4YjVhY2JjYWMxN2Zk`
+Snapshot ID: `MTY3NjY2NzM5NSwwMDAwMDAwMGYwZGZhOGJmM2I5YzVlZGEzN2VmMmMzMGJkN2Q3ZjUy`

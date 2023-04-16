@@ -4,7 +4,7 @@
 
 > \*vibing in desi\*
 
-143 songs - 8 hr 10 min
+144 songs - 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [Kabhii Tumhhe \- Lofi Flip](https://open.spotify.com/track/1Bd027R0spghop0PUwgjyN) | [VIBIE](https://open.spotify.com/artist/1btklM4yoTaKiVjLodLrOh), [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8) | [Kabhii Tumhhe \(Lofi Flip\)](https://open.spotify.com/album/2HKpGKHLutpacZeAKA4izG) | 3:37 | 2023-01-16 |  |
 | [Kal Ho Naa Ho \- Lofi Flip](https://open.spotify.com/track/126qPRASiPpi9l0o0WtBvg) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [KSW](https://open.spotify.com/artist/2GhRzK7XzixKuZYEEfUkBR) | [Kal Ho Naa Ho \(Lofi Flip\)](https://open.spotify.com/album/1SYu377JUJukIdIcNLjGwP) | 4:56 | 2022-05-27 |  |
 | [Kal Ho Naa Ho Is Lofi \- Lofi Flip](https://open.spotify.com/track/3K31fQHoeSdEISeaAw9OAg) | [Hasu](https://open.spotify.com/artist/0EqUVntjnRIFC0sai2OK0s), [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ) | [Kal Ho Naa Ho Is Lofi \(Lofi Flip\)](https://open.spotify.com/album/50M3biwISm8dNQNbymmUPY) | 2:53 | 2022-05-27 |  |
-| [Kali Kali Zulfon Ke \(Lo\-Fi\)](https://open.spotify.com/track/7oN0Wo7sCVvXPdpxoio3JM) | [Madhur Sharma](https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ) | [Kali Kali Zulfon Ke \(Lo\-Fi\)](https://open.spotify.com/album/6pbaTBzAT23yL5xJxJfiFR) | 1:17 | 2022-10-24 |  |
+| [Kali Kali Zulfon Ke \(Lo\-Fi\)](https://open.spotify.com/track/7oN0Wo7sCVvXPdpxoio3JM) | [Madhur Sharma](https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ) | [Kali Kali Zulfon Ke \(Lo\-Fi\)](https://open.spotify.com/album/6pbaTBzAT23yL5xJxJfiFR) | 1:17 | 2022-10-24 | 2023-04-16 |
+| [Kali Kali Zulfon Ke \(Lo\-Fi\)](https://open.spotify.com/track/3mUkVsovIuscQlSoMhmAZt) | [Madhur Sharma](https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ), [Swapnil Tare](https://open.spotify.com/artist/16023OFrIxSmKOMpIVJ6Ax), [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Kali Kali Zulfon Ke \(Lo\-Fi\)](https://open.spotify.com/album/1zLlgNA1tyiabDhDwWhyPG) | 1:17 | 2023-01-23 |  |
 | [Karachi](https://open.spotify.com/track/3uaVvPwx0OEEmCmI4f22PI) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv) | [Cookie](https://open.spotify.com/album/5JkjCmyossmwy8kL2FRxgP) | 2:52 | 2022-05-27 | 2023-01-17 |
 | [Kaun Hoon Main \- Lofi Mix](https://open.spotify.com/track/6UhC6fBIFkIwkVd5RgcuAG) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Kaun Hoon Main \- Lofi Mix](https://open.spotify.com/album/3vrp8PD7Hkot3abmIc2oAz) | 3:11 | 2022-05-27 |  |
 | [Kesariya \- Lofi Flip](https://open.spotify.com/track/7nsjBUVRQTUEvCReXAtVPi) | [VIBIE](https://open.spotify.com/artist/1btklM4yoTaKiVjLodLrOh), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Kesariya \(Lofi Flip\)](https://open.spotify.com/album/1b5dv6YOO0glGJLoCBv8Le) | 4:00 | 2023-01-16 |  |

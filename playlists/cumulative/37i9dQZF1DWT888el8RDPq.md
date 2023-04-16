@@ -4,7 +4,7 @@
 
 > ☀️
 
-293 songs - 14 hr 47 min
+295 songs - 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [edamame \(feat\. Rich Brian\)](https://open.spotify.com/track/1uMHCAyGmHqyygoNRuo7MV) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [edamame \(feat\. Rich Brian\)](https://open.spotify.com/album/1YrACh9xDRGpjrkdWz4MfP) | 2:13 | 2022-05-06 |  |
 | [Effe](https://open.spotify.com/track/56nvQibJaC1V84wVMqA3Ck) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [Untouchable](https://open.spotify.com/album/3qfHiYzq7kiJ1JkyCXNGMC) | 2:31 | 2022-05-06 | 2022-06-10 |
 | [Electric Love](https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 3:38 | 2022-05-23 | 2022-09-24 |
-| [Escapism\. \- Sped Up](https://open.spotify.com/track/4rPJSqrov3zqGwXlemLBMw) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. \(Sped Up\)](https://open.spotify.com/album/1bdKI997loh6G68NED2cwX) | 3:59 | 2023-03-06 |  |
+| [Escapism\. \- Sped Up](https://open.spotify.com/track/4rPJSqrov3zqGwXlemLBMw) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. \(Sped Up\)](https://open.spotify.com/album/1bdKI997loh6G68NED2cwX) | 3:59 | 2023-03-06 | 2023-04-16 |
 | [FAKE](https://open.spotify.com/track/5nupdztXGdF3PWWwad581p) | [Angie](https://open.spotify.com/artist/7vFaBCvPdgAsrWJiv5NI3Z) | [FAKE](https://open.spotify.com/album/3qIvTuL9WllXp4QBsoREz0) | 2:47 | 2022-05-27 | 2022-05-29 |
 | [Fast Times](https://open.spotify.com/track/0oN3KzKOxYtyIuNiobf8Q4) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Fast Times](https://open.spotify.com/album/2rR0wpBcmvYpxQd77BWShd) | 2:54 | 2022-05-06 | 2022-07-29 |
 | [Feel Good Inc.](https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 3:42 | 2022-07-26 | 2022-09-24 |
@@ -134,7 +134,8 @@
 | [GUY.exe](https://open.spotify.com/track/3JTjLyrnevl9ASw3ayGO2P) | [Superfruit](https://open.spotify.com/artist/50VoYemccTaftNfFqWtlXd) | [Future Friends](https://open.spotify.com/album/0Nq4Sve58GRDINSpbFMyz6) | 3:42 | 2022-05-27 | 2022-09-10 |
 | [Happiness \(Dance Floor Edit\)](https://open.spotify.com/track/34Tmk8gwlRRegVVZDRxXxk) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Happiness](https://open.spotify.com/album/4KfzkkK3Gt2Ux5A2AVoTK8) | 3:55 | 2022-10-13 | 2022-10-22 |
 | [Head on Fire](https://open.spotify.com/track/6QLNcOI6YCqdLAS6GLWXMj) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff), [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Head on Fire](https://open.spotify.com/album/4M4Ekef97nQCzxxxC7z6hg) | 3:08 | 2022-05-13 | 2022-10-22 |
-| [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 | 2022-05-06 |  |
+| [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 | 2022-05-06 | 2023-04-16 |
+| [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 | 2023-03-31 |  |
 | [High Hopes](https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 3:10 | 2022-07-26 |  |
 | [Hit the Road Jack](https://open.spotify.com/track/5dUMh0ugelpKfoFp3qChuK) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [True Genius](https://open.spotify.com/album/7gvxyetkX6vkoMyDkDM6ls) | 1:59 | 2022-11-08 | 2023-03-23 |
 | [Homage](https://open.spotify.com/track/7DcJ6fEBb7BaKuYKTwiDxK) | [Mild High Club](https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG) | [Skiptracing](https://open.spotify.com/album/6O9YDn12I4WQxUBQE9tpnN) | 2:57 | 2022-10-21 | 2022-11-08 |
@@ -194,6 +195,7 @@
 | [Long Drives](https://open.spotify.com/track/2jDrRaea7deXVEt4JmpvBU) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Long Drives](https://open.spotify.com/album/0Mpe1VWJDZ5FxbZlE1nUaU) | 2:39 | 2022-05-06 | 2022-07-29 |
 | [LOOP](https://open.spotify.com/track/2aZPrpx4DXJUxg201ORkbH) | [STO CULTR](https://open.spotify.com/artist/3rxaya7knZ0iL2myO6CX6G) | [LOOP](https://open.spotify.com/album/0KySGmKkbdpvZu8HURouK4) | 2:41 | 2022-07-05 | 2022-07-29 |
 | [Lost](https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:54 | 2022-05-06 | 2022-09-24 |
+| [Lost The Breakup](https://open.spotify.com/track/13SfKfixPEDQBOYYtaY3Wh) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Lost The Breakup](https://open.spotify.com/album/60trS6aUorLG5ZBi1bWcz8) | 3:09 | 2023-03-31 |  |
 | [Love Grows \(Where My Rosemary Goes\)](https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh) | [Edison Lighthouse](https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa) | [Love Grows \(Where My Rosemary Goes\) & Other Gems](https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y) | 2:54 | 2022-05-06 |  |
 | [Loverboy](https://open.spotify.com/track/3CboywxfJIgvHqi2FF4exb) | [A\-Wall](https://open.spotify.com/artist/56OjNTX2bkrdGcB0staUOV) | [Loverboy](https://open.spotify.com/album/1K1loWZRyk1Dtk5zIy4qjx) | 3:44 | 2022-05-06 | 2022-08-30 |
 | [MADE IN ITALY](https://open.spotify.com/track/35BICD5dEJLVicj9cV0jhe) | [Rosa Chemical](https://open.spotify.com/artist/5gYADZXuZoaJwrwfAPbKuH), [Bdope](https://open.spotify.com/artist/3SGb7Dlm2pmV7qIQHUzRtB) | [MADE IN ITALY](https://open.spotify.com/album/0miArJPcQRJwlfZ6OGs2WJ) | 2:58 | 2023-03-06 |  |

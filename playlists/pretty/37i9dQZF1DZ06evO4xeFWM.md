@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 
 > This is Bastille\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,290 likes - 52 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,332 likes - 52 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 | 14 | [Happier \- Breathe Carolina Remix](https://open.spotify.com/track/31OqWK8Lc6GnUbnLG3GqPX) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC) | [Happier \(Remixes\)](https://open.spotify.com/album/16M1uToqnw9bPO8wv8ypeE) | 2:38 |
 | 15 | [Back To The Future](https://open.spotify.com/track/2i6j4kdRKZV4Y62I2bD1QC) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Give Me The Future](https://open.spotify.com/album/2Jxhndt77Zu0Y5TVXM37ho) | 2:53 |
 | 16 | [Of The Night](https://open.spotify.com/track/7BNDyzwDboNRR2wmd7GSew) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:34 |
-| 17 | [Another Place](https://open.spotify.com/track/2Fn4gZI3MAeWTiv7cSVxZQ) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Another Place](https://open.spotify.com/album/3PshhNStqCBXDzWm5O1VsE) | 3:33 |
-| 18 | [Send Them Off!](https://open.spotify.com/track/4Wg7VfvO7NVG57R8cSPDQG) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \(Complete Edition\)](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 3:20 |
+| 17 | [Send Them Off!](https://open.spotify.com/track/4Wg7VfvO7NVG57R8cSPDQG) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \(Complete Edition\)](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 3:20 |
+| 18 | [Another Place](https://open.spotify.com/track/2Fn4gZI3MAeWTiv7cSVxZQ) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Another Place](https://open.spotify.com/album/3PshhNStqCBXDzWm5O1VsE) | 3:33 |
 | 19 | [Things We Lost In The Fire](https://open.spotify.com/track/3pm1X3oQBKQ4vcp3i9PWRg) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Bad Blood](https://open.spotify.com/album/1jUoeAbO2HCADZ1uiyLYIo) | 4:00 |
 | 20 | [Flaws](https://open.spotify.com/track/14qPtxNN9MBdqKpP6l5q6G) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:38 |
 | 21 | [Hope For The Future](https://open.spotify.com/track/4fpypp2U7V67RvzEJxXYe9) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Give Me The Future + Dreams Of The Past](https://open.spotify.com/album/2dssFgPLHm6Y1mINk3JNJ8) | 3:32 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 | 51 | [Eight Hours](https://open.spotify.com/track/5rO5unCSIjPlKdwNxroqcx) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Tyde](https://open.spotify.com/artist/0chEYcnxOGTcwHRfmoEOYH) | [Give Me The Future + Dreams Of The Past](https://open.spotify.com/album/2dssFgPLHm6Y1mINk3JNJ8) | 3:28 |
 | 52 | [The Waves](https://open.spotify.com/track/38eQsWZeCAyYFB6d2lO94G) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Doom Days](https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF) | 4:00 |
 
-Snapshot ID: `MjgwMjQ4NTIsMDAwMDAwMDBmNDg4MTFiMWU3OTViZGYzNGE2ZTVmZWNmNzI1MWVjYw==`
+Snapshot ID: `MjgwMjYwMzEsMDAwMDAwMDBiNmM1NWZhNGQ1MDYxMzA5N2FlYWVmZjNmMzJkNTBhOA==`

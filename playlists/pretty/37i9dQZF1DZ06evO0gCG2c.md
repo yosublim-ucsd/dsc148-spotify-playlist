@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 
 > This is Akon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,381 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,455 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 | 30 | [Baby, I'm Back](https://open.spotify.com/track/00da5UpHHr2CcmAedVX3Be) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Super Saucy](https://open.spotify.com/album/3PVZuZnUTxhpUN7T5A4O5x) | 3:39 |
 | 31 | [Enjoy That](https://open.spotify.com/track/1r3YLVQ9Tdc8edwu5NtbX2) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Enjoy That](https://open.spotify.com/album/3y1EcdsfzSNGRDEKHQcagK) | 3:03 |
 | 32 | [Sweetest Girl \(Dollar Bill\) \(feat\. Akon, Lil' Wayne & Niia\)](https://open.spotify.com/track/4liGjmhCupa7RP9JaQELYx) | [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Niia](https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx) | [Sweetest Girl \(Dollar Bill\) \(feat\. Akon, Lil' Wayne & Niia\)](https://open.spotify.com/album/347NJqwpdmSrkTE7F2IlaZ) | 4:01 |
-| 33 | [Good Girl](https://open.spotify.com/track/2Z7ulQhQLbZJYyk6U2unUK) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Good Girl](https://open.spotify.com/album/5S93JhNP9BcdtAgcCxAOLt) | 3:28 |
+| 33 | [I Just Had Sex](https://open.spotify.com/track/5PEleSkK4p4E1sx3x7cOLt) | [The Lonely Island](https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Turtleneck & Chain \(Explicit Version\)](https://open.spotify.com/album/4IMJWEfkidwtzLanLMAtLP) | 2:46 |
 | 34 | [Sexy Chick \(feat\. Akon\)](https://open.spotify.com/track/4MKzCHlZvkwJOQRNkdw4zq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [One More Love](https://open.spotify.com/album/5bRrEsH3Mjl8O0lpUgdIHI) | 3:14 |
-| 35 | [I Just Had Sex](https://open.spotify.com/track/5PEleSkK4p4E1sx3x7cOLt) | [The Lonely Island](https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Turtleneck & Chain \(Explicit Version\)](https://open.spotify.com/album/4IMJWEfkidwtzLanLMAtLP) | 2:46 |
+| 35 | [Good Girl](https://open.spotify.com/track/2Z7ulQhQLbZJYyk6U2unUK) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Good Girl](https://open.spotify.com/album/5S93JhNP9BcdtAgcCxAOLt) | 3:28 |
 | 36 | [Snitch](https://open.spotify.com/track/02rlDATSROFtjqmvs1dBKr) | [Obie Trice](https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Second Rounds On Me](https://open.spotify.com/album/7liAJFeMLT5QihsB9MhAh5) | 4:01 |
 | 37 | [I'm So Paid](https://open.spotify.com/track/5264rU21ndum3CYYaSGUUm) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [Freedom](https://open.spotify.com/album/7EZP6OSbWvMZTrEmlBt1HX) | 4:23 |
 | 38 | [Boss' Life](https://open.spotify.com/track/4UprL40OVADveANAtCNrIa) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Tha Blue Carpet Treatment](https://open.spotify.com/album/5EyEI8tm60S6y2YKbjE0xI) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 | 49 | [Like I Never Left \(feat\. Akon\)](https://open.spotify.com/track/5qIB8RslPO78tG7S9SN3FX) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [I Look To You](https://open.spotify.com/album/1MwwtYFk7ow6Bn0S98VW0A) | 3:49 |
 | 50 | [Troublemaker](https://open.spotify.com/track/0O3vchDpKl6jbS8hvnd2fD) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Sweet Rush](https://open.spotify.com/artist/6VWF2yvImHN0qwgLPzeJm1) | [Freedom](https://open.spotify.com/album/3BHAzidZ03EjVE7ncqyn0M) | 3:57 |
 
-Snapshot ID: `MjgwMjQ4NTIsMDAwMDAwMDBkNTFmODJlOGU0YWIwOTE4MTNkMDg0ZTY5NjU2MzFmYQ==`
+Snapshot ID: `MjgwMjYwMzEsMDAwMDAwMDA0MWQ3OTcyODc5N2QzMTE4ZTgyNTIxMTc3MDZmM2UzMg==`

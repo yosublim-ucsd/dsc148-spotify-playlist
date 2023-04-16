@@ -1,12 +1,12 @@
 {
   "description": "Back to the golden age of the scene. Cover: The Used",
-  "num_followers": 384507,
+  "num_followers": 384847,
   "original_name": "Chaos Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDAxOTIzMiwwMDAwMDAwMDU3Njg5NTQyMzA3NzFmZWIyYjFmY2FhNjUxODY0ZWI0",
+  "snapshot_id": "MTY4MDAxOTIzMiwwMDAwMDAwMDkyOTU3MzYyZjA2MzRjNjU1M2QyMDBjMTlhNzcxNTcw",
   "tracks": [
     {
       "added_at": "2023-03-20 09:14:23",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-03-20 09:14:23",
       "album": {
-        "name": "In Keeping Secrets Of Silent Earth: 3",
-        "url": "https://open.spotify.com/album/2oWXmi9uLRKn60yRmY22MB"
-      },
-      "artists": [
-        {
-          "name": "Coheed and Cambria",
-          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
-        }
-      ],
-      "duration_ms": 234706,
-      "name": "A Favor House Atlantic",
-      "url": "https://open.spotify.com/track/4KliQFRlvNKnlVYzMMbSMq"
-    },
-    {
-      "added_at": "2023-03-20 09:14:23",
-      "album": {
         "name": "Tell All Your Friends (Remastered)",
         "url": "https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 181336,
       "name": "You're So Last Summer - Remastered",
       "url": "https://open.spotify.com/track/0cY6CAgB5wShSOTT3lQl2t"
+    },
+    {
+      "added_at": "2023-03-20 09:14:23",
+      "album": {
+        "name": "In Keeping Secrets Of Silent Earth: 3",
+        "url": "https://open.spotify.com/album/2oWXmi9uLRKn60yRmY22MB"
+      },
+      "artists": [
+        {
+          "name": "Coheed and Cambria",
+          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
+        }
+      ],
+      "duration_ms": 234706,
+      "name": "A Favor House Atlantic",
+      "url": "https://open.spotify.com/track/4KliQFRlvNKnlVYzMMbSMq"
     },
     {
       "added_at": "2023-03-20 09:14:23",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-03-20 09:14:23",
       "album": {
-        "name": "I Brought You My Bullets, You Brought Me Your Love",
-        "url": "https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 231096,
-      "name": "Honey, This Mirror Isn't Big Enough for the Two of Us",
-      "url": "https://open.spotify.com/track/5gNVTfD1L6QrPgOf0wFo0q"
-    },
-    {
-      "added_at": "2023-03-20 09:14:23",
-      "album": {
         "name": "The Used",
         "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
       },
@@ -575,18 +559,34 @@
     {
       "added_at": "2023-03-20 09:14:23",
       "album": {
-        "name": "All's Well That Ends Well",
-        "url": "https://open.spotify.com/album/0OEsBt4DiKAGACbzmhwbaS"
+        "name": "I Brought You My Bullets, You Brought Me Your Love",
+        "url": "https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605"
       },
       "artists": [
         {
-          "name": "Chiodos",
-          "url": "https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o"
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
         }
       ],
-      "duration_ms": 280866,
-      "name": "Baby, You Wouldn't Last A Minute On The Creek",
-      "url": "https://open.spotify.com/track/6p4jnIWFWyLz0zUo2RD9iu"
+      "duration_ms": 231096,
+      "name": "Honey, This Mirror Isn't Big Enough for the Two of Us",
+      "url": "https://open.spotify.com/track/5gNVTfD1L6QrPgOf0wFo0q"
+    },
+    {
+      "added_at": "2023-03-20 09:14:23",
+      "album": {
+        "name": "Lead Sails Paper Anchor",
+        "url": "https://open.spotify.com/album/4l0jcq2jRyRO38d1U92vkp"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "duration_ms": 220600,
+      "name": "Becoming the Bull",
+      "url": "https://open.spotify.com/track/2MMrjobPrVLrozyfFXsFJx"
     },
     {
       "added_at": "2023-03-20 09:14:23",
@@ -607,18 +607,18 @@
     {
       "added_at": "2023-03-20 09:14:23",
       "album": {
-        "name": "Lead Sails Paper Anchor",
-        "url": "https://open.spotify.com/album/4l0jcq2jRyRO38d1U92vkp"
+        "name": "All's Well That Ends Well",
+        "url": "https://open.spotify.com/album/0OEsBt4DiKAGACbzmhwbaS"
       },
       "artists": [
         {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+          "name": "Chiodos",
+          "url": "https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o"
         }
       ],
-      "duration_ms": 220600,
-      "name": "Becoming the Bull",
-      "url": "https://open.spotify.com/track/2MMrjobPrVLrozyfFXsFJx"
+      "duration_ms": 280866,
+      "name": "Baby, You Wouldn't Last A Minute On The Creek",
+      "url": "https://open.spotify.com/track/6p4jnIWFWyLz0zUo2RD9iu"
     },
     {
       "added_at": "2023-03-20 09:14:23",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-03-20 09:14:23",
       "album": {
-        "name": "The Art Of Drowning",
-        "url": "https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 207693,
-      "name": "The Days Of The Phoenix",
-      "url": "https://open.spotify.com/track/7oSQG8KgYbrcR2kgwUD9SU"
-    },
-    {
-      "added_at": "2023-03-20 09:14:23",
-      "album": {
         "name": "All's Well That Ends Well",
         "url": "https://open.spotify.com/album/0OEsBt4DiKAGACbzmhwbaS"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 176373,
       "name": "A Box Full of Sharp Objects",
       "url": "https://open.spotify.com/track/6IK1mlU9pJPPjkYD6jrRR5"
+    },
+    {
+      "added_at": "2023-03-20 09:14:23",
+      "album": {
+        "name": "The Art Of Drowning",
+        "url": "https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 207693,
+      "name": "The Days Of The Phoenix",
+      "url": "https://open.spotify.com/track/7oSQG8KgYbrcR2kgwUD9SU"
     },
     {
       "added_at": "2023-03-20 09:14:23",
@@ -943,6 +943,22 @@
     {
       "added_at": "2023-03-20 09:14:23",
       "album": {
+        "name": "Wildlife",
+        "url": "https://open.spotify.com/album/4BDDKxyTMgE1UZh7Wzdx28"
+      },
+      "artists": [
+        {
+          "name": "La Dispute",
+          "url": "https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W"
+        }
+      ],
+      "duration_ms": 414925,
+      "name": "King Park",
+      "url": "https://open.spotify.com/track/1mwvhdWyZruSSMhvOWbfCv"
+    },
+    {
+      "added_at": "2023-03-20 09:14:23",
+      "album": {
         "name": "Relativity",
         "url": "https://open.spotify.com/album/42QT0gBnEJbmo10gAL1m32"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 253440,
       "name": "Rookie",
       "url": "https://open.spotify.com/track/3f0VeXFWFrDjt9BFmRPIej"
-    },
-    {
-      "added_at": "2023-03-20 09:14:23",
-      "album": {
-        "name": "Wildlife",
-        "url": "https://open.spotify.com/album/4BDDKxyTMgE1UZh7Wzdx28"
-      },
-      "artists": [
-        {
-          "name": "La Dispute",
-          "url": "https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W"
-        }
-      ],
-      "duration_ms": 414925,
-      "name": "King Park",
-      "url": "https://open.spotify.com/track/1mwvhdWyZruSSMhvOWbfCv"
     },
     {
       "added_at": "2023-03-20 09:14:23",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2023-03-20 09:14:23",
       "album": {
-        "name": "When Broken Is Easily Fixed",
-        "url": "https://open.spotify.com/album/3fEej3BLA97fBcKe61PeSc"
+        "name": "What It Is To Burn",
+        "url": "https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x"
       },
       "artists": [
         {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 222813,
-      "name": "Smashed Into Pieces",
-      "url": "https://open.spotify.com/track/1CKfTyQ4JMJxM9HFlvz187"
+      "duration_ms": 199600,
+      "name": "Letters To You",
+      "url": "https://open.spotify.com/track/1lldOhIq1tf0XyQUBWDeOc"
     },
     {
       "added_at": "2023-03-20 09:14:23",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2023-03-20 09:14:23",
       "album": {
-        "name": "What It Is To Burn",
-        "url": "https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x"
+        "name": "When Broken Is Easily Fixed",
+        "url": "https://open.spotify.com/album/3fEej3BLA97fBcKe61PeSc"
       },
       "artists": [
         {
-          "name": "Finch",
-          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
         }
       ],
-      "duration_ms": 199600,
-      "name": "Letters To You",
-      "url": "https://open.spotify.com/track/1lldOhIq1tf0XyQUBWDeOc"
+      "duration_ms": 222813,
+      "name": "Smashed Into Pieces",
+      "url": "https://open.spotify.com/track/1CKfTyQ4JMJxM9HFlvz187"
     },
     {
       "added_at": "2023-03-20 09:14:23",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-03-20 09:14:23",
       "album": {
-        "name": "New Medicines",
-        "url": "https://open.spotify.com/album/3D4LoGIjzALWhaYBp4brMh"
-      },
-      "artists": [
-        {
-          "name": "Dead Poetic",
-          "url": "https://open.spotify.com/artist/14NIQxiBiZtbmZMXUwS6KD"
-        }
-      ],
-      "duration_ms": 242040,
-      "name": "New Medicines",
-      "url": "https://open.spotify.com/track/2UMuVwCwPUdTmAYYgd88Fg"
-    },
-    {
-      "added_at": "2023-03-20 09:14:23",
-      "album": {
         "name": "Hours",
         "url": "https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 247426,
       "name": "Roses for the Dead",
       "url": "https://open.spotify.com/track/6MVhQjz1SNN8IDTBlZwvwG"
+    },
+    {
+      "added_at": "2023-03-20 09:14:23",
+      "album": {
+        "name": "New Medicines",
+        "url": "https://open.spotify.com/album/3D4LoGIjzALWhaYBp4brMh"
+      },
+      "artists": [
+        {
+          "name": "Dead Poetic",
+          "url": "https://open.spotify.com/artist/14NIQxiBiZtbmZMXUwS6KD"
+        }
+      ],
+      "duration_ms": 242040,
+      "name": "New Medicines",
+      "url": "https://open.spotify.com/track/2UMuVwCwPUdTmAYYgd88Fg"
     },
     {
       "added_at": "2023-03-20 09:14:23",

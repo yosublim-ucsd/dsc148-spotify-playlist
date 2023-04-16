@@ -2572,10 +2572,28 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 178598,
       "name": "Love You Anyway",
       "url": "https://open.spotify.com/track/05JTD0bHgbmKrUnieqtEGU"
+    },
+    {
+      "album": {
+        "name": "Love You Anyway",
+        "url": "https://open.spotify.com/album/7He4g7bd15rvo5sZpRkuks"
+      },
+      "artists": [
+        {
+          "name": "Tweellve",
+          "url": "https://open.spotify.com/artist/0DejclZvFobqZbbfiVZAsF"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178598,
+      "name": "Love You Anyway",
+      "url": "https://open.spotify.com/track/7fbagCDljK2tqvJOcpgSEx"
     },
     {
       "album": {

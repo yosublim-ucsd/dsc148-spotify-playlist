@@ -482,6 +482,24 @@
     {
       "album": {
         "name": "Backseat Tape",
+        "url": "https://open.spotify.com/album/3kukhQjrtZcMNL43oLBedf"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198571,
+      "name": "Italo Disco",
+      "url": "https://open.spotify.com/track/42H7zXATS1GpuFGawmNKqU"
+    },
+    {
+      "album": {
+        "name": "Backseat Tape",
         "url": "https://open.spotify.com/album/3vjULlZhcatjZgSREPs3V1"
       },
       "artists": [
@@ -492,7 +510,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 198600,
       "name": "Italo Disco",
       "url": "https://open.spotify.com/track/7BnlmCIxJ9PKojxusCrgDB"

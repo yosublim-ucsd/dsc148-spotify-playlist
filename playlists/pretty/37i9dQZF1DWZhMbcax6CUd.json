@@ -1,12 +1,12 @@
 {
   "description": "Explore the great works of Maurice Ravel.",
-  "num_followers": 49548,
+  "num_followers": 49588,
   "original_name": "This Is Ravel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjMyMzY2MywwMDAwMDAwMDAwYjM3OGE5MDVhNWZmOTIyYmVmMDRkMGYzODhjODIz",
+  "snapshot_id": "MTY1NjMyMzY2MywwMDAwMDAwMGU3ODE3MWY0YmYzYWZiZmViNDI0YTM2ZDZiMzgyYmE5",
   "tracks": [
     {
       "added_at": "2022-06-27 09:54:23",
@@ -587,26 +587,6 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
-        "name": "Scarlatti, Chopin, Liszt, Ravel, Grieg & Schubert: Piano Works",
-        "url": "https://open.spotify.com/album/41FxpHotQ6ig4nsbjUTOmD"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Lucas Debargue",
-          "url": "https://open.spotify.com/artist/3gGFrz3hjzLPTKFwjzfm3n"
-        }
-      ],
-      "duration_ms": 450506,
-      "name": "Gaspard de la Nuit, M. 55: 2. Le Gibet - Live",
-      "url": "https://open.spotify.com/track/0QxGL741oduztRFLeNh4Y1"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
         "name": "Saint-Sa\u00ebns, Ravel & Gershwin: Piano Concertos",
         "url": "https://open.spotify.com/album/6VSsWHlosgJ4sVTJxir9ve"
       },
@@ -635,6 +615,46 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
+        "name": "Scarlatti, Chopin, Liszt, Ravel, Grieg & Schubert: Piano Works",
+        "url": "https://open.spotify.com/album/41FxpHotQ6ig4nsbjUTOmD"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Lucas Debargue",
+          "url": "https://open.spotify.com/artist/3gGFrz3hjzLPTKFwjzfm3n"
+        }
+      ],
+      "duration_ms": 450506,
+      "name": "Gaspard de la Nuit, M. 55: 2. Le Gibet - Live",
+      "url": "https://open.spotify.com/track/0QxGL741oduztRFLeNh4Y1"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
+        "name": "Scarlatti, Chopin, Liszt, Ravel, Grieg & Schubert: Piano Works",
+        "url": "https://open.spotify.com/album/41FxpHotQ6ig4nsbjUTOmD"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Lucas Debargue",
+          "url": "https://open.spotify.com/artist/3gGFrz3hjzLPTKFwjzfm3n"
+        }
+      ],
+      "duration_ms": 416786,
+      "name": "Gaspard de la Nuit, M. 55: 1. Ondine - Live",
+      "url": "https://open.spotify.com/track/4GrQ7WEfpye1LcTNEuc5KC"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
         "name": "Ravel: La Valse, Ma M\u00e8re l'Oye, Valses nobles et sentimentales & Daphnis et Chlo\u00e9 Suite No. 2",
         "url": "https://open.spotify.com/album/6shxpYBntVnW95j5m0hfqO"
       },
@@ -659,8 +679,8 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
-        "name": "Scarlatti, Chopin, Liszt, Ravel, Grieg & Schubert: Piano Works",
-        "url": "https://open.spotify.com/album/41FxpHotQ6ig4nsbjUTOmD"
+        "name": "Debussy, Faur\u00e9 & Ravel: String Quartets",
+        "url": "https://open.spotify.com/album/2ZzP0NJ3dB7SNYT7zhO5pn"
       },
       "artists": [
         {
@@ -668,13 +688,13 @@
           "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
         },
         {
-          "name": "Lucas Debargue",
-          "url": "https://open.spotify.com/artist/3gGFrz3hjzLPTKFwjzfm3n"
+          "name": "Quatuor \u00c9b\u00e8ne",
+          "url": "https://open.spotify.com/artist/2fFxNneQmtCTdIwEpfXnqe"
         }
       ],
-      "duration_ms": 416786,
-      "name": "Gaspard de la Nuit, M. 55: 1. Ondine - Live",
-      "url": "https://open.spotify.com/track/4GrQ7WEfpye1LcTNEuc5KC"
+      "duration_ms": 280826,
+      "name": "Ravel: String Quartet, M. 35: IV. Vif et agit\u00e9",
+      "url": "https://open.spotify.com/track/24woomxv6bct8nFOayjN3F"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -707,26 +727,6 @@
       "duration_ms": 618226,
       "name": "Introduction and Allegro for Harp, Flute, Clarinet and String Quartet",
       "url": "https://open.spotify.com/track/3vpdqxPTfq87o6WTYSsqEN"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
-        "name": "Debussy, Faur\u00e9 & Ravel: String Quartets",
-        "url": "https://open.spotify.com/album/2ZzP0NJ3dB7SNYT7zhO5pn"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Quatuor \u00c9b\u00e8ne",
-          "url": "https://open.spotify.com/artist/2fFxNneQmtCTdIwEpfXnqe"
-        }
-      ],
-      "duration_ms": 280826,
-      "name": "Ravel: String Quartet, M. 35: IV. Vif et agit\u00e9",
-      "url": "https://open.spotify.com/track/24woomxv6bct8nFOayjN3F"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -783,30 +783,6 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
-        "name": "Ravel: L'enfant et les sortil\u00e8ges, M. 71 & Ma m\u00e8re l'oye, M. 62",
-        "url": "https://open.spotify.com/album/1E0g1RP7XJem98VuCtRo8X"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Orchestre National De Lyon",
-          "url": "https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo"
-        },
-        {
-          "name": "Leonard Slatkin",
-          "url": "https://open.spotify.com/artist/0xcogVKoT8y5OBIg3L0fua"
-        }
-      ],
-      "duration_ms": 153200,
-      "name": "Ma m\u00e8re l'oye, M. 62: Tableau II: Pavane de la Belle au bois dormant",
-      "url": "https://open.spotify.com/track/0z1obbeiBwfGYefM1Ce8mG"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
         "name": "Ravel: Daphnis and Chloe",
         "url": "https://open.spotify.com/album/1gnnRmLMjzsvFXs8VMcyjD"
       },
@@ -831,6 +807,30 @@
       "duration_ms": 284853,
       "name": "Daphnis et Chloe: Part III: Bacchanale",
       "url": "https://open.spotify.com/track/3i8BoV0sPzdjagK9HN0CwX"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
+        "name": "Ravel: L'enfant et les sortil\u00e8ges, M. 71 & Ma m\u00e8re l'oye, M. 62",
+        "url": "https://open.spotify.com/album/1E0g1RP7XJem98VuCtRo8X"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Orchestre National De Lyon",
+          "url": "https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo"
+        },
+        {
+          "name": "Leonard Slatkin",
+          "url": "https://open.spotify.com/artist/0xcogVKoT8y5OBIg3L0fua"
+        }
+      ],
+      "duration_ms": 153200,
+      "name": "Ma m\u00e8re l'oye, M. 62: Tableau II: Pavane de la Belle au bois dormant",
+      "url": "https://open.spotify.com/track/0z1obbeiBwfGYefM1Ce8mG"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -1011,30 +1011,6 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
-        "name": "Ravel: Orchestral Works, Vol. 1",
-        "url": "https://open.spotify.com/album/4n3wUSXoAsY630IbePkAAx"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Orchestre National De Lyon",
-          "url": "https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo"
-        },
-        {
-          "name": "Leonard Slatkin",
-          "url": "https://open.spotify.com/artist/0xcogVKoT8y5OBIg3L0fua"
-        }
-      ],
-      "duration_ms": 395293,
-      "name": "Menuet antique (version for orchestra)",
-      "url": "https://open.spotify.com/track/1lNYA7pVMt0qBpHK2nMJqy"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
         "name": "Ravel: 3 Sonatas, Tzigane, Habanera, Berceuse etc",
         "url": "https://open.spotify.com/album/1kCRvabm2lCRgYtlkxAELk"
       },
@@ -1055,6 +1031,30 @@
       "duration_ms": 181506,
       "name": "Berceuse sur le nom de Gabriel Faur\u00e9",
       "url": "https://open.spotify.com/track/0u4rEVXlbxTpWJ2Ec19Pb9"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
+        "name": "Ravel: Orchestral Works, Vol. 1",
+        "url": "https://open.spotify.com/album/4n3wUSXoAsY630IbePkAAx"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Orchestre National De Lyon",
+          "url": "https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo"
+        },
+        {
+          "name": "Leonard Slatkin",
+          "url": "https://open.spotify.com/artist/0xcogVKoT8y5OBIg3L0fua"
+        }
+      ],
+      "duration_ms": 395293,
+      "name": "Menuet antique (version for orchestra)",
+      "url": "https://open.spotify.com/track/1lNYA7pVMt0qBpHK2nMJqy"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -1143,34 +1143,6 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
-        "name": "Ravel: Sh\u00e9h\u00e9razade / Tombeau / Pavane; Debussy: Danses / Ballades de Villon",
-        "url": "https://open.spotify.com/album/1eeUo6L1AGl4DBJ7QOcp8b"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Anne Sofie von Otter",
-          "url": "https://open.spotify.com/artist/4pFlv4QVInj7bAo0MqHpwW"
-        },
-        {
-          "name": "Cleveland Orchestra",
-          "url": "https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz"
-        },
-        {
-          "name": "Pierre Boulez",
-          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
-        }
-      ],
-      "duration_ms": 593000,
-      "name": "Sh\u00e9h\u00e9razade, M. 41: I. Asie",
-      "url": "https://open.spotify.com/track/6vohiiyefE8oiG9KnN73P2"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
         "name": "Ravel: Miroirs, Gaspard de la nuit, Pavane",
         "url": "https://open.spotify.com/album/580qPYRAHWIOwBbhppHXyh"
       },
@@ -1215,6 +1187,34 @@
       "duration_ms": 188000,
       "name": "Sh\u00e9h\u00e9razade, M. 41: II. La fl\u00fbte enchant\u00e9e",
       "url": "https://open.spotify.com/track/2frOJsnhsTX5oyDzBjV4uX"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
+        "name": "Ravel: Sh\u00e9h\u00e9razade / Tombeau / Pavane; Debussy: Danses / Ballades de Villon",
+        "url": "https://open.spotify.com/album/1eeUo6L1AGl4DBJ7QOcp8b"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Anne Sofie von Otter",
+          "url": "https://open.spotify.com/artist/4pFlv4QVInj7bAo0MqHpwW"
+        },
+        {
+          "name": "Cleveland Orchestra",
+          "url": "https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz"
+        },
+        {
+          "name": "Pierre Boulez",
+          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
+        }
+      ],
+      "duration_ms": 593000,
+      "name": "Sh\u00e9h\u00e9razade, M. 41: I. Asie",
+      "url": "https://open.spotify.com/track/6vohiiyefE8oiG9KnN73P2"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -1435,26 +1435,6 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
-        "name": "Volodos in Vienna",
-        "url": "https://open.spotify.com/album/3TsXBqjYS4SgtK7g7xPAHd"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Arcadi Volodos",
-          "url": "https://open.spotify.com/artist/2DG9aIMzcln3w7SIVGGnmg"
-        }
-      ],
-      "duration_ms": 278013,
-      "name": "Valses nobles et sentimentales, M. 61: VIII. Epilogue (Lent)",
-      "url": "https://open.spotify.com/track/42rGNryLrLzLSH9xCWfDdR"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
         "name": "Ravel: Piano Concertos/Honegger: Piano Concertino/Fran\u00e7aix: Piano Concertino",
         "url": "https://open.spotify.com/album/0Y9WzXwqMeAxou22AeH0eP"
       },
@@ -1479,6 +1459,26 @@
       "duration_ms": 613973,
       "name": "Piano Concerto For The Left Hand In D, M. 82: 2. Allegro",
       "url": "https://open.spotify.com/track/3eil3d58A8nySt1X26HzsJ"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
+        "name": "Volodos in Vienna",
+        "url": "https://open.spotify.com/album/3TsXBqjYS4SgtK7g7xPAHd"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Arcadi Volodos",
+          "url": "https://open.spotify.com/artist/2DG9aIMzcln3w7SIVGGnmg"
+        }
+      ],
+      "duration_ms": 278013,
+      "name": "Valses nobles et sentimentales, M. 61: VIII. Epilogue (Lent)",
+      "url": "https://open.spotify.com/track/42rGNryLrLzLSH9xCWfDdR"
     },
     {
       "added_at": "2022-06-27 09:54:23",

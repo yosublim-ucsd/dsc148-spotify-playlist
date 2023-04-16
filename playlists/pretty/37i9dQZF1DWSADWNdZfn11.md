@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSADWNdZfn11.md) - [plain]
 
 > Relax and unwind with gentle piano covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,395 likes - 248 songs - 13 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,599 likes - 248 songs - 13 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSADWNdZfn11.md) - [plain]
 | 55 | [Shallow \- Piano Version](https://open.spotify.com/track/5zqW1M5Tkl07Nl2kGznE7F) | [Figgy Malone](https://open.spotify.com/artist/0MeNDWmyEBS65fk2Vihetl) | [Piano Covers Part I](https://open.spotify.com/album/0WXTylU55NFcO4gLH2e4JP) | 3:56 |
 | 56 | [How Do I Say Goodbye](https://open.spotify.com/track/0s1BJMXmcKWJXsEYGdakBt) | [Dan Goten](https://open.spotify.com/artist/7zXPCJltIcz9RxTp01GyeC) | [How Do I Say Goodbye](https://open.spotify.com/album/5tZJNmEUhVKBSyCeKL2JGi) | 2:39 |
 | 57 | [Purple Rain \- Piano Version](https://open.spotify.com/track/1ty7L5N7si6ly9YQLZpD8J) | [Alec Dufner](https://open.spotify.com/artist/6rcLXQVBq8vXaXDoatwCsz) | [Timeless Classics On Piano \- Part IV](https://open.spotify.com/album/2kqhwuZNdKS2LMckmMGdLf) | 3:40 |
-| 58 | [No Surprise](https://open.spotify.com/track/51sVrKfRknbj5PGg3dVspr) | [Odette Pineda](https://open.spotify.com/artist/2Eiqzzb4kGdlWttizRLpaw) | [No Surprise](https://open.spotify.com/album/4xge3Hsn6XDhchQEElHkG9) | 3:38 |
+| 58 | [No Surprises](https://open.spotify.com/track/51sVrKfRknbj5PGg3dVspr) | [Odette Pineda](https://open.spotify.com/artist/2Eiqzzb4kGdlWttizRLpaw) | [No Surprises](https://open.spotify.com/album/4xge3Hsn6XDhchQEElHkG9) | 3:38 |
 | 59 | [One Of Us](https://open.spotify.com/track/0I5mXZkU8DMMzNu7ezROna) | [Noah Jacob](https://open.spotify.com/artist/4Z5swVp8qC7FbtzOkNaChH) | [One Of Us](https://open.spotify.com/album/3x7NKtgnNfaISOyoo75ycu) | 3:31 |
 | 60 | [A whiter shade of pale](https://open.spotify.com/track/7gb7bAdUDArVuoyNh2F90F) | [Zach Flash](https://open.spotify.com/artist/245BfbwD5kOa5wFTd0Bl5w) | [A whiter shade of pale](https://open.spotify.com/album/7MfYvNk4UVEAZgkKZP05eA) | 2:37 |
 | 61 | [Bad Habits \- Piano](https://open.spotify.com/track/10TorwCh3S92S6AvYCRhlj) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Bad Habits & Hey Jude \(Piano\)](https://open.spotify.com/album/4MmGSZxW6NZUeJoNHwUBkB) | 3:16 |

@@ -1,12 +1,12 @@
 {
   "description": "The best of Christian Hip Hop today.  Cover:  <a href=\"https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo?si=UhWovZ8tTNmDIC-HmBdOSQ\">Jon Keith</a>",
-  "num_followers": 118705,
+  "num_followers": 118771,
   "original_name": "The Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTY2MDczMywwMDAwMDAwMGMyY2IxMWY2N2UxMDI1ZWIzNWIwODczZGMyN2JiMzll",
+  "snapshot_id": "MTY3OTY2MDczMywwMDAwMDAwMDdkNTY4OGIzZDY2OTBkNDc3YjA2MWEwMWE0ZjJkNTQ1",
   "tracks": [
     {
       "added_at": "2023-02-24 11:36:12",
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/4B15esl9pBFYa82fLVPD2H"
     },
     {
-      "added_at": "2023-04-15 01:36:14",
+      "added_at": "2023-04-16 01:22:41",
       "album": {
         "name": "EZ",
         "url": "https://open.spotify.com/album/1sus1FubvrFW0FOg1F2YCZ"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/1CEYsFOS0hAoVxuqtRmaLz"
     },
     {
-      "added_at": "2023-04-15 01:36:14",
+      "added_at": "2023-04-16 01:22:41",
       "album": {
         "name": "LIFT MY HANDS",
         "url": "https://open.spotify.com/album/2klAopt9CenASP8ZxD4JBh"
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/2luFEc1iqWhF21bdcbXpTR"
     },
     {
-      "added_at": "2023-04-15 01:36:14",
+      "added_at": "2023-04-16 01:22:41",
       "album": {
         "name": "Like You",
         "url": "https://open.spotify.com/album/19paHi9Pp3DNzmo50xGJNG"
@@ -413,7 +413,7 @@
       "url": "https://open.spotify.com/track/7Lg6d8ii0EXRqPLsgVjAaa"
     },
     {
-      "added_at": "2023-04-15 01:36:14",
+      "added_at": "2023-04-16 01:22:41",
       "album": {
         "name": "PRESIDENT",
         "url": "https://open.spotify.com/album/1UGft9d5GndWYADJP7979x"
@@ -509,7 +509,7 @@
       "url": "https://open.spotify.com/track/0FrINPjWFuuHwJMX1XkV2j"
     },
     {
-      "added_at": "2023-04-15 01:36:14",
+      "added_at": "2023-04-16 01:22:41",
       "album": {
         "name": "EREMOS",
         "url": "https://open.spotify.com/album/6ip0mKMe6muq0ZuEsiJ1XJ"
@@ -701,7 +701,7 @@
       "url": "https://open.spotify.com/track/6y6hyRiHnfwHKd2D8oy00W"
     },
     {
-      "added_at": "2023-04-15 01:36:14",
+      "added_at": "2023-04-16 01:22:41",
       "album": {
         "name": "On My Own",
         "url": "https://open.spotify.com/album/5cZ6RmL0JMRTWGiYNmCNuX"
@@ -837,7 +837,7 @@
       "url": "https://open.spotify.com/track/4mvgPHLTLG2sOfPXgzpQmN"
     },
     {
-      "added_at": "2023-04-15 01:36:14",
+      "added_at": "2023-04-16 01:22:41",
       "album": {
         "name": "YOU",
         "url": "https://open.spotify.com/album/6VvEgJ1Ji4sTik5Kqdh7dL"
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-02-24 11:36:12",
       "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/0YFfb5QYJrdbeSEqPSmdRo"
-      },
-      "artists": [
-        {
-          "name": "Bizzle",
-          "url": "https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr"
-        }
-      ],
-      "duration_ms": 186383,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/03hQRnlKSJvfICRvTXAZLO"
-    },
-    {
-      "added_at": "2023-02-24 11:36:12",
-      "album": {
         "name": "Ram in the Bush",
         "url": "https://open.spotify.com/album/3gG2gyb4kEHRLE7TKJqXGn"
       },
@@ -925,7 +909,23 @@
       "url": "https://open.spotify.com/track/1AE7szyIJmjyzMU7ocJqh2"
     },
     {
-      "added_at": "2023-04-15 01:36:14",
+      "added_at": "2023-02-24 11:36:12",
+      "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/0YFfb5QYJrdbeSEqPSmdRo"
+      },
+      "artists": [
+        {
+          "name": "Bizzle",
+          "url": "https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr"
+        }
+      ],
+      "duration_ms": 186383,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/03hQRnlKSJvfICRvTXAZLO"
+    },
+    {
+      "added_at": "2023-04-16 01:22:41",
       "album": {
         "name": "Rich Friends",
         "url": "https://open.spotify.com/album/1iNms5ShhMsWhC7k9lLa07"
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-02-24 11:36:12",
       "album": {
-        "name": "Set It Off",
-        "url": "https://open.spotify.com/album/5bbHDe1IwX9SzY2a2vIOZz"
-      },
-      "artists": [
-        {
-          "name": "Bizzle",
-          "url": "https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr"
-        }
-      ],
-      "duration_ms": 153064,
-      "name": "Set It Off",
-      "url": "https://open.spotify.com/track/2HDe8vIeHgeAxGfQ9oexrW"
-    },
-    {
-      "added_at": "2023-02-24 11:36:12",
-      "album": {
         "name": "New Day",
         "url": "https://open.spotify.com/album/03BX2eYHXIAC0MfXdK943H"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 181776,
       "name": "New Day",
       "url": "https://open.spotify.com/track/5DPZx70S847lrn640OizK3"
+    },
+    {
+      "added_at": "2023-02-24 11:36:12",
+      "album": {
+        "name": "Set It Off",
+        "url": "https://open.spotify.com/album/5bbHDe1IwX9SzY2a2vIOZz"
+      },
+      "artists": [
+        {
+          "name": "Bizzle",
+          "url": "https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr"
+        }
+      ],
+      "duration_ms": 153064,
+      "name": "Set It Off",
+      "url": "https://open.spotify.com/track/2HDe8vIeHgeAxGfQ9oexrW"
     },
     {
       "added_at": "2023-02-24 11:36:12",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2023-02-24 11:36:12",
       "album": {
+        "name": "Everyone Loves A Comeback Story",
+        "url": "https://open.spotify.com/album/5RjwtLy4rECKCcqF5Cbs20"
+      },
+      "artists": [
+        {
+          "name": "Social Club Misfits",
+          "url": "https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL"
+        }
+      ],
+      "duration_ms": 202285,
+      "name": "I Can't Fail",
+      "url": "https://open.spotify.com/track/3Ngil1du8DDdROkk5MZKa3"
+    },
+    {
+      "added_at": "2023-02-24 11:36:12",
+      "album": {
         "name": "BUSY",
         "url": "https://open.spotify.com/album/6X6jlBYMfse8HXVa1sQIZC"
       },
@@ -1127,21 +1143,25 @@
     {
       "added_at": "2023-02-24 11:36:12",
       "album": {
-        "name": "Everyone Loves A Comeback Story",
-        "url": "https://open.spotify.com/album/5RjwtLy4rECKCcqF5Cbs20"
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/6IRyi9wbNGEtGaWAp2VvuB"
       },
       "artists": [
         {
-          "name": "Social Club Misfits",
-          "url": "https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL"
+          "name": "Miles Minnick",
+          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
+        },
+        {
+          "name": "Bizzle",
+          "url": "https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr"
         }
       ],
-      "duration_ms": 202285,
-      "name": "I Can't Fail",
-      "url": "https://open.spotify.com/track/3Ngil1du8DDdROkk5MZKa3"
+      "duration_ms": 127007,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/4qsJoHZ26OlufnruQvQqNv"
     },
     {
-      "added_at": "2023-04-15 01:36:14",
+      "added_at": "2023-04-16 01:22:41",
       "album": {
         "name": "It's Okay (feat. Greg James)",
         "url": "https://open.spotify.com/album/6rLKEPOPKps2RsnyT1BGxZ"
@@ -1171,26 +1191,6 @@
     {
       "added_at": "2023-02-24 11:36:12",
       "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/6IRyi9wbNGEtGaWAp2VvuB"
-      },
-      "artists": [
-        {
-          "name": "Miles Minnick",
-          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
-        },
-        {
-          "name": "Bizzle",
-          "url": "https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr"
-        }
-      ],
-      "duration_ms": 127007,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/4qsJoHZ26OlufnruQvQqNv"
-    },
-    {
-      "added_at": "2023-02-24 11:36:12",
-      "album": {
         "name": "The Stonebrook Project",
         "url": "https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU"
       },
@@ -1213,23 +1213,27 @@
       "url": "https://open.spotify.com/track/4Nz5ui2QPkUXo1BfFI0PJg"
     },
     {
-      "added_at": "2023-02-24 11:36:12",
+      "added_at": "2023-04-16 01:22:41",
       "album": {
-        "name": "Sunday In Lagos",
-        "url": "https://open.spotify.com/album/62RAwuRbAoHvsYjQVL1Pyc"
+        "name": "FIELD DAY",
+        "url": "https://open.spotify.com/album/3HA6MLAi5dxN82TgAEIB3l"
       },
       "artists": [
         {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+          "name": "MvkeyyJ",
+          "url": "https://open.spotify.com/artist/1cb6wnb7TWYMH7FdMhTQhB"
+        },
+        {
+          "name": "Parris Chariz",
+          "url": "https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM"
         }
       ],
-      "duration_ms": 153351,
-      "name": "Pull Up",
-      "url": "https://open.spotify.com/track/0IJJiloYvCpW02E9XRK7yV"
+      "duration_ms": 163404,
+      "name": "FIELD DAY",
+      "url": "https://open.spotify.com/track/22w6bfT6LBC19AkapdZplB"
     },
     {
-      "added_at": "2023-04-15 01:36:14",
+      "added_at": "2023-04-16 01:22:41",
       "album": {
         "name": "My Rocket",
         "url": "https://open.spotify.com/album/7kDXljAKu7DP2VWOltgB5i"
@@ -1247,18 +1251,18 @@
     {
       "added_at": "2023-02-24 11:36:12",
       "album": {
-        "name": "Up",
-        "url": "https://open.spotify.com/album/339EY1xqT4QUJvGHDbCxCq"
+        "name": "Sunday In Lagos",
+        "url": "https://open.spotify.com/album/62RAwuRbAoHvsYjQVL1Pyc"
       },
       "artists": [
         {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
         }
       ],
-      "duration_ms": 173972,
-      "name": "Up",
-      "url": "https://open.spotify.com/track/3bY6606BZNDJsMJiFUQ9qj"
+      "duration_ms": 153351,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/0IJJiloYvCpW02E9XRK7yV"
     },
     {
       "added_at": "2023-02-24 11:36:12",
@@ -1281,26 +1285,6 @@
       "url": "https://open.spotify.com/track/21SWInttXP3DP6bqxmoZI9"
     },
     {
-      "added_at": "2023-04-15 01:36:14",
-      "album": {
-        "name": "FIELD DAY",
-        "url": "https://open.spotify.com/album/3HA6MLAi5dxN82TgAEIB3l"
-      },
-      "artists": [
-        {
-          "name": "MvkeyyJ",
-          "url": "https://open.spotify.com/artist/1cb6wnb7TWYMH7FdMhTQhB"
-        },
-        {
-          "name": "Parris Chariz",
-          "url": "https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM"
-        }
-      ],
-      "duration_ms": 163404,
-      "name": "FIELD DAY",
-      "url": "https://open.spotify.com/track/22w6bfT6LBC19AkapdZplB"
-    },
-    {
       "added_at": "2023-02-24 11:36:12",
       "album": {
         "name": "Red Light Green Light",
@@ -1315,38 +1299,6 @@
       "duration_ms": 152590,
       "name": "Red Light Green Light",
       "url": "https://open.spotify.com/track/3qSqflHIOVYcd1IebVehuK"
-    },
-    {
-      "added_at": "2023-04-15 01:36:14",
-      "album": {
-        "name": "SOBER!",
-        "url": "https://open.spotify.com/album/63ZNSkfIx2QC0f0tYFRHpF"
-      },
-      "artists": [
-        {
-          "name": "Miles Minnick",
-          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "SOBER!",
-      "url": "https://open.spotify.com/track/5kr9X90ujv331cdOeRbnCZ"
-    },
-    {
-      "added_at": "2023-02-24 11:36:12",
-      "album": {
-        "name": "Choose You",
-        "url": "https://open.spotify.com/album/1KoVTcluwzGUCo1xMPqqZA"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 185211,
-      "name": "Choose You",
-      "url": "https://open.spotify.com/track/2rUNWlmyWYeViuhqb4QQc6"
     },
     {
       "added_at": "2023-02-24 11:36:12",
@@ -1371,6 +1323,38 @@
       "duration_ms": 156309,
       "name": "Swerve That",
       "url": "https://open.spotify.com/track/6IRXMRAckv2A7lB7rrFzrP"
+    },
+    {
+      "added_at": "2023-02-24 11:36:12",
+      "album": {
+        "name": "Up",
+        "url": "https://open.spotify.com/album/339EY1xqT4QUJvGHDbCxCq"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 173972,
+      "name": "Up",
+      "url": "https://open.spotify.com/track/3bY6606BZNDJsMJiFUQ9qj"
+    },
+    {
+      "added_at": "2023-04-16 01:22:41",
+      "album": {
+        "name": "SOBER!",
+        "url": "https://open.spotify.com/album/63ZNSkfIx2QC0f0tYFRHpF"
+      },
+      "artists": [
+        {
+          "name": "Miles Minnick",
+          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "SOBER!",
+      "url": "https://open.spotify.com/track/5kr9X90ujv331cdOeRbnCZ"
     },
     {
       "added_at": "2023-02-24 11:36:12",
@@ -1461,20 +1445,24 @@
       "url": "https://open.spotify.com/track/1Agr2KQtfDzfY7rjL6Dcy8"
     },
     {
-      "added_at": "2023-04-15 01:36:14",
+      "added_at": "2023-02-24 11:36:12",
       "album": {
-        "name": "Deep Cuts",
-        "url": "https://open.spotify.com/album/57yLZZ78kKXmXQm1O5YUbp"
+        "name": "H O L O G R A P H I C",
+        "url": "https://open.spotify.com/album/3xtKM1mZHeO1osPSrGZfdm"
       },
       "artists": [
         {
-          "name": "PEABOD",
-          "url": "https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL"
+          "name": "Miles Minnick",
+          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
+        },
+        {
+          "name": "NK4",
+          "url": "https://open.spotify.com/artist/1GRzvJv7AcvEnLnJYvpUgc"
         }
       ],
-      "duration_ms": 193560,
-      "name": "Deep Cuts",
-      "url": "https://open.spotify.com/track/68mQ2H5BymI1HBLYAfJ93p"
+      "duration_ms": 164886,
+      "name": "Slidin'",
+      "url": "https://open.spotify.com/track/3kmA58ErSrm3fwcnkJabhB"
     },
     {
       "added_at": "2023-02-24 11:36:12",
@@ -1497,24 +1485,36 @@
       "url": "https://open.spotify.com/track/4pa4ssdqt8rqWAlz3YiCBZ"
     },
     {
-      "added_at": "2023-02-24 11:36:12",
+      "added_at": "2023-04-16 01:22:41",
       "album": {
-        "name": "H O L O G R A P H I C",
-        "url": "https://open.spotify.com/album/3xtKM1mZHeO1osPSrGZfdm"
+        "name": "Deep Cuts",
+        "url": "https://open.spotify.com/album/57yLZZ78kKXmXQm1O5YUbp"
       },
       "artists": [
         {
-          "name": "Miles Minnick",
-          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
-        },
-        {
-          "name": "NK4",
-          "url": "https://open.spotify.com/artist/1GRzvJv7AcvEnLnJYvpUgc"
+          "name": "PEABOD",
+          "url": "https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL"
         }
       ],
-      "duration_ms": 164886,
-      "name": "Slidin'",
-      "url": "https://open.spotify.com/track/3kmA58ErSrm3fwcnkJabhB"
+      "duration_ms": 193560,
+      "name": "Deep Cuts",
+      "url": "https://open.spotify.com/track/68mQ2H5BymI1HBLYAfJ93p"
+    },
+    {
+      "added_at": "2023-02-24 11:36:12",
+      "album": {
+        "name": "Choose You",
+        "url": "https://open.spotify.com/album/1KoVTcluwzGUCo1xMPqqZA"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 185211,
+      "name": "Choose You",
+      "url": "https://open.spotify.com/track/2rUNWlmyWYeViuhqb4QQc6"
     },
     {
       "added_at": "2023-02-24 11:36:12",
@@ -1573,7 +1573,7 @@
       "url": "https://open.spotify.com/track/2V4HIVB9Iv35XbCCPXpT1f"
     },
     {
-      "added_at": "2023-04-15 01:36:14",
+      "added_at": "2023-04-16 01:22:41",
       "album": {
         "name": "Under Construction",
         "url": "https://open.spotify.com/album/3t3o84HxUhmkJmK9tT4OIw"
@@ -1633,7 +1633,7 @@
       "url": "https://open.spotify.com/track/0ksRxJ9rgHjh7Jy83S6vLh"
     },
     {
-      "added_at": "2023-04-15 01:36:14",
+      "added_at": "2023-04-16 01:22:41",
       "album": {
         "name": "L",
         "url": "https://open.spotify.com/album/6Tx1PIZy8fS28sxPtKIjRL"
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2023-02-24 11:36:12",
       "album": {
-        "name": "josiah.",
-        "url": "https://open.spotify.com/album/0cm3YLe7A3sNtFPEqix58J"
+        "name": "Backslide",
+        "url": "https://open.spotify.com/album/22XnIqlTbgEse4XimFOS3F"
       },
       "artists": [
         {
-          "name": "Dillon Chase",
-          "url": "https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8"
+          "name": "Red Tips",
+          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
         }
       ],
-      "duration_ms": 129696,
-      "name": "josiah.",
-      "url": "https://open.spotify.com/track/0g6UbSmO8by3ecCSNmS7ca"
+      "duration_ms": 150875,
+      "name": "Backslide",
+      "url": "https://open.spotify.com/track/0xSmgLMebPwho7od9B4Jsw"
     },
     {
       "added_at": "2023-02-24 11:36:12",
@@ -1687,21 +1687,37 @@
     {
       "added_at": "2023-02-24 11:36:12",
       "album": {
-        "name": "Backslide",
-        "url": "https://open.spotify.com/album/22XnIqlTbgEse4XimFOS3F"
+        "name": "josiah.",
+        "url": "https://open.spotify.com/album/0cm3YLe7A3sNtFPEqix58J"
       },
       "artists": [
         {
-          "name": "Red Tips",
-          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
+          "name": "Dillon Chase",
+          "url": "https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8"
         }
       ],
-      "duration_ms": 150875,
-      "name": "Backslide",
-      "url": "https://open.spotify.com/track/0xSmgLMebPwho7od9B4Jsw"
+      "duration_ms": 129696,
+      "name": "josiah.",
+      "url": "https://open.spotify.com/track/0g6UbSmO8by3ecCSNmS7ca"
     },
     {
-      "added_at": "2023-04-15 01:36:14",
+      "added_at": "2023-02-24 11:36:12",
+      "album": {
+        "name": "SIX THIRTY",
+        "url": "https://open.spotify.com/album/5k2sZKtwSVb27QYXRQDeEV"
+      },
+      "artists": [
+        {
+          "name": "Sean C. Johnson",
+          "url": "https://open.spotify.com/artist/6jwSgdzEmAv7K0c4G8kq1H"
+        }
+      ],
+      "duration_ms": 222375,
+      "name": "SIX THIRTY",
+      "url": "https://open.spotify.com/track/0LOVP9ay38uMVpyO0rSo3w"
+    },
+    {
+      "added_at": "2023-04-16 01:22:41",
       "album": {
         "name": "Waiting",
         "url": "https://open.spotify.com/album/3xZyyx3L5JMaHUslufxpJl"
@@ -1719,22 +1735,6 @@
       "duration_ms": 165161,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/54bhw27Dfwvf0kzkeoPUHC"
-    },
-    {
-      "added_at": "2023-02-24 11:36:12",
-      "album": {
-        "name": "SIX THIRTY",
-        "url": "https://open.spotify.com/album/5k2sZKtwSVb27QYXRQDeEV"
-      },
-      "artists": [
-        {
-          "name": "Sean C. Johnson",
-          "url": "https://open.spotify.com/artist/6jwSgdzEmAv7K0c4G8kq1H"
-        }
-      ],
-      "duration_ms": 222375,
-      "name": "SIX THIRTY",
-      "url": "https://open.spotify.com/track/0LOVP9ay38uMVpyO0rSo3w"
     },
     {
       "added_at": "2023-02-24 11:36:12",
@@ -1763,26 +1763,6 @@
     {
       "added_at": "2023-02-24 11:36:12",
       "album": {
-        "name": "After",
-        "url": "https://open.spotify.com/album/6Dn3OXlvjkxCxXahmeFB7v"
-      },
-      "artists": [
-        {
-          "name": "Dillon Chase",
-          "url": "https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8"
-        },
-        {
-          "name": "Thomas Iannucci",
-          "url": "https://open.spotify.com/artist/1owYPqqX6qgsRRQsocw3Bm"
-        }
-      ],
-      "duration_ms": 158508,
-      "name": "After",
-      "url": "https://open.spotify.com/track/6zKGSyH5HTDWoDK2Y8BCB3"
-    },
-    {
-      "added_at": "2023-02-24 11:36:12",
-      "album": {
         "name": "Fight for It",
         "url": "https://open.spotify.com/album/78EFbUt7aY0OUn4KLgW7aM"
       },
@@ -1799,18 +1779,42 @@
     {
       "added_at": "2023-02-24 11:36:12",
       "album": {
-        "name": "believe",
-        "url": "https://open.spotify.com/album/0y47M4ia6gXB0QCJ7tz012"
+        "name": "Tree",
+        "url": "https://open.spotify.com/album/54wHmXPZMHh54mWa1cHHgY"
       },
       "artists": [
         {
-          "name": "Sajan Nauriyal",
-          "url": "https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6"
+          "name": "Steven Malcolm",
+          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
+        },
+        {
+          "name": "Ty Brasel",
+          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
+        },
+        {
+          "name": "Jay-Way",
+          "url": "https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7"
         }
       ],
-      "duration_ms": 155094,
-      "name": "believe",
-      "url": "https://open.spotify.com/track/7cwcU3UHeJs4RejjIhDoKt"
+      "duration_ms": 242564,
+      "name": "Red Light Green Light",
+      "url": "https://open.spotify.com/track/7vhLO7AIWYlMjLk2aAED7x"
+    },
+    {
+      "added_at": "2023-02-24 11:36:12",
+      "album": {
+        "name": "INSTAGRAM ISN'T GOD",
+        "url": "https://open.spotify.com/album/7JuTPs6BCHyrhYYf68okJh"
+      },
+      "artists": [
+        {
+          "name": "Christopher Syncere",
+          "url": "https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u"
+        }
+      ],
+      "duration_ms": 187508,
+      "name": "INSTAGRAM ISN'T GOD",
+      "url": "https://open.spotify.com/track/6Cz0ypaJiF2XsN55qal85r"
     },
     {
       "added_at": "2023-02-24 11:36:12",
@@ -1839,26 +1843,22 @@
     {
       "added_at": "2023-02-24 11:36:12",
       "album": {
-        "name": "Tree",
-        "url": "https://open.spotify.com/album/54wHmXPZMHh54mWa1cHHgY"
+        "name": "After",
+        "url": "https://open.spotify.com/album/6Dn3OXlvjkxCxXahmeFB7v"
       },
       "artists": [
         {
-          "name": "Steven Malcolm",
-          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
+          "name": "Dillon Chase",
+          "url": "https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8"
         },
         {
-          "name": "Ty Brasel",
-          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
-        },
-        {
-          "name": "Jay-Way",
-          "url": "https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7"
+          "name": "Thomas Iannucci",
+          "url": "https://open.spotify.com/artist/1owYPqqX6qgsRRQsocw3Bm"
         }
       ],
-      "duration_ms": 242564,
-      "name": "Red Light Green Light",
-      "url": "https://open.spotify.com/track/7vhLO7AIWYlMjLk2aAED7x"
+      "duration_ms": 158508,
+      "name": "After",
+      "url": "https://open.spotify.com/track/6zKGSyH5HTDWoDK2Y8BCB3"
     }
   ],
   "unique_name": "The Flow",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 
 > aquela lá q viralizou na net
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,586 likes - 80 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,852 likes - 80 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 73 | [Panamera](https://open.spotify.com/track/0EAWZdQCUjJjXCDzJmn8Xw) | [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [Mc Kako](https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm), [MC Joãozinho VT](https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT), [Mc Kanhoto](https://open.spotify.com/artist/3bpbNht7qJCmPo8sjVF3tA), [Dj Koringa MPC](https://open.spotify.com/artist/15QRURY8n9h2p03T91Fxi9), [Dj GM](https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628) | [Panamera](https://open.spotify.com/album/66sPGdwWCdc7u2k078e0sb) | 5:44 |
 | 74 | [Lugar Distante](https://open.spotify.com/track/4uOi330LkhOeUxmb97z2d9) | [DJ Lou](https://open.spotify.com/artist/4UZCx8Jrj8w2K90zF8VjWo) | [A Coleção](https://open.spotify.com/album/4hpN634sPatqiem8fyzsw1) | 1:51 |
 | 75 | [Namora Aí](https://open.spotify.com/track/1ACALdBWViTpLBC14Ecv8E) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN) | [Namora Aí](https://open.spotify.com/album/2MhX3Z4EpIVYLG0KduFY1i) | 2:28 |
-| 76 | [WORTH NOTHING \- Fast & Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [WORTH NOTHING \(Fast & Furious: Drift Tape/Phonk Vol 1\)](https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI) | 2:44 |
+| 76 | [WORTH NOTHING \(feat\. Oliver Tree\) \- Fast & Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/65tX8MBdsnTiwy9UoIPHzr) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [WORTH NOTHING \(feat\. Oliver Tree\) \[Fast & Furious: Drift Tape/Vol 1\]](https://open.spotify.com/album/3iqdAcelKcHA5cdJXse2Gr) | 2:44 |
 | 77 | [Dengo](https://open.spotify.com/track/2Udojaa4kCFg7vBbcIEzHK) | [Maria Maud](https://open.spotify.com/artist/2cEDFopNYB1CRgT5P8t1bM), [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Dengo](https://open.spotify.com/album/4YzaJCrhY1JAiPfU1BqgOu) | 3:34 |
 | 78 | [Reverse](https://open.spotify.com/track/5TGkZGCUoV1zvFxQOIQM5O) | [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Reverse](https://open.spotify.com/album/4a4c1QDOCxkOB82wTaVxCJ) | 2:00 |
 | 79 | [Gostosinha é Ela](https://open.spotify.com/track/0XyPPyGes0omXppV5YE8gy) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [Gostosinha é Ela](https://open.spotify.com/album/4mh9PwttztTnpvYlPFCPRZ) | 2:18 |
 | 80 | [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 |
 
-Snapshot ID: `MTY4MTI0OTU3OSwwMDAwMDAwMGYyM2Q4M2JmNzM5OTM3OWNkZDBmNGZlYWQ3YWI2NzM5`
+Snapshot ID: `MTY4MTI0OTU3OSwwMDAwMDAwMDEzODhkYmI0OTIyNjAzYTU5MmFjZDJlODUyZWY2NGYy`

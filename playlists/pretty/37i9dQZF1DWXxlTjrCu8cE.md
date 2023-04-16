@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxlTjrCu8cE.md) - [plain]
 
 > Pagodeira apresenta..\. O Melhor do Pagode 2022
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,013 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,026 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

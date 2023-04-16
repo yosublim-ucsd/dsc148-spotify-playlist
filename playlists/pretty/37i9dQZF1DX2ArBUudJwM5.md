@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres que la rompen feat\. Saramalacara.<br/>Dales play, dales power.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,305 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,315 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 11 | [Bendición](https://open.spotify.com/track/05LC7bVfkMrW6Ojx59DJmI) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq) | [Bendición](https://open.spotify.com/album/73b0Kk4U4s0YEYPLZZrFz9) | 2:01 |
 | 12 | [Opuesto Complementario](https://open.spotify.com/track/01TWK9iyMcuHajqzkvefPJ) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [Llorando en la Fiesta](https://open.spotify.com/album/2G9gRcA1G8qasisu7gQ4yD) | 2:56 |
 | 13 | [Fumando Menos](https://open.spotify.com/track/2KTuqLyX4K0on4TovE9u8o) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [Fumando Menos](https://open.spotify.com/album/0Wk5E3svT8yYLBt8ApetaP) | 3:07 |
-| 14 | [DÍAS COMO HOY](https://open.spotify.com/track/6ukf7MHX1L5iwGUKCxm13N) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [Lonely Fans](https://open.spotify.com/album/0jAcrKA6rbQWSQ1eBGo38P) | 3:31 |
-| 15 | [me canse de las canciones de amor](https://open.spotify.com/track/1bAqJhVVywzcbt1keh5m6m) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [ROMANCE MIXTAPE 2](https://open.spotify.com/album/0seBnIfzhEIp9o4sSQA8dk) | 1:31 |
-| 16 | [Whos That B!Tch?](https://open.spotify.com/track/1zGuXTNJXJYkC8AJqiQUAK) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [Whos That B!Tch?](https://open.spotify.com/album/73YJ3dUZY8a1RQy4KB2dQc) | 2:33 |
+| 14 | [Whos That B!Tch?](https://open.spotify.com/track/1zGuXTNJXJYkC8AJqiQUAK) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [Whos That B!Tch?](https://open.spotify.com/album/73YJ3dUZY8a1RQy4KB2dQc) | 2:33 |
+| 15 | [DÍAS COMO HOY](https://open.spotify.com/track/6ukf7MHX1L5iwGUKCxm13N) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [Lonely Fans](https://open.spotify.com/album/0jAcrKA6rbQWSQ1eBGo38P) | 3:31 |
+| 16 | [me canse de las canciones de amor](https://open.spotify.com/track/1bAqJhVVywzcbt1keh5m6m) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [ROMANCE MIXTAPE 2](https://open.spotify.com/album/0seBnIfzhEIp9o4sSQA8dk) | 1:31 |
 | 17 | [Pulso](https://open.spotify.com/track/4y90PJFul4Mcv17dB7Gz1U) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Pulso](https://open.spotify.com/album/4iKFJ6kNQ83QEsK6HsVoDV) | 2:26 |
 | 18 | [Algo](https://open.spotify.com/track/6J9fOlNk1KXWSvMa5bvmtI) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Algo](https://open.spotify.com/album/2sfNtiYkQmtEg2Nk1mebJb) | 2:48 |
 | 19 | [Sed](https://open.spotify.com/track/0tv5fCvV6pLcwstfO2zxLP) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [Mosaicos](https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC) | 2:26 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 40 | [como hago](https://open.spotify.com/track/4KYePiLGY8oGeMNK1UH7BA) | [Valuki](https://open.spotify.com/artist/2p1E3XmJHxVf0eeR1RReZ5), [Percii](https://open.spotify.com/artist/3Yo0r3OCG4QOTtRl8gThfd) | [Como Hago](https://open.spotify.com/album/2FAxaj4IIILpoyhWVP4Zfm) | 2:03 |
 | 41 | [Corta las flores](https://open.spotify.com/track/2wSmZPXb2dvAGD78gFDQub) | [Babeblade](https://open.spotify.com/artist/3m9k1lhn5q1BBLtYGqeFjm) | [Llorar en un baño público](https://open.spotify.com/album/7z1h9TLRvhebaSIwuLIFFA) | 2:53 |
 | 42 | [Dudas](https://open.spotify.com/track/4RQpdHuuTbLsY1ewCuBZJe) | [O.L.I.V.I.A](https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK), [MAJA](https://open.spotify.com/artist/1vt66Aetdj6e4TpfaXpmhx) | [Hex](https://open.spotify.com/album/0VhDbHjdwQkAJFBe8FwLKY) | 2:26 |
-| 43 | [Loba](https://open.spotify.com/track/6HtStRqLiQDLNQwTd4VdzI) | [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST) | [Golpe de \(M\)Suerte](https://open.spotify.com/album/2bJIO1lC4xurC0rrjfb8mk) | 1:47 |
-| 44 | [Revelde](https://open.spotify.com/track/7A8PpZCTsUOVZm8vM0wUWy) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq) | [Vladi](https://open.spotify.com/album/7fu4kjCZwX5r2ZheVRSiDQ) | 2:13 |
+| 43 | [Revelde](https://open.spotify.com/track/7A8PpZCTsUOVZm8vM0wUWy) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq) | [Vladi](https://open.spotify.com/album/7fu4kjCZwX5r2ZheVRSiDQ) | 2:13 |
+| 44 | [Loba](https://open.spotify.com/track/6HtStRqLiQDLNQwTd4VdzI) | [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST) | [Golpe de \(M\)Suerte](https://open.spotify.com/album/2bJIO1lC4xurC0rrjfb8mk) | 1:47 |
 | 45 | [Escitalopram](https://open.spotify.com/track/3PrtWNWAUYDRCYg9uCg3ac) | [MUÑEKI77A](https://open.spotify.com/artist/4vPj1iAE8l3VAQNenIOGt8) | [Escitalopram](https://open.spotify.com/album/5492cNtC0idD6l36U920Tf) | 3:07 |
 | 46 | [La Nube de Goku](https://open.spotify.com/track/3VxDA01NZ4TZSoYOU8hkRP) | [Marte Lupardo](https://open.spotify.com/artist/1oIAFHDNTaevByZvdcm5AY) | [La Nube de Goku](https://open.spotify.com/album/0Xta8PKyf5bRWwhRWx4Uqg) | 3:14 |
 | 47 | [Clandestina](https://open.spotify.com/track/0fCrqtpSqqTy7050sztKNh) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu), [Biankush](https://open.spotify.com/artist/58H70Vb8CfnBalr7QotqeM) | [Modus Operandi](https://open.spotify.com/album/0p6iaSoFQH1n0GbHA0Lute) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 49 | [Vine y me voy como llegué](https://open.spotify.com/track/7DklcH7W9EoRMafKeoCUea) | [Babeblade](https://open.spotify.com/artist/3m9k1lhn5q1BBLtYGqeFjm) | [Llorar en un baño público](https://open.spotify.com/album/7z1h9TLRvhebaSIwuLIFFA) | 3:22 |
 | 50 | [Natación](https://open.spotify.com/track/5IB0PE3Ph0Zki4oYiuBz0a) | [Marte Lupardo](https://open.spotify.com/artist/1oIAFHDNTaevByZvdcm5AY) | [Natación](https://open.spotify.com/album/04MnHHG7mhfi8PNzlC7rt4) | 3:35 |
 
-Snapshot ID: `MTY4MDY2MzYwMCwwMDAwMDAwMDIwYjZjNjg4NDcyM2NmNzhhMTkxNWVjNDEzZmI2ZjRm`
+Snapshot ID: `MTY4MDY2MzYwMCwwMDAwMDAwMGFlZjQzNmI5ZDM0NmMzOTM5NmI1NGViMDVhMWJiYmFm`

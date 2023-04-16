@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaFXuER8JJU.md) - [plain]
 
 > ¡De la tarima a tus bocinas! Lo mejor del norteño en vivo\. Remmy Valenzuela en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,721 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,810 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,16 +51,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaFXuER8JJU.md) - [plain]
 | 41 | [Abrazado De Un Poste \- En Vivo](https://open.spotify.com/track/5foBwr4MmU2oeuEe6gnQHr) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK), [Lorenzo De Monteclaro](https://open.spotify.com/artist/4YnO1u0lWE4lXZKy8wXjZX) | [Desde La Cantina \(Live At Nuevo León México/2009\)](https://open.spotify.com/album/5516JjJfiO6IGxBuPjZIyy) | 3:12 |
 | 42 | [Fuiste Mala](https://open.spotify.com/track/16jU9TQB3sPNGQtP60iyhE) | [Predilecto](https://open.spotify.com/artist/6EQeKDiNOnU8zwKXp7G0Zl) | [Fuiste Mala](https://open.spotify.com/album/6y3W8YaniIIYax63A1DCVM) | 3:24 |
 | 43 | [Aguanta Corazon](https://open.spotify.com/track/0jH7epDEcUS9n8Wcnx0aaX) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pisteando Con La Regida \(Vol\. 3\)](https://open.spotify.com/album/43VJC0wCb2qkm1KrIdRYqc) | 2:17 |
-| 44 | [Bonita](https://open.spotify.com/track/5CYjYxgqGkYVXP70iVasim) | [Los Dorados](https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI) | [Bonita](https://open.spotify.com/album/0GrIKHwtfk4TpzwwJh9QPu) | 3:21 |
+| 44 | [Popurri De Cumbias \(En Vivo\)](https://open.spotify.com/track/2Vi4spIGqXoqeCd63PWVQM) | [Los Caimanes De Sinaloa](https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN) | [En Vivo Desde Hacienda Heights](https://open.spotify.com/album/6nQUTyzVC8h10TDOEf9tYl) | 8:42 |
 | 45 | [La Miche](https://open.spotify.com/track/5qyaHfrDEredbekaDs3PZk) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [La Miche](https://open.spotify.com/album/5VAP6Y5ff8BBPflsMV77fS) | 4:09 |
 | 46 | [Loco \- En Vivo](https://open.spotify.com/track/30VgitVQwLfrGiwbVMXe3i) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK), [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi) | [Directo 93\-13 \(En Vivo/20 Aniversario/Vol.1\)](https://open.spotify.com/album/0OoRd49fYSZCRieceLUBil) | 4:15 |
-| 47 | [Popurri De Cumbias \(En Vivo\)](https://open.spotify.com/track/2Vi4spIGqXoqeCd63PWVQM) | [Los Caimanes De Sinaloa](https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN) | [En Vivo Desde Hacienda Heights](https://open.spotify.com/album/6nQUTyzVC8h10TDOEf9tYl) | 8:42 |
+| 47 | [Bonita](https://open.spotify.com/track/5CYjYxgqGkYVXP70iVasim) | [Los Dorados](https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI) | [Bonita](https://open.spotify.com/album/0GrIKHwtfk4TpzwwJh9QPu) | 3:21 |
 | 48 | [Celos del Viento \- En Vivo](https://open.spotify.com/track/35XIupdRiCOfwH59viQ35v) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Híbrido \(En Vivo\)](https://open.spotify.com/album/0eAoN7SGB0N8ZE455QW5aX) | 3:00 |
 | 49 | [El Pavido Navido \- En Vivo](https://open.spotify.com/track/3SUwM4xTaelVTyxeypf0XJ) | [Los Viejones De Linares](https://open.spotify.com/artist/48f1Wox7CUiX1nDfzgonjW), [Los Igualados](https://open.spotify.com/artist/4M3jiTh8TOZKbHTuIU3lS0) | [Pura Lumbre Con \(En Vivo\)](https://open.spotify.com/album/24qFUtXKUfNEkofuUSNIZY) | 4:28 |
 | 50 | [La Celda De Un Loco \- En vivo](https://open.spotify.com/track/3X1A33hXb3b5CBOVCZJRuW) | [Profugos De Nuevo Leon](https://open.spotify.com/artist/6xCiFhON3LPyvwIGvAGnwp) | [Videos En Vivo Desde El Rancho El Pinolillo \(En vivo\)](https://open.spotify.com/album/5MQCTTOantPqxwoySpnw36) | 3:12 |
 | 51 | [El Sube y Baja \- En vivo](https://open.spotify.com/track/2F5IsSsLPCDtcL0T3Wsnnq) | [Comando Único](https://open.spotify.com/artist/6TGJ5xpxuScTqrVLsUpELK) | [Comando Único con Compa Danny \(En vivo\)](https://open.spotify.com/album/3eGoOp5PfDlWf4ZNxHAB74) | 2:37 |
-| 52 | [Mi Luna, Mi Estrella](https://open.spotify.com/track/6DW1TtzOyXRmt6I8bfb9L0) | [Los Caimanes De Sinaloa](https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN) | [Desde Las Vegas](https://open.spotify.com/album/0I8AEABTxLD1OG8uPMCIDB) | 3:03 |
-| 53 | [Besos y Copas \- En Vivo](https://open.spotify.com/track/1OVjCXRrPSbYfDwMTSTXRF) | [Los Humildes Hermanos Ayala](https://open.spotify.com/artist/22GEcjAc2Uvgl2neYIZwdL) | [Desde el corral \(En Vivo\)](https://open.spotify.com/album/6qsXUi1aIwzBroAPMh1mgU) | 2:47 |
+| 52 | [Besos y Copas \- En Vivo](https://open.spotify.com/track/1OVjCXRrPSbYfDwMTSTXRF) | [Los Humildes Hermanos Ayala](https://open.spotify.com/artist/22GEcjAc2Uvgl2neYIZwdL) | [Desde el corral \(En Vivo\)](https://open.spotify.com/album/6qsXUi1aIwzBroAPMh1mgU) | 2:47 |
+| 53 | [Mi Luna, Mi Estrella](https://open.spotify.com/track/6DW1TtzOyXRmt6I8bfb9L0) | [Los Caimanes De Sinaloa](https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN) | [Desde Las Vegas](https://open.spotify.com/album/0I8AEABTxLD1OG8uPMCIDB) | 3:03 |
 | 54 | [La Yaquesita \- En Vivo](https://open.spotify.com/track/0dc1DPMzXyPqbKWg6za1KS) | [Los Viejones De Linares](https://open.spotify.com/artist/48f1Wox7CUiX1nDfzgonjW) | [Pura Lumbre Con \(En Vivo\)](https://open.spotify.com/album/24qFUtXKUfNEkofuUSNIZY) | 3:29 |
 | 55 | [Gotas de Agua Dulce](https://open.spotify.com/track/1cbWi2Lgu18XkyAnMed4oY) | [Predilecto](https://open.spotify.com/artist/6EQeKDiNOnU8zwKXp7G0Zl) | [Gotas de Agua Dulce](https://open.spotify.com/album/0372SHDiyVvWYrx3rOv0tt) | 2:55 |
 | 56 | [Tragos Amargos \- Live At Nuevo León México/2009](https://open.spotify.com/track/3vsD7bXY5xQP2GJLAnJ8GA) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK), [Eliseo Robles](https://open.spotify.com/artist/7mK1F4c2VQnHzuoH4wUX2y) | [Desde La Cantina \(Live At Nuevo León México/2009\)](https://open.spotify.com/album/5516JjJfiO6IGxBuPjZIyy) | 2:58 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaFXuER8JJU.md) - [plain]
 | 74 | [Simplemente Gracias \- En Vivo](https://open.spotify.com/track/7kTbcfiAVDGv2VBxddSrEf) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [En Vivo](https://open.spotify.com/album/2pNBioReXaB9LZI1VRna74) | 3:37 |
 | 75 | [La Pasadita \- En Vivo](https://open.spotify.com/track/5drGB8Ndu2UNBzx6lxssKF) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [En Vivo F.P.](https://open.spotify.com/album/4KidE7Z3S1i4ZuTPHJyblk) | 3:34 |
 
-Snapshot ID: `MTY3NDA4NzUyNCwwMDAwMDAwMDk3ODAwM2IxYWFlZTJhZmY0NjkzNzViYWM1OTMxMTQz`
+Snapshot ID: `MTY3NDA4NzUyNCwwMDAwMDAwMGE4NWY2NTc0MzQyMGY0YjcwZDI2OTkyZWRhMmVmNmZi`

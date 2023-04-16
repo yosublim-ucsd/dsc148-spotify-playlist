@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-399 songs - 1 day 4 hr 30 min
+400 songs - 1 day 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [97](https://open.spotify.com/track/4k2plYOozs9kE622sg3G0s) | [Stay Ali](https://open.spotify.com/artist/7uK8fAsaUYDckzHcOHFsOU) | [Vat:Auhlau \- EP](https://open.spotify.com/album/2eUOTl9Gadvn84l0Ay23mb) | 4:52 | 2022-04-01 | 2022-04-21 |
 | [97](https://open.spotify.com/track/5LGQrqkb7FGcZ9FJic1jwV) | [Stay Ali](https://open.spotify.com/artist/7uK8fAsaUYDckzHcOHFsOU) | [Vat:Auhlau](https://open.spotify.com/album/1hRLuY4HYnO93lQGExqBdm) | 4:52 | 2022-08-05 | 2022-08-07 |
 | [A Glowing Light, a Promise](https://open.spotify.com/track/1KjBsubnUzAU1dvxIEUky4) | [Makeup And Vanity Set](https://open.spotify.com/artist/5iJnzz8Lfh1U3XQpBw95J3) | [88:88](https://open.spotify.com/album/2j4ro7dtXWPrSjjE7mdKqY) | 5:33 | 2022-04-01 |  |
+| [A Promise to Die](https://open.spotify.com/track/3IfWaFt0d01TPU3dsy5Yw9) | [Nightstop](https://open.spotify.com/artist/291Vz2qC5SVLJSKA5mrYij) | [Dead Girls Don't Dance](https://open.spotify.com/album/5tyDEynnOrGAnP1XlzuZPR) | 2:56 | 2023-04-07 |  |
 | [A Sea of Stars \(Miami Nights 1984 Remix\)](https://open.spotify.com/track/68GKHn1VXyM8RHG1rm4Ov1) | [W O L F C L U B](https://open.spotify.com/artist/4dCDYKtFTMnKCI9PvEwMQX), [Miami Nights 1984](https://open.spotify.com/artist/18iQQOuyGlHunPVzmoLY20) | [A Sea of Stars \(Miami Nights 1984 Remix\)](https://open.spotify.com/album/7bnXNCT9BhCqYra8IT8OWq) | 3:31 | 2023-01-20 |  |
 | [a ti y a mi nos quieren hacer daño](https://open.spotify.com/track/6XhDdfzt0TIv4g9jlFzqCq) | [Fran Laoren](https://open.spotify.com/artist/2g1W9bFVmdIyxvktrdDiO4) | [a ti y a mi nos quieren hacer daño](https://open.spotify.com/album/4nWVVZDWGn1M25LblFJHFg) | 3:08 | 2022-04-01 | 2022-04-08 |
 | [Aether](https://open.spotify.com/track/5o9xd68vUYLlzlwj0GNYUP) | [Downtown Binary](https://open.spotify.com/artist/0H4t3GcGse8cqfL222mfbv) | [Aether](https://open.spotify.com/album/0ZoaBcqN3rGRFgMa2zwseP) | 4:18 | 2023-01-13 |  |
@@ -87,7 +88,7 @@
 | [Dark Prince, Pt\. 3](https://open.spotify.com/track/2zGsystFbZwMAlrJYxPHNL) | [Atrey](https://open.spotify.com/artist/73S1zHIBGAuJyjdDIEELqw) | [Dark Prince](https://open.spotify.com/album/7F5QqidQ5gDSIWBIY8Khy4) | 3:48 | 2021-10-15 |  |
 | [Darkness](https://open.spotify.com/track/539y2n1UYiM2gyYJKGNuuQ) | [Daniel Deluxe](https://open.spotify.com/artist/0OTY72l7CC7ynKzp6N2o5b) | [Darkness](https://open.spotify.com/album/1fw9QzRLdH01FAInVNT702) | 4:17 | 2021-10-15 |  |
 | [Dauntless to the End](https://open.spotify.com/track/4sLWuYCHBEooHf5FpPUkyw) | [The Great Wight Dread](https://open.spotify.com/artist/2BOuBgErBzSn6oCTtYOioG), [LudoWic](https://open.spotify.com/artist/4iH5e8eV3hGNCzhFwr1cND) | [Dauntless to the End](https://open.spotify.com/album/0dMHuVVp1QsmCeuHXmhW0A) | 3:07 | 2022-07-01 |  |
-| [Daydream](https://open.spotify.com/track/0IM9N6WkhOq0cZVvLK2dmk) | [The Ambientalist](https://open.spotify.com/artist/5xBLaP5VZsRpSXhtHE8xlj) | [Daydream](https://open.spotify.com/album/2GJorQf4gLBvBzSucWHs8K) | 3:24 | 2023-04-07 |  |
+| [Daydream](https://open.spotify.com/track/0IM9N6WkhOq0cZVvLK2dmk) | [The Ambientalist](https://open.spotify.com/artist/5xBLaP5VZsRpSXhtHE8xlj) | [Daydream](https://open.spotify.com/album/2GJorQf4gLBvBzSucWHs8K) | 3:24 | 2023-04-07 | 2023-04-16 |
 | [Days Like This](https://open.spotify.com/track/3DJpNRfGFjXv0F3RKKgWvN) | [Mark Dee](https://open.spotify.com/artist/0TxRxR3PKi6EeBqKa4mW2z) | [Days Like This](https://open.spotify.com/album/7CAn6RPVDLHNKm180Kbdmc) | 4:24 | 2022-06-17 | 2022-06-30 |
 | [Days Of The Running Man \- Original Mix](https://open.spotify.com/track/6Vsww35AUGBew98FOc91v1) | [Droid Bishop](https://open.spotify.com/artist/0HPVHsbV2yIYPp2Pk4kdHe) | [Retro Future](https://open.spotify.com/album/7LkDO9Yr7ZadQlOTBv92XG) | 5:41 | 2022-04-08 | 2022-07-29 |
 | [Daytona](https://open.spotify.com/track/1RWMydoqnPlMiHV7oEPwHo) | [Russ Chimes](https://open.spotify.com/artist/5L1ueznqwXIHAimfnhfftF) | [Valerie and Friends](https://open.spotify.com/album/4mpzuBJYmwO7fzkMr43oT7) | 5:07 | 2022-04-01 | 2022-04-19 |

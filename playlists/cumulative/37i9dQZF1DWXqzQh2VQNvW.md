@@ -4,7 +4,7 @@
 
 > The latest and greatest music out now!
 
-245 songs - 12 hr 43 min
+246 songs - 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Disaster](https://open.spotify.com/track/3SWGtKHaCFEUqfm9ydUFVw) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI) | 2:33 | 2022-07-11 | 2022-12-10 |
 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 | 2022-01-25 | 2023-03-04 |
 | [don't come back](https://open.spotify.com/track/3RhyHYnYxuGnP8njFlNxHq) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 2:32 | 2022-07-11 |  |
-| [Don't Leave](https://open.spotify.com/track/3Uuobd2VLUX9E1ugsQv4wj) | [Josh Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda), [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [Don't Leave](https://open.spotify.com/album/1qWusCEgXBfPcOBtEGoQhT) | 3:02 | 2023-04-14 |  |
+| [Don't Leave](https://open.spotify.com/track/3Uuobd2VLUX9E1ugsQv4wj) | [Josh Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [Don't Leave](https://open.spotify.com/album/1qWusCEgXBfPcOBtEGoQhT) | 3:02 | 2023-04-14 |  |
 | [Don't Wait Up](https://open.spotify.com/track/45PF1Y3RcW5MK0jxWvhc4D) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Don't Wait Up](https://open.spotify.com/album/5xEtia4eFu6W3Ql7xgR3Dp) | 3:24 | 2022-01-25 | 2022-04-09 |
 | [Easy](https://open.spotify.com/track/0TGIw5lMfCjMhFZN7z43uk) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Easy](https://open.spotify.com/album/3LgYJcq5rLlKX8lJUKnqQa) | 2:24 | 2022-07-25 |  |
 | [Electric](https://open.spotify.com/track/5H3cgV4jCdqXPxDtI78dCI) | [MOON](https://open.spotify.com/artist/4sKb7lHVHjkc5VbDihyHRp) | [Electric](https://open.spotify.com/album/7uOy96yZhShwnQS2q4jkFt) | 2:37 | 2022-07-11 | 2022-09-06 |
@@ -102,7 +102,8 @@
 | [Hard Days Love](https://open.spotify.com/track/4OHWSZO1Y2tfE1i1jkQRcO) | [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS) | [Hard Days Love](https://open.spotify.com/album/7cnKO4UgV9NnJz098ZlG4X) | 3:43 | 2023-01-20 |  |
 | [Hard Lessons](https://open.spotify.com/track/5MPsbkNc7N4q9swlqocgez) | [Ella Isaacson](https://open.spotify.com/artist/69DKP6GuG0YiUc5K7tJ4an) | [Hard Lessons](https://open.spotify.com/album/1IYAKdzj48aCTLSGkem1LK) | 2:10 | 2022-01-25 | 2022-03-18 |
 | [Heart on Fire](https://open.spotify.com/track/0NzgX6oHNy0Wy0VCLX1u90) | [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [Heart on Fire](https://open.spotify.com/album/4gyrk2gUPVY88ODmiPcBRH) | 3:32 | 2022-08-12 |  |
-| [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 | 2022-01-25 |  |
+| [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 | 2022-01-25 | 2023-04-16 |
+| [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 | 2023-04-14 |  |
 | [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2022-12-09 |  |
 | [Hold Me Closer](https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Hold Me Closer](https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6) | 3:22 | 2022-09-05 |  |
 | [Hold On](https://open.spotify.com/track/14wHKX7gSF6cgICuakSte9) | [Future Boyfriend](https://open.spotify.com/artist/6WgbfyAIroFv9OUhPbdqr8) | [Hold On](https://open.spotify.com/album/7dMBbDTMgB1H4xIZdQmVWz) | 3:50 | 2022-10-14 | 2022-10-18 |

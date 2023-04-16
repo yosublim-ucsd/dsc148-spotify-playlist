@@ -1,12 +1,12 @@
 {
   "description": "Celebrating the powerful voices of Latin music. Cover: Emilia",
-  "num_followers": 32778,
+  "num_followers": 32888,
   "original_name": "Women of Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDVkNWFhMDgxZjQxMWFlYTJlMDE3MTYxMmE3NGZhZDFm",
+  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMGQzZTMxZWMyMTc0YjA4ZDEwYjRjNDc4NGI3MjliZTQ4",
   "tracks": [
     {
       "added_at": "2023-04-14 04:00:00",
@@ -111,26 +111,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Pa' Luego Es Tarde",
-        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        },
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 152923,
-      "name": "Qu\u00e9 Agon\u00eda",
-      "url": "https://open.spotify.com/track/4H6o1bxKRGzmsE0vzo968m"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
       },
@@ -163,6 +143,26 @@
       "duration_ms": 226093,
       "name": "MAMIII",
       "url": "https://open.spotify.com/track/7FlQk2gJ6TBrHHiidvdR2O"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Pa' Luego Es Tarde",
+        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 152923,
+      "name": "Qu\u00e9 Agon\u00eda",
+      "url": "https://open.spotify.com/track/4H6o1bxKRGzmsE0vzo968m"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Nunca Tristes (Me Vale Madre)",
-        "url": "https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 204826,
-      "name": "Nunca Tristes (Me Vale Madre)",
-      "url": "https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "KITSUNE",
         "url": "https://open.spotify.com/album/3XAOgyv86vI7q0vVnDeOY8"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 151428,
       "name": "Par\u00eds",
       "url": "https://open.spotify.com/track/1spjTB2jFkxAvMdKas3x2H"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Nunca Tristes (Me Vale Madre)",
+        "url": "https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 204826,
+      "name": "Nunca Tristes (Me Vale Madre)",
+      "url": "https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -371,22 +371,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "DESPECH\u00c1 RMX",
-        "url": "https://open.spotify.com/album/4czxiqSwyeZK7y5r9GNWXP"
+        "name": "Formentera",
+        "url": "https://open.spotify.com/album/1xWOSgEAm6gO2A6zdlrPqH"
       },
       "artists": [
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
         },
         {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
         }
       ],
-      "duration_ms": 170827,
-      "name": "DESPECH\u00c1 RMX",
-      "url": "https://open.spotify.com/track/4CD623yLJVvKJxUyzaTqtC"
+      "duration_ms": 207333,
+      "name": "Formentera",
+      "url": "https://open.spotify.com/track/3nfICwo20uiFdEGzgNUSrG"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -411,22 +411,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Formentera",
-        "url": "https://open.spotify.com/album/1xWOSgEAm6gO2A6zdlrPqH"
+        "name": "DESPECH\u00c1 RMX",
+        "url": "https://open.spotify.com/album/4czxiqSwyeZK7y5r9GNWXP"
       },
       "artists": [
         {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         },
         {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 207333,
-      "name": "Formentera",
-      "url": "https://open.spotify.com/track/3nfICwo20uiFdEGzgNUSrG"
+      "duration_ms": 170827,
+      "name": "DESPECH\u00c1 RMX",
+      "url": "https://open.spotify.com/track/4CD623yLJVvKJxUyzaTqtC"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -511,6 +511,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "ALGARETE",
+        "url": "https://open.spotify.com/album/7leHFUki2RpwAxMJU6Du3n"
+      },
+      "artists": [
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "duration_ms": 208549,
+      "name": "ALGARETE",
+      "url": "https://open.spotify.com/track/2ec3eRB4zEYzuBl3cja0qA"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Soy Yo",
         "url": "https://open.spotify.com/album/4HqL9DDTbrqBUFb6Pswcki"
       },
@@ -523,30 +539,6 @@
       "duration_ms": 224226,
       "name": "Confieso",
       "url": "https://open.spotify.com/track/44kI7aJvJAYJkREVk0Rmei"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "La Loto",
-        "url": "https://open.spotify.com/album/3kNJsC47065Ucjk6AuCb8y"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 190666,
-      "name": "La Loto",
-      "url": "https://open.spotify.com/track/3AbNNvo2OmyeDMvRBgf9vk"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -571,18 +563,26 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "ALGARETE",
-        "url": "https://open.spotify.com/album/7leHFUki2RpwAxMJU6Du3n"
+        "name": "La Loto",
+        "url": "https://open.spotify.com/album/3kNJsC47065Ucjk6AuCb8y"
       },
       "artists": [
         {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 208549,
-      "name": "ALGARETE",
-      "url": "https://open.spotify.com/track/2ec3eRB4zEYzuBl3cja0qA"
+      "duration_ms": 190666,
+      "name": "La Loto",
+      "url": "https://open.spotify.com/track/3AbNNvo2OmyeDMvRBgf9vk"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "De Todas las Flores",
-        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 231053,
-      "name": "El lugar correcto",
-      "url": "https://open.spotify.com/track/3G6XpCfczuhbTSBlgfqe9v"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Valiente",
         "url": "https://open.spotify.com/album/2vcyOtFtWOYuQ6j4AH2FIG"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 217653,
       "name": "No Me Acuerdo",
       "url": "https://open.spotify.com/track/1G586ld1gbaECg4Bc6w40O"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "De Todas las Flores",
+        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 231053,
+      "name": "El lugar correcto",
+      "url": "https://open.spotify.com/track/3G6XpCfczuhbTSBlgfqe9v"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "1Trago",
+        "url": "https://open.spotify.com/album/61bbTZzUgZZnZPpuKYHj26"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 201106,
+      "name": "1Trago",
+      "url": "https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Bayam\u00f3n",
         "url": "https://open.spotify.com/album/5ELcmaAt2qWGrwWs583awG"
       },
@@ -919,22 +935,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Disciplina",
-        "url": "https://open.spotify.com/album/4jHkzHIr9vC2kJ55TojhVl"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 157625,
-      "name": "Disciplina",
-      "url": "https://open.spotify.com/track/1zBnnZCmZJWGVkFGz37UFf"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Ananda",
         "url": "https://open.spotify.com/album/0F2H68l0GgokiCljA6w1aT"
       },
@@ -951,18 +951,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Sin Carn\u00e9",
-        "url": "https://open.spotify.com/album/09kDovcZ38SvmgoUHlh1Hc"
+        "name": "Disciplina",
+        "url": "https://open.spotify.com/album/4jHkzHIr9vC2kJ55TojhVl"
       },
       "artists": [
         {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
         }
       ],
-      "duration_ms": 117680,
-      "name": "Sin Carn\u00e9",
-      "url": "https://open.spotify.com/track/240Wr3oL2io76a5D6wfQsm"
+      "duration_ms": 157625,
+      "name": "Disciplina",
+      "url": "https://open.spotify.com/track/1zBnnZCmZJWGVkFGz37UFf"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -979,6 +979,22 @@
       "duration_ms": 123253,
       "name": "Perreito",
       "url": "https://open.spotify.com/track/5ecJFbbgmywVJkqGQIfcuo"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Sin Carn\u00e9",
+        "url": "https://open.spotify.com/album/09kDovcZ38SvmgoUHlh1Hc"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "duration_ms": 117680,
+      "name": "Sin Carn\u00e9",
+      "url": "https://open.spotify.com/track/240Wr3oL2io76a5D6wfQsm"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1119,6 +1135,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "LALI",
+        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 191863,
+      "name": "Obsesi\u00f3n",
+      "url": "https://open.spotify.com/track/5Dor1ZjCnBYmC136ytDzJp"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Siente El Amor",
         "url": "https://open.spotify.com/album/4IlAVoLQ0uqWQaY4DaAL6R"
       },
@@ -1223,22 +1255,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Psycho B**ch",
-        "url": "https://open.spotify.com/album/1QLjJQvFwXCIbfOvJVez4u"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        }
-      ],
-      "duration_ms": 167360,
-      "name": "Psycho B**ch",
-      "url": "https://open.spotify.com/track/1aRcazIFzvRrybZXVdFT1M"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "De Pel\u00edcula",
         "url": "https://open.spotify.com/album/1m9gX7fweiWCg91tQ9tCz9"
       },
@@ -1251,6 +1267,22 @@
       "duration_ms": 224333,
       "name": "No Quer\u00edas Lastimarme",
       "url": "https://open.spotify.com/track/3Mebiofe2IvOakAD792K3j"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Psycho B**ch",
+        "url": "https://open.spotify.com/album/1QLjJQvFwXCIbfOvJVez4u"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "duration_ms": 167360,
+      "name": "Psycho B**ch",
+      "url": "https://open.spotify.com/track/1aRcazIFzvRrybZXVdFT1M"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1403,6 +1435,26 @@
       "duration_ms": 129130,
       "name": "Kitty",
       "url": "https://open.spotify.com/track/3ElaFhLinetMp5S6pOWVcy"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "EL DRAG\u00d3N",
+        "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 161586,
+      "name": "ULTRAVIOLETA",
+      "url": "https://open.spotify.com/track/3OFS5I1SC248VIuWFe4NPJ"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1567,22 +1619,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Bailo Pa Ti",
-        "url": "https://open.spotify.com/album/5qAD8mFpMoR9mrGzAPqJHn"
-      },
-      "artists": [
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        }
-      ],
-      "duration_ms": 200703,
-      "name": "Bailo Pa Ti",
-      "url": "https://open.spotify.com/track/0eRPNA76bLUkPUk2YMUcQk"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "ANASTASIA",
         "url": "https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO"
       },
@@ -1595,6 +1631,22 @@
       "duration_ms": 155492,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/4rejyzjiLkT53w4NWC0Sct"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Bailo Pa Ti",
+        "url": "https://open.spotify.com/album/5qAD8mFpMoR9mrGzAPqJHn"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        }
+      ],
+      "duration_ms": 200703,
+      "name": "Bailo Pa Ti",
+      "url": "https://open.spotify.com/track/0eRPNA76bLUkPUk2YMUcQk"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1615,22 +1667,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Al Lau",
-        "url": "https://open.spotify.com/album/3ub3CVweJ2BJAZD1PTm4st"
-      },
-      "artists": [
-        {
-          "name": "Lele Pons",
-          "url": "https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx"
-        }
-      ],
-      "duration_ms": 164184,
-      "name": "Al Lau",
-      "url": "https://open.spotify.com/track/1oeIC89Q2kH7pBhUnGGFi0"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "ESQUEMAS",
         "url": "https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC"
       },
@@ -1647,18 +1683,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Para Siempre... \u00bf?",
-        "url": "https://open.spotify.com/album/7f2UbbWOm1LZFF7TWzeNnu"
+        "name": "Al Lau",
+        "url": "https://open.spotify.com/album/3ub3CVweJ2BJAZD1PTm4st"
       },
       "artists": [
         {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+          "name": "Lele Pons",
+          "url": "https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx"
         }
       ],
-      "duration_ms": 198076,
-      "name": "Para Siempre... \u00bf?",
-      "url": "https://open.spotify.com/track/4ZqHm4OWOoZOOv5smffU6C"
+      "duration_ms": 164184,
+      "name": "Al Lau",
+      "url": "https://open.spotify.com/track/1oeIC89Q2kH7pBhUnGGFi0"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1679,6 +1715,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Para Siempre... \u00bf?",
+        "url": "https://open.spotify.com/album/7f2UbbWOm1LZFF7TWzeNnu"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 198076,
+      "name": "Para Siempre... \u00bf?",
+      "url": "https://open.spotify.com/track/4ZqHm4OWOoZOOv5smffU6C"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Alma Caribe\u00f1a",
         "url": "https://open.spotify.com/album/5JE7TvLrx9uwR1rHLPEyo9"
       },
@@ -1691,58 +1743,6 @@
       "duration_ms": 267973,
       "name": "Como Me Duele Perderte",
       "url": "https://open.spotify.com/track/2NvsxLwEnF3FtJJsdhkdmq"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Miss Colombia",
-        "url": "https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y"
-      },
-      "artists": [
-        {
-          "name": "Lido Pimienta",
-          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
-        },
-        {
-          "name": "Li Saumet",
-          "url": "https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw"
-        }
-      ],
-      "duration_ms": 298809,
-      "name": "Nada",
-      "url": "https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "me gusta que me gustes",
-        "url": "https://open.spotify.com/album/6acoBVsjADxdd7qpUwfMcv"
-      },
-      "artists": [
-        {
-          "name": "Nicole Zignago",
-          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
-        }
-      ],
-      "duration_ms": 155159,
-      "name": "me gusta que me gustes",
-      "url": "https://open.spotify.com/track/103F71tYE8WU3AtiIkmDC0"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "ALERGICA",
-        "url": "https://open.spotify.com/album/128gRYuCA4HlmI3vCiwl6l"
-      },
-      "artists": [
-        {
-          "name": "Paty B",
-          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
-        }
-      ],
-      "duration_ms": 185389,
-      "name": "ALERGICA",
-      "url": "https://open.spotify.com/track/11Sakrqqq61WNucb48QGWy"
     }
   ],
   "unique_name": "Women of Latin",

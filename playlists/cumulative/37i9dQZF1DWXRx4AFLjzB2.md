@@ -4,7 +4,7 @@
 
 > Spring break full of perreo!
 
-148 songs - 8 hr 40 min
+149 songs - 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [512](https://open.spotify.com/track/5jzEwSyyymBlf1fa1o39T2) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Primer Dia de Clases](https://open.spotify.com/album/5r8T7S23cVDSd7a045h4N5) | 3:13 | 2022-10-26 |  |
 | [6 AM](https://open.spotify.com/track/3uvypVUsiIr1B0BccIcsEh) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [La Familia](https://open.spotify.com/album/5Fqdd85mAoGDp0K9lmbPDp) | 4:03 | 2022-12-05 |  |
 | [911 \(Remix\)](https://open.spotify.com/track/27RSJHEA99Y0Vsow7nA37A) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [911 \(Remix\)](https://open.spotify.com/album/57ppCWTeAnqooyrR4DzbwR) | 3:28 | 2022-10-26 |  |
-| [AGUARDIENTE](https://open.spotify.com/track/6jhB0WW148mVOX7VuV2ga0) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [AGUARDIENTE](https://open.spotify.com/album/1ox6fzQPXwDtsTg8EQrplp) | 2:47 | 2023-03-17 |  |
+| [AGUARDIENTE](https://open.spotify.com/track/3Z0l8qwMuC376pcutLVsY8) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 2:47 | 2023-03-31 |  |
+| [AGUARDIENTE](https://open.spotify.com/track/6jhB0WW148mVOX7VuV2ga0) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [AGUARDIENTE](https://open.spotify.com/album/1ox6fzQPXwDtsTg8EQrplp) | 2:47 | 2023-03-17 | 2023-04-16 |
 | [AIRBNB](https://open.spotify.com/track/0fuyLaeHh0TvQ65m5ojgP2) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 3:05 | 2022-12-05 |  |
 | [Al Natural \(feat\. Yandel\)](https://open.spotify.com/track/49vwUeeauJgEQxDViXA01C) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [El Enemy de Los Guasíbiri](https://open.spotify.com/album/69rKlAM3KXEHw6vPtM6e9L) | 3:24 | 2022-10-26 | 2023-03-14 |
 | [Algo Me Gusta De Ti](https://open.spotify.com/track/3nDNXKBb5fRTuQXpeowWTT) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Líderes](https://open.spotify.com/album/6tOFRRXAis3nniv1wG6Nae) | 4:35 | 2022-12-26 |  |

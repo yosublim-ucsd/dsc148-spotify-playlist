@@ -1,12 +1,12 @@
 {
   "description": "remember when we were dark and brooding. Cover: V\u00c9RIT\u00c9\n",
-  "num_followers": 7697,
+  "num_followers": 7775,
   "original_name": "bitter/sweet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMDA1ZDcxYzA3MjJjMmUwYWVjZWM1ZTkyOTM1NzdlMjFj",
+  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMDViZTkyMWYwZDU1MTAzZDg4N2M2N2ZmZTQ2NjQxYTQy",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-01-05 16:59:25",
       "album": {
-        "name": "Losing You",
-        "url": "https://open.spotify.com/album/6VCjvboIlNJ3N881Xja6ng"
-      },
-      "artists": [
-        {
-          "name": "Solange",
-          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
-        }
-      ],
-      "duration_ms": 260398,
-      "name": "Losing You",
-      "url": "https://open.spotify.com/track/5hR0wTnydz6lmErOV4c0sp"
-    },
-    {
-      "added_at": "2023-01-05 16:59:25",
-      "album": {
         "name": "yes & no",
         "url": "https://open.spotify.com/album/7oq0WKmeG97JxVBn3ggwp4"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 178983,
       "name": "yes & no",
       "url": "https://open.spotify.com/track/6UVZo6UKUZC1J2KPP3IIwQ"
+    },
+    {
+      "added_at": "2023-01-05 16:59:25",
+      "album": {
+        "name": "Losing You",
+        "url": "https://open.spotify.com/album/6VCjvboIlNJ3N881Xja6ng"
+      },
+      "artists": [
+        {
+          "name": "Solange",
+          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
+        }
+      ],
+      "duration_ms": 260398,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/5hR0wTnydz6lmErOV4c0sp"
     },
     {
       "added_at": "2023-01-05 16:59:25",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-01-05 16:59:25",
       "album": {
-        "name": "Verde",
-        "url": "https://open.spotify.com/album/6sUm1weVRMmT05silXrYzR"
-      },
-      "artists": [
-        {
-          "name": "Tei Shi",
-          "url": "https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL"
-        }
-      ],
-      "duration_ms": 291222,
-      "name": "Bassically",
-      "url": "https://open.spotify.com/track/0jGayco2vDiq3kMpPFN2bI"
-    },
-    {
-      "added_at": "2023-01-05 16:59:25",
-      "album": {
         "name": "Pretend",
         "url": "https://open.spotify.com/album/7g2ZA4JCgG8Jxr67i23xlz"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 213968,
       "name": "Younger",
       "url": "https://open.spotify.com/track/1Ujt4hi9SHiMAxyCjJd1Kk"
+    },
+    {
+      "added_at": "2023-01-05 16:59:25",
+      "album": {
+        "name": "Verde",
+        "url": "https://open.spotify.com/album/6sUm1weVRMmT05silXrYzR"
+      },
+      "artists": [
+        {
+          "name": "Tei Shi",
+          "url": "https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL"
+        }
+      ],
+      "duration_ms": 291222,
+      "name": "Bassically",
+      "url": "https://open.spotify.com/track/0jGayco2vDiq3kMpPFN2bI"
     },
     {
       "added_at": "2023-01-05 16:59:25",
@@ -769,10 +769,10 @@
       "url": "https://open.spotify.com/track/08LPlXNMTR7lXbcDZBss01"
     },
     {
-      "added_at": "2023-01-19 17:45:10",
+      "added_at": "2023-01-05 16:59:25",
       "album": {
-        "name": "temporary",
-        "url": "https://open.spotify.com/album/1XrHmJ63bL7Rhnn6RNIA2d"
+        "name": "Underdressed",
+        "url": "https://open.spotify.com/album/2hLEfzJBnrscgIrEPvpH1m"
       },
       "artists": [
         {
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc"
         }
       ],
-      "duration_ms": 192106,
-      "name": "temporary",
-      "url": "https://open.spotify.com/track/2UZ23yylRr0sZKZAhhWW6b"
+      "duration_ms": 234202,
+      "name": "Underdressed",
+      "url": "https://open.spotify.com/track/1GQYCel7UNTNDZcja3jIXT"
     },
     {
       "added_at": "2023-01-05 16:59:25",

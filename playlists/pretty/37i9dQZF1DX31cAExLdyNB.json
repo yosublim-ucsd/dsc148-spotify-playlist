@@ -1,12 +1,12 @@
 {
   "description": "La orilla donde el indie se fusiona con la electr\u00f3nica.",
-  "num_followers": 59385,
+  "num_followers": 59428,
   "original_name": "Onda Indietr\u00f3nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTUyMDE4NSwwMDAwMDAwMDMxZmI4ZjEyNGNlYzJlYjZhNDVmNGU5MTU2NWMxMWI1",
+  "snapshot_id": "MTY4MTUyMDE4NSwwMDAwMDAwMDU1NmYyNTk1Yzk5ODI0NWI2NDJlZjM0MGI3MWI1MWM4",
   "tracks": [
     {
       "added_at": "2023-03-10 05:01:00",
@@ -331,26 +331,18 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "We Will Always Love You",
-        "url": "https://open.spotify.com/album/755yBlrk0Sz8tIgMMTgyr1"
+        "name": "Polydans",
+        "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
       },
       "artists": [
         {
-          "name": "The Avalanches",
-          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
-        },
-        {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        },
-        {
-          "name": "Johnny Marr",
-          "url": "https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS"
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
         }
       ],
-      "duration_ms": 187586,
-      "name": "The Divine Chord",
-      "url": "https://open.spotify.com/track/3A0cAzFKPefBCz7Z02UnnO"
+      "duration_ms": 220726,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/6VS4OTcpylKl984tzFYC11"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -387,18 +379,26 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Polydans",
-        "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
+        "name": "We Will Always Love You",
+        "url": "https://open.spotify.com/album/755yBlrk0Sz8tIgMMTgyr1"
       },
       "artists": [
         {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        },
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        },
+        {
+          "name": "Johnny Marr",
+          "url": "https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS"
         }
       ],
-      "duration_ms": 220726,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/6VS4OTcpylKl984tzFYC11"
+      "duration_ms": 187586,
+      "name": "The Divine Chord",
+      "url": "https://open.spotify.com/track/3A0cAzFKPefBCz7Z02UnnO"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1219,22 +1219,18 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Realidades No Ordinarias, Vol. 2",
-        "url": "https://open.spotify.com/album/7iDKNoDsFFEZrTUqvKsXAM"
+        "name": "Cuadros",
+        "url": "https://open.spotify.com/album/4Zpj0ZC8asCsFfaHBa1yxK"
       },
       "artists": [
         {
-          "name": "Bardo Jos\u00e9",
-          "url": "https://open.spotify.com/artist/5KGBbZQTTbci3K89C99XPT"
-        },
-        {
-          "name": "Boris Vian",
-          "url": "https://open.spotify.com/artist/539tqg3ZD8rczM6eTXYFy8"
+          "name": "Floreana",
+          "url": "https://open.spotify.com/artist/3pwB3UZlXcnlXoKr0abRVQ"
         }
       ],
-      "duration_ms": 289335,
-      "name": "Realidades No Ordinarias",
-      "url": "https://open.spotify.com/track/71GdwydcMwyK63mJncZwTt"
+      "duration_ms": 203625,
+      "name": "Takotsubo",
+      "url": "https://open.spotify.com/track/0xQ5PRG33HEEjMS4WiGNaz"
     }
   ],
   "unique_name": "Onda Indietr\u00f3nica",

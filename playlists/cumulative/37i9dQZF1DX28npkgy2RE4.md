@@ -4,7 +4,7 @@
 
 > New styles, deep sounds\. Cover: Scott McMicken and THE EVER\-EXPANDING
 
-387 songs - 23 hr 52 min
+388 songs - 23 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [All Being Fine](https://open.spotify.com/track/1AObGJHBNGq23MkG3ZDjbJ) | [King Hannah](https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6) | [I'm Not Sorry, I Was Just Being Me](https://open.spotify.com/album/329jZGec5ndGWyYUAX1xJC) | 3:29 | 2022-05-25 |  |
 | [All Burn No Bridge](https://open.spotify.com/track/6T5IBcI8Ann5pRPSPSsyFf) | [Emily Wells](https://open.spotify.com/artist/0tKasOjdZBjHJCMsalvvjb) | [Regards to the End](https://open.spotify.com/album/1vhEXwW0WBxGiMBsL4ksaO) | 5:03 | 2022-04-01 | 2022-07-20 |
 | [All My Dreams](https://open.spotify.com/track/5St1urzGD938Zo3BL12Mam) | [The Heavy Heavy](https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q) | [Life and Life Only](https://open.spotify.com/album/6DeM7Vy5gmjq9FbLUcZFMr) | 3:23 | 2023-03-24 |  |
+| [all of my lessons](https://open.spotify.com/track/5pngx2j5NVygoo72yqNaEF) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [all of my lessons](https://open.spotify.com/album/4unK854kzraNk7AGOP9aTO) | 2:56 | 2023-04-14 |  |
 | [All Of The Women \[Feat\. Sa\-Roc\] \- dim star remix](https://open.spotify.com/track/2YRj7gSXG4lq2jrtuW34i0) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [Sa\-Roc](https://open.spotify.com/artist/2tjZzUU3KKhsxlmNjV3VZg), [dim star](https://open.spotify.com/artist/3XH0xpgD87ICnmkcvi1Vq3) | [All Of The Women \[Feat\. Sa\-Roc\] \(dim star remix\)](https://open.spotify.com/album/6hX7DmBnsNpvQXc6eQ3AWK) | 4:39 | 2022-04-01 | 2022-07-15 |
 | [All Or Nothing](https://open.spotify.com/track/6EX51OpDu9WQ7NW4HWg6Ma) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [All Or Nothing](https://open.spotify.com/album/5kLPrwpClELL49c0bLc7hn) | 3:55 | 2021-11-12 | 2022-01-15 |
 | [All The Good Times](https://open.spotify.com/track/1muz3TRXxuub3ERDZbNvQE) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [All The Good Times](https://open.spotify.com/album/1UjZW6c0fdVo5dYMbeuyq3) | 4:36 | 2022-04-01 | 2022-07-29 |
@@ -211,7 +212,7 @@
 | [Lose This Number](https://open.spotify.com/track/3zLQk7yhi0F8QPHU1dBBPG) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Beginners](https://open.spotify.com/album/5PLt7H7bUEQeKPdWhWf4SY) | 3:56 | 2022-07-11 |  |
 | [Love](https://open.spotify.com/track/3b3D7KTw9eaKyAyVVJl8YU) | [Sam Teskey](https://open.spotify.com/artist/5tXk98OKpmBXhjUkBsQxfZ) | [Love](https://open.spotify.com/album/3l7H6wEfuEhEZVxwGcMXP8) | 5:43 | 2021-11-12 | 2022-07-29 |
 | [Love Factory](https://open.spotify.com/track/6chIuYEKToP0M1vg0fXN95) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Katy J Pearson](https://open.spotify.com/artist/6xBsaFua2lgAUlNv8Yh0nQ) | [Love Factory](https://open.spotify.com/album/0RZAwFJb7dAWACcbmfzBQ3) | 5:19 | 2022-10-14 |  |
-| [Love Is Selfish](https://open.spotify.com/track/5ZsJidhpJJ4qFhmp5h5oyk) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Love Is Selfish](https://open.spotify.com/album/3XzfsUkZx4TCGdchhJBI1A) | 2:52 | 2022-01-14 |  |
+| [Love Is Selfish](https://open.spotify.com/track/5ZsJidhpJJ4qFhmp5h5oyk) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Love Is Selfish](https://open.spotify.com/album/3XzfsUkZx4TCGdchhJBI1A) | 2:52 | 2022-01-14 | 2023-04-16 |
 | [Love Without Possession](https://open.spotify.com/track/738fOOmAzfEssdCzYRv6Un) | [Scout LaRue Willis](https://open.spotify.com/artist/3Ysxmjrlt0lcajmYoMZznN) | [Love Without Possession](https://open.spotify.com/album/3Ugdu51uh1xMeZkOoypBNL) | 4:01 | 2021-11-12 | 2022-07-29 |
 | [Loving You Is Lonely](https://open.spotify.com/track/1IKSPT8NgQSLz5DwaxrnEe) | [Harmony Byrne](https://open.spotify.com/artist/10rUrxQwhYFzOBGUcM0tWx) | [Loving You Is Lonely](https://open.spotify.com/album/1Zs8YINM2uPmsWes22fCkQ) | 4:29 | 2021-11-12 | 2022-07-27 |
 | [Make It Out \(feat\. Maisie Peters\)](https://open.spotify.com/track/5qXbNSvVp8rB4Kcy2DTTIt) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Make It Out \(feat\. Maisie Peters\)](https://open.spotify.com/album/3i51kXWcF0fLzcwDBZFgNo) | 3:03 | 2022-01-14 |  |

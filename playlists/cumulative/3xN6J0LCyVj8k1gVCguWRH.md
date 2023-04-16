@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 edition + bonus tracks\)
 
-2,154 songs - 5 day 3 hr 48 min
+2,155 songs - 5 day 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1504,6 +1504,7 @@
 | [Quien Eres](https://open.spotify.com/track/4SOhaYjo8hyhTx5UTSk19s) | [Judy Buendia](https://open.spotify.com/artist/21ujQ8j6gHJn9MoZXH5loj) | [Quien Eres](https://open.spotify.com/album/3NF8zAVmldN1oms4GcL0pm) | 2:04 | 2022-06-24 | 2022-07-16 |
 | [Quiniela](https://open.spotify.com/track/1c37TNRJERzT5zZQEjLnjh) | [Martín de Alicia](https://open.spotify.com/artist/020DzJBnq8dApSJtT3xQsj) | [Aré Lo Que Pude](https://open.spotify.com/album/6rhoyLU1tZR4BnAlMQppsO) | 3:57 | 2023-03-29 |  |
 | [QUIT IN BLISS](https://open.spotify.com/track/2J5foZKOdULAGWT1zoAU6l) | [Chucky Factory Land](https://open.spotify.com/artist/0Z7qDTkutsqgtcavcVPd6o) | [WHAT HAPPEN IS ODD](https://open.spotify.com/album/4QAE4NJOx6r0L037WCrvib) | 2:41 | 2022-09-29 | 2022-10-18 |
+| [R\-E\-M\-I\-X](https://open.spotify.com/track/4VfHArUivaFNPVeC5nAzYL) | [J The Producer](https://open.spotify.com/artist/6W4KJOVa8HqPzqFwfRUFnl) | [R\-E\-M\-I\-X](https://open.spotify.com/album/1TtgR03sN9JomlnR5W3ugb) | 3:32 | 2023-04-15 |  |
 | [Radical Girl](https://open.spotify.com/track/10zQKFGyVysrwTZDJVocb9) | [Droo's Peace Crush](https://open.spotify.com/artist/3QPEx65Ji9k03ZCwPbmYED) | ['79 Playlist](https://open.spotify.com/album/03MvJvmxaiESXRyq5TG1oz) | 3:40 | 2021-07-23 | 2021-08-08 |
 | [Radical Honesty](https://open.spotify.com/track/7FOlVsCAMN9NCLsr8R47zt) | [Jet Vesper](https://open.spotify.com/artist/7dDrxUbMYVOPZ81c5ofzb2) | [Radical Honesty](https://open.spotify.com/album/0VJefXJCh5YfSftEGPq9F0) | 3:18 | 2022-05-20 | 2022-06-12 |
 | [Radioman](https://open.spotify.com/track/3iD1Nc2UnAoXwjqp8cyNi9) | [Jacob manuel](https://open.spotify.com/artist/1z1oTg1m6mIcznwTJAa5RW) | [Radioman](https://open.spotify.com/album/6b15SB5MPHA8NNaWL318T8) | 2:56 | 2022-03-18 | 2022-04-05 |

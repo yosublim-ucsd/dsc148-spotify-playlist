@@ -905,6 +905,36 @@
     },
     {
       "album": {
+        "name": "Mainaru Vetti Katti (From \"Dasara\") - Single",
+        "url": "https://open.spotify.com/album/0rGcHqbQ7KLQNuEpSfcmf2"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Dhee",
+          "url": "https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH"
+        },
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "Muthamil",
+          "url": "https://open.spotify.com/artist/00qjMsqhac19yBB1Um8BU2"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203052,
+      "name": "Mainaru Vetti Katti (From \"Dasara\")",
+      "url": "https://open.spotify.com/track/2bNnF0kKGMHFSaxXiitbFr"
+    },
+    {
+      "album": {
         "name": "Vendhu Thanindhathu Kaadu (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6ID1od4fd4L19s7ZjoCeW4"
       },
@@ -2174,7 +2204,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 270048,
       "name": "Vaa Thalaivaa",
       "url": "https://open.spotify.com/track/4H2ILdDNn6jkE7REM5skJC"

@@ -1,12 +1,12 @@
 {
   "description": "Louder, faster! Kickass metal tracks to drive you forward.",
-  "num_followers": 492916,
+  "num_followers": 493386,
   "original_name": "Metal Charge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDc3NjQ0NCwwMDAwMDAwMDhmMzZkNTRlY2JhZTgyOTdiZjc0ZmU3YWU2YjgwOTU3",
+  "snapshot_id": "MTY4MDc3NjQ0NCwwMDAwMDAwMDlmZTEzYmE2NmMyODYxZTIxNTkxN2QyNjZlMzMyOTFi",
   "tracks": [
     {
       "added_at": "2023-04-04 14:04:12",
@@ -379,18 +379,18 @@
     {
       "added_at": "2023-04-04 14:04:12",
       "album": {
-        "name": "TEKKNO",
-        "url": "https://open.spotify.com/album/1RCinQ2MnD8yNRsXKpeKFg"
+        "name": "Painkiller",
+        "url": "https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t"
       },
       "artists": [
         {
-          "name": "Electric Callboy",
-          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 206133,
-      "name": "We Got the Moves",
-      "url": "https://open.spotify.com/track/0W4N0KzHKWQp2Wn1Mf6uMa"
+      "duration_ms": 365826,
+      "name": "Painkiller",
+      "url": "https://open.spotify.com/track/0L7zm6afBEtrNKo6C6Gj08"
     },
     {
       "added_at": "2023-04-04 14:04:12",
@@ -411,18 +411,18 @@
     {
       "added_at": "2023-04-04 14:04:12",
       "album": {
-        "name": "Painkiller",
-        "url": "https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t"
+        "name": "TEKKNO",
+        "url": "https://open.spotify.com/album/1RCinQ2MnD8yNRsXKpeKFg"
       },
       "artists": [
         {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+          "name": "Electric Callboy",
+          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
         }
       ],
-      "duration_ms": 365826,
-      "name": "Painkiller",
-      "url": "https://open.spotify.com/track/0L7zm6afBEtrNKo6C6Gj08"
+      "duration_ms": 206133,
+      "name": "We Got the Moves",
+      "url": "https://open.spotify.com/track/0W4N0KzHKWQp2Wn1Mf6uMa"
     },
     {
       "added_at": "2023-04-04 14:04:12",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-04-04 14:04:12",
       "album": {
+        "name": "Repentless",
+        "url": "https://open.spotify.com/album/5QTGKCuJbyViaQQXjHOvjL"
+      },
+      "artists": [
+        {
+          "name": "Slayer",
+          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
+        }
+      ],
+      "duration_ms": 199866,
+      "name": "Repentless",
+      "url": "https://open.spotify.com/track/6W2KBpMMXW17r7dPyqi8Iu"
+    },
+    {
+      "added_at": "2023-04-04 14:04:12",
+      "album": {
         "name": "Eternal Blue",
         "url": "https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb"
       },
@@ -807,26 +823,6 @@
       "duration_ms": 173174,
       "name": "Holy Roller",
       "url": "https://open.spotify.com/track/3q7kMFce0TnDafVUzq8IpE"
-    },
-    {
-      "added_at": "2023-04-04 14:04:12",
-      "album": {
-        "name": "Black Hole",
-        "url": "https://open.spotify.com/album/4rTul9Y40kljIY12LiVAwB"
-      },
-      "artists": [
-        {
-          "name": "We Came As Romans",
-          "url": "https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz"
-        },
-        {
-          "name": "Caleb Shomo",
-          "url": "https://open.spotify.com/artist/0YbrhcmTTHZbsXyqjsGCGD"
-        }
-      ],
-      "duration_ms": 179181,
-      "name": "Black Hole",
-      "url": "https://open.spotify.com/track/4Y7eqYTpV7fQxpYj1isN2F"
     },
     {
       "added_at": "2023-04-04 14:04:12",
@@ -847,18 +843,22 @@
     {
       "added_at": "2023-04-04 14:04:12",
       "album": {
-        "name": "Repentless",
-        "url": "https://open.spotify.com/album/5QTGKCuJbyViaQQXjHOvjL"
+        "name": "Black Hole",
+        "url": "https://open.spotify.com/album/4rTul9Y40kljIY12LiVAwB"
       },
       "artists": [
         {
-          "name": "Slayer",
-          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
+          "name": "We Came As Romans",
+          "url": "https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz"
+        },
+        {
+          "name": "Caleb Shomo",
+          "url": "https://open.spotify.com/artist/0YbrhcmTTHZbsXyqjsGCGD"
         }
       ],
-      "duration_ms": 199866,
-      "name": "Repentless",
-      "url": "https://open.spotify.com/track/6W2KBpMMXW17r7dPyqi8Iu"
+      "duration_ms": 179181,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/4Y7eqYTpV7fQxpYj1isN2F"
     },
     {
       "added_at": "2023-04-04 14:04:12",
@@ -943,6 +943,22 @@
     {
       "added_at": "2023-04-04 14:04:12",
       "album": {
+        "name": "XIII",
+        "url": "https://open.spotify.com/album/3N1Ehmz49Lavsi23cKFWDv"
+      },
+      "artists": [
+        {
+          "name": "Mushroomhead",
+          "url": "https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M"
+        }
+      ],
+      "duration_ms": 193813,
+      "name": "Sun Doesn't Rise",
+      "url": "https://open.spotify.com/track/24CeaRaJHiMKFAVZTCu8Y0"
+    },
+    {
+      "added_at": "2023-04-04 14:04:12",
+      "album": {
         "name": "Adrenaline",
         "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
       },
@@ -959,18 +975,18 @@
     {
       "added_at": "2023-04-04 14:04:12",
       "album": {
-        "name": "XIII",
-        "url": "https://open.spotify.com/album/3N1Ehmz49Lavsi23cKFWDv"
+        "name": "The Gathering",
+        "url": "https://open.spotify.com/album/0dYgfOuAerUldWRodoOR6J"
       },
       "artists": [
         {
-          "name": "Mushroomhead",
-          "url": "https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M"
+          "name": "Testament",
+          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
         }
       ],
-      "duration_ms": 193813,
-      "name": "Sun Doesn't Rise",
-      "url": "https://open.spotify.com/track/24CeaRaJHiMKFAVZTCu8Y0"
+      "duration_ms": 203680,
+      "name": "Down for Life",
+      "url": "https://open.spotify.com/track/3pKsUMqpVr4ZJ13Mm91Xig"
     },
     {
       "added_at": "2023-04-04 14:04:12",
@@ -1007,38 +1023,6 @@
     {
       "added_at": "2023-04-04 14:04:12",
       "album": {
-        "name": "The Gathering",
-        "url": "https://open.spotify.com/album/0dYgfOuAerUldWRodoOR6J"
-      },
-      "artists": [
-        {
-          "name": "Testament",
-          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
-        }
-      ],
-      "duration_ms": 203680,
-      "name": "Down for Life",
-      "url": "https://open.spotify.com/track/3pKsUMqpVr4ZJ13Mm91Xig"
-    },
-    {
-      "added_at": "2023-04-04 14:04:12",
-      "album": {
-        "name": "The Mortal Coil",
-        "url": "https://open.spotify.com/album/1bxVLZDxByhblJftVPTddl"
-      },
-      "artists": [
-        {
-          "name": "Polaris",
-          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
-        }
-      ],
-      "duration_ms": 243913,
-      "name": "The Remedy",
-      "url": "https://open.spotify.com/track/63GJDO5mxiFP1ZQEpdUWRd"
-    },
-    {
-      "added_at": "2023-04-04 14:04:12",
-      "album": {
         "name": "The Black Crown",
         "url": "https://open.spotify.com/album/3oJKuFPVZTSeNc8G4UYV4L"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 259760,
       "name": "Madhouse",
       "url": "https://open.spotify.com/track/76BYv24CcZt2u94JRjmATX"
+    },
+    {
+      "added_at": "2023-04-04 14:04:12",
+      "album": {
+        "name": "The Mortal Coil",
+        "url": "https://open.spotify.com/album/1bxVLZDxByhblJftVPTddl"
+      },
+      "artists": [
+        {
+          "name": "Polaris",
+          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
+        }
+      ],
+      "duration_ms": 243913,
+      "name": "The Remedy",
+      "url": "https://open.spotify.com/track/63GJDO5mxiFP1ZQEpdUWRd"
     },
     {
       "added_at": "2023-04-04 14:04:12",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-04-04 14:04:12",
       "album": {
-        "name": "The Great War",
-        "url": "https://open.spotify.com/album/7FtCDX4COLE3HR2vBv7411"
-      },
-      "artists": [
-        {
-          "name": "Sabaton",
-          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
-        }
-      ],
-      "duration_ms": 268266,
-      "name": "Great War",
-      "url": "https://open.spotify.com/track/4fmr8c3rh0dUKjw14UGfaH"
-    },
-    {
-      "added_at": "2023-04-04 14:04:12",
-      "album": {
         "name": "Cannibal",
         "url": "https://open.spotify.com/album/4K15hOxya1ZF9lkWg9Dmja"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 227440,
       "name": "Choke",
       "url": "https://open.spotify.com/track/2KGCOtaTbNIbwrxS0a2UMv"
+    },
+    {
+      "added_at": "2023-04-04 14:04:12",
+      "album": {
+        "name": "The Great War",
+        "url": "https://open.spotify.com/album/7FtCDX4COLE3HR2vBv7411"
+      },
+      "artists": [
+        {
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+        }
+      ],
+      "duration_ms": 268266,
+      "name": "Great War",
+      "url": "https://open.spotify.com/track/4fmr8c3rh0dUKjw14UGfaH"
     },
     {
       "added_at": "2023-04-04 14:04:12",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-04-04 14:04:12",
       "album": {
-        "name": "Unstoppable",
-        "url": "https://open.spotify.com/album/0ZgFPrROyBNPg4jx2a261Q"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        }
-      ],
-      "duration_ms": 238109,
-      "name": "Unstoppable",
-      "url": "https://open.spotify.com/track/6KrxqNJFgdSrJTnfDnPT82"
-    },
-    {
-      "added_at": "2023-04-04 14:04:12",
-      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/28sCbClwbAhHN6ovutizQg"
       },
@@ -1215,18 +1199,18 @@
     {
       "added_at": "2023-04-04 14:04:12",
       "album": {
-        "name": "The Nexus",
-        "url": "https://open.spotify.com/album/6431V8pOEUPUW4k9ASyKCV"
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/0ZgFPrROyBNPg4jx2a261Q"
       },
       "artists": [
         {
-          "name": "Amaranthe",
-          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
         }
       ],
-      "duration_ms": 196040,
-      "name": "The Nexus",
-      "url": "https://open.spotify.com/track/3FA9wGCQWqyoqWDPhsGtO1"
+      "duration_ms": 238109,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/6KrxqNJFgdSrJTnfDnPT82"
     },
     {
       "added_at": "2023-04-04 14:04:12",
@@ -1247,18 +1231,18 @@
     {
       "added_at": "2023-04-04 14:04:12",
       "album": {
-        "name": "Evolution (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n"
+        "name": "The Nexus",
+        "url": "https://open.spotify.com/album/6431V8pOEUPUW4k9ASyKCV"
       },
       "artists": [
         {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+          "name": "Amaranthe",
+          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
         }
       ],
-      "duration_ms": 232640,
-      "name": "No More",
-      "url": "https://open.spotify.com/track/2xECSFHPgCyElhTVRaHVYP"
+      "duration_ms": 196040,
+      "name": "The Nexus",
+      "url": "https://open.spotify.com/track/3FA9wGCQWqyoqWDPhsGtO1"
     },
     {
       "added_at": "2023-04-04 14:04:12",
@@ -1295,6 +1279,22 @@
     {
       "added_at": "2023-04-04 14:04:12",
       "album": {
+        "name": "Evolution (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 232640,
+      "name": "No More",
+      "url": "https://open.spotify.com/track/2xECSFHPgCyElhTVRaHVYP"
+    },
+    {
+      "added_at": "2023-04-04 14:04:12",
+      "album": {
         "name": "Rust In Peace",
         "url": "https://open.spotify.com/album/4e6ML9RBhDyyKTaTwbiRZv"
       },
@@ -1307,22 +1307,6 @@
       "duration_ms": 322933,
       "name": "Tornado Of Souls",
       "url": "https://open.spotify.com/track/4GMQOjbWshf4Mzphkjg0DJ"
-    },
-    {
-      "added_at": "2023-04-04 14:04:12",
-      "album": {
-        "name": "Tempo of the Damned",
-        "url": "https://open.spotify.com/album/3sNPwtcV7Xv9CixCk0PpqP"
-      },
-      "artists": [
-        {
-          "name": "Exodus",
-          "url": "https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH"
-        }
-      ],
-      "duration_ms": 376920,
-      "name": "Blacklist",
-      "url": "https://open.spotify.com/track/3iUJrkMilUVkUKtYZK7Th4"
     },
     {
       "added_at": "2023-04-04 14:04:12",
@@ -1355,6 +1339,22 @@
       "duration_ms": 291733,
       "name": "War Ensemble",
       "url": "https://open.spotify.com/track/1E0yt5XSdjE9NOu897RilW"
+    },
+    {
+      "added_at": "2023-04-04 14:04:12",
+      "album": {
+        "name": "Tempo of the Damned",
+        "url": "https://open.spotify.com/album/3sNPwtcV7Xv9CixCk0PpqP"
+      },
+      "artists": [
+        {
+          "name": "Exodus",
+          "url": "https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH"
+        }
+      ],
+      "duration_ms": 376920,
+      "name": "Blacklist",
+      "url": "https://open.spotify.com/track/3iUJrkMilUVkUKtYZK7Th4"
     },
     {
       "added_at": "2023-04-04 14:04:12",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-04-04 14:04:12",
       "album": {
-        "name": "Nightmare Logic",
-        "url": "https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70"
-      },
-      "artists": [
-        {
-          "name": "Power Trip",
-          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
-        }
-      ],
-      "duration_ms": 225245,
-      "name": "Executioner's Tax (Swing of the Axe)",
-      "url": "https://open.spotify.com/track/1kbwEcixFWVj5dFO9Kso3J"
-    },
-    {
-      "added_at": "2023-04-04 14:04:12",
-      "album": {
         "name": "MANTRA",
         "url": "https://open.spotify.com/album/5V4SjUDKVzGxIJDxIHfOZ3"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 233297,
       "name": "MANTRA",
       "url": "https://open.spotify.com/track/7dRj3sTBYkNbEx5kdNHriv"
+    },
+    {
+      "added_at": "2023-04-04 14:04:12",
+      "album": {
+        "name": "Nightmare Logic",
+        "url": "https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70"
+      },
+      "artists": [
+        {
+          "name": "Power Trip",
+          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
+        }
+      ],
+      "duration_ms": 225245,
+      "name": "Executioner's Tax (Swing of the Axe)",
+      "url": "https://open.spotify.com/track/1kbwEcixFWVj5dFO9Kso3J"
     },
     {
       "added_at": "2023-04-04 14:04:12",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-04-04 14:04:12",
       "album": {
-        "name": "Let The Chaos Reign",
-        "url": "https://open.spotify.com/album/0fLVaBxd0GUChzkvsKGTx8"
-      },
-      "artists": [
-        {
-          "name": "Pop Evil",
-          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
-        }
-      ],
-      "duration_ms": 198552,
-      "name": "Let The Chaos Reign",
-      "url": "https://open.spotify.com/track/01zEyqBizEZ1MDOaJ4nL4d"
-    },
-    {
-      "added_at": "2023-04-04 14:04:12",
-      "album": {
         "name": "Atonement",
         "url": "https://open.spotify.com/album/5k1IQPbz37ctTDrw4vbvtp"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 185266,
       "name": "The Signal Fire",
       "url": "https://open.spotify.com/track/5kP32cKaf8ln4PSoY6sD13"
+    },
+    {
+      "added_at": "2023-04-04 14:04:12",
+      "album": {
+        "name": "Let The Chaos Reign",
+        "url": "https://open.spotify.com/album/0fLVaBxd0GUChzkvsKGTx8"
+      },
+      "artists": [
+        {
+          "name": "Pop Evil",
+          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
+        }
+      ],
+      "duration_ms": 198552,
+      "name": "Let The Chaos Reign",
+      "url": "https://open.spotify.com/track/01zEyqBizEZ1MDOaJ4nL4d"
     },
     {
       "added_at": "2023-04-04 14:04:12",

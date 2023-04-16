@@ -4,7 +4,7 @@
 
 > songs that break bones
 
-243 songs - 10 hr 52 min
+244 songs - 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Crazy](https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Crazy](https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB) | 2:14 | 2022-07-25 |  |
 | [Crazy](https://open.spotify.com/track/5x84Im19qMtvMfiIXoxAYj) | [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV), [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [Crazy](https://open.spotify.com/album/4iVChjkQSVAg8gAVCoXV90) | 2:29 | 2022-03-29 | 2022-07-29 |
 | [Crisis](https://open.spotify.com/track/5cGi1voAzIK9PE3tmNdYsR) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [War](https://open.spotify.com/album/5UthVBNdNdHyqHmSKUlegX) | 1:49 | 2022-03-29 | 2023-01-24 |
-| [CRYPT](https://open.spotify.com/track/1oLnJ7OXGCvdRWBgkiTQfU) | [Roderick Porter](https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy) | [CRYPT](https://open.spotify.com/album/7Jz9ANs32REV7h7C3z1Yw2) | 1:45 | 2022-09-23 |  |
+| [CRYPT](https://open.spotify.com/track/1oLnJ7OXGCvdRWBgkiTQfU) | [Roderick Porter](https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy) | [CRYPT](https://open.spotify.com/album/7Jz9ANs32REV7h7C3z1Yw2) | 1:45 | 2022-09-23 | 2023-04-16 |
+| [CRYPT](https://open.spotify.com/track/3ja23IMkvBSzyvCMmyV6Fq) | [Roderick Porter](https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy) | [CRYPT](https://open.spotify.com/album/4dvognytsyyoFKrV9lW5F6) | 1:45 | 2023-03-27 |  |
 | [Customer Service](https://open.spotify.com/track/5Pnh1Ye2dhQOAQmxfxOV0R) | [Sugar Pit](https://open.spotify.com/artist/5xd7qZAa7qyYO8QpsEEBkv) | [Customer Service](https://open.spotify.com/album/4iZQPnSSp67KqtZop27Wi1) | 1:52 | 2023-04-12 |  |
 | [D ROD](https://open.spotify.com/track/3DsDTlZXGzJ7qIZ7Bs0UIX) | [Godly the Ruler](https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp) | [D ROD](https://open.spotify.com/album/2gUEha6O7cDOVFhWLWkRaw) | 2:07 | 2022-04-12 | 2022-07-29 |
 | [Dat $tick](https://open.spotify.com/track/4bdJHQp90ymjEIkkYhcENB) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [Dat $tick](https://open.spotify.com/album/7AKJUjNR4hlNcbj55lP5LA) | 2:06 | 2022-07-25 | 2023-03-28 |

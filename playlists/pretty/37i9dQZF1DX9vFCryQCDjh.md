@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vFCryQCDjh.md) - [plain]
 
 > 90년대를 수 놓았던 명곡들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,517 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,532 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,11 +47,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vFCryQCDjh.md) - [plain]
 | 37 | [0%](https://open.spotify.com/track/4QyJ9NbwZSXu9wcQpHiwqP) | [god](https://open.spotify.com/artist/7h3uRR9CdZGjnAY9stn0es) | [Chapter 5 Letter](https://open.spotify.com/album/50TP0Mj8SX6qy13FbKfOCy) | 3:48 |
 | 38 | [Hot](https://open.spotify.com/track/1IkdRtsgZCtWIekX8NrLdN) | [1TYM](https://open.spotify.com/artist/0P8IEJrM7oUTK4WwdMKsvS) | [Once N 4 All](https://open.spotify.com/album/1ezAh7aCsuTvnb3g2WIprH) | 3:38 |
 | 39 | [해변의 여인](https://open.spotify.com/track/42TBLoQJ4aETzku6qEg3NF) | [COOL](https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9) | [Cool Best](https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA) | 3:39 |
-| 40 | [칵테일 사랑](https://open.spotify.com/track/6qEGo4kAg8RK7svtm6WWQm) | [Seo Young Eun](https://open.spotify.com/artist/62kwqoGbwQOLwfOWnDb2iB), [Kim Yeon Woo](https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd) | [Remake Romantic 2](https://open.spotify.com/album/6enjQFbMz6pMOLxWPBporQ) | 3:33 |
-| 41 | [날개 잃은 천사](https://open.spotify.com/track/2X8dHI8PeFg9h8iFwdfsEz) | [Roo'RA](https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca) | [날개 잃은 천사](https://open.spotify.com/album/2FtHrfBijh49IGnbjtlScO) | 4:02 |
+| 40 | [날개 잃은 천사](https://open.spotify.com/track/2X8dHI8PeFg9h8iFwdfsEz) | [Roo'RA](https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca) | [날개 잃은 천사](https://open.spotify.com/album/2FtHrfBijh49IGnbjtlScO) | 4:02 |
+| 41 | [칵테일 사랑](https://open.spotify.com/track/6qEGo4kAg8RK7svtm6WWQm) | [Seo Young Eun](https://open.spotify.com/artist/62kwqoGbwQOLwfOWnDb2iB), [Kim Yeon Woo](https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd) | [Remake Romantic 2](https://open.spotify.com/album/6enjQFbMz6pMOLxWPBporQ) | 3:33 |
 | 42 | [Eve's Warning](https://open.spotify.com/track/2HZ8C7JkjJWSBA84bYaH1R) | [Park Mi Kyung](https://open.spotify.com/artist/7vMwmuQgDCbHQNdd7Kj3vV) | [Jungle New Style](https://open.spotify.com/album/3Il58xylKEfnn8clhyWpJU) | 4:12 |
-| 43 | [Ruby](https://open.spotify.com/track/10dxjxvKWTuJmG6vBKMz8j) | [Fin.K.L](https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS) | [Fine Killing Liberty : Blue Rain](https://open.spotify.com/album/7qYBfdhb8Lq4icwXhHoXoe) | 4:11 |
-| 44 | [여름 안에서](https://open.spotify.com/track/0haGSQ43x5QhbloDnTxVZA) | [DEUX](https://open.spotify.com/artist/64RfnYDHtR3ZaLdtxAjPDA) | [Rhythm Light Beat Black](https://open.spotify.com/album/4gGo7s9JdJAohetReMJTpI) | 4:31 |
+| 43 | [여름 안에서](https://open.spotify.com/track/0haGSQ43x5QhbloDnTxVZA) | [DEUX](https://open.spotify.com/artist/64RfnYDHtR3ZaLdtxAjPDA) | [Rhythm Light Beat Black](https://open.spotify.com/album/4gGo7s9JdJAohetReMJTpI) | 4:31 |
+| 44 | [Ruby](https://open.spotify.com/track/10dxjxvKWTuJmG6vBKMz8j) | [Fin.K.L](https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS) | [Fine Killing Liberty : Blue Rain](https://open.spotify.com/album/7qYBfdhb8Lq4icwXhHoXoe) | 4:11 |
 | 45 | [Get Up](https://open.spotify.com/track/5PmzpRLsWoWhgjpFZ6Hh9i) | [Baby V.O.X](https://open.spotify.com/artist/7H5LMtjHqkyH4U8dpLR4lo) | [Baby V.O.X Special Album](https://open.spotify.com/album/0SEOmCDuKkiXZR2v5jnmd9) | 2:12 |
 | 46 | [Excuses](https://open.spotify.com/track/7hZSoai2QgXbTuLeskVaVH) | [Kim Gun Mo](https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO) | [핑계](https://open.spotify.com/album/2Aof43935C9VCXzV7HnA39) | 3:39 |
 | 47 | [Com\` Back](https://open.spotify.com/track/2I0ZI9OGrihh0Dbn8RVSr8) | [SECHSKIES](https://open.spotify.com/artist/6uRyNreOHUvWPNGnKfIo27) | [Com\` Back](https://open.spotify.com/album/3XWtqLXDZycu7Q0BGofhiq) | 3:52 |
@@ -82,14 +82,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vFCryQCDjh.md) - [plain]
 | 72 | [Road Fighter](https://open.spotify.com/track/2xoCyFfFSJdsXgkKNF0eWF) | [SECHSKIES](https://open.spotify.com/artist/6uRyNreOHUvWPNGnKfIo27) | [Road Fighter](https://open.spotify.com/album/08TW1bmGzSg172Db8C2Bde) | 3:20 |
 | 73 | [운명](https://open.spotify.com/track/3BhXBoIr4YcQcf9mMVhoOG) | [COOL](https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9) | [Cool Best](https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA) | 3:45 |
 | 74 | [Unreasonable Reason](https://open.spotify.com/track/2FUiNAUxiuHwLFexjh3uFo) | [Park Mi Kyung](https://open.spotify.com/artist/7vMwmuQgDCbHQNdd7Kj3vV) | [이유같지 않은 이유](https://open.spotify.com/album/62H2Sd5Up0rUnftGbRjjuO) | 3:57 |
-| 75 | [SWEETY](https://open.spotify.com/track/2WOcdPaRHZp20PwaGOk602) | [Lee Ji Hye](https://open.spotify.com/artist/4fjnGkj0w54KWyIk2VTW7B), [장석현](https://open.spotify.com/artist/3StglvxBkZBZ0fk0ONsTSy), [윤보민](https://open.spotify.com/artist/1rpdg91Cnpy6E6woB0JEmk), [DINDIN](https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z) | [투유 프로젝트 \- 슈가맨 Pt.33](https://open.spotify.com/album/58KgXF6gkzxLtu19adWtZL) | 3:32 |
+| 75 | [섹시한 남자](https://open.spotify.com/track/4KA4iwe4NeFptO6mnDfvbI) | [Space A](https://open.spotify.com/artist/5TMZPKsvsx21rtdMeTElUL) | [Re\-turn](https://open.spotify.com/album/3O8lIpghPdAcJ7RFkzdk15) | 3:49 |
 | 76 | [Classroom Idea](https://open.spotify.com/track/26gRL70VtiBPmsSkd6H0mU) | [Seo Taiji and Boys](https://open.spotify.com/artist/52Gsa9Zypqztm2DeNkQfCm) | [Seotaiji and Boys III](https://open.spotify.com/album/4PeDPVydANLdboKFW69evd) | 4:19 |
-| 77 | [섹시한 남자](https://open.spotify.com/track/4KA4iwe4NeFptO6mnDfvbI) | [Space A](https://open.spotify.com/artist/5TMZPKsvsx21rtdMeTElUL) | [Re\-turn](https://open.spotify.com/album/3O8lIpghPdAcJ7RFkzdk15) | 3:49 |
+| 77 | [SWEETY](https://open.spotify.com/track/2WOcdPaRHZp20PwaGOk602) | [Lee Ji Hye](https://open.spotify.com/artist/4fjnGkj0w54KWyIk2VTW7B), [장석현](https://open.spotify.com/artist/3StglvxBkZBZ0fk0ONsTSy), [윤보민](https://open.spotify.com/artist/1rpdg91Cnpy6E6woB0JEmk), [DINDIN](https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z) | [투유 프로젝트 \- 슈가맨 Pt.33](https://open.spotify.com/album/58KgXF6gkzxLtu19adWtZL) | 3:32 |
 | 78 | [사랑을 아직도 난 I Don't Know Love](https://open.spotify.com/track/1lilimwLEAWFlImqjke27f) | [DJ DOC](https://open.spotify.com/artist/3kDgt4vVKGTLmtC3FkOwWF) | [The Life… DOC Blues](https://open.spotify.com/album/6DfZEdkXJNI0zcEI0beG9U) | 3:44 |
 | 79 | [백전무패 \(百戰無敗\)](https://open.spotify.com/track/1ul8G5Eam9xzVGnG11Ull9) | [Click\-B](https://open.spotify.com/artist/2kOGSFThgEzPEjL4fFB25w) | [Click\-B 3](https://open.spotify.com/album/59JEuiM9FKWpulCD9SzCqI) | 3:55 |
 | 80 | [타인](https://open.spotify.com/track/5PWo2Hjgqz6CxTkQpvt7Qx) | [YTC](https://open.spotify.com/artist/6IbJD9PQK5n7etiYsu0fi7) | [2nd Album](https://open.spotify.com/album/3DAeNadLM2xoQjPh8zzDYC) | 4:10 |
-| 81 | [붉은 노을](https://open.spotify.com/track/5bNAuYrv8L619MUm2xCNny) | [Lee Moon Sae](https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq) | [독창회 Ⅱ 1981\~2002 \(Live\)](https://open.spotify.com/album/4GwoC91P9MEZfyuk3ObLBb) | 2:20 |
-| 82 | [우리는](https://open.spotify.com/track/7bON6VDJ5ndO6EAxCrjVj2) | [DEUX](https://open.spotify.com/artist/64RfnYDHtR3ZaLdtxAjPDA) | [Deuxism](https://open.spotify.com/album/5Q5YrEMnQmNxtivzl4j8hM) | 3:33 |
+| 81 | [우리는](https://open.spotify.com/track/7bON6VDJ5ndO6EAxCrjVj2) | [DEUX](https://open.spotify.com/artist/64RfnYDHtR3ZaLdtxAjPDA) | [Deuxism](https://open.spotify.com/album/5Q5YrEMnQmNxtivzl4j8hM) | 3:33 |
+| 82 | [붉은 노을](https://open.spotify.com/track/5bNAuYrv8L619MUm2xCNny) | [Lee Moon Sae](https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq) | [독창회 Ⅱ 1981\~2002 \(Live\)](https://open.spotify.com/album/4GwoC91P9MEZfyuk3ObLBb) | 2:20 |
 | 83 | [늑대와 함께 춤을](https://open.spotify.com/track/04SDFqyKorGmxyZ8lopA53) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [늑대와 함께 춤을](https://open.spotify.com/album/6su9aNu18CtW7EWK9M0PUE) | 4:13 |
 | 84 | [Na Na Na](https://open.spotify.com/track/5NEyoTXkeo2L6UkRgRgSKD) | [Steve Yoo](https://open.spotify.com/artist/64mQUXcqmQCyywZEc7BtS9) | [Cyber Yoo Sueng Jun](https://open.spotify.com/album/3jrD9RUkQcrFZpy2dZL5sD) | 3:54 |
 | 85 | [도 The Way](https://open.spotify.com/track/7EfwavUg7KW5oTJtzUrMCg) | [태사자 Taesaja](https://open.spotify.com/artist/18rjQLv66TaLhZSVYQu9Jh) | [太四子 Taesaja, Vol\. 1](https://open.spotify.com/album/2h2SbpYuU6BY1XiakfuRYz) | 3:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vFCryQCDjh.md) - [plain]
 | 99 | [Cowboy](https://open.spotify.com/track/6pBKrXpNe0BHNfi8hJ5IEY) | [Click\-B](https://open.spotify.com/artist/2kOGSFThgEzPEjL4fFB25w) | [Suprise Party Collection](https://open.spotify.com/album/0jmnDcZzDE0s4fjsXOR0QX) | 3:28 |
 | 100 | [Hey, Hey, Hey](https://open.spotify.com/track/5VgjKdEj2Ppv8bSXG3GWlY) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [Jaurim 'True' Live \(Live\)](https://open.spotify.com/album/5Pejwbf19423OS2S2xoWOW) | 2:55 |
 
-Snapshot ID: `MTYxNTQ4MDA5MywwMDAwMDAwMGMzNjY1NmJjNWE2YTEwZDBhYjUzM2VjMTNkMzk0Mjdm`
+Snapshot ID: `MTYxNTQ4MDA5MywwMDAwMDAwMDNlMWY3ZmJlMzZiYjZiMDc0MTYzYzE3Njg4MmNhZTYy`

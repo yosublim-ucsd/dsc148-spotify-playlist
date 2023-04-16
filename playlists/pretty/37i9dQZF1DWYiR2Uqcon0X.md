@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 
 > The Country Coffeehouse is open! Grab a cup and lean back to some low\-key country.
 
-[Spotify](https://open.spotify.com/user/spotify) - 722,204 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 722,287 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 | 4 | [Swimming Alone](https://open.spotify.com/track/3rGe3ed1wHvPNgAlwNO686) | [Liz Rose](https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT) | [Swimming Alone](https://open.spotify.com/album/6SifWWoghYvzA2Q4n6zAzk) | 3:40 |
 | 5 | [Burning House](https://open.spotify.com/track/2zhk0kypGeOPsaaZcjyc14) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Untamed](https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB) | 3:51 |
 | 6 | [Cairo, IL](https://open.spotify.com/track/36S4cmtCiqFx3ywMpfSBDT) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Puxico](https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA) | 2:59 |
-| 7 | [Leave Me Again](https://open.spotify.com/track/5r4sq0H3vzRIqnI7yystIo) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat](https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH) | 2:58 |
+| 7 | [Sleeping Alone](https://open.spotify.com/track/7Jv0DExnLwItv5yVTBWelP) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Homeland Insecurity](https://open.spotify.com/album/3zroVeqEo7fIQ55qf3A422) | 3:50 |
 | 8 | [Two Story House](https://open.spotify.com/track/1OfA15M48QXwN2n92m7qE2) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Two Story House](https://open.spotify.com/album/2P2FI57iewRlqpOy6bhPFQ) | 3:19 |
-| 9 | [Sleeping Alone](https://open.spotify.com/track/7Jv0DExnLwItv5yVTBWelP) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Homeland Insecurity](https://open.spotify.com/album/3zroVeqEo7fIQ55qf3A422) | 3:50 |
+| 9 | [Leave Me Again](https://open.spotify.com/track/5r4sq0H3vzRIqnI7yystIo) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat](https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH) | 2:58 |
 | 10 | [Call It Dreaming](https://open.spotify.com/track/1MxHIIzcTeFnaNsDGY3pfj) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Beast Epic](https://open.spotify.com/album/33zayrSBdboyCyGTjtQrsw) | 3:51 |
 | 11 | [If We Were Vampires](https://open.spotify.com/track/250RLekaiL1q9qZer975Eg) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [The Nashville Sound](https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw) | 3:35 |
 | 12 | [You and Tequila \(feat\. Grace Potter\)](https://open.spotify.com/track/1t2hJFgJyUPD2crOafMUEk) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Hemingway's Whiskey](https://open.spotify.com/album/0EJVUQGqNRxYBBCS0OLqY7) | 4:02 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 | 25 | [Girl Goin' Nowhere](https://open.spotify.com/track/2lyEpuvVOnNGzV5c89Vnpf) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Girl Going Nowhere](https://open.spotify.com/album/2FeaUU9jFydTIsVO5F8rNU) | 3:27 |
 | 26 | [Lost in Your Love](https://open.spotify.com/track/6rNQl7PtVwGEEF0PuauOAr) | [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa) | [Originals](https://open.spotify.com/album/2bskuDoaEKsMP5lLvE6U7C) | 2:45 |
 | 27 | [WHAT I HAVE](https://open.spotify.com/track/3MAsvuKpI0k45dWmaYKSnl) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [WHAT I HAVE](https://open.spotify.com/album/6oWk4jEBd7ndcZDHFvzxAC) | 2:58 |
-| 28 | [The Time I've Wasted](https://open.spotify.com/track/1JtvwshkJMxfm4oRhJp93C) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [Numbered Doors](https://open.spotify.com/album/0nCbtAU3ojDJz83Cx0iD8y) | 3:33 |
-| 29 | [Louise](https://open.spotify.com/track/6iAu1ZHWQT8VmSQWZM40m7) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Dark Holler Pop](https://open.spotify.com/album/5f7goe6S1zLnEdSuIisROm) | 4:24 |
+| 28 | [Louise](https://open.spotify.com/track/6iAu1ZHWQT8VmSQWZM40m7) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Dark Holler Pop](https://open.spotify.com/album/5f7goe6S1zLnEdSuIisROm) | 4:24 |
+| 29 | [The Time I've Wasted](https://open.spotify.com/track/1JtvwshkJMxfm4oRhJp93C) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [Numbered Doors](https://open.spotify.com/album/0nCbtAU3ojDJz83Cx0iD8y) | 3:33 |
 | 30 | [Small Town Hypocrite](https://open.spotify.com/track/7Bpivl6q9y2FgSp1nr5MZ8) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Small Town Hypocrite](https://open.spotify.com/album/19Rq07L8SBNeIWRQqFLkiT) | 4:01 |
 | 31 | [Forgiveness](https://open.spotify.com/track/0uEqGj52IUFOcVXb4nK0sz) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [Oh, Mother](https://open.spotify.com/album/0F6OzF79qmK77Kd7LfzCgL) | 4:07 |
 | 32 | [Roadtripsong](https://open.spotify.com/track/6OMnH9uEKd7W3YK3ncuUF7) | [Abby Cates](https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n) | [Roadtripsong](https://open.spotify.com/album/0hVKsOrcrxQIoXVdJ5Nu5O) | 3:41 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 | 40 | [It'll Work Itself Out](https://open.spotify.com/track/1S0VsP2UnnOudyXtzwkVNE) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [They Are Going Away](https://open.spotify.com/album/1vbxpnA4F0erRt8OYPFIE1) | 3:02 |
 | 41 | [Far From Home](https://open.spotify.com/track/54tkmrvf1ejo3ejAHuVgq1) | [Aubrie Sellers](https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u) | [Far from Home](https://open.spotify.com/album/6EgZXWhzIYtXFo1vhKg5Ch) | 3:07 |
 | 42 | [A House Made of You](https://open.spotify.com/track/69ZO6imfpWPajcjFeU5kNI) | [Michael Shynes](https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3) | [Happy Before We Get Old](https://open.spotify.com/album/0ZROSmXfCd7Yf0hNTLmlEs) | 3:24 |
-| 43 | [Dreams \- The Campfire Sessions](https://open.spotify.com/track/0dZeiSrApr5SAkrH5rQaRH) | [Sarah Darling](https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX) | [Dreams \(The Campfire Sessions\)](https://open.spotify.com/album/1of3ww3gH47OlImOLsDAgb) | 3:46 |
-| 44 | [Asking For A Friend](https://open.spotify.com/track/5mXOdtyPOL6GEuZdCyHSsb) | [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [Dark Horse](https://open.spotify.com/album/0veZCRGPKNnX0ufHxiUnTM) | 3:59 |
+| 43 | [Asking For A Friend](https://open.spotify.com/track/5mXOdtyPOL6GEuZdCyHSsb) | [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [Dark Horse](https://open.spotify.com/album/0veZCRGPKNnX0ufHxiUnTM) | 3:59 |
+| 44 | [Dreams \- The Campfire Sessions](https://open.spotify.com/track/0dZeiSrApr5SAkrH5rQaRH) | [Sarah Darling](https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX) | [Dreams \(The Campfire Sessions\)](https://open.spotify.com/album/1of3ww3gH47OlImOLsDAgb) | 3:46 |
 | 45 | [The Love That We Need](https://open.spotify.com/track/31dEh1OeZGv61RZzDIixue) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [Lovers and Leavers](https://open.spotify.com/album/7z5FvJZESvRTwHTJT2uKc4) | 4:08 |
 | 46 | [Bulleit Blues](https://open.spotify.com/track/6tEVS3afsZXcv4Q99aEfN7) | [Sam Williams](https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz) | [Glasshouse Children](https://open.spotify.com/album/7GfFUxRWaHA2Adj0M8N1kl) | 1:31 |
 | 47 | [Love You To Death](https://open.spotify.com/track/5xQTEPjGsLuvwnnvyK3fAA) | [Chord Overstreet](https://open.spotify.com/artist/5D3muNJhYYunbRkh3FKgX0) | [Love You To Death](https://open.spotify.com/album/4vP2ZDfafpuIZoAI9rofKv) | 3:19 |
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 | 61 | [Home To Me](https://open.spotify.com/track/0aE6UUxRrKXQPL4f24PhDL) | [Jeffrey East](https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S) | [Home To Me](https://open.spotify.com/album/3v3RaCDPgrUhjxQwqqcNMZ) | 3:06 |
 | 62 | [half of my hometown \- ballerini album version](https://open.spotify.com/track/3YJOCGSlrb78vNwu6meBSf) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [ballerini](https://open.spotify.com/album/6VHAJu9jfrIAubwug9riDk) | 3:56 |
 | 63 | [Cowgirl](https://open.spotify.com/track/2KeIYazn8x4IobcS1aXram) | [Nelly Joy](https://open.spotify.com/artist/5LpodItaIbBuZQUyR65lGZ) | [Cowgirl](https://open.spotify.com/album/7nv5BlYzkMnp9VEo8OX0Dg) | 3:39 |
-| 64 | [Cheap Suit](https://open.spotify.com/track/2yWTcrs09YISrT3yXZB5Bp) | [Jeffrey Foucault](https://open.spotify.com/artist/7i36YYqKiSqVihxTcvLSBK) | [Blood Brothers](https://open.spotify.com/album/4DsOKCHNJ2RHA24Dlz68uN) | 2:38 |
+| 64 | [Wild Honey \(Acoustic\)](https://open.spotify.com/track/5yP0mhRJkEEzGlCQLyC9Mn) | [Anna Vaus](https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1) | [Wild Honey \(Acoustic\)](https://open.spotify.com/album/5tINqKaSnJLJfQZhMWmkO9) | 4:07 |
 | 65 | [20/10 TN](https://open.spotify.com/track/3lF6cdiWGp8xjoHmL1ChxV) | [Tucker Beathard](https://open.spotify.com/artist/1FQXio7XougvCvKLIu0CCk) | [KING](https://open.spotify.com/album/6sVIjO1dxKTa9Qet3y92Sj) | 3:25 |
-| 66 | [Wild Honey \(Acoustic\)](https://open.spotify.com/track/5yP0mhRJkEEzGlCQLyC9Mn) | [Anna Vaus](https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1) | [Wild Honey \(Acoustic\)](https://open.spotify.com/album/5tINqKaSnJLJfQZhMWmkO9) | 4:07 |
+| 66 | [Cheap Suit](https://open.spotify.com/track/2yWTcrs09YISrT3yXZB5Bp) | [Jeffrey Foucault](https://open.spotify.com/artist/7i36YYqKiSqVihxTcvLSBK) | [Blood Brothers](https://open.spotify.com/album/4DsOKCHNJ2RHA24Dlz68uN) | 2:38 |
 | 67 | [Heartland](https://open.spotify.com/track/5o0hAYrXcdGYUlDC8j3x34) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [The Dream: Living The Dream \(Deluxe\)](https://open.spotify.com/album/0r6KIOwZvmsEd457nUJWbt) | 3:31 |
 | 68 | [Sunday Best \- Acoustic](https://open.spotify.com/track/05MAs5o6TxAmADc3JJmkv9) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [Sunday Best \(Acoustic\)](https://open.spotify.com/album/59oCat0Wfu0qZyUV1AqcA4) | 2:47 |
 | 69 | [This Town Still Talks About You](https://open.spotify.com/track/7yPmspgKN5MPOVlyAWFtsa) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Puxico](https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA) | 4:28 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 | 74 | [End of the Rain](https://open.spotify.com/track/3ZzPTO2Qbo6cI72DBjOLep) | [Jason Blaine](https://open.spotify.com/artist/4k4DTNqE48dzmwOQU8PaKQ) | [End of the Rain](https://open.spotify.com/album/2AjVO7FIhjSQLqtLDm8xAb) | 3:15 |
 | 75 | [Nothing New](https://open.spotify.com/track/3lcPNrCGKYelcmE6PnInp4) | [Jeffrey East](https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S) | [Nothing New](https://open.spotify.com/album/3M7n1eOFNiyAkn8rbBayee) | 3:38 |
 
-Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMDI1OWEyMzE5NGJlMWJmM2JkZDE1MGMwNTFjYjJlYmI5`
+Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMGJjMDU1NTJkMGFkNjdhM2E0MGM1OGZhOTg2YTc2OTdi`

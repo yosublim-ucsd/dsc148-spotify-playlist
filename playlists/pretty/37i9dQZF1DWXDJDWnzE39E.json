@@ -1,12 +1,12 @@
 {
   "description": "A salute to all of the women opening up the pit. Cover: BABYMETAL",
-  "num_followers": 610775,
+  "num_followers": 611125,
   "original_name": "Heavy Queens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYxNjAwMCwwMDAwMDAwMGFiMjY4M2E3ZjkyMmExOGVkODM5MDBmOTI1OGE3NmJl",
+  "snapshot_id": "MTY3OTYxNjAwMCwwMDAwMDAwMGZjZTA3NjhhODkxOTUwNGMwMTQ4ZmVkYTI4MjUwZDNi",
   "tracks": [
     {
       "added_at": "2022-11-18 01:31:53",
@@ -281,38 +281,6 @@
       "url": "https://open.spotify.com/track/6CVfZfkdd4Jdvg8JnBL6Oy"
     },
     {
-      "added_at": "2023-01-20 14:00:27",
-      "album": {
-        "name": "METAL KINGDOM",
-        "url": "https://open.spotify.com/album/10aTpSUuXqxbhPJdo4kEyE"
-      },
-      "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        }
-      ],
-      "duration_ms": 351354,
-      "name": "METAL KINGDOM",
-      "url": "https://open.spotify.com/track/5qL6RJj9Nj20DGAajzGAYi"
-    },
-    {
-      "added_at": "2022-11-18 01:31:53",
-      "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/28IlwCwIt69Xh627BwUC8F"
-      },
-      "artists": [
-        {
-          "name": "In This Moment",
-          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
-        }
-      ],
-      "duration_ms": 249050,
-      "name": "As Above, So Below",
-      "url": "https://open.spotify.com/track/4pj2L6WbBAlevdxx6jgm32"
-    },
-    {
       "added_at": "2022-11-18 01:31:53",
       "album": {
         "name": "The Rapture (but it\u2019s Pink) [feat. Mothica]",
@@ -335,6 +303,38 @@
     {
       "added_at": "2022-11-18 01:31:53",
       "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/28IlwCwIt69Xh627BwUC8F"
+      },
+      "artists": [
+        {
+          "name": "In This Moment",
+          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
+        }
+      ],
+      "duration_ms": 249050,
+      "name": "As Above, So Below",
+      "url": "https://open.spotify.com/track/4pj2L6WbBAlevdxx6jgm32"
+    },
+    {
+      "added_at": "2023-01-20 14:00:27",
+      "album": {
+        "name": "METAL KINGDOM",
+        "url": "https://open.spotify.com/album/10aTpSUuXqxbhPJdo4kEyE"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        }
+      ],
+      "duration_ms": 351354,
+      "name": "METAL KINGDOM",
+      "url": "https://open.spotify.com/track/5qL6RJj9Nj20DGAajzGAYi"
+    },
+    {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
         "name": "Eternal Blue",
         "url": "https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb"
       },
@@ -347,22 +347,6 @@
       "duration_ms": 226186,
       "name": "Hurt You",
       "url": "https://open.spotify.com/track/2rFaJ6NRIRWn335tQr8lWD"
-    },
-    {
-      "added_at": "2022-11-18 01:31:53",
-      "album": {
-        "name": "Paralyzed",
-        "url": "https://open.spotify.com/album/0DiNp9OwAkJTfYOICCyHcZ"
-      },
-      "artists": [
-        {
-          "name": "Conquer Divide",
-          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
-        }
-      ],
-      "duration_ms": 225692,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/2Ez8SNfzrw2bwkrZTx5B5j"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -381,6 +365,22 @@
       "url": "https://open.spotify.com/track/2kxp6iR7nCNGYTx0eNYp2C"
     },
     {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
+        "name": "Paralyzed",
+        "url": "https://open.spotify.com/album/0DiNp9OwAkJTfYOICCyHcZ"
+      },
+      "artists": [
+        {
+          "name": "Conquer Divide",
+          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
+        }
+      ],
+      "duration_ms": 225692,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/2Ez8SNfzrw2bwkrZTx5B5j"
+    },
+    {
       "added_at": "2023-02-10 15:44:35",
       "album": {
         "name": "Opening Night",
@@ -397,22 +397,6 @@
       "url": "https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe"
     },
     {
-      "added_at": "2023-03-02 22:02:34",
-      "album": {
-        "name": "THE OTHER ONE",
-        "url": "https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t"
-      },
-      "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        }
-      ],
-      "duration_ms": 244258,
-      "name": "Light and Darkness",
-      "url": "https://open.spotify.com/track/12dYN0rS95O37qxZh3pOLV"
-    },
-    {
       "added_at": "2022-11-18 01:31:53",
       "album": {
         "name": "HUMAN. :II: NATURE.",
@@ -427,6 +411,22 @@
       "duration_ms": 302179,
       "name": "How's the Heart?",
       "url": "https://open.spotify.com/track/6lkVbijlh932FSS2I0gDrR"
+    },
+    {
+      "added_at": "2023-02-03 00:00:00",
+      "album": {
+        "name": "I Wish A Bitch Would",
+        "url": "https://open.spotify.com/album/4m3NfqJmtGrRBi2wR7o2ZR"
+      },
+      "artists": [
+        {
+          "name": "Delilah Bon",
+          "url": "https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve"
+        }
+      ],
+      "duration_ms": 206617,
+      "name": "I Wish A Bitch Would",
+      "url": "https://open.spotify.com/track/0gQYl1JVAzYrl2BDPStaIW"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -461,20 +461,20 @@
       "url": "https://open.spotify.com/track/72Cz4BgCt2RZQL3JQVwRwG"
     },
     {
-      "added_at": "2022-11-18 01:31:53",
+      "added_at": "2023-03-02 22:02:34",
       "album": {
-        "name": "We Bring You the Stars",
-        "url": "https://open.spotify.com/album/2Y2c3UxmXkDuhbjnIAE9so"
+        "name": "THE OTHER ONE",
+        "url": "https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t"
       },
       "artists": [
         {
-          "name": "Metalite",
-          "url": "https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg"
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
         }
       ],
-      "duration_ms": 180373,
-      "name": "We Bring You the Stars",
-      "url": "https://open.spotify.com/track/0xZ75ORYh9uWtBkCDbV8YU"
+      "duration_ms": 244258,
+      "name": "Light and Darkness",
+      "url": "https://open.spotify.com/track/12dYN0rS95O37qxZh3pOLV"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -493,20 +493,20 @@
       "url": "https://open.spotify.com/track/39sAePHCDbaZlpLow8lRp4"
     },
     {
-      "added_at": "2023-02-03 00:00:00",
+      "added_at": "2022-11-18 01:31:53",
       "album": {
-        "name": "I Wish A Bitch Would",
-        "url": "https://open.spotify.com/album/4m3NfqJmtGrRBi2wR7o2ZR"
+        "name": "We Bring You the Stars",
+        "url": "https://open.spotify.com/album/2Y2c3UxmXkDuhbjnIAE9so"
       },
       "artists": [
         {
-          "name": "Delilah Bon",
-          "url": "https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve"
+          "name": "Metalite",
+          "url": "https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg"
         }
       ],
-      "duration_ms": 206617,
-      "name": "I Wish A Bitch Would",
-      "url": "https://open.spotify.com/track/0gQYl1JVAzYrl2BDPStaIW"
+      "duration_ms": 180373,
+      "name": "We Bring You the Stars",
+      "url": "https://open.spotify.com/track/0xZ75ORYh9uWtBkCDbV8YU"
     },
     {
       "added_at": "2023-02-10 15:44:35",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-11-18 01:31:53",
       "album": {
-        "name": "Bottom of a Bottle",
-        "url": "https://open.spotify.com/album/4wDzDgS3DzXNoFnwVy1yD3"
-      },
-      "artists": [
-        {
-          "name": "Butcher Babies",
-          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
-        }
-      ],
-      "duration_ms": 199672,
-      "name": "Bottom of a Bottle",
-      "url": "https://open.spotify.com/track/3NmE7kZ70BVawiIw5h438U"
-    },
-    {
-      "added_at": "2022-11-18 01:31:53",
-      "album": {
         "name": "Entertain You",
         "url": "https://open.spotify.com/album/0kLPfU7TA882mqHNmrMVWB"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 211045,
       "name": "Entertain You",
       "url": "https://open.spotify.com/track/2yiDAvEEqGrkKZpNYCJ5Wm"
+    },
+    {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
+        "name": "Bottom of a Bottle",
+        "url": "https://open.spotify.com/album/4wDzDgS3DzXNoFnwVy1yD3"
+      },
+      "artists": [
+        {
+          "name": "Butcher Babies",
+          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
+        }
+      ],
+      "duration_ms": 199672,
+      "name": "Bottom of a Bottle",
+      "url": "https://open.spotify.com/track/3NmE7kZ70BVawiIw5h438U"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -655,18 +655,18 @@
     {
       "added_at": "2022-11-18 01:31:53",
       "album": {
-        "name": "Last Dance",
-        "url": "https://open.spotify.com/album/6Tayomr8QmeU9u0f2GJ0Vt"
+        "name": "Handshake with Hell",
+        "url": "https://open.spotify.com/album/0NGaiN3rXHa54qJwqzLJLV"
       },
       "artists": [
         {
-          "name": "Butcher Babies",
-          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 211875,
-      "name": "Last Dance",
-      "url": "https://open.spotify.com/track/6xrsNVrcVdTgoR7ikHWZWX"
+      "duration_ms": 338960,
+      "name": "Handshake with Hell",
+      "url": "https://open.spotify.com/track/2t5NYzZgq3cf7ck9Eg51ZQ"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -685,26 +685,10 @@
       "url": "https://open.spotify.com/track/2SpphQibJfkN9GY5nuzlof"
     },
     {
-      "added_at": "2022-11-18 01:31:53",
+      "added_at": "2023-03-17 17:53:23",
       "album": {
-        "name": "Handshake with Hell",
-        "url": "https://open.spotify.com/album/0NGaiN3rXHa54qJwqzLJLV"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 338960,
-      "name": "Handshake with Hell",
-      "url": "https://open.spotify.com/track/2t5NYzZgq3cf7ck9Eg51ZQ"
-    },
-    {
-      "added_at": "2022-11-18 01:31:53",
-      "album": {
-        "name": "Bad Decisions",
-        "url": "https://open.spotify.com/album/1BrlrOBkf4gZ8NP3tT2JhB"
+        "name": "Imposter",
+        "url": "https://open.spotify.com/album/1NIHzCmCg3oYs602XSj9o8"
       },
       "artists": [
         {
@@ -712,13 +696,13 @@
           "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
         },
         {
-          "name": "Will King",
-          "url": "https://open.spotify.com/artist/3g3ei7i91lYAZuV3UWPZgt"
+          "name": "Yours Truly",
+          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
         }
       ],
-      "duration_ms": 192919,
-      "name": "Kamikaze",
-      "url": "https://open.spotify.com/track/5ijQMO46fAA1zLF4xVhH4h"
+      "duration_ms": 183491,
+      "name": "Imposter",
+      "url": "https://open.spotify.com/track/0HDsndV2bSC8ffeF1St9L4"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -737,22 +721,6 @@
       "url": "https://open.spotify.com/track/5OF7nhjVV0dmngqYjDrZGw"
     },
     {
-      "added_at": "2023-03-02 22:02:34",
-      "album": {
-        "name": "BEAVER CAGE",
-        "url": "https://open.spotify.com/album/5JV4NKwb73DvgeUOcjlV6Z"
-      },
-      "artists": [
-        {
-          "name": "Butcher Babies",
-          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
-        }
-      ],
-      "duration_ms": 218487,
-      "name": "BEAVER CAGE",
-      "url": "https://open.spotify.com/track/2CXqW7JahyyrDEJPX9Tkp0"
-    },
-    {
       "added_at": "2022-11-18 01:31:53",
       "album": {
         "name": "Amorphous",
@@ -767,6 +735,22 @@
       "duration_ms": 208500,
       "name": "Brittle",
       "url": "https://open.spotify.com/track/274jFVlDzqSsUh2PMlsuM7"
+    },
+    {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
+        "name": "Last Dance",
+        "url": "https://open.spotify.com/album/6Tayomr8QmeU9u0f2GJ0Vt"
+      },
+      "artists": [
+        {
+          "name": "Butcher Babies",
+          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
+        }
+      ],
+      "duration_ms": 211875,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/6xrsNVrcVdTgoR7ikHWZWX"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -835,24 +819,8 @@
     {
       "added_at": "2022-11-18 01:31:53",
       "album": {
-        "name": "Sleeping with the Enemy",
-        "url": "https://open.spotify.com/album/3xGmtGuHsGeKBr9mMvAseA"
-      },
-      "artists": [
-        {
-          "name": "Butcher Babies",
-          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
-        }
-      ],
-      "duration_ms": 212927,
-      "name": "Sleeping with the Enemy",
-      "url": "https://open.spotify.com/track/4vzlN6pMehztFUIdNlei1m"
-    },
-    {
-      "added_at": "2023-03-17 17:53:23",
-      "album": {
-        "name": "Imposter",
-        "url": "https://open.spotify.com/album/1NIHzCmCg3oYs602XSj9o8"
+        "name": "Bad Decisions",
+        "url": "https://open.spotify.com/album/1BrlrOBkf4gZ8NP3tT2JhB"
       },
       "artists": [
         {
@@ -860,13 +828,29 @@
           "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
         },
         {
-          "name": "Yours Truly",
-          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
+          "name": "Will King",
+          "url": "https://open.spotify.com/artist/3g3ei7i91lYAZuV3UWPZgt"
         }
       ],
-      "duration_ms": 183491,
-      "name": "Imposter",
-      "url": "https://open.spotify.com/track/0HDsndV2bSC8ffeF1St9L4"
+      "duration_ms": 192919,
+      "name": "Kamikaze",
+      "url": "https://open.spotify.com/track/5ijQMO46fAA1zLF4xVhH4h"
+    },
+    {
+      "added_at": "2023-03-02 22:02:34",
+      "album": {
+        "name": "BEAVER CAGE",
+        "url": "https://open.spotify.com/album/5JV4NKwb73DvgeUOcjlV6Z"
+      },
+      "artists": [
+        {
+          "name": "Butcher Babies",
+          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
+        }
+      ],
+      "duration_ms": 218487,
+      "name": "BEAVER CAGE",
+      "url": "https://open.spotify.com/track/2CXqW7JahyyrDEJPX9Tkp0"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -939,6 +923,22 @@
     {
       "added_at": "2022-11-18 01:31:53",
       "album": {
+        "name": "Sleeping with the Enemy",
+        "url": "https://open.spotify.com/album/3xGmtGuHsGeKBr9mMvAseA"
+      },
+      "artists": [
+        {
+          "name": "Butcher Babies",
+          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
+        }
+      ],
+      "duration_ms": 212927,
+      "name": "Sleeping with the Enemy",
+      "url": "https://open.spotify.com/track/4vzlN6pMehztFUIdNlei1m"
+    },
+    {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
         "name": "Flux",
         "url": "https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC"
       },
@@ -1005,6 +1005,22 @@
       "url": "https://open.spotify.com/track/3BqzUoMXksxJZ0dqtPMiWo"
     },
     {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
+        "name": "Chapter I - Monarchy",
+        "url": "https://open.spotify.com/album/4oc3Yo2BGbUofcp36YBIzX"
+      },
+      "artists": [
+        {
+          "name": "Ad Infinitum",
+          "url": "https://open.spotify.com/artist/2X3qFQFHkm1sOGo5ppIoSD"
+        }
+      ],
+      "duration_ms": 229880,
+      "name": "See You In Hell",
+      "url": "https://open.spotify.com/track/5JfXImbIiGSH2tOUWnGJty"
+    },
+    {
       "added_at": "2023-02-03 00:00:00",
       "album": {
         "name": "Off With Your Head",
@@ -1023,18 +1039,18 @@
     {
       "added_at": "2022-11-18 01:31:53",
       "album": {
-        "name": "Chapter I - Monarchy",
-        "url": "https://open.spotify.com/album/4oc3Yo2BGbUofcp36YBIzX"
+        "name": "Mine",
+        "url": "https://open.spotify.com/album/2JzsMlDbOOZbiXmfHAOREG"
       },
       "artists": [
         {
-          "name": "Ad Infinitum",
-          "url": "https://open.spotify.com/artist/2X3qFQFHkm1sOGo5ppIoSD"
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 229880,
-      "name": "See You In Hell",
-      "url": "https://open.spotify.com/track/5JfXImbIiGSH2tOUWnGJty"
+      "duration_ms": 259549,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/3238Ck8nZUFvTqh4fKv8cY"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -1051,22 +1067,6 @@
       "duration_ms": 170373,
       "name": "Life's a Bitch (But I Like it So Much)",
       "url": "https://open.spotify.com/track/3pNxB32GZ03zJQ3fmUqsj5"
-    },
-    {
-      "added_at": "2022-11-18 01:31:53",
-      "album": {
-        "name": "Mine",
-        "url": "https://open.spotify.com/album/2JzsMlDbOOZbiXmfHAOREG"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 259549,
-      "name": "Mine",
-      "url": "https://open.spotify.com/track/3238Ck8nZUFvTqh4fKv8cY"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2022-11-18 01:31:53",
       "album": {
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/31w55jlg4HsGp2lp9ZgnG9"
+      },
+      "artists": [
+        {
+          "name": "Stitched Up Heart",
+          "url": "https://open.spotify.com/artist/4XG961Y3fzZF5k2gfpnaNt"
+        }
+      ],
+      "duration_ms": 189773,
+      "name": "My Demon",
+      "url": "https://open.spotify.com/track/53Lw9RbJ8JoU4HddmFF9HR"
+    },
+    {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
         "name": "Hallelujah [Feat. Charlotte Sands] (Charlotte Sands Version)",
         "url": "https://open.spotify.com/album/5HhUTvl8my5ucfG7wJjQ0z"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 176587,
       "name": "Hallelujah [Feat. Charlotte Sands] - Charlotte Sands Version",
       "url": "https://open.spotify.com/track/4tkpDoDiZ1AxCfd6roVPeM"
-    },
-    {
-      "added_at": "2022-11-18 01:31:53",
-      "album": {
-        "name": "Darkness",
-        "url": "https://open.spotify.com/album/31w55jlg4HsGp2lp9ZgnG9"
-      },
-      "artists": [
-        {
-          "name": "Stitched Up Heart",
-          "url": "https://open.spotify.com/artist/4XG961Y3fzZF5k2gfpnaNt"
-        }
-      ],
-      "duration_ms": 189773,
-      "name": "My Demon",
-      "url": "https://open.spotify.com/track/53Lw9RbJ8JoU4HddmFF9HR"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2022-11-18 01:31:53",
       "album": {
-        "name": "Who Are The Girls?",
-        "url": "https://open.spotify.com/album/1lGzgx8IIetmm9vKcu3qtE"
-      },
-      "artists": [
-        {
-          "name": "Nova Twins",
-          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
-        }
-      ],
-      "duration_ms": 201013,
-      "name": "Taxi",
-      "url": "https://open.spotify.com/track/1QMEkvlfhW8pthNN5QWlnm"
-    },
-    {
-      "added_at": "2022-11-18 01:31:53",
-      "album": {
         "name": "Cure 4 Psycho",
         "url": "https://open.spotify.com/album/5mPNhLXoyn98tShWrYJfKV"
       },
@@ -1259,18 +1243,18 @@
     {
       "added_at": "2022-11-18 01:31:53",
       "album": {
-        "name": "The Bitter Truth",
-        "url": "https://open.spotify.com/album/4MYCjsaDaemi8Lmkj5PzkL"
+        "name": "Who Are The Girls?",
+        "url": "https://open.spotify.com/album/1lGzgx8IIetmm9vKcu3qtE"
       },
       "artists": [
         {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+          "name": "Nova Twins",
+          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
         }
       ],
-      "duration_ms": 210848,
-      "name": "Yeah Right",
-      "url": "https://open.spotify.com/track/56vERCP53h8nSEyco7TwxO"
+      "duration_ms": 201013,
+      "name": "Taxi",
+      "url": "https://open.spotify.com/track/1QMEkvlfhW8pthNN5QWlnm"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -1291,6 +1275,22 @@
       "duration_ms": 148591,
       "name": "HATE PARTY",
       "url": "https://open.spotify.com/track/2NoH5sopROxmX9qVm6h09z"
+    },
+    {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
+        "name": "The Bitter Truth",
+        "url": "https://open.spotify.com/album/4MYCjsaDaemi8Lmkj5PzkL"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 210848,
+      "name": "Yeah Right",
+      "url": "https://open.spotify.com/track/56vERCP53h8nSEyco7TwxO"
     },
     {
       "added_at": "2022-11-18 01:31:53",

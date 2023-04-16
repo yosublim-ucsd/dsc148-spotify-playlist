@@ -4,7 +4,7 @@
 
 > Pop gems to help you concentrate and stay focused.
 
-126 songs - 7 hr 32 min
+127 songs - 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Girls Like You \(feat\. Cardi B\) \- Cardi B Version](https://open.spotify.com/track/6FRLCMO5TUHTexlWo8ym1W) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Girls Like You \(feat\. Cardi B\)](https://open.spotify.com/album/75iQSBSaztFIAun9qLLCnb) | 3:55 | 2022-07-21 | 2023-01-13 |
 | [Happy Now](https://open.spotify.com/track/4keoy2fqgwGnbWlm3ZVZFa) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Happy Now](https://open.spotify.com/album/0JcW7yCW3Qj8uMfzO2lUDb) | 3:27 | 2022-07-21 | 2023-02-10 |
 | [Head And Heart On Fire](https://open.spotify.com/track/4rqe64hyIfoMfiBcvVZqfT) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Head And Heart On Fire](https://open.spotify.com/album/5BVGCXvrNere2MrR5QbWVK) | 2:35 | 2022-03-09 | 2022-07-23 |
-| [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 | 2022-07-21 |  |
+| [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 | 2022-07-21 | 2023-04-16 |
+| [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 | 2022-07-21 |  |
 | [Heat Waves](https://open.spotify.com/track/5wdzXMLwhcYD8YVZibN4ih) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Tunes of the Summer](https://open.spotify.com/album/2cvfsfnx9gAXxQpIQi0CuQ) | 3:58 | 2022-03-09 | 2022-07-29 |
 | [Hide](https://open.spotify.com/track/7GXG38022Aw5g67p1HTpOp) | [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [Hide](https://open.spotify.com/album/0rrvnWE3Wr2I8twUu80PX1) | 1:51 | 2022-03-09 | 2022-07-28 |
 | [High Hopes](https://open.spotify.com/track/3z5V7oSggDeCPeEGiCIu83) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [High Hopes](https://open.spotify.com/album/2lx32jA6XqlM6wXn6fWyCm) | 3:36 | 2022-03-09 | 2022-07-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. Cover: Waterparks
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,125,347 likes - 125 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,125,461 likes - 125 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 63 | [SCARING THE HOES](https://open.spotify.com/track/1waqS2zPI3Z1zTvJOa2hVC) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [SCARING THE HOES](https://open.spotify.com/album/3u20OXh03DjCUzbf8XcGTq) | 2:22 |
 | 64 | [Take Me Home](https://open.spotify.com/track/4JLQYVvcVDjFfpkjynRt5q) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH), [Bec Lauder](https://open.spotify.com/artist/5Wl79QF98JiagVPHNOl8g6) | [Take Me Home](https://open.spotify.com/album/11wO9C0ibWIjgVgyewwW8x) | 2:56 |
 | 65 | [nobody's favorite person, not even my own](https://open.spotify.com/track/0RmfWxyMmROruOHM3dmdKq) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [nobody's favorite person, not even my own](https://open.spotify.com/album/6B1sAAlnS5AeE9xKijrD9b) | 2:11 |
-| 66 | [Punkstar](https://open.spotify.com/track/1rppprlWCNdcJY6DQxVNkI) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Punkstar](https://open.spotify.com/album/5waz9PhRXRpr5LKEkPr09t) | 2:20 |
+| 66 | [Punkstar \(feat\. Royal & the Serpent\)](https://open.spotify.com/track/1rppprlWCNdcJY6DQxVNkI) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Punkstar \(feat\. Royal & the Serpent\)](https://open.spotify.com/album/5waz9PhRXRpr5LKEkPr09t) | 2:20 |
 | 67 | [slippery slope](https://open.spotify.com/track/358oKjk9CI5rAm3Pt48Va9) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [slippery slope](https://open.spotify.com/album/07vY4Ri2X7sl1PzwCnLGH0) | 2:19 |
 | 68 | [FREAK \(Feat\. jxdn\)](https://open.spotify.com/track/59QtD84KONsWuBFL7bwQrP) | [Beauty School Dropout](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO), [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [FREAK \(Feat\. jxdn\)](https://open.spotify.com/album/4mzZ6AB3vMXeuz2W0AWsN5) | 2:29 |
 | 69 | [Six Feet Under](https://open.spotify.com/track/2Q9pJ2YJOB6jENpyqqkqZf) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Six Feet Under](https://open.spotify.com/album/5ouxbPTfPDOnC70GIkZ27F) | 3:11 |

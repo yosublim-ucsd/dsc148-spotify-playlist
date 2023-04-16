@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > La playlist urban più grande d'Italia 🔥 Cover: Icy Subzero
 
-[Spotify](https://open.spotify.com/user/spotify) - 809,040 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 809,384 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 26 | [Non lo Sai](https://open.spotify.com/track/0D3QZNAMH2d5MFkVlebo6h) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Milano Demons](https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m) | 3:48 |
 | 27 | [Mentalité](https://open.spotify.com/track/6bgI3JZPDLm6gDE75utatQ) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [EP2](https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky) | 3:37 |
 | 28 | [FEDELE AL QUARTIERE \(feat\. Vale Pain\)](https://open.spotify.com/track/1bCqybo9LtdhrNByWLHWx0) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx), [Vale pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08) | [Giù](https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3) | 3:20 |
-| 29 | [FIUMI ROSÉ \(feat\. Ernia & Neima Ezza\)](https://open.spotify.com/track/6pGPbGOCkRg2bBOcwMqFB4) | [Don Joe](https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [DON DADA](https://open.spotify.com/album/2Z4OPYzsc9osAGBgHtsPnd) | 3:37 |
+| 29 | [FIUMI ROSÉ \(feat\. Ernia & Neima Ezza\)](https://open.spotify.com/track/2LGYGPBAl0Vm4mJ9jjcRcd) | [Don Joe](https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [DON DADA](https://open.spotify.com/album/1aElHPJaZyQZkJ2OIwXWAu) | 3:37 |
 | 30 | [Alleluia \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/1MboxS3hV7Wr8UVO59uRth) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Milano Demons](https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m) | 2:40 |
 | 31 | [Mollami Pt.2](https://open.spotify.com/track/3uQLQ73joqyMYDhI2UaBOq) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Madreperla](https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1) | 2:35 |
 | 32 | [Trafficante](https://open.spotify.com/track/1rpFM1ZbTZVS1fusCzmzg9) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Trafficante](https://open.spotify.com/album/2fqjaXJGRG5PuEqb0ftjkB) | 2:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [Marciapiedi \(feat\. Gemitaiz\)](https://open.spotify.com/track/2WXMOq2PNFW7qCHEkCyDpt) | [Lovegang126](https://open.spotify.com/artist/7Munu8K4WpaJxPfnwXh0re), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [Drone126](https://open.spotify.com/artist/4r64DBNfhWlXinhF5PAhpg) | [Marciapiedi \(feat\. Gemitaiz\)](https://open.spotify.com/album/68RJr5UUMja95uIj10KcIr) | 3:12 |
 | 50 | [DONNA VEDI](https://open.spotify.com/track/1ddXr35F0pevdaLeqW83NH) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [L'AMORE](https://open.spotify.com/album/4SfgZ55Rx2K9Ae0ftl52YG) | 2:43 |
 
-Snapshot ID: `MTY4MTQyMzI2MCwwMDAwMDAwMDc1NWE0MzZjNTI4ZjY1MDgzZGU0ZWRiZTRlMTBjZjlh`
+Snapshot ID: `MTY4MTQyMzI2MCwwMDAwMDAwMGZiNzQ2M2E4MGFjODJhMmJiMGJlOGIwZDAzNzY0YmUw`

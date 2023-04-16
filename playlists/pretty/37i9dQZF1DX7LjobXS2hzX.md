@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LjobXS2hzX.md) - [plain]
 
 > Voici les hits du moment\. Photo: Miley Cyrus
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,701 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,798 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,11 +16,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LjobXS2hzX.md) - [plain]
 | 6 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 |
 | 7 | [3 accords](https://open.spotify.com/track/4Hsywq7qnQVsutWBFf8rPZ) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [3 accords](https://open.spotify.com/album/1IsJS2WEY8FGvmVdX0ehQU) | 2:42 |
 | 8 | [Rush](https://open.spotify.com/track/1xs8bOvm3IzEYmcLJVOc34) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous \(Deluxe\)](https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8) | 3:05 |
-| 9 | [Matusalem](https://open.spotify.com/track/2RMo8LiuGhVaA0j8TlLbpK) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq), [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [Abri de fortune \(pour fin du monde\)](https://open.spotify.com/album/0amYsj30gPQuSgc2ukxNdO) | 3:42 |
+| 9 | [Secret](https://open.spotify.com/track/7dISpxgINJOQSuXUTEfB9x) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Sentiments](https://open.spotify.com/album/34zzJhaEHMgBndvceUHjoL) | 3:11 |
 | 10 | [LET GO](https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [LET GO](https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL) | 2:54 |
 | 11 | [Bad Memories \(feat\. Elley Duhé & FAST BOY\)](https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Bad Memories \(feat\. Elley Duhé & FAST BOY\)](https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7) | 2:28 |
-| 12 | [Search & Rescue](https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Search & Rescue](https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW) | 4:32 |
-| 13 | [Secret](https://open.spotify.com/track/7dISpxgINJOQSuXUTEfB9x) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Sentiments](https://open.spotify.com/album/34zzJhaEHMgBndvceUHjoL) | 3:11 |
+| 12 | [Matusalem](https://open.spotify.com/track/2RMo8LiuGhVaA0j8TlLbpK) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq), [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [Abri de fortune \(pour fin du monde\)](https://open.spotify.com/album/0amYsj30gPQuSgc2ukxNdO) | 3:42 |
+| 13 | [Search & Rescue](https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Search & Rescue](https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW) | 4:32 |
 | 14 | [Another Love](https://open.spotify.com/track/5E4jBLx4P0UBji68bBThSw) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Expanded Edition\)](https://open.spotify.com/album/3t0Quq8X7W90hRP5OQ5S4b) | 4:04 |
 | 15 | [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 |
 | 16 | [Take Me Home](https://open.spotify.com/track/6i0Jqg9HJgOB4V18hruSWC) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [Ses Plus Grands Succès](https://open.spotify.com/album/2VERbKTPxuqen1yO2ISCaH) | 3:06 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LjobXS2hzX.md) - [plain]
 | 74 | [SNAP](https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR) | 2:59 |
 | 75 | [Afterglow \- Version française](https://open.spotify.com/track/5FCjSDlpPTvWi3FrYtvqjn) | [Domeno](https://open.spotify.com/artist/7yMAFCnx0clryFBMwaQI3Y), [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31), [PETiTOM](https://open.spotify.com/artist/6jdST36R49wOl2Xgy5TOjv) | [Afterglow \(Version française\)](https://open.spotify.com/album/2HbDNIo7FgrRx9udYU1637) | 3:27 |
 
-Snapshot ID: `MTY4MTQ0NDgwMCwwMDAwMDAwMGVhZjdiZjYyYWUyZWJkMWI0NmE4N2U5YmFhN2U2N2Q4`
+Snapshot ID: `MTY4MTU3MTAxMCwwMDAwMDAwMGRlN2JlNjkwMzI3NmYzMTdiNGMyNWFiY2RmNzIwOTkx`

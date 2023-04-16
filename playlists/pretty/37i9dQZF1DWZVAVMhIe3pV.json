@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 298616,
+  "num_followers": 298921,
   "original_name": "Energy Booster: Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODgyOTI0NSwwMDAwMDAwMDRkYzgwNTg4YmUxYWIxOTZlOGNlMmEwODhjNzA4ZTlk",
+  "snapshot_id": "MTY3ODgyOTI0NSwwMDAwMDAwMGM5NTAyZTBmMGM1MDM3ZjgwZjRkZDIyNDJlZTcwMjhh",
   "tracks": [
     {
       "added_at": "2023-03-14 21:27:25",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-03-14 21:27:25",
       "album": {
-        "name": "Blur (Special Edition)",
-        "url": "https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 121160,
-      "name": "Song 2 - 2012 Remaster",
-      "url": "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM"
-    },
-    {
-      "added_at": "2023-03-14 21:27:25",
-      "album": {
         "name": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
         "url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 405600,
       "name": "Paradise City",
       "url": "https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5"
+    },
+    {
+      "added_at": "2023-03-14 21:27:25",
+      "album": {
+        "name": "Blur (Special Edition)",
+        "url": "https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 121160,
+      "name": "Song 2 - 2012 Remaster",
+      "url": "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM"
     },
     {
       "added_at": "2023-03-14 21:27:25",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-03-14 21:27:25",
       "album": {
-        "name": "Ten",
-        "url": "https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 292580,
-      "name": "Even Flow",
-      "url": "https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei"
-    },
-    {
-      "added_at": "2023-03-14 21:27:25",
-      "album": {
         "name": "Franz Ferdinand",
         "url": "https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z"
       },
@@ -283,8 +267,24 @@
     {
       "added_at": "2023-03-14 21:27:25",
       "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
+        "name": "Ten",
+        "url": "https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 292580,
+      "name": "Even Flow",
+      "url": "https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei"
+    },
+    {
+      "added_at": "2023-03-14 21:27:25",
+      "album": {
+        "name": "In Utero - 20th Anniversary - Deluxe Edition",
+        "url": "https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         }
       ],
-      "duration_ms": 301920,
-      "name": "Smells Like Teen Spirit",
-      "url": "https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T"
+      "duration_ms": 281160,
+      "name": "Heart-Shaped Box",
+      "url": "https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa"
     },
     {
       "added_at": "2023-03-14 21:27:25",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-03-14 21:27:25",
       "album": {
-        "name": "1984 (Remastered)",
-        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 241599,
-      "name": "Jump - 2015 Remaster",
-      "url": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"
-    },
-    {
-      "added_at": "2023-03-14 21:27:25",
-      "album": {
         "name": "Led Zeppelin III (Remaster)",
         "url": "https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 146250,
       "name": "Immigrant Song - Remaster",
       "url": "https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx"
+    },
+    {
+      "added_at": "2023-03-14 21:27:25",
+      "album": {
+        "name": "1984 (Remastered)",
+        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 241599,
+      "name": "Jump - 2015 Remaster",
+      "url": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"
     },
     {
       "added_at": "2023-03-14 21:27:25",
@@ -443,8 +443,8 @@
     {
       "added_at": "2023-03-14 21:27:25",
       "album": {
-        "name": "In Utero - 20th Anniversary - Deluxe Edition",
-        "url": "https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6"
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         }
       ],
-      "duration_ms": 281160,
-      "name": "Heart-Shaped Box",
-      "url": "https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa"
+      "duration_ms": 301920,
+      "name": "Smells Like Teen Spirit",
+      "url": "https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T"
     },
     {
       "added_at": "2023-03-14 21:27:25",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-03-14 21:27:25",
       "album": {
+        "name": "Eliminator",
+        "url": "https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 258026,
+      "name": "Sharp Dressed Man - 2008 Remaster",
+      "url": "https://open.spotify.com/track/1UBQ5GK8JaQjm5VbkBZY66"
+    },
+    {
+      "added_at": "2023-03-14 21:27:25",
+      "album": {
         "name": "Hysteria (Super Deluxe)",
         "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
       },
@@ -635,22 +651,6 @@
     {
       "added_at": "2023-03-14 21:27:25",
       "album": {
-        "name": "Eliminator",
-        "url": "https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 258026,
-      "name": "Sharp Dressed Man - 2008 Remaster",
-      "url": "https://open.spotify.com/track/1UBQ5GK8JaQjm5VbkBZY66"
-    },
-    {
-      "added_at": "2023-03-14 21:27:25",
-      "album": {
         "name": "Finding Beauty In Negative Spaces (Bonus Track Version)",
         "url": "https://open.spotify.com/album/59Tni3gA1OczshFWTMxmbo"
       },
@@ -663,22 +663,6 @@
       "duration_ms": 193893,
       "name": "Fake It",
       "url": "https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0"
-    },
-    {
-      "added_at": "2023-03-14 21:27:25",
-      "album": {
-        "name": "That's The Spirit",
-        "url": "https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 191520,
-      "name": "Throne",
-      "url": "https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H"
     },
     {
       "added_at": "2023-03-14 21:27:25",
@@ -699,6 +683,22 @@
     {
       "added_at": "2023-03-14 21:27:25",
       "album": {
+        "name": "That's The Spirit",
+        "url": "https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 191520,
+      "name": "Throne",
+      "url": "https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H"
+    },
+    {
+      "added_at": "2023-03-14 21:27:25",
+      "album": {
         "name": "Blood Sugar Sex Magik (Deluxe Edition)",
         "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
       },
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-03-14 21:27:25",
       "album": {
-        "name": "Americana",
-        "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 188666,
-      "name": "Pretty Fly (For A White Guy)",
-      "url": "https://open.spotify.com/track/3SFXsFpeGmBTtQvKiwYMDA"
-    },
-    {
-      "added_at": "2023-03-14 21:27:25",
-      "album": {
         "name": "Chocolate Starfish And The Hot Dog Flavored Water",
         "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 321040,
       "name": "Take A Look Around",
       "url": "https://open.spotify.com/track/2avKuMN2QXkaG9vvHa2JLt"
+    },
+    {
+      "added_at": "2023-03-14 21:27:25",
+      "album": {
+        "name": "Americana",
+        "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 188666,
+      "name": "Pretty Fly (For A White Guy)",
+      "url": "https://open.spotify.com/track/3SFXsFpeGmBTtQvKiwYMDA"
     },
     {
       "added_at": "2023-03-14 21:27:25",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-03-14 21:27:25",
       "album": {
-        "name": "One-X",
-        "url": "https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU"
-      },
-      "artists": [
-        {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
-        }
-      ],
-      "duration_ms": 231400,
-      "name": "Animal I Have Become",
-      "url": "https://open.spotify.com/track/56sk7jBpZV0CD31G9hEU3b"
-    },
-    {
-      "added_at": "2023-03-14 21:27:25",
-      "album": {
         "name": "Facelift",
         "url": "https://open.spotify.com/album/5LbHbwejgZXRZAgzVAjkhj"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 285200,
       "name": "Man in the Box",
       "url": "https://open.spotify.com/track/6gZVQvQZOFpzIy3HblJ20F"
+    },
+    {
+      "added_at": "2023-03-14 21:27:25",
+      "album": {
+        "name": "One-X",
+        "url": "https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        }
+      ],
+      "duration_ms": 231400,
+      "name": "Animal I Have Become",
+      "url": "https://open.spotify.com/track/56sk7jBpZV0CD31G9hEU3b"
     },
     {
       "added_at": "2023-03-14 21:27:25",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-03-14 21:27:25",
       "album": {
-        "name": "Infinity On High",
-        "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 212040,
-      "name": "This Ain't A Scene, It's An Arms Race",
-      "url": "https://open.spotify.com/track/1oagRT7LfpVlNJN6FSZDGp"
-    },
-    {
-      "added_at": "2023-03-14 21:27:25",
-      "album": {
         "name": "Black Ice",
         "url": "https://open.spotify.com/album/7qVfz4UGONwEd5nQjj0ESN"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 261506,
       "name": "Rock N Roll Train",
       "url": "https://open.spotify.com/track/4feXJ5IC3avXsVW9WNFSag"
+    },
+    {
+      "added_at": "2023-03-14 21:27:25",
+      "album": {
+        "name": "Infinity On High",
+        "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 212040,
+      "name": "This Ain't A Scene, It's An Arms Race",
+      "url": "https://open.spotify.com/track/1oagRT7LfpVlNJN6FSZDGp"
     },
     {
       "added_at": "2023-03-14 21:27:25",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-03-14 21:27:25",
       "album": {
-        "name": "abcdefu (angrier)",
-        "url": "https://open.spotify.com/album/23M1xUF2RoRSvXtpwQP4rJ"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 159836,
-      "name": "abcdefu (angrier)",
-      "url": "https://open.spotify.com/track/1EQFOouqdKYdpbNoOHRVO2"
-    },
-    {
-      "added_at": "2023-03-14 21:27:25",
-      "album": {
         "name": "The Young and The Hopeless",
         "url": "https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc"
       },
@@ -1259,18 +1243,18 @@
     {
       "added_at": "2023-03-14 21:27:25",
       "album": {
-        "name": "Runnin' Wild (Special Edition)",
-        "url": "https://open.spotify.com/album/0xsxAYE1bJEvQYYZRdotdO"
+        "name": "abcdefu (angrier)",
+        "url": "https://open.spotify.com/album/23M1xUF2RoRSvXtpwQP4rJ"
       },
       "artists": [
         {
-          "name": "Airbourne",
-          "url": "https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb"
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
         }
       ],
-      "duration_ms": 222240,
-      "name": "Runnin' Wild",
-      "url": "https://open.spotify.com/track/71fSn6OIF7HnCbgCzOBqpj"
+      "duration_ms": 159836,
+      "name": "abcdefu (angrier)",
+      "url": "https://open.spotify.com/track/1EQFOouqdKYdpbNoOHRVO2"
     },
     {
       "added_at": "2023-03-14 21:27:25",
@@ -1287,6 +1271,22 @@
       "duration_ms": 210106,
       "name": "School's Out",
       "url": "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
+    },
+    {
+      "added_at": "2023-03-14 21:27:25",
+      "album": {
+        "name": "Runnin' Wild (Special Edition)",
+        "url": "https://open.spotify.com/album/0xsxAYE1bJEvQYYZRdotdO"
+      },
+      "artists": [
+        {
+          "name": "Airbourne",
+          "url": "https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb"
+        }
+      ],
+      "duration_ms": 222240,
+      "name": "Runnin' Wild",
+      "url": "https://open.spotify.com/track/71fSn6OIF7HnCbgCzOBqpj"
     },
     {
       "added_at": "2023-03-14 21:27:25",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-03-14 21:27:25",
       "album": {
-        "name": "Dookie",
-        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 224133,
-      "name": "Welcome to Paradise",
-      "url": "https://open.spotify.com/track/5kr3j5Clb9rjEposoMyLVt"
-    },
-    {
-      "added_at": "2023-03-14 21:27:25",
-      "album": {
         "name": "The Battle Of Los Angeles",
         "url": "https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 205600,
       "name": "Sleep Now In the Fire",
       "url": "https://open.spotify.com/track/1MQTmpYOZ6fcMQc56Hdo7T"
+    },
+    {
+      "added_at": "2023-03-14 21:27:25",
+      "album": {
+        "name": "Dookie",
+        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 224133,
+      "name": "Welcome to Paradise",
+      "url": "https://open.spotify.com/track/5kr3j5Clb9rjEposoMyLVt"
     },
     {
       "added_at": "2023-03-14 21:27:25",

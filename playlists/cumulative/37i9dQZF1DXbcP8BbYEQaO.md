@@ -4,7 +4,7 @@
 
 > sparkling, shimmery synth pop ✨
 
-520 songs - 1 day 5 hr 23 min
+521 songs - 1 day 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,7 @@
 | [Feels Right](https://open.spotify.com/track/5ChP17Mxomk1Zm0MaNidDJ) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Feels Right](https://open.spotify.com/album/2a1LnnBDon4DSj9yldbLwc) | 3:00 | 2020-10-13\* | 2021-10-16 |
 | [Find an Island](https://open.spotify.com/track/4Ve0Jx7MXjU4aPrFHJRZK7) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [STELLA & STEVE](https://open.spotify.com/album/3ZJSoxsPMkNC9eb6gUn0Q8) | 3:12 | 2021-07-18 | 2022-04-17 |
 | [Fireflies](https://open.spotify.com/track/3DamFFqW32WihKkTVlwTYQ) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Ocean Eyes](https://open.spotify.com/album/3vf65wfk1EEjVhy6BjENsS) | 3:48 | 2021-06-19 | 2021-06-26 |
-| [Firefly](https://open.spotify.com/track/6K51akbgV0Tb3WI0NY1yYX) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nymph](https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4) | 3:18 | 2022-12-28 |  |
+| [Firefly](https://open.spotify.com/track/6K51akbgV0Tb3WI0NY1yYX) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nymph](https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4) | 3:18 | 2022-12-28 | 2023-04-16 |
 | [Fireworks](https://open.spotify.com/track/61z7Y4qVBKKVJbpePfH5l6) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Thundering Hopes](https://open.spotify.com/album/2oRfOLHwgEjqUC2f6YKv0U) | 4:02 | 2020-11-18 | 2021-07-17 |
 | [First Time](https://open.spotify.com/track/4L4lClgi5m2Itz6Fgt750F) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [First Time](https://open.spotify.com/album/3brTW6AYnC94Uafukxvhcu) | 2:26 | 2021-07-10 | 2021-10-02 |
 | [Flicker](https://open.spotify.com/track/5GynUhuFgbs1GBwIjzRr8U) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [Flicker](https://open.spotify.com/album/2Dnl22XDB6TpawpGUE2eCE) | 3:17 | 2023-03-24 |  |
@@ -321,6 +321,7 @@
 | [my tears ricochet](https://open.spotify.com/track/1MgV7FIyNxIG7WzMRJV5HC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:15 | 2020-11-18 | 2021-02-19 |
 | [My Thoughts on You](https://open.spotify.com/track/1AnoNTlYCt1ELWArtKsA4s) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [My Thoughts on You](https://open.spotify.com/album/0hGduSCbpvvyCqSAT90UsI) | 3:31 | 2020-10-13\* | 2021-06-26 |
 | [Naked Beaches](https://open.spotify.com/track/7Hxw5uL22mcTlX58gVyCd7) | [Hannah Georgas](https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS) | [For Evelyn](https://open.spotify.com/album/6GlOD0mAdde4b0u2SIFjkx) | 4:02 | 2020-10-13\* | 2020-11-18 |
+| [Naked In Manhattan](https://open.spotify.com/track/1IfgSUsltB1wGK9SzK7SDa) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Naked In Manhattan](https://open.spotify.com/album/6nMbaV420wdCbTqJNU6Dnp) | 3:31 | 2023-04-14 |  |
 | [Naked in Manhattan](https://open.spotify.com/track/74oXlQPr6x05HDrGVaiYXZ) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Naked in Manhattan](https://open.spotify.com/album/2aA0deq09WgAaMzIpQcv4p) | 3:31 | 2022-02-18 | 2023-03-29 |
 | [Narcissist \(feat\. The 1975\)](https://open.spotify.com/track/4qjLvvBh5ZeKEPyShKRf06) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd), [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [RIP Indo Hisashi](https://open.spotify.com/album/5l156gMmHiFQKaAqCWRkI4) | 3:15 | 2020-10-13\* | 2021-07-17 |
 | [Nervous](https://open.spotify.com/track/6HQMwVTq0x383g45PwZw5w) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Nervous](https://open.spotify.com/album/7lVfiGJFKqdNSoMj3e55uN) | 2:41 | 2021-07-10 | 2021-11-19 |

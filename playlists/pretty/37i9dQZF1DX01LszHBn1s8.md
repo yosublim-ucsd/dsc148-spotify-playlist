@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > OH I LOVE IT AND I HATE IT AT THE SAME TIME
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,982 likes - 669 songs - 1 day 11 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,974 likes - 669 songs - 1 day 11 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,9 +92,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 82 | [Green Green Grass](https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 2:47 |
 | 83 | [Queen of Kings](https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Queen of Kings](https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB) | 2:27 |
 | 84 | [Shake That](https://open.spotify.com/track/47TOnN2ffRwsEvWsTZ6IaI) | [Gang Speed](https://open.spotify.com/artist/1DzFcEcSVtNBrQzemT1mWv), [Treetalk](https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp) | [Shake That](https://open.spotify.com/album/5SoTXkh99EXoin02hPhgoL) | 2:59 |
-| 85 | [Escapism\. \- Sped Up](https://open.spotify.com/track/4rPJSqrov3zqGwXlemLBMw) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. \(Sped Up\)](https://open.spotify.com/album/1bdKI997loh6G68NED2cwX) | 3:59 |
+| 85 | [Escapism\. \- Sped Up](https://open.spotify.com/track/3XCpS4k8WqNnCpcDOSRRuz) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism.](https://open.spotify.com/album/4parxQfGC25WtlVVAm5S9q) | 3:59 |
 | 86 | [Back That Up To The Beat \- demo version](https://open.spotify.com/track/5ZQ2slXNqImBi0SdomcjYN) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Back That Up To The Beat](https://open.spotify.com/album/2gDxombRu8s5Acs8EPKpqt) | 3:31 |
-| 87 | [WORTH NOTHING \- Fast & Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [WORTH NOTHING \(Fast & Furious: Drift Tape/Phonk Vol 1\)](https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI) | 2:44 |
+| 87 | [WORTH NOTHING \(feat\. Oliver Tree\) \- Fast & Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/65tX8MBdsnTiwy9UoIPHzr) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [WORTH NOTHING \(feat\. Oliver Tree\) \[Fast & Furious: Drift Tape/Vol 1\]](https://open.spotify.com/album/3iqdAcelKcHA5cdJXse2Gr) | 2:44 |
 | 88 | [Du & Jag](https://open.spotify.com/track/1fOZciVVoZ1RqpuO5i2hbU) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Du & Jag](https://open.spotify.com/album/0UJ1RyPtQ9EMQmbBL8ZnUK) | 2:12 |
 | 89 | [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 |
 | 90 | [I Wish \- Radio Edit](https://open.spotify.com/track/0QMHVTnrFTQJoaqmkdsKhT) | [Skee\-Lo](https://open.spotify.com/artist/55Pp4Ns5VfTSFsBraW7MQy) | [I Wish](https://open.spotify.com/album/74QhQQa0lhpkOSrz9HXWyE) | 4:12 |
@@ -678,4 +678,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 668 | [Cupid's Chokehold / Breakfast in America](https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK) | [Gym Class Heroes](https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli) | [The Papercut Chronicles](https://open.spotify.com/album/4Ug3M4a8wAEebndVIF65fX) | 4:03 |
 | 669 | [Promiscuous](https://open.spotify.com/track/2gam98EZKrF9XuOkU13ApN) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 4:02 |
 
-Snapshot ID: `MTY4MTQyMzIwMCwwMDAwMDAwMGY0N2QxN2VlNzNiMTYwY2ViMWU4MjdlODk3YzY4YWI0`
+Snapshot ID: `MTY4MTQyMzIwMCwwMDAwMDAwMGIzODRlODAyZDQ3ZDk3NDc4ZThiYjQyYzgyYzJmYzcz`

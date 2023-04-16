@@ -4,7 +4,7 @@
 
 > Perreando toda la noche con Cris Mj, el más que suena.
 
-470 songs - 1 day 1 hr 53 min
+471 songs - 1 day 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Adicta](https://open.spotify.com/track/6vPdyYiVrpA0uDV9xT6t0G) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke) | [Multimillo, Vol\. 1](https://open.spotify.com/album/2pfBdekMfDRVf1MfDnwTSv) | 3:42 | 2022-07-01 | 2023-01-14 |
 | [Adicta al Perreo](https://open.spotify.com/track/7xj6vIyvd8qh9JjPzQhvHa) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Adicta al Perreo](https://open.spotify.com/album/6E4zCCVrnmZigYPqJJshdV) | 2:50 | 2022-03-11 | 2022-06-25 |
 | [Adicto](https://open.spotify.com/track/6dGEoHLwL7SJyVaRLo2aaQ) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Resistencia](https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ) | 3:26 | 2023-01-13 |  |
-| [AGUARDIENTE](https://open.spotify.com/track/6jhB0WW148mVOX7VuV2ga0) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [AGUARDIENTE](https://open.spotify.com/album/1ox6fzQPXwDtsTg8EQrplp) | 2:47 | 2023-03-10 |  |
+| [AGUARDIENTE](https://open.spotify.com/track/3Z0l8qwMuC376pcutLVsY8) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 2:47 | 2023-04-07 |  |
+| [AGUARDIENTE](https://open.spotify.com/track/6jhB0WW148mVOX7VuV2ga0) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [AGUARDIENTE](https://open.spotify.com/album/1ox6fzQPXwDtsTg8EQrplp) | 2:47 | 2023-03-10 | 2023-04-16 |
 | [Ahora \(feat\. Harry Nach\)](https://open.spotify.com/track/3EVskj3AQGaf7YcqfVWlqp) | [Ben Bulgari](https://open.spotify.com/artist/2OKp4B9CctxvyhsBX01bqG), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [Ahora \(feat\. Harry Nach\)](https://open.spotify.com/album/2zGYO6QkfKr7rk8RNAZEb0) | 4:02 | 2022-02-25 | 2022-07-30 |
 | [AIRBNB](https://open.spotify.com/track/0fuyLaeHh0TvQ65m5ojgP2) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 3:05 | 2022-11-04 | 2023-03-28 |
 | [ALERTA BB](https://open.spotify.com/track/5WoudyHePcBEHrwVYCQmSn) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [ALERTA BB](https://open.spotify.com/album/0PA4BKQQgSYov1Hytn6Ilp) | 3:16 | 2023-02-24 |  |

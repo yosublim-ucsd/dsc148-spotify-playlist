@@ -1,12 +1,12 @@
 {
   "description": "Enjoy your happy & sweet eating time with Korean theme! (\uc0ac\ub791\uc2a4\ub7ec\uc6b4 \uc74c\uc545\ub4e4\uacfc \ud589\ubcf5\ud55c \uc2dd\uc0ac \uc2dc\uac04\uc744 \uac00\uc838\ubcf4\uc138\uc694!)",
-  "num_followers": 44290,
+  "num_followers": 44336,
   "original_name": "Mukbang* (\ub2ec\ucf64\uba39\ubc29*)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkwNDMxNCwwMDAwMDAwMDcyM2RlZTgyN2RhM2E0ZGQ1MWE1ODFkNzZmMDJkMjNi",
+  "snapshot_id": "MTY3OTkwNDMxNCwwMDAwMDAwMDhjMGVkMDUwOTI1OTBmMDhjYjk1YjIwYWIwZTU5ZWFi",
   "tracks": [
     {
       "added_at": "2023-02-24 10:35:29",
@@ -235,6 +235,22 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
+        "name": "Lyricist",
+        "url": "https://open.spotify.com/album/6igUyuDlRCyjoTtPXui6bT"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 196120,
+      "name": "Lyricist",
+      "url": "https://open.spotify.com/track/1eEHOnrNLP46aGKLb1LtMI"
+    },
+    {
+      "added_at": "2023-02-24 10:35:29",
+      "album": {
         "name": "Dear My Winter",
         "url": "https://open.spotify.com/album/5SxFwvCLUU5zXwHdNSlFnN"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 200933,
       "name": "Dear My Winter",
       "url": "https://open.spotify.com/track/7sqtyHfTHtkLtnxuQ3ttvo"
-    },
-    {
-      "added_at": "2023-02-24 10:35:29",
-      "album": {
-        "name": "Lyricist",
-        "url": "https://open.spotify.com/album/6igUyuDlRCyjoTtPXui6bT"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        }
-      ],
-      "duration_ms": 196120,
-      "name": "Lyricist",
-      "url": "https://open.spotify.com/track/1eEHOnrNLP46aGKLb1LtMI"
     },
     {
       "added_at": "2023-02-24 10:35:29",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
-        "name": "Snowy Stars",
-        "url": "https://open.spotify.com/album/1pPgVjXaXsFYyQDUopeiW8"
-      },
-      "artists": [
-        {
-          "name": "HA SUNG WOON",
-          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
-        }
-      ],
-      "duration_ms": 250253,
-      "name": "Snowy Stars",
-      "url": "https://open.spotify.com/track/06apJIcWEUor6vHBE2epR4"
-    },
-    {
-      "added_at": "2023-02-24 10:35:29",
-      "album": {
         "name": "NANGMAN",
         "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 370946,
       "name": "Hachiko (Feat. Sion, Yescoba, Dayoung Ahn)",
       "url": "https://open.spotify.com/track/4MrCH9VqTyEKmeXQ7m6Geh"
+    },
+    {
+      "added_at": "2023-02-24 10:35:29",
+      "album": {
+        "name": "Snowy Stars",
+        "url": "https://open.spotify.com/album/1pPgVjXaXsFYyQDUopeiW8"
+      },
+      "artists": [
+        {
+          "name": "HA SUNG WOON",
+          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
+        }
+      ],
+      "duration_ms": 250253,
+      "name": "Snowy Stars",
+      "url": "https://open.spotify.com/track/06apJIcWEUor6vHBE2epR4"
     },
     {
       "added_at": "2023-02-24 10:35:29",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
-        "name": "Autumn Breeze (re;code Episode \u2166)",
-        "url": "https://open.spotify.com/album/5suwcs77vgb6DSRaqabylj"
-      },
-      "artists": [
-        {
-          "name": "Gummy",
-          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
-        }
-      ],
-      "duration_ms": 219813,
-      "name": "Autumn Breeze",
-      "url": "https://open.spotify.com/track/1e5qALs3pDrv203jX0XWAC"
-    },
-    {
-      "added_at": "2023-02-24 10:35:29",
-      "album": {
         "name": "YUMI's Cells, Pt. 10 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5CqqZ9yXSWFitudW1r70sX"
       },
@@ -495,18 +479,18 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
-        "name": "Unlock My Boss, Pt. 4 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/3tfCBm0ZGzC2Rdhx9kkAfh"
+        "name": "Autumn Breeze (re;code Episode \u2166)",
+        "url": "https://open.spotify.com/album/5suwcs77vgb6DSRaqabylj"
       },
       "artists": [
         {
-          "name": "Park Hyun Kyu",
-          "url": "https://open.spotify.com/artist/0tcfyZmKNzfhClf4PB8YMt"
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
         }
       ],
-      "duration_ms": 195320,
-      "name": "NOW",
-      "url": "https://open.spotify.com/track/2Tb2yszENsQNbtyAGPcjIT"
+      "duration_ms": 219813,
+      "name": "Autumn Breeze",
+      "url": "https://open.spotify.com/track/1e5qALs3pDrv203jX0XWAC"
     },
     {
       "added_at": "2023-02-24 10:35:29",
@@ -543,18 +527,18 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
-        "name": "Spring Is You",
-        "url": "https://open.spotify.com/album/7FlkrvR9nOpNzd1zZ2hpeC"
+        "name": "Unlock My Boss, Pt. 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3tfCBm0ZGzC2Rdhx9kkAfh"
       },
       "artists": [
         {
-          "name": "Han All",
-          "url": "https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS"
+          "name": "Park Hyun Kyu",
+          "url": "https://open.spotify.com/artist/0tcfyZmKNzfhClf4PB8YMt"
         }
       ],
-      "duration_ms": 225647,
-      "name": "Spring Is You",
-      "url": "https://open.spotify.com/track/3Vv0IqW9jA8EDKd3iWNutD"
+      "duration_ms": 195320,
+      "name": "NOW",
+      "url": "https://open.spotify.com/track/2Tb2yszENsQNbtyAGPcjIT"
     },
     {
       "added_at": "2023-02-24 10:35:29",
@@ -575,6 +559,22 @@
       "duration_ms": 210133,
       "name": "Love Encore (with Lee Sora)",
       "url": "https://open.spotify.com/track/25oNK6Qd3Sw9dy521cTFFA"
+    },
+    {
+      "added_at": "2023-02-24 10:35:29",
+      "album": {
+        "name": "Spring Is You",
+        "url": "https://open.spotify.com/album/7FlkrvR9nOpNzd1zZ2hpeC"
+      },
+      "artists": [
+        {
+          "name": "Han All",
+          "url": "https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS"
+        }
+      ],
+      "duration_ms": 225647,
+      "name": "Spring Is You",
+      "url": "https://open.spotify.com/track/3Vv0IqW9jA8EDKd3iWNutD"
     },
     {
       "added_at": "2023-02-24 10:35:29",
@@ -629,7 +629,7 @@
       "url": "https://open.spotify.com/track/3lGh8klnPCj95uz9b60YhD"
     },
     {
-      "added_at": "2023-04-15 00:17:20",
+      "added_at": "2023-04-16 00:14:14",
       "album": {
         "name": "We don\u2019t talk (Feat. CHEEZE)",
         "url": "https://open.spotify.com/album/0EBLkNbcXmiGBj5fPVtrvK"
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
-        "name": "Sweeet",
-        "url": "https://open.spotify.com/album/7Io0qmAUvOmpo6pVGSFiIl"
-      },
-      "artists": [
-        {
-          "name": "Milena",
-          "url": "https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n"
-        }
-      ],
-      "duration_ms": 177999,
-      "name": "Sugardance",
-      "url": "https://open.spotify.com/track/3yq1iV9RwejrwebPyWnh6B"
-    },
-    {
-      "added_at": "2023-02-24 10:35:29",
-      "album": {
         "name": "Back in Time",
         "url": "https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 255891,
       "name": "Sea Of Love",
       "url": "https://open.spotify.com/track/02AThDf6z3YEYObZdqskyB"
+    },
+    {
+      "added_at": "2023-02-24 10:35:29",
+      "album": {
+        "name": "Sweeet",
+        "url": "https://open.spotify.com/album/7Io0qmAUvOmpo6pVGSFiIl"
+      },
+      "artists": [
+        {
+          "name": "Milena",
+          "url": "https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n"
+        }
+      ],
+      "duration_ms": 177999,
+      "name": "Sugardance",
+      "url": "https://open.spotify.com/track/3yq1iV9RwejrwebPyWnh6B"
     },
     {
       "added_at": "2023-02-24 10:35:29",
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
+        "name": "My Journey",
+        "url": "https://open.spotify.com/album/2mT65W98g0OtfHnj1OaOtG"
+      },
+      "artists": [
+        {
+          "name": "Yebit",
+          "url": "https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf"
+        }
+      ],
+      "duration_ms": 203285,
+      "name": "My Journey",
+      "url": "https://open.spotify.com/track/67STgZHPb0ShricGZvb1dg"
+    },
+    {
+      "added_at": "2023-02-24 10:35:29",
+      "album": {
         "name": "\uc774\ub978 \uaca8\uc6b8",
         "url": "https://open.spotify.com/album/5rR1JjdxLhu5AagkC7u1Tu"
       },
@@ -839,38 +855,6 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
-        "name": "My Journey",
-        "url": "https://open.spotify.com/album/2mT65W98g0OtfHnj1OaOtG"
-      },
-      "artists": [
-        {
-          "name": "Yebit",
-          "url": "https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf"
-        }
-      ],
-      "duration_ms": 203285,
-      "name": "My Journey",
-      "url": "https://open.spotify.com/track/67STgZHPb0ShricGZvb1dg"
-    },
-    {
-      "added_at": "2023-02-24 10:35:29",
-      "album": {
-        "name": "BETTER - The 10th Album",
-        "url": "https://open.spotify.com/album/3YXfuI3E6OxcrtXnjAgNkM"
-      },
-      "artists": [
-        {
-          "name": "BoA",
-          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
-        }
-      ],
-      "duration_ms": 238093,
-      "name": "All That Jazz",
-      "url": "https://open.spotify.com/track/630EmrW0DgVqPdKIWMk4YR"
-    },
-    {
-      "added_at": "2023-02-24 10:35:29",
-      "album": {
         "name": "I can't tell you everything",
         "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 254600,
       "name": "Watercolour",
       "url": "https://open.spotify.com/track/272cbvi62JUEhBKrsGIbdJ"
+    },
+    {
+      "added_at": "2023-02-24 10:35:29",
+      "album": {
+        "name": "\ub108\ub294\uc5b4\ub54c",
+        "url": "https://open.spotify.com/album/35rq5Vnuto7DthwSqQD4gd"
+      },
+      "artists": [
+        {
+          "name": "Coldin",
+          "url": "https://open.spotify.com/artist/5yB6Lu343nFLxCVugcgxoG"
+        }
+      ],
+      "duration_ms": 260812,
+      "name": "\ub108\ub294\uc5b4\ub54c - Bossa Nova ver.",
+      "url": "https://open.spotify.com/track/3Py8DQJ9U3hqmaSpVjIzHh"
     },
     {
       "added_at": "2023-02-24 10:35:29",
@@ -907,18 +907,18 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
-        "name": "\ub108\ub294\uc5b4\ub54c",
-        "url": "https://open.spotify.com/album/35rq5Vnuto7DthwSqQD4gd"
+        "name": "BETTER - The 10th Album",
+        "url": "https://open.spotify.com/album/3YXfuI3E6OxcrtXnjAgNkM"
       },
       "artists": [
         {
-          "name": "Coldin",
-          "url": "https://open.spotify.com/artist/5yB6Lu343nFLxCVugcgxoG"
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
         }
       ],
-      "duration_ms": 260812,
-      "name": "\ub108\ub294\uc5b4\ub54c - Bossa Nova ver.",
-      "url": "https://open.spotify.com/track/3Py8DQJ9U3hqmaSpVjIzHh"
+      "duration_ms": 238093,
+      "name": "All That Jazz",
+      "url": "https://open.spotify.com/track/630EmrW0DgVqPdKIWMk4YR"
     },
     {
       "added_at": "2023-02-24 10:35:29",
@@ -973,7 +973,23 @@
       "url": "https://open.spotify.com/track/5dUfJmAbyDN2kbTgbV9dob"
     },
     {
-      "added_at": "2023-04-15 00:17:20",
+      "added_at": "2023-02-24 10:35:29",
+      "album": {
+        "name": "No Worries",
+        "url": "https://open.spotify.com/album/14U4o40m1Rp0Sk9sHd0nkU"
+      },
+      "artists": [
+        {
+          "name": "DAHEE",
+          "url": "https://open.spotify.com/artist/3esENfTnYy40Cs650mMtyT"
+        }
+      ],
+      "duration_ms": 174856,
+      "name": "No Worries",
+      "url": "https://open.spotify.com/track/0S4wrclgzJLWeCAAPNqxCk"
+    },
+    {
+      "added_at": "2023-04-16 00:14:14",
       "album": {
         "name": "Candy For You",
         "url": "https://open.spotify.com/album/6D7gUwsJNO2SNjxZVSUrzA"
@@ -991,18 +1007,18 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
-        "name": "No Worries",
-        "url": "https://open.spotify.com/album/14U4o40m1Rp0Sk9sHd0nkU"
+        "name": "Night Mood",
+        "url": "https://open.spotify.com/album/2HWU6jTBDcSLU41QhomIMq"
       },
       "artists": [
         {
-          "name": "DAHEE",
-          "url": "https://open.spotify.com/artist/3esENfTnYy40Cs650mMtyT"
+          "name": "SBGB",
+          "url": "https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO"
         }
       ],
-      "duration_ms": 174856,
-      "name": "No Worries",
-      "url": "https://open.spotify.com/track/0S4wrclgzJLWeCAAPNqxCk"
+      "duration_ms": 254866,
+      "name": "After The Rain",
+      "url": "https://open.spotify.com/track/4ryDa9xL9jajOZ5zbW5wjN"
     },
     {
       "added_at": "2023-02-24 10:35:29",
@@ -1019,22 +1035,6 @@
       "duration_ms": 219205,
       "name": "Butterfly on my mind",
       "url": "https://open.spotify.com/track/6I6F82g5Lk555dRHWjVR1w"
-    },
-    {
-      "added_at": "2023-02-24 10:35:29",
-      "album": {
-        "name": "Night Mood",
-        "url": "https://open.spotify.com/album/2HWU6jTBDcSLU41QhomIMq"
-      },
-      "artists": [
-        {
-          "name": "SBGB",
-          "url": "https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO"
-        }
-      ],
-      "duration_ms": 254866,
-      "name": "After The Rain",
-      "url": "https://open.spotify.com/track/4ryDa9xL9jajOZ5zbW5wjN"
     },
     {
       "added_at": "2023-02-24 10:35:29",
@@ -1107,34 +1107,6 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
-        "name": "SEOULVIBES, GROCERY",
-        "url": "https://open.spotify.com/album/7H4ODTXkDsCzqraY5DExRX"
-      },
-      "artists": [
-        {
-          "name": "KozyPop",
-          "url": "https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi"
-        },
-        {
-          "name": "DA:ON",
-          "url": "https://open.spotify.com/artist/6vdOplmzMU7t1fGRRzTZcY"
-        },
-        {
-          "name": "Gunjae",
-          "url": "https://open.spotify.com/artist/4i1Cf2H3jiYAaA8iJznkRt"
-        },
-        {
-          "name": "H!",
-          "url": "https://open.spotify.com/artist/0VwH1YpRJDhqULKTKjPWX0"
-        }
-      ],
-      "duration_ms": 171204,
-      "name": "Let's Go (feat. DA:ON, Gunjae & H!)",
-      "url": "https://open.spotify.com/track/6mtNKbzf60GX22QiHfX4cE"
-    },
-    {
-      "added_at": "2023-02-24 10:35:29",
-      "album": {
         "name": "\uc232 Forest",
         "url": "https://open.spotify.com/album/1VNPp3P1FRtolMoVUSEJQR"
       },
@@ -1167,6 +1139,34 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
+        "name": "SEOULVIBES, GROCERY",
+        "url": "https://open.spotify.com/album/7H4ODTXkDsCzqraY5DExRX"
+      },
+      "artists": [
+        {
+          "name": "KozyPop",
+          "url": "https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi"
+        },
+        {
+          "name": "DA:ON",
+          "url": "https://open.spotify.com/artist/6vdOplmzMU7t1fGRRzTZcY"
+        },
+        {
+          "name": "Gunjae",
+          "url": "https://open.spotify.com/artist/4i1Cf2H3jiYAaA8iJznkRt"
+        },
+        {
+          "name": "H!",
+          "url": "https://open.spotify.com/artist/0VwH1YpRJDhqULKTKjPWX0"
+        }
+      ],
+      "duration_ms": 171204,
+      "name": "Let's Go (feat. DA:ON, Gunjae & H!)",
+      "url": "https://open.spotify.com/track/6mtNKbzf60GX22QiHfX4cE"
+    },
+    {
+      "added_at": "2023-02-24 10:35:29",
+      "album": {
         "name": "LISH",
         "url": "https://open.spotify.com/album/6Py1in4kLxzcr1BaMY0qbj"
       },
@@ -1183,6 +1183,26 @@
       "duration_ms": 224778,
       "name": "I don't want (feat.So Jung of LADIES\u2019 CODE)",
       "url": "https://open.spotify.com/track/4bRniHgokYQNWeFTbkLIos"
+    },
+    {
+      "added_at": "2023-02-24 10:35:29",
+      "album": {
+        "name": "Rainy Apgujeong",
+        "url": "https://open.spotify.com/album/5SeTFxSNmAG5JSi3jReueV"
+      },
+      "artists": [
+        {
+          "name": "YOON GUN",
+          "url": "https://open.spotify.com/artist/15dggb3DQ4suwIfBmqb3nm"
+        },
+        {
+          "name": "Lim Hyunsik",
+          "url": "https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po"
+        }
+      ],
+      "duration_ms": 274030,
+      "name": "Rainy Apgujeong",
+      "url": "https://open.spotify.com/track/7KkPuyazzYvmwquvWfGQ6J"
     },
     {
       "added_at": "2023-02-24 10:35:29",
@@ -1207,26 +1227,6 @@
       "duration_ms": 190146,
       "name": "Play the field (With ONEW, Yoo Inna)",
       "url": "https://open.spotify.com/track/0veTa3D38HyGkz2gFZXAuz"
-    },
-    {
-      "added_at": "2023-02-24 10:35:29",
-      "album": {
-        "name": "Rainy Apgujeong",
-        "url": "https://open.spotify.com/album/5SeTFxSNmAG5JSi3jReueV"
-      },
-      "artists": [
-        {
-          "name": "YOON GUN",
-          "url": "https://open.spotify.com/artist/15dggb3DQ4suwIfBmqb3nm"
-        },
-        {
-          "name": "Lim Hyunsik",
-          "url": "https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po"
-        }
-      ],
-      "duration_ms": 274030,
-      "name": "Rainy Apgujeong",
-      "url": "https://open.spotify.com/track/7KkPuyazzYvmwquvWfGQ6J"
     },
     {
       "added_at": "2023-02-24 10:35:29",

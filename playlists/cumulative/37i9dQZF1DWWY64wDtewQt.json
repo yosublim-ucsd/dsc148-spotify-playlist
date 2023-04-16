@@ -4118,6 +4118,32 @@
     {
       "album": {
         "name": "JUDAS",
+        "url": "https://open.spotify.com/album/0QyVIrggMGABwjt79ICTdd"
+      },
+      "artists": [
+        {
+          "name": "Liodr\u00e9",
+          "url": "https://open.spotify.com/artist/1iFnL18VjckiZ512wVFapI"
+        },
+        {
+          "name": "unxbected",
+          "url": "https://open.spotify.com/artist/5Jv8vC2RoInNR3CsxANXhS"
+        },
+        {
+          "name": "Ayparia",
+          "url": "https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117707,
+      "name": "JUDAS",
+      "url": "https://open.spotify.com/track/2kW9lB6yMbpsEUKaKP1nR6"
+    },
+    {
+      "album": {
+        "name": "JUDAS",
         "url": "https://open.spotify.com/album/3bhcjWFGnBUqvrHmNr5e6c"
       },
       "artists": [
@@ -4128,7 +4154,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 117445,
       "name": "JUDAS",
       "url": "https://open.spotify.com/track/2fDvxV1N7SxQYbWNrN7YJl"
@@ -9087,6 +9113,28 @@
     },
     {
       "album": {
+        "name": "WORTH NOTHING (feat. Oliver Tree) [Fast & Furious: Drift Tape/Vol 1]",
+        "url": "https://open.spotify.com/album/3iqdAcelKcHA5cdJXse2Gr"
+      },
+      "artists": [
+        {
+          "name": "TWISTED",
+          "url": "https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG"
+        },
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164629,
+      "name": "WORTH NOTHING (feat. Oliver Tree) - Fast & Furious: Drift Tape/Phonk Vol 1",
+      "url": "https://open.spotify.com/track/65tX8MBdsnTiwy9UoIPHzr"
+    },
+    {
+      "album": {
         "name": "WORTH NOTHING (Fast & Furious: Drift Tape/Phonk Vol 1)",
         "url": "https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI"
       },
@@ -9102,7 +9150,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 164629,
       "name": "WORTH NOTHING - Fast & Furious: Drift Tape/Phonk Vol 1",
       "url": "https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB"

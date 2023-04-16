@@ -1,12 +1,12 @@
 {
   "description": "Moody electronica for the night time hours",
-  "num_followers": 103616,
+  "num_followers": 103635,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDY3OTAyOCwwMDAwMDAwMDM1ZDVlYzViMGVkYTIwYjE2MWIxOWNjYzNmYTFjN2Iy",
+  "snapshot_id": "MTY4MDY3OTAyOCwwMDAwMDAwMDU4Mjc2ZGE2MzE2YmI1NjA5ZjJmNWQyMmQxZGY1ZDU4",
   "tracks": [
     {
       "added_at": "2023-04-05 07:17:08",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-04-05 07:17:08",
       "album": {
-        "name": "Setting Sun",
-        "url": "https://open.spotify.com/album/2ExANkuoKaZn7qOGvf014G"
-      },
-      "artists": [
-        {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
-        }
-      ],
-      "duration_ms": 373166,
-      "name": "Setting Sun",
-      "url": "https://open.spotify.com/track/4BG4Smwt9cu1RzAKurrIN6"
-    },
-    {
-      "added_at": "2023-04-05 07:17:08",
-      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/6Dao9eIV6CntMa9sH2YP2B"
       },
@@ -667,18 +651,34 @@
     {
       "added_at": "2023-04-05 07:17:08",
       "album": {
-        "name": "The Corner",
-        "url": "https://open.spotify.com/album/5BTdRwKRznLonMVvEuAZPi"
+        "name": "Setting Sun",
+        "url": "https://open.spotify.com/album/2ExANkuoKaZn7qOGvf014G"
       },
       "artists": [
         {
-          "name": "Gold Panda",
-          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
         }
       ],
-      "duration_ms": 220653,
-      "name": "The Corner",
-      "url": "https://open.spotify.com/track/1Pfun1VMFlTBwgqLNdUxcR"
+      "duration_ms": 373166,
+      "name": "Setting Sun",
+      "url": "https://open.spotify.com/track/4BG4Smwt9cu1RzAKurrIN6"
+    },
+    {
+      "added_at": "2023-04-05 07:17:08",
+      "album": {
+        "name": "Caring EP",
+        "url": "https://open.spotify.com/album/3pIUvgrnnoHYdTv0pts9wX"
+      },
+      "artists": [
+        {
+          "name": "DJ Counselling",
+          "url": "https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac"
+        }
+      ],
+      "duration_ms": 274267,
+      "name": "Shapeless",
+      "url": "https://open.spotify.com/track/1PDkQCBKrza8FSiAmmm7n7"
     },
     {
       "added_at": "2023-04-05 07:17:08",
@@ -699,18 +699,18 @@
     {
       "added_at": "2023-04-05 07:17:08",
       "album": {
-        "name": "Caring EP",
-        "url": "https://open.spotify.com/album/3pIUvgrnnoHYdTv0pts9wX"
+        "name": "The Corner",
+        "url": "https://open.spotify.com/album/5BTdRwKRznLonMVvEuAZPi"
       },
       "artists": [
         {
-          "name": "DJ Counselling",
-          "url": "https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac"
+          "name": "Gold Panda",
+          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
         }
       ],
-      "duration_ms": 274267,
-      "name": "Shapeless",
-      "url": "https://open.spotify.com/track/1PDkQCBKrza8FSiAmmm7n7"
+      "duration_ms": 220653,
+      "name": "The Corner",
+      "url": "https://open.spotify.com/track/1Pfun1VMFlTBwgqLNdUxcR"
     },
     {
       "added_at": "2023-04-05 07:17:08",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-04-05 07:17:08",
       "album": {
+        "name": "Leave Here",
+        "url": "https://open.spotify.com/album/4kwlyY10z4cSiF6jmyngt9"
+      },
+      "artists": [
+        {
+          "name": "Jacques Greene",
+          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+        }
+      ],
+      "duration_ms": 297585,
+      "name": "Leave Here",
+      "url": "https://open.spotify.com/track/3JKn7wZYSwOGriPALOQPBT"
+    },
+    {
+      "added_at": "2023-04-05 07:17:08",
+      "album": {
         "name": "Sleeping Tiger on the Bund \u84c4\u52bf\u5f85\u53d1 (Flora Wong Remix)",
         "url": "https://open.spotify.com/album/1A4sqGtcGXGiyzeSQlLfov"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 201600,
       "name": "Sleeping Tiger on the Bund \u84c4\u52bf\u5f85\u53d1 - Flora Wong Remix",
       "url": "https://open.spotify.com/track/6a58UtB386V9UVtgmhf61g"
-    },
-    {
-      "added_at": "2023-04-05 07:17:08",
-      "album": {
-        "name": "Leave Here",
-        "url": "https://open.spotify.com/album/4kwlyY10z4cSiF6jmyngt9"
-      },
-      "artists": [
-        {
-          "name": "Jacques Greene",
-          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
-        }
-      ],
-      "duration_ms": 297585,
-      "name": "Leave Here",
-      "url": "https://open.spotify.com/track/3JKn7wZYSwOGriPALOQPBT"
     },
     {
       "added_at": "2023-04-05 07:17:08",
@@ -1067,18 +1067,22 @@
     {
       "added_at": "2023-04-05 07:17:08",
       "album": {
-        "name": "ENCLOSURE",
-        "url": "https://open.spotify.com/album/1hcGDnuOuufMcUn2QfmrQ0"
+        "name": "Mercury Remixes",
+        "url": "https://open.spotify.com/album/4dgG6jfRwyZyDLtB8F2yVZ"
       },
       "artists": [
         {
-          "name": "2XM",
-          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
+          "name": "The Range",
+          "url": "https://open.spotify.com/artist/5xsSdtWHooM9IL5WnDWTdD"
+        },
+        {
+          "name": "DJ Python",
+          "url": "https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl"
         }
       ],
-      "duration_ms": 259805,
-      "name": "ENCLOSURE",
-      "url": "https://open.spotify.com/track/4izuPtp0dTuJF9xoqQR4W3"
+      "duration_ms": 207304,
+      "name": "Violet - DJ Python Remix",
+      "url": "https://open.spotify.com/track/6JijA1sJukJFkEXlOnK9ZI"
     },
     {
       "added_at": "2023-04-05 07:17:08",
@@ -1099,6 +1103,22 @@
     {
       "added_at": "2023-04-05 07:17:08",
       "album": {
+        "name": "ENCLOSURE",
+        "url": "https://open.spotify.com/album/1hcGDnuOuufMcUn2QfmrQ0"
+      },
+      "artists": [
+        {
+          "name": "2XM",
+          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
+        }
+      ],
+      "duration_ms": 259805,
+      "name": "ENCLOSURE",
+      "url": "https://open.spotify.com/track/4izuPtp0dTuJF9xoqQR4W3"
+    },
+    {
+      "added_at": "2023-04-05 07:17:08",
+      "album": {
         "name": "Basic Instinct",
         "url": "https://open.spotify.com/album/22xLqkwE6w0lHo7wERFM8q"
       },
@@ -1111,6 +1131,26 @@
       "duration_ms": 284477,
       "name": "SFC - Hommage Mix",
       "url": "https://open.spotify.com/track/7tKPryPVYvvkFFG1T88XXt"
+    },
+    {
+      "added_at": "2023-04-05 07:17:08",
+      "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/3VLtsXibcVJSiiHbSu3DYY"
+      },
+      "artists": [
+        {
+          "name": "edapollo",
+          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
+        },
+        {
+          "name": "Kendl",
+          "url": "https://open.spotify.com/artist/70kLAtCzsMiSqLU8qY7QQC"
+        }
+      ],
+      "duration_ms": 266853,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/1NhtY0fQV9pna3FW6YH6PK"
     },
     {
       "added_at": "2023-04-05 07:17:08",
@@ -1151,22 +1191,18 @@
     {
       "added_at": "2023-04-05 07:17:08",
       "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/3VLtsXibcVJSiiHbSu3DYY"
+        "name": "Inertia",
+        "url": "https://open.spotify.com/album/1AZ22tLqS9tCZfLB6pocSZ"
       },
       "artists": [
         {
-          "name": "edapollo",
-          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
-        },
-        {
-          "name": "Kendl",
-          "url": "https://open.spotify.com/artist/70kLAtCzsMiSqLU8qY7QQC"
+          "name": "Otik",
+          "url": "https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB"
         }
       ],
-      "duration_ms": 266853,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/1NhtY0fQV9pna3FW6YH6PK"
+      "duration_ms": 305680,
+      "name": "Inertia",
+      "url": "https://open.spotify.com/track/1vfn6qNHbzTLQVCNZ5Lmf8"
     },
     {
       "added_at": "2023-04-05 07:17:08",
@@ -1183,46 +1219,6 @@
       "duration_ms": 398048,
       "name": "Earth To",
       "url": "https://open.spotify.com/track/11PuMG1Ej3GZcXnngdm72P"
-    },
-    {
-      "added_at": "2023-04-05 07:17:08",
-      "album": {
-        "name": "CROOK",
-        "url": "https://open.spotify.com/album/4I1K9n6EPW7AwwXtrrCDTC"
-      },
-      "artists": [
-        {
-          "name": "Slackin Beats",
-          "url": "https://open.spotify.com/artist/7gwV2BYHAZbfgmYaNxbBfw"
-        },
-        {
-          "name": "Kamohelo",
-          "url": "https://open.spotify.com/artist/4MQQ7JhKhqSqJpWGgwUSvu"
-        },
-        {
-          "name": "Joshua Idehen",
-          "url": "https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc"
-        }
-      ],
-      "duration_ms": 254268,
-      "name": "TIME",
-      "url": "https://open.spotify.com/track/0xwx7706qyfnugQQk7yTpN"
-    },
-    {
-      "added_at": "2023-04-05 07:17:08",
-      "album": {
-        "name": "Inertia",
-        "url": "https://open.spotify.com/album/1AZ22tLqS9tCZfLB6pocSZ"
-      },
-      "artists": [
-        {
-          "name": "Otik",
-          "url": "https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB"
-        }
-      ],
-      "duration_ms": 305680,
-      "name": "Inertia",
-      "url": "https://open.spotify.com/track/1vfn6qNHbzTLQVCNZ5Lmf8"
     }
   ],
   "unique_name": "Night Shift",

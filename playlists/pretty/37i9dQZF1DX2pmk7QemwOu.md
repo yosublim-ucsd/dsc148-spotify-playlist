@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pmk7QemwOu.md) - [plain]
 
 > ONE DREAM with TXT! Are you ready for a Sugar Rush Ride?
 
-[Spotify](https://open.spotify.com/user/spotify) - 620,311 likes - 62 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 620,722 likes - 62 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pmk7QemwOu.md) - [plain]
 | 53 | [Can't We Just Leave the Monster Alive?](https://open.spotify.com/track/4O7sUONPtqPBUKXuAMsoak) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: MAGIC](https://open.spotify.com/album/7yDyRk7Wvvw7JM1kqV4tJf) | 3:50 |
 | 54 | [Magic Island](https://open.spotify.com/track/5DcLYkS1rnSgRMfhXNvh0d) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: MAGIC](https://open.spotify.com/album/7yDyRk7Wvvw7JM1kqV4tJf) | 3:12 |
 | 55 | [20cm](https://open.spotify.com/track/2U28aK9o2gI7sBL4XRzFfL) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: MAGIC](https://open.spotify.com/album/7yDyRk7Wvvw7JM1kqV4tJf) | 3:37 |
-| 56 | [Angel or Devil](https://open.spotify.com/track/3sVCSgIArXIhiWHvbUmauZ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: MAGIC](https://open.spotify.com/album/7yDyRk7Wvvw7JM1kqV4tJf) | 3:52 |
+| 56 | [Angel Or Devil](https://open.spotify.com/track/3sVCSgIArXIhiWHvbUmauZ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: MAGIC](https://open.spotify.com/album/7yDyRk7Wvvw7JM1kqV4tJf) | 3:52 |
 | 57 | [Blue Orangeade](https://open.spotify.com/track/3HHFOztnhfIWxjOr2s06sw) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: STAR](https://open.spotify.com/album/5GiLAzb049s1SsDiUPhHVz) | 3:05 |
 | 58 | [CROWN](https://open.spotify.com/track/0EmYZZ8OqeALedVhijSjsg) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: STAR](https://open.spotify.com/album/5GiLAzb049s1SsDiUPhHVz) | 3:50 |
 | 59 | [Our Summer](https://open.spotify.com/track/22PEycypPsZpzlMxTgukiQ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: STAR](https://open.spotify.com/album/5GiLAzb049s1SsDiUPhHVz) | 3:30 |

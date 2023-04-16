@@ -4,7 +4,7 @@
 
 > Una mezcla sabrosa, picosita y refrescante.
 
-266 songs - 15 hr 14 min
+267 songs - 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [ESTILAZO](https://open.spotify.com/track/3S6VRZQYwuPIllMmYdAj66) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [ESTILAZO](https://open.spotify.com/album/5JsaR3E92H6w32amvOhl7t) | 2:38 | 2022-06-15 | 2022-07-01 |
 | [Evidencias](https://open.spotify.com/track/1WlGuoaPBdprLDdLYwbURH) | [Sheyla](https://open.spotify.com/artist/3zBJjnq1N6U04wH7nfNVCh) | [Dos Estilos Una Voz](https://open.spotify.com/album/1LjCQNYnd8OVmUCqGpSHIZ) | 4:48 | 2022-06-21 | 2022-07-01 |
 | [Extssy Model](https://open.spotify.com/track/24teIhDYO2RocTA2v5dY0r) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 4:00 | 2022-10-28 | 2022-12-30 |
-| [Feliz Feliz](https://open.spotify.com/track/0JZV1UuBsbSwHhGirgWaXI) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Mexico Querido](https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1) | 3:37 | 2022-01-07 |  |
+| [Feliz Feliz](https://open.spotify.com/track/0JZV1UuBsbSwHhGirgWaXI) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Mexico Querido](https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1) | 3:37 | 2022-01-07 | 2023-04-16 |
 | [Feliz, Feliz](https://open.spotify.com/track/6hFek9A3Xz4g1vgSYJBnzV) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Grupo El Mexicano](https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8) | 3:38 | 2022-01-07 | 2022-07-29 |
 | [Fiel \- Remix](https://open.spotify.com/track/43qcs9NpJhDxtG91zxFkj7) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Fiel \(Remix\)](https://open.spotify.com/album/1jBESH0DEFN7z8WH8B0B5c) | 5:49 | 2022-01-07 | 2022-06-04 |
 | [Fin de Semana](https://open.spotify.com/track/6TBzRwnX2oYd8aOrOuyK1p) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Fin de Semana](https://open.spotify.com/album/366AAoKCXunrJSqKqZuafy) | 3:44 | 2023-01-13 |  |
@@ -149,6 +149,7 @@
 | [Lo Lindo de Mi Ex](https://open.spotify.com/track/4f0FzBzq8rtqtbiHRQSJl8) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [Lo Lindo de Mi Ex](https://open.spotify.com/album/0LQOlTuQnTJWCnWGSaGnFa) | 2:12 | 2022-04-05 | 2022-06-04 |
 | [Los Collares](https://open.spotify.com/track/46FdwGMcgz6gik4RCpWBAW) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [Los Collares](https://open.spotify.com/album/1JKGaS4Mr4ZjFRlbDbAFzf) | 2:28 | 2022-10-28 |  |
 | [LUNA](https://open.spotify.com/track/4lFKjvCI3fQ1yMuKvdEvGS) | [Jd Pantoja](https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK), [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A) | [LUNA](https://open.spotify.com/album/7zxhGn6Fq3pcpOpHAcOpAD) | 3:45 | 2023-03-10 |  |
+| [M.L.P](https://open.spotify.com/track/0oYk83uZu4S5ROlM8VZMGl) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9), [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ) | [M.L.P](https://open.spotify.com/album/2Y6PFvErT2EPBIVo7RMXK1) | 3:31 | 2023-04-14 |  |
 | [Malabares](https://open.spotify.com/track/3pEZ2qP6CZzoE7htp2ZZBe) | [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Vuela Muy Alto](https://open.spotify.com/album/2lHx37g1SRidGYpGSJF7MK) | 3:31 | 2022-06-21 | 2022-07-01 |
 | [Malas Decisiones](https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:19 | 2023-03-04 |  |
 | [Malas Decisiones](https://open.spotify.com/track/2VYutJTaiK3oJursGk9z6a) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Malas Decisiones](https://open.spotify.com/album/1SBtatmdkqzCgt16ujwPBZ) | 3:27 | 2023-04-11 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up?",
-  "num_followers": 434993,
+  "num_followers": 435605,
   "original_name": "Energy Booster: R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI4MzQ0NiwwMDAwMDAwMDVkZGYzMGE0NjZlNzFkN2U5NDYwYTVmYjY1NGY2ZWZh",
+  "snapshot_id": "MTY4MDI4MzQ0NiwwMDAwMDAwMDRkYjkxODU0NmQ5ZWRmZGU0ZWRkMTZjZDdlYTc0OTAz",
   "tracks": [
     {
       "added_at": "2022-08-02 10:25:51",
@@ -541,38 +541,6 @@
       "url": "https://open.spotify.com/track/5BrTUo0xP1wKXLJWUaGFtk"
     },
     {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
-        "name": "Unleash The Dragon",
-        "url": "https://open.spotify.com/album/0nyora4kbjBGE4d1B9gxnm"
-      },
-      "artists": [
-        {
-          "name": "Sisqo",
-          "url": "https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg"
-        }
-      ],
-      "duration_ms": 253733,
-      "name": "Thong Song",
-      "url": "https://open.spotify.com/track/5Mmk2ii6laakqfeCT7OnVD"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
-        "name": "The Writing's On The Wall",
-        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 230200,
-      "name": "Jumpin', Jumpin'",
-      "url": "https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP"
-    },
-    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Smoke (feat. Lucky Daye)",
@@ -595,6 +563,38 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
+        "name": "The Writing's On The Wall",
+        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 230200,
+      "name": "Jumpin', Jumpin'",
+      "url": "https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
+        "name": "Unleash The Dragon",
+        "url": "https://open.spotify.com/album/0nyora4kbjBGE4d1B9gxnm"
+      },
+      "artists": [
+        {
+          "name": "Sisqo",
+          "url": "https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg"
+        }
+      ],
+      "duration_ms": 253733,
+      "name": "Thong Song",
+      "url": "https://open.spotify.com/track/5Mmk2ii6laakqfeCT7OnVD"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
         "name": "My Own Lane (Expanded Edition)",
         "url": "https://open.spotify.com/album/6qBNm8dkdowRUUrN7uwR11"
       },
@@ -611,6 +611,22 @@
       "duration_ms": 217800,
       "name": "Show Me (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/4q6dqyGM25sKFU8nYAGRe4"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "What It Is (Versions)",
+        "url": "https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 189824,
+      "name": "What It Is (Solo Version)",
+      "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
     },
     {
       "added_at": "2022-08-25 12:17:17",
@@ -631,26 +647,6 @@
       "duration_ms": 181013,
       "name": "Come Thru (with Usher)",
       "url": "https://open.spotify.com/track/3TTMUI5dFcbeNSDTTDY9M8"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
-        "name": "Nina Sky",
-        "url": "https://open.spotify.com/album/15Zjx7K5ifTVmXa3Nk5B88"
-      },
-      "artists": [
-        {
-          "name": "Nina Sky",
-          "url": "https://open.spotify.com/artist/6eBYLQONaYZhZNAVK061t6"
-        },
-        {
-          "name": "Jabba",
-          "url": "https://open.spotify.com/artist/6TL5LD7Gqmo99xssJEbQpA"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Move Ya Body",
-      "url": "https://open.spotify.com/track/2ndnVdR8si7CW9T8vJRHyW"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -721,20 +717,24 @@
       "url": "https://open.spotify.com/track/0k6DnZMLoEUH8NGD5zh2SE"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "What It Is (Versions)",
-        "url": "https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5"
+        "name": "Nina Sky",
+        "url": "https://open.spotify.com/album/15Zjx7K5ifTVmXa3Nk5B88"
       },
       "artists": [
         {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+          "name": "Nina Sky",
+          "url": "https://open.spotify.com/artist/6eBYLQONaYZhZNAVK061t6"
+        },
+        {
+          "name": "Jabba",
+          "url": "https://open.spotify.com/artist/6TL5LD7Gqmo99xssJEbQpA"
         }
       ],
-      "duration_ms": 189824,
-      "name": "What It Is (Solo Version)",
-      "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
+      "duration_ms": 232000,
+      "name": "Move Ya Body",
+      "url": "https://open.spotify.com/track/2ndnVdR8si7CW9T8vJRHyW"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "My Love Is Your Love",
-        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 292400,
-      "name": "It's Not Right But It's Okay",
-      "url": "https://open.spotify.com/track/7861kBrZ5aw7o4NfggcyYW"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
         "name": "Aaliyah",
         "url": "https://open.spotify.com/album/0cNaDPtbHC1PMJMRTY2GFc"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 284640,
       "name": "Try Again",
       "url": "https://open.spotify.com/track/6Wnlq1Pu3I0BajLvxn05Vr"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
+        "name": "My Love Is Your Love",
+        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 292400,
+      "name": "It's Not Right But It's Okay",
+      "url": "https://open.spotify.com/track/7861kBrZ5aw7o4NfggcyYW"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1097,6 +1097,38 @@
       "url": "https://open.spotify.com/track/4TiUFzVFDc17Gt0m1ktH2N"
     },
     {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
+        "name": "Part III",
+        "url": "https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb"
+      },
+      "artists": [
+        {
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+        }
+      ],
+      "duration_ms": 193093,
+      "name": "Peaches & Cream",
+      "url": "https://open.spotify.com/track/2SLZ2rX5773RS16mcqBxG7"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
+        "name": "Almost Famous",
+        "url": "https://open.spotify.com/album/6rqhiXmQNt6YmuavJhCVNv"
+      },
+      "artists": [
+        {
+          "name": "Lumidee",
+          "url": "https://open.spotify.com/artist/1IO0GVa1xjkFMXsg66FiE9"
+        }
+      ],
+      "duration_ms": 184906,
+      "name": "Never Leave You (Uh Oooh, Uh Oooh)",
+      "url": "https://open.spotify.com/track/1AjQE5MtP5jHQMyDepbvLI"
+    },
+    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Float (feat. Seun Kuti & Egypt 80)",
@@ -1119,38 +1151,6 @@
       "duration_ms": 242166,
       "name": "Float (feat. Seun Kuti & Egypt 80)",
       "url": "https://open.spotify.com/track/2JIY6nN5kkkfNz0TckPqYu"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
-        "name": "Almost Famous",
-        "url": "https://open.spotify.com/album/6rqhiXmQNt6YmuavJhCVNv"
-      },
-      "artists": [
-        {
-          "name": "Lumidee",
-          "url": "https://open.spotify.com/artist/1IO0GVa1xjkFMXsg66FiE9"
-        }
-      ],
-      "duration_ms": 184906,
-      "name": "Never Leave You (Uh Oooh, Uh Oooh)",
-      "url": "https://open.spotify.com/track/1AjQE5MtP5jHQMyDepbvLI"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
-        "name": "Part III",
-        "url": "https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb"
-      },
-      "artists": [
-        {
-          "name": "112",
-          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
-        }
-      ],
-      "duration_ms": 193093,
-      "name": "Peaches & Cream",
-      "url": "https://open.spotify.com/track/2SLZ2rX5773RS16mcqBxG7"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "PARTYNEXTDOOR 3 (P3)",
-        "url": "https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ"
+        "name": "Part III",
+        "url": "https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb"
       },
       "artists": [
         {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
         }
       ],
-      "duration_ms": 202661,
-      "name": "Not Nice",
-      "url": "https://open.spotify.com/track/6tHt7Ln9RV8FTlT4kTxr2b"
+      "duration_ms": 231800,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/6uRH1qMz30ZBwwUG0IYE5s"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "Part III",
-        "url": "https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb"
+        "name": "PARTYNEXTDOOR 3 (P3)",
+        "url": "https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ"
       },
       "artists": [
         {
-          "name": "112",
-          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
         }
       ],
-      "duration_ms": 231800,
-      "name": "Dance With Me",
-      "url": "https://open.spotify.com/track/6uRH1qMz30ZBwwUG0IYE5s"
+      "duration_ms": 202661,
+      "name": "Not Nice",
+      "url": "https://open.spotify.com/track/6tHt7Ln9RV8FTlT4kTxr2b"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "Butterfly",
-        "url": "https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 299826,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/5NaOWLOmVjcA3M5spRATN9"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
         "name": "Hurtin' Me",
         "url": "https://open.spotify.com/album/2xhP3p0znN775vRxRP71ET"
       },
@@ -1295,6 +1279,42 @@
       "duration_ms": 212815,
       "name": "Hurtin' Me",
       "url": "https://open.spotify.com/track/76IkF7pA7RscjDTvOFT4vb"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 299826,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/5NaOWLOmVjcA3M5spRATN9"
+    },
+    {
+      "added_at": "2023-04-16 00:01:10",
+      "album": {
+        "name": "In Pieces",
+        "url": "https://open.spotify.com/album/57eOzR6RxyfJLC3ggBQfRI"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "duration_ms": 204832,
+      "name": "Told Ya",
+      "url": "https://open.spotify.com/track/0yMAkO3xc2KwtVcFYQITcy"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1327,26 +1347,6 @@
       "duration_ms": 229866,
       "name": "More Than A Woman",
       "url": "https://open.spotify.com/track/4x2YdtTppdbL4kHPOjaunq"
-    },
-    {
-      "added_at": "2023-04-15 00:36:27",
-      "album": {
-        "name": "In Pieces",
-        "url": "https://open.spotify.com/album/57eOzR6RxyfJLC3ggBQfRI"
-      },
-      "artists": [
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        },
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        }
-      ],
-      "duration_ms": 204832,
-      "name": "Told Ya",
-      "url": "https://open.spotify.com/track/0yMAkO3xc2KwtVcFYQITcy"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1385,26 +1385,6 @@
       "url": "https://open.spotify.com/track/3Ey11v2aiX14s4wBaYbhlp"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "4 Me (feat. Kali Uchis)",
-        "url": "https://open.spotify.com/album/1TXD0BaYXcHlmPIx7A7a0g"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 160013,
-      "name": "4 Me (feat. Kali Uchis)",
-      "url": "https://open.spotify.com/track/3RBubtMyzlp9MPZegNcDRK"
-    },
-    {
       "added_at": "2022-08-02 10:25:51",
       "album": {
         "name": "LOVE AND COMPROMISE",
@@ -1423,6 +1403,26 @@
       "duration_ms": 167186,
       "name": "Simmer (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/5S2TCmPS3UUrG3ZK7NBa7b"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "4 Me (feat. Kali Uchis)",
+        "url": "https://open.spotify.com/album/1TXD0BaYXcHlmPIx7A7a0g"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 160013,
+      "name": "4 Me (feat. Kali Uchis)",
+      "url": "https://open.spotify.com/track/3RBubtMyzlp9MPZegNcDRK"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1471,6 +1471,22 @@
       "duration_ms": 186306,
       "name": "Only U - No Intro",
       "url": "https://open.spotify.com/track/3sckKKIx96cjPXtiqPHCTB"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
+        "name": "Right Here",
+        "url": "https://open.spotify.com/album/5mfslBbxkZtxhSfnB2u2Gj"
+      },
+      "artists": [
+        {
+          "name": "SWV",
+          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
+        }
+      ],
+      "duration_ms": 226800,
+      "name": "Right Here - Human Nature Radio Mix",
+      "url": "https://open.spotify.com/track/5u3FywQOPJ5O7ZAjm31cnq"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1531,22 +1547,6 @@
       "duration_ms": 255773,
       "name": "Last Night",
       "url": "https://open.spotify.com/track/3Cn1FSSTXeQ7hCfrbizrD0"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
-        "name": "Right Here",
-        "url": "https://open.spotify.com/album/5mfslBbxkZtxhSfnB2u2Gj"
-      },
-      "artists": [
-        {
-          "name": "SWV",
-          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
-        }
-      ],
-      "duration_ms": 226800,
-      "name": "Right Here - Human Nature Radio Mix",
-      "url": "https://open.spotify.com/track/5u3FywQOPJ5O7ZAjm31cnq"
     },
     {
       "added_at": "2022-08-02 10:25:51",

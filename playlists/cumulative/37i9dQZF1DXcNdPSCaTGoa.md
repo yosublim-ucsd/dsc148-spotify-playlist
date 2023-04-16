@@ -4,7 +4,7 @@
 
 > Mzansi's musical wealth and heritage in one playlist.
 
-154 songs - 13 hr 1 min
+155 songs - 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Loliwe](https://open.spotify.com/track/1y9bfiGVKNMLoN0XR54S4z) | [Zahara](https://open.spotify.com/artist/6kw5sT8a7bcS9u7uVckgJq) | [Loliwe](https://open.spotify.com/album/7CLSR9UOYjRAQuDPxBckR0) | 4:32 | 2018-09-23 |  |
 | [Love Me For Me](https://open.spotify.com/track/5uOQhnhCDxGb9QlSmCcXRO) | [Jamali](https://open.spotify.com/artist/4dyN2fwkUd8Y0qjKH7ztK0) | [Jamali](https://open.spotify.com/album/5Qe0Khsxx4fLlzk7cdATN7) | 4:02 | 2018-09-23 | 2022-07-29 |
 | [Magasman](https://open.spotify.com/track/4HxFndd2LoR2MBtYABjBlv) | [Trompies](https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018), [Lebo Mathosa](https://open.spotify.com/artist/1Ml1ICUucZgJMx8Y4t9aJo) | [Respect Toasted Gona' Ganati](https://open.spotify.com/album/0LfP1AWyHdWVQOZZLVFaNr) | 5:47 | 2019-02-03 | 2023-04-05 |
+| [Magasman](https://open.spotify.com/track/73lpchagNBcgfb0Z7nnMp8) | [Trompies](https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018), [Lebo Mathosa](https://open.spotify.com/artist/1Ml1ICUucZgJMx8Y4t9aJo) | [Respect Toasted Gona' Ganati](https://open.spotify.com/album/3FgfVMYu1bCieTLoyx3rpE) | 5:47 | 2023-01-23 |  |
 | [Magesh](https://open.spotify.com/track/0lfi2bjtJdYWiaxjjCryuY) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi) | [Guz Hits](https://open.spotify.com/album/305izURXDMmcRRwR8INvWY) | 4:29 | 2019-02-03 | 2022-11-13 |
 | [Magic](https://open.spotify.com/track/12dgNfCf41xfNFefmI0Vu2) | [Zamajobe](https://open.spotify.com/artist/4wJoiQmG43ZNUSvlj6uDYv) | [Ndawo Yami](https://open.spotify.com/album/212O2AvgE4xzUuULXvmlGU) | 4:35 | 2019-02-03 | 2022-11-13 |
 | [Mambotjie \(feat\. 2Shot\)](https://open.spotify.com/track/0whydZVhYUiAQ7LIQErJeM) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi), [2 Shot](https://open.spotify.com/artist/1w7mqJk0lodbOOb7tZGPzX) | [Halloween](https://open.spotify.com/album/15SNp2BWjBL3oSs2KnExpF) | 4:22 | 2019-02-03 |  |
@@ -159,7 +160,7 @@
 | [Wonderful Life](https://open.spotify.com/track/7yL2pYvu2CmbRMsPKHKd5J) | [Thabo Mdluli](https://open.spotify.com/artist/5XOF9NqTF9TdBDKciCnHKZ) | [Wonderful Life](https://open.spotify.com/album/2EzZFAc6qzsNZI04ZxsUWJ) | 3:41 | 2018-09-23 | 2022-07-22 |
 | [World in Union](https://open.spotify.com/track/5wJDPbRPw9IR8bEDl6717a) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [PJ Powers](https://open.spotify.com/artist/0iMXaQINPQNgHWFlEvU0No) | [The Star and the Wiseman](https://open.spotify.com/album/2D1Ph5BioeCgToYvGS6fbO) | 3:49 | 2019-02-03 | 2022-07-07 |
 | [Y U 4 Me](https://open.spotify.com/track/6019mUh1nhmsqDtfbKuZnu) | [M'Du](https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD) | [Y U 4 Me](https://open.spotify.com/album/4RELzas44ynDy4FZb8XRj7) | 7:31 | 2019-02-03 | 2022-11-13 |
-| [Y\-Tjukuja](https://open.spotify.com/track/7k6fhiKtfldICruY5AdKpb) | [Uhuru](https://open.spotify.com/artist/55Q9iFoAZojfxnIvg6lDb2), [Professor](https://open.spotify.com/artist/3d1I45VCwwwQ6Qi53vKAHt), [OSKIDO](https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R), [DJ Bucks](https://open.spotify.com/artist/541TdTVsd11rQV6CLPiB4J) | [Our Father](https://open.spotify.com/album/0OoSrujq3IhCnsd8Et9ktL) | 5:09 | 2018-09-23 |  |
+| [Y\-Tjukuja](https://open.spotify.com/track/7k6fhiKtfldICruY5AdKpb) | [Uhuru](https://open.spotify.com/artist/55Q9iFoAZojfxnIvg6lDb2), [Professor](https://open.spotify.com/artist/3d1I45VCwwwQ6Qi53vKAHt), [OSKIDO](https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R), [DJ Bucks](https://open.spotify.com/artist/541TdTVsd11rQV6CLPiB4J) | [Our Father](https://open.spotify.com/album/0OoSrujq3IhCnsd8Et9ktL) | 5:09 | 2018-09-23 | 2023-04-16 |
 | [Yehlisan'umoya Ma Africa](https://open.spotify.com/track/0axBrl3OJbqYoYBMBQ1ZIp) | [Busi Mhlongo](https://open.spotify.com/artist/4QlgeNz8Uf8xF0f0LNjCbf) | [Urbanzulu](https://open.spotify.com/album/27Nh3R2uDfwuje1HJtjS7o) | 5:25 | 2019-02-12 | 2022-07-29 |
 | [Zabalaza](https://open.spotify.com/track/0pKIVNpVSFRxGF7TJ6vubs) | [Brothers of Peace](https://open.spotify.com/artist/0OK0qQGF0hJueVZLGRlntj) | [Zabalaza: Project B](https://open.spotify.com/album/2pwF2yxPiB1sHMkJcDNRnD) | 6:47 | 2019-02-03 | 2022-07-24 |
 

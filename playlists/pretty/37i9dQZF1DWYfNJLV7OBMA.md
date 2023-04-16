@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 
 > Trending Sinhalese pop hits\. Cover \- DILU Beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,866 likes - 65 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,891 likes - 65 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 | 50 | [Hade Upan Lande](https://open.spotify.com/track/38cgta810Jq6DQbPK1q0nU) | [Dinusha Chathuranga](https://open.spotify.com/artist/4S9CK2n2WypliMLphh4GYB), [Skay Jay](https://open.spotify.com/artist/11X1A3y1BjzxrsATn8OYod) | [Hade Upan Lande](https://open.spotify.com/album/3vcRlZNbQZRq9IhyiD0lDf) | 3:02 |
 | 51 | [Hadunada Ridunada](https://open.spotify.com/track/2ra5d22Eli92gjT6ldddo6) | [Dinesh Tharanga](https://open.spotify.com/artist/0JCmse6ZKrAURE9VcS0Mz1), [Skay Jay](https://open.spotify.com/artist/11X1A3y1BjzxrsATn8OYod), [EVO BEATS](https://open.spotify.com/artist/2D3YwelCtVLnZIoq2NlSox) | [Hadunada Ridunada](https://open.spotify.com/album/09F9MPJ78nHSSMVosAhaZL) | 3:35 |
 | 52 | [Dekopul Kandulin Thema](https://open.spotify.com/track/5q95k2ht4oE5rJSUTGyKU3) | [La Signore](https://open.spotify.com/artist/3wRgCqDCo0rwgjvCEPoDMP) | [Gold](https://open.spotify.com/album/2jQHW7TwPc83Ux3LeM1w25) | 2:53 |
-| 53 | [Tinkiri](https://open.spotify.com/track/3PltuHhD5BYPXp6F6OCF9I) | [DJ JNK](https://open.spotify.com/artist/0cw03AoYoYH79oBa0L0hoT), [Moniyo](https://open.spotify.com/artist/1QcBHj8ZwJZVHVRp61NSAo), [Dimi3](https://open.spotify.com/artist/7uRcNDbRBROKZcU6r2ZPIE) | [Tinkiri](https://open.spotify.com/album/2XtOcPpTEH0z1grjCrYgbg) | 4:07 |
+| 53 | [Tinkiri](https://open.spotify.com/track/4mTLVWdXLgEvllb5GIfJAi) | [DJ JNK](https://open.spotify.com/artist/0cw03AoYoYH79oBa0L0hoT), [Moniyo](https://open.spotify.com/artist/1QcBHj8ZwJZVHVRp61NSAo), [Dimi3](https://open.spotify.com/artist/7uRcNDbRBROKZcU6r2ZPIE) | [Tinkiri](https://open.spotify.com/album/2fTgZauT1vZb7UZlmHZHLR) | 4:07 |
 | 54 | [Handa Allanna Aasa Gamana](https://open.spotify.com/track/1udodaXTGGnQjajZl8LBD1) | [WAYO](https://open.spotify.com/artist/4FxhFEHyjxhdm3C8vAq0wV) | [Handa Allanna Aasa Gamana](https://open.spotify.com/album/3BBXDK9dx0RMpee4wZWCix) | 4:25 |
 | 55 | [Udurawee](https://open.spotify.com/track/16O3jCcjYlDQ1enroz7Gyt) | [Kanchana Anuradhi](https://open.spotify.com/artist/5FvRanU1qnYzZQ5BpIfU9u) | [Udurawee](https://open.spotify.com/album/75XT4gNdhho54ACtrblPRw) | 3:19 |
 | 56 | [Kawiya](https://open.spotify.com/track/1GmQ31oaEMtoF2CcQySsiN) | [Vidula Ravishara](https://open.spotify.com/artist/4FzhdScTHPgweAc4Ka9fOB) | [Kawiya](https://open.spotify.com/album/0Pw4f024OJYTupVf1YL5N8) | 4:53 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 | 64 | [Pawela Kodu Akase](https://open.spotify.com/track/3IfseEvp5VAI6Bcc0NZWGe) | [Thilina Ruhunage](https://open.spotify.com/artist/3uxggUmuI6OX5tcW12y7cn), [Samitha Mudunkotuwa](https://open.spotify.com/artist/4JZtZyM8iEjVLR56DgrI4c) | [Pawela Kodu Akase](https://open.spotify.com/album/5yM7fEWom6JO1g780noZ3d) | 3:57 |
 | 65 | [Heena Maka](https://open.spotify.com/track/1dC7Q5yBpQ063UrIWpAB3N) | [Harshadewa Ariyasinghe](https://open.spotify.com/artist/40v9sLBiwQOZdLwRhTUjQL), [Ravi Jay](https://open.spotify.com/artist/2OXLUIzYqgydsWcHh38LJ2), [Charitha Attalage](https://open.spotify.com/artist/65U1qIqriL4ZawzjoMX1QP) | [Heena Maka](https://open.spotify.com/album/6Et4v4uBSdKMFYkGtIYLkm) | 4:17 |
 
-Snapshot ID: `MTY3NzQ4NDM5OSwwMDAwMDAwMDY1NzUwYWMyMGEwYzEyNDA3MTFlMGM5NWViNTc4YWU5`
+Snapshot ID: `MTY3NzQ4NDM5OSwwMDAwMDAwMDdjYWM3OTE2NzNiYjk5MmY2ZTI2N2FiYmUwMTJlZTdh`

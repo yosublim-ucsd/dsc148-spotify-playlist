@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: ニーハオ!!!! \(ni\-hao!!!!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,680 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,769 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 40 | [夢で逢えたら](https://open.spotify.com/track/5rvaDukztuWN4S82JoGd7R) | [GING NANG BOYZ](https://open.spotify.com/artist/2dP0aHVXt8dDPCw5d2Jw0m) | [DOOR](https://open.spotify.com/album/01i1QV1gvVcfirJNFLQa3a) | 5:01 |
 | 41 | [ちょ](https://open.spotify.com/track/49pPQ1kOFA3gWhojvc1VEA) | [B\-DASH](https://open.spotify.com/artist/1ZUagrWzR2kve94ptFLdSz) | [ぽ](https://open.spotify.com/album/4Ug3HlCExkmj08eGUifjbY) | 3:15 |
 | 42 | [銀河鉄道の夜](https://open.spotify.com/track/3gjTlJclAZCTa2IP2tn6wW) | [GOING STEADY](https://open.spotify.com/artist/7EyYmxeTBOeaZ09aaAAtCE) | [さくらの唄](https://open.spotify.com/album/48SXTUrfrvgKVPoVQjeur0) | 5:41 |
-| 43 | [Blooming the Tank\-top](https://open.spotify.com/track/2vBvV18PwrlUhTm9jaxhh6) | [Yabai T\-Shirts Yasan](https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS) | [Tank\-top Flower for Friends](https://open.spotify.com/album/2Ll3DZYOR4UKeswV5TADhu) | 2:12 |
+| 43 | [MAGIC](https://open.spotify.com/track/0xzMBFXtfeE7JnFZ6YTj0P) | [Hawaiian6](https://open.spotify.com/artist/5uZU1Q2bJFoFAqq1FcF1pw) | [ACROSS THE ENDING](https://open.spotify.com/album/51YAgLPtd8otx1GU4GbP2Z) | 2:52 |
 | 44 | [ハローフィクサー](https://open.spotify.com/track/5Dv0DjR4PlyGgUZhnBEpkh) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [10\-FEET入り口の10曲 2](https://open.spotify.com/album/3aTZAzTcYFO4fl35mqwdLw) | 3:23 |
-| 45 | [MAGIC](https://open.spotify.com/track/0xzMBFXtfeE7JnFZ6YTj0P) | [Hawaiian6](https://open.spotify.com/artist/5uZU1Q2bJFoFAqq1FcF1pw) | [ACROSS THE ENDING](https://open.spotify.com/album/51YAgLPtd8otx1GU4GbP2Z) | 2:52 |
+| 45 | [Blooming the Tank\-top](https://open.spotify.com/track/2vBvV18PwrlUhTm9jaxhh6) | [Yabai T\-Shirts Yasan](https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS) | [Tank\-top Flower for Friends](https://open.spotify.com/album/2Ll3DZYOR4UKeswV5TADhu) | 2:12 |
 | 46 | [DON'T WORRY BE HAPPY](https://open.spotify.com/track/6gbju02JFaEKX7O7XlTUj3) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [GO ON AS YOU ARE](https://open.spotify.com/album/0iDu9vJKEp2zzVAA4kYwPG) | 3:01 |
 | 47 | [Stereoman](https://open.spotify.com/track/6ZIOIVey5pvMycER6mSA4y) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [Space Sonic](https://open.spotify.com/album/4MJpSVLeU2zWaph5ywV60A) | 3:33 |
 | 48 | [SEE OFF](https://open.spotify.com/track/2Imt3fMqKbdG2WGKW9ZJa7) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [ETERNAL RECURRENCE](https://open.spotify.com/album/6KxD8LRLX3WRXM7pr7eEJW) | 2:18 |
@@ -76,16 +76,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 66 | [Dandadan](https://open.spotify.com/track/6PiCVwbOFHXCGgKhhscqXf) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [STOP THE WAR](https://open.spotify.com/album/4FiPEUGopzwNJKxdA9TBaU) | 3:03 |
 | 67 | [NAME](https://open.spotify.com/track/38b2nMKtd1qiVBkULMQti2) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [RARA](https://open.spotify.com/album/6vV4OJGtCjvJD6OdaoCQ9c) | 3:55 |
 | 68 | [PARTY PARTY](https://open.spotify.com/track/1UJ85UjmaZGw1Xolf5mGTS) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [Wicked and Naked](https://open.spotify.com/album/3QQYI3nyuD3vinb0VJetFH) | 3:39 |
-| 69 | [Dance all night my friends](https://open.spotify.com/track/65yT4lhXarJZo0jVLfH8k5) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [EVERYNIGHT](https://open.spotify.com/album/1zkWG461a3ppXEP5hhSGtK) | 2:45 |
-| 70 | [EVERGREEN](https://open.spotify.com/track/61aCEeinXGhvUkDthsjlfS) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [EVERGREEN](https://open.spotify.com/album/3SkwWttZbYEwAZDMICGUwt) | 3:01 |
-| 71 | [Drain Water](https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:11 |
-| 72 | [BOYSISM](https://open.spotify.com/track/1MHMtAXsUytkrFc2b5gb2K) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [Symbol 2](https://open.spotify.com/album/6ZzQ4FjzxCTXZCZtZqnxOe) | 1:30 |
+| 69 | [Drain Water](https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:11 |
+| 70 | [Dance all night my friends](https://open.spotify.com/track/65yT4lhXarJZo0jVLfH8k5) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [EVERYNIGHT](https://open.spotify.com/album/1zkWG461a3ppXEP5hhSGtK) | 2:45 |
+| 71 | [BOYSISM](https://open.spotify.com/track/1MHMtAXsUytkrFc2b5gb2K) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [Symbol 2](https://open.spotify.com/album/6ZzQ4FjzxCTXZCZtZqnxOe) | 1:30 |
+| 72 | [EVERGREEN](https://open.spotify.com/track/61aCEeinXGhvUkDthsjlfS) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [EVERGREEN](https://open.spotify.com/album/3SkwWttZbYEwAZDMICGUwt) | 3:01 |
 | 73 | [Riot](https://open.spotify.com/track/223nvf6U6stGS3nkA72KQ3) | [dustbox](https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ) | [Care Package](https://open.spotify.com/album/26xfYpzZgpGWRgJ7azcrIa) | 2:50 |
 | 74 | [MIND YOUR STEP!](https://open.spotify.com/track/2knIZVDFSEefwgTzWF4i5T) | [Snail Ramp](https://open.spotify.com/artist/1FXeQKrufIqfjNAPPV4bfx) | [TRACK\~Single Collection&More](https://open.spotify.com/album/5ZHhiDzLxrDeZnRtr5z9Ca) | 3:37 |
 | 75 | [WALK](https://open.spotify.com/track/37XUvKGl59e5TBs6LUqLFv) | [Husking Bee](https://open.spotify.com/artist/3reslfdzWDC8qHVM36KtZy) | [GRIP](https://open.spotify.com/album/1idRGxgQz3hZHnZFQRHPaM) | 2:13 |
-| 76 | [Steady](https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:30 |
-| 77 | [PARDON?](https://open.spotify.com/track/7l6yDpU2vIDXFQpdEYgpNO) | [Otoboke Beaver](https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq) | [Super Champon](https://open.spotify.com/album/23oUTiqIPyiA42tXNsIzis) | 1:45 |
-| 78 | [ストラトキャスター シーサイド](https://open.spotify.com/track/49du8muj1Z8rgQ79oSDzE7) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [GIANTSTAMP](https://open.spotify.com/album/1jwFlxQGCk9MjlwTZVwmrj) | 3:12 |
+| 76 | [ストラトキャスター シーサイド](https://open.spotify.com/track/49du8muj1Z8rgQ79oSDzE7) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [GIANTSTAMP](https://open.spotify.com/album/1jwFlxQGCk9MjlwTZVwmrj) | 3:12 |
+| 77 | [Steady](https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:30 |
+| 78 | [PARDON?](https://open.spotify.com/track/7l6yDpU2vIDXFQpdEYgpNO) | [Otoboke Beaver](https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq) | [Super Champon](https://open.spotify.com/album/23oUTiqIPyiA42tXNsIzis) | 1:45 |
 | 79 | [Believer](https://open.spotify.com/track/4yRqNTdeZhlfOy9pae0qmo) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [The Cost Of My Freedom](https://open.spotify.com/album/5Rf5ntWisKzf6sAwFteHwq) | 2:49 |
 | 80 | [ロックンロール イズ ノットデッド](https://open.spotify.com/track/2T0NlmguJeLXbXc4xZ10TU) | [Sambomaster](https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB) | [ロックンロール イズ ノットデッド](https://open.spotify.com/album/0ETJil8vr0LrBGRA8oxC0p) | 5:00 |
 | 81 | [SAKURA](https://open.spotify.com/track/7JovoyGpmr87X05qn0gZPe) | [175R](https://open.spotify.com/artist/40y1P1mpPSpiRxL5LDv6aI) | [175R BEST 「ANNIVERSARY 1998\-2018」](https://open.spotify.com/album/6pmrSKNlVCLwIbG8Mi7E4A) | 4:35 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 92 | [Ohichyo](https://open.spotify.com/track/4PCTknCvdlBSZuOw9gpH6F) | [KEMURI](https://open.spotify.com/artist/3tRqvT7FoScxartUAj68Wp) | [77 Days](https://open.spotify.com/album/2MGPBJ3elGWwjgKRBXy1ib) | 2:23 |
 | 93 | [HOTARU NO HIKARI](https://open.spotify.com/track/7u0uQ6LPgE5weRPJx8XzzF) | [Snail Ramp](https://open.spotify.com/artist/1FXeQKrufIqfjNAPPV4bfx), [AIR](https://open.spotify.com/artist/1tY72Ioe4SGlALcoIDlCa1) | [GRAVITY](https://open.spotify.com/album/7AotoltMCQTbLyVq73371i) | 3:40 |
 | 94 | [Better Days](https://open.spotify.com/track/5UW8UdlVS8MGbfD2ULYcO3) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [H.U.E.](https://open.spotify.com/album/1vIJNSPpYHqjNPFoQVea0x) | 3:53 |
-| 95 | [OUT老GUYS](https://open.spotify.com/track/2M12fEB3BcDnA72QoJFshM) | [Dohatsuten](https://open.spotify.com/artist/2UUHBIbp6MHWflVwNbPUOE) | [more\-AA\-janaica](https://open.spotify.com/album/6MWiOU2RpUxxfcijwqkST5) | 5:27 |
-| 96 | [STAY GOLD](https://open.spotify.com/track/1YOjTz7D3IdqkxyAUUArLR) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [MAKING THE ROAD](https://open.spotify.com/album/3rwiRN4pofymsM0Ex9oYoY) | 2:00 |
-| 97 | [Emotions](https://open.spotify.com/track/4NwBpZ1bR7ltHJbxK20g8E) | [dustbox](https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ) | [Intergalactic](https://open.spotify.com/album/0S7tyEpTLYAtAQRB2wYSo2) | 3:24 |
-| 98 | [Miracle](https://open.spotify.com/track/1meDmOUSJzltRqEtDMcxkt) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [BAND FOR HAPPY](https://open.spotify.com/album/5xJPX8mkswZHKkYM6dkWTk) | 1:12 |
-| 99 | [Chain of Emotions](https://open.spotify.com/track/6TD4IgWz4W3tyyh2MBUY7S) | [The Winking Owl](https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE) | [Into Another World](https://open.spotify.com/album/633gkF2gOK4kJGTiCfNoWl) | 4:07 |
-| 100 | [今夜](https://open.spotify.com/track/3OIZncmhlLb29Ude4fffmj) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [梵唄 \-bonbai\-](https://open.spotify.com/album/15iY1BT28NYAxP1I6TTkXx) | 4:25 |
+| 95 | [STAY GOLD](https://open.spotify.com/track/1YOjTz7D3IdqkxyAUUArLR) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [MAKING THE ROAD](https://open.spotify.com/album/3rwiRN4pofymsM0Ex9oYoY) | 2:00 |
+| 96 | [Emotions](https://open.spotify.com/track/4NwBpZ1bR7ltHJbxK20g8E) | [dustbox](https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ) | [Intergalactic](https://open.spotify.com/album/0S7tyEpTLYAtAQRB2wYSo2) | 3:24 |
+| 97 | [OUT老GUYS](https://open.spotify.com/track/2M12fEB3BcDnA72QoJFshM) | [Dohatsuten](https://open.spotify.com/artist/2UUHBIbp6MHWflVwNbPUOE) | [more\-AA\-janaica](https://open.spotify.com/album/6MWiOU2RpUxxfcijwqkST5) | 5:27 |
+| 98 | [Chain of Emotions](https://open.spotify.com/track/6TD4IgWz4W3tyyh2MBUY7S) | [The Winking Owl](https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE) | [Into Another World](https://open.spotify.com/album/633gkF2gOK4kJGTiCfNoWl) | 4:07 |
+| 99 | [今夜](https://open.spotify.com/track/3OIZncmhlLb29Ude4fffmj) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [梵唄 \-bonbai\-](https://open.spotify.com/album/15iY1BT28NYAxP1I6TTkXx) | 4:25 |
+| 100 | [Miracle](https://open.spotify.com/track/1meDmOUSJzltRqEtDMcxkt) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [BAND FOR HAPPY](https://open.spotify.com/album/5xJPX8mkswZHKkYM6dkWTk) | 1:12 |
 
-Snapshot ID: `MTY4MTM5ODAwMCwwMDAwMDAwMDE0YmFlNjQzYTliMjU5MTUxZWJkZTQyMmRmNjE3ZmJi`
+Snapshot ID: `MTY4MTM5ODAwMCwwMDAwMDAwMDczNWFlZjBlZmFjMTUwNGRjNTljYzFmZTc0M2ViMzdi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 
 > A collection of powerful voices and alluring siren songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 610,700 likes - 70 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 610,805 likes - 70 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 21 | [Ladies](https://open.spotify.com/track/0jH0IsCBGackT3RmHBbSUI) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Fetch The Bolt Cutters](https://open.spotify.com/album/0fO1KemWL2uCCQmM22iKlj) | 5:25 |
 | 22 | [Keep Lying \(Demo\)](https://open.spotify.com/track/6jCuYSwolhXm9umvZvv6ko) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [Keep Lying \(Demo\)](https://open.spotify.com/album/5KmFgc0v96LnHNmUdTs5WJ) | 4:14 |
 | 23 | [Queen of Disaster](https://open.spotify.com/track/0PyopHInX2qJzsRUKgNnxI) | [LULLANAS](https://open.spotify.com/artist/3b8jXMWK6VSV8FlQ4hbVkd) | [Queen of Disaster](https://open.spotify.com/album/6hsSgsifs7mkMqLNLf5CpI) | 3:41 |
-| 24 | [Got Your Number](https://open.spotify.com/track/6uQn7dAD9rk1gmr20gumXz) | [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j) | [Utopia \(Deluxe\)](https://open.spotify.com/album/2AKuAztOmtF6yUvz0emMrH) | 3:07 |
-| 25 | [Roses/Lotus/Violet/Iris](https://open.spotify.com/track/7DCKlgZuZcljJSlvt8vsZa) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Petals For Armor](https://open.spotify.com/album/4HXpQ5KQBVWN25ltjnX7xa) | 5:21 |
+| 24 | [Roses/Lotus/Violet/Iris](https://open.spotify.com/track/7DCKlgZuZcljJSlvt8vsZa) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Petals For Armor](https://open.spotify.com/album/4HXpQ5KQBVWN25ltjnX7xa) | 5:21 |
+| 25 | [Got Your Number](https://open.spotify.com/track/6uQn7dAD9rk1gmr20gumXz) | [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j) | [Utopia \(Deluxe\)](https://open.spotify.com/album/2AKuAztOmtF6yUvz0emMrH) | 3:07 |
 | 26 | [Tell That Devil](https://open.spotify.com/track/4wU4XL8nX0we6MXgmFAmnh) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Tell That Devil](https://open.spotify.com/album/4SUzxP2sBgdjiogiNlbSaw) | 2:38 |
 | 27 | [No Witness](https://open.spotify.com/track/0hJJeoT5Rmi5IF3ZhC7TIZ) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost on You](https://open.spotify.com/album/0dYi4VGov4Dl4AED2eVwPw) | 3:28 |
 | 28 | [Over You](https://open.spotify.com/track/49YzZ6c0PalgJNqZSnfJrn) | [Seratones](https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc) | [POWER](https://open.spotify.com/album/3wZL5NTW9eLvDuYhWhvEPj) | 2:41 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 50 | [Hands on You](https://open.spotify.com/track/6SEDE7wvAnAtfdhu1zbUzi) | [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [Sparrow](https://open.spotify.com/album/0Frgzm1xuM3cy8VxuTOkNu) | 3:52 |
 | 51 | [The Dark](https://open.spotify.com/track/14e2jOLYQO9xPLqQKU9dCW) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [The Dark](https://open.spotify.com/album/3SA0R1i0Edc7JOvvhqni06) | 3:01 |
 | 52 | [Serious Love](https://open.spotify.com/track/5QPXi2dKDMQIpgDHxHODFt) | [Anya Marina](https://open.spotify.com/artist/6xYBLeSMu1AqPsnUzEvx5n) | [Serious Love](https://open.spotify.com/album/3Bfuqp7jMJ6lxrh5ZfVS3I) | 4:13 |
-| 53 | [Torture](https://open.spotify.com/track/55QFFGguYCPpOXQveiaEPA) | [Liz Longley](https://open.spotify.com/artist/1qImAIy1ZVCgR5KD88QXkr) | [Torture](https://open.spotify.com/album/4YINaOhKmkGdBsrod5ipfN) | 3:02 |
-| 54 | [Want](https://open.spotify.com/track/7BVRDaghQHyDqtRdjdMTsu) | [Kelsey Waters](https://open.spotify.com/artist/7rjqEDqvREzfmSP58SLYXT) | [Want](https://open.spotify.com/album/0QrNnavvkoA9dehE8N3sSQ) | 2:50 |
+| 53 | [Want](https://open.spotify.com/track/7BVRDaghQHyDqtRdjdMTsu) | [Kelsey Waters](https://open.spotify.com/artist/7rjqEDqvREzfmSP58SLYXT) | [Want](https://open.spotify.com/album/0QrNnavvkoA9dehE8N3sSQ) | 2:50 |
+| 54 | [Torture](https://open.spotify.com/track/55QFFGguYCPpOXQveiaEPA) | [Liz Longley](https://open.spotify.com/artist/1qImAIy1ZVCgR5KD88QXkr) | [Torture](https://open.spotify.com/album/4YINaOhKmkGdBsrod5ipfN) | 3:02 |
 | 55 | [Master Hunter](https://open.spotify.com/track/2OqnctQz4VZpk8wcb9TPp4) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Once I Was An Eagle](https://open.spotify.com/album/35He6RuwS8C2KjG067Gobl) | 3:16 |
 | 56 | [Get Free](https://open.spotify.com/track/1gYOBTHkk0Fv6hU8eow6sZ) | [Whissell](https://open.spotify.com/artist/1JIc2FMsvtccdSllBI6vZh) | [Get Free](https://open.spotify.com/album/3VQvjeHddEgwcWWlPpYUIe) | 3:14 |
 | 57 | [Listen Up](https://open.spotify.com/track/1vtkAVGkmMckxrlbLEHhTx) | [Nicole Atkins](https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO) | [Goodnight Rhonda Lee](https://open.spotify.com/album/4RcpHyy4rL1RrB89Di3HrJ) | 3:10 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 64 | [It's All Okay](https://open.spotify.com/track/6S7kSzXe4dtiQSqqmkM0dD) | [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [By The Horns](https://open.spotify.com/album/3ZeDSF0GVS6jGFIrxsyjHE) | 3:54 |
 | 65 | [Occasionally](https://open.spotify.com/track/1FSCRLJPXEbBCyxLNkKBdP) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [Dark River](https://open.spotify.com/album/0YsriZcAj8N6y89yav2GXl) | 3:14 |
 | 66 | [Hurricane](https://open.spotify.com/track/7GaoWajJQTbulUBl9c9qWF) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Park](https://open.spotify.com/album/4wxLZEYvqJypW5YPky0J3C) | 2:38 |
-| 67 | [Moonlit and Devious](https://open.spotify.com/track/01hcQ2RByLTyvoJ0EuejFA) | [Allie Crow Buckley](https://open.spotify.com/artist/4zWJqtFs82kB6LSMY20ggp) | [Moonlit and Devious](https://open.spotify.com/album/5S9XXlP7dHIcK9mZNnzqAr) | 5:03 |
-| 68 | [Don't Let Me Be Misunderstood](https://open.spotify.com/track/215q7Y9u8n0dqzeQYGjki7) | [Valerie Broussard](https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c) | [Don't Let Me Be Misunderstood](https://open.spotify.com/album/1IuiGzv0eSL11hUcqytCdP) | 3:02 |
-| 69 | [Help Yourself](https://open.spotify.com/track/3TfYdDsjNsd6tbzDq79c4Y) | [Bryde](https://open.spotify.com/artist/0N8tTwUhQQD75uLOyqhfVU) | [EP1](https://open.spotify.com/album/4c43DIc2ggr7z7zq6nDaju) | 2:58 |
+| 67 | [Help Yourself](https://open.spotify.com/track/3TfYdDsjNsd6tbzDq79c4Y) | [Bryde](https://open.spotify.com/artist/0N8tTwUhQQD75uLOyqhfVU) | [EP1](https://open.spotify.com/album/4c43DIc2ggr7z7zq6nDaju) | 2:58 |
+| 68 | [Moonlit and Devious](https://open.spotify.com/track/01hcQ2RByLTyvoJ0EuejFA) | [Allie Crow Buckley](https://open.spotify.com/artist/4zWJqtFs82kB6LSMY20ggp) | [Moonlit and Devious](https://open.spotify.com/album/5S9XXlP7dHIcK9mZNnzqAr) | 5:03 |
+| 69 | [Don't Let Me Be Misunderstood](https://open.spotify.com/track/215q7Y9u8n0dqzeQYGjki7) | [Valerie Broussard](https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c) | [Don't Let Me Be Misunderstood](https://open.spotify.com/album/1IuiGzv0eSL11hUcqytCdP) | 3:02 |
 | 70 | [Ghost](https://open.spotify.com/track/6UGhHbDZ76PqGR2C9pdWbb) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Human Again](https://open.spotify.com/album/3oFP50clZCAQy3bpI4vyNM) | 4:01 |
 
-Snapshot ID: `MTY3OTYzMDQwMCwwMDAwMDAwMGQ1ODVjNDY3NjhlYmFhM2NmMDliM2NmZWY4YjZmODQx`
+Snapshot ID: `MTY3OTYzMDQwMCwwMDAwMDAwMDQ5ZmI1NTI4OGRmNWQ5YzEwNzJiYWY0ZTVmZTNjNGM5`

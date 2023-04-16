@@ -4,7 +4,7 @@
 
 > Éxitos urbanos de Latinoamérica con ROSALÍA y Rauw Alejandro.
 
-520 songs - 1 day 5 hr 16 min
+521 songs - 1 day 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [A Tu Merced](https://open.spotify.com/track/4r9jkMEnArtWGH2rL2FZl0) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:55 | 2022-02-18 | 2022-09-06 |
 | [A Veces \(feat\. Feid\)](https://open.spotify.com/track/63OA8vSo2PhUkmQopR1l64) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [A Veces \(feat\. Feid\)](https://open.spotify.com/album/5IUJCo0aRD98yxFbTvEezC) | 3:11 | 2022-11-04 | 2023-04-14 |
 | [Adicta al Perreo](https://open.spotify.com/track/7xj6vIyvd8qh9JjPzQhvHa) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Adicta al Perreo](https://open.spotify.com/album/6E4zCCVrnmZigYPqJJshdV) | 2:50 | 2022-03-11 | 2022-05-13 |
-| [AGUARDIENTE](https://open.spotify.com/track/6jhB0WW148mVOX7VuV2ga0) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [AGUARDIENTE](https://open.spotify.com/album/1ox6fzQPXwDtsTg8EQrplp) | 2:47 | 2023-03-17 |  |
+| [AGUARDIENTE](https://open.spotify.com/track/3Z0l8qwMuC376pcutLVsY8) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 2:47 | 2023-04-13 |  |
+| [AGUARDIENTE](https://open.spotify.com/track/6jhB0WW148mVOX7VuV2ga0) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [AGUARDIENTE](https://open.spotify.com/album/1ox6fzQPXwDtsTg8EQrplp) | 2:47 | 2023-03-17 | 2023-04-16 |
 | [Ahora Y Siempre](https://open.spotify.com/track/1AhNxunSSizAllibrQ7jhu) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Linton](https://open.spotify.com/artist/39TshGQ7RY8nYrhILYRT1S) | [Ahora Y Siempre](https://open.spotify.com/album/3jTzodvOzhVKQgNbLjM93z) | 2:29 | 2022-03-07 | 2022-06-11 |
 | [Aka Entre el Humo](https://open.spotify.com/track/1jGQu9LPVLRZ41u9onpfXy) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Aka Entre el Humo](https://open.spotify.com/album/2NJuKDOUh9mANpFIKr7N9K) | 3:19 | 2022-09-30 | 2022-11-04 |
 | [ALGARETE](https://open.spotify.com/track/2ec3eRB4zEYzuBl3cja0qA) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [ALGARETE](https://open.spotify.com/album/7leHFUki2RpwAxMJU6Du3n) | 3:28 | 2023-04-13 |  |

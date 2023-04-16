@@ -1,12 +1,12 @@
 {
   "description": "A dazzling but very sad feeling. Enjoy the city pop music of Korean singers. (Cover: \bJuJu Secret(\uc8fc\uc8fc \uc2dc\ud06c\ub9bf)) (\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 38521,
+  "num_followers": 38545,
   "original_name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTg5MDQyOSwwMDAwMDAwMDRhZTc2Y2M4MmYxNGRhMjhmZjIyZDE5MDc2ZGJkOGNj",
+  "snapshot_id": "MTY3OTg5MDQyOSwwMDAwMDAwMGY3ZjI4MjYyZDlkZjI1OTI5OTkxYWNhNTdiNTExZTk1",
   "tracks": [
     {
       "added_at": "2023-02-14 07:41:01",
@@ -137,6 +137,22 @@
       "url": "https://open.spotify.com/track/0hx7Ee7zi8zft0gcv5BIcf"
     },
     {
+      "added_at": "2023-04-16 00:56:55",
+      "album": {
+        "name": "Lonely Night",
+        "url": "https://open.spotify.com/album/7J61Jk6KpPRirh3rVPhuBg"
+      },
+      "artists": [
+        {
+          "name": "JuJu Secret",
+          "url": "https://open.spotify.com/artist/2g72luaOTzifxlC2r3flf9"
+        }
+      ],
+      "duration_ms": 194373,
+      "name": "Lonely Night",
+      "url": "https://open.spotify.com/track/2zfXhLXmq96fp8eq1N4vm1"
+    },
+    {
       "added_at": "2023-02-14 07:41:01",
       "album": {
         "name": "SOUL LADY",
@@ -151,22 +167,6 @@
       "duration_ms": 146373,
       "name": "NEON 1989",
       "url": "https://open.spotify.com/track/1Uc1gpLGKiW2OyM7SF9WLW"
-    },
-    {
-      "added_at": "2023-04-15 00:58:36",
-      "album": {
-        "name": "Lonely Night",
-        "url": "https://open.spotify.com/album/7J61Jk6KpPRirh3rVPhuBg"
-      },
-      "artists": [
-        {
-          "name": "JuJu Secret",
-          "url": "https://open.spotify.com/artist/2g72luaOTzifxlC2r3flf9"
-        }
-      ],
-      "duration_ms": 194373,
-      "name": "Lonely Night",
-      "url": "https://open.spotify.com/track/2zfXhLXmq96fp8eq1N4vm1"
     },
     {
       "added_at": "2023-02-14 07:41:01",
@@ -215,22 +215,6 @@
       "duration_ms": 218160,
       "name": "Jam Jam",
       "url": "https://open.spotify.com/track/3h7WIL3B6nP3171zl6HWj8"
-    },
-    {
-      "added_at": "2023-02-14 07:41:01",
-      "album": {
-        "name": "NEON",
-        "url": "https://open.spotify.com/album/2tF9C0qTzRdaZShK4iK0UD"
-      },
-      "artists": [
-        {
-          "name": "YUKIKA",
-          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
-        }
-      ],
-      "duration_ms": 220795,
-      "name": "NEON",
-      "url": "https://open.spotify.com/track/5dF22XUGeNAR3GBhMgshgp"
     },
     {
       "added_at": "2023-02-14 07:41:01",
@@ -315,8 +299,8 @@
     {
       "added_at": "2023-02-14 07:41:01",
       "album": {
-        "name": "timeabout,",
-        "url": "https://open.spotify.com/album/1cBAfX0otvkoIOI6HtOrAc"
+        "name": "NEON",
+        "url": "https://open.spotify.com/album/2tF9C0qTzRdaZShK4iK0UD"
       },
       "artists": [
         {
@@ -324,9 +308,9 @@
           "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
         }
       ],
-      "duration_ms": 207125,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/0AAEFC3RGirgzRFhi44Y79"
+      "duration_ms": 220795,
+      "name": "NEON",
+      "url": "https://open.spotify.com/track/5dF22XUGeNAR3GBhMgshgp"
     },
     {
       "added_at": "2023-02-14 07:41:01",
@@ -379,22 +363,6 @@
     {
       "added_at": "2023-02-14 07:41:01",
       "album": {
-        "name": "Seoul Check-in OST Part 5",
-        "url": "https://open.spotify.com/album/2deDzuHfGo5kH9tKBvm8jD"
-      },
-      "artists": [
-        {
-          "name": "Seori",
-          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
-        }
-      ],
-      "duration_ms": 200460,
-      "name": "Beautiful Night",
-      "url": "https://open.spotify.com/track/6w5I5eJCuNSNa3FdEq4sfs"
-    },
-    {
-      "added_at": "2023-02-14 07:41:01",
-      "album": {
         "name": "1/6",
         "url": "https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX"
       },
@@ -411,18 +379,18 @@
     {
       "added_at": "2023-02-14 07:41:01",
       "album": {
-        "name": "SOUL LADY",
-        "url": "https://open.spotify.com/album/5rsgGy09HIAwtIy5oF5MhF"
+        "name": "Seoul Check-in OST Part 5",
+        "url": "https://open.spotify.com/album/2deDzuHfGo5kH9tKBvm8jD"
       },
       "artists": [
         {
-          "name": "YUKIKA",
-          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
         }
       ],
-      "duration_ms": 245320,
-      "name": "Cherries Jubiles",
-      "url": "https://open.spotify.com/track/1NiriEqpk9oOcL4QGzBDmU"
+      "duration_ms": 200460,
+      "name": "Beautiful Night",
+      "url": "https://open.spotify.com/track/6w5I5eJCuNSNa3FdEq4sfs"
     },
     {
       "added_at": "2023-02-14 07:41:01",
@@ -471,6 +439,22 @@
       "duration_ms": 196092,
       "name": "\uc219\ub140 (\u6dd1\u5973) Lady",
       "url": "https://open.spotify.com/track/1fx1OZ7IFHEqohT2GIN0uB"
+    },
+    {
+      "added_at": "2023-02-14 07:41:01",
+      "album": {
+        "name": "timeabout,",
+        "url": "https://open.spotify.com/album/1cBAfX0otvkoIOI6HtOrAc"
+      },
+      "artists": [
+        {
+          "name": "YUKIKA",
+          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
+        }
+      ],
+      "duration_ms": 207125,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/0AAEFC3RGirgzRFhi44Y79"
     },
     {
       "added_at": "2023-02-14 07:41:01",
@@ -571,22 +555,6 @@
     {
       "added_at": "2023-02-14 07:41:01",
       "album": {
-        "name": "SOUL LADY",
-        "url": "https://open.spotify.com/album/5rsgGy09HIAwtIy5oF5MhF"
-      },
-      "artists": [
-        {
-          "name": "YUKIKA",
-          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
-        }
-      ],
-      "duration_ms": 215693,
-      "name": "SOUL LADY",
-      "url": "https://open.spotify.com/track/6at6MpTibyLqAYnBee95Ev"
-    },
-    {
-      "added_at": "2023-02-14 07:41:01",
-      "album": {
         "name": "FREE`SM",
         "url": "https://open.spotify.com/album/0yiGt1K8gQZEtbgEU0Aeut"
       },
@@ -635,6 +603,38 @@
     {
       "added_at": "2023-02-14 07:41:01",
       "album": {
+        "name": "Naturalness",
+        "url": "https://open.spotify.com/album/2cKoCocQwbuvCRhGs9T2tW"
+      },
+      "artists": [
+        {
+          "name": "Dalshabet",
+          "url": "https://open.spotify.com/artist/10xsuRNvidaOLxWd3fRIel"
+        }
+      ],
+      "duration_ms": 200767,
+      "name": "Someone like U",
+      "url": "https://open.spotify.com/track/4TmLdQlOV37Xp6mlyQAGBA"
+    },
+    {
+      "added_at": "2023-02-14 07:41:01",
+      "album": {
+        "name": "SOUL LADY",
+        "url": "https://open.spotify.com/album/5rsgGy09HIAwtIy5oF5MhF"
+      },
+      "artists": [
+        {
+          "name": "YUKIKA",
+          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
+        }
+      ],
+      "duration_ms": 245320,
+      "name": "Cherries Jubiles",
+      "url": "https://open.spotify.com/track/1NiriEqpk9oOcL4QGzBDmU"
+    },
+    {
+      "added_at": "2023-02-14 07:41:01",
+      "album": {
         "name": "Color of Night",
         "url": "https://open.spotify.com/album/11TnZ6QezfxP2XCK37HSZ2"
       },
@@ -667,22 +667,6 @@
       "duration_ms": 233306,
       "name": "\uc0ac\ub791\uc774 \ub5a0\ub098\ub824 \ud560 \ub54c Faded Love",
       "url": "https://open.spotify.com/track/6c1PYAfNfZ6rWUwFNciOMw"
-    },
-    {
-      "added_at": "2023-02-14 07:41:01",
-      "album": {
-        "name": "Naturalness",
-        "url": "https://open.spotify.com/album/2cKoCocQwbuvCRhGs9T2tW"
-      },
-      "artists": [
-        {
-          "name": "Dalshabet",
-          "url": "https://open.spotify.com/artist/10xsuRNvidaOLxWd3fRIel"
-        }
-      ],
-      "duration_ms": 200767,
-      "name": "Someone like U",
-      "url": "https://open.spotify.com/track/4TmLdQlOV37Xp6mlyQAGBA"
     },
     {
       "added_at": "2023-02-14 07:41:01",
@@ -723,6 +707,22 @@
       "duration_ms": 191103,
       "name": "Drive to 1980 Love",
       "url": "https://open.spotify.com/track/0zUPlJsBcM5XQiJltgRIYF"
+    },
+    {
+      "added_at": "2023-02-14 07:41:01",
+      "album": {
+        "name": "SOUL LADY",
+        "url": "https://open.spotify.com/album/5rsgGy09HIAwtIy5oF5MhF"
+      },
+      "artists": [
+        {
+          "name": "YUKIKA",
+          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
+        }
+      ],
+      "duration_ms": 215693,
+      "name": "SOUL LADY",
+      "url": "https://open.spotify.com/track/6at6MpTibyLqAYnBee95Ev"
     },
     {
       "added_at": "2023-02-14 07:41:01",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-02-14 07:41:01",
       "album": {
-        "name": "WJ STAY?",
-        "url": "https://open.spotify.com/album/0ty0TBeM5B8HU6hzOdjz4f"
-      },
-      "artists": [
-        {
-          "name": "WJSN",
-          "url": "https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD"
-        }
-      ],
-      "duration_ms": 214847,
-      "name": "You Got",
-      "url": "https://open.spotify.com/track/4RCstQ4YjgYnjGEu0X2BxP"
-    },
-    {
-      "added_at": "2023-02-14 07:41:01",
-      "album": {
         "name": "The Book of Us : Gluon - Nothing Can Tear Us Apart",
         "url": "https://open.spotify.com/album/2ozuUEt58hDK0PX8mjKOvc"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 257451,
       "name": "Thanks to",
       "url": "https://open.spotify.com/track/1KQrnUtKigVAtDZc6M7UsM"
+    },
+    {
+      "added_at": "2023-02-14 07:41:01",
+      "album": {
+        "name": "WJ STAY?",
+        "url": "https://open.spotify.com/album/0ty0TBeM5B8HU6hzOdjz4f"
+      },
+      "artists": [
+        {
+          "name": "WJSN",
+          "url": "https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD"
+        }
+      ],
+      "duration_ms": 214847,
+      "name": "You Got",
+      "url": "https://open.spotify.com/track/4RCstQ4YjgYnjGEu0X2BxP"
     },
     {
       "added_at": "2023-02-14 07:41:01",
@@ -955,6 +955,22 @@
     {
       "added_at": "2023-02-14 07:41:01",
       "album": {
+        "name": "Sweet Girl",
+        "url": "https://open.spotify.com/album/3pJONZdr1gEeoxgBK96vwx"
+      },
+      "artists": [
+        {
+          "name": "B1A4",
+          "url": "https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG"
+        }
+      ],
+      "duration_ms": 248986,
+      "name": "Sweet Girl",
+      "url": "https://open.spotify.com/track/77dtDxOL2xHpOCk4jdS9uh"
+    },
+    {
+      "added_at": "2023-02-14 07:41:01",
+      "album": {
         "name": "& New",
         "url": "https://open.spotify.com/album/1p8YgPgFCXInpT5uM4PZoi"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 248078,
       "name": "& New",
       "url": "https://open.spotify.com/track/49U6ijIBwe6XZ2d2H7VDDe"
-    },
-    {
-      "added_at": "2023-02-14 07:41:01",
-      "album": {
-        "name": "Shining Love Song",
-        "url": "https://open.spotify.com/album/7n2p500IY7UeU9NlgFFeV0"
-      },
-      "artists": [
-        {
-          "name": "SURAN",
-          "url": "https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K"
-        }
-      ],
-      "duration_ms": 191706,
-      "name": "Shining Love Song",
-      "url": "https://open.spotify.com/track/0DFSFBB4faitgBed2IJ4O5"
     },
     {
       "added_at": "2023-02-14 07:41:01",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2023-02-14 07:41:01",
       "album": {
-        "name": "Sweet Girl",
-        "url": "https://open.spotify.com/album/3pJONZdr1gEeoxgBK96vwx"
+        "name": "Shining Love Song",
+        "url": "https://open.spotify.com/album/7n2p500IY7UeU9NlgFFeV0"
       },
       "artists": [
         {
-          "name": "B1A4",
-          "url": "https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG"
+          "name": "SURAN",
+          "url": "https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K"
         }
       ],
-      "duration_ms": 248986,
-      "name": "Sweet Girl",
-      "url": "https://open.spotify.com/track/77dtDxOL2xHpOCk4jdS9uh"
+      "duration_ms": 191706,
+      "name": "Shining Love Song",
+      "url": "https://open.spotify.com/track/0DFSFBB4faitgBed2IJ4O5"
     },
     {
       "added_at": "2023-02-14 07:41:01",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2023-02-14 07:41:01",
       "album": {
-        "name": "Afterlife (Feat. OOHYO)",
-        "url": "https://open.spotify.com/album/3yAwMfJl4iH3zmq2HC4d3C"
-      },
-      "artists": [
-        {
-          "name": "Space Cowboy",
-          "url": "https://open.spotify.com/artist/6zVZaYShKYDoZRXKTEDIk7"
-        },
-        {
-          "name": "OOHYO",
-          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
-        }
-      ],
-      "duration_ms": 270713,
-      "name": "Afterlife (Feat. OOHYO)",
-      "url": "https://open.spotify.com/track/3uIZ7nuzrccIBlLQB45p2a"
-    },
-    {
-      "added_at": "2023-02-14 07:41:01",
-      "album": {
         "name": "A song from the past",
         "url": "https://open.spotify.com/album/6lCUp7Ijtg2VJeZ8CZbyoC"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 235293,
       "name": "A song from the past",
       "url": "https://open.spotify.com/track/1EPUAXzisSkCcUTEU94cch"
+    },
+    {
+      "added_at": "2023-02-14 07:41:01",
+      "album": {
+        "name": "Afterlife (Feat. OOHYO)",
+        "url": "https://open.spotify.com/album/3yAwMfJl4iH3zmq2HC4d3C"
+      },
+      "artists": [
+        {
+          "name": "Space Cowboy",
+          "url": "https://open.spotify.com/artist/6zVZaYShKYDoZRXKTEDIk7"
+        },
+        {
+          "name": "OOHYO",
+          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
+        }
+      ],
+      "duration_ms": 270713,
+      "name": "Afterlife (Feat. OOHYO)",
+      "url": "https://open.spotify.com/track/3uIZ7nuzrccIBlLQB45p2a"
     },
     {
       "added_at": "2023-02-14 07:41:01",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-02-14 07:41:01",
       "album": {
-        "name": "Cherry Blossom",
-        "url": "https://open.spotify.com/album/6OLVSFzXGaiehp5qMHSa1E"
-      },
-      "artists": [
-        {
-          "name": "Rainbow note",
-          "url": "https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17"
-        }
-      ],
-      "duration_ms": 219666,
-      "name": "Cherry Blossom",
-      "url": "https://open.spotify.com/track/60LIER0taABmwhdgi5a5Jc"
-    },
-    {
-      "added_at": "2023-02-14 07:41:01",
-      "album": {
         "name": "I Just Wanna Dance - The 1st Mini Album",
         "url": "https://open.spotify.com/album/5Zf2IZLgKbo9RcktqIQxpU"
       },
@@ -1339,18 +1323,18 @@
     {
       "added_at": "2023-02-14 07:41:01",
       "album": {
-        "name": "Sparkling",
-        "url": "https://open.spotify.com/album/6iMfRIibz4JxI1hbq17Qsp"
+        "name": "Cherry Blossom",
+        "url": "https://open.spotify.com/album/6OLVSFzXGaiehp5qMHSa1E"
       },
       "artists": [
         {
-          "name": "SUMIN",
-          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
+          "name": "Rainbow note",
+          "url": "https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17"
         }
       ],
-      "duration_ms": 231294,
-      "name": "Sparkling",
-      "url": "https://open.spotify.com/track/6dE1qaFHk8HTVvEDuAudqz"
+      "duration_ms": 219666,
+      "name": "Cherry Blossom",
+      "url": "https://open.spotify.com/track/60LIER0taABmwhdgi5a5Jc"
     },
     {
       "added_at": "2023-02-14 07:41:01",
@@ -1371,22 +1355,18 @@
     {
       "added_at": "2023-02-14 07:41:01",
       "album": {
-        "name": "Skyline",
-        "url": "https://open.spotify.com/album/3SjIA2SL9WUDf8skobvjwE"
+        "name": "Sparkling",
+        "url": "https://open.spotify.com/album/6iMfRIibz4JxI1hbq17Qsp"
       },
       "artists": [
         {
-          "name": "Bronze",
-          "url": "https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7"
-        },
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+          "name": "SUMIN",
+          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
         }
       ],
-      "duration_ms": 243381,
-      "name": "Ondo (with LeeHi)",
-      "url": "https://open.spotify.com/track/4FODqQZ3lvhqmSWAKXPjhY"
+      "duration_ms": 231294,
+      "name": "Sparkling",
+      "url": "https://open.spotify.com/track/6dE1qaFHk8HTVvEDuAudqz"
     },
     {
       "added_at": "2023-02-14 07:41:01",
@@ -1403,6 +1383,26 @@
       "duration_ms": 204012,
       "name": "MOOD FOR LOVE",
       "url": "https://open.spotify.com/track/3GMGmY27u0T21gKMk3vYrT"
+    },
+    {
+      "added_at": "2023-02-14 07:41:01",
+      "album": {
+        "name": "Skyline",
+        "url": "https://open.spotify.com/album/3SjIA2SL9WUDf8skobvjwE"
+      },
+      "artists": [
+        {
+          "name": "Bronze",
+          "url": "https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7"
+        },
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "duration_ms": 243381,
+      "name": "Ondo (with LeeHi)",
+      "url": "https://open.spotify.com/track/4FODqQZ3lvhqmSWAKXPjhY"
     },
     {
       "added_at": "2023-02-14 07:41:01",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-02-14 07:41:01",
       "album": {
-        "name": "\ucf54\ucf54\ub11b \ub7ec\ube0c Coconut Love",
-        "url": "https://open.spotify.com/album/2TDl3weGAb7UUd8xf5CyYk"
-      },
-      "artists": [
-        {
-          "name": "Seoulmoon",
-          "url": "https://open.spotify.com/artist/0xsCXMIcnrXhRiNL11HlxP"
-        }
-      ],
-      "duration_ms": 194772,
-      "name": "\ucf54\ucf54\ub11b \ub7ec\ube0c Coconut Love",
-      "url": "https://open.spotify.com/track/5f1RLYrL4272Gm5lHxuLFD"
-    },
-    {
-      "added_at": "2023-02-14 07:41:01",
-      "album": {
         "name": "City Drive",
         "url": "https://open.spotify.com/album/2oAZ4ieVQt9DWutbX2jKB1"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 207888,
       "name": "City Drive",
       "url": "https://open.spotify.com/track/1lKA6Qy1QbzSeF0Ec7iolp"
+    },
+    {
+      "added_at": "2023-02-14 07:41:01",
+      "album": {
+        "name": "\ucf54\ucf54\ub11b \ub7ec\ube0c Coconut Love",
+        "url": "https://open.spotify.com/album/2TDl3weGAb7UUd8xf5CyYk"
+      },
+      "artists": [
+        {
+          "name": "Seoulmoon",
+          "url": "https://open.spotify.com/artist/0xsCXMIcnrXhRiNL11HlxP"
+        }
+      ],
+      "duration_ms": 194772,
+      "name": "\ucf54\ucf54\ub11b \ub7ec\ube0c Coconut Love",
+      "url": "https://open.spotify.com/track/5f1RLYrL4272Gm5lHxuLFD"
     },
     {
       "added_at": "2023-02-14 07:41:01",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-02-14 07:41:01",
       "album": {
-        "name": "RE_vive",
-        "url": "https://open.spotify.com/album/5ZR4gMvmyzSX7AApmIR88h"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyed Girls",
-          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
-        }
-      ],
-      "duration_ms": 232906,
-      "name": "Wonder Woman",
-      "url": "https://open.spotify.com/track/6xvJJyGmKG0oOFcdJ5wF16"
-    },
-    {
-      "added_at": "2023-02-14 07:41:01",
-      "album": {
         "name": "Myspace",
         "url": "https://open.spotify.com/album/2MV3aQb0BMMLqaydFaTci7"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 216106,
       "name": "Myspace",
       "url": "https://open.spotify.com/track/0wKWQHIaja5IuDovI1euWh"
+    },
+    {
+      "added_at": "2023-02-14 07:41:01",
+      "album": {
+        "name": "RE_vive",
+        "url": "https://open.spotify.com/album/5ZR4gMvmyzSX7AApmIR88h"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyed Girls",
+          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
+        }
+      ],
+      "duration_ms": 232906,
+      "name": "Wonder Woman",
+      "url": "https://open.spotify.com/track/6xvJJyGmKG0oOFcdJ5wF16"
     },
     {
       "added_at": "2023-02-14 07:41:01",
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2023-02-14 07:41:01",
       "album": {
-        "name": "Cristal Love",
-        "url": "https://open.spotify.com/album/5sIhEUT8XBrUpdIsFkXkjK"
+        "name": "Onstage Digging Club Seoul Part.05",
+        "url": "https://open.spotify.com/album/0WqyGHNOUN1zBS2lJQYo8d"
       },
       "artists": [
         {
-          "name": "En Sokum",
-          "url": "https://open.spotify.com/artist/3RjGXbgDR40y0ZzZhCACfF"
+          "name": "DAYBREAK",
+          "url": "https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2"
         }
       ],
-      "duration_ms": 217058,
-      "name": "Cristal Love",
-      "url": "https://open.spotify.com/track/056ve9qgYBqfAadX29x9ds"
+      "duration_ms": 294308,
+      "name": "You always - Digging Club Seoul Ver.",
+      "url": "https://open.spotify.com/track/0FezNsbNxAez1YvGkSd1Bu"
     }
   ],
   "unique_name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",

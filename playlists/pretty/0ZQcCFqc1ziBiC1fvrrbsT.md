@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 
-[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 8,564 likes - 32 songs - 2 hr 0 min
+[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 8,569 likes - 32 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnA0FshBt4S.md) - [plain]
 
 > The very best songs that soundtracked Youth Groups of the 90s & early 00s! Cover: DC Talk
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,200 likes - 75 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,307 likes - 75 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,28 +51,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnA0FshBt4S.md) - [plain]
 | 41 | [Lord I Lift Your Name on High](https://open.spotify.com/track/1TIZNu7zA2EiixLFmrmsyF) | [Sonicflood](https://open.spotify.com/artist/1lPSXeZw9i7js7PdFJXEJI) | [Sonicpraise](https://open.spotify.com/album/5uzmXNAOurQhBSA4QUx4eq) | 6:21 |
 | 42 | [Basic Instructions](https://open.spotify.com/track/1P2U3LMx2Rj3pVmnmT4LSd) | [Burlap To Cashmere](https://open.spotify.com/artist/4onLiJTk4yL72Yu7tc5ifw) | [Anybody Out There?](https://open.spotify.com/album/6conxG5LDeq8o4Jge5KSJe) | 3:59 |
 | 43 | [You Found Me](https://open.spotify.com/track/6A87i6tLzox7U3D0EVTb2G) | [FFH](https://open.spotify.com/artist/4xvNx8d6ZMhOZXUGUBmJby) | [Ready To Fly](https://open.spotify.com/album/2v49kEIRi0xG0zesXFFcLs) | 3:35 |
-| 44 | [Get Down](https://open.spotify.com/track/3PTHCjyRYLVMVxeUX59joC) | [Audio Adrenaline](https://open.spotify.com/artist/01PBXLThJADrhufsPS5tER) | [The Ultimate Collection](https://open.spotify.com/album/47NIFvfpDVQbVaoDcfwKqy) | 3:14 |
-| 45 | [Consuming Fire](https://open.spotify.com/track/2bAOXQyD64LzOK0jRv1jMi) | [Third Day](https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch) | [Third Day](https://open.spotify.com/album/0CbjyNnad3GgRLWrUshLXF) | 4:09 |
+| 44 | [Consuming Fire](https://open.spotify.com/track/2bAOXQyD64LzOK0jRv1jMi) | [Third Day](https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch) | [Third Day](https://open.spotify.com/album/0CbjyNnad3GgRLWrUshLXF) | 4:09 |
+| 45 | [Get Down](https://open.spotify.com/track/3PTHCjyRYLVMVxeUX59joC) | [Audio Adrenaline](https://open.spotify.com/artist/01PBXLThJADrhufsPS5tER) | [The Ultimate Collection](https://open.spotify.com/album/47NIFvfpDVQbVaoDcfwKqy) | 3:14 |
 | 46 | [Deeper](https://open.spotify.com/track/0hDWOLFu71QCiI8MblsMks) | [Delirious?](https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF) | [King of Fools](https://open.spotify.com/album/4FrXWYXrratJp2KfiFl32j) | 4:20 |
 | 47 | [Gasoline](https://open.spotify.com/track/050IFBYeEqDS4FavXJifoe) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Skillet](https://open.spotify.com/album/5PUVPlbwm347Jt0Vdcw3s5) | 4:02 |
 | 48 | [Welcome Home](https://open.spotify.com/track/3KzE6f3h07i1AiepzjfGHD) | [The O.C\. Supertones](https://open.spotify.com/artist/61uwXZTKqYAAoXz8XvUUbE) | [Hi Fi Revival](https://open.spotify.com/album/3h8idOY5EBpE4bN4idaGJR) | 2:43 |
 | 49 | [Don't Look At Me](https://open.spotify.com/track/3fyMwcqHxruPGAaGtDt4sh) | [Stacie Orrico](https://open.spotify.com/artist/5QjWgYDeKNP2iPHTdTttnG) | [Genuine](https://open.spotify.com/album/3yurqtwBDlirDKcQt2pEMk) | 3:36 |
-| 50 | [Entertaining Angels](https://open.spotify.com/track/5lJEym4sjfKZJ20AAjpe1k) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [The Ultimate Collection](https://open.spotify.com/album/4tab0wm9wlaNYGEKAoRzFd) | 4:17 |
-| 51 | [Undo Me](https://open.spotify.com/track/5EV1UhPaelVqKHXkaxglAY) | [Jennifer Knapp](https://open.spotify.com/artist/2yAjgPqGeURdgCHPzuDeYi) | [The Collection](https://open.spotify.com/album/6O9oaYFECfRRBV5z2g0fbV) | 3:23 |
+| 50 | [Undo Me](https://open.spotify.com/track/5EV1UhPaelVqKHXkaxglAY) | [Jennifer Knapp](https://open.spotify.com/artist/2yAjgPqGeURdgCHPzuDeYi) | [The Collection](https://open.spotify.com/album/6O9oaYFECfRRBV5z2g0fbV) | 3:23 |
+| 51 | [Entertaining Angels](https://open.spotify.com/track/5lJEym4sjfKZJ20AAjpe1k) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [The Ultimate Collection](https://open.spotify.com/album/4tab0wm9wlaNYGEKAoRzFd) | 4:17 |
 | 52 | [All Over Me](https://open.spotify.com/track/48UADGUoDwrBOkTVxWjzaP) | [The Benjamin Gate](https://open.spotify.com/artist/5xNrsi292mrWxvM4g5bqOG) | [Untitled](https://open.spotify.com/album/1fPm3avdEiN8fm9V3N1iGk) | 4:10 |
-| 53 | [Breathe](https://open.spotify.com/track/7Gv5J3aHzvZ7ODLGUdfl6C) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Sixpence None the Richer: Greatest Hits](https://open.spotify.com/album/21KNgondk578mn6CS8AAKu) | 4:06 |
-| 54 | [Jonah \- Flying Album Version](https://open.spotify.com/track/3dPZqflDdEbIzs9GGWHXxV) | [Grammatrain](https://open.spotify.com/artist/5xFgYvWejLOS3wTdMoJjCn) | [Flying](https://open.spotify.com/album/69Ww8L7uMR6JxnmmIaly5P) | 2:41 |
+| 53 | [Jonah \- Flying Album Version](https://open.spotify.com/track/3dPZqflDdEbIzs9GGWHXxV) | [Grammatrain](https://open.spotify.com/artist/5xFgYvWejLOS3wTdMoJjCn) | [Flying](https://open.spotify.com/album/69Ww8L7uMR6JxnmmIaly5P) | 2:41 |
+| 54 | [Breathe](https://open.spotify.com/track/7Gv5J3aHzvZ7ODLGUdfl6C) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Sixpence None the Richer: Greatest Hits](https://open.spotify.com/album/21KNgondk578mn6CS8AAKu) | 4:06 |
 | 55 | [Phenomenon](https://open.spotify.com/track/6qua1VkixdXsqWfxGBNf8d) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Welcome To Diverse City](https://open.spotify.com/album/08J3ZjZXN1J5qNbla71PYI) | 5:19 |
 | 56 | [Love Me Good](https://open.spotify.com/track/4ynh61vZS9j5L6xC63U11q) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Live The Life](https://open.spotify.com/album/1VKNgXQZcAcaYRr6qUMTwM) | 4:41 |
 | 57 | [Prophet, Priest and King](https://open.spotify.com/track/7rEDMH58B288SJZuKO0FuS) | [Smalltown Poets](https://open.spotify.com/artist/0mHos4yS8iAhpYPABHFdBc) | [Smalltown Poets](https://open.spotify.com/album/3VSgWtarqDC0SoLgLzoM8E) | 3:36 |
-| 58 | [Speechless](https://open.spotify.com/track/6GhzOYfrReyXf19U4YuGXm) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [\# 1's Vol\. 1](https://open.spotify.com/album/0bYtirzI9EXXCcu3gz8FRP) | 5:06 |
-| 59 | [Super Good Feeling \- Static Album Version](https://open.spotify.com/track/0kZQnBXiQDpoAaCDwCfPXI) | [Bleach](https://open.spotify.com/artist/6VLj1qK2dmR3P2yMNTSn2Y) | [Static](https://open.spotify.com/album/5QAcLf7DEB5OnTDgbCr1pU) | 3:19 |
+| 58 | [Super Good Feeling \- Static Album Version](https://open.spotify.com/track/0kZQnBXiQDpoAaCDwCfPXI) | [Bleach](https://open.spotify.com/artist/6VLj1qK2dmR3P2yMNTSn2Y) | [Static](https://open.spotify.com/album/5QAcLf7DEB5OnTDgbCr1pU) | 3:19 |
+| 59 | [Speechless](https://open.spotify.com/track/6GhzOYfrReyXf19U4YuGXm) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [\# 1's Vol\. 1](https://open.spotify.com/album/0bYtirzI9EXXCcu3gz8FRP) | 5:06 |
 | 60 | [Love Liberty Disco](https://open.spotify.com/track/5K0KgpQUOZlag12UDC5ToB) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [The Ultimate Collection](https://open.spotify.com/album/4tab0wm9wlaNYGEKAoRzFd) | 3:43 |
 | 61 | [Free At Last \- Live](https://open.spotify.com/track/5zmoHiyoqhSnoV9EGcYhYi) | [DC Talk](https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh) | [Free At Last \(Live\)](https://open.spotify.com/album/7whdJR9MEFJixUeSmATRUD) | 4:44 |
 | 62 | [Thicker](https://open.spotify.com/track/5xYOwMkV5NGUYz2lfhR4se) | [Chasing Furies](https://open.spotify.com/artist/4YQBXdwBcvt5mvjfzhts7t) | [With Abandon](https://open.spotify.com/album/08AZTRKahrB3VLMQSNlaEl) | 3:57 |
 | 63 | [Goodbye](https://open.spotify.com/track/4T2YM2TrhtxE9QvyptdBos) | [Plankeye](https://open.spotify.com/artist/1BEzx2txNgJpTDRcgP3ub4) | [Relocation](https://open.spotify.com/album/3HNhQynHgqCzawAk6PGIu9) | 4:20 |
-| 64 | [Revive Us](https://open.spotify.com/track/3C6jSw9wdYUEdgtSMjLsZn) | [Anointed](https://open.spotify.com/artist/6GrYT1CB2T0IxumY1MQpZJ) | [Anointed](https://open.spotify.com/album/2E9vqclDxqceNEMbYn6IxB) | 4:08 |
-| 65 | [The Sun Also Rises](https://open.spotify.com/track/1riMbTj6HbiQ0tpD1aRema) | [Brave Saint Saturn](https://open.spotify.com/artist/3ThPMQBJlcHA839lBHxQr9) | [The Light Of Things Hoped For](https://open.spotify.com/album/7nxwgdX2XXJ92gJ936QCa1) | 3:15 |
+| 64 | [The Sun Also Rises](https://open.spotify.com/track/1riMbTj6HbiQ0tpD1aRema) | [Brave Saint Saturn](https://open.spotify.com/artist/3ThPMQBJlcHA839lBHxQr9) | [The Light Of Things Hoped For](https://open.spotify.com/album/7nxwgdX2XXJ92gJ936QCa1) | 3:15 |
+| 65 | [Revive Us](https://open.spotify.com/track/3C6jSw9wdYUEdgtSMjLsZn) | [Anointed](https://open.spotify.com/artist/6GrYT1CB2T0IxumY1MQpZJ) | [Anointed](https://open.spotify.com/album/2E9vqclDxqceNEMbYn6IxB) | 4:08 |
 | 66 | [Gravity](https://open.spotify.com/track/6z5hemlFOgSeqGgArca8sS) | [Delirious?](https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF) | [Mezzamorphis](https://open.spotify.com/album/5GpaRJfeglVrlsClIlhPtn) | 3:20 |
 | 67 | [Into You](https://open.spotify.com/track/7HMBPVrRkwGuABMvMVTiys) | [Jennifer Knapp](https://open.spotify.com/artist/2yAjgPqGeURdgCHPzuDeYi) | [Lay It Down](https://open.spotify.com/album/5cxJJ5gekgM7WSbTtvO9H4) | 3:04 |
 | 68 | [Revolve](https://open.spotify.com/track/3wsYeIOXrGuSnG3kRGbrwm) | [Poor Old Lu](https://open.spotify.com/artist/4kKX2Dc7HBE6fozhXYzPw8) | [The Waiting Room](https://open.spotify.com/album/2CZhEQJRXhfOxWMYnYKpE5) | 3:47 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnA0FshBt4S.md) - [plain]
 | 74 | [Rain](https://open.spotify.com/track/1SvlSnI123v00sH5Ro9NZ7) | [dryve](https://open.spotify.com/artist/0hr4err987upnrCLPvCPA4) | [Thrifty Mr\. Kickstar](https://open.spotify.com/album/11bRlMEbcjxbrHnkNZcOuJ) | 6:46 |
 | 75 | [The Devil Is Bad](https://open.spotify.com/track/7HU4ubA9Ml4ztErtnHdOMW) | [The W's](https://open.spotify.com/artist/6hbwBTYR4mLag3kkI6wXSV) | [Fourth From The Last](https://open.spotify.com/album/5ZyJ4WdmnQEGI6vWOKs7Ab) | 3:33 |
 
-Snapshot ID: `MTY3NTIyNzIwMCwwMDAwMDAwMGVmNjIwZThjMTExMzUwNzJmNGJlNDBhOGI3NGRjYzBk`
+Snapshot ID: `MTY3NTIyNzIwMCwwMDAwMDAwMDk0OTQxZWEyMmE1MGMwMGI2Y2E0YTlhYjZmNDk3NmM0`

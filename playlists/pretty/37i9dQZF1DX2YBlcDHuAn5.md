@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 
 > De mooiste muziek: Americana \| Country
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,656 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,664 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 20 | [Dreamer](https://open.spotify.com/track/4YQubPuAYJpL7oXYCDvw0L) | [Niels Geusebroek](https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l) | [Dreamer](https://open.spotify.com/album/1GKEaevMrPeFx6EbUkw9Sg) | 2:53 |
 | 21 | [Big Time](https://open.spotify.com/track/3RZ5VvBcCQgrRl8XaKZLa4) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt), [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Big Time](https://open.spotify.com/album/5UsuKQY3qOMAYyuwaxH4Lx) | 4:07 |
 | 22 | [Hear My Dear](https://open.spotify.com/track/7znaTjqonnsPcuQpOcQ7nT) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: I\. Crescent](https://open.spotify.com/album/7tiugISIhitNyFnMRQBhIq) | 5:34 |
-| 23 | [Know Your Demons](https://open.spotify.com/track/3AonChVGbKzTPGpkiR4Awe) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [Know Your Demons](https://open.spotify.com/album/408i5hH2MLHqX6X6srXEL8) | 3:26 |
-| 24 | [Can't Nobody](https://open.spotify.com/track/3QjMxiTf0OBM729FA0AqZy) | [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ) | [Can't Nobody](https://open.spotify.com/album/29N9gvVvR2wiXR1hJR7M9R) | 3:23 |
+| 23 | [Can't Nobody](https://open.spotify.com/track/3QjMxiTf0OBM729FA0AqZy) | [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ) | [Can't Nobody](https://open.spotify.com/album/29N9gvVvR2wiXR1hJR7M9R) | 3:23 |
+| 24 | [Know Your Demons](https://open.spotify.com/track/3AonChVGbKzTPGpkiR4Awe) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [Know Your Demons](https://open.spotify.com/album/408i5hH2MLHqX6X6srXEL8) | 3:26 |
 | 25 | [Built And Broken](https://open.spotify.com/track/2oLl22EdWPR8u8hTtfgBPS) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Built And Broken](https://open.spotify.com/album/3nSk18ZELTQqgdSYJBeZ1m) | 4:28 |
 | 26 | [I Feel for You](https://open.spotify.com/track/6XOWuyehpI0CEDYr7EQQun) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [I Feel for You](https://open.spotify.com/album/1T7prrdakLyU8Nk7AlXEgb) | 3:03 |
 | 27 | [Ballad Of Easy Rider](https://open.spotify.com/track/5Nn8SPmzJUV3xUZFBdFjcV) | [Mell & Vintage Future](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Ballad Of Easy Rider](https://open.spotify.com/album/0QQxEoiKi7sgUjlAzjTQCS) | 2:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 49 | [Loose Future](https://open.spotify.com/track/1f7mKDuWfkhMXOnRcdI8Vz) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Loose Future](https://open.spotify.com/album/25dWaNwrPBrS1UAXUBZOVh) | 3:28 |
 | 50 | [Once Upon A Town](https://open.spotify.com/track/32qnA2AzhYiz9QfSMVvgo3) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [Once Upon A Town](https://open.spotify.com/album/5uPvRkqZrTkRvIufbRFvt4) | 2:59 |
 
-Snapshot ID: `MTY4MDIxNzIwMCwwMDAwMDAwMDkwZDNkZjdkYjE3ZTlhMGZjMDU4YzFkN2U3ZjU1MGNj`
+Snapshot ID: `MTY4MDIxNzIwMCwwMDAwMDAwMDFjNThjZWNhNmRhYThiMDUyNGYwYTI1NDE2MzgwZTAy`

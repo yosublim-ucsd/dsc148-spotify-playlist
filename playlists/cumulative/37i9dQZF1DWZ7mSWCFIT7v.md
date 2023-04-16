@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZ7mSWCFIT7v.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZ7mSWCFIT7v) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZ7mSWCFIT7v)
 
-### [Refractions](https://open.spotify.com/playlist/37i9dQZF1DWZ7mSWCFIT7v)
+### [bleeps ^ glitches](https://open.spotify.com/playlist/37i9dQZF1DWZ7mSWCFIT7v)
 
-> Laid back electronic soundscapes rooted in experimental and ambient sensibilities.
+> time\-stretching granular synthesis.
 
-313 songs - 1 day 1 hr 22 min
+316 songs - 1 day 1 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [10°C](https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [Whatever The Weather](https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O) | 4:22 | 2022-12-20 |  |
 | [14Mm](https://open.spotify.com/track/2bjumbwYUXyGmCoUgVORCC) | [Braulio Lam](https://open.spotify.com/artist/2De39lNgozCwzBWQTUPlPS) | [Long Exposure](https://open.spotify.com/album/1Z3AfcdNKfUDB6BZBT3QRY) | 7:54 | 2021-10-06 | 2022-07-29 |
 | [161,1](https://open.spotify.com/track/3RwTPFqufAXpe1n5Mu5qKo) | [Ulises Conti](https://open.spotify.com/artist/2GbKQKL9D1dkfoSMeWM7vV) | [1234,8](https://open.spotify.com/album/02Roi0ruMSmTSaxoiOEF8G) | 5:58 | 2021-10-06 | 2023-04-06 |
+| [1977](https://open.spotify.com/track/5CPTy1vepzxa0zqcs7F4F1) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X), [Meemo Comma](https://open.spotify.com/artist/46fSsw6Lx6s1kvYGnb4pnd) | [1977](https://open.spotify.com/album/3FoOSS6Pl6CEPSMRTkG2TM) | 5:36 | 2023-04-15 |  |
 | [3 Sided](https://open.spotify.com/track/0QMv6RWTMqR2OqiUBke2mV) | [FFT](https://open.spotify.com/artist/4a3VAtqVMgurek8wZP5Nm6) | [Clear](https://open.spotify.com/album/0Je5XzFdnFSVL31MN3TdHQ) | 5:12 | 2022-07-15 | 2022-08-11 |
 | [4 Ya Kiss](https://open.spotify.com/track/1qjd5CoUbzA7CNnB06flYN) | [700 Feel](https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV) | [4 Ya Kiss / 4 Ya Bliss](https://open.spotify.com/album/1m5Fdo7XNGZ8TunvSg948H) | 4:07 | 2022-09-07 | 2022-12-08 |
 | [5](https://open.spotify.com/track/1EZryQ41Rf8lFvdFLWErs1) | [Fax](https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4) | [Catalog Number Sta122](https://open.spotify.com/album/6u4MFeTG2QR99sr4Uf0nPf) | 4:04 | 2022-12-16 |  |
@@ -67,8 +68,9 @@
 | [Carry Cash](https://open.spotify.com/track/3LdnCp3hEivIUMKhajPFa8) | [Wylie Cable](https://open.spotify.com/artist/6Na4a1Vc689Z5C9C3Ht8zf) | [Shimmer, then Disappear](https://open.spotify.com/album/2XAcxWxvhSnx0BCYNF8kwX) | 2:50 | 2021-10-06 | 2022-07-29 |
 | [Cartoon Smile](https://open.spotify.com/track/6Sck9KEH769tptMJKGixZf) | [Oli XL](https://open.spotify.com/artist/3L3ejltt5dmjXkES4YSGKX) | [Go Oli Go! / Cartoon Smile](https://open.spotify.com/album/1umRL5inVuZZXc8z6TOpvT) | 2:46 | 2021-11-30 | 2022-07-24 |
 | [Chapter 2 \(feat\. Laurel Halo\) \- Peverelist Remix](https://open.spotify.com/track/1xNjNoGC0SbQBkMvPxQWe1) | [Moritz Von Oswald Trio](https://open.spotify.com/artist/2yRfLXpz7uqOPvmpMdBqL2), [Heinrich Kobberling](https://open.spotify.com/artist/1SSqI0bXEMPNpjPb5iQQx6), [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl), [Peverelist](https://open.spotify.com/artist/0UrA452V5vJpCW5ezx0YMP) | [Chapter 2 \(feat\. Laurel Halo\) \[Peverelist Remix\]](https://open.spotify.com/album/3eYMNn2QC4k8hGSSnk3yUX) | 4:58 | 2022-06-08 | 2022-09-22 |
-| [Cheve](https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89) | [Siete Catorce](https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr) | [Cruda](https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH) | 5:29 | 2022-04-29 |  |
+| [Cheve](https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89) | [Siete Catorce](https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr) | [Cruda](https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH) | 5:29 | 2022-04-29 | 2023-04-16 |
 | [CHIAROSCURO](https://open.spotify.com/track/7kdc3HHWBRY4aUxFdgFRJD) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [SCURO CHIARO](https://open.spotify.com/album/045jhBuqmI4EXPrtKY3RbD) | 7:56 | 2021-10-06 | 2022-07-27 |
+| [Chéri \- Instrumental](https://open.spotify.com/track/29h9FSnDewNpgDhVVGgYb0) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE \(FOREVER VOICELESS EDITION\)](https://open.spotify.com/album/6IyiPFsPNCbehAh0dFYRJ6) | 3:25 | 2023-04-15 |  |
 | [Climate Flu](https://open.spotify.com/track/6RyTgXg86oSjqQFIdZQa1Z) | [Duckett](https://open.spotify.com/artist/2F1Xapfmt9HXopbgBuAfvC), [Tom Demac](https://open.spotify.com/artist/3758ZYkL9uiug7nHTQNWcP) | [The Climate Flu EP](https://open.spotify.com/album/4DGpoqInR89VMUTzrrRBhs) | 6:41 | 2021-10-06 | 2022-07-22 |
 | [Climbing Up](https://open.spotify.com/track/5ohckOzltNPpAnD0NRZvI0) | [Cool Maritime](https://open.spotify.com/artist/1B5MGDIt38Z6cUdghq8SaV) | [Climbing Up](https://open.spotify.com/album/3XTJoBHsc1J6kgVM294lgW) | 4:19 | 2021-10-06 | 2022-07-17 |
 | [Cloud Cover \- Andrew Weatherall Remix](https://open.spotify.com/track/5MUjW4dKNA5EHnFZ0vQDxH) | [Glok](https://open.spotify.com/artist/2G3iuzeOomS2Qcryfa2NWq), [Andrew Weatherall](https://open.spotify.com/artist/5J85JTgIYIUP276hmuIozn) | [The Citadel EP](https://open.spotify.com/album/0aWvSmTezkoPwXmCp9uctn) | 6:27 | 2021-10-06 | 2022-07-29 |
@@ -155,6 +157,7 @@
 | [Loom \(feat\. Bonobo\)](https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Loom](https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM) | 3:46 | 2021-10-06 |  |
 | [Los muertos no lloran](https://open.spotify.com/track/1XrNKhqFjetXTmVbWXbQNS) | [issuesonissues](https://open.spotify.com/artist/2dzJGWoV8Hdmq2ZnpbTGG0) | [Los muertos no lloran](https://open.spotify.com/album/4Vi8kmWAJAl6SgYXCX7IqG) | 5:40 | 2023-03-22 |  |
 | [Lost You in the Fog](https://open.spotify.com/track/40nn7NYGNb5KfLe6Qsok72) | [Auscultation](https://open.spotify.com/artist/5KlOanD5FKL6qWZ8auNVKQ) | [L'étreinte Imaginaire](https://open.spotify.com/album/1E5qllAtZJmSI94vHGMdGn) | 8:53 | 2021-10-06 | 2022-11-13 |
+| [Lotus Light](https://open.spotify.com/track/7E5YAVrt11Xkgl0jhXLgAP) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [No Highs](https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P) | 8:31 | 2023-04-15 |  |
 | [Mainstream Belief](https://open.spotify.com/track/2VtvAOGHHsJ57UO46v9ybK) | [Grant](https://open.spotify.com/artist/5xUqD3EXrIaAq1IZeOC4lM) | [Cranks](https://open.spotify.com/album/1tBm85iGcYs2mlr7BIUvmv) | 4:59 | 2021-10-06 | 2022-07-17 |
 | [Marking Time](https://open.spotify.com/track/34ywBstvC6knYlFm5VbaaO) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Marking Time](https://open.spotify.com/album/4WzQyr5KR9JkD2ilK0hw1W) | 4:30 | 2021-10-06 | 2022-07-29 |
 | [Marking Time](https://open.spotify.com/track/43YlD5hr6IVXPAuWz47bSH) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Angel Tears in Sunlight](https://open.spotify.com/album/1XtRcRYDb1uA7hvvZzC2Xd) | 4:30 | 2021-10-06 | 2023-02-16 |
@@ -185,7 +188,7 @@
 | [Nutrition \- Single Edit](https://open.spotify.com/track/3A6tEuBqrZGmFXZrYEGx00) | [Tenka](https://open.spotify.com/artist/2B1vFfrtORGBQQdIKAckkw), [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Nutrition](https://open.spotify.com/album/1CHFy3am47XIemogPAnlwi) | 4:39 | 2022-09-15 |  |
 | [Nymphaea Crystals](https://open.spotify.com/track/4AsBd0fnVy2nz0qZYgo2gu) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Nymphaea Crystals](https://open.spotify.com/album/4qYBjbfpvpSQUCDDt8HgfF) | 2:16 | 2021-10-06 | 2022-07-28 |
 | [O=0](https://open.spotify.com/track/3CJhhMbFRpsogjQIOisYvo) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Oversteps](https://open.spotify.com/album/5iaRpin36ZjaOC6PMAZ02l) | 4:52 | 2021-10-06 | 2022-04-21 |
-| [October](https://open.spotify.com/track/1c8GaCiIZ8ffgF9Ix8Dyeo) | [Sunroof](https://open.spotify.com/artist/0xQXMzZ4TFP23eJjBWdR9w), [Daniel Miller](https://open.spotify.com/artist/4zvLVP1siaenGVnUBDo2nt), [Gareth Jones](https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV) | [Electronic Music Improvisations Vol\. 2](https://open.spotify.com/album/3nJqywirkGTmHgGah18jgg) | 6:05 | 2023-03-31 |  |
+| [October](https://open.spotify.com/track/1c8GaCiIZ8ffgF9Ix8Dyeo) | [Sunroof](https://open.spotify.com/artist/0xQXMzZ4TFP23eJjBWdR9w), [Daniel Miller](https://open.spotify.com/artist/4zvLVP1siaenGVnUBDo2nt), [Gareth Jones](https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV) | [Electronic Music Improvisations Vol\. 2](https://open.spotify.com/album/3nJqywirkGTmHgGah18jgg) | 6:05 | 2023-03-31 | 2023-04-16 |
 | [Odyssey](https://open.spotify.com/track/38CvS1tbJBGBxV4TCJda4M) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [El Caso Figo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/75YNOhNpjEsAG4ktyJjqLy) | 4:41 | 2022-08-31 |  |
 | [Ola De Luz](https://open.spotify.com/track/32sj28mo2pbqzDjW4ZvsuH) | [OKRAA](https://open.spotify.com/artist/1ZfxnR3DTdddhuKtkIGIKU) | [1994](https://open.spotify.com/album/1p75jJjxx7Eu2nlAlQEtGE) | 10:45 | 2022-09-27 |  |
 | [Old Organs](https://open.spotify.com/track/2ZtCst2Z5UNpMmTvqGPfT0) | [Tangents](https://open.spotify.com/artist/76rNPeXwFcvii9vnKMDnn0) | [Old Organs](https://open.spotify.com/album/2eM78Bk4UTo4eNbSj3RArV) | 6:35 | 2021-10-06 | 2022-07-29 |
@@ -264,7 +267,7 @@
 | [Tension](https://open.spotify.com/track/778hZhIUVg9QVvNBqs6SLT) | [Don Zilla](https://open.spotify.com/artist/28v8olmolos8vLLikFIWzh) | [Tension](https://open.spotify.com/album/3oAtVXftA2Tkwa5QCAXzfZ) | 3:48 | 2021-10-06 | 2022-07-23 |
 | [The Clearing Pt\. 2](https://open.spotify.com/track/2SCFCNIvWuup7rGr9pUa1C) | [Hans Berg](https://open.spotify.com/artist/3HtBPJEDYVtAbTGSpaJ3Hk) | [Waypoints](https://open.spotify.com/album/7niveWSY99Oij26h1PjjBR) | 5:54 | 2022-09-21 |  |
 | [The need to avoid](https://open.spotify.com/track/25PIpJMhgUa85Yaz7nvUxV) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Projections](https://open.spotify.com/album/1jLpg42UwBnazMOIgAZtRQ) | 3:08 | 2022-02-09 | 2022-04-21 |
-| [The Pier](https://open.spotify.com/track/7FkL1m76B5qexhP7np6kRK) | [Bengalfuel](https://open.spotify.com/artist/06r801SGC5phdLkowJLkfl) | [Hodes](https://open.spotify.com/album/2CaQbV2NP1EDyeNvGA7LFP) | 3:14 | 2021-10-06 |  |
+| [The Pier](https://open.spotify.com/track/7FkL1m76B5qexhP7np6kRK) | [Bengalfuel](https://open.spotify.com/artist/06r801SGC5phdLkowJLkfl) | [Hodes](https://open.spotify.com/album/2CaQbV2NP1EDyeNvGA7LFP) | 3:14 | 2021-10-06 | 2023-04-16 |
 | [The Psychedelic One](https://open.spotify.com/track/4R9SrmMdJK2kQCWuZjzOsg) | [Oils](https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI) | [Between Voids](https://open.spotify.com/album/0ledrPUfebeLTGu1Lr4DQE) | 4:28 | 2022-03-30 |  |
 | [The Star Compass](https://open.spotify.com/track/6eiKdoO7ZwZbQt99QIj5Qh) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Radio Amor](https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR) | 4:49 | 2021-10-06 | 2023-02-04 |
 | [The Trembling of Glass](https://open.spotify.com/track/2qxSI6WgvlUYjKNVH9pdf0) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [The Trembling of Glass](https://open.spotify.com/album/0TE1ALYdYkclAsNZYunqg5) | 3:28 | 2021-10-06 | 2022-07-29 |

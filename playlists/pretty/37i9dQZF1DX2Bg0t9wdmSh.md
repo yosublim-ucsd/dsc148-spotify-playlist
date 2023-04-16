@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Bg0t9wdmSh.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/justinlaboy/">Justin LaBoy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,589 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,621 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Bg0t9wdmSh.md) - [plain]
 | 4 | [Mr\. Right Now \(feat\. Drake\)](https://open.spotify.com/track/4Q34FP1AT7GEl9oLgNtiWj) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [SAVAGE MODE II](https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi) | 3:13 |
 | 5 | [Whoopty](https://open.spotify.com/track/5vGLcdRuSbUhD8ScwsGSdA) | [CJ](https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb) | [Whoopty](https://open.spotify.com/album/5oBYG6dEI2Er6EeLnmonGE) | 2:03 |
 | 6 | [Drankin N Smokin](https://open.spotify.com/track/0k7wmahjkn389wAZdz19Cv) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pluto x Baby Pluto](https://open.spotify.com/album/48xpWR8K6CGpy3ETAym3pt) | 3:33 |
-| 7 | [Up](https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Up](https://open.spotify.com/album/5BNrcvfbLyADks4RXPW7VP) | 2:36 |
-| 8 | [I Need a Girl \(Pt\. 2\) \[feat\. Loon, Ginuwine & Mario Winans\]](https://open.spotify.com/track/6Wt5QBzHp9vdSLAFlvdnDQ) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP), [Loon](https://open.spotify.com/artist/2gie1bU1LwnxdFAJoTLjzT), [Mario Winans](https://open.spotify.com/artist/4BIQA9vRkqXEnA2twmq7mU), [Tammy Ruggieri](https://open.spotify.com/artist/3syIAcIriqzXKN77IwQnWB) | [Bad Boy's 10th Anniversary\- The Hits](https://open.spotify.com/album/46JQVqJpOg8opDLUl1qHT1) | 4:45 |
+| 7 | [I Need a Girl \(Pt\. 2\) \[feat\. Loon, Ginuwine & Mario Winans\]](https://open.spotify.com/track/6Wt5QBzHp9vdSLAFlvdnDQ) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP), [Loon](https://open.spotify.com/artist/2gie1bU1LwnxdFAJoTLjzT), [Mario Winans](https://open.spotify.com/artist/4BIQA9vRkqXEnA2twmq7mU), [Tammy Ruggieri](https://open.spotify.com/artist/3syIAcIriqzXKN77IwQnWB) | [Bad Boy's 10th Anniversary\- The Hits](https://open.spotify.com/album/46JQVqJpOg8opDLUl1qHT1) | 4:45 |
+| 8 | [Up](https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Up](https://open.spotify.com/album/5BNrcvfbLyADks4RXPW7VP) | 2:36 |
 | 9 | [Back in Blood \(feat\. Lil Durk\)](https://open.spotify.com/track/7JuHVG3qQKQKxC4doneXVW) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Back In Blood \(feat\. Lil Durk\)](https://open.spotify.com/album/1VARhsCn3CIog9r2lz6gq5) | 3:04 |
 | 10 | [You're Mines Still \(feat\. Drake\)](https://open.spotify.com/track/6tiKwZppNjrls8RsPQwK6r) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Moon Boy](https://open.spotify.com/album/2VUhkRrg5dEJIGewOBOc7J) | 3:46 |
 | 11 | [Time Today](https://open.spotify.com/track/0YrKSfpvflYnLSBd4Jtu6J) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [A Gangsta’s Pain](https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe) | 2:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Bg0t9wdmSh.md) - [plain]
 | 49 | [RNB \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/6aIARN0We3Rf0O2n20J8hp) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [RNB \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/6A0oDDWAJwFxzD2YQwmp0U) | 3:31 |
 | 50 | [Twerksum](https://open.spotify.com/track/4i8qEsqa426Ctz6KRno3dA) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [Twerksum](https://open.spotify.com/album/5PvbVK53F50l8MpEAkKY45) | 3:13 |
 
-Snapshot ID: `MTY2NDY0MDU5NiwwMDAwMDAwMDRmOGI0ZDRiZTczMzEyZTg2YmRmN2NmOTI1MjBmNDM4`
+Snapshot ID: `MTY2NDY0MDU5NiwwMDAwMDAwMDA3OWEyZWNmMzcwMDRkZDMyMjU3MzcxMTQ0ZTRjMDc0`

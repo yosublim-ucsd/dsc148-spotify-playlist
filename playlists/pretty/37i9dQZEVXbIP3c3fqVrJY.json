@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Czech Republic.",
-  "num_followers": 67643,
+  "num_followers": 67651,
   "original_name": "Top 50 - Czech Republic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzM0ODM1MDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzM0OTIxNDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-04-14 09:45:23",
+      "added_at": "2023-04-15 11:00:49",
       "album": {
         "name": "ROADTRIP",
         "url": "https://open.spotify.com/album/7urc9xduLqYClz4nNzQQhc"
@@ -29,7 +29,23 @@
       "url": "https://open.spotify.com/track/1tpWtFdAuY9chjl5YhzsTP"
     },
     {
-      "added_at": "2023-04-14 09:45:23",
+      "added_at": "2023-04-15 11:00:49",
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 212953,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
+    },
+    {
+      "added_at": "2023-04-15 11:00:49",
       "album": {
         "name": "Habibi",
         "url": "https://open.spotify.com/album/7EdhZU5wyU8jwdZmcyQvAZ"
@@ -45,7 +61,7 @@
       "url": "https://open.spotify.com/track/5FXDsBtTJRSMmmWhFxhAI0"
     },
     {
-      "added_at": "2023-04-14 09:45:23",
+      "added_at": "2023-04-15 11:00:49",
       "album": {
         "name": "ROADTRIP",
         "url": "https://open.spotify.com/album/7urc9xduLqYClz4nNzQQhc"
@@ -65,7 +81,7 @@
       "url": "https://open.spotify.com/track/0Pl0foFNy1vuVgx1NHVjSE"
     },
     {
-      "added_at": "2023-04-14 09:45:23",
+      "added_at": "2023-04-15 11:00:49",
       "album": {
         "name": "Endless Summer Vacation",
         "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
@@ -81,7 +97,7 @@
       "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
     },
     {
-      "added_at": "2023-04-14 09:45:23",
+      "added_at": "2023-04-15 11:00:49",
       "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
@@ -101,7 +117,23 @@
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
-      "added_at": "2023-04-14 09:45:23",
+      "added_at": "2023-04-15 11:00:49",
+      "album": {
+        "name": "Encore (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 250760,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
+    },
+    {
+      "added_at": "2023-04-15 11:00:49",
       "album": {
         "name": "ROADTRIP",
         "url": "https://open.spotify.com/album/7urc9xduLqYClz4nNzQQhc"
@@ -121,7 +153,7 @@
       "url": "https://open.spotify.com/track/4enbO9cZhJLSZ6Tf21LRnv"
     },
     {
-      "added_at": "2023-04-14 09:45:23",
+      "added_at": "2023-04-15 11:00:49",
       "album": {
         "name": "FLOWDEMORT",
         "url": "https://open.spotify.com/album/3zi1D9yDyynoGCl4vLVWOK"
@@ -145,23 +177,7 @@
       "url": "https://open.spotify.com/track/4WXX611x1aCtwcqVJgA3xb"
     },
     {
-      "added_at": "2023-04-14 09:45:23",
-      "album": {
-        "name": "Encore (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 250760,
-      "name": "Mockingbird",
-      "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
-    },
-    {
-      "added_at": "2023-04-14 09:45:23",
+      "added_at": "2023-04-15 11:00:49",
       "album": {
         "name": "ROADTRIP",
         "url": "https://open.spotify.com/album/7urc9xduLqYClz4nNzQQhc"
@@ -181,39 +197,7 @@
       "url": "https://open.spotify.com/track/1iOXr3xZSuF62boF7ygB6L"
     },
     {
-      "added_at": "2023-04-14 09:45:23",
-      "album": {
-        "name": "OneRepublic (Japan Paradise Tour Edition)",
-        "url": "https://open.spotify.com/album/33inEak0hNKMDePhjGxE61"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 148120,
-      "name": "I Ain't Worried",
-      "url": "https://open.spotify.com/track/4fYte8ZvTK14NEhAOZocBi"
-    },
-    {
-      "added_at": "2023-04-14 09:45:23",
-      "album": {
-        "name": "Long Way Down",
-        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 244360,
-      "name": "Another Love",
-      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
-    },
-    {
-      "added_at": "2023-04-14 09:45:23",
+      "added_at": "2023-04-15 11:00:49",
       "album": {
         "name": "POPSTAR",
         "url": "https://open.spotify.com/album/6GRkEvEJhFa7pt3vNfC6cK"
@@ -229,7 +213,55 @@
       "url": "https://open.spotify.com/track/2sXnat46y10FtAbW2A0ira"
     },
     {
-      "added_at": "2023-04-14 09:45:23",
+      "added_at": "2023-04-15 11:00:49",
+      "album": {
+        "name": "OneRepublic (Japan Paradise Tour Edition)",
+        "url": "https://open.spotify.com/album/33inEak0hNKMDePhjGxE61"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 148120,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/4fYte8ZvTK14NEhAOZocBi"
+    },
+    {
+      "added_at": "2023-04-15 11:00:49",
+      "album": {
+        "name": "Long Way Down",
+        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 244360,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
+    },
+    {
+      "added_at": "2023-04-15 11:00:49",
+      "album": {
+        "name": "P\u0159\u00edb\u011bhy a sny",
+        "url": "https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4"
+      },
+      "artists": [
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        }
+      ],
+      "duration_ms": 172540,
+      "name": "St\u00edny",
+      "url": "https://open.spotify.com/track/0J3SIAOndpL1MS2Vq2RMQ9"
+    },
+    {
+      "added_at": "2023-04-15 11:00:49",
       "album": {
         "name": "POPSTAR",
         "url": "https://open.spotify.com/album/6GRkEvEJhFa7pt3vNfC6cK"
@@ -245,7 +277,23 @@
       "url": "https://open.spotify.com/track/163UXyyrFlAIQapVN3DqIp"
     },
     {
-      "added_at": "2023-04-14 09:45:23",
+      "added_at": "2023-04-15 11:00:49",
+      "album": {
+        "name": "Detektor III",
+        "url": "https://open.spotify.com/album/2dDaIoHk0Wv18gYSVm1NMz"
+      },
+      "artists": [
+        {
+          "name": "Ektor",
+          "url": "https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF"
+        }
+      ],
+      "duration_ms": 231193,
+      "name": "Upgrade",
+      "url": "https://open.spotify.com/track/4o7sNuNNkNVlUombpE3D3F"
+    },
+    {
+      "added_at": "2023-04-15 11:00:49",
       "album": {
         "name": "Kruhy & Vlny (217 Twins Edition)",
         "url": "https://open.spotify.com/album/1g4yVHWizHVL40m5GHfXCK"
@@ -277,39 +325,7 @@
       "url": "https://open.spotify.com/track/1cPOqwSk4Fn3w9KO3HkO46"
     },
     {
-      "added_at": "2023-04-14 09:45:23",
-      "album": {
-        "name": "P\u0159\u00edb\u011bhy a sny",
-        "url": "https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4"
-      },
-      "artists": [
-        {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
-        }
-      ],
-      "duration_ms": 172540,
-      "name": "St\u00edny",
-      "url": "https://open.spotify.com/track/0J3SIAOndpL1MS2Vq2RMQ9"
-    },
-    {
-      "added_at": "2023-04-14 09:45:23",
-      "album": {
-        "name": "Detektor III",
-        "url": "https://open.spotify.com/album/2dDaIoHk0Wv18gYSVm1NMz"
-      },
-      "artists": [
-        {
-          "name": "Ektor",
-          "url": "https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF"
-        }
-      ],
-      "duration_ms": 231193,
-      "name": "Upgrade",
-      "url": "https://open.spotify.com/track/4o7sNuNNkNVlUombpE3D3F"
-    },
-    {
-      "added_at": "2023-04-14 09:45:23",
+      "added_at": "2023-04-15 11:00:49",
       "album": {
         "name": "Kruhy & Vlny (217 Twins Edition)",
         "url": "https://open.spotify.com/album/1g4yVHWizHVL40m5GHfXCK"
@@ -333,23 +349,7 @@
       "url": "https://open.spotify.com/track/5kw5hKBwIUgjAu97QAt0hS"
     },
     {
-      "added_at": "2023-04-14 09:45:23",
-      "album": {
-        "name": "Sant\u00e9",
-        "url": "https://open.spotify.com/album/3pYgvRN1KdLBR9GLUcB4iB"
-      },
-      "artists": [
-        {
-          "name": "Calin",
-          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
-        }
-      ],
-      "duration_ms": 114000,
-      "name": "Sant\u00e9",
-      "url": "https://open.spotify.com/track/4ToxkJ4VvWs026R3QfHDI3"
-    },
-    {
-      "added_at": "2023-04-14 09:45:23",
+      "added_at": "2023-04-15 11:00:49",
       "album": {
         "name": "TIMBERLAKETRAPPED 2",
         "url": "https://open.spotify.com/album/19O2oO9bmWV7z3O6X5WV3j"
@@ -365,23 +365,23 @@
       "url": "https://open.spotify.com/track/7xWbvfPrSjTWdsBNHOqdJJ"
     },
     {
-      "added_at": "2023-04-14 09:45:23",
+      "added_at": "2023-04-15 11:00:49",
       "album": {
-        "name": "Mercury - Acts 1 & 2",
-        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
+        "name": "Sant\u00e9",
+        "url": "https://open.spotify.com/album/3pYgvRN1KdLBR9GLUcB4iB"
       },
       "artists": [
         {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
         }
       ],
-      "duration_ms": 165264,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
+      "duration_ms": 114000,
+      "name": "Sant\u00e9",
+      "url": "https://open.spotify.com/track/4ToxkJ4VvWs026R3QfHDI3"
     },
     {
-      "added_at": "2023-04-14 09:45:23",
+      "added_at": "2023-04-15 11:00:49",
       "album": {
         "name": "\u010cernob\u00edlej sv\u011bt",
         "url": "https://open.spotify.com/album/09YHBplLJ8UR90lOdCzXfx"
@@ -409,23 +409,23 @@
       "url": "https://open.spotify.com/track/3rxHQ7HeJCpiei1d6ANDPW"
     },
     {
-      "added_at": "2023-04-14 09:45:23",
+      "added_at": "2023-04-15 11:00:49",
       "album": {
-        "name": "P\u0159\u00edb\u011bhy a sny",
-        "url": "https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4"
+        "name": "Mercury - Acts 1 & 2",
+        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
       },
       "artists": [
         {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
         }
       ],
-      "duration_ms": 130285,
-      "name": "Blessed",
-      "url": "https://open.spotify.com/track/2sNrirJx5Se5MO2tU2lJVL"
+      "duration_ms": 165264,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
     },
     {
-      "added_at": "2023-04-14 09:45:23",
+      "added_at": "2023-04-15 11:00:49",
       "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
@@ -441,7 +441,23 @@
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
     },
     {
-      "added_at": "2023-04-14 09:45:23",
+      "added_at": "2023-04-15 11:00:49",
+      "album": {
+        "name": "P\u0159\u00edb\u011bhy a sny",
+        "url": "https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4"
+      },
+      "artists": [
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        }
+      ],
+      "duration_ms": 130285,
+      "name": "Blessed",
+      "url": "https://open.spotify.com/track/2sNrirJx5Se5MO2tU2lJVL"
+    },
+    {
+      "added_at": "2023-04-15 11:00:49",
       "album": {
         "name": "ROADTRIP",
         "url": "https://open.spotify.com/album/7urc9xduLqYClz4nNzQQhc"
@@ -461,79 +477,7 @@
       "url": "https://open.spotify.com/track/1mDgpMsz6fDE7DDZIV9kW3"
     },
     {
-      "added_at": "2023-04-14 09:45:23",
-      "album": {
-        "name": "Kruhy & Vlny (217 Twins Edition)",
-        "url": "https://open.spotify.com/album/1g4yVHWizHVL40m5GHfXCK"
-      },
-      "artists": [
-        {
-          "name": "Yzomandias",
-          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
-        },
-        {
-          "name": "Nik Tendo",
-          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
-        },
-        {
-          "name": "Labello",
-          "url": "https://open.spotify.com/artist/61vDDKyVrpOG3it5bAC8kt"
-        },
-        {
-          "name": "CA$HANOVA BULHAR",
-          "url": "https://open.spotify.com/artist/3aBiDlzy0xIlHfbHAWYton"
-        }
-      ],
-      "duration_ms": 247751,
-      "name": "Nikdy U\u017e Nebudu Ok",
-      "url": "https://open.spotify.com/track/6CooPKfANsm7t59rG4FLn5"
-    },
-    {
-      "added_at": "2023-04-14 09:45:23",
-      "album": {
-        "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
-        "url": "https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "James Carter",
-          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
-        },
-        {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        },
-        {
-          "name": "FAST BOY",
-          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
-        }
-      ],
-      "duration_ms": 148629,
-      "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
-      "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
-    },
-    {
-      "added_at": "2023-04-14 09:45:23",
-      "album": {
-        "name": "Barvy",
-        "url": "https://open.spotify.com/album/1GYwv5rK5Bs1CemsKiXEBj"
-      },
-      "artists": [
-        {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
-        }
-      ],
-      "duration_ms": 211891,
-      "name": "Rozd\u011blen\u00fd sv\u011bty",
-      "url": "https://open.spotify.com/track/65sTVVVMDnczku5Gt2PTmt"
-    },
-    {
-      "added_at": "2023-04-14 09:45:23",
+      "added_at": "2023-04-15 11:00:49",
       "album": {
         "name": "Corrida",
         "url": "https://open.spotify.com/album/5cvX4JgEXsk11U4g90bvrh"
@@ -549,27 +493,23 @@
       "url": "https://open.spotify.com/track/0nVCQoIiDjnZWXHMRCD2Ko"
     },
     {
-      "added_at": "2023-04-14 09:45:23",
+      "added_at": "2023-04-15 11:00:49",
       "album": {
-        "name": "Moulaga",
-        "url": "https://open.spotify.com/album/2k7vGyQFY5ILNhRf6Ia68J"
+        "name": "Barvy",
+        "url": "https://open.spotify.com/album/1GYwv5rK5Bs1CemsKiXEBj"
       },
       "artists": [
         {
-          "name": "Heuss L'enfoir\u00e9",
-          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
-        },
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
         }
       ],
-      "duration_ms": 179868,
-      "name": "Moulaga",
-      "url": "https://open.spotify.com/track/5BfCoUcWNXcpyJfjXRIeyC"
+      "duration_ms": 211891,
+      "name": "Rozd\u011blen\u00fd sv\u011bty",
+      "url": "https://open.spotify.com/track/65sTVVVMDnczku5Gt2PTmt"
     },
     {
-      "added_at": "2023-04-14 09:45:23",
+      "added_at": "2023-04-15 11:00:49",
       "album": {
         "name": "The Heist",
         "url": "https://open.spotify.com/album/5QWHes9ODwn42DHTifGkXd"
@@ -597,7 +537,131 @@
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
     },
     {
-      "added_at": "2023-04-14 09:45:23",
+      "added_at": "2023-04-15 11:00:49",
+      "album": {
+        "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
+        "url": "https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "James Carter",
+          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
+        },
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        },
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        }
+      ],
+      "duration_ms": 148629,
+      "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
+      "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
+    },
+    {
+      "added_at": "2023-04-15 11:00:49",
+      "album": {
+        "name": "Sliby & L\u017ei",
+        "url": "https://open.spotify.com/album/5rRNoU2JbxfgQ7SOdHxKUl"
+      },
+      "artists": [
+        {
+          "name": "\u0160KWOR",
+          "url": "https://open.spotify.com/artist/5gRumjUBK1fHfuOlQxspJ9"
+        }
+      ],
+      "duration_ms": 174666,
+      "name": "S\u00edla Starejch V\u00edn",
+      "url": "https://open.spotify.com/track/6qgMr9LacgnihY9IdYriMP"
+    },
+    {
+      "added_at": "2023-04-15 11:00:49",
+      "album": {
+        "name": "Kruhy & Vlny (217 Twins Edition)",
+        "url": "https://open.spotify.com/album/1g4yVHWizHVL40m5GHfXCK"
+      },
+      "artists": [
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        },
+        {
+          "name": "Nik Tendo",
+          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
+        },
+        {
+          "name": "Labello",
+          "url": "https://open.spotify.com/artist/61vDDKyVrpOG3it5bAC8kt"
+        },
+        {
+          "name": "CA$HANOVA BULHAR",
+          "url": "https://open.spotify.com/artist/3aBiDlzy0xIlHfbHAWYton"
+        }
+      ],
+      "duration_ms": 247751,
+      "name": "Nikdy U\u017e Nebudu Ok",
+      "url": "https://open.spotify.com/track/6CooPKfANsm7t59rG4FLn5"
+    },
+    {
+      "added_at": "2023-04-15 11:00:49",
+      "album": {
+        "name": "Moulaga",
+        "url": "https://open.spotify.com/album/2k7vGyQFY5ILNhRf6Ia68J"
+      },
+      "artists": [
+        {
+          "name": "Heuss L'enfoir\u00e9",
+          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
+        },
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 179868,
+      "name": "Moulaga",
+      "url": "https://open.spotify.com/track/5BfCoUcWNXcpyJfjXRIeyC"
+    },
+    {
+      "added_at": "2023-04-15 11:00:49",
+      "album": {
+        "name": "Jednou nohou tam / Go hard",
+        "url": "https://open.spotify.com/album/1ybXEwEmjLFvL1j6O1Bhv5"
+      },
+      "artists": [
+        {
+          "name": "Hard Rico",
+          "url": "https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Jednou nohou tam",
+      "url": "https://open.spotify.com/track/0NHiN3VheEqwdBeuwg0NKn"
+    },
+    {
+      "added_at": "2023-04-15 11:00:49",
+      "album": {
+        "name": "Jednou nohou tam / Go hard",
+        "url": "https://open.spotify.com/album/1ybXEwEmjLFvL1j6O1Bhv5"
+      },
+      "artists": [
+        {
+          "name": "Hard Rico",
+          "url": "https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Go hard",
+      "url": "https://open.spotify.com/track/19hAeHJtKl05SQpxB0WSfH"
+    },
+    {
+      "added_at": "2023-04-15 11:00:49",
       "album": {
         "name": "Gloria",
         "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
@@ -617,7 +681,195 @@
       "url": "https://open.spotify.com/track/0NZPBYD5qbEWRs3PrGiRkT"
     },
     {
-      "added_at": "2023-04-14 09:45:23",
+      "added_at": "2023-04-15 11:00:49",
+      "album": {
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
+    },
+    {
+      "added_at": "2023-04-15 11:00:49",
+      "album": {
+        "name": "Detektor III",
+        "url": "https://open.spotify.com/album/2dDaIoHk0Wv18gYSVm1NMz"
+      },
+      "artists": [
+        {
+          "name": "Ektor",
+          "url": "https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF"
+        },
+        {
+          "name": "Dollar Prync",
+          "url": "https://open.spotify.com/artist/3qoxj1cR3W3crV51Wg38Ux"
+        }
+      ],
+      "duration_ms": 175449,
+      "name": "Pull up",
+      "url": "https://open.spotify.com/track/4efAsxnbRmd8Vvfoczp0KW"
+    },
+    {
+      "added_at": "2023-04-15 11:00:49",
+      "album": {
+        "name": "Detektor III",
+        "url": "https://open.spotify.com/album/2dDaIoHk0Wv18gYSVm1NMz"
+      },
+      "artists": [
+        {
+          "name": "Ektor",
+          "url": "https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF"
+        }
+      ],
+      "duration_ms": 204335,
+      "name": "To neni hra",
+      "url": "https://open.spotify.com/track/0Bn35yqOHU0PVaLeYDUsk2"
+    },
+    {
+      "added_at": "2023-04-15 11:00:49",
+      "album": {
+        "name": "Marko",
+        "url": "https://open.spotify.com/album/7EtSvCuOcao18RKvJwaurX"
+      },
+      "artists": [
+        {
+          "name": "Ektor",
+          "url": "https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF"
+        }
+      ],
+      "duration_ms": 128085,
+      "name": "Ne\u017e bude po v\u0161em",
+      "url": "https://open.spotify.com/track/6T5iNydXi9ZG3GULTN7YO1"
+    },
+    {
+      "added_at": "2023-04-15 11:00:49",
+      "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
+    },
+    {
+      "added_at": "2023-04-15 11:00:49",
+      "album": {
+        "name": "Detektor III",
+        "url": "https://open.spotify.com/album/2dDaIoHk0Wv18gYSVm1NMz"
+      },
+      "artists": [
+        {
+          "name": "Ektor",
+          "url": "https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF"
+        }
+      ],
+      "duration_ms": 173847,
+      "name": "Jako j\u00e1",
+      "url": "https://open.spotify.com/track/2LkccG6tgHgvP9AFRPVZZ6"
+    },
+    {
+      "added_at": "2023-04-15 11:00:49",
+      "album": {
+        "name": "SPIT IN MY FACE!",
+        "url": "https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "duration_ms": 147874,
+      "name": "SPIT IN MY FACE!",
+      "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
+    },
+    {
+      "added_at": "2023-04-15 11:00:49",
+      "album": {
+        "name": "The Eminem Show",
+        "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 290320,
+      "name": "Without Me",
+      "url": "https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk"
+    },
+    {
+      "added_at": "2023-04-15 11:00:49",
+      "album": {
+        "name": "Where Are You Now",
+        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 148197,
+      "name": "Where Are You Now",
+      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
+    },
+    {
+      "added_at": "2023-04-15 11:00:49",
+      "album": {
+        "name": "I Love You.",
+        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "duration_ms": 240400,
+      "name": "Sweater Weather",
+      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
+    },
+    {
+      "added_at": "2023-04-15 11:00:49",
+      "album": {
+        "name": "EUPHORIA",
+        "url": "https://open.spotify.com/album/6hNP4TmjRi7kGoOkWJ5z21"
+      },
+      "artists": [
+        {
+          "name": "Earth",
+          "url": "https://open.spotify.com/artist/145RezaSLWGxp3SLnAcHPr"
+        }
+      ],
+      "duration_ms": 156774,
+      "name": "Princezna",
+      "url": "https://open.spotify.com/track/1W9uS975NvFQaSDZmU5wnU"
+    },
+    {
+      "added_at": "2023-04-15 11:00:49",
       "album": {
         "name": "Kruhy & Vlny (217 Twins Edition)",
         "url": "https://open.spotify.com/album/1g4yVHWizHVL40m5GHfXCK"
@@ -653,159 +905,27 @@
       "url": "https://open.spotify.com/track/02jEjVDp7OkIXGtMGsyf8c"
     },
     {
-      "added_at": "2023-04-14 09:45:23",
+      "added_at": "2023-04-15 11:00:49",
       "album": {
-        "name": "Sliby & L\u017ei",
-        "url": "https://open.spotify.com/album/5rRNoU2JbxfgQ7SOdHxKUl"
+        "name": "ROADTRIP",
+        "url": "https://open.spotify.com/album/7urc9xduLqYClz4nNzQQhc"
       },
       "artists": [
         {
-          "name": "\u0160KWOR",
-          "url": "https://open.spotify.com/artist/5gRumjUBK1fHfuOlQxspJ9"
-        }
-      ],
-      "duration_ms": 174666,
-      "name": "S\u00edla Starejch V\u00edn",
-      "url": "https://open.spotify.com/track/6qgMr9LacgnihY9IdYriMP"
-    },
-    {
-      "added_at": "2023-04-14 09:45:23",
-      "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
         },
         {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
         }
       ],
-      "duration_ms": 206000,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
+      "duration_ms": 159463,
+      "name": "Soundtrack",
+      "url": "https://open.spotify.com/track/6FAQzRCF0unjLA8DBurmKp"
     },
     {
-      "added_at": "2023-04-14 09:45:23",
-      "album": {
-        "name": "SPIT IN MY FACE!",
-        "url": "https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA"
-      },
-      "artists": [
-        {
-          "name": "ThxSoMch",
-          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
-        }
-      ],
-      "duration_ms": 147874,
-      "name": "SPIT IN MY FACE!",
-      "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
-    },
-    {
-      "added_at": "2023-04-14 09:45:23",
-      "album": {
-        "name": "Detektor III",
-        "url": "https://open.spotify.com/album/2dDaIoHk0Wv18gYSVm1NMz"
-      },
-      "artists": [
-        {
-          "name": "Ektor",
-          "url": "https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF"
-        },
-        {
-          "name": "Dollar Prync",
-          "url": "https://open.spotify.com/artist/3qoxj1cR3W3crV51Wg38Ux"
-        }
-      ],
-      "duration_ms": 175449,
-      "name": "Pull up",
-      "url": "https://open.spotify.com/track/4efAsxnbRmd8Vvfoczp0KW"
-    },
-    {
-      "added_at": "2023-04-14 09:45:23",
-      "album": {
-        "name": "EUPHORIA",
-        "url": "https://open.spotify.com/album/6hNP4TmjRi7kGoOkWJ5z21"
-      },
-      "artists": [
-        {
-          "name": "Earth",
-          "url": "https://open.spotify.com/artist/145RezaSLWGxp3SLnAcHPr"
-        }
-      ],
-      "duration_ms": 156774,
-      "name": "Princezna",
-      "url": "https://open.spotify.com/track/1W9uS975NvFQaSDZmU5wnU"
-    },
-    {
-      "added_at": "2023-04-14 09:45:23",
-      "album": {
-        "name": "Dreamland (+ Bonus Levels)",
-        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
-    },
-    {
-      "added_at": "2023-04-14 09:45:23",
-      "album": {
-        "name": "Detektor III",
-        "url": "https://open.spotify.com/album/2dDaIoHk0Wv18gYSVm1NMz"
-      },
-      "artists": [
-        {
-          "name": "Ektor",
-          "url": "https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF"
-        }
-      ],
-      "duration_ms": 204335,
-      "name": "To neni hra",
-      "url": "https://open.spotify.com/track/0Bn35yqOHU0PVaLeYDUsk2"
-    },
-    {
-      "added_at": "2023-04-14 09:45:23",
-      "album": {
-        "name": "Detektor III",
-        "url": "https://open.spotify.com/album/2dDaIoHk0Wv18gYSVm1NMz"
-      },
-      "artists": [
-        {
-          "name": "Ektor",
-          "url": "https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF"
-        }
-      ],
-      "duration_ms": 173847,
-      "name": "Jako j\u00e1",
-      "url": "https://open.spotify.com/track/2LkccG6tgHgvP9AFRPVZZ6"
-    },
-    {
-      "added_at": "2023-04-14 09:45:23",
-      "album": {
-        "name": "Marko",
-        "url": "https://open.spotify.com/album/7EtSvCuOcao18RKvJwaurX"
-      },
-      "artists": [
-        {
-          "name": "Ektor",
-          "url": "https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF"
-        }
-      ],
-      "duration_ms": 128085,
-      "name": "Ne\u017e bude po v\u0161em",
-      "url": "https://open.spotify.com/track/6T5iNydXi9ZG3GULTN7YO1"
-    },
-    {
-      "added_at": "2023-04-14 09:45:23",
+      "added_at": "2023-04-15 11:00:49",
       "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
@@ -829,123 +949,7 @@
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
     },
     {
-      "added_at": "2023-04-14 09:45:23",
-      "album": {
-        "name": "The Eminem Show",
-        "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 290320,
-      "name": "Without Me",
-      "url": "https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk"
-    },
-    {
-      "added_at": "2023-04-14 09:45:23",
-      "album": {
-        "name": "ROADTRIP",
-        "url": "https://open.spotify.com/album/7urc9xduLqYClz4nNzQQhc"
-      },
-      "artists": [
-        {
-          "name": "Calin",
-          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
-        },
-        {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
-        }
-      ],
-      "duration_ms": 159463,
-      "name": "Soundtrack",
-      "url": "https://open.spotify.com/track/6FAQzRCF0unjLA8DBurmKp"
-    },
-    {
-      "added_at": "2023-04-14 09:45:23",
-      "album": {
-        "name": "Where Are You Now",
-        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 148197,
-      "name": "Where Are You Now",
-      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
-    },
-    {
-      "added_at": "2023-04-14 09:45:23",
-      "album": {
-        "name": "I Love You.",
-        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
-      },
-      "artists": [
-        {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        }
-      ],
-      "duration_ms": 240400,
-      "name": "Sweater Weather",
-      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
-    },
-    {
-      "added_at": "2023-04-14 09:45:23",
-      "album": {
-        "name": "Kruhy & Vlny",
-        "url": "https://open.spotify.com/album/5oBkt45ptHRcJOp8xPpw1L"
-      },
-      "artists": [
-        {
-          "name": "Yzomandias",
-          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
-        },
-        {
-          "name": "Nik Tendo",
-          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
-        }
-      ],
-      "duration_ms": 204373,
-      "name": "FREE KARLO",
-      "url": "https://open.spotify.com/track/1GvNhTv4p4pyunXvVCZAjb"
-    },
-    {
-      "added_at": "2023-04-14 09:45:23",
-      "album": {
-        "name": "Kruhy & Vlny (217 Twins Edition)",
-        "url": "https://open.spotify.com/album/1g4yVHWizHVL40m5GHfXCK"
-      },
-      "artists": [
-        {
-          "name": "Yzomandias",
-          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
-        },
-        {
-          "name": "Nik Tendo",
-          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
-        },
-        {
-          "name": "58G",
-          "url": "https://open.spotify.com/artist/5GIlebF5qgtR3ReGlgzn7U"
-        }
-      ],
-      "duration_ms": 207433,
-      "name": "Kolikr\u00e1t Je\u0161t\u011b?",
-      "url": "https://open.spotify.com/track/2fnqfcdU2p44k6DvTbFtrg"
-    },
-    {
-      "added_at": "2023-04-14 09:45:23",
+      "added_at": "2023-04-15 11:00:49",
       "album": {
         "name": "Dream Your Life Away",
         "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
@@ -959,30 +963,6 @@
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm"
-    },
-    {
-      "added_at": "2023-04-14 09:45:23",
-      "album": {
-        "name": "Kruhy & Vlny (217 Twins Edition)",
-        "url": "https://open.spotify.com/album/1g4yVHWizHVL40m5GHfXCK"
-      },
-      "artists": [
-        {
-          "name": "Yzomandias",
-          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
-        },
-        {
-          "name": "Nik Tendo",
-          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
-        },
-        {
-          "name": "Blako",
-          "url": "https://open.spotify.com/artist/1H0gwYeVaW4An73wzykI3I"
-        }
-      ],
-      "duration_ms": 165425,
-      "name": "\u017divot Je Kr\u00e1tkej",
-      "url": "https://open.spotify.com/track/3ZlgfsRPSbL4zIFdIVePhe"
     }
   ],
   "unique_name": "Top 50 - Czech Republic",

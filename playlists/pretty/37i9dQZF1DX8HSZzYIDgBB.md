@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 
 > Ritmos cálidos y alternativos para relajarte y tirarse bajo el sol \#IndieTropical 🌺☀️🌴🎶 Caramelo Haze en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,194 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,222 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 | 68 | [Nubecita](https://open.spotify.com/track/5RR90wjPUyoG8nQcvJkjMz) | [Montoya](https://open.spotify.com/artist/52pEvBJxxzBacaaxVOSyxa), [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1) | [Nubecita](https://open.spotify.com/album/0hG60eOpUIfy9ERatkO3wt) | 3:17 |
 | 69 | [El Sol](https://open.spotify.com/track/2irBYZdlYxseHEz850SoL9) | [Mandale Mecha](https://open.spotify.com/artist/483XO10ZYxnxAqMkuOTJ2m), [MULAMBA](https://open.spotify.com/artist/6wd8OZcCaRQNDIMz6SPNGN) | [El Sol](https://open.spotify.com/album/7w2VOEKla6DNnWjDsIkaQf) | 3:09 |
 | 70 | [Duele](https://open.spotify.com/track/1q8pjaEhNAAFVzMyTb3pc9) | [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Duele](https://open.spotify.com/album/3cbrDaekOIx1EhHbtbr2nk) | 3:17 |
-| 71 | [Towards The Mountain](https://open.spotify.com/track/4CvfQTMaKGGD7eR5tIDrT7) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [El Sonido Nuevo de](https://open.spotify.com/album/5bp7bVrqq6t71CWU9KSmu5) | 3:20 |
-| 72 | [Capuccino](https://open.spotify.com/track/6nuLwhZNQt6k0HxYoM1nET) | [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W) | [Capuccino](https://open.spotify.com/album/2TQcTnuyLD0RyVqMItP2bj) | 3:49 |
-| 73 | [Amuleto](https://open.spotify.com/track/5vpCo7GpBJmc8RWkOZyvtI) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Terror/Cactus](https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq) | [Amuleto](https://open.spotify.com/album/1U6e6MPp6JaQ9lFo6YJyKp) | 3:11 |
-| 74 | [la noche de ayer](https://open.spotify.com/track/7aSmfvPckOTRr0AJ3rmCCF) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [la noche de ayer](https://open.spotify.com/album/4e31Xo3NfTRxm9TdVgw4DR) | 4:15 |
-| 75 | [Cucu](https://open.spotify.com/track/3yEKNpbidJe62qYAmR6YvJ) | [Gotopo](https://open.spotify.com/artist/0rmwkyTOL6DJ3GISXikmUF), [Don Elektron](https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2) | [Cucu](https://open.spotify.com/album/4FcpN9Cb9g8RWeQFY1LcZc) | 1:52 |
+| 71 | [la noche de ayer](https://open.spotify.com/track/7aSmfvPckOTRr0AJ3rmCCF) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [la noche de ayer](https://open.spotify.com/album/4e31Xo3NfTRxm9TdVgw4DR) | 4:15 |
+| 72 | [Amuleto](https://open.spotify.com/track/5vpCo7GpBJmc8RWkOZyvtI) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Terror/Cactus](https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq) | [Amuleto](https://open.spotify.com/album/1U6e6MPp6JaQ9lFo6YJyKp) | 3:11 |
+| 73 | [Towards The Mountain](https://open.spotify.com/track/4CvfQTMaKGGD7eR5tIDrT7) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [El Sonido Nuevo de](https://open.spotify.com/album/5bp7bVrqq6t71CWU9KSmu5) | 3:20 |
+| 74 | [Cucu](https://open.spotify.com/track/3yEKNpbidJe62qYAmR6YvJ) | [Gotopo](https://open.spotify.com/artist/0rmwkyTOL6DJ3GISXikmUF), [Don Elektron](https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2) | [Cucu](https://open.spotify.com/album/4FcpN9Cb9g8RWeQFY1LcZc) | 1:52 |
+| 75 | [Capuccino](https://open.spotify.com/track/6nuLwhZNQt6k0HxYoM1nET) | [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W) | [Capuccino](https://open.spotify.com/album/2TQcTnuyLD0RyVqMItP2bj) | 3:49 |
 
-Snapshot ID: `MTY4MTQzNTM3NywwMDAwMDAwMDE1MTI2MmJkMzUyZmE0MDg3NzNhMTJlOTY4Mzc4ODc0`
+Snapshot ID: `MTY4MTQzNTM3NywwMDAwMDAwMGMwNjI5MjEzMmUxZDhlMjEyZDAxOTc5MDg3Y2I5OWVj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Tasha & Tracie, Mc Luanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,795 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,814 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 19 | [Qual é Seu Problema](https://open.spotify.com/track/0kIJspcz5xm6QizWkfHh25) | [N.A.N.A.](https://open.spotify.com/artist/4W7msxIdip7RH18eBaToND), [Aka Rasta](https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB), [Rudies Flacko](https://open.spotify.com/artist/6gTcIWPsmchtg4klMwWp2o), [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH) | [Qual é Seu Problema](https://open.spotify.com/album/2IdVHQeJDj0oal9ymu4UuC) | 4:38 |
 | 20 | [Menino Conquista](https://open.spotify.com/track/2ftkE0VubQpKi3qFYJo2nY) | [Pedrin](https://open.spotify.com/artist/7nhTCM7Tuu7NRQZsmpBIBg), [Sonni](https://open.spotify.com/artist/7C0jI6kw7gxWExK4yY16VU) | [Menino Conquista](https://open.spotify.com/album/2WtapcB9I6t8hzYQslA0ki) | 1:52 |
 | 21 | [Favela Presente](https://open.spotify.com/track/3nTA6j8wg41EEWCUCNSMzK) | [Jovem MK](https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR) | [Favela Presente](https://open.spotify.com/album/1DJm9xYdpbuWCY60kUlT9w) | 2:24 |
-| 22 | [Contatos](https://open.spotify.com/track/2wpAboTRHRCI6cLRshudIo) | [K.SLU](https://open.spotify.com/artist/1pl1ImmqwUYNvPVYILavJU), [Vitin](https://open.spotify.com/artist/3qqsM7MrioDCvQPL7AMBRS), [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy) | [Contatos](https://open.spotify.com/album/4Ps7qa8JmWPXeThjs4mfWd) | 2:34 |
+| 22 | [Contatos](https://open.spotify.com/track/2wpAboTRHRCI6cLRshudIo) | [K.SLU](https://open.spotify.com/artist/4XzHw8SvuKE2m6UdIvU3KX), [Vitin](https://open.spotify.com/artist/3qqsM7MrioDCvQPL7AMBRS), [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy) | [Contatos](https://open.spotify.com/album/4Ps7qa8JmWPXeThjs4mfWd) | 2:34 |
 | 23 | [McQueen](https://open.spotify.com/track/0mUUy13QiwsinTw9wPUaAt) | [GDM](https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB), [Yokame](https://open.spotify.com/artist/4IEFTmI2K5xj488kIn268F) | [McQueen](https://open.spotify.com/album/00fscXA0Afjw64taQzrc6m) | 2:45 |
 | 24 | [Tropa do Mantém](https://open.spotify.com/track/4DbUD96eZfP9zVca7vgqgD) | [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Tropa do Mantém](https://open.spotify.com/album/68wHxRNVAr8OqV9ZiyoCDQ) | 2:44 |
 | 25 | [Jhony Convida \#5 \- Confirma](https://open.spotify.com/track/4rEdstBdZqp7xpiPwvvXbE) | [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src), [Jhony Mc](https://open.spotify.com/artist/4hTGLEnPwUsmgakVoSo9Ww), [Menor do Chapa](https://open.spotify.com/artist/6i7MlW2ZdQRPi5sGOxXCH3), [Prado](https://open.spotify.com/artist/2vkYNK40oHHvbfIdULahCu), [Renanzin MC](https://open.spotify.com/artist/2BBd096qRspNHPWz3SCXLh), [Vitu](https://open.spotify.com/artist/7bTFBcrLK1YKjebr457Nrz) | [Jhony Convida \#5 \- Confirma](https://open.spotify.com/album/4KdYS9doYHGw4Mrv5E1sqN) | 5:01 |

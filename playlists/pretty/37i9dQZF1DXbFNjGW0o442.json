@@ -1,12 +1,12 @@
 {
   "description": "Guerreras del rock latinoamericano. Foto: Ana Sanz",
-  "num_followers": 34544,
+  "num_followers": 34551,
   "original_name": "Rockeras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0MTIwMCwwMDAwMDAwMGQyZDFiZTk1YjFmMjJkMzY3ZTZkY2NkMzI0N2M0OGQ0",
+  "snapshot_id": "MTY4MTQ0MTIwMCwwMDAwMDAwMDc4OGIyNDYxNjY1MzFmMzQyMjg4NTRhMzQ3MmUwYmY3",
   "tracks": [
     {
       "added_at": "2023-04-14 03:00:00",
@@ -383,18 +383,18 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Ibiza Pareo",
-        "url": "https://open.spotify.com/album/299tE0wcgpgbW7OLpoBVla"
+        "name": "Ghost In The Machine",
+        "url": "https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi"
       },
       "artists": [
         {
-          "name": "Ibiza Pareo",
-          "url": "https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw"
+          "name": "Marion Raw",
+          "url": "https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj"
         }
       ],
-      "duration_ms": 250160,
-      "name": "Arido Espejismo",
-      "url": "https://open.spotify.com/track/6JmdO4aKVXFY8qnivKklz6"
+      "duration_ms": 204856,
+      "name": "Lloro",
+      "url": "https://open.spotify.com/track/2eEIKn5hRMjeTiHlwlpBqZ"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -431,18 +431,18 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Ghost In The Machine",
-        "url": "https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi"
+        "name": "Ibiza Pareo",
+        "url": "https://open.spotify.com/album/299tE0wcgpgbW7OLpoBVla"
       },
       "artists": [
         {
-          "name": "Marion Raw",
-          "url": "https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj"
+          "name": "Ibiza Pareo",
+          "url": "https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw"
         }
       ],
-      "duration_ms": 204856,
-      "name": "Lloro",
-      "url": "https://open.spotify.com/track/2eEIKn5hRMjeTiHlwlpBqZ"
+      "duration_ms": 250160,
+      "name": "Arido Espejismo",
+      "url": "https://open.spotify.com/track/6JmdO4aKVXFY8qnivKklz6"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "La Batalla",
-        "url": "https://open.spotify.com/album/4Xd4pfERdR1UulMgvMvfNf"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Cantilo",
-          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
-        }
-      ],
-      "duration_ms": 296914,
-      "name": "La Batalla",
-      "url": "https://open.spotify.com/track/3MLYtPOOPhzmmsL5yLLFqu"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Ruido Rosa",
         "url": "https://open.spotify.com/album/411pxBTJ807CkrGZr2o3N0"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 185851,
       "name": "Miedo a Caer",
       "url": "https://open.spotify.com/track/56flcgaM3MdZS8jnzlabA5"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "La Batalla",
+        "url": "https://open.spotify.com/album/4Xd4pfERdR1UulMgvMvfNf"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+        }
+      ],
+      "duration_ms": 296914,
+      "name": "La Batalla",
+      "url": "https://open.spotify.com/track/3MLYtPOOPhzmmsL5yLLFqu"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Tigre Ulli",
-        "url": "https://open.spotify.com/album/26DNyRdYyLd0PE555D8aqU"
-      },
-      "artists": [
-        {
-          "name": "Tigre Ulli",
-          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
-        }
-      ],
-      "duration_ms": 127600,
-      "name": "Postales Blancas",
-      "url": "https://open.spotify.com/track/39YxebBGVOUcG6PpqbWNhi"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Perfume",
         "url": "https://open.spotify.com/album/2TwCe53zNSiW6XnnsSwafC"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 291280,
       "name": "Perfume",
       "url": "https://open.spotify.com/track/19X0yGQHffnGEIiaocf63K"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Tigre Ulli",
+        "url": "https://open.spotify.com/album/26DNyRdYyLd0PE555D8aqU"
+      },
+      "artists": [
+        {
+          "name": "Tigre Ulli",
+          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
+        }
+      ],
+      "duration_ms": 127600,
+      "name": "Postales Blancas",
+      "url": "https://open.spotify.com/track/39YxebBGVOUcG6PpqbWNhi"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Todo el mundo miente",
-        "url": "https://open.spotify.com/album/0sBB4s7wiQkFzsq9JPYE1T"
-      },
-      "artists": [
-        {
-          "name": "Las Dianas",
-          "url": "https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm"
-        }
-      ],
-      "duration_ms": 207669,
-      "name": "Todo el mundo miente",
-      "url": "https://open.spotify.com/track/6ZMgbNbxY8galJWreQd2ZV"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Agitar",
         "url": "https://open.spotify.com/album/2rdYalIkT3ijzl7zs69NGZ"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 127598,
       "name": "Agitar",
       "url": "https://open.spotify.com/track/3V6CPu5kQ4iRcjngnwgSHe"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Todo el mundo miente",
+        "url": "https://open.spotify.com/album/0sBB4s7wiQkFzsq9JPYE1T"
+      },
+      "artists": [
+        {
+          "name": "Las Dianas",
+          "url": "https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm"
+        }
+      ],
+      "duration_ms": 207669,
+      "name": "Todo el mundo miente",
+      "url": "https://open.spotify.com/track/6ZMgbNbxY8galJWreQd2ZV"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Flores Sobre las Piedras",
-        "url": "https://open.spotify.com/album/2NDbkXbi16sS49LigcSd4n"
-      },
-      "artists": [
-        {
-          "name": "Carla Rivarola",
-          "url": "https://open.spotify.com/artist/2zx6gMuW2mPXl4WJx4lgGK"
-        }
-      ],
-      "duration_ms": 302000,
-      "name": "Flores Sobre las Piedras",
-      "url": "https://open.spotify.com/track/4WzYFb4DuCsBdSxwuc5AnZ"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Lo Que Dur\u00f3 la Vida de Alguien",
         "url": "https://open.spotify.com/album/1laV2Pxw2s1PCOhYNLEk5v"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 148750,
       "name": "Perro Agonizante",
       "url": "https://open.spotify.com/track/1h9tjXvZP2f0AptoQAkSpt"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Flores Sobre las Piedras",
+        "url": "https://open.spotify.com/album/2NDbkXbi16sS49LigcSd4n"
+      },
+      "artists": [
+        {
+          "name": "Carla Rivarola",
+          "url": "https://open.spotify.com/artist/2zx6gMuW2mPXl4WJx4lgGK"
+        }
+      ],
+      "duration_ms": 302000,
+      "name": "Flores Sobre las Piedras",
+      "url": "https://open.spotify.com/track/4WzYFb4DuCsBdSxwuc5AnZ"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Hola",
-        "url": "https://open.spotify.com/album/1qZ7f9jaPpmrL1NZko5CZu"
-      },
-      "artists": [
-        {
-          "name": "Jessy Bulbo",
-          "url": "https://open.spotify.com/artist/2icB5yGi569VGjYogZtSvT"
-        }
-      ],
-      "duration_ms": 125256,
-      "name": "Hola",
-      "url": "https://open.spotify.com/track/0xaQtF5PbFqrlIz2iVQs8h"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Hora de No Ver",
         "url": "https://open.spotify.com/album/7vV8Ye5scpEoP8SsEQvXnR"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 191559,
       "name": "Morir\u00edan",
       "url": "https://open.spotify.com/track/53JVw942AQvbqqDy8DqtaN"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Hola",
+        "url": "https://open.spotify.com/album/1qZ7f9jaPpmrL1NZko5CZu"
+      },
+      "artists": [
+        {
+          "name": "Jessy Bulbo",
+          "url": "https://open.spotify.com/artist/2icB5yGi569VGjYogZtSvT"
+        }
+      ],
+      "duration_ms": 125256,
+      "name": "Hola",
+      "url": "https://open.spotify.com/track/0xaQtF5PbFqrlIz2iVQs8h"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Primera Temporada",
-        "url": "https://open.spotify.com/album/7LDp2V0KNQGRMSYPByAvYk"
-      },
-      "artists": [
-        {
-          "name": "Las Ex",
-          "url": "https://open.spotify.com/artist/72XQhTeAhEJOtHVtJ0nZlY"
-        }
-      ],
-      "duration_ms": 137261,
-      "name": "V\u00f3mito",
-      "url": "https://open.spotify.com/track/2aFwjkdha1gFCLfPQjUBgG"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "La Flecha Envenenada",
         "url": "https://open.spotify.com/album/5qwYpjPon7xKnmffXeInfx"
       },
@@ -1543,34 +1527,18 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "2 Espinas",
-        "url": "https://open.spotify.com/album/79pU5sxVgLMHTRG4gbMzvV"
+        "name": "Primera Temporada",
+        "url": "https://open.spotify.com/album/7LDp2V0KNQGRMSYPByAvYk"
       },
       "artists": [
         {
-          "name": "Jessy Bulbo",
-          "url": "https://open.spotify.com/artist/2icB5yGi569VGjYogZtSvT"
+          "name": "Las Ex",
+          "url": "https://open.spotify.com/artist/72XQhTeAhEJOtHVtJ0nZlY"
         }
       ],
-      "duration_ms": 211200,
-      "name": "2 Espinas",
-      "url": "https://open.spotify.com/track/4WlGBEqRSW6lRGatGMB4h0"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Escapar",
-        "url": "https://open.spotify.com/album/3z0nWOxV7wwnX4wfgVUXGR"
-      },
-      "artists": [
-        {
-          "name": "Silver Rose",
-          "url": "https://open.spotify.com/artist/2JGwyKMo0j1SIbEcbA0QBP"
-        }
-      ],
-      "duration_ms": 241194,
-      "name": "Escapar",
-      "url": "https://open.spotify.com/track/4ipgJtYhCTrsGnkL1XRRET"
+      "duration_ms": 137261,
+      "name": "V\u00f3mito",
+      "url": "https://open.spotify.com/track/2aFwjkdha1gFCLfPQjUBgG"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1607,18 +1575,50 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Ni Una M\u00e1s",
-        "url": "https://open.spotify.com/album/65B09C2uR02PtVEO8oL8aQ"
+        "name": "Escapar",
+        "url": "https://open.spotify.com/album/3z0nWOxV7wwnX4wfgVUXGR"
       },
       "artists": [
         {
-          "name": "DaJuana Band",
-          "url": "https://open.spotify.com/artist/3tyMOwvxb3oAZn6QsXx5Nm"
+          "name": "Silver Rose",
+          "url": "https://open.spotify.com/artist/2JGwyKMo0j1SIbEcbA0QBP"
         }
       ],
-      "duration_ms": 281757,
-      "name": "Ni Una M\u00e1s",
-      "url": "https://open.spotify.com/track/6QtSVQOhHMa2Wr52jW9Apf"
+      "duration_ms": 241194,
+      "name": "Escapar",
+      "url": "https://open.spotify.com/track/4ipgJtYhCTrsGnkL1XRRET"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Acorralar a la Bestia",
+        "url": "https://open.spotify.com/album/1TU6tcrZKKWovyAF5XehDe"
+      },
+      "artists": [
+        {
+          "name": "Actitud Mar\u00eda Marta",
+          "url": "https://open.spotify.com/artist/0GQzO6YWsPqvMLMa92Epea"
+        }
+      ],
+      "duration_ms": 331676,
+      "name": "Confusion",
+      "url": "https://open.spotify.com/track/3YouVy36Vqg0uO2ChhJjCj"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "2 Espinas",
+        "url": "https://open.spotify.com/album/79pU5sxVgLMHTRG4gbMzvV"
+      },
+      "artists": [
+        {
+          "name": "Jessy Bulbo",
+          "url": "https://open.spotify.com/artist/2icB5yGi569VGjYogZtSvT"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "2 Espinas",
+      "url": "https://open.spotify.com/track/4WlGBEqRSW6lRGatGMB4h0"
     }
   ],
   "unique_name": "Rockeras",

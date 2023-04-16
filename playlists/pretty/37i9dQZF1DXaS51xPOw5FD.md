@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaS51xPOw5FD.md) - [plain]
 
 > Euphoric drum & bass tracks for raving in the sunshine!
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,070 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,095 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,12 +47,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaS51xPOw5FD.md) - [plain]
 | 37 | [SUMMER](https://open.spotify.com/track/2qYRPvqYtrAMRB00MUhNr9) | [BLVCK CROWZ](https://open.spotify.com/artist/6uotnBX5ysB2Y2FIE6FbPg) | [SUMMER](https://open.spotify.com/album/1o60kkN15pxFqnXmy4Ulv9) | 3:40 |
 | 38 | [Sundown](https://open.spotify.com/track/6sdvLVBHnuNjne2DS2IrJ9) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Sundown](https://open.spotify.com/album/5XRi4gmPsCAb6rF6HwfSUf) | 4:28 |
 | 39 | [All 4 U](https://open.spotify.com/track/2mPeYGo1y7vwkz6vU5dVbI) | [DJ Marky](https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV), [Javeon](https://open.spotify.com/artist/41sCs0Q7zO0ls64jWsHnj7) | [All 4 U](https://open.spotify.com/album/3tggQDQhchhwaogW1gRzmR) | 2:48 |
-| 40 | [Remedies](https://open.spotify.com/track/20AgOIjyk2Qd7DLt8lkxvn) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Remedies](https://open.spotify.com/album/2WUzn7UJ7mdiu7hAYQWMYh) | 4:42 |
+| 40 | [Right Here \- Andy C Remix](https://open.spotify.com/track/4EqJZ1bQ55Jq4vi2gHuQdQ) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Andy C](https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N) | [Waiting All Night](https://open.spotify.com/album/6Jf8KEBkBLFYZUq3qxrXNl) | 4:31 |
 | 41 | [Good to Me](https://open.spotify.com/track/0FajeedO3qoZja4lEWEzPM) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr) | [Good to Me](https://open.spotify.com/album/46yPP8LYBsQ399RMPl39Ws) | 3:01 |
-| 42 | [Right Here \- Andy C Remix](https://open.spotify.com/track/4EqJZ1bQ55Jq4vi2gHuQdQ) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Andy C](https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N) | [Waiting All Night](https://open.spotify.com/album/6Jf8KEBkBLFYZUq3qxrXNl) | 4:31 |
+| 42 | [Remedies](https://open.spotify.com/track/20AgOIjyk2Qd7DLt8lkxvn) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Remedies](https://open.spotify.com/album/2WUzn7UJ7mdiu7hAYQWMYh) | 4:42 |
 | 43 | [Blame You \(feat\. Dylan\)](https://open.spotify.com/track/1OO7bKqN3XRDb0W6B3wM6i) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Reflections](https://open.spotify.com/album/3w6tCisQHurw8IMhnTyXwM) | 3:51 |
-| 44 | [Nobody To Love](https://open.spotify.com/track/5dzHlLBWdxdQySpvZLHcu9) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS) | [Nobody To Love](https://open.spotify.com/album/0mRK0BA8DrCUfhFF9Oua5J) | 3:09 |
-| 45 | [Ghost Assassin \- VIP](https://open.spotify.com/track/5psoxZpBVWS27k9Fngaes9) | [Maduk](https://open.spotify.com/artist/6TaaqqCMRMSpvNHClfnbEL), [Veela](https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR) | [Memoirs](https://open.spotify.com/album/1JhdCDZb1iVqoq04Qf3Ou4) | 3:42 |
+| 44 | [Ghost Assassin \- VIP](https://open.spotify.com/track/5psoxZpBVWS27k9Fngaes9) | [Maduk](https://open.spotify.com/artist/6TaaqqCMRMSpvNHClfnbEL), [Veela](https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR) | [Memoirs](https://open.spotify.com/album/1JhdCDZb1iVqoq04Qf3Ou4) | 3:42 |
+| 45 | [Nobody To Love](https://open.spotify.com/track/5dzHlLBWdxdQySpvZLHcu9) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS) | [Nobody To Love](https://open.spotify.com/album/0mRK0BA8DrCUfhFF9Oua5J) | 3:09 |
 | 46 | [Amazing \(feat\. Agent Sasco\)](https://open.spotify.com/track/1PJfbxmFsitJPbLLU98y1s) | [Voltage](https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP), [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Agent Sasco \(Assassin\)](https://open.spotify.com/artist/0CiLVKp7LJTm0c8jdUmQNy) | [Amazing \(feat\. Agent Sasco\)](https://open.spotify.com/album/0OyJFX214c6PmgyBboEoPy) | 3:07 |
 | 47 | [Feel Alive](https://open.spotify.com/track/40w9Ww6zBhxQ7WZz2owEwX) | [Grafix](https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Feel Alive](https://open.spotify.com/album/45j86M3d2PYo2trc8MoEW3) | 4:08 |
 | 48 | [Out The Blue](https://open.spotify.com/track/2A4Ij58MiGtsYOHBAJ8Wph) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Alice Gold](https://open.spotify.com/artist/7npVHrVLcvH4TKywGNehPZ) | [Torus](https://open.spotify.com/album/5VDg2zP4jsc8Ufj1dPEA3d) | 4:37 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaS51xPOw5FD.md) - [plain]
 | 74 | [Devil's Night](https://open.spotify.com/track/6JRzMirHyMNFOezS9kbtcl) | [Dawn Wall](https://open.spotify.com/artist/6gnohqGISFUVpTSqT3TtiO) | [Devil's Night EP](https://open.spotify.com/album/7GhVfkNBfwR8cmbIC6qjMa) | 4:45 |
 | 75 | [Journey Inwards](https://open.spotify.com/track/3iLyAY6mucjT2lxrtincYz) | [LTJ Bukem](https://open.spotify.com/artist/5Wfn5sc1w3DhMTpU7oPJZL) | [Journey Inwards](https://open.spotify.com/album/5wZngiW5puuoM0QGajqBoY) | 5:14 |
 
-Snapshot ID: `MTY3MzU5MDg2MCwwMDAwMDAwMGViNDg1YzZhYzdjNzI1YWVkNzE4ZTY4MjA0YTU0MjI1`
+Snapshot ID: `MTY3MzU5MDg2MCwwMDAwMDAwMDQ4NDViNDIxOGZhYzYxMGZlOTE2YjdhYzZkYzhjZmIw`

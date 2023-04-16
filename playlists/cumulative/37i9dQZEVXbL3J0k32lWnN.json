@@ -594,7 +594,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 260388,
       "name": "ALIVE ALIVE ALIVE",
       "url": "https://open.spotify.com/track/7JqI6lxV0zDu8wIUYegsGE"
@@ -2232,7 +2232,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 131013,
       "name": "Boy's a liar Pt. 2",
       "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
@@ -2780,7 +2780,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 196939,
       "name": "Can't Tame Her",
       "url": "https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz"
@@ -2958,6 +2958,24 @@
       "duration_ms": 189347,
       "name": "Chart",
       "url": "https://open.spotify.com/track/705n1V0dBe4UOZC1oaah9a"
+    },
+    {
+      "album": {
+        "name": "Chemical",
+        "url": "https://open.spotify.com/album/6NoH5RUtjoh6ae2lJ9gWfq"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184004,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/4qzEjmuz380jeiBJp31oDY"
     },
     {
       "album": {
@@ -3741,6 +3759,24 @@
     },
     {
       "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212953,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
+    },
+    {
+      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -4210,7 +4246,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 232857,
       "name": "Die For You (with Ariana Grande) - Remix",
       "url": "https://open.spotify.com/track/4W4fNrZYkobj539TOWsLO2"
@@ -5450,7 +5486,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 272373,
       "name": "Escapism.",
       "url": "https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp"
@@ -6672,6 +6708,24 @@
       "duration_ms": 140624,
       "name": "Front 2 Back",
       "url": "https://open.spotify.com/track/7kbx13BGzXx2sfA31lmuGt"
+    },
+    {
+      "album": {
+        "name": "Fr\u00e6k",
+        "url": "https://open.spotify.com/album/283WZNvaaCj2Orcfd33ofQ"
+      },
+      "artists": [
+        {
+          "name": "Jimilian",
+          "url": "https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176444,
+      "name": "Fr\u00e6k",
+      "url": "https://open.spotify.com/track/7dPQspwTeZ8iVefdcUjD6w"
     },
     {
       "album": {
@@ -12376,7 +12430,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 184435,
       "name": "L\u00e6nge Leve",
       "url": "https://open.spotify.com/track/12YCYHtGcwm9kbSmbcWB4f"
@@ -14737,6 +14791,24 @@
     },
     {
       "album": {
+        "name": "Orange",
+        "url": "https://open.spotify.com/album/2LUNDLJq9DETLVVIPcAA6s"
+      },
+      "artists": [
+        {
+          "name": "Tobias Rahim",
+          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191093,
+      "name": "Orange",
+      "url": "https://open.spotify.com/track/0JFhEbH1Ij9BIrO800IEIK"
+    },
+    {
+      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
       },
@@ -15692,6 +15764,24 @@
       "duration_ms": 187452,
       "name": "Red Eye (feat. TroyBoi)",
       "url": "https://open.spotify.com/track/24OeEKPQ8qqNZnPevRHxUT"
+    },
+    {
+      "album": {
+        "name": "Red Flags",
+        "url": "https://open.spotify.com/album/5dNPbpIVH021rkby8i4i52"
+      },
+      "artists": [
+        {
+          "name": "Englando",
+          "url": "https://open.spotify.com/artist/2bvjuwumvVePZDZjIFu1jA"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167039,
+      "name": "Red Flags",
+      "url": "https://open.spotify.com/track/5jcsj5jqLoZoi8XKxe23Vh"
     },
     {
       "album": {
@@ -20362,6 +20452,24 @@
       "duration_ms": 133213,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/1yxcKrEcxt4O03IIC25yHk"
+    },
+    {
+      "album": {
+        "name": "Wish You The Best",
+        "url": "https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210880,
+      "name": "Wish You The Best",
+      "url": "https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3"
     },
     {
       "album": {

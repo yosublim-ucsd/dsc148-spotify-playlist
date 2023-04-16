@@ -1,15 +1,15 @@
 {
   "description": "Emo feels for the misunderstood. Cover: Lil Peep",
-  "num_followers": 1476272,
+  "num_followers": 1476648,
   "original_name": "tear drop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTMxODY1MywwMDAwMDAwMDAwMjI3ZTQxY2Y2OGJlYmU0ZDY4NzBiZjZiOTA1MGY4",
+  "snapshot_id": "MTY4MTMxODY1MywwMDAwMDAwMGRmOWI5N2NjOWRkNWZlYjc2MTg3ZWVhYWY5NTlmNzRi",
   "tracks": [
     {
-      "added_at": "2023-04-15 01:20:28",
+      "added_at": "2023-04-16 00:36:17",
       "album": {
         "name": "thishouseisnotahome",
         "url": "https://open.spotify.com/album/5luCmuvUUH79Vm21NB9de2"
@@ -633,20 +633,20 @@
       "url": "https://open.spotify.com/track/3jZDWsoxRHzzp3DYV8qeXE"
     },
     {
-      "added_at": "2023-03-03 05:00:00",
+      "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "Cherry Blossoms",
-        "url": "https://open.spotify.com/album/7z0GlCgOrEaME0BYpVPAtI"
+        "name": "NEGATIVE",
+        "url": "https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE"
       },
       "artists": [
         {
-          "name": "Shady Moon",
-          "url": "https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4"
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
         }
       ],
-      "duration_ms": 138367,
-      "name": "Cherry Blossoms",
-      "url": "https://open.spotify.com/track/4LEt6hyaGn4scwUsimBeXt"
+      "duration_ms": 138306,
+      "name": "then i met her",
+      "url": "https://open.spotify.com/track/5sFIYKbII6QzRT57hCza5Z"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "NEGATIVE",
-        "url": "https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 138306,
-      "name": "then i met her",
-      "url": "https://open.spotify.com/track/5sFIYKbII6QzRT57hCza5Z"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "dream girl",
         "url": "https://open.spotify.com/album/23LA5dOCq2mVA8sFzfp0V9"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 87408,
       "name": "dream girl",
       "url": "https://open.spotify.com/track/0Hfah746oDkvCS7ySP3k1c"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "switch up",
+        "url": "https://open.spotify.com/album/1gakTBKmayP7iMiNqWOGtk"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        }
+      ],
+      "duration_ms": 104173,
+      "name": "switch up",
+      "url": "https://open.spotify.com/track/3TGzipwh8V14Xtkc4QvTxx"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -753,22 +753,6 @@
       "url": "https://open.spotify.com/track/7iLmh60QhnumkevZlMVbp3"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "runaway (OG Version)",
-        "url": "https://open.spotify.com/album/3chQAPIWOHN2iHIU7HU0r6"
-      },
-      "artists": [
-        {
-          "name": "Lil Peep",
-          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "runaway - OG Version",
-      "url": "https://open.spotify.com/track/5AHJytT9tCq5fhVce7FNnu"
-    },
-    {
       "added_at": "2022-10-07 04:18:00",
       "album": {
         "name": "ALL GIRLS ARE THE SAME",
@@ -805,6 +789,22 @@
       "url": "https://open.spotify.com/track/508QhA2SncMbh5CnuxkvUc"
     },
     {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Cherry Blossoms",
+        "url": "https://open.spotify.com/album/1F7sDdTBfac69FjehSaCc9"
+      },
+      "artists": [
+        {
+          "name": "Shady Moon",
+          "url": "https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4"
+        }
+      ],
+      "duration_ms": 138311,
+      "name": "Cherry Blossoms",
+      "url": "https://open.spotify.com/track/6Rdp4sAeb38xf8DByVG3Xs"
+    },
+    {
       "added_at": "2022-10-07 04:18:00",
       "album": {
         "name": "Never Be Alright",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "How To Kill A Rockstar",
-        "url": "https://open.spotify.com/album/19C3hX64lG3BikzOfwmUm6"
-      },
-      "artists": [
-        {
-          "name": "MASN",
-          "url": "https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE"
-        }
-      ],
-      "duration_ms": 197217,
-      "name": "Psycho!",
-      "url": "https://open.spotify.com/track/56fkAaSu91c1E2k43wGPFC"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "agoraphobic",
         "url": "https://open.spotify.com/album/3Hz3XGYtM6rcRIPBJVAury"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 129795,
       "name": "agoraphobic",
       "url": "https://open.spotify.com/track/6ATqL4f1nFWwASrWi8nF6e"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "How To Kill A Rockstar",
+        "url": "https://open.spotify.com/album/19C3hX64lG3BikzOfwmUm6"
+      },
+      "artists": [
+        {
+          "name": "MASN",
+          "url": "https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE"
+        }
+      ],
+      "duration_ms": 197217,
+      "name": "Psycho!",
+      "url": "https://open.spotify.com/track/56fkAaSu91c1E2k43wGPFC"
     },
     {
       "added_at": "2022-12-14 15:14:02",
@@ -867,6 +867,22 @@
       "duration_ms": 124865,
       "name": "Midnight Thoughts",
       "url": "https://open.spotify.com/track/1O28T70fY6eyL9vygOqCQi"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "runaway (OG Version)",
+        "url": "https://open.spotify.com/album/3chQAPIWOHN2iHIU7HU0r6"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "runaway - OG Version",
+      "url": "https://open.spotify.com/track/5AHJytT9tCq5fhVce7FNnu"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -887,22 +903,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "Bad Day",
-        "url": "https://open.spotify.com/album/3k1lFVPUbpxngCtvkB9JkA"
-      },
-      "artists": [
-        {
-          "name": "Justus Bennetts",
-          "url": "https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l"
-        }
-      ],
-      "duration_ms": 108800,
-      "name": "Bad Day",
-      "url": "https://open.spotify.com/track/3wA4ronkc8ZcPXUP0fDgYA"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "Demons and Monsters",
         "url": "https://open.spotify.com/album/3tibCn5U6tDOLkjncjGvI3"
       },
@@ -917,20 +917,20 @@
       "url": "https://open.spotify.com/track/7u9BIFBgxuqntGW7wO5lMs"
     },
     {
-      "added_at": "2023-04-07 04:01:00",
+      "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "switch up",
-        "url": "https://open.spotify.com/album/1gakTBKmayP7iMiNqWOGtk"
+        "name": "Bad Day",
+        "url": "https://open.spotify.com/album/3k1lFVPUbpxngCtvkB9JkA"
       },
       "artists": [
         {
-          "name": "Lil Peep",
-          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+          "name": "Justus Bennetts",
+          "url": "https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l"
         }
       ],
-      "duration_ms": 104173,
-      "name": "switch up",
-      "url": "https://open.spotify.com/track/3TGzipwh8V14Xtkc4QvTxx"
+      "duration_ms": 108800,
+      "name": "Bad Day",
+      "url": "https://open.spotify.com/track/3wA4ronkc8ZcPXUP0fDgYA"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
+        "name": "I\u2019ll Keep You Safe",
+        "url": "https://open.spotify.com/album/7tdgNlk73DWhsf6jPDlhCX"
+      },
+      "artists": [
+        {
+          "name": "Vluestar",
+          "url": "https://open.spotify.com/artist/2FcgwIGEPmPyItFPscscDO"
+        }
+      ],
+      "duration_ms": 140338,
+      "name": "I\u2019ll Keep You Safe",
+      "url": "https://open.spotify.com/track/1H3Q48ARz2ZEwbOl6s53Mq"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
         "name": "Catch Me If You Can",
         "url": "https://open.spotify.com/album/4nN2WkOPVJSDgluTqLymQw"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 86749,
       "name": "say goodbye",
       "url": "https://open.spotify.com/track/6JdU7eaEl9fPAq0sEVNzGc"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "I\u2019ll Keep You Safe",
-        "url": "https://open.spotify.com/album/7tdgNlk73DWhsf6jPDlhCX"
-      },
-      "artists": [
-        {
-          "name": "Vluestar",
-          "url": "https://open.spotify.com/artist/2FcgwIGEPmPyItFPscscDO"
-        }
-      ],
-      "duration_ms": 140338,
-      "name": "I\u2019ll Keep You Safe",
-      "url": "https://open.spotify.com/track/1H3Q48ARz2ZEwbOl6s53Mq"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "MIXED EMOTIONS",
-        "url": "https://open.spotify.com/album/0boaHbYImj8KkpcFarxgiN"
-      },
-      "artists": [
-        {
-          "name": "Jack Kays",
-          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
-        }
-      ],
-      "duration_ms": 136750,
-      "name": "MORBID MIND",
-      "url": "https://open.spotify.com/track/6eKfQnTHKeqyyfaGlwMIcG"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
         "name": "EP",
         "url": "https://open.spotify.com/album/6dQAUhE6oE6YgxD0GPdEzF"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 150702,
       "name": "Sad Nibba Hours",
       "url": "https://open.spotify.com/track/2TfoabXa0CbEwcqpxOn9z3"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "MIXED EMOTIONS",
+        "url": "https://open.spotify.com/album/0boaHbYImj8KkpcFarxgiN"
+      },
+      "artists": [
+        {
+          "name": "Jack Kays",
+          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
+        }
+      ],
+      "duration_ms": 136750,
+      "name": "MORBID MIND",
+      "url": "https://open.spotify.com/track/6eKfQnTHKeqyyfaGlwMIcG"
     },
     {
       "added_at": "2022-12-14 15:14:02",
@@ -1393,6 +1393,22 @@
       "url": "https://open.spotify.com/track/6Tt9PBM6oWGwVnxyzuM84j"
     },
     {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "WELCOME HOME",
+        "url": "https://open.spotify.com/album/2NDlOOZNBvq6B26feV4gJc"
+      },
+      "artists": [
+        {
+          "name": "Aries",
+          "url": "https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy"
+        }
+      ],
+      "duration_ms": 164154,
+      "name": "BAD NEWS",
+      "url": "https://open.spotify.com/track/60ZppukPfY43NDU9meKJrz"
+    },
+    {
       "added_at": "2023-02-17 05:00:00",
       "album": {
         "name": "UDNTLUVME",
@@ -1407,6 +1423,22 @@
       "duration_ms": 138461,
       "name": "UDNTLUVME",
       "url": "https://open.spotify.com/track/2hjutKtktLpMj9eNAvwf8v"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "Go Wild",
+        "url": "https://open.spotify.com/album/6XNZaASEHduRzthfI6bOrc"
+      },
+      "artists": [
+        {
+          "name": "Drex Carter",
+          "url": "https://open.spotify.com/artist/2zhgWhhKeDGw6gGd16y7tc"
+        }
+      ],
+      "duration_ms": 160090,
+      "name": "Go Wild",
+      "url": "https://open.spotify.com/track/2V1UjIW8DUV9jzpcOffRXk"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1427,38 +1459,6 @@
       "duration_ms": 142988,
       "name": "Suicidal",
       "url": "https://open.spotify.com/track/4RPSpwcOe5NgQloQS2CDGp"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "WELCOME HOME",
-        "url": "https://open.spotify.com/album/2NDlOOZNBvq6B26feV4gJc"
-      },
-      "artists": [
-        {
-          "name": "Aries",
-          "url": "https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy"
-        }
-      ],
-      "duration_ms": 164154,
-      "name": "BAD NEWS",
-      "url": "https://open.spotify.com/track/60ZppukPfY43NDU9meKJrz"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "Go Wild",
-        "url": "https://open.spotify.com/album/6XNZaASEHduRzthfI6bOrc"
-      },
-      "artists": [
-        {
-          "name": "Drex Carter",
-          "url": "https://open.spotify.com/artist/2zhgWhhKeDGw6gGd16y7tc"
-        }
-      ],
-      "duration_ms": 160090,
-      "name": "Go Wild",
-      "url": "https://open.spotify.com/track/2V1UjIW8DUV9jzpcOffRXk"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1557,6 +1557,22 @@
       "url": "https://open.spotify.com/track/3nx1LABlssQw0JCmHTWMn3"
     },
     {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "WOULDN'T IT BE NICE",
+        "url": "https://open.spotify.com/album/68PmwQcdaVpz4nARsWJCLP"
+      },
+      "artists": [
+        {
+          "name": "Arizona Zervas",
+          "url": "https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs"
+        }
+      ],
+      "duration_ms": 182546,
+      "name": "WOULDN'T IT BE NICE",
+      "url": "https://open.spotify.com/track/4QPTfQqJuwbmdl9JVfPuHR"
+    },
+    {
       "added_at": "2022-10-07 04:18:00",
       "album": {
         "name": "Outta Time",
@@ -1591,22 +1607,6 @@
       "duration_ms": 164327,
       "name": "She Likes My Tattoos",
       "url": "https://open.spotify.com/track/2Lle3tbO97Dd4I3deOZ92g"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "WOULDN'T IT BE NICE",
-        "url": "https://open.spotify.com/album/68PmwQcdaVpz4nARsWJCLP"
-      },
-      "artists": [
-        {
-          "name": "Arizona Zervas",
-          "url": "https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs"
-        }
-      ],
-      "duration_ms": 182546,
-      "name": "WOULDN'T IT BE NICE",
-      "url": "https://open.spotify.com/track/4QPTfQqJuwbmdl9JVfPuHR"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1685,22 +1685,6 @@
       "url": "https://open.spotify.com/track/4ZUNw5tDBZTOqzPEVIYyOy"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "Can't Leave",
-        "url": "https://open.spotify.com/album/16teSPlsvin30vK4t8DgK9"
-      },
-      "artists": [
-        {
-          "name": "Austin George",
-          "url": "https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Can't Leave",
-      "url": "https://open.spotify.com/track/2vLhhodRmyz4YmwbXSNNeb"
-    },
-    {
       "added_at": "2022-10-07 04:18:00",
       "album": {
         "name": "come back",
@@ -1715,6 +1699,22 @@
       "duration_ms": 153245,
       "name": "come back",
       "url": "https://open.spotify.com/track/6efdzU3R68skVEHDJONh8p"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Can't Leave",
+        "url": "https://open.spotify.com/album/16teSPlsvin30vK4t8DgK9"
+      },
+      "artists": [
+        {
+          "name": "Austin George",
+          "url": "https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Can't Leave",
+      "url": "https://open.spotify.com/track/2vLhhodRmyz4YmwbXSNNeb"
     },
     {
       "added_at": "2022-10-07 04:18:00",

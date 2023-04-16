@@ -212,7 +212,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 192000,
       "name": "Artif\u00edcio",
       "url": "https://open.spotify.com/track/5UPGfXS8YBzGYlo6qjajAc"
@@ -390,7 +390,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 402000,
       "name": "Canta Minha'alma (Behold) - Live Session",
       "url": "https://open.spotify.com/track/6xFNwNFUyHRMb74AB9kPDj"
@@ -438,6 +438,24 @@
       "duration_ms": 222727,
       "name": "Cora\u00e7\u00e3o de Pedra",
       "url": "https://open.spotify.com/track/0ZqrbdSQrwCB523ggelHhu"
+    },
+    {
+      "album": {
+        "name": "Cordeiro e Le\u00e3o",
+        "url": "https://open.spotify.com/album/5OrnFeXMXvUvhw2bvFbpFI"
+      },
+      "artists": [
+        {
+          "name": "Colo de Deus",
+          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236295,
+      "name": "Cordeiro e Le\u00e3o",
+      "url": "https://open.spotify.com/track/0l7lyBcrTSSwBgu1AJ5ktC"
     },
     {
       "album": {
@@ -1271,6 +1289,24 @@
     },
     {
       "album": {
+        "name": "\u00danico (Live)",
+        "url": "https://open.spotify.com/album/1lOiNzzfdghtwLHhr2Jikh"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338113,
+      "name": "Os Que Confiam - Live",
+      "url": "https://open.spotify.com/track/09iuGgLJ4mr4bLjLvRptye"
+    },
+    {
+      "album": {
         "name": "Palavrantiga Ao Vivo (Pt. 3)",
         "url": "https://open.spotify.com/album/0GlPY3Iv585YH09Np350yH"
       },
@@ -1318,7 +1354,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 237817,
       "name": "Pra Quem J\u00e1 Perdeu um Sonho",
       "url": "https://open.spotify.com/track/6pLxOs1DafrlwPRGfNziZs"
@@ -1744,6 +1780,24 @@
       "duration_ms": 216427,
       "name": "Tudo Muda Com Voc\u00ea",
       "url": "https://open.spotify.com/track/63bD9D793ZOOHhFbf0Ot96"
+    },
+    {
+      "album": {
+        "name": "Tudo \u00e9 Teu / Nova Criatura / Rede ao Mar",
+        "url": "https://open.spotify.com/album/4LNn5OkVpjCZv5c8aKc4N4"
+      },
+      "artists": [
+        {
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304556,
+      "name": "Tudo \u00e9 Teu / Nova Criatura / Rede ao Mar",
+      "url": "https://open.spotify.com/track/4G2fqa20Hkj8uTDwMOzfrr"
     },
     {
       "album": {

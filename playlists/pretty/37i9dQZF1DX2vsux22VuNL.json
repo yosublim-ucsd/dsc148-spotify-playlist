@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Cynthia Luz, ZAAC",
-  "num_followers": 268379,
+  "num_followers": 268422,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0MTIwMCwwMDAwMDAwMDE5OWVlNzljZDllNGZlZjAzZDlmNzdiN2VkYmI0ZGJj",
+  "snapshot_id": "MTY4MTQ0MTIwMCwwMDAwMDAwMDdhZjgxYTJjZWNmODUzZWIwYjEyY2ZmMjUyMTZhZjk4",
   "tracks": [
     {
       "added_at": "2023-04-14 03:00:00",
@@ -807,26 +807,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Arcano 19 (Deluxe)",
-        "url": "https://open.spotify.com/album/6SRyb0UxjNTnYMvCf3HouQ"
-      },
-      "artists": [
-        {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
-        },
-        {
-          "name": "Costa Gold",
-          "url": "https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn"
-        }
-      ],
-      "duration_ms": 249798,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/63OpfbI5oWzmf2JbBgwVuX"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Ei Amor",
         "url": "https://open.spotify.com/album/5gGGqa1ErhhqgU5s6wkEkQ"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 141354,
       "name": "Ei Amor",
       "url": "https://open.spotify.com/track/4rYXjKPAqlSR1pieRKXeQ9"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Arcano 19 (Deluxe)",
+        "url": "https://open.spotify.com/album/6SRyb0UxjNTnYMvCf3HouQ"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        },
+        {
+          "name": "Costa Gold",
+          "url": "https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn"
+        }
+      ],
+      "duration_ms": 249798,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/63OpfbI5oWzmf2JbBgwVuX"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Arcano 19",
-        "url": "https://open.spotify.com/album/3u9RfLqgwUuVZ2p1t4xBAP"
-      },
-      "artists": [
-        {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
-        }
-      ],
-      "duration_ms": 244999,
-      "name": "Amor Bandido",
-      "url": "https://open.spotify.com/track/1bVchYHleptMkk0pTDsMGa"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Melhor Agora",
         "url": "https://open.spotify.com/album/71GFZXdtEJiLy3KH4GfLOi"
       },
@@ -1051,6 +1035,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Arcano 19",
+        "url": "https://open.spotify.com/album/3u9RfLqgwUuVZ2p1t4xBAP"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        }
+      ],
+      "duration_ms": 244999,
+      "name": "Amor Bandido",
+      "url": "https://open.spotify.com/track/1bVchYHleptMkk0pTDsMGa"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "Luz da Lua",
         "url": "https://open.spotify.com/album/3P2Zg9ZZ2njZgWziGm614U"
       },
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Vai e Vem",
-        "url": "https://open.spotify.com/album/3vuUwsHvXA6UfOWIIjpBZm"
-      },
-      "artists": [
-        {
-          "name": "Giana",
-          "url": "https://open.spotify.com/artist/4qB4n69ENaMdCb37AYd6wk"
-        }
-      ],
-      "duration_ms": 154060,
-      "name": "Vai e Vem",
-      "url": "https://open.spotify.com/track/6dhdxs7ELm5EvlhbV31hJh"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Ladeira da Vida",
         "url": "https://open.spotify.com/album/2gjNuzeCoJy6YMU3udbhHw"
       },
@@ -1171,6 +1155,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Vai e Vem",
+        "url": "https://open.spotify.com/album/3vuUwsHvXA6UfOWIIjpBZm"
+      },
+      "artists": [
+        {
+          "name": "Giana",
+          "url": "https://open.spotify.com/artist/4qB4n69ENaMdCb37AYd6wk"
+        }
+      ],
+      "duration_ms": 154060,
+      "name": "Vai e Vem",
+      "url": "https://open.spotify.com/track/6dhdxs7ELm5EvlhbV31hJh"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "Telepatia",
         "url": "https://open.spotify.com/album/3VqbvFIVanUEBnSHnIVNHS"
       },
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Ref\u00e9m",
-        "url": "https://open.spotify.com/album/0VWA3ZIe612sqa7bVQVQQ0"
-      },
-      "artists": [
-        {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
-        },
-        {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Ref\u00e9m",
-      "url": "https://open.spotify.com/track/4lFSe0VQ2tMDJhyvjD8jmU"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "V\u00eanus",
         "url": "https://open.spotify.com/album/0V0K2bL6y67Pil8VIY7sNE"
       },
@@ -1227,6 +1207,26 @@
       "duration_ms": 197083,
       "name": "Efeito Brasa",
       "url": "https://open.spotify.com/track/0NMLNyUSHexdZXeVOBnry0"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Ref\u00e9m",
+        "url": "https://open.spotify.com/album/0VWA3ZIe612sqa7bVQVQQ0"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        },
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Ref\u00e9m",
+      "url": "https://open.spotify.com/track/4lFSe0VQ2tMDJhyvjD8jmU"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1287,6 +1287,26 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Um Pouco Mais",
+        "url": "https://open.spotify.com/album/3lZRBH2jUZn00MMnJfjVga"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Zoli",
+          "url": "https://open.spotify.com/artist/78qbkWvG9eXN65GYqaFEZ8"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "duration_ms": 182586,
+      "name": "Um Pouco Mais",
+      "url": "https://open.spotify.com/track/40tzeN89kbNNo5amOxErCb"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "Queria Te Ver",
         "url": "https://open.spotify.com/album/7cCWhB0Bl8mVYC89BYyWJ8"
       },
@@ -1311,26 +1331,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Um Pouco Mais",
-        "url": "https://open.spotify.com/album/3lZRBH2jUZn00MMnJfjVga"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Zoli",
-          "url": "https://open.spotify.com/artist/78qbkWvG9eXN65GYqaFEZ8"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        }
-      ],
-      "duration_ms": 182586,
-      "name": "Um Pouco Mais",
-      "url": "https://open.spotify.com/track/40tzeN89kbNNo5amOxErCb"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "CULPADO",
         "url": "https://open.spotify.com/album/1iHh6gAh0swarbFrU3gvie"
       },
@@ -1343,6 +1343,26 @@
       "duration_ms": 182933,
       "name": "CULPADO",
       "url": "https://open.spotify.com/track/0rj4xjLTzUui03rlljrYfN"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Copacabana",
+        "url": "https://open.spotify.com/album/0tNl0J8LP33Y8BIBqfq7c5"
+      },
+      "artists": [
+        {
+          "name": "Kalli",
+          "url": "https://open.spotify.com/artist/3BD2ifHl4tkgwVU5KIlR5I"
+        },
+        {
+          "name": "NaBuscaDoOuro",
+          "url": "https://open.spotify.com/artist/5MsYZJftF2EukeaOmEpI9S"
+        }
+      ],
+      "duration_ms": 169850,
+      "name": "Copacabana",
+      "url": "https://open.spotify.com/track/2dDz08vDQyOJ7tX4oE0xnW"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1371,26 +1391,6 @@
       "duration_ms": 208762,
       "name": "Linda",
       "url": "https://open.spotify.com/track/3knUp342DsZsUmcY62m1vU"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Copacabana",
-        "url": "https://open.spotify.com/album/0tNl0J8LP33Y8BIBqfq7c5"
-      },
-      "artists": [
-        {
-          "name": "Kalli",
-          "url": "https://open.spotify.com/artist/3BD2ifHl4tkgwVU5KIlR5I"
-        },
-        {
-          "name": "NaBuscaDoOuro",
-          "url": "https://open.spotify.com/artist/5MsYZJftF2EukeaOmEpI9S"
-        }
-      ],
-      "duration_ms": 169850,
-      "name": "Copacabana",
-      "url": "https://open.spotify.com/track/2dDz08vDQyOJ7tX4oE0xnW"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1547,26 +1547,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Aquelas Coisas",
-        "url": "https://open.spotify.com/album/5pVKXPYLNnDPSQYl5yNrmm"
-      },
-      "artists": [
-        {
-          "name": "Filipe Papi",
-          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
-        },
-        {
-          "name": "Menestrel",
-          "url": "https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Aquelas Coisas",
-      "url": "https://open.spotify.com/track/68H3yFyKdAuYuxQ7ekQKWw"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/28tbU5pXLvIbUqtNme8Wuh"
       },
@@ -1583,6 +1563,26 @@
       "duration_ms": 174315,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/4u3oUk2kh8m5Mg08JUfDr1"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Aquelas Coisas",
+        "url": "https://open.spotify.com/album/5pVKXPYLNnDPSQYl5yNrmm"
+      },
+      "artists": [
+        {
+          "name": "Filipe Papi",
+          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
+        },
+        {
+          "name": "Menestrel",
+          "url": "https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Aquelas Coisas",
+      "url": "https://open.spotify.com/track/68H3yFyKdAuYuxQ7ekQKWw"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1667,6 +1667,26 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Te Fazer Vibrar",
+        "url": "https://open.spotify.com/album/21v5Ucht2tu6yF0WmnjcFu"
+      },
+      "artists": [
+        {
+          "name": "Megabaile Do Areias",
+          "url": "https://open.spotify.com/artist/6EHs7rGH4jgLSNezIy9i3F"
+        },
+        {
+          "name": "MC Ig\u00e3o",
+          "url": "https://open.spotify.com/artist/7mFKwJmv39xvJc8Gtr227g"
+        }
+      ],
+      "duration_ms": 187272,
+      "name": "Te Fazer Vibrar",
+      "url": "https://open.spotify.com/track/2ht1UBPNgDM0WMpgxKC7Zy"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "Sentir Saudade",
         "url": "https://open.spotify.com/album/3YVXCU8NEDI9GQtk2Eg6NO"
       },
@@ -1695,26 +1715,6 @@
       "duration_ms": 206451,
       "name": "Sentir Saudade",
       "url": "https://open.spotify.com/track/4LuSl1ajXHPZB1gGWQ069n"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Te Fazer Vibrar",
-        "url": "https://open.spotify.com/album/21v5Ucht2tu6yF0WmnjcFu"
-      },
-      "artists": [
-        {
-          "name": "Megabaile Do Areias",
-          "url": "https://open.spotify.com/artist/6EHs7rGH4jgLSNezIy9i3F"
-        },
-        {
-          "name": "MC Ig\u00e3o",
-          "url": "https://open.spotify.com/artist/7mFKwJmv39xvJc8Gtr227g"
-        }
-      ],
-      "duration_ms": 187272,
-      "name": "Te Fazer Vibrar",
-      "url": "https://open.spotify.com/track/2ht1UBPNgDM0WMpgxKC7Zy"
     },
     {
       "added_at": "2023-04-14 03:00:00",

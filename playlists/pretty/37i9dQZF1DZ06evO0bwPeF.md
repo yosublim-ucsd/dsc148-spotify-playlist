@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bwPeF.md) - [plain]
 
 > This is Helmet\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,423 likes - 46 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,429 likes - 46 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bwPeF.md) - [plain]
 | 45 | [Welcome to Algiers](https://open.spotify.com/track/2lzqK8W07iKSUm69xKhsiN) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Seeing Eye Dog](https://open.spotify.com/album/7yQrF2S1xmVp1iC9HPvn2i) | 4:21 |
 | 46 | [Life or Death](https://open.spotify.com/track/01x7Rmr1ZivytaToNGRhuF) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Dead to the World](https://open.spotify.com/album/0ntWTKVclNImxOTIOaDPx2) | 3:02 |
 
-Snapshot ID: `MjgwMjQ4NTIsMDAwMDAwMDA5ODAwMzdhMjQ4YjQ4MmRjOTZlMGJjNzc3MDMzYjkwYg==`
+Snapshot ID: `MjgwMjYwMzEsMDAwMDAwMDA2ZTI5ZmI1MTlkZTdmNzBmZjcwODkyODZiNzI1YTUxOQ==`

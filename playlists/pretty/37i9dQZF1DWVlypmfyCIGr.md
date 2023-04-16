@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: GOOD BYE APRIL
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,356 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,366 likes - 80 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 15 | [山粧う](https://open.spotify.com/track/0DpfwLa1HmZTcWifqZRnxG) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [Kimochy Season](https://open.spotify.com/album/2jg0b7paauECp2dSraJqul) | 4:34 |
 | 16 | [Mermaid in bathroom](https://open.spotify.com/track/1h3BvY5X6qXNo6UeBev7YW) | [くしゃみ。。](https://open.spotify.com/artist/4Bl6epmDiy4cm8sbijZNfG) | [Mermaid in bathroom](https://open.spotify.com/album/33qRgsDgPzrzwA2fNdOqfV) | 2:08 |
 | 17 | [KANPAI FUNK](https://open.spotify.com/track/7jrtlAd4BEyw7EPoY9OByq) | [Akiko Wada](https://open.spotify.com/artist/5UqBtyWeZ51GzS7pL9o5u5) | [KANPAI FUNK](https://open.spotify.com/album/255FYpVZ7HKMSY0dUaFirF) | 3:40 |
-| 18 | [Boogie Woogie](https://open.spotify.com/track/5cjc6nSoDwQSSYDpv1AEK5) | [BUCK\-TICK](https://open.spotify.com/artist/2DiecQcRbDuSJuSPKtirrX) | [Boogie Woogie](https://open.spotify.com/album/6wFmiLqNWEe3jvu5I9gZkJ) | 3:57 |
+| 18 | [Boogie Woogie](https://open.spotify.com/track/2d4864DEKNKv2B1zkWiDuG) | [BUCK\-TICK](https://open.spotify.com/artist/2DiecQcRbDuSJuSPKtirrX) | [IZORA](https://open.spotify.com/album/7COwrUcqO3yWY4zXsdeXgI) | 3:57 |
 | 19 | [Shisso](https://open.spotify.com/track/2bvfvqG8hG5UNbS4XvDRzT) | [MaiR](https://open.spotify.com/artist/5180NTpNvdlL8YuthLdGT0) | [Shisso](https://open.spotify.com/album/6Ipj0IROysR4YMLTqtpAlc) | 5:01 |
 | 20 | [OFFSIDE](https://open.spotify.com/track/2TA9RCNZGEqqrRzDESkGsX) | [Dannie May](https://open.spotify.com/artist/1ZUDSRNUUa69sTk4pMiyp7) | [OFFSIDE](https://open.spotify.com/album/6yWIZMCfEvOadkiy9VFIXa) | 2:58 |
 | 21 | [ブロンディの時計仕掛け](https://open.spotify.com/track/3M5lPAVwcJrV0EfvcgGDiJ) | [すみはね](https://open.spotify.com/artist/2YPJV3Cwy9o5DzRSCLnfjc) | [ブロンディの時計仕掛け](https://open.spotify.com/album/24stIIxRPmLJH0wLWO9gpw) | 4:09 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [Tsumugu](https://open.spotify.com/track/0vfBB5CXn4CwpmQ2M5EZOe) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Oidaki](https://open.spotify.com/album/5FGKmIasXlcphIo9Z3ihS5) | 3:52 |
 | 80 | [Parolibre](https://open.spotify.com/track/5QkX1iCiuhiKwYqcHfCq6w) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [1996 \(Re\-Mastered\)](https://open.spotify.com/album/0JLvLjBDMyaDB7tvGgmkRZ) | 3:24 |
 
-Snapshot ID: `MTY4MTEzODgwMCwwMDAwMDAwMGQ2MGUzZTgzNDgwMDBlMWY3NmE2NTc0MjQ5ZmU1NGRj`
+Snapshot ID: `MTY4MTEzODgwMCwwMDAwMDAwMGFiZGU0YzAzYzAzZGZlOTFmYjkzZWQxZWZiOWZkMWE0`

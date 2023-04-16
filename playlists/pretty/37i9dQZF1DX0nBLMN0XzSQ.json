@@ -1,12 +1,12 @@
 {
   "description": "Apr\u00e8s Ski...you know what that means!",
-  "num_followers": 306173,
+  "num_followers": 306197,
   "original_name": "Apr\u00e8s Ski Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTA3ODM2MiwwMDAwMDAwMDRiYTAwYjBlMjQ5Njc0ODAwM2M2MDMwMTA4NmYxYjQ5",
+  "snapshot_id": "MTY3NTA3ODM2MiwwMDAwMDAwMGY5OGFiYmNmMWExNjQwNjU4Y2FhNzQ5MWVlOGJkNzA1",
   "tracks": [
     {
       "added_at": "2022-11-17 16:11:09",
@@ -283,6 +283,22 @@
     {
       "added_at": "2022-11-17 16:11:09",
       "album": {
+        "name": "Second Helping (Expanded Edition)",
+        "url": "https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH"
+      },
+      "artists": [
+        {
+          "name": "Lynyrd Skynyrd",
+          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+        }
+      ],
+      "duration_ms": 283800,
+      "name": "Sweet Home Alabama",
+      "url": "https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg"
+    },
+    {
+      "added_at": "2022-11-17 16:11:09",
+      "album": {
         "name": "Listen Up! The Official 2010 FIFA World Cup Album",
         "url": "https://open.spotify.com/album/0CKqyf7ptIwn4EtOV8nddm"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 292613,
       "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
       "url": "https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6"
-    },
-    {
-      "added_at": "2022-11-17 16:11:09",
-      "album": {
-        "name": "Second Helping (Expanded Edition)",
-        "url": "https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH"
-      },
-      "artists": [
-        {
-          "name": "Lynyrd Skynyrd",
-          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
-        }
-      ],
-      "duration_ms": 283800,
-      "name": "Sweet Home Alabama",
-      "url": "https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg"
     },
     {
       "added_at": "2022-11-17 16:11:09",
@@ -451,22 +451,6 @@
     {
       "added_at": "2022-11-17 16:11:09",
       "album": {
-        "name": "Blur (Special Edition)",
-        "url": "https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 121160,
-      "name": "Song 2 - 2012 Remaster",
-      "url": "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM"
-    },
-    {
-      "added_at": "2022-11-17 16:11:09",
-      "album": {
         "name": "She's So Unusual",
         "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 238266,
       "name": "Girls Just Want to Have Fun",
       "url": "https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe"
+    },
+    {
+      "added_at": "2022-11-17 16:11:09",
+      "album": {
+        "name": "Blur (Special Edition)",
+        "url": "https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 121160,
+      "name": "Song 2 - 2012 Remaster",
+      "url": "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM"
     },
     {
       "added_at": "2022-11-17 16:11:09",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-11-17 16:11:09",
       "album": {
-        "name": "Abba",
-        "url": "https://open.spotify.com/album/1kM6xcSYO5ASJaWgygznL7"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 213266,
-      "name": "Mamma Mia",
-      "url": "https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91"
-    },
-    {
-      "added_at": "2022-11-17 16:11:09",
-      "album": {
         "name": "Onka's Big Moka",
         "url": "https://open.spotify.com/album/2ww2PXKiHk7rNv26rjVJ5z"
       },
@@ -755,6 +739,22 @@
     {
       "added_at": "2022-11-17 16:11:09",
       "album": {
+        "name": "Abba",
+        "url": "https://open.spotify.com/album/1kM6xcSYO5ASJaWgygznL7"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 213266,
+      "name": "Mamma Mia",
+      "url": "https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91"
+    },
+    {
+      "added_at": "2022-11-17 16:11:09",
+      "album": {
         "name": "9 To 5 And Odd Jobs",
         "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
       },
@@ -767,22 +767,6 @@
       "duration_ms": 162466,
       "name": "9 to 5",
       "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
-    },
-    {
-      "added_at": "2022-11-17 16:11:09",
-      "album": {
-        "name": "Thriller",
-        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 294226,
-      "name": "Billie Jean",
-      "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
     },
     {
       "added_at": "2022-11-17 16:11:09",
@@ -807,18 +791,18 @@
     {
       "added_at": "2022-11-17 16:11:09",
       "album": {
-        "name": "The Final Countdown (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
       },
       "artists": [
         {
-          "name": "Europe",
-          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 310333,
-      "name": "The Final Countdown",
-      "url": "https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK"
+      "duration_ms": 294226,
+      "name": "Billie Jean",
+      "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
     },
     {
       "added_at": "2022-11-17 16:11:09",
@@ -839,18 +823,18 @@
     {
       "added_at": "2022-11-17 16:11:09",
       "album": {
-        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
-        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
+        "name": "The Final Countdown (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
       },
       "artists": [
         {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+          "name": "Europe",
+          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
         }
       ],
-      "duration_ms": 258773,
-      "name": "Wonderwall - Remastered",
-      "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"
+      "duration_ms": 310333,
+      "name": "The Final Countdown",
+      "url": "https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK"
     },
     {
       "added_at": "2022-11-17 16:11:09",
@@ -871,6 +855,22 @@
     {
       "added_at": "2022-11-17 16:11:09",
       "album": {
+        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
+        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 258773,
+      "name": "Wonderwall - Remastered",
+      "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"
+    },
+    {
+      "added_at": "2022-11-17 16:11:09",
+      "album": {
         "name": "Wild Ones",
         "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
       },
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-11-17 16:11:09",
       "album": {
-        "name": "Berry Is On Top",
-        "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 161560,
-      "name": "Johnny B. Goode",
-      "url": "https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2"
-    },
-    {
-      "added_at": "2022-11-17 16:11:09",
-      "album": {
         "name": "Raise!",
         "url": "https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 339320,
       "name": "Let's Groove",
       "url": "https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8"
+    },
+    {
+      "added_at": "2022-11-17 16:11:09",
+      "album": {
+        "name": "Berry Is On Top",
+        "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 161560,
+      "name": "Johnny B. Goode",
+      "url": "https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2"
     },
     {
       "added_at": "2022-11-17 16:11:09",
@@ -951,22 +951,6 @@
     {
       "added_at": "2022-11-17 16:11:09",
       "album": {
-        "name": "Dare!",
-        "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
-      },
-      "artists": [
-        {
-          "name": "The Human League",
-          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
-        }
-      ],
-      "duration_ms": 236920,
-      "name": "Don't You Want Me",
-      "url": "https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx"
-    },
-    {
-      "added_at": "2022-11-17 16:11:09",
-      "album": {
         "name": "A Little Bit of Mambo",
         "url": "https://open.spotify.com/album/13BmLGhVCLBn3XzKB8HIai"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 220293,
       "name": "Mambo No. 5 (a Little Bit of...)",
       "url": "https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs"
+    },
+    {
+      "added_at": "2022-11-17 16:11:09",
+      "album": {
+        "name": "Dare!",
+        "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
+      },
+      "artists": [
+        {
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
+        }
+      ],
+      "duration_ms": 236920,
+      "name": "Don't You Want Me",
+      "url": "https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx"
     },
     {
       "added_at": "2022-11-17 16:11:09",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2022-11-17 16:11:09",
       "album": {
-        "name": "L'Amour Toujours",
-        "url": "https://open.spotify.com/album/61hGQNFwmqGHXm5eeMkd4d"
+        "name": "Call on Me (Radio Mix)",
+        "url": "https://open.spotify.com/album/7thKR3tw162CqNqIRdwZ3z"
       },
       "artists": [
         {
-          "name": "Gigi D'Agostino",
-          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
+          "name": "Eric Prydz",
+          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
         }
       ],
-      "duration_ms": 242053,
-      "name": "L'Amour Toujours",
-      "url": "https://open.spotify.com/track/52LJ3hyknOijCrE5gCD0rE"
+      "duration_ms": 171360,
+      "name": "Call on Me - Radio Mix",
+      "url": "https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff"
     },
     {
       "added_at": "2022-11-17 16:11:09",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2022-11-17 16:11:09",
       "album": {
-        "name": "Call on Me (Radio Mix)",
-        "url": "https://open.spotify.com/album/7thKR3tw162CqNqIRdwZ3z"
+        "name": "L'Amour Toujours",
+        "url": "https://open.spotify.com/album/61hGQNFwmqGHXm5eeMkd4d"
       },
       "artists": [
         {
-          "name": "Eric Prydz",
-          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
+          "name": "Gigi D'Agostino",
+          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
         }
       ],
-      "duration_ms": 171360,
-      "name": "Call on Me - Radio Mix",
-      "url": "https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff"
+      "duration_ms": 242053,
+      "name": "L'Amour Toujours",
+      "url": "https://open.spotify.com/track/52LJ3hyknOijCrE5gCD0rE"
     },
     {
       "added_at": "2022-11-17 16:11:09",
@@ -1143,22 +1143,6 @@
       "duration_ms": 211213,
       "name": "All That She Wants",
       "url": "https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9"
-    },
-    {
-      "added_at": "2022-11-17 16:11:09",
-      "album": {
-        "name": "Bayou Country (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5pCRW9AT4BgoMOS52pRoJq"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 187213,
-      "name": "Proud Mary",
-      "url": "https://open.spotify.com/track/6pxWv6GV35VGmcPf5dh6CH"
     },
     {
       "added_at": "2022-11-17 16:11:09",
@@ -1195,6 +1179,22 @@
       "duration_ms": 266720,
       "name": "The Boys Are Back In Town",
       "url": "https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1"
+    },
+    {
+      "added_at": "2022-11-17 16:11:09",
+      "album": {
+        "name": "Bayou Country (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5pCRW9AT4BgoMOS52pRoJq"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 187213,
+      "name": "Proud Mary",
+      "url": "https://open.spotify.com/track/6pxWv6GV35VGmcPf5dh6CH"
     },
     {
       "added_at": "2022-11-17 16:11:09",

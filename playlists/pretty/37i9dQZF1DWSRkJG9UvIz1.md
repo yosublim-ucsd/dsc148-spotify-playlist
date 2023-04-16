@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 
 > Vai curtir um dia no parque? A tarde com os amigos? É só dar play e sair pro sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,125 likes - 60 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,167 likes - 60 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 | 4 | [Tribe \(with J\. Cole\)](https://open.spotify.com/track/0YAQnYt2oB8OdoaeqnHyTI) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Milky Way](https://open.spotify.com/album/6sDQacCej53Q43vZF9PJ8i) | 3:58 |
 | 5 | [Bossa No Sé \(feat\. Jean Carter\)](https://open.spotify.com/track/3kEsMLO3qUUwiXeCndsMIb) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Jean Carter](https://open.spotify.com/artist/2LRR1XoqMZ64hebNjiFJqj) | [Para Mi](https://open.spotify.com/album/6e8eJS3DUWZ9SAjHE5AD5m) | 3:21 |
 | 6 | [Runnin'](https://open.spotify.com/track/0XgpiStoxq1IJncYlPrvZ5) | [The Pharcyde](https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w) | [Labcabincalifornia \(Deluxe Edition\)](https://open.spotify.com/album/05Qg48LlYGKYdeXrNGg00g) | 4:56 |
-| 7 | [Ai, Amor](https://open.spotify.com/track/3bR8wBqLky6b61ROJlaBEF) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [O Tempo É Agora](https://open.spotify.com/album/0yiQu0POzXcfjEB6qBuhtj) | 3:40 |
-| 8 | [Summertime Magic](https://open.spotify.com/track/4j3GWI86JvSaF0BLdmgcfF) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Summer Pack](https://open.spotify.com/album/15k99o4mZJ9mfpQGIOrZ45) | 3:33 |
+| 7 | [Summertime Magic](https://open.spotify.com/track/4j3GWI86JvSaF0BLdmgcfF) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Summer Pack](https://open.spotify.com/album/15k99o4mZJ9mfpQGIOrZ45) | 3:33 |
+| 8 | [Ai, Amor](https://open.spotify.com/track/3bR8wBqLky6b61ROJlaBEF) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [O Tempo É Agora](https://open.spotify.com/album/0yiQu0POzXcfjEB6qBuhtj) | 3:40 |
 | 9 | [Brazilian Soul \(feat\. Sofi Tukker\) \- Acoustic Bossa Version](https://open.spotify.com/track/5iX7aAVoO3dzUOZ1eAvg6f) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Brazilian Soul \(feat\. Sofi Tukker\) \[Remixes\]](https://open.spotify.com/album/2OTIyP1zBOinX4qEj6x3Qa) | 4:10 |
 | 10 | [Sorri, Sou Rei \(feat\. Claudia Leitte\)](https://open.spotify.com/track/4UChhDCTtneR0QXN0btEmz) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO), [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Box Natiruts](https://open.spotify.com/album/6H7aEzVGlXJlMXfcZml7vP) | 5:32 |
 | 11 | [Voltei Pra Mim](https://open.spotify.com/track/3aexu2VagwWh2r3pd3PAJW) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [De Primeira](https://open.spotify.com/album/6bN5oG5wKJJqO0j7OhXVNt) | 3:18 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 | 24 | [Sweetie Odo](https://open.spotify.com/track/2UAl2nzSixQviGw0XJvJgY) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Sway Clarke](https://open.spotify.com/artist/1chXzMmrrsZU1vnIMMepTr) | [Colour](https://open.spotify.com/album/6DZAEmjvBrJq0a8sVHbf28) | 2:35 |
 | 25 | [O Velho e a Flor](https://open.spotify.com/track/1jw5vof9ru3gWPZQUnCu03) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [Novas Cores, Eternas Canções](https://open.spotify.com/album/658vM9Md7v0sSw7tEl8xYb) | 2:41 |
 | 26 | [Rap du Bom Parte II \- Mús\. Incid.: Odara](https://open.spotify.com/track/0EVhSaqb9Ig1XOvvkp48F1) | [Rappin' Hood](https://open.spotify.com/artist/7cLvBjizqjjdC350aOQ2KW), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Sujeito Homem 2](https://open.spotify.com/album/2fEyaMZVUrQqlEHtvV8SJD) | 7:15 |
-| 27 | [Notificação Ligada](https://open.spotify.com/track/7kItXrQ1NBReZrQpykM2eq) | [Julian Campos](https://open.spotify.com/artist/3Z6hZbspAZW7MdhWQTAhiR) | [28](https://open.spotify.com/album/7xwXeg80WaIT5tEXjusy2r) | 2:22 |
-| 28 | [Gabriela](https://open.spotify.com/track/03PYKiPPsk5L7RELtARc1N) | [IGOR](https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4) | [Bossatrap](https://open.spotify.com/album/4qh46kTMwWrfA2Xyw57uV9) | 3:04 |
+| 27 | [Gabriela](https://open.spotify.com/track/03PYKiPPsk5L7RELtARc1N) | [IGOR](https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4) | [Bossatrap](https://open.spotify.com/album/4qh46kTMwWrfA2Xyw57uV9) | 3:04 |
+| 28 | [Notificação Ligada](https://open.spotify.com/track/7kItXrQ1NBReZrQpykM2eq) | [Julian Campos](https://open.spotify.com/artist/3Z6hZbspAZW7MdhWQTAhiR) | [28](https://open.spotify.com/album/7xwXeg80WaIT5tEXjusy2r) | 2:22 |
 | 29 | [Café Com Leite](https://open.spotify.com/track/0icCp5ScnBbKdyvLNLMx3N) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc) | [Soft Power](https://open.spotify.com/album/787rB0eyQAaqCFn7LI0GVQ) | 4:22 |
 | 30 | [Garúa \(Sabor a Querer\)](https://open.spotify.com/track/39jlkB93dZvtx8RG0Zkhdc) | [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m), [Migliz](https://open.spotify.com/artist/0Wg0zqWRumeTT4AEMIVu2b) | [Garúa \(Sabor a Querer\)](https://open.spotify.com/album/0XiN7T7kky8LzThoVwbgNO) | 3:42 |
 | 31 | [Sexy](https://open.spotify.com/track/3hX4oYznwMulMXCMeT6Ia9) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Elephunk](https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD) | 4:43 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 | 59 | [Ya Sé](https://open.spotify.com/track/2ejZIgsZ5Ax9JbjPkWMK9W) | [Edu Requejo](https://open.spotify.com/artist/6ZNFH9pfiRpTSgJaKQBb8M) | [Ya Sé](https://open.spotify.com/album/7F8kZWnb4B1nN9wkFNgX15) | 2:43 |
 | 60 | [Baiana](https://open.spotify.com/track/2b13f0GSdL1ecyCTAUvZkP) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Sobre Crianças, Quadris, Pesadelos e Lições de Casa...](https://open.spotify.com/album/593RZfvtz4IAPWZpELwqDB) | 3:53 |
 
-Snapshot ID: `MTY3OTYyNjgwMCwwMDAwMDAwMDRlYjQ5ZjA5MzJhYjdhNTYxYWVhYjE3YzJlOGYyM2Uw`
+Snapshot ID: `MTY3OTYyNjgwMCwwMDAwMDAwMDAzMThlYzA5ZWQ1MThlYzkzOTE3NDcxOTdjMDQ0Mjc1`

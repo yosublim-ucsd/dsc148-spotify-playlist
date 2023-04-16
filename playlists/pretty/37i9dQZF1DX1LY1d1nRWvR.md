@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 
 > Kick back  and soak up the warm and soothing tones of jazz and electronic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,894 likes - 50 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,921 likes - 50 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 | 33 | [Eye Mo K](https://open.spotify.com/track/6o5bke7Cp481elgM8eTenO) | [Andrew Ashong](https://open.spotify.com/artist/2SJ3xpG9fseCPIqePAGp6o), [Kaidi Tatham](https://open.spotify.com/artist/1x2aM48UiN5WoQL6ISEPvz) | [Sankofa Season](https://open.spotify.com/album/4GsqSUelegSf0jTJyloIqz) | 5:42 |
 | 34 | [Another Story](https://open.spotify.com/track/0AW4hkKsAgn8pU7pGPnu9Y) | [Galcher Lustwerk](https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf) | [Information](https://open.spotify.com/album/5qMjQBgXiEDIoNFHatsaNA) | 4:06 |
 | 35 | [Servants Jaz House](https://open.spotify.com/track/3fmlNzB27d8Y5GW9lum3aT) | [Glenn Underground](https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc) | [The Jerusalem EP's](https://open.spotify.com/album/4C7ElGvtR8zpI19ixN8Y8G) | 6:47 |
-| 36 | [2 Far Gone](https://open.spotify.com/track/6MAL1HIq8S2qiKrdFiQAHF) | [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV), [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5) | [Dark Matter](https://open.spotify.com/album/4XRA7yDYWSkO5BMvZinESW) | 5:43 |
-| 37 | [Waiting 4 You](https://open.spotify.com/track/0dKpH9fPOWbH2q58WaluKI) | [Steve Spacek](https://open.spotify.com/artist/5IcRvSiReLydKCr56ObWuX) | [Houses](https://open.spotify.com/album/23X1T8RFr7C8sHbaVeNLDw) | 7:30 |
+| 36 | [Straight Line \- Neil Cowley Remix](https://open.spotify.com/track/2aZCiyNWSZp18PSokglthU) | [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC), [Neil Cowley](https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB) | [Straight Line \(Remixed\)](https://open.spotify.com/album/18KriOV8L1wKfthvb2m2LE) | 6:16 |
+| 37 | [2 Far Gone](https://open.spotify.com/track/6MAL1HIq8S2qiKrdFiQAHF) | [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV), [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5) | [Dark Matter](https://open.spotify.com/album/4XRA7yDYWSkO5BMvZinESW) | 5:43 |
 | 38 | [See\-Line Woman \- Main Mix](https://open.spotify.com/track/7hbcgPOAPdrub7ht2quP04) | [Atjazz](https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH), [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [See\-Line Woman](https://open.spotify.com/album/1tFCA00rZrSeGHA208PfVY) | 3:46 |
-| 39 | [Straight Line \- Neil Cowley Remix](https://open.spotify.com/track/2aZCiyNWSZp18PSokglthU) | [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC), [Neil Cowley](https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB) | [Straight Line \(Remixed\)](https://open.spotify.com/album/18KriOV8L1wKfthvb2m2LE) | 6:16 |
+| 39 | [Waiting 4 You](https://open.spotify.com/track/0dKpH9fPOWbH2q58WaluKI) | [Steve Spacek](https://open.spotify.com/artist/5IcRvSiReLydKCr56ObWuX) | [Houses](https://open.spotify.com/album/23X1T8RFr7C8sHbaVeNLDw) | 7:30 |
 | 40 | [Sloppy Cosmic](https://open.spotify.com/track/2E8EbnfOycV8BaUzbCsGqa) | [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX) | [Moodymann](https://open.spotify.com/album/61sGO58ljdDgD4Mn6Bcj3P) | 11:48 |
 | 41 | [Strings of Light](https://open.spotify.com/track/5yPowIqdVPFaBvBmhoLE0Y) | [Yussef Kamaal](https://open.spotify.com/artist/710FHFQeXKC6dZGCxt7kQh) | [Black Focus](https://open.spotify.com/album/1MioiNBndcGhsQOFk3l6fu) | 8:28 |
 | 42 | [Tanto Tiempo \- Village Cuts Remix](https://open.spotify.com/track/7opvEv3xPJsMIiPrvq4S5e) | [Scrimshire](https://open.spotify.com/artist/5iVIpHSJD1uKtL3impLoKL), [Penya](https://open.spotify.com/artist/33E3A9UvKfjQno9m6S5xwU), [Village Cuts](https://open.spotify.com/artist/1a3m42fKHHR2MsiBQK3GVU) | [Tanto Tiempo](https://open.spotify.com/album/37idrhwVE8BaAIw4uJ7klK) | 4:55 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 | 46 | [Night Of Desirable Objects](https://open.spotify.com/track/6aO19OZDf9v2mwDDAiwGvB) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Umami](https://open.spotify.com/album/6om5wLwMEeQcY1Uwlh7Oel) | 6:56 |
 | 47 | [Salaam](https://open.spotify.com/track/6Z6lYo8cyciwEU6goSrM0L) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS) | [The Return](https://open.spotify.com/album/0XKj7L2flZPg2i7efBZT2N) | 8:33 |
 | 48 | [Side Street](https://open.spotify.com/track/0kAp4TveJqWs5F0zmzjDhy) | [daniel hayn](https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO), [Anatole Muster](https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK), [Nicole McCabe](https://open.spotify.com/artist/00yDWlggrS34V03oLFjMbl), [Israel Strom](https://open.spotify.com/artist/07Z6BmMLQSWERbqmg4T8XL), [Tom Walsh](https://open.spotify.com/artist/4f619ZfS7lnjuCMukdcXxB) | [Side Street](https://open.spotify.com/album/07uKQeZ31FGZVbWXMIqeIU) | 3:37 |
-| 49 | [The Sun Is Warm and Directly Above You](https://open.spotify.com/track/51C6ZIS91sig8ZHrWtsWlt) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [The Sun Is Warm and Directly Above You](https://open.spotify.com/album/4Udumqsv1U3QVeND9tqVp1) | 3:42 |
-| 50 | [Mind](https://open.spotify.com/track/5sfTya6OQoW2rDLKSVT2Qk) | [Fatima](https://open.spotify.com/artist/5uNCGgWH5Id1cW8kh9Sc67), [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Follow You EP \(feat\. Floating Points\)](https://open.spotify.com/album/5dt7lQjyinjDt7y0a8tzmw) | 4:27 |
+| 49 | [Mind](https://open.spotify.com/track/5sfTya6OQoW2rDLKSVT2Qk) | [Fatima](https://open.spotify.com/artist/5uNCGgWH5Id1cW8kh9Sc67), [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Follow You EP \(feat\. Floating Points\)](https://open.spotify.com/album/5dt7lQjyinjDt7y0a8tzmw) | 4:27 |
+| 50 | [The Sun Is Warm and Directly Above You](https://open.spotify.com/track/51C6ZIS91sig8ZHrWtsWlt) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [The Sun Is Warm and Directly Above You](https://open.spotify.com/album/4Udumqsv1U3QVeND9tqVp1) | 3:42 |
 
-Snapshot ID: `MTYzMzcxNDU5NSwwMDAwMDAwMGYxNDJkYzkwNzNkN2U1YjQwM2E1ZjRlNzg1OGQzNTY2`
+Snapshot ID: `MTYzMzcxNDU5NSwwMDAwMDAwMGZiM2NjNDMzMmQwOWZkNTA2MjhhNGExMDcwYjQxNjY4`

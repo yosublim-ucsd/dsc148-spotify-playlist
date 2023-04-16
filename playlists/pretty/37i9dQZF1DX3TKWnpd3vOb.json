@@ -1,12 +1,12 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: Los Bunkers",
-  "num_followers": 200109,
+  "num_followers": 200116,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0MTIwMCwwMDAwMDAwMDQ2OTgwOGQxYjRjYTgyNTY1Y2M5MzgzMjI5ZDgxNWYz",
+  "snapshot_id": "MTY4MTQ0MTIwMCwwMDAwMDAwMGE5MTg1N2QyZDQxMjczOTJlNjYzMWFjODdlMDFiY2Uw",
   "tracks": [
     {
       "added_at": "2023-04-14 03:00:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Hollywood",
-        "url": "https://open.spotify.com/album/3VzbW4VDd8N5d0UwCMsVZC"
-      },
-      "artists": [
-        {
-          "name": "Cigarbox Man",
-          "url": "https://open.spotify.com/artist/6KvYkMetRUoKfIjEt9A0QV"
-        }
-      ],
-      "duration_ms": 215699,
-      "name": "Hollywood",
-      "url": "https://open.spotify.com/track/71qDE7UIjXoFFuMQix4aGE"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Sangre y Revoluci\u00f3n",
         "url": "https://open.spotify.com/album/5DCuvjIbb3I8CpBNE1UoFN"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 228530,
       "name": "Sangre y Revoluci\u00f3n",
       "url": "https://open.spotify.com/track/7F9YkBBy9UbisYPKEYu9bt"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Hollywood",
+        "url": "https://open.spotify.com/album/3VzbW4VDd8N5d0UwCMsVZC"
+      },
+      "artists": [
+        {
+          "name": "Cigarbox Man",
+          "url": "https://open.spotify.com/artist/6KvYkMetRUoKfIjEt9A0QV"
+        }
+      ],
+      "duration_ms": 215699,
+      "name": "Hollywood",
+      "url": "https://open.spotify.com/track/71qDE7UIjXoFFuMQix4aGE"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Despertar (Cuando Todo Quema)",
-        "url": "https://open.spotify.com/album/5HN0SbzXXWutMumpGzUJAk"
-      },
-      "artists": [
-        {
-          "name": "Massonico",
-          "url": "https://open.spotify.com/artist/1ztINaqHzkQnwJJR75cKfB"
-        }
-      ],
-      "duration_ms": 201496,
-      "name": "Despertar (Cuando Todo Quema)",
-      "url": "https://open.spotify.com/track/7nSP1Z0q3am5FizKDJTTOX"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Reversiones, Vol. 1",
         "url": "https://open.spotify.com/album/25Fry1roXU1jvvQOsOUgof"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 315241,
       "name": "Volver",
       "url": "https://open.spotify.com/track/69IG0p2mNwmnh6EtbwrUa5"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Despertar (Cuando Todo Quema)",
+        "url": "https://open.spotify.com/album/5HN0SbzXXWutMumpGzUJAk"
+      },
+      "artists": [
+        {
+          "name": "Massonico",
+          "url": "https://open.spotify.com/artist/1ztINaqHzkQnwJJR75cKfB"
+        }
+      ],
+      "duration_ms": 201496,
+      "name": "Despertar (Cuando Todo Quema)",
+      "url": "https://open.spotify.com/track/7nSP1Z0q3am5FizKDJTTOX"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Destino Final",
-        "url": "https://open.spotify.com/album/4tCScaVRF0iuf1EX65clDY"
-      },
-      "artists": [
-        {
-          "name": "Aut\u00f3ctonos de Ninguna Parte",
-          "url": "https://open.spotify.com/artist/7pqtHCx8vGUbM5sVb45peN"
-        }
-      ],
-      "duration_ms": 329875,
-      "name": "Destino Final",
-      "url": "https://open.spotify.com/track/7GMGv2nCPAMmfYzV1wiMLR"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Shawarma Love",
         "url": "https://open.spotify.com/album/43aSsiOqPkg2R2CCX3ufQx"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 231750,
       "name": "Shawarma Love",
       "url": "https://open.spotify.com/track/6Vi9Cf1rg1KSM7Vlnp1Wgn"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Destino Final",
+        "url": "https://open.spotify.com/album/4tCScaVRF0iuf1EX65clDY"
+      },
+      "artists": [
+        {
+          "name": "Aut\u00f3ctonos de Ninguna Parte",
+          "url": "https://open.spotify.com/artist/7pqtHCx8vGUbM5sVb45peN"
+        }
+      ],
+      "duration_ms": 329875,
+      "name": "Destino Final",
+      "url": "https://open.spotify.com/track/7GMGv2nCPAMmfYzV1wiMLR"
     },
     {
       "added_at": "2023-04-14 03:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "A playlist to get you through your whole workday.",
-  "num_followers": 261591,
+  "num_followers": 261640,
   "original_name": "Music for a Workday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxOTc3MTYzMSwwMDAwMDAwMDk1NWZmMTQ2Y2M0YTcyODI2MDY2NTkzYzBlOTU1NDdh",
+  "snapshot_id": "MTYxOTc3MTYzMSwwMDAwMDAwMGM1NDc3ZDk0MTI4NWVkMGQzNjA3ZDY5NTM1YjZhZjdk",
   "tracks": [
     {
       "added_at": "2021-04-30 08:33:50",
@@ -655,6 +655,22 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
+        "name": "Flicker (Deluxe)",
+        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 188174,
+      "name": "Slow Hands",
+      "url": "https://open.spotify.com/track/2cOUlop2ZakjOKe4WinesN"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
         "name": "Beautiful Trauma",
         "url": "https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 274693,
       "name": "You Say",
       "url": "https://open.spotify.com/track/6Up545NUflOiXo8cEraH49"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
-        "name": "Flicker (Deluxe)",
-        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 188174,
-      "name": "Slow Hands",
-      "url": "https://open.spotify.com/track/2cOUlop2ZakjOKe4WinesN"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -751,22 +751,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "Back To You (From 13 Reasons Why \u2013 Season 2 Soundtrack)",
-        "url": "https://open.spotify.com/album/3N7eWDCvfWv34xWNohdHjO"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 207904,
-      "name": "Back To You - From 13 Reasons Why \u2013 Season 2 Soundtrack",
-      "url": "https://open.spotify.com/track/4hQ6UGyWQIGJmHSo0J88JW"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "Nevermind",
         "url": "https://open.spotify.com/album/6c5gDwB7Xo58thk2vap4Ch"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 156600,
       "name": "Nevermind",
       "url": "https://open.spotify.com/track/63SevszngYpZOwf63o61K4"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "Back To You (From 13 Reasons Why \u2013 Season 2 Soundtrack)",
+        "url": "https://open.spotify.com/album/3N7eWDCvfWv34xWNohdHjO"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 207904,
+      "name": "Back To You - From 13 Reasons Why \u2013 Season 2 Soundtrack",
+      "url": "https://open.spotify.com/track/4hQ6UGyWQIGJmHSo0J88JW"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -831,22 +831,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "Crowded House",
-        "url": "https://open.spotify.com/album/1dJpgn1rqvvr4yyNYLEYBG"
-      },
-      "artists": [
-        {
-          "name": "Crowded House",
-          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
-        }
-      ],
-      "duration_ms": 236933,
-      "name": "Don't Dream It's Over",
-      "url": "https://open.spotify.com/track/7G7tgVYORlDuVprcYHuFJh"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "Dish of the Day",
         "url": "https://open.spotify.com/album/1VQkUcV1j0hbsZAFghmeXh"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 191026,
       "name": "Lemon Tree",
       "url": "https://open.spotify.com/track/1yr9HpAu3prvxmq783ZELn"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "Crowded House",
+        "url": "https://open.spotify.com/album/1dJpgn1rqvvr4yyNYLEYBG"
+      },
+      "artists": [
+        {
+          "name": "Crowded House",
+          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
+        }
+      ],
+      "duration_ms": 236933,
+      "name": "Don't Dream It's Over",
+      "url": "https://open.spotify.com/track/7G7tgVYORlDuVprcYHuFJh"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
+        "name": "hate u love u",
+        "url": "https://open.spotify.com/album/0rajxwGsaQ1sqoegXK6gvw"
+      },
+      "artists": [
+        {
+          "name": "Olivia O'Brien",
+          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
+        }
+      ],
+      "duration_ms": 175466,
+      "name": "hate u love u",
+      "url": "https://open.spotify.com/track/6ATgDc6e4sPn84hvJsAmPt"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
         "name": "Perfect Duet (Ed Sheeran & Beyonc\u00e9)",
         "url": "https://open.spotify.com/album/52kvZcbEDm0v2kWZQXjuuA"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 259550,
       "name": "Perfect Duet (Ed Sheeran & Beyonc\u00e9)",
       "url": "https://open.spotify.com/track/1bhUWB0zJMIKr9yVPrkEuI"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
-        "name": "hate u love u",
-        "url": "https://open.spotify.com/album/0rajxwGsaQ1sqoegXK6gvw"
-      },
-      "artists": [
-        {
-          "name": "Olivia O'Brien",
-          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
-        }
-      ],
-      "duration_ms": 175466,
-      "name": "hate u love u",
-      "url": "https://open.spotify.com/track/6ATgDc6e4sPn84hvJsAmPt"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "Sacred Hearts Club",
-        "url": "https://open.spotify.com/album/5lFvZh6pCTJzr9UStebyCF"
-      },
-      "artists": [
-        {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
-        }
-      ],
-      "duration_ms": 243146,
-      "name": "Sit Next to Me",
-      "url": "https://open.spotify.com/track/4BdGO1CaObRD4La9l5Zanz"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "HAIZ",
         "url": "https://open.spotify.com/album/1ABRc0UFHY3x6rKQeFBTQ0"
       },
@@ -1423,18 +1407,18 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "Lust For Life",
-        "url": "https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo"
+        "name": "Sacred Hearts Club",
+        "url": "https://open.spotify.com/album/5lFvZh6pCTJzr9UStebyCF"
       },
       "artists": [
         {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
         }
       ],
-      "duration_ms": 272742,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/2Kerz9H9IejzeIpjhDJoYG"
+      "duration_ms": 243146,
+      "name": "Sit Next to Me",
+      "url": "https://open.spotify.com/track/4BdGO1CaObRD4La9l5Zanz"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -1471,18 +1455,18 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "3 (The Purple Album)",
-        "url": "https://open.spotify.com/album/02gV87QEIFp2T9q7OqVBjj"
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo"
       },
       "artists": [
         {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 205440,
-      "name": "Love Someone",
-      "url": "https://open.spotify.com/track/0OCRwXbQRdOZ1OtB4Imsp1"
+      "duration_ms": 272742,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/2Kerz9H9IejzeIpjhDJoYG"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -1507,18 +1491,18 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/6fQ1xPtYMzoBiqvSO2LcpT"
+        "name": "3 (The Purple Album)",
+        "url": "https://open.spotify.com/album/02gV87QEIFp2T9q7OqVBjj"
       },
       "artists": [
         {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
         }
       ],
-      "duration_ms": 234106,
-      "name": "Naked",
-      "url": "https://open.spotify.com/track/7krbSH3rd8lhIZvuzTV3Bl"
+      "duration_ms": 205440,
+      "name": "Love Someone",
+      "url": "https://open.spotify.com/track/0OCRwXbQRdOZ1OtB4Imsp1"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -1539,6 +1523,22 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/6fQ1xPtYMzoBiqvSO2LcpT"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 234106,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/7krbSH3rd8lhIZvuzTV3Bl"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
         "name": "I Can See Clearly Now",
         "url": "https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU"
       },
@@ -1551,6 +1551,22 @@
       "duration_ms": 164733,
       "name": "I Can See Clearly Now - Edit",
       "url": "https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "The Good Parts",
+        "url": "https://open.spotify.com/album/0lq7zwC6uQiu8pwW5FK3Fb"
+      },
+      "artists": [
+        {
+          "name": "Andy Grammer",
+          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+        }
+      ],
+      "duration_ms": 198001,
+      "name": "Fresh Eyes",
+      "url": "https://open.spotify.com/track/5NDUXbMwcnTQp66tI2zcdR"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -1575,6 +1591,22 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
+        "name": "She's So Unusual: A 30th Anniversary Celebration (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4pox3k0CGuwwAknR9GtcoX"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "duration_ms": 243066,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/1Jj6MF0xDOMA3Ut2Z368Bx"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
         "name": "Lady Soul (With Bonus Selections)",
         "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
       },
@@ -1587,22 +1619,6 @@
       "duration_ms": 165333,
       "name": "(You Make Me Feel Like) A Natural Woman",
       "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
-        "name": "The Good Parts",
-        "url": "https://open.spotify.com/album/0lq7zwC6uQiu8pwW5FK3Fb"
-      },
-      "artists": [
-        {
-          "name": "Andy Grammer",
-          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
-        }
-      ],
-      "duration_ms": 198001,
-      "name": "Fresh Eyes",
-      "url": "https://open.spotify.com/track/5NDUXbMwcnTQp66tI2zcdR"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -1639,22 +1655,6 @@
       "duration_ms": 163905,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/6Ed1q0X8oSKSm4IIhiQbYg"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
-        "name": "She's So Unusual: A 30th Anniversary Celebration (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4pox3k0CGuwwAknR9GtcoX"
-      },
-      "artists": [
-        {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
-        }
-      ],
-      "duration_ms": 243066,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/1Jj6MF0xDOMA3Ut2Z368Bx"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 384306,
-      "name": "Heal the World",
-      "url": "https://open.spotify.com/track/7woW97CfcWaKtuC6W5BP2K"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "Confident",
         "url": "https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 191307,
       "name": "Stone Cold",
       "url": "https://open.spotify.com/track/3by8IfnW9dZ2t4pZw1WVxz"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 384306,
+      "name": "Heal the World",
+      "url": "https://open.spotify.com/track/7woW97CfcWaKtuC6W5BP2K"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "The Man Who Invented Soul",
-        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 125440,
-      "name": "(What A) Wonderful World",
-      "url": "https://open.spotify.com/track/2g2GkH3vZHk4lWzBjgQ6nY"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 219933,
       "name": "Forever (feat. Post Malone & Clever)",
       "url": "https://open.spotify.com/track/2ZlCGeK30BLRNSPC832pNZ"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "The Man Who Invented Soul",
+        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 125440,
+      "name": "(What A) Wonderful World",
+      "url": "https://open.spotify.com/track/2g2GkH3vZHk4lWzBjgQ6nY"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "This Is the Sea (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0LoiHiWrQr7b0a4wlYVqSh"
-      },
-      "artists": [
-        {
-          "name": "The Waterboys",
-          "url": "https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ"
-        }
-      ],
-      "duration_ms": 302826,
-      "name": "The Whole of the Moon - 2004 Remaster",
-      "url": "https://open.spotify.com/track/1LzFh1VZ0FLeUesOFEuhyl"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "Dusty In Memphis [Deluxe Edition]",
         "url": "https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg"
       },
@@ -2019,6 +2003,22 @@
       "duration_ms": 149160,
       "name": "Son of a Preacher Man",
       "url": "https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "This Is the Sea (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0LoiHiWrQr7b0a4wlYVqSh"
+      },
+      "artists": [
+        {
+          "name": "The Waterboys",
+          "url": "https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ"
+        }
+      ],
+      "duration_ms": 302826,
+      "name": "The Whole of the Moon - 2004 Remaster",
+      "url": "https://open.spotify.com/track/1LzFh1VZ0FLeUesOFEuhyl"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -2179,18 +2179,18 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "Rare",
-        "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx"
+        "name": "In the Midnight Hour",
+        "url": "https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU"
       },
       "artists": [
         {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
         }
       ],
-      "duration_ms": 220589,
-      "name": "Rare",
-      "url": "https://open.spotify.com/track/7HMmFQsKsljwTw8bS7lu19"
+      "duration_ms": 157160,
+      "name": "In the Midnight Hour",
+      "url": "https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -2215,22 +2215,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "In the Midnight Hour",
-        "url": "https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU"
-      },
-      "artists": [
-        {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
-        }
-      ],
-      "duration_ms": 157160,
-      "name": "In the Midnight Hour",
-      "url": "https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "The Man Who Invented Soul",
         "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
       },
@@ -2243,6 +2227,22 @@
       "duration_ms": 162533,
       "name": "Bring It On Home to Me",
       "url": "https://open.spotify.com/track/0WVTQp3SOCuMr08jh1jweV"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "Rare",
+        "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 220589,
+      "name": "Rare",
+      "url": "https://open.spotify.com/track/7HMmFQsKsljwTw8bS7lu19"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "Slow",
-        "url": "https://open.spotify.com/album/6u4ZwK6xSWHhREBVzhjQg6"
-      },
-      "artists": [
-        {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
-        }
-      ],
-      "duration_ms": 163547,
-      "name": "Slow",
-      "url": "https://open.spotify.com/track/1Ia95g66IhlAJ3qVI4qI8W"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "Her",
         "url": "https://open.spotify.com/album/2RewEjwnjhUnDlGpFnaBNx"
       },
@@ -2291,6 +2275,22 @@
       "duration_ms": 177568,
       "name": "Her",
       "url": "https://open.spotify.com/track/2GjQ5KNXggsIRpx5ZUj2zX"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "Slow",
+        "url": "https://open.spotify.com/album/6u4ZwK6xSWHhREBVzhjQg6"
+      },
+      "artists": [
+        {
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        }
+      ],
+      "duration_ms": 163547,
+      "name": "Slow",
+      "url": "https://open.spotify.com/track/1Ia95g66IhlAJ3qVI4qI8W"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -2363,22 +2363,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "Heat Wave",
-        "url": "https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK"
-      },
-      "artists": [
-        {
-          "name": "Martha Reeves & The Vandellas",
-          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
-        }
-      ],
-      "duration_ms": 163053,
-      "name": "(Love Is Like A) Heat Wave",
-      "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "G.R.L.",
         "url": "https://open.spotify.com/album/3EnagjeTqe4GvpF3dgVPtF"
       },
@@ -2395,18 +2379,34 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "Lady Soul (With Bonus Selections)",
-        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
+        "name": "Heat Wave",
+        "url": "https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK"
       },
       "artists": [
         {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
         }
       ],
-      "duration_ms": 167066,
-      "name": "Chain of Fools",
-      "url": "https://open.spotify.com/track/2oZmMp5M6L0Rh7G84Um2tF"
+      "duration_ms": 163053,
+      "name": "(Love Is Like A) Heat Wave",
+      "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/2pSH41L4EXqhGHyTjM2dA2"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 157220,
+      "name": "Up All Night",
+      "url": "https://open.spotify.com/track/1mpD5Q8IM32I4bF6eCpU74"
     }
   ],
   "unique_name": "Music for a Workday",

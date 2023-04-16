@@ -1,12 +1,12 @@
 {
   "description": "We outside. Cover: Popcaan",
-  "num_followers": 381882,
+  "num_followers": 382118,
   "original_name": "Dancehall Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg0NjQ1MCwwMDAwMDAwMDE1ZjYwYWQ4NmI4MWVkZGIyNzc3OWJiYzY5ZTNmN2Ex",
+  "snapshot_id": "MTY3Nzg0NjQ1MCwwMDAwMDAwMGY2NDkzMjY1MTdkYTY5MmIyOGM0Yjc1ZTUxM2M3MDgy",
   "tracks": [
     {
       "added_at": "2023-03-03 12:27:30",
@@ -203,6 +203,22 @@
     {
       "added_at": "2023-03-03 12:27:30",
       "album": {
+        "name": "Bruk Off Yuh Back",
+        "url": "https://open.spotify.com/album/46SMy1MXYZq5qnIpHKAd1U"
+      },
+      "artists": [
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        }
+      ],
+      "duration_ms": 173465,
+      "name": "Bruk Off Yuh Back",
+      "url": "https://open.spotify.com/track/30mNHDOw7qD5SF8tBeuPpu"
+    },
+    {
+      "added_at": "2023-03-03 12:27:30",
+      "album": {
         "name": "Great Is He",
         "url": "https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 245240,
       "name": "We Caa Done (feat. Drake)",
       "url": "https://open.spotify.com/track/11pzZVbS8g6g2tfgSQR4uG"
-    },
-    {
-      "added_at": "2023-03-03 12:27:30",
-      "album": {
-        "name": "Bruk Off Yuh Back",
-        "url": "https://open.spotify.com/album/46SMy1MXYZq5qnIpHKAd1U"
-      },
-      "artists": [
-        {
-          "name": "Konshens",
-          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
-        }
-      ],
-      "duration_ms": 173465,
-      "name": "Bruk Off Yuh Back",
-      "url": "https://open.spotify.com/track/30mNHDOw7qD5SF8tBeuPpu"
     },
     {
       "added_at": "2023-03-03 12:27:30",
@@ -367,42 +367,6 @@
     {
       "added_at": "2023-03-03 12:27:30",
       "album": {
-        "name": "Great Is He",
-        "url": "https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR"
-      },
-      "artists": [
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 166801,
-      "name": "Aboboyaa (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk"
-    },
-    {
-      "added_at": "2023-03-03 12:27:30",
-      "album": {
-        "name": "Mr Vegas: The Hits",
-        "url": "https://open.spotify.com/album/2ImQoEEg93DwKIIBtb5RLg"
-      },
-      "artists": [
-        {
-          "name": "Mr. Vegas",
-          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
-        }
-      ],
-      "duration_ms": 211333,
-      "name": "Heads High",
-      "url": "https://open.spotify.com/track/1mTEDYrH2BGlVA8FuXegji"
-    },
-    {
-      "added_at": "2023-03-03 12:27:30",
-      "album": {
         "name": "Pull up to Mi Bumper",
         "url": "https://open.spotify.com/album/72AxGSjTTU7SWGxcXEjXRS"
       },
@@ -423,6 +387,42 @@
     {
       "added_at": "2023-03-03 12:27:30",
       "album": {
+        "name": "Mr Vegas: The Hits",
+        "url": "https://open.spotify.com/album/2ImQoEEg93DwKIIBtb5RLg"
+      },
+      "artists": [
+        {
+          "name": "Mr. Vegas",
+          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
+        }
+      ],
+      "duration_ms": 211333,
+      "name": "Heads High",
+      "url": "https://open.spotify.com/track/1mTEDYrH2BGlVA8FuXegji"
+    },
+    {
+      "added_at": "2023-03-03 12:27:30",
+      "album": {
+        "name": "Great Is He",
+        "url": "https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 166801,
+      "name": "Aboboyaa (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk"
+    },
+    {
+      "added_at": "2023-03-03 12:27:30",
+      "album": {
         "name": "No Games",
         "url": "https://open.spotify.com/album/6GCvpB2OEXJfXRQYc4Ti42"
       },
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-03-03 12:27:30",
       "album": {
-        "name": "Ambala",
-        "url": "https://open.spotify.com/album/1l3bAkcbIMJW966ddTxnJm"
-      },
-      "artists": [
-        {
-          "name": "Squash",
-          "url": "https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00"
-        }
-      ],
-      "duration_ms": 142080,
-      "name": "Ambala",
-      "url": "https://open.spotify.com/track/35k0jeXz6vwKCasj2cRkSE"
-    },
-    {
-      "added_at": "2023-03-03 12:27:30",
-      "album": {
         "name": "Verified Choppa 2",
         "url": "https://open.spotify.com/album/0TXxumJZg93RO1JKZHDCtm"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 139093,
       "name": "Verified Choppa 2",
       "url": "https://open.spotify.com/track/3YQ5NYk2legzeloibRyXn1"
+    },
+    {
+      "added_at": "2023-03-03 12:27:30",
+      "album": {
+        "name": "Ambala",
+        "url": "https://open.spotify.com/album/1l3bAkcbIMJW966ddTxnJm"
+      },
+      "artists": [
+        {
+          "name": "Squash",
+          "url": "https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00"
+        }
+      ],
+      "duration_ms": 142080,
+      "name": "Ambala",
+      "url": "https://open.spotify.com/track/35k0jeXz6vwKCasj2cRkSE"
     },
     {
       "added_at": "2023-03-03 12:27:30",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-03-03 12:27:30",
       "album": {
-        "name": "Top Prize",
-        "url": "https://open.spotify.com/album/71X130a6rDyfFgOsIMX1on"
-      },
-      "artists": [
-        {
-          "name": "Alkaline",
-          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
-        }
-      ],
-      "duration_ms": 192500,
-      "name": "Top Prize",
-      "url": "https://open.spotify.com/track/0QtGz0BVckR9AIUke9wdKH"
-    },
-    {
-      "added_at": "2023-03-03 12:27:30",
-      "album": {
         "name": "Riddim Driven: Applause",
         "url": "https://open.spotify.com/album/0Oy4Q9QsoRFxdzcMVwF0Rm"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 219520,
       "name": "TEMPERATURE",
       "url": "https://open.spotify.com/track/6zSThntwhPtWU3my2y9I1F"
+    },
+    {
+      "added_at": "2023-03-03 12:27:30",
+      "album": {
+        "name": "Top Prize",
+        "url": "https://open.spotify.com/album/71X130a6rDyfFgOsIMX1on"
+      },
+      "artists": [
+        {
+          "name": "Alkaline",
+          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
+        }
+      ],
+      "duration_ms": 192500,
+      "name": "Top Prize",
+      "url": "https://open.spotify.com/track/0QtGz0BVckR9AIUke9wdKH"
     },
     {
       "added_at": "2023-03-03 12:27:30",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2023-03-03 12:27:30",
       "album": {
+        "name": "Riddim Driven: Smash",
+        "url": "https://open.spotify.com/album/0xLD1WvdqcgKtRxQwqQpTh"
+      },
+      "artists": [
+        {
+          "name": "Tony Matterhorn",
+          "url": "https://open.spotify.com/artist/6taesTUSevB9eK8bm5Y7b9"
+        }
+      ],
+      "duration_ms": 187506,
+      "name": "Dutty Wine",
+      "url": "https://open.spotify.com/track/5xhpnZ2vY8IDNrZPoii3fW"
+    },
+    {
+      "added_at": "2023-03-03 12:27:30",
+      "album": {
         "name": "Riddim Driven: Trippple Bounce",
         "url": "https://open.spotify.com/album/3t5RTHE4Zh7S0qeAbzPUwe"
       },
@@ -1395,18 +1411,18 @@
     {
       "added_at": "2023-03-03 12:27:30",
       "album": {
-        "name": "Riddim Driven: Smash",
-        "url": "https://open.spotify.com/album/0xLD1WvdqcgKtRxQwqQpTh"
+        "name": "No Fear",
+        "url": "https://open.spotify.com/album/1eju9TiiTgAimhhV0pxNOV"
       },
       "artists": [
         {
-          "name": "Tony Matterhorn",
-          "url": "https://open.spotify.com/artist/6taesTUSevB9eK8bm5Y7b9"
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
         }
       ],
-      "duration_ms": 187506,
-      "name": "Dutty Wine",
-      "url": "https://open.spotify.com/track/5xhpnZ2vY8IDNrZPoii3fW"
+      "duration_ms": 207053,
+      "name": "Infiltrate",
+      "url": "https://open.spotify.com/track/1lyrrWS0fqtYPLXntd5DwK"
     },
     {
       "added_at": "2023-03-03 12:27:30",
@@ -1427,22 +1443,6 @@
       "duration_ms": 161684,
       "name": "Boom Bang",
       "url": "https://open.spotify.com/track/437B7MVyS4cRTtwIBCDp39"
-    },
-    {
-      "added_at": "2023-03-03 12:27:30",
-      "album": {
-        "name": "No Fear",
-        "url": "https://open.spotify.com/album/1eju9TiiTgAimhhV0pxNOV"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 207053,
-      "name": "Infiltrate",
-      "url": "https://open.spotify.com/track/1lyrrWS0fqtYPLXntd5DwK"
     },
     {
       "added_at": "2023-03-03 12:27:30",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-03-03 12:27:30",
       "album": {
-        "name": "Hot Wuk 12\"",
-        "url": "https://open.spotify.com/album/5ez8QCCTVOHbRIjez9uU0O"
-      },
-      "artists": [
-        {
-          "name": "Mr. Vegas",
-          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
-        }
-      ],
-      "duration_ms": 229173,
-      "name": "Hot Wuk (Album Clean)",
-      "url": "https://open.spotify.com/track/2da3Y5CAzX4IZtuXnCD8DN"
-    },
-    {
-      "added_at": "2023-03-03 12:27:30",
-      "album": {
         "name": "Man a Star (Remix)",
         "url": "https://open.spotify.com/album/3hlpUSqZ8zVJ7tcvOg0LlR"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 192941,
       "name": "Man a Star - Remix",
       "url": "https://open.spotify.com/track/4uBjlrTaTTnhNQAGMIB982"
+    },
+    {
+      "added_at": "2023-03-03 12:27:30",
+      "album": {
+        "name": "Hot Wuk 12\"",
+        "url": "https://open.spotify.com/album/5ez8QCCTVOHbRIjez9uU0O"
+      },
+      "artists": [
+        {
+          "name": "Mr. Vegas",
+          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
+        }
+      ],
+      "duration_ms": 229173,
+      "name": "Hot Wuk (Album Clean)",
+      "url": "https://open.spotify.com/track/2da3Y5CAzX4IZtuXnCD8DN"
     },
     {
       "added_at": "2023-03-03 12:27:30",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 
 > So fresh, so smooth\. Cover: Jonathan Butler
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,903 likes - 100 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,971 likes - 100 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

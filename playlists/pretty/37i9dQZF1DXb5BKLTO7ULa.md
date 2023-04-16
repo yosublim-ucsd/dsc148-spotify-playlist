@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Goldband
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,178 likes - 101 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,200 likes - 101 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 31 | [Big Gyal](https://open.spotify.com/track/0kTrGbKCFZVe0Yz0kRFR1E) | [Ella John](https://open.spotify.com/artist/6bVNf3ejcCAVNod0LT1mC9), [Beckie](https://open.spotify.com/artist/26vgmDQj9sciypmPvShds8), [Eurosoundz](https://open.spotify.com/artist/09EhOOo1mFG5MNORvPQtzn) | [Big Gyal](https://open.spotify.com/album/65SyBOnD7wY14deU85HFCl) | 2:45 |
 | 32 | [New World](https://open.spotify.com/track/4j9XjA7cYOeX9KFKNk3WUz) | [Aime Simone](https://open.spotify.com/artist/75oAxYtjhDyLttgvGwQIvM) | [New World](https://open.spotify.com/album/6MTwKUXoJ0zWO8H8bshzqy) | 3:14 |
 | 33 | [The Redwing](https://open.spotify.com/track/60inSqhwmDN5m0kYSq5cJU) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn) | 3:18 |
-| 34 | [Do U Want Me Baby? \(feat\. Elphi\)](https://open.spotify.com/track/392tWI7KlzCkP2bmAOOqzS) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82), [Elphi](https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY) | [Do U Want Me Baby? \(feat\. Elphi\)](https://open.spotify.com/album/2okBYRPFzRqd6Ex5M5F34Y) | 2:22 |
+| 34 | [Do U Want Me Baby? \(feat\. Elphi\)](https://open.spotify.com/track/392tWI7KlzCkP2bmAOOqzS) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82), [Elphi](https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY) | [Do U Want Me Baby? \(feat\. Elphi\)](https://open.spotify.com/album/2okBYRPFzRqd6Ex5M5F34Y) | 2:23 |
 | 35 | [What Was](https://open.spotify.com/track/1mWISjhqdUaOCJMYrEpLJ6) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [What Was](https://open.spotify.com/album/2UormkcNVEx1y48KAY3B5T) | 3:35 |
 | 36 | [Confetti](https://open.spotify.com/track/0ELnNmc1vQFW3aPEzQ5zOg) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Confetti](https://open.spotify.com/album/4IvDhxrStvfyvnUy876AQY) | 3:04 |
 | 37 | [Meisje Van December](https://open.spotify.com/track/6nNPd6Lpv9eSffqn5P9sJk) | [Benjamin](https://open.spotify.com/artist/4bbWyNlf0IomlOPHEYba2d) | [Meisje Van December](https://open.spotify.com/album/6yJtY0dw0dKTbyyRHBCECz) | 2:50 |

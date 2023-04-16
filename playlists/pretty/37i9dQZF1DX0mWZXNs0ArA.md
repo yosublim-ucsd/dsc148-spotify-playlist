@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 
 > 150%
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,380,874 likes - 100 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,383,478 likes - 100 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 8 | [Die For You \- Sped Up](https://open.spotify.com/track/4LR9G3Vr27KaqrNm9aymBq) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Die For You](https://open.spotify.com/album/0hZdHrGRGnRKxmfabZme18) | 3:43 |
 | 9 | [Back That Up To The Beat \- sped up version](https://open.spotify.com/track/1ZvGlbx6sESozg3imglt83) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Back That Up To The Beat](https://open.spotify.com/album/2gDxombRu8s5Acs8EPKpqt) | 3:12 |
 | 10 | [WASTE \- Sped Up Version](https://open.spotify.com/track/72XhVH8vlREICt6NmT623Q) | [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [WASTE](https://open.spotify.com/album/2TVkegvyb70Hr9D7dQksql) | 1:40 |
-| 11 | [Escapism\. \- Sped Up](https://open.spotify.com/track/4rPJSqrov3zqGwXlemLBMw) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. \(Sped Up\)](https://open.spotify.com/album/1bdKI997loh6G68NED2cwX) | 3:59 |
+| 11 | [Escapism\. \- Sped Up](https://open.spotify.com/track/3XCpS4k8WqNnCpcDOSRRuz) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism.](https://open.spotify.com/album/4parxQfGC25WtlVVAm5S9q) | 3:59 |
 | 12 | [Step On Me \- Sped Up Version](https://open.spotify.com/track/7r28jv8dtlXDOoulEIPP04) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER), [Kuya Magik](https://open.spotify.com/artist/2XoYzhtOrvNdtu1NjyZsnb) | [Step On Me \(Sped Up Version\)](https://open.spotify.com/album/4Hvhn8Llylsg57osaLEVcJ) | 3:26 |
 | 13 | [Collide \(Sped Up Remix\)](https://open.spotify.com/track/1r6qzxz77Tvbrvqd1Q1MIN) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Collide \(Remix Pack\)](https://open.spotify.com/album/3mF3LQfPAiw2gAuj0BrzPG) | 3:41 |
 | 14 | [dumiri \(Sped Up\)](https://open.spotify.com/track/6a2CPvoOR6AYucxHxJhsNK) | [keltiey](https://open.spotify.com/artist/6ffRXY5wKedZhPTMa6WGys), [Nightcore Warped](https://open.spotify.com/artist/2jlZstmgG9Y4hoLMhfjOdu) | [dumiri \(Sped Up\)](https://open.spotify.com/album/1L1pI24Czropj5CRT8uYlm) | 2:38 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 46 | [I Can't \- Sped Up](https://open.spotify.com/track/62jwQiRfhqGR6GcbahCDWq) | [Montana99](https://open.spotify.com/artist/4b3DUSYA69Wfn0AmgD0Zaj) | [I Can't \- Sped Up](https://open.spotify.com/album/3AzbVwgBNAE49TZ86U4MoG) | 2:01 |
 | 47 | [Those Eyes \- Sped Up](https://open.spotify.com/track/6XDBohkvajOwoqr8jHPjzQ) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes \(Alternate Versions\)](https://open.spotify.com/album/55J0IqFDDMrc9v672IDED2) | 2:47 |
 | 48 | [Until I Found You \(Sped Up\) \- Heaven When I Held You Again How Could We Ever Just Be Friends](https://open.spotify.com/track/2w5aTimRJjWefNoXaoCpd4) | [Hiko](https://open.spotify.com/artist/0KYOBAf6Zky4CFQne2JPTX) | [Until I Found You \(Sped Up\) \- Heaven When I Held You Again How Could We Ever Just Be Friends](https://open.spotify.com/album/13JS9rH3cjTaWAjhrAxrpx) | 2:03 |
-| 49 | [I WANNA BE SAVED \(REMIX\)](https://open.spotify.com/track/7oGbiBAh5LiAoHVZZLyweS) | [ExotiiC\-](https://open.spotify.com/artist/3t98cVjC4AW3IPjCNsc3em) | [I WANNA BE SAVED \(REMIX\)](https://open.spotify.com/album/6Zu5FIic4qYK8bqZ1Kdq64) | 4:02 |
+| 49 | [I Wanna Be Saved \- Remix](https://open.spotify.com/track/7cTWKLGU20JeK01dTHJKTk) | [DJ Davion](https://open.spotify.com/artist/3hqsR0iIPaT2kcGKRATaMl) | [I Wanna Be Saved \(Remix\)](https://open.spotify.com/album/4jNCfTsT4tWB1bbrKLwI7V) | 4:02 |
 | 50 | [Them Changes \- Sped Up](https://open.spotify.com/track/6pod2VRHVTven17Da0uZHi) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Them Changes \(Sped Up\)](https://open.spotify.com/album/6BxctollBKIGGFZ8zAYLxw) | 2:15 |
 | 51 | [moment](https://open.spotify.com/track/5K9tfeoiztw94dyWzF39jq) | [Vierre Cloud](https://open.spotify.com/artist/31ijgiurmIPTNojkYQXdnl) | [moment](https://open.spotify.com/album/4FehFP4tVEFyT75LCTHl7m) | 2:09 |
 | 52 | [Drowning \- Sped Up Version](https://open.spotify.com/track/40x8vMUHIjqd2A5EtHEvAb) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Drowning \(Sped Up Version\)](https://open.spotify.com/album/3Z5FPyxx1sKOTzHsOnS4ZI) | 2:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 99 | [Wasted \(Nightcore\)](https://open.spotify.com/track/0zSDG1EI7SGhM62M5iBiGI) | [Murkish](https://open.spotify.com/artist/5anIaPEacO0S5sVfxg6cVw), [Huken](https://open.spotify.com/artist/2i5ApczYJfGAYrtf7QmjCV) | [Wasted \(Nightcore\)](https://open.spotify.com/album/338C6sxO1twtEJn8YqGeh4) | 3:14 |
 | 100 | [Cool for the Summer \- Sped Up \(Nightcore\)](https://open.spotify.com/track/4FYWOYqOF9lbb1JcZFDT67) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Cool for the Summer \[Sped Up \(Nightcore\)\]](https://open.spotify.com/album/410MZofhiv240ybaWhUxpc) | 3:11 |
 
-Snapshot ID: `MTY4MTQxMzY5NCwwMDAwMDAwMGVkNjA0ZmQzMDA3MjllNDVlZWI3YmUyMzM2NTBiYTRh`
+Snapshot ID: `MTY4MTQxMzY5NCwwMDAwMDAwMDY3OTgxZGVkNTBiMWVhZjVhM2U3NDQxMDExYTc2OTdm`

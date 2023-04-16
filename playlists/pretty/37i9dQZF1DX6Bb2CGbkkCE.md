@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Bb2CGbkkCE.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh?si=s0u7SNJXQQ\-JKMPH3p8dSw">Usain Bolt</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,648 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,669 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Bb2CGbkkCE.md) - [plain]
 | 41 | [SORRY NOT SORRY \(feat\. Nas, JAY\-Z & James Fauntleroy\) \- Harmonies by The Hive](https://open.spotify.com/track/5OypcrFg58e4k2iYHi69ED) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [KHALED KHALED](https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf) | 4:18 |
 | 42 | [Lock Down](https://open.spotify.com/track/1tdmgA42t9diBG4wleVU17) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK), [Usain Bolt](https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh) | [Lock Down](https://open.spotify.com/album/7iJDXxSGrAkRtYxChh4476) | 2:57 |
 | 43 | [Big Moves](https://open.spotify.com/track/5ZbQwNgXeuuKbVOPDam4JX) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY) | [Big Moves](https://open.spotify.com/album/19DUz6GJ0KKs1qJluRYzcQ) | 2:39 |
-| 44 | [Living the Dream](https://open.spotify.com/track/3UAYoYYAgyg7ZHpV59qZY5) | [Usain Bolt](https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh), [Nj](https://open.spotify.com/artist/3KNcuLUfY5AqiRXASRFWjC) | [Living the Dream](https://open.spotify.com/album/2PQOmBbpyV0hBm6P8HcBFE) | 2:48 |
-| 45 | [Weekend](https://open.spotify.com/track/4u4YhCbM8W7bK4mXrKgzO3) | [Munga Honorable](https://open.spotify.com/artist/4N6urvy01I1p3ZgWLDjmKU) | [Weekend](https://open.spotify.com/album/2px81nLEeDMKqaHeyMuYyz) | 2:20 |
+| 44 | [Weekend](https://open.spotify.com/track/4u4YhCbM8W7bK4mXrKgzO3) | [Munga Honorable](https://open.spotify.com/artist/4N6urvy01I1p3ZgWLDjmKU) | [Weekend](https://open.spotify.com/album/2px81nLEeDMKqaHeyMuYyz) | 2:20 |
+| 45 | [Living the Dream](https://open.spotify.com/track/3UAYoYYAgyg7ZHpV59qZY5) | [Usain Bolt](https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh), [Nj](https://open.spotify.com/artist/3KNcuLUfY5AqiRXASRFWjC) | [Living the Dream](https://open.spotify.com/album/2PQOmBbpyV0hBm6P8HcBFE) | 2:48 |
 | 46 | [Dweet](https://open.spotify.com/track/17v1kXWmTCnXMOoZ6wDjSs) | [Christopher Martin](https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj) | [Usain Bolt Presents: Olympe Rosé Riddim](https://open.spotify.com/album/2SkSBJ1pRPIsQODif3Wqhk) | 2:45 |
 | 47 | [Top a Di Top](https://open.spotify.com/track/1E50X8pyYgpZNYR9h7wj1L) | [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Top a Di Top](https://open.spotify.com/album/4Me1gzbHBfpc25iX0xLTEM) | 2:39 |
 | 48 | [Artificial](https://open.spotify.com/track/0im9PGSu7iT5JlLAFqfM4C) | [Demarco](https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6) | [Usain Bolt Presents: Immortal Riddim, Vol\. 2](https://open.spotify.com/album/4Pp36Kk5mWXwQQwndpOp4Y) | 2:36 |
 | 49 | [Timing](https://open.spotify.com/track/3DWw2xtPBpv4fmp6MtGSrT) | [Usain Bolt](https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh), [Nj](https://open.spotify.com/artist/3KNcuLUfY5AqiRXASRFWjC) | [Usain Bolt Presents: Clockwork Riddim](https://open.spotify.com/album/1DwPjiZIEfx2jkaZjoS8IY) | 3:09 |
 | 50 | [Need Your Love](https://open.spotify.com/track/0raznvhKo5fzYqZKCp7wzA) | [Usain Bolt](https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh), [Jae Xo](https://open.spotify.com/artist/6rsxtEBge43PfF3FU9BMdM), [Nj](https://open.spotify.com/artist/3KNcuLUfY5AqiRXASRFWjC) | [Need Your Love](https://open.spotify.com/album/5kz0klHGG1LrTDdcQxuxyf) | 3:05 |
 
-Snapshot ID: `MTY2NDY0MDAwMCwwMDAwMDAwMDA0Y2U3YzZjNDkzMTM0YjQyOTk2YTg5NmE4OTQ4OGYy`
+Snapshot ID: `MTY2NDY0MDAwMCwwMDAwMDAwMDM1OGMyZTMyY2ZiMzQ2MTI4OThmNTZjYzg5NWFhMDI1`

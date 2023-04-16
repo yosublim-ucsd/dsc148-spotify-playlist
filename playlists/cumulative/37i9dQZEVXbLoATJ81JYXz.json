@@ -2812,7 +2812,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 131013,
       "name": "Boy's a liar Pt. 2",
       "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
@@ -3574,6 +3574,24 @@
       "duration_ms": 170457,
       "name": "Chasing Stars (feat. James Bay)",
       "url": "https://open.spotify.com/track/6y6xhAgZjvxy5kR5rigpY3"
+    },
+    {
+      "album": {
+        "name": "Chemical",
+        "url": "https://open.spotify.com/album/6NoH5RUtjoh6ae2lJ9gWfq"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184004,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/4qzEjmuz380jeiBJp31oDY"
     },
     {
       "album": {
@@ -4388,6 +4406,24 @@
       "duration_ms": 148000,
       "name": "DAY ONE",
       "url": "https://open.spotify.com/track/3zLBP4HtaSYRA4NcAqS3Jo"
+    },
+    {
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212953,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
     },
     {
       "album": {
@@ -5506,7 +5542,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 132150,
       "name": "Du & Jag",
       "url": "https://open.spotify.com/track/1fOZciVVoZ1RqpuO5i2hbU"
@@ -5636,6 +5672,42 @@
       "duration_ms": 168827,
       "name": "Dum",
       "url": "https://open.spotify.com/track/3fd8cxZvehZNFD8KUri30T"
+    },
+    {
+      "album": {
+        "name": "Dum",
+        "url": "https://open.spotify.com/album/7sx7OC97FRNt0jg097FHRH"
+      },
+      "artists": [
+        {
+          "name": "Bolaget",
+          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168827,
+      "name": "Dum",
+      "url": "https://open.spotify.com/track/3fneVsIBA5RkkXsQhOW7pn"
+    },
+    {
+      "album": {
+        "name": "Dum av dej",
+        "url": "https://open.spotify.com/album/3DO3n0BmJmDsnQNhuCziQC"
+      },
+      "artists": [
+        {
+          "name": "Naod",
+          "url": "https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159428,
+      "name": "Dum av dej",
+      "url": "https://open.spotify.com/track/3i9UKYqNJtG0ufxxYimRu1"
     },
     {
       "album": {
@@ -11724,7 +11796,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 169640,
       "name": "John Daly",
       "url": "https://open.spotify.com/track/2bHkxIrKmodno557Z4BJBK"
@@ -12132,10 +12204,32 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 153946,
       "name": "Kill Bill",
       "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
+    },
+    {
+      "album": {
+        "name": "Kill Bill (feat. Doja Cat)",
+        "url": "https://open.spotify.com/album/4OanbmuJAWz8JPVE4cJA9L"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175836,
+      "name": "Kill Bill (feat. Doja Cat)",
+      "url": "https://open.spotify.com/track/0CrcwVLUe8wzLUIXgjXVZJ"
     },
     {
       "album": {
@@ -14302,7 +14396,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 152920,
       "name": "Many Men",
       "url": "https://open.spotify.com/track/04o5XzF41xA6NyMDcBW0oh"
@@ -15121,6 +15215,24 @@
     },
     {
       "album": {
+        "name": "Mitt hj\u00e4rta sl\u00e5r",
+        "url": "https://open.spotify.com/album/73G3wgTSioJbkJae7PGA9V"
+      },
+      "artists": [
+        {
+          "name": "estraden",
+          "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182600,
+      "name": "Mitt hj\u00e4rta sl\u00e5r",
+      "url": "https://open.spotify.com/track/1cvsD9PGQWEDWwdbIldP9i"
+    },
+    {
+      "album": {
         "name": "Mitt i juni",
         "url": "https://open.spotify.com/album/4rG6lspUIBAHRuKElGNzj3"
       },
@@ -15570,7 +15682,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 153043,
       "name": "Nakala",
       "url": "https://open.spotify.com/track/3y5fUcF94aDFxA2HjrERDt"
@@ -16088,7 +16200,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 130560,
       "name": "N\u00c4R RADION D\u00c5NAR",
       "url": "https://open.spotify.com/track/0c0Zlpn6fXtnz1XuASZdw1"
@@ -17762,6 +17874,32 @@
       "duration_ms": 155632,
       "name": "RAGGARHIMLEN",
       "url": "https://open.spotify.com/track/1gbty36aDBvrkV4Ux8Y20r"
+    },
+    {
+      "album": {
+        "name": "RAGGARTJEJ",
+        "url": "https://open.spotify.com/album/1DqRR6G367zSAAWFSCrh6R"
+      },
+      "artists": [
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        },
+        {
+          "name": "FR\u00d6KEN SNUSK",
+          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
+        },
+        {
+          "name": "Baddies",
+          "url": "https://open.spotify.com/artist/3xyExNQNROZjTvur6Za2DW"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151161,
+      "name": "RAGGARTJEJ",
+      "url": "https://open.spotify.com/track/3Fj4SihlXMFK5ziDs2y9vR"
     },
     {
       "album": {

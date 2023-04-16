@@ -1,12 +1,12 @@
 {
   "description": "The best new rock tracks every week. Cover: P\u00c6RISH",
-  "num_followers": 394642,
+  "num_followers": 394730,
   "original_name": "All New Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDg2MCwwMDAwMDAwMDY0NWRjZWI1N2I4YjY3YjJkM2JjZDcyYTg5NGMzYTNj",
+  "snapshot_id": "MTY4MTU2NjY0NywwMDAwMDAwMDNkODliOTgxMDJlZDRmZGQwN2U4ZDQ5ZTRhYmVkMGI0",
   "tracks": [
     {
       "added_at": "2023-04-14 04:01:00",
@@ -739,22 +739,6 @@
       "duration_ms": 213109,
       "name": "Psychopath",
       "url": "https://open.spotify.com/track/7KSAqfQp0BgllQJuimgdye"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "Cherophobe",
-        "url": "https://open.spotify.com/album/628bjj2XYcW0GISs7ei2fC"
-      },
-      "artists": [
-        {
-          "name": "The Royston Club",
-          "url": "https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD"
-        }
-      ],
-      "duration_ms": 256146,
-      "name": "Cherophobe",
-      "url": "https://open.spotify.com/track/5N2s4ZcU9sAuEHlnOMGzny"
     },
     {
       "added_at": "2023-04-14 04:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "if bunny is on, you know it's a good perreo.",
-  "num_followers": 186394,
+  "num_followers": 186503,
   "original_name": "bad bunny perreo mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg4MDQ4NiwwMDAwMDAwMDZjZGJlOGFiNTA4NTM5NjNkZTk2MDliZDIxNjY2Zjg3",
+  "snapshot_id": "MTY3Nzg4MDQ4NiwwMDAwMDAwMDhiNDg2YWIyNzY2OWM0ZTgzODkzZWM5MDI0M2U3YThh",
   "tracks": [
     {
       "added_at": "2023-03-03 21:54:46",
@@ -79,6 +79,26 @@
     {
       "added_at": "2023-03-03 21:54:46",
       "album": {
+        "name": "OASIS",
+        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 222346,
+      "name": "QUE PRETENDES",
+      "url": "https://open.spotify.com/track/25ZAibhr3bdlMCLmubZDVt"
+    },
+    {
+      "added_at": "2023-03-03 21:54:46",
+      "album": {
         "name": "Volando (Remix)",
         "url": "https://open.spotify.com/album/4MCZWUKxkvdMITh4KapBKX"
       },
@@ -99,26 +119,6 @@
       "duration_ms": 273474,
       "name": "Volando - Remix",
       "url": "https://open.spotify.com/track/0G2zPzWqVjR68iNPmx2TBe"
-    },
-    {
-      "added_at": "2023-03-03 21:54:46",
-      "album": {
-        "name": "OASIS",
-        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 222346,
-      "name": "QUE PRETENDES",
-      "url": "https://open.spotify.com/track/25ZAibhr3bdlMCLmubZDVt"
     },
     {
       "added_at": "2023-03-03 21:54:46",
@@ -263,6 +263,22 @@
     {
       "added_at": "2023-03-03 21:54:46",
       "album": {
+        "name": "Yonaguni",
+        "url": "https://open.spotify.com/album/6VSOIs13DaSG2IPilNviX5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 206710,
+      "name": "Yonaguni",
+      "url": "https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS"
+    },
+    {
+      "added_at": "2023-03-03 21:54:46",
+      "album": {
         "name": "OASIS",
         "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 187333,
       "name": "MOJAITA",
       "url": "https://open.spotify.com/track/71pEiUWwfDFiRO6RmFpnBf"
-    },
-    {
-      "added_at": "2023-03-03 21:54:46",
-      "album": {
-        "name": "Yonaguni",
-        "url": "https://open.spotify.com/album/6VSOIs13DaSG2IPilNviX5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 206710,
-      "name": "Yonaguni",
-      "url": "https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS"
     },
     {
       "added_at": "2023-03-03 21:54:46",

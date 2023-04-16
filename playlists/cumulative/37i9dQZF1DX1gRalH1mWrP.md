@@ -4,7 +4,7 @@
 
 > All the hits you'll need to make your summer sizzle.
 
-1,092 songs - 2 day 8 hr 27 min
+1,093 songs - 2 day 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [Celebrate \(feat\. Travis Scott & Post Malone\)](https://open.spotify.com/track/0b6UoVjUzFyZNpHI0aAhKt) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Father Of Asahd](https://open.spotify.com/album/1YgX8BWKleDlDeCOFklRfz) | 3:26 | 2019-05-26\* | 2019-06-15 |
 | [CHAMPAGNE](https://open.spotify.com/track/07FODcDcgXtr42gXgQ9D0M) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [CHAMPAGNE](https://open.spotify.com/album/7oNiw8m4TvJt5qGPtnyHxs) | 3:00 | 2022-04-29 | 2022-07-23 |
 | [chaotic](https://open.spotify.com/track/2bdqU7C4softKNcMYDFi96) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [chaotic](https://open.spotify.com/album/1nZmxiUXBgZZ82fy5A0yau) | 2:58 | 2022-04-12 | 2022-05-28 |
+| [Chemical](https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA) | 3:04 | 2023-04-14 |  |
 | [China](https://open.spotify.com/track/2ksOAxtIxY8yElEWw8RhgK) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [China](https://open.spotify.com/album/1PTTAq0OxggVgqP5WTYWDh) | 5:01 | 2019-07-27 | 2020-04-29 |
 | [Chosen \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/1dIWPXMX4kRHj6Dt2DStUQ) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [No Love Lost \(Deluxe\)](https://open.spotify.com/album/7AwrgenNcTAJlJF3pKL0Qr) | 2:41 | 2021-07-17 | 2022-03-22 |
 | [Circles](https://open.spotify.com/track/4VginDwYTP2eaHJzO0QMjG) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Circles](https://open.spotify.com/album/75n7rjlC1fxezRtoMQmtL5) | 3:34 | 2019-08-31 | 2020-04-29 |
@@ -907,7 +908,7 @@
 | [Summer In New York](https://open.spotify.com/track/5kyJ6sznnWACqHbw65p34Q) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [WET TENNIS](https://open.spotify.com/album/1u54eF07irCSSssyDG67R2) | 2:38 | 2022-05-06 | 2022-06-04 |
 | [Summer of Love \(Shawn Mendes & Tainy\)](https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Summer Of Love](https://open.spotify.com/album/4nProAxFavzKkbaRQ2Otyk) | 3:04 | 2021-08-29 | 2023-03-08 |
 | [Summer Rain](https://open.spotify.com/track/4MOUAKzdy6wa2AJHuuxIi8) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Summer Rain](https://open.spotify.com/album/6I3925ZMh8gJ4rSTovgSDp) | 3:20 | 2021-09-24 | 2022-03-21 |
-| [SUMMER RENAISSANCE](https://open.spotify.com/track/3HyR1j49TY5ACP2lseF1jx) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:33 | 2022-07-29 |  |
+| [SUMMER RENAISSANCE](https://open.spotify.com/track/3HyR1j49TY5ACP2lseF1jx) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:33 | 2022-07-29 | 2023-04-16 |
 | [Summer Time](https://open.spotify.com/track/7thHR3Kq23Djl0kED5GxEO) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Summer Time](https://open.spotify.com/album/3FSEnz3rAylZiOzasKGG5T) | 3:06 | 2020-06-29 | 2020-08-26 |
 | [sun and moon](https://open.spotify.com/track/769Ld8demNhMgVLAQcjTDn) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [sun and moon](https://open.spotify.com/album/4bUd4H9GN11TlKhJDBUGsc) | 2:31 | 2022-04-19 | 2023-03-08 |
 | [SUN GOES DOWN](https://open.spotify.com/track/34eF4BoV8FPk0uhAAoqU7h) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [SUN GOES DOWN](https://open.spotify.com/album/30jNiJYIOY3ok6LzaO0Wv0) | 2:48 | 2021-05-22 | 2021-09-18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViKwLyOBsJF.md) - [plain]
 
 > Traditional carols and hymns for a classic Christmas feeling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,344 likes - 58 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,336 likes - 58 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,11 +13,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViKwLyOBsJF.md) - [plain]
 | 3 | [Seven Joys Of Mary](https://open.spotify.com/track/6O289GwYiOa3i3AKU0EQwW) | [Stian Jarrell](https://open.spotify.com/artist/7xbTF9Vk9lIWrYFwZgeX9v) | [Seven Joys Of Mary](https://open.spotify.com/album/5rkt6ySKd4ozKi1xXOWj3m) | 2:24 |
 | 4 | [Es ist ein Ros entsprungen \(Arr\. R\. Hayward for Guitar\)](https://open.spotify.com/track/0diYZsE9aogD5itSwwNRtG) | [Rossini Hayward](https://open.spotify.com/artist/5EvaMEwPzhyR6T3quNHR1K) | [Stille Nacht: Christmas Carols for Guitar](https://open.spotify.com/album/3d5QmcTIJsOuQh2mU50x8F) | 1:46 |
 | 5 | [Sans Day Carol](https://open.spotify.com/track/17ECD7z521qoJRhO6N3iDB) | [Ken Dorset](https://open.spotify.com/artist/4x1bewuiV50ZFHLh6Jy3ZI) | [Sans Day Carol](https://open.spotify.com/album/6YCxlwZdYsYNKIoMZAWtM7) | 2:41 |
-| 6 | [Candlelight Carol](https://open.spotify.com/track/79iIraI9M4e0zWht6rE50N) | [John Rutter](https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe), [Wayne Marshall](https://open.spotify.com/artist/79q1TT7yMwKjyLdE1LL16u) | [Candlelight Carol](https://open.spotify.com/album/1Dttw1GpfmxFcz48e46STq) | 2:47 |
+| 6 | [Rutter: Candlelight Carol](https://open.spotify.com/track/79iIraI9M4e0zWht6rE50N) | [John Rutter](https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe), [Wayne Marshall](https://open.spotify.com/artist/79q1TT7yMwKjyLdE1LL16u) | [Candlelight Carol](https://open.spotify.com/album/1Dttw1GpfmxFcz48e46STq) | 2:47 |
 | 7 | [Hark! the Herald Angels Sing](https://open.spotify.com/track/6UJEo8y9mfG7oymaDrsVXM) | [Sarah Brooks](https://open.spotify.com/artist/7d0kRVs5S78oKXf98cUDaN) | [Simply Christmas: Instrumental Hymns](https://open.spotify.com/album/0E4NGHzqWYQjxT26ldESgq) | 1:57 |
 | 8 | [Star of Bethlehem](https://open.spotify.com/track/1B96IivJCEW4s9d7yODqZa) | [Emma Shynes](https://open.spotify.com/artist/7ie1xJZZDKyTGc3FxBTjTd) | [Star of Bethlehem](https://open.spotify.com/album/6VZJBmEQ9FbMmWDYuyxCN8) | 3:07 |
 | 9 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/2Er9oTJkPruq8pao8aZY8s) | [J\. L\. Marshall](https://open.spotify.com/artist/05f0QRzwQpjLRJwTdQgDZw) | [Merry Christmas \(Favorite Holiday Piano Music for a Festive Occasion\)](https://open.spotify.com/album/5xRd9gJJ47uB3cXtMqw741) | 1:28 |
-| 10 | [What Sweeter Music](https://open.spotify.com/track/0vm7QUQN5oSsgCpTaktYvm) | [John Rutter](https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe), [Wayne Marshall](https://open.spotify.com/artist/79q1TT7yMwKjyLdE1LL16u) | [What Sweeter Music](https://open.spotify.com/album/5VYwzFtbdFy2k6RfpmWsM7) | 4:17 |
+| 10 | [Rutter: What Sweeter Music](https://open.spotify.com/track/0vm7QUQN5oSsgCpTaktYvm) | [John Rutter](https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe), [Wayne Marshall](https://open.spotify.com/artist/79q1TT7yMwKjyLdE1LL16u) | [What Sweeter Music](https://open.spotify.com/album/5VYwzFtbdFy2k6RfpmWsM7) | 4:17 |
 | 11 | [Do You Hear What I Hear](https://open.spotify.com/track/4cchwOn0AJBffk0mlB8wmU) | [Manny Heights](https://open.spotify.com/artist/3whru6xFIYhdqBRrDD12Wb) | [I Heard The Bells On Christmas Day](https://open.spotify.com/album/3GfMZyyP8eMXxsNrU9jFPA) | 3:20 |
 | 12 | [O Tannenbaum](https://open.spotify.com/track/6x3dy83g7vEmzd6z8wCVhK) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Christmas](https://open.spotify.com/album/4dZqm3SWryHNPXOPJ39AyP) | 2:30 |
 | 13 | [Entre le bœuf et l'âne gris \(Arr\. R\. Hayward for Guitar\)](https://open.spotify.com/track/6xT8cqiLYkHJIy2HaHC9ef) | [Rossini Hayward](https://open.spotify.com/artist/5EvaMEwPzhyR6T3quNHR1K) | [Stille Nacht: Christmas Carols for Guitar](https://open.spotify.com/album/3d5QmcTIJsOuQh2mU50x8F) | 2:14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 
 > el amor es <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,889 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,949 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 40 | [Torpe](https://open.spotify.com/track/7K1fAw9P8R73Sc6CpgIgJH) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Torpe](https://open.spotify.com/album/0V3VrTi9ioSHgy4kM9aRf4) | 4:12 |
 | 41 | [Tenemos que hablar](https://open.spotify.com/track/1pSwtcaRE3LbpKiOK00l4N) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Tenemos que hablar](https://open.spotify.com/album/4bza078y7xvT1KpPoVzbx2) | 3:33 |
 | 42 | [Florecer](https://open.spotify.com/track/0uEwlYeHAiVNUCcXbx6ntR) | [valeria dávila](https://open.spotify.com/artist/2CoZrPsp90NW3x0jvWKmbj) | [Florecer](https://open.spotify.com/album/3KvbOKpjZB95IwRwnW0TZk) | 3:34 |
-| 43 | [Quería Volverte a Ver](https://open.spotify.com/track/2o5rzkYatnrHVUYrCbRFnE) | [Los Claxons](https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf), [Román Torres](https://open.spotify.com/artist/1LqUT7DfWYks6bAltUOlOg) | [Quería Volverte a Ver](https://open.spotify.com/album/7K9bGfbvaK3k2DRjyWLBPO) | 4:11 |
-| 44 | [Flecha](https://open.spotify.com/track/6XtOM0xVBmhjX8mRkrWo9z) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Flecha](https://open.spotify.com/album/6ppWzVBtrtH6Pfzkz1gx9V) | 3:53 |
-| 45 | [Siempre Te Voy a Querer](https://open.spotify.com/track/2f0LLHCip3EIflKwKlSAJV) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [Los Días en la Sala](https://open.spotify.com/album/3n8yXa8oKTRbja348a3V45) | 2:43 |
+| 43 | [Siempre Te Voy a Querer](https://open.spotify.com/track/2f0LLHCip3EIflKwKlSAJV) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [Los Días en la Sala](https://open.spotify.com/album/3n8yXa8oKTRbja348a3V45) | 2:43 |
+| 44 | [Quería Volverte a Ver](https://open.spotify.com/track/2o5rzkYatnrHVUYrCbRFnE) | [Los Claxons](https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf), [Román Torres](https://open.spotify.com/artist/1LqUT7DfWYks6bAltUOlOg) | [Quería Volverte a Ver](https://open.spotify.com/album/7K9bGfbvaK3k2DRjyWLBPO) | 4:11 |
+| 45 | [Flecha](https://open.spotify.com/track/6XtOM0xVBmhjX8mRkrWo9z) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Flecha](https://open.spotify.com/album/6ppWzVBtrtH6Pfzkz1gx9V) | 3:53 |
 | 46 | [Compartir](https://open.spotify.com/track/5E0Jl45E0UWwZ4H9VhnI9i) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Mientras Tú Dormías](https://open.spotify.com/album/7l2XHKAWiZMr2A7wFiZl8Z) | 4:19 |
 | 47 | [Te Encontré](https://open.spotify.com/track/7jcOfJG3z9Bt543UQSg72w) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Tu Historia](https://open.spotify.com/album/5e3dSyeSBjthMeTcNJ6VBF) | 3:32 |
 | 48 | [Dibujos De Mi Alma](https://open.spotify.com/track/32c15DJj92CagqUmp7idZ3) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Dibujos De Mi Alma](https://open.spotify.com/album/3KoomUMVp4pOCZg8YIg58l) | 4:12 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 71 | [Volver](https://open.spotify.com/track/0PSmtygePqmxByr5eh0HST) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Volver](https://open.spotify.com/album/68M1eXLRiP9zLQOZbmSth7) | 3:10 |
 | 72 | [Caguamita Banquetera](https://open.spotify.com/track/20CVdUmIYyPy5Qcqr7uzrj) | [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3) | [Caguamita Banquetera](https://open.spotify.com/album/4IoOjS1QllQtS7JV6ltzLG) | 2:35 |
 | 73 | [Señorita](https://open.spotify.com/track/7IOwZ2dsEZCg2NCeX7MCsm) | [Felipe Botello y El Sonoro Rugir](https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr) | [Señorita](https://open.spotify.com/album/6j6DsW88KYbKSe7qrzJLPE) | 3:29 |
-| 74 | [Automático](https://open.spotify.com/track/6Yr96hQHVxOsysOEiAxaUl) | [Juan Solo](https://open.spotify.com/artist/033ki1tu7MbVUn1nhuD2yV) | [Automático](https://open.spotify.com/album/6MQEA52oQyxgPLiZ0B3lDI) | 3:06 |
+| 74 | [Ir por un Café](https://open.spotify.com/track/0oYWgghilCHzscMzQOVONP) | [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF) | [Ir por un Café](https://open.spotify.com/album/56uFQSAHC1c2PwWux1GeaD) | 3:20 |
 | 75 | [Para Verte](https://open.spotify.com/track/4aiIi5Nn7EdDhoiw5DywDk) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Para Verte](https://open.spotify.com/album/43b9yizo1mckUfWgItr7nk) | 3:02 |
 
-Snapshot ID: `MTY4MDI3NzczOCwwMDAwMDAwMDQ3NDYxMGNhYTM1ZTI5Zjg4MmRiYzk4ZjA2OGNlOGVh`
+Snapshot ID: `MTY4MDI3NzczOCwwMDAwMDAwMDIwODY2MDE4NzQ5YTNhODExYjA0MTc0MmZlNTNkNjM4`

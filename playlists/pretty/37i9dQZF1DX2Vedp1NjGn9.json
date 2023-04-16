@@ -1,12 +1,12 @@
 {
   "description": "2011 highlights from the home of indie music.",
-  "num_followers": 86663,
+  "num_followers": 86767,
   "original_name": "Best of Indie 2011",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjQ0NCwwMDAwMDAwMGFmOGI4YzE0ODYwZjcwMDIzYTFmYTVkZjFjYjFlZGNj",
+  "snapshot_id": "MTY1MDkxNjQ0NCwwMDAwMDAwMDQzZWI1MGNiN2I2NzEzODE1N2Y1YmI1ZDc2YjVkYzI3",
   "tracks": [
     {
       "added_at": "2021-09-02 08:15:11",
@@ -187,22 +187,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "The Head And The Heart",
-        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 284000,
-      "name": "Rivers and Roads",
-      "url": "https://open.spotify.com/track/3z7kvwJVRfA4HCOfm9ngog"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "Born To Die \u2013 Paradise Edition (Special Version)",
         "url": "https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 281946,
       "name": "Video Games",
       "url": "https://open.spotify.com/track/3WD91HQDBIavSapet3ZpjG"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "The Head And The Heart",
+        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 284000,
+      "name": "Rivers and Roads",
+      "url": "https://open.spotify.com/track/3z7kvwJVRfA4HCOfm9ngog"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -587,22 +587,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Ceremonials (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 271013,
-      "name": "Never Let Me Go",
-      "url": "https://open.spotify.com/track/6cC9RY7MoUx5z3aHjDTNI6"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "Nightlife",
         "url": "https://open.spotify.com/album/4XvCeI5IFiB569sJwbZxB9"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 258186,
       "name": "Don't Move",
       "url": "https://open.spotify.com/track/3p0rvHL2zfHAlXAgnHC4GI"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Ceremonials (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 271013,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/6cC9RY7MoUx5z3aHjDTNI6"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -795,18 +795,18 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "The Year of Hibernation",
-        "url": "https://open.spotify.com/album/7jG32gfkuo10qarPgmWC7q"
+        "name": "Megalithic Symphony",
+        "url": "https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv"
       },
       "artists": [
         {
-          "name": "Youth Lagoon",
-          "url": "https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti"
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
         }
       ],
-      "duration_ms": 236000,
-      "name": "17",
-      "url": "https://open.spotify.com/track/5UVBumEwdUnzvqxrXOYLFA"
+      "duration_ms": 178840,
+      "name": "Kill Your Heroes",
+      "url": "https://open.spotify.com/track/7LJF6AtijSniUJpmZTqKRj"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -843,18 +843,18 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Megalithic Symphony",
-        "url": "https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv"
+        "name": "The Year of Hibernation",
+        "url": "https://open.spotify.com/album/7jG32gfkuo10qarPgmWC7q"
       },
       "artists": [
         {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+          "name": "Youth Lagoon",
+          "url": "https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti"
         }
       ],
-      "duration_ms": 178840,
-      "name": "Kill Your Heroes",
-      "url": "https://open.spotify.com/track/7LJF6AtijSniUJpmZTqKRj"
+      "duration_ms": 236000,
+      "name": "17",
+      "url": "https://open.spotify.com/track/5UVBumEwdUnzvqxrXOYLFA"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "His Young Heart",
-        "url": "https://open.spotify.com/album/7sONOKbe7yLIfXeJPaSt3j"
-      },
-      "artists": [
-        {
-          "name": "Daughter",
-          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
-        }
-      ],
-      "duration_ms": 293320,
-      "name": "Candles",
-      "url": "https://open.spotify.com/track/0c6z0CQLmIAEOCfhNvh3n3"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "Hurry Up, We're Dreaming",
         "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 235374,
       "name": "Reunion",
       "url": "https://open.spotify.com/track/7zZkPiqHnL7icGGb4Almf6"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "His Young Heart",
+        "url": "https://open.spotify.com/album/7sONOKbe7yLIfXeJPaSt3j"
+      },
+      "artists": [
+        {
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+        }
+      ],
+      "duration_ms": 293320,
+      "name": "Candles",
+      "url": "https://open.spotify.com/track/0c6z0CQLmIAEOCfhNvh3n3"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "You Are All I See",
-        "url": "https://open.spotify.com/album/0naMIQoMmwqmpXiO7qFqCX"
+        "name": "Ceremonials (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx"
       },
       "artists": [
         {
-          "name": "Active Child",
-          "url": "https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU"
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 321453,
-      "name": "Hanging On",
-      "url": "https://open.spotify.com/track/6o4lFpp8OAFhBqGQbWyAob"
+      "duration_ms": 333466,
+      "name": "What The Water Gave Me",
+      "url": "https://open.spotify.com/track/3RiOPzAvhNKuMIdPYOrKV8"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Ceremonials (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx"
+        "name": "You Are All I See",
+        "url": "https://open.spotify.com/album/0naMIQoMmwqmpXiO7qFqCX"
       },
       "artists": [
         {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+          "name": "Active Child",
+          "url": "https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU"
         }
       ],
-      "duration_ms": 333466,
-      "name": "What The Water Gave Me",
-      "url": "https://open.spotify.com/track/3RiOPzAvhNKuMIdPYOrKV8"
+      "duration_ms": 321453,
+      "name": "Hanging On",
+      "url": "https://open.spotify.com/track/6o4lFpp8OAFhBqGQbWyAob"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "His Young Heart",
-        "url": "https://open.spotify.com/album/7sONOKbe7yLIfXeJPaSt3j"
-      },
-      "artists": [
-        {
-          "name": "Daughter",
-          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
-        }
-      ],
-      "duration_ms": 263906,
-      "name": "Landfill",
-      "url": "https://open.spotify.com/track/271FGAt4bz1jAIN661Uq2c"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "W H O K I L L",
         "url": "https://open.spotify.com/album/3ZjiKy5Tb1MIFRyGBBzoos"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 263733,
       "name": "Bizness",
       "url": "https://open.spotify.com/track/08oSPuXfichvi5VRAaewbV"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "His Young Heart",
+        "url": "https://open.spotify.com/album/7sONOKbe7yLIfXeJPaSt3j"
+      },
+      "artists": [
+        {
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+        }
+      ],
+      "duration_ms": 263906,
+      "name": "Landfill",
+      "url": "https://open.spotify.com/track/271FGAt4bz1jAIN661Uq2c"
     },
     {
       "added_at": "2021-09-02 08:15:11",

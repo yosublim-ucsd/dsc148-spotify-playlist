@@ -1149,28 +1149,6 @@
     },
     {
       "album": {
-        "name": "Eden Roc",
-        "url": "https://open.spotify.com/album/5jRyFJtnadQ4XkSwL8mUzM"
-      },
-      "artists": [
-        {
-          "name": "Ludovico Einaudi",
-          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
-        },
-        {
-          "name": "Marco Decimo",
-          "url": "https://open.spotify.com/artist/11IgISNFApjwaLP6Y64tEz"
-        }
-      ],
-      "date_added": "2022-06-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 292626,
-      "name": "Due Tramonti",
-      "url": "https://open.spotify.com/track/3piSeZsUx79vyAJYMpODvy"
-    },
-    {
-      "album": {
         "name": "Intense Study",
         "url": "https://open.spotify.com/album/32eYFP8o7dEY5wZHmsAsa9"
       },
@@ -1190,6 +1168,28 @@
       "duration_ms": 295253,
       "name": "Due Tramonti - Remastered 2020",
       "url": "https://open.spotify.com/track/75mftjWT7Y2liZUspPMHik"
+    },
+    {
+      "album": {
+        "name": "Eden Roc",
+        "url": "https://open.spotify.com/album/5jRyFJtnadQ4XkSwL8mUzM"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        },
+        {
+          "name": "Marco Decimo",
+          "url": "https://open.spotify.com/artist/11IgISNFApjwaLP6Y64tEz"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292626,
+      "name": "Einaudi: Due Tramonti",
+      "url": "https://open.spotify.com/track/3piSeZsUx79vyAJYMpODvy"
     },
     {
       "album": {
@@ -1940,7 +1940,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 314386,
-      "name": "Nisi Dominus, RV 608: 4. Cum dederit dilectis suis (Arr. Cello)",
+      "name": "Nisi Dominus, RV 608 - Arr. Cello: 4. Cum dederit dilectis suis (Arr. Cello)",
       "url": "https://open.spotify.com/track/7oGaoWA4jzX48NmXZ4tWOd"
     },
     {

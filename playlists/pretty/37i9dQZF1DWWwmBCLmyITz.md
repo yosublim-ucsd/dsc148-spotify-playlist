@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwmBCLmyITz.md) - [plain]
 
 > Check out the actors' selections through playlists and Clips! Also, listen to the soundtracks of JTBC's drama Agency\. \(JTBC 드라마 대행사의 사운드 트랙들을 즐겨보세요! 배우진들이 직접 선곡한 노래들을 플레이리스트와 클립스를 통해 확인해보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,846 likes - 44 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,849 likes - 44 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwmBCLmyITz.md) - [plain]
 | 14 | [손나은 추천곡 소개\(Curated by Son Na Eun\)](https://open.spotify.com/track/0hiuqwrfW4gGeuMs2weVwX) | [Son Na Eun](https://open.spotify.com/artist/3k5Lsr3T7BcYtyk1adkEzU) | [Agency Audio liner](https://open.spotify.com/album/2fl3vwhqnqmeDTaq7uaEQf) | 0:15 |
 | 15 | [BILLIE EILISH.](https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BILLIE EILISH.](https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA) | 1:39 |
 | 16 | [i'm yours sped up](https://open.spotify.com/track/4sFGNz4MYpGoz53ZGCwsiE) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [i'm yours](https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3) | 2:07 |
-| 17 | [Escapism\. \- Sped Up](https://open.spotify.com/track/4rPJSqrov3zqGwXlemLBMw) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. \(Sped Up\)](https://open.spotify.com/album/1bdKI997loh6G68NED2cwX) | 3:59 |
+| 17 | [Escapism\. \- Sped Up](https://open.spotify.com/track/3XCpS4k8WqNnCpcDOSRRuz) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism.](https://open.spotify.com/album/4parxQfGC25WtlVVAm5S9q) | 3:59 |
 | 18 | [Bikini Bottom](https://open.spotify.com/track/27Qz0cFmMGADsniMeUwyUe) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Bikini Bottom](https://open.spotify.com/album/2n38ZBBmPSssEGGPgu6NPl) | 1:46 |
 | 19 | [Stay Awake](https://open.spotify.com/track/5k9kxCcae70vUElndjveXT) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Heartz](https://open.spotify.com/album/1POWgdYTzfFt9rhKlXFwsU) | 3:33 |
 | 20 | [한준우 추천곡 소개\(Curated by Han Junwoo\)](https://open.spotify.com/track/5en09P3gHbr4nkzbDlPPgw) | [Han Junwoo](https://open.spotify.com/artist/2gzqQtZswSjE2ohjYve4HA) | [Agency Audio liner](https://open.spotify.com/album/2fl3vwhqnqmeDTaq7uaEQf) | 0:18 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwmBCLmyITz.md) - [plain]
 | 43 | [Don't Say \- Instrumental](https://open.spotify.com/track/3Iehtm7dlKIFTJxib1yEC9) | [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE) | [Agency \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/7klfOSxLJwZGUL2Yx5dp2i) | 2:54 |
 | 44 | [Talk To Me \- Instrumental](https://open.spotify.com/track/5WYwLEQPQc8lLejVjUOjzj) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Agency \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/4kxQHWEz78fPpTBZQtzpm4) | 3:44 |
 
-Snapshot ID: `MTY3NzA1MjM3NSwwMDAwMDAwMDA1MjhmY2FkN2VhYzA5ZDEzZDBkOWM2NTYxZDg4OTRj`
+Snapshot ID: `MTY3NzA1MjM3NSwwMDAwMDAwMGM3MjdmMjQzZDU4NWY0ZGM4MDMwNWFmZGU4YmUyMmFh`

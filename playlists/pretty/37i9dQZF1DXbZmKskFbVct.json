@@ -1,12 +1,12 @@
 {
   "description": "Soothing ASMR whispers to help you drift off to sleep. Slow, soft and calming.",
-  "num_followers": 31540,
+  "num_followers": 31543,
   "original_name": "ASMR Sleep Whispers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM0NTcyMiwwMDAwMDAwMGFiNGU3NGRkZWYyMGE2OTE2ZjE0M2E4OGMwMmM1Mzk0",
+  "snapshot_id": "MTY3NTM0NTcyMiwwMDAwMDAwMGZlYWY0NGQyMjFjYThjM2JiYmI4YmYwNDU4ODY4NmUx",
   "tracks": [
     {
       "added_at": "2023-02-02 13:48:42",
@@ -283,6 +283,22 @@
     {
       "added_at": "2023-02-02 13:48:42",
       "album": {
+        "name": "ASMR Whispers (Binaural)",
+        "url": "https://open.spotify.com/album/7CG9mOaqHldDcfdZak3Od6"
+      },
+      "artists": [
+        {
+          "name": "Mr. Jones ASMR",
+          "url": "https://open.spotify.com/artist/6SZTvX4HLAuDywehkdtmrb"
+        }
+      ],
+      "duration_ms": 176039,
+      "name": "Unintelligble Sleep Whisper Sayy Wayy",
+      "url": "https://open.spotify.com/track/6chyCwZ2KhBUqjTUfw0ZHS"
+    },
+    {
+      "added_at": "2023-02-02 13:48:42",
+      "album": {
         "name": "Laura Says ASMR",
         "url": "https://open.spotify.com/album/6JYFd9CyapuZglFmStXsE8"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 363375,
       "name": "Sending Tingle Sleep Vibes Pt.1",
       "url": "https://open.spotify.com/track/4gnmeGl4hzsjsMulvZto9O"
-    },
-    {
-      "added_at": "2023-02-02 13:48:42",
-      "album": {
-        "name": "ASMR Whispers (Binaural)",
-        "url": "https://open.spotify.com/album/7CG9mOaqHldDcfdZak3Od6"
-      },
-      "artists": [
-        {
-          "name": "Mr. Jones ASMR",
-          "url": "https://open.spotify.com/artist/6SZTvX4HLAuDywehkdtmrb"
-        }
-      ],
-      "duration_ms": 176039,
-      "name": "Unintelligble Sleep Whisper Sayy Wayy",
-      "url": "https://open.spotify.com/track/6chyCwZ2KhBUqjTUfw0ZHS"
     },
     {
       "added_at": "2023-02-02 13:48:42",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-02-02 13:48:42",
       "album": {
-        "name": "Measuring and Examining Your Face",
-        "url": "https://open.spotify.com/album/3vV3eFCUvQ4grVD3o4KMg4"
-      },
-      "artists": [
-        {
-          "name": "Catplant ASMR",
-          "url": "https://open.spotify.com/artist/5qw3MMovQQEq4URS46Ij5C"
-        }
-      ],
-      "duration_ms": 376603,
-      "name": "Measuring and Examining Your Face Pt.1",
-      "url": "https://open.spotify.com/track/5Cru2U6APr3JQGW9cArjBf"
-    },
-    {
-      "added_at": "2023-02-02 13:48:42",
-      "album": {
         "name": "Close Ear to Ear Whispered Countdown to Sleep",
         "url": "https://open.spotify.com/album/4PsZcKftdyDZcTGFhU9OLk"
       },
@@ -475,6 +459,22 @@
     {
       "added_at": "2023-02-02 13:48:42",
       "album": {
+        "name": "ASMR Whispers (Binaural)",
+        "url": "https://open.spotify.com/album/7CG9mOaqHldDcfdZak3Od6"
+      },
+      "artists": [
+        {
+          "name": "Mr. Jones ASMR",
+          "url": "https://open.spotify.com/artist/6SZTvX4HLAuDywehkdtmrb"
+        }
+      ],
+      "duration_ms": 170035,
+      "name": "Unintelligble Sleep Whisper Breathing Scratching",
+      "url": "https://open.spotify.com/track/5a3cr3l0yJm2e8ZK2Ephif"
+    },
+    {
+      "added_at": "2023-02-02 13:48:42",
+      "album": {
         "name": "8D ASMR - Fluffy Mic & Slow Whispering Around Your Head",
         "url": "https://open.spotify.com/album/0v8s8XlzfDFrRpBJGnAiIZ"
       },
@@ -491,18 +491,18 @@
     {
       "added_at": "2023-02-02 13:48:42",
       "album": {
-        "name": "ASMR Whispers (Binaural)",
-        "url": "https://open.spotify.com/album/7CG9mOaqHldDcfdZak3Od6"
+        "name": "Measuring and Examining Your Face",
+        "url": "https://open.spotify.com/album/3vV3eFCUvQ4grVD3o4KMg4"
       },
       "artists": [
         {
-          "name": "Mr. Jones ASMR",
-          "url": "https://open.spotify.com/artist/6SZTvX4HLAuDywehkdtmrb"
+          "name": "Catplant ASMR",
+          "url": "https://open.spotify.com/artist/5qw3MMovQQEq4URS46Ij5C"
         }
       ],
-      "duration_ms": 170035,
-      "name": "Unintelligble Sleep Whisper Breathing Scratching",
-      "url": "https://open.spotify.com/track/5a3cr3l0yJm2e8ZK2Ephif"
+      "duration_ms": 376603,
+      "name": "Measuring and Examining Your Face Pt.1",
+      "url": "https://open.spotify.com/track/5Cru2U6APr3JQGW9cArjBf"
     },
     {
       "added_at": "2023-02-02 13:48:42",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-02-02 13:48:42",
       "album": {
-        "name": "ASMR - The Invisible Man - Unintelligible/Inaudible Whispered Reading (WITHOUT ambient sounds)",
-        "url": "https://open.spotify.com/album/23ZSJ73eskvUgV5tqOlWIV"
-      },
-      "artists": [
-        {
-          "name": "WhisperAudios ASMR",
-          "url": "https://open.spotify.com/artist/7fGDcsgOFZ04EzVFGONS1G"
-        }
-      ],
-      "duration_ms": 359356,
-      "name": "The Invisible Man - Unintelligible Inaudible Whispered Reading, Pt. 6",
-      "url": "https://open.spotify.com/track/3FNsE3UYSS8IApdW75p3rq"
-    },
-    {
-      "added_at": "2023-02-02 13:48:42",
-      "album": {
         "name": "ROLEPLAY VENDEUSE DE CHAUSSURES",
         "url": "https://open.spotify.com/album/3Ur9ZcrfbUP9eBXfNvXkVm"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 302000,
       "name": "ROLEPLAY VENDEUSE DE CHAUSSURES, Pt. 1",
       "url": "https://open.spotify.com/track/5UGrS4xhF1lJR05FnFwINd"
+    },
+    {
+      "added_at": "2023-02-02 13:48:42",
+      "album": {
+        "name": "ASMR - The Invisible Man - Unintelligible/Inaudible Whispered Reading (WITHOUT ambient sounds)",
+        "url": "https://open.spotify.com/album/23ZSJ73eskvUgV5tqOlWIV"
+      },
+      "artists": [
+        {
+          "name": "WhisperAudios ASMR",
+          "url": "https://open.spotify.com/artist/7fGDcsgOFZ04EzVFGONS1G"
+        }
+      ],
+      "duration_ms": 359356,
+      "name": "The Invisible Man - Unintelligible Inaudible Whispered Reading, Pt. 6",
+      "url": "https://open.spotify.com/track/3FNsE3UYSS8IApdW75p3rq"
     },
     {
       "added_at": "2023-02-02 13:48:42",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-02-02 13:48:42",
       "album": {
-        "name": "Whispering Things Your Brain Needs To Hear",
-        "url": "https://open.spotify.com/album/0oGtMqyTvJLwazCg5eR1di"
-      },
-      "artists": [
-        {
-          "name": "ASMR LillyVinnily",
-          "url": "https://open.spotify.com/artist/2SOg0KlxmlG4REkUHl2pvJ"
-        }
-      ],
-      "duration_ms": 909500,
-      "name": "Guided Meditation and Positive Affirmations, Pt. 1",
-      "url": "https://open.spotify.com/track/6V2NV9XXpdZ6tAaWi36psL"
-    },
-    {
-      "added_at": "2023-02-02 13:48:42",
-      "album": {
         "name": "Sleep-Inducing Haircut",
         "url": "https://open.spotify.com/album/1kM0ELi6Vgv4OiXAtnRIXO"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 253899,
       "name": "Sleep-Inducing Haircut Pt.3",
       "url": "https://open.spotify.com/track/3QcQqTLBYUp0ZjZatm3FUk"
+    },
+    {
+      "added_at": "2023-02-02 13:48:42",
+      "album": {
+        "name": "Whispering Things Your Brain Needs To Hear",
+        "url": "https://open.spotify.com/album/0oGtMqyTvJLwazCg5eR1di"
+      },
+      "artists": [
+        {
+          "name": "ASMR LillyVinnily",
+          "url": "https://open.spotify.com/artist/2SOg0KlxmlG4REkUHl2pvJ"
+        }
+      ],
+      "duration_ms": 909500,
+      "name": "Guided Meditation and Positive Affirmations, Pt. 1",
+      "url": "https://open.spotify.com/track/6V2NV9XXpdZ6tAaWi36psL"
     },
     {
       "added_at": "2023-02-02 13:48:42",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-02-02 13:48:42",
       "album": {
+        "name": "Violet is BACK to help you fall sleep",
+        "url": "https://open.spotify.com/album/4mR9iLu5mhOjz7o5diTXEw"
+      },
+      "artists": [
+        {
+          "name": "RoseASMR",
+          "url": "https://open.spotify.com/artist/3CAEqHMxqfTLF9azWWYzmS"
+        }
+      ],
+      "duration_ms": 277354,
+      "name": "Violet is BACK to help you fall sleep Pt.1",
+      "url": "https://open.spotify.com/track/55jujsnFOGPWk80wicrHsg"
+    },
+    {
+      "added_at": "2023-02-02 13:48:42",
+      "album": {
         "name": "Russian Language Revision - Cyrillic Alphabet",
         "url": "https://open.spotify.com/album/2pTKiaP8dOQ11Q8G88JMzh"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 293571,
       "name": "Uplifting Mantra Pt One",
       "url": "https://open.spotify.com/track/7KyX01fc7U3dFZhOj9pe3l"
-    },
-    {
-      "added_at": "2023-02-02 13:48:42",
-      "album": {
-        "name": "Violet is BACK to help you fall sleep",
-        "url": "https://open.spotify.com/album/4mR9iLu5mhOjz7o5diTXEw"
-      },
-      "artists": [
-        {
-          "name": "RoseASMR",
-          "url": "https://open.spotify.com/artist/3CAEqHMxqfTLF9azWWYzmS"
-        }
-      ],
-      "duration_ms": 277354,
-      "name": "Violet is BACK to help you fall sleep Pt.1",
-      "url": "https://open.spotify.com/track/55jujsnFOGPWk80wicrHsg"
     },
     {
       "added_at": "2023-02-02 13:48:42",

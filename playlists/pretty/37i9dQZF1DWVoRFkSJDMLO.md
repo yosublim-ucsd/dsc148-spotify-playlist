@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > Inspired by African drums\. Cover: Shenseea 🇯🇲
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,330 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,465 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 9 | [Forensic](https://open.spotify.com/track/3c8Y3cKJxheTdIb1KbBD0f) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Forensic](https://open.spotify.com/album/1hJEhbd1I4iD2IRZRrkFAK) | 2:30 |
 | 10 | [Mental Day](https://open.spotify.com/track/1IqgGVyINMhLLVBEgQYhW1) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Spirit Of Carnival Project](https://open.spotify.com/album/70k0gxInLY1FKI2x9H2uSu) | 3:04 |
 | 11 | [Duffel Bag](https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Duffel Bag](https://open.spotify.com/album/0SGMYduxnZ8jz9zb6eGnR0) | 2:07 |
-| 12 | [2:30](https://open.spotify.com/track/6upXA8xqJ5heoVw4nd5Zvs) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [2:30](https://open.spotify.com/album/7ASPbaFgWYjGlYIIOewA2L) | 2:18 |
-| 13 | [TAKUTÁ](https://open.spotify.com/track/3WRXW64cLmy1WSHEs9zgUZ) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [TAKUTÁ](https://open.spotify.com/album/3isNlsXrKxnpbrznyJe2gu) | 2:38 |
+| 12 | [TAKUTÁ](https://open.spotify.com/track/3WRXW64cLmy1WSHEs9zgUZ) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [TAKUTÁ](https://open.spotify.com/album/3isNlsXrKxnpbrznyJe2gu) | 2:38 |
+| 13 | [2:30](https://open.spotify.com/track/6upXA8xqJ5heoVw4nd5Zvs) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [2:30](https://open.spotify.com/album/7ASPbaFgWYjGlYIIOewA2L) | 2:18 |
 | 14 | [Cocoa Butter](https://open.spotify.com/track/14SIPzOUdXpVCUQFxbGOGH) | [Aiza](https://open.spotify.com/artist/33swwbOrC7iMmPF3TXGLNi) | [Cocoa Butter](https://open.spotify.com/album/0Me9ME4FJQhtk8bfUV6EgH) | 3:10 |
 | 15 | [UNAVAILABLE \(feat\. Musa Keys\)](https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:49 |
 | 16 | [Yahyuppiyah \(feat\. Pcee, EeQue & Chley\)](https://open.spotify.com/track/6L1UdBhj6v8Ol9qKHBtvLN) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Justin99](https://open.spotify.com/artist/2sMoqBE60rnLVDF6zhFKBI), [Pcee](https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4), [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [Yahyuppiyah \(feat\. Pcee, EeQue, & Chley\)](https://open.spotify.com/album/1o4qQoueKYWmGiSrKFoB3C) | 4:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 99 | [Dumebi](https://open.spotify.com/track/0SjQBdIddPvKSWxr8vk6QX) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rema](https://open.spotify.com/album/4l8Gg5qk0QodyJ12SNtdUf) | 2:59 |
 | 100 | [Sans effet](https://open.spotify.com/track/30RBuEKVJ2UXimaPtwAEIa) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Fleur froide \- Second état : la cristallisation](https://open.spotify.com/album/1uPEctEKBVjCRO5iGsya3b) | 2:40 |
 
-Snapshot ID: `MTY4MTQ0NDgwMCwwMDAwMDAwMDI4Y2IyYWM2MDk4ZWY2OTkzY2YwNGFhNWQ4MDcwYTY2`
+Snapshot ID: `MTY4MTU4ODg4MywwMDAwMDAwMDE5ZjQ5MjU2MWJhYTU2YjBmMTY1OWY3YTJlMTdhNjA1`

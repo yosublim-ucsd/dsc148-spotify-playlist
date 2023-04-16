@@ -1,12 +1,12 @@
 {
   "description": "El ritmo cumbiero que te mueve el coraz\u00f3n. \nFoto: Leo Mattioli.",
-  "num_followers": 172208,
+  "num_followers": 172343,
   "original_name": "Cumbia Santafesina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDgzNjQwMCwwMDAwMDAwMDI2YzZjNGE1MjJjNGNkNDQwNDJkNzM4ZjkyM2VlY2Ix",
+  "snapshot_id": "MTY4MDgzNjQwMCwwMDAwMDAwMDEzOWY1MDJhNzUwM2E1NjdkYzE4MzA0NGUzZmJjZjYz",
   "tracks": [
     {
       "added_at": "2023-04-07 03:00:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-04-07 03:00:00",
       "album": {
-        "name": "Baila Santa Fe",
-        "url": "https://open.spotify.com/album/0RUvlrD7zsXmEr69VRg1CU"
-      },
-      "artists": [
-        {
-          "name": "La Groupera",
-          "url": "https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7"
-        }
-      ],
-      "duration_ms": 189911,
-      "name": "Mal Amor",
-      "url": "https://open.spotify.com/track/0S7HkobUN0HrvaHZaQsmE5"
-    },
-    {
-      "added_at": "2023-04-07 03:00:00",
-      "album": {
         "name": "\u00c9xitos de Oro",
         "url": "https://open.spotify.com/album/0qZMzAHtoxM6aBQlhjCIJ6"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 211044,
       "name": "Quitame Ese Hombre",
       "url": "https://open.spotify.com/track/4VmrRnnsNxAQysmVMePzxt"
+    },
+    {
+      "added_at": "2023-04-07 03:00:00",
+      "album": {
+        "name": "Baila Santa Fe",
+        "url": "https://open.spotify.com/album/0RUvlrD7zsXmEr69VRg1CU"
+      },
+      "artists": [
+        {
+          "name": "La Groupera",
+          "url": "https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7"
+        }
+      ],
+      "duration_ms": 189911,
+      "name": "Mal Amor",
+      "url": "https://open.spotify.com/track/0S7HkobUN0HrvaHZaQsmE5"
     },
     {
       "added_at": "2023-04-07 03:00:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-04-07 03:00:00",
       "album": {
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 207957,
+      "name": "Que Ser\u00e1 de Ti",
+      "url": "https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd"
+    },
+    {
+      "added_at": "2023-04-07 03:00:00",
+      "album": {
         "name": "M\u00e1s Rom\u00e1nticos Que Nunca",
         "url": "https://open.spotify.com/album/2HU7nRIB9MrVxWY6c9t01M"
       },
@@ -731,18 +747,18 @@
     {
       "added_at": "2023-04-07 03:00:00",
       "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf"
+        "name": "Para Toda La Vida",
+        "url": "https://open.spotify.com/album/25bzZeH69TvnFcgV4JPKGr"
       },
       "artists": [
         {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+          "name": "La contr\u00e0",
+          "url": "https://open.spotify.com/artist/4mG70wQ5qWBs9GogyP7WuM"
         }
       ],
-      "duration_ms": 207957,
-      "name": "Que Ser\u00e1 de Ti",
-      "url": "https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd"
+      "duration_ms": 227857,
+      "name": "Entre t\u00fa y mil mares",
+      "url": "https://open.spotify.com/track/5l4vFZvA9YpHNPWfQJEoo0"
     },
     {
       "added_at": "2023-04-07 03:00:00",
@@ -763,22 +779,6 @@
     {
       "added_at": "2023-04-07 03:00:00",
       "album": {
-        "name": "Para Toda La Vida",
-        "url": "https://open.spotify.com/album/25bzZeH69TvnFcgV4JPKGr"
-      },
-      "artists": [
-        {
-          "name": "La contr\u00e0",
-          "url": "https://open.spotify.com/artist/4mG70wQ5qWBs9GogyP7WuM"
-        }
-      ],
-      "duration_ms": 227857,
-      "name": "Entre t\u00fa y mil mares",
-      "url": "https://open.spotify.com/track/5l4vFZvA9YpHNPWfQJEoo0"
-    },
-    {
-      "added_at": "2023-04-07 03:00:00",
-      "album": {
         "name": "A partir de hoy",
         "url": "https://open.spotify.com/album/3COzpskhC6ZoWYzNiW5oBI"
       },
@@ -795,18 +795,18 @@
     {
       "added_at": "2023-04-07 03:00:00",
       "album": {
-        "name": "Identidad",
-        "url": "https://open.spotify.com/album/1e17k7bGNSUu5x8LHsZs05"
+        "name": "Mi \u00danica Alegr\u00eda",
+        "url": "https://open.spotify.com/album/5HrwyfJMLulEGxgV5rIMkT"
       },
       "artists": [
         {
-          "name": "Grupo Cali",
-          "url": "https://open.spotify.com/artist/4R5IzlNSizG1oT8Gs4HH6k"
+          "name": "Kaniche",
+          "url": "https://open.spotify.com/artist/7vnM4YuUSEpsH03GI0FCRk"
         }
       ],
-      "duration_ms": 275720,
-      "name": "Amor De Chat",
-      "url": "https://open.spotify.com/track/0Yjs4dV82xl4GF63wrXm7i"
+      "duration_ms": 162186,
+      "name": "Hum\u00edllate",
+      "url": "https://open.spotify.com/track/3waF7QuxEZFzflQR7ax0Xc"
     },
     {
       "added_at": "2023-04-07 03:00:00",
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-04-07 03:00:00",
       "album": {
-        "name": "Mi \u00danica Alegr\u00eda",
-        "url": "https://open.spotify.com/album/5HrwyfJMLulEGxgV5rIMkT"
+        "name": "Identidad",
+        "url": "https://open.spotify.com/album/1e17k7bGNSUu5x8LHsZs05"
       },
       "artists": [
         {
-          "name": "Kaniche",
-          "url": "https://open.spotify.com/artist/7vnM4YuUSEpsH03GI0FCRk"
+          "name": "Grupo Cali",
+          "url": "https://open.spotify.com/artist/4R5IzlNSizG1oT8Gs4HH6k"
         }
       ],
-      "duration_ms": 162186,
-      "name": "Hum\u00edllate",
-      "url": "https://open.spotify.com/track/3waF7QuxEZFzflQR7ax0Xc"
+      "duration_ms": 275720,
+      "name": "Amor De Chat",
+      "url": "https://open.spotify.com/track/0Yjs4dV82xl4GF63wrXm7i"
     },
     {
       "added_at": "2023-04-07 03:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-04-07 03:00:00",
       "album": {
-        "name": "Placer y Olvido",
-        "url": "https://open.spotify.com/album/3KI5DtLen1YhOUfi2MdJRm"
-      },
-      "artists": [
-        {
-          "name": "Coty Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
-        }
-      ],
-      "duration_ms": 233429,
-      "name": "Placer y Olvido",
-      "url": "https://open.spotify.com/track/5R4Lbt2Y8MIR1SZ0z8nZvw"
-    },
-    {
-      "added_at": "2023-04-07 03:00:00",
-      "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/5k4mZBSWVZ1984ZwDULZ2L"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 222723,
       "name": "Loco",
       "url": "https://open.spotify.com/track/1PsM5kAMF5E7EgLfeY3xdA"
+    },
+    {
+      "added_at": "2023-04-07 03:00:00",
+      "album": {
+        "name": "Placer y Olvido",
+        "url": "https://open.spotify.com/album/3KI5DtLen1YhOUfi2MdJRm"
+      },
+      "artists": [
+        {
+          "name": "Coty Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
+        }
+      ],
+      "duration_ms": 233429,
+      "name": "Placer y Olvido",
+      "url": "https://open.spotify.com/track/5R4Lbt2Y8MIR1SZ0z8nZvw"
     },
     {
       "added_at": "2023-04-07 03:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-04-07 03:00:00",
       "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/3kn66sUZHDEcTHGZBOo26n"
-      },
-      "artists": [
-        {
-          "name": "Los Del Maranaho",
-          "url": "https://open.spotify.com/artist/4pPaTS0Is7K9pHjgp5Pdgs"
-        }
-      ],
-      "duration_ms": 193853,
-      "name": "Te Tengo que Olvidar",
-      "url": "https://open.spotify.com/track/6V1Lh57Dlkf6aQrRC3tAO7"
-    },
-    {
-      "added_at": "2023-04-07 03:00:00",
-      "album": {
         "name": "Simplemente Nag\u00fcel",
         "url": "https://open.spotify.com/album/2MES3DwHFmsblVObLyLlRh"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 181946,
       "name": "El Hospicio",
       "url": "https://open.spotify.com/track/4I17shszGarI3lEcneeEEK"
+    },
+    {
+      "added_at": "2023-04-07 03:00:00",
+      "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/3kn66sUZHDEcTHGZBOo26n"
+      },
+      "artists": [
+        {
+          "name": "Los Del Maranaho",
+          "url": "https://open.spotify.com/artist/4pPaTS0Is7K9pHjgp5Pdgs"
+        }
+      ],
+      "duration_ms": 193853,
+      "name": "Te Tengo que Olvidar",
+      "url": "https://open.spotify.com/track/6V1Lh57Dlkf6aQrRC3tAO7"
     },
     {
       "added_at": "2023-04-07 03:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-04-07 03:00:00",
       "album": {
-        "name": "Grupo Trinidad y Sus Cantantes",
-        "url": "https://open.spotify.com/album/561huq2PdxoEwR2L7NYMw3"
-      },
-      "artists": [
-        {
-          "name": "Grupo Trinidad",
-          "url": "https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ"
-        }
-      ],
-      "duration_ms": 457826,
-      "name": "Pechos Calientes / Mojada por Dentro / El No Va a Venir / Voy a Morir Dentro Tuyo",
-      "url": "https://open.spotify.com/track/4wvQj6T8Ut1oixkIr7r0S3"
-    },
-    {
-      "added_at": "2023-04-07 03:00:00",
-      "album": {
         "name": "Todo a Su Tiempo (En Vivo)",
         "url": "https://open.spotify.com/album/6ncnLdG9zt1XlpewOBSqJl"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 255465,
       "name": "Me Dediqu\u00e9 a Perderte - En Vivo",
       "url": "https://open.spotify.com/track/7JiYdbPQK2G4sDskpcrtC2"
+    },
+    {
+      "added_at": "2023-04-07 03:00:00",
+      "album": {
+        "name": "Grupo Trinidad y Sus Cantantes",
+        "url": "https://open.spotify.com/album/561huq2PdxoEwR2L7NYMw3"
+      },
+      "artists": [
+        {
+          "name": "Grupo Trinidad",
+          "url": "https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ"
+        }
+      ],
+      "duration_ms": 457826,
+      "name": "Pechos Calientes / Mojada por Dentro / El No Va a Venir / Voy a Morir Dentro Tuyo",
+      "url": "https://open.spotify.com/track/4wvQj6T8Ut1oixkIr7r0S3"
     },
     {
       "added_at": "2023-04-07 03:00:00",
@@ -1075,6 +1075,22 @@
       "duration_ms": 222161,
       "name": "Paloma",
       "url": "https://open.spotify.com/track/3MxI6yhm9SPQSB1xXmvcfs"
+    },
+    {
+      "added_at": "2023-04-07 03:00:00",
+      "album": {
+        "name": "Simplemente Nag\u00fcel",
+        "url": "https://open.spotify.com/album/2MES3DwHFmsblVObLyLlRh"
+      },
+      "artists": [
+        {
+          "name": "Simplemente Naguel",
+          "url": "https://open.spotify.com/artist/4fARNbsdisPYTZtwYzAayh"
+        }
+      ],
+      "duration_ms": 181680,
+      "name": "Te So\u00f1\u00e9 una Vez",
+      "url": "https://open.spotify.com/track/1blhnIXhg3Bpt2qzVVxPRD"
     },
     {
       "added_at": "2023-04-07 03:00:00",
@@ -1123,22 +1139,6 @@
       "duration_ms": 197474,
       "name": "En Una de Esas",
       "url": "https://open.spotify.com/track/08Z31XojFdEwE8iVrFChfJ"
-    },
-    {
-      "added_at": "2023-04-07 03:00:00",
-      "album": {
-        "name": "Simplemente Nag\u00fcel",
-        "url": "https://open.spotify.com/album/2MES3DwHFmsblVObLyLlRh"
-      },
-      "artists": [
-        {
-          "name": "Simplemente Naguel",
-          "url": "https://open.spotify.com/artist/4fARNbsdisPYTZtwYzAayh"
-        }
-      ],
-      "duration_ms": 181680,
-      "name": "Te So\u00f1\u00e9 una Vez",
-      "url": "https://open.spotify.com/track/1blhnIXhg3Bpt2qzVVxPRD"
     },
     {
       "added_at": "2023-04-07 03:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-04-07 03:00:00",
       "album": {
-        "name": "Una Eterna Pasi\u00f3n",
-        "url": "https://open.spotify.com/album/6rYOGgU9UPgjVhmpbBFVfn"
-      },
-      "artists": [
-        {
-          "name": "Los Del Maranaho",
-          "url": "https://open.spotify.com/artist/4pPaTS0Is7K9pHjgp5Pdgs"
-        }
-      ],
-      "duration_ms": 239595,
-      "name": "Qu\u00e9 Se Siente",
-      "url": "https://open.spotify.com/track/0sL2C1WvJnmrvE9F3hTZaw"
-    },
-    {
-      "added_at": "2023-04-07 03:00:00",
-      "album": {
         "name": "S\u00f3lo Dios Puede Juzgarme",
         "url": "https://open.spotify.com/album/59H5u5QOocFXVka9bSif3h"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 155360,
       "name": "El Chancho Come Caviar",
       "url": "https://open.spotify.com/track/7A0WZELK73UK7CMvDUbdQ1"
+    },
+    {
+      "added_at": "2023-04-07 03:00:00",
+      "album": {
+        "name": "Una Eterna Pasi\u00f3n",
+        "url": "https://open.spotify.com/album/6rYOGgU9UPgjVhmpbBFVfn"
+      },
+      "artists": [
+        {
+          "name": "Los Del Maranaho",
+          "url": "https://open.spotify.com/artist/4pPaTS0Is7K9pHjgp5Pdgs"
+        }
+      ],
+      "duration_ms": 239595,
+      "name": "Qu\u00e9 Se Siente",
+      "url": "https://open.spotify.com/track/0sL2C1WvJnmrvE9F3hTZaw"
     },
     {
       "added_at": "2023-04-07 03:00:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-04-07 03:00:00",
       "album": {
-        "name": "A Matar o Morir",
-        "url": "https://open.spotify.com/album/2gHlHLY067nIqOR0lU0fCL"
-      },
-      "artists": [
-        {
-          "name": "Chanchi y Los Autenticos",
-          "url": "https://open.spotify.com/artist/137pHEZ9U76r4ouXTa6Bjc"
-        }
-      ],
-      "duration_ms": 229280,
-      "name": "Como Tu Enemigo",
-      "url": "https://open.spotify.com/track/03IoH7NmNDEXW7SSGj0ISS"
-    },
-    {
-      "added_at": "2023-04-07 03:00:00",
-      "album": {
         "name": "Le\u00f1a Seca",
         "url": "https://open.spotify.com/album/1hpJcctopOylCRIPabekj3"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 215174,
       "name": "Hasta el Sol de Hoy",
       "url": "https://open.spotify.com/track/1lT6GEEYN0loScdr9sES0C"
+    },
+    {
+      "added_at": "2023-04-07 03:00:00",
+      "album": {
+        "name": "A Matar o Morir",
+        "url": "https://open.spotify.com/album/2gHlHLY067nIqOR0lU0fCL"
+      },
+      "artists": [
+        {
+          "name": "Chanchi y Los Autenticos",
+          "url": "https://open.spotify.com/artist/137pHEZ9U76r4ouXTa6Bjc"
+        }
+      ],
+      "duration_ms": 229280,
+      "name": "Como Tu Enemigo",
+      "url": "https://open.spotify.com/track/03IoH7NmNDEXW7SSGj0ISS"
     }
   ],
   "unique_name": "Cumbia Santafesina",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 
 > This is Queen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,635,427 likes - 51 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,636,488 likes - 51 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 | 11 | [Radio Ga Ga \- Remastered 2011](https://open.spotify.com/track/1nQRg9q9uwALGzouOX5OyQ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(2011 Remaster\)](https://open.spotify.com/album/5RS9xkMuDmeVISqGDBmnSa) | 5:48 |
 | 12 | [We Are The Champions \- Remastered 2011](https://open.spotify.com/track/1lCRw5FEZ1gPDNPzy1K4zW) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [News Of The World \(2011 Remaster\)](https://open.spotify.com/album/7tB40pGzj6Tg0HePj2jWZt) | 2:59 |
 | 13 | [Love Of My Life \- Remastered 2011](https://open.spotify.com/track/4YJUTdZ0Pgl0ZeNyHYXeLd) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/75eP8LZolyNBpqIRyB5pvB) | 3:37 |
-| 14 | [Good Old\-Fashioned Lover Boy \- Remastered 2011](https://open.spotify.com/track/1n7xFAY4xoPeqRvrkzAtsw) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/4KZGe18wZJbXL6JLW4KyLc) | 2:53 |
-| 15 | [You're My Best Friend \- Remastered 2011](https://open.spotify.com/track/4vhVDkSx9RSb2k6mWFMYNI) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(2011 Remaster\)](https://open.spotify.com/album/1GbtB4zTqAsyfZEsm1RZfx) | 2:50 |
+| 14 | [You're My Best Friend \- Remastered 2011](https://open.spotify.com/track/4vhVDkSx9RSb2k6mWFMYNI) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(2011 Remaster\)](https://open.spotify.com/album/1GbtB4zTqAsyfZEsm1RZfx) | 2:50 |
+| 15 | [Good Old\-Fashioned Lover Boy \- Remastered 2011](https://open.spotify.com/track/1n7xFAY4xoPeqRvrkzAtsw) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/4KZGe18wZJbXL6JLW4KyLc) | 2:53 |
 | 16 | [The Show Must Go On \- Remastered 2011](https://open.spotify.com/track/5n6RDaGFSN88oRWuGtYAIN) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Innuendo \(2011 Remaster\)](https://open.spotify.com/album/5kffKW0sSLo6tkLg1veUGC) | 4:37 |
 | 17 | [Don't Stop Me Now \- ...Revisited](https://open.spotify.com/track/3INsYP1Y8GG4qJvBsKCdXC) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE) | 3:37 |
 | 18 | [I Want It All \- Single Version](https://open.spotify.com/track/1gBNoqhVLbIMuBQmXKmyLj) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Miracle \(Collector's Edition\)](https://open.spotify.com/album/4wYe26p1N110qVsKVlb0rL) | 4:01 |
@@ -53,11 +53,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 | 43 | [Tie Your Mother Down \- Remastered 2011](https://open.spotify.com/track/4mLKx7zsUdyT4Ax7rI7KXu) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/4KZGe18wZJbXL6JLW4KyLc) | 4:47 |
 | 44 | [One Vision \- Remastered 2011](https://open.spotify.com/track/3ROPrLWea9uICOW4V2Px1y) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Kind Of Magic \(2011 Remaster\)](https://open.spotify.com/album/0pEfDPZko6TnNOgrZMe5nn) | 5:11 |
 | 45 | [Stone Cold Crazy \- Remastered 2011](https://open.spotify.com/track/6d2UQWWWZj3k4BE6WcN4IT) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Sheer Heart Attack \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/1Gnrd76EubInPV4KjOJ1Zr) | 2:13 |
-| 46 | [You Don't Fool Me \- Remastered 2011](https://open.spotify.com/track/1chxAv59LZcOE5FyrlUze2) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Made In Heaven \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/274tWwrhGJy0IFeMENjWi7) | 5:24 |
-| 47 | [Lazing On A Sunday Afternoon \- Remastered 2011](https://open.spotify.com/track/3TsxbTSAucA1gNlYH36S4c) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/75eP8LZolyNBpqIRyB5pvB) | 1:07 |
+| 46 | [Lazing On A Sunday Afternoon \- Remastered 2011](https://open.spotify.com/track/3TsxbTSAucA1gNlYH36S4c) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/75eP8LZolyNBpqIRyB5pvB) | 1:07 |
+| 47 | [You Don't Fool Me \- Remastered 2011](https://open.spotify.com/track/1chxAv59LZcOE5FyrlUze2) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Made In Heaven \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/274tWwrhGJy0IFeMENjWi7) | 5:24 |
 | 48 | [Princes Of The Universe \- Remastered 2011](https://open.spotify.com/track/0Uy8lcDHiPDicBQ7rnDgcK) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Kind Of Magic \(2011 Remaster\)](https://open.spotify.com/album/0pEfDPZko6TnNOgrZMe5nn) | 3:33 |
 | 49 | [Headlong \- Remastered 2011](https://open.spotify.com/track/6goUTcMn0V30hWtKFIj6Kh) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Innuendo \(2011 Remaster\)](https://open.spotify.com/album/5kffKW0sSLo6tkLg1veUGC) | 4:37 |
-| 50 | [Keep Yourself Alive \- Live At The Rainbow](https://open.spotify.com/track/34pz8XUZRfw04lk4DPtwa7) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE) | 3:56 |
-| 51 | [Death On Two Legs \(Dedicated To...\) \- Remastered 2011](https://open.spotify.com/track/2MvRMWU2ILRcFEU8WWbuP8) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/75eP8LZolyNBpqIRyB5pvB) | 3:43 |
+| 50 | [Death On Two Legs \(Dedicated To...\) \- Remastered 2011](https://open.spotify.com/track/2MvRMWU2ILRcFEU8WWbuP8) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/75eP8LZolyNBpqIRyB5pvB) | 3:43 |
+| 51 | [Keep Yourself Alive \- Live At The Rainbow](https://open.spotify.com/track/34pz8XUZRfw04lk4DPtwa7) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE) | 3:56 |
 
-Snapshot ID: `MjgwMjQ4NTIsMDAwMDAwMDBmZmY0NzRhNTg2ZDZhN2IwNDcyYjQwZGYwYjg1ODhiYQ==`
+Snapshot ID: `MjgwMjYwMzEsMDAwMDAwMDAxMjUzMmE5ZmFmMDczOTZiMDkyNmU1ZWRlZjUyNmI4MA==`

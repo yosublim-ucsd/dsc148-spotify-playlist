@@ -1,12 +1,12 @@
 {
   "description": "Las leyendas del mariachi est\u00e1n aqu\u00ed. Christian Nodal en portada.",
-  "num_followers": 877429,
+  "num_followers": 877661,
   "original_name": "Leyendas del Mariachi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgyMzIwMCwwMDAwMDAwMDY5NzFlN2E0YzkzNmI5NjY1M2Y5YmZkZDg3YmM5ZDFl",
+  "snapshot_id": "MTY3NzgyMzIwMCwwMDAwMDAwMDI3YjM0ZjYwZTA3ODczNjcxMTg3NjliY2E5NDZlMjk1",
   "tracks": [
     {
       "added_at": "2023-03-03 06:00:00",
@@ -227,8 +227,8 @@
     {
       "added_at": "2022-01-25 16:44:28",
       "album": {
-        "name": "Que De Raro Tiene",
-        "url": "https://open.spotify.com/album/2h6LhZi0civVoLcIe6WSx3"
+        "name": "Vicente Fernandez Para Siempre",
+        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
       },
       "artists": [
         {
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 195373,
-      "name": "Ac\u00e1 Entre Nos",
-      "url": "https://open.spotify.com/track/2FDFz5TuYlpP180AUicAcl"
+      "duration_ms": 190226,
+      "name": "Estos Celos",
+      "url": "https://open.spotify.com/track/6u6kH7V7Tx5xDJtF82vVw0"
     },
     {
       "added_at": "2022-01-25 16:44:28",
@@ -367,8 +367,8 @@
     {
       "added_at": "2022-01-25 16:44:28",
       "album": {
-        "name": "Vicente Fernandez Para Siempre",
-        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
+        "name": "Que De Raro Tiene",
+        "url": "https://open.spotify.com/album/2h6LhZi0civVoLcIe6WSx3"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 190226,
-      "name": "Estos Celos",
-      "url": "https://open.spotify.com/track/6u6kH7V7Tx5xDJtF82vVw0"
+      "duration_ms": 195373,
+      "name": "Ac\u00e1 Entre Nos",
+      "url": "https://open.spotify.com/track/2FDFz5TuYlpP180AUicAcl"
     },
     {
       "added_at": "2022-01-25 16:44:28",
@@ -461,22 +461,6 @@
       "url": "https://open.spotify.com/track/1uWves4S89RPNHMMM28H0x"
     },
     {
-      "added_at": "2022-06-17 05:00:00",
-      "album": {
-        "name": "\u00bfCon Qu\u00e9 Se Pega un Coraz\u00f3n?",
-        "url": "https://open.spotify.com/album/2lrBqFbFWoZddaOjUbD1DF"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 228187,
-      "name": "\u00bfCon Qu\u00e9 Se Pega un Coraz\u00f3n?",
-      "url": "https://open.spotify.com/track/6C9gYd0KyVHYgxaJu4c9Td"
-    },
-    {
       "added_at": "2022-03-04 06:00:00",
       "album": {
         "name": "Con Un Botecito A Pecho",
@@ -495,6 +479,22 @@
       "duration_ms": 176133,
       "name": "Con Un Botecito A Pecho",
       "url": "https://open.spotify.com/track/1IqbC17XpPQ80i5gPAFnp1"
+    },
+    {
+      "added_at": "2022-06-17 05:00:00",
+      "album": {
+        "name": "\u00bfCon Qu\u00e9 Se Pega un Coraz\u00f3n?",
+        "url": "https://open.spotify.com/album/2lrBqFbFWoZddaOjUbD1DF"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 228187,
+      "name": "\u00bfCon Qu\u00e9 Se Pega un Coraz\u00f3n?",
+      "url": "https://open.spotify.com/track/6C9gYd0KyVHYgxaJu4c9Td"
     },
     {
       "added_at": "2022-01-25 16:44:28",
@@ -599,26 +599,6 @@
     {
       "added_at": "2022-01-25 16:44:28",
       "album": {
-        "name": "Primero Soy Mexicana",
-        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        },
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 238022,
-      "name": "Tu Sangre en Mi Cuerpo",
-      "url": "https://open.spotify.com/track/1xqSh7mbpThNiSjDU7FwLe"
-    },
-    {
-      "added_at": "2022-01-25 16:44:28",
-      "album": {
         "name": "Decepciones",
         "url": "https://open.spotify.com/album/4Q7weZZRXGVLoKk3NeOuNT"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 223706,
       "name": "Decepciones",
       "url": "https://open.spotify.com/track/2LTYkSso5VAfdqzqjprOcH"
+    },
+    {
+      "added_at": "2022-01-25 16:44:28",
+      "album": {
+        "name": "Primero Soy Mexicana",
+        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 238022,
+      "name": "Tu Sangre en Mi Cuerpo",
+      "url": "https://open.spotify.com/track/1xqSh7mbpThNiSjDU7FwLe"
     },
     {
       "added_at": "2022-03-04 06:00:00",
@@ -937,22 +937,6 @@
       "url": "https://open.spotify.com/track/0cinWAQ7frmYmKWQq2wdKO"
     },
     {
-      "added_at": "2022-05-06 05:00:00",
-      "album": {
-        "name": "A la Medida",
-        "url": "https://open.spotify.com/album/6efOKRzidSTHQXjUyHmCM4"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 270943,
-      "name": "Hasta Que Llegue el Alba",
-      "url": "https://open.spotify.com/track/7kRUOKGmAG7wNxMy9tFQS7"
-    },
-    {
       "added_at": "2022-01-25 16:44:28",
       "album": {
         "name": "Lo Mejor De Lo Mejor De RCA Victor",
@@ -967,6 +951,22 @@
       "duration_ms": 175106,
       "name": "El Pastor",
       "url": "https://open.spotify.com/track/4r7V9rY0u9Vn3y9E928Ehr"
+    },
+    {
+      "added_at": "2022-05-06 05:00:00",
+      "album": {
+        "name": "A la Medida",
+        "url": "https://open.spotify.com/album/6efOKRzidSTHQXjUyHmCM4"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 270943,
+      "name": "Hasta Que Llegue el Alba",
+      "url": "https://open.spotify.com/track/7kRUOKGmAG7wNxMy9tFQS7"
     },
     {
       "added_at": "2022-06-17 05:00:00",
@@ -1067,6 +1067,26 @@
     {
       "added_at": "2022-01-25 16:44:28",
       "album": {
+        "name": "Tus Desprecios",
+        "url": "https://open.spotify.com/album/3si2q6g6Mw94o5wsftqXH6"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 142819,
+      "name": "Tus Desprecios",
+      "url": "https://open.spotify.com/track/6gyPojQkJawXsMryAeu5Se"
+    },
+    {
+      "added_at": "2022-01-25 16:44:28",
+      "album": {
         "name": "+Mexicana",
         "url": "https://open.spotify.com/album/0GZi1qLTk1hMY2RXQ6YBgt"
       },
@@ -1103,26 +1123,6 @@
     {
       "added_at": "2022-01-25 16:44:28",
       "album": {
-        "name": "Tus Desprecios",
-        "url": "https://open.spotify.com/album/3si2q6g6Mw94o5wsftqXH6"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        },
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 142819,
-      "name": "Tus Desprecios",
-      "url": "https://open.spotify.com/track/6gyPojQkJawXsMryAeu5Se"
-    },
-    {
-      "added_at": "2022-01-25 16:44:28",
-      "album": {
         "name": "Serie De Coleccion 15 Autenticos",
         "url": "https://open.spotify.com/album/5D3g2BbyQuAc1O4lhPUlVQ"
       },
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2022-01-25 16:44:28",
       "album": {
-        "name": "Viejos Amigos",
-        "url": "https://open.spotify.com/album/7rrux0UfvqKxxWBFexdd0d"
+        "name": "En Vivo, Desde Su Lugar",
+        "url": "https://open.spotify.com/album/0O56jcmx3fpovZWOJeO0LC"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+          "name": "Paquita La Del Barrio",
+          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
         }
       ],
-      "duration_ms": 136826,
-      "name": "En El Ultimo Trago",
-      "url": "https://open.spotify.com/track/2NHHppsOEAr4SUTJzHSmEt"
+      "duration_ms": 162146,
+      "name": "Cheque En Blanco - Live",
+      "url": "https://open.spotify.com/track/2aqarSktx1bU8WrZE9lW1X"
     },
     {
       "added_at": "2022-01-25 16:44:28",
@@ -1171,18 +1171,38 @@
     {
       "added_at": "2022-01-25 16:44:28",
       "album": {
-        "name": "En Vivo, Desde Su Lugar",
-        "url": "https://open.spotify.com/album/0O56jcmx3fpovZWOJeO0LC"
+        "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
+        "url": "https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV"
       },
       "artists": [
         {
-          "name": "Paquita La Del Barrio",
-          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 162146,
-      "name": "Cheque En Blanco - Live",
-      "url": "https://open.spotify.com/track/2aqarSktx1bU8WrZE9lW1X"
+      "duration_ms": 210042,
+      "name": "Fue un Placer Conocerte",
+      "url": "https://open.spotify.com/track/2keN15BswHOxejdRAaMT8s"
+    },
+    {
+      "added_at": "2022-01-25 16:44:28",
+      "album": {
+        "name": "Viejos Amigos",
+        "url": "https://open.spotify.com/album/7rrux0UfvqKxxWBFexdd0d"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "duration_ms": 136826,
+      "name": "En El Ultimo Trago",
+      "url": "https://open.spotify.com/track/2NHHppsOEAr4SUTJzHSmEt"
     },
     {
       "added_at": "2022-01-25 16:44:28",
@@ -1247,26 +1267,6 @@
       "duration_ms": 212240,
       "name": "Se Vei\u0301a Venir",
       "url": "https://open.spotify.com/track/13id1MDO0sh4k3Gf9tNHMi"
-    },
-    {
-      "added_at": "2022-01-25 16:44:28",
-      "album": {
-        "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
-        "url": "https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        },
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 210042,
-      "name": "Fue un Placer Conocerte",
-      "url": "https://open.spotify.com/track/2keN15BswHOxejdRAaMT8s"
     },
     {
       "added_at": "2022-01-25 16:44:28",
@@ -1341,6 +1341,22 @@
       "url": "https://open.spotify.com/track/5XjtX9V4qh0WCGnK8MWQBr"
     },
     {
+      "added_at": "2022-02-11 06:00:00",
+      "album": {
+        "name": "Que Digan Lo Que Digan",
+        "url": "https://open.spotify.com/album/4cBBdOIxQQXmOtuXpjKLWl"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 172573,
+      "name": "Que Digan Lo Que Digan",
+      "url": "https://open.spotify.com/track/0ZgWkCML3yoVANOBbSVKzl"
+    },
+    {
       "added_at": "2022-01-25 16:44:28",
       "album": {
         "name": "Mi Persona Preferida",
@@ -1387,22 +1403,6 @@
       "duration_ms": 173407,
       "name": "No Hay Quinto Malo",
       "url": "https://open.spotify.com/track/7tsW0yrg4oUGtjmg1FWsCl"
-    },
-    {
-      "added_at": "2022-02-11 06:00:00",
-      "album": {
-        "name": "Que Digan Lo Que Digan",
-        "url": "https://open.spotify.com/album/4cBBdOIxQQXmOtuXpjKLWl"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 172573,
-      "name": "Que Digan Lo Que Digan",
-      "url": "https://open.spotify.com/track/0ZgWkCML3yoVANOBbSVKzl"
     },
     {
       "added_at": "2022-01-25 16:44:28",
@@ -1491,34 +1491,18 @@
     {
       "added_at": "2022-01-25 16:44:28",
       "album": {
-        "name": "Mexicanisimo",
-        "url": "https://open.spotify.com/album/5MTcdzp13fvpZ2mvCg5zCj"
+        "name": "Traigo Ganas",
+        "url": "https://open.spotify.com/album/2bs3mGq8PgSXDawAnGsuGM"
       },
       "artists": [
         {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 131266,
-      "name": "Media Vuelta",
-      "url": "https://open.spotify.com/track/4wK2gpBcEIdgZbcyfpbh4B"
-    },
-    {
-      "added_at": "2022-01-25 16:44:28",
-      "album": {
-        "name": "Siempre Estoy Pensando En Ti",
-        "url": "https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 114733,
-      "name": "Ases y Tercia de Reyes",
-      "url": "https://open.spotify.com/track/6OHJnVV4vXHbJdIRSpzviA"
+      "duration_ms": 153133,
+      "name": "Traigo Ganas",
+      "url": "https://open.spotify.com/track/2bT6LqpFxjxTnpjaFgNsuV"
     },
     {
       "added_at": "2022-01-25 16:44:28",
@@ -1539,18 +1523,34 @@
     {
       "added_at": "2022-01-25 16:44:28",
       "album": {
-        "name": "Traigo Ganas",
-        "url": "https://open.spotify.com/album/2bs3mGq8PgSXDawAnGsuGM"
+        "name": "Siempre Estoy Pensando En Ti",
+        "url": "https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ"
       },
       "artists": [
         {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 153133,
-      "name": "Traigo Ganas",
-      "url": "https://open.spotify.com/track/2bT6LqpFxjxTnpjaFgNsuV"
+      "duration_ms": 114733,
+      "name": "Ases y Tercia de Reyes",
+      "url": "https://open.spotify.com/track/6OHJnVV4vXHbJdIRSpzviA"
+    },
+    {
+      "added_at": "2022-01-25 16:44:28",
+      "album": {
+        "name": "Mexicanisimo",
+        "url": "https://open.spotify.com/album/5MTcdzp13fvpZ2mvCg5zCj"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 131266,
+      "name": "Media Vuelta",
+      "url": "https://open.spotify.com/track/4wK2gpBcEIdgZbcyfpbh4B"
     },
     {
       "added_at": "2022-01-25 16:44:28",
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2022-01-25 16:44:28",
       "album": {
-        "name": "Con Mariachi Vol.2 (with El Mariachi M\u00e9xico '70 de Pepe L\u00f3pez)",
-        "url": "https://open.spotify.com/album/3pEHzLdkPor0RrnvSmvXmd"
+        "name": "Interpreta A Juan Gabriel",
+        "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
       },
       "artists": [
         {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+          "name": "Lucha Villa",
+          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
         }
       ],
-      "duration_ms": 132773,
-      "name": "Ya No Vuelvo a Molestarte",
-      "url": "https://open.spotify.com/track/7ykNB1WZij1HwzWAEaykA4"
+      "duration_ms": 182266,
+      "name": "Ya No Me Interesas",
+      "url": "https://open.spotify.com/track/13P7xlcWQzFMvAGQZniMTS"
     },
     {
       "added_at": "2022-01-25 16:44:28",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2022-01-25 16:44:28",
       "album": {
-        "name": "Interpreta A Juan Gabriel",
-        "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
+        "name": "Con Mariachi Vol.2 (with El Mariachi M\u00e9xico '70 de Pepe L\u00f3pez)",
+        "url": "https://open.spotify.com/album/3pEHzLdkPor0RrnvSmvXmd"
       },
       "artists": [
         {
-          "name": "Lucha Villa",
-          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 182266,
-      "name": "Ya No Me Interesas",
-      "url": "https://open.spotify.com/track/13P7xlcWQzFMvAGQZniMTS"
+      "duration_ms": 132773,
+      "name": "Ya No Vuelvo a Molestarte",
+      "url": "https://open.spotify.com/track/7ykNB1WZij1HwzWAEaykA4"
     },
     {
       "added_at": "2022-01-25 16:44:28",

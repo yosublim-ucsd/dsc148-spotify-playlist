@@ -4,7 +4,7 @@
 
 > Rock meets pop meets punk, para esos días cuando todo te vale.
 
-70 songs - 3 hr 38 min
+72 songs - 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Algo Bien](https://open.spotify.com/track/6k2HTT8CqCUWlEG7saWg0r) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 2:30 | 2023-02-03 |  |
 | [Bad Kiss](https://open.spotify.com/track/1pXdYW93QYTfReu4hhXozQ) | [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [Bad Kiss](https://open.spotify.com/album/6k9wPtpVp9mfAOwp56g5LJ) | 2:22 | 2023-01-20 | 2023-01-28 |
 | [brutal](https://open.spotify.com/track/6SRsiMl7w1USE4mFqrOhHC) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:23 | 2023-01-20 |  |
+| [Cansado de estar triste](https://open.spotify.com/track/0KhvJklV4bqAuXwFLEEX3x) | [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7), [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Cansado de estar triste](https://open.spotify.com/album/65JzMj5NQD539KQ0FzGBU2) | 2:55 | 2023-04-14 |  |
 | [Celosa](https://open.spotify.com/track/5A20apPrPKV8sNfUzrIQV7) | [SERBIA](https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj) | [Celosa](https://open.spotify.com/album/7GAcSbOAokzBKUrW6ORmSB) | 4:22 | 2023-01-20 | 2023-04-11 |
 | [Cereal](https://open.spotify.com/track/74L386G6vLxD3QuH2YUcZx) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [RPDF](https://open.spotify.com/album/3bwL8cvP3ALLfMEOOnLgc1) | 2:41 | 2023-01-20 | 2023-02-04 |
 | [Clavo](https://open.spotify.com/track/3fvmFvl8r3zfEMQq2GVJbv) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9), [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [Clavo](https://open.spotify.com/album/79vicj0AVbnJn1SUSmLj11) | 2:50 | 2023-02-03 | 2023-03-11 |
@@ -36,6 +37,7 @@
 | [GOSSIP \(feat\. Tom Morello\)](https://open.spotify.com/track/44Xyja7xYPlVC6v2CeweSi) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 2:48 | 2023-01-20 |  |
 | [Happier Than Ever \- Edit](https://open.spotify.com/track/32BeYxKPrig1LefHsC0Xuo) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever \(Edit\)](https://open.spotify.com/album/2kzPJWrTjVKEYWWhowXLnz) | 2:31 | 2023-02-03 |  |
 | [Highway Tune](https://open.spotify.com/track/7aOor99o8NNLZYElOXlBG1) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [From The Fires](https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w) | 3:00 | 2023-01-20 |  |
+| [Himno \(para los que están jodidos\)](https://open.spotify.com/track/0xk30CeA3Klu0xOOdE8grl) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [Allison](https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr) | [Himno \(para los que están jodidos\)](https://open.spotify.com/album/0WCX8VZK7JA2mChT1sQO3c) | 3:05 | 2023-04-14 |  |
 | [Infierno Frío](https://open.spotify.com/track/1sI4YBO3bbctccXYNUaam0) | [Viniloversus](https://open.spotify.com/artist/2zwh4WnVBGZcfnllC7DUxt) | [Infierno Frío](https://open.spotify.com/album/6YB76Lunmrai7yjMiQDbCj) | 2:18 | 2023-01-20 | 2023-03-11 |
 | [Just A Girl](https://open.spotify.com/track/5lWRaa0fBxDE5yU91npPq7) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 3:29 | 2023-01-20 |  |
 | [La Casa de A](https://open.spotify.com/track/6xtphuj19xftkTUHDZ4sFH) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Prender un Fuego](https://open.spotify.com/album/3QgG3SuMTWMIsxwzdu7vN3) | 3:16 | 2023-01-20 |  |
@@ -63,7 +65,7 @@
 | [San Lucas](https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [San Lucas](https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1) | 4:07 | 2023-01-20 |  |
 | [Shy Away](https://open.spotify.com/track/2nG54Y4a3sH9YpfxMolOyi) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Scaled And Icy](https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ) | 2:55 | 2023-02-03 |  |
 | [Si En Tu Mente Estuve](https://open.spotify.com/track/6EjBcoyPVn99cpRfoDiuRf) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ROY](https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh) | 3:11 | 2023-01-20 |  |
-| [siempre te olvidé](https://open.spotify.com/track/1B4REMzJe9zuyV8zZxuvxs) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [Novia del Año](https://open.spotify.com/album/4VYagF6MQInUh9OOx4UoZ0) | 2:37 | 2023-04-11 |  |
+| [siempre te olvidé](https://open.spotify.com/track/1B4REMzJe9zuyV8zZxuvxs) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [Novia del Año](https://open.spotify.com/album/4VYagF6MQInUh9OOx4UoZ0) | 2:37 | 2023-04-11 | 2023-04-16 |
 | [SPIT IN MY FACE!](https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA) | 2:27 | 2023-01-20 |  |
 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 | 2023-01-20 |  |
 | [Suplentes](https://open.spotify.com/track/7moz5TLsJI5r1QMycc5rUr) | [Arawato](https://open.spotify.com/artist/6nxwdNlg4g7FrLZZB43n5v) | [Suplentes](https://open.spotify.com/album/7rynoVmIF0ut7qpWPqCu0i) | 3:50 | 2023-01-20 |  |
@@ -75,7 +77,7 @@
 | [ur a <stranger>](https://open.spotify.com/track/4OvlUfaJKuZ9aJVAJWmwyE) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<COPINGMECHANISM>](https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV) | 2:03 | 2023-01-20 |  |
 | [Venganza](https://open.spotify.com/track/2UJfYO4NNQSxBq0ElmDNd1) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Luz](https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o) | 3:24 | 2023-01-20 |  |
 | [Ya Me Hiciste Mal](https://open.spotify.com/track/6Iui84AizPAWhNTnPpxJfm) | [Rayos Láser](https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs) | [El Reflejo](https://open.spotify.com/album/6EpG00D5DG21KhM8OIB0yk) | 3:19 | 2023-02-03 |  |
-| [Yonaguni](https://open.spotify.com/track/333TyrvOWbHpq0AIipyIHy) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [RPDF](https://open.spotify.com/album/3bwL8cvP3ALLfMEOOnLgc1) | 3:13 | 2023-01-20 |  |
+| [Yonaguni](https://open.spotify.com/track/333TyrvOWbHpq0AIipyIHy) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [RPDF](https://open.spotify.com/album/3bwL8cvP3ALLfMEOOnLgc1) | 3:13 | 2023-01-20 | 2023-04-16 |
 | [¿Cómo Sería?](https://open.spotify.com/track/4V3vLmzWXWs3OANXMV5sY0) | [Luisa Vox](https://open.spotify.com/artist/3aZLYFN5zgb2QH10XzmmtA), [NETO ROXS](https://open.spotify.com/artist/72tQXlolJ2rcObhahYgIvJ) | [¿Cómo Sería?](https://open.spotify.com/album/1Xe3GzZA3z93RSczg6LLcg) | 3:38 | 2023-01-20 | 2023-02-04 |
 | [¿Qué Hubiera Pasado?](https://open.spotify.com/track/0EzdQKMxQGcXFjAKSyU2zk) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Qué Hubiera Pasado?](https://open.spotify.com/album/5cgt1mBp6BR1GWJVjJHRSs) | 2:36 | 2023-02-03 |  |
 

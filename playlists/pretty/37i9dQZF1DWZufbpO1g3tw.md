@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZufbpO1g3tw.md) - [plain]
 
 > ¡Picositos y con mucho sabor!
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,349 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,374 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,15 +41,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZufbpO1g3tw.md) - [plain]
 | 31 | [Cumbia Con La Luna](https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Cumbias Sin Control](https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX) | 3:35 |
 | 32 | [Abrazándonos](https://open.spotify.com/track/22eWPYjQKppTSuiWgEhk9w) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa), [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Abrazándonos](https://open.spotify.com/album/6GAf2ZKo1SZxJb8WiQSGzf) | 3:15 |
 | 33 | [Paloma Ajena](https://open.spotify.com/track/0xQ9ffzl3I05FTDcYUnQ4X) | [La Banda Tecno](https://open.spotify.com/artist/6FIQoXCHsjUVZBFab3sXbM) | [Tropical & Rumbero: Vuelve](https://open.spotify.com/album/6ph0pyKPe1ffEOA3jC6kLx) | 4:10 |
-| 34 | [Corazón Solitario](https://open.spotify.com/track/7f7ChKewJr4Mjm8rDl53iP) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Guarachando](https://open.spotify.com/album/5uHNavgy4yM4orwoEBWMjO) | 4:04 |
-| 35 | [Amigos Nada Más](https://open.spotify.com/track/5B5eaJFprnSiCLlXTenkr3) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Una Lluvia De Rosas](https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv) | 3:30 |
+| 34 | [Amigos Nada Más](https://open.spotify.com/track/5B5eaJFprnSiCLlXTenkr3) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Una Lluvia De Rosas](https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv) | 3:30 |
+| 35 | [Corazón Solitario](https://open.spotify.com/track/7f7ChKewJr4Mjm8rDl53iP) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Guarachando](https://open.spotify.com/album/5uHNavgy4yM4orwoEBWMjO) | 4:04 |
 | 36 | [Mira oye](https://open.spotify.com/track/4l3SD9S0EOaBAPejqNti6E) | [Los Tigrillos](https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf) | [Cumbias con Garra Vol\. IV \*](https://open.spotify.com/album/6sCg6I963xNmg9qo8xbwqp) | 3:22 |
 | 37 | [La Picare](https://open.spotify.com/track/68Ur7kDx0OXW5BH0TxpAPn) | [Alameños de la Sierra](https://open.spotify.com/artist/4C9L4xjlVFB6lsA9v3EfUh) | [El Tropezon](https://open.spotify.com/album/54vZCfkZRmqgXyNmmd0rqB) | 4:20 |
 | 38 | [Yo Quiero Quebrarte](https://open.spotify.com/track/0Byi0pNpSr0FKDQ8HtMwKY) | [Los Felinos](https://open.spotify.com/artist/6RVdNANISrVp76M0Wjy4hX) | [Soy El Aventurero](https://open.spotify.com/album/7rVVL3koiagqhD3yMYpAQy) | 3:06 |
 | 39 | [Tao, Tao](https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Cumbias Sin Control](https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX) | 2:52 |
 | 40 | [Quedate Con Él](https://open.spotify.com/track/1ftwyOlhOp4up63kcGsDq4) | [Grupo Jalado](https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM) | [Que Te Vaya Bien](https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS) | 3:36 |
-| 41 | [La Danza de los Mirlos \(Cumbia de los Pajaritos\)](https://open.spotify.com/track/0AnwIwxt96ERVRohy7hcnU) | [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Cumbia Amazonica](https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL) | 2:49 |
-| 42 | [Cumbia Francesa](https://open.spotify.com/track/6gcI2byXyIPQM2tFybviuo) | [Grupo Saya](https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP) | [Sólo Éxitos](https://open.spotify.com/album/5hfRoSTXSY1sISkQTVc0nn) | 3:40 |
+| 41 | [Cumbia Francesa](https://open.spotify.com/track/6gcI2byXyIPQM2tFybviuo) | [Grupo Saya](https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP) | [Sólo Éxitos](https://open.spotify.com/album/5hfRoSTXSY1sISkQTVc0nn) | 3:40 |
+| 42 | [La Danza de los Mirlos \(Cumbia de los Pajaritos\)](https://open.spotify.com/track/0AnwIwxt96ERVRohy7hcnU) | [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Cumbia Amazonica](https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL) | 2:49 |
 | 43 | [La Bota](https://open.spotify.com/track/5s3IWiEUyNocPtapPxqlPd) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Mexico Querido](https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1) | 3:28 |
 | 44 | [El Agua Clara](https://open.spotify.com/track/35Fjjqjlq3YRJbK8QM7OGK) | [Contacto Norte](https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU) | [Y Es el Contacto ¡Raza!](https://open.spotify.com/album/1GSv17RyzcqpZBHjHtgO1X) | 2:48 |
 | 45 | [La nena](https://open.spotify.com/track/5OwFcVt4icprLmc5bO9ruK) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [25 Bandazos de Pequeños Musical \(Vol\. 1\) \[USA\]](https://open.spotify.com/album/7g3IdcuzbSoWHVKWfKIY2x) | 2:54 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZufbpO1g3tw.md) - [plain]
 | 67 | [Tongoneaito](https://open.spotify.com/track/13nitMCnQQCcpvcI03KQrE) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [De Parranda Lives Vol\. 2/3](https://open.spotify.com/album/2qI4lRalMMAEAY7vOkd9Q1) | 3:44 |
 | 68 | [Sofrito](https://open.spotify.com/track/0FpBO0Pyoh4MZVmNO3zwnc) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Sofrito](https://open.spotify.com/album/6o663c9rSwfKOoLQKs76kS) | 6:06 |
 | 69 | [Pa' La Paloma](https://open.spotify.com/track/43XGRyQnciCfaoVSTrDpYT) | [Alquimia La Sonora Del XXI](https://open.spotify.com/artist/7Ei7ZObFHFq1YOGoYcDIPS) | [Éxitos de la Sonora Matancera: Pa' la Paloma](https://open.spotify.com/album/5556xQBMMaLxeXEflSM9qZ) | 6:06 |
-| 70 | [El Aguajal](https://open.spotify.com/track/7nOD24bJ7hchHuwVpT9y9z) | [Los Shapis](https://open.spotify.com/artist/3LorjMdYWKEtf3wdNtjM6v) | [Los Auténticos](https://open.spotify.com/album/4sd3JQ7mufYwKdNNtYzc0B) | 3:50 |
-| 71 | [Eres](https://open.spotify.com/track/1OeKx8ya9DRQBWKJmlRFJp) | [Los Extraños](https://open.spotify.com/artist/4o42b77fvOMfJGnDVo8aWK) | [Sigueme](https://open.spotify.com/album/1gWllGhiiVZRYJ3OXqMrOw) | 3:22 |
+| 70 | [Eres](https://open.spotify.com/track/1OeKx8ya9DRQBWKJmlRFJp) | [Los Extraños](https://open.spotify.com/artist/4o42b77fvOMfJGnDVo8aWK) | [Sigueme](https://open.spotify.com/album/1gWllGhiiVZRYJ3OXqMrOw) | 3:22 |
+| 71 | [El Aguajal](https://open.spotify.com/track/7nOD24bJ7hchHuwVpT9y9z) | [Los Shapis](https://open.spotify.com/artist/3LorjMdYWKEtf3wdNtjM6v) | [Los Auténticos](https://open.spotify.com/album/4sd3JQ7mufYwKdNNtYzc0B) | 3:50 |
 | 72 | [Por Una Lagrima](https://open.spotify.com/track/5XBtCDWEbrNMNYPl73SGu5) | [Marcos Flores](https://open.spotify.com/artist/3nYcUUXBpc8o7Iwgms5U6D), [Banda Jerez](https://open.spotify.com/artist/48LhRfIdXbGSxKrYcok6Tn) | [De Nueva Cuenta](https://open.spotify.com/album/0yyfGnZEgRiTWBmpzu1DL4) | 2:58 |
 | 73 | [Conductor](https://open.spotify.com/track/5DrsyiBfSuIHS015buu06S) | [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co) | [Chico de Oro](https://open.spotify.com/album/3zqIOlC6FwNKRCE7gUpcmr) | 2:51 |
 | 74 | [Cumbia Barulera](https://open.spotify.com/track/2CR5YD5yF77bSxV7qXrSTG) | [Los Dinamiteros de Colombia](https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW), [Aniceto Molina](https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S) | [Disco De Oro \- Cumbia](https://open.spotify.com/album/6uHRsIS95PzYt0ajDqtGCU) | 3:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZufbpO1g3tw.md) - [plain]
 | 99 | [Un Silbido Amoroso](https://open.spotify.com/track/548qXG0DVSXKPuQ51EuvcK) | [Los Wembler's de Iquitos](https://open.spotify.com/artist/09o5k3t1L2ZxhJBnIERJxT) | [Cumbia Beat Volume 1](https://open.spotify.com/album/55Zzh7zGhuAF0YnlpbjV0S) | 2:35 |
 | 100 | [Los sabanales](https://open.spotify.com/track/31GD3gDTI7PYt6Dulr1wvh) | [Los Corraleros De Majagual](https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4) | [The Afrosound Of Colombia Volume 1](https://open.spotify.com/album/7GuPa60Lh3Wlls5rMGpOJf) | 2:43 |
 
-Snapshot ID: `MTY3MTY0NDQ2NSwwMDAwMDAwMGM1NjZkZjUxOWUxZTYwMzRlMzIzNTdlNTk5OWJkZDIw`
+Snapshot ID: `MTY3MTY0NDQ2NSwwMDAwMDAwMDBjZTQ0NzFhMWQ4NmZlYzgzMWJmNzkxNmYxZTJjMWI5`

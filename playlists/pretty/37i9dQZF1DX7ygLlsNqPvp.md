@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 
 > The most intense local drill music firing up the continent\. Cover:  <a href="https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T?si=Wu38xFPeR6SAC4ItkpqxHQ" > Reggie</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,097 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,154 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > '80s New Wave, New Romantic and Post\-punk.
 
-431 songs - 1 day 6 hr 29 min
+432 songs - 1 day 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [Major Tom](https://open.spotify.com/track/1UeOvApd7gNKKtI1cAqYPw) | [Peter Schilling](https://open.spotify.com/artist/7ip3CWlgPZbQHvgJpmcGSS) | [Major Tom](https://open.spotify.com/album/5lmdOsyfRU4v6FLXtUcqdU) | 4:33 | 2021-10-17 | 2022-08-25 |
 | [Major Tom \(...völlig losgelöst\)](https://open.spotify.com/track/2epRW3O5YLwiqcxOdaI4Mm) | [Peter Schilling](https://open.spotify.com/artist/7ip3CWlgPZbQHvgJpmcGSS) | [Fehler Im System](https://open.spotify.com/album/5E0cSbYbLM7roXOBKbhvGC) | 4:59 | 2021-10-17 | 2023-03-27 |
 | [Major Tom \(Völlig Losgelöst\)](https://open.spotify.com/track/2qZQtey4lTwvvABVMrO4h8) | [Peter Schilling](https://open.spotify.com/artist/7ip3CWlgPZbQHvgJpmcGSS) | [Major Tom \[Voellig Losgeloest\]](https://open.spotify.com/album/1qLcqJlAWG6z7JV65EUFS6) | 4:33 | 2021-10-17 | 2022-06-24 |
+| [Major Tom \(Völlig losgelöst\) \- 2022 Remaster](https://open.spotify.com/track/3pR29mXC5gp0UjJSRePU2f) | [Peter Schilling](https://open.spotify.com/artist/7ip3CWlgPZbQHvgJpmcGSS) | [Fehler im System \(2023 Remaster\)](https://open.spotify.com/album/7KDpHLxa1aLFJuw8pt3Yy2) | 5:03 | 2021-10-17 |  |
 | [Making Plans For Nigel](https://open.spotify.com/track/3ey3YMZLdl1tQjbz7EJkKG) | [XTC](https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz) | [The Compact XTC](https://open.spotify.com/album/6NYMUVXpzsA4XIBD3TmQCA) | 3:53 | 2018-12-12 | 2022-11-13 |
 | [Mandinka](https://open.spotify.com/track/3Dz0kDM3Er8kGrPGx03PqV) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Lion And The Cobra](https://open.spotify.com/album/67nJgLgseykZPC5J5xnU4F) | 3:47 | 2019-08-01 | 2022-07-29 |
 | [Mandinka](https://open.spotify.com/track/4x4e63yL8r7tOFcZ0n6KHe) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Lion and the Cobra](https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6) | 3:47 | 2019-08-01 |  |
@@ -249,7 +250,7 @@
 | [Nellie The Elephant](https://open.spotify.com/track/4YFtztmFu4Kq2CBPKL2qC3) | [Toy Dolls](https://open.spotify.com/artist/747P2pvOwW22iRcFS9zQDv) | [We're Mad \- The Anthology](https://open.spotify.com/album/2uYraKzm3H1btz5VajleOj) | 3:27 | 2018-12-12 | 2022-05-31 |
 | [Never Let Me Down Again](https://open.spotify.com/track/0ooy3NjwsJreceWYCxlfQt) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Music for the Masses](https://open.spotify.com/album/5Yyx661Ksxl2pmRUuGLzw3) | 4:48 | 2020-01-07 | 2022-07-29 |
 | [Never Let Me Down Again \- 2006 Remaster](https://open.spotify.com/track/2H1BmB1b6Px9KJXIUpD03u) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Music for the Masses \(2006 Remaster\)](https://open.spotify.com/album/4tPRXghD4ago6NYyyfrtES) | 4:50 | 2020-01-07 |  |
-| [New Gold Dream \(81/82/83/84\)](https://open.spotify.com/track/7MhDU9xSWM1LPQGPFkAEJC) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [New Gold Dream \(81/82/83/84\)](https://open.spotify.com/album/6dn2O3un8SV0QZ421jDdEj) | 5:38 | 2019-08-01 |  |
+| [New Gold Dream \(81/82/83/84\)](https://open.spotify.com/track/7MhDU9xSWM1LPQGPFkAEJC) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [New Gold Dream \(81/82/83/84\)](https://open.spotify.com/album/6dn2O3un8SV0QZ421jDdEj) | 5:38 | 2019-08-01 | 2023-04-16 |
 | [New Moon on Monday](https://open.spotify.com/track/35JVOjqj3ZqdyB8kvynb3q) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Seven and the Ragged Tiger](https://open.spotify.com/album/1A1AKj7tAopU9MIZgWdSP9) | 4:18 | 2019-08-01 | 2022-07-29 |
 | [Nightporter](https://open.spotify.com/track/2KMu1C3jtaTQ8z4CC5ucUK) | [Japan](https://open.spotify.com/artist/7vPXrGlSGukcwpaPxUfKKR) | [Exorcising Ghosts](https://open.spotify.com/album/0ezKQuRSkTDJSgwJ6iL4Jq) | 6:48 | 2019-08-02 | 2022-07-29 |
 | [No Mercy](https://open.spotify.com/track/7BWKaQMPcRvpcEqSgTgnoL) | [The Stranglers](https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig) | [Aural Sculpture](https://open.spotify.com/album/1MruYes9jkQuAoX4NezhUt) | 3:38 | 2019-08-02 | 2022-04-20 |

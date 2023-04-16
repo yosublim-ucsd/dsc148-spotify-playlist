@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 25 | [Therapy](https://open.spotify.com/track/0Nw0Z2VXKuiFSikzWvgqR6) | [Kim Cesarion](https://open.spotify.com/artist/1FbsmLXvj5CccZj6JLk46Z) | [Therapy](https://open.spotify.com/album/472JU7mEYpwNTNTdqyYVFU) | 3:27 |
 | 26 | [Donuts \(feat\. Yung Bae\)](https://open.spotify.com/track/2xubfBD4QUOmcMUq1EZz6h) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg), [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX) | [Donuts \(feat\. Yung Bae\)](https://open.spotify.com/album/10GQ2AlvNYtpJ6yI577GFn) | 3:35 |
 | 27 | [Night and Morning](https://open.spotify.com/track/4lj1We6JrzxZRIBEQLrqLO) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [It Was Divine](https://open.spotify.com/album/0nmCwOAFeqD69X1MWwKTS6) | 3:23 |
-| 28 | [Real Love](https://open.spotify.com/track/6vuwpMl38xfscWpoxquFiW) | [Florrie](https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8) | [Real Love](https://open.spotify.com/album/1eW90EbtZZZV3LHHy0NJUW) | 3:47 |
-| 29 | [By The End Of The Night](https://open.spotify.com/track/41dA1g5HMbWO89XFj0Y6aR) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Higher Than Heaven \(Deluxe\)](https://open.spotify.com/album/6FL3GfTcb8cf4xwMJlcynq) | 3:08 |
+| 28 | [By The End Of The Night](https://open.spotify.com/track/41dA1g5HMbWO89XFj0Y6aR) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Higher Than Heaven \(Deluxe\)](https://open.spotify.com/album/6FL3GfTcb8cf4xwMJlcynq) | 3:08 |
+| 29 | [Real Love](https://open.spotify.com/track/6vuwpMl38xfscWpoxquFiW) | [Florrie](https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8) | [Real Love](https://open.spotify.com/album/1eW90EbtZZZV3LHHy0NJUW) | 3:47 |
 | 30 | [Nothing Here](https://open.spotify.com/track/2u8W9YjnCuR7tgaefRDYx7) | [LIAMOO](https://open.spotify.com/artist/1SU2pMMSbU1hqWyFXp97Br) | [Journey](https://open.spotify.com/album/4vTfrB4P9R7ozSk7H2jdLI) | 2:37 |
 | 31 | [If We Were Made Of Water](https://open.spotify.com/track/2jWiqKyZKkcChQpwwmQH8k) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [III](https://open.spotify.com/album/0oXzdlZ9duItTwmJLXbAfo) | 3:24 |
 | 32 | [Slow Cooker](https://open.spotify.com/track/4hVk7SMLCJ72CEfycSBvWT) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Bigger Love](https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd) | 4:22 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 100 | [FUCKING MURDER](https://open.spotify.com/track/5seDFLG0mfC2PT2x27xauZ) | [Caroline Vreeland](https://open.spotify.com/artist/5P1LyOIFc1fg1w1Dssiezw) | ['LIKE A WOMAN, LIKE A DRUNKARD, LIKE AN ANIMAL'](https://open.spotify.com/album/5u9NVAXUZsT7wl5Vqj3gmv) | 9:19 |
 | 101 | [Down Daddy](https://open.spotify.com/track/1Tg5ZNgyRJFVFXcQBaSyMS) | [Chloe Angelides](https://open.spotify.com/artist/79A4RmgwxYGIDkqQDUHLXK) | [Friends Who Failed At Love](https://open.spotify.com/album/0cGYe4MX209Hbi0aoebED6) | 3:40 |
 
-Snapshot ID: `MjgwMjUyODksMDAwMDAwMDBhZmNiODEzZDM2OGE5YTk1YjRmYTlhNjQ0ZDUyY2M5Mg==`
+Snapshot ID: `MjgwMjY3MjksMDAwMDAwMDA0NDQ1ZmFiYmJkNGQ1MmMwMGQyNWUzOTk4YzQ0OWIwMw==`

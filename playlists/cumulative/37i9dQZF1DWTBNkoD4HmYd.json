@@ -537,40 +537,6 @@
     },
     {
       "album": {
-        "name": "Vivaldi: Concerto for 2 Cellos, Strings and Continuo in G Minor, RV 531: 3. Allegro",
-        "url": "https://open.spotify.com/album/2PWzufwTMXXbmP5JjI3azn"
-      },
-      "artists": [
-        {
-          "name": "Antonio Vivaldi",
-          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
-        },
-        {
-          "name": "Harriet Krijgh",
-          "url": "https://open.spotify.com/artist/5V9Qpd9ZLs4gcrADy24ABP"
-        },
-        {
-          "name": "Kaori Yamagami",
-          "url": "https://open.spotify.com/artist/2nHXXJMLUPOGRaQSwUGDcB"
-        },
-        {
-          "name": "Amsterdam Sinfonietta",
-          "url": "https://open.spotify.com/artist/2qx7K1T3gw9J0JTQnaGnBD"
-        },
-        {
-          "name": "Candida Thompson",
-          "url": "https://open.spotify.com/artist/53dqNaesiJ52bYl36DZuxM"
-        }
-      ],
-      "date_added": "2021-07-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 182960,
-      "name": "Concerto for 2 Cellos, Strings and Continuo in G Minor, RV 531: 3. Allegro",
-      "url": "https://open.spotify.com/track/4rVzmgF1Suh8ciF2gTajde"
-    },
-    {
-      "album": {
         "name": "Vivaldi: Concerti \"Alla Rustica\"",
         "url": "https://open.spotify.com/album/4b5kE77FNjtravy7V452po"
       },
@@ -3111,32 +3077,6 @@
     },
     {
       "album": {
-        "name": "Vivaldi: Violin Concerto in D Major, RV 211: III. Allegro",
-        "url": "https://open.spotify.com/album/2Q5uDlfz5LUnhEpKyWqG2F"
-      },
-      "artists": [
-        {
-          "name": "Antonio Vivaldi",
-          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
-        },
-        {
-          "name": "Nicola Benedetti",
-          "url": "https://open.spotify.com/artist/02B3Os1lCLuWR6klPJiQpW"
-        },
-        {
-          "name": "Benedetti Baroque Orchestra",
-          "url": "https://open.spotify.com/artist/25V9BjYN1ZSSyAxh7KtxUC"
-        }
-      ],
-      "date_added": "2021-07-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 289880,
-      "name": "Violin Concerto in D Major, RV 211: III. Allegro",
-      "url": "https://open.spotify.com/track/7fKHeJdwHroMIGBwtnuLDg"
-    },
-    {
-      "album": {
         "name": "Vivaldi: Dresden Concertos, Vol. 3",
         "url": "https://open.spotify.com/album/3raYDoicFHhVRceGHWDc4G"
       },
@@ -3284,6 +3224,40 @@
       "duration_ms": 145933,
       "name": "Vivaldi - Concerto in D Major \"Grosso Mogul\" RV 208: II Recitativo: Grave",
       "url": "https://open.spotify.com/track/4aDDrg0VaoijdLEa8PdCl3"
+    },
+    {
+      "album": {
+        "name": "Vivaldi: Concerto for 2 Cellos, Strings and Continuo in G Minor, RV 531: 3. Allegro",
+        "url": "https://open.spotify.com/album/2PWzufwTMXXbmP5JjI3azn"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Harriet Krijgh",
+          "url": "https://open.spotify.com/artist/5V9Qpd9ZLs4gcrADy24ABP"
+        },
+        {
+          "name": "Kaori Yamagami",
+          "url": "https://open.spotify.com/artist/2nHXXJMLUPOGRaQSwUGDcB"
+        },
+        {
+          "name": "Amsterdam Sinfonietta",
+          "url": "https://open.spotify.com/artist/2qx7K1T3gw9J0JTQnaGnBD"
+        },
+        {
+          "name": "Candida Thompson",
+          "url": "https://open.spotify.com/artist/53dqNaesiJ52bYl36DZuxM"
+        }
+      ],
+      "date_added": "2021-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182960,
+      "name": "Vivaldi: Concerto for 2 Cellos, Strings and Continuo in G Minor, RV 531 - 3. Allegro",
+      "url": "https://open.spotify.com/track/4rVzmgF1Suh8ciF2gTajde"
     },
     {
       "album": {
@@ -3614,6 +3588,32 @@
       "duration_ms": 169906,
       "name": "Vivaldi: The Four Seasons, Violin Concerto in G Minor, Op. 8 No. 2, RV 315 \"Summer\": III. Presto",
       "url": "https://open.spotify.com/track/4wgS4pen0Kej9PafGhUhMJ"
+    },
+    {
+      "album": {
+        "name": "Vivaldi: Violin Concerto in D Major, RV 211: III. Allegro",
+        "url": "https://open.spotify.com/album/2Q5uDlfz5LUnhEpKyWqG2F"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Nicola Benedetti",
+          "url": "https://open.spotify.com/artist/02B3Os1lCLuWR6klPJiQpW"
+        },
+        {
+          "name": "Benedetti Baroque Orchestra",
+          "url": "https://open.spotify.com/artist/25V9BjYN1ZSSyAxh7KtxUC"
+        }
+      ],
+      "date_added": "2021-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289880,
+      "name": "Vivaldi: Violin Concerto in D Major, RV 211 - III. Allegro",
+      "url": "https://open.spotify.com/track/7fKHeJdwHroMIGBwtnuLDg"
     },
     {
       "album": {

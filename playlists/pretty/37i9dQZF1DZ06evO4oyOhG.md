@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oyOhG.md) - [plain]
 
 > This is CHiCO with HoneyWorks\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,813 likes - 45 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,833 likes - 45 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,10 +21,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oyOhG.md) - [plain]
 | 11 | [ヒカリ証明論](https://open.spotify.com/track/2NSUuwplYLm50NDAb5qJQS) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [瞬く世界にiを揺らせ](https://open.spotify.com/album/2GBDADasYHm9Rho9U0fET9) | 4:33 |
 | 12 | [ノスタルジックレインフォール](https://open.spotify.com/track/5mwLIUyGIg6QioPbyHgt2s) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [私を染めるiの歌](https://open.spotify.com/album/6XOpMOa1OV7QsCeLN8dBnT) | 3:58 |
 | 13 | [ハートの誓い](https://open.spotify.com/track/2BzZV7zxQKHrfVebawH2NX) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [iは自由で、縛れない。](https://open.spotify.com/album/4yF59YniNUs8m4iGk3yXms) | 3:27 |
-| 14 | [冒険のVLOG](https://open.spotify.com/track/6KtkYlgZoBno6Ai894zfSD) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [冒険のVLOG](https://open.spotify.com/album/6GptwTcu5mCv9YkfXpJZVs) | 4:22 |
+| 14 | [ハートの主張](https://open.spotify.com/track/5McUO0NAKaKWO22oeZgTZQ) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [世界はiに満ちている](https://open.spotify.com/album/5SuByixIlQq7r1bValOe0G) | 3:51 |
 | 15 | [幸せ。](https://open.spotify.com/track/381po4CEVjsj92eHwQK8oI) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [瞬く世界にiを揺らせ](https://open.spotify.com/album/2GBDADasYHm9Rho9U0fET9) | 4:10 |
 | 16 | [今日もサクラ舞う暁に](https://open.spotify.com/track/50m9OQ3M9AEdJAoTHGWdVt) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [私を染めるiの歌](https://open.spotify.com/album/6XOpMOa1OV7QsCeLN8dBnT) | 4:15 |
-| 17 | [ハートの主張](https://open.spotify.com/track/5McUO0NAKaKWO22oeZgTZQ) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [世界はiに満ちている](https://open.spotify.com/album/5SuByixIlQq7r1bValOe0G) | 3:51 |
+| 17 | [冒険のVLOG](https://open.spotify.com/track/6KtkYlgZoBno6Ai894zfSD) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [冒険のVLOG](https://open.spotify.com/album/6GptwTcu5mCv9YkfXpJZVs) | 4:22 |
 | 18 | [ハンコウ予告](https://open.spotify.com/track/68xypX5iyrFelZyqqS5piG) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [iは自由で、縛れない。](https://open.spotify.com/album/4yF59YniNUs8m4iGk3yXms) | 4:03 |
 | 19 | [ミスター・ダーリン](https://open.spotify.com/track/4fTpi0cXVxpXRAv1i38Lug) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd), [Shoko Nakagawa](https://open.spotify.com/artist/046RRGSoYRQ7qIKliJJSNS) | [瞬く世界にiを揺らせ](https://open.spotify.com/album/2GBDADasYHm9Rho9U0fET9) | 4:05 |
 | 20 | [ウルフ](https://open.spotify.com/track/1bLD37KCQnlk0IlAr4gEnz) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [私を染めるiの歌](https://open.spotify.com/album/6XOpMOa1OV7QsCeLN8dBnT) | 3:51 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oyOhG.md) - [plain]
 | 44 | [ロデオ](https://open.spotify.com/track/55KyPEBJs1Pz20r3U8DHyX) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd), [sana](https://open.spotify.com/artist/3Wg732iXXGxhxxjwmhCAkT) | [今日もサクラ舞う暁に](https://open.spotify.com/album/12JuBA89662EPQLXiNF6KV) | 3:46 |
 | 45 | [胸キュンライト](https://open.spotify.com/track/1n2F8qXgUNMLgyWEghiSkD) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [決戦スピリット](https://open.spotify.com/album/3TBibsoN7MWyatpPM6ATjt) | 4:55 |
 
-Snapshot ID: `MjgwMjQ4NTIsMDAwMDAwMDAyNTY0ZDYxNTg2ZGE0NDBhY2UxNjQ1ZTU3ZDlmNzY1Yw==`
+Snapshot ID: `MjgwMjYwMzIsMDAwMDAwMDAzMWRmYzVlZjkxZjVhYzJjMGYwYjlkMDM2ZjNkMjY0Yw==`

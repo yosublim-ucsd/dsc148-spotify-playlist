@@ -4,7 +4,7 @@
 
 > pov: u hand the internet the aux
 
-163 songs - 8 hr 54 min
+164 songs - 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 | 2021-12-03 |  |
 | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Colin Hay](https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv) | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW) | 2:38 | 2022-01-04 | 2022-11-13 |
 | [Edge](https://open.spotify.com/track/4pCvnGkf7jveRMKHZosxxB) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [The Silence Is Deafening](https://open.spotify.com/album/52vZKQID1SqrbDnzE0Je5K) | 3:43 | 2022-01-26 | 2022-04-21 |
-| [Escapism\. \- Sped Up](https://open.spotify.com/track/4rPJSqrov3zqGwXlemLBMw) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. \(Sped Up\)](https://open.spotify.com/album/1bdKI997loh6G68NED2cwX) | 3:59 | 2022-11-30 |  |
+| [Escapism\. \- Sped Up](https://open.spotify.com/track/3XCpS4k8WqNnCpcDOSRRuz) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism.](https://open.spotify.com/album/4parxQfGC25WtlVVAm5S9q) | 3:59 | 2023-02-06 |  |
+| [Escapism\. \- Sped Up](https://open.spotify.com/track/4rPJSqrov3zqGwXlemLBMw) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. \(Sped Up\)](https://open.spotify.com/album/1bdKI997loh6G68NED2cwX) | 3:59 | 2022-11-30 | 2023-04-16 |
 | [Everybody Wants To Party](https://open.spotify.com/track/3hbi5zXAgQt0Z9V5JSOnCe) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV) | [Everybody Wants To Party](https://open.spotify.com/album/5gQsKvFQiPKop7tVdbvNSj) | 3:04 | 2021-12-03 | 2022-04-20 |
 | [Fashion Week](https://open.spotify.com/track/6ShImJT1uMlKJbdJh6MnbH) | [Thybxlle](https://open.spotify.com/artist/6bxjRFPDTdgf3HeJJJhes7) | [Fashion Week](https://open.spotify.com/album/71nuI99ptBQqwwE9ffKnLL) | 2:35 | 2021-12-03 | 2022-07-29 |
 | [Finally Find You](https://open.spotify.com/track/0fEg3weP8yuyHlcPpb8fKm) | [Derivakat](https://open.spotify.com/artist/4T7KICeQg50AwFzauMCR9C), [Netrum](https://open.spotify.com/artist/4X76fYx1a6EmEvCqDudesG) | [Finally Find You](https://open.spotify.com/album/17clwf7D1BlFkUUpzg5Wiy) | 3:48 | 2021-12-03 | 2022-04-21 |

@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 907626,
+  "num_followers": 907822,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg4NTAwMCwwMDAwMDAwMGFiMzRhMThlMjZiY2MzYWZiOGFmN2ExOWJiNTIwN2Qz",
+  "snapshot_id": "MTY4MDg4NTAwMCwwMDAwMDAwMDY5YWRiMmYyMjlmYzg1NGU5NWQ2N2U0NGY4ODk5NDVj",
   "tracks": [
     {
       "added_at": "2023-04-07 16:30:00",
@@ -599,6 +599,22 @@
     {
       "added_at": "2023-04-07 16:30:00",
       "album": {
+        "name": "Eye To Eye",
+        "url": "https://open.spotify.com/album/4MhknnFfLUIa16XZiicOvz"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        }
+      ],
+      "duration_ms": 155002,
+      "name": "Eye To Eye",
+      "url": "https://open.spotify.com/track/6wJJSeYggU23fFSiZoWj4U"
+    },
+    {
+      "added_at": "2023-04-07 16:30:00",
+      "album": {
         "name": "Nightbird",
         "url": "https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx"
       },
@@ -615,18 +631,18 @@
     {
       "added_at": "2023-04-07 16:30:00",
       "album": {
-        "name": "Eye To Eye",
-        "url": "https://open.spotify.com/album/4MhknnFfLUIa16XZiicOvz"
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/0m7I09FiI0eYNT87TUazHg"
       },
       "artists": [
         {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+          "name": "CHANEY",
+          "url": "https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX"
         }
       ],
-      "duration_ms": 155002,
-      "name": "Eye To Eye",
-      "url": "https://open.spotify.com/track/6wJJSeYggU23fFSiZoWj4U"
+      "duration_ms": 190512,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/6WarP4oMloYg0Z8H8IHeDq"
     },
     {
       "added_at": "2023-04-07 16:30:00",
@@ -647,22 +663,6 @@
       "duration_ms": 192382,
       "name": "Outer Space",
       "url": "https://open.spotify.com/track/4BSpzPw0jNM5YdfE6rbFi9"
-    },
-    {
-      "added_at": "2023-04-07 16:30:00",
-      "album": {
-        "name": "Love Again",
-        "url": "https://open.spotify.com/album/0m7I09FiI0eYNT87TUazHg"
-      },
-      "artists": [
-        {
-          "name": "CHANEY",
-          "url": "https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX"
-        }
-      ],
-      "duration_ms": 190512,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/6WarP4oMloYg0Z8H8IHeDq"
     },
     {
       "added_at": "2023-04-07 16:30:00",
@@ -711,6 +711,26 @@
     {
       "added_at": "2023-04-07 16:30:00",
       "album": {
+        "name": "Feel Again",
+        "url": "https://open.spotify.com/album/2uqVgoe1PcKmwx3ihlbevM"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "The Stickmen Project",
+          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
+        }
+      ],
+      "duration_ms": 130412,
+      "name": "No Fun",
+      "url": "https://open.spotify.com/track/1q3qh7hEJrPmPH7uOteYSr"
+    },
+    {
+      "added_at": "2023-04-07 16:30:00",
+      "album": {
         "name": "Another Level (ft. Lovespeake)",
         "url": "https://open.spotify.com/album/2xeEcUG4blN1kzZYfid0Wd"
       },
@@ -751,26 +771,6 @@
       "duration_ms": 217258,
       "name": "Eternity (feat. Lena Leon)",
       "url": "https://open.spotify.com/track/7DDIVNWlbGJpQjVDDg8rXR"
-    },
-    {
-      "added_at": "2023-04-07 16:30:00",
-      "album": {
-        "name": "Feel Again",
-        "url": "https://open.spotify.com/album/2uqVgoe1PcKmwx3ihlbevM"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "The Stickmen Project",
-          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
-        }
-      ],
-      "duration_ms": 130412,
-      "name": "No Fun",
-      "url": "https://open.spotify.com/track/1q3qh7hEJrPmPH7uOteYSr"
     },
     {
       "added_at": "2023-04-07 16:30:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-04-07 16:30:00",
       "album": {
-        "name": "Backseat Tape",
-        "url": "https://open.spotify.com/album/3vjULlZhcatjZgSREPs3V1"
-      },
-      "artists": [
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 169117,
-      "name": "Backseat",
-      "url": "https://open.spotify.com/track/7nMNn3PJJMjhipGwFedAm3"
-    },
-    {
-      "added_at": "2023-04-07 16:30:00",
-      "album": {
         "name": "Goodies - Knock2 Remix",
         "url": "https://open.spotify.com/album/3CZxe7XGcQsoTEPUQI9vn5"
       },
@@ -1011,6 +995,22 @@
     {
       "added_at": "2023-04-07 16:30:00",
       "album": {
+        "name": "Change Your Mind",
+        "url": "https://open.spotify.com/album/4lzvg3fmxUlAGaxfbWhBt4"
+      },
+      "artists": [
+        {
+          "name": "Interupt",
+          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
+        }
+      ],
+      "duration_ms": 184687,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/614o3Tg9I7Xv8xkovjSp7a"
+    },
+    {
+      "added_at": "2023-04-07 16:30:00",
+      "album": {
         "name": "Disco Tool (Remixes)",
         "url": "https://open.spotify.com/album/6khXcErq42ImzFnYg6WfxG"
       },
@@ -1083,38 +1083,26 @@
     {
       "added_at": "2023-04-07 16:30:00",
       "album": {
-        "name": "Change Your Mind",
-        "url": "https://open.spotify.com/album/4lzvg3fmxUlAGaxfbWhBt4"
+        "name": "Miami (\u00d6wnboss Remix) [feat. Nile Rodgers]",
+        "url": "https://open.spotify.com/album/2HTCGfMaVGgW5MJJaGH3oJ"
       },
       "artists": [
         {
-          "name": "Interupt",
-          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
-        }
-      ],
-      "duration_ms": 184687,
-      "name": "Change Your Mind",
-      "url": "https://open.spotify.com/track/614o3Tg9I7Xv8xkovjSp7a"
-    },
-    {
-      "added_at": "2023-04-07 16:30:00",
-      "album": {
-        "name": "Come Together",
-        "url": "https://open.spotify.com/album/0Z4NciZWgkICzAsdchEWep"
-      },
-      "artists": [
+          "name": "Lola Audreys",
+          "url": "https://open.spotify.com/artist/1hAEiB06cyEmWTSyt1BFkp"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        },
         {
           "name": "\u00d6wnboss",
           "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
-        },
-        {
-          "name": "DJ Glen",
-          "url": "https://open.spotify.com/artist/7FhUEuhPe1odyNav1iHfvd"
         }
       ],
-      "duration_ms": 219523,
-      "name": "Come Together",
-      "url": "https://open.spotify.com/track/33FAo8SU8bu8o5o2RMvQuZ"
+      "duration_ms": 225600,
+      "name": "Miami (\u00d6wnboss Extended Remix) [feat. Nile Rodgers]",
+      "url": "https://open.spotify.com/track/3lUJNlIFgP9lvunZIqgZH3"
     },
     {
       "added_at": "2023-04-07 16:30:00",
@@ -1143,30 +1131,6 @@
     {
       "added_at": "2023-04-07 16:30:00",
       "album": {
-        "name": "Miami (\u00d6wnboss Remix) [feat. Nile Rodgers]",
-        "url": "https://open.spotify.com/album/2HTCGfMaVGgW5MJJaGH3oJ"
-      },
-      "artists": [
-        {
-          "name": "Lola Audreys",
-          "url": "https://open.spotify.com/artist/1hAEiB06cyEmWTSyt1BFkp"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        },
-        {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "Miami (\u00d6wnboss Extended Remix) [feat. Nile Rodgers]",
-      "url": "https://open.spotify.com/track/3lUJNlIFgP9lvunZIqgZH3"
-    },
-    {
-      "added_at": "2023-04-07 16:30:00",
-      "album": {
         "name": "Gotta Let U Go",
         "url": "https://open.spotify.com/album/7ju3PeAUzEAJciTPBNKGMp"
       },
@@ -1183,6 +1147,26 @@
       "duration_ms": 149219,
       "name": "Gotta Let U Go",
       "url": "https://open.spotify.com/track/4Vq7Yn4AyMqIll2Xh5waNl"
+    },
+    {
+      "added_at": "2023-04-07 16:30:00",
+      "album": {
+        "name": "Come Together",
+        "url": "https://open.spotify.com/album/0Z4NciZWgkICzAsdchEWep"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "DJ Glen",
+          "url": "https://open.spotify.com/artist/7FhUEuhPe1odyNav1iHfvd"
+        }
+      ],
+      "duration_ms": 219523,
+      "name": "Come Together",
+      "url": "https://open.spotify.com/track/33FAo8SU8bu8o5o2RMvQuZ"
     },
     {
       "added_at": "2023-04-07 16:30:00",
@@ -1207,22 +1191,18 @@
     {
       "added_at": "2023-04-07 16:30:00",
       "album": {
-        "name": "Shakedown",
-        "url": "https://open.spotify.com/album/7zclPlPYmivvLPyk4GQliz"
+        "name": "Backseat Tape",
+        "url": "https://open.spotify.com/album/3kukhQjrtZcMNL43oLBedf"
       },
       "artists": [
         {
-          "name": "NUZB",
-          "url": "https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa"
-        },
-        {
-          "name": "Mo Falk",
-          "url": "https://open.spotify.com/artist/40U5WCKQ9YGndn2bqa5vEZ"
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
         }
       ],
-      "duration_ms": 160367,
-      "name": "Shakedown",
-      "url": "https://open.spotify.com/track/7sXuBbvVc7ntRShABTEcm5"
+      "duration_ms": 169207,
+      "name": "Backseat",
+      "url": "https://open.spotify.com/track/1TeG6xwHJG8Y6fiw7PebSl"
     },
     {
       "added_at": "2023-04-07 16:30:00",
@@ -1247,22 +1227,22 @@
     {
       "added_at": "2023-04-07 16:30:00",
       "album": {
-        "name": "Molotov",
-        "url": "https://open.spotify.com/album/1EdnERTVSGKrVPNq7tb44e"
+        "name": "Shakedown",
+        "url": "https://open.spotify.com/album/7zclPlPYmivvLPyk4GQliz"
       },
       "artists": [
         {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+          "name": "NUZB",
+          "url": "https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa"
         },
         {
-          "name": "Malaa",
-          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+          "name": "Mo Falk",
+          "url": "https://open.spotify.com/artist/40U5WCKQ9YGndn2bqa5vEZ"
         }
       ],
-      "duration_ms": 178065,
-      "name": "Molotov",
-      "url": "https://open.spotify.com/track/6FggaqcdwsE4pocJ5GaWxr"
+      "duration_ms": 160367,
+      "name": "Shakedown",
+      "url": "https://open.spotify.com/track/7sXuBbvVc7ntRShABTEcm5"
     },
     {
       "added_at": "2023-04-07 16:30:00",
@@ -1283,6 +1263,26 @@
       "duration_ms": 220669,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/4QoMRrDVsT1RVFq7Wy6xLM"
+    },
+    {
+      "added_at": "2023-04-07 16:30:00",
+      "album": {
+        "name": "Molotov",
+        "url": "https://open.spotify.com/album/1EdnERTVSGKrVPNq7tb44e"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        },
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        }
+      ],
+      "duration_ms": 178065,
+      "name": "Molotov",
+      "url": "https://open.spotify.com/track/6FggaqcdwsE4pocJ5GaWxr"
     },
     {
       "added_at": "2023-04-07 16:30:00",
@@ -1327,26 +1327,22 @@
     {
       "added_at": "2023-04-07 16:30:00",
       "album": {
-        "name": "Inside Out",
-        "url": "https://open.spotify.com/album/31uJRIZULUZVh9xEz1bgBH"
+        "name": "Free My Mind",
+        "url": "https://open.spotify.com/album/1W09O51MifKfx4XAl851q9"
       },
       "artists": [
         {
-          "name": "Azteck",
-          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
         },
         {
-          "name": "Angemi",
-          "url": "https://open.spotify.com/artist/3q5DAsSH8efMqNxjxbdpGx"
-        },
-        {
-          "name": "Laura White",
-          "url": "https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4"
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
         }
       ],
-      "duration_ms": 160047,
-      "name": "Inside Out",
-      "url": "https://open.spotify.com/track/2CwHctWzU9Woi5C5ZC5m38"
+      "duration_ms": 171076,
+      "name": "Free My Mind",
+      "url": "https://open.spotify.com/track/3FEDVRLhSQbtXKXrUhsEJa"
     },
     {
       "added_at": "2023-04-07 16:30:00",
@@ -1371,22 +1367,26 @@
     {
       "added_at": "2023-04-07 16:30:00",
       "album": {
-        "name": "Free My Mind",
-        "url": "https://open.spotify.com/album/1W09O51MifKfx4XAl851q9"
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/31uJRIZULUZVh9xEz1bgBH"
       },
       "artists": [
         {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+          "name": "Azteck",
+          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
         },
         {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+          "name": "Angemi",
+          "url": "https://open.spotify.com/artist/3q5DAsSH8efMqNxjxbdpGx"
+        },
+        {
+          "name": "Laura White",
+          "url": "https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4"
         }
       ],
-      "duration_ms": 171076,
-      "name": "Free My Mind",
-      "url": "https://open.spotify.com/track/3FEDVRLhSQbtXKXrUhsEJa"
+      "duration_ms": 160047,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/2CwHctWzU9Woi5C5ZC5m38"
     },
     {
       "added_at": "2023-04-07 16:30:00",
@@ -1439,22 +1439,22 @@
     {
       "added_at": "2023-04-07 16:30:00",
       "album": {
-        "name": "I Wanna",
-        "url": "https://open.spotify.com/album/4hCKZABBaMgkZgDb7CizQR"
+        "name": "Have Me All (feat. Jelita)",
+        "url": "https://open.spotify.com/album/5Cg1VcWn4inAueYXbUcNY6"
       },
       "artists": [
         {
-          "name": "JSTJR",
-          "url": "https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP"
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
         },
         {
-          "name": "Henry Fong",
-          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+          "name": "Jelita",
+          "url": "https://open.spotify.com/artist/596BA0qMEP52RCEOiqIrnr"
         }
       ],
-      "duration_ms": 155520,
-      "name": "I Wanna",
-      "url": "https://open.spotify.com/track/05a3JJNTzhoBFtux514zLj"
+      "duration_ms": 170004,
+      "name": "Have Me All (feat. Jelita)",
+      "url": "https://open.spotify.com/track/5NAeLHGIbxGcmKMwYxuwWS"
     },
     {
       "added_at": "2023-04-07 16:30:00",
@@ -1471,6 +1471,26 @@
       "duration_ms": 165245,
       "name": "Cheque",
       "url": "https://open.spotify.com/track/1CE0qHhs1ptJg01dGROO2c"
+    },
+    {
+      "added_at": "2023-04-07 16:30:00",
+      "album": {
+        "name": "I Wanna",
+        "url": "https://open.spotify.com/album/4hCKZABBaMgkZgDb7CizQR"
+      },
+      "artists": [
+        {
+          "name": "JSTJR",
+          "url": "https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP"
+        },
+        {
+          "name": "Henry Fong",
+          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+        }
+      ],
+      "duration_ms": 155520,
+      "name": "I Wanna",
+      "url": "https://open.spotify.com/track/05a3JJNTzhoBFtux514zLj"
     },
     {
       "added_at": "2023-04-07 16:30:00",
@@ -1495,22 +1515,18 @@
     {
       "added_at": "2023-04-07 16:30:00",
       "album": {
-        "name": "Have Me All (feat. Jelita)",
-        "url": "https://open.spotify.com/album/5Cg1VcWn4inAueYXbUcNY6"
+        "name": "LEFT TO RIGHT",
+        "url": "https://open.spotify.com/album/4XxU08p7ONrZLDuLy0zx2Q"
       },
       "artists": [
         {
-          "name": "Bleu Clair",
-          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
-        },
-        {
-          "name": "Jelita",
-          "url": "https://open.spotify.com/artist/596BA0qMEP52RCEOiqIrnr"
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
         }
       ],
-      "duration_ms": 170004,
-      "name": "Have Me All (feat. Jelita)",
-      "url": "https://open.spotify.com/track/5NAeLHGIbxGcmKMwYxuwWS"
+      "duration_ms": 146250,
+      "name": "LEFT TO RIGHT",
+      "url": "https://open.spotify.com/track/34S5HQW5JoLBO9VS9YSSQc"
     },
     {
       "added_at": "2023-04-07 16:30:00",
@@ -1551,6 +1567,26 @@
     {
       "added_at": "2023-04-07 16:30:00",
       "album": {
+        "name": "Bumba Bass",
+        "url": "https://open.spotify.com/album/5jpu3knFAP2QMFzwa3JBFn"
+      },
+      "artists": [
+        {
+          "name": "TV Noise",
+          "url": "https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ"
+        },
+        {
+          "name": "Henry Fong",
+          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+        }
+      ],
+      "duration_ms": 133125,
+      "name": "Bumba Bass",
+      "url": "https://open.spotify.com/track/119lPAmtAB9PhFXE7XBWV2"
+    },
+    {
+      "added_at": "2023-04-07 16:30:00",
+      "album": {
         "name": "Late Night Feels (\u00d6wnboss Remix)",
         "url": "https://open.spotify.com/album/5OOvHH51kDIkwrJv4YUEIQ"
       },
@@ -1571,42 +1607,6 @@
       "duration_ms": 190800,
       "name": "Late Night Feels (\u00d6wnboss Remix)",
       "url": "https://open.spotify.com/track/0xjVvYD6h76UlNkGl3L7Q4"
-    },
-    {
-      "added_at": "2023-04-07 16:30:00",
-      "album": {
-        "name": "LEFT TO RIGHT",
-        "url": "https://open.spotify.com/album/4XxU08p7ONrZLDuLy0zx2Q"
-      },
-      "artists": [
-        {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "LEFT TO RIGHT",
-      "url": "https://open.spotify.com/track/34S5HQW5JoLBO9VS9YSSQc"
-    },
-    {
-      "added_at": "2023-04-07 16:30:00",
-      "album": {
-        "name": "Bumba Bass",
-        "url": "https://open.spotify.com/album/5jpu3knFAP2QMFzwa3JBFn"
-      },
-      "artists": [
-        {
-          "name": "TV Noise",
-          "url": "https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ"
-        },
-        {
-          "name": "Henry Fong",
-          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
-        }
-      ],
-      "duration_ms": 133125,
-      "name": "Bumba Bass",
-      "url": "https://open.spotify.com/track/119lPAmtAB9PhFXE7XBWV2"
     },
     {
       "added_at": "2023-04-07 16:30:00",
@@ -1911,18 +1911,18 @@
     {
       "added_at": "2023-04-07 16:30:00",
       "album": {
-        "name": "Rave Shake",
-        "url": "https://open.spotify.com/album/5QPR7iKTyHlRQVKFO5gP7b"
+        "name": "Other Side",
+        "url": "https://open.spotify.com/album/5NCLNQpMVsuEWQV5MlBefi"
       },
       "artists": [
         {
-          "name": "Stafford Brothers",
-          "url": "https://open.spotify.com/artist/1dnbud9cuozLQ86MtrDPFr"
+          "name": "Rnbstylerz",
+          "url": "https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg"
         }
       ],
-      "duration_ms": 124761,
-      "name": "Rave Shake",
-      "url": "https://open.spotify.com/track/6vJrnybmqS082z1aWP5Gyk"
+      "duration_ms": 171716,
+      "name": "Other Side",
+      "url": "https://open.spotify.com/track/00AM1H8UVnoPi3fOYvu5Nv"
     },
     {
       "added_at": "2023-04-07 16:30:00",

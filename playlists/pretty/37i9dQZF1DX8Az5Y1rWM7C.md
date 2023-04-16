@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Az5Y1rWM7C.md) - [plain]
 
 > Revive lo mejor del trap latino del año.<br/>Foto: Jhay Cortez, Anuel AA & J Balvin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,387 likes - 60 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,429 likes - 60 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Az5Y1rWM7C.md) - [plain]
 | 55 | [Hasta Que Salga el Sol](https://open.spotify.com/track/1QqZIOb0TJN5e0xvU1GmMp) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Hay Vida en Venus](https://open.spotify.com/album/0sWnir8GiTLpROsfBuMHRF) | 3:29 |
 | 56 | [My Blood Remix \(feat\. Julianno Sosa\)](https://open.spotify.com/track/0XisiywmNf0JO3HuYAHCjh) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [My Blood Remix \(feat\. Julianno Sosa\)](https://open.spotify.com/album/4891w8atdNgY3DQ1Mjiahq) | 4:12 |
 | 57 | [Pininfarina \- Remix](https://open.spotify.com/track/1mVLbFwad1wce7mAhFw2Ih) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Pininfarina \(Remix\)](https://open.spotify.com/album/0CzV3HI7g08eTofa53ewRP) | 4:20 |
-| 58 | [Cállese](https://open.spotify.com/track/360mOrU0yolwXKY8z2uEaE) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [Opium G](https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl), [Jay Romero](https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Mixtape Rich Vagos](https://open.spotify.com/album/6Md2vrD9ioekgr6GmzF5ce) | 4:57 |
+| 58 | [Cállese](https://open.spotify.com/track/360mOrU0yolwXKY8z2uEaE) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [OPYI](https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl), [Jay Romero](https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Mixtape Rich Vagos](https://open.spotify.com/album/6Md2vrD9ioekgr6GmzF5ce) | 4:57 |
 | 59 | [Arre](https://open.spotify.com/track/6lQ7ubRjFRpxkRtlFnMJRl) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Arre](https://open.spotify.com/album/5AvCEcQVDKDRsQpx0fmtxN) | 2:48 |
 | 60 | [FULL ICE \(prod\. ORODEMBOW\)](https://open.spotify.com/track/2wK7D7i9bfVt3uLjFsZSEU) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [HECHO A MANO](https://open.spotify.com/album/7vpRavovNYZYzEOieN5pvU) | 2:40 |
 

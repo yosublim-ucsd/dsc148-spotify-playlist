@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8cdrgQYJ4n.md) - [plain]
 
 > 솔로여도 괜찮은 나를 위한 노래들
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,138 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,152 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8cdrgQYJ4n.md) - [plain]
 | 9 | [IDOL](https://open.spotify.com/track/1e8J3XClxZbFmvIHLI8CE4) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 3:42 |
 | 10 | [SHOUT OUT](https://open.spotify.com/track/5Z2DNRAhs6r4VdINVkRhYY) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [MANIFESTO : DAY 1](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) | 3:48 |
 | 11 | [Maria](https://open.spotify.com/track/0ZeGfEAL5Rl4pd5LZBGuEK) | [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [María](https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3) | 3:19 |
-| 12 | [Queendom](https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Queendom \- The 6th Mini Album](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) | 3:01 |
-| 13 | [Kitsch](https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:15 |
+| 12 | [Kitsch](https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:15 |
+| 13 | [Queendom](https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Queendom \- The 6th Mini Album](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) | 3:01 |
 | 14 | [Burning Up \(Fire\)](https://open.spotify.com/track/0aE3V0zgSD2YwkEHW42gxG) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life: Young Forever](https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09) | 3:23 |
 | 15 | [Cold Blooded](https://open.spotify.com/track/34JfHOd0fcefm4FSPSrIhF) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [Cold Blooded](https://open.spotify.com/album/4CTDrZw6m0dTJX17OCEbfZ) | 2:30 |
 | 16 | [Hello Bitches](https://open.spotify.com/track/72ysGFB4mZTgQsPqN9PzPS) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [Hello Bitches](https://open.spotify.com/album/1pu6aEuAKBdTdQLSbfBNTG) | 2:58 |
@@ -47,10 +47,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8cdrgQYJ4n.md) - [plain]
 | 37 | [End Better \(Feat\. Skinny Brown\)](https://open.spotify.com/track/5BVRrg0ewd72Jdzj7Oizty) | [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [TOAST](https://open.spotify.com/album/7zj1ryzYXQdewJ1bWQaHbJ) | 3:43 |
 | 38 | [Bad Girls](https://open.spotify.com/track/2IrmdHJjwBH1pFIMcTJ1xq) | [Lee Hyori](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5) | [MONOCHROME](https://open.spotify.com/album/7Bhg7EOxBASEzLV3U6DnjK) | 3:27 |
 | 39 | [Freaky \(Prod\. GroovyRoom\)](https://open.spotify.com/track/4dDRXGfTI5mWBnDuVRxTLe) | [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [Freaky](https://open.spotify.com/album/1Z55bFaYwBmghHzXTpqWYp) | 2:53 |
-| 40 | [Sorry](https://open.spotify.com/track/3OYuHSIBy3KrBDXG9Au5r8) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Wish & Wind](https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF) | 3:37 |
+| 40 | [Sexy 4 Eva](https://open.spotify.com/track/1RPQAYvomUz5QAim2hj6cn) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Ask Bout Me](https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM) | 3:41 |
 | 41 | [SELFISH \(Feat\. SEULGI Of Red Velvet\)](https://open.spotify.com/track/4Lgd631IfDKMLPu6t7L0Tj) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL), [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [SELFISH](https://open.spotify.com/album/0HtGtnnnFeWmtvgNFg0dr1) | 3:12 |
 | 42 | [HAPPY](https://open.spotify.com/track/5UteR9bUlDg8I70brft1Vh) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [CRUSH](https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL) | 3:36 |
-| 43 | [Sexy 4 Eva](https://open.spotify.com/track/1RPQAYvomUz5QAim2hj6cn) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Ask Bout Me](https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM) | 3:41 |
+| 43 | [Sorry](https://open.spotify.com/track/3OYuHSIBy3KrBDXG9Au5r8) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Wish & Wind](https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF) | 3:37 |
 | 44 | [SOLO DAY](https://open.spotify.com/track/58wbNn4eEsvAqTz4JJxn9L) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [SOLO DAY](https://open.spotify.com/album/5bzGBXIqZIiqKJHDTNP8ix) | 3:19 |
 | 45 | [HeartBROKEN PlaYBoY](https://open.spotify.com/track/4zcoVOaN97y4WPUUAtDu0j) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | [LUCKY MAN](https://open.spotify.com/album/2dY5DQcOw6DiVpmbDNRm5e) | 3:36 |
 | 46 | [Drink it, Girls!](https://open.spotify.com/track/1iJX2WMpUpYsuxkKLPhVH8) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Work Later Drink Now S2, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/0eYBfC57JfL2mZgcBTEZnh) | 2:56 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8cdrgQYJ4n.md) - [plain]
 | 59 | [lazygirl](https://open.spotify.com/track/0esXzdqhlme2yoddwCxFKK) | [Chuther](https://open.spotify.com/artist/3CiocMn9SHnAzKqqPa8mnQ) | [lazygirl](https://open.spotify.com/album/1U3SqPnlfdCLepaAqG9QtQ) | 2:46 |
 | 60 | [Fashion Hoarder](https://open.spotify.com/track/74yV7OO9okeK2VROw9k8aq) | [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg), [ZENE THE ZILLA](https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN) | [Fashion Hoarder](https://open.spotify.com/album/54raPqsVO70w92rOVD1plB) | 3:07 |
 
-Snapshot ID: `MTY4MDc1Mzg2NSwwMDAwMDAwMDU1Y2Y0YWI0Mjc5MjIyN2ZmMzhjMDRmYjI4ZWRkNWVi`
+Snapshot ID: `MTY4MDc1Mzg2NSwwMDAwMDAwMGJiNzk0ZDUzZjhkNDEyYzk2YTZmYzJjY2QwODhjZTYy`

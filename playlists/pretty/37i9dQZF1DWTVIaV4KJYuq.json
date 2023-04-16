@@ -1,12 +1,12 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 673417,
+  "num_followers": 673551,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMGEyZWNmNDA2ZDIzOWUxODdkNzAzMjZhMjhmZDUyZDNl",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMGFjYTIzZTEyN2ZjOGY0NjM3MzVmNWQxYWVjM2QxNGIx",
   "tracks": [
     {
       "added_at": "2022-09-30 04:00:00",
@@ -391,6 +391,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Sunshine on a Cloudy Day",
+        "url": "https://open.spotify.com/album/2ip6XgW8Ws3R2K6Y7nBRJz"
+      },
+      "artists": [
+        {
+          "name": "Laura Zocca",
+          "url": "https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7"
+        }
+      ],
+      "duration_ms": 166438,
+      "name": "I Want You Back",
+      "url": "https://open.spotify.com/track/0oiNNnrv5iYEl96RimHw8G"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Forever Young (From NBC's Parenthood)",
         "url": "https://open.spotify.com/album/6Q7WssoFXDJoqNEkn8LnWN"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 199426,
       "name": "Don't You Want Me",
       "url": "https://open.spotify.com/track/0bmDpMruiJpzV5eQ92W0Lq"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Sunshine on a Cloudy Day",
-        "url": "https://open.spotify.com/album/2ip6XgW8Ws3R2K6Y7nBRJz"
-      },
-      "artists": [
-        {
-          "name": "Laura Zocca",
-          "url": "https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7"
-        }
-      ],
-      "duration_ms": 166438,
-      "name": "I Want You Back",
-      "url": "https://open.spotify.com/track/0oiNNnrv5iYEl96RimHw8G"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Playing Chess",
-        "url": "https://open.spotify.com/album/2Ob030pqqBl9S3DZ6kddLU"
-      },
-      "artists": [
-        {
-          "name": "Elise LeGrow",
-          "url": "https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8"
-        }
-      ],
-      "duration_ms": 185755,
-      "name": "You Never Can Tell",
-      "url": "https://open.spotify.com/track/1GLMm7mMGNZznCUDr5JOkX"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Hallelujah",
         "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 229574,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Playing Chess",
+        "url": "https://open.spotify.com/album/2Ob030pqqBl9S3DZ6kddLU"
+      },
+      "artists": [
+        {
+          "name": "Elise LeGrow",
+          "url": "https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8"
+        }
+      ],
+      "duration_ms": 185755,
+      "name": "You Never Can Tell",
+      "url": "https://open.spotify.com/track/1GLMm7mMGNZznCUDr5JOkX"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/2fEYL3YBVILeEuiKJL7S2n"
-      },
-      "artists": [
-        {
-          "name": "Madilyn Bailey",
-          "url": "https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU"
-        }
-      ],
-      "duration_ms": 236666,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/1ty3N197je3o1dN0F6Fu1G"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "I Remember Everything",
         "url": "https://open.spotify.com/album/3ei2zsbxwzra1rMmokmYZM"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 156146,
       "name": "I Remember Everything",
       "url": "https://open.spotify.com/track/1J6OHcQjnrD0upP4skciHO"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/2fEYL3YBVILeEuiKJL7S2n"
+      },
+      "artists": [
+        {
+          "name": "Madilyn Bailey",
+          "url": "https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU"
+        }
+      ],
+      "duration_ms": 236666,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/1ty3N197je3o1dN0F6Fu1G"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Both Sides Now",
-        "url": "https://open.spotify.com/album/7vlApA4V6FDavmJBpr3R5N"
-      },
-      "artists": [
-        {
-          "name": "Luke Sital-Singh",
-          "url": "https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG"
-        }
-      ],
-      "duration_ms": 257941,
-      "name": "Both Sides Now",
-      "url": "https://open.spotify.com/track/0d5tb0XcClqZo7CJ4GQuBm"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Anthem +3",
         "url": "https://open.spotify.com/album/6QjbX8JjvSfG5daXAeQKEU"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 345773,
       "name": "Anthem",
       "url": "https://open.spotify.com/track/2oubpFgSp6kOuL4XeBIHe9"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Both Sides Now",
+        "url": "https://open.spotify.com/album/7vlApA4V6FDavmJBpr3R5N"
+      },
+      "artists": [
+        {
+          "name": "Luke Sital-Singh",
+          "url": "https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG"
+        }
+      ],
+      "duration_ms": 257941,
+      "name": "Both Sides Now",
+      "url": "https://open.spotify.com/track/0d5tb0XcClqZo7CJ4GQuBm"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1627,26 +1627,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Rita Wilson Now & Forever: Duets",
-        "url": "https://open.spotify.com/album/3HjYQdV5p5j8SoXIaAr6C0"
-      },
-      "artists": [
-        {
-          "name": "Rita Wilson",
-          "url": "https://open.spotify.com/artist/60LfX8q7jliswygVxBPIL4"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 293066,
-      "name": "Slip Slidin' Away",
-      "url": "https://open.spotify.com/track/6AR6KJkyuFJT4dgPEd7VMo"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Black Pumas (Expanded Deluxe Edition)",
         "url": "https://open.spotify.com/album/3dgyglN3wrQu131OIjkdh7"
       },
@@ -1667,18 +1647,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Mercy Mercy Me (The Ecology)",
-        "url": "https://open.spotify.com/album/23R9tHU6mYMP4vLItECWfl"
+        "name": "Rita Wilson Now & Forever: Duets",
+        "url": "https://open.spotify.com/album/3HjYQdV5p5j8SoXIaAr6C0"
       },
       "artists": [
         {
-          "name": "Devon Gilfillian",
-          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
+          "name": "Rita Wilson",
+          "url": "https://open.spotify.com/artist/60LfX8q7jliswygVxBPIL4"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 190885,
-      "name": "Mercy Mercy Me (The Ecology)",
-      "url": "https://open.spotify.com/track/0rwicAYj73I9yhDUB40E1e"
+      "duration_ms": 293066,
+      "name": "Slip Slidin' Away",
+      "url": "https://open.spotify.com/track/6AR6KJkyuFJT4dgPEd7VMo"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1695,6 +1679,22 @@
       "duration_ms": 224666,
       "name": "More Than a Woman",
       "url": "https://open.spotify.com/track/7rYyYKW8QxGzkRnqa165JC"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Mercy Mercy Me (The Ecology)",
+        "url": "https://open.spotify.com/album/23R9tHU6mYMP4vLItECWfl"
+      },
+      "artists": [
+        {
+          "name": "Devon Gilfillian",
+          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
+        }
+      ],
+      "duration_ms": 190885,
+      "name": "Mercy Mercy Me (The Ecology)",
+      "url": "https://open.spotify.com/track/0rwicAYj73I9yhDUB40E1e"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Have A Little Faith In Me",
-        "url": "https://open.spotify.com/album/1PtoVjKtDnOq817SFuQtY3"
-      },
-      "artists": [
-        {
-          "name": "Mickey Guyton",
-          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
-        }
-      ],
-      "duration_ms": 222600,
-      "name": "Have A Little Faith In Me",
-      "url": "https://open.spotify.com/track/3quCjFNuNRh2UR7D9CYWgU"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Vignettes",
         "url": "https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 218389,
       "name": "Bell Bottom Blues",
       "url": "https://open.spotify.com/track/5KxLj4W0bQhMZd7SqfTkHE"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Have A Little Faith In Me",
+        "url": "https://open.spotify.com/album/1PtoVjKtDnOq817SFuQtY3"
+      },
+      "artists": [
+        {
+          "name": "Mickey Guyton",
+          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
+        }
+      ],
+      "duration_ms": 222600,
+      "name": "Have A Little Faith In Me",
+      "url": "https://open.spotify.com/track/3quCjFNuNRh2UR7D9CYWgU"
     }
   ],
   "unique_name": "Classic Covers",

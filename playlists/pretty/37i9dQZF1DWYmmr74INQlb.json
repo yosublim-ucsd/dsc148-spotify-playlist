@@ -1,12 +1,12 @@
 {
   "description": "The most essential R&B songs from the 2000s. Cover: Usher",
-  "num_followers": 4337319,
+  "num_followers": 4338719,
   "original_name": "I Love My '00s R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDkwNDM3NywwMDAwMDAwMGQ4ZTM3NWMwZWFjMTBkNDcwYzJjMjlmOTllYmIxMWUx",
+  "snapshot_id": "MTY4MDkwNDM3NywwMDAwMDAwMGVjMTU5ZGJjNzkzYjg4NjNlMmNkYjk5Nzk4YWFiODdl",
   "tracks": [
     {
       "added_at": "2022-02-11 05:00:00",
@@ -565,6 +565,22 @@
       "url": "https://open.spotify.com/track/1m2xMsxbtxv21Brome189p"
     },
     {
+      "added_at": "2022-08-21 19:36:42",
+      "album": {
+        "name": "The Element Of Freedom",
+        "url": "https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 249240,
+      "name": "Un-thinkable (I'm Ready)",
+      "url": "https://open.spotify.com/track/4JOP8ELK6AaeySe7sKe996"
+    },
+    {
       "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "Just Like You",
@@ -603,22 +619,6 @@
       "duration_ms": 191573,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/18JosZY3HzD3lMy6iOOSAY"
-    },
-    {
-      "added_at": "2022-08-21 19:36:42",
-      "album": {
-        "name": "The Element Of Freedom",
-        "url": "https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 249240,
-      "name": "Un-thinkable (I'm Ready)",
-      "url": "https://open.spotify.com/track/4JOP8ELK6AaeySe7sKe996"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -721,6 +721,22 @@
       "url": "https://open.spotify.com/track/3wkNK8tJZ2stygNJm8RCRD"
     },
     {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "The Diary Of Alicia Keys",
+        "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 366733,
+      "name": "You Don't Know My Name",
+      "url": "https://open.spotify.com/track/6LGwYMXXgURfaequXipzHx"
+    },
+    {
       "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "Back Of My Lac'",
@@ -739,22 +755,6 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "After The Storm",
-        "url": "https://open.spotify.com/album/4lSQkGgFffaUOd22Yrc25v"
-      },
-      "artists": [
-        {
-          "name": "Monica",
-          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
-        }
-      ],
-      "duration_ms": 242773,
-      "name": "So Gone",
-      "url": "https://open.spotify.com/track/6BIcjFZIVDZxNAcofRFPx4"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
         "name": "Part III",
         "url": "https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb"
       },
@@ -769,20 +769,20 @@
       "url": "https://open.spotify.com/track/2SLZ2rX5773RS16mcqBxG7"
     },
     {
-      "added_at": "2022-08-21 11:22:08",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "The Diary Of Alicia Keys",
-        "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
+        "name": "After The Storm",
+        "url": "https://open.spotify.com/album/4lSQkGgFffaUOd22Yrc25v"
       },
       "artists": [
         {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+          "name": "Monica",
+          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
         }
       ],
-      "duration_ms": 366733,
-      "name": "You Don't Know My Name",
-      "url": "https://open.spotify.com/track/6LGwYMXXgURfaequXipzHx"
+      "duration_ms": 242773,
+      "name": "So Gone",
+      "url": "https://open.spotify.com/track/6BIcjFZIVDZxNAcofRFPx4"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -1141,6 +1141,22 @@
       "url": "https://open.spotify.com/track/4x2YdtTppdbL4kHPOjaunq"
     },
     {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "BLACKsummers'night (2009)",
+        "url": "https://open.spotify.com/album/1cXFSOdjxmS13cOTtnNQAo"
+      },
+      "artists": [
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+        }
+      ],
+      "duration_ms": 310520,
+      "name": "Pretty Wings - uncut",
+      "url": "https://open.spotify.com/track/22NLm3IIR9NLG0cUYtmHMW"
+    },
+    {
       "added_at": "2022-08-23 02:57:28",
       "album": {
         "name": "Truthfully Speaking",
@@ -1159,22 +1175,6 @@
       "duration_ms": 226440,
       "name": "Addictive",
       "url": "https://open.spotify.com/track/36jSIOSE72neBbKntCthqw"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "BLACKsummers'night (2009)",
-        "url": "https://open.spotify.com/album/1cXFSOdjxmS13cOTtnNQAo"
-      },
-      "artists": [
-        {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
-        }
-      ],
-      "duration_ms": 310520,
-      "name": "Pretty Wings - uncut",
-      "url": "https://open.spotify.com/track/22NLm3IIR9NLG0cUYtmHMW"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -1297,22 +1297,6 @@
       "url": "https://open.spotify.com/track/0xikWgPgYN9BEes0ieZ8Co"
     },
     {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
-        "name": "Mars/Venus",
-        "url": "https://open.spotify.com/album/5I8dujSQv3pxhJo6n2ifWv"
-      },
-      "artists": [
-        {
-          "name": "Koffee Brown",
-          "url": "https://open.spotify.com/artist/6HEyD6mSqQQKMVilyU31ZY"
-        }
-      ],
-      "duration_ms": 214560,
-      "name": "After Party",
-      "url": "https://open.spotify.com/track/5cvMzT7kEvcxcdtcJz1vQY"
-    },
-    {
       "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "21",
@@ -1327,6 +1311,22 @@
       "duration_ms": 256426,
       "name": "Ice Box",
       "url": "https://open.spotify.com/track/5qhlC4Rzals34zxovrPzKp"
+    },
+    {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "Ashanti",
+        "url": "https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X"
+      },
+      "artists": [
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        }
+      ],
+      "duration_ms": 265706,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/6cZPfzVtkicrA3CyjqYKhu"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
-        "name": "Ashanti",
-        "url": "https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X"
+        "name": "Mars/Venus",
+        "url": "https://open.spotify.com/album/5I8dujSQv3pxhJo6n2ifWv"
       },
       "artists": [
         {
-          "name": "Ashanti",
-          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+          "name": "Koffee Brown",
+          "url": "https://open.spotify.com/artist/6HEyD6mSqQQKMVilyU31ZY"
         }
       ],
-      "duration_ms": 265706,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/6cZPfzVtkicrA3CyjqYKhu"
+      "duration_ms": 214560,
+      "name": "After Party",
+      "url": "https://open.spotify.com/track/5cvMzT7kEvcxcdtcJz1vQY"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
-        "name": "Lovers Rock",
-        "url": "https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 253106,
-      "name": "Lovers Rock",
-      "url": "https://open.spotify.com/track/77lKjGkhvWuimTzQxA4STK"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
         "name": "Open Letter",
         "url": "https://open.spotify.com/album/5nfFCN6B0AhReHctfLi1vL"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 284666,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/0CmXXEwul09Kf8X68lPA5l"
+    },
+    {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "Lovers Rock",
+        "url": "https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 253106,
+      "name": "Lovers Rock",
+      "url": "https://open.spotify.com/track/77lKjGkhvWuimTzQxA4STK"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
-        "name": "Pleasure & Pain",
-        "url": "https://open.spotify.com/album/3gY1qUrGzKNQnorPC9Lu72"
-      },
-      "artists": [
-        {
-          "name": "112",
-          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
-        }
-      ],
-      "duration_ms": 198880,
-      "name": "U Already Know",
-      "url": "https://open.spotify.com/track/0ahRDzkKq0KEi7FRoHb0qk"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
         "name": "Mama's Gun",
         "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 348893,
       "name": "Bag Lady",
       "url": "https://open.spotify.com/track/7BgUcOjSOlKJXASLgJ6bx1"
+    },
+    {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "Pleasure & Pain",
+        "url": "https://open.spotify.com/album/3gY1qUrGzKNQnorPC9Lu72"
+      },
+      "artists": [
+        {
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+        }
+      ],
+      "duration_ms": 198880,
+      "name": "U Already Know",
+      "url": "https://open.spotify.com/track/0ahRDzkKq0KEi7FRoHb0qk"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -1539,26 +1539,6 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5DimfXX31HuU0yxW0Ca5Uj"
-      },
-      "artists": [
-        {
-          "name": "B2K",
-          "url": "https://open.spotify.com/artist/51d3rUlLuMh7EW09aMe7yj"
-        },
-        {
-          "name": "Diddy",
-          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
-        }
-      ],
-      "duration_ms": 282533,
-      "name": "Bump, Bump, Bump (feat. P. Diddy)",
-      "url": "https://open.spotify.com/track/74jMwg2zsFMICzW3Wems6h"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
         "name": "Ms. Kelly",
         "url": "https://open.spotify.com/album/2aBdyOINaz4J1aap1eoLPW"
       },
@@ -1575,6 +1555,26 @@
       "duration_ms": 215853,
       "name": "Like This (feat. Eve)",
       "url": "https://open.spotify.com/track/3sfydNh0QQAdnIAtDVG16H"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5DimfXX31HuU0yxW0Ca5Uj"
+      },
+      "artists": [
+        {
+          "name": "B2K",
+          "url": "https://open.spotify.com/artist/51d3rUlLuMh7EW09aMe7yj"
+        },
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        }
+      ],
+      "duration_ms": 282533,
+      "name": "Bump, Bump, Bump (feat. P. Diddy)",
+      "url": "https://open.spotify.com/track/74jMwg2zsFMICzW3Wems6h"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "Because Of You",
-        "url": "https://open.spotify.com/album/52q9xNv8COtSU9phlbO5sg"
-      },
-      "artists": [
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 228266,
-      "name": "Do You",
-      "url": "https://open.spotify.com/track/0JKjqJLo145b1mqA6MnhIl"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
         "name": "Part III",
         "url": "https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 264933,
       "name": "It's Over Now",
       "url": "https://open.spotify.com/track/769geiA8btidGHda4BBDOJ"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "Because Of You",
+        "url": "https://open.spotify.com/album/52q9xNv8COtSU9phlbO5sg"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 228266,
+      "name": "Do You",
+      "url": "https://open.spotify.com/track/0JKjqJLo145b1mqA6MnhIl"
     },
     {
       "added_at": "2022-02-11 05:00:00",

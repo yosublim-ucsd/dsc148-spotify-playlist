@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3Y0rhKV60l.md) - [plain]
 
 > Keep your focus and drown out distracting sounds with white noise from the oceans.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,802 likes - 60 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,841 likes - 60 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3Y0rhKV60l.md) - [plain]
 | 33 | [Hear the Distant Waves](https://open.spotify.com/track/6HIWJ7OCiyShqeix9zAODH) | [Ocean Sounds FX](https://open.spotify.com/artist/28IUEhtz4D8xy7OKMXMkyK) | [Summer Ocean Waves](https://open.spotify.com/album/6ClrSFB0vSebj3ZjaPAVkF) | 2:15 |
 | 34 | [Big Waves](https://open.spotify.com/track/4LMB7JZy59tKfOkqAmnd8W) | [Beach Wave Explosion](https://open.spotify.com/artist/1DNNwqmuY6iopjc3F9uLLN) | [Windy Beach](https://open.spotify.com/album/5aENLHyxg8CXD3WHtUjIrL) | 3:10 |
 | 35 | [Bali Beach Waves](https://open.spotify.com/track/6AiS3Vw8NbfUvrgbMeRC1V) | [Seas of Dreams](https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat) | [Coastal Clifftop Waves](https://open.spotify.com/album/5zjuTmzWlK96s1zHSZSFoj) | 4:10 |
-| 36 | [Baltic Ocean Wave Sounds](https://open.spotify.com/track/01Q7qJ90WP59CceunoiD7B) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [Ocean Sounds Vol\. 1](https://open.spotify.com/album/70GyyrJtf355wkI3MmMH59) | 2:55 |
-| 37 | [Naples Beach](https://open.spotify.com/track/0P3wyNDU63zoKiqJmrQI7g) | [Tailormade Ocean Waves](https://open.spotify.com/artist/3OjEIMPj8o4suACoEANPly) | [Nature Sleep](https://open.spotify.com/album/1yBIAR1qeElPKP6DjD4OBG) | 2:02 |
+| 36 | [Naples Beach](https://open.spotify.com/track/0P3wyNDU63zoKiqJmrQI7g) | [Tailormade Ocean Waves](https://open.spotify.com/artist/3OjEIMPj8o4suACoEANPly) | [Nature Sleep](https://open.spotify.com/album/1yBIAR1qeElPKP6DjD4OBG) | 2:02 |
+| 37 | [Baltic Ocean Wave Sounds](https://open.spotify.com/track/01Q7qJ90WP59CceunoiD7B) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [Ocean Sounds Vol\. 1](https://open.spotify.com/album/70GyyrJtf355wkI3MmMH59) | 2:55 |
 | 38 | [Soft Waves](https://open.spotify.com/track/4AtqK695Bo1OxeXHG9uzGp) | [Hi Freq Samples](https://open.spotify.com/artist/6DMErYWlNweJ8rNY62Q6jw) | [Oceanic Samples](https://open.spotify.com/album/2ffO6O5OI2XeIx02v1pdTt) | 3:01 |
 | 39 | [Stormy Ocean](https://open.spotify.com/track/6gViURBimCpiLxGRo2afuG) | [Sounds of Nature Noise](https://open.spotify.com/artist/1ZJbPwe4zKnUDRT7yi9dBC) | [Soft Waves](https://open.spotify.com/album/0AVeNcB2nbFWNFCoN4znCx) | 1:50 |
 | 40 | [Soothing Ocean Sound](https://open.spotify.com/track/2ACz2tjRaxwK2v7Gsmm5X2) | [Astrinity](https://open.spotify.com/artist/1w4jhXTFvr5k1Zk7GJ7Iyq) | [Soothing Ocean Sound](https://open.spotify.com/album/6YwzxAxdw92YooMgYSLbeq) | 2:49 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3Y0rhKV60l.md) - [plain]
 | 59 | [Sleepy Rolling Depths \(Ocean\)](https://open.spotify.com/track/61QIkVCbYisHbmc8qae4yh) | [Seas of Dreams](https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat) | [The Vast Sea](https://open.spotify.com/album/2FgrpbWJmq5gxqtPGZAx0Y) | 2:31 |
 | 60 | [Underwater Symphony](https://open.spotify.com/track/38gVD9RmSNjZG8TvIszftv) | [Relaxed Minds](https://open.spotify.com/artist/0AuDQR88HtZsQXLnbq007R) | [Underwater Symphony](https://open.spotify.com/album/2IRHovngovEhMeN2HapRuB) | 1:49 |
 
-Snapshot ID: `MTY3NjQ1MTk2OCwwMDAwMDAwMDViYTc0MGQxNjAxMWNlYTEzMjgyYTE0NTI5MmY0NDBl`
+Snapshot ID: `MTY3NjQ1MTk2OCwwMDAwMDAwMGVlZTEyNmQwZWJiODVlMDU0YzllZGY5NTg2MTk0OTU5`

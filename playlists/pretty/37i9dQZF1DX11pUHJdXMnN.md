@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 
 > House and disco jams with an 80s\-infused retro flavour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,192 likes - 45 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,219 likes - 45 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 | 15 | [Floppy \- Marlon Hoffstadt's Energy Bells Mix](https://open.spotify.com/track/05oMU1d1NpzI2JgOUZgbc9) | [Peak & Swift](https://open.spotify.com/artist/699xHTQaLrfHyQ66Jr4DOv), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Floppy Drive EP](https://open.spotify.com/album/0ErgbkothTs8lmPXfQ9jh0) | 5:42 |
 | 16 | [The Rollercoaster](https://open.spotify.com/track/6h5pPzgM2z1WcqNbxyki9v) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [The Rollercoaster](https://open.spotify.com/album/54KyCRQfilqmeDuCygaZXF) | 3:39 |
 | 17 | [First Sight](https://open.spotify.com/track/1T8DhSO31RKXplrFySKAAy) | [WEISS](https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB) | [First Sight](https://open.spotify.com/album/0KODhsUPoNi0IBrMxobYr1) | 2:32 |
-| 18 | [First Wave](https://open.spotify.com/track/38MZpQ8TQxUPBWgXbgt1wx) | [Roland Tings](https://open.spotify.com/artist/0hTV7lch0OcKcMn6RYgOLR) | [First Wave](https://open.spotify.com/album/3loLbxl5tuqHnYxXx80VQ6) | 4:38 |
-| 19 | [Mexico \(Punctual Remix\)](https://open.spotify.com/track/5i37M8IkbCsqYLaPVg42Xh) | [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF) | [Mexico \(Punctual Remix\)](https://open.spotify.com/album/4jn3zCmDMQJRNPZPwkr6Mq) | 8:32 |
+| 18 | [Mexico \(Punctual Remix\)](https://open.spotify.com/track/5i37M8IkbCsqYLaPVg42Xh) | [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF) | [Mexico \(Punctual Remix\)](https://open.spotify.com/album/4jn3zCmDMQJRNPZPwkr6Mq) | 8:32 |
+| 19 | [First Wave](https://open.spotify.com/track/38MZpQ8TQxUPBWgXbgt1wx) | [Roland Tings](https://open.spotify.com/artist/0hTV7lch0OcKcMn6RYgOLR) | [First Wave](https://open.spotify.com/album/3loLbxl5tuqHnYxXx80VQ6) | 4:38 |
 | 20 | [Silver Machine](https://open.spotify.com/track/1IkEPx8HUsUKwrjlYVZVrp) | [ANII](https://open.spotify.com/artist/3Do8Sv7yTTtIjf68qHkx0o) | [ANIITIME003](https://open.spotify.com/album/0IyewGxlMjmqospjHdtgqQ) | 7:24 |
 | 21 | [Giving Up On \- Alan Dixon Remix](https://open.spotify.com/track/54SGVJ4xSCRha8ViDwy7MU) | [Ekkah](https://open.spotify.com/artist/31UKSWpSUyiReoTEb39vHb), [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x) | [Giving Up On \(Alan Dixon Remix\)](https://open.spotify.com/album/1DBWInKdDJNULdOigOID9t) | 7:32 |
 | 22 | [Nefertiti \- Red Axes Remix](https://open.spotify.com/track/0kgA2XF6auX8ILg4g9BvRl) | [Futuro Pelo](https://open.spotify.com/artist/5EqHv5lvGgrnkuGEFn67yN), [Neysa May](https://open.spotify.com/artist/5H2iUUIDCECSAaA78O8KiZ), [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G) | [Nefertiti \(Red Axes Remix\)](https://open.spotify.com/album/2Y4iaIXMiAwdaEDAIIrYMd) | 4:48 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 | 25 | [Under Control](https://open.spotify.com/track/2E6G3HkQb3OuEz3JKHaXUK) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Music Made Paradise](https://open.spotify.com/album/3SXL5zoZi1fvPCg1Ia6hRU) | 5:39 |
 | 26 | [Cocoon \- Maya Jane Coles Remix](https://open.spotify.com/track/3SPaw7nI7gwo95tpPIx7Cm) | [Gold Fields](https://open.spotify.com/artist/3kJeINOSExu0ctySTaMu6Q), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Cocoon \(Maya Jane Coles Remix\)](https://open.spotify.com/album/2WbM2EmjfDhV8TXhtqQt2u) | 4:16 |
 | 27 | [Curb Dog '88](https://open.spotify.com/track/4HOnJzmHcMFMLfl8kI5WAX) | [Dorothys Fortress](https://open.spotify.com/artist/6VLxD1WKg1ykIzBC9nuDAN) | [Enter Castillo](https://open.spotify.com/album/6YrSjOCEepdaoNgQp9ofKE) | 5:16 |
-| 28 | [In My Element \- Skream Remix](https://open.spotify.com/track/3LtOC0fsGjmhOg5E78lIFW) | [The Clause](https://open.spotify.com/artist/7KpYPnMoADYtIMt1XPvmzZ), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [In My Element \(Skream Remix\)](https://open.spotify.com/album/615KSINGHRzvojc2VGQ97U) | 6:00 |
-| 29 | [Ardore](https://open.spotify.com/track/1T2DffseqEO4skwGYB4z9w) | [David Jackson](https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV), [Tobias Bernstrup](https://open.spotify.com/artist/7qMxLMZgfIeZloY2EjWiPt) | [Ardore \(feat\. Tobias Bernstrup\)](https://open.spotify.com/album/5suKkPyhnb5Rf5wVQdDSGT) | 3:32 |
+| 28 | [Ardore](https://open.spotify.com/track/1T2DffseqEO4skwGYB4z9w) | [David Jackson](https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV), [Tobias Bernstrup](https://open.spotify.com/artist/7qMxLMZgfIeZloY2EjWiPt) | [Ardore \(feat\. Tobias Bernstrup\)](https://open.spotify.com/album/5suKkPyhnb5Rf5wVQdDSGT) | 3:32 |
+| 29 | [In My Element \- Skream Remix](https://open.spotify.com/track/3LtOC0fsGjmhOg5E78lIFW) | [The Clause](https://open.spotify.com/artist/7KpYPnMoADYtIMt1XPvmzZ), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [In My Element \(Skream Remix\)](https://open.spotify.com/album/615KSINGHRzvojc2VGQ97U) | 6:00 |
 | 30 | [Street Rave \- Edit](https://open.spotify.com/track/3iThvzWqPdZdgLnKDJGRaf) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Street Rave EP](https://open.spotify.com/album/4PGKNufqew8YzLUViGgvon) | 4:01 |
 | 31 | [Know You](https://open.spotify.com/track/08udjG9UxRjd2kdxCGCmUk) | [Lauer](https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4) | [Know You](https://open.spotify.com/album/4sKMxklSRDAv0IKuyoBDbm) | 3:44 |
 | 32 | [Listen to the Band \- Club Mix](https://open.spotify.com/track/3vg0LaCjeLUQEffpDhXqMX) | [Jex Opolis](https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ) | [Net Loss](https://open.spotify.com/album/0uqkw1u9wQPYBf4olgXcWx) | 6:16 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 | 44 | [Prisoner Of Love](https://open.spotify.com/track/0LUcldwbzxW97CU6K6L0Ka) | [Biesmans](https://open.spotify.com/artist/1RR1AtX6SAujecwlLacHRz), [Vandesande](https://open.spotify.com/artist/1XQTSZlJDmxoGzS1DeIzUm) | [Inglorious Express EP](https://open.spotify.com/album/5lCI3qcSWRrIBATyqJZFtt) | 6:40 |
 | 45 | [Never Let You Go \- Skream Remix \(Edit\)](https://open.spotify.com/track/4XP3da5XVRN1eoTK91L4T8) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Never Let You Go \(Skream Remix\)](https://open.spotify.com/album/2EcZfAmLrfH8UrVJeh2fxi) | 3:40 |
 
-Snapshot ID: `MTYzMDA3OTEwMSwwMDAwMDAwMDRiN2JiZWEyNjM4NTQxNTllMjViNzliZGEyY2M2MDli`
+Snapshot ID: `MTYzMDA3OTEwMSwwMDAwMDAwMDg5MTg5N2NiMmQ4ZTQxMTMyM2NmNzA0ZTk4N2ExYTQ0`

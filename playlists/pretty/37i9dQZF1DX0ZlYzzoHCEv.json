@@ -1,12 +1,12 @@
 {
   "description": "musica per quando non sai insomma come",
-  "num_followers": 30886,
+  "num_followers": 30940,
   "original_name": "la mia testa:",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg0MDA2MCwwMDAwMDAwMDNhZWYyNDhiOWU5OWIwMzM2YWY2NWQxNjY4NDViMDI5",
+  "snapshot_id": "MTY4MDg0MDA2MCwwMDAwMDAwMDEzNWJlODA3NmI2ZGY0M2QyMTIwM2M3OGNiNWJhZDc1",
   "tracks": [
     {
       "added_at": "2023-04-07 04:01:00",
@@ -355,26 +355,6 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "WORTH NOTHING (Fast & Furious: Drift Tape/Phonk Vol 1)",
-        "url": "https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI"
-      },
-      "artists": [
-        {
-          "name": "TWISTED",
-          "url": "https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG"
-        },
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 164629,
-      "name": "WORTH NOTHING - Fast & Furious: Drift Tape/Phonk Vol 1",
-      "url": "https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
         "name": "GigaChad Theme (Phonk House Version)",
         "url": "https://open.spotify.com/album/6XMRvZrrp6KDqYO4tDutwr"
       },
@@ -439,22 +419,6 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "Salad Days",
-        "url": "https://open.spotify.com/album/2sij95QgjmgrhNv33achzn"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 231723,
-      "name": "Chamber Of Reflection",
-      "url": "https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
         "name": "Hounds Of Love",
         "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh"
       },
@@ -467,6 +431,22 @@
       "duration_ms": 298933,
       "name": "Running Up That Hill (A Deal With God)",
       "url": "https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "Salad Days",
+        "url": "https://open.spotify.com/album/2sij95QgjmgrhNv33achzn"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 231723,
+      "name": "Chamber Of Reflection",
+      "url": "https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -503,22 +483,6 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "Murder In My Mind",
-        "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
-      },
-      "artists": [
-        {
-          "name": "Kordhell",
-          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "Murder In My Mind",
-      "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
         "name": "Who Really Cares",
         "url": "https://open.spotify.com/album/4oL7pMxnb04uuRI7ReXmuh"
       },
@@ -535,6 +499,22 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
+        "name": "Murder In My Mind",
+        "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
+      },
+      "artists": [
+        {
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "Murder In My Mind",
+      "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
         "name": "IGOR",
         "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
       },
@@ -547,6 +527,22 @@
       "duration_ms": 195320,
       "name": "NEW MAGIC WAND",
       "url": "https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "Be the Cowboy",
+        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 128198,
+      "name": "Washing Machine Heart",
+      "url": "https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -583,22 +579,6 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "Be the Cowboy",
-        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 128198,
-      "name": "Washing Machine Heart",
-      "url": "https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
         "name": "Gawk",
         "url": "https://open.spotify.com/album/1vWOYk3hF5bgVUUUaPvYLh"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 155933,
       "name": "Alien Blues",
       "url": "https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "duration_ms": 272373,
+      "name": "Escapism.",
+      "url": "https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
+        "name": "Seven Inches Of Satanic Panic",
+        "url": "https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 244804,
+      "name": "Mary On A Cross",
+      "url": "https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
         "name": "Collide (feat. Tyga)",
         "url": "https://open.spotify.com/album/2LbrGt2oc08xV8IDJvLzYi"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 260169,
       "name": "Collide (feat. Tyga)",
       "url": "https://open.spotify.com/track/22I3h5AOENlH4CqXJsEbFR"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "Seven Inches Of Satanic Panic",
-        "url": "https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 244804,
-      "name": "Mary On A Cross",
-      "url": "https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -743,22 +743,18 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "My 21st Century Blues",
-        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+        "name": "ARDIPITHECUS",
+        "url": "https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h"
       },
       "artists": [
         {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
         }
       ],
-      "duration_ms": 272373,
-      "name": "Escapism.",
-      "url": "https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp"
+      "duration_ms": 196520,
+      "name": "Wait a Minute!",
+      "url": "https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -779,22 +775,6 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "ARDIPITHECUS",
-        "url": "https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 196520,
-      "name": "Wait a Minute!",
-      "url": "https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
         "name": "Little Dark Age",
         "url": "https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H"
       },
@@ -807,22 +787,6 @@
       "duration_ms": 299960,
       "name": "Little Dark Age",
       "url": "https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "i'm yours",
-        "url": "https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "duration_ms": 127780,
-      "name": "i'm yours sped up",
-      "url": "https://open.spotify.com/track/4sFGNz4MYpGoz53ZGCwsiE"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -843,22 +807,18 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "Collide (Remix Pack)",
-        "url": "https://open.spotify.com/album/3mF3LQfPAiw2gAuj0BrzPG"
+        "name": "i'm yours",
+        "url": "https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3"
       },
       "artists": [
         {
-          "name": "Justine Skye",
-          "url": "https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
         }
       ],
-      "duration_ms": 221168,
-      "name": "Collide (Sped Up Remix)",
-      "url": "https://open.spotify.com/track/1r6qzxz77Tvbrvqd1Q1MIN"
+      "duration_ms": 127780,
+      "name": "i'm yours sped up",
+      "url": "https://open.spotify.com/track/4sFGNz4MYpGoz53ZGCwsiE"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -875,6 +835,26 @@
       "duration_ms": 160052,
       "name": "Mon\u00eby so big",
       "url": "https://open.spotify.com/track/7BbaIYAdi3pg4MGl6PHwPv"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "Collide (Remix Pack)",
+        "url": "https://open.spotify.com/album/3mF3LQfPAiw2gAuj0BrzPG"
+      },
+      "artists": [
+        {
+          "name": "Justine Skye",
+          "url": "https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 221168,
+      "name": "Collide (Sped Up Remix)",
+      "url": "https://open.spotify.com/track/1r6qzxz77Tvbrvqd1Q1MIN"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -911,22 +891,6 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "BILLIE EILISH.",
-        "url": "https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA"
-      },
-      "artists": [
-        {
-          "name": "Armani White",
-          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
-        }
-      ],
-      "duration_ms": 99282,
-      "name": "BILLIE EILISH.",
-      "url": "https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
         "name": "NEON BLADE",
         "url": "https://open.spotify.com/album/4zRjyCx4wMu480J7tac2Gm"
       },
@@ -943,18 +907,18 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "Gemini Rights",
-        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
+        "name": "BILLIE EILISH.",
+        "url": "https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA"
       },
       "artists": [
         {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
         }
       ],
-      "duration_ms": 156506,
-      "name": "Static",
-      "url": "https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem"
+      "duration_ms": 99282,
+      "name": "BILLIE EILISH.",
+      "url": "https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -971,6 +935,22 @@
       "duration_ms": 156650,
       "name": "BABYDOLL (Speed)",
       "url": "https://open.spotify.com/track/5K3SJuYEkvvrLbzOjPyRi1"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "Gemini Rights",
+        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 156506,
+      "name": "Static",
+      "url": "https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -1131,22 +1111,6 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "Dear Wormwood",
-        "url": "https://open.spotify.com/album/6wYIs564dOi2lOT9bGYPLK"
-      },
-      "artists": [
-        {
-          "name": "The Oh Hellos",
-          "url": "https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR"
-        }
-      ],
-      "duration_ms": 165673,
-      "name": "Soldier, Poet, King",
-      "url": "https://open.spotify.com/track/3xtiXNDbSKxy20I7D6vFUg"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
         "name": "I Know",
         "url": "https://open.spotify.com/album/6MxC0Icp2DZi0jbzvD4M8Z"
       },
@@ -1159,6 +1123,22 @@
       "duration_ms": 152593,
       "name": "I Know",
       "url": "https://open.spotify.com/track/2RkMSIqUdveO3p8KVpYBYI"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "Dear Wormwood",
+        "url": "https://open.spotify.com/album/6wYIs564dOi2lOT9bGYPLK"
+      },
+      "artists": [
+        {
+          "name": "The Oh Hellos",
+          "url": "https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR"
+        }
+      ],
+      "duration_ms": 165673,
+      "name": "Soldier, Poet, King",
+      "url": "https://open.spotify.com/track/3xtiXNDbSKxy20I7D6vFUg"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -1299,6 +1279,30 @@
       "duration_ms": 269333,
       "name": "Tom's Diner",
       "url": "https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "unfortunately yours,",
+        "url": "https://open.spotify.com/album/1fm7CNqCCdnqOoxdb23VTs"
+      },
+      "artists": [
+        {
+          "name": "GenriX",
+          "url": "https://open.spotify.com/artist/6hxcqtqpmf08pTDkffU5xx"
+        },
+        {
+          "name": "CORBAL",
+          "url": "https://open.spotify.com/artist/2jjSx5EpZwv9iBAgFkGWPh"
+        },
+        {
+          "name": "Shiloh Dynasty",
+          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
+        }
+      ],
+      "duration_ms": 195605,
+      "name": "novocaine",
+      "url": "https://open.spotify.com/track/2OrucC3HEPmZpkaQ05Nx0V"
     }
   ],
   "unique_name": "la mia testa:",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 
 > The greatest female voices in blues today\. Cover: Amythyst Kiah
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,492 likes - 55 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,504 likes - 55 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,15 +27,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 | 17 | [What's the Matter with You](https://open.spotify.com/track/4A6f46GmPGqzz1lV3gm8ns) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Road I Call Home](https://open.spotify.com/album/3isKOTZKofEvSaMmYUgkCT) | 3:52 |
 | 18 | [She Was a Doorman](https://open.spotify.com/track/1CgGro1rXhkxs7LviofPyT) | [Ana Popovic](https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf) | [Trilogy, Vol\. 1](https://open.spotify.com/album/7M78ou62qwyei46ZvdPorP) | 4:03 |
 | 19 | [She's A Self Made Man](https://open.spotify.com/track/688EzbJ3fiB8zKwArQdZkK) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf) | 3:01 |
-| 20 | [Louella](https://open.spotify.com/track/6KM7FlnvLrETbLpoNCjxYE) | [Marcia Ball](https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18) | [Presumed Innocent](https://open.spotify.com/album/6W1dqxSFVwT5eL7WlUQUtn) | 4:27 |
+| 20 | [Back To The River](https://open.spotify.com/track/2DMnCy43xnMVX2eglYtn6R) | [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta) | [Back To The River](https://open.spotify.com/album/2VRGI6aGaoCALCJyk0dGdc) | 3:55 |
 | 21 | [Money Makes You Ugly](https://open.spotify.com/track/5niqr1DK4xpCGGcGH6Zk4P) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM) | 3:36 |
-| 22 | [Back To The River](https://open.spotify.com/track/2DMnCy43xnMVX2eglYtn6R) | [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta) | [Back To The River](https://open.spotify.com/album/2VRGI6aGaoCALCJyk0dGdc) | 3:55 |
+| 22 | [Louella](https://open.spotify.com/track/6KM7FlnvLrETbLpoNCjxYE) | [Marcia Ball](https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18) | [Presumed Innocent](https://open.spotify.com/album/6W1dqxSFVwT5eL7WlUQUtn) | 4:27 |
 | 23 | [Ain't Too Worried Yet](https://open.spotify.com/track/0jf5lyDBbgIU7kt5ULc1ZF) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Ain't Too Worried Yet](https://open.spotify.com/album/3ifmjG8tSe2MtZzFpmUKg4) | 3:32 |
 | 24 | [Love on the Rocks](https://open.spotify.com/track/6paMAWG7CCn967OkrIILty) | [Lauren Anderson](https://open.spotify.com/artist/3AoeCSG1zkka1T0WO3dPUJ) | [Love on the Rocks](https://open.spotify.com/album/2UE190kQ5nUHXGpP5r686Q) | 3:42 |
 | 25 | [Falling](https://open.spotify.com/track/30h268bCKmGWxFleXGYATy) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Juice Me Up](https://open.spotify.com/album/6YbtdgILdYRkOVFNK2PPha) | 5:03 |
 | 26 | [Party at Red's](https://open.spotify.com/track/2oW9JOaiukULquG0dYrkwp) | [Fiona Boyes](https://open.spotify.com/artist/2dQerNdFoiwLUnBfji9ZBE) | [Voodoo in the Shadows](https://open.spotify.com/album/30sZe7tBbgrO1PFuULYoAK) | 4:15 |
-| 27 | [Ghost](https://open.spotify.com/track/19isNY7Hvhg0Mw7skGLHqT) | [Hannah Wicklund](https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU) | [Hannah Wicklund & The Steppin Stones](https://open.spotify.com/album/2GWRuo0azCjGlupKL5wY74) | 4:03 |
-| 28 | [Fish Outta Water](https://open.spotify.com/track/0otTCVBZRpLduHl1ogOJ0y) | [Karen Lovely](https://open.spotify.com/artist/33PWKu9VjoLVGC9j7xT2I5) | [Fish Outta Water](https://open.spotify.com/album/52Hy5Ucrx8mbkOAyH9P1Qg) | 3:50 |
+| 27 | [Fish Outta Water](https://open.spotify.com/track/0otTCVBZRpLduHl1ogOJ0y) | [Karen Lovely](https://open.spotify.com/artist/33PWKu9VjoLVGC9j7xT2I5) | [Fish Outta Water](https://open.spotify.com/album/52Hy5Ucrx8mbkOAyH9P1Qg) | 3:50 |
+| 28 | [Ghost](https://open.spotify.com/track/19isNY7Hvhg0Mw7skGLHqT) | [Hannah Wicklund](https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU) | [Hannah Wicklund & The Steppin Stones](https://open.spotify.com/album/2GWRuo0azCjGlupKL5wY74) | 4:03 |
 | 29 | [Medicine Man](https://open.spotify.com/track/0PtMZ1pEoqCGf58PNGN2DT) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Road I Call Home](https://open.spotify.com/album/3isKOTZKofEvSaMmYUgkCT) | 3:39 |
 | 30 | [Healing Creek](https://open.spotify.com/track/4AsrwPkPDdpzjjdr2SDykN) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS) | [Healing Creek](https://open.spotify.com/album/7dF7ZkpIBrkCMDqFEIEzh6) | 3:11 |
 | 31 | [Fly Away](https://open.spotify.com/track/6dB3CBDenGlbN82nWYTFIu) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kindred Spirits](https://open.spotify.com/album/5QW6H2R5CFCfBzxstgntK3) | 3:30 |
@@ -57,11 +57,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 | 47 | [Now You Want Me Back](https://open.spotify.com/track/5dd769kGy644G8xYkdJJZt) | [Ina Forsman](https://open.spotify.com/artist/6YVaWx92qxstwulKJXqN2b) | [Ina Forsman](https://open.spotify.com/album/2jlehXrLv0Ry0QaugJYx6Y) | 4:09 |
 | 48 | [Masters of War](https://open.spotify.com/track/4KIpaOe8mx1Ss7THfddQCR) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Masters of War](https://open.spotify.com/album/32L4ByoDGk3hSJTfXunr58) | 4:56 |
 | 49 | [Life Of The Party](https://open.spotify.com/track/0YdyAqpiuGX1GPocApE83R) | [Debbie Davies](https://open.spotify.com/artist/21OcU2kzq3Oqkl8XxsEli7) | [Love Spin](https://open.spotify.com/album/0jHM5tctOO79BT3POpCSfd) | 3:51 |
-| 50 | [Ain't Gonna Hush](https://open.spotify.com/track/62Zws2ATx9MYalkQ5O5Jvw) | [Saffire\-The Uppity Blues Women](https://open.spotify.com/artist/0mOWWTxAbxY6z9WAoxkQ3E) | [Ain't Gonna Hush!](https://open.spotify.com/album/3MIXDhkjD5nJEKqmmJWEh4) | 2:18 |
-| 51 | [Lodi](https://open.spotify.com/track/4dEgvYbysxyVEdn6oSupuy) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg), [Sam Morrow](https://open.spotify.com/artist/5fHiDVbd5c6LzxbjRO8ZZs) | [Change in the Weather: Janiva Magness Sings John Fogerty](https://open.spotify.com/album/18GO2VNtW7TBm0X4Qk0uJ5) | 3:50 |
+| 50 | [Lodi](https://open.spotify.com/track/4dEgvYbysxyVEdn6oSupuy) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg), [Sam Morrow](https://open.spotify.com/artist/5fHiDVbd5c6LzxbjRO8ZZs) | [Change in the Weather: Janiva Magness Sings John Fogerty](https://open.spotify.com/album/18GO2VNtW7TBm0X4Qk0uJ5) | 3:50 |
+| 51 | [Ain't Gonna Hush](https://open.spotify.com/track/62Zws2ATx9MYalkQ5O5Jvw) | [Saffire\-The Uppity Blues Women](https://open.spotify.com/artist/0mOWWTxAbxY6z9WAoxkQ3E) | [Ain't Gonna Hush!](https://open.spotify.com/album/3MIXDhkjD5nJEKqmmJWEh4) | 2:18 |
 | 52 | [It Hurts Me Too](https://open.spotify.com/track/7EFUJYLscAMh62ZkSUhZyc) | [Erja Lyytinen](https://open.spotify.com/artist/73i095FtGSlyCoudRYl6MD) | [The Sky Is Crying](https://open.spotify.com/album/3mQMXVI0HCbJ6yamBHpcBU) | 5:06 |
 | 53 | [Open Eyes](https://open.spotify.com/track/27Hps0EsBwR2ImKIiJfC95) | [Carolyn Wonderland](https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n) | [Moon Goes Missing](https://open.spotify.com/album/3HTWMRiLGpWPb0YYNAHprh) | 5:21 |
-| 54 | [Spare Some Love](https://open.spotify.com/track/7lYWr6C3mvaj8jMUPAhABP) | [Cassie Taylor](https://open.spotify.com/artist/3rHAg1yXbyNq0mnPgsVahe) | [Out Of My Mind](https://open.spotify.com/album/7CJW9YnB3go0zg4oKYc3sD) | 5:11 |
-| 55 | [Call on God](https://open.spotify.com/track/0MY6kBXw8kbDgJiAoO0RUk) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Soul of a Woman](https://open.spotify.com/album/6dQ4PANge8QXfOywlHNd2J) | 3:37 |
+| 54 | [Call on God](https://open.spotify.com/track/0MY6kBXw8kbDgJiAoO0RUk) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Soul of a Woman](https://open.spotify.com/album/6dQ4PANge8QXfOywlHNd2J) | 3:37 |
+| 55 | [Spare Some Love](https://open.spotify.com/track/7lYWr6C3mvaj8jMUPAhABP) | [Cassie Taylor](https://open.spotify.com/artist/3rHAg1yXbyNq0mnPgsVahe) | [Out Of My Mind](https://open.spotify.com/album/7CJW9YnB3go0zg4oKYc3sD) | 5:11 |
 
-Snapshot ID: `MTY0Njc0ODA2OSwwMDAwMDAwMGUxMjMyZjJmMzA0ZDYwYWZhOGZhOGIwZGUyNGE4MTZh`
+Snapshot ID: `MTY0Njc0ODA2OSwwMDAwMDAwMGY2MjNlYTBjOWY3N2JhZmQyMTY0ZDQ0YjExNzdhMDQw`

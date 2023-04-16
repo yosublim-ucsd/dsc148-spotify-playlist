@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcx1szy2g67M.md) - [plain]
 
 > Zo klinkt het voorjaar, op naar de zomer van 2023!
 
-[Spotify](https://open.spotify.com/user/spotify) - 499,035 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 499,148 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

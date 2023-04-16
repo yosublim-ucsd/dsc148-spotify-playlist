@@ -4,7 +4,7 @@
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Paris Paloma
 
-483 songs - 1 day 6 hr 14 min
+484 songs - 1 day 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [Even The Darkness Has Arms](https://open.spotify.com/track/6Wu4c7dHTsO42UG4D3IFyx) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Even The Darkness Has Arms](https://open.spotify.com/album/5jPNYtypqCu2vPNzb16Sm7) | 3:50 | 2022-04-13 | 2022-04-20 |
 | [Ever New \- Reworked by Bon Iver & Flock of Dimes](https://open.spotify.com/track/2DRr5wyIo7Fs4ziuIppSeB) | [Beverly Glenn\-Copeland](https://open.spotify.com/artist/2bN5hXtWZXEIfnHO34eXfe), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ), [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Ever New \(Reworked by Bon Iver & Flock Of Dimes\)](https://open.spotify.com/album/6YBMppvgwzEQ1WluBwDVBE) | 6:24 | 2022-01-14 |  |
 | [Everyone's A Winner](https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [This Is Really Going To Hurt](https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0) | 3:29 | 2021-10-22 |  |
-| [Everything Everything](https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Echo](https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ) | 3:26 | 2023-03-24 |  |
+| [Everything Everything](https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Echo](https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ) | 3:26 | 2023-03-24 | 2023-04-16 |
 | [Everything Everything](https://open.spotify.com/track/56LspSpx7X7nCATWGZLYs5) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Everything Everything](https://open.spotify.com/album/492OrRXjvLw08OJBFscrGB) | 3:26 | 2021-10-22 | 2022-07-29 |
 | [Everything I had](https://open.spotify.com/track/0k5szLN0SJYB1LdEBUFUIS) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Everything I had](https://open.spotify.com/album/7FGdBrnsFUgWNcppcDfkxU) | 4:06 | 2021-10-22 | 2022-07-29 |
 | [Everything I had](https://open.spotify.com/track/3ZWtCPAWcE7hh00mjQDOXq) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Somewhere](https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm) | 4:06 | 2022-06-24 |  |
@@ -266,6 +266,7 @@
 | [Little Blue River](https://open.spotify.com/track/5MUMAmxnCsbcVlow1H7fCS) | [Michael Hurley](https://open.spotify.com/artist/3XHvzfKFZkSXEUiZE4WrIz) | [Little Blue River](https://open.spotify.com/album/7ehx5p4uTHpMf0HmiMVsPi) | 3:50 | 2022-01-14 | 2022-06-21 |
 | [Little Things](https://open.spotify.com/track/41YZXlOIGKmaa3RJpBn2Qy) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Little Things/Sparrow](https://open.spotify.com/album/3ZftJ3ZvQf8Sas1pUVSjZU) | 5:44 | 2021-10-22 | 2022-04-14 |
 | [Long Blue Light](https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Long Blue Light](https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei) | 3:20 | 2021-10-22 |  |
+| [Looking For Love](https://open.spotify.com/track/02URvOPqbVEmLOCXvLH5Op) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Looking For Love](https://open.spotify.com/album/2VPn8eCJ3fm4A77GNa3ZbW) | 3:35 | 2023-04-14 |  |
 | [Looking out for You](https://open.spotify.com/track/3eYqfc5h1gf46b5jipIQNl) | [The Guest and the Host](https://open.spotify.com/artist/5btUhGNTcEvv2W2NcsKndH) | [Looking out for You](https://open.spotify.com/album/1FB4vMJq4grWxNoG5Ntm4N) | 2:30 | 2022-04-13 | 2022-04-19 |
 | [Losing You](https://open.spotify.com/track/6tPrmeifTXshblYA7ahTUA) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [This Is Really Going To Hurt](https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0) | 3:18 | 2022-06-24 |  |
 | [Losing You](https://open.spotify.com/track/3ASaECH1ebS3BKpizNHk35) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [Losing You](https://open.spotify.com/album/4eekFhEz7Ifb3KpTKkjxBa) | 3:26 | 2021-10-22 | 2022-07-29 |

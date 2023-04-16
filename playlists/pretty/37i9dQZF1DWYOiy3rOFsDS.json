@@ -1,12 +1,12 @@
 {
   "description": "Romance antig\u00fcito en voz de tus artistas pop con Luis Miguel en portada.",
-  "num_followers": 519254,
+  "num_followers": 519358,
   "original_name": "Boleros Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAzMjgwMCwwMDAwMDAwMGY0Zjk2NWJjZGRjY2RhNTBhMDc1MDQyN2JmZTUyN2Zm",
+  "snapshot_id": "MTY3OTAzMjgwMCwwMDAwMDAwMGNjYzFkOTIyMTE5OWRjNjFjNjU2YjA3ZTljYTVjZjgz",
   "tracks": [
     {
       "added_at": "2023-03-17 06:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
-        "name": "Nuestro Primer Disco / Nuestro Amor",
-        "url": "https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG"
-      },
-      "artists": [
-        {
-          "name": "Los Tri-O",
-          "url": "https://open.spotify.com/artist/4PK8uCiKRILtXKQXABBvBC"
-        }
-      ],
-      "duration_ms": 268096,
-      "name": "Adoracion",
-      "url": "https://open.spotify.com/track/6W9Q073oJTne3KQedw1f73"
-    },
-    {
-      "added_at": "2023-03-17 06:00:00",
-      "album": {
         "name": "A Que No Me Dejas",
         "url": "https://open.spotify.com/album/1RBxYmkmyQrYUZ84ifjotd"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 321323,
       "name": "A Que No Me Dejas",
       "url": "https://open.spotify.com/track/4s5D7IM9z6xDVwOg9r8Hqp"
+    },
+    {
+      "added_at": "2023-03-17 06:00:00",
+      "album": {
+        "name": "Nuestro Primer Disco / Nuestro Amor",
+        "url": "https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG"
+      },
+      "artists": [
+        {
+          "name": "Los Tri-O",
+          "url": "https://open.spotify.com/artist/4PK8uCiKRILtXKQXABBvBC"
+        }
+      ],
+      "duration_ms": 268096,
+      "name": "Adoracion",
+      "url": "https://open.spotify.com/track/6W9Q073oJTne3KQedw1f73"
     },
     {
       "added_at": "2023-03-17 06:00:00",
@@ -1023,6 +1023,34 @@
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
+        "name": "Hab\u00edtame Siempre (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/5HDevGeDLIZMhZKvRZLSkI"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        },
+        {
+          "name": "Leonel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
+        },
+        {
+          "name": "Samo",
+          "url": "https://open.spotify.com/artist/68QUssU8KffP7KmgO3Z6Ye"
+        },
+        {
+          "name": "Jes\u00fas Navarro",
+          "url": "https://open.spotify.com/artist/177dG4gTPSBg2F2KXZdPMW"
+        }
+      ],
+      "duration_ms": 296360,
+      "name": "Con Los A\u00f1os Que Me Quedan (feat. Leonel Garc\u00eda, Samo & Jes\u00fas Navarro)",
+      "url": "https://open.spotify.com/track/2Tro7hx63xXau7mLtvA1gE"
+    },
+    {
+      "added_at": "2023-03-17 06:00:00",
+      "album": {
         "name": "Jos\u00e9 Jos\u00e9 Duetos Volumen 1",
         "url": "https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT"
       },
@@ -1063,30 +1091,18 @@
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
-        "name": "Hab\u00edtame Siempre (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/5HDevGeDLIZMhZKvRZLSkI"
+        "name": "Que Sepan Todos",
+        "url": "https://open.spotify.com/album/3XuM6n6eTaUVFfoem4AJx5"
       },
       "artists": [
         {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        },
-        {
-          "name": "Leonel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
-        },
-        {
-          "name": "Samo",
-          "url": "https://open.spotify.com/artist/68QUssU8KffP7KmgO3Z6Ye"
-        },
-        {
-          "name": "Jes\u00fas Navarro",
-          "url": "https://open.spotify.com/artist/177dG4gTPSBg2F2KXZdPMW"
+          "name": "Las Hermanas Garc\u00eda",
+          "url": "https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc"
         }
       ],
-      "duration_ms": 296360,
-      "name": "Con Los A\u00f1os Que Me Quedan (feat. Leonel Garc\u00eda, Samo & Jes\u00fas Navarro)",
-      "url": "https://open.spotify.com/track/2Tro7hx63xXau7mLtvA1gE"
+      "duration_ms": 205280,
+      "name": "Que Sepan Todos",
+      "url": "https://open.spotify.com/track/5g6Mar687Mnu6w2RQexEzB"
     },
     {
       "added_at": "2023-03-17 06:00:00",
@@ -1107,22 +1123,6 @@
       "duration_ms": 228693,
       "name": "Mentiras Con Cari\u00f1o",
       "url": "https://open.spotify.com/track/7H7c9Ih5yj4158AM8BF49z"
-    },
-    {
-      "added_at": "2023-03-17 06:00:00",
-      "album": {
-        "name": "Que Sepan Todos",
-        "url": "https://open.spotify.com/album/3XuM6n6eTaUVFfoem4AJx5"
-      },
-      "artists": [
-        {
-          "name": "Las Hermanas Garc\u00eda",
-          "url": "https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc"
-        }
-      ],
-      "duration_ms": 205280,
-      "name": "Que Sepan Todos",
-      "url": "https://open.spotify.com/track/5g6Mar687Mnu6w2RQexEzB"
     },
     {
       "added_at": "2023-03-17 06:00:00",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
+        "name": "Tal Vez, Quiz\u00e1",
+        "url": "https://open.spotify.com/album/6QTKYA5LOTyMveLR38pg0Y"
+      },
+      "artists": [
+        {
+          "name": "David Cavazos",
+          "url": "https://open.spotify.com/artist/1dsX2yN51RAijy5uceP5dA"
+        }
+      ],
+      "duration_ms": 276436,
+      "name": "Tal Vez, Quiz\u00e1",
+      "url": "https://open.spotify.com/track/0sNTrlPwP2CXiMCsiQDIeW"
+    },
+    {
+      "added_at": "2023-03-17 06:00:00",
+      "album": {
         "name": "Me Vuelves Loca",
         "url": "https://open.spotify.com/album/2AuC5wOjsNXG7rWyFheYZi"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 268146,
       "name": "Me Vuelves Loca",
       "url": "https://open.spotify.com/track/4b2VrKk6vR7304vrY3v0f0"
-    },
-    {
-      "added_at": "2023-03-17 06:00:00",
-      "album": {
-        "name": "Tal Vez, Quiz\u00e1",
-        "url": "https://open.spotify.com/album/6QTKYA5LOTyMveLR38pg0Y"
-      },
-      "artists": [
-        {
-          "name": "David Cavazos",
-          "url": "https://open.spotify.com/artist/1dsX2yN51RAijy5uceP5dA"
-        }
-      ],
-      "duration_ms": 276436,
-      "name": "Tal Vez, Quiz\u00e1",
-      "url": "https://open.spotify.com/track/0sNTrlPwP2CXiMCsiQDIeW"
     },
     {
       "added_at": "2023-03-17 06:00:00",
@@ -1339,18 +1339,22 @@
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
-        "name": "Los \u00c9xitos de Manolo Mu\u00f1oz",
-        "url": "https://open.spotify.com/album/46tQkwTb6a16ZAyMEoZFeY"
+        "name": "Tanto Amor",
+        "url": "https://open.spotify.com/album/6PpdfncqVG0Hmx5pSIdAQz"
       },
       "artists": [
         {
-          "name": "Manolo Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu"
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+        },
+        {
+          "name": "Los Rumberos",
+          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
         }
       ],
-      "duration_ms": 170518,
-      "name": "Noche No Te Vayas",
-      "url": "https://open.spotify.com/track/6qUvXLmgxFLxWpK4zitltx"
+      "duration_ms": 185783,
+      "name": "Tanto Amor",
+      "url": "https://open.spotify.com/track/2DSBxnRi8Y1Tk4f0Am8pzA"
     },
     {
       "added_at": "2023-03-17 06:00:00",
@@ -1375,22 +1379,34 @@
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
-        "name": "Tanto Amor",
-        "url": "https://open.spotify.com/album/6PpdfncqVG0Hmx5pSIdAQz"
+        "name": "Los \u00c9xitos de Manolo Mu\u00f1oz",
+        "url": "https://open.spotify.com/album/46tQkwTb6a16ZAyMEoZFeY"
       },
       "artists": [
         {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
-        },
-        {
-          "name": "Los Rumberos",
-          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
+          "name": "Manolo Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu"
         }
       ],
-      "duration_ms": 185783,
-      "name": "Tanto Amor",
-      "url": "https://open.spotify.com/track/2DSBxnRi8Y1Tk4f0Am8pzA"
+      "duration_ms": 170518,
+      "name": "Noche No Te Vayas",
+      "url": "https://open.spotify.com/track/6qUvXLmgxFLxWpK4zitltx"
+    },
+    {
+      "added_at": "2023-03-17 06:00:00",
+      "album": {
+        "name": "Nuestro Primer Disco / Nuestro Amor",
+        "url": "https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG"
+      },
+      "artists": [
+        {
+          "name": "Los Tri-O",
+          "url": "https://open.spotify.com/artist/4PK8uCiKRILtXKQXABBvBC"
+        }
+      ],
+      "duration_ms": 209040,
+      "name": "Para Que Pides Perdon (Bonus Track)",
+      "url": "https://open.spotify.com/track/5UacxPvzsx6J9pcib7gGuM"
     },
     {
       "added_at": "2023-03-17 06:00:00",
@@ -1431,18 +1447,50 @@
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
-        "name": "Nuestro Primer Disco / Nuestro Amor",
-        "url": "https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG"
+        "name": "Or\u00edgenes: El Bolero Vol.3",
+        "url": "https://open.spotify.com/album/3cpEWPCmAkKQunvQmeYP1t"
       },
       "artists": [
         {
-          "name": "Los Tri-O",
-          "url": "https://open.spotify.com/artist/4PK8uCiKRILtXKQXABBvBC"
+          "name": "Caf\u00e9 Quijano",
+          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
         }
       ],
-      "duration_ms": 209040,
-      "name": "Para Que Pides Perdon (Bonus Track)",
-      "url": "https://open.spotify.com/track/5UacxPvzsx6J9pcib7gGuM"
+      "duration_ms": 210848,
+      "name": "Te matan los celos",
+      "url": "https://open.spotify.com/track/5SR85Imahcv9tZGFjz3MCX"
+    },
+    {
+      "added_at": "2023-03-17 06:00:00",
+      "album": {
+        "name": "Necesito un Bolero [(Edici\u00f3n de Lujo)[En Vivo]]",
+        "url": "https://open.spotify.com/album/5J1eWhVg87VdgaEnN1PlVt"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 235453,
+      "name": "No Olvides Recordarme - En Vivo",
+      "url": "https://open.spotify.com/track/3ANmOzBDhOHsaaxZyoUd4j"
+    },
+    {
+      "added_at": "2023-03-17 06:00:00",
+      "album": {
+        "name": "Caf\u00e9 Conmigo",
+        "url": "https://open.spotify.com/album/22jSbACBDtGXlqMbZPeIu5"
+      },
+      "artists": [
+        {
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+        }
+      ],
+      "duration_ms": 176238,
+      "name": "Caf\u00e9 Conmigo",
+      "url": "https://open.spotify.com/track/3X6zoxS109LGpWrz7WysW0"
     },
     {
       "added_at": "2023-03-17 06:00:00",
@@ -1467,38 +1515,6 @@
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
-        "name": "Necesito un Bolero [(Edici\u00f3n de Lujo)[En Vivo]]",
-        "url": "https://open.spotify.com/album/5J1eWhVg87VdgaEnN1PlVt"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 235453,
-      "name": "No Olvides Recordarme - En Vivo",
-      "url": "https://open.spotify.com/track/3ANmOzBDhOHsaaxZyoUd4j"
-    },
-    {
-      "added_at": "2023-03-17 06:00:00",
-      "album": {
-        "name": "Or\u00edgenes: El Bolero Vol.3",
-        "url": "https://open.spotify.com/album/3cpEWPCmAkKQunvQmeYP1t"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Quijano",
-          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
-        }
-      ],
-      "duration_ms": 210848,
-      "name": "Te matan los celos",
-      "url": "https://open.spotify.com/track/5SR85Imahcv9tZGFjz3MCX"
-    },
-    {
-      "added_at": "2023-03-17 06:00:00",
-      "album": {
         "name": "Cristian Castro en Primera Fila - D\u00eda 2",
         "url": "https://open.spotify.com/album/7uxJVchLqSBte3L6aYsDFi"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 257173,
       "name": "Por Amarte As\u00ed - Primera Fila - Live Version",
       "url": "https://open.spotify.com/track/5pF8YwcV3T4jTnxE8tHVRq"
-    },
-    {
-      "added_at": "2023-03-17 06:00:00",
-      "album": {
-        "name": "Caf\u00e9 Conmigo",
-        "url": "https://open.spotify.com/album/22jSbACBDtGXlqMbZPeIu5"
-      },
-      "artists": [
-        {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
-        }
-      ],
-      "duration_ms": 176238,
-      "name": "Caf\u00e9 Conmigo",
-      "url": "https://open.spotify.com/track/3X6zoxS109LGpWrz7WysW0"
     },
     {
       "added_at": "2023-03-17 06:00:00",
@@ -1547,18 +1547,22 @@
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
-        "name": "AMA",
-        "url": "https://open.spotify.com/album/4jfzDg1g67lwmVYemdoVPd"
+        "name": "Tu Amor No Vale un Bolero",
+        "url": "https://open.spotify.com/album/66x0bo3TSXpCZLKMF4NjzQ"
       },
       "artists": [
         {
-          "name": "Najwa",
-          "url": "https://open.spotify.com/artist/7dp8dR96gWncIypef8kTnS"
+          "name": "Pilar Cabrera",
+          "url": "https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva"
+        },
+        {
+          "name": "Lorena Jimenez",
+          "url": "https://open.spotify.com/artist/4DdnLfUESB3baPYYdT0sNu"
         }
       ],
-      "duration_ms": 181090,
-      "name": "Mu\u00f1equita Linda",
-      "url": "https://open.spotify.com/track/6jGAAW47TMyEzouHsl4YEn"
+      "duration_ms": 206710,
+      "name": "Tu Amor No Vale un Bolero",
+      "url": "https://open.spotify.com/track/0hKJCsS3XUVEECfslnauKv"
     },
     {
       "added_at": "2023-03-17 06:00:00",
@@ -1579,22 +1583,18 @@
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
-        "name": "Tu Amor No Vale un Bolero",
-        "url": "https://open.spotify.com/album/66x0bo3TSXpCZLKMF4NjzQ"
+        "name": "AMA",
+        "url": "https://open.spotify.com/album/4jfzDg1g67lwmVYemdoVPd"
       },
       "artists": [
         {
-          "name": "Pilar Cabrera",
-          "url": "https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva"
-        },
-        {
-          "name": "Lorena Jimenez",
-          "url": "https://open.spotify.com/artist/4DdnLfUESB3baPYYdT0sNu"
+          "name": "Najwa",
+          "url": "https://open.spotify.com/artist/7dp8dR96gWncIypef8kTnS"
         }
       ],
-      "duration_ms": 206710,
-      "name": "Tu Amor No Vale un Bolero",
-      "url": "https://open.spotify.com/track/0hKJCsS3XUVEECfslnauKv"
+      "duration_ms": 181090,
+      "name": "Mu\u00f1equita Linda",
+      "url": "https://open.spotify.com/track/6jGAAW47TMyEzouHsl4YEn"
     },
     {
       "added_at": "2023-03-17 06:00:00",
@@ -1627,22 +1627,6 @@
       "duration_ms": 197965,
       "name": "La Mentira (Se Te Olvida)",
       "url": "https://open.spotify.com/track/4DJ3STfAdgmVCE6c9dBFx1"
-    },
-    {
-      "added_at": "2023-03-17 06:00:00",
-      "album": {
-        "name": "Salvavidas",
-        "url": "https://open.spotify.com/album/6MnxF6Qm6HVXUXtzsrm7MX"
-      },
-      "artists": [
-        {
-          "name": "Yoly Saa",
-          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
-        }
-      ],
-      "duration_ms": 172363,
-      "name": "Salvavidas",
-      "url": "https://open.spotify.com/track/1ZVvO03ypa1pSC1WHnHPEx"
     },
     {
       "added_at": "2023-03-17 06:00:00",
@@ -1699,6 +1683,22 @@
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
+        "name": "Salvavidas",
+        "url": "https://open.spotify.com/album/6MnxF6Qm6HVXUXtzsrm7MX"
+      },
+      "artists": [
+        {
+          "name": "Yoly Saa",
+          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
+        }
+      ],
+      "duration_ms": 172363,
+      "name": "Salvavidas",
+      "url": "https://open.spotify.com/track/1ZVvO03ypa1pSC1WHnHPEx"
+    },
+    {
+      "added_at": "2023-03-17 06:00:00",
+      "album": {
         "name": "Manzanero presenta a Fabiola Finkmann",
         "url": "https://open.spotify.com/album/65smolEH2NZeq5XztHRbxP"
       },
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
-        "name": "Bolero Estelar",
-        "url": "https://open.spotify.com/album/5m0fMRnEneLg8pZaoL9F4E"
-      },
-      "artists": [
-        {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        }
-      ],
-      "duration_ms": 238406,
-      "name": "Bolero Estelar",
-      "url": "https://open.spotify.com/track/46ZNN9JUQFl0LXiTLKKkMZ"
-    },
-    {
-      "added_at": "2023-03-17 06:00:00",
-      "album": {
         "name": "Avalancha de \u00e9xitos",
         "url": "https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 188533,
       "name": "Perfidia",
       "url": "https://open.spotify.com/track/3MmpGFsyvd9GbUhI2uKiKk"
+    },
+    {
+      "added_at": "2023-03-17 06:00:00",
+      "album": {
+        "name": "Bolero Estelar",
+        "url": "https://open.spotify.com/album/5m0fMRnEneLg8pZaoL9F4E"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 238406,
+      "name": "Bolero Estelar",
+      "url": "https://open.spotify.com/track/46ZNN9JUQFl0LXiTLKKkMZ"
     },
     {
       "added_at": "2023-03-17 06:00:00",

@@ -3701,6 +3701,24 @@
     },
     {
       "album": {
+        "name": "C\u00e2u Chuy\u1ec7n T\u00ecnh Y\u00eau",
+        "url": "https://open.spotify.com/album/5w6cJNYdNUJ7pt1zqGlYX2"
+      },
+      "artists": [
+        {
+          "name": "Nh\u1eef Th\u00f9y D\u01b0\u01a1ng",
+          "url": "https://open.spotify.com/artist/133DtECuxhaUZQHJXZFkoT"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232037,
+      "name": "C\u00e2u Chuy\u1ec7n T\u00ecnh Y\u00eau",
+      "url": "https://open.spotify.com/track/52Cq5hEeVTO0x8j4ibtWf3"
+    },
+    {
+      "album": {
         "name": "C\u00e2u H\u1ee9a Ch\u01b0a V\u1eb9n Tr\u00f2n",
         "url": "https://open.spotify.com/album/5F90h2w4XZCEBvb1r1zokb"
       },
@@ -7304,7 +7322,7 @@
       ],
       "date_added": "2023-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 166290,
       "name": "Khi you don't \u1edf \u0111\u00eayy",
       "url": "https://open.spotify.com/track/3e4Lf0icGauXHwcxFgjMs2"
@@ -7486,6 +7504,28 @@
       "duration_ms": 328516,
       "name": "Kh\u00f4ng Th\u1ec3 Gi\u1eef \u0110\u01b0\u1ee3c Em",
       "url": "https://open.spotify.com/track/2hc79ZvMvnXhTyFL0W0jWU"
+    },
+    {
+      "album": {
+        "name": "Kh\u00f4ng Y\u00eau Anh \u0110\u00e2u",
+        "url": "https://open.spotify.com/album/1YO7Ycf2Cq9HePmDtuHa8z"
+      },
+      "artists": [
+        {
+          "name": "Trang H\u00e0n",
+          "url": "https://open.spotify.com/artist/2gugq8LTugkTfMNQKiO7sK"
+        },
+        {
+          "name": "MTK",
+          "url": "https://open.spotify.com/artist/7pcn7teH989aO0IXdbxk67"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175143,
+      "name": "Kh\u00f4ng Y\u00eau Anh \u0110\u00e2u",
+      "url": "https://open.spotify.com/track/2pT8biD835sNNbpExqoQey"
     },
     {
       "album": {
@@ -9453,6 +9493,24 @@
     },
     {
       "album": {
+        "name": "M\u1ed9t M\u00ecnh V\u1eabn Vui",
+        "url": "https://open.spotify.com/album/1kCk32IbrgBdj9uVFI70wW"
+      },
+      "artists": [
+        {
+          "name": "L\u00ea Ng\u1ecdc Ch\u00e2u Anh",
+          "url": "https://open.spotify.com/artist/275KG0jezF4cng8bZmuk8q"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209803,
+      "name": "M\u1ed9t M\u00ecnh V\u1eabn Vui",
+      "url": "https://open.spotify.com/track/2bvfuSSprhmkBCov4JMQ6e"
+    },
+    {
+      "album": {
         "name": "M\u1ed9t Ng\u00e0y M\u00f9a H\u00e8",
         "url": "https://open.spotify.com/album/5g93nh1WEX2iZbGwAXE18u"
       },
@@ -10714,7 +10772,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 187714,
       "name": "Nh\u1eefng Th\u1ee9 Tr\u01b0\u1edbc M\u1eaft L\u00e0 Anh - Remake Version",
       "url": "https://open.spotify.com/track/0LaSGVPVB2GUECLyC47mRp"

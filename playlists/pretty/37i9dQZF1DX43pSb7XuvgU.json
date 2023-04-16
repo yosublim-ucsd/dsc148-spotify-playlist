@@ -1,12 +1,12 @@
 {
   "description": "Los grandes \u00e9xitos de Jos\u00e9 Jos\u00e9 y Juan Gabriel en un mismo lugar.",
-  "num_followers": 100584,
+  "num_followers": 100706,
   "original_name": "Dos \u00cdconos: Jos\u00e9 Jos\u00e9 x Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDgyMDgzNywwMDAwMDAwMDgzOTAxNzNhZTRjNTVmMGQzNTNmMGQyYjkzZDQ0M2Y5",
+  "snapshot_id": "MTY0MDgyMDgzNywwMDAwMDAwMGNmNGFjNzVkZjYwYWE1MDg0OGI2NDIyMTBhYjQ5Y2Qy",
   "tracks": [
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1063,6 +1063,26 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
+        "name": "Los D\u00fao 2",
+        "url": "https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        },
+        {
+          "name": "Paty Cant\u00fa",
+          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
+        }
+      ],
+      "duration_ms": 139906,
+      "name": "No Discutamos",
+      "url": "https://open.spotify.com/track/4oXBnMgYcvU87uKq30Reyq"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
         "name": "Secretos",
         "url": "https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh"
       },
@@ -1091,26 +1111,6 @@
       "duration_ms": 218333,
       "name": "Piel de Az\u00facar",
       "url": "https://open.spotify.com/track/7qWfrXUmYD2UG82tI0pfKm"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
-        "name": "Los D\u00fao 2",
-        "url": "https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        },
-        {
-          "name": "Paty Cant\u00fa",
-          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
-        }
-      ],
-      "duration_ms": 139906,
-      "name": "No Discutamos",
-      "url": "https://open.spotify.com/track/4oXBnMgYcvU87uKq30Reyq"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "15 Exitos De Oro",
-        "url": "https://open.spotify.com/album/4OP48ZU8qUYanvwyTLAvrt"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 213893,
-      "name": "Lo Que No Fue No Ser\u00e1",
-      "url": "https://open.spotify.com/track/1lpgZHye3BoScIcKpnQRW8"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "Siempre Estoy Pensando En Ti",
         "url": "https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 192266,
       "name": "Que Sea Mi Condena",
       "url": "https://open.spotify.com/track/6VBwBAHFJchFh9dtGvh4Zb"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "15 Exitos De Oro",
+        "url": "https://open.spotify.com/album/4OP48ZU8qUYanvwyTLAvrt"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 213893,
+      "name": "Lo Que No Fue No Ser\u00e1",
+      "url": "https://open.spotify.com/track/1lpgZHye3BoScIcKpnQRW8"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Todo",
-        "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 196840,
-      "name": "Tengo Que Olvidar",
-      "url": "https://open.spotify.com/track/4yrX8XKr7g75yemExDlcO5"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "15 Anos De Exitos",
         "url": "https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 207253,
       "name": "La Muerte del Palomo",
       "url": "https://open.spotify.com/track/7rB942OGrgCnvgte3oItUe"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "Todo",
+        "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 196840,
+      "name": "Tengo Que Olvidar",
+      "url": "https://open.spotify.com/track/4yrX8XKr7g75yemExDlcO5"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Pensamientos",
-        "url": "https://open.spotify.com/album/48zTdk2DxqybNPEJfL6Mnl"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "El D\u00eda Que Me Acaricies Llorar\u00e9",
-      "url": "https://open.spotify.com/track/4Hju95i74r8s7zimcJ2map"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "Los D\u00fao",
         "url": "https://open.spotify.com/album/2IlXnGyMzDixqs44RSUObZ"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 211533,
       "name": "La Diferencia",
       "url": "https://open.spotify.com/track/7qCBdX4MbIaNlpqcKL2WSe"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "Pensamientos",
+        "url": "https://open.spotify.com/album/48zTdk2DxqybNPEJfL6Mnl"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "El D\u00eda Que Me Acaricies Llorar\u00e9",
+      "url": "https://open.spotify.com/track/4Hju95i74r8s7zimcJ2map"
     },
     {
       "added_at": "2021-12-29 23:33:57",

@@ -4,7 +4,7 @@
 
 > Trending dance hits in India\. Cover: Deepika Padukone & Shahrukh Khan
 
-192 songs - 10 hr 7 min
+193 songs - 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Guddi Riddim](https://open.spotify.com/track/5yN3wXc6fvM5SPTFjL6c4G) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR), [Nooran Sisters](https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV) | [Guddi Riddim](https://open.spotify.com/album/5LzVNj3OCqcPbYV9eV9CaN) | 3:30 | 2022-12-23 | 2023-01-11 |
 | [Headlights \(feat\. KIDDO\)](https://open.spotify.com/track/7BhmwvCdQZNwuQXSHw5TzP) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Headlights \(feat\. KIDDO\)](https://open.spotify.com/album/61SLEqJbw0XtTOmXUXAoEW) | 2:38 | 2022-05-18 | 2023-02-18 |
 | [Heartbreak Anthem \(with David Guetta & Little Mix\)](https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Heartbreak Anthem \(with David Guetta & Little Mix\)](https://open.spotify.com/album/6kBuGNoOGE7uiPhN82dcJ1) | 3:03 | 2021-11-26 | 2022-05-19 |
-| [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 | 2023-01-10 |  |
+| [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 | 2023-01-10 | 2023-04-16 |
+| [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 | 2023-03-14 |  |
 | [Heaven Takes You Home \(feat\. Connie Constance\)](https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 3:34 | 2022-05-18 | 2023-02-18 |
 | [Hold Me Closer \- Joel Corry Remix](https://open.spotify.com/track/5KbhvaeqKIB2bZcJMyfezl) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Hold Me Closer \(Joel Corry Remix\)](https://open.spotify.com/album/6cZP7F8HkDeMAsCcfCyRWa) | 4:08 | 2023-01-10 | 2023-02-18 |
 | [Hungama Ho Gaya \(From "Queen"\)](https://open.spotify.com/track/4ZiH6RyMrw2vlgD6vrvzBd) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Hungama Ho Gaya \(From "Queen"\) \- Single](https://open.spotify.com/album/6OwQwHjB0tBu122oE7JK5P) | 4:31 | 2023-01-24 |  |

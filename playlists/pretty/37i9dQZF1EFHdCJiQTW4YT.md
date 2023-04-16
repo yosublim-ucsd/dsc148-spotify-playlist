@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3qxnY549ZIMw4QeJsOC3T6">Stephen Wrabel</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 235 likes - 125 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 234 likes - 125 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 31 | [Still Good](https://open.spotify.com/track/3snCUIDipfcnwhyIfeDe8f) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [People To People](https://open.spotify.com/album/18AYjsog9iGp1np3r1KqHJ) | 3:21 |
 | 32 | [hurts like hell](https://open.spotify.com/track/2z7EhgzjTkN9QozoJ7DvBA) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [hurts like hell](https://open.spotify.com/album/6DnZ9MzBUgrhbElToTSgfk) | 3:57 |
 | 33 | [Rose Gold](https://open.spotify.com/track/3sMsk0ZIBHEpLxPkCeoQWq) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Pentatonix \(Deluxe Version\)](https://open.spotify.com/album/6qf9tE8pNRW0kX1Cucrixr) | 3:43 |
-| 34 | [The Lake \(with Wrabel\)](https://open.spotify.com/track/0gmgCD6OoJMcoK5af0exA2) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [The Lake \(with Wrabel\)](https://open.spotify.com/album/4N9N4ceWgEzBABI0kSMw5H) | 2:47 |
-| 35 | [Hold You 'Til We’re Old](https://open.spotify.com/track/5aT0NEQAFMbX5RXe6DYJQK) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Hold You 'Til We’re Old](https://open.spotify.com/album/3Uy0TTHUOKQYCvEU0gLVkd) | 3:02 |
+| 34 | [Hold You 'Til We’re Old](https://open.spotify.com/track/5aT0NEQAFMbX5RXe6DYJQK) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Hold You 'Til We’re Old](https://open.spotify.com/album/3Uy0TTHUOKQYCvEU0gLVkd) | 3:02 |
+| 35 | [The Lake \(with Wrabel\)](https://open.spotify.com/track/0gmgCD6OoJMcoK5af0exA2) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [The Lake \(with Wrabel\)](https://open.spotify.com/album/4N9N4ceWgEzBABI0kSMw5H) | 2:47 |
 | 36 | [Chateau](https://open.spotify.com/track/2yedRoI0ixMxQSyHE0q1Jq) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [DNA](https://open.spotify.com/album/02FX4aLHDNacfV4bMnO9Kv) | 3:08 |
 | 37 | [Tonight](https://open.spotify.com/track/51CeiXQgEq3YD4D6v3GjfB) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [High Road](https://open.spotify.com/album/4HZ195qaMlhiKebUtF36ni) | 3:16 |
 | 38 | [Devotion](https://open.spotify.com/track/2RziQjJfYozWXX5d2AyRYi) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Delirium \(Deluxe\)](https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j) | 3:46 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 124 | [Mean It](https://open.spotify.com/track/4XW0JyO4DKjyxAFJhNDbps) | [Dustin Domingo](https://open.spotify.com/artist/78bcX1rKaNUMVYutJ5Kq4L) | [Mean It](https://open.spotify.com/album/5dCqM12gg8X650WYNZcbuu) | 3:22 |
 | 125 | [Here Comes the Change](https://open.spotify.com/track/6mrrZi2rUwPhnVLWO7PtO5) | [JukeVox LibrAries](https://open.spotify.com/artist/3XCz6vtF1dsjFpVluDCFRm) | [Waiting For You](https://open.spotify.com/album/2dRmJE9oRpnCpy2eKk9q07) | 4:45 |
 
-Snapshot ID: `MjgwMjUyOTQsMDAwMDAwMDBiYjRlZDZlOTA3ZjFjYzk1YzUxNzIwMzdkNmIzNTdlYQ==`
+Snapshot ID: `MjgwMjY3MzQsMDAwMDAwMDAyZjdjODlmNWZjODQ1OTNiMTA4ZDNiMTQzZjJiNWYxZQ==`

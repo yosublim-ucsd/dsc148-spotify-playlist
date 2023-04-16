@@ -1,12 +1,12 @@
 {
   "description": "Spotify country fan favorites. Artist: Lady A",
-  "num_followers": 2149937,
+  "num_followers": 2150212,
   "original_name": "Country Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIzNTI2MCwwMDAwMDAwMGEyZDc1MzgxZWUwMGQzNzM3NWZiNjc1MzU1OTM5NDFi",
+  "snapshot_id": "MTY4MDIzNTI2MCwwMDAwMDAwMDMyYzQ3MjM4ZTE1ZmJlMzA3NDQ2MTVmMDdiOGZiNjYw",
   "tracks": [
     {
       "added_at": "2023-03-31 04:01:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "A ROCK",
-        "url": "https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 217801,
-      "name": "GIVE HEAVEN SOME HELL",
-      "url": "https://open.spotify.com/track/2bVeUlOC5JjTpkQXuUUoYm"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
         "name": "Lee Brice",
         "url": "https://open.spotify.com/album/3GyH4lUfzEkbxlaW5xTYYL"
       },
@@ -479,22 +463,6 @@
       "duration_ms": 198440,
       "name": "Rumor",
       "url": "https://open.spotify.com/track/56eGOeSsqdg3FLxdo83TwV"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
-        "name": "Crazy Ex-Girlfriend",
-        "url": "https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 191693,
-      "name": "Gunpowder & Lead",
-      "url": "https://open.spotify.com/track/3z1PqYwMtct2Dm4R9lhWnT"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -519,6 +487,38 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
+        "name": "Crazy Ex-Girlfriend",
+        "url": "https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 191693,
+      "name": "Gunpowder & Lead",
+      "url": "https://open.spotify.com/track/3z1PqYwMtct2Dm4R9lhWnT"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
+        "name": "A ROCK",
+        "url": "https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 217801,
+      "name": "GIVE HEAVEN SOME HELL",
+      "url": "https://open.spotify.com/track/2bVeUlOC5JjTpkQXuUUoYm"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
         "name": "The Road To Here",
         "url": "https://open.spotify.com/album/54vjTimZqQsDgXYVJFDJqm"
       },
@@ -535,18 +535,18 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Traveller",
-        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
+        "name": "Down The Road I Go",
+        "url": "https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB"
       },
       "artists": [
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
         }
       ],
-      "duration_ms": 253200,
-      "name": "Parachute",
-      "url": "https://open.spotify.com/track/5jROdl6MhcmP3O7h2sVgtw"
+      "duration_ms": 241533,
+      "name": "It's A Great Day To Be Alive",
+      "url": "https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -583,18 +583,18 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Down The Road I Go",
-        "url": "https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB"
+        "name": "Traveller",
+        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
       },
       "artists": [
         {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 241533,
-      "name": "It's A Great Day To Be Alive",
-      "url": "https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH"
+      "duration_ms": 253200,
+      "name": "Parachute",
+      "url": "https://open.spotify.com/track/5jROdl6MhcmP3O7h2sVgtw"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "That Lonesome Song",
-        "url": "https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i"
-      },
-      "artists": [
-        {
-          "name": "Jamey Johnson",
-          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
-        }
-      ],
-      "duration_ms": 290680,
-      "name": "In Color",
-      "url": "https://open.spotify.com/track/7CNd7rjfVt74TFlcOcnZgN"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
         "name": "God's Country",
         "url": "https://open.spotify.com/album/5b92Q0wcU49AnhBmu3IxOx"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 205106,
       "name": "God's Country",
       "url": "https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
+        "name": "That Lonesome Song",
+        "url": "https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i"
+      },
+      "artists": [
+        {
+          "name": "Jamey Johnson",
+          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
+        }
+      ],
+      "duration_ms": 290680,
+      "name": "In Color",
+      "url": "https://open.spotify.com/track/7CNd7rjfVt74TFlcOcnZgN"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
+        "name": "The Way It Feels",
+        "url": "https://open.spotify.com/album/1HixYJpe6AJWGDpEbb7ZuE"
+      },
+      "artists": [
+        {
+          "name": "Maddie & Tae",
+          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
+        }
+      ],
+      "duration_ms": 188320,
+      "name": "Die From A Broken Heart",
+      "url": "https://open.spotify.com/track/3DA4SE262k6rdEtlHteNyq"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
         "name": "Cocky",
         "url": "https://open.spotify.com/album/64du8CiAmKAzVswhA3RK4r"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 298960,
       "name": "Picture (feat. Sheryl Crow)",
       "url": "https://open.spotify.com/track/69j0KoPJuwpnbGWrfn7Yll"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
-        "name": "The Way It Feels",
-        "url": "https://open.spotify.com/album/1HixYJpe6AJWGDpEbb7ZuE"
-      },
-      "artists": [
-        {
-          "name": "Maddie & Tae",
-          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
-        }
-      ],
-      "duration_ms": 188320,
-      "name": "Die From A Broken Heart",
-      "url": "https://open.spotify.com/track/3DA4SE262k6rdEtlHteNyq"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/2QBJCHNMYQC1cyhSXW0ygV"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        }
-      ],
-      "duration_ms": 242733,
-      "name": "Drive (For Daddy Gene)",
-      "url": "https://open.spotify.com/track/1FV374EPG5CrjdIbIMLkcv"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
         "name": "I'm Comin' Over",
         "url": "https://open.spotify.com/album/7IOSachS7KZNuqRZrPcdD0"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 197280,
       "name": "I'm Comin' Over",
       "url": "https://open.spotify.com/track/0H04yVa3DJxoXbLBpAb7iV"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/2QBJCHNMYQC1cyhSXW0ygV"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "duration_ms": 242733,
+      "name": "Drive (For Daddy Gene)",
+      "url": "https://open.spotify.com/track/1FV374EPG5CrjdIbIMLkcv"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Under My Skin",
-        "url": "https://open.spotify.com/album/5NhqmLmAXBje7W8yfT5Z9j"
+        "name": "Same Trailer Different Park",
+        "url": "https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6"
       },
       "artists": [
         {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 178771,
-      "name": "Under My Skin",
-      "url": "https://open.spotify.com/track/3G3OwFCrkc86mMuLPOvgjc"
+      "duration_ms": 199640,
+      "name": "Follow Your Arrow",
+      "url": "https://open.spotify.com/track/4CLPNURPcKztF9RRdcWLGP"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Same Trailer Different Park",
-        "url": "https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6"
+        "name": "Under My Skin",
+        "url": "https://open.spotify.com/album/5NhqmLmAXBje7W8yfT5Z9j"
       },
       "artists": [
         {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
         }
       ],
-      "duration_ms": 199640,
-      "name": "Follow Your Arrow",
-      "url": "https://open.spotify.com/track/4CLPNURPcKztF9RRdcWLGP"
+      "duration_ms": 178771,
+      "name": "Under My Skin",
+      "url": "https://open.spotify.com/track/3G3OwFCrkc86mMuLPOvgjc"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Everywhere We Go",
-        "url": "https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        }
-      ],
-      "duration_ms": 248066,
-      "name": "She Thinks My Tractor's Sexy",
-      "url": "https://open.spotify.com/track/3QV7NYkrmV0Q0IHdFJw9hO"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
         "name": "Famous Friends",
         "url": "https://open.spotify.com/album/0CIbEKfFhnHbwJwVHb4KE1"
       },
@@ -1295,18 +1279,34 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Experiment Extended",
-        "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
+        "name": "Everywhere We Go",
+        "url": "https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6"
       },
       "artists": [
         {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
         }
       ],
-      "duration_ms": 205400,
-      "name": "Homesick",
-      "url": "https://open.spotify.com/track/30RZAuEkYeDXvy46Iv6l7E"
+      "duration_ms": 248066,
+      "name": "She Thinks My Tractor's Sexy",
+      "url": "https://open.spotify.com/track/3QV7NYkrmV0Q0IHdFJw9hO"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
+        "name": "Black",
+        "url": "https://open.spotify.com/album/2GIrLP0PWskhZAJaHQtDux"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        }
+      ],
+      "duration_ms": 197120,
+      "name": "Somewhere On A Beach",
+      "url": "https://open.spotify.com/track/5CG9Ps5ynNjpKJHmwc95pa"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Black",
-        "url": "https://open.spotify.com/album/2GIrLP0PWskhZAJaHQtDux"
+        "name": "Experiment Extended",
+        "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
       },
       "artists": [
         {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
         }
       ],
-      "duration_ms": 197120,
-      "name": "Somewhere On A Beach",
-      "url": "https://open.spotify.com/track/5CG9Ps5ynNjpKJHmwc95pa"
+      "duration_ms": 205400,
+      "name": "Homesick",
+      "url": "https://open.spotify.com/track/30RZAuEkYeDXvy46Iv6l7E"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Blake Shelton",
-        "url": "https://open.spotify.com/album/4BRHk20nhD24APuvO9PvC8"
+        "name": "Straight Outta The Country",
+        "url": "https://open.spotify.com/album/1rW4SdSGRziYMzyteohUwP"
       },
       "artists": [
         {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+          "name": "Justin Moore",
+          "url": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
         }
       ],
-      "duration_ms": 230333,
-      "name": "Austin",
-      "url": "https://open.spotify.com/track/2WQAknZHrJAEQOFXe0F44P"
+      "duration_ms": 174837,
+      "name": "We Didn't Have Much",
+      "url": "https://open.spotify.com/track/0Iuw6WPws324i7G7sCejTX"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
+        "name": "Blake Shelton",
+        "url": "https://open.spotify.com/album/4BRHk20nhD24APuvO9PvC8"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "duration_ms": 230333,
+      "name": "Austin",
+      "url": "https://open.spotify.com/track/2WQAknZHrJAEQOFXe0F44P"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
         "name": "Pretty Heart",
         "url": "https://open.spotify.com/album/0S1UncFoVie2V0HKsf0G1u"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 244797,
       "name": "Pretty Heart",
       "url": "https://open.spotify.com/track/6vC90OOjZR165Hw8CpsqEm"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
-        "name": "Straight Outta The Country",
-        "url": "https://open.spotify.com/album/1rW4SdSGRziYMzyteohUwP"
-      },
-      "artists": [
-        {
-          "name": "Justin Moore",
-          "url": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
-        }
-      ],
-      "duration_ms": 174837,
-      "name": "We Didn't Have Much",
-      "url": "https://open.spotify.com/track/0Iuw6WPws324i7G7sCejTX"
     },
     {
       "added_at": "2023-03-31 04:01:00",

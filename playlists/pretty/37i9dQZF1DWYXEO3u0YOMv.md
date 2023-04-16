@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXEO3u0YOMv.md) - [plain]
 
 > 設立10周年を迎えた<a href="http://www.mappa.co.jp/">MAPPA</a>作品の音楽をひとつのプレイリストに。Listen to the songs from 30+ anime shows MAPPA has produced in the last decade of its history!
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,243 likes - 117 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,425 likes - 118 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,5 +125,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXEO3u0YOMv.md) - [plain]
 | 115 | [Happy\-go\-Journey](https://open.spotify.com/track/6JcmTPEHDLvwToGpeAukA2) | [内田雄馬](https://open.spotify.com/artist/4VJIq1t9RJ8WBYGr2P1FwF) | [Happy\-go\-Journey](https://open.spotify.com/album/35AHPNHsfU1eezJfDJfWrN) | 3:37 |
 | 116 | [Under the Tree](https://open.spotify.com/track/7qKXSF8MilgyiL52oq1AA0) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [Under the Tree](https://open.spotify.com/album/7wQyvP7maIKn0uTGr66eI3) | 2:01 |
 | 117 | [W●RK](https://open.spotify.com/track/1L50ymp25Vmu7VnPRx5TWf) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [W●RK](https://open.spotify.com/album/0uKLHZitWwrvekNjznMAaB) | 3:21 |
+| 118 | [紙一重](https://open.spotify.com/track/4WqWAyxI9uf6CVxUBwglrb) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [紙一重](https://open.spotify.com/album/6aGEvo2LvTdDOwKxPtpdqN) | 4:09 |
 
-Snapshot ID: `MTY4MTE5MjQyNywwMDAwMDAwMDdjZTI5YWM4M2ViOGZmODRjNTE2ZDNkNWQ3YjVmZWI2`
+Snapshot ID: `MTY4MTUzODYwMiwwMDAwMDAwMDI2Mzg1MjFmMmNiZjUyMDJjNDQ3MTdiZDA2MWE1YWEy`

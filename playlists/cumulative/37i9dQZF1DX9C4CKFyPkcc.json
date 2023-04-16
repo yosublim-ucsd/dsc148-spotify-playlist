@@ -470,7 +470,7 @@
       ],
       "date_added": "2022-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 193333,
       "name": "Christmas Time Again",
       "url": "https://open.spotify.com/track/4fZOOTo7H9ralEE18IeIi0"
@@ -1666,6 +1666,32 @@
       "duration_ms": 190958,
       "name": "Just A Breath Away (Noel) - Radio Version",
       "url": "https://open.spotify.com/track/1UGK7thDiNRQA7P4rQVOrd"
+    },
+    {
+      "album": {
+        "name": "Keep The Fire On",
+        "url": "https://open.spotify.com/album/1chKbzdQ4Jdn9ZUKVnwdek"
+      },
+      "artists": [
+        {
+          "name": "AO1 Collective",
+          "url": "https://open.spotify.com/artist/7B1PFNIplX3KFKPizcl8e5"
+        },
+        {
+          "name": "Saint James",
+          "url": "https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi"
+        },
+        {
+          "name": "Marie Love",
+          "url": "https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h"
+        }
+      ],
+      "date_added": "2022-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160537,
+      "name": "Keep The Fire On",
+      "url": "https://open.spotify.com/track/5UOCErQ8T4ZD7fKnmBtgXJ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 
 > The new sounds of Appalachia, red dirt and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,364 likes - 108 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,204 likes - 108 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

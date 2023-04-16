@@ -1,12 +1,12 @@
 {
   "description": "Good vibes only! Aqu\u00ed solo hay buena vibra.",
-  "num_followers": 448216,
+  "num_followers": 448247,
   "original_name": "Buenas Vibras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgzMzAxMCwwMDAwMDAwMGVlZWUwYThmOWY0NGY0ZmUzZTZlODUxNTkzZTAxMjlk",
+  "snapshot_id": "MTY3NzgzMzAxMCwwMDAwMDAwMDczYmM3YmYzYWI0YzZmMDY4MDZiNDk4OTExYzNiOTAw",
   "tracks": [
     {
       "added_at": "2023-03-03 08:43:30",
@@ -879,22 +879,22 @@
     {
       "added_at": "2023-03-03 08:43:30",
       "album": {
-        "name": "Bar",
-        "url": "https://open.spotify.com/album/0QCHhR6WxpMZBbI33s1bAf"
+        "name": "\u00cdndigo",
+        "url": "https://open.spotify.com/album/1QtYnYj7SFX1EIqF6ALjaX"
       },
       "artists": [
         {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
         },
         {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
         }
       ],
-      "duration_ms": 160212,
-      "name": "Bar",
-      "url": "https://open.spotify.com/track/0lJE8f0lx8mUSfMyxeYpiC"
+      "duration_ms": 214933,
+      "name": "\u00cdndigo",
+      "url": "https://open.spotify.com/track/4knc1Fp3kbuq8bH2byOvLu"
     },
     {
       "added_at": "2023-03-03 08:43:30",
@@ -919,22 +919,22 @@
     {
       "added_at": "2023-03-03 08:43:30",
       "album": {
-        "name": "\u00cdndigo",
-        "url": "https://open.spotify.com/album/1QtYnYj7SFX1EIqF6ALjaX"
+        "name": "Bar",
+        "url": "https://open.spotify.com/album/0QCHhR6WxpMZBbI33s1bAf"
       },
       "artists": [
         {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
         },
         {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
         }
       ],
-      "duration_ms": 214933,
-      "name": "\u00cdndigo",
-      "url": "https://open.spotify.com/track/4knc1Fp3kbuq8bH2byOvLu"
+      "duration_ms": 160212,
+      "name": "Bar",
+      "url": "https://open.spotify.com/track/0lJE8f0lx8mUSfMyxeYpiC"
     },
     {
       "added_at": "2023-03-03 08:43:30",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2023-03-03 08:43:30",
       "album": {
-        "name": "Real G",
-        "url": "https://open.spotify.com/album/4zQmGdxbD2EOKItaKLMnrC"
-      },
-      "artists": [
-        {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 191693,
-      "name": "Real G",
-      "url": "https://open.spotify.com/track/6WU2eYUtOL91iROonROPyh"
-    },
-    {
-      "added_at": "2023-03-03 08:43:30",
-      "album": {
         "name": "Tendencia Global",
         "url": "https://open.spotify.com/album/1bYuhFXTzF4CLwGOVQlqKk"
       },
@@ -1071,6 +1051,26 @@
       "duration_ms": 180153,
       "name": "AMANTES",
       "url": "https://open.spotify.com/track/3Q7o2zzvXj7QiSCumjBpvu"
+    },
+    {
+      "added_at": "2023-03-03 08:43:30",
+      "album": {
+        "name": "Real G",
+        "url": "https://open.spotify.com/album/4zQmGdxbD2EOKItaKLMnrC"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 191693,
+      "name": "Real G",
+      "url": "https://open.spotify.com/track/6WU2eYUtOL91iROonROPyh"
     },
     {
       "added_at": "2023-03-03 08:43:30",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2023-03-03 08:43:30",
       "album": {
-        "name": "NO HAY LEY",
-        "url": "https://open.spotify.com/album/58bXMbR7x7k6ubKP7CyZpQ"
+        "name": "Versos de un Card\u00edaco",
+        "url": "https://open.spotify.com/album/37kW73lswREZ5Bj410ZXTX"
       },
       "artists": [
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "Chris Lebron",
+          "url": "https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk"
         }
       ],
-      "duration_ms": 157000,
-      "name": "NO HAY LEY",
-      "url": "https://open.spotify.com/track/5enNYN3hDG4Dsey9WsF6TJ"
+      "duration_ms": 169536,
+      "name": "Desde Mis Ojos",
+      "url": "https://open.spotify.com/track/55b9ywCCjdMt4p0rrDWZGp"
     },
     {
       "added_at": "2023-03-03 08:43:30",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2023-03-03 08:43:30",
       "album": {
-        "name": "Versos de un Card\u00edaco",
-        "url": "https://open.spotify.com/album/37kW73lswREZ5Bj410ZXTX"
+        "name": "NO HAY LEY",
+        "url": "https://open.spotify.com/album/58bXMbR7x7k6ubKP7CyZpQ"
       },
       "artists": [
         {
-          "name": "Chris Lebron",
-          "url": "https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 169536,
-      "name": "Desde Mis Ojos",
-      "url": "https://open.spotify.com/track/55b9ywCCjdMt4p0rrDWZGp"
+      "duration_ms": 157000,
+      "name": "NO HAY LEY",
+      "url": "https://open.spotify.com/track/5enNYN3hDG4Dsey9WsF6TJ"
     },
     {
       "added_at": "2023-03-03 08:43:30",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2023-03-03 08:43:30",
       "album": {
+        "name": "Bayam\u00f3n",
+        "url": "https://open.spotify.com/album/5ELcmaAt2qWGrwWs583awG"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "duration_ms": 180949,
+      "name": "Bayam\u00f3n",
+      "url": "https://open.spotify.com/track/2WVAI8qLBdZlJUhdpNcXCQ"
+    },
+    {
+      "added_at": "2023-03-03 08:43:30",
+      "album": {
         "name": "TV",
         "url": "https://open.spotify.com/album/1QlWbtKAAJnMTxYnLcRupx"
       },
@@ -1375,18 +1391,18 @@
     {
       "added_at": "2023-03-03 08:43:30",
       "album": {
-        "name": "Bayam\u00f3n",
-        "url": "https://open.spotify.com/album/5ELcmaAt2qWGrwWs583awG"
+        "name": "Felices x Siempre",
+        "url": "https://open.spotify.com/album/1DW15sDiWh55xNKb5uqIp2"
       },
       "artists": [
         {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 180949,
-      "name": "Bayam\u00f3n",
-      "url": "https://open.spotify.com/track/2WVAI8qLBdZlJUhdpNcXCQ"
+      "duration_ms": 199656,
+      "name": "Felices x Siempre",
+      "url": "https://open.spotify.com/track/42Gzfqnfpk7Pp1ydM60eNn"
     },
     {
       "added_at": "2023-03-03 08:43:30",
@@ -1411,22 +1427,6 @@
       "duration_ms": 170471,
       "name": "El Ego\u00edsmo",
       "url": "https://open.spotify.com/track/39C3ENLwwHM7u8HeeZ49n3"
-    },
-    {
-      "added_at": "2023-03-03 08:43:30",
-      "album": {
-        "name": "Felices x Siempre",
-        "url": "https://open.spotify.com/album/1DW15sDiWh55xNKb5uqIp2"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 199656,
-      "name": "Felices x Siempre",
-      "url": "https://open.spotify.com/track/42Gzfqnfpk7Pp1ydM60eNn"
     },
     {
       "added_at": "2023-03-03 08:43:30",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-03-03 08:43:30",
       "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/37tfBtXO5spIXdNe2Gxwuf"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 148700,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/5XmAauYsJ9KctEO70myiRJ"
-    },
-    {
-      "added_at": "2023-03-03 08:43:30",
-      "album": {
         "name": "Un Viaje",
         "url": "https://open.spotify.com/album/2Hi8ff429tSHmxPK3CzV36"
       },
@@ -1511,6 +1495,22 @@
     {
       "added_at": "2023-03-03 08:43:30",
       "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/37tfBtXO5spIXdNe2Gxwuf"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 148700,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/5XmAauYsJ9KctEO70myiRJ"
+    },
+    {
+      "added_at": "2023-03-03 08:43:30",
+      "album": {
         "name": "Sci-Fi",
         "url": "https://open.spotify.com/album/1aVp3b9xC3Wrc0du10sDBu"
       },
@@ -1531,26 +1531,6 @@
     {
       "added_at": "2023-03-03 08:43:30",
       "album": {
-        "name": "Apretaito",
-        "url": "https://open.spotify.com/album/0aMqp2gRJQjhVZmHkuTtfL"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        }
-      ],
-      "duration_ms": 199627,
-      "name": "Apretaito",
-      "url": "https://open.spotify.com/track/0cW5cXANjlv8hgLAQwdvgE"
-    },
-    {
-      "added_at": "2023-03-03 08:43:30",
-      "album": {
         "name": "Mama Tetema (feat. Rayvanny)",
         "url": "https://open.spotify.com/album/05Qli4IZBlwPnBHcMdmF0z"
       },
@@ -1567,6 +1547,26 @@
       "duration_ms": 188087,
       "name": "Mama Tetema (feat. Rayvanny)",
       "url": "https://open.spotify.com/track/0nuTnOboL7Zaaqm76CQHEk"
+    },
+    {
+      "added_at": "2023-03-03 08:43:30",
+      "album": {
+        "name": "Apretaito",
+        "url": "https://open.spotify.com/album/0aMqp2gRJQjhVZmHkuTtfL"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "duration_ms": 199627,
+      "name": "Apretaito",
+      "url": "https://open.spotify.com/track/0cW5cXANjlv8hgLAQwdvgE"
     },
     {
       "added_at": "2023-03-03 08:43:30",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2023-03-03 08:43:30",
       "album": {
-        "name": "OzuTochi",
-        "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
+        "name": "Amor Pasajero",
+        "url": "https://open.spotify.com/album/3ZufYhU3vzNGPNMq5pO7ls"
       },
       "artists": [
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         }
       ],
-      "duration_ms": 192320,
-      "name": "Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/2CGhzWArXQZG86V1Ztv4Q2"
+      "duration_ms": 152080,
+      "name": "Amor Pasajero",
+      "url": "https://open.spotify.com/track/2AQrDkF3XiC3xCkAM4OkJx"
     },
     {
       "added_at": "2023-03-03 08:43:30",
@@ -1663,26 +1663,6 @@
       "duration_ms": 190828,
       "name": "24/7",
       "url": "https://open.spotify.com/track/6nQ3fhwmCWMoEa7m9Vn9du"
-    },
-    {
-      "added_at": "2023-03-03 08:43:30",
-      "album": {
-        "name": "Tacones Rojos (With John Legend)",
-        "url": "https://open.spotify.com/album/1iXiHsXgdWAcyTAjSamVzO"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 188746,
-      "name": "Tacones Rojos - With John Legend",
-      "url": "https://open.spotify.com/track/7pCcX8GklrbASun9rWFh4W"
     },
     {
       "added_at": "2023-03-03 08:43:30",
@@ -1775,6 +1755,22 @@
     {
       "added_at": "2023-03-03 08:43:30",
       "album": {
+        "name": "OzuTochi",
+        "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 192320,
+      "name": "Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/2CGhzWArXQZG86V1Ztv4Q2"
+    },
+    {
+      "added_at": "2023-03-03 08:43:30",
+      "album": {
         "name": "Cuando la noche arriba",
         "url": "https://open.spotify.com/album/3I5cBoDLQMAymTGPlDeo1O"
       },
@@ -1791,34 +1787,22 @@
     {
       "added_at": "2023-03-03 08:43:30",
       "album": {
-        "name": "La Copa",
-        "url": "https://open.spotify.com/album/2PC6PCA91NxKDtuV63i0rF"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 154628,
-      "name": "La Copa",
-      "url": "https://open.spotify.com/track/2gdBsRfuWGwJwe3X5XwZuI"
-    },
-    {
-      "added_at": "2023-03-03 08:43:30",
-      "album": {
-        "name": "Amor Pasajero",
-        "url": "https://open.spotify.com/album/3ZufYhU3vzNGPNMq5pO7ls"
+        "name": "Tacones Rojos (With John Legend)",
+        "url": "https://open.spotify.com/album/1iXiHsXgdWAcyTAjSamVzO"
       },
       "artists": [
         {
           "name": "Sebastian Yatra",
           "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
         }
       ],
-      "duration_ms": 152080,
-      "name": "Amor Pasajero",
-      "url": "https://open.spotify.com/track/2AQrDkF3XiC3xCkAM4OkJx"
+      "duration_ms": 188746,
+      "name": "Tacones Rojos - With John Legend",
+      "url": "https://open.spotify.com/track/7pCcX8GklrbASun9rWFh4W"
     },
     {
       "added_at": "2023-03-03 08:43:30",
@@ -1859,6 +1843,22 @@
     {
       "added_at": "2023-03-03 08:43:30",
       "album": {
+        "name": "La Copa",
+        "url": "https://open.spotify.com/album/2PC6PCA91NxKDtuV63i0rF"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 154628,
+      "name": "La Copa",
+      "url": "https://open.spotify.com/track/2gdBsRfuWGwJwe3X5XwZuI"
+    },
+    {
+      "added_at": "2023-03-03 08:43:30",
+      "album": {
         "name": "Qu\u00e9 Chimba",
         "url": "https://open.spotify.com/album/3bCabsApM2gTY3KYRKMsw6"
       },
@@ -1891,6 +1891,22 @@
     {
       "added_at": "2023-03-03 08:43:30",
       "album": {
+        "name": "Byemalandra",
+        "url": "https://open.spotify.com/album/1CJIb7bzXt24h0EuezCxQf"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "duration_ms": 165521,
+      "name": "Byemalandra",
+      "url": "https://open.spotify.com/track/6yBewYV4hyNlDOCV4mialt"
+    },
+    {
+      "added_at": "2023-03-03 08:43:30",
+      "album": {
         "name": "LET'S GET CRAZY! (Mambo Drop)",
         "url": "https://open.spotify.com/album/0o18HO4i1RMnJR2wXHDpfb"
       },
@@ -1907,22 +1923,6 @@
       "duration_ms": 159819,
       "name": "LET'S GET CRAZY! (Mambo Drop)",
       "url": "https://open.spotify.com/track/4q5pdsB1bsZRu9BgewM7j9"
-    },
-    {
-      "added_at": "2023-03-03 08:43:30",
-      "album": {
-        "name": "Byemalandra",
-        "url": "https://open.spotify.com/album/1CJIb7bzXt24h0EuezCxQf"
-      },
-      "artists": [
-        {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
-        }
-      ],
-      "duration_ms": 165521,
-      "name": "Byemalandra",
-      "url": "https://open.spotify.com/track/6yBewYV4hyNlDOCV4mialt"
     },
     {
       "added_at": "2023-03-03 08:43:30",

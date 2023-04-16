@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 
 > Float away on heady orchestrations and haunting harmonies...
 
-[Spotify](https://open.spotify.com/user/spotify) - 836,715 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 836,812 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 | 17 | [Wait for You](https://open.spotify.com/track/4du1sHf5pUhdEEwqtmOAi2) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Wait for You](https://open.spotify.com/album/5gwPi5CboubcqSV8pFQfDj) | 3:13 |
 | 18 | [notre dame](https://open.spotify.com/track/4ni2PRjuIORNFXvWB74SqX) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [notre dame](https://open.spotify.com/album/6FG85HWGBfk6AbHszOjuSN) | 4:18 |
 | 19 | [White Water](https://open.spotify.com/track/5dmrLolEgTr4TT0AhOxk5x) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [White Water](https://open.spotify.com/album/4yZll8f1nGx4qpqKMLe87V) | 3:53 |
-| 20 | [Suspirium](https://open.spotify.com/track/4Y1igB1GDncJvt7ezbV3cW) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Suspiria \(Music for the Luca Guadagnino Film\)](https://open.spotify.com/album/2UehMLybYgLuuNHRNJpbCB) | 3:21 |
-| 21 | [In Dreams](https://open.spotify.com/track/6yPuQr6vjZ7tJ4oq1PEXle) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [I Forget Where We Were](https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF) | 3:33 |
+| 20 | [In Dreams](https://open.spotify.com/track/6yPuQr6vjZ7tJ4oq1PEXle) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [I Forget Where We Were](https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF) | 3:33 |
+| 21 | [Suspirium](https://open.spotify.com/track/4Y1igB1GDncJvt7ezbV3cW) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Suspiria \(Music for the Luca Guadagnino Film\)](https://open.spotify.com/album/2UehMLybYgLuuNHRNJpbCB) | 3:21 |
 | 22 | [The Way Back Home](https://open.spotify.com/track/3PTsvzTENG4jREGGQz9xpb) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [The Way Back Home](https://open.spotify.com/album/1UpWcCKM40cIfTaDY38eFY) | 3:34 |
 | 23 | [Sense of Home](https://open.spotify.com/track/6oImxt6z8HDS56epRgOi0I) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Sense of Home](https://open.spotify.com/album/1MggtpuaGB0IPfFUYaY40U) | 4:25 |
 | 24 | [Petals](https://open.spotify.com/track/2wQlywnCQG88drPNdEOuRO) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [A Mineral Love](https://open.spotify.com/album/1XyvqZhfSsxO03MesQpaQn) | 2:36 |
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 | 43 | [Godzilla](https://open.spotify.com/track/6TJjw5TFQIcUPXhSPojreM) | [Nanna](https://open.spotify.com/artist/49QsjyvAahM6W748gTeWZ7) | [Godzilla](https://open.spotify.com/album/7s2kLItYeY5LgrmNwFm5Al) | 4:49 |
 | 44 | [Howl](https://open.spotify.com/track/3q0osq156ES7MHz4PjMOBp) | [Jake Houlsby](https://open.spotify.com/artist/7opQBzUd3mv4GsxSIveDB3) | [Howl](https://open.spotify.com/album/4m13DJDEVpxD0emJ0glFyQ) | 3:38 |
 | 45 | [Don't Go Far](https://open.spotify.com/track/2BfvdgdBqLtwAzvgtZq9hb) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Permanent Way](https://open.spotify.com/album/4SJv0ML9KXGtEk6YdPK9Sv) | 3:39 |
-| 46 | [You and I](https://open.spotify.com/track/7j9DRB3AzXxQNRHAY3RfAx) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [You and I](https://open.spotify.com/album/0H7AadTjFvdH0XYB2oVuCe) | 3:12 |
+| 46 | [The Wire](https://open.spotify.com/track/2fvgn1xCyf0VQ5o33ZCoc6) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [The Wire](https://open.spotify.com/album/0HpxT1VFSvCSNXrk3976Qc) | 3:00 |
 | 47 | [Samara](https://open.spotify.com/track/6BlVZ6vUaW5vbmDlYV7zfM) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Samara](https://open.spotify.com/album/1v79MqdyOEmgD4axF3dL9U) | 4:16 |
-| 48 | [The Wire](https://open.spotify.com/track/2fvgn1xCyf0VQ5o33ZCoc6) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [The Wire](https://open.spotify.com/album/0HpxT1VFSvCSNXrk3976Qc) | 3:00 |
+| 48 | [You and I](https://open.spotify.com/track/7j9DRB3AzXxQNRHAY3RfAx) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [You and I](https://open.spotify.com/album/0H7AadTjFvdH0XYB2oVuCe) | 3:12 |
 | 49 | [The Rains](https://open.spotify.com/track/2I5mhy8zeIIMWgOFny4Fle) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Wilds](https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA) | 3:31 |
 | 50 | [Motives](https://open.spotify.com/track/6t8fO77SHrCqszDxX1CRMl) | [Davis John Patton](https://open.spotify.com/artist/4BXF9pCPS864m8VMjuR4Pl) | [Forest Park](https://open.spotify.com/album/42s6cU6zv7JYBvmmSWc7IR) | 4:03 |
 | 51 | [Silvery](https://open.spotify.com/track/6i8GiLfa1PAwKl4SBfpFVt) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi), [Ed Tullett](https://open.spotify.com/artist/5VGsR5wapeJIuRPX26IeGn), [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P) | [Heiress](https://open.spotify.com/album/4poxm3vY9nKdqcyeWv5h0a) | 3:52 |
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 | 87 | [Lost](https://open.spotify.com/track/078kLYfYCjjPMbABqriXT3) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Two](https://open.spotify.com/album/36iznSMpm0zbibJ7TsIUmQ) | 3:56 |
 | 88 | [Golden](https://open.spotify.com/track/5nL6QICzZuoVfxLBI9UTh5) | [Mt\. Wolf](https://open.spotify.com/artist/4GLzX588I9R2vs0nTHhD6Z), [St\. South](https://open.spotify.com/artist/1n3X60xWCyL1zytSiKeu4D) | [Golden](https://open.spotify.com/album/7GpRl4yQJU2xDgOHSy1R9z) | 3:19 |
 | 89 | [Plans](https://open.spotify.com/track/1svJlQzq22Erm3P87wGYgk) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Home](https://open.spotify.com/album/6wPsaRI9Oz9Cd8lysOgIAe) | 3:49 |
-| 90 | [Arc \- Stripped](https://open.spotify.com/track/7zdLzxX3JvF8qqW2o6UyMN) | [Yoste](https://open.spotify.com/artist/2wwZDwSBHaVaOI6cE2hfhf) | [Arc \- Stripped](https://open.spotify.com/album/6TetCtVwrmq85YsuG7h9vZ) | 3:26 |
-| 91 | [Melatonin \(Unplugged\)](https://open.spotify.com/track/1IkjoLXB9LEf3w32Wk07X3) | [Phoria](https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm) | [Melatonin \(Unplugged\)](https://open.spotify.com/album/73FpjS6PTT3e4lRfWdsDuy) | 5:25 |
+| 90 | [Melatonin \(Unplugged\)](https://open.spotify.com/track/1IkjoLXB9LEf3w32Wk07X3) | [Phoria](https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm) | [Melatonin \(Unplugged\)](https://open.spotify.com/album/73FpjS6PTT3e4lRfWdsDuy) | 5:25 |
+| 91 | [Arc \- Stripped](https://open.spotify.com/track/7zdLzxX3JvF8qqW2o6UyMN) | [Yoste](https://open.spotify.com/artist/2wwZDwSBHaVaOI6cE2hfhf) | [Arc \- Stripped](https://open.spotify.com/album/6TetCtVwrmq85YsuG7h9vZ) | 3:26 |
 | 92 | [I Still Remain](https://open.spotify.com/track/4PRgUvIwL0u3fSe5Eyg7oS) | [The Western Den](https://open.spotify.com/artist/3AKIOaRG1CUS6JYtgavz1z) | [A Light Left On](https://open.spotify.com/album/6IY3dzTK8UZCJpzMO3TqyH) | 4:29 |
 | 93 | [Horizons](https://open.spotify.com/track/6q2VGul8D4SqtqoXePuq6j) | [Xavia](https://open.spotify.com/artist/3nryYEIQnCTnBZ8OPmOd6i) | [Mountain Whisper](https://open.spotify.com/album/6ZaqWexNzUOpf4Dn1CXNq0) | 4:34 |
 | 94 | [Different Kinds of Light](https://open.spotify.com/track/3q7T7yQ0oj0hWEoPciBTKj) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Different Kinds of Light](https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9) | 3:05 |
 | 95 | [Society](https://open.spotify.com/track/5BQZpjCcPmFSeLzTh48Zfc) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Orbit](https://open.spotify.com/album/7JDJYXq99Jd9kUYAtsfK5u) | 3:53 |
 | 96 | [Goat](https://open.spotify.com/track/2YEa3nFylD0cX3RZ48IJol) | [French For Rabbits](https://open.spotify.com/artist/0g6VRF5TU1BM5FvK0yKyS2) | [Spirits](https://open.spotify.com/album/0DTmI8AV6gVRELVABD2Gl4) | 3:48 |
-| 97 | [Laugh Again](https://open.spotify.com/track/5ZgbBziuSI2t9D35PNEKU4) | [Ev Carm](https://open.spotify.com/artist/7HRu2XaMM0YFdWqKGDiQtL) | [Awake](https://open.spotify.com/album/6X80JGSK70plo8k6bccvIf) | 3:59 |
-| 98 | [Pictures](https://open.spotify.com/track/2rahZcwdQ3zQU6AEgXWV6G) | [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [A Book Of Flying](https://open.spotify.com/album/1vXfSRXxuhqCWiVgA2Zzde) | 4:16 |
+| 97 | [Pictures](https://open.spotify.com/track/2rahZcwdQ3zQU6AEgXWV6G) | [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [A Book Of Flying](https://open.spotify.com/album/1vXfSRXxuhqCWiVgA2Zzde) | 4:16 |
+| 98 | [Laugh Again](https://open.spotify.com/track/5ZgbBziuSI2t9D35PNEKU4) | [Ev Carm](https://open.spotify.com/artist/7HRu2XaMM0YFdWqKGDiQtL) | [Awake](https://open.spotify.com/album/6X80JGSK70plo8k6bccvIf) | 3:59 |
 | 99 | [Heavenbound](https://open.spotify.com/track/482OSODPNgnvIPRyByk0sm) | [Mt\. Wolf](https://open.spotify.com/artist/4GLzX588I9R2vs0nTHhD6Z) | [Aetherlight](https://open.spotify.com/album/4qaVL3I4xyHF9qq98dmPHc) | 4:12 |
 | 100 | [Bombs](https://open.spotify.com/track/5h9kCImRSHs7xabbDOYCYC) | [Sami Simon](https://open.spotify.com/artist/0QNjXIQx37k8fIIzO4g71q) | [Bombs](https://open.spotify.com/album/0uEl2CeXpVSKVeaZL1upw5) | 4:26 |
 
-Snapshot ID: `MTY4MTQ0NDgwMCwwMDAwMDAwMGYzM2JhNTJkNzlkYTA1MjZlOTI2MDg1YmRiZDI5OTFl`
+Snapshot ID: `MTY4MTQ0NDgwMCwwMDAwMDAwMGIzMzk3OTk5ZDYyYjNhNTFhMDBhMzlhYjFmODY0Y2Zm`

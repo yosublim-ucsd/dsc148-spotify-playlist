@@ -1,12 +1,12 @@
 {
   "description": "Groovy, dancy, funky stuff.",
-  "num_followers": 240647,
+  "num_followers": 241002,
   "original_name": "Soir\u00e9e",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg0MDAwMCwwMDAwMDAwMDIwZmRmZjY0ZTVjZTQ0MWVhZDU5MWJhNWZlOWZkMWQx",
+  "snapshot_id": "MTY4MDg0MDAwMCwwMDAwMDAwMDdlZGEwMGIzMzQ2YzhhODg3ZmIwMDNjODA3NWQyNzI5",
   "tracks": [
     {
       "added_at": "2023-04-07 04:00:00",
@@ -423,26 +423,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Free Nationals",
-        "url": "https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN"
-      },
-      "artists": [
-        {
-          "name": "Free Nationals",
-          "url": "https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj"
-        },
-        {
-          "name": "Chronixx",
-          "url": "https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP"
-        }
-      ],
-      "duration_ms": 193740,
-      "name": "Eternal Light",
-      "url": "https://open.spotify.com/track/1CbxG199T0fzfUV5EO7aPV"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Geography",
         "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
       },
@@ -483,6 +463,26 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "Free Nationals",
+        "url": "https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN"
+      },
+      "artists": [
+        {
+          "name": "Free Nationals",
+          "url": "https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj"
+        },
+        {
+          "name": "Chronixx",
+          "url": "https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP"
+        }
+      ],
+      "duration_ms": 193740,
+      "name": "Eternal Light",
+      "url": "https://open.spotify.com/track/1CbxG199T0fzfUV5EO7aPV"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "For Ever",
         "url": "https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm"
       },
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "I Feel Good",
-        "url": "https://open.spotify.com/album/4wKGNANAC9OHjccAiihjGO"
-      },
-      "artists": [
-        {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
-        }
-      ],
-      "duration_ms": 136058,
-      "name": "I Feel Good",
-      "url": "https://open.spotify.com/track/3lUQpvfWFcxZC3RYAVGE7F"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Sunny Day",
         "url": "https://open.spotify.com/album/64vixHlrsvw8TgydOjVFvn"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 192000,
       "name": "Sunny Day",
       "url": "https://open.spotify.com/track/19aBGyxQrl8LDnPUyusjRa"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "I Feel Good",
+        "url": "https://open.spotify.com/album/4wKGNANAC9OHjccAiihjGO"
+      },
+      "artists": [
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        }
+      ],
+      "duration_ms": 136058,
+      "name": "I Feel Good",
+      "url": "https://open.spotify.com/track/3lUQpvfWFcxZC3RYAVGE7F"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Electric U",
-        "url": "https://open.spotify.com/album/5ZHpLNkTHkhNhuDwQbpFwY"
-      },
-      "artists": [
-        {
-          "name": "Kid Bloom",
-          "url": "https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P"
-        }
-      ],
-      "duration_ms": 171696,
-      "name": "Electric U",
-      "url": "https://open.spotify.com/track/1h3ODYcDJly0H53W2Ai42Q"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Feels Right",
         "url": "https://open.spotify.com/album/2p1ShoYCCYtOfyDXRS97Gn"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 199006,
       "name": "Feels Right",
       "url": "https://open.spotify.com/track/0BWBqb5XxraObLopqskk6D"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Electric U",
+        "url": "https://open.spotify.com/album/5ZHpLNkTHkhNhuDwQbpFwY"
+      },
+      "artists": [
+        {
+          "name": "Kid Bloom",
+          "url": "https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P"
+        }
+      ],
+      "duration_ms": 171696,
+      "name": "Electric U",
+      "url": "https://open.spotify.com/track/1h3ODYcDJly0H53W2Ai42Q"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -915,6 +915,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "What Could Possibly Go Wrong",
+        "url": "https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 186050,
+      "name": "Vampire",
+      "url": "https://open.spotify.com/track/0SRPuTnr5QOKRoIxMvvlgK"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Assumptions (Kaytranada Edit)",
         "url": "https://open.spotify.com/album/5YTiQmOzu1m293UgtWNJSR"
       },
@@ -935,34 +951,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "What Could Possibly Go Wrong",
-        "url": "https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7"
+        "name": "Both Of Us",
+        "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
       },
       "artists": [
         {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
         }
       ],
-      "duration_ms": 186050,
-      "name": "Vampire",
-      "url": "https://open.spotify.com/track/0SRPuTnr5QOKRoIxMvvlgK"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "2AM",
-        "url": "https://open.spotify.com/album/6P6w3VdF7BWvRQMK1gefOf"
-      },
-      "artists": [
-        {
-          "name": "Landon Conrath",
-          "url": "https://open.spotify.com/artist/2PJ06l59DomDd440az768u"
-        }
-      ],
-      "duration_ms": 153697,
-      "name": "2AM",
-      "url": "https://open.spotify.com/track/39OJhQWyBJteRK1elY7VJA"
+      "duration_ms": 229424,
+      "name": "Both Of Us - Edit",
+      "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -983,18 +983,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Both Of Us",
-        "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
+        "name": "2AM",
+        "url": "https://open.spotify.com/album/6P6w3VdF7BWvRQMK1gefOf"
       },
       "artists": [
         {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+          "name": "Landon Conrath",
+          "url": "https://open.spotify.com/artist/2PJ06l59DomDd440az768u"
         }
       ],
-      "duration_ms": 229424,
-      "name": "Both Of Us - Edit",
-      "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
+      "duration_ms": 153697,
+      "name": "2AM",
+      "url": "https://open.spotify.com/track/39OJhQWyBJteRK1elY7VJA"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1175,6 +1175,30 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "JAGUAR",
+        "url": "https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "duration_ms": 176773,
+      "name": "Experience",
+      "url": "https://open.spotify.com/track/2oap3QptGISyIvwKpnJJId"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Everything Eventually Ends",
         "url": "https://open.spotify.com/album/5pk9cqTDktuytdBNidkke4"
       },
@@ -1207,30 +1231,6 @@
       "duration_ms": 231192,
       "name": "go with u",
       "url": "https://open.spotify.com/track/4PdLup4OaCGktZG8cvbkBz"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "JAGUAR",
-        "url": "https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        }
-      ],
-      "duration_ms": 176773,
-      "name": "Experience",
-      "url": "https://open.spotify.com/track/2oap3QptGISyIvwKpnJJId"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "If This Isn\u2019t Nice, I Don\u2019t Know What Is",
+        "url": "https://open.spotify.com/album/0QnWm07An8WyO3eupjBDoP"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Rocky",
+      "url": "https://open.spotify.com/track/3E73eFyGL6v10qlK3jiLyR"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "CooCool",
         "url": "https://open.spotify.com/album/4oPrQ3KXGrzE2DxJVnAU7F"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 271112,
       "name": "CooCool",
       "url": "https://open.spotify.com/track/0C8jkmcNV7VxyHemnI917F"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "If This Isn\u2019t Nice, I Don\u2019t Know What Is",
-        "url": "https://open.spotify.com/album/0QnWm07An8WyO3eupjBDoP"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Rocky",
-      "url": "https://open.spotify.com/track/3E73eFyGL6v10qlK3jiLyR"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "times",
+        "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "duration_ms": 255826,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/2ORvnjpTAXtyTKnaGAgFIv"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "\u00bfT\u00e9o?",
         "url": "https://open.spotify.com/album/5NhRAV4V8xcH0Wzj047C1g"
       },
@@ -1469,20 +1485,24 @@
       "url": "https://open.spotify.com/track/2YeKQ7zSBbalFl5K0EpEgH"
     },
     {
-      "added_at": "2023-03-31 04:00:00",
+      "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "times",
-        "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
+        "name": "DAYS GO BY",
+        "url": "https://open.spotify.com/album/0sFfaz3GhoFX0eHUDjXtbw"
       },
       "artists": [
         {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+          "name": "SBTRKT",
+          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
+        },
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
         }
       ],
-      "duration_ms": 255826,
-      "name": "Chemicals",
-      "url": "https://open.spotify.com/track/2ORvnjpTAXtyTKnaGAgFIv"
+      "duration_ms": 271756,
+      "name": "DAYS GO BY",
+      "url": "https://open.spotify.com/track/0IngWDycujRx7MPYCqImO0"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1623,26 +1643,6 @@
       "duration_ms": 148607,
       "name": "Heybb!",
       "url": "https://open.spotify.com/track/3sN85u5M7FoMmHa8E2aViO"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "DAYS GO BY",
-        "url": "https://open.spotify.com/album/0sFfaz3GhoFX0eHUDjXtbw"
-      },
-      "artists": [
-        {
-          "name": "SBTRKT",
-          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
-        },
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        }
-      ],
-      "duration_ms": 271756,
-      "name": "DAYS GO BY",
-      "url": "https://open.spotify.com/track/0IngWDycujRx7MPYCqImO0"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1811,6 +1811,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "times",
+        "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "duration_ms": 259173,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/2Oc5ez4PVPnIWAmYr8i99V"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "YoSoyMatt (feat. Hermanu)",
         "url": "https://open.spotify.com/album/6hLIAEBdWIqUcERETkJZHE"
       },
@@ -1827,22 +1843,6 @@
       "duration_ms": 237600,
       "name": "YoSoyMatt (feat. Hermanu)",
       "url": "https://open.spotify.com/track/5T3yTmOJ1hJxnH8boXgm3l"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "times",
-        "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        }
-      ],
-      "duration_ms": 259173,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/2Oc5ez4PVPnIWAmYr8i99V"
     }
   ],
   "unique_name": "Soir\u00e9e",

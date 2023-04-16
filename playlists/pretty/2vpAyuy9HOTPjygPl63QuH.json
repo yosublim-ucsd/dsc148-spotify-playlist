@@ -1,12 +1,12 @@
 {
   "description": "The freshest house music, updated every friday. Submit here: https:&#x2F;&#x2F;linktr.ee&#x2F;houseshift",
-  "num_followers": 5790,
+  "num_followers": 5796,
   "original_name": "House Shift",
   "owner": {
     "name": "SUBSHIFT",
     "url": "https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv"
   },
-  "snapshot_id": "NjkyNCxlOGMwZjg1MjgyM2UwYzFjM2JkMTczNWM5NmYwNDE4M2UxNTkzZGE3",
+  "snapshot_id": "NjkyNyw3ZjMyMmJhYmZlY2RhYmU5MDhjZDMzYjc3MzQ5NmRkZDViM2YyODU5",
   "tracks": [
     {
       "added_at": "2023-04-07 08:57:21",
@@ -471,6 +471,54 @@
       "duration_ms": 176648,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/5Bhpw5EbF6fLflC41NI4HD"
+    },
+    {
+      "added_at": "2023-04-15 08:35:06",
+      "album": {
+        "name": "Up The Attic EP",
+        "url": "https://open.spotify.com/album/6Hh8t98iHvGEUZyHRIOUdq"
+      },
+      "artists": [
+        {
+          "name": "M-High",
+          "url": "https://open.spotify.com/artist/5lNjdR9GxHHF3twNE6ayJW"
+        }
+      ],
+      "duration_ms": 249462,
+      "name": "Jackstion - Edit",
+      "url": "https://open.spotify.com/track/5WRe14AMPtYOpIkfJjVogv"
+    },
+    {
+      "added_at": "2023-04-15 08:35:14",
+      "album": {
+        "name": "Beats 4 Eats Part. I",
+        "url": "https://open.spotify.com/album/4po1t87GmYVQgB6ZROK2FQ"
+      },
+      "artists": [
+        {
+          "name": "Jordan Peak",
+          "url": "https://open.spotify.com/artist/5Jhhsm26nMbGu8FNOvN3Gk"
+        }
+      ],
+      "duration_ms": 176279,
+      "name": "Room 2 - Edit",
+      "url": "https://open.spotify.com/track/2agDmUuQsLVAJP89qHs8dJ"
+    },
+    {
+      "added_at": "2023-04-15 08:39:55",
+      "album": {
+        "name": "Gimme Dat",
+        "url": "https://open.spotify.com/album/5uzcCo9bysmAZ3mHTsq1vr"
+      },
+      "artists": [
+        {
+          "name": "1000 Handz",
+          "url": "https://open.spotify.com/artist/6nvVfQDguCLS7by9aJhMly"
+        }
+      ],
+      "duration_ms": 222720,
+      "name": "Gimme Dat",
+      "url": "https://open.spotify.com/track/3qBAdCLkuuPS4M4YhJuaiW"
     }
   ],
   "unique_name": "House Shift",

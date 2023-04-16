@@ -1,12 +1,12 @@
 {
   "description": "A selection of the greatest funk & soul records ever made.",
-  "num_followers": 1498443,
+  "num_followers": 1499301,
   "original_name": "Funk & Soul Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk1MjgxMSwwMDAwMDAwMDkwNGM3ZTIxNzFhMDQ4YjgwZjc2YTA5NGRmMjFjMjEx",
+  "snapshot_id": "MTY2Mzk1MjgxMSwwMDAwMDAwMDBjOTZjZjZhNWQ3YWJjMjY0Mzg2MTIwZTY3YWU2ZTBj",
   "tracks": [
     {
       "added_at": "2022-09-23 17:06:51",
@@ -159,22 +159,6 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
-        "name": "Inseparable",
-        "url": "https://open.spotify.com/album/1eTNYVS06XwHjwMssf6Fsx"
-      },
-      "artists": [
-        {
-          "name": "Natalie Cole",
-          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
-        }
-      ],
-      "duration_ms": 171960,
-      "name": "This Will Be (An Everlasting Love)",
-      "url": "https://open.spotify.com/track/0PDCewmZCp0P5s00bptcdd"
-    },
-    {
-      "added_at": "2022-09-23 17:06:51",
-      "album": {
         "name": "In The Groove",
         "url": "https://open.spotify.com/album/36VMWZPLjg9rucvMxdA2Pz"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 194293,
       "name": "I Heard It Through The Grapevine",
       "url": "https://open.spotify.com/track/1tqT6DhmsrtQgyCKUwotiw"
+    },
+    {
+      "added_at": "2022-09-23 17:06:51",
+      "album": {
+        "name": "Inseparable",
+        "url": "https://open.spotify.com/album/1eTNYVS06XwHjwMssf6Fsx"
+      },
+      "artists": [
+        {
+          "name": "Natalie Cole",
+          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+        }
+      ],
+      "duration_ms": 171960,
+      "name": "This Will Be (An Everlasting Love)",
+      "url": "https://open.spotify.com/track/0PDCewmZCp0P5s00bptcdd"
     },
     {
       "added_at": "2022-09-23 17:06:51",
@@ -327,22 +327,6 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
-        "name": "Green Onions",
-        "url": "https://open.spotify.com/album/2aGFVLz0oQPa3uxCfq9lcU"
-      },
-      "artists": [
-        {
-          "name": "Booker T. & the M.G.'s",
-          "url": "https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5"
-        }
-      ],
-      "duration_ms": 176333,
-      "name": "Green Onions",
-      "url": "https://open.spotify.com/track/4fQMGlCawbTkH9yPPZ49kP"
-    },
-    {
-      "added_at": "2022-09-23 17:06:51",
-      "album": {
         "name": "Midnight Love",
         "url": "https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 238600,
       "name": "Sexual Healing",
       "url": "https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED"
+    },
+    {
+      "added_at": "2022-09-23 17:06:51",
+      "album": {
+        "name": "Green Onions",
+        "url": "https://open.spotify.com/album/2aGFVLz0oQPa3uxCfq9lcU"
+      },
+      "artists": [
+        {
+          "name": "Booker T. & the M.G.'s",
+          "url": "https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5"
+        }
+      ],
+      "duration_ms": 176333,
+      "name": "Green Onions",
+      "url": "https://open.spotify.com/track/4fQMGlCawbTkH9yPPZ49kP"
     },
     {
       "added_at": "2022-09-23 17:06:51",
@@ -407,6 +407,22 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
+        "name": "What's Going On",
+        "url": "https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "What's Going On",
+      "url": "https://open.spotify.com/track/3Um9toULmYFGCpvaIPFw7l"
+    },
+    {
+      "added_at": "2022-09-23 17:06:51",
+      "album": {
         "name": "Hold On, I'm Comin'",
         "url": "https://open.spotify.com/album/2PBsbww0MYw9F1JzyYWIEO"
       },
@@ -439,22 +455,6 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 180493,
-      "name": "If You Want Me to Stay",
-      "url": "https://open.spotify.com/track/2BydLQAh7CUIFvSEqAMc4x"
-    },
-    {
-      "added_at": "2022-09-23 17:06:51",
-      "album": {
         "name": "The Best Of Earth, Wind & Fire Vol. 1",
         "url": "https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7"
       },
@@ -471,18 +471,18 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
-        "name": "What's Going On",
-        "url": "https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B"
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD"
       },
       "artists": [
         {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
         }
       ],
-      "duration_ms": 233000,
-      "name": "What's Going On",
-      "url": "https://open.spotify.com/track/3Um9toULmYFGCpvaIPFw7l"
+      "duration_ms": 180493,
+      "name": "If You Want Me to Stay",
+      "url": "https://open.spotify.com/track/2BydLQAh7CUIFvSEqAMc4x"
     },
     {
       "added_at": "2022-09-23 17:06:51",
@@ -551,22 +551,6 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
-        "name": "Soul Men",
-        "url": "https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK"
-      },
-      "artists": [
-        {
-          "name": "Sam & Dave",
-          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Soul Man",
-      "url": "https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf"
-    },
-    {
-      "added_at": "2022-09-23 17:06:51",
-      "album": {
         "name": "The Very Best Of The Staple Singers",
         "url": "https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 141506,
       "name": "Everyday People",
       "url": "https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7"
+    },
+    {
+      "added_at": "2022-09-23 17:06:51",
+      "album": {
+        "name": "Soul Men",
+        "url": "https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK"
+      },
+      "artists": [
+        {
+          "name": "Sam & Dave",
+          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Soul Man",
+      "url": "https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf"
     },
     {
       "added_at": "2022-09-23 17:06:51",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
-        "name": "Four Tops",
-        "url": "https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm"
-      },
-      "artists": [
-        {
-          "name": "Four Tops",
-          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
-        }
-      ],
-      "duration_ms": 166026,
-      "name": "Baby I Need Your Loving",
-      "url": "https://open.spotify.com/track/3aCbwWCYCT3MJjZeUnlcp4"
-    },
-    {
-      "added_at": "2022-09-23 17:06:51",
-      "album": {
         "name": "Commodores",
         "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 208893,
       "name": "Brick House",
       "url": "https://open.spotify.com/track/5VJjhHyG8NZ5xdgG6uTb3P"
+    },
+    {
+      "added_at": "2022-09-23 17:06:51",
+      "album": {
+        "name": "Four Tops",
+        "url": "https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm"
+      },
+      "artists": [
+        {
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+        }
+      ],
+      "duration_ms": 166026,
+      "name": "Baby I Need Your Loving",
+      "url": "https://open.spotify.com/track/3aCbwWCYCT3MJjZeUnlcp4"
     },
     {
       "added_at": "2022-09-23 17:06:51",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
-        "name": "Come Get It! (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3fRI3fAHalHqqnKsW5btnP"
-      },
-      "artists": [
-        {
-          "name": "Rick James",
-          "url": "https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL"
-        }
-      ],
-      "duration_ms": 297346,
-      "name": "Mary Jane",
-      "url": "https://open.spotify.com/track/5hWLHFSmomXmeTXEE478My"
-    },
-    {
-      "added_at": "2022-09-23 17:06:51",
-      "album": {
         "name": "More Hits By The Supremes",
         "url": "https://open.spotify.com/album/2maj3yWtoFnr0g7TlNao7A"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 172906,
       "name": "Stop! In The Name Of Love",
       "url": "https://open.spotify.com/track/52FlwUMMDnTK8TGkCag9Jd"
+    },
+    {
+      "added_at": "2022-09-23 17:06:51",
+      "album": {
+        "name": "Come Get It! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3fRI3fAHalHqqnKsW5btnP"
+      },
+      "artists": [
+        {
+          "name": "Rick James",
+          "url": "https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL"
+        }
+      ],
+      "duration_ms": 297346,
+      "name": "Mary Jane",
+      "url": "https://open.spotify.com/track/5hWLHFSmomXmeTXEE478My"
     },
     {
       "added_at": "2022-09-23 17:06:51",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
-        "name": "Express Yourself",
-        "url": "https://open.spotify.com/album/2aUItMxwVnUJg4btjcUxC5"
-      },
-      "artists": [
-        {
-          "name": "Charles Wright & The Watts 103rd Street Rhythm Band",
-          "url": "https://open.spotify.com/artist/2t0kaaDtGZtmpczIAMaVTQ"
-        }
-      ],
-      "duration_ms": 233613,
-      "name": "Express Yourself",
-      "url": "https://open.spotify.com/track/4pW3aTX3kAmOaPJfc9UM12"
-    },
-    {
-      "added_at": "2022-09-23 17:06:51",
-      "album": {
         "name": "Atlantic 60th: Soul, Sweat And Strut",
         "url": "https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 142186,
       "name": "Respect - 2003 Remaster",
       "url": "https://open.spotify.com/track/5AoTuHE5P5bvC7BBppYnja"
+    },
+    {
+      "added_at": "2022-09-23 17:06:51",
+      "album": {
+        "name": "Express Yourself",
+        "url": "https://open.spotify.com/album/2aUItMxwVnUJg4btjcUxC5"
+      },
+      "artists": [
+        {
+          "name": "Charles Wright & The Watts 103rd Street Rhythm Band",
+          "url": "https://open.spotify.com/artist/2t0kaaDtGZtmpczIAMaVTQ"
+        }
+      ],
+      "duration_ms": 233613,
+      "name": "Express Yourself",
+      "url": "https://open.spotify.com/track/4pW3aTX3kAmOaPJfc9UM12"
     },
     {
       "added_at": "2022-09-23 17:06:51",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
+        "name": "Mothership Connection",
+        "url": "https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2"
+      },
+      "artists": [
+        {
+          "name": "Parliament",
+          "url": "https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH"
+        }
+      ],
+      "duration_ms": 348066,
+      "name": "Give Up The Funk (Tear The Roof Off The Sucker)",
+      "url": "https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y"
+    },
+    {
+      "added_at": "2022-09-23 17:06:51",
+      "album": {
         "name": "Motherlode",
         "url": "https://open.spotify.com/album/3PMLP2hPq76MY9XKAgUC8f"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 544640,
       "name": "People Get Up And Drive Your Funky Soul - Remix",
       "url": "https://open.spotify.com/track/5U3i59kbTLrxo46TU1FRnF"
-    },
-    {
-      "added_at": "2022-09-23 17:06:51",
-      "album": {
-        "name": "Mothership Connection",
-        "url": "https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2"
-      },
-      "artists": [
-        {
-          "name": "Parliament",
-          "url": "https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH"
-        }
-      ],
-      "duration_ms": 348066,
-      "name": "Give Up The Funk (Tear The Roof Off The Sucker)",
-      "url": "https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y"
     }
   ],
   "unique_name": "Funk & Soul Classics",

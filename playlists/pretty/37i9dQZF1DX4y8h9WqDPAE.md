@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 
 > Where Hip\-Hop, Afro\-Fusion & Pop meet R&B !  Cover: Daniel Caesar
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,776,793 likes - 109 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,776,979 likes - 109 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 | 28 | [Bus Stop \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/2k3IJR9hf34ZfEnTdlcoSK) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 3:56 |
 | 29 | [2 Sugar \(feat\. Ayra Starr\)](https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 3:07 |
 | 30 | [Far Away](https://open.spotify.com/track/6ytwuDs4xBbt0TllrIZi4C) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Far Away](https://open.spotify.com/album/57oEI8ZsS1oPc6bYwgfNiT) | 2:19 |
-| 31 | [Magic](https://open.spotify.com/track/6pZ5mZ9vyL1LhnBhe9F0ab) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Magic](https://open.spotify.com/album/5l41YMfQTv7Rn2htpTbDit) | 2:22 |
+| 31 | [Magic](https://open.spotify.com/track/6pZ5mZ9vyL1LhnBhe9F0ab) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Magic](https://open.spotify.com/album/5l41YMfQTv7Rn2htpTbDit) | 2:21 |
 | 32 | [Kissing On Your Tattoos](https://open.spotify.com/track/0WdifxR7rIz3kI2Qhv0C7H) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Kissing On Your Tattoos](https://open.spotify.com/album/4WnGoXv9inlFuNT75MScMN) | 2:33 |
 | 33 | [Cheatback](https://open.spotify.com/track/157HuQLoRKG4r3zqQU2bwN) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [In Pieces](https://open.spotify.com/album/57eOzR6RxyfJLC3ggBQfRI) | 3:45 |
 | 34 | [Lie To Me](https://open.spotify.com/track/2jnKTP2gpVFTSBEmJ9aCrj) | [No Guidnce](https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY) | [Lie To Me](https://open.spotify.com/album/09D2NiluDpc2HOWgppKiNV) | 2:48 |

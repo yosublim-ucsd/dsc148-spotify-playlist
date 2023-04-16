@@ -4,7 +4,7 @@
 
 > Le rayon de soleil musical de votre matinée.
 
-76 songs - 4 hr 55 min
+77 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Berlin](https://open.spotify.com/track/7BSMSvK0WxrDeI98bswYa8) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Dawn](https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv) | 2:54 | 2022-12-06 |  |
 | [Best Part of Me \(feat\. YEBBA\)](https://open.spotify.com/track/5ug4vqGZ3eisGhY1IsziNX) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Best Part of Me \(feat\. YEBBA\)](https://open.spotify.com/album/6Z5DhADmyybfKNdymaPLjB) | 4:03 | 2023-02-21 |  |
 | [bye bye](https://open.spotify.com/track/02q60trEKaNAa9oZbGFBW0) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [September Pack](https://open.spotify.com/album/7J1PKPKHqSQKuT3Q0NIgK5) | 3:18 | 2022-12-06 | 2023-02-22 |
-| [Cherry](https://open.spotify.com/track/5cENc0N9NpJJB7FggcMjyS) | [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [Troubadour](https://open.spotify.com/album/4GIeoRcpLeLwgxQK8jo183) | 3:21 | 2023-03-16 |  |
+| [Cherry](https://open.spotify.com/track/5cENc0N9NpJJB7FggcMjyS) | [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [Troubadour](https://open.spotify.com/album/4GIeoRcpLeLwgxQK8jo183) | 3:21 | 2023-03-16 | 2023-04-16 |
 | [Cherry Wine \- Live](https://open.spotify.com/track/1C042FLYy7rP3MfnkOcnha) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 4:00 | 2022-12-06 |  |
 | [Coffee](https://open.spotify.com/track/429NtPmr12aypzFH3FkN9l) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Coffee](https://open.spotify.com/album/5wQU9QESgj4rLyLECGTJGn) | 2:06 | 2022-12-06 |  |
 | [Conversation Piece](https://open.spotify.com/track/6qV3OEpN6uFCZnzNSslbn1) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [WALLS](https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm) | 4:59 | 2022-12-06 | 2023-03-18 |
@@ -34,6 +34,7 @@
 | [Falling Slowly](https://open.spotify.com/track/6EIVLz5xM1xE29r0OmIkWt) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0), [Markéta Irglová](https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx) | [Music From The Motion Picture Once](https://open.spotify.com/album/4BUG3kfPOB6DWVKKDY2icE) | 4:04 | 2022-12-06 |  |
 | [First Day of My Life](https://open.spotify.com/track/0eBryM7ePQH3Klt3jz8xZd) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [I'm Wide Awake, It's Morning](https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7) | 3:08 | 2022-12-06 |  |
 | [Four Walls \(The Ballad Of Perry Smith\)](https://open.spotify.com/track/6ezPXXacQCCz2wIzg4sEAj) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \(Complete Edition\)](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 4:12 | 2022-12-06 | 2023-02-22 |
+| [Fucked It Up](https://open.spotify.com/track/5Cn9nBZh530Vei9dOeKUGs) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [The Love Still Held Me Near](https://open.spotify.com/album/57arSTDRPVYZRm6uIuR1ym) | 3:58 | 2023-03-16 |  |
 | [Gaffe aux autres](https://open.spotify.com/track/6PbRfvvnsJr6fIi3iunNyn) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou), [Jérémy Frerot](https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK) | [Paradis](https://open.spotify.com/album/3TlmlAsJZhteMKH47jkDiL) | 2:51 | 2022-12-06 |  |
 | [Glory Box](https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 5:08 | 2022-12-06 |  |
 | [Hallelujah](https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 6:53 | 2023-02-21 |  |

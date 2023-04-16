@@ -1,6 +1,6 @@
 {
   "description": "Relax to the calming sounds of choral music.",
-  "num_followers": 215589,
+  "num_followers": 215699,
   "original_name": "Choir Classics",
   "owner": {
     "name": "Spotify",
@@ -261,7 +261,7 @@
         }
       ],
       "duration_ms": 266400,
-      "name": "Retire My Soul",
+      "name": "Byrd: Retire My Soul",
       "url": "https://open.spotify.com/track/6MKNiRPLEHZE8fikKRL3Vq"
     },
     {
@@ -345,7 +345,7 @@
         }
       ],
       "duration_ms": 292666,
-      "name": "All Seems Beautiful to Me",
+      "name": "Whitacre: All Seems Beautiful to Me",
       "url": "https://open.spotify.com/track/2sUUIC71IhXJbmeO4jPGN7"
     },
     {
@@ -405,7 +405,7 @@
         }
       ],
       "duration_ms": 243413,
-      "name": "Mass for Four Voices: V. Agnus Dei",
+      "name": "Byrd: Mass for Four Voices - V. Agnus Dei",
       "url": "https://open.spotify.com/track/4tJTytklwv0NENMQxzKp8d"
     },
     {
@@ -633,7 +633,7 @@
         }
       ],
       "duration_ms": 281666,
-      "name": "The Sacred Veil: XII. Child of Wonder",
+      "name": "Whitacre: The Sacred Veil - XII. Child of Wonder",
       "url": "https://open.spotify.com/track/7dZyWWwjruK9YiJiN9mbMC"
     },
     {
@@ -1624,12 +1624,12 @@
       },
       "artists": [
         {
-          "name": "James Morgan",
-          "url": "https://open.spotify.com/artist/7mC0zQ4J4cJPNGYFlmiQVC"
-        },
-        {
           "name": "Juliette Pochin",
           "url": "https://open.spotify.com/artist/4UD32JlXGLthCDSEkkB5sV"
+        },
+        {
+          "name": "James Morgan",
+          "url": "https://open.spotify.com/artist/7mC0zQ4J4cJPNGYFlmiQVC"
         },
         {
           "name": "Poor Clare Sisters Arundel",

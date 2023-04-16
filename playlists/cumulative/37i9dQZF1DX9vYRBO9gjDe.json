@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "Spotify Japan\u306e\u30c7\u30a4\u30ea\u30fc\u6025\u4e0a\u6607\u30c1\u30e3\u30fc\u30c8\u30024\u670812\u65e5\u4ed8\u3002",
+  "description": "Spotify Japan\u306e\u30c7\u30a4\u30ea\u30fc\u6025\u4e0a\u6607\u30c1\u30e3\u30fc\u30c8\u30024\u670813\u65e5\u4ed8\u3002",
   "name": "Spotify Japan \u6025\u4e0a\u6607\u30c1\u30e3\u30fc\u30c8",
   "tracks": [
     {
@@ -28,6 +28,24 @@
       "duration_ms": 127393,
       "name": "11th Hour",
       "url": "https://open.spotify.com/track/1wKaBjx3Bz3ij1Pd9aCOYP"
+    },
+    {
+      "album": {
+        "name": "16BOOSTERZ",
+        "url": "https://open.spotify.com/album/4zbk3a6upvEPEQJfv274ow"
+      },
+      "artists": [
+        {
+          "name": "THE RAMPAGE from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215233,
+      "name": "16BOOSTERZ",
+      "url": "https://open.spotify.com/track/4RY3DJYzJzwMtWBKl7IP4C"
     },
     {
       "album": {
@@ -1633,6 +1651,24 @@
     },
     {
       "album": {
+        "name": "Sympa",
+        "url": "https://open.spotify.com/album/6Z3LT9uIwXDnbgypLFrBQb"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136773,
+      "name": "Don't Stop the Clocks",
+      "url": "https://open.spotify.com/track/40cjQFH3UG8bYB8RSuOCgB"
+    },
+    {
+      "album": {
         "name": "DOWN TOWN",
         "url": "https://open.spotify.com/album/3yY408DUkgwhfZkouMRK0i"
       },
@@ -1726,7 +1762,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 174426,
       "name": "En Garde",
       "url": "https://open.spotify.com/track/4GZvo0OL3BsRxNrj4TBeP3"
@@ -2403,6 +2439,24 @@
     },
     {
       "album": {
+        "name": "GOLD",
+        "url": "https://open.spotify.com/album/7v69KT4HpLt7PGURrj1kOI"
+      },
+      "artists": [
+        {
+          "name": "PEOPLE 1",
+          "url": "https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216093,
+      "name": "GOLD",
+      "url": "https://open.spotify.com/track/1ZsZk1y1FF25JXT0ojTz2X"
+    },
+    {
+      "album": {
         "name": "Utanishiteshimaeba,Donnakotodemoyurusarerutoomotteita",
         "url": "https://open.spotify.com/album/7dj8tTCDJt5KRM9rqCsPbb"
       },
@@ -2880,7 +2934,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-15",
+      "date_removed": null,
       "duration_ms": 183853,
       "name": "I AM",
       "url": "https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM"
@@ -3416,7 +3470,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 195440,
       "name": "Kitsch",
       "url": "https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat"
@@ -3796,7 +3850,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 188718,
       "name": "Love Me Like This",
       "url": "https://open.spotify.com/track/3o3bRIOKDwGOdqL9HBUNrO"
@@ -4676,7 +4730,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 192613,
       "name": "Over Me",
       "url": "https://open.spotify.com/track/59oJpXOayvcKGbTXbrZjzF"
@@ -6216,7 +6270,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 190320,
       "name": "SuperCharger",
       "url": "https://open.spotify.com/track/6dh7woGX8OfRUFanTAGhp4"
@@ -6278,7 +6332,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 179026,
       "name": "Switch",
       "url": "https://open.spotify.com/track/4e378M6XRmJBW30gNws2TE"
@@ -7915,6 +7969,28 @@
     },
     {
       "album": {
+        "name": "\u306d\u3047 - From THE FIRST TAKE",
+        "url": "https://open.spotify.com/album/2t4JOVzhHZEk06lf9Mip2g"
+      },
+      "artists": [
+        {
+          "name": "YOAKE",
+          "url": "https://open.spotify.com/artist/0psEe4IooMjolOPMrz9A5M"
+        },
+        {
+          "name": "Rin\u97f3",
+          "url": "https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202215,
+      "name": "\u306d\u3047 - From THE FIRST TAKE",
+      "url": "https://open.spotify.com/track/6v4aKl8TJL3qNJ38SlrJE7"
+    },
+    {
+      "album": {
         "name": "TOM\u2606CAT",
         "url": "https://open.spotify.com/album/2Z6qXVQZXuEHEHoLjM1ofs"
       },
@@ -8230,7 +8306,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 325693,
       "name": "\u30a2\u30ec\u30ad\u30b7\u30b5\u30a4\u30df\u30a2\u30b9\u30da\u30a2",
       "url": "https://open.spotify.com/track/1pQ9MUBDpe5AVnpxha0uso"
@@ -9221,6 +9297,24 @@
     },
     {
       "album": {
+        "name": "\u30a2\u30eb\u30c7\u30f3\u30c6",
+        "url": "https://open.spotify.com/album/0blIFyYXMXiaCU9OPLVGg1"
+      },
+      "artists": [
+        {
+          "name": "Macaroni Empitsu",
+          "url": "https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110924,
+      "name": "\u30ef\u30f3\u30c9\u30ea\u30f3\u30af\u5225",
+      "url": "https://open.spotify.com/track/5tapE1gGyABsGFtgeOYchU"
+    },
+    {
+      "album": {
         "name": "THE BOOK 2",
         "url": "https://open.spotify.com/album/5uStDUB4nlmItpz2AYlFtd"
       },
@@ -9394,7 +9488,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-15",
+      "date_removed": null,
       "duration_ms": 263733,
       "name": "\u51fa\u9022\u3063\u305f\u9803\u306e\u3088\u3046\u306b",
       "url": "https://open.spotify.com/track/6Z7LayRg0N3mkFFjGsO8fN"
@@ -10383,6 +10477,24 @@
     },
     {
       "album": {
+        "name": "\u5b89\u5168\u5730\u5e2fXIII JUNK",
+        "url": "https://open.spotify.com/album/6dZZHxztAnHCeGffVaAVJA"
+      },
+      "artists": [
+        {
+          "name": "Anzen Chitai",
+          "url": "https://open.spotify.com/artist/3EAqVJtaxnPcWYlHXkHcuC"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220173,
+      "name": "\u7530\u5712",
+      "url": "https://open.spotify.com/track/2SrfH3HpaI8WUXSGKW8C0N"
+    },
+    {
+      "album": {
         "name": "\u771f\u590f\u306e\u679c\u5b9f",
         "url": "https://open.spotify.com/album/6yqQMQGUPlrEHUC8WHHwp1"
       },
@@ -10560,7 +10672,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 399418,
       "name": "\u7a93\u306e\u4e2d\u304b\u3089",
       "url": "https://open.spotify.com/track/0R96nqU10shRzLcbpPiNA7"

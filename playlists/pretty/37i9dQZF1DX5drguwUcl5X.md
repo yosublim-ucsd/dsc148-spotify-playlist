@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5drguwUcl5X.md) - [plain]
 
 > Canciones que te pondrán en el mejor mood ever\. Billie Eilish en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,163 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,399 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5drguwUcl5X.md) - [plain]
 | 28 | [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 |
 | 29 | [Can't Get Enough](https://open.spotify.com/track/2Vq450y6TsQDrEb7JhwkGv) | [Big Time Rush](https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd) | [Can't Get Enough](https://open.spotify.com/album/6imoV31LQPeosEGAdvjyAJ) | 3:26 |
 | 30 | [OMG](https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'OMG'](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) | 3:32 |
-| 31 | [See Tình \- Cucak Remix \- Cukak Remix](https://open.spotify.com/track/2QqUfCa7GbxQm6gB3K4hhi) | [Hoang Thuy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL), [Cukak](https://open.spotify.com/artist/3swW6OR2g7qTY3626sqVW4) | [See Tình \- Cucak Remix \(Cukak Remix\)](https://open.spotify.com/album/3IvN0hSsaCpMIigGZ4yJ0z) | 2:50 |
+| 31 | [See Tình \- Cucak Remix \- Cukak Remix](https://open.spotify.com/track/2QqUfCa7GbxQm6gB3K4hhi) | [Hoàng Thùy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL), [Cukak](https://open.spotify.com/artist/3swW6OR2g7qTY3626sqVW4) | [See Tình \- Cucak Remix \(Cukak Remix\)](https://open.spotify.com/album/3IvN0hSsaCpMIigGZ4yJ0z) | 2:50 |
 | 32 | [Set Me Free Pt.2](https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Set Me Free Pt.2](https://open.spotify.com/album/781fDX4OibkZA9fj56Ycbz) | 3:20 |
 | 33 | [Sex, Drugs, Etc.](https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Chit Chat](https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ) | 3:16 |
 | 34 | [i'm yours](https://open.spotify.com/track/37vVp2sWHuuIBOSl1NswP6) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [i'm yours](https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3) | 2:25 |

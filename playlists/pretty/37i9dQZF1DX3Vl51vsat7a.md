@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: LIE NING
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,218 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,246 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

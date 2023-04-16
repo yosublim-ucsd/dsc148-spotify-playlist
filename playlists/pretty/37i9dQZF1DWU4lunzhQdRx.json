@@ -1,12 +1,12 @@
 {
   "description": "yeah it was love then it was just married",
-  "num_followers": 79863,
+  "num_followers": 80080,
   "original_name": "sad girl country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDAxYzY0ZmFlNzQzNzE3YjBjMTUyMTEyYzM0ZTZhZDhh",
+  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMGIzMjM5MGVjYThkMDUxM2U5MWY5OGIyOTFlYzQzNDU1",
   "tracks": [
     {
       "added_at": "2023-04-14 04:00:00",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Untamed",
-        "url": "https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB"
-      },
-      "artists": [
-        {
-          "name": "Cam",
-          "url": "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO"
-        }
-      ],
-      "duration_ms": 231333,
-      "name": "Burning House",
-      "url": "https://open.spotify.com/track/2zhk0kypGeOPsaaZcjyc14"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "The First Time",
         "url": "https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 200040,
       "name": "Peter Pan",
       "url": "https://open.spotify.com/track/2wqXQjOmQ9KoBm9Ssgt4Fo"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Untamed",
+        "url": "https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB"
+      },
+      "artists": [
+        {
+          "name": "Cam",
+          "url": "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO"
+        }
+      ],
+      "duration_ms": 231333,
+      "name": "Burning House",
+      "url": "https://open.spotify.com/track/2zhk0kypGeOPsaaZcjyc14"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Traveller",
-        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 236333,
-      "name": "Whiskey And You",
-      "url": "https://open.spotify.com/track/5aDK0TurEtiedVdT0a6k9a"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Montevallo",
         "url": "https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 225693,
       "name": "Make You Miss Me",
       "url": "https://open.spotify.com/track/0xwPzLmBAYro8BUz7MrtAo"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Traveller",
+        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 236333,
+      "name": "Whiskey And You",
+      "url": "https://open.spotify.com/track/5aDK0TurEtiedVdT0a6k9a"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -679,18 +679,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Frame By Frame",
-        "url": "https://open.spotify.com/album/7IoVJIpP7XtjMJkgYxJkrn"
+        "name": "Pistol Made of Roses",
+        "url": "https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E"
       },
       "artists": [
         {
-          "name": "Cassadee Pope",
-          "url": "https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG"
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
         }
       ],
-      "duration_ms": 215640,
-      "name": "Wasting All These Tears",
-      "url": "https://open.spotify.com/track/25zXRQGuwYZdIp88fVZOPC"
+      "duration_ms": 224581,
+      "name": "Hair Salon",
+      "url": "https://open.spotify.com/track/25jS5o9ZalzGgOvHUSRi7Y"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -711,18 +711,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Pistol Made of Roses",
-        "url": "https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E"
+        "name": "Frame By Frame",
+        "url": "https://open.spotify.com/album/7IoVJIpP7XtjMJkgYxJkrn"
       },
       "artists": [
         {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+          "name": "Cassadee Pope",
+          "url": "https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG"
         }
       ],
-      "duration_ms": 224581,
-      "name": "Hair Salon",
-      "url": "https://open.spotify.com/track/25jS5o9ZalzGgOvHUSRi7Y"
+      "duration_ms": 215640,
+      "name": "Wasting All These Tears",
+      "url": "https://open.spotify.com/track/25zXRQGuwYZdIp88fVZOPC"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -779,18 +779,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Golden Road",
-        "url": "https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7"
+        "name": "Wide Open Spaces",
+        "url": "https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj"
       },
       "artists": [
         {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+          "name": "The Chicks",
+          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
         }
       ],
-      "duration_ms": 293600,
-      "name": "You\u2019ll Think Of Me",
-      "url": "https://open.spotify.com/track/68Iw932AjRCDEPLIzpmOtF"
+      "duration_ms": 217807,
+      "name": "You Were Mine",
+      "url": "https://open.spotify.com/track/2qdVHdkLxKntNjPh3Ssz7s"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Wide Open Spaces",
-        "url": "https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj"
+        "name": "Golden Road",
+        "url": "https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7"
       },
       "artists": [
         {
-          "name": "The Chicks",
-          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
         }
       ],
-      "duration_ms": 217807,
-      "name": "You Were Mine",
-      "url": "https://open.spotify.com/track/2qdVHdkLxKntNjPh3Ssz7s"
+      "duration_ms": 293600,
+      "name": "You\u2019ll Think Of Me",
+      "url": "https://open.spotify.com/track/68Iw932AjRCDEPLIzpmOtF"
     }
   ],
   "unique_name": "sad girl country",

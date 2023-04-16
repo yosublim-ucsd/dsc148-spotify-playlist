@@ -1,12 +1,12 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 35402,
+  "num_followers": 35446,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIxOTQ1MSwwMDAwMDAwMGZhMjFlMmQyMzdmYmIzYTU2NjhmMGU0MzNkOTA5OWIw",
+  "snapshot_id": "MTY4MDIxOTQ1MSwwMDAwMDAwMDM5N2JlMWQ3NDM3ZDY0NmM3ZDczYTNkYWMwNzczYWI4",
   "tracks": [
     {
       "added_at": "2023-03-30 23:37:31",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-03-30 23:37:31",
       "album": {
-        "name": "Mburucuy\u00e1 poty",
-        "url": "https://open.spotify.com/album/2DvRtHOgRC6foFu8qHiCsO"
-      },
-      "artists": [
-        {
-          "name": "Salvador Miqueri",
-          "url": "https://open.spotify.com/artist/4bm1NUQz0emplSsrBxk6aU"
-        }
-      ],
-      "duration_ms": 134600,
-      "name": "Soy Correntino y Doy Fe",
-      "url": "https://open.spotify.com/track/20atmS8DvxGd2i7bEXcV6z"
-    },
-    {
-      "added_at": "2023-03-30 23:37:31",
-      "album": {
         "name": "Otras M\u00fasicas",
         "url": "https://open.spotify.com/album/0JJuFYrBjBOrE9WlmVHgIY"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 275026,
       "name": "Nazareno",
       "url": "https://open.spotify.com/track/2FbrtqmmC0Y6iOyxU9KmMF"
+    },
+    {
+      "added_at": "2023-03-30 23:37:31",
+      "album": {
+        "name": "Mburucuy\u00e1 poty",
+        "url": "https://open.spotify.com/album/2DvRtHOgRC6foFu8qHiCsO"
+      },
+      "artists": [
+        {
+          "name": "Salvador Miqueri",
+          "url": "https://open.spotify.com/artist/4bm1NUQz0emplSsrBxk6aU"
+        }
+      ],
+      "duration_ms": 134600,
+      "name": "Soy Correntino y Doy Fe",
+      "url": "https://open.spotify.com/track/20atmS8DvxGd2i7bEXcV6z"
     },
     {
       "added_at": "2023-03-30 23:37:31",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-03-30 23:37:31",
       "album": {
-        "name": "Eduardo Mi\u00f1o y Ruben Mi\u00f1o",
-        "url": "https://open.spotify.com/album/7CX1bw7JINMo7W4MP2MFCR"
-      },
-      "artists": [
-        {
-          "name": "Eduardo Mi\u00f1o",
-          "url": "https://open.spotify.com/artist/6UhTcKovuQgaTKhyCaASTu"
-        }
-      ],
-      "duration_ms": 162573,
-      "name": "Kilometro 11",
-      "url": "https://open.spotify.com/track/5UG0ZmLwcEkLfIXFThE3jP"
-    },
-    {
-      "added_at": "2023-03-30 23:37:31",
-      "album": {
         "name": "20 Super\u00e9xitos Originales, Vol. 2",
         "url": "https://open.spotify.com/album/43Lh5dNFomrbhmIPbMm6Qt"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 177213,
       "name": "Retorno",
       "url": "https://open.spotify.com/track/6JjBdNgzozYjhQ0Ph8oL8V"
+    },
+    {
+      "added_at": "2023-03-30 23:37:31",
+      "album": {
+        "name": "Eduardo Mi\u00f1o y Ruben Mi\u00f1o",
+        "url": "https://open.spotify.com/album/7CX1bw7JINMo7W4MP2MFCR"
+      },
+      "artists": [
+        {
+          "name": "Eduardo Mi\u00f1o",
+          "url": "https://open.spotify.com/artist/6UhTcKovuQgaTKhyCaASTu"
+        }
+      ],
+      "duration_ms": 162573,
+      "name": "Kilometro 11",
+      "url": "https://open.spotify.com/track/5UG0ZmLwcEkLfIXFThE3jP"
     },
     {
       "added_at": "2023-03-30 23:37:31",
@@ -719,6 +719,26 @@
     {
       "added_at": "2023-03-30 23:37:31",
       "album": {
+        "name": "Coleccion Aniversario",
+        "url": "https://open.spotify.com/album/1JvfVnnIOwhQmcvDdUAyYW"
+      },
+      "artists": [
+        {
+          "name": "Ramona Galarza",
+          "url": "https://open.spotify.com/artist/6SgxxKwvGosbX2WvlVyCmm"
+        },
+        {
+          "name": "Tarrago Ros",
+          "url": "https://open.spotify.com/artist/2Bx9gYQLMfwrkxEhpo9xKL"
+        }
+      ],
+      "duration_ms": 147986,
+      "name": "Siete Higueras",
+      "url": "https://open.spotify.com/track/0qMgxlql8mqgFA0EDwKQGf"
+    },
+    {
+      "added_at": "2023-03-30 23:37:31",
+      "album": {
         "name": "Coraz\u00f3n Chamamecero",
         "url": "https://open.spotify.com/album/0gswITpRLEupnT7EftX6sZ"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 131613,
       "name": "Camino a Tres Cruces",
       "url": "https://open.spotify.com/track/560oE1gGGS7UGrimKO8w2T"
-    },
-    {
-      "added_at": "2023-03-30 23:37:31",
-      "album": {
-        "name": "Coleccion Aniversario",
-        "url": "https://open.spotify.com/album/1JvfVnnIOwhQmcvDdUAyYW"
-      },
-      "artists": [
-        {
-          "name": "Ramona Galarza",
-          "url": "https://open.spotify.com/artist/6SgxxKwvGosbX2WvlVyCmm"
-        },
-        {
-          "name": "Tarrago Ros",
-          "url": "https://open.spotify.com/artist/2Bx9gYQLMfwrkxEhpo9xKL"
-        }
-      ],
-      "duration_ms": 147986,
-      "name": "Siete Higueras",
-      "url": "https://open.spotify.com/track/0qMgxlql8mqgFA0EDwKQGf"
     },
     {
       "added_at": "2023-03-30 23:37:31",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-03-30 23:37:31",
       "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/7sUOgQelTmG2R9yWcgu4F0"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Cardozo",
-          "url": "https://open.spotify.com/artist/2qnTUTsuypizIuMwVM1ffR"
-        }
-      ],
-      "duration_ms": 155666,
-      "name": "Virgencita de Itat\u00ed",
-      "url": "https://open.spotify.com/track/6myPU49XhJGyE95Ec22ked"
-    },
-    {
-      "added_at": "2023-03-30 23:37:31",
-      "album": {
         "name": "Baile de Campo",
         "url": "https://open.spotify.com/album/7oVDKHLXbxjJOvu9ZuSQ7g"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 165120,
       "name": "Baile de Campo",
       "url": "https://open.spotify.com/track/1me7vpj6UO5MhK2lTLRLyn"
+    },
+    {
+      "added_at": "2023-03-30 23:37:31",
+      "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/7sUOgQelTmG2R9yWcgu4F0"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Cardozo",
+          "url": "https://open.spotify.com/artist/2qnTUTsuypizIuMwVM1ffR"
+        }
+      ],
+      "duration_ms": 155666,
+      "name": "Virgencita de Itat\u00ed",
+      "url": "https://open.spotify.com/track/6myPU49XhJGyE95Ec22ked"
     },
     {
       "added_at": "2023-03-30 23:37:31",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2023-03-30 23:37:31",
       "album": {
-        "name": "Las Nuevas Estrellas del Chamam\u00e9",
-        "url": "https://open.spotify.com/album/6xanqDBG1dHjgEpEG409xW"
+        "name": "En Vivo, Teatro Provincial J.C.Saravia - Salta (Pt. 2)",
+        "url": "https://open.spotify.com/album/2E8qde4aiSYOZJqCkWzLto"
       },
       "artists": [
         {
-          "name": "Hermanos Barrios",
-          "url": "https://open.spotify.com/artist/0PyKIePrPdDS9FT1pPbm9X"
+          "name": "Sele Vera y Pampas de Bariloche",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
         }
       ],
-      "duration_ms": 167592,
-      "name": "Por Tus Besos",
-      "url": "https://open.spotify.com/track/0R7kBSEhMqPekZWVGngBBr"
+      "duration_ms": 260410,
+      "name": "C\u00f3mo Marea / Besitos - En Vivo, Teatro Provincial J.C.Saravia - Salta",
+      "url": "https://open.spotify.com/track/3gLPMYpDXzcNkBmFxZBbXp"
     },
     {
       "added_at": "2023-03-30 23:37:31",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2023-03-30 23:37:31",
       "album": {
-        "name": "En Vivo, Teatro Provincial J.C.Saravia - Salta (Pt. 2)",
-        "url": "https://open.spotify.com/album/2E8qde4aiSYOZJqCkWzLto"
+        "name": "Las Nuevas Estrellas del Chamam\u00e9",
+        "url": "https://open.spotify.com/album/6xanqDBG1dHjgEpEG409xW"
       },
       "artists": [
         {
-          "name": "Sele Vera y Pampas de Bariloche",
-          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+          "name": "Hermanos Barrios",
+          "url": "https://open.spotify.com/artist/0PyKIePrPdDS9FT1pPbm9X"
         }
       ],
-      "duration_ms": 260410,
-      "name": "C\u00f3mo Marea / Besitos - En Vivo, Teatro Provincial J.C.Saravia - Salta",
-      "url": "https://open.spotify.com/track/3gLPMYpDXzcNkBmFxZBbXp"
+      "duration_ms": 167592,
+      "name": "Por Tus Besos",
+      "url": "https://open.spotify.com/track/0R7kBSEhMqPekZWVGngBBr"
     },
     {
       "added_at": "2023-03-30 23:37:31",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-03-30 23:37:31",
       "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Palomita y Teresita base",
-          "url": "https://open.spotify.com/artist/1OTvm82ikiCNo83RiKYGXo"
-        }
-      ],
-      "duration_ms": 110253,
-      "name": "Adios palomita ingrata",
-      "url": "https://open.spotify.com/track/4xCcI7PyEhlSqVWOxJjGj3"
-    },
-    {
-      "added_at": "2023-03-30 23:37:31",
-      "album": {
         "name": "Tiempo",
         "url": "https://open.spotify.com/album/4VAmOJquewlCgACkqB6DgL"
       },
@@ -1367,6 +1351,22 @@
     {
       "added_at": "2023-03-30 23:37:31",
       "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Palomita y Teresita base",
+          "url": "https://open.spotify.com/artist/1OTvm82ikiCNo83RiKYGXo"
+        }
+      ],
+      "duration_ms": 110253,
+      "name": "Adios palomita ingrata",
+      "url": "https://open.spotify.com/track/4xCcI7PyEhlSqVWOxJjGj3"
+    },
+    {
+      "added_at": "2023-03-30 23:37:31",
+      "album": {
         "name": "Refugio de so\u00f1adores",
         "url": "https://open.spotify.com/album/0osgmMUJSxVrgUoOtPXJr2"
       },
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2023-03-30 23:37:31",
       "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+        "name": "Sencillito Nom\u00e1s",
+        "url": "https://open.spotify.com/album/1zEMY4fiTvJsk6O77i6mJL"
       },
       "artists": [
         {
-          "name": "Juancito el Peregrino",
-          "url": "https://open.spotify.com/artist/2Tx1vMzCcO0Ev2uDgMksXj"
+          "name": "La Nueva Fuerza del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/2ghm4hJmxW9aPNPaDtoHji"
         }
       ],
-      "duration_ms": 148733,
-      "name": "Temple guarani",
-      "url": "https://open.spotify.com/track/2QqUW53IpfU3cpLqZ2dW2R"
+      "duration_ms": 182200,
+      "name": "No Hay Mal Que por Bien No Venga",
+      "url": "https://open.spotify.com/track/7JqeiuKfK2BQkiRH3Py7UV"
     },
     {
       "added_at": "2023-03-30 23:37:31",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2023-03-30 23:37:31",
       "album": {
-        "name": "Sencillito Nom\u00e1s",
-        "url": "https://open.spotify.com/album/1zEMY4fiTvJsk6O77i6mJL"
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
       },
       "artists": [
         {
-          "name": "La Nueva Fuerza del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/2ghm4hJmxW9aPNPaDtoHji"
+          "name": "Juancito el Peregrino",
+          "url": "https://open.spotify.com/artist/2Tx1vMzCcO0Ev2uDgMksXj"
         }
       ],
-      "duration_ms": 182200,
-      "name": "No Hay Mal Que por Bien No Venga",
-      "url": "https://open.spotify.com/track/7JqeiuKfK2BQkiRH3Py7UV"
+      "duration_ms": 148733,
+      "name": "Temple guarani",
+      "url": "https://open.spotify.com/track/2QqUW53IpfU3cpLqZ2dW2R"
     },
     {
       "added_at": "2023-03-30 23:37:31",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-03-30 23:37:31",
       "album": {
-        "name": "D\u00fao Cejas Sol\u00eds",
-        "url": "https://open.spotify.com/album/6ykh0xH1kYW80selPX5WUS"
-      },
-      "artists": [
-        {
-          "name": "Duo Cejas Solis",
-          "url": "https://open.spotify.com/artist/4jVtTtMgp00oqszMFhv0Q1"
-        }
-      ],
-      "duration_ms": 122733,
-      "name": "Palomita Mensajera",
-      "url": "https://open.spotify.com/track/7hoTIUdGyOfdGrSdbIJ2DU"
-    },
-    {
-      "added_at": "2023-03-30 23:37:31",
-      "album": {
         "name": "20 Superexitos Originales",
         "url": "https://open.spotify.com/album/49ZEKfNmvCtoiuw03rkSNG"
       },
@@ -1487,18 +1471,18 @@
     {
       "added_at": "2023-03-30 23:37:31",
       "album": {
-        "name": "Los 20 Mejores",
-        "url": "https://open.spotify.com/album/5WvWYMsen3UKz22IuCOd4p"
+        "name": "D\u00fao Cejas Sol\u00eds",
+        "url": "https://open.spotify.com/album/6ykh0xH1kYW80selPX5WUS"
       },
       "artists": [
         {
-          "name": "Los de Imaguar\u00e9",
-          "url": "https://open.spotify.com/artist/4qLcigWa3gzKaEPr2kQhIr"
+          "name": "Duo Cejas Solis",
+          "url": "https://open.spotify.com/artist/4jVtTtMgp00oqszMFhv0Q1"
         }
       ],
-      "duration_ms": 395786,
-      "name": "Compadre, Que Tiene El Vino",
-      "url": "https://open.spotify.com/track/6ztmVc64twt0cRhb44QCrZ"
+      "duration_ms": 122733,
+      "name": "Palomita Mensajera",
+      "url": "https://open.spotify.com/track/7hoTIUdGyOfdGrSdbIJ2DU"
     },
     {
       "added_at": "2023-03-30 23:37:31",
@@ -1531,6 +1515,22 @@
       "duration_ms": 160893,
       "name": "Felicidades madrecita",
       "url": "https://open.spotify.com/track/2LWUha71rbLXW9mVgZcFwe"
+    },
+    {
+      "added_at": "2023-03-30 23:37:31",
+      "album": {
+        "name": "Con Estilo Mbaret\u00e9",
+        "url": "https://open.spotify.com/album/6eUSdhrjS2jxvJElvx5M4C"
+      },
+      "artists": [
+        {
+          "name": "Los Criollitos del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/1uTJBtek1AfeL07ev0Lg4r"
+        }
+      ],
+      "duration_ms": 474053,
+      "name": "Bien Correntino / L\u00e1grima de Cocodrilo / Masticando / Conocerte a Ti",
+      "url": "https://open.spotify.com/track/6VtBkcpEWpPBCRinLmVmV4"
     }
   ],
   "unique_name": "Mundo Chamam\u00e9",

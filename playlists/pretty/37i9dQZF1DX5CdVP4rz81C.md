@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 
 > Discover your favorite new chill pop songs\. Cover: Benson Boone
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,327,801 likes - 80 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,327,981 likes - 80 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 | 45 | [Bored](https://open.spotify.com/track/3YQtnh00LIhMqimMUjbS6l) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Bored](https://open.spotify.com/album/4cGUztBrBh5uep9lBJYzP3) | 2:46 |
 | 46 | [boy who falls in love](https://open.spotify.com/track/5lfICvXiZjjqcUY92SFoTQ) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [boy who falls in love](https://open.spotify.com/album/6YlimqSub3ItLttkKnK7Zh) | 3:26 |
 | 47 | [I Can't Swim](https://open.spotify.com/track/3T7yCHl6ovJaQHsSKQSgVm) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [I Can't Swim](https://open.spotify.com/album/4kUoDTy9PghTaRg2bJb4VG) | 3:38 |
-| 48 | [Don't Leave](https://open.spotify.com/track/3Uuobd2VLUX9E1ugsQv4wj) | [Josh Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda), [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [Don't Leave](https://open.spotify.com/album/1qWusCEgXBfPcOBtEGoQhT) | 3:02 |
+| 48 | [Don't Leave](https://open.spotify.com/track/3Uuobd2VLUX9E1ugsQv4wj) | [Josh Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [Don't Leave](https://open.spotify.com/album/1qWusCEgXBfPcOBtEGoQhT) | 3:02 |
 | 49 | [Eat Your Young](https://open.spotify.com/track/2Jw3VjB1xy5KHBqEeAC6VK) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Eat Your Young](https://open.spotify.com/album/1GOa0Bsm7eeVIJglLcoLWX) | 4:02 |
 | 50 | [Always \(feat\. Summer Walker\) \- Bonus](https://open.spotify.com/track/6537jhwnXegjdXhLqorbjE) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [NEVER ENOUGH \(Bonus Version\)](https://open.spotify.com/album/0qGQrHicD7qXuz5VMlDuCe) | 3:42 |
 | 51 | [Kaleidoscope](https://open.spotify.com/track/7N1tjTxJe6k5wakOqpNbCj) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Kaleidoscope](https://open.spotify.com/album/7Gw4m9PhmzpBp3MjKa6V4d) | 3:42 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > a new world of alternative electronic music\. Cover: Pretty Girl
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,663 likes - 75 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,676 likes - 75 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 22 | [Wabi\-Sabi](https://open.spotify.com/track/5q5OIJJmqr3slrtZUdpcXs) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC) | [Where I End](https://open.spotify.com/album/6NG6L5FQacqXP3KJhHfsAg) | 3:19 |
 | 23 | [Watkins Street Finale](https://open.spotify.com/track/256ixY7qfu2nhAA5yahEAV) | [suki](https://open.spotify.com/artist/1vIOPkrhJl84CvBcT6LPyq) | [Phonosynthesis](https://open.spotify.com/album/7pwoY4JQOHYelHoOTTS1dX) | 6:22 |
 | 24 | [Baby again..](https://open.spotify.com/track/4zlbKky2yA657Sk5rekZoR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Baby again..](https://open.spotify.com/album/7J7redEXgOUEsUBXukhkUF) | 5:19 |
-| 25 | [Get Busy With It](https://open.spotify.com/track/0BBgVqwEyC8gUPeAPwa7lj) | [Conducta](https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn), [Novelist](https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc) | [Get Busy With It](https://open.spotify.com/album/3VzCxoStC9s1XH2CtPqH10) | 3:06 |
+| 25 | [Get Busy With It \(feat\. Novelist\)](https://open.spotify.com/track/0BBgVqwEyC8gUPeAPwa7lj) | [Conducta](https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn), [Novelist](https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc) | [Get Busy With It \(feat\. Novelist\)](https://open.spotify.com/album/3VzCxoStC9s1XH2CtPqH10) | 3:06 |
 | 26 | [Is U](https://open.spotify.com/track/4Z3RGx7Be5plLoIw7i83wX) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Is U](https://open.spotify.com/album/4jO5B8uUoYusn8Yb8iSoVo) | 3:48 |
 | 27 | [Madres](https://open.spotify.com/track/3oZOhcGFBx5AdxDmpp209k) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Madres](https://open.spotify.com/album/72c0drLnTHGgihMXP0TXU5) | 3:56 |
 | 28 | [Wildfire \(Eartheater Remix\)](https://open.spotify.com/track/2kKgy9pifqkA82JZYO9Cvn) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Nymph\_o](https://open.spotify.com/album/28MZKxXQKX89mr1Y9g9d3k) | 2:58 |

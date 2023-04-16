@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 
 > Hip Hop and Rap songs guaranteed to get you hyped\. Cover: Odumodublvck
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,186 likes - 60 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,230 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,10 +58,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 | 48 | [In Da Car](https://open.spotify.com/track/3UOg91DTKgZuWsYsV1Zn13) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV) | [In Da Car](https://open.spotify.com/album/1DvFMj5C6pMKt0pebSlWhv) | 4:18 |
 | 49 | [Holy F4k](https://open.spotify.com/track/7eWoPZVIC0RzgFghNDrLbQ) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Ivorian Doll](https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Connecting the Dots](https://open.spotify.com/album/1q6SQV8J22Is1SsgKAh4eJ) | 3:15 |
 | 50 | [Vigilante Bop](https://open.spotify.com/track/4IschypVu1Oz4FS8Gg7y0u) | [Alpha Ojini](https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Vigilante Bop](https://open.spotify.com/album/62wsAbVkM8OxT2tJ9hIkiG) | 3:00 |
-| 51 | [The Views](https://open.spotify.com/track/5XE6dTAtEqrHp0NRCjuPui) | [Lucasraps](https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [031 To The World 2.0](https://open.spotify.com/album/1rFKpOUsG1tWjGyHgYp3rH) | 3:06 |
-| 52 | [Come & Go \- Black Sherif Remix](https://open.spotify.com/track/6LVGUOLhw6b9gayQvQvaqh) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Come & Go \(Black Sherif Remix\)](https://open.spotify.com/album/5fA5w0SjzUnAEaorPRLsht) | 2:59 |
+| 51 | [Oh Ma Linda](https://open.spotify.com/track/0pUe1jK12D7nGf47QfEPK6) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Oh Ma Linda](https://open.spotify.com/album/7lsm82NrdAoXBWoOEucvMg) | 2:56 |
+| 52 | [The Views](https://open.spotify.com/track/5XE6dTAtEqrHp0NRCjuPui) | [Lucasraps](https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [031 To The World 2.0](https://open.spotify.com/album/1rFKpOUsG1tWjGyHgYp3rH) | 3:06 |
 | 53 | [Fela In Versace](https://open.spotify.com/track/4VmIqdbPsBUMAxCf2nnLD3) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX) | [Touch My Blood](https://open.spotify.com/album/1cCpD6ImDJDP1nrsZVhV7O) | 5:28 |
-| 54 | [Oh Ma Linda](https://open.spotify.com/track/0pUe1jK12D7nGf47QfEPK6) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Oh Ma Linda](https://open.spotify.com/album/7lsm82NrdAoXBWoOEucvMg) | 2:56 |
+| 54 | [Come & Go \- Black Sherif Remix](https://open.spotify.com/track/6LVGUOLhw6b9gayQvQvaqh) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Come & Go \(Black Sherif Remix\)](https://open.spotify.com/album/5fA5w0SjzUnAEaorPRLsht) | 2:59 |
 | 55 | [Born To Win](https://open.spotify.com/track/05xkxPqRIiCuhXP3wSn8Zn) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr) | [Ivyson Army Tour Mixtape](https://open.spotify.com/album/1aVDTp3dj2thrSRcXyTVlA) | 2:58 |
 | 56 | [PARA](https://open.spotify.com/track/5O1GLRH88wNbCzLYKFwHK3) | [Kid MARLEY](https://open.spotify.com/artist/2WwYHrjL0qClKU9T7JXwjg), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [PARA](https://open.spotify.com/album/5lIW4ZVGLazp4s7E43EPuc) | 2:58 |
 | 57 | [Headliner](https://open.spotify.com/track/5yX1jR8VbEygSGnY7dXPBq) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Headliner](https://open.spotify.com/album/6AAVCyWUzc7rcna0kXmmaf) | 3:27 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 | 59 | [Pain Interlude](https://open.spotify.com/track/4X78TxqQ8EQXgEQDrWdSwS) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Pain Interlude](https://open.spotify.com/album/18X1EAzl8kyfkixl0avnAx) | 2:41 |
 | 60 | [Boujee](https://open.spotify.com/track/3UgVuTqgQTO8u3m9Zuqotq) | [Keeya Keys](https://open.spotify.com/artist/61HaePhaH2YbG9Rd5zXbL6), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [Boujee](https://open.spotify.com/album/7sjFxdJ9g5uPLNCxwfO2Sk) | 3:27 |
 
-Snapshot ID: `MTY4MTQ3NzY4NSwwMDAwMDAwMGE0ZjFmYWNlMDM0Y2M5MWUyODZkYzIyNjYwODA5NTYx`
+Snapshot ID: `MTY4MTQ3NzY4NSwwMDAwMDAwMDczZjYwMWVjYzk5OGQxMGRhNmI0MTRjZjcyMjI0OGIw`

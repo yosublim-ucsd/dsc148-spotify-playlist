@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1980s.",
-  "num_followers": 658341,
+  "num_followers": 659114,
   "original_name": "Soft 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODM0ODAzOCwwMDAwMDAwMDdkYjNmYmUwYzc3Njk1YTNjNmExMjY0YjRiZGZmMTg1",
+  "snapshot_id": "MTY3ODM0ODAzOCwwMDAwMDAwMDZiMWU3OThmYTZkNDFhODE5ZGQzNTc0YTlkOGI3MzYw",
   "tracks": [
     {
       "added_at": "2023-01-24 23:00:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Into The Light",
-        "url": "https://open.spotify.com/album/5Yi08NDFoVAnvHoXqpp9O5"
-      },
-      "artists": [
-        {
-          "name": "Chris de Burgh",
-          "url": "https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U"
-        }
-      ],
-      "duration_ms": 256173,
-      "name": "The Lady In Red",
-      "url": "https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Repeat Offender",
         "url": "https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 264333,
       "name": "Right Here Waiting",
       "url": "https://open.spotify.com/track/4LFwNJWoj74Yd71fIr1W8x"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Into The Light",
+        "url": "https://open.spotify.com/album/5Yi08NDFoVAnvHoXqpp9O5"
+      },
+      "artists": [
+        {
+          "name": "Chris de Burgh",
+          "url": "https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U"
+        }
+      ],
+      "duration_ms": 256173,
+      "name": "The Lady In Red",
+      "url": "https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Wheels Are Turnin'",
-        "url": "https://open.spotify.com/album/35KafpmKh0nDLzBLV75MpR"
-      },
-      "artists": [
-        {
-          "name": "REO Speedwagon",
-          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
-        }
-      ],
-      "duration_ms": 294773,
-      "name": "Can't Fight This Feeling",
-      "url": "https://open.spotify.com/track/5WwqdeavrQrbeAMDxGawse"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Forever Young",
         "url": "https://open.spotify.com/album/2256qKBSQdt53T5dz4Kdcs"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 226706,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/4S1VYqwfkLit9mKVY3MXoo"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Wheels Are Turnin'",
+        "url": "https://open.spotify.com/album/35KafpmKh0nDLzBLV75MpR"
+      },
+      "artists": [
+        {
+          "name": "REO Speedwagon",
+          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
+        }
+      ],
+      "duration_ms": 294773,
+      "name": "Can't Fight This Feeling",
+      "url": "https://open.spotify.com/track/5WwqdeavrQrbeAMDxGawse"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -655,18 +655,18 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Words",
-        "url": "https://open.spotify.com/album/3FCGXFULVQiKJkFvo6hMFo"
+        "name": "Midnight Love",
+        "url": "https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm"
       },
       "artists": [
         {
-          "name": "F.R. David",
-          "url": "https://open.spotify.com/artist/6GnCucI2uDaYj1j39GFxkn"
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
         }
       ],
-      "duration_ms": 209013,
-      "name": "Words - Original Version 1983",
-      "url": "https://open.spotify.com/track/1HPJOoIVdUPuaebxzMrVaD"
+      "duration_ms": 238600,
+      "name": "Sexual Healing",
+      "url": "https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -687,18 +687,18 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Midnight Love",
-        "url": "https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm"
+        "name": "Words",
+        "url": "https://open.spotify.com/album/3FCGXFULVQiKJkFvo6hMFo"
       },
       "artists": [
         {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+          "name": "F.R. David",
+          "url": "https://open.spotify.com/artist/6GnCucI2uDaYj1j39GFxkn"
         }
       ],
-      "duration_ms": 238600,
-      "name": "Sexual Healing",
-      "url": "https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED"
+      "duration_ms": 209013,
+      "name": "Words - Original Version 1983",
+      "url": "https://open.spotify.com/track/1HPJOoIVdUPuaebxzMrVaD"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Winelight",
-        "url": "https://open.spotify.com/album/50gtvo0hufJj06ipbOjAiU"
-      },
-      "artists": [
-        {
-          "name": "Grover Washington, Jr.",
-          "url": "https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1"
-        }
-      ],
-      "duration_ms": 443773,
-      "name": "Just the Two of Us",
-      "url": "https://open.spotify.com/track/5fdNHVZHbWB1AaXk4RBGVD"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Hysteria",
         "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 343933,
       "name": "Broken Wings",
       "url": "https://open.spotify.com/track/78FHUZRbFDCG6VkRAQdFLm"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Winelight",
+        "url": "https://open.spotify.com/album/50gtvo0hufJj06ipbOjAiU"
+      },
+      "artists": [
+        {
+          "name": "Grover Washington, Jr.",
+          "url": "https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1"
+        }
+      ],
+      "duration_ms": 443773,
+      "name": "Just the Two of Us",
+      "url": "https://open.spotify.com/track/5fdNHVZHbWB1AaXk4RBGVD"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Once Upon A Time (Super Deluxe)",
-        "url": "https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm"
-      },
-      "artists": [
-        {
-          "name": "Simple Minds",
-          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
-        }
-      ],
-      "duration_ms": 289453,
-      "name": "Alive And Kicking",
-      "url": "https://open.spotify.com/track/2x5IXUFOcvvBUtEpnCBNlp"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Dirty Dancing (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 232906,
       "name": "She's Like the Wind (feat. Wendy Fraser) - From \"Dirty Dancing\" Soundtrack",
       "url": "https://open.spotify.com/track/7BdXRaSlGAzhySfuW3y8h5"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Once Upon A Time (Super Deluxe)",
+        "url": "https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm"
+      },
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        }
+      ],
+      "duration_ms": 289453,
+      "name": "Alive And Kicking",
+      "url": "https://open.spotify.com/track/2x5IXUFOcvvBUtEpnCBNlp"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
+        "name": "Kissing To Be Clever",
+        "url": "https://open.spotify.com/album/4y1hBzoffx9DaGXbObeC2w"
+      },
+      "artists": [
+        {
+          "name": "Culture Club",
+          "url": "https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc"
+        }
+      ],
+      "duration_ms": 262173,
+      "name": "Do You Really Want To Hurt Me",
+      "url": "https://open.spotify.com/track/1I6q6nwNjNgik1Qe8Oi0Y7"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
         "name": "Guilty",
         "url": "https://open.spotify.com/album/5mMebbufullX8FIhpCxwCt"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 211973,
       "name": "Don't Know Much (with Aaron Neville)",
       "url": "https://open.spotify.com/track/5z3ZDMP02xF33yCvPFnct3"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "Kissing To Be Clever",
-        "url": "https://open.spotify.com/album/4y1hBzoffx9DaGXbObeC2w"
-      },
-      "artists": [
-        {
-          "name": "Culture Club",
-          "url": "https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc"
-        }
-      ],
-      "duration_ms": 262173,
-      "name": "Do You Really Want To Hurt Me",
-      "url": "https://open.spotify.com/track/1I6q6nwNjNgik1Qe8Oi0Y7"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Beautiful Boy (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4rbWJkt4gXZI2UYvpNR0mD"
-      },
-      "artists": [
-        {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
-        }
-      ],
-      "duration_ms": 242044,
-      "name": "Beautiful Boy (Darling Boy) - 2010 Remastered",
-      "url": "https://open.spotify.com/track/5GMQdzgtI7vtpmtps2YiYx"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "...Nothing Like The Sun",
         "url": "https://open.spotify.com/album/3mVCQqgwEvwD7lHy9KHi7R"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 236306,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/5oE6INocVL9viDow5y8QNM"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Beautiful Boy (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4rbWJkt4gXZI2UYvpNR0mD"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "duration_ms": 242044,
+      "name": "Beautiful Boy (Darling Boy) - 2010 Remastered",
+      "url": "https://open.spotify.com/track/5GMQdzgtI7vtpmtps2YiYx"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "New Edition",
-        "url": "https://open.spotify.com/album/68moCweQx7EoMvHdZ6HzDc"
-      },
-      "artists": [
-        {
-          "name": "New Edition",
-          "url": "https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb"
-        }
-      ],
-      "duration_ms": 239160,
-      "name": "Mr. Telephone Man",
-      "url": "https://open.spotify.com/track/4DiNls6kFmF1ZittKsPsTc"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Heart",
         "url": "https://open.spotify.com/album/0zM8rTVzPoT7SD4ZMds430"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 254476,
       "name": "These Dreams",
       "url": "https://open.spotify.com/track/22wWxHGHRH8gZXNDXRgSqY"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "New Edition",
+        "url": "https://open.spotify.com/album/68moCweQx7EoMvHdZ6HzDc"
+      },
+      "artists": [
+        {
+          "name": "New Edition",
+          "url": "https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb"
+        }
+      ],
+      "duration_ms": 239160,
+      "name": "Mr. Telephone Man",
+      "url": "https://open.spotify.com/track/4DiNls6kFmF1ZittKsPsTc"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Good To Be Back",
-        "url": "https://open.spotify.com/album/0mqBJAuGoE3RpiK8cxjnvg"
-      },
-      "artists": [
-        {
-          "name": "Natalie Cole",
-          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
-        }
-      ],
-      "duration_ms": 234280,
-      "name": "Miss You Like Crazy",
-      "url": "https://open.spotify.com/track/6d1IYeSfyqOTW61rPgocGD"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Human Racing",
         "url": "https://open.spotify.com/album/5cl4eOKYrrX0pcFFnEieYR"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 277053,
       "name": "Wouldn't It Be Good",
       "url": "https://open.spotify.com/track/00FDHurakzVEiPutdUxXXq"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Good To Be Back",
+        "url": "https://open.spotify.com/album/0mqBJAuGoE3RpiK8cxjnvg"
+      },
+      "artists": [
+        {
+          "name": "Natalie Cole",
+          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+        }
+      ],
+      "duration_ms": 234280,
+      "name": "Miss You Like Crazy",
+      "url": "https://open.spotify.com/track/6d1IYeSfyqOTW61rPgocGD"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Winner In You",
-        "url": "https://open.spotify.com/album/5wESpjGUZ1QKY2DziNM5fN"
-      },
-      "artists": [
-        {
-          "name": "Patti LaBelle",
-          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
-        }
-      ],
-      "duration_ms": 290840,
-      "name": "On My Own",
-      "url": "https://open.spotify.com/track/5HrVgmO1govSOrPUehW1VV"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Jeffrey Osborne",
         "url": "https://open.spotify.com/album/0Z4d4VItwYl3FavOak829u"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 241760,
       "name": "On The Wings Of Love",
       "url": "https://open.spotify.com/track/6AEdWbrFREOUNmI1hMPbyc"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Winner In You",
+        "url": "https://open.spotify.com/album/5wESpjGUZ1QKY2DziNM5fN"
+      },
+      "artists": [
+        {
+          "name": "Patti LaBelle",
+          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
+        }
+      ],
+      "duration_ms": 290840,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/5HrVgmO1govSOrPUehW1VV"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Misplaced Childhood (2017 Remaster)",
-        "url": "https://open.spotify.com/album/3ExyKxlUkqD41I8tQumMDF"
-      },
-      "artists": [
-        {
-          "name": "Marillion",
-          "url": "https://open.spotify.com/artist/7ai5TWiOG8g9Hds5AATS28"
-        }
-      ],
-      "duration_ms": 243560,
-      "name": "Kayleigh - 2017 Remaster",
-      "url": "https://open.spotify.com/track/0r5Ju8WyodpXBHmg3f4zYf"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 336666,
       "name": "Father Figure - Remastered",
       "url": "https://open.spotify.com/track/0L0T4tMAaGqLgIVj1MOj9t"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Misplaced Childhood (2017 Remaster)",
+        "url": "https://open.spotify.com/album/3ExyKxlUkqD41I8tQumMDF"
+      },
+      "artists": [
+        {
+          "name": "Marillion",
+          "url": "https://open.spotify.com/artist/7ai5TWiOG8g9Hds5AATS28"
+        }
+      ],
+      "duration_ms": 243560,
+      "name": "Kayleigh - 2017 Remaster",
+      "url": "https://open.spotify.com/track/0r5Ju8WyodpXBHmg3f4zYf"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1991,6 +1991,22 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
+        "name": "The Immaculate Collection",
+        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 225626,
+      "name": "Crazy for You - Edit",
+      "url": "https://open.spotify.com/track/6G7PVlifniapyhDCmWS2VM"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
         "name": "Share Your Love",
         "url": "https://open.spotify.com/album/0RlTMOUZMLq2Tmj6K9NgX6"
       },
@@ -2035,22 +2051,6 @@
       "duration_ms": 200506,
       "name": "Truly",
       "url": "https://open.spotify.com/track/7AslBsiVLQAGrmFmi79ZeK"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "The Immaculate Collection",
-        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 225626,
-      "name": "Crazy for You - Edit",
-      "url": "https://open.spotify.com/track/6G7PVlifniapyhDCmWS2VM"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2143,18 +2143,18 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Now We May Begin",
-        "url": "https://open.spotify.com/album/1nC1gaO03Yk2lnbRZAN3KG"
+        "name": "Can't Slow Down",
+        "url": "https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr"
       },
       "artists": [
         {
-          "name": "Randy Crawford",
-          "url": "https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz"
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
         }
       ],
-      "duration_ms": 302653,
-      "name": "One Day I'll Fly Away",
-      "url": "https://open.spotify.com/track/0J8A1ZVyJcRZxFNvtp6jRh"
+      "duration_ms": 195133,
+      "name": "Stuck On You",
+      "url": "https://open.spotify.com/track/0ROwoz82DIW4tOzkxYnSjf"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2175,34 +2175,18 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Martika (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2qoLTSXxsdiHpuoPWrpJiy"
+        "name": "Now We May Begin",
+        "url": "https://open.spotify.com/album/1nC1gaO03Yk2lnbRZAN3KG"
       },
       "artists": [
         {
-          "name": "Martika",
-          "url": "https://open.spotify.com/artist/40enFxfEXXsEXKOt1vgx0k"
+          "name": "Randy Crawford",
+          "url": "https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz"
         }
       ],
-      "duration_ms": 287600,
-      "name": "Toy Soldiers",
-      "url": "https://open.spotify.com/track/4jh9olf0OKCokpzxSyLeJx"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "Can't Slow Down",
-        "url": "https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 195133,
-      "name": "Stuck On You",
-      "url": "https://open.spotify.com/track/0ROwoz82DIW4tOzkxYnSjf"
+      "duration_ms": 302653,
+      "name": "One Day I'll Fly Away",
+      "url": "https://open.spotify.com/track/0J8A1ZVyJcRZxFNvtp6jRh"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2219,6 +2203,22 @@
       "duration_ms": 251853,
       "name": "Don't Answer Me",
       "url": "https://open.spotify.com/track/3IeVrRu0jOlwOkTwD9AykT"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Martika (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2qoLTSXxsdiHpuoPWrpJiy"
+      },
+      "artists": [
+        {
+          "name": "Martika",
+          "url": "https://open.spotify.com/artist/40enFxfEXXsEXKOt1vgx0k"
+        }
+      ],
+      "duration_ms": 287600,
+      "name": "Toy Soldiers",
+      "url": "https://open.spotify.com/track/4jh9olf0OKCokpzxSyLeJx"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2451,18 +2451,18 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "The End Of The Innocence",
-        "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
+        "name": "Juice",
+        "url": "https://open.spotify.com/album/13TOuCZy3QU2Tt1llKPUqc"
       },
       "artists": [
         {
-          "name": "Don Henley",
-          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+          "name": "Juice Newton",
+          "url": "https://open.spotify.com/artist/4L1z1IcfK7lbqx8izGHaw5"
         }
       ],
-      "duration_ms": 395400,
-      "name": "New York Minute",
-      "url": "https://open.spotify.com/track/2jxqu3v4AZAhUNvdAbDGet"
+      "duration_ms": 250440,
+      "name": "Angel Of The Morning",
+      "url": "https://open.spotify.com/track/11y8GSP2ASv8S9n0FiiDva"
     }
   ],
   "unique_name": "Soft 80s",

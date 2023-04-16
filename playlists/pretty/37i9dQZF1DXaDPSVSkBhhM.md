@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDPSVSkBhhM.md) - [plain]
 
 > ¡Pop\-punk por siempre!
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,022 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,046 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDPSVSkBhhM.md) - [plain]
 | 45 | [Clavo](https://open.spotify.com/track/3fvmFvl8r3zfEMQq2GVJbv) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9), [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [Clavo](https://open.spotify.com/album/79vicj0AVbnJn1SUSmLj11) | 2:50 |
 | 46 | [Lavántula](https://open.spotify.com/track/3rq5FTMGVA3ha3k6dCX2oh) | [Barney Gombo](https://open.spotify.com/artist/2I5AFH9BrfRnnNTg8VAeBc) | [III·I](https://open.spotify.com/album/4kyOrsBqe1yio6Gq8XYz3r) | 3:11 |
 | 47 | [No Hay Final Feliz](https://open.spotify.com/track/4DA6ycFahIk2BekxtAnS8r) | [Cuatro y Medio](https://open.spotify.com/artist/6wJwB1zPYk6mASfPxua8qC) | [No Hay Final Feliz](https://open.spotify.com/album/5C2ctVj0v0BVGc3D7ELsea) | 3:38 |
-| 48 | [Saoko \(Post\-Punk\)](https://open.spotify.com/track/1QcoAZN9XMAZQT2aeQqII0) | [Isaac De los Santos](https://open.spotify.com/artist/24jCcaU83zKxUs7BJylznZ) | [Saoko \(Post\-Punk\)](https://open.spotify.com/album/4Fmaxtk2DZgoQRZG3c8jn5) | 3:00 |
-| 49 | [No Digas Lo Siento](https://open.spotify.com/track/3e2W5jHkrLTzTOaL8Eqx52) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [No Digas Lo Siento](https://open.spotify.com/album/1c6ugiEfTV9lVRWIx93wW7) | 2:51 |
+| 48 | [No Digas Lo Siento](https://open.spotify.com/track/3e2W5jHkrLTzTOaL8Eqx52) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [No Digas Lo Siento](https://open.spotify.com/album/1c6ugiEfTV9lVRWIx93wW7) | 2:51 |
+| 49 | [Saoko \(Post\-Punk\)](https://open.spotify.com/track/1QcoAZN9XMAZQT2aeQqII0) | [Isaac De los Santos](https://open.spotify.com/artist/24jCcaU83zKxUs7BJylznZ) | [Saoko \(Post\-Punk\)](https://open.spotify.com/album/4Fmaxtk2DZgoQRZG3c8jn5) | 3:00 |
 | 50 | [Escribe Una Canción](https://open.spotify.com/track/4Yrn59SQBNUiWywYLERLw2) | [DON](https://open.spotify.com/artist/4xRGF3S9AgY23sWuzKlUDR) | [Siempre Resistir / Nunca Desistir](https://open.spotify.com/album/05oaSmUNyPQMVeNgvfn8uS) | 3:54 |
 
-Snapshot ID: `MTY4MTQ1MjAwMCwwMDAwMDAwMGM5MWU4ZGE3ZDRhYTAxNTEwZmU1YTYxMzk4NzBjODM0`
+Snapshot ID: `MTY4MTQ1MjAwMCwwMDAwMDAwMDY5ZWNmNDU0YjNmNTE0OGQ3ZmZiNTdhZThhYzJiZDZi`

@@ -1244,7 +1244,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 267500,
       "name": "Call My Name",
       "url": "https://open.spotify.com/track/3FkMke69v3NF3oufwhMygY"
@@ -7952,6 +7952,32 @@
       "duration_ms": 317940,
       "name": "The Crown and the Ring",
       "url": "https://open.spotify.com/track/1HtsvQYdss4JESyNjLwK0N"
+    },
+    {
+      "album": {
+        "name": "The Endless Shore",
+        "url": "https://open.spotify.com/album/7KnfUdPa3pZ37r3GQe6yz7"
+      },
+      "artists": [
+        {
+          "name": "Mortemia",
+          "url": "https://open.spotify.com/artist/5RUUgjv8Q0H2osxIC3AYBi"
+        },
+        {
+          "name": "Ulli Perhonen",
+          "url": "https://open.spotify.com/artist/5sVlAjN68bza0JFzEbagzH"
+        },
+        {
+          "name": "Nils Courbaron",
+          "url": "https://open.spotify.com/artist/5TXDrJYFMZU5x7DqNnJcR4"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298124,
+      "name": "The Endless Shore",
+      "url": "https://open.spotify.com/track/1MmecgkGmAS0dpJtF0k4Is"
     },
     {
       "album": {

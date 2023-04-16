@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-635 songs - 1 day 23 hr 18 min
+636 songs - 1 day 23 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -450,7 +450,7 @@
 | [Pristine](https://open.spotify.com/track/4wZIBxMTZYbSGzWEAqIwKF) | [Willowdale](https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF) | [Pristine](https://open.spotify.com/album/315gZl71MLwJo5GwBXgudJ) | 3:56 | 2022-10-13 |  |
 | [Questar](https://open.spotify.com/track/1ChYuSIoOFDVY6fHSXF6zS) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Jan Garbarek](https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym), [Palle Danielsson](https://open.spotify.com/artist/7CyW7K2UrpjUNLVV698wvJ), [Jon Christensen](https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr) | [My Song](https://open.spotify.com/album/6ID17PzjagQlFsc1KFha5v) | 9:10 | 2022-04-14 | 2022-10-08 |
 | [Quiet Sunset](https://open.spotify.com/track/2bjt3Gki4hIwX9EIrSuYQA) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Beautiful Sunrise](https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH) | 5:27 | 2023-03-02 |  |
-| [Quiet Weather](https://open.spotify.com/track/2raVP5fT4ktKJ6LwSEdzaJ) | [Ikigai](https://open.spotify.com/artist/0bNWgPLuFJzQ3IXoDfydPv) | [Quiet Weather](https://open.spotify.com/album/2ydysgBFmevCyXKqBEjImP) | 4:22 | 2022-12-22 |  |
+| [Quiet Weather](https://open.spotify.com/track/2raVP5fT4ktKJ6LwSEdzaJ) | [Ikigai](https://open.spotify.com/artist/0bNWgPLuFJzQ3IXoDfydPv) | [Quiet Weather](https://open.spotify.com/album/2ydysgBFmevCyXKqBEjImP) | 4:22 | 2022-12-22 | 2023-04-16 |
 | [Ragged Tux](https://open.spotify.com/track/3Xuy3E7OQ12IISyO4cm1lA) | [Corin Stannard Trio](https://open.spotify.com/artist/30BYi8bW3I7MwFXrqHdiun) | [Ragged Tux](https://open.spotify.com/album/6XeDlzhAOmYtAwuuTDqNI8) | 3:00 | 2023-03-09 |  |
 | [Refuge](https://open.spotify.com/track/4IYvcGknkyjnKcMHoEfrPi) | [Mammal Hands](https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1) | [Becoming](https://open.spotify.com/album/5w50XdqFePL9GDng7ZhQIh) | 3:41 | 2022-04-14 | 2022-07-29 |
 | [Refuge](https://open.spotify.com/track/72X5bmQUJ9bCDDFqFszNy2) | [Mammal Hands](https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1) | [Becoming](https://open.spotify.com/album/7HGwyBH3MDWbWjzlQfdti0) | 3:41 | 2022-06-30 | 2022-09-23 |
@@ -501,6 +501,7 @@
 | [Sous Le Ciel De Paris](https://open.spotify.com/track/45co7gWEhnZevNaWbPlW3W) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr) | [Smile](https://open.spotify.com/album/5z1LcLw1QCXDjtMy9WYT1p) | 4:05 | 2022-06-30 | 2022-10-08 |
 | [Spring Can Really Hang You Up The Most](https://open.spotify.com/track/1Rx7TVIX8t9pZFJdLq0vvY) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Uptown, Downtown](https://open.spotify.com/album/5sLAAuNixDNK7b91imiLfM) | 7:54 | 2022-04-14 |  |
 | [Spring Can Really Hang You Up The Most](https://open.spotify.com/track/6EKISMrXCzFNA9UaMtr0he) | [Mayfare Trio](https://open.spotify.com/artist/3tUSGipRrxvpmZgUc13rd4) | [Spring Can Really Hang You Up The Most](https://open.spotify.com/album/2uAMOafxy5xI71sbAWLm9V) | 4:22 | 2022-06-28 |  |
+| [Spring Is Here](https://open.spotify.com/track/6gOncymNzM5SZFqh1QrOdM) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [Spring Is Here](https://open.spotify.com/album/3pQ4SofVIJ7a2iqbINDxlV) | 2:46 | 2023-04-14 |  |
 | [St\. Thomas](https://open.spotify.com/track/5Kwd8HB9VQ12yFSu0dM4Yi) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [The Essential Sonny Rollins: The RCA Years](https://open.spotify.com/album/3R5sCFT6kTHnjbNuPCC7ud) | 3:55 | 2022-04-14 | 2022-04-27 |
 | [Star Brite](https://open.spotify.com/track/3YShkRiHcZuKwJ6uGccRUi) | [Duke Jordan](https://open.spotify.com/artist/27Zmfr3VpJSgOf8iyWiZzM) | [Lucky Days](https://open.spotify.com/album/5fSnbht7o253NiowMtRcnM) | 7:48 | 2022-08-29 | 2022-09-21 |
 | [Star Brite](https://open.spotify.com/track/59LTHdhW1H688shHvcdub5) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [We Speak](https://open.spotify.com/album/1RrmjBtMxrCfhcRuoWXmS6) | 7:48 | 2022-04-14 | 2022-07-29 |

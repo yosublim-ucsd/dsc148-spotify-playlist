@@ -1,12 +1,12 @@
 {
   "description": "The classic Jazz guitarists and their finest pieces. Cover: Grant Green",
-  "num_followers": 62174,
+  "num_followers": 62253,
   "original_name": "Jazz Guitar Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTM5NDE3MywwMDAwMDAwMGI2ZWMyMDk2YzE4OWZhZjkyMDUwOTI2MDUwYjcyZmM1",
+  "snapshot_id": "MTY4MTM5NDE3MywwMDAwMDAwMDgyODU4N2YyOTIyNDRkODI5ZTFmMTliYTg0YTFjNzAw",
   "tracks": [
     {
       "added_at": "2023-03-23 11:01:54",
@@ -307,6 +307,22 @@
     {
       "added_at": "2023-03-23 11:01:54",
       "album": {
+        "name": "Solo Guitar",
+        "url": "https://open.spotify.com/album/7fSp1R10Hsbtcfa3tvRdDX"
+      },
+      "artists": [
+        {
+          "name": "Ted Greene",
+          "url": "https://open.spotify.com/artist/5GPOtnbe7RBHBUur5OzpO3"
+        }
+      ],
+      "duration_ms": 299880,
+      "name": "Send In The Clowns",
+      "url": "https://open.spotify.com/track/6Raz653SzfvRokSgYg9yxY"
+    },
+    {
+      "added_at": "2023-03-23 11:01:54",
+      "album": {
         "name": "Angular Blues",
         "url": "https://open.spotify.com/album/4wxLJpGmJetMtZHslJz3DR"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 315493,
       "name": "H\u00fcttengriffe",
       "url": "https://open.spotify.com/track/15pJPbo0r00e82puUIUS1i"
-    },
-    {
-      "added_at": "2023-03-23 11:01:54",
-      "album": {
-        "name": "Solo Guitar",
-        "url": "https://open.spotify.com/album/7fSp1R10Hsbtcfa3tvRdDX"
-      },
-      "artists": [
-        {
-          "name": "Ted Greene",
-          "url": "https://open.spotify.com/artist/5GPOtnbe7RBHBUur5OzpO3"
-        }
-      ],
-      "duration_ms": 299880,
-      "name": "Send In The Clowns",
-      "url": "https://open.spotify.com/track/6Raz653SzfvRokSgYg9yxY"
     },
     {
       "added_at": "2023-03-23 11:01:54",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-03-23 11:01:54",
       "album": {
-        "name": "Burnin'",
-        "url": "https://open.spotify.com/album/0mF2ClZgcgBlyibysq4B5K"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Bruno",
-          "url": "https://open.spotify.com/artist/1oTIG44ppYw0nUBqFvZ5Q5"
-        }
-      ],
-      "duration_ms": 492400,
-      "name": "Moonlight In Vermont",
-      "url": "https://open.spotify.com/track/73CYjb6oGhV4CqohyR2OVV"
-    },
-    {
-      "added_at": "2023-03-23 11:01:54",
-      "album": {
         "name": "The Artistry Of Tal Farlow",
         "url": "https://open.spotify.com/album/3DhbpcnuskeHWkCzWAM9cO"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 347413,
       "name": "Shape Of Things That Are And Were",
       "url": "https://open.spotify.com/track/62AZ6ukR1dxo5F2sbfFQ1L"
+    },
+    {
+      "added_at": "2023-03-23 11:01:54",
+      "album": {
+        "name": "Burnin'",
+        "url": "https://open.spotify.com/album/0mF2ClZgcgBlyibysq4B5K"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Bruno",
+          "url": "https://open.spotify.com/artist/1oTIG44ppYw0nUBqFvZ5Q5"
+        }
+      ],
+      "duration_ms": 492400,
+      "name": "Moonlight In Vermont",
+      "url": "https://open.spotify.com/track/73CYjb6oGhV4CqohyR2OVV"
     },
     {
       "added_at": "2023-03-23 11:01:54",
@@ -1431,42 +1431,6 @@
     {
       "added_at": "2023-03-23 11:01:54",
       "album": {
-        "name": "Time On My Hands",
-        "url": "https://open.spotify.com/album/204uhoOaWn4a1XK8RmJi92"
-      },
-      "artists": [
-        {
-          "name": "John Scofield",
-          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
-        }
-      ],
-      "duration_ms": 267800,
-      "name": "Let's Say We Did",
-      "url": "https://open.spotify.com/track/301YnLmQmSX7mURPKvWOy5"
-    },
-    {
-      "added_at": "2023-03-23 11:01:54",
-      "album": {
-        "name": "Free Flying",
-        "url": "https://open.spotify.com/album/1Qvqde6pj6KPoRnKxdOsvO"
-      },
-      "artists": [
-        {
-          "name": "Fred Hersch",
-          "url": "https://open.spotify.com/artist/7w7DFqQNjVMW5NRvjM8JPx"
-        },
-        {
-          "name": "Julian Lage",
-          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
-        }
-      ],
-      "duration_ms": 384413,
-      "name": "Monk's Dream",
-      "url": "https://open.spotify.com/track/6CeJnR7HphMYbazmHYZEtA"
-    },
-    {
-      "added_at": "2023-03-23 11:01:54",
-      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/0nI82CyOhfSVAlElZlAUXW"
       },
@@ -1491,6 +1455,22 @@
     {
       "added_at": "2023-03-23 11:01:54",
       "album": {
+        "name": "Time On My Hands",
+        "url": "https://open.spotify.com/album/204uhoOaWn4a1XK8RmJi92"
+      },
+      "artists": [
+        {
+          "name": "John Scofield",
+          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
+        }
+      ],
+      "duration_ms": 267800,
+      "name": "Let's Say We Did",
+      "url": "https://open.spotify.com/track/301YnLmQmSX7mURPKvWOy5"
+    },
+    {
+      "added_at": "2023-03-23 11:01:54",
+      "album": {
         "name": "Heartcore",
         "url": "https://open.spotify.com/album/0zVWcCYxijtR8JcX5bBJfZ"
       },
@@ -1503,6 +1483,26 @@
       "duration_ms": 371200,
       "name": "Blue Line",
       "url": "https://open.spotify.com/track/3IsWXJIIp1Z9T22rVDLLgk"
+    },
+    {
+      "added_at": "2023-03-23 11:01:54",
+      "album": {
+        "name": "Free Flying",
+        "url": "https://open.spotify.com/album/1Qvqde6pj6KPoRnKxdOsvO"
+      },
+      "artists": [
+        {
+          "name": "Fred Hersch",
+          "url": "https://open.spotify.com/artist/7w7DFqQNjVMW5NRvjM8JPx"
+        },
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        }
+      ],
+      "duration_ms": 384413,
+      "name": "Monk's Dream",
+      "url": "https://open.spotify.com/track/6CeJnR7HphMYbazmHYZEtA"
     },
     {
       "added_at": "2023-03-23 11:01:54",
@@ -1603,30 +1603,6 @@
     {
       "added_at": "2023-03-23 11:01:54",
       "album": {
-        "name": "Idlewild",
-        "url": "https://open.spotify.com/album/1fyvwidfmrQQ1DGA3WKZqV"
-      },
-      "artists": [
-        {
-          "name": "Ben Street",
-          "url": "https://open.spotify.com/artist/649VhpjHo5aMtz2RlIlUSR"
-        },
-        {
-          "name": "Bill Stewart",
-          "url": "https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39"
-        },
-        {
-          "name": "Lage Lund",
-          "url": "https://open.spotify.com/artist/1QspC2BZg5TrVDc5eZ177E"
-        }
-      ],
-      "duration_ms": 448413,
-      "name": "Rumspringa",
-      "url": "https://open.spotify.com/track/05bdN80ISiWSlVcqpn5BLN"
-    },
-    {
-      "added_at": "2023-03-23 11:01:54",
-      "album": {
         "name": "Dialogues",
         "url": "https://open.spotify.com/album/7eUx5aXdd0dc8QLgYcEFCG"
       },
@@ -1671,6 +1647,22 @@
     {
       "added_at": "2023-03-23 11:01:54",
       "album": {
+        "name": "Deep Song",
+        "url": "https://open.spotify.com/album/61ABrp2sjUlG2QhJr0LaZ8"
+      },
+      "artists": [
+        {
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+        }
+      ],
+      "duration_ms": 502440,
+      "name": "Brooklyn Sometimes",
+      "url": "https://open.spotify.com/track/60AInuGWohJqz9VONqP8u2"
+    },
+    {
+      "added_at": "2023-03-23 11:01:54",
+      "album": {
         "name": "These Times",
         "url": "https://open.spotify.com/album/0b0yP9HN3TrKfZ7llb0LwR"
       },
@@ -1687,18 +1679,26 @@
     {
       "added_at": "2023-03-23 11:01:54",
       "album": {
-        "name": "Deep Song",
-        "url": "https://open.spotify.com/album/61ABrp2sjUlG2QhJr0LaZ8"
+        "name": "Idlewild",
+        "url": "https://open.spotify.com/album/1fyvwidfmrQQ1DGA3WKZqV"
       },
       "artists": [
         {
-          "name": "Kurt Rosenwinkel",
-          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+          "name": "Ben Street",
+          "url": "https://open.spotify.com/artist/649VhpjHo5aMtz2RlIlUSR"
+        },
+        {
+          "name": "Bill Stewart",
+          "url": "https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39"
+        },
+        {
+          "name": "Lage Lund",
+          "url": "https://open.spotify.com/artist/1QspC2BZg5TrVDc5eZ177E"
         }
       ],
-      "duration_ms": 502440,
-      "name": "Brooklyn Sometimes",
-      "url": "https://open.spotify.com/track/60AInuGWohJqz9VONqP8u2"
+      "duration_ms": 448413,
+      "name": "Rumspringa",
+      "url": "https://open.spotify.com/track/05bdN80ISiWSlVcqpn5BLN"
     },
     {
       "added_at": "2023-03-23 11:01:54",

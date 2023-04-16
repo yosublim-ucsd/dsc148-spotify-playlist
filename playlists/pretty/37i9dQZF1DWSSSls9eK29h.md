@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSSls9eK29h.md) - [plain]
 
 > So smooth, so classic\. Cover: George Benson
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,718 likes - 60 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,837 likes - 60 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,11 +26,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSSls9eK29h.md) - [plain]
 | 16 | [Betcha Don't Know](https://open.spotify.com/track/5gtNsD1eqLgfVKC9diMwgq) | [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Najee's Theme](https://open.spotify.com/album/2T1cuFZTdRwShl0ksdXT6a) | 5:49 |
 | 17 | [Doc](https://open.spotify.com/track/7MJBBBCfhjj716IaUq4HVG) | [Earl Klugh](https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY) | [Dream Come True](https://open.spotify.com/album/5aY7j8FtsBcTnD7G1vSGHt) | 4:46 |
 | 18 | [Smiles And Smiles To Go](https://open.spotify.com/track/3mbzzlkaNM3ur4nVHAr1dO) | [Larry Carlton](https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK) | [Alone / But Never Alone](https://open.spotify.com/album/5X5BHIsKnBpvIybs83eQ4j) | 5:47 |
-| 19 | [Bridge Through Time](https://open.spotify.com/track/3WmH2tJbogJcrVSrtdlMPO) | [Lonnie Liston Smith](https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK) | [Love Is The Answer \(Expanded\)](https://open.spotify.com/album/5tfEMJRMXkGeDAkg8tE6h8) | 4:01 |
-| 20 | [101 Eastbound](https://open.spotify.com/track/44bwIGyn4u4e1ydT4Zm1B1) | [Fourplay](https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS) | [Fourplay](https://open.spotify.com/album/6k3c57IxYJVjP2shJa3TXy) | 5:56 |
-| 21 | [Ascension](https://open.spotify.com/track/4qOSCREAKK2OnuDqzyTMzr) | [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [For You](https://open.spotify.com/album/6DnOL6zVqcQh1iJQiH1KhQ) | 5:14 |
+| 19 | [101 Eastbound](https://open.spotify.com/track/44bwIGyn4u4e1ydT4Zm1B1) | [Fourplay](https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS) | [Fourplay](https://open.spotify.com/album/6k3c57IxYJVjP2shJa3TXy) | 5:56 |
+| 20 | [Bridge Through Time](https://open.spotify.com/track/3WmH2tJbogJcrVSrtdlMPO) | [Lonnie Liston Smith](https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK) | [Love Is The Answer \(Expanded\)](https://open.spotify.com/album/5tfEMJRMXkGeDAkg8tE6h8) | 4:01 |
+| 21 | [Nightfall](https://open.spotify.com/track/7fKo8Bl3VEm87tc70jx05r) | [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ) | [Full Stride](https://open.spotify.com/album/30r0DoPQxBqIz3RBoxpcSj) | 4:20 |
 | 22 | [Day By Day](https://open.spotify.com/track/6wunt9r2WbTh0pacCFkSrK) | [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Day By Day](https://open.spotify.com/album/64WYFNY33qxTidADO4omGA) | 5:04 |
-| 23 | [Nightfall](https://open.spotify.com/track/7fKo8Bl3VEm87tc70jx05r) | [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ) | [Full Stride](https://open.spotify.com/album/30r0DoPQxBqIz3RBoxpcSj) | 4:20 |
+| 23 | [Ascension](https://open.spotify.com/track/4qOSCREAKK2OnuDqzyTMzr) | [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [For You](https://open.spotify.com/album/6DnOL6zVqcQh1iJQiH1KhQ) | 5:14 |
 | 24 | [So Amazing](https://open.spotify.com/track/6vRfKcVF63Chfd63VQyqhT) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [Just Between Us](https://open.spotify.com/album/6bwAkYAEZ8eA9rskEYtPoN) | 4:49 |
 | 25 | [South Of Market](https://open.spotify.com/track/1LQV8yTi8XZQt35bnGGfki) | [Joyce Cooling](https://open.spotify.com/artist/44GiVGTGkzAmI1OGZcypec) | [Playing It Cool](https://open.spotify.com/album/6TnPdiqgfQYYXdwneTbLNQ) | 4:25 |
 | 26 | [Do You Feel What I'm Feeling?](https://open.spotify.com/track/4xb8Y0Zxg1nc2bo4Can9yv) | [Warren Hill](https://open.spotify.com/artist/3zayLOSNLcQFtRrufIbMdS) | [Truth](https://open.spotify.com/album/0yvNScghENCQibvnM0FiRT) | 5:14 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSSls9eK29h.md) - [plain]
 | 49 | [Let's Wait Awhile](https://open.spotify.com/track/0CDdIP9vgk3iSDH0bPGww5) | [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S) | [I Came To Play](https://open.spotify.com/album/3281OsYyVze2o5TBGczWBO) | 5:17 |
 | 50 | [You've Changed](https://open.spotify.com/track/4w1HnS1633fhFKlTirinC1) | [Andy Snitzer](https://open.spotify.com/artist/6FaR0vA7ulJTJ1a4BRlJt7) | [Ties That Bind](https://open.spotify.com/album/0zdK7TXke1dN1lbfGFR0cW) | 5:02 |
 | 51 | [Fly Away \(Thinking Of You\)](https://open.spotify.com/track/2Cvg3IXEWWMTYTvd8HqpaG) | [Gregg Karukas](https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V) | [Blue Touch](https://open.spotify.com/album/6oRxJn0ULf3TFGfqiFargV) | 3:50 |
-| 52 | [Groovin' In Philly](https://open.spotify.com/track/4EWxGABVBAMcchzJPToJQz) | [Gail Jhonson](https://open.spotify.com/artist/4cJqqVAJDLFbCEFQDSrwcc), [Cliff Brown](https://open.spotify.com/artist/4lv9tkwkueOXLq58XG9OLp) | [It's About Time](https://open.spotify.com/album/4PXy69gcb1qTwEMJL0HW1d) | 4:36 |
-| 53 | [Treasure Hunt](https://open.spotify.com/track/2hcMx8eNF3f2gi5B1oY6Eo) | [Dan Siegel](https://open.spotify.com/artist/0TknnwW9imlXjnjxfHcvFd) | [The Getaway](https://open.spotify.com/album/3Na83ECiryHeBsdF7kLdRU) | 5:08 |
+| 52 | [Treasure Hunt](https://open.spotify.com/track/2hcMx8eNF3f2gi5B1oY6Eo) | [Dan Siegel](https://open.spotify.com/artist/0TknnwW9imlXjnjxfHcvFd) | [The Getaway](https://open.spotify.com/album/3Na83ECiryHeBsdF7kLdRU) | 5:08 |
+| 53 | [Groovin' In Philly](https://open.spotify.com/track/4EWxGABVBAMcchzJPToJQz) | [Gail Jhonson](https://open.spotify.com/artist/4cJqqVAJDLFbCEFQDSrwcc), [Cliff Brown](https://open.spotify.com/artist/4lv9tkwkueOXLq58XG9OLp) | [It's About Time](https://open.spotify.com/album/4PXy69gcb1qTwEMJL0HW1d) | 4:36 |
 | 54 | [The East from the West](https://open.spotify.com/track/4EBl72N2kmIvGjkCtJwf2O) | [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S) | [A River In The Desert](https://open.spotify.com/album/52mMRE71ydh5k344gaCmBX) | 5:38 |
 | 55 | [I Just Can't Stop Thinking About You](https://open.spotify.com/track/1rAgECH4JpRZbYQkCQTCzm) | [Everette Harp](https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ) | [Better Days](https://open.spotify.com/album/02jDT0AUMqKosTjyqwHMx5) | 5:20 |
 | 56 | [I Want You For Myself](https://open.spotify.com/track/5rkVq7MwaVJHS9ZFt3uOjo) | [George Howard](https://open.spotify.com/artist/0MDjU3FoGxwGH0rbkcwF2f) | [Personal](https://open.spotify.com/album/2pqZnilWdNRtwv5Se30hA4) | 5:29 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSSls9eK29h.md) - [plain]
 | 59 | [Castine](https://open.spotify.com/track/3fWldcBwLpvt3JSWU5EsAT) | [Pamela Williams](https://open.spotify.com/artist/5B6uaAUFgsawlZzzhsQxjM) | [Saxtress](https://open.spotify.com/album/2Zf6Lb0XbvnqBaXBTFHVBj) | 5:02 |
 | 60 | [For the Love of You](https://open.spotify.com/track/4Or4bwHCtVrBFH4eLLG66j) | [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [For the Love of You](https://open.spotify.com/album/0ZnVjuFuNGngUDzQrP2JH9) | 5:00 |
 
-Snapshot ID: `MTY2MTc4MzY2MSwwMDAwMDAwMGQwMzQxMmQ4N2E3YjA2Y2UwYzMwMDYwY2RmMzFlNmJh`
+Snapshot ID: `MTY2MTc4MzY2MSwwMDAwMDAwMDZkZjhiMjBhNzNlYWVjZGU1ZWIzMmQwOGMwMzU0NzI2`

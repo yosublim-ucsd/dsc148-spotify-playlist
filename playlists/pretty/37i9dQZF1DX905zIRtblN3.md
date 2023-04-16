@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX905zIRtblN3.md) - [plain]
 
 > ¡Las más poderosas y llegadoras de nuestra música! Al millón con Fuerza Regida & Banda MS.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,436,054 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,440,671 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

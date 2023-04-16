@@ -4,7 +4,7 @@
 
 > Vibras rastafari para poner en sintonía el corazón.
 
-84 songs - 5 hr 46 min
+85 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [La Complicidad](https://open.spotify.com/track/0WtBYZlCYJqYO2eTIG4tb3) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [La Dulzura](https://open.spotify.com/album/2KRlM32gIN0saKVJdQfCtr) | 6:03 | 2021-12-14 | 2022-07-29 |
 | [La Complicidad](https://open.spotify.com/track/0yAc7tMrxA3KwdVpVDe402) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [La Dulzura](https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A) | 6:04 | 2022-02-22 |  |
 | [La Playa](https://open.spotify.com/track/0VFp2NOB2gUYtD1raVIFir) | [Alkilados](https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB) | [La Playa](https://open.spotify.com/album/0LZXfPCtqnaP9y4KsOMSWV) | 3:16 | 2022-02-22 |  |
+| [Llegaste a Mi](https://open.spotify.com/track/2HFIOrC4KVKwzHgr7MMmvK) | [De Bruces A Mi](https://open.spotify.com/artist/0Mib7yfd1ByhIhA1DmEeMg) | [El Poder de Tu Alma](https://open.spotify.com/album/6kxX6U45Ugsj26KlhEFNMY) | 3:50 | 2023-01-27 |  |
 | [Llegaste a Mí](https://open.spotify.com/track/6wiG6K6xHQd8Nj9CPblg2V) | [De Bruces A Mi](https://open.spotify.com/artist/0Mib7yfd1ByhIhA1DmEeMg) | [El Poder de Tu Alma](https://open.spotify.com/album/2qj7avJ1IwhmIXZQkj0Ro4) | 3:50 | 2021-12-14 | 2023-04-13 |
 | [Lo Más Sincero](https://open.spotify.com/track/6cHswTtZboQAcgZGmJZKWM) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [YO](https://open.spotify.com/album/04NS8bfaOfqpH8UxeLFuJX) | 3:26 | 2021-12-14 |  |
 | [Love Song](https://open.spotify.com/track/7dGY3JOczM9JLA4zUpSPMN) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Hagan Correr la Voz](https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY) | 3:58 | 2021-12-14 |  |
@@ -54,7 +55,7 @@
 | [Me Cambiaste la Vida](https://open.spotify.com/track/0UMOIcwxqq48nBQCYSrrlF) | [Melodycans](https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF) | [Una Cosa Es el Ska y Otra Cosa Es el Rocksteady](https://open.spotify.com/album/7rSdsRU8zqM8Jtp0GNDEWE) | 3:29 | 2021-12-14 | 2022-07-29 |
 | [Me Late](https://open.spotify.com/track/04YwRl721VNa4LOaADJ0uS) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Coleccion Suprema](https://open.spotify.com/album/5F7Go5CAykVMnhdnIA8MFZ) | 3:24 | 2021-12-14 |  |
 | [Mi Balcon](https://open.spotify.com/track/05SZ279Bnz9Zst21BMoZWg) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Melodrama](https://open.spotify.com/album/6Q5EvqV3Vj9wKee5N2fK6E) | 4:19 | 2021-12-14 |  |
-| [Mi Dulce Amor](https://open.spotify.com/track/5IMiNgnJHMzSva0maocFXB) | [De Bruces A Mi](https://open.spotify.com/artist/0Mib7yfd1ByhIhA1DmEeMg), [Pablo Molina](https://open.spotify.com/artist/1PoD7Jl0frSiDWXY5Qt0fB) | [Radiante](https://open.spotify.com/album/3KnKXcmHFsu5GsDREoxtQW) | 3:09 | 2021-12-14 |  |
+| [Mi Dulce Amor](https://open.spotify.com/track/5IMiNgnJHMzSva0maocFXB) | [De Bruces A Mi](https://open.spotify.com/artist/0Mib7yfd1ByhIhA1DmEeMg), [Pablo Molina](https://open.spotify.com/artist/1PoD7Jl0frSiDWXY5Qt0fB) | [Radiante](https://open.spotify.com/album/3KnKXcmHFsu5GsDREoxtQW) | 3:09 | 2021-12-14 | 2023-04-16 |
 | [Mi Princesa](https://open.spotify.com/track/4JN86HHZDQJNd8amda2rR6) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Pincoya Calipso \- Pasado, Presente y Futuro](https://open.spotify.com/album/7wrqy1Srwe2QqpYb4Rq7V6) | 4:23 | 2022-02-22 |  |
 | [Mi Princesa](https://open.spotify.com/track/0a9HP54S2zpCjO3yOYxL3k) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Tardes Latinas](https://open.spotify.com/album/29qcLHFmOiSVR7Pa6ZC7mT) | 4:23 | 2022-02-22 | 2022-11-14 |
 | [Mi Princesa](https://open.spotify.com/track/6qwIv4W6tUPxt2jLz84tlo) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Crece](https://open.spotify.com/album/3B5dbgQh0IvFD47xLnDvPr) | 4:23 | 2021-12-14 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HRj9P7NxeE.md) - [plain]
 
 > Get your body right with this workout twerkout
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,759,204 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,759,288 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HRj9P7NxeE.md) - [plain]
 | 31 | [Another Nasty Song](https://open.spotify.com/track/6lABMzDz2QUqZXRPvQIkuJ) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Another Nasty Song](https://open.spotify.com/album/6lFb5yNr5P8oniP9OfDuNb) | 2:24 |
 | 32 | [Handstand \(with Doja Cat feat\. Saweetie\)](https://open.spotify.com/track/0JcgIOrlZ0CNUOPxyudnrK) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [They Got Amnesia](https://open.spotify.com/album/0dMCnf42bF5BSLhDr2EMyl) | 2:50 |
 | 33 | [BILLS PAID \(feat\. Latto & City Girls\)](https://open.spotify.com/track/0JiLQRLOeWQdPC9rVpOqqo) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 3:28 |
-| 34 | [Bend It Over](https://open.spotify.com/track/3L29JZ7rEnfAxigaQvWr69) | [Renni Rucci](https://open.spotify.com/artist/5RnUS48fC3nHEjbKeb8TPz) | [Bend It Over](https://open.spotify.com/album/2Q1xSOvzYNO9tS5rpxJ0SS) | 2:55 |
+| 34 | [Bad Bitches](https://open.spotify.com/track/1bOUmlmuxBY22foEJvYcQB) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [Bad Bitches](https://open.spotify.com/album/6HdImiXIslmzq6aFofGWCF) | 2:10 |
 | 35 | [Toot That \(feat\. DreamDoll & BeatKing\)](https://open.spotify.com/track/73a3q3FYKM4dPemgvD03wD) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM), [DreamDoll](https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to), [BeatKing](https://open.spotify.com/artist/5L8p9kDnX2cgoI8VLUL2p4) | [Diary of The Flow Queen](https://open.spotify.com/album/03CKGhq7xh22fxkhHGJxp2) | 3:31 |
-| 36 | [Bad Bitches](https://open.spotify.com/track/1bOUmlmuxBY22foEJvYcQB) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [Bad Bitches](https://open.spotify.com/album/6HdImiXIslmzq6aFofGWCF) | 2:10 |
+| 36 | [Bend It Over](https://open.spotify.com/track/3L29JZ7rEnfAxigaQvWr69) | [Renni Rucci](https://open.spotify.com/artist/5RnUS48fC3nHEjbKeb8TPz) | [Bend It Over](https://open.spotify.com/album/2Q1xSOvzYNO9tS5rpxJ0SS) | 2:55 |
 | 37 | [Sneaky Link Shemix](https://open.spotify.com/track/2tc16SiowJOcfHRHBwH9F1) | [Kayla Nicole](https://open.spotify.com/artist/0jL5A3JBu46MsYrr5JMPuT), [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR) | [Sneaky Link Shemix](https://open.spotify.com/album/6yjODlGE0dgBbsNUSrfrnb) | 1:38 |
 | 38 | [Give U Some \(feat\. Rob49\)](https://open.spotify.com/track/1SDPlyCpP441BhYKcupxc0) | [Lebra Jolie](https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Lebra Jolie](https://open.spotify.com/album/28zSKv6y1iWehsGpxGbpW6) | 2:22 |
 | 39 | [Wheelie \(feat\. 21 Savage\)](https://open.spotify.com/track/2BxboWjnfktO1E9HGfPXq1) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Wheelie \(feat\. 21 Savage\)](https://open.spotify.com/album/5gwTtcUw2dHvT1x9ad49ag) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HRj9P7NxeE.md) - [plain]
 | 49 | [Pop It \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/6LcnvbHMT0qZDKZuUZaqt2) | [Bankroll Freddie](https://open.spotify.com/artist/20vLls6BmcHB0zEwpB91O2), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Big Bank](https://open.spotify.com/album/4isyF97V7nFks5mQMkZdf9) | 2:28 |
 | 50 | [Feelin’ Sexy](https://open.spotify.com/track/41sGvetgNrEbeknJVP8KbC) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [Hard On A 304](https://open.spotify.com/album/6a6DFsmuYzp39qKtn3UJ3P) | 2:01 |
 
-Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMDg4YzcwY2Q1ZjU1MmQ4YzhmZDRjZDQ4OTRkNzdkZmY1`
+Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMDVmMTAyYTc3YWJjNmNiYTlkY2YwZjVmMGI5YzI1OThj`

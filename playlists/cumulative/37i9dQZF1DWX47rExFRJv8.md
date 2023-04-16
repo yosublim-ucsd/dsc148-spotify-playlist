@@ -4,7 +4,7 @@
 
 > The biggest songs in Latin America in 2018\. Cover: Bad Bunny
 
-86 songs - 5 hr 10 min
+87 songs - 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Amigos Con Derechos](https://open.spotify.com/track/4yVO0wOhXsZC1RuPgHP524) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Ahora](https://open.spotify.com/album/4BvD9caT3ZohqNQFcR8dVD) | 3:47 | 2021-12-16 |  |
 | [Amorfoda](https://open.spotify.com/track/68QcquxCS39cQGTsRrJWIR) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Amorfoda](https://open.spotify.com/album/4BrJhFl3j50A69ZktbzZAg) | 2:33 | 2021-12-16 |  |
 | [Asesina](https://open.spotify.com/track/3wowzpCsKdqW3u7jGgS1oO) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Asesina](https://open.spotify.com/album/6oUM2IdI07Pif4bvIE0Ym8) | 3:07 | 2021-12-16 | 2023-03-31 |
+| [Asesina](https://open.spotify.com/track/5lZaM4985p0t3YfizlQWUz) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Asesina](https://open.spotify.com/album/5HfLVrLABowoW9EoCavQld) | 3:07 | 2021-12-16 |  |
 | [Asesina \- Original mix](https://open.spotify.com/track/6PniMs08lEakpuRp2nsMGv) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Barloe Team](https://open.spotify.com/artist/4okiIReqptfBJ5UULmWycZ) | [Asesina](https://open.spotify.com/album/0Xr2X0dAUZK8H0RXXRncm4) | 3:07 | 2021-12-16 | 2022-07-28 |
 | [Asesina \- Remix](https://open.spotify.com/track/59PYgzOiOjGDzjDT5N5oOX) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Asesina \(Remix\)](https://open.spotify.com/album/3kszVyyPdSKYihlQkme1Vv) | 5:27 | 2021-12-16 | 2022-11-26 |
 | [Aullando](https://open.spotify.com/track/7BuHdm4lQqcyG3qTwdkxus) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Los Campeones del Pueblo "The Big Leagues"](https://open.spotify.com/album/4zbMionGv9W33xjQfoMyuo) | 3:46 | 2021-12-16 |  |
@@ -47,7 +48,7 @@
 | [Imposible](https://open.spotify.com/track/3ao3OVxHlb3C08vAaApUlm) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Imposible](https://open.spotify.com/album/6wTDNbatkWKnP7r9v8NckA) | 2:43 | 2021-12-16 | 2022-07-28 |
 | [La Cintura](https://open.spotify.com/track/6VUJQqyeQhAZHkQbSDqLtI) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Mar De Colores \(Versión Extendida\)](https://open.spotify.com/album/66IXFg1AukADK41CP0xANr) | 3:24 | 2021-12-16 | 2022-09-26 |
 | [La Forma en Que Me Miras](https://open.spotify.com/track/6t94PGXYAuo9GbJEnMpPcW) | [Super Yei](https://open.spotify.com/artist/6HqgxkTt9KGyt27zYrwVan), [Sammy](https://open.spotify.com/artist/2raERfjzsdnUUQeZSge5eZ), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [La Forma en Que Me Miras](https://open.spotify.com/album/4C1RvpT7vJ7H8j21larWQU) | 5:07 | 2021-12-16 |  |
-| [La Mujer Perfecta](https://open.spotify.com/track/5XR1WyZ0uOSHRNhP85QxT4) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido](https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj) | 3:37 | 2021-12-16 |  |
+| [La Mujer Perfecta](https://open.spotify.com/track/5XR1WyZ0uOSHRNhP85QxT4) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido](https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj) | 3:37 | 2021-12-16 | 2023-04-16 |
 | [La player \(Bandolera\)](https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [La Player \(Bandolera\)](https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi) | 4:09 | 2021-12-16 |  |
 | [La Romana](https://open.spotify.com/track/1khmgu0pveJbkbpbkyvcQv) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 5:00 | 2021-12-16 |  |
 | [Lençol Dobrado](https://open.spotify.com/track/72xB2J9ZeBl0Rzxq2XmzdY) | [João Gustavo e Murilo](https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl), [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v) | [Lençol Dobrado](https://open.spotify.com/album/39vanCalSWRrvIEOWdyxPY) | 2:59 | 2021-12-16 | 2023-01-24 |

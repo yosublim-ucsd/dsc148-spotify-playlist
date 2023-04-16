@@ -4,7 +4,7 @@
 
 > OH I LOVE IT AND I HATE IT AT THE SAME TIME
 
-1,051 songs - 2 day 7 hr 16 min
+1,053 songs - 2 day 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,7 +277,8 @@
 | [Enough](https://open.spotify.com/track/4vuVzf7BIZhDAFm3TB0Tzy) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Enough](https://open.spotify.com/album/1fw8J18rs7te12Bj1UxAUo) | 3:05 | 2022-08-16 | 2023-01-06 |
 | [enough for you](https://open.spotify.com/track/2TOzTqQXNmR2zDJXihjZ2e) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:22 | 2023-04-12 |  |
 | [Escapism.](https://open.spotify.com/track/5Z2MiIZ5I3jJvvmeWMLbOQ) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. / The Thrill Is Gone.](https://open.spotify.com/album/3omkMn8vbTKOebb9ABbqyb) | 4:32 | 2022-11-22 | 2022-11-29 |
-| [Escapism\. \- Sped Up](https://open.spotify.com/track/4rPJSqrov3zqGwXlemLBMw) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. \(Sped Up\)](https://open.spotify.com/album/1bdKI997loh6G68NED2cwX) | 3:59 | 2022-11-24 |  |
+| [Escapism\. \- Sped Up](https://open.spotify.com/track/3XCpS4k8WqNnCpcDOSRRuz) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism.](https://open.spotify.com/album/4parxQfGC25WtlVVAm5S9q) | 3:59 | 2023-03-23 |  |
+| [Escapism\. \- Sped Up](https://open.spotify.com/track/4rPJSqrov3zqGwXlemLBMw) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. \(Sped Up\)](https://open.spotify.com/album/1bdKI997loh6G68NED2cwX) | 3:59 | 2022-11-24 | 2023-04-16 |
 | [Eventually](https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 5:18 | 2022-05-19 |  |
 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2022-09-15 |  |
 | [Everybody Wants To Rule The World](https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair \(Super Deluxe Edition\)](https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W) | 4:11 | 2022-06-03 |  |
@@ -1033,7 +1034,8 @@
 | [World Cup](https://open.spotify.com/track/22TFAU0e7WHAQFGzwneu1e) | [IShowSpeed](https://open.spotify.com/artist/2DZw407Bgg2Hu9E6NDgRTb) | [World Cup](https://open.spotify.com/album/3xmjwO8cc8XQ4hnFTgCVoE) | 4:16 | 2022-11-08 |  |
 | [World's Smallest Violin](https://open.spotify.com/track/3jHBgKdLCf46aP3HRI0WYv) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [OK ORCHESTRA](https://open.spotify.com/album/1y2AzG31F4CuCKQ1rpIzaI) | 3:00 | 2022-05-19 |  |
 | [World's Smallest Violin](https://open.spotify.com/track/6R8L4HZxaVSFED7rLePbK3) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [OK ORCHESTRA](https://open.spotify.com/album/0cev5DkOdS8wk0aRoac6Fh) | 3:00 | 2022-05-19 | 2022-07-29 |
-| [WORTH NOTHING \- Fast & Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [WORTH NOTHING \(Fast & Furious: Drift Tape/Phonk Vol 1\)](https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI) | 2:44 | 2022-11-22 |  |
+| [WORTH NOTHING \(feat\. Oliver Tree\) \- Fast & Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/65tX8MBdsnTiwy9UoIPHzr) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [WORTH NOTHING \(feat\. Oliver Tree\) \[Fast & Furious: Drift Tape/Vol 1\]](https://open.spotify.com/album/3iqdAcelKcHA5cdJXse2Gr) | 2:44 | 2023-03-23 |  |
+| [WORTH NOTHING \- Fast & Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [WORTH NOTHING \(Fast & Furious: Drift Tape/Phonk Vol 1\)](https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI) | 2:44 | 2022-11-22 | 2023-04-16 |
 | [WORTHLESS](https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WORTHLESS](https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH) | 2:43 | 2023-03-09 |  |
 | [WYD Now?](https://open.spotify.com/track/3ZBeHiRJUj1vdiU8zzGPgb) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [WYD Now?](https://open.spotify.com/album/7vHnOZjiqPEgDP6BkmEp2Z) | 2:24 | 2022-05-19 |  |
 | [Ya Lili \- AHR Remix](https://open.spotify.com/track/0hmZNJCjnSfhekl0TwqbIu) | [Adam H Rohit](https://open.spotify.com/artist/0DhZkQdLvZsmzhQDBneTts), [Hamouda](https://open.spotify.com/artist/7ep436ioXw7ZOJjpe1tDoN), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Ya Lili \(AHR Remix\)](https://open.spotify.com/album/4Rz3QBsei57qVSroQT89Lj) | 3:20 | 2022-05-19 | 2023-01-06 |

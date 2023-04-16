@@ -1,12 +1,12 @@
 {
   "description": "MADE of latin roots, MADE in the U.S. MADE to shine! Cover: Loyal Lobos",
-  "num_followers": 19463,
+  "num_followers": 19465,
   "original_name": "MADE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI0OTc4NSwwMDAwMDAwMDIzMDI3YWJhNjIzNWY4NmZiM2MxMDQ2NDY3OTJlOWU5",
+  "snapshot_id": "MTY4MDI0OTc4NSwwMDAwMDAwMDU3NTZmZDVkMDg1MDFiZjVhMzc4NjM3ZDRlNjMyYzY2",
   "tracks": [
     {
       "added_at": "2023-03-31 07:57:05",
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/6oYzMc61a1jti0pDyHw2t9"
     },
     {
-      "added_at": "2023-04-15 00:58:55",
+      "added_at": "2023-04-16 00:58:08",
       "album": {
         "name": "What's Love",
         "url": "https://open.spotify.com/album/4O6GIo4XMXM80d4Ew0CB63"
@@ -259,18 +259,18 @@
     {
       "added_at": "2023-03-31 07:57:05",
       "album": {
-        "name": "Solo Un Eco",
-        "url": "https://open.spotify.com/album/5gZfKeS7i3RaNBrjn5Dbl0"
+        "name": "Ricota",
+        "url": "https://open.spotify.com/album/2yM8BVkcqhFiDvM9gBh1Z3"
       },
       "artists": [
         {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
         }
       ],
-      "duration_ms": 285117,
-      "name": "Solo Un Eco",
-      "url": "https://open.spotify.com/track/4hWmuhICX1vxZOL1y8vYe4"
+      "duration_ms": 160880,
+      "name": "Ricota",
+      "url": "https://open.spotify.com/track/6gQoClTWFGA45WvjJW8XAc"
     },
     {
       "added_at": "2023-03-31 07:57:05",
@@ -323,18 +323,18 @@
     {
       "added_at": "2023-03-31 07:57:05",
       "album": {
-        "name": "Ricota",
-        "url": "https://open.spotify.com/album/2yM8BVkcqhFiDvM9gBh1Z3"
+        "name": "Solo Un Eco",
+        "url": "https://open.spotify.com/album/5gZfKeS7i3RaNBrjn5Dbl0"
       },
       "artists": [
         {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 160880,
-      "name": "Ricota",
-      "url": "https://open.spotify.com/track/6gQoClTWFGA45WvjJW8XAc"
+      "duration_ms": 285117,
+      "name": "Solo Un Eco",
+      "url": "https://open.spotify.com/track/4hWmuhICX1vxZOL1y8vYe4"
     },
     {
       "added_at": "2023-03-31 07:57:05",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-03-31 07:57:05",
       "album": {
-        "name": "Hostage",
-        "url": "https://open.spotify.com/album/19NdNTEHtg4U8qhNpOZNQ6"
-      },
-      "artists": [
-        {
-          "name": "Abrina",
-          "url": "https://open.spotify.com/artist/3FfeeQuvoeef4F19qixt58"
-        }
-      ],
-      "duration_ms": 164770,
-      "name": "Hostage",
-      "url": "https://open.spotify.com/track/07RY54HKxOorMfOUHzK5De"
-    },
-    {
-      "added_at": "2023-03-31 07:57:05",
-      "album": {
         "name": "No Fuimos Nada",
         "url": "https://open.spotify.com/album/7xEWRe7FeCXP99EcTBatkz"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 182981,
       "name": "No Fuimos Nada",
       "url": "https://open.spotify.com/track/3aWjuV28IwGzKnPddkH5rA"
+    },
+    {
+      "added_at": "2023-03-31 07:57:05",
+      "album": {
+        "name": "Hostage",
+        "url": "https://open.spotify.com/album/19NdNTEHtg4U8qhNpOZNQ6"
+      },
+      "artists": [
+        {
+          "name": "Abrina",
+          "url": "https://open.spotify.com/artist/3FfeeQuvoeef4F19qixt58"
+        }
+      ],
+      "duration_ms": 164770,
+      "name": "Hostage",
+      "url": "https://open.spotify.com/track/07RY54HKxOorMfOUHzK5De"
     },
     {
       "added_at": "2023-03-31 07:57:05",
@@ -627,26 +627,6 @@
     {
       "added_at": "2023-03-31 07:57:05",
       "album": {
-        "name": "KPASA (feat. Drty Tropix)",
-        "url": "https://open.spotify.com/album/1f3pPYCKSM5OfKtZ08t2sE"
-      },
-      "artists": [
-        {
-          "name": "2DEEP",
-          "url": "https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb"
-        },
-        {
-          "name": "Drty Tropix",
-          "url": "https://open.spotify.com/artist/6rskWKdI8VMxqWfBxU0my2"
-        }
-      ],
-      "duration_ms": 161280,
-      "name": "KPASA (feat. Drty Tropix)",
-      "url": "https://open.spotify.com/track/2WnlyIzUY8S4pCZivwbaem"
-    },
-    {
-      "added_at": "2023-03-31 07:57:05",
-      "album": {
         "name": "\u00bfD\u00f3nde?",
         "url": "https://open.spotify.com/album/5s2BpnMUEjfrZCR013IGoY"
       },
@@ -667,18 +647,22 @@
     {
       "added_at": "2023-03-31 07:57:05",
       "album": {
-        "name": "Sexo Sin Drama",
-        "url": "https://open.spotify.com/album/2ndDGHFi69bEujXAftA959"
+        "name": "KPASA (feat. Drty Tropix)",
+        "url": "https://open.spotify.com/album/1f3pPYCKSM5OfKtZ08t2sE"
       },
       "artists": [
         {
-          "name": "Digiannia",
-          "url": "https://open.spotify.com/artist/7h4VlNeXe4xN4uRWnYn875"
+          "name": "2DEEP",
+          "url": "https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb"
+        },
+        {
+          "name": "Drty Tropix",
+          "url": "https://open.spotify.com/artist/6rskWKdI8VMxqWfBxU0my2"
         }
       ],
-      "duration_ms": 142216,
-      "name": "Sexo Sin Drama",
-      "url": "https://open.spotify.com/track/2qQ0RuYvFLsYZarBTCSbJw"
+      "duration_ms": 161280,
+      "name": "KPASA (feat. Drty Tropix)",
+      "url": "https://open.spotify.com/track/2WnlyIzUY8S4pCZivwbaem"
     },
     {
       "added_at": "2023-03-31 07:57:05",
@@ -695,6 +679,22 @@
       "duration_ms": 186403,
       "name": "M\u00edrame",
       "url": "https://open.spotify.com/track/4CzrcuupfBN5G7KfRriA26"
+    },
+    {
+      "added_at": "2023-03-31 07:57:05",
+      "album": {
+        "name": "Sexo Sin Drama",
+        "url": "https://open.spotify.com/album/2ndDGHFi69bEujXAftA959"
+      },
+      "artists": [
+        {
+          "name": "Digiannia",
+          "url": "https://open.spotify.com/artist/7h4VlNeXe4xN4uRWnYn875"
+        }
+      ],
+      "duration_ms": 142216,
+      "name": "Sexo Sin Drama",
+      "url": "https://open.spotify.com/track/2qQ0RuYvFLsYZarBTCSbJw"
     },
     {
       "added_at": "2023-03-31 07:57:05",

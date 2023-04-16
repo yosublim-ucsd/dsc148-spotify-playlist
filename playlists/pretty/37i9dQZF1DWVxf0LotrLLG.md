@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: Conexión Divina
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,895 likes - 195 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,914 likes - 195 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

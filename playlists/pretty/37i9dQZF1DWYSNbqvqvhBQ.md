@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 
 > Luister naar de fijnste nieuwe songs en hits van dit moment! Cover: Son Mieux
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,181 likes - 90 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,186 likes - 90 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

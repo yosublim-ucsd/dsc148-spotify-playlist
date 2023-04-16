@@ -1,12 +1,12 @@
 {
   "description": "\u00a1El mejor condimento para tus comidas!",
-  "num_followers": 140462,
+  "num_followers": 140575,
   "original_name": "Cocina con Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0MTIwMCwwMDAwMDAwMGY2NTc0NGFlZjBiNjJiMDQ5ZTNkYTRhZjliM2RiNGU4",
+  "snapshot_id": "MTY4MTQ0MTIwMCwwMDAwMDAwMDFhNTYzYjI4OWNhMGFmMDFjYzU2MDI1MmEyZDY2OTI5",
   "tracks": [
     {
       "added_at": "2023-04-14 03:00:00",
@@ -79,6 +79,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "C\u00f3mo est\u00e1s",
+        "url": "https://open.spotify.com/album/30wGCjJRi0wRjdKu12PQcd"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 227395,
+      "name": "C\u00f3mo est\u00e1s",
+      "url": "https://open.spotify.com/track/6bLvfGI2XeU5DTl8feuNrk"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "Un Sue\u00f1o",
         "url": "https://open.spotify.com/album/0YYee1wCAn79KN9TVD70Tp"
       },
@@ -107,22 +123,6 @@
       "duration_ms": 209506,
       "name": "M\u00e1s Que Tu Amigo",
       "url": "https://open.spotify.com/track/1Vy7WUJubV9JEoebuJ9dfe"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "C\u00f3mo est\u00e1s",
-        "url": "https://open.spotify.com/album/30wGCjJRi0wRjdKu12PQcd"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 227395,
-      "name": "C\u00f3mo est\u00e1s",
-      "url": "https://open.spotify.com/track/6bLvfGI2XeU5DTl8feuNrk"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Te Voy A Enamorar",
-        "url": "https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles De Charly",
-          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
-        }
-      ],
-      "duration_ms": 237093,
-      "name": "Me Volv\u00ed A Acordar De Ti",
-      "url": "https://open.spotify.com/track/7256yGEwDkqs39TKHTeXik"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Destilando Amor",
         "url": "https://open.spotify.com/album/0Hkn7bDEG0kyUxI6gQdHzB"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 247893,
       "name": "Todo Me Gusta De Ti",
       "url": "https://open.spotify.com/track/5gUoppDphfYsIiguGr5drh"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Oye Mujer",
+        "url": "https://open.spotify.com/album/6uppp1YRIV4bPZkJoFH8x1"
+      },
+      "artists": [
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        }
+      ],
+      "duration_ms": 259240,
+      "name": "Oye Mujer",
+      "url": "https://open.spotify.com/track/37kCg5izHEMZ66xGdMVG5L"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -259,6 +259,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Te Voy A Enamorar",
+        "url": "https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles De Charly",
+          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
+        }
+      ],
+      "duration_ms": 237093,
+      "name": "Me Volv\u00ed A Acordar De Ti",
+      "url": "https://open.spotify.com/track/7256yGEwDkqs39TKHTeXik"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "Inolvidables",
         "url": "https://open.spotify.com/album/1v2KdMb9X99cCsdahjRD8Y"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 267826,
       "name": "C\u00f3mo Te Voy A Olvidar",
       "url": "https://open.spotify.com/track/51dNexiESqcJLsGLrmg1Nv"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Oye Mujer",
-        "url": "https://open.spotify.com/album/6uppp1YRIV4bPZkJoFH8x1"
-      },
-      "artists": [
-        {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
-        }
-      ],
-      "duration_ms": 259240,
-      "name": "Oye Mujer",
-      "url": "https://open.spotify.com/track/37kCg5izHEMZ66xGdMVG5L"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -339,22 +339,6 @@
       "duration_ms": 234945,
       "name": "Suavemente Amor",
       "url": "https://open.spotify.com/track/7bCNS79pv7K9iYtqAo0uIW"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Entrega De Amor",
-        "url": "https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 176560,
-      "name": "Entrega De Amor",
-      "url": "https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -439,6 +423,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Entrega De Amor",
+        "url": "https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 176560,
+      "name": "Entrega De Amor",
+      "url": "https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "El Poder De La Cumbia",
         "url": "https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m"
       },
@@ -451,22 +451,6 @@
       "duration_ms": 283240,
       "name": "Rumba Cha-Cha-Cha",
       "url": "https://open.spotify.com/track/6Y0Z4tAyI5JwBPVbxKQpXe"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Imparables",
-        "url": "https://open.spotify.com/album/7jfg9E2mgCCUgeRAHRJuIG"
-      },
-      "artists": [
-        {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
-        }
-      ],
-      "duration_ms": 194800,
-      "name": "Mentirosa",
-      "url": "https://open.spotify.com/track/3Iw4UVS7fo2TdD6Spmgqaj"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -507,26 +491,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Esto S\u00ed Es Cumbia",
-        "url": "https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 266213,
-      "name": "Nunca Es Suficiente",
-      "url": "https://open.spotify.com/track/63USmok1OioBzKuWGW9wAg"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Guaracha Sabrosona",
         "url": "https://open.spotify.com/album/0UZNJ0LcKDFyozURk4DUKJ"
       },
@@ -543,6 +507,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Imparables",
+        "url": "https://open.spotify.com/album/7jfg9E2mgCCUgeRAHRJuIG"
+      },
+      "artists": [
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        }
+      ],
+      "duration_ms": 194800,
+      "name": "Mentirosa",
+      "url": "https://open.spotify.com/track/3Iw4UVS7fo2TdD6Spmgqaj"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "Con la Fuerza de un Volc\u00e1n",
         "url": "https://open.spotify.com/album/1AIWTMWJGvs517UpZtQ09y"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 228266,
       "name": "Vienes y Te Vas",
       "url": "https://open.spotify.com/track/0sVeyTEVECTBiBdx9u7VUj"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Esto S\u00ed Es Cumbia",
+        "url": "https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 266213,
+      "name": "Nunca Es Suficiente",
+      "url": "https://open.spotify.com/track/63USmok1OioBzKuWGW9wAg"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "25 A\u00f1os (En Vivo)",
-        "url": "https://open.spotify.com/album/6ORA5WpFFDIkLQs1UwDCD6"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 189152,
-      "name": "Jurabas Tu",
-      "url": "https://open.spotify.com/track/5ISajXj2M1yvkrC0KsgbR5"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Me Vas a Extra\u00f1ar (En Vivo)",
         "url": "https://open.spotify.com/album/628CD4iCvk1Q325ErHXq53"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 238528,
       "name": "Me Vas a Extra\u00f1ar - En Vivo",
       "url": "https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "25 A\u00f1os (En Vivo)",
+        "url": "https://open.spotify.com/album/6ORA5WpFFDIkLQs1UwDCD6"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 189152,
+      "name": "Jurabas Tu",
+      "url": "https://open.spotify.com/track/5ISajXj2M1yvkrC0KsgbR5"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Los Caminos De La Vida",
-        "url": "https://open.spotify.com/album/2I72wA4qxK4ur3biscv0hv"
-      },
-      "artists": [
-        {
-          "name": "La Tropa Vallenata",
-          "url": "https://open.spotify.com/artist/6ESzKdcEDKvhUek4ZaHruk"
-        }
-      ],
-      "duration_ms": 291133,
-      "name": "Los Caminos De La Vida",
-      "url": "https://open.spotify.com/track/1layZXCAmJ84fi21OmnTt5"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "C\u00f3mo Te Voy a Olvidar",
         "url": "https://open.spotify.com/album/3hgqQV4fVY9QfSyJOopuRl"
       },
@@ -695,6 +679,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Los Caminos De La Vida",
+        "url": "https://open.spotify.com/album/2I72wA4qxK4ur3biscv0hv"
+      },
+      "artists": [
+        {
+          "name": "La Tropa Vallenata",
+          "url": "https://open.spotify.com/artist/6ESzKdcEDKvhUek4ZaHruk"
+        }
+      ],
+      "duration_ms": 291133,
+      "name": "Los Caminos De La Vida",
+      "url": "https://open.spotify.com/track/1layZXCAmJ84fi21OmnTt5"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "Amor (Ft. Mon Laferte) (Mtv Unplugged)",
         "url": "https://open.spotify.com/album/6CNdw6WvNlH86Y0h3rVQtw"
       },
@@ -711,22 +711,6 @@
       "duration_ms": 312442,
       "name": "Amor (Ft. Mon Laferte) - Mtv Unplugged",
       "url": "https://open.spotify.com/track/2fscHtYDKLd7xYRCTe3prP"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Grupo Ca\u00f1averal, Vol. 3",
-        "url": "https://open.spotify.com/album/0enYFc2pFSAqZ53enjSU5r"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
-        }
-      ],
-      "duration_ms": 281129,
-      "name": "Echarme Al Olvido",
-      "url": "https://open.spotify.com/track/4mxSPzxq7VDUIDgALWsrKB"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -767,6 +751,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Grupo Ca\u00f1averal, Vol. 3",
+        "url": "https://open.spotify.com/album/0enYFc2pFSAqZ53enjSU5r"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+        }
+      ],
+      "duration_ms": 281129,
+      "name": "Echarme Al Olvido",
+      "url": "https://open.spotify.com/track/4mxSPzxq7VDUIDgALWsrKB"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "Alg\u00fan D\u00eda Volver\u00e1s",
         "url": "https://open.spotify.com/album/6KrxfZdEyAbE1rYJfuoH0i"
       },
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Un Sentimiento",
-        "url": "https://open.spotify.com/album/2EUyMEEhYoXunjH60VsniI"
-      },
-      "artists": [
-        {
-          "name": "Los Palmeras",
-          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
-        }
-      ],
-      "duration_ms": 203933,
-      "name": "El Bomb\u00f3n",
-      "url": "https://open.spotify.com/track/68drjp77R32xEkzP1vxlF6"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Lo Mejor de Lo Mejor",
         "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 161239,
       "name": "Yo Tomo Licor",
       "url": "https://open.spotify.com/track/32KF7V0vpeKalBGxt2quBe"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Un Sentimiento",
+        "url": "https://open.spotify.com/album/2EUyMEEhYoXunjH60VsniI"
+      },
+      "artists": [
+        {
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+        }
+      ],
+      "duration_ms": 203933,
+      "name": "El Bomb\u00f3n",
+      "url": "https://open.spotify.com/track/68drjp77R32xEkzP1vxlF6"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Los M\u00e1s Queridos",
-        "url": "https://open.spotify.com/album/6I4Hfrp7oGAXRmPjcfCAW4"
-      },
-      "artists": [
-        {
-          "name": "La Nueva Luna",
-          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
-        }
-      ],
-      "duration_ms": 203600,
-      "name": "Te Vas a Arrepentir",
-      "url": "https://open.spotify.com/track/5XjusjnRecmB48YdD9BEIJ"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Separece A Ti",
         "url": "https://open.spotify.com/album/5Bdfuz8R1s29LQyU0UOyuw"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 248786,
       "name": "Se Parece M\u00e1s A Ti",
       "url": "https://open.spotify.com/track/4bWdlExSeKAotB6uJwxFlf"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Los M\u00e1s Queridos",
+        "url": "https://open.spotify.com/album/6I4Hfrp7oGAXRmPjcfCAW4"
+      },
+      "artists": [
+        {
+          "name": "La Nueva Luna",
+          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
+        }
+      ],
+      "duration_ms": 203600,
+      "name": "Te Vas a Arrepentir",
+      "url": "https://open.spotify.com/track/5XjusjnRecmB48YdD9BEIJ"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "De Enero a Enero",
-        "url": "https://open.spotify.com/album/459Jy3R3Jhm4GdpVWKGM0g"
-      },
-      "artists": [
-        {
-          "name": "Tamb\u00f3 Tamb\u00f3",
-          "url": "https://open.spotify.com/artist/6wAk3K9nxqR0pTLGLctzQu"
-        }
-      ],
-      "duration_ms": 194533,
-      "name": "La Cumbita",
-      "url": "https://open.spotify.com/track/23ADuBlydh01tBQhJgMgIV"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Guarachando",
         "url": "https://open.spotify.com/album/5uHNavgy4yM4orwoEBWMjO"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 244413,
       "name": "Coraz\u00f3n Solitario",
       "url": "https://open.spotify.com/track/7f7ChKewJr4Mjm8rDl53iP"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "De Enero a Enero",
+        "url": "https://open.spotify.com/album/459Jy3R3Jhm4GdpVWKGM0g"
+      },
+      "artists": [
+        {
+          "name": "Tamb\u00f3 Tamb\u00f3",
+          "url": "https://open.spotify.com/artist/6wAk3K9nxqR0pTLGLctzQu"
+        }
+      ],
+      "duration_ms": 194533,
+      "name": "La Cumbita",
+      "url": "https://open.spotify.com/track/23ADuBlydh01tBQhJgMgIV"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "30 Aniversario (Edici\u00f3n Limitada)",
-        "url": "https://open.spotify.com/album/4xxnGwPDaWB4OUmhoGIBCG"
-      },
-      "artists": [
-        {
-          "name": "Campeche Show",
-          "url": "https://open.spotify.com/artist/3ecm0ZCTUOZSNuHX3NcShh"
-        }
-      ],
-      "duration_ms": 185880,
-      "name": "A Donde Iras Ahora",
-      "url": "https://open.spotify.com/track/6gM3vv77YVKUP5VgK6GMa3"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Un Homenaje al Cielo",
         "url": "https://open.spotify.com/album/1ZlJYrZ68YhJevmEAaQBdL"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 212533,
       "name": "Tramposa y Mentirosa",
       "url": "https://open.spotify.com/track/6QmChI3qnlVSMHihZPzCTf"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "30 Aniversario (Edici\u00f3n Limitada)",
+        "url": "https://open.spotify.com/album/4xxnGwPDaWB4OUmhoGIBCG"
+      },
+      "artists": [
+        {
+          "name": "Campeche Show",
+          "url": "https://open.spotify.com/artist/3ecm0ZCTUOZSNuHX3NcShh"
+        }
+      ],
+      "duration_ms": 185880,
+      "name": "A Donde Iras Ahora",
+      "url": "https://open.spotify.com/track/6gM3vv77YVKUP5VgK6GMa3"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Si Tu Supieras",
+        "url": "https://open.spotify.com/album/5SYW3HfQPkp7vIglyaF0Uv"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 182599,
+      "name": "Si Tu Supieras",
+      "url": "https://open.spotify.com/track/1lyJIjlGdT429sZpukV0Ih"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "Grupo Play (La poes\u00eda musical)",
         "url": "https://open.spotify.com/album/1yST9o2V4nN2eo2Y96KHjR"
       },
@@ -1215,22 +1231,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Si Tu Supieras",
-        "url": "https://open.spotify.com/album/5SYW3HfQPkp7vIglyaF0Uv"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 182599,
-      "name": "Si Tu Supieras",
-      "url": "https://open.spotify.com/track/1lyJIjlGdT429sZpukV0Ih"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "B\u00e9same",
         "url": "https://open.spotify.com/album/2gdXeh9icSTRQp71pxmTP6"
       },
@@ -1247,22 +1247,6 @@
       "duration_ms": 142410,
       "name": "B\u00e9same",
       "url": "https://open.spotify.com/track/5uD4fcXch2qE5LYeyDipA1"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Amor pirata",
-        "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
-      },
-      "artists": [
-        {
-          "name": "Grupo uno",
-          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
-        }
-      ],
-      "duration_ms": 196360,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1295,6 +1279,22 @@
       "duration_ms": 190173,
       "name": "Tonta",
       "url": "https://open.spotify.com/track/1A1yn53ZypVPUcV4W54j8A"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Amor pirata",
+        "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
+      },
+      "artists": [
+        {
+          "name": "Grupo uno",
+          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
+        }
+      ],
+      "duration_ms": 196360,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "S\u00f3lo \u00c9xitos",
-        "url": "https://open.spotify.com/album/5hfRoSTXSY1sISkQTVc0nn"
-      },
-      "artists": [
-        {
-          "name": "Grupo Saya",
-          "url": "https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP"
-        }
-      ],
-      "duration_ms": 220533,
-      "name": "Cumbia Francesa",
-      "url": "https://open.spotify.com/track/6gcI2byXyIPQM2tFybviuo"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "No Te Contaron Mal",
         "url": "https://open.spotify.com/album/1SA0I1FbYvDLQ4KJ3KORMl"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 176864,
       "name": "No Te Contaron Mal",
       "url": "https://open.spotify.com/track/3kTbCMCftDxUscAi7VO4nA"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "S\u00f3lo \u00c9xitos",
+        "url": "https://open.spotify.com/album/5hfRoSTXSY1sISkQTVc0nn"
+      },
+      "artists": [
+        {
+          "name": "Grupo Saya",
+          "url": "https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP"
+        }
+      ],
+      "duration_ms": 220533,
+      "name": "Cumbia Francesa",
+      "url": "https://open.spotify.com/track/6gcI2byXyIPQM2tFybviuo"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Soplando Fuerte / Un Fen\u00f3meno Natural",
+        "url": "https://open.spotify.com/album/2heClZNeae75Z0bcYKSKZC"
+      },
+      "artists": [
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        }
+      ],
+      "duration_ms": 182293,
+      "name": "Una R\u00e1faga De Amor",
+      "url": "https://open.spotify.com/track/5C9UraxYO3LXkq7Py5NKcN"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "Cl\u00e1sicas De La Cumbia Andina",
         "url": "https://open.spotify.com/album/1G9yAgWGkLLyc3ItyTfS3Z"
       },
@@ -1463,18 +1479,34 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Soplando Fuerte / Un Fen\u00f3meno Natural",
-        "url": "https://open.spotify.com/album/2heClZNeae75Z0bcYKSKZC"
+        "name": "S\u00f3lo con un Beso",
+        "url": "https://open.spotify.com/album/1wCoN5OCgwlVWfR8nzTJBJ"
       },
       "artists": [
         {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+          "name": "Los Totora",
+          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
         }
       ],
-      "duration_ms": 182293,
-      "name": "Una R\u00e1faga De Amor",
-      "url": "https://open.spotify.com/track/5C9UraxYO3LXkq7Py5NKcN"
+      "duration_ms": 155878,
+      "name": "S\u00f3lo con un Beso",
+      "url": "https://open.spotify.com/track/5ucrujpVC5pPdxNR42guhh"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "No Est\u00e1 en la Flecha Sino en el Indio",
+        "url": "https://open.spotify.com/album/0c5AlFdcK0Tv073nYxrOBA"
+      },
+      "artists": [
+        {
+          "name": "Nene Malo",
+          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
+        }
+      ],
+      "duration_ms": 185453,
+      "name": "Esc\u00e1pate Conmigo",
+      "url": "https://open.spotify.com/track/408q39K0rnY815TF5x52tb"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1499,86 +1531,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "15A\u00f1ero",
-        "url": "https://open.spotify.com/album/5n9sH3qpY2tYoe8mJ5UvDk"
-      },
-      "artists": [
-        {
-          "name": "Villa Cari\u00f1o",
-          "url": "https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1"
-        }
-      ],
-      "duration_ms": 181840,
-      "name": "Para dormir contigo otra vez",
-      "url": "https://open.spotify.com/track/7eYjn1bChNho1ELP0mbyeA"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Grandes \u00c9xitos Regrabados",
-        "url": "https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr"
-      },
-      "artists": [
-        {
-          "name": "La Nueva Luna",
-          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
-        }
-      ],
-      "duration_ms": 242242,
-      "name": "Iluminar\u00e1",
-      "url": "https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Cumbia Nena",
-        "url": "https://open.spotify.com/album/0CgHWdYF92LImrdVUO66Hm"
-      },
-      "artists": [
-        {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
-        }
-      ],
-      "duration_ms": 204293,
-      "name": "Yo Tomo",
-      "url": "https://open.spotify.com/track/3aMeh9RWiWwKoDF66AuyN3"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "No Est\u00e1 en la Flecha Sino en el Indio",
-        "url": "https://open.spotify.com/album/0c5AlFdcK0Tv073nYxrOBA"
-      },
-      "artists": [
-        {
-          "name": "Nene Malo",
-          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
-        }
-      ],
-      "duration_ms": 185453,
-      "name": "Esc\u00e1pate Conmigo",
-      "url": "https://open.spotify.com/track/408q39K0rnY815TF5x52tb"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "S\u00f3lo con un Beso",
-        "url": "https://open.spotify.com/album/1wCoN5OCgwlVWfR8nzTJBJ"
-      },
-      "artists": [
-        {
-          "name": "Los Totora",
-          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
-        }
-      ],
-      "duration_ms": 155878,
-      "name": "S\u00f3lo con un Beso",
-      "url": "https://open.spotify.com/track/5ucrujpVC5pPdxNR42guhh"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Para Que La Cu\u00f1a Apriete",
         "url": "https://open.spotify.com/album/643Req8SJXX188L5fuuVD2"
       },
@@ -1599,24 +1551,8 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Altos Cumbieros - Cumbia Villera",
-        "url": "https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF"
-      },
-      "artists": [
-        {
-          "name": "Altos Cumbieros",
-          "url": "https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM"
-        }
-      ],
-      "duration_ms": 188720,
-      "name": "No voy a llorar",
-      "url": "https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "La Fiesta es de Nosotros",
-        "url": "https://open.spotify.com/album/67YStxw0rxexYKzFU6ocdT"
+        "name": "15A\u00f1ero",
+        "url": "https://open.spotify.com/album/5n9sH3qpY2tYoe8mJ5UvDk"
       },
       "artists": [
         {
@@ -1624,9 +1560,41 @@
           "url": "https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1"
         }
       ],
-      "duration_ms": 272044,
-      "name": "Serenata cruel",
-      "url": "https://open.spotify.com/track/2gEhAH0eZwl3b8si4l3tZ1"
+      "duration_ms": 181840,
+      "name": "Para dormir contigo otra vez",
+      "url": "https://open.spotify.com/track/7eYjn1bChNho1ELP0mbyeA"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Cumbia Nena",
+        "url": "https://open.spotify.com/album/0CgHWdYF92LImrdVUO66Hm"
+      },
+      "artists": [
+        {
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+        }
+      ],
+      "duration_ms": 204293,
+      "name": "Yo Tomo",
+      "url": "https://open.spotify.com/track/3aMeh9RWiWwKoDF66AuyN3"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Grandes \u00c9xitos Regrabados",
+        "url": "https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr"
+      },
+      "artists": [
+        {
+          "name": "La Nueva Luna",
+          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
+        }
+      ],
+      "duration_ms": 242242,
+      "name": "Iluminar\u00e1",
+      "url": "https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1643,6 +1611,22 @@
       "duration_ms": 184893,
       "name": "Fuiste",
       "url": "https://open.spotify.com/track/4fLd1pIpGwV4IEbQNyQMLh"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Altos Cumbieros - Cumbia Villera",
+        "url": "https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF"
+      },
+      "artists": [
+        {
+          "name": "Altos Cumbieros",
+          "url": "https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM"
+        }
+      ],
+      "duration_ms": 188720,
+      "name": "No voy a llorar",
+      "url": "https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1695,6 +1679,26 @@
       "duration_ms": 214826,
       "name": "Agua De Vida",
       "url": "https://open.spotify.com/track/6eL8Ej7iJqv7NOPoY7bC8Z"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Para Que La Cu\u00f1a Apriete",
+        "url": "https://open.spotify.com/album/643Req8SJXX188L5fuuVD2"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kual? Dinastia Pedraza Es Grupo Kein?",
+          "url": "https://open.spotify.com/artist/3mtUQL8wfuXoI3bcciosLd"
+        },
+        {
+          "name": "Grupo Kien? Los Reyes Del Sabor",
+          "url": "https://open.spotify.com/artist/5bK0A1q7E0UgBFrXZtedtU"
+        }
+      ],
+      "duration_ms": 296680,
+      "name": "La Rumba Quimbumba",
+      "url": "https://open.spotify.com/track/02pQk9G1SnyBBVh9yOtxau"
     }
   ],
   "unique_name": "Cocina con Cumbia",

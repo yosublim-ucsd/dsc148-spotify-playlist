@@ -1,12 +1,12 @@
 {
   "description": "Work or rest with these gems from the 80s.",
-  "num_followers": 197783,
+  "num_followers": 197857,
   "original_name": "Chilled 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU0NzY0NjM5NiwwMDAwMDAwMDM4NjdiY2NjZmUwMjQwNzdlYjljMmVkNTdiOWQ2NmVh",
+  "snapshot_id": "MTU0NzY0NjM5NiwwMDAwMDAwMGRkNWQ2YzU2NDdmNjRjOTk2ZWM0MTFlMDBhZDU2MTgy",
   "tracks": [
     {
       "added_at": "2018-12-12 11:36:39",
@@ -463,22 +463,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Avalon",
-        "url": "https://open.spotify.com/album/3JXODSjT9mUz2lIb4YIErw"
-      },
-      "artists": [
-        {
-          "name": "Roxy Music",
-          "url": "https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo"
-        }
-      ],
-      "duration_ms": 103773,
-      "name": "Tara",
-      "url": "https://open.spotify.com/track/5oMNDwCx1Lr9BSL4WkkazM"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Frontiers",
         "url": "https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 234546,
       "name": "Send Her My Love",
       "url": "https://open.spotify.com/track/48Wu7j5ANO17SOpjb3oVPC"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Avalon",
+        "url": "https://open.spotify.com/album/3JXODSjT9mUz2lIb4YIErw"
+      },
+      "artists": [
+        {
+          "name": "Roxy Music",
+          "url": "https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo"
+        }
+      ],
+      "duration_ms": 103773,
+      "name": "Tara",
+      "url": "https://open.spotify.com/track/5oMNDwCx1Lr9BSL4WkkazM"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -659,6 +659,22 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
+        "name": "Into the Gap (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6tcBa4XORQYZBuFCILU3tX"
+      },
+      "artists": [
+        {
+          "name": "Thompson Twins",
+          "url": "https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn"
+        }
+      ],
+      "duration_ms": 286360,
+      "name": "Hold Me Now",
+      "url": "https://open.spotify.com/track/0ELzxemxnjAasucn8Sww3m"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
         "name": "It'll End In Tears (Remastered)",
         "url": "https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j"
       },
@@ -691,22 +707,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Tango In the Night (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 189760,
-      "name": "Mystified - 2017 Remaster",
-      "url": "https://open.spotify.com/track/524nCOIQg9fi0pETVnbpv8"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Stronger Than Pride",
         "url": "https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK"
       },
@@ -723,18 +723,18 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "October (Deluxe Edition Remastered)",
-        "url": "https://open.spotify.com/album/59O7CFxLYBBKYtrO61LyqF"
+        "name": "Tango In the Night (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
       },
       "artists": [
         {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 141040,
-      "name": "October - Remastered 2008",
-      "url": "https://open.spotify.com/track/1UlQqRd3NoMYUI29v6DFb5"
+      "duration_ms": 189760,
+      "name": "Mystified - 2017 Remaster",
+      "url": "https://open.spotify.com/track/524nCOIQg9fi0pETVnbpv8"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -751,6 +751,22 @@
       "duration_ms": 259493,
       "name": "Tea In The Sahara",
       "url": "https://open.spotify.com/track/26R3e7bjY6e9dlgghide8L"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "October (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/59O7CFxLYBBKYtrO61LyqF"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 141040,
+      "name": "October - Remastered 2008",
+      "url": "https://open.spotify.com/track/1UlQqRd3NoMYUI29v6DFb5"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -799,22 +815,6 @@
       "duration_ms": 279413,
       "name": "Has Anyone Ever Written Anything for You",
       "url": "https://open.spotify.com/track/1PAnGhRo2tHpM2DNibEEe6"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
-        "name": "Into the Gap (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6tcBa4XORQYZBuFCILU3tX"
-      },
-      "artists": [
-        {
-          "name": "Thompson Twins",
-          "url": "https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn"
-        }
-      ],
-      "duration_ms": 286360,
-      "name": "Hold Me Now",
-      "url": "https://open.spotify.com/track/0ELzxemxnjAasucn8Sww3m"
     },
     {
       "added_at": "2018-12-12 11:36:39",

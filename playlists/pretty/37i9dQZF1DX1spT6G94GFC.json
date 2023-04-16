@@ -1,12 +1,12 @@
 {
   "description": "These songs rocked the 80s.",
-  "num_followers": 2579461,
+  "num_followers": 2580408,
   "original_name": "80s Rock Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA3NTUwOSwwMDAwMDAwMDczN2VmMzgwMmRlYzNkNmY4OGJmODA2ODUzMWQyYzYx",
+  "snapshot_id": "MTY3NDA3NTUwOSwwMDAwMDAwMGQyN2VjYTgyMWI4MWRhMGRiOTBlNDIwMWU2ZjI0MTNl",
   "tracks": [
     {
       "added_at": "2023-01-18 20:58:29",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-01-18 20:58:29",
       "album": {
-        "name": "The Final Countdown (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
-      },
-      "artists": [
-        {
-          "name": "Europe",
-          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
-        }
-      ],
-      "duration_ms": 310333,
-      "name": "The Final Countdown",
-      "url": "https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK"
-    },
-    {
-      "added_at": "2023-01-18 20:58:29",
-      "album": {
         "name": "I Love Rock 'N' Roll (Expanded Edition)",
         "url": "https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 175173,
       "name": "I Love Rock 'N Roll",
       "url": "https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie"
+    },
+    {
+      "added_at": "2023-01-18 20:58:29",
+      "album": {
+        "name": "The Final Countdown (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
+      },
+      "artists": [
+        {
+          "name": "Europe",
+          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+        }
+      ],
+      "duration_ms": 310333,
+      "name": "The Final Countdown",
+      "url": "https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK"
     },
     {
       "added_at": "2023-01-18 20:58:29",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-01-18 20:58:29",
       "album": {
-        "name": "\"Heroes\" (2017 Remaster)",
-        "url": "https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 371413,
-      "name": "Heroes - 2017 Remaster",
-      "url": "https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z"
-    },
-    {
-      "added_at": "2023-01-18 20:58:29",
-      "album": {
         "name": "Hysteria (Super Deluxe)",
         "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 267306,
       "name": "Pour Some Sugar On Me - Remastered 2017",
       "url": "https://open.spotify.com/track/0PdM2a6oIjqepoEfcJo0RO"
+    },
+    {
+      "added_at": "2023-01-18 20:58:29",
+      "album": {
+        "name": "\"Heroes\" (2017 Remaster)",
+        "url": "https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 371413,
+      "name": "Heroes - 2017 Remaster",
+      "url": "https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z"
     },
     {
       "added_at": "2023-01-18 20:58:29",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-01-18 20:58:29",
       "album": {
-        "name": "Combat Rock (Remastered)",
-        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
-      },
-      "artists": [
-        {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
-        }
-      ],
-      "duration_ms": 222426,
-      "name": "Rock the Casbah - Remastered",
-      "url": "https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N"
-    },
-    {
-      "added_at": "2023-01-18 20:58:29",
-      "album": {
         "name": "Stay Hungry",
         "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 179760,
       "name": "I Wanna Rock",
       "url": "https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU"
+    },
+    {
+      "added_at": "2023-01-18 20:58:29",
+      "album": {
+        "name": "Combat Rock (Remastered)",
+        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 222426,
+      "name": "Rock the Casbah - Remastered",
+      "url": "https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N"
     },
     {
       "added_at": "2023-01-18 20:58:29",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-01-18 20:58:29",
       "album": {
-        "name": "Bella Donna (2016 Remastered)",
-        "url": "https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 329413,
-      "name": "Edge of Seventeen - 2016 Remaster",
-      "url": "https://open.spotify.com/track/7L3b6iaVhDVjfo52Hbvh9Z"
-    },
-    {
-      "added_at": "2023-01-18 20:58:29",
-      "album": {
         "name": "Hot Space (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 248440,
       "name": "Under Pressure - Remastered 2011",
       "url": "https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw"
+    },
+    {
+      "added_at": "2023-01-18 20:58:29",
+      "album": {
+        "name": "Bella Donna (2016 Remastered)",
+        "url": "https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 329413,
+      "name": "Edge of Seventeen - 2016 Remaster",
+      "url": "https://open.spotify.com/track/7L3b6iaVhDVjfo52Hbvh9Z"
     },
     {
       "added_at": "2023-01-18 20:58:29",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-01-18 20:58:29",
       "album": {
-        "name": "Hatful of Hollow",
-        "url": "https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv"
-      },
-      "artists": [
-        {
-          "name": "The Smiths",
-          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
-        }
-      ],
-      "duration_ms": 408173,
-      "name": "How Soon Is Now? - 2011 Remaster",
-      "url": "https://open.spotify.com/track/1YrnDTqvcnUKxAIeXyaEmU"
-    },
-    {
-      "added_at": "2023-01-18 20:58:29",
-      "album": {
         "name": "Permanent Vacation",
         "url": "https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 265773,
       "name": "Dude (Looks Like A Lady)",
       "url": "https://open.spotify.com/track/6gQUbFwwdYXlKdmqRoWKJe"
+    },
+    {
+      "added_at": "2023-01-18 20:58:29",
+      "album": {
+        "name": "Hatful of Hollow",
+        "url": "https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv"
+      },
+      "artists": [
+        {
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "duration_ms": 408173,
+      "name": "How Soon Is Now? - 2011 Remaster",
+      "url": "https://open.spotify.com/track/1YrnDTqvcnUKxAIeXyaEmU"
     },
     {
       "added_at": "2023-01-18 20:58:29",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-01-18 20:58:29",
       "album": {
-        "name": "Survivor Greatest Hits",
-        "url": "https://open.spotify.com/album/2wBiw6c2bGb4c9pnRdHw6X"
-      },
-      "artists": [
-        {
-          "name": "Survivor",
-          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
-        }
-      ],
-      "duration_ms": 230106,
-      "name": "Burning Heart - From \"Rocky IV\" Soundtrack",
-      "url": "https://open.spotify.com/track/2VN7uPrbryJ7nE2MXX3f9a"
-    },
-    {
-      "added_at": "2023-01-18 20:58:29",
-      "album": {
         "name": "Don't Say No (Remastered 2010)",
         "url": "https://open.spotify.com/album/6TwlLNU5Zd9qGuNgSLeWPt"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 217613,
       "name": "The Stroke - Remastered 2010",
       "url": "https://open.spotify.com/track/52KvuGmgcgRdrLMXOtda0E"
+    },
+    {
+      "added_at": "2023-01-18 20:58:29",
+      "album": {
+        "name": "Survivor Greatest Hits",
+        "url": "https://open.spotify.com/album/2wBiw6c2bGb4c9pnRdHw6X"
+      },
+      "artists": [
+        {
+          "name": "Survivor",
+          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
+        }
+      ],
+      "duration_ms": 230106,
+      "name": "Burning Heart - From \"Rocky IV\" Soundtrack",
+      "url": "https://open.spotify.com/track/2VN7uPrbryJ7nE2MXX3f9a"
     },
     {
       "added_at": "2023-01-18 20:58:29",

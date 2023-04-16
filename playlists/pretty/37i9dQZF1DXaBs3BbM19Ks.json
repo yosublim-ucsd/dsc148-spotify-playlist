@@ -1,12 +1,12 @@
 {
   "description": "Bonitas, orgullosas y empoderadas, as\u00ed somos las se\u00f1oras.",
-  "num_followers": 225538,
+  "num_followers": 225762,
   "original_name": "Modo Se\u00f1ora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4NjM1MCwwMDAwMDAwMDQ1YmZjMjI3ODg0NDdjNDYwM2UxNTExOTZjOTQzZGVm",
+  "snapshot_id": "MTY3Mjk4NjM1MCwwMDAwMDAwMDAxMjcyMjMxMzRkNWJiMWRmZWQxMDUyMjAxODU5Mjkx",
   "tracks": [
     {
       "added_at": "2021-05-21 05:04:59",
@@ -59,22 +59,6 @@
     {
       "added_at": "2022-05-10 02:03:57",
       "album": {
-        "name": "A Coraz\u00f3n Abierto",
-        "url": "https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 231773,
-      "name": "Me Dediqu\u00e9 a Perderte",
-      "url": "https://open.spotify.com/track/4NUt1fcnO9aQAELBgXq3Kr"
-    },
-    {
-      "added_at": "2022-05-10 02:03:57",
-      "album": {
         "name": "Un Besito M\u00e1s",
         "url": "https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 247640,
       "name": "Dueles",
       "url": "https://open.spotify.com/track/1iRvhKiXRElIH2Uf4gd95P"
+    },
+    {
+      "added_at": "2022-05-10 02:03:57",
+      "album": {
+        "name": "A Coraz\u00f3n Abierto",
+        "url": "https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 231773,
+      "name": "Me Dediqu\u00e9 a Perderte",
+      "url": "https://open.spotify.com/track/4NUt1fcnO9aQAELBgXq3Kr"
     },
     {
       "added_at": "2021-05-21 05:04:59",
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-05-10 02:03:57",
       "album": {
-        "name": "Las baladas (Los singles vol II)",
-        "url": "https://open.spotify.com/album/2lsc9HZQaNf3gT7lIys2vN"
-      },
-      "artists": [
-        {
-          "name": "Hombres G",
-          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
-        }
-      ],
-      "duration_ms": 225760,
-      "name": "Te quiero",
-      "url": "https://open.spotify.com/track/6tu2FHuKL9C8pwNrityweQ"
-    },
-    {
-      "added_at": "2022-05-10 02:03:57",
-      "album": {
         "name": "M\u00e1s",
         "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 290973,
       "name": "Amiga m\u00eda",
       "url": "https://open.spotify.com/track/6kQYMqjobmB8MkWwa9OUyA"
+    },
+    {
+      "added_at": "2022-05-10 02:03:57",
+      "album": {
+        "name": "Las baladas (Los singles vol II)",
+        "url": "https://open.spotify.com/album/2lsc9HZQaNf3gT7lIys2vN"
+      },
+      "artists": [
+        {
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        }
+      ],
+      "duration_ms": 225760,
+      "name": "Te quiero",
+      "url": "https://open.spotify.com/track/6tu2FHuKL9C8pwNrityweQ"
     },
     {
       "added_at": "2021-05-21 05:04:59",
@@ -345,22 +345,6 @@
       "url": "https://open.spotify.com/track/7aSxNjoVoAwNL7HDAKwGtC"
     },
     {
-      "added_at": "2021-05-21 05:04:59",
-      "album": {
-        "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
-        "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
-        }
-      ],
-      "duration_ms": 289866,
-      "name": "Tan enamorados",
-      "url": "https://open.spotify.com/track/5kxol5m6MfiJgahqyzbDRH"
-    },
-    {
       "added_at": "2022-05-10 02:03:57",
       "album": {
         "name": "Lo Que Siempre So\u00f1amos Ser",
@@ -375,6 +359,22 @@
       "duration_ms": 229760,
       "name": "A quien t\u00fa decidiste amar",
       "url": "https://open.spotify.com/track/3lJwIAfeWtnNRbJXWbIHKD"
+    },
+    {
+      "added_at": "2021-05-21 05:04:59",
+      "album": {
+        "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
+        "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        }
+      ],
+      "duration_ms": 289866,
+      "name": "Tan enamorados",
+      "url": "https://open.spotify.com/track/5kxol5m6MfiJgahqyzbDRH"
     },
     {
       "added_at": "2022-05-10 02:03:57",
@@ -473,22 +473,6 @@
       "url": "https://open.spotify.com/track/7Et3UkjbCjRhRaACPBXRQg"
     },
     {
-      "added_at": "2021-05-21 05:04:59",
-      "album": {
-        "name": "15 \u00c9xitos de Marisela Vol. 2",
-        "url": "https://open.spotify.com/album/4fNcKuACla3rJrdwA5s2hn"
-      },
-      "artists": [
-        {
-          "name": "Marisela",
-          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
-        }
-      ],
-      "duration_ms": 195533,
-      "name": "Tu Dama de Hierro",
-      "url": "https://open.spotify.com/track/0PanjuWPniwRZpU2SkMDtF"
-    },
-    {
       "added_at": "2022-05-10 02:03:57",
       "album": {
         "name": "Escucha",
@@ -503,6 +487,22 @@
       "duration_ms": 236613,
       "name": "V\u00edveme",
       "url": "https://open.spotify.com/track/376zCxYCHr7rSFBdz41QyE"
+    },
+    {
+      "added_at": "2021-05-21 05:04:59",
+      "album": {
+        "name": "15 \u00c9xitos de Marisela Vol. 2",
+        "url": "https://open.spotify.com/album/4fNcKuACla3rJrdwA5s2hn"
+      },
+      "artists": [
+        {
+          "name": "Marisela",
+          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
+        }
+      ],
+      "duration_ms": 195533,
+      "name": "Tu Dama de Hierro",
+      "url": "https://open.spotify.com/track/0PanjuWPniwRZpU2SkMDtF"
     },
     {
       "added_at": "2021-05-21 05:04:59",
@@ -743,22 +743,6 @@
     {
       "added_at": "2021-05-21 05:04:59",
       "album": {
-        "name": "Cosas De Enamorados",
-        "url": "https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 222946,
-      "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
-      "url": "https://open.spotify.com/track/5KSwwf96ITyukZpWfazLzS"
-    },
-    {
-      "added_at": "2021-05-21 05:04:59",
-      "album": {
         "name": "Mar\u00eda Jos\u00e9",
         "url": "https://open.spotify.com/album/3ZYCIP3Z0UcypRrTLghQ4M"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 239706,
       "name": "Me equivoqu\u00e9",
       "url": "https://open.spotify.com/track/0mjwigpuvO4IAAMtoNoUyQ"
+    },
+    {
+      "added_at": "2021-05-21 05:04:59",
+      "album": {
+        "name": "Cosas De Enamorados",
+        "url": "https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 222946,
+      "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/5KSwwf96ITyukZpWfazLzS"
     },
     {
       "added_at": "2021-05-21 05:04:59",
@@ -823,22 +823,6 @@
     {
       "added_at": "2021-05-21 05:04:59",
       "album": {
-        "name": "Pimpinela",
-        "url": "https://open.spotify.com/album/2NYXeeATmC1K9FUhKlP0id"
-      },
-      "artists": [
-        {
-          "name": "Pimpinela",
-          "url": "https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo"
-        }
-      ],
-      "duration_ms": 185800,
-      "name": "Olv\u00eddame y Pega la Vuelta",
-      "url": "https://open.spotify.com/track/4FdwRmlzP5KGM7OewGBYiu"
-    },
-    {
-      "added_at": "2021-05-21 05:04:59",
-      "album": {
         "name": "Flor De Piel",
         "url": "https://open.spotify.com/album/4jVhCAGCEhQUyXrMD4owlU"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 283133,
       "name": "Hacer El Amor Con Otro",
       "url": "https://open.spotify.com/track/1OB7cLxxCWA8gbbfjFNNej"
+    },
+    {
+      "added_at": "2021-05-21 05:04:59",
+      "album": {
+        "name": "Pimpinela",
+        "url": "https://open.spotify.com/album/2NYXeeATmC1K9FUhKlP0id"
+      },
+      "artists": [
+        {
+          "name": "Pimpinela",
+          "url": "https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo"
+        }
+      ],
+      "duration_ms": 185800,
+      "name": "Olv\u00eddame y Pega la Vuelta",
+      "url": "https://open.spotify.com/track/4FdwRmlzP5KGM7OewGBYiu"
     },
     {
       "added_at": "2021-05-21 05:04:59",
@@ -891,6 +891,22 @@
     {
       "added_at": "2021-05-21 05:04:59",
       "album": {
+        "name": "Loca De Amar",
+        "url": "https://open.spotify.com/album/2eyl66bHPrqMjjTfzLxHt3"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 275893,
+      "name": "Lo Busqu\u00e9",
+      "url": "https://open.spotify.com/track/7ceiXwNZ2DwNIJ54tsJwRY"
+    },
+    {
+      "added_at": "2021-05-21 05:04:59",
+      "album": {
         "name": "Canta A Juan Gabriel",
         "url": "https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 222760,
       "name": "D\u00e9jame Vivir (with Juan Gabriel)",
       "url": "https://open.spotify.com/track/3ic95qCcp0njJNb3mJTZaP"
-    },
-    {
-      "added_at": "2021-05-21 05:04:59",
-      "album": {
-        "name": "Loca De Amar",
-        "url": "https://open.spotify.com/album/2eyl66bHPrqMjjTfzLxHt3"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 275893,
-      "name": "Lo Busqu\u00e9",
-      "url": "https://open.spotify.com/track/7ceiXwNZ2DwNIJ54tsJwRY"
     },
     {
       "added_at": "2022-05-10 02:03:57",
@@ -975,22 +975,6 @@
     {
       "added_at": "2021-05-21 05:04:59",
       "album": {
-        "name": "21 Black Jack",
-        "url": "https://open.spotify.com/album/4jiWswx18F7x1dRMKmC9YR"
-      },
-      "artists": [
-        {
-          "name": "Mijares",
-          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
-        }
-      ],
-      "duration_ms": 206706,
-      "name": "Para Amarnos M\u00e1s",
-      "url": "https://open.spotify.com/track/3VDJrFMOFyYFGPtIocqkeP"
-    },
-    {
-      "added_at": "2021-05-21 05:04:59",
-      "album": {
         "name": "20 Exitos Originales",
         "url": "https://open.spotify.com/album/7GJk5uyd0Fk8ekmz9v3ywI"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 281173,
       "name": "Bella Se\u00f1ora",
       "url": "https://open.spotify.com/track/7vyfkPROxVBZQOJtufdIIJ"
+    },
+    {
+      "added_at": "2021-05-21 05:04:59",
+      "album": {
+        "name": "21 Black Jack",
+        "url": "https://open.spotify.com/album/4jiWswx18F7x1dRMKmC9YR"
+      },
+      "artists": [
+        {
+          "name": "Mijares",
+          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
+        }
+      ],
+      "duration_ms": 206706,
+      "name": "Para Amarnos M\u00e1s",
+      "url": "https://open.spotify.com/track/3VDJrFMOFyYFGPtIocqkeP"
     },
     {
       "added_at": "2021-05-21 05:04:59",
@@ -1053,22 +1053,6 @@
       "url": "https://open.spotify.com/track/1hj6nYHeGclSY0VNTHMi27"
     },
     {
-      "added_at": "2021-05-21 05:04:59",
-      "album": {
-        "name": "Libre",
-        "url": "https://open.spotify.com/album/5Zb5uLdHzmnIbOBy4zvVwW"
-      },
-      "artists": [
-        {
-          "name": "Alejandra Guzman",
-          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
-        }
-      ],
-      "duration_ms": 240933,
-      "name": "Mirala Miralo",
-      "url": "https://open.spotify.com/track/6GCNUmk7L7OWtpvSk0fWOg"
-    },
-    {
       "added_at": "2022-05-10 02:03:57",
       "album": {
         "name": "La mujer que bota fuego (feat. Natalia Jim\u00e9nez)",
@@ -1087,6 +1071,22 @@
       "duration_ms": 244262,
       "name": "La mujer que bota fuego (feat. Natalia Jim\u00e9nez)",
       "url": "https://open.spotify.com/track/6w6EINTodc8j0TWtrWHdm2"
+    },
+    {
+      "added_at": "2021-05-21 05:04:59",
+      "album": {
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/5Zb5uLdHzmnIbOBy4zvVwW"
+      },
+      "artists": [
+        {
+          "name": "Alejandra Guzman",
+          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
+        }
+      ],
+      "duration_ms": 240933,
+      "name": "Mirala Miralo",
+      "url": "https://open.spotify.com/track/6GCNUmk7L7OWtpvSk0fWOg"
     },
     {
       "added_at": "2021-05-21 05:04:59",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2021-05-21 05:04:59",
       "album": {
-        "name": "Canto Por Ti",
-        "url": "https://open.spotify.com/album/0FhBt22SV28wg41ecDy1RO"
-      },
-      "artists": [
-        {
-          "name": "Mijares",
-          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
-        }
-      ],
-      "duration_ms": 239995,
-      "name": "Si Me Ten\u00edas",
-      "url": "https://open.spotify.com/track/2wBhRmkGC098tLGo2dhWo2"
-    },
-    {
-      "added_at": "2021-05-21 05:04:59",
-      "album": {
         "name": "Solo Exitos",
         "url": "https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 241226,
       "name": "Quiero Dormir Cansado",
       "url": "https://open.spotify.com/track/6LmKDVBBlMsWqUbuNTeCuF"
+    },
+    {
+      "added_at": "2021-05-21 05:04:59",
+      "album": {
+        "name": "Canto Por Ti",
+        "url": "https://open.spotify.com/album/0FhBt22SV28wg41ecDy1RO"
+      },
+      "artists": [
+        {
+          "name": "Mijares",
+          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
+        }
+      ],
+      "duration_ms": 239995,
+      "name": "Si Me Ten\u00edas",
+      "url": "https://open.spotify.com/track/2wBhRmkGC098tLGo2dhWo2"
     },
     {
       "added_at": "2022-05-10 02:03:57",
@@ -1185,22 +1185,6 @@
       "url": "https://open.spotify.com/track/7Eb5AYiiGWItBNddlmxvnh"
     },
     {
-      "added_at": "2022-05-10 02:03:57",
-      "album": {
-        "name": "Vida Loca",
-        "url": "https://open.spotify.com/album/11lYdxQdsgkvKfDjX0nTHa"
-      },
-      "artists": [
-        {
-          "name": "Francisco C\u00e9spedes",
-          "url": "https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8"
-        }
-      ],
-      "duration_ms": 250146,
-      "name": "Remolino",
-      "url": "https://open.spotify.com/track/0ACbLwjYUehkGVVFYKPYNQ"
-    },
-    {
       "added_at": "2021-05-21 05:04:59",
       "album": {
         "name": "15 \u00c9xitos de Marisela Vol. 2",
@@ -1215,6 +1199,22 @@
       "duration_ms": 215733,
       "name": "A Cambio de Que",
       "url": "https://open.spotify.com/track/1iJZqqaAWseXEzCkSW1UI2"
+    },
+    {
+      "added_at": "2022-05-10 02:03:57",
+      "album": {
+        "name": "Vida Loca",
+        "url": "https://open.spotify.com/album/11lYdxQdsgkvKfDjX0nTHa"
+      },
+      "artists": [
+        {
+          "name": "Francisco C\u00e9spedes",
+          "url": "https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8"
+        }
+      ],
+      "duration_ms": 250146,
+      "name": "Remolino",
+      "url": "https://open.spotify.com/track/0ACbLwjYUehkGVVFYKPYNQ"
     },
     {
       "added_at": "2021-05-21 05:04:59",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3GFRsPDpwq.md) - [plain]
 
 > This is Rkive of RM\. Indigo\. 💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,498 likes - 31 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,401 likes - 31 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

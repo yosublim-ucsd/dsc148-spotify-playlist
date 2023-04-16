@@ -1,12 +1,12 @@
 {
   "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided. Cover: Charley Pride",
-  "num_followers": 242619,
+  "num_followers": 242928,
   "original_name": "70s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMDJmYWM5MDJiZjc4MTA2MjkwZTE1ODllZDU5MjczYzQx",
+  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMDQwNDRjM2YwYTRmMDFiNDMxNGM2N2E4NmFhYjMyOTE2",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -947,18 +947,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "George Jones - 16 Biggest Hits",
-        "url": "https://open.spotify.com/album/7poo7LkjfXMcKLK8lAkD1p"
+        "name": "Rocky Mountain Music",
+        "url": "https://open.spotify.com/album/56zMmCEznU5HuK0DW214oI"
       },
       "artists": [
         {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+          "name": "Eddie Rabbitt",
+          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
         }
       ],
-      "duration_ms": 187373,
-      "name": "The Grand Tour",
-      "url": "https://open.spotify.com/track/5lXX4SAV6HBaVnZ6sUQPNE"
+      "duration_ms": 142773,
+      "name": "Two Dollars in the Jukebox - 2008 Remaster",
+      "url": "https://open.spotify.com/track/7ueyVuff3whBxbmoanlg4C"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "George Jones - 16 Biggest Hits",
+        "url": "https://open.spotify.com/album/7poo7LkjfXMcKLK8lAkD1p"
+      },
+      "artists": [
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        }
+      ],
+      "duration_ms": 187373,
+      "name": "The Grand Tour",
+      "url": "https://open.spotify.com/track/5lXX4SAV6HBaVnZ6sUQPNE"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "The Essential Johnny Duncan",
         "url": "https://open.spotify.com/album/3BagFmNBhlXOOtCoaZ4iMk"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 189786,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/3OBmAls7qBqUb6A9kZimw3"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "The Best Of Billy Swan",
-        "url": "https://open.spotify.com/album/5fjc7x9genFjAynvs3g1oi"
-      },
-      "artists": [
-        {
-          "name": "Billy Swan",
-          "url": "https://open.spotify.com/artist/6nNkKMkPl1qBCEW3Al9eVV"
-        }
-      ],
-      "duration_ms": 238333,
-      "name": "I Can Help",
-      "url": "https://open.spotify.com/track/4oW1lGOw5Q5OLvoJv92qoE"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Rocky Mountain Music",
-        "url": "https://open.spotify.com/album/56zMmCEznU5HuK0DW214oI"
+        "name": "The Best Of Billy Swan",
+        "url": "https://open.spotify.com/album/5fjc7x9genFjAynvs3g1oi"
       },
       "artists": [
         {
-          "name": "Eddie Rabbitt",
-          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
+          "name": "Billy Swan",
+          "url": "https://open.spotify.com/artist/6nNkKMkPl1qBCEW3Al9eVV"
         }
       ],
-      "duration_ms": 142773,
-      "name": "Two Dollars in the Jukebox - 2008 Remaster",
-      "url": "https://open.spotify.com/track/7ueyVuff3whBxbmoanlg4C"
+      "duration_ms": 238333,
+      "name": "I Can Help",
+      "url": "https://open.spotify.com/track/4oW1lGOw5Q5OLvoJv92qoE"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Winners",
-        "url": "https://open.spotify.com/album/34zkdmEjQSzOIZETGtE56f"
+        "name": "Charlie Rich - 16 Biggest Hits",
+        "url": "https://open.spotify.com/album/3kN2WdUo9AGwDcgcMKZ1ib"
       },
       "artists": [
         {
-          "name": "Donna Fargo",
-          "url": "https://open.spotify.com/artist/4tIQ6BeFRvYApoAyJmaeVC"
+          "name": "Charlie Rich",
+          "url": "https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz"
         }
       ],
-      "duration_ms": 151306,
-      "name": "The Happiest Girl In The Whole U.S.A.",
-      "url": "https://open.spotify.com/track/60ut42dYikYXfCZQcvVXYV"
+      "duration_ms": 162866,
+      "name": "The Most Beautiful Girl",
+      "url": "https://open.spotify.com/track/5kXmiepRVuKhhz0SxyCVeL"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1227,22 +1227,6 @@
       "duration_ms": 166360,
       "name": "Funny Face",
       "url": "https://open.spotify.com/track/27145diX1C7BE6m6FzONqb"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Charlie Rich - 16 Biggest Hits",
-        "url": "https://open.spotify.com/album/3kN2WdUo9AGwDcgcMKZ1ib"
-      },
-      "artists": [
-        {
-          "name": "Charlie Rich",
-          "url": "https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz"
-        }
-      ],
-      "duration_ms": 162866,
-      "name": "The Most Beautiful Girl",
-      "url": "https://open.spotify.com/track/5kXmiepRVuKhhz0SxyCVeL"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1311,6 +1295,22 @@
       "duration_ms": 186333,
       "name": "Two More Bottles of Wine - 2003 Remaster",
       "url": "https://open.spotify.com/track/62buMnGJ9bLrZAV03fGjYc"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Winners",
+        "url": "https://open.spotify.com/album/34zkdmEjQSzOIZETGtE56f"
+      },
+      "artists": [
+        {
+          "name": "Donna Fargo",
+          "url": "https://open.spotify.com/artist/4tIQ6BeFRvYApoAyJmaeVC"
+        }
+      ],
+      "duration_ms": 151306,
+      "name": "The Happiest Girl In The Whole U.S.A.",
+      "url": "https://open.spotify.com/track/60ut42dYikYXfCZQcvVXYV"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Anniversary (Ten Years Of Hits)",
-        "url": "https://open.spotify.com/album/03CmBZWedcwyCLKmypX5Lb"
-      },
-      "artists": [
-        {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
-        }
-      ],
-      "duration_ms": 138800,
-      "name": "Her Name Is...",
-      "url": "https://open.spotify.com/track/6v3ozeTaUGr5Wwmya1Xhg0"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Phases And Stages",
         "url": "https://open.spotify.com/album/2UUGvJBpRoOQFwDLtq8KCP"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 168933,
       "name": "Bloody Mary Morning",
       "url": "https://open.spotify.com/track/5paRS95sOPkOVQlmUIUF4B"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Anniversary (Ten Years Of Hits)",
+        "url": "https://open.spotify.com/album/03CmBZWedcwyCLKmypX5Lb"
+      },
+      "artists": [
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        }
+      ],
+      "duration_ms": 138800,
+      "name": "Her Name Is...",
+      "url": "https://open.spotify.com/track/6v3ozeTaUGr5Wwmya1Xhg0"
     },
     {
       "added_at": "2023-02-24 05:00:00",

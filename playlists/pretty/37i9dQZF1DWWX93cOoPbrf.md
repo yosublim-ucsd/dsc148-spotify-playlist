@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2023\. Oscar Ortíz & Oscar Maydon en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,192 likes - 74 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,750 likes - 74 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 28 | [El Corrido de Ponchon](https://open.spotify.com/track/5sDtSKnv9NKN6jezClTHyJ) | [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM), [Banda Punto Medio](https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP) | [El Corrido de Ponchon](https://open.spotify.com/album/5XMBy8MdV951PBabLJ7gCt) | 3:17 |
 | 29 | [El Azul](https://open.spotify.com/track/1haJsMtoBhHfvuM7XWuT3W) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [El Azul](https://open.spotify.com/album/2szyIt0ulaHnKxxyrlUCDB) | 3:07 |
 | 30 | [Sin Rencores](https://open.spotify.com/track/3zteaSRVNGnb64nYdNESgw) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Sin Rencores](https://open.spotify.com/album/3t9mSoc9znrVKsUBUyMCW5) | 2:28 |
-| 31 | [Los 5 Pesos](https://open.spotify.com/track/2rv7odMbWI4Hn9h3COlMUA) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [No Ando Solo](https://open.spotify.com/album/4r2CQPM8TknOs9XI2iMYx0) | 4:05 |
+| 31 | [Los 5 Pesos](https://open.spotify.com/track/2rv7odMbWI4Hn9h3COlMUA) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Adrian Chaparro](https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl) | [No Ando Solo](https://open.spotify.com/album/4r2CQPM8TknOs9XI2iMYx0) | 4:05 |
 | 32 | [El Dos Sierras \( En Vivo\)](https://open.spotify.com/track/5QZDybP1fSbjHzp3gaWKk1) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [En Vivo De Culiacan](https://open.spotify.com/album/7aLvfvDELF2hdwC6iTKjCM) | 2:38 |
 | 33 | [El Gavilan](https://open.spotify.com/track/0lEQnz93VXhVF6HbvJXz2i) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Gavilan](https://open.spotify.com/album/0Cu8nEVSknHly3symzeUzW) | 3:20 |
 | 34 | [El Zorro](https://open.spotify.com/track/5U1bP3nRulk7egjqWQSkNA) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Varones de Culiacan](https://open.spotify.com/artist/3Bz4vStA4p6jwPXL6SDZ9d) | [El Zorro](https://open.spotify.com/album/4HMkP0BVe9AzwYsMJX7SSZ) | 3:59 |

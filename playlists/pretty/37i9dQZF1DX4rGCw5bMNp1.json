@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the electric, amplified sound that is Chicago Blues.\u00a0",
-  "num_followers": 124828,
+  "num_followers": 124866,
   "original_name": "Chicago Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTcyOCwwMDAwMDAwMDlhNGM4ZDk0ZmJkMjUyNGZhMmE3MGU4ZTIxMzYwZmJm",
+  "snapshot_id": "MTY0ODQ5OTcyOCwwMDAwMDAwMDU2YTJkYWE2ZWNhMzI4MTBiMDRiNDdmOGU2MDUxZDdl",
   "tracks": [
     {
       "added_at": "2016-03-21 20:31:35",
@@ -345,22 +345,6 @@
       "url": "https://open.spotify.com/track/5ZUxxja3WzBZUFF6P9M9HN"
     },
     {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
-        "name": "Shake My Hand",
-        "url": "https://open.spotify.com/album/0FqH7CwavZR5SGVq76HCPm"
-      },
-      "artists": [
-        {
-          "name": "Snooky Pryor",
-          "url": "https://open.spotify.com/artist/2mGsLcgVJSfpUTgrMuPxt3"
-        }
-      ],
-      "duration_ms": 258399,
-      "name": "Work With Me Annie",
-      "url": "https://open.spotify.com/track/75ZXx6ysguj5afBRtZ8tGR"
-    },
-    {
       "added_at": "2016-03-21 20:31:35",
       "album": {
         "name": "Masters Of Modern Blues",
@@ -375,6 +359,22 @@
       "duration_ms": 217120,
       "name": "Dark Road",
       "url": "https://open.spotify.com/track/4v9Q6IItjISJFNXvFYtSWo"
+    },
+    {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
+        "name": "Shake My Hand",
+        "url": "https://open.spotify.com/album/0FqH7CwavZR5SGVq76HCPm"
+      },
+      "artists": [
+        {
+          "name": "Snooky Pryor",
+          "url": "https://open.spotify.com/artist/2mGsLcgVJSfpUTgrMuPxt3"
+        }
+      ],
+      "duration_ms": 258399,
+      "name": "Work With Me Annie",
+      "url": "https://open.spotify.com/track/75ZXx6ysguj5afBRtZ8tGR"
     },
     {
       "added_at": "2016-03-21 20:31:35",

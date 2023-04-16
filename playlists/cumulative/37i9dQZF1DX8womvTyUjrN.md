@@ -4,7 +4,7 @@
 
 > Fresh Latin pop on the rise\. Cover: Mariangela
 
-360 songs - 18 hr 17 min
+361 songs - 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,7 @@
 | [La Única \- Sprite Limelight](https://open.spotify.com/track/1VAYxguLGwy4NpnLMSh8R9) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [La Única \(Sprite Limelight\)](https://open.spotify.com/album/7MUPz6QaXyT6CBZCHoQcjX) | 2:29 | 2022-10-07 | 2022-12-31 |
 | [LACONE](https://open.spotify.com/track/4Rjq1TZbF0bDstOs6SiI6J) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [LACONE](https://open.spotify.com/album/05nsQTXQ0rPJbqnW4uOxx2) | 4:20 | 2022-11-25 | 2022-12-24 |
 | [Laguna](https://open.spotify.com/track/1IXlvfEQyufn2NehDTUmdA) | [Rouss](https://open.spotify.com/artist/3Xa0w2RUuQw38J199xgj2A), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Laguna](https://open.spotify.com/album/69GY4foDKPwFg8yTYY2fMS) | 3:42 | 2023-03-24 | 2023-04-15 |
-| [Legendaria](https://open.spotify.com/track/5bARvxCD7HTJXsBLN7UhbZ) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Legendaria](https://open.spotify.com/album/3pf7QneuFzJcgTPLVLXaBW) | 2:59 | 2023-02-24 |  |
+| [Legendaria](https://open.spotify.com/track/5bARvxCD7HTJXsBLN7UhbZ) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Legendaria](https://open.spotify.com/album/3pf7QneuFzJcgTPLVLXaBW) | 2:59 | 2023-02-24 | 2023-04-16 |
 | [Lenguaje Universal](https://open.spotify.com/track/7pwWmrmWNK1QBTypB8Fyit) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [Lenguaje Universal](https://open.spotify.com/album/6hAmWesJ6RymjaRafBBpwO) | 3:00 | 2022-07-08 | 2022-10-29 |
 | [Llorar En La Ducha](https://open.spotify.com/track/1eXn4omRJkqVqUynAcp7dR) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Llorar En La Ducha](https://open.spotify.com/album/7vdPp2sx8qDWDKdQx9BA0O) | 3:15 | 2022-05-06 | 2022-07-29 |
 | [lo que hay x aquí](https://open.spotify.com/track/5IlLm20JXhKbMtsH20NblC) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [lo que hay x aquí](https://open.spotify.com/album/28MEC53zcdE731x6FX3Hsm) | 2:35 | 2023-03-10 |  |
@@ -292,6 +292,7 @@
 | [Refugio](https://open.spotify.com/track/5iGcOpA2ZVzmpi5gqjHQEA) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Refugio](https://open.spotify.com/album/0USsWJfpUn9FLFTy4TaImn) | 3:13 | 2022-04-01 | 2022-05-21 |
 | [Repeat](https://open.spotify.com/track/2J5zcuTUlhkh6gJU9QX5Jq) | [Keityn](https://open.spotify.com/artist/70gmCJBwFhY24cRxl4FqUu), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Repeat](https://open.spotify.com/album/2kTT871AcNMlWPPO6J7pWH) | 3:12 | 2022-03-21 | 2022-07-09 |
 | [Robot](https://open.spotify.com/track/5Dgbojt1HsytRAL3Vss7HI) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Robot](https://open.spotify.com/album/3elKRJXnVQT9ID2kNooi0P) | 2:22 | 2022-05-06 | 2022-08-09 |
+| [Rumores](https://open.spotify.com/track/3OUkQJY3YQ00HwD5GPuk7A) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Rumores](https://open.spotify.com/album/1NK0ocpcz8JpZfsdzNYJid) | 3:22 | 2023-04-14 |  |
 | [Rómpelo](https://open.spotify.com/track/5gofu3oR7kLRRuyoNZYCzO) | [Arkano](https://open.spotify.com/artist/5ACyfaynUH9FpBaR8uZprQ) | [Rómpelo](https://open.spotify.com/album/7BzLmkTSB6jHmV1HIHpk6K) | 3:06 | 2022-10-07 | 2022-12-10 |
 | [S.H.E.A](https://open.spotify.com/track/3gQm8QtxHR8pnMxykb1HHH) | [RBD](https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Maite Perroni](https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt), [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Christopher von Uckermann](https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo) | [S.H.E.A](https://open.spotify.com/album/6kc3mO2sDTCs77Gi7OLGYL) | 3:10 | 2023-02-24 |  |
 | [Salvavidas](https://open.spotify.com/track/5VQyB3R9Q6anjtf23J2TK7) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o) | [Salvavidas](https://open.spotify.com/album/5OGm96jxCkZDkQoKWJcfiK) | 3:22 | 2022-04-01 | 2022-05-07 |

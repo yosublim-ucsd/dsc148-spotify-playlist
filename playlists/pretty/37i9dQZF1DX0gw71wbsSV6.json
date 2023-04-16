@@ -1,12 +1,12 @@
 {
   "description": "\u5fd9\u3057\u304b\u3063\u305f1\u65e5\u306e\u7d42\u308f\u308a\u306f\u3001\u534a\u8eab\u6d74\u3068\u5fc3\u306b\u6c81\u307f\u308b\u97f3\u697d\u3067\u3086\u3063\u305f\u308a\u30ea\u30e9\u30c3\u30af\u30b9\u3002",
-  "num_followers": 43200,
+  "num_followers": 43215,
   "original_name": "\u534a\u8eab\u6d74\u30ce\u30b9\u30b9\u30e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTM5ODAwMCwwMDAwMDAwMDZjNWU2NmQwNmUwYWEwZjIxMTBmMmUyNTA1MjcwOGM5",
+  "snapshot_id": "MTY4MTM5ODAwMCwwMDAwMDAwMGNiNzg0NWE2YzJiNTc1N2I0MmYyYWMzYzAwMGNkZjEx",
   "tracks": [
     {
       "added_at": "2023-04-13 15:00:00",
@@ -279,26 +279,6 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
-        "name": "Butterflies (feat. AURORA)",
-        "url": "https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        },
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 130666,
-      "name": "Butterflies (feat. AURORA)",
-      "url": "https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z"
-    },
-    {
-      "added_at": "2023-04-13 15:00:00",
-      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 214866,
       "name": "Emily I'm Sorry",
       "url": "https://open.spotify.com/track/693xmBAOD4xwkS4W71W1Jn"
+    },
+    {
+      "added_at": "2023-04-13 15:00:00",
+      "album": {
+        "name": "Butterflies (feat. AURORA)",
+        "url": "https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        },
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 130666,
+      "name": "Butterflies (feat. AURORA)",
+      "url": "https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z"
     },
     {
       "added_at": "2023-04-13 15:00:00",
@@ -543,18 +543,22 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
-        "name": "Passing",
-        "url": "https://open.spotify.com/album/3oPVTRtA5zQKKSgBPlYpzG"
+        "name": "oh to be in love",
+        "url": "https://open.spotify.com/album/4Nd7dd1PVy1LZgfmnp2fa9"
       },
       "artists": [
         {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+          "name": "Stephanie Poetri",
+          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
         }
       ],
-      "duration_ms": 215013,
-      "name": "Shadow In The Storm",
-      "url": "https://open.spotify.com/track/5baV4ZFU0mhUVbrcZyv4FD"
+      "duration_ms": 222167,
+      "name": "Bad Haircut (feat. JVKE)",
+      "url": "https://open.spotify.com/track/0b8HcbULuUTZI07s1q7o4K"
     },
     {
       "added_at": "2023-04-13 15:00:00",
@@ -575,22 +579,18 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
-        "name": "oh to be in love",
-        "url": "https://open.spotify.com/album/4Nd7dd1PVy1LZgfmnp2fa9"
+        "name": "LOCATION - Los Angeles",
+        "url": "https://open.spotify.com/album/4gpuX2juCWTe8gWsBCznlp"
       },
       "artists": [
         {
-          "name": "Stephanie Poetri",
-          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
-        },
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+          "name": "Friday Night Plans",
+          "url": "https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ"
         }
       ],
-      "duration_ms": 222167,
-      "name": "Bad Haircut (feat. JVKE)",
-      "url": "https://open.spotify.com/track/0b8HcbULuUTZI07s1q7o4K"
+      "duration_ms": 176354,
+      "name": "Fall in love with you in every 4AM.",
+      "url": "https://open.spotify.com/track/2sXQnT404FrXeSEZkJXfKM"
     },
     {
       "added_at": "2023-04-13 15:00:00",
@@ -615,18 +615,18 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
-        "name": "LOCATION - Los Angeles",
-        "url": "https://open.spotify.com/album/4gpuX2juCWTe8gWsBCznlp"
+        "name": "Passing",
+        "url": "https://open.spotify.com/album/3oPVTRtA5zQKKSgBPlYpzG"
       },
       "artists": [
         {
-          "name": "Friday Night Plans",
-          "url": "https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ"
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
         }
       ],
-      "duration_ms": 176354,
-      "name": "Fall in love with you in every 4AM.",
-      "url": "https://open.spotify.com/track/2sXQnT404FrXeSEZkJXfKM"
+      "duration_ms": 215013,
+      "name": "Shadow In The Storm",
+      "url": "https://open.spotify.com/track/5baV4ZFU0mhUVbrcZyv4FD"
     },
     {
       "added_at": "2023-04-13 15:00:00",
@@ -679,18 +679,18 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
-        "name": "How To Drive",
-        "url": "https://open.spotify.com/album/6ztNIufAkZjQ7aadvJdTN0"
+        "name": "apart",
+        "url": "https://open.spotify.com/album/4L00KfJ0AfJ0lUEUNW0AGr"
       },
       "artists": [
         {
-          "name": "Alexander 23",
-          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
         }
       ],
-      "duration_ms": 219824,
-      "name": "How To Drive",
-      "url": "https://open.spotify.com/track/4memBjRe8ZXDJha8grYdRm"
+      "duration_ms": 176166,
+      "name": "apart",
+      "url": "https://open.spotify.com/track/0xXsJc6dz9YT4NMRnNAiry"
     },
     {
       "added_at": "2023-04-13 15:00:00",
@@ -715,18 +715,18 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
-        "name": "apart",
-        "url": "https://open.spotify.com/album/4L00KfJ0AfJ0lUEUNW0AGr"
+        "name": "How To Drive",
+        "url": "https://open.spotify.com/album/6ztNIufAkZjQ7aadvJdTN0"
       },
       "artists": [
         {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+          "name": "Alexander 23",
+          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
         }
       ],
-      "duration_ms": 176166,
-      "name": "apart",
-      "url": "https://open.spotify.com/track/0xXsJc6dz9YT4NMRnNAiry"
+      "duration_ms": 219824,
+      "name": "How To Drive",
+      "url": "https://open.spotify.com/track/4memBjRe8ZXDJha8grYdRm"
     },
     {
       "added_at": "2023-04-13 15:00:00",

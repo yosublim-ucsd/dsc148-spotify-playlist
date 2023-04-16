@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2jmeFyIwFPhhxgjAAJJIrU">Leland</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 859 likes - 146 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 863 likes - 146 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 29 | [Animal](https://open.spotify.com/track/6iBPeFlk4DLJ4HfRfZ2J7H) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Bloom](https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M) | 4:25 |
 | 30 | [What A Heavenly Way To Die](https://open.spotify.com/track/1Dfzjb9aFxgSFM0vnNTDPr) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Bloom](https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M) | 3:07 |
 | 31 | [Paris](https://open.spotify.com/track/359HNzfOXhCMHB1pNKhyfH) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Singular Act I](https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK) | 3:38 |
-| 32 | [Paper Love](https://open.spotify.com/track/59HRIFXMIkjsYF0Ji2MlKA) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [CollXtion II](https://open.spotify.com/album/12ty08Y0h6TtP469jEtJ9S) | 3:16 |
-| 33 | [CHARGER \(ft\. Charli XCX\)](https://open.spotify.com/track/3InNdtWYQV1Wx81qST5rU1) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [ELIO and Friends : The Remixes](https://open.spotify.com/album/1O1b6rtBC1KVjqAt6grw96) | 2:27 |
+| 32 | [CHARGER \(ft\. Charli XCX\)](https://open.spotify.com/track/3InNdtWYQV1Wx81qST5rU1) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [ELIO and Friends : The Remixes](https://open.spotify.com/album/1O1b6rtBC1KVjqAt6grw96) | 2:27 |
+| 33 | [Paper Love](https://open.spotify.com/track/59HRIFXMIkjsYF0Ji2MlKA) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [CollXtion II](https://open.spotify.com/album/12ty08Y0h6TtP469jEtJ9S) | 3:16 |
 | 34 | [Plum](https://open.spotify.com/track/0EftP1nY8Mklt77hAMMMug) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Bloom](https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M) | 3:05 |
 | 35 | [IN A DREAM](https://open.spotify.com/track/2Cxz0VrxP96Oo9pWZxxNsd) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [In A Dream \(Bonus Track Version\)](https://open.spotify.com/album/66M3ZXJLIgROFqMla74reu) | 3:49 |
 | 36 | [Kings & Queens, Pt\. 2 \(feat\. Lauv & Saweetie\)](https://open.spotify.com/track/5rB5mfeFCkUI3nkHQMMZ3K) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Kings & Queens, Pt\. 2 \(feat\. Lauv & Saweetie\)](https://open.spotify.com/album/2kzL3gkr5jufUyowwonTlf) | 2:55 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 47 | [You Know What I Need](https://open.spotify.com/track/5PQFmB2xhRkJTUWDKccBoP) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [You Know What I Need](https://open.spotify.com/album/0kktnSnWwAcdS0PQGAEcSM) | 2:50 |
 | 48 | [Ugly](https://open.spotify.com/track/28RluRGmXQFTG2oSgFtR5u) | [Jaira Burns](https://open.spotify.com/artist/0tRFWXqKBBQcu5oFVOgVzX) | [Ugly](https://open.spotify.com/album/2g0mf8XRHOMpGcTeyMGJpE) | 3:21 |
 | 49 | [Daze Inn](https://open.spotify.com/track/20L6erw0ny2hiwQg8c1Dj4) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Daze Inn](https://open.spotify.com/album/3BFa8OzNBHwnCWEOKts7r8) | 2:38 |
-| 50 | [Cool](https://open.spotify.com/track/0pJObmIY6LQTvZEuE6MLa2) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/3NoYyHEGIa8as1c0cisZAt) | 3:34 |
-| 51 | [Trouble \- from ‘Three Months’](https://open.spotify.com/track/4lM46UnoFn4FP074aYWGxS) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Trouble \(from ‘Three Months’\)](https://open.spotify.com/album/4CVZnoqlaAEqSX6c1QQUI8) | 3:23 |
+| 50 | [Trouble \- from ‘Three Months’](https://open.spotify.com/track/4lM46UnoFn4FP074aYWGxS) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Trouble \(from ‘Three Months’\)](https://open.spotify.com/album/4CVZnoqlaAEqSX6c1QQUI8) | 3:23 |
+| 51 | [Cool](https://open.spotify.com/track/0pJObmIY6LQTvZEuE6MLa2) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/3NoYyHEGIa8as1c0cisZAt) | 3:34 |
 | 52 | [That's So Us](https://open.spotify.com/track/78zZRIyZ49Vrg4JepCN9Sm) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [CollXtion II](https://open.spotify.com/album/12ty08Y0h6TtP469jEtJ9S) | 3:34 |
 | 53 | [Revelation](https://open.spotify.com/track/7sUJolVaoEBoP4l4qHiQSe) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y) | [Boy Erased \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3QSiPewI3wL9NU4znGgrw5) | 3:51 |
 | 54 | [I Can't Stop Me](https://open.spotify.com/track/1AVVv4FgNLxQlV64j7dfP1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Singular Act II](https://open.spotify.com/album/19KilSbbeHRFFZM7ChwTdP) | 3:42 |
@@ -155,4 +155,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 145 | [Euphoria](https://open.spotify.com/track/1nXyc1QOTa5Rnhg5udF0vr) | [Christopher Goulstone](https://open.spotify.com/artist/6A6hCC07Ix0YCGFfENcWYI), [Neil Taylor](https://open.spotify.com/artist/3th0fmbYOynihCppJzNJLM) | [Rock Highway Dreams](https://open.spotify.com/album/5c4U5JArDApW4JUyEEk3Tz) | 3:26 |
 | 146 | [I'm a Rapper](https://open.spotify.com/track/3Pt8mRiKVgnun7ULVmKTLB) | [Pfool](https://open.spotify.com/artist/4yNdC9T7fkyn8yB1E8cTLY) | [Ultimate Hottest Hits 2013, Vol\. 6 \(The Best of the Teenies\)](https://open.spotify.com/album/5PtK4h7lKH3ittcrWu7hqi) | 2:55 |
 
-Snapshot ID: `MjgwMjUyOTEsMDAwMDAwMDBjNTM4NWRmYmIwYTBiYzRmMzA4ODU5NmY5NjRhMmIyYQ==`
+Snapshot ID: `MjgwMjY3MzEsMDAwMDAwMDBhYWIwY2IxNTAxNzNkZmUzMWFkOTRjOGU2NDdmODVhOA==`

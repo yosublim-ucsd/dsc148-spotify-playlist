@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-467 songs - 18 hr 17 min
+469 songs - 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,8 @@
 | [INCOMING](https://open.spotify.com/track/4h3KlpOEXS6FxIpab6EKlf) | [MC ORSEN](https://open.spotify.com/artist/2DXPtOc14uPVvK7qggj2a3) | [INCOMING](https://open.spotify.com/album/4ASsNh1WHAjrGKh5jp0Q4F) | 2:20 | 2022-05-13 |  |
 | [Insomnia](https://open.spotify.com/track/2Vp6rFLNuJp8ZOFPbuuGC5) | [Save Haku](https://open.spotify.com/artist/2K30tfm9DyDVeW7n3eXGza) | [Insomnia](https://open.spotify.com/album/72HSK8QUAUQN8cL9JINOp4) | 2:27 | 2021-08-27 | 2022-06-04 |
 | [Japan](https://open.spotify.com/track/39QSBh0Oz2OsnjAtjCQ3JH) | [Tokyomane](https://open.spotify.com/artist/2GaIPa6dUUQBlVNYeEF6PH) | [Japan](https://open.spotify.com/album/0nlmIPxCvBNODxnr5hk8gG) | 1:43 | 2021-10-15 | 2022-05-14 |
-| [JUDAS](https://open.spotify.com/track/2fDvxV1N7SxQYbWNrN7YJl) | [SAY3AM](https://open.spotify.com/artist/3UxUktdCJsomjKqozWDWSu) | [JUDAS](https://open.spotify.com/album/3bhcjWFGnBUqvrHmNr5e6c) | 1:57 | 2023-03-10 |  |
+| [JUDAS](https://open.spotify.com/track/2kW9lB6yMbpsEUKaKP1nR6) | [Liodré](https://open.spotify.com/artist/1iFnL18VjckiZ512wVFapI), [unxbected](https://open.spotify.com/artist/5Jv8vC2RoInNR3CsxANXhS), [Ayparia](https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r) | [JUDAS](https://open.spotify.com/album/0QyVIrggMGABwjt79ICTdd) | 1:57 | 2023-03-10 |  |
+| [JUDAS](https://open.spotify.com/track/2fDvxV1N7SxQYbWNrN7YJl) | [SAY3AM](https://open.spotify.com/artist/3UxUktdCJsomjKqozWDWSu) | [JUDAS](https://open.spotify.com/album/3bhcjWFGnBUqvrHmNr5e6c) | 1:57 | 2023-03-10 | 2023-04-16 |
 | [JUDGMENT NIGHT](https://open.spotify.com/track/592KrQGd2ihwyIfksRX9Hr) | [HIDEOUS MORBID](https://open.spotify.com/artist/7G5D01HWj1IELY5nfLQrw6), [SEAVYSIDE](https://open.spotify.com/artist/56FAG6y84ERB6txYCDE7Le), [D4C](https://open.spotify.com/artist/03dgMbqosvNOQzxyfqALkq) | [JUDGMENT NIGHT](https://open.spotify.com/album/6oqbQ9wSFostzYLec3MdXA) | 1:30 | 2022-07-29 | 2022-09-10 |
 | [Jumpin' In Da Truck](https://open.spotify.com/track/2ijPvqzTcd1lxBgca2xo83) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7), [BLXCKBUSTA](https://open.spotify.com/artist/2iXMIbkem6Ca1oq3Jgjgfs) | [Loco Killas](https://open.spotify.com/album/0y0BWoT33n1KjfBYHASKzE) | 2:40 | 2021-11-12 | 2022-05-21 |
 | [Keraunos](https://open.spotify.com/track/5ZKyj00XSlmEoKnDGH4JZa) | [PlayaPhonk](https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D) | [Keraunos](https://open.spotify.com/album/4NlCk3xPB0LE5Ab9UwSK7A) | 2:24 | 2021-05-12 |  |
@@ -463,7 +464,8 @@
 | [workin!](https://open.spotify.com/track/0jBkbsLEtptevgLk9mW66w) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [workin!](https://open.spotify.com/album/26KtvOHkIvWHCJMs3LfZAr) | 1:30 | 2022-11-11 | 2023-02-18 |
 | [WORLD DOMINATION](https://open.spotify.com/track/3QWDRiyQMs5D5EGuCJvPAK) | [D4C](https://open.spotify.com/artist/03dgMbqosvNOQzxyfqALkq), [Skorde](https://open.spotify.com/artist/3voCipmmrW5uF4EMA6aSbj) | [WORLD DOMINATION](https://open.spotify.com/album/2Vz52Woqe59UtdUdGOlXyK) | 2:44 | 2023-03-10 | 2023-04-15 |
 | [WORLD DOMINATION](https://open.spotify.com/track/52qc54pAnhzEEoha8RziQ8) | [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8), [Pharmacist](https://open.spotify.com/artist/6VlPp1wb53ANKMIwZPJfM0) | [WORLD DOMINATION](https://open.spotify.com/album/0EwZh84BsSaWxG8H4alInK) | 1:37 | 2022-06-10 | 2022-07-16 |
-| [WORTH NOTHING \- Fast & Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [WORTH NOTHING \(Fast & Furious: Drift Tape/Phonk Vol 1\)](https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI) | 2:44 | 2022-10-28 |  |
+| [WORTH NOTHING \(feat\. Oliver Tree\) \- Fast & Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/65tX8MBdsnTiwy9UoIPHzr) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [WORTH NOTHING \(feat\. Oliver Tree\) \[Fast & Furious: Drift Tape/Vol 1\]](https://open.spotify.com/album/3iqdAcelKcHA5cdJXse2Gr) | 2:44 | 2022-10-28 |  |
+| [WORTH NOTHING \- Fast & Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [WORTH NOTHING \(Fast & Furious: Drift Tape/Phonk Vol 1\)](https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI) | 2:44 | 2022-10-28 | 2023-04-16 |
 | [WORTH NOTHING \- Instrumental](https://open.spotify.com/track/2nvFfiJKe7u9CPnDkumbsq) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG) | [WORTH NOTHING \(Instrumental\)](https://open.spotify.com/album/5ba7KbgbcCI9Z2yk5oxq5D) | 2:44 | 2022-10-14 | 2022-11-04 |
 | [WRAITH KING](https://open.spotify.com/track/2tC9rHGt3hmOxcGAQ7ic4m) | [D4C](https://open.spotify.com/artist/03dgMbqosvNOQzxyfqALkq), [HRXSTAL](https://open.spotify.com/artist/3TU2ypJAzSbPvuyH54Y8Xu) | [WRAITH KING](https://open.spotify.com/album/2wbbNCb0SoHCS34PFcfbys) | 2:03 | 2022-10-21 | 2022-12-06 |
 | [WRAITH KING](https://open.spotify.com/track/4bLMjT1Lv6OQPb3NXrCmL5) | [D4C](https://open.spotify.com/artist/03dgMbqosvNOQzxyfqALkq), [HRXSTAL](https://open.spotify.com/artist/3TU2ypJAzSbPvuyH54Y8Xu) | [WRAITH KING](https://open.spotify.com/album/74VLq3GKaVXRH3uItAFqBT) | 2:03 | 2022-10-21 | 2023-01-21 |

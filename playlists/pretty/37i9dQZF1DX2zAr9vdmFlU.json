@@ -1,12 +1,12 @@
 {
   "description": "You bring the ingredients. We bring the flavor. Enjoy la cena!",
-  "num_followers": 378940,
+  "num_followers": 379141,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDdhZmVlODQwMGVkOWM4NzI0MTA4ODBlNWNmMGRmN2Jm",
+  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMGEwMTM3NzI1ZjIwZjQ5NzA1ZDkxNDBhZGUwMzNhMjIx",
   "tracks": [
     {
       "added_at": "2023-04-14 04:00:00",
@@ -731,18 +731,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Bailables",
-        "url": "https://open.spotify.com/album/2LXPajOlTfGvlm6jm1oFtW"
+        "name": "El Caudal",
+        "url": "https://open.spotify.com/album/57zjLKLycEw9ezNKgXBDtI"
       },
       "artists": [
         {
-          "name": "Feten Feten",
-          "url": "https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8"
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
         }
       ],
-      "duration_ms": 224133,
-      "name": "Chocolat (Swing)",
-      "url": "https://open.spotify.com/track/42gaDDxNCrQMkri7sQcqGq"
+      "duration_ms": 237619,
+      "name": "El Caudal",
+      "url": "https://open.spotify.com/track/3Eofn5MhdnUYozRhcxGYLN"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -763,18 +767,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Bienvenido a mi habitaci\u00f3n",
-        "url": "https://open.spotify.com/album/4nEsMSMUDN7x646cLbaXBp"
+        "name": "Bailables",
+        "url": "https://open.spotify.com/album/2LXPajOlTfGvlm6jm1oFtW"
       },
       "artists": [
         {
-          "name": "Georgina",
-          "url": "https://open.spotify.com/artist/71cjWNRukkIF8Ulh006x3b"
+          "name": "Feten Feten",
+          "url": "https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8"
         }
       ],
-      "duration_ms": 192007,
-      "name": "Bienvenido a mi habitaci\u00f3n",
-      "url": "https://open.spotify.com/track/4NtU5Yq5SqaIbGjpbPmXw7"
+      "duration_ms": 224133,
+      "name": "Chocolat (Swing)",
+      "url": "https://open.spotify.com/track/42gaDDxNCrQMkri7sQcqGq"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -791,6 +795,22 @@
       "duration_ms": 159790,
       "name": "Si Te Contara",
       "url": "https://open.spotify.com/track/4FZjsJCf0MO19udtVY4rfx"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Bienvenido a mi habitaci\u00f3n",
+        "url": "https://open.spotify.com/album/4nEsMSMUDN7x646cLbaXBp"
+      },
+      "artists": [
+        {
+          "name": "Georgina",
+          "url": "https://open.spotify.com/artist/71cjWNRukkIF8Ulh006x3b"
+        }
+      ],
+      "duration_ms": 192007,
+      "name": "Bienvenido a mi habitaci\u00f3n",
+      "url": "https://open.spotify.com/track/4NtU5Yq5SqaIbGjpbPmXw7"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -987,22 +1007,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Casa en el \u00e1rbol",
-        "url": "https://open.spotify.com/album/2Ra7SLmyFSACxeErw2eaYR"
-      },
-      "artists": [
-        {
-          "name": "Salom\u00f3n Beda",
-          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
-        }
-      ],
-      "duration_ms": 219807,
-      "name": "Casa en el \u00e1rbol",
-      "url": "https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Arturo Sandoval",
         "url": "https://open.spotify.com/album/3tsXNHsYyzPRneHlebjQtk"
       },
@@ -1027,6 +1031,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Casa en el \u00e1rbol",
+        "url": "https://open.spotify.com/album/2Ra7SLmyFSACxeErw2eaYR"
+      },
+      "artists": [
+        {
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
+        }
+      ],
+      "duration_ms": 219807,
+      "name": "Casa en el \u00e1rbol",
+      "url": "https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Pelo Negro",
         "url": "https://open.spotify.com/album/1aHrWZbOa31S3rBUA51muK"
       },
@@ -1047,22 +1067,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
-        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
-      },
-      "artists": [
-        {
-          "name": "La Marisoul",
-          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
-        }
-      ],
-      "duration_ms": 162986,
-      "name": "Un Telegrama",
-      "url": "https://open.spotify.com/track/0QfwW9zDu9glbBLMITa754"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Cookin' Gumbo",
         "url": "https://open.spotify.com/album/021DHyGZjaaAX37sopdmgH"
       },
@@ -1075,22 +1079,6 @@
       "duration_ms": 209672,
       "name": "Speakin' Nuyorican",
       "url": "https://open.spotify.com/track/26x75c32oXBl5fQMFAYptW"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "So\u00f1ar Contigo. Una Colecci\u00f3n de Sus Grandes Canciones",
-        "url": "https://open.spotify.com/album/2NsgXX7zdnsp3Ph6un8S08"
-      },
-      "artists": [
-        {
-          "name": "Zenet",
-          "url": "https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i"
-        }
-      ],
-      "duration_ms": 239800,
-      "name": "Quien Sabe",
-      "url": "https://open.spotify.com/track/2bhLqV1h7texAwg4uEhBIx"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1111,18 +1099,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Parrilladas Vargas",
-        "url": "https://open.spotify.com/album/7c7jxSHqMJo53KLPeCyBMR"
+        "name": "So\u00f1ar Contigo. Una Colecci\u00f3n de Sus Grandes Canciones",
+        "url": "https://open.spotify.com/album/2NsgXX7zdnsp3Ph6un8S08"
       },
       "artists": [
         {
-          "name": "Juanaf\u00e9",
-          "url": "https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d"
+          "name": "Zenet",
+          "url": "https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i"
         }
       ],
-      "duration_ms": 131897,
-      "name": "Una Piedra en el Cielo",
-      "url": "https://open.spotify.com/track/5lJurIvlMy2V1NiF6Wasxu"
+      "duration_ms": 239800,
+      "name": "Quien Sabe",
+      "url": "https://open.spotify.com/track/2bhLqV1h7texAwg4uEhBIx"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1139,6 +1127,38 @@
       "duration_ms": 240226,
       "name": "Electric Boogaloo",
       "url": "https://open.spotify.com/track/2uNlYmmvtJB0m3ZXhXsHKW"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
+        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
+      },
+      "artists": [
+        {
+          "name": "La Marisoul",
+          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
+        }
+      ],
+      "duration_ms": 162986,
+      "name": "Un Telegrama",
+      "url": "https://open.spotify.com/track/0QfwW9zDu9glbBLMITa754"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Parrilladas Vargas",
+        "url": "https://open.spotify.com/album/7c7jxSHqMJo53KLPeCyBMR"
+      },
+      "artists": [
+        {
+          "name": "Juanaf\u00e9",
+          "url": "https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d"
+        }
+      ],
+      "duration_ms": 131897,
+      "name": "Una Piedra en el Cielo",
+      "url": "https://open.spotify.com/track/5lJurIvlMy2V1NiF6Wasxu"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1207,6 +1227,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Malo Para M\u00ed",
+        "url": "https://open.spotify.com/album/7nCbqstWngWFUAbN210EKo"
+      },
+      "artists": [
+        {
+          "name": "Banana Leaf Boy",
+          "url": "https://open.spotify.com/artist/76fnNniEsJceBtSKOneZyY"
+        }
+      ],
+      "duration_ms": 282415,
+      "name": "Malo Para M\u00ed",
+      "url": "https://open.spotify.com/track/0Sa0Y9ypKrbad4pweUUfC1"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Guajira",
         "url": "https://open.spotify.com/album/4S06ERzg9mgSwWlfyZdO2V"
       },
@@ -1223,22 +1259,6 @@
       "duration_ms": 210461,
       "name": "Guajira",
       "url": "https://open.spotify.com/track/4HMLjIO0JWKskd4OcO66re"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Malo Para M\u00ed",
-        "url": "https://open.spotify.com/album/7nCbqstWngWFUAbN210EKo"
-      },
-      "artists": [
-        {
-          "name": "Banana Leaf Boy",
-          "url": "https://open.spotify.com/artist/76fnNniEsJceBtSKOneZyY"
-        }
-      ],
-      "duration_ms": 282415,
-      "name": "Malo Para M\u00ed",
-      "url": "https://open.spotify.com/track/0Sa0Y9ypKrbad4pweUUfC1"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1395,22 +1415,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Atacama!",
-        "url": "https://open.spotify.com/album/6q0GpmH0bkdDuUvTd8leOf"
-      },
-      "artists": [
-        {
-          "name": "Alessio Arena",
-          "url": "https://open.spotify.com/artist/4Am44NfcHNR70bBt9j1Kqc"
-        }
-      ],
-      "duration_ms": 251830,
-      "name": "El hombre que quiso ser canci\u00f3n",
-      "url": "https://open.spotify.com/track/30hpm4A4rtS0qNzt1vh5Ct"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Calentura: Toque (Captain Planet Remixes)",
         "url": "https://open.spotify.com/album/3mBNM16s2Nq2hfPNkhHSpz"
       },
@@ -1435,6 +1439,26 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Espantap\u00e1jaros",
+        "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "La Perla",
+          "url": "https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Espantap\u00e1jaros",
+      "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Songs From The Tin",
         "url": "https://open.spotify.com/album/0zhr7bMdhtlQioU1qDklVl"
       },
@@ -1447,6 +1471,22 @@
       "duration_ms": 373133,
       "name": "Pra Manha",
       "url": "https://open.spotify.com/track/0rvFckXmDJA6XjH1k26OZq"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Atacama!",
+        "url": "https://open.spotify.com/album/6q0GpmH0bkdDuUvTd8leOf"
+      },
+      "artists": [
+        {
+          "name": "Alessio Arena",
+          "url": "https://open.spotify.com/artist/4Am44NfcHNR70bBt9j1Kqc"
+        }
+      ],
+      "duration_ms": 251830,
+      "name": "El hombre que quiso ser canci\u00f3n",
+      "url": "https://open.spotify.com/track/30hpm4A4rtS0qNzt1vh5Ct"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1559,6 +1599,22 @@
       "duration_ms": 224826,
       "name": "Donde Est\u00e1",
       "url": "https://open.spotify.com/track/0fjCKNenDu2DBaMcIp3rXS"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Caminando por Quisqueya",
+        "url": "https://open.spotify.com/album/1z6vx39dIoXCScxQ8c6xn4"
+      },
+      "artists": [
+        {
+          "name": "ChiChi Peralta",
+          "url": "https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou"
+        }
+      ],
+      "duration_ms": 360000,
+      "name": "Caminando por Quisqueya",
+      "url": "https://open.spotify.com/track/2avb4jaEXShHqfAF3yuKhX"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1711,58 +1767,6 @@
       "duration_ms": 231075,
       "name": "Canta Mundo",
       "url": "https://open.spotify.com/track/4KKu46t4zWtQPcM7NHzCvr"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "30 Horas",
-        "url": "https://open.spotify.com/album/1cuAp4nFmm9IHlcFtLHyw8"
-      },
-      "artists": [
-        {
-          "name": "Cuarta Pared",
-          "url": "https://open.spotify.com/artist/2hNk3m3EelZ8vnecBGhOqX"
-        }
-      ],
-      "duration_ms": 219268,
-      "name": "30 Horas",
-      "url": "https://open.spotify.com/track/0v1fyQIaCG4e3TwCO3F0VZ"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Caliventura Remixes",
-        "url": "https://open.spotify.com/album/23gAnvV6e81mxkSNxc5sUD"
-      },
-      "artists": [
-        {
-          "name": "Quantic and His Combo Barbaro",
-          "url": "https://open.spotify.com/artist/7zc5IwPnsT4IxqtsqVwcSN"
-        },
-        {
-          "name": "DJ Day",
-          "url": "https://open.spotify.com/artist/64nlNvqVtLkdY4x8Hhvq6T"
-        }
-      ],
-      "duration_ms": 300163,
-      "name": "Mas Pan - DJ Day Remix",
-      "url": "https://open.spotify.com/track/0inc22aCFp3gQvrC8LbDaf"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "The Carnival Samba",
-        "url": "https://open.spotify.com/album/2sK8QxfxxHE6ky4OVuXLsz"
-      },
-      "artists": [
-        {
-          "name": "Dave Pike",
-          "url": "https://open.spotify.com/artist/64Qwp26Lb2beXJzBs0qBpl"
-        }
-      ],
-      "duration_ms": 287293,
-      "name": "Cattin' Latin",
-      "url": "https://open.spotify.com/track/2U5ceAAb10OELgDJ8YVuxl"
     }
   ],
   "unique_name": "Latin Dinner",

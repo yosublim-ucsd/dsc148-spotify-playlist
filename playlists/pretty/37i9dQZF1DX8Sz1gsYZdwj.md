@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Sz1gsYZdwj.md) - [plain]
 
 > Drift off to these peaceful classical melodies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,228 likes - 68 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,334 likes - 68 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Sz1gsYZdwj.md) - [plain]
 | 52 | [Stoevsky](https://open.spotify.com/track/41s0GDVHUXD0F7uKLAdJFD) | [Ledetraad](https://open.spotify.com/artist/1oldJmiOiDyqjCwKYtm16E) | [Stoevsky](https://open.spotify.com/album/1XoVZDc6TPnu1OOAP5Wvjb) | 2:44 |
 | 53 | [Lawson: the color of the sky \- sleep rework](https://open.spotify.com/track/2YfZhXTjnsNOXfSeVZdmqy) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [the color of the sky \(sleep rework\)](https://open.spotify.com/album/1Lv022YCTEYHI7B3lqLJ60) | 2:56 |
 | 54 | [Not Alone](https://open.spotify.com/track/51zxgx075eEXbFvg6xA2YM) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0) | [Love & Keep](https://open.spotify.com/album/0McAK4hAugkV6K9CfySKl7) | 2:36 |
-| 55 | [Winter](https://open.spotify.com/track/6k5iJy3uIEhaqZu9MCGCiq) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Seasons](https://open.spotify.com/album/5wXv0fuobRh6ZzrJvuHveh) | 3:08 |
+| 55 | [Gjeilo: Winter](https://open.spotify.com/track/6k5iJy3uIEhaqZu9MCGCiq) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Seasons](https://open.spotify.com/album/5wXv0fuobRh6ZzrJvuHveh) | 3:08 |
 | 56 | [Near \(Piano Rework\)](https://open.spotify.com/track/4DjYi5buWGphomdB4BjJDd) | [Liam Phan](https://open.spotify.com/artist/4HIb6xhqfXDro0hkpwILwR) | [Near \(Piano Rework\)](https://open.spotify.com/album/4u37FT4IaZyWhzDNnnpzvn) | 2:50 |
 | 57 | [Due tramonti](https://open.spotify.com/track/1Zv6RyHM08gyC4qvOlCZUL) | [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp) | [Passaggio](https://open.spotify.com/album/7FLcizCIuoOOTEKUZlrANJ) | 4:27 |
 | 58 | [Infinity](https://open.spotify.com/track/2FR3mH7DwsaX3TcObkUEX3) | [Rosey Chan](https://open.spotify.com/artist/1u8TRAmMBFoaqor9uJyyXR) | [Sonic Apothecary](https://open.spotify.com/album/0xngclE7lI1lFO3Fu9Kzcb) | 7:28 |

@@ -4,7 +4,7 @@
 
 > La carica giusta per i tuoi allenamenti!
 
-159 songs - 8 hr 50 min
+160 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Allenamento \#2](https://open.spotify.com/track/3RsSxNSorUqe9K4qEGTlGC) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [AVA](https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr) | [Allenamento \#2](https://open.spotify.com/album/7JhrhjpQtkrAeABlv4eQFT) | 2:31 | 2022-05-03 | 2022-07-28 |
 | [Allenamento \#4](https://open.spotify.com/track/3TzSpxjKOnmVrtNOhtK8mx) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [PLAZA](https://open.spotify.com/album/5tKxGn7nxBF5qLW6cpwVT8) | 2:50 | 2022-05-03 | 2022-07-29 |
 | [ALYX \(feat\. Capo Plaza\)](https://open.spotify.com/track/39XG4fTadjyZtPYybMqvZA) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [J](https://open.spotify.com/album/5cmbVE8sridz5LqFNEAWwy) | 3:03 | 2022-05-03 | 2022-07-29 |
-| [Amici](https://open.spotify.com/track/7aVX95NjONZszSeb8vJZF3) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C), [Nic Sarno](https://open.spotify.com/artist/3PbxfXGwcCLn85zVQK1ulo) | [Scialla Semper](https://open.spotify.com/album/3fMHmtOJf2KK3HThKh9ZNX) | 3:00 | 2022-05-03 |  |
+| [Amici](https://open.spotify.com/track/7aVX95NjONZszSeb8vJZF3) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C), [Nic Sarno](https://open.spotify.com/artist/3PbxfXGwcCLn85zVQK1ulo) | [Scialla Semper](https://open.spotify.com/album/3fMHmtOJf2KK3HThKh9ZNX) | 3:00 | 2022-05-03 | 2023-04-16 |
 | [AMY \(feat\. Rkomi\)](https://open.spotify.com/track/4RmbBOcricHnqiCrkl3JuO) | [TY1](https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [DJUNGLE](https://open.spotify.com/album/3v8q233zGqlp3hW7BPC8K1) | 2:58 | 2022-05-03 | 2022-07-29 |
 | [Ante Up \(feat\. Busta Rhymes, Teflon & Remi Martin\) \- Remix](https://open.spotify.com/track/5osSw3tL07Tuid7AWsvYcc) | [M.O.P.](https://open.spotify.com/artist/1BH45DVSTeGBvcYXNCd67g), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Teflon](https://open.spotify.com/artist/7362Tj1IkoHp7oWveGTf51), [Remi Martin](https://open.spotify.com/artist/7MseR8aIHbFMXzMAkRPCZy) | [Warriorz](https://open.spotify.com/album/0mw0v424Ribwwrt0oMVB1j) | 4:07 | 2022-11-07 | 2022-11-13 |
 | [Auto tedesca](https://open.spotify.com/track/15aJdXtfq3w4ULVTDKQ2VK) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore](https://open.spotify.com/album/5YMLvb4ZjBfVwJMf6dTKRZ) | 2:39 | 2022-09-28 | 2023-03-12 |
@@ -67,6 +67,7 @@
 | [How We Do](https://open.spotify.com/track/4PmMVdIFpJTB9WQbmILf4p) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [The Documentary](https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8) | 3:55 | 2022-07-04 |  |
 | [HUMBLE\. \- SKRILLEX REMIX](https://open.spotify.com/track/65ES1qwOB577ZnTkizMXJJ) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [HUMBLE\. \(SKRILLEX REMIX\)](https://open.spotify.com/album/1X4aaOIXvs6gWtQZQpln4V) | 2:36 | 2022-07-04 |  |
 | [Hustlin'](https://open.spotify.com/track/3hQCHzkE5oSA3F1xM8bpcM) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Port Of Miami](https://open.spotify.com/album/42T8qfRs7jdpInsSk6nDJk) | 4:14 | 2022-07-04 |  |
+| [If I Can't](https://open.spotify.com/track/7JeKXMQKm6GoLGTkNy2jZ0) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 3:16 | 2023-03-23 |  |
 | [In Da Club](https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 3:13 | 2022-07-04 |  |
 | [Jungle](https://open.spotify.com/track/5KlQHwczFD9jrAGKxLaG4A) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Jungle](https://open.spotify.com/album/3QRv9ksvfXX8S2XrfXCuRU) | 3:04 | 2022-05-03 | 2022-07-29 |
 | [Keanu Reeves \(feat\. Achille Lauro\)](https://open.spotify.com/track/1MGXWglFoINJdrcp2W0U0w) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv) | [Davide](https://open.spotify.com/album/74H59wB5WUQJrF5d9bqxn8) | 3:29 | 2022-05-03 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > P fkn R\. Esto llega al choliiiii\. Cover: Myke Towers
 
-228 songs - 13 hr 5 min
+229 songs - 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [a veces duele la verdad](https://open.spotify.com/track/2r3ANDPpPJthzmySPDOxWo) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [relaciones tóxicas](https://open.spotify.com/album/6n24N0gjwRDi9Nz4hr6CWc) | 3:52 | 2022-05-25 | 2022-07-14 |
 | [ACTIVA](https://open.spotify.com/track/4HRoZdP8v2lXXotGF0KaGx) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [ACTIVA](https://open.spotify.com/album/2ka8EGLE24wDwF35eNo2lp) | 4:21 | 2022-12-07 | 2023-02-04 |
 | [Agradecido](https://open.spotify.com/track/5ig1NYGNOdSlSJBZi6UBtn) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Agradecido](https://open.spotify.com/album/63o74TKCHxHWlOGl84Q51e) | 3:31 | 2022-12-07 | 2023-02-04 |
-| [AGUARDIENTE](https://open.spotify.com/track/6jhB0WW148mVOX7VuV2ga0) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [AGUARDIENTE](https://open.spotify.com/album/1ox6fzQPXwDtsTg8EQrplp) | 2:47 | 2023-03-31 |  |
+| [AGUARDIENTE](https://open.spotify.com/track/3Z0l8qwMuC376pcutLVsY8) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 2:47 | 2023-03-31 |  |
+| [AGUARDIENTE](https://open.spotify.com/track/6jhB0WW148mVOX7VuV2ga0) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [AGUARDIENTE](https://open.spotify.com/album/1ox6fzQPXwDtsTg8EQrplp) | 2:47 | 2023-03-31 | 2023-04-16 |
 | [AL CAPONE](https://open.spotify.com/track/4igzqj5TrceDGrJcZYM0pl) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [AL CAPONE](https://open.spotify.com/album/3iYh7Zx5MpbgVttrY0JBaC) | 2:42 | 2022-05-25 | 2022-12-08 |
 | [algo así \(remix\)](https://open.spotify.com/track/0z0IEbMRvIEjj9Iif4doxD) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [algo así \(remix\)](https://open.spotify.com/album/38q60hmzuFy1xa8Dexc2eX) | 3:43 | 2022-12-07 | 2023-02-04 |
 | [AM Remix](https://open.spotify.com/track/05bfbizlM5AX6Mf1RRyMho) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [AM Remix](https://open.spotify.com/album/1jTRS4KS666BesH1GUHyEV) | 4:21 | 2022-05-25 | 2022-12-08 |

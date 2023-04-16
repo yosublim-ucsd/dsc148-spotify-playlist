@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZzONSkfC3K.md) - [plain]
 
 > Salsa que representa Puerto Rico\. Portada: El Gran Combo De Puerto Rico
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,934 likes - 50 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,995 likes - 50 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZzONSkfC3K.md) - [plain]
 | 31 | [La Luz](https://open.spotify.com/track/1nW7z9bBdVApMNrgvrqYMF) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [La Luz](https://open.spotify.com/album/0BCkK4DlEhdJtoYNzWLMb0) | 3:05 |
 | 32 | [Tengo Ganas](https://open.spotify.com/track/0gVmUkRX09cY5uNPSI74JC) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Historia De Un Sonero](https://open.spotify.com/album/1v1eJiZh9virmkSaMeMwi4) | 4:26 |
 | 33 | [Cambio de Piel](https://open.spotify.com/track/3AjxOdecZ2eKDL0aOtcYsJ) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [3.0](https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R) | 4:39 |
-| 34 | [Mi Ritmo Es Bueno](https://open.spotify.com/track/5hSGXZRFbpKLbxyBXRKoye) | [Bobby Valentin](https://open.spotify.com/artist/7nJ3uKCT4lPwDJSRZzBlss) | [Rey del Bajo](https://open.spotify.com/album/5I1FDwQtq5bG1QXcRJBsb6) | 5:46 |
-| 35 | [Cómo Lo Hacen](https://open.spotify.com/track/6pZuVdTpc09YFGEqlu2Npc) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Show](https://open.spotify.com/album/5J4RvXfRjXXSsFEfyPhr0E) | 5:09 |
+| 34 | [Cómo Lo Hacen](https://open.spotify.com/track/6pZuVdTpc09YFGEqlu2Npc) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Show](https://open.spotify.com/album/5J4RvXfRjXXSsFEfyPhr0E) | 5:09 |
+| 35 | [Mi Ritmo Es Bueno](https://open.spotify.com/track/5hSGXZRFbpKLbxyBXRKoye) | [Bobby Valentin](https://open.spotify.com/artist/7nJ3uKCT4lPwDJSRZzBlss) | [Rey del Bajo](https://open.spotify.com/album/5I1FDwQtq5bG1QXcRJBsb6) | 5:46 |
 | 36 | [Fabricando Fantasías \- Salsa Version](https://open.spotify.com/track/5giBWdb2pJwFl3avFUKGXj) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Oro Salsero](https://open.spotify.com/album/3ZdJph6HFGqyiyv80cC87S) | 4:34 |
 | 37 | [Que Se Sepa](https://open.spotify.com/track/2mNLwOxMnm0TxXJBF1y5Ln) | [Roberto Roena Y Su Apollo Sound](https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry) | [Apollo Sound 5](https://open.spotify.com/album/2wI2dJforjcPADfSye1yhS) | 3:16 |
 | 38 | [Fuego A La Jicotea](https://open.spotify.com/track/4Q0uMeNsbChj1IbETdMQZ7) | [Marvin Santiago](https://open.spotify.com/artist/76h2ycGFYaAFYQgqdoOvVE) | [Serie Sensacional: Marvin Santiago](https://open.spotify.com/album/12zr5m4jJdGQuRubJNeaGN) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZzONSkfC3K.md) - [plain]
 | 49 | [Tú Me Vuelves Loco](https://open.spotify.com/track/1OIfhmTXZWuKLibFKe5RFd) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Frankie Ruiz Gold](https://open.spotify.com/album/4I0GURNIly2aPl4KIqKDvU) | 4:55 |
 | 50 | [25 Rosas](https://open.spotify.com/track/7BxjRWadxvkrqxC0J3ZHxK) | [Paquito Guzman](https://open.spotify.com/artist/4JtUybFExZ5dbq3GyYwRE5) | [Serie Millennium 21: Paquito Guzman](https://open.spotify.com/album/5TU711ERq1aUbOGgj5Jlrn) | 4:39 |
 
-Snapshot ID: `MTY3OTAxNDI0MywwMDAwMDAwMDBmNjgwZTRjOWQ1MzRlNzA4MDUyOTJlZjliMzJiYThh`
+Snapshot ID: `MTY3OTAxNDI0MywwMDAwMDAwMDAzNTgxNzVlMjY3ODgxZDExMjIyMThlNDQ1MjI0MTM0`

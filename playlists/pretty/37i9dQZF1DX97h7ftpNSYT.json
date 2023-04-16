@@ -1,12 +1,12 @@
 {
   "description": "Taking it back to the 2010s. Cover: Nicki Minaj",
-  "num_followers": 137276,
+  "num_followers": 137353,
   "original_name": "I Love My 2010s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxOTYwMCwwMDAwMDAwMDI1OTJmMzE4ZWY3NTg2Nzk1MzhmNWM0ODk0YjIxZDg1",
+  "snapshot_id": "MTY3NzgxOTYwMCwwMDAwMDAwMDIwNTFhODIyZjk1YWUzOTVhYTcyZjgwZmVlYmNmNjcw",
   "tracks": [
     {
       "added_at": "2023-03-03 05:00:00",
@@ -211,22 +211,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Luv Is Rage 2",
-        "url": "https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 182706,
-      "name": "XO Tour Llif3",
-      "url": "https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Meet The Woo",
         "url": "https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 216386,
       "name": "Dior",
       "url": "https://open.spotify.com/track/79s5XnCN4TJKTVMSmOx8Ep"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Luv Is Rage 2",
+        "url": "https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 182706,
+      "name": "XO Tour Llif3",
+      "url": "https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1267,22 +1267,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Mr. Davis",
-        "url": "https://open.spotify.com/album/2aTOwGU66ocsf8IQpOI0XZ"
+        "name": "Taste (feat. Offset)",
+        "url": "https://open.spotify.com/album/0yd01cU78rnlFXq6vRxPSR"
       },
       "artists": [
         {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
         },
         {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
         }
       ],
-      "duration_ms": 233087,
-      "name": "I Get the Bag (feat. Migos)",
-      "url": "https://open.spotify.com/track/1XRgIKC5TPwo7nWGyKqgG0"
+      "duration_ms": 232959,
+      "name": "Taste (feat. Offset)",
+      "url": "https://open.spotify.com/track/5IaHrVsrferBYDm0bDyABy"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1303,22 +1303,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Taste (feat. Offset)",
-        "url": "https://open.spotify.com/album/0yd01cU78rnlFXq6vRxPSR"
+        "name": "Mr. Davis",
+        "url": "https://open.spotify.com/album/2aTOwGU66ocsf8IQpOI0XZ"
       },
       "artists": [
         {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
         },
         {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
         }
       ],
-      "duration_ms": 232959,
-      "name": "Taste (feat. Offset)",
-      "url": "https://open.spotify.com/track/5IaHrVsrferBYDm0bDyABy"
+      "duration_ms": 233087,
+      "name": "I Get the Bag (feat. Migos)",
+      "url": "https://open.spotify.com/track/1XRgIKC5TPwo7nWGyKqgG0"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Dying to Live",
-        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Calling My Spirit",
-      "url": "https://open.spotify.com/track/2MShy1GSSgbmGUxADNIao5"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Victory Lap",
         "url": "https://open.spotify.com/album/6rcbbhcm8Os7EiVRHP9Aef"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 175040,
       "name": "Grinding All My Life",
       "url": "https://open.spotify.com/track/3R9j8urSPiBbapNbyuSYkE"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Dying to Live",
+        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Calling My Spirit",
+      "url": "https://open.spotify.com/track/2MShy1GSSgbmGUxADNIao5"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
+        "name": "Feed Tha Streets II",
+        "url": "https://open.spotify.com/album/1jlIU9p7PChTK3AeqNpnsX"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 157656,
+      "name": "Die Young",
+      "url": "https://open.spotify.com/track/3wLtYwtqvKK2ewelSVPeDK"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
         "name": "Flower Boy",
         "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
       },
@@ -1747,22 +1763,6 @@
       "duration_ms": 205093,
       "name": "Who Dat Boy (feat. A$AP Rocky)",
       "url": "https://open.spotify.com/track/21yRtB6B8EMounImAfHRCP"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Feed Tha Streets II",
-        "url": "https://open.spotify.com/album/1jlIU9p7PChTK3AeqNpnsX"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 157656,
-      "name": "Die Young",
-      "url": "https://open.spotify.com/track/3wLtYwtqvKK2ewelSVPeDK"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1863,18 +1863,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Girl Code",
-        "url": "https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ"
+        "name": "beerbongs & bentleys",
+        "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
       },
       "artists": [
         {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 158332,
-      "name": "Act Up",
-      "url": "https://open.spotify.com/track/3A2yGHWIzmGEIolwonU69h"
+      "duration_ms": 206266,
+      "name": "Ball For Me (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/6IaieqiCVvsNvEt6Y7yOFa"
     }
   ],
   "unique_name": "I Love My 2010s Hip-Hop",

@@ -532,7 +532,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 113941,
       "name": "Casa de Miseric\u00f3rdia",
       "url": "https://open.spotify.com/track/0gEu711kUN1VYRleEe2n0p"
@@ -885,6 +885,32 @@
     },
     {
       "album": {
+        "name": "Dependo de Ti (Remix)",
+        "url": "https://open.spotify.com/album/45mod29sjkt5TH1VPubweA"
+      },
+      "artists": [
+        {
+          "name": "Lito Atalaia",
+          "url": "https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3"
+        },
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222472,
+      "name": "Dependo de Ti - Remix",
+      "url": "https://open.spotify.com/track/4Hop1Q65T8brZjw3c4DI0j"
+    },
+    {
+      "album": {
         "name": "Deserto",
         "url": "https://open.spotify.com/album/0MF14iNYICi1Lkn7yZYlZh"
       },
@@ -1224,7 +1250,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 165694,
       "name": "Emmanuel",
       "url": "https://open.spotify.com/track/5NXZYKGAqyFujV44E6dybJ"
@@ -1336,7 +1362,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 409279,
       "name": "Estou de P\u00e9 (feat. Wesley Camilo, Cl\u00e9ber Ao Cubo, Biorki, J\u00e9ssica Augusto & Andr\u00e9 Mota)",
       "url": "https://open.spotify.com/track/3IPxuo9l9RXUQlQundZFvM"
@@ -1736,6 +1762,32 @@
       "duration_ms": 224584,
       "name": "Gospel Playground",
       "url": "https://open.spotify.com/track/0Yq4ih2o7CdgP40g5Sqdic"
+    },
+    {
+      "album": {
+        "name": "Gratid\u00e3o",
+        "url": "https://open.spotify.com/album/1JRT4DoBWJhlMliUrE9Lqh"
+      },
+      "artists": [
+        {
+          "name": "C. Braga",
+          "url": "https://open.spotify.com/artist/5vatyKN28NkojtJkfg9fTp"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203666,
+      "name": "Gratid\u00e3o",
+      "url": "https://open.spotify.com/track/4c7R1kxObqY9J2haly4xtW"
     },
     {
       "album": {
@@ -2546,7 +2598,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 206000,
       "name": "O Bem Que Eu Quero Fazer N\u00e3o Fa\u00e7o",
       "url": "https://open.spotify.com/track/6AzxGlceDX62BM7Obp7JH2"
@@ -2765,6 +2817,24 @@
     },
     {
       "album": {
+        "name": "Paracetamol (Divisa de Fogo)",
+        "url": "https://open.spotify.com/album/0xgEt4c2aFETYetdlnhLRh"
+      },
+      "artists": [
+        {
+          "name": "Lookas",
+          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161701,
+      "name": "Paracetamol (Divisa de Fogo)",
+      "url": "https://open.spotify.com/track/1nFbOSGxJ0d2fpjNv4nnSJ"
+    },
+    {
+      "album": {
         "name": "Pedra",
         "url": "https://open.spotify.com/album/1PeuH7zChJkNCw4AL6zd9w"
       },
@@ -2944,7 +3014,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 164070,
       "name": "Predestinado",
       "url": "https://open.spotify.com/track/0IlSLH0ymezHJdmVMIjOsl"
@@ -3447,6 +3517,24 @@
     },
     {
       "album": {
+        "name": "Te Agrade\u00e7o",
+        "url": "https://open.spotify.com/album/3w0JXy6UdPI8fMYo5O4TsG"
+      },
+      "artists": [
+        {
+          "name": "MC Jamil",
+          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136087,
+      "name": "Te Agrade\u00e7o",
+      "url": "https://open.spotify.com/track/5DDWvqCt4JhlTy1gRo8Aj2"
+    },
+    {
+      "album": {
         "name": "Tempo pra Tudo",
         "url": "https://open.spotify.com/album/1eok8fki5vOFimJnplkCTo"
       },
@@ -3518,6 +3606,32 @@
       "duration_ms": 192065,
       "name": "Teste",
       "url": "https://open.spotify.com/track/5kPf9ZCxLt92DykkiXeTkc"
+    },
+    {
+      "album": {
+        "name": "Timmy Turner",
+        "url": "https://open.spotify.com/album/4KmQ6iLrPeI9pcz9PfIghL"
+      },
+      "artists": [
+        {
+          "name": "Felipin",
+          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154555,
+      "name": "Timmy Turner",
+      "url": "https://open.spotify.com/track/5UpKdg4vr596e00JYGRTPj"
     },
     {
       "album": {
@@ -3749,6 +3863,32 @@
     },
     {
       "album": {
+        "name": "Viv\u00eancias",
+        "url": "https://open.spotify.com/album/6VCbpqc4zqIRdBPUPM5F6K"
+      },
+      "artists": [
+        {
+          "name": "Big Asher",
+          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
+        },
+        {
+          "name": "2metro",
+          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Viv\u00eancias",
+      "url": "https://open.spotify.com/track/0jmfZfkd9y1aqT7nvyFssH"
+    },
+    {
+      "album": {
         "name": "Voc\u00ea Acredita?",
         "url": "https://open.spotify.com/album/2iYsPUuXs2GPQwUksocbBa"
       },
@@ -3856,7 +3996,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 213929,
       "name": "\u00c1guias",
       "url": "https://open.spotify.com/track/1l0h7LsMs0jofjsby9Qms4"

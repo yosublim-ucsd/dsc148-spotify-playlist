@@ -4,7 +4,7 @@
 
 > This is Joe Bonamassa\. The essential tracks, all in one playlist.
 
-94 songs - 8 hr 28 min
+95 songs - 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Mind’s Eye](https://open.spotify.com/track/19vLbTpnjkQtcCTaHVPQUm) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Time Clocks](https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD) | 6:17 | 2022-08-05 |  |
 | [Molly O'](https://open.spotify.com/track/0ExwFnQ2XcaUw6buImFuLV) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Road To Redemption](https://open.spotify.com/album/4gj1UOa3iiULaU85YcdYTJ) | 6:06 | 2022-11-02 | 2022-12-25 |
 | [Mountain Climbing](https://open.spotify.com/track/3QdefKbNfifFnCwlpLtQcG) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Of Desperation](https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h) | 5:43 | 2022-08-05 |  |
-| [No Good Place For The Lonely](https://open.spotify.com/track/1N1dVl208WmkZJ1MtLkBc3) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Of Desperation](https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h) | 8:38 | 2022-08-05 | 2023-04-03 |
+| [No Good Place For The Lonely](https://open.spotify.com/track/1N1dVl208WmkZJ1MtLkBc3) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Of Desperation](https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h) | 8:38 | 2022-08-05 |  |
 | [Notches](https://open.spotify.com/track/37OvIUoTAlKsuO3nTGSLSf) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Time Clocks](https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD) | 7:03 | 2022-08-05 |  |
 | [Nutbush City Limits](https://open.spotify.com/track/07nZ2XeSabtqpx9Gy67xac) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Seesaw](https://open.spotify.com/album/4YeG1gnArhUBfqGyuJe2vT) | 3:36 | 2022-08-05 | 2022-10-06 |
 | [Nutbush City Limits \- Live](https://open.spotify.com/track/76nH08xYcm4PiKwpHMuyGU) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live in Amsterdam](https://open.spotify.com/album/44663Jws4dbqAO7RUnuqMu) | 3:49 | 2022-08-05 | 2022-10-06 |
@@ -89,7 +89,8 @@
 | [The Ballad of John Henry](https://open.spotify.com/track/1jIerjgmmIjYoiRaf0DaM0) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [The Ballad of John Henry](https://open.spotify.com/album/0H8c4DhrLk4mtFaiYt43GN) | 6:26 | 2022-08-05 | 2023-03-27 |
 | [The Ghost Of Macon Jones](https://open.spotify.com/track/1Js7KQKwCxn8ecdYVP5bty) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [Road To Redemption](https://open.spotify.com/album/4gj1UOa3iiULaU85YcdYTJ) | 5:24 | 2022-10-29 |  |
 | [The Ghost Of Macon Jones](https://open.spotify.com/track/6kqPxNCsODUHqipFNYYNZL) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [Redemption](https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ) | 5:24 | 2022-08-05 | 2022-10-30 |
-| [The Heart That Never Waits](https://open.spotify.com/track/4sb2JUFkGwT9jfzM7lcQBI) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Time Clocks](https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD) | 5:51 | 2022-08-05 |  |
+| [The Heart That Never Waits](https://open.spotify.com/track/4sb2JUFkGwT9jfzM7lcQBI) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Time Clocks](https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD) | 5:51 | 2022-08-05 | 2023-04-16 |
+| [The Heart That Never Waits \(Live\)](https://open.spotify.com/track/4YuyBlfqxrlKNT8E5QxKmk) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Tales Of Time \(Live\)](https://open.spotify.com/album/0G03hsZGLxlUG8Spg4lTi3) | 8:31 | 2023-04-15 |  |
 | [The Loyal Kind \(Live\)](https://open.spotify.com/track/3VlxQrEaQAehaxvPUpN9Gi) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [The Loyal Kind \(Live\)](https://open.spotify.com/album/0ApJp0w406tV4tWNFwMWBk) | 6:34 | 2023-02-09 |  |
 | [The Valley Runs Low](https://open.spotify.com/track/5NvVaWVoHEUKe2Sau3iLdT) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Of Desperation](https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h) | 4:03 | 2022-08-05 |  |
 | [This Train \- Live](https://open.spotify.com/track/3TfM4iSLcv9f7mhp0GM1Yp) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [This Train \(Live\)](https://open.spotify.com/album/4mjY6VfFAXgbvw95PaSu8b) | 8:24 | 2022-08-05 | 2022-11-02 |

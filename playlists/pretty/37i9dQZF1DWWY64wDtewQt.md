@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,023,885 likes - 100 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,032,357 likes - 100 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 9 | [RAVE](https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [RAVE](https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T) | 2:49 |
 | 10 | [NEON BLADE](https://open.spotify.com/track/0iUrxveyNUBfj0cqjYEijt) | [MoonDeity](https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY) | [NEON BLADE](https://open.spotify.com/album/4zRjyCx4wMu480J7tac2Gm) | 4:25 |
 | 11 | [vendetta!](https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [vendetta!](https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr) | 1:47 |
-| 12 | [WORTH NOTHING \- Fast & Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [WORTH NOTHING \(Fast & Furious: Drift Tape/Phonk Vol 1\)](https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI) | 2:44 |
+| 12 | [WORTH NOTHING \(feat\. Oliver Tree\) \- Fast & Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/65tX8MBdsnTiwy9UoIPHzr) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [WORTH NOTHING \(feat\. Oliver Tree\) \[Fast & Furious: Drift Tape/Vol 1\]](https://open.spotify.com/album/3iqdAcelKcHA5cdJXse2Gr) | 2:44 |
 | 13 | [Live Another Day](https://open.spotify.com/track/34lfu3S4fIcKZRNXzbdbo7) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Phonkageddon](https://open.spotify.com/album/3mBLmOCKHY1MAOD8fYmffg) | 2:13 |
 | 14 | [SUNRISE \(Slowed + Reverb\)](https://open.spotify.com/track/0G17UriYHMjXnZE2OJJSMR) | [Xantesha](https://open.spotify.com/artist/2rgcNuLkn8pPBdKZhjZ8Em) | [SUNRISE \(Slowed + Reverb\)](https://open.spotify.com/album/2tiHE58yMuZI1wiygJxxSM) | 2:18 |
 | 15 | [MIDNIGHT](https://open.spotify.com/track/2WzAAerBvZvvFXgUpSwHZ9) | [PLAYAMANE](https://open.spotify.com/artist/13itspgSHkUbOq03AhIyjS), [Nateki](https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1) | [MIDNIGHT](https://open.spotify.com/album/5nWRdZWdSXAMvLTZFxuD2W) | 2:01 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 42 | [SMOKE IT OFF!](https://open.spotify.com/track/1KEv0es8xWsrPU7VSFiZym) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm), [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh) | [SMOKE IT OFF!](https://open.spotify.com/album/59i6c9Y4NtR28gdkQ4Bg0S) | 1:57 |
 | 43 | [dropitlikeitshot!](https://open.spotify.com/track/5qvBojdG05Ec8cUqPKG4Ue) | [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH), [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [Crazy Mano](https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl) | [dropitlikeitshot!](https://open.spotify.com/album/1vBHM5ULJcCmVBbgxSSuR6) | 1:45 |
 | 44 | [SUICIDE YEAR](https://open.spotify.com/track/6hRvewF5MRAsqqxnNs3z2b) | [WEEDMANE](https://open.spotify.com/artist/6agBXAcUugzO8DQTChZZrx), [Suicideyear](https://open.spotify.com/artist/3WaNZnwUPrpOIS5ZcIyjTO) | [SUICIDE YEAR](https://open.spotify.com/album/6y0bYi0XTNsGQzbKMYNxg1) | 1:31 |
-| 45 | [JUDAS](https://open.spotify.com/track/2fDvxV1N7SxQYbWNrN7YJl) | [SAY3AM](https://open.spotify.com/artist/3UxUktdCJsomjKqozWDWSu) | [JUDAS](https://open.spotify.com/album/3bhcjWFGnBUqvrHmNr5e6c) | 1:57 |
+| 45 | [JUDAS](https://open.spotify.com/track/2kW9lB6yMbpsEUKaKP1nR6) | [Liodré](https://open.spotify.com/artist/1iFnL18VjckiZ512wVFapI), [unxbected](https://open.spotify.com/artist/5Jv8vC2RoInNR3CsxANXhS), [Ayparia](https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r) | [JUDAS](https://open.spotify.com/album/0QyVIrggMGABwjt79ICTdd) | 1:57 |
 | 46 | [Disaster](https://open.spotify.com/track/29e4KOBzZDOX6qnpYbjwoW) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Disaster](https://open.spotify.com/album/7jeIigTciBnw9zadRsYqIC) | 1:24 |
 | 47 | [RAPTURE](https://open.spotify.com/track/3thB8qaxyKtLJ7ao1NpkRB) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [RAPTURE](https://open.spotify.com/album/6OpEcUBwj9Sp4rY5xcnC8g) | 2:44 |
 | 48 | [PRINCE OF DARKNESS](https://open.spotify.com/track/3F8ydJz1se1vIxZTRcRjIJ) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx), [ARCHEZ](https://open.spotify.com/artist/2sADpsTiKjzV9DRVDMXAeN), [KXNVRA](https://open.spotify.com/artist/5UJkhYfIETGF5PMO0DT3aj) | [PRINCE OF DARKNESS](https://open.spotify.com/album/34iHUfBPU6yTJKPBoQC5HY) | 2:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 99 | [Own Paradise](https://open.spotify.com/track/0uLd2Bf1FBtBNQPsWIkpPG) | [LXAES](https://open.spotify.com/artist/5H0EvN3WxKB6HaRpH7OY0z) | [Own Paradise](https://open.spotify.com/album/5jh2KaX4hvRnEmPM8RM8HG) | 2:08 |
 | 100 | [Swaggin' at the Partment](https://open.spotify.com/track/0eCwAiq4qzQJJgQVaqUaCN) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7) | [High As Fuck](https://open.spotify.com/album/1uFw15UdnEwem4fAMuyP2h) | 2:04 |
 
-Snapshot ID: `MTY4MTQ5MTY4NSwwMDAwMDAwMDY4OTkyNzhiMDJkNzUwNWY4OGIwNjczMTc3ZGJlYTA5`
+Snapshot ID: `MTY4MTQ5MTY4NSwwMDAwMDAwMGNhNWNkNTczYzZiZDZmZjA0ZjE1YzE4OGFhOWE4ZjEz`

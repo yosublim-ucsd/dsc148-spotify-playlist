@@ -4,7 +4,7 @@
 
 > All things <a href="spotify:genre:bass">bass</a> with Whyte Fang.
 
-462 songs - 1 day 2 hr 49 min
+463 songs - 1 day 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Death of Me](https://open.spotify.com/track/1KUYxwsFpCgpwygaWQu4JL) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Death of Me](https://open.spotify.com/album/4EbiGYs39cMzzpm3U21f50) | 2:48 | 2022-07-01 | 2022-08-06 |
 | [Deathstalker](https://open.spotify.com/track/3jToiObyGXOLaK5Xo15GZc) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC), [YOOKiE](https://open.spotify.com/artist/26RHyTSsP5JoS4udf8txU5) | [Once Upon A Time In Cyberworld](https://open.spotify.com/album/7lKY2k6pNBzNlC19WIHXxS) | 3:45 | 2022-01-28 | 2023-01-04 |
 | [Deep \(with DJ Snake & Yung Felix\)](https://open.spotify.com/track/0hSdx0sbSmYRVJzZTuspu0) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu) | [Deep \(with DJ Snake & Yung Felix\)](https://open.spotify.com/album/3WpS9W69UKt59YFj744I0u) | 3:33 | 2022-09-23 | 2023-04-01 |
+| [Deep End](https://open.spotify.com/track/6gNxFvK5yLL0uWCNQdP7GB) | [Whyte Fang](https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt) | [GENESIS](https://open.spotify.com/album/2y3ZfgrrqOtkexvBjGa49v) | 4:51 | 2023-04-14 |  |
 | [Deja Reve](https://open.spotify.com/track/1nkpXkr1Qacmp2BPd6mgct) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Deja Reve](https://open.spotify.com/album/1hKAyeVJEnIJWZtKOkhnsu) | 2:48 | 2022-03-25 | 2022-09-03 |
 | [demolition \(Ruined by Glass Petals\)](https://open.spotify.com/track/5ylMA5GG8VDjcYUGts2QNt) | [LŪN](https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6), [Glass Petals](https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0) | [demolition \(Ruined by Glass Petals\)](https://open.spotify.com/album/5CN8SCIeJGzrG8efIbfjgo) | 3:46 | 2021-12-17 | 2022-05-07 |
 | [Desecrate](https://open.spotify.com/track/570FKlNY5Rw3oBYObR90je) | [Gawm](https://open.spotify.com/artist/3bce1zPmITQ2MGdCxGaSvL) | [Desecrate EP](https://open.spotify.com/album/3SGeq0w2IngcxPkj7adHVD) | 2:30 | 2021-12-17 | 2022-02-10 |
@@ -459,7 +460,7 @@
 | [Welcome to the Playhouse](https://open.spotify.com/track/1qXTtWP0sNcePb3tT2eHWL) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [Welcome to the Playhouse](https://open.spotify.com/album/6hhEQkw3cuI1HQ61Xma7Cy) | 3:08 | 2022-01-07 | 2022-08-27 |
 | [When I Fall](https://open.spotify.com/track/1zIzW4i8tD51F4U21uFaHC) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [When I Fall](https://open.spotify.com/album/4Tjmwmy2Q0fJQm2WBjVrKq) | 3:25 | 2023-01-03 |  |
 | [When I'm Gone \- NGHTMRE Remix](https://open.spotify.com/track/3wO31bU00RPlGXrZVxSnrz) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [XAELO](https://open.spotify.com/artist/4jz58WEDWGF8fy6s58F2nV), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF) | [When I'm Gone \(NGHTMRE Remix\)](https://open.spotify.com/album/7izHE9ywehTSlhRcTZKopg) | 3:42 | 2023-03-10 |  |
-| [Wide Awake](https://open.spotify.com/track/0QBfmlcTMQViDm378q5Px8) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [Wide Awake](https://open.spotify.com/album/7qT9u5bWdCo0vJdLWJQ7AC) | 3:30 | 2022-09-02 |  |
+| [Wide Awake](https://open.spotify.com/track/0QBfmlcTMQViDm378q5Px8) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [Wide Awake](https://open.spotify.com/album/7qT9u5bWdCo0vJdLWJQ7AC) | 3:30 | 2022-09-02 | 2023-04-16 |
 | [Wish He Knew](https://open.spotify.com/track/17QC7vLpqQBJ5dcT9kRrHO) | [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Wish He Knew](https://open.spotify.com/album/6irYxa4daxMivsPXfyp0Pl) | 2:37 | 2023-02-10 |  |
 | [Witch](https://open.spotify.com/track/3xLrmOAz2nCTlWLt2cutMu) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN), [Alina Pash](https://open.spotify.com/artist/2rC7t19zOtFIcJvmi6lH1i) | [I Killed The Orchestra EP](https://open.spotify.com/album/6aWB16Ri58NuFoUZZQAr9v) | 3:32 | 2021-12-17 | 2022-05-07 |
 | [WITH U](https://open.spotify.com/track/1xuIethB7B6S14ZdQ2LxoW) | [NAZAAR](https://open.spotify.com/artist/6G1en7nfPSAWElhPgUOy0h) | [WITH U](https://open.spotify.com/album/1dffGyShCWDpwdxt9GvrLe) | 4:16 | 2021-12-17 | 2022-08-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdIlYm88oQy.md) - [plain]
 
 > This is the Latin soundtrack of the 70s! Cover:  José José
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,849 likes - 90 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,923 likes - 90 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,10 +67,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdIlYm88oQy.md) - [plain]
 | 57 | [Entre Dos Aguas](https://open.spotify.com/track/5hVqZ5hnvQGT4LOpUVuJUa) | [Paco de Lucía](https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw) | [Mi Historia: Paco De Lucia](https://open.spotify.com/album/4psU1Z4bLtTOwZjmmL6lid) | 6:00 |
 | 58 | [¿Por Qué Te Vas?](https://open.spotify.com/track/4t2B8FYH9KkQ16Zw0JQinj) | [Jeanette](https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2) | [Grandes Románticas, Vol\. 1](https://open.spotify.com/album/5PGPMjKIcP7m2d8LTPHvrO) | 3:25 |
 | 59 | [Usted Abusó](https://open.spotify.com/track/7l4rheatghobSX90XilfPL) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Greatest Hits](https://open.spotify.com/album/3zHl7v8SJjqKoHZWCszzzn) | 4:19 |
-| 60 | [Busamba](https://open.spotify.com/track/4nML9FWK97HBdm03T7lfWa) | [La Lupe](https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a) | [Reina de la Canción Latina](https://open.spotify.com/album/2xx0ruNjs5BECoQRRVvOTu) | 2:54 |
+| 60 | [Yolanda](https://open.spotify.com/track/1EgnAsCvnFg6AgMV28xApT) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [La Mas Completa Coleccion](https://open.spotify.com/album/6ie8SesJgc1UflnOl42NHB) | 4:44 |
 | 61 | [Lágrimas y Lluvia](https://open.spotify.com/track/2XbZmljaMUuU10gZ5uaOAn) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [15 Anos De Exitos](https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY) | 3:03 |
 | 62 | [Por un Amor](https://open.spotify.com/track/6TNOBScJXFw3nNemRdeEd0) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Joyas Rancheras Al Estilo](https://open.spotify.com/album/6ug5tZ8sA1MxL9SpNJpUOj) | 3:27 |
-| 63 | [Yolanda](https://open.spotify.com/track/1EgnAsCvnFg6AgMV28xApT) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [La Mas Completa Coleccion](https://open.spotify.com/album/6ie8SesJgc1UflnOl42NHB) | 4:44 |
+| 63 | [Busamba](https://open.spotify.com/track/4nML9FWK97HBdm03T7lfWa) | [La Lupe](https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a) | [Reina de la Canción Latina](https://open.spotify.com/album/2xx0ruNjs5BECoQRRVvOTu) | 2:54 |
 | 64 | [Te Recuerdo Amanda](https://open.spotify.com/track/6FuMNYFqISPu4zhFyRnzkv) | [Victor Jara](https://open.spotify.com/artist/440MEFxEmF9othCXbz3Y6a) | [Best Of Victor Jara \(Remastered\)](https://open.spotify.com/album/4ELZeRbJiJBrEplZtEKTh1) | 2:34 |
 | 65 | [Melina](https://open.spotify.com/track/2UXCWyEOySmZR97yq4OIAY) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [15 Grandes Exitos Vol\. I \- A Peticion Del Publico](https://open.spotify.com/album/3gg0VgB89SEzsLefAstENY) | 2:47 |
 | 66 | [Vieja Luna](https://open.spotify.com/track/2NafN7tmTGpqOJeEvQ9DZU) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia & Johnny](https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1) | 3:15 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdIlYm88oQy.md) - [plain]
 | 89 | [Por Creer en Ti](https://open.spotify.com/track/4rwhcZ5qKOae4CGp78LSjG) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [10 Éxitos](https://open.spotify.com/album/3sMYq7e2hCexGBrFA73dS7) | 2:01 |
 | 90 | [Lágrimas y Lluvia](https://open.spotify.com/track/3rMg1HEQFyLnZBJTAmKd7o) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con El Mariachi Vargas De Tecalitlan \(with El Mariachi Vargas de Tecalitlán\)](https://open.spotify.com/album/13NCFsw0EMj0JHwC9KaYwK) | 2:59 |
 
-Snapshot ID: `MTY3NjY2NzU3MSwwMDAwMDAwMGM3YzU5NjQ2NjY2YWVlYWViMGM0NDM1ZWRiZDNlMjQx`
+Snapshot ID: `MTY3NjY2NzU3MSwwMDAwMDAwMGQzNjQ0ODIyODhhYTQwOTkyZGQyYjgwNzdlNDQyOWY0`

@@ -161,6 +161,28 @@
     },
     {
       "album": {
+        "name": "Brillante Sobre el Mic",
+        "url": "https://open.spotify.com/album/1qZYz4prjJ6jqO99G9G7Vh"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246183,
+      "name": "Brillante Sobre el Mic",
+      "url": "https://open.spotify.com/track/3gnbXX0Fv5iiUvxZVX2O2x"
+    },
+    {
+      "album": {
         "name": "B\u00e9same Mucho",
         "url": "https://open.spotify.com/album/09sg6NFVK6JicCJu0sYdSD"
       },

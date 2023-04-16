@@ -4,7 +4,7 @@
 
 > Laid back sounds to see you through your day.
 
-469 songs - 1 day 2 hr 19 min
+472 songs - 1 day 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,8 +100,10 @@
 | [cruel](https://open.spotify.com/track/05K6M63VAEG3GwfmKPbrOH) | [Aislin Evans](https://open.spotify.com/artist/3v5hwKzY8gS0nDAfT78Ydx) | [cruel](https://open.spotify.com/album/61FUBtPcOfc0kxrBJlBPmt) | 3:22 | 2022-01-17 | 2022-07-18 |
 | [Cry](https://open.spotify.com/track/0SXtIKwGuLlHJ7Q7gwo0Te) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Cry](https://open.spotify.com/album/4zerSuxIYLWLemMPPC8Ivi) | 3:47 | 2021-12-16 | 2022-02-09 |
 | [Cut Me Out Your Photos](https://open.spotify.com/track/2JDu2WDRJxQrLVMCHXh3HY) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [Cut Me Out Your Photos](https://open.spotify.com/album/5xPuSqnIZdMXZIT1L3WBYU) | 2:48 | 2022-04-04 | 2022-04-20 |
+| [Dancing In The Courthouse](https://open.spotify.com/track/4ZwgD4frTwoDdOUsjyoqAJ) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Dancing In The Courthouse](https://open.spotify.com/album/6y1x1MUnhsqTIRkp6KpYkq) | 2:37 | 2023-04-14 |  |
 | [Danger](https://open.spotify.com/track/1zAITH7C5UFYNE8DOFlE7h) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Danger](https://open.spotify.com/album/6jJup68OjU0nYjj6LWIsUj) | 2:55 | 2022-10-21 |  |
 | [Dark Red](https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Dark Red](https://open.spotify.com/album/7vrsFZNVhrriKh0SZKJW41) | 2:53 | 2022-10-21 | 2023-01-21 |
+| [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2023-04-14 |  |
 | [Dear Reader](https://open.spotify.com/track/7lFNXsbcbds699xCWO3pSe) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/4894htPwC6zoiuTqUQwn4I) | 3:45 | 2022-10-21 |  |
 | [Die Fast](https://open.spotify.com/track/1A2li95lRQu2vAOhaflAVB) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Die Fast](https://open.spotify.com/album/3XM7u1odzIm7leIRmmTBQO) | 3:39 | 2021-12-16 | 2021-12-30 |
 | [Die Of A Broken Heart](https://open.spotify.com/track/73AyFfVAuzl80enyZWtEcf) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [Die Of A Broken Heart](https://open.spotify.com/album/1fIeFHSd2o4rDSb44aPUkc) | 3:26 | 2022-10-11 | 2023-03-08 |
@@ -134,7 +136,7 @@
 | [Family](https://open.spotify.com/track/5P5DlkMeOFrQCHUgB05PYf) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Family](https://open.spotify.com/album/646cPHHdR9E2QLrmuUwhf6) | 4:04 | 2021-12-16 | 2022-04-03 |
 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 | 2023-04-04 |  |
 | [Fatherhood](https://open.spotify.com/track/4Agd4mAiF6gchnzen5g9iC) | [Euan Allison](https://open.spotify.com/artist/3ZW3NzHzLniYblaJ4s5eem) | [Fatherhood](https://open.spotify.com/album/6q2VEd3yun0g75Rnu5Y9xF) | 2:58 | 2022-01-11 | 2022-04-01 |
-| [Favorite Part](https://open.spotify.com/track/4rRWJUXC3wjs5z217dwCUW) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Based On A Feeling](https://open.spotify.com/album/3PdyuqyxiDFTujJ8e2U2E2) | 3:26 | 2022-05-31 |  |
+| [Favorite Part](https://open.spotify.com/track/4rRWJUXC3wjs5z217dwCUW) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Based On A Feeling](https://open.spotify.com/album/3PdyuqyxiDFTujJ8e2U2E2) | 3:26 | 2022-05-31 | 2023-04-16 |
 | [February](https://open.spotify.com/track/029QbkH9BezM0OumOqjOaQ) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [February](https://open.spotify.com/album/5Ab0ZYis9b7uegSPvaxUe3) | 2:29 | 2021-12-16 | 2022-02-19 |
 | [Feet Don't Fail Me](https://open.spotify.com/track/3ehALIXdoBC1kV3ssXxRT7) | [Alex Harry](https://open.spotify.com/artist/54RYUCA8gnHaOBMK9Aqh7J) | [Feet Don't Fail Me](https://open.spotify.com/album/6wa78606AJfTZsDrbSgsVg) | 3:44 | 2022-01-25 | 2022-06-25 |
 | [Fingers Crossed](https://open.spotify.com/track/3yMC1KsTwh0ceXdIe4QQAQ) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/7i5dqey54xo8F2flVer0yY) | 2:55 | 2022-05-31 |  |
@@ -146,7 +148,7 @@
 | [Flowers](https://open.spotify.com/track/6Z165JvPnS8PYvGW8oLGLc) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Flowers](https://open.spotify.com/album/03sQVTmOjeFVi8GsSaJSNV) | 2:37 | 2022-04-26 |  |
 | [Fly](https://open.spotify.com/track/1mD31p1eVeH9bkGgGkpfzI) | [Test Card Girl](https://open.spotify.com/artist/5khHmM2gwFSbDdepp3hvF7) | [Fly](https://open.spotify.com/album/7HCrGdcknVvSLMvssv1TEp) | 4:14 | 2022-03-29 | 2022-04-20 |
 | [Footprints](https://open.spotify.com/track/3y3xJiOrKFatn8YqiSgBuS) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Footprints](https://open.spotify.com/album/4yyk0KJ7w8fHDEQMmu1afO) | 3:20 | 2022-03-25 | 2022-03-30 |
-| [For Those Who Can't Be Here](https://open.spotify.com/track/7nrB7gaYNe1x8Kvv7c0Tps) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [For Those Who Can't Be Here](https://open.spotify.com/album/06whzJAwv0hrYW3i2N4TWx) | 3:03 | 2021-12-16 |  |
+| [For Those Who Can't Be Here](https://open.spotify.com/track/7nrB7gaYNe1x8Kvv7c0Tps) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [For Those Who Can't Be Here](https://open.spotify.com/album/06whzJAwv0hrYW3i2N4TWx) | 3:03 | 2021-12-16 | 2023-04-16 |
 | [Forever](https://open.spotify.com/track/1Oc7I0lPIuUDSH3fGZe7Yn) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [When I Close My Eyes](https://open.spotify.com/album/6JkrpiVpnhPrCpiVtDPN2f) | 2:49 | 2021-12-16 | 2022-07-29 |
 | [Forever Goodbye](https://open.spotify.com/track/29SnhlskgH4sAXFCVDUgNG) | [Billie Flynn](https://open.spotify.com/artist/5RmO3E0D98IDGfClRU7ICf) | [Hey Stranger](https://open.spotify.com/album/2HD4QAxpfB16O7SUt4EyMU) | 4:27 | 2022-01-17 | 2022-07-07 |
 | [Forget Me \- Spotify Singles](https://open.spotify.com/track/2IIMt19xJuWIHVmfpd9jH8) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Spotify Singles](https://open.spotify.com/album/1bqvkdrPKF47lM9bZrRvB9) | 3:49 | 2022-10-21 |  |
@@ -193,7 +195,7 @@
 | [How Do I Say Goodbye](https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [How Do I Say Goodbye](https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp) | 2:43 | 2022-10-21 |  |
 | [Hrs & Hrs](https://open.spotify.com/track/3M5azWqeZbfoVkGXygatlb) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/2ngrG39dI2ofhCxjmFnKv5) | 3:24 | 2022-05-31 | 2022-10-12 |
 | [Hrs and Hrs](https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0) | 3:24 | 2022-03-25 | 2022-04-17 |
-| [Humble Quest](https://open.spotify.com/track/2kxytjpDPwjZGqVLH8eWkr) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 3:24 | 2022-03-29 |  |
+| [Humble Quest](https://open.spotify.com/track/2kxytjpDPwjZGqVLH8eWkr) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 3:24 | 2022-03-29 | 2023-04-16 |
 | [Hurt Like That](https://open.spotify.com/track/6fBN1a9LcsB3QohnijExpz) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Hurt Like That](https://open.spotify.com/album/1YixmyGKRqTOBdBrwb0Xvh) | 3:16 | 2022-03-29 | 2022-05-21 |
 | [Hurtless](https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Hurtless](https://open.spotify.com/album/1WKIR7hhHN1DvJPn09gIST) | 3:00 | 2022-04-04 |  |
 | [Hymn for Her \(feat\. Lydia Clowes\)](https://open.spotify.com/track/2mKl6EfVpKxrCIdAmMAruF) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91), [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH) | [Hymn for Her](https://open.spotify.com/album/4PYpVd1NV1nT6fpkWzhGIC) | 3:18 | 2021-12-16 | 2022-03-28 |
@@ -462,6 +464,7 @@
 | [Whole](https://open.spotify.com/track/2JZixjPnrQ67VOPQRDKSmH) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Whole](https://open.spotify.com/album/5rITGmazx7CpQZ8N3nTgaW) | 2:54 | 2021-12-16 | 2022-03-28 |
 | [Whose Life?](https://open.spotify.com/track/4ZBPIZ9ucyCYObAYPKPOs6) | [Leon Stanford](https://open.spotify.com/artist/0zeqAycqbAyNpNARDkLtZX) | [Whose Life?](https://open.spotify.com/album/3Tv4HCGpwP8RQm1Qehw73s) | 4:21 | 2022-02-21 | 2022-04-12 |
 | [Will We Ever Get This Right](https://open.spotify.com/track/7Ck7GSPoBIDwNwcas05Sz1) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Will We Ever Get This Right](https://open.spotify.com/album/7Lh2dKTPYPxdNjxjTn91tZ) | 2:41 | 2022-04-04 | 2022-10-22 |
+| [Wish You The Best](https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Wish You The Best](https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS) | 3:30 | 2023-04-14 |  |
 | [With The Band](https://open.spotify.com/track/2bY0fCLZ2wzWFqujDEGQKY) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [With The Band / Bruises & Scratches](https://open.spotify.com/album/4xzhwzrYdU5RGOhLTXrZp8) | 2:53 | 2022-04-11 | 2023-02-19 |
 | [Words](https://open.spotify.com/track/1vZ80JagXskYRxBkq0FYAP) | [Esme Emerson](https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL) | [Words](https://open.spotify.com/album/183zuL478HRdAZPiyqA67W) | 4:07 | 2022-03-25 | 2022-04-19 |
 | [Worry](https://open.spotify.com/track/5162TbRdE10dMwToCsKa7J) | [Roses & Revolutions](https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l), [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Worry](https://open.spotify.com/album/59kXMOrbDR0CbXg1bdCLhL) | 2:41 | 2022-04-04 | 2022-07-29 |

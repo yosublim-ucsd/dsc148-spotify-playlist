@@ -1,12 +1,12 @@
 {
   "description": "Immerse in an imaginary panorama of atmospheric soundscapes.",
-  "num_followers": 308947,
+  "num_followers": 309021,
   "original_name": "Deep Listening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTUxNTkzNywwMDAwMDAwMGZhYjI5ZjE2NTU3ODUzYmE3OGQ0M2UxZjgzZTcxOWRj",
+  "snapshot_id": "MTY4MTUyNzI3NCwwMDAwMDAwMDc5YTEwNGY4N2E0ZjVlOTJkMzI5NGU2MzJiNTE1ZTg5",
   "tracks": [
     {
       "added_at": "2022-03-30 05:08:29",
@@ -105,6 +105,22 @@
       "url": "https://open.spotify.com/track/5cr7x0cknWAOD9iBcJEFVU"
     },
     {
+      "added_at": "2023-04-15 02:54:34",
+      "album": {
+        "name": "FOREVERANDEVERNOMORE (FOREVER VOICELESS EDITION)",
+        "url": "https://open.spotify.com/album/6IyiPFsPNCbehAh0dFYRJ6"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 263666,
+      "name": "Who Are We - Instrumental",
+      "url": "https://open.spotify.com/track/69ByRD2q0PQEf5m4KJrg7E"
+    },
+    {
       "added_at": "2021-10-06 04:52:47",
       "album": {
         "name": "Living Room Songs",
@@ -137,6 +153,22 @@
       "url": "https://open.spotify.com/track/6nIVSeN1LtdGW7pngh7lrq"
     },
     {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
+        "name": "Syro",
+        "url": "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 321880,
+      "name": "aisatsana [102]",
+      "url": "https://open.spotify.com/track/5ljMlD10En5rRGZU0cs2Np"
+    },
+    {
       "added_at": "2022-10-14 04:40:55",
       "album": {
         "name": "I Could Be Your Dog / I Could Be Your Moon",
@@ -155,38 +187,6 @@
       "duration_ms": 80427,
       "name": "Brush",
       "url": "https://open.spotify.com/track/5HRpMnbWQ1xwQ6kOJseu59"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
-        "name": "Syro",
-        "url": "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 321880,
-      "name": "aisatsana [102]",
-      "url": "https://open.spotify.com/track/5ljMlD10En5rRGZU0cs2Np"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
-        "name": "Empty",
-        "url": "https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 396688,
-      "name": "A Shimmer",
-      "url": "https://open.spotify.com/track/09F0zRNSUa0qAWYUksXtXt"
     },
     {
       "added_at": "2023-04-06 01:07:54",
@@ -211,6 +211,22 @@
       "duration_ms": 241742,
       "name": "Spring Siesta",
       "url": "https://open.spotify.com/track/6jC1mrjxfjNKh7IZhZl5Im"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "duration_ms": 396688,
+      "name": "A Shimmer",
+      "url": "https://open.spotify.com/track/09F0zRNSUa0qAWYUksXtXt"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -267,6 +283,22 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 255333,
+      "name": "#20",
+      "url": "https://open.spotify.com/track/0Pg0frSTti7d8Ck1OmOYkz"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
         "name": "Promises",
         "url": "https://open.spotify.com/album/3ShtO5VCYa3ctlR5uzLWBa"
       },
@@ -287,22 +319,6 @@
       "duration_ms": 530894,
       "name": "Movement 6",
       "url": "https://open.spotify.com/track/5i0EqAX50KcKNgMDMHZndM"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
-        "name": "Selected Ambient Works Volume II",
-        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 255333,
-      "name": "#20",
-      "url": "https://open.spotify.com/track/0Pg0frSTti7d8Ck1OmOYkz"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -403,22 +419,6 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 234320,
-      "name": "Falaise",
-      "url": "https://open.spotify.com/track/3rkJH9BaiCWpRY718WTkBP"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
         "name": "async",
         "url": "https://open.spotify.com/album/2OKN3NwlITzfVpDJecA4Z3"
       },
@@ -467,6 +467,22 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 234320,
+      "name": "Falaise",
+      "url": "https://open.spotify.com/track/3rkJH9BaiCWpRY718WTkBP"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
         "name": "Filoxiny",
         "url": "https://open.spotify.com/album/5F3jI2TClJuyIAUcbgf4Ps"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 283107,
       "name": "After Midnight",
       "url": "https://open.spotify.com/track/0L2Q17joitlk1BxqKbbUyM"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
-        "name": "Sakura",
-        "url": "https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2"
-      },
-      "artists": [
-        {
-          "name": "Susumu Yokota",
-          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
-        }
-      ],
-      "duration_ms": 278693,
-      "name": "Tobiume",
-      "url": "https://open.spotify.com/track/4IQWc6rhJwpFrRKBLx27X6"
     },
     {
       "added_at": "2023-03-28 05:51:07",
@@ -515,6 +515,22 @@
       "duration_ms": 989090,
       "name": "Fata Morgana 1",
       "url": "https://open.spotify.com/track/3mhaYYLCf3Eex5FzveLZ8S"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
+        "name": "Sakura",
+        "url": "https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2"
+      },
+      "artists": [
+        {
+          "name": "Susumu Yokota",
+          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
+        }
+      ],
+      "duration_ms": 278693,
+      "name": "Tobiume",
+      "url": "https://open.spotify.com/track/4IQWc6rhJwpFrRKBLx27X6"
     },
     {
       "added_at": "2022-08-03 02:59:28",
@@ -551,6 +567,38 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "duration_ms": 286986,
+      "name": "No Step on Wing",
+      "url": "https://open.spotify.com/track/2DmIDwMhMA3V0KipI78nM1"
+    },
+    {
+      "added_at": "2023-04-15 01:43:11",
+      "album": {
+        "name": "Ground Groove",
+        "url": "https://open.spotify.com/album/3pZfevjbuheybZyPZ7HKsC"
+      },
+      "artists": [
+        {
+          "name": "Maral",
+          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
+        }
+      ],
+      "duration_ms": 112325,
+      "name": "That's Okay, Ruin It",
+      "url": "https://open.spotify.com/track/4uwCLFEqO8v260YOhGsTHR"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
         "name": "Night Owl",
         "url": "https://open.spotify.com/album/0eJCk5W0VKQ4qIuoAhn5ns"
       },
@@ -567,22 +615,6 @@
       "duration_ms": 376082,
       "name": "Night Owl",
       "url": "https://open.spotify.com/track/3i0IiglJ0nzjxlpU3s7wXr"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
-        "name": "Empty",
-        "url": "https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 286986,
-      "name": "No Step on Wing",
-      "url": "https://open.spotify.com/track/2DmIDwMhMA3V0KipI78nM1"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -667,22 +699,6 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Broken Hearted Kota",
-        "url": "https://open.spotify.com/album/1Wmrt4ojrx2y7NRHVvuoMv"
-      },
-      "artists": [
-        {
-          "name": "Joseph Shabason",
-          "url": "https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS"
-        }
-      ],
-      "duration_ms": 311906,
-      "name": "Broken Hearted Kota",
-      "url": "https://open.spotify.com/track/2nP8BQtLMXpaUWjUGWAwhy"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
         "name": "Wurlitzer",
         "url": "https://open.spotify.com/album/0mfitPoE1oWjDfmX48fOl3"
       },
@@ -695,6 +711,22 @@
       "duration_ms": 257692,
       "name": "Wurlitzer",
       "url": "https://open.spotify.com/track/4OjcEWInukLib0TUfETqfx"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
+        "name": "Broken Hearted Kota",
+        "url": "https://open.spotify.com/album/1Wmrt4ojrx2y7NRHVvuoMv"
+      },
+      "artists": [
+        {
+          "name": "Joseph Shabason",
+          "url": "https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS"
+        }
+      ],
+      "duration_ms": 311906,
+      "name": "Broken Hearted Kota",
+      "url": "https://open.spotify.com/track/2nP8BQtLMXpaUWjUGWAwhy"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -713,22 +745,6 @@
       "url": "https://open.spotify.com/track/6VRgvci0hYokJguaBzGZmj"
     },
     {
-      "added_at": "2023-03-03 04:10:47",
-      "album": {
-        "name": "Afterpoem",
-        "url": "https://open.spotify.com/album/6pBLWnqLVvj7SvFQOB08Bl"
-      },
-      "artists": [
-        {
-          "name": "Faten Kanaan",
-          "url": "https://open.spotify.com/artist/6Jz6XSRQjWHHmdkR2myjjy"
-        }
-      ],
-      "duration_ms": 118897,
-      "name": "Fin ao\u00fbt, d\u00e9but septembre",
-      "url": "https://open.spotify.com/track/2x1EvHw6MncUjkzC7tEluJ"
-    },
-    {
       "added_at": "2021-10-06 04:52:47",
       "album": {
         "name": "Pipopapipo",
@@ -743,6 +759,22 @@
       "duration_ms": 216000,
       "name": "Pipopapipo",
       "url": "https://open.spotify.com/track/7IZ3Sauja9QpcZ2HQLC9mX"
+    },
+    {
+      "added_at": "2023-03-03 04:10:47",
+      "album": {
+        "name": "Afterpoem",
+        "url": "https://open.spotify.com/album/6pBLWnqLVvj7SvFQOB08Bl"
+      },
+      "artists": [
+        {
+          "name": "Faten Kanaan",
+          "url": "https://open.spotify.com/artist/6Jz6XSRQjWHHmdkR2myjjy"
+        }
+      ],
+      "duration_ms": 118897,
+      "name": "Fin ao\u00fbt, d\u00e9but septembre",
+      "url": "https://open.spotify.com/track/2x1EvHw6MncUjkzC7tEluJ"
     },
     {
       "added_at": "2023-03-03 04:12:28",
@@ -807,42 +839,6 @@
       "duration_ms": 447000,
       "name": "25\u00b0C",
       "url": "https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS"
-    },
-    {
-      "added_at": "2022-08-03 03:05:22",
-      "album": {
-        "name": "Music for Animals",
-        "url": "https://open.spotify.com/album/17zWrjCtsUXh113n1V7T72"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 1111999,
-      "name": "Lemon Day",
-      "url": "https://open.spotify.com/track/3SjjIOSfRYw5Z45HWMoRMo"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
-        "name": "Spain",
-        "url": "https://open.spotify.com/album/08vaZjMMQNppAfNg6ZfadL"
-      },
-      "artists": [
-        {
-          "name": "Julie Byrne",
-          "url": "https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV"
-        },
-        {
-          "name": "Steve Sobs",
-          "url": "https://open.spotify.com/artist/3mQWAx0NcLndQZrW96V5m0"
-        }
-      ],
-      "duration_ms": 286066,
-      "name": "Spain",
-      "url": "https://open.spotify.com/track/7nBp9NMpOUUMTxyfQPlk2M"
     }
   ],
   "unique_name": "Deep Listening",

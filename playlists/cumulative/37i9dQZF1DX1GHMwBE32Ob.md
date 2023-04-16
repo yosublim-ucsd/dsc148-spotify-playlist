@@ -4,7 +4,7 @@
 
 > The sounds keeping the streets of Nigeria on fire\. <br/>Cover: Mohbad
 
-102 songs - 4 hr 55 min
+103 songs - 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Mafo](https://open.spotify.com/track/0b4KxqG2zGWDh3iH571a7D) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Mafo](https://open.spotify.com/album/2lCPh18M0n0Ug9LJiqsREw) | 3:34 | 2022-06-29 | 2022-12-25 |
 | [Mafo](https://open.spotify.com/track/6hwDpNoh6kb9BXhxglCBO9) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Mafo](https://open.spotify.com/album/0JFXrdvWJfhwD0heJouzqo) | 3:34 | 2022-06-29 |  |
 | [Mara pass Mara Beat](https://open.spotify.com/track/7LoImJ4ayDQjr9IMAW8N9L) | [Dj khalipha](https://open.spotify.com/artist/26l8B7ThPgYc7a1rZbdStB) | [Mara pass Mara Beat](https://open.spotify.com/album/7Ci2ggn7o9HEunUEwzAxPu) | 5:15 | 2023-04-14 |  |
-| [My Life](https://open.spotify.com/track/0SJYLFDUX2F1IMTdXS23zI) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [My Life](https://open.spotify.com/album/7mkucWU2lfNiqr20iNL5lV) | 2:12 | 2022-08-05 |  |
+| [My Life](https://open.spotify.com/track/0SJYLFDUX2F1IMTdXS23zI) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [My Life](https://open.spotify.com/album/7mkucWU2lfNiqr20iNL5lV) | 2:12 | 2022-08-05 | 2023-04-16 |
 | [New Born Fela](https://open.spotify.com/track/3yifENCc2SkxVfpfnuCwas) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [New Born Fela](https://open.spotify.com/album/0uN0RVYSdznI1vu1VvjgwB) | 2:09 | 2022-08-05 |  |
 | [No Advise Me](https://open.spotify.com/track/563TepXA7x9GT17SHlSBMW) | [Orezi](https://open.spotify.com/artist/6voVBz1bN1mWZCLpNZGqzD) | [No Advise Me](https://open.spotify.com/album/1DVKvXIvBqaIIuPQxy1qkK) | 2:58 | 2022-11-18 |  |
 | [NO COMPETITION \(feat\. Asake\)](https://open.spotify.com/track/5DttTktPy0RMZPz4UNfFm4) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:36 | 2023-03-30 |  |
@@ -76,6 +76,7 @@
 | [Oga Mi Sir](https://open.spotify.com/track/7aAvNhf385lLD9WABzMqST) | [Hotkid](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Oga Mi Sir](https://open.spotify.com/album/0zxuEYK7xzifxOwf2KVltM) | 2:40 | 2023-01-27 |  |
 | [Oluchi](https://open.spotify.com/track/6AawOer84g4y7MovhjSKzH) | [Carterefe](https://open.spotify.com/artist/5N9rf2O5ASaO5oiVh5is5n), [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB), [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE) | [Oluchi](https://open.spotify.com/album/391gOMyDsty5F8zBLjdTgb) | 2:42 | 2023-03-10 | 2023-04-06 |
 | [Oluchi](https://open.spotify.com/track/0IHtL8OEYytdyw7mpakIur) | [Carterefe](https://open.spotify.com/artist/5N9rf2O5ASaO5oiVh5is5n), [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE), [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB) | [Oluchi](https://open.spotify.com/album/3CMAs9sJbRYe8ZaPx1qU7f) | 2:42 | 2023-03-30 |  |
+| [On Fire \(From 'Gangs of Lagos'\)](https://open.spotify.com/track/5Y06JkdP9jp68nSQLfeu41) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [On Fire \(From 'Gangs of Lagos'\)](https://open.spotify.com/album/1H7A3Jo78llpDiDAuYKkQS) | 2:40 | 2023-04-14 |  |
 | [Onjo](https://open.spotify.com/track/0CgUCf3JgP7yDEMZKHDhGn) | [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe), [Eeshoohdee](https://open.spotify.com/artist/5ILbKTA1CePpCrdhWMFpOf) | [Onjo](https://open.spotify.com/album/51GU7oRSKRyki7ZeMleGsT) | 2:28 | 2022-12-02 | 2023-02-28 |
 | [Oshey Boys](https://open.spotify.com/track/5B2gyPpOBTrxaixIoBct5G) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Oshey Boys](https://open.spotify.com/album/7zXngUfueV6bS1hzS7ustQ) | 3:09 | 2022-12-02 |  |
 | [Otedola](https://open.spotify.com/track/0RTNc1RQqIviHjZIqcZmsm) | [Dice Ailes](https://open.spotify.com/artist/6k96FH3t0HYJRLaMi3TNXa) | [Otedola](https://open.spotify.com/album/0BTJgMB3PiI9E6PMAQ2bD9) | 3:05 | 2022-06-29 | 2022-12-04 |

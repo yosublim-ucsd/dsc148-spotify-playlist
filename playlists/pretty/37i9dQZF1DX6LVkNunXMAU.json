@@ -1,12 +1,12 @@
 {
   "description": "Dulce y \u00e1cido: indie pop latino en estado natural. Foto: Luz Pinos",
-  "num_followers": 53880,
+  "num_followers": 53886,
   "original_name": "mandarina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0MTIwMCwwMDAwMDAwMDVjOTJkYjJhMWNjOTBhZjY3OTFmZmYzOTJiZDRhZDNj",
+  "snapshot_id": "MTY4MTQ0MTIwMCwwMDAwMDAwMGY1MWU5NzlmMjhiNDlhNzcxYTdiMDkwMGQxNTgyNDFj",
   "tracks": [
     {
       "added_at": "2023-04-14 03:00:00",
@@ -183,22 +183,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Volver Atr\u00e1s",
-        "url": "https://open.spotify.com/album/0kDzfXdEsvV9RVDze0PRg7"
-      },
-      "artists": [
-        {
-          "name": "Adrian Bello",
-          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
-        }
-      ],
-      "duration_ms": 215721,
-      "name": "Volver Atr\u00e1s",
-      "url": "https://open.spotify.com/track/37tcPLggz0Jeo2cz6hgerF"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Soda de Uva",
         "url": "https://open.spotify.com/album/54waWoWfW7gIfuZ4EvdrXc"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 162077,
       "name": "Miel",
       "url": "https://open.spotify.com/track/5JdlC0CC89wD1UHJBENJRY"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Volver Atr\u00e1s",
+        "url": "https://open.spotify.com/album/0kDzfXdEsvV9RVDze0PRg7"
+      },
+      "artists": [
+        {
+          "name": "Adrian Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+        }
+      ],
+      "duration_ms": 215721,
+      "name": "Volver Atr\u00e1s",
+      "url": "https://open.spotify.com/track/37tcPLggz0Jeo2cz6hgerF"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Azul Es Donde Siempre Estoy",
-        "url": "https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M"
-      },
-      "artists": [
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Protagonista",
-      "url": "https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Verano en Invierno",
         "url": "https://open.spotify.com/album/54NK5gk2Gx0fkycE2hUiM5"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 228437,
       "name": "Amor de Verano",
       "url": "https://open.spotify.com/track/2XvJurdJip7XdjW1j1EfS8"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Azul Es Donde Siempre Estoy",
+        "url": "https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Protagonista",
+      "url": "https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -443,6 +443,58 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Es Tan Bonita",
+        "url": "https://open.spotify.com/album/3YkDljxrqjy8O4CEJQkvLY"
+      },
+      "artists": [
+        {
+          "name": "George Rhoads",
+          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
+        },
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        }
+      ],
+      "duration_ms": 159333,
+      "name": "Es Tan Bonita",
+      "url": "https://open.spotify.com/track/05lyKjGs0wYxWvoxWnJQju"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Terca",
+        "url": "https://open.spotify.com/album/49rKzzyFSqNVEj160n6iPS"
+      },
+      "artists": [
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        }
+      ],
+      "duration_ms": 132316,
+      "name": "Terca",
+      "url": "https://open.spotify.com/track/705iDVYgG2BrtlD8hfDVHH"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "SAD",
+        "url": "https://open.spotify.com/album/5AHDaEzx1v4KKwMHJxJB1E"
+      },
+      "artists": [
+        {
+          "name": "nano mundano",
+          "url": "https://open.spotify.com/artist/0UTjWU7XvLl9O12dfTxhfl"
+        }
+      ],
+      "duration_ms": 224693,
+      "name": "SAD",
+      "url": "https://open.spotify.com/track/4QLq5Ckjq14BcvnO1tAo9d"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "Negro",
         "url": "https://open.spotify.com/album/47nXLO7WVGjNijy7I7cEpT"
       },
@@ -495,38 +547,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "SAD",
-        "url": "https://open.spotify.com/album/5AHDaEzx1v4KKwMHJxJB1E"
-      },
-      "artists": [
-        {
-          "name": "nano mundano",
-          "url": "https://open.spotify.com/artist/0UTjWU7XvLl9O12dfTxhfl"
-        }
-      ],
-      "duration_ms": 224693,
-      "name": "SAD",
-      "url": "https://open.spotify.com/track/4QLq5Ckjq14BcvnO1tAo9d"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Una Vez M\u00e1s",
-        "url": "https://open.spotify.com/album/5GtNzOeObvCTuob1bxt7e0"
-      },
-      "artists": [
-        {
-          "name": "Valdes",
-          "url": "https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc"
-        }
-      ],
-      "duration_ms": 244689,
-      "name": "Otra Vez",
-      "url": "https://open.spotify.com/track/5g2zTEnrgZQa9MInAahB3h"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "UY!",
         "url": "https://open.spotify.com/album/26eLXyKicJJrQDxqg4RB25"
       },
@@ -547,6 +567,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Una Vez M\u00e1s",
+        "url": "https://open.spotify.com/album/5GtNzOeObvCTuob1bxt7e0"
+      },
+      "artists": [
+        {
+          "name": "Valdes",
+          "url": "https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc"
+        }
+      ],
+      "duration_ms": 244689,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/5g2zTEnrgZQa9MInAahB3h"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "De Canciones Tristes y Otras Sutilezas",
         "url": "https://open.spotify.com/album/4pYSsYWtj0fPzTXF5tES60"
       },
@@ -559,26 +595,6 @@
       "duration_ms": 161302,
       "name": "A la Primera",
       "url": "https://open.spotify.com/track/3MsD0RrlQb1OoPFInlQoJy"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "No Ves Tal Vez",
-        "url": "https://open.spotify.com/album/3C4Cqb16lrZSpFoc772AIv"
-      },
-      "artists": [
-        {
-          "name": "Lisandro Aristimu\u00f1o",
-          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
-        },
-        {
-          "name": "Jono McCleery",
-          "url": "https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy"
-        }
-      ],
-      "duration_ms": 209829,
-      "name": "No Ves Tal Vez",
-      "url": "https://open.spotify.com/track/4vKh9YiqQQQHq7Bn2IdNbN"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -615,6 +631,26 @@
       "duration_ms": 219647,
       "name": "En una",
       "url": "https://open.spotify.com/track/0JljvMGjWcpbKY5pultmMb"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "No Ves Tal Vez",
+        "url": "https://open.spotify.com/album/3C4Cqb16lrZSpFoc772AIv"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Aristimu\u00f1o",
+          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
+        },
+        {
+          "name": "Jono McCleery",
+          "url": "https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy"
+        }
+      ],
+      "duration_ms": 209829,
+      "name": "No Ves Tal Vez",
+      "url": "https://open.spotify.com/track/4vKh9YiqQQQHq7Bn2IdNbN"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -739,22 +775,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Terca",
-        "url": "https://open.spotify.com/album/49rKzzyFSqNVEj160n6iPS"
-      },
-      "artists": [
-        {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
-        }
-      ],
-      "duration_ms": 132316,
-      "name": "Terca",
-      "url": "https://open.spotify.com/track/705iDVYgG2BrtlD8hfDVHH"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "parkour",
         "url": "https://open.spotify.com/album/5rXCyHFLbBRDCMzcIpkVnL"
       },
@@ -767,6 +787,22 @@
       "duration_ms": 230292,
       "name": "parkour",
       "url": "https://open.spotify.com/track/4tr21CwLteQmwz1E1IwgZY"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Ni\u00f1a",
+        "url": "https://open.spotify.com/album/7hYbOuYfiOBUa9r6tdDcQj"
+      },
+      "artists": [
+        {
+          "name": "Bocho",
+          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
+        }
+      ],
+      "duration_ms": 200245,
+      "name": "Ni\u00f1a",
+      "url": "https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -823,22 +859,6 @@
       "duration_ms": 246133,
       "name": "Nosotros Dos",
       "url": "https://open.spotify.com/track/2dX6OVcDAYCjopRIoQalKQ"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Ni\u00f1a",
-        "url": "https://open.spotify.com/album/7hYbOuYfiOBUa9r6tdDcQj"
-      },
-      "artists": [
-        {
-          "name": "Bocho",
-          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
-        }
-      ],
-      "duration_ms": 200245,
-      "name": "Ni\u00f1a",
-      "url": "https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1139,26 +1159,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Vamos a Lograrlo",
-        "url": "https://open.spotify.com/album/1oJ242jCFlXM34tvvWrdYo"
-      },
-      "artists": [
-        {
-          "name": "Tobe",
-          "url": "https://open.spotify.com/artist/3GhK9yarHU8W0EZeKQThHY"
-        },
-        {
-          "name": "Francisca y Los Exploradores",
-          "url": "https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf"
-        }
-      ],
-      "duration_ms": 212177,
-      "name": "Vamos a Lograrlo",
-      "url": "https://open.spotify.com/track/40ZVfn7C1AKYtPDK6Cm1H2"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Sigue Avanzando",
         "url": "https://open.spotify.com/album/56w8kgwJIz3Hk00QnlEeCA"
       },
@@ -1179,22 +1179,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Ya no hay dudas",
-        "url": "https://open.spotify.com/album/7vfWKcTC2qF1wnPKxVKnz9"
+        "name": "Vamos a Lograrlo",
+        "url": "https://open.spotify.com/album/1oJ242jCFlXM34tvvWrdYo"
       },
       "artists": [
         {
-          "name": "Camila Buch",
-          "url": "https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV"
+          "name": "Tobe",
+          "url": "https://open.spotify.com/artist/3GhK9yarHU8W0EZeKQThHY"
         },
         {
-          "name": "Los Otros D\u00edas",
-          "url": "https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V"
+          "name": "Francisca y Los Exploradores",
+          "url": "https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf"
         }
       ],
-      "duration_ms": 195856,
-      "name": "Ya no hay dudas",
-      "url": "https://open.spotify.com/track/3LMk3abz8KRRRXnJHatyEw"
+      "duration_ms": 212177,
+      "name": "Vamos a Lograrlo",
+      "url": "https://open.spotify.com/track/40ZVfn7C1AKYtPDK6Cm1H2"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Simona a Guitarra y Voz (Lado A)",
-        "url": "https://open.spotify.com/album/3LnuQLn6sRN58vctyqd9NC"
-      },
-      "artists": [
-        {
-          "name": "Mauro Samaniego",
-          "url": "https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L"
-        }
-      ],
-      "duration_ms": 247636,
-      "name": "Paredes Finas",
-      "url": "https://open.spotify.com/track/73k8ezRBHx9LSSGufofMbc"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Ciclo",
         "url": "https://open.spotify.com/album/4D2vFTNVmpXDj4nvBGgOGJ"
       },
@@ -1255,6 +1239,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Simona a Guitarra y Voz (Lado A)",
+        "url": "https://open.spotify.com/album/3LnuQLn6sRN58vctyqd9NC"
+      },
+      "artists": [
+        {
+          "name": "Mauro Samaniego",
+          "url": "https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L"
+        }
+      ],
+      "duration_ms": 247636,
+      "name": "Paredes Finas",
+      "url": "https://open.spotify.com/track/73k8ezRBHx9LSSGufofMbc"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "Empate",
         "url": "https://open.spotify.com/album/2uoKUJILAJXhOsAWbutwLg"
       },
@@ -1271,6 +1271,26 @@
       "duration_ms": 178067,
       "name": "Empate",
       "url": "https://open.spotify.com/track/1ltnHwKy5jFgnJGtW056F0"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Ya no hay dudas",
+        "url": "https://open.spotify.com/album/7vfWKcTC2qF1wnPKxVKnz9"
+      },
+      "artists": [
+        {
+          "name": "Camila Buch",
+          "url": "https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV"
+        },
+        {
+          "name": "Los Otros D\u00edas",
+          "url": "https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V"
+        }
+      ],
+      "duration_ms": 195856,
+      "name": "Ya no hay dudas",
+      "url": "https://open.spotify.com/track/3LMk3abz8KRRRXnJHatyEw"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1343,6 +1363,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Technicolor",
+        "url": "https://open.spotify.com/album/1eCnBj2lBRyQO4OQ4k02S1"
+      },
+      "artists": [
+        {
+          "name": "Yael Meyer",
+          "url": "https://open.spotify.com/artist/5xCqJdB2V3ZNfuxhiAJi2r"
+        }
+      ],
+      "duration_ms": 194903,
+      "name": "Technicolor",
+      "url": "https://open.spotify.com/track/2IT2dv2O70Zz1ppgJxBsA7"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "Respirar de Nuevo",
         "url": "https://open.spotify.com/album/0bIHg0GOPmuwmR2iU5m2On"
       },
@@ -1371,38 +1407,6 @@
       "duration_ms": 215690,
       "name": "Un Caf\u00e9",
       "url": "https://open.spotify.com/track/3b1Hvw1zcIKPMtO8hw2Cpc"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Technicolor",
-        "url": "https://open.spotify.com/album/1eCnBj2lBRyQO4OQ4k02S1"
-      },
-      "artists": [
-        {
-          "name": "Yael Meyer",
-          "url": "https://open.spotify.com/artist/5xCqJdB2V3ZNfuxhiAJi2r"
-        }
-      ],
-      "duration_ms": 194903,
-      "name": "Technicolor",
-      "url": "https://open.spotify.com/track/2IT2dv2O70Zz1ppgJxBsA7"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Pasajeros",
-        "url": "https://open.spotify.com/album/71slCIIGbJjaIpH8VHUAww"
-      },
-      "artists": [
-        {
-          "name": "Borneo",
-          "url": "https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz"
-        }
-      ],
-      "duration_ms": 165205,
-      "name": "Pasajeros",
-      "url": "https://open.spotify.com/track/65VrYowEhFUUuyK8DQKdHY"
     }
   ],
   "unique_name": "mandarina",

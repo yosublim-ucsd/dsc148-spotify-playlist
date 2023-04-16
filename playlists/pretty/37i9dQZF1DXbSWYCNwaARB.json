@@ -1,15 +1,15 @@
 {
   "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. Cover: Kep1er",
-  "num_followers": 749304,
+  "num_followers": 749893,
   "original_name": "Girl Krush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTIwMDEyOCwwMDAwMDAwMDU4NjZhMjlkMmY2NjE0ZDBmMTA2ODFmNjYzZjI4YWE0",
+  "snapshot_id": "MTY4MTIwMDEyOCwwMDAwMDAwMDlhOTk2MTAxY2MzNGQ3M2UwN2NkOGY3ZWU0OTNmY2Q1",
   "tracks": [
     {
-      "added_at": "2023-04-15 00:35:30",
+      "added_at": "2023-04-16 00:40:35",
       "album": {
         "name": "LOVESTRUCK!",
         "url": "https://open.spotify.com/album/06qoehc4xjI7IW9J8jQFEX"
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-04-04 07:32:25",
       "album": {
-        "name": "Stamp On It - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/2Gxd1fr4RFHVNx6IxGr9I7"
-      },
-      "artists": [
-        {
-          "name": "GOT the beat",
-          "url": "https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX"
-        }
-      ],
-      "duration_ms": 232813,
-      "name": "Stamp On It",
-      "url": "https://open.spotify.com/track/0mlxHb4jbPr1PUBUv0WHRS"
-    },
-    {
-      "added_at": "2023-04-04 07:32:25",
-      "album": {
         "name": "Next Level",
         "url": "https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 221573,
       "name": "Next Level",
       "url": "https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ"
+    },
+    {
+      "added_at": "2023-04-04 07:32:25",
+      "album": {
+        "name": "Stamp On It - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/2Gxd1fr4RFHVNx6IxGr9I7"
+      },
+      "artists": [
+        {
+          "name": "GOT the beat",
+          "url": "https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX"
+        }
+      ],
+      "duration_ms": 232813,
+      "name": "Stamp On It",
+      "url": "https://open.spotify.com/track/0mlxHb4jbPr1PUBUv0WHRS"
     },
     {
       "added_at": "2023-04-04 07:32:25",

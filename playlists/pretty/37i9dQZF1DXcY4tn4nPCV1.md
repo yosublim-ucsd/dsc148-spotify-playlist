@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY4tn4nPCV1.md) - [plain]
 
 > A calm, instrumental reading playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,049 likes - 242 songs - 10 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,067 likes - 242 songs - 10 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -205,7 +205,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY4tn4nPCV1.md) - [plain]
 | 195 | [See How the World Spins](https://open.spotify.com/track/2W3ZGfTWjdAYWLuFdsIalD) | [Ted Wilkinson](https://open.spotify.com/artist/3Sg7YfE4C7jfzmacocosU8) | [See How the World Spins](https://open.spotify.com/album/1pZqnmDY6kXg0z8eKru8iL) | 2:35 |
 | 196 | [Vitrales](https://open.spotify.com/track/2SPkUtdw39pnYWZr01opD9) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Vitrales](https://open.spotify.com/album/6NfvuPPYduPE9MIQviXENF) | 2:40 |
 | 197 | [Cavtat](https://open.spotify.com/track/69cCYMgf3Hk9BzbYLmzY7V) | [Medéa Bokor](https://open.spotify.com/artist/0AQEuRH3hzlAdn8eOzGJRl) | [Cavtat](https://open.spotify.com/album/1im1sa5FyaQmWb24yyhRd2) | 1:59 |
-| 198 | [avenue des reves](https://open.spotify.com/track/5YZvuWu0KkGQPiW9zSWRq3) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [avenue des reves](https://open.spotify.com/album/7apwlKr7lOsFFOrBzHg0yp) | 2:11 |
+| 198 | [Moux: avenue des reves](https://open.spotify.com/track/5YZvuWu0KkGQPiW9zSWRq3) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [avenue des reves](https://open.spotify.com/album/7apwlKr7lOsFFOrBzHg0yp) | 2:11 |
 | 199 | [Imperceptible](https://open.spotify.com/track/3wowypV1ykrIueaXWRRYey) | [Nadav Amir\-Himmel](https://open.spotify.com/artist/1gLEDK37zrK7KasVpnQZsZ) | [Imperceptible](https://open.spotify.com/album/2jKPlE2WuGckCR1D1v5Gpq) | 2:55 |
 | 200 | [La maison de l'été](https://open.spotify.com/track/0yQC370X6nqaUvfZEuAF5D) | [Anne Vallayer](https://open.spotify.com/artist/1Yk8xJQxv9RJTKMwKrkPOz) | [La maison de l'été](https://open.spotify.com/album/6lhP1cl4RdaxwDwUzDwZKr) | 2:34 |
 | 201 | [Sanpo](https://open.spotify.com/track/07lePWIMzKuTsvkTtTVQhW) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Sanpo](https://open.spotify.com/album/1BdZhzd2iQTim5CxFLyccf) | 2:36 |

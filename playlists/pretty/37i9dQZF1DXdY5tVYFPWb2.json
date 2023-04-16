@@ -1,12 +1,12 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 138518,
+  "num_followers": 138588,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTIyNTIwMCwwMDAwMDAwMGEzNzRlOGZlOGU4ZDFkMzYyNWVkMzNlODkwYzcxMzM4",
+  "snapshot_id": "MTY4MTIyNTIwMCwwMDAwMDAwMGU4ZWM5MzYzNzZlZGE4NzdiMjQzZWE0Y2RmMTgzMzZi",
   "tracks": [
     {
       "added_at": "2023-04-11 15:00:00",
@@ -723,38 +723,6 @@
     {
       "added_at": "2023-04-11 15:00:00",
       "album": {
-        "name": "DOWN TOWN",
-        "url": "https://open.spotify.com/album/3yY408DUkgwhfZkouMRK0i"
-      },
-      "artists": [
-        {
-          "name": "Yu Sakai",
-          "url": "https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y"
-        },
-        {
-          "name": "Ovall",
-          "url": "https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv"
-        },
-        {
-          "name": "Michael Kaneko",
-          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
-        },
-        {
-          "name": "Hiro-a-key",
-          "url": "https://open.spotify.com/artist/3xST4IdzibYK6K3IAtcaVe"
-        },
-        {
-          "name": "salasa",
-          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
-        }
-      ],
-      "duration_ms": 290610,
-      "name": "DOWN TOWN",
-      "url": "https://open.spotify.com/track/3MXCCaSni8I1FSvHeMQIGV"
-    },
-    {
-      "added_at": "2023-04-11 15:00:00",
-      "album": {
         "name": "MUSIC WARDROBE",
         "url": "https://open.spotify.com/album/3cqeIPIj8gyb9olBEqhC2D"
       },
@@ -791,6 +759,22 @@
       "duration_ms": 297444,
       "name": "Watching Over You",
       "url": "https://open.spotify.com/track/6zI12MoGsKN4CmAzzXljhE"
+    },
+    {
+      "added_at": "2023-04-11 15:00:00",
+      "album": {
+        "name": "\u5e74\u306e\u702c\u306b",
+        "url": "https://open.spotify.com/album/7qeOdN9cJZTMI8QVuq8jD2"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        }
+      ],
+      "duration_ms": 175941,
+      "name": "\u5e74\u306e\u702c\u306b",
+      "url": "https://open.spotify.com/track/2EYuPrYNZTlr3qz1NNUq58"
     },
     {
       "added_at": "2023-04-11 15:00:00",
@@ -843,18 +827,18 @@
     {
       "added_at": "2023-04-11 15:00:00",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/0omU25qz419rVoQj8b2ePf"
+        "name": "A Rainy Night in NY",
+        "url": "https://open.spotify.com/album/4lbahrWo1oX8bq55QevAKH"
       },
       "artists": [
         {
-          "name": "yonawo",
-          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
+          "name": "moeki",
+          "url": "https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM"
         }
       ],
-      "duration_ms": 313561,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/171kFwAAFjLusKsyR2p1kp"
+      "duration_ms": 178546,
+      "name": "A Rainy Night in NY",
+      "url": "https://open.spotify.com/track/6ISvLzyd8LRsSRLJR9WyAX"
     },
     {
       "added_at": "2023-04-11 15:00:00",
@@ -875,18 +859,34 @@
     {
       "added_at": "2023-04-11 15:00:00",
       "album": {
-        "name": "A Rainy Night in NY",
-        "url": "https://open.spotify.com/album/4lbahrWo1oX8bq55QevAKH"
+        "name": "DOWN TOWN",
+        "url": "https://open.spotify.com/album/3yY408DUkgwhfZkouMRK0i"
       },
       "artists": [
         {
-          "name": "moeki",
-          "url": "https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM"
+          "name": "Yu Sakai",
+          "url": "https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y"
+        },
+        {
+          "name": "Ovall",
+          "url": "https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv"
+        },
+        {
+          "name": "Michael Kaneko",
+          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
+        },
+        {
+          "name": "Hiro-a-key",
+          "url": "https://open.spotify.com/artist/3xST4IdzibYK6K3IAtcaVe"
+        },
+        {
+          "name": "salasa",
+          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
         }
       ],
-      "duration_ms": 178546,
-      "name": "A Rainy Night in NY",
-      "url": "https://open.spotify.com/track/6ISvLzyd8LRsSRLJR9WyAX"
+      "duration_ms": 290610,
+      "name": "DOWN TOWN",
+      "url": "https://open.spotify.com/track/3MXCCaSni8I1FSvHeMQIGV"
     },
     {
       "added_at": "2023-04-11 15:00:00",
@@ -911,18 +911,18 @@
     {
       "added_at": "2023-04-11 15:00:00",
       "album": {
-        "name": "\u5e74\u306e\u702c\u306b",
-        "url": "https://open.spotify.com/album/7qeOdN9cJZTMI8QVuq8jD2"
+        "name": "Inner Ocean",
+        "url": "https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1"
       },
       "artists": [
         {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+          "name": "salasa",
+          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
         }
       ],
-      "duration_ms": 175941,
-      "name": "\u5e74\u306e\u702c\u306b",
-      "url": "https://open.spotify.com/track/2EYuPrYNZTlr3qz1NNUq58"
+      "duration_ms": 223808,
+      "name": "\u592a\u967d\u304c\u6607\u308b\u307e\u3067",
+      "url": "https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD"
     },
     {
       "added_at": "2023-04-11 15:00:00",
@@ -943,18 +943,18 @@
     {
       "added_at": "2023-04-11 15:00:00",
       "album": {
-        "name": "Inner Ocean",
-        "url": "https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1"
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/0omU25qz419rVoQj8b2ePf"
       },
       "artists": [
         {
-          "name": "salasa",
-          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
+          "name": "yonawo",
+          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
         }
       ],
-      "duration_ms": 223808,
-      "name": "\u592a\u967d\u304c\u6607\u308b\u307e\u3067",
-      "url": "https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD"
+      "duration_ms": 313561,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/171kFwAAFjLusKsyR2p1kp"
     },
     {
       "added_at": "2023-04-11 15:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-04-11 15:00:00",
       "album": {
-        "name": "\u5929\u56fd\u306b\u3044\u3061\u3070\u3093\u8fd1\u3044\u5cf6",
-        "url": "https://open.spotify.com/album/4YPZiZnV40IFY4X3j8Jnta"
-      },
-      "artists": [
-        {
-          "name": "Asako Toki",
-          "url": "https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y"
-        }
-      ],
-      "duration_ms": 283106,
-      "name": "\u5929\u56fd\u306b\u3044\u3061\u3070\u3093\u8fd1\u3044\u5cf6",
-      "url": "https://open.spotify.com/track/67wpz675S04tMcORr36Psb"
-    },
-    {
-      "added_at": "2023-04-11 15:00:00",
-      "album": {
         "name": "HONDA",
         "url": "https://open.spotify.com/album/42h4n4IVhO4YEIKXmREkxN"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 239745,
       "name": "HONDA",
       "url": "https://open.spotify.com/track/3dmfvWITuVs9OumXtwpAPJ"
+    },
+    {
+      "added_at": "2023-04-11 15:00:00",
+      "album": {
+        "name": "\u5929\u56fd\u306b\u3044\u3061\u3070\u3093\u8fd1\u3044\u5cf6",
+        "url": "https://open.spotify.com/album/4YPZiZnV40IFY4X3j8Jnta"
+      },
+      "artists": [
+        {
+          "name": "Asako Toki",
+          "url": "https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y"
+        }
+      ],
+      "duration_ms": 283106,
+      "name": "\u5929\u56fd\u306b\u3044\u3061\u3070\u3093\u8fd1\u3044\u5cf6",
+      "url": "https://open.spotify.com/track/67wpz675S04tMcORr36Psb"
     },
     {
       "added_at": "2023-04-11 15:00:00",
@@ -1235,6 +1235,26 @@
     {
       "added_at": "2023-04-11 15:00:00",
       "album": {
+        "name": "Zurukunai?",
+        "url": "https://open.spotify.com/album/4wJr6bbq5dLHT5uSF6ZSrA"
+      },
+      "artists": [
+        {
+          "name": "\u3077\u306b\u3077\u306b\u96fb\u6a5f",
+          "url": "https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK"
+        },
+        {
+          "name": "Kan Sano",
+          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
+        }
+      ],
+      "duration_ms": 208981,
+      "name": "Zurukunai?",
+      "url": "https://open.spotify.com/track/5sfozeR3LgwkGWWUT5TmiH"
+    },
+    {
+      "added_at": "2023-04-11 15:00:00",
+      "album": {
         "name": "Structure Of Romance (feat. Kyoko Koizumi)",
         "url": "https://open.spotify.com/album/4YDaCT2bUZtIEaXhjAM100"
       },
@@ -1271,26 +1291,6 @@
       "duration_ms": 267666,
       "name": "Lovely",
       "url": "https://open.spotify.com/track/0vH1UCjFHp0VCDK7U0XK8W"
-    },
-    {
-      "added_at": "2023-04-11 15:00:00",
-      "album": {
-        "name": "Zurukunai?",
-        "url": "https://open.spotify.com/album/4wJr6bbq5dLHT5uSF6ZSrA"
-      },
-      "artists": [
-        {
-          "name": "\u3077\u306b\u3077\u306b\u96fb\u6a5f",
-          "url": "https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK"
-        },
-        {
-          "name": "Kan Sano",
-          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
-        }
-      ],
-      "duration_ms": 208981,
-      "name": "Zurukunai?",
-      "url": "https://open.spotify.com/track/5sfozeR3LgwkGWWUT5TmiH"
     },
     {
       "added_at": "2023-04-11 15:00:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-04-11 15:00:00",
       "album": {
-        "name": "After Party",
-        "url": "https://open.spotify.com/album/4EKE55nhtFpoxHdOJXKb1i"
-      },
-      "artists": [
-        {
-          "name": "yonawo",
-          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
-        }
-      ],
-      "duration_ms": 272657,
-      "name": "After Party",
-      "url": "https://open.spotify.com/track/6ZmTUJTej1ObruiiUsrnrc"
-    },
-    {
-      "added_at": "2023-04-11 15:00:00",
-      "album": {
         "name": "NOTE",
         "url": "https://open.spotify.com/album/2h5PLCIWEYt2VJARv8OvYa"
       },
@@ -1403,6 +1387,22 @@
     {
       "added_at": "2023-04-11 15:00:00",
       "album": {
+        "name": "After Party",
+        "url": "https://open.spotify.com/album/4EKE55nhtFpoxHdOJXKb1i"
+      },
+      "artists": [
+        {
+          "name": "yonawo",
+          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
+        }
+      ],
+      "duration_ms": 272657,
+      "name": "After Party",
+      "url": "https://open.spotify.com/track/6ZmTUJTej1ObruiiUsrnrc"
+    },
+    {
+      "added_at": "2023-04-11 15:00:00",
+      "album": {
         "name": "\u30c0\u30f3\u30b9\u30d5\u30ed\u30a2EP",
         "url": "https://open.spotify.com/album/0OqXDoI0GTKevz8B96ueE9"
       },
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2023-04-11 15:00:00",
       "album": {
-        "name": "A.Y.A e.p",
-        "url": "https://open.spotify.com/album/0DqIJCwOCkKi4HLuxuSbn3"
+        "name": "TICKETS",
+        "url": "https://open.spotify.com/album/4Rt5bFyqY0uE8wdXJMID9z"
       },
       "artists": [
         {
-          "name": "Yogee New Waves",
-          "url": "https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh"
+          "name": "\u7af9\u5185\u30a2\u30f3\u30ca",
+          "url": "https://open.spotify.com/artist/7JbJSRUH6Wu2RtDfn8rbzw"
         }
       ],
-      "duration_ms": 273719,
-      "name": "Rain Of Your Heart",
-      "url": "https://open.spotify.com/track/15ZcdsP8WZcifDH1AwAm9O"
+      "duration_ms": 171500,
+      "name": "YOU+ME=",
+      "url": "https://open.spotify.com/track/7AxghpcGPvNjbrJScnnrgO"
     },
     {
       "added_at": "2023-04-11 15:00:00",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2023-04-11 15:00:00",
       "album": {
-        "name": "TICKETS",
-        "url": "https://open.spotify.com/album/4Rt5bFyqY0uE8wdXJMID9z"
+        "name": "A.Y.A e.p",
+        "url": "https://open.spotify.com/album/0DqIJCwOCkKi4HLuxuSbn3"
       },
       "artists": [
         {
-          "name": "\u7af9\u5185\u30a2\u30f3\u30ca",
-          "url": "https://open.spotify.com/artist/7JbJSRUH6Wu2RtDfn8rbzw"
+          "name": "Yogee New Waves",
+          "url": "https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh"
         }
       ],
-      "duration_ms": 171500,
-      "name": "YOU+ME=",
-      "url": "https://open.spotify.com/track/7AxghpcGPvNjbrJScnnrgO"
+      "duration_ms": 273719,
+      "name": "Rain Of Your Heart",
+      "url": "https://open.spotify.com/track/15ZcdsP8WZcifDH1AwAm9O"
     },
     {
       "added_at": "2023-04-11 15:00:00",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2023-04-11 15:00:00",
       "album": {
+        "name": "yugi",
+        "url": "https://open.spotify.com/album/7eexbOyxF5ZxRboSPVuNVc"
+      },
+      "artists": [
+        {
+          "name": "yonawo",
+          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
+        }
+      ],
+      "duration_ms": 201617,
+      "name": "yugi",
+      "url": "https://open.spotify.com/track/2SgXOT2HryYnbtWL7JfIFy"
+    },
+    {
+      "added_at": "2023-04-11 15:00:00",
+      "album": {
         "name": "It's all about you",
         "url": "https://open.spotify.com/album/2Nle2je0kLudi6kk0PJsuA"
       },
@@ -1527,22 +1543,6 @@
     {
       "added_at": "2023-04-11 15:00:00",
       "album": {
-        "name": "yugi",
-        "url": "https://open.spotify.com/album/7eexbOyxF5ZxRboSPVuNVc"
-      },
-      "artists": [
-        {
-          "name": "yonawo",
-          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
-        }
-      ],
-      "duration_ms": 201617,
-      "name": "yugi",
-      "url": "https://open.spotify.com/track/2SgXOT2HryYnbtWL7JfIFy"
-    },
-    {
-      "added_at": "2023-04-11 15:00:00",
-      "album": {
         "name": "friends",
         "url": "https://open.spotify.com/album/6fxDSk0nnIRStLtvRRGJl8"
       },
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-04-11 15:00:00",
       "album": {
-        "name": "TWO",
-        "url": "https://open.spotify.com/album/0ICXXs5PZGSqrXcogtXezO"
-      },
-      "artists": [
-        {
-          "name": "SPiCYSOL",
-          "url": "https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA"
-        }
-      ],
-      "duration_ms": 187606,
-      "name": "Playback",
-      "url": "https://open.spotify.com/track/0cyepU0mCfmbvZdQMKP4El"
-    },
-    {
-      "added_at": "2023-04-11 15:00:00",
-      "album": {
         "name": "IMA",
         "url": "https://open.spotify.com/album/2yMvBOJATTkn4wDhZZotIT"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 217400,
       "name": "IMA",
       "url": "https://open.spotify.com/track/4L9DM1h6qdDdHzv7b07Xlz"
+    },
+    {
+      "added_at": "2023-04-11 15:00:00",
+      "album": {
+        "name": "TWO",
+        "url": "https://open.spotify.com/album/0ICXXs5PZGSqrXcogtXezO"
+      },
+      "artists": [
+        {
+          "name": "SPiCYSOL",
+          "url": "https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA"
+        }
+      ],
+      "duration_ms": 187606,
+      "name": "Playback",
+      "url": "https://open.spotify.com/track/0cyepU0mCfmbvZdQMKP4El"
     },
     {
       "added_at": "2023-04-11 15:00:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-04-11 15:00:00",
       "album": {
-        "name": "PLASMA",
-        "url": "https://open.spotify.com/album/4gqRmcXiuzlxB9nEnFiK4y"
-      },
-      "artists": [
-        {
-          "name": "Perfume",
-          "url": "https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr"
-        }
-      ],
-      "duration_ms": 376533,
-      "name": "Drive\u2019n The Rain",
-      "url": "https://open.spotify.com/track/5PixDfOQbLTEG2YFPcXA1e"
-    },
-    {
-      "added_at": "2023-04-11 15:00:00",
-      "album": {
         "name": "tonun 2",
         "url": "https://open.spotify.com/album/0N00X1lERWXeDOcu8Fhid3"
       },
@@ -1675,6 +1659,22 @@
     {
       "added_at": "2023-04-11 15:00:00",
       "album": {
+        "name": "PLASMA",
+        "url": "https://open.spotify.com/album/4gqRmcXiuzlxB9nEnFiK4y"
+      },
+      "artists": [
+        {
+          "name": "Perfume",
+          "url": "https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr"
+        }
+      ],
+      "duration_ms": 376533,
+      "name": "Drive\u2019n The Rain",
+      "url": "https://open.spotify.com/track/5PixDfOQbLTEG2YFPcXA1e"
+    },
+    {
+      "added_at": "2023-04-11 15:00:00",
+      "album": {
         "name": "SEASONS",
         "url": "https://open.spotify.com/album/3Gf0rgu4VC50g4ItRiEtao"
       },
@@ -1687,22 +1687,6 @@
       "duration_ms": 241866,
       "name": "Treasure",
       "url": "https://open.spotify.com/track/5run1AkGCGYegjLSlsmvZn"
-    },
-    {
-      "added_at": "2023-04-11 15:00:00",
-      "album": {
-        "name": "Rendezvous",
-        "url": "https://open.spotify.com/album/6bR1ncEiqAvSk0LysPD7yQ"
-      },
-      "artists": [
-        {
-          "name": "Yoko Kuzuya",
-          "url": "https://open.spotify.com/artist/4npBbWR9zhm8hXabjjigvt"
-        }
-      ],
-      "duration_ms": 283933,
-      "name": "Rendezvous",
-      "url": "https://open.spotify.com/track/1RCZ3cqpzj1CUSfXljYcLe"
     },
     {
       "added_at": "2023-04-11 15:00:00",
@@ -1739,6 +1723,22 @@
       "duration_ms": 246613,
       "name": "Midnight Dew",
       "url": "https://open.spotify.com/track/7nxFb3o21pld23nhJNueQD"
+    },
+    {
+      "added_at": "2023-04-11 15:00:00",
+      "album": {
+        "name": "Rendezvous",
+        "url": "https://open.spotify.com/album/6bR1ncEiqAvSk0LysPD7yQ"
+      },
+      "artists": [
+        {
+          "name": "Yoko Kuzuya",
+          "url": "https://open.spotify.com/artist/4npBbWR9zhm8hXabjjigvt"
+        }
+      ],
+      "duration_ms": 283933,
+      "name": "Rendezvous",
+      "url": "https://open.spotify.com/track/1RCZ3cqpzj1CUSfXljYcLe"
     },
     {
       "added_at": "2023-04-11 15:00:00",

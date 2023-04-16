@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ifjh7WmfEU.md) - [plain]
 
 > Piano music for your massage session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,692 likes - 155 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,708 likes - 155 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ifjh7WmfEU.md) - [plain]
 | 30 | [Sleeping Beauty](https://open.spotify.com/track/0l1YnleLOy8MYRImQBYB1Q) | [Isaac Cassidy](https://open.spotify.com/artist/3QoWofhE474wVe9XdvQrHJ) | [Sleeping Beauty](https://open.spotify.com/album/259LOCwtmWn8iDUzgNle8K) | 2:01 |
 | 31 | [Peace](https://open.spotify.com/track/1wVGlAEohNLnz29Iojl2BI) | [Sanna Aalto](https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg) | [Peace](https://open.spotify.com/album/3KICqMtSBj3fRLRcdXhZKs) | 2:13 |
 | 32 | [Through The Fields](https://open.spotify.com/track/73eFWqvfD6zbttdkmydJ2z) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5) | [Through The Fields](https://open.spotify.com/album/1edcP1iOeSvZTFg4PxMZhB) | 2:20 |
-| 33 | [Winter \- Ambient Mix](https://open.spotify.com/track/59xDPiJXRjFptEUIKmagDn) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Winter \(Ambient Mix\)](https://open.spotify.com/album/2kmzeCtSXl8N7ODN94r3RM) | 4:12 |
+| 33 | [Gjeilo: Winter \- Ambient Mix](https://open.spotify.com/track/59xDPiJXRjFptEUIKmagDn) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Winter \(Ambient Mix\)](https://open.spotify.com/album/2kmzeCtSXl8N7ODN94r3RM) | 4:12 |
 | 34 | [You](https://open.spotify.com/track/1WfuDZ4OFPb1WC76ipdKCW) | [Oliver Peasley](https://open.spotify.com/artist/13EUu6e9QCae6KE3J0glgT) | [You](https://open.spotify.com/album/59xjKBZnOGokehELrAzRo1) | 2:27 |
 | 35 | [Reach](https://open.spotify.com/track/7atqhP3DGCPfVBFK3YVMA7) | [Lester Milton](https://open.spotify.com/artist/2Xuimz47Nd6ltLsj9c1vgE) | [Reach](https://open.spotify.com/album/01KH05yqQgS0Cru4rIj5ML) | 2:00 |
 | 36 | [Consideration](https://open.spotify.com/track/65lddH3h121XMhXaVkazVG) | [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Consideration](https://open.spotify.com/album/0ogzhXsphb7JCFdSg3dRc6) | 2:27 |
@@ -134,7 +134,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ifjh7WmfEU.md) - [plain]
 | 124 | [sahdana](https://open.spotify.com/track/7rTV5NBxyhcHbFdzbyLiJf) | [ildio](https://open.spotify.com/artist/0M7lk3XgbBRdb5EzeRlGIq) | [sahdana](https://open.spotify.com/album/7pn4A1Cyta0u8c3K55JBHr) | 2:55 |
 | 125 | [Keepsake](https://open.spotify.com/track/3kInd0TVmBr2TaumXmTZbN) | [Isobel Watkins](https://open.spotify.com/artist/7q33Rk7eAyVKYNQ8e1yNeq) | [Open Window](https://open.spotify.com/album/3ZMOUgL032R3ee7TiaD5gV) | 2:20 |
 | 126 | [Larks](https://open.spotify.com/track/0DCuRxadki9VQU5pskJrUG) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Deepest Woods](https://open.spotify.com/album/1x8ws4uwMZzi3kcUzq7nqe) | 2:54 |
-| 127 | [heart pieces](https://open.spotify.com/track/0vQIs6UM5iNmIEtazl28za) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [heart pieces](https://open.spotify.com/album/5HrBAQJ2gvG43Ce8B9zPwj) | 2:29 |
+| 127 | [Moux: heart pieces](https://open.spotify.com/track/0vQIs6UM5iNmIEtazl28za) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [heart pieces](https://open.spotify.com/album/5HrBAQJ2gvG43Ce8B9zPwj) | 2:29 |
 | 128 | [In Essence](https://open.spotify.com/track/22wf4F0EwtjXyPbg0kioHm) | [Ivan Vladusic](https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN) | [Quiet Conversation](https://open.spotify.com/album/4U8TIDkfNdGeuKcFw8SgoB) | 3:44 |
 | 129 | [Don't Ever Say Goodbye](https://open.spotify.com/track/0y35Vf7XEzB9wZUhDXrmR5) | [Jane Andreassen](https://open.spotify.com/artist/2UxhGySCjRJKfBuEW3CdMJ) | [Don't Ever Say Goodbye](https://open.spotify.com/album/2SKbUJ83VZve2rKPWRhNeO) | 2:47 |
 | 130 | [A Quiet Triumph](https://open.spotify.com/track/6z80w3KsiHTJioRQYGlPDx) | [Jean DeVoite](https://open.spotify.com/artist/66t8qvy2cOoSxmEjuiRPmf) | [A Quiet Triumph](https://open.spotify.com/album/5S8I0cMWopewNcq6xzlBzj) | 2:04 |

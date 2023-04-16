@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Haitian music. Cover: Tafa Mi-Soleil",
-  "num_followers": 76199,
+  "num_followers": 76245,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTI0NjgwMCwwMDAwMDAwMDAwM2EwOWM5ZWNmNjE1MWY3MTU1MDMyNjVjZjcwZmUx",
+  "snapshot_id": "MTY4MTI0NjgwMCwwMDAwMDAwMDBiMmM3MzYxODk2NmJlMWVkMmYwNTU2N2YzYjBhZmU5",
   "tracks": [
     {
       "added_at": "2023-03-17 20:33:35",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-03-17 20:33:35",
       "album": {
-        "name": "Quoi qu'il advienne (QQA)",
-        "url": "https://open.spotify.com/album/56nRY08QQ3nvWq5YnFV9og"
-      },
-      "artists": [
-        {
-          "name": "Rutshelle Guillaume",
-          "url": "https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk"
-        }
-      ],
-      "duration_ms": 303725,
-      "name": "Rete La",
-      "url": "https://open.spotify.com/track/00eEvIf9gSOahDmGrkRabR"
-    },
-    {
-      "added_at": "2023-03-17 20:33:35",
-      "album": {
         "name": "Gen Bagay",
         "url": "https://open.spotify.com/album/2c17yCuqm2HgVmPldv3vhV"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 194716,
       "name": "Gen Bagay",
       "url": "https://open.spotify.com/track/3QGvZ2bW5WCZ8J6oVoj9ky"
+    },
+    {
+      "added_at": "2023-03-17 20:33:35",
+      "album": {
+        "name": "Quoi qu'il advienne (QQA)",
+        "url": "https://open.spotify.com/album/56nRY08QQ3nvWq5YnFV9og"
+      },
+      "artists": [
+        {
+          "name": "Rutshelle Guillaume",
+          "url": "https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk"
+        }
+      ],
+      "duration_ms": 303725,
+      "name": "Rete La",
+      "url": "https://open.spotify.com/track/00eEvIf9gSOahDmGrkRabR"
     },
     {
       "added_at": "2023-03-17 20:33:35",
@@ -507,6 +507,26 @@
     {
       "added_at": "2023-03-17 20:33:35",
       "album": {
+        "name": "Melanin",
+        "url": "https://open.spotify.com/album/1KfykaXnpStmzaXXS6VcEm"
+      },
+      "artists": [
+        {
+          "name": "Micha\u00ebl Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
+        },
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        }
+      ],
+      "duration_ms": 133835,
+      "name": "Melanin",
+      "url": "https://open.spotify.com/track/74sVNFKqFoOMqaeNYpeiIT"
+    },
+    {
+      "added_at": "2023-03-17 20:33:35",
+      "album": {
         "name": "Rap ap rete Rap",
         "url": "https://open.spotify.com/album/5U5GvGlNnV78o75CE86Vlk"
       },
@@ -531,26 +551,6 @@
       "duration_ms": 236923,
       "name": "Si Yo Vle",
       "url": "https://open.spotify.com/track/1V0BrmoNx3Dp2OjPPx3DHw"
-    },
-    {
-      "added_at": "2023-03-17 20:33:35",
-      "album": {
-        "name": "Melanin",
-        "url": "https://open.spotify.com/album/1KfykaXnpStmzaXXS6VcEm"
-      },
-      "artists": [
-        {
-          "name": "Micha\u00ebl Brun",
-          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
-        },
-        {
-          "name": "Kah-Lo",
-          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
-        }
-      ],
-      "duration_ms": 133835,
-      "name": "Melanin",
-      "url": "https://open.spotify.com/track/74sVNFKqFoOMqaeNYpeiIT"
     },
     {
       "added_at": "2023-03-17 20:33:35",
@@ -699,26 +699,6 @@
     {
       "added_at": "2023-03-17 20:33:35",
       "album": {
-        "name": "Chante ap ret chante",
-        "url": "https://open.spotify.com/album/5W63l4Gttowqd29x5EnHM7"
-      },
-      "artists": [
-        {
-          "name": "Baky",
-          "url": "https://open.spotify.com/artist/3bIpszMh2QVDRLw1knzG5h"
-        },
-        {
-          "name": "Oswald",
-          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
-        }
-      ],
-      "duration_ms": 253208,
-      "name": "Bay Vag",
-      "url": "https://open.spotify.com/track/2ymMatDezwtUux8iazJviZ"
-    },
-    {
-      "added_at": "2023-03-17 20:33:35",
-      "album": {
         "name": "Premye Fwa",
         "url": "https://open.spotify.com/album/7oP8VD7qj1UGeFyrlMGJQB"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 319974,
       "name": "Podyab Yo",
       "url": "https://open.spotify.com/track/49NaaHGyi4uuHzZoGDYXp8"
+    },
+    {
+      "added_at": "2023-03-17 20:33:35",
+      "album": {
+        "name": "Chante ap ret chante",
+        "url": "https://open.spotify.com/album/5W63l4Gttowqd29x5EnHM7"
+      },
+      "artists": [
+        {
+          "name": "Baky",
+          "url": "https://open.spotify.com/artist/3bIpszMh2QVDRLw1knzG5h"
+        },
+        {
+          "name": "Oswald",
+          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
+        }
+      ],
+      "duration_ms": 253208,
+      "name": "Bay Vag",
+      "url": "https://open.spotify.com/track/2ymMatDezwtUux8iazJviZ"
     },
     {
       "added_at": "2023-03-17 20:33:35",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-03-17 20:33:35",
       "album": {
+        "name": "Troubadour",
+        "url": "https://open.spotify.com/album/13PNOP7VKrtWwQk5EIwU4z"
+      },
+      "artists": [
+        {
+          "name": "Beken",
+          "url": "https://open.spotify.com/artist/27JrHY7vnpdv1zEfe3F8FQ"
+        }
+      ],
+      "duration_ms": 215026,
+      "name": "Kote'w Te Ye",
+      "url": "https://open.spotify.com/track/5igPALpL3Ljrg65UPrFPSw"
+    },
+    {
+      "added_at": "2023-03-17 20:33:35",
+      "album": {
         "name": "Show Me Love (feat. Meer Colon)",
         "url": "https://open.spotify.com/album/0LWFzHbifhwlQsSj6XxDMJ"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 168510,
       "name": "Show Me Love (feat. Meer Colon)",
       "url": "https://open.spotify.com/track/2ShUIgUNPsamHqdmLDtQ1P"
-    },
-    {
-      "added_at": "2023-03-17 20:33:35",
-      "album": {
-        "name": "Troubadour",
-        "url": "https://open.spotify.com/album/13PNOP7VKrtWwQk5EIwU4z"
-      },
-      "artists": [
-        {
-          "name": "Beken",
-          "url": "https://open.spotify.com/artist/27JrHY7vnpdv1zEfe3F8FQ"
-        }
-      ],
-      "duration_ms": 215026,
-      "name": "Kote'w Te Ye",
-      "url": "https://open.spotify.com/track/5igPALpL3Ljrg65UPrFPSw"
     },
     {
       "added_at": "2023-03-17 20:33:35",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2023-03-17 20:33:35",
       "album": {
-        "name": "Ogou (Pran Ka Mwen)",
-        "url": "https://open.spotify.com/album/0pcQNg6r5x7FInniNRjP6y"
-      },
-      "artists": [
-        {
-          "name": "Lakou Mizik",
-          "url": "https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r"
-        },
-        {
-          "name": "Joseph Ray",
-          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
-        }
-      ],
-      "duration_ms": 296666,
-      "name": "Ogou (Pran Ka Mwen)",
-      "url": "https://open.spotify.com/track/24w5p9O076nNIdVRkRwhhj"
-    },
-    {
-      "added_at": "2023-03-17 20:33:35",
-      "album": {
         "name": "On va pas baisser les bras",
         "url": "https://open.spotify.com/album/7Gs6rgXadA2qX6X2qslD6A"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 195692,
       "name": "On va pas baisser les bras",
       "url": "https://open.spotify.com/track/1xwm9Ue3w6L2R63RbojM7r"
+    },
+    {
+      "added_at": "2023-03-17 20:33:35",
+      "album": {
+        "name": "Ogou (Pran Ka Mwen)",
+        "url": "https://open.spotify.com/album/0pcQNg6r5x7FInniNRjP6y"
+      },
+      "artists": [
+        {
+          "name": "Lakou Mizik",
+          "url": "https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r"
+        },
+        {
+          "name": "Joseph Ray",
+          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
+        }
+      ],
+      "duration_ms": 296666,
+      "name": "Ogou (Pran Ka Mwen)",
+      "url": "https://open.spotify.com/track/24w5p9O076nNIdVRkRwhhj"
     },
     {
       "added_at": "2023-03-17 20:33:35",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2023-03-17 20:33:35",
       "album": {
+        "name": "Can't Catch Me",
+        "url": "https://open.spotify.com/album/7IBOw2bmNaBtvrVj23qiOK"
+      },
+      "artists": [
+        {
+          "name": "Jessie Woo",
+          "url": "https://open.spotify.com/artist/2eIEzwxBh1vDSSbUfZkeLL"
+        }
+      ],
+      "duration_ms": 229991,
+      "name": "Can't Catch Me",
+      "url": "https://open.spotify.com/track/4t2gMGEevHHuBmd0rW2R2C"
+    },
+    {
+      "added_at": "2023-03-17 20:33:35",
+      "album": {
         "name": "Trip Tropikal",
         "url": "https://open.spotify.com/album/6ZzjN4s7XnjEbl75AsKFcn"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 230476,
       "name": "Bout Konpa - Original Mix",
       "url": "https://open.spotify.com/track/55PtuQkEHQn7Hv8Eol2s4M"
-    },
-    {
-      "added_at": "2023-03-17 20:33:35",
-      "album": {
-        "name": "Can't Catch Me",
-        "url": "https://open.spotify.com/album/7IBOw2bmNaBtvrVj23qiOK"
-      },
-      "artists": [
-        {
-          "name": "Jessie Woo",
-          "url": "https://open.spotify.com/artist/2eIEzwxBh1vDSSbUfZkeLL"
-        }
-      ],
-      "duration_ms": 229991,
-      "name": "Can't Catch Me",
-      "url": "https://open.spotify.com/track/4t2gMGEevHHuBmd0rW2R2C"
     },
     {
       "added_at": "2023-03-17 20:33:35",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2023-03-17 20:33:35",
       "album": {
+        "name": "Worth It",
+        "url": "https://open.spotify.com/album/4vAtGDq9hmY0Bhr3mKpikD"
+      },
+      "artists": [
+        {
+          "name": "Tadia",
+          "url": "https://open.spotify.com/artist/3Zv8NBwNoq4Gatgjvwl8I6"
+        }
+      ],
+      "duration_ms": 158663,
+      "name": "Worth It",
+      "url": "https://open.spotify.com/track/2JuHUDQH485DV7C5gl9TBg"
+    },
+    {
+      "added_at": "2023-03-17 20:33:35",
+      "album": {
         "name": "No Regrets",
         "url": "https://open.spotify.com/album/5cM1tIA8mn3e4EV7FkdBoD"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 400388,
       "name": "Ayizan",
       "url": "https://open.spotify.com/track/0teJdmvqpIy1rTbDlr8ulB"
-    },
-    {
-      "added_at": "2023-03-17 20:33:35",
-      "album": {
-        "name": "Worth It",
-        "url": "https://open.spotify.com/album/4vAtGDq9hmY0Bhr3mKpikD"
-      },
-      "artists": [
-        {
-          "name": "Tadia",
-          "url": "https://open.spotify.com/artist/3Zv8NBwNoq4Gatgjvwl8I6"
-        }
-      ],
-      "duration_ms": 158663,
-      "name": "Worth It",
-      "url": "https://open.spotify.com/track/2JuHUDQH485DV7C5gl9TBg"
     },
     {
       "added_at": "2023-03-17 20:33:35",

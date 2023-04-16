@@ -4,7 +4,7 @@
 
 > This is Ryan Adams\. The essential tracks, all in one playlist.
 
-151 songs - 9 hr 17 min
+152 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Do You Feel](https://open.spotify.com/track/6TlUuvCkyP41YxAqHilHLt) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [FM](https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d) | 2:58 | 2022-08-24 | 2022-10-31 |
 | [Do You Still Love Me?](https://open.spotify.com/track/0iHR4R5G3eMY595B4IvXfA) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoner](https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH) | 3:59 | 2022-01-11 |  |
 | [Don't Give It Away](https://open.spotify.com/track/2WcIA4eZB8iiQqHdOaeRuW) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Devolver](https://open.spotify.com/album/1C5CVsW4oyntbxWjsd1e1h) | 2:54 | 2022-11-06 |  |
+| [Don't Look Back In Anger](https://open.spotify.com/track/5BcH2X2rAn0D3WGTGEtYWO) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Morning Glory](https://open.spotify.com/album/7IlQpxt7VLEUVgh4eSRFAO) | 3:38 | 2023-04-15 |  |
 | [Doomsday](https://open.spotify.com/track/70PPbwGrPBpQ1hRBuuSirh) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoner](https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH) | 3:01 | 2022-01-11 |  |
 | [Doylestown Girl](https://open.spotify.com/track/6oRkeHUGlFoxcFLTpnsINh) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 2:54 | 2022-05-14 |  |
 | [Earthquake](https://open.spotify.com/track/7rhBzg6Lm93bXWcpQ4s0pA) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 4:06 | 2022-05-23 | 2022-08-21 |

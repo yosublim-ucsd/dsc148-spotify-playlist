@@ -1,12 +1,12 @@
 {
   "description": "Verdi was the undisputed king of Italian opera in the 19th century. Explore his greatest works, including Rigoletto and La Traviata, right here.",
-  "num_followers": 66567,
+  "num_followers": 66606,
   "original_name": "This Is Verdi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjM0MDk2NCwwMDAwMDAwMDA3NzBjMzMwMDZlOWRiYjdjZThiNzFjOTQwZTlkNWE2",
+  "snapshot_id": "MTY1NjM0MDk2NCwwMDAwMDAwMGRmYzM3YjhiMmUzMWY2NjkyZjFjMTFmNGNhYmFjYzc3",
   "tracks": [
     {
       "added_at": "2022-06-27 14:42:44",
@@ -871,6 +871,42 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
+        "name": "Verdi: Requiem; Quattro pezzi sacri",
+        "url": "https://open.spotify.com/album/1XaC3xBAnXxc08TzyrT03t"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Cheryl Studer",
+          "url": "https://open.spotify.com/artist/2Owak0BXSN5auAjwTh1N68"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        },
+        {
+          "name": "Vienna State Opera Chorus",
+          "url": "https://open.spotify.com/artist/7dG0oG7NmmndPNaORvzwj9"
+        },
+        {
+          "name": "Norbert Balatsch",
+          "url": "https://open.spotify.com/artist/5Wit3f4MJipmCFDqfdWjc3"
+        }
+      ],
+      "duration_ms": 966000,
+      "name": "4 Pezzi sacri: IV. Te Deum",
+      "url": "https://open.spotify.com/track/5witywN8YtKvIj95C2zdKz"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
         "name": "Verdi: Aida",
         "url": "https://open.spotify.com/album/6Qu2nMcHdXlNzjQEFajIEd"
       },
@@ -971,42 +1007,6 @@
       "duration_ms": 221960,
       "name": "Aida: Act II: Ma tu, Re, tu signore possente",
       "url": "https://open.spotify.com/track/2laB9zIrGuW2oVvBF6ACWg"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
-        "name": "Verdi: Requiem; Quattro pezzi sacri",
-        "url": "https://open.spotify.com/album/1XaC3xBAnXxc08TzyrT03t"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Cheryl Studer",
-          "url": "https://open.spotify.com/artist/2Owak0BXSN5auAjwTh1N68"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        },
-        {
-          "name": "Claudio Abbado",
-          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
-        },
-        {
-          "name": "Vienna State Opera Chorus",
-          "url": "https://open.spotify.com/artist/7dG0oG7NmmndPNaORvzwj9"
-        },
-        {
-          "name": "Norbert Balatsch",
-          "url": "https://open.spotify.com/artist/5Wit3f4MJipmCFDqfdWjc3"
-        }
-      ],
-      "duration_ms": 966000,
-      "name": "4 Pezzi sacri: IV. Te Deum",
-      "url": "https://open.spotify.com/track/5witywN8YtKvIj95C2zdKz"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -1159,54 +1159,6 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
-        "name": "Verdi: Songs",
-        "url": "https://open.spotify.com/album/597ID4pZXyhkJtMPMeFTdb"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Dennis O'Neill",
-          "url": "https://open.spotify.com/artist/4gOpBpkE5PrTJUFC7dWusZ"
-        },
-        {
-          "name": "Ingrid Surgenor",
-          "url": "https://open.spotify.com/artist/1GJ4XkVWcNqaDgkBQv08WC"
-        }
-      ],
-      "duration_ms": 174466,
-      "name": "6 Romanze (1838) (text by J. Vittorelli, T. Bianchi, and C. Angiolini): No. 2. More, Elisa, lo stanco poeta",
-      "url": "https://open.spotify.com/track/1UEyvEkOcg5g1Yre4gVqAY"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
-        "name": "Verdi: Overtures, Vol. 1",
-        "url": "https://open.spotify.com/album/2ArbYKbKugDKfanstRYf75"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Hungarian State Opera Orchestra",
-          "url": "https://open.spotify.com/artist/6rLUj0kWUXAEbz26rtS9wO"
-        },
-        {
-          "name": "Pier Giorgio Morandi",
-          "url": "https://open.spotify.com/artist/5N26LR3F8OW56imuIElk6B"
-        }
-      ],
-      "duration_ms": 515426,
-      "name": "I vespri siciliani*: Sinfonia",
-      "url": "https://open.spotify.com/track/6eIyQmLtCxLVzPS8SqfB4Y"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
         "name": "Kiri - A Portrait",
         "url": "https://open.spotify.com/album/4zqtZ8uDOrhSL0Yi2CYne4"
       },
@@ -1239,8 +1191,8 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
-        "name": "Verdi: Falstaff",
-        "url": "https://open.spotify.com/album/5vydzpfnI6B6mEhUIYQ8Zc"
+        "name": "Verdi: Overtures, Vol. 1",
+        "url": "https://open.spotify.com/album/2ArbYKbKugDKfanstRYf75"
       },
       "artists": [
         {
@@ -1248,21 +1200,41 @@
           "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
         },
         {
-          "name": "Bryn Terfel",
-          "url": "https://open.spotify.com/artist/6ILd69yy67k6OU7cwpGNSl"
+          "name": "Hungarian State Opera Orchestra",
+          "url": "https://open.spotify.com/artist/6rLUj0kWUXAEbz26rtS9wO"
         },
         {
-          "name": "Berliner Philharmoniker",
-          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
-        },
-        {
-          "name": "Claudio Abbado",
-          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+          "name": "Pier Giorgio Morandi",
+          "url": "https://open.spotify.com/artist/5N26LR3F8OW56imuIElk6B"
         }
       ],
-      "duration_ms": 241026,
-      "name": "Falstaff, Act I: L'Onore! Ladri!",
-      "url": "https://open.spotify.com/track/7qWfNxCBZwfu9DKzGWDMki"
+      "duration_ms": 515426,
+      "name": "I vespri siciliani*: Sinfonia",
+      "url": "https://open.spotify.com/track/6eIyQmLtCxLVzPS8SqfB4Y"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
+        "name": "Verdi: Songs",
+        "url": "https://open.spotify.com/album/597ID4pZXyhkJtMPMeFTdb"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Dennis O'Neill",
+          "url": "https://open.spotify.com/artist/4gOpBpkE5PrTJUFC7dWusZ"
+        },
+        {
+          "name": "Ingrid Surgenor",
+          "url": "https://open.spotify.com/artist/1GJ4XkVWcNqaDgkBQv08WC"
+        }
+      ],
+      "duration_ms": 174466,
+      "name": "6 Romanze (1838) (text by J. Vittorelli, T. Bianchi, and C. Angiolini): No. 2. More, Elisa, lo stanco poeta",
+      "url": "https://open.spotify.com/track/1UEyvEkOcg5g1Yre4gVqAY"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -1295,6 +1267,34 @@
       "duration_ms": 206000,
       "name": "La battaglia di Legnano: Preghiera, 'Deus meus, pone illos ut rotam'",
       "url": "https://open.spotify.com/track/6genbSJNg0FxPpAzS2Cf8P"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
+        "name": "Verdi: Falstaff",
+        "url": "https://open.spotify.com/album/5vydzpfnI6B6mEhUIYQ8Zc"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Bryn Terfel",
+          "url": "https://open.spotify.com/artist/6ILd69yy67k6OU7cwpGNSl"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "duration_ms": 241026,
+      "name": "Falstaff, Act I: L'Onore! Ladri!",
+      "url": "https://open.spotify.com/track/7qWfNxCBZwfu9DKzGWDMki"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -1395,6 +1395,30 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
+        "name": "The Verdi Album",
+        "url": "https://open.spotify.com/album/45xmO9uJli4Uv9kYuz6KTb"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Jonas Kaufmann",
+          "url": "https://open.spotify.com/artist/2OHnFY58Dg8c2SC2PtootB"
+        },
+        {
+          "name": "Pier Giorgio Morandi",
+          "url": "https://open.spotify.com/artist/5N26LR3F8OW56imuIElk6B"
+        }
+      ],
+      "duration_ms": 641253,
+      "name": "La Forza del Destino, Atto III: \"La vita \u00e8 inferno all'infelice...O tu, che in seno agli angeli\"",
+      "url": "https://open.spotify.com/track/6TskHmagzWHarn5AfR9gHo"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
         "name": "Verdi: Nabucco",
         "url": "https://open.spotify.com/album/0qup4PMyopHsRFROiy1HYt"
       },
@@ -1467,30 +1491,6 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
-        "name": "The Verdi Album",
-        "url": "https://open.spotify.com/album/45xmO9uJli4Uv9kYuz6KTb"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Jonas Kaufmann",
-          "url": "https://open.spotify.com/artist/2OHnFY58Dg8c2SC2PtootB"
-        },
-        {
-          "name": "Pier Giorgio Morandi",
-          "url": "https://open.spotify.com/artist/5N26LR3F8OW56imuIElk6B"
-        }
-      ],
-      "duration_ms": 641253,
-      "name": "La Forza del Destino, Atto III: \"La vita \u00e8 inferno all'infelice...O tu, che in seno agli angeli\"",
-      "url": "https://open.spotify.com/track/6TskHmagzWHarn5AfR9gHo"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
         "name": "Verdi: Overtures, Vol. 1",
         "url": "https://open.spotify.com/album/2ArbYKbKugDKfanstRYf75"
       },
@@ -1511,6 +1511,42 @@
       "duration_ms": 264000,
       "name": "Un ballo in maschera*: Prelude",
       "url": "https://open.spotify.com/track/7jU0OCnpUjZHvCBpYsUPfA"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
+        "name": "Verdi: Requiem; Quattro pezzi sacri",
+        "url": "https://open.spotify.com/album/1XaC3xBAnXxc08TzyrT03t"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Cheryl Studer",
+          "url": "https://open.spotify.com/artist/2Owak0BXSN5auAjwTh1N68"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        },
+        {
+          "name": "Vienna State Opera Chorus",
+          "url": "https://open.spotify.com/artist/7dG0oG7NmmndPNaORvzwj9"
+        },
+        {
+          "name": "Norbert Balatsch",
+          "url": "https://open.spotify.com/artist/5Wit3f4MJipmCFDqfdWjc3"
+        }
+      ],
+      "duration_ms": 801000,
+      "name": "4 Pezzi sacri: II. Stabat Mater",
+      "url": "https://open.spotify.com/track/6kN6X8ZetLVbftch3W8pzO"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -1555,42 +1591,6 @@
       "duration_ms": 284253,
       "name": "Otello, Act II: Act II: Dove guardi splendono\u2026 Non parlo ancor di prova (Chorus, Jago, Desdemona, Otello)",
       "url": "https://open.spotify.com/track/3cwktPZ9dPAU51iT20JvUe"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
-        "name": "Verdi: Requiem; Quattro pezzi sacri",
-        "url": "https://open.spotify.com/album/1XaC3xBAnXxc08TzyrT03t"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Cheryl Studer",
-          "url": "https://open.spotify.com/artist/2Owak0BXSN5auAjwTh1N68"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        },
-        {
-          "name": "Claudio Abbado",
-          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
-        },
-        {
-          "name": "Vienna State Opera Chorus",
-          "url": "https://open.spotify.com/artist/7dG0oG7NmmndPNaORvzwj9"
-        },
-        {
-          "name": "Norbert Balatsch",
-          "url": "https://open.spotify.com/artist/5Wit3f4MJipmCFDqfdWjc3"
-        }
-      ],
-      "duration_ms": 801000,
-      "name": "4 Pezzi sacri: II. Stabat Mater",
-      "url": "https://open.spotify.com/track/6kN6X8ZetLVbftch3W8pzO"
     },
     {
       "added_at": "2022-06-27 14:42:44",

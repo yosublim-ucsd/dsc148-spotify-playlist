@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lKwK3dS8IE.md) - [plain]
 
 > Folk punk, anti\-folk, acoustic punk & more\. Cover: The Moldy Peaches
 
-[Spotify](https://open.spotify.com/user/spotify) - 653 likes - 54 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 659 likes - 54 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lKwK3dS8IE.md) - [plain]
 | 2 | [Twin Size Mattress](https://open.spotify.com/track/14N3tALR3Mhf7UHpJRKk4L) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [Talon Of The Hawk](https://open.spotify.com/album/1Xz5zrDqXetBm5HwNGSqPs) | 4:24 |
 | 3 | [Blister In The Sun](https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH) | [Violent Femmes](https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy) | [Violent Femmes](https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG) | 2:25 |
 | 4 | [I Love You Like An Alcoholic](https://open.spotify.com/track/7u63zva845rv8tRFi9FG8a) | [The Taxpayers](https://open.spotify.com/artist/1QNEVFk8MjculKl5977kfy) | ["God, Forgive These Bastards" Songs From The Forgotten Life of Henry Turner](https://open.spotify.com/album/2H4MixFpi9BQdQqtozfovm) | 3:35 |
-| 5 | [In the Aeroplane Over the Sea](https://open.spotify.com/track/5rfT032kGmLvbxZzfHlu5D) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [In the Aeroplane Over the Sea](https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob) | 3:22 |
-| 6 | [Hell's Comin' with Me](https://open.spotify.com/track/5N0lmKQfQpXNQNjUGlPKIT) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Hell's Comin' with Me](https://open.spotify.com/album/7sXEDXktkY9cFOcgvIR6CI) | 3:32 |
+| 5 | [Hell's Comin' with Me](https://open.spotify.com/track/5N0lmKQfQpXNQNjUGlPKIT) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Hell's Comin' with Me](https://open.spotify.com/album/7sXEDXktkY9cFOcgvIR6CI) | 3:32 |
+| 6 | [In the Aeroplane Over the Sea](https://open.spotify.com/track/5rfT032kGmLvbxZzfHlu5D) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [In the Aeroplane Over the Sea](https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob) | 3:22 |
 | 7 | [No Children](https://open.spotify.com/track/5cxnSTLzGD1t9xcdmJYFVB) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Tallahassee](https://open.spotify.com/album/6g3n0C6d4v81DnDheoLMvX) | 2:48 |
 | 8 | [In Hell I'll Be in Good Company](https://open.spotify.com/track/4eMxLQtSdgxdA1Hs6D2YuN) | [The Dead South](https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA) | [Good Company](https://open.spotify.com/album/0n4AyLQhgR4uEypHuyUEHp) | 4:05 |
 | 9 | [Brave as a Noun](https://open.spotify.com/track/6bfPo8Ge3VoD4dEGSDs0R9) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [People Who Can Eat People are the Luckiest People in the World](https://open.spotify.com/album/2jRdTNGZzb3drtFRYaUpFE) | 1:14 |
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lKwK3dS8IE.md) - [plain]
 | 16 | [Body Terror Song](https://open.spotify.com/track/3D1PuFi2U8lmtdWRZcCz1f) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [Good Luck Everybody](https://open.spotify.com/album/2SvkUGRbWkrnsytUsINzf6) | 2:37 |
 | 17 | [Gotta Get To Peekskill \(feat\. Violent Femmes\)](https://open.spotify.com/track/17hb9Umsj8gB9dsRnyRX9J) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx), [Violent Femmes](https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy) | [Gotta Get To Peekskill \(feat\. Violent Femmes\)](https://open.spotify.com/album/3LKeCdJ9O8Y9aW6UADSE26) | 2:46 |
 | 18 | [It's Ok I Wouldn't Remember Me Either](https://open.spotify.com/track/4qvHA882fJyA5XhMF8sDhy) | [Crywank](https://open.spotify.com/artist/7gzXeFUDWz0aqhikdkOJxQ) | [Narcissist on the Verge of a Nervous Breakdown](https://open.spotify.com/album/0rU30JMeAM6tFaSfsN6345) | 3:04 |
-| 19 | [Life Time Warranty](https://open.spotify.com/track/4vxsJyTGsAxnXWDuYseeQP) | [Cyberbully Mom Club](https://open.spotify.com/artist/5IZVaIBkyx1ivCXLfpeJXT) | [Amy Locust Whatever](https://open.spotify.com/album/16IBrGQxR5nAVvMVPpP2NE) | 3:23 |
-| 20 | [I'm not a good person](https://open.spotify.com/track/27wOKBP8KERkFP2sqqHloH) | [Pat The Bunny](https://open.spotify.com/artist/3aMGHrEKTeVquvDzpvVcct) | [Probably Nothing, Possibly Everything](https://open.spotify.com/album/1mdup5fgvCJcq2eZzuSUzA) | 2:54 |
-| 21 | [The Mask And The Mirror](https://open.spotify.com/track/07FWyhzw3hxJb8uFBmfMP1) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [The Great Big Lie](https://open.spotify.com/album/5dRcZuEijcy8xMfSaRjtk8) | 3:09 |
+| 19 | [The Mask And The Mirror](https://open.spotify.com/track/07FWyhzw3hxJb8uFBmfMP1) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [The Great Big Lie](https://open.spotify.com/album/5dRcZuEijcy8xMfSaRjtk8) | 3:09 |
+| 20 | [Life Time Warranty](https://open.spotify.com/track/4vxsJyTGsAxnXWDuYseeQP) | [Cyberbully Mom Club](https://open.spotify.com/artist/5IZVaIBkyx1ivCXLfpeJXT) | [Amy Locust Whatever](https://open.spotify.com/album/16IBrGQxR5nAVvMVPpP2NE) | 3:23 |
+| 21 | [I'm not a good person](https://open.spotify.com/track/27wOKBP8KERkFP2sqqHloH) | [Pat The Bunny](https://open.spotify.com/artist/3aMGHrEKTeVquvDzpvVcct) | [Probably Nothing, Possibly Everything](https://open.spotify.com/album/1mdup5fgvCJcq2eZzuSUzA) | 2:54 |
 | 22 | [Loose Lips](https://open.spotify.com/track/3v9YeMpkmyHhtdazNUEvNq) | [Kimya Dawson](https://open.spotify.com/artist/5PPCkoOKabpGGhqrUwSikz) | [Remember That I Love You](https://open.spotify.com/album/7bc415JbeoQAJAPsc8fGyn) | 2:27 |
 | 23 | [Soup Song](https://open.spotify.com/track/3kfqthibmWsfYyCApilYPm) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Soup Song](https://open.spotify.com/album/2l3QigfQrALpDyAkvN6Hl8) | 2:30 |
 | 24 | [Neutral Spirit Hotel](https://open.spotify.com/track/7fedx2UvrXO8ncNOi3c4Fv) | [Local News Legend](https://open.spotify.com/artist/1EmAfvxlLwPpJRJ3hc6zr1) | [Split Peas](https://open.spotify.com/album/60r12R9DFHvufd5Nwhj3v5) | 1:28 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lKwK3dS8IE.md) - [plain]
 | 53 | [Be Happy](https://open.spotify.com/track/6fzlvBtOkL1LNKyrToxVwi) | [A Day Without Love](https://open.spotify.com/artist/09JoYdZo9cekYMqyN1bsGD) | [Be Happy, Today](https://open.spotify.com/album/1dsdPI01rcf6eRHYJTsu1H) | 3:00 |
 | 54 | [Cup of Water](https://open.spotify.com/track/2WxO2FZlWAMz5joaAry6CU) | [Billy Mack Collector](https://open.spotify.com/artist/1e7Ac48NUTW8s93OMz7FWE) | [Songs About Water and Trying to Feel Okay](https://open.spotify.com/album/5JZfn7wYHxgbEbJRs2vb79) | 4:00 |
 
-Snapshot ID: `MTY4MDg0MDAwMCwwMDAwMDAwMDFmNGU2NGNjMmRjNjM4NmQyYjZkMGUwZTZhZmFhMTMz`
+Snapshot ID: `MTY4MDg0MDAwMCwwMDAwMDAwMDhjYjdiYzJkZmUxOGFiZGY0ZGE5OGMzZDRlYWVhMmVk`

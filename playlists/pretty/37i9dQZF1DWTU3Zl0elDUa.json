@@ -1,12 +1,12 @@
 {
   "description": "Essential club anthems from the golden era of house music. Cover: Kenny Dope and Little Louie Vega",
-  "num_followers": 244535,
+  "num_followers": 244996,
   "original_name": "90s House Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMTg2NzY5MCwwMDAwMDAwMDQwMTQxOWI0MThmYTk3YmNiYzlhZjNjNDdhMTVkZDBj",
+  "snapshot_id": "MTYzMTg2NzY5MCwwMDAwMDAwMDk2NTUyMzI3YTIzMThhZWM2ODQ1MWU0ZTFjZTM0NjAw",
   "tracks": [
     {
       "added_at": "2021-09-17 08:34:50",
@@ -155,22 +155,6 @@
     {
       "added_at": "2021-09-17 08:34:50",
       "album": {
-        "name": "Wanted",
-        "url": "https://open.spotify.com/album/59RWOTMG259wspCYTvmW9x"
-      },
-      "artists": [
-        {
-          "name": "Yazz",
-          "url": "https://open.spotify.com/artist/5ApKaVHAStk5kAuyBW1wG8"
-        }
-      ],
-      "duration_ms": 268373,
-      "name": "The Only Way Is Up",
-      "url": "https://open.spotify.com/track/5nlwajOutaUfiSayarrZTy"
-    },
-    {
-      "added_at": "2021-09-17 08:34:50",
-      "album": {
         "name": "Dreamland",
         "url": "https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 247001,
       "name": "Everybody Everybody",
       "url": "https://open.spotify.com/track/6wBMTv8yTiNh50fqTkT0JC"
+    },
+    {
+      "added_at": "2021-09-17 08:34:50",
+      "album": {
+        "name": "Wanted",
+        "url": "https://open.spotify.com/album/59RWOTMG259wspCYTvmW9x"
+      },
+      "artists": [
+        {
+          "name": "Yazz",
+          "url": "https://open.spotify.com/artist/5ApKaVHAStk5kAuyBW1wG8"
+        }
+      ],
+      "duration_ms": 268373,
+      "name": "The Only Way Is Up",
+      "url": "https://open.spotify.com/track/5nlwajOutaUfiSayarrZTy"
     },
     {
       "added_at": "2021-09-17 08:34:50",
@@ -495,22 +495,6 @@
     {
       "added_at": "2021-09-17 08:34:50",
       "album": {
-        "name": "The Very Best Of",
-        "url": "https://open.spotify.com/album/6IjQa4ZCnkSa9cnUvA3yJG"
-      },
-      "artists": [
-        {
-          "name": "Urban Cookie Collective",
-          "url": "https://open.spotify.com/artist/1QYMj6ouUhi6yis1HE8M68"
-        }
-      ],
-      "duration_ms": 210133,
-      "name": "Feels Like Heaven",
-      "url": "https://open.spotify.com/track/7HlxqDDzdWE3gK0i6fS6Bt"
-    },
-    {
-      "added_at": "2021-09-17 08:34:50",
-      "album": {
         "name": "Follow Me",
         "url": "https://open.spotify.com/album/7lHBZXxijgIaXDpKeDQs9O"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 384000,
       "name": "Follow Me - Club Mix",
       "url": "https://open.spotify.com/track/547iG5F16pTdim4XlMlGEU"
+    },
+    {
+      "added_at": "2021-09-17 08:34:50",
+      "album": {
+        "name": "The Very Best Of",
+        "url": "https://open.spotify.com/album/6IjQa4ZCnkSa9cnUvA3yJG"
+      },
+      "artists": [
+        {
+          "name": "Urban Cookie Collective",
+          "url": "https://open.spotify.com/artist/1QYMj6ouUhi6yis1HE8M68"
+        }
+      ],
+      "duration_ms": 210133,
+      "name": "Feels Like Heaven",
+      "url": "https://open.spotify.com/track/7HlxqDDzdWE3gK0i6fS6Bt"
     },
     {
       "added_at": "2021-09-17 08:34:50",
@@ -815,6 +815,22 @@
     {
       "added_at": "2021-09-17 08:34:50",
       "album": {
+        "name": "A Final Hit - The Best Of Leftfield",
+        "url": "https://open.spotify.com/album/572FXQt3pv7BtAyHsn5bP6"
+      },
+      "artists": [
+        {
+          "name": "Leftfield",
+          "url": "https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L"
+        }
+      ],
+      "duration_ms": 457186,
+      "name": "Not Forgotten - Hard Hands Remix",
+      "url": "https://open.spotify.com/track/4IdjLApIFnK01hRUdQlCLT"
+    },
+    {
+      "added_at": "2021-09-17 08:34:50",
+      "album": {
         "name": "Rich in Paradise (Going Back to My Roots)",
         "url": "https://open.spotify.com/album/4XTPgyDIA0ve6BUPAH03A8"
       },
@@ -831,18 +847,18 @@
     {
       "added_at": "2021-09-17 08:34:50",
       "album": {
-        "name": "A Final Hit - The Best Of Leftfield",
-        "url": "https://open.spotify.com/album/572FXQt3pv7BtAyHsn5bP6"
+        "name": "Positive Education",
+        "url": "https://open.spotify.com/album/33AWKkU0SPevtno9yfERFB"
       },
       "artists": [
         {
-          "name": "Leftfield",
-          "url": "https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L"
+          "name": "Slam",
+          "url": "https://open.spotify.com/artist/0Y0Kj7BOR5DM0UevuY7IvO"
         }
       ],
-      "duration_ms": 457186,
-      "name": "Not Forgotten - Hard Hands Remix",
-      "url": "https://open.spotify.com/track/4IdjLApIFnK01hRUdQlCLT"
+      "duration_ms": 519360,
+      "name": "Positive Education",
+      "url": "https://open.spotify.com/track/3RSvIGylwXhu3r83K1bkJJ"
     },
     {
       "added_at": "2021-09-17 08:34:50",
@@ -887,22 +903,6 @@
     {
       "added_at": "2021-09-17 08:34:50",
       "album": {
-        "name": "Positive Education",
-        "url": "https://open.spotify.com/album/33AWKkU0SPevtno9yfERFB"
-      },
-      "artists": [
-        {
-          "name": "Slam",
-          "url": "https://open.spotify.com/artist/0Y0Kj7BOR5DM0UevuY7IvO"
-        }
-      ],
-      "duration_ms": 519360,
-      "name": "Positive Education",
-      "url": "https://open.spotify.com/track/3RSvIGylwXhu3r83K1bkJJ"
-    },
-    {
-      "added_at": "2021-09-17 08:34:50",
-      "album": {
         "name": "Universal",
         "url": "https://open.spotify.com/album/52ie0VU0dtiCXktcxv5hNg"
       },
@@ -931,22 +931,6 @@
       "duration_ms": 375693,
       "name": "Ebeneezar Goode - Beatmasters Mix",
       "url": "https://open.spotify.com/track/2w6c7A9bfstvqCVOCF6UmV"
-    },
-    {
-      "added_at": "2021-09-17 08:34:50",
-      "album": {
-        "name": "Everybody (All Over The World)",
-        "url": "https://open.spotify.com/album/29vo83aZt4XUt2gUSAxzwg"
-      },
-      "artists": [
-        {
-          "name": "FPI Project",
-          "url": "https://open.spotify.com/artist/6HNYPrYPF6UzZhVFu2sLeh"
-        }
-      ],
-      "duration_ms": 313813,
-      "name": "Everybody (All over the World) - Dance Version",
-      "url": "https://open.spotify.com/track/4XbAHiP83NvAj1rW2vIrys"
     },
     {
       "added_at": "2021-09-17 08:34:50",
@@ -995,6 +979,22 @@
       "duration_ms": 446466,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/3kdJEtRfy0SMVMyuwU8KJs"
+    },
+    {
+      "added_at": "2021-09-17 08:34:50",
+      "album": {
+        "name": "Everybody (All Over The World)",
+        "url": "https://open.spotify.com/album/29vo83aZt4XUt2gUSAxzwg"
+      },
+      "artists": [
+        {
+          "name": "FPI Project",
+          "url": "https://open.spotify.com/artist/6HNYPrYPF6UzZhVFu2sLeh"
+        }
+      ],
+      "duration_ms": 313813,
+      "name": "Everybody (All over the World) - Dance Version",
+      "url": "https://open.spotify.com/track/4XbAHiP83NvAj1rW2vIrys"
     },
     {
       "added_at": "2021-09-17 08:34:50",

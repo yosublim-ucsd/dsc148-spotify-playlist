@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 
 > ¡Sube el volumen y disfruta del pop más chicloso! LAGOS y Reik en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,837 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,917 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 8 | [Quédate](https://open.spotify.com/track/65gTApZvCndEZnnEGHayN1) | [OV7](https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2) | [Quédate](https://open.spotify.com/album/3ibZ6PyJY3pJYIpJcmw6MP) | 3:18 |
 | 9 | [En El Alma](https://open.spotify.com/track/68EoXsE22L4KIq6hYqsOOb) | [Motel](https://open.spotify.com/artist/19IsMFpELM7g2UDuwDlZvU), [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [En el Alma](https://open.spotify.com/album/1DgBKSa074CmHpAxJ8XLJu) | 3:46 |
 | 10 | [De Nada](https://open.spotify.com/track/3YTe42RPu0iJVr1ZYJHHyC) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Dije Que No Me Iba a Enamorar](https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y) | 2:16 |
-| 11 | [Será](https://open.spotify.com/track/274DxFl65yG2axEybZ8JwO) | [ADRI](https://open.spotify.com/artist/4dpXYalt8qXd3R4yLPQE7E) | [Será](https://open.spotify.com/album/2WPh7yMafVdo7iQdzyI34C) | 2:16 |
+| 11 | [Será](https://open.spotify.com/track/274DxFl65yG2axEybZ8JwO) | [Adri Torron](https://open.spotify.com/artist/3T0oriPM85tk87rTIIX6pL) | [Será](https://open.spotify.com/album/2WPh7yMafVdo7iQdzyI34C) | 2:16 |
 | 12 | [Tan Viva](https://open.spotify.com/track/3q9urLw4ksYMKJHBqIu4kb) | [JNS](https://open.spotify.com/artist/36VEEgbtrb7tx601gvlzli) | [Tan Viva](https://open.spotify.com/album/6odmoJINNoQa4pRrfcRwEs) | 3:25 |
 | 13 | [Tiroteo \- Remix](https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [Tiroteo \(Remix\)](https://open.spotify.com/album/2Ke07jWpOWaNVYpNMmXt7C) | 5:21 |
 | 14 | [sin ti </3](https://open.spotify.com/track/11PYImjBVaZ2pDE1ERIdHM) | [D\. Krugga](https://open.spotify.com/artist/4x65cIPX0RvYoK1zmQgQXH) | [sin ti </3](https://open.spotify.com/album/7z0agt22EaaxvqDyLxZVsq) | 3:03 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 47 | [Frida](https://open.spotify.com/track/4FJ3UEXLSb071ZWAmoYjyx) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [Frida](https://open.spotify.com/album/55k1P0FF1ouQ4JbhP3VjCK) | 2:47 |
 | 48 | [Que PASE y YA](https://open.spotify.com/track/5znAcI91hov7U28bpvycXr) | [Paulina Goto](https://open.spotify.com/artist/3gkRQ3dXFUtmi9kFdjXB2y) | [Que PASE y YA](https://open.spotify.com/album/66N9ddJ34olVxzsztDFaC4) | 2:26 |
 | 49 | [Cruda](https://open.spotify.com/track/1ZhNiBiRdBZgOWVzm6aC9F) | [Alex Hoyer](https://open.spotify.com/artist/45ztMs8dTg6GRQ41yY4xtr) | [Cruda](https://open.spotify.com/album/6CgVWHze89cEGl44tN6XeH) | 2:45 |
-| 50 | [Marea \(feat\. legallyrxx\)](https://open.spotify.com/track/63ZPI191Myh2F8GpzW14q1) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh), [LuisOn](https://open.spotify.com/artist/2PpwJIa82Jd0CVT1IKgTGs), [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [Marea \(feat\. legallyrxx\)](https://open.spotify.com/album/11ZztgTrgbcz4TA64WxQ6R) | 2:46 |
+| 50 | [Morena Mujer](https://open.spotify.com/track/3nqD2zEi8WQlI2gUzsGDtm) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Morena Mujer](https://open.spotify.com/album/52Enkie6zGmASAECzepRp1) | 2:54 |
 
-Snapshot ID: `MTY4MDg4MjcyNywwMDAwMDAwMDlmNzg2ZWYxZDY3Y2VkMzA1N2U3ZTNlYjg3NmZkYTdh`
+Snapshot ID: `MTY4MDg4MjcyNywwMDAwMDAwMGFhMWMxMmRiYWI0YmI2ZDVlY2QwMzVmNmMwMjFlMjNi`

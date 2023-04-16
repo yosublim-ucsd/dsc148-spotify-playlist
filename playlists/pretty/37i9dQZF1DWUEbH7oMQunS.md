@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 
 > Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,181 likes - 60 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,239 likes - 60 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

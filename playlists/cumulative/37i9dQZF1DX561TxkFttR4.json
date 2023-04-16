@@ -1469,24 +1469,6 @@
     },
     {
       "album": {
-        "name": "heart pieces",
-        "url": "https://open.spotify.com/album/5HrBAQJ2gvG43Ce8B9zPwj"
-      },
-      "artists": [
-        {
-          "name": "Moux",
-          "url": "https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ"
-        }
-      ],
-      "date_added": "2022-02-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 149786,
-      "name": "heart pieces",
-      "url": "https://open.spotify.com/track/0vQIs6UM5iNmIEtazl28za"
-    },
-    {
-      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/7kgpxixcMnXRZ6f1FqIOLv"
       },
@@ -2014,6 +1996,24 @@
       "duration_ms": 538173,
       "name": "Modul 29_14",
       "url": "https://open.spotify.com/track/25KP5DGaUHyQO3WNBGAr2w"
+    },
+    {
+      "album": {
+        "name": "heart pieces",
+        "url": "https://open.spotify.com/album/5HrBAQJ2gvG43Ce8B9zPwj"
+      },
+      "artists": [
+        {
+          "name": "Moux",
+          "url": "https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149786,
+      "name": "Moux: heart pieces",
+      "url": "https://open.spotify.com/track/0vQIs6UM5iNmIEtazl28za"
     },
     {
       "album": {

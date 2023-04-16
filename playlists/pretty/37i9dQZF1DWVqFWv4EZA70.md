@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqFWv4EZA70.md) - [plain]
 
 > Beats que le suben el ánimo a tu día.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,951 likes - 60 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,033 likes - 60 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqFWv4EZA70.md) - [plain]
 | 43 | [Da Feelin](https://open.spotify.com/track/2eV5tSdlAqNQIHRzHUMsXe) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Thought So…](https://open.spotify.com/album/6eRbwkfRJkEWTdNQ7NL3rT) | 4:41 |
 | 44 | [Headspace](https://open.spotify.com/track/6CkTv37VYslWD9igy0pVDG) | [Epifania](https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b) | [Headspace](https://open.spotify.com/album/1hEyaZG3Y4JqrJhWtZMEtz) | 2:13 |
 | 45 | [Love Is Real](https://open.spotify.com/track/2jc8OuPiEPg8T5DhsiRmfk) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [Sincere](https://open.spotify.com/album/0ZQYqKHB95vUfquyaFgJUW) | 3:22 |
-| 46 | [1925](https://open.spotify.com/track/3navZS9goNH9MlBiKD1E6V) | [LVDS](https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s) | [1925](https://open.spotify.com/album/02JcbHQKbM8u2wRO5WHaOe) | 2:44 |
+| 46 | [1925](https://open.spotify.com/track/2xqQQSou8MTah33wgZRQJ3) | [LVDS](https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s) | [Golden Days](https://open.spotify.com/album/2jbAtaivV9FTqp4WXcKqxk) | 2:44 |
 | 47 | [Can't Hold It Back \- Instrumental](https://open.spotify.com/track/0TK3fh9LH2OGfex6ns2gP2) | [People Under The Stairs](https://open.spotify.com/artist/0av074qUwLn5eyzwqoq3xh) | [Highlighter](https://open.spotify.com/album/4ZZOgZ1MOnTrN3X6bIOEIW) | 3:39 |
 | 48 | [Oh My God \(feat\. Lily Allen\) \- Instrumental](https://open.spotify.com/track/3WQIsoZw1ozbE7KW0C7gfW) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Oh My God \(feat\. Lily Allen\)](https://open.spotify.com/album/4J086EMlr6bwo4E4o93vvP) | 3:39 |
 | 49 | [Farewell Spaceman](https://open.spotify.com/track/2LH8eZOTAp4spvNCuLvZ8V) | [Blockhead](https://open.spotify.com/artist/7bHm3B3jJju0q9FUdOgp3b) | [The Music Scene](https://open.spotify.com/album/4i0QEXwMps7KIuVq5PBckJ) | 6:35 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqFWv4EZA70.md) - [plain]
 | 59 | [Whatuptho \(Instrumental\)](https://open.spotify.com/track/3cEBPjgsxmelctGjeaB7wY) | [9th Wonder & Murs](https://open.spotify.com/artist/3tf9lKXejZeU5gzGvRK5zj) | [The Final Adventure \(Instrumentals\)](https://open.spotify.com/album/0z0rbyEtYkisRJBja0FmRk) | 3:35 |
 | 60 | [Beside April](https://open.spotify.com/track/4fyklTEI49emJVhsgUxl6g) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ), [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ) | [Talk Memory](https://open.spotify.com/album/594yqwr1MOvVX0UBnOWftY) | 5:13 |
 
-Snapshot ID: `MTY2NTQyNTg1OCwwMDAwMDAwMDdjMDNiOWI3MzJhY2MwZDVmODZjN2YzMGMwNWJiNjI1`
+Snapshot ID: `MTY2NTQyNTg1OCwwMDAwMDAwMDY1YWUwMzMxYjRiZDI3OWY3YmQwOTcyZGM0M2QwMzQ3`

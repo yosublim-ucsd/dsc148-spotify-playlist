@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To4GlhTfpA.md) - [plain]
 
 > SHINee's back!
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,786 likes - 88 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,831 likes - 88 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

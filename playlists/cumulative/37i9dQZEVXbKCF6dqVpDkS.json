@@ -174,7 +174,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 172252,
       "name": "10:35",
       "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
@@ -682,7 +682,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 148721,
       "name": "Adrenaline",
       "url": "https://open.spotify.com/track/0DDcpc9ImOsGUWupRj2xu5"
@@ -1648,7 +1648,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 165768,
       "name": "Automatisch",
       "url": "https://open.spotify.com/track/7GRExMvdpTtxYS9uUINTi5"
@@ -3317,6 +3317,24 @@
     },
     {
       "album": {
+        "name": "Chemical",
+        "url": "https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184013,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
+    },
+    {
+      "album": {
         "name": "Christmas (Baby, Please Come Home)",
         "url": "https://open.spotify.com/album/3miX7IkmfMBJhQejq5rsA6"
       },
@@ -4136,6 +4154,24 @@
       "duration_ms": 187342,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/69w5X6uTrOaWM32IetSzvO"
+    },
+    {
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212953,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
     },
     {
       "album": {
@@ -12242,7 +12278,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 167684,
       "name": "Meteoriet",
       "url": "https://open.spotify.com/track/1ruXNzERqtHdoXULOAcCsJ"
@@ -15396,6 +15432,24 @@
       "duration_ms": 269986,
       "name": "Roller Coaster",
       "url": "https://open.spotify.com/track/1z2HAz6JcwfGHKMSgKEA3D"
+    },
+    {
+      "album": {
+        "name": "Rommel",
+        "url": "https://open.spotify.com/album/6iyEGMk28j3ZuiQxz5lvU5"
+      },
+      "artists": [
+        {
+          "name": "Goldband",
+          "url": "https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Rommel",
+      "url": "https://open.spotify.com/track/0pw06mcIzuAeLPOHZT7W4Z"
     },
     {
       "album": {
@@ -18584,6 +18638,24 @@
       "duration_ms": 213566,
       "name": "Verdien Model",
       "url": "https://open.spotify.com/track/2QKr1BQ4K2I4sL73kZ1HSy"
+    },
+    {
+      "album": {
+        "name": "Verleden Tijd",
+        "url": "https://open.spotify.com/album/4vWdcHbWWaj6j5VgHGCGJl"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167244,
+      "name": "Verleden Tijd",
+      "url": "https://open.spotify.com/track/2XOZtdFQ62IQfDVQ8O4wWO"
     },
     {
       "album": {

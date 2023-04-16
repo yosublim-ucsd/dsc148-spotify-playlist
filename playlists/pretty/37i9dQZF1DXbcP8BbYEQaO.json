@@ -1,12 +1,12 @@
 {
   "description": "sparkling, shimmery synth pop \u2728",
-  "num_followers": 187242,
+  "num_followers": 187355,
   "original_name": "night pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDZhMjViYmIyYzQwOTEzNzdiNjdjYjQ4YzJjMjY1YzZl",
+  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMGJjMTkwMjg1ZjVjNTVjY2MzYmQ3NGVkMjhiYmI3NjE2",
   "tracks": [
     {
       "added_at": "2023-04-14 04:00:00",
@@ -251,6 +251,26 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Substitution",
+        "url": "https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        }
+      ],
+      "duration_ms": 181477,
+      "name": "Substitution",
+      "url": "https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Diamonds & Dancefloors",
         "url": "https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ"
       },
@@ -319,26 +339,6 @@
       "duration_ms": 233386,
       "name": "You",
       "url": "https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Substitution",
-        "url": "https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
-        }
-      ],
-      "duration_ms": 181477,
-      "name": "Substitution",
-      "url": "https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Iridium",
-        "url": "https://open.spotify.com/album/573lYeLYHCPSKBOa0RyDbE"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 166797,
-      "name": "Iridium",
-      "url": "https://open.spotify.com/track/5amRolITZmPuqDQOqJ4aWr"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "MUNA",
         "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 243236,
       "name": "What I Want",
       "url": "https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Iridium",
+        "url": "https://open.spotify.com/album/573lYeLYHCPSKBOa0RyDbE"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 166797,
+      "name": "Iridium",
+      "url": "https://open.spotify.com/track/5amRolITZmPuqDQOqJ4aWr"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "I F*cking Love You",
-        "url": "https://open.spotify.com/album/0PJoyjLXZFuYNY4m1TCbQw"
-      },
-      "artists": [
-        {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
-        }
-      ],
-      "duration_ms": 180266,
-      "name": "I F*cking Love You",
-      "url": "https://open.spotify.com/track/7duGuHM4EiL8unwYQ4aDk5"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "What's Your Pleasure?",
         "url": "https://open.spotify.com/album/1CTm3ARqDETSm7GfvNYNJp"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 242266,
       "name": "Save A Kiss",
       "url": "https://open.spotify.com/track/6rlQYRWG6ZN5X89LA0zBE7"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "I F*cking Love You",
+        "url": "https://open.spotify.com/album/0PJoyjLXZFuYNY4m1TCbQw"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "I F*cking Love You",
+      "url": "https://open.spotify.com/track/7duGuHM4EiL8unwYQ4aDk5"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Nymph",
-        "url": "https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4"
+        "name": "Naked In Manhattan",
+        "url": "https://open.spotify.com/album/6nMbaV420wdCbTqJNU6Dnp"
       },
       "artists": [
         {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         }
       ],
-      "duration_ms": 198625,
-      "name": "Firefly",
-      "url": "https://open.spotify.com/track/6K51akbgV0Tb3WI0NY1yYX"
+      "duration_ms": 211057,
+      "name": "Naked In Manhattan",
+      "url": "https://open.spotify.com/track/1IfgSUsltB1wGK9SzK7SDa"
     }
   ],
   "unique_name": "night pop",

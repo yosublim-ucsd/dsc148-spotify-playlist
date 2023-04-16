@@ -1,12 +1,12 @@
 {
   "description": "alternative hits of today, tomorrow, and then some. Cover: Bea Miller",
-  "num_followers": 86180,
+  "num_followers": 86207,
   "original_name": "Et Alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMDAxNmVkMjg2NzE0N2M2NTVlNGU1MTY1ZWQ1ZWIwNzA1",
+  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMGFlYmU5OWRkYWFiMTVkNjA4ZjYyYWNhMGQwODdmMGU5",
   "tracks": [
     {
       "added_at": "2023-01-13 05:00:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Georgia",
-        "url": "https://open.spotify.com/album/5PLNgWXs7Hq6RHgFetDAtJ"
-      },
-      "artists": [
-        {
-          "name": "Thomas Headon",
-          "url": "https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Georgia",
-      "url": "https://open.spotify.com/track/7d4lvIqCYS2DGTCZAjmCHu"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "don't sleep, repeat (feat. Machine Gun Kelly)",
         "url": "https://open.spotify.com/album/4QI0QDu2k1PpD4432zbNHK"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 149160,
       "name": "don't sleep, repeat (feat. Machine Gun Kelly)",
       "url": "https://open.spotify.com/track/2qtqIinDwJQzsUofMtkH0D"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Georgia",
+        "url": "https://open.spotify.com/album/5PLNgWXs7Hq6RHgFetDAtJ"
+      },
+      "artists": [
+        {
+          "name": "Thomas Headon",
+          "url": "https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Georgia",
+      "url": "https://open.spotify.com/track/7d4lvIqCYS2DGTCZAjmCHu"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -627,6 +627,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "STEREO DRIVER",
+        "url": "https://open.spotify.com/album/0chstf8JqlFUYvI0F7gogH"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "duration_ms": 231533,
+      "name": "STEREO DRIVER",
+      "url": "https://open.spotify.com/track/1yGzzCuLd5vH5gSb1Ii6jU"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "in loving memory",
         "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 191559,
       "name": "toxic energy (with Bert McCracken of The Used)",
       "url": "https://open.spotify.com/track/01tEAvdPLPREA9JT9Wpb26"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "STEREO DRIVER",
-        "url": "https://open.spotify.com/album/0chstf8JqlFUYvI0F7gogH"
-      },
-      "artists": [
-        {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
-        }
-      ],
-      "duration_ms": 231533,
-      "name": "STEREO DRIVER",
-      "url": "https://open.spotify.com/track/1yGzzCuLd5vH5gSb1Ii6jU"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/5wMUl1NuhyxRnRQK6shy9U"
+      },
+      "artists": [
+        {
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+        }
+      ],
+      "duration_ms": 164466,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/1iXtTFvDXtL4sr5GOc2tXx"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "CR\u00c8ME BR\u00dbL\u00c9E!",
         "url": "https://open.spotify.com/album/58eBBZo09rnbbhX03ggp9c"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 152133,
       "name": "Worst Case Kid",
       "url": "https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/5wMUl1NuhyxRnRQK6shy9U"
-      },
-      "artists": [
-        {
-          "name": "Briston Maroney",
-          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
-        }
-      ],
-      "duration_ms": 164466,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/1iXtTFvDXtL4sr5GOc2tXx"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "Growing/Dying",
+        "url": "https://open.spotify.com/album/29kPpfrcYvtyTD1nhXxui0"
+      },
+      "artists": [
+        {
+          "name": "The Backseat Lovers",
+          "url": "https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI"
+        }
+      ],
+      "duration_ms": 212093,
+      "name": "Growing/Dying",
+      "url": "https://open.spotify.com/track/4JAFlkYkNy1MM6zOqRbiGp"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "Good For Now",
         "url": "https://open.spotify.com/album/52BKuBmSjUQ1b5MMGZJhCt"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 241877,
       "name": "Good For Now (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/5WPYImh8k1kFyooMlSHUrq"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Growing/Dying",
-        "url": "https://open.spotify.com/album/29kPpfrcYvtyTD1nhXxui0"
-      },
-      "artists": [
-        {
-          "name": "The Backseat Lovers",
-          "url": "https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI"
-        }
-      ],
-      "duration_ms": 212093,
-      "name": "Growing/Dying",
-      "url": "https://open.spotify.com/track/4JAFlkYkNy1MM6zOqRbiGp"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Angry Woman",
-        "url": "https://open.spotify.com/album/3hHui1DLg3l29i1oUlJdyZ"
-      },
-      "artists": [
-        {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        }
-      ],
-      "duration_ms": 153002,
-      "name": "Angry Woman",
-      "url": "https://open.spotify.com/track/02u8fWfWsiT2oML2jTICzs"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "BREAK THE CURSE",
         "url": "https://open.spotify.com/album/0nbH8z2iSYXnFE62X1iwYO"
       },
@@ -1131,18 +1115,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "pretty kids",
-        "url": "https://open.spotify.com/album/141uEcxDeKXBqPw8X14kee"
+        "name": "Angry Woman",
+        "url": "https://open.spotify.com/album/3hHui1DLg3l29i1oUlJdyZ"
       },
       "artists": [
         {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
         }
       ],
-      "duration_ms": 159417,
-      "name": "pretty kids",
-      "url": "https://open.spotify.com/track/7cuevmvfk9blOhmv5efjVU"
+      "duration_ms": 153002,
+      "name": "Angry Woman",
+      "url": "https://open.spotify.com/track/02u8fWfWsiT2oML2jTICzs"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1175,6 +1159,22 @@
       "duration_ms": 216547,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/50y1QOSX24WKHXWDRwFLtL"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "pretty kids",
+        "url": "https://open.spotify.com/album/141uEcxDeKXBqPw8X14kee"
+      },
+      "artists": [
+        {
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+        }
+      ],
+      "duration_ms": 159417,
+      "name": "pretty kids",
+      "url": "https://open.spotify.com/track/7cuevmvfk9blOhmv5efjVU"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "Perfectly Imperfect",
+        "url": "https://open.spotify.com/album/0mXpWAdx70cPnVJIkEDDsx"
+      },
+      "artists": [
+        {
+          "name": "MOD SUN",
+          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
+        }
+      ],
+      "duration_ms": 144478,
+      "name": "Perfectly Imperfect",
+      "url": "https://open.spotify.com/track/3dWy0VondkohX7GE6aOI3c"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "Your Internet Sucks",
         "url": "https://open.spotify.com/album/4xmseo8B4OHl74HwkgdR4R"
       },
@@ -1339,18 +1355,26 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Perfectly Imperfect",
-        "url": "https://open.spotify.com/album/0mXpWAdx70cPnVJIkEDDsx"
+        "name": "off the grid (deluxe)",
+        "url": "https://open.spotify.com/album/27XXkM5BaYlVeEYB5NNoaw"
       },
       "artists": [
         {
-          "name": "MOD SUN",
-          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
+          "name": "Yot Club",
+          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
+        },
+        {
+          "name": "fanclubwallet",
+          "url": "https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe"
+        },
+        {
+          "name": "Preloved",
+          "url": "https://open.spotify.com/artist/74AYt6e3zCYyRtMHmgn6dw"
         }
       ],
-      "duration_ms": 144478,
-      "name": "Perfectly Imperfect",
-      "url": "https://open.spotify.com/track/3dWy0VondkohX7GE6aOI3c"
+      "duration_ms": 189946,
+      "name": "down bad - fanclubwallet & Preloved Remix",
+      "url": "https://open.spotify.com/track/3pZ7PvECBWMc0hgZzaTxt4"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1387,30 +1411,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "off the grid (deluxe)",
-        "url": "https://open.spotify.com/album/27XXkM5BaYlVeEYB5NNoaw"
-      },
-      "artists": [
-        {
-          "name": "Yot Club",
-          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
-        },
-        {
-          "name": "fanclubwallet",
-          "url": "https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe"
-        },
-        {
-          "name": "Preloved",
-          "url": "https://open.spotify.com/artist/74AYt6e3zCYyRtMHmgn6dw"
-        }
-      ],
-      "duration_ms": 189946,
-      "name": "down bad - fanclubwallet & Preloved Remix",
-      "url": "https://open.spotify.com/track/3pZ7PvECBWMc0hgZzaTxt4"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Asking For A Ride",
         "url": "https://open.spotify.com/album/4EkYXTP0vpp1dmPadvfAlK"
       },
@@ -1423,6 +1423,22 @@
       "duration_ms": 193549,
       "name": "Fog Machine",
       "url": "https://open.spotify.com/track/3n0rrjFlZyNSjkYkI3GCdy"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "IT'S OKAY, WE'RE DREAMING II: don't worry, i'll be fine",
+        "url": "https://open.spotify.com/album/4aI8eV2NI3p6HdNMk43pcq"
+      },
+      "artists": [
+        {
+          "name": "SEB",
+          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
+        }
+      ],
+      "duration_ms": 189246,
+      "name": "3am in nyc",
+      "url": "https://open.spotify.com/track/1qk8eEUJaGK2xWHhq8QZD5"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1491,22 +1507,6 @@
       "duration_ms": 134266,
       "name": "DIE OUT HERE (feat. POORSTACY)",
       "url": "https://open.spotify.com/track/3PqpLZTiiwJjYD1uSvQoCC"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "IT'S OKAY, WE'RE DREAMING II: don't worry, i'll be fine",
-        "url": "https://open.spotify.com/album/4aI8eV2NI3p6HdNMk43pcq"
-      },
-      "artists": [
-        {
-          "name": "SEB",
-          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
-        }
-      ],
-      "duration_ms": 189246,
-      "name": "3am in nyc",
-      "url": "https://open.spotify.com/track/1qk8eEUJaGK2xWHhq8QZD5"
     },
     {
       "added_at": "2023-01-13 05:00:00",

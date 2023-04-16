@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YhSbTs17ha.md) - [plain]
 
 > Escucha las canciones de pop más exitosas en México\. Kenia OS y Gera MX en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,627,449 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,628,510 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

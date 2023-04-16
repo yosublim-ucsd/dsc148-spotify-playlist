@@ -1958,7 +1958,7 @@
       ],
       "date_added": "2023-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-25",
+      "date_removed": null,
       "duration_ms": 182887,
       "name": "ceilings",
       "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
@@ -2132,7 +2132,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 132346,
       "name": "Close Eyes",
       "url": "https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh"
@@ -2396,6 +2396,24 @@
       "duration_ms": 256800,
       "name": "Cry",
       "url": "https://open.spotify.com/track/0Qr61NXlyAeQaADO5xn3rI"
+    },
+    {
+      "album": {
+        "name": "Crystals",
+        "url": "https://open.spotify.com/album/0pbn1QDWs2wOehyxQwVhJS"
+      },
+      "artists": [
+        {
+          "name": "Isolate.exe",
+          "url": "https://open.spotify.com/artist/6awzrpxHXHtibHWUv86jVI"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139200,
+      "name": "Crystals",
+      "url": "https://open.spotify.com/track/2BH3j05ZXWr5PR30sW079d"
     },
     {
       "album": {
@@ -3148,7 +3166,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 201391,
       "name": "Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack]",
       "url": "https://open.spotify.com/track/1RDvyOk4WtPCtoqciJwVn8"
@@ -5862,6 +5880,28 @@
       "duration_ms": 153946,
       "name": "Kill Bill",
       "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
+    },
+    {
+      "album": {
+        "name": "Kill Bill (feat. Doja Cat)",
+        "url": "https://open.spotify.com/album/4OanbmuJAWz8JPVE4cJA9L"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175836,
+      "name": "Kill Bill (feat. Doja Cat)",
+      "url": "https://open.spotify.com/track/0CrcwVLUe8wzLUIXgjXVZJ"
     },
     {
       "album": {
@@ -8908,7 +8948,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 212253,
       "name": "OMG",
       "url": "https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE"
@@ -9298,7 +9338,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 213995,
       "name": "People Pt.2 (feat. IU)",
       "url": "https://open.spotify.com/track/4EaQ0ouIydfeAgQUz284EF"
@@ -10588,7 +10628,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-14",
+      "date_removed": null,
       "duration_ms": 272112,
       "name": "Search & Rescue",
       "url": "https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G"
@@ -12700,7 +12740,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 281380,
       "name": "TV",
       "url": "https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw"
@@ -15270,7 +15310,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-15",
+      "date_removed": null,
       "duration_ms": 324721,
       "name": "\u0648\u0641\u0631 \u0627\u0644\u0623\u0639\u0630\u0627\u0631",
       "url": "https://open.spotify.com/track/4U0DuUjKUOnRLrY7iBQ3kU"

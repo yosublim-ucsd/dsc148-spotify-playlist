@@ -531,6 +531,24 @@
     },
     {
       "album": {
+        "name": "MY FOOLISH STORY - With ensemble",
+        "url": "https://open.spotify.com/album/2iIm9KJ0Ru8pT3e6ETJ25h"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296200,
+      "name": "MY FOOLISH STORY - With ensemble",
+      "url": "https://open.spotify.com/track/3nI8cyalMaA27H47yjVGXX"
+    },
+    {
+      "album": {
         "name": "New Flow 2",
         "url": "https://open.spotify.com/album/07CWE671HIEOJJWE3mmZb4"
       },

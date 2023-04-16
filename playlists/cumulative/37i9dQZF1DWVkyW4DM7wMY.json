@@ -6,6 +6,28 @@
     {
       "album": {
         "name": "Sorry",
+        "url": "https://open.spotify.com/album/7hPdbpMDpAjhEyBlHtOv8P"
+      },
+      "artists": [
+        {
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        },
+        {
+          "name": "Elani Boshoff",
+          "url": "https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133324,
+      "name": "100 Times",
+      "url": "https://open.spotify.com/track/0FxaztVEQJyGXagfrVU3V4"
+    },
+    {
+      "album": {
+        "name": "Sorry",
         "url": "https://open.spotify.com/album/40i8dEUNnqec3hSKR9UytO"
       },
       "artists": [
@@ -20,7 +42,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 133324,
       "name": "100 Times",
       "url": "https://open.spotify.com/track/2WgNtC3w0ACWDm7uQax1Hc"
@@ -1104,10 +1126,32 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 177019,
       "name": "Just Another Love Song",
       "url": "https://open.spotify.com/track/20u7hieXi6VV3t6p5s9ggJ"
+    },
+    {
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/7hPdbpMDpAjhEyBlHtOv8P"
+      },
+      "artists": [
+        {
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        },
+        {
+          "name": "Meghan",
+          "url": "https://open.spotify.com/artist/48KeNSc5xrQvLgxGxIFvoI"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177019,
+      "name": "Just Another Love Song",
+      "url": "https://open.spotify.com/track/2M78vle5sxhPTFN2wnrU0q"
     },
     {
       "album": {
@@ -1270,10 +1314,32 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 85947,
       "name": "Less",
       "url": "https://open.spotify.com/track/4RuuafWTVxluP7QgNvlIXE"
+    },
+    {
+      "album": {
+        "name": "More / Less",
+        "url": "https://open.spotify.com/album/34EoIMWzhRXhAl1zbOmi7g"
+      },
+      "artists": [
+        {
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        },
+        {
+          "name": "Andyah",
+          "url": "https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85947,
+      "name": "Less",
+      "url": "https://open.spotify.com/track/6ihCdfXsn8YNrt1YjANzjs"
     },
     {
       "album": {
@@ -1292,10 +1358,32 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 177245,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/44YtzfSlmFcDPozHlfeivt"
+    },
+    {
+      "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/5VbCkQq7yazjOE1GoNBMLv"
+      },
+      "artists": [
+        {
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        },
+        {
+          "name": "Nawekulo",
+          "url": "https://open.spotify.com/artist/65e3J8lxvSLAQ3RJ5RGjes"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177293,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/0jBp9lAEE0MAV0zeVAVSy3"
     },
     {
       "album": {

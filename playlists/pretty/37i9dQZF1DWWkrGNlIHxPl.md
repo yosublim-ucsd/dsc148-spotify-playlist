@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 
 > Global crossovers by/with Arab artists\. Cover: Ghita
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,414 likes - 49 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,503 likes - 49 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

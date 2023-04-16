@@ -4,7 +4,7 @@
 
 > The best from Britain's vibrant scene\. Cover: Venna + Knucks
 
-412 songs - 1 day 5 hr 49 min
+413 songs - 1 day 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Escape from the Echo Chamber](https://open.spotify.com/track/3WKNl81llkdldlad5XuhtI) | [Emily Francis Trio](https://open.spotify.com/artist/2XwZvU8ctmY4NTqcbBO8iU) | [Escape from the Echo Chamber](https://open.spotify.com/album/3udVHWVpCcKtgc339BkYxk) | 4:08 | 2022-03-24 | 2022-06-30 |
 | [Everything Is Connected](https://open.spotify.com/track/3W1SdaiXVs8fHebevrni8p) | [Zara McFarlane](https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo) | [Songs of an Unknown Tongue](https://open.spotify.com/album/2wHOGta1uVvaNYwMyoPKrY) | 3:39 | 2022-03-08 | 2022-03-09 |
 | [Everything Is Connected](https://open.spotify.com/track/4DoPUruUNmcg5RudmAhMWq) | [Zara McFarlane](https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo) | [Everything Is Connected](https://open.spotify.com/album/5j4lfSYgEI3EYYMejJNhec) | 3:39 | 2022-01-07 | 2022-06-28 |
+| [Everything Is Going to Be OK](https://open.spotify.com/track/4JPj5HzPn5sRfwzqH9HMgX) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [Everything Is Going to Be OK](https://open.spotify.com/album/0LIjSRLoTlpMB2vHJHX86M) | 4:47 | 2023-04-14 |  |
 | [Eye Glass](https://open.spotify.com/track/5osZBK4ACgXcyxMc5etRxA) | [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [Show Your Face](https://open.spotify.com/album/0hCQ1KdPi8iTGuisaQzeBh) | 4:54 | 2022-02-11 | 2022-08-30 |
 | [Eye to Eye](https://open.spotify.com/track/30kI3i0mbyg8dXu7aEpqK4) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Voice Notes](https://open.spotify.com/album/4CsDEoqySY9EaYJX5MlIXs) | 4:37 | 2023-03-08 |  |
 | [Fallen](https://open.spotify.com/track/1Krlt9rsWFe2rx4xDXohUp) | [Mac James](https://open.spotify.com/artist/2lV3UEHZZ7gYzj5Iv0NLJ3) | [Fallen](https://open.spotify.com/album/6GEDmIVCjsICy3Jw4mZZD1) | 2:14 | 2022-03-24 | 2022-04-19 |
@@ -354,7 +355,7 @@
 | [Tell Me](https://open.spotify.com/track/2jrAN4OhqpaeWrE8Krt2to) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M) | [Collage 1](https://open.spotify.com/album/6OdqJNtnslCLIeUZt5jogs) | 3:20 | 2022-07-28 | 2022-09-10 |
 | [Tell Me](https://open.spotify.com/track/5hJexxZWaa2L7gqTha7nts) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M) | [Collage 1](https://open.spotify.com/album/6xwlnoaYeGHD7WqEHyeVMz) | 3:20 | 2021-12-17 | 2022-07-28 |
 | [The Afternoon of Human Life](https://open.spotify.com/track/06Zwd53J0LySW31tdYEuz6) | [Slowly Rolling Camera](https://open.spotify.com/artist/5kH36nIamlV0iSe6ESDWvb), [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB) | [The Afternoon of Human Life](https://open.spotify.com/album/1IfyoBGbOEf7Nl3glUaah2) | 7:03 | 2021-12-17 | 2022-07-25 |
-| [The Antidote Is in the Poison](https://open.spotify.com/track/01dbwXuuFNMKDCz1L3uIFz) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [The Antidote Is in the Poison](https://open.spotify.com/album/4KDe564xkwRDSSYLnSiXZj) | 5:52 | 2022-07-28 |  |
+| [The Antidote Is in the Poison](https://open.spotify.com/track/01dbwXuuFNMKDCz1L3uIFz) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [The Antidote Is in the Poison](https://open.spotify.com/album/4KDe564xkwRDSSYLnSiXZj) | 5:52 | 2022-07-28 | 2023-04-16 |
 | [The Duke](https://open.spotify.com/track/6Sn8gX7ls3ub1mKEpvBD5S) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN), [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV), [Simon Dufour](https://open.spotify.com/artist/3MJwju3XDhIjxT5t9Tq4aw) | [The Duke](https://open.spotify.com/album/6Hew2wHi3fBiGGLaBxYRtu) | 1:50 | 2023-01-06 |  |
 | [The Good Mixer](https://open.spotify.com/track/2GxF6fun3qMMoylt2NiJ5N) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [The Good Mixer](https://open.spotify.com/album/0FvgTIVfAakUedNplzESrF) | 4:43 | 2021-12-17 | 2022-07-28 |
 | [The Message Continues](https://open.spotify.com/track/4cr8FyfxkPatU8ca7cCzmN) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ) | [SOURCE](https://open.spotify.com/album/5iooBeTrG8wPKMgo7OAOX6) | 6:44 | 2021-12-17 | 2022-12-09 |

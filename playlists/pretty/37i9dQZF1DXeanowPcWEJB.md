@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeanowPcWEJB.md) - [plain]
 
 > Viaja al México tradicional con la expresión de sus guitarras.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,574 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,642 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,18 +34,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeanowPcWEJB.md) - [plain]
 | 24 | [Como Han Pasado los Años](https://open.spotify.com/track/4bzbP5Vmd25m6WfwKBMisX) | [Chamin Correa](https://open.spotify.com/artist/5nbu0z9YPCdLMUr4OsiQ9w) | [Éxitos Vol\. 2](https://open.spotify.com/album/6DG898DOEIdqpKyK2nB72v) | 3:38 |
 | 25 | [La Media Vuelta](https://open.spotify.com/track/2bHEWIKnvwC8UODwSjXMCu) | [Guitarras de Luna](https://open.spotify.com/artist/0SBE5mcdSjhXgCBmWREiFh) | [Grandes Exitos del Sol](https://open.spotify.com/album/5dNZmdBj1zl3zu5LBdvf8D) | 2:27 |
 | 26 | [Perdoname](https://open.spotify.com/track/5GN4KcUMREkJAV3Cuhp5oY) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [Perdoname](https://open.spotify.com/album/2UXJz6qh5y44uiHxlP8k6M) | 2:24 |
-| 27 | [No](https://open.spotify.com/track/0C69couVwXQPhHPq2f2gSa) | [Los Tres Mariquitas](https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf) | [No](https://open.spotify.com/album/453mZhcGBHRgoJeLfirF6k) | 2:41 |
+| 27 | [Esperare](https://open.spotify.com/track/36FlYtI3NMyqEMBQlaH7Eb) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [Esperare](https://open.spotify.com/album/3fO4NeuLeBx5S0Pabk5PaX) | 2:10 |
 | 28 | [El Sol Avenue](https://open.spotify.com/track/4b2nHQaYdBp61I4stPq1s4) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Hoy Como Ayer](https://open.spotify.com/album/28NDhMP2u9FUfp7grF1LhM) | 4:33 |
-| 29 | [Esperare](https://open.spotify.com/track/36FlYtI3NMyqEMBQlaH7Eb) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [Esperare](https://open.spotify.com/album/3fO4NeuLeBx5S0Pabk5PaX) | 2:10 |
+| 29 | [Cerezo Rosa](https://open.spotify.com/track/6lrHmW92xxdL7RObYtTlga) | [Los Tres Mariquitas](https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf) | [Cerezo Rosa](https://open.spotify.com/album/0f3HutA3oPA2QjOyST7YMj) | 3:04 |
 | 30 | [Como Una Flor Bolero](https://open.spotify.com/track/7FneHnZxsT68NABvVsKVqE) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV) | [Guitarras Latinas](https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD) | 3:14 |
 | 31 | [Nos Hizo Falta Tiempo](https://open.spotify.com/track/7I1gW6hOscv5Sq8hyrDmdi) | [Las Perlas Negras](https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp) | [Nos Hizo Falta Tiempo](https://open.spotify.com/album/1MFnxCHtziAmBpzkozWNXf) | 2:46 |
 | 32 | [Ya Te Olvide](https://open.spotify.com/track/1TM1jRGtkF18D4VnRqlpKu) | [Los Amores Recientes](https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG) | [Ya Te Olvide](https://open.spotify.com/album/6mlUaXGzLm5RPoQDP0o4mZ) | 2:28 |
 | 33 | [Te Extraño](https://open.spotify.com/track/7l6KxjV7Sk6y9iLOBSqTw6) | [Las Penas](https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS) | [Te Extraño](https://open.spotify.com/album/3pQMIIjRDqiDrZroTXUACT) | 2:32 |
 | 34 | [Esta Triste Guitarra](https://open.spotify.com/track/4WVOyMd86ZTGhh6WNuwUSs) | [Chamin Correa](https://open.spotify.com/artist/5nbu0z9YPCdLMUr4OsiQ9w) | [Éxitos Vol\. 2](https://open.spotify.com/album/6DG898DOEIdqpKyK2nB72v) | 4:28 |
-| 35 | [Cerezo Rosa](https://open.spotify.com/track/6lrHmW92xxdL7RObYtTlga) | [Los Tres Mariquitas](https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf) | [Cerezo Rosa](https://open.spotify.com/album/0f3HutA3oPA2QjOyST7YMj) | 3:04 |
-| 36 | [El Reloj](https://open.spotify.com/track/39ugPamLfTktBHgRU5Uz4m) | [Guitarras de Luna](https://open.spotify.com/artist/0SBE5mcdSjhXgCBmWREiFh) | [Grandes Exitos del Sol](https://open.spotify.com/album/5dNZmdBj1zl3zu5LBdvf8D) | 2:48 |
-| 37 | [Pensamiento](https://open.spotify.com/track/7GxIlqOjYpmh080KhtOrtE) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [Pensamiento](https://open.spotify.com/album/1uuYnEN87b3BkbQlQmbf0F) | 2:16 |
-| 38 | [Parece Que Fue Ayer](https://open.spotify.com/track/1QbbGANlhCOBQy2swIAgy3) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [Parece Que Fue Ayer](https://open.spotify.com/album/0S3BS29cQXHPIeKZVHxF64) | 2:48 |
+| 35 | [El Reloj](https://open.spotify.com/track/39ugPamLfTktBHgRU5Uz4m) | [Guitarras de Luna](https://open.spotify.com/artist/0SBE5mcdSjhXgCBmWREiFh) | [Grandes Exitos del Sol](https://open.spotify.com/album/5dNZmdBj1zl3zu5LBdvf8D) | 2:48 |
+| 36 | [Pensamiento](https://open.spotify.com/track/7GxIlqOjYpmh080KhtOrtE) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [Pensamiento](https://open.spotify.com/album/1uuYnEN87b3BkbQlQmbf0F) | 2:16 |
+| 37 | [Parece Que Fue Ayer](https://open.spotify.com/track/1QbbGANlhCOBQy2swIAgy3) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [Parece Que Fue Ayer](https://open.spotify.com/album/0S3BS29cQXHPIeKZVHxF64) | 2:48 |
+| 38 | [No](https://open.spotify.com/track/0C69couVwXQPhHPq2f2gSa) | [Los Tres Mariquitas](https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf) | [No](https://open.spotify.com/album/453mZhcGBHRgoJeLfirF6k) | 2:41 |
 | 39 | [Noche Negra](https://open.spotify.com/track/0jm4wpiCZy3wXupv0IAXrN) | [Las Tres Abejas](https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi) | [Noche Negra](https://open.spotify.com/album/5FuPvDHLQTr3eaxl2r9PCE) | 1:59 |
 | 40 | [Amor Que Malo Eres](https://open.spotify.com/track/4Xwg1xbEg5Dx4N3PMEisKQ) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [Amor Que Malo Eres](https://open.spotify.com/album/1OKUKlhIVJwedZcUkrBcBB) | 2:36 |
 | 41 | [Piel Canela](https://open.spotify.com/track/5jgDyBwJ9MT6r1L8LsJXhJ) | [Guitarras Mágicas](https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0) | [25 Exitos](https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS) | 3:17 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeanowPcWEJB.md) - [plain]
 | 62 | [Cielito Lindo \- Guitar Version](https://open.spotify.com/track/6Rb3aBYBruXdLDmcDmsnRQ) | [Manuel Granada](https://open.spotify.com/artist/0hBBzgIZteyQLiAh6v3AjV) | [Spanish Guitar Latin Hits](https://open.spotify.com/album/7t9FXqxz2X4tveYgxLBb1U) | 2:39 |
 | 63 | [Costumbres](https://open.spotify.com/track/6RGcyQM6Jt2VJ7OBHuVvT4) | [Guitarras Mágicas](https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0) | [25 Exitos](https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS) | 3:15 |
 | 64 | [La Feria De Las Flores](https://open.spotify.com/track/4UhQUTyawdgrLXfvZUNpzU) | [Roberto Rojas](https://open.spotify.com/artist/6h8HM5jSn1QjXgOiZzfm0p) | [Guitarra Mexicana](https://open.spotify.com/album/4E9JVN15xAQeBCtFuxnafP) | 2:31 |
-| 65 | [La Bikina](https://open.spotify.com/track/4uzsdjd5zer4uurbqIuEu6) | [Juan Veronico](https://open.spotify.com/artist/6srSERU4ay3tUEK8XbA2Rp) | [Lo Mejor en Guitarras](https://open.spotify.com/album/7nl5EG8xfTaQ4WVyB9dsc3) | 2:27 |
-| 66 | [La Incondicional](https://open.spotify.com/track/7FFwJ6LJzc5kywubh45ZMU) | [Guitarras de Luna](https://open.spotify.com/artist/0SBE5mcdSjhXgCBmWREiFh) | [Grandes Exitos del Sol](https://open.spotify.com/album/5dNZmdBj1zl3zu5LBdvf8D) | 3:57 |
+| 65 | [La Incondicional](https://open.spotify.com/track/7FFwJ6LJzc5kywubh45ZMU) | [Guitarras de Luna](https://open.spotify.com/artist/0SBE5mcdSjhXgCBmWREiFh) | [Grandes Exitos del Sol](https://open.spotify.com/album/5dNZmdBj1zl3zu5LBdvf8D) | 3:57 |
+| 66 | [La Bikina](https://open.spotify.com/track/4uzsdjd5zer4uurbqIuEu6) | [Juan Veronico](https://open.spotify.com/artist/6srSERU4ay3tUEK8XbA2Rp) | [Lo Mejor en Guitarras](https://open.spotify.com/album/7nl5EG8xfTaQ4WVyB9dsc3) | 2:27 |
 | 67 | [Estrellita](https://open.spotify.com/track/6umRoceuzdE9HFGAuXNLu0) | [Manuel Ponce](https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK), [Timo Korhonen](https://open.spotify.com/artist/0lQAmXMjaOpe3l6Kj3JmoT) | [Estrellita](https://open.spotify.com/album/46d09XEe1Pvxdoo2qKfUWz) | 2:11 |
 | 68 | [San Cristobal](https://open.spotify.com/track/6eFJW7pI0m6oxhnjR8mABo) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb) | [San Cristobal](https://open.spotify.com/album/2cKjc9JgutU0ZJstgSh60V) | 2:21 |
 | 69 | [Cancion Mixteca](https://open.spotify.com/track/1K6afJuRM0WJF18ecwU4J9) | [Stefan](https://open.spotify.com/artist/7lAyVgqdNJDgOcno8i62ZU) | [Guitarra Mexicana, Vol\. 1](https://open.spotify.com/album/3tQyY3bDlVSJBnXlQzqK7l) | 1:42 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeanowPcWEJB.md) - [plain]
 | 94 | [En el Último Trago](https://open.spotify.com/track/0qyqbhpeDTVKVwdfkeppj6) | [Juan Veronico](https://open.spotify.com/artist/6srSERU4ay3tUEK8XbA2Rp) | [Lo Mejor en Guitarras](https://open.spotify.com/album/7nl5EG8xfTaQ4WVyB9dsc3) | 2:16 |
 | 95 | [La Luz](https://open.spotify.com/track/4uXV0bR99BzZBlaz8rhX4J) | [Stefan](https://open.spotify.com/artist/7lAyVgqdNJDgOcno8i62ZU) | [Guitarra Mexicana, Vol\. 1](https://open.spotify.com/album/3tQyY3bDlVSJBnXlQzqK7l) | 2:46 |
 | 96 | [Popurri de Cuco Sanchez: Anillo de Compromiso / Fallaste Corazón / La Cama de Piedra / La Chancla](https://open.spotify.com/track/149Ka0uCWWH4b9pA7GeRPZ) | [Los Poetas De La Guitarra](https://open.spotify.com/artist/4tJogcL5p5AL0etHNAsxbU) | [Los Poetas de la Guitarra Popurris Inolvidables](https://open.spotify.com/album/09kgUfKZsxwHb5Vphl10YT) | 5:56 |
-| 97 | [No Volveré](https://open.spotify.com/track/4ZQ1Y56dqtHDiank1MPOac) | [Romanticos De La Guitarra](https://open.spotify.com/artist/6HexP8xPE4JxhMkwxx55Pz) | [Guitarras, Lloren ..\. Guitarras](https://open.spotify.com/album/0OaejbGdGCWKoMp5MguB2t) | 3:13 |
+| 97 | [Alla en el Rancho Grande](https://open.spotify.com/track/64j3RUFP6ZHH4h8ctOxc1o) | [Romanticos De La Guitarra](https://open.spotify.com/artist/6HexP8xPE4JxhMkwxx55Pz) | [Nostalgia](https://open.spotify.com/album/6lumfvD8xwtfHiabaaBXS6) | 2:09 |
 | 98 | [Tico\-Tico](https://open.spotify.com/track/4Bz4Gaqu67YmZpZphOor6Q) | [Ramon Dona\-Dio Y Sus Guitarras Mexicanas](https://open.spotify.com/artist/5QdoHnJ2GRqsMdYKNuryip) | [Tesoros De Colección \- Las Grandes Guitarras Mexicanas](https://open.spotify.com/album/5oXeGRM1GB8Olw0p1W1FQ3) | 2:54 |
 | 99 | [Que Bonita Es Mi Tierra](https://open.spotify.com/track/1duK1uz8Fpk3GG6gdXiXt2) | [Gilberto Puente](https://open.spotify.com/artist/1OBVE9oxvqZ5mGtUUR3wVR) | [Tesoros De Colección \- Las Grandes Guitarras Mexicanas](https://open.spotify.com/album/5oXeGRM1GB8Olw0p1W1FQ3) | 3:10 |
 | 100 | [Guadalajara](https://open.spotify.com/track/1w3PYey5h6WBp4Y8W3e3vM) | [Ramon Dona\-Dio](https://open.spotify.com/artist/2onS1woeVK5STw8eKF6x5V) | [Lo Mejor en Guitarras](https://open.spotify.com/album/7nl5EG8xfTaQ4WVyB9dsc3) | 2:31 |
 
-Snapshot ID: `MTY3NDUxNDUzMSwwMDAwMDAwMDk3MzhhMDk1NDJmZTY3MjgxMmU4Mjk1ZDZjNWRjMzJl`
+Snapshot ID: `MTY3NDUxNDUzMSwwMDAwMDAwMDk5NzRmZWE1MGQ1ZGRhYWNhOTA1ZDQyZTY5MWUzNDli`

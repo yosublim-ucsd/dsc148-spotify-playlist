@@ -1,12 +1,12 @@
 {
   "description": "The official playlist for the 64th GRAMMY Awards.",
-  "num_followers": 126809,
+  "num_followers": 126807,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTczNDQ0MCwwMDAwMDAwMDNmMzExZWE2ODhhZTU4ZDNkNzJjYzIxYTZkNzFlZmQ5",
+  "snapshot_id": "MTY3NTczNDQ0MCwwMDAwMDAwMDhmZWFlZDljZjExMDlmMzFjNjM0MDc0ZmMwNmQyNWJj",
   "tracks": [
     {
       "added_at": "2023-02-07 01:47:20",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-02-07 01:47:20",
       "album": {
+        "name": "There\u2019d Better Be A Mirrorball",
+        "url": "https://open.spotify.com/album/0ZUmodAwUq8cQJFvyibKwT"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 265798,
+      "name": "There\u2019d Better Be A Mirrorball",
+      "url": "https://open.spotify.com/track/0yowbJnnbTLpr99f9l1uba"
+    },
+    {
+      "added_at": "2023-02-07 01:47:20",
+      "album": {
         "name": "GOD DID",
         "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 501648,
       "name": "GOD DID (feat. Rick Ross, Lil Wayne, Jay-Z, John Legend & Fridayy)",
       "url": "https://open.spotify.com/track/2sOj9vyd6yiss9W1IK6chU"
-    },
-    {
-      "added_at": "2023-02-07 01:47:20",
-      "album": {
-        "name": "There\u2019d Better Be A Mirrorball",
-        "url": "https://open.spotify.com/album/0ZUmodAwUq8cQJFvyibKwT"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 265798,
-      "name": "There\u2019d Better Be A Mirrorball",
-      "url": "https://open.spotify.com/track/0yowbJnnbTLpr99f9l1uba"
     },
     {
       "added_at": "2023-02-07 01:47:20",

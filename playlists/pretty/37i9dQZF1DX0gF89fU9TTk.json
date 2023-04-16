@@ -1,12 +1,12 @@
 {
   "description": "The best of today's pop worship music.  Turn the beat up! Cover: Switch",
-  "num_followers": 115006,
+  "num_followers": 115067,
   "original_name": "Hits UP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY5NDkyNCwwMDAwMDAwMDkwOWZjOTliZGI2ODE3ZDkzYWJjMjdlMDM0NzY4NTZk",
+  "snapshot_id": "MTY3NjY5NDkyNCwwMDAwMDAwMGQ4Mzg2NTEwYzk0MmI3M2RjYWRiYjcxZmZlMGYyNGU1",
   "tracks": [
     {
       "added_at": "2023-02-18 04:35:24",
@@ -227,18 +227,18 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Shiloh",
-        "url": "https://open.spotify.com/album/1fQcrISwcL6Xg8O46S8ytG"
+        "name": "Control",
+        "url": "https://open.spotify.com/album/1U6WL5nPYVlW1Y2RTSpzKa"
       },
       "artists": [
         {
-          "name": "Audrey Assad",
-          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
+          "name": "Joel Vaughn",
+          "url": "https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB"
         }
       ],
-      "duration_ms": 268360,
-      "name": "Shiloh",
-      "url": "https://open.spotify.com/track/5bbpGneGOh76SyDWEhZRXN"
+      "duration_ms": 199573,
+      "name": "Pray It Up",
+      "url": "https://open.spotify.com/track/5qL47IcceHPr7W8kxK4Wzj"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -259,6 +259,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
+        "name": "Shiloh",
+        "url": "https://open.spotify.com/album/1fQcrISwcL6Xg8O46S8ytG"
+      },
+      "artists": [
+        {
+          "name": "Audrey Assad",
+          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
+        }
+      ],
+      "duration_ms": 268360,
+      "name": "Shiloh",
+      "url": "https://open.spotify.com/track/5bbpGneGOh76SyDWEhZRXN"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
         "name": "Who We Are",
         "url": "https://open.spotify.com/album/3B41USIdyMLjgxepjxhi3r"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 199078,
       "name": "Who We Are",
       "url": "https://open.spotify.com/track/3iPrzSUiI1PojLdulvGudz"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/1U6WL5nPYVlW1Y2RTSpzKa"
-      },
-      "artists": [
-        {
-          "name": "Joel Vaughn",
-          "url": "https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB"
-        }
-      ],
-      "duration_ms": 199573,
-      "name": "Pray It Up",
-      "url": "https://open.spotify.com/track/5qL47IcceHPr7W8kxK4Wzj"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -307,18 +307,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "All Of My Best Friends",
-        "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
+        "name": "Rest On Us",
+        "url": "https://open.spotify.com/album/6CMg5UAglJqxvtWakN3YcF"
       },
       "artists": [
         {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+          "name": "Ben Potter",
+          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
+        },
+        {
+          "name": "Eric Gilmour",
+          "url": "https://open.spotify.com/artist/6fVjCsKdS30DoRnMfOlG4j"
         }
       ],
-      "duration_ms": 185573,
-      "name": "Best Friends",
-      "url": "https://open.spotify.com/track/0fDEDcUApzHMvBlIIKcmMk"
+      "duration_ms": 209739,
+      "name": "Rest On Us",
+      "url": "https://open.spotify.com/track/4NPEyG5EK6PwJCBNr9phnE"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -363,22 +367,18 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Rest On Us",
-        "url": "https://open.spotify.com/album/6CMg5UAglJqxvtWakN3YcF"
+        "name": "All Of My Best Friends",
+        "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
       },
       "artists": [
         {
-          "name": "Ben Potter",
-          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
-        },
-        {
-          "name": "Eric Gilmour",
-          "url": "https://open.spotify.com/artist/6fVjCsKdS30DoRnMfOlG4j"
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
         }
       ],
-      "duration_ms": 209739,
-      "name": "Rest On Us",
-      "url": "https://open.spotify.com/track/4NPEyG5EK6PwJCBNr9phnE"
+      "duration_ms": 185573,
+      "name": "Best Friends",
+      "url": "https://open.spotify.com/track/0fDEDcUApzHMvBlIIKcmMk"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -575,38 +575,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "EXIT",
-        "url": "https://open.spotify.com/album/23hocB8tXBHfvImk7SNPnv"
-      },
-      "artists": [
-        {
-          "name": "Wande",
-          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
-        }
-      ],
-      "duration_ms": 124160,
-      "name": "HAPPY",
-      "url": "https://open.spotify.com/track/3ujkAJ4EMZzgMgM1RXqpCJ"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
-        "name": "Out Here On A Friday Where It Began (Live)",
-        "url": "https://open.spotify.com/album/6WW9fXSiAv0wj5gn8XbFvy"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        }
-      ],
-      "duration_ms": 162894,
-      "name": "Phenomena (DA DA) - Live",
-      "url": "https://open.spotify.com/track/41K9LXYA0ou2SrJdAkzWue"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "Love Song",
         "url": "https://open.spotify.com/album/5nC6gYCU6danOkYAkngJa9"
       },
@@ -627,6 +595,38 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
+        "name": "Out Here On A Friday Where It Began (Live)",
+        "url": "https://open.spotify.com/album/6WW9fXSiAv0wj5gn8XbFvy"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        }
+      ],
+      "duration_ms": 162894,
+      "name": "Phenomena (DA DA) - Live",
+      "url": "https://open.spotify.com/track/41K9LXYA0ou2SrJdAkzWue"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "EXIT",
+        "url": "https://open.spotify.com/album/23hocB8tXBHfvImk7SNPnv"
+      },
+      "artists": [
+        {
+          "name": "Wande",
+          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
+        }
+      ],
+      "duration_ms": 124160,
+      "name": "HAPPY",
+      "url": "https://open.spotify.com/track/3ujkAJ4EMZzgMgM1RXqpCJ"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
         "name": "Nobody",
         "url": "https://open.spotify.com/album/0WYEPMMXkI0XVuKs3c9iZX"
       },
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Yes He Does",
-        "url": "https://open.spotify.com/album/0IVE74zl2F4p9BVSPYLALo"
-      },
-      "artists": [
-        {
-          "name": "Stars Go Dim",
-          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
-        }
-      ],
-      "duration_ms": 206606,
-      "name": "Yes He Does",
-      "url": "https://open.spotify.com/track/5O5HNh3c2lYctzGMjLCr2M"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "Be Okay - EP",
         "url": "https://open.spotify.com/album/1nyPbs5sNmjvgJyqcm78EZ"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 194374,
       "name": "Momentum",
       "url": "https://open.spotify.com/track/2kHntZREc5lLhN6jItWVut"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Yes He Does",
+        "url": "https://open.spotify.com/album/0IVE74zl2F4p9BVSPYLALo"
+      },
+      "artists": [
+        {
+          "name": "Stars Go Dim",
+          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
+        }
+      ],
+      "duration_ms": 206606,
+      "name": "Yes He Does",
+      "url": "https://open.spotify.com/track/5O5HNh3c2lYctzGMjLCr2M"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -767,6 +767,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
+        "name": "Lifeline",
+        "url": "https://open.spotify.com/album/6XicHplGHaH6keAcsMKTkW"
+      },
+      "artists": [
+        {
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+        }
+      ],
+      "duration_ms": 194556,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/1HunEnhULBXS1RlftCK8iK"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
         "name": "Kingdom Come",
         "url": "https://open.spotify.com/album/12KLexZOaKbk7KLI631KhO"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 238666,
       "name": "Kingdom Come",
       "url": "https://open.spotify.com/track/4esSUk8jL15c63JLYWjVSY"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
-        "name": "Lifeline",
-        "url": "https://open.spotify.com/album/6XicHplGHaH6keAcsMKTkW"
-      },
-      "artists": [
-        {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
-        }
-      ],
-      "duration_ms": 194556,
-      "name": "Lifeline",
-      "url": "https://open.spotify.com/track/1HunEnhULBXS1RlftCK8iK"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -867,6 +867,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
+        "name": "Better View",
+        "url": "https://open.spotify.com/album/5fjwampEKoaXEv81pDDQQ5"
+      },
+      "artists": [
+        {
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+        }
+      ],
+      "duration_ms": 168853,
+      "name": "Better View",
+      "url": "https://open.spotify.com/track/173RgJWVkioV5Ngb8U6q90"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
         "name": "Devotion",
         "url": "https://open.spotify.com/album/6O3f8tfqgEyfNeW2AQYaBH"
       },
@@ -923,18 +939,18 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Better View",
-        "url": "https://open.spotify.com/album/5fjwampEKoaXEv81pDDQQ5"
+        "name": "Nothing But Good",
+        "url": "https://open.spotify.com/album/2tc8GJQgyDDMMNwLIuRV08"
       },
       "artists": [
         {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+          "name": "Chris Quilala",
+          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
         }
       ],
-      "duration_ms": 168853,
-      "name": "Better View",
-      "url": "https://open.spotify.com/track/173RgJWVkioV5Ngb8U6q90"
+      "duration_ms": 225472,
+      "name": "Nothing But Good",
+      "url": "https://open.spotify.com/track/3u1IVEDaALw9TnOBjXQzTw"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -955,22 +971,6 @@
       "duration_ms": 223000,
       "name": "I Feel Good About It",
       "url": "https://open.spotify.com/track/3lsuL58UoCsdoHdYSJ8Fce"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
-        "name": "Nothing But Good",
-        "url": "https://open.spotify.com/album/2tc8GJQgyDDMMNwLIuRV08"
-      },
-      "artists": [
-        {
-          "name": "Chris Quilala",
-          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
-        }
-      ],
-      "duration_ms": 225472,
-      "name": "Nothing But Good",
-      "url": "https://open.spotify.com/track/3u1IVEDaALw9TnOBjXQzTw"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Candid Heart",
-        "url": "https://open.spotify.com/album/57ogRd3akSf4eEcW7LJOyT"
-      },
-      "artists": [
-        {
-          "name": "Alive City",
-          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Candid Heart",
-      "url": "https://open.spotify.com/track/138ucy6B7MaoCFhL1wF6TD"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "Kerosene",
         "url": "https://open.spotify.com/album/3cLdlbfSvbXDPNIUvqRAAq"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 184264,
       "name": "Kerosene",
       "url": "https://open.spotify.com/track/4vXkAOGeEVv79YDaoweAL2"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Candid Heart",
+        "url": "https://open.spotify.com/album/57ogRd3akSf4eEcW7LJOyT"
+      },
+      "artists": [
+        {
+          "name": "Alive City",
+          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Candid Heart",
+      "url": "https://open.spotify.com/track/138ucy6B7MaoCFhL1wF6TD"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Elements",
-        "url": "https://open.spotify.com/album/7hAnYgk3KdYmMvWzhS648H"
-      },
-      "artists": [
-        {
-          "name": "Gateway Youth",
-          "url": "https://open.spotify.com/artist/3ftWjEOqlDfTCF7ZSzRVNM"
-        }
-      ],
-      "duration_ms": 200324,
-      "name": "Earth",
-      "url": "https://open.spotify.com/track/2HWjZ2d3ZnQ8pjIrJndtAe"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "LET YOURSELF BE LOVED",
         "url": "https://open.spotify.com/album/1Ru5mrSp6RQUPpQFf0doee"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 199000,
       "name": "Falling Up",
       "url": "https://open.spotify.com/track/1sL6ZOwabMjS7h4dQVvkeC"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Elements",
+        "url": "https://open.spotify.com/album/7hAnYgk3KdYmMvWzhS648H"
+      },
+      "artists": [
+        {
+          "name": "Gateway Youth",
+          "url": "https://open.spotify.com/artist/3ftWjEOqlDfTCF7ZSzRVNM"
+        }
+      ],
+      "duration_ms": 200324,
+      "name": "Earth",
+      "url": "https://open.spotify.com/track/2HWjZ2d3ZnQ8pjIrJndtAe"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "You Tell Me",
-        "url": "https://open.spotify.com/album/4RXdxAM1qZd91aLI3o6H9q"
-      },
-      "artists": [
-        {
-          "name": "One Common",
-          "url": "https://open.spotify.com/artist/7C8oYaoYaMU08umRm46EK9"
-        }
-      ],
-      "duration_ms": 180600,
-      "name": "You Tell Me",
-      "url": "https://open.spotify.com/track/18tCFWknS0gTJBBRLCuI0T"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "Hunger",
         "url": "https://open.spotify.com/album/5IM9yRLsBVaZ2cJyik2Iow"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 230220,
       "name": "Hunger",
       "url": "https://open.spotify.com/track/5SNdebTrDYFXA7hB0wsbmb"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "You Tell Me",
+        "url": "https://open.spotify.com/album/4RXdxAM1qZd91aLI3o6H9q"
+      },
+      "artists": [
+        {
+          "name": "One Common",
+          "url": "https://open.spotify.com/artist/7C8oYaoYaMU08umRm46EK9"
+        }
+      ],
+      "duration_ms": 180600,
+      "name": "You Tell Me",
+      "url": "https://open.spotify.com/track/18tCFWknS0gTJBBRLCuI0T"
     },
     {
       "added_at": "2023-02-18 04:35:24",

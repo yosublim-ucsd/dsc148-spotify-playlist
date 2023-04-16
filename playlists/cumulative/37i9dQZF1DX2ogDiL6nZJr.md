@@ -4,7 +4,7 @@
 
 > Home is where you park it.
 
-279 songs - 17 hr 23 min
+280 songs - 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [All That You Are](https://open.spotify.com/track/7G1EM2JFj32L6UBsPJrhoH) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [All That You Are](https://open.spotify.com/album/5QKtAAUxkQLhKT1hLX910o) | 4:11 | 2021-12-09 | 2022-08-13 |
 | [Alright](https://open.spotify.com/track/3ZWW7SuBWXOHv24nZmfPLF) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Simulcast](https://open.spotify.com/album/3uqx22ScaYQujWq2lBvXuQ) | 4:02 | 2022-04-14 | 2022-04-20 |
 | [anew](https://open.spotify.com/track/21noJ3ormqz6ns0FxrKbeo) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [anew](https://open.spotify.com/album/2oBjzhXn3VigQDMkEUsXyO) | 3:35 | 2022-08-11 | 2022-11-13 |
+| [anew](https://open.spotify.com/track/2E17445RgPqXOH7Jfn0Hhf) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [anew](https://open.spotify.com/album/5wutBSXdX6kR0QdVK2X24K) | 3:35 | 2023-02-17 |  |
 | [Angel](https://open.spotify.com/track/0efvdBK1PLP3F1SDzf27JL) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Angel](https://open.spotify.com/album/70PN5dV4LvJjupYPKClLJU) | 3:39 | 2022-07-21 |  |
 | [Arms Of Who](https://open.spotify.com/track/5S6VW7zfblsWX2hsv5SbTG) | [Bayuk](https://open.spotify.com/artist/4FB0ZlyDLV9zyvtJLNmZNw), [Andreas Vey](https://open.spotify.com/artist/2JtnUZejA6jFRZZuqmlJzs) | [Arms of Who](https://open.spotify.com/album/4Blv5Cadh9uukumyIwXQr2) | 4:07 | 2021-12-09 | 2023-04-07 |
 | [Around The Sun](https://open.spotify.com/track/0VrdF2Q4bSf5DWCnEPii0P) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Around The Sun](https://open.spotify.com/album/2l6iKC0utkn2ADXNN8KpyB) | 3:54 | 2021-12-09 |  |
@@ -197,7 +198,7 @@
 | [Pretty Lady](https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Terra Firma](https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK) | 4:39 | 2022-07-21 |  |
 | [Price](https://open.spotify.com/track/7LmMQyOx62rbprC2eyPtHO) | [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs), [Sebastian Maschat & Erlend Øye](https://open.spotify.com/artist/7K9jdX7nONxeCCdJ1EaAZK) | [Quarantine at El Ganzo](https://open.spotify.com/album/7vVNYMLmlCfU9o4IHhFWcJ) | 3:48 | 2021-12-09 |  |
 | [Purple](https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:22 | 2023-02-18 | 2023-03-03 |
-| [quite alright](https://open.spotify.com/track/1LEGkagVxaB3oEjfbhz2a1) | [doppelfinger](https://open.spotify.com/artist/26vQnKIdh6ysJWbcQ6o3P1) | [by design](https://open.spotify.com/album/2iKnUX26YQtb43UgO0yLBr) | 5:15 | 2023-01-12 |  |
+| [quite alright](https://open.spotify.com/track/1LEGkagVxaB3oEjfbhz2a1) | [doppelfinger](https://open.spotify.com/artist/26vQnKIdh6ysJWbcQ6o3P1) | [by design](https://open.spotify.com/album/2iKnUX26YQtb43UgO0yLBr) | 5:15 | 2023-01-12 | 2023-04-16 |
 | [quite alright](https://open.spotify.com/track/3ac7wRpO4zkSxzDDa5kado) | [doppelfinger](https://open.spotify.com/artist/26vQnKIdh6ysJWbcQ6o3P1) | [by design](https://open.spotify.com/album/1IluF9fFD0yPzey3C306zL) | 5:15 | 2022-04-14 | 2022-11-18 |
 | [Rain](https://open.spotify.com/track/64mzbvhWK8BL3IHR4EiqEh) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Rain](https://open.spotify.com/album/4WYlw0E5sJCweed8y3ycpT) | 3:48 | 2022-04-14 | 2022-04-18 |
 | [Rainbow](https://open.spotify.com/track/6XQzy3sYwgCKPCwGvTWQ7o) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Rainbow](https://open.spotify.com/album/28yBTX3k4B5gNK9lmus04C) | 2:46 | 2022-04-14 | 2022-04-21 |

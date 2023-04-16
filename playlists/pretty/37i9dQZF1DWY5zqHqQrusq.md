@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5zqHqQrusq.md) - [plain]
 
 > Chill, take a long walk and clear your mind
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,361 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,373 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5zqHqQrusq.md) - [plain]
 | 15 | [Karma](https://open.spotify.com/track/6TWmMuc8pofbqBJA0jn4GW) | [Israel Onyach](https://open.spotify.com/artist/0FsioHzjzS6b1EZKadZsZK) | [Karma](https://open.spotify.com/album/6vxjwodaQOfH0QI2LJ63Qu) | 2:50 |
 | 16 | [Wild Trip](https://open.spotify.com/track/5LH9sGAsEtE2ysKdKG7ZRh) | [Chemutai Sage](https://open.spotify.com/artist/2mP0v7i6JeL8yXPfey97lx), [MacKinlay](https://open.spotify.com/artist/3TpmxDMVmH67u6PfT0Wz7f) | [Wild Trip](https://open.spotify.com/album/3evi4QPow2u205Fx8MyW0I) | 4:18 |
 | 17 | [Sometimes \- slowed+reverb remix](https://open.spotify.com/track/1Wai4S6wD7jE9vjrZW9Ydw) | [Mist'riii](https://open.spotify.com/artist/2ET4fikSmaataNBz8cJM4e) | [Sometimes \(slowed+reverb remix\)](https://open.spotify.com/album/05Lhrlmn5toScqQhr4pRXc) | 4:23 |
-| 18 | [Bright Outside](https://open.spotify.com/track/1zUdoJf7QiUx9fvCDzz4Qq) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Elani Boshoff](https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9) | [Bright Outside](https://open.spotify.com/album/66dHkOodHx6Bnm566qPrwx) | 2:12 |
+| 18 | [Bright Outside](https://open.spotify.com/track/4cuhSC70d2pVMkgiQXQNd9) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Elani Boshoff](https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9) | [Bright Outside](https://open.spotify.com/album/0rTeZFpcIKYjfp3sMLsiDM) | 2:12 |
 | 19 | [Fade](https://open.spotify.com/track/7FuyHQVU2rdPy7nmQhzOye) | [Jinku](https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo), [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP), [Pikes](https://open.spotify.com/artist/3iYk1tEjUMPcs5roPxv533) | [Oasis Park III](https://open.spotify.com/album/0gyKYbsf4q8U5RaSBSqp3s) | 3:58 |
 | 20 | [Save My Soul \(Who Will Remain?\)](https://open.spotify.com/track/4oCbEd2ub83mqyKQUhU3qN) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [Save My Soul \(Who Will Remain?\)](https://open.spotify.com/album/65HSV5JvGWhtbvnBOITYMY) | 2:37 |
 | 21 | [Oceans](https://open.spotify.com/track/50eCGnJmjeJU1HfjmcdK2N) | [Chemutai Sage](https://open.spotify.com/artist/2mP0v7i6JeL8yXPfey97lx) | [Oceans](https://open.spotify.com/album/2xhSN6qB5HsKwWUFLUhMyI) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5zqHqQrusq.md) - [plain]
 | 49 | [Blinding Blocks Incorporated \(BBI\)](https://open.spotify.com/track/5EMLJj0bq2bYeVW2UCd62D) | [Dorphanage](https://open.spotify.com/artist/0lLs1XSa8ZCeAkOz91UgnN), [Zawadi](https://open.spotify.com/artist/0qdTYFtnAgZVgZqKMX3jnQ) | [Blinding Blocks Incorporated \(BBI\)](https://open.spotify.com/album/4VhCyAOTmopRYaiJpKpEM5) | 5:55 |
 | 50 | [time \(with my ex\)](https://open.spotify.com/track/3vdmUmL9RzhrQTD67w5dl6) | [Papa](https://open.spotify.com/artist/3yhUYybUxwJn1or7zHXWHy) | [Legacy](https://open.spotify.com/album/1RJZeNA3Awf8RBHPqQ9Cha) | 2:30 |
 
-Snapshot ID: `MTY4MDIwOTk0MCwwMDAwMDAwMDYzOTc3MGRkZTY0ODAyMzFkYWEwOTYwMzJmYTlkMjY3`
+Snapshot ID: `MTY4MDIwOTk0MCwwMDAwMDAwMDVmMjA1Y2NmNmRiMzdlNmMwNWY0NGE4MGFmZjhkZTE3`

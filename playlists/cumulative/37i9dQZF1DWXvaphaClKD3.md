@@ -4,7 +4,7 @@
 
 > Novedades poderosas, perronas y llegadoras de la Música Mexicana\. Edén Muñoz en portada.
 
-1,617 songs - 3 day 14 hr 48 min
+1,618 songs - 3 day 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -917,6 +917,7 @@
 | [Los Pajaros \(En Vivo\)](https://open.spotify.com/track/5cDiDT7E88eUXiVhkUYEpf) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Los Pajaros \(En Vivo\)](https://open.spotify.com/album/3V1HnCC6js35Pw7NFctA6Y) | 2:31 | 2022-07-22 | 2022-08-06 |
 | [Los Piratitas \(En Vivo\)](https://open.spotify.com/track/6nRj2PrDyGyKIz964KK4eG) | [Betillo Guerrero](https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y), [Martin Castillo](https://open.spotify.com/artist/7cTBwZEDfYdYu1ti31AgPw) | [Los Piratitas \(En Vivo\)](https://open.spotify.com/album/6f7KY61tzg61KZq8Ac46dK) | 3:26 | 2022-12-02 | 2022-12-10 |
 | [Los Toritos](https://open.spotify.com/track/6N8HTPH78LJwL1WYvpF63c) | [La Kumbre Con K](https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3) | [Los Toritos](https://open.spotify.com/album/2bw9mrWd35tnbAHwhtdJHh) | 2:52 | 2022-12-09 | 2022-12-17 |
+| [Los Verdes](https://open.spotify.com/track/4ofofqYez8kibiUHjt15GM) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [Los Verdes](https://open.spotify.com/album/6sIiL8o7zvpjSOVC8QLY65) | 2:24 | 2023-04-14 |  |
 | [Luz De Dia](https://open.spotify.com/track/1MZSDugdxahUGvQtt5UZpx) | [Petey Quezada](https://open.spotify.com/artist/3F774c1w8i3xFiknTAJyqy) | [Luz De Dia](https://open.spotify.com/album/6xnSHz2wdF53mBTDEIb8XQ) | 4:11 | 2022-08-26 | 2022-09-03 |
 | [Lágrimas De Dolor](https://open.spotify.com/track/62BFMRJTwMV0ID8Svk3rLD) | [Zexta Alianza](https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX) | [Lágrimas De Dolor](https://open.spotify.com/album/7ltR6C6ExOrExTTkZlRAmY) | 3:49 | 2023-02-17 | 2023-02-25 |
 | [M En El Radar](https://open.spotify.com/track/0MtDgKq4LQwyQxwTDVhCUw) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [M En El Radar](https://open.spotify.com/album/6WjorFCymLlEUdC1bFs3Nc) | 2:20 | 2022-10-28 | 2022-11-05 |

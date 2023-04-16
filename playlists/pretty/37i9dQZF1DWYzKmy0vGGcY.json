@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1960s. Cover: Etta James.",
-  "num_followers": 233265,
+  "num_followers": 233480,
   "original_name": "Soft 60s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mjk1ODU0OSwwMDAwMDAwMDkwYmY1NTY4MjE1MzAyZGE1OTUzNjlkY2E5M2I2OGUy",
+  "snapshot_id": "MTY2Mjk1ODU0OSwwMDAwMDAwMDI4ZDU4NzE3ZjMxNGI1ZWUwOWNlMmIzNmEzOTU5YjRk",
   "tracks": [
     {
       "added_at": "2022-05-30 13:00:37",
@@ -271,22 +271,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Bee Gees' 1st",
-        "url": "https://open.spotify.com/album/2ESenDgBlvBFn6G1SfVZIw"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "To Love Somebody",
-      "url": "https://open.spotify.com/track/0mbS3VwRbO6HVBMPXnzOGA"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Lady Soul (With Bonus Selections)",
         "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 165333,
       "name": "(You Make Me Feel Like) A Natural Woman",
       "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Bee Gees' 1st",
+        "url": "https://open.spotify.com/album/2ESenDgBlvBFn6G1SfVZIw"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "To Love Somebody",
+      "url": "https://open.spotify.com/track/0mbS3VwRbO6HVBMPXnzOGA"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Album 1700",
-        "url": "https://open.spotify.com/album/3CDM5os6kA4y6mYYGukMIZ"
-      },
-      "artists": [
-        {
-          "name": "Peter, Paul and Mary",
-          "url": "https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB"
-        }
-      ],
-      "duration_ms": 207240,
-      "name": "Leaving on a Jet Plane",
-      "url": "https://open.spotify.com/track/6ZSTinOwx5dKFYc6iYyGDn"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "First Take",
         "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 260666,
       "name": "The First Time Ever I Saw Your Face",
       "url": "https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Album 1700",
+        "url": "https://open.spotify.com/album/3CDM5os6kA4y6mYYGukMIZ"
+      },
+      "artists": [
+        {
+          "name": "Peter, Paul and Mary",
+          "url": "https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB"
+        }
+      ],
+      "duration_ms": 207240,
+      "name": "Leaving on a Jet Plane",
+      "url": "https://open.spotify.com/track/6ZSTinOwx5dKFYc6iYyGDn"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Horizontal (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2oeuTgRudy4dVoFa15gf05"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 198453,
-      "name": "Words",
-      "url": "https://open.spotify.com/track/07PIhdmyYIw8dMeDMsx9FU"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "True Genius",
         "url": "https://open.spotify.com/album/7gvxyetkX6vkoMyDkDM6ls"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 219560,
       "name": "Georgia on My Mind",
       "url": "https://open.spotify.com/track/6yMGxqKj0218mFR5KqsMRq"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Horizontal (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2oeuTgRudy4dVoFa15gf05"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 198453,
+      "name": "Words",
+      "url": "https://open.spotify.com/track/07PIhdmyYIw8dMeDMsx9FU"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/2paShliFsxYoO3WJEdTVdA"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "duration_ms": 164933,
+      "name": "Spooky (Single Version)",
+      "url": "https://open.spotify.com/track/4RYwE31p4KflK1h7J7m1Yt"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
         "name": "Ferry Cross The Mersey [Mono And Stereo Version]",
         "url": "https://open.spotify.com/album/51mN3VJrZjN6h30AuqAqGD"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 146133,
       "name": "I Will Follow You",
       "url": "https://open.spotify.com/track/4Y6pdMS2PwGshq1MYcJ9fC"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/2paShliFsxYoO3WJEdTVdA"
-      },
-      "artists": [
-        {
-          "name": "Dusty Springfield",
-          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
-        }
-      ],
-      "duration_ms": 164933,
-      "name": "Spooky (Single Version)",
-      "url": "https://open.spotify.com/track/4RYwE31p4KflK1h7J7m1Yt"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
+        "name": "Hits'n'Flips",
+        "url": "https://open.spotify.com/album/03yc1eq0YoS5Bgt6KSY9Wg"
+      },
+      "artists": [
+        {
+          "name": "Procol Harum",
+          "url": "https://open.spotify.com/artist/0GbqW5TJr7n4is453VOY4C"
+        }
+      ],
+      "duration_ms": 248946,
+      "name": "A Whiter Shade of Pale - Original Single Version",
+      "url": "https://open.spotify.com/track/7DsQgIwg23u9gooCxkRTu3"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
         "name": "You're All I Need",
         "url": "https://open.spotify.com/album/1i1HqvvJk7zGpNDygYlXQd"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 138533,
       "name": "Ain't Nothing Like The Real Thing",
       "url": "https://open.spotify.com/track/37soQoNhEEIrhhYgHWK1xU"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "Hits'n'Flips",
-        "url": "https://open.spotify.com/album/03yc1eq0YoS5Bgt6KSY9Wg"
-      },
-      "artists": [
-        {
-          "name": "Procol Harum",
-          "url": "https://open.spotify.com/artist/0GbqW5TJr7n4is453VOY4C"
-        }
-      ],
-      "duration_ms": 248946,
-      "name": "A Whiter Shade of Pale - Original Single Version",
-      "url": "https://open.spotify.com/track/7DsQgIwg23u9gooCxkRTu3"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Down To Earth",
-        "url": "https://open.spotify.com/album/1MB4UsW8MUMLMRxuNsXpDm"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 172960,
-      "name": "A Place In The Sun",
-      "url": "https://open.spotify.com/track/0tURbnatc9qCxlYpXuPK8I"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Sings Top Ten",
         "url": "https://open.spotify.com/album/5zRvMt37YxCPddq09ivuPV"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 178440,
       "name": "What Becomes Of The Brokenhearted",
       "url": "https://open.spotify.com/track/0wBaPbJ2qsbGqgnGbqBDgP"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Down To Earth",
+        "url": "https://open.spotify.com/album/1MB4UsW8MUMLMRxuNsXpDm"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 172960,
+      "name": "A Place In The Sun",
+      "url": "https://open.spotify.com/track/0tURbnatc9qCxlYpXuPK8I"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
+        "name": "Spanish Harlem",
+        "url": "https://open.spotify.com/album/2WcVleVG28RWzWLDLZnVgp"
+      },
+      "artists": [
+        {
+          "name": "Ben E. King",
+          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
+        }
+      ],
+      "duration_ms": 174293,
+      "name": "Spanish Harlem",
+      "url": "https://open.spotify.com/track/3UCmuRdeTriWgOZMEJsfqZ"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
         "name": "Diana Ross & The Supremes Join The Temptations",
         "url": "https://open.spotify.com/album/7tZt4EApjs2MSzt0OJ1vaT"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 187333,
       "name": "I'm Gonna Make You Love Me",
       "url": "https://open.spotify.com/track/3Rhxe6P1im82NFVkt9X2qZ"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "Spanish Harlem",
-        "url": "https://open.spotify.com/album/2WcVleVG28RWzWLDLZnVgp"
-      },
-      "artists": [
-        {
-          "name": "Ben E. King",
-          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
-        }
-      ],
-      "duration_ms": 174293,
-      "name": "Spanish Harlem",
-      "url": "https://open.spotify.com/track/3UCmuRdeTriWgOZMEJsfqZ"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "My Cherie Amour",
-        "url": "https://open.spotify.com/album/51DUbu4v2tjYXxgy4I8vrG"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 185293,
-      "name": "Yester-Me, Yester-You, Yesterday",
-      "url": "https://open.spotify.com/track/0l9RGwc48deJ6j61KXAAvs"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "A Date with The Everly Brothers",
         "url": "https://open.spotify.com/album/4Nro0nGcWVybv8cZXmSU4P"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 158613,
       "name": "Cupid",
       "url": "https://open.spotify.com/track/6VqVieqjDEwS3mByMq4OzB"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "My Cherie Amour",
+        "url": "https://open.spotify.com/album/51DUbu4v2tjYXxgy4I8vrG"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 185293,
+      "name": "Yester-Me, Yester-You, Yesterday",
+      "url": "https://open.spotify.com/track/0l9RGwc48deJ6j61KXAAvs"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Bobby Vee",
-        "url": "https://open.spotify.com/album/6BGdVppgZLN2Ak2ngKjdAV"
-      },
-      "artists": [
-        {
-          "name": "Bobby Vee",
-          "url": "https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO"
-        }
-      ],
-      "duration_ms": 149973,
-      "name": "More Than I Can Say",
-      "url": "https://open.spotify.com/track/1t2zYsS4UgIkkuBgSe0fZt"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "A Date with The Everly Brothers",
         "url": "https://open.spotify.com/album/4Nro0nGcWVybv8cZXmSU4P"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 142306,
       "name": "Love Hurts - 2007 Remaster",
       "url": "https://open.spotify.com/track/6hgY1l6EqrfrHRNrxwKRiK"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Bobby Vee",
+        "url": "https://open.spotify.com/album/6BGdVppgZLN2Ak2ngKjdAV"
+      },
+      "artists": [
+        {
+          "name": "Bobby Vee",
+          "url": "https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO"
+        }
+      ],
+      "duration_ms": 149973,
+      "name": "More Than I Can Say",
+      "url": "https://open.spotify.com/track/1t2zYsS4UgIkkuBgSe0fZt"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Ooo Baby Baby: The Anthlogy",
-        "url": "https://open.spotify.com/album/7iNG3yfard0TYDWKTFC6qr"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson & The Miracles",
-          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "You've Really Got A Hold On Me",
-      "url": "https://open.spotify.com/track/1vG906bxMqUVufJoLSF4rV"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Playboy",
         "url": "https://open.spotify.com/album/0XuV6U9ee6UB1faItAbEic"
       },
@@ -1647,18 +1631,18 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Stay Awhile / I Only Want To Be With You",
-        "url": "https://open.spotify.com/album/2coXvs2zYk60U9Dd2hm6St"
+        "name": "Ooo Baby Baby: The Anthlogy",
+        "url": "https://open.spotify.com/album/7iNG3yfard0TYDWKTFC6qr"
       },
       "artists": [
         {
-          "name": "Dusty Springfield",
-          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+          "name": "Smokey Robinson & The Miracles",
+          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
         }
       ],
-      "duration_ms": 176400,
-      "name": "Wishin' And Hopin'",
-      "url": "https://open.spotify.com/track/1UBcwKIAUHo7BYAvae6yeA"
+      "duration_ms": 191000,
+      "name": "You've Really Got A Hold On Me",
+      "url": "https://open.spotify.com/track/1vG906bxMqUVufJoLSF4rV"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1679,6 +1663,22 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
+        "name": "Stay Awhile / I Only Want To Be With You",
+        "url": "https://open.spotify.com/album/2coXvs2zYk60U9Dd2hm6St"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "duration_ms": 176400,
+      "name": "Wishin' And Hopin'",
+      "url": "https://open.spotify.com/track/1UBcwKIAUHo7BYAvae6yeA"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
       },
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Take It Easy With The Walker Brothers",
-        "url": "https://open.spotify.com/album/5093E69Qt7j5Pv49zaEbhr"
+        "name": "Gary Puckett & The Union Gap Featuring \"Young Girl\"",
+        "url": "https://open.spotify.com/album/3Q83WkHiw4oRcmjuRbHJ8M"
       },
       "artists": [
         {
-          "name": "The Walker Brothers",
-          "url": "https://open.spotify.com/artist/49WlsIvcUYj7Awo93hDKgf"
+          "name": "Gary Puckett & The Union Gap",
+          "url": "https://open.spotify.com/artist/4asCC4oxQcDzFXhCth2SgQ"
         }
       ],
-      "duration_ms": 193986,
-      "name": "Make It Easy On Yourself",
-      "url": "https://open.spotify.com/track/5DNmWyeY9sildeeHnmIImG"
+      "duration_ms": 252146,
+      "name": "Honey (I Miss You)",
+      "url": "https://open.spotify.com/track/7eErg4xYy85zjy10xsZop6"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1727,18 +1727,18 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Gary Puckett & The Union Gap Featuring \"Young Girl\"",
-        "url": "https://open.spotify.com/album/3Q83WkHiw4oRcmjuRbHJ8M"
+        "name": "Take It Easy With The Walker Brothers",
+        "url": "https://open.spotify.com/album/5093E69Qt7j5Pv49zaEbhr"
       },
       "artists": [
         {
-          "name": "Gary Puckett & The Union Gap",
-          "url": "https://open.spotify.com/artist/4asCC4oxQcDzFXhCth2SgQ"
+          "name": "The Walker Brothers",
+          "url": "https://open.spotify.com/artist/49WlsIvcUYj7Awo93hDKgf"
         }
       ],
-      "duration_ms": 252146,
-      "name": "Honey (I Miss You)",
-      "url": "https://open.spotify.com/track/7eErg4xYy85zjy10xsZop6"
+      "duration_ms": 193986,
+      "name": "Make It Easy On Yourself",
+      "url": "https://open.spotify.com/track/5DNmWyeY9sildeeHnmIImG"
     },
     {
       "added_at": "2022-09-12 04:55:49",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "16 Most Requested Songs",
-        "url": "https://open.spotify.com/album/3bi87ndwfdokCp0Km4fxoJ"
-      },
-      "artists": [
-        {
-          "name": "Bobby Vinton",
-          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
-        }
-      ],
-      "duration_ms": 160066,
-      "name": "Mr. Lonely",
-      "url": "https://open.spotify.com/track/6x8xIapc9xcZlJ9HpCkrm9"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "The Definitive Collection",
         "url": "https://open.spotify.com/album/3AGszO88qhYdEvhs6pjsHW"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 174800,
       "name": "The Tracks Of My Tears",
       "url": "https://open.spotify.com/track/7FwkoTz8Ic8C5YaE9XXGIU"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/3bi87ndwfdokCp0Km4fxoJ"
+      },
+      "artists": [
+        {
+          "name": "Bobby Vinton",
+          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
+        }
+      ],
+      "duration_ms": 160066,
+      "name": "Mr. Lonely",
+      "url": "https://open.spotify.com/track/6x8xIapc9xcZlJ9HpCkrm9"
     },
     {
       "added_at": "2022-05-30 13:00:37",

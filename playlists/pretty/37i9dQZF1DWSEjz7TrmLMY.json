@@ -1,15 +1,15 @@
 {
   "description": "canto de tristeza porque lo nuestro termin\u00f3 ",
-  "num_followers": 51492,
+  "num_followers": 51553,
   "original_name": "perd\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzE5NzMyMSwwMDAwMDAwMDMwYjJhMTNlNjAxNzc3M2U4MWI0ZTk1NDczZjgzMWE3",
+  "snapshot_id": "MTY3NzE5NzMyMSwwMDAwMDAwMGFjMmU2NjBjZTlhMGVjZTRiYjNiZjAxZWRiMjViNDIx",
   "tracks": [
     {
-      "added_at": "2023-04-15 00:14:45",
+      "added_at": "2023-04-16 00:12:54",
       "album": {
         "name": "Que Vuelvas",
         "url": "https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j"
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT"
     },
     {
-      "added_at": "2023-04-15 00:14:45",
+      "added_at": "2023-04-16 00:12:54",
       "album": {
         "name": "Afortunado",
         "url": "https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ"
@@ -367,22 +367,18 @@
     {
       "added_at": "2022-08-02 23:50:53",
       "album": {
-        "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
-        "url": "https://open.spotify.com/album/6VmAsJkmfT8qjXbJH5QOQN"
+        "name": "Recuerden Mi Estilo",
+        "url": "https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc"
       },
       "artists": [
         {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
         }
       ],
-      "duration_ms": 250686,
-      "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
-      "url": "https://open.spotify.com/track/70w1mwTod6NgCNV6e7ZlIQ"
+      "duration_ms": 183547,
+      "name": "No Lo Hice Bien",
+      "url": "https://open.spotify.com/track/211mktDmIq7g2Q4gBTXphj"
     },
     {
       "added_at": "2022-08-02 23:50:53",
@@ -403,18 +399,22 @@
     {
       "added_at": "2022-08-02 23:50:53",
       "album": {
-        "name": "Recuerden Mi Estilo",
-        "url": "https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc"
+        "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
+        "url": "https://open.spotify.com/album/6VmAsJkmfT8qjXbJH5QOQN"
       },
       "artists": [
         {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
         }
       ],
-      "duration_ms": 183547,
-      "name": "No Lo Hice Bien",
-      "url": "https://open.spotify.com/track/211mktDmIq7g2Q4gBTXphj"
+      "duration_ms": 250686,
+      "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
+      "url": "https://open.spotify.com/track/70w1mwTod6NgCNV6e7ZlIQ"
     },
     {
       "added_at": "2022-08-02 23:50:53",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-08-02 23:50:53",
       "album": {
-        "name": "Matamoros Querido",
-        "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
-      },
-      "artists": [
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
-        }
-      ],
-      "duration_ms": 195506,
-      "name": "Lamento De Amor",
-      "url": "https://open.spotify.com/track/6pYz8bkZvf84S49VWLRHah"
-    },
-    {
-      "added_at": "2022-08-02 23:50:53",
-      "album": {
         "name": "Diez A\u00f1os Cantandole Al Amor",
         "url": "https://open.spotify.com/album/7m0U4kGO3H4QUw5W75HsQ8"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 222933,
       "name": "Este Terco Corazon",
       "url": "https://open.spotify.com/track/1iN1knAnE9tgY3FipGocKX"
+    },
+    {
+      "added_at": "2022-08-02 23:50:53",
+      "album": {
+        "name": "Matamoros Querido",
+        "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
+      },
+      "artists": [
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "duration_ms": 195506,
+      "name": "Lamento De Amor",
+      "url": "https://open.spotify.com/track/6pYz8bkZvf84S49VWLRHah"
     },
     {
       "added_at": "2022-08-02 23:50:53",
@@ -737,7 +737,7 @@
       "url": "https://open.spotify.com/track/1OYZbxODr6TMlaT2PRi6Wi"
     },
     {
-      "added_at": "2023-04-15 00:14:45",
+      "added_at": "2023-04-16 00:12:54",
       "album": {
         "name": "Volver a Verte",
         "url": "https://open.spotify.com/album/7Fr4KyfCljns3TO7M0gS1S"
@@ -751,6 +751,22 @@
       "duration_ms": 248520,
       "name": "Cuatro Rosas",
       "url": "https://open.spotify.com/track/4MNshDc0FgyiddMjlGbeCV"
+    },
+    {
+      "added_at": "2023-04-16 00:12:54",
+      "album": {
+        "name": "El Rey Del Jaripeo",
+        "url": "https://open.spotify.com/album/3tKrubckAUPn0L1tBlzapY"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 194362,
+      "name": "Como Perro Con Rabia",
+      "url": "https://open.spotify.com/track/3bJeZJk8Qq53D0jQWi1mZO"
     },
     {
       "added_at": "2022-08-02 23:50:53",
@@ -767,22 +783,6 @@
       "duration_ms": 232360,
       "name": "Perd\u00f3name",
       "url": "https://open.spotify.com/track/3gO8mvkxIcyF9N7Vd1WM2i"
-    },
-    {
-      "added_at": "2023-04-15 00:14:45",
-      "album": {
-        "name": "El Rey Del Jaripeo",
-        "url": "https://open.spotify.com/album/3tKrubckAUPn0L1tBlzapY"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 194362,
-      "name": "Como Perro Con Rabia",
-      "url": "https://open.spotify.com/track/3bJeZJk8Qq53D0jQWi1mZO"
     },
     {
       "added_at": "2022-08-02 23:50:53",

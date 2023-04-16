@@ -4,7 +4,7 @@
 
 > ¡Los 40 principales éxitos de la radio musical! Se actualiza cada semana con la nueva lista de LOS40 ¡Busca más playlists en nuestro perfil y en la <a href="http://onelink.to/los40app">app LOS40</a>!
 
-150 songs - 7 hr 58 min
+151 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [A Contracorriente](https://open.spotify.com/track/2XBzPGUfiHG9xBGBuuKHwk) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [A Contracorriente](https://open.spotify.com/album/1A30cr9RFN6VDgsqMdFqg4) | 3:14 | 2022-01-22 | 2022-05-15 |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2022-01-15 | 2022-07-31 |
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-06-11 | 2022-11-06 |
-| [Agua Salada](https://open.spotify.com/track/22QO6gby3fhNRkNVAFxp5v) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [Agua Salada](https://open.spotify.com/album/3bKROtBqvLYbu3zXuRqR3W) | 3:33 | 2022-10-08 |  |
+| [Agua Salada](https://open.spotify.com/track/22QO6gby3fhNRkNVAFxp5v) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [Agua Salada](https://open.spotify.com/album/3bKROtBqvLYbu3zXuRqR3W) | 3:33 | 2022-10-08 | 2023-04-16 |
 | [Ajedrez](https://open.spotify.com/track/502C76In6ki3rUo47QP6pA) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Ajedrez](https://open.spotify.com/album/0KrZrlCpxZQgw11uvAp3n4) | 3:28 | 2023-03-18 |  |
 | [Amapolas](https://open.spotify.com/track/0z5yLgBmAtaylDYrgwzlpH) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Amapolas](https://open.spotify.com/album/7vFlsccgSanI5MxPbomwVY) | 3:25 | 2022-05-28 | 2023-01-07 |
 | [Amigos \(con Maria Becerra\)](https://open.spotify.com/track/34tHZJLk0adg5tW49iybbE) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Amigos \(con Maria Becerra\)](https://open.spotify.com/album/3znR1F0VbgfKsDyTeC0Nt8) | 3:53 | 2023-01-07 |  |
@@ -142,6 +142,7 @@
 | [TE PIENSO A CADA HORA](https://open.spotify.com/track/1J9wWlo3oI3HjPnp48L3XL) | [Dvicio](https://open.spotify.com/artist/2KxjMGXFgX1vt9grpbD3xI) | [TE PIENSO A CADA HORA](https://open.spotify.com/album/6jJJFLiYhv7LE1wvCZG5Z4) | 3:14 | 2022-04-02 | 2022-07-24 |
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2022-01-15 | 2022-08-07 |
 | [Tissues](https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Tissues](https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew) | 3:35 | 2022-11-05 | 2023-01-29 |
+| [Todo Contigo](https://open.spotify.com/track/4rQu72zFJz3qne1bnEkVSt) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Todo Contigo](https://open.spotify.com/album/2LmSTGw4yoSsPvKKMCJDkE) | 2:45 | 2023-04-15 |  |
 | [Todo De Ti](https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Todo De Ti](https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH) | 3:19 | 2022-01-15 | 2022-02-27 |
 | [Todo Lamento](https://open.spotify.com/track/3e8haeh6alXHp8bwLhk4Vc) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Todo Lamento](https://open.spotify.com/album/4dHpeoII8QA3LaOXTYnCgm) | 2:35 | 2022-06-25 | 2022-08-28 |
 | [TOKE](https://open.spotify.com/track/2H8v0g9A4anC2UmZAPKgQn) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1) | [TOKE](https://open.spotify.com/album/1S7IFumFWDFW8xBMphbgPC) | 2:42 | 2022-11-05 | 2023-01-29 |

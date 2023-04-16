@@ -1,15 +1,15 @@
 {
   "description": "Hoy es noche de...",
-  "num_followers": 8747,
+  "num_followers": 8898,
   "original_name": "Reggaeton Sexy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI0MDE4NiwwMDAwMDAwMDU4ZTdlM2VjM2YxZDNlODdiNTQzYTc1ZmQ4NmRmMjQ4",
+  "snapshot_id": "MTY4MDI0MDE4NiwwMDAwMDAwMDkxMjNjYWVmN2ZmNjkxZTVmYTZlYTk4NGE1MzJjNGY1",
   "tracks": [
     {
-      "added_at": "2023-04-15 00:24:12",
+      "added_at": "2023-04-16 00:59:34",
       "album": {
         "name": "La Bebe (Remix)",
         "url": "https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU"
     },
     {
-      "added_at": "2023-04-15 00:24:12",
+      "added_at": "2023-04-16 00:59:34",
       "album": {
         "name": "Xexo",
         "url": "https://open.spotify.com/album/3fN5xRTyR9ZPR6ETIHKQ6T"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/3Dbvk3sQUwtjj8oCCF0QGu"
     },
     {
-      "added_at": "2023-04-15 00:24:12",
+      "added_at": "2023-04-16 00:59:34",
       "album": {
         "name": "D X VIDA",
         "url": "https://open.spotify.com/album/5kr54C0vWd6aZq3IarPMdk"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/3Eir8UUB1pFuaarEsAWBWS"
     },
     {
-      "added_at": "2023-04-15 00:24:12",
+      "added_at": "2023-04-16 00:59:34",
       "album": {
         "name": "L\u00edo",
         "url": "https://open.spotify.com/album/0kzO37PJ7zVbRBv1Kruee8"
@@ -211,26 +211,6 @@
     {
       "added_at": "2023-03-17 08:01:38",
       "album": {
-        "name": "X SI VOLVEMOS",
-        "url": "https://open.spotify.com/album/1skkjCQGfaGg0wpVw6cq5w"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 203360,
-      "name": "X SI VOLVEMOS",
-      "url": "https://open.spotify.com/track/3Zyk5Vd9WNPNVWxvb0EZTk"
-    },
-    {
-      "added_at": "2023-03-17 08:01:38",
-      "album": {
         "name": "OASIS",
         "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
       },
@@ -247,6 +227,26 @@
       "duration_ms": 242573,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
+    },
+    {
+      "added_at": "2023-03-17 08:01:38",
+      "album": {
+        "name": "X SI VOLVEMOS",
+        "url": "https://open.spotify.com/album/1skkjCQGfaGg0wpVw6cq5w"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 203360,
+      "name": "X SI VOLVEMOS",
+      "url": "https://open.spotify.com/track/3Zyk5Vd9WNPNVWxvb0EZTk"
     },
     {
       "added_at": "2023-03-17 08:01:38",
@@ -367,26 +367,6 @@
     {
       "added_at": "2023-03-17 08:01:38",
       "album": {
-        "name": "CAIRO",
-        "url": "https://open.spotify.com/album/1yzsYuo0fqKWvYimSWL5RA"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 201280,
-      "name": "CAIRO",
-      "url": "https://open.spotify.com/track/6WbAhuwE6fCOriBu5786X1"
-    },
-    {
-      "added_at": "2023-03-17 08:01:38",
-      "album": {
         "name": "Volando (Remix)",
         "url": "https://open.spotify.com/album/4MCZWUKxkvdMITh4KapBKX"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 240413,
       "name": "Pantysito",
       "url": "https://open.spotify.com/track/4srcMdbm2qzVG98tJajHxp"
+    },
+    {
+      "added_at": "2023-03-17 08:01:38",
+      "album": {
+        "name": "CAIRO",
+        "url": "https://open.spotify.com/album/1yzsYuo0fqKWvYimSWL5RA"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 201280,
+      "name": "CAIRO",
+      "url": "https://open.spotify.com/track/6WbAhuwE6fCOriBu5786X1"
     },
     {
       "added_at": "2023-03-17 08:01:38",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-03-17 08:01:38",
       "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO",
-        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 162093,
-      "name": "CAROLINA",
-      "url": "https://open.spotify.com/track/3goYw6YHoCjA1sfBzpdgzH"
-    },
-    {
-      "added_at": "2023-03-17 08:01:38",
-      "album": {
         "name": "JOSE",
         "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 217360,
       "name": "Qu\u00e9 M\u00e1s Pues?",
       "url": "https://open.spotify.com/track/6D2TCm4nf5nxAcdGJ7w3QP"
+    },
+    {
+      "added_at": "2023-03-17 08:01:38",
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO",
+        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 162093,
+      "name": "CAROLINA",
+      "url": "https://open.spotify.com/track/3goYw6YHoCjA1sfBzpdgzH"
     },
     {
       "added_at": "2023-03-17 08:01:38",
@@ -915,18 +915,22 @@
     {
       "added_at": "2023-03-17 08:01:38",
       "album": {
-        "name": "Siempre Blessd",
-        "url": "https://open.spotify.com/album/4PR6koe67C7YosjAYriYh4"
+        "name": "JOSE",
+        "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
       },
       "artists": [
         {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
         }
       ],
-      "duration_ms": 204444,
-      "name": "Que Duro",
-      "url": "https://open.spotify.com/track/12RaiccXZ5yIDrHt4c5ngZ"
+      "duration_ms": 170760,
+      "name": "Una Nota",
+      "url": "https://open.spotify.com/track/7iqOIHHEmu6Vhw25GgQ2eA"
     },
     {
       "added_at": "2023-03-17 08:01:38",
@@ -951,22 +955,18 @@
     {
       "added_at": "2023-03-17 08:01:38",
       "album": {
-        "name": "JOSE",
-        "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
+        "name": "Siempre Blessd",
+        "url": "https://open.spotify.com/album/4PR6koe67C7YosjAYriYh4"
       },
       "artists": [
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
         }
       ],
-      "duration_ms": 170760,
-      "name": "Una Nota",
-      "url": "https://open.spotify.com/track/7iqOIHHEmu6Vhw25GgQ2eA"
+      "duration_ms": 204444,
+      "name": "Que Duro",
+      "url": "https://open.spotify.com/track/12RaiccXZ5yIDrHt4c5ngZ"
     },
     {
       "added_at": "2023-03-17 08:01:38",
@@ -1111,30 +1111,6 @@
     {
       "added_at": "2023-03-17 08:01:38",
       "album": {
-        "name": "S\u00edntomas de Soltera",
-        "url": "https://open.spotify.com/album/52LXEHHaMdDqQFhiOhUJ7x"
-      },
-      "artists": [
-        {
-          "name": "Paloma Mami",
-          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
-        },
-        {
-          "name": "Pailita",
-          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
-        },
-        {
-          "name": "El Jordan 23",
-          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
-        }
-      ],
-      "duration_ms": 241908,
-      "name": "S\u00edntomas de Soltera",
-      "url": "https://open.spotify.com/track/2HUQkg5zLJzzwCEcEA3qlv"
-    },
-    {
-      "added_at": "2023-03-17 08:01:38",
-      "album": {
         "name": "The Academy",
         "url": "https://open.spotify.com/album/1faqBAWocW4ZOe0OFjudGw"
       },
@@ -1171,6 +1147,30 @@
       "duration_ms": 300266,
       "name": "Feel Me",
       "url": "https://open.spotify.com/track/6KeweE0BlXx3AtjMKhBLaz"
+    },
+    {
+      "added_at": "2023-03-17 08:01:38",
+      "album": {
+        "name": "S\u00edntomas de Soltera",
+        "url": "https://open.spotify.com/album/52LXEHHaMdDqQFhiOhUJ7x"
+      },
+      "artists": [
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        },
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        },
+        {
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        }
+      ],
+      "duration_ms": 241908,
+      "name": "S\u00edntomas de Soltera",
+      "url": "https://open.spotify.com/track/2HUQkg5zLJzzwCEcEA3qlv"
     },
     {
       "added_at": "2023-03-17 08:01:38",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2023-03-17 08:01:38",
       "album": {
+        "name": "Sensual Beb\u00e9",
+        "url": "https://open.spotify.com/album/2k3Qqrw8oQT3lq4XPe1xWC"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 209146,
+      "name": "Sensual Beb\u00e9",
+      "url": "https://open.spotify.com/track/1xqbfjRuUw0ot43wgBuVkt"
+    },
+    {
+      "added_at": "2023-03-17 08:01:38",
+      "album": {
         "name": "Suelta",
         "url": "https://open.spotify.com/album/79Ei7No5zyEoMYJdj9rJFe"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 243934,
       "name": "Suelta",
       "url": "https://open.spotify.com/track/7kN7u1ZDOrNBKcEEGwGeDY"
-    },
-    {
-      "added_at": "2023-03-17 08:01:38",
-      "album": {
-        "name": "Sensual Beb\u00e9",
-        "url": "https://open.spotify.com/album/2k3Qqrw8oQT3lq4XPe1xWC"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 209146,
-      "name": "Sensual Beb\u00e9",
-      "url": "https://open.spotify.com/track/1xqbfjRuUw0ot43wgBuVkt"
     },
     {
       "added_at": "2023-03-17 08:01:38",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-03-17 08:01:38",
       "album": {
-        "name": "Timelezz",
-        "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 241973,
-      "name": "Esta Dej\u00e1",
-      "url": "https://open.spotify.com/track/3rP4fbwWIAxRqay8ozCvhu"
-    },
-    {
-      "added_at": "2023-03-17 08:01:38",
-      "album": {
         "name": "PARA\u00cdSO",
         "url": "https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 170183,
       "name": "TU SABES DONDE VIVO",
       "url": "https://open.spotify.com/track/5RgSwK9Y13567fta5goKTz"
+    },
+    {
+      "added_at": "2023-03-17 08:01:38",
+      "album": {
+        "name": "Timelezz",
+        "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 241973,
+      "name": "Esta Dej\u00e1",
+      "url": "https://open.spotify.com/track/3rP4fbwWIAxRqay8ozCvhu"
     },
     {
       "added_at": "2023-03-17 08:01:38",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-03-17 08:01:38",
       "album": {
-        "name": "Despu\u00e9s Del Party",
-        "url": "https://open.spotify.com/album/0wr0yNb8J8neG6lPWGsJvF"
-      },
-      "artists": [
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        }
-      ],
-      "duration_ms": 162013,
-      "name": "Despu\u00e9s Del Party",
-      "url": "https://open.spotify.com/track/6kO6nue7gVJMQYsIMBLhvY"
-    },
-    {
-      "added_at": "2023-03-17 08:01:38",
-      "album": {
         "name": "Bucle",
         "url": "https://open.spotify.com/album/1Bf3zK23ffWtQtySZ75j55"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 330477,
       "name": "Ella - Remix",
       "url": "https://open.spotify.com/track/7cx9L3i88euMfx1oNCqDAD"
+    },
+    {
+      "added_at": "2023-03-17 08:01:38",
+      "album": {
+        "name": "Despu\u00e9s Del Party",
+        "url": "https://open.spotify.com/album/0wr0yNb8J8neG6lPWGsJvF"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "duration_ms": 162013,
+      "name": "Despu\u00e9s Del Party",
+      "url": "https://open.spotify.com/track/6kO6nue7gVJMQYsIMBLhvY"
     },
     {
       "added_at": "2023-03-17 08:01:38",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2023-03-17 08:01:38",
       "album": {
+        "name": "Ricota",
+        "url": "https://open.spotify.com/album/2yM8BVkcqhFiDvM9gBh1Z3"
+      },
+      "artists": [
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        }
+      ],
+      "duration_ms": 160880,
+      "name": "Ricota",
+      "url": "https://open.spotify.com/track/6gQoClTWFGA45WvjJW8XAc"
+    },
+    {
+      "added_at": "2023-03-17 08:01:38",
+      "album": {
         "name": "No Te Enamores",
         "url": "https://open.spotify.com/album/6PXli9mP6Bx73bBqZk9sPE"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 242603,
       "name": "Tsunami (feat. Arcangel & De La Ghetto)",
       "url": "https://open.spotify.com/track/0CS9Ypgubqau2INA8SFinq"
-    },
-    {
-      "added_at": "2023-03-17 08:01:38",
-      "album": {
-        "name": "Ricota",
-        "url": "https://open.spotify.com/album/2yM8BVkcqhFiDvM9gBh1Z3"
-      },
-      "artists": [
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
-        }
-      ],
-      "duration_ms": 160880,
-      "name": "Ricota",
-      "url": "https://open.spotify.com/track/6gQoClTWFGA45WvjJW8XAc"
     },
     {
       "added_at": "2023-03-17 08:01:38",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2023-03-17 08:01:38",
       "album": {
-        "name": "Mi Shorty",
-        "url": "https://open.spotify.com/album/7CATraPa1pNEdL9hQVPodQ"
-      },
-      "artists": [
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        }
-      ],
-      "duration_ms": 186200,
-      "name": "Mi Shorty",
-      "url": "https://open.spotify.com/track/44Rn60e3tDPDAYARpHFoVN"
-    },
-    {
-      "added_at": "2023-03-17 08:01:38",
-      "album": {
         "name": "Cositas de la USA",
         "url": "https://open.spotify.com/album/4EwZe3wzi0JWMdobUrpHIs"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 189015,
       "name": "Cositas de la USA",
       "url": "https://open.spotify.com/track/5c4KBG3ATUOmP8y2KHGGoI"
+    },
+    {
+      "added_at": "2023-03-17 08:01:38",
+      "album": {
+        "name": "Mi Shorty",
+        "url": "https://open.spotify.com/album/7CATraPa1pNEdL9hQVPodQ"
+      },
+      "artists": [
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        }
+      ],
+      "duration_ms": 186200,
+      "name": "Mi Shorty",
+      "url": "https://open.spotify.com/track/44Rn60e3tDPDAYARpHFoVN"
     },
     {
       "added_at": "2023-03-17 08:01:38",

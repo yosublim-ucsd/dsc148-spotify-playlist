@@ -1,12 +1,12 @@
 {
   "description": "Voici les hits du moment. Photo: Miley Cyrus",
-  "num_followers": 119701,
+  "num_followers": 119798,
   "original_name": "La Hit Liste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMGVhZjdiZjYyYWUyZWJkMWI0NmE4N2U5YmFhN2U2N2Q4",
+  "snapshot_id": "MTY4MTU3MTAxMCwwMDAwMDAwMGRlN2JlNjkwMzI3NmYzMTdiNGMyNWFiY2RmNzIwOTkx",
   "tracks": [
     {
       "added_at": "2023-04-14 04:00:00",
@@ -155,22 +155,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Abri de fortune (pour fin du monde)",
-        "url": "https://open.spotify.com/album/0amYsj30gPQuSgc2ukxNdO"
+        "name": "Sentiments",
+        "url": "https://open.spotify.com/album/34zzJhaEHMgBndvceUHjoL"
       },
       "artists": [
         {
-          "name": "Koriass",
-          "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
-        },
-        {
-          "name": "Jay Sc\u00f8tt",
-          "url": "https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx"
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
         }
       ],
-      "duration_ms": 222853,
-      "name": "Matusalem",
-      "url": "https://open.spotify.com/track/2RMo8LiuGhVaA0j8TlLbpK"
+      "duration_ms": 191173,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/7dISpxgINJOQSuXUTEfB9x"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -219,6 +215,26 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Abri de fortune (pour fin du monde)",
+        "url": "https://open.spotify.com/album/0amYsj30gPQuSgc2ukxNdO"
+      },
+      "artists": [
+        {
+          "name": "Koriass",
+          "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
+        },
+        {
+          "name": "Jay Sc\u00f8tt",
+          "url": "https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx"
+        }
+      ],
+      "duration_ms": 222853,
+      "name": "Matusalem",
+      "url": "https://open.spotify.com/track/2RMo8LiuGhVaA0j8TlLbpK"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Search & Rescue",
         "url": "https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 272112,
       "name": "Search & Rescue",
       "url": "https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Sentiments",
-        "url": "https://open.spotify.com/album/34zzJhaEHMgBndvceUHjoL"
-      },
-      "artists": [
-        {
-          "name": "Louane",
-          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
-        }
-      ],
-      "duration_ms": 191173,
-      "name": "Secret",
-      "url": "https://open.spotify.com/track/7dISpxgINJOQSuXUTEfB9x"
     },
     {
       "added_at": "2023-04-14 04:00:00",

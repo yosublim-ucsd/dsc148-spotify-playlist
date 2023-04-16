@@ -4,7 +4,7 @@
 
 > ¡No busques más! La música del momento está aquí.
 
-308 songs - 16 hr 30 min
+309 songs - 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,7 +212,8 @@
 | [Paris, Texas \(feat\. SYML\)](https://open.spotify.com/track/0Oqxt6JixieLHbwMfnJGWO) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 3:26 | 2023-03-31 | 2023-04-14 |
 | [Party en el Barrio \(feat\. Duki\)](https://open.spotify.com/track/5GF0X7GdNmnouKcdhhRmtm) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Party en el Barrio \(feat\. Duki\)](https://open.spotify.com/album/2alxO71ik8lO8YIuNT2LKn) | 3:56 | 2022-09-13 | 2022-11-05 |
 | [París](https://open.spotify.com/track/3ehHqgYRzmeUi345MfHS2N) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [París](https://open.spotify.com/album/2dhk2kLdjVxWps1PW9WSTj) | 3:02 | 2022-05-20 | 2022-11-17 |
-| [Peaches \(from The Super Mario Bros\. Movie\)](https://open.spotify.com/track/3ll9PUsB2KIliRoyGEUwFz) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [Peaches \(from The Super Mario Bros\. Movie\)](https://open.spotify.com/album/7JWqADIrUFMSRExaRpaRll) | 1:35 | 2023-04-14 |  |
+| [Peaches](https://open.spotify.com/track/4w9soAM7IrmYDhSXLp14p6) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [The Super Mario Bros\. Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3QITNyRzvTqn0t9tLmS1Vd) | 1:35 | 2023-04-14 |  |
+| [Peaches \(from The Super Mario Bros\. Movie\)](https://open.spotify.com/track/3ll9PUsB2KIliRoyGEUwFz) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [Peaches \(from The Super Mario Bros\. Movie\)](https://open.spotify.com/album/7JWqADIrUFMSRExaRpaRll) | 1:35 | 2023-04-14 | 2023-04-16 |
 | [PENDEJO](https://open.spotify.com/track/5cy2dREJqJAyf3CNr509W7) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [FINAL \(Vol.1\)](https://open.spotify.com/album/61a4XyIj98CGrUnKy8Hu4Z) | 2:45 | 2022-01-27 | 2022-02-11 |
 | [Peru](https://open.spotify.com/track/3s1KwrLP0NlFWiWbjz6bfQ) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Peru](https://open.spotify.com/album/72hpBprZjtHAgsRTIUKrKO) | 3:07 | 2022-01-27 | 2022-03-24 |
 | [Piensa en Mi](https://open.spotify.com/track/4Y0C95WSGxcuNVCbealJvw) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Piensa en Mi](https://open.spotify.com/album/1YC7xdhB97jSwGkHllnBsn) | 3:12 | 2023-02-01 | 2023-02-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3IJ2kse1M3.md) - [plain]
 
 > 在音樂的懷抱裡，你想哭就哭。<br/>生命太短促 痛太清楚 才讓你讓我 愛到無退路。
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,297 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,303 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,16 +16,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3IJ2kse1M3.md) - [plain]
 | 6 | [擱淺](https://open.spotify.com/track/4Rt9k4SE8dbfKzngxKJPq9) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/27I7fCoQRSdL9PT1nFWEPC) | 3:56 |
 | 7 | [慢冷](https://open.spotify.com/track/3NNDJfWMGHuNpvHWTImmlW) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [我好嗎? \- 太陽如常升起](https://open.spotify.com/album/13EgeVmtvcqQIdJJix6QzM) | 4:49 |
 | 8 | [突然好想你](https://open.spotify.com/track/0IAgufC1FlOg1nZMmRZxRr) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [後 青春期的詩](https://open.spotify.com/album/3cCdHi2r9iknmDTBSOWlqF) | 4:25 |
-| 9 | [她說](https://open.spotify.com/track/632VyMrvhsHIsO4zq9khts) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [她說](https://open.spotify.com/album/2jzTdhgI2kvDx6NerFsRe8) | 5:18 |
-| 10 | [泡沫](https://open.spotify.com/track/2IfSPLPDW6RGosdB5huwAA) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [Xposed](https://open.spotify.com/album/5EUhTGmsSlrrt2w3IZd1IG) | 4:18 |
+| 9 | [泡沫](https://open.spotify.com/track/2IfSPLPDW6RGosdB5huwAA) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [Xposed](https://open.spotify.com/album/5EUhTGmsSlrrt2w3IZd1IG) | 4:18 |
+| 10 | [她說](https://open.spotify.com/track/632VyMrvhsHIsO4zq9khts) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [她說](https://open.spotify.com/album/2jzTdhgI2kvDx6NerFsRe8) | 5:18 |
 | 11 | [嚣张](https://open.spotify.com/track/1vfUASvUGt3gxQ1x3T3u1C) | [en](https://open.spotify.com/artist/7z7tLLiBfmH0kZ2lNVs8LW) | [嚣张](https://open.spotify.com/album/09KIrKBU3kamLtHV5IkHSp) | 4:13 |
 | 12 | [演員](https://open.spotify.com/track/6LunoYd3xpZ19sICOXS8Xd) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [初學者](https://open.spotify.com/album/4IlbFUwa4Fd5laEAD3H6lQ) | 4:21 |
 | 13 | [楓](https://open.spotify.com/track/2YzJaHvzsEb1LzGugXIduK) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [11月的蕭邦](https://open.spotify.com/album/6rRydp9XlVoLfTtA3qpWcn) | 4:35 |
 | 14 | [你,好不好? \- TVBS連續劇【遺憾拼圖】片尾曲](https://open.spotify.com/track/2gug6MRv4xQFYi9LA3PJCS) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [愛,教會我們的事](https://open.spotify.com/album/4qDKkkL98yqdv85xqYfyUc) | 4:47 |
 | 15 | [我懷念的](https://open.spotify.com/track/7z2M7DsEjZjwXBkWG3zd21) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [逆光](https://open.spotify.com/album/6mBrt99J1sFWMQ9LzPHLGw) | 4:49 |
-| 16 | [就讓這大雨全都落下](https://open.spotify.com/track/7D6WfjE6qDlCJMkjQYYlnJ) | [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [就讓這大雨全都落下](https://open.spotify.com/album/5r3nFPZFjCTHprTs9vZfm3) | 4:14 |
+| 16 | [說散就散](https://open.spotify.com/track/2XFrRuy9Gpu4GuYHTNeHiC) | [JC 陳詠桐](https://open.spotify.com/artist/757epCpvbpqyBoMMzbIC3g) | [Album 1](https://open.spotify.com/album/2AjWUJJJekECU7JAezYTIV) | 3:50 |
 | 17 | [後來的我們](https://open.spotify.com/track/13AruKdh8wJhWx6i5dV8X1) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [自傳](https://open.spotify.com/album/4hg4cR8QMbE0xuvoxoA6DX) | 5:46 |
-| 18 | [說散就散](https://open.spotify.com/track/2XFrRuy9Gpu4GuYHTNeHiC) | [JC 陳詠桐](https://open.spotify.com/artist/757epCpvbpqyBoMMzbIC3g) | [Album 1](https://open.spotify.com/album/2AjWUJJJekECU7JAezYTIV) | 3:50 |
+| 18 | [就讓這大雨全都落下](https://open.spotify.com/track/7D6WfjE6qDlCJMkjQYYlnJ) | [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [就讓這大雨全都落下](https://open.spotify.com/album/5r3nFPZFjCTHprTs9vZfm3) | 4:14 |
 | 19 | [安靜](https://open.spotify.com/track/4FOydQ5IdqmdeBgG9vFbPg) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [范特西](https://open.spotify.com/album/0xWySBAzp6b37EARWzycQJ) | 5:34 |
 | 20 | [淘汰](https://open.spotify.com/track/3aawXLnJpcDVXCl1UUksAW) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [認了吧](https://open.spotify.com/album/2CKvwKuHcZvnt4mC9DB6Fk) | 4:45 |
 | 21 | [阿拉斯加海湾](https://open.spotify.com/track/5DCNAwyomUF3LXunq4NSpJ) | [Priscilla Abby](https://open.spotify.com/artist/0zFBdI3ErhNDcIPAKiGoL0) | [阿拉斯加海湾](https://open.spotify.com/album/3pkuo2CnLMggHIWUtNgScR) | 3:57 |
@@ -41,22 +41,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3IJ2kse1M3.md) - [plain]
 | 31 | [好久不見](https://open.spotify.com/track/7LHaRfgjJzOEzvnAZVxxtR) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [認了吧](https://open.spotify.com/album/2CKvwKuHcZvnt4mC9DB6Fk) | 4:10 |
 | 32 | [會呼吸的痛](https://open.spotify.com/track/5IgElbSREzVyqgf1OCuKJd) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [崇拜](https://open.spotify.com/album/75wQXImqEikrSo5Uon4Pxr) | 4:32 |
 | 33 | [Love U U](https://open.spotify.com/track/3tWKKraMbuwTcU3YZzoJnq) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [學不會](https://open.spotify.com/album/5nAilSc60xebtjFfRr6m2V) | 3:39 |
-| 34 | [I Believe](https://open.spotify.com/track/7BPtIXCBWvbl1HqEosWvmK) | [Fan Yi Chen](https://open.spotify.com/artist/2Z7qQ1slMaPjLOCXBqshct) | [范逸臣第一張個人專輯](https://open.spotify.com/album/1IPwkLDx0vXnCqYF4QtlMw) | 4:48 |
-| 35 | [愛我還是他](https://open.spotify.com/track/13bw75oRjvxMv9VGIeM32i) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [太平盛世](https://open.spotify.com/album/1XnDRFsNxG12nZPRXNcPkU) | 4:52 |
+| 34 | [愛我還是他](https://open.spotify.com/track/13bw75oRjvxMv9VGIeM32i) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [太平盛世](https://open.spotify.com/album/1XnDRFsNxG12nZPRXNcPkU) | 4:52 |
+| 35 | [I Believe](https://open.spotify.com/track/7BPtIXCBWvbl1HqEosWvmK) | [Fan Yi Chen](https://open.spotify.com/artist/2Z7qQ1slMaPjLOCXBqshct) | [范逸臣第一張個人專輯](https://open.spotify.com/album/1IPwkLDx0vXnCqYF4QtlMw) | 4:48 |
 | 36 | [像魚](https://open.spotify.com/track/1MRRjWwqBUyoD9dC11sZ4S) | [王貳浪](https://open.spotify.com/artist/6jNRSV0cd0kL5Tfz6JPxZA) | [像魚](https://open.spotify.com/album/6Bnxko0NpYp7NOUt3YIk6v) | 4:45 |
 | 37 | [背叛](https://open.spotify.com/track/48VzfSDNpxIfWohA9bZgfo) | [Gary Chaw](https://open.spotify.com/artist/1mfzcypCggFwpCJ1gmi8BK) | [SUPERMAN](https://open.spotify.com/album/2n7gL0RbyATH41IgxEIqWN) | 5:21 |
 | 38 | [有一種悲傷 \- 電影《比悲傷更悲傷的故事》主題曲](https://open.spotify.com/track/3ayrHkyorPEpeOBvZ76SwG) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [有一種悲傷 \(電影《比悲傷更悲傷的故事》主題曲\)](https://open.spotify.com/album/68NAOLFISOsBsyMLA2fUPf) | 3:57 |
 | 39 | [說好的幸福呢](https://open.spotify.com/track/6W2tmkeuHKaedHhdTPnyVs) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [魔杰座](https://open.spotify.com/album/6pmapc89HjY4f16ARzrmBB) | 4:14 |
 | 40 | [我們 \- 《後來的我們》電影主題曲](https://open.spotify.com/track/0Uf0SvwUrf02ucIt1d0Wos) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [我們 \(《後來的我們》電影主題曲\)](https://open.spotify.com/album/55Ro04UwGKHwUZ5nC3rr2r) | 4:20 |
-| 41 | [陌生人](https://open.spotify.com/track/3hKbA5OnjR4wBxwmpjte8h) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [陌生人](https://open.spotify.com/album/2fyyCvT7n5lCS6F45rexOg) | 3:54 |
-| 42 | [剛剛好](https://open.spotify.com/track/3urogUGoBidulMDDoucJBB) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [初學者](https://open.spotify.com/album/4IlbFUwa4Fd5laEAD3H6lQ) | 4:10 |
+| 41 | [剛剛好](https://open.spotify.com/track/3urogUGoBidulMDDoucJBB) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [初學者](https://open.spotify.com/album/4IlbFUwa4Fd5laEAD3H6lQ) | 4:10 |
+| 42 | [陌生人](https://open.spotify.com/track/3hKbA5OnjR4wBxwmpjte8h) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [陌生人](https://open.spotify.com/album/2fyyCvT7n5lCS6F45rexOg) | 3:54 |
 | 43 | [匿名的好友](https://open.spotify.com/track/0o9XsvHqGY2L8E6LRztDv1) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [雨愛](https://open.spotify.com/album/6SH07iXCRCVUTYtHW5k8y8) | 4:21 |
 | 44 | [我愛他](https://open.spotify.com/track/2qOitAAyMgHOs0cMilqf8k) | [Della](https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf) | [夜貓](https://open.spotify.com/album/1cw2qn3JtkIhDYJMCexYLs) | 4:42 |
 | 45 | [街角的祝福](https://open.spotify.com/track/1M5MN2PnMtf7YhnqukD4xa) | [Penny Tai](https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud) | [Just Sing It](https://open.spotify.com/album/7Jx7AkjH18dy4gnaqCMNNz) | 4:08 |
-| 46 | [對等關係 \(feat\. 張惠妹\)](https://open.spotify.com/track/4PMakIBWXujbe2MIsuZtOc) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K), [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [對等關係 \(feat\. 張惠妹\)](https://open.spotify.com/album/5gFrWCYLmqUyxCSQz58WC2) | 5:27 |
-| 47 | [Melody](https://open.spotify.com/track/6A4wVKbcg0mRriCFjZzX0Z) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [黑色柳丁](https://open.spotify.com/album/3u5zGr9TFLRi2wXeHmNclY) | 4:29 |
+| 46 | [Melody](https://open.spotify.com/track/6A4wVKbcg0mRriCFjZzX0Z) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [黑色柳丁](https://open.spotify.com/album/3u5zGr9TFLRi2wXeHmNclY) | 4:29 |
+| 47 | [對等關係 \(feat\. 張惠妹\)](https://open.spotify.com/track/4PMakIBWXujbe2MIsuZtOc) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K), [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [對等關係 \(feat\. 張惠妹\)](https://open.spotify.com/album/5gFrWCYLmqUyxCSQz58WC2) | 5:27 |
 | 48 | [如果沒有你](https://open.spotify.com/track/5u6hY0h8gUWfPQSdNuKgQb) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1) | [如果沒有你](https://open.spotify.com/album/67rYAc50qw4Da0Rp2PavMK) | 4:47 |
 | 49 | [太委屈](https://open.spotify.com/track/6tMgRC6pDQOqEnKCnAL6pT) | [陶晶瑩](https://open.spotify.com/artist/3YZU8HQWGJEAlNIhTK6UKT) | [愛缺](https://open.spotify.com/album/6dTh0ChcWfqethdCqNuM4r) | 4:51 |
 | 50 | [我不難過](https://open.spotify.com/track/4XrWar13kLO1jr535AzKrQ) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [未完成](https://open.spotify.com/album/1kOV94kOm4oCBzloDcW9ry) | 5:20 |
 
-Snapshot ID: `MTY4MDI2ODkzOSwwMDAwMDAwMGIzYzQ3YWE5YWNkMjMxZDgxM2E5YmExYWU1MmU0OWQ2`
+Snapshot ID: `MTY4MDI2ODkzOSwwMDAwMDAwMGJkY2VkYjYxMDFjYzRlZTNiNTM1YWQxNWY1NmZlZDVh`

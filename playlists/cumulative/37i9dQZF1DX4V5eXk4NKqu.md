@@ -4,7 +4,7 @@
 
 > The best Latin Indie tracks right now, featuring YADAM.
 
-242 songs - 13 hr 48 min
+243 songs - 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Alone in the Universe](https://open.spotify.com/track/5fiIW6iNDuremm3HJTTAFE) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [La Linda](https://open.spotify.com/album/05ZdcQ2F8wSobCk3ypo15O) | 3:24 | 2022-06-03 | 2022-09-07 |
 | [Amante](https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Amante](https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk) | 3:51 | 2022-12-02 |  |
 | [Ambar Bossa Nova \- Spotify Singles](https://open.spotify.com/track/3d1SX0Fw0gqVKrdrWCJR12) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Spotify Singles](https://open.spotify.com/album/5MlYmVGHlWSCdKutrQcLAV) | 3:01 | 2022-03-10 | 2023-02-03 |
-| [Amor Barato](https://open.spotify.com/track/3UAZphSh6pog2QYXvEJsQg) | [Lunalé](https://open.spotify.com/artist/19JUD3vdAL8B0G7hpxQHuu), [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Amor Barato](https://open.spotify.com/album/3VhIk6vzARVy2CUhtViy94) | 3:17 | 2023-04-06 |  |
+| [Amor Barato](https://open.spotify.com/track/3UAZphSh6pog2QYXvEJsQg) | [Lunalé](https://open.spotify.com/artist/19JUD3vdAL8B0G7hpxQHuu), [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Amor Barato](https://open.spotify.com/album/3VhIk6vzARVy2CUhtViy94) | 3:17 | 2023-04-06 | 2023-04-16 |
 | [Another Observer](https://open.spotify.com/track/0OwQPTFWy8Xcvy4ViLvyF1) | [Irene Diaz](https://open.spotify.com/artist/1ADOdE5G5ToLJQBP9hv9NF) | [Another Observer](https://open.spotify.com/album/2FWiGcbJT16qpmtYE7vtd8) | 3:26 | 2022-04-21 | 2022-07-29 |
 | [ANSIEDÁ](https://open.spotify.com/track/6VpQgyiBjB8R1hAiiuFAxB) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Realismo](https://open.spotify.com/album/0tmXIVv22DgY6bcShlu9VD) | 2:36 | 2022-09-06 | 2023-03-25 |
 | [Antes de Ti](https://open.spotify.com/track/69YoHCogS3aJwhf9ntlPvq) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Leche de Tigre](https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8) | 3:46 | 2023-03-24 |  |
@@ -72,6 +72,7 @@
 | [Eva](https://open.spotify.com/track/1txcYMd5pfWZivOfJcZpiP) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Eva](https://open.spotify.com/album/4JwtH9ZZTfQSPMXogxHzgl) | 3:44 | 2022-03-10 | 2023-02-03 |
 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2022-12-30 | 2023-04-15 |
 | [Everybody Wants to Rule the World](https://open.spotify.com/track/3cChN0lUEGVlJSGcMKyAsx) | [Making Movies](https://open.spotify.com/artist/1wFpAE8HCGoqaLjzRO51w9) | [Everybody Wants to Rule the World](https://open.spotify.com/album/4N1Ji6AB9p3FW2xY5hDkRk) | 3:58 | 2022-03-10 | 2023-02-09 |
+| [Fake News](https://open.spotify.com/track/6mzfxrGB40oY442Pc5SW6t) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Fake News + Alba](https://open.spotify.com/album/60uot0fUnoMNytJoNw9ToC) | 4:07 | 2023-04-14 |  |
 | [Flor](https://open.spotify.com/track/1VGZbTAP1DVkA6Wa8MaqLM) | [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Agüita: Remixes](https://open.spotify.com/album/2AW8yUOeKjNxwkqXU8Cs39) | 3:09 | 2022-06-03 | 2023-02-09 |
 | [Flor](https://open.spotify.com/track/6fb9Z8gFU03s2NYpruJbBx) | [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Agüita EP: II](https://open.spotify.com/album/60SWRGZAuTb6Af7i891pcg) | 3:09 | 2022-03-10 | 2022-07-29 |
 | [Flores](https://open.spotify.com/track/7KWDvbAWboTeiv88krkdLR) | [Werio](https://open.spotify.com/artist/68C2TcobW47veMxXfdGGOm) | [Flores](https://open.spotify.com/album/7M9NCzlNxeDsW8kiIZzaW4) | 3:22 | 2022-03-10 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 
 > ジャズを基調にロックやラテン音楽、電子音楽、時にはクラシックなどを融合させた「ジャズフュージョン」を牽引する日本のアーティストを特集。cover: 宮本大 劇場公開中の<a href="https://bluegiant\-movie.jp/">映画「BLUE GIANT」</a>とコラボ中！cover: JASS ©2023 製作委員会　©2013 石塚真一／小学館
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,860 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,891 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,17 +28,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 18 | [Friendship\(feat\. Philippe Saisse\)](https://open.spotify.com/track/4fXgOxMW9uqR9FxfERuPkE) | [Pyramid](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy), [Philippe Saisse](https://open.spotify.com/artist/76eaAxXOF5UhLXASB8UiQJ) | [PYRAMID 5](https://open.spotify.com/album/0dPFno696JL6TrDQsUKknZ) | 5:00 |
 | 19 | [夜になると鮭は](https://open.spotify.com/track/5GXm9bflCSMH3ADala8uIU) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [POLY LIFE MULTI SOUL](https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM) | 2:08 |
 | 20 | [Echoes](https://open.spotify.com/track/6E4NJHE0TEuMsCOIddyJSQ) | [Still Caravan](https://open.spotify.com/artist/4oRIYEDeg0IEgU8I8FwMXJ) | [Echoes](https://open.spotify.com/album/3g6bR9rpjAQExzVXH6zFDP) | 4:05 |
-| 21 | [Night Cruise](https://open.spotify.com/track/5dGZZQGVOIjMjQCmguuYEo) | [T\-SQUARE](https://open.spotify.com/artist/7BwOjwl5mKpGVIvzvqEcie) | [PARADISE](https://open.spotify.com/album/5Sv5HS9ZNFdGsNwJkbLjQD) | 5:49 |
-| 22 | [Blackbird](https://open.spotify.com/track/1NpTkYFGPrYb9FRNGjLVyJ) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc) | [Spectrum](https://open.spotify.com/album/6nWNBeeFpGrFEu9CDeZJbH) | 5:21 |
+| 21 | [Solitude](https://open.spotify.com/track/1ghPHoNXf4L5wO4kOvJUoW) | [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [Ordinary Landscape](https://open.spotify.com/album/5dYHGuiBBzx6hWdZWtdlhO) | 4:16 |
+| 22 | [Night Cruise](https://open.spotify.com/track/5dGZZQGVOIjMjQCmguuYEo) | [T\-SQUARE](https://open.spotify.com/artist/7BwOjwl5mKpGVIvzvqEcie) | [PARADISE](https://open.spotify.com/album/5Sv5HS9ZNFdGsNwJkbLjQD) | 5:49 |
 | 23 | [N.E.W.](https://open.spotify.com/track/0uniIrDLtvdypzbMtmLmVV) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [BLUE GIANT \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc) | 5:45 |
-| 24 | [Solitude](https://open.spotify.com/track/1ghPHoNXf4L5wO4kOvJUoW) | [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [Ordinary Landscape](https://open.spotify.com/album/5dYHGuiBBzx6hWdZWtdlhO) | 4:16 |
+| 24 | [Good song](https://open.spotify.com/track/1pdMs8HUL8udZMqbUaBtd6) | [SPECIAL OTHERS](https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5) | [WAVE](https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B) | 3:22 |
 | 25 | [Disordered Trip](https://open.spotify.com/track/1TL5dclhMJ7Be0qnTKZ2oe) | [Still Caravan](https://open.spotify.com/artist/4oRIYEDeg0IEgU8I8FwMXJ) | [Disordered Trip](https://open.spotify.com/album/0p4X5GGQHPJdgfvJ8NOEL1) | 3:57 |
-| 26 | [Good song](https://open.spotify.com/track/1pdMs8HUL8udZMqbUaBtd6) | [SPECIAL OTHERS](https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5) | [WAVE](https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B) | 3:22 |
+| 26 | [seiren](https://open.spotify.com/track/4tzmAKoooM1NNMaoBiunvI) | [mouse on the keys](https://open.spotify.com/artist/6NVzd3Lv9yMFIf1bsXNLIp) | [an anxious object](https://open.spotify.com/album/7uLIqmPNnfmBd92Tz1apN2) | 4:23 |
 | 27 | [TODAY FOR TOMORROW](https://open.spotify.com/track/7eXny7jPPnP4s8PlmILcRK) | [CASIOPEA\-P4](https://open.spotify.com/artist/3M2NJMriF7TX8Y7a04XJIq) | [NEW TOPICS](https://open.spotify.com/album/63FjEmZkfAhJzNTh4hS1EG) | 4:39 |
-| 28 | [seiren](https://open.spotify.com/track/4tzmAKoooM1NNMaoBiunvI) | [mouse on the keys](https://open.spotify.com/artist/6NVzd3Lv9yMFIf1bsXNLIp) | [an anxious object](https://open.spotify.com/album/7uLIqmPNnfmBd92Tz1apN2) | 4:23 |
+| 28 | [Butterfly Effect](https://open.spotify.com/track/3A0idGLImgS8V6oxkBA0d4) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Butterfly](https://open.spotify.com/album/14bAA1BAUwfw6N2bFvtP4x) | 4:54 |
 | 29 | [Blazin’ \- DJ KAWASAKI Recreated Fusion Funk Mix](https://open.spotify.com/track/1l31wrU5dinNLZh6dPmY75) | [DJ KAWASAKI](https://open.spotify.com/artist/0SCF6DFbfs4N5VtmfOlHhe), [Karin](https://open.spotify.com/artist/2NMVmmT0al17xSOnWO1J1M) | [BRIDGE INTO THE FUTURE \- DJ KAWASAKI RECREATED TRACKS](https://open.spotify.com/album/1PEatkcPFDfn3Ujo7w1ocL) | 6:50 |
 | 30 | [Before Sunset](https://open.spotify.com/track/5Pget5r1G5kDq6guwufSlr) | [Orland](https://open.spotify.com/artist/36aO6QRP6K44OdvTkDDs27) | [Before Sunset](https://open.spotify.com/album/4AIQ70arEMQe8RgOg0xXEe) | 4:26 |
-| 31 | [Butterfly Effect](https://open.spotify.com/track/3A0idGLImgS8V6oxkBA0d4) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Butterfly](https://open.spotify.com/album/14bAA1BAUwfw6N2bFvtP4x) | 4:54 |
+| 31 | [Blackbird](https://open.spotify.com/track/1NpTkYFGPrYb9FRNGjLVyJ) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc) | [Spectrum](https://open.spotify.com/album/6nWNBeeFpGrFEu9CDeZJbH) | 5:21 |
 | 32 | [Flowery Flat](https://open.spotify.com/track/4E0VtFTgj5AlpWMlzmyJYq) | [Kenichiro Nishihara](https://open.spotify.com/artist/4en7e0KjSkfa4sfLDhTc3m) | [Mystic Voyage](https://open.spotify.com/album/5nwMtKIbbQtksUlWvCtDGf) | 4:07 |
 | 33 | [Blue Eyed Monster](https://open.spotify.com/track/5wG5pbeTBYzAhlT6iE8Ptg) | [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [TVアニメーション「BEM」オリジナルサウンドトラック OUTSIDE](https://open.spotify.com/album/2kXmIAi8Y1CrvIObUJRMVr) | 4:10 |
 | 34 | [Take Me](https://open.spotify.com/track/4IjS1LeleZKxuHPrVqq33j) | [CASIOPEA](https://open.spotify.com/artist/0lRXEutklZUeNdWIJA1NI0) | [Asian Dreamer](https://open.spotify.com/album/2brs79CBxiApvCNRM880RA) | 4:52 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 45 | [N°9](https://open.spotify.com/track/1MaU3Y6P7j95oINCv6cmmR) | [toconoma](https://open.spotify.com/artist/3XKBSRkQeskeHIpRvA5XaS) | [NEWTOWN](https://open.spotify.com/album/2lveEbqQBRgGNrik6K2ZwS) | 4:58 |
 | 46 | [Breeze and You \(Live Version\)](https://open.spotify.com/track/6yoOrydjbkvRv6XtnjnNC7) | [THE SQUARE](https://open.spotify.com/artist/1qLh5Luiu5DBNU3SeHcDwq) | [THE SQUARE YEAR END Live 20151226](https://open.spotify.com/album/5pEJNi4ADnyf9FnQccBwGU) | 5:10 |
 | 47 | [On My Way Home](https://open.spotify.com/track/1Cpa7bqFRqG5YHQz98X8yx) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Susanna](https://open.spotify.com/album/5v4vMuGxzlM24kZUrSTdBF) | 3:15 |
-| 48 | [Sad Premonition / Lilium](https://open.spotify.com/track/2ZMpOq0n124MRPO8vxAgCi) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [I'll](https://open.spotify.com/album/1dOgFP65sSxMncWqJ8FADo) | 4:05 |
-| 49 | [枯葉 \~Autumn Leaves\~ \(jazz standard\)](https://open.spotify.com/track/6qeCyQdxowFD746sApGBYx) | [SANOVA](https://open.spotify.com/artist/15fZ3hlvf6rcqHls6hZAbt) | [BLISS](https://open.spotify.com/album/1YDUWGvyfwxHi8Xwr7muNi) | 3:05 |
-| 50 | [We’ll Be Right Back](https://open.spotify.com/track/6AtrtrgIPlpMcHHntj3eT8) | [Blu\-Swing](https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD) | [We’ll Be Right Back](https://open.spotify.com/album/1WTZwZKR56VOLX4q5YgJN2) | 4:21 |
+| 48 | [枯葉 \~Autumn Leaves\~ \(jazz standard\)](https://open.spotify.com/track/6qeCyQdxowFD746sApGBYx) | [SANOVA](https://open.spotify.com/artist/15fZ3hlvf6rcqHls6hZAbt) | [BLISS](https://open.spotify.com/album/1YDUWGvyfwxHi8Xwr7muNi) | 3:05 |
+| 49 | [We’ll Be Right Back](https://open.spotify.com/track/6AtrtrgIPlpMcHHntj3eT8) | [Blu\-Swing](https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD) | [We’ll Be Right Back](https://open.spotify.com/album/1WTZwZKR56VOLX4q5YgJN2) | 4:21 |
+| 50 | [Sad Premonition / Lilium](https://open.spotify.com/track/2ZMpOq0n124MRPO8vxAgCi) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [I'll](https://open.spotify.com/album/1dOgFP65sSxMncWqJ8FADo) | 4:05 |
 
-Snapshot ID: `MTY4MDYyMDQwMCwwMDAwMDAwMGQ4YTU0MzA0ZDZkNDU3MTA2ZjQ4NWNlYzc4NjJmYWQz`
+Snapshot ID: `MTY4MDYyMDQwMCwwMDAwMDAwMDQ1OTg4YzIwMWE4NjgxYmVlMmI4OGJhYzlkZDc1NWIy`

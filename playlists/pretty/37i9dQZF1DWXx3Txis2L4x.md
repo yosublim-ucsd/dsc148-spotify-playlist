@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 
 > Keep your run going with these upbeat rock tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 558,610 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 558,866 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 | 54 | [State of Love and Trust](https://open.spotify.com/track/0KEhlgtlk0HuqBIqfGCGdF) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Singles \- Original Motion Picture Soundtrack](https://open.spotify.com/album/58BEJ01sL8wK5LV3TPyngC) | 3:47 |
 | 55 | [Figure Eight](https://open.spotify.com/track/70nKt5OKAbXwlRrKsrf1oq) | [Trophy Eyes](https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI) | [Figure Eight](https://open.spotify.com/album/6f6A2AiUD0r3HVygTAFgez) | 3:21 |
 | 56 | [Beautiful Way](https://open.spotify.com/track/3SevJWsbqUOpfPOpRZGrP9) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [SUCKAPUNCH](https://open.spotify.com/album/0S9IWlmYkM6ULSB1BExd5t) | 3:45 |
-| 57 | [And the Hero Will Drown](https://open.spotify.com/track/3WsgkhWH001sMkbZVcjreS) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Page Avenue](https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW) | 3:13 |
-| 58 | [Out of the Black](https://open.spotify.com/track/2nIulsLMiP2SMTDrtxfQXX) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/7DJijwZ2wqJrgLpcRMxs3G) | 4:00 |
+| 57 | [Out of the Black](https://open.spotify.com/track/2nIulsLMiP2SMTDrtxfQXX) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/7DJijwZ2wqJrgLpcRMxs3G) | 4:00 |
+| 58 | [And the Hero Will Drown](https://open.spotify.com/track/3WsgkhWH001sMkbZVcjreS) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Page Avenue](https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW) | 3:13 |
 | 59 | ["45"](https://open.spotify.com/track/25Sd73fleKUVPNqITPZkn1) | [The Gaslight Anthem](https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo) | [Handwritten](https://open.spotify.com/album/1gsyJWUvwjnsNgYUxpOfLR) | 3:22 |
 | 60 | [This Modern Love](https://open.spotify.com/track/2PAhcPwab2sJz340QHtunD) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t) | 4:25 |
 
-Snapshot ID: `MTY3OTUwMTI1MywwMDAwMDAwMGE1MzRkMWY2NTdlYmE4NzRkNDFhZTBjNzNiNmZkNTAx`
+Snapshot ID: `MTY3OTUwMTI1MywwMDAwMDAwMGZlYzRlOGYyY2M4YWE3YTQ2NTE0MzlhNTBhNDgzMDM4`

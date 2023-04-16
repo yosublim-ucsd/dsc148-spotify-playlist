@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 
 > Work or rest with these gems from the 80s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,783 likes - 80 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,857 likes - 80 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 | 26 | [There's Never a Forever Thing](https://open.spotify.com/track/5OWV0zaieHKpIW5O2EbRjy) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Stay on These Roads](https://open.spotify.com/album/6lka22PtQOmCt5ri8GPSZm) | 2:51 |
 | 27 | [Lea](https://open.spotify.com/track/5TGHpNdHeV5cqsJfkOO4Zd) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Fahrenheit](https://open.spotify.com/album/2FsaIC8jrXvWGIfokVZ4Jg) | 4:29 |
 | 28 | [Song To The Siren \- Remastered](https://open.spotify.com/track/26uVYNtKahTAcZMDWiuBnt) | [This Mortal Coil](https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO) | [It'll End In Tears \(Remastered\)](https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j) | 3:31 |
-| 29 | [Tara](https://open.spotify.com/track/5oMNDwCx1Lr9BSL4WkkazM) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [Avalon](https://open.spotify.com/album/3JXODSjT9mUz2lIb4YIErw) | 1:43 |
-| 30 | [Send Her My Love](https://open.spotify.com/track/48Wu7j5ANO17SOpjb3oVPC) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Frontiers](https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw) | 3:54 |
+| 29 | [Send Her My Love](https://open.spotify.com/track/48Wu7j5ANO17SOpjb3oVPC) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Frontiers](https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw) | 3:54 |
+| 30 | [Tara](https://open.spotify.com/track/5oMNDwCx1Lr9BSL4WkkazM) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [Avalon](https://open.spotify.com/album/3JXODSjT9mUz2lIb4YIErw) | 1:43 |
 | 31 | [Forbidden Colors](https://open.spotify.com/track/5mvOFm7fHLFLyEQtusCmUf) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [David Sylvian](https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw) | [Merry Christmas, Mr\. Lawrence](https://open.spotify.com/album/0BlM8Qd8rxj4wLd9ioGZZU) | 4:42 |
 | 32 | [Love Theme](https://open.spotify.com/track/2oDR7QWoLBk9VYMwsFbRGq) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Blade Runner \(Music From The Original Soundtrack\)](https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW) | 4:55 |
 | 33 | [Souvenir \- Remastered 2003](https://open.spotify.com/track/4i4QN9Zs5s7OZRRLIYHMmP) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [Architecture And Morality](https://open.spotify.com/album/6bR98XzGnklTORDvZ7Oc2i) | 3:39 |
@@ -48,16 +48,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 | 38 | [Haunt Me](https://open.spotify.com/track/1u0LQwTtYAi7LZbknFNhZ1) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Stronger Than Pride](https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK) | 5:50 |
 | 39 | [Boadicea](https://open.spotify.com/track/3c9xinOHrEqF39omS0Czj1) | [Enya](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4) | [The Celts](https://open.spotify.com/album/3qPIe6YsuQ0qzg6bSEQjfv) | 3:32 |
 | 40 | [I'm In Love With A German Film Star](https://open.spotify.com/track/7A3rywP8wA9HbL36NMnD81) | [The Passions](https://open.spotify.com/artist/6emLiLQsxkbmQMs0Bn51h3) | [Thirty Thousand Feet Over China](https://open.spotify.com/album/5Obv3KwOfysf310dXYqXQH) | 4:01 |
-| 41 | [Kangaroo \- Remastered](https://open.spotify.com/track/2HsOICaAi5bwnqyG7uO1Fo) | [This Mortal Coil](https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO) | [It'll End In Tears \(Remastered\)](https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j) | 3:29 |
-| 42 | [The Things You Said \- 2006 Remaster](https://open.spotify.com/track/3i1Th1jZXXO0ZpGKhpTKWK) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Music for the Masses \(2006 Remaster\)](https://open.spotify.com/album/4tPRXghD4ago6NYyyfrtES) | 3:59 |
-| 43 | [Mystified \- 2017 Remaster](https://open.spotify.com/track/524nCOIQg9fi0pETVnbpv8) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:09 |
+| 41 | [Hold Me Now](https://open.spotify.com/track/0ELzxemxnjAasucn8Sww3m) | [Thompson Twins](https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn) | [Into the Gap \(Deluxe Edition\)](https://open.spotify.com/album/6tcBa4XORQYZBuFCILU3tX) | 4:46 |
+| 42 | [Kangaroo \- Remastered](https://open.spotify.com/track/2HsOICaAi5bwnqyG7uO1Fo) | [This Mortal Coil](https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO) | [It'll End In Tears \(Remastered\)](https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j) | 3:29 |
+| 43 | [The Things You Said \- 2006 Remaster](https://open.spotify.com/track/3i1Th1jZXXO0ZpGKhpTKWK) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Music for the Masses \(2006 Remaster\)](https://open.spotify.com/album/4tPRXghD4ago6NYyyfrtES) | 3:59 |
 | 44 | [I Never Thought I'd See the Day](https://open.spotify.com/track/6Y3h8CAOKtFSKGN1hTRA1D) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Stronger Than Pride](https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK) | 4:13 |
-| 45 | [October \- Remastered 2008](https://open.spotify.com/track/1UlQqRd3NoMYUI29v6DFb5) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [October \(Deluxe Edition Remastered\)](https://open.spotify.com/album/59O7CFxLYBBKYtrO61LyqF) | 2:21 |
+| 45 | [Mystified \- 2017 Remaster](https://open.spotify.com/track/524nCOIQg9fi0pETVnbpv8) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:09 |
 | 46 | [Tea In The Sahara](https://open.spotify.com/track/26R3e7bjY6e9dlgghide8L) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 4:19 |
-| 47 | [I Hear You Now](https://open.spotify.com/track/0rhUvAqeXfG4gl4IZhglgX) | [Jon & Vangelis](https://open.spotify.com/artist/5gS1uXayWA0WJPgcRqNIae) | [The Best Of Jon & Vangelis](https://open.spotify.com/album/4alWkBQdvkbrs1cB5pFjzc) | 4:48 |
-| 48 | [Abraham's Theme](https://open.spotify.com/track/463b8SF7KXrU5oqHgZKSOc) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Chariots Of Fire \(Original Motion Picture Soundtrack / Remastered\)](https://open.spotify.com/album/2G0x71VHZ7XLJlm56LzVX2) | 3:20 |
-| 49 | [Has Anyone Ever Written Anything for You](https://open.spotify.com/track/1PAnGhRo2tHpM2DNibEEe6) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Rock a Little](https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc) | 4:39 |
-| 50 | [Hold Me Now](https://open.spotify.com/track/0ELzxemxnjAasucn8Sww3m) | [Thompson Twins](https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn) | [Into the Gap \(Deluxe Edition\)](https://open.spotify.com/album/6tcBa4XORQYZBuFCILU3tX) | 4:46 |
+| 47 | [October \- Remastered 2008](https://open.spotify.com/track/1UlQqRd3NoMYUI29v6DFb5) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [October \(Deluxe Edition Remastered\)](https://open.spotify.com/album/59O7CFxLYBBKYtrO61LyqF) | 2:21 |
+| 48 | [I Hear You Now](https://open.spotify.com/track/0rhUvAqeXfG4gl4IZhglgX) | [Jon & Vangelis](https://open.spotify.com/artist/5gS1uXayWA0WJPgcRqNIae) | [The Best Of Jon & Vangelis](https://open.spotify.com/album/4alWkBQdvkbrs1cB5pFjzc) | 4:48 |
+| 49 | [Abraham's Theme](https://open.spotify.com/track/463b8SF7KXrU5oqHgZKSOc) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Chariots Of Fire \(Original Motion Picture Soundtrack / Remastered\)](https://open.spotify.com/album/2G0x71VHZ7XLJlm56LzVX2) | 3:20 |
+| 50 | [Has Anyone Ever Written Anything for You](https://open.spotify.com/track/1PAnGhRo2tHpM2DNibEEe6) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Rock a Little](https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc) | 4:39 |
 | 51 | [And Dream Of Sheep](https://open.spotify.com/track/12p03gHqut5vzucZt4uzJk) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 2:45 |
 | 52 | [If Leaving Me Is Easy \- 2015 Remaster](https://open.spotify.com/track/3PuwTAbtjZDgeCqb7OAdzd) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [The Singles \(Expanded\)](https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah) | 4:56 |
 | 53 | [Live to Tell](https://open.spotify.com/track/4osrEm2iY3QcTUcQuFUtfW) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Immaculate Collection](https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h) | 5:18 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 | 79 | [Apostle \- Single Version;2005 Remastered Version](https://open.spotify.com/track/45hID6chbEjbNkXalKSx0B) | [Peter Green](https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU) | [Kolors \(Bonus Track Edition\)](https://open.spotify.com/album/4i4FQZa3AtMk7J7KPRFLWH) | 3:52 |
 | 80 | [Almost Blue](https://open.spotify.com/track/4xRnzruHzWObdNdjAOW4vL) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [Imperial Bedroom](https://open.spotify.com/album/1pK8MLyjgvt8pNVkQCBnSg) | 2:47 |
 
-Snapshot ID: `MTU0NzY0NjM5NiwwMDAwMDAwMDM4NjdiY2NjZmUwMjQwNzdlYjljMmVkNTdiOWQ2NmVh`
+Snapshot ID: `MTU0NzY0NjM5NiwwMDAwMDAwMGRkNWQ2YzU2NDdmNjRjOTk2ZWM0MTFlMDBhZDU2MTgy`

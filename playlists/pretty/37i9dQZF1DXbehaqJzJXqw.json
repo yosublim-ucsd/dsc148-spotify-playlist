@@ -1,12 +1,12 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 272848,
+  "num_followers": 273406,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTMwNjI3MSwwMDAwMDAwMDc3ZGY0ODI1MTYwYmM2OTIyNDFlOWE4NTcwNzc4MTdk",
+  "snapshot_id": "MTY4MTMwNjI3MSwwMDAwMDAwMDIzNTU2ZGYwZWJiMTJlNDFjMDZkZDc3ZTA5M2Y2NzQ4",
   "tracks": [
     {
       "added_at": "2023-03-28 12:41:06",
@@ -344,7 +344,7 @@
       },
       "artists": [
         {
-          "name": "BLOSSOM DEARIE",
+          "name": "Blossom Dearie",
           "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
         }
       ],
@@ -371,8 +371,8 @@
     {
       "added_at": "2023-03-28 12:41:06",
       "album": {
-        "name": "Le premier bonheur du jour (Remastered)",
-        "url": "https://open.spotify.com/album/1FkZQWdx8y9ZeaBZwHA6iR"
+        "name": "Fran\u00e7oise Hardy (Le premier bonheur du jour)",
+        "url": "https://open.spotify.com/album/3oz5l8VzwwnFxIQTuD6WdM"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
         }
       ],
-      "duration_ms": 110588,
-      "name": "Le premier bonheur du jour - Remastered",
-      "url": "https://open.spotify.com/track/69b0LLpQ926WY9blYcJAKb"
+      "duration_ms": 112693,
+      "name": "Le premier bonheur du jour",
+      "url": "https://open.spotify.com/track/4Z1SQ54lhPoTqrdquQp9V9"
     },
     {
       "added_at": "2023-03-28 12:41:06",
@@ -476,7 +476,7 @@
       },
       "artists": [
         {
-          "name": "BLOSSOM DEARIE",
+          "name": "Blossom Dearie",
           "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
         }
       ],
@@ -503,24 +503,24 @@
     {
       "added_at": "2023-03-28 12:41:06",
       "album": {
-        "name": "My One And Only Thrill",
-        "url": "https://open.spotify.com/album/0y5shamyoRauoNkHfUUmlA"
+        "name": "Cajueiro",
+        "url": "https://open.spotify.com/album/7un05z7dVN0agNGXD6G8Yq"
       },
       "artists": [
         {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+          "name": "M\u00e1rcio Faraco",
+          "url": "https://open.spotify.com/artist/6n3BBw9YDpMMuQOftR9TzJ"
         }
       ],
-      "duration_ms": 198346,
-      "name": "Les Etoiles",
-      "url": "https://open.spotify.com/track/3a61AXiLnRT456B4MeW7mT"
+      "duration_ms": 201807,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/0uziRA46wxFQvNRtArLcZ4"
     },
     {
       "added_at": "2023-03-28 12:41:06",
       "album": {
-        "name": "Fran\u00e7oise Hardy (Le premier bonheur du jour)",
-        "url": "https://open.spotify.com/album/3oz5l8VzwwnFxIQTuD6WdM"
+        "name": "Le premier bonheur du jour (Remastered)",
+        "url": "https://open.spotify.com/album/1FkZQWdx8y9ZeaBZwHA6iR"
       },
       "artists": [
         {
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
         }
       ],
-      "duration_ms": 112693,
-      "name": "Le premier bonheur du jour",
-      "url": "https://open.spotify.com/track/4Z1SQ54lhPoTqrdquQp9V9"
+      "duration_ms": 110588,
+      "name": "Le premier bonheur du jour - Remastered",
+      "url": "https://open.spotify.com/track/69b0LLpQ926WY9blYcJAKb"
     },
     {
       "added_at": "2023-03-28 12:41:06",
@@ -571,18 +571,18 @@
     {
       "added_at": "2023-03-28 12:41:06",
       "album": {
-        "name": "Cajueiro",
-        "url": "https://open.spotify.com/album/7un05z7dVN0agNGXD6G8Yq"
+        "name": "My One And Only Thrill",
+        "url": "https://open.spotify.com/album/0y5shamyoRauoNkHfUUmlA"
       },
       "artists": [
         {
-          "name": "M\u00e1rcio Faraco",
-          "url": "https://open.spotify.com/artist/6n3BBw9YDpMMuQOftR9TzJ"
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
         }
       ],
-      "duration_ms": 201807,
-      "name": "Paris",
-      "url": "https://open.spotify.com/track/0uziRA46wxFQvNRtArLcZ4"
+      "duration_ms": 198346,
+      "name": "Les Etoiles",
+      "url": "https://open.spotify.com/track/3a61AXiLnRT456B4MeW7mT"
     },
     {
       "added_at": "2023-03-28 12:41:06",
@@ -619,26 +619,6 @@
     {
       "added_at": "2023-03-28 12:41:06",
       "album": {
-        "name": "Just The Two Of Us",
-        "url": "https://open.spotify.com/album/4BsQtp94ehsK4YPTLx6SO3"
-      },
-      "artists": [
-        {
-          "name": "Cyrille Aimee",
-          "url": "https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM"
-        },
-        {
-          "name": "Diego Figueiredo",
-          "url": "https://open.spotify.com/artist/0fJMs5Xxtz4NyjMx2J09Ra"
-        }
-      ],
-      "duration_ms": 137960,
-      "name": "Je Suis Seule Ce Soir",
-      "url": "https://open.spotify.com/track/0l5rSE550QrVceVHcBCiDM"
-    },
-    {
-      "added_at": "2023-03-28 12:41:06",
-      "album": {
         "name": "Amourettes",
         "url": "https://open.spotify.com/album/44SSBfsX3hTYpc8lpAp8Co"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 253000,
       "name": "Le Poisson Des Mers Du Sud",
       "url": "https://open.spotify.com/track/0OtLnXYlL9nvUDhD5CCVaY"
+    },
+    {
+      "added_at": "2023-03-28 12:41:06",
+      "album": {
+        "name": "Just The Two Of Us",
+        "url": "https://open.spotify.com/album/4BsQtp94ehsK4YPTLx6SO3"
+      },
+      "artists": [
+        {
+          "name": "Cyrille Aimee",
+          "url": "https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM"
+        },
+        {
+          "name": "Diego Figueiredo",
+          "url": "https://open.spotify.com/artist/0fJMs5Xxtz4NyjMx2J09Ra"
+        }
+      ],
+      "duration_ms": 137960,
+      "name": "Je Suis Seule Ce Soir",
+      "url": "https://open.spotify.com/track/0l5rSE550QrVceVHcBCiDM"
     },
     {
       "added_at": "2023-03-28 12:41:06",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-03-28 12:41:06",
       "album": {
-        "name": "Rendez Vous",
-        "url": "https://open.spotify.com/album/5u7sQwDpqDmhOj72qdLi3Y"
-      },
-      "artists": [
-        {
-          "name": "Laura Fygi",
-          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
-        }
-      ],
-      "duration_ms": 217880,
-      "name": "Le Temps Qui Passe",
-      "url": "https://open.spotify.com/track/3FwNKZkn50tXoEaXKtvKXw"
-    },
-    {
-      "added_at": "2023-03-28 12:41:06",
-      "album": {
         "name": "De La Chanson Et Puis C'Est Tout...",
         "url": "https://open.spotify.com/album/2faqVrGpLKSPzqEpSsyxQe"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 150760,
       "name": "Il Faut Du Temps Au Temps",
       "url": "https://open.spotify.com/track/44yjkx2DymNJws5Md5olqD"
+    },
+    {
+      "added_at": "2023-03-28 12:41:06",
+      "album": {
+        "name": "Rendez Vous",
+        "url": "https://open.spotify.com/album/5u7sQwDpqDmhOj72qdLi3Y"
+      },
+      "artists": [
+        {
+          "name": "Laura Fygi",
+          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
+        }
+      ],
+      "duration_ms": 217880,
+      "name": "Le Temps Qui Passe",
+      "url": "https://open.spotify.com/track/3FwNKZkn50tXoEaXKtvKXw"
     },
     {
       "added_at": "2023-03-28 12:41:06",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-03-28 12:41:06",
       "album": {
+        "name": "Attraction",
+        "url": "https://open.spotify.com/album/4Th7DyvnAE6nMqjTrNnsqS"
+      },
+      "artists": [
+        {
+          "name": "Paris Combo",
+          "url": "https://open.spotify.com/artist/5xDjKV6UvzyrI3RnwHq02G"
+        }
+      ],
+      "duration_ms": 222666,
+      "name": "Lettre A P",
+      "url": "https://open.spotify.com/track/56j3S6jECUqwOExBifwy4B"
+    },
+    {
+      "added_at": "2023-03-28 12:41:06",
+      "album": {
         "name": "Trenet",
         "url": "https://open.spotify.com/album/3ZZJVoDieCjBDyZl4ePZnQ"
       },
@@ -827,18 +843,18 @@
     {
       "added_at": "2023-03-28 12:41:06",
       "album": {
-        "name": "Attraction",
-        "url": "https://open.spotify.com/album/4Th7DyvnAE6nMqjTrNnsqS"
+        "name": "Manquait Plus Qu'Ca",
+        "url": "https://open.spotify.com/album/6BC71aPYFPdAhUshOVkRjf"
       },
       "artists": [
         {
-          "name": "Paris Combo",
-          "url": "https://open.spotify.com/artist/5xDjKV6UvzyrI3RnwHq02G"
+          "name": "Sandrine Kiberlain",
+          "url": "https://open.spotify.com/artist/4uLmJeWlUtfcMwAZo1ZS2l"
         }
       ],
-      "duration_ms": 222666,
-      "name": "Lettre A P",
-      "url": "https://open.spotify.com/track/56j3S6jECUqwOExBifwy4B"
+      "duration_ms": 155120,
+      "name": "M'envoyer des fleurs",
+      "url": "https://open.spotify.com/track/5SBePmCKYQUyfq71djPNF8"
     },
     {
       "added_at": "2023-03-28 12:41:06",
@@ -875,22 +891,6 @@
     {
       "added_at": "2023-03-28 12:41:06",
       "album": {
-        "name": "Manquait Plus Qu'Ca",
-        "url": "https://open.spotify.com/album/6BC71aPYFPdAhUshOVkRjf"
-      },
-      "artists": [
-        {
-          "name": "Sandrine Kiberlain",
-          "url": "https://open.spotify.com/artist/4uLmJeWlUtfcMwAZo1ZS2l"
-        }
-      ],
-      "duration_ms": 155120,
-      "name": "M'envoyer des fleurs",
-      "url": "https://open.spotify.com/track/5SBePmCKYQUyfq71djPNF8"
-    },
-    {
-      "added_at": "2023-03-28 12:41:06",
-      "album": {
         "name": "Lovely Difficult",
         "url": "https://open.spotify.com/album/19vR7lLDnkhfmcdEYmXOtB"
       },
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-03-28 12:41:06",
       "album": {
-        "name": "My Gentleman Friend",
-        "url": "https://open.spotify.com/album/5D5eQmgvrCleIhNPOixTqh"
-      },
-      "artists": [
-        {
-          "name": "BLOSSOM DEARIE",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
-        }
-      ],
-      "duration_ms": 128093,
-      "name": "Boum",
-      "url": "https://open.spotify.com/track/2jmnsU9irersAKdgxJwmGz"
-    },
-    {
-      "added_at": "2023-03-28 12:41:06",
-      "album": {
         "name": "Bossa Nova",
         "url": "https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 146253,
       "name": "La fille d'Ipanema",
       "url": "https://open.spotify.com/track/54HjqZdYLyQTirAJTieAnx"
+    },
+    {
+      "added_at": "2023-03-28 12:41:06",
+      "album": {
+        "name": "My Gentleman Friend",
+        "url": "https://open.spotify.com/album/5D5eQmgvrCleIhNPOixTqh"
+      },
+      "artists": [
+        {
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 128093,
+      "name": "Boum",
+      "url": "https://open.spotify.com/track/2jmnsU9irersAKdgxJwmGz"
     },
     {
       "added_at": "2023-03-28 12:41:06",
@@ -1060,9 +1060,9 @@
           "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
         }
       ],
-      "duration_ms": 172293,
-      "name": "Salle des pas perdus",
-      "url": "https://open.spotify.com/track/1yi77TrGsSLuR0rKY6TXsq"
+      "duration_ms": 111626,
+      "name": "\u00c7a valait la peine",
+      "url": "https://open.spotify.com/track/4jKicslpJyPfeJRSxbUPQV"
     },
     {
       "added_at": "2023-03-28 12:41:06",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2023-03-28 12:41:06",
       "album": {
-        "name": "Seule ce soir",
-        "url": "https://open.spotify.com/album/2dVf3FNLJqsMCA4ePrTuH5"
+        "name": "Merle Noir",
+        "url": "https://open.spotify.com/album/6kb00WTbKIXhUqK8VAFXod"
       },
       "artists": [
         {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+          "name": "Zazou",
+          "url": "https://open.spotify.com/artist/4ThhH5H8jQ1yUDRMynALCA"
         }
       ],
-      "duration_ms": 323060,
-      "name": "Ces bottes sont faites pour marcher",
-      "url": "https://open.spotify.com/track/2UI4CNjKxIkCZ0g14ckmM9"
+      "duration_ms": 289413,
+      "name": "Menilmontant",
+      "url": "https://open.spotify.com/track/7k125cYjRfIYB23FOQTeTy"
     },
     {
       "added_at": "2023-03-28 12:41:06",
@@ -1196,25 +1196,25 @@
           "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
         }
       ],
-      "duration_ms": 111626,
-      "name": "\u00c7a valait la peine",
-      "url": "https://open.spotify.com/track/4jKicslpJyPfeJRSxbUPQV"
+      "duration_ms": 172293,
+      "name": "Salle des pas perdus",
+      "url": "https://open.spotify.com/track/1yi77TrGsSLuR0rKY6TXsq"
     },
     {
       "added_at": "2023-03-28 12:41:06",
       "album": {
-        "name": "Merle Noir",
-        "url": "https://open.spotify.com/album/6kb00WTbKIXhUqK8VAFXod"
+        "name": "Seule ce soir",
+        "url": "https://open.spotify.com/album/2dVf3FNLJqsMCA4ePrTuH5"
       },
       "artists": [
         {
-          "name": "Zazou",
-          "url": "https://open.spotify.com/artist/4ThhH5H8jQ1yUDRMynALCA"
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
         }
       ],
-      "duration_ms": 289413,
-      "name": "Menilmontant",
-      "url": "https://open.spotify.com/track/7k125cYjRfIYB23FOQTeTy"
+      "duration_ms": 323060,
+      "name": "Ces bottes sont faites pour marcher",
+      "url": "https://open.spotify.com/track/2UI4CNjKxIkCZ0g14ckmM9"
     },
     {
       "added_at": "2023-03-28 12:41:06",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2023-03-28 12:41:06",
       "album": {
+        "name": "Jamais Seule",
+        "url": "https://open.spotify.com/album/4iJ1Vo81qUMRLYKRmrUIRY"
+      },
+      "artists": [
+        {
+          "name": "Loane",
+          "url": "https://open.spotify.com/artist/1tuckVFkV6REMXZr5IQP19"
+        }
+      ],
+      "duration_ms": 187280,
+      "name": "Aim\u00e9",
+      "url": "https://open.spotify.com/track/7unsDj1BtTJMsRvkXMCktQ"
+    },
+    {
+      "added_at": "2023-03-28 12:41:06",
+      "album": {
         "name": "Nord Destin",
         "url": "https://open.spotify.com/album/6pmNJH43ZyjBR3wOsdCNHZ"
       },
@@ -1351,18 +1367,18 @@
     {
       "added_at": "2023-03-28 12:41:06",
       "album": {
-        "name": "Jamais Seule",
-        "url": "https://open.spotify.com/album/4iJ1Vo81qUMRLYKRmrUIRY"
+        "name": "Rose",
+        "url": "https://open.spotify.com/album/3ACdkFZ2IR9cXqeqWMz2V7"
       },
       "artists": [
         {
-          "name": "Loane",
-          "url": "https://open.spotify.com/artist/1tuckVFkV6REMXZr5IQP19"
+          "name": "Rose",
+          "url": "https://open.spotify.com/artist/3VI6nyKdPVIBxorjS5rYNd"
         }
       ],
-      "duration_ms": 187280,
-      "name": "Aim\u00e9",
-      "url": "https://open.spotify.com/track/7unsDj1BtTJMsRvkXMCktQ"
+      "duration_ms": 272733,
+      "name": "Je m'ennuie",
+      "url": "https://open.spotify.com/track/4Qw9NyyIYkgGzcmRnrZPrT"
     },
     {
       "added_at": "2023-03-28 12:41:06",
@@ -1383,22 +1399,6 @@
       "duration_ms": 141306,
       "name": "La Grippe",
       "url": "https://open.spotify.com/track/7kcRZ2mqIYx1y3LNiOd6lM"
-    },
-    {
-      "added_at": "2023-03-28 12:41:06",
-      "album": {
-        "name": "Rose",
-        "url": "https://open.spotify.com/album/3ACdkFZ2IR9cXqeqWMz2V7"
-      },
-      "artists": [
-        {
-          "name": "Rose",
-          "url": "https://open.spotify.com/artist/3VI6nyKdPVIBxorjS5rYNd"
-        }
-      ],
-      "duration_ms": 272733,
-      "name": "Je m'ennuie",
-      "url": "https://open.spotify.com/track/4Qw9NyyIYkgGzcmRnrZPrT"
     },
     {
       "added_at": "2023-03-28 12:41:06",
@@ -1440,7 +1440,7 @@
       },
       "artists": [
         {
-          "name": "BLOSSOM DEARIE",
+          "name": "Blossom Dearie",
           "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
         }
       ],
@@ -1463,22 +1463,6 @@
       "duration_ms": 193586,
       "name": "Si tu vas \u00e0 Paris - Remasteris\u00e9 en 2017",
       "url": "https://open.spotify.com/track/0WYNxfmeHtYss2iUaiEDCJ"
-    },
-    {
-      "added_at": "2023-03-28 12:41:06",
-      "album": {
-        "name": "Les Souvenirs Sous Ma Frange",
-        "url": "https://open.spotify.com/album/0poOfeN7tsjbpLzUjpYBau"
-      },
-      "artists": [
-        {
-          "name": "Rose",
-          "url": "https://open.spotify.com/artist/3VI6nyKdPVIBxorjS5rYNd"
-        }
-      ],
-      "duration_ms": 185133,
-      "name": "J'ai 18 Ans",
-      "url": "https://open.spotify.com/track/4iQcMQVb6a92Uh5zF57irM"
     },
     {
       "added_at": "2023-03-28 12:41:06",
@@ -1511,6 +1495,22 @@
       "duration_ms": 181600,
       "name": "Les voyages",
       "url": "https://open.spotify.com/track/0ID6Hh3bFnyW7wpUsiCAbQ"
+    },
+    {
+      "added_at": "2023-03-28 12:41:06",
+      "album": {
+        "name": "Les Souvenirs Sous Ma Frange",
+        "url": "https://open.spotify.com/album/0poOfeN7tsjbpLzUjpYBau"
+      },
+      "artists": [
+        {
+          "name": "Rose",
+          "url": "https://open.spotify.com/artist/3VI6nyKdPVIBxorjS5rYNd"
+        }
+      ],
+      "duration_ms": 185133,
+      "name": "J'ai 18 Ans",
+      "url": "https://open.spotify.com/track/4iQcMQVb6a92Uh5zF57irM"
     },
     {
       "added_at": "2023-03-28 12:41:06",
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2023-03-28 12:41:06",
       "album": {
-        "name": "Mon Amie La Rose",
-        "url": "https://open.spotify.com/album/7qD826VmWYbcFhqQe7Mfzf"
+        "name": "Les deux guitares",
+        "url": "https://open.spotify.com/album/6boO8YNFqiJfu8IQUDCKAC"
       },
       "artists": [
         {
-          "name": "Livia Blanc",
-          "url": "https://open.spotify.com/artist/4EycIoNxxou5zl2FLMbVuu"
+          "name": "Charles Aznavour",
+          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
         }
       ],
-      "duration_ms": 123078,
-      "name": "Mon Amie La Rose",
-      "url": "https://open.spotify.com/track/7xlRz7HedGgf9G03OiOkj5"
+      "duration_ms": 221413,
+      "name": "Tu t'laisses aller",
+      "url": "https://open.spotify.com/track/1zv0wKzFiSguxypzw67DgN"
     },
     {
       "added_at": "2023-03-28 12:41:06",

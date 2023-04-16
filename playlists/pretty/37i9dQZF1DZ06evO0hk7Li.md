@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hk7Li.md) - [plain]
 
 > This is Jacob Banks\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,472 likes - 49 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,476 likes - 49 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,15 +47,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hk7Li.md) - [plain]
 | 37 | [In The Name Of Love \- From The Motion Picture The Equalizer 2](https://open.spotify.com/track/79WjeGL4IR8svbAVC2FF0I) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [In The Name Of Love \(From The Motion Picture The Equalizer 2\)](https://open.spotify.com/album/0KA7H5EiLI2uPwXSw3dJpf) | 3:24 |
 | 38 | [Remember](https://open.spotify.com/track/3GMy4AOJogX3mMsoom1s0Z) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [I Owe You Nothing / Remember](https://open.spotify.com/album/0rCgUCr9lTI64dezlg2Xjr) | 4:12 |
 | 39 | [The Descent](https://open.spotify.com/track/54bqtn4yFAPD9OoIecweDA) | [Other People's Heartache](https://open.spotify.com/artist/5gXNY1o9BtajaZfYJVXQrv), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS), [Moss Kena](https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Other People’s Heartache \(Pt\. 4\)](https://open.spotify.com/album/3cGGFGQJ027VtMknlIHNNi) | 5:42 |
-| 40 | [Dear Simone](https://open.spotify.com/track/1SaHqUS2eNW507xDzTooPq) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Monologue](https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj) | 4:54 |
-| 41 | [Love Ain't Enough](https://open.spotify.com/track/2TH7wRbGBMH0U2noQy9cHT) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Village](https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9) | 2:52 |
+| 40 | [Love Ain't Enough](https://open.spotify.com/track/2TH7wRbGBMH0U2noQy9cHT) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Village](https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9) | 2:52 |
+| 41 | [Dear Simone](https://open.spotify.com/track/1SaHqUS2eNW507xDzTooPq) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Monologue](https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj) | 4:54 |
 | 42 | [Home](https://open.spotify.com/track/3mVAVmOOPfix072ec37bNe) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Paradox](https://open.spotify.com/album/32cDtKd8eH2F74ChwdiWaT) | 3:28 |
 | 43 | [Stranger](https://open.spotify.com/track/1YHWhz4KEeNhTfrAOVf3lI) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 2:42 |
-| 44 | [Something Beautiful](https://open.spotify.com/track/3NAgVeM0Lr6GPh8tsQUhiK) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Monologue](https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj) | 3:28 |
-| 45 | [Broken Chandeliers](https://open.spotify.com/track/3Na204EPxuFTcXM1WBIr7C) | [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Broken Chandeliers](https://open.spotify.com/album/6olyJyF1pBAuI1YrGg03Tp) | 3:23 |
+| 44 | [Broken Chandeliers](https://open.spotify.com/track/3Na204EPxuFTcXM1WBIr7C) | [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Broken Chandeliers](https://open.spotify.com/album/6olyJyF1pBAuI1YrGg03Tp) | 3:23 |
+| 45 | [Something Beautiful](https://open.spotify.com/track/3NAgVeM0Lr6GPh8tsQUhiK) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Monologue](https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj) | 3:28 |
 | 46 | [Grace](https://open.spotify.com/track/1aTsh0N4mZvzdY9Ure3eBo) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Paradox](https://open.spotify.com/album/32cDtKd8eH2F74ChwdiWaT) | 3:36 |
 | 47 | [Ire \(Remix\) \(feat\. Jacob Banks\)](https://open.spotify.com/track/5b9Tl8wtaPLzsuDHuwdik8) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [About 30](https://open.spotify.com/album/3ssy7tJKSX4ohRxWvfqsJo) | 4:54 |
 | 48 | [Hostage](https://open.spotify.com/track/6FwlaG3vag0IHp8McdVY0C) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Monologue](https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj) | 4:53 |
 | 49 | [Sink or Swim](https://open.spotify.com/track/5ldyAFx6EaPRi9vw9GgUNf) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Paradox](https://open.spotify.com/album/32cDtKd8eH2F74ChwdiWaT) | 3:38 |
 
-Snapshot ID: `MjgwMjQ4NTIsMDAwMDAwMDBmMzY4Yzc3ZDU2YjQ0MmQzNjMxMDExMWEwODMwMjk5ZQ==`
+Snapshot ID: `MjgwMjYwMzIsMDAwMDAwMDA0Zjk4ZWY2ZGIzODRjY2U3ZmFkMjQ4NjE3ODk1OGQ5Ng==`

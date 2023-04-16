@@ -1,12 +1,12 @@
 {
   "description": "The best feel-good songs of the 1980s.",
-  "num_followers": 211820,
+  "num_followers": 212131,
   "original_name": "Happy 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzU2NDUxMSwwMDAwMDAwMDdiZDJkYjU3ZTNkYTY3ZWY4MTZhMzg0ZTUxYWE4NzAx",
+  "snapshot_id": "MTY3NzU2NDUxMSwwMDAwMDAwMDA2ZDU3ZmY3MTg1YTY4NDgyNzUxMzU1MDYwMWFkZGQx",
   "tracks": [
     {
       "added_at": "2023-01-03 15:06:17",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "9 To 5 And Odd Jobs",
-        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 162466,
-      "name": "9 to 5",
-      "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
         "name": "Tattoo You (2009 Re-Mastered)",
         "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 213066,
       "name": "Start Me Up - Remastered 2009",
       "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
+        "name": "9 To 5 And Odd Jobs",
+        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 162466,
+      "name": "9 to 5",
+      "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "Never Too Much",
-        "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 230466,
-      "name": "Never Too Much",
-      "url": "https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
         "name": "Like a Virgin",
         "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 218626,
       "name": "Like a Virgin",
       "url": "https://open.spotify.com/track/1ZPlNanZsJSPK5h9YZZFbZ"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
+        "name": "Never Too Much",
+        "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 230466,
+      "name": "Never Too Much",
+      "url": "https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "Living In The Background",
-        "url": "https://open.spotify.com/album/2AclHzFubT46QrjWFSfkk9"
-      },
-      "artists": [
-        {
-          "name": "Baltimora",
-          "url": "https://open.spotify.com/artist/6czfQ8MjHVmvJKA4LAnviG"
-        }
-      ],
-      "duration_ms": 378946,
-      "name": "Tarzan Boy",
-      "url": "https://open.spotify.com/track/273uCXd7NPrInaiNqtkOrA"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
         "name": "Freeze Frame",
         "url": "https://open.spotify.com/album/48joW5905AMbTFLvy8ZWch"
       },
@@ -603,18 +587,18 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+        "name": "Living In The Background",
+        "url": "https://open.spotify.com/album/2AclHzFubT46QrjWFSfkk9"
       },
       "artists": [
         {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+          "name": "Baltimora",
+          "url": "https://open.spotify.com/artist/6czfQ8MjHVmvJKA4LAnviG"
         }
       ],
-      "duration_ms": 254733,
-      "name": "Glory Days",
-      "url": "https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx"
+      "duration_ms": 378946,
+      "name": "Tarzan Boy",
+      "url": "https://open.spotify.com/track/273uCXd7NPrInaiNqtkOrA"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -635,6 +619,22 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 254733,
+      "name": "Glory Days",
+      "url": "https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
         "name": "What A Feeling",
         "url": "https://open.spotify.com/album/7C65CLdoGCQZ739kfYVcwY"
       },
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "Dancing On The Ceiling (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 270720,
-      "name": "Dancing On The Ceiling",
-      "url": "https://open.spotify.com/track/0snPJPxkk0MbTc0xeUvAPt"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
         "name": "The Game (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 163373,
       "name": "Crazy Little Thing Called Love - Remastered 2011",
       "url": "https://open.spotify.com/track/35ItUJlMtjOQW3SSiTCrrw"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
+        "name": "Dancing On The Ceiling (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "duration_ms": 270720,
+      "name": "Dancing On The Ceiling",
+      "url": "https://open.spotify.com/track/0snPJPxkk0MbTc0xeUvAPt"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "La Bamba / Charlena",
-        "url": "https://open.spotify.com/album/0FPwLfwQWd91kV5rZTzMlZ"
-      },
-      "artists": [
-        {
-          "name": "Los Lobos",
-          "url": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
-        }
-      ],
-      "duration_ms": 174186,
-      "name": "La Bamba",
-      "url": "https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
         "name": "All In a Night's Work (Expanded Version)",
         "url": "https://open.spotify.com/album/52BJ1S5NOv7eFD6ZFDZga2"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 254240,
       "name": "Give It Up",
       "url": "https://open.spotify.com/track/3yDhZq8f17SmumVmEyCaRN"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
+        "name": "La Bamba / Charlena",
+        "url": "https://open.spotify.com/album/0FPwLfwQWd91kV5rZTzMlZ"
+      },
+      "artists": [
+        {
+          "name": "Los Lobos",
+          "url": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
+        }
+      ],
+      "duration_ms": 174186,
+      "name": "La Bamba",
+      "url": "https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -929,22 +929,6 @@
       "url": "https://open.spotify.com/track/648BMGrt98kUbLo24A4vgj"
     },
     {
-      "added_at": "2023-01-16 10:44:07",
-      "album": {
-        "name": "Beautiful Boy (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4rbWJkt4gXZI2UYvpNR0mD"
-      },
-      "artists": [
-        {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
-        }
-      ],
-      "duration_ms": 242044,
-      "name": "Beautiful Boy (Darling Boy) - 2010 Remastered",
-      "url": "https://open.spotify.com/track/5GMQdzgtI7vtpmtps2YiYx"
-    },
-    {
       "added_at": "2023-01-03 15:06:17",
       "album": {
         "name": "Keep On Movin'",
@@ -963,6 +947,22 @@
       "duration_ms": 228266,
       "name": "Back To Life",
       "url": "https://open.spotify.com/track/7vvRkLPIvfjjmCIqNxBuEZ"
+    },
+    {
+      "added_at": "2023-01-16 10:44:07",
+      "album": {
+        "name": "Beautiful Boy (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4rbWJkt4gXZI2UYvpNR0mD"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "duration_ms": 242044,
+      "name": "Beautiful Boy (Darling Boy) - 2010 Remastered",
+      "url": "https://open.spotify.com/track/5GMQdzgtI7vtpmtps2YiYx"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/1gYHcOcMdlzkXhJkJwPJ9C"
-      },
-      "artists": [
-        {
-          "name": "Climie Fisher",
-          "url": "https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF"
-        }
-      ],
-      "duration_ms": 268186,
-      "name": "Love Changes (Everything)",
-      "url": "https://open.spotify.com/track/1y748kOQshZECWk5MddfOv"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
         "name": "Word Up",
         "url": "https://open.spotify.com/album/1W8kHQQC7DXg1inR7ZWqhA"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 254000,
       "name": "Conga!",
       "url": "https://open.spotify.com/track/3FdHgoJbH3DXNtGLh56pFu"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/1gYHcOcMdlzkXhJkJwPJ9C"
+      },
+      "artists": [
+        {
+          "name": "Climie Fisher",
+          "url": "https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF"
+        }
+      ],
+      "duration_ms": 268186,
+      "name": "Love Changes (Everything)",
+      "url": "https://open.spotify.com/track/1y748kOQshZECWk5MddfOv"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "Love Songs (A Compilation Old and New)",
-        "url": "https://open.spotify.com/album/7KZTL6gFUUCzNw4FfjVqCF"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 204386,
-      "name": "Two Hearts",
-      "url": "https://open.spotify.com/track/2BgWv15eKCDfiubKo6o76k"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
         "name": "The Raw & The Cooked",
         "url": "https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 201866,
       "name": "Good Thing",
       "url": "https://open.spotify.com/track/6lRkdG1HurVS72F9GoBeWJ"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
+        "name": "Love Songs (A Compilation Old and New)",
+        "url": "https://open.spotify.com/album/7KZTL6gFUUCzNw4FfjVqCF"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 204386,
+      "name": "Two Hearts",
+      "url": "https://open.spotify.com/track/2BgWv15eKCDfiubKo6o76k"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "Reel Life (Expanded Edition)",
-        "url": "https://open.spotify.com/album/239pbWGvEVRkGAmeiZYwtp"
-      },
-      "artists": [
-        {
-          "name": "Boy Meets Girl",
-          "url": "https://open.spotify.com/artist/02Xpf8IlAGeelWAQZP33kQ"
-        }
-      ],
-      "duration_ms": 270720,
-      "name": "Waiting for a Star to Fall",
-      "url": "https://open.spotify.com/track/09huOVRryZNV2deKFZLJDC"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
         "name": "Forever Your Girl",
         "url": "https://open.spotify.com/album/7zduRJgS6v79QmNUhKGozu"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 251466,
       "name": "Straight Up",
       "url": "https://open.spotify.com/track/5xl5582IihbEZAnfj0xyso"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
+        "name": "Reel Life (Expanded Edition)",
+        "url": "https://open.spotify.com/album/239pbWGvEVRkGAmeiZYwtp"
+      },
+      "artists": [
+        {
+          "name": "Boy Meets Girl",
+          "url": "https://open.spotify.com/artist/02Xpf8IlAGeelWAQZP33kQ"
+        }
+      ],
+      "duration_ms": 270720,
+      "name": "Waiting for a Star to Fall",
+      "url": "https://open.spotify.com/track/09huOVRryZNV2deKFZLJDC"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
+        "name": "Invisible Touch",
+        "url": "https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG"
+      },
+      "artists": [
+        {
+          "name": "Genesis",
+          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+        }
+      ],
+      "duration_ms": 208026,
+      "name": "Invisible Touch - 2007 Remaster",
+      "url": "https://open.spotify.com/track/0xpBr84T3FTm9j4D1MdPtk"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
         "name": "Indestructible",
         "url": "https://open.spotify.com/album/1pbPkhuest1I4RGpz3rWmC"
       },
@@ -1255,18 +1271,18 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "Invisible Touch",
-        "url": "https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG"
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/5E68z4OgQrR446xVOxZKs6"
       },
       "artists": [
         {
-          "name": "Genesis",
-          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 208026,
-      "name": "Invisible Touch - 2007 Remaster",
-      "url": "https://open.spotify.com/track/0xpBr84T3FTm9j4D1MdPtk"
+      "duration_ms": 193200,
+      "name": "Faith - Remastered",
+      "url": "https://open.spotify.com/track/0nd1Vs5BIoIU4TJlzR8KVB"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -1299,22 +1315,6 @@
       "duration_ms": 229200,
       "name": "Tell Her About It",
       "url": "https://open.spotify.com/track/6kCJMxv445L2okuTiou1fR"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/5E68z4OgQrR446xVOxZKs6"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 193200,
-      "name": "Faith - Remastered",
-      "url": "https://open.spotify.com/track/0nd1Vs5BIoIU4TJlzR8KVB"
     },
     {
       "added_at": "2023-02-28 06:08:31",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "Popped In Souled Out",
-        "url": "https://open.spotify.com/album/5HqzVjfKEE9nMOYpQxQiz1"
-      },
-      "artists": [
-        {
-          "name": "Wet Wet Wet",
-          "url": "https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai"
-        }
-      ],
-      "duration_ms": 224933,
-      "name": "Sweet Little Mystery",
-      "url": "https://open.spotify.com/track/58qBa4R0T7u0ZiuRvMJRUN"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
         "name": "Arista Heritage Series: Ray Parker",
         "url": "https://open.spotify.com/album/1Fq1oCtmlSQabl1zIdoWCg"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 240800,
       "name": "Ghostbusters",
       "url": "https://open.spotify.com/track/300zfRaCgTmEm5Eqe3HqZZ"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
+        "name": "Popped In Souled Out",
+        "url": "https://open.spotify.com/album/5HqzVjfKEE9nMOYpQxQiz1"
+      },
+      "artists": [
+        {
+          "name": "Wet Wet Wet",
+          "url": "https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai"
+        }
+      ],
+      "duration_ms": 224933,
+      "name": "Sweet Little Mystery",
+      "url": "https://open.spotify.com/track/58qBa4R0T7u0ZiuRvMJRUN"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "Look Sharp!",
-        "url": "https://open.spotify.com/album/487Xg1a57O6pDfkyYcbuFx"
-      },
-      "artists": [
-        {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
-        }
-      ],
-      "duration_ms": 237320,
-      "name": "The Look",
-      "url": "https://open.spotify.com/track/79LdvxXi5JYUjhnO7v9Fi3"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
         "name": "Cocker",
         "url": "https://open.spotify.com/album/0YnLeYOGgy0vtxQRbgW7s1"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 255293,
       "name": "You Can Leave Your Hat On",
       "url": "https://open.spotify.com/track/1x9iOd3K1JC6tdjGZJpFgZ"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
+        "name": "Look Sharp!",
+        "url": "https://open.spotify.com/album/487Xg1a57O6pDfkyYcbuFx"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "duration_ms": 237320,
+      "name": "The Look",
+      "url": "https://open.spotify.com/track/79LdvxXi5JYUjhnO7v9Fi3"
     },
     {
       "added_at": "2023-01-03 15:06:17",

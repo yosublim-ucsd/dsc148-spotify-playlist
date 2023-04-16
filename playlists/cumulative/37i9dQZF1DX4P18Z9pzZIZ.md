@@ -4,7 +4,7 @@
 
 > hop on board, nonstop bops only!!
 
-78 songs - 3 hr 59 min
+79 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Colin Hay](https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv) | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW) | 2:38 | 2023-01-12 |  |
 | [Downers \- Rework](https://open.spotify.com/track/3ZHw4fR70ep2fjqa14RcBi) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Downers \(Rework\)](https://open.spotify.com/album/6wLqsCijGoDRJ1RZYSPqCk) | 3:01 | 2023-02-03 |  |
 | [Edge of Seventeen](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Edge of Seventeen](https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef) | 2:44 | 2023-01-12 |  |
-| [Escapism\. \- Sped Up](https://open.spotify.com/track/4rPJSqrov3zqGwXlemLBMw) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. \(Sped Up\)](https://open.spotify.com/album/1bdKI997loh6G68NED2cwX) | 3:59 | 2023-01-12 |  |
+| [Escapism\. \- Sped Up](https://open.spotify.com/track/3XCpS4k8WqNnCpcDOSRRuz) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism.](https://open.spotify.com/album/4parxQfGC25WtlVVAm5S9q) | 3:59 | 2023-04-11 |  |
+| [Escapism\. \- Sped Up](https://open.spotify.com/track/4rPJSqrov3zqGwXlemLBMw) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. \(Sped Up\)](https://open.spotify.com/album/1bdKI997loh6G68NED2cwX) | 3:59 | 2023-01-12 | 2023-04-16 |
 | [Fake ID \(Coke & Rum Remix\)](https://open.spotify.com/track/7cnS0EPwBnP9ZIdGOAOY7c) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [GEE LEE](https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5) | [Fake ID \(Coke & Rum Remix\)](https://open.spotify.com/album/7pKuRGliZzRAHJaFED7y6Q) | 2:06 | 2023-02-03 |  |
 | [Ferrari](https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8) | 3:06 | 2023-01-12 |  |
 | [FLUTE](https://open.spotify.com/track/6D1v5PAr6RKuJ8VuaS5aIO) | [MONSS](https://open.spotify.com/artist/54cUSKoWHHsLuuX2JuCAKz) | [FLUTE](https://open.spotify.com/album/5wd6GqCH0LfjgoklXABWxF) | 3:17 | 2023-01-12 |  |

@@ -1,12 +1,12 @@
 {
   "description": "For those cozy moments.",
-  "num_followers": 479321,
+  "num_followers": 479500,
   "original_name": "Spooning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ1Nzg4OSwwMDAwMDAwMDFjOTVjNTNmMTExYWFkZGJjOTI1NjVlOTE4NzBhZjlj",
+  "snapshot_id": "MTY4MTQ1Nzg4OSwwMDAwMDAwMGIxNWI4MGQ2MzAwMzA5YzM4MTJmMTdkYmVlZmRhNWM1",
   "tracks": [
     {
       "added_at": "2023-02-10 11:00:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "How Can You Mend A Broken Heart",
-        "url": "https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 241093,
-      "name": "How Deep Is Your Love",
-      "url": "https://open.spotify.com/track/3ZP18us6p6LHOZMG1LLUjF"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "To Let A Good Thing Die",
         "url": "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 162797,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/1lORkxEMmsCZqhoxcmk3A3"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "How Can You Mend A Broken Heart",
+        "url": "https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 241093,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/3ZP18us6p6LHOZMG1LLUjF"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Dream Your Life Away (Special Edition)",
-        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 223640,
-      "name": "Mess Is Mine",
-      "url": "https://open.spotify.com/track/29jtZGdgpE2lWm2mkIt6HS"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Please Keep Loving Me",
         "url": "https://open.spotify.com/album/53ZfIHyk0AhUHeVRBCIl64"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 195920,
       "name": "Please Keep Loving Me",
       "url": "https://open.spotify.com/track/78zUxUPvONPgMIt46q5be6"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 223640,
+      "name": "Mess Is Mine",
+      "url": "https://open.spotify.com/track/29jtZGdgpE2lWm2mkIt6HS"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Love Someone",
-        "url": "https://open.spotify.com/album/0JcMyAnJRTisEjYf9xEwkf"
-      },
-      "artists": [
-        {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
-        }
-      ],
-      "duration_ms": 205463,
-      "name": "Love Someone",
-      "url": "https://open.spotify.com/track/2JqnpexlO9dmvjUMCaLCLJ"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Comfortable",
         "url": "https://open.spotify.com/album/04w2ildzatiXBlYq4AwIOm"
       },
@@ -1027,18 +1011,18 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Part Of The Light",
-        "url": "https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f"
+        "name": "Love Someone",
+        "url": "https://open.spotify.com/album/0JcMyAnJRTisEjYf9xEwkf"
       },
       "artists": [
         {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
         }
       ],
-      "duration_ms": 296386,
-      "name": "Such A Simple Thing",
-      "url": "https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa"
+      "duration_ms": 205463,
+      "name": "Love Someone",
+      "url": "https://open.spotify.com/track/2JqnpexlO9dmvjUMCaLCLJ"
     },
     {
       "added_at": "2023-04-14 07:38:09",
@@ -1063,6 +1047,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "Part Of The Light",
+        "url": "https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 296386,
+      "name": "Such A Simple Thing",
+      "url": "https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "Best Part of Me (feat. YEBBA)",
         "url": "https://open.spotify.com/album/6Z5DhADmyybfKNdymaPLjB"
       },
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "ANTI (Deluxe)",
-        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 223213,
-      "name": "Close To You",
-      "url": "https://open.spotify.com/track/6D2tzc8kRnZb7P1lNwMBLH"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Edges Run",
         "url": "https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 212853,
       "name": "People Change",
       "url": "https://open.spotify.com/track/5VYOUBkObeGOnCt30YDTJ3"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "ANTI (Deluxe)",
+        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 223213,
+      "name": "Close To You",
+      "url": "https://open.spotify.com/track/6D2tzc8kRnZb7P1lNwMBLH"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Place We Were Made",
-        "url": "https://open.spotify.com/album/3lAphThw6i1jHzvXVGXJmE"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 185274,
-      "name": "Place We Were Made",
-      "url": "https://open.spotify.com/track/7nZF59EvFUshBQfhHev64D"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Divinely Uninspired To A Hellish Extent",
         "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 246053,
       "name": "Fade",
       "url": "https://open.spotify.com/track/6r2tV58enH9E8hj2oqoJNK"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Place We Were Made",
+        "url": "https://open.spotify.com/album/3lAphThw6i1jHzvXVGXJmE"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 185274,
+      "name": "Place We Were Made",
+      "url": "https://open.spotify.com/track/7nZF59EvFUshBQfhHev64D"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Can You Take It",
-        "url": "https://open.spotify.com/album/1yytMQgi7xHVil98HEX1FG"
-      },
-      "artists": [
-        {
-          "name": "A\u00e1yanna",
-          "url": "https://open.spotify.com/artist/4lL3E6bGEObeXcKHVy4D5P"
-        }
-      ],
-      "duration_ms": 181783,
-      "name": "Can You Take It",
-      "url": "https://open.spotify.com/track/0sUY0DLOrt3pNWCkvotmYS"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Our Version Of Events (Special Edition)",
         "url": "https://open.spotify.com/album/6vAgHrX0THw3dFEpk1Cjt3"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 283706,
       "name": "Read All About It, Pt. III",
       "url": "https://open.spotify.com/track/1U0bhf79qQt8ozR25aXMtH"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Can You Take It",
+        "url": "https://open.spotify.com/album/1yytMQgi7xHVil98HEX1FG"
+      },
+      "artists": [
+        {
+          "name": "A\u00e1yanna",
+          "url": "https://open.spotify.com/artist/4lL3E6bGEObeXcKHVy4D5P"
+        }
+      ],
+      "duration_ms": 181783,
+      "name": "Can You Take It",
+      "url": "https://open.spotify.com/track/0sUY0DLOrt3pNWCkvotmYS"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1849,26 +1849,6 @@
       "url": "https://open.spotify.com/track/6pZZ4FUkivhTGlVR8FZXE6"
     },
     {
-      "added_at": "2023-02-13 10:37:00",
-      "album": {
-        "name": "Best Feature (feat. Devin Morrison)",
-        "url": "https://open.spotify.com/album/1GcA64V8B5DPt5QxVj7aF3"
-      },
-      "artists": [
-        {
-          "name": "CUBE",
-          "url": "https://open.spotify.com/artist/1r3YnMSGcT7Hnm76aStA3r"
-        },
-        {
-          "name": "Devin Morrison",
-          "url": "https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW"
-        }
-      ],
-      "duration_ms": 203720,
-      "name": "Best Feature",
-      "url": "https://open.spotify.com/track/0ZrdBusEajQaIKl7jdJ8u4"
-    },
-    {
       "added_at": "2023-02-10 11:00:00",
       "album": {
         "name": "Love Like This",
@@ -1899,6 +1879,26 @@
       "duration_ms": 155150,
       "name": "Memories",
       "url": "https://open.spotify.com/track/1PDAEpGPDZ0QGWNt3C5Dck"
+    },
+    {
+      "added_at": "2023-02-13 10:37:00",
+      "album": {
+        "name": "Best Feature (feat. Devin Morrison)",
+        "url": "https://open.spotify.com/album/1GcA64V8B5DPt5QxVj7aF3"
+      },
+      "artists": [
+        {
+          "name": "CUBE",
+          "url": "https://open.spotify.com/artist/1r3YnMSGcT7Hnm76aStA3r"
+        },
+        {
+          "name": "Devin Morrison",
+          "url": "https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW"
+        }
+      ],
+      "duration_ms": 203720,
+      "name": "Best Feature",
+      "url": "https://open.spotify.com/track/0ZrdBusEajQaIKl7jdJ8u4"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Wish I Was Right For You",
-        "url": "https://open.spotify.com/album/33sa2eTt4d7hKrf2mr8lZR"
-      },
-      "artists": [
-        {
-          "name": "jens",
-          "url": "https://open.spotify.com/artist/71o1oWpLHVDNbfw7TwXKDg"
-        }
-      ],
-      "duration_ms": 182562,
-      "name": "Wish I Was Right For You",
-      "url": "https://open.spotify.com/track/5IpIv7yNJnuCWQLn7dd1aL"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Air: Aquarius' Songs",
         "url": "https://open.spotify.com/album/4Md8YZmHgLlflGYj9HF5Bk"
       },
@@ -2047,6 +2031,22 @@
       "duration_ms": 270486,
       "name": "Ghost in the Wind",
       "url": "https://open.spotify.com/track/7yyKgVdqUPMAZGIV02Ppip"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Wish I Was Right For You",
+        "url": "https://open.spotify.com/album/33sa2eTt4d7hKrf2mr8lZR"
+      },
+      "artists": [
+        {
+          "name": "jens",
+          "url": "https://open.spotify.com/artist/71o1oWpLHVDNbfw7TwXKDg"
+        }
+      ],
+      "duration_ms": 182562,
+      "name": "Wish I Was Right For You",
+      "url": "https://open.spotify.com/track/5IpIv7yNJnuCWQLn7dd1aL"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2287,22 +2287,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Kaleidoscope Evening",
-        "url": "https://open.spotify.com/album/5am09sLNv7qC5QfPLC0KPG"
-      },
-      "artists": [
-        {
-          "name": "Reuben Fleetwood",
-          "url": "https://open.spotify.com/artist/3V3OkC3z09nyxXgt87IPtH"
-        }
-      ],
-      "duration_ms": 163866,
-      "name": "Kaleidoscope Evening",
-      "url": "https://open.spotify.com/track/5D386TwGGyXGLxgFCO30kX"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Glasshouse (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6mPNjjOl2GHbP4E90l7bJe"
       },
@@ -2315,6 +2299,22 @@
       "duration_ms": 216866,
       "name": "Alone",
       "url": "https://open.spotify.com/track/0iOZD91DEQm3nuTEk5Bt8k"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Kaleidoscope Evening",
+        "url": "https://open.spotify.com/album/5am09sLNv7qC5QfPLC0KPG"
+      },
+      "artists": [
+        {
+          "name": "Reuben Fleetwood",
+          "url": "https://open.spotify.com/artist/3V3OkC3z09nyxXgt87IPtH"
+        }
+      ],
+      "duration_ms": 163866,
+      "name": "Kaleidoscope Evening",
+      "url": "https://open.spotify.com/track/5D386TwGGyXGLxgFCO30kX"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2399,22 +2399,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/1c6rZYnAwbqtP143pk75SL"
-      },
-      "artists": [
-        {
-          "name": "dia mat\u00e9",
-          "url": "https://open.spotify.com/artist/4UcpNyDTbuLdGygQNjuXfd"
-        }
-      ],
-      "duration_ms": 221612,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/4rbF4dsT1wGGBfzYD5QvlY"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Rebekah - EP",
         "url": "https://open.spotify.com/album/3No7OQimFOoY0koAyPnqfH"
       },
@@ -2427,6 +2411,22 @@
       "duration_ms": 200747,
       "name": "Rebekah",
       "url": "https://open.spotify.com/track/18RQoXcen7pcKhFreuN02y"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/1c6rZYnAwbqtP143pk75SL"
+      },
+      "artists": [
+        {
+          "name": "dia mat\u00e9",
+          "url": "https://open.spotify.com/artist/4UcpNyDTbuLdGygQNjuXfd"
+        }
+      ],
+      "duration_ms": 221612,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/4rbF4dsT1wGGBfzYD5QvlY"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2463,22 +2463,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Amari' SZN 1",
-        "url": "https://open.spotify.com/album/7xHdTbAn5n1xFyW6afp5m4"
-      },
-      "artists": [
-        {
-          "name": "Amari Noelle",
-          "url": "https://open.spotify.com/artist/0oOSUbpeJXzsaPm0x7wBF7"
-        }
-      ],
-      "duration_ms": 182248,
-      "name": "Motion",
-      "url": "https://open.spotify.com/track/2S9z9vVqHYMHSDaekOIdtB"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Song For A Friend",
         "url": "https://open.spotify.com/album/5QSrxF1V37uujwGsZdYy4I"
       },
@@ -2507,6 +2491,22 @@
       "duration_ms": 230250,
       "name": "Animals - Unplugged Version",
       "url": "https://open.spotify.com/track/2B4aEk81BPoL658L1XYG8y"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Amari' SZN 1",
+        "url": "https://open.spotify.com/album/7xHdTbAn5n1xFyW6afp5m4"
+      },
+      "artists": [
+        {
+          "name": "Amari Noelle",
+          "url": "https://open.spotify.com/artist/0oOSUbpeJXzsaPm0x7wBF7"
+        }
+      ],
+      "duration_ms": 182248,
+      "name": "Motion",
+      "url": "https://open.spotify.com/track/2S9z9vVqHYMHSDaekOIdtB"
     },
     {
       "added_at": "2023-02-10 11:00:00",

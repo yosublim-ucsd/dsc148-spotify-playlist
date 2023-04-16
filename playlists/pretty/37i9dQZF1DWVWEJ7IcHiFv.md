@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWEJ7IcHiFv.md) - [plain]
 
 > This is the Latin soundtrack of the 80s! Cover: Gloria Estefan
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,697 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,773 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWEJ7IcHiFv.md) - [plain]
 | 42 | [Toda la Vida](https://open.spotify.com/track/3bekxMTpuHXZXjvuGWtBx5) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Mis Favoritas](https://open.spotify.com/album/3y1nIDv3YFYPl0Z8ZdyQ9d) | 4:47 |
 | 43 | [Agárrense De Las Manos](https://open.spotify.com/track/2XztvViBuf20kZGypnmHGR) | [José Luis Rodríguez](https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV) | [15 Exitos De Jose Luis Rodriguez](https://open.spotify.com/album/22RrvH0d9fd9HHXgOtAOwt) | 3:59 |
 | 44 | [Quinceañera](https://open.spotify.com/track/2Sqg5VH7diEdBoQwJH7ryb) | [Timbiriche](https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO) | [La Historia De Los Éxitos](https://open.spotify.com/album/7ITWVrFjMOo5eVT31GY314) | 2:58 |
-| 45 | [Mentirosa](https://open.spotify.com/track/3P6fS71hWhZvOnnxQojJ0Z) | [Mellow Man Ace](https://open.spotify.com/artist/37YcGi7z4aXgzWu4jGRe4H) | [Escape From Havana](https://open.spotify.com/album/3jZUAzlDcrJMaL9EXK51aP) | 4:18 |
+| 45 | [Este Ritmo Se Baila Así](https://open.spotify.com/track/6sXmREN5oJXB0rZqSjMNXV) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Grandes Exitos](https://open.spotify.com/album/1HR0VmKYncW4JyMwRCSi9N) | 4:27 |
 | 46 | [Persiana Americana](https://open.spotify.com/track/7JZP7kQsuFFWOrtAI7uNiW) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Originales \- 20 Exitos](https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n) | 4:50 |
-| 47 | [Este Ritmo Se Baila Así](https://open.spotify.com/track/6sXmREN5oJXB0rZqSjMNXV) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Grandes Exitos](https://open.spotify.com/album/1HR0VmKYncW4JyMwRCSi9N) | 4:27 |
+| 47 | [Mentirosa](https://open.spotify.com/track/3P6fS71hWhZvOnnxQojJ0Z) | [Mellow Man Ace](https://open.spotify.com/artist/37YcGi7z4aXgzWu4jGRe4H) | [Escape From Havana](https://open.spotify.com/album/3jZUAzlDcrJMaL9EXK51aP) | 4:18 |
 | 48 | [Súbete a Mi Moto](https://open.spotify.com/track/1zHmnDfyTpYvu7KkCeqntZ) | [Menudo](https://open.spotify.com/artist/3Edq1eT7m7GX0PvHW7yEDF) | [15 Años De Historia](https://open.spotify.com/album/4b1Ou1qQJRq6SvS18o0Vyp) | 3:30 |
 | 49 | [Get on Your Feet](https://open.spotify.com/track/7awBgmQ3B0YscMXPBwE1gQ) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Cuts Both Ways](https://open.spotify.com/album/4rPsV2qfjewaH9tAidFVv9) | 3:38 |
 | 50 | [Come Into My Arms](https://open.spotify.com/track/6BD7CmcTMOGQTR2fN4Z8YX) | [Judy Torres](https://open.spotify.com/artist/4xuVMH8UgmZ557rJfWQ08n) | [Judy Torres \- The Greatest Hits](https://open.spotify.com/album/7aOCg1PtLFTnyPjMBRHyc4) | 4:24 |
 
-Snapshot ID: `MTY3NjY2NzgwOSwwMDAwMDAwMDQ3MTMxZmU1MzZlODEyNTRmNWZiZGJhMDZhMjE2MGU5`
+Snapshot ID: `MTY3NjY2NzgwOSwwMDAwMDAwMDBiOWQ1MjUxMThmNTkyMGY3N2U0M2Q0N2U1MGIxMGNl`

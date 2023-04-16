@@ -266,7 +266,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 222176,
       "name": "Apenas um Rascunho (feat. Eli Soares)",
       "url": "https://open.spotify.com/track/0mhUZvUCWUdStTS3auZcDo"
@@ -332,7 +332,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 244250,
       "name": "Aquietai-Vos",
       "url": "https://open.spotify.com/track/2VBDls6vI3bGPsfvps2ljx"
@@ -698,7 +698,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 184451,
       "name": "Espelhos - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1JSHD6UHkXkhkZxfgdNVvU"
@@ -898,6 +898,24 @@
       "duration_ms": 216000,
       "name": "Existe uma Sa\u00edda",
       "url": "https://open.spotify.com/track/2dc7do0kHfamzWqeedGsO8"
+    },
+    {
+      "album": {
+        "name": "Ac\u00fastico",
+        "url": "https://open.spotify.com/album/2zyQ9AgE1siYNFwTVZHECX"
+      },
+      "artists": [
+        {
+          "name": "Lincoln Baena",
+          "url": "https://open.spotify.com/artist/5Y9gRv6jhlSzK4IVpSHp57"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249000,
+      "name": "Express\u00e3o de Louvor - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3vMnBRfXNxKqr8TeCi7L1K"
     },
     {
       "album": {
@@ -1699,6 +1717,28 @@
     },
     {
       "album": {
+        "name": "Promessa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4exZVjNV5GZpCJa8iMVSgT"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        },
+        {
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256756,
+      "name": "Promessa - Ao Vivo",
+      "url": "https://open.spotify.com/track/1FOrlR1cxL3edaOIoH4uVn"
+    },
+    {
+      "album": {
         "name": "Prossiga",
         "url": "https://open.spotify.com/album/4fY5eKN9tjRUnQTGO1zTs1"
       },
@@ -1772,6 +1812,28 @@
       "duration_ms": 513960,
       "name": "Santo Esp\u00edrito (Holy Spirit) (feat. Leonardo Gon\u00e7alves) - Ao Vivo",
       "url": "https://open.spotify.com/track/06I10BV3eKbBeWMELGddHT"
+    },
+    {
+      "album": {
+        "name": "Se N\u00e3o Fosse Ele",
+        "url": "https://open.spotify.com/album/09qMoSr73LwGwAFhqtUvNr"
+      },
+      "artists": [
+        {
+          "name": "Felipe Costa",
+          "url": "https://open.spotify.com/artist/7G8to6zPJFY3FJWrqNyumG"
+        },
+        {
+          "name": "Pedro Henrique",
+          "url": "https://open.spotify.com/artist/5z5z7mb9JYMVdmi4Lfnu0t"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289638,
+      "name": "Se N\u00e3o Fosse Ele",
+      "url": "https://open.spotify.com/track/3TsTuRLUCG7FeHzXRk2yUJ"
     },
     {
       "album": {
@@ -2008,7 +2070,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 234613,
       "name": "Valeu a Pena: Releitura",
       "url": "https://open.spotify.com/track/49pcbzSIk8GU3SZ1geQowm"

@@ -1079,6 +1079,24 @@
     },
     {
       "album": {
+        "name": "Gjeilo: Sun Prelude",
+        "url": "https://open.spotify.com/album/2j5otpbzoJX9uB9pD7jdzK"
+      },
+      "artists": [
+        {
+          "name": "Ola Gjeilo",
+          "url": "https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154040,
+      "name": "Gjeilo: Sun Prelude",
+      "url": "https://open.spotify.com/track/07RjQvhbiROEpMtNyNE08U"
+    },
+    {
+      "album": {
         "name": "Globes",
         "url": "https://open.spotify.com/album/3fMs5z9oLrJ2unce2K05Xt"
       },
@@ -2820,24 +2838,6 @@
       "duration_ms": 179062,
       "name": "Summer 1987.",
       "url": "https://open.spotify.com/track/2k7pE7D98DMSXaLc57tsG1"
-    },
-    {
-      "album": {
-        "name": "Gjeilo: Sun Prelude",
-        "url": "https://open.spotify.com/album/2j5otpbzoJX9uB9pD7jdzK"
-      },
-      "artists": [
-        {
-          "name": "Ola Gjeilo",
-          "url": "https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G"
-        }
-      ],
-      "date_added": "2022-08-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 154040,
-      "name": "Sun Prelude",
-      "url": "https://open.spotify.com/track/07RjQvhbiROEpMtNyNE08U"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Frank Ocean
 
-802 songs - 1 day 19 hr 23 min
+803 songs - 1 day 19 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -634,6 +634,7 @@
 | [Skin](https://open.spotify.com/track/467t3218y3yihFcyDGWjr0) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Skin](https://open.spotify.com/album/1E3Dc94QXnqiQcGVgij0iW) | 3:50 | 2021-03-19 | 2022-07-23 |
 | [Skin and Bones](https://open.spotify.com/track/6slWOE0SO6HjBH0fNd13YB) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Skin and Bones](https://open.spotify.com/album/5LCCfjJW4kBomupswapRHE) | 3:34 | 2022-04-25 | 2022-06-15 |
 | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/track/5qrPtPZ0o6pXIwdJrzASTs) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/album/26eVDoCWYUMJ42dEAlsgDe) | 3:47 | 2022-02-08 | 2022-07-16 |
+| [Sleep Well](https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Sleep Well](https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO) | 2:55 | 2023-04-14 |  |
 | [slideshow](https://open.spotify.com/track/1NxCtk7ybnoLfNBBnMg5oM) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [nice](https://open.spotify.com/album/6AOKgHrEw5Z37EFrhRHVYV) | 1:41 | 2021-09-17 | 2022-09-10 |
 | [Slow Jam](https://open.spotify.com/track/6lRVYHkmpifUVyEKIkgAub) | [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh) | [Sweet Heat](https://open.spotify.com/album/63Csm69FYFtiXnzwagzsmd) | 3:28 | 2022-08-19 | 2022-11-12 |
 | [Sneaky](https://open.spotify.com/track/6XkG4MmrybBwPUm2d4wD0c) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Chrome Bull](https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g) | 3:07 | 2022-10-21 | 2023-04-01 |
@@ -753,7 +754,7 @@
 | [Vertigo](https://open.spotify.com/track/2MItMt0xx5iUkPh37Ulv5t) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Vertigo](https://open.spotify.com/album/5PnUWe2y4JnVjwyRoMLHVm) | 3:38 | 2022-09-16 | 2022-10-25 |
 | [Vest & Boxers](https://open.spotify.com/track/6f2877TmbjnqZEqeQEGi3o) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Vest & Boxers](https://open.spotify.com/album/1Grk1vw2BVPcwvci9xcHy1) | 2:57 | 2022-04-01 | 2022-04-16 |
 | [Wait](https://open.spotify.com/track/57jS22tCk2xgFcsMwLrBLl) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Wait](https://open.spotify.com/album/5VMeHVPli9fPnSKznSqsDr) | 3:10 | 2021-08-13 | 2022-07-24 |
-| [WAITING](https://open.spotify.com/track/6EwBVpLmEFtfycU0Uk1Im0) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [WAITING](https://open.spotify.com/album/6DBqCOLm27Or3TViHbsM48) | 2:20 | 2023-03-10 |  |
+| [WAITING](https://open.spotify.com/track/6EwBVpLmEFtfycU0Uk1Im0) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [WAITING](https://open.spotify.com/album/6DBqCOLm27Or3TViHbsM48) | 2:20 | 2023-03-10 | 2023-04-16 |
 | [Waiting For \(feat\. Jamila Woods\)](https://open.spotify.com/track/02nZeTbm2dRHisH6qsUM5E) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [aiMless](https://open.spotify.com/album/4l165PoCFHBzfg88mpC68n) | 3:20 | 2021-03-19 | 2022-07-23 |
 | [Walked In \(feat\. Young Thug\)](https://open.spotify.com/track/4HnvRYwwhulZMABmLK86ue) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [RY RY WORLD](https://open.spotify.com/album/6i1OieEQCZaMlQZZ44VLON) | 2:55 | 2021-07-09 | 2022-07-12 |
 | [Washed Away](https://open.spotify.com/track/1o6heh4aefLv3GJYjtfLa6) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 3:36 | 2022-09-16 |  |

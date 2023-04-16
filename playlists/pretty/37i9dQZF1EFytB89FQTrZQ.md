@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0kolbeXuETTrQPEprHYda2">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,291 likes - 270 songs - 15 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,293 likes - 270 songs - 15 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 81 | [Tongue](https://open.spotify.com/track/6TYyyYYfOYGAvCJQQVrY8y) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 3:28 |
 | 82 | [Entirety](https://open.spotify.com/track/7Cu9VJOK9A0gJtTTLbJ9GU) | [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM), [A\*M\*E](https://open.spotify.com/artist/0tMbQtD3YwrVFk9Lb6abmB) | [Entirety](https://open.spotify.com/album/32LE97oCqz8Nw0DvJOK1PT) | 3:08 |
 | 83 | [Feel Good \(It's Alright\) \(feat\. Karen Harding\)](https://open.spotify.com/track/46VKKXfpbJDi9aqhomNFrZ) | [Blonde](https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Feel Good \(It's Alright\) \[feat\. Karen Harding\]](https://open.spotify.com/album/0NQhCyUDNtZvd7pVBiHP4I) | 3:11 |
-| 84 | [Up In Here](https://open.spotify.com/track/1xX9Po48ORssfN8MXeBLj9) | [5 After Midnight](https://open.spotify.com/artist/3x9IfYx4a2FPsxqrTV5FgP) | [Up In Here](https://open.spotify.com/album/5lN3LcDWXPVgQsZVvmStQT) | 3:21 |
-| 85 | [Immature](https://open.spotify.com/track/5Gp0BMl8A4obJTIpd0qWox) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Immature](https://open.spotify.com/album/77KeCRX0Rqbx6l8ydoIYB9) | 2:53 |
+| 84 | [Immature](https://open.spotify.com/track/5Gp0BMl8A4obJTIpd0qWox) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Immature](https://open.spotify.com/album/77KeCRX0Rqbx6l8ydoIYB9) | 2:53 |
+| 85 | [Up In Here](https://open.spotify.com/track/1xX9Po48ORssfN8MXeBLj9) | [5 After Midnight](https://open.spotify.com/artist/3x9IfYx4a2FPsxqrTV5FgP) | [Up In Here](https://open.spotify.com/album/5lN3LcDWXPVgQsZVvmStQT) | 3:21 |
 | 86 | [City That Never Sleeps](https://open.spotify.com/track/2jv9q6oVcAlrVLk9QEmzar) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [City That Never Sleeps](https://open.spotify.com/album/6FBlk7tAhSkKtzslsX7Xce) | 2:44 |
 | 87 | [Always \(feat\. Alana\) \- Route 94 Radio Edit](https://open.spotify.com/track/7CR3K77OWWfklWYkHtcxQt) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Alana](https://open.spotify.com/artist/6o0afeOTvBXVvX5LpMBP7u) | [Always \[feat\. Alana\] \(Route 94 Radio Edit\)](https://open.spotify.com/album/45ZxKD3AbXO2AgemEjaWld) | 3:01 |
 | 88 | [Trash](https://open.spotify.com/track/5lzWrMDYLuAugJCHG5C2d0) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Between Us \(The Mixers Edition\)](https://open.spotify.com/album/4pkTcvV4pTt3xDkdG4rcpz) | 2:53 |
@@ -117,10 +117,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 107 | [Change My Love](https://open.spotify.com/track/5z4G37A29NpXvYVUY8BnZX) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Following My Intuition \(Expanded Edition\)](https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN) | 3:24 |
 | 108 | [Hold Tight](https://open.spotify.com/track/1MSDYFqzCsVkXAU5BgKs63) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Rebel Heart \(Deluxe\)](https://open.spotify.com/album/5TAX07toYGN4AFshlKpmZb) | 3:37 |
 | 109 | [Warm](https://open.spotify.com/track/5CfnI6FoZAE6PSB8goCEU0) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Warm](https://open.spotify.com/album/50T0VJB6biUODCulrsPOGn) | 3:26 |
-| 110 | [Revive \(Say Something\)](https://open.spotify.com/track/3ULbFYODpZrIYOmbCYho96) | [LuvBug](https://open.spotify.com/artist/6ci8SqTgjPrl4jetI82yqP) | [Revive \(Say Something\)](https://open.spotify.com/album/6qSimDc9IL5q0XWr6AeCSN) | 3:38 |
-| 111 | [Bloody Samaritan \(with Kelly Rowland\) \- Remix](https://open.spotify.com/track/6pz1iqWlBwYXiAzJB7OAZY) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB), [Loud Urban Choir](https://open.spotify.com/artist/517Fqr6JP4GjULEtTW8TOC) | [19 & Dangerous \(Deluxe\)](https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8) | 3:09 |
-| 112 | [Wrote A Song About You](https://open.spotify.com/track/0h767Ay7aouRAeMUZbeXXQ) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Wrote A Song About You](https://open.spotify.com/album/7HrEGVVAFRBTG3ocUAM6AA) | 3:31 |
-| 113 | [Waste My Time](https://open.spotify.com/track/6Vt2v8xwxcGqAOcTKlBeWo) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [age/sex/location](https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC) | 2:43 |
+| 110 | [Bloody Samaritan \(with Kelly Rowland\) \- Remix](https://open.spotify.com/track/6pz1iqWlBwYXiAzJB7OAZY) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB), [Loud Urban Choir](https://open.spotify.com/artist/517Fqr6JP4GjULEtTW8TOC) | [19 & Dangerous \(Deluxe\)](https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8) | 3:09 |
+| 111 | [Revive \(Say Something\)](https://open.spotify.com/track/3ULbFYODpZrIYOmbCYho96) | [LuvBug](https://open.spotify.com/artist/6ci8SqTgjPrl4jetI82yqP) | [Revive \(Say Something\)](https://open.spotify.com/album/6qSimDc9IL5q0XWr6AeCSN) | 3:38 |
+| 112 | [Waste My Time](https://open.spotify.com/track/6Vt2v8xwxcGqAOcTKlBeWo) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [age/sex/location](https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC) | 2:43 |
+| 113 | [Wrote A Song About You](https://open.spotify.com/track/0h767Ay7aouRAeMUZbeXXQ) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Wrote A Song About You](https://open.spotify.com/album/7HrEGVVAFRBTG3ocUAM6AA) | 3:31 |
 | 114 | [Deserve](https://open.spotify.com/track/33fMPjjVBkz6X1xgHTIcwi) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Liberation](https://open.spotify.com/album/7MfUiQkVEDkOSmU83A2C9q) | 4:23 |
 | 115 | [Unconditional \(feat\. Bryn Christopher\)](https://open.spotify.com/track/5ZFIs3os8W2ajT4BDcrdX0) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [Happy Machine](https://open.spotify.com/album/11EidE2Zs9YaYmgMoydewV) | 2:15 |
 | 116 | [Blow My Mind](https://open.spotify.com/track/6EezXKruq0dSlArA6WaYnp) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [The Forgotten Ones](https://open.spotify.com/album/78WnZ89oNI95ISnWHEiy61) | 4:02 |
@@ -279,4 +279,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 269 | [Breathe \- Extended Reggaeton Rough Mix](https://open.spotify.com/track/7m7rZmcChdxe3SphKJZtL0) | [Kar Vogue](https://open.spotify.com/artist/1P0BWH63MKkRzVDo6KENaB) | [Big Hits in Reggaeton Mix Vol\. 1](https://open.spotify.com/album/3gIlukVpz1M1t8rBYUBn0t) | 4:32 |
 | 270 | [Bullshit](https://open.spotify.com/track/5vzmTUxuc6lnKXGfLX4AEY) | [Rose](https://open.spotify.com/artist/5l0hyotPty3d58l3w8x6EW) | [Bullshit](https://open.spotify.com/album/72cq4PGo2UgBCNMkZ7ma5F) | 2:34 |
 
-Snapshot ID: `MjgwMjUyODQsMDAwMDAwMDA2ZTFmY2MyZjUxMDc2NjM1YmM2YzU0YTgwMDE5MTIyNQ==`
+Snapshot ID: `MjgwMjY3MjQsMDAwMDAwMDA3N2FiYzkyMjY2MDI5MzZjMTY1OTNiOTU4NjVjNWZkMA==`

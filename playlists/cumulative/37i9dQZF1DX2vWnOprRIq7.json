@@ -56,7 +56,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 178020,
       "name": "ACAPULCO GOLD",
       "url": "https://open.spotify.com/track/0F862VhYfSgGYo1xvTjNPF"
@@ -110,7 +110,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 214600,
       "name": "Amuleto",
       "url": "https://open.spotify.com/track/05xl9WoeOHodN07hqvjwYQ"
@@ -936,7 +936,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 235000,
       "name": "Mala",
       "url": "https://open.spotify.com/track/7ye6e2xa9jzs5PAMVfm2Db"
@@ -976,6 +976,24 @@
       "duration_ms": 300782,
       "name": "Mejor no hablar de ciertas cosas",
       "url": "https://open.spotify.com/track/6ZxxBhhLvXryhzGBO9lcRT"
+    },
+    {
+      "album": {
+        "name": "Victoria y las M\u00e1quinas",
+        "url": "https://open.spotify.com/album/1nmEZbVyUAmRIKLD3Vtiog"
+      },
+      "artists": [
+        {
+          "name": "Vicu Villanueva",
+          "url": "https://open.spotify.com/artist/3wcmeGyEfFVSHpE11CVMUy"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369300,
+      "name": "MICROFRACTURAS",
+      "url": "https://open.spotify.com/track/3CaF9XLWXOevzZe4uyfsTE"
     },
     {
       "album": {
@@ -1238,6 +1256,24 @@
       "duration_ms": 191483,
       "name": "Perder Algo de Tiempo",
       "url": "https://open.spotify.com/track/3sWajgDFIB55nviApDU60D"
+    },
+    {
+      "album": {
+        "name": "Luz de perla",
+        "url": "https://open.spotify.com/album/6ENurOBs5BwrZNvGvJ2VIY"
+      },
+      "artists": [
+        {
+          "name": "Anyi",
+          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161173,
+      "name": "Pido 1 deseo",
+      "url": "https://open.spotify.com/track/1vXAdOBHefeLUBABf5R4U9"
     },
     {
       "album": {
@@ -1590,6 +1626,24 @@
       "duration_ms": 252026,
       "name": "Solos",
       "url": "https://open.spotify.com/track/4OrRyEaGBZub38KX2tf7dR"
+    },
+    {
+      "album": {
+        "name": "Sombra",
+        "url": "https://open.spotify.com/album/0A0tOMUxutXdCGwfu8Vr7G"
+      },
+      "artists": [
+        {
+          "name": "Gianna Sotera",
+          "url": "https://open.spotify.com/artist/0slraaTntA9kCC4p2K7HRc"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179508,
+      "name": "Sombra",
+      "url": "https://open.spotify.com/track/4SqJD9KD4gidxun001VUf2"
     },
     {
       "album": {

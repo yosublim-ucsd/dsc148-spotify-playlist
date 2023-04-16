@@ -1,12 +1,12 @@
 {
   "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: Lou-Adriane Cassidy",
-  "num_followers": 1207,
+  "num_followers": 1226,
   "original_name": "ALT_QC",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ5ODU3NiwwMDAwMDAwMDI0YjRjNGEyN2I3NmFhNmRiYjYyYzYzNTc2MDhmZDMw",
+  "snapshot_id": "MTY4MTQ5ODU3NiwwMDAwMDAwMDU3YjVjNmIyYTIyZTRiYTE1ZjQ4MzVhNGMxNDE3MWIw",
   "tracks": [
     {
       "added_at": "2023-04-14 18:56:16",
@@ -59,18 +59,18 @@
     {
       "added_at": "2023-04-14 18:56:16",
       "album": {
-        "name": "medium plaisir",
-        "url": "https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr"
+        "name": "\u00c0 Paradis City",
+        "url": "https://open.spotify.com/album/0MkliQZ4wrP9drFqtjHVV0"
       },
       "artists": [
         {
-          "name": "Ariane Roy",
-          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
+          "name": "Jean Leloup",
+          "url": "https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd"
         }
       ],
-      "duration_ms": 292960,
-      "name": "Ce n'est pas de la chance",
-      "url": "https://open.spotify.com/track/4GvY9PDlREAnpeTmGJAESR"
+      "duration_ms": 168200,
+      "name": "Paradis City",
+      "url": "https://open.spotify.com/track/3iT4c9MPnaordWrfvTs8MU"
     },
     {
       "added_at": "2023-04-14 18:56:16",
@@ -91,18 +91,18 @@
     {
       "added_at": "2023-04-14 18:56:16",
       "album": {
-        "name": "\u00c0 Paradis City",
-        "url": "https://open.spotify.com/album/0MkliQZ4wrP9drFqtjHVV0"
+        "name": "medium plaisir",
+        "url": "https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr"
       },
       "artists": [
         {
-          "name": "Jean Leloup",
-          "url": "https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd"
+          "name": "Ariane Roy",
+          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
         }
       ],
-      "duration_ms": 168200,
-      "name": "Paradis City",
-      "url": "https://open.spotify.com/track/3iT4c9MPnaordWrfvTs8MU"
+      "duration_ms": 292960,
+      "name": "Ce n'est pas de la chance",
+      "url": "https://open.spotify.com/track/4GvY9PDlREAnpeTmGJAESR"
     },
     {
       "added_at": "2023-04-14 18:56:16",
@@ -219,18 +219,18 @@
     {
       "added_at": "2023-04-14 18:56:16",
       "album": {
-        "name": "GOOD LUCK",
-        "url": "https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM"
+        "name": "Les gens qu'on aime",
+        "url": "https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9"
       },
       "artists": [
         {
-          "name": "DEBBY FRIDAY",
-          "url": "https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4"
+          "name": "Philippe Brach",
+          "url": "https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt"
         }
       ],
-      "duration_ms": 202986,
-      "name": "WHAT A MAN",
-      "url": "https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO"
+      "duration_ms": 182880,
+      "name": "Un peu de magie",
+      "url": "https://open.spotify.com/track/3k3Tj6cWPOrdZSOVN92Dtz"
     },
     {
       "added_at": "2023-04-14 18:56:16",
@@ -251,18 +251,18 @@
     {
       "added_at": "2023-04-14 18:56:16",
       "album": {
-        "name": "Les gens qu'on aime",
-        "url": "https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9"
+        "name": "GOOD LUCK",
+        "url": "https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM"
       },
       "artists": [
         {
-          "name": "Philippe Brach",
-          "url": "https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt"
+          "name": "DEBBY FRIDAY",
+          "url": "https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4"
         }
       ],
-      "duration_ms": 182880,
-      "name": "Un peu de magie",
-      "url": "https://open.spotify.com/track/3k3Tj6cWPOrdZSOVN92Dtz"
+      "duration_ms": 202986,
+      "name": "WHAT A MAN",
+      "url": "https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO"
     },
     {
       "added_at": "2023-04-14 18:56:16",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-04-14 18:56:16",
       "album": {
-        "name": "Quand la nuit tombe",
-        "url": "https://open.spotify.com/album/3TxGclPeiNgoHdw5jIUXuo"
-      },
-      "artists": [
-        {
-          "name": "Louis-Jean Cormier",
-          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
-        }
-      ],
-      "duration_ms": 279397,
-      "name": "La photo",
-      "url": "https://open.spotify.com/track/273OWOLKdLhhDTYrGzcngp"
-    },
-    {
-      "added_at": "2023-04-14 18:56:16",
-      "album": {
         "name": "Lou-Adriane Cassidy vous dit : Bonsoir",
         "url": "https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7"
       },
@@ -443,18 +427,18 @@
     {
       "added_at": "2023-04-14 18:56:16",
       "album": {
-        "name": "P\u00eale-m\u00eale",
-        "url": "https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw"
+        "name": "Quand la nuit tombe",
+        "url": "https://open.spotify.com/album/3TxGclPeiNgoHdw5jIUXuo"
       },
       "artists": [
         {
-          "name": "Valence",
-          "url": "https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44"
+          "name": "Louis-Jean Cormier",
+          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
         }
       ],
-      "duration_ms": 253546,
-      "name": "La vie attend pas",
-      "url": "https://open.spotify.com/track/4hjTnV4AAiOMTD085WbXNB"
+      "duration_ms": 279397,
+      "name": "La photo",
+      "url": "https://open.spotify.com/track/273OWOLKdLhhDTYrGzcngp"
     },
     {
       "added_at": "2023-04-14 18:56:16",
@@ -471,6 +455,22 @@
       "duration_ms": 153789,
       "name": "4900$",
       "url": "https://open.spotify.com/track/3xaMOSIFw8RE33XQ9xmVOz"
+    },
+    {
+      "added_at": "2023-04-14 18:56:16",
+      "album": {
+        "name": "P\u00eale-m\u00eale",
+        "url": "https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw"
+      },
+      "artists": [
+        {
+          "name": "Valence",
+          "url": "https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44"
+        }
+      ],
+      "duration_ms": 253546,
+      "name": "La vie attend pas",
+      "url": "https://open.spotify.com/track/4hjTnV4AAiOMTD085WbXNB"
     },
     {
       "added_at": "2023-04-14 18:56:16",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-04-14 18:56:16",
       "album": {
-        "name": "C'est ma lady",
-        "url": "https://open.spotify.com/album/1DApIRmNfHbmnte59SMKo9"
-      },
-      "artists": [
-        {
-          "name": "Marilyne L\u00e9onard",
-          "url": "https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p"
-        }
-      ],
-      "duration_ms": 156233,
-      "name": "C'est ma lady",
-      "url": "https://open.spotify.com/track/7wTkIF9aVnj7c1Q1RWQ3fN"
-    },
-    {
-      "added_at": "2023-04-14 18:56:16",
-      "album": {
         "name": "Pink Dogs on the Green Grass",
         "url": "https://open.spotify.com/album/2oQeCkTKGgySCjpSBPCdRx"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 225249,
       "name": "Christopher Robbins",
       "url": "https://open.spotify.com/track/0W3135lfVN5henzCIdjo2u"
+    },
+    {
+      "added_at": "2023-04-14 18:56:16",
+      "album": {
+        "name": "C'est ma lady",
+        "url": "https://open.spotify.com/album/1DApIRmNfHbmnte59SMKo9"
+      },
+      "artists": [
+        {
+          "name": "Marilyne L\u00e9onard",
+          "url": "https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p"
+        }
+      ],
+      "duration_ms": 156233,
+      "name": "C'est ma lady",
+      "url": "https://open.spotify.com/track/7wTkIF9aVnj7c1Q1RWQ3fN"
     },
     {
       "added_at": "2023-04-14 18:56:16",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-04-14 18:56:16",
       "album": {
-        "name": "Coin coin",
-        "url": "https://open.spotify.com/album/5xDc2kS6gj4IfSX9JcbAeA"
-      },
-      "artists": [
-        {
-          "name": "Malaim\u00e9 Soleil",
-          "url": "https://open.spotify.com/artist/3IaS2LcrG0OEg4r1LFhTm9"
-        }
-      ],
-      "duration_ms": 206493,
-      "name": "Coin coin",
-      "url": "https://open.spotify.com/track/63Toi5cOq7FBhktDh65X9b"
-    },
-    {
-      "added_at": "2023-04-14 18:56:16",
-      "album": {
         "name": "The Witness",
         "url": "https://open.spotify.com/album/4UqiUZuZyxnwLQPyJflsjl"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 249072,
       "name": "Witness Protection",
       "url": "https://open.spotify.com/track/25c2s6RdpSQN27iPc8Exps"
+    },
+    {
+      "added_at": "2023-04-14 18:56:16",
+      "album": {
+        "name": "Coin coin",
+        "url": "https://open.spotify.com/album/5xDc2kS6gj4IfSX9JcbAeA"
+      },
+      "artists": [
+        {
+          "name": "Malaim\u00e9 Soleil",
+          "url": "https://open.spotify.com/artist/3IaS2LcrG0OEg4r1LFhTm9"
+        }
+      ],
+      "duration_ms": 206493,
+      "name": "Coin coin",
+      "url": "https://open.spotify.com/track/63Toi5cOq7FBhktDh65X9b"
     },
     {
       "added_at": "2023-04-14 18:56:16",
@@ -831,18 +831,18 @@
     {
       "added_at": "2023-04-14 18:56:16",
       "album": {
-        "name": "All\u00f4 Fant\u00f4me",
-        "url": "https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8"
+        "name": "Maison ouverte",
+        "url": "https://open.spotify.com/album/4CBp6ELEy0RCE6J2KjmVgD"
       },
       "artists": [
         {
-          "name": "All\u00f4 Fant\u00f4me",
-          "url": "https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i"
+          "name": "Simon Kearney",
+          "url": "https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a"
         }
       ],
-      "duration_ms": 396142,
-      "name": "Sur la pointe des pieds",
-      "url": "https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7"
+      "duration_ms": 239573,
+      "name": "Maison ouverte",
+      "url": "https://open.spotify.com/track/6y3a7T7IHodmrJrr48aBi0"
     },
     {
       "added_at": "2023-04-14 18:56:16",
@@ -863,18 +863,18 @@
     {
       "added_at": "2023-04-14 18:56:16",
       "album": {
-        "name": "Rencontrer Looloo",
-        "url": "https://open.spotify.com/album/2YcDBVyl0OuRS2mda5jCgG"
+        "name": "All\u00f4 Fant\u00f4me",
+        "url": "https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8"
       },
       "artists": [
         {
-          "name": "Chocolat",
-          "url": "https://open.spotify.com/artist/1WCqmUezh1dSnBcHSozS57"
+          "name": "All\u00f4 Fant\u00f4me",
+          "url": "https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i"
         }
       ],
-      "duration_ms": 150320,
-      "name": "Ah Ouin",
-      "url": "https://open.spotify.com/track/715ogeJXR3EL4ISDjiVdhe"
+      "duration_ms": 396142,
+      "name": "Sur la pointe des pieds",
+      "url": "https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7"
     },
     {
       "added_at": "2023-04-14 18:56:16",
@@ -911,18 +911,18 @@
     {
       "added_at": "2023-04-14 18:56:16",
       "album": {
-        "name": "Maison ouverte",
-        "url": "https://open.spotify.com/album/4CBp6ELEy0RCE6J2KjmVgD"
+        "name": "Rencontrer Looloo",
+        "url": "https://open.spotify.com/album/2YcDBVyl0OuRS2mda5jCgG"
       },
       "artists": [
         {
-          "name": "Simon Kearney",
-          "url": "https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a"
+          "name": "Chocolat",
+          "url": "https://open.spotify.com/artist/1WCqmUezh1dSnBcHSozS57"
         }
       ],
-      "duration_ms": 239573,
-      "name": "Maison ouverte",
-      "url": "https://open.spotify.com/track/6y3a7T7IHodmrJrr48aBi0"
+      "duration_ms": 150320,
+      "name": "Ah Ouin",
+      "url": "https://open.spotify.com/track/715ogeJXR3EL4ISDjiVdhe"
     },
     {
       "added_at": "2023-04-14 18:56:16",
@@ -995,22 +995,18 @@
     {
       "added_at": "2023-04-14 18:56:16",
       "album": {
-        "name": "Nimueshtaten nete",
-        "url": "https://open.spotify.com/album/5SEtpOliFRWSyPucn4A2PO"
+        "name": "Premier juin",
+        "url": "https://open.spotify.com/album/4lOsb9ZHpbTcom0mZ7Qz86"
       },
       "artists": [
         {
-          "name": "Kanen",
-          "url": "https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC"
-        },
-        {
-          "name": "Louis-Jean Cormier",
-          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
+          "name": "Lydia K\u00e9pinski",
+          "url": "https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C"
         }
       ],
-      "duration_ms": 240010,
-      "name": "Nimueshtaten nete",
-      "url": "https://open.spotify.com/track/3KtPaEk8dzOJ9GpQZzkvza"
+      "duration_ms": 268426,
+      "name": "Ma\u00efa",
+      "url": "https://open.spotify.com/track/74VUaKDV1hUSpEpMxe2Ct4"
     },
     {
       "added_at": "2023-04-14 18:56:16",
@@ -1031,18 +1027,22 @@
     {
       "added_at": "2023-04-14 18:56:16",
       "album": {
-        "name": "Premier juin",
-        "url": "https://open.spotify.com/album/4lOsb9ZHpbTcom0mZ7Qz86"
+        "name": "Nimueshtaten nete",
+        "url": "https://open.spotify.com/album/5SEtpOliFRWSyPucn4A2PO"
       },
       "artists": [
         {
-          "name": "Lydia K\u00e9pinski",
-          "url": "https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C"
+          "name": "Kanen",
+          "url": "https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC"
+        },
+        {
+          "name": "Louis-Jean Cormier",
+          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
         }
       ],
-      "duration_ms": 268426,
-      "name": "Ma\u00efa",
-      "url": "https://open.spotify.com/track/74VUaKDV1hUSpEpMxe2Ct4"
+      "duration_ms": 240010,
+      "name": "Nimueshtaten nete",
+      "url": "https://open.spotify.com/track/3KtPaEk8dzOJ9GpQZzkvza"
     },
     {
       "added_at": "2023-04-14 18:56:16",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-04-14 18:56:16",
       "album": {
-        "name": "Mitshuap",
-        "url": "https://open.spotify.com/album/1dr7crjcYUidGq4igkPLh7"
-      },
-      "artists": [
-        {
-          "name": "Kanen",
-          "url": "https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC"
-        }
-      ],
-      "duration_ms": 226649,
-      "name": "Ekuan Ek(u)",
-      "url": "https://open.spotify.com/track/5XJgrFZ4cqbVCiJlMKVJ4t"
-    },
-    {
-      "added_at": "2023-04-14 18:56:16",
-      "album": {
         "name": "creusercreuser",
         "url": "https://open.spotify.com/album/7KjYrwYCXeAOnHZrl0iOCP"
       },
@@ -1147,6 +1131,22 @@
     {
       "added_at": "2023-04-14 18:56:16",
       "album": {
+        "name": "Rock & roll sur ton chemin",
+        "url": "https://open.spotify.com/album/26i7XLkOPTGFz061Ntro8p"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Personne",
+          "url": "https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy"
+        }
+      ],
+      "duration_ms": 238019,
+      "name": "Rock & roll sur ton chemin",
+      "url": "https://open.spotify.com/track/7Aez89dhpMN39MgmFk9d6K"
+    },
+    {
+      "added_at": "2023-04-14 18:56:16",
+      "album": {
         "name": "Babyfoot (feat. Kl\u00f4 Pelgag)",
         "url": "https://open.spotify.com/album/6hiaLfpvnH69stsmbA9t1W"
       },
@@ -1163,22 +1163,6 @@
       "duration_ms": 156933,
       "name": "Babyfoot (feat. Kl\u00f4 Pelgag)",
       "url": "https://open.spotify.com/track/7KfODvbJdlLQw6bgT2Qzqg"
-    },
-    {
-      "added_at": "2023-04-14 18:56:16",
-      "album": {
-        "name": "Rock & roll sur ton chemin",
-        "url": "https://open.spotify.com/album/26i7XLkOPTGFz061Ntro8p"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Personne",
-          "url": "https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy"
-        }
-      ],
-      "duration_ms": 238019,
-      "name": "Rock & roll sur ton chemin",
-      "url": "https://open.spotify.com/track/7Aez89dhpMN39MgmFk9d6K"
     },
     {
       "added_at": "2023-04-14 18:56:16",
@@ -1215,18 +1199,34 @@
     {
       "added_at": "2023-04-14 18:56:16",
       "album": {
-        "name": "whatwasthatwine",
-        "url": "https://open.spotify.com/album/4r5raINIASmps1EZ090fio"
+        "name": "Mitshuap",
+        "url": "https://open.spotify.com/album/1dr7crjcYUidGq4igkPLh7"
       },
       "artists": [
         {
-          "name": "distraction4ever",
-          "url": "https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh"
+          "name": "Kanen",
+          "url": "https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC"
         }
       ],
-      "duration_ms": 241966,
-      "name": "whatwasthatwine",
-      "url": "https://open.spotify.com/track/7JOITu06XKIgKq8Cs3tM5H"
+      "duration_ms": 226649,
+      "name": "Ekuan Ek(u)",
+      "url": "https://open.spotify.com/track/5XJgrFZ4cqbVCiJlMKVJ4t"
+    },
+    {
+      "added_at": "2023-04-14 18:56:16",
+      "album": {
+        "name": "Lighter Fluid",
+        "url": "https://open.spotify.com/album/5qHZZ38krHocEYUbDpAWtQ"
+      },
+      "artists": [
+        {
+          "name": "Les Deuxluxes",
+          "url": "https://open.spotify.com/artist/6k5PugZm3EOJkU08XUPzTg"
+        }
+      ],
+      "duration_ms": 171321,
+      "name": "Lighter Fluid",
+      "url": "https://open.spotify.com/track/2SdHjIcNVrrSMtxhoOskRW"
     }
   ],
   "unique_name": "ALT_QC",

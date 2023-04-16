@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del Hip-Hop y Rap en espa\u00f1ol. Cover: Peso Pluma, Aleman. ",
-  "num_followers": 468300,
+  "num_followers": 468413,
   "original_name": "Mucho Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI0ODAwNSwwMDAwMDAwMDAxNDRhZGQyYmM5OTFiZmMyYTEwMDI0YmQwOTE2NWMx",
+  "snapshot_id": "MTY4MDI0ODAwNSwwMDAwMDAwMGRkOGNkNmYxY2VmYWI0YTBiYzhiMDNjMDc4ZWE3YzMw",
   "tracks": [
     {
       "added_at": "2023-03-31 07:33:25",
@@ -740,7 +740,7 @@
           "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
         },
         {
-          "name": "Opium G",
+          "name": "OPYI",
           "url": "https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl"
         },
         {
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-03-31 07:33:25",
       "album": {
-        "name": "Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
-      },
-      "artists": [
-        {
-          "name": "Aleman",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 144438,
-      "name": "Relojito",
-      "url": "https://open.spotify.com/track/1yGJOaPtGUF8xDl3fALd17"
-    },
-    {
-      "added_at": "2023-03-31 07:33:25",
-      "album": {
         "name": "Puerto Rican Mami",
         "url": "https://open.spotify.com/album/4YNCuFzFnWgUrjtBan9jAy"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 199627,
       "name": "Puerto Rican Mami",
       "url": "https://open.spotify.com/track/2Vz7y1NOvV3sq3bXvsS2DI"
+    },
+    {
+      "added_at": "2023-03-31 07:33:25",
+      "album": {
+        "name": "Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
+      },
+      "artists": [
+        {
+          "name": "Aleman",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 144438,
+      "name": "Relojito",
+      "url": "https://open.spotify.com/track/1yGJOaPtGUF8xDl3fALd17"
     },
     {
       "added_at": "2023-03-31 07:33:25",
@@ -883,26 +883,6 @@
       "duration_ms": 213831,
       "name": "La Mini",
       "url": "https://open.spotify.com/track/4xXPv6ic5Zq1vRvxRFxuo8"
-    },
-    {
-      "added_at": "2023-03-31 07:33:25",
-      "album": {
-        "name": "Lo Prieto",
-        "url": "https://open.spotify.com/album/6rlbCUJjq5S7Z0wE3hsRqo"
-      },
-      "artists": [
-        {
-          "name": "Luigui Bleand",
-          "url": "https://open.spotify.com/artist/3s4iTKRp9wGJFYyn5Bo8Pq"
-        },
-        {
-          "name": "Musicologo The Libro",
-          "url": "https://open.spotify.com/artist/0lIw3RIPiAC50dWNjJXe2Q"
-        }
-      ],
-      "duration_ms": 184625,
-      "name": "Lo Prieto",
-      "url": "https://open.spotify.com/track/5q3b86vdmn3itBhsAPHMfd"
     },
     {
       "added_at": "2023-03-31 07:33:25",
@@ -947,6 +927,26 @@
       "duration_ms": 168080,
       "name": "Kachipun",
       "url": "https://open.spotify.com/track/0u6961dhguqEgq3U8e8GhF"
+    },
+    {
+      "added_at": "2023-03-31 07:33:25",
+      "album": {
+        "name": "Lo Prieto",
+        "url": "https://open.spotify.com/album/6rlbCUJjq5S7Z0wE3hsRqo"
+      },
+      "artists": [
+        {
+          "name": "Luigui Bleand",
+          "url": "https://open.spotify.com/artist/3s4iTKRp9wGJFYyn5Bo8Pq"
+        },
+        {
+          "name": "Musicologo The Libro",
+          "url": "https://open.spotify.com/artist/0lIw3RIPiAC50dWNjJXe2Q"
+        }
+      ],
+      "duration_ms": 184625,
+      "name": "Lo Prieto",
+      "url": "https://open.spotify.com/track/5q3b86vdmn3itBhsAPHMfd"
     },
     {
       "added_at": "2023-03-31 07:33:25",
@@ -1012,7 +1012,7 @@
           "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
         },
         {
-          "name": "Opium G",
+          "name": "OPYI",
           "url": "https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl"
         },
         {
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-03-31 07:33:25",
       "album": {
-        "name": "Se Fue la Luz",
-        "url": "https://open.spotify.com/album/5OJeUsenPzsO2TYTZ18kKK"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 225542,
-      "name": "Se Fue la Luz",
-      "url": "https://open.spotify.com/track/3GnCAwwqk86N0zNP0FMOUU"
-    },
-    {
-      "added_at": "2023-03-31 07:33:25",
-      "album": {
         "name": "El Mundo Es Tuyo",
         "url": "https://open.spotify.com/album/3fi4Kp3hlODkiyERiCPeBw"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 182435,
       "name": "El Mundo Es Tuyo",
       "url": "https://open.spotify.com/track/3eDZA496pE44xkDSamlCHD"
+    },
+    {
+      "added_at": "2023-03-31 07:33:25",
+      "album": {
+        "name": "Se Fue la Luz",
+        "url": "https://open.spotify.com/album/5OJeUsenPzsO2TYTZ18kKK"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 225542,
+      "name": "Se Fue la Luz",
+      "url": "https://open.spotify.com/track/3GnCAwwqk86N0zNP0FMOUU"
     },
     {
       "added_at": "2023-03-31 07:33:25",
@@ -1227,22 +1227,26 @@
     {
       "added_at": "2023-03-31 07:33:25",
       "album": {
-        "name": "Envidia",
-        "url": "https://open.spotify.com/album/0Vr2EIU3Dw3DAQKZTJ0Wqk"
+        "name": "Llegue Pa Hacer Billetes",
+        "url": "https://open.spotify.com/album/2Vlc5x84Iz78eJlVkH5nkt"
       },
       "artists": [
         {
-          "name": "Neutro Shorty",
-          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         },
         {
-          "name": "Ovi",
-          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Oregel",
+          "url": "https://open.spotify.com/artist/10hdlFmyDcKDOEzgqIb8jO"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Envidia",
-      "url": "https://open.spotify.com/track/4NTOD6p2LLDYdeHzaxUYxk"
+      "duration_ms": 211500,
+      "name": "Llegue Pa Hacer Billetes",
+      "url": "https://open.spotify.com/track/13U5kHiHh7K4UDQ2P30oIT"
     },
     {
       "added_at": "2023-03-31 07:33:25",
@@ -1283,22 +1287,22 @@
     {
       "added_at": "2023-03-31 07:33:25",
       "album": {
-        "name": "FASHION DILLER",
-        "url": "https://open.spotify.com/album/3fIMfvmfccA2OxIVNmnyyv"
+        "name": "Envidia",
+        "url": "https://open.spotify.com/album/0Vr2EIU3Dw3DAQKZTJ0Wqk"
       },
       "artists": [
         {
-          "name": "TAICHU",
-          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+          "name": "Neutro Shorty",
+          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
         },
         {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
         }
       ],
-      "duration_ms": 161638,
-      "name": "FASHION DILLER",
-      "url": "https://open.spotify.com/track/7pwuuN72iIc3F671PuxErU"
+      "duration_ms": 180000,
+      "name": "Envidia",
+      "url": "https://open.spotify.com/track/4NTOD6p2LLDYdeHzaxUYxk"
     },
     {
       "added_at": "2023-03-31 07:33:25",
@@ -1319,26 +1323,22 @@
     {
       "added_at": "2023-03-31 07:33:25",
       "album": {
-        "name": "Llegue Pa Hacer Billetes",
-        "url": "https://open.spotify.com/album/2Vlc5x84Iz78eJlVkH5nkt"
+        "name": "FASHION DILLER",
+        "url": "https://open.spotify.com/album/3fIMfvmfccA2OxIVNmnyyv"
       },
       "artists": [
         {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
         },
         {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Oregel",
-          "url": "https://open.spotify.com/artist/10hdlFmyDcKDOEzgqIb8jO"
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
         }
       ],
-      "duration_ms": 211500,
-      "name": "Llegue Pa Hacer Billetes",
-      "url": "https://open.spotify.com/track/13U5kHiHh7K4UDQ2P30oIT"
+      "duration_ms": 161638,
+      "name": "FASHION DILLER",
+      "url": "https://open.spotify.com/track/7pwuuN72iIc3F671PuxErU"
     },
     {
       "added_at": "2023-03-31 07:33:25",
@@ -1531,6 +1531,26 @@
     {
       "added_at": "2023-03-31 07:33:25",
       "album": {
+        "name": "En La M\u00eda",
+        "url": "https://open.spotify.com/album/2jsEdTepkq0XraH6XmdjKN"
+      },
+      "artists": [
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        },
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        }
+      ],
+      "duration_ms": 212773,
+      "name": "En La M\u00eda",
+      "url": "https://open.spotify.com/track/6t4GOthDL0fPEUJCNrILo5"
+    },
+    {
+      "added_at": "2023-03-31 07:33:25",
+      "album": {
         "name": "Triple AAA",
         "url": "https://open.spotify.com/album/4Qb2HD2mCm5rS6g1UD2MEs"
       },
@@ -1551,26 +1571,6 @@
       "duration_ms": 175000,
       "name": "Triple AAA",
       "url": "https://open.spotify.com/track/1a6775Z53Ga6QuMWeJse5E"
-    },
-    {
-      "added_at": "2023-03-31 07:33:25",
-      "album": {
-        "name": "En La M\u00eda",
-        "url": "https://open.spotify.com/album/2jsEdTepkq0XraH6XmdjKN"
-      },
-      "artists": [
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
-        },
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        }
-      ],
-      "duration_ms": 212773,
-      "name": "En La M\u00eda",
-      "url": "https://open.spotify.com/track/6t4GOthDL0fPEUJCNrILo5"
     },
     {
       "added_at": "2023-03-31 07:33:25",
@@ -2175,6 +2175,26 @@
     {
       "added_at": "2023-03-31 07:33:25",
       "album": {
+        "name": "Veintipico",
+        "url": "https://open.spotify.com/album/0itQ63GbQW7k1bnEhS2k5R"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "BCN",
+          "url": "https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Veintipico",
+      "url": "https://open.spotify.com/track/0nq0enzelDlBoQHcrwfEf5"
+    },
+    {
+      "added_at": "2023-03-31 07:33:25",
+      "album": {
         "name": "Freestyle",
         "url": "https://open.spotify.com/album/0vO0LyG1EFkHMlToXSKOu7"
       },
@@ -2195,26 +2215,6 @@
       "duration_ms": 167565,
       "name": "Freestyle",
       "url": "https://open.spotify.com/track/7bDQ2CUdrf6Oyu7VFgWunB"
-    },
-    {
-      "added_at": "2023-03-31 07:33:25",
-      "album": {
-        "name": "Veintipico",
-        "url": "https://open.spotify.com/album/0itQ63GbQW7k1bnEhS2k5R"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "BCN",
-          "url": "https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Veintipico",
-      "url": "https://open.spotify.com/track/0nq0enzelDlBoQHcrwfEf5"
     },
     {
       "added_at": "2023-03-31 07:33:25",

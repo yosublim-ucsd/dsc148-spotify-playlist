@@ -1,12 +1,12 @@
 {
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o.",
-  "num_followers": 106568,
+  "num_followers": 106685,
   "original_name": "Trap Classe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjI5NTQ3NiwwMDAwMDAwMDAzZjdkMmZkOTcyNDU0ZDkxNTA0OTMwNmE5YWY1NTYy",
+  "snapshot_id": "MTY3NjI5NTQ3NiwwMDAwMDAwMDZiODgwM2FmZTY2ZmFiM2VhY2NmYzZkMTg2ODdlNGQ2",
   "tracks": [
     {
       "added_at": "2023-02-07 20:52:54",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-02-07 20:52:54",
       "album": {
-        "name": "Kallidade",
-        "url": "https://open.spotify.com/album/1DsFHJEjWom0U0tfUcXYfs"
-      },
-      "artists": [
-        {
-          "name": "Kalli",
-          "url": "https://open.spotify.com/artist/3BD2ifHl4tkgwVU5KIlR5I"
-        }
-      ],
-      "duration_ms": 159753,
-      "name": "Kallidade",
-      "url": "https://open.spotify.com/track/2pwQMzlHOxY2EmbOfAo0HM"
-    },
-    {
-      "added_at": "2023-02-07 20:52:54",
-      "album": {
         "name": "Quadro",
         "url": "https://open.spotify.com/album/5FbEpa7ZliTKb16jB2wQj3"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 167384,
       "name": "Quadro",
       "url": "https://open.spotify.com/track/6quxGsXP50tQOZG9onTDMI"
+    },
+    {
+      "added_at": "2023-02-07 20:52:54",
+      "album": {
+        "name": "Kallidade",
+        "url": "https://open.spotify.com/album/1DsFHJEjWom0U0tfUcXYfs"
+      },
+      "artists": [
+        {
+          "name": "Kalli",
+          "url": "https://open.spotify.com/artist/3BD2ifHl4tkgwVU5KIlR5I"
+        }
+      ],
+      "duration_ms": 159753,
+      "name": "Kallidade",
+      "url": "https://open.spotify.com/track/2pwQMzlHOxY2EmbOfAo0HM"
     },
     {
       "added_at": "2023-02-07 20:52:54",
@@ -589,30 +589,6 @@
       "url": "https://open.spotify.com/track/4RC7vpeUYzx6kChixUpTNs"
     },
     {
-      "added_at": "2023-04-15 01:30:48",
-      "album": {
-        "name": "Menino Ney",
-        "url": "https://open.spotify.com/album/3IWRs9fZhKc4i7lCkqNPHU"
-      },
-      "artists": [
-        {
-          "name": "Chefin",
-          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "Dazz",
-          "url": "https://open.spotify.com/artist/0mabpBrWkBHo7UHcyOclit"
-        }
-      ],
-      "duration_ms": 139636,
-      "name": "Menino Ney",
-      "url": "https://open.spotify.com/track/3n7ASTQanOp5milmESBqlt"
-    },
-    {
       "added_at": "2023-02-07 20:52:54",
       "album": {
         "name": "Gigante",
@@ -635,6 +611,30 @@
       "duration_ms": 147130,
       "name": "Gigante",
       "url": "https://open.spotify.com/track/7rJK5hWRhsG40Ga9zp7DlO"
+    },
+    {
+      "added_at": "2023-04-16 00:56:12",
+      "album": {
+        "name": "Menino Ney",
+        "url": "https://open.spotify.com/album/3IWRs9fZhKc4i7lCkqNPHU"
+      },
+      "artists": [
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Dazz",
+          "url": "https://open.spotify.com/artist/0mabpBrWkBHo7UHcyOclit"
+        }
+      ],
+      "duration_ms": 139636,
+      "name": "Menino Ney",
+      "url": "https://open.spotify.com/track/3n7ASTQanOp5milmESBqlt"
     },
     {
       "added_at": "2023-02-07 20:52:54",
@@ -863,6 +863,26 @@
     {
       "added_at": "2023-02-07 20:52:54",
       "album": {
+        "name": "Criminal Influencer",
+        "url": "https://open.spotify.com/album/4c14Voy3lrcEd4pseEreG3"
+      },
+      "artists": [
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "Tarcis",
+          "url": "https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg"
+        }
+      ],
+      "duration_ms": 116571,
+      "name": "Criminal Influencer",
+      "url": "https://open.spotify.com/track/1yGJUwPOptMclOwV2kvAxH"
+    },
+    {
+      "added_at": "2023-02-07 20:52:54",
+      "album": {
         "name": "Assault (Angra)",
         "url": "https://open.spotify.com/album/7C71AMfoi1LwvHIV17o2HU"
       },
@@ -903,26 +923,6 @@
       "duration_ms": 269998,
       "name": "Assault (Angra)",
       "url": "https://open.spotify.com/track/0In8P4w9CvupkqGBuyHTLv"
-    },
-    {
-      "added_at": "2023-02-07 20:52:54",
-      "album": {
-        "name": "Criminal Influencer",
-        "url": "https://open.spotify.com/album/4c14Voy3lrcEd4pseEreG3"
-      },
-      "artists": [
-        {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
-        },
-        {
-          "name": "Tarcis",
-          "url": "https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg"
-        }
-      ],
-      "duration_ms": 116571,
-      "name": "Criminal Influencer",
-      "url": "https://open.spotify.com/track/1yGJUwPOptMclOwV2kvAxH"
     },
     {
       "added_at": "2023-02-07 20:52:54",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2023-02-07 20:52:54",
       "album": {
+        "name": "Obrigado, M\u00e3e.",
+        "url": "https://open.spotify.com/album/7rFtXsg1Do5pAEfk44qfmL"
+      },
+      "artists": [
+        {
+          "name": "Dfideliz",
+          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
+        }
+      ],
+      "duration_ms": 157090,
+      "name": "Obrigado, M\u00e3e.",
+      "url": "https://open.spotify.com/track/6skR4ZtK9TWsLpbxTbectM"
+    },
+    {
+      "added_at": "2023-02-07 20:52:54",
+      "album": {
         "name": "T\u00e1 com o Papato (feat. BIN)",
         "url": "https://open.spotify.com/album/4at7Ve0oxnTlQpCg77uEHp"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 213333,
       "name": "T\u00e1 com o Papato (feat. BIN)",
       "url": "https://open.spotify.com/track/5eT9vs7mv4Y4HrBWcP6abV"
-    },
-    {
-      "added_at": "2023-02-07 20:52:54",
-      "album": {
-        "name": "Obrigado, M\u00e3e.",
-        "url": "https://open.spotify.com/album/7rFtXsg1Do5pAEfk44qfmL"
-      },
-      "artists": [
-        {
-          "name": "Dfideliz",
-          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
-        }
-      ],
-      "duration_ms": 157090,
-      "name": "Obrigado, M\u00e3e.",
-      "url": "https://open.spotify.com/track/6skR4ZtK9TWsLpbxTbectM"
     },
     {
       "added_at": "2023-02-07 20:52:54",

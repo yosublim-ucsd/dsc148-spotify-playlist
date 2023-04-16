@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 
 > Fresh gospel music from Ghana\. Cover: Joe Mettle
 
-[Spotify](https://open.spotify.com/user/spotify) - 114 likes - 50 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 134 likes - 50 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 | 20 | [Se Mekume Ho](https://open.spotify.com/track/3ojCyHzmRr5hNsEn4zeTqH) | [Ceccy Twum](https://open.spotify.com/artist/388AN0RI2UvUm7RwCU5Twz) | [Golden Oil](https://open.spotify.com/album/4F6PfioAlt3AZzSfb4fhZm) | 4:34 |
 | 21 | [Style Bia Bi](https://open.spotify.com/track/0Eu8dLMDhMDrtHeRLRKzdc) | [Great Ampong](https://open.spotify.com/artist/0J8lvyQgeJId1xoC2D1jRg) | [Style Bia Bi](https://open.spotify.com/album/0h2kD49Ru5nAGuEIly7JlK) | 4:09 |
 | 22 | [Awurade Ye](https://open.spotify.com/track/6Wmjp0UJ8KSKus3flNInST) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Grace](https://open.spotify.com/album/6vHojEWIva0bbhJIDS5YTC) | 4:24 |
-| 23 | [Nyame Tumfo \(Live\)](https://open.spotify.com/track/30uN5hIhQLOjJTlXC8RKPn) | [KOFI OWUSU PEPRAH](https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1) | [Live in Kumasi](https://open.spotify.com/album/4Cjdnmhpz6b8gbBhqRKCaz) | 4:40 |
-| 24 | [Fawohodie\(Twi Medley\)](https://open.spotify.com/track/2N5uglkqAalKPTCnm4a2Cl) | [Perez Musik](https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI) | [Fawohodie\(Twi Medley\)](https://open.spotify.com/album/3mLLK2GJ9k1uvVetcauSm1) | 9:54 |
+| 23 | [Fawohodie\(Twi Medley\)](https://open.spotify.com/track/2N5uglkqAalKPTCnm4a2Cl) | [Perez Musik](https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI) | [Fawohodie\(Twi Medley\)](https://open.spotify.com/album/3mLLK2GJ9k1uvVetcauSm1) | 9:54 |
+| 24 | [Nyame Tumfo \(Live\)](https://open.spotify.com/track/30uN5hIhQLOjJTlXC8RKPn) | [KOFI OWUSU PEPRAH](https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1) | [Live in Kumasi](https://open.spotify.com/album/4Cjdnmhpz6b8gbBhqRKCaz) | 4:40 |
 | 25 | [Nkunim \(The Victory Song\)](https://open.spotify.com/track/57S84dg7sXUWXUj0ZNP1X8) | [Carl Clottey](https://open.spotify.com/artist/6gfnKDWsTRi84l2hjKod2R) | [Nkunim \(The Victory Song\)](https://open.spotify.com/album/2G7yF1iLgKxjMjcNxbhEOB) | 6:49 |
 | 26 | [Deeper Medley](https://open.spotify.com/track/0ZAXIDq2pDCoFQxtk7ldwg) | [Denzel Prempeh](https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p) | [Deeper Touch](https://open.spotify.com/album/5nOXDaaJq1brfEv9jEYAGP) | 13:01 |
 | 27 | [Who Say God No Dey](https://open.spotify.com/track/3Ff4Jeg1zd09LYVABJ4YUU) | [Kofi Karikari](https://open.spotify.com/artist/0xhT4axNpehsv6iBReJgAE) | [Who Say God No Dey](https://open.spotify.com/album/4jy0Yrg8U6CacwTwChNtti) | 2:54 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 | 43 | [Ghana Local Praise Medley](https://open.spotify.com/track/5EpTEpmbU57I9FMGR9m9sV) | [DOXA WAVE GH](https://open.spotify.com/artist/1zqLzdhDVwbe35i4IFrgf6), [Shadrach Mensah Kwesi](https://open.spotify.com/artist/6WRzw7R2P5DfMPXZAulY7e) | [Ghana Local Praise Medley](https://open.spotify.com/album/6JMeaFneyim4EC2BxMYMGw) | 9:26 |
 | 44 | [ONYE NWERE](https://open.spotify.com/track/46FjDse0BOSh8BgO4IhIMl) | [GEMS](https://open.spotify.com/artist/5VwQwtATk6Op8e9NcdSHPF) | [ONYE NWERE](https://open.spotify.com/album/3oWcoM13WK313nUCGdNHnI) | 3:38 |
 | 45 | [Gye Wayeyi](https://open.spotify.com/track/0vRMKxie6xpXzByMbTlqHD) | [Ceccy Twum](https://open.spotify.com/artist/388AN0RI2UvUm7RwCU5Twz) | [Gye Wayeyi](https://open.spotify.com/album/3pEaPAtG5ZW4izhcaGGRDy) | 8:05 |
-| 46 | [A Letter to the Wise](https://open.spotify.com/track/0e4RCiQHnm2GOZCltde0t7) | [Israel Chemphe](https://open.spotify.com/artist/1qJeZoDyrYPQ3R02TY1s9Z) | [A Letter to the Wise](https://open.spotify.com/album/7uX0NKSvnJnyDCYvkSMOYh) | 3:32 |
-| 47 | [Adom Bi](https://open.spotify.com/track/78qtI2HtGEAmSGyKNMLdiU) | [Prophet Dominion](https://open.spotify.com/artist/3oZ9HnpUIgWhWcSFO1ocsc), [Brother Sammy](https://open.spotify.com/artist/462css63bI6oOmHwsofdDM) | [Adom Bi](https://open.spotify.com/album/79jWpJZrG5I7T3tCtu6EWO) | 5:19 |
-| 48 | [Mensuro](https://open.spotify.com/track/6geMEaOz4kZReH6wgfh2IO) | [Miriam Afari](https://open.spotify.com/artist/0L2izWZGS4EwYXZgOqu3eR) | [Mensuro](https://open.spotify.com/album/2j9sRrruqPzeRUhnnIf5TK) | 6:44 |
+| 46 | [Mensuro](https://open.spotify.com/track/6geMEaOz4kZReH6wgfh2IO) | [Miriam Afari](https://open.spotify.com/artist/0L2izWZGS4EwYXZgOqu3eR) | [Mensuro](https://open.spotify.com/album/2j9sRrruqPzeRUhnnIf5TK) | 6:44 |
+| 47 | [A Letter to the Wise](https://open.spotify.com/track/0e4RCiQHnm2GOZCltde0t7) | [Israel Chemphe](https://open.spotify.com/artist/1qJeZoDyrYPQ3R02TY1s9Z) | [A Letter to the Wise](https://open.spotify.com/album/7uX0NKSvnJnyDCYvkSMOYh) | 3:32 |
+| 48 | [Adom Bi](https://open.spotify.com/track/78qtI2HtGEAmSGyKNMLdiU) | [Prophet Dominion](https://open.spotify.com/artist/3oZ9HnpUIgWhWcSFO1ocsc), [Brother Sammy](https://open.spotify.com/artist/462css63bI6oOmHwsofdDM) | [Adom Bi](https://open.spotify.com/album/79jWpJZrG5I7T3tCtu6EWO) | 5:19 |
 | 49 | [My Alabaster](https://open.spotify.com/track/3Q6SskhzdXnnwVUQ9a4F7y) | [DenniS](https://open.spotify.com/artist/5KAy8GO8DyyokO4vqP7TJZ) | [My Alabaster](https://open.spotify.com/album/3cBCmxXML7UVczDD3tWywl) | 8:34 |
 | 50 | [CYB](https://open.spotify.com/track/4RROgBvii00NTvk2ga3xZk) | [Regardless Da YungKing](https://open.spotify.com/artist/7dkbG2UVvht2XS9FzRXBcy), [Morphat](https://open.spotify.com/artist/6aOcPv0XzxXzDWpEQer0rw) | [CYB](https://open.spotify.com/album/0KqMiA8MVuuBsK8KXlCAmy) | 2:59 |
 
-Snapshot ID: `MTY4MTQ5MDUwMywwMDAwMDAwMGQ5Nzc5OTY5OWZlNWI2MzY4MWY4ZTQ1ZDRmNmU5OWIw`
+Snapshot ID: `MTY4MTQ5MDUwMywwMDAwMDAwMGY1OTNkNmZhMDNhZTI2Y2VkMzVmYzc2NmZhMmYzOWFi`

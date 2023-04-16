@@ -884,10 +884,28 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
+    },
+    {
+      "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
     },
     {
       "album": {
@@ -956,7 +974,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 337733,
       "name": "Hung Up",
       "url": "https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH"
@@ -1424,7 +1442,7 @@
       ],
       "date_added": "2019-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-11",
+      "date_removed": null,
       "duration_ms": 213309,
       "name": "Promises (with Sam Smith)",
       "url": "https://open.spotify.com/track/5N5k9nd479b1xpDZ4usjrg"

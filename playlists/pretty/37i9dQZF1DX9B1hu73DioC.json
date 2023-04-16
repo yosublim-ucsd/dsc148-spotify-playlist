@@ -1,12 +1,12 @@
 {
   "description": "The best indie tracks for just hanging out.",
-  "num_followers": 767779,
+  "num_followers": 767970,
   "original_name": "Indie Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ4NDI4MiwwMDAwMDAwMGJkNTIyMDdjNWJlOWFmZmFjZTk5OTQ5MjA0MWU5YmU4",
+  "snapshot_id": "MTY4MTQ4NDI4MiwwMDAwMDAwMGY0ODhlNmY3Mjc1ZTkwMmE4M2M2NDhmOWRhNGU0YmRj",
   "tracks": [
     {
       "added_at": "2023-04-14 04:01:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "So Long Forever",
-        "url": "https://open.spotify.com/album/6cmFNl8lllA6BGc7SKLy3y"
-      },
-      "artists": [
-        {
-          "name": "Palace",
-          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
-        }
-      ],
-      "duration_ms": 233360,
-      "name": "Bitter",
-      "url": "https://open.spotify.com/track/2DkZisoN9h1dLa8Sn5sx0n"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "Long Lost",
         "url": "https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 234383,
       "name": "I Lied (with Allison Ponthier)",
       "url": "https://open.spotify.com/track/7xQg5QTx8eiQnsxEnfynPh"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "So Long Forever",
+        "url": "https://open.spotify.com/album/6cmFNl8lllA6BGc7SKLy3y"
+      },
+      "artists": [
+        {
+          "name": "Palace",
+          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
+        }
+      ],
+      "duration_ms": 233360,
+      "name": "Bitter",
+      "url": "https://open.spotify.com/track/2DkZisoN9h1dLa8Sn5sx0n"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Bubblegum",
-        "url": "https://open.spotify.com/album/16jsPuhKOmMDB0E64rOGsb"
+        "name": "Ribbons",
+        "url": "https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7"
       },
       "artists": [
         {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
         }
       ],
-      "duration_ms": 139493,
-      "name": "In the Dark",
-      "url": "https://open.spotify.com/track/1so2V5ZMQyROuspjpuThDn"
+      "duration_ms": 197933,
+      "name": "Curls",
+      "url": "https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Ribbons",
-        "url": "https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7"
-      },
-      "artists": [
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        }
-      ],
-      "duration_ms": 197933,
-      "name": "Curls",
-      "url": "https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "A\u00e7a\u00ed Bowl",
         "url": "https://open.spotify.com/album/20mfnTTQTPZ4MHVOg0R83D"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 177400,
       "name": "A\u00e7a\u00ed Bowl",
       "url": "https://open.spotify.com/track/5M3KOe4FGUidvRDUbFFdFk"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Bubblegum",
+        "url": "https://open.spotify.com/album/16jsPuhKOmMDB0E64rOGsb"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 139493,
+      "name": "In the Dark",
+      "url": "https://open.spotify.com/track/1so2V5ZMQyROuspjpuThDn"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/7LPsBxxixuOPJl7grf3PX3"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "duration_ms": 262736,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/7oJmIBxEAYjfkS7lhZ7M1S"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
         "name": "Ali",
         "url": "https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh"
       },
@@ -1135,22 +1151,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Sometimes",
-        "url": "https://open.spotify.com/album/7LPsBxxixuOPJl7grf3PX3"
-      },
-      "artists": [
-        {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
-        }
-      ],
-      "duration_ms": 262736,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/7oJmIBxEAYjfkS7lhZ7M1S"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "Ants From Up There",
         "url": "https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd"
       },
@@ -1163,38 +1163,6 @@
       "duration_ms": 363773,
       "name": "Concorde",
       "url": "https://open.spotify.com/track/0y5akbuW5mCnnUe71xATpe"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "coogie",
-        "url": "https://open.spotify.com/album/6O9lTWRoILaLhlq7gSVTyf"
-      },
-      "artists": [
-        {
-          "name": "Dijon",
-          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
-        }
-      ],
-      "duration_ms": 189514,
-      "name": "coogie",
-      "url": "https://open.spotify.com/track/3kBWttZ4s6uSErpI0x3qLZ"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "endlessly",
-        "url": "https://open.spotify.com/album/4z80VAzs9sjrrOdH3T2pyK"
-      },
-      "artists": [
-        {
-          "name": "bixby",
-          "url": "https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv"
-        }
-      ],
-      "duration_ms": 125793,
-      "name": "endlessly",
-      "url": "https://open.spotify.com/track/0hwtCNaxCMWoZZPHjUAETA"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1215,6 +1183,38 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
+        "name": "endlessly",
+        "url": "https://open.spotify.com/album/4z80VAzs9sjrrOdH3T2pyK"
+      },
+      "artists": [
+        {
+          "name": "bixby",
+          "url": "https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv"
+        }
+      ],
+      "duration_ms": 125793,
+      "name": "endlessly",
+      "url": "https://open.spotify.com/track/0hwtCNaxCMWoZZPHjUAETA"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "coogie",
+        "url": "https://open.spotify.com/album/6O9lTWRoILaLhlq7gSVTyf"
+      },
+      "artists": [
+        {
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+        }
+      ],
+      "duration_ms": 189514,
+      "name": "coogie",
+      "url": "https://open.spotify.com/track/3kBWttZ4s6uSErpI0x3qLZ"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
         "name": "Ivory",
         "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
@@ -1227,22 +1227,6 @@
       "duration_ms": 197453,
       "name": "Petrified",
       "url": "https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "Real Estate",
-        "url": "https://open.spotify.com/album/6nViscFT0UsASEnVlpObPI"
-      },
-      "artists": [
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Real Estate",
-      "url": "https://open.spotify.com/track/2VvTMIXG760UiG9OSiFt9j"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1263,18 +1247,18 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Estrangers",
-        "url": "https://open.spotify.com/album/1rAPIqo0fRO0QiBiBLpmvS"
+        "name": "Real Estate",
+        "url": "https://open.spotify.com/album/6nViscFT0UsASEnVlpObPI"
       },
       "artists": [
         {
-          "name": "No Vacation",
-          "url": "https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq"
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
         }
       ],
-      "duration_ms": 199733,
-      "name": "Estrangers",
-      "url": "https://open.spotify.com/track/1yZxKqkxctrFSkCXb8BLKV"
+      "duration_ms": 216000,
+      "name": "Real Estate",
+      "url": "https://open.spotify.com/track/2VvTMIXG760UiG9OSiFt9j"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1291,6 +1275,22 @@
       "duration_ms": 247280,
       "name": "Saltwater",
       "url": "https://open.spotify.com/track/2QSrwZ7iVknZgkfi4aD6cn"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Estrangers",
+        "url": "https://open.spotify.com/album/1rAPIqo0fRO0QiBiBLpmvS"
+      },
+      "artists": [
+        {
+          "name": "No Vacation",
+          "url": "https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq"
+        }
+      ],
+      "duration_ms": 199733,
+      "name": "Estrangers",
+      "url": "https://open.spotify.com/track/1yZxKqkxctrFSkCXb8BLKV"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "That Life",
-        "url": "https://open.spotify.com/album/0JrBO42BQFg0t47H1llw4N"
-      },
-      "artists": [
-        {
-          "name": "Unknown Mortal Orchestra",
-          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
-        }
-      ],
-      "duration_ms": 215866,
-      "name": "That Life",
-      "url": "https://open.spotify.com/track/5z0Wa1EiCoaUafx83WszRY"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "In the Sky",
         "url": "https://open.spotify.com/album/0WuS7pRWpHnsSjOqizOZix"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 217284,
       "name": "Groceries",
       "url": "https://open.spotify.com/track/3II5NhDhjzIessLfaSjPQn"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "That Life",
+        "url": "https://open.spotify.com/album/0JrBO42BQFg0t47H1llw4N"
+      },
+      "artists": [
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+        }
+      ],
+      "duration_ms": 215866,
+      "name": "That Life",
+      "url": "https://open.spotify.com/track/5z0Wa1EiCoaUafx83WszRY"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
+        "name": "Built On Glass",
+        "url": "https://open.spotify.com/album/6DwdzG4UGYLxJ2p7bd483v"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "duration_ms": 285290,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/03qDVofuUUQSsSQCLWX0eF"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
         "name": "Fuck Tha World",
         "url": "https://open.spotify.com/album/49QnWzeoHyQsILlEoM8aAQ"
       },
@@ -1559,38 +1575,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Summer 2019",
-        "url": "https://open.spotify.com/album/5dTd90vjm7gvka1Jy3lB3q"
-      },
-      "artists": [
-        {
-          "name": "Caroline Culver",
-          "url": "https://open.spotify.com/artist/6ykTQoJQsIFiHJg8IzOMu0"
-        }
-      ],
-      "duration_ms": 139876,
-      "name": "Summer 2019",
-      "url": "https://open.spotify.com/track/1q2o5p3RJuMoeVWUszKDgH"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "Built On Glass",
-        "url": "https://open.spotify.com/album/6DwdzG4UGYLxJ2p7bd483v"
-      },
-      "artists": [
-        {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
-        }
-      ],
-      "duration_ms": 285290,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/03qDVofuUUQSsSQCLWX0eF"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "House of Sugar",
         "url": "https://open.spotify.com/album/2kCDZ3gCr5hXFgbFsPMcxP"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 156614,
       "name": "Hope",
       "url": "https://open.spotify.com/track/35UO6dWrEPLmeSVXtAysS4"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Leak 04-13 (Bait Ones)",
+        "url": "https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr"
+      },
+      "artists": [
+        {
+          "name": "Jai Paul",
+          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
+        }
+      ],
+      "duration_ms": 253080,
+      "name": "Jasmine - Demo",
+      "url": "https://open.spotify.com/track/44LAHDPaM5dvkmmD5w1W84"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
+        "name": "Summer 2019",
+        "url": "https://open.spotify.com/album/5dTd90vjm7gvka1Jy3lB3q"
+      },
+      "artists": [
+        {
+          "name": "Caroline Culver",
+          "url": "https://open.spotify.com/artist/6ykTQoJQsIFiHJg8IzOMu0"
+        }
+      ],
+      "duration_ms": 139876,
+      "name": "Summer 2019",
+      "url": "https://open.spotify.com/track/1q2o5p3RJuMoeVWUszKDgH"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
         "name": "Ritual",
         "url": "https://open.spotify.com/album/3Ml6WGt3ogt1GcmaTXGA4w"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 172707,
       "name": "keep going",
       "url": "https://open.spotify.com/track/7FDHPkkA4jQYBMtbpe2UzR"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "Leak 04-13 (Bait Ones)",
-        "url": "https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr"
-      },
-      "artists": [
-        {
-          "name": "Jai Paul",
-          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
-        }
-      ],
-      "duration_ms": 253080,
-      "name": "Jasmine - Demo",
-      "url": "https://open.spotify.com/track/44LAHDPaM5dvkmmD5w1W84"
     },
     {
       "added_at": "2023-04-14 04:01:00",

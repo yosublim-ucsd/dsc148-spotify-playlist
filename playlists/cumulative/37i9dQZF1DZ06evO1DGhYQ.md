@@ -4,7 +4,7 @@
 
 > This is ALI\. The essential tracks, all in one playlist.
 
-42 songs - 2 hr 52 min
+43 songs - 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [MUSIC WORLD](https://open.spotify.com/track/3h6S9MPRPtt58jWb6JuRrm) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [MUSIC WORLD](https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW) | 0:36 | 2023-01-26 |  |
 | [MVP](https://open.spotify.com/track/03BrG3ngOqlLF7Vj1hoOVA) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [MVP](https://open.spotify.com/album/4YnNWdsYBVFFGfcgg69vzN) | 1:22 | 2022-12-31 | 2023-01-05 |
 | [MY FOOLISH STORY](https://open.spotify.com/track/23iNE27DugVD8N3LiLTdQF) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [MUSIC WORLD](https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW) | 4:54 | 2023-01-26 | 2023-02-01 |
+| [MY FOOLISH STORY \- With ensemble](https://open.spotify.com/track/3nI8cyalMaA27H47yjVGXX) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [MY FOOLISH STORY \- With ensemble](https://open.spotify.com/album/2iIm9KJ0Ru8pT3e6ETJ25h) | 4:56 | 2023-04-15 |  |
 | [Never Change](https://open.spotify.com/track/5VsuLuRLv7JJ2Cx0bMQvAD) | [C.Melo 2000](https://open.spotify.com/artist/0yXdV5R98B2ro9g21c3KA0), [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [New Flow 2](https://open.spotify.com/album/07CWE671HIEOJJWE3mmZb4) | 3:26 | 2022-12-23 |  |
 | [NEVER SAY GOODBYE](https://open.spotify.com/track/1NVQvAvYhYUluRrRQpdCjg) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [Mummy\-D](https://open.spotify.com/artist/1tDPDvqdllfPLjLhFFkocX) | [NEVER SAY GOODBYE](https://open.spotify.com/album/0f9ojxk4DzroHLGAU5iUA3) | 4:50 | 2022-12-23 |  |
 | [NO HOME NO COUNTRY](https://open.spotify.com/track/711S16U7t5IfpIUaIzvcp8) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [Kazuo](https://open.spotify.com/artist/6JN1a5p0aucHtYCLSl3vnY), [IMANI](https://open.spotify.com/artist/76aSCaut5ONWWE5btB4Kj8) | [MUSIC WORLD](https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW) | 5:30 | 2023-01-26 | 2023-01-29 |

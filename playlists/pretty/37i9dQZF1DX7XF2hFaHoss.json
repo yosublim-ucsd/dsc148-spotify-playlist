@@ -1,12 +1,12 @@
 {
   "description": "The very best acoustic songs from singer-songwriters making waves. Cover: Madi Diaz",
-  "num_followers": 145116,
+  "num_followers": 145158,
   "original_name": "Women of Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODI1MTYwMCwwMDAwMDAwMDhkNDE0MTk4YjFiNDBmMDZlOTI1OWUxYTAwOTJmNjJi",
+  "snapshot_id": "MTY3ODI1MTYwMCwwMDAwMDAwMDE2MTQzZTA1N2EzNDg3NzUyYWY5NWYyMWMxZDQ5MmE1",
   "tracks": [
     {
       "added_at": "2023-03-08 05:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Doomsday",
-        "url": "https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 189506,
-      "name": "Doomsday",
-      "url": "https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "On Hold",
         "url": "https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 216252,
       "name": "Top to Toe",
       "url": "https://open.spotify.com/track/3Dtg7OR2EYGI5zZuuRpFKT"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "Doomsday",
+        "url": "https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 189506,
+      "name": "Doomsday",
+      "url": "https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Because I Wanted You to Know",
-        "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 184301,
-      "name": "As It Is",
-      "url": "https://open.spotify.com/track/3nqhacrhmERFCAO6YTCAMB"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "FLOWERS for VASES / descansos",
         "url": "https://open.spotify.com/album/3JSvIZCtxK4fUywBK41129"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 210173,
       "name": "Is There Something in the Movies?",
       "url": "https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "Because I Wanted You to Know",
+        "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 184301,
+      "name": "As It Is",
+      "url": "https://open.spotify.com/track/3nqhacrhmERFCAO6YTCAMB"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Cusp",
-        "url": "https://open.spotify.com/album/6jGsKEUE3weS6QBs5tR2M4"
-      },
-      "artists": [
-        {
-          "name": "Alela Diane",
-          "url": "https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7"
-        }
-      ],
-      "duration_ms": 191813,
-      "name": "\u00c9migr\u00e9",
-      "url": "https://open.spotify.com/track/3t9dQLtZPB8dXRu6QrQYLS"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "Like I Used To (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6ZKC2f7C1xnBYJAoRLBha3"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 233013,
       "name": "Shiver",
       "url": "https://open.spotify.com/track/1ODA4mZMaoBzT1TbPBW8B1"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "Cusp",
+        "url": "https://open.spotify.com/album/6jGsKEUE3weS6QBs5tR2M4"
+      },
+      "artists": [
+        {
+          "name": "Alela Diane",
+          "url": "https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7"
+        }
+      ],
+      "duration_ms": 191813,
+      "name": "\u00c9migr\u00e9",
+      "url": "https://open.spotify.com/track/3t9dQLtZPB8dXRu6QrQYLS"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "About U: One Year On",
-        "url": "https://open.spotify.com/album/7HaFj1HOC2Q1viS1lpCAGX"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 291538,
-      "name": "I Know A Place - Acoustic",
-      "url": "https://open.spotify.com/track/7tMc9X5fX4fcEttj2dNLYI"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "Transcendence",
         "url": "https://open.spotify.com/album/4pJ1cAVfgvAIJLWLO0zpuQ"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 173231,
       "name": "Millennial",
       "url": "https://open.spotify.com/track/0UVjJZjlZiOB9pVd9wWABs"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "About U: One Year On",
+        "url": "https://open.spotify.com/album/7HaFj1HOC2Q1viS1lpCAGX"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 291538,
+      "name": "I Know A Place - Acoustic",
+      "url": "https://open.spotify.com/track/7tMc9X5fX4fcEttj2dNLYI"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Tender Warriors Club",
-        "url": "https://open.spotify.com/album/1RLAlQJk8qjwmd32hManwM"
-      },
-      "artists": [
-        {
-          "name": "Lady Lamb",
-          "url": "https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0"
-        }
-      ],
-      "duration_ms": 114120,
-      "name": "Crater Lake",
-      "url": "https://open.spotify.com/track/7K0QvWgBNLf52UHhJxDJD0"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "untitled",
         "url": "https://open.spotify.com/album/4Xweu1d5gXbscOXhIRMLUT"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 225640,
       "name": "untitled",
       "url": "https://open.spotify.com/track/4foKnVvnAHmQYbONUcbgkK"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "Tender Warriors Club",
+        "url": "https://open.spotify.com/album/1RLAlQJk8qjwmd32hManwM"
+      },
+      "artists": [
+        {
+          "name": "Lady Lamb",
+          "url": "https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0"
+        }
+      ],
+      "duration_ms": 114120,
+      "name": "Crater Lake",
+      "url": "https://open.spotify.com/track/7K0QvWgBNLf52UHhJxDJD0"
     },
     {
       "added_at": "2023-03-08 05:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "The emotional interludes we wish were longer.",
-  "num_followers": 11300,
+  "num_followers": 11299,
   "original_name": "Mood Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDA0NTM1NiwwMDAwMDAwMGFhZDcwNTk1YmI2OTEzMWM4N2M0OTRiZjljYjQ4YWVm",
+  "snapshot_id": "MTY3MDA0NTM1NiwwMDAwMDAwMDcxMWExMjQ4ZGUzZTVmZGY2ZmMzYjU2OTRjNDViNzhi",
   "tracks": [
     {
       "added_at": "2022-12-03 05:29:16",
@@ -323,22 +323,6 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "I Want You (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/28nUWsyczStUhYKXTY1IoW"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 76280,
-      "name": "I Wanna Be Where You Are",
-      "url": "https://open.spotify.com/track/7KZqVqDuJOlxwwZa6mmOGS"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
         "name": "Mos Def & Talib Kweli Are Black Star",
         "url": "https://open.spotify.com/album/6GRzmk9UGL7odxprOPop1Q"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 70000,
       "name": "Yo Yeah",
       "url": "https://open.spotify.com/track/6W8xPUq3muUFRnxVcVjdIK"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
+        "name": "I Want You (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/28nUWsyczStUhYKXTY1IoW"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 76280,
+      "name": "I Wanna Be Where You Are",
+      "url": "https://open.spotify.com/track/7KZqVqDuJOlxwwZa6mmOGS"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -403,6 +403,22 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
+        "name": "Danity Kane",
+        "url": "https://open.spotify.com/album/7KD97Fr5oLwKPabOBdIMiV"
+      },
+      "artists": [
+        {
+          "name": "Danity Kane",
+          "url": "https://open.spotify.com/artist/3FD9VAd0ppjmKbfxF4LzUh"
+        }
+      ],
+      "duration_ms": 104093,
+      "name": "Come Over Interlude",
+      "url": "https://open.spotify.com/track/4czs4AZ1YfZGhVV2qkH5NP"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
         "name": "Songs In A Minor (Expanded Edition)",
         "url": "https://open.spotify.com/album/1SLgJeTdzDAJLcDyQqoWnu"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 139644,
       "name": "A.N.G.E.L. - Interlude",
       "url": "https://open.spotify.com/track/3sDeuisFRzTK7dfwlNvoNK"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
-        "name": "Danity Kane",
-        "url": "https://open.spotify.com/album/7KD97Fr5oLwKPabOBdIMiV"
-      },
-      "artists": [
-        {
-          "name": "Danity Kane",
-          "url": "https://open.spotify.com/artist/3FD9VAd0ppjmKbfxF4LzUh"
-        }
-      ],
-      "duration_ms": 104093,
-      "name": "Come Over Interlude",
-      "url": "https://open.spotify.com/track/4czs4AZ1YfZGhVV2qkH5NP"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "The Diary Of Alicia Keys",
-        "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 176733,
-      "name": "Nobody Not Really (Interlude)",
-      "url": "https://open.spotify.com/track/4g8W8YNI1lbb4v8Rd49pmA"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
         "name": "Full Circle",
         "url": "https://open.spotify.com/album/7N31OoKCsEtlP7dkJ4SlvN"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 117226,
       "name": "Makin' Love - Interlude",
       "url": "https://open.spotify.com/track/6prnOcWWbA61hfoFzWFe6i"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
+        "name": "The Diary Of Alicia Keys",
+        "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 176733,
+      "name": "Nobody Not Really (Interlude)",
+      "url": "https://open.spotify.com/track/4g8W8YNI1lbb4v8Rd49pmA"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "Mahogany Soul",
-        "url": "https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 150226,
-      "name": "Makings Of You - Interlude",
-      "url": "https://open.spotify.com/track/3FAM5Y7Hks9R3qtsUKdPJh"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
         "name": "My Life",
         "url": "https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 75466,
       "name": "My Life Interlude",
       "url": "https://open.spotify.com/track/0TOcyKzpOfxMhO7qVDrJZt"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
+        "name": "Mahogany Soul",
+        "url": "https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 150226,
+      "name": "Makings Of You - Interlude",
+      "url": "https://open.spotify.com/track/3FAM5Y7Hks9R3qtsUKdPJh"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -907,18 +907,18 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "Damita Jo",
-        "url": "https://open.spotify.com/album/0VMneW8zRFEqc2RffLf88S"
+        "name": "Total",
+        "url": "https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb"
       },
       "artists": [
         {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+          "name": "Total",
+          "url": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7"
         }
       ],
-      "duration_ms": 89266,
-      "name": "Looking For Love (Interlude)",
-      "url": "https://open.spotify.com/track/3vBQKlQIql3ACIW9wCwt1w"
+      "duration_ms": 70386,
+      "name": "Definition of a Bad Girl (Interlude)",
+      "url": "https://open.spotify.com/track/7pCs7Zi5ya5NCwMPDC6Cuk"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -955,18 +955,18 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "Total",
-        "url": "https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb"
+        "name": "Damita Jo",
+        "url": "https://open.spotify.com/album/0VMneW8zRFEqc2RffLf88S"
       },
       "artists": [
         {
-          "name": "Total",
-          "url": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7"
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
         }
       ],
-      "duration_ms": 70386,
-      "name": "Definition of a Bad Girl (Interlude)",
-      "url": "https://open.spotify.com/track/7pCs7Zi5ya5NCwMPDC6Cuk"
+      "duration_ms": 89266,
+      "name": "Looking For Love (Interlude)",
+      "url": "https://open.spotify.com/track/3vBQKlQIql3ACIW9wCwt1w"
     },
     {
       "added_at": "2022-12-03 05:29:16",

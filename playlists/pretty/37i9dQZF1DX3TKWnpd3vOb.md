@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: Los Bunkers
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,109 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,116 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 36 | [Diabla](https://open.spotify.com/track/4RbFoRUXx2LxWvjpSanqqa) | [Tsunamis](https://open.spotify.com/artist/2oqOl5iVYtC7mpaqUtm5pU) | [7 Mares](https://open.spotify.com/album/4im29JIy0zo9FsVD5rHvAy) | 4:18 |
 | 37 | [El Tren](https://open.spotify.com/track/41WfjjjrWcU3qfaZHkUNK8) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [El Tren](https://open.spotify.com/album/7x4eRQdJw18LUXMCNLUotV) | 3:23 |
 | 38 | [Como te amo \- Radio Edit](https://open.spotify.com/track/7G6Pz2vuyWNsUufG2SvLqE) | [Valija Diplomatica](https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV) | [Como te amo \(Radio Edit\)](https://open.spotify.com/album/61FnC75lKPAbFr3jiR3lHV) | 2:56 |
-| 39 | [Hollywood](https://open.spotify.com/track/71qDE7UIjXoFFuMQix4aGE) | [Cigarbox Man](https://open.spotify.com/artist/6KvYkMetRUoKfIjEt9A0QV) | [Hollywood](https://open.spotify.com/album/3VzbW4VDd8N5d0UwCMsVZC) | 3:35 |
-| 40 | [Sangre y Revolución](https://open.spotify.com/track/7F9YkBBy9UbisYPKEYu9bt) | [Kutral Kai Paz](https://open.spotify.com/artist/3vszuJ8MGiTnqljThfpVJB) | [Sangre y Revolución](https://open.spotify.com/album/5DCuvjIbb3I8CpBNE1UoFN) | 3:48 |
+| 39 | [Sangre y Revolución](https://open.spotify.com/track/7F9YkBBy9UbisYPKEYu9bt) | [Kutral Kai Paz](https://open.spotify.com/artist/3vszuJ8MGiTnqljThfpVJB) | [Sangre y Revolución](https://open.spotify.com/album/5DCuvjIbb3I8CpBNE1UoFN) | 3:48 |
+| 40 | [Hollywood](https://open.spotify.com/track/71qDE7UIjXoFFuMQix4aGE) | [Cigarbox Man](https://open.spotify.com/artist/6KvYkMetRUoKfIjEt9A0QV) | [Hollywood](https://open.spotify.com/album/3VzbW4VDd8N5d0UwCMsVZC) | 3:35 |
 | 41 | [Un Día por Concepción](https://open.spotify.com/track/4VhvatqWWBgHHwqJmFx8x2) | [Billy Norton](https://open.spotify.com/artist/1UfRX7LoEjVtkiVgykLgCb) | [Un Día por Concepción](https://open.spotify.com/album/5bh1wyxjcC5CzXjKo0eaTw) | 3:03 |
 | 42 | [Lo Que Dicen](https://open.spotify.com/track/79m8b7VCjH56yHG4ZdpPio) | [Los Necesarios](https://open.spotify.com/artist/6JpCRswJbJNJ9qwxlxuBVb) | [Lo Que Dicen](https://open.spotify.com/album/3YtXNycKodGFqhS56qAA0U) | 4:03 |
 | 43 | [Revelando, Develando](https://open.spotify.com/track/7vjVFkNHk3nq6OiuzaoQck) | [Los Makana](https://open.spotify.com/artist/0mtBfe3vziCV83NXGXWgD5) | [Baladas del Fin del Mundo](https://open.spotify.com/album/0WPzYjeKd2clBUAgdZv6yw) | 4:08 |
 | 44 | [Tu mundo al revés](https://open.spotify.com/track/2xIa96oIh8soVkhCHGWvug) | [Valija Diplomatica](https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV) | [Tu mundo al revés](https://open.spotify.com/album/6RbRANaLEgi48pHVCECIuI) | 3:44 |
-| 45 | [Despertar \(Cuando Todo Quema\)](https://open.spotify.com/track/7nSP1Z0q3am5FizKDJTTOX) | [Massonico](https://open.spotify.com/artist/1ztINaqHzkQnwJJR75cKfB) | [Despertar \(Cuando Todo Quema\)](https://open.spotify.com/album/5HN0SbzXXWutMumpGzUJAk) | 3:21 |
-| 46 | [Volver](https://open.spotify.com/track/69IG0p2mNwmnh6EtbwrUa5) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [Reversiones, Vol\. 1](https://open.spotify.com/album/25Fry1roXU1jvvQOsOUgof) | 5:15 |
+| 45 | [Volver](https://open.spotify.com/track/69IG0p2mNwmnh6EtbwrUa5) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [Reversiones, Vol\. 1](https://open.spotify.com/album/25Fry1roXU1jvvQOsOUgof) | 5:15 |
+| 46 | [Despertar \(Cuando Todo Quema\)](https://open.spotify.com/track/7nSP1Z0q3am5FizKDJTTOX) | [Massonico](https://open.spotify.com/artist/1ztINaqHzkQnwJJR75cKfB) | [Despertar \(Cuando Todo Quema\)](https://open.spotify.com/album/5HN0SbzXXWutMumpGzUJAk) | 3:21 |
 | 47 | [Dignidad](https://open.spotify.com/track/3Uz4E986pBirZXn5ye3l0J) | [La Mórbida](https://open.spotify.com/artist/6c6bxhGugdKBXAGkoup27K) | [Dignidad](https://open.spotify.com/album/6qZWeqxYDcp9WOSHWlCRkt) | 4:08 |
-| 48 | [Destino Final](https://open.spotify.com/track/7GMGv2nCPAMmfYzV1wiMLR) | [Autóctonos de Ninguna Parte](https://open.spotify.com/artist/7pqtHCx8vGUbM5sVb45peN) | [Destino Final](https://open.spotify.com/album/4tCScaVRF0iuf1EX65clDY) | 5:29 |
-| 49 | [Shawarma Love](https://open.spotify.com/track/6Vi9Cf1rg1KSM7Vlnp1Wgn) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Shawarma Love](https://open.spotify.com/album/43aSsiOqPkg2R2CCX3ufQx) | 3:51 |
+| 48 | [Shawarma Love](https://open.spotify.com/track/6Vi9Cf1rg1KSM7Vlnp1Wgn) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Shawarma Love](https://open.spotify.com/album/43aSsiOqPkg2R2CCX3ufQx) | 3:51 |
+| 49 | [Destino Final](https://open.spotify.com/track/7GMGv2nCPAMmfYzV1wiMLR) | [Autóctonos de Ninguna Parte](https://open.spotify.com/artist/7pqtHCx8vGUbM5sVb45peN) | [Destino Final](https://open.spotify.com/album/4tCScaVRF0iuf1EX65clDY) | 5:29 |
 | 50 | [Autodaño](https://open.spotify.com/track/7tAxQz9Hc53CTna3613OcY) | [Señal Natural](https://open.spotify.com/artist/0DNVxcvQXOnhBxl9FIaQm5) | [Autodaño](https://open.spotify.com/album/3EdL27rSXJqNKQHtnSU5SR) | 3:15 |
 
-Snapshot ID: `MTY4MTQ0MTIwMCwwMDAwMDAwMDQ2OTgwOGQxYjRjYTgyNTY1Y2M5MzgzMjI5ZDgxNWYz`
+Snapshot ID: `MTY4MTQ0MTIwMCwwMDAwMDAwMGE5MTg1N2QyZDQxMjczOTJlNjYzMWFjODdlMDFiY2Uw`

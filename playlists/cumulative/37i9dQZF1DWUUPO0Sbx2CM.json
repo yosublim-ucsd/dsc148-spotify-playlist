@@ -440,7 +440,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 158571,
       "name": "BANG! BANG!",
       "url": "https://open.spotify.com/track/6vk8gF6WJJTQ4lmdfqRFXr"
@@ -2531,6 +2531,24 @@
     },
     {
       "album": {
+        "name": "Happy Day - Retain Remix",
+        "url": "https://open.spotify.com/album/4fBa38ySFa0gYrP5N7aZzk"
+      },
+      "artists": [
+        {
+          "name": "Retain",
+          "url": "https://open.spotify.com/artist/5SwavZEv1VevR29sNLYTbF"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200903,
+      "name": "Happy Day - Retain Remix",
+      "url": "https://open.spotify.com/track/4CbSxyiD3zOziagpHFszCc"
+    },
+    {
+      "album": {
         "name": "Happy Sad",
         "url": "https://open.spotify.com/album/12lfy14lzxVSkgYZE5DkpN"
       },
@@ -3445,6 +3463,24 @@
     },
     {
       "album": {
+        "name": "Better View, Part II",
+        "url": "https://open.spotify.com/album/6VJwdT4jWHtnhCtC7tzMNy"
+      },
+      "artists": [
+        {
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184393,
+      "name": "Invited",
+      "url": "https://open.spotify.com/track/4LHJUZCjDrjI7mQEbM48r3"
+    },
+    {
+      "album": {
         "name": "It's About Time",
         "url": "https://open.spotify.com/album/6YF6LnMttUrjDv1COLZahy"
       },
@@ -3572,7 +3608,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 204470,
       "name": "Jealousy",
       "url": "https://open.spotify.com/track/1b5p2a74a6mZ5nteXamtX8"

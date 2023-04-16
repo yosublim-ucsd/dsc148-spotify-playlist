@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMbUSbTOEeW.md) - [plain]
 
 > Trending dance hits in India\. Cover: Deepika Padukone & Shahrukh Khan
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,907 likes - 36 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,961 likes - 36 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMbUSbTOEeW.md) - [plain]
 | 16 | [Desert Disco](https://open.spotify.com/track/6EZq7cj5ryaVZDQeM5DVGf) | [BODMAS](https://open.spotify.com/artist/7pi70ZtnhO0CTTkF2fts50) | [Desert Disco](https://open.spotify.com/album/779wLBWoL0hQLaYAbQhiA3) | 4:49 |
 | 17 | [Munda Sona Hoon Main \(From "Shehzada"\)](https://open.spotify.com/track/0NODNDsiY0sK5P0TnmDMSE) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Munda Sona Hoon Main \(From "Shehzada"\)](https://open.spotify.com/album/1d8jt3TJEbsTf6bTDnfyK9) | 3:49 |
 | 18 | [Voodoo \(With J Balvin\) \- Tiësto Remix](https://open.spotify.com/track/6NazIrzaE4n57E7ObZNVFC) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Voodoo \(With J Balvin\) \- Tiësto Remix](https://open.spotify.com/album/75G6Xu4kuB1hfbBjUaRYyt) | 2:27 |
-| 19 | [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 |
+| 19 | [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 |
 | 20 | [Lover](https://open.spotify.com/track/0XwRlvv3KlOu4HWlOH34XG) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 3:10 |
 | 21 | [Naagin](https://open.spotify.com/track/7gAyu0od48mkaCw1laPKVC) | [Vayu](https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL), [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ), [AKASA](https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s), [Puri](https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp) | [Naagin](https://open.spotify.com/album/1qvwPj7hWoVYJ0S5z5mbag) | 2:37 |
 | 22 | [Hungama Ho Gaya \(From "Queen"\)](https://open.spotify.com/track/4ZiH6RyMrw2vlgD6vrvzBd) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Hungama Ho Gaya \(From "Queen"\) \- Single](https://open.spotify.com/album/6OwQwHjB0tBu122oE7JK5P) | 4:31 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMbUSbTOEeW.md) - [plain]
 | 35 | [Sauda](https://open.spotify.com/track/6BgHJll6fCYkbBaW52FACV) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM) | [Sauda](https://open.spotify.com/album/7mbrC2oMrMrm034VVrVo9F) | 4:37 |
 | 36 | [Levitating](https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:23 |
 
-Snapshot ID: `MTY3ODc5MTE3NiwwMDAwMDAwMDJjYjlkMGE4MTZlZTQyZWQ0Njc2OGQ4MmUwMWY0YTYx`
+Snapshot ID: `MTY3ODc5MTE3NiwwMDAwMDAwMDg0MTRmMjAxNzNlN2M0NWM2NzlhNTNmZjYxYmU3ZWU1`

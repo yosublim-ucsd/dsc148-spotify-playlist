@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "1Trago",
+        "url": "https://open.spotify.com/album/61bbTZzUgZZnZPpuKYHj26"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201106,
+      "name": "1Trago",
+      "url": "https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl"
+    },
+    {
+      "album": {
         "name": "2 Veces",
         "url": "https://open.spotify.com/album/0ddW33CDTAi75BC9ELsXSJ"
       },
@@ -2048,7 +2066,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 225306,
       "name": "COLOGNE",
       "url": "https://open.spotify.com/track/1ULnQ2yn5LeQX4LrROm1RD"
@@ -3098,7 +3116,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 213061,
       "name": "Efecto",
       "url": "https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx"
@@ -3218,7 +3236,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 214397,
       "name": "El Belicon",
       "url": "https://open.spotify.com/track/5bU6rOWXTwagpjUcGp7I8N"
@@ -4062,6 +4080,28 @@
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
+    },
+    {
+      "album": {
+        "name": "Fr\u00e1gil",
+        "url": "https://open.spotify.com/album/6iZUwDpa27jeAvKxs8UYI2"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160517,
+      "name": "Fr\u00e1gil",
+      "url": "https://open.spotify.com/track/4JdSXF2p71cr8uCY3UiJM0"
     },
     {
       "album": {
@@ -8816,6 +8856,28 @@
       "duration_ms": 248768,
       "name": "RUMBAT\u00d3N",
       "url": "https://open.spotify.com/track/3XjN0mvFkQp1FMVM9Ro5hm"
+    },
+    {
+      "album": {
+        "name": "Rumores",
+        "url": "https://open.spotify.com/album/1NK0ocpcz8JpZfsdzNYJid"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202594,
+      "name": "Rumores",
+      "url": "https://open.spotify.com/track/3OUkQJY3YQ00HwD5GPuk7A"
     },
     {
       "album": {

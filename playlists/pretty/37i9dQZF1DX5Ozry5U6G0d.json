@@ -1,12 +1,12 @@
 {
   "description": "That summer sound.",
-  "num_followers": 1696762,
+  "num_followers": 1696757,
   "original_name": "Summer Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDljMGIzODA0ZWFkN2ZmNjRkYWYwOTllMmQ2M2ZiMzEx",
+  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDY0ZDA4MmFmNzhhNDUzNTU3NGMwZDUzMWQ2MjU0MDE5",
   "tracks": [
     {
       "added_at": "2023-04-14 04:00:00",
@@ -623,30 +623,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        },
-        {
-          "name": "Roger",
-          "url": "https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC"
-        },
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        }
-      ],
-      "duration_ms": 284906,
-      "name": "California Love - Original Version",
-      "url": "https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit]",
         "url": "https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j"
       },
@@ -671,6 +647,30 @@
       "duration_ms": 169153,
       "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
       "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Roger",
+          "url": "https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC"
+        },
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        }
+      ],
+      "duration_ms": 284906,
+      "name": "California Love - Original Version",
+      "url": "https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Scorpion",
-        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 217925,
-      "name": "In My Feelings",
-      "url": "https://open.spotify.com/track/2G7V7zsVDxg1yRsu7Ew9RJ"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Nevermind",
         "url": "https://open.spotify.com/album/6c5gDwB7Xo58thk2vap4Ch"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 156600,
       "name": "Nevermind",
       "url": "https://open.spotify.com/track/63SevszngYpZOwf63o61K4"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 217925,
+      "name": "In My Feelings",
+      "url": "https://open.spotify.com/track/2G7V7zsVDxg1yRsu7Ew9RJ"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1267,6 +1267,34 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "4EVA (feat. Pharrell Williams)",
+        "url": "https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx"
+      },
+      "artists": [
+        {
+          "name": "KAYTRAMIN\u00c9",
+          "url": "https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy"
+        },
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 190373,
+      "name": "4EVA (feat. Pharrell Williams)",
+      "url": "https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Cuz I Love You",
         "url": "https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL"
       },
@@ -1323,34 +1351,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "4EVA (feat. Pharrell Williams)",
-        "url": "https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx"
-      },
-      "artists": [
-        {
-          "name": "KAYTRAMIN\u00c9",
-          "url": "https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy"
-        },
-        {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
-        },
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        }
-      ],
-      "duration_ms": 190373,
-      "name": "4EVA (feat. Pharrell Williams)",
-      "url": "https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Magic In The Hamptons (feat. Lil Yachty)",
         "url": "https://open.spotify.com/album/3p81zUBFZ3zdzxceXKeVSK"
       },
@@ -1387,6 +1387,34 @@
       "duration_ms": 214912,
       "name": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix",
       "url": "https://open.spotify.com/track/6PUIzlqotEmPuBfjbwYWOB"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Funk Wav Bounces Vol.1",
+        "url": "https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Funk Wav",
+          "url": "https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk"
+        }
+      ],
+      "duration_ms": 230813,
+      "name": "Slide (feat. Frank Ocean & Migos)",
+      "url": "https://open.spotify.com/track/7tr2za8SQg2CI8EDgrdtNl"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1435,30 +1463,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Funk Wav Bounces Vol.1",
-        "url": "https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0"
+        "name": "Views",
+        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
       },
       "artists": [
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        },
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        },
-        {
-          "name": "Funk Wav",
-          "url": "https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 230813,
-      "name": "Slide (feat. Frank Ocean & Migos)",
-      "url": "https://open.spotify.com/track/7tr2za8SQg2CI8EDgrdtNl"
+      "duration_ms": 245226,
+      "name": "Controlla",
+      "url": "https://open.spotify.com/track/3O8NlPh2LByMU9lSRSHedm"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1483,22 +1499,6 @@
       "duration_ms": 233386,
       "name": "You",
       "url": "https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Views",
-        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 245226,
-      "name": "Controlla",
-      "url": "https://open.spotify.com/track/3O8NlPh2LByMU9lSRSHedm"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1727,26 +1727,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Mi Gente",
-        "url": "https://open.spotify.com/album/1ZJtkYBzRb7drznu3UYb3k"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Willy William",
-          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
-        }
-      ],
-      "duration_ms": 189440,
-      "name": "Mi Gente",
-      "url": "https://open.spotify.com/track/4ipnJyDU3Lq15qBAYNqlqK"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "What's Love Got to Do with It",
         "url": "https://open.spotify.com/album/1JFKchcdu3ewuhA5PIHWno"
       },
@@ -1767,18 +1747,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Tease Me",
-        "url": "https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY"
+        "name": "Mi Gente",
+        "url": "https://open.spotify.com/album/1ZJtkYBzRb7drznu3UYb3k"
       },
       "artists": [
         {
-          "name": "Chaka Demus & Pliers",
-          "url": "https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Willy William",
+          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
         }
       ],
-      "duration_ms": 245000,
-      "name": "Murder She Wrote",
-      "url": "https://open.spotify.com/track/1HGyhNaRUFEDBiVLbvtbL6"
+      "duration_ms": 189440,
+      "name": "Mi Gente",
+      "url": "https://open.spotify.com/track/4ipnJyDU3Lq15qBAYNqlqK"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1795,6 +1779,22 @@
       "duration_ms": 238906,
       "name": "Sunset Lover",
       "url": "https://open.spotify.com/track/3WRQUvzRvBDr4AxMWhXc5E"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Tease Me",
+        "url": "https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY"
+      },
+      "artists": [
+        {
+          "name": "Chaka Demus & Pliers",
+          "url": "https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Murder She Wrote",
+      "url": "https://open.spotify.com/track/1HGyhNaRUFEDBiVLbvtbL6"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1839,6 +1839,26 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "More Than A Woman (SG's Paradise Edit)",
+        "url": "https://open.spotify.com/album/2iTmTEm55PIjLdYjDCKh96"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        },
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "duration_ms": 357936,
+      "name": "More Than A Woman - SG's Paradise Edit",
+      "url": "https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Big Energy (feat. DJ Khaled) [Remix]",
         "url": "https://open.spotify.com/album/7yQ3QGLWN0YvBuImU7bVc3"
       },
@@ -1859,26 +1879,6 @@
       "duration_ms": 181665,
       "name": "Big Energy (feat. DJ Khaled) - Remix",
       "url": "https://open.spotify.com/track/4nmD4awtUUCC4AGETpUiuP"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "More Than A Woman (SG's Paradise Edit)",
-        "url": "https://open.spotify.com/album/2iTmTEm55PIjLdYjDCKh96"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        },
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        }
-      ],
-      "duration_ms": 357936,
-      "name": "More Than A Woman - SG's Paradise Edit",
-      "url": "https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1935,18 +1935,26 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Loving In Stereo",
-        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
+        "name": "On & On",
+        "url": "https://open.spotify.com/album/2R1IseXguOsELhULk1H60P"
       },
       "artists": [
         {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+        },
+        {
+          "name": "Alika",
+          "url": "https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf"
         }
       ],
-      "duration_ms": 240880,
-      "name": "Keep Moving",
-      "url": "https://open.spotify.com/track/4rf0IVQDFjr27T4sgah5Pf"
+      "duration_ms": 170578,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/19bua05ITWjFrk9iGxOA7r"
     }
   ],
   "unique_name": "Summer Party",

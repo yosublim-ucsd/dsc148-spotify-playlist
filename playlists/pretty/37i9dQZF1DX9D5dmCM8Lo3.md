@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 
 > would you like to save before closing?
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,115 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,313 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,13 +53,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 | 43 | [WIGGLECORE](https://open.spotify.com/track/0OSkkfKiaPnmlL9ocLVgs9) | [FLOOR BABA](https://open.spotify.com/artist/3J4heSMiOqE9MpbyGTtNHA) | [DIRT BIRD](https://open.spotify.com/album/3S64ZdqDFMAq4KoltiR1Sc) | 1:50 |
 | 44 | [Laptop !!](https://open.spotify.com/track/0eCmMzl0p3QkP1KiwjXYyA) | [dreamcache](https://open.spotify.com/artist/0lg1OxkQBe6Jb8HmdtLZYN) | [Laptop !!](https://open.spotify.com/album/4sbn5EHU8f7dpAU7C2WkYx) | 1:51 |
 | 45 | [Missed Kiss](https://open.spotify.com/track/6FkJImUqOt3DfH0MuCp4Gr) | [Digigurl](https://open.spotify.com/artist/0gVS8zVAMZ6KJd6LHUsv2Z) | [Missed Kiss](https://open.spotify.com/album/4iNQn6nR8GzzA32YFGJwx8) | 3:22 |
-| 46 | [ƪ\. ◖ƪ❍⊁◞.\|◗щ \(\*ᄋ△+⁎❝᷀ົཽ\*ೃ:\(꒡͡ ❝᷀ົཽ ꉺ ̈.·\*:・✧⃛\(ཽ๑](https://open.spotify.com/track/5S0yiOErSgkU4yRsz6amKN) | [⣎⡇ꉺლ༽இ•̛\)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ](https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf) | [\)✧⃛\*](https://open.spotify.com/album/2sH6A5CeThHXMZ8ZX6iROz) | 3:10 |
-| 47 | [Hi](https://open.spotify.com/track/7gkS9SJbH6oMNAhcqsAYXZ) | [TEMPOREX](https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt) | [Care](https://open.spotify.com/album/2oMgmFgwsFMrWJFL4WJ14G) | 1:07 |
+| 46 | [Hi](https://open.spotify.com/track/7gkS9SJbH6oMNAhcqsAYXZ) | [TEMPOREX](https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt) | [Care](https://open.spotify.com/album/2oMgmFgwsFMrWJFL4WJ14G) | 1:07 |
+| 47 | [ƪ\. ◖ƪ❍⊁◞.\|◗щ \(\*ᄋ△+⁎❝᷀ົཽ\*ೃ:\(꒡͡ ❝᷀ົཽ ꉺ ̈.·\*:・✧⃛\(ཽ๑](https://open.spotify.com/track/5S0yiOErSgkU4yRsz6amKN) | [⣎⡇ꉺლ༽இ•̛\)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ](https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf) | [\)✧⃛\*](https://open.spotify.com/album/2sH6A5CeThHXMZ8ZX6iROz) | 3:10 |
 | 48 | [Chiltonwalk.Temp](https://open.spotify.com/track/3TT7noqVKf7mwYs9nuQ3Ei) | [Graham Kartna](https://open.spotify.com/artist/4sj7VQUlAl4Bkkxudd5h3E) | [.Temp](https://open.spotify.com/album/1xisAx14ZyCGa24ivnuvq3) | 1:56 |
 | 49 | [VOCALOID UTOPIA](https://open.spotify.com/track/2zMfxTNwPbkI7IYmhBqWFa) | [dennokop](https://open.spotify.com/artist/3rOrXW6Tv20yUlonxXgSPP) | [VOCALOID DYSTOPIA](https://open.spotify.com/album/3NpInFPUzlghneOmTDSxsx) | 2:24 |
-| 50 | [missing home](https://open.spotify.com/track/1JfnrTZYpne8zr3C9alx5q) | [nineishuman](https://open.spotify.com/artist/4hjeFoILTSzoAt6p1VJJsm) | [missing home](https://open.spotify.com/album/6L2RIyM2TCXiBEGcRVhz8N) | 2:04 |
-| 51 | [NEKOMATA'97](https://open.spotify.com/track/0RoEXhqNvT3uxrM7opZp2I) | [NANORAY](https://open.spotify.com/artist/62JS3xgd6kKS7OjzHNSFv1) | [Zapper](https://open.spotify.com/album/2kowSCEZhZnup8Qd57WJQ7) | 4:01 |
-| 52 | [About You Now](https://open.spotify.com/track/4Fpgcj55igVn9pOJeZKFZ8) | [OTTO](https://open.spotify.com/artist/4PxPpid4wSQJ630DTqZ046) | [About You Now](https://open.spotify.com/album/02zc2IIraWCKNpizpKdvKD) | 3:38 |
+| 50 | [NEKOMATA'97](https://open.spotify.com/track/0RoEXhqNvT3uxrM7opZp2I) | [NANORAY](https://open.spotify.com/artist/62JS3xgd6kKS7OjzHNSFv1) | [Zapper](https://open.spotify.com/album/2kowSCEZhZnup8Qd57WJQ7) | 4:01 |
+| 51 | [About You Now](https://open.spotify.com/track/4Fpgcj55igVn9pOJeZKFZ8) | [OTTO](https://open.spotify.com/artist/4PxPpid4wSQJ630DTqZ046) | [About You Now](https://open.spotify.com/album/02zc2IIraWCKNpizpKdvKD) | 3:38 |
+| 52 | [missing home](https://open.spotify.com/track/1JfnrTZYpne8zr3C9alx5q) | [nineishuman](https://open.spotify.com/artist/4hjeFoILTSzoAt6p1VJJsm) | [missing home](https://open.spotify.com/album/6L2RIyM2TCXiBEGcRVhz8N) | 2:04 |
 | 53 | [espial](https://open.spotify.com/track/1c9gFTn6ymqs3kF2KUnvdV) | [Oliver Buckland](https://open.spotify.com/artist/3anMc1UITbY6dg3XIdip5b) | [espial](https://open.spotify.com/album/1xnJeMdd96RDhYRprSYrkx) | 4:11 |
 | 54 | [A World That's Ending](https://open.spotify.com/track/4HIYZdQHMFfSxEKtukG5AY) | [datfootdive](https://open.spotify.com/artist/18vetuyfF5U3hdFX1TA0nI) | [Do you love me?](https://open.spotify.com/album/4Ub4G9wTMXothEPm3oAHsW) | 2:02 |
 | 55 | [Pink Origins](https://open.spotify.com/track/1q61syO9gqIiHhO2rsnLq7) | [Metaroom](https://open.spotify.com/artist/72igsHCazmE9rlVm0c4I9d) | [Pink Origins](https://open.spotify.com/album/5h2SFt5UpNmeAx8ZV0cX7H) | 2:17 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 | 71 | [Rusty's Theme](https://open.spotify.com/track/0O0nfieweDPQqcSMC5cpYv) | [zKevin](https://open.spotify.com/artist/66AZQ2EAXznHftADdXDICb) | [Robot 64 \(Original Game Soundtrack\)](https://open.spotify.com/album/06whO3ukgXDbzLbeXTjJYE) | 2:18 |
 | 72 | [.dancecore](https://open.spotify.com/track/3iELvZmsWYeA7caKjeWWOo) | [Casper Mcfadden](https://open.spotify.com/artist/5uh0sOdYjYSqXqSQqLA5cT) | [Audio Diary](https://open.spotify.com/album/6QIJzEby71ki5kbjfa2AhK) | 3:09 |
 | 73 | [░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓](https://open.spotify.com/track/2KjezXmSbeXFNBkulpTPTa) | [△▃△▓](https://open.spotify.com/artist/1RtQ5z4H1VISmdg0odatF8) | [░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓](https://open.spotify.com/album/7BRNzMepDKUV2Crung0tYp) | 3:05 |
-| 74 | [Aokinaoi](https://open.spotify.com/track/6e5KhFVmU715GslNu11U6g) | [Scandisk7](https://open.spotify.com/artist/0ZBUxmJJpYRRsaPnsWZzHr) | [Aokinaoi](https://open.spotify.com/album/6gu1vqCxlCcXUFbDsRRjbY) | 4:52 |
-| 75 | [RED ALERT](https://open.spotify.com/track/5qZYiUWxG55qm89Vd4VwCO) | [DJ CAMGIRL](https://open.spotify.com/artist/5swTIBAtYWBafM7YZZriMc), [VAPERROR](https://open.spotify.com/artist/0AEVuiJFczDd4dkmZh2Kha) | [CANNON](https://open.spotify.com/album/4Kj5EumxhbumHhNjwt6bIQ) | 1:56 |
+| 74 | [RED ALERT](https://open.spotify.com/track/5qZYiUWxG55qm89Vd4VwCO) | [DJ CAMGIRL](https://open.spotify.com/artist/5swTIBAtYWBafM7YZZriMc), [VAPERROR](https://open.spotify.com/artist/0AEVuiJFczDd4dkmZh2Kha) | [CANNON](https://open.spotify.com/album/4Kj5EumxhbumHhNjwt6bIQ) | 1:56 |
+| 75 | [Aokinaoi](https://open.spotify.com/track/6e5KhFVmU715GslNu11U6g) | [Scandisk7](https://open.spotify.com/artist/0ZBUxmJJpYRRsaPnsWZzHr) | [Aokinaoi](https://open.spotify.com/album/6gu1vqCxlCcXUFbDsRRjbY) | 4:52 |
 
-Snapshot ID: `MTY3NTgwMjE3MiwwMDAwMDAwMDc2N2NjZTY5OGNhYjAyMGNmZDA3ODg1M2NlNTM0MjNm`
+Snapshot ID: `MTY3NTgwMjE3MiwwMDAwMDAwMDdmYWFiOWI3ZmM3ZjM2ODNhMmU0NWM3MGNiNTQ5MGNi`

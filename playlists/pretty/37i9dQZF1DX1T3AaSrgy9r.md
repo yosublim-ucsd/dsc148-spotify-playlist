@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T3AaSrgy9r.md) - [plain]
 
 > Underground dance and alternative that went on to define a new millennium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,948 likes - 88 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,062 likes - 88 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,18 +62,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T3AaSrgy9r.md) - [plain]
 | 52 | [Flat Beat](https://open.spotify.com/track/7GP1ZmPGH1puBliT9S6Fi5) | [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Flat Beat](https://open.spotify.com/album/4rUN2CpOOBouCSnbi3MfYQ) | 5:25 |
 | 53 | [Busy Child](https://open.spotify.com/track/43F49A8ReVXhH7l0jGMViS) | [The Crystal Method](https://open.spotify.com/artist/5eKLa1xyHLq8ERWmT1CRHj) | [Vegas](https://open.spotify.com/album/1PJxfEx1v3rdvmd4mBwPDt) | 7:25 |
 | 54 | [Inner City Life \- Radio Edit](https://open.spotify.com/track/4TOIdyhxz1xgAlrrz2HHhT) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M) | [Inner City Life](https://open.spotify.com/album/3nlPv0dIcF8CNaiVzsHBsY) | 3:51 |
-| 55 | [Push It](https://open.spotify.com/track/6fVnRxwxVL7RavAGTVrNxW) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Version 2.0 \(20th Anniversary Deluxe Edition / Remastered\)](https://open.spotify.com/album/3poVlFX7lPm5Q7XKsOGEwk) | 4:02 |
-| 56 | [Open Up \- Remastered](https://open.spotify.com/track/4rNidGxbfF294K7RzRNIRo) | [Leftfield](https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L) | [Leftism](https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp) | 6:51 |
+| 55 | [Open Up \- Remastered](https://open.spotify.com/track/4rNidGxbfF294K7RzRNIRo) | [Leftfield](https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L) | [Leftism](https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp) | 6:51 |
+| 56 | [Push It](https://open.spotify.com/track/6fVnRxwxVL7RavAGTVrNxW) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Version 2.0 \(20th Anniversary Deluxe Edition / Remastered\)](https://open.spotify.com/album/3poVlFX7lPm5Q7XKsOGEwk) | 4:02 |
 | 57 | [Black Steel](https://open.spotify.com/track/52QqxUwMHSmeDZlZBABefY) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO) | [Maxinquaye](https://open.spotify.com/album/7qlZpMib7D0riFPQ5JHDT8) | 5:39 |
 | 58 | [Supermoves](https://open.spotify.com/track/1HeCBrZd0A2ub1E8aeZJie) | [Overseer](https://open.spotify.com/artist/3V4c44pHzC8apm8HiiFF6V) | [Wreckage](https://open.spotify.com/album/6niSmIWp5Pgl3pyMndWSKx) | 4:47 |
-| 59 | [Leave You Far Behind](https://open.spotify.com/track/1Abqb6agIOK1XLPaJhWm3G) | [Lunatic Calm](https://open.spotify.com/artist/4Fh6eC8hJz13eXsboxXlcX) | [Metropol](https://open.spotify.com/album/1XOuXmeh4RlQLTzfA18T6n) | 3:12 |
-| 60 | [Bodyrock](https://open.spotify.com/track/6P0d6HGaGTbW26ngcMpdko) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play & Play: B Sides](https://open.spotify.com/album/724hO8VLcKOz9b0y18wA8c) | 3:36 |
+| 59 | [Bodyrock](https://open.spotify.com/track/6P0d6HGaGTbW26ngcMpdko) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play & Play: B Sides](https://open.spotify.com/album/724hO8VLcKOz9b0y18wA8c) | 3:36 |
+| 60 | [Leave You Far Behind](https://open.spotify.com/track/1Abqb6agIOK1XLPaJhWm3G) | [Lunatic Calm](https://open.spotify.com/artist/4Fh6eC8hJz13eXsboxXlcX) | [Metropol](https://open.spotify.com/album/1XOuXmeh4RlQLTzfA18T6n) | 3:12 |
 | 61 | [Take California](https://open.spotify.com/track/6po71PeJnTDHZdqYcFfAY1) | [Propellerheads](https://open.spotify.com/artist/3Z7thZHrtFvqp8OpPffPKp) | [Decksandrumsandrockandroll 20th anniversary](https://open.spotify.com/album/5xbDEJ9xCamw1OSOjaTdzV) | 7:21 |
 | 62 | [Original Bedroom Rockers](https://open.spotify.com/track/348kpkfbJUZn7GBpOEvPh4) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [G\-Stoned](https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN) | 6:07 |
 | 63 | [The Box \- Part 2](https://open.spotify.com/track/1kV6GsEtVGmPehcGpmYtnr) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [In Sides](https://open.spotify.com/album/1wXyzUmlgN6G1DXIY0Sh8l) | 5:59 |
 | 64 | [From Rusholme with Love](https://open.spotify.com/track/32YtorOlPz4n7y5OiYkohZ) | [Mint Royale](https://open.spotify.com/artist/69NjLU6rit8q9XEjL50BOj) | [On the Ropes](https://open.spotify.com/album/1S4vDNHYcAYNbQjB1aT5vu) | 5:06 |
-| 65 | [Pacific 707](https://open.spotify.com/track/2riROGFV3u0vtPnUT1z9Sc) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [808:88:98](https://open.spotify.com/album/6EnSysBL3MNcB0o8BUfPh3) | 3:53 |
-| 66 | [Voodoo People](https://open.spotify.com/track/0UzhQhSjlIiNHqozH0tKHl) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Music for the Jilted Generation](https://open.spotify.com/album/05yevdRXvaX6KGRaZehaDW) | 6:27 |
+| 65 | [Voodoo People](https://open.spotify.com/track/0UzhQhSjlIiNHqozH0tKHl) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Music for the Jilted Generation](https://open.spotify.com/album/05yevdRXvaX6KGRaZehaDW) | 6:27 |
+| 66 | [Pacific 707](https://open.spotify.com/track/2riROGFV3u0vtPnUT1z9Sc) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [808:88:98](https://open.spotify.com/album/6EnSysBL3MNcB0o8BUfPh3) | 3:53 |
 | 67 | [Makes Me Wanna Die](https://open.spotify.com/track/385DxV3uLG88GaCUsyCyrX) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO) | [Pre Millennium Tension](https://open.spotify.com/album/540zw9ShTu9bsY984xS3Hu) | 4:01 |
 | 68 | [Little Fluffy Clouds \- Dance Mix 2](https://open.spotify.com/track/0yHKFQNwiCzpjR312MJsb0) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [U.F.Off: The Best Of The Orb](https://open.spotify.com/album/6VRqDW5Y4WmF9d0ZplJGLp) | 4:10 |
 | 69 | [I Adore You](https://open.spotify.com/track/3m8ERzbjadbhyYjfMb5rDX) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M), [Ulterior Motive](https://open.spotify.com/artist/711RACYACplatReI4JGaoa), [Natalie Williams](https://open.spotify.com/artist/6MZnLVb7yS0r1C3CejYIFF) | [The Journey Man](https://open.spotify.com/album/3Dnjpajk4EWNDi6o62Jgdt) | 6:06 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T3AaSrgy9r.md) - [plain]
 | 72 | [My Kingdom](https://open.spotify.com/track/7mB5AgvBYc6QasgzTxrugB) | [The Future Sound Of London](https://open.spotify.com/artist/2qhmNI4ZHPpeDutdg473Z3) | [Dead Cities](https://open.spotify.com/album/2xHvAxrgMfKrYIicQVT9ay) | 5:47 |
 | 73 | [Brown Paper Bag](https://open.spotify.com/track/4i3JEpLw2pC4xfiTF30hUG) | [Roni Size](https://open.spotify.com/artist/5UjqeSp9dX6Nrge7WdDukr) | [New Forms](https://open.spotify.com/album/0RFE2IiZa7OCGrEZngGlGJ) | 9:02 |
 | 74 | [High Noon](https://open.spotify.com/track/5kBjDazL0vWZ8D7LevHh6p) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Preemptive Strike](https://open.spotify.com/album/0tE70YWZ0bNSEgOYl945l9) | 3:59 |
-| 75 | [Dealing with the Roster](https://open.spotify.com/track/6mnQcJtt3gMf9jBAj957le) | [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN) | [Saturday Teenage Kick](https://open.spotify.com/album/5BM8CimFKOpUHa9zUmcZHV) | 5:27 |
-| 76 | [The Box, Pt\. 1](https://open.spotify.com/track/5TbwZ0OSuU1fGtQ8aTgiZP) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [In Sides](https://open.spotify.com/album/1wXyzUmlgN6G1DXIY0Sh8l) | 6:28 |
+| 75 | [The Box, Pt\. 1](https://open.spotify.com/track/5TbwZ0OSuU1fGtQ8aTgiZP) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [In Sides](https://open.spotify.com/album/1wXyzUmlgN6G1DXIY0Sh8l) | 6:28 |
+| 76 | [Dealing with the Roster](https://open.spotify.com/track/6mnQcJtt3gMf9jBAj957le) | [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN) | [Saturday Teenage Kick](https://open.spotify.com/album/5BM8CimFKOpUHa9zUmcZHV) | 5:27 |
 | 77 | [The Rockafeller Skank](https://open.spotify.com/track/5KgBcFl3sjhGTa5PStoHMp) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [You've Come A Long Way Baby](https://open.spotify.com/album/5oF9RaCKaF7e5siW9zdl6L) | 6:53 |
 | 78 | [Toxygene \- 7" Edit](https://open.spotify.com/track/3OBcUfsknT6UgaqOfh5S3a) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [U.F.Off: The Best Of The Orb](https://open.spotify.com/album/6VRqDW5Y4WmF9d0ZplJGLp) | 3:31 |
 | 79 | [We Have Explosive](https://open.spotify.com/track/0VNfwqLDcbKk5eDBOdYWTI) | [The Future Sound Of London](https://open.spotify.com/artist/2qhmNI4ZHPpeDutdg473Z3) | [Dead Cities](https://open.spotify.com/album/2xHvAxrgMfKrYIicQVT9ay) | 6:19 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T3AaSrgy9r.md) - [plain]
 | 87 | [Gabriel](https://open.spotify.com/track/3hjWMckLi4P4KGlXQP4IqO) | [Lamb](https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP) | [Abc Music \- The Radio 1 Sessions](https://open.spotify.com/album/6OCHcY6z1QzM5zNCkwAvnl) | 4:20 |
 | 88 | [Atom Bomb \- Atomix 1](https://open.spotify.com/track/4VNSaSXvYJeLlkulxTXqs1) | [Fluke](https://open.spotify.com/artist/2YzUXecwzcOdlJsnpnJfkJ) | [Atom Bomb](https://open.spotify.com/album/5TbRo1rBrhgHSTB4i2wdZS) | 5:42 |
 
-Snapshot ID: `MTY1MDkxNjc2OCwwMDAwMDAwMGM3YjExMWZlM2RmMjQ3ZjkyYTQ5MDkyZWM2MzUxYTNl`
+Snapshot ID: `MTY1MDkxNjc2OCwwMDAwMDAwMGYxYTIxMDAzYmVmMDJhN2UzYWY2Nzc0YzFlYTUyNmFl`

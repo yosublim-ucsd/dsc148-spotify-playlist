@@ -1,12 +1,12 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico en la curadur\u00eda de los expertos Mariana P\u00e9rez,  Juan Carlos Reyes, Erik Montenegro y Jos\u00e9 Enrique Fern\u00e1ndez.",
-  "num_followers": 55297,
+  "num_followers": 55314,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQxNTExNSwwMDAwMDAwMGZlZTk0ZGMwY2ZiMDZiMzBjZTA0MTI2OWU3MGM2Y2Fi",
+  "snapshot_id": "MTY4MTQxNTExNSwwMDAwMDAwMDRmMTdkOTYxMTU4OTYxZDdhZjZkMjM4ZTBkYTVkYTgz",
   "tracks": [
     {
       "added_at": "2023-01-07 01:43:47",
@@ -173,38 +173,6 @@
       "url": "https://open.spotify.com/track/7MYFwzSj7n5NkDKoKlQL94"
     },
     {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "...un poco mas.",
-        "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
-      },
-      "artists": [
-        {
-          "name": "Na'rimbo",
-          "url": "https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt"
-        }
-      ],
-      "duration_ms": 303893,
-      "name": "Naila",
-      "url": "https://open.spotify.com/track/28V7R9TGxz2Nn6mhZXwHGh"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Bon appetit (Lo Mejor de Pat\u00e9 de Fu\u00e1)",
-        "url": "https://open.spotify.com/album/4NCt0MxUIzpRifMmnFV29f"
-      },
-      "artists": [
-        {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
-        }
-      ],
-      "duration_ms": 285880,
-      "name": "La Canci\u00f3n de Linyera",
-      "url": "https://open.spotify.com/track/4LK5SHNZuDT9hjy7EMvyob"
-    },
-    {
       "added_at": "2022-08-09 18:38:23",
       "album": {
         "name": "Tukumtak",
@@ -223,6 +191,38 @@
       "duration_ms": 182970,
       "name": "Tukumtak",
       "url": "https://open.spotify.com/track/4aOaDvOhOeTkF3sItgGY8y"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Bon appetit (Lo Mejor de Pat\u00e9 de Fu\u00e1)",
+        "url": "https://open.spotify.com/album/4NCt0MxUIzpRifMmnFV29f"
+      },
+      "artists": [
+        {
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+        }
+      ],
+      "duration_ms": 285880,
+      "name": "La Canci\u00f3n de Linyera",
+      "url": "https://open.spotify.com/track/4LK5SHNZuDT9hjy7EMvyob"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "...un poco mas.",
+        "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
+      },
+      "artists": [
+        {
+          "name": "Na'rimbo",
+          "url": "https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt"
+        }
+      ],
+      "duration_ms": 303893,
+      "name": "Naila",
+      "url": "https://open.spotify.com/track/28V7R9TGxz2Nn6mhZXwHGh"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -311,18 +311,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Guidum",
-        "url": "https://open.spotify.com/album/6h5iqyzf6ibooXoRWRoPcx"
+        "name": "As\u00ed Era Entonces, Ahora...",
+        "url": "https://open.spotify.com/album/7DvwqriKTJbGOnrXQot7tX"
       },
       "artists": [
         {
-          "name": "Abraham Laboriel",
-          "url": "https://open.spotify.com/artist/2KOqNGzvxHWkz3e18NkgVW"
+          "name": "Iraida Noriega",
+          "url": "https://open.spotify.com/artist/5nOZrHmLp5IoE7ZzJYZOfi"
+        },
+        {
+          "name": "Zinco Big Band",
+          "url": "https://open.spotify.com/artist/3cj2yEjzcCZVRaIuPgfkfv"
         }
       ],
-      "duration_ms": 167026,
-      "name": "Breakfast At Tiffany's",
-      "url": "https://open.spotify.com/track/3oqKQoJnijk3Tu97MEtgcd"
+      "duration_ms": 270466,
+      "name": "Los Peque\u00f1os Detalles",
+      "url": "https://open.spotify.com/track/7JIuo1FbYeIdJlwXXztn01"
     },
     {
       "added_at": "2023-04-13 19:45:15",
@@ -347,6 +351,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Guidum",
+        "url": "https://open.spotify.com/album/6h5iqyzf6ibooXoRWRoPcx"
+      },
+      "artists": [
+        {
+          "name": "Abraham Laboriel",
+          "url": "https://open.spotify.com/artist/2KOqNGzvxHWkz3e18NkgVW"
+        }
+      ],
+      "duration_ms": 167026,
+      "name": "Breakfast At Tiffany's",
+      "url": "https://open.spotify.com/track/3oqKQoJnijk3Tu97MEtgcd"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "...un poco mas.",
         "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
       },
@@ -359,26 +379,6 @@
       "duration_ms": 370613,
       "name": "Al son de la marimba",
       "url": "https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "As\u00ed Era Entonces, Ahora...",
-        "url": "https://open.spotify.com/album/7DvwqriKTJbGOnrXQot7tX"
-      },
-      "artists": [
-        {
-          "name": "Iraida Noriega",
-          "url": "https://open.spotify.com/artist/5nOZrHmLp5IoE7ZzJYZOfi"
-        },
-        {
-          "name": "Zinco Big Band",
-          "url": "https://open.spotify.com/artist/3cj2yEjzcCZVRaIuPgfkfv"
-        }
-      ],
-      "duration_ms": 270466,
-      "name": "Los Peque\u00f1os Detalles",
-      "url": "https://open.spotify.com/track/7JIuo1FbYeIdJlwXXztn01"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -435,22 +435,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Nos Toca",
-        "url": "https://open.spotify.com/album/4GpJkM3MWkQLGw7zeS5v8d"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Infanz\u00f3n Quartet",
-          "url": "https://open.spotify.com/artist/3jOCmt5AUuY0zF1CvwVr5W"
-        }
-      ],
-      "duration_ms": 353320,
-      "name": "Az\u00facar",
-      "url": "https://open.spotify.com/track/3IxNO8WmhEaxweYAzdd9pL"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Jazz Vinil (Remastered 2018)",
         "url": "https://open.spotify.com/album/5znSMHPjGTn0JtDtexRTzT"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 249599,
       "name": "F\u00edjate Que Suave - Remastered 2018",
       "url": "https://open.spotify.com/track/1o597QjfCG2jZRVYUxXUpv"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Nos Toca",
+        "url": "https://open.spotify.com/album/4GpJkM3MWkQLGw7zeS5v8d"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Infanz\u00f3n Quartet",
+          "url": "https://open.spotify.com/artist/3jOCmt5AUuY0zF1CvwVr5W"
+        }
+      ],
+      "duration_ms": 353320,
+      "name": "Az\u00facar",
+      "url": "https://open.spotify.com/track/3IxNO8WmhEaxweYAzdd9pL"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -497,24 +497,24 @@
       "url": "https://open.spotify.com/track/3KV4Rqy4xUPFDxtNQ9yTqp"
     },
     {
-      "added_at": "2022-08-16 16:23:25",
+      "added_at": "2022-03-30 03:01:09",
       "album": {
-        "name": "Cronolog\u00edas",
-        "url": "https://open.spotify.com/album/7bCzc6xDFgVGpVXyEJ26gK"
+        "name": "Kumoi",
+        "url": "https://open.spotify.com/album/2qLAtuAVOqy3KXRhLb7bsU"
       },
       "artists": [
         {
-          "name": "Xalapa Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/5IWPXtD7sSSNEJQiskp96F"
+          "name": "Nacho Maldonado",
+          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
         },
         {
-          "name": "Valentina Marentes",
-          "url": "https://open.spotify.com/artist/2quK2WgFo26pueFzJRrb5x"
+          "name": "Guillaume Pouget",
+          "url": "https://open.spotify.com/artist/68aVRNEtPd31Qmo77iGojE"
         }
       ],
-      "duration_ms": 403365,
-      "name": "Era La Luz De Abril",
-      "url": "https://open.spotify.com/track/4BcjeQiwliBHPVoqZAPmEc"
+      "duration_ms": 127240,
+      "name": "Suite Yusef Lateef",
+      "url": "https://open.spotify.com/track/0AkwnLhfQNazmhFaWQ9unK"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -557,24 +557,24 @@
       "url": "https://open.spotify.com/track/11DHmnBqBjuGyDFvYbriWn"
     },
     {
-      "added_at": "2022-03-30 03:01:09",
+      "added_at": "2022-08-16 16:23:25",
       "album": {
-        "name": "Kumoi",
-        "url": "https://open.spotify.com/album/2qLAtuAVOqy3KXRhLb7bsU"
+        "name": "Cronolog\u00edas",
+        "url": "https://open.spotify.com/album/7bCzc6xDFgVGpVXyEJ26gK"
       },
       "artists": [
         {
-          "name": "Nacho Maldonado",
-          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
+          "name": "Xalapa Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/5IWPXtD7sSSNEJQiskp96F"
         },
         {
-          "name": "Guillaume Pouget",
-          "url": "https://open.spotify.com/artist/68aVRNEtPd31Qmo77iGojE"
+          "name": "Valentina Marentes",
+          "url": "https://open.spotify.com/artist/2quK2WgFo26pueFzJRrb5x"
         }
       ],
-      "duration_ms": 127240,
-      "name": "Suite Yusef Lateef",
-      "url": "https://open.spotify.com/track/0AkwnLhfQNazmhFaWQ9unK"
+      "duration_ms": 403365,
+      "name": "Era La Luz De Abril",
+      "url": "https://open.spotify.com/track/4BcjeQiwliBHPVoqZAPmEc"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -723,6 +723,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Retazos",
+        "url": "https://open.spotify.com/album/671dTPcf4XRmzfCWTMgGAb"
+      },
+      "artists": [
+        {
+          "name": "Donna Pierrot",
+          "url": "https://open.spotify.com/artist/557yY63lk0c4El1sfFiroj"
+        }
+      ],
+      "duration_ms": 269080,
+      "name": "M\u00e1s All\u00e1",
+      "url": "https://open.spotify.com/track/6PvNfcKE6gzNR7UfJoWXfp"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "So\u00f1e - Jazz Mexicano",
         "url": "https://open.spotify.com/album/1d4BQoieyMuga0PEjsdcB6"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 266866,
       "name": "La Cocola",
       "url": "https://open.spotify.com/track/2XxyE2LiLidlNXuoYpczZA"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Jazz",
-        "url": "https://open.spotify.com/album/5UlTOip0x8FRlBjf3hSNtv"
-      },
-      "artists": [
-        {
-          "name": "Chucho Zarzosa Y Su Conjunto",
-          "url": "https://open.spotify.com/artist/5rX3FXPe4kE1fJNCQhlJ3E"
-        }
-      ],
-      "duration_ms": 157586,
-      "name": "Tipitipit\u00edn",
-      "url": "https://open.spotify.com/track/17QiAjaQ2uGVY7aLEfPmoj"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -771,18 +771,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Retazos",
-        "url": "https://open.spotify.com/album/671dTPcf4XRmzfCWTMgGAb"
+        "name": "Jazz",
+        "url": "https://open.spotify.com/album/5UlTOip0x8FRlBjf3hSNtv"
       },
       "artists": [
         {
-          "name": "Donna Pierrot",
-          "url": "https://open.spotify.com/artist/557yY63lk0c4El1sfFiroj"
+          "name": "Chucho Zarzosa Y Su Conjunto",
+          "url": "https://open.spotify.com/artist/5rX3FXPe4kE1fJNCQhlJ3E"
         }
       ],
-      "duration_ms": 269080,
-      "name": "M\u00e1s All\u00e1",
-      "url": "https://open.spotify.com/track/6PvNfcKE6gzNR7UfJoWXfp"
+      "duration_ms": 157586,
+      "name": "Tipitipit\u00edn",
+      "url": "https://open.spotify.com/track/17QiAjaQ2uGVY7aLEfPmoj"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -799,42 +799,6 @@
       "duration_ms": 393786,
       "name": "La Cigarra",
       "url": "https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Cuenta Conmigo (feat. Oscar Stagnaro)",
-        "url": "https://open.spotify.com/album/7zMYmzZ13y8t7aNnBsf9nz"
-      },
-      "artists": [
-        {
-          "name": "Dannah Garay",
-          "url": "https://open.spotify.com/artist/0ONqwOtVeroTjzKmvdBqHK"
-        },
-        {
-          "name": "Oscar Stagnaro",
-          "url": "https://open.spotify.com/artist/6Vf5cM3kgPJWrDKoi1ONb3"
-        }
-      ],
-      "duration_ms": 217840,
-      "name": "Deb\u00ed Llorar",
-      "url": "https://open.spotify.com/track/4BLmvUSPSwfMA09mp9Hp14"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Musica Infinita",
-        "url": "https://open.spotify.com/album/6SHD6qw4U5U86ykMZ8debZ"
-      },
-      "artists": [
-        {
-          "name": "Tino Contreras",
-          "url": "https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX"
-        }
-      ],
-      "duration_ms": 283841,
-      "name": "Orbita 13",
-      "url": "https://open.spotify.com/track/4NPDdpevt8WomYqBSuu8dO"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -859,6 +823,42 @@
       "duration_ms": 428720,
       "name": "Once I Loved",
       "url": "https://open.spotify.com/track/3NNk5X50Cf1BuGXLedKv5K"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Musica Infinita",
+        "url": "https://open.spotify.com/album/6SHD6qw4U5U86ykMZ8debZ"
+      },
+      "artists": [
+        {
+          "name": "Tino Contreras",
+          "url": "https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX"
+        }
+      ],
+      "duration_ms": 283841,
+      "name": "Orbita 13",
+      "url": "https://open.spotify.com/track/4NPDdpevt8WomYqBSuu8dO"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Cuenta Conmigo (feat. Oscar Stagnaro)",
+        "url": "https://open.spotify.com/album/7zMYmzZ13y8t7aNnBsf9nz"
+      },
+      "artists": [
+        {
+          "name": "Dannah Garay",
+          "url": "https://open.spotify.com/artist/0ONqwOtVeroTjzKmvdBqHK"
+        },
+        {
+          "name": "Oscar Stagnaro",
+          "url": "https://open.spotify.com/artist/6Vf5cM3kgPJWrDKoi1ONb3"
+        }
+      ],
+      "duration_ms": 217840,
+      "name": "Deb\u00ed Llorar",
+      "url": "https://open.spotify.com/track/4BLmvUSPSwfMA09mp9Hp14"
     },
     {
       "added_at": "2021-07-28 16:44:28",

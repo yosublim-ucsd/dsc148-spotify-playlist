@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmhGAhbrFb3.md) - [plain]
 
 > Música ambiental para noches tranquilas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 537,091 likes - 300 songs - 14 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 537,099 likes - 300 songs - 14 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmhGAhbrFb3.md) - [plain]
 | 9 | [Epiphany](https://open.spotify.com/track/7etqolbqNqTmybDTIN77pt) | [Aari Kumar](https://open.spotify.com/artist/5u8vwlOeUEwxaklbfP6cnG) | [Epiphany](https://open.spotify.com/album/3QhvbpLgFT2pHsxdirqLW7) | 2:52 |
 | 10 | [Evermore](https://open.spotify.com/track/5S2fFnqCM8jYc4GL6k8dWK) | [Aari Kumar](https://open.spotify.com/artist/5u8vwlOeUEwxaklbfP6cnG) | [Evermore](https://open.spotify.com/album/0GqhgQEET7SJTiFydo3Svp) | 2:53 |
 | 11 | [Reveries](https://open.spotify.com/track/0unE46V2r2KwTpDudlVegD) | [Casiamty](https://open.spotify.com/artist/4MkWDFm702DiQ6TYCdFyh0) | [Reveries](https://open.spotify.com/album/1CC59d47Bf4TXiinaQILrf) | 2:49 |
-| 12 | [Momenti](https://open.spotify.com/track/5f5kXzWQutNq2FAcRNwY8I) | [Momenti](https://open.spotify.com/artist/033LMiTBVqCY9QjIyBTemd) | [Aamina Russo](https://open.spotify.com/album/0rUu4FTSdGBVwr4x4Gxr6I) | 3:12 |
+| 12 | [Momenti](https://open.spotify.com/track/5f5kXzWQutNq2FAcRNwY8I) | [Momenti](https://open.spotify.com/artist/033LMiTBVqCY9QjIyBTemd) | [Momenti](https://open.spotify.com/album/0rUu4FTSdGBVwr4x4Gxr6I) | 3:12 |
 | 13 | [Midway](https://open.spotify.com/track/2kTv2khALDAQLexccNt7Ik) | [Marlowe Coleman](https://open.spotify.com/artist/19Ezl9iEvMupXpC5XMgZBR) | [Midway](https://open.spotify.com/album/2ZB8ydKdh58ricHGdb8eN9) | 3:33 |
 | 14 | [Bywyd](https://open.spotify.com/track/2C1IIUSDxqBsNr3k772BdT) | [Carwyn](https://open.spotify.com/artist/07xmi3luGn1Zgl4LbQs9i3) | [Bywyd](https://open.spotify.com/album/10SpdrXvHP9hQjJVOW5jft) | 2:21 |
 | 15 | [Gentle Caress](https://open.spotify.com/track/1jdDQ30GtvIFNYzwJnVvzx) | [Gordo Napalma](https://open.spotify.com/artist/29rhAtl6ikj08cVQFkwcJ9) | [Emerge](https://open.spotify.com/album/2tMloKTRnzbODBU5sPQyG6) | 2:35 |

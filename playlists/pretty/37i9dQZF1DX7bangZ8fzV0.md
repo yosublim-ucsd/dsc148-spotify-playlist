@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7?si=2B0znxhWQXSVqpHhurbo6g">Riaan Benadé</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,147 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,253 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2187,6 +2187,28 @@
     },
     {
       "album": {
+        "name": "Escapism.",
+        "url": "https://open.spotify.com/album/4parxQfGC25WtlVVAm5S9q"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239888,
+      "name": "Escapism. - Sped Up",
+      "url": "https://open.spotify.com/track/3XCpS4k8WqNnCpcDOSRRuz"
+    },
+    {
+      "album": {
         "name": "Escapism. (Sped Up)",
         "url": "https://open.spotify.com/album/1bdKI997loh6G68NED2cwX"
       },
@@ -2202,7 +2224,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 239888,
       "name": "Escapism. - Sped Up",
       "url": "https://open.spotify.com/track/4rPJSqrov3zqGwXlemLBMw"

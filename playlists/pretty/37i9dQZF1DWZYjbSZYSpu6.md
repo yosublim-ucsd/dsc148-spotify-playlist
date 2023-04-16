@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 
 > Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: LAS, Miyeon\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,147 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,239 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 | 38 | [The Moon \(Feat\. TAEIL of NCT\)](https://open.spotify.com/track/6Qfhu8fcLSY8Tw7syG8hdK) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [TAEIL](https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq) | [The Moon \(Feat\. TAEIL of NCT\)](https://open.spotify.com/album/6NfkVXBrjpR9JG69VOg52G) | 2:42 |
 | 39 | [Ordinary Love](https://open.spotify.com/track/1enx9LPZrXxaVVBxas5rRm) | [Park Kyung](https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j), [Park Boram](https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi) | [Ordinary Love](https://open.spotify.com/album/6nI5vvp4jsLHC9M55PTqDE) | 3:52 |
 | 40 | [봄인가 봐 Spring Love](https://open.spotify.com/track/6YOXdy9jShw66iOnBzQMKv) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [봄인가 봐 Spring Love \- SM STATION](https://open.spotify.com/album/1DzMyEZcFmD72jdkp4O73D) | 3:18 |
-| 41 | [Cave Me In](https://open.spotify.com/track/79ptYtWnpAnsQutzg2xSFk) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Cave Me In](https://open.spotify.com/album/3no6YVGaUUBPQjfeUbajXL) | 3:34 |
-| 42 | [Waves \(feat\. Simon Dominic & Jamie\)](https://open.spotify.com/track/6fXesHsuCFf80vYzDP26J5) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [Waves \(feat\. Simon Dominic & Jamie\)](https://open.spotify.com/album/5ZwfFVBuxVS2lbbDR8vtDk) | 2:44 |
+| 41 | [Waves \(feat\. Simon Dominic & Jamie\)](https://open.spotify.com/track/6fXesHsuCFf80vYzDP26J5) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [Waves \(feat\. Simon Dominic & Jamie\)](https://open.spotify.com/album/5ZwfFVBuxVS2lbbDR8vtDk) | 2:44 |
+| 42 | [Cave Me In](https://open.spotify.com/track/79ptYtWnpAnsQutzg2xSFk) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Cave Me In](https://open.spotify.com/album/3no6YVGaUUBPQjfeUbajXL) | 3:34 |
 | 43 | [This Night \(feat\. Blue.D, Jhnovr\)](https://open.spotify.com/track/626C6JMdKevCTv10pLeHJf) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Blue.D](https://open.spotify.com/artist/0rK0ZPLX4fKnFSbqs6gYfY), [Jhnovr](https://open.spotify.com/artist/4GqXWudNdgIhuDnYHFnQez) | [THIS NIGHT](https://open.spotify.com/album/4XPkeXge5bJLJsGCpJ1nVi) | 3:35 |
 | 44 | [A little bit more](https://open.spotify.com/track/7zQfolCu9NJF1M8rwPOERI) | [JINHO](https://open.spotify.com/artist/3hFLEV38JDeNr3L0HIkeG0), [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Whats wrong with secretary kim OST Part.4](https://open.spotify.com/album/52fLYrQxllSI9fJOp0lS3I) | 3:24 |
 | 45 | [Let Me Go \(with TAEYEON\)](https://open.spotify.com/track/0W1BHowUDWND1AIQU6nUbD) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [with HER](https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 | 49 | [Airport Goodbyes \(Prod\. The Black Skirts\)](https://open.spotify.com/track/6JwLranFvCuvv6PmE2ExyN) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Airport Goodbyes](https://open.spotify.com/album/1QfoitDnFtn4e4UmGYdi4i) | 4:07 |
 | 50 | [one summer](https://open.spotify.com/track/7EAkXA5TvfYOYE9EzE3mtc) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [one summer](https://open.spotify.com/album/1dSFPUYpKZiSdBb4jonPPK) | 3:59 |
 
-Snapshot ID: `MTY4MDk1MDYzNCwwMDAwMDAwMDBlMjA0ZTg0NzRjYzUyNTgyMGU1NGYwNWJhN2VhOTZj`
+Snapshot ID: `MTY4MDk1MDYzNCwwMDAwMDAwMGE1OWM2OTA2MmE2N2VlZjI5YjY2ZDU0MjhmNGJkMDQz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 
 > Concentrate con el aire de la cordillera de los Andes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,969 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,986 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 | 18 | [Boquerón Abandonado](https://open.spotify.com/track/0ECth7Ix1HakMkZVOWDALf) | [Savia Andina](https://open.spotify.com/artist/0hkFv9719WLJ2uupZTn0ru) | [Lo Mejor de Savia Andina \(Música Boliviana\)](https://open.spotify.com/album/3TThUIkeWMC62bZdIdYeV9) | 3:34 |
 | 19 | [Nada](https://open.spotify.com/track/0IqrBjsS2wToMuIJgZjur7) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Li Saumet](https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw) | [Nada](https://open.spotify.com/album/6uvd9g2I5M3x6EaKusdJDK) | 4:58 |
 | 20 | [Caracol](https://open.spotify.com/track/79O6v0FVZHJS7QbQZ0XHBY) | [Tremor](https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD) | [Viajante](https://open.spotify.com/album/3G3M3Tuo24paVJxC3lGMHJ) | 4:10 |
-| 21 | [Wipala](https://open.spotify.com/track/7uxmsieVovltullEN2B8QU) | [Gonzalo Vargas](https://open.spotify.com/artist/2uo6i3LKZWHgYqpy9LM7fJ), [Inkuyo](https://open.spotify.com/artist/6l0qnbpSfHw1vk6tQUquDt) | [Land of the Incas \(Music of the Andes\)](https://open.spotify.com/album/5eRW6MRpmkK1jLgZGxEjAn) | 5:08 |
-| 22 | [Venganza](https://open.spotify.com/track/4KoUXNSCBNWkUAOm09q4vq) | [TOURISTA](https://open.spotify.com/artist/5gOlm0kBmadY4qgw4UssxM) | [Fantasmas](https://open.spotify.com/album/0yEwuhTDgOxUNzzzkFsgr0) | 3:33 |
+| 21 | [Venganza](https://open.spotify.com/track/4KoUXNSCBNWkUAOm09q4vq) | [TOURISTA](https://open.spotify.com/artist/5gOlm0kBmadY4qgw4UssxM) | [Fantasmas](https://open.spotify.com/album/0yEwuhTDgOxUNzzzkFsgr0) | 3:33 |
+| 22 | [Wipala](https://open.spotify.com/track/7uxmsieVovltullEN2B8QU) | [Gonzalo Vargas](https://open.spotify.com/artist/2uo6i3LKZWHgYqpy9LM7fJ), [Inkuyo](https://open.spotify.com/artist/6l0qnbpSfHw1vk6tQUquDt) | [Land of the Incas \(Music of the Andes\)](https://open.spotify.com/album/5eRW6MRpmkK1jLgZGxEjAn) | 5:08 |
 | 23 | [La Cazadora](https://open.spotify.com/track/4QHLlJYsUWCoRkRaUFYIhP) | [Tonolec](https://open.spotify.com/artist/5Uy8OMbe8iXQFXQ3qlaYT5) | [Acústico](https://open.spotify.com/album/1L7X3TMHXuB8XSOZpdkxAc) | 5:13 |
 | 24 | [Religar](https://open.spotify.com/track/2wjx4ZP54RfWN479QH5UCK) | [Mateo Kingman](https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx) | [Astro](https://open.spotify.com/album/79WFnNXKctYYSwJxas6AI8) | 3:36 |
 | 25 | [Tiwanacu](https://open.spotify.com/track/3NO8H307ShIWN71ifxTnAN) | [Maya Andina](https://open.spotify.com/artist/3Rd5uZJK7LV9xnCDIsUxYU) | [Amor Ardiente \(Bolivia y Su Folklore\)](https://open.spotify.com/album/28ekMoSZk09F8bWYeO3O2c) | 3:35 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 | 45 | [Vírgenes del Sol](https://open.spotify.com/track/48TL83NPwQdSvaFATmjKPn) | [Inkaquenas](https://open.spotify.com/artist/1CY0y4SPtpah9aHkA1yog3) | [Viento en los Andes](https://open.spotify.com/album/4irQteHtIYmZJ8dVlPHCIF) | 3:38 |
 | 46 | [Gente Mariposa](https://open.spotify.com/track/5x214mzuu4GqHBCLIVJkDk) | [Minuk](https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn) | [Aurora](https://open.spotify.com/album/4C0QSVsIVjfwsWVw2NKLl7) | 5:17 |
 | 47 | [Sunch'u T'ikitay \- Remastered](https://open.spotify.com/track/1kuH31to6yBPXaAvVUmisu) | [Los Kjarkas](https://open.spotify.com/artist/0tkboyBYNymYytYlb9EXkN) | [Lo Mejor de los Kjarkas](https://open.spotify.com/album/4AioSjCy9kSATUkERbkzo9) | 3:36 |
-| 48 | [Ay Palomita](https://open.spotify.com/track/04p8PSA8qNyrrszfgLM6DD) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W) | [Ay Palomita](https://open.spotify.com/album/7DOyUoS0PJlkCjj7e8x7gk) | 6:31 |
-| 49 | [Puñales](https://open.spotify.com/track/3BwmTfERJwWMUvG5apznGa) | [LaTorre](https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ) | [Puñales](https://open.spotify.com/album/0cSX0iOE7K7oMx5SscLH3m) | 2:50 |
-| 50 | [No Me Quiero Doler](https://open.spotify.com/track/5yHQDlmQ4PJQR9CAFsdoMG) | [Arrabalero](https://open.spotify.com/artist/51gZ0KnXKT356BUJihiQCj), [Carlos Rizzi](https://open.spotify.com/artist/4dxrLUGRaBANAZdDXKt9I7) | [No Me Quiero Doler](https://open.spotify.com/album/0bxPIMdVzvOY31BxAqv6FQ) | 5:26 |
+| 48 | [Puñales](https://open.spotify.com/track/3BwmTfERJwWMUvG5apznGa) | [LaTorre](https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ) | [Puñales](https://open.spotify.com/album/0cSX0iOE7K7oMx5SscLH3m) | 2:50 |
+| 49 | [Eso Que Tu Haces](https://open.spotify.com/track/3KXaCW6XnAJnon4VwwVJWY) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Eso Que Tu Haces](https://open.spotify.com/album/4JGmH3z4Hr3xhUEWvnAqz7) | 4:33 |
+| 50 | [Ay Palomita](https://open.spotify.com/track/04p8PSA8qNyrrszfgLM6DD) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W) | [Ay Palomita](https://open.spotify.com/album/7DOyUoS0PJlkCjj7e8x7gk) | 6:31 |
 
-Snapshot ID: `MTY3NjYxMzQ4MCwwMDAwMDAwMDE5Yjk4MmY0MjI2MDBhOWU1ZGU5MGVhMjcwZjg4YTIz`
+Snapshot ID: `MTY3NjYxMzQ4MCwwMDAwMDAwMDQ3YzE5NzYzNTBhNGVlOTI4Zjg4OGI0MmJiNmNmMDY3`

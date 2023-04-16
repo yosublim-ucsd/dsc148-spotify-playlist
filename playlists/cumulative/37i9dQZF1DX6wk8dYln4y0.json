@@ -348,7 +348,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-15",
+      "date_removed": null,
       "duration_ms": 164533,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/51Zw1cKDgkad0CXv23HCMU"
@@ -366,7 +366,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 306655,
       "name": "DEATH",
       "url": "https://open.spotify.com/track/3PzeZR8CqtwXmSn5AVao7J"
@@ -1088,6 +1088,24 @@
       "duration_ms": 153946,
       "name": "Kill Bill",
       "url": "https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8"
+    },
+    {
+      "album": {
+        "name": "labour",
+        "url": "https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237744,
+      "name": "labour",
+      "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
     },
     {
       "album": {
@@ -1828,7 +1846,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 164629,
       "name": "WORTH NOTHING - Fast & Furious: Drift Tape/Phonk Vol 1",
       "url": "https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB"

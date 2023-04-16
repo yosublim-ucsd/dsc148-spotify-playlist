@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o sertaneja para voc\u00ea curtir a sua paix\u00e3o sem limites.",
-  "num_followers": 902556,
+  "num_followers": 903194,
   "original_name": "Paix\u00e3o Bandida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDgzNjU4MCwwMDAwMDAwMDEwZDkwOGQ4NzRiNDM4OWQwYWRmZDA4ZjYxNDExMjdl",
+  "snapshot_id": "MTY4MDgzNjU4MCwwMDAwMDAwMGZiYmU4ZDMzMDE4OWJjNTMwNmE4NTlmZGE2Zjk5NDQz",
   "tracks": [
     {
       "added_at": "2023-04-07 03:03:00",
@@ -247,26 +247,6 @@
     {
       "added_at": "2023-04-07 03:03:00",
       "album": {
-        "name": "Eu Nunca Fui (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3H4aDTT9MmDdYCkrwiczJf"
-      },
-      "artists": [
-        {
-          "name": "Lucas Lucco",
-          "url": "https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw"
-        },
-        {
-          "name": "Hungria Hip Hop",
-          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
-        }
-      ],
-      "duration_ms": 162260,
-      "name": "Eu Nunca Fui - Ao Vivo",
-      "url": "https://open.spotify.com/track/3gqzwytSXoWI8xgRloB6WL"
-    },
-    {
-      "added_at": "2023-04-07 03:03:00",
-      "album": {
         "name": "Ao Vivo Em Goi\u00e2nia",
         "url": "https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 196379,
       "name": "Facas - Ao Vivo",
       "url": "https://open.spotify.com/track/1ere9b9vDw2N3m9d4uiXxa"
+    },
+    {
+      "added_at": "2023-04-07 03:03:00",
+      "album": {
+        "name": "Eu Nunca Fui (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3H4aDTT9MmDdYCkrwiczJf"
+      },
+      "artists": [
+        {
+          "name": "Lucas Lucco",
+          "url": "https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw"
+        },
+        {
+          "name": "Hungria Hip Hop",
+          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+        }
+      ],
+      "duration_ms": 162260,
+      "name": "Eu Nunca Fui - Ao Vivo",
+      "url": "https://open.spotify.com/track/3gqzwytSXoWI8xgRloB6WL"
     },
     {
       "added_at": "2023-04-07 03:03:00",
@@ -427,18 +427,18 @@
     {
       "added_at": "2023-04-07 03:03:00",
       "album": {
-        "name": "Beijo B\u00eabado",
-        "url": "https://open.spotify.com/album/470aKYBGvnxmnTp9ewZQtW"
+        "name": "Novas Hist\u00f3rias (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4pUsKJjeqLi99MZbRKD03U"
       },
       "artists": [
         {
-          "name": "Jonas Esticado",
-          "url": "https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag"
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
         }
       ],
-      "duration_ms": 168521,
-      "name": "Beijo B\u00eabado",
-      "url": "https://open.spotify.com/track/3BigzTTQfP3xSLPKATYSop"
+      "duration_ms": 163913,
+      "name": "Como \u00c9 Que A Gente Fica - Ao Vivo",
+      "url": "https://open.spotify.com/track/0zxWyvrKyz031tFfBnkYLr"
     },
     {
       "added_at": "2023-04-07 03:03:00",
@@ -463,18 +463,22 @@
     {
       "added_at": "2023-04-07 03:03:00",
       "album": {
-        "name": "Novas Hist\u00f3rias (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4pUsKJjeqLi99MZbRKD03U"
+        "name": "Len\u00e7ol Dobrado",
+        "url": "https://open.spotify.com/album/39vanCalSWRrvIEOWdyxPY"
       },
       "artists": [
         {
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+          "name": "Jo\u00e3o Gustavo e Murilo",
+          "url": "https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl"
+        },
+        {
+          "name": "Analaga",
+          "url": "https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v"
         }
       ],
-      "duration_ms": 163913,
-      "name": "Como \u00c9 Que A Gente Fica - Ao Vivo",
-      "url": "https://open.spotify.com/track/0zxWyvrKyz031tFfBnkYLr"
+      "duration_ms": 179164,
+      "name": "Len\u00e7ol Dobrado",
+      "url": "https://open.spotify.com/track/72xB2J9ZeBl0Rzxq2XmzdY"
     },
     {
       "added_at": "2023-04-07 03:03:00",
@@ -527,22 +531,18 @@
     {
       "added_at": "2023-04-07 03:03:00",
       "album": {
-        "name": "Len\u00e7ol Dobrado",
-        "url": "https://open.spotify.com/album/39vanCalSWRrvIEOWdyxPY"
+        "name": "Beijo B\u00eabado",
+        "url": "https://open.spotify.com/album/470aKYBGvnxmnTp9ewZQtW"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Gustavo e Murilo",
-          "url": "https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl"
-        },
-        {
-          "name": "Analaga",
-          "url": "https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v"
+          "name": "Jonas Esticado",
+          "url": "https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag"
         }
       ],
-      "duration_ms": 179164,
-      "name": "Len\u00e7ol Dobrado",
-      "url": "https://open.spotify.com/track/72xB2J9ZeBl0Rzxq2XmzdY"
+      "duration_ms": 168521,
+      "name": "Beijo B\u00eabado",
+      "url": "https://open.spotify.com/track/3BigzTTQfP3xSLPKATYSop"
     },
     {
       "added_at": "2023-04-07 03:03:00",
@@ -567,18 +567,18 @@
     {
       "added_at": "2023-04-07 03:03:00",
       "album": {
-        "name": "O C\u00e9u Explica Tudo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6UuPk9eKMZBEr0HizvV2Wy"
+        "name": "3 Batidas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2s2XNO2C38JP3NVOp8zkm4"
       },
       "artists": [
         {
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
         }
       ],
-      "duration_ms": 163089,
-      "name": "De Tr\u00e1s Pra Frente - Ao Vivo",
-      "url": "https://open.spotify.com/track/6Tp4LCJ5r5IJaEf8lnlPfG"
+      "duration_ms": 157186,
+      "name": "3 Batidas - Ao Vivo",
+      "url": "https://open.spotify.com/track/1uryupl9hqVZYurJwH4G9k"
     },
     {
       "added_at": "2023-04-07 03:03:00",
@@ -599,18 +599,18 @@
     {
       "added_at": "2023-04-07 03:03:00",
       "album": {
-        "name": "3 Batidas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2s2XNO2C38JP3NVOp8zkm4"
+        "name": "O C\u00e9u Explica Tudo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6UuPk9eKMZBEr0HizvV2Wy"
       },
       "artists": [
         {
-          "name": "Guilherme & Benuto",
-          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
         }
       ],
-      "duration_ms": 157186,
-      "name": "3 Batidas - Ao Vivo",
-      "url": "https://open.spotify.com/track/1uryupl9hqVZYurJwH4G9k"
+      "duration_ms": 163089,
+      "name": "De Tr\u00e1s Pra Frente - Ao Vivo",
+      "url": "https://open.spotify.com/track/6Tp4LCJ5r5IJaEf8lnlPfG"
     },
     {
       "added_at": "2023-04-07 03:03:00",
@@ -647,6 +647,22 @@
     {
       "added_at": "2023-04-07 03:03:00",
       "album": {
+        "name": "Querosene e o Viol\u00e3o",
+        "url": "https://open.spotify.com/album/6gbvsAZViRa9rIq0GjfQbp"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        }
+      ],
+      "duration_ms": 161403,
+      "name": "Infarto",
+      "url": "https://open.spotify.com/track/0XEJ7eph2IWFYZc73Jm3n2"
+    },
+    {
+      "added_at": "2023-04-07 03:03:00",
+      "album": {
         "name": "Por Inteiro (Ao Vivo)",
         "url": "https://open.spotify.com/album/72SOxntkBoOczJaepEqb1O"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 179100,
       "name": "Espa\u00e7osa Demais - Ao Vivo",
       "url": "https://open.spotify.com/track/4frNT1Vw4MbKbS1ngKodkv"
-    },
-    {
-      "added_at": "2023-04-07 03:03:00",
-      "album": {
-        "name": "No Pelo 3, Pt. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3IfMlmwvbnO0yPVTNCnwAb"
-      },
-      "artists": [
-        {
-          "name": "Hugo & Guilherme",
-          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
-        }
-      ],
-      "duration_ms": 173226,
-      "name": "Cora\u00e7\u00e3o Na Cama - Ao Vivo",
-      "url": "https://open.spotify.com/track/2nZj5YymF54qhAu7RneVP6"
     },
     {
       "added_at": "2023-04-07 03:03:00",
@@ -699,22 +699,18 @@
     {
       "added_at": "2023-04-07 03:03:00",
       "album": {
-        "name": "O Alvo (feat. Henrique & Juliano) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/3yprBTFIy7DnJCHnMDifRv"
+        "name": "No Pelo 3, Pt. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3IfMlmwvbnO0yPVTNCnwAb"
       },
       "artists": [
         {
-          "name": "Diego & Victor Hugo",
-          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
-        },
-        {
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+          "name": "Hugo & Guilherme",
+          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
         }
       ],
-      "duration_ms": 164956,
-      "name": "O Alvo (feat. Henrique & Juliano) - Ao Vivo",
-      "url": "https://open.spotify.com/track/5Vw6ZLNB6Ko7VZM6vmNIbr"
+      "duration_ms": 173226,
+      "name": "Cora\u00e7\u00e3o Na Cama - Ao Vivo",
+      "url": "https://open.spotify.com/track/2nZj5YymF54qhAu7RneVP6"
     },
     {
       "added_at": "2023-04-07 03:03:00",
@@ -767,6 +763,26 @@
     {
       "added_at": "2023-04-07 03:03:00",
       "album": {
+        "name": "O Alvo (feat. Henrique & Juliano) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/3yprBTFIy7DnJCHnMDifRv"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        },
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "duration_ms": 164956,
+      "name": "O Alvo (feat. Henrique & Juliano) - Ao Vivo",
+      "url": "https://open.spotify.com/track/5Vw6ZLNB6Ko7VZM6vmNIbr"
+    },
+    {
+      "added_at": "2023-04-07 03:03:00",
+      "album": {
         "name": "Ferida Curada",
         "url": "https://open.spotify.com/album/4S428p1Dl0B5QShuR6FBMu"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 159164,
       "name": "Ferida Curada",
       "url": "https://open.spotify.com/track/1U3tv41tFRgOfbytpuYQrR"
-    },
-    {
-      "added_at": "2023-04-07 03:03:00",
-      "album": {
-        "name": "Pulei na Piscina (Ao Vivo)",
-        "url": "https://open.spotify.com/album/59wHxqp3FE5gfK0l4wAIc8"
-      },
-      "artists": [
-        {
-          "name": "Guilherme & Benuto",
-          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
-        }
-      ],
-      "duration_ms": 181846,
-      "name": "Pulei na Piscina - Ao Vivo",
-      "url": "https://open.spotify.com/track/1uA7fD01YlQr1Rm0oyNB4H"
     },
     {
       "added_at": "2023-04-07 03:03:00",
@@ -815,38 +815,18 @@
     {
       "added_at": "2023-04-07 03:03:00",
       "album": {
-        "name": "Buteco do Gusttavo Lima, Vol. 2",
-        "url": "https://open.spotify.com/album/1quJKGITMBDF2S4x0Zl2Vn"
+        "name": "Pulei na Piscina (Ao Vivo)",
+        "url": "https://open.spotify.com/album/59wHxqp3FE5gfK0l4wAIc8"
       },
       "artists": [
         {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
         }
       ],
-      "duration_ms": 199701,
-      "name": "Apelido Carinhoso",
-      "url": "https://open.spotify.com/track/5xYsacjSZrSYJQDacIs0tq"
-    },
-    {
-      "added_at": "2023-04-07 03:03:00",
-      "album": {
-        "name": "Eu E Voc\u00ea De Novo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4eQySBYcXPvtkYXkbsGpin"
-      },
-      "artists": [
-        {
-          "name": "Edson & Hudson",
-          "url": "https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl"
-        },
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 201440,
-      "name": "Deixa Eu Te Amar - Ao Vivo",
-      "url": "https://open.spotify.com/track/1OYJlZVDrTsA6EJzf78fQp"
+      "duration_ms": 181846,
+      "name": "Pulei na Piscina - Ao Vivo",
+      "url": "https://open.spotify.com/track/1uA7fD01YlQr1Rm0oyNB4H"
     },
     {
       "added_at": "2023-04-07 03:03:00",
@@ -863,6 +843,22 @@
       "duration_ms": 188309,
       "name": "Amor Da Sua Cama",
       "url": "https://open.spotify.com/track/5rq31V6YJVklhB7HxXn9I8"
+    },
+    {
+      "added_at": "2023-04-07 03:03:00",
+      "album": {
+        "name": "Buteco do Gusttavo Lima, Vol. 2",
+        "url": "https://open.spotify.com/album/1quJKGITMBDF2S4x0Zl2Vn"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "duration_ms": 199701,
+      "name": "Apelido Carinhoso",
+      "url": "https://open.spotify.com/track/5xYsacjSZrSYJQDacIs0tq"
     }
   ],
   "unique_name": "Paix\u00e3o Bandida",

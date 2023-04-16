@@ -4,7 +4,7 @@
 
 > Chill, take a long walk and clear your mind
 
-51 songs - 2 hr 58 min
+52 songs - 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [Ambia](https://open.spotify.com/track/5DTLXU7HQ9PhNm6w7l8eZa) | [Billy Black](https://open.spotify.com/artist/6znLUPGYNDVG3VoMH5UXUU) | [Ambia](https://open.spotify.com/album/6Wg6JpSlFn2VdeFFQj5xzn) | 2:16 | 2022-11-11 |  |
 | [Asali](https://open.spotify.com/track/0RDjgKJuFxZVUk93ov59o6) | [Ethan Muziki](https://open.spotify.com/artist/0pwc18AOKnFRwTqHu50jbn), [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Love Language](https://open.spotify.com/album/1vF0nqkfedSTlQrXh0Feoa) | 3:03 | 2022-11-11 |  |
 | [Blinding Blocks Incorporated \(BBI\)](https://open.spotify.com/track/5EMLJj0bq2bYeVW2UCd62D) | [Dorphanage](https://open.spotify.com/artist/0lLs1XSa8ZCeAkOz91UgnN), [Zawadi](https://open.spotify.com/artist/0qdTYFtnAgZVgZqKMX3jnQ) | [Blinding Blocks Incorporated \(BBI\)](https://open.spotify.com/album/4VhCyAOTmopRYaiJpKpEM5) | 5:55 | 2022-11-11 |  |
-| [Bright Outside](https://open.spotify.com/track/1zUdoJf7QiUx9fvCDzz4Qq) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Elani Boshoff](https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9) | [Bright Outside](https://open.spotify.com/album/66dHkOodHx6Bnm566qPrwx) | 2:12 | 2022-11-11 |  |
+| [Bright Outside](https://open.spotify.com/track/1zUdoJf7QiUx9fvCDzz4Qq) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Elani Boshoff](https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9) | [Bright Outside](https://open.spotify.com/album/66dHkOodHx6Bnm566qPrwx) | 2:12 | 2022-11-11 | 2023-04-16 |
+| [Bright Outside](https://open.spotify.com/track/4cuhSC70d2pVMkgiQXQNd9) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Elani Boshoff](https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9) | [Bright Outside](https://open.spotify.com/album/0rTeZFpcIKYjfp3sMLsiDM) | 2:12 | 2022-11-11 |  |
 | [Can't Get Enough](https://open.spotify.com/track/553jHYX9KWMe4ww9XnQSb9) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Can't Get Enough](https://open.spotify.com/album/7EHk9suPUmKdravDqbzrb2) | 3:57 | 2022-11-11 |  |
 | [CHANGES](https://open.spotify.com/track/7zbnpZxFc5xlqHvDr7bZE0) | [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [SAVAGE LEVEL](https://open.spotify.com/album/4PsVnXWUWZxtGddkxSX110) | 3:24 | 2022-11-11 |  |
 | [Compare](https://open.spotify.com/track/2308PKp1LrwpZwRMtW6bWn) | [Africanvic](https://open.spotify.com/artist/49TbpwxzixxceH2mXHXkby) | [Ex Chronicles](https://open.spotify.com/album/1SWq4D1CuKTVaURbKLOIQa) | 4:02 | 2022-11-11 |  |

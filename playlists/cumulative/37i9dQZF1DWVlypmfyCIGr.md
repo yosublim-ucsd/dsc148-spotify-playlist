@@ -4,7 +4,7 @@
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: GOOD BYE APRIL
 
-3,234 songs - 8 day 5 hr 55 min
+3,235 songs - 8 day 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,7 +229,8 @@
 | [Body & Soul](https://open.spotify.com/track/7z3UXxeCwswSGeP06o0MFq) | [Kishidan](https://open.spotify.com/artist/58WqD0AmJH03qw4AUN00Yx) | [SPEED 25th Anniversary TRIBUTE ALBUM "SPEED SPIRITS"](https://open.spotify.com/album/38LVR1VxkqimOGshy7BD9v) | 4:41 | 2021-11-16 | 2021-11-24 |
 | [Boi](https://open.spotify.com/track/10R7Djb6myvWfSGEsERTOI) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [Boi](https://open.spotify.com/album/5Xsomj7rG5iSv8Qk3qK6KR) | 2:55 | 2022-10-10 | 2022-10-18 |
 | [Bokurano](https://open.spotify.com/track/7F3R31tU4vNWrdsjNrURQX) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Bokurano](https://open.spotify.com/album/0dS6KlBzeDJQsWZ2Krmjhh) | 3:32 | 2023-01-16 | 2023-01-24 |
-| [Boogie Woogie](https://open.spotify.com/track/5cjc6nSoDwQSSYDpv1AEK5) | [BUCK\-TICK](https://open.spotify.com/artist/2DiecQcRbDuSJuSPKtirrX) | [Boogie Woogie](https://open.spotify.com/album/6wFmiLqNWEe3jvu5I9gZkJ) | 3:57 | 2023-04-10 |  |
+| [Boogie Woogie](https://open.spotify.com/track/2d4864DEKNKv2B1zkWiDuG) | [BUCK\-TICK](https://open.spotify.com/artist/2DiecQcRbDuSJuSPKtirrX) | [IZORA](https://open.spotify.com/album/7COwrUcqO3yWY4zXsdeXgI) | 3:57 | 2023-04-10 |  |
+| [Boogie Woogie](https://open.spotify.com/track/5cjc6nSoDwQSSYDpv1AEK5) | [BUCK\-TICK](https://open.spotify.com/artist/2DiecQcRbDuSJuSPKtirrX) | [Boogie Woogie](https://open.spotify.com/album/6wFmiLqNWEe3jvu5I9gZkJ) | 3:57 | 2023-04-10 | 2023-04-16 |
 | [BOUNCE DANCE \(Gigandect remix\)](https://open.spotify.com/track/1NtWcd0QR3GmHisfuHZIcr) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [Gigandect](https://open.spotify.com/artist/07ZBh32ACUO2zyqyxvcoyq) | [BOUNCE DANCE \(Gigandect remix\)](https://open.spotify.com/album/59B9GyLGjpm8xsmmaisVHs) | 3:11 | 2022-11-14 | 2022-11-30 |
 | [BOUNCE DANCE \(Tennyson remix\)](https://open.spotify.com/track/4J5mrbZvKAZE2yY6RqvsRb) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [Tennyson](https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8) | [BOUNCE DANCE\(Tennyson remix\)](https://open.spotify.com/album/0b9UYMUxvbb5qrxYy7C0UX) | 3:00 | 2022-10-03 | 2022-10-11 |
 | [BOY](https://open.spotify.com/track/3oQaOjaIYPsnJbGNzXcIID) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [BOY](https://open.spotify.com/album/2uBF1lnflUJBHLGvg2rEyI) | 3:51 | 2021-10-20 | 2021-10-27 |

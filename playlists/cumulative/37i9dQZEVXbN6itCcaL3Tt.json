@@ -3684,7 +3684,7 @@
       ],
       "date_added": "2021-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-14",
+      "date_removed": null,
       "duration_ms": 192760,
       "name": "California",
       "url": "https://open.spotify.com/track/2nFaT0t36H6UX3wN3Vxvjm"
@@ -5115,6 +5115,24 @@
     },
     {
       "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212953,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
+    },
+    {
+      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -5170,6 +5188,28 @@
       "duration_ms": 68760,
       "name": "Deck The Halls",
       "url": "https://open.spotify.com/track/0rHToGels2lt8Y0mCYoF90"
+    },
+    {
+      "album": {
+        "name": "Guten Tag",
+        "url": "https://open.spotify.com/album/5H44pdFOL98OX9IMDJiW3U"
+      },
+      "artists": [
+        {
+          "name": "Kronkel Dom",
+          "url": "https://open.spotify.com/artist/1dkyORGHN0TOmjzu5qCO45"
+        },
+        {
+          "name": "Kabe",
+          "url": "https://open.spotify.com/artist/4Q3xLVaD2uBZGVxmCYuSkt"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185357,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/3L1gvedBIsYak42Plm5vOv"
     },
     {
       "album": {
@@ -5892,7 +5932,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-15",
+      "date_removed": null,
       "duration_ms": 161986,
       "name": "Dominicana",
       "url": "https://open.spotify.com/track/3i92DxpAYGWfbxMW2gtUAS"
@@ -6496,6 +6536,32 @@
       "duration_ms": 143819,
       "name": "Dzisiaj w Betlejem",
       "url": "https://open.spotify.com/track/5X0dgSQh5z0rqq7Vw4qIOA"
+    },
+    {
+      "album": {
+        "name": "B&B Warsaw",
+        "url": "https://open.spotify.com/album/5mT7NXSS7Fgk3Iz1jCtLNU"
+      },
+      "artists": [
+        {
+          "name": "Kaz Ba\u0142agane",
+          "url": "https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT"
+        },
+        {
+          "name": "Diho",
+          "url": "https://open.spotify.com/artist/6PcYcDQ7UCL4U5PopumiWY"
+        },
+        {
+          "name": "m\u0142ody klakson",
+          "url": "https://open.spotify.com/artist/5OpbwO25KnXFv2nUYlMwOu"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193200,
+      "name": "Dzwony",
+      "url": "https://open.spotify.com/track/1gGDQqni54IHLqHQMjsuiT"
     },
     {
       "album": {
@@ -7279,6 +7345,28 @@
     },
     {
       "album": {
+        "name": "Forget You",
+        "url": "https://open.spotify.com/album/2R2x6ovmNARV2vz6WLcCF6"
+      },
+      "artists": [
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147986,
+      "name": "Forget You",
+      "url": "https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow"
+    },
+    {
+      "album": {
         "name": "Jeszcze 5 minut",
         "url": "https://open.spotify.com/album/4aagKgJSDrucEH6yTg3ZGK"
       },
@@ -7658,7 +7746,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 211643,
       "name": "Gladiator",
       "url": "https://open.spotify.com/track/0vbp3qthXlRVsLXTbPrkX1"
@@ -8604,7 +8692,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 148120,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/4fYte8ZvTK14NEhAOZocBi"
@@ -10192,7 +10280,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 208676,
       "name": "Je\u017cyk!",
       "url": "https://open.spotify.com/track/7jCy1opEtV4a0TnKrtsSdo"
@@ -10584,7 +10672,7 @@
       ],
       "date_added": "2022-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 185973,
       "name": "KETCHUP",
       "url": "https://open.spotify.com/track/1yiGGRGdHEc1F3jF5jEVmH"
@@ -10702,7 +10790,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 153946,
       "name": "Kill Bill",
       "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
@@ -11988,6 +12076,10 @@
         {
           "name": "INDEB",
           "url": "https://open.spotify.com/artist/6Nlyt1MUEBe1jN0h7F4hn0"
+        },
+        {
+          "name": "Phunk'ill",
+          "url": "https://open.spotify.com/artist/6jSShb0II1n6RNMCmqBSSM"
         }
       ],
       "date_added": "2023-04-01",
@@ -14124,7 +14216,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 130285,
       "name": "M\u0141ODY PADEREWSKI",
       "url": "https://open.spotify.com/track/05MYJf19LSo2E1lZ0RrMAC"

@@ -1,12 +1,12 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: selines",
-  "num_followers": 9377,
+  "num_followers": 9432,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMGVmNmRhZTkyNGU2NjkzMjgzMzdjMzFmMGVkODA5OTMw",
+  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDExNTEwNjljMjI1YjMxZDJlMTM1YzRhNDc1NzQwNDcw",
   "tracks": [
     {
       "added_at": "2023-04-14 04:00:00",
@@ -139,18 +139,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Mujer El\u00e9ctrica",
-        "url": "https://open.spotify.com/album/3sgIcq7sXDaw1patJDSd59"
+        "name": "El Conticinio",
+        "url": "https://open.spotify.com/album/1NcBeKgj4oQaecQiTr7F39"
       },
       "artists": [
         {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+          "name": "Guitarricadelafuente",
+          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
         }
       ],
-      "duration_ms": 113639,
-      "name": "Caf\u00e9 Con Leche",
-      "url": "https://open.spotify.com/track/6SfkPzqzG62lkvkyKJGUKY"
+      "duration_ms": 213993,
+      "name": "El Conticinio",
+      "url": "https://open.spotify.com/track/6dDhaHqJ3wUD3jbjGUBwzh"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -171,18 +171,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "El Conticinio",
-        "url": "https://open.spotify.com/album/1NcBeKgj4oQaecQiTr7F39"
+        "name": "Mujer El\u00e9ctrica",
+        "url": "https://open.spotify.com/album/3sgIcq7sXDaw1patJDSd59"
       },
       "artists": [
         {
-          "name": "Guitarricadelafuente",
-          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
         }
       ],
-      "duration_ms": 213993,
-      "name": "El Conticinio",
-      "url": "https://open.spotify.com/track/6dDhaHqJ3wUD3jbjGUBwzh"
+      "duration_ms": 113639,
+      "name": "Caf\u00e9 Con Leche",
+      "url": "https://open.spotify.com/track/6SfkPzqzG62lkvkyKJGUKY"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -395,18 +395,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Una Vez M\u00e1s",
-        "url": "https://open.spotify.com/album/4MMZysMSiZxdQo34c2r8Gi"
+        "name": "Ciencia Exacta",
+        "url": "https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv"
       },
       "artists": [
         {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
         }
       ],
-      "duration_ms": 217609,
-      "name": "Una Vez M\u00e1s",
-      "url": "https://open.spotify.com/track/6OOxQbWcBMCcucTsQnS7yu"
+      "duration_ms": 158121,
+      "name": "Las Flores",
+      "url": "https://open.spotify.com/track/1xQqAdL14WHwCUoCqwBVjk"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -427,18 +427,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Ciencia Exacta",
-        "url": "https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv"
+        "name": "Una Vez M\u00e1s",
+        "url": "https://open.spotify.com/album/4MMZysMSiZxdQo34c2r8Gi"
       },
       "artists": [
         {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
         }
       ],
-      "duration_ms": 158121,
-      "name": "Las Flores",
-      "url": "https://open.spotify.com/track/1xQqAdL14WHwCUoCqwBVjk"
+      "duration_ms": 217609,
+      "name": "Una Vez M\u00e1s",
+      "url": "https://open.spotify.com/track/6OOxQbWcBMCcucTsQnS7yu"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Algo Sucede",
+        "url": "https://open.spotify.com/album/5Z6YX9a3A3quKgM0naXEaL"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 190360,
+      "name": "Dos Soledades",
+      "url": "https://open.spotify.com/track/378lux3KIGNYTyFnB1cEXy"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Qu\u00e9 Tal",
         "url": "https://open.spotify.com/album/5z7Aq8OR67uY4iWTuIh8E7"
       },
@@ -539,18 +555,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Algo Sucede",
-        "url": "https://open.spotify.com/album/5Z6YX9a3A3quKgM0naXEaL"
+        "name": "Los D\u00edas en la Sala",
+        "url": "https://open.spotify.com/album/3n8yXa8oKTRbja348a3V45"
       },
       "artists": [
         {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
         }
       ],
-      "duration_ms": 190360,
-      "name": "Dos Soledades",
-      "url": "https://open.spotify.com/track/378lux3KIGNYTyFnB1cEXy"
+      "duration_ms": 163411,
+      "name": "Siempre Te Voy a Querer",
+      "url": "https://open.spotify.com/track/2f0LLHCip3EIflKwKlSAJV"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -571,22 +587,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Ojos Del Sol",
-        "url": "https://open.spotify.com/album/1bv229IwMr6O2Id5jVZqmc"
-      },
-      "artists": [
-        {
-          "name": "Y La Bamba",
-          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
-        }
-      ],
-      "duration_ms": 245161,
-      "name": "Ojos Del Sol",
-      "url": "https://open.spotify.com/track/2gke8YaJQur5OpkWAeIMdz"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Perd\u00ed",
         "url": "https://open.spotify.com/album/2Q4btBxowoXPwjO0fMiJme"
       },
@@ -599,6 +599,22 @@
       "duration_ms": 144000,
       "name": "Perd\u00ed",
       "url": "https://open.spotify.com/track/5WGQuK64aA6k2xpjUxAek7"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Ojos Del Sol",
+        "url": "https://open.spotify.com/album/1bv229IwMr6O2Id5jVZqmc"
+      },
+      "artists": [
+        {
+          "name": "Y La Bamba",
+          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
+        }
+      ],
+      "duration_ms": 245161,
+      "name": "Ojos Del Sol",
+      "url": "https://open.spotify.com/track/2gke8YaJQur5OpkWAeIMdz"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -651,22 +667,6 @@
       "duration_ms": 234040,
       "name": "Hermosa Drive",
       "url": "https://open.spotify.com/track/5kIdVCUXE6JzR08sxRxNwc"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Los D\u00edas en la Sala",
-        "url": "https://open.spotify.com/album/3n8yXa8oKTRbja348a3V45"
-      },
-      "artists": [
-        {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
-        }
-      ],
-      "duration_ms": 163411,
-      "name": "Siempre Te Voy a Querer",
-      "url": "https://open.spotify.com/track/2f0LLHCip3EIflKwKlSAJV"
     },
     {
       "added_at": "2023-04-14 04:00:00",

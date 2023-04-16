@@ -1,12 +1,12 @@
 {
   "description": "An introduction to Giacomo Puccini, one of the great Italian opera composers.",
-  "num_followers": 59103,
+  "num_followers": 59139,
   "original_name": "This Is Puccini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjA4ODA5NywwMDAwMDAwMDVkMmY5Y2NkOTVkMWNhMjBlMWRhZTRhMjBhMTQ5ZGEx",
+  "snapshot_id": "MTY1NjA4ODA5NywwMDAwMDAwMDU3OTQyNjVjZGYxOWEwODBlOWFmNTZjNzllZjBjYmEy",
   "tracks": [
     {
       "added_at": "2022-06-24 16:28:17",
@@ -1711,30 +1711,6 @@
     {
       "added_at": "2022-06-24 16:28:17",
       "album": {
-        "name": "Puccini Discoveries",
-        "url": "https://open.spotify.com/album/1RhH0ZprLWAQOPF4dOFK2F"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Orchestra Sinfonica di Milano Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/5skyG64028a3FaeFYvT3mE"
-        },
-        {
-          "name": "Riccardo Chailly",
-          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
-        }
-      ],
-      "duration_ms": 296826,
-      "name": "Scherzo",
-      "url": "https://open.spotify.com/track/0PnTiVLxeAAohl4c9WvfCz"
-    },
-    {
-      "added_at": "2022-06-24 16:28:17",
-      "album": {
         "name": "Puccini: Tosca",
         "url": "https://open.spotify.com/album/0EdgFGDsjyvFyYuZ1eXQuR"
       },
@@ -1807,8 +1783,8 @@
     {
       "added_at": "2022-06-24 16:28:17",
       "album": {
-        "name": "Puccini: Messa di Gloria, Preludio sinfonico & Crisantemi",
-        "url": "https://open.spotify.com/album/76298fQtc3pONiRZtzkrL5"
+        "name": "Puccini Discoveries",
+        "url": "https://open.spotify.com/album/1RhH0ZprLWAQOPF4dOFK2F"
       },
       "artists": [
         {
@@ -1816,21 +1792,17 @@
           "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
         },
         {
-          "name": "Roberto Alagna",
-          "url": "https://open.spotify.com/artist/2AyySZZK01JT6ZSYZ2CWgf"
+          "name": "Orchestra Sinfonica di Milano Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/5skyG64028a3FaeFYvT3mE"
         },
         {
-          "name": "Antonio Pappano",
-          "url": "https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+          "name": "Riccardo Chailly",
+          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
         }
       ],
-      "duration_ms": 157706,
-      "name": "Puccini: Messa di Gloria a quattro voci: V. Agnus Dei, \"Agnus Dei qui tollis peccata mundi\" (Tenor, Bass, Chorus)",
-      "url": "https://open.spotify.com/track/7g24G7Zti4qzzNvsv27dEO"
+      "duration_ms": 296826,
+      "name": "Scherzo",
+      "url": "https://open.spotify.com/track/0PnTiVLxeAAohl4c9WvfCz"
     },
     {
       "added_at": "2022-06-24 16:28:17",
@@ -1859,6 +1831,34 @@
       "duration_ms": 203586,
       "name": "Inno a Roma",
       "url": "https://open.spotify.com/track/1ZujYjVkPaZolIlwG6tr3L"
+    },
+    {
+      "added_at": "2022-06-24 16:28:17",
+      "album": {
+        "name": "Puccini: Messa di Gloria, Preludio sinfonico & Crisantemi",
+        "url": "https://open.spotify.com/album/76298fQtc3pONiRZtzkrL5"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Roberto Alagna",
+          "url": "https://open.spotify.com/artist/2AyySZZK01JT6ZSYZ2CWgf"
+        },
+        {
+          "name": "Antonio Pappano",
+          "url": "https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "duration_ms": 157706,
+      "name": "Puccini: Messa di Gloria a quattro voci: V. Agnus Dei, \"Agnus Dei qui tollis peccata mundi\" (Tenor, Bass, Chorus)",
+      "url": "https://open.spotify.com/track/7g24G7Zti4qzzNvsv27dEO"
     },
     {
       "added_at": "2022-06-24 16:28:17",
@@ -1987,6 +1987,38 @@
     {
       "added_at": "2022-06-24 16:28:17",
       "album": {
+        "name": "Puccini: Madama Butterfly",
+        "url": "https://open.spotify.com/album/2sLx3mkCwYywR1mMsZEW9g"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Antonio Pappano",
+          "url": "https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw"
+        },
+        {
+          "name": "Angela Gheorghiu",
+          "url": "https://open.spotify.com/artist/5pLMWE1tVs9C7F9Qqauo44"
+        },
+        {
+          "name": "Jonas Kaufmann",
+          "url": "https://open.spotify.com/artist/2OHnFY58Dg8c2SC2PtootB"
+        },
+        {
+          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
+        }
+      ],
+      "duration_ms": 216333,
+      "name": "Puccini: Madama Butterfly, Act 1: \"Viene la sera\" (Pinkerton, Butterfly)",
+      "url": "https://open.spotify.com/track/2hsAENdoL1fSdyo8BAZikW"
+    },
+    {
+      "added_at": "2022-06-24 16:28:17",
+      "album": {
         "name": "Puccini, G.: Rondine (La) [Opera]",
         "url": "https://open.spotify.com/album/2HvdT1hZWhYpQe94o45Eci"
       },
@@ -2055,38 +2087,6 @@
       "duration_ms": 190680,
       "name": "La Rondine: Act II: Bevo al tuo fresco sorriso (Ruggero, Magda, Lisette, Prunier, Chorus)",
       "url": "https://open.spotify.com/track/0LgVPGtQsKVWdGfvrEKpDS"
-    },
-    {
-      "added_at": "2022-06-24 16:28:17",
-      "album": {
-        "name": "Puccini: Madama Butterfly",
-        "url": "https://open.spotify.com/album/2sLx3mkCwYywR1mMsZEW9g"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Antonio Pappano",
-          "url": "https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw"
-        },
-        {
-          "name": "Angela Gheorghiu",
-          "url": "https://open.spotify.com/artist/5pLMWE1tVs9C7F9Qqauo44"
-        },
-        {
-          "name": "Jonas Kaufmann",
-          "url": "https://open.spotify.com/artist/2OHnFY58Dg8c2SC2PtootB"
-        },
-        {
-          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
-        }
-      ],
-      "duration_ms": 216333,
-      "name": "Puccini: Madama Butterfly, Act 1: \"Viene la sera\" (Pinkerton, Butterfly)",
-      "url": "https://open.spotify.com/track/2hsAENdoL1fSdyo8BAZikW"
     },
     {
       "added_at": "2022-06-24 16:28:17",

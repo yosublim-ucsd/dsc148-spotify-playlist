@@ -512,7 +512,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-15",
+      "date_removed": null,
       "duration_ms": 171666,
       "name": "Hound Dog - Single Version",
       "url": "https://open.spotify.com/track/4GgmAsaolWaBPn4DofdCck"
@@ -642,7 +642,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 105400,
       "name": "I Smell A Rat",
       "url": "https://open.spotify.com/track/1AWq5kngyk5AnpNSxP7bdK"
@@ -801,6 +801,28 @@
     },
     {
       "album": {
+        "name": "Big Mama's Home (35 Classic Tracks)",
+        "url": "https://open.spotify.com/album/6wr9tjkQJkVqYj4TwvALi2"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        },
+        {
+          "name": "Johnny Otis",
+          "url": "https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178693,
+      "name": "Just Can't Help Myself",
+      "url": "https://open.spotify.com/track/5ASJo7Vj82KvvloMmBurYW"
+    },
+    {
+      "album": {
         "name": "I Smell a Rat",
         "url": "https://open.spotify.com/album/6gtCHbu0e2FQ4X2I6Y6rRj"
       },
@@ -848,7 +870,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 163700,
       "name": "Laugh Laugh Laugh",
       "url": "https://open.spotify.com/track/5BoS5f4x2T4nr8bJm2py4m"
@@ -1116,7 +1138,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 160840,
       "name": "My Man Called Me",
       "url": "https://open.spotify.com/track/6Yg6G5EhOmcFPYCYIo6mnr"
@@ -1174,7 +1196,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 166906,
       "name": "No Jody for Me",
       "url": "https://open.spotify.com/track/76gDzIcSqbv1yBagYemuB2"
@@ -1282,7 +1304,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-15",
+      "date_removed": null,
       "duration_ms": 278986,
       "name": "Rolling Stone",
       "url": "https://open.spotify.com/track/4YSbLqmsZdXwnATOo6w1ER"
@@ -1340,7 +1362,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 272733,
       "name": "Since I Fell for You",
       "url": "https://open.spotify.com/track/1QdABlr6fABVNlZxwaRk2e"
@@ -1380,7 +1402,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-13",
+      "date_removed": null,
       "duration_ms": 229320,
       "name": "Sometimes I Have a Heartache",
       "url": "https://open.spotify.com/track/0mkG3CMFnK6W1sudP0CxuK"
@@ -1420,6 +1442,28 @@
       "duration_ms": 148773,
       "name": "Stop A-Hoppin' on Me",
       "url": "https://open.spotify.com/track/3OGe6jBpiBcS5wBlVKFz3l"
+    },
+    {
+      "album": {
+        "name": "Big Mama's Home (35 Classic Tracks)",
+        "url": "https://open.spotify.com/album/6wr9tjkQJkVqYj4TwvALi2"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        },
+        {
+          "name": "The Burt Kendricks Orchestra",
+          "url": "https://open.spotify.com/artist/0R7qxJ6jQj6ziYipwDhQ96"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155080,
+      "name": "Story of My Blues",
+      "url": "https://open.spotify.com/track/0tauo4H01Gw0kyTNPTEE1U"
     },
     {
       "album": {
@@ -1650,7 +1694,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 161440,
       "name": "The Fish",
       "url": "https://open.spotify.com/track/2KyZPxIKzw4skONqNfKEzB"
@@ -1704,7 +1748,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 124506,
       "name": "They Call Me Big Mama",
       "url": "https://open.spotify.com/track/61ChIhjgqnw9Qxw5GvunMR"

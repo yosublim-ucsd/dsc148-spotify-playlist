@@ -4,7 +4,7 @@
 
 > Productores latinos underground para bailar con audífonos.
 
-135 songs - 10 hr 39 min
+136 songs - 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Arriba y Abajo](https://open.spotify.com/track/5VQtGffW8zgmAF5nRKoSv2) | [Omaar](https://open.spotify.com/artist/6HYCLQ4rq3A3VSXBWIMUsW) | [Drum Temple](https://open.spotify.com/album/5yqrk9yWU3kk8OwfWSgMnc) | 6:27 | 2022-05-06 | 2022-08-30 |
 | [Atlántida](https://open.spotify.com/track/4XG8r3tuGn2Sossi2eoNtO) | [DNGDNGDNG](https://open.spotify.com/artist/4qw8wHJ1ZGNFQVZ1zM4NOq), [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG) | [Atlántida](https://open.spotify.com/album/5WHYmcgeLzkJVlnyAYA3pj) | 5:30 | 2022-05-06 |  |
 | [Atlántida](https://open.spotify.com/track/59AwCPUygJRzErUAKb2Xz4) | [DNGDNGDNG](https://open.spotify.com/artist/4qw8wHJ1ZGNFQVZ1zM4NOq), [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG) | [Atlántida](https://open.spotify.com/album/3q7HQITYyxdFUBdcKbG3ug) | 5:30 | 2022-05-06 | 2022-07-29 |
-| [BADTRIP](https://open.spotify.com/track/1pRpCFoXttG8GC2HQiRCys) | [SANTO BEATS](https://open.spotify.com/artist/7DqK1Dh8pT3MLdsf9Nomml) | [NEW BREED](https://open.spotify.com/album/6SEkgepvAVUGH0MJVpse5I) | 1:35 | 2022-12-21 |  |
+| [BADTRIP](https://open.spotify.com/track/1pRpCFoXttG8GC2HQiRCys) | [SANTO BEATS](https://open.spotify.com/artist/7DqK1Dh8pT3MLdsf9Nomml) | [NEW BREED](https://open.spotify.com/album/6SEkgepvAVUGH0MJVpse5I) | 1:35 | 2022-12-21 | 2023-04-16 |
 | [BADTRIP](https://open.spotify.com/track/59qoO6Zv3pKUIVaYZCeG7U) | [SANTO BEATS](https://open.spotify.com/artist/7DqK1Dh8pT3MLdsf9Nomml) | [NEW BREED](https://open.spotify.com/album/5xmOTtTLaPzw8pP4tRtjP4) | 1:35 | 2022-12-21 | 2023-04-02 |
 | [Bembé](https://open.spotify.com/track/0yNL4Rma8wSmtBH39UuEUG) | [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Machiran](https://open.spotify.com/artist/2G9YVfs6LKoJeFnGj4K3yx) | [Bembé](https://open.spotify.com/album/4gvhsXGJz2vzI16PJuFznV) | 3:17 | 2022-05-06 |  |
 | [BLEED](https://open.spotify.com/track/3k3r8ffYVixma4Dc0PRQdx) | [SANTO BEATS](https://open.spotify.com/artist/7DqK1Dh8pT3MLdsf9Nomml) | [NEW BREED](https://open.spotify.com/album/5xmOTtTLaPzw8pP4tRtjP4) | 1:49 | 2022-12-21 | 2023-03-23 |
@@ -57,7 +57,8 @@
 | [Fiebre](https://open.spotify.com/track/00PyNFoOwrk0Aw3O7qU2kh) | [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG) | [Fiebre](https://open.spotify.com/album/6y2lryBMGXmaZ8CxuHfOXj) | 4:27 | 2022-05-06 |  |
 | [Forerunner](https://open.spotify.com/track/34S6ZJ8rZqheHQxkQMwjde) | [Bertoldi](https://open.spotify.com/artist/4Li9gBuTUcIRons5AtN4yE) | [Ancient Astronauts](https://open.spotify.com/album/5H71MGGEYaVtTOCtHWZvDq) | 6:55 | 2022-05-06 |  |
 | [Free](https://open.spotify.com/track/45gL725w0jjpRv2L6QbR84) | [Turning Torso](https://open.spotify.com/artist/6j5BxXSPPlGZIMeWjMoIPQ) | [Apex](https://open.spotify.com/album/4xCHCE076GPoH7pW287i9Q) | 4:37 | 2022-05-06 | 2022-07-26 |
-| [Gato Negro \- Daniel Hokum & okuma Remix](https://open.spotify.com/track/4lCjFg06zDoSOSFVxSQyzp) | [Klik & Frik](https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC), [Daniel Hokum](https://open.spotify.com/artist/5G73jujPl3uMzC5zak8Jbd), [okuma](https://open.spotify.com/artist/5KxadtK47w9IzFK0V4O38Q) | [Gato Negro \(Daniel Hokum & Okuma Remix\)](https://open.spotify.com/album/23hqOpIvA1VbjM6INLeuvg) | 6:35 | 2023-03-25 |  |
+| [Fruta de Pan](https://open.spotify.com/track/5UiTanE92CFaOY0b9PVxZc) | [OVSICORI](https://open.spotify.com/artist/0MVM5Khj39EkpVtLvU9Ujp) | [Perennial Propaganda](https://open.spotify.com/album/12yOXkMJhTW2HqRGDrOEro) | 3:52 | 2023-04-15 |  |
+| [Gato Negro \- Daniel Hokum & okuma Remix](https://open.spotify.com/track/4lCjFg06zDoSOSFVxSQyzp) | [Klik & Frik](https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC), [Daniel Hokum](https://open.spotify.com/artist/5G73jujPl3uMzC5zak8Jbd), [okuma](https://open.spotify.com/artist/5KxadtK47w9IzFK0V4O38Q) | [Gato Negro \(Daniel Hokum & Okuma Remix\)](https://open.spotify.com/album/23hqOpIvA1VbjM6INLeuvg) | 6:35 | 2023-03-23 |  |
 | [Give It To The Music](https://open.spotify.com/track/4lzBK0eegI0rCCEIPg0sVI) | [Nortec: Bostich + Fussible](https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg) | [Give It To The Music](https://open.spotify.com/album/7KNJCJsDEnAdLt9WbJD0Th) | 4:54 | 2022-05-06 |  |
 | [Gut Ritual](https://open.spotify.com/track/2N5ioUhGReJBPPwBvd55nR) | [AMAZONDOTCOM](https://open.spotify.com/artist/2wSYqnT1Cu1oQcFFspe0Ie) | [War Bride](https://open.spotify.com/album/4KudgFUONq9jrTsaClDhcW) | 4:59 | 2022-05-06 | 2022-07-25 |
 | [Hendidura](https://open.spotify.com/track/3ZUUCeA2W2CN17DZIbM7ef) | [Rodo](https://open.spotify.com/artist/53OJAFCNGs4t1FpphUxjPt), [Kathia Rudametkin](https://open.spotify.com/artist/4Jfq4lRAxklhQdmQNIboBp), [Fax](https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4) | [Invisible Desert](https://open.spotify.com/album/6dU6llQx3HIc2MEMRXzKes) | 4:51 | 2022-12-21 | 2023-02-14 |

@@ -1575,6 +1575,32 @@
     },
     {
       "album": {
+        "name": "Baby Don't Hurt Me",
+        "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140017,
+      "name": "Baby Don't Hurt Me",
+      "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
+    },
+    {
+      "album": {
         "name": "RUSH!",
         "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
       },
@@ -3381,6 +3407,24 @@
     },
     {
       "album": {
+        "name": "Chemical",
+        "url": "https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184013,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
+    },
+    {
+      "album": {
         "name": "Choker",
         "url": "https://open.spotify.com/album/5UHiYkfptKdKDXacKUqKvl"
       },
@@ -4294,6 +4338,24 @@
       "duration_ms": 187342,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/69w5X6uTrOaWM32IetSzvO"
+    },
+    {
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212953,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
     },
     {
       "album": {
@@ -10248,7 +10310,7 @@
       ],
       "date_added": "2022-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 123890,
       "name": "Just Wanna Rock",
       "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
@@ -12368,6 +12430,24 @@
       "duration_ms": 313124,
       "name": "L\u00e4hen ja tulen - Studio version",
       "url": "https://open.spotify.com/track/0xu7Ys3XoQMpfAOsLNcdUT"
+    },
+    {
+      "album": {
+        "name": "L\u00e4inud elu pealt",
+        "url": "https://open.spotify.com/album/5xLDVblUCrFXAMcFT6MDfF"
+      },
+      "artists": [
+        {
+          "name": "Leis",
+          "url": "https://open.spotify.com/artist/3gkKCZqauXTnhJNSEcw55T"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118204,
+      "name": "L\u00e4inud elu pealt",
+      "url": "https://open.spotify.com/track/6B5R3wJHYha7DILLZYNA62"
     },
     {
       "album": {
@@ -16182,7 +16262,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2023-04-11",
+      "date_removed": null,
       "duration_ms": 171810,
       "name": "Paraadna",
       "url": "https://open.spotify.com/track/5VEZQNZWsZaKb1Y2jB8SWJ"
@@ -19217,6 +19297,24 @@
     },
     {
       "album": {
+        "name": "Cottonwood 2",
+        "url": "https://open.spotify.com/album/7l49L64CFakYuaV4EL11sP"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123672,
+      "name": "SLUT ME OUT",
+      "url": "https://open.spotify.com/track/0WoVfPjxsf9MTvPt9ptqeE"
+    },
+    {
+      "album": {
         "name": "SLUT ME OUT",
         "url": "https://open.spotify.com/album/48868AJJd7JVl1IVmaBsaQ"
       },
@@ -19228,7 +19326,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 123672,
       "name": "SLUT ME OUT",
       "url": "https://open.spotify.com/track/5BmB3OaQyYXCqRyN8iR2Yi"
@@ -20506,7 +20604,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -21570,7 +21668,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 199920,
       "name": "Too Many Nights (feat. Don Toliver & with Future)",
       "url": "https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g"
@@ -22230,7 +22328,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 156943,
       "name": "Unholy (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/0NZPBYD5qbEWRs3PrGiRkT"
@@ -22990,7 +23088,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 163139,
       "name": "Watch This - ARIZONATEARS Pluggnb Remix",
       "url": "https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup"
@@ -23490,7 +23588,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 290320,
       "name": "Without Me",
       "url": "https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk"
@@ -25064,6 +25162,24 @@
       "duration_ms": 160800,
       "name": "\u0421\u0435\u043b\u044f\u0432\u0438",
       "url": "https://open.spotify.com/track/3SOHFsSinxM6flLceYl5BT"
+    },
+    {
+      "album": {
+        "name": "\u0421\u043a\u0430\u0436\u0438 \u043c\u043d\u0435 \u043a\u0442\u043e \u0442\u044b",
+        "url": "https://open.spotify.com/album/7seua2aQz3wCROdP5D6Z1A"
+      },
+      "artists": [
+        {
+          "name": "xxxmanera",
+          "url": "https://open.spotify.com/artist/0hAEtx2GQLtMTJj8qycHRr"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118378,
+      "name": "\u0421\u043a\u0430\u0436\u0438 \u043c\u043d\u0435 \u043a\u0442\u043e \u0442\u044b",
+      "url": "https://open.spotify.com/track/5lo91NO6ZaP656Wy28dez1"
     },
     {
       "album": {

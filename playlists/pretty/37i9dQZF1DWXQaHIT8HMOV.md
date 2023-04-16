@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 
 > Top hits from homegrown artists showcasing rich culture and talent from Uganda
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,425 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,424 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 | 12 | [Bitimba](https://open.spotify.com/track/6jGG78uh7FunvMuqa4kv9K) | [Pia Pounds](https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p) | [Bitimba](https://open.spotify.com/album/385Gp4V1QwGJt8Aa4Swut5) | 2:27 |
 | 13 | [One Bite](https://open.spotify.com/track/6OOi3c5ikce6w19EN5Mp1T) | [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES) | [One Bite](https://open.spotify.com/album/5806Vs0UN9KhUaJwKEc7TO) | 2:54 |
 | 14 | [Stuck On You](https://open.spotify.com/track/4N7uZttmsV4uQH7cGLn3z3) | [VineJohn](https://open.spotify.com/artist/3aTAgxC7LcBM44QpNlbazV) | [Stuck On You](https://open.spotify.com/album/5YSGnmVJhAVx1vzbV54Uad) | 3:03 |
-| 15 | [Sembera](https://open.spotify.com/track/7vgMzmsgtspbBfMVpX9JSk) | [Geosteady](https://open.spotify.com/artist/7kam501AHBrZZvvuiku9VG) | [Sembera](https://open.spotify.com/album/5waV4kXwhpQBV4Ws7d2Ppi) | 3:28 |
-| 16 | [Pretty Young Thing](https://open.spotify.com/track/67hRQkotvl3eGiEYD3r8FK) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Pretty Young Thing](https://open.spotify.com/album/7pAqhUVUSXlXl7ANiO8KgF) | 3:10 |
+| 15 | [Pretty Young Thing](https://open.spotify.com/track/67hRQkotvl3eGiEYD3r8FK) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Pretty Young Thing](https://open.spotify.com/album/7pAqhUVUSXlXl7ANiO8KgF) | 3:10 |
+| 16 | [Sembera](https://open.spotify.com/track/7vgMzmsgtspbBfMVpX9JSk) | [Geosteady](https://open.spotify.com/artist/7kam501AHBrZZvvuiku9VG) | [Sembera](https://open.spotify.com/album/5waV4kXwhpQBV4Ws7d2Ppi) | 3:28 |
 | 17 | [Your Number](https://open.spotify.com/track/0z25xuFIkmaAiOT5WekhGO) | [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1) | [Your Number \(Acoustic\)](https://open.spotify.com/album/2FdncIyOvj86vjyVYXmvmp) | 2:16 |
 | 18 | [Say your Mine](https://open.spotify.com/track/09kIOLxsPlFlPQSWpMWvF6) | [Jaye Major](https://open.spotify.com/artist/3E1Gbb7bSYoOGtNQh6Ah3S), [Anamie](https://open.spotify.com/artist/3bMVYs34KhPrhhcKy5LJfb), [Dubem K](https://open.spotify.com/artist/1Vj31IUXsopkzURt05U4HU) | [Say your Mine](https://open.spotify.com/album/02U5KVJvB0aTId18fSFXEg) | 3:46 |
 | 19 | [CHERRY SWEET](https://open.spotify.com/track/1B3h5EIwLDMtubHLu3edCM) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [CHERRY SWEET](https://open.spotify.com/album/1iu9wqIVEQ2cm20mO6DmvG) | 2:10 |
@@ -42,21 +42,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 | 32 | [4 U](https://open.spotify.com/track/1sZFtAyyx16gmGz2wnp7ve) | [Ceee](https://open.spotify.com/artist/2lLAmI8Hqtx7lvD9tDSFgT) | [4 U](https://open.spotify.com/album/1MgRMCqug76YT5f3dMp4vk) | 2:15 |
 | 33 | [Kitooke Kyagonja](https://open.spotify.com/track/2b80GekCEE6WW8DeWZqxi7) | [B2c](https://open.spotify.com/artist/0w6MT5uoaHy7p8Z0cllzb4) | [Kitooke Kyagonja](https://open.spotify.com/album/6xb67bqLm01dcf4CrhxEPa) | 3:10 |
 | 34 | [Bulamu](https://open.spotify.com/track/2Kg2NJPPa6gkrwP6Kn4YHR) | [Zulitums](https://open.spotify.com/artist/7KJHPQ0SRCI3AlxKX7heea) | [Bulamu](https://open.spotify.com/album/0jOsRZm1XnBX4xuksaARJa) | 3:13 |
-| 35 | [BESTIE](https://open.spotify.com/track/5wmZO9wReuxzVbv2KbkSYn) | [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM) | [BESTIE](https://open.spotify.com/album/6CgzHPFRksIENlDpsyzXUB) | 2:53 |
-| 36 | [Byowaba](https://open.spotify.com/track/0gyH24GQiQDOGHn40goN8X) | [Bebe Cool](https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81) | [Byowaba](https://open.spotify.com/album/20BSAYhSq4zpyNlSJD210x) | 3:44 |
+| 35 | [Byowaba](https://open.spotify.com/track/0gyH24GQiQDOGHn40goN8X) | [Bebe Cool](https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81) | [Byowaba](https://open.spotify.com/album/20BSAYhSq4zpyNlSJD210x) | 3:44 |
+| 36 | [BESTIE](https://open.spotify.com/track/5wmZO9wReuxzVbv2KbkSYn) | [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM) | [BESTIE](https://open.spotify.com/album/6CgzHPFRksIENlDpsyzXUB) | 2:53 |
 | 37 | [Omwana](https://open.spotify.com/track/7wVjsVyZXo5LJI19o8P2lK) | [Juliana Kanyomozi](https://open.spotify.com/artist/3v54gVfDRlrLfvFYUQ0J1a) | [Omwana](https://open.spotify.com/album/0sizEjoqAPgHXqblr8z2v2) | 3:32 |
 | 38 | [Wangi](https://open.spotify.com/track/5TXU3a3csDRY2vyqEGItBK) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Wangi](https://open.spotify.com/album/29C4HfzA6cLMNC7mttlUUT) | 2:36 |
 | 39 | [Kyaani](https://open.spotify.com/track/5NvvaLZbvtjpzGBPxOARQd) | [Ykee Benda](https://open.spotify.com/artist/18knxgRViP1Ae2TG8DZRfq) | [Kyaani](https://open.spotify.com/album/7rTJ4wYCUqLnDQN0Wrwdij) | 2:58 |
 | 40 | [Bbuba](https://open.spotify.com/track/5QhpJ1fuYEwuUNUeaUPBqz) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [Bbuba](https://open.spotify.com/album/0OtlaMUzvSQHITLDdyEuq3) | 3:24 |
-| 41 | [Kika Buka](https://open.spotify.com/track/1jcnzmZk4F57GiRIOiSbMS) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Kika Buka](https://open.spotify.com/album/4GjXFLosn6LolYRbupEkVc) | 2:36 |
-| 42 | [Bega Bega](https://open.spotify.com/track/4ctK1RbMMolmBH24Nws6bU) | [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5), [Jose Chameleone](https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz) | [Bega Bega](https://open.spotify.com/album/2K3kJ9PdnZ0FhQGiUfqQA9) | 2:52 |
-| 43 | [Geza Bugeza](https://open.spotify.com/track/0KCeBr5ylT1GJzt9bu4SkW) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Geza Bugeza](https://open.spotify.com/album/6rpL5Yl2Gu8H0xqPSu445P) | 2:20 |
-| 44 | [Low](https://open.spotify.com/track/1sHswMDDPk44WSkMh3lJN6) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j), [Latinum](https://open.spotify.com/artist/4L3ta0ADfVnBdi04utLTqA) | [Low](https://open.spotify.com/album/60yKgbxVfxilQTFfxQ5SLb) | 3:21 |
+| 41 | [Bega Bega](https://open.spotify.com/track/4ctK1RbMMolmBH24Nws6bU) | [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5), [Jose Chameleone](https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz) | [Bega Bega](https://open.spotify.com/album/2K3kJ9PdnZ0FhQGiUfqQA9) | 2:52 |
+| 42 | [Kika Buka](https://open.spotify.com/track/1jcnzmZk4F57GiRIOiSbMS) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Kika Buka](https://open.spotify.com/album/4GjXFLosn6LolYRbupEkVc) | 2:36 |
+| 43 | [Don't Stopp](https://open.spotify.com/track/3r3t5dqnEHDuhGlo1m40Sh) | [Bebe Cool](https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81) | [Don't Stopp](https://open.spotify.com/album/20vcJDgwiHZHcyz927U2HH) | 2:52 |
+| 44 | [Geza Bugeza](https://open.spotify.com/track/0KCeBr5ylT1GJzt9bu4SkW) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Geza Bugeza](https://open.spotify.com/album/6rpL5Yl2Gu8H0xqPSu445P) | 2:20 |
 | 45 | [Kiki Kyogamba \- What You Saying Mix](https://open.spotify.com/track/2lc0T74YCLtkDoIkUu25lp) | [DJ Vadim](https://open.spotify.com/artist/4vwzEW1kPK1BlgSBGrRyqZ), [Kenneth Mugabi](https://open.spotify.com/artist/439cAFpgGsd10FGSviU0sF), [Destiny Nsonga](https://open.spotify.com/artist/5O4hbVUhLfHZqNXoLeOLVi) | [Kiki Kyogamba](https://open.spotify.com/album/3wlumR6nSjNMTZtDlrOgKy) | 4:30 |
-| 46 | [Don't Stopp](https://open.spotify.com/track/3r3t5dqnEHDuhGlo1m40Sh) | [Bebe Cool](https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81) | [Don't Stopp](https://open.spotify.com/album/20vcJDgwiHZHcyz927U2HH) | 2:52 |
+| 46 | [Low](https://open.spotify.com/track/1sHswMDDPk44WSkMh3lJN6) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j), [Latinum](https://open.spotify.com/artist/4L3ta0ADfVnBdi04utLTqA) | [Low](https://open.spotify.com/album/60yKgbxVfxilQTFfxQ5SLb) | 3:21 |
 | 47 | [Personal](https://open.spotify.com/track/75GrSLQFXf1tWzgHBEUvd9) | [Zulitums](https://open.spotify.com/artist/7KJHPQ0SRCI3AlxKX7heea) | [Personal](https://open.spotify.com/album/5wYH1MacgZZEpIew5uQBTF) | 3:10 |
 | 48 | [Kampala](https://open.spotify.com/track/5XSx18sFrYAjINCcqcxz74) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [Kampala](https://open.spotify.com/album/2KyDqnxPYOmxrhjvopJgIG) | 3:09 |
-| 49 | [Riri](https://open.spotify.com/track/3kYMCCE3sV70yPOaFM4eCr) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Music for the Soul](https://open.spotify.com/album/1Py43eA0a9cU9cRuhvF46K) | 3:35 |
-| 50 | [Freedom](https://open.spotify.com/track/6v0S8ZVm5axCSsuoqcuB3J) | [Jesse10s](https://open.spotify.com/artist/6oOIGUtyWVdPoJmgOE1bGH) | [Freedom](https://open.spotify.com/album/3MJB9ehVEovi0DhK19B4tS) | 2:54 |
+| 49 | [Freedom](https://open.spotify.com/track/6v0S8ZVm5axCSsuoqcuB3J) | [Jesse10s](https://open.spotify.com/artist/6oOIGUtyWVdPoJmgOE1bGH) | [Freedom](https://open.spotify.com/album/3MJB9ehVEovi0DhK19B4tS) | 2:54 |
+| 50 | [Pause](https://open.spotify.com/track/2yx8yJQIWgyZ3xS67mg8Qp) | [Mugaba](https://open.spotify.com/artist/1EBLonfYVb5s9f047W2CS6), [Amani Greene](https://open.spotify.com/artist/0nJznPzHXT4c62if3o5tsO) | [Pause](https://open.spotify.com/album/53V8rIv7Bix3IbNXbnG0px) | 3:04 |
 
-Snapshot ID: `MTY4MTQ0OTM4NiwwMDAwMDAwMDBhMGZjZDQ4MzkwZGZiZmM2YjcwYWM2NWNlYTg4Yzc0`
+Snapshot ID: `MTY4MTQ0OTM4NiwwMDAwMDAwMDMwMmZiOGZiMGEyMDUyNDVjNDk4ZTMwMWExNmUyMDZh`

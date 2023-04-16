@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "Um Corpo no Mundo",
+        "url": "https://open.spotify.com/album/6Qg6H9Uo0Iymf3OROPLSDN"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224466,
+      "name": "Acalanto",
+      "url": "https://open.spotify.com/track/5TTWOyGAjATPEuDiTIRd62"
+    },
+    {
+      "album": {
         "name": "Acontecer",
         "url": "https://open.spotify.com/album/7r9zQdhPp0M1cDIsItlExI"
       },
@@ -568,7 +586,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 207857,
       "name": "Boca de A\u00e7a\u00ed",
       "url": "https://open.spotify.com/track/7xN0nAmh7igHAFoB0PW8kX"
@@ -626,7 +644,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 185874,
       "name": "Borboleta Efeito",
       "url": "https://open.spotify.com/track/6oqV9zAqT9vea7nXIBIkyc"
@@ -3166,7 +3184,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-11",
+      "date_removed": null,
       "duration_ms": 186382,
       "name": "Toda Beleza",
       "url": "https://open.spotify.com/track/4yPKVW76qe5VWOK4WOUsZa"

@@ -1,12 +1,12 @@
 {
   "description": "Una fusi\u00f3n moderna de m\u00fasica Cristiana que alimenta el alma.",
-  "num_followers": 354061,
+  "num_followers": 354285,
   "original_name": "Creo En Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyMTYyNDc2NywwMDAwMDAwMDhjZWU2NWY4YTQ5Y2RmZWY2ZjU1MDI5OThhZTczMzE3",
+  "snapshot_id": "MTYyMTYyNDc2NywwMDAwMDAwMDU4ZDFjZDgwNmI5Mzk4OWRiZjQ2MDdhOGM4NGE4YmRh",
   "tracks": [
     {
       "added_at": "2021-05-21 19:19:27",
@@ -663,6 +663,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
+        "name": "Agua",
+        "url": "https://open.spotify.com/album/0QQ96ktdyNgQcfnMV2gJK3"
+      },
+      "artists": [
+        {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        }
+      ],
+      "duration_ms": 234399,
+      "name": "Soy Tu Dios",
+      "url": "https://open.spotify.com/track/1p15LKTj0Ys2EmJ3IercHB"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
         "name": "\u00bfQui\u00e9n Contra Nosotros?",
         "url": "https://open.spotify.com/album/5cuqDgBJPMEWLjfbxnexp4"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 270920,
       "name": "No Hay Pero Va a Sobrar",
       "url": "https://open.spotify.com/track/1Y408UKyzHsHxAQn9L4hPn"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "Agua",
-        "url": "https://open.spotify.com/album/0QQ96ktdyNgQcfnMV2gJK3"
-      },
-      "artists": [
-        {
-          "name": "Funky",
-          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
-        }
-      ],
-      "duration_ms": 234399,
-      "name": "Soy Tu Dios",
-      "url": "https://open.spotify.com/track/1p15LKTj0Ys2EmJ3IercHB"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -803,6 +803,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
+        "name": "Indestructible",
+        "url": "https://open.spotify.com/album/01DU4Brb6WmObvkqdsVWiN"
+      },
+      "artists": [
+        {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        }
+      ],
+      "duration_ms": 256464,
+      "name": "Se Nota En Tus Ojos",
+      "url": "https://open.spotify.com/track/3sJ7NkecvtR9razQi5ZjQF"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
         "name": "Construir\u00e9 Mi Vida",
         "url": "https://open.spotify.com/album/3GQO2bUHJC7Gv29h4GNQm8"
       },
@@ -823,18 +839,18 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Indestructible",
-        "url": "https://open.spotify.com/album/01DU4Brb6WmObvkqdsVWiN"
+        "name": "No Soy Hu\u00e9rfano (Versio\u0301n Radio)",
+        "url": "https://open.spotify.com/album/7h3IsK0imAHm61MGNQle0t"
       },
       "artists": [
         {
-          "name": "Funky",
-          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+          "name": "Montesanto",
+          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
         }
       ],
-      "duration_ms": 256464,
-      "name": "Se Nota En Tus Ojos",
-      "url": "https://open.spotify.com/track/3sJ7NkecvtR9razQi5ZjQF"
+      "duration_ms": 321003,
+      "name": "No Soy Hu\u00e9rfano (Versio\u0301n Radio)",
+      "url": "https://open.spotify.com/track/6myKbhpIGVMV5h0v4wXhnA"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -855,18 +871,18 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "No Soy Hu\u00e9rfano (Versio\u0301n Radio)",
-        "url": "https://open.spotify.com/album/7h3IsK0imAHm61MGNQle0t"
+        "name": "\u00bfQui\u00e9n Contra Nosotros?",
+        "url": "https://open.spotify.com/album/5cuqDgBJPMEWLjfbxnexp4"
       },
       "artists": [
         {
-          "name": "Montesanto",
-          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
         }
       ],
-      "duration_ms": 321003,
-      "name": "No Soy Hu\u00e9rfano (Versio\u0301n Radio)",
-      "url": "https://open.spotify.com/track/6myKbhpIGVMV5h0v4wXhnA"
+      "duration_ms": 201906,
+      "name": "Nada Me Falta",
+      "url": "https://open.spotify.com/track/1xNDwOT47JQFYvtT0JcP7F"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -883,22 +899,6 @@
       "duration_ms": 189035,
       "name": "No Hay Distancia",
       "url": "https://open.spotify.com/track/3RsC2nWzi0XSOJcZTFdKss"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "\u00bfQui\u00e9n Contra Nosotros?",
-        "url": "https://open.spotify.com/album/5cuqDgBJPMEWLjfbxnexp4"
-      },
-      "artists": [
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        }
-      ],
-      "duration_ms": 201906,
-      "name": "Nada Me Falta",
-      "url": "https://open.spotify.com/track/1xNDwOT47JQFYvtT0JcP7F"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -971,22 +971,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "\u00bfQui\u00e9n Contra Nosotros?",
-        "url": "https://open.spotify.com/album/5cuqDgBJPMEWLjfbxnexp4"
-      },
-      "artists": [
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        }
-      ],
-      "duration_ms": 229626,
-      "name": "No Cuenten Conmigo",
-      "url": "https://open.spotify.com/track/6HAV1VX6u6a3ewmZyUhshw"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "M\u00e1s",
         "url": "https://open.spotify.com/album/3RE4acPIRjN24JaowvCKGp"
       },
@@ -1027,22 +1011,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "El Eco De Su Voz",
-        "url": "https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7"
-      },
-      "artists": [
-        {
-          "name": "Hillsong en Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
-        }
-      ],
-      "duration_ms": 299013,
-      "name": "Amor Sin Comparaci\u00f3n",
-      "url": "https://open.spotify.com/track/78UnexCmrxXnAJNCKlGQ5Y"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "Cerca Est\u00e1s",
         "url": "https://open.spotify.com/album/2YW7RI9hOb9hiDzUWeCRVz"
       },
@@ -1055,6 +1023,38 @@
       "duration_ms": 212523,
       "name": "Cerca Est\u00e1s",
       "url": "https://open.spotify.com/track/7j4GJDmCiUEPZSu420sNul"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "\u00bfQui\u00e9n Contra Nosotros?",
+        "url": "https://open.spotify.com/album/5cuqDgBJPMEWLjfbxnexp4"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "duration_ms": 229626,
+      "name": "No Cuenten Conmigo",
+      "url": "https://open.spotify.com/track/6HAV1VX6u6a3ewmZyUhshw"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "El Eco De Su Voz",
+        "url": "https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7"
+      },
+      "artists": [
+        {
+          "name": "Hillsong en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
+        }
+      ],
+      "duration_ms": 299013,
+      "name": "Amor Sin Comparaci\u00f3n",
+      "url": "https://open.spotify.com/track/78UnexCmrxXnAJNCKlGQ5Y"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Vive en M\u00ed",
-        "url": "https://open.spotify.com/album/0OWlPKpTVq2bLYj80Drs1x"
-      },
-      "artists": [
-        {
-          "name": "Su Presencia",
-          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
-        }
-      ],
-      "duration_ms": 240704,
-      "name": "Pintas el Aire",
-      "url": "https://open.spotify.com/track/3zfklhEEk5zfyBi3IL4Nk8"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "El Cielo Gobierna",
         "url": "https://open.spotify.com/album/5qDjBjsXxYlBVRvBDwVXMy"
       },
@@ -1131,6 +1115,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
+        "name": "Vive en M\u00ed",
+        "url": "https://open.spotify.com/album/0OWlPKpTVq2bLYj80Drs1x"
+      },
+      "artists": [
+        {
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+        }
+      ],
+      "duration_ms": 240704,
+      "name": "Pintas el Aire",
+      "url": "https://open.spotify.com/track/3zfklhEEk5zfyBi3IL4Nk8"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
         "name": "No M\u00e1s",
         "url": "https://open.spotify.com/album/5cPtEugAHEiJGwIFCrzykF"
       },
@@ -1143,26 +1143,6 @@
       "duration_ms": 206865,
       "name": "No M\u00e1s",
       "url": "https://open.spotify.com/track/3AGq91W4DTXIWReXHd5jQ4"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "De La a a La Z",
-        "url": "https://open.spotify.com/album/0LhQiVh7Hdi2qv5xGOOKIt"
-      },
-      "artists": [
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        },
-        {
-          "name": "Redimi2",
-          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
-        }
-      ],
-      "duration_ms": 226306,
-      "name": "No Soy Yo (feat. Redimi2)",
-      "url": "https://open.spotify.com/track/0pA8nTkyVvFdd1HO0oaOrB"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1203,6 +1183,26 @@
       "duration_ms": 206133,
       "name": "Ama A Dios Y A Tu Vecino",
       "url": "https://open.spotify.com/track/0ZIzGwc3j4lVacHR1c5DKb"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "De La a a La Z",
+        "url": "https://open.spotify.com/album/0LhQiVh7Hdi2qv5xGOOKIt"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        },
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        }
+      ],
+      "duration_ms": 226306,
+      "name": "No Soy Yo (feat. Redimi2)",
+      "url": "https://open.spotify.com/track/0pA8nTkyVvFdd1HO0oaOrB"
     },
     {
       "added_at": "2021-05-21 19:19:27",

@@ -1,12 +1,12 @@
 {
   "description": "Exercise together with uplifting soul music.",
-  "num_followers": 284680,
+  "num_followers": 284827,
   "original_name": "Body & Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDE5ODM3NiwwMDAwMDAwMGJlZTNhZmYzNTgzNGU1NWIwYWUyZjBmMDUxNWE0YTNk",
+  "snapshot_id": "MTY4MDE5ODM3NiwwMDAwMDAwMDZiZTNjNzI0MTk0ZWE5YzhhM2M0ODUyNjgyNTE0NmU0",
   "tracks": [
     {
       "added_at": "2023-02-21 15:51:11",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-02-21 15:51:11",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 291320,
-      "name": "Thank You (Falettinme Be Mice Elf Agin) - Single Version",
-      "url": "https://open.spotify.com/track/74iQ3gahRTOGc19bYadBE3"
-    },
-    {
-      "added_at": "2023-02-21 15:51:11",
-      "album": {
         "name": "Young, Gifted and Black",
         "url": "https://open.spotify.com/album/0k5C3Z7w7uQpyGFQEzl7yB"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 193573,
       "name": "Rock Steady",
       "url": "https://open.spotify.com/track/7rvGZDlfqCjY9EWEUg3Xs6"
+    },
+    {
+      "added_at": "2023-02-21 15:51:11",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 291320,
+      "name": "Thank You (Falettinme Be Mice Elf Agin) - Single Version",
+      "url": "https://open.spotify.com/track/74iQ3gahRTOGc19bYadBE3"
     },
     {
       "added_at": "2023-02-21 15:51:11",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-02-21 15:51:11",
       "album": {
-        "name": "King Floyd",
-        "url": "https://open.spotify.com/album/6r1VSCkbZaVj6FUhbh3aFQ"
-      },
-      "artists": [
-        {
-          "name": "King Floyd",
-          "url": "https://open.spotify.com/artist/03PCdNvkF81s7xHmtkNcoz"
-        }
-      ],
-      "duration_ms": 183266,
-      "name": "Groove Me",
-      "url": "https://open.spotify.com/track/1sG3M0yjIYweejCR9Amyh6"
-    },
-    {
-      "added_at": "2023-02-21 15:51:11",
-      "album": {
         "name": "Star Time",
         "url": "https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 128173,
       "name": "Papa's Got A Brand New Bag",
       "url": "https://open.spotify.com/track/00pGV4EInVd77cnOIwPTCv"
+    },
+    {
+      "added_at": "2023-02-21 15:51:11",
+      "album": {
+        "name": "King Floyd",
+        "url": "https://open.spotify.com/album/6r1VSCkbZaVj6FUhbh3aFQ"
+      },
+      "artists": [
+        {
+          "name": "King Floyd",
+          "url": "https://open.spotify.com/artist/03PCdNvkF81s7xHmtkNcoz"
+        }
+      ],
+      "duration_ms": 183266,
+      "name": "Groove Me",
+      "url": "https://open.spotify.com/track/1sG3M0yjIYweejCR9Amyh6"
     },
     {
       "added_at": "2023-02-21 15:51:11",

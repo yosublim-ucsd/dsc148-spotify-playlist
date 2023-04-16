@@ -71,6 +71,28 @@
     },
     {
       "album": {
+        "name": "10 minutes",
+        "url": "https://open.spotify.com/album/0ol1B23XBesTo8fCDPPLFq"
+      },
+      "artists": [
+        {
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
+        },
+        {
+          "name": "Dinos",
+          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152440,
+      "name": "10 minutes",
+      "url": "https://open.spotify.com/track/2EHcd7CEEFfkaf2XV2ba49"
+    },
+    {
+      "album": {
         "name": "10 Years",
         "url": "https://open.spotify.com/album/2Zegz0LaKZgwrLo5UbEa2x"
       },
@@ -1922,7 +1944,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 200690,
       "name": "Anti-Hero",
       "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
@@ -2886,7 +2908,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 157252,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e"
@@ -4738,7 +4760,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 131013,
       "name": "Boy's a liar Pt. 2",
       "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
@@ -5704,6 +5726,24 @@
       "duration_ms": 230703,
       "name": "Check (feat. GRiNGO & Samra)",
       "url": "https://open.spotify.com/track/7wBHOv8RAS6Womug1T0b4J"
+    },
+    {
+      "album": {
+        "name": "Chemical",
+        "url": "https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184013,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
     },
     {
       "album": {
@@ -7247,6 +7287,24 @@
     },
     {
       "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212953,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
+    },
+    {
+      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -7334,6 +7392,24 @@
       "duration_ms": 215507,
       "name": "deja vu",
       "url": "https://open.spotify.com/track/61KpQadow081I2AsbeLcsb"
+    },
+    {
+      "album": {
+        "name": "2069'",
+        "url": "https://open.spotify.com/album/50UFRkLAkzL731ZFWym4Vq"
+      },
+      "artists": [
+        {
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183013,
+      "name": "Demain",
+      "url": "https://open.spotify.com/track/66TAAKeoOD0cFpVRug9IXZ"
     },
     {
       "album": {
@@ -10116,7 +10192,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 186661,
       "name": "Ferrari",
       "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
@@ -12269,6 +12345,28 @@
     },
     {
       "album": {
+        "name": "Harroj",
+        "url": "https://open.spotify.com/album/5si6uRAgLaq22fbh5h5BEm"
+      },
+      "artists": [
+        {
+          "name": "Dafina Zeqiri",
+          "url": "https://open.spotify.com/artist/6V6mxrGG67IyLFy2l4poNZ"
+        },
+        {
+          "name": "Cricket",
+          "url": "https://open.spotify.com/artist/3lM0nwY4ZsxbbIiGHFwceN"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229090,
+      "name": "Harroj",
+      "url": "https://open.spotify.com/track/3z4FGxfmbiVcbKTYUYraTt"
+    },
+    {
+      "album": {
         "name": "Mauvais Ordre",
         "url": "https://open.spotify.com/album/6R8nBTTPwlP7iur0wV3oLq"
       },
@@ -12470,7 +12568,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
@@ -13048,7 +13146,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 163603,
       "name": "How Do I Say Goodbye",
       "url": "https://open.spotify.com/track/1aOl53hkZGHkl2Snhr7opL"
@@ -14772,6 +14870,24 @@
       "duration_ms": 177705,
       "name": "Jefe",
       "url": "https://open.spotify.com/track/6HTJgY7iWWlVLSDHsfHePf"
+    },
+    {
+      "album": {
+        "name": "ALPHA",
+        "url": "https://open.spotify.com/album/4PADb3SC8g22XhFLYLKATm"
+      },
+      "artists": [
+        {
+          "name": "Noizy",
+          "url": "https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265733,
+      "name": "Jena Mbreter 2",
+      "url": "https://open.spotify.com/track/2fKhwChrBYgU3suVZd8LrK"
     },
     {
       "album": {
@@ -16654,7 +16770,7 @@
       ],
       "date_added": "2022-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 174246,
       "name": "LET GO",
       "url": "https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN"
@@ -17462,7 +17578,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 322226,
       "name": "Lose Yourself - From \"8 Mile\" Soundtrack",
       "url": "https://open.spotify.com/track/1v7L65Lzy0j0vdpRjJewt1"
@@ -19680,6 +19796,36 @@
       "duration_ms": 178500,
       "name": "Million\u00e4r",
       "url": "https://open.spotify.com/track/0QltWldlWMsdcxCgmJss3k"
+    },
+    {
+      "album": {
+        "name": "MIRAGE (feat. Ozuna, Sfera Ebbasta & GIMS)",
+        "url": "https://open.spotify.com/album/5WbgkuQehIgUQn9s5gpbZH"
+      },
+      "artists": [
+        {
+          "name": "AriBeatz",
+          "url": "https://open.spotify.com/artist/6cNWiizYLCClZdnIvqU968"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206054,
+      "name": "MIRAGE (feat. Ozuna, GIMS & Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/4e1U6KRJGed8gh3uRbAv3P"
     },
     {
       "album": {
@@ -25292,7 +25438,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm"
@@ -26996,7 +27142,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 151319,
       "name": "Sie wei\u00df (feat. Mero)",
       "url": "https://open.spotify.com/track/7DyDjhZMEIK5Ied4juTCyc"
@@ -27942,6 +28088,28 @@
       "duration_ms": 141395,
       "name": "Sternenstaub",
       "url": "https://open.spotify.com/track/0j1whACQqbHlGzSZaUh6uR"
+    },
+    {
+      "album": {
+        "name": "STERNHIMMELDACH",
+        "url": "https://open.spotify.com/album/6CncvjB7IQ5EP78e8HlJYK"
+      },
+      "artists": [
+        {
+          "name": "BOJAN",
+          "url": "https://open.spotify.com/artist/0oxWjDXa2iXcVB11n8RY3U"
+        },
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170373,
+      "name": "STERNHIMMELDACH",
+      "url": "https://open.spotify.com/track/0pMrfuW3AFMzqdHbzXuK2x"
     },
     {
       "album": {
@@ -31065,6 +31233,28 @@
     },
     {
       "album": {
+        "name": "Vom Kaff id Charts",
+        "url": "https://open.spotify.com/album/1mGdGRuWPaBx6w7BkBzoVG"
+      },
+      "artists": [
+        {
+          "name": "Mimiks",
+          "url": "https://open.spotify.com/artist/4Bg4oUbN39ECtRSb4xRSFw"
+        },
+        {
+          "name": "LCone",
+          "url": "https://open.spotify.com/artist/10fua9lLREs5JISPcCyyJn"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170001,
+      "name": "Vom Kaff id Charts",
+      "url": "https://open.spotify.com/track/1E0pkQRj2VWz1WncLQb9T8"
+    },
+    {
+      "album": {
         "name": "VON DA WO ICH KOMME",
         "url": "https://open.spotify.com/album/0d9brfMDijcovNRgdYEQ4l"
       },
@@ -32033,6 +32223,28 @@
     },
     {
       "album": {
+        "name": "Wichtig",
+        "url": "https://open.spotify.com/album/08xjt5MjMrMnmJgW2MEcec"
+      },
+      "artists": [
+        {
+          "name": "Sergen",
+          "url": "https://open.spotify.com/artist/1rP4Q1mkJ12vqwQCDsQPfM"
+        },
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141935,
+      "name": "Wichtig",
+      "url": "https://open.spotify.com/track/0ctW3lmoAClcElU1SGTsTC"
+    },
+    {
+      "album": {
         "name": "WIE EIN BOSS",
         "url": "https://open.spotify.com/album/0fAO4thS7KfYGRP6em31n0"
       },
@@ -32145,6 +32357,24 @@
     },
     {
       "album": {
+        "name": "Wish You The Best",
+        "url": "https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210880,
+      "name": "Wish You The Best",
+      "url": "https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3"
+    },
+    {
+      "album": {
         "name": "The Eminem Show",
         "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
       },
@@ -32156,7 +32386,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 290320,
       "name": "Without Me",
       "url": "https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk"

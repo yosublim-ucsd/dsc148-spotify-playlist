@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0unpD0.md) - [plain]
 
 > This is Salif Keita\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,633 likes - 50 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,641 likes - 50 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0unpD0.md) - [plain]
 | 36 | [La Différence](https://open.spotify.com/track/3ONfiEPnapVGBui8Wa3EgB) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Anthology](https://open.spotify.com/album/1MtV9HzzK1SRuAzIBfZ839) | 4:04 |
 | 37 | [Tono](https://open.spotify.com/track/6i3SKf6JxZoByA6anVcIhC) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Amen](https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9) | 5:30 |
 | 38 | [Koukou](https://open.spotify.com/track/3yFNmyHGgHf6dFTGNawJqP) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Moffou](https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX) | 6:02 |
-| 39 | [Mandjou](https://open.spotify.com/track/570RkoEwDPsjg5h16A0xsl) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Folon](https://open.spotify.com/album/29kRIxD16ZaWot5NKCtS9O) | 10:37 |
-| 40 | [Da](https://open.spotify.com/track/1oAM55oTaAwYWxH2jNISgy) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Africa Rising Vol.2](https://open.spotify.com/album/14HCDahvIyixSHE6F15vvK) | 3:53 |
+| 39 | [Da](https://open.spotify.com/track/1oAM55oTaAwYWxH2jNISgy) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Africa Rising Vol.2](https://open.spotify.com/album/14HCDahvIyixSHE6F15vvK) | 3:53 |
+| 40 | [Mandjou](https://open.spotify.com/track/570RkoEwDPsjg5h16A0xsl) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Folon](https://open.spotify.com/album/29kRIxD16ZaWot5NKCtS9O) | 10:37 |
 | 41 | [Masibambaneni](https://open.spotify.com/track/1pX94ATR4DVBR9viWZAaTP) | [Simphiwe Dana](https://open.spotify.com/artist/5l39d1wBRlqBC1qhXmYCuu), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Bamako](https://open.spotify.com/album/5h1nuuzwo2Usr6BTF5HMdw) | 5:06 |
 | 42 | [Iniagige](https://open.spotify.com/track/32pS0vZAnmWe6iYPjaJ0Af) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Moffou](https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX) | 4:33 |
 | 43 | [Yambo](https://open.spotify.com/track/25fS72Gn3j78nfYOKLcrQk) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [M'Bemba](https://open.spotify.com/album/6GUNbIwHYDkuSkcckTDawO) | 6:13 |
-| 44 | [Ignadjidje](https://open.spotify.com/track/5fhNHOjj1ewYB52gFsvlLP) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [The Mansa Of Mali ..\. A Retrospective](https://open.spotify.com/album/29ERIEUf3msDNaYcJ9Wk3a) | 6:04 |
-| 45 | [Lony](https://open.spotify.com/track/1jDI4xBByWxisEYzKXwJAn) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Amen](https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9) | 7:55 |
-| 46 | [Intro Mansa](https://open.spotify.com/track/3LvMNf57Nob6B9fzqQUmoT) | [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [19](https://open.spotify.com/album/2RyStD6P60MtZWqq23c1xw) | 1:55 |
-| 47 | [Samigna](https://open.spotify.com/track/0frOJC09kJ9NiwH29IujCR) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [La Différence](https://open.spotify.com/album/7a4afzRjojaKFCf9EGmd8B) | 7:09 |
-| 48 | [Nou Pas Bouger](https://open.spotify.com/track/6DfYnlR5IrPzVJ4lPhtU6E) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Paul "Groucho" Smylke](https://open.spotify.com/artist/2xuZBGQZSFjSS5Aq3ji2AN) | [Anthology](https://open.spotify.com/album/1MtV9HzzK1SRuAzIBfZ839) | 7:14 |
-| 49 | [Waraya](https://open.spotify.com/track/6PUJcLbzL08u4anhZGarRu) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Amen](https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9) | 6:05 |
-| 50 | [Des humains \(feat\. Salif Keita\)](https://open.spotify.com/track/1qam3RPfPkugXYYTT1h0nU) | [R.Wan](https://open.spotify.com/artist/4mKvEitgF7NfkYzNzApnwT), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [La gouache](https://open.spotify.com/album/6BdRY8R7yMvzWMSJ3qFHw0) | 4:02 |
+| 44 | [Waraya](https://open.spotify.com/track/6PUJcLbzL08u4anhZGarRu) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Amen](https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9) | 6:05 |
+| 45 | [Ignadjidje](https://open.spotify.com/track/5fhNHOjj1ewYB52gFsvlLP) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [The Mansa Of Mali ..\. A Retrospective](https://open.spotify.com/album/29ERIEUf3msDNaYcJ9Wk3a) | 6:04 |
+| 46 | [Samigna](https://open.spotify.com/track/0frOJC09kJ9NiwH29IujCR) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [La Différence](https://open.spotify.com/album/7a4afzRjojaKFCf9EGmd8B) | 7:09 |
+| 47 | [Intro Mansa](https://open.spotify.com/track/3LvMNf57Nob6B9fzqQUmoT) | [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [19](https://open.spotify.com/album/2RyStD6P60MtZWqq23c1xw) | 1:55 |
+| 48 | [Lony](https://open.spotify.com/track/1jDI4xBByWxisEYzKXwJAn) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Amen](https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9) | 7:55 |
+| 49 | [Nou Pas Bouger](https://open.spotify.com/track/6DfYnlR5IrPzVJ4lPhtU6E) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Paul "Groucho" Smylke](https://open.spotify.com/artist/2xuZBGQZSFjSS5Aq3ji2AN) | [Anthology](https://open.spotify.com/album/1MtV9HzzK1SRuAzIBfZ839) | 7:14 |
+| 50 | [Papa](https://open.spotify.com/track/7FJETIwlHuxinqGBaufsYz) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [La Différence](https://open.spotify.com/album/7a4afzRjojaKFCf9EGmd8B) | 6:59 |
 
-Snapshot ID: `MjgwMjQ4NTIsMDAwMDAwMDBkY2Y5ZGEyMjRhNjViMmUwZWQ3NmFlM2VkNjdlZmVkZg==`
+Snapshot ID: `MjgwMjYwMzEsMDAwMDAwMDBkZWJmZGE3YmY0MDBkYmIxMzQzY2MwYmFiODA3MDUzNw==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dTWjpijlub.md) - [plain]
 
 > The champs are here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,935 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,139 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dTWjpijlub.md) - [plain]
 | 37 | [Dreams and Nightmares](https://open.spotify.com/track/42zd6DYQ4o4SECmTITrM1U) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Dreams and Nightmares \(Deluxe Edition\)](https://open.spotify.com/album/0zhZDmHEtDtok393SbZ3d7) | 3:50 |
 | 38 | [Dua Lipa](https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:15 |
 | 39 | [Ramen & OJ](https://open.spotify.com/track/4TIqzdAssasqx3DAe6cG9J) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Ramen & OJ](https://open.spotify.com/album/48ahZJLcagb8VTgRAuv6WQ) | 3:38 |
-| 40 | [G.O.M.D](https://open.spotify.com/track/0Thqjtu54vKMP06pwZkAWp) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 5:01 |
-| 41 | [Did It Again](https://open.spotify.com/track/4guBZjUyrGoHsTahO3IHdj) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca](https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB) | 1:56 |
+| 40 | [Did It Again](https://open.spotify.com/track/4guBZjUyrGoHsTahO3IHdj) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca](https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB) | 1:56 |
+| 41 | [G.O.M.D](https://open.spotify.com/track/0Thqjtu54vKMP06pwZkAWp) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 5:01 |
 | 42 | [Noticed](https://open.spotify.com/track/7zLYKWcXnYeHHWidalz7rj) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Northsbest \(Extended\)](https://open.spotify.com/album/6lggWd5q9Rh66OkDE1eNDr) | 2:45 |
 | 43 | [Wolves \(feat\. Post Malone\)](https://open.spotify.com/track/33gwZOGJWEZ7dRWPqPxBEZ) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Detroit 2](https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3) | 3:19 |
 | 44 | [Roll in Peace \(feat\. XXXTENTACION\)](https://open.spotify.com/track/40oKW22ZNNkEdZLJTScaQI) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Project Baby 2: All Grown Up](https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dTWjpijlub.md) - [plain]
 | 49 | [NO BYSTANDERS](https://open.spotify.com/track/6OaVWaGfhXn70ZJfdVcabn) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 3:38 |
 | 50 | [Rags2Riches 2 \(feat\. Lil Baby\)](https://open.spotify.com/track/40TPiJpvwGIyvPjJMDTKfy) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Pray 4 Love \(Deluxe\)](https://open.spotify.com/album/0pGGvcUT08FrwV0RJIIVA9) | 3:55 |
 
-Snapshot ID: `MTY3NjUwNDkxOCwwMDAwMDAwMDk2YzYxMWJiM2MzZTc3ZjdhMjBlNTlkOWQxYjRiMjE0`
+Snapshot ID: `MTY3NjUwNDkxOCwwMDAwMDAwMDhhNzUxOGE0MDhhOTc5MmM5YjIyZTgzZDYzMDBlNDlj`

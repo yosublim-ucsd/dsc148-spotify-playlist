@@ -4,7 +4,7 @@
 
 > Pop hits to keep your workout fresh.
 
-485 songs - 1 day 0 hr 38 min
+486 songs - 1 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,8 @@
 | [Hawái \- Remix](https://open.spotify.com/track/0GzuHFG4Ql6DoyxFRnIk3F) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hawái \(Remix\)](https://open.spotify.com/album/1Ag9EPbzibwzz0S0WpgX3v) | 3:20 | 2022-03-25 | 2022-09-17 |
 | [Head on Fire](https://open.spotify.com/track/6QLNcOI6YCqdLAS6GLWXMj) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff), [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Head on Fire](https://open.spotify.com/album/4M4Ekef97nQCzxxxC7z6hg) | 3:08 | 2022-03-25 | 2022-07-12 |
 | [Headphones](https://open.spotify.com/track/1R7WcoUBGKJY15HGQxb62G) | [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p), [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Headphones](https://open.spotify.com/album/1wby36csRn1oBpSZWjz56F) | 2:28 | 2022-03-25 | 2022-04-19 |
-| [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 | 2021-12-17 |  |
+| [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 | 2021-12-17 | 2023-04-16 |
+| [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 | 2023-04-14 |  |
 | [Heaven](https://open.spotify.com/track/0vrmHPfoBadXVr2n0m1aqZ) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [TIM](https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ) | 4:37 | 2022-03-25 | 2022-04-19 |
 | [Hell and High Water \(feat\. Alessia Cara\)](https://open.spotify.com/track/5C2ry6OWozoqrEDyBz7MOX) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Music Is The Weapon](https://open.spotify.com/album/5sfr7pnsTBW9wcQPbxuitJ) | 2:25 | 2022-03-25 | 2022-04-04 |
 | [Hero](https://open.spotify.com/track/557Xkoud7EtdyjdyRkrhRy) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Hero](https://open.spotify.com/album/2JzWNdIyeicmPGTUJEoynM) | 2:54 | 2021-12-17 | 2022-07-29 |

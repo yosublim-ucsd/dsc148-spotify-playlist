@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5M59nhwFlWl.md) - [plain]
 
 > That unbridled, unholy, loud and dirty 90s rock goodness you know you love
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,986 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,081 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

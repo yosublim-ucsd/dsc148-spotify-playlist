@@ -1,12 +1,12 @@
 {
   "description": "Todo el sonido indie de Chile. Foto: Vicenta",
-  "num_followers": 127817,
+  "num_followers": 127828,
   "original_name": "Indie Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQxNjU5OSwwMDAwMDAwMDU0ZjEwNjdiZmU0YjZjYTU1ZjZlZDg3OGMyZDczNjI5",
+  "snapshot_id": "MTY4MTQxNjU5OSwwMDAwMDAwMGNhY2NjODJjZWI2YTM4MWFjNmYyMDc3NDdlNTMwZmRk",
   "tracks": [
     {
       "added_at": "2023-04-13 20:09:59",
@@ -411,30 +411,6 @@
     {
       "added_at": "2023-04-13 20:09:59",
       "album": {
-        "name": "\u00daltimo Adi\u00f3s",
-        "url": "https://open.spotify.com/album/3NypapKHKGVY92ONbBSy3M"
-      },
-      "artists": [
-        {
-          "name": "Mec\u00e1nico",
-          "url": "https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct"
-        },
-        {
-          "name": "Goyo Degano",
-          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
-        },
-        {
-          "name": "Baltazar Clusellas",
-          "url": "https://open.spotify.com/artist/37hRvfW8T7lfdU7XdpZ6nX"
-        }
-      ],
-      "duration_ms": 237750,
-      "name": "\u00daltimo Adi\u00f3s",
-      "url": "https://open.spotify.com/track/7lBhTIVEhFmuptaX7Cs1vD"
-    },
-    {
-      "added_at": "2023-04-13 20:09:59",
-      "album": {
         "name": "No Hay Otra Igual",
         "url": "https://open.spotify.com/album/7G6dIHEEIgoSkAeXO9OKUa"
       },
@@ -447,22 +423,6 @@
       "duration_ms": 173994,
       "name": "No Hay Otra Igual",
       "url": "https://open.spotify.com/track/2F7BLXkhLMjSd3L9YN5Mc1"
-    },
-    {
-      "added_at": "2023-04-13 20:09:59",
-      "album": {
-        "name": "Suave Pendiente",
-        "url": "https://open.spotify.com/album/33H62Vxr3nX4jQCvbfHP54"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1os Del Cerro",
-          "url": "https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy"
-        }
-      ],
-      "duration_ms": 266502,
-      "name": "Sulamita",
-      "url": "https://open.spotify.com/track/6GeDdnTBZmZzu9luTKndJs"
     },
     {
       "added_at": "2023-04-13 20:09:59",
@@ -483,6 +443,46 @@
       "duration_ms": 221625,
       "name": "Una Mitad de M\u00ed",
       "url": "https://open.spotify.com/track/38bIIeg1Dcjnry2PhkvPdo"
+    },
+    {
+      "added_at": "2023-04-13 20:09:59",
+      "album": {
+        "name": "Suave Pendiente",
+        "url": "https://open.spotify.com/album/33H62Vxr3nX4jQCvbfHP54"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1os Del Cerro",
+          "url": "https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy"
+        }
+      ],
+      "duration_ms": 266502,
+      "name": "Sulamita",
+      "url": "https://open.spotify.com/track/6GeDdnTBZmZzu9luTKndJs"
+    },
+    {
+      "added_at": "2023-04-13 20:09:59",
+      "album": {
+        "name": "\u00daltimo Adi\u00f3s",
+        "url": "https://open.spotify.com/album/3NypapKHKGVY92ONbBSy3M"
+      },
+      "artists": [
+        {
+          "name": "Mec\u00e1nico",
+          "url": "https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct"
+        },
+        {
+          "name": "Goyo Degano",
+          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
+        },
+        {
+          "name": "Baltazar Clusellas",
+          "url": "https://open.spotify.com/artist/37hRvfW8T7lfdU7XdpZ6nX"
+        }
+      ],
+      "duration_ms": 237750,
+      "name": "\u00daltimo Adi\u00f3s",
+      "url": "https://open.spotify.com/track/7lBhTIVEhFmuptaX7Cs1vD"
     },
     {
       "added_at": "2023-04-13 20:09:59",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-04-13 20:09:59",
       "album": {
-        "name": "AMOR MINIMAL",
-        "url": "https://open.spotify.com/album/0OACOxBHoNzyA36x7au0bo"
-      },
-      "artists": [
-        {
-          "name": "Cancamusa",
-          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
-        }
-      ],
-      "duration_ms": 207436,
-      "name": "AMOR MINIMAL",
-      "url": "https://open.spotify.com/track/3gydgoR0OGDNJNhkY0337b"
-    },
-    {
-      "added_at": "2023-04-13 20:09:59",
-      "album": {
         "name": "Donde Mueren Todos",
         "url": "https://open.spotify.com/album/7H9luEo8S8ZrmfTXeBvpgM"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 189416,
       "name": "Donde Mueren Todos",
       "url": "https://open.spotify.com/track/44oCQkDKciyv322yWTCOTz"
+    },
+    {
+      "added_at": "2023-04-13 20:09:59",
+      "album": {
+        "name": "AMOR MINIMAL",
+        "url": "https://open.spotify.com/album/0OACOxBHoNzyA36x7au0bo"
+      },
+      "artists": [
+        {
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+        }
+      ],
+      "duration_ms": 207436,
+      "name": "AMOR MINIMAL",
+      "url": "https://open.spotify.com/track/3gydgoR0OGDNJNhkY0337b"
     },
     {
       "added_at": "2023-04-13 20:09:59",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-04-13 20:09:59",
       "album": {
-        "name": "La Sombra del Olvido",
-        "url": "https://open.spotify.com/album/3q9m1JtXaiPkFXpozedk6F"
-      },
-      "artists": [
-        {
-          "name": "LAR\u00d3",
-          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
-        }
-      ],
-      "duration_ms": 171390,
-      "name": "La Sombra del Olvido",
-      "url": "https://open.spotify.com/track/0OIrWcxtfqOBQsyeqil8QR"
-    },
-    {
-      "added_at": "2023-04-13 20:09:59",
-      "album": {
         "name": "Coquimbo, Mazatl\u00e1n",
         "url": "https://open.spotify.com/album/44SIr0g0SdQWjxmZSOo6cd"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 264732,
       "name": "Coquimbo, Mazatl\u00e1n",
       "url": "https://open.spotify.com/track/6hJ3NOmGfnY11dvwsM2I3Z"
+    },
+    {
+      "added_at": "2023-04-13 20:09:59",
+      "album": {
+        "name": "La Sombra del Olvido",
+        "url": "https://open.spotify.com/album/3q9m1JtXaiPkFXpozedk6F"
+      },
+      "artists": [
+        {
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
+        }
+      ],
+      "duration_ms": 171390,
+      "name": "La Sombra del Olvido",
+      "url": "https://open.spotify.com/track/0OIrWcxtfqOBQsyeqil8QR"
     },
     {
       "added_at": "2023-04-13 20:09:59",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-04-13 20:09:59",
       "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/1qihx2rcmCRKx5EsL8gvX3"
-      },
-      "artists": [
-        {
-          "name": "Bocho",
-          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
-        }
-      ],
-      "duration_ms": 207014,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/17WypwnCUAFWDFIkyoBlmu"
-    },
-    {
-      "added_at": "2023-04-13 20:09:59",
-      "album": {
         "name": "Frenes\u00ed (Te Perd\u00ed)",
         "url": "https://open.spotify.com/album/0l6tqre46Ufm049zR5vQUC"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 245317,
       "name": "Frenes\u00ed (Te Perd\u00ed)",
       "url": "https://open.spotify.com/track/4J0ToGvK1ft0siVhKl8PPN"
+    },
+    {
+      "added_at": "2023-04-13 20:09:59",
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/1qihx2rcmCRKx5EsL8gvX3"
+      },
+      "artists": [
+        {
+          "name": "Bocho",
+          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
+        }
+      ],
+      "duration_ms": 207014,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/17WypwnCUAFWDFIkyoBlmu"
     },
     {
       "added_at": "2023-04-13 20:09:59",
@@ -1247,6 +1247,26 @@
     {
       "added_at": "2023-04-13 20:09:59",
       "album": {
+        "name": "Recado Mistral",
+        "url": "https://open.spotify.com/album/5j36JaqDFaBswKhjTFwTOp"
+      },
+      "artists": [
+        {
+          "name": "Milton James",
+          "url": "https://open.spotify.com/artist/4ZhCWMfvrmKi7tWvdOsSJK"
+        },
+        {
+          "name": "Vicenta",
+          "url": "https://open.spotify.com/artist/0fMFxEzzksKzDMk4bFZodo"
+        }
+      ],
+      "duration_ms": 180284,
+      "name": "La Madre Ni\u00f1a",
+      "url": "https://open.spotify.com/track/4efJsMzQ85dmQEBQGWtwcs"
+    },
+    {
+      "added_at": "2023-04-13 20:09:59",
+      "album": {
         "name": "despacito",
         "url": "https://open.spotify.com/album/3F8syeMNfORCQwtsn2aPpC"
       },
@@ -1291,26 +1311,6 @@
       "duration_ms": 335832,
       "name": "\u00c1rboles y Pasarelas",
       "url": "https://open.spotify.com/track/6WpZRLPsYPddfQ2trrdyOD"
-    },
-    {
-      "added_at": "2023-04-13 20:09:59",
-      "album": {
-        "name": "Recado Mistral",
-        "url": "https://open.spotify.com/album/5j36JaqDFaBswKhjTFwTOp"
-      },
-      "artists": [
-        {
-          "name": "Milton James",
-          "url": "https://open.spotify.com/artist/4ZhCWMfvrmKi7tWvdOsSJK"
-        },
-        {
-          "name": "Vicenta",
-          "url": "https://open.spotify.com/artist/0fMFxEzzksKzDMk4bFZodo"
-        }
-      ],
-      "duration_ms": 180284,
-      "name": "La Madre Ni\u00f1a",
-      "url": "https://open.spotify.com/track/4efJsMzQ85dmQEBQGWtwcs"
     },
     {
       "added_at": "2023-04-13 20:09:59",
@@ -1375,26 +1375,6 @@
     {
       "added_at": "2023-04-13 20:09:59",
       "album": {
-        "name": "es caprichoso el azar",
-        "url": "https://open.spotify.com/album/7FwXaotHIpUepMYI2SzqPr"
-      },
-      "artists": [
-        {
-          "name": "gabriela arcos",
-          "url": "https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx"
-        },
-        {
-          "name": "t\u00edo pepe",
-          "url": "https://open.spotify.com/artist/2RZ0SqMMzsDKZBwUW4ygWA"
-        }
-      ],
-      "duration_ms": 177309,
-      "name": "es caprichoso el azar",
-      "url": "https://open.spotify.com/track/2Uunn684ajXS2E7Q9efp6e"
-    },
-    {
-      "added_at": "2023-04-13 20:09:59",
-      "album": {
         "name": "Casinaranja",
         "url": "https://open.spotify.com/album/3oS6bRaKUrgQ71Z65qp6uK"
       },
@@ -1439,6 +1419,26 @@
       "duration_ms": 204617,
       "name": "Corazonada",
       "url": "https://open.spotify.com/track/36h0uW75FKh8LraW4r9E2X"
+    },
+    {
+      "added_at": "2023-04-13 20:09:59",
+      "album": {
+        "name": "es caprichoso el azar",
+        "url": "https://open.spotify.com/album/7FwXaotHIpUepMYI2SzqPr"
+      },
+      "artists": [
+        {
+          "name": "gabriela arcos",
+          "url": "https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx"
+        },
+        {
+          "name": "t\u00edo pepe",
+          "url": "https://open.spotify.com/artist/2RZ0SqMMzsDKZBwUW4ygWA"
+        }
+      ],
+      "duration_ms": 177309,
+      "name": "es caprichoso el azar",
+      "url": "https://open.spotify.com/track/2Uunn684ajXS2E7Q9efp6e"
     },
     {
       "added_at": "2023-04-13 20:09:59",
@@ -1547,46 +1547,6 @@
     {
       "added_at": "2023-04-13 20:09:59",
       "album": {
-        "name": "arde lento (remixes)",
-        "url": "https://open.spotify.com/album/6cv8EMykDbV7tMt3B4ifh8"
-      },
-      "artists": [
-        {
-          "name": "chicarica",
-          "url": "https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN"
-        },
-        {
-          "name": "Lorelei",
-          "url": "https://open.spotify.com/artist/3whh4zpCGGs2fAhqeJ18qI"
-        }
-      ],
-      "duration_ms": 391125,
-      "name": "diamantes (lorelei remix)",
-      "url": "https://open.spotify.com/track/4gaFr7Df75y4fkp0lbHOCZ"
-    },
-    {
-      "added_at": "2023-04-13 20:09:59",
-      "album": {
-        "name": "Anatta",
-        "url": "https://open.spotify.com/album/6d8WkEhkPtYhj7rms84hpG"
-      },
-      "artists": [
-        {
-          "name": "Hausi Kuta",
-          "url": "https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF"
-        },
-        {
-          "name": "Cancamusa",
-          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
-        }
-      ],
-      "duration_ms": 398380,
-      "name": "Anatta",
-      "url": "https://open.spotify.com/track/6mBiUBEIfOhpJB9bnlQspd"
-    },
-    {
-      "added_at": "2023-04-13 20:09:59",
-      "album": {
         "name": "NUNCA +",
         "url": "https://open.spotify.com/album/4VhWGDxXEveBrL8GdeQkWn"
       },
@@ -1611,6 +1571,26 @@
     {
       "added_at": "2023-04-13 20:09:59",
       "album": {
+        "name": "arde lento (remixes)",
+        "url": "https://open.spotify.com/album/6cv8EMykDbV7tMt3B4ifh8"
+      },
+      "artists": [
+        {
+          "name": "chicarica",
+          "url": "https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN"
+        },
+        {
+          "name": "Lorelei",
+          "url": "https://open.spotify.com/artist/3whh4zpCGGs2fAhqeJ18qI"
+        }
+      ],
+      "duration_ms": 391125,
+      "name": "diamantes (lorelei remix)",
+      "url": "https://open.spotify.com/track/4gaFr7Df75y4fkp0lbHOCZ"
+    },
+    {
+      "added_at": "2023-04-13 20:09:59",
+      "album": {
         "name": "Te Vas",
         "url": "https://open.spotify.com/album/6invyko2L6heCQ9aLCJLna"
       },
@@ -1623,6 +1603,26 @@
       "duration_ms": 251261,
       "name": "Te Vas",
       "url": "https://open.spotify.com/track/7qQStAYkwgR92Ht75WeS3G"
+    },
+    {
+      "added_at": "2023-04-13 20:09:59",
+      "album": {
+        "name": "Anatta",
+        "url": "https://open.spotify.com/album/6d8WkEhkPtYhj7rms84hpG"
+      },
+      "artists": [
+        {
+          "name": "Hausi Kuta",
+          "url": "https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF"
+        },
+        {
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+        }
+      ],
+      "duration_ms": 398380,
+      "name": "Anatta",
+      "url": "https://open.spotify.com/track/6mBiUBEIfOhpJB9bnlQspd"
     },
     {
       "added_at": "2023-04-13 20:09:59",

@@ -1,12 +1,12 @@
 {
   "description": "let me hold both your hands in the holes of my sweater",
-  "num_followers": 70692,
+  "num_followers": 70671,
   "original_name": "Sweater Weather",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDAwNzc1NywwMDAwMDAwMDIyZmY0YWQxMjRlYzkzYjFmZDU5MDExYTMxMTRmMWRi",
+  "snapshot_id": "MTY3MDAwNzc1NywwMDAwMDAwMDIxMDhlMzdlNGZlODU4Yzc4ODBjMGIzNTliOGZhZWFk",
   "tracks": [
     {
       "added_at": "2022-12-02 19:02:37",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-12-02 19:02:37",
       "album": {
-        "name": "Writing of Blues and Yellows (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 187266,
-      "name": "La Lune",
-      "url": "https://open.spotify.com/track/0DwaOWI1kC2s98qLj0LTDd"
-    },
-    {
-      "added_at": "2022-12-02 19:02:37",
-      "album": {
         "name": "Oh Wonder",
         "url": "https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 196465,
       "name": "Drive",
       "url": "https://open.spotify.com/track/2kJqNHHGOzLNahukdvlDWN"
+    },
+    {
+      "added_at": "2022-12-02 19:02:37",
+      "album": {
+        "name": "Writing of Blues and Yellows (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 187266,
+      "name": "La Lune",
+      "url": "https://open.spotify.com/track/0DwaOWI1kC2s98qLj0LTDd"
     },
     {
       "added_at": "2022-12-02 19:02:37",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2022-12-02 19:02:37",
       "album": {
-        "name": "Subject To Change",
-        "url": "https://open.spotify.com/album/0r94JScFZwwTDVTo4YXwpx"
-      },
-      "artists": [
-        {
-          "name": "Katelyn Tarver",
-          "url": "https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn"
-        }
-      ],
-      "duration_ms": 160720,
-      "name": "Glad I Got You",
-      "url": "https://open.spotify.com/track/77QHKxBniAzCLen3aKgKgw"
-    },
-    {
-      "added_at": "2022-12-02 19:02:37",
-      "album": {
         "name": "Mountaineer",
         "url": "https://open.spotify.com/album/5AtMxNyGbY4sJnEyFbbig7"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 221875,
       "name": "Mountaineer",
       "url": "https://open.spotify.com/track/6qgiIu9Up7oDWfQnaajvy3"
+    },
+    {
+      "added_at": "2022-12-02 19:02:37",
+      "album": {
+        "name": "Subject To Change",
+        "url": "https://open.spotify.com/album/0r94JScFZwwTDVTo4YXwpx"
+      },
+      "artists": [
+        {
+          "name": "Katelyn Tarver",
+          "url": "https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn"
+        }
+      ],
+      "duration_ms": 160720,
+      "name": "Glad I Got You",
+      "url": "https://open.spotify.com/track/77QHKxBniAzCLen3aKgKgw"
     },
     {
       "added_at": "2022-12-02 19:02:37",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-12-02 19:02:37",
       "album": {
-        "name": "Party Dress",
-        "url": "https://open.spotify.com/album/4Ai0OqgDbUNNRwhXQHbZEv"
-      },
-      "artists": [
-        {
-          "name": "Rosie Carney",
-          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
-        }
-      ],
-      "duration_ms": 194942,
-      "name": "Party Dress",
-      "url": "https://open.spotify.com/track/2G2IOxSv0G4zOitsfFpFQl"
-    },
-    {
-      "added_at": "2022-12-02 19:02:37",
-      "album": {
         "name": "Our Day",
         "url": "https://open.spotify.com/album/2KB5Knafh3nJvxA1aQZ8vp"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 123374,
       "name": "I Can See New Zealand From Here",
       "url": "https://open.spotify.com/track/3Sj8sORRaM4exIA4oJzdhh"
+    },
+    {
+      "added_at": "2022-12-02 19:02:37",
+      "album": {
+        "name": "Party Dress",
+        "url": "https://open.spotify.com/album/4Ai0OqgDbUNNRwhXQHbZEv"
+      },
+      "artists": [
+        {
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+        }
+      ],
+      "duration_ms": 194942,
+      "name": "Party Dress",
+      "url": "https://open.spotify.com/track/2G2IOxSv0G4zOitsfFpFQl"
     },
     {
       "added_at": "2022-12-02 19:02:37",

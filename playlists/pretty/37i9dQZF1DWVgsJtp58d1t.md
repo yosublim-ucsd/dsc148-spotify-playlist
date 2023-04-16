@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music each and every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,001,828 likes - 101 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,001,911 likes - 101 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 35 | [Out The Way](https://open.spotify.com/track/64OXh8SzKftr2F31ynOx4t) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [Out The Way](https://open.spotify.com/album/4ZVnNXeKjdyBrtPviUpMVT) | 2:25 |
 | 36 | [i see you](https://open.spotify.com/track/4FWN1eZehxMQtUDT9w9rVm) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [utopia](https://open.spotify.com/album/7IHRaZLHGqnXJZ2npODrYO) | 3:35 |
 | 37 | [Can't Let Go](https://open.spotify.com/track/2wX9CK19EnFzWUwxcQN54n) | [Kamiyada+](https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF) | [Can't Let Go](https://open.spotify.com/album/30VYWmoettEwWALvhzaUUw) | 2:18 |
-| 38 | [Magic](https://open.spotify.com/track/6pZ5mZ9vyL1LhnBhe9F0ab) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Magic](https://open.spotify.com/album/5l41YMfQTv7Rn2htpTbDit) | 2:22 |
+| 38 | [Magic](https://open.spotify.com/track/6pZ5mZ9vyL1LhnBhe9F0ab) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Magic](https://open.spotify.com/album/5l41YMfQTv7Rn2htpTbDit) | 2:21 |
 | 39 | [Advantage](https://open.spotify.com/track/4vxPfYUYtMNn3pCIjsIMG0) | [MiLES.](https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I) | [Advantage](https://open.spotify.com/album/7A7pDwj28Ak57XiZeaUzPb) | 3:25 |
 | 40 | [Pull Up](https://open.spotify.com/track/7B14SxMZsylXcX8FJSaClw) | [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr) | [Pull Up](https://open.spotify.com/album/0wS6TiGQ7Aqy8EqGZvd6Ru) | 2:22 |
 | 41 | [Cupid's Chokehold \(Club Mix\)](https://open.spotify.com/track/4dLgw3ZFV7ETbvUCBt0CAP) | [Gym Class Heroes](https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli), [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Cupid's Chokehold \(Club Mix\)](https://open.spotify.com/album/0CGkn5SDd6WD7OKp1Zz0Tv) | 2:10 |

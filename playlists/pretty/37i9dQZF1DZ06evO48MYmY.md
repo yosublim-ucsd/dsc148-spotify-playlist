@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO48MYmY.md) - [plain]
 
 > This is Simon & Garfunkel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,127 likes - 44 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,224 likes - 44 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,12 +36,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO48MYmY.md) - [plain]
 | 26 | [The Dangling Conversation](https://open.spotify.com/track/1tQy2AqgFc0AdddmIboIfX) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Parsley, Sage, Rosemary And Thyme](https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7) | 2:38 |
 | 27 | [The Sun Is Burning](https://open.spotify.com/track/3bophIN3WTxzLd4yiIZv6X) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Wednesday Morning, 3 A.M.](https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0) | 2:48 |
 | 28 | [Anji](https://open.spotify.com/track/5pT4qRIpNb7cASsnMfE1Hc) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Sounds Of Silence](https://open.spotify.com/album/07RAGILF28QweYQSZasr5k) | 2:13 |
-| 29 | [That Silver\-Haired Daddy of Mine \- Live at Long Beach Arena, Long Beach, CA \- November 1969](https://open.spotify.com/track/4aBIXNKJ5SvyTaZLhnisnw) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Live 1969](https://open.spotify.com/album/1agP6sAeWsH8Pgm8WrVtdl) | 3:11 |
-| 30 | [At the Zoo](https://open.spotify.com/track/0b1NUCAYfEOuPx9nELBBfX) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bookends](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) | 2:22 |
+| 29 | [At the Zoo](https://open.spotify.com/track/0b1NUCAYfEOuPx9nELBBfX) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bookends](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) | 2:22 |
+| 30 | [That Silver\-Haired Daddy of Mine \- Live at Long Beach Arena, Long Beach, CA \- November 1969](https://open.spotify.com/track/4aBIXNKJ5SvyTaZLhnisnw) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Live 1969](https://open.spotify.com/album/1agP6sAeWsH8Pgm8WrVtdl) | 3:11 |
 | 31 | [The Times They Are A\-Changin'](https://open.spotify.com/track/3sO5oZ9NLbAlU6h1qVCPJq) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Wednesday Morning, 3 A.M.](https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0) | 2:50 |
 | 32 | [Wake up Little Susie \- Live at Central Park, New York, NY \- September 19, 1981](https://open.spotify.com/track/3i10Co0CjEzd1UpamggnlT) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [The Concert in Central Park \(Live\)](https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb) | 2:18 |
-| 33 | [You Don't Know Where Your Interest Lies \- Single B\-Side \- 1968](https://open.spotify.com/track/0umD849rktmP7fcXCSukYk) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Old Friends](https://open.spotify.com/album/3m1Gr5BQXhKZKf2yV7h2nl) | 2:18 |
-| 34 | [Old Friends](https://open.spotify.com/track/7vJRHZP1PuNwjUcoCsWlul) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bookends](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) | 2:35 |
+| 33 | [Old Friends](https://open.spotify.com/track/7vJRHZP1PuNwjUcoCsWlul) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bookends](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) | 2:35 |
+| 34 | [You Don't Know Where Your Interest Lies \- Single B\-Side \- 1968](https://open.spotify.com/track/0umD849rktmP7fcXCSukYk) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Old Friends](https://open.spotify.com/album/3m1Gr5BQXhKZKf2yV7h2nl) | 2:18 |
 | 35 | [Old Friends / Bookends Theme \- Live in Toledo, OH \- November 1969](https://open.spotify.com/track/5dKUMWNp0Y18VHkGGJCJR9) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Live 1969](https://open.spotify.com/album/1agP6sAeWsH8Pgm8WrVtdl) | 3:22 |
 | 36 | [Slip Slidin' Away \- Live at Central Park, New York, NY \- September 19, 1981](https://open.spotify.com/track/3sfwzml4pqeGyeK1aTEmAF) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [The Concert in Central Park \(Live\)](https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb) | 4:42 |
 | 37 | [Citizen of the Planet](https://open.spotify.com/track/1ir7Or967weO0kwfatM7W5) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Old Friends Live On Stage](https://open.spotify.com/album/3jgeQPfd5s935zMEJ6djm5) | 3:14 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO48MYmY.md) - [plain]
 | 43 | [Me and Julio Down by the Schoolyard \- Live at Central Park, New York, NY \- September 19, 1981](https://open.spotify.com/track/48mETFQ8n1Cq04eR32eyAn) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [The Concert in Central Park \(Live\)](https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb) | 3:47 |
 | 44 | [Kodachrome / Mabellene \- Live at Central Park, New York, NY \- September 19, 1981](https://open.spotify.com/track/1f4CJp5p2OWS0dsyK1symi) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [The Concert in Central Park \(Live\)](https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb) | 5:49 |
 
-Snapshot ID: `MjgwMjQ4NTIsMDAwMDAwMDAxMzQyY2Q4MzZjNWYxZGZjYTk5NmI5N2U1OGUwNzA0OQ==`
+Snapshot ID: `MjgwMjYwMzIsMDAwMDAwMDBlNjRmMzEwOWYwZWNmYTY4OWM5M2MwYzZjNTM0N2QyMg==`

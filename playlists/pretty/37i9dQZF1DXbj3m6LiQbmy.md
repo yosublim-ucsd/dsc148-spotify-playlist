@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 
 > Free to be! Musica dalla comunità LGBQTIA+ e dai suoi alleati\. Ethan in cover! <a href="spotify:playlist:37i9dQZF1DX3LyU0mhfqgP">Qua la playlist global</a> ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,356 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,359 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,17 +71,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 61 | [A Che Ora l'Amore](https://open.spotify.com/track/3sdaPhbnFsgaH0baQeiXaJ) | [Club Domani](https://open.spotify.com/artist/0uZI4sqpl7jJQ19T7dcsM8), [Airys](https://open.spotify.com/artist/2yB8B2iuGUq3Uj1itIAaDc) | [Club Domani](https://open.spotify.com/album/4XqgviyTowdiw6Q9z67kzL) | 4:17 |
 | 62 | [MOVESET \(feat\. Kiddy Smile & David Blank\)](https://open.spotify.com/track/3i6DPGR1k1AOnVaGltT4hY) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM), [Kiddy Smile](https://open.spotify.com/artist/4Y5crYhYaEQKOzikPPIZDx), [David Blank](https://open.spotify.com/artist/21s8IBxSQOOZQKjW6oNgQ6) | [CLUB TOPPERIA](https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei) | 3:16 |
 | 63 | [Notte Divina \- Vocal Night Version](https://open.spotify.com/track/6hqM6PuQ7kENdOC1qLLXWr) | [Moy Boy](https://open.spotify.com/artist/0TJfVmdYJVP8pt2nFPtFms), [Frank'O Moiraghi](https://open.spotify.com/artist/4eHnEMdLNXd1HaZZrcnFRI) | [Notte divina](https://open.spotify.com/album/5bD4FUyTkm2PKNmeJrXkI8) | 6:45 |
-| 64 | [6 un caxxo di rave](https://open.spotify.com/track/1LgDAUlKJ3Vfspxdlhl5vH) | [Troyamaki](https://open.spotify.com/artist/2sg19ijzUk1KsvKUs3YrxG), [christiannife](https://open.spotify.com/artist/2NYOgwHpoIPcS6H4WQs5XB) | [6 un caxxo di rave](https://open.spotify.com/album/3lEDFSWlwnj6J1MiOyL0Hg) | 2:31 |
-| 65 | [Godi](https://open.spotify.com/track/6XpjLXTgXl3gHbrd5gM29p) | [Faust'o](https://open.spotify.com/artist/4BgqktLeGqB17L9WEVoGjV) | [Suicidio](https://open.spotify.com/album/0hL1QZ2GTU2EN9auyN4DcA) | 3:24 |
-| 66 | [Magari Vivi](https://open.spotify.com/track/2VywcqDZs2jKbBj6xKQEI2) | [Romina Falconi](https://open.spotify.com/artist/7miQC7MI2Hne4f41KiPi1K) | [Magari Vivi](https://open.spotify.com/album/1F9xKBAzp8KOGupd0ARFpq) | 2:49 |
+| 64 | [Magari Vivi](https://open.spotify.com/track/2VywcqDZs2jKbBj6xKQEI2) | [Romina Falconi](https://open.spotify.com/artist/7miQC7MI2Hne4f41KiPi1K) | [Magari Vivi](https://open.spotify.com/album/1F9xKBAzp8KOGupd0ARFpq) | 2:49 |
+| 65 | [6 un caxxo di rave](https://open.spotify.com/track/1LgDAUlKJ3Vfspxdlhl5vH) | [Troyamaki](https://open.spotify.com/artist/2sg19ijzUk1KsvKUs3YrxG), [christiannife](https://open.spotify.com/artist/2NYOgwHpoIPcS6H4WQs5XB) | [6 un caxxo di rave](https://open.spotify.com/album/3lEDFSWlwnj6J1MiOyL0Hg) | 2:31 |
+| 66 | [Godi](https://open.spotify.com/track/6XpjLXTgXl3gHbrd5gM29p) | [Faust'o](https://open.spotify.com/artist/4BgqktLeGqB17L9WEVoGjV) | [Suicidio](https://open.spotify.com/album/0hL1QZ2GTU2EN9auyN4DcA) | 3:24 |
 | 67 | [Credo che tra un po'](https://open.spotify.com/track/44rkvJd0ooTjet7uKM1q8t) | [Whitemary](https://open.spotify.com/artist/5bfb49rPCcTFUqn6SVX8nt) | [Credo che tra un po'](https://open.spotify.com/album/2roW0PmPr5vCIugdGX9kpF) | 3:38 |
 | 68 | [Gold](https://open.spotify.com/track/6zIBIkhO98iYaEks8h5HbX) | [Osvaldo Supino](https://open.spotify.com/artist/2TBG5SJEZQDtdDAfHB2Xyj) | [Gold](https://open.spotify.com/album/2JpHSOi6FOjzQ6pBMoCIJs) | 3:16 |
 | 69 | [Cerco un uomo](https://open.spotify.com/track/7tJy22xDBueKtHRbO8rVVE) | [Sandra Mondaini](https://open.spotify.com/artist/08dxAGAp8DayvKCltnu9hm) | [Le più belle canzoni di Sandra Mondaini](https://open.spotify.com/album/0xWvoZI1iPlulOFZAJLsbO) | 3:41 |
-| 70 | [COL FASCIO NON SI SCOPA](https://open.spotify.com/track/2hsFWVIe90ZalnWeMJKbwl) | [ASOKO](https://open.spotify.com/artist/2KOljewrNvd3LCI2NaMj4Y), [Yumeaki](https://open.spotify.com/artist/4R01RVpb7mz8oC0VzPW2cN), [Icon Mode](https://open.spotify.com/artist/20FM6uvwjnNZEqX1W5SvF2) | [QUEERADISE](https://open.spotify.com/album/3uIS4STA53QzTuetrTr4xJ) | 1:51 |
-| 71 | [Lingua in Fiamme](https://open.spotify.com/track/66dUFD7kK9aHU4AwKJeMEL) | [Queen of Saba](https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW) | [Lingua in Fiamme](https://open.spotify.com/album/2LKM66yAYt1a0XS0jCdymF) | 3:03 |
-| 72 | [QUARANTENA](https://open.spotify.com/track/6b4CqGP4pv76ZZJWmunlwE) | [Les Flames](https://open.spotify.com/artist/65KmzmTGpvMwBrQ5UMioxP) | [QUARANTENA](https://open.spotify.com/album/2kgUogZAbvjnoKPcuXhEHS) | 2:04 |
-| 73 | [LANCIA DELTA INTEGRALE](https://open.spotify.com/track/2OVzSn3M49qQowsrZ9pTeI) | [European Vampire](https://open.spotify.com/artist/34jhkGXXN6BTviKzLoQXaS) | [FOREVER SPEEDING THROUGH DARKNESS](https://open.spotify.com/album/3NExizUBa6zdL1pMFZqnKO) | 3:51 |
-| 74 | [Mami Daddy](https://open.spotify.com/track/5VHcNSkMpkjiw245BovVm2) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [Next Big Thing](https://open.spotify.com/album/0TeCxhwt1zggy58jurdvMA) | 2:30 |
-| 75 | [La Suora](https://open.spotify.com/track/5ubAfEZgRmYFE1TEcw8dVq) | [Romina Falconi](https://open.spotify.com/artist/7miQC7MI2Hne4f41KiPi1K) | [La Suora](https://open.spotify.com/album/3wzvmQaqF6O3aFj5HM8BLk) | 3:03 |
+| 70 | [La Suora](https://open.spotify.com/track/5ubAfEZgRmYFE1TEcw8dVq) | [Romina Falconi](https://open.spotify.com/artist/7miQC7MI2Hne4f41KiPi1K) | [La Suora](https://open.spotify.com/album/3wzvmQaqF6O3aFj5HM8BLk) | 3:03 |
+| 71 | [COL FASCIO NON SI SCOPA](https://open.spotify.com/track/2hsFWVIe90ZalnWeMJKbwl) | [ASOKO](https://open.spotify.com/artist/2KOljewrNvd3LCI2NaMj4Y), [Yumeaki](https://open.spotify.com/artist/4R01RVpb7mz8oC0VzPW2cN), [Icon Mode](https://open.spotify.com/artist/20FM6uvwjnNZEqX1W5SvF2) | [QUEERADISE](https://open.spotify.com/album/3uIS4STA53QzTuetrTr4xJ) | 1:51 |
+| 72 | [Lingua in Fiamme](https://open.spotify.com/track/66dUFD7kK9aHU4AwKJeMEL) | [Queen of Saba](https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW) | [Lingua in Fiamme](https://open.spotify.com/album/2LKM66yAYt1a0XS0jCdymF) | 3:03 |
+| 73 | [QUARANTENA](https://open.spotify.com/track/6b4CqGP4pv76ZZJWmunlwE) | [Les Flames](https://open.spotify.com/artist/65KmzmTGpvMwBrQ5UMioxP) | [QUARANTENA](https://open.spotify.com/album/2kgUogZAbvjnoKPcuXhEHS) | 2:04 |
+| 74 | [LANCIA DELTA INTEGRALE](https://open.spotify.com/track/2OVzSn3M49qQowsrZ9pTeI) | [European Vampire](https://open.spotify.com/artist/34jhkGXXN6BTviKzLoQXaS) | [FOREVER SPEEDING THROUGH DARKNESS](https://open.spotify.com/album/3NExizUBa6zdL1pMFZqnKO) | 3:51 |
+| 75 | [Mami Daddy](https://open.spotify.com/track/5VHcNSkMpkjiw245BovVm2) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [Next Big Thing](https://open.spotify.com/album/0TeCxhwt1zggy58jurdvMA) | 2:30 |
 
-Snapshot ID: `MTY4MTI4OTEyNSwwMDAwMDAwMDRlODIwNDQ4OGM5YzlmMTdhYTY5NGNlYmQ2YWI2NGY1`
+Snapshot ID: `MTY4MTI4OTEyNSwwMDAwMDAwMGE1N2NhYThlYTliZGFhYzdlNmE2ZmUyMWIxNGJjZmYw`

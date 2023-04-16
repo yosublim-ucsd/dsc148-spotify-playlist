@@ -1,15 +1,15 @@
 {
   "description": "Run to the world of R&B and hip-hop.",
-  "num_followers": 724292,
+  "num_followers": 725309,
   "original_name": "Run This Town",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAzMzEzMiwwMDAwMDAwMDgyMzg3YzY5ZTQ1ZWQ5ZGRkMWIxMzY0NDA2MjBlMGFl",
+  "snapshot_id": "MTY3NjAzMzEzMiwwMDAwMDAwMDUyMzZiMTE0OTM4N2EwNDI1NzNkYTBmZjRkYTUxMjQ1",
   "tracks": [
     {
-      "added_at": "2023-04-15 00:41:53",
+      "added_at": "2023-04-16 00:09:51",
       "album": {
         "name": "All I Want Is You",
         "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
     },
     {
-      "added_at": "2023-04-15 00:41:53",
+      "added_at": "2023-04-16 00:09:51",
       "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
     },
     {
-      "added_at": "2023-04-15 00:41:53",
+      "added_at": "2023-04-16 00:09:51",
       "album": {
         "name": "Just Wanna Rock",
         "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/4Li2WHPkuyCdtmokzW2007"
     },
     {
-      "added_at": "2023-04-15 00:41:53",
+      "added_at": "2023-04-16 00:09:51",
       "album": {
         "name": "channel ORANGE",
         "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
@@ -399,8 +399,8 @@
     {
       "added_at": "2023-01-03 14:49:24",
       "album": {
-        "name": "Curtain Call: The Hits (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5qENHeCSlwWpEzb25peRmQ"
+        "name": "The Marshall Mathers LP2 (Deluxe)",
+        "url": "https://open.spotify.com/album/6DN7GcZF1HywzrkGN6Eeqk"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         }
       ],
-      "duration_ms": 326466,
-      "name": "Lose Yourself - From \"8 Mile\" Soundtrack",
-      "url": "https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ"
+      "duration_ms": 363521,
+      "name": "Rap God",
+      "url": "https://open.spotify.com/track/6or1bKJiZ06IlK0vFvY75k"
     },
     {
       "added_at": "2023-01-03 14:49:24",
@@ -483,8 +483,8 @@
     {
       "added_at": "2023-01-03 14:49:24",
       "album": {
-        "name": "The Marshall Mathers LP2 (Deluxe)",
-        "url": "https://open.spotify.com/album/6DN7GcZF1HywzrkGN6Eeqk"
+        "name": "Curtain Call: The Hits (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5qENHeCSlwWpEzb25peRmQ"
       },
       "artists": [
         {
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         }
       ],
-      "duration_ms": 363521,
-      "name": "Rap God",
-      "url": "https://open.spotify.com/track/6or1bKJiZ06IlK0vFvY75k"
+      "duration_ms": 326466,
+      "name": "Lose Yourself - From \"8 Mile\" Soundtrack",
+      "url": "https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ"
     },
     {
       "added_at": "2023-01-03 14:49:24",
@@ -611,22 +611,18 @@
     {
       "added_at": "2023-01-03 14:49:24",
       "album": {
-        "name": "The Rising Tied",
-        "url": "https://open.spotify.com/album/5v4Vx9loqMQCS3J7OmP9pa"
+        "name": "4",
+        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
       },
       "artists": [
         {
-          "name": "Fort Minor",
-          "url": "https://open.spotify.com/artist/7dWYWUbO68rXJOcyA7SpJk"
-        },
-        {
-          "name": "Styles Of Beyond",
-          "url": "https://open.spotify.com/artist/5bf6yYgHODBW5EreBZshpX"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 230493,
-      "name": "Remember the Name (feat. Styles of Beyond)",
-      "url": "https://open.spotify.com/track/6ndmKwWqMozN2tcZqzCX4K"
+      "duration_ms": 236093,
+      "name": "Run the World (Girls)",
+      "url": "https://open.spotify.com/track/1uXbwHHfgsXcUKfSZw5ZJ0"
     },
     {
       "added_at": "2023-01-03 14:49:24",
@@ -647,18 +643,22 @@
     {
       "added_at": "2023-01-03 14:49:24",
       "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
+        "name": "The Rising Tied",
+        "url": "https://open.spotify.com/album/5v4Vx9loqMQCS3J7OmP9pa"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "Fort Minor",
+          "url": "https://open.spotify.com/artist/7dWYWUbO68rXJOcyA7SpJk"
+        },
+        {
+          "name": "Styles Of Beyond",
+          "url": "https://open.spotify.com/artist/5bf6yYgHODBW5EreBZshpX"
         }
       ],
-      "duration_ms": 236093,
-      "name": "Run the World (Girls)",
-      "url": "https://open.spotify.com/track/1uXbwHHfgsXcUKfSZw5ZJ0"
+      "duration_ms": 230493,
+      "name": "Remember the Name (feat. Styles of Beyond)",
+      "url": "https://open.spotify.com/track/6ndmKwWqMozN2tcZqzCX4K"
     },
     {
       "added_at": "2023-01-03 14:49:24",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-01-03 14:49:24",
       "album": {
-        "name": "Lemonade",
-        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 206080,
-      "name": "Formation",
-      "url": "https://open.spotify.com/track/6g0Orsxv6glTJCt4cHsRsQ"
-    },
-    {
-      "added_at": "2023-01-03 14:49:24",
-      "album": {
         "name": "Nail Tech",
         "url": "https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 206385,
       "name": "Nail Tech",
       "url": "https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz"
+    },
+    {
+      "added_at": "2023-01-03 14:49:24",
+      "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 206080,
+      "name": "Formation",
+      "url": "https://open.spotify.com/track/6g0Orsxv6glTJCt4cHsRsQ"
     },
     {
       "added_at": "2023-01-03 14:49:24",
@@ -835,6 +835,26 @@
     {
       "added_at": "2023-01-03 14:49:24",
       "album": {
+        "name": "Vol. 3... Life And Times Of S. Carter",
+        "url": "https://open.spotify.com/album/3rWJsuu7ukoZZhp7YYkjNZ"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "UGK",
+          "url": "https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw"
+        }
+      ],
+      "duration_ms": 283066,
+      "name": "Big Pimpin'",
+      "url": "https://open.spotify.com/track/7m97yKVzPpXV9Z4ezEziOD"
+    },
+    {
+      "added_at": "2023-01-03 14:49:24",
+      "album": {
         "name": "Tha Carter III",
         "url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP"
       },
@@ -871,26 +891,6 @@
       "duration_ms": 204664,
       "name": "Wild Thoughts (feat. Rihanna & Bryson Tiller)",
       "url": "https://open.spotify.com/track/45XhKYRRkyeqoW3teSOkCM"
-    },
-    {
-      "added_at": "2023-01-03 14:49:24",
-      "album": {
-        "name": "Vol. 3... Life And Times Of S. Carter",
-        "url": "https://open.spotify.com/album/3rWJsuu7ukoZZhp7YYkjNZ"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "UGK",
-          "url": "https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw"
-        }
-      ],
-      "duration_ms": 283066,
-      "name": "Big Pimpin'",
-      "url": "https://open.spotify.com/track/7m97yKVzPpXV9Z4ezEziOD"
     },
     {
       "added_at": "2023-01-03 14:49:24",

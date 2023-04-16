@@ -1,12 +1,12 @@
 {
   "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. Luis R Conriquez & Beto Sierra en portada.",
-  "num_followers": 119341,
+  "num_followers": 119570,
   "original_name": "El Barrio MP3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ1MjAwMCwwMDAwMDAwMGZlMTg3ZThhZWFhYjE5NmY0MTRmZmY0YmM5YWY2OTI4",
+  "snapshot_id": "MTY4MTQ1MjAwMCwwMDAwMDAwMDA1ZDg4Yzk1Mjk0ZDFmN2M2ZWE0NmUyNTAyNWU4ZGFm",
   "tracks": [
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "MOTEL CALIFORNIA",
-        "url": "https://open.spotify.com/album/2UASGQROe47zGr0SJRukjO"
-      },
-      "artists": [
-        {
-          "name": "DAAZ",
-          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
-        },
-        {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
-        }
-      ],
-      "duration_ms": 213033,
-      "name": "MOTEL CALIFORNIA",
-      "url": "https://open.spotify.com/track/2YaAk5IAyTMk40RMqCPP87"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "Ojos Tumbados",
         "url": "https://open.spotify.com/album/7rxhqZe4tBOackaMInfpjU"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 218980,
       "name": "Ojos Tumbados",
       "url": "https://open.spotify.com/track/2uHEX5YxQU9wpHH0dQlChS"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "MOTEL CALIFORNIA",
+        "url": "https://open.spotify.com/album/2UASGQROe47zGr0SJRukjO"
+      },
+      "artists": [
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        },
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        }
+      ],
+      "duration_ms": 213033,
+      "name": "MOTEL CALIFORNIA",
+      "url": "https://open.spotify.com/track/2YaAk5IAyTMk40RMqCPP87"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
+        "name": "JURE VENGANZA",
+        "url": "https://open.spotify.com/album/01hQzuRutKQ10AmhqyWHAl"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "duration_ms": 132500,
+      "name": "JURE VENGANZA",
+      "url": "https://open.spotify.com/track/4t2fkh1jfaEuZz9t3o05bG"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
         "name": "30 Blindadas",
         "url": "https://open.spotify.com/album/6sNLsF2fYslNGiQzb9NfXG"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 126293,
       "name": "30 Blindadas",
       "url": "https://open.spotify.com/track/1DSEdQdvhbBfXmDkQNZbzf"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "JURE VENGANZA",
-        "url": "https://open.spotify.com/album/01hQzuRutKQ10AmhqyWHAl"
-      },
-      "artists": [
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        }
-      ],
-      "duration_ms": 132500,
-      "name": "JURE VENGANZA",
-      "url": "https://open.spotify.com/track/4t2fkh1jfaEuZz9t3o05bG"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Ni\u00f1o De Oro (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7e47cka7yBWYWNhcFjixcz"
-      },
-      "artists": [
-        {
-          "name": "Hadrian",
-          "url": "https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q"
-        }
-      ],
-      "duration_ms": 176480,
-      "name": "Ni\u00f1o De Oro",
-      "url": "https://open.spotify.com/track/14kvemCUeClwApvM2xl4eb"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "Mi Porvenir",
         "url": "https://open.spotify.com/album/7g3gtNzXyVjmBh7tdd4Lmp"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 161816,
       "name": "Mi Porvenir",
       "url": "https://open.spotify.com/track/1qOAfH6GJZ7IVuOkOsDit9"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Ni\u00f1o De Oro (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7e47cka7yBWYWNhcFjixcz"
+      },
+      "artists": [
+        {
+          "name": "Hadrian",
+          "url": "https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q"
+        }
+      ],
+      "duration_ms": 176480,
+      "name": "Ni\u00f1o De Oro",
+      "url": "https://open.spotify.com/track/14kvemCUeClwApvM2xl4eb"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1723,6 +1723,26 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
+        "name": "Anillos",
+        "url": "https://open.spotify.com/album/4j3kQLs29ZZVxu2x3wkbYa"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+        }
+      ],
+      "duration_ms": 203861,
+      "name": "Anillos",
+      "url": "https://open.spotify.com/track/2wtCxhHu42n7jKJy2erTgX"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
         "name": "Botellitas De Dobel (REMIX)",
         "url": "https://open.spotify.com/album/1ZnTg0fF8lgSfPbp1qwpeX"
       },
@@ -1759,26 +1779,6 @@
       "duration_ms": 164455,
       "name": "Forjando Mi Historia",
       "url": "https://open.spotify.com/track/7ly3nWgGdDIoec14iLl1Jq"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Anillos",
-        "url": "https://open.spotify.com/album/4j3kQLs29ZZVxu2x3wkbYa"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Oscar Ortiz",
-          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
-        }
-      ],
-      "duration_ms": 203861,
-      "name": "Anillos",
-      "url": "https://open.spotify.com/track/2wtCxhHu42n7jKJy2erTgX"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Cruisin' with Junior H",
-        "url": "https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 201872,
-      "name": "Clave Ali",
-      "url": "https://open.spotify.com/track/0rSlb6Ng6JobokQUPngjRE"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "Las Morras",
         "url": "https://open.spotify.com/album/4UzpURCRisCfPfYZ96rsLE"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 155550,
       "name": "Las Morras",
       "url": "https://open.spotify.com/track/7Lkxvfl2rkNYWS4kBDCQtN"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Cruisin' with Junior H",
+        "url": "https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 201872,
+      "name": "Clave Ali",
+      "url": "https://open.spotify.com/track/0rSlb6Ng6JobokQUPngjRE"
     },
     {
       "added_at": "2023-04-14 06:00:00",

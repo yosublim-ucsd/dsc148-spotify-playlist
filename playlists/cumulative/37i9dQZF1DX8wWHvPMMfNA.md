@@ -4,7 +4,7 @@
 
 > Soft instrumental Jazz for working or studying.
 
-317 songs - 22 hr 21 min
+318 songs - 22 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Eleanor](https://open.spotify.com/track/6vWkMerIb8fzLSeYQ7iCCi) | [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [Jimmy Cobb](https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ) | [West of 5th](https://open.spotify.com/album/7HzP4w4TIlGa9I6xEAklBc) | 4:49 | 2021-12-16 | 2022-07-29 |
 | [Elise](https://open.spotify.com/track/7m8rFWJzA6VJQnLVqiWvGL) | [Holborns](https://open.spotify.com/artist/2gC8FqAcOqWElBDNVIHbRm) | [Elise](https://open.spotify.com/album/5TdOcjjm9BUdSOVLzGIWV3) | 2:40 | 2022-11-11 | 2022-11-29 |
 | [Equilibrio](https://open.spotify.com/track/561vqucx8o1kmktdzuScCJ) | [Les trois copines](https://open.spotify.com/artist/7gk8knpaj4PjEEGHZ7UTYx) | [Equilibrio](https://open.spotify.com/album/4IJ2s5qJmU3XBSvxOWOPSF) | 2:31 | 2022-12-08 |  |
-| [Everybody Knew](https://open.spotify.com/track/0vVsZ7fLYEnYA9VIBXYdhv) | [Songbird Trio](https://open.spotify.com/artist/1Lbuv3aiWkUkCnw0okZ4Fh) | [Everybody Knew](https://open.spotify.com/album/64IM7XMUoAS8owtJzMUxIB) | 3:22 | 2022-12-22 |  |
+| [Everybody Knew](https://open.spotify.com/track/0vVsZ7fLYEnYA9VIBXYdhv) | [Songbird Trio](https://open.spotify.com/artist/1Lbuv3aiWkUkCnw0okZ4Fh) | [Everybody Knew](https://open.spotify.com/album/64IM7XMUoAS8owtJzMUxIB) | 3:22 | 2022-12-22 | 2023-04-16 |
 | [Everybody's Somebody's Fool](https://open.spotify.com/track/3Fd6oqnuEVzOjzfh13k0CA) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Gettin' Around](https://open.spotify.com/album/1kKp5dSbveAtH9KmuGP6z9) | 6:47 | 2021-12-16 | 2022-11-11 |
 | [Everything Happens to Me](https://open.spotify.com/track/113E6wtJ5gM2KwhWnj8dwr) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Nice People](https://open.spotify.com/album/2V8adRKIBTgptogEDc2U8p) | 5:19 | 2021-12-16 | 2022-11-11 |
 | [Everything To Me](https://open.spotify.com/track/1D7BVIjNGLW0dBlD5NEmev) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Everything To Me](https://open.spotify.com/album/5gKlIc5h9S3NigmdtLUwjI) | 5:24 | 2022-11-11 | 2023-01-18 |
@@ -317,6 +317,7 @@
 | [With A Little Bit Of Luck \- Instrumental](https://open.spotify.com/track/2sYInNWcg7ZL9cLobvs0oo) | [Shelly Manne And His Friends](https://open.spotify.com/artist/4NmuwMxBl62HSU4nXZYLUf) | [My Fair Lady](https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza) | 6:02 | 2021-12-16 | 2022-11-11 |
 | [Without A Song](https://open.spotify.com/track/1nsMASRDWwUwlBMmOuh80d) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [Without A Song](https://open.spotify.com/album/7KckOMQ11H9HTjolar2ch7) | 3:56 | 2022-11-11 |  |
 | [You Are There \- Remastered](https://open.spotify.com/track/3liUB1RsKdQawbQJN4ZaHc) | [George Shearing Quintet](https://open.spotify.com/artist/6uduXqfPOgmcelx9Kclo3y) | [The Swingin's Mutual \(Expanded Edition / Remastered\)](https://open.spotify.com/album/5DeuKgqbg1Bw3AqqrwyqF7) | 2:10 | 2021-12-16 | 2022-11-11 |
+| [You Do Something To Me](https://open.spotify.com/track/064k0lT6tP4AdWull7SSz0) | [Belmont Central](https://open.spotify.com/artist/0A1I0z7snq8RVRDjVA5qzE) | [You Do Something To Me](https://open.spotify.com/album/3Lbgbr1X5ACTAeWIYgsFEU) | 3:10 | 2023-04-13 |  |
 | [You Know Its Me](https://open.spotify.com/track/05fdpG9n1YmQU1wOTCLaj8) | [The Ebbing Tides](https://open.spotify.com/artist/4WW6fT5v4jH5eHqCn9myM3) | [You Know Its Me](https://open.spotify.com/album/2ET8mBknnRZFO1gea0toYN) | 2:28 | 2023-01-19 |  |
 | [You Never Say You're Sorry](https://open.spotify.com/track/1bB1538FOBYVUs2z06ssQ3) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Lazy Art](https://open.spotify.com/album/0nwE46ZJn2ggRiBKmrN7Vi) | 4:18 | 2022-11-11 |  |
 | [You Softly Breathe](https://open.spotify.com/track/71sykxrXDUVEDA4TkHeIzh) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [You Softly Breathe](https://open.spotify.com/album/4CQl0m4bI32Ffjbmap9VCI) | 3:16 | 2022-11-24 | 2023-02-23 |

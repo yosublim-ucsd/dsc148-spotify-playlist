@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1poioV.md) - [plain]
 
 > This is Brandi Carlile\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,827 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,852 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1poioV.md) - [plain]
 | 43 | [What Can I Say](https://open.spotify.com/track/07WvoBV7oBTonCSw03UCud) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Brandi Carlile](https://open.spotify.com/album/2NdmuraIk63vprGfnnr3rD) | 2:49 |
 | 44 | [If There Was No You](https://open.spotify.com/track/4GBw1ipeO6q1OrBpZrXF8f) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Give Up The Ghost](https://open.spotify.com/album/1NhFksWs1Nsz6wQI8ysTkv) | 2:39 |
 | 45 | [Whatever You Do](https://open.spotify.com/track/1PnLCvelHE8KgGmVva5rcY) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By The Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:07 |
-| 46 | [A Beautiful Noise](https://open.spotify.com/track/28m84EzeAOlqrJQ3GHzs8C) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [A Beautiful Noise](https://open.spotify.com/album/51t2sNnEACFJewZa81WPuU) | 3:19 |
-| 47 | [Late Morning Lullaby](https://open.spotify.com/track/3vhaMxyoEBA0WhBXWIP3b6) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [The Story](https://open.spotify.com/album/23XH8Ej694esQAb3IYu00h) | 3:27 |
+| 46 | [Late Morning Lullaby](https://open.spotify.com/track/3vhaMxyoEBA0WhBXWIP3b6) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [The Story](https://open.spotify.com/album/23XH8Ej694esQAb3IYu00h) | 3:27 |
+| 47 | [A Beautiful Noise](https://open.spotify.com/track/28m84EzeAOlqrJQ3GHzs8C) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [A Beautiful Noise](https://open.spotify.com/album/51t2sNnEACFJewZa81WPuU) | 3:19 |
 | 48 | [Dying Day](https://open.spotify.com/track/1c6Gl2V1HGYPprBmKJdiFj) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Give Up The Ghost](https://open.spotify.com/album/1NhFksWs1Nsz6wQI8ysTkv) | 3:31 |
 | 49 | [Hold Out Your Hand](https://open.spotify.com/track/0xpKRzMR9x53jKSdugItan) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By The Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:22 |
 | 50 | [Old Soul](https://open.spotify.com/track/7sya6fSaMhZmcLYMckxpZm) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [The Highwomen](https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl) | 5:45 |
 
-Snapshot ID: `MjgwMjQ4NTIsMDAwMDAwMDA2MGY5NDNmOTUwZjQ4YjZhNmExZmUwMWNiNTIwN2IyNg==`
+Snapshot ID: `MjgwMjYwMzIsMDAwMDAwMDA1N2U1ZmVkMDg4ZmVhNTUyMDQwNTcxZWU3OGM4YTQzYw==`

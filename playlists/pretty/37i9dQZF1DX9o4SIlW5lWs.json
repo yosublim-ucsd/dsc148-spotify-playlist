@@ -1,12 +1,12 @@
 {
   "description": "Al coraz\u00f3n! Foto: Karina.",
-  "num_followers": 158405,
+  "num_followers": 158635,
   "original_name": "Cumbia y Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTIyMjU0OSwwMDAwMDAwMDBlM2I5OWY4NzI5YmI1ODhiODM1YjM4ZGM5YWM4M2E1",
+  "snapshot_id": "MTY4MTIyMjU0OSwwMDAwMDAwMGU1YjEwYWZmNDRiNjM4MjU4NjYwZDljOGVmOWY2OThh",
   "tracks": [
     {
       "added_at": "2023-04-11 14:15:49",
@@ -375,38 +375,6 @@
     {
       "added_at": "2023-04-11 14:15:49",
       "album": {
-        "name": "Un Homenaje al Cielo",
-        "url": "https://open.spotify.com/album/1ZlJYrZ68YhJevmEAaQBdL"
-      },
-      "artists": [
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
-        }
-      ],
-      "duration_ms": 212533,
-      "name": "Tramposa y Mentirosa",
-      "url": "https://open.spotify.com/track/6QmChI3qnlVSMHihZPzCTf"
-    },
-    {
-      "added_at": "2023-04-11 14:15:49",
-      "album": {
-        "name": "Mi \u00danico Amor",
-        "url": "https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8"
-      },
-      "artists": [
-        {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
-        }
-      ],
-      "duration_ms": 212062,
-      "name": "Una Calle Nos Separa",
-      "url": "https://open.spotify.com/track/48yRazqbGXUfSpGiTPNw0r"
-    },
-    {
-      "added_at": "2023-04-11 14:15:49",
-      "album": {
         "name": "Volver a Vernos",
         "url": "https://open.spotify.com/album/6LLbNMHSiWdZxFSUEkayGn"
       },
@@ -423,6 +391,22 @@
     {
       "added_at": "2023-04-11 14:15:49",
       "album": {
+        "name": "Un Homenaje al Cielo",
+        "url": "https://open.spotify.com/album/1ZlJYrZ68YhJevmEAaQBdL"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "duration_ms": 212533,
+      "name": "Tramposa y Mentirosa",
+      "url": "https://open.spotify.com/track/6QmChI3qnlVSMHihZPzCTf"
+    },
+    {
+      "added_at": "2023-04-11 14:15:49",
+      "album": {
         "name": "Imparables",
         "url": "https://open.spotify.com/album/0cv2nuAuIwLTPQUvfkE4ag"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 200071,
       "name": "Te Voy a Amar",
       "url": "https://open.spotify.com/track/2srKgu7hvh8cmIWmfwOz70"
+    },
+    {
+      "added_at": "2023-04-11 14:15:49",
+      "album": {
+        "name": "Mi \u00danico Amor",
+        "url": "https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8"
+      },
+      "artists": [
+        {
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+        }
+      ],
+      "duration_ms": 212062,
+      "name": "Una Calle Nos Separa",
+      "url": "https://open.spotify.com/track/48yRazqbGXUfSpGiTPNw0r"
     },
     {
       "added_at": "2023-04-11 14:15:49",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-04-11 14:15:49",
       "album": {
-        "name": "Montevideo 418",
-        "url": "https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP"
-      },
-      "artists": [
-        {
-          "name": "El Gordo Luis",
-          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
-        }
-      ],
-      "duration_ms": 211026,
-      "name": "Cinco Minutos",
-      "url": "https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b"
-    },
-    {
-      "added_at": "2023-04-11 14:15:49",
-      "album": {
         "name": "Sa, Za...Sabor",
         "url": "https://open.spotify.com/album/1FEdWlYk1Sncb8j3WJTO06"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 233613,
       "name": "Porque te amo",
       "url": "https://open.spotify.com/track/3G26H8W47acDASCgaKQjR5"
+    },
+    {
+      "added_at": "2023-04-11 14:15:49",
+      "album": {
+        "name": "Montevideo 418",
+        "url": "https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP"
+      },
+      "artists": [
+        {
+          "name": "El Gordo Luis",
+          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
+        }
+      ],
+      "duration_ms": 211026,
+      "name": "Cinco Minutos",
+      "url": "https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b"
     },
     {
       "added_at": "2023-04-11 14:15:49",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-04-11 14:15:49",
       "album": {
+        "name": "Creciendo",
+        "url": "https://open.spotify.com/album/6JrMR7QudBMGYJ0zIrSFB6"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "duration_ms": 236066,
+      "name": "Tan S\u00f3lo Amantes",
+      "url": "https://open.spotify.com/track/2pMwrVusXakXwm0yE6O4zP"
+    },
+    {
+      "added_at": "2023-04-11 14:15:49",
+      "album": {
         "name": "Boleto al Amor",
         "url": "https://open.spotify.com/album/6s8ea6DTJ4EvzvNgRJWGUX"
       },
@@ -987,18 +1003,18 @@
     {
       "added_at": "2023-04-11 14:15:49",
       "album": {
-        "name": "Creciendo",
-        "url": "https://open.spotify.com/album/6JrMR7QudBMGYJ0zIrSFB6"
+        "name": "Y la cumbia se baila as\u00ed...",
+        "url": "https://open.spotify.com/album/1C4JGlucUtnJGEBj7I9BQN"
       },
       "artists": [
         {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+          "name": "El Gordo Luis",
+          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
         }
       ],
-      "duration_ms": 236066,
-      "name": "Tan S\u00f3lo Amantes",
-      "url": "https://open.spotify.com/track/2pMwrVusXakXwm0yE6O4zP"
+      "duration_ms": 198066,
+      "name": "Los Infieles",
+      "url": "https://open.spotify.com/track/60N0Hb2yL4daYW4u3Ijw4I"
     },
     {
       "added_at": "2023-04-11 14:15:49",
@@ -1015,22 +1031,6 @@
       "duration_ms": 231880,
       "name": "Me Extra\u00f1ar\u00e1s",
       "url": "https://open.spotify.com/track/4s0uLfMAgXbPgmPgOVG7qe"
-    },
-    {
-      "added_at": "2023-04-11 14:15:49",
-      "album": {
-        "name": "Y la cumbia se baila as\u00ed...",
-        "url": "https://open.spotify.com/album/1C4JGlucUtnJGEBj7I9BQN"
-      },
-      "artists": [
-        {
-          "name": "El Gordo Luis",
-          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
-        }
-      ],
-      "duration_ms": 198066,
-      "name": "Los Infieles",
-      "url": "https://open.spotify.com/track/60N0Hb2yL4daYW4u3Ijw4I"
     },
     {
       "added_at": "2023-04-11 14:15:49",
@@ -1063,6 +1063,22 @@
       "duration_ms": 206629,
       "name": "Costumbres",
       "url": "https://open.spotify.com/track/1eBGzGyfBTv1FsLoZVC2ib"
+    },
+    {
+      "added_at": "2023-04-11 14:15:49",
+      "album": {
+        "name": "Un Homenaje al Cielo",
+        "url": "https://open.spotify.com/album/1ZlJYrZ68YhJevmEAaQBdL"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "duration_ms": 240720,
+      "name": "Con \u00c9l No Soportas",
+      "url": "https://open.spotify.com/track/0qgR6e8ot4sJ9RTIyKg3d8"
     },
     {
       "added_at": "2023-04-11 14:15:49",
@@ -1135,38 +1151,6 @@
     {
       "added_at": "2023-04-11 14:15:49",
       "album": {
-        "name": "Un Homenaje al Cielo",
-        "url": "https://open.spotify.com/album/1ZlJYrZ68YhJevmEAaQBdL"
-      },
-      "artists": [
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
-        }
-      ],
-      "duration_ms": 240720,
-      "name": "Con \u00c9l No Soportas",
-      "url": "https://open.spotify.com/track/0qgR6e8ot4sJ9RTIyKg3d8"
-    },
-    {
-      "added_at": "2023-04-11 14:15:49",
-      "album": {
-        "name": "Tambo Tambo",
-        "url": "https://open.spotify.com/album/0ZGuWFAobt0dxSo4TCOEi4"
-      },
-      "artists": [
-        {
-          "name": "Tamb\u00f3 Tamb\u00f3",
-          "url": "https://open.spotify.com/artist/6wAk3K9nxqR0pTLGLctzQu"
-        }
-      ],
-      "duration_ms": 264067,
-      "name": "El Perdedor",
-      "url": "https://open.spotify.com/track/0ftwnLAztORq4nMEEm5GeR"
-    },
-    {
-      "added_at": "2023-04-11 14:15:49",
-      "album": {
         "name": "Lo Mejor del Amor",
         "url": "https://open.spotify.com/album/5vEQgXaLtCU2bozKTWOx6t"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 167600,
       "name": "Lo Mejor del Amor",
       "url": "https://open.spotify.com/track/6kQXTmUGWXtzw40zxv1yUz"
+    },
+    {
+      "added_at": "2023-04-11 14:15:49",
+      "album": {
+        "name": "Tambo Tambo",
+        "url": "https://open.spotify.com/album/0ZGuWFAobt0dxSo4TCOEi4"
+      },
+      "artists": [
+        {
+          "name": "Tamb\u00f3 Tamb\u00f3",
+          "url": "https://open.spotify.com/artist/6wAk3K9nxqR0pTLGLctzQu"
+        }
+      ],
+      "duration_ms": 264067,
+      "name": "El Perdedor",
+      "url": "https://open.spotify.com/track/0ftwnLAztORq4nMEEm5GeR"
     },
     {
       "added_at": "2023-04-11 14:15:49",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-04-11 14:15:49",
       "album": {
-        "name": "Hecho con Amor",
-        "url": "https://open.spotify.com/album/7M8zzURI76D1gAX5M0o0bl"
-      },
-      "artists": [
-        {
-          "name": "Agrupaci\u00f3n Marilyn",
-          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
-        }
-      ],
-      "duration_ms": 225293,
-      "name": "Cosas Del Amor",
-      "url": "https://open.spotify.com/track/7clY79CSVmH7ufvQMIAYlo"
-    },
-    {
-      "added_at": "2023-04-11 14:15:49",
-      "album": {
         "name": "No Me Digas Adios",
         "url": "https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 152666,
       "name": "Como Te Lo Digo",
       "url": "https://open.spotify.com/track/37Bcsn18Ex3WrceRBgCqcF"
+    },
+    {
+      "added_at": "2023-04-11 14:15:49",
+      "album": {
+        "name": "Hecho con Amor",
+        "url": "https://open.spotify.com/album/7M8zzURI76D1gAX5M0o0bl"
+      },
+      "artists": [
+        {
+          "name": "Agrupaci\u00f3n Marilyn",
+          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
+        }
+      ],
+      "duration_ms": 225293,
+      "name": "Cosas Del Amor",
+      "url": "https://open.spotify.com/track/7clY79CSVmH7ufvQMIAYlo"
     },
     {
       "added_at": "2023-04-11 14:15:49",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-04-11 14:15:49",
       "album": {
-        "name": "Exitos de oro",
-        "url": "https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf"
-      },
-      "artists": [
-        {
-          "name": "Los Leales",
-          "url": "https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv"
-        }
-      ],
-      "duration_ms": 176786,
-      "name": "Un Velero Llamado Libertad",
-      "url": "https://open.spotify.com/track/6KHBf0ZrN0y5T6mlxuTbRW"
-    },
-    {
-      "added_at": "2023-04-11 14:15:49",
-      "album": {
         "name": "Megamix",
         "url": "https://open.spotify.com/album/3Cbl0a3SPzkwd0537ju3WS"
       },
@@ -1607,6 +1591,22 @@
     {
       "added_at": "2023-04-11 14:15:49",
       "album": {
+        "name": "Exitos de oro",
+        "url": "https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf"
+      },
+      "artists": [
+        {
+          "name": "Los Leales",
+          "url": "https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv"
+        }
+      ],
+      "duration_ms": 176786,
+      "name": "Un Velero Llamado Libertad",
+      "url": "https://open.spotify.com/track/6KHBf0ZrN0y5T6mlxuTbRW"
+    },
+    {
+      "added_at": "2023-04-11 14:15:49",
+      "album": {
         "name": "Otra Como Tu",
         "url": "https://open.spotify.com/album/34ueWBDKQLBpK13ocfEZVX"
       },
@@ -1619,38 +1619,6 @@
       "duration_ms": 220618,
       "name": "Otra Como Tu",
       "url": "https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs"
-    },
-    {
-      "added_at": "2023-04-11 14:15:49",
-      "album": {
-        "name": "Voy a Olvidarme de Mi / Y Tu Te Vas",
-        "url": "https://open.spotify.com/album/7cjqZBRTDGGwSzZWtybH87"
-      },
-      "artists": [
-        {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
-        }
-      ],
-      "duration_ms": 243606,
-      "name": "Voy a Olvidarme de Mi / Y Tu Te Vas",
-      "url": "https://open.spotify.com/track/5ZeRjDwpf9WdXl4X66O3Zd"
-    },
-    {
-      "added_at": "2023-04-11 14:15:49",
-      "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/2ULTMUo5UesStNSxif1lgR"
-      },
-      "artists": [
-        {
-          "name": "Los del bohio",
-          "url": "https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn"
-        }
-      ],
-      "duration_ms": 215186,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/2P1NF2ouvMc3aOjeXdfynr"
     },
     {
       "added_at": "2023-04-11 14:15:49",
@@ -1671,6 +1639,38 @@
       "duration_ms": 248000,
       "name": "Ninguno De Los Dos",
       "url": "https://open.spotify.com/track/2MT5elnRC2PWo7o0S1VcGF"
+    },
+    {
+      "added_at": "2023-04-11 14:15:49",
+      "album": {
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/2ULTMUo5UesStNSxif1lgR"
+      },
+      "artists": [
+        {
+          "name": "Los del bohio",
+          "url": "https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn"
+        }
+      ],
+      "duration_ms": 215186,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/2P1NF2ouvMc3aOjeXdfynr"
+    },
+    {
+      "added_at": "2023-04-11 14:15:49",
+      "album": {
+        "name": "Voy a Olvidarme de Mi / Y Tu Te Vas",
+        "url": "https://open.spotify.com/album/7cjqZBRTDGGwSzZWtybH87"
+      },
+      "artists": [
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        }
+      ],
+      "duration_ms": 243606,
+      "name": "Voy a Olvidarme de Mi / Y Tu Te Vas",
+      "url": "https://open.spotify.com/track/5ZeRjDwpf9WdXl4X66O3Zd"
     },
     {
       "added_at": "2023-04-11 14:15:49",

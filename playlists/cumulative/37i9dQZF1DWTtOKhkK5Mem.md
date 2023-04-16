@@ -4,7 +4,7 @@
 
 > Male artists singing about love.
 
-289 songs - 19 hr 55 min
+290 songs - 19 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [Morning Has Broken](https://open.spotify.com/track/3BqqF8suAIzW8655yJfcvh) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Teaser And The Firecat](https://open.spotify.com/album/2B719vL1xtPTwYs0j5BuAo) | 3:20 | 2021-11-23 | 2022-07-29 |
 | [Morning Has Broken](https://open.spotify.com/track/5w8PQw7uewKdHlz2OBP7ft) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Flower Power Classics](https://open.spotify.com/album/5SdcIqAvjFdnoqfsemtj8L) | 3:20 | 2022-08-26 | 2022-11-13 |
 | [Morning Has Broken \- Remastered 2021](https://open.spotify.com/track/5y8d8RHvxb0KiTa9Nq0xWp) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Teaser And The Firecat \(Remastered 2021\)](https://open.spotify.com/album/7ez8WRX4sGhKHZryJPJCNg) | 3:19 | 2022-05-27 |  |
+| [Movie Star](https://open.spotify.com/track/4a7Z10eGGg3th4H5jqFScX) | [KAIRO](https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v) | [Return To Sender](https://open.spotify.com/album/3jOzdF8WPsqwUp9OznStfw) | 2:52 | 2022-11-16 |  |
 | [My Love](https://open.spotify.com/track/5QN44mkwFWRhJ0H1VuGoho) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [All The Best \(UK Version\)](https://open.spotify.com/album/5KmV008tb0n0xusPf75Kd7) | 4:08 | 2021-11-23 | 2022-07-29 |
 | [My Love](https://open.spotify.com/track/19LoYrMj3ZlqQUrxa1ADQh) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Greatest Hits](https://open.spotify.com/album/3Iq8rXgxwlSPpRsIacNLgK) | 3:50 | 2021-11-23 | 2022-07-29 |
 | [My Love](https://open.spotify.com/track/5p0ietGkLNEqx1Z7ijkw5g) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Coast To Coast \(Expanded Edition\)](https://open.spotify.com/album/6P1sBa0T1fRooA0UTAQfOu) | 3:51 | 2022-05-27 |  |
@@ -225,7 +226,7 @@
 | [Stuck On You](https://open.spotify.com/track/0ROwoz82DIW4tOzkxYnSjf) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Can't Slow Down](https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr) | 3:15 | 2022-05-27 |  |
 | [Sweet Creature](https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 3:44 | 2022-05-27 |  |
 | [The Actor](https://open.spotify.com/track/7prFpeH9fXA7cL6ZZWLePs) | [Michael Learns To Rock](https://open.spotify.com/artist/7zMVPOJPs5jgU8NorRxqJe) | [Michael Learns To Rock \(1991\)](https://open.spotify.com/album/4GxVVO2T9r3pf0WzseGyYR) | 4:33 | 2021-11-23 | 2022-11-14 |
-| [The Blower's Daughter](https://open.spotify.com/track/4B2lJinAkeNLSJjcq3dg8Q) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 4:46 | 2022-08-26 |  |
+| [The Blower's Daughter](https://open.spotify.com/track/4B2lJinAkeNLSJjcq3dg8Q) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 4:46 | 2022-08-26 | 2023-04-16 |
 | [The Blower's Daughter](https://open.spotify.com/track/7tdXvaCZmWZJOrZE9zFXpr) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [The Blower's Daughter](https://open.spotify.com/album/4TMMcbyi7mC5aJeOvTn6FW) | 4:48 | 2021-11-23 | 2022-07-29 |
 | [The Book of Love \- EP Version](https://open.spotify.com/track/4HcSK64Cy7JJ5gv1Txzhzo) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [For You](https://open.spotify.com/album/0vQOkW8jvRYdf0wzonmLMK) | 3:13 | 2021-11-23 | 2022-07-29 |
 | [The Lady In Red](https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO) | [Chris de Burgh](https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U) | [Into The Light](https://open.spotify.com/album/5Yi08NDFoVAnvHoXqpp9O5) | 4:16 | 2021-11-23 |  |

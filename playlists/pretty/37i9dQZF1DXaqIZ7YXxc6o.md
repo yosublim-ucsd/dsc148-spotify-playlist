@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: Whyte Fang
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,096 likes - 103 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,116 likes - 103 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 8 | [I Could \- Open Up Mix](https://open.spotify.com/track/4BDfygrHURRAI5EK3RxDqu) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [One Night, One Time](https://open.spotify.com/album/50dOkOrN2iLEaWBdGR0Osc) | 4:34 |
 | 9 | [Worship You](https://open.spotify.com/track/2rfZyAX6wZxQWMQ9GYyLIu) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Worship You](https://open.spotify.com/album/1hQiBI8EdaW5dR4gja8w7f) | 2:58 |
 | 10 | [VIOLENT BEHAVIOUR](https://open.spotify.com/track/7eqfazRxRtKoIZuWunzCkl) | [weirdtechnogirlfriend](https://open.spotify.com/artist/48rdFIAjyZud68hCEKoiWC), [PAUL LE BÁY](https://open.spotify.com/artist/158VfpLQK95rtUjwRsk8vn), [WTG & PLB](https://open.spotify.com/artist/6KtOZetajL2lUGSl60goQq) | [VIOLENT BEHAVIOUR](https://open.spotify.com/album/1Wuax4YjdRjpExMLw40fNh) | 3:01 |
-| 11 | [Do U Want Me Baby? \(feat\. Elphi\)](https://open.spotify.com/track/392tWI7KlzCkP2bmAOOqzS) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82), [Elphi](https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY) | [Do U Want Me Baby? \(feat\. Elphi\)](https://open.spotify.com/album/2okBYRPFzRqd6Ex5M5F34Y) | 2:22 |
+| 11 | [Do U Want Me Baby? \(feat\. Elphi\)](https://open.spotify.com/track/392tWI7KlzCkP2bmAOOqzS) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82), [Elphi](https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY) | [Do U Want Me Baby? \(feat\. Elphi\)](https://open.spotify.com/album/2okBYRPFzRqd6Ex5M5F34Y) | 2:23 |
 | 12 | [1x1](https://open.spotify.com/track/3sL923OLO2SfZWwz6Eu59M) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Ravenna Golden](https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC) | [1x1](https://open.spotify.com/album/6JTEvvAjCkAMPlFuuTMIbv) | 3:24 |
 | 13 | [Over Again](https://open.spotify.com/track/00U3nGjoxrqX04GvjiypUz) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ) | [Over Again](https://open.spotify.com/album/3yvIAGFouolgRJTItuv3br) | 2:39 |
 | 14 | [Show Me The Money \(with Tkay Maidza\) \- Guz Remix](https://open.spotify.com/track/3vEvYYfpa0bKoVXB8aqANf) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Show Me The Money \(with Tkay Maidza\) \[Guz Remix\]](https://open.spotify.com/album/4YIoxKhgmLwtF4uvCxp2S8) | 3:12 |

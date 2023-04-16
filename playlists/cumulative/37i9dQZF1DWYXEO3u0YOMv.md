@@ -4,7 +4,7 @@
 
 > 設立10周年を迎えた<a href="http://www.mappa.co.jp/">MAPPA</a>作品の音楽をひとつのプレイリストに。Listen to the songs from 30+ anime shows MAPPA has produced in the last decade of its history!
 
-146 songs - 9 hr 24 min
+147 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [火炎](https://open.spotify.com/track/4k2GMy34pt5rQT9aVEzEwq) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [火炎\(Full Edition\)](https://open.spotify.com/album/6DdJGNawJYKpYq6A9hwcfp) | 3:35 | 2022-05-10 |  |
 | [炎ノ刻印\-DIVINE FLAME\-](https://open.spotify.com/track/2byhNUJkS3z214Q9TXKZr0) | [JAM Project](https://open.spotify.com/artist/0CPdwFVMsHZWpNgKuLaTuU) | [炎ノ刻印\-DIVINE FLAME\-](https://open.spotify.com/album/07qWWiZQ6qvwPSYvgDHBvx) | 4:21 | 2022-05-10 |  |
 | [紅蓮ノ月〜隠されし闇物語〜 \- JAM Project Ver\. \(Full Size.\)](https://open.spotify.com/track/4DotUtWNjhF0AuV96DrWll) | [JAM Project](https://open.spotify.com/artist/0CPdwFVMsHZWpNgKuLaTuU) | [紅蓮ノ月〜隠されし闇物語〜](https://open.spotify.com/album/2qJwreO0uy4IRbTPhBDtwU) | 4:20 | 2022-05-10 |  |
+| [紙一重](https://open.spotify.com/track/4WqWAyxI9uf6CVxUBwglrb) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [紙一重](https://open.spotify.com/album/6aGEvo2LvTdDOwKxPtpdqN) | 4:09 | 2023-04-15 |  |
 | [聖者の行進](https://open.spotify.com/track/1bwHUsQwWSWzoxlULC0wwT) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [聖者の行進](https://open.spotify.com/album/5Nf1cYILokJyVjehjQzOpW) | 2:57 | 2022-05-10 |  |
 | [舞い降りてきた雪](https://open.spotify.com/track/7Cs9L0W6KFmGxysUzNq2Vi) | [Mr Love: Queen's Choice](https://open.spotify.com/artist/73oPDy7wVxHmG1HPfg8z8M), [Konomi Suzuki](https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF) | [舞い降りてきた雪](https://open.spotify.com/album/6oGPwk7LIifPlTp2pyhHu9) | 4:19 | 2022-05-10 | 2022-07-29 |
 | [花紋](https://open.spotify.com/track/20YssuuSa8wXqutXk0Kxms) | [佐咲紗花](https://open.spotify.com/artist/0Wc27lcAwtL8QYONiLd4b1), [三狐神囃子 \(鵜殿麻由・佐藤依莉子\)](https://open.spotify.com/artist/6LYxX4EaaVoTb6sY9EobVw) | [花紋](https://open.spotify.com/album/4t6a6ILakR0UAfpHhG27ZT) | 4:24 | 2022-05-10 |  |

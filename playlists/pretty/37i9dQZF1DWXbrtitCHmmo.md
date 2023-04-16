@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbrtitCHmmo.md) - [plain]
 
 > ¡De vuelta a los 2000s con los mejores éxitos! Christina Aguilera en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,088 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,215 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,20 +43,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbrtitCHmmo.md) - [plain]
 | 33 | [Ser O Parecer](https://open.spotify.com/track/5sgvzXoYFCr5F5tUZdAA20) | [RBD](https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Maite Perroni](https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt), [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Christopher von Uckermann](https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo), [Alfonso Herrera](https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN) | [Celestial](https://open.spotify.com/album/1cjDwE4UHCXZOwgYE3XUgw) | 3:31 |
 | 34 | [Dime Ven](https://open.spotify.com/track/1kcGgL73ptM5SwurvMZplk) | [Motel](https://open.spotify.com/artist/19IsMFpELM7g2UDuwDlZvU) | [Motel](https://open.spotify.com/album/71G82kgmI0r6RipUwPzgZp) | 3:40 |
 | 35 | [El Amor](https://open.spotify.com/track/7e6PEtKY008duLXsAJ3TVQ) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh) | [El Patrón \(La Victoria\)](https://open.spotify.com/album/214muZYoc3ewXMXGwQBFVU) | 4:06 |
-| 36 | [La Bomba](https://open.spotify.com/track/0Tl84qfow6Dv0PM60zoBhb) | [azul azul](https://open.spotify.com/artist/0SWtMcmZLgP04Kj5x0eCxa) | [El Sapo](https://open.spotify.com/album/4ym0QOQmTKoioL4QwlN2wB) | 2:03 |
-| 37 | [Yo No Soy Esa Mujer](https://open.spotify.com/track/0JAGODD5w6MeYQzA9lV6Zm) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Paulina](https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB) | 3:44 |
+| 36 | [Yo No Soy Esa Mujer](https://open.spotify.com/track/0JAGODD5w6MeYQzA9lV6Zm) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Paulina](https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB) | 3:44 |
+| 37 | [La Bomba](https://open.spotify.com/track/0Tl84qfow6Dv0PM60zoBhb) | [azul azul](https://open.spotify.com/artist/0SWtMcmZLgP04Kj5x0eCxa) | [El Sapo](https://open.spotify.com/album/4ym0QOQmTKoioL4QwlN2wB) | 2:03 |
 | 38 | [Verano Azul](https://open.spotify.com/track/0dgwWXkfcWyB2a2qTgEc0F) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Verano Azul](https://open.spotify.com/album/687yvcM8ZmPohOsrrXh8Zu) | 3:10 |
 | 39 | [Suavemente](https://open.spotify.com/track/7cpFmkNmh3MM0WqXPSbs9f) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente](https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os) | 4:27 |
 | 40 | [Mayonesa](https://open.spotify.com/track/5Qjx4obghhfhsh6DiUwpNM) | [Chocolate](https://open.spotify.com/artist/4e3lv5qRgFpdILdEOHchbn) | [2000 Grandes Exitos](https://open.spotify.com/album/4dqiQqmKsYhgmrocMXhogw) | 3:51 |
-| 41 | [Torero](https://open.spotify.com/track/709CndJJB3GTUhQD0LLFse) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Grandes Exitos](https://open.spotify.com/album/1HR0VmKYncW4JyMwRCSi9N) | 3:37 |
-| 42 | [The Ketchup Song \(Aserejé\) \- Spanish Version](https://open.spotify.com/track/6NG2IIXZfC5Notpz0GIODU) | [Las Ketchup](https://open.spotify.com/artist/1e8GEl48ktvfDpruMKB6Oe) | [Aserejé \(The Ketchup Song\)](https://open.spotify.com/album/5k9nNGzp6ogw5bBULPeMSz) | 3:33 |
-| 43 | [Rakata](https://open.spotify.com/track/0mHrQV5Tu8cjioNpNGG7N1) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Pa'l Mundo](https://open.spotify.com/album/3TheioK614VC2aRMhfKS6h) | 2:52 |
-| 44 | [Ave María](https://open.spotify.com/track/5U4pDBaeq2Jl2dKuWWUSsh) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Corazon Latino](https://open.spotify.com/album/2uwVT3EKTVmI3ik9yqsyMl) | 3:29 |
-| 45 | [Carito](https://open.spotify.com/track/5czkBkWogUvTf2jleGyHaQ) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Dejame Entrar](https://open.spotify.com/album/7qRqrZOCvzZLsNlOawHURC) | 3:38 |
-| 46 | [Ni Una Sola Palabra](https://open.spotify.com/track/4oCqda0opcaXQPjoAhhcfg) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Ananda](https://open.spotify.com/album/0F2H68l0GgokiCljA6w1aT) | 3:44 |
+| 41 | [Ni Una Sola Palabra](https://open.spotify.com/track/4oCqda0opcaXQPjoAhhcfg) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Ananda](https://open.spotify.com/album/0F2H68l0GgokiCljA6w1aT) | 3:44 |
+| 42 | [Torero](https://open.spotify.com/track/709CndJJB3GTUhQD0LLFse) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Grandes Exitos](https://open.spotify.com/album/1HR0VmKYncW4JyMwRCSi9N) | 3:37 |
+| 43 | [The Ketchup Song \(Aserejé\) \- Spanish Version](https://open.spotify.com/track/6NG2IIXZfC5Notpz0GIODU) | [Las Ketchup](https://open.spotify.com/artist/1e8GEl48ktvfDpruMKB6Oe) | [Aserejé \(The Ketchup Song\)](https://open.spotify.com/album/5k9nNGzp6ogw5bBULPeMSz) | 3:33 |
+| 44 | [Rakata](https://open.spotify.com/track/0mHrQV5Tu8cjioNpNGG7N1) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Pa'l Mundo](https://open.spotify.com/album/3TheioK614VC2aRMhfKS6h) | 2:52 |
+| 45 | [Ave María](https://open.spotify.com/track/5U4pDBaeq2Jl2dKuWWUSsh) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Corazon Latino](https://open.spotify.com/album/2uwVT3EKTVmI3ik9yqsyMl) | 3:29 |
+| 46 | [Carito](https://open.spotify.com/track/5czkBkWogUvTf2jleGyHaQ) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Dejame Entrar](https://open.spotify.com/album/7qRqrZOCvzZLsNlOawHURC) | 3:38 |
 | 47 | [Te Aviso, Te Anuncio \(Tango\)](https://open.spotify.com/track/1w5nWhUzrQqj0WnDXrgsnC) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:43 |
 | 48 | [Arrasando](https://open.spotify.com/track/1EhDeCHd34jt7dMDqkGQBC) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Arrasando](https://open.spotify.com/album/2PA0R3BGC5ZGCAR6G23sqO) | 3:59 |
 | 49 | [Ven Conmigo \(Solamente Tú\)](https://open.spotify.com/track/2PYJnUWEPPP8C6b79UiwIl) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mi Reflejo](https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK) | 3:10 |
-| 50 | [Todavia \- Radio Edit](https://open.spotify.com/track/2anG3oj6XqxccnXJPUOnac) | [La Factoria](https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy) | [Todavia \(Radio Edit\)](https://open.spotify.com/album/2ljlY9QPnJ6VJ3JxUcxqf8) | 3:23 |
+| 50 | [Rosa Pastel](https://open.spotify.com/track/6Z0ybnsUBhbZ9ZjPW64eoF) | [Belanova](https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp) | [Gran Disco Mini Precio \- Dulce Beat](https://open.spotify.com/album/3eFmEZkrFFPAhEX0xpTSir) | 3:05 |
 
-Snapshot ID: `MTY4MDY0OTY5OSwwMDAwMDAwMDJkNTQ1OWZlZjJmNjZkMmVhMDFiOTI4NTYyZjI1NmE2`
+Snapshot ID: `MTY4MDY0OTY5OSwwMDAwMDAwMDU4YzQ2YTBjZWQ2NDY2YzJkYWVmZWUzNWQ5MGQ5Yzdk`

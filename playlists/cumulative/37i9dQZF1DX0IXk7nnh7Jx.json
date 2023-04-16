@@ -3461,6 +3461,24 @@
     },
     {
       "album": {
+        "name": "OH, YOUR GOODNESS!",
+        "url": "https://open.spotify.com/album/4ipfRLb4GhL2XahDcsWBKS"
+      },
+      "artists": [
+        {
+          "name": "Sam&Steff",
+          "url": "https://open.spotify.com/artist/5sxcOpP4RaZjYhaiwmPnWZ"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241804,
+      "name": "OH, YOUR GOODNESS!",
+      "url": "https://open.spotify.com/track/55ssIBAfttyZyIxbhROXRl"
+    },
+    {
+      "album": {
         "name": "Only You Can Do It",
         "url": "https://open.spotify.com/album/5rhWXmx3zQh0z2F2bcaOV1"
       },
@@ -5786,7 +5804,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 243840,
       "name": "Yeshua",
       "url": "https://open.spotify.com/track/2XfiL5W2ZakGuKXuREcT3Q"

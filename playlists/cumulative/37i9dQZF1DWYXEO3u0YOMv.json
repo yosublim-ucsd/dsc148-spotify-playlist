@@ -2375,6 +2375,24 @@
     },
     {
       "album": {
+        "name": "\u7d19\u4e00\u91cd",
+        "url": "https://open.spotify.com/album/6aGEvo2LvTdDOwKxPtpdqN"
+      },
+      "artists": [
+        {
+          "name": "Uru",
+          "url": "https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249477,
+      "name": "\u7d19\u4e00\u91cd",
+      "url": "https://open.spotify.com/track/4WqWAyxI9uf6CVxUBwglrb"
+    },
+    {
+      "album": {
         "name": "\u8056\u8005\u306e\u884c\u9032",
         "url": "https://open.spotify.com/album/5Nf1cYILokJyVjehjQzOpW"
       },

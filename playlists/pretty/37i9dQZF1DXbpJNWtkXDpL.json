@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Presentamos a nuestros artista Radar M\u00e9xico 2022!",
-  "num_followers": 68274,
+  "num_followers": 68283,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzQxNjgwMCwwMDAwMDAwMDlkM2M0YzIxNzA3N2JhYWY1ZTllZGE3Y2RmOGQxNjMy",
+  "snapshot_id": "MTY3MzQxNjgwMCwwMDAwMDAwMDUxMGZiOTA2ZDlkYzAxM2NlMzNmMWJiZWY3ODBiYWVh",
   "tracks": [
     {
       "added_at": "2023-01-11 06:00:00",
@@ -471,38 +471,6 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "\u00bfPor Qu\u00e9 Me Dejaste de Querer?",
-        "url": "https://open.spotify.com/album/6957JkC44ERGeUABWH6ssX"
-      },
-      "artists": [
-        {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "\u00bfPor Qu\u00e9 Me Dejaste de Querer?",
-      "url": "https://open.spotify.com/track/3A0EC7X2FGSnbFDOCb8ZoT"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "Que Si Fumo Tanto",
-        "url": "https://open.spotify.com/album/3SBkf0nDvsHIITpG9LLkRL"
-      },
-      "artists": [
-        {
-          "name": "Jauria Santa",
-          "url": "https://open.spotify.com/artist/662f8mEv1eRLXE9DzBy4vV"
-        }
-      ],
-      "duration_ms": 220009,
-      "name": "Que Si Fumo Tanto",
-      "url": "https://open.spotify.com/track/02NMSq5GXpSPCAD2tQgJQM"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
         "name": "t\u00fa vales la pena",
         "url": "https://open.spotify.com/album/5WjmPd7foWYVCiyxpJnk4r"
       },
@@ -523,6 +491,22 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
+        "name": "Que Si Fumo Tanto",
+        "url": "https://open.spotify.com/album/3SBkf0nDvsHIITpG9LLkRL"
+      },
+      "artists": [
+        {
+          "name": "Jauria Santa",
+          "url": "https://open.spotify.com/artist/662f8mEv1eRLXE9DzBy4vV"
+        }
+      ],
+      "duration_ms": 220009,
+      "name": "Que Si Fumo Tanto",
+      "url": "https://open.spotify.com/track/02NMSq5GXpSPCAD2tQgJQM"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
         "name": "Barbie Ven",
         "url": "https://open.spotify.com/album/2jWWAbKtp7ACnQcUT1a7eV"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 161346,
       "name": "Barbie Ven",
       "url": "https://open.spotify.com/track/4QJN9tUM1gPGrS4LM9424u"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "\u00bfPor Qu\u00e9 Me Dejaste de Querer?",
+        "url": "https://open.spotify.com/album/6957JkC44ERGeUABWH6ssX"
+      },
+      "artists": [
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "\u00bfPor Qu\u00e9 Me Dejaste de Querer?",
+      "url": "https://open.spotify.com/track/3A0EC7X2FGSnbFDOCb8ZoT"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -619,6 +619,22 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
+        "name": "Los D\u00edas en la Sala",
+        "url": "https://open.spotify.com/album/3n8yXa8oKTRbja348a3V45"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "duration_ms": 163411,
+      "name": "Siempre Te Voy a Querer",
+      "url": "https://open.spotify.com/track/2f0LLHCip3EIflKwKlSAJV"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
         "name": "Qu\u00e9date Conmigo",
         "url": "https://open.spotify.com/album/3VlJVBVcyprRfIf21M7fVk"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 178980,
       "name": "No Lo Pod\u00eda Hacer Mejor",
       "url": "https://open.spotify.com/track/0miQuUmnk0hQ0HaviDOrUA"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "Los D\u00edas en la Sala",
-        "url": "https://open.spotify.com/album/3n8yXa8oKTRbja348a3V45"
-      },
-      "artists": [
-        {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
-        }
-      ],
-      "duration_ms": 163411,
-      "name": "Siempre Te Voy a Querer",
-      "url": "https://open.spotify.com/track/2f0LLHCip3EIflKwKlSAJV"
     },
     {
       "added_at": "2022-11-12 17:00:21",
@@ -703,26 +703,6 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "Te Vas",
-        "url": "https://open.spotify.com/album/617Pd9DjDcepMn7CWlkKbR"
-      },
-      "artists": [
-        {
-          "name": "El Bala",
-          "url": "https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY"
-        },
-        {
-          "name": "El Bebeto",
-          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
-        }
-      ],
-      "duration_ms": 157280,
-      "name": "Te Vas",
-      "url": "https://open.spotify.com/track/17zk128PQ4dP3aYrCDEg3v"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
         "name": "M\u00e1s Tarde (Remix)",
         "url": "https://open.spotify.com/album/3YeYvTtjuhqI0syIeMAhaA"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 206400,
       "name": "M\u00e1s Tarde - Remix",
       "url": "https://open.spotify.com/track/6RE8xvoIrJSBQGPSC6V3mr"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "Te Vas",
+        "url": "https://open.spotify.com/album/617Pd9DjDcepMn7CWlkKbR"
+      },
+      "artists": [
+        {
+          "name": "El Bala",
+          "url": "https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY"
+        },
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+        }
+      ],
+      "duration_ms": 157280,
+      "name": "Te Vas",
+      "url": "https://open.spotify.com/track/17zk128PQ4dP3aYrCDEg3v"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -811,6 +811,26 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
+        "name": "Dm",
+        "url": "https://open.spotify.com/album/6TycrtSZUUpCEKRv6LBtkv"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Ey Gary",
+          "url": "https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww"
+        }
+      ],
+      "duration_ms": 184360,
+      "name": "Dm",
+      "url": "https://open.spotify.com/track/094xqdZtg4JY1NzQfEDlUd"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
         "name": "Uh La La",
         "url": "https://open.spotify.com/album/37E856Cum11u0LJognB6Xp"
       },
@@ -839,26 +859,6 @@
       "duration_ms": 209346,
       "name": "Uno Que Tropieza Y Cae Al Mar",
       "url": "https://open.spotify.com/track/7s9RruGzghXh575zU4qEpz"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "Dm",
-        "url": "https://open.spotify.com/album/6TycrtSZUUpCEKRv6LBtkv"
-      },
-      "artists": [
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Ey Gary",
-          "url": "https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww"
-        }
-      ],
-      "duration_ms": 184360,
-      "name": "Dm",
-      "url": "https://open.spotify.com/track/094xqdZtg4JY1NzQfEDlUd"
     },
     {
       "added_at": "2022-06-07 05:00:00",

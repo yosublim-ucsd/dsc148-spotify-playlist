@@ -6292,10 +6292,28 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 199293,
       "name": "The Thrill Is Gone.",
       "url": "https://open.spotify.com/track/0OY4O9PuW7A5fbI2o90WA8"
+    },
+    {
+      "album": {
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199293,
+      "name": "The Thrill Is Gone.",
+      "url": "https://open.spotify.com/track/5eVG50IlyjSevPsWnSI76r"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 
 > Avant\-garde, experimental and free jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,795 likes - 93 songs - 11 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,818 likes - 93 songs - 11 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

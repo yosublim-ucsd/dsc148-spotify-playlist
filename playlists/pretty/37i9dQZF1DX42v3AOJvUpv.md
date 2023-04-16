@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42v3AOJvUpv.md) - [plain]
 
 > Entre peinados, maquillajes y vestimentas exóticas, la estética dominó la escena musical de los años ’80\. Foto:<a href="spotify:user:spotify:playlist:37i9dQZF1DWThxX36B17XL"> Soda Stereo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,771 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,791 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42v3AOJvUpv.md) - [plain]
 | 6 | [Luna de Miel en la Mano](https://open.spotify.com/track/1qWLCuCnNcQVVzJm4pu7Zv) | [Virus](https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV) | [Locura](https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r) | 5:16 |
 | 7 | [Nos Siguen Pegando Abajo](https://open.spotify.com/track/4VikOud5ZmdmHH6h7uQeDB) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Clics Modernos](https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H) | 3:26 |
 | 8 | [La Bestia Pop](https://open.spotify.com/track/5WeBnrDPyLhxruxVryHCkn) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Gulp!](https://open.spotify.com/album/5UATn22oJa1cBrnbnZ88eA) | 4:07 |
-| 9 | [Polaroid De Locura Ordinaria](https://open.spotify.com/track/0fAkoHmERNn6PuRqfK7411) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Ey!](https://open.spotify.com/album/1TscUipICOumgsnfvVqFS0) | 3:29 |
-| 10 | [Es Por Amor](https://open.spotify.com/track/7cwtDwkH0PHHQmfbkZM8Ox) | [GIT](https://open.spotify.com/artist/21o0KNjooi1XjygW6V70NM) | [GIT, El Album](https://open.spotify.com/album/7Hg6EdwBShAdwAfUy4fFDN) | 5:13 |
+| 9 | [Es Por Amor](https://open.spotify.com/track/7cwtDwkH0PHHQmfbkZM8Ox) | [GIT](https://open.spotify.com/artist/21o0KNjooi1XjygW6V70NM) | [GIT, El Album](https://open.spotify.com/album/7Hg6EdwBShAdwAfUy4fFDN) | 5:13 |
+| 10 | [Polaroid De Locura Ordinaria](https://open.spotify.com/track/0fAkoHmERNn6PuRqfK7411) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Ey!](https://open.spotify.com/album/1TscUipICOumgsnfvVqFS0) | 3:29 |
 | 11 | [Persiana Americana \- Remasterizado 2007](https://open.spotify.com/track/71awpJoi5bqGMBrTkHDDoL) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Signos \(Remastered\)](https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi) | 4:52 |
 | 12 | [Los Viejos Vinagres](https://open.spotify.com/track/587HW7legSOEetkhw2RoO2) | [Sumo](https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W) | [Llegando Los Monos](https://open.spotify.com/album/2kn0EF90FuahMHtPpwVsX4) | 3:17 |
 | 13 | [El Genio del Dub \- Remasterizado 2008](https://open.spotify.com/track/3hWZ9vTXIEUffGVD73qIAb) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Yo Te Avisé](https://open.spotify.com/album/2DJSgXqWhU2iJT2hPP2HCu) | 5:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42v3AOJvUpv.md) - [plain]
 | 49 | [Recuerdo Esa Canción \- Remastered 2017](https://open.spotify.com/track/55mh9gIYZ2OWd9mxLtt8hV) | [Graffiti](https://open.spotify.com/artist/2ZgRrMPrfyF09AxK77ERBj) | [Exhibición Condicionada \(Remastered 2017\)](https://open.spotify.com/album/1fmO6qMzdt1euO1OI5WM0o) | 4:15 |
 | 50 | [Himno De Mi Corazón](https://open.spotify.com/track/0Y7Fr8AG39QyLQ3TAb8uoX) | [Los Abuelos De La Nada](https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me) | [Los Abuelos De La Nada 1](https://open.spotify.com/album/2SoFsWPQgW2rSGiBmn1GMI) | 5:05 |
 
-Snapshot ID: `MTU4NDM3NTE2MiwwMDAwMDAwMDcxMTE5YWNlYjQ2MTQ2YjYxNDhhMjdiOTA5ZGY4NTlm`
+Snapshot ID: `MTU4NDM3NTE2MiwwMDAwMDAwMGNlZDZjOTVjZWY2NmFhNmJiMjRiYTQ2NzIzMzMzYTQy`

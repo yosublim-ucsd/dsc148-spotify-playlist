@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Argentina.
 
-531 songs - 1 day 5 hr 2 min
+532 songs - 1 day 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,7 +243,7 @@
 | [Las Jordans](https://open.spotify.com/track/4eOGoAtYWRPQZ6mUwwgmuW) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:24 | 2023-02-18 | 2023-03-13 |
 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 | 2022-05-21 | 2022-05-30 |
 | [Lavender Haze](https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:22 | 2022-10-22 | 2022-10-27 |
-| [Le doy perreo](https://open.spotify.com/track/1DTmxMoV47mkuTrSY2xkyl) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [Le doy perreo](https://open.spotify.com/album/0VJzJRpkszNHrVcPnkzSRn) | 2:18 | 2023-01-12 |  |
+| [Le doy perreo](https://open.spotify.com/track/1DTmxMoV47mkuTrSY2xkyl) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [Le doy perreo](https://open.spotify.com/album/0VJzJRpkszNHrVcPnkzSRn) | 2:18 | 2023-01-12 | 2023-04-16 |
 | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Future Nostalgia](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) | 3:23 | 2021-04-15 | 2021-05-23 |
 | [Ley de Atracción](https://open.spotify.com/track/52PVGjg5sUhfs9PHiSl02c) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Ley de Atracción](https://open.spotify.com/album/3bCHpjpghyFjPfl0l108mF) | 3:00 | 2021-09-05 | 2021-11-20 |
 | [Ley de Atracción](https://open.spotify.com/track/6J63gKDHJLjiKWQg2LYvm4) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Temporada de Reggaetón](https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl) | 3:00 | 2021-11-28 | 2021-12-12 |
@@ -330,6 +330,7 @@
 | [NOW](https://open.spotify.com/track/5gJuYaon5zaZahQyAd0LVx) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [NOW](https://open.spotify.com/album/5uLwxrxExey2DMjxYTEnMC) | 3:12 | 2022-02-05 | 2022-05-08 |
 | [Nublado](https://open.spotify.com/track/5JCquuXMmdXNypO32fPb0M) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Nublado](https://open.spotify.com/album/4Xzp1DYT87Uabsz9FutNyL) | 3:00 | 2022-07-01 | 2022-07-23 |
 | [Numero 1](https://open.spotify.com/track/6HXvazdtAr9hy0kThzxrE3) | [Oscu](https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A), [Nobeat](https://open.spotify.com/artist/3TKS1JzWOLAnicuOCOyVlW) | [Numero 1](https://open.spotify.com/album/5QK2JiVGO67uLi0vqi9Wg6) | 2:44 | 2022-04-12 | 2022-10-14 |
+| [Obsesión](https://open.spotify.com/track/5Dor1ZjCnBYmC136ytDzJp) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI](https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3) | 3:11 | 2023-04-15 |  |
 | [Ocho Cuarenta](https://open.spotify.com/track/6jDx3MNG0yJdrvEBZohKBE) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Cuarteteando](https://open.spotify.com/album/5yJ7OyeVVRyCd5jtsLsooN) | 5:54 | 2021-12-26 | 2022-01-04 |
 | [OJALÁ](https://open.spotify.com/track/1uGdRSOpObu3lp0jvrVREl) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [OJALÁ](https://open.spotify.com/album/6LmddIPzdpQYYc13kGzrvS) | 2:40 | 2022-06-03 | 2022-12-11 |
 | [OJALÁ](https://open.spotify.com/track/5RlibNUdsaN2oPX9MWl52K) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL) | 2:40 | 2022-12-10 | 2023-01-14 |

@@ -1,12 +1,12 @@
 {
   "description": "The best indie covers. Cover: Remi Wolf",
-  "num_followers": 278384,
+  "num_followers": 278434,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTIyNTA3NCwwMDAwMDAwMDYzNDliZjk5MTY1NDNkODliMGVmNzkzYmE0NjdhOWUy",
+  "snapshot_id": "MTY4MTIyNTA3NCwwMDAwMDAwMDJjOTUxMTdmOWI0MzNiNjU3OWY0OGFiOGIwZmQ0ZWE0",
   "tracks": [
     {
       "added_at": "2022-11-11 05:00:00",
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/7DtbrNlYifGnJc7HY0fS9i"
     },
     {
-      "added_at": "2023-04-15 01:34:05",
+      "added_at": "2023-04-16 01:04:02",
       "album": {
         "name": "The Moon Song",
         "url": "https://open.spotify.com/album/2cWXWYA0G1iCMYPue0unqm"
@@ -209,7 +209,7 @@
       "url": "https://open.spotify.com/track/0ApIlfcdY0hVdVEVUyS2Zf"
     },
     {
-      "added_at": "2023-04-15 01:34:05",
+      "added_at": "2023-04-16 01:04:02",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1"
@@ -339,22 +339,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Bette Davis Eyes",
-        "url": "https://open.spotify.com/album/4rncEmVTlpMJjPexBINlBV"
-      },
-      "artists": [
-        {
-          "name": "BOY",
-          "url": "https://open.spotify.com/artist/7I7ObCLzhAnOchc4fCQiRX"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Bette Davis Eyes",
-      "url": "https://open.spotify.com/track/5S5Txc2IPoky9tiMafDXuB"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Godspeed",
         "url": "https://open.spotify.com/album/0qYRbCu2dmz948wOiROlcC"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 173840,
       "name": "Godspeed",
       "url": "https://open.spotify.com/track/5WfACgyEk4rwdWU3rrzNt1"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Bette Davis Eyes",
+        "url": "https://open.spotify.com/album/4rncEmVTlpMJjPexBINlBV"
+      },
+      "artists": [
+        {
+          "name": "BOY",
+          "url": "https://open.spotify.com/artist/7I7ObCLzhAnOchc4fCQiRX"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Bette Davis Eyes",
+      "url": "https://open.spotify.com/track/5S5Txc2IPoky9tiMafDXuB"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -689,20 +689,20 @@
       "url": "https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
+      "added_at": "2023-04-16 01:04:02",
       "album": {
-        "name": "true colors (from Life is Strange)",
-        "url": "https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h"
+        "name": "Dancing on My Own",
+        "url": "https://open.spotify.com/album/5cUBGCKASqckBH8auhHKLa"
       },
       "artists": [
         {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+          "name": "The Regrettes",
+          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
         }
       ],
-      "duration_ms": 210600,
-      "name": "creep",
-      "url": "https://open.spotify.com/track/1CSue9uoEXv1w2YwfSjaCY"
+      "duration_ms": 209813,
+      "name": "Dancing on My Own",
+      "url": "https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -729,20 +729,20 @@
       "url": "https://open.spotify.com/track/3uertkdKKnKntI2kK0fDqg"
     },
     {
-      "added_at": "2023-04-15 01:34:05",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Dancing on My Own",
-        "url": "https://open.spotify.com/album/5cUBGCKASqckBH8auhHKLa"
+        "name": "true colors (from Life is Strange)",
+        "url": "https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h"
       },
       "artists": [
         {
-          "name": "The Regrettes",
-          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 209813,
-      "name": "Dancing on My Own",
-      "url": "https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv"
+      "duration_ms": 210600,
+      "name": "creep",
+      "url": "https://open.spotify.com/track/1CSue9uoEXv1w2YwfSjaCY"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -761,7 +761,7 @@
       "url": "https://open.spotify.com/track/0voD3AU9IVGAyCXeV8GeSz"
     },
     {
-      "added_at": "2023-04-15 01:34:05",
+      "added_at": "2023-04-16 01:04:02",
       "album": {
         "name": "Slide",
         "url": "https://open.spotify.com/album/3pEOuINxpeoHPL9Sf9IAe2"
@@ -949,7 +949,7 @@
       "url": "https://open.spotify.com/track/6lG3q4b7eoeplybJUqXP96"
     },
     {
-      "added_at": "2023-04-15 01:34:05",
+      "added_at": "2023-04-16 01:04:02",
       "album": {
         "name": "Under The Milky Way",
         "url": "https://open.spotify.com/album/2nLFwnQ1oaO9GxmA7dOiAS"
@@ -997,20 +997,20 @@
       "url": "https://open.spotify.com/track/7GTmhgsPfmpZHp0e78WYsK"
     },
     {
-      "added_at": "2023-03-17 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Covered In Hether",
-        "url": "https://open.spotify.com/album/6GqWvDxFxsvi8ieNRJCTas"
+        "name": "Alaska",
+        "url": "https://open.spotify.com/album/052acR0QzZbbPNkwnbakxe"
       },
       "artists": [
         {
-          "name": "Hether",
-          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
+          "name": "Jewel",
+          "url": "https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP"
         }
       ],
-      "duration_ms": 175500,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/0ZqTolRYHEfdsM5d3lNv0Q"
+      "duration_ms": 180093,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/0QfnsSPIJ1BOHFjZyC2lyk"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1037,20 +1037,20 @@
       "url": "https://open.spotify.com/track/5uXr5ZxwlC5lz7DMKLqJfC"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
+      "added_at": "2023-03-17 05:00:00",
       "album": {
-        "name": "Alaska",
-        "url": "https://open.spotify.com/album/052acR0QzZbbPNkwnbakxe"
+        "name": "Covered In Hether",
+        "url": "https://open.spotify.com/album/6GqWvDxFxsvi8ieNRJCTas"
       },
       "artists": [
         {
-          "name": "Jewel",
-          "url": "https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP"
+          "name": "Hether",
+          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
         }
       ],
-      "duration_ms": 180093,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/0QfnsSPIJ1BOHFjZyC2lyk"
+      "duration_ms": 175500,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/0ZqTolRYHEfdsM5d3lNv0Q"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Fake Plastic Trees",
-        "url": "https://open.spotify.com/album/6HeM8ZTANrAREphp6jQ5Ym"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Fake Plastic Trees",
-      "url": "https://open.spotify.com/track/2wVoRTUczkumuqcgNlRnLa"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Alaska",
         "url": "https://open.spotify.com/album/7wvGomB3AXeriDQuKIyLlq"
       },
@@ -1159,18 +1143,18 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Siamese Dream",
-        "url": "https://open.spotify.com/album/0ru8LiiyWfkrHIqh0nSUTA"
+        "name": "Fake Plastic Trees",
+        "url": "https://open.spotify.com/album/6HeM8ZTANrAREphp6jQ5Ym"
       },
       "artists": [
         {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
         }
       ],
-      "duration_ms": 255633,
-      "name": "Today",
-      "url": "https://open.spotify.com/track/2M605uHCPSyTuiWhplewX1"
+      "duration_ms": 260000,
+      "name": "Fake Plastic Trees",
+      "url": "https://open.spotify.com/track/2wVoRTUczkumuqcgNlRnLa"
     },
     {
       "added_at": "2023-03-17 05:00:00",
@@ -1191,6 +1175,22 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "Siamese Dream",
+        "url": "https://open.spotify.com/album/0ru8LiiyWfkrHIqh0nSUTA"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 255633,
+      "name": "Today",
+      "url": "https://open.spotify.com/track/2M605uHCPSyTuiWhplewX1"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "Blue Skies",
         "url": "https://open.spotify.com/album/1m50nO6LDcbAsv82M2KaZR"
       },
@@ -1205,7 +1205,7 @@
       "url": "https://open.spotify.com/track/3qgK1i52jyuvz8ATQmMLTx"
     },
     {
-      "added_at": "2023-04-15 01:34:05",
+      "added_at": "2023-04-16 01:04:02",
       "album": {
         "name": "Candid",
         "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"

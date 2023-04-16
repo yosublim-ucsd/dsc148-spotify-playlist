@@ -1,12 +1,12 @@
 {
   "description": "Soft instrumental Jazz for working or studying.",
-  "num_followers": 207782,
+  "num_followers": 207855,
   "original_name": "Focus Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQyMzIwMCwwMDAwMDAwMGMwYjhkYThmZDRkOTRkMDBkNTM2M2M0ZWU1NDk4MDM4",
+  "snapshot_id": "MTY4MTQyMzIwMCwwMDAwMDAwMDcyMDgwYjQzZjkxMjg0MTI3ZWI1YTViZGU2YjIwMjA1",
   "tracks": [
     {
       "added_at": "2023-04-13 22:00:00",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
+        "name": "Not So Dukish",
+        "url": "https://open.spotify.com/album/3oeavlFnbsS7L17R8Irxyv"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hodges",
+          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
+        }
+      ],
+      "duration_ms": 174960,
+      "name": "The Last Time I Saw Paris",
+      "url": "https://open.spotify.com/track/1CgkKs5fgX1BiYyYZ6ZzZE"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
         "name": "Equilibrio",
         "url": "https://open.spotify.com/album/4IJ2s5qJmU3XBSvxOWOPSF"
       },
@@ -619,18 +635,18 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Not So Dukish",
-        "url": "https://open.spotify.com/album/3oeavlFnbsS7L17R8Irxyv"
+        "name": "Ballads (Deluxe Edition - Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt"
       },
       "artists": [
         {
-          "name": "Johnny Hodges",
-          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
+          "name": "John Coltrane Quartet",
+          "url": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy"
         }
       ],
-      "duration_ms": 174960,
-      "name": "The Last Time I Saw Paris",
-      "url": "https://open.spotify.com/track/1CgkKs5fgX1BiYyYZ6ZzZE"
+      "duration_ms": 165560,
+      "name": "It's Easy To Remember",
+      "url": "https://open.spotify.com/track/1lZ41PumDFX0e82XTGx4sE"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -667,22 +683,6 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Ballads (Deluxe Edition - Rudy Van Gelder Remaster)",
-        "url": "https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane Quartet",
-          "url": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy"
-        }
-      ],
-      "duration_ms": 165560,
-      "name": "It's Easy To Remember",
-      "url": "https://open.spotify.com/track/1lZ41PumDFX0e82XTGx4sE"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
         "name": "Storvindeln",
         "url": "https://open.spotify.com/album/1EjiRshKRMV9tGaT2q5Qzr"
       },
@@ -711,6 +711,22 @@
       "duration_ms": 232212,
       "name": "Holograms",
       "url": "https://open.spotify.com/track/0MTxJdAZ7XYz5ES0GT5Dd7"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "Ballads (Deluxe Edition - Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane Quartet",
+          "url": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy"
+        }
+      ],
+      "duration_ms": 191866,
+      "name": "Nancy (With The Laughing Face)",
+      "url": "https://open.spotify.com/track/2HdvZsLXBmO9sc4cV8d4BA"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -763,22 +779,6 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "The Noble Art Of Teddy Wilson",
-        "url": "https://open.spotify.com/album/32TZRpG7qCdeDEjWbSWS8G"
-      },
-      "artists": [
-        {
-          "name": "Teddy Wilson",
-          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
-        }
-      ],
-      "duration_ms": 149072,
-      "name": "Fools Rush In",
-      "url": "https://open.spotify.com/track/7hbpUZY7qsDPBe9X2juJEz"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
         "name": "Du & Jag",
         "url": "https://open.spotify.com/album/6XFSqJXCjg1x5GeBslZkBN"
       },
@@ -791,6 +791,22 @@
       "duration_ms": 182563,
       "name": "Me and You",
       "url": "https://open.spotify.com/track/13PQrxT6yKIpsjIKPRBtC5"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "The Noble Art Of Teddy Wilson",
+        "url": "https://open.spotify.com/album/32TZRpG7qCdeDEjWbSWS8G"
+      },
+      "artists": [
+        {
+          "name": "Teddy Wilson",
+          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
+        }
+      ],
+      "duration_ms": 149072,
+      "name": "Fools Rush In",
+      "url": "https://open.spotify.com/track/7hbpUZY7qsDPBe9X2juJEz"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -823,22 +839,6 @@
       "duration_ms": 211671,
       "name": "Beyond Belief",
       "url": "https://open.spotify.com/track/4Y27hhN8JYQnD4XPnqlZsU"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
-        "name": "Ballads (Deluxe Edition - Rudy Van Gelder Remaster)",
-        "url": "https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane Quartet",
-          "url": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy"
-        }
-      ],
-      "duration_ms": 191866,
-      "name": "Nancy (With The Laughing Face)",
-      "url": "https://open.spotify.com/track/2HdvZsLXBmO9sc4cV8d4BA"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -955,6 +955,22 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
+        "name": "You Must Believe In Spring (Remastered Version)",
+        "url": "https://open.spotify.com/album/2B583jxnkHmIyBU6Z8VlmI"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 257693,
+      "name": "Gary's Theme - Remastered",
+      "url": "https://open.spotify.com/track/3f9KhpRN6mMYoVnpuozgHD"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
         "name": "Windless Waters",
         "url": "https://open.spotify.com/album/4VavAVgUen9lslDOZtqizc"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 210508,
       "name": "Windless Waters",
       "url": "https://open.spotify.com/track/7FMsiew09v6ICDI5MU1Jc5"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
-        "name": "Conceptions",
-        "url": "https://open.spotify.com/album/2wjpd8DCfjtzzKxc9p2dvw"
-      },
-      "artists": [
-        {
-          "name": "Mitch Coleman",
-          "url": "https://open.spotify.com/artist/5YyVZ8kxK9sRVEg1pBh1PV"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "Conceptions",
-      "url": "https://open.spotify.com/track/1WmWY8MVCl3iPZ4u1k9sLa"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -1003,34 +1003,18 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "You Must Believe In Spring (Remastered Version)",
-        "url": "https://open.spotify.com/album/2B583jxnkHmIyBU6Z8VlmI"
+        "name": "Conceptions",
+        "url": "https://open.spotify.com/album/2wjpd8DCfjtzzKxc9p2dvw"
       },
       "artists": [
         {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+          "name": "Mitch Coleman",
+          "url": "https://open.spotify.com/artist/5YyVZ8kxK9sRVEg1pBh1PV"
         }
       ],
-      "duration_ms": 257693,
-      "name": "Gary's Theme - Remastered",
-      "url": "https://open.spotify.com/track/3f9KhpRN6mMYoVnpuozgHD"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
-        "name": "Merry Monday",
-        "url": "https://open.spotify.com/album/4jE1tDbdj3RgvlxGGiT72y"
-      },
-      "artists": [
-        {
-          "name": "Lennie Weston",
-          "url": "https://open.spotify.com/artist/2i25BOgCBeXtPKKpj3I0NJ"
-        }
-      ],
-      "duration_ms": 190909,
-      "name": "Merry Monday",
-      "url": "https://open.spotify.com/track/4jZOeSzfXYIBJszABDdba0"
+      "duration_ms": 196500,
+      "name": "Conceptions",
+      "url": "https://open.spotify.com/track/1WmWY8MVCl3iPZ4u1k9sLa"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -1047,6 +1031,22 @@
       "duration_ms": 198715,
       "name": "That\u2019s gotta be it",
       "url": "https://open.spotify.com/track/0FazSNhRZ6WLccyfjtKFZB"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "Merry Monday",
+        "url": "https://open.spotify.com/album/4jE1tDbdj3RgvlxGGiT72y"
+      },
+      "artists": [
+        {
+          "name": "Lennie Weston",
+          "url": "https://open.spotify.com/artist/2i25BOgCBeXtPKKpj3I0NJ"
+        }
+      ],
+      "duration_ms": 190909,
+      "name": "Merry Monday",
+      "url": "https://open.spotify.com/track/4jZOeSzfXYIBJszABDdba0"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Blue Eyes Crying In The Rain",
-        "url": "https://open.spotify.com/album/7GOaAr9XegEcOqgkL4NqNq"
-      },
-      "artists": [
-        {
-          "name": "Southside Trio",
-          "url": "https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw"
-        }
-      ],
-      "duration_ms": 252153,
-      "name": "Blue Eyes Crying In The Rain",
-      "url": "https://open.spotify.com/track/4QJ4UWKHSgqPEofSerNqZI"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
         "name": "Ruth's Theme",
         "url": "https://open.spotify.com/album/5JQoYZU0vfBT3N2IDdR6I8"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 171990,
       "name": "Ruth's Theme",
       "url": "https://open.spotify.com/track/1bzYSxJAGfKdB3POuvBfrB"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "Blue Eyes Crying In The Rain",
+        "url": "https://open.spotify.com/album/7GOaAr9XegEcOqgkL4NqNq"
+      },
+      "artists": [
+        {
+          "name": "Southside Trio",
+          "url": "https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw"
+        }
+      ],
+      "duration_ms": 252153,
+      "name": "Blue Eyes Crying In The Rain",
+      "url": "https://open.spotify.com/track/4QJ4UWKHSgqPEofSerNqZI"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Imagination",
-        "url": "https://open.spotify.com/album/4KOOHdX5UgHqPqfNYzflZx"
+        "name": "Lazy Art",
+        "url": "https://open.spotify.com/album/0nwE46ZJn2ggRiBKmrN7Vi"
       },
       "artists": [
         {
-          "name": "The North Sea Trio",
-          "url": "https://open.spotify.com/artist/1aalpsSEZpG1wLuLvXcCco"
+          "name": "Martin Landstr\u00f6m",
+          "url": "https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN"
         }
       ],
-      "duration_ms": 273178,
-      "name": "Imagination",
-      "url": "https://open.spotify.com/track/3zkcVHhBj6hkbyE0G5xHfM"
+      "duration_ms": 258872,
+      "name": "You Never Say You're Sorry",
+      "url": "https://open.spotify.com/track/1bB1538FOBYVUs2z06ssQ3"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Lazy Art",
-        "url": "https://open.spotify.com/album/0nwE46ZJn2ggRiBKmrN7Vi"
+        "name": "Imagination",
+        "url": "https://open.spotify.com/album/4KOOHdX5UgHqPqfNYzflZx"
       },
       "artists": [
         {
-          "name": "Martin Landstr\u00f6m",
-          "url": "https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN"
+          "name": "The North Sea Trio",
+          "url": "https://open.spotify.com/artist/1aalpsSEZpG1wLuLvXcCco"
         }
       ],
-      "duration_ms": 258872,
-      "name": "You Never Say You're Sorry",
-      "url": "https://open.spotify.com/track/1bB1538FOBYVUs2z06ssQ3"
+      "duration_ms": 273178,
+      "name": "Imagination",
+      "url": "https://open.spotify.com/track/3zkcVHhBj6hkbyE0G5xHfM"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
+        "name": "Maiden Voyage",
+        "url": "https://open.spotify.com/album/21MJ5rAzKnQ4mSdrvbeuC4"
+      },
+      "artists": [
+        {
+          "name": "Mandevilla",
+          "url": "https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk"
+        }
+      ],
+      "duration_ms": 198701,
+      "name": "Winchester In Apple Blossom Time",
+      "url": "https://open.spotify.com/track/6S6bbgUm80TdelwOPf0dsR"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
         "name": "In My Own Small World",
         "url": "https://open.spotify.com/album/1nEShi0S3yWyDvXW6evjgl"
       },
@@ -1499,18 +1515,18 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Maiden Voyage",
-        "url": "https://open.spotify.com/album/21MJ5rAzKnQ4mSdrvbeuC4"
+        "name": "You Do Something To Me",
+        "url": "https://open.spotify.com/album/3Lbgbr1X5ACTAeWIYgsFEU"
       },
       "artists": [
         {
-          "name": "Mandevilla",
-          "url": "https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk"
+          "name": "Belmont Central",
+          "url": "https://open.spotify.com/artist/0A1I0z7snq8RVRDjVA5qzE"
         }
       ],
-      "duration_ms": 198701,
-      "name": "Winchester In Apple Blossom Time",
-      "url": "https://open.spotify.com/track/6S6bbgUm80TdelwOPf0dsR"
+      "duration_ms": 190843,
+      "name": "You Do Something To Me",
+      "url": "https://open.spotify.com/track/064k0lT6tP4AdWull7SSz0"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -1531,22 +1547,6 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Nancy (WIth The Laughing Face)",
-        "url": "https://open.spotify.com/album/3u3JR9SJ5OuiT9dKIdkSpq"
-      },
-      "artists": [
-        {
-          "name": "Cecil Andrews",
-          "url": "https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV"
-        }
-      ],
-      "duration_ms": 245040,
-      "name": "Nancy (WIth The Laughing Face)",
-      "url": "https://open.spotify.com/track/7jQriEubeC9KTClyfJtthT"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
         "name": "It's You Or No One",
         "url": "https://open.spotify.com/album/21kjz5LLIGohYrVYgkEI0r"
       },
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Everybody Knew",
-        "url": "https://open.spotify.com/album/64IM7XMUoAS8owtJzMUxIB"
-      },
-      "artists": [
-        {
-          "name": "Songbird Trio",
-          "url": "https://open.spotify.com/artist/1Lbuv3aiWkUkCnw0okZ4Fh"
-        }
-      ],
-      "duration_ms": 202661,
-      "name": "Everybody Knew",
-      "url": "https://open.spotify.com/track/0vVsZ7fLYEnYA9VIBXYdhv"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
         "name": "Baubles, Bangles & Beads",
         "url": "https://open.spotify.com/album/52l4zyCJJLLl93HezGeAoG"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 202427,
       "name": "Baubles, Bangles & Beads",
       "url": "https://open.spotify.com/track/7hOfHLHUyYaOVuL8MxzoLv"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "Nancy (WIth The Laughing Face)",
+        "url": "https://open.spotify.com/album/3u3JR9SJ5OuiT9dKIdkSpq"
+      },
+      "artists": [
+        {
+          "name": "Cecil Andrews",
+          "url": "https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV"
+        }
+      ],
+      "duration_ms": 245040,
+      "name": "Nancy (WIth The Laughing Face)",
+      "url": "https://open.spotify.com/track/7jQriEubeC9KTClyfJtthT"
     },
     {
       "added_at": "2023-04-13 22:00:00",

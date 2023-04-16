@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: Magdalena Bay",
-  "num_followers": 1703010,
+  "num_followers": 1702910,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDg4ZmNiMmMzMTg0NmE3ODNkNTEwODk2ODVkYzZhZjBi",
+  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDAzNTI4OTI0NDM1NjU5MzA5ZGVlYWI1MWU2NjgxYzdh",
   "tracks": [
     {
       "added_at": "2023-03-31 04:00:00",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "3 Boys",
-        "url": "https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 209188,
-      "name": "3 Boys",
-      "url": "https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Being Funny In A Foreign Language",
         "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 212568,
       "name": "Oh Caroline",
       "url": "https://open.spotify.com/track/14dJexYlvd3t3XAtD1pYW1"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "3 Boys",
+        "url": "https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 209188,
+      "name": "3 Boys",
+      "url": "https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -479,38 +479,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Over",
-        "url": "https://open.spotify.com/album/3qCe36870O2BtTW8t7X7LE"
-      },
-      "artists": [
-        {
-          "name": "CHVRCHES",
-          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
-        }
-      ],
-      "duration_ms": 217125,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Dance Fever",
-        "url": "https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 227374,
-      "name": "Dream Girl Evil",
-      "url": "https://open.spotify.com/track/7GtOjSSp5Qyi3gNbNDZgja"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Being Funny In A Foreign Language",
         "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
       },
@@ -527,6 +495,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "Over",
+        "url": "https://open.spotify.com/album/3qCe36870O2BtTW8t7X7LE"
+      },
+      "artists": [
+        {
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+        }
+      ],
+      "duration_ms": 217125,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Give Me A Minute",
         "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 235035,
       "name": "Pancakes for Dinner",
       "url": "https://open.spotify.com/track/1WThEmIxSyaqG6fVsyCmcL"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Dance Fever",
+        "url": "https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 227374,
+      "name": "Dream Girl Evil",
+      "url": "https://open.spotify.com/track/7GtOjSSp5Qyi3gNbNDZgja"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -615,6 +615,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "I'm In Love With You",
+        "url": "https://open.spotify.com/album/3TI3FFFz3hKQfsL0izZ8JS"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 262623,
+      "name": "I'm In Love With You",
+      "url": "https://open.spotify.com/track/0uBdQzKghx88d2Lp8SLFKJ"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Blue Spirits",
         "url": "https://open.spotify.com/album/5tIgIR92xz6HfKOTOnHIfk"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 266400,
       "name": "James Dean",
       "url": "https://open.spotify.com/track/77Gdk4vNjXNxQ3fTBu3Nbq"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "I'm In Love With You",
-        "url": "https://open.spotify.com/album/3TI3FFFz3hKQfsL0izZ8JS"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 262623,
-      "name": "I'm In Love With You",
-      "url": "https://open.spotify.com/track/0uBdQzKghx88d2Lp8SLFKJ"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -817,6 +817,22 @@
       "url": "https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9"
     },
     {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "It's Euphoric",
+        "url": "https://open.spotify.com/album/4PO8IlUdTJpBbsUremuM69"
+      },
+      "artists": [
+        {
+          "name": "Georgia",
+          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+        }
+      ],
+      "duration_ms": 221493,
+      "name": "It\u2019s Euphoric",
+      "url": "https://open.spotify.com/track/3se5Q9CtQLv26cFWYOcExQ"
+    },
+    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "MUNA",
@@ -835,18 +851,34 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "It's Euphoric",
-        "url": "https://open.spotify.com/album/4PO8IlUdTJpBbsUremuM69"
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/7Gw4m9PhmzpBp3MjKa6V4d"
       },
       "artists": [
         {
-          "name": "Georgia",
-          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         }
       ],
-      "duration_ms": 221493,
-      "name": "It\u2019s Euphoric",
-      "url": "https://open.spotify.com/track/3se5Q9CtQLv26cFWYOcExQ"
+      "duration_ms": 222650,
+      "name": "Kaleidoscope",
+      "url": "https://open.spotify.com/track/7N1tjTxJe6k5wakOqpNbCj"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Desire, I Want To Turn Into You",
+        "url": "https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "duration_ms": 247375,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/6GqesoY3jZD9BqT1v4UEmk"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -871,38 +903,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Desire, I Want To Turn Into You",
-        "url": "https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q"
-      },
-      "artists": [
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        }
-      ],
-      "duration_ms": 247375,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/6GqesoY3jZD9BqT1v4UEmk"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/7Gw4m9PhmzpBp3MjKa6V4d"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 222650,
-      "name": "Kaleidoscope",
-      "url": "https://open.spotify.com/track/7N1tjTxJe6k5wakOqpNbCj"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Kick in the Teeth",
         "url": "https://open.spotify.com/album/7zeuAUF8ieCxZ5P9wUxOBB"
       },
@@ -915,6 +915,22 @@
       "duration_ms": 167289,
       "name": "Kick in the Teeth",
       "url": "https://open.spotify.com/track/09IAjxegM08998hgb6ZScZ"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "MUNA",
+        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 243236,
+      "name": "What I Want",
+      "url": "https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -951,22 +967,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "MUNA",
-        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 243236,
-      "name": "What I Want",
-      "url": "https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "blotter baby",
         "url": "https://open.spotify.com/album/3YCZdqadysSZff6XOXOM2d"
       },
@@ -995,6 +995,22 @@
       "duration_ms": 163050,
       "name": "Perspective",
       "url": "https://open.spotify.com/track/1WcVAZYGMKdd2cqeDpuDGI"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Bruise",
+        "url": "https://open.spotify.com/album/0pzoYtS7zcG2kd7g4NUbrx"
+      },
+      "artists": [
+        {
+          "name": "BETWEEN FRIENDS",
+          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
+        }
+      ],
+      "duration_ms": 179280,
+      "name": "Bruise",
+      "url": "https://open.spotify.com/track/26NhDr8bfNqIkmkFCoFdeI"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1031,22 +1047,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Think I'm In Love",
-        "url": "https://open.spotify.com/album/6sYZJIIFZK1zVjVGCBM20f"
-      },
-      "artists": [
-        {
-          "name": "Richard Fairlie",
-          "url": "https://open.spotify.com/artist/3LsDFxj4WpnS55c4NW2VOb"
-        }
-      ],
-      "duration_ms": 133000,
-      "name": "Think I'm In Love",
-      "url": "https://open.spotify.com/track/4DdNJPSeSHacmc04nlvwx1"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Harmony House",
         "url": "https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF"
       },
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "late night thoughts",
-        "url": "https://open.spotify.com/album/6jjduNuyly6Y40kJWl5UZN"
+        "name": "Think I'm In Love",
+        "url": "https://open.spotify.com/album/6sYZJIIFZK1zVjVGCBM20f"
       },
       "artists": [
         {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+          "name": "Richard Fairlie",
+          "url": "https://open.spotify.com/artist/3LsDFxj4WpnS55c4NW2VOb"
         }
       ],
-      "duration_ms": 145275,
-      "name": "late night thoughts",
-      "url": "https://open.spotify.com/track/3DZxxkVLybnofY4K2od9yW"
+      "duration_ms": 133000,
+      "name": "Think I'm In Love",
+      "url": "https://open.spotify.com/track/4DdNJPSeSHacmc04nlvwx1"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "late night thoughts",
+        "url": "https://open.spotify.com/album/6jjduNuyly6Y40kJWl5UZN"
+      },
+      "artists": [
+        {
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        }
+      ],
+      "duration_ms": 145275,
+      "name": "late night thoughts",
+      "url": "https://open.spotify.com/track/3DZxxkVLybnofY4K2od9yW"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Petals on the Moon",
         "url": "https://open.spotify.com/album/0o7cc3EnUTcYep5EiFFngs"
       },
@@ -1125,20 +1141,20 @@
       "url": "https://open.spotify.com/track/3BmaFHt6q91CmMrA7fLLRC"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Bruise",
-        "url": "https://open.spotify.com/album/0pzoYtS7zcG2kd7g4NUbrx"
+        "name": "I Wanna Live Forever",
+        "url": "https://open.spotify.com/album/3kI5ZrCZC4FudYzqSAbyVK"
       },
       "artists": [
         {
-          "name": "BETWEEN FRIENDS",
-          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
+          "name": "Alexander 23",
+          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
         }
       ],
-      "duration_ms": 179280,
-      "name": "Bruise",
-      "url": "https://open.spotify.com/track/26NhDr8bfNqIkmkFCoFdeI"
+      "duration_ms": 206904,
+      "name": "I Wanna Live Forever",
+      "url": "https://open.spotify.com/track/759ptp5ik4aLVCMnrQmUKg"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1157,20 +1173,20 @@
       "url": "https://open.spotify.com/track/1UxiPpx3EC2SqFmGoqlXOy"
     },
     {
-      "added_at": "2023-03-31 04:00:00",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "I Wanna Live Forever",
-        "url": "https://open.spotify.com/album/3kI5ZrCZC4FudYzqSAbyVK"
+        "name": "i wanna be your right hand",
+        "url": "https://open.spotify.com/album/1Qo5P3fZvirEKp6sKXEoYT"
       },
       "artists": [
         {
-          "name": "Alexander 23",
-          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
+          "name": "Nemahsis",
+          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
         }
       ],
-      "duration_ms": 206904,
-      "name": "I Wanna Live Forever",
-      "url": "https://open.spotify.com/track/759ptp5ik4aLVCMnrQmUKg"
+      "duration_ms": 148533,
+      "name": "i wanna be your right hand",
+      "url": "https://open.spotify.com/track/68SNAUUgO2XwxykrEboEZN"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1203,22 +1219,6 @@
       "duration_ms": 168253,
       "name": "Let U Go",
       "url": "https://open.spotify.com/track/7FEiuFp1Zo9rxehIquEtL2"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "i wanna be your right hand",
-        "url": "https://open.spotify.com/album/1Qo5P3fZvirEKp6sKXEoYT"
-      },
-      "artists": [
-        {
-          "name": "Nemahsis",
-          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
-        }
-      ],
-      "duration_ms": 148533,
-      "name": "i wanna be your right hand",
-      "url": "https://open.spotify.com/track/68SNAUUgO2XwxykrEboEZN"
     },
     {
       "added_at": "2023-03-24 04:00:00",

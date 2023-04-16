@@ -4,7 +4,7 @@
 
 > Altijd fris in Fresh Hits\. Cover: Claude
 
-111 songs - 5 hr 20 min
+112 songs - 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Chemical](https://open.spotify.com/track/4qzEjmuz380jeiBJp31oDY) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/6NoH5RUtjoh6ae2lJ9gWfq) | 3:04 | 2023-04-14 |  |
 | [Crying On The Dancefloor](https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Endless Summer](https://open.spotify.com/artist/3E0d6yF8knEtWluzLbxCVA), [Violet Days](https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL) | [Crying On The Dancefloor](https://open.spotify.com/album/4IUv9dcdWGXkug84xuIwX7) | 2:53 | 2023-03-20 |  |
 | [Dankjewel](https://open.spotify.com/track/6qlsnYLcPkZFxv0t2Koko8) | [FAY](https://open.spotify.com/artist/2rYvyXWazKzVHanTL5GyCE) | [Dankjewel](https://open.spotify.com/album/4et19MNXHj4zo9e9IGCJlW) | 2:40 | 2023-03-02 | 2023-04-07 |
+| [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2023-04-15 |  |
 | [De Nacht](https://open.spotify.com/track/5S3KPuHQxUFsBQgcW4WLgi) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [De Nacht](https://open.spotify.com/album/7BwQcp2ElEdta4qGT0HUII) | 2:30 | 2023-03-30 |  |
 | [De Nacht](https://open.spotify.com/track/7KZpi0GsInoUQAtQu2952J) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [De Nacht](https://open.spotify.com/album/3dv4RT0OXHymMM3CdTgbTn) | 2:30 | 2023-03-27 | 2023-04-02 |
 | [Der Af \(Oya Lélé\)](https://open.spotify.com/track/443rDqZIaqvZzJ1DgdJNgr) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Der Af \(Oya Lélé\)](https://open.spotify.com/album/6AAEje0hsC6HnJy5SsMiYD) | 2:26 | 2023-02-23 | 2023-03-28 |
@@ -69,7 +70,7 @@
 | [Loro Piana](https://open.spotify.com/track/11sTBZXqq6nKIFHFRDBKnu) | [Glades](https://open.spotify.com/artist/2IrIxkfver7SZcOsFC0l6Q), [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [Loro Piana](https://open.spotify.com/album/0egHLSkTArwzqumnOHzejS) | 3:08 | 2023-02-23 | 2023-03-30 |
 | [Love](https://open.spotify.com/track/5zgOQGcG0oTDUQVc45q1BY) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [AFROBOY](https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1) | 3:11 | 2023-02-23 | 2023-04-13 |
 | [Love Again](https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Love Again](https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8) | 2:26 | 2023-02-23 | 2023-03-30 |
-| [Midden In De Club](https://open.spotify.com/track/0Fu1u02G2t0zx57nznFwC8) | [2mochh](https://open.spotify.com/artist/0Rco3YiEW2pB9JGHeVhLJk), [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq), [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa) | [Midden In De Club](https://open.spotify.com/album/7hVIIRKPPaeSXY0d6qe8RW) | 3:51 | 2023-02-27 |  |
+| [Midden In De Club](https://open.spotify.com/track/0Fu1u02G2t0zx57nznFwC8) | [2mochh](https://open.spotify.com/artist/0Rco3YiEW2pB9JGHeVhLJk), [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq), [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa) | [Midden In De Club](https://open.spotify.com/album/7hVIIRKPPaeSXY0d6qe8RW) | 3:51 | 2023-02-27 | 2023-04-16 |
 | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx) | 3:06 | 2023-03-13 | 2023-04-12 |
 | [MON LOVE OHO](https://open.spotify.com/track/6PkKOTfky37pdi6e0nJcm4) | [Liamsi](https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw) | [MON LOVE OHO](https://open.spotify.com/album/3Kw0SPNrjAZ9fL1TtfsnL9) | 2:19 | 2023-04-14 |  |
 | [Never Felt So Alone](https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Never Felt So Alone](https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX) | 2:40 | 2023-04-12 |  |

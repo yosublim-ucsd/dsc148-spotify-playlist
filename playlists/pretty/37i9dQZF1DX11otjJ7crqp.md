@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: David Kushner
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,360 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,437 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,10 +51,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 41 | [Boundaries](https://open.spotify.com/track/2XL4IMXC0WnT07LkrnVulK) | [Laura Marano](https://open.spotify.com/artist/21mgsWjJ4TmBxsUKexjJPT) | [Boundaries](https://open.spotify.com/album/6nHVtu2eSs7X4A5O5X2cAp) | 2:49 |
 | 42 | [Part of You](https://open.spotify.com/track/0teEiAGyAfnOiZ2KwbvZYZ) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Part of You](https://open.spotify.com/album/6k18d9mKQDsliMMeQoM0Rc) | 2:52 |
 | 43 | [Out Of Reach](https://open.spotify.com/track/5nXCKYd6lt9gO7AhZPv6Wh) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Out Of Reach](https://open.spotify.com/album/3qEUVlXwc4OZyyRolK3zOG) | 2:44 |
-| 44 | [Don't Leave](https://open.spotify.com/track/3Uuobd2VLUX9E1ugsQv4wj) | [Josh Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda), [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [Don't Leave](https://open.spotify.com/album/1qWusCEgXBfPcOBtEGoQhT) | 3:02 |
+| 44 | [Don't Leave](https://open.spotify.com/track/3Uuobd2VLUX9E1ugsQv4wj) | [Josh Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [Don't Leave](https://open.spotify.com/album/1qWusCEgXBfPcOBtEGoQhT) | 3:02 |
 | 45 | [Ego](https://open.spotify.com/track/3yRHgip6pI2MQRUgGnBxVj) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Ego](https://open.spotify.com/album/03FC9kUAxdKNXIdDJBNiaf) | 2:52 |
 | 46 | [Loving You](https://open.spotify.com/track/5m5THqRa6jHwKYLMWp2DEW) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Loving You](https://open.spotify.com/album/3SiKtT1GsVNunfic2eXkzx) | 3:14 |
-| 47 | [Do U Want Me Baby? \(feat\. Elphi\)](https://open.spotify.com/track/392tWI7KlzCkP2bmAOOqzS) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82), [Elphi](https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY) | [Do U Want Me Baby? \(feat\. Elphi\)](https://open.spotify.com/album/2okBYRPFzRqd6Ex5M5F34Y) | 2:22 |
+| 47 | [Do U Want Me Baby? \(feat\. Elphi\)](https://open.spotify.com/track/392tWI7KlzCkP2bmAOOqzS) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82), [Elphi](https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY) | [Do U Want Me Baby? \(feat\. Elphi\)](https://open.spotify.com/album/2okBYRPFzRqd6Ex5M5F34Y) | 2:23 |
 | 48 | [Que Dolor](https://open.spotify.com/track/3MaJDRWkvX2SxNF1v8DoUR) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Just Dance \#DQH2](https://open.spotify.com/album/5a4impdkoCNcyhc42qervc) | 2:24 |
 | 49 | [Older ft Jimmie Allen & Dixie D'Amelio](https://open.spotify.com/track/4ofGcbHRWhIsrYJswteQkU) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Dixie](https://open.spotify.com/artist/3DKkhRCGOG4e8IUPYFPfWs) | [Older ft Jimmie Allen & Dixie D'Amelio](https://open.spotify.com/album/0ulArbgB8WgKtxbuBtKDYO) | 2:59 |
 | 50 | [your clothes](https://open.spotify.com/track/5yRnm8Kfu6l20QyIdSyfrv) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [your clothes](https://open.spotify.com/album/0VDEPoASuTiBaYMjvZwmm0) | 1:55 |

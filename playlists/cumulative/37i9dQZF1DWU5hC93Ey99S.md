@@ -4,7 +4,7 @@
 
 > "What in the stutter/rainy/tremolo house list did I just create??"
 
-50 songs - 2 hr 47 min
+52 songs - 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Her](https://open.spotify.com/track/2EMLyx9QTYPDa9GNCxhAqz) | [Montee](https://open.spotify.com/artist/2rgFqpsqtoEJGOr0JzFxtG) | [Her](https://open.spotify.com/album/5tLg7FOM4rHctSrbPMun95) | 3:31 | 2023-04-13 |  |
 | [Hold Me](https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Hold Me](https://open.spotify.com/album/7osmi3cnYDpPDYflMWa80W) | 2:20 | 2023-04-13 |  |
 | [HOLD YOU](https://open.spotify.com/track/5YOcEEKHgs1IgqudZ5vx8Q) | [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr) | [HOLD YOU](https://open.spotify.com/album/5KgTqGLDlJo6kL67PMbRdi) | 2:54 | 2023-04-13 |  |
-| [Hollow](https://open.spotify.com/track/1mNxu2fyZJ8eND2WzddSIg) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Hollow](https://open.spotify.com/album/1zbkU3kuZLIZ0c4kYypI56) | 4:36 | 2023-04-13 |  |
+| [Hollow](https://open.spotify.com/track/1mNxu2fyZJ8eND2WzddSIg) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Hollow](https://open.spotify.com/album/1zbkU3kuZLIZ0c4kYypI56) | 4:36 | 2023-04-13 | 2023-04-16 |
 | [I See Colors](https://open.spotify.com/track/6CfcDeHk4tzSmkd97HRvM3) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY) | [I See Colors](https://open.spotify.com/album/5uiaLZEuY2dKO91P5aFAoh) | 3:12 | 2023-04-13 |  |
 | [I Will](https://open.spotify.com/track/43z2fGPJgfnhOI8w6vofIa) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [I Will / Beloved](https://open.spotify.com/album/6fMuOTyOG2V1gOA9qFo7d8) | 5:08 | 2023-04-13 |  |
 | [Insomnia](https://open.spotify.com/track/3GE9ogfnPuuc2YkdCHsqHF) | [RudeLies](https://open.spotify.com/artist/7hf6L4LN1RTVN66IdBVpPr) | [Insomnia](https://open.spotify.com/album/6WYfJKnEghNhELzi7bhenR) | 3:06 | 2023-04-13 |  |
@@ -40,11 +40,13 @@
 | [Need You](https://open.spotify.com/track/5HWybXhMxw8W8t0sUPysxf) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Need You](https://open.spotify.com/album/3yVl1zSI4SBQGVIpUEcDKF) | 3:34 | 2023-04-13 |  |
 | [No Nein](https://open.spotify.com/track/4qeIlzP0Z1JFXh0AckDcX8) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [Mietze Conte](https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN) | [No Nein](https://open.spotify.com/album/5vmCLooZQ8zXFbabT1nvxP) | 2:31 | 2023-04-13 |  |
 | [No Sympathy](https://open.spotify.com/track/4wySt0Tw3gCiybsPeXScGA) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [No Sympathy](https://open.spotify.com/album/48140dThJ2fdFQpcvO0x5B) | 4:18 | 2023-04-13 |  |
+| [Nothing Is Easy](https://open.spotify.com/track/5iKzJujKsuWtQcZ1JqrRIH) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Nothing Is Easy EP](https://open.spotify.com/album/4nm8MRARxw1YRlVX8m2BBW) | 3:11 | 2023-04-13 |  |
 | [Paperplanes](https://open.spotify.com/track/3JWKhPP6muh6tjR8b7PDOb) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Paperplanes](https://open.spotify.com/album/2trMonrsiuBQX7tE9ZiA6V) | 3:30 | 2023-04-13 |  |
 | [Pearls \- SILK Remix](https://open.spotify.com/track/3COoBjp98dAjysxl5ksTsV) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc), [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Pearls \(SILK Remix\)](https://open.spotify.com/album/3yo2oAvILNLiOcmswEzYfr) | 4:06 | 2023-04-13 |  |
 | [Quiver](https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Quiver](https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO) | 3:01 | 2023-04-13 |  |
 | [Radio \- SILK Remix](https://open.spotify.com/track/2XnnsbJsLJpE6Kt7IMLRn4) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Radio \(SILK Remix\)](https://open.spotify.com/album/1ccpjciLT1hr63qZpj9ZPA) | 3:02 | 2023-04-13 |  |
 | [Rosa](https://open.spotify.com/track/6K3TfsDV3CPDnVmsv1dkqb) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8) | [Rosa](https://open.spotify.com/album/01f7LtCEJXug2iAI1wkmTf) | 3:52 | 2023-04-13 |  |
+| [Say It To Me](https://open.spotify.com/track/7t7ozrjWAqQPyvBZPoVbdQ) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8) | [Say It To Me](https://open.spotify.com/album/5Hmf5zuiJv54jvkureLeiW) | 4:02 | 2023-04-13 |  |
 | [See You](https://open.spotify.com/track/5xHFQvcmStd8e53BgXChlD) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [See You / Feel So Lonely](https://open.spotify.com/album/2zovU4jSBL8HL0SM0SnF5q) | 4:43 | 2023-04-13 |  |
 | [So Long](https://open.spotify.com/track/0PFqyFI62E0nTjIcBdhHPD) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Origami Human](https://open.spotify.com/artist/6vOoZCnNiawjGeViOSoY1t) | [There's Another Life 4 U / So Long](https://open.spotify.com/album/5VwbMyHjQ1hPcIHnEEvTKa) | 3:47 | 2023-04-13 |  |
 | [Something Stronger](https://open.spotify.com/track/1VhD0FPDYqFhqRJVguVAJe) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA), [SHYA](https://open.spotify.com/artist/3bUHVz55uXLTtxggKQyXIO), [Coldabank](https://open.spotify.com/artist/3JOvRLynmP4mA6dvlWARoA) | [Something Stronger](https://open.spotify.com/album/6jjwM9Sheset9qyHMMA4PB) | 2:07 | 2023-04-13 |  |
@@ -55,7 +57,7 @@
 | [WASTED ON ME](https://open.spotify.com/track/6tXebnSmy1ZEZANFRHRoCO) | [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr) | [WASTED ON ME](https://open.spotify.com/album/5e08LQuzV5wcQlCcp9rs2g) | 3:02 | 2023-04-13 |  |
 | [Wasted On You](https://open.spotify.com/track/3HSf2e7s5Q9WQO16biu4U4) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Little Love](https://open.spotify.com/album/793CKt4Qo8QvaOx2uWkhst) | 4:23 | 2023-04-13 |  |
 | [We Don't Ever Stop](https://open.spotify.com/track/7tzsbAE9Md4tr8MAbK4h5i) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [We Don’t Ever Stop](https://open.spotify.com/album/0ZrhY3h9Flf23MIl5udSTV) | 2:40 | 2023-04-13 |  |
-| [What If](https://open.spotify.com/track/3vseyNLwyEmY8iRs1Jji4N) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [What If](https://open.spotify.com/album/3exQ4HL1e66YnZGd2bYNgz) | 3:25 | 2023-04-13 |  |
+| [What If](https://open.spotify.com/track/3vseyNLwyEmY8iRs1Jji4N) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [What If](https://open.spotify.com/album/3exQ4HL1e66YnZGd2bYNgz) | 3:25 | 2023-04-13 | 2023-04-16 |
 | [what we had was real](https://open.spotify.com/track/7lPVC3ppoIixU2PH2KcvTK) | [Rommii](https://open.spotify.com/artist/2ptklB4QBKqyRZNAkAEq8U) | [what we had was real](https://open.spotify.com/album/0mAxfupLpuSvfiHeaerkBV) | 2:16 | 2023-04-13 |  |
 | [What You Do To Me](https://open.spotify.com/track/74Sk5cVfVNhfKY9S7hDqrp) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [Adam Woods](https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc) | [What You Do To Me](https://open.spotify.com/album/35Mc0p9KECg2XVfy1287pR) | 2:34 | 2023-04-13 |  |
 

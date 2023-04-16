@@ -306,7 +306,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 180480,
       "name": "Amarte Es Mi Destino",
       "url": "https://open.spotify.com/track/6gD4EQvtmbM7zGTPnKIFw5"
@@ -448,6 +448,28 @@
       "duration_ms": 184106,
       "name": "Ando Enfocado",
       "url": "https://open.spotify.com/track/1Gm2qMRuxnuqnM62xyp89d"
+    },
+    {
+      "album": {
+        "name": "Anillos",
+        "url": "https://open.spotify.com/album/4j3kQLs29ZZVxu2x3wkbYa"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203861,
+      "name": "Anillos",
+      "url": "https://open.spotify.com/track/2wtCxhHu42n7jKJy2erTgX"
     },
     {
       "album": {
@@ -1432,7 +1454,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 202341,
       "name": "El Compa Foo - En Vivo",
       "url": "https://open.spotify.com/track/3lOST2vPOoSEetbVkcyxtN"
@@ -1773,6 +1795,36 @@
     },
     {
       "album": {
+        "name": "El Rayo (En Vivo)",
+        "url": "https://open.spotify.com/album/5UGAr42pCKgHawjD7ouV5y"
+      },
+      "artists": [
+        {
+          "name": "Asael gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/3DyEm50kp38Gjzqi1Lbbk7"
+        },
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        },
+        {
+          "name": "Angel Cervantes",
+          "url": "https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ"
+        },
+        {
+          "name": "Daniel Vazquez",
+          "url": "https://open.spotify.com/artist/4kh6gKONPBfkCCd818b1PS"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226750,
+      "name": "El Rayo - En Vivo",
+      "url": "https://open.spotify.com/track/1dYqyMhfDHqM7bg86LaBuP"
+    },
+    {
+      "album": {
         "name": "El Rescate",
         "url": "https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP"
       },
@@ -1828,6 +1880,32 @@
       "duration_ms": 183594,
       "name": "El Ruddy",
       "url": "https://open.spotify.com/track/0vNtFN67TIMgDokyyuUUwA"
+    },
+    {
+      "album": {
+        "name": "El Sello Adixion",
+        "url": "https://open.spotify.com/album/7pm9F84ZnvCQBEckBhniF6"
+      },
+      "artists": [
+        {
+          "name": "Proximo Nivel",
+          "url": "https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94"
+        },
+        {
+          "name": "Equipo Reforzado",
+          "url": "https://open.spotify.com/artist/79l11SbRoVI27ZHUMZ05Ru"
+        },
+        {
+          "name": "Inoboiz",
+          "url": "https://open.spotify.com/artist/72kfJ36enf8Xj9fHmxWvVJ"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176720,
+      "name": "El Sello Adixion",
+      "url": "https://open.spotify.com/track/2v6sGn3VKqssfoKQmhvwf7"
     },
     {
       "album": {
@@ -1958,7 +2036,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 172645,
       "name": "En Cada Trago",
       "url": "https://open.spotify.com/track/6ChBOorT76CVNHjorW0mQC"

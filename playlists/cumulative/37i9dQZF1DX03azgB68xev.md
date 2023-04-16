@@ -4,7 +4,7 @@
 
 > Your music\. Your faith\. Your life\. This is Pop for life!  Cover artist: Blessing Offor
 
-339 songs - 18 hr 58 min
+340 songs - 19 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [As I Am \(with Peter CottonTale\)](https://open.spotify.com/track/0mLk4AuHy7DTkoChwaYRJc) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ), [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi) | [As I Am \(with Peter CottonTale\)](https://open.spotify.com/album/3IQk6AePmEyQgpDBdAnSV4) | 3:25 | 2021-10-31 | 2022-07-29 |
 | [As I Am \(with Peter CottonTale\)](https://open.spotify.com/track/4EA2CUAxX2ct3S9xAKE23E) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ), [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi) | [As I Am \(with Peter CottonTale\)](https://open.spotify.com/album/56h2pki7aSbNXVXPSxhqSk) | 3:25 | 2021-10-31 | 2023-01-14 |
 | [Awe!](https://open.spotify.com/track/0kVBFAOf4DqT3zFTNfGdF4) | [Anna Beaden](https://open.spotify.com/artist/2SbluIo4IZVxJvEHnQR8r6) | [Awe!](https://open.spotify.com/album/33lg7H8wGe368kafecZ3hk) | 3:58 | 2021-10-31 | 2022-07-27 |
-| [BANG! BANG!](https://open.spotify.com/track/6vk8gF6WJJTQ4lmdfqRFXr) | [Edgar Sandoval Jr](https://open.spotify.com/artist/1Q8pPoJYMxI69UkONXODr4) | [BANG! BANG!](https://open.spotify.com/album/1TsUCH8sjDmB5XVgOsMb6W) | 2:38 | 2023-01-13 |  |
+| [BANG! BANG!](https://open.spotify.com/track/6vk8gF6WJJTQ4lmdfqRFXr) | [Edgar Sandoval Jr](https://open.spotify.com/artist/1Q8pPoJYMxI69UkONXODr4) | [BANG! BANG!](https://open.spotify.com/album/1TsUCH8sjDmB5XVgOsMb6W) | 2:38 | 2023-01-13 | 2023-04-16 |
 | [Battle Cry](https://open.spotify.com/track/6blYxHNuDNBvT3vtvKUA1B) | [The Two Fake Blondes](https://open.spotify.com/artist/4Cie0MuOPLFZCYJFgf8aYi) | [Out of the Darkness](https://open.spotify.com/album/5cRBn6W2LfmGFjVQIVzuQ1) | 2:56 | 2021-10-31 | 2022-07-27 |
 | [Be Alright \- Remix](https://open.spotify.com/track/1Uj2EIkCWdfe6XMOscRqBr) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [Be Alright \(Remix\)](https://open.spotify.com/album/5CZSvhDtNjRA7kU0FFHxY7) | 3:42 | 2023-01-13 |  |
 | [Belong](https://open.spotify.com/track/2LCjZzth94744Ki2vR4scR) | [Rachael Nemiroff](https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t) | [Belong](https://open.spotify.com/album/23UWXk1FORanft5u9boft9) | 3:48 | 2021-10-31 | 2022-07-01 |
@@ -158,6 +158,7 @@
 | [I'm Yours](https://open.spotify.com/track/0wiYzdVeuQkcfjHArN43Em) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Come Home](https://open.spotify.com/album/0RepEC2kqOu4cHOLfxEmiz) | 3:19 | 2021-10-31 | 2022-06-04 |
 | [Influencer](https://open.spotify.com/track/26pznrAZY7d4elD4rDbo1c) | [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Entre Nubes](https://open.spotify.com/album/33365bfVKn4qAztySXLsBm) | 3:25 | 2021-10-31 | 2023-01-07 |
 | [Interruption](https://open.spotify.com/track/6XAPzvnQkz6gYMQgFW4gKl) | [David Dunn](https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v) | [Interruption](https://open.spotify.com/album/10hJ5eiHPbr1Hk7PsbT8Pv) | 3:15 | 2021-10-31 | 2022-07-24 |
+| [Invited](https://open.spotify.com/track/4LHJUZCjDrjI7mQEbM48r3) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Better View, Part II](https://open.spotify.com/album/6VJwdT4jWHtnhCtC7tzMNy) | 3:04 | 2023-01-13 |  |
 | [It's About Time](https://open.spotify.com/track/0aB914urPdqO2CNCMn5X8i) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op) | [It's About Time](https://open.spotify.com/album/6YF6LnMttUrjDv1COLZahy) | 2:54 | 2023-01-13 |  |
 | [It's Gonna Get Better](https://open.spotify.com/track/4xq5lrkKBwpT8QB0iiBjSp) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [It's Gonna Get Better](https://open.spotify.com/album/6ZXqQXiHmTfQQIC1MOC9lI) | 3:36 | 2021-10-31 | 2023-01-14 |
 | [IWKY](https://open.spotify.com/track/1bGKjyrC5SKldCSLFp5AsJ) | [We Are Leo](https://open.spotify.com/artist/2oyWcvOgCXHnYgJ5L0GZQu), [Elizabeth Grace](https://open.spotify.com/artist/2t0oDEgacnqOQRFJqiTH8s) | [IWKY](https://open.spotify.com/album/0WMM3M7bSAV5RzMpHcd32Z) | 3:26 | 2021-10-31 | 2022-07-21 |

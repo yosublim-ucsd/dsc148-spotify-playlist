@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-311 songs - 15 hr 15 min
+313 songs - 15 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Apocalyptic](https://open.spotify.com/track/3E5Go2swucT0A6NmqOEChM) | [3LAU](https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5) | [Apocalyptic](https://open.spotify.com/album/6QupCtenijUBkVdEJx7dar) | 3:24 | 2021-10-29 | 2022-06-11 |
 | [Around You](https://open.spotify.com/track/5EGieT4siO2pu39978xZK5) | [Bougenvilla](https://open.spotify.com/artist/1I5pYXplsbqmHaVWlAEhla), [East Dawn](https://open.spotify.com/artist/5d1toYNLtZklQSSoh985P4) | [Around You](https://open.spotify.com/album/6kHveSyKGbIT7m6NJ2l1zA) | 2:18 | 2022-05-27 | 2022-06-01 |
 | [Back To Me](https://open.spotify.com/track/1MFmiir89nKDrfw8AjeNKu) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH), [ALRT](https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf) | [Back To Me](https://open.spotify.com/album/7rviCBw7v6m8Rf5LfirNnQ) | 2:46 | 2022-02-11 | 2022-07-13 |
-| [Backseat](https://open.spotify.com/track/7nMNn3PJJMjhipGwFedAm3) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Backseat Tape](https://open.spotify.com/album/3vjULlZhcatjZgSREPs3V1) | 2:49 | 2023-01-06 |  |
+| [Backseat](https://open.spotify.com/track/7nMNn3PJJMjhipGwFedAm3) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Backseat Tape](https://open.spotify.com/album/3vjULlZhcatjZgSREPs3V1) | 2:49 | 2023-01-06 | 2023-04-16 |
+| [Backseat](https://open.spotify.com/track/1TeG6xwHJG8Y6fiw7PebSl) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Backseat Tape](https://open.spotify.com/album/3kukhQjrtZcMNL43oLBedf) | 2:49 | 2023-04-07 |  |
 | [Bad Bees \(feat\. Harrison First\)](https://open.spotify.com/track/2GvYPnGRiF9MdJSSeS30tY) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [Harrison First](https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo) | [Bad Bees \(feat\. Harrison First\)](https://open.spotify.com/album/5dVTLuCWaBvkTR6taXAZAn) | 2:59 | 2021-10-29 | 2022-08-06 |
 | [Baila Conmigo](https://open.spotify.com/track/3KruoUtSkm84Az0bJunnxl) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Baila Conmigo](https://open.spotify.com/album/00RgZ3hZH9WpvBksu2hx5G) | 2:26 | 2022-07-29 |  |
 | [Ballin'](https://open.spotify.com/track/2zQrWqYGj80hWmy5wnQOFU) | [Michael Sparks](https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87) | [Make Trouble](https://open.spotify.com/album/0IjR74eRECSECvRuqaeNlT) | 3:30 | 2022-12-02 |  |
@@ -229,6 +230,7 @@
 | [Off Of My Mind](https://open.spotify.com/track/1HHnQYqcnlnE9q7LGFFGFj) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Off Of My Mind](https://open.spotify.com/album/1CAAuVihGJthVufDRUjsQ5) | 2:44 | 2021-11-30 |  |
 | [Oh La La \(feat\. Mougleta\)](https://open.spotify.com/track/46Dxwh73hkHgPg2NCTCzmt) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Oh La La \(feat\. Mougleta\)](https://open.spotify.com/album/3nt62cBy34uUk2SlkOyvSg) | 2:30 | 2021-10-29 | 2022-08-06 |
 | [Oh Lord](https://open.spotify.com/track/1Ti5Px7jctKkMuXbx4kTdA) | [Toby Romeo](https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey), [Deve](https://open.spotify.com/artist/3xP2q5RQ3YnQIWofwQyXqo) | [Oh Lord](https://open.spotify.com/album/6mUQJM02hQgWKI9HN5OBlC) | 2:38 | 2021-10-29 | 2022-08-27 |
+| [Other Side](https://open.spotify.com/track/00AM1H8UVnoPi3fOYvu5Nv) | [Rnbstylerz](https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg) | [Other Side](https://open.spotify.com/album/5NCLNQpMVsuEWQV5MlBefi) | 2:51 | 2023-04-07 |  |
 | [Outer Space](https://open.spotify.com/track/4BSpzPw0jNM5YdfE6rbFi9) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [Roderick Porter](https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy) | [Outer Space](https://open.spotify.com/album/3MIrhsxTtEXfqgzRkvU5DY) | 3:12 | 2022-11-11 |  |
 | [Paradise](https://open.spotify.com/track/3KcUTtzg9W5Hse7RknCSZr) | [DJ Shaan](https://open.spotify.com/artist/274JojhV4zGJX0Z6WPgg5x), [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Paradise](https://open.spotify.com/album/4Vl5A4SFNnw6BCjTWfWSQf) | 2:53 | 2021-10-29 | 2022-06-11 |
 | [Play By My Rules](https://open.spotify.com/track/01xowIJrmShI6X9Q1WXqAd) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Play By My Rules](https://open.spotify.com/album/1FBavf0FlcPMSm1OaByO2p) | 3:37 | 2022-01-28 | 2022-08-27 |
@@ -243,7 +245,7 @@
 | [Pumpin](https://open.spotify.com/track/78iKUQrxkSwliAQmagMw0b) | [The Scene Kings](https://open.spotify.com/artist/0GoV0gxK6girSkzcHf9bh5) | [Pumpin](https://open.spotify.com/album/0a7WXJslUYgA9WqaerIrcs) | 2:41 | 2022-02-11 | 2022-06-11 |
 | [Purification](https://open.spotify.com/track/0U9m269ExQq7LmZc6MTzee) | [SWACQ](https://open.spotify.com/artist/45UHclgIcRavRoRa2MET5i) | [Purification](https://open.spotify.com/album/62cXo5O7kZz7l0r9RP8lDw) | 2:58 | 2021-10-29 | 2022-07-29 |
 | [Push And Pull](https://open.spotify.com/track/5wJ7NwX3rC57OWT7A07iv0) | [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz) | [Push And Pull](https://open.spotify.com/album/7E4ybWrTiPodPGPd0KrQNg) | 2:18 | 2021-10-29 |  |
-| [Rave Shake](https://open.spotify.com/track/6vJrnybmqS082z1aWP5Gyk) | [Stafford Brothers](https://open.spotify.com/artist/1dnbud9cuozLQ86MtrDPFr) | [Rave Shake](https://open.spotify.com/album/5QPR7iKTyHlRQVKFO5gP7b) | 2:04 | 2023-03-10 |  |
+| [Rave Shake](https://open.spotify.com/track/6vJrnybmqS082z1aWP5Gyk) | [Stafford Brothers](https://open.spotify.com/artist/1dnbud9cuozLQ86MtrDPFr) | [Rave Shake](https://open.spotify.com/album/5QPR7iKTyHlRQVKFO5gP7b) | 2:04 | 2023-03-10 | 2023-04-16 |
 | [Ready or Not](https://open.spotify.com/track/4c0bQ6itmzAJ4DYlIdCmpm) | [Lika Morgan](https://open.spotify.com/artist/61StZOWgYff2AxDUejw4UI) | [Ready or Not](https://open.spotify.com/album/1GN99bcJIUkMUu1CwtGCuJ) | 3:08 | 2021-10-29 | 2022-07-21 |
 | [Red Handed](https://open.spotify.com/track/3L5vu7DBK62Nr3UIREIEJE) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Thutmose](https://open.spotify.com/artist/1igl9M102nuD96lo3ZoW5d) | [Red Handed](https://open.spotify.com/album/6wbcvjFi81H1FRQXUZDygg) | 2:51 | 2021-10-29 | 2022-08-06 |
 | [Release Me \(feat\. Kalhaader\)](https://open.spotify.com/track/4t0HhIaWIhumL2MAuKwqOM) | [Twelve](https://open.spotify.com/artist/5WwVhFK3J7CWQn30hZ8GPb), [Kalhaader](https://open.spotify.com/artist/29fzchb8sL2UW451BQWmek) | [Release Me \(feat\. Kalhaader\)](https://open.spotify.com/album/4hnw0b8xByrv1IuLHmzcDE) | 2:26 | 2022-04-01 | 2022-08-06 |

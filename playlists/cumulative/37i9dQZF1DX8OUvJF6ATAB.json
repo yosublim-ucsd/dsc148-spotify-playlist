@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 141500,
       "name": "1st Day",
       "url": "https://open.spotify.com/track/1zbAxqx1OfY6Avcp7s1wJb"
@@ -1967,6 +1967,24 @@
     },
     {
       "album": {
+        "name": "Ground Groove",
+        "url": "https://open.spotify.com/album/3pZfevjbuheybZyPZ7HKsC"
+      },
+      "artists": [
+        {
+          "name": "Maral",
+          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126030,
+      "name": "Heart Shimmer",
+      "url": "https://open.spotify.com/track/0korTrBcMfDBA3Fv795g0B"
+    },
+    {
+      "album": {
         "name": "History of Us (Lost fx Rework)",
         "url": "https://open.spotify.com/album/1hIssstWtFdijWGvrZNOQh"
       },
@@ -3448,7 +3466,7 @@
           "url": "https://open.spotify.com/artist/35zT3zevS4o8FiFCu1ug0r"
         }
       ],
-      "date_added": "2023-02-16",
+      "date_added": "2023-02-15",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 379573,

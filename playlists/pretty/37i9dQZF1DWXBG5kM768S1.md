@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 
 > De beste norske låtene fra noen av våre aller beste artister.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,856 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,869 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 37 | [De Nære Ting](https://open.spotify.com/track/0k9J6f4A22q8JXqU8atMuz) | [Ingrid Olava](https://open.spotify.com/artist/31QXbjGMTpXUWhhAFtIkmQ) | [De Nære Ting](https://open.spotify.com/album/1AGrD04xDQrvxRamd8m9ih) | 2:18 |
 | 38 | [Hva kjærlighet er](https://open.spotify.com/track/5V6QuMxE9efXTyUQYZWy38) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Duell](https://open.spotify.com/album/14wYWC5D0e7HuJI9oDjsuF) | 4:14 |
 | 39 | [Vi Vandrar Saman \(Eg Følgjer Der Du Går\)](https://open.spotify.com/track/5b1AEdCpaCSNO8Z3i3SlFV) | [Olav Stedje](https://open.spotify.com/artist/4SM0aaZA4Gky48PLIlqFPA) | [Ta Meg Med](https://open.spotify.com/album/3pWcFE43bLCUJhpuziIvHP) | 3:14 |
-| 40 | [Til deg \- Single Version](https://open.spotify.com/track/7bD91vOzk9L2gKMSkdSQy7) | [Marthe Wang](https://open.spotify.com/artist/1C5w8BJZv0qoTGCFiVlfyZ) | [Til deg \(Single Version\)](https://open.spotify.com/album/1dZ6qeWJTDkOPO3ZECRvd2) | 3:43 |
-| 41 | [Trøstevise \(Tröstevisa\)](https://open.spotify.com/track/05MxJsc8F0G2u3IIz6g0b2) | [Finn Kalvik](https://open.spotify.com/artist/4t5H7BynY6Et5nbYwjU3an), [Cajsa Stina Åkerström](https://open.spotify.com/artist/0N98N0DiskOexjlZjJ6YZ7) | [Imellom to Evigheter](https://open.spotify.com/album/2INOoVCEg8h4xWkSyuYzya) | 4:14 |
-| 42 | [Jeg Vet](https://open.spotify.com/track/3ZTHN0y3NwiciPH3CpfXcL) | [Siri Nilsen](https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM) | [Alle Snakker Sant](https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3) | 3:43 |
+| 40 | [Jeg Vet](https://open.spotify.com/track/3ZTHN0y3NwiciPH3CpfXcL) | [Siri Nilsen](https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM) | [Alle Snakker Sant](https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3) | 3:43 |
+| 41 | [Til deg \- Single Version](https://open.spotify.com/track/7bD91vOzk9L2gKMSkdSQy7) | [Marthe Wang](https://open.spotify.com/artist/1C5w8BJZv0qoTGCFiVlfyZ) | [Til deg \(Single Version\)](https://open.spotify.com/album/1dZ6qeWJTDkOPO3ZECRvd2) | 3:43 |
+| 42 | [Trøstevise \(Tröstevisa\)](https://open.spotify.com/track/05MxJsc8F0G2u3IIz6g0b2) | [Finn Kalvik](https://open.spotify.com/artist/4t5H7BynY6Et5nbYwjU3an), [Cajsa Stina Åkerström](https://open.spotify.com/artist/0N98N0DiskOexjlZjJ6YZ7) | [Imellom to Evigheter](https://open.spotify.com/album/2INOoVCEg8h4xWkSyuYzya) | 4:14 |
 | 43 | [Det jeg vil ha \(fra deg\)](https://open.spotify.com/track/7FzPmvCXC8CqwP9AkIkPA9) | [Frida Ånnevik](https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2) | [Det jeg vil ha \(fra deg\)](https://open.spotify.com/album/0oRXCrnDAsKWQg6XoOvf0i) | 3:23 |
 | 44 | [Heile Livet](https://open.spotify.com/track/0JqKsXLWxANEsih1Vsszgr) | [Terje Tysland](https://open.spotify.com/artist/3DiSZJGP4rtIXmqpRlFca7) | [Gutta På By\`n](https://open.spotify.com/album/45mwIOTPBgzMo0UW5EXrZF) | 5:50 |
 | 45 | [Pusterom](https://open.spotify.com/track/1pa2qaCSAloisRVL8YSMUT) | [Marie Klåpbakken](https://open.spotify.com/artist/2qHlT3DfJoJNI4I8IzQmky), [vinni](https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t) | [Pusterom](https://open.spotify.com/album/1bCimO52g5O7Ahqp9fVO6d) | 3:06 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 47 | [Du fortenar ein som meg \- klineversjon](https://open.spotify.com/track/1v4hTCaKOr5qVothIsL9er) | [Daniel Kvammen](https://open.spotify.com/artist/1c9LVBvYq58ViD8qdLml7A) | [1988 EP](https://open.spotify.com/album/74LpfW8LrYQp2PNRHfjgaU) | 4:17 |
 | 48 | [Sommerfuggel I Vinterland](https://open.spotify.com/track/6TYTKJKCLhMely2cdBRorF) | [Halvdan Sivertsen](https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY) | [Hilsen Halvdan](https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy) | 4:18 |
 | 49 | [Bror](https://open.spotify.com/track/1585fzVgMIK5BzPXA5a2iS) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C) | [Hjarteskjell](https://open.spotify.com/album/5LrKrBAJdrfrqdv6kFnugC) | 3:15 |
-| 50 | [En Spennende Dag for Josefine](https://open.spotify.com/track/6TOeA3fUURRV9hbRd2dpXa) | [Inger Lise Rypdal](https://open.spotify.com/artist/1lvXjNoyEprcUc0Cb2N0QH) | [Fra 4 Til 70](https://open.spotify.com/album/1HtbTHXEUz2MSQg4cCWQtP) | 3:42 |
+| 50 | [Alle Snakker Sant](https://open.spotify.com/track/34gxnmqg4Nbzziv265qul7) | [Siri Nilsen](https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM) | [Alle Snakker Sant](https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3) | 2:48 |
 
-Snapshot ID: `MTY4MTQyMzI2MCwwMDAwMDAwMDQ3ZDE0MmYwZDIzNTMxOTE4YTk5MDlkODdiNWY2YmJk`
+Snapshot ID: `MTY4MTQyMzI2MCwwMDAwMDAwMDI5OWYzMzcyYzQyZmJjMTNmNjU1MTU4NTdjYWM4YjE4`

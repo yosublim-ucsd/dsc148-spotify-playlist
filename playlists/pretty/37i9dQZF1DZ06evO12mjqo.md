@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12mjqo.md) - [plain]
 
 > This is Ghost\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,069 likes - 45 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,358 likes - 44 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,11 +20,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12mjqo.md) - [plain]
 | 10 | [Life Eternal](https://open.spotify.com/track/5fXQmRFO1CDN04HtUVNCUh) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV) | 3:27 |
 | 11 | [Ritual](https://open.spotify.com/track/5ZiTzbMB53mIiP3I4uQCmt) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Opus Eponymous](https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U) | 4:28 |
 | 12 | [Darkness At The Heart Of My Love](https://open.spotify.com/track/6vXceKic4ACImU0bC3oecd) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [IMPERA](https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h) | 4:58 |
-| 13 | [Crucified](https://open.spotify.com/track/0PSWSiRXsxsLAEdEhaJAId) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [If You Have Ghost](https://open.spotify.com/album/08U01AsCXhbP7QdC7GABYw) | 5:13 |
+| 13 | [If You Have Ghosts](https://open.spotify.com/track/1sNSlzvQ5jPir46X5X1TeH) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [If You Have Ghost](https://open.spotify.com/album/08U01AsCXhbP7QdC7GABYw) | 3:34 |
 | 14 | [Rats](https://open.spotify.com/track/4u39IY2QjY1utpNCCF4is0) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm) | 4:21 |
 | 15 | [He Is](https://open.spotify.com/track/6NFKy0jg3S6x380iuF47jX) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora](https://open.spotify.com/album/7wcMxzlZFIxccoeiSix0O2) | 4:13 |
 | 16 | [Hunter’s Moon](https://open.spotify.com/track/2jfQ2g1q0w8tbjN46rLpr2) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [IMPERA](https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h) | 3:16 |
-| 17 | [If You Have Ghosts](https://open.spotify.com/track/1sNSlzvQ5jPir46X5X1TeH) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [If You Have Ghost](https://open.spotify.com/album/08U01AsCXhbP7QdC7GABYw) | 3:34 |
+| 17 | [Crucified](https://open.spotify.com/track/0PSWSiRXsxsLAEdEhaJAId) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [If You Have Ghost](https://open.spotify.com/album/08U01AsCXhbP7QdC7GABYw) | 5:13 |
 | 18 | [Witch Image](https://open.spotify.com/track/6UzcqQTZ1JhVkn8bPNmxr1) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm) | 3:30 |
 | 19 | [Infestissumam](https://open.spotify.com/track/7BwScOUaIcnABifoNlK9e9) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Infestissumam](https://open.spotify.com/album/32CbQps06lUasiux6N8tP3) | 1:42 |
 | 20 | [Griftwood](https://open.spotify.com/track/74gUN3LUQhqzfTLAP09ejk) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [IMPERA](https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h) | 5:16 |
@@ -51,7 +51,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12mjqo.md) - [plain]
 | 41 | [Deus In Absentia](https://open.spotify.com/track/5t8Qb2sDIgyj57pcrEjsCC) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora](https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX) | 5:37 |
 | 42 | [Prime Mover](https://open.spotify.com/track/13Tw9FDhXVN5brv974A46H) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Opus Eponymous](https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U) | 3:53 |
 | 43 | [I Believe](https://open.spotify.com/track/0quRJVHIYA7nqC3WFvFW3s) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Deluxe Edition\)](https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD) | 4:06 |
-| 44 | [Devil Church](https://open.spotify.com/track/2o2UpxEGdYpJqSAAmEgpRD) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Deluxe Edition\)](https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD) | 1:06 |
-| 45 | [Bible](https://open.spotify.com/track/5HCUDC7WkyGRYgS8fuI3Wt) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Deluxe Edition\)](https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD) | 6:34 |
+| 44 | [Bible](https://open.spotify.com/track/5HCUDC7WkyGRYgS8fuI3Wt) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Deluxe Edition\)](https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD) | 6:34 |
 
-Snapshot ID: `MjgwMjQ4NTIsMDAwMDAwMDA1ZDAwZjRkOWY5MjI2MDZhM2ZhZDU5MzJjZTNhNGIwYw==`
+Snapshot ID: `MjgwMjYwMzIsMDAwMDAwMDBlMGU0NDI1NmI1ZjE1ZWExZDljODRmNjE1MDg3NTU3ZA==`

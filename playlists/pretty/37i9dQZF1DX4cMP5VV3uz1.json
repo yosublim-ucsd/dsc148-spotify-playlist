@@ -1,12 +1,12 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 120444,
+  "num_followers": 120560,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQyNjgwMCwwMDAwMDAwMDA2YjBlYzUyZDBhNzBiMzk0OGI3ZjQxZTViMmQ2ZjI3",
+  "snapshot_id": "MTY4MTQyNjgwMCwwMDAwMDAwMGU4ZTBmNjQ5M2UzYTE2ZjAzZTE4ZDNjNWNmMTgwYmQ3",
   "tracks": [
     {
       "added_at": "2023-04-13 23:00:00",
@@ -479,22 +479,18 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Full Wack No Brakes",
-        "url": "https://open.spotify.com/album/52tuSUlxOAQWoRs6AOvCFm"
+        "name": "Hooked",
+        "url": "https://open.spotify.com/album/69QTaXErGkvPW9pQ0GYY4H"
       },
       "artists": [
         {
-          "name": "Bad Boy Chiller Crew",
-          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
-        },
-        {
-          "name": "S Dog",
-          "url": "https://open.spotify.com/artist/3TTfMQ8A4tpY8rrN1ZID38"
+          "name": "NOTION",
+          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
         }
       ],
-      "duration_ms": 197076,
-      "name": "450",
-      "url": "https://open.spotify.com/track/1F0ww25lOcWtwTsco1vYWM"
+      "duration_ms": 206250,
+      "name": "Hooked",
+      "url": "https://open.spotify.com/track/4v7kKFlEDmpVToHOICsXaM"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -519,18 +515,22 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Hooked",
-        "url": "https://open.spotify.com/album/69QTaXErGkvPW9pQ0GYY4H"
+        "name": "Full Wack No Brakes",
+        "url": "https://open.spotify.com/album/52tuSUlxOAQWoRs6AOvCFm"
       },
       "artists": [
         {
-          "name": "NOTION",
-          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
+          "name": "Bad Boy Chiller Crew",
+          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
+        },
+        {
+          "name": "S Dog",
+          "url": "https://open.spotify.com/artist/3TTfMQ8A4tpY8rrN1ZID38"
         }
       ],
-      "duration_ms": 206250,
-      "name": "Hooked",
-      "url": "https://open.spotify.com/track/4v7kKFlEDmpVToHOICsXaM"
+      "duration_ms": 197076,
+      "name": "450",
+      "url": "https://open.spotify.com/track/1F0ww25lOcWtwTsco1vYWM"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -607,26 +607,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "OUTSIDER",
-        "url": "https://open.spotify.com/album/0gAyGESgFfil520X4zmk1v"
-      },
-      "artists": [
-        {
-          "name": "NOTION",
-          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
-        },
-        {
-          "name": "Carrie Baxter",
-          "url": "https://open.spotify.com/artist/052GxJJYMQVVqXRsZfORK1"
-        }
-      ],
-      "duration_ms": 136615,
-      "name": "FOUND LOVE (feat. Carrie Baxter)",
-      "url": "https://open.spotify.com/track/5Ndsdhx3jKxjQmHw7QkHmi"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Balling (feat. Songer, Mr Traumatik, Devilman & OneDa) [Edit]",
         "url": "https://open.spotify.com/album/775Vio9oXjiTAbh7Ad15ay"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 266206,
       "name": "Balling (feat. Songer, Mr Traumatik, Devilman & OneDa) - Edit",
       "url": "https://open.spotify.com/track/2WObGIQXhjveq6yuXvf6VQ"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "OUTSIDER",
+        "url": "https://open.spotify.com/album/0gAyGESgFfil520X4zmk1v"
+      },
+      "artists": [
+        {
+          "name": "NOTION",
+          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
+        },
+        {
+          "name": "Carrie Baxter",
+          "url": "https://open.spotify.com/artist/052GxJJYMQVVqXRsZfORK1"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "FOUND LOVE (feat. Carrie Baxter)",
+      "url": "https://open.spotify.com/track/5Ndsdhx3jKxjQmHw7QkHmi"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Heartbroken 2022",
-        "url": "https://open.spotify.com/album/1YnYdZrfgtie2NvTsNUAIQ"
-      },
-      "artists": [
-        {
-          "name": "T2",
-          "url": "https://open.spotify.com/artist/4Q5MS10mWfrDyiXVeAAzVd"
-        },
-        {
-          "name": "ARPA",
-          "url": "https://open.spotify.com/artist/02oexF6HrOu87MXwCt46Jd"
-        }
-      ],
-      "duration_ms": 172371,
-      "name": "Heartbroken 2022",
-      "url": "https://open.spotify.com/track/2T5XgOcwxlEgFL3bnkKmgr"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Their Law The Singles 1990 - 2005",
         "url": "https://open.spotify.com/album/0aZZ90ZakcGFzFiBMKHrCy"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 307813,
       "name": "Voodoo People - Pendulum Mix",
       "url": "https://open.spotify.com/track/7C0PzxbsQx59DgGVRsquwJ"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Heartbroken 2022",
+        "url": "https://open.spotify.com/album/1YnYdZrfgtie2NvTsNUAIQ"
+      },
+      "artists": [
+        {
+          "name": "T2",
+          "url": "https://open.spotify.com/artist/4Q5MS10mWfrDyiXVeAAzVd"
+        },
+        {
+          "name": "ARPA",
+          "url": "https://open.spotify.com/artist/02oexF6HrOu87MXwCt46Jd"
+        }
+      ],
+      "duration_ms": 172371,
+      "name": "Heartbroken 2022",
+      "url": "https://open.spotify.com/track/2T5XgOcwxlEgFL3bnkKmgr"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1271,26 +1271,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Deep Blue",
-        "url": "https://open.spotify.com/album/5E1knAJbg7UI5FmSJXjUlF"
-      },
-      "artists": [
-        {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
-        },
-        {
-          "name": "Gracie Van Brunt",
-          "url": "https://open.spotify.com/artist/61ehajEjCepvX1LehNWtKt"
-        }
-      ],
-      "duration_ms": 215268,
-      "name": "Deep Blue",
-      "url": "https://open.spotify.com/track/2PHxnN5piS1PheqZ5KENrz"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Freak",
         "url": "https://open.spotify.com/album/3BFvqaxKz98EXPcznmqpND"
       },
@@ -1311,6 +1291,26 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
+        "name": "Deep Blue",
+        "url": "https://open.spotify.com/album/5E1knAJbg7UI5FmSJXjUlF"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        },
+        {
+          "name": "Gracie Van Brunt",
+          "url": "https://open.spotify.com/artist/61ehajEjCepvX1LehNWtKt"
+        }
+      ],
+      "duration_ms": 215268,
+      "name": "Deep Blue",
+      "url": "https://open.spotify.com/track/2PHxnN5piS1PheqZ5KENrz"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
         "name": "Sequence",
         "url": "https://open.spotify.com/album/16JF3pUHH5ltDPOztx5FMX"
       },
@@ -1323,6 +1323,26 @@
       "duration_ms": 209549,
       "name": "Renaissance (Edit)",
       "url": "https://open.spotify.com/track/1g4C1BrGd4O1Dt5y0xue96"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Shut It Down",
+        "url": "https://open.spotify.com/album/540Df5chb7iGHb1GSCYD8B"
+      },
+      "artists": [
+        {
+          "name": "Mollie Collins",
+          "url": "https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu"
+        },
+        {
+          "name": "Elipsa",
+          "url": "https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske"
+        }
+      ],
+      "duration_ms": 178604,
+      "name": "Shut It Down",
+      "url": "https://open.spotify.com/track/1KsTta93YQGtGid1W1x6ki"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1423,26 +1443,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Shut It Down",
-        "url": "https://open.spotify.com/album/540Df5chb7iGHb1GSCYD8B"
-      },
-      "artists": [
-        {
-          "name": "Mollie Collins",
-          "url": "https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu"
-        },
-        {
-          "name": "Elipsa",
-          "url": "https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske"
-        }
-      ],
-      "duration_ms": 178604,
-      "name": "Shut It Down",
-      "url": "https://open.spotify.com/track/1KsTta93YQGtGid1W1x6ki"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "SWAZZ",
         "url": "https://open.spotify.com/album/5bWev71fkloo3FzHYlrDRQ"
       },
@@ -1459,22 +1459,22 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Figure It Out",
-        "url": "https://open.spotify.com/album/1GbLtUextuxcVZbondHylL"
+        "name": "Ghost (feat. DJ Rae)",
+        "url": "https://open.spotify.com/album/0R7Q4f6wA3u1Zl50wdT3gH"
       },
       "artists": [
         {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+          "name": "Andy C",
+          "url": "https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N"
         },
         {
-          "name": "Anna Rickards",
-          "url": "https://open.spotify.com/artist/536SrcGyLzU2lEJM3jXLAz"
+          "name": "DJ Rae",
+          "url": "https://open.spotify.com/artist/746LyYgFU6Gni4CMVPlFNa"
         }
       ],
-      "duration_ms": 299796,
-      "name": "Figure It Out",
-      "url": "https://open.spotify.com/track/3IWy6MPyWKPFAQ5x6YAkrc"
+      "duration_ms": 166103,
+      "name": "Ghost (feat. DJ Rae)",
+      "url": "https://open.spotify.com/track/7gh9OOo02MSvBSp3MPeg6E"
     }
   ],
   "unique_name": "Proper Naughty ",

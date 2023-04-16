@@ -1,15 +1,15 @@
 {
   "description": "Altijd fris in Fresh Hits. Cover: Claude",
-  "num_followers": 14935,
+  "num_followers": 14977,
   "original_name": "Fresh Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ2NTkzOCwwMDAwMDAwMGUzOTdiOTk5YjgyZWI4NThmZjEzNDc1Njk2ZDcwZDhm",
+  "snapshot_id": "MTY4MTU2NzkyMiwwMDAwMDAwMGNlMWU4YzY0YmZjN2ZiYTg2ZjU0MWIzMTc1NThiZjdk",
   "tracks": [
     {
-      "added_at": "2023-04-14 09:52:18",
+      "added_at": "2023-04-15 14:12:02",
       "album": {
         "name": "Layla",
         "url": "https://open.spotify.com/album/1ba0iVHm6wU4hfVfb8fKhl"
@@ -25,7 +25,23 @@
       "url": "https://open.spotify.com/track/18tV3JqwwB5Acsa8vP12lp"
     },
     {
-      "added_at": "2023-04-14 09:52:18",
+      "added_at": "2023-04-15 14:12:02",
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 212953,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
+    },
+    {
+      "added_at": "2023-04-15 14:12:02",
       "album": {
         "name": "Padellen",
         "url": "https://open.spotify.com/album/3q35BTO8rRIOxSPFJgGvh1"
@@ -45,7 +61,7 @@
       "url": "https://open.spotify.com/track/7vjvSnuolvOBNgJDSodY2B"
     },
     {
-      "added_at": "2023-04-14 09:52:18",
+      "added_at": "2023-04-15 14:12:02",
       "album": {
         "name": "Doe Me Dansje",
         "url": "https://open.spotify.com/album/2WsN1f9lwKcmJHO9VupsZa"
@@ -69,7 +85,7 @@
       "url": "https://open.spotify.com/track/79LE0asiuQOsZoe2Uwp898"
     },
     {
-      "added_at": "2023-04-14 09:52:18",
+      "added_at": "2023-04-15 14:12:02",
       "album": {
         "name": "Kill Bill (feat. Doja Cat)",
         "url": "https://open.spotify.com/album/4OanbmuJAWz8JPVE4cJA9L"
@@ -89,7 +105,7 @@
       "url": "https://open.spotify.com/track/0CrcwVLUe8wzLUIXgjXVZJ"
     },
     {
-      "added_at": "2023-04-14 09:52:18",
+      "added_at": "2023-04-15 14:12:02",
       "album": {
         "name": "Never Felt So Alone",
         "url": "https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX"
@@ -105,7 +121,7 @@
       "url": "https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo"
     },
     {
-      "added_at": "2023-04-14 09:52:18",
+      "added_at": "2023-04-15 14:12:02",
       "album": {
         "name": "Baby Don't Hurt Me",
         "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
@@ -129,7 +145,7 @@
       "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
     },
     {
-      "added_at": "2023-04-14 09:52:18",
+      "added_at": "2023-04-15 14:12:02",
       "album": {
         "name": "Rommel",
         "url": "https://open.spotify.com/album/6iyEGMk28j3ZuiQxz5lvU5"
@@ -145,7 +161,7 @@
       "url": "https://open.spotify.com/track/0pw06mcIzuAeLPOHZT7W4Z"
     },
     {
-      "added_at": "2023-04-14 09:52:18",
+      "added_at": "2023-04-15 14:12:02",
       "album": {
         "name": "Witte Duiven",
         "url": "https://open.spotify.com/album/2CAsrEQhyk7i7T1ouGbhU0"
@@ -161,7 +177,7 @@
       "url": "https://open.spotify.com/track/2Kc3Zqu8hzWJBsJgnBtbGa"
     },
     {
-      "added_at": "2023-04-14 09:52:18",
+      "added_at": "2023-04-15 14:12:02",
       "album": {
         "name": "Chemical",
         "url": "https://open.spotify.com/album/6NoH5RUtjoh6ae2lJ9gWfq"
@@ -177,7 +193,7 @@
       "url": "https://open.spotify.com/track/4qzEjmuz380jeiBJp31oDY"
     },
     {
-      "added_at": "2023-04-14 09:52:18",
+      "added_at": "2023-04-15 14:12:02",
       "album": {
         "name": "HOPE",
         "url": "https://open.spotify.com/album/6zaisPwfcIAfdUGPj3mmGY"
@@ -193,7 +209,7 @@
       "url": "https://open.spotify.com/track/3ZEno9fORwMA1HPecdLi0R"
     },
     {
-      "added_at": "2023-04-14 09:52:18",
+      "added_at": "2023-04-15 14:12:02",
       "album": {
         "name": "Verleden Tijd",
         "url": "https://open.spotify.com/album/2NZL8RRqr3CyrOYUuSOcPa"
@@ -209,7 +225,7 @@
       "url": "https://open.spotify.com/track/1vYF6O8JLonzVYrJGSGNNW"
     },
     {
-      "added_at": "2023-04-14 09:52:18",
+      "added_at": "2023-04-15 14:12:02",
       "album": {
         "name": "Good Feeling (feat. Rhys Lewis)",
         "url": "https://open.spotify.com/album/4Jx380oGmnaf6mbEgH4rSu"
@@ -229,7 +245,7 @@
       "url": "https://open.spotify.com/track/7hmdTvWQgw2p8aG26MIdCO"
     },
     {
-      "added_at": "2023-04-14 09:52:18",
+      "added_at": "2023-04-15 14:12:02",
       "album": {
         "name": "Wish You The Best",
         "url": "https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS"
@@ -245,7 +261,7 @@
       "url": "https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3"
     },
     {
-      "added_at": "2023-04-14 09:52:18",
+      "added_at": "2023-04-15 14:12:02",
       "album": {
         "name": "Cap",
         "url": "https://open.spotify.com/album/3ZqC7VFrPrFboWxBRXxkPK"
@@ -265,7 +281,7 @@
       "url": "https://open.spotify.com/track/5bTfALoLZyAh8ChIDbyP06"
     },
     {
-      "added_at": "2023-04-14 09:52:18",
+      "added_at": "2023-04-15 14:12:02",
       "album": {
         "name": "RR",
         "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
@@ -285,7 +301,7 @@
       "url": "https://open.spotify.com/track/609E1JCInJncactoMmkDon"
     },
     {
-      "added_at": "2023-04-14 09:52:18",
+      "added_at": "2023-04-15 14:12:02",
       "album": {
         "name": "Er Was Eens Een Meid",
         "url": "https://open.spotify.com/album/3fO8TSTjkapJpQU4xKgahE"
@@ -301,7 +317,7 @@
       "url": "https://open.spotify.com/track/128TSKhbp925wwRpJksRXH"
     },
     {
-      "added_at": "2023-04-14 09:52:18",
+      "added_at": "2023-04-15 14:12:02",
       "album": {
         "name": "Engelbewaarder",
         "url": "https://open.spotify.com/album/3c6Hst9lqpnnRRpEbP1RxH"
@@ -317,7 +333,7 @@
       "url": "https://open.spotify.com/track/2C2vSufLm1wLq2GjDH3iMh"
     },
     {
-      "added_at": "2023-04-14 09:52:18",
+      "added_at": "2023-04-15 14:12:02",
       "album": {
         "name": "Tattoo",
         "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
@@ -333,7 +349,7 @@
       "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
     },
     {
-      "added_at": "2023-04-14 09:52:18",
+      "added_at": "2023-04-15 14:12:02",
       "album": {
         "name": "Leidseplein",
         "url": "https://open.spotify.com/album/3qrxL8lc4PrftAnuTvxpgC"
@@ -353,7 +369,7 @@
       "url": "https://open.spotify.com/track/0Hi3vw8XJ14gs9zE721zmN"
     },
     {
-      "added_at": "2023-04-14 09:52:18",
+      "added_at": "2023-04-15 14:12:02",
       "album": {
         "name": "Push Up (Original Mix)",
         "url": "https://open.spotify.com/album/4OPl8QJEF698sMfW76g5mK"
@@ -369,7 +385,7 @@
       "url": "https://open.spotify.com/track/43OMUa5jouGCZEz9k9vooo"
     },
     {
-      "added_at": "2023-04-14 09:52:18",
+      "added_at": "2023-04-15 14:12:02",
       "album": {
         "name": "Crying On The Dancefloor",
         "url": "https://open.spotify.com/album/4IUv9dcdWGXkug84xuIwX7"
@@ -397,7 +413,7 @@
       "url": "https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6"
     },
     {
-      "added_at": "2023-04-14 09:52:18",
+      "added_at": "2023-04-15 14:12:02",
       "album": {
         "name": "VOID",
         "url": "https://open.spotify.com/album/5Zcbn14eQzkC78jEejObL2"
@@ -413,7 +429,7 @@
       "url": "https://open.spotify.com/track/1QvvLc5UihfQ2nOxzhjuek"
     },
     {
-      "added_at": "2023-04-14 09:52:18",
+      "added_at": "2023-04-15 14:12:02",
       "album": {
         "name": "Roddels",
         "url": "https://open.spotify.com/album/0AKNcOmJM09yEmaPDh0zrB"
@@ -433,7 +449,7 @@
       "url": "https://open.spotify.com/track/4LgdcClmqjGVmtPi6Sbfr7"
     },
     {
-      "added_at": "2023-04-14 09:52:18",
+      "added_at": "2023-04-15 14:12:02",
       "album": {
         "name": "All Nighter",
         "url": "https://open.spotify.com/album/1cQUgdn5goiU3fbKc3aykV"
@@ -449,7 +465,7 @@
       "url": "https://open.spotify.com/track/7bqg7RANz4RaboN0Ga1Miq"
     },
     {
-      "added_at": "2023-04-14 09:52:18",
+      "added_at": "2023-04-15 14:12:02",
       "album": {
         "name": "Search & Rescue",
         "url": "https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW"
@@ -465,7 +481,7 @@
       "url": "https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G"
     },
     {
-      "added_at": "2023-04-14 09:52:18",
+      "added_at": "2023-04-15 14:12:02",
       "album": {
         "name": "On & On",
         "url": "https://open.spotify.com/album/2R1IseXguOsELhULk1H60P"
@@ -489,7 +505,7 @@
       "url": "https://open.spotify.com/track/19bua05ITWjFrk9iGxOA7r"
     },
     {
-      "added_at": "2023-04-14 09:52:18",
+      "added_at": "2023-04-15 14:12:02",
       "album": {
         "name": "FACE",
         "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
@@ -505,7 +521,7 @@
       "url": "https://open.spotify.com/track/0u8rZGtXJrLtiSe34FPjGG"
     },
     {
-      "added_at": "2023-04-14 09:52:18",
+      "added_at": "2023-04-15 14:12:02",
       "album": {
         "name": "Zij Heeft Alles",
         "url": "https://open.spotify.com/album/69jSlMa042sypmsAS7rORE"
@@ -521,7 +537,7 @@
       "url": "https://open.spotify.com/track/5dX4ciRfkCnVV37T4CFuBa"
     },
     {
-      "added_at": "2023-04-14 09:52:18",
+      "added_at": "2023-04-15 14:12:02",
       "album": {
         "name": "MON LOVE OHO",
         "url": "https://open.spotify.com/album/3Kw0SPNrjAZ9fL1TtfsnL9"
@@ -537,7 +553,7 @@
       "url": "https://open.spotify.com/track/6PkKOTfky37pdi6e0nJcm4"
     },
     {
-      "added_at": "2023-04-14 09:52:18",
+      "added_at": "2023-04-15 14:12:02",
       "album": {
         "name": "All Of The Girls You Loved Before",
         "url": "https://open.spotify.com/album/1Uauz6ql2dIPvIOH4JiuhD"
@@ -553,7 +569,7 @@
       "url": "https://open.spotify.com/track/4P9Q0GojKVXpRTJCaL3kyy"
     },
     {
-      "added_at": "2023-04-14 09:52:18",
+      "added_at": "2023-04-15 14:12:02",
       "album": {
         "name": "De Nacht",
         "url": "https://open.spotify.com/album/7BwQcp2ElEdta4qGT0HUII"
@@ -569,7 +585,7 @@
       "url": "https://open.spotify.com/track/5S3KPuHQxUFsBQgcW4WLgi"
     },
     {
-      "added_at": "2023-04-14 09:52:18",
+      "added_at": "2023-04-15 14:12:02",
       "album": {
         "name": "Heart Wants What It Wants",
         "url": "https://open.spotify.com/album/2UaBO1EDivXwUZengjvRBG"
@@ -585,7 +601,7 @@
       "url": "https://open.spotify.com/track/7rS4oy2qpJNULQAVgJQTun"
     },
     {
-      "added_at": "2023-04-14 09:52:18",
+      "added_at": "2023-04-15 14:12:02",
       "album": {
         "name": "Alleen (Weer)",
         "url": "https://open.spotify.com/album/4ygSGZsHpGfCkTcRVjiAco"
@@ -605,7 +621,7 @@
       "url": "https://open.spotify.com/track/2KhW9wzxsOjcHhRqIq1dfn"
     },
     {
-      "added_at": "2023-04-14 09:52:18",
+      "added_at": "2023-04-15 14:12:02",
       "album": {
         "name": "Us Against the World (Remix)",
         "url": "https://open.spotify.com/album/5SZXD6IbW91jQKMTJmwlvv"
@@ -625,7 +641,7 @@
       "url": "https://open.spotify.com/track/0pGecxPm2EOIQgc241d38t"
     },
     {
-      "added_at": "2023-04-14 09:52:18",
+      "added_at": "2023-04-15 14:12:02",
       "album": {
         "name": "seeing you with other girls",
         "url": "https://open.spotify.com/album/61XFhjOmYfEyHgTk35zgpY"
@@ -641,7 +657,7 @@
       "url": "https://open.spotify.com/track/05EL9Ml4T3MQ2ICIONhbEF"
     },
     {
-      "added_at": "2023-04-14 09:52:18",
+      "added_at": "2023-04-15 14:12:02",
       "album": {
         "name": "Wat Is Er Gebeurd",
         "url": "https://open.spotify.com/album/5QXDJtS4EHkcVK2mYYwCr7"
@@ -661,7 +677,7 @@
       "url": "https://open.spotify.com/track/4SBsVlE0RPcONLZePOTpS5"
     },
     {
-      "added_at": "2023-04-14 09:52:18",
+      "added_at": "2023-04-15 14:12:02",
       "album": {
         "name": "Relax My Eyes",
         "url": "https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN"
@@ -681,7 +697,7 @@
       "url": "https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH"
     },
     {
-      "added_at": "2023-04-14 09:52:18",
+      "added_at": "2023-04-15 14:12:02",
       "album": {
         "name": "Weekends",
         "url": "https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh"
@@ -701,31 +717,7 @@
       "url": "https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2"
     },
     {
-      "added_at": "2023-04-14 09:52:18",
-      "album": {
-        "name": "Midden In De Club",
-        "url": "https://open.spotify.com/album/7hVIIRKPPaeSXY0d6qe8RW"
-      },
-      "artists": [
-        {
-          "name": "2mochh",
-          "url": "https://open.spotify.com/artist/0Rco3YiEW2pB9JGHeVhLJk"
-        },
-        {
-          "name": "Architrackz",
-          "url": "https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq"
-        },
-        {
-          "name": "Yxng Le",
-          "url": "https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa"
-        }
-      ],
-      "duration_ms": 231030,
-      "name": "Midden In De Club",
-      "url": "https://open.spotify.com/track/0Fu1u02G2t0zx57nznFwC8"
-    },
-    {
-      "added_at": "2023-04-14 09:52:18",
+      "added_at": "2023-04-15 14:12:02",
       "album": {
         "name": "Doe Wat Je Doet",
         "url": "https://open.spotify.com/album/5vn20sanTK8TRN2JyQrymL"

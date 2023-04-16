@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWFNSpryCCH5.md) - [plain]
 
 > Revive aquellas grandes canciones desenchufadas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,064,845 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,064,922 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWFNSpryCCH5.md) - [plain]
 | 19 | [Amor \(Ft\. Mon Laferte\) \- Mtv Unplugged](https://open.spotify.com/track/2fscHtYDKLd7xYRCTe3prP) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Amor \(Ft\. Mon Laferte\) \(Mtv Unplugged\)](https://open.spotify.com/album/6CNdw6WvNlH86Y0h3rVQtw) | 5:12 |
 | 20 | [The Man Who Sold The World \- Live Version](https://open.spotify.com/track/1XnPVbzLhuBv0sHaCTgyoi) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nirvana](https://open.spotify.com/album/5zBPRXCAc801vyHWoRurNZ) | 3:47 |
 | 21 | [Golpes En El Corazón](https://open.spotify.com/track/0Ft9dBN6vm9bhvGaUPHyYO) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy), [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Tr3s Presents MTV Unplugged Los Tigres Del Norte And Friends](https://open.spotify.com/album/0SzXF8v0Vv3EFeaPY6h9LP) | 4:41 |
-| 22 | [Because the Night \- Live Unplugged](https://open.spotify.com/track/5VzvK7YiwWbRePA2JOzhYq) | [10,000 Maniacs](https://open.spotify.com/artist/0MBIKH9DjtBkv8O3nS6szj) | [MTV Unplugged](https://open.spotify.com/album/4Z8B7aRCB34COXcjCDPgzg) | 3:43 |
-| 23 | [Sueños \(with Julieta Venegas\) \- MTV Unplugged](https://open.spotify.com/track/1NuWMB7R2FHid46XQYkFUV) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [MTV Unplugged](https://open.spotify.com/album/3xB3SzIEkry77YmregfUHZ) | 4:35 |
+| 22 | [Sueños \(with Julieta Venegas\) \- MTV Unplugged](https://open.spotify.com/track/1NuWMB7R2FHid46XQYkFUV) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [MTV Unplugged](https://open.spotify.com/album/3xB3SzIEkry77YmregfUHZ) | 4:35 |
+| 23 | [Because the Night \- Live Unplugged](https://open.spotify.com/track/5VzvK7YiwWbRePA2JOzhYq) | [10,000 Maniacs](https://open.spotify.com/artist/0MBIKH9DjtBkv8O3nS6szj) | [MTV Unplugged](https://open.spotify.com/album/4Z8B7aRCB34COXcjCDPgzg) | 3:43 |
 | 24 | [Take On Me \- MTV Unplugged](https://open.spotify.com/track/7htt7UuxHL5wneOcMWJP5E) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [MTV Unplugged \- Summer Solstice](https://open.spotify.com/album/55SHqC4ZxSnT0wWQgg9eOY) | 4:13 |
 | 25 | [En la Ciudad de la Furia \- MTV Unplugged](https://open.spotify.com/track/2p4FOWHHd2A6TBmTkdt1G0) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Comfort Y Musica Para Volar](https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8) | 8:42 |
 | 26 | [La chispa adecuada \(feat\. León Larregui\) \- MTV Unplugged](https://open.spotify.com/track/5vnAu12wplLvx1XH01PwRH) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT), [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [MTV Unplugged\. El Libro De Las Mutaciones](https://open.spotify.com/album/3AO4YRY9r2gQL6GWLtdm7h) | 4:51 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWFNSpryCCH5.md) - [plain]
 | 39 | [Últimos Días \- En Vivo](https://open.spotify.com/track/47NLimerGALH038upaVAwD) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [MTV Unplugged Música De Fondo \(Reissue/Live\)](https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV) | 3:51 |
 | 40 | [Para no olvidar \- En directo 2005](https://open.spotify.com/track/3lp6PxDzfI5P4Ge3V1fKdi) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [El regreso](https://open.spotify.com/album/3hIwt5XJuGCaTgSO6DqL7N) | 4:23 |
 | 41 | [Eres para Mí \(with La Mala Rodríguez\) \- Unplugged \(En Vivo\)](https://open.spotify.com/track/1gL4YEW5qp6mv2aku06a06) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Julieta Venegas \- MTV Unplugged](https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97) | 4:42 |
-| 42 | [Black \- Kaufman Astoria Studios \- MTV Unplugged \- New York, NY 3/16/1992](https://open.spotify.com/track/0DUaFpOFS5H8LbswpbcP2m) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Pearl Jam Twenty Original Motion Picture Soundtrack](https://open.spotify.com/album/1z6iuIsvWR3AjWhMY2xFOk) | 5:39 |
-| 43 | [Eres \- MTV Unplugged](https://open.spotify.com/track/7stJkVkDr8fn52qR2HL2I0) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Un Segundo MTV Unplugged](https://open.spotify.com/album/6FFHjkllIIyfWlObWFrZ6X) | 5:05 |
+| 42 | [Eres \- MTV Unplugged](https://open.spotify.com/track/7stJkVkDr8fn52qR2HL2I0) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Un Segundo MTV Unplugged](https://open.spotify.com/album/6FFHjkllIIyfWlObWFrZ6X) | 5:05 |
+| 43 | [Black \- Kaufman Astoria Studios \- MTV Unplugged \- New York, NY 3/16/1992](https://open.spotify.com/track/0DUaFpOFS5H8LbswpbcP2m) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Pearl Jam Twenty Original Motion Picture Soundtrack](https://open.spotify.com/album/1z6iuIsvWR3AjWhMY2xFOk) | 5:39 |
 | 44 | [Si tú no vuelves \- MTV Unplugged](https://open.spotify.com/track/0L5sYIDHdhnwtJE0xB0JKV) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [MTV Unplugged](https://open.spotify.com/album/4B0mVzwgm0IihR4Qzg82FO) | 5:24 |
 | 45 | [I'll Always Be Right There \- MTV Unplugged Version](https://open.spotify.com/track/2z1HcH3hHiuo9nN3Jy7HEM) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [MTV Unplugged](https://open.spotify.com/album/081klksuaEwHIzuHGCks5p) | 4:27 |
 | 46 | [Rezo Por Vos \- Live](https://open.spotify.com/track/09owTrI1VnYKs5i1CCMnE2) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Unplugged](https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R) | 4:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWFNSpryCCH5.md) - [plain]
 | 49 | [Inevitable \- En Vivo](https://open.spotify.com/track/1gia3p3JUP6igy5kcpJSGb) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira MTV Unplugged](https://open.spotify.com/album/3yQQUyIA3vRIRnB4rqtThe) | 3:39 |
 | 50 | [Cuando nadie me ve \- Unplugged](https://open.spotify.com/track/6iaw07BTiLrHVT2OQDgqiD) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [MTV Unplugged](https://open.spotify.com/album/1GP8zhAu7gbAQTzfl6xOKo) | 5:06 |
 
-Snapshot ID: `MTYxMjk5MTc2NywwMDAwMDAwMGVhNDllYjg4ZjM0NmRlOGNkMTIyMWY0MTkyZGI1YTM3`
+Snapshot ID: `MTYxMjk5MTc2NywwMDAwMDAwMGJmYmMyNmM0NzliMTQyNmEwNGQwMGQyZDc5Y2Q0MGQx`

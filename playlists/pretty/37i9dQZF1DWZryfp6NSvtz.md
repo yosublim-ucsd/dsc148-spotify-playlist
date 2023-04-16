@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: PÆRISH
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,642 likes - 60 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,730 likes - 59 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,20 +53,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 43 | [Asi Estoy Yo Sin Ti](https://open.spotify.com/track/29BVNooeLb4Q7ua0e4H0K3) | [INSITE](https://open.spotify.com/artist/2Dh7EC5nA37i7JH3UNB8YX) | [Así Estoy Yo Sin Ti](https://open.spotify.com/album/4JPFmNJVYsKvAPTwxomYu0) | 4:40 |
 | 44 | [Cut Me](https://open.spotify.com/track/6JfRbMMVcKafqeTBlbOdJx) | [The Anix](https://open.spotify.com/artist/6nFvVbL2RN5czSm7NZjE51) | [Cut Me](https://open.spotify.com/album/3r3YaJvkA3p9dh95pQzp7u) | 4:06 |
 | 45 | [Psychopath](https://open.spotify.com/track/7KSAqfQp0BgllQJuimgdye) | [Another Sky](https://open.spotify.com/artist/08p5D6BYuwPqGsFuIDLNFr) | [Psychopath](https://open.spotify.com/album/3AbrCdHe3tzMrsyUMcuiPf) | 3:33 |
-| 46 | [Cherophobe](https://open.spotify.com/track/5N2s4ZcU9sAuEHlnOMGzny) | [The Royston Club](https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD) | [Cherophobe](https://open.spotify.com/album/628bjj2XYcW0GISs7ei2fC) | 4:16 |
-| 47 | [Ugly Leather](https://open.spotify.com/track/58DqjEnMwKIlXwmvC8UIOe) | [The Datsuns](https://open.spotify.com/artist/2P6KPAphDMASmfHjnxSMmR) | [Ugly Leather](https://open.spotify.com/album/0es9hLQyGu6ooLaUQH17CZ) | 2:48 |
-| 48 | [New Breeze](https://open.spotify.com/track/6M4hZYuvsYSndZq2xsugPW) | [Bad//Dreems](https://open.spotify.com/artist/54f24706ua34STMhWSzPV7) | [New Breeze](https://open.spotify.com/album/1eCcspXtHzkUc7AQEJHESe) | 3:04 |
-| 49 | [Para Siempre](https://open.spotify.com/track/2VqVScPVFQLtg6bDtnhQW3) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Para Siempre](https://open.spotify.com/album/1SCkHpyMe6KZK5ScMcrp9a) | 3:36 |
-| 50 | [Control](https://open.spotify.com/track/3dCCOVJ82KLNMxACKvyh1n) | [You Said Strange](https://open.spotify.com/artist/269ucQArovY0uXXKEuf5d2) | [Control](https://open.spotify.com/album/16L9rPhLWLS2UkoECWqYxR) | 3:32 |
-| 51 | [Scaredy Pants](https://open.spotify.com/track/0UH3qGCpQF9t1jwINUnq2R) | [Venus & the Flytraps](https://open.spotify.com/artist/0p1Rswnjvt7KFNFTYXNmWF) | [Scaredy Pants](https://open.spotify.com/album/6RpUP5myGMEJ5its0cz20C) | 3:12 |
-| 52 | [People That I Love Leave](https://open.spotify.com/track/2ZaPyFZBwurF7wCT9DKAVV) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [People That I Love Leave](https://open.spotify.com/album/0MHxYClcQzUce12K5Y2GfU) | 2:29 |
-| 53 | [Woah](https://open.spotify.com/track/4RDPvmwil6RoOWA3gI2AOs) | [Phi11a](https://open.spotify.com/artist/1QrAumNRmmekZeMDVTUfbS) | [Woah](https://open.spotify.com/album/5PcDmSVUaqhWkxnaDPLira) | 1:58 |
-| 54 | [Sudocream Queen \(2023\)](https://open.spotify.com/track/670mxMWhey2urx7f1OvXLi) | [VENUS GRRRLS](https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9) | [Sudocream Queen \(2023\)](https://open.spotify.com/album/6cDnh8KIRUbFKzZJWrG5wo) | 2:45 |
-| 55 | [DANGER](https://open.spotify.com/track/0QGf02aOQ00eQVNQHlzRUM) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [DANGER](https://open.spotify.com/album/5A7V6ml1D9ttQfvSdAQC03) | 2:35 |
-| 56 | [Head in the Clouds](https://open.spotify.com/track/3HgDqQCtrw0k5MZR86r7Uq) | [Arrows in Action](https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ) | [Head in The Clouds](https://open.spotify.com/album/7w0jejpTAtTzkl4IDUcqPH) | 2:55 |
-| 57 | [Himno \(para los que están jodidos\)](https://open.spotify.com/track/0xk30CeA3Klu0xOOdE8grl) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [Allison](https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr) | [Himno \(para los que están jodidos\)](https://open.spotify.com/album/0WCX8VZK7JA2mChT1sQO3c) | 3:05 |
-| 58 | [Melatonin \- Radio Edit](https://open.spotify.com/track/0Asx2McRPeWlPFgu6vj5tk) | [KNTC](https://open.spotify.com/artist/4hFo9fA6648F0TgtqHdob8) | [Melatonin \(Radio Edit\)](https://open.spotify.com/album/7f8nBI7ASGyFPcxmcnvWae) | 3:24 |
-| 59 | [Hold It Down](https://open.spotify.com/track/4psBthXVBZjp8r8WJR4V7y) | [Wifecult](https://open.spotify.com/artist/3pSxlyCEcLbIhN4dXOMs2n) | [Hold It Down](https://open.spotify.com/album/2yAfl4jYjCAX5H4NVhyWhg) | 3:45 |
-| 60 | [Modern Man](https://open.spotify.com/track/4dfuWgV9ZhX2eP6VudQ94G) | [Empty Head](https://open.spotify.com/artist/6UWKEdxaXbMMQYtIyBWe9X) | [Modern Man](https://open.spotify.com/album/5xVytUARK9xUT3Ui2yYQIa) | 3:29 |
+| 46 | [Ugly Leather](https://open.spotify.com/track/58DqjEnMwKIlXwmvC8UIOe) | [The Datsuns](https://open.spotify.com/artist/2P6KPAphDMASmfHjnxSMmR) | [Ugly Leather](https://open.spotify.com/album/0es9hLQyGu6ooLaUQH17CZ) | 2:48 |
+| 47 | [New Breeze](https://open.spotify.com/track/6M4hZYuvsYSndZq2xsugPW) | [Bad//Dreems](https://open.spotify.com/artist/54f24706ua34STMhWSzPV7) | [New Breeze](https://open.spotify.com/album/1eCcspXtHzkUc7AQEJHESe) | 3:04 |
+| 48 | [Para Siempre](https://open.spotify.com/track/2VqVScPVFQLtg6bDtnhQW3) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Para Siempre](https://open.spotify.com/album/1SCkHpyMe6KZK5ScMcrp9a) | 3:36 |
+| 49 | [Control](https://open.spotify.com/track/3dCCOVJ82KLNMxACKvyh1n) | [You Said Strange](https://open.spotify.com/artist/269ucQArovY0uXXKEuf5d2) | [Control](https://open.spotify.com/album/16L9rPhLWLS2UkoECWqYxR) | 3:32 |
+| 50 | [Scaredy Pants](https://open.spotify.com/track/0UH3qGCpQF9t1jwINUnq2R) | [Venus & the Flytraps](https://open.spotify.com/artist/0p1Rswnjvt7KFNFTYXNmWF) | [Scaredy Pants](https://open.spotify.com/album/6RpUP5myGMEJ5its0cz20C) | 3:12 |
+| 51 | [People That I Love Leave](https://open.spotify.com/track/2ZaPyFZBwurF7wCT9DKAVV) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [People That I Love Leave](https://open.spotify.com/album/0MHxYClcQzUce12K5Y2GfU) | 2:29 |
+| 52 | [Woah](https://open.spotify.com/track/4RDPvmwil6RoOWA3gI2AOs) | [Phi11a](https://open.spotify.com/artist/1QrAumNRmmekZeMDVTUfbS) | [Woah](https://open.spotify.com/album/5PcDmSVUaqhWkxnaDPLira) | 1:58 |
+| 53 | [Sudocream Queen \(2023\)](https://open.spotify.com/track/670mxMWhey2urx7f1OvXLi) | [VENUS GRRRLS](https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9) | [Sudocream Queen \(2023\)](https://open.spotify.com/album/6cDnh8KIRUbFKzZJWrG5wo) | 2:45 |
+| 54 | [DANGER](https://open.spotify.com/track/0QGf02aOQ00eQVNQHlzRUM) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [DANGER](https://open.spotify.com/album/5A7V6ml1D9ttQfvSdAQC03) | 2:35 |
+| 55 | [Head in the Clouds](https://open.spotify.com/track/3HgDqQCtrw0k5MZR86r7Uq) | [Arrows in Action](https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ) | [Head in The Clouds](https://open.spotify.com/album/7w0jejpTAtTzkl4IDUcqPH) | 2:55 |
+| 56 | [Himno \(para los que están jodidos\)](https://open.spotify.com/track/0xk30CeA3Klu0xOOdE8grl) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [Allison](https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr) | [Himno \(para los que están jodidos\)](https://open.spotify.com/album/0WCX8VZK7JA2mChT1sQO3c) | 3:05 |
+| 57 | [Melatonin \- Radio Edit](https://open.spotify.com/track/0Asx2McRPeWlPFgu6vj5tk) | [KNTC](https://open.spotify.com/artist/4hFo9fA6648F0TgtqHdob8) | [Melatonin \(Radio Edit\)](https://open.spotify.com/album/7f8nBI7ASGyFPcxmcnvWae) | 3:24 |
+| 58 | [Hold It Down](https://open.spotify.com/track/4psBthXVBZjp8r8WJR4V7y) | [Wifecult](https://open.spotify.com/artist/3pSxlyCEcLbIhN4dXOMs2n) | [Hold It Down](https://open.spotify.com/album/2yAfl4jYjCAX5H4NVhyWhg) | 3:45 |
+| 59 | [Modern Man](https://open.spotify.com/track/4dfuWgV9ZhX2eP6VudQ94G) | [Empty Head](https://open.spotify.com/artist/6UWKEdxaXbMMQYtIyBWe9X) | [Modern Man](https://open.spotify.com/album/5xVytUARK9xUT3Ui2yYQIa) | 3:29 |
 
-Snapshot ID: `MTY4MTQ0NDg2MCwwMDAwMDAwMDY0NWRjZWI1N2I4YjY3YjJkM2JjZDcyYTg5NGMzYTNj`
+Snapshot ID: `MTY4MTU2NjY0NywwMDAwMDAwMDNkODliOTgxMDJlZDRmZGQwN2U4ZDQ5ZTRhYmVkMGI0`

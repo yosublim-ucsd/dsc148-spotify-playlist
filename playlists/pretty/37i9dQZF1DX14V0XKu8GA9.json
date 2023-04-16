@@ -1,12 +1,12 @@
 {
   "description": "The wave of Latinos in Hip-Hop from the U.S. Cover: Speak",
-  "num_followers": 21580,
+  "num_followers": 21595,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ4NTc3MywwMDAwMDAwMGIyM2QxMDVjNjEzM2RkYTQzZThiMjAyZjY1YThhYjE3",
+  "snapshot_id": "MTY3ODQ4NTc3MywwMDAwMDAwMGZiZDVkYzRmN2MwN2RkYjQ4NmUzOTFjMzc5N2JkNTJm",
   "tracks": [
     {
       "added_at": "2023-03-10 22:02:53",
@@ -471,6 +471,22 @@
     {
       "added_at": "2023-03-10 22:02:53",
       "album": {
+        "name": "Vivid Dreams",
+        "url": "https://open.spotify.com/album/3iQ7hzgHsPdk6u6aIGpJtK"
+      },
+      "artists": [
+        {
+          "name": "Young Drummer Boy",
+          "url": "https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng"
+        }
+      ],
+      "duration_ms": 176506,
+      "name": "Vivid Dreams",
+      "url": "https://open.spotify.com/track/4vCPmZ6DG3g5ain2NnleN4"
+    },
+    {
+      "added_at": "2023-03-10 22:02:53",
+      "album": {
         "name": "Run It Up",
         "url": "https://open.spotify.com/album/0w2ljyq80oNCthKKKhS7Nl"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 141240,
       "name": "Run It Up",
       "url": "https://open.spotify.com/track/1oUArtekFELwY7XvRUiSB1"
-    },
-    {
-      "added_at": "2023-03-10 22:02:53",
-      "album": {
-        "name": "Vivid Dreams",
-        "url": "https://open.spotify.com/album/3iQ7hzgHsPdk6u6aIGpJtK"
-      },
-      "artists": [
-        {
-          "name": "Young Drummer Boy",
-          "url": "https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng"
-        }
-      ],
-      "duration_ms": 176506,
-      "name": "Vivid Dreams",
-      "url": "https://open.spotify.com/track/4vCPmZ6DG3g5ain2NnleN4"
     },
     {
       "added_at": "2023-03-10 22:02:53",
@@ -611,6 +611,26 @@
     {
       "added_at": "2023-03-10 22:02:53",
       "album": {
+        "name": "With Me",
+        "url": "https://open.spotify.com/album/6sxDmYgvv43KjL9sMnDyiF"
+      },
+      "artists": [
+        {
+          "name": "Kujo the Savage",
+          "url": "https://open.spotify.com/artist/1yfzFDrzyENCByIZVkLdFn"
+        },
+        {
+          "name": "Sadboy Loko",
+          "url": "https://open.spotify.com/artist/6RP0xHhRvtrYPkhO34F1gD"
+        }
+      ],
+      "duration_ms": 162353,
+      "name": "With Me",
+      "url": "https://open.spotify.com/track/2oDh8f3JLuLORqQWNsghbd"
+    },
+    {
+      "added_at": "2023-03-10 22:02:53",
+      "album": {
         "name": "Money in the Shoebox , $tonehardt & Dexter Cayn)",
         "url": "https://open.spotify.com/album/0e2WqMgxffeQDR5V29cAfk"
       },
@@ -635,26 +655,6 @@
       "duration_ms": 175280,
       "name": "Money in the Shoebox , $tonehardt & Dexter Cayn)",
       "url": "https://open.spotify.com/track/4tMk49Bo8eEj5wNQ2dLiwY"
-    },
-    {
-      "added_at": "2023-03-10 22:02:53",
-      "album": {
-        "name": "With Me",
-        "url": "https://open.spotify.com/album/6sxDmYgvv43KjL9sMnDyiF"
-      },
-      "artists": [
-        {
-          "name": "Kujo the Savage",
-          "url": "https://open.spotify.com/artist/1yfzFDrzyENCByIZVkLdFn"
-        },
-        {
-          "name": "Sadboy Loko",
-          "url": "https://open.spotify.com/artist/6RP0xHhRvtrYPkhO34F1gD"
-        }
-      ],
-      "duration_ms": 162353,
-      "name": "With Me",
-      "url": "https://open.spotify.com/track/2oDh8f3JLuLORqQWNsghbd"
     },
     {
       "added_at": "2023-03-10 22:02:53",

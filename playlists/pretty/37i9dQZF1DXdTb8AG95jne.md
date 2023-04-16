@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Glen Check\(글렌체크\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,239 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,389 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 23 | [3108](https://open.spotify.com/track/4Pty5kAaFSjQk2a5cLLpqK) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [3108](https://open.spotify.com/album/4km6abn4iGxsbDnxuvFMrw) | 2:58 |
 | 24 | [Rawww](https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Rawww](https://open.spotify.com/album/6AMfVr8DNJgkzouRB6qPem) | 2:40 |
 | 25 | [When It Snows](https://open.spotify.com/track/7xLlRiRccn2fWHibTO2Ta1) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA) | [FROM : X](https://open.spotify.com/album/0Mv40wXJXK7tSXbDdxgorn) | 2:51 |
-| 26 | [Forest](https://open.spotify.com/track/33xRp6ZX1DKraRFHR9ZDck) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Stroll](https://open.spotify.com/album/2zTRBl0d9LGCNwuwlf63Wx) | 3:48 |
-| 27 | [Hey kid, Close your eyes \(with Lee Sun Hee\)](https://open.spotify.com/track/4Cgct9Vlype9cYZFW2wSnk) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [Lee Sun Hee](https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:53 |
+| 26 | [Hey kid, Close your eyes \(with Lee Sun Hee\)](https://open.spotify.com/track/4Cgct9Vlype9cYZFW2wSnk) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [Lee Sun Hee](https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:53 |
+| 27 | [Forest](https://open.spotify.com/track/33xRp6ZX1DKraRFHR9ZDck) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Stroll](https://open.spotify.com/album/2zTRBl0d9LGCNwuwlf63Wx) | 3:48 |
 | 28 | [Koh](https://open.spotify.com/track/17U7z9PG0iOa7YfR5pzZ6m) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Koh](https://open.spotify.com/album/6W50Ympy4qBEahumF57RyF) | 4:59 |
 | 29 | [Answer](https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Answer](https://open.spotify.com/album/1bUlMzOPjvgiCWDfAzKD3r) | 3:44 |
 | 30 | [A Long Dream](https://open.spotify.com/track/4nXbMeiYZCMxl2B7NvxLdR) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [A Long Dream](https://open.spotify.com/album/61XIcKpWrkIFiGZA6p72zy) | 4:18 |
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 36 | [Hate Everything \- Korean Version](https://open.spotify.com/track/6GX6ky9XJINogCHQ1c3UUx) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Hate Everything](https://open.spotify.com/album/4NV2SxuesqKwcBdDgACH9R) | 3:25 |
 | 37 | [Lustre](https://open.spotify.com/track/00VsYilvyHRZlTrBopBnCC) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Esprit](https://open.spotify.com/album/61zYPYowUBeJGIqsmu6QBt) | 3:34 |
 | 38 | [A Call from My Dream](https://open.spotify.com/track/23YwgEnMllsZl0POeWiOzR) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [A Call from My Dream](https://open.spotify.com/album/7cuRyJgRk1NfHrCNv5tM3M) | 4:15 |
-| 39 | [tokki](https://open.spotify.com/track/2865p4BUG6BH7v5WIjfGWN) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [tokki](https://open.spotify.com/album/73CjMy4n5mnulB7w3PFXI0) | 3:30 |
-| 40 | [RAL 9002](https://open.spotify.com/track/1XyMBACv8WJzmnAobpgXiW) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [RAL 9002](https://open.spotify.com/album/5GSpWXgjEc3r0rMcS8yrmY) | 3:09 |
+| 39 | [RAL 9002](https://open.spotify.com/track/1XyMBACv8WJzmnAobpgXiW) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [RAL 9002](https://open.spotify.com/album/5GSpWXgjEc3r0rMcS8yrmY) | 3:09 |
+| 40 | [tokki](https://open.spotify.com/track/2865p4BUG6BH7v5WIjfGWN) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [tokki](https://open.spotify.com/album/73CjMy4n5mnulB7w3PFXI0) | 3:30 |
 | 41 | [in the bed](https://open.spotify.com/track/3WhLjQxdRYrI4JjmIEFnPe) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [in the bed](https://open.spotify.com/album/2CtElDOpo2hSKXWVpf0qBj) | 4:25 |
 | 42 | [Don't be sad](https://open.spotify.com/track/1f26mzPoBLP8OO67XDmwv8) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [Don't be sad](https://open.spotify.com/album/0U6NOQI9uIsK68H84Kvomc) | 3:30 |
 | 43 | [Do You Think Of Me?](https://open.spotify.com/track/3rE5YYh8azn8WwtRToLYuh) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Do You Think Of Me? \(4.4\)](https://open.spotify.com/album/3w43kNVamjK9eqQ2BJdB7V) | 3:16 |
 | 44 | [Hug](https://open.spotify.com/track/5IjEA99ADS6ERSh8Ck1OLq) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅡ Pum](https://open.spotify.com/album/7bokVbwwFlYf6dqzdSUXEp) | 3:06 |
 | 45 | [Let's Meet In Spring](https://open.spotify.com/track/7e1IpTKqOMw1cstbBic8qs) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [Again, Spring Days](https://open.spotify.com/album/2PnFurbn4SKEMu9OUk2VUL) | 3:46 |
-| 46 | [Stumble](https://open.spotify.com/track/3A7LdxbwGAqdMZlRXj4OoB) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Round and Round](https://open.spotify.com/album/3MYLhipqQULZJKKgFqTkOq) | 3:20 |
-| 47 | [Clouds](https://open.spotify.com/track/5EkkdLlRAuzjjA8oT6FN7b) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Clouds](https://open.spotify.com/album/7kV4H8b2CEGLjjF66UUp6J) | 3:12 |
-| 48 | [Meaningless](https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Meaningless](https://open.spotify.com/album/2dPStHpSaa9pKPudsLg4Xe) | 2:40 |
-| 49 | [naps!](https://open.spotify.com/track/2psNTcUeXlI5vBt0zgehpw) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA), [WONPIL](https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP) | [naps!](https://open.spotify.com/album/3EnlNFwmB3Lpf932SlGbMq) | 3:25 |
+| 46 | [Clouds](https://open.spotify.com/track/5EkkdLlRAuzjjA8oT6FN7b) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Clouds](https://open.spotify.com/album/7kV4H8b2CEGLjjF66UUp6J) | 3:12 |
+| 47 | [Stumble](https://open.spotify.com/track/3A7LdxbwGAqdMZlRXj4OoB) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Round and Round](https://open.spotify.com/album/3MYLhipqQULZJKKgFqTkOq) | 3:20 |
+| 48 | [naps!](https://open.spotify.com/track/2psNTcUeXlI5vBt0zgehpw) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA), [WONPIL](https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP) | [naps!](https://open.spotify.com/album/3EnlNFwmB3Lpf932SlGbMq) | 3:25 |
+| 49 | [Meaningless](https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Meaningless](https://open.spotify.com/album/2dPStHpSaa9pKPudsLg4Xe) | 2:40 |
 | 50 | [Youth](https://open.spotify.com/track/3WGd1zqLLAWUqPCEVTskT3) | [Dasutt](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [YOUTH](https://open.spotify.com/album/7BCfH2egHZqKnWrBOLf0fE) | 6:01 |
 
-Snapshot ID: `MTY4MDg0MDg4MSwwMDAwMDAwMGYxMGRkZjhlOWY5MjUzNTMyNzJhNDdlMWFkMjM2YjQx`
+Snapshot ID: `MTY4MDg0MDg4MSwwMDAwMDAwMGE3OGE3NTc3NjIyZmNhNjNkNGVjOWQyYmIwMTgwMDhk`

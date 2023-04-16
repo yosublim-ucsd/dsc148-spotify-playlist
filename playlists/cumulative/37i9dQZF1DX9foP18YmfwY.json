@@ -184,7 +184,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 298000,
       "name": "Apenas Barro",
       "url": "https://open.spotify.com/track/6VCtzegvbikThIayNbKMBl"
@@ -748,6 +748,24 @@
       "duration_ms": 337168,
       "name": "Estou Orando por Voc\u00ea",
       "url": "https://open.spotify.com/track/2DY9psTzveYgzNcq2E77Mx"
+    },
+    {
+      "album": {
+        "name": "Fa\u00e7a Um Milagre (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2wLjQBv56JdmwIojvlc7D6"
+      },
+      "artists": [
+        {
+          "name": "Padre Reginaldo Manzotti",
+          "url": "https://open.spotify.com/artist/7luES30fTO66nDk83NZCJV"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262232,
+      "name": "Fa\u00e7a Um Milagre - Ao Vivo",
+      "url": "https://open.spotify.com/track/2ToXwQGR8W74QBzhNLpFoV"
     },
     {
       "album": {

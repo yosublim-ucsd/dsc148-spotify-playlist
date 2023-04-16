@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 
 > Instrumental beats for a restful night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,654 likes - 333 songs - 12 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,316 likes - 333 songs - 12 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 | 2 | [Soft As Snow](https://open.spotify.com/track/0wqfY3YTz0VS0motqaCZZ0) | [Cassette Treasures](https://open.spotify.com/artist/3oF0M86slqb8GWlqB2JXZw) | [Soft As Snow](https://open.spotify.com/album/2rrg5QWWaPDpsEQf1Yg5M2) | 1:58 |
 | 3 | [Low Tension](https://open.spotify.com/track/55MKPPyzRXKgLYPkWXWhZc) | [jon pm](https://open.spotify.com/artist/0hEvTw85lFywhlAfgEc8VH) | [Low Tension](https://open.spotify.com/album/4qIPpwbfTuy8jNPEzI9Jmp) | 2:57 |
 | 4 | [Grounding](https://open.spotify.com/track/5wMvw6fFXoeINA8v4Ru13n) | [Chalk Gang](https://open.spotify.com/artist/7nKTvkyNv3iatiJ0A4lBr7) | [Grounding](https://open.spotify.com/album/2KqN3WUFFfQmRhRtVacP4N) | 2:42 |
-| 5 | [Thinking of you](https://open.spotify.com/track/7o5dVuBnQyNJpp2RLOw9aO) | [Mariana Red](https://open.spotify.com/artist/0gehovGx04GX2D2GDfpaNQ) | [Thinking of you](https://open.spotify.com/album/3npdrpVJTTk07pk0tNvGHL) | 1:38 |
+| 5 | [Thinking of you](https://open.spotify.com/track/7o5dVuBnQyNJpp2RLOw9aO) | [Mariana Red](https://open.spotify.com/artist/0gehovGx04GX2D2GDfpaNQ), [SpoonBeats](https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl) | [Thinking of you](https://open.spotify.com/album/3npdrpVJTTk07pk0tNvGHL) | 1:38 |
 | 6 | [Barista](https://open.spotify.com/track/0xIroxQpcjA2z9u1dnHb7C) | [kire & stam](https://open.spotify.com/artist/41psjlKZr7stmimkuVcotj) | [Barista](https://open.spotify.com/album/5fkb60f2Vv4dQCAJax37iO) | 1:51 |
 | 7 | [Cozy Cabin](https://open.spotify.com/track/2bQr2fVvAnyq5Wg7l1xkhW) | [Fiber Zone](https://open.spotify.com/artist/4sDZLaSAdjXRiSOZkLMBlA) | [Cozy Cabin](https://open.spotify.com/album/3T3BtxzWbTK7oO7KQ72JE9) | 2:08 |
 | 8 | [Hydra](https://open.spotify.com/track/3rWFeNkAIxfHy0MvHdzvAj) | [Smith Village Beat Street](https://open.spotify.com/artist/40rTd7D3ud1Q9BB4Qop0WF) | [21st Trail](https://open.spotify.com/album/2TYiO5QeDiFYvPy0NzajDb) | 1:47 |

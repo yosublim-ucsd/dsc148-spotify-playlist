@@ -1486,7 +1486,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 108000,
       "name": "Di\u00e1rio",
       "url": "https://open.spotify.com/track/6bjjfB4s9DZGAWdxRWo2hU"
@@ -1690,7 +1690,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 158000,
       "name": "Entorpecente",
       "url": "https://open.spotify.com/track/0fZ7aqPmqDSI1sGTO5MPqg"
@@ -1792,6 +1792,24 @@
       "duration_ms": 265011,
       "name": "Estrela Maior",
       "url": "https://open.spotify.com/track/1gT41VulD8jslM993Ah8hF"
+    },
+    {
+      "album": {
+        "name": "EU SEI",
+        "url": "https://open.spotify.com/album/7Ks72VKkVAbJqTbvz8VwVa"
+      },
+      "artists": [
+        {
+          "name": "Wayn Dior",
+          "url": "https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223961,
+      "name": "EU SEI",
+      "url": "https://open.spotify.com/track/7BN2gjCwesbpg6fk2AgRvB"
     },
     {
       "album": {
@@ -3874,7 +3892,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 150666,
       "name": "Preciso de algu\u00e9m",
       "url": "https://open.spotify.com/track/30U1EU9Tn3cx8iFp2QSbQn"
@@ -4136,6 +4154,24 @@
       "duration_ms": 161163,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/4U9RdI6luKEGy4xn2n2iZ5"
+    },
+    {
+      "album": {
+        "name": "Roll Another One",
+        "url": "https://open.spotify.com/album/5QsRYyibg1rSkwTKhWJhPe"
+      },
+      "artists": [
+        {
+          "name": "Jvst Fly",
+          "url": "https://open.spotify.com/artist/4yafH0N98ld6th7MqELRXa"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193269,
+      "name": "Roll Another One",
+      "url": "https://open.spotify.com/track/0WtWIiMHgYKCX11kOwX6my"
     },
     {
       "album": {
@@ -4976,6 +5012,28 @@
       "duration_ms": 297737,
       "name": "Tsunami",
       "url": "https://open.spotify.com/track/5TqGewrmzgeb21FYQC7mJZ"
+    },
+    {
+      "album": {
+        "name": "Tu Reclamas",
+        "url": "https://open.spotify.com/album/3ihIy7j62q5IBpWWVu8EVR"
+      },
+      "artists": [
+        {
+          "name": "Myles 6ix",
+          "url": "https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l"
+        },
+        {
+          "name": "TeniTeach",
+          "url": "https://open.spotify.com/artist/79p4kSzCWg2NOxhCJtktwE"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230658,
+      "name": "Tu Reclamas",
+      "url": "https://open.spotify.com/track/1R5wKY4PsyED3atWwJwfDB"
     },
     {
       "album": {

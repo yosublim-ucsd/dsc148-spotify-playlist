@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Lucas Hill.",
-  "num_followers": 107821,
+  "num_followers": 107879,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ1MjAwMCwwMDAwMDAwMGY4NzBjMTFhZDA4YWI2OWY2YTFkYTU4ZmMxYjg4YjQz",
+  "snapshot_id": "MTY4MTQ1MjAwMCwwMDAwMDAwMGVmYWViMjJlZTcwNGUyMWI4YjI4NGNlY2Y1NjIxMzg3",
   "tracks": [
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "La Malquerida",
-        "url": "https://open.spotify.com/album/3DHUbCkvnVbIE6vCpgoh6n"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 485717,
-      "name": "La Malquerida - En Vivo",
-      "url": "https://open.spotify.com/track/4ad6yyRJHSd0AGUmXU1mvQ"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "El Perro Feroz",
         "url": "https://open.spotify.com/album/1TTtA3l551GKHOZ2sROty0"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 140928,
       "name": "Diente de Le\u00f3n",
       "url": "https://open.spotify.com/track/2Ha5vGs7uWxVhHx3O8xdNe"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "La Malquerida",
+        "url": "https://open.spotify.com/album/3DHUbCkvnVbIE6vCpgoh6n"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 485717,
+      "name": "La Malquerida - En Vivo",
+      "url": "https://open.spotify.com/track/4ad6yyRJHSd0AGUmXU1mvQ"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1255,18 +1255,30 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Nada Importa",
-        "url": "https://open.spotify.com/album/7lFMgjDMyD4poD8JKfzI1b"
+        "name": "Aprender\u00e9 (en directo 2K23)",
+        "url": "https://open.spotify.com/album/4BvBdWiBKnVUDykNp41pKS"
       },
       "artists": [
         {
-          "name": "Lina de Sol",
-          "url": "https://open.spotify.com/artist/77dt3BFeJYkWqdRgJcFIJK"
+          "name": "La Otra",
+          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
+        },
+        {
+          "name": "La Muchacha",
+          "url": "https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV"
+        },
+        {
+          "name": "Briela Ojeda",
+          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
+        },
+        {
+          "name": "Jhana Beat",
+          "url": "https://open.spotify.com/artist/7a3ExgPUndI4Kyms3uVdAP"
         }
       ],
-      "duration_ms": 196331,
-      "name": "Nada Importa",
-      "url": "https://open.spotify.com/track/29FRWNC4lPdoyltN1mQ9oF"
+      "duration_ms": 221760,
+      "name": "Aprender\u00e9 - en directo 2K23",
+      "url": "https://open.spotify.com/track/20G79dCVtx58sxPVtD4Ik2"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1303,6 +1315,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
+        "name": "Nada Importa",
+        "url": "https://open.spotify.com/album/7lFMgjDMyD4poD8JKfzI1b"
+      },
+      "artists": [
+        {
+          "name": "Lina de Sol",
+          "url": "https://open.spotify.com/artist/77dt3BFeJYkWqdRgJcFIJK"
+        }
+      ],
+      "duration_ms": 196331,
+      "name": "Nada Importa",
+      "url": "https://open.spotify.com/track/29FRWNC4lPdoyltN1mQ9oF"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
         "name": "Milonga de Ojos Dorados (Alfredo Zitarrosa) [Live on Pardelion Music]",
         "url": "https://open.spotify.com/album/3ArBdhbnE1kVG9BpqUA6af"
       },
@@ -1319,34 +1347,6 @@
       "duration_ms": 161342,
       "name": "Milonga de Ojos Dorados (Alfredo Zitarrosa) - Live on Pardelion Music",
       "url": "https://open.spotify.com/track/0fAmpdONIYsxiP27CwnzLJ"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Aprender\u00e9 (en directo 2K23)",
-        "url": "https://open.spotify.com/album/4BvBdWiBKnVUDykNp41pKS"
-      },
-      "artists": [
-        {
-          "name": "La Otra",
-          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
-        },
-        {
-          "name": "La Muchacha",
-          "url": "https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV"
-        },
-        {
-          "name": "Briela Ojeda",
-          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
-        },
-        {
-          "name": "Jhana Beat",
-          "url": "https://open.spotify.com/artist/7a3ExgPUndI4Kyms3uVdAP"
-        }
-      ],
-      "duration_ms": 221760,
-      "name": "Aprender\u00e9 - en directo 2K23",
-      "url": "https://open.spotify.com/track/20G79dCVtx58sxPVtD4Ik2"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
+        "name": "Como el Mar",
+        "url": "https://open.spotify.com/album/1gFlYmZaY1CHMGjoD06AJY"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Cristina Plata",
+          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
+        }
+      ],
+      "duration_ms": 195744,
+      "name": "Corazoncito M\u00edo",
+      "url": "https://open.spotify.com/track/5FvSpXevbWSTjeGMoYxlDi"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
         "name": "La Despedida (feat. Valeria Castro)",
         "url": "https://open.spotify.com/album/6WabxigChTEsXqQ8bZekYm"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 180778,
       "name": "Un D\u00eda Lo Encontr\u00e9",
       "url": "https://open.spotify.com/track/6IPCxRPVXSXdfrubRNertw"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Como el Mar",
-        "url": "https://open.spotify.com/album/1gFlYmZaY1CHMGjoD06AJY"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Cristina Plata",
-          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
-        }
-      ],
-      "duration_ms": 195744,
-      "name": "Corazoncito M\u00edo",
-      "url": "https://open.spotify.com/track/5FvSpXevbWSTjeGMoYxlDi"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Despu\u00e9s de Todo: Compilado Latinoamericano",
-        "url": "https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Cristina Plata",
-          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
-        }
-      ],
-      "duration_ms": 183152,
-      "name": "Cuando los A\u00f1os Pasen",
-      "url": "https://open.spotify.com/track/6u1FdgL0eDeYOVrBxkvXF8"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "Laura Itandehui",
         "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
       },
@@ -1643,6 +1627,38 @@
       "duration_ms": 290250,
       "name": "Tratar\u00e9",
       "url": "https://open.spotify.com/track/5YFTXVQrrwNjykm9xMKdJK"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Kumbayeo (Lado A)",
+        "url": "https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid"
+      },
+      "artists": [
+        {
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
+        }
+      ],
+      "duration_ms": 197346,
+      "name": "Orquesta natural",
+      "url": "https://open.spotify.com/track/6OYqqoXiFcVeVBlB6HQGSe"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Despu\u00e9s de Todo: Compilado Latinoamericano",
+        "url": "https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Cristina Plata",
+          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
+        }
+      ],
+      "duration_ms": 183152,
+      "name": "Cuando los A\u00f1os Pasen",
+      "url": "https://open.spotify.com/track/6u1FdgL0eDeYOVrBxkvXF8"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1663,22 +1679,6 @@
       "duration_ms": 201878,
       "name": "Bossanova",
       "url": "https://open.spotify.com/track/2ZgGStsZYfObB9TnhGDMoa"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Kumbayeo (Lado A)",
-        "url": "https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid"
-      },
-      "artists": [
-        {
-          "name": "Salom\u00f3n Beda",
-          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
-        }
-      ],
-      "duration_ms": 197346,
-      "name": "Orquesta natural",
-      "url": "https://open.spotify.com/track/6OYqqoXiFcVeVBlB6HQGSe"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
+        "name": "Los N\u00e1ufragos",
+        "url": "https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 202680,
+      "name": "En Las Olas",
+      "url": "https://open.spotify.com/track/6d3SDtnXjcQ7l7qNJGx1hY"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
         "name": "D\u00eda de lluvia en Madrid",
         "url": "https://open.spotify.com/album/450jlpZf9Hg5o0w3EpqVqC"
       },
@@ -1787,22 +1803,6 @@
       "duration_ms": 238946,
       "name": "Una Fecha En El Calendario",
       "url": "https://open.spotify.com/track/5OXMu7jOqr8f6R2JLYNncO"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Los N\u00e1ufragos",
-        "url": "https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh"
-      },
-      "artists": [
-        {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        }
-      ],
-      "duration_ms": 202680,
-      "name": "En Las Olas",
-      "url": "https://open.spotify.com/track/6d3SDtnXjcQ7l7qNJGx1hY"
     },
     {
       "added_at": "2023-04-14 06:00:00",

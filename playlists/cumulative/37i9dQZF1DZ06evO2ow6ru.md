@@ -4,7 +4,7 @@
 
 > This is All Time Low\. The essential tracks, all in one playlist.
 
-54 songs - 2 hr 58 min
+55 songs - 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Favorite Place \(feat\. The Band CAMINO\)](https://open.spotify.com/track/2uVNn2pFpDlx1XrFcEfary) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [Wake Up, Sunshine](https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE) | 3:13 | 2023-03-19 |  |
 | [Ghost Story \(with All Time Low\)](https://open.spotify.com/track/2zgYAaDIic9iTLujB3FARq) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [HELLRAISERS, Part 2](https://open.spotify.com/album/0diNd1xPp5eiaugv9HRpYb) | 2:47 | 2023-03-19 |  |
 | [Good Times](https://open.spotify.com/track/3aAoy02NwrmZcqXYYjqNh2) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Last Young Renegade](https://open.spotify.com/album/0gpNGTVNivS2wB32tzV3OH) | 3:44 | 2023-03-19 |  |
-| [I'd Be Fine \(If I Never Saw You Again\)](https://open.spotify.com/track/4XHpjfFokgNyARkjUS79G9) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Tell Me I'm Alive](https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh) | 2:59 | 2023-03-19 |  |
+| [I'd Be Fine \(If I Never Saw You Again\)](https://open.spotify.com/track/4XHpjfFokgNyARkjUS79G9) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Tell Me I'm Alive](https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh) | 2:59 | 2023-03-19 | 2023-04-16 |
 | [If These Sheets Were States](https://open.spotify.com/track/3H2wle4LRMKgCWSYE6QgWF) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Don't Panic](https://open.spotify.com/album/78ZshSpqcIXyrYBJGgiPK0) | 3:19 | 2023-03-19 |  |
 | [Jenny I’m Sorry \(feat\. Alex Gaskarth From All Time Low\)](https://open.spotify.com/track/7gWkVS9Ku0zuzysPhFgK3w) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Alex Gaskarth](https://open.spotify.com/artist/5X0hXpGcJDZiGTpnGPWEm5), [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Jenny I’m Sorry \(feat\. Alex Gaskarth From All Time Low\)](https://open.spotify.com/album/0ZXvlRSS2w4jN1t0JD1BJ8) | 2:51 | 2023-03-19 |  |
 | [Kids In The Dark](https://open.spotify.com/track/50oS45iNMFp7pKIQRAWIUP) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Future Hearts](https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I) | 3:36 | 2023-03-19 |  |
@@ -53,6 +53,7 @@
 | [Something's Gotta Give](https://open.spotify.com/track/1SeefzwSDiFCjRWaBslRIj) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Future Hearts](https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I) | 3:09 | 2023-03-19 |  |
 | [Somewhere in Neverland](https://open.spotify.com/track/4RWAWUoPEcQk0QDj8JGmAz) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Don't Panic](https://open.spotify.com/album/78ZshSpqcIXyrYBJGgiPK0) | 3:45 | 2023-03-19 |  |
 | [Stella](https://open.spotify.com/track/6hmEzWnA6ny2rqVOpB5Hcb) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Nothing Personal \(Deluxe Version\)](https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I) | 3:24 | 2023-03-19 |  |
+| [Tell Me I’m Alive](https://open.spotify.com/track/1H4BiYE8G4XuaKpVxvtJ4n) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Tell Me I'm Alive](https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh) | 2:35 | 2023-04-15 |  |
 | [Tell Me I’m Alive](https://open.spotify.com/track/3Bzw0mcFyIcVgQbLfxbDGt) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Tell Me I’m Alive](https://open.spotify.com/album/4QaPQwoYarzNUuus6wBhCu) | 2:35 | 2023-03-19 | 2023-04-02 |
 | [The Other Side](https://open.spotify.com/track/5G9gFoH731xDHl73LHlZ8o) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Tell Me I'm Alive](https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh) | 2:47 | 2023-03-19 |  |
 | [The Reckless And The Brave](https://open.spotify.com/track/2oiPju78ZfnBRePyM95iq6) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Don't Panic](https://open.spotify.com/album/78ZshSpqcIXyrYBJGgiPK0) | 3:19 | 2023-03-22 |  |

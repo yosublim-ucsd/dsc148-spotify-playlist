@@ -4,7 +4,7 @@
 
 > Press play, press start.
 
-640 songs - 1 day 8 hr 23 min
+641 songs - 1 day 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [ESCAPE PLAN](https://open.spotify.com/track/7pRrJ5FxMQugmRQA5aas8H) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/2wYozzbtX2LsSeY4P6vAL0) | 2:29 | 2021-12-02 | 2022-01-12 |
 | [ESCAPE YOUR LOVE \(feat\. Trippie Redd\)](https://open.spotify.com/track/2dXQJ3cCBmaeX2QZVVh3cI) | [SSGKobe](https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [ESCAPE YOUR LOVE \(feat\. Trippie Redd\)](https://open.spotify.com/album/6aZ1P0WWtwVCRRW8tjyPfP) | 3:19 | 2022-03-18 | 2022-05-06 |
 | [Escapism.](https://open.spotify.com/track/5WxVXxCMRnvxUKFq40ELwq) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. \(Sped Up\)](https://open.spotify.com/album/1bdKI997loh6G68NED2cwX) | 4:32 | 2023-01-18 | 2023-04-15 |
+| [Escapism.](https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:32 | 2023-04-14 |  |
 | [Eternity \(feat\. Lena Leon\)](https://open.spotify.com/track/7DDIVNWlbGJpQjVDDg8rXR) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [Lena Leon](https://open.spotify.com/artist/0izKfMblL8LX6Bv2wG3Cy7) | [Eternity \(feat\. Lena Leon\)](https://open.spotify.com/album/7AKRqqkDVhqDZMwmcjBPiV) | 3:37 | 2022-03-11 | 2022-07-01 |
 | [Everybody Dies In Their Nightmares](https://open.spotify.com/track/3GVkPk8mqxz0itaAriG1L7) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 1:35 | 2021-11-10 | 2022-08-11 |
 | [Everything Black](https://open.spotify.com/track/3UEnF6y5tyHVtMzldS3svp) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga), [Mike Taylor](https://open.spotify.com/artist/30ejUciK31BCg0IVCbt1dW) | [Everything Black](https://open.spotify.com/album/65QMh46zprwhLoYR9vOlVz) | 3:48 | 2021-08-20 | 2022-01-09 |
@@ -638,7 +639,7 @@
 | [Wolves \(feat\. Post Malone\)](https://open.spotify.com/track/33gwZOGJWEZ7dRWPqPxBEZ) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Detroit 2](https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3) | 3:19 | 2021-08-20 | 2023-01-04 |
 | [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 | 2021-11-10 | 2022-06-19 |
 | [Work It \- Soulwax Remix](https://open.spotify.com/track/6WfL1pwMyFf3IvFWLnre4P) | [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Work It \(Soulwax Remix\)](https://open.spotify.com/album/074U95kLP3roPuXrpjTYtT) | 4:46 | 2022-03-19 | 2022-04-20 |
-| [WORTH NOTHING \- Fast & Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [WORTH NOTHING \(Fast & Furious: Drift Tape/Phonk Vol 1\)](https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI) | 2:44 | 2022-12-02 |  |
+| [WORTH NOTHING \- Fast & Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [WORTH NOTHING \(Fast & Furious: Drift Tape/Phonk Vol 1\)](https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI) | 2:44 | 2022-12-02 | 2023-04-16 |
 | [Wouldn’t Change A Thing](https://open.spotify.com/track/1nxolqTzRn39brCPRk5f8v) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Wouldn’t Change A Thing](https://open.spotify.com/album/6G2HZJQGGtURKxrOdf3czb) | 3:07 | 2021-11-05 | 2022-04-21 |
 | [Wow.](https://open.spotify.com/track/7xQAfvXzm3AkraOtGPWIZg) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 2:29 | 2021-08-20 | 2021-12-31 |
 | [Wrath](https://open.spotify.com/track/7KgyPFCEHf3Mm0CH6nY1yZ) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Wrath](https://open.spotify.com/album/4gKrjdPNDXqMalEdtn8YHE) | 1:53 | 2022-06-17 | 2022-06-19 |

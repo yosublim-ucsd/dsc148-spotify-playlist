@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 
 > Bringing the roaring 20s into the 2020s
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,428 likes - 120 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,592 likes - 120 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 84 | [Cookie Monster \- Radio Edit](https://open.spotify.com/track/4zU15t9fJ5J0ERwbS7tGA7) | [Atom Smith](https://open.spotify.com/artist/6ExlnA1FV2yvFCVlurHsc2), [Lamuzgueule](https://open.spotify.com/artist/41kO57U2yrvAWlng1p5g6g) | [Cookie Monster \(Atom Smith Remix\)](https://open.spotify.com/album/2A4LLbcPe9eVG7bmBDfuM4) | 3:27 |
 | 85 | [Shotgun Swing](https://open.spotify.com/track/4qitoWab2HSAZ9wFKkz1QZ) | [K.D.S](https://open.spotify.com/artist/5QscINCpyJkmsKEH5GBl88), [Stabfinger](https://open.spotify.com/artist/3neJn3rp5j5QGQqMxeK2Be), [Moonanga](https://open.spotify.com/artist/35onpfN6LssILnF0NE7Yg1), [Amina Annabi](https://open.spotify.com/artist/0syaepUD5LLHaIp2Kx1jJI) | [Shotgun Swing](https://open.spotify.com/album/1DBIMv3HoBhboUOZgEgdaR) | 4:37 |
 | 86 | [Chicago](https://open.spotify.com/track/6dQl63PQnUzMyESNW8uwo5) | [Mr\. Jazzek](https://open.spotify.com/artist/48ibaXmdU89j4rWWf6cdGh) | [Chicago](https://open.spotify.com/album/6olXsQBDjxPx9E53Rb0Ysi) | 2:44 |
-| 87 | [Mad Swing](https://open.spotify.com/track/71GQcDwhFboLeiFccQM3x9) | [DJ Mibor](https://open.spotify.com/artist/7wkjhjRAaChOE0hMghtlvc) | [Mad Swing](https://open.spotify.com/album/5HjXRmCThrSQsEdthLCIYk) | 4:00 |
+| 87 | [Mad Swing](https://open.spotify.com/track/2TgsiOuEXM1nEtGAMtVoFD) | [DJ Mibor](https://open.spotify.com/artist/7wkjhjRAaChOE0hMghtlvc) | [Mad Swing](https://open.spotify.com/album/0KWVTkbOqjpI5rnWDD9YfZ) | 4:00 |
 | 88 | [Loco](https://open.spotify.com/track/6C2oVz4VVcK8LJTWKhEfFn) | [Mr\. Jazzek](https://open.spotify.com/artist/48ibaXmdU89j4rWWf6cdGh) | [Loco](https://open.spotify.com/album/7B5WriVLhr9U53qfxVUcX6) | 2:58 |
 | 89 | [Swing in Spring \- Betty Booom Remix](https://open.spotify.com/track/6vO3EyfktDjOkCQPu9V4Ok) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Offbeat](https://open.spotify.com/artist/12KL2KtHU30NBJFMJSZZvA), [Nina Zeitlin](https://open.spotify.com/artist/4YRO8W8k2IdbUMNOgIfCSL), [Betty Booom](https://open.spotify.com/artist/0MCy2uUaKHn4iNMAih50Vg) | [Swing in Spring \(Betty Booom Remix\)](https://open.spotify.com/album/2VSca5LgyZPnQXNBa9Gc5J) | 2:54 |
 | 90 | [Swag Bag](https://open.spotify.com/track/0u7gdux7Ft6P69Uyj0pa4a) | [The Young Punx](https://open.spotify.com/artist/3gkX03yW2WrvcDMp04TKjN), [Guthrie Govan](https://open.spotify.com/artist/19MZg9MYc5xw08l09RCfrT) | [Electro Carousel Club Night \(Selected by Dr Cat\)](https://open.spotify.com/album/1fM5x33jVkuJiA1Hf3F5Jm) | 4:25 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 119 | [Rose](https://open.spotify.com/track/2CYKdqyzyGOK57fU9akmhI) | [Swingrowers](https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B) | [Rose](https://open.spotify.com/album/5Gq7HZLgyQlHUnAgxiwoOl) | 3:33 |
 | 120 | [Love!](https://open.spotify.com/track/6FU64m12iYGoyhPcFddZCZ) | [Swingrowers](https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B) | [Love!](https://open.spotify.com/album/73yHKsQVjzgJLgm7htHtWU) | 3:04 |
 
-Snapshot ID: `MTY4MDIzNTI2MCwwMDAwMDAwMGZmNGUwZjcwODA0OTViYjU4NzNlYjNjNGM4NmU1YTNl`
+Snapshot ID: `MTY4MDIzNTI2MCwwMDAwMDAwMGRiOTdlOTUwMWVjY2MxYTJkMGQ4OTE4YjM3MGE1ZGY1`

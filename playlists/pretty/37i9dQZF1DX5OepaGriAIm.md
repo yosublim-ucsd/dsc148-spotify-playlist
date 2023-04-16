@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OepaGriAIm.md) - [plain]
 
 > Trace the history of Jazz from timeless classics to boundary\-breaking contemporary favorites from the women of Jazz\. Cover: Diana Krall
 
-[Spotify](https://open.spotify.com/user/spotify) - 840,850 likes - 125 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 840,974 likes - 125 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OepaGriAIm.md) - [plain]
 | 14 | [Give Me The Simple Life](https://open.spotify.com/track/7Kc3hZoCRTs5dNHU7GqT9x) | [Lorez Alexandria](https://open.spotify.com/artist/5FxVAiCRSETyMMPV8MDaHY) | [Alexandria The Great](https://open.spotify.com/album/0mr9wOHzf0Pygckr8Mk0Q9) | 2:20 |
 | 15 | [I Just Want To Sing](https://open.spotify.com/track/6UFlo3RmCOhIMXDQvpivFf) | [Dorothy Donegan](https://open.spotify.com/artist/6jqglFaeowpFgQ8W1gfOIC) | [The Many Faces Of Dorothy Donegan](https://open.spotify.com/album/2XdJCeSUmOJN6REoTElVFN) | 3:27 |
 | 16 | [Don't Think Twice, It's Alright](https://open.spotify.com/track/6UeCjzfLUBhHOtney81sPn) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [The Beat Goes On](https://open.spotify.com/album/6L6CnGHpTnvj3BUf441OCh) | 4:40 |
-| 17 | ['Deed I Do](https://open.spotify.com/track/2dLM74n8z8UgW9NQhSbhm1) | [BLOSSOM DEARIE](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Blossom Dearie \(Expanded Edition\)](https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6) | 2:13 |
+| 17 | ['Deed I Do](https://open.spotify.com/track/2dLM74n8z8UgW9NQhSbhm1) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Blossom Dearie \(Expanded Edition\)](https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6) | 2:13 |
 | 18 | [Willow Weep For Me](https://open.spotify.com/track/2LHaIw3mxrbKbiZnEnGpvJ) | [Dakota Staton](https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx) | [Time To Swing](https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko) | 2:30 |
 | 19 | [I Didn't Know What Time It Was](https://open.spotify.com/track/5FpmRoCduqD28smrRs6mdl) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [WomanChild](https://open.spotify.com/album/5JE6HnCPJ9is6pnewMaaSe) | 6:07 |
 | 20 | [Hit The Ground](https://open.spotify.com/track/5xfRRvZe2OqiU4sXcUUUZ9) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Dreaming Wide Awake](https://open.spotify.com/album/72kU4Ko701eDu4wWDBSrks) | 3:30 |

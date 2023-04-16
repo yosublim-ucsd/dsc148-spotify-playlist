@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/keithpowers/\">Keith Powers</a>",
-  "num_followers": 43217,
+  "num_followers": 43392,
   "original_name": "Keith Power's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDc2OTYwMCwwMDAwMDAwMDUzZjVjOGE3M2QxYzg4NGFmMDIzMmMxZDMyMDc3OWQ4",
+  "snapshot_id": "MTY2NDc2OTYwMCwwMDAwMDAwMDk5MGY0NjYzNzhkNDFiMWZkODBjNTYxMjFiNzE0MDEx",
   "tracks": [
     {
       "added_at": "2022-10-03 04:00:00",
@@ -315,22 +315,6 @@
     {
       "added_at": "2022-10-03 04:00:00",
       "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 260769,
-      "name": "HEATED",
-      "url": "https://open.spotify.com/track/1w7cgGZR86yWz1pA2puVJD"
-    },
-    {
-      "added_at": "2022-10-03 04:00:00",
-      "album": {
         "name": "Settle (Deluxe)",
         "url": "https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 255866,
       "name": "Latch",
       "url": "https://open.spotify.com/track/1DunhgeZSEgWiIYbHqXl0c"
+    },
+    {
+      "added_at": "2022-10-03 04:00:00",
+      "album": {
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 260769,
+      "name": "HEATED",
+      "url": "https://open.spotify.com/track/1w7cgGZR86yWz1pA2puVJD"
     },
     {
       "added_at": "2022-10-03 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Si la salsa se cruza con la chamba... \u00a1s\u00fabele a la bocina!",
-  "num_followers": 28093,
+  "num_followers": 28174,
   "original_name": "Chambeando con Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQwNDAwMCwwMDAwMDAwMDhlYjBiZTg1MGNkY2UwZDdhNDY4Mzk2M2NjNjkyYWEz",
+  "snapshot_id": "MTY3NTQwNDAwMCwwMDAwMDAwMDcyNjEwODJlYjcxNGQ1OGYwNzI5MzQ3MTQ1Y2FkYzll",
   "tracks": [
     {
       "added_at": "2023-02-03 06:00:00",
@@ -93,22 +93,6 @@
       "url": "https://open.spotify.com/track/2naqSVQHgiaoEpxtkVOhmK"
     },
     {
-      "added_at": "2023-02-03 06:00:00",
-      "album": {
-        "name": "De Qu\u00e9 Manera",
-        "url": "https://open.spotify.com/album/6XBq5DhffYApT0TGZAQ9cH"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 193125,
-      "name": "De Qu\u00e9 Manera",
-      "url": "https://open.spotify.com/track/3HMlb6Dh9OGr3CjV6IwjEP"
-    },
-    {
       "added_at": "2022-08-02 22:53:13",
       "album": {
         "name": "Sex Symbol",
@@ -123,6 +107,22 @@
       "duration_ms": 343353,
       "name": "La Noche Mas Linda",
       "url": "https://open.spotify.com/track/3scW7pt0vlhkCCgCNv5YR9"
+    },
+    {
+      "added_at": "2023-02-03 06:00:00",
+      "album": {
+        "name": "De Qu\u00e9 Manera",
+        "url": "https://open.spotify.com/album/6XBq5DhffYApT0TGZAQ9cH"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 193125,
+      "name": "De Qu\u00e9 Manera",
+      "url": "https://open.spotify.com/track/3HMlb6Dh9OGr3CjV6IwjEP"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -727,6 +727,22 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
+        "name": "Luchar\u00e9",
+        "url": "https://open.spotify.com/album/2TLAq5snR8KdndLMVCzHC4"
+      },
+      "artists": [
+        {
+          "name": "Mickey Taveras",
+          "url": "https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm"
+        }
+      ],
+      "duration_ms": 295626,
+      "name": "A Pesar del Tiempo",
+      "url": "https://open.spotify.com/track/1UAnqYmOWtyVXNOA8cPQ8r"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
         "name": "Que Bueno",
         "url": "https://open.spotify.com/album/03402zoYuwCwfeQ2MLg6St"
       },
@@ -743,18 +759,18 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "Luchar\u00e9",
-        "url": "https://open.spotify.com/album/2TLAq5snR8KdndLMVCzHC4"
+        "name": "30 Exitos Insuperables",
+        "url": "https://open.spotify.com/album/7DXKWP4a12stMxz3idZZl2"
       },
       "artists": [
         {
-          "name": "Mickey Taveras",
-          "url": "https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm"
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
         }
       ],
-      "duration_ms": 295626,
-      "name": "A Pesar del Tiempo",
-      "url": "https://open.spotify.com/track/1UAnqYmOWtyVXNOA8cPQ8r"
+      "duration_ms": 264933,
+      "name": "Hasta Aqu\u00ed Te Fui Fiel",
+      "url": "https://open.spotify.com/track/7zridhiD9txjjYAcDoC0qY"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -775,22 +791,6 @@
       "duration_ms": 312480,
       "name": "En Barranquilla Me Quedo",
       "url": "https://open.spotify.com/track/3WXfQDsASfXrSojk9WB3aR"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
-        "name": "30 Exitos Insuperables",
-        "url": "https://open.spotify.com/album/7DXKWP4a12stMxz3idZZl2"
-      },
-      "artists": [
-        {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
-        }
-      ],
-      "duration_ms": 264933,
-      "name": "Hasta Aqu\u00ed Te Fui Fiel",
-      "url": "https://open.spotify.com/track/7zridhiD9txjjYAcDoC0qY"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "Por el Buen Camino",
-        "url": "https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3"
-      },
-      "artists": [
-        {
-          "name": "Ismael Miranda",
-          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
-        }
-      ],
-      "duration_ms": 311733,
-      "name": "Caretas",
-      "url": "https://open.spotify.com/track/6CJAk19Xw9rXoUy1Egshpe"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
         "name": "Aut\u00e9ntico",
         "url": "https://open.spotify.com/album/7cOFsHGVbn6SwAQwHC49ov"
       },
@@ -1023,18 +1007,18 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "Mi Raz\u00f3n de Ser",
-        "url": "https://open.spotify.com/album/0CdhFwicPfGBbNQx7qdCx7"
+        "name": "Por el Buen Camino",
+        "url": "https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3"
       },
       "artists": [
         {
-          "name": "Alvaro Ricardo",
-          "url": "https://open.spotify.com/artist/0fbbEqifegSE79DPPgeg8f"
+          "name": "Ismael Miranda",
+          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
         }
       ],
-      "duration_ms": 261600,
-      "name": "Por Qu\u00e9 Ser\u00e1?",
-      "url": "https://open.spotify.com/track/0vGGu88Cicm2MpV1MfMh8Z"
+      "duration_ms": 311733,
+      "name": "Caretas",
+      "url": "https://open.spotify.com/track/6CJAk19Xw9rXoUy1Egshpe"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -1055,6 +1039,22 @@
       "duration_ms": 294000,
       "name": "El Preso",
       "url": "https://open.spotify.com/track/1Fp4njyRHJYyMTKP899c0q"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
+        "name": "Mi Raz\u00f3n de Ser",
+        "url": "https://open.spotify.com/album/0CdhFwicPfGBbNQx7qdCx7"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Ricardo",
+          "url": "https://open.spotify.com/artist/0fbbEqifegSE79DPPgeg8f"
+        }
+      ],
+      "duration_ms": 261600,
+      "name": "Por Qu\u00e9 Ser\u00e1?",
+      "url": "https://open.spotify.com/track/0vGGu88Cicm2MpV1MfMh8Z"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "Exitos Eternos",
-        "url": "https://open.spotify.com/album/3fyopvDCAQpZIJrCCIz6dx"
-      },
-      "artists": [
-        {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
-        }
-      ],
-      "duration_ms": 308013,
-      "name": "De M\u00ed Enam\u00f3rate",
-      "url": "https://open.spotify.com/track/45oxZMWNjH5Ft8QSjUuQkb"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
         "name": "Enam\u00f3rate Bailando",
         "url": "https://open.spotify.com/album/3jABMVgOsgCpEggqrdFc6y"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 276581,
       "name": "Fr\u00e1gil",
       "url": "https://open.spotify.com/track/3QXFOKlokWXMh2x9Q29764"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
+        "name": "Exitos Eternos",
+        "url": "https://open.spotify.com/album/3fyopvDCAQpZIJrCCIz6dx"
+      },
+      "artists": [
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        }
+      ],
+      "duration_ms": 308013,
+      "name": "De M\u00ed Enam\u00f3rate",
+      "url": "https://open.spotify.com/track/45oxZMWNjH5Ft8QSjUuQkb"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "14 Ca\u00f1onazos Bailables 2001",
-        "url": "https://open.spotify.com/album/6qv4XGcL5YzbSpAgmzYSfS"
-      },
-      "artists": [
-        {
-          "name": "Sonora Carruseles",
-          "url": "https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS"
-        }
-      ],
-      "duration_ms": 216146,
-      "name": "Arranca En Fa",
-      "url": "https://open.spotify.com/track/5ChULaTmIYylzL3lrrzuhf"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/4zAgB7K2I3oeUufUpSHwOZ"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 414706,
       "name": "El Gran Var\u00f3n",
       "url": "https://open.spotify.com/track/22nCrqu1Bd7abghLtJrf6w"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
+        "name": "14 Ca\u00f1onazos Bailables 2001",
+        "url": "https://open.spotify.com/album/6qv4XGcL5YzbSpAgmzYSfS"
+      },
+      "artists": [
+        {
+          "name": "Sonora Carruseles",
+          "url": "https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS"
+        }
+      ],
+      "duration_ms": 216146,
+      "name": "Arranca En Fa",
+      "url": "https://open.spotify.com/track/5ChULaTmIYylzL3lrrzuhf"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "Perspectiva",
-        "url": "https://open.spotify.com/album/0pJibLMJonjwGRZDhDHawD"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 332093,
-      "name": "Conciencia",
-      "url": "https://open.spotify.com/track/6Fxn2ZdlXbKesbhxHbHa9p"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
         "name": "Grandes Exitos de Salsa",
         "url": "https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 252826,
       "name": "Sobredosis",
       "url": "https://open.spotify.com/track/0Ncmfi9ff3wTC87zGHAAKE"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
+        "name": "Perspectiva",
+        "url": "https://open.spotify.com/album/0pJibLMJonjwGRZDhDHawD"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 332093,
+      "name": "Conciencia",
+      "url": "https://open.spotify.com/track/6Fxn2ZdlXbKesbhxHbHa9p"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "El Caballero De La Salsa - La Historia Tropical",
-        "url": "https://open.spotify.com/album/4AKdvM4gN7a6EWtBywDVcA"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 266786,
-      "name": "Conteo Regresivo - Salsa Version",
-      "url": "https://open.spotify.com/track/7uNNpyYnWFeUPO3h5jIgIc"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
         "name": "Enam\u00f3rate Bailando",
         "url": "https://open.spotify.com/album/3jABMVgOsgCpEggqrdFc6y"
       },
@@ -1587,6 +1571,22 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
+        "name": "Grandes Exitos de Salsa",
+        "url": "https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E"
+      },
+      "artists": [
+        {
+          "name": "Los Titanes",
+          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
+        }
+      ],
+      "duration_ms": 291106,
+      "name": "Por Retenerte",
+      "url": "https://open.spotify.com/track/3Zlp3GGVJwQxpNmUy7TBxS"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
         "name": "Salsa Estelar",
         "url": "https://open.spotify.com/album/00TVXvhvENeaYgeHGzH157"
       },
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "Grandes Exitos de Salsa",
-        "url": "https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E"
+        "name": "El Caballero De La Salsa - La Historia Tropical",
+        "url": "https://open.spotify.com/album/4AKdvM4gN7a6EWtBywDVcA"
       },
       "artists": [
         {
-          "name": "Los Titanes",
-          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
         }
       ],
-      "duration_ms": 291106,
-      "name": "Por Retenerte",
-      "url": "https://open.spotify.com/track/3Zlp3GGVJwQxpNmUy7TBxS"
+      "duration_ms": 266786,
+      "name": "Conteo Regresivo - Salsa Version",
+      "url": "https://open.spotify.com/track/7uNNpyYnWFeUPO3h5jIgIc"
     },
     {
       "added_at": "2022-08-02 22:53:13",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2022-08-02 22:53:13",
       "album": {
-        "name": "Al Son Que Me Toquen, Vol. 1",
-        "url": "https://open.spotify.com/album/46dVNivZJ0eDzZf5Ciqc4i"
-      },
-      "artists": [
-        {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
-        }
-      ],
-      "duration_ms": 283924,
-      "name": "Mia",
-      "url": "https://open.spotify.com/track/7rHFlEWOFJYn60AybSRj02"
-    },
-    {
-      "added_at": "2022-08-02 22:53:13",
-      "album": {
         "name": "Historia M\u00fasical - 30 \u00c9xitos",
         "url": "https://open.spotify.com/album/1xNSKvjq7Te0taB7oyocdj"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 237253,
       "name": "Las Cale\u00f1as Son Como las Flores",
       "url": "https://open.spotify.com/track/1gntkHoZ8rdpeeVxLbQ6oF"
+    },
+    {
+      "added_at": "2022-08-02 22:53:13",
+      "album": {
+        "name": "Al Son Que Me Toquen, Vol. 1",
+        "url": "https://open.spotify.com/album/46dVNivZJ0eDzZf5Ciqc4i"
+      },
+      "artists": [
+        {
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+        }
+      ],
+      "duration_ms": 283924,
+      "name": "Mia",
+      "url": "https://open.spotify.com/track/7rHFlEWOFJYn60AybSRj02"
     },
     {
       "added_at": "2022-08-02 22:53:13",

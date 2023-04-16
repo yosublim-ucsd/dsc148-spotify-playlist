@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 
 > ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: Conexión Divina
 
-[Spotify](https://open.spotify.com/user/spotify) - 503,222 likes - 65 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 503,217 likes - 65 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 38 | [Sangre De Gorilla](https://open.spotify.com/track/3pfkSqEtTtNvhxBVK79wZD) | [Michelle BI](https://open.spotify.com/artist/2dUVZnenljNsORRkO4OnzM) | [Sangre De Gorilla](https://open.spotify.com/album/1h1yedEryTGVq4wGIM5xjM) | 3:00 |
 | 39 | [Soy Mala](https://open.spotify.com/track/10pyLImhmwLQcl3G4ahJZB) | [Lluvia Arámbula](https://open.spotify.com/artist/1GNHRCTZBHUf8rYfPTjT92) | [Adrenalina](https://open.spotify.com/album/4806StxcG6kpJXdGwMH9Tc) | 1:57 |
 | 40 | [Te fallaste a ti](https://open.spotify.com/track/7tI5fhqWwyphmVVAmiAyg6) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P), [Banda las Angelinas](https://open.spotify.com/artist/6jSN6llBjMrAcneqaOvUtp) | [Te fallaste a ti](https://open.spotify.com/album/6FjWfoVLhv46wEtQ52IKdH) | 3:02 |
-| 41 | [JGL \(En Vivo\)](https://open.spotify.com/track/4FzRo5Y4DbzFR0fLS8yUj4) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [JGL \(En Vivo\)](https://open.spotify.com/album/4PLBipDpht78qYtb1j7msz) | 2:46 |
-| 42 | [En Mil Cosas \- En Vivo](https://open.spotify.com/track/048c1vHlRPl2mD86C4fx3m) | [Lili Zetina](https://open.spotify.com/artist/1At8hpss4elY0GBg2qP31j) | [En Mil Cosas \(En Vivo\)](https://open.spotify.com/album/3ubgBWnTXQHbo9pGYvqyaL) | 3:14 |
+| 41 | [En Mil Cosas \- En Vivo](https://open.spotify.com/track/048c1vHlRPl2mD86C4fx3m) | [Lili Zetina](https://open.spotify.com/artist/1At8hpss4elY0GBg2qP31j) | [En Mil Cosas \(En Vivo\)](https://open.spotify.com/album/3ubgBWnTXQHbo9pGYvqyaL) | 3:14 |
+| 42 | [JGL \(En Vivo\)](https://open.spotify.com/track/4FzRo5Y4DbzFR0fLS8yUj4) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [JGL \(En Vivo\)](https://open.spotify.com/album/4PLBipDpht78qYtb1j7msz) | 2:46 |
 | 43 | [El Chico Aquel](https://open.spotify.com/track/3AiXSswmE5CCsFN8brUd92) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN) | [El Chico Aquel](https://open.spotify.com/album/2qcqsiuYR9K2JVfPfpkcgd) | 2:40 |
 | 44 | [Ni El Dinero Ni Nada \- En Vivo](https://open.spotify.com/track/70Z5TUJaJ3G9335olKP7SL) | [Janely Rosa](https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF) | [Ni El Dinero Ni Nada \(En Vivo\)](https://open.spotify.com/album/7g5OiP73DVPgH2y0YcrKAP) | 2:30 |
 | 45 | [Empoderada](https://open.spotify.com/track/7n7NCdkIoSDB5VTazPcKFP) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Empoderada](https://open.spotify.com/album/5BO9Ecu5Qk8t5Z7MBhXSWD) | 2:44 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 49 | [Te Me Sigues Antojando](https://open.spotify.com/track/1lmHmsQN66qHztoYgWrzZy) | [Vicky Terrazas](https://open.spotify.com/artist/4DklMZnSnGfzavNx8P02VG) | [Te Me Sigues Antojando](https://open.spotify.com/album/5MmoawkYlXuROoreINB1k6) | 3:05 |
 | 50 | [Muy Buena o Estúpida](https://open.spotify.com/track/6BvnqnmSLdAOVc3OxNziik) | [Karina Catalán](https://open.spotify.com/artist/21HVFYVJPwDz60bgjZ84Nx) | [Pa' Nosotras 8M](https://open.spotify.com/album/134W5TBnMj7LOuxl0LfT01) | 3:00 |
 | 51 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/6ex9LS8VuDouZ5hMI3Pk7G) | [Sandra Echeverria](https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31) | [Se Me Olvidó Otra Vez](https://open.spotify.com/album/1078OuldARhl2eXmoYAR0f) | 3:30 |
-| 52 | [G\. Blanco](https://open.spotify.com/track/3TjdNdUfbY6udjKPRZTUS8) | [GiGi](https://open.spotify.com/artist/4EK7mMUmKiGrNRC2ap3Dg8) | [G\. Blanco](https://open.spotify.com/album/0lF7zHfnHCcTOafAqm3TBZ) | 2:58 |
-| 53 | [En Carne Viva](https://open.spotify.com/track/0576T1N3lsfD2ImwFrW1tO) | [Paola Preciado](https://open.spotify.com/artist/1zG5D5npyMFrKi3TQRXaNP), [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD) | [En Carne Viva](https://open.spotify.com/album/2MOtc63fVOckXi8FrW19Di) | 3:23 |
+| 52 | [En Carne Viva](https://open.spotify.com/track/0576T1N3lsfD2ImwFrW1tO) | [Paola Preciado](https://open.spotify.com/artist/1zG5D5npyMFrKi3TQRXaNP), [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD) | [En Carne Viva](https://open.spotify.com/album/2MOtc63fVOckXi8FrW19Di) | 3:23 |
+| 53 | [G\. Blanco](https://open.spotify.com/track/3TjdNdUfbY6udjKPRZTUS8) | [GiGi](https://open.spotify.com/artist/4EK7mMUmKiGrNRC2ap3Dg8) | [G\. Blanco](https://open.spotify.com/album/0lF7zHfnHCcTOafAqm3TBZ) | 2:58 |
 | 54 | [Le Cale A Quien Le Cale](https://open.spotify.com/track/2nhM06RQQ8uY8s0JdCBKod) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Le Cale A Quien Le Cale](https://open.spotify.com/album/39KCoeSQExkWfgYx4UuvQn) | 2:32 |
 | 55 | [Por Confiar En El Amor](https://open.spotify.com/track/3tQbxSWtiQH65UIKrvScfn) | [Alessa](https://open.spotify.com/artist/61HwcQ9XsPkPsixuKneV5T) | [Por Confiar En El Amor](https://open.spotify.com/album/0cuBvItc5BUgQWh0WJ7pW6) | 2:46 |
 | 56 | [Fayer](https://open.spotify.com/track/3vnA3XGgCmYuDJBJ5GyTPn) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [Fayer](https://open.spotify.com/album/2YCkZ9WQZ8Ctz0tI4L7MIB) | 3:04 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 64 | [Ya Tengo Con Quien](https://open.spotify.com/track/6IM22e1Hz9RP3iKLaIuvaQ) | [Itzel Vida](https://open.spotify.com/artist/60PTHScdfpSSM2RcN0CpUC) | [Ya Tengo Con Quien](https://open.spotify.com/album/4RAkuPeLPfeHhujFrjiliU) | 3:43 |
 | 65 | [Piénsalo](https://open.spotify.com/track/2tVvId1E6EEz4F9VPQVlpY) | [Tania Mondragon](https://open.spotify.com/artist/1mHfQxhZrANBQkHBbD58mL) | [Piénsalo](https://open.spotify.com/album/2K2CxnJMFq7GArkg29Iksl) | 2:03 |
 
-Snapshot ID: `MTY4MTQ2MDg2NCwwMDAwMDAwMGY1OWM1Mjg1NDA2ZGJmNjE4YjM4MTdjMjEwMTBhNDZi`
+Snapshot ID: `MTY4MTQ2MDg2NCwwMDAwMDAwMDY3NDg3NGJiYzNmYjlhYjc5YzM1ZTZiYTRmMGZiNWJi`

@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [19 in a Week](https://open.spotify.com/track/3rhwcOaX6HbsUmZCizAc06) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Young & Naive](https://open.spotify.com/album/1TxGtjJWDD0k1WZPHmnNMJ) | 3:13 | 2023-01-20 |  |
+| [19 in a Week](https://open.spotify.com/track/3rhwcOaX6HbsUmZCizAc06) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Young & Naive](https://open.spotify.com/album/1TxGtjJWDD0k1WZPHmnNMJ) | 3:13 | 2023-01-20 | 2023-04-16 |
 | [1998](https://open.spotify.com/track/0DdNKXYhsBBrHsUyMOdRaa) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [1998](https://open.spotify.com/album/1uWEdiOlz8bwBOl1Mho0ap) | 3:44 | 2022-03-31 |  |
 | [1998](https://open.spotify.com/track/47MROyFG8jq21LcLQ1LBJK) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [1998](https://open.spotify.com/album/41ljfNmEQXIAbILyuedp4i) | 3:44 | 2022-01-21 | 2022-07-29 |
 | [7](https://open.spotify.com/track/1MoDk4XDqdX25GXaRfXY2O) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Ride](https://open.spotify.com/album/6PrcsM0LNzEYEmxvLNTJQN) | 4:16 | 2022-01-21 | 2022-07-29 |
@@ -101,7 +101,7 @@
 | [Go](https://open.spotify.com/track/2GuXIMRlaxVLcU0a5jacHw) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:26 | 2022-01-21 |  |
 | [Go It Alone](https://open.spotify.com/track/7LGM9nZtJZA2EDk4EeA17H) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Guero \(International Version\)](https://open.spotify.com/album/696rc2CjDogog1gvi1QVFL) | 4:08 | 2022-01-21 | 2022-07-29 |
 | [Go It Alone](https://open.spotify.com/track/7zeCIWu37bKFJuem8MTyM1) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Guero](https://open.spotify.com/album/2EugWXUZjr78KJFqZavvZT) | 4:08 | 2022-03-31 |  |
-| [Gun](https://open.spotify.com/track/09PEwXveUXcDYCDXLQToXE) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [The Bones of What You Believe](https://open.spotify.com/album/5RXMsB6VV6NfaspYWsdPyD) | 3:53 | 2022-09-30 | 2023-02-28 |
+| [Gun](https://open.spotify.com/track/09PEwXveUXcDYCDXLQToXE) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [The Bones of What You Believe](https://open.spotify.com/album/5RXMsB6VV6NfaspYWsdPyD) | 3:53 | 2022-09-30 |  |
 | [Gun](https://open.spotify.com/track/2jc0zOHNHAlechpt2H6unt) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [The Bones Of What You Believe](https://open.spotify.com/album/03U41p2XNP3oP3REeEDMrQ) | 3:53 | 2022-01-21 | 2022-07-29 |
 | [Gun](https://open.spotify.com/track/4cTVAIFH1zGNQFFRFMCzsd) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [The Bones of What You Believe](https://open.spotify.com/album/7mYtNRrdUIZZymc5epjYHE) | 3:53 | 2022-03-31 | 2022-10-13 |
 | [HandClap](https://open.spotify.com/track/1YHRZssNRDMughU6Jjwkcv) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Indie Summer](https://open.spotify.com/album/0p07dNjSO5rLvh9yUFTb7V) | 3:13 | 2022-09-30 | 2022-11-13 |

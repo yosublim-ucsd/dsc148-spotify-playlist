@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWhA27mtRFK.md) - [plain]
 
 > Open your mind to these classics from the golden era of New Age music\. Deuter on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,019 likes - 56 songs - 9 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,117 likes - 56 songs - 9 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lovesong from the Mountains](https://open.spotify.com/track/3MJd5S8ZIUp19dVvKxgNoe) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Koyasan: Reiki Sound Healing](https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD) | 7:58 |
-| 2 | [In the magic of Cosmos](https://open.spotify.com/track/6l6eGJDCe2d0sEsgJNi2cU) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [In the magic of Cosmos](https://open.spotify.com/album/4TAdRpNFxDNE2Y36OfPXS1) | 2:07 |
+| 2 | [Vangelis: In the magic of Cosmos](https://open.spotify.com/track/6l6eGJDCe2d0sEsgJNi2cU) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [In the magic of Cosmos](https://open.spotify.com/album/4TAdRpNFxDNE2Y36OfPXS1) | 2:07 |
 | 3 | [Only Time](https://open.spotify.com/track/6FLwmdmW77N1Pxb1aWsZmO) | [Enya](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4) | [A Day Without Rain](https://open.spotify.com/album/2ioso1tqQ5zABQDVYyiUi5) | 3:38 |
 | 4 | [Novus Pt\. 1: Ascent](https://open.spotify.com/track/4yhY9LhY4SLqzdOELAEgDP) | [Constance Demby](https://open.spotify.com/artist/5s35MWEbQRtTObpESta73a) | [Novus Magnificat \(Alternate Version\)](https://open.spotify.com/album/5qvqdmI2weOLkMU4fyuoxB) | 5:12 |
 | 5 | [The Way Home](https://open.spotify.com/track/1sWNTVYnz0xbo3AWtBuM2m) | [Kevin Braheny](https://open.spotify.com/artist/1YcWvzUpcRBv85LisrnA0D) | [The Way Home](https://open.spotify.com/album/2QDMuThy1sVnQzLm7qffIM) | 24:53 |

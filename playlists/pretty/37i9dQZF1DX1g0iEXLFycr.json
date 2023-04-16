@@ -1,12 +1,12 @@
 {
   "description": "Uplifting anthems to power you through 'til the weekend.",
-  "num_followers": 1070331,
+  "num_followers": 1070389,
   "original_name": "Feel Good Friday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5ODU0NDYyNSwwMDAwMDAwMDFlODhjZjI4NDJmODJhYmQ5ZGVlMWUzNzVmNDBmOWNj",
+  "snapshot_id": "MTU5ODU0NDYyNSwwMDAwMDAwMGUxZDQ2ZGU0ZTNlZjg5Njk1MmE0YzI2NzYxNDYzNDdi",
   "tracks": [
     {
       "added_at": "2020-08-27 16:10:25",
@@ -135,22 +135,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Dream Your Life Away (Special Edition)",
-        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 204280,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "18 Months",
         "url": "https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 206413,
       "name": "Feel So Close - Radio Edit",
       "url": "https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "The Best Of M People",
-        "url": "https://open.spotify.com/album/1AUt6QIAn6HmaNhTCmKQ1D"
-      },
-      "artists": [
-        {
-          "name": "M People",
-          "url": "https://open.spotify.com/artist/3lcbKPLl0ci2mKRdcP5Etf"
-        }
-      ],
-      "duration_ms": 215533,
-      "name": "Moving on Up",
-      "url": "https://open.spotify.com/track/6vGW3d8X48CBaLdU0PQbey"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "Hello",
         "url": "https://open.spotify.com/album/7FbPwQGriWa8IT4u6RxjWK"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 227146,
       "name": "Brokenhearted",
       "url": "https://open.spotify.com/track/4urcG6Nfubqsuqy3juMjBi"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "The Best Of M People",
+        "url": "https://open.spotify.com/album/1AUt6QIAn6HmaNhTCmKQ1D"
+      },
+      "artists": [
+        {
+          "name": "M People",
+          "url": "https://open.spotify.com/artist/3lcbKPLl0ci2mKRdcP5Etf"
+        }
+      ],
+      "duration_ms": 215533,
+      "name": "Moving on Up",
+      "url": "https://open.spotify.com/track/6vGW3d8X48CBaLdU0PQbey"
     },
     {
       "added_at": "2020-08-27 16:10:25",

@@ -4,7 +4,7 @@
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 
-375 songs - 23 hr 39 min
+376 songs - 23 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,6 +331,7 @@
 | [The Reckoning](https://open.spotify.com/track/4GSjFSK1SM78wPTVbsSB0S) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Jacoby Shaddix](https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U) | [The Reckoning](https://open.spotify.com/album/2UAqWPHRSXHBHkCxsL3oMj) | 4:11 | 2021-11-12 |  |
 | [The Remedy](https://open.spotify.com/track/63GJDO5mxiFP1ZQEpdUWRd) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [The Mortal Coil](https://open.spotify.com/album/1bxVLZDxByhblJftVPTddl) | 4:03 | 2022-06-17 |  |
 | [The Remedy](https://open.spotify.com/track/69ow35I1jI6gYI45H1Bw7e) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [The Mortal Coil](https://open.spotify.com/album/5aaWL7zYiYR0421K3UTmX1) | 4:03 | 2021-11-12 | 2022-07-29 |
+| [The Shape of Water](https://open.spotify.com/track/1TQCfN9QDURXA14PlJs4x5) | [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0), [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [The Shape of Water](https://open.spotify.com/album/30AACekoL1ZM6gXtPE7GHN) | 3:34 | 2023-04-04 |  |
 | [The Shift](https://open.spotify.com/track/4kRDWcWcBlkcQNoWyWSkTg) | [10 Years](https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph) | [Violent Allies](https://open.spotify.com/album/34nWFoHeBOhMZG7iC4AAtW) | 3:00 | 2022-06-17 |  |
 | [The Shift](https://open.spotify.com/track/6kHDKPCxgANtgHbZ84Lc0B) | [10 Years](https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph) | [The Shift](https://open.spotify.com/album/2qIdZyANJmQeSTTxyuwF1R) | 3:00 | 2021-11-12 | 2022-07-29 |
 | [The Summoning](https://open.spotify.com/track/1yCE0X5qLWOrLkR8NC0ZUJ) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [The Summoning](https://open.spotify.com/album/42fcciBOkkvnEu8dN7mByX) | 6:35 | 2023-02-17 |  |
@@ -351,7 +352,7 @@
 | [Unsainted](https://open.spotify.com/track/2093eVNfimjmNjU1gk1ES7) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Unsainted](https://open.spotify.com/album/6OmUwiZBss5csDAD3IAhdD) | 4:20 | 2021-11-12 | 2022-07-28 |
 | [Unsainted](https://open.spotify.com/track/5mpUKTdskZea0gStWzeHUZ) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [We Are Not Your Kind](https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju) | 4:20 | 2022-06-17 | 2022-11-03 |
 | [Until the World Goes Cold](https://open.spotify.com/track/1hPKSQuvfLlPeIu8xhRyTf) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Silence in the Snow \(Special Edition\)](https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI) | 5:21 | 2022-11-02 |  |
-| [Untouchable](https://open.spotify.com/track/2dWqxUeIO2kM45lHMLOz9J) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv), [Jacoby Shaddix](https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U) | [Baptize](https://open.spotify.com/album/7gSn76j4IpgrhL9r7mNlTL) | 3:05 | 2022-07-13 |  |
+| [Untouchable](https://open.spotify.com/track/2dWqxUeIO2kM45lHMLOz9J) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv), [Jacoby Shaddix](https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U) | [Baptize](https://open.spotify.com/album/7gSn76j4IpgrhL9r7mNlTL) | 3:05 | 2022-07-13 | 2023-04-16 |
 | [Uprise](https://open.spotify.com/track/6b9pDaMgmYARNR25XCXbj4) | [Kingdom Collapse](https://open.spotify.com/artist/5OA7FiSNGhsL2ryfAtarP4) | [Uprise](https://open.spotify.com/album/6eHPDy2VsYcvOqQVrfKAK9) | 2:46 | 2021-11-12 | 2022-07-29 |
 | [Vice Grip](https://open.spotify.com/track/6ImePfz0yslIWLPQ7cQIYA) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Ire \(Deluxe Edition\)](https://open.spotify.com/album/2TecLVINEJwpDnWepQuMXr) | 4:23 | 2022-04-04 | 2022-07-08 |
 | [Violent Mood Swings](https://open.spotify.com/track/1N7TzkwA9JiEMYBdS3EVLJ) | [Spineshank](https://open.spotify.com/artist/6fmbbxNvgHkglIakp1Wrv4) | [Self\-Destructive Pattern](https://open.spotify.com/album/0rMyQJKxkqIOy9p5u4iV5w) | 3:32 | 2022-07-13 | 2022-07-26 |

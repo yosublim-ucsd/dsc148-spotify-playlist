@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto es punta!",
-  "num_followers": 18855,
+  "num_followers": 18867,
   "original_name": "Punta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MDUwODM5MywwMDAwMDAwMDJmNjg1NTZhZWMzOTdmNjY1Mzk5ZWU4NzFiZDg1MWFi",
+  "snapshot_id": "MTU5MDUwODM5MywwMDAwMDAwMGExNjk5ODI1ODU0ZTIxMzk4YWY5NTA1ZDk5ZWQ5NTEy",
   "tracks": [
     {
       "added_at": "2020-05-26 15:53:13",
@@ -263,18 +263,18 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Batalla de las Puntas, Vol. 8",
-        "url": "https://open.spotify.com/album/3vmeY6fDHyZ0zSe3mTEEBX"
+        "name": "Batalla de las Puntas, Vol. 4",
+        "url": "https://open.spotify.com/album/59GQeMYfmBuPHyI4ZAnnhW"
       },
       "artists": [
         {
           "name": "Grupo Kazzabe",
-          "url": "https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3"
+          "url": "https://open.spotify.com/artist/6eGV9h0Pnu3bmrFcLwnvTu"
         }
       ],
-      "duration_ms": 325668,
-      "name": "Kazzabe Si Sabe",
-      "url": "https://open.spotify.com/track/62EVmDdeHE4eh3BrjnTSvA"
+      "duration_ms": 268226,
+      "name": "El Amor de una Rosa",
+      "url": "https://open.spotify.com/track/2BO19sAyNwQt795GeR7Yd5"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -311,18 +311,18 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Batalla de las Puntas, Vol. 4",
-        "url": "https://open.spotify.com/album/59GQeMYfmBuPHyI4ZAnnhW"
+        "name": "Batalla de las Puntas, Vol. 8",
+        "url": "https://open.spotify.com/album/3vmeY6fDHyZ0zSe3mTEEBX"
       },
       "artists": [
         {
           "name": "Grupo Kazzabe",
-          "url": "https://open.spotify.com/artist/6eGV9h0Pnu3bmrFcLwnvTu"
+          "url": "https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3"
         }
       ],
-      "duration_ms": 268226,
-      "name": "El Amor de una Rosa",
-      "url": "https://open.spotify.com/track/2BO19sAyNwQt795GeR7Yd5"
+      "duration_ms": 325668,
+      "name": "Kazzabe Si Sabe",
+      "url": "https://open.spotify.com/track/62EVmDdeHE4eh3BrjnTSvA"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -423,22 +423,6 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "L\u00e1ndini",
-        "url": "https://open.spotify.com/album/0abBxaGEwuTKkBjTVAysJs"
-      },
-      "artists": [
-        {
-          "name": "Aurelio",
-          "url": "https://open.spotify.com/artist/1N1LP4R1T5AIr33dtUB00h"
-        }
-      ],
-      "duration_ms": 179108,
-      "name": "Nando",
-      "url": "https://open.spotify.com/track/4mhUu9hEcGeXsNJZfGGxsH"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
         "name": "Batalla de las Puntas, Vol. 4",
         "url": "https://open.spotify.com/album/59GQeMYfmBuPHyI4ZAnnhW"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 444533,
       "name": "Puntas Garifunas Criollas 2",
       "url": "https://open.spotify.com/track/1S9siygLB7ocT52s3Xvlp3"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
+        "name": "L\u00e1ndini",
+        "url": "https://open.spotify.com/album/0abBxaGEwuTKkBjTVAysJs"
+      },
+      "artists": [
+        {
+          "name": "Aurelio",
+          "url": "https://open.spotify.com/artist/1N1LP4R1T5AIr33dtUB00h"
+        }
+      ],
+      "duration_ms": 179108,
+      "name": "Nando",
+      "url": "https://open.spotify.com/track/4mhUu9hEcGeXsNJZfGGxsH"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -471,18 +471,38 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Encarguitos Del Caribe",
-        "url": "https://open.spotify.com/album/2ma5OpIYAH0fZm3H23krvR"
+        "name": "Quemala",
+        "url": "https://open.spotify.com/album/0QHUbFYSwO6Y1WmmDulDEg"
       },
       "artists": [
         {
-          "name": "Guillermo Anderson",
-          "url": "https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy"
+          "name": "El Chevo",
+          "url": "https://open.spotify.com/artist/2vC9dN2ebF9lBbAFlIUeL4"
+        },
+        {
+          "name": "Mr Jc",
+          "url": "https://open.spotify.com/artist/42TNOe97Vn2D6OgjNpaxZc"
+        },
+        {
+          "name": "MC Productions Inc",
+          "url": "https://open.spotify.com/artist/4pqKYtU6pamrZUuTWaaRgA"
+        },
+        {
+          "name": "KD La Caracola",
+          "url": "https://open.spotify.com/artist/4C1zea33GCcaanKPvTbiGy"
+        },
+        {
+          "name": "Jessy Rose",
+          "url": "https://open.spotify.com/artist/70GCrueLWPqtr0HhlyIFAD"
+        },
+        {
+          "name": "Big Nango",
+          "url": "https://open.spotify.com/artist/2pjdmFwCoCFDonp4u6TJEH"
         }
       ],
-      "duration_ms": 223973,
-      "name": "El Encarguito",
-      "url": "https://open.spotify.com/track/4HVA1hDrurIxBFUShrL4if"
+      "duration_ms": 145321,
+      "name": "Quemala",
+      "url": "https://open.spotify.com/track/3cOelkO6uChynlAKzOSu8D"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -551,38 +571,18 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Quemala",
-        "url": "https://open.spotify.com/album/0QHUbFYSwO6Y1WmmDulDEg"
+        "name": "Encarguitos Del Caribe",
+        "url": "https://open.spotify.com/album/2ma5OpIYAH0fZm3H23krvR"
       },
       "artists": [
         {
-          "name": "El Chevo",
-          "url": "https://open.spotify.com/artist/2vC9dN2ebF9lBbAFlIUeL4"
-        },
-        {
-          "name": "Mr Jc",
-          "url": "https://open.spotify.com/artist/42TNOe97Vn2D6OgjNpaxZc"
-        },
-        {
-          "name": "MC Productions Inc",
-          "url": "https://open.spotify.com/artist/4pqKYtU6pamrZUuTWaaRgA"
-        },
-        {
-          "name": "KD La Caracola",
-          "url": "https://open.spotify.com/artist/4C1zea33GCcaanKPvTbiGy"
-        },
-        {
-          "name": "Jessy Rose",
-          "url": "https://open.spotify.com/artist/70GCrueLWPqtr0HhlyIFAD"
-        },
-        {
-          "name": "Big Nango",
-          "url": "https://open.spotify.com/artist/2pjdmFwCoCFDonp4u6TJEH"
+          "name": "Guillermo Anderson",
+          "url": "https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy"
         }
       ],
-      "duration_ms": 145321,
-      "name": "Quemala",
-      "url": "https://open.spotify.com/track/3cOelkO6uChynlAKzOSu8D"
+      "duration_ms": 223973,
+      "name": "El Encarguito",
+      "url": "https://open.spotify.com/track/4HVA1hDrurIxBFUShrL4if"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -623,18 +623,18 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Pobre Marinero",
-        "url": "https://open.spotify.com/album/6PISCk0SEOHNFHheKDmUFj"
+        "name": "La Ametralladora",
+        "url": "https://open.spotify.com/album/5yPuWd7KMAHHLBQREkz4Jv"
       },
       "artists": [
         {
-          "name": "Guillermo Anderson",
-          "url": "https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy"
+          "name": "Las Chicas Rolands",
+          "url": "https://open.spotify.com/artist/3EvFD7zFZPxbFpwmhSUrYz"
         }
       ],
-      "duration_ms": 219173,
-      "name": "En Mi Pais",
-      "url": "https://open.spotify.com/track/78inhCoJFx1M9ZRBG6Nbhp"
+      "duration_ms": 154476,
+      "name": "La Ametralladora",
+      "url": "https://open.spotify.com/track/5KdTR3wMMQqX37mK0Vzqiz"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -655,18 +655,18 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "La Ametralladora",
-        "url": "https://open.spotify.com/album/5yPuWd7KMAHHLBQREkz4Jv"
+        "name": "Pobre Marinero",
+        "url": "https://open.spotify.com/album/6PISCk0SEOHNFHheKDmUFj"
       },
       "artists": [
         {
-          "name": "Las Chicas Rolands",
-          "url": "https://open.spotify.com/artist/3EvFD7zFZPxbFpwmhSUrYz"
+          "name": "Guillermo Anderson",
+          "url": "https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy"
         }
       ],
-      "duration_ms": 154476,
-      "name": "La Ametralladora",
-      "url": "https://open.spotify.com/track/5KdTR3wMMQqX37mK0Vzqiz"
+      "duration_ms": 219173,
+      "name": "En Mi Pais",
+      "url": "https://open.spotify.com/track/78inhCoJFx1M9ZRBG6Nbhp"
     }
   ],
   "unique_name": "Punta",

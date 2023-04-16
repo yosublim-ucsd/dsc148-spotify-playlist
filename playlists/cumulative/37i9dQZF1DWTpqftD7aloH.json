@@ -136,7 +136,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 449016,
       "name": "Abro M\u00e3o - Ao Vivo Em S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/1E2KOxfkqmysj9lpa9xFHe"
@@ -444,7 +444,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 289772,
       "name": "Comigo Est\u00e1s - Ao Vivo",
       "url": "https://open.spotify.com/track/2eDcy7W8SCXkfe8IxdNu28"
@@ -1656,7 +1656,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-14",
+      "date_removed": null,
       "duration_ms": 302834,
       "name": "Meu Universo",
       "url": "https://open.spotify.com/track/7abLLSsnvZUTnts7L0Ud3m"
@@ -1744,7 +1744,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 330200,
       "name": "Na Casa - Ao Vivo",
       "url": "https://open.spotify.com/track/1dgxAD9MgYOm5lLrmskGLP"
@@ -1916,6 +1916,24 @@
       "duration_ms": 309890,
       "name": "N\u00e3o H\u00e1 Nome Maior",
       "url": "https://open.spotify.com/track/4WkdRazRRMtnsvdyiiC7FB"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o H\u00e1 Outro",
+        "url": "https://open.spotify.com/album/3DhSTaULAqGDEZnFWCmPzK"
+      },
+      "artists": [
+        {
+          "name": "Diego Karter",
+          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386420,
+      "name": "N\u00e3o H\u00e1 Outro",
+      "url": "https://open.spotify.com/track/3YKzZGZFCZBE60IuPkUY1C"
     },
     {
       "album": {
@@ -2453,6 +2471,28 @@
     },
     {
       "album": {
+        "name": "Risen Savior (Sing My Soul) [Live]",
+        "url": "https://open.spotify.com/album/50iKVMbuYnG7Fxv5BpaLPf"
+      },
+      "artists": [
+        {
+          "name": "REVERE",
+          "url": "https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449054,
+      "name": "Risen Savior (Sing My Soul) - Live",
+      "url": "https://open.spotify.com/track/4joIuCCI84iGcn1T1KQbUR"
+    },
+    {
+      "album": {
         "name": "Romanos 8:26 (Ao Vivo)",
         "url": "https://open.spotify.com/album/4la129Bk0w8ubbxMwwHzkC"
       },
@@ -2504,7 +2544,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 275260,
       "name": "Sangue de Jesus",
       "url": "https://open.spotify.com/track/7DxTA3yeeE2X3OVBcvai5m"
@@ -2934,7 +2974,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 320186,
       "name": "Tua Presen\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/4xT7AI0TuUJXCBmFWknLqf"
@@ -3265,6 +3305,24 @@
     },
     {
       "album": {
+        "name": "Onde o Fogo N\u00e3o Apaga (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7kBqgrErxLl6crYHNwauFY"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366461,
+      "name": "Yeshua (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6v81JSXJisSLcxoRNJiW6n"
+    },
+    {
+      "album": {
         "name": "Look Up Child",
         "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
       },
@@ -3302,6 +3360,24 @@
       "duration_ms": 456676,
       "name": "\u00danico - Ao Vivo",
       "url": "https://open.spotify.com/track/7hLh6ZRE6A561kKUi6jfre"
+    },
+    {
+      "album": {
+        "name": "\u00danico (Live)",
+        "url": "https://open.spotify.com/album/1lOiNzzfdghtwLHhr2Jikh"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419280,
+      "name": "\u00danico - Live",
+      "url": "https://open.spotify.com/track/00E2KxBwL0B3idGMJcRoEh"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTpqftD7aloH"

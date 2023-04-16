@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16usLA71XGW.md) - [plain]
 
 > East Africa Queens in their music bag
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,557 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,565 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

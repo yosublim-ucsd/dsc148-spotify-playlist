@@ -4,7 +4,7 @@
 
 > livin' life in your 250 sq ft apt cover: Charlotte Cardin
 
-1,593 songs - 3 day 9 hr 6 min
+1,594 songs - 3 day 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -701,6 +701,7 @@
 | [I NEED U, IN THE SUMMERTIME](https://open.spotify.com/track/5NqIHUcwfBDpc1rgTxKvyG) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g), [Chasu](https://open.spotify.com/artist/1qIVbNaFEyJ73CX72RM9Ts) | [I NEED U, IN THE SUMMERTIME](https://open.spotify.com/album/1qJMRM8qReo4zkBgHytyVE) | 2:38 | 2020-09-16 | 2021-01-15 |
 | [I Never Learn](https://open.spotify.com/track/5XlnAIPiOSEODsogL9Doxz) | [Ai Bendr](https://open.spotify.com/artist/0Ari1vZqizhkV9Pa1uC8oE) | [I Never Learn](https://open.spotify.com/album/3AUVlIKnnnWZAcqzxTKx4G) | 3:17 | 2022-01-14 | 2022-03-12 |
 | [i remember](https://open.spotify.com/track/4MWFPLrhkekG6gcix2l3vJ) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [i remember](https://open.spotify.com/album/5fkoeeumL7hJ91pqy3XBYc) | 3:23 | 2021-10-08 | 2022-01-08 |
+| [I Should Have Stayed at Home](https://open.spotify.com/track/2y42aEs7Rczw5eMLK9UMeW) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [I Should Have Stayed at Home](https://open.spotify.com/album/7Gg6nUfvmeyxJ2FBvP3tDR) | 2:43 | 2023-04-07 |  |
 | [I Should've Told You](https://open.spotify.com/track/7FNfzTdPSOA7jzlQQ7gZK2) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [I Should've Told You](https://open.spotify.com/album/1N4ACWnpLSrpXokSWcsh9j) | 3:17 | 2020-07-12 | 2021-11-10 |
 | [i think too much](https://open.spotify.com/track/6wFqLYmiXyGvprbWa4ogm8) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [i think too much](https://open.spotify.com/album/57KCk6H2jdmgHeh0JNW95b) | 3:22 | 2020-04-21 | 2021-11-10 |
 | [I Try](https://open.spotify.com/track/0YY1xpXpPYL2N8tVwXBITr) | [courtship.](https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8) | [I Try](https://open.spotify.com/album/5ZwWwcH6Q2xWIJzC1n5WXI) | 2:27 | 2021-08-27 | 2022-03-17 |
@@ -1482,7 +1483,7 @@
 | [ugly](https://open.spotify.com/track/7b3zTnrvxQpkl0940SBF5W) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [ugly](https://open.spotify.com/album/7t6zzIar6ZEflGdgrUoAve) | 2:53 | 2023-03-24 |  |
 | [ugly](https://open.spotify.com/track/6BzSgXgzHxqPbGEb7aKAXb) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [ugly](https://open.spotify.com/album/0ZRgqGpF70vz7TZzwJyPa4) | 3:00 | 2022-11-11 | 2022-12-10 |
 | [UGLY](https://open.spotify.com/track/2dhPuSbG7blYN5tc6VxzHq) | [Josie Dunne](https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq) | [EPISODE 6: UGLY](https://open.spotify.com/album/0L7Pn96iL4d6oSZYk1QAxa) | 1:58 | 2021-12-31 | 2022-01-29 |
-| [Ugly Crier](https://open.spotify.com/track/6duh2S2a8bVSzoFXJoJUFR) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Ugly Crier](https://open.spotify.com/album/1gI5fU6JlZXE0umN1sBOtn) | 2:32 | 2023-01-06 |  |
+| [Ugly Crier](https://open.spotify.com/track/6duh2S2a8bVSzoFXJoJUFR) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Ugly Crier](https://open.spotify.com/album/1gI5fU6JlZXE0umN1sBOtn) | 2:32 | 2023-01-06 | 2023-04-16 |
 | [Uncall It](https://open.spotify.com/track/6dJC1unKk2kWnaA5goiXly) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [Uncall It](https://open.spotify.com/album/5JdqxFr49wq2SnOCObPYA4) | 2:36 | 2022-06-06 | 2022-08-27 |
 | [Underground](https://open.spotify.com/track/3GjLecyioIsSt0EaNecctC) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [The Darker The Weather // The Better The Man](https://open.spotify.com/album/1lxOTjnDs6u4UHn2fzMNxu) | 3:27 | 2019-05-26\* | 2020-02-19 |
 | [Underwater](https://open.spotify.com/track/23FIFsfqsSuWZ5HszYsIfV) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Underwater](https://open.spotify.com/album/7EjMYcItvDJ2hndDy88PWo) | 5:49 | 2019-05-26\* | 2020-02-19 |

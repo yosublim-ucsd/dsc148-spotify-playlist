@@ -423,6 +423,24 @@
     },
     {
       "album": {
+        "name": "Not So Dukish",
+        "url": "https://open.spotify.com/album/3oeavlFnbsS7L17R8Irxyv"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hodges",
+          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205373,
+      "name": "Central Park Swing",
+      "url": "https://open.spotify.com/track/0LsYGVyyGCAvCX8bf2I2vO"
+    },
+    {
+      "album": {
         "name": "Boy Meets Girl: Sammy Davis Jr. And Carmen McRae On Decca",
         "url": "https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge"
       },
@@ -2710,7 +2728,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 333826,
       "name": "Uncle Rough",
       "url": "https://open.spotify.com/track/61uh947sYcIlXI1k4dfDwS"

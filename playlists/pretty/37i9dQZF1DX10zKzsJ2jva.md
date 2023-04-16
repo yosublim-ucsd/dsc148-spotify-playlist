@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10zKzsJ2jva.md) - [plain]
 
 > Today's top Latin hits, elevando nuestra música\. Cover: Eladio Carrion
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,598,953 likes - 49 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,604,189 likes - 49 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10zKzsJ2jva.md) - [plain]
 | 19 | [Arcángel: Bzrp Music Sessions, Vol\. 54](https://open.spotify.com/track/7cQ0LAxT5HHCLGbxcjaxac) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Arcángel: Bzrp Music Sessions, Vol\. 54](https://open.spotify.com/album/3Bj4v1YmWsctoEsSkEPg63) | 3:43 |
 | 20 | [Cuerpecito](https://open.spotify.com/track/79euszUrA1kga1kK5PRmDo) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Cuerpecito](https://open.spotify.com/album/10C7yBcN3lezb79Dcznwad) | 3:15 |
 | 21 | [Un Finde \| CROSSOVER \#2](https://open.spotify.com/track/3tiJUOfAEqIrLFRQgGgdoY) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Un Finde \| CROSSOVER \#2](https://open.spotify.com/album/7cAfD0HludcAifXAbcIR80) | 2:42 |
-| 22 | [AGUARDIENTE](https://open.spotify.com/track/6jhB0WW148mVOX7VuV2ga0) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [AGUARDIENTE](https://open.spotify.com/album/1ox6fzQPXwDtsTg8EQrplp) | 2:47 |
+| 22 | [AGUARDIENTE](https://open.spotify.com/track/3Z0l8qwMuC376pcutLVsY8) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 2:47 |
 | 23 | [Shorty Party](https://open.spotify.com/track/55ZATsjPlTeSTNJOuW90pW) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP), [La Kelly](https://open.spotify.com/artist/4yEIQ0lJDgUEfsuYx3Gsmr) | [Shorty Party](https://open.spotify.com/album/4eoF8b15EaosNzpn2N3Rt9) | 4:25 |
 | 24 | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg) | 3:34 |
 | 25 | [Los Ángeles](https://open.spotify.com/track/7lrMkztvl0MnRSB2i3KRRe) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Los Ángeles](https://open.spotify.com/album/4bPQ9fS8MUFcAfSq0NzBbI) | 2:38 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10zKzsJ2jva.md) - [plain]
 | 48 | [De Qué Manera](https://open.spotify.com/track/3HMlb6Dh9OGr3CjV6IwjEP) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [De Qué Manera](https://open.spotify.com/album/6XBq5DhffYApT0TGZAQ9cH) | 3:13 |
 | 49 | [Big Booty](https://open.spotify.com/track/5nBHB9JZjBS087RSDgIEon) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Lil Geniuz](https://open.spotify.com/artist/7nuTWfojdN0o8d7NGDo71U) | [Big Booty](https://open.spotify.com/album/3a6Zg7J0UPZMl8rujyXgvt) | 3:11 |
 
-Snapshot ID: `MTY4MTQ0NDgwMCwwMDAwMDAwMDEwMWFhN2VjZGJmNTBjMjZjN2IwYTQ4YWEzZTc0ZDRl`
+Snapshot ID: `MTY4MTQ0NDgwMCwwMDAwMDAwMDlhZDIxYWI5ZmFhYjk5ZGJmNDI1NjMyNTU4MDkyODBj`

@@ -1,12 +1,12 @@
 {
   "description": "A collection of R&B, Soul and Gospel flavored takes on the most beloved Christmas songs.",
-  "num_followers": 168795,
+  "num_followers": 168776,
   "original_name": "R&B Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2OTg0MywwMDAwMDAwMGI4Y2RmN2NiN2UzMDI4NjY3MmQyOWE5NmRiZGU3ODIy",
+  "snapshot_id": "MTY3MTE2OTg0MywwMDAwMDAwMDY3NTk3MjY2OTI1NWQ2NTExN2UwOGExNDU0MWUwYWNj",
   "tracks": [
     {
       "added_at": "2022-11-25 20:23:30",
@@ -397,22 +397,6 @@
       "url": "https://open.spotify.com/track/2HwaTkbNED2nZfSijP9TLF"
     },
     {
-      "added_at": "2022-11-25 20:23:30",
-      "album": {
-        "name": "The Christmas Song (Merry Christmas To You)",
-        "url": "https://open.spotify.com/album/03uGzEi1cxuW4UcTmN9hgf"
-      },
-      "artists": [
-        {
-          "name": "Janice",
-          "url": "https://open.spotify.com/artist/1uKR3ihZmv8a93heLPYKQ8"
-        }
-      ],
-      "duration_ms": 174453,
-      "name": "The Christmas Song (Merry Christmas To You)",
-      "url": "https://open.spotify.com/track/2bfGUiuZ00Ver5I4BR1iNi"
-    },
-    {
       "added_at": "2021-12-15 17:30:29",
       "album": {
         "name": "This Christmas",
@@ -431,6 +415,22 @@
       "duration_ms": 181365,
       "name": "This Christmas",
       "url": "https://open.spotify.com/track/1s8KCi8neCwrRSyhREKmcA"
+    },
+    {
+      "added_at": "2022-11-25 20:23:30",
+      "album": {
+        "name": "The Christmas Song (Merry Christmas To You)",
+        "url": "https://open.spotify.com/album/03uGzEi1cxuW4UcTmN9hgf"
+      },
+      "artists": [
+        {
+          "name": "Janice",
+          "url": "https://open.spotify.com/artist/1uKR3ihZmv8a93heLPYKQ8"
+        }
+      ],
+      "duration_ms": 174453,
+      "name": "The Christmas Song (Merry Christmas To You)",
+      "url": "https://open.spotify.com/track/2bfGUiuZ00Ver5I4BR1iNi"
     },
     {
       "added_at": "2022-11-25 20:23:30",
@@ -725,22 +725,6 @@
       "url": "https://open.spotify.com/track/20u1JM0k85WDXSYfmy92Km"
     },
     {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "First Christmas",
-        "url": "https://open.spotify.com/album/34TpQar6QnutagRwdtiNpl"
-      },
-      "artists": [
-        {
-          "name": "Bebe & Cece Winans",
-          "url": "https://open.spotify.com/artist/3WNUkxJcJeliFx9KXWXMgs"
-        }
-      ],
-      "duration_ms": 263866,
-      "name": "Jingle Bells",
-      "url": "https://open.spotify.com/track/3ELnSVxVNuwK2PSqjseSLu"
-    },
-    {
       "added_at": "2022-11-25 20:23:30",
       "album": {
         "name": "Another Kind Of Christmas",
@@ -755,6 +739,22 @@
       "duration_ms": 202007,
       "name": "Just Ain't Christmas",
       "url": "https://open.spotify.com/track/44P22s5S0ss1ln73uLQBa2"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "First Christmas",
+        "url": "https://open.spotify.com/album/34TpQar6QnutagRwdtiNpl"
+      },
+      "artists": [
+        {
+          "name": "Bebe & Cece Winans",
+          "url": "https://open.spotify.com/artist/3WNUkxJcJeliFx9KXWXMgs"
+        }
+      ],
+      "duration_ms": 263866,
+      "name": "Jingle Bells",
+      "url": "https://open.spotify.com/track/3ELnSVxVNuwK2PSqjseSLu"
     },
     {
       "added_at": "2022-11-25 20:23:30",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "The First Noel (feat. Cory Henry)",
-        "url": "https://open.spotify.com/album/4UUlh9XDS5gIPoCVAUN8zd"
-      },
-      "artists": [
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        },
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        }
-      ],
-      "duration_ms": 190286,
-      "name": "The First Noel (feat. Cory Henry) - Spotify Holiday Single",
-      "url": "https://open.spotify.com/track/3tqjlg9Ut8l3WWRe1J0cNQ"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
         "name": "December Baby",
         "url": "https://open.spotify.com/album/5gzHuhZpa8gB7ABxH60pNT"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 237660,
       "name": "Wishlist (feat. PJ Morton)",
       "url": "https://open.spotify.com/track/7ypXUdwJthmzmTxJAWjr5G"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "The First Noel (feat. Cory Henry)",
+        "url": "https://open.spotify.com/album/4UUlh9XDS5gIPoCVAUN8zd"
+      },
+      "artists": [
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "duration_ms": 190286,
+      "name": "The First Noel (feat. Cory Henry) - Spotify Holiday Single",
+      "url": "https://open.spotify.com/track/3tqjlg9Ut8l3WWRe1J0cNQ"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "A Classic Christmas Night - EP",
-        "url": "https://open.spotify.com/album/0Bbyrq0VrznrBl9lGUVOvE"
-      },
-      "artists": [
-        {
-          "name": "Tank",
-          "url": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
-        }
-      ],
-      "duration_ms": 198138,
-      "name": "Have Yourself a Merry Little Christmas",
-      "url": "https://open.spotify.com/track/1amnjEGpBPQIokjg3Np1kb"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
         "name": "Merry Christmas from Andra Day",
         "url": "https://open.spotify.com/album/3RqB9JuiNZwQmt9qXhvxnT"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 194053,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/72yb1EUhIV5gBGx04UA5vV"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "A Classic Christmas Night - EP",
+        "url": "https://open.spotify.com/album/0Bbyrq0VrznrBl9lGUVOvE"
+      },
+      "artists": [
+        {
+          "name": "Tank",
+          "url": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
+        }
+      ],
+      "duration_ms": 198138,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/1amnjEGpBPQIokjg3Np1kb"
     },
     {
       "added_at": "2022-11-25 20:23:30",

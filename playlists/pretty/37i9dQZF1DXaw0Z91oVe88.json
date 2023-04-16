@@ -1,12 +1,12 @@
 {
   "description": "\uc6b0\uc0b0\uc744 \ub358\uc9c0\uace0 \ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uace0 \uc2f6\uc740 \ub0a0\uc5d0 \ub4e4\uc73c\uc138\uc694!",
-  "num_followers": 2426,
+  "num_followers": 2428,
   "original_name": "\ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uc5b4",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkwNTY5MCwwMDAwMDAwMDczODI5ZmRkZjkyODE0NGYyYWQ1Mzc4ZTM1ZjJhZTZi",
+  "snapshot_id": "MTY3OTkwNTY5MCwwMDAwMDAwMDlmNWZhNjYwYzc1ZWU5OTBlM2VhMjI2ZjhmNzI4NzAy",
   "tracks": [
     {
       "added_at": "2023-03-27 08:28:10",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-03-27 08:28:10",
       "album": {
-        "name": "Cold World",
-        "url": "https://open.spotify.com/album/1LV9rvmb5ibcrCKLcv6Pv2"
-      },
-      "artists": [
-        {
-          "name": "OVAN",
-          "url": "https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS"
-        }
-      ],
-      "duration_ms": 208306,
-      "name": "Cold World",
-      "url": "https://open.spotify.com/track/4N2qh0ovGWJOSPqCB2007q"
-    },
-    {
-      "added_at": "2023-03-27 08:28:10",
-      "album": {
         "name": "PAGE",
         "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 254661,
       "name": "365",
       "url": "https://open.spotify.com/track/02hojXLuubRkvxm6jcD0No"
+    },
+    {
+      "added_at": "2023-03-27 08:28:10",
+      "album": {
+        "name": "Cold World",
+        "url": "https://open.spotify.com/album/1LV9rvmb5ibcrCKLcv6Pv2"
+      },
+      "artists": [
+        {
+          "name": "OVAN",
+          "url": "https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS"
+        }
+      ],
+      "duration_ms": 208306,
+      "name": "Cold World",
+      "url": "https://open.spotify.com/track/4N2qh0ovGWJOSPqCB2007q"
     },
     {
       "added_at": "2023-03-27 08:28:10",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-03-27 08:28:10",
       "album": {
-        "name": "Fuzzy peach",
-        "url": "https://open.spotify.com/album/26peULcrRxnzOoRCqQZEzx"
-      },
-      "artists": [
-        {
-          "name": "Lyn",
-          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
-        }
-      ],
-      "duration_ms": 251653,
-      "name": "Fuzzy peach",
-      "url": "https://open.spotify.com/track/3mWDyC2TAIk71P5wbwyXod"
-    },
-    {
-      "added_at": "2023-03-27 08:28:10",
-      "album": {
         "name": "PAGE",
         "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 224288,
       "name": "WERE WE?",
       "url": "https://open.spotify.com/track/6p0Mxm4v5RUHaS2k3KHVBE"
+    },
+    {
+      "added_at": "2023-03-27 08:28:10",
+      "album": {
+        "name": "Fuzzy peach",
+        "url": "https://open.spotify.com/album/26peULcrRxnzOoRCqQZEzx"
+      },
+      "artists": [
+        {
+          "name": "Lyn",
+          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
+        }
+      ],
+      "duration_ms": 251653,
+      "name": "Fuzzy peach",
+      "url": "https://open.spotify.com/track/3mWDyC2TAIk71P5wbwyXod"
     },
     {
       "added_at": "2023-03-27 08:28:10",

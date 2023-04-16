@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Xft72.md) - [plain]
 
 > This is Def Leppard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,699 likes - 51 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,821 likes - 51 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,17 +15,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Xft72.md) - [plain]
 | 5 | [When Love And Hate Collide](https://open.spotify.com/track/4YwR2G26Pp5jNUX3gN3EIP) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [The Story So Far: The Best Of Def Leppard](https://open.spotify.com/album/7pL0TZHOXuFawocdIe90K5) | 4:16 |
 | 6 | [Love Bites \- Remastered 2017](https://open.spotify.com/track/3Dfy8YIxq89i84t108TvMi) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria \(Super Deluxe\)](https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE) | 5:46 |
 | 7 | [Rock Of Ages](https://open.spotify.com/track/2AmEv442DGwSxMGZ9XEvBA) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Pyromania \(Deluxe\)](https://open.spotify.com/album/3MJoDIkQxY0MTXE8fqzmPu) | 4:07 |
-| 8 | [Spillways \[Feat\. Joe Elliott\]](https://open.spotify.com/track/720C8mWrqRdh1zYBGqLj9p) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D), [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ), [Joe Elliott](https://open.spotify.com/artist/5Nbg0g30EwMpYD6jQ2xcfX) | [Spillways \[Feat\. Joe Elliott\]](https://open.spotify.com/album/1aMqVnl2zFenUsGrlYMc91) | 3:19 |
-| 9 | [Two Steps Behind \- String / Acoustic Version](https://open.spotify.com/track/0hJnqEmo8DeMmRhh6mwAof) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Retro Active](https://open.spotify.com/album/51JMDhly9GKYXgFrOekyIR) | 4:16 |
-| 10 | [Foolin'](https://open.spotify.com/track/1wv8bYmoqY3TAKKQY3Qn7t) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Pyromania](https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d) | 4:34 |
+| 8 | [Two Steps Behind \- String / Acoustic Version](https://open.spotify.com/track/0hJnqEmo8DeMmRhh6mwAof) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Retro Active](https://open.spotify.com/album/51JMDhly9GKYXgFrOekyIR) | 4:16 |
+| 9 | [Foolin'](https://open.spotify.com/track/1wv8bYmoqY3TAKKQY3Qn7t) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Pyromania](https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d) | 4:34 |
+| 10 | [Spillways \[Feat\. Joe Elliott\]](https://open.spotify.com/track/720C8mWrqRdh1zYBGqLj9p) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D), [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ), [Joe Elliott](https://open.spotify.com/artist/5Nbg0g30EwMpYD6jQ2xcfX) | [Spillways \[Feat\. Joe Elliott\]](https://open.spotify.com/album/1aMqVnl2zFenUsGrlYMc91) | 3:19 |
 | 11 | [Bringin' On The Heartbreak](https://open.spotify.com/track/7iEVmnzJr1V7duYKPWplzp) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [High 'N' Dry](https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr) | 4:33 |
 | 12 | [Armageddon It \- Remastered 2017](https://open.spotify.com/track/16MQZkAIAAtI4X5NuiEwuq) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria \(Super Deluxe\)](https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE) | 5:22 |
-| 13 | [Let's Get Rocked](https://open.spotify.com/track/0LoH6lFQLNscy3RyljAewK) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Adrenalize \(Deluxe\)](https://open.spotify.com/album/0X1muonPHLSGzU6g3dZx7M) | 4:55 |
-| 14 | [Too Late For Love](https://open.spotify.com/track/5vHyWEoEyIJT5RhR1fcN7y) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Pyromania](https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d) | 4:26 |
+| 13 | [Too Late For Love](https://open.spotify.com/track/5vHyWEoEyIJT5RhR1fcN7y) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Pyromania](https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d) | 4:26 |
+| 14 | [Let's Get Rocked](https://open.spotify.com/track/0LoH6lFQLNscy3RyljAewK) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Adrenalize \(Deluxe\)](https://open.spotify.com/album/0X1muonPHLSGzU6g3dZx7M) | 4:55 |
 | 15 | [Let It Go](https://open.spotify.com/track/1aR6W01r094onPc4O2avEp) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [High 'N' Dry](https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr) | 4:43 |
 | 16 | [Kick](https://open.spotify.com/track/0sVq4exSBXyXP86svk8JBV) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Diamond Star Halos](https://open.spotify.com/album/5arLkguGPIDSGzCT8Cjt6K) | 3:42 |
-| 17 | [Have You Ever Needed Someone So Bad](https://open.spotify.com/track/0nf9RjoFTcOzTIXtmzhRuH) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Adrenalize \(Deluxe\)](https://open.spotify.com/album/0X1muonPHLSGzU6g3dZx7M) | 5:24 |
-| 18 | [Rocket](https://open.spotify.com/track/0RVeadY2MbHz4Pe4MreLNw) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria](https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82) | 6:36 |
+| 17 | [Rocket](https://open.spotify.com/track/0RVeadY2MbHz4Pe4MreLNw) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria](https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82) | 6:36 |
+| 18 | [Have You Ever Needed Someone So Bad](https://open.spotify.com/track/0nf9RjoFTcOzTIXtmzhRuH) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Adrenalize \(Deluxe\)](https://open.spotify.com/album/0X1muonPHLSGzU6g3dZx7M) | 5:24 |
 | 19 | [Women \- Remastered 2017](https://open.spotify.com/track/2q1njJdxOMEClSnuBWGMJa) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria \(Super Deluxe\)](https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE) | 5:42 |
 | 20 | [Rock Rock \(Till You Drop\)](https://open.spotify.com/track/1RBQR8HjZUPLikoIjD67Ep) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Pyromania](https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d) | 3:54 |
 | 21 | [Take What You Want](https://open.spotify.com/track/0frtdZ0KWaYQJGvPvsS6YO) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Diamond Star Halos](https://open.spotify.com/album/5arLkguGPIDSGzCT8Cjt6K) | 4:14 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Xft72.md) - [plain]
 | 50 | [Action \- Revised Version](https://open.spotify.com/track/1PUCeAtLlyLCSeoBkfb9my) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Retro Active](https://open.spotify.com/album/51JMDhly9GKYXgFrOekyIR) | 3:40 |
 | 51 | [Tear It Down](https://open.spotify.com/track/3pH9Vu1LNBXMUptZbmipFF) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria \(Super Deluxe\)](https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE) | 3:37 |
 
-Snapshot ID: `MjgwMjQ4NTIsMDAwMDAwMDBhOTg1NjJkYTA2ZDRkNmMxOWY4YjgzYTQ2MTdlYWUzOQ==`
+Snapshot ID: `MjgwMjYwMzIsMDAwMDAwMDBhMTQ0N2Q4ODlmYzEwZmZiNjc4NzE3ZDMzMmRjMmIyNQ==`

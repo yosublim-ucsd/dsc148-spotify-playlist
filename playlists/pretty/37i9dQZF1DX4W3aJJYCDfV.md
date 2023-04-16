@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Jorja Smith \(pictured\), Lewis Capaldi, Aitch and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 829,246 likes - 133 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 829,309 likes - 133 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 6 | [Round 2](https://open.spotify.com/track/3zIU7arseZc1XXoI9Ag0Qc) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Round 2](https://open.spotify.com/album/4KprDOfUTn4yf1f3AMKnab) | 2:20 |
 | 7 | [Begin Again \- Single Edit](https://open.spotify.com/track/36CGnEiFk8rGx0R14aW1Dw) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Begin Again](https://open.spotify.com/album/5uvyLKCk0xALxoSlBEzP21) | 3:37 |
 | 8 | [Take It Slow](https://open.spotify.com/track/7aSTt5lOkSBxBvllByKINK) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [We Go Again](https://open.spotify.com/album/4vdQXcHcAGcVSBA7956EMq) | 3:41 |
-| 9 | [Do U Want Me Baby? \(feat\. Elphi\)](https://open.spotify.com/track/392tWI7KlzCkP2bmAOOqzS) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82), [Elphi](https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY) | [Do U Want Me Baby? \(feat\. Elphi\)](https://open.spotify.com/album/2okBYRPFzRqd6Ex5M5F34Y) | 2:22 |
+| 9 | [Do U Want Me Baby? \(feat\. Elphi\)](https://open.spotify.com/track/392tWI7KlzCkP2bmAOOqzS) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82), [Elphi](https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY) | [Do U Want Me Baby? \(feat\. Elphi\)](https://open.spotify.com/album/2okBYRPFzRqd6Ex5M5F34Y) | 2:23 |
 | 10 | [Wanna Chill Baby?](https://open.spotify.com/track/1OYgZHegbK7PS1WwWeWOa1) | [G!ft](https://open.spotify.com/artist/5dmyNQ4NmCkkV6Ilf9l7Xm) | [Wanna Chill Baby?](https://open.spotify.com/album/1624ryqTdABHLSmeOMHMsy) | 1:56 |
 | 11 | [Dancing In The Courthouse](https://open.spotify.com/track/4ZwgD4frTwoDdOUsjyoqAJ) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Dancing In The Courthouse](https://open.spotify.com/album/6y1x1MUnhsqTIRkp6KpYkq) | 2:37 |
 | 12 | [Upside Down \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/2UDycsru4dEa1UFmyIvKYU) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Upside Down \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/2FmCevNKGGSYOa9uCuXydm) | 2:54 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 38 | [DONTLEAVEMYSIDE](https://open.spotify.com/track/5dx52a9oh4Vm7XbkqCn7Dq) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA), [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C) | [DONTLEAVEMYSIDE](https://open.spotify.com/album/45yxAZGb7qbBFG9mxBrYc5) | 2:06 |
 | 39 | [pieces](https://open.spotify.com/track/63Nx8zAsDf3YRfZmNF5OTC) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [pieces](https://open.spotify.com/album/0wvlzL66ClrOKiy3Vc4s5E) | 2:27 |
 | 40 | [Drop Stop Roll](https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Drop Stop Roll](https://open.spotify.com/album/7C45E727Jyq6UrMyLYD2Ab) | 2:50 |
-| 41 | [Get Busy With It](https://open.spotify.com/track/0BBgVqwEyC8gUPeAPwa7lj) | [Conducta](https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn), [Novelist](https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc) | [Get Busy With It](https://open.spotify.com/album/3VzCxoStC9s1XH2CtPqH10) | 3:06 |
+| 41 | [Get Busy With It \(feat\. Novelist\)](https://open.spotify.com/track/0BBgVqwEyC8gUPeAPwa7lj) | [Conducta](https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn), [Novelist](https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc) | [Get Busy With It \(feat\. Novelist\)](https://open.spotify.com/album/3VzCxoStC9s1XH2CtPqH10) | 3:06 |
 | 42 | [Don't Give Up](https://open.spotify.com/track/7AGMaD98w28eaNh2639jD2) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Don't Give Up](https://open.spotify.com/album/2XZMNStMl0nxjQ3LYdNboK) | 2:46 |
 | 43 | [Stay Close \(feat\. Kranium\)](https://open.spotify.com/track/2Sxu9VO2fPGVlUKo8LGwn4) | [Jords](https://open.spotify.com/artist/7lhD6ETR0JNlpJWYycy3jx), [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [MoBay/Stay Close](https://open.spotify.com/album/39RgseVs1yoNma7foNkMcX) | 3:02 |
 | 44 | [Dreamer](https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [Dreamer](https://open.spotify.com/album/1U0eun2BDlw7RyLomRJv0V) | 3:53 |

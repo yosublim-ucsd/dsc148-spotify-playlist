@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0dqH2Z.md) - [plain]
 
 > This is Tigers Jaw\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,148 likes - 38 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,147 likes - 38 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,12 +39,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0dqH2Z.md) - [plain]
 | 29 | [Warn Me](https://open.spotify.com/track/3FfmYyYHN47nLxPuJ84M0y) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Warn Me](https://open.spotify.com/album/2Iq1FXyQkuUSpFmv3CEnzJ) | 3:14 |
 | 30 | [Frame You](https://open.spotify.com/track/0pIOxvTWGHz6noPi8AJE9w) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Charmer](https://open.spotify.com/album/07Sik9LtBbnTI7J3S3WRhI) | 2:11 |
 | 31 | [Meet at the Corner](https://open.spotify.com/track/2dEhFo7bGnpxExq03Lh66P) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Spirit Desire](https://open.spotify.com/album/2BS5nxXE6hjWQRplpfxrib) | 1:38 |
-| 32 | [Return](https://open.spotify.com/track/5KljkeqE8yAZT177FApDsC) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Two Worlds](https://open.spotify.com/album/7ogk8xz4DoKUcVOT3KbbwP) | 1:42 |
+| 32 | [Test Pattern](https://open.spotify.com/track/3Jg47BnPUcqwXnjvgOnnTL) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Two Worlds](https://open.spotify.com/album/7ogk8xz4DoKUcVOT3KbbwP) | 2:20 |
 | 33 | [Waltz](https://open.spotify.com/track/5NTGujjjnZH83kbSW1KvK5) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Old Clothes](https://open.spotify.com/album/5zeB1ZGALj3ynXlCeeeSMx) | 2:19 |
 | 34 | [Nervous Kids](https://open.spotify.com/track/2lVXTGaCiCi4N6POZGrcyh) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Charmer](https://open.spotify.com/album/07Sik9LtBbnTI7J3S3WRhI) | 2:55 |
 | 35 | [We Are Great, There Is Only One \(Tigers Jaw\)](https://open.spotify.com/track/0btYefrUbkE9XDtmprpINs) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Spirit Desire](https://open.spotify.com/album/2BS5nxXE6hjWQRplpfxrib) | 1:59 |
-| 36 | [Test Pattern](https://open.spotify.com/track/3Jg47BnPUcqwXnjvgOnnTL) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Two Worlds](https://open.spotify.com/album/7ogk8xz4DoKUcVOT3KbbwP) | 2:20 |
+| 36 | [Return](https://open.spotify.com/track/5KljkeqE8yAZT177FApDsC) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Two Worlds](https://open.spotify.com/album/7ogk8xz4DoKUcVOT3KbbwP) | 1:42 |
 | 37 | [Crystal Vision](https://open.spotify.com/track/7EFukKfVHrKBqk5uMvOA6w) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Spirit Desire](https://open.spotify.com/album/2BS5nxXE6hjWQRplpfxrib) | 4:26 |
 | 38 | [Smile](https://open.spotify.com/track/3T634xUoZHDer4u5nZCzfe) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Two Worlds](https://open.spotify.com/album/7ogk8xz4DoKUcVOT3KbbwP) | 1:52 |
 
-Snapshot ID: `MjgwMjQ4NTIsMDAwMDAwMDA0M2EzMTBiYTA5ZGJlNGNmODk5MTQ5OWZmNzM5YTAyNQ==`
+Snapshot ID: `MjgwMjYwMzIsMDAwMDAwMDAzYTNjNzMxMmMzZmFhZjU0NTU3ZDA1YzM4YjhjNmY0OQ==`

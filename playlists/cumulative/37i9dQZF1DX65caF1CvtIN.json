@@ -1017,6 +1017,24 @@
     },
     {
       "album": {
+        "name": "Gjeilo: Montana",
+        "url": "https://open.spotify.com/album/6tEduNgtPFw3KLQaro4cXC"
+      },
+      "artists": [
+        {
+          "name": "Ola Gjeilo",
+          "url": "https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171080,
+      "name": "Gjeilo: Montana",
+      "url": "https://open.spotify.com/track/7HfApg345Hbu3WKIt8MsKO"
+    },
+    {
+      "album": {
         "name": "Glitter",
         "url": "https://open.spotify.com/album/0L8EQKHSBRT1ZjeB8bH8vX"
       },
@@ -1738,24 +1756,6 @@
       "duration_ms": 271387,
       "name": "Mirror Lake",
       "url": "https://open.spotify.com/track/1eVJInWM1ElhWTAFbCAQS9"
-    },
-    {
-      "album": {
-        "name": "Gjeilo: Montana",
-        "url": "https://open.spotify.com/album/6tEduNgtPFw3KLQaro4cXC"
-      },
-      "artists": [
-        {
-          "name": "Ola Gjeilo",
-          "url": "https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G"
-        }
-      ],
-      "date_added": "2022-08-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 171080,
-      "name": "Montana",
-      "url": "https://open.spotify.com/track/7HfApg345Hbu3WKIt8MsKO"
     },
     {
       "album": {

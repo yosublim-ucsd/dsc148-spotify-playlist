@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 
 > Catch the queens of Punjabi Pop\. Cover: Baani Sandhu
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,760 likes - 55 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,783 likes - 55 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 | 7 | [8 Parche](https://open.spotify.com/track/42ETKyApzUl8hTtytFAjen) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [8 Parche](https://open.spotify.com/album/5vMZWQdiqWB8iaeqnBfdRu) | 3:30 |
 | 8 | [Jee Jeha Karda](https://open.spotify.com/track/71jkE3pPYmg8v0nrU8Mhn1) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Jee Jeha Karda](https://open.spotify.com/album/1xYMYWzzEYlV1yxpjDYojp) | 3:35 |
 | 9 | [Jhanjar](https://open.spotify.com/track/5HOzhBs1Oos4eAadzqmjhy) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [The Boss Lady](https://open.spotify.com/album/6RIkd4UrDkJ1N0BUvtuhy3) | 2:38 |
-| 10 | [Sohna Lagda](https://open.spotify.com/track/3DIHLEEI2qMVvUi7HNFUWF) | [Divya Sharma](https://open.spotify.com/artist/3Mwru9VTzxMpJQT6J85kEM) | [Sohna Lagda](https://open.spotify.com/album/50wVYIfIIi0TssIiqHcCxH) | 2:50 |
+| 10 | [Sohna Lagda](https://open.spotify.com/track/3DIHLEEI2qMVvUi7HNFUWF) | [Divya Sharma](https://open.spotify.com/artist/6JbAd8GIWUoAwKjJfKx3oR) | [Sohna Lagda](https://open.spotify.com/album/50wVYIfIIi0TssIiqHcCxH) | 2:50 |
 | 11 | [Maskara](https://open.spotify.com/track/2Ln1OxWuG3xTzWDl6DNcsy) | [Tanishq Kaur](https://open.spotify.com/artist/3WooYZ0DIopSIa80iyL16E) | [Maskara](https://open.spotify.com/album/3AGGLTvJpKLcOW6EdZMvuY) | 2:55 |
 | 12 | [Na Na Na](https://open.spotify.com/track/6BXzT27RykmZwNSXDffi7j) | [Jenny Johal](https://open.spotify.com/artist/7wM3DMc1NCh9sjDrUf3QOd) | [Na Na Na](https://open.spotify.com/album/1uVZpHsFhGt48a5b8awBPm) | 2:59 |
 | 13 | [Jutti](https://open.spotify.com/track/1SdkVBaXo4tplWhol6POlM) | [Tanishq Kaur](https://open.spotify.com/artist/3WooYZ0DIopSIa80iyL16E) | [Jutti](https://open.spotify.com/album/5kSBVzFYKKRpa1OX6yTErb) | 2:24 |

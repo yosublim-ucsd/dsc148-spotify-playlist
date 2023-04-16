@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a7mln8z0Su.md) - [plain]
 
 > 무언가 이상한 마음 속 일렁임을 노래로 느껴보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,611 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,612 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a7mln8z0Su.md) - [plain]
 | 39 | [Die For You \(feat\. Kelsey Kuan\)](https://open.spotify.com/track/7K7Mg9iQ8ZnD5EEwm27gw2) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Kelsey Kuan](https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9) | [Twilight](https://open.spotify.com/album/1m8GgkDxECNCVgRTFikwMX) | 3:12 |
 | 40 | [BETTER \(with MINO\)](https://open.spotify.com/track/4xE1oTctITcdrkddbVafGT) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 3:41 |
 | 41 | [Alone](https://open.spotify.com/track/0tkR9qJXzuUoI9sKW08ZGM) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb) | [Alone](https://open.spotify.com/album/2L572virNeJpe4X8SAVbQ1) | 3:03 |
-| 42 | [Je N′aime Que Toi](https://open.spotify.com/track/5ziZpT9la4h3sjfvitLc1A) | [oftn](https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf) | [Je N′aime Que Toi](https://open.spotify.com/album/7uVRKea8NWn4gkMSEyQjcX) | 3:16 |
-| 43 | [Kangaroo](https://open.spotify.com/track/1Oi9J5OpJmnZusVBbt2cjo) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Kangaroo](https://open.spotify.com/album/7GBQfaZAiYs7K1kGRYUYKv) | 3:45 |
+| 42 | [Kangaroo](https://open.spotify.com/track/1Oi9J5OpJmnZusVBbt2cjo) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Kangaroo](https://open.spotify.com/album/7GBQfaZAiYs7K1kGRYUYKv) | 3:45 |
+| 43 | [Je N′aime Que Toi](https://open.spotify.com/track/5ziZpT9la4h3sjfvitLc1A) | [oftn](https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf) | [Je N′aime Que Toi](https://open.spotify.com/album/7uVRKea8NWn4gkMSEyQjcX) | 3:16 |
 | 44 | [\#mood](https://open.spotify.com/track/4e1Fkgr0liTavbc4ReUJF4) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [\#mood](https://open.spotify.com/album/5d5K0Jmy6346yBH2WGBatk) | 3:01 |
-| 45 | [Bad words](https://open.spotify.com/track/2yVgwIQvVXlHi22YzHBRFX) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb), [Housekeepers](https://open.spotify.com/artist/59l0058l1cWuL7g6TYxgy1) | [Bad words with KozyPop](https://open.spotify.com/album/6QOhAtSYIIp3VnZnakUvxa) | 3:17 |
-| 46 | [20MIN](https://open.spotify.com/track/1Wl9MPBkb50b4uevY6sxkA) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [24℃](https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5) | 2:56 |
-| 47 | [Hold tight](https://open.spotify.com/track/7oCyRPCxIT75x7nmEy3spP) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd), [Jaw](https://open.spotify.com/artist/3G71Qx8OKLTUCaPibXyNbn) | [Hold tight](https://open.spotify.com/album/2pjhKRc0AbbPEGZL2DzWpQ) | 2:54 |
-| 48 | [Nemo](https://open.spotify.com/track/2JZiDl32xEwkm7TjMOPUVB) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Never Gonna Dance Again : Act 1 \- The 3rd Album](https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf) | 3:55 |
+| 45 | [20MIN](https://open.spotify.com/track/1Wl9MPBkb50b4uevY6sxkA) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [24℃](https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5) | 2:56 |
+| 46 | [Bad words](https://open.spotify.com/track/2yVgwIQvVXlHi22YzHBRFX) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb), [Housekeepers](https://open.spotify.com/artist/59l0058l1cWuL7g6TYxgy1) | [Bad words with KozyPop](https://open.spotify.com/album/6QOhAtSYIIp3VnZnakUvxa) | 3:17 |
+| 47 | [Nemo](https://open.spotify.com/track/2JZiDl32xEwkm7TjMOPUVB) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Never Gonna Dance Again : Act 1 \- The 3rd Album](https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf) | 3:55 |
+| 48 | [Hold tight](https://open.spotify.com/track/7oCyRPCxIT75x7nmEy3spP) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd), [Jaw](https://open.spotify.com/artist/3G71Qx8OKLTUCaPibXyNbn) | [Hold tight](https://open.spotify.com/album/2pjhKRc0AbbPEGZL2DzWpQ) | 2:54 |
 | 49 | [Smile, Wait For The Flash](https://open.spotify.com/track/6G9XpQhn2iQhH8JHKMscBp) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Like A Film : 4 Songs](https://open.spotify.com/album/0fMEdEjJHaK4IAIZ7xM7pp) | 3:46 |
 | 50 | [Love is alone](https://open.spotify.com/track/2X5DVuUYZvP4CwmPwnHSTD) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 3:22 |
 
-Snapshot ID: `MTY3OTkwNTU5NywwMDAwMDAwMDJmZmU2NDZkMWM4NTI2ODQxNjIxNzc5ZmNhYWViMWRl`
+Snapshot ID: `MTY3OTkwNTU5NywwMDAwMDAwMGNlZmRhNDFlYjhhZDZjZWIyMGRlNzE5MTA0MjRjN2Zh`

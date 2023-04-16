@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 219268,
       "name": "30 Horas",
       "url": "https://open.spotify.com/track/0v1fyQIaCG4e3TwCO3F0VZ"
@@ -613,6 +613,24 @@
     },
     {
       "album": {
+        "name": "Caminando por Quisqueya",
+        "url": "https://open.spotify.com/album/1z6vx39dIoXCScxQ8c6xn4"
+      },
+      "artists": [
+        {
+          "name": "ChiChi Peralta",
+          "url": "https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360000,
+      "name": "Caminando por Quisqueya",
+      "url": "https://open.spotify.com/track/2avb4jaEXShHqfAF3yuKhX"
+    },
+    {
+      "album": {
         "name": "Canta Mundo",
         "url": "https://open.spotify.com/album/24HC9D5W71Twk747rBx4Pl"
       },
@@ -740,7 +758,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 287293,
       "name": "Cattin' Latin",
       "url": "https://open.spotify.com/track/2U5ceAAb10OELgDJ8YVuxl"
@@ -1225,6 +1243,28 @@
     },
     {
       "album": {
+        "name": "El Caudal",
+        "url": "https://open.spotify.com/album/57zjLKLycEw9ezNKgXBDtI"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237619,
+      "name": "El Caudal",
+      "url": "https://open.spotify.com/track/3Eofn5MhdnUYozRhcxGYLN"
+    },
+    {
+      "album": {
         "name": "It's Time",
         "url": "https://open.spotify.com/album/0o4Yp01humYmlsZ4Jnhs3g"
       },
@@ -1496,6 +1536,28 @@
       "duration_ms": 293048,
       "name": "Enter Sandman",
       "url": "https://open.spotify.com/track/1waCD1063ls5iPDXqXKkwb"
+    },
+    {
+      "album": {
+        "name": "Espantap\u00e1jaros",
+        "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "La Perla",
+          "url": "https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Espantap\u00e1jaros",
+      "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
     },
     {
       "album": {
@@ -2116,7 +2178,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 300163,
       "name": "Mas Pan - DJ Day Remix",
       "url": "https://open.spotify.com/track/0inc22aCFp3gQvrC8LbDaf"

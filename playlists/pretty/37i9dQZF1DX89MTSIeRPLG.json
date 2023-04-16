@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/funnymarco/\">Funny Marco</a>",
-  "num_followers": 4426,
+  "num_followers": 4454,
   "original_name": "Funny Marco's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY1NjI3MSwwMDAwMDAwMDYxNzAzMzBkMmUzNjIxYjNlODE3OTE5NTI0OTFiNjIy",
+  "snapshot_id": "MTY2NDY1NjI3MSwwMDAwMDAwMDY5MjIxNzZjYTAyM2Q5NTQxMDAwMzIzNzU1ZTFkYzJk",
   "tracks": [
     {
       "added_at": "2022-10-01 20:31:11",
@@ -203,22 +203,6 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "Wolf Talk",
-        "url": "https://open.spotify.com/album/5SVniwgSdrKp3lk4H3TivW"
-      },
-      "artists": [
-        {
-          "name": "Grind2hard Osh\u2019a",
-          "url": "https://open.spotify.com/artist/2PnBmX5Wpq0hUQuGh9W5ET"
-        }
-      ],
-      "duration_ms": 173949,
-      "name": "Nowhere 2 Run",
-      "url": "https://open.spotify.com/track/6RCET3cus4uP5eX9zIpeOb"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
         "name": "On Me (Remix) (with Megan Thee Stallion)",
         "url": "https://open.spotify.com/album/0Qta1EXfjfRgjE74XYEFta"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 135444,
       "name": "On Me (Remix) (with Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/589jILaMtVqRiVxubmnLiF"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
+        "name": "Wolf Talk",
+        "url": "https://open.spotify.com/album/5SVniwgSdrKp3lk4H3TivW"
+      },
+      "artists": [
+        {
+          "name": "Grind2hard Osh\u2019a",
+          "url": "https://open.spotify.com/artist/2PnBmX5Wpq0hUQuGh9W5ET"
+        }
+      ],
+      "duration_ms": 173949,
+      "name": "Nowhere 2 Run",
+      "url": "https://open.spotify.com/track/6RCET3cus4uP5eX9zIpeOb"
     },
     {
       "added_at": "2022-10-01 20:31:11",
@@ -371,22 +371,6 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "B.H.D. (Black Hearted Demon)",
-        "url": "https://open.spotify.com/album/2Qeie0AYfdOr2Y0Gp9qCIT"
-      },
-      "artists": [
-        {
-          "name": "Seddy Hendrinx",
-          "url": "https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4"
-        }
-      ],
-      "duration_ms": 157866,
-      "name": "Hands Down",
-      "url": "https://open.spotify.com/track/0AjxDudmpT7MMkqtwCtJbE"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
         "name": "Period",
         "url": "https://open.spotify.com/album/0TV6rA9EkTHEVNOjfsyLFS"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 200013,
       "name": "Period",
       "url": "https://open.spotify.com/track/6SNYJG1rOe01x83XtaXXNi"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
+        "name": "B.H.D. (Black Hearted Demon)",
+        "url": "https://open.spotify.com/album/2Qeie0AYfdOr2Y0Gp9qCIT"
+      },
+      "artists": [
+        {
+          "name": "Seddy Hendrinx",
+          "url": "https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4"
+        }
+      ],
+      "duration_ms": 157866,
+      "name": "Hands Down",
+      "url": "https://open.spotify.com/track/0AjxDudmpT7MMkqtwCtJbE"
     },
     {
       "added_at": "2022-10-01 20:31:11",
@@ -627,26 +627,6 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "Flawed (feat. Gunna)",
-        "url": "https://open.spotify.com/album/79nszPHl1lNtFjEThFXYOI"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 204455,
-      "name": "Flawed (feat. Gunna)",
-      "url": "https://open.spotify.com/track/2W9fORGdpOPoCvkbCZL9t8"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
         "name": "Zero Tolerance",
         "url": "https://open.spotify.com/album/4XyOdD2CwwEWZbSzjcZhgZ"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 257062,
       "name": "Zero Tolerance",
       "url": "https://open.spotify.com/track/4jStn4ko3zvyLkY2upthYM"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
+        "name": "Flawed (feat. Gunna)",
+        "url": "https://open.spotify.com/album/79nszPHl1lNtFjEThFXYOI"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 204455,
+      "name": "Flawed (feat. Gunna)",
+      "url": "https://open.spotify.com/track/2W9fORGdpOPoCvkbCZL9t8"
     },
     {
       "added_at": "2022-10-01 20:31:11",

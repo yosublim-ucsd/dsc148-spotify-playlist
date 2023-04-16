@@ -4,7 +4,7 @@
 
 > This is G Herbo\. The essential tracks, all in one playlist.
 
-76 songs - 3 hr 49 min
+77 songs - 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,10 +23,11 @@
 | [Cap Guns](https://open.spotify.com/track/7I2XiD0oUxwwcTemm2ftFG) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [PTSD \(Deluxe\)](https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY) | 3:16 | 2022-10-28 |  |
 | [Change \(Gun Shots\)](https://open.spotify.com/track/6bEuvxnlot2M9SnyryuqLZ) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Survivor's Remorse: A Side & B Side](https://open.spotify.com/album/7i1M24FtpfeRmaztP15sDU) | 2:25 | 2022-10-28 | 2022-11-05 |
 | [Chase Em Down \(feat\. G Herbo\)](https://open.spotify.com/track/6nUKL13cbO4ngkiPSQveRP) | [Lil Zay Osama](https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Trench Baby 3](https://open.spotify.com/album/0WcrXk7wQoVhbQSvIFpPMx) | 2:47 | 2022-10-28 | 2022-11-19 |
-| [Chi\-Raq \(with G Herbo\)](https://open.spotify.com/track/5dOcS75jq0kLKbvCY9P2Ex) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Beam Me Up Scotty](https://open.spotify.com/album/2upw5IrzeqKApIQZyx5o6r) | 3:51 | 2023-03-09 |  |
+| [Chi\-Raq \(with G Herbo\)](https://open.spotify.com/track/5dOcS75jq0kLKbvCY9P2Ex) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Beam Me Up Scotty](https://open.spotify.com/album/2upw5IrzeqKApIQZyx5o6r) | 3:51 | 2023-03-09 | 2023-04-16 |
 | [Chicago to Memphis \(feat\. G Herbo\)](https://open.spotify.com/track/2mNoak5bp3xjAOAWgWtLrS) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Me vs\. Me](https://open.spotify.com/album/4KrQSZfzmxp0aftaBZj7m3) | 3:29 | 2022-10-28 |  |
 | [Chiraq Demons \(feat\. G Herbo\)](https://open.spotify.com/track/3dqsY4TIr0KHJGDgzhGm2t) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Just Cause Y'all Waited 2](https://open.spotify.com/album/3D4bwVn4Wp8Za0Amkyd5I5) | 2:54 | 2023-02-07 |  |
 | [Cry No More](https://open.spotify.com/track/1TwQ0XtQfCgcstxhpOSg7t) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [25](https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz) | 3:41 | 2022-10-28 |  |
+| [DISABILITY CHECKS \(feat\. G Herbo\)](https://open.spotify.com/track/6hlQBPN4v4LPR2SzDGbsaW) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Cottonwood 2](https://open.spotify.com/album/7l49L64CFakYuaV4EL11sP) | 3:22 | 2023-04-15 |  |
 | [DON'T LEAVE ME \(feat\. G Herbo & Lil Durk\)](https://open.spotify.com/track/2n1XN46reBpu5I9wDwzZMP) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 2:47 | 2023-01-26 |  |
 | [Everything](https://open.spotify.com/track/4HNFreT8wNv9oOFC5RQew9) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Humble Beast \(Deluxe\)](https://open.spotify.com/album/46Shwm91xl9opm3MadNEGn) | 2:41 | 2022-10-28 |  |
 | [Facetime \(feat\. G Herbo\)](https://open.spotify.com/track/0AfBqvVQowOxKyau7NxUWp) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [What It Means To Be King](https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B) | 2:36 | 2022-10-28 |  |

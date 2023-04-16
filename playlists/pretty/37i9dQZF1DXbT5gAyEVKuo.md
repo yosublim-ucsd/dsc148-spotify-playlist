@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 
 > The power of praise lives on LIVE! Get up on your feet and let the spirit move in your heart to these amazing performances.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,496 likes - 49 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,583 likes - 49 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 6 | [Worth Fighting For \- Live](https://open.spotify.com/track/51fegUPIH02heRh9fkkLwE) | [Brian Courtney Wilson](https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx) | [Worth Fighting For \(Deluxe Edition/Live\)](https://open.spotify.com/album/2k0sC10qtMISosAn9xgvNe) | 6:46 |
 | 7 | [For Your Glory \- Live](https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 6:46 |
 | 8 | [Indescribable \- Live](https://open.spotify.com/track/2LidjA0hYpXu0T7XlKChpg) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [BRL](https://open.spotify.com/artist/7aOTcGOCh3ZQv0vY93hGoZ) | [Free](https://open.spotify.com/album/6uibqw6D0zCO7FGvAGSf5s) | 9:09 |
-| 9 | [Brighter Day](https://open.spotify.com/track/1QXhzptk3KMnO8xewGePhu) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Setlist: The Very Best Of Kirk Franklin Live](https://open.spotify.com/album/3pxNJpoQFVi4CBxEQdxTTU) | 5:40 |
-| 10 | [Wide as the Sky \- Live](https://open.spotify.com/track/2efVdOaY8t4wqaIfMH2jik) | [Isabel Davis](https://open.spotify.com/artist/0zLMumXvsZqoNGYU5KWHX0) | [Wide as the Sky](https://open.spotify.com/album/5Tu8nE6k0ZDiwTanXGFCoO) | 7:58 |
+| 9 | [Wide as the Sky \- Live](https://open.spotify.com/track/2efVdOaY8t4wqaIfMH2jik) | [Isabel Davis](https://open.spotify.com/artist/0zLMumXvsZqoNGYU5KWHX0) | [Wide as the Sky](https://open.spotify.com/album/5Tu8nE6k0ZDiwTanXGFCoO) | 7:58 |
+| 10 | [Brighter Day](https://open.spotify.com/track/1QXhzptk3KMnO8xewGePhu) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Setlist: The Very Best Of Kirk Franklin Live](https://open.spotify.com/album/3pxNJpoQFVi4CBxEQdxTTU) | 5:40 |
 | 11 | [Father Jesus Spirit \(Live\)](https://open.spotify.com/track/3HFDqVk2aoM1o7MKARrW5U) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [Worship Journal \(Live\)](https://open.spotify.com/album/2lC14ntR7i7DrUWKVcJd8I) | 6:24 |
 | 12 | [This Is A Move \- Live](https://open.spotify.com/track/776imhCfnvp9NoIYJ8uj0G) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [This Is A Move \(Live\)](https://open.spotify.com/album/5SH3LZPcZVx5fr6uQ7R2pF) | 7:25 |
 | 13 | [We Fall Down \- Live](https://open.spotify.com/track/1HXzXYbhLDdpFkJyBxEjIF) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra) | [Live in London and More ..](https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v) | 4:53 |
@@ -56,6 +56,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 46 | [It's Not Over](https://open.spotify.com/track/4HY5Tyq3E7c7LlfSPUItRf) | [Karen Clark Sheard](https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1) | [The Best Of Gospel Superfest \(Live\)](https://open.spotify.com/album/7zXF8rjj6tDybn7aavDm6N) | 6:19 |
 | 47 | [Intentional \- Live](https://open.spotify.com/track/3Tgll8Cq5gfGUv03oTyQQD) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Setlist Vol\. 1 \(Live\)](https://open.spotify.com/album/0fRY9s3aFVDG3n9g4atgII) | 5:38 |
 | 48 | [The Lord's Prayer \- Live](https://open.spotify.com/track/07Mjg6guQW9bJNspyyncGb) | [Richard Smallwood](https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP) | [20th Century Masters \- The Millennium Collection: The Best Of Richard Smallwood](https://open.spotify.com/album/1vqjoOP0rOi0zHrbvBp8nU) | 4:27 |
-| 49 | [Tell Of His Goodness](https://open.spotify.com/track/7vBHM4rng1xTrCJij4uoCK) | [Jerome L\. Ferrell & The Lighthouse Choir](https://open.spotify.com/artist/5dXf1eZq3oPmDmhbtNTGgs), [Douglas Miller](https://open.spotify.com/artist/3JdlJocMhluxsB9wkSScsB) | [Tell Of His Goodness](https://open.spotify.com/album/5DuVNo2xLDf9HBazJjPUEq) | 5:48 |
+| 49 | [Celebrate \- Live](https://open.spotify.com/track/1VB3lMBTurh6z4DcKvINYL) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR) | [Gospel's Best Live](https://open.spotify.com/album/5NvLAYXvwMmEfYC5K2CsUd) | 4:03 |
 
-Snapshot ID: `MTY3NjY5ODA4NCwwMDAwMDAwMGM4ZWJmZGJmNjkyZTFlMDM1YmEzYTMyODk5YWUzZThm`
+Snapshot ID: `MTY3NjY5ODA4NCwwMDAwMDAwMDE2NTc3NTlkZjYwZDA3OTMzMTM5MzIzNDI2MjFhOWMw`

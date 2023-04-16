@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw0Z91oVe88.md) - [plain]
 
 > 우산을 던지고 빗 속으로 뛰어들고 싶은 날에 들으세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,426 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,428 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,15 +41,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw0Z91oVe88.md) - [plain]
 | 31 | [To us \(feat\. wave to earth & WAVY\)](https://open.spotify.com/track/1EsJBtBizwxkRdnf8w6lZc) | [APRO](https://open.spotify.com/artist/779Q9oJXqbVHN4DbtTYa6O), [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg), [WAVY](https://open.spotify.com/artist/1OFmtxGqmk075mMtlKWVRV) | [To us \(feat\. wave to earth & WAVY\)](https://open.spotify.com/album/6XG56vDIbGbimJg3OiZJq3) | 4:14 |
 | 32 | [RAINING](https://open.spotify.com/track/7t3pwGJjc4FNbgRzbVLWlJ) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [EVERYD4Y](https://open.spotify.com/album/0PT0APCmw2DVgX4JJYtrzU) | 3:41 |
 | 33 | [Love Me](https://open.spotify.com/track/5DFMm7GU1BWf5zokCD9qSi) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [ONE](https://open.spotify.com/album/2jiqNvn5avoJkcSNaUE1EA) | 3:10 |
-| 34 | [Cold World](https://open.spotify.com/track/4N2qh0ovGWJOSPqCB2007q) | [OVAN](https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS) | [Cold World](https://open.spotify.com/album/1LV9rvmb5ibcrCKLcv6Pv2) | 3:28 |
-| 35 | [365](https://open.spotify.com/track/02hojXLuubRkvxm6jcD0No) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 4:14 |
+| 34 | [365](https://open.spotify.com/track/02hojXLuubRkvxm6jcD0No) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 4:14 |
+| 35 | [Cold World](https://open.spotify.com/track/4N2qh0ovGWJOSPqCB2007q) | [OVAN](https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS) | [Cold World](https://open.spotify.com/album/1LV9rvmb5ibcrCKLcv6Pv2) | 3:28 |
 | 36 | [Repeat \(Original Soundtrack from the Webtoon "The returned duke"\) \[prod\. PATEKO\]](https://open.spotify.com/track/7kfXPBhBOHNu5AHjFS0Iug) | [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [Repeat \(Original Soundtrack from the Webtoon "The returned duke"\) \[prod\. PATEKO\]](https://open.spotify.com/album/6WHcLvLRbZoSJuGFOzzHnq) | 2:41 |
 | 37 | [I Will Remember You](https://open.spotify.com/track/40I9cCZCKcPtyU5MoziIHk) | [Hwang Inhyeock](https://open.spotify.com/artist/28OLqzxmCoA3k8XQQXU3To) | [Summer Strike, Pt\. 11 \(Original Soundtrack\)](https://open.spotify.com/album/4c2io6xcGCFbYWStLbQlKS) | 4:14 |
 | 38 | [Disconnected](https://open.spotify.com/track/7FoSoIvql4oXc8I60L8Fqi) | [HIGHLIGHT](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [The Blowing](https://open.spotify.com/album/12bPrSSJZ1qysNAGEFGzGC) | 3:10 |
 | 39 | [About Time](https://open.spotify.com/track/2jCReozD8Vuwfl8QwY1Au9) | [Hoppipolla](https://open.spotify.com/artist/1S80vOcrnT9UD9zgLeyfx2) | [Spring to Spring](https://open.spotify.com/album/2eWnAFsvpRhlP3j1nCFzCR) | 5:28 |
 | 40 | [Cloud](https://open.spotify.com/track/10WR5K1KXPTw0fkHoc7Iah) | [박지원](https://open.spotify.com/artist/7sYsnmmEZ0vpNVoz9V7h3E) | [Racket Boys \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/3LZCD80VWyUCWwJW9wuxLX) | 3:23 |
-| 41 | [Fuzzy peach](https://open.spotify.com/track/3mWDyC2TAIk71P5wbwyXod) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Fuzzy peach](https://open.spotify.com/album/26peULcrRxnzOoRCqQZEzx) | 4:11 |
-| 42 | [WERE WE?](https://open.spotify.com/track/6p0Mxm4v5RUHaS2k3KHVBE) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 3:44 |
+| 41 | [WERE WE?](https://open.spotify.com/track/6p0Mxm4v5RUHaS2k3KHVBE) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 3:44 |
+| 42 | [Fuzzy peach](https://open.spotify.com/track/3mWDyC2TAIk71P5wbwyXod) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Fuzzy peach](https://open.spotify.com/album/26peULcrRxnzOoRCqQZEzx) | 4:11 |
 | 43 | [YOU \(feat\. Beenzino\)](https://open.spotify.com/track/0U3rsGULd1uysrZo4B7bCj) | [Lim Seul Ong](https://open.spotify.com/artist/0lfuVlyKgbJIpdDXEfGRiR), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [YOU \(feat .Beenzino\)](https://open.spotify.com/album/3EDGzwwhumpoxgsqGwzpFn) | 4:15 |
 | 44 | [A Letter in The Wind](https://open.spotify.com/track/5fk9FvsE57Ai8lHLuICJFx) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Beautiful Night \- The 4th Mini Album](https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T) | 4:27 |
 | 45 | [흐르는 시간 속에 우리는 아름다워 What A Beautiful Night](https://open.spotify.com/track/3zDJ728eY8S3PGNFpNZX71) | [WISUE](https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry) | [Cobalt Blue](https://open.spotify.com/album/7LNZEGjzSYIwdyYIim6M3x) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw0Z91oVe88.md) - [plain]
 | 49 | [Go Your Way](https://open.spotify.com/track/5CKEQUucs3M5To1LqfC8Qq) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA I](https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN) | 1:56 |
 | 50 | [Someday](https://open.spotify.com/track/6SHcJIhRWtiHGmWuAwlxUt) | [Yi Sung Yol](https://open.spotify.com/artist/1uwchldM1ngqs8xCZg0DK9) | [Hundred Million Stars from the Sky \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/00vsz6H264Nbmq4XXMgK7d) | 4:25 |
 
-Snapshot ID: `MTY3OTkwNTY5MCwwMDAwMDAwMDczODI5ZmRkZjkyODE0NGYyYWQ1Mzc4ZTM1ZjJhZTZi`
+Snapshot ID: `MTY3OTkwNTY5MCwwMDAwMDAwMDlmNWZhNjYwYzc1ZWU5OTBlM2VhMjI2ZjhmNzI4NzAy`

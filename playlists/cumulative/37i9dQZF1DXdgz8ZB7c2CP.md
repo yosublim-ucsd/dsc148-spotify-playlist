@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring Elohim
 
-385 songs - 21 hr 36 min
+386 songs - 21 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [I LUV U](https://open.spotify.com/track/1al8r3l7iz20WrImQUJKOI) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux) | [I LUV U](https://open.spotify.com/album/4HHrcXMrwJC7tRO9ylWOgu) | 3:47 | 2021-09-17 | 2022-07-26 |
 | [I Need](https://open.spotify.com/track/0GQIKU1SAydsJmcZCr4OF0) | [Sasha Rome](https://open.spotify.com/artist/7KGmg4NzIcv4InBOaenfJu), [capshun](https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL) | [I Need](https://open.spotify.com/album/5Qt2uVDDHA7wNxS8WfLraX) | 2:51 | 2021-08-06 | 2023-03-12 |
 | [i'm busy](https://open.spotify.com/track/5WMym0tnIA4jkBvyl5KmXr) | [bloody white](https://open.spotify.com/artist/5wZF02QJCBqUNCgl1pxrFQ) | [i'm busy](https://open.spotify.com/album/1tpx9WDPwZkFWnHNZr85pU) | 2:48 | 2021-08-06 | 2022-06-30 |
+| [IDFLU](https://open.spotify.com/track/4btPFFVz1aZ7RtrIIwe23t) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M), [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [IDFLU](https://open.spotify.com/album/139FdSB8EJfPzBhZiU6QSf) | 2:52 | 2023-04-13 |  |
 | [idio\-savan](https://open.spotify.com/track/21kzMROplBP8MhBCmfYcSm) | [Serph](https://open.spotify.com/artist/1N0uTSN7HQpzJYmQIvsusL) | [Psychic Music](https://open.spotify.com/album/05bDe8Ngwf8YLwu6uPmRsa) | 4:24 | 2021-11-26 | 2023-03-10 |
 | [Illuminate](https://open.spotify.com/track/4JpQy59PDi8Wiucp4fHSpH) | [HOUNDTRACK](https://open.spotify.com/artist/3nw1z931Oc4JMbF4rGfz6O), [capshun](https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL) | [Illuminate](https://open.spotify.com/album/2yZmsxq2kSnNv6wWCYN2Fq) | 2:45 | 2021-08-06 | 2022-07-29 |
 | [Imagination](https://open.spotify.com/track/47Au9gs4EFabXhFVBTg6Xk) | [iGerman](https://open.spotify.com/artist/4hkHAVlTVsZxt1CwaKlNVk), [xoedoxo](https://open.spotify.com/artist/5gn4vickuJVeed4m46FSGa) | [Imagination](https://open.spotify.com/album/2c4cBfQgxCqw0FSM0Ti0XV) | 2:58 | 2021-08-06 | 2022-04-16 |
@@ -303,7 +304,7 @@
 | [So Long \- Tails Remix](https://open.spotify.com/track/7fM3iJ14tE5SX1L1TVpf7p) | [On Planets](https://open.spotify.com/artist/5uz8HDS6eOsefdqSyMlTzi), [Tails](https://open.spotify.com/artist/007nYTXRhZJUZGH7ct5Y3v) | [So Long \(Tails Remix\)](https://open.spotify.com/album/59kBvCq6MskdMYq0Fts11t) | 4:12 | 2023-03-03 |  |
 | [Social Jungle \- Hippie Sabotage Remix](https://open.spotify.com/track/0MiWH0qt7s1NaLywTKAB7q) | [Herizen](https://open.spotify.com/artist/3niPESDNKjDtTNfWzxZkXv), [Hippie Sabotage](https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE) | [Social Jungle \(Remixes\)](https://open.spotify.com/album/1ieAAhsCYApk763sKtTgCB) | 4:40 | 2021-08-06 |  |
 | [Solstice](https://open.spotify.com/track/5YCGiUK8GHKTDzen6nJc4Y) | [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ) | [Solstice](https://open.spotify.com/album/4VVYjDuvidxSiGwfcBUykX) | 5:03 | 2023-04-11 |  |
-| [Somehow We Lost It All](https://open.spotify.com/track/0g66FWakF5IcElzf6ATayB) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [Pham](https://open.spotify.com/artist/2GH5uRMxmuAWn90B8DEZU3), [josh pan](https://open.spotify.com/artist/2sfSQ1BOzaFQa3LZj6OGwD) | [Somehow We Lost It All](https://open.spotify.com/album/3fIiWSfrNefw3VTA0buoq4) | 2:59 | 2022-04-29 |  |
+| [Somehow We Lost It All](https://open.spotify.com/track/0g66FWakF5IcElzf6ATayB) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [Pham](https://open.spotify.com/artist/2GH5uRMxmuAWn90B8DEZU3), [josh pan](https://open.spotify.com/artist/2sfSQ1BOzaFQa3LZj6OGwD) | [Somehow We Lost It All](https://open.spotify.com/album/3fIiWSfrNefw3VTA0buoq4) | 2:59 | 2022-04-29 | 2023-04-16 |
 | [Something Wonderful](https://open.spotify.com/track/1bgsB8QJAfc2y0KqI44Y7J) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd) | [Cura](https://open.spotify.com/album/7BNJxjx8NRl8brF2PeOHJI) | 4:19 | 2021-08-06 |  |
 | [Sonder](https://open.spotify.com/track/3td8TUsU9wfF4saGDi6NI4) | [Jaron](https://open.spotify.com/artist/4kerBatvaELCGJDnDqW5oq) | [Sonder](https://open.spotify.com/album/0hyjsGgDVWPqVwAm7NfYhZ) | 5:39 | 2021-08-06 | 2022-04-21 |
 | [SORROW TECH \- Good Times Ahead Remix](https://open.spotify.com/track/3MyVIXUGQnxVTS1oScHziI) | [MUST DIE!](https://open.spotify.com/artist/4aBx7mA6lUOVhEsjokZrXb), [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU) | [SORROW TECH \(Good Times Ahead Remix\)](https://open.spotify.com/album/301h6nWPcna2nHMocZQ8IP) | 4:21 | 2021-08-06 | 2022-04-18 |

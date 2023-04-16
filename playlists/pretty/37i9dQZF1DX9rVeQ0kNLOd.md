@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,877 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,899 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 | 26 | [Wonderland](https://open.spotify.com/track/3DMz5XiVasCKSHXgYrSc9i) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Shade](https://open.spotify.com/album/54Xk8agoEmBJtxl0qMwixB) | 3:44 |
 | 27 | [Shinunoga E\-Wa](https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31) | 3:05 |
 | 28 | [CHILL CHILL MICHELLE feat\. SUDA MASAKI](https://open.spotify.com/track/2JVOI4H7atEqOUVdmPZ4RA) | [STRANGE REITARO](https://open.spotify.com/artist/56GlPMUHPnbBDYMMbgLHN4), [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [CHILL CHILL MICHELLE feat\. SUDA MASAKI](https://open.spotify.com/album/4JOhow7VJUDmmdYWbjVvvC) | 4:23 |
-| 29 | [Have a nice day](https://open.spotify.com/track/3FmTrTjnEZ9ZX7b0LUPZYW) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Have a nice day](https://open.spotify.com/album/2nCMRcMAZgmMJc9SV4gN1l) | 2:55 |
+| 29 | [Burning Friday Night](https://open.spotify.com/track/1NlkoYEA1ndLQIKzXTPh9V) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [FULLCOLOR](https://open.spotify.com/album/1rDLRueueI2ILXOyZE5qWd) | 4:15 |
 | 30 | [Nobose](https://open.spotify.com/track/1n6W03okyF7dsmY83leZ6d) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Ima no Futari o Otagai ga Miteru](https://open.spotify.com/album/0blSK7mLYswCAF9517kcKb) | 3:02 |
-| 31 | [Burning Friday Night](https://open.spotify.com/track/1NlkoYEA1ndLQIKzXTPh9V) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [FULLCOLOR](https://open.spotify.com/album/1rDLRueueI2ILXOyZE5qWd) | 4:15 |
+| 31 | [Have a nice day](https://open.spotify.com/track/3FmTrTjnEZ9ZX7b0LUPZYW) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Have a nice day](https://open.spotify.com/album/2nCMRcMAZgmMJc9SV4gN1l) | 2:55 |
 | 32 | [apart](https://open.spotify.com/track/0xXsJc6dz9YT4NMRnNAiry) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [apart](https://open.spotify.com/album/4L00KfJ0AfJ0lUEUNW0AGr) | 2:56 |
 | 33 | [Re:Deadstock](https://open.spotify.com/track/1yeVYPhxJBdeSoUFVf0gkb) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU), [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [Re:Deadstock](https://open.spotify.com/album/2cDL3EX58mSFRisxcNRnwP) | 2:23 |
 | 34 | [咲まう](https://open.spotify.com/track/07kglGIdrAd9p2NdtCLEaD) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [Kimochy Season](https://open.spotify.com/album/2jg0b7paauECp2dSraJqul) | 4:08 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 | 45 | [snow jam](https://open.spotify.com/track/6uUtmCz8XXep7n1QmC1jJG) | [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4) | [swipe sheep](https://open.spotify.com/album/3jtrdWKt4Uo5iUU6VCc0do) | 3:05 |
 | 46 | [泣きたい夜](https://open.spotify.com/track/6LjHLHz1boefkLI41mfc5R) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [泣きたい夜](https://open.spotify.com/album/7qBDJmSURz5gb8EhJ3bBD0) | 3:20 |
 | 47 | [逃避行](https://open.spotify.com/track/0iotyDF6RF5klVLztERO5Z) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [逃避行](https://open.spotify.com/album/2YOs6ODpXdiokR9TACIm6R) | 3:11 |
-| 48 | [BUDDY feat\. PUNPEE](https://open.spotify.com/track/6bMSF3fC1jVEhJr5h0riXq) | [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [The Beam](https://open.spotify.com/album/0NT8BKRHuR95nYb8M0Z3Gh) | 3:36 |
-| 49 | [ブラウニー](https://open.spotify.com/track/2R6xQVJCCk1u8rPrxD5SmC) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [ブラウニー](https://open.spotify.com/album/5lDjj72VfeaRqvKJ3UYZGG) | 3:30 |
-| 50 | [花曇り](https://open.spotify.com/track/6v18W0JUT46W2FEAGUoB3k) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [花曇り](https://open.spotify.com/album/1fhcD4mJEnE8JmIzV9hidw) | 4:02 |
+| 48 | [花曇り](https://open.spotify.com/track/6v18W0JUT46W2FEAGUoB3k) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [花曇り](https://open.spotify.com/album/1fhcD4mJEnE8JmIzV9hidw) | 4:02 |
+| 49 | [BUDDY feat\. PUNPEE](https://open.spotify.com/track/6bMSF3fC1jVEhJr5h0riXq) | [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [The Beam](https://open.spotify.com/album/0NT8BKRHuR95nYb8M0Z3Gh) | 3:36 |
+| 50 | [ブラウニー](https://open.spotify.com/track/2R6xQVJCCk1u8rPrxD5SmC) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [ブラウニー](https://open.spotify.com/album/5lDjj72VfeaRqvKJ3UYZGG) | 3:30 |
 
-Snapshot ID: `MTY4MTM5ODAwMCwwMDAwMDAwMDFlMjg5ZDZkNGUxZDdlNzA2ZTcwODE0Mjc3M2M3MWQ4`
+Snapshot ID: `MTY4MTM5ODAwMCwwMDAwMDAwMGUwMGVjOWQzNmRiMTNlYmQxZWQ5YzI4NzkyOGQ1OTdk`

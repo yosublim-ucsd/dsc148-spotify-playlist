@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 250504,
+  "num_followers": 250559,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMDk5ZGQ4MzE1ZmNkYmRlNjc3M2U5MzRkYzdhOGU3ZGI3",
+  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMDQ4MTM1MjExM2FjYmVlY2I5NGRjYzc4ZjI0N2RmMGI4",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -195,6 +195,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Theres Still Us",
+        "url": "https://open.spotify.com/album/6weHAeERW1hoGdgXtEP1QZ"
+      },
+      "artists": [
+        {
+          "name": "Swell",
+          "url": "https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez"
+        }
+      ],
+      "duration_ms": 157524,
+      "name": "I'm Sorry",
+      "url": "https://open.spotify.com/track/1XWLdjLUzNDxW7ggw8uQnM"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "D97",
         "url": "https://open.spotify.com/album/1mE4mVb9LnzCHVBXKrVTD3"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 230000,
       "name": "Waiting for You",
       "url": "https://open.spotify.com/track/1olz3HctPa2yXmSniaCNLN"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Theres Still Us",
-        "url": "https://open.spotify.com/album/6weHAeERW1hoGdgXtEP1QZ"
-      },
-      "artists": [
-        {
-          "name": "Swell",
-          "url": "https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez"
-        }
-      ],
-      "duration_ms": 157524,
-      "name": "I'm Sorry",
-      "url": "https://open.spotify.com/track/1XWLdjLUzNDxW7ggw8uQnM"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -265,22 +265,6 @@
       "url": "https://open.spotify.com/track/0otN4xqX87CxYFtbzQEPkS"
     },
     {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Wave002",
-        "url": "https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU"
-      },
-      "artists": [
-        {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        }
-      ],
-      "duration_ms": 167766,
-      "name": "Free Form",
-      "url": "https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg"
-    },
-    {
       "added_at": "2019-09-16 15:44:25",
       "album": {
         "name": "Bismillah",
@@ -295,6 +279,22 @@
       "duration_ms": 313266,
       "name": "Where the Money Flows",
       "url": "https://open.spotify.com/track/35592qATAP1u72mO9oelLc"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Wave002",
+        "url": "https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        }
+      ],
+      "duration_ms": 167766,
+      "name": "Free Form",
+      "url": "https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -579,22 +579,6 @@
     {
       "added_at": "2019-05-24 08:01:00",
       "album": {
-        "name": "Aisle of Palm",
-        "url": "https://open.spotify.com/album/7GIqa5FgfcxOztfGL48KDr"
-      },
-      "artists": [
-        {
-          "name": "Beshken",
-          "url": "https://open.spotify.com/artist/5sHn9ENA6XtnLmOrVQt2BB"
-        }
-      ],
-      "duration_ms": 218311,
-      "name": "White Gemini",
-      "url": "https://open.spotify.com/track/5qVW9YK5Hfm07IUiMHR3te"
-    },
-    {
-      "added_at": "2019-05-24 08:01:00",
-      "album": {
         "name": "Your Own Truth",
         "url": "https://open.spotify.com/album/4vwKFcNLE0kUe8tsb7M4I7"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 293613,
       "name": "Your Own Truth",
       "url": "https://open.spotify.com/track/2wfqHxQtKQxHrsscsJRNrM"
+    },
+    {
+      "added_at": "2019-05-24 08:01:00",
+      "album": {
+        "name": "Aisle of Palm",
+        "url": "https://open.spotify.com/album/7GIqa5FgfcxOztfGL48KDr"
+      },
+      "artists": [
+        {
+          "name": "Beshken",
+          "url": "https://open.spotify.com/artist/5sHn9ENA6XtnLmOrVQt2BB"
+        }
+      ],
+      "duration_ms": 218311,
+      "name": "White Gemini",
+      "url": "https://open.spotify.com/track/5qVW9YK5Hfm07IUiMHR3te"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -669,22 +669,6 @@
       "url": "https://open.spotify.com/track/0ZfI5ROJZ69K0RPysSgkJW"
     },
     {
-      "added_at": "2019-03-18 20:29:35",
-      "album": {
-        "name": "Never Meant to Call",
-        "url": "https://open.spotify.com/album/11WGsf87BALAgX0eMSX19S"
-      },
-      "artists": [
-        {
-          "name": "Claud",
-          "url": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Never Meant To Call",
-      "url": "https://open.spotify.com/track/2GfmhU4E6NgIlqxa0wlGoD"
-    },
-    {
       "added_at": "2018-12-11 21:12:31",
       "album": {
         "name": "Naps",
@@ -699,6 +683,22 @@
       "duration_ms": 238148,
       "name": "Naps",
       "url": "https://open.spotify.com/track/6NLeGH6nGVTZzc9eOYrNmp"
+    },
+    {
+      "added_at": "2019-03-18 20:29:35",
+      "album": {
+        "name": "Never Meant to Call",
+        "url": "https://open.spotify.com/album/11WGsf87BALAgX0eMSX19S"
+      },
+      "artists": [
+        {
+          "name": "Claud",
+          "url": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Never Meant To Call",
+      "url": "https://open.spotify.com/track/2GfmhU4E6NgIlqxa0wlGoD"
     },
     {
       "added_at": "2018-12-11 21:12:31",

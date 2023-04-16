@@ -4,7 +4,7 @@
 
 > Knees go down and the prayers go up
 
-51 songs - 5 hr 49 min
+52 songs - 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Fragrance to Fire](https://open.spotify.com/track/7eGDM90StP3QFkcwJPaLRg) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Gospel of the Kingdom](https://open.spotify.com/album/25YIWvGm47WqKctz8k76r5) | 10:57 | 2023-04-06 |  |
 | [Hallelujah](https://open.spotify.com/track/1ZRSxZVgRM5Xv7edLmp7nL) | [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [Xperience with Love](https://open.spotify.com/album/7JRYRjbrM7mNZ2SUtYWXVi) | 9:46 | 2023-04-06 |  |
 | [Holy Holy](https://open.spotify.com/track/3c59MimChLvVDK5cVccW2p) | [Uwana Etuk](https://open.spotify.com/artist/1vUtm6BcZuvgWqlhCUF2M3) | [Yahwey](https://open.spotify.com/album/65h9sRcIJ4yJNNtG99CQ3x) | 8:00 | 2023-04-06 |  |
-| [I No Dey Barb \- Live](https://open.spotify.com/track/0uciaLe3hi9e3DajkIfgQ9) | [Vessel Chordrick](https://open.spotify.com/artist/6EGiCuki3lR2xk4PuoGCbr) | [I No Dey Barb \(Live\)](https://open.spotify.com/album/2Txpw7FNGiW196XcEyaymm) | 8:23 | 2023-04-06 |  |
+| [I No Dey Barb \- Live](https://open.spotify.com/track/0uciaLe3hi9e3DajkIfgQ9) | [Vessel Chordrick](https://open.spotify.com/artist/6EGiCuki3lR2xk4PuoGCbr) | [I No Dey Barb \(Live\)](https://open.spotify.com/album/2Txpw7FNGiW196XcEyaymm) | 8:23 | 2023-04-06 | 2023-04-16 |
 | [I Stand Amazed \(Live\)](https://open.spotify.com/track/0544EK1JJF4rBb2DREyn26) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [The Name of Jesus: Sinach Live in Concert](https://open.spotify.com/album/2KU9F20rbyLkgVM1LS7PvQ) | 7:24 | 2023-04-06 |  |
 | [IBUKA](https://open.spotify.com/track/1L6CfVaAwXZ2Btfial9Uo8) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [IBUKA](https://open.spotify.com/album/60LewVA2ONlxDPAXOhfwCQ) | 5:02 | 2023-04-06 |  |
 | [Imela](https://open.spotify.com/track/6cyYQWOwUORc8K1oBVqEvW) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [You are Great](https://open.spotify.com/album/4eAqG1pUpVTKstF0cR7Jum) | 5:19 | 2023-04-06 |  |
@@ -47,6 +47,7 @@
 | [On Fire](https://open.spotify.com/track/2rn3SbXpuzacWTj6WQEB2W) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Return Rev\. 2:4](https://open.spotify.com/album/4thMivYYO5sTAfgCfSU7tI) | 8:51 | 2023-04-06 |  |
 | [Onise Iyanu \(feat\. Micah Stampley\)](https://open.spotify.com/track/0S7l0Nz5MztXjkNTppknRp) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Micah Stampley](https://open.spotify.com/artist/32HUki1MDatCzJlahnhjqK) | [This God Is Too Good](https://open.spotify.com/album/5RCbwQMe3LwArxqneTQMTg) | 6:06 | 2023-04-06 |  |
 | [Out of My Belly \- Live](https://open.spotify.com/track/50nShU4u2162BawAOHjH03) | [Prospa Ochimana](https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g), [Theophilus Sunday](https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6), [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT) | [Out of My Belly \(Live\)](https://open.spotify.com/album/1nqWp6JtcCYJSAqczv8rsM) | 14:24 | 2023-04-06 |  |
+| [Reason](https://open.spotify.com/track/4Z9DZqnQJy68WIBft5pNQD) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Reason](https://open.spotify.com/album/7qRh53LMZ3GQTTaNWVPq2o) | 3:07 | 2023-04-14 |  |
 | [See What the Lord Has Done](https://open.spotify.com/track/3BPPakEzZWw0pQQzuQfvBt) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Names of God](https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF) | 7:34 | 2023-04-06 |  |
 | [So Good](https://open.spotify.com/track/0SHtiTJHKedzCfu32dIFQ7) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Fearless Wrshp](https://open.spotify.com/album/0qUGI3RkYQIKuIXhrPE9Fd) | 6:13 | 2023-04-06 |  |
 | [Spirit Chant](https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Spirit Chant](https://open.spotify.com/album/7FzNCkKKqToJjJGXFhWkrf) | 10:10 | 2023-04-06 |  |

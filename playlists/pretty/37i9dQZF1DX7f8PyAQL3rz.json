@@ -1,12 +1,12 @@
 {
   "description": "kayblack esquece",
-  "num_followers": 1104398,
+  "num_followers": 1105052,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ3NzA4MCwwMDAwMDAwMDk0NzY5NmNhZGRmMTNkZDdmZTNiMWM0NTM1N2E0Yjcy",
+  "snapshot_id": "MTY4MTQ3NzA4MCwwMDAwMDAwMGQyOWQwYmJmMjVmY2Q0NzJkYzkxNTg5ZjBhOGY3MTYx",
   "tracks": [
     {
       "added_at": "2023-04-14 12:58:00",
@@ -451,30 +451,6 @@
     {
       "added_at": "2023-04-14 12:58:00",
       "album": {
-        "name": "Namora A\u00ed",
-        "url": "https://open.spotify.com/album/2MhX3Z4EpIVYLG0KduFY1i"
-      },
-      "artists": [
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Mc Daniel",
-          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
-        },
-        {
-          "name": "Kotim",
-          "url": "https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN"
-        }
-      ],
-      "duration_ms": 148615,
-      "name": "Namora A\u00ed",
-      "url": "https://open.spotify.com/track/1ACALdBWViTpLBC14Ecv8E"
-    },
-    {
-      "added_at": "2023-04-14 12:58:00",
-      "album": {
         "name": "Dos Pr\u00e9dios",
         "url": "https://open.spotify.com/album/7ARyKbobUo0oE30Arwe67d"
       },
@@ -507,6 +483,30 @@
       "duration_ms": 210545,
       "name": "Vida Chique",
       "url": "https://open.spotify.com/track/5ffDENIdtByAZxHpuuj9li"
+    },
+    {
+      "added_at": "2023-04-14 12:58:00",
+      "album": {
+        "name": "Namora A\u00ed",
+        "url": "https://open.spotify.com/album/2MhX3Z4EpIVYLG0KduFY1i"
+      },
+      "artists": [
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc Daniel",
+          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
+        },
+        {
+          "name": "Kotim",
+          "url": "https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN"
+        }
+      ],
+      "duration_ms": 148615,
+      "name": "Namora A\u00ed",
+      "url": "https://open.spotify.com/track/1ACALdBWViTpLBC14Ecv8E"
     },
     {
       "added_at": "2023-04-14 12:58:00",
@@ -887,34 +887,6 @@
     {
       "added_at": "2023-04-14 12:58:00",
       "album": {
-        "name": "Pandora",
-        "url": "https://open.spotify.com/album/25yqPTm5X7FXx62mPnjcsC"
-      },
-      "artists": [
-        {
-          "name": "DJ Matt D",
-          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
-        },
-        {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
-        },
-        {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Pandora",
-      "url": "https://open.spotify.com/track/0yL7K9MzC20uBesZTPY81r"
-    },
-    {
-      "added_at": "2023-04-14 12:58:00",
-      "album": {
         "name": "Desabafo",
         "url": "https://open.spotify.com/album/5glFkBO45WBRpvp4dMWPrm"
       },
@@ -943,6 +915,34 @@
       "duration_ms": 150508,
       "name": "Desabafo",
       "url": "https://open.spotify.com/track/37LWZe5mdHIKuXBh8GuwlH"
+    },
+    {
+      "added_at": "2023-04-14 12:58:00",
+      "album": {
+        "name": "Pandora",
+        "url": "https://open.spotify.com/album/25yqPTm5X7FXx62mPnjcsC"
+      },
+      "artists": [
+        {
+          "name": "DJ Matt D",
+          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
+        },
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Pandora",
+      "url": "https://open.spotify.com/track/0yL7K9MzC20uBesZTPY81r"
     },
     {
       "added_at": "2023-04-14 12:58:00",
@@ -995,6 +995,30 @@
     {
       "added_at": "2023-04-14 12:58:00",
       "album": {
+        "name": "Contradi\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        }
+      ],
+      "duration_ms": 124913,
+      "name": "C'est la vie (B\u00f4nus)",
+      "url": "https://open.spotify.com/track/1QRDn63eQzqC8dpNcI7HtQ"
+    },
+    {
+      "added_at": "2023-04-14 12:58:00",
+      "album": {
         "name": "Maloqueiro",
         "url": "https://open.spotify.com/album/7GyE4rLSIVuvEUzYBUlGZJ"
       },
@@ -1023,30 +1047,6 @@
       "duration_ms": 232411,
       "name": "Maloqueiro",
       "url": "https://open.spotify.com/track/2YShSMbfqvkqzvHRDtSHUU"
-    },
-    {
-      "added_at": "2023-04-14 12:58:00",
-      "album": {
-        "name": "Contradi\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        }
-      ],
-      "duration_ms": 124913,
-      "name": "C'est la vie (B\u00f4nus)",
-      "url": "https://open.spotify.com/track/1QRDn63eQzqC8dpNcI7HtQ"
     },
     {
       "added_at": "2023-04-14 12:58:00",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2023-04-14 12:58:00",
       "album": {
+        "name": "Louis V, Menina Linda",
+        "url": "https://open.spotify.com/album/5eaGuSnryGzU9Z6qg2pXxP"
+      },
+      "artists": [
+        {
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+        }
+      ],
+      "duration_ms": 215004,
+      "name": "Louis V, Menina Linda",
+      "url": "https://open.spotify.com/track/5NunX2CvtMyvZHdV1CPZsJ"
+    },
+    {
+      "added_at": "2023-04-14 12:58:00",
+      "album": {
         "name": "O S\u00e1bio",
         "url": "https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 186947,
       "name": "Ai Calica",
       "url": "https://open.spotify.com/track/65CB461aKF5FvIuuzqUgXu"
-    },
-    {
-      "added_at": "2023-04-14 12:58:00",
-      "album": {
-        "name": "Louis V, Menina Linda",
-        "url": "https://open.spotify.com/album/5eaGuSnryGzU9Z6qg2pXxP"
-      },
-      "artists": [
-        {
-          "name": "Sidoka",
-          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
-        }
-      ],
-      "duration_ms": 215004,
-      "name": "Louis V, Menina Linda",
-      "url": "https://open.spotify.com/track/5NunX2CvtMyvZHdV1CPZsJ"
     },
     {
       "added_at": "2023-04-14 12:58:00",
@@ -1383,54 +1383,6 @@
     {
       "added_at": "2023-04-14 12:58:00",
       "album": {
-        "name": "NUNCA SOZ\u0130NHO",
-        "url": "https://open.spotify.com/album/1qF4rCJnQ6wnIHeIfK6BOk"
-      },
-      "artists": [
-        {
-          "name": "hamza7",
-          "url": "https://open.spotify.com/artist/7541kRGbFjmVsqPV4CMVzp"
-        },
-        {
-          "name": "Votabia",
-          "url": "https://open.spotify.com/artist/4klGZvLtbfhDtrdTTS2EhK"
-        }
-      ],
-      "duration_ms": 137647,
-      "name": "NUNCA SOZ\u0130NHO",
-      "url": "https://open.spotify.com/track/0HAvN3XZPCnOrfFIFGcXp6"
-    },
-    {
-      "added_at": "2023-04-14 12:58:00",
-      "album": {
-        "name": "Londres Freestyle",
-        "url": "https://open.spotify.com/album/2u5F0rIXQeCZHvtuB3ySxU"
-      },
-      "artists": [
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        },
-        {
-          "name": "Viper",
-          "url": "https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Londres Freestyle",
-      "url": "https://open.spotify.com/track/1lgavq2sDLrnD5h5BytyBr"
-    },
-    {
-      "added_at": "2023-04-14 12:58:00",
-      "album": {
         "name": "Bando",
         "url": "https://open.spotify.com/album/6ooI3OR7HdGiiTMUWXgfQp"
       },
@@ -1471,6 +1423,54 @@
       "duration_ms": 380689,
       "name": "Bando",
       "url": "https://open.spotify.com/track/0XQqDiOmHFnITVwNohti8w"
+    },
+    {
+      "added_at": "2023-04-14 12:58:00",
+      "album": {
+        "name": "Londres Freestyle",
+        "url": "https://open.spotify.com/album/2u5F0rIXQeCZHvtuB3ySxU"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        },
+        {
+          "name": "Viper",
+          "url": "https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Londres Freestyle",
+      "url": "https://open.spotify.com/track/1lgavq2sDLrnD5h5BytyBr"
+    },
+    {
+      "added_at": "2023-04-14 12:58:00",
+      "album": {
+        "name": "NUNCA SOZ\u0130NHO",
+        "url": "https://open.spotify.com/album/1qF4rCJnQ6wnIHeIfK6BOk"
+      },
+      "artists": [
+        {
+          "name": "hamza7",
+          "url": "https://open.spotify.com/artist/7541kRGbFjmVsqPV4CMVzp"
+        },
+        {
+          "name": "Votabia",
+          "url": "https://open.spotify.com/artist/4klGZvLtbfhDtrdTTS2EhK"
+        }
+      ],
+      "duration_ms": 137647,
+      "name": "NUNCA SOZ\u0130NHO",
+      "url": "https://open.spotify.com/track/0HAvN3XZPCnOrfFIFGcXp6"
     }
   ],
   "unique_name": "creme",

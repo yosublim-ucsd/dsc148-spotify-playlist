@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuZvbpQVftE.md) - [plain]
 
 > The cool sound of West coast Jazz\. Cover: Gerry Mulligan
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,775 likes - 50 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,797 likes - 50 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuZvbpQVftE.md) - [plain]
 | 17 | [Everybody's Jumpin'](https://open.spotify.com/track/0r3ZObqOhirTkBCr8f4L9q) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Time Out](https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA) | 4:22 |
 | 18 | [Imagination](https://open.spotify.com/track/2of5gKZdb2dw3IeJCTd1qi) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Art Pepper Meets The Rhythm Section \(OJC Remaster\)](https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX) | 5:55 |
 | 19 | [Chetty's Lullaby](https://open.spotify.com/track/3CfVHLrRxTLDqGZA25w5Eh) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet is Back](https://open.spotify.com/album/7BsY0CO8mqyXnLf4KiB5AM) | 3:55 |
-| 20 | [With A Little Bit Of Luck \- Instrumental](https://open.spotify.com/track/2sYInNWcg7ZL9cLobvs0oo) | [Shelly Manne And His Friends](https://open.spotify.com/artist/4NmuwMxBl62HSU4nXZYLUf) | [My Fair Lady](https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza) | 6:02 |
-| 21 | [The Eagle Flies](https://open.spotify.com/track/0L8PnNpkT1o7Mi9uK3doo5) | [Teddy Charles](https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn) | [Coolin'](https://open.spotify.com/album/5JK0dCS5Tzymtjvt3DsvA2) | 7:43 |
+| 20 | [The Eagle Flies](https://open.spotify.com/track/0L8PnNpkT1o7Mi9uK3doo5) | [Teddy Charles](https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn) | [Coolin'](https://open.spotify.com/album/5JK0dCS5Tzymtjvt3DsvA2) | 7:43 |
+| 21 | [With A Little Bit Of Luck \- Instrumental](https://open.spotify.com/track/2sYInNWcg7ZL9cLobvs0oo) | [Shelly Manne And His Friends](https://open.spotify.com/artist/4NmuwMxBl62HSU4nXZYLUf) | [My Fair Lady](https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza) | 6:02 |
 | 22 | [Grooveyard](https://open.spotify.com/track/2DS10kEktKybLiPI30WvFG) | [Harold Land](https://open.spotify.com/artist/1jcPgyzUoFrMSI5jloL3LD) | [Harold In The Land Of Jazz](https://open.spotify.com/album/4VvgRg2qKq70YWZjKGepiG) | 7:06 |
 | 23 | [Star Song](https://open.spotify.com/track/2JRsstA67i53C1GQiIdUUd) | [Vince Guaraldi](https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV) | [The Latin Side Of Vince Guaraldi](https://open.spotify.com/album/6pyKEXTSWmqvSGGg7Hc1t4) | 3:36 |
 | 24 | [Stockholm Sweetnin'](https://open.spotify.com/track/5G0fv40KyLkpSiPtc0Q8gf) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [This Is How I Feel About Jazz](https://open.spotify.com/album/2JN9W6snU2SvqW7ER0Vknk) | 5:40 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuZvbpQVftE.md) - [plain]
 | 32 | [Too Close For Comfort](https://open.spotify.com/track/0ZU39CemSAamm1dtiSAchp) | [Stan Getz Quartet](https://open.spotify.com/artist/1LGtimLfGcQLKYJD1a1j1r) | [The Steamer \(Expanded Edition\)](https://open.spotify.com/album/2k1gozS6ZPvo38ZucooatA) | 6:19 |
 | 33 | [Steve Allen Theme](https://open.spotify.com/track/6v4si83mpUqBwwAUKFbFuR) | [Bud Shank](https://open.spotify.com/artist/2UuKUaomk3bZ0nHM3Y3FdW), [Bob Cooper](https://open.spotify.com/artist/4DnrmZA1htqVJxqycYIswK) | [Blowin' Country](https://open.spotify.com/album/6Gif5fN122j92QDgzgPSZM) | 4:11 |
 | 34 | [Blue Steel](https://open.spotify.com/track/6A5n5BZfgR2IhzlV1GbGWf) | [Shelly Manne and His Men](https://open.spotify.com/artist/0jiF8voCldfvNjfCEr6JDF) | [Son Of Gunn!!](https://open.spotify.com/album/0wIqfFb0f9BQTjdUt31Zlq) | 4:49 |
-| 35 | [Sunset](https://open.spotify.com/track/6DT90JA5wdKatQf12NynLb) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj), [Bud Powell Quartet](https://open.spotify.com/artist/2vBE1v3LSzP5FGUm3sDo4Z) | [Sonny Stitt, Bud Powell, J.J\. Johnson](https://open.spotify.com/album/7qbujqTVR3B9ED9DqGd1sB) | 3:45 |
-| 36 | [The Quiet Time](https://open.spotify.com/track/6WAHaBnRvUFjw6L6Q2mMDh) | [Teddy Charles](https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn) | [The Teddy Charles Tentet](https://open.spotify.com/album/4SIPInfo9sWkrdOQJaLEhh) | 5:50 |
+| 35 | [The Quiet Time](https://open.spotify.com/track/6WAHaBnRvUFjw6L6Q2mMDh) | [Teddy Charles](https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn) | [The Teddy Charles Tentet](https://open.spotify.com/album/4SIPInfo9sWkrdOQJaLEhh) | 5:50 |
+| 36 | [Sunset](https://open.spotify.com/track/6DT90JA5wdKatQf12NynLb) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj), [Bud Powell Quartet](https://open.spotify.com/artist/2vBE1v3LSzP5FGUm3sDo4Z) | [Sonny Stitt, Bud Powell, J.J\. Johnson](https://open.spotify.com/album/7qbujqTVR3B9ED9DqGd1sB) | 3:45 |
 | 37 | [The Wind](https://open.spotify.com/track/3BeZhOKQMg67oQ5NA1ChB2) | [Chico Hamilton Quintet](https://open.spotify.com/artist/46KGomcx6B13NuFgu6GNT6) | [Chico Hamilton Quintet In Hi\-Fi](https://open.spotify.com/album/2dFpm1YkRBmyINNSAOYMGg) | 3:39 |
 | 38 | [Custard Puff](https://open.spotify.com/track/1qzchpVVLBAtZrz2EJMOge) | [Barney Kessel](https://open.spotify.com/artist/6pVkGhtBvjj1P52yn0tNLG), [Ray Brown](https://open.spotify.com/artist/0SvD7DL5CQTbcrMtns1US8), [Shelly Manne](https://open.spotify.com/artist/6M7ScGp8p2GspFJaIMh1Yo) | [The Poll Winners Ride Again!](https://open.spotify.com/album/7gZqZCkWIPlSAbttTYHgaT) | 4:49 |
 | 39 | [Patti Cake](https://open.spotify.com/track/5mAWOB72eW90rZtr3wzcYE) | [Herb Ellis](https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz) | [Nothing But The Blues](https://open.spotify.com/album/3looSg4zNUFzKAyyos640A) | 6:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuZvbpQVftE.md) - [plain]
 | 49 | [Ahmoore](https://open.spotify.com/track/4lsys7hGDgypUoMZFvi9ke) | [Jack Sheldon](https://open.spotify.com/artist/0AP9ck0QA9iqnCWJ16G7qj) | [The Quartet and the Quintet](https://open.spotify.com/album/6p27kZ6ymuGGZoXNapHwt9) | 3:15 |
 | 50 | [Brandenburg Gate](https://open.spotify.com/track/4p71KdIiYX7KQrkXoXE32X) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [The Essential Dave Brubeck](https://open.spotify.com/album/2IaDMqrxVulBfj5Riy29xL) | 6:50 |
 
-Snapshot ID: `MTY4MTQ1NTkwMiwwMDAwMDAwMDhkZGIwMzNjMjNmNWZkYjQxZDA2YTFjMTAwZmM4MDU4`
+Snapshot ID: `MTY4MTQ1NTkwMiwwMDAwMDAwMGYxN2Y0MzJjMGY4NDlkOWUwN2I2YjhhNjQ0MDk5OTk2`

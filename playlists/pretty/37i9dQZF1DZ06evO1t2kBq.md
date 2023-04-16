@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1t2kBq.md) - [plain]
 
 > This is Bad Religion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,960 likes - 50 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,017 likes - 50 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1t2kBq.md) - [plain]
 | 45 | [Incomplete](https://open.spotify.com/track/3cZxrIwGDz6lKi2S1XMgmA) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Stranger Than Fiction](https://open.spotify.com/album/4yzTm8IjIyybhPFGMTyv2N) | 2:29 |
 | 46 | [The Approach](https://open.spotify.com/track/5Oyt7rwRrplyyNyRSRjVc8) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Age Of Unreason](https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz) | 2:25 |
 | 47 | [Atomic Garden](https://open.spotify.com/track/0iKBQiTlNxTUPeBDCzlFRP) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Generator](https://open.spotify.com/album/31CyVs73lB9MrLOTHBeEgr) | 3:10 |
-| 48 | [Kerosene](https://open.spotify.com/track/29UzZipBctdph1OIIGVzrS) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Recipe For Hate](https://open.spotify.com/album/1DMLunJrzPkQws2uQU797l) | 2:41 |
-| 49 | [Atheist Peace](https://open.spotify.com/track/72VqIWmCDS423j8TglfMWK) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Empire Strikes First](https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE) | 1:57 |
+| 48 | [Atheist Peace](https://open.spotify.com/track/72VqIWmCDS423j8TglfMWK) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Empire Strikes First](https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE) | 1:57 |
+| 49 | [Kerosene](https://open.spotify.com/track/29UzZipBctdph1OIIGVzrS) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Recipe For Hate](https://open.spotify.com/album/1DMLunJrzPkQws2uQU797l) | 2:41 |
 | 50 | [Tiny Voices](https://open.spotify.com/track/1XrTWPYZbc0yLpBLY3rKD9) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Stranger Than Fiction](https://open.spotify.com/album/4yzTm8IjIyybhPFGMTyv2N) | 2:37 |
 
-Snapshot ID: `MjgwMjQ4NTIsMDAwMDAwMDBkMGNiNjY3NmJjYzU5NjZmNmZiMzkxYWY1OTE5ODE4Ng==`
+Snapshot ID: `MjgwMjYwMzIsMDAwMDAwMDBiNzBlMzU3MGMwNjE1MWY4ZjI5YzY4MjkxZGQwYTZiZA==`

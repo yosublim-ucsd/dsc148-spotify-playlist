@@ -4,7 +4,7 @@
 
 > The hottest local and global tracks in Pakistan\. Cover \- Kaifi Khalil
 
-165 songs - 9 hr 58 min
+166 songs - 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [Jo Tu Na Mila x Habibi \(Mashup\)](https://open.spotify.com/track/2weDNfUaaHIy5ck06qCJ54) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [Arshman Naeem](https://open.spotify.com/artist/2WF847myArLiNE7Cjs9kgD) | [Jo Tu Na Mila x Habibi \(Mashup\)](https://open.spotify.com/album/3zbB8G3qBkAK74gobhZ3RB) | 3:09 | 2022-10-10 | 2023-04-13 |
 | [Kab Tak](https://open.spotify.com/track/7bu8qrmyzKhsJKvpeUL4KY) | [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ), [aleemrk](https://open.spotify.com/artist/384pA1WJO9B09gUcuIL2XP), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5) | [Kab Tak](https://open.spotify.com/album/7bXlnUUgJnn1ETCgMSr8vs) | 5:31 | 2022-10-03 | 2022-11-22 |
 | [Kahani Suno 2.0](https://open.spotify.com/track/4VsP4Dm8gsibRxB5I2hEkw) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9) | [Kahani Suno 2.0](https://open.spotify.com/album/6BHlJhCk1vjCG6hqTG2SFV) | 2:53 | 2022-08-15 |  |
-| [Kali Kali Zulfon Ke \(Lo\-Fi\)](https://open.spotify.com/track/7oN0Wo7sCVvXPdpxoio3JM) | [Madhur Sharma](https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ) | [Kali Kali Zulfon Ke \(Lo\-Fi\)](https://open.spotify.com/album/6pbaTBzAT23yL5xJxJfiFR) | 1:17 | 2022-10-24 |  |
+| [Kali Kali Zulfon Ke \(Lo\-Fi\)](https://open.spotify.com/track/7oN0Wo7sCVvXPdpxoio3JM) | [Madhur Sharma](https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ) | [Kali Kali Zulfon Ke \(Lo\-Fi\)](https://open.spotify.com/album/6pbaTBzAT23yL5xJxJfiFR) | 1:17 | 2022-10-24 | 2023-04-16 |
+| [Kali Kali Zulfon Ke \(Lo\-Fi\)](https://open.spotify.com/track/3mUkVsovIuscQlSoMhmAZt) | [Madhur Sharma](https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ), [Swapnil Tare](https://open.spotify.com/artist/16023OFrIxSmKOMpIVJ6Ax), [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Kali Kali Zulfon Ke \(Lo\-Fi\)](https://open.spotify.com/album/1zLlgNA1tyiabDhDwWhyPG) | 1:17 | 2023-04-12 |  |
 | [Kana Yaari](https://open.spotify.com/track/7MTUN4bpk7Im3Sxz9oCULf) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9), [Eva B](https://open.spotify.com/artist/6uKDXHJSM9VI5H6FhONorO), [Wahab Bugti](https://open.spotify.com/artist/2IBpBrzMIaeeXJnzfJIVLA) | [Kana Yaari](https://open.spotify.com/album/6DRq94aOT9Ml8WhJ4PzNGT) | 3:46 | 2022-06-20 | 2023-04-13 |
 | [Kesariya](https://open.spotify.com/track/4UMIv5jd9gK98a39BQRD9X) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Brahmastra \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4kIPlpwEZBK9JaI9pZHe79) | 4:28 | 2023-04-12 |  |
 | [Kesariya \(From "Brahmastra"\)](https://open.spotify.com/track/6VBhH7CyP56BXjp8VsDFPZ) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Kesariya \(From "Brahmastra"\)](https://open.spotify.com/album/1HeX4SmCFW4EPHQDvHgrVS) | 4:28 | 2022-07-18 | 2023-04-13 |

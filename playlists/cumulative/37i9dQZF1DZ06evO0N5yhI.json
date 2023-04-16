@@ -552,7 +552,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 475186,
       "name": "Killer + The Sound",
       "url": "https://open.spotify.com/track/00fRUfon3pr861IKiG03kA"
@@ -1328,6 +1328,28 @@
       "duration_ms": 81733,
       "name": "Without You Without Them",
       "url": "https://open.spotify.com/track/12EkF8uGofptstVIX7Oc0C"
+    },
+    {
+      "album": {
+        "name": "Your Mind Is Not Your Friend (feat. Phoebe Bridgers)",
+        "url": "https://open.spotify.com/album/78QvpShQvtm7mk3Ghjqqa3"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264320,
+      "name": "Your Mind Is Not Your Friend (feat. Phoebe Bridgers)",
+      "url": "https://open.spotify.com/track/7wOIdJkbhLcmA0vniQiVVJ"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0N5yhI"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3JKYkV.md) - [plain]
 
 > This is Aphex Twin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,821 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,862 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,12 +15,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3JKYkV.md) - [plain]
 | 5 | [Avril 14th](https://open.spotify.com/track/1uaGSDFsLdReQgg8p7Obwh) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2) | 2:05 |
 | 6 | [Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 4:53 |
 | 7 | [Alberto Balsalm](https://open.spotify.com/track/6gbmylJ7sB7NFfMfTQHosf) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE) | 5:10 |
-| 8 | [\#20](https://open.spotify.com/track/0Pg0frSTti7d8Ck1OmOYkz) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH) | 4:15 |
-| 9 | [Flim](https://open.spotify.com/track/3JJ4BoL9WVHk4Yye2EGJC7) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Come To Daddy](https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx) | 2:57 |
+| 8 | [Flim](https://open.spotify.com/track/3JJ4BoL9WVHk4Yye2EGJC7) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Come To Daddy](https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx) | 2:57 |
+| 9 | [\#20](https://open.spotify.com/track/0Pg0frSTti7d8Ck1OmOYkz) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH) | 4:15 |
 | 10 | [Ageispolis](https://open.spotify.com/track/7KRQoq9GeWeCm0ZAXg5XMb) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 5:23 |
 | 11 | [Nanou2](https://open.spotify.com/track/6pHuMjk9O1G3XTTqbnpkTl) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2) | 3:25 |
-| 12 | [180db\_ \[130\]](https://open.spotify.com/track/5oKbtirX6EbMMOgD2fMJ6E) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w) | 3:11 |
-| 13 | [IZ\-US](https://open.spotify.com/track/6INSqTqDoz6ndc0oKTi0Sq) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Come To Daddy](https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx) | 2:57 |
+| 12 | [IZ\-US](https://open.spotify.com/track/6INSqTqDoz6ndc0oKTi0Sq) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Come To Daddy](https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx) | 2:57 |
+| 13 | [180db\_ \[130\]](https://open.spotify.com/track/5oKbtirX6EbMMOgD2fMJ6E) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w) | 3:11 |
 | 14 | [Heliosphan](https://open.spotify.com/track/09opLVMX7cfKVKlP3iKZR1) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 4:53 |
 | 15 | [diskhat2](https://open.spotify.com/track/27wNZm2RGG8D7OQmVnvsWA) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Computer Controlled Acoustic Instruments pt2 EP](https://open.spotify.com/album/4NmpBWikuFV6jbYMegdi01) | 0:38 |
 | 16 | [Bbydhyonchord](https://open.spotify.com/track/0lLCH4mtQQYp6ASyJqhzgN) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2) | 2:33 |
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3JKYkV.md) - [plain]
 | 35 | [Acrid Avid Jam Shred](https://open.spotify.com/track/6RjEg1YpdNJlXrGOy4KeVs) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE) | 7:39 |
 | 36 | [Girl/Boy Song](https://open.spotify.com/track/2w6AYp7c3d4D3hbOISz0i0) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO) | 4:52 |
 | 37 | [fz pseudotimestretch+e+3 \[138.85\]](https://open.spotify.com/track/1xUwLbfbNoulgxRHeOAI04) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w) | 0:58 |
-| 38 | [Come To Daddy \- Pappy Mix](https://open.spotify.com/track/5H6cQ9QrYP23R6PALr1KCc) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Come To Daddy](https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx) | 4:22 |
+| 38 | [CHEETA2 ms800](https://open.spotify.com/track/34GfMyz21IF3sWkjW1CsHn) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Cheetah EP](https://open.spotify.com/album/6u6ES0Y3XthiMi8IGIrevq) | 0:37 |
 | 39 | [Mookid](https://open.spotify.com/track/75Ml44CCprAbusMbPZuHEr) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE) | 3:51 |
-| 40 | [CHEETA2 ms800](https://open.spotify.com/track/34GfMyz21IF3sWkjW1CsHn) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Cheetah EP](https://open.spotify.com/album/6u6ES0Y3XthiMi8IGIrevq) | 0:37 |
+| 40 | [Come To Daddy \- Pappy Mix](https://open.spotify.com/track/5H6cQ9QrYP23R6PALr1KCc) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Come To Daddy](https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx) | 4:22 |
 | 41 | [XMAS\_EVET10 \[120\]\[thanaton3 mix\]](https://open.spotify.com/track/3QwQ9oyEWD1Ufx7WfiJ4bn) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w) | 10:31 |
 | 42 | [Yellow Calx](https://open.spotify.com/track/4nouVnQrrO8Q1yje5Gz8Tq) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO) | 3:04 |
 | 43 | [On](https://open.spotify.com/track/7uy3fN7TaX7YkPecOYHf5S) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [On](https://open.spotify.com/album/3ST4JBcwc8LDpQCYoSx8YG) | 7:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3JKYkV.md) - [plain]
 | 49 | [diskhat1](https://open.spotify.com/track/63Vu4RLpirG3B3PIKtLBmP) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Computer Controlled Acoustic Instruments pt2 EP](https://open.spotify.com/album/4NmpBWikuFV6jbYMegdi01) | 2:26 |
 | 50 | [Wax The Nip](https://open.spotify.com/track/4OLn9JczgVsRespw6XSlHc) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE) | 4:18 |
 
-Snapshot ID: `MjgwMjQ4NTIsMDAwMDAwMDA2Zjk4YTg5MDZjYTFkNjc0NjcyOTAxZGVmYmIyZTNhMw==`
+Snapshot ID: `MjgwMjYwMzIsMDAwMDAwMDA1NGJjYThmMzNmYmRmMGQxMTMyZjY3MzlhNDNlMzczOA==`

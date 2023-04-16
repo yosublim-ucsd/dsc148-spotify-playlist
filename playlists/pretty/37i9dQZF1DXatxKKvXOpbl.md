@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatxKKvXOpbl.md) - [plain]
 
 > Uma seleção good vibes pra você trabalhar de boa!
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,663 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,686 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatxKKvXOpbl.md) - [plain]
 | 7 | [Someone You Loved](https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Breach](https://open.spotify.com/album/0NVQ9k3wKmuK6T02lLMl6y) | 3:02 |
 | 8 | [Dancing With A Stranger \(with Normani\)](https://open.spotify.com/track/6Qs4SXO9dwPj5GKvVOv8Ki) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Dancing With A Stranger \(with Normani\)](https://open.spotify.com/album/1V9oE8bVilClrk5naqyyvL) | 2:51 |
 | 9 | [Slow Down](https://open.spotify.com/track/3acsDG4uqWOGPidRAZkrqk) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [When I Wake Up](https://open.spotify.com/album/7fTeO9yatW5oHOJKKg6FfD) | 3:31 |
-| 10 | [I'm Yours](https://open.spotify.com/track/3wRj1xEd1nvc1bRwxQ1w1o) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Verão Acústico](https://open.spotify.com/album/72UnTh8BVLUkxTS4lpFfVE) | 4:02 |
+| 10 | [I'm Yours](https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [We Sing\. We Dance\. We Steal Things.](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) | 4:02 |
 | 11 | [Memories Remix \(feat\. Nipsey Hussle & YG\)](https://open.spotify.com/track/3p4WMekidOIiyf8SFvfrIC) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 3:09 |
 | 12 | [Calma](https://open.spotify.com/track/6aLJnupvPpT9HLv3xaUhe1) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Calma](https://open.spotify.com/album/2kcYEeVFU9YVN17OT7cEUy) | 3:00 |
 | 13 | [se essa vida fosse um filme](https://open.spotify.com/track/0hDphSo7vI7gCjEPpD6gu0) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [se essa vida fosse um filme](https://open.spotify.com/album/1Ekb2K13vBO6VkILvBV6LI) | 2:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatxKKvXOpbl.md) - [plain]
 | 99 | [Feel](https://open.spotify.com/track/0mesc5M3rg18gSQQELwwKu) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [THE S\(EX\) TAPES \[Extended\]](https://open.spotify.com/album/6hhMIHEN6xFMs8Ylj5Bvkj) | 3:02 |
 | 100 | [We Are Young \(feat\. Janelle Monáe\)](https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0), [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Some Nights](https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo) | 4:10 |
 
-Snapshot ID: `MTY2NTc0Mzc0MCwwMDAwMDAwMDg3ZWNhN2I5Yzg0OTk2ZjlmZDhlMzQxZGJjZGMxNjJl`
+Snapshot ID: `MTY2NTc0Mzc0MCwwMDAwMDAwMDBmNzY3YmEyZGNkMmRjNzRkN2Q0OTFkZGMxNGJkY2Q1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Vjk40.md) - [plain]
 
 > This is Chris Stapleton\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,761 likes - 43 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 513,085 likes - 43 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Vjk40.md) - [plain]
 | 42 | [Two Brothers](https://open.spotify.com/track/4nxRsCbVgnw6dtsGKfG2Qr) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Divided & United: The Songs of the Civil War](https://open.spotify.com/album/5LKADCJeT6jhS2uedeEk8m) | 2:56 |
 | 43 | [I Ain't Living Long Like This \- Live](https://open.spotify.com/track/6CEnKKsgWNZkTtHMgS2K7e) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Outlaw: Celebrating the Music of Waylon Jennings \(Live\)](https://open.spotify.com/album/0BhRRRjVOfXWLwKxBdNxXL) | 5:34 |
 
-Snapshot ID: `MjgwMjQ4NTIsMDAwMDAwMDA4YTE4NmMxMDAzMjU3ZWM2YjhkNDI0ZGQ1MDMyNGQ1NQ==`
+Snapshot ID: `MjgwMjYwMzIsMDAwMDAwMDBkNGFlOTk3YjExNjVkM2VlYWNhOGI5OGMzMGE4MjE3Mw==`

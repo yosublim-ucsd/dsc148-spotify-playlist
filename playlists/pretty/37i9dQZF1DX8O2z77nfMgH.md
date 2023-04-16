@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Música nueva de toda la región\. Esta semana en portada: Kenia OS y Gera MX
 
-[Spotify](https://open.spotify.com/user/spotify) - 929,412 likes - 71 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 929,496 likes - 71 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 37 | [niño,](https://open.spotify.com/track/3Yle1MUxWyj8NGS4ej8vnX) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT), [Muelas De Gallo](https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD) | [eduardo](https://open.spotify.com/album/6ylPT54V3iwJY2trdxTzTX) | 4:27 |
 | 38 | [La Misma Mujer](https://open.spotify.com/track/6f424CH1mjwlOLr8MevYp7) | [LA FIRMA](https://open.spotify.com/artist/72wklUFxQO6sCK8LFrMF9q), [RMAND](https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK), [Mosmo](https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr) | [COLABORACIONES](https://open.spotify.com/album/6BvUu9MCrLMkeTQa5lDuyU) | 2:27 |
 | 39 | [Fue Tu Amor](https://open.spotify.com/track/1Qhhodi50DjNCRVZP9aspL) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b) | [Fue Tu Amor](https://open.spotify.com/album/6z5yq4s02YSYYFVtWhjMc2) | 3:28 |
-| 40 | [King Privonsito](https://open.spotify.com/track/11MclgXfNPIhncOaE5Qxry) | [King Privonsito](https://open.spotify.com/artist/7ALBKGPv2FaoM5jGLGPElP), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [SAOCO](https://open.spotify.com/album/2bsFwyoROfWVj8Cp9dAyCA) | 3:03 |
+| 40 | [SAOCO](https://open.spotify.com/track/11MclgXfNPIhncOaE5Qxry) | [King Privonsito](https://open.spotify.com/artist/7ALBKGPv2FaoM5jGLGPElP), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [SAOCO](https://open.spotify.com/album/2bsFwyoROfWVj8Cp9dAyCA) | 3:03 |
 | 41 | [Hecha y Natural](https://open.spotify.com/track/2NKQD7wBrcZEgNPK1Jx5Jw) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [Hecha y Natural](https://open.spotify.com/album/5xTvw8LErtdxRmcMD6ZiLH) | 2:05 |
 | 42 | [OLA DE SUICIDIOS](https://open.spotify.com/track/0v2ESDRpC6X8k82tOnY91N) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [OLA DE SUICIDIOS](https://open.spotify.com/album/5cslTHbdAe79CyaKfAzYdM) | 2:34 |
 | 43 | [Diamante Roto](https://open.spotify.com/track/4pvkKHtaudkch7Zk3am1hS) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Diamante Roto](https://open.spotify.com/album/2uVFSNl6CyYRYVhRwxZm2t) | 3:01 |

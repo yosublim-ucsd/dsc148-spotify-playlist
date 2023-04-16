@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Costa Rica.
 
-662 songs - 1 day 13 hr 42 min
+663 songs - 1 day 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,7 +397,7 @@
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/3BZEcbdtXQSo7OrvKRJ6mb) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/album/5iZytG7j5DDp9RlsmkGI97) | 2:17 | 2021-03-31 | 2021-04-14 |
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/album/2Hjcfw8zHN4dJDZJGOzLd6) | 2:17 | 2021-04-14 | 2021-09-19 |
 | [MORE](https://open.spotify.com/track/4XKXphKH76W4zNpkgFS5o2) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MORE](https://open.spotify.com/album/5Sk4Inca1WZhP7VLuD7DOi) | 3:00 | 2022-07-02 | 2022-07-04 |
-| [Moscow Mule](https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:05 | 2022-05-07 |  |
+| [Moscow Mule](https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:05 | 2022-05-07 | 2023-04-16 |
 | [Muchachos, Ahora Nos Volvimos a Ilusionar](https://open.spotify.com/track/79d6fVzRM6DRYxR302AJFY) | [La Mosca Tse\-Tse](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W) | [Muchachos, Ahora Nos Volvimos a Ilusionar](https://open.spotify.com/album/0WRR7nTtUtQXKe8kpQHGvn) | 2:21 | 2022-12-19 | 2022-12-21 |
 | [Mujeres Divinas](https://open.spotify.com/track/2PxGGRmj5yunYdNF2Ud2vm) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Cuatrero](https://open.spotify.com/album/7La2o9LMM9fFhHpkBAZZxP) | 3:09 | 2021-12-14 | 2022-01-04 |
 | [Mujeriego](https://open.spotify.com/track/78kygHp1dvW1kncYjBgbe1) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Mujeriego](https://open.spotify.com/album/43sxUsU622oLloqafw61vN) | 2:22 | 2022-02-09 | 2022-02-18 |
@@ -603,6 +603,7 @@
 | [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 | 2023-02-25 |  |
 | [traitor](https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:49 | 2021-05-23 | 2021-08-29 |
 | [Trending One](https://open.spotify.com/track/2gkIpu6ENTHy2iX0OXbs4z) | [KAVVO](https://open.spotify.com/artist/7BxfvnCKOvC4pYttjF1gsO) | [Procedente](https://open.spotify.com/album/7EIkMp1lhoELiFfNmYZaxb) | 3:04 | 2022-04-23 | 2022-05-02 |
+| [Triste Verano](https://open.spotify.com/track/1AOPHC5whvr8K359BZu4kp) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Triste Verano](https://open.spotify.com/album/3tQugDvLsNa3RDu7bfRu6Y) | 3:32 | 2023-04-15 |  |
 | [Trotiao](https://open.spotify.com/track/6p5JmbIHOz6fgN99v1JbMl) | [Dixson Waz](https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt) | [Trotiao](https://open.spotify.com/album/0lnvWBLK0YDp6MWVHObWTB) | 1:56 | 2023-01-06 | 2023-01-09 |
 | [TSU](https://open.spotify.com/track/4s7QLoImIwmPi9L6dq1nVW) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 5:08 | 2021-09-05 | 2021-09-06 |
 | [Tu Príncipe](https://open.spotify.com/track/2FNqnsX74ZlwduUAcnmzee) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Barrio Fino \(Bonus Track Version\)](https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2) | 3:25 | 2022-10-24 | 2022-10-26 |

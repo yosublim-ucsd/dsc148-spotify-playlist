@@ -4,7 +4,7 @@
 
 > Left of center indie/alternative LGBTQIA+ artists\. Cover: Miya Folick
 
-171 songs - 9 hr 44 min
+172 songs - 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [megan fox](https://open.spotify.com/track/1S59E0qKUoPdVneBH4nelg) | [kezia](https://open.spotify.com/artist/3Tyez015JVVZwhnF6YFVOI) | [claire \(deluxe\)](https://open.spotify.com/album/1Z6bytsj2M6HXeVqhruReA) | 2:29 | 2022-06-06 |  |
 | [megan fox](https://open.spotify.com/track/1ZO1oxKK88xOhvJnA1QDPM) | [kezia](https://open.spotify.com/artist/3Tyez015JVVZwhnF6YFVOI) | [megan fox](https://open.spotify.com/album/2adAlemQTvmOKs5PHY0ugx) | 2:29 | 2022-06-01 | 2022-07-29 |
 | [Met on the Internet](https://open.spotify.com/track/6f2A5tGeWVKxfsgkMyRgtr) | [Izzy Heltai](https://open.spotify.com/artist/609L5isoR1bZrX1oB0y6dF) | [Day Plan \(5 Songs Written 4 the End of the World\)](https://open.spotify.com/album/4Z3J3Biam9YVmjpSnQziKX) | 4:16 | 2022-06-01 | 2022-07-28 |
-| [Missing Out](https://open.spotify.com/track/5vvn5HATa05iKVql6oYULV) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Missing Out](https://open.spotify.com/album/1WteYNWIkmmgTfquwV0Mc4) | 3:59 | 2021-06-22 |  |
+| [Missing Out](https://open.spotify.com/track/5vvn5HATa05iKVql6oYULV) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Missing Out](https://open.spotify.com/album/1WteYNWIkmmgTfquwV0Mc4) | 3:59 | 2021-06-22 | 2023-04-16 |
 | [More Like You](https://open.spotify.com/track/1UpFb9izAOYlcxWTOQzGf6) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [More Like You](https://open.spotify.com/album/2zX0uZRqO9wEG6Wq79T5jw) | 3:39 | 2021-06-22 |  |
 | [More Than a Friend](https://open.spotify.com/track/5TIyFlLF0EfYOUZH1TYxBq) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [More Than a Friend](https://open.spotify.com/album/5Gim9raGhoYvmx2bD31vJe) | 2:55 | 2021-06-22 |  |
 | [No Love \(feat\. Clara Nowhere & Joseph Schiano di Lombo\)](https://open.spotify.com/track/74YSDKKb2dsI78UbFx3ZeH) | [Saint DX](https://open.spotify.com/artist/4AHuSBzDte0ospEtW9rL18), [Joseph Schiano di Lombo](https://open.spotify.com/artist/3vuAmEyxhCFWETyJu69HIC) | [Unmixtape](https://open.spotify.com/album/6yHSfoEj8yulskJ2Q0lNv7) | 3:05 | 2022-06-01 | 2022-11-13 |
@@ -102,6 +102,7 @@
 | [Number One Fan](https://open.spotify.com/track/69WAiCaEdxACKzB4B7Bv27) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Saves The World](https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz) | 3:25 | 2021-06-22 | 2022-06-01 |
 | [NY](https://open.spotify.com/track/6ZDGjhsVQToQK74JfocrhM) | [Emily Vu](https://open.spotify.com/artist/3t3oOB1GYe4PFV2X6D29NS) | [Found](https://open.spotify.com/album/5CMCYw32tcYsqrPZnCypHx) | 2:14 | 2021-06-22 | 2022-06-01 |
 | [Old Flame](https://open.spotify.com/track/1oblFfkg4d9hWVMQU1c7NW) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [So When You Gonna…](https://open.spotify.com/album/1c2r6ZCRDMO4izQNrS9WeX) | 3:43 | 2021-06-22 | 2022-07-29 |
+| [Olympus](https://open.spotify.com/track/428djqRa5cPXovbZIYQOIO) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/46r4MXX8kzBWSwJg2WVm9Y) | 3:36 | 2023-03-07 |  |
 | [Olympus](https://open.spotify.com/track/7JONeaUwRAPZvrXBrhGq4E) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Olympus](https://open.spotify.com/album/35Hg5KkyQoM4s0tHFq5L1u) | 3:36 | 2022-06-08 | 2023-04-11 |
 | [Olympus](https://open.spotify.com/track/4yTFuPeN2UHzboAyUhgqIk) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Olympus](https://open.spotify.com/album/7pTDGUWMPGL6Z62Prx4jZ4) | 3:44 | 2022-06-08 | 2022-11-11 |
 | [On the Floor](https://open.spotify.com/track/05HElY3EVth4SMuOJOGusl) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Set My Heart On Fire Immediately](https://open.spotify.com/album/5qWrp5RcqjxB8ak7dtK6Iv) | 5:03 | 2022-06-01 |  |

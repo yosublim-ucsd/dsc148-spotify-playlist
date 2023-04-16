@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 
 > All the vibes\. All the feels\. 🫠
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,574,491 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,575,118 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 | 63 | [Inhale](https://open.spotify.com/track/0ycIrEpkyb4lrqE7M1emju) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [A N N I V E R S A R Y](https://open.spotify.com/album/5KpXxX7OUDXRs25qLyN8NA) | 2:51 |
 | 64 | [Unloyal \(with Ari Lennox\)](https://open.spotify.com/track/081Shn2hU3YxvQmGaCPegr) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:27 |
 | 65 | [Get You \(feat\. Kali Uchis\)](https://open.spotify.com/track/6N3qHjcwly8ZuhE4bPYJAX) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Get You \- Single](https://open.spotify.com/album/5qfhZ5YkZ4LhEUbYgjrWt6) | 4:37 |
-| 66 | [Juke Jam \(feat\. Justin Bieber & Towkio\)](https://open.spotify.com/track/3eze1OsZ1rqeXkKStNfTmi) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Towkio](https://open.spotify.com/artist/23sYU61n9f1CzYi8NJhAXS) | [Coloring Book](https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB) | 3:39 |
-| 67 | [Good & Plenty](https://open.spotify.com/track/1VAKnb1btGrQXcVZVSRkPe) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Good & Plenty](https://open.spotify.com/album/53FhNZMrcBim6Ec9mp8ifl) | 3:24 |
+| 66 | [Good & Plenty](https://open.spotify.com/track/1VAKnb1btGrQXcVZVSRkPe) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Good & Plenty](https://open.spotify.com/album/53FhNZMrcBim6Ec9mp8ifl) | 3:24 |
+| 67 | [Juke Jam \(feat\. Justin Bieber & Towkio\)](https://open.spotify.com/track/3eze1OsZ1rqeXkKStNfTmi) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Towkio](https://open.spotify.com/artist/23sYU61n9f1CzYi8NJhAXS) | [Coloring Book](https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB) | 3:39 |
 | 68 | [You Can't Save Me](https://open.spotify.com/track/5LKzqs734Xs528hqK8bGS1) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Chasing Summer](https://open.spotify.com/album/5zUDvKAyEKkrhYLWJJWGPQ) | 2:54 |
 | 69 | [Morning](https://open.spotify.com/track/54Yappwod1fELR5zb2gDBn) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Groovy People](https://open.spotify.com/album/2a8IWtMGQl8oIA3lUtLDQw) | 3:26 |
 | 70 | [Girl Like Me \(feat\. H.E.R.\)](https://open.spotify.com/track/2sXydP9vPEYUH4uAWotuGu) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Heaux Tales](https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9) | 3:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 | 99 | [Summer 2020](https://open.spotify.com/track/0t2q2c43AATY4z1GI883Be) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Chilombo \(Deluxe\)](https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v) | 3:16 |
 | 100 | [Hate](https://open.spotify.com/track/3wY2Adin3oA1aIF9VgZ0Kr) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Hate](https://open.spotify.com/album/0bJkUgiHqCttxGKKaJ90kv) | 4:03 |
 
-Snapshot ID: `MTY4MTQzNjYyMSwwMDAwMDAwMDE5ZWExYjRlYzkyMjI3NDY3ZDY1MjUwNGQ1OTMwY2Q4`
+Snapshot ID: `MTY4MTQzNjYyMSwwMDAwMDAwMDkxMDBkYzNkNzE5M2M3MmE3Y2JmOGIzMjQwYWI2MDk5`

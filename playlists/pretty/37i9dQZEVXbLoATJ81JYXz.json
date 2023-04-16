@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Sweden.",
-  "num_followers": 607998,
+  "num_followers": 608036,
   "original_name": "Top 50 - Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzM0ODM1MDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzM0OTIxNDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-04-14 09:45:23",
+      "added_at": "2023-04-15 11:00:48",
       "album": {
         "name": "Ikv\u00e4ll Igen",
         "url": "https://open.spotify.com/album/1ivEkyr50tSXBwwZ8z7E32"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/4o5Ob60pz8QHcFKcr4MWyf"
     },
     {
-      "added_at": "2023-04-14 09:45:23",
+      "added_at": "2023-04-15 11:00:48",
       "album": {
         "name": "Lilla B",
         "url": "https://open.spotify.com/album/28MPRpCxLmy4OTCvvhFtAW"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/2c8wnqPxPUXtxNSJN9b4cS"
     },
     {
-      "added_at": "2023-04-14 09:45:23",
+      "added_at": "2023-04-15 11:00:48",
       "album": {
         "name": "PISTOLER POESI OCH SEX",
         "url": "https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy"
@@ -57,39 +57,7 @@
       "url": "https://open.spotify.com/track/4FGvRqZ1pPaflN2jjLBMB9"
     },
     {
-      "added_at": "2023-04-14 09:45:23",
-      "album": {
-        "name": "G63",
-        "url": "https://open.spotify.com/album/7w1lkm0KtSeu6bfs8S21d5"
-      },
-      "artists": [
-        {
-          "name": "C.Gambino",
-          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
-        }
-      ],
-      "duration_ms": 162105,
-      "name": "G63",
-      "url": "https://open.spotify.com/track/3pBTElvw1OK7pDDI3MR4qC"
-    },
-    {
-      "added_at": "2023-04-14 09:45:23",
-      "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
-      },
-      "artists": [
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        }
-      ],
-      "duration_ms": 183374,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
-    },
-    {
-      "added_at": "2023-04-14 09:45:23",
+      "added_at": "2023-04-15 11:00:48",
       "album": {
         "name": "Kan Inte G\u00e5",
         "url": "https://open.spotify.com/album/1rOwYVdRnJW8rHhEkG6zfC"
@@ -105,7 +73,39 @@
       "url": "https://open.spotify.com/track/6KOzO2mUwSwe8a9GiJAn7X"
     },
     {
-      "added_at": "2023-04-14 09:45:23",
+      "added_at": "2023-04-15 11:00:48",
+      "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "duration_ms": 183374,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
+    },
+    {
+      "added_at": "2023-04-15 11:00:48",
+      "album": {
+        "name": "G63",
+        "url": "https://open.spotify.com/album/7w1lkm0KtSeu6bfs8S21d5"
+      },
+      "artists": [
+        {
+          "name": "C.Gambino",
+          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
+        }
+      ],
+      "duration_ms": 162105,
+      "name": "G63",
+      "url": "https://open.spotify.com/track/3pBTElvw1OK7pDDI3MR4qC"
+    },
+    {
+      "added_at": "2023-04-15 11:00:48",
       "album": {
         "name": "Endless Summer Vacation",
         "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
@@ -121,7 +121,55 @@
       "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
     },
     {
-      "added_at": "2023-04-14 09:45:23",
+      "added_at": "2023-04-15 11:00:48",
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 212953,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
+    },
+    {
+      "added_at": "2023-04-15 11:00:48",
+      "album": {
+        "name": "Can't Tame Her",
+        "url": "https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 196939,
+      "name": "Can't Tame Her",
+      "url": "https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz"
+    },
+    {
+      "added_at": "2023-04-15 11:00:48",
+      "album": {
+        "name": "Dum av dej",
+        "url": "https://open.spotify.com/album/3DO3n0BmJmDsnQNhuCziQC"
+      },
+      "artists": [
+        {
+          "name": "Naod",
+          "url": "https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1"
+        }
+      ],
+      "duration_ms": 159428,
+      "name": "Dum av dej",
+      "url": "https://open.spotify.com/track/3i9UKYqNJtG0ufxxYimRu1"
+    },
+    {
+      "added_at": "2023-04-15 11:00:48",
       "album": {
         "name": "JAG VILL HA DIG H\u00c4R HOS MIG",
         "url": "https://open.spotify.com/album/27PgcVTjOkYNS3Y48VtyeA"
@@ -141,7 +189,7 @@
       "url": "https://open.spotify.com/track/74xfr2lyWfi2qZjWtqovBg"
     },
     {
-      "added_at": "2023-04-14 09:45:23",
+      "added_at": "2023-04-15 11:00:48",
       "album": {
         "name": "Mentalit\u00e9 RMX (feat. C.Gambino)",
         "url": "https://open.spotify.com/album/3PvR88SHoZtUCi5lB4bDZJ"
@@ -161,39 +209,7 @@
       "url": "https://open.spotify.com/track/1pFwmWdL9aPpajfRp7yzOI"
     },
     {
-      "added_at": "2023-04-14 09:45:23",
-      "album": {
-        "name": "Can't Tame Her",
-        "url": "https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 196939,
-      "name": "Can't Tame Her",
-      "url": "https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz"
-    },
-    {
-      "added_at": "2023-04-14 09:45:23",
-      "album": {
-        "name": "Ella mai",
-        "url": "https://open.spotify.com/album/2t6gMApNfFjb3vvZmZQjEe"
-      },
-      "artists": [
-        {
-          "name": "Sarettii",
-          "url": "https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi"
-        }
-      ],
-      "duration_ms": 195200,
-      "name": "Ella mai",
-      "url": "https://open.spotify.com/track/4abHyHTOkA4DTY0zwSdbZL"
-    },
-    {
-      "added_at": "2023-04-14 09:45:23",
+      "added_at": "2023-04-15 11:00:48",
       "album": {
         "name": "Josefin",
         "url": "https://open.spotify.com/album/482RW3Fc6VeLEsGTHh0cII"
@@ -209,7 +225,39 @@
       "url": "https://open.spotify.com/track/2gwirjNHYJPlBwOJ5Aftwv"
     },
     {
-      "added_at": "2023-04-14 09:45:23",
+      "added_at": "2023-04-15 11:00:48",
+      "album": {
+        "name": "Ella mai",
+        "url": "https://open.spotify.com/album/2t6gMApNfFjb3vvZmZQjEe"
+      },
+      "artists": [
+        {
+          "name": "Sarettii",
+          "url": "https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi"
+        }
+      ],
+      "duration_ms": 195200,
+      "name": "Ella mai",
+      "url": "https://open.spotify.com/track/4abHyHTOkA4DTY0zwSdbZL"
+    },
+    {
+      "added_at": "2023-04-15 11:00:48",
+      "album": {
+        "name": "Six Feet Under",
+        "url": "https://open.spotify.com/album/1VujeZarJaiO5ZUCI5ed6G"
+      },
+      "artists": [
+        {
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+        }
+      ],
+      "duration_ms": 178154,
+      "name": "Six Feet Under",
+      "url": "https://open.spotify.com/track/5DYCuzBPf13q0QZwQvjYzi"
+    },
+    {
+      "added_at": "2023-04-15 11:00:48",
       "album": {
         "name": "KURIRER",
         "url": "https://open.spotify.com/album/0q4FcnWY4RnXpgsPRNS8Cy"
@@ -229,55 +277,23 @@
       "url": "https://open.spotify.com/track/7dLIb2FTMx0EKSAipHov7P"
     },
     {
-      "added_at": "2023-04-14 09:45:23",
+      "added_at": "2023-04-15 11:00:48",
       "album": {
-        "name": "Six Feet Under",
-        "url": "https://open.spotify.com/album/1VujeZarJaiO5ZUCI5ed6G"
+        "name": "Chemical",
+        "url": "https://open.spotify.com/album/6NoH5RUtjoh6ae2lJ9gWfq"
       },
       "artists": [
         {
-          "name": "Smash Into Pieces",
-          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         }
       ],
-      "duration_ms": 178154,
-      "name": "Six Feet Under",
-      "url": "https://open.spotify.com/track/5DYCuzBPf13q0QZwQvjYzi"
+      "duration_ms": 184004,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/4qzEjmuz380jeiBJp31oDY"
     },
     {
-      "added_at": "2023-04-14 09:45:23",
-      "album": {
-        "name": "Babblarnas vaggvisa",
-        "url": "https://open.spotify.com/album/03qO055ZzI9jHSXuLIvjOV"
-      },
-      "artists": [
-        {
-          "name": "Babblarna",
-          "url": "https://open.spotify.com/artist/1aA5OGASCVhznQYm71BMYg"
-        }
-      ],
-      "duration_ms": 334053,
-      "name": "Babblarnas vaggvisa",
-      "url": "https://open.spotify.com/track/1VJRxqJhpEIpnHon7ssp1p"
-    },
-    {
-      "added_at": "2023-04-14 09:45:23",
-      "album": {
-        "name": "Eyes Closed (Piano Version)",
-        "url": "https://open.spotify.com/album/6dhAJ4oigNFSv4paZnZHmW"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 194848,
-      "name": "Eyes Closed",
-      "url": "https://open.spotify.com/track/4hy7qTxsnyZUZoqo5RtaYq"
-    },
-    {
-      "added_at": "2023-04-14 09:45:23",
+      "added_at": "2023-04-15 11:00:48",
       "album": {
         "name": "KOMMER DU IH\u00c5G?",
         "url": "https://open.spotify.com/album/4T9cDX7VHq0uxIIotzK4Ct"
@@ -293,91 +309,7 @@
       "url": "https://open.spotify.com/track/7yfMu3Ez41fQXuD9gUbFjQ"
     },
     {
-      "added_at": "2023-04-14 09:45:23",
-      "album": {
-        "name": "Mer av dig",
-        "url": "https://open.spotify.com/album/3waGWjneO6tOSEAzfHusNp"
-      },
-      "artists": [
-        {
-          "name": "Theoz",
-          "url": "https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Mer av dig",
-      "url": "https://open.spotify.com/track/7xzgJNufqvox5oQQa1dP1O"
-    },
-    {
-      "added_at": "2023-04-14 09:45:23",
-      "album": {
-        "name": "Somna med Humlan Djojj",
-        "url": "https://open.spotify.com/album/7Fwal5B7DbHxVEjZRmckum"
-      },
-      "artists": [
-        {
-          "name": "Humlan Djojj",
-          "url": "https://open.spotify.com/artist/73nQT8Arf05XV666SlvrVQ"
-        },
-        {
-          "name": "Josefine G\u00f6testam",
-          "url": "https://open.spotify.com/artist/42OtrLDsfIE3pD915uvaju"
-        }
-      ],
-      "duration_ms": 140046,
-      "name": "Djurens vaggvisa",
-      "url": "https://open.spotify.com/track/5maA851Fle6XexgJgJzFjF"
-    },
-    {
-      "added_at": "2023-04-14 09:45:23",
-      "album": {
-        "name": "TJUGI23",
-        "url": "https://open.spotify.com/album/5J8dRxQwNyJdrvNlNY6NMg"
-      },
-      "artists": [
-        {
-          "name": "23",
-          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
-        }
-      ],
-      "duration_ms": 182769,
-      "name": "Feeling Myself",
-      "url": "https://open.spotify.com/track/7tl3Dr9Bzee4AJRsBiK3KB"
-    },
-    {
-      "added_at": "2023-04-14 09:45:23",
-      "album": {
-        "name": "H\u00e4lsa Gud",
-        "url": "https://open.spotify.com/album/1fLQJR0wlVYgRmJaDdd2w4"
-      },
-      "artists": [
-        {
-          "name": "Miss Li",
-          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
-        }
-      ],
-      "duration_ms": 148799,
-      "name": "H\u00e4lsa Gud",
-      "url": "https://open.spotify.com/track/5g9gZGiXlk747pESQzmmRT"
-    },
-    {
-      "added_at": "2023-04-14 09:45:23",
-      "album": {
-        "name": "\u00c5lderdomshemmet",
-        "url": "https://open.spotify.com/album/0HVvyd8hLIe5tdn5rH1bqX"
-      },
-      "artists": [
-        {
-          "name": "Miss Li",
-          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
-        }
-      ],
-      "duration_ms": 183526,
-      "name": "\u00c5lderdomshemmet",
-      "url": "https://open.spotify.com/track/7wcl1N4Mn1VlBbQQmOlgiO"
-    },
-    {
-      "added_at": "2023-04-14 09:45:23",
+      "added_at": "2023-04-15 11:00:48",
       "album": {
         "name": "Banan Melon Kiwi & Citron",
         "url": "https://open.spotify.com/album/0nUdcTL27UO3plbL2aNGkR"
@@ -393,27 +325,143 @@
       "url": "https://open.spotify.com/track/2ZfaBbRMcEgSF8JnJIaEBP"
     },
     {
-      "added_at": "2023-04-14 09:45:23",
+      "added_at": "2023-04-15 11:00:48",
       "album": {
-        "name": "Din l\u00e5t",
-        "url": "https://open.spotify.com/album/02kiu1rc2gbB4gAEtPWqi7"
+        "name": "Eyes Closed (Piano Version)",
+        "url": "https://open.spotify.com/album/6dhAJ4oigNFSv4paZnZHmW"
       },
       "artists": [
         {
-          "name": "Victor Leksell",
-          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
-        },
-        {
-          "name": "Ein\u00e1r",
-          "url": "https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 165045,
-      "name": "Din l\u00e5t",
-      "url": "https://open.spotify.com/track/3xPsqMJQNM14OrawTBiK4G"
+      "duration_ms": 194848,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/4hy7qTxsnyZUZoqo5RtaYq"
     },
     {
-      "added_at": "2023-04-14 09:45:23",
+      "added_at": "2023-04-15 11:00:48",
+      "album": {
+        "name": "Mer av dig",
+        "url": "https://open.spotify.com/album/3waGWjneO6tOSEAzfHusNp"
+      },
+      "artists": [
+        {
+          "name": "Theoz",
+          "url": "https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Mer av dig",
+      "url": "https://open.spotify.com/track/7xzgJNufqvox5oQQa1dP1O"
+    },
+    {
+      "added_at": "2023-04-15 11:00:48",
+      "album": {
+        "name": "H\u00e4lsa Gud",
+        "url": "https://open.spotify.com/album/1fLQJR0wlVYgRmJaDdd2w4"
+      },
+      "artists": [
+        {
+          "name": "Miss Li",
+          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
+        }
+      ],
+      "duration_ms": 148799,
+      "name": "H\u00e4lsa Gud",
+      "url": "https://open.spotify.com/track/5g9gZGiXlk747pESQzmmRT"
+    },
+    {
+      "added_at": "2023-04-15 11:00:48",
+      "album": {
+        "name": "Det \u00e4r ju dej jag g\u00e5r och v\u00e4ntar p\u00e5",
+        "url": "https://open.spotify.com/album/65Uq5PyD7Fe01psCrIblPv"
+      },
+      "artists": [
+        {
+          "name": "Lucianoz",
+          "url": "https://open.spotify.com/artist/3RhiF9RmgXoDzqEOW3dWoP"
+        }
+      ],
+      "duration_ms": 177200,
+      "name": "Det \u00e4r ju dej jag g\u00e5r och v\u00e4ntar p\u00e5",
+      "url": "https://open.spotify.com/track/2sbjPQE3sS9H6i8BOmtZbr"
+    },
+    {
+      "added_at": "2023-04-15 11:00:48",
+      "album": {
+        "name": "RAGGARTJEJ",
+        "url": "https://open.spotify.com/album/1DqRR6G367zSAAWFSCrh6R"
+      },
+      "artists": [
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        },
+        {
+          "name": "FR\u00d6KEN SNUSK",
+          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
+        },
+        {
+          "name": "Baddies",
+          "url": "https://open.spotify.com/artist/3xyExNQNROZjTvur6Za2DW"
+        }
+      ],
+      "duration_ms": 151161,
+      "name": "RAGGARTJEJ",
+      "url": "https://open.spotify.com/track/3Fj4SihlXMFK5ziDs2y9vR"
+    },
+    {
+      "added_at": "2023-04-15 11:00:48",
+      "album": {
+        "name": "\u00c5lderdomshemmet",
+        "url": "https://open.spotify.com/album/0HVvyd8hLIe5tdn5rH1bqX"
+      },
+      "artists": [
+        {
+          "name": "Miss Li",
+          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
+        }
+      ],
+      "duration_ms": 183526,
+      "name": "\u00c5lderdomshemmet",
+      "url": "https://open.spotify.com/track/7wcl1N4Mn1VlBbQQmOlgiO"
+    },
+    {
+      "added_at": "2023-04-15 11:00:48",
+      "album": {
+        "name": "Babblarnas vaggvisa",
+        "url": "https://open.spotify.com/album/03qO055ZzI9jHSXuLIvjOV"
+      },
+      "artists": [
+        {
+          "name": "Babblarna",
+          "url": "https://open.spotify.com/artist/1aA5OGASCVhznQYm71BMYg"
+        }
+      ],
+      "duration_ms": 334053,
+      "name": "Babblarnas vaggvisa",
+      "url": "https://open.spotify.com/track/1VJRxqJhpEIpnHon7ssp1p"
+    },
+    {
+      "added_at": "2023-04-15 11:00:48",
+      "album": {
+        "name": "TJUGI23",
+        "url": "https://open.spotify.com/album/5J8dRxQwNyJdrvNlNY6NMg"
+      },
+      "artists": [
+        {
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
+        }
+      ],
+      "duration_ms": 182769,
+      "name": "Feeling Myself",
+      "url": "https://open.spotify.com/track/7tl3Dr9Bzee4AJRsBiK3KB"
+    },
+    {
+      "added_at": "2023-04-15 11:00:48",
       "album": {
         "name": "Under n\u00e5gon ny",
         "url": "https://open.spotify.com/album/35VHFKVhL4H8Zd4rPRYHjA"
@@ -433,27 +481,83 @@
       "url": "https://open.spotify.com/track/2eOLvT5HNiHZQb4BTSiwQl"
     },
     {
-      "added_at": "2023-04-14 09:45:23",
+      "added_at": "2023-04-15 11:00:48",
       "album": {
-        "name": "TJUGI23",
-        "url": "https://open.spotify.com/album/5J8dRxQwNyJdrvNlNY6NMg"
+        "name": "Somna med Humlan Djojj",
+        "url": "https://open.spotify.com/album/7Fwal5B7DbHxVEjZRmckum"
       },
       "artists": [
         {
-          "name": "23",
-          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
+          "name": "Humlan Djojj",
+          "url": "https://open.spotify.com/artist/73nQT8Arf05XV666SlvrVQ"
         },
         {
-          "name": "01an",
-          "url": "https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY"
+          "name": "Josefine G\u00f6testam",
+          "url": "https://open.spotify.com/artist/42OtrLDsfIE3pD915uvaju"
         }
       ],
-      "duration_ms": 152920,
-      "name": "Many Men",
-      "url": "https://open.spotify.com/track/04o5XzF41xA6NyMDcBW0oh"
+      "duration_ms": 140046,
+      "name": "Djurens vaggvisa",
+      "url": "https://open.spotify.com/track/5maA851Fle6XexgJgJzFjF"
     },
     {
-      "added_at": "2023-04-14 09:45:23",
+      "added_at": "2023-04-15 11:00:48",
+      "album": {
+        "name": "Dum",
+        "url": "https://open.spotify.com/album/7sx7OC97FRNt0jg097FHRH"
+      },
+      "artists": [
+        {
+          "name": "Bolaget",
+          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
+        }
+      ],
+      "duration_ms": 168827,
+      "name": "Dum",
+      "url": "https://open.spotify.com/track/3fneVsIBA5RkkXsQhOW7pn"
+    },
+    {
+      "added_at": "2023-04-15 11:00:48",
+      "album": {
+        "name": "Din l\u00e5t",
+        "url": "https://open.spotify.com/album/02kiu1rc2gbB4gAEtPWqi7"
+      },
+      "artists": [
+        {
+          "name": "Victor Leksell",
+          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
+        },
+        {
+          "name": "Ein\u00e1r",
+          "url": "https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ"
+        }
+      ],
+      "duration_ms": 165045,
+      "name": "Din l\u00e5t",
+      "url": "https://open.spotify.com/track/3xPsqMJQNM14OrawTBiK4G"
+    },
+    {
+      "added_at": "2023-04-15 11:00:48",
+      "album": {
+        "name": "Miracle (with Ellie Goulding)",
+        "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 186496,
+      "name": "Miracle (with Ellie Goulding)",
+      "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
+    },
+    {
+      "added_at": "2023-04-15 11:00:48",
       "album": {
         "name": "Gudarna p\u00e5 V\u00e4sterbron",
         "url": "https://open.spotify.com/album/6VRCXuC1b2MGjiat5QZ0Ql"
@@ -469,71 +573,7 @@
       "url": "https://open.spotify.com/track/1aEU7mcRDTYBB4ASpqbjYE"
     },
     {
-      "added_at": "2023-04-14 09:45:23",
-      "album": {
-        "name": "Beroendeframkallande",
-        "url": "https://open.spotify.com/album/5yZqX25cUg2PM6LT9PnAO4"
-      },
-      "artists": [
-        {
-          "name": "Eah J\u00e9",
-          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
-        }
-      ],
-      "duration_ms": 182995,
-      "name": "Beroendeframkallande",
-      "url": "https://open.spotify.com/track/1r5nCkDun9Rg73A5KGWZB0"
-    },
-    {
-      "added_at": "2023-04-14 09:45:23",
-      "album": {
-        "name": "Hov1",
-        "url": "https://open.spotify.com/album/4ywveb2hXShvgJtEHfCb5z"
-      },
-      "artists": [
-        {
-          "name": "Hov1",
-          "url": "https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt"
-        }
-      ],
-      "duration_ms": 209710,
-      "name": "Mandy Moore",
-      "url": "https://open.spotify.com/track/2vD1hN8Oxqfh4umefOVIqP"
-    },
-    {
-      "added_at": "2023-04-14 09:45:23",
-      "album": {
-        "name": "N\u00e4tterna i G\u00f6teborg",
-        "url": "https://open.spotify.com/album/2MKfycYePF6VAf9jg2ToaZ"
-      },
-      "artists": [
-        {
-          "name": "Victor Leksell",
-          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "N\u00e4tterna i G\u00f6teborg",
-      "url": "https://open.spotify.com/track/1Yn8nh3NeSEfA7Oo9dqCvR"
-    },
-    {
-      "added_at": "2023-04-14 09:45:23",
-      "album": {
-        "name": "Det \u00e4r ju dej jag g\u00e5r och v\u00e4ntar p\u00e5",
-        "url": "https://open.spotify.com/album/65Uq5PyD7Fe01psCrIblPv"
-      },
-      "artists": [
-        {
-          "name": "Lucianoz",
-          "url": "https://open.spotify.com/artist/3RhiF9RmgXoDzqEOW3dWoP"
-        }
-      ],
-      "duration_ms": 177200,
-      "name": "Det \u00e4r ju dej jag g\u00e5r och v\u00e4ntar p\u00e5",
-      "url": "https://open.spotify.com/track/2sbjPQE3sS9H6i8BOmtZbr"
-    },
-    {
-      "added_at": "2023-04-14 09:45:23",
+      "added_at": "2023-04-15 11:00:48",
       "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
@@ -553,59 +593,7 @@
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
-      "added_at": "2023-04-14 09:45:23",
-      "album": {
-        "name": "Satan i gatan (Bonus Version)",
-        "url": "https://open.spotify.com/album/2fOs6I0CgvaZj9agU8EAlH"
-      },
-      "artists": [
-        {
-          "name": "Veronica Maggio",
-          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
-        }
-      ],
-      "duration_ms": 212453,
-      "name": "V\u00e4lkommen in",
-      "url": "https://open.spotify.com/track/5MEuFY2DxrozPEgGpR8Fji"
-    },
-    {
-      "added_at": "2023-04-14 09:45:23",
-      "album": {
-        "name": "PISTOLER POESI OCH SEX",
-        "url": "https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy"
-      },
-      "artists": [
-        {
-          "name": "Yasin",
-          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
-        }
-      ],
-      "duration_ms": 144890,
-      "name": "Hoodrich",
-      "url": "https://open.spotify.com/track/5o9ZvJGrZrw4iZVRsLW4cr"
-    },
-    {
-      "added_at": "2023-04-14 09:45:23",
-      "album": {
-        "name": "Cocktails (feat. Asme)",
-        "url": "https://open.spotify.com/album/0ZrYAHvPy0aTXpWhRN5es6"
-      },
-      "artists": [
-        {
-          "name": "Robin Kadir",
-          "url": "https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2"
-        },
-        {
-          "name": "Asme",
-          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
-        }
-      ],
-      "duration_ms": 147876,
-      "name": "Cocktails (feat. Asme)",
-      "url": "https://open.spotify.com/track/45bLmakv73Jwg5XwoEEGMq"
-    },
-    {
-      "added_at": "2023-04-14 09:45:23",
+      "added_at": "2023-04-15 11:00:48",
       "album": {
         "name": "Where You Are (S\u00e1ve\u017ean)",
         "url": "https://open.spotify.com/album/249haOgXpuQsUSQelQ5OoE"
@@ -629,75 +617,23 @@
       "url": "https://open.spotify.com/track/4zPqv04ddAFwk2Pgz3jC9U"
     },
     {
-      "added_at": "2023-04-14 09:45:23",
+      "added_at": "2023-04-15 11:00:48",
       "album": {
-        "name": "Air",
-        "url": "https://open.spotify.com/album/1RJ3zvMBc4NB9VSXEF1EUy"
+        "name": "N\u00e4tterna i G\u00f6teborg",
+        "url": "https://open.spotify.com/album/2MKfycYePF6VAf9jg2ToaZ"
       },
       "artists": [
         {
-          "name": "Marcus & Martinus",
-          "url": "https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349"
+          "name": "Victor Leksell",
+          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
         }
       ],
-      "duration_ms": 172000,
-      "name": "Air",
-      "url": "https://open.spotify.com/track/7DBQIEXuFIXMWNAWyGsTTm"
+      "duration_ms": 171000,
+      "name": "N\u00e4tterna i G\u00f6teborg",
+      "url": "https://open.spotify.com/track/1Yn8nh3NeSEfA7Oo9dqCvR"
     },
     {
-      "added_at": "2023-04-14 09:45:23",
-      "album": {
-        "name": "Miracle (with Ellie Goulding)",
-        "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 186496,
-      "name": "Miracle (with Ellie Goulding)",
-      "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
-    },
-    {
-      "added_at": "2023-04-14 09:45:23",
-      "album": {
-        "name": "PISTOLER POESI OCH SEX",
-        "url": "https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy"
-      },
-      "artists": [
-        {
-          "name": "Yasin",
-          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
-        }
-      ],
-      "duration_ms": 151168,
-      "name": "N\u00e5nting I Luften",
-      "url": "https://open.spotify.com/track/321RwsoTVlohBMx1nkOHmZ"
-    },
-    {
-      "added_at": "2023-04-14 09:45:23",
-      "album": {
-        "name": "People",
-        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
-      },
-      "artists": [
-        {
-          "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
-        }
-      ],
-      "duration_ms": 184791,
-      "name": "People",
-      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
-    },
-    {
-      "added_at": "2023-04-14 09:45:23",
+      "added_at": "2023-04-15 11:00:48",
       "album": {
         "name": "BUBBEL P\u00c5 BALKONGEN",
         "url": "https://open.spotify.com/album/09dL2m4Jx62jwDYqGhtCcn"
@@ -717,7 +653,139 @@
       "url": "https://open.spotify.com/track/1RwQZNgaXl01krZHuSUlE8"
     },
     {
-      "added_at": "2023-04-14 09:45:23",
+      "added_at": "2023-04-15 11:00:48",
+      "album": {
+        "name": "Hov1",
+        "url": "https://open.spotify.com/album/4ywveb2hXShvgJtEHfCb5z"
+      },
+      "artists": [
+        {
+          "name": "Hov1",
+          "url": "https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt"
+        }
+      ],
+      "duration_ms": 209710,
+      "name": "Mandy Moore",
+      "url": "https://open.spotify.com/track/2vD1hN8Oxqfh4umefOVIqP"
+    },
+    {
+      "added_at": "2023-04-15 11:00:48",
+      "album": {
+        "name": "Air",
+        "url": "https://open.spotify.com/album/1RJ3zvMBc4NB9VSXEF1EUy"
+      },
+      "artists": [
+        {
+          "name": "Marcus & Martinus",
+          "url": "https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/7DBQIEXuFIXMWNAWyGsTTm"
+    },
+    {
+      "added_at": "2023-04-15 11:00:48",
+      "album": {
+        "name": "MER & MER",
+        "url": "https://open.spotify.com/album/6cxHLbeuGsPpVe2LoW3duK"
+      },
+      "artists": [
+        {
+          "name": "Hooja",
+          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
+        }
+      ],
+      "duration_ms": 143680,
+      "name": "MER & MER",
+      "url": "https://open.spotify.com/track/1puxV64QJkmRUhhXt4T9rD"
+    },
+    {
+      "added_at": "2023-04-15 11:00:48",
+      "album": {
+        "name": "Beroendeframkallande",
+        "url": "https://open.spotify.com/album/5yZqX25cUg2PM6LT9PnAO4"
+      },
+      "artists": [
+        {
+          "name": "Eah J\u00e9",
+          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
+        }
+      ],
+      "duration_ms": 182995,
+      "name": "Beroendeframkallande",
+      "url": "https://open.spotify.com/track/1r5nCkDun9Rg73A5KGWZB0"
+    },
+    {
+      "added_at": "2023-04-15 11:00:48",
+      "album": {
+        "name": "PISTOLER POESI OCH SEX",
+        "url": "https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "duration_ms": 144890,
+      "name": "Hoodrich",
+      "url": "https://open.spotify.com/track/5o9ZvJGrZrw4iZVRsLW4cr"
+    },
+    {
+      "added_at": "2023-04-15 11:00:48",
+      "album": {
+        "name": "People",
+        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
+      },
+      "artists": [
+        {
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+        }
+      ],
+      "duration_ms": 184791,
+      "name": "People",
+      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
+    },
+    {
+      "added_at": "2023-04-15 11:00:48",
+      "album": {
+        "name": "Cocktails (feat. Asme)",
+        "url": "https://open.spotify.com/album/0ZrYAHvPy0aTXpWhRN5es6"
+      },
+      "artists": [
+        {
+          "name": "Robin Kadir",
+          "url": "https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2"
+        },
+        {
+          "name": "Asme",
+          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+        }
+      ],
+      "duration_ms": 147876,
+      "name": "Cocktails (feat. Asme)",
+      "url": "https://open.spotify.com/track/45bLmakv73Jwg5XwoEEGMq"
+    },
+    {
+      "added_at": "2023-04-15 11:00:48",
+      "album": {
+        "name": "Satan i gatan (Bonus Version)",
+        "url": "https://open.spotify.com/album/2fOs6I0CgvaZj9agU8EAlH"
+      },
+      "artists": [
+        {
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+        }
+      ],
+      "duration_ms": 212453,
+      "name": "V\u00e4lkommen in",
+      "url": "https://open.spotify.com/track/5MEuFY2DxrozPEgGpR8Fji"
+    },
+    {
+      "added_at": "2023-04-15 11:00:48",
       "album": {
         "name": "Call It Love",
         "url": "https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn"
@@ -737,127 +805,59 @@
       "url": "https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B"
     },
     {
-      "added_at": "2023-04-14 09:45:23",
+      "added_at": "2023-04-15 11:00:48",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP"
+        "name": "Mitt hj\u00e4rta sl\u00e5r",
+        "url": "https://open.spotify.com/album/73G3wgTSioJbkJae7PGA9V"
+      },
+      "artists": [
+        {
+          "name": "estraden",
+          "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
+        }
+      ],
+      "duration_ms": 182600,
+      "name": "Mitt hj\u00e4rta sl\u00e5r",
+      "url": "https://open.spotify.com/track/1cvsD9PGQWEDWwdbIldP9i"
+    },
+    {
+      "added_at": "2023-04-15 11:00:48",
+      "album": {
+        "name": "PISTOLER POESI OCH SEX",
+        "url": "https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "duration_ms": 151168,
+      "name": "N\u00e5nting I Luften",
+      "url": "https://open.spotify.com/track/321RwsoTVlohBMx1nkOHmZ"
+    },
+    {
+      "added_at": "2023-04-15 11:00:48",
+      "album": {
+        "name": "Kill Bill (feat. Doja Cat)",
+        "url": "https://open.spotify.com/album/4OanbmuJAWz8JPVE4cJA9L"
       },
       "artists": [
         {
           "name": "SZA",
           "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 153946,
-      "name": "Kill Bill",
-      "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
-    },
-    {
-      "added_at": "2023-04-14 09:45:23",
-      "album": {
-        "name": "Boy's a liar Pt. 2",
-        "url": "https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
         },
         {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 131013,
-      "name": "Boy's a liar Pt. 2",
-      "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
+      "duration_ms": 175836,
+      "name": "Kill Bill (feat. Doja Cat)",
+      "url": "https://open.spotify.com/track/0CrcwVLUe8wzLUIXgjXVZJ"
     },
     {
-      "added_at": "2023-04-14 09:45:23",
-      "album": {
-        "name": "N\u00c4R RADION D\u00c5NAR",
-        "url": "https://open.spotify.com/album/3iNQ1aeeaDLNfZTqvtmnIO"
-      },
-      "artists": [
-        {
-          "name": "Hooja",
-          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
-        }
-      ],
-      "duration_ms": 130560,
-      "name": "N\u00c4R RADION D\u00c5NAR",
-      "url": "https://open.spotify.com/track/0c0Zlpn6fXtnz1XuASZdw1"
-    },
-    {
-      "added_at": "2023-04-14 09:45:23",
-      "album": {
-        "name": "Du & Jag",
-        "url": "https://open.spotify.com/album/0UJ1RyPtQ9EMQmbBL8ZnUK"
-      },
-      "artists": [
-        {
-          "name": "Ein\u00e1r",
-          "url": "https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ"
-        }
-      ],
-      "duration_ms": 132150,
-      "name": "Du & Jag",
-      "url": "https://open.spotify.com/track/1fOZciVVoZ1RqpuO5i2hbU"
-    },
-    {
-      "added_at": "2023-04-14 09:45:23",
-      "album": {
-        "name": "MER & MER",
-        "url": "https://open.spotify.com/album/6cxHLbeuGsPpVe2LoW3duK"
-      },
-      "artists": [
-        {
-          "name": "Hooja",
-          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
-        }
-      ],
-      "duration_ms": 143680,
-      "name": "MER & MER",
-      "url": "https://open.spotify.com/track/1puxV64QJkmRUhhXt4T9rD"
-    },
-    {
-      "added_at": "2023-04-14 09:45:23",
-      "album": {
-        "name": "John Daly",
-        "url": "https://open.spotify.com/album/410yZGA5oklqvmUXCEJeVu"
-      },
-      "artists": [
-        {
-          "name": "Tjuvjakt",
-          "url": "https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp"
-        }
-      ],
-      "duration_ms": 169640,
-      "name": "John Daly",
-      "url": "https://open.spotify.com/track/2bHkxIrKmodno557Z4BJBK"
-    },
-    {
-      "added_at": "2023-04-14 09:45:23",
-      "album": {
-        "name": "Nakala",
-        "url": "https://open.spotify.com/album/000n59cSc8psOiz5faS7sZ"
-      },
-      "artists": [
-        {
-          "name": "Owen",
-          "url": "https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl"
-        },
-        {
-          "name": "Dizzy",
-          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
-        }
-      ],
-      "duration_ms": 153043,
-      "name": "Nakala",
-      "url": "https://open.spotify.com/track/3y5fUcF94aDFxA2HjrERDt"
-    },
-    {
-      "added_at": "2023-04-14 09:45:23",
+      "added_at": "2023-04-15 11:00:48",
       "album": {
         "name": "N\u00e4r solen g\u00e5r ner",
         "url": "https://open.spotify.com/album/6lR1cT9wfoS6mg8rQ9WazU"

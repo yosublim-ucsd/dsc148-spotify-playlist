@@ -60,7 +60,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 180263,
       "name": "A Voz do Brasil - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6dFtxQYgNWqbSapneyMVn1"
@@ -152,7 +152,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 182080,
       "name": "Amor Leal",
       "url": "https://open.spotify.com/track/6rrbLn49jsw8sdcCqdFgbN"
@@ -188,7 +188,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 222811,
       "name": "Ao Teu Lado - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1uP31TFAG8a4VGwpE7w3yT"
@@ -650,7 +650,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 304878,
       "name": "Esperan\u00e7a",
       "url": "https://open.spotify.com/track/14NgY0UGVkXNU28ccCnHny"
@@ -838,7 +838,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 179386,
       "name": "Faz Parte",
       "url": "https://open.spotify.com/track/4qgEfqc8o2hfpS2OT1J1AM"
@@ -926,6 +926,28 @@
       "duration_ms": 204173,
       "name": "Leve",
       "url": "https://open.spotify.com/track/6NEBjm4QrmQB4chfVfQLdj"
+    },
+    {
+      "album": {
+        "name": "Luz do Mundo",
+        "url": "https://open.spotify.com/album/6VIlAkJqFIEn863W1fFcDW"
+      },
+      "artists": [
+        {
+          "name": "Idma Brito",
+          "url": "https://open.spotify.com/artist/7enWqH5HtoEQJckRpx3ut2"
+        },
+        {
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193793,
+      "name": "Luz do Mundo",
+      "url": "https://open.spotify.com/track/6CDYoW7uZw3st6Fr5uSqSR"
     },
     {
       "album": {
@@ -1154,6 +1176,132 @@
       "duration_ms": 235558,
       "name": "O Final",
       "url": "https://open.spotify.com/track/5pmsx6sw7e1UT9KYyWAvo3"
+    },
+    {
+      "album": {
+        "name": "O Lado Bom - Tudo Coopera (feat. Anderson Freire, Adilson Freire, Dirceu Freire, Dione Freire, OCabral, Camila, Patr\u00edcia Esp\u00f3sito, Gabriela Rodrigues, Aretusa Cardoso, Kate Souza, Pheterson Mayki, Nicolas, Manuela & Vit\u00e3o Oliveira)",
+        "url": "https://open.spotify.com/album/410mUTJTZ3WF9nBxUznYI3"
+      },
+      "artists": [
+        {
+          "name": "Adelso Freire",
+          "url": "https://open.spotify.com/artist/1ppkWLi1n5n1lIbp1I95i5"
+        },
+        {
+          "name": "Leidy Murilho",
+          "url": "https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv"
+        },
+        {
+          "name": "Dany Grace",
+          "url": "https://open.spotify.com/artist/0T8vIabb2AaIALMSRVPdw4"
+        },
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        },
+        {
+          "name": "Adilson Freire",
+          "url": "https://open.spotify.com/artist/6rBovX2XHbpqrnW1jT5hYf"
+        },
+        {
+          "name": "Dirceu Freire",
+          "url": "https://open.spotify.com/artist/2UpwFBu6APnndcWpUhMP8g"
+        },
+        {
+          "name": "Dione Freire",
+          "url": "https://open.spotify.com/artist/2D32LP4qvfkMPbhD1uAlSa"
+        },
+        {
+          "name": "OCabral",
+          "url": "https://open.spotify.com/artist/0RwWKoLV3ZRPZP5ZuDV1Rp"
+        },
+        {
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2QHThaPiEOzmZnjMCEwH4L"
+        },
+        {
+          "name": "Patr\u00edcia Esp\u00f3sito",
+          "url": "https://open.spotify.com/artist/244EndZTdU1F1y0tiKWzpg"
+        },
+        {
+          "name": "Gabriela Rodrigues",
+          "url": "https://open.spotify.com/artist/3dCQ53bhVYWtm6VDtEMRqb"
+        },
+        {
+          "name": "Aretusa Cardoso",
+          "url": "https://open.spotify.com/artist/3tfKxTjQFxpIa8wJRK9G7A"
+        },
+        {
+          "name": "Kate Souza",
+          "url": "https://open.spotify.com/artist/2mXEDvjFmonz787lBSOSI6"
+        },
+        {
+          "name": "Pheterson Mayki",
+          "url": "https://open.spotify.com/artist/6MGI6hCar6Yiz4iFBuyvmI"
+        },
+        {
+          "name": "Nicolas",
+          "url": "https://open.spotify.com/artist/3rf4ntBBq34CSOIzx6L2bh"
+        },
+        {
+          "name": "Manuela",
+          "url": "https://open.spotify.com/artist/1CDGo8re4b2Fv4cT2mHqoi"
+        },
+        {
+          "name": "Vit\u00e3o Oliveira",
+          "url": "https://open.spotify.com/artist/22p1aUZ2pUEfgfrp8fNIou"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "O Lado Bom - Tudo Coopera (feat. Anderson Freire, Adilson Freire, Dirceu Freire, Dione Freire, OCabral, Camila, Patr\u00edcia Esp\u00f3sito, Gabriela Rodrigues, Aretusa Cardoso, Kate Souza, Pheterson Mayki, Nicolas, Manuela & Vit\u00e3o Oliveira)",
+      "url": "https://open.spotify.com/track/7vNtlSFNUazrOHOTp8Ed7u"
+    },
+    {
+      "album": {
+        "name": "O Reino Vem",
+        "url": "https://open.spotify.com/album/1XGpn9IDF3qwuCPfF8SgW8"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Vit\u00f3ria Souza",
+          "url": "https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198928,
+      "name": "O Reino Vem",
+      "url": "https://open.spotify.com/track/2kA9woThYCW2HDgV8OMKJ8"
+    },
+    {
+      "album": {
+        "name": "Ousado Amor",
+        "url": "https://open.spotify.com/album/5Y8vcMT4eDmaPOibOkbTAn"
+      },
+      "artists": [
+        {
+          "name": "Jael Caroline",
+          "url": "https://open.spotify.com/artist/1VK1FCC4cFoAy90kXBtt7f"
+        },
+        {
+          "name": "Sulset Music",
+          "url": "https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Ousado Amor",
+      "url": "https://open.spotify.com/track/2QcxcpLjXeddtf3AQkpP7S"
     },
     {
       "album": {
@@ -1686,7 +1834,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 211386,
       "name": "Todos Um",
       "url": "https://open.spotify.com/track/4Zkub4jUIwCyZItpcykvh8"
@@ -1744,6 +1892,32 @@
       "duration_ms": 237209,
       "name": "Tudo",
       "url": "https://open.spotify.com/track/5wbSVolmtQA6kodui95x40"
+    },
+    {
+      "album": {
+        "name": "Tudo Novo",
+        "url": "https://open.spotify.com/album/51e8mw5vBRkEqljx5DUkZN"
+      },
+      "artists": [
+        {
+          "name": "DJ Roger Vale",
+          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
+        },
+        {
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        },
+        {
+          "name": "Thaiane Seghetto",
+          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185901,
+      "name": "Tudo Novo",
+      "url": "https://open.spotify.com/track/4DTSBQsKzEaP99gq0G77ra"
     },
     {
       "album": {

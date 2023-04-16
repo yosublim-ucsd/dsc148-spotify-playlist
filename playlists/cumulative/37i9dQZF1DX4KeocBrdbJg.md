@@ -4,7 +4,7 @@
 
 > capybara, capybara, capybara ✨
 
-372 songs - 20 hr 41 min
+373 songs - 20 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -369,7 +369,8 @@
 | [Wild Flower \(with youjeen\)](https://open.spotify.com/track/5p8ThxM2OhJ0igfxkz0Z1q) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 4:33 | 2022-12-09 | 2022-12-19 |
 | [Wild Flower \(with youjeen\)](https://open.spotify.com/track/1AZjCZSGEjlxUufFQwSszF) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [Youjeen](https://open.spotify.com/artist/4wVcCedmr7FHtUlFnIeJIG) | [Indigo](https://open.spotify.com/album/2wGinO7YWLHN2sULIr4a7v) | 4:33 | 2022-12-16 | 2022-12-24 |
 | [Woo](https://open.spotify.com/track/3HQcsqRjRdruUjkbDSgmVF) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:55 | 2022-06-16 | 2022-07-30 |
-| [WORTH NOTHING \- Fast & Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [WORTH NOTHING \(Fast & Furious: Drift Tape/Phonk Vol 1\)](https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI) | 2:44 | 2022-10-31 |  |
+| [WORTH NOTHING \(feat\. Oliver Tree\) \- Fast & Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/65tX8MBdsnTiwy9UoIPHzr) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [WORTH NOTHING \(feat\. Oliver Tree\) \[Fast & Furious: Drift Tape/Vol 1\]](https://open.spotify.com/album/3iqdAcelKcHA5cdJXse2Gr) | 2:44 | 2023-03-24 |  |
+| [WORTH NOTHING \- Fast & Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [WORTH NOTHING \(Fast & Furious: Drift Tape/Phonk Vol 1\)](https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI) | 2:44 | 2022-10-31 | 2023-04-16 |
 | [WORTH NOTHING \- Instrumental](https://open.spotify.com/track/2nvFfiJKe7u9CPnDkumbsq) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG) | [WORTH NOTHING \(Instrumental\)](https://open.spotify.com/album/5ba7KbgbcCI9Z2yk5oxq5D) | 2:44 | 2022-10-25 | 2022-11-25 |
 | [Y Volveré](https://open.spotify.com/track/1skQgtTyuxpGsKgWUEhz7s) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Clásicos Latinos](https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd) | 4:03 | 2022-08-25 | 2022-11-23 |
 | [Yandel 150](https://open.spotify.com/track/4FAKtPVycI4DxoOHC01YqD) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Resistencia](https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ) | 3:36 | 2023-02-10 |  |

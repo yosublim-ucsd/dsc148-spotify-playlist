@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 
 > wandering the forest as the fog floats through the trees
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,682 likes - 69 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,939 likes - 69 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 | 42 | [Helpless Child](https://open.spotify.com/track/0hiPJhnFoew9Qm8kOrtYoG) | [Swans](https://open.spotify.com/artist/79S80ZWgVhIPMCHuvl6SkA) | [Soundtracks For The Blind](https://open.spotify.com/album/40aCknK9NwtjoieiNyNLqf) | 15:47 |
 | 43 | [Part](https://open.spotify.com/track/03cSAXCu8hzINJuF6D0YBA) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Melodrama](https://open.spotify.com/album/4VDue6QekQ9iZZpMTLS7ZX) | 3:57 |
 | 44 | [River Whispering Run](https://open.spotify.com/track/7A5ldrheWtMQn2SJulc8dI) | [Scanner](https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji) | [Earthbound Transmissions](https://open.spotify.com/album/6cfxV50gEXtH9Pn21VEK4h) | 5:08 |
-| 45 | [Close](https://open.spotify.com/track/2qZBYY1G1guH9FjToCn0g4) | [Deaf Center](https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA) | [Vintage Well](https://open.spotify.com/album/6Yq2E5sFMqeT3SsOsdVHTm) | 2:50 |
-| 46 | [Gold of the Azure \- Marconi Union Remix](https://open.spotify.com/track/3PdFwrtQxYdw0S1urHwKO6) | [Digitonal](https://open.spotify.com/artist/5IRw6qWz0NFImXO3hNOyai), [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [Set the Weather Fair: Seasons](https://open.spotify.com/album/3OKHTxMZvKcIhB1tvZTNgq) | 6:36 |
+| 45 | [Gold of the Azure \- Marconi Union Remix](https://open.spotify.com/track/3PdFwrtQxYdw0S1urHwKO6) | [Digitonal](https://open.spotify.com/artist/5IRw6qWz0NFImXO3hNOyai), [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [Set the Weather Fair: Seasons](https://open.spotify.com/album/3OKHTxMZvKcIhB1tvZTNgq) | 6:36 |
+| 46 | [Close](https://open.spotify.com/track/2qZBYY1G1guH9FjToCn0g4) | [Deaf Center](https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA) | [Vintage Well](https://open.spotify.com/album/6Yq2E5sFMqeT3SsOsdVHTm) | 2:50 |
 | 47 | [The Marble Eye](https://open.spotify.com/track/3AoQFwWETVhTYaM7dzcuoe) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [Dead Magic](https://open.spotify.com/album/29haLrvX37jDkDfwVk4FKV) | 5:18 |
 | 48 | [Below the House](https://open.spotify.com/track/3pcc5i4J7FCGiDzYeq8IHd) | [Planning For Burial](https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD) | [Below the House](https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW) | 3:41 |
 | 49 | [The Promise of Snakes](https://open.spotify.com/track/46WOO9GoPEsmv4MwC9FK1D) | [The Angelic Process](https://open.spotify.com/artist/4nQSh4CawJC9OZSqwNDS8W) | [Weighing Souls With Sand](https://open.spotify.com/album/74wImGbm2f19lrSbMLuTnl) | 9:32 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 | 59 | [Lie Beneath the Stars](https://open.spotify.com/track/1zSuezypJNKfab1FnC83HG) | [Rokkr](https://open.spotify.com/artist/3SbX2Y0sQD6w8KmbJhXQZs) | [Lie Beneath the Stars](https://open.spotify.com/album/4hIXAm8DjhWViiAvruMVaj) | 6:29 |
 | 60 | [Dry Retch \- 2021 Remaster](https://open.spotify.com/track/6unZyubxwrlThrvlfMw1Ot) | [Donnacha Costello](https://open.spotify.com/artist/4E4E7r2hvqQjmNVaHnKXiz) | [Together Is The New Alone \(2021 Remaster\)](https://open.spotify.com/album/50IrZoBBRl0nlOnnPxYS1U) | 10:45 |
 | 61 | [Dark Spring](https://open.spotify.com/track/7iCt4GaiTrd0h5EOs6PYW8) | [Tor Lundvall](https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf) | [The Mist](https://open.spotify.com/album/0hQyEbdpZx8W6WDjuYCKx1) | 2:28 |
-| 62 | [For Horror Eats The Light](https://open.spotify.com/track/4bjIYKqKkqC6gaNbTGBEAY) | [Fvnerals](https://open.spotify.com/artist/3Z9ijrVnS0SeT22OTcsTqu) | [For Horror Eats The Light](https://open.spotify.com/album/0UaJnty4Oy44vdZ0dQCU2o) | 7:32 |
-| 63 | [Take My Hand](https://open.spotify.com/track/2li1k57BZcIGJrISHXlOmh) | [Luke Taylor](https://open.spotify.com/artist/2DxAWfvhrcylvjEZILMyhR) | [Take My Hand](https://open.spotify.com/album/2KVKBlcWmJ49mhV4wfQ50I) | 2:39 |
+| 62 | [Take My Hand](https://open.spotify.com/track/2li1k57BZcIGJrISHXlOmh) | [Luke Taylor](https://open.spotify.com/artist/2DxAWfvhrcylvjEZILMyhR) | [Take My Hand](https://open.spotify.com/album/2KVKBlcWmJ49mhV4wfQ50I) | 2:39 |
+| 63 | [For Horror Eats The Light](https://open.spotify.com/track/4bjIYKqKkqC6gaNbTGBEAY) | [Fvnerals](https://open.spotify.com/artist/3Z9ijrVnS0SeT22OTcsTqu) | [For Horror Eats The Light](https://open.spotify.com/album/0UaJnty4Oy44vdZ0dQCU2o) | 7:32 |
 | 64 | [Tómið Titrar](https://open.spotify.com/track/5kAH14PxBaBrJCE4NDH3Ol) | [Úlfur](https://open.spotify.com/artist/4MdxCuKlnNvOXnVSWN7aLi) | [Arborescence](https://open.spotify.com/album/118CEJliIg47Jcr70y7Kww) | 6:45 |
 | 65 | [As I Came Through the Desert Thus It Was](https://open.spotify.com/track/4CD4XG9zYVs4Ofxz6Dg7Nh) | [The Gentleman Losers](https://open.spotify.com/artist/7e8rT9wPUmfu9ZPC8Mym17) | [Permanently Midnight](https://open.spotify.com/album/6fKbc5u3JkKLYmV4ubvq5b) | 5:15 |
 | 66 | [Snowa](https://open.spotify.com/track/3yTaZznpoFekQlAdED2Yn2) | [Slo Mance](https://open.spotify.com/artist/7kBTWfnHP1lv3PDcj7nCRs) | [Snowa](https://open.spotify.com/album/4WqCFIJ8n3clLAGi3aPf61) | 4:20 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 | 68 | [Polaroid](https://open.spotify.com/track/0ViKD5cWI2NaPeTMhKp9EO) | [Dead Melodies](https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu) | [Murken Hollow](https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q) | 6:57 |
 | 69 | [Slow Bloom](https://open.spotify.com/track/39W0Sl0GtgiLvr15Lq9vju) | [air hunger](https://open.spotify.com/artist/40UUOCP3GVEKusB4RZ50W0) | [Slow Bloom](https://open.spotify.com/album/2Vz8SP9YrEhrCK0seyZw2n) | 4:45 |
 
-Snapshot ID: `MTY4MTQwMjExMiwwMDAwMDAwMGFkNmNmY2JlYWIyOGJjYTUxMTU3Yzk4ZGRmOTkwZmRm`
+Snapshot ID: `MTY4MTQwMjExMiwwMDAwMDAwMDc3MTY4MDI4NTRkNTQyYjI3NWM4MjUyNDg0ZTJhZmVm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/6AeHcNxdFsYI8WQE1f0YVw?si=3bS5VgyJReir6n95q\-4PSQ">Malome Vector</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,142 likes - 51 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,247 likes - 51 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

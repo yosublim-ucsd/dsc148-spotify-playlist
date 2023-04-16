@@ -1,29 +1,13 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 12029,
+  "num_followers": 12088,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ4NzM4NywwMDAwMDAwMDllMTZmMTYzNDU0OWI1ZTAzZTI2NmIwNWMzYzdmYmFj",
+  "snapshot_id": "MTY4MTQ4NzM4NywwMDAwMDAwMGJkNTlmZmE0NTVlN2MyYTM4MzExNjU0Y2U1NWE1Y2Uy",
   "tracks": [
-    {
-      "added_at": "2023-04-14 15:49:47",
-      "album": {
-        "name": "Sability",
-        "url": "https://open.spotify.com/album/3ACRYhith1SxOT6teukBvy"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 166558,
-      "name": "Sability",
-      "url": "https://open.spotify.com/track/5V9XFfvCG4WP5ZdISOLvaF"
-    },
     {
       "added_at": "2023-04-14 15:49:47",
       "album": {
@@ -43,6 +27,22 @@
       "duration_ms": 168857,
       "name": "Party No Dey Stop",
       "url": "https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3"
+    },
+    {
+      "added_at": "2023-04-14 15:49:47",
+      "album": {
+        "name": "Sability",
+        "url": "https://open.spotify.com/album/3ACRYhith1SxOT6teukBvy"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 166558,
+      "name": "Sability",
+      "url": "https://open.spotify.com/track/5V9XFfvCG4WP5ZdISOLvaF"
     },
     {
       "added_at": "2023-04-14 15:49:47",
@@ -431,6 +431,26 @@
     {
       "added_at": "2023-04-14 15:49:47",
       "album": {
+        "name": "Disturbing U",
+        "url": "https://open.spotify.com/album/052AhHjQkjepRKQeE6vdjc"
+      },
+      "artists": [
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 151304,
+      "name": "Disturbing U",
+      "url": "https://open.spotify.com/track/1QVJ9U10mJncHAyHVXkFNZ"
+    },
+    {
+      "added_at": "2023-04-14 15:49:47",
+      "album": {
         "name": "Kpe Paso",
         "url": "https://open.spotify.com/album/4UwYrizY5gCAUZJugVF9DR"
       },
@@ -467,6 +487,22 @@
     {
       "added_at": "2023-04-14 15:49:47",
       "album": {
+        "name": "Ijo (Laba Laba)",
+        "url": "https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH"
+      },
+      "artists": [
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Ijo (Laba Laba)",
+      "url": "https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM"
+    },
+    {
+      "added_at": "2023-04-14 15:49:47",
+      "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/54mr7b1004Jqg9PD185VI1"
       },
@@ -487,42 +523,6 @@
     {
       "added_at": "2023-04-14 15:49:47",
       "album": {
-        "name": "Ijo (Laba Laba)",
-        "url": "https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH"
-      },
-      "artists": [
-        {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Ijo (Laba Laba)",
-      "url": "https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM"
-    },
-    {
-      "added_at": "2023-04-14 15:49:47",
-      "album": {
-        "name": "Disturbing U",
-        "url": "https://open.spotify.com/album/052AhHjQkjepRKQeE6vdjc"
-      },
-      "artists": [
-        {
-          "name": "Darkoo",
-          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 151304,
-      "name": "Disturbing U",
-      "url": "https://open.spotify.com/track/1QVJ9U10mJncHAyHVXkFNZ"
-    },
-    {
-      "added_at": "2023-04-14 15:49:47",
-      "album": {
         "name": "Ara (Gen Gen Tin)",
         "url": "https://open.spotify.com/album/4ysDR8PYoFO4R6rNMOYSSO"
       },
@@ -535,6 +535,22 @@
       "duration_ms": 146000,
       "name": "Ara (Gen Gen Tin)",
       "url": "https://open.spotify.com/track/1j9I9JrUTXNblSWazCq9CU"
+    },
+    {
+      "added_at": "2023-04-14 15:49:47",
+      "album": {
+        "name": "Terminator",
+        "url": "https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 155897,
+      "name": "Terminator",
+      "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
     },
     {
       "added_at": "2023-04-14 15:49:47",
@@ -563,22 +579,6 @@
       "duration_ms": 222506,
       "name": "Blood, Sweat & Tears (with Bas & Black Sherif feat. Kel-P)",
       "url": "https://open.spotify.com/track/6G45nT1iMlP1HdJ0MCTuDU"
-    },
-    {
-      "added_at": "2023-04-14 15:49:47",
-      "album": {
-        "name": "Terminator",
-        "url": "https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 155897,
-      "name": "Terminator",
-      "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
     },
     {
       "added_at": "2023-04-14 15:49:47",
@@ -619,26 +619,6 @@
     {
       "added_at": "2023-04-14 15:49:47",
       "album": {
-        "name": "Great Is He",
-        "url": "https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR"
-      },
-      "artists": [
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 166801,
-      "name": "Aboboyaa (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk"
-    },
-    {
-      "added_at": "2023-04-14 15:49:47",
-      "album": {
         "name": "PALAZZO",
         "url": "https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 186002,
       "name": "PALAZZO",
       "url": "https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt"
+    },
+    {
+      "added_at": "2023-04-14 15:49:47",
+      "album": {
+        "name": "Great Is He",
+        "url": "https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 166801,
+      "name": "Aboboyaa (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk"
     },
     {
       "added_at": "2023-04-14 15:49:47",
@@ -779,18 +779,18 @@
     {
       "added_at": "2023-04-14 15:49:47",
       "album": {
-        "name": "Billion Dollar Baby",
-        "url": "https://open.spotify.com/album/7Ay5W5UanjEMv0Vw7lxDx5"
+        "name": "Colors (My Baby) / Loyal",
+        "url": "https://open.spotify.com/album/3BNffda5IHaWQe5YVC986B"
       },
       "artists": [
         {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
         }
       ],
-      "duration_ms": 177449,
-      "name": "Chance (Na Ham)",
-      "url": "https://open.spotify.com/track/56iVI65i40FrCO5p382IrK"
+      "duration_ms": 164240,
+      "name": "Colors (My Baby)",
+      "url": "https://open.spotify.com/track/0lTUcfkmtQPp6mhjC6EBPq"
     },
     {
       "added_at": "2023-04-14 15:49:47",
@@ -811,18 +811,18 @@
     {
       "added_at": "2023-04-14 15:49:47",
       "album": {
-        "name": "Colors (My Baby) / Loyal",
-        "url": "https://open.spotify.com/album/3BNffda5IHaWQe5YVC986B"
+        "name": "Billion Dollar Baby",
+        "url": "https://open.spotify.com/album/7Ay5W5UanjEMv0Vw7lxDx5"
       },
       "artists": [
         {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 164240,
-      "name": "Colors (My Baby)",
-      "url": "https://open.spotify.com/track/0lTUcfkmtQPp6mhjC6EBPq"
+      "duration_ms": 177449,
+      "name": "Chance (Na Ham)",
+      "url": "https://open.spotify.com/track/56iVI65i40FrCO5p382IrK"
     },
     {
       "added_at": "2023-04-14 15:49:47",
@@ -1059,6 +1059,26 @@
     {
       "added_at": "2023-04-14 15:49:47",
       "album": {
+        "name": "Where We Come From, Vol. 01",
+        "url": "https://open.spotify.com/album/6w7LwKRKvtm3XjmUCvhVWO"
+      },
+      "artists": [
+        {
+          "name": "Bad Boy Timz",
+          "url": "https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS"
+        },
+        {
+          "name": "EMPIRE",
+          "url": "https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD"
+        }
+      ],
+      "duration_ms": 130477,
+      "name": "Faya",
+      "url": "https://open.spotify.com/track/11Q7avc3GINHS2pSxso0vF"
+    },
+    {
+      "added_at": "2023-04-14 15:49:47",
+      "album": {
         "name": "Bunda",
         "url": "https://open.spotify.com/album/011rNBobpGt1eRJPtqeOlQ"
       },
@@ -1079,26 +1099,6 @@
       "duration_ms": 214285,
       "name": "Bunda",
       "url": "https://open.spotify.com/track/2Sd6kW3eOWZBe86hIA8YNm"
-    },
-    {
-      "added_at": "2023-04-14 15:49:47",
-      "album": {
-        "name": "Where We Come From, Vol. 01",
-        "url": "https://open.spotify.com/album/6w7LwKRKvtm3XjmUCvhVWO"
-      },
-      "artists": [
-        {
-          "name": "Bad Boy Timz",
-          "url": "https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS"
-        },
-        {
-          "name": "EMPIRE",
-          "url": "https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD"
-        }
-      ],
-      "duration_ms": 130477,
-      "name": "Faya",
-      "url": "https://open.spotify.com/track/11Q7avc3GINHS2pSxso0vF"
     },
     {
       "added_at": "2023-04-14 15:49:47",

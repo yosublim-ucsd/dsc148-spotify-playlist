@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1cKZ3eM1zf.md) - [plain]
 
 > Het beste van meer dan 50 jaar Pinkpop!
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,415 likes - 500 songs - 1 day 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,429 likes - 500 songs - 1 day 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

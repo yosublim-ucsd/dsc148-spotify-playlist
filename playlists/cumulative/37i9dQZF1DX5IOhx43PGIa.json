@@ -3790,7 +3790,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 266573,
       "name": "just like before",
       "url": "https://open.spotify.com/track/2JAHDn2zTqHFsFmktmZ4Mt"
@@ -5206,6 +5206,24 @@
       "duration_ms": 140672,
       "name": "Off the Rails",
       "url": "https://open.spotify.com/track/0h7Vz5MQyJjO4ZnMW7HTjV"
+    },
+    {
+      "album": {
+        "name": "Oh No Darling!",
+        "url": "https://open.spotify.com/album/3RBeWddW8FHxtCdzD0VHns"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kinsley",
+          "url": "https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203876,
+      "name": "Oh No Darling!",
+      "url": "https://open.spotify.com/track/1PZhJNvdDjpsjZWrkfgff4"
     },
     {
       "album": {

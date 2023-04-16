@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KQrbsfHQvG.md) - [plain]
 
 > Get up\. Stand up\. Be the revolution.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,370 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,434 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KQrbsfHQvG.md) - [plain]
 | 28 | [Bury Me Face Down](https://open.spotify.com/track/0LSzBkkQZZkwV656r6etLg) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Bury Me Face Down](https://open.spotify.com/album/79L5Jm5KDfXA19nozVqZcg) | 3:51 |
 | 29 | [BURN IT](https://open.spotify.com/track/2j02RtZz6v53FRw4oWliZf) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [STRENGTH IN NUMB333RS](https://open.spotify.com/album/5PvosHtqCuqLK8A131lGZf) | 3:52 |
 | 30 | [Massacre, The New American Dream](https://open.spotify.com/track/3eqGymybwhdpKGVnbclzsL) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [The Bastards](https://open.spotify.com/album/5b2m10WqNvZaD8eTEXGyfl) | 3:05 |
-| 31 | [I Don't Wanna Be Blind](https://open.spotify.com/track/30gtuczW6s6jj2OUVj5rat) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Time & Space](https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx) | 2:04 |
-| 32 | [We The People....](https://open.spotify.com/track/3wUX7HpXS382s1DHTRouVk) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [We got it from Here..\. Thank You 4 Your service](https://open.spotify.com/album/3WvQpufOsPzkZvcSuynCf3) | 2:52 |
+| 31 | [We The People....](https://open.spotify.com/track/3wUX7HpXS382s1DHTRouVk) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [We got it from Here..\. Thank You 4 Your service](https://open.spotify.com/album/3WvQpufOsPzkZvcSuynCf3) | 2:52 |
+| 32 | [I Don't Wanna Be Blind](https://open.spotify.com/track/30gtuczW6s6jj2OUVj5rat) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Time & Space](https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx) | 2:04 |
 | 33 | [Heroes](https://open.spotify.com/track/3mwLIWu6drN0n6t9e5bwjG) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Us and Them \(Deluxe Edition\)](https://open.spotify.com/album/311sQUy4H8IFHsY9j8kx5q) | 3:24 |
 | 34 | [Machine Gun \(F\*\*k The NRA\)](https://open.spotify.com/track/223Ng7eyUcCmFwX9lZdqjD) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [21st Century Liability](https://open.spotify.com/album/1p64R5tjTpC2oH24YLdQgq) | 3:13 |
 | 35 | [Stick Up](https://open.spotify.com/track/5ZSKZ0wMdlMi4bQ3XZXXsp) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [a modern tragedy vol\. 1](https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV) | 3:42 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KQrbsfHQvG.md) - [plain]
 | 74 | [National Anthem](https://open.spotify.com/track/0A216B18ZRLYOrFVBeFbt4) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [STAINS](https://open.spotify.com/album/3VyIB05d6njAVbisgNWvCG) | 2:27 |
 | 75 | [Weather Strike](https://open.spotify.com/track/7o2Vk2ozntHju6LqFsXMjc) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [Weather Strike](https://open.spotify.com/album/5eEafds3DN8BfUNkojLR9Q) | 3:31 |
 
-Snapshot ID: `MTY2NzUzNDQwMCwwMDAwMDAwMGQ2OTFhZTQ1OTM3OGE4NDk5NzBjZDIwZjNjM2NkODQ0`
+Snapshot ID: `MTY2NzUzNDQwMCwwMDAwMDAwMGQ3NjNjZGIzMjc1NDQzMjlkMjU1NmMzMDQyODkzZmIw`

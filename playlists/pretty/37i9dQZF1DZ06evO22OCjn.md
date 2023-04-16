@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 
 > This is Burna Boy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,105 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,362 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 | 36 | [Miss You Bad](https://open.spotify.com/track/54UrIc5qQRjX128jcvMKIT) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 2:56 |
 | 37 | [Tomorrow](https://open.spotify.com/track/2eG4u4LHx1LpNjokkvsNmn) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [The Gamble](https://open.spotify.com/album/2qhCjeSlCUR3EeSceXNWbo) | 3:22 |
 | 38 | [Bank On It](https://open.spotify.com/track/5jqh2kAjz4GxjOS3HHSz17) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu) | 4:36 |
-| 39 | [Question \(feat\. Don Jazzy\)](https://open.spotify.com/track/163l4xzEe3JAfPbv0kYNQo) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a) | [Question \(feat\. Don Jazzy\)](https://open.spotify.com/album/0QOalrk1Kbdbt6p38FgBdA) | 2:48 |
-| 40 | [Pull Up](https://open.spotify.com/track/3qF8DcoQpQ1IXlMbTKHylP) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Chulo Vibes](https://open.spotify.com/album/1JlzIGbFMWsyL5WBEADj6Q) | 3:16 |
+| 39 | [Pull Up](https://open.spotify.com/track/3qF8DcoQpQ1IXlMbTKHylP) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Chulo Vibes](https://open.spotify.com/album/1JlzIGbFMWsyL5WBEADj6Q) | 3:16 |
+| 40 | [Question \(feat\. Don Jazzy\)](https://open.spotify.com/track/163l4xzEe3JAfPbv0kYNQo) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a) | [Question \(feat\. Don Jazzy\)](https://open.spotify.com/album/0QOalrk1Kbdbt6p38FgBdA) | 2:48 |
 | 41 | [Rotate](https://open.spotify.com/track/6wwT3PgG3eFuKCpxzjMJFs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Rotate](https://open.spotify.com/album/5FlP8dwJCTGLFk38tHDEiX) | 3:21 |
 | 42 | [Enjoy Yourself \(feat\. Burna Boy\) \- Remix](https://open.spotify.com/track/6QzkbRRLWTEcFE0NyOX1Dt) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Shoot For The Stars Aim For The Moon \(Deluxe\)](https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv) | 3:17 |
 | 43 | [Soke](https://open.spotify.com/track/4bzS0aUqNJIKiXk86k4tol) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [On A Spaceship](https://open.spotify.com/album/6NW4thIIMVcb6Wedxqu6ev) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 | 49 | [Pree Me](https://open.spotify.com/track/6g8A0XVikKuWbcJv7p2I5Q) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Pree Me](https://open.spotify.com/album/43FqJMK4CBZv6YutODuaE3) | 3:20 |
 | 50 | [I FEEL IT \(with Burna Boy\)](https://open.spotify.com/track/6NoTgpadvWX0qKEK6aJYsg) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I FEEL IT \(with Burna Boy\)](https://open.spotify.com/album/2Rmmtayyms1LsKbc0PoxlH) | 3:44 |
 
-Snapshot ID: `MjgwMjQ4NTIsMDAwMDAwMDA2MmRkY2QyYTRhMDYzZWI5ZmZhNDJhNTRjOWJkNmY3Mg==`
+Snapshot ID: `MjgwMjYwMzIsMDAwMDAwMDA2N2FlYjBkOWJkZTE5NWIxYjkzNzAzNzZkNThhYTdiYQ==`

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8GjsySWIS1x.md) - [plain]
 
 > The latest in gamer music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,008,502 likes - 72 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,008,625 likes - 72 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Peaches \(from The Super Mario Bros\. Movie\)](https://open.spotify.com/track/3ll9PUsB2KIliRoyGEUwFz) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [Peaches \(from The Super Mario Bros\. Movie\)](https://open.spotify.com/album/7JWqADIrUFMSRExaRpaRll) | 1:35 |
+| 1 | [Peaches](https://open.spotify.com/track/4w9soAM7IrmYDhSXLp14p6) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [The Super Mario Bros\. Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3QITNyRzvTqn0t9tLmS1Vd) | 1:35 |
 | 2 | [Out Of The Rain](https://open.spotify.com/track/27xLRjNOZM0vrLkiwMtAsA) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Out Of The Rain](https://open.spotify.com/album/2lz42JvrrwvTr4yKYpODLY) | 3:13 |
 | 3 | [>one \- greater than one](https://open.spotify.com/track/3zIcvn5r3QGea6a4M36MQr) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [>one \(greater than one\)](https://open.spotify.com/album/6GLcfMMmFXrfk9ydAjeLop) | 2:10 |
 | 4 | [Demon \(featuring $NOT\)](https://open.spotify.com/track/4OGkTQRmsTjodBox6nMzFU) | [g3ox\_em](https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Fast & Furious: Drift Tape \(Phonk Vol 1\)](https://open.spotify.com/album/2zhQ0DnZfURZJpHv3HGgw7) | 1:39 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8GjsySWIS1x.md) - [plain]
 | 71 | [Tarantino](https://open.spotify.com/track/4JfaAGQUBwFU886lRnPQIQ) | [Teflon Sega](https://open.spotify.com/artist/0JFKmdLuTj0yZi9P05a85X), [OZZIE](https://open.spotify.com/artist/1ZyteyKrx7qwKMwFYLAB1p) | [Tarantino](https://open.spotify.com/album/4YFETS96ebbE1JzttOofco) | 3:41 |
 | 72 | [NO MIND](https://open.spotify.com/track/11TC5EbqUIyQSA0utzM3eI) | [MILKBLOOD](https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME) | [NO MIND](https://open.spotify.com/album/0D7pULV8tSbrBkwulGpT9b) | 2:52 |
 
-Snapshot ID: `MTY4MTQwODU1OCwwMDAwMDAwMDZkZTdjM2E2M2E2NDY0MmE2ODRlMjc4MmU5NzcyNTJj`
+Snapshot ID: `MTY4MTQwODU1OCwwMDAwMDAwMDE3NDBmYWQzZjJiMWEzZjlmMjZjM2Y1ZmYxMGRlZTdh`

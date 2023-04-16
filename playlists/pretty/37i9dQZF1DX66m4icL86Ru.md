@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX66m4icL86Ru.md) - [plain]
 
 > Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Kali Uchis
 
-[Spotify](https://open.spotify.com/user/spotify) - 778,344 likes - 74 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 779,015 likes - 74 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX66m4icL86Ru.md) - [plain]
 | 30 | [Where Have You Been](https://open.spotify.com/track/5WQQIDU3HRaMyPkob8mpFb) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Talk That Talk](https://open.spotify.com/album/2g1EakEaW7fPTZC6vBmBCn) | 4:02 |
 | 31 | [HOT](https://open.spotify.com/track/38gSLIGyzkLKykkG4S72v5) | [Ktlyn](https://open.spotify.com/artist/6FaLegXtqjGZBH5VFrOlwG) | [HOT](https://open.spotify.com/album/3vKu3E7Vrg0fDrzik36yXz) | 2:33 |
 | 32 | [Pound Town \(and Tay Keith\)](https://open.spotify.com/track/4KSRdah26ypIXVNZPHmzO3) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Pound Town \(and Tay Keith\)](https://open.spotify.com/album/0xN8AKSa1FlAKuKe6BdD6A) | 2:09 |
-| 33 | [Escapism\. \- Sped Up](https://open.spotify.com/track/4rPJSqrov3zqGwXlemLBMw) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. \(Sped Up\)](https://open.spotify.com/album/1bdKI997loh6G68NED2cwX) | 3:59 |
+| 33 | [Escapism\. \- Sped Up](https://open.spotify.com/track/3XCpS4k8WqNnCpcDOSRRuz) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism.](https://open.spotify.com/album/4parxQfGC25WtlVVAm5S9q) | 3:59 |
 | 34 | [Yeah Yeah](https://open.spotify.com/track/3VSBjeNW4XzxPdE2yaJNHR) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg) | [HEAVY](https://open.spotify.com/album/4iIjKIlfryNbbogL9X4dgL) | 3:02 |
 | 35 | [Lisa](https://open.spotify.com/track/44FzVABpR2cciquTqADA0D) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Lisa](https://open.spotify.com/album/2jy7QlJB9hWgYsajBv4IOt) | 2:39 |
 | 36 | [I'M THAT BITCH](https://open.spotify.com/track/39uEuUEWsAZtozSQRPlf62) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [I'M THAT BITCH](https://open.spotify.com/album/3XZmrh1D5RI5kvz5N6i6Lp) | 2:32 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX66m4icL86Ru.md) - [plain]
 | 73 | [My Type](https://open.spotify.com/track/5KBARWIxeMGkvUax9VtVC9) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [ICY](https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH) | 2:06 |
 | 74 | [Maneater](https://open.spotify.com/track/4wH4dJgrsxONID6KS2tDQM) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 4:18 |
 
-Snapshot ID: `MTY4MTQ0NDg2MCwwMDAwMDAwMGEzNzJkNTRjNWE5ZDdjZGEyZDE0NTUxZGQ5YmEwZWY3`
+Snapshot ID: `MTY4MTQ0NDg2MCwwMDAwMDAwMGU5YWI4MWY4NzdkMTgxNTY3NjRmNzUyODU5OWFjOWUw`

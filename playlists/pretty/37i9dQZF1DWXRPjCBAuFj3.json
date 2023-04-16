@@ -1,12 +1,12 @@
 {
   "description": "I rapper pi\u00f9 forti del mondo in una sola playlist. Cover: Drake",
-  "num_followers": 202776,
+  "num_followers": 202778,
   "original_name": "Rap Internazionale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQyMzI2MCwwMDAwMDAwMDhjNWYzODU2NmZjYzg0MzI1ZWMzYWUwOTFhYTMwYmJk",
+  "snapshot_id": "MTY4MTQyMzI2MCwwMDAwMDAwMDE4NGZhOGRhM2QyZDIyZmRkNWU3OWQ1NTIyMDdjZDE2",
   "tracks": [
     {
       "added_at": "2023-04-13 22:01:00",
@@ -195,22 +195,6 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "5LBS OF PRESSURE",
-        "url": "https://open.spotify.com/album/0OQjYkxlKHsQwYLJziIQrI"
-      },
-      "artists": [
-        {
-          "name": "Superstar Pride",
-          "url": "https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa"
-        }
-      ],
-      "duration_ms": 122070,
-      "name": "PAINTING PICTURES",
-      "url": "https://open.spotify.com/track/7oLKoGzQVwjZ91AzCn560T"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
         "name": "I NEVER LIKED YOU",
         "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 189893,
       "name": "WAIT FOR U (feat. Drake & Tems)",
       "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
+        "name": "5LBS OF PRESSURE",
+        "url": "https://open.spotify.com/album/0OQjYkxlKHsQwYLJziIQrI"
+      },
+      "artists": [
+        {
+          "name": "Superstar Pride",
+          "url": "https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa"
+        }
+      ],
+      "duration_ms": 122070,
+      "name": "PAINTING PICTURES",
+      "url": "https://open.spotify.com/track/7oLKoGzQVwjZ91AzCn560T"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "The Light",
-        "url": "https://open.spotify.com/album/2thP70nudcFpvmRl3AsYRa"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 172218,
-      "name": "The Light",
-      "url": "https://open.spotify.com/track/6j5BK1cFX9TjJd5EXHGgAn"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
         "name": "Shoot For The Stars Aim For The Moon",
         "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 160000,
       "name": "What You Know Bout Love",
       "url": "https://open.spotify.com/track/1tkg4EHVoqnhR6iFEXb60y"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
+        "name": "The Light",
+        "url": "https://open.spotify.com/album/2thP70nudcFpvmRl3AsYRa"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 172218,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/6j5BK1cFX9TjJd5EXHGgAn"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -723,18 +723,22 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "In My Head",
-        "url": "https://open.spotify.com/album/4I00tpvL54vnWy49vH5fRK"
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc"
       },
       "artists": [
         {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
         }
       ],
-      "duration_ms": 192000,
-      "name": "In My Head",
-      "url": "https://open.spotify.com/track/2RJAKIw6nIkgZVsAIKhmqz"
+      "duration_ms": 148571,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -759,26 +763,6 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "True Love",
-        "url": "https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 148571,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
         "name": "Destined 2 Win",
         "url": "https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 232048,
       "name": "Run It Up (feat. Offset & Moneybagg Yo)",
       "url": "https://open.spotify.com/track/1dg3qy5DjoJodawfOCgrTP"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/4I00tpvL54vnWy49vH5fRK"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/2RJAKIw6nIkgZVsAIKhmqz"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -935,6 +935,26 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
+        "name": "Moulaga",
+        "url": "https://open.spotify.com/album/2k7vGyQFY5ILNhRf6Ia68J"
+      },
+      "artists": [
+        {
+          "name": "Heuss L'enfoir\u00e9",
+          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
+        },
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 179868,
+      "name": "Moulaga",
+      "url": "https://open.spotify.com/track/5BfCoUcWNXcpyJfjXRIeyC"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
         "name": "DS4EVER",
         "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
       },
@@ -955,26 +975,6 @@
       "duration_ms": 136266,
       "name": "pushin P (feat. Young Thug)",
       "url": "https://open.spotify.com/track/3XOalgusokruzA5ZBA2Qcb"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "Moulaga",
-        "url": "https://open.spotify.com/album/2k7vGyQFY5ILNhRf6Ia68J"
-      },
-      "artists": [
-        {
-          "name": "Heuss L'enfoir\u00e9",
-          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
-        },
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        }
-      ],
-      "duration_ms": 179868,
-      "name": "Moulaga",
-      "url": "https://open.spotify.com/track/5BfCoUcWNXcpyJfjXRIeyC"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -1027,22 +1027,26 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "DIAMANT DU BLED",
-        "url": "https://open.spotify.com/album/24xKUsNCdkbXC2q473nRNO"
+        "name": "06 Gucci (feat. DaBaby & 21 Savage)",
+        "url": "https://open.spotify.com/album/6K67robZZpglKEFuNQWtsr"
       },
       "artists": [
         {
-          "name": "Zola",
-          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
         },
         {
-          "name": "Damso",
-          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 192213,
-      "name": "COEUR DE ICE (feat. Damso)",
-      "url": "https://open.spotify.com/track/7jbu9k6w67hWlhSinmGT3c"
+      "duration_ms": 178950,
+      "name": "06 Gucci (feat. DaBaby & 21 Savage)",
+      "url": "https://open.spotify.com/track/4mWbFYZ9P14Ulf1LIFZGhH"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -1067,6 +1071,26 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
+        "name": "DIAMANT DU BLED",
+        "url": "https://open.spotify.com/album/24xKUsNCdkbXC2q473nRNO"
+      },
+      "artists": [
+        {
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
+        },
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        }
+      ],
+      "duration_ms": 192213,
+      "name": "COEUR DE ICE (feat. Damso)",
+      "url": "https://open.spotify.com/track/7jbu9k6w67hWlhSinmGT3c"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
         "name": "KMT",
         "url": "https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb"
       },
@@ -1079,26 +1103,6 @@
       "duration_ms": 240413,
       "name": "DIE",
       "url": "https://open.spotify.com/track/3D29kjUyWxsT3jUUTtARVQ"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "No Time Wasted (feat. Future)",
-        "url": "https://open.spotify.com/album/2QHf3w0Kft5kqqEXBaHBDm"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 179533,
-      "name": "No Time Wasted (feat. Future)",
-      "url": "https://open.spotify.com/track/4MUlNqSrMeFAHA6VpJKMo8"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -1131,6 +1135,26 @@
       "duration_ms": 177789,
       "name": "California Breeze",
       "url": "https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
+        "name": "No Time Wasted (feat. Future)",
+        "url": "https://open.spotify.com/album/2QHf3w0Kft5kqqEXBaHBDm"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 179533,
+      "name": "No Time Wasted (feat. Future)",
+      "url": "https://open.spotify.com/track/4MUlNqSrMeFAHA6VpJKMo8"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -1179,30 +1203,6 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "06 Gucci (feat. DaBaby & 21 Savage)",
-        "url": "https://open.spotify.com/album/6K67robZZpglKEFuNQWtsr"
-      },
-      "artists": [
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 178950,
-      "name": "06 Gucci (feat. DaBaby & 21 Savage)",
-      "url": "https://open.spotify.com/track/4mWbFYZ9P14Ulf1LIFZGhH"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
         "name": "Me & You",
         "url": "https://open.spotify.com/album/6V5o0b3ALGp5hkSew9Ms42"
       },
@@ -1215,6 +1215,22 @@
       "duration_ms": 187034,
       "name": "Me & You",
       "url": "https://open.spotify.com/track/12Us8e6NFesdkXKf4StU1I"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
+        "name": "Poland",
+        "url": "https://open.spotify.com/album/5LZiWbqOpj6g8uxSHch12S"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 83200,
+      "name": "Poland",
+      "url": "https://open.spotify.com/track/74loibzxXRL875X20kenvk"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -1243,22 +1259,6 @@
       "duration_ms": 194201,
       "name": "NO L\u00c8CHE",
       "url": "https://open.spotify.com/track/6D1HiF2e3Z0F8FwQ5uLxwn"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "Poland",
-        "url": "https://open.spotify.com/album/5LZiWbqOpj6g8uxSHch12S"
-      },
-      "artists": [
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        }
-      ],
-      "duration_ms": 83200,
-      "name": "Poland",
-      "url": "https://open.spotify.com/track/74loibzxXRL875X20kenvk"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -1311,6 +1311,34 @@
       "duration_ms": 187453,
       "name": "AIN'T GONNA ANSWER",
       "url": "https://open.spotify.com/track/2NV0mpU5YbyJXydzYPgw5O"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
+        "name": "4EVA (feat. Pharrell Williams)",
+        "url": "https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx"
+      },
+      "artists": [
+        {
+          "name": "KAYTRAMIN\u00c9",
+          "url": "https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy"
+        },
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 190373,
+      "name": "4EVA (feat. Pharrell Williams)",
+      "url": "https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -1415,50 +1443,18 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "4EVA (feat. Pharrell Williams)",
-        "url": "https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx"
+        "name": "Strike (Holster)",
+        "url": "https://open.spotify.com/album/1v3fDc2dJvSEKOd3hOSjAH"
       },
       "artists": [
         {
-          "name": "KAYTRAMIN\u00c9",
-          "url": "https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy"
-        },
-        {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
-        },
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
         }
       ],
-      "duration_ms": 190373,
-      "name": "4EVA (feat. Pharrell Williams)",
-      "url": "https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "Bye Bye",
-        "url": "https://open.spotify.com/album/1oKYKiAwR31eJvkRwpQVrb"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 108498,
-      "name": "Bye Bye",
-      "url": "https://open.spotify.com/track/6XO8RlYuJCiI0v3IA48FeJ"
+      "duration_ms": 148115,
+      "name": "Strike (Holster)",
+      "url": "https://open.spotify.com/track/7iTTWHbr4tAlsRJN4m4bay"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -1487,6 +1483,26 @@
       "duration_ms": 227478,
       "name": "WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) - Remix",
       "url": "https://open.spotify.com/track/2MbdDtCv5LUVjYy9RuGTgC"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
+        "name": "Bye Bye",
+        "url": "https://open.spotify.com/album/1oKYKiAwR31eJvkRwpQVrb"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 108498,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/6XO8RlYuJCiI0v3IA48FeJ"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -1543,6 +1559,26 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/55ZLjifyJc6wpZ07D2DcLV"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 189450,
+      "name": "Blackout",
+      "url": "https://open.spotify.com/track/0B0Xu2ih8fWpcwyxAt1c7m"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
         "name": "Honey Bun",
         "url": "https://open.spotify.com/album/0a0wSOjD0UQ1IqlcXKbeI7"
       },
@@ -1555,6 +1591,22 @@
       "duration_ms": 134666,
       "name": "Honey Bun",
       "url": "https://open.spotify.com/track/0oWL7FTlaA1YtsRRuiF4Xs"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
+        "name": "Underrated",
+        "url": "https://open.spotify.com/album/5GnCVEvwaFZPogirSgrrtv"
+      },
+      "artists": [
+        {
+          "name": "Lil Eazzyy",
+          "url": "https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b"
+        }
+      ],
+      "duration_ms": 128014,
+      "name": "Onna Come Up",
+      "url": "https://open.spotify.com/track/0e4A9Fak1nJ7RtBD8YpoEo"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -1579,38 +1631,6 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "Strike (Holster)",
-        "url": "https://open.spotify.com/album/1v3fDc2dJvSEKOd3hOSjAH"
-      },
-      "artists": [
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        }
-      ],
-      "duration_ms": 148115,
-      "name": "Strike (Holster)",
-      "url": "https://open.spotify.com/track/7iTTWHbr4tAlsRJN4m4bay"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "Underrated",
-        "url": "https://open.spotify.com/album/5GnCVEvwaFZPogirSgrrtv"
-      },
-      "artists": [
-        {
-          "name": "Lil Eazzyy",
-          "url": "https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b"
-        }
-      ],
-      "duration_ms": 128014,
-      "name": "Onna Come Up",
-      "url": "https://open.spotify.com/track/0e4A9Fak1nJ7RtBD8YpoEo"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
         "name": "Sans visa",
         "url": "https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx"
       },
@@ -1631,22 +1651,6 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "PETETE",
-        "url": "https://open.spotify.com/album/58vole57PvKhmHcY2JHBtk"
-      },
-      "artists": [
-        {
-          "name": "Gambi",
-          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
-        }
-      ],
-      "duration_ms": 123846,
-      "name": "PETETE",
-      "url": "https://open.spotify.com/track/0z3bi63SNZ5ylyHOzb81Uq"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
         "name": "Fighting Demons (Deluxe)",
         "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
       },
@@ -1663,26 +1667,18 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "Only Built For Infinity Links",
-        "url": "https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t"
+        "name": "PETETE",
+        "url": "https://open.spotify.com/album/58vole57PvKhmHcY2JHBtk"
       },
       "artists": [
         {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "Takeoff",
-          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
-        },
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+          "name": "Gambi",
+          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
         }
       ],
-      "duration_ms": 283196,
-      "name": "To The Bone (feat. YoungBoy Never Broke Again)",
-      "url": "https://open.spotify.com/track/4wRJHXHDJnKSPr9IVn0BFR"
+      "duration_ms": 123846,
+      "name": "PETETE",
+      "url": "https://open.spotify.com/track/0z3bi63SNZ5ylyHOzb81Uq"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -1775,22 +1771,26 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "Blackout",
-        "url": "https://open.spotify.com/album/55ZLjifyJc6wpZ07D2DcLV"
+        "name": "Only Built For Infinity Links",
+        "url": "https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t"
       },
       "artists": [
         {
-          "name": "Joyner Lucas",
-          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
         },
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Takeoff",
+          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
         }
       ],
-      "duration_ms": 189450,
-      "name": "Blackout",
-      "url": "https://open.spotify.com/track/0B0Xu2ih8fWpcwyxAt1c7m"
+      "duration_ms": 283196,
+      "name": "To The Bone (feat. YoungBoy Never Broke Again)",
+      "url": "https://open.spotify.com/track/4wRJHXHDJnKSPr9IVn0BFR"
     },
     {
       "added_at": "2023-04-13 22:01:00",

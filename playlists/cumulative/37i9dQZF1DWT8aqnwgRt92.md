@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-631 songs - 1 day 16 hr 10 min
+632 songs - 1 day 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -525,7 +525,7 @@
 | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/track/2rTmZHTXWo9YfIRAxbdkpG) | [マキシマム ザ ホルモン 一部のアニメテーマ専用仮設チャンネル](https://open.spotify.com/artist/7ipRKwjoASGW04QLVsDg3g) | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/album/04tV0O6qn5cXheBUTHmeKv) | 1:29 | 2022-10-25 | 2022-12-24 |
 | [切り傷](https://open.spotify.com/track/2KJ4Qr0M7KUsy5frJTTjVa) | [sajou no hana](https://open.spotify.com/artist/014bW80BPmy5WVcFBoHwNq) | [TVアニメ「ダンジョンに出会いを求めるのは間違っているだろうかIV 深章 厄災篇」エンディングテーマ「切り傷」](https://open.spotify.com/album/6JVfpI9ASJJIchwyPuZY9R) | 3:37 | 2023-02-21 | 2023-02-23 |
 | [刹那の誓い](https://open.spotify.com/track/4krsvetU6Z0yL0RfFeuvHA) | [Neko Hacker](https://open.spotify.com/artist/2aQ9IoRPwXEhhBVj4wbS46), [由崎司](https://open.spotify.com/artist/57nGnwFiNGNY5t77bVWWw2) | [刹那の誓い](https://open.spotify.com/album/75QchoEjeokxdFX2wAHenq) | 3:40 | 2023-04-06 | 2023-04-09 |
-| [勇敢な君に](https://open.spotify.com/track/1F4Hv0bnA7Nq5ixKUOoMmE) | [長瀞さん\(CV.上坂すみれ\)](https://open.spotify.com/artist/5ZdJyfAOmOzp8GTVx3krLl) | [勇敢な君に/君のためなら](https://open.spotify.com/album/19x44ioB8AIAvlMta296Ni) | 3:51 | 2023-03-21 |  |
+| [勇敢な君に](https://open.spotify.com/track/1F4Hv0bnA7Nq5ixKUOoMmE) | [長瀞さん\(CV.上坂すみれ\)](https://open.spotify.com/artist/5ZdJyfAOmOzp8GTVx3krLl) | [勇敢な君に/君のためなら](https://open.spotify.com/album/19x44ioB8AIAvlMta296Ni) | 3:51 | 2023-03-21 | 2023-04-16 |
 | [厭わない](https://open.spotify.com/track/17f8pQdBqQd27349d4AINC) | [MIMiNARI](https://open.spotify.com/artist/4v0TaIftFJ7Mkx7j5Cvrzv), [富田美憂](https://open.spotify.com/artist/1wEom777vdHnxPv3HxHwg0), [市ノ瀬加那](https://open.spotify.com/artist/3ZdaeWXncjBsPJoGkoF8w6) | [厭わない](https://open.spotify.com/album/1rI6gPUa74r9I6HUSFHbac) | 3:33 | 2023-01-17 | 2023-04-10 |
 | [友情的行進](https://open.spotify.com/track/0VjvxavbMLReB2maDJwokt) | [ファンタスティック☆パイセン](https://open.spotify.com/artist/2VRte4lrD9hgjwg0js8r53) | [友情的行進](https://open.spotify.com/album/0yduV9d4GQsFrVg9pn7fY4) | 3:55 | 2022-09-29 | 2022-11-03 |
 | [可愛くなりたい](https://open.spotify.com/track/2gnAKLPBO3Z8Le28LR2wI6) | [HoneyWorks](https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd), [涼海ひより（CV：水瀬いのり）](https://open.spotify.com/artist/5M0mn4erXCP6tSuakm8yuI), [瀬戸口雛（CV：麻倉もも）](https://open.spotify.com/artist/2YBlQwDHazL6jCrjIKgb1r) | [可愛くなりたい](https://open.spotify.com/album/29yNNZx29gnMcJaJZdYkLI) | 4:12 | 2022-05-28 | 2022-07-06 |
@@ -601,6 +601,7 @@
 | [空っぽの心](https://open.spotify.com/track/66EyebDoG7vr9AzvRbJ9H0) | [SARD UNDERGROUND](https://open.spotify.com/artist/7awtWS4uPN7SUSxSRilkMa) | [空っぽの心](https://open.spotify.com/album/6sCZgnJFMkZsm0YaEpYTi3) | 3:16 | 2022-05-28 | 2022-07-01 |
 | [空色デイズ \- from CrosSing](https://open.spotify.com/track/2r0obcBXAqmjT25pBewWlc) | [平野綾](https://open.spotify.com/artist/3HsqZmNM3saSQSfiTl8GzD) | [空色デイズ \- from CrosSing](https://open.spotify.com/album/2RqmAvQcK25aIBLUfflMGW) | 4:13 | 2023-02-28 | 2023-03-02 |
 | [第ゼロ感](https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [第ゼロ感](https://open.spotify.com/album/7hUGSAApToftQu366lqPVf) | 4:47 | 2022-11-08 |  |
+| [紙一重](https://open.spotify.com/track/4WqWAyxI9uf6CVxUBwglrb) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [紙一重](https://open.spotify.com/album/6aGEvo2LvTdDOwKxPtpdqN) | 4:09 | 2023-04-15 |  |
 | [終焉のDestiny](https://open.spotify.com/track/6NdiMgPfwfmjvfLpUYBJjc) | [渕上 舞](https://open.spotify.com/artist/2FS1GkRyHcBhVGfo40uZQE) | [終焉のDestiny](https://open.spotify.com/album/47QURrkAfB80PiwXbLesqv) | 3:29 | 2023-04-13 |  |
 | [絆ノ奇跡](https://open.spotify.com/track/2VBLFxCUyFp5BfmsZpxcis) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ), [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [絆ノ奇跡](https://open.spotify.com/album/1xml9CR90tJdvTESDk4Q4s) | 3:43 | 2023-04-11 |  |
 | [美しい鰭](https://open.spotify.com/track/3RauRsiIxUOQTS8h9sVWcP) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [美しい鰭](https://open.spotify.com/album/5npmI7gA2KMh68DwRjNSj9) | 3:29 | 2023-04-09 |  |

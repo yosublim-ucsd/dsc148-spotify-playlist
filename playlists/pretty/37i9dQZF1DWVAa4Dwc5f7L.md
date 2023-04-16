@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 
 > ¡Hasta las 15! Monster merengue hits! Cover: Elvis Crespo
 
-[Spotify](https://open.spotify.com/user/spotify) - 379,719 likes - 100 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,777 likes - 100 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 21 | [Bailando por el Mundo \(feat\. Pitbull & El Cata\)](https://open.spotify.com/track/3FeMpPPhGRKieT8zmlJDQz) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [El Cata](https://open.spotify.com/artist/52aHqEQZ802daFzuMHfcES) | [Bailando por el Mundo \(feat\. Pitbull & El Cata\)](https://open.spotify.com/album/5nRiEq87f96f29KYC09oZU) | 3:15 |
 | 22 | [La Morena](https://open.spotify.com/track/3sVfjl9XFBk8gjGrph7EWo) | [Ilegales](https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z) | [Ilegales](https://open.spotify.com/album/3zYFvSvwwb52XuXf25rtCg) | 4:24 |
 | 23 | [La Tanga](https://open.spotify.com/track/0c27iEtApUClcQ44aZ4BIP) | [Oro Solido](https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4) | [Internacional](https://open.spotify.com/album/5jr3mCoNe2N4vTRrUlwxT3) | 4:27 |
-| 24 | [Otra Noche \(Another Night\)](https://open.spotify.com/track/2lROtguCNiJcyZxol9aTKi) | [Proyecto Uno](https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu) | [In Da House](https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe) | 5:30 |
-| 25 | [Cachamba](https://open.spotify.com/track/2HFfwhwTbpGq8Ebi3Nkdwv) | [Kinito Mendez](https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT) | [El Hombre Merengue](https://open.spotify.com/album/2pQywjfiQQQQnjRGrxjHwd) | 4:43 |
+| 24 | [Cachamba](https://open.spotify.com/track/2HFfwhwTbpGq8Ebi3Nkdwv) | [Kinito Mendez](https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT) | [El Hombre Merengue](https://open.spotify.com/album/2pQywjfiQQQQnjRGrxjHwd) | 4:43 |
+| 25 | [Otra Noche \(Another Night\)](https://open.spotify.com/track/2lROtguCNiJcyZxol9aTKi) | [Proyecto Uno](https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu) | [In Da House](https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe) | 5:30 |
 | 26 | [La Hora De Bailar](https://open.spotify.com/track/2bsW096eoys2fLL8YZAkLn) | [Sandy & Papo](https://open.spotify.com/artist/5F8vogyroqA36mExBfM52B) | [Sandy & Papo MC](https://open.spotify.com/album/6W81jH29u4tqW0Yrvdhe88) | 4:50 |
 | 27 | [Píntame](https://open.spotify.com/track/7gNI9f8NTCU6hLV0pLkTT7) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Pintame](https://open.spotify.com/album/1JyYGBfd7EIVXtKyaOcyLB) | 4:19 |
 | 28 | [Merengue Electronico \(Rompe Consola\)](https://open.spotify.com/track/1Q2WPcHRVK16zh9TR6isEq) | [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [El Dueño Del Flow \(Bonus Track Version\)](https://open.spotify.com/album/3eQlstvvO9KwC44StPIJep) | 3:51 |
@@ -86,14 +86,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 76 | [Estás Enamorada](https://open.spotify.com/track/6RwiMja5FdaP8mKCRlg6jl) | [Limi\-T 21](https://open.spotify.com/artist/5j8Q0VC4Be4yhcQ1tf8Sh7) | [La Historia](https://open.spotify.com/album/1g8KiMYp6C2NMEUFfxf73H) | 4:03 |
 | 77 | [No Toy En Ti](https://open.spotify.com/track/0YMxfbonjLYbG4m9iEox7y) | [Henry Mendez](https://open.spotify.com/artist/4mnY9Vvz3GXQIyHljvWnY1), [Victor R \-Swag](https://open.spotify.com/artist/5Jz48JzVckf7ZUvrQc55Iq) | [No Toy En Ti](https://open.spotify.com/album/3ThubO1iZCTdnci01gnpSE) | 2:51 |
 | 78 | [Una Fotografía](https://open.spotify.com/track/0Ur4zvtBeZ6T9dhHCoGuSW) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [Jn Music Group 40 Años de Merengue Deluxe Edition, Vol\. 2](https://open.spotify.com/album/0JXXIo9JN7EyiHXE4dTqUg) | 4:04 |
-| 79 | [La Suegra](https://open.spotify.com/track/7bDoTCEpyesQRjPk0x8ky1) | [Caña Brava](https://open.spotify.com/artist/14C1tQKnUFJiWwKAp2Umga) | [Best Of The Best](https://open.spotify.com/album/3HSBkBA1hv9drUjHVhF3oA) | 4:41 |
-| 80 | [Dile](https://open.spotify.com/track/1pGgGsZLPNPwVAMZgi0cpL) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Juntos](https://open.spotify.com/album/6yq4tvlzSBaHvdsb8dPg2X) | 5:02 |
+| 79 | [Dile](https://open.spotify.com/track/1pGgGsZLPNPwVAMZgi0cpL) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Juntos](https://open.spotify.com/album/6yq4tvlzSBaHvdsb8dPg2X) | 5:02 |
+| 80 | [La Suegra](https://open.spotify.com/track/7bDoTCEpyesQRjPk0x8ky1) | [Caña Brava](https://open.spotify.com/artist/14C1tQKnUFJiWwKAp2Umga) | [Best Of The Best](https://open.spotify.com/album/3HSBkBA1hv9drUjHVhF3oA) | 4:41 |
 | 81 | [Me Miras Y Te Miro \- New Version](https://open.spotify.com/track/5yRdwws9A2CWy9caVCox6q) | [Grupo Mania](https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp) | [22 Ultimate Merengue Hits 2002](https://open.spotify.com/album/0eTqDy2Pkmo7REdNrXBBGQ) | 2:51 |
 | 82 | [No Llores Por Ella](https://open.spotify.com/track/08Kj8ngwRihIzX2EquAaAN) | [Zafra Negra](https://open.spotify.com/artist/0xBILQlkSWm8I2eQoUpoht) | [Con El Machete En La Mano](https://open.spotify.com/album/1XcyOpJC4vdxfAhOnCL7Ol) | 4:50 |
 | 83 | [Tú Eres Ajena](https://open.spotify.com/track/3y6oIGHyKQg6MZWNlJnRow) | [Omar Enrique](https://open.spotify.com/artist/6MBZlIvBB3e5IktjxqpdL7), [Eddy Herrera](https://open.spotify.com/artist/2dHwYqYxsj7IEgGu6dxraM) | [El Disco Del Año Vol\. 53](https://open.spotify.com/album/0mKBMKcJDra8yVTcDaAQgK) | 4:33 |
-| 84 | [Parece Una Nena](https://open.spotify.com/track/5WBOFWb8gpwzuSXiSqSVYL) | [Zona Roja](https://open.spotify.com/artist/2zXofGxFg93OZHBFAiweAI) | [15 Exitos De Pura Candela](https://open.spotify.com/album/34s5SEeyOMXc9MAy3jLGo6) | 4:34 |
-| 85 | [La Ventanita](https://open.spotify.com/track/36QUTKmqStL4Ye8s9xeTlc) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Lo Mejor de Lo Mejor \- Tropical](https://open.spotify.com/album/7Mvvbvm1ALm9bO9dEn7C3i) | 4:46 |
-| 86 | [El Costo De La Vida](https://open.spotify.com/track/5BQtqpUWEWujNim7fS5T6h) | [Rey Casas](https://open.spotify.com/artist/6oPOLmEagKe5lp1gedzGtk) | [Juan Luis Guerra Y 440 \(Versiones Instrumentales\)](https://open.spotify.com/album/6V0WSIfBhB36oheVJNXh1p) | 2:28 |
+| 84 | [La Ventanita](https://open.spotify.com/track/36QUTKmqStL4Ye8s9xeTlc) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Lo Mejor de Lo Mejor \- Tropical](https://open.spotify.com/album/7Mvvbvm1ALm9bO9dEn7C3i) | 4:46 |
+| 85 | [El Costo De La Vida](https://open.spotify.com/track/5BQtqpUWEWujNim7fS5T6h) | [Rey Casas](https://open.spotify.com/artist/6oPOLmEagKe5lp1gedzGtk) | [Juan Luis Guerra Y 440 \(Versiones Instrumentales\)](https://open.spotify.com/album/6V0WSIfBhB36oheVJNXh1p) | 2:28 |
+| 86 | [Parece Una Nena](https://open.spotify.com/track/5WBOFWb8gpwzuSXiSqSVYL) | [Zona Roja](https://open.spotify.com/artist/2zXofGxFg93OZHBFAiweAI) | [15 Exitos De Pura Candela](https://open.spotify.com/album/34s5SEeyOMXc9MAy3jLGo6) | 4:34 |
 | 87 | [Coqueta y Sabrosa](https://open.spotify.com/track/2eqcBuixUaODqSy1aDeXTP) | [Zafra Negra](https://open.spotify.com/artist/0xBILQlkSWm8I2eQoUpoht) | [20th Anniversary](https://open.spotify.com/album/2t1J456wqiV9uKy2ILiS7G) | 4:37 |
 | 88 | [La Faldita](https://open.spotify.com/track/3glDtaaom1yLlf8aVkHllx) | [Pochy Y Su Cocoband](https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu) | [La Faldita](https://open.spotify.com/album/7svwKm81mrsEdnGgtgrgRz) | 3:50 |
 | 89 | [No Me Veran Caer](https://open.spotify.com/track/6Jjr2fRVXtwMQoY94ybm9M) | [Barbosa](https://open.spotify.com/artist/1ZTqusXWkfiTeOciFTpphG) | [No Me Veran Caer](https://open.spotify.com/album/05y07x6dL5mGyy8HVnobt8) | 3:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 99 | [La Pastilla](https://open.spotify.com/track/6laC9qdbtt83hHAikUpt27) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Éxitos](https://open.spotify.com/album/0qTw9aI747PymW3nbhYIVJ) | 4:18 |
 | 100 | [Ni Tu Ni Yo](https://open.spotify.com/track/77cE5knaNTdMi3xwD4qpBv) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Juntos](https://open.spotify.com/album/6yq4tvlzSBaHvdsb8dPg2X) | 4:37 |
 
-Snapshot ID: `MTY4MTQ0NDgwMCwwMDAwMDAwMGEzMWQ3OGEzMmE3OGRjNmE1ZjI5YmJkNTRjOTM0ZGQ4`
+Snapshot ID: `MTY4MTQ0NDgwMCwwMDAwMDAwMDIxYjdkZWIzYjZmN2I0MmEyMTY5NDAwNjMxMzYzNzVk`

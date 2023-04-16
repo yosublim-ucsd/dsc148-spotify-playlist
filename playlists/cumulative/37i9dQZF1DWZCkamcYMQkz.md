@@ -4,7 +4,7 @@
 
 > Happy and uplifting Jazz to get you in a good mood.
 
-154 songs - 10 hr 18 min
+155 songs - 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [C'est si bon](https://open.spotify.com/track/3YrbJ9Y7SU0AIYFjYnXzIp) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [C'est Si Bon](https://open.spotify.com/album/6yKeev1MnyUbFjhNHWsFFK) | 3:07 | 2022-05-25 | 2022-07-29 |
 | [Ca\-Lee\-So \- Remastered 2007/Rudy Van Gelder Edition](https://open.spotify.com/track/5GmGwX7LtHc1eQEpwdzsxU) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Delightfulee](https://open.spotify.com/album/0B2DsJvIiZ9khche2rE4rI) | 5:34 | 2021-12-16 |  |
 | [Cannonball](https://open.spotify.com/track/1jWOaHSKT7CUcBuLdIcOTp) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Julian "Cannonball" Adderley](https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8) | 4:14 | 2021-12-16 |  |
+| [Central Park Swing](https://open.spotify.com/track/0LsYGVyyGCAvCX8bf2I2vO) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5) | [Not So Dukish](https://open.spotify.com/album/3oeavlFnbsS7L17R8Irxyv) | 3:25 | 2023-04-14 |  |
 | [Cheek To Cheek](https://open.spotify.com/track/6TSeKvWgaYitBKSanHfWsy) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D), [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [Boy Meets Girl: Sammy Davis Jr\. And Carmen McRae On Decca](https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge) | 3:58 | 2021-12-16 |  |
 | [Come Fly With Me \- Remastered 1998](https://open.spotify.com/track/4hHbeIIKO5Y5uLyIEbY9Gn) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Come Fly With Me \(Remastered\)](https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE) | 3:19 | 2021-12-16 | 2022-04-21 |
 | [Cononbridge](https://open.spotify.com/track/7eTxWRSvauWm5L3FblGk2h) | [Matt Carmichael](https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0) | [Cononbridge](https://open.spotify.com/album/1Hu3K4n6IhaGGqCT5Hf1sj) | 4:58 | 2021-12-16 |  |
@@ -149,7 +150,7 @@
 | [Things Ain't What They Used To Be](https://open.spotify.com/track/7pzhoKl2D6oRVU6C7ZDqjR) | [Paul Gonsalves](https://open.spotify.com/artist/23hRv3SqLMrj4i3b3tfUu4) | [Tell It The Way It Is](https://open.spotify.com/album/22Nw7i0lxcEYho6G5kWPLi) | 4:43 | 2021-12-16 | 2022-01-14 |
 | [Trouble Maker](https://open.spotify.com/track/6saSpp7UZUXltPD6OYGn9u) | [Lucas Figueiredo Santana](https://open.spotify.com/artist/4wXu0yhZX9vB4dZxzu3G7N) | [Trouble Maker](https://open.spotify.com/album/1uWMkNdhSSdVnTQoxNH4RS) | 6:47 | 2021-12-16 | 2022-01-14 |
 | [Two Not One](https://open.spotify.com/track/3bYBPyLGsa1unDrVaNzN4y) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k), [Warne Marsh](https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D) | [Lee Konitz with Warne Marsh](https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c) | 5:31 | 2021-12-16 | 2022-10-26 |
-| [Uncle Rough](https://open.spotify.com/track/61uh947sYcIlXI1k4dfDwS) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Sonic Boom](https://open.spotify.com/album/4DMAjEeHrtO1OPmMy9FeND) | 5:33 | 2021-12-16 |  |
+| [Uncle Rough](https://open.spotify.com/track/61uh947sYcIlXI1k4dfDwS) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Sonic Boom](https://open.spotify.com/album/4DMAjEeHrtO1OPmMy9FeND) | 5:33 | 2021-12-16 | 2023-04-16 |
 | [Volare \(Nel Blu Di Pinto Di Blu\) \- Remastered 1998](https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Is Dean Martin](https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX) | 3:01 | 2022-05-24 | 2022-08-11 |
 | [Waltz For Debby \- Live At The Village Vanguard, New York / 1961 / Take 2](https://open.spotify.com/track/6EC51OfUhguCbNp5H5SdGm) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [At The Village Vanguard](https://open.spotify.com/album/6kaZAT1UBgjchdmNv9hUHj) | 6:49 | 2021-12-16 |  |
 | [What a Little Moonlight Can Do](https://open.spotify.com/track/2x8hsmA7p24OxS5vxVG1C6) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [Carmen McRae Sings Lover Man And Other Billie Holiday Classics](https://open.spotify.com/album/5GJ5gYx2VulbjhOuPwlH0A) | 3:31 | 2021-12-16 |  |

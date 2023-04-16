@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4x3X2w.md) - [plain]
 
 > This is Aerosmith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 635,121 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 635,358 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4x3X2w.md) - [plain]
 | 49 | [Young Lust](https://open.spotify.com/track/1NBBGTzsBg9gZxJHiXcDD1) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Pump](https://open.spotify.com/album/2WXQrFpRtf1FVSS70D5TVT) | 4:18 |
 | 50 | [Lord of the Thighs](https://open.spotify.com/track/2CVfNg22TjHfXXus4BXKZJ) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get Your Wings](https://open.spotify.com/album/27UoulMZlqnShaLaLBcYp1) | 4:14 |
 
-Snapshot ID: `MjgwMjQ4NTIsMDAwMDAwMDA0YzA5MWQ5MzY5Y2FhMjc0MDJiMTg5OGNlM2ExOGQ0OQ==`
+Snapshot ID: `MjgwMjYwMzEsMDAwMDAwMDAzY2M2NGU5OTRkZWE0Y2M2ZjFhMTU3NjlmZGJhMTdjOQ==`

@@ -1,12 +1,12 @@
 {
   "description": "Rock y rumba para esos d\u00edas de sol, sangr\u00eda y amigxs.",
-  "num_followers": 65548,
+  "num_followers": 65631,
   "original_name": "Veranito a la Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzE1MDgyMiwwMDAwMDAwMGFmMWY2ZTM1MzU1MWE3OTI1YWE2MGUwNWE5MDM4NzBj",
+  "snapshot_id": "MTY0MzE1MDgyMiwwMDAwMDAwMDZlZDkzNjkxZTg4ODFjZDllNzdmZWRjNTVmM2MyYjkw",
   "tracks": [
     {
       "added_at": "2022-01-25 22:47:02",
@@ -675,18 +675,18 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Lunas rotas",
-        "url": "https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg"
+        "name": "El Sentimiento Garrapatero Que Nos Traen Las Flores",
+        "url": "https://open.spotify.com/album/2GmC3j6Wzb2PETn8vhyeJt"
       },
       "artists": [
         {
-          "name": "Rosana",
-          "url": "https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0"
+          "name": "Los Delinquentes",
+          "url": "https://open.spotify.com/artist/38LYyZ9hZEEQeEfeYoydqd"
         }
       ],
-      "duration_ms": 219813,
-      "name": "El talism\u00e1n",
-      "url": "https://open.spotify.com/track/5NXYUnjruvZd3mXiJNJVeA"
+      "duration_ms": 251720,
+      "name": "A la luz del Lorenzo",
+      "url": "https://open.spotify.com/track/6bMRELN9nclL87w9XEMMnw"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -707,18 +707,18 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "El Sentimiento Garrapatero Que Nos Traen Las Flores",
-        "url": "https://open.spotify.com/album/2GmC3j6Wzb2PETn8vhyeJt"
+        "name": "Lunas rotas",
+        "url": "https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg"
       },
       "artists": [
         {
-          "name": "Los Delinquentes",
-          "url": "https://open.spotify.com/artist/38LYyZ9hZEEQeEfeYoydqd"
+          "name": "Rosana",
+          "url": "https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0"
         }
       ],
-      "duration_ms": 251720,
-      "name": "A la luz del Lorenzo",
-      "url": "https://open.spotify.com/track/6bMRELN9nclL87w9XEMMnw"
+      "duration_ms": 219813,
+      "name": "El talism\u00e1n",
+      "url": "https://open.spotify.com/track/5NXYUnjruvZd3mXiJNJVeA"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Chambao Caminando",
-        "url": "https://open.spotify.com/album/2aKJ1XjOutOWXUNp6UrSJ5"
-      },
-      "artists": [
-        {
-          "name": "Chambao",
-          "url": "https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R"
-        }
-      ],
-      "duration_ms": 207333,
-      "name": "Pokito a Poko",
-      "url": "https://open.spotify.com/track/7LrM28pPWCpJYmbnaxHBmu"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/4XIrvN5W5fTbTRrSnFN2Ny"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 194870,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/5Aax4WuBCyiVp4NDB3lg5j"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "Chambao Caminando",
+        "url": "https://open.spotify.com/album/2aKJ1XjOutOWXUNp6UrSJ5"
+      },
+      "artists": [
+        {
+          "name": "Chambao",
+          "url": "https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R"
+        }
+      ],
+      "duration_ms": 207333,
+      "name": "Pokito a Poko",
+      "url": "https://open.spotify.com/track/7LrM28pPWCpJYmbnaxHBmu"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
+        "name": "Cosas Mias",
+        "url": "https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT"
+      },
+      "artists": [
+        {
+          "name": "Antonio Flores",
+          "url": "https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6"
+        }
+      ],
+      "duration_ms": 217573,
+      "name": "Isla de Palma",
+      "url": "https://open.spotify.com/track/1kh34PhgrmoKlfxzKjOTl7"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
         "name": "25 a\u00f1os de agropop",
         "url": "https://open.spotify.com/album/7cRpRaqiri5rQWGG1JtOnS"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 196480,
       "name": "Aguardiente",
       "url": "https://open.spotify.com/track/6CpBRucGBV8c2ztigPg6C4"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
-        "name": "Cosas Mias",
-        "url": "https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT"
-      },
-      "artists": [
-        {
-          "name": "Antonio Flores",
-          "url": "https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6"
-        }
-      ],
-      "duration_ms": 217573,
-      "name": "Isla de Palma",
-      "url": "https://open.spotify.com/track/1kh34PhgrmoKlfxzKjOTl7"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
+        "name": "10 A\u00f1os Around The World",
+        "url": "https://open.spotify.com/album/1vXo40YW3uDom5F3OifM1z"
+      },
+      "artists": [
+        {
+          "name": "Chambao",
+          "url": "https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R"
+        }
+      ],
+      "duration_ms": 193933,
+      "name": "Hoy Puede Ser un Gran Dia - Tributo a Serrat",
+      "url": "https://open.spotify.com/track/1vcZt7qwR9bgVSh7obMjFd"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
         "name": "Adelantando",
         "url": "https://open.spotify.com/album/28LFs98k7cTrXm2S2Xc65I"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 193800,
       "name": "Avisa a tu madre (feat. Tarque)",
       "url": "https://open.spotify.com/track/2aj7C3LL3ZrJX2dHiskmaP"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
-        "name": "10 A\u00f1os Around The World",
-        "url": "https://open.spotify.com/album/1vXo40YW3uDom5F3OifM1z"
-      },
-      "artists": [
-        {
-          "name": "Chambao",
-          "url": "https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R"
-        }
-      ],
-      "duration_ms": 193933,
-      "name": "Hoy Puede Ser un Gran Dia - Tributo a Serrat",
-      "url": "https://open.spotify.com/track/1vcZt7qwR9bgVSh7obMjFd"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "La Flaca",
-        "url": "https://open.spotify.com/album/1O5kJTerozuI2WLgzvIz2m"
-      },
-      "artists": [
-        {
-          "name": "Jarabe De Palo",
-          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
-        }
-      ],
-      "duration_ms": 212226,
-      "name": "Grita",
-      "url": "https://open.spotify.com/track/3zz4oi4aiOUV6lcQfKP5pU"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "El Toro y la Luna (20 Aniversario)",
         "url": "https://open.spotify.com/album/2sTqLFdRN5kp3hBkrV7QYN"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 218647,
       "name": "El Toro y la Luna - 20 Aniversario",
       "url": "https://open.spotify.com/track/0hgens24d8G02NNiIlZ9Ug"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "La Flaca",
+        "url": "https://open.spotify.com/album/1O5kJTerozuI2WLgzvIz2m"
+      },
+      "artists": [
+        {
+          "name": "Jarabe De Palo",
+          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+        }
+      ],
+      "duration_ms": 212226,
+      "name": "Grita",
+      "url": "https://open.spotify.com/track/3zz4oi4aiOUV6lcQfKP5pU"
     },
     {
       "added_at": "2022-01-25 22:47:02",

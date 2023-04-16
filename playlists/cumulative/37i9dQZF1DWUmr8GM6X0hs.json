@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-13",
+      "date_removed": null,
       "duration_ms": 204174,
       "name": "Acepto Mi Destino",
       "url": "https://open.spotify.com/track/7GbcDRHXyRn1ZEzZWopF0h"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 278040,
       "name": "As\u00ed",
       "url": "https://open.spotify.com/track/4Est2AoCaL1zVMmU78Qw3H"
@@ -767,6 +767,24 @@
     },
     {
       "album": {
+        "name": "Y Siguen Los \u00c9xitos",
+        "url": "https://open.spotify.com/album/4yWg278fGlo1SZHEjgLfUI"
+      },
+      "artists": [
+        {
+          "name": "Alci Acosta",
+          "url": "https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153573,
+      "name": "El Contragolpe",
+      "url": "https://open.spotify.com/track/74f7hfeONxGZH6bVnXIYGW"
+    },
+    {
+      "album": {
         "name": "30 Mejores: Alci Acosta",
         "url": "https://open.spotify.com/album/0rVePJ6T1cPv3wG06wFpmv"
       },
@@ -1232,7 +1250,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 121733,
       "name": "La \u00daltima Copa",
       "url": "https://open.spotify.com/track/7JtkNGrjQcIH972Ij06TYb"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 
 > Electronic + Dance making waves, every month\. Cover: Austin Millz, artwork by Ian Woods
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,579 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,626 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 | 3 | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx) | 3:10 |
 | 4 | [Killing Me](https://open.spotify.com/track/01cAvCmXqqHEnKzaQXkhzN) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Killing Me](https://open.spotify.com/album/5yeTnVxNU9I1rdfvVN26Fm) | 3:14 |
 | 5 | [All In One Night](https://open.spotify.com/track/4GUxUmge58qGkX81nD2RRe) | [Ten City](https://open.spotify.com/artist/3DIaOWIVFxJdTYyEb9mXzi), [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz) | [Love Is Love](https://open.spotify.com/album/2uEuw3GLQXeLTrawVFHjBX) | 3:07 |
-| 6 | [Ball and Chain \(Inner City Remix\)](https://open.spotify.com/track/4vXbRnY32Pk9VO9TitNR6Q) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Dantiez Saunderson](https://open.spotify.com/artist/7rymtwVS1IAIF9D4APLnOI) | [Ball and Chain \(Inner City Remix\)](https://open.spotify.com/album/09uJg21VQrBM72LVUdUPva) | 3:24 |
+| 6 | [Ball and Chain \(Inner City Remix\)](https://open.spotify.com/track/4vXbRnY32Pk9VO9TitNR6Q) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Dantiez](https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma) | [Ball and Chain \(Inner City Remix\)](https://open.spotify.com/album/09uJg21VQrBM72LVUdUPva) | 3:24 |
 | 7 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 |
 | 8 | [Just Say \- DJ Sliink Remix](https://open.spotify.com/track/0E0tSPI5JZz8Aq1y1DbFEQ) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Tara Carosielli](https://open.spotify.com/artist/5d6YpWfrSRRZBTgfLt0xcz), [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Just Say \(DJ Sliink Remix\)](https://open.spotify.com/album/15YPQEfHQwtk8rcgSDPtBY) | 2:12 |
 | 9 | [Pretty Girl](https://open.spotify.com/track/6O8qiaMZOwgC0lEkTVuu9x) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Pretty Girl](https://open.spotify.com/album/1vfo2y4jCMjVXo2XZ6oA5h) | 2:15 |

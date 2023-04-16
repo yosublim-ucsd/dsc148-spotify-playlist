@@ -1,12 +1,12 @@
 {
   "description": "A collection of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283\">Northern Bars</a>\u2019 finest. Cover: Belly",
-  "num_followers": 1836,
+  "num_followers": 1867,
   "original_name": "Hip-Hop Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQzNjI3OCwwMDAwMDAwMDFiYzQ3NWE5M2M3MmJiMWQ0ZTkzZjk2MzBlNzBkNjM5",
+  "snapshot_id": "MTY4MTQzNjI3OCwwMDAwMDAwMDM3NjJlMGNmZDIxYjY4MzM0Y2ExYThiMzc3NWQwMmIz",
   "tracks": [
     {
       "added_at": "2023-04-14 01:37:58",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-04-14 01:37:58",
       "album": {
-        "name": "Til The Morning",
-        "url": "https://open.spotify.com/album/5Iedaq7J17gvFEATBmfLOC"
-      },
-      "artists": [
-        {
-          "name": "ARDN",
-          "url": "https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo"
-        }
-      ],
-      "duration_ms": 130560,
-      "name": "Til The Morning",
-      "url": "https://open.spotify.com/track/4pvUifF5EPmy70TsS7nDI7"
-    },
-    {
-      "added_at": "2023-04-14 01:37:58",
-      "album": {
         "name": "Come Outside",
         "url": "https://open.spotify.com/album/2rjsJgXKKQRrLOrgmHHIby"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 198321,
       "name": "Come Outside",
       "url": "https://open.spotify.com/track/6N078G7btmtHvTLPPLL1wf"
+    },
+    {
+      "added_at": "2023-04-14 01:37:58",
+      "album": {
+        "name": "Til The Morning",
+        "url": "https://open.spotify.com/album/5Iedaq7J17gvFEATBmfLOC"
+      },
+      "artists": [
+        {
+          "name": "ARDN",
+          "url": "https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo"
+        }
+      ],
+      "duration_ms": 130560,
+      "name": "Til The Morning",
+      "url": "https://open.spotify.com/track/4pvUifF5EPmy70TsS7nDI7"
     },
     {
       "added_at": "2023-04-14 01:37:58",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-04-14 01:37:58",
       "album": {
-        "name": "While You on Road",
-        "url": "https://open.spotify.com/album/3DfkG12XAd1TGx9F5wNMCC"
-      },
-      "artists": [
-        {
-          "name": "Planet Giza",
-          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
-        }
-      ],
-      "duration_ms": 182535,
-      "name": "While You on Road",
-      "url": "https://open.spotify.com/track/7lUdvbrsHvoUfqBt7JOwkZ"
-    },
-    {
-      "added_at": "2023-04-14 01:37:58",
-      "album": {
         "name": "Been Himma",
         "url": "https://open.spotify.com/album/526OhvWv7oWC5xTrwG75Cq"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 166829,
       "name": "Been Himma",
       "url": "https://open.spotify.com/track/5G9i6PTCmXdOVmUfDRlc6t"
+    },
+    {
+      "added_at": "2023-04-14 01:37:58",
+      "album": {
+        "name": "While You on Road",
+        "url": "https://open.spotify.com/album/3DfkG12XAd1TGx9F5wNMCC"
+      },
+      "artists": [
+        {
+          "name": "Planet Giza",
+          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
+        }
+      ],
+      "duration_ms": 182535,
+      "name": "While You on Road",
+      "url": "https://open.spotify.com/track/7lUdvbrsHvoUfqBt7JOwkZ"
     },
     {
       "added_at": "2023-04-14 01:37:58",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2023-04-14 01:37:58",
       "album": {
+        "name": "Vallie Mode",
+        "url": "https://open.spotify.com/album/0y1MaVOQk1jI3VTHlKQ6uN"
+      },
+      "artists": [
+        {
+          "name": "Dom Vallie",
+          "url": "https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk"
+        }
+      ],
+      "duration_ms": 148349,
+      "name": "Vallie Mode",
+      "url": "https://open.spotify.com/track/6c9JGhWjQgGydAxlS49f8Y"
+    },
+    {
+      "added_at": "2023-04-14 01:37:58",
+      "album": {
         "name": "Fleurever",
         "url": "https://open.spotify.com/album/3eUG46qXFv43R7IzZARnPH"
       },
@@ -1063,26 +1079,6 @@
       "duration_ms": 130560,
       "name": "Dwayne Carter Flow",
       "url": "https://open.spotify.com/track/570V1YeIjY18g0OgQViBCg"
-    },
-    {
-      "added_at": "2023-04-14 01:37:58",
-      "album": {
-        "name": "Added Sugar",
-        "url": "https://open.spotify.com/album/1EqGwkiaYljCmwbpzPO5d6"
-      },
-      "artists": [
-        {
-          "name": "Planet Giza",
-          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
-        },
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Brk Frm Nrml",
-      "url": "https://open.spotify.com/track/4Da8BX0odlupbRhjc4QmED"
     },
     {
       "added_at": "2023-04-14 01:37:58",
@@ -1131,18 +1127,22 @@
     {
       "added_at": "2023-04-14 01:37:58",
       "album": {
-        "name": "Vallie Mode",
-        "url": "https://open.spotify.com/album/0y1MaVOQk1jI3VTHlKQ6uN"
+        "name": "Added Sugar",
+        "url": "https://open.spotify.com/album/1EqGwkiaYljCmwbpzPO5d6"
       },
       "artists": [
         {
-          "name": "Dom Vallie",
-          "url": "https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk"
+          "name": "Planet Giza",
+          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
         }
       ],
-      "duration_ms": 148349,
-      "name": "Vallie Mode",
-      "url": "https://open.spotify.com/track/6c9JGhWjQgGydAxlS49f8Y"
+      "duration_ms": 160000,
+      "name": "Brk Frm Nrml",
+      "url": "https://open.spotify.com/track/4Da8BX0odlupbRhjc4QmED"
     },
     {
       "added_at": "2023-04-14 01:37:58",
@@ -1159,22 +1159,6 @@
       "duration_ms": 109446,
       "name": "NightmareZ",
       "url": "https://open.spotify.com/track/6VY3ID6avXR4EyraG6SDKz"
-    },
-    {
-      "added_at": "2023-04-14 01:37:58",
-      "album": {
-        "name": "When The Moving Stops",
-        "url": "https://open.spotify.com/album/3NYk6nuDZeY65D7L5jesl8"
-      },
-      "artists": [
-        {
-          "name": "Planet Giza",
-          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
-        }
-      ],
-      "duration_ms": 208670,
-      "name": "When The Moving Stops",
-      "url": "https://open.spotify.com/track/3iEwa9W9ls7vLbZbe7vgSr"
     },
     {
       "added_at": "2023-04-14 01:37:58",
@@ -1307,6 +1291,22 @@
     {
       "added_at": "2023-04-14 01:37:58",
       "album": {
+        "name": "When The Moving Stops",
+        "url": "https://open.spotify.com/album/3NYk6nuDZeY65D7L5jesl8"
+      },
+      "artists": [
+        {
+          "name": "Planet Giza",
+          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
+        }
+      ],
+      "duration_ms": 208670,
+      "name": "When The Moving Stops",
+      "url": "https://open.spotify.com/track/3iEwa9W9ls7vLbZbe7vgSr"
+    },
+    {
+      "added_at": "2023-04-14 01:37:58",
+      "album": {
         "name": "Adult Supervision",
         "url": "https://open.spotify.com/album/5bM9enlXLb0rtI6aj6QHlS"
       },
@@ -1375,6 +1375,26 @@
     {
       "added_at": "2023-04-14 01:37:58",
       "album": {
+        "name": "Alejandro Sosa",
+        "url": "https://open.spotify.com/album/3XfyFPyRFhyG3PubBvv4kF"
+      },
+      "artists": [
+        {
+          "name": "Pengz",
+          "url": "https://open.spotify.com/artist/6MtptleIGJ3C7lOpGf9Hxc"
+        },
+        {
+          "name": "6ixbuzz",
+          "url": "https://open.spotify.com/artist/0esldOhgJb5AkjUre9EgLk"
+        }
+      ],
+      "duration_ms": 163250,
+      "name": "Alejandro Sosa",
+      "url": "https://open.spotify.com/track/7E6dftnR9rRdXfBXn2eZow"
+    },
+    {
+      "added_at": "2023-04-14 01:37:58",
+      "album": {
         "name": "Fly",
         "url": "https://open.spotify.com/album/5t0IgR1t1Xn4juP7Fb65nb"
       },
@@ -1387,26 +1407,6 @@
       "duration_ms": 160085,
       "name": "Fly",
       "url": "https://open.spotify.com/track/6jawC4HnwfnVzb7vCbN8Mt"
-    },
-    {
-      "added_at": "2023-04-14 01:37:58",
-      "album": {
-        "name": "BLU",
-        "url": "https://open.spotify.com/album/46SotNSwVlaHGFmSxCHOV1"
-      },
-      "artists": [
-        {
-          "name": "Nill",
-          "url": "https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl"
-        },
-        {
-          "name": "DijahSB",
-          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
-        }
-      ],
-      "duration_ms": 208109,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/1zsIwMmM20gvGU7YzPXKF8"
     }
   ],
   "unique_name": "Hip-Hop Rewind",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX219uawZE3sT.md) - [plain]
 
 > Apasiónate y revive los temas de tus historias predilectas\. Foto: Thalía
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,720 likes - 70 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,825 likes - 70 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX219uawZE3sT.md) - [plain]
 | 49 | [Porque El Amor Manda](https://open.spotify.com/track/3ot3tplmCSuP4tghJia2jR) | [América Sierra](https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly) | [El Amor Manda](https://open.spotify.com/album/6iyVNbwXzxrdVZKFyHTW8Y) | 3:16 |
 | 50 | [Mi tesoro](https://open.spotify.com/track/0ThQ0DXcsRbEyOsvKVdZWo) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Mi tesoro](https://open.spotify.com/album/3XUPV2CIpfIZDHUI8WKFfY) | 3:29 |
 | 51 | [Agujetas de Color de Rosa \(Pink Shoe Laces\)](https://open.spotify.com/track/4ub7vWkgBWI7fv5DiKPMiA) | [Los Hooligans](https://open.spotify.com/artist/2PscyQNouYlR193NQFjBka) | [La Gran Coleccion Del 60 Aniversario CBS \- Los Hooligans](https://open.spotify.com/album/3Jr5ERxbJWFJSAw61T5UUH) | 2:14 |
-| 52 | [Mentira](https://open.spotify.com/track/3SmkowrAwAjGSf1SYl7cgV) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Solo Bolero](https://open.spotify.com/album/3nJmMv3vx8sLOUNiybShch) | 4:43 |
-| 53 | [Amor Real](https://open.spotify.com/track/3TTGJWEf6djut1oziq9h02) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Hasta Ahora](https://open.spotify.com/album/1YETjeIkkvMlKq427v6LWH) | 4:05 |
+| 52 | [Amor Real](https://open.spotify.com/track/3TTGJWEf6djut1oziq9h02) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Hasta Ahora](https://open.spotify.com/album/1YETjeIkkvMlKq427v6LWH) | 4:05 |
+| 53 | [Mentira](https://open.spotify.com/track/3SmkowrAwAjGSf1SYl7cgV) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Solo Bolero](https://open.spotify.com/album/3nJmMv3vx8sLOUNiybShch) | 4:43 |
 | 54 | [Demasiado Corazon](https://open.spotify.com/track/203xPsmlzOYbPoUv4WL2kM) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Demasiado Corazon](https://open.spotify.com/album/2IgZZffWbFgLioltFU54VE) | 3:50 |
 | 55 | [En Su Lugar](https://open.spotify.com/track/4w5F6hkJO5Gr1h0tDDPbg1) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Entre Mariposas](https://open.spotify.com/album/1jPtvaUml63VAJGOwTixv0) | 3:46 |
 | 56 | [Tan Enamorados](https://open.spotify.com/track/2yAQWxFEkBD7SWA1aemkua) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Ricardo Montaner Volumen 2](https://open.spotify.com/album/2OLhHgoFR9T1SebPzV0bjD) | 4:16 |
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX219uawZE3sT.md) - [plain]
 | 62 | [A Dónde Va Nuestro Amor \- Versión Telenovela](https://open.spotify.com/track/0zA1PzaGYhJSdOFcsFOyUS) | [Playa Limbo](https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8) | [De Días y de Noches \(En Vivo\) \(Centro Cultural Roberto Cantoral\)](https://open.spotify.com/album/1M80e2cT0RjwiumdKlk4aw) | 3:31 |
 | 63 | [Día De Suerte](https://open.spotify.com/track/2AXs2wo7CyMu5aZreyhZ31) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Lo Mejor De...](https://open.spotify.com/album/0vLZBQhGBr7Elt7qLDRipR) | 3:33 |
 | 64 | [Corazón Que Miente](https://open.spotify.com/track/4f7bWZTU5RDLAnD3DkLScO) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Corazón Que Miente](https://open.spotify.com/album/1mWGwFqEGAfvm6qh8PAOgr) | 3:20 |
-| 65 | [El Amor De Mi Vida](https://open.spotify.com/track/6Byf7nRNKYLuqXsWf80ahI) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [La Mas Completa Coleccion](https://open.spotify.com/album/6ie8SesJgc1UflnOl42NHB) | 4:34 |
-| 66 | [La Usurpadora](https://open.spotify.com/track/2hWwM1HvqlinY0n9mnC3NW) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [1985\-1998](https://open.spotify.com/album/1TrINJ03nVRp9Xas5oNVTP) | 3:25 |
+| 65 | [La Usurpadora](https://open.spotify.com/track/2hWwM1HvqlinY0n9mnC3NW) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [1985\-1998](https://open.spotify.com/album/1TrINJ03nVRp9Xas5oNVTP) | 3:25 |
+| 66 | [El Amor De Mi Vida](https://open.spotify.com/track/6Byf7nRNKYLuqXsWf80ahI) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [La Mas Completa Coleccion](https://open.spotify.com/album/6ie8SesJgc1UflnOl42NHB) | 4:34 |
 | 67 | [Contra Viento Y Marea](https://open.spotify.com/track/5o6WIZr8i93PtynxDAzT7U) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Super \#1's](https://open.spotify.com/album/4fjmN8hFRaHWe8HEtMc3Eh) | 3:40 |
 | 68 | [Sólo Un Suspiro](https://open.spotify.com/track/2APQKFq7yuq3sNaziTaeWE) | [Alejandra Orozco](https://open.spotify.com/artist/4xG7HHi0auDk7vPhOqGPR3), [Oscar Cruz](https://open.spotify.com/artist/0Jnwlov8CnJTEZBbQoRcfF) | [Los Ganadores De La Voz](https://open.spotify.com/album/5z59IcDIT60ng5MSjXhaA6) | 3:49 |
 | 69 | [Se Dice de Mi \(Yo Soy Betty la Fea\) \(Versión Completa\)](https://open.spotify.com/track/6oq52sFxdbZn9JOJPXcNSc) | [Yolanda Rayo](https://open.spotify.com/artist/6huV8wdNiXy3qqVuvXAquU) | [Se Dice de Mi, Yo Soy Betty la Fea.](https://open.spotify.com/album/58XAbuYyEa6UV5wIuEgN2x) | 2:25 |
 | 70 | [Un Alma en Pena](https://open.spotify.com/track/19a0LWL0uI0ggevU7QpzpG) | [Lucía Méndez](https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN) | [Mis Íntimas Razones](https://open.spotify.com/album/0NVKTnvoqBpIGJDgT8A7yr) | 3:40 |
 
-Snapshot ID: `MTY1MTg2MTk0NiwwMDAwMDAwMGE1OTc1NjkxMmQ5NGQ1NDMxZTU1ODAxYTU2YzI5NmNl`
+Snapshot ID: `MTY1MTg2MTk0NiwwMDAwMDAwMGFjNzIwNGRhOTFlNWQ5NTY3MDIzNDFiMDI0MDcyNTBi`

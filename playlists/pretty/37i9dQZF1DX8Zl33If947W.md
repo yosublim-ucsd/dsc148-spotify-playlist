@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 
 > Die schönsten deutschsprachigen Liebeslieder in einer Playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,781 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,928 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 | 24 | [Liebe zu dritt](https://open.spotify.com/track/1CeL9v59rZeFX63hYI4eAO) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx), [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U), [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Liebe zu dritt](https://open.spotify.com/album/20HZQOmLW3XOSQKbZjw77F) | 3:26 |
 | 25 | [Wie schön du bist](https://open.spotify.com/track/2xtnnO9bHKXEmsfetO3ldK) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Muttersprache \(Deluxe Version\)](https://open.spotify.com/album/3ZpOEFd7RgKIcdWOqrzOAc) | 3:38 |
 | 26 | [Nur wegen dir](https://open.spotify.com/track/0ui2kVwPZKHaZxGhdIzBrp) | [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN) | [Nur wegen dir](https://open.spotify.com/album/6QoPwcohKlWQsotj6HZXDl) | 3:23 |
-| 27 | [Liege wieder wach](https://open.spotify.com/track/0ZqL6UhrqydZE4DaXvCMeT) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [Liege wieder wach](https://open.spotify.com/album/2rwuHAmXq1BgYGvcQT6rXb) | 2:56 |
-| 28 | [Lieblingsmensch](https://open.spotify.com/track/6oHDvarQSp0mf5AD1SyNH0) | [Namika](https://open.spotify.com/artist/0HSc7yUdNSosxRb2UJnXlz) | [Nador](https://open.spotify.com/album/2u6q5sBh8VigLzYghKk5r0) | 3:10 |
+| 27 | [Lieblingsmensch](https://open.spotify.com/track/6oHDvarQSp0mf5AD1SyNH0) | [Namika](https://open.spotify.com/artist/0HSc7yUdNSosxRb2UJnXlz) | [Nador](https://open.spotify.com/album/2u6q5sBh8VigLzYghKk5r0) | 3:10 |
+| 28 | [Liege wieder wach](https://open.spotify.com/track/0ZqL6UhrqydZE4DaXvCMeT) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [Liege wieder wach](https://open.spotify.com/album/2rwuHAmXq1BgYGvcQT6rXb) | 2:56 |
 | 29 | [Blaue Augen](https://open.spotify.com/track/045Qp5DqFXTqUuMMBR81iS) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Blaue Augen](https://open.spotify.com/album/5YDM82AhvE4m0tppu7XQHc) | 2:47 |
 | 30 | [Dein ist mein ganzes Herz](https://open.spotify.com/track/030dULvYNT5n8vYpIak51w) | [Heinz Rudolf Kunze](https://open.spotify.com/artist/77DQHftPzPyCoqSDjdHDxJ) | [Dein ist mein ganzes Herz](https://open.spotify.com/album/5ehndLBjIEdFTeHBfRXVoy) | 3:33 |
 | 31 | [Ich lass für dich das Licht an](https://open.spotify.com/track/55VQvOY6dT63vHmYlWJDpG) | [Revolverheld](https://open.spotify.com/artist/5FYfIAuN8mV5KgVtugwfc0) | [Immer in Bewegung](https://open.spotify.com/album/2GJf3Mf41uZ05U6ygryyD0) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 | 49 | [Er gehört zu mir](https://open.spotify.com/track/6COzABVCHQzyvc3rTMtrXn) | [Marianne Rosenberg](https://open.spotify.com/artist/4RVBHXd0cu2qrEyv8jVjQZ) | [Er gehört zu mir](https://open.spotify.com/album/6Gm59zyhmpW3mDvxZEZgth) | 3:00 |
 | 50 | [Sommerregen](https://open.spotify.com/track/1Eo3f6FUUbsvFEVtpdVbqi) | [RAUM27](https://open.spotify.com/artist/4XYLofF5uTuAHIcuEBdNdr) | [Sommerregen](https://open.spotify.com/album/7KOpokcGiDbtOVfHY0srjl) | 3:45 |
 
-Snapshot ID: `MTY3ODA5MDg2MCwwMDAwMDAwMGMxY2Y0NzYxMTA4OGE1MzBmYWFkNTU5ZmI2ZTg3MDFk`
+Snapshot ID: `MTY3ODA5MDg2MCwwMDAwMDAwMDI2ZThmNDJhMjI2NzZjOGVkNjIzY2IyZjI5OTZiNzRh`

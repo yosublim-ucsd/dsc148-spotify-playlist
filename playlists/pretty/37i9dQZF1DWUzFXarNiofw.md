@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: SZA & Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 994,081 likes - 128 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 994,425 likes - 128 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 7 | [Right My Wrongs](https://open.spotify.com/track/2a6dtqGypYvr9h1s6RDSNo) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Right My Wrongs](https://open.spotify.com/album/0MUdV84DUtrrIfUlr1QNL2) | 2:20 |
 | 8 | [THERAPY](https://open.spotify.com/track/49Lbka7DlfHkooF7ZIkQl2) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [THERAPY](https://open.spotify.com/album/13pHhMjxP0rRnWm7o0CZHw) | 2:06 |
 | 9 | [Hurt Before](https://open.spotify.com/track/6uKF40bIepjLn6YajXpdw5) | [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1) | [Hurt Before](https://open.spotify.com/album/5Pp8b3ejvglrVW7D8EXOoV) | 2:02 |
-| 10 | [Magic](https://open.spotify.com/track/6pZ5mZ9vyL1LhnBhe9F0ab) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Magic](https://open.spotify.com/album/5l41YMfQTv7Rn2htpTbDit) | 2:22 |
+| 10 | [Magic](https://open.spotify.com/track/6pZ5mZ9vyL1LhnBhe9F0ab) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Magic](https://open.spotify.com/album/5l41YMfQTv7Rn2htpTbDit) | 2:21 |
 | 11 | [What Are We](https://open.spotify.com/track/1JGtASXpqtKEkrpjLWa1Pf) | [Jordan Hawkins](https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY) | [4Play](https://open.spotify.com/album/3SeBjLdX2gX02thhla8PxC) | 3:09 |
 | 12 | [Southern Delicacy](https://open.spotify.com/track/3TzHYI4SvydLcaQxGJZ7Mm) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Southern Delicacy](https://open.spotify.com/album/2GqVdnApGsHmQrQWX0rVY2) | 3:17 |
 | 13 | [AM/FM](https://open.spotify.com/track/5PCW8qWmZfqBhs5UmuG5wU) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [AM/FM](https://open.spotify.com/album/5C7wsbtvtoVg24iVKGqSD1) | 2:45 |

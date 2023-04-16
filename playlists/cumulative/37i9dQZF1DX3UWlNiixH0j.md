@@ -4,7 +4,7 @@
 
 > The freshest indie sounds from Japan\. 日本のインディー・サウンドを特集。Cover: a子 \(ako\)
 
-392 songs - 1 day 0 hr 53 min
+393 songs - 1 day 0 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [everyone likes](https://open.spotify.com/track/6iNg9CQ1O2PGfjBRsgFu9s) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [HMN</3](https://open.spotify.com/album/6PIB7gC1CweteFuVFjbpro) | 3:06 | 2023-03-14 |  |
 | [everywhere](https://open.spotify.com/track/0qxFXsxsoUHHhvpKe6ZItr) | [butaji](https://open.spotify.com/artist/2bsLk9rBYLaDCtexh8qO2I) | [everywhere](https://open.spotify.com/album/3w19SNOLF4DoBniB2acsNK) | 5:22 | 2023-02-07 |  |
 | [extra ordinary](https://open.spotify.com/track/3ShBc77Hq3HgH5EK58DsS5) | [Group2](https://open.spotify.com/artist/6V7rXqQ6eNhJArV5K6RCMp), [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn) | [extra ordinary](https://open.spotify.com/album/4zsv8pDsiu804DKBb5DO2f) | 3:36 | 2023-03-09 | 2023-03-29 |
+| [Eye of Howruis \- imai REMIX](https://open.spotify.com/track/4Ag1N1VhuoLxb7h4DPNk5P) | [バスクのスポーツ](https://open.spotify.com/artist/0yaofYMMvhsv6741FK76zU), [imai](https://open.spotify.com/artist/7KuezP7qjUEdOhIDj1hrG4) | [Eye of Howruis \(imai REMIX\)](https://open.spotify.com/album/3yxHrg3isD2EGyybGxb4ks) | 2:53 | 2023-04-15 |  |
 | [Eyes](https://open.spotify.com/track/5hztfJs7VAjS4c4IWc3lZc) | [No Buses](https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6) | [Eyes](https://open.spotify.com/album/2VSREGDOr59t7uOXZ8B7s7) | 2:50 | 2023-03-07 |  |
 | [Falling](https://open.spotify.com/track/2COAy9Fid4TD0jZA7wqaAm) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms) | [Here I Stand](https://open.spotify.com/album/2yqdCAB3sTekwkJ3mmHjLh) | 3:52 | 2023-04-04 |  |
 | [Fanfare](https://open.spotify.com/track/53q80WeNxUnyi3YDm3PPhp) | [SPECIAL OTHERS](https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5) | [Fanfare](https://open.spotify.com/album/6tkKpYubLhXjkc4sqf2DtM) | 4:17 | 2023-02-28 | 2023-03-18 |
@@ -329,7 +330,7 @@
 | [ロマンス宣言](https://open.spotify.com/track/7ph7HRUsxYcKLRFTaYCQYQ) | [Kaneko Ayano](https://open.spotify.com/artist/4XKIIegkRbSJft0PmMv9NB) | [祝祭](https://open.spotify.com/album/3lrZCCakw7a68QVCBTt7BT) | 2:29 | 2023-03-28 | 2023-04-05 |
 | [不思議な関係](https://open.spotify.com/track/00Nj6hCC9wNg86MO0sIGJf) | [Shin Rizumu](https://open.spotify.com/artist/0KZ7Lk1c6rpp0nwvY9EuD4) | [不思議な関係](https://open.spotify.com/album/1W2FaF800M2nRqZlPFMhG9) | 4:32 | 2023-01-12 | 2023-01-18 |
 | [予感](https://open.spotify.com/track/5KNP39R2DEshipc9QjzPiT) | [Kaneko Ayano](https://open.spotify.com/artist/4XKIIegkRbSJft0PmMv9NB) | [タオルケットは穏やかな](https://open.spotify.com/album/2byWdUAtCOUaxDe73nGfhU) | 2:43 | 2023-03-28 |  |
-| [低空](https://open.spotify.com/track/6WVmWMn8ZknjbA70Xr93wc) | [CRCK/LCKS](https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs) | [低空](https://open.spotify.com/album/5069TeKV6SsMxz4PQW9GEp) | 3:54 | 2023-03-21 |  |
+| [低空](https://open.spotify.com/track/6WVmWMn8ZknjbA70Xr93wc) | [CRCK/LCKS](https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs) | [低空](https://open.spotify.com/album/5069TeKV6SsMxz4PQW9GEp) | 3:54 | 2023-03-21 | 2023-04-16 |
 | [僕は幽霊と踊っている](https://open.spotify.com/track/2dXpX2ujTYKwskiSR0noOk) | [横田惟一郎](https://open.spotify.com/artist/4sFxYSegYJspAMc2IGHFOJ) | [僕は幽霊と踊っている](https://open.spotify.com/album/1BF4UzJ6VzN246zZrTTACW) | 4:20 | 2023-04-04 | 2023-04-12 |
 | [光のゆくえ](https://open.spotify.com/track/06qgE2CtKpj7iiC4ozgAn2) | [優河 with 魔法バンド](https://open.spotify.com/artist/4Sv6m7DsDWWGEP47BKsJ7Q), [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [月食の夜は](https://open.spotify.com/album/2IzcytCqWORdjCtNYpNc1M) | 4:09 | 2023-03-28 |  |
 | [光の庭と魚の夢](https://open.spotify.com/track/54eQt6Cfyv7rawQHKtW5bi) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [光の庭と魚の夢](https://open.spotify.com/album/6oAFmHVa4jrzyOUXGCe9xj) | 4:28 | 2023-01-26 | 2023-01-28 |

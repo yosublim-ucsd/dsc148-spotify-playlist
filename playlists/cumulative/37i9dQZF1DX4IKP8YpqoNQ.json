@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "With A Lot O' Soul",
+        "url": "https://open.spotify.com/album/1nklkfuUUujG5s3wL6mfuL"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182866,
+      "name": "Ain't No Sun Since You've Been Gone",
+      "url": "https://open.spotify.com/track/1yBN1LvoUu6yR7m5ZsmwAa"
+    },
+    {
+      "album": {
         "name": "Bill Withers Live At Carnegie Hall",
         "url": "https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx"
       },
@@ -2876,7 +2894,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 210666,
       "name": "These Arms Of Mine",
       "url": "https://open.spotify.com/track/03pSPi9O3N1CkZ12M6Av44"

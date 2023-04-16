@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: Anyi
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,271 likes - 53 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,303 likes - 53 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [Reproches y Polen](https://open.spotify.com/track/1yqmL64HieowVdWtgDMfH5) | [Bueno Perdona](https://open.spotify.com/artist/33nKYxZA27Y5o1lO6ezmNn) | [Reproches y Polen](https://open.spotify.com/album/1eqrS0Ky7I7ebllSt9JWAZ) | 3:34 |
 | 50 | [Costa Brava](https://open.spotify.com/track/1RY8EW1F5so5jQf6pGMUji) | [Lord Malvo](https://open.spotify.com/artist/0RpTnyHVl084J1I5V79gos) | [Costa Brava](https://open.spotify.com/album/511D2RkzYOuH1NXiH249uk) | 3:17 |
 | 51 | [Cumplo Condena](https://open.spotify.com/track/4OTJDVLzfp8awm8vpLhAv6) | [Gabriel Parpusa](https://open.spotify.com/artist/5Fw4TlJzoemKV0izeZJfp8) | [Cumplo Condena](https://open.spotify.com/album/688RdoXlFc3gJeKIbb5VTS) | 3:22 |
-| 52 | [Desde Que Te Fuiste](https://open.spotify.com/track/27lvwmEhKxTVHmA0vOE8zH) | [Persse](https://open.spotify.com/artist/6rKyjr2gRyn5roNM7QR6qT) | [Proeza](https://open.spotify.com/album/00DZjWUwBTk7FRBJihDJsM) | 2:44 |
+| 52 | [Desde Que Te Fuiste](https://open.spotify.com/track/27lvwmEhKxTVHmA0vOE8zH) | [Persse](https://open.spotify.com/artist/6rKyjr2gRyn5roNM7QR6qT) | [PROEZA](https://open.spotify.com/album/00DZjWUwBTk7FRBJihDJsM) | 2:44 |
 | 53 | [Quisiera](https://open.spotify.com/track/58s4Lbsh8MBAFoJ7Aeaex8) | [Flor de Jamaica](https://open.spotify.com/artist/4jS676NJhUIjqAjmDzKG5f) | [Quisiera](https://open.spotify.com/album/3HJ3fRk2KTki8HvqsoLWm6) | 3:44 |
 
 Snapshot ID: `MTY4MTQ0NDgwMCwwMDAwMDAwMGZmNzRmYmFlN2RlMzBmZmViMWE2MmViM2NiZjY1NDEw`

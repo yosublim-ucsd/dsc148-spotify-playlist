@@ -2,9 +2,9 @@
 
 ### [AUGE](https://open.spotify.com/playlist/37i9dQZF1DWZylNQMXNhNe)
 
-> Os maiores hits e novidades de artistas LGBTQIA+ estão aqui\. Foto: Bixarte
+> Os maiores hits e novidades de artistas LGBTQIA+ estão aqui\. Foto: Majur
 
-97 songs - 4 hr 18 min
+98 songs - 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [MIL GRAU](https://open.spotify.com/track/4BkjISAYyQ6OMnEpzpQxgA) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [ALEGORIA](https://open.spotify.com/album/6kAhfgYBxtIQcI2AfMn2nq) | 2:25 | 2022-04-29 | 2022-07-29 |
 | [Milkshake](https://open.spotify.com/track/1S04Xi3itu6MyqEzI0kAE0) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [Gente Crazy](https://open.spotify.com/album/1BA3CXKhTegfp6WIAIbxGC) | 2:31 | 2023-01-13 |  |
 | [MODO TURBO](https://open.spotify.com/track/0YqTL3nSL36OFdHwHoqCag) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [MODO TURBO](https://open.spotify.com/album/07PF9SyKuu6hstifHc0nEt) | 2:30 | 2022-04-29 |  |
+| [Na Sua](https://open.spotify.com/track/5Wwap1q83am8aMJMo4mjDs) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [Na Sua](https://open.spotify.com/album/4rUcoz67PBYnscDJFS0hi8) | 3:05 | 2023-04-15 |  |
 | [Necomancia](https://open.spotify.com/track/7rugGx6BTUaqjTvaoEIDAb) | [Linn da Quebrada](https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Pajubá](https://open.spotify.com/album/5xyoM3kQr3FJSGk2CVP6du) | 4:06 | 2022-04-29 | 2022-09-24 |
 | [NOITE DE CAÇA](https://open.spotify.com/track/3vNEwUDgq46FPGk7xVhwTx) | [Mateus Carrilho](https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [NOITE DE CAÇA](https://open.spotify.com/album/4BpC89Hz3YwISnrcYBfWbH) | 2:38 | 2022-04-29 |  |
 | [Não Tenta](https://open.spotify.com/track/5Jc73Nw398c5Jbs1sTTP65) | [OXA](https://open.spotify.com/artist/4QF8nYOlEY7ZwReHyx8KVT) | [Não Tenta](https://open.spotify.com/album/59S5U5mIZyBSuIdGQkCBLd) | 2:30 | 2022-04-29 | 2022-05-28 |
@@ -104,6 +105,6 @@
 | [YOU BETTA](https://open.spotify.com/track/1GXq6pCjNVJ7n1VR8WujbT) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [YOU BETTA](https://open.spotify.com/album/7JATn4R1pfGHeKkNftncwI) | 2:46 | 2022-05-27 | 2022-11-17 |
 | [Zíper](https://open.spotify.com/track/5O2eZhQrkzwGzxM6vVBiOZ) | [VILLA](https://open.spotify.com/artist/0YBvFbBw6zspOBX3t0PNGD) | [Zíper](https://open.spotify.com/album/4ifNouvRUwabWCgJPZfE1E) | 2:26 | 2022-07-22 | 2022-09-24 |
 | [Água na Boca](https://open.spotify.com/track/4w5EDVcVBhyiU1dqKSgzmY) | [Henrique Vivazz](https://open.spotify.com/artist/2ePCcIOWC5jMwJpfjPnK0l), [Mattheuza](https://open.spotify.com/artist/0bbl0wt6IHo60LcfCCVLvz), [Gil Germano](https://open.spotify.com/artist/6ngKdUCuSV2MsmsuqlBkmc) | [Água na Boca](https://open.spotify.com/album/7ywcGnANRhRyC2W4RaNjDW) | 1:55 | 2022-04-29 | 2022-05-28 |
-| [Éden](https://open.spotify.com/track/70BE8zAy2Odekx0zNnT9vO) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Éden](https://open.spotify.com/album/7GD9Q2dIsisdNZTIDAae18) | 2:58 | 2022-04-29 |  |
+| [Éden](https://open.spotify.com/track/70BE8zAy2Odekx0zNnT9vO) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Éden](https://open.spotify.com/album/7GD9Q2dIsisdNZTIDAae18) | 2:58 | 2022-04-29 | 2023-04-16 |
 
 \*This playlist was first scraped on 2022-05-27. Prior content cannot be recovered.

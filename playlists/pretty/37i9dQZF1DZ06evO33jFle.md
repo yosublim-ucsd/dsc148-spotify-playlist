@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33jFle.md) - [plain]
 
 > This is Jenni Rivera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,062 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,291 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,11 +30,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33jFle.md) - [plain]
 | 20 | [Cuanto Te Debo](https://open.spotify.com/track/5YnM1ANB0hhm9Jk2O53Zrl) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mi Vida Loca](https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM) | 2:40 |
 | 21 | [Besos y Copas \- En Vivo](https://open.spotify.com/track/0fqFKDW0OUuuZSNaQjt8fp) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Besos y Copas Desde Hollywood \(En Vivo\)](https://open.spotify.com/album/0RhEu6IcEPSdrW6GFzQipE) | 3:37 |
 | 22 | [Se Las Voy a Dar a Otro](https://open.spotify.com/track/43BemmCZRTcjYDnT7HqJWW) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Se las Voy a Dar a Otro](https://open.spotify.com/album/2XGyVths5rK6LJEYO69Dum) | 3:35 |
-| 23 | [Trono Caído](https://open.spotify.com/track/7EcqOfu60lF12ZSbk34SaZ) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Jenni](https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh) | 2:38 |
+| 23 | [Tu Camisa Puesta](https://open.spotify.com/track/6u0aeqk6AA0p010nw2wh7T) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Jenni](https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh) | 3:12 |
 | 24 | [Ahora Que Estuviste Lejos](https://open.spotify.com/track/0mVNDYnQh9Dcdl3M2fRts1) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mi Vida Loca](https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM) | 3:38 |
 | 25 | [Cuando Muere una Dama](https://open.spotify.com/track/2WDYkaIeWZOxdnp14Oa71G) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Parrandera, Rebelde y Atrevida](https://open.spotify.com/album/2I50wzYim7XrZhBSrolmzs) | 4:04 |
 | 26 | [Él \- Banda](https://open.spotify.com/track/4SFqbs96DA1k3r86PuQuRT) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora \(En Vivo\)](https://open.spotify.com/album/10gxA0j90FN3wKfKOJWrqx) | 3:04 |
-| 27 | [Tu Camisa Puesta](https://open.spotify.com/track/6u0aeqk6AA0p010nw2wh7T) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Jenni](https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh) | 3:12 |
+| 27 | [Trono Caído](https://open.spotify.com/track/7EcqOfu60lF12ZSbk34SaZ) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Jenni](https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh) | 2:38 |
 | 28 | [Dama Divina](https://open.spotify.com/track/4mznGgE31Oj2vDlrPNZLqx) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mi Vida Loca](https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM) | 2:36 |
 | 29 | [Misión Cumplida](https://open.spotify.com/track/4LMQxOMgUPlugjBlfp2ZK6) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Misión Cumplida](https://open.spotify.com/album/0uQRZ1SvseWfRuu5kl14hc) | 3:11 |
 | 30 | [Ajustando Cuentas](https://open.spotify.com/track/3rbtjnfJKzKxvwvaB3zopY) | [Diana Reyes](https://open.spotify.com/artist/5bY76TkueuNA4eqIm67Pkz), [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Ajustando Cuentas](https://open.spotify.com/album/4sGlWWQx6V1fq8ct7T4aFV) | 3:42 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33jFle.md) - [plain]
 | 36 | [Que Me Entierren Cantando](https://open.spotify.com/track/5GaIwab0GIWICCSVzldmUY) | [Lupillo Rivera](https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW), [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Borracho de Primera](https://open.spotify.com/album/1cjt1zBdNmoD4qi3s2meCy) | 3:51 |
 | 37 | [Detrás de Mi Ventana \- Banda](https://open.spotify.com/track/5BwEvu0Spcv6zjOPFWw4HD) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Joyas Prestadas \- Banda](https://open.spotify.com/album/2S1InqamaQuotpISCqos3W) | 4:37 |
 | 38 | [El Amor \(feat\. Jenni Rivera\)](https://open.spotify.com/track/22uCmfKNu7CQM8IFl1syI0) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh), [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [El Patrón \(La Victoria\)](https://open.spotify.com/album/214muZYoc3ewXMXGwQBFVU) | 4:08 |
-| 39 | [Juro Que Nunca Volvere](https://open.spotify.com/track/7zf9VnCyarordJgf4lbDk4) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Homenaje a las Grandes](https://open.spotify.com/album/6XObfnPoT85f85nZMeOBLJ) | 2:40 |
-| 40 | [Cuando Me Acuerdo de Ti](https://open.spotify.com/track/1jiTEN8iyh2GerskBrVm2M) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Jenni](https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh) | 3:21 |
+| 39 | [Cuando Me Acuerdo de Ti](https://open.spotify.com/track/1jiTEN8iyh2GerskBrVm2M) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Jenni](https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh) | 3:21 |
+| 40 | [Juro Que Nunca Volvere](https://open.spotify.com/track/7zf9VnCyarordJgf4lbDk4) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Homenaje a las Grandes](https://open.spotify.com/album/6XObfnPoT85f85nZMeOBLJ) | 2:40 |
 | 41 | [Porque Me Gusta a Morir \- Pop](https://open.spotify.com/track/1o1T0dmi0pPcJxYROpgBVy) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Joyas Prestadas \- Pop](https://open.spotify.com/album/4PbG5KBpRl1ObRpMJ9oLF6) | 5:09 |
 | 42 | [Parrandera, Rebelde y Atrevida](https://open.spotify.com/track/3B1rdhOmO7LwlyIFsC0xFK) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Parrandera, Rebelde y Atrevida](https://open.spotify.com/album/2I50wzYim7XrZhBSrolmzs) | 2:56 |
 | 43 | [Aparentemente Bien \- Versión Sencillo](https://open.spotify.com/track/2nHekPOutiUg9MiCp74NjH) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Aparentemente Bien](https://open.spotify.com/album/1932flu69zKoy3j2Qgz0P2) | 4:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33jFle.md) - [plain]
 | 49 | [Engañémoslo \- Versión Mariachi \- Versión Sencillo](https://open.spotify.com/track/6ZtFzzPFSwg6rPPfNIqFJj) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu), [Mariachi Los Reyes](https://open.spotify.com/artist/4F7KkuF7t7TJPJk7mNPIlM) | [Engañémoslo](https://open.spotify.com/album/3WEmQxo46sFb48DUXk8nli) | 3:31 |
 | 50 | [Por un Amor Cucurrucucu Paloma](https://open.spotify.com/track/0SoWXX2bEslbR4lmoTFwk7) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Homenaje a las Grandes](https://open.spotify.com/album/6XObfnPoT85f85nZMeOBLJ) | 3:42 |
 
-Snapshot ID: `MjgwMjQ4NTIsMDAwMDAwMDBmNTM1NDc3MmU1ZjEwMTk1MDU5YzY2NWU0NTVlZTQ4ZA==`
+Snapshot ID: `MjgwMjYwMzIsMDAwMDAwMDA2NDBjNzBmNDljZTE1ODZmMTliYTI1OTMxNGZiYjZiYw==`

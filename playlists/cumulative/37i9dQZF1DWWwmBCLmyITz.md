@@ -4,7 +4,7 @@
 
 > Check out the actors' selections through playlists and Clips! Also, listen to the soundtracks of JTBC's drama Agency\. \(JTBC 드라마 대행사의 사운드 트랙들을 즐겨보세요! 배우진들이 직접 선곡한 노래들을 플레이리스트와 클립스를 통해 확인해보세요!\)
 
-46 songs - 2 hr 24 min
+47 songs - 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Don't Say](https://open.spotify.com/track/7EiIUTTNl88ZJ4G1042Xzy) | [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE) | [Agency \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/7klfOSxLJwZGUL2Yx5dp2i) | 2:54 | 2023-01-11 |  |
 | [Don't Say \- Instrumental](https://open.spotify.com/track/3Iehtm7dlKIFTJxib1yEC9) | [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE) | [Agency \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/7klfOSxLJwZGUL2Yx5dp2i) | 2:54 | 2023-01-11 |  |
 | [Dressed In Black](https://open.spotify.com/track/6ae0TVkpnFvn0dz4zIVlyd) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear \(Deluxe Version\)](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) | 6:40 | 2023-01-11 |  |
-| [Escapism\. \- Sped Up](https://open.spotify.com/track/4rPJSqrov3zqGwXlemLBMw) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. \(Sped Up\)](https://open.spotify.com/album/1bdKI997loh6G68NED2cwX) | 3:59 | 2023-01-20 |  |
+| [Escapism\. \- Sped Up](https://open.spotify.com/track/3XCpS4k8WqNnCpcDOSRRuz) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism.](https://open.spotify.com/album/4parxQfGC25WtlVVAm5S9q) | 3:59 | 2023-02-22 |  |
+| [Escapism\. \- Sped Up](https://open.spotify.com/track/4rPJSqrov3zqGwXlemLBMw) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. \(Sped Up\)](https://open.spotify.com/album/1bdKI997loh6G68NED2cwX) | 3:59 | 2023-01-20 | 2023-04-16 |
 | [i'm yours sped up](https://open.spotify.com/track/4sFGNz4MYpGoz53ZGCwsiE) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [i'm yours](https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3) | 2:07 | 2023-01-20 |  |
 | [Jasmine](https://open.spotify.com/track/2IgbYlOlFpiSFYnsqB39lM) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [Jasmine](https://open.spotify.com/album/2J4lOWOjWUYBRJoShrhAGk) | 3:21 | 2023-02-03 |  |
 | [Java Jive](https://open.spotify.com/track/5XvrvxNu3peNFyaelv8brK) | [The Ink Spots](https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY) | [The Anthology](https://open.spotify.com/album/5kP2AlLe5EsHEx6y3HpJjN) | 3:01 | 2023-01-27 |  |

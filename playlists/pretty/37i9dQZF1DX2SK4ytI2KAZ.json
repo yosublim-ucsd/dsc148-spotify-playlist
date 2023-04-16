@@ -1,12 +1,12 @@
 {
   "description": "have fun with it.",
-  "num_followers": 690265,
+  "num_followers": 690342,
   "original_name": "It's ALT Good!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTIzMzU3MSwwMDAwMDAwMDkzOTZhNTE2NjhiYTNhMWYxNjJmZWViY2FjN2U1YmMz",
+  "snapshot_id": "MTY4MTIzMzU3MSwwMDAwMDAwMGI5MDJjNzJkNDkxZWU0NzI4ZTMyYTUyNmFiODczYzA5",
   "tracks": [
     {
       "added_at": "2023-03-24 04:00:00",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Welcome to the DCC",
-        "url": "https://open.spotify.com/album/5Os5j39zKEfpvKL11TtfYE"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 198798,
-      "name": "Welcome to the DCC",
-      "url": "https://open.spotify.com/track/0ZImVxesVZIydOnwTMSWOK"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Living In A Haze",
         "url": "https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 173369,
       "name": "Living In A Haze",
       "url": "https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Welcome to the DCC",
+        "url": "https://open.spotify.com/album/5Os5j39zKEfpvKL11TtfYE"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 198798,
+      "name": "Welcome to the DCC",
+      "url": "https://open.spotify.com/track/0ZImVxesVZIydOnwTMSWOK"
     },
     {
       "added_at": "2023-03-28 20:22:13",
@@ -243,22 +243,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Black Summer",
-        "url": "https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 232412,
-      "name": "Black Summer",
-      "url": "https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Dropout Boogie",
         "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 164866,
       "name": "Wild Child",
       "url": "https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Black Summer",
+        "url": "https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 232412,
+      "name": "Black Summer",
+      "url": "https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Happy Face",
-        "url": "https://open.spotify.com/album/663C3TEQrU97Lm6gVKp5zi"
-      },
-      "artists": [
-        {
-          "name": "Jagwar Twin",
-          "url": "https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria"
-        }
-      ],
-      "duration_ms": 169760,
-      "name": "Happy Face",
-      "url": "https://open.spotify.com/track/6QNCvcs758QuBEBISL6XIV"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "sun keeps on shining",
         "url": "https://open.spotify.com/album/4LBGeeTC8GUcMSTM8Aesm8"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 167200,
       "name": "sun keeps on shining",
       "url": "https://open.spotify.com/track/5OAEQKfQzIB3X4K7TtviZf"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Happy Face",
+        "url": "https://open.spotify.com/album/663C3TEQrU97Lm6gVKp5zi"
+      },
+      "artists": [
+        {
+          "name": "Jagwar Twin",
+          "url": "https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria"
+        }
+      ],
+      "duration_ms": 169760,
+      "name": "Happy Face",
+      "url": "https://open.spotify.com/track/6QNCvcs758QuBEBISL6XIV"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -583,26 +583,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Nobody (feat. dodie)",
-        "url": "https://open.spotify.com/album/14izII4z3jQPUPx2pmZsMM"
-      },
-      "artists": [
-        {
-          "name": "half\u2022alive",
-          "url": "https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k"
-        },
-        {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
-        }
-      ],
-      "duration_ms": 206640,
-      "name": "Nobody (feat. dodie)",
-      "url": "https://open.spotify.com/track/3HSIgdZZJGHBV3F3kradtG"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Lots of Nothing (feat. BENEE)",
         "url": "https://open.spotify.com/album/5mndQjQK3k72Mtx9XlDfdI"
       },
@@ -623,22 +603,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "the first glass beach album",
-        "url": "https://open.spotify.com/album/5GOoswCqZQiq9gbjSHkzMq"
-      },
-      "artists": [
-        {
-          "name": "glass beach",
-          "url": "https://open.spotify.com/artist/4gHs8pWsgZpndQZKs6QVRH"
-        }
-      ],
-      "duration_ms": 138119,
-      "name": "cold weather",
-      "url": "https://open.spotify.com/track/50u2y4zgROMZq2db8Qx94B"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "All the Feels",
         "url": "https://open.spotify.com/album/73hQB56aBFJTHE9vshSCLg"
       },
@@ -651,6 +615,42 @@
       "duration_ms": 207925,
       "name": "I Just Wanna Shine",
       "url": "https://open.spotify.com/track/4GZ3YCkuH0VvTluVLwUp4g"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Nobody (feat. dodie)",
+        "url": "https://open.spotify.com/album/14izII4z3jQPUPx2pmZsMM"
+      },
+      "artists": [
+        {
+          "name": "half\u2022alive",
+          "url": "https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k"
+        },
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+        }
+      ],
+      "duration_ms": 206640,
+      "name": "Nobody (feat. dodie)",
+      "url": "https://open.spotify.com/track/3HSIgdZZJGHBV3F3kradtG"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "the first glass beach album",
+        "url": "https://open.spotify.com/album/5GOoswCqZQiq9gbjSHkzMq"
+      },
+      "artists": [
+        {
+          "name": "glass beach",
+          "url": "https://open.spotify.com/artist/4gHs8pWsgZpndQZKs6QVRH"
+        }
+      ],
+      "duration_ms": 138119,
+      "name": "cold weather",
+      "url": "https://open.spotify.com/track/50u2y4zgROMZq2db8Qx94B"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "Carnival",
+        "url": "https://open.spotify.com/album/59z895VS27PtxzCwDV6dRY"
+      },
+      "artists": [
+        {
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+        }
+      ],
+      "duration_ms": 251906,
+      "name": "Freakin' Out On the Interstate",
+      "url": "https://open.spotify.com/track/6Fqf0OTfB9VPfYk2HfBhPn"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Pyjamas (feat. Remi Wolf)",
         "url": "https://open.spotify.com/album/0AmJGPvtL6Kj0MBp7gh8BK"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 168240,
       "name": "Pyjamas (feat. Remi Wolf)",
       "url": "https://open.spotify.com/track/0LuB69EEijTVyNHOXHiqhN"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Carnival",
-        "url": "https://open.spotify.com/album/59z895VS27PtxzCwDV6dRY"
-      },
-      "artists": [
-        {
-          "name": "Briston Maroney",
-          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
-        }
-      ],
-      "duration_ms": 251906,
-      "name": "Freakin' Out On the Interstate",
-      "url": "https://open.spotify.com/track/6Fqf0OTfB9VPfYk2HfBhPn"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Always Get This Way",
-        "url": "https://open.spotify.com/album/48liucxcaJK4rfLASDRuC0"
-      },
-      "artists": [
-        {
-          "name": "The Aces",
-          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
-        }
-      ],
-      "duration_ms": 174258,
-      "name": "Always Get This Way",
-      "url": "https://open.spotify.com/track/1RKP6D6QvUStrPP5TvPnXA"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Glitterbug (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0n5sLhq91buJwIW4j3Ji0I"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 209557,
       "name": "Greek Tragedy",
       "url": "https://open.spotify.com/track/28C4nmrd7BTu0XbOmaTHZr"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Always Get This Way",
+        "url": "https://open.spotify.com/album/48liucxcaJK4rfLASDRuC0"
+      },
+      "artists": [
+        {
+          "name": "The Aces",
+          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+        }
+      ],
+      "duration_ms": 174258,
+      "name": "Always Get This Way",
+      "url": "https://open.spotify.com/track/1RKP6D6QvUStrPP5TvPnXA"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "What, Me Worry?",
-        "url": "https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 177397,
-      "name": "What, Me Worry?",
-      "url": "https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Kid",
         "url": "https://open.spotify.com/album/5LqoF8G9MsNme4b8DpBExe"
       },
@@ -883,18 +867,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "The Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/5aAfgCIEc9zBKbwFO6jixe"
+        "name": "What, Me Worry?",
+        "url": "https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA"
       },
       "artists": [
         {
-          "name": "Saint Motel",
-          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
         }
       ],
-      "duration_ms": 161120,
-      "name": "Van Horn",
-      "url": "https://open.spotify.com/track/78bsqObGFUD5ntweePBhIY"
+      "duration_ms": 177397,
+      "name": "What, Me Worry?",
+      "url": "https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -915,18 +899,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "LA DIVINE",
-        "url": "https://open.spotify.com/album/7ivgZAxvcUXk33Jk4Hi7On"
+        "name": "The Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/5aAfgCIEc9zBKbwFO6jixe"
       },
       "artists": [
         {
-          "name": "Cold War Kids",
-          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+          "name": "Saint Motel",
+          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
         }
       ],
-      "duration_ms": 214360,
-      "name": "Love Is Mystical",
-      "url": "https://open.spotify.com/track/12pdXFcruNcPUbZypKUDgz"
+      "duration_ms": 161120,
+      "name": "Van Horn",
+      "url": "https://open.spotify.com/track/78bsqObGFUD5ntweePBhIY"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -943,6 +927,22 @@
       "duration_ms": 154098,
       "name": "Pages",
       "url": "https://open.spotify.com/track/2B9sTgrTUR2Cg9o8e1GT9w"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "LA DIVINE",
+        "url": "https://open.spotify.com/album/7ivgZAxvcUXk33Jk4Hi7On"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "duration_ms": 214360,
+      "name": "Love Is Mystical",
+      "url": "https://open.spotify.com/track/12pdXFcruNcPUbZypKUDgz"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Matter",
-        "url": "https://open.spotify.com/album/4qH5TQZxM5v7tKT0E09WAK"
-      },
-      "artists": [
-        {
-          "name": "St. Lucia",
-          "url": "https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu"
-        }
-      ],
-      "duration_ms": 246333,
-      "name": "Dancing On Glass",
-      "url": "https://open.spotify.com/track/0aersVHlGGXcHeRvHtuaSt"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Malibu",
         "url": "https://open.spotify.com/album/6GG2d6j3ELpLafcUoaJw6T"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 167556,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/7fioUXJZrCUn91UZJV2mQD"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Matter",
+        "url": "https://open.spotify.com/album/4qH5TQZxM5v7tKT0E09WAK"
+      },
+      "artists": [
+        {
+          "name": "St. Lucia",
+          "url": "https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu"
+        }
+      ],
+      "duration_ms": 246333,
+      "name": "Dancing On Glass",
+      "url": "https://open.spotify.com/track/0aersVHlGGXcHeRvHtuaSt"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Did I Make You Up?",
-        "url": "https://open.spotify.com/album/5BFctZsAHYCWm2QOF3GRHc"
-      },
-      "artists": [
-        {
-          "name": "half\u2022alive",
-          "url": "https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k"
-        }
-      ],
-      "duration_ms": 149773,
-      "name": "Did I Make You Up?",
-      "url": "https://open.spotify.com/track/4RE7fFJNIZiO9ngs883gFG"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Healer",
         "url": "https://open.spotify.com/album/1FsCJHnJORi2z5ibQs9aQI"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 234386,
       "name": "Deleter",
       "url": "https://open.spotify.com/track/2yH16s2lLbYtLziVwqw7Pf"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Did I Make You Up?",
+        "url": "https://open.spotify.com/album/5BFctZsAHYCWm2QOF3GRHc"
+      },
+      "artists": [
+        {
+          "name": "half\u2022alive",
+          "url": "https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k"
+        }
+      ],
+      "duration_ms": 149773,
+      "name": "Did I Make You Up?",
+      "url": "https://open.spotify.com/track/4RE7fFJNIZiO9ngs883gFG"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "Bright Blues",
+        "url": "https://open.spotify.com/album/0rsE8hO2srq8GzMGiRl6gG"
+      },
+      "artists": [
+        {
+          "name": "Ripe",
+          "url": "https://open.spotify.com/artist/19lQ2rJLlP71FOKESiMNJT"
+        }
+      ],
+      "duration_ms": 188316,
+      "name": "Settling",
+      "url": "https://open.spotify.com/track/0ibvUpSyUdMXrmuPIcg1T3"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "My Love",
         "url": "https://open.spotify.com/album/2vVVdpXVsEKwChwFpuTWqZ"
       },
@@ -1519,18 +1535,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Bright Blues",
-        "url": "https://open.spotify.com/album/0rsE8hO2srq8GzMGiRl6gG"
+        "name": "Castlecomer",
+        "url": "https://open.spotify.com/album/5DUFivlOxblQTTRTfrlT15"
       },
       "artists": [
         {
-          "name": "Ripe",
-          "url": "https://open.spotify.com/artist/19lQ2rJLlP71FOKESiMNJT"
+          "name": "Castlecomer",
+          "url": "https://open.spotify.com/artist/7tnWJfXaJmFO6vv5WFN2K0"
         }
       ],
-      "duration_ms": 188316,
-      "name": "Settling",
-      "url": "https://open.spotify.com/track/0ibvUpSyUdMXrmuPIcg1T3"
+      "duration_ms": 166920,
+      "name": "If I Could Be Like You",
+      "url": "https://open.spotify.com/track/7nzYP2Eznmu83TFdB7wDE9"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1567,22 +1583,6 @@
       "duration_ms": 187500,
       "name": "I Wanna Be Your High",
       "url": "https://open.spotify.com/track/7CkeYEfGBL8SYAq63Z72oh"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Castlecomer",
-        "url": "https://open.spotify.com/album/5DUFivlOxblQTTRTfrlT15"
-      },
-      "artists": [
-        {
-          "name": "Castlecomer",
-          "url": "https://open.spotify.com/artist/7tnWJfXaJmFO6vv5WFN2K0"
-        }
-      ],
-      "duration_ms": 166920,
-      "name": "If I Could Be Like You",
-      "url": "https://open.spotify.com/track/7nzYP2Eznmu83TFdB7wDE9"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Easy / Where Do We Go From Here?",
-        "url": "https://open.spotify.com/album/1paYV647AAPnlKgpFJVtLa"
-      },
-      "artists": [
-        {
-          "name": "MisterWives",
-          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
-        }
-      ],
-      "duration_ms": 231670,
-      "name": "Where Do We Go From Here?",
-      "url": "https://open.spotify.com/track/5DObWDHfwHE2mIdZGgRnzE"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "2 Heads",
         "url": "https://open.spotify.com/album/7l6O4yFBhc8t0rs0C3MAcP"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 213706,
       "name": "2 Heads",
       "url": "https://open.spotify.com/track/3bi8yEuK44vLcbjHkPH0u1"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Easy / Where Do We Go From Here?",
+        "url": "https://open.spotify.com/album/1paYV647AAPnlKgpFJVtLa"
+      },
+      "artists": [
+        {
+          "name": "MisterWives",
+          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+        }
+      ],
+      "duration_ms": 231670,
+      "name": "Where Do We Go From Here?",
+      "url": "https://open.spotify.com/track/5DObWDHfwHE2mIdZGgRnzE"
     }
   ],
   "unique_name": "It's ALT Good!",

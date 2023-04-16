@@ -4,7 +4,7 @@
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-507 songs - 1 day 10 hr 56 min
+508 songs - 1 day 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Canadian Trees](https://open.spotify.com/track/1N0XuJdOccAkBjWl37BxKh) | [Ornette Haynes](https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6) | [Canadian Trees](https://open.spotify.com/album/60d8GQmsHc8SQIzGedDClG) | 3:14 | 2023-02-23 |  |
 | [Candy](https://open.spotify.com/track/1Eh0sGvTxDYx13pE2PBpEn) | [Irvin Smith Group](https://open.spotify.com/artist/4SL7KeObcdWbpCRzEKlhCJ) | [Candy](https://open.spotify.com/album/0YBqRnGxHoCnuEcgdtNLs1) | 3:24 | 2023-01-19 |  |
 | [Chances Are](https://open.spotify.com/track/4gG0X6cfm3Nhlkw3NaL7PC) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [Chances Are](https://open.spotify.com/album/7M0LMFQ86GFzDX8UV1L2Hk) | 4:42 | 2022-11-10 |  |
-| [Changes](https://open.spotify.com/track/6B0aELa2yqLyeu2ULt8bEq) | [Miles Davis And Milt Jackson Quintet](https://open.spotify.com/artist/51gulqh1DpAHn0ZUNMRBRu) | [Miles Davis And Milt Jackson Quintet/Sextet](https://open.spotify.com/album/6QV1iyREyud3AGQZxf8Yt7) | 7:10 | 2021-12-03 |  |
+| [Changes](https://open.spotify.com/track/6B0aELa2yqLyeu2ULt8bEq) | [Miles Davis And Milt Jackson Quintet](https://open.spotify.com/artist/51gulqh1DpAHn0ZUNMRBRu) | [Miles Davis And Milt Jackson Quintet/Sextet](https://open.spotify.com/album/6QV1iyREyud3AGQZxf8Yt7) | 7:10 | 2021-12-03 | 2023-04-16 |
 | [Changin'](https://open.spotify.com/track/4g8azbjpYgA04ygE6Tlm8H) | [Novo Stella](https://open.spotify.com/artist/1YrNSfkC8jWJm1rfvOKN32) | [Changin'](https://open.spotify.com/album/1OssHpwAhBYTcPLUtYXe0L) | 2:41 | 2023-03-02 |  |
 | [chemin de la lune](https://open.spotify.com/track/7BgjINRWnW9fIiuLdMXQ5R) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [chemin de la lune](https://open.spotify.com/album/15mvy7ylxmKsgrBHa0WCA1) | 3:39 | 2023-02-23 |  |
 | [Cherokee](https://open.spotify.com/track/0sS3JwPSdyWg3d52KnPLsJ) | [Ari Hoenig](https://open.spotify.com/artist/1P6Llrp12ldpVbyC8gCHBz), [Gadi Lehavi](https://open.spotify.com/artist/01FRXq3Es0z4crmTkjkR7o), [Ben Tiberio](https://open.spotify.com/artist/4HF9chz1OmDunHzUD3ZIos) | [Golden Treasures](https://open.spotify.com/album/6HVVdncUSlgCkRh5qQaTV4) | 6:22 | 2022-06-03 | 2023-04-05 |
@@ -429,6 +429,7 @@
 | [The ballad of sad young men](https://open.spotify.com/track/5gvPQHCaeoHCG7pKse1VqO) | [The Collective](https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP) | [Same As Ever](https://open.spotify.com/album/2cEEweAitLTN47YeFWz0Gc) | 5:10 | 2023-02-09 |  |
 | [The Day that I Felt](https://open.spotify.com/track/7IVkAhHfWNsc7HUxKddN1x) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Beautiful Sunrise](https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH) | 5:18 | 2023-02-09 |  |
 | [The Days Of Wine And Roses](https://open.spotify.com/track/4perVeAQ5hn68NDRx6nzey) | [Kingsley Thomas](https://open.spotify.com/artist/754IxKxKlDAQO5YATUAd6t) | [The Days Of Wine And Roses](https://open.spotify.com/album/2k7HeS16u7cqaUJei7VuAf) | 3:05 | 2023-02-09 |  |
+| [the first time I saw you](https://open.spotify.com/track/2mxkWAgoZBU1lRmxp8KEBt) | [Cole Peers trio](https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj) | [the first time I saw you](https://open.spotify.com/album/1L8MHKjTmFHlcwinpZgWZn) | 2:55 | 2023-04-14 |  |
 | [The Flow of Your Way](https://open.spotify.com/track/4cXWKqGv91HzvKQe0r6dNJ) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [The Flow of Your Way](https://open.spotify.com/album/2DjphKfzhL1u4YCdraGRCq) | 3:26 | 2022-11-10 |  |
 | [The Law of Attraction](https://open.spotify.com/track/5f2btCjcN87enR8OBijRBz) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [The Law of Attraction](https://open.spotify.com/album/2otEcJ7pOUvnnX4nO34aJL) | 2:31 | 2022-11-10 |  |
 | [The Meadows](https://open.spotify.com/track/120GHgxD1qLdNpnz2NT7Je) | [Jaden Berry](https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL) | [The Meadows](https://open.spotify.com/album/6PosHibdf6McSbAZLgZAg6) | 3:15 | 2023-02-16 |  |

@@ -947,6 +947,32 @@
     },
     {
       "album": {
+        "name": "Coleridge-Taylor: Petite Suite de Concert, Op. 77: III. Un sonnet d'amour",
+        "url": "https://open.spotify.com/album/0I1imAdheexQgRTs6t7Hg2"
+      },
+      "artists": [
+        {
+          "name": "Samuel Coleridge-Taylor",
+          "url": "https://open.spotify.com/artist/0fhN6BHa9pN66ZnsrI5NUR"
+        },
+        {
+          "name": "Chineke! Orchestra",
+          "url": "https://open.spotify.com/artist/7FKUsKktgY7Zf8iAL6wOls"
+        },
+        {
+          "name": "Anthony Parnther",
+          "url": "https://open.spotify.com/artist/7ra8Zt3B4DlqRDYMyT1Okx"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Coleridge-Taylor: Petite Suite de Concert, Op. 77 - III. Un sonnet d'amour",
+      "url": "https://open.spotify.com/track/57RRXysNvNZl8f5KPwEvuU"
+    },
+    {
+      "album": {
         "name": "Film trifft Klassik",
         "url": "https://open.spotify.com/album/1Jk67VV9YnH7WUmNMBlwHd"
       },
@@ -2850,32 +2876,6 @@
       "duration_ms": 233400,
       "name": "Pell\u00e9as et M\u00e9lisande, Op. 80: 4. Sicilienne",
       "url": "https://open.spotify.com/track/0oIQl9tFpCiKBRavEIIGzo"
-    },
-    {
-      "album": {
-        "name": "Coleridge-Taylor: Petite Suite de Concert, Op. 77: III. Un sonnet d'amour",
-        "url": "https://open.spotify.com/album/0I1imAdheexQgRTs6t7Hg2"
-      },
-      "artists": [
-        {
-          "name": "Samuel Coleridge-Taylor",
-          "url": "https://open.spotify.com/artist/0fhN6BHa9pN66ZnsrI5NUR"
-        },
-        {
-          "name": "Chineke! Orchestra",
-          "url": "https://open.spotify.com/artist/7FKUsKktgY7Zf8iAL6wOls"
-        },
-        {
-          "name": "Anthony Parnther",
-          "url": "https://open.spotify.com/artist/7ra8Zt3B4DlqRDYMyT1Okx"
-        }
-      ],
-      "date_added": "2022-07-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 220000,
-      "name": "Petite Suite de Concert, Op. 77: III. Un sonnet d'amour",
-      "url": "https://open.spotify.com/track/57RRXysNvNZl8f5KPwEvuU"
     },
     {
       "album": {

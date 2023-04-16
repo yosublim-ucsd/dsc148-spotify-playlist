@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-352 songs - 19 hr 40 min
+353 songs - 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Desperate Soul](https://open.spotify.com/track/5n6pFWEIz6KlcAsZL4J7O3) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [Desperate Soul](https://open.spotify.com/album/17xuD9aIF7NINcTmvkEWf4) | 2:07 | 2023-03-24 |  |
 | [Didn't I](https://open.spotify.com/track/6Dq2LzijkY9WNPwBGDah4L) | [Darondo](https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc) | [Let My People Go](https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA) | 3:29 | 2022-09-29 | 2023-04-01 |
 | [dirty dancer](https://open.spotify.com/track/1ciQU7ZQGHq129m3njp9en) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [dirty dancer](https://open.spotify.com/album/6aO0vMIga31GSawF5f0pMZ) | 2:49 | 2022-04-07 |  |
-| [Do 2 Me](https://open.spotify.com/track/7mRYc7MBzPiQpW1wlVdz4w) | [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh), [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ) | [Do 2 Me](https://open.spotify.com/album/5baVIwEwXhFCg1B6kmOetf) | 3:20 | 2021-12-15 |  |
+| [Do 2 Me](https://open.spotify.com/track/7mRYc7MBzPiQpW1wlVdz4w) | [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh), [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ) | [Do 2 Me](https://open.spotify.com/album/5baVIwEwXhFCg1B6kmOetf) | 3:20 | 2021-12-15 | 2023-04-16 |
 | [DO 4 LOVE](https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Spotify Singles](https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ) | 3:09 | 2022-06-30 |  |
 | [Don't Stop](https://open.spotify.com/track/6stmHwlMLQbE8Z2N831ri6) | [GoGo Morrow](https://open.spotify.com/artist/5DdULwXLSGsEN2nMNoeaCO) | [Ready](https://open.spotify.com/album/4iqAFxy3MJKXwo1E0aYoQ7) | 2:31 | 2023-01-27 |  |
 | [Down For It](https://open.spotify.com/track/2x93RFNdEs1JtWoHsDQqTj) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Down For It](https://open.spotify.com/album/0C83wme433FLhE95M4JbvG) | 3:15 | 2021-12-15 | 2022-07-29 |
@@ -125,6 +125,7 @@
 | [Hard Work](https://open.spotify.com/track/4CuNDg0YWkNiSg0DZaAKuV) | [Children of Zeus](https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z) | [Travel Light](https://open.spotify.com/album/6DO84f1dP8CzkriP1C0U0Y) | 3:27 | 2022-02-11 |  |
 | [Hazel Chandeliers](https://open.spotify.com/track/0tzvbbYFoxZS3ggIaEa1Ob) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [aiMless](https://open.spotify.com/album/4l165PoCFHBzfg88mpC68n) | 3:26 | 2021-12-15 | 2022-07-29 |
 | [Heavenly Mother](https://open.spotify.com/track/328rLNs6WQPOlFSPpIUy7E) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Lost In June \- EP](https://open.spotify.com/album/1n2Qha9Jrppqk5FXnWxWSX) | 3:59 | 2021-12-15 | 2023-01-28 |
+| [Hello](https://open.spotify.com/track/1Sr7G1nLlnAFZ8AKT7PuGo) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Hello](https://open.spotify.com/album/3eBHvRyUhfarjwJH0YK7HK) | 3:15 | 2023-03-31 |  |
 | [Hold On](https://open.spotify.com/track/0yE2VIVUryAQDUmhkFc7oB) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS), [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [Hold On](https://open.spotify.com/album/6VTfE25P75bAiJWUUKWd3J) | 3:20 | 2021-12-15 | 2022-06-28 |
 | [Hold On](https://open.spotify.com/track/2zrAQ3iczs6gMTR50WbV54) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS), [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [Wu Hen](https://open.spotify.com/album/3wLs9mqCIwNGp6GT2cderb) | 3:20 | 2022-09-16 | 2023-02-03 |
 | [Hours Make Ours](https://open.spotify.com/track/4kYVHMrIdqPVl7qUQyc5DL) | [Emmitt Dupree](https://open.spotify.com/artist/79MziQbpN1acq1nd6ixrkd) | [Hours Make Ours](https://open.spotify.com/album/59Ctl8fCrvgd9ogAdIwH30) | 3:33 | 2022-02-14 | 2022-05-08 |

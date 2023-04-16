@@ -4,7 +4,7 @@
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Flavio Vitor Jr.
 
-97 songs - 7 hr 39 min
+98 songs - 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Ana e Maria](https://open.spotify.com/track/6Z5u1AKPvXMtIJaKah0KeM) | [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK) | [Ana e Maria](https://open.spotify.com/album/6jjVrZBuB3fRQmqiV9C2Jp) | 3:49 | 2023-02-25 |  |
 | [Antes de nos Aproximar](https://open.spotify.com/track/1MkqiL1NFQjPlU1dmOIKhC) | [Eliana Ribeiro](https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y), [Eugênio Jorge](https://open.spotify.com/artist/2e6J1k4BUtNA6vayi7eRFi) | [Antes de nos Aproximar](https://open.spotify.com/album/6xsu0e1uhlTYbsyOGXMheI) | 2:23 | 2022-09-02 | 2022-12-10 |
 | [Ao Monte](https://open.spotify.com/track/2rZW23fLXbJxkrPXTrKR98) | [Thiago Brado](https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK), [Frei Gilson](https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX) | [Ao Monte](https://open.spotify.com/album/0CSfObrt5xhR1j6VW5uZu2) | 6:08 | 2022-09-02 |  |
-| [Apenas Barro](https://open.spotify.com/track/6VCtzegvbikThIayNbKMBl) | [Dyego Afonso](https://open.spotify.com/artist/2cxuABu4qa3RjrtQwFYPjG), [Juninho Cassimiro](https://open.spotify.com/artist/4VoIuDV63tIoFLJupNb59S) | [Apenas Barro](https://open.spotify.com/album/1SCgr0nIPx6A9mJrH36dT0) | 4:58 | 2022-09-02 |  |
+| [Apenas Barro](https://open.spotify.com/track/6VCtzegvbikThIayNbKMBl) | [Dyego Afonso](https://open.spotify.com/artist/2cxuABu4qa3RjrtQwFYPjG), [Juninho Cassimiro](https://open.spotify.com/artist/4VoIuDV63tIoFLJupNb59S) | [Apenas Barro](https://open.spotify.com/album/1SCgr0nIPx6A9mJrH36dT0) | 4:58 | 2022-09-02 | 2023-04-16 |
 | [Arrasta\-Me](https://open.spotify.com/track/0vJgEykXvUxZh4oiqM0IbM) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Galileu](https://open.spotify.com/album/5P7y0sQFVX3pnG2Iaz1pIM) | 3:05 | 2023-03-17 |  |
 | [Ato de Amor](https://open.spotify.com/track/5pxF7Ksy0FzF6DF1Dypsv4) | [Anjos de Resgate](https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK) | [Ato de Amor](https://open.spotify.com/album/4yf1sTOcn1bC7pAUY8DItT) | 3:22 | 2023-03-17 |  |
 | [Bom É Estarmos Aqui](https://open.spotify.com/track/3fjQZuMcv9igwWcPx3a96j) | [Leo Mantovani](https://open.spotify.com/artist/3VJMa20Mfb44VqpLj8a4xr), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR), [Eduardo Cruz](https://open.spotify.com/artist/39KPAfTV5Cot8mos61mUd5), [Eugênio Jorge](https://open.spotify.com/artist/2e6J1k4BUtNA6vayi7eRFi), [Juliana de Paula](https://open.spotify.com/artist/3gPXWkF4RfdzSRFBUGj481), [Keciane Lima](https://open.spotify.com/artist/4kBDadVgAVG0jcEJGMvFT3) | [Bom É Estarmos Aqui](https://open.spotify.com/album/2Imli1WPWuqu2DM9Il1fOb) | 3:44 | 2022-09-02 |  |
@@ -43,6 +43,7 @@
 | [Enlace de Amor](https://open.spotify.com/track/6b8ZRMXDEQHDSAYLJ6oF8o) | [Ilmar Quintanilha](https://open.spotify.com/artist/1lymQbTdFZx62U5HMc0mIH), [Eliana Ribeiro](https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y) | [Enlace de Amor](https://open.spotify.com/album/2NoypROgf6pBJGztIPghXp) | 4:46 | 2022-09-02 | 2023-01-14 |
 | [Este Sou Eu](https://open.spotify.com/track/2wUheRB44qqu0MEV5WNVKH) | [Padre Fábio De Melo](https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q) | [Este Sou Eu](https://open.spotify.com/album/00hnjatrbK00q0yG9Yh4z2) | 3:39 | 2022-09-02 | 2022-12-05 |
 | [Estou Orando por Você](https://open.spotify.com/track/2DY9psTzveYgzNcq2E77Mx) | [Anjos de Resgate](https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK), [Padre Reginaldo Manzotti](https://open.spotify.com/artist/7luES30fTO66nDk83NZCJV) | [Estou Orando por Você](https://open.spotify.com/album/2bIjtELrPfHk4fYxUsZTYa) | 5:37 | 2022-09-02 |  |
+| [Faça Um Milagre \- Ao Vivo](https://open.spotify.com/track/2ToXwQGR8W74QBzhNLpFoV) | [Padre Reginaldo Manzotti](https://open.spotify.com/artist/7luES30fTO66nDk83NZCJV) | [Faça Um Milagre \(Ao Vivo\)](https://open.spotify.com/album/2wLjQBv56JdmwIojvlc7D6) | 4:22 | 2023-04-15 |  |
 | [Grande Rei](https://open.spotify.com/track/37jZ64zOqm1yROHKO03aAJ) | [Ana Lúcia](https://open.spotify.com/artist/24zpYD2LDhoI30qaUN6Qxi), [Eugênio Jorge](https://open.spotify.com/artist/2e6J1k4BUtNA6vayi7eRFi), [Cassiano Meirelles](https://open.spotify.com/artist/749liqUrfpcjEFsIaXa7Sd) | [Grande Rei](https://open.spotify.com/album/45ZCgKMQuLnnn2S2yS8aiN) | 4:00 | 2022-09-02 |  |
 | [Gratidão](https://open.spotify.com/track/7HNWsPfEjtkQmxMG4FysJE) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Gratidão](https://open.spotify.com/album/2noPc51yFBvs8Zhmg9j63G) | 3:57 | 2022-09-02 | 2023-03-18 |
 | [Gratidão](https://open.spotify.com/track/4qp1XuMdwpxxwsJGvYrU0x) | [Rafa Gomes](https://open.spotify.com/artist/7F9ZF1WVkJHsD8t4iNtDh2), [Padre Reginaldo Manzotti](https://open.spotify.com/artist/7luES30fTO66nDk83NZCJV) | [Gratidão](https://open.spotify.com/album/2mR8N7U8tl7ABErUql5XH8) | 4:22 | 2022-09-02 |  |

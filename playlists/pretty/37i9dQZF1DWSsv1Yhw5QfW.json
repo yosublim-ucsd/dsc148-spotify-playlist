@@ -1,12 +1,12 @@
 {
   "description": "Ag\u00e1rrense fuerte.",
-  "num_followers": 97104,
+  "num_followers": 97193,
   "original_name": "Enganchados: Lentos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5NjAzODMzOSwwMDAwMDAwMDJmMzhjYzE2MmVlNjkzMGEwZGFiZDdjNzY4YThkOTk5",
+  "snapshot_id": "MTU5NjAzODMzOSwwMDAwMDAwMDk2OTMzMTk2NmNlZjkwM2Y4YjJlM2FiZDc5MGNlZDcy",
   "tracks": [
     {
       "added_at": "2020-07-29 15:58:59",
@@ -187,6 +187,22 @@
     {
       "added_at": "2020-07-29 15:58:59",
       "album": {
+        "name": "Chicago X",
+        "url": "https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P"
+      },
+      "artists": [
+        {
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+        }
+      ],
+      "duration_ms": 235373,
+      "name": "If You Leave Me Now",
+      "url": "https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT"
+    },
+    {
+      "added_at": "2020-07-29 15:58:59",
+      "album": {
         "name": "Commodores",
         "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 256173,
       "name": "The Lady In Red",
       "url": "https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO"
-    },
-    {
-      "added_at": "2020-07-29 15:58:59",
-      "album": {
-        "name": "Chicago X",
-        "url": "https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P"
-      },
-      "artists": [
-        {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
-        }
-      ],
-      "duration_ms": 235373,
-      "name": "If You Leave Me Now",
-      "url": "https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT"
     },
     {
       "added_at": "2020-07-29 15:58:59",

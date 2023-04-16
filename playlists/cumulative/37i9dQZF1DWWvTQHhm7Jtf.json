@@ -56,7 +56,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 491371,
       "name": "1/2 SCULPTURE",
       "url": "https://open.spotify.com/track/17G2vjTbT1niPRGsUCbza2"
@@ -212,7 +212,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 487715,
       "name": "Aurobindo",
       "url": "https://open.spotify.com/track/5QjrjsMxJjGATz83CAGxoZ"
@@ -614,7 +614,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 3815786,
       "name": "dlp 1.1",
       "url": "https://open.spotify.com/track/10SeyQmuBIVJmbZYYJs07W"
@@ -650,7 +650,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-27",
+      "date_removed": null,
       "duration_ms": 299861,
       "name": "DLY",
       "url": "https://open.spotify.com/track/2YWskv2ppcTSt1FZDKJW85"
@@ -704,7 +704,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 148250,
       "name": "Ediacaran Moonrise",
       "url": "https://open.spotify.com/track/4zcSOD3J1JJjCW1HnGhGSf"
@@ -762,6 +762,28 @@
       "duration_ms": 341577,
       "name": "Endless",
       "url": "https://open.spotify.com/track/15pARbUntgEEw4b8m9d15U"
+    },
+    {
+      "album": {
+        "name": "entropy & kindness",
+        "url": "https://open.spotify.com/album/2ol7vC6iwa2AkKD5RuUMAX"
+      },
+      "artists": [
+        {
+          "name": "Maral",
+          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
+        },
+        {
+          "name": "Lara Sarkissian",
+          "url": "https://open.spotify.com/artist/6ctLrB5PwqC8earV2J39qW"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261346,
+      "name": "entropy & kindness",
+      "url": "https://open.spotify.com/track/5CJwBWeHLCSAKtLaMTrnfO"
     },
     {
       "album": {
@@ -884,7 +906,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-11",
+      "date_removed": null,
       "duration_ms": 482146,
       "name": "Fearless",
       "url": "https://open.spotify.com/track/4rAy9yzIm5tmsaTnHeJ892"
@@ -992,7 +1014,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 222511,
       "name": "Forest Dreams",
       "url": "https://open.spotify.com/track/70zia32aU9S7zvTdymWhCP"
@@ -1118,7 +1140,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 313746,
       "name": "Hollywood Dream Trip",
       "url": "https://open.spotify.com/track/4Yz4rj3kcByr4j1f5e6SAt"
@@ -1154,7 +1176,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 1077812,
       "name": "I Remember You Like the Best Song",
       "url": "https://open.spotify.com/track/0NKexfIeqfKHetCuMyuwJ7"
@@ -1190,7 +1212,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 264000,
       "name": "Inocybe",
       "url": "https://open.spotify.com/track/0yHW5bqjYuHYppJr4V59lc"
@@ -1656,7 +1678,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-28",
+      "date_removed": null,
       "duration_ms": 247124,
       "name": "Orbit",
       "url": "https://open.spotify.com/track/5UjMb1mO2VQ3Kv1KB2G4oI"
@@ -1728,7 +1750,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-04",
+      "date_removed": null,
       "duration_ms": 375177,
       "name": "Paper Marble",
       "url": "https://open.spotify.com/track/4CUwlWnCgjWI434Gy0NwPo"
@@ -1876,7 +1898,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 414106,
       "name": "Spirales",
       "url": "https://open.spotify.com/track/0kewjdlSTKlF1GbBiXbfVc"
@@ -2138,7 +2160,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 326500,
       "name": "The Brook",
       "url": "https://open.spotify.com/track/1ZGoURXFfkQ9STyFXtqsIu"
@@ -2394,7 +2416,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 498800,
       "name": "Umi No Ue Kara",
       "url": "https://open.spotify.com/track/4Ee8z8ySuxdqTTPI868NtU"

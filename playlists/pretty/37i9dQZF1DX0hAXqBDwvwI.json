@@ -1,12 +1,12 @@
 {
   "description": "A mega Anime hits mix! \u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u306e\u30ed\u30f3\u30b0&\u30e1\u30ac\u30d2\u30c3\u30c8\u66f2\u3092\u307e\u3068\u3081\u3066\u697d\u3057\u3082\u3046\u3002Illustration by <a href=\"https://kazuhisauragami.com/\"> Kazuhisa Uragami</a> ",
-  "num_followers": 432423,
+  "num_followers": 432884,
   "original_name": "Anime On Replay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTI4NTMxMywwMDAwMDAwMDYyOWE2MjY1MzdmYmU1ODVjMjU0OWExMDVhMWE0YTIy",
+  "snapshot_id": "MTY4MTI4NTMxMywwMDAwMDAwMGRkODJmMmQ0NzI1OGI3YzhmMDQ5MzUzZjg3ODZkM2E4",
   "tracks": [
     {
       "added_at": "2023-04-12 07:41:53",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-04-12 07:41:53",
       "album": {
-        "name": "\u3061\u3085\u3001\u591a\u69d8\u6027\u3002",
-        "url": "https://open.spotify.com/album/07zxoeMpl7X8SguWcOiN5x"
-      },
-      "artists": [
-        {
-          "name": "ano",
-          "url": "https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z"
-        }
-      ],
-      "duration_ms": 185752,
-      "name": "\u3061\u3085\u3001\u591a\u69d8\u6027\u3002",
-      "url": "https://open.spotify.com/track/5KLL3cZEyuSJRvyS84o4Df"
-    },
-    {
-      "added_at": "2023-04-12 07:41:53",
-      "album": {
         "name": "\u88f8\u306e\u52c7\u8005",
         "url": "https://open.spotify.com/album/3Wu7a56Nl1iml7pwR4Fvv7"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 201973,
       "name": "\u88f8\u306e\u52c7\u8005",
       "url": "https://open.spotify.com/track/3k64vNcgYPkETG7TNgpW4o"
+    },
+    {
+      "added_at": "2023-04-12 07:41:53",
+      "album": {
+        "name": "\u3061\u3085\u3001\u591a\u69d8\u6027\u3002",
+        "url": "https://open.spotify.com/album/07zxoeMpl7X8SguWcOiN5x"
+      },
+      "artists": [
+        {
+          "name": "ano",
+          "url": "https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z"
+        }
+      ],
+      "duration_ms": 185752,
+      "name": "\u3061\u3085\u3001\u591a\u69d8\u6027\u3002",
+      "url": "https://open.spotify.com/track/5KLL3cZEyuSJRvyS84o4Df"
     },
     {
       "added_at": "2023-04-12 07:41:53",
@@ -719,18 +719,18 @@
     {
       "added_at": "2023-04-12 07:41:53",
       "album": {
-        "name": "JOJO'S BIZARRE ADVENTURE -Golden Wind O.S.T vol.1 Overture",
-        "url": "https://open.spotify.com/album/0SLGYonJPgxa7qRDxqtraX"
+        "name": "BEST HIT AKG",
+        "url": "https://open.spotify.com/album/2fgUFE1g0dJfGL007BoveA"
       },
       "artists": [
         {
-          "name": "Yugo Kanno",
-          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+          "name": "ASIAN KUNG-FU GENERATION",
+          "url": "https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt"
         }
       ],
-      "duration_ms": 295575,
-      "name": "il vento d'oro",
-      "url": "https://open.spotify.com/track/17VP4tofJ3evJbtY8Tk1Qi"
+      "duration_ms": 243346,
+      "name": "\u9065\u304b\u5f7c\u65b9",
+      "url": "https://open.spotify.com/track/5ORPYXJKlpHWIdceavSGrL"
     },
     {
       "added_at": "2023-04-12 07:41:53",
@@ -751,18 +751,18 @@
     {
       "added_at": "2023-04-12 07:41:53",
       "album": {
-        "name": "BEST HIT AKG",
-        "url": "https://open.spotify.com/album/2fgUFE1g0dJfGL007BoveA"
+        "name": "JOJO'S BIZARRE ADVENTURE -Golden Wind O.S.T vol.1 Overture",
+        "url": "https://open.spotify.com/album/0SLGYonJPgxa7qRDxqtraX"
       },
       "artists": [
         {
-          "name": "ASIAN KUNG-FU GENERATION",
-          "url": "https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt"
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
         }
       ],
-      "duration_ms": 243346,
-      "name": "\u9065\u304b\u5f7c\u65b9",
-      "url": "https://open.spotify.com/track/5ORPYXJKlpHWIdceavSGrL"
+      "duration_ms": 295575,
+      "name": "il vento d'oro",
+      "url": "https://open.spotify.com/track/17VP4tofJ3evJbtY8Tk1Qi"
     },
     {
       "added_at": "2023-04-12 07:41:53",
@@ -799,18 +799,18 @@
     {
       "added_at": "2023-04-12 07:41:53",
       "album": {
-        "name": "\u9320\u5264",
-        "url": "https://open.spotify.com/album/6HHGhheEmIzbAL6XBMxViH"
+        "name": "MUKANJYO",
+        "url": "https://open.spotify.com/album/1FGsYEkFLkIv9ffhgoOgZh"
       },
       "artists": [
         {
-          "name": "TOOBOE",
-          "url": "https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN"
+          "name": "Survive Said The Prophet",
+          "url": "https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh"
         }
       ],
-      "duration_ms": 204800,
-      "name": "\u9320\u5264",
-      "url": "https://open.spotify.com/track/04niDJQ3mzjkwzvid0Otoi"
+      "duration_ms": 192400,
+      "name": "MUKANJYO",
+      "url": "https://open.spotify.com/track/4MTgIH5OZQHAbdBWgbKSAb"
     },
     {
       "added_at": "2023-04-12 07:41:53",

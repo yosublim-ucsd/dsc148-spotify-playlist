@@ -4,7 +4,7 @@
 
 > Miami me lo confirmó featuring Eladio Carrion
 
-255 songs - 14 hr 19 min
+256 songs - 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Adelantah](https://open.spotify.com/track/27u1JKx7rpApMvFiXrU2gn) | [Chris Palace](https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw) | [Adelantah](https://open.spotify.com/album/763mXMD81HRsSDBXwGQm4P) | 3:24 | 2022-12-02 | 2023-02-05 |
 | [Adelantah](https://open.spotify.com/track/686vC4Xj5wFjFE0S8dW2mK) | [Chris Palace](https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw) | [Insomnia](https://open.spotify.com/album/5CfLWuM72hIF1dO4Rbhzhy) | 3:24 | 2023-01-09 | 2023-02-18 |
 | [AEIOU](https://open.spotify.com/track/1c2vVx6knoiZHXbJJ9Mk8L) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [AEIOU](https://open.spotify.com/album/4J8uihMqMcLWlhz6DsGdJK) | 2:41 | 2022-08-19 | 2023-02-18 |
-| [AGUARDIENTE](https://open.spotify.com/track/6jhB0WW148mVOX7VuV2ga0) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [AGUARDIENTE](https://open.spotify.com/album/1ox6fzQPXwDtsTg8EQrplp) | 2:47 | 2023-03-31 |  |
+| [AGUARDIENTE](https://open.spotify.com/track/3Z0l8qwMuC376pcutLVsY8) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 2:47 | 2023-03-31 |  |
+| [AGUARDIENTE](https://open.spotify.com/track/6jhB0WW148mVOX7VuV2ga0) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [AGUARDIENTE](https://open.spotify.com/album/1ox6fzQPXwDtsTg8EQrplp) | 2:47 | 2023-03-31 | 2023-04-16 |
 | [algo así \(remix\)](https://open.spotify.com/track/0z0IEbMRvIEjj9Iif4doxD) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [algo así \(remix\)](https://open.spotify.com/album/38q60hmzuFy1xa8Dexc2eX) | 3:43 | 2022-09-23 | 2023-02-18 |
 | [AM Remix](https://open.spotify.com/track/05bfbizlM5AX6Mf1RRyMho) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [AM Remix](https://open.spotify.com/album/1jTRS4KS666BesH1GUHyEV) | 4:21 | 2022-05-25 | 2022-12-02 |
 | [Ambulancia](https://open.spotify.com/track/5OPte07J5hRK1pTn0f7ldr) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [De Adentro Pa Afuera](https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2) | 3:32 | 2022-09-23 | 2023-02-18 |

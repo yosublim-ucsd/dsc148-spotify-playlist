@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Uruguay.
 
-513 songs - 1 day 3 hr 50 min
+514 songs - 1 day 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,7 +232,7 @@
 | [La Nota](https://open.spotify.com/track/5VzNsUnLmYcRfRfxpQsusa) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Dopamina](https://open.spotify.com/album/2yYl7Q3GOoBjznGy0Rsc2f) | 3:36 | 2021-04-11 | 2021-06-27 |
 | [La Nota](https://open.spotify.com/track/7ndTONDDRFGiPnnhOzOXxq) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [La Nota](https://open.spotify.com/album/61qU7ompl7BKKGEgsbO4Ly) | 3:36 | 2021-03-27\* | 2021-04-11 |
 | [La Trampa es Ley](https://open.spotify.com/track/5Us3svqTvNAdnQfEYfoL5g) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [La Trampa es Ley](https://open.spotify.com/album/652wPJ4HAF6ODuEDM2feRs) | 2:21 | 2022-02-12 | 2022-05-08 |
-| [La Triple T](https://open.spotify.com/track/1rEsfHhBFTuTPekF8M5O3f) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:47 | 2023-02-19 |  |
+| [La Triple T](https://open.spotify.com/track/1rEsfHhBFTuTPekF8M5O3f) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:47 | 2023-02-19 | 2023-04-16 |
 | [La Triple T](https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [La Triple T](https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv) | 2:47 | 2022-05-07 | 2023-02-20 |
 | [La Tóxica](https://open.spotify.com/track/15OjBeqNX3bShsGYQbteRv) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [La Tóxica](https://open.spotify.com/album/1R0ocprmeDu8ZkZn29xYFx) | 3:00 | 2021-03-27\* | 2021-04-26 |
 | [Labyrinth](https://open.spotify.com/track/0A1JLUlkZkp2EFrosoNQi0) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 4:07 | 2022-10-22 | 2022-10-24 |
@@ -323,6 +323,7 @@
 | [NOW](https://open.spotify.com/track/5gJuYaon5zaZahQyAd0LVx) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [NOW](https://open.spotify.com/album/5uLwxrxExey2DMjxYTEnMC) | 3:12 | 2022-02-05 | 2022-04-03 |
 | [Nublado](https://open.spotify.com/track/5JCquuXMmdXNypO32fPb0M) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Nublado](https://open.spotify.com/album/4Xzp1DYT87Uabsz9FutNyL) | 3:00 | 2022-07-01 | 2022-07-08 |
 | [Numero 1](https://open.spotify.com/track/6HXvazdtAr9hy0kThzxrE3) | [Oscu](https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A), [Nobeat](https://open.spotify.com/artist/3TKS1JzWOLAnicuOCOyVlW) | [Numero 1](https://open.spotify.com/album/5QK2JiVGO67uLi0vqi9Wg6) | 2:44 | 2022-04-13 | 2022-09-15 |
+| [Obsesión](https://open.spotify.com/track/5Dor1ZjCnBYmC136ytDzJp) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI](https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3) | 3:11 | 2023-04-15 |  |
 | [OJALÁ](https://open.spotify.com/track/1uGdRSOpObu3lp0jvrVREl) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [OJALÁ](https://open.spotify.com/album/6LmddIPzdpQYYc13kGzrvS) | 2:40 | 2022-06-03 | 2022-12-11 |
 | [OJALÁ](https://open.spotify.com/track/5RlibNUdsaN2oPX9MWl52K) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL) | 2:40 | 2022-12-10 | 2022-12-18 |
 | [Ojitos Lindos](https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:18 | 2022-05-07 | 2023-02-19 |

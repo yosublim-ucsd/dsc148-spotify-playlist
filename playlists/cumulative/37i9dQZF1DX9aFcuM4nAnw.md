@@ -4,7 +4,7 @@
 
 > Immerse deeper into obscure alternate dimensions..\. 🦇🔮
 
-126 songs - 10 hr 35 min
+127 songs - 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Earthwork](https://open.spotify.com/track/32CmxM499clUIIuUrUDcwl) | [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [Entangled Routes](https://open.spotify.com/album/5t1HCShqcGw9z5oWMP0EyB) | 4:11 | 2022-07-06 | 2022-07-29 |
 | [ecol4](https://open.spotify.com/track/0Yjw3B7Tbml7Dtj7PQIv2i) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [PLUS](https://open.spotify.com/album/5V9HrJ2u1noLUk0V4HF8uM) | 14:51 | 2022-07-06 | 2022-09-04 |
 | [Elegia \- 2015 Remaster](https://open.spotify.com/track/2Xs7CP4Gw8wJ8qX8fkrCAB) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Low\-Life](https://open.spotify.com/album/6ls958BLJbeFT3OqAYTvQB) | 4:56 | 2022-07-06 |  |
-| [Eleven](https://open.spotify.com/track/0yMaGil4yVbV6YhXXAXw83) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things, Vol\. 1 \(A Netflix Original Series Soundtrack\)](https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ) | 3:14 | 2022-07-06 |  |
+| [Eleven](https://open.spotify.com/track/0yMaGil4yVbV6YhXXAXw83) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things, Vol\. 1 \(A Netflix Original Series Soundtrack\)](https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ) | 3:14 | 2022-07-06 | 2023-04-16 |
 | [Eulogy](https://open.spotify.com/track/5SjLRpgI7LWFzy9ggSqlkO) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 2 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2l0rdHb97fQidl9dsOxE6B) | 3:39 | 2022-07-06 |  |
 | [Exile on Ærø](https://open.spotify.com/track/7wfXwpX7FmxihVhHAjBEGz) | [Ørdop Wolkenscheidt](https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON) | [The Detective \(II\)](https://open.spotify.com/album/3wa024Li9fhL00ltgszWOG) | 4:25 | 2022-07-06 |  |
 | [ffarisees](https://open.spotify.com/track/2ZtgH6eaDvQakWM2HpjPfn) | [Belbury Poly](https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB) | [The Gone Away](https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv) | 4:32 | 2022-07-06 | 2022-07-29 |
@@ -113,6 +113,7 @@
 | [The Big Deep](https://open.spotify.com/track/34Zw89YYLu5OS1oUt8R47Q) | [Pneumatic Tubes](https://open.spotify.com/artist/5myQnwTwK4ckbV82v86cqD) | [A Letter from TreeTops](https://open.spotify.com/album/63nS53VBsDERM6sdDENXnY) | 3:46 | 2022-07-06 | 2022-07-29 |
 | [The Experience Of Swimming \- 2003 Digital Remaster](https://open.spotify.com/track/3xTX2k03pGJ8PO9pytIrY2) | [Japan](https://open.spotify.com/artist/7vPXrGlSGukcwpaPxUfKKR) | [Gentlemen Take Polaroids](https://open.spotify.com/album/0RhywRDYdXYC5Qzk0iIprW) | 4:04 | 2022-07-06 |  |
 | [The First I love You](https://open.spotify.com/track/3CbiMpMzToJhNJWza98K22) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 3 \(Original Score from the Netflix Original Series\)](https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc) | 2:26 | 2022-07-06 | 2023-04-09 |
+| [The First I love You](https://open.spotify.com/track/4JWNeArR4aYNnOZ0NOIQV5) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 3 \(Original Score from the Netflix Original Series\)](https://open.spotify.com/album/3qjUxwtbMHsiO0U20ezOjR) | 2:26 | 2022-07-06 |  |
 | [The Liminal Space](https://open.spotify.com/track/6tgMa0rm14MzbecMAM5KTu) | [Children Of Alice](https://open.spotify.com/artist/2OOXmKexjZQCmqLYJk4FMa) | [Children Of Alice](https://open.spotify.com/album/6y9YB60HpwvXrj0qurliCC) | 5:11 | 2022-07-06 | 2022-07-29 |
 | [The Magi](https://open.spotify.com/track/1Ma5XYumHN0yAp5yzaWReq) | [Council of Nine](https://open.spotify.com/artist/3m9vrJ0nacuuhkK5tvqInR) | [Dakhma](https://open.spotify.com/album/2ySAn302IJRRc3PJpkuRfM) | 10:24 | 2022-07-06 |  |
 | [The Moment Before You Fall Asleep](https://open.spotify.com/track/7AwHujsWTO74KJ6yDbQQbk) | [ALLSEITS](https://open.spotify.com/artist/3KEZRlZ6GtlMcK6ICypOAD) | [Cycles "Cyclic Law's 10th Year Anniversary Label Sampler"](https://open.spotify.com/album/6aPaiQi44SS1IPE6bU5dLp) | 8:28 | 2022-07-06 |  |

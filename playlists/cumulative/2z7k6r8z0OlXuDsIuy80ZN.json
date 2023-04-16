@@ -132,7 +132,7 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 213434,
       "name": "Agua Salada",
       "url": "https://open.spotify.com/track/22QO6gby3fhNRkNVAFxp5v"
@@ -2662,6 +2662,24 @@
       "duration_ms": 215163,
       "name": "Tissues",
       "url": "https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph"
+    },
+    {
+      "album": {
+        "name": "Todo Contigo",
+        "url": "https://open.spotify.com/album/2LmSTGw4yoSsPvKKMCJDkE"
+      },
+      "artists": [
+        {
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165527,
+      "name": "Todo Contigo",
+      "url": "https://open.spotify.com/track/4rQu72zFJz3qne1bnEkVSt"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Para iniciar la fiesta. \u00a1Salud!",
-  "num_followers": 15621,
+  "num_followers": 15633,
   "original_name": "Toneras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTQ5Nzg5OCwwMDAwMDAwMDM2NDlkNGRjOWRiNmI5ODQ0YTY5OWQ3ODZmZDMyNGFh",
+  "snapshot_id": "MTYzOTQ5Nzg5OCwwMDAwMDAwMGJkMDVkMjVjNGFkZmVjOWM2ZDgzN2FlOTJiZmFjZGMx",
   "tracks": [
     {
       "added_at": "2021-12-14 16:04:58",
@@ -191,42 +191,6 @@
     {
       "added_at": "2021-12-14 16:04:58",
       "album": {
-        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
-        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 203200,
-      "name": "LA NOCHE DE ANOCHE",
-      "url": "https://open.spotify.com/track/2XIc1pqjXV3Cr2BQUGNBck"
-    },
-    {
-      "added_at": "2021-12-14 16:04:58",
-      "album": {
-        "name": "Todo De Ti",
-        "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 199604,
-      "name": "Todo De Ti",
-      "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
-    },
-    {
-      "added_at": "2021-12-14 16:04:58",
-      "album": {
         "name": "Platonicos",
         "url": "https://open.spotify.com/album/5sEpXan86hEcM8eZSAoWhw"
       },
@@ -247,6 +211,42 @@
       "duration_ms": 219048,
       "name": "La Curiosidad",
       "url": "https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz"
+    },
+    {
+      "added_at": "2021-12-14 16:04:58",
+      "album": {
+        "name": "Todo De Ti",
+        "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 199604,
+      "name": "Todo De Ti",
+      "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
+    },
+    {
+      "added_at": "2021-12-14 16:04:58",
+      "album": {
+        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
+        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 203200,
+      "name": "LA NOCHE DE ANOCHE",
+      "url": "https://open.spotify.com/track/2XIc1pqjXV3Cr2BQUGNBck"
     },
     {
       "added_at": "2021-12-14 16:04:58",
@@ -543,22 +543,6 @@
     {
       "added_at": "2021-12-14 16:04:58",
       "album": {
-        "name": "BICHOTA",
-        "url": "https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 178946,
-      "name": "BICHOTA",
-      "url": "https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1"
-    },
-    {
-      "added_at": "2021-12-14 16:04:58",
-      "album": {
         "name": "Pareja Del A\u00f1o",
         "url": "https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 195053,
       "name": "Pareja Del A\u00f1o",
       "url": "https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM"
+    },
+    {
+      "added_at": "2021-12-14 16:04:58",
+      "album": {
+        "name": "BICHOTA",
+        "url": "https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 178946,
+      "name": "BICHOTA",
+      "url": "https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1"
     },
     {
       "added_at": "2021-12-14 16:04:58",
@@ -1023,6 +1023,26 @@
     {
       "added_at": "2021-12-14 16:04:58",
       "album": {
+        "name": "LOST",
+        "url": "https://open.spotify.com/album/3bncOq9bM24eCefxlJvrtK"
+      },
+      "artists": [
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        },
+        {
+          "name": "Rafa Pab\u00f6n",
+          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
+        }
+      ],
+      "duration_ms": 259600,
+      "name": "Jangueo",
+      "url": "https://open.spotify.com/track/1bRpSCFv6P2OUhciByeRYR"
+    },
+    {
+      "added_at": "2021-12-14 16:04:58",
+      "album": {
         "name": "S\u00fabelo",
         "url": "https://open.spotify.com/album/2l929YaQMj0eFvPMMB4xyq"
       },
@@ -1043,26 +1063,6 @@
       "duration_ms": 239797,
       "name": "S\u00fabelo",
       "url": "https://open.spotify.com/track/3fHEwAssCgM4wJYdjT5Ch0"
-    },
-    {
-      "added_at": "2021-12-14 16:04:58",
-      "album": {
-        "name": "LOST",
-        "url": "https://open.spotify.com/album/3bncOq9bM24eCefxlJvrtK"
-      },
-      "artists": [
-        {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-        },
-        {
-          "name": "Rafa Pab\u00f6n",
-          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
-        }
-      ],
-      "duration_ms": 259600,
-      "name": "Jangueo",
-      "url": "https://open.spotify.com/track/1bRpSCFv6P2OUhciByeRYR"
     },
     {
       "added_at": "2021-12-14 16:04:58",
@@ -1127,22 +1127,18 @@
     {
       "added_at": "2021-12-14 16:04:58",
       "album": {
-        "name": "The SpongeBob Movie: Sponge On The Run (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7ojjiN0aOkWA15XONyCnA7"
+        "name": "Sweet Dreams",
+        "url": "https://open.spotify.com/album/3w6gpFZnwljc37HpVlr3WB"
       },
       "artists": [
         {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Marcus Layton",
+          "url": "https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz"
         }
       ],
-      "duration_ms": 159665,
-      "name": "Agua (with J Balvin)",
-      "url": "https://open.spotify.com/track/7CtbxAGq2P0jtYh6SH9DMR"
+      "duration_ms": 151989,
+      "name": "Sweet Dreams",
+      "url": "https://open.spotify.com/track/0RD27NcbftTkhb1NlxQMGR"
     },
     {
       "added_at": "2021-12-14 16:04:58",
@@ -1171,18 +1167,22 @@
     {
       "added_at": "2021-12-14 16:04:58",
       "album": {
-        "name": "Sweet Dreams",
-        "url": "https://open.spotify.com/album/3w6gpFZnwljc37HpVlr3WB"
+        "name": "The SpongeBob Movie: Sponge On The Run (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7ojjiN0aOkWA15XONyCnA7"
       },
       "artists": [
         {
-          "name": "Marcus Layton",
-          "url": "https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz"
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         }
       ],
-      "duration_ms": 151989,
-      "name": "Sweet Dreams",
-      "url": "https://open.spotify.com/track/0RD27NcbftTkhb1NlxQMGR"
+      "duration_ms": 159665,
+      "name": "Agua (with J Balvin)",
+      "url": "https://open.spotify.com/track/7CtbxAGq2P0jtYh6SH9DMR"
     },
     {
       "added_at": "2021-12-14 16:04:58",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2021-12-14 16:04:58",
       "album": {
-        "name": "Amor en Coma",
-        "url": "https://open.spotify.com/album/0NHD8Het1Mqslp46azKDU2"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 199881,
-      "name": "Amor en Coma",
-      "url": "https://open.spotify.com/track/3RasiWohReHWYM1FJ9d1ZD"
-    },
-    {
-      "added_at": "2021-12-14 16:04:58",
-      "album": {
         "name": "Se Menea",
         "url": "https://open.spotify.com/album/1MtqA947JKdlShamS80Wr5"
       },
@@ -1467,6 +1447,26 @@
       "duration_ms": 190880,
       "name": "Se Menea",
       "url": "https://open.spotify.com/track/1ZcrHpBbILPNfhBtPhQVHh"
+    },
+    {
+      "added_at": "2021-12-14 16:04:58",
+      "album": {
+        "name": "Amor en Coma",
+        "url": "https://open.spotify.com/album/0NHD8Het1Mqslp46azKDU2"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 199881,
+      "name": "Amor en Coma",
+      "url": "https://open.spotify.com/track/3RasiWohReHWYM1FJ9d1ZD"
     },
     {
       "added_at": "2021-12-14 16:04:58",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2021-12-14 16:04:58",
       "album": {
+        "name": "#7DJ (7 D\u00edas En Jamaica)",
+        "url": "https://open.spotify.com/album/7vZC8PTQUCcw3687OxqY98"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 176970,
+      "name": "Agua de Jamaica",
+      "url": "https://open.spotify.com/track/41BzKiCrKpUQHS3TP0jmdr"
+    },
+    {
+      "added_at": "2021-12-14 16:04:58",
+      "album": {
         "name": "Machu Picchu",
         "url": "https://open.spotify.com/album/7jqXGkhOKZ3wuZuD6IgTYR"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 179004,
       "name": "Machu Picchu",
       "url": "https://open.spotify.com/track/1LXb70u8SLsvBAPWHMCTMe"
-    },
-    {
-      "added_at": "2021-12-14 16:04:58",
-      "album": {
-        "name": "#7DJ (7 D\u00edas En Jamaica)",
-        "url": "https://open.spotify.com/album/7vZC8PTQUCcw3687OxqY98"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 176970,
-      "name": "Agua de Jamaica",
-      "url": "https://open.spotify.com/track/41BzKiCrKpUQHS3TP0jmdr"
     },
     {
       "added_at": "2021-12-14 16:04:58",

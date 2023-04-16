@@ -4,7 +4,7 @@
 
 > This is Jonas Blue\. The essential tracks, all in one playlist.
 
-40 songs - 2 hr 8 min
+41 songs - 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Don’t Wake Me Up](https://open.spotify.com/track/3LEgGAl9zLcQWGTp7ptqtQ) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Don’t Wake Me Up](https://open.spotify.com/album/6ydP9IJkzpippCnXf2bpNs) | 3:08 | 2023-03-19 |  |
 | [Fast Car](https://open.spotify.com/track/1SN1vSPsr4V4tIUTR3s8YW) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Dakota](https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms) | [Blue](https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L) | 3:32 | 2023-03-19 |  |
 | [Fast Car \- Rare Candy Remix](https://open.spotify.com/track/7npdzx7U6ZiBat9xrnQBZi) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Dakota](https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms), [Rare Candy](https://open.spotify.com/artist/5okfcZF47LTIbEIx6RILD9) | [Fast Car \(Remixes\)](https://open.spotify.com/album/40ifSsakci9ksnclgVDT8F) | 5:42 | 2023-03-19 |  |
+| [Finally](https://open.spotify.com/track/0PZpE9CYvOLt0wRZeOY5fV) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Finally](https://open.spotify.com/album/0mjru6iErl5h2amcxpMpg9) | 3:08 | 2023-04-15 |  |
 | [Hear Me Say](https://open.spotify.com/track/7dk9EBvTbbKBbFxjCAJpwK) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Hear Me Say](https://open.spotify.com/album/0mTHF0Grl8yVxVZHAMZn9V) | 3:10 | 2023-03-19 |  |
 | [Hearts Ain't Gonna Lie \- Eden Prince Remix](https://open.spotify.com/track/6B9cqNooxIyPfr3P5EB8LA) | [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z) | [Hearts Ain't Gonna Lie \(Remixes, Pt\. 1\)](https://open.spotify.com/album/00wIfIEWOqJ2RFrRazVl0i) | 3:58 | 2023-03-19 |  |
 | [I See Love \- From Hotel Transylvania 3](https://open.spotify.com/track/32UJH1F38AMSjZilQyBzOE) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [I See Love \(From Hotel Transylvania 3\)](https://open.spotify.com/album/3aH4OEoC8UGnCyHhVZDJav) | 2:53 | 2023-03-19 |  |

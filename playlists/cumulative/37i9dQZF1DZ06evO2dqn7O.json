@@ -379,6 +379,32 @@
     },
     {
       "album": {
+        "name": "give me hell",
+        "url": "https://open.spotify.com/album/3rSDVdVKKTVHDqU1cC3pn0"
+      },
+      "artists": [
+        {
+          "name": "Sam Nelson",
+          "url": "https://open.spotify.com/artist/4SIjsqKdaPeIVDqrALa4Mv"
+        },
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        },
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184666,
+      "name": "give me hell",
+      "url": "https://open.spotify.com/track/73sWKUWvlzHuYR2iXWRXx6"
+    },
+    {
+      "album": {
         "name": "VHS",
         "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
       },

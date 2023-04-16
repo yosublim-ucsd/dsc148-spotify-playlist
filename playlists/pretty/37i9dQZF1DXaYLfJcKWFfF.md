@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: <a href="https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek?si=81n9mypdRAuVUB7T2rtLfg"> Baaba J</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,803 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,825 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > your daily dose of dopamine
 
-491 songs - 1 day 2 hr 55 min
+492 songs - 1 day 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,7 +203,8 @@
 | [Hate Me](https://open.spotify.com/track/08rB2a7jEmObJSsq0e41tg) | [Robert Grace](https://open.spotify.com/artist/6W8rk6H6C3Mcj0lALuLVg1) | [Hate Me](https://open.spotify.com/album/3QdA3ygxHkyPdGrFvN9mVj) | 2:51 | 2022-03-25 | 2022-04-16 |
 | [Have U Seen Her](https://open.spotify.com/track/62ipKcuoX7tDEdiRsl1uTK) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Have U Seen Her](https://open.spotify.com/album/4J1zQkSh1FdtLiXHMZy1xK) | 2:58 | 2022-04-01 | 2022-05-28 |
 | [Head In The Clouds](https://open.spotify.com/track/1fAE0TQ3xblvOgnmM7yL1s) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Don't give me problems, give me wine](https://open.spotify.com/album/0zdCctCFiHeLyZ4mzV7aY8) | 2:27 | 2021-12-29 | 2022-07-28 |
-| [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 | 2021-12-29 |  |
+| [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 | 2021-12-29 | 2023-04-16 |
+| [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 | 2023-03-31 |  |
 | [Heaven Falls / Fall on Me](https://open.spotify.com/track/7yHqOZfsXYlicyoMt62yC6) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Heaven Falls / Fall on Me](https://open.spotify.com/album/47FlG4nYHBCVO0DKbdMbCz) | 4:00 | 2021-12-29 | 2022-05-14 |
 | [Heavy Hearted](https://open.spotify.com/track/3yXgttblOo006gd4eGOvw1) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [Heavy Hearted](https://open.spotify.com/album/6TqyOjnzxtdboeo8XiSYcj) | 4:16 | 2022-04-14 | 2022-04-16 |
 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 | 2021-12-29 |  |

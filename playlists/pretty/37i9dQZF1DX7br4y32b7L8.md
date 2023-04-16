@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 
 > Viraal gaan is ook gaan! Cover: Carlos Santana
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,812 likes - 64 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,848 likes - 64 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Maria Maria \(feat\. The Product G&B\)](https://open.spotify.com/track/3XKIUb7HzIF1Vu9usunMzc) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [The Product G&B](https://open.spotify.com/artist/782IpIScTpnDhYb9hyxOu1) | [Supernatural \(Remastered\)](https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq) | 4:21 |
-| 2 | [Me Gustas Tu](https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Próxima Estación: Esperanza](https://open.spotify.com/album/4t1LLdXiWTfoywqricztFo) | 3:59 |
-| 3 | [Moulaga](https://open.spotify.com/track/5BfCoUcWNXcpyJfjXRIeyC) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Moulaga](https://open.spotify.com/album/2k7vGyQFY5ILNhRf6Ia68J) | 2:59 |
+| 2 | [Moulaga](https://open.spotify.com/track/5BfCoUcWNXcpyJfjXRIeyC) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Moulaga](https://open.spotify.com/album/2k7vGyQFY5ILNhRf6Ia68J) | 2:59 |
+| 3 | [Me Gustas Tu](https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Próxima Estación: Esperanza](https://open.spotify.com/album/4t1LLdXiWTfoywqricztFo) | 3:59 |
 | 4 | [Chasing Highs](https://open.spotify.com/track/3GJjiToqnCxTm5rOaqoxdi) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Chasing Highs](https://open.spotify.com/album/1nF6jsEiGpdjS7gG3DPaIP) | 3:15 |
 | 5 | [Whenever, Wherever](https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:16 |
-| 6 | [Peaches](https://open.spotify.com/track/4w9soAM7IrmYDhSXLp14p6) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [The Super Mario Bros\. Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3QITNyRzvTqn0t9tLmS1Vd) | 1:35 |
+| 6 | [Material Girl](https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 4:00 |
 | 7 | [Er Was Eens Een Meid](https://open.spotify.com/track/128TSKhbp925wwRpJksRXH) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Er Was Eens Een Meid](https://open.spotify.com/album/3fO8TSTjkapJpQU4xKgahE) | 2:56 |
-| 8 | [MON LOVE OHO](https://open.spotify.com/track/6PkKOTfky37pdi6e0nJcm4) | [Liamsi](https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw) | [MON LOVE OHO](https://open.spotify.com/album/3Kw0SPNrjAZ9fL1TtfsnL9) | 2:19 |
-| 9 | [Dyscalculie](https://open.spotify.com/track/0LNT7X2PU2gg8vpMZHC37n) | [Maks](https://open.spotify.com/artist/0s350tLzNbk3Vj7rwZHXSI) | [Dyscalculie](https://open.spotify.com/album/1hJBIeaY6hODwbYq0Zwsnk) | 1:33 |
-| 10 | [Material Girl](https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 4:00 |
-| 11 | [Layla](https://open.spotify.com/track/18tV3JqwwB5Acsa8vP12lp) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Layla](https://open.spotify.com/album/1ba0iVHm6wU4hfVfb8fKhl) | 2:43 |
-| 12 | [THIS YEAR \(Blessings\)](https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\)](https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi) | 2:06 |
+| 8 | [THIS YEAR \(Blessings\)](https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\)](https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi) | 2:06 |
+| 9 | [Peaches](https://open.spotify.com/track/4w9soAM7IrmYDhSXLp14p6) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [The Super Mario Bros\. Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3QITNyRzvTqn0t9tLmS1Vd) | 1:35 |
+| 10 | [MON LOVE OHO](https://open.spotify.com/track/6PkKOTfky37pdi6e0nJcm4) | [Liamsi](https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw) | [MON LOVE OHO](https://open.spotify.com/album/3Kw0SPNrjAZ9fL1TtfsnL9) | 2:19 |
+| 11 | [Dyscalculie](https://open.spotify.com/track/0LNT7X2PU2gg8vpMZHC37n) | [Maks](https://open.spotify.com/artist/0s350tLzNbk3Vj7rwZHXSI) | [Dyscalculie](https://open.spotify.com/album/1hJBIeaY6hODwbYq0Zwsnk) | 1:33 |
+| 12 | [Layla](https://open.spotify.com/track/18tV3JqwwB5Acsa8vP12lp) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Layla](https://open.spotify.com/album/1ba0iVHm6wU4hfVfb8fKhl) | 2:43 |
 | 13 | [Engelbewaarder](https://open.spotify.com/track/2C2vSufLm1wLq2GjDH3iMh) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Engelbewaarder](https://open.spotify.com/album/3c6Hst9lqpnnRRpEbP1RxH) | 3:16 |
 | 14 | [Jump Around](https://open.spotify.com/track/6JymsaWDHk2Yj4e0yNBIFH) | [House Of Pain](https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV) | [House of Pain \(Fine Malt Lyrics\)](https://open.spotify.com/album/0hWY4eSi2bZ8tWplgjO0ph) | 3:34 |
 | 15 | [Home](https://open.spotify.com/track/0BVUA3FXqQLvZb7r4T22NJ) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [7 Layers](https://open.spotify.com/album/2rQtlZamCmgyyfXk30duG5) | 4:28 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 | 63 | [Gyal You a Party Animal](https://open.spotify.com/track/6bOLRTULQUiXeVnxOIPZVA) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Gyal You a Party Animal](https://open.spotify.com/album/0AuidICCpJQTwjMajndF4h) | 3:34 |
 | 64 | [It's a Beautiful Day \(Reprise\)](https://open.spotify.com/track/0mNi3gEjt1CmZVhXFFjx8d) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG), [Rushawn](https://open.spotify.com/artist/7rL0vdXxFkfSWJ46p57yfB), [Jermaine Edwards](https://open.spotify.com/artist/2wUjzAPBw9nmHPSdyNG87K) | [It's a Beautiful Day \(Reprise\)](https://open.spotify.com/album/5y16jXfwpM8ZrZ2nnNRVlP) | 2:42 |
 
-Snapshot ID: `MTY4MTQ1NjQ4OCwwMDAwMDAwMDkxY2YxNmEwODM4NTIwMDkzYjk3NzdmMTQ2MGRiZGY0`
+Snapshot ID: `MTY4MTU2NzczOSwwMDAwMDAwMDY5N2FjZmIyNDYxMTQzMzllZjgyODhiNThkMjE3MDA1`

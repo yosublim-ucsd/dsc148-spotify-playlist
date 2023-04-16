@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 130900,
+  "num_followers": 131412,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQyMzI2MCwwMDAwMDAwMGE4MjVhODg0YmQzOTJjZDFlZTQ1NTdmMmI0Zjc4NTc2",
+  "snapshot_id": "MTY4MTQyMzI2MCwwMDAwMDAwMDM0NmI5NmMxMTA2M2M0NTY3MWQ3OWYzNmY5NWMzZjdk",
   "tracks": [
     {
       "added_at": "2023-04-13 22:01:00",
@@ -159,22 +159,6 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "Say It Again",
-        "url": "https://open.spotify.com/album/6qmP3e4qPHcnj0576IRaV6"
-      },
-      "artists": [
-        {
-          "name": "Will Sparks",
-          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
-        }
-      ],
-      "duration_ms": 207272,
-      "name": "Say It Again",
-      "url": "https://open.spotify.com/track/0dDGl66J8riMFyp2yUn88W"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
         "name": "Rock With Me",
         "url": "https://open.spotify.com/album/7g7DbWfA0XSpsnFsyrvRlP"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 205696,
       "name": "Rock With Me",
       "url": "https://open.spotify.com/track/2BfFW4C5SIgbp33539WAah"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
+        "name": "Say It Again",
+        "url": "https://open.spotify.com/album/6qmP3e4qPHcnj0576IRaV6"
+      },
+      "artists": [
+        {
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+        }
+      ],
+      "duration_ms": 207272,
+      "name": "Say It Again",
+      "url": "https://open.spotify.com/track/0dDGl66J8riMFyp2yUn88W"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "You Can't Stop Us",
-        "url": "https://open.spotify.com/album/2ysLpJ6RrQzrZQU3ZpO5rM"
-      },
-      "artists": [
-        {
-          "name": "Denise Schneider",
-          "url": "https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI"
-        }
-      ],
-      "duration_ms": 142153,
-      "name": "You Can't Stop Us",
-      "url": "https://open.spotify.com/track/39stAgopu3xQH0ZpEiNNw3"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 408669,
       "name": "Believe",
       "url": "https://open.spotify.com/track/40up5wCfwQXTDXyE18hJbJ"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
+        "name": "You Can't Stop Us",
+        "url": "https://open.spotify.com/album/2ysLpJ6RrQzrZQU3ZpO5rM"
+      },
+      "artists": [
+        {
+          "name": "Denise Schneider",
+          "url": "https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI"
+        }
+      ],
+      "duration_ms": 142153,
+      "name": "You Can't Stop Us",
+      "url": "https://open.spotify.com/track/39stAgopu3xQH0ZpEiNNw3"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -535,6 +535,22 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
+        "name": "Never Go Back To Sleep",
+        "url": "https://open.spotify.com/album/7LTsOeCZMSlYLbyhoJmwM5"
+      },
+      "artists": [
+        {
+          "name": "Mha Iri",
+          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Never Go Back To Sleep",
+      "url": "https://open.spotify.com/track/5QZBC1smhtLUqPsHrNI9mJ"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
         "name": "The Coldest Form",
         "url": "https://open.spotify.com/album/17MkLzzH2Wa6cUJcH5PcSh"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 360000,
       "name": "The Coldest Form",
       "url": "https://open.spotify.com/track/0EEq5t7dahypAAQDUK1WjW"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "Never Go Back To Sleep",
-        "url": "https://open.spotify.com/album/7LTsOeCZMSlYLbyhoJmwM5"
-      },
-      "artists": [
-        {
-          "name": "Mha Iri",
-          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Never Go Back To Sleep",
-      "url": "https://open.spotify.com/track/5QZBC1smhtLUqPsHrNI9mJ"
     },
     {
       "added_at": "2023-04-13 22:01:00",

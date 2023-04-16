@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 
 > The hottest local and global tracks in Pakistan\. Cover \- Kaifi Khalil
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,023 likes - 55 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,082 likes - 55 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 | 49 | [Bones](https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 2:45 |
 | 50 | [dilrubaa](https://open.spotify.com/track/1PfOAYwjTSYCskgSGdRfQw) | [Wali Bakhat Warraich](https://open.spotify.com/artist/0CyRAEk8Qp6zicASWIKPLo) | [dilrubaa](https://open.spotify.com/album/7soQBh3lLNgnLkb3FPskkB) | 2:08 |
 | 51 | [Players](https://open.spotify.com/track/0MbOLfDcGk8ROHJYXJHu5c) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Devika Badyal](https://open.spotify.com/artist/0V8aeNb0fnR2P8eZVrx3lI) | [3:00 AM Sessions](https://open.spotify.com/album/7o9sqNRikTO3eeira2Qlx2) | 2:51 |
-| 52 | [Kali Kali Zulfon Ke \(Lo\-Fi\)](https://open.spotify.com/track/7oN0Wo7sCVvXPdpxoio3JM) | [Madhur Sharma](https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ) | [Kali Kali Zulfon Ke \(Lo\-Fi\)](https://open.spotify.com/album/6pbaTBzAT23yL5xJxJfiFR) | 1:17 |
+| 52 | [Kali Kali Zulfon Ke \(Lo\-Fi\)](https://open.spotify.com/track/3mUkVsovIuscQlSoMhmAZt) | [Madhur Sharma](https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ), [Swapnil Tare](https://open.spotify.com/artist/16023OFrIxSmKOMpIVJ6Ax), [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Kali Kali Zulfon Ke \(Lo\-Fi\)](https://open.spotify.com/album/1zLlgNA1tyiabDhDwWhyPG) | 1:17 |
 | 53 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 |
 | 54 | [Jo Tu Na Mila](https://open.spotify.com/track/6DefzsWqnwrFrmNVnJxWkS) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS) | [Jo Tu Na Mila](https://open.spotify.com/album/4KSvSqPJwTo7qMxP4XyIaH) | 3:54 |
 | 55 | [Happy Hour](https://open.spotify.com/track/5M0pviz4op3uvRnKTnPoce) | [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ) | [Open Letter](https://open.spotify.com/album/2r3tG1S4XlpHM3z7xUp2lD) | 3:15 |
 
-Snapshot ID: `MTY4MTI5MzA2NSwwMDAwMDAwMGYzMDk2YWI1NTA2MDM4YTFhYjg2MmZkZjhhMTFkYzE5`
+Snapshot ID: `MTY4MTI5MzA2NSwwMDAwMDAwMGFmNzdiYzU1NTNkN2M2MWRmMWYyMWVkNmI0MGM4ODk1`

@@ -1,15 +1,15 @@
 {
   "description": "The hustle king and worldwide multi talent of Korean hip-hop/r&b.",
-  "num_followers": 18992,
+  "num_followers": 19100,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI1Nzk2OCwwMDAwMDAwMDczMTQ0NDY4MDA3Y2YxYjNiZGU3NTFjNDE5ZTkyYjlj",
+  "snapshot_id": "MTY4MDI1Nzk2OCwwMDAwMDAwMDkwYjBiN2U4NDQ1MTM5N2JjNjQ1MjRhNzlkNjNjNTQ5",
   "tracks": [
     {
-      "added_at": "2023-04-15 01:11:43",
+      "added_at": "2023-04-16 01:03:27",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5"
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2023-02-22 06:37:37",
       "album": {
-        "name": "Everybody Sucks",
-        "url": "https://open.spotify.com/album/2Z9wsmEj3cKZIpYbxumE4l"
-      },
-      "artists": [
-        {
-          "name": "DJ Wegun",
-          "url": "https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 209449,
-      "name": "Out Of Place",
-      "url": "https://open.spotify.com/track/0Hfpa8a41cdLKDtDotbFbe"
-    },
-    {
-      "added_at": "2023-02-22 06:37:37",
-      "album": {
         "name": "Dior Socks",
         "url": "https://open.spotify.com/album/7aX9l4mQYa1lOGH9UXwjOw"
       },
@@ -1087,6 +1067,26 @@
       "duration_ms": 213306,
       "name": "Dior Socks",
       "url": "https://open.spotify.com/track/7qVIWLqMGF2XFNXW1kXXuy"
+    },
+    {
+      "added_at": "2023-02-22 06:37:37",
+      "album": {
+        "name": "Everybody Sucks",
+        "url": "https://open.spotify.com/album/2Z9wsmEj3cKZIpYbxumE4l"
+      },
+      "artists": [
+        {
+          "name": "DJ Wegun",
+          "url": "https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 209449,
+      "name": "Out Of Place",
+      "url": "https://open.spotify.com/track/0Hfpa8a41cdLKDtDotbFbe"
     },
     {
       "added_at": "2023-02-22 06:37:37",
@@ -2143,22 +2143,6 @@
     {
       "added_at": "2023-02-22 06:37:37",
       "album": {
-        "name": "Ask Bout Me",
-        "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 268066,
-      "name": "Million",
-      "url": "https://open.spotify.com/track/7gw9EmECP4BXUvQdhY5HPq"
-    },
-    {
-      "added_at": "2023-02-22 06:37:37",
-      "album": {
         "name": "Scene Stealers",
         "url": "https://open.spotify.com/album/01NUcsaXDsn4JH9RgDeZPe"
       },
@@ -2191,6 +2175,22 @@
     {
       "added_at": "2023-02-22 06:37:37",
       "album": {
+        "name": "Ask Bout Me",
+        "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 268066,
+      "name": "Million",
+      "url": "https://open.spotify.com/track/7gw9EmECP4BXUvQdhY5HPq"
+    },
+    {
+      "added_at": "2023-02-22 06:37:37",
+      "album": {
         "name": "Scene Stealers",
         "url": "https://open.spotify.com/album/01NUcsaXDsn4JH9RgDeZPe"
       },
@@ -2211,18 +2211,26 @@
     {
       "added_at": "2023-02-22 06:37:37",
       "album": {
-        "name": "SHOW ME THE MONEY 11 Episode 0",
-        "url": "https://open.spotify.com/album/2T2wsr1uhHDpZWhBAvKsTQ"
+        "name": "Ask Bout Me",
+        "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
       },
       "artists": [
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "GASHI",
+          "url": "https://open.spotify.com/artist/0JOxt5QOwq0czoJxvSc5hS"
+        },
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
         }
       ],
-      "duration_ms": 121266,
-      "name": "RECEIPTS (Prod. by Slom)",
-      "url": "https://open.spotify.com/track/2uApb0K8SrbiHBU2NuefKl"
+      "duration_ms": 231360,
+      "name": "FSU (feat. GASHI & Rich The Kid)",
+      "url": "https://open.spotify.com/track/0nJnzVlIJV3vqckZ06PeaM"
     }
   ],
   "unique_name": "This Is Jay Park",

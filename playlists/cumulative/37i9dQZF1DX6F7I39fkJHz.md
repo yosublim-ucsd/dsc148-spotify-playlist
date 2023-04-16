@@ -4,7 +4,7 @@
 
 > Las más bichotas del party featuring Cazzu & Young Miko 😈
 
-94 songs - 4 hr 34 min
+95 songs - 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [fue mejor](https://open.spotify.com/track/2I9t0e3gLAKOi5syoHxP46) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 3:48 | 2023-03-17 |  |
 | [Gatita](https://open.spotify.com/track/4ilZV1WNjL7IxwE81OnaRY) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Gatita](https://open.spotify.com/album/6264ANGNsltdE7SYjKMTKs) | 2:33 | 2023-03-17 |  |
 | [GATÚBELA](https://open.spotify.com/track/1ga4PztXOIw1yBbdUt2X8v) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Maldy](https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9) | [GATÚBELA](https://open.spotify.com/album/5FdSjtKiymlHrdbXDyXcxA) | 3:29 | 2023-03-17 |  |
-| [Guilla](https://open.spotify.com/track/4xTZL1wNVCtCrqJQUHqHdc) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [Guilla](https://open.spotify.com/album/2wvlZcsnGAzbRx6C1wUYtw) | 2:19 | 2023-03-17 |  |
+| [Glock](https://open.spotify.com/track/1N6VDChBSHkitVoaJlU42T) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Nena Trampa \(Deluxe Edition\)](https://open.spotify.com/album/7ntr88BWCrwZGySZQlHgBM) | 2:58 | 2023-04-14 |  |
+| [Guilla](https://open.spotify.com/track/4xTZL1wNVCtCrqJQUHqHdc) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [Guilla](https://open.spotify.com/album/2wvlZcsnGAzbRx6C1wUYtw) | 2:19 | 2023-03-17 | 2023-04-16 |
 | [Hey Siri](https://open.spotify.com/track/5ohqJK8ieHOGIUsbw2oZqQ) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Hey Siri](https://open.spotify.com/album/26PSRzfCh69uiTBWg2eIZO) | 2:27 | 2023-03-17 |  |
 | [intoxicao](https://open.spotify.com/track/67Wqby5IjOMMpIYwqmCYOG) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Tú crees en mí?](https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo) | 2:48 | 2023-03-17 |  |
 | [Joder](https://open.spotify.com/track/2b5Worm8h9yAJOw2jc4zZp) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Joder](https://open.spotify.com/album/4AuyjPAbIqovnGdkiashml) | 2:29 | 2023-03-17 |  |

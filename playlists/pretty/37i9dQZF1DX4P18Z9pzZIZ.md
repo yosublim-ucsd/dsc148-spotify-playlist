@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4P18Z9pzZIZ.md) - [plain]
 
 > hop on board, nonstop bops only!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,873 likes - 60 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,923 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4P18Z9pzZIZ.md) - [plain]
 | 22 | [Never Miss A Beat](https://open.spotify.com/track/1VJLgFrfKrckuOb0DrvcQn) | [KIMMIC](https://open.spotify.com/artist/203PtVTnerRs5Vey1UyQgN) | [Never Miss A Beat](https://open.spotify.com/album/6jTdaQKWxgkfEO5gLPMRDC) | 2:31 |
 | 23 | [FLUTE](https://open.spotify.com/track/6D1v5PAr6RKuJ8VuaS5aIO) | [MONSS](https://open.spotify.com/artist/54cUSKoWHHsLuuX2JuCAKz) | [FLUTE](https://open.spotify.com/album/5wd6GqCH0LfjgoklXABWxF) | 3:17 |
 | 24 | [messy in heaven](https://open.spotify.com/track/5RobAV5ROH5KARimi7n3cO) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [messy in heaven](https://open.spotify.com/album/0a9uNlopPXGg37OC20qDk6) | 2:50 |
-| 25 | [Escapism\. \- Sped Up](https://open.spotify.com/track/4rPJSqrov3zqGwXlemLBMw) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. \(Sped Up\)](https://open.spotify.com/album/1bdKI997loh6G68NED2cwX) | 3:59 |
+| 25 | [Escapism\. \- Sped Up](https://open.spotify.com/track/3XCpS4k8WqNnCpcDOSRRuz) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism.](https://open.spotify.com/album/4parxQfGC25WtlVVAm5S9q) | 3:59 |
 | 26 | [Downers \- Rework](https://open.spotify.com/track/3ZHw4fR70ep2fjqa14RcBi) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Downers \(Rework\)](https://open.spotify.com/album/6wLqsCijGoDRJ1RZYSPqCk) | 3:01 |
 | 27 | [Miss You](https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Miss You](https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4) | 3:26 |
 | 28 | [Heather Park](https://open.spotify.com/track/3i41yQZllyhZZJXsr3ADhd) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Heather Park](https://open.spotify.com/album/1VKmlsq627xxebmf53jHME) | 6:01 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4P18Z9pzZIZ.md) - [plain]
 | 59 | [go \- goddard\. Remix](https://open.spotify.com/track/6RZo8T7GY9EoWZXC5i2587) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [Go \(Remixes\)](https://open.spotify.com/album/1kGbwOHke3PrRnZAmlkoOu) | 3:12 |
 | 60 | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Colin Hay](https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv) | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW) | 2:38 |
 
-Snapshot ID: `MTY4MTIyOTM5MSwwMDAwMDAwMDBkMzUzYzJjYjNhZGRlNmY1NThhNjk5NDhlODE0NjBi`
+Snapshot ID: `MTY4MTIyOTM5MSwwMDAwMDAwMGYzMzY5ZDE1MzgwOWIwY2Y1YTU4OGYxYjM2MGNmOGVl`

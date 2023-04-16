@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Tcb3G.md) - [plain]
 
 > This is Mumford & Sons\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,140 likes - 39 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,254 likes - 39 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,11 +29,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Tcb3G.md) - [plain]
 | 19 | [Hopeless Wanderer](https://open.spotify.com/track/1FNGW0JOSp7Rbomh80XVYm) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y) | 5:07 |
 | 20 | [Timshel](https://open.spotify.com/track/5KYtnw4qIYaCxNRXVEOdSJ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S) | 2:53 |
 | 21 | [Beloved](https://open.spotify.com/track/1l1TLPILxVipEsTsSho4u3) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/4TgzPAmjhR2Qkh7P6lIRnH) | 4:25 |
-| 22 | [Snake Eyes](https://open.spotify.com/track/3SvIbcr7uvjRp5PuPN47eo) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind](https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ) | 4:08 |
+| 22 | [Wilder Mind](https://open.spotify.com/track/60Q1lkwI6yCnOdwbA1mX1s) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind](https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ) | 4:38 |
 | 23 | [Lover of the Light](https://open.spotify.com/track/6NUr2TMn5nsaerT4tuHpFb) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y) | 5:14 |
 | 24 | [Winter Winds](https://open.spotify.com/track/4iVzgmqhxypCb6CYYnznLc) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S) | 3:39 |
 | 25 | [Just Smoke](https://open.spotify.com/track/7CDi9DHRDKyfLSgtDs9wex) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind \(Deluxe\)](https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi) | 3:10 |
-| 26 | [Wilder Mind](https://open.spotify.com/track/60Q1lkwI6yCnOdwbA1mX1s) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind](https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ) | 4:38 |
+| 26 | [Snake Eyes](https://open.spotify.com/track/3SvIbcr7uvjRp5PuPN47eo) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind](https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ) | 4:08 |
 | 27 | [Forever](https://open.spotify.com/track/29u2jPjN6ZEKf31W0eEbx7) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/4TgzPAmjhR2Qkh7P6lIRnH) | 4:36 |
 | 28 | [The Brightest Lights](https://open.spotify.com/track/7DSFu4NFVpDpWCafZ0cxPJ) | [King Charles](https://open.spotify.com/artist/6QKDcdjtwqu4E7rztEUQu5), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [LoveBlood](https://open.spotify.com/album/07MeEPmkdYGUOCjsdh22Wj) | 3:36 |
 | 29 | [Monster](https://open.spotify.com/track/5RJeg1KeRTQxsgZcPrxWBD) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind \(Deluxe\)](https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi) | 3:56 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Tcb3G.md) - [plain]
 | 38 | [Hold on to What You Believe \- Live from Shepherd's Bush Empire, 2010](https://open.spotify.com/track/13UaKj7X8zno0QHa0sQ4lR) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Live from Shepherd's Bush Empire](https://open.spotify.com/album/2BSWogsmKbWv9zmTAjjgpH) | 4:04 |
 | 39 | [Hurt \(Live from Werchter\)](https://open.spotify.com/track/7owiVG8UaTtTkcErdgyHet) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta Tour EP](https://open.spotify.com/album/0Mdbs380PEaE81bScwSlBB) | 4:59 |
 
-Snapshot ID: `MjgwMjQ4NTIsMDAwMDAwMDBhOWY2Y2I5YjA0MDFhNTE5YmYwMzY5YTYwYWE4MzM2MQ==`
+Snapshot ID: `MjgwMjYwMzIsMDAwMDAwMDBmODQ4NTVkY2E1ZDVkYTk1NmYwMTBiYzE1NWRkZGJmYQ==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8N4beMj76D.md) - [plain]
 
 > Speaking to us sweetly from a window in the Tower of Song, this collection includes the legend's own tributes\. Cover: <a href="spotify:artist:5l8VQNuIg0turYE1VtM9zV">Leonard Cohen</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,750 likes - 40 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,751 likes - 40 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8N4beMj76D.md) - [plain]
 | 7 | [Hey, That's No Way to Say Goodbye](https://open.spotify.com/track/130dKZhza6XRe8WSBl1nsu) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [First Take](https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F) | 4:08 |
 | 8 | [If It Be Your Will \(feat\. Leonard Cohen\) \- Live in London](https://open.spotify.com/track/6MgxI462nuWQkMowINdZkw) | [The Webb Sisters](https://open.spotify.com/artist/5WVYK25IDrN0y1ExA69Lr7), [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Live In London](https://open.spotify.com/album/4rgYbbaJOr9fv0MdEcIkIY) | 5:22 |
 | 9 | [Here It Is](https://open.spotify.com/track/0MJpdShAMrg3fpW83THGyC) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Here It Is: A Tribute to Leonard Cohen](https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff) | 5:12 |
-| 10 | [The Partisan \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2xMzN3uUtCxyHpR5L8Tril) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Spotify Singles](https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr) | 3:09 |
-| 11 | [Chelsea Hotel No\. 2](https://open.spotify.com/track/7nlbvD4fO9D3aocMGkiYxq) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [Leonard Cohen: I'm Your Man](https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR) | 3:45 |
+| 10 | [Chelsea Hotel No\. 2](https://open.spotify.com/track/7nlbvD4fO9D3aocMGkiYxq) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [Leonard Cohen: I'm Your Man](https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR) | 3:45 |
+| 11 | [The Partisan \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2xMzN3uUtCxyHpR5L8Tril) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Spotify Singles](https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr) | 3:09 |
 | 12 | [Pequeño Vals Vienés](https://open.spotify.com/track/6t2vcP38D08xYdioGyOUC6) | [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw), [Raül Fernandez Miró](https://open.spotify.com/artist/1jIEmZJNXh1TT7hBjCMSy2) | [Granada](https://open.spotify.com/album/6d0iojYCEgb4D1L9zUFrdV) | 5:34 |
 | 13 | [Famous Blue Raincoat](https://open.spotify.com/track/7tfmLHlqGt3dHvCV6GlJxf) | [Marissa Nadler](https://open.spotify.com/artist/5zjaF8JUdylMWrA7AVo3hJ) | [Songs III: Bird on the Water](https://open.spotify.com/album/5Hij7PrKCR3aqxyhuYjFAI) | 4:23 |
 | 14 | [God Is Alive Magic Is Afoot](https://open.spotify.com/track/4K3glAui6GSMQfYWxC0qy9) | [Buffy Sainte\-Marie](https://open.spotify.com/artist/5exO2eW84QucBhrRhcK76x) | [Illuminations](https://open.spotify.com/album/2tvwygeYPGjkOaIBQCwqHh) | 4:51 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8N4beMj76D.md) - [plain]
 | 39 | [Chelsea Hotel \#2](https://open.spotify.com/track/0wWuIseAsESzPDFPBYwkRs) | [Kyle Craft](https://open.spotify.com/artist/29kOS7p4N9JeqoRgA2PCsr) | [Chelsea Hotel \#2](https://open.spotify.com/album/74kCTmJ9MUmJWRZifk69Bi) | 3:35 |
 | 40 | [Tennessee Waltz \- Live at Montreux Jazz Festival](https://open.spotify.com/track/2BhsSiyQdtY9xZt4Yq137J) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Dear Heather](https://open.spotify.com/album/2A2w7NSKKyAfDvwx6GEHEg) | 4:05 |
 
-Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMGNiZmEwN2UwZmE4MTRkMWZhZmNhMGY4NjViMzRmMTIw`
+Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMDQzODgwODUyMjVjYjEyZjA2YTg1MDYzZWY4OTUzODNh`

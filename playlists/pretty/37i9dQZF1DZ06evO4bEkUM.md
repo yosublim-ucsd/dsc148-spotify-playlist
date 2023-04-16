@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bEkUM.md) - [plain]
 
 > This is Paramore\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 787,956 likes - 44 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 788,157 likes - 44 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bEkUM.md) - [plain]
 | 32 | [Misguided Ghosts](https://open.spotify.com/track/2VYqkb77OjToeRAnMNd4yU) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 3:01 |
 | 33 | [My Heart](https://open.spotify.com/track/5wWkbQ18TPaWq2GeJDF2O3) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [All We Know Is Falling](https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC) | 3:59 |
 | 34 | [Hate to See Your Heart Break](https://open.spotify.com/track/3AX4HIRJY6GT6tgMkO5987) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 5:09 |
-| 35 | [Tell Me It's Okay \- Demo](https://open.spotify.com/track/1b0sV4coLmS3ri2kZjr98z) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore \(Deluxe Edition\)](https://open.spotify.com/album/7J2hXOVq8FZ367dTczV7oH) | 2:43 |
-| 36 | [When It Rains](https://open.spotify.com/track/5MNsy8G3K0Y09QFpktzyrj) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ) | 3:35 |
+| 35 | [When It Rains](https://open.spotify.com/track/5MNsy8G3K0Y09QFpktzyrj) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ) | 3:35 |
+| 36 | [Tell Me It's Okay \- Demo](https://open.spotify.com/track/1b0sV4coLmS3ri2kZjr98z) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore \(Deluxe Edition\)](https://open.spotify.com/album/7J2hXOVq8FZ367dTczV7oH) | 2:43 |
 | 37 | [Conspiracy](https://open.spotify.com/track/21aVkXDch0A1nXo9he3j8L) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [All We Know Is Falling](https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC) | 3:42 |
 | 38 | [Renegade](https://open.spotify.com/track/6M9Da8TDERZzTdBYkxMRji) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Singles Club](https://open.spotify.com/album/3qMoGzDfT88nl6TY7YqQs1) | 3:28 |
 | 39 | [Fences](https://open.spotify.com/track/4aICBAAFGF3pLSZDlmsMj9) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc) | 3:18 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bEkUM.md) - [plain]
 | 43 | [Here We Go Again](https://open.spotify.com/track/5Pp1H1mFlL6o63omITUvfn) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [All We Know Is Falling](https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC) | 3:46 |
 | 44 | [Hello Cold World](https://open.spotify.com/track/1V8qfqICVnpmex8g9yn1Pc) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Singles Club](https://open.spotify.com/album/3qMoGzDfT88nl6TY7YqQs1) | 3:23 |
 
-Snapshot ID: `MjgwMjQ4NTIsMDAwMDAwMDBhMGExY2IyYjBlY2Y4ZTRkZTIwN2FjMDczOGM3M2I2NA==`
+Snapshot ID: `MjgwMjYwMzIsMDAwMDAwMDBlNWRjYTM4MDY1OTY3NWZhMjA5ODA5NmM1MjQxMGI3OA==`

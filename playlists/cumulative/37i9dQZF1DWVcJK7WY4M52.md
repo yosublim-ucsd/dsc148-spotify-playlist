@@ -4,14 +4,14 @@
 
 > From the decade that brought us Britney, Spice Girls, Coolio and so many more!
 
-101 songs - 7 hr 2 min
+102 songs - 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Everything I Do\) I Do It For You](https://open.spotify.com/track/6eBK3edMW7bEzecF1eCezc) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Waking Up The Neighbours](https://open.spotify.com/album/061uAXmheZOILmf2rr3tTn) | 6:34 | 2023-04-08 |  |
 | [\(You Drive Me\) Crazy](https://open.spotify.com/track/1DSJNBNhGZCigg9ll5VeZv) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 3:18 | 2023-04-08 |  |
 | [...Baby One More Time](https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 3:31 | 2023-04-08 |  |
-| [All Around the World \- Remastered](https://open.spotify.com/track/1DapqOfkDAQCiKnvfwKo0g) | [Lisa Stansfield](https://open.spotify.com/artist/2jS7I1u7BpgWT9ssG62Zr1), [Ian Devaney](https://open.spotify.com/artist/6Ufm4BHf4ZdolpvcvYgH2S), [Andy Morris](https://open.spotify.com/artist/0A1FSG9WZ2dQ5JSkQYJHIp) | [Affection](https://open.spotify.com/album/2NGdpRuh0JgRLrdAK8AyNR) | 4:25 | 2023-04-08 |  |
+| [All Around the World \- Remastered](https://open.spotify.com/track/1DapqOfkDAQCiKnvfwKo0g) | [Lisa Stansfield](https://open.spotify.com/artist/2jS7I1u7BpgWT9ssG62Zr1), [Ian Devaney](https://open.spotify.com/artist/6Ufm4BHf4ZdolpvcvYgH2S), [Andy Morris](https://open.spotify.com/artist/0A1FSG9WZ2dQ5JSkQYJHIp) | [Affection](https://open.spotify.com/album/2NGdpRuh0JgRLrdAK8AyNR) | 4:25 | 2023-04-08 | 2023-04-16 |
 | [All I Wanna Do](https://open.spotify.com/track/3ZpQiJ78LKINrW9SQTgbXd) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Tuesday Night Music Club](https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU) | 4:32 | 2023-04-08 |  |
 | [All My Life](https://open.spotify.com/track/5GorFaKkP2mLREQvhSblIg) | [K\-Ci & JoJo](https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK) | [Love Always](https://open.spotify.com/album/5cmtcMzuUZq8vxS5T7NVPu) | 5:31 | 2023-04-08 |  |
 | [All Star](https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Astro Lounge](https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P) | 3:20 | 2023-04-08 |  |
@@ -49,6 +49,7 @@
 | [I Got 5 On It](https://open.spotify.com/track/4IYKjN1DrYzxKXt0umJqsG) | [Luniz](https://open.spotify.com/artist/3z3g65U7mmyyBmmDfsQK9x), [Michael Marshall](https://open.spotify.com/artist/2FT75iYuWmycqYrXbVD9cn) | [Operation Stackola](https://open.spotify.com/album/5pMShIZc6oWiEtcQvXsKfb) | 4:13 | 2023-04-08 |  |
 | [I Love You Always Forever](https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD) | [Donna Lewis](https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2) | [Now in a Minute](https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL) | 3:59 | 2023-04-08 |  |
 | [I Swear](https://open.spotify.com/track/4WUnM4KNZ0kjp0CUeoyOnS) | [All\-4\-One](https://open.spotify.com/artist/1B8ySGDAiXTCvnJNH4HSCG) | [All\-4\-One](https://open.spotify.com/album/4L5ZA0GukWNWjsk9b7HHDy) | 4:19 | 2023-04-08 |  |
+| [I Touch Myself](https://open.spotify.com/track/6oNvmplQGUkmAh441Teows) | [Divinyls](https://open.spotify.com/artist/5t06MTkDD3yr5LVs3YFLQC) | [Divinyls](https://open.spotify.com/album/50bQGJWB4VoD1GY3c4vYbv) | 3:47 | 2023-04-08 |  |
 | [I Want It That Way](https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Millennium](https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ) | 3:33 | 2023-04-08 |  |
 | [I'll Be Missing You \(feat\. Faith Evans & 112\) \- 2014 Remaster](https://open.spotify.com/track/1yy2DlSDtEt90d54rPDPXz) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [No Way Out \(2014 Remaster\)](https://open.spotify.com/album/33hEDxsIVGf7R6wRdZBQOw) | 5:06 | 2023-04-08 |  |
 | [I'll Be There for You \- Theme From "Friends"](https://open.spotify.com/track/15tHagkk8z306XkyOHqiip) | [The Rembrandts](https://open.spotify.com/artist/0gDg7FEsF4Y1jWddJJgcn4) | [L.P.](https://open.spotify.com/album/6koDBGMqurYl3EZnaxCF7N) | 3:08 | 2023-04-08 |  |

@@ -1743,6 +1743,24 @@
     },
     {
       "album": {
+        "name": "Born Digital",
+        "url": "https://open.spotify.com/album/2j3cS6gipRVSWiLKzcKHyz"
+      },
+      "artists": [
+        {
+          "name": "Pretty Pink",
+          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201120,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/6tDzxYw5unq4XtGxxD1Nvz"
+    },
+    {
+      "album": {
         "name": "Euphorica",
         "url": "https://open.spotify.com/album/5DmKIOsy8y4Apjshx5EmMc"
       },
@@ -1940,7 +1958,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 178750,
       "name": "Feel Again",
       "url": "https://open.spotify.com/track/2oPwqbELgu5i1UtsjqkR3H"
@@ -3940,7 +3958,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-01",
+      "date_removed": null,
       "duration_ms": 228875,
       "name": "My Armour",
       "url": "https://open.spotify.com/track/0dcF0b9gjuGV3aCzjq5h6h"
@@ -4676,7 +4694,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 231739,
       "name": "Playing Chess",
       "url": "https://open.spotify.com/track/2leNp4jIw6UIypwbcIVR3S"

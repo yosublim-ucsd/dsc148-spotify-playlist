@@ -4,7 +4,7 @@
 
 > Latin music bangers for your gaming session! Cover: Eladio Carrion
 
-466 songs - 1 day 2 hr 52 min
+467 songs - 1 day 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [A Veces \(feat\. Feid\)](https://open.spotify.com/track/63OA8vSo2PhUkmQopR1l64) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [A Veces \(feat\. Feid\)](https://open.spotify.com/album/5IUJCo0aRD98yxFbTvEezC) | 3:11 | 2023-04-03 |  |
 | [Adicto \(with Anuel AA & Ozuna\)](https://open.spotify.com/track/3jbT1Y5MoPwEIpZndDDwVq) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Adicto \(with Anuel AA & Ozuna\)](https://open.spotify.com/album/7nqA49hzXJWPH4cnM8nk6x) | 4:30 | 2021-12-16 | 2023-04-04 |
 | [Agua de Jamaica](https://open.spotify.com/track/41BzKiCrKpUQHS3TP0jmdr) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [\#7DJ \(7 Días En Jamaica\)](https://open.spotify.com/album/7vZC8PTQUCcw3687OxqY98) | 2:56 | 2021-12-16 | 2022-04-30 |
-| [AGUARDIENTE](https://open.spotify.com/track/6jhB0WW148mVOX7VuV2ga0) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [AGUARDIENTE](https://open.spotify.com/album/1ox6fzQPXwDtsTg8EQrplp) | 2:47 | 2023-04-03 |  |
+| [AGUARDIENTE](https://open.spotify.com/track/6jhB0WW148mVOX7VuV2ga0) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [AGUARDIENTE](https://open.spotify.com/album/1ox6fzQPXwDtsTg8EQrplp) | 2:47 | 2023-04-03 | 2023-04-16 |
 | [AHORA QUÉ](https://open.spotify.com/track/5qP24CrDI0rmY5zwRvUfzU) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [DONDE QUIERO ESTAR](https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3) | 2:51 | 2023-04-03 |  |
 | [Air Drop](https://open.spotify.com/track/1WUUjDzH1ZMIPz3194CLid) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Air Drop](https://open.spotify.com/album/3KxXkPVVFrxP8V11o3cgLf) | 3:25 | 2021-12-16 | 2023-04-04 |
 | [AIRBNB](https://open.spotify.com/track/0fuyLaeHh0TvQ65m5ojgP2) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 3:05 | 2023-04-03 |  |
@@ -456,6 +456,7 @@
 | [VISTA AL MAR](https://open.spotify.com/track/7iwJOi3hlMqZt6pj1sQOBj) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [VISTA AL MAR](https://open.spotify.com/album/5ihYKNgcOMifCJmcGp7CkW) | 3:00 | 2023-04-03 |  |
 | [Vivo De Bichote](https://open.spotify.com/track/7vBBw9NWKIIB1NEHrhbeOc) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi) | [Vivo De Bichote](https://open.spotify.com/album/4gBynrkIBlOwPKtL2xrsZe) | 3:37 | 2022-01-01 | 2022-04-20 |
 | [Volando \- Remix](https://open.spotify.com/track/0G2zPzWqVjR68iNPmx2TBe) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Volando \(Remix\)](https://open.spotify.com/album/4MCZWUKxkvdMITh4KapBKX) | 4:33 | 2022-02-05 | 2023-04-04 |
+| [VOODOO](https://open.spotify.com/track/2SRiJNA3yILEMOPbETtL6M) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 2:46 | 2023-04-03 |  |
 | [Vuelva A Ver \- Remix](https://open.spotify.com/track/3jUBszAaGpZq2Nw12j6bVR) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Vuelva A Ver \(Remix\)](https://open.spotify.com/album/60XkbT1m1OnGBZ5beuUoNu) | 4:27 | 2021-12-16 | 2022-04-30 |
 | [WACHA](https://open.spotify.com/track/5RmSunLqeDqNWww8LWhAiK) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [WACHA](https://open.spotify.com/album/6DHfMP3XhSQYlxs5a9l7s4) | 3:26 | 2021-12-16 | 2023-04-04 |
 | [WANDA](https://open.spotify.com/track/0Iozrbed8spxoBnmtBMshO) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [DONDE QUIERO ESTAR](https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3) | 2:40 | 2023-04-03 |  |

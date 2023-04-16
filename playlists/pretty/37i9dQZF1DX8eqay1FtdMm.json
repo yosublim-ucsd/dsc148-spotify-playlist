@@ -1,12 +1,12 @@
 {
   "description": "Meet the vocalists representing Korea! (Cover:\bAylah(\uc544\uc77c\ub77c)) (\ub300\ud55c\ubbfc\uad6d\uc744 \ub300\ud45c\ud558\ub294 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 317901,
+  "num_followers": 317975,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDc1MjM5OCwwMDAwMDAwMDVjZWJlZTA2OWFkMWI5ZTkwOGYxNzY1ZGE2NjcwZjNm",
+  "snapshot_id": "MTY4MDc1MjM5OCwwMDAwMDAwMGU4YzY0YjA0OWRhMDRlYjRhM2RlNzAzNGQ3ZDFjOWRm",
   "tracks": [
     {
       "added_at": "2023-03-31 10:23:23",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/3cgDEWthQdpLcTTeWMV0VB"
     },
     {
-      "added_at": "2023-04-15 01:05:29",
+      "added_at": "2023-04-16 01:27:18",
       "album": {
         "name": "Anomaly",
         "url": "https://open.spotify.com/album/1pYNoczdbcFbN7udLlB1t0"
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
-        "name": "Alchemy of Souls, Pt. 6 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/6ORZQE6DlroG3iYfnv1kLa"
-      },
-      "artists": [
-        {
-          "name": "Kim Na Young",
-          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
-        }
-      ],
-      "duration_ms": 267280,
-      "name": "Breath",
-      "url": "https://open.spotify.com/track/3FduLmIal9YnzHZp2vTZKl"
-    },
-    {
-      "added_at": "2023-03-31 10:23:23",
-      "album": {
         "name": "Through the Night",
         "url": "https://open.spotify.com/album/1zQnkQc68sQj2Ns5GIuxld"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 253293,
       "name": "Through the Night",
       "url": "https://open.spotify.com/track/1Bb6jVrsg8cXxMCBxIWJUn"
+    },
+    {
+      "added_at": "2023-03-31 10:23:23",
+      "album": {
+        "name": "Alchemy of Souls, Pt. 6 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6ORZQE6DlroG3iYfnv1kLa"
+      },
+      "artists": [
+        {
+          "name": "Kim Na Young",
+          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
+        }
+      ],
+      "duration_ms": 267280,
+      "name": "Breath",
+      "url": "https://open.spotify.com/track/3FduLmIal9YnzHZp2vTZKl"
     },
     {
       "added_at": "2023-03-31 10:23:23",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
-        "name": "my life",
-        "url": "https://open.spotify.com/album/1JzvEZ8BtBvjwrqOj0OdLS"
-      },
-      "artists": [
-        {
-          "name": "Mark Tuan",
-          "url": "https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB"
-        }
-      ],
-      "duration_ms": 174990,
-      "name": "my life",
-      "url": "https://open.spotify.com/track/53Iv4XnDyFKnMXVaiiCcdv"
-    },
-    {
-      "added_at": "2023-03-31 10:23:23",
-      "album": {
         "name": "Back In Time (The Moon during the Day X K.will)",
         "url": "https://open.spotify.com/album/76XdJaCbVbGzUv2JyEmn0x"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 225120,
       "name": "Back In Time (The Moon during the Day X K.will)",
       "url": "https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe"
+    },
+    {
+      "added_at": "2023-03-31 10:23:23",
+      "album": {
+        "name": "my life",
+        "url": "https://open.spotify.com/album/1JzvEZ8BtBvjwrqOj0OdLS"
+      },
+      "artists": [
+        {
+          "name": "Mark Tuan",
+          "url": "https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB"
+        }
+      ],
+      "duration_ms": 174990,
+      "name": "my life",
+      "url": "https://open.spotify.com/track/53Iv4XnDyFKnMXVaiiCcdv"
     },
     {
       "added_at": "2023-03-31 10:23:23",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
-        "name": "Always with you",
-        "url": "https://open.spotify.com/album/1nmOHceICDLOOI3IgPHvdu"
+        "name": "Unlock My Boss, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5BJ9IiO5MevsSlzjHoOPK9"
       },
       "artists": [
         {
-          "name": "Kim MinSeok",
-          "url": "https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA"
+          "name": "Sion",
+          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
         }
       ],
-      "duration_ms": 262000,
-      "name": "Always with you",
-      "url": "https://open.spotify.com/track/6tNtfR4sJfEzQmjhg7gWzy"
+      "duration_ms": 202858,
+      "name": "Lie to me",
+      "url": "https://open.spotify.com/track/49kvzhrGeGe4drWi8NNj1A"
     },
     {
       "added_at": "2023-03-31 10:23:23",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
-        "name": "Unlock My Boss, Pt. 1 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5BJ9IiO5MevsSlzjHoOPK9"
+        "name": "My Liberation Notes OST Part 1",
+        "url": "https://open.spotify.com/album/05gkwvfw8flLmPLx6rkmbJ"
       },
       "artists": [
         {
-          "name": "Sion",
-          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
+          "name": "HEN",
+          "url": "https://open.spotify.com/artist/3Cit2bKhLzwUJPmP6jnXDC"
         }
       ],
-      "duration_ms": 202858,
-      "name": "Lie to me",
-      "url": "https://open.spotify.com/track/49kvzhrGeGe4drWi8NNj1A"
+      "duration_ms": 218621,
+      "name": "Deeply",
+      "url": "https://open.spotify.com/track/43SfjbiRYF7jhZKNiFPCVG"
     },
     {
       "added_at": "2023-03-31 10:23:23",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
-        "name": "My Liberation Notes OST Part 1",
-        "url": "https://open.spotify.com/album/05gkwvfw8flLmPLx6rkmbJ"
+        "name": "Always with you",
+        "url": "https://open.spotify.com/album/1nmOHceICDLOOI3IgPHvdu"
       },
       "artists": [
         {
-          "name": "HEN",
-          "url": "https://open.spotify.com/artist/3Cit2bKhLzwUJPmP6jnXDC"
+          "name": "Kim MinSeok",
+          "url": "https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA"
         }
       ],
-      "duration_ms": 218621,
-      "name": "Deeply",
-      "url": "https://open.spotify.com/track/43SfjbiRYF7jhZKNiFPCVG"
+      "duration_ms": 262000,
+      "name": "Always with you",
+      "url": "https://open.spotify.com/track/6tNtfR4sJfEzQmjhg7gWzy"
     },
     {
       "added_at": "2023-03-31 10:23:23",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
-        "name": "Rookie Cops (Original Television Soundtrack) Pt. 1",
-        "url": "https://open.spotify.com/album/3Ra3w8SYFm3Oaou3Per5bn"
-      },
-      "artists": [
-        {
-          "name": "Chancellor",
-          "url": "https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx"
-        }
-      ],
-      "duration_ms": 212146,
-      "name": "Because of You",
-      "url": "https://open.spotify.com/track/5jZYTT8lSXiVzkpiBTQGTj"
-    },
-    {
-      "added_at": "2023-03-31 10:23:23",
-      "album": {
         "name": "Drunken confession at night",
         "url": "https://open.spotify.com/album/6ckoOynVQtEj04mbOAyGAh"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 246491,
       "name": "Drunken confession at night (Prod. 2soo)",
       "url": "https://open.spotify.com/track/2Jvl8m0bAt7bS76pLsMeJk"
+    },
+    {
+      "added_at": "2023-03-31 10:23:23",
+      "album": {
+        "name": "Rookie Cops (Original Television Soundtrack) Pt. 1",
+        "url": "https://open.spotify.com/album/3Ra3w8SYFm3Oaou3Per5bn"
+      },
+      "artists": [
+        {
+          "name": "Chancellor",
+          "url": "https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx"
+        }
+      ],
+      "duration_ms": 212146,
+      "name": "Because of You",
+      "url": "https://open.spotify.com/track/5jZYTT8lSXiVzkpiBTQGTj"
     },
     {
       "added_at": "2023-03-31 10:23:23",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
+        "name": "Wish & Wind",
+        "url": "https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 238022,
+      "name": "didn't know me",
+      "url": "https://open.spotify.com/track/4Ompd9kJo9Os4yB0YFzsEC"
+    },
+    {
+      "added_at": "2023-03-31 10:23:23",
+      "album": {
         "name": "NANGMAN",
         "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 370946,
       "name": "Hachiko (Feat. Sion, Yescoba, Dayoung Ahn)",
       "url": "https://open.spotify.com/track/4MrCH9VqTyEKmeXQ7m6Geh"
-    },
-    {
-      "added_at": "2023-03-31 10:23:23",
-      "album": {
-        "name": "Wish & Wind",
-        "url": "https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        }
-      ],
-      "duration_ms": 238022,
-      "name": "didn't know me",
-      "url": "https://open.spotify.com/track/4Ompd9kJo9Os4yB0YFzsEC"
     },
     {
       "added_at": "2023-03-31 10:23:23",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
-        "name": "Cactus",
-        "url": "https://open.spotify.com/album/5dm1Wf0mTF0PwY3tXqohVI"
-      },
-      "artists": [
-        {
-          "name": "Jang Jane",
-          "url": "https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY"
-        }
-      ],
-      "duration_ms": 214346,
-      "name": "Cactus",
-      "url": "https://open.spotify.com/track/6iLgcK64cgkctviVp6ne9i"
-    },
-    {
-      "added_at": "2023-03-31 10:23:23",
-      "album": {
         "name": "Faith OST",
         "url": "https://open.spotify.com/album/0uFJieT8zGkryWddYK7Vkd"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 267937,
       "name": "Walking Slowly",
       "url": "https://open.spotify.com/track/2zahaztD28KVpM84zFoeQ9"
+    },
+    {
+      "added_at": "2023-03-31 10:23:23",
+      "album": {
+        "name": "Cactus",
+        "url": "https://open.spotify.com/album/5dm1Wf0mTF0PwY3tXqohVI"
+      },
+      "artists": [
+        {
+          "name": "Jang Jane",
+          "url": "https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY"
+        }
+      ],
+      "duration_ms": 214346,
+      "name": "Cactus",
+      "url": "https://open.spotify.com/track/6iLgcK64cgkctviVp6ne9i"
     },
     {
       "added_at": "2023-03-31 10:23:23",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
+        "name": "Dear",
+        "url": "https://open.spotify.com/album/2UKLUzxg6b2A1vZJfuf63p"
+      },
+      "artists": [
+        {
+          "name": "Shin Yong Jae",
+          "url": "https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR"
+        }
+      ],
+      "duration_ms": 240840,
+      "name": "First Line",
+      "url": "https://open.spotify.com/track/2jyX7hcIU3N4DY1n9EKIab"
+    },
+    {
+      "added_at": "2023-03-31 10:23:23",
+      "album": {
         "name": "Starting Now",
         "url": "https://open.spotify.com/album/4HSSyNh3DVQVT2z5Z9cSzy"
       },
@@ -1635,26 +1651,6 @@
       "duration_ms": 224080,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/532r4BnsqKpIEgjp0UzBNu"
-    },
-    {
-      "added_at": "2023-03-31 10:23:23",
-      "album": {
-        "name": "Burn Like A Star",
-        "url": "https://open.spotify.com/album/36xIARKjnu1X4NijtbBpMQ"
-      },
-      "artists": [
-        {
-          "name": "Ahn Ye Eun",
-          "url": "https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs"
-        },
-        {
-          "name": "Woo Ye Rin",
-          "url": "https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL"
-        }
-      ],
-      "duration_ms": 188253,
-      "name": "Burn Like A Star",
-      "url": "https://open.spotify.com/track/0eB4NVRmmtO99SKfvBU56O"
     },
     {
       "added_at": "2023-03-31 10:23:23",

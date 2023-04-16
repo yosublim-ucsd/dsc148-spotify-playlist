@@ -4,7 +4,7 @@
 
 > This is Autechre\. The essential tracks, all in one playlist.
 
-192 songs - 22 hr 56 min
+193 songs - 23 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [6IE.CR](https://open.spotify.com/track/4pWGfHMxp8z9vaOM3oxFWO) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Draft 7.30](https://open.spotify.com/album/1V0mCXjrTqQoq45Ti2hAmO) | 5:38 | 2023-02-10 | 2023-02-17 |
 | [777](https://open.spotify.com/track/5txiIpQhhGzdII7Bci8wuv) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [LP5](https://open.spotify.com/album/7zlbMdBS3J2YQRDuMMT9u4) | 5:49 | 2022-05-29 | 2023-02-14 |
 | [Acroyear2](https://open.spotify.com/track/0YxgETKHayjfYMws5jZ9dw) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [LP5](https://open.spotify.com/album/7zlbMdBS3J2YQRDuMMT9u4) | 8:39 | 2022-05-29 | 2023-01-05 |
-| [Acroyear2](https://open.spotify.com/track/3pxBYL8ZRSAjQSUIxpsxkF) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [LP5](https://open.spotify.com/album/5TiPpuwLSWSJl98yTyE8BK) | 8:39 | 2023-02-14 |  |
+| [Acroyear2](https://open.spotify.com/track/3pxBYL8ZRSAjQSUIxpsxkF) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [LP5](https://open.spotify.com/album/5TiPpuwLSWSJl98yTyE8BK) | 8:39 | 2023-02-14 | 2023-04-16 |
 | [AE\_LIVE\_DUBLIN\_150718](https://open.spotify.com/track/3tSReuefpAAhlkCwtEPRd9) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [AE\_LIVE\_DUBLIN\_150718](https://open.spotify.com/album/1Ly68Zq80UEFoMauz0fTfE) | 1:22:15 | 2023-02-17 | 2023-02-19 |
 | [AE\_LIVE\_NIJMEGEN\_221116](https://open.spotify.com/track/5m7GLQe8H4PFwyIpPmT9MB) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [AE\_LIVE\_NIJMEGEN\_221116](https://open.spotify.com/album/5tgzJZtWLqRbc4rq2HXOqA) | 59:04 | 2022-05-29 | 2022-07-07 |
 | [Altibzz](https://open.spotify.com/track/0uqSV2Q6vvlxhqd1Go0tMh) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Quaristice](https://open.spotify.com/album/21mZBXYBKljtRluyCoCqCK) | 2:52 | 2023-02-17 |  |
@@ -107,7 +107,7 @@
 | [LCC](https://open.spotify.com/track/0mWHa7Im3qdcCjputn38jL) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Untilted](https://open.spotify.com/album/7bcwwfwkWvYbDW72ooywDQ) | 7:46 | 2022-06-15 | 2022-10-09 |
 | [Lentic Catachresis](https://open.spotify.com/track/414U3vaeNd5iAFi3rHsvWF) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Confield](https://open.spotify.com/album/6FPt8HEGHoBGbX0dQnXDPh) | 8:29 | 2022-06-04 | 2022-06-06 |
 | [Leterel](https://open.spotify.com/track/0yLJpvsw4LWBvUcyAb7hBt) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Tri Repetae](https://open.spotify.com/album/0ioIXXMV89w0qC39FpxYnL) | 7:08 | 2022-05-29 | 2023-02-14 |
-| [Leterel](https://open.spotify.com/track/3FDJRnZGAZeSjguTBoktEB) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Tri Repetae](https://open.spotify.com/album/3p1ZD8q3sGC6tf81QeVrYI) | 7:08 | 2023-02-13 | 2023-04-15 |
+| [Leterel](https://open.spotify.com/track/3FDJRnZGAZeSjguTBoktEB) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Tri Repetae](https://open.spotify.com/album/3p1ZD8q3sGC6tf81QeVrYI) | 7:08 | 2023-02-13 |  |
 | [Lost](https://open.spotify.com/track/5seVVzH1SZXwu7UjrDcHnD) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Anti](https://open.spotify.com/album/3RdJbIoZIJEG5rZvpxY8a8) | 7:24 | 2022-05-30 | 2023-02-18 |
 | [Lowride](https://open.spotify.com/track/3Q0OROjrG0wUaF3QFFixB2) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Incunabula](https://open.spotify.com/album/3uQcFgoUvMlfYKy7GUPRXf) | 7:16 | 2023-02-17 |  |
 | [Lowride](https://open.spotify.com/track/7gu3aKNbBq2nSWMhybCfBf) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Incunabula](https://open.spotify.com/album/4KROnLN6Didp0F97RXaW7a) | 7:16 | 2022-05-29 | 2023-02-18 |
@@ -123,7 +123,7 @@
 | [Montreal](https://open.spotify.com/track/4G5lTzfkklIotjt28dhlz3) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/7EfhvG3RwdhzXrFlkDVxg4) | 7:15 | 2022-05-29 | 2023-02-16 |
 | [Nil](https://open.spotify.com/track/1Vd2YEy1uOaOjsAjJ1IMwb) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32) | 7:48 | 2023-02-17 |  |
 | [Nil](https://open.spotify.com/track/7ve54JSHBvuDEqDD5zixOl) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/7EfhvG3RwdhzXrFlkDVxg4) | 7:48 | 2022-05-31 | 2023-02-18 |
-| [Nine](https://open.spotify.com/track/3WOTGJo6xmDxJICPcteIn9) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32) | 3:40 | 2023-02-14 |  |
+| [Nine](https://open.spotify.com/track/3WOTGJo6xmDxJICPcteIn9) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32) | 3:40 | 2023-02-14 | 2023-04-16 |
 | [Nine](https://open.spotify.com/track/7FR8DdPrRieZexZQaGDRWU) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/7EfhvG3RwdhzXrFlkDVxg4) | 3:40 | 2022-05-30 | 2023-02-15 |
 | [Notwo](https://open.spotify.com/track/7hHUHGKvEsce78bcvPZ6kL) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Quaristice](https://open.spotify.com/album/3ZXEJLSFbQ13rhevpc7L0Y) | 5:34 | 2023-02-14 | 2023-02-16 |
 | [os veix3](https://open.spotify.com/track/4yGBuJFneUOpQUJ7QLMYw3) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Oversteps](https://open.spotify.com/album/3xFZIOgTNuu2paDihltjE4) | 4:37 | 2023-02-23 | 2023-04-11 |
@@ -154,7 +154,7 @@
 | [Recury](https://open.spotify.com/track/2EYkcwG4sC73I4zjl6yhXy) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Chiastic Slide](https://open.spotify.com/album/4MjWLFGSAEsfsMjC5iqNON) | 9:44 | 2022-05-29 | 2022-10-13 |
 | [Rettic AC](https://open.spotify.com/track/3QyfMPXAuzX6x1bgkgjuoV) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Chiastic Slide](https://open.spotify.com/album/4MjWLFGSAEsfsMjC5iqNON) | 2:07 | 2022-06-17 | 2022-12-20 |
 | [Rotar](https://open.spotify.com/track/1UI8F0Kz7zrKYZmjb9LeHt) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Tri Repetae](https://open.spotify.com/album/0ioIXXMV89w0qC39FpxYnL) | 8:04 | 2022-05-29 | 2022-10-13 |
-| [Rotar](https://open.spotify.com/track/7gK0WYSlNXlSd2Cp3ukyCt) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Tri Repetae](https://open.spotify.com/album/3p1ZD8q3sGC6tf81QeVrYI) | 8:04 | 2023-03-28 |  |
+| [Rotar](https://open.spotify.com/track/7gK0WYSlNXlSd2Cp3ukyCt) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Tri Repetae](https://open.spotify.com/album/3p1ZD8q3sGC6tf81QeVrYI) | 8:04 | 2023-03-28 | 2023-04-16 |
 | [Rpeg](https://open.spotify.com/track/2Q9vfN92vj9TQgnN5Mq9CK) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [EP7](https://open.spotify.com/album/1KaTIdAepIJDxbSEEL3M2z) | 6:00 | 2022-05-30 | 2022-09-29 |
 | [sch.mefd 2](https://open.spotify.com/track/6ED9r3V1lS4vWi3mAEhRYh) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [SIGN](https://open.spotify.com/album/1KBFcrlvo6vDVOSrWoYy3K) | 5:25 | 2022-06-01 | 2022-10-27 |
 | [Second Bad Vilbel](https://open.spotify.com/track/6IOIjAiwta1b4r2mVQ5leS) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Anvil Vapre](https://open.spotify.com/album/6UcShvT8JIKOaHj39k6A8f) | 9:47 | 2022-05-29 | 2022-12-21 |
@@ -164,7 +164,7 @@
 | [see on see](https://open.spotify.com/track/5bP6GgBa3iMVbywZwD0xV5) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Oversteps](https://open.spotify.com/album/5iaRpin36ZjaOC6PMAZ02l) | 4:37 | 2022-06-03 | 2023-02-15 |
 | [si00](https://open.spotify.com/track/49Ux8dnMRPMDSiNrewL4II) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [SIGN](https://open.spotify.com/album/1KBFcrlvo6vDVOSrWoYy3K) | 5:51 | 2022-05-29 | 2023-02-15 |
 | [si00](https://open.spotify.com/track/4RwJVmTySlB2k9kXxlfoyy) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [SIGN](https://open.spotify.com/album/6bZID6hhfiOoLYwAm3fliK) | 5:51 | 2023-02-14 |  |
-| [Silverside](https://open.spotify.com/track/4BIIlGHtrRrmgDjvd7asDF) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32) | 5:31 | 2023-02-16 | 2023-04-10 |
+| [Silverside](https://open.spotify.com/track/4BIIlGHtrRrmgDjvd7asDF) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32) | 5:31 | 2023-02-16 |  |
 | [Silverside](https://open.spotify.com/track/5tFioPH3Hw6bbbewX3Aokj) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/7EfhvG3RwdhzXrFlkDVxg4) | 5:31 | 2022-06-02 | 2023-02-10 |
 | [Sim Gishel](https://open.spotify.com/track/5iliZ1RSIVXvdg9xxMdvG4) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Confield](https://open.spotify.com/album/6FPt8HEGHoBGbX0dQnXDPh) | 7:14 | 2022-05-30 | 2022-10-12 |
 | [Sim Gishel](https://open.spotify.com/track/7MrOZhA1YBYXNdw5aLABSx) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Confield](https://open.spotify.com/album/7fMTyCtIeBoYck15biPRaQ) | 7:14 | 2023-02-27 |  |
@@ -195,6 +195,7 @@
 | [VI Scose Poise](https://open.spotify.com/track/590UMXfthFy1uWpW8HvCQo) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Confield](https://open.spotify.com/album/6FPt8HEGHoBGbX0dQnXDPh) | 6:56 | 2022-05-29 | 2023-02-13 |
 | [VLetrmx](https://open.spotify.com/track/56p0LzMVbPMQU4Gf5rsK8e) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Garbage](https://open.spotify.com/album/7d7WtcAp4qNtfwOqzAPQMJ) | 8:27 | 2023-02-16 |  |
 | [VLetrmx](https://open.spotify.com/track/7iupjrZvckPcvC4aeqeqcC) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Garbage](https://open.spotify.com/album/31nThm3LyQVvrndqxhvjWl) | 8:27 | 2022-05-29 | 2023-02-17 |
+| [Vose In](https://open.spotify.com/track/6MYEvB2nXSUZtzpAUXek0U) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [LP5](https://open.spotify.com/album/5TiPpuwLSWSJl98yTyE8BK) | 5:21 | 2023-04-15 |  |
 | [Windwind](https://open.spotify.com/track/2MWTad6dU7uVS8VLV9VZPP) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Incunabula](https://open.spotify.com/album/4KROnLN6Didp0F97RXaW7a) | 11:17 | 2022-07-29 | 2022-09-20 |
 | [xflood](https://open.spotify.com/track/0FidCk4TNQUd0QjuronWmO) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [NTS Session 2](https://open.spotify.com/album/2WDQyrKx5vBIFptYBEAxQY) | 9:24 | 2023-02-13 | 2023-02-15 |
 | [Yulquen](https://open.spotify.com/track/3PGYnbU4HJDUw01PrME2pz) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/7EfhvG3RwdhzXrFlkDVxg4) | 6:37 | 2022-05-29 | 2023-02-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WDAdlq5HvZ.md) - [plain]
 
 > Happy Mother's Day!  Send love to all the mothers and remind them what a blessing they are with these songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,088 likes - 80 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,132 likes - 80 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WDAdlq5HvZ.md) - [plain]
 | 61 | [Growing Older](https://open.spotify.com/track/14k60OKl7V2yTdz1GAZfVL) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Growing Older](https://open.spotify.com/album/5Lo7IsaSNCaqnYsUGbhU60) | 3:31 |
 | 62 | [More Than I Could Be](https://open.spotify.com/track/5eeRjz62jBGLuLgjxVI1AR) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Haven't Seen It Yet](https://open.spotify.com/album/1keC2a4EU43ByCNGktRgB6) | 3:14 |
 | 63 | [Hello Beautiful](https://open.spotify.com/track/1l8lZRPPZHthXeyZHaujqe) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Lifer](https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac) | 3:19 |
-| 64 | [All the Poor and Powerless](https://open.spotify.com/track/23aRQxzv8AbUOAV4czlNmp) | [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir), [Leslie Jordan](https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh), [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Brokenness Aside EP No\. 1](https://open.spotify.com/album/4vSGmXFf0i2RVYAj03pKha) | 5:42 |
-| 65 | [We Will Dance](https://open.spotify.com/track/1vvKpTt15DT2xWA6mNcF6o) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [All About Love](https://open.spotify.com/album/0GtzQXs1ecJK73NsRXfXAM) | 4:40 |
+| 64 | [We Will Dance](https://open.spotify.com/track/1vvKpTt15DT2xWA6mNcF6o) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [All About Love](https://open.spotify.com/album/0GtzQXs1ecJK73NsRXfXAM) | 4:40 |
+| 65 | [All the Poor and Powerless](https://open.spotify.com/track/23aRQxzv8AbUOAV4czlNmp) | [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir), [Leslie Jordan](https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh), [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Brokenness Aside EP No\. 1](https://open.spotify.com/album/4vSGmXFf0i2RVYAj03pKha) | 5:42 |
 | 66 | [Brave](https://open.spotify.com/track/32giMY83e2xbyBjwAQy3eb) | [Nichole Nordeman](https://open.spotify.com/artist/0KSjxPoT71Dq8qcgfWTdHh) | [Brave](https://open.spotify.com/album/7r4A9DBkkirmHSfN7yAbCG) | 4:15 |
 | 67 | [I'm Standing With You \- From "Breakthrough" Soundtrack](https://open.spotify.com/track/7AlVjh1sSW5PLtqhoNgHPP) | [Chrissy Metz](https://open.spotify.com/artist/1UxVEV7mxsSuRZG7niH70a) | [I'm Standing With You \(From "Breakthrough" Soundtrack\)](https://open.spotify.com/album/5DRGqj2uMeWo3QWdn9wbMx) | 4:05 |
 | 68 | [Pave](https://open.spotify.com/track/1495RSGXl41AGVT4dMwzgQ) | [Britt Nicole](https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK) | [Britt Nicole \(Deluxe Edition\)](https://open.spotify.com/album/3fKx9rru6A6SLwit7SOoOM) | 3:30 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WDAdlq5HvZ.md) - [plain]
 | 70 | [Paving the Runway \(You're Gonna Fly\)](https://open.spotify.com/track/118yj2gBlUuImGrZeMuTUj) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Paving the Runway \(You're Gonna Fly\)](https://open.spotify.com/album/0qqN2oera2BjXRoZzMO3ma) | 3:23 |
 | 71 | [A Mother's Prayer](https://open.spotify.com/track/1F5PuzqMF7joAGLoO86Hcf) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Moya Brennan](https://open.spotify.com/artist/3ZvmmlF8EMEpnnK90jfuJv) | [Hymns For The Christian Life \(Deluxe\)](https://open.spotify.com/album/0ErgJiXJ7wucA4jmacB3wB) | 5:19 |
 | 72 | [Me](https://open.spotify.com/track/3eQ85lzNu0ZmzSIqbOIMTl) | [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [Blink](https://open.spotify.com/album/3r9SKtHFReLzHXaswU4S49) | 4:33 |
-| 73 | [Little Boy On His Knees AKA Cameron's Song](https://open.spotify.com/track/6Hczkb1UlY1QfS0aO8nqTN) | [Cheri Keaggy](https://open.spotify.com/artist/0TJpmZw9iFR95HEsRxcvzL) | [Child Of The Father](https://open.spotify.com/album/6yePsevSZkLJtIxLUAQVJG) | 3:36 |
-| 74 | [I Am Loved](https://open.spotify.com/track/2ypIhH4TaZQ1Pux0to1ceP) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Christian Music 2020](https://open.spotify.com/album/7i58toAI9y2adGP64UJ2Xc) | 7:12 |
+| 73 | [I Am Loved](https://open.spotify.com/track/2ypIhH4TaZQ1Pux0to1ceP) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Christian Music 2020](https://open.spotify.com/album/7i58toAI9y2adGP64UJ2Xc) | 7:12 |
+| 74 | [Little Boy On His Knees AKA Cameron's Song](https://open.spotify.com/track/6Hczkb1UlY1QfS0aO8nqTN) | [Cheri Keaggy](https://open.spotify.com/artist/0TJpmZw9iFR95HEsRxcvzL) | [Child Of The Father](https://open.spotify.com/album/6yePsevSZkLJtIxLUAQVJG) | 3:36 |
 | 75 | [Mamma's Kitchen](https://open.spotify.com/track/17toD0xlCUdWdn4B47uvr5) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Purified](https://open.spotify.com/album/6FfAauX1EP2zHgPoOnwWZ8) | 3:05 |
 | 76 | [Mother's Day](https://open.spotify.com/track/3ZpuWtuKqvssoyMeSc4i3M) | [Kellie Pickler](https://open.spotify.com/artist/021hNAnkFIbyFyL97br6NB) | [100 Proof](https://open.spotify.com/album/4r4cqfO40mFUgVCnoeuE7e) | 3:40 |
 | 77 | [One Heartbeat At A Time](https://open.spotify.com/track/26nITVQTFc1HtJZt5B1DMe) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [This Moment](https://open.spotify.com/album/0D5Xb7LlTG0qQjdtKv92LM) | 4:04 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WDAdlq5HvZ.md) - [plain]
 | 79 | [O God Our Mother](https://open.spotify.com/track/1CFsZ1rppH7wb9tJ6BW3Wm) | [Samantha McCabe](https://open.spotify.com/artist/7jEdW0KbQk4baXIdRNHArL) | [O God Our Mother](https://open.spotify.com/album/0QRDfO8uH9FiyoETaU4Vda) | 3:41 |
 | 80 | [Momma Kinda Lovin](https://open.spotify.com/track/4k3N2Sh67ov5t0qJLudDp1) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Momma Kinda Lovin](https://open.spotify.com/album/5O8hVjPeB8q8yMAFWDwal2) | 3:40 |
 
-Snapshot ID: `MTY1MTgwOTcyMCwwMDAwMDAwMGZmNGIzMjQ5YWI0ZDZjZTI3MWI0Nzg1NDk1YjNlMzA5`
+Snapshot ID: `MTY1MTgwOTcyMCwwMDAwMDAwMDUyZDM4ZWRlYzU1OTdlZDE3NzBmY2E0ZTMyMmJkZTVk`

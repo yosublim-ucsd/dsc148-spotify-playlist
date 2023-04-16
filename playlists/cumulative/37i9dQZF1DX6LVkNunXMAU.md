@@ -4,7 +4,7 @@
 
 > Dulce y ácido: indie pop latino en estado natural\. Foto: Luz Pinos
 
-163 songs - 9 hr 7 min
+164 songs - 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [En una](https://open.spotify.com/track/0JljvMGjWcpbKY5pultmMb) | [Camila Buch](https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV), [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [En una](https://open.spotify.com/album/0ksnp7Yvn8AqWXAyhiZLD1) | 3:39 | 2022-08-26 |  |
 | [Enero](https://open.spotify.com/track/1IUVBjVaK08NIpU0OjRZrF) | [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF) | [atte\. Celli](https://open.spotify.com/album/3DupetZzSGjEyXBpZno7v3) | 3:08 | 2022-05-20 | 2023-04-15 |
 | [Entrar a la luna](https://open.spotify.com/track/1DJCk36SjR5rGighWlHjjX) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [La Santa Patrona de los Corazones Negros](https://open.spotify.com/album/2ajge8g0wBGDtctb0y59IR) | 2:51 | 2023-04-07 |  |
+| [Es Tan Bonita](https://open.spotify.com/track/05lyKjGs0wYxWvoxWnJQju) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y), [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Es Tan Bonita](https://open.spotify.com/album/3YkDljxrqjy8O4CEJQkvLY) | 2:39 | 2023-04-14 |  |
 | [Frontera](https://open.spotify.com/track/6PegnsNXWaVzIsMY6kKKgm) | [Arranquemos del Invierno](https://open.spotify.com/artist/6TohVx7C5O24NqelCsIdfs) | [El Poder del Mar](https://open.spotify.com/album/1ruz4l7Q6kJu92ezyaMYYL) | 4:36 | 2022-05-20 | 2023-04-09 |
 | [Helen K](https://open.spotify.com/track/6NSdapUFwuOgX2T8aItLQG) | [Malva Vela](https://open.spotify.com/artist/42gMsjzIofZl8uTc1NmRHz) | [Helen K](https://open.spotify.com/album/4JqiejiPOtH4DiW8IWP9rt) | 2:58 | 2022-05-20 | 2023-04-15 |
 | [Hoy Es Hoy](https://open.spotify.com/track/3H4XQcBxCptMYEou4tsjVd) | [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [Hoy Es Hoy](https://open.spotify.com/album/3iU8y5kOdMIPMdaRaHyhmF) | 2:54 | 2022-05-20 | 2023-04-15 |
@@ -122,7 +123,7 @@
 | [Paredes Finas](https://open.spotify.com/track/73k8ezRBHx9LSSGufofMbc) | [Mauro Samaniego](https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L) | [Simona a Guitarra y Voz \(Lado A\)](https://open.spotify.com/album/3LnuQLn6sRN58vctyqd9NC) | 4:07 | 2022-08-26 |  |
 | [parkour](https://open.spotify.com/track/4tr21CwLteQmwz1E1IwgZY) | [Martin Oliver](https://open.spotify.com/artist/3RiVbzQAmviwm6NPFlHYIm) | [parkour](https://open.spotify.com/album/5rXCyHFLbBRDCMzcIpkVnL) | 3:50 | 2023-04-07 |  |
 | [Particular](https://open.spotify.com/track/7vqHU0ctwwedqb7J9QrUUi) | [TORO](https://open.spotify.com/artist/6uX4tGhWrgAzr8UtRnK96Y), [INE](https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB) | [Particular](https://open.spotify.com/album/4yGbRVdQ4kVluOxL7y41cj) | 2:45 | 2023-04-07 |  |
-| [Pasajeros](https://open.spotify.com/track/65VrYowEhFUUuyK8DQKdHY) | [Borneo](https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz) | [Pasajeros](https://open.spotify.com/album/71slCIIGbJjaIpH8VHUAww) | 2:45 | 2022-05-20 |  |
+| [Pasajeros](https://open.spotify.com/track/65VrYowEhFUUuyK8DQKdHY) | [Borneo](https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz) | [Pasajeros](https://open.spotify.com/album/71slCIIGbJjaIpH8VHUAww) | 2:45 | 2022-05-20 | 2023-04-16 |
 | [Pedazos](https://open.spotify.com/track/0l1Tm2iXjJVXtHYFCdxpAK) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Pedazos](https://open.spotify.com/album/2pHGFbI5w68m2LvFwRKxCI) | 2:44 | 2022-05-20 | 2023-04-15 |
 | [Piel Canela](https://open.spotify.com/track/7qBT9qcbtkLqrfm9LiTNB4) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Piel Canela](https://open.spotify.com/album/2sNKWMhg0kOHdPDlvl0w6t) | 1:42 | 2022-05-20 | 2023-04-15 |
 | [Postre](https://open.spotify.com/track/1L4i0cetFrhBUaAvBLjRle) | [Pastrana](https://open.spotify.com/artist/1enRTUJ9Oj9TzWSMPAYuJY) | [Postre](https://open.spotify.com/album/5aI3QrUUCGDXYwCsvHuWpK) | 3:00 | 2022-11-11 | 2023-04-15 |

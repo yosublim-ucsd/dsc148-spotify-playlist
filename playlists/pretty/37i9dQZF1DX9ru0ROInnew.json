@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 85506,
+  "num_followers": 85577,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI0NDg1MywwMDAwMDAwMGY5ZThjZjMzMmMxMjhlMDM4MWM1ZDNiYjZjNDU5NWJm",
+  "snapshot_id": "MTY3MzI0NDg1MywwMDAwMDAwMDEzYTY1MTgzNzA2MzcyMGJlMTNhZTU1ZTU1N2FjYjMx",
   "tracks": [
     {
       "added_at": "2023-01-09 06:14:13",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-01-09 06:14:13",
       "album": {
-        "name": "A Mi Manera",
-        "url": "https://open.spotify.com/album/38KUTPLiMJCq0hCxSg9iTL"
-      },
-      "artists": [
-        {
-          "name": "Omy de Oro",
-          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
-        }
-      ],
-      "duration_ms": 158786,
-      "name": "A Mi Manera",
-      "url": "https://open.spotify.com/track/0g9BEw3stYObQaDvgwV8It"
-    },
-    {
-      "added_at": "2023-01-09 06:14:13",
-      "album": {
         "name": "Enemigos Ocultos",
         "url": "https://open.spotify.com/album/3iH46vXV6xBilANZ2NBsFC"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 445746,
       "name": "Enemigos Ocultos",
       "url": "https://open.spotify.com/track/4DAuAtmSJEYoCDR3xpeliX"
+    },
+    {
+      "added_at": "2023-01-09 06:14:13",
+      "album": {
+        "name": "A Mi Manera",
+        "url": "https://open.spotify.com/album/38KUTPLiMJCq0hCxSg9iTL"
+      },
+      "artists": [
+        {
+          "name": "Omy de Oro",
+          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
+        }
+      ],
+      "duration_ms": 158786,
+      "name": "A Mi Manera",
+      "url": "https://open.spotify.com/track/0g9BEw3stYObQaDvgwV8It"
     },
     {
       "added_at": "2023-01-09 06:14:13",

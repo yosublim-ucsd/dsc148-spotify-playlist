@@ -1,12 +1,12 @@
 {
   "description": "Un playlist que te llena de esperanza.  \u00a1Con fe!",
-  "num_followers": 221721,
+  "num_followers": 221851,
   "original_name": "Con Fe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjIyNDIxOCwwMDAwMDAwMGZjMTc2MzI5NjhlYzM0OWMxYjJiZjU4NDUzYWQ2YzM4",
+  "snapshot_id": "MTYwNjIyNDIxOCwwMDAwMDAwMDIxN2I1NzBjODlmOWI2M2NlNDc5ZmMxMWQ4ZGJjYmUz",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:38",
@@ -147,22 +147,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Listo Para Nuestro Encuentro",
-        "url": "https://open.spotify.com/album/2gnGnvNJzXxlwy837iHs7O"
-      },
-      "artists": [
-        {
-          "name": "Abel Zavala",
-          "url": "https://open.spotify.com/artist/0UH4eoqwQgADwRoaKtEKc1"
-        }
-      ],
-      "duration_ms": 204493,
-      "name": "El Padre Que Siempre So\u00f1\u00e9",
-      "url": "https://open.spotify.com/track/1mjyjgatJGw8DtNTejtztn"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "Gente Comun Sue\u00f1os Extraordinarios",
         "url": "https://open.spotify.com/album/5Yj2mPciYoTKNEP3WadauI"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 302471,
       "name": "Creere",
       "url": "https://open.spotify.com/track/2ORT42xQNKCKIEzIIqxbEv"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Listo Para Nuestro Encuentro",
+        "url": "https://open.spotify.com/album/2gnGnvNJzXxlwy837iHs7O"
+      },
+      "artists": [
+        {
+          "name": "Abel Zavala",
+          "url": "https://open.spotify.com/artist/0UH4eoqwQgADwRoaKtEKc1"
+        }
+      ],
+      "duration_ms": 204493,
+      "name": "El Padre Que Siempre So\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/1mjyjgatJGw8DtNTejtztn"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -807,18 +807,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Vivo para Ti",
-        "url": "https://open.spotify.com/album/3Ceaj1zts2EVTqzGV0JcLQ"
+        "name": "Me Has Hecho Libre",
+        "url": "https://open.spotify.com/album/0dNBk8BUcnZoA0YouvHGRP"
       },
       "artists": [
         {
-          "name": "Daniel Calveti",
-          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
+          "name": "Esperanza de Vida",
+          "url": "https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1"
         }
       ],
-      "duration_ms": 263732,
-      "name": "La Ultima Palabra",
-      "url": "https://open.spotify.com/track/5sZZC9Dx3erwSmle0ncMJw"
+      "duration_ms": 374491,
+      "name": "Me rindo ante ti",
+      "url": "https://open.spotify.com/track/1yOT1gkct6I0w4wPBNc3y1"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -879,24 +879,8 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Me Has Hecho Libre",
-        "url": "https://open.spotify.com/album/0dNBk8BUcnZoA0YouvHGRP"
-      },
-      "artists": [
-        {
-          "name": "Esperanza de Vida",
-          "url": "https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1"
-        }
-      ],
-      "duration_ms": 374491,
-      "name": "Me rindo ante ti",
-      "url": "https://open.spotify.com/track/1yOT1gkct6I0w4wPBNc3y1"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
-        "name": "Mi Refugio",
-        "url": "https://open.spotify.com/album/1tQiDUKWTbToF8mpA0GZNm"
+        "name": "Vivo para Ti",
+        "url": "https://open.spotify.com/album/3Ceaj1zts2EVTqzGV0JcLQ"
       },
       "artists": [
         {
@@ -904,25 +888,9 @@
           "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
         }
       ],
-      "duration_ms": 196866,
-      "name": "Mi Historia De Amor",
-      "url": "https://open.spotify.com/track/4Io9nq91YUZNcCeQ0zDcID"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
-        "name": "Devoci\u00f3n",
-        "url": "https://open.spotify.com/album/6BQVnLlE5XJh8UY68xp4lk"
-      },
-      "artists": [
-        {
-          "name": "Danilo Montero",
-          "url": "https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF"
-        }
-      ],
-      "duration_ms": 472493,
-      "name": "Revelacion",
-      "url": "https://open.spotify.com/track/6qYidY706dT5LxQSmbTg94"
+      "duration_ms": 263732,
+      "name": "La Ultima Palabra",
+      "url": "https://open.spotify.com/track/5sZZC9Dx3erwSmle0ncMJw"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -939,6 +907,22 @@
       "duration_ms": 285000,
       "name": "No Me Digas Adi\u00f3s",
       "url": "https://open.spotify.com/track/3egMhO3nfCiet0IGp95czv"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Devoci\u00f3n",
+        "url": "https://open.spotify.com/album/6BQVnLlE5XJh8UY68xp4lk"
+      },
+      "artists": [
+        {
+          "name": "Danilo Montero",
+          "url": "https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF"
+        }
+      ],
+      "duration_ms": 472493,
+      "name": "Revelacion",
+      "url": "https://open.spotify.com/track/6qYidY706dT5LxQSmbTg94"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -975,6 +959,22 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
+        "name": "Inquebrantable",
+        "url": "https://open.spotify.com/album/4tsFZXkN7eXwhY4ujk6C3u"
+      },
+      "artists": [
+        {
+          "name": "Ruth Mixter",
+          "url": "https://open.spotify.com/artist/6Y3LN0FCFH8p38tlH7ctJA"
+        }
+      ],
+      "duration_ms": 329013,
+      "name": "Por el poder de tu amor (The power of your Love)",
+      "url": "https://open.spotify.com/track/3euqm8P1Mye2BiCEtjwFbT"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
         "name": "Glorificad a Jehov\u00e1",
         "url": "https://open.spotify.com/album/4lUhv9nQbzpz4fU8WEuGLd"
       },
@@ -991,22 +991,6 @@
       "duration_ms": 183040,
       "name": "Como Hizo David",
       "url": "https://open.spotify.com/track/75IhuMXXHxnSCnaWKwPjSQ"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
-        "name": "Inquebrantable",
-        "url": "https://open.spotify.com/album/4tsFZXkN7eXwhY4ujk6C3u"
-      },
-      "artists": [
-        {
-          "name": "Ruth Mixter",
-          "url": "https://open.spotify.com/artist/6Y3LN0FCFH8p38tlH7ctJA"
-        }
-      ],
-      "duration_ms": 329013,
-      "name": "Por el poder de tu amor (The power of your Love)",
-      "url": "https://open.spotify.com/track/3euqm8P1Mye2BiCEtjwFbT"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1043,8 +1027,8 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "En paz",
-        "url": "https://open.spotify.com/album/4j1pfVpEKRB91xgwZRE1mq"
+        "name": "Mi Refugio",
+        "url": "https://open.spotify.com/album/1tQiDUKWTbToF8mpA0GZNm"
       },
       "artists": [
         {
@@ -1052,9 +1036,9 @@
           "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
         }
       ],
-      "duration_ms": 254600,
-      "name": "En paz",
-      "url": "https://open.spotify.com/track/0rgd3UShOGwxs2Qpp0krBV"
+      "duration_ms": 196866,
+      "name": "Mi Historia De Amor",
+      "url": "https://open.spotify.com/track/4Io9nq91YUZNcCeQ0zDcID"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1111,22 +1095,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Vivir\u00e9",
-        "url": "https://open.spotify.com/album/67uRZ3X95JEwhbxi7GP5gW"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 325128,
-      "name": "Simplemente Gracias",
-      "url": "https://open.spotify.com/track/1dFO3EzDl1bdNm258j2WNK"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "Amor Favor Gracia",
         "url": "https://open.spotify.com/album/0rBvLEdEON5eyTJbcVkxZS"
       },
@@ -1139,6 +1107,22 @@
       "duration_ms": 258813,
       "name": "Nadie Me Dijo",
       "url": "https://open.spotify.com/track/5xVUzEyx6UK23sDpYVhjOf"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Vivir\u00e9",
+        "url": "https://open.spotify.com/album/67uRZ3X95JEwhbxi7GP5gW"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 325128,
+      "name": "Simplemente Gracias",
+      "url": "https://open.spotify.com/track/1dFO3EzDl1bdNm258j2WNK"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1211,22 +1195,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Jes\u00fas Salva",
-        "url": "https://open.spotify.com/album/4HRYBD8BpJaPSfRHreRGxw"
+        "name": "En paz",
+        "url": "https://open.spotify.com/album/4j1pfVpEKRB91xgwZRE1mq"
       },
       "artists": [
         {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        },
-        {
-          "name": "Coalo Zamorano",
-          "url": "https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b"
+          "name": "Daniel Calveti",
+          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
         }
       ],
-      "duration_ms": 335560,
-      "name": "Hermoso (feat. Coalo Zamorano)",
-      "url": "https://open.spotify.com/track/4TwzyWf4K1oeybmNUsNL24"
+      "duration_ms": 254600,
+      "name": "En paz",
+      "url": "https://open.spotify.com/track/0rgd3UShOGwxs2Qpp0krBV"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1259,6 +1239,26 @@
       "duration_ms": 305972,
       "name": "Eres Fiel",
       "url": "https://open.spotify.com/track/2b7YBLRv13r2iS31yXBz7a"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Jes\u00fas Salva",
+        "url": "https://open.spotify.com/album/4HRYBD8BpJaPSfRHreRGxw"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Coalo Zamorano",
+          "url": "https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b"
+        }
+      ],
+      "duration_ms": 335560,
+      "name": "Hermoso (feat. Coalo Zamorano)",
+      "url": "https://open.spotify.com/track/4TwzyWf4K1oeybmNUsNL24"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1311,38 +1311,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Me Visti\u00f3 De Promesas",
-        "url": "https://open.spotify.com/album/1SUEDD9quNY1LYU36X6UUp"
-      },
-      "artists": [
-        {
-          "name": "Julissa",
-          "url": "https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu"
-        }
-      ],
-      "duration_ms": 259094,
-      "name": "\u00bfDe Qui\u00e9n Temer\u00e9? (Dios De Ej\u00e9rcitos)",
-      "url": "https://open.spotify.com/track/60J9n7mYcPsunOxSJGjSqW"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
-        "name": "Eres Mi Pasi\u00f3n",
-        "url": "https://open.spotify.com/album/0xPzP6ceN9y2CwTWlljy8F"
-      },
-      "artists": [
-        {
-          "name": "Coalo Zamorano",
-          "url": "https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b"
-        }
-      ],
-      "duration_ms": 300460,
-      "name": "El es mi amigo fiel",
-      "url": "https://open.spotify.com/track/1kGHibUdAJTVn0X3RpdC8E"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "Dios Lo Har\u00e1 Otra Vez",
         "url": "https://open.spotify.com/album/1qu2wAOiIGzTCcS5Dad9jI"
       },
@@ -1359,6 +1327,22 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
+        "name": "Me Visti\u00f3 De Promesas",
+        "url": "https://open.spotify.com/album/1SUEDD9quNY1LYU36X6UUp"
+      },
+      "artists": [
+        {
+          "name": "Julissa",
+          "url": "https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu"
+        }
+      ],
+      "duration_ms": 259094,
+      "name": "\u00bfDe Qui\u00e9n Temer\u00e9? (Dios De Ej\u00e9rcitos)",
+      "url": "https://open.spotify.com/track/60J9n7mYcPsunOxSJGjSqW"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
         "name": "Se Abren Los Cielos ( Pistas)",
         "url": "https://open.spotify.com/album/6lW1vofyUsYzC7QvktsrpU"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 276706,
       "name": "Haz Llover",
       "url": "https://open.spotify.com/track/3O51YNgaVGHrrFLXLVJxNO"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Eres Mi Pasi\u00f3n",
+        "url": "https://open.spotify.com/album/0xPzP6ceN9y2CwTWlljy8F"
+      },
+      "artists": [
+        {
+          "name": "Coalo Zamorano",
+          "url": "https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b"
+        }
+      ],
+      "duration_ms": 300460,
+      "name": "El es mi amigo fiel",
+      "url": "https://open.spotify.com/track/1kGHibUdAJTVn0X3RpdC8E"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Me Visti\u00f3 De Promesas",
-        "url": "https://open.spotify.com/album/1SUEDD9quNY1LYU36X6UUp"
+        "name": "Inquebrantable",
+        "url": "https://open.spotify.com/album/4tsFZXkN7eXwhY4ujk6C3u"
       },
       "artists": [
         {
-          "name": "Julissa",
-          "url": "https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu"
+          "name": "Ruth Mixter",
+          "url": "https://open.spotify.com/artist/6Y3LN0FCFH8p38tlH7ctJA"
         }
       ],
-      "duration_ms": 288266,
-      "name": "Creemos",
-      "url": "https://open.spotify.com/track/1Z33wIAMRaaGFSuBnFcYRU"
+      "duration_ms": 228127,
+      "name": "Lo mejor de m\u00ed",
+      "url": "https://open.spotify.com/track/4oFGRSbsUBmnhd4ADomFmc"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Inquebrantable",
-        "url": "https://open.spotify.com/album/4tsFZXkN7eXwhY4ujk6C3u"
+        "name": "Me Visti\u00f3 De Promesas",
+        "url": "https://open.spotify.com/album/1SUEDD9quNY1LYU36X6UUp"
       },
       "artists": [
         {
-          "name": "Ruth Mixter",
-          "url": "https://open.spotify.com/artist/6Y3LN0FCFH8p38tlH7ctJA"
+          "name": "Julissa",
+          "url": "https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu"
         }
       ],
-      "duration_ms": 228127,
-      "name": "Lo mejor de m\u00ed",
-      "url": "https://open.spotify.com/track/4oFGRSbsUBmnhd4ADomFmc"
+      "duration_ms": 288266,
+      "name": "Creemos",
+      "url": "https://open.spotify.com/track/1Z33wIAMRaaGFSuBnFcYRU"
     },
     {
       "added_at": "2020-11-24 13:23:38",

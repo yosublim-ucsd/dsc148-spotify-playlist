@@ -1,12 +1,12 @@
 {
   "description": "me gustas mucho. <3 I've got a crush on you.",
-  "num_followers": 289070,
+  "num_followers": 289091,
   "original_name": "internet crush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg4MjY4OSwwMDAwMDAwMDYxZThiN2VkNDQ0ODNhZGQ5OTY1YzFlM2Q2ZWFhODkz",
+  "snapshot_id": "MTY4MDg4MjY4OSwwMDAwMDAwMDM4YWY4MDVjNzE4ZTA4ZTc0NmZhNzU2OTYxY2NhZGE2",
   "tracks": [
     {
       "added_at": "2023-04-07 15:51:29",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-04-07 15:51:29",
       "album": {
-        "name": "La Bachata",
-        "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 162637,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
-    },
-    {
-      "added_at": "2023-04-07 15:51:29",
-      "album": {
         "name": "Long Way Down (Deluxe)",
         "url": "https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
+    },
+    {
+      "added_at": "2023-04-07 15:51:29",
+      "album": {
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 162637,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
     },
     {
       "added_at": "2023-04-07 15:51:29",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-04-07 15:51:29",
       "album": {
-        "name": "Easy On Me",
-        "url": "https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 224694,
-      "name": "Easy On Me",
-      "url": "https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX"
-    },
-    {
-      "added_at": "2023-04-07 15:51:29",
-      "album": {
         "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
         "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 160191,
       "name": "telepat\u00eda",
       "url": "https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B"
+    },
+    {
+      "added_at": "2023-04-07 15:51:29",
+      "album": {
+        "name": "Easy On Me",
+        "url": "https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 224694,
+      "name": "Easy On Me",
+      "url": "https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX"
     },
     {
       "added_at": "2023-04-07 15:51:29",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-04-07 15:51:29",
       "album": {
-        "name": "we fell in love in october / October Passed Me By",
-        "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 184153,
-      "name": "we fell in love in october",
-      "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
-    },
-    {
-      "added_at": "2023-04-07 15:51:29",
-      "album": {
         "name": "c\u00f3mo dormiste?",
         "url": "https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 112572,
       "name": "c\u00f3mo dormiste?",
       "url": "https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ"
+    },
+    {
+      "added_at": "2023-04-07 15:51:29",
+      "album": {
+        "name": "we fell in love in october / October Passed Me By",
+        "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 184153,
+      "name": "we fell in love in october",
+      "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
     },
     {
       "added_at": "2023-04-07 15:51:29",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-04-07 15:51:29",
       "album": {
-        "name": "The Name Chapter: TEMPTATION",
-        "url": "https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 186570,
-      "name": "Sugar Rush Ride",
-      "url": "https://open.spotify.com/track/0rhI6gvOeCKA502RdJAbfs"
-    },
-    {
-      "added_at": "2023-04-07 15:51:29",
-      "album": {
         "name": "Save Your Tears (Remix)",
         "url": "https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 191013,
       "name": "Save Your Tears (with Ariana Grande) (Remix)",
       "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy"
+    },
+    {
+      "added_at": "2023-04-07 15:51:29",
+      "album": {
+        "name": "The Name Chapter: TEMPTATION",
+        "url": "https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 186570,
+      "name": "Sugar Rush Ride",
+      "url": "https://open.spotify.com/track/0rhI6gvOeCKA502RdJAbfs"
     },
     {
       "added_at": "2023-04-07 15:51:29",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-04-07 15:51:29",
       "album": {
-        "name": "this is what ____ feels like (Vol. 1-4)",
-        "url": "https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT"
-      },
-      "artists": [
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        }
-      ],
-      "duration_ms": 120308,
-      "name": "this is what falling in love feels like",
-      "url": "https://open.spotify.com/track/2PWTZV5znjLtZC5T1EVJvL"
-    },
-    {
-      "added_at": "2023-04-07 15:51:29",
-      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 218106,
       "name": "Electric Love",
       "url": "https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ"
+    },
+    {
+      "added_at": "2023-04-07 15:51:29",
+      "album": {
+        "name": "this is what ____ feels like (Vol. 1-4)",
+        "url": "https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 120308,
+      "name": "this is what falling in love feels like",
+      "url": "https://open.spotify.com/track/2PWTZV5znjLtZC5T1EVJvL"
     },
     {
       "added_at": "2023-04-07 15:51:29",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-04-07 15:51:29",
       "album": {
-        "name": "00:00",
-        "url": "https://open.spotify.com/album/371qTqzTdc0reynwwfM2Bt"
-      },
-      "artists": [
-        {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
-        }
-      ],
-      "duration_ms": 215251,
-      "name": "00:00",
-      "url": "https://open.spotify.com/track/7l4cSfrED7RrtT0t5CSOzv"
-    },
-    {
-      "added_at": "2023-04-07 15:51:29",
-      "album": {
         "name": "Backyard Boy (Stripped)",
         "url": "https://open.spotify.com/album/4BXCJA3xYjgSk16CqK1Zrz"
       },
@@ -1479,6 +1463,38 @@
       "duration_ms": 129240,
       "name": "Backyard Boy",
       "url": "https://open.spotify.com/track/04F42oEuKrRComYJfJuyVR"
+    },
+    {
+      "added_at": "2023-04-07 15:51:29",
+      "album": {
+        "name": "Harmony House",
+        "url": "https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "duration_ms": 194693,
+      "name": "Close To You",
+      "url": "https://open.spotify.com/track/50PyquzZ9BaBwLZZd1AuuV"
+    },
+    {
+      "added_at": "2023-04-07 15:51:29",
+      "album": {
+        "name": "00:00",
+        "url": "https://open.spotify.com/album/371qTqzTdc0reynwwfM2Bt"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        }
+      ],
+      "duration_ms": 215251,
+      "name": "00:00",
+      "url": "https://open.spotify.com/track/7l4cSfrED7RrtT0t5CSOzv"
     },
     {
       "added_at": "2023-04-07 15:51:29",
@@ -1503,22 +1519,6 @@
       "duration_ms": 324556,
       "name": "La Ni\u00f1a del Volc\u00e1n (Polocorp Remix)",
       "url": "https://open.spotify.com/track/0aw4Dcu2XxEuLtXaepPTEA"
-    },
-    {
-      "added_at": "2023-04-07 15:51:29",
-      "album": {
-        "name": "Harmony House",
-        "url": "https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF"
-      },
-      "artists": [
-        {
-          "name": "Dayglow",
-          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
-        }
-      ],
-      "duration_ms": 194693,
-      "name": "Close To You",
-      "url": "https://open.spotify.com/track/50PyquzZ9BaBwLZZd1AuuV"
     },
     {
       "added_at": "2023-04-07 15:51:29",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 
 > MADE of latin roots, MADE in the U.S\. MADE to shine! Cover: Loyal Lobos
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,463 likes - 78 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,465 likes - 78 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,19 +23,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 13 | [Como Te Quiero Yo](https://open.spotify.com/track/2VxQqF52M7IPkiLd4XmTNi) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 2:14 |
 | 14 | [Si Me Voy \(with The Marías\)](https://open.spotify.com/track/6GiCszfL4D2GlCU8tFU3sR) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Si Me Voy \(with The Marías\)](https://open.spotify.com/album/5TZm9qi0223t20ypmJevEq) | 3:23 |
 | 15 | [Still](https://open.spotify.com/track/7gSsxz2pwDARRVCJW1o6tR) | [Eddie Zuko](https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub) | [Still](https://open.spotify.com/album/73QwJc0tXAC3aRymPfphH3) | 2:25 |
-| 16 | [Solo Un Eco](https://open.spotify.com/track/4hWmuhICX1vxZOL1y8vYe4) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Solo Un Eco](https://open.spotify.com/album/5gZfKeS7i3RaNBrjn5Dbl0) | 4:45 |
+| 16 | [Ricota](https://open.spotify.com/track/6gQoClTWFGA45WvjJW8XAc) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Ricota](https://open.spotify.com/album/2yM8BVkcqhFiDvM9gBh1Z3) | 2:40 |
 | 17 | [Cambiaste](https://open.spotify.com/track/2ShMj3rcOHAMKuhI7iaJo8) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Cambiaste](https://open.spotify.com/album/0fvaFUHPvCuZnkvspk2Uxj) | 2:54 |
 | 18 | [EL HOMBRE PERFECTO](https://open.spotify.com/track/5DcVcYoTmUnp90GuRCyfDT) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [EL HOMBRE PERFECTO](https://open.spotify.com/album/3dtc12UnEQCJ4TSU4lRIAW) | 3:36 |
 | 19 | [Mi Vecindario](https://open.spotify.com/track/7LpOv13UlQtTVbknzGGzQm) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 2:52 |
-| 20 | [Ricota](https://open.spotify.com/track/6gQoClTWFGA45WvjJW8XAc) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Ricota](https://open.spotify.com/album/2yM8BVkcqhFiDvM9gBh1Z3) | 2:40 |
+| 20 | [Solo Un Eco](https://open.spotify.com/track/4hWmuhICX1vxZOL1y8vYe4) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Solo Un Eco](https://open.spotify.com/album/5gZfKeS7i3RaNBrjn5Dbl0) | 4:45 |
 | 21 | [Te Conocí](https://open.spotify.com/track/0p0NODSyeAC6Pe4gKyDNOx) | [Reflejo Nuevo](https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8) | [Te Conocí](https://open.spotify.com/album/22O1jcpwaCovtabMwk0kEm) | 2:38 |
 | 22 | [Hey There Delilah](https://open.spotify.com/track/6DcuRMCIu66fLSGiS0MgZ8) | [EZ Band](https://open.spotify.com/artist/2gTWLwanLiNZFR0iNPD847) | [Make it Norteño Vol\. 1](https://open.spotify.com/album/7h2wTuvmqp4qoDfrOh10rs) | 3:52 |
 | 23 | [Cambio De Canción](https://open.spotify.com/track/5vd0rJM8Z0TcL4bu68vL6Q) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Cambio De Canción](https://open.spotify.com/album/669yLYUn6jylypYi5lmge1) | 2:49 |
 | 24 | [Kaleidoscope](https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Kaleidoscope](https://open.spotify.com/album/79xNVQyhJnZpOZj6hrABvd) | 2:59 |
 | 25 | [dale Play](https://open.spotify.com/track/33gFV76PlZtTunQCaqYIJH) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN), [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [dale Play](https://open.spotify.com/album/0Iq5DxqRwkw2Y4uY0zun6V) | 3:46 |
 | 26 | [La Luz](https://open.spotify.com/track/1nW7z9bBdVApMNrgvrqYMF) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [La Luz](https://open.spotify.com/album/0BCkK4DlEhdJtoYNzWLMb0) | 3:05 |
-| 27 | [Hostage](https://open.spotify.com/track/07RY54HKxOorMfOUHzK5De) | [Abrina](https://open.spotify.com/artist/3FfeeQuvoeef4F19qixt58) | [Hostage](https://open.spotify.com/album/19NdNTEHtg4U8qhNpOZNQ6) | 2:44 |
-| 28 | [No Fuimos Nada](https://open.spotify.com/track/3aWjuV28IwGzKnPddkH5rA) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [No Fuimos Nada](https://open.spotify.com/album/7xEWRe7FeCXP99EcTBatkz) | 3:02 |
+| 27 | [No Fuimos Nada](https://open.spotify.com/track/3aWjuV28IwGzKnPddkH5rA) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [No Fuimos Nada](https://open.spotify.com/album/7xEWRe7FeCXP99EcTBatkz) | 3:02 |
+| 28 | [Hostage](https://open.spotify.com/track/07RY54HKxOorMfOUHzK5De) | [Abrina](https://open.spotify.com/artist/3FfeeQuvoeef4F19qixt58) | [Hostage](https://open.spotify.com/album/19NdNTEHtg4U8qhNpOZNQ6) | 2:44 |
 | 29 | [Despierto](https://open.spotify.com/track/03wwC5vZMG8WtCjXwpjClK) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8), [Diàgo](https://open.spotify.com/artist/7c4D4GARDnPEe1arEIKp0s) | [Despierto](https://open.spotify.com/album/3KhASegtqWv7krbI95cGU3) | 3:19 |
 | 30 | [Hija de Su](https://open.spotify.com/track/6GhI4zyMx3xa6RvyYCKER6) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [ETC!ETC!](https://open.spotify.com/artist/0iDBD558yJl5IfRXg9Yfwt) | [Hija de Su](https://open.spotify.com/album/5gzoFIcBf6wguzBK1z7wfl) | 2:59 |
 | 31 | [amigos con beneficios](https://open.spotify.com/track/5z7CdPON2afBSONCdIMniG) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [amigos con beneficios](https://open.spotify.com/album/5GIg36pmqOUTW5SlAAqqnh) | 4:01 |
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 35 | [Takin' All My Lovin'](https://open.spotify.com/track/5L4FLTgwJtV8teoPKIrzc7) | [Mikey Jimenez](https://open.spotify.com/artist/0DgdXuxVB3yXP5U54WZvSL), [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7) | [Takin' All My Lovin'](https://open.spotify.com/album/2uwY4YqgyxMimWaTo1KUsC) | 3:27 |
 | 36 | [Que Vuelvas / Bebe Dame](https://open.spotify.com/track/2XrOorKhvt1a1Ed9cSegMu) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [Que Vuelvas / Bebe Dame](https://open.spotify.com/album/4QCle6zCruK9W630FupUSX) | 2:56 |
 | 37 | [ALERGICA](https://open.spotify.com/track/11Sakrqqq61WNucb48QGWy) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [ALERGICA](https://open.spotify.com/album/128gRYuCA4HlmI3vCiwl6l) | 3:05 |
-| 38 | [KPASA \(feat\. Drty Tropix\)](https://open.spotify.com/track/2WnlyIzUY8S4pCZivwbaem) | [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb), [Drty Tropix](https://open.spotify.com/artist/6rskWKdI8VMxqWfBxU0my2) | [KPASA \(feat\. Drty Tropix\)](https://open.spotify.com/album/1f3pPYCKSM5OfKtZ08t2sE) | 2:41 |
-| 39 | [¿Dónde?](https://open.spotify.com/track/0mFdgCl72vf746EW4l6Ztt) | [Lechero](https://open.spotify.com/artist/2x5oi7GC3XkdgXSC8juDIw), [desamor.](https://open.spotify.com/artist/3Bg5zq88wlTgSPgT1x2CFW) | [¿Dónde?](https://open.spotify.com/album/5s2BpnMUEjfrZCR013IGoY) | 2:32 |
-| 40 | [Sexo Sin Drama](https://open.spotify.com/track/2qQ0RuYvFLsYZarBTCSbJw) | [Digiannia](https://open.spotify.com/artist/7h4VlNeXe4xN4uRWnYn875) | [Sexo Sin Drama](https://open.spotify.com/album/2ndDGHFi69bEujXAftA959) | 2:22 |
-| 41 | [Mírame](https://open.spotify.com/track/4CzrcuupfBN5G7KfRriA26) | [Bella Dose](https://open.spotify.com/artist/0mzZB75kFTY5xPZm4RWfk9) | [Mírame](https://open.spotify.com/album/3xYHcuI1ir1bTvJpxfYoBN) | 3:06 |
+| 38 | [¿Dónde?](https://open.spotify.com/track/0mFdgCl72vf746EW4l6Ztt) | [Lechero](https://open.spotify.com/artist/2x5oi7GC3XkdgXSC8juDIw), [desamor.](https://open.spotify.com/artist/3Bg5zq88wlTgSPgT1x2CFW) | [¿Dónde?](https://open.spotify.com/album/5s2BpnMUEjfrZCR013IGoY) | 2:32 |
+| 39 | [KPASA \(feat\. Drty Tropix\)](https://open.spotify.com/track/2WnlyIzUY8S4pCZivwbaem) | [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb), [Drty Tropix](https://open.spotify.com/artist/6rskWKdI8VMxqWfBxU0my2) | [KPASA \(feat\. Drty Tropix\)](https://open.spotify.com/album/1f3pPYCKSM5OfKtZ08t2sE) | 2:41 |
+| 40 | [Mírame](https://open.spotify.com/track/4CzrcuupfBN5G7KfRriA26) | [Bella Dose](https://open.spotify.com/artist/0mzZB75kFTY5xPZm4RWfk9) | [Mírame](https://open.spotify.com/album/3xYHcuI1ir1bTvJpxfYoBN) | 3:06 |
+| 41 | [Sexo Sin Drama](https://open.spotify.com/track/2qQ0RuYvFLsYZarBTCSbJw) | [Digiannia](https://open.spotify.com/artist/7h4VlNeXe4xN4uRWnYn875) | [Sexo Sin Drama](https://open.spotify.com/album/2ndDGHFi69bEujXAftA959) | 2:22 |
 | 42 | [lo siento](https://open.spotify.com/track/7oQ0YOekfGFw5TOQwvXrnr) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [lo siento](https://open.spotify.com/album/7tOSMJmUWT0vEvhSxloyZv) | 3:12 |
 | 43 | [La Canción](https://open.spotify.com/track/2weKT5Gn2nOEKSjtchYGUR) | [Omar Rodriguez](https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD) | [La Cancion](https://open.spotify.com/album/64WFuqvj8ABvZHvo9BoV0c) | 3:25 |
 | 44 | [Futuro](https://open.spotify.com/track/3jHL68prXOOuDrgz9jbIoT) | [COASTCITY](https://open.spotify.com/artist/3U6AuiLSmMwlxgEDGZz9xj) | [Futuro](https://open.spotify.com/album/3f1hF4eTrVUq71O4Nj0Puf) | 4:02 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 77 | [Estupido](https://open.spotify.com/track/0s0911eZbCQY93FjUYmTRr) | [Deiv](https://open.spotify.com/artist/6Z26q1zYyoHDTzO2SrVaX1) | [Estupido](https://open.spotify.com/album/06AFG4QcIJ6xyiF7DVRKyZ) | 3:06 |
 | 78 | [Zarna](https://open.spotify.com/track/2m3x9amJXUtxD12K3ZuaAg) | [Sasha Wrist](https://open.spotify.com/artist/3h4yzDa8Uj4ZplkApbgFAD) | [Zarna](https://open.spotify.com/album/6v9ziOQ7A3R8FzGXmHr5Mv) | 3:06 |
 
-Snapshot ID: `MTY4MDI0OTc4NSwwMDAwMDAwMDIzMDI3YWJhNjIzNWY4NmZiM2MxMDQ2NDY3OTJlOWU5`
+Snapshot ID: `MTY4MDI0OTc4NSwwMDAwMDAwMDU3NTZmZDVkMDg1MDFiZjVhMzc4NjM3ZDRlNjMyYzY2`

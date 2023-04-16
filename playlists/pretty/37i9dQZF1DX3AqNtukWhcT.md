@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AqNtukWhcT.md) - [plain]
 
 > Global ambient with percussion to soundtrack your Yoga session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,684 likes - 127 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,759 likes - 127 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

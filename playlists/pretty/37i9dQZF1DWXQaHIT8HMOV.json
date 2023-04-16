@@ -1,12 +1,12 @@
 {
   "description": "Top hits from homegrown artists showcasing rich culture and talent from Uganda",
-  "num_followers": 1425,
+  "num_followers": 1424,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0OTM4NiwwMDAwMDAwMDBhMGZjZDQ4MzkwZGZiZmM2YjcwYWM2NWNlYTg4Yzc0",
+  "snapshot_id": "MTY4MTQ0OTM4NiwwMDAwMDAwMDMwMmZiOGZiMGEyMDUyNDVjNDk4ZTMwMWExNmUyMDZh",
   "tracks": [
     {
       "added_at": "2023-04-06 20:59:00",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Sembera",
-        "url": "https://open.spotify.com/album/5waV4kXwhpQBV4Ws7d2Ppi"
-      },
-      "artists": [
-        {
-          "name": "Geosteady",
-          "url": "https://open.spotify.com/artist/7kam501AHBrZZvvuiku9VG"
-        }
-      ],
-      "duration_ms": 208988,
-      "name": "Sembera",
-      "url": "https://open.spotify.com/track/7vgMzmsgtspbBfMVpX9JSk"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
         "name": "Pretty Young Thing",
         "url": "https://open.spotify.com/album/7pAqhUVUSXlXl7ANiO8KgF"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 190000,
       "name": "Pretty Young Thing",
       "url": "https://open.spotify.com/track/67hRQkotvl3eGiEYD3r8FK"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
+        "name": "Sembera",
+        "url": "https://open.spotify.com/album/5waV4kXwhpQBV4Ws7d2Ppi"
+      },
+      "artists": [
+        {
+          "name": "Geosteady",
+          "url": "https://open.spotify.com/artist/7kam501AHBrZZvvuiku9VG"
+        }
+      ],
+      "duration_ms": 208988,
+      "name": "Sembera",
+      "url": "https://open.spotify.com/track/7vgMzmsgtspbBfMVpX9JSk"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "BESTIE",
-        "url": "https://open.spotify.com/album/6CgzHPFRksIENlDpsyzXUB"
-      },
-      "artists": [
-        {
-          "name": "Rickman Manrick",
-          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
-        }
-      ],
-      "duration_ms": 173949,
-      "name": "BESTIE",
-      "url": "https://open.spotify.com/track/5wmZO9wReuxzVbv2KbkSYn"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
         "name": "Byowaba",
         "url": "https://open.spotify.com/album/20BSAYhSq4zpyNlSJD210x"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 224947,
       "name": "Byowaba",
       "url": "https://open.spotify.com/track/0gyH24GQiQDOGHn40goN8X"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
+        "name": "BESTIE",
+        "url": "https://open.spotify.com/album/6CgzHPFRksIENlDpsyzXUB"
+      },
+      "artists": [
+        {
+          "name": "Rickman Manrick",
+          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
+        }
+      ],
+      "duration_ms": 173949,
+      "name": "BESTIE",
+      "url": "https://open.spotify.com/track/5wmZO9wReuxzVbv2KbkSYn"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Kika Buka",
-        "url": "https://open.spotify.com/album/4GjXFLosn6LolYRbupEkVc"
-      },
-      "artists": [
-        {
-          "name": "Sheebah",
-          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
-        }
-      ],
-      "duration_ms": 156961,
-      "name": "Kika Buka",
-      "url": "https://open.spotify.com/track/1jcnzmZk4F57GiRIOiSbMS"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
         "name": "Bega Bega",
         "url": "https://open.spotify.com/album/2K3kJ9PdnZ0FhQGiUfqQA9"
       },
@@ -763,6 +747,38 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
+        "name": "Kika Buka",
+        "url": "https://open.spotify.com/album/4GjXFLosn6LolYRbupEkVc"
+      },
+      "artists": [
+        {
+          "name": "Sheebah",
+          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
+        }
+      ],
+      "duration_ms": 156961,
+      "name": "Kika Buka",
+      "url": "https://open.spotify.com/track/1jcnzmZk4F57GiRIOiSbMS"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
+        "name": "Don't Stopp",
+        "url": "https://open.spotify.com/album/20vcJDgwiHZHcyz927U2HH"
+      },
+      "artists": [
+        {
+          "name": "Bebe Cool",
+          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
+        }
+      ],
+      "duration_ms": 172736,
+      "name": "Don't Stopp",
+      "url": "https://open.spotify.com/track/3r3t5dqnEHDuhGlo1m40Sh"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
         "name": "Geza Bugeza",
         "url": "https://open.spotify.com/album/6rpL5Yl2Gu8H0xqPSu445P"
       },
@@ -775,26 +791,6 @@
       "duration_ms": 140822,
       "name": "Geza Bugeza",
       "url": "https://open.spotify.com/track/0KCeBr5ylT1GJzt9bu4SkW"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
-        "name": "Low",
-        "url": "https://open.spotify.com/album/60yKgbxVfxilQTFfxQ5SLb"
-      },
-      "artists": [
-        {
-          "name": "Eddy Kenzo",
-          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
-        },
-        {
-          "name": "Latinum",
-          "url": "https://open.spotify.com/artist/4L3ta0ADfVnBdi04utLTqA"
-        }
-      ],
-      "duration_ms": 201822,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/1sHswMDDPk44WSkMh3lJN6"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -823,18 +819,22 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Don't Stopp",
-        "url": "https://open.spotify.com/album/20vcJDgwiHZHcyz927U2HH"
+        "name": "Low",
+        "url": "https://open.spotify.com/album/60yKgbxVfxilQTFfxQ5SLb"
       },
       "artists": [
         {
-          "name": "Bebe Cool",
-          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
+          "name": "Eddy Kenzo",
+          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
+        },
+        {
+          "name": "Latinum",
+          "url": "https://open.spotify.com/artist/4L3ta0ADfVnBdi04utLTqA"
         }
       ],
-      "duration_ms": 172736,
-      "name": "Don't Stopp",
-      "url": "https://open.spotify.com/track/3r3t5dqnEHDuhGlo1m40Sh"
+      "duration_ms": 201822,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/1sHswMDDPk44WSkMh3lJN6"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Music for the Soul",
-        "url": "https://open.spotify.com/album/1Py43eA0a9cU9cRuhvF46K"
-      },
-      "artists": [
-        {
-          "name": "$hyli",
-          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
-        }
-      ],
-      "duration_ms": 215757,
-      "name": "Riri",
-      "url": "https://open.spotify.com/track/3kYMCCE3sV70yPOaFM4eCr"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/3MJB9ehVEovi0DhK19B4tS"
       },
@@ -899,6 +883,26 @@
       "duration_ms": 174905,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/6v0S8ZVm5axCSsuoqcuB3J"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
+        "name": "Pause",
+        "url": "https://open.spotify.com/album/53V8rIv7Bix3IbNXbnG0px"
+      },
+      "artists": [
+        {
+          "name": "Mugaba",
+          "url": "https://open.spotify.com/artist/1EBLonfYVb5s9f047W2CS6"
+        },
+        {
+          "name": "Amani Greene",
+          "url": "https://open.spotify.com/artist/0nJznPzHXT4c62if3o5tsO"
+        }
+      ],
+      "duration_ms": 184778,
+      "name": "Pause",
+      "url": "https://open.spotify.com/track/2yx8yJQIWgyZ3xS67mg8Qp"
     }
   ],
   "unique_name": "Made In Uganda",

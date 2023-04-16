@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 259308,
       "name": "Ain't The First Time",
       "url": "https://open.spotify.com/track/419M0Xn4BGRb7iF9bvkUay"
@@ -842,6 +842,24 @@
       "duration_ms": 233774,
       "name": "Tell Your Heart To Beat Again",
       "url": "https://open.spotify.com/track/4F6KXBE38OBGPZsryUih1x"
+    },
+    {
+      "album": {
+        "name": "Love Parables",
+        "url": "https://open.spotify.com/album/4SKqQVUdD8GGRDrQbz7Ls4"
+      },
+      "artists": [
+        {
+          "name": "Ilish",
+          "url": "https://open.spotify.com/artist/0k9MEyUMyo7Tx0F1C1cnCi"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164831,
+      "name": "That's On You",
+      "url": "https://open.spotify.com/track/1JLDxMUQB6RRh7KtMkkF0f"
     },
     {
       "album": {

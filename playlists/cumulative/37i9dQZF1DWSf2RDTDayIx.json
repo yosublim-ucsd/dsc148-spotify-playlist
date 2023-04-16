@@ -1748,7 +1748,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 149516,
       "name": "Easy",
       "url": "https://open.spotify.com/track/4VVzgTike7FW8OiUIDN7hk"
@@ -5218,6 +5218,28 @@
       "duration_ms": 191053,
       "name": "Relax My Eyes",
       "url": "https://open.spotify.com/track/1J3C8kdqUckBrTtgttm0AA"
+    },
+    {
+      "album": {
+        "name": "Relax My Eyes",
+        "url": "https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "Abel Balder",
+          "url": "https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192150,
+      "name": "Relax My Eyes",
+      "url": "https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH"
     },
     {
       "album": {

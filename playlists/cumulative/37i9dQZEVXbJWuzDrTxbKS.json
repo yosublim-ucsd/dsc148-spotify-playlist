@@ -375,6 +375,24 @@
     },
     {
       "album": {
+        "name": "6AM \u0432 \u0411\u0443\u0434\u0430\u043f\u0435\u0448\u0442\u0435",
+        "url": "https://open.spotify.com/album/1HL8rCyocGXRmHPE796Gqb"
+      },
+      "artists": [
+        {
+          "name": "OG Buda",
+          "url": "https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186818,
+      "name": "6AM \u0432 \u0411\u0443\u0434\u0430\u043f\u0435\u0448\u0442\u0435",
+      "url": "https://open.spotify.com/track/6cicFqh6IvNOc4FGXChnFB"
+    },
+    {
+      "album": {
         "name": "Aft\u00ebrLyfe",
         "url": "https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM"
       },
@@ -3486,7 +3504,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-15",
+      "date_removed": null,
       "duration_ms": 258431,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
@@ -3592,6 +3610,24 @@
       "duration_ms": 186358,
       "name": "Change My Clothes",
       "url": "https://open.spotify.com/track/4mnjwMLCk3JZkhkok3u5g1"
+    },
+    {
+      "album": {
+        "name": "Chemical",
+        "url": "https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184013,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
     },
     {
       "album": {
@@ -4520,6 +4556,24 @@
       "duration_ms": 187342,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/69w5X6uTrOaWM32IetSzvO"
+    },
+    {
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212953,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
     },
     {
       "album": {
@@ -7540,7 +7594,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 209259,
       "name": "golden hour",
       "url": "https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg"
@@ -8052,10 +8106,28 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
+    },
+    {
+      "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
     },
     {
       "album": {
@@ -12827,6 +12899,32 @@
     },
     {
       "album": {
+        "name": "METAMORPHOSIS 3",
+        "url": "https://open.spotify.com/album/6mMcdfZJVwHQfVLZocxKfs"
+      },
+      "artists": [
+        {
+          "name": "INTERWORLD",
+          "url": "https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN"
+        },
+        {
+          "name": "zxcursed",
+          "url": "https://open.spotify.com/artist/53fwP60M1QNPDiXALVMeOs"
+        },
+        {
+          "name": "Sadfriendd",
+          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128015,
+      "name": "METAMORPHOSIS 3",
+      "url": "https://open.spotify.com/track/3J5y9v6vK5ginTnMroJ1Nn"
+    },
+    {
+      "album": {
         "name": "MIDDLE OF THE NIGHT",
         "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
       },
@@ -16624,7 +16722,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-28",
+      "date_removed": null,
       "duration_ms": 206315,
       "name": "Ra\u0137e\u0161u Zin\u0101tne",
       "url": "https://open.spotify.com/track/3IZUwm8nYtVN6zqw9fa9W4"
@@ -16696,7 +16794,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 120026,
       "name": "Revenge",
       "url": "https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW"
@@ -18016,7 +18114,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 196784,
       "name": "Sex, Drugs, Etc.",
       "url": "https://open.spotify.com/track/7MlDNspYwfqnHxORufupwq"
@@ -18643,6 +18741,24 @@
     },
     {
       "album": {
+        "name": "Cottonwood 2",
+        "url": "https://open.spotify.com/album/7l49L64CFakYuaV4EL11sP"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123672,
+      "name": "SLUT ME OUT",
+      "url": "https://open.spotify.com/track/0WoVfPjxsf9MTvPt9ptqeE"
+    },
+    {
+      "album": {
         "name": "SLUT ME OUT",
         "url": "https://open.spotify.com/album/48868AJJd7JVl1IVmaBsaQ"
       },
@@ -18654,7 +18770,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 123672,
       "name": "SLUT ME OUT",
       "url": "https://open.spotify.com/track/5BmB3OaQyYXCqRyN8iR2Yi"
@@ -18938,7 +19054,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 206049,
       "name": "SORRY NOT SORRY",
       "url": "https://open.spotify.com/track/410ZZP746AQeiywhKvXWCo"
@@ -19108,7 +19224,7 @@
       ],
       "date_added": "2022-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 142000,
       "name": "Star Shopping",
       "url": "https://open.spotify.com/track/6Ox1rvlwEpB49drasQm6RF"
@@ -22688,7 +22804,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 161123,
       "name": "Why'd You Only Call Me When You're High?",
       "url": "https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9"

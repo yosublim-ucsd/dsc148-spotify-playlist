@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 
 > Today's biggest Dance hits! Cover: David Guetta, Coi Leray & Anne\-Marie
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,131 likes - 90 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,172 likes - 90 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 8 | [Upside Down \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/2UDycsru4dEa1UFmyIvKYU) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Upside Down \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/2FmCevNKGGSYOa9uCuXydm) | 2:54 |
 | 9 | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx) | 3:06 |
 | 10 | [Worship You](https://open.spotify.com/track/2rfZyAX6wZxQWMQ9GYyLIu) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Worship You](https://open.spotify.com/album/1hQiBI8EdaW5dR4gja8w7f) | 2:58 |
-| 11 | [Do U Want Me Baby? \(feat\. Elphi\)](https://open.spotify.com/track/392tWI7KlzCkP2bmAOOqzS) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82), [Elphi](https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY) | [Do U Want Me Baby? \(feat\. Elphi\)](https://open.spotify.com/album/2okBYRPFzRqd6Ex5M5F34Y) | 2:22 |
+| 11 | [Do U Want Me Baby? \(feat\. Elphi\)](https://open.spotify.com/track/392tWI7KlzCkP2bmAOOqzS) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82), [Elphi](https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY) | [Do U Want Me Baby? \(feat\. Elphi\)](https://open.spotify.com/album/2okBYRPFzRqd6Ex5M5F34Y) | 2:23 |
 | 12 | [Caught A Body \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/4JvJj733DNy6nuVcC1NzCq) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Caught A Body \(feat\. Ty Dolla $ign\)](https://open.spotify.com/album/5JEgZa6di9DVcftMmEoN2r) | 2:29 |
 | 13 | [Praise The Lord \(Da Shine\) \(feat\. Skepta\) \- Durdenhauer Edit](https://open.spotify.com/track/7jQkiAaa4XYYsPH3rcfcWo) | [Durdenhauer](https://open.spotify.com/artist/2CaWJMR1eyvq8n5h96ggJC), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Praise The Lord \(Da Shine\) \(feat\. Skepta\) \[Durdenhauer Edit\]](https://open.spotify.com/album/6uVc1jXybFsyaLi48p8zYu) | 2:43 |
 | 14 | [You're The Voice](https://open.spotify.com/track/6zQLRsQnoJHL96LzUuR6gQ) | [Mashd N Kutcher](https://open.spotify.com/artist/0G5lZVxoMwoY8oV6zR8E7k) | [You're The Voice](https://open.spotify.com/album/5p0gzjEtN8H2wNxjrSZnHA) | 2:42 |

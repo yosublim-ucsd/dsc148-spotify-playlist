@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 11113,
+  "num_followers": 11123,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI1ODIyNCwwMDAwMDAwMGI0N2FmMDY2MjJhOTQ5NDMwYWU5YTIxZDViMmY4ODhh",
+  "snapshot_id": "MTY4MDI1ODIyNCwwMDAwMDAwMGMyYmNiMzc5NzM5Mjg5MTNjNTgxMGI5YjViZjQ0OTI2",
   "tracks": [
     {
       "added_at": "2023-03-31 10:23:44",
@@ -79,6 +79,30 @@
     {
       "added_at": "2023-03-31 10:23:44",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "KATIE",
+          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
+        },
+        {
+          "name": "WOOGIE",
+          "url": "https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN"
+        }
+      ],
+      "duration_ms": 228226,
+      "name": "Rock With You - Spotify Singles",
+      "url": "https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6"
+    },
+    {
+      "added_at": "2023-03-31 10:23:44",
+      "album": {
         "name": "Seasonal Hiatus",
         "url": "https://open.spotify.com/album/0aIwKONwBn7YD25RrM4445"
       },
@@ -107,30 +131,6 @@
       "duration_ms": 216734,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/4pGYUkxccL8wtRaOrbuJ5j"
-    },
-    {
-      "added_at": "2023-03-31 10:23:44",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "KATIE",
-          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
-        },
-        {
-          "name": "WOOGIE",
-          "url": "https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN"
-        }
-      ],
-      "duration_ms": 228226,
-      "name": "Rock With You - Spotify Singles",
-      "url": "https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6"
     },
     {
       "added_at": "2023-03-31 10:23:44",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-03-31 10:23:44",
       "album": {
-        "name": "grayground.",
-        "url": "https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK"
-      },
-      "artists": [
-        {
-          "name": "GRAY",
-          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
-        }
-      ],
-      "duration_ms": 199578,
-      "name": "U",
-      "url": "https://open.spotify.com/track/7wTqBeoo4bDr4eNnn3HHJk"
-    },
-    {
-      "added_at": "2023-03-31 10:23:44",
-      "album": {
         "name": "4\uc9d1 - \ub2e4\uc2dc \uafc8\uafb8\uace0 \uc2f6\ub2e4",
         "url": "https://open.spotify.com/album/1eXaht7XauVPJeXQZXekWR"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 248768,
       "name": "Wait",
       "url": "https://open.spotify.com/track/1gyhtYG9OWOZvhZzDVF6lq"
+    },
+    {
+      "added_at": "2023-03-31 10:23:44",
+      "album": {
+        "name": "grayground.",
+        "url": "https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK"
+      },
+      "artists": [
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        }
+      ],
+      "duration_ms": 199578,
+      "name": "U",
+      "url": "https://open.spotify.com/track/7wTqBeoo4bDr4eNnn3HHJk"
     },
     {
       "added_at": "2023-03-31 10:23:44",
@@ -643,18 +643,18 @@
     {
       "added_at": "2023-03-31 10:23:44",
       "album": {
-        "name": "Link: Eat, Love, Kill (Original Television Soundtrack), Pt. 4",
-        "url": "https://open.spotify.com/album/2Hp9GqzPYOzPV4nkJ0iKVr"
+        "name": "Our Blues, Pt. 7 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5CkqLnLIpyWKmt6iUIhW5s"
       },
       "artists": [
         {
-          "name": "SEUNGKWAN",
-          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
         }
       ],
-      "duration_ms": 212093,
-      "name": "Pit a Pat",
-      "url": "https://open.spotify.com/track/5bmr4XB9X2QQPpnrY6PwwZ"
+      "duration_ms": 237030,
+      "name": "Happy Song",
+      "url": "https://open.spotify.com/track/1eUQ5JMD5vGz24Wxcq8fDv"
     },
     {
       "added_at": "2023-03-31 10:23:44",
@@ -675,6 +675,22 @@
     {
       "added_at": "2023-03-31 10:23:44",
       "album": {
+        "name": "Link: Eat, Love, Kill (Original Television Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/2Hp9GqzPYOzPV4nkJ0iKVr"
+      },
+      "artists": [
+        {
+          "name": "SEUNGKWAN",
+          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
+        }
+      ],
+      "duration_ms": 212093,
+      "name": "Pit a Pat",
+      "url": "https://open.spotify.com/track/5bmr4XB9X2QQPpnrY6PwwZ"
+    },
+    {
+      "added_at": "2023-03-31 10:23:44",
+      "album": {
         "name": "YUMI's Cells 2, Pt. 1 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/3g8K5V6U4ZkEC1X7rRZoBo"
       },
@@ -691,18 +707,18 @@
     {
       "added_at": "2023-03-31 10:23:44",
       "album": {
-        "name": "Our Blues, Pt. 7 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5CkqLnLIpyWKmt6iUIhW5s"
+        "name": "It\u2032s You",
+        "url": "https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC"
       },
       "artists": [
         {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
         }
       ],
-      "duration_ms": 237030,
-      "name": "Happy Song",
-      "url": "https://open.spotify.com/track/1eUQ5JMD5vGz24Wxcq8fDv"
+      "duration_ms": 193000,
+      "name": "It\u2032s You",
+      "url": "https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj"
     },
     {
       "added_at": "2023-03-31 10:23:44",
@@ -719,22 +735,6 @@
       "duration_ms": 154786,
       "name": "Especially For You",
       "url": "https://open.spotify.com/track/0QxccxeJbRK4lFJYUFEAqJ"
-    },
-    {
-      "added_at": "2023-03-31 10:23:44",
-      "album": {
-        "name": "It\u2032s You",
-        "url": "https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC"
-      },
-      "artists": [
-        {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "It\u2032s You",
-      "url": "https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj"
     },
     {
       "added_at": "2023-03-31 10:23:44",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-03-31 10:23:44",
       "album": {
-        "name": "Snowy Stars",
-        "url": "https://open.spotify.com/album/1pPgVjXaXsFYyQDUopeiW8"
-      },
-      "artists": [
-        {
-          "name": "HA SUNG WOON",
-          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
-        }
-      ],
-      "duration_ms": 250253,
-      "name": "Snowy Stars",
-      "url": "https://open.spotify.com/track/06apJIcWEUor6vHBE2epR4"
-    },
-    {
-      "added_at": "2023-03-31 10:23:44",
-      "album": {
         "name": "Dearest (feat. Sllo)",
         "url": "https://open.spotify.com/album/3WgCQ87OvZIlunqvrMVRRZ"
       },
@@ -967,6 +951,22 @@
     {
       "added_at": "2023-03-31 10:23:44",
       "album": {
+        "name": "Snowy Stars",
+        "url": "https://open.spotify.com/album/1pPgVjXaXsFYyQDUopeiW8"
+      },
+      "artists": [
+        {
+          "name": "HA SUNG WOON",
+          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
+        }
+      ],
+      "duration_ms": 250253,
+      "name": "Snowy Stars",
+      "url": "https://open.spotify.com/track/06apJIcWEUor6vHBE2epR4"
+    },
+    {
+      "added_at": "2023-03-31 10:23:44",
+      "album": {
         "name": "LOVE.",
         "url": "https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU"
       },
@@ -979,6 +979,22 @@
       "duration_ms": 172245,
       "name": "WANT U",
       "url": "https://open.spotify.com/track/64D4Sjf0D6p1xSh8daZuBX"
+    },
+    {
+      "added_at": "2023-03-31 10:23:44",
+      "album": {
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/1JyUU9Ikh2GztSvChAYYdJ"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "duration_ms": 197813,
+      "name": "Like a dream",
+      "url": "https://open.spotify.com/track/1ujBbnWWiqowa6zKgCxlzV"
     },
     {
       "added_at": "2023-03-31 10:23:44",
@@ -1003,22 +1019,6 @@
       "duration_ms": 235197,
       "name": "I LUV U (with MIRANI)",
       "url": "https://open.spotify.com/track/2a5u3MX1d7Q8gAw1gYQcGk"
-    },
-    {
-      "added_at": "2023-03-31 10:23:44",
-      "album": {
-        "name": "Rewind",
-        "url": "https://open.spotify.com/album/1JyUU9Ikh2GztSvChAYYdJ"
-      },
-      "artists": [
-        {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
-        }
-      ],
-      "duration_ms": 197813,
-      "name": "Like a dream",
-      "url": "https://open.spotify.com/track/1ujBbnWWiqowa6zKgCxlzV"
     },
     {
       "added_at": "2023-03-31 10:23:44",

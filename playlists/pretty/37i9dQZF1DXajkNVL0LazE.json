@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2000s.",
-  "num_followers": 55359,
+  "num_followers": 55486,
   "original_name": "00s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjQ0MiwwMDAwMDAwMDBmMmU3ZGQyYjUxMzQxYzAwN2YxM2RlMmRlMDYxZWM1",
+  "snapshot_id": "MTY1MDkxNjQ0MiwwMDAwMDAwMDgyYjdjMTFhMGRhZGIwODA1Yzg0OTZjNzZkMTY4ODNi",
   "tracks": [
     {
       "added_at": "2022-02-04 22:01:34",
@@ -447,22 +447,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Furr",
-        "url": "https://open.spotify.com/album/2DyjbFqAX5Yxoh3EFMMXh7"
-      },
-      "artists": [
-        {
-          "name": "Blitzen Trapper",
-          "url": "https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1"
-        }
-      ],
-      "duration_ms": 247515,
-      "name": "Furr",
-      "url": "https://open.spotify.com/track/2fgbsGWU2Dum08uifQHhiB"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "The Reminder",
         "url": "https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 183666,
       "name": "1234",
       "url": "https://open.spotify.com/track/2CzWeyC9zlDpIOZPUUKrBW"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Furr",
+        "url": "https://open.spotify.com/album/2DyjbFqAX5Yxoh3EFMMXh7"
+      },
+      "artists": [
+        {
+          "name": "Blitzen Trapper",
+          "url": "https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1"
+        }
+      ],
+      "duration_ms": 247515,
+      "name": "Furr",
+      "url": "https://open.spotify.com/track/2fgbsGWU2Dum08uifQHhiB"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "The Sunset Tree",
-        "url": "https://open.spotify.com/album/2ocbRv0D5t7xaSCW6NJ8sZ"
-      },
-      "artists": [
-        {
-          "name": "The Mountain Goats",
-          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
-        }
-      ],
-      "duration_ms": 232893,
-      "name": "This Year",
-      "url": "https://open.spotify.com/track/0s9aeZriwqyBYfxFzsd20R"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "9",
         "url": "https://open.spotify.com/album/4B7O0E5V0ntVTz41tCfPdF"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 219226,
       "name": "9 Crimes",
       "url": "https://open.spotify.com/track/08YEGpKt2LHJ0URCXKHEie"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "The Sunset Tree",
+        "url": "https://open.spotify.com/album/2ocbRv0D5t7xaSCW6NJ8sZ"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "duration_ms": 232893,
+      "name": "This Year",
+      "url": "https://open.spotify.com/track/0s9aeZriwqyBYfxFzsd20R"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Post-War",
-        "url": "https://open.spotify.com/album/7q74XeNS40vgLZhLrCdnuv"
-      },
-      "artists": [
-        {
-          "name": "M. Ward",
-          "url": "https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI"
-        }
-      ],
-      "duration_ms": 238600,
-      "name": "Chinese Translation",
-      "url": "https://open.spotify.com/track/66bI8teVSntNwjQGv3pRtF"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Chutes Too Narrow",
         "url": "https://open.spotify.com/album/05APAIA6c0Qf7QtFQYZAKm"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 168533,
       "name": "So Says I",
       "url": "https://open.spotify.com/track/6WBNQSfB047hAZ7tusGhqB"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Post-War",
+        "url": "https://open.spotify.com/album/7q74XeNS40vgLZhLrCdnuv"
+      },
+      "artists": [
+        {
+          "name": "M. Ward",
+          "url": "https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI"
+        }
+      ],
+      "duration_ms": 238600,
+      "name": "Chinese Translation",
+      "url": "https://open.spotify.com/track/66bI8teVSntNwjQGv3pRtF"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -767,6 +767,22 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
+        "name": "Boxer",
+        "url": "https://open.spotify.com/album/2pwNkShhY1uip80rLMHUgX"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 205040,
+      "name": "Fake Empire",
+      "url": "https://open.spotify.com/track/7hanhZrUArC9qUerln4jh1"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
         "name": "War Elephant",
         "url": "https://open.spotify.com/album/0mOjYGdxvpusOVunsElaCq"
       },
@@ -783,18 +799,18 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Boxer",
-        "url": "https://open.spotify.com/album/2pwNkShhY1uip80rLMHUgX"
+        "name": "Chutes Too Narrow",
+        "url": "https://open.spotify.com/album/05APAIA6c0Qf7QtFQYZAKm"
       },
       "artists": [
         {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+          "name": "The Shins",
+          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
         }
       ],
-      "duration_ms": 205040,
-      "name": "Fake Empire",
-      "url": "https://open.spotify.com/track/7hanhZrUArC9qUerln4jh1"
+      "duration_ms": 193546,
+      "name": "Gone for Good",
+      "url": "https://open.spotify.com/track/6Q0ah7m011fAcNTFJBjQGI"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -831,22 +847,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Chutes Too Narrow",
-        "url": "https://open.spotify.com/album/05APAIA6c0Qf7QtFQYZAKm"
-      },
-      "artists": [
-        {
-          "name": "The Shins",
-          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
-        }
-      ],
-      "duration_ms": 193546,
-      "name": "Gone for Good",
-      "url": "https://open.spotify.com/track/6Q0ah7m011fAcNTFJBjQGI"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Our Endless Numbered Days (Deluxe Edition)",
         "url": "https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m"
       },
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Distance and Time",
-        "url": "https://open.spotify.com/album/4v8f9LoKgrLVHPlM0oe4Br"
-      },
-      "artists": [
-        {
-          "name": "Fink",
-          "url": "https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf"
-        }
-      ],
-      "duration_ms": 272440,
-      "name": "This Is The Thing",
-      "url": "https://open.spotify.com/track/4brqHrnr9ym8db3o5n70Qg"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Blacklisted",
         "url": "https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 214733,
       "name": "I Wish I Was the Moon",
       "url": "https://open.spotify.com/track/4PxzGOH79jcmmldKgoI9sB"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Distance and Time",
+        "url": "https://open.spotify.com/album/4v8f9LoKgrLVHPlM0oe4Br"
+      },
+      "artists": [
+        {
+          "name": "Fink",
+          "url": "https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf"
+        }
+      ],
+      "duration_ms": 272440,
+      "name": "This Is The Thing",
+      "url": "https://open.spotify.com/track/4brqHrnr9ym8db3o5n70Qg"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Time (The Revelator)",
-        "url": "https://open.spotify.com/album/55FP2ypQcghszSqylyBRbp"
-      },
-      "artists": [
-        {
-          "name": "Gillian Welch",
-          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Everything Is Free",
-      "url": "https://open.spotify.com/track/0H8ukN2MIW2iNvqJP1kb4O"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Veckatimest",
         "url": "https://open.spotify.com/album/3XQMgEnLQnOMkFaJA9w6sZ"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 257213,
       "name": "Ready, Able",
       "url": "https://open.spotify.com/track/5mIbLV3Aa4NcQDgMY4XgCT"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Time (The Revelator)",
+        "url": "https://open.spotify.com/album/55FP2ypQcghszSqylyBRbp"
+      },
+      "artists": [
+        {
+          "name": "Gillian Welch",
+          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Everything Is Free",
+      "url": "https://open.spotify.com/track/0H8ukN2MIW2iNvqJP1kb4O"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1224,9 +1224,9 @@
           "url": "https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr"
         }
       ],
-      "duration_ms": 333026,
-      "name": "Keep Yourself Warm",
-      "url": "https://open.spotify.com/track/5P9mYadNNzRuDo49cKpBNs"
+      "duration_ms": 228453,
+      "name": "The Modern Leper",
+      "url": "https://open.spotify.com/track/3aunzvczA4MkwIrHuARjqM"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Wilco (The Album)",
-        "url": "https://open.spotify.com/album/1cezxBJdWm1Xod9ZiGy4YE"
+        "name": "Ghosts of the Great Highway",
+        "url": "https://open.spotify.com/album/1JpwFoxVVutPXtSBohj0rJ"
       },
       "artists": [
         {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+          "name": "Sun Kil Moon",
+          "url": "https://open.spotify.com/artist/4G0XDEk7RbA4BBCTs917U9"
         }
       ],
-      "duration_ms": 205240,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/2fdMAIsNH4wY7RRda8aCfL"
+      "duration_ms": 381040,
+      "name": "Carry Me Ohio",
+      "url": "https://open.spotify.com/track/6sNT5PF1SjTYgMiAIQGYMd"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1320,25 +1320,25 @@
           "url": "https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr"
         }
       ],
-      "duration_ms": 228453,
-      "name": "The Modern Leper",
-      "url": "https://open.spotify.com/track/3aunzvczA4MkwIrHuARjqM"
+      "duration_ms": 333026,
+      "name": "Keep Yourself Warm",
+      "url": "https://open.spotify.com/track/5P9mYadNNzRuDo49cKpBNs"
     },
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Ghosts of the Great Highway",
-        "url": "https://open.spotify.com/album/1JpwFoxVVutPXtSBohj0rJ"
+        "name": "Wilco (The Album)",
+        "url": "https://open.spotify.com/album/1cezxBJdWm1Xod9ZiGy4YE"
       },
       "artists": [
         {
-          "name": "Sun Kil Moon",
-          "url": "https://open.spotify.com/artist/4G0XDEk7RbA4BBCTs917U9"
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
         }
       ],
-      "duration_ms": 381040,
-      "name": "Carry Me Ohio",
-      "url": "https://open.spotify.com/track/6sNT5PF1SjTYgMiAIQGYMd"
+      "duration_ms": 205240,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/2fdMAIsNH4wY7RRda8aCfL"
     },
     {
       "added_at": "2022-02-04 22:01:34",

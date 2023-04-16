@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Lewis Capaldi
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,681 likes - 91 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,716 likes - 91 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 70 | [Stumbling](https://open.spotify.com/track/3PFwnVVcInGph5fjyDmseJ) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [Stumbling](https://open.spotify.com/album/4oCH7CmR7SFVQU9V2ArYhN) | 2:52 |
 | 71 | [Other Side of the Moon](https://open.spotify.com/track/0inCk0sUhCu1PBscUmSvez) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [The Ballet Girl EP \- Part 1](https://open.spotify.com/album/47DfwYDx3pDXoN7lgxWwjj) | 2:51 |
 | 72 | [poster boy](https://open.spotify.com/track/2TaCG1ArsxRsUyZhqy5jei) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [poster boy](https://open.spotify.com/album/2ErL96QPbe4hXnU8K2giJr) | 2:46 |
-| 73 | [Do U Want Me Baby? \(feat\. Elphi\)](https://open.spotify.com/track/392tWI7KlzCkP2bmAOOqzS) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82), [Elphi](https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY) | [Do U Want Me Baby? \(feat\. Elphi\)](https://open.spotify.com/album/2okBYRPFzRqd6Ex5M5F34Y) | 2:22 |
+| 73 | [Do U Want Me Baby? \(feat\. Elphi\)](https://open.spotify.com/track/392tWI7KlzCkP2bmAOOqzS) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82), [Elphi](https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY) | [Do U Want Me Baby? \(feat\. Elphi\)](https://open.spotify.com/album/2okBYRPFzRqd6Ex5M5F34Y) | 2:23 |
 | 74 | [Over Again](https://open.spotify.com/track/00U3nGjoxrqX04GvjiypUz) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ) | [Over Again](https://open.spotify.com/album/3yvIAGFouolgRJTItuv3br) | 2:39 |
 | 75 | [Enjoy Your Life](https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Enjoy Your Life](https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N) | 4:00 |
 | 76 | [Hooked](https://open.spotify.com/track/4f0pJ7NNHAsrWbQBwiHMRJ) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [Hooked](https://open.spotify.com/album/6fvvgoTSS7hVS1X6nyWBwl) | 2:28 |

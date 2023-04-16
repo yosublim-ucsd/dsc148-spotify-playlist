@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 
 > El poder real del Hip Hop latinoamericano y español\. Foto: Cartel de Santa
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,213 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,429 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 78 | [ANIMAL](https://open.spotify.com/track/06b0Au6pvZiO03eKTCvgWh) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ANIMAL](https://open.spotify.com/album/4eBTljS2CAgzO8rfcwRTGp) | 2:50 |
 | 79 | [Siempre Peligroso \(feat\. Fermin IV Caballero\)](https://open.spotify.com/track/1hSJnfkEqbGF5afz5aqKqi) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX), [Fermin IV Caballero](https://open.spotify.com/artist/2ADe1weFY6flwz9LoSDcy3) | [Los Grandes Éxitos En Español \(Spanish Greatest Hits\)](https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ) | 3:57 |
 | 80 | [Apaga el celular](https://open.spotify.com/track/7BhCvFVZwe04hLpNutqTdg) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Apaga el celular](https://open.spotify.com/album/4hl6j5ZMGsCxBhw3BuDDbK) | 3:45 |
-| 81 | [Fly Chill](https://open.spotify.com/track/2N7IoT0kof97BeaQmgw8Qd) | [Cráneo](https://open.spotify.com/artist/05aVtfDzBvg9eVu9MAZPGD) | [HandMade](https://open.spotify.com/album/03pei2ys07tBBGUi0Xrly8) | 3:54 |
-| 82 | [Amor Libre](https://open.spotify.com/track/1PT0H11VO2JSWjsCPR0CBd) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto), [Shuga Wuga](https://open.spotify.com/artist/5K0ecq1n7e5BnM7FxgVi3G) | [Poesia Difusa](https://open.spotify.com/album/1zrVeZHRsPsRWdnQSuUIYG) | 5:09 |
+| 81 | [Amor Libre](https://open.spotify.com/track/1PT0H11VO2JSWjsCPR0CBd) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto), [Shuga Wuga](https://open.spotify.com/artist/5K0ecq1n7e5BnM7FxgVi3G) | [Poesia Difusa](https://open.spotify.com/album/1zrVeZHRsPsRWdnQSuUIYG) | 5:09 |
+| 82 | [Fly Chill](https://open.spotify.com/track/2N7IoT0kof97BeaQmgw8Qd) | [Cráneo](https://open.spotify.com/artist/05aVtfDzBvg9eVu9MAZPGD) | [HandMade](https://open.spotify.com/album/03pei2ys07tBBGUi0Xrly8) | 3:54 |
 | 83 | [Pura Droga Sin Cortar](https://open.spotify.com/track/7zUhVz7yMmO1mmbfFI8R5i) | [Violadores Del Verso](https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY) | [Vivir para Contarlo](https://open.spotify.com/album/6LeLj7gigY7PBgPVZ6P25f) | 6:14 |
 | 84 | [Rolemos Otro](https://open.spotify.com/track/75WXBeClIQQl6ql1nZbDF5) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Rolemos Otro](https://open.spotify.com/album/01AooA3ywuIEk6EQaoWjh3) | 3:14 |
 | 85 | [Babilonia](https://open.spotify.com/track/6A3zrZTU4pe9oqDZgwajA0) | [Morodo](https://open.spotify.com/artist/2OnH4HpywAxWkSOEsyjdjn), [Souchi](https://open.spotify.com/artist/21MQrtr5N5sHLPKK47awzG) | [Ozmlstayl](https://open.spotify.com/album/2gCfdIhyW4Sr2TYWUy2Rkc) | 4:08 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 94 | [No Copio](https://open.spotify.com/track/20ULOJfgc85eBXq83rjKEf) | [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53) | [No Copio](https://open.spotify.com/album/2A3JkMQdIK53qMJo6PcXhT) | 3:25 |
 | 95 | [Haces Mal](https://open.spotify.com/track/57ZAQ9KG9Oeq6hQlMdDnWR) | [La Banda Baston](https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP) | [Luces Fantasma](https://open.spotify.com/album/0gzZ8kGuKfDlVtBVmDLNJj) | 4:23 |
 | 96 | [Tony Presidio](https://open.spotify.com/track/059R1Qzi5TyYqVKNT1xlaL) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [Aquel Que Habia Muerto](https://open.spotify.com/album/4bs7KOBJGZnfSpP4QBP15G) | 6:11 |
-| 97 | [Sexo de Despedida](https://open.spotify.com/track/5v5kX73l0sZwZ7XYuL3vGq) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [Nunca Vemos Nada](https://open.spotify.com/album/4xXjsyeUxgEUJtRU9Ftpbv) | 3:41 |
-| 98 | [Efectos Vocales](https://open.spotify.com/track/5CTkt6WZHrzG7i060niTmV) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [Un Día En Suburbia](https://open.spotify.com/album/0aJ4ulwOTjZIMgcx5zVBd7) | 4:36 |
-| 99 | [De Pe a Pa](https://open.spotify.com/track/77ozYKcoGc9Cc6M9wRZH9d) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS) | [Círculo Vicioso](https://open.spotify.com/album/31HSq8pOXZCts7GqWXTRU1) | 4:23 |
+| 97 | [Efectos Vocales](https://open.spotify.com/track/5CTkt6WZHrzG7i060niTmV) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [Un Día En Suburbia](https://open.spotify.com/album/0aJ4ulwOTjZIMgcx5zVBd7) | 4:36 |
+| 98 | [De Pe a Pa](https://open.spotify.com/track/77ozYKcoGc9Cc6M9wRZH9d) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS) | [Círculo Vicioso](https://open.spotify.com/album/31HSq8pOXZCts7GqWXTRU1) | 4:23 |
+| 99 | [Sexo de Despedida](https://open.spotify.com/track/5v5kX73l0sZwZ7XYuL3vGq) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [Nunca Vemos Nada](https://open.spotify.com/album/4xXjsyeUxgEUJtRU9Ftpbv) | 3:41 |
 | 100 | [Yo Quiero Fumar \(I Wanna Get High\) \- Spanish Version](https://open.spotify.com/track/3RIDe85YSYGGoJ0daSzfhD) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Los Grandes Éxitos En Español \(Spanish Greatest Hits\)](https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ) | 2:46 |
 
-Snapshot ID: `MTYzNzA5NDA5NywwMDAwMDAwMDRkZDhmOTE5ZjE2NTNmMzgzZGUzOGQyOWMyZTQxZDk3`
+Snapshot ID: `MTYzNzA5NDA5NywwMDAwMDAwMGQ5MDJmMmI2ZjRmMmQ4ODRlZTVkMzMyMTlkOWRlZTcy`

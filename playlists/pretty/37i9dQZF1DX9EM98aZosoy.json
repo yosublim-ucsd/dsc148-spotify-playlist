@@ -1,12 +1,12 @@
 {
   "description": "Feiern mit den gr\u00f6\u00dften aktuellen Partyhits.",
-  "num_followers": 1253524,
+  "num_followers": 1253696,
   "original_name": "Partyhymnen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ2ODUzNywwMDAwMDAwMDg2ZWQ1NDYxMzVjMzczZmM3ZTc4ODIzNDg1ZWE4NzNh",
+  "snapshot_id": "MTY4MTQ2ODUzNywwMDAwMDAwMDYwOWIzNjJiY2ZiNjhkZWY0NWI5MzY0MDVhMmEwZGRl",
   "tracks": [
     {
       "added_at": "2023-04-14 10:35:36",
@@ -115,22 +115,6 @@
     {
       "added_at": "2023-04-14 10:35:36",
       "album": {
-        "name": "Dreamland (+ Bonus Levels)",
-        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
-    },
-    {
-      "added_at": "2023-04-14 10:35:36",
-      "album": {
         "name": "Ferrari",
         "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
       },
@@ -187,26 +171,6 @@
     {
       "added_at": "2023-04-14 10:35:36",
       "album": {
-        "name": "The Motto",
-        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 164818,
-      "name": "The Motto",
-      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
-    },
-    {
-      "added_at": "2023-04-14 10:35:36",
-      "album": {
         "name": "Call It Love",
         "url": "https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn"
       },
@@ -223,6 +187,26 @@
       "duration_ms": 154560,
       "name": "Call It Love",
       "url": "https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B"
+    },
+    {
+      "added_at": "2023-04-14 10:35:36",
+      "album": {
+        "name": "The Motto",
+        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 164818,
+      "name": "The Motto",
+      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
     },
     {
       "added_at": "2023-04-14 10:35:36",
@@ -339,6 +323,22 @@
     {
       "added_at": "2023-04-14 10:35:36",
       "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
+    },
+    {
+      "added_at": "2023-04-14 10:35:36",
+      "album": {
         "name": "Where Did You Go (feat. MNEK)",
         "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
       },
@@ -411,26 +411,6 @@
     {
       "added_at": "2023-04-14 10:35:36",
       "album": {
-        "name": "Kernkraft 400 (A Better Day)",
-        "url": "https://open.spotify.com/album/2NIChqkijGw4r4Dqfmg0A3"
-      },
-      "artists": [
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
-        }
-      ],
-      "duration_ms": 165800,
-      "name": "Kernkraft 400 (A Better Day)",
-      "url": "https://open.spotify.com/track/3kcKlOkQQEPVwxwljbGJ5p"
-    },
-    {
-      "added_at": "2023-04-14 10:35:36",
-      "album": {
         "name": "Weekends",
         "url": "https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 127003,
       "name": "Weekends",
       "url": "https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2"
+    },
+    {
+      "added_at": "2023-04-14 10:35:36",
+      "album": {
+        "name": "Kernkraft 400 (A Better Day)",
+        "url": "https://open.spotify.com/album/2NIChqkijGw4r4Dqfmg0A3"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "duration_ms": 165800,
+      "name": "Kernkraft 400 (A Better Day)",
+      "url": "https://open.spotify.com/track/3kcKlOkQQEPVwxwljbGJ5p"
     },
     {
       "added_at": "2023-04-14 10:35:36",
@@ -579,26 +579,6 @@
     {
       "added_at": "2023-04-14 10:35:36",
       "album": {
-        "name": "Big City Life",
-        "url": "https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC"
-      },
-      "artists": [
-        {
-          "name": "Luude",
-          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
-        },
-        {
-          "name": "Mattafix",
-          "url": "https://open.spotify.com/artist/5KORW1YGiERJqfuYjXMCyz"
-        }
-      ],
-      "duration_ms": 146711,
-      "name": "Big City Life",
-      "url": "https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN"
-    },
-    {
-      "added_at": "2023-04-14 10:35:36",
-      "album": {
         "name": "Don\u2019t Wake Me Up",
         "url": "https://open.spotify.com/album/6ydP9IJkzpippCnXf2bpNs"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 188894,
       "name": "Don\u2019t Wake Me Up",
       "url": "https://open.spotify.com/track/3LEgGAl9zLcQWGTp7ptqtQ"
+    },
+    {
+      "added_at": "2023-04-14 10:35:36",
+      "album": {
+        "name": "Big City Life",
+        "url": "https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Mattafix",
+          "url": "https://open.spotify.com/artist/5KORW1YGiERJqfuYjXMCyz"
+        }
+      ],
+      "duration_ms": 146711,
+      "name": "Big City Life",
+      "url": "https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN"
     },
     {
       "added_at": "2023-04-14 10:35:36",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-04-14 10:35:36",
       "album": {
-        "name": "Mangos mit Chili",
-        "url": "https://open.spotify.com/album/3qsz2ytKVv0pn17TISastM"
-      },
-      "artists": [
-        {
-          "name": "Nina Chuba",
-          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
-        }
-      ],
-      "duration_ms": 134887,
-      "name": "Mangos mit Chili",
-      "url": "https://open.spotify.com/track/11eYmv0tA3wEoyD1Sad2Nv"
-    },
-    {
-      "added_at": "2023-04-14 10:35:36",
-      "album": {
         "name": "Push Up (Original Mix)",
         "url": "https://open.spotify.com/album/4OPl8QJEF698sMfW76g5mK"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 240059,
       "name": "Push Up - Original Mix",
       "url": "https://open.spotify.com/track/43OMUa5jouGCZEz9k9vooo"
+    },
+    {
+      "added_at": "2023-04-14 10:35:36",
+      "album": {
+        "name": "Mangos mit Chili",
+        "url": "https://open.spotify.com/album/3qsz2ytKVv0pn17TISastM"
+      },
+      "artists": [
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        }
+      ],
+      "duration_ms": 134887,
+      "name": "Mangos mit Chili",
+      "url": "https://open.spotify.com/track/11eYmv0tA3wEoyD1Sad2Nv"
     },
     {
       "added_at": "2023-04-14 10:35:36",
@@ -851,26 +851,6 @@
     {
       "added_at": "2023-04-14 10:35:36",
       "album": {
-        "name": "Hallucination",
-        "url": "https://open.spotify.com/album/3uTg9ykOYoW54hj9q66oCh"
-      },
-      "artists": [
-        {
-          "name": "Regard",
-          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
-        },
-        {
-          "name": "Years & Years",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-        }
-      ],
-      "duration_ms": 174794,
-      "name": "Hallucination",
-      "url": "https://open.spotify.com/track/7y3c1oJMY1CwwtOZ84Qovu"
-    },
-    {
-      "added_at": "2023-04-14 10:35:36",
-      "album": {
         "name": "Bulletproof",
         "url": "https://open.spotify.com/album/5TSSlGJmfkBNC4M3uoMswL"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 162213,
       "name": "Bulletproof",
       "url": "https://open.spotify.com/track/0SyxZC4wlqAwf20cHE6Xon"
+    },
+    {
+      "added_at": "2023-04-14 10:35:36",
+      "album": {
+        "name": "Hallucination",
+        "url": "https://open.spotify.com/album/3uTg9ykOYoW54hj9q66oCh"
+      },
+      "artists": [
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        },
+        {
+          "name": "Years & Years",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "duration_ms": 174794,
+      "name": "Hallucination",
+      "url": "https://open.spotify.com/track/7y3c1oJMY1CwwtOZ84Qovu"
     },
     {
       "added_at": "2023-04-14 10:35:36",

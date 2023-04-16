@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 
 > Reinas de la cumbia, de hoy y de siempre\. <br/>Foto: Karina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,927 likes - 65 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,954 likes - 65 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 | 10 | [Amor A Primera Vista](https://open.spotify.com/track/5Myb8S90Wg0yLec5kmrIGJ) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj), [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2) | [De Buenos Aires Para El Mundo](https://open.spotify.com/album/6lWHI43OEAIWn0gfMxwvZE) | 3:41 |
 | 11 | [Como La Flor](https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 3:04 |
 | 12 | [Fuiste](https://open.spotify.com/track/4fLd1pIpGwV4IEbQNyQMLh) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Corazón Valiente](https://open.spotify.com/album/1qeqv8V5qkNHRmhcBD5QnD) | 3:04 |
-| 13 | [Lágrimas y Flores \(feat\. Natalie Perez\)](https://open.spotify.com/track/5ddqh5tCgWitBsKdKsp0kC) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Lágrimas y Flores \(feat\. Natalie Perez\)](https://open.spotify.com/album/6GkLBhohzpGAdnnLmkBAKX) | 3:37 |
-| 14 | [Tenías Que Ser Tú](https://open.spotify.com/track/2rIKsynpXAj5bHFdY6ESE1) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Tenías Que Ser Tú](https://open.spotify.com/album/0S2fWlZm0i6m8CtlnspJyj) | 2:21 |
+| 13 | [Tenías Que Ser Tú](https://open.spotify.com/track/2rIKsynpXAj5bHFdY6ESE1) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Tenías Que Ser Tú](https://open.spotify.com/album/0S2fWlZm0i6m8CtlnspJyj) | 2:21 |
+| 14 | [Lágrimas y Flores \(feat\. Natalie Perez\)](https://open.spotify.com/track/5ddqh5tCgWitBsKdKsp0kC) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Lágrimas y Flores \(feat\. Natalie Perez\)](https://open.spotify.com/album/6GkLBhohzpGAdnnLmkBAKX) | 3:37 |
 | 15 | [ADIÓS](https://open.spotify.com/track/2bNCiY24Eh4saMcc23bvUN) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL) | 2:40 |
 | 16 | [Corazon Mentiroso](https://open.spotify.com/track/2ZkWTFZ9rQCl6ccNAOO79L) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Sin Vergüenza](https://open.spotify.com/album/2WuEroV8xhS8VXN8xjArIT) | 2:59 |
 | 17 | [Escándalo](https://open.spotify.com/track/1Ed4AvDGnUGtU0dYrnwLPg) | [Margarita la diosa de la cumbia](https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn) | [30 Aniversario](https://open.spotify.com/album/7bYeeLp33ix2DiyM8f5It6) | 4:48 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 | 51 | [En tu pelo](https://open.spotify.com/track/5LhnavryqjYomWrEzfjB8G) | [Lia Crucet](https://open.spotify.com/artist/1wsio1S9CIIbEuGSYkSAyQ) | [Noche Fantástica](https://open.spotify.com/album/46aiwDetBeomB5cBmuC0Qj) | 3:37 |
 | 52 | [Si Tu Te Vas](https://open.spotify.com/track/4jUH6sw78DUA7ksSvudJec) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Si hay alguien en tu vida](https://open.spotify.com/album/4UUIaLkoQJhxvpWuSH9tGs) | 3:51 |
 | 53 | [Amor de Cuarentena \- Urbano](https://open.spotify.com/track/7N3XvjdeJ9cz9frgQA0gQ4) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [Amor de Cuarentena \(Urbano\)](https://open.spotify.com/album/7oiQXn5G0q5kapu7i62Sn5) | 3:14 |
-| 54 | [Mientes](https://open.spotify.com/track/6NLLlVLuq3u7lx1n8Ngvpm) | [Kumbia Queers](https://open.spotify.com/artist/5YyaDaOco3I0zoLtGxDM5K) | [Pecados Tropicales](https://open.spotify.com/album/5PGOTj7lzQiSgJfk1Zrdgn) | 3:02 |
-| 55 | [Lo Que Tenias Conmigo](https://open.spotify.com/track/5kgEYgfAbwGghXZCyOm7xm) | [Vanesa Britos](https://open.spotify.com/artist/5XOiPMOBMDm4AYCFRS1e0j) | [Lo Que Tenias Conmigo](https://open.spotify.com/album/78VOKOepzfCQP4thwrVnw4) | 3:18 |
+| 54 | [Lo Que Tenias Conmigo](https://open.spotify.com/track/5kgEYgfAbwGghXZCyOm7xm) | [Vanesa Britos](https://open.spotify.com/artist/5XOiPMOBMDm4AYCFRS1e0j) | [Lo Que Tenias Conmigo](https://open.spotify.com/album/78VOKOepzfCQP4thwrVnw4) | 3:18 |
+| 55 | [Mientes](https://open.spotify.com/track/6NLLlVLuq3u7lx1n8Ngvpm) | [Kumbia Queers](https://open.spotify.com/artist/5YyaDaOco3I0zoLtGxDM5K) | [Pecados Tropicales](https://open.spotify.com/album/5PGOTj7lzQiSgJfk1Zrdgn) | 3:02 |
 | 56 | [Llévame](https://open.spotify.com/track/0cDY6YWjTuodhVZbMce478) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Encanto Tropical](https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma) | 3:53 |
 | 57 | [Ya No Cabes en Mi Vida](https://open.spotify.com/track/5ZycfkHySa9RUkzSchzQTf) | [Mariana Seoane](https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV) | [Ya No Cabes en Mi Vida](https://open.spotify.com/album/0owqh23Zt5u38h1SbS4Oyf) | 3:31 |
 | 58 | [Abrázame y Bésame](https://open.spotify.com/track/4ZiPUCqlr9XeW5JkuWansG) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU) | [Abrázame y Bésame](https://open.spotify.com/album/28mdITeLFYo3nx3NufxYSu) | 3:00 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 | 64 | [No Te Irás](https://open.spotify.com/track/3E1z3ls7cgoAZV98STE2rT) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Solo un Momento](https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG) | 3:42 |
 | 65 | [Falso Malo](https://open.spotify.com/track/1AYcHW1tRB3AiVQ1OM7O19) | [Karen Britos](https://open.spotify.com/artist/6DTSChtNao6SMQy2EyTHyA) | [Música del Alma](https://open.spotify.com/album/6CYOL7EVkEQuCgyEFdb7WJ) | 3:27 |
 
-Snapshot ID: `MTY4MDc0MjMwNiwwMDAwMDAwMDViMjg5MGI3Y2NiZjA1Njg2M2YyZWI4YTQ1ZGQzOGQy`
+Snapshot ID: `MTY4MDc0MjMwNiwwMDAwMDAwMGZmODQ5N2VjY2U0ZWM5ODFhNDRjYzVjYTlkMmYyNTQ0`

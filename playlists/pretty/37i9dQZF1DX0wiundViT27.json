@@ -1,12 +1,12 @@
 {
   "description": "A dose of high-energy, feel-good rock tunes.",
-  "num_followers": 612171,
+  "num_followers": 612185,
   "original_name": "Rock Me Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDIyOTQxMSwwMDAwMDAwMDk2NmMxYmRhOGJjZjA1ZjBiZTkxMTZiMTBmNmExN2Jj",
+  "snapshot_id": "MTY3NDIyOTQxMSwwMDAwMDAwMDA5OWVlMDA1Mjk4NDZlMjg0YmFmYTFlNjE5M2VhOWRm",
   "tracks": [
     {
       "added_at": "2023-01-20 15:43:31",
@@ -243,18 +243,18 @@
     {
       "added_at": "2023-01-20 15:43:31",
       "album": {
-        "name": "ZOMBIFIED",
-        "url": "https://open.spotify.com/album/7nYa3AJUXbBrRLPXtneIEX"
+        "name": "A Place In The Sun",
+        "url": "https://open.spotify.com/album/3w5Uz3q4SJze14P60ZChsp"
       },
       "artists": [
         {
-          "name": "Falling In Reverse",
-          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
+          "name": "Lit",
+          "url": "https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp"
         }
       ],
-      "duration_ms": 218520,
-      "name": "ZOMBIFIED",
-      "url": "https://open.spotify.com/track/2ib8fuTavdc48X6MjhE4Ft"
+      "duration_ms": 169026,
+      "name": "My Own Worst Enemy",
+      "url": "https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z"
     },
     {
       "added_at": "2023-01-20 15:43:31",
@@ -275,18 +275,18 @@
     {
       "added_at": "2023-01-20 15:43:31",
       "album": {
-        "name": "A Place In The Sun",
-        "url": "https://open.spotify.com/album/3w5Uz3q4SJze14P60ZChsp"
+        "name": "ZOMBIFIED",
+        "url": "https://open.spotify.com/album/7nYa3AJUXbBrRLPXtneIEX"
       },
       "artists": [
         {
-          "name": "Lit",
-          "url": "https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp"
+          "name": "Falling In Reverse",
+          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
         }
       ],
-      "duration_ms": 169026,
-      "name": "My Own Worst Enemy",
-      "url": "https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z"
+      "duration_ms": 218520,
+      "name": "ZOMBIFIED",
+      "url": "https://open.spotify.com/track/2ib8fuTavdc48X6MjhE4Ft"
     },
     {
       "added_at": "2023-01-20 15:43:31",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-01-20 15:43:31",
       "album": {
+        "name": "With Teeth",
+        "url": "https://open.spotify.com/album/56Us3Q6UIM4jKJZlWhqddL"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "duration_ms": 211680,
+      "name": "The Hand That Feeds",
+      "url": "https://open.spotify.com/track/5ugzDiilhy6ILKmKfhEzd7"
+    },
+    {
+      "added_at": "2023-01-20 15:43:31",
+      "album": {
         "name": "Story Of My Life (feat. Trippie Redd)",
         "url": "https://open.spotify.com/album/6C4DfusL8qEXmt6MFhAMU6"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 191124,
       "name": "Story Of My Life (feat. Trippie Redd)",
       "url": "https://open.spotify.com/track/1g7j5AxiNKTGjryhFIlAsA"
-    },
-    {
-      "added_at": "2023-01-20 15:43:31",
-      "album": {
-        "name": "With Teeth",
-        "url": "https://open.spotify.com/album/56Us3Q6UIM4jKJZlWhqddL"
-      },
-      "artists": [
-        {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
-        }
-      ],
-      "duration_ms": 211680,
-      "name": "The Hand That Feeds",
-      "url": "https://open.spotify.com/track/5ugzDiilhy6ILKmKfhEzd7"
     },
     {
       "added_at": "2023-01-20 15:43:31",

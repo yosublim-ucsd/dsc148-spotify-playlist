@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,404 likes - 60 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,445 likes - 60 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 | 32 | [Calma](https://open.spotify.com/track/1IcI7zO7RvGKGWx5jRNouz) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Calma](https://open.spotify.com/album/4NnapYcmIcnlJXB22BPve5) | 3:06 |
 | 33 | [Barato Total](https://open.spotify.com/track/6zz0dj3H9Q7JJlB6BHIhva) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Em Casa Com os Gil](https://open.spotify.com/album/3n7esvSbuawAdZkDcxIsOE) | 3:54 |
 | 34 | [Me Toca](https://open.spotify.com/track/2uSeVS09DW8FnBgc61eHDW) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Me Toca](https://open.spotify.com/album/7n5J2k1hvnJ9UZ1BGBBLrU) | 3:06 |
-| 35 | [Todo Carinho](https://open.spotify.com/track/118239i3aWkav7mlAmldh9) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Sinto Muito](https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx) | 4:29 |
-| 36 | [Onde Estará](https://open.spotify.com/track/0R6eisAFzeF5pe4k7pkLgg) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4) | [Nonsense, Vol\. 1](https://open.spotify.com/album/1V04SFSq2Fr9m6lnSDZujG) | 3:37 |
+| 35 | [Onde Estará](https://open.spotify.com/track/0R6eisAFzeF5pe4k7pkLgg) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4) | [Nonsense, Vol\. 1](https://open.spotify.com/album/1V04SFSq2Fr9m6lnSDZujG) | 3:37 |
+| 36 | [Todo Carinho](https://open.spotify.com/track/118239i3aWkav7mlAmldh9) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Sinto Muito](https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx) | 4:29 |
 | 37 | [Cansar De Dançar](https://open.spotify.com/track/4c63lo9vrZ9n0vs0ehiYks) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Cansar De Dançar](https://open.spotify.com/album/0CN6YfcfGslLa48BW7mlDK) | 2:37 |
 | 38 | [Qual É A Sua?](https://open.spotify.com/track/62WFjVVAPJfBETQ574qJMP) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Para Dias Ruins](https://open.spotify.com/album/4EsFZtXhyj9RHiRb2V0eMT) | 3:10 |
 | 39 | [Céu da Boca](https://open.spotify.com/track/1tqio9a4FxPi01E1NDII3U) | [Castello Branco](https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Serviço](https://open.spotify.com/album/5WCVs6FJvyIH9Zr0ZVGmge) | 3:03 |
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 | 52 | [Rua Três](https://open.spotify.com/track/4vyaIWwgD7hVwiQK2WFHlj) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [Rua Três](https://open.spotify.com/album/1ZPbCMJ85qF2d3VpUn9z6C) | 2:34 |
 | 53 | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/track/4juBGpkEJrSbWUPUW0prlA) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/album/1hPfRy9zgpPB9KTlcB9dlM) | 4:31 |
 | 54 | [Trevo, Figuinha e Suor na Camisa](https://open.spotify.com/track/5XlSsxpTi0usJnQSUwBORk) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Trevo, Figuinha e Suor na Camisa](https://open.spotify.com/album/5AYV4MJslPN48xaab39ZuW) | 2:50 |
-| 55 | [Samba de Novela](https://open.spotify.com/track/3LkhWWarDHcfXgWtahraP0) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0) | [Samba de Novela](https://open.spotify.com/album/4sXWwVNqOTKzOZMdGDDlNe) | 3:18 |
-| 56 | [Só Porque Eu Sou Mulher](https://open.spotify.com/track/6gpnmxMmHCWpfkb1vkqasb) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Haga](https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o) | [Só Porque Eu Sou Mulher](https://open.spotify.com/album/5XOEPbMzQhqgXXKtxm8Isa) | 2:43 |
-| 57 | [Dias de Janeiro](https://open.spotify.com/track/05m3Pl8gI9JiySe6IoISa5) | [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK) | [Condom Black](https://open.spotify.com/album/79PfK4UpwBYNTmfb3OQEas) | 5:42 |
-| 58 | [Alumiô](https://open.spotify.com/track/1wBZJA59toDn4TESZRPxs3) | [Luiza Lian](https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW), [Bixiga 70](https://open.spotify.com/artist/6rUeHFntOV8tgpoUJvEthU) | [Alumiô](https://open.spotify.com/album/358AvliXpqAtQY1grWwuQ1) | 3:24 |
+| 55 | [Só Porque Eu Sou Mulher](https://open.spotify.com/track/6gpnmxMmHCWpfkb1vkqasb) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Haga](https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o) | [Só Porque Eu Sou Mulher](https://open.spotify.com/album/5XOEPbMzQhqgXXKtxm8Isa) | 2:43 |
+| 56 | [Samba de Novela](https://open.spotify.com/track/3LkhWWarDHcfXgWtahraP0) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0) | [Samba de Novela](https://open.spotify.com/album/4sXWwVNqOTKzOZMdGDDlNe) | 3:18 |
+| 57 | [Alumiô](https://open.spotify.com/track/1wBZJA59toDn4TESZRPxs3) | [Luiza Lian](https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW), [Bixiga 70](https://open.spotify.com/artist/6rUeHFntOV8tgpoUJvEthU) | [Alumiô](https://open.spotify.com/album/358AvliXpqAtQY1grWwuQ1) | 3:24 |
+| 58 | [Dias de Janeiro](https://open.spotify.com/track/05m3Pl8gI9JiySe6IoISa5) | [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK) | [Condom Black](https://open.spotify.com/album/79PfK4UpwBYNTmfb3OQEas) | 5:42 |
 | 59 | [O amor te dá](https://open.spotify.com/track/3x4niJ27HxoLK5JNLRZmSq) | [Amanda Magalhães](https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO) | [O amor te dá](https://open.spotify.com/album/6qSldIF6nA00siaQqtfhFW) | 4:07 |
 | 60 | [Gold Coast](https://open.spotify.com/track/27hudnRUnesKNOZoiuLPVs) | [Marcelo Falcão](https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr) | [Viver \(Mais leve que o ar\)](https://open.spotify.com/album/2TSwxXVstj31Js9PAgJ55u) | 4:19 |
 
-Snapshot ID: `MTY3OTAyMjAwMCwwMDAwMDAwMGQ4MmRlMTA4YmIyOWUyODA3YTFmYzA2NzcxMTI2MGNm`
+Snapshot ID: `MTY4MTU4NTg5NSwwMDAwMDAwMGZhMDViZjUxYmE1NWNmY2UwMGZiMzllM2FjYmRmZmY0`

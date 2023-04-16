@@ -4,7 +4,7 @@
 
 > Experience the best live performances.
 
-187 songs - 15 hr 46 min
+188 songs - 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [A Woman's Worth \(Live\) \- Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY \- July 2005](https://open.spotify.com/track/2KxLC0zzzCvJ5xg9dZPnA2) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Unplugged](https://open.spotify.com/album/4KCe4KPxUSyKPLu5a6mDVg) | 3:30 | 2022-02-10 |  |
 | [Add To Me \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/1pvaVKcvcdNcfo9iLzSMAU) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Spotify Singles](https://open.spotify.com/album/5nUKNLU2nc5JlmCrzXrJ65) | 3:40 | 2022-02-10 |  |
 | [Ain't No Sun Since You've Been Gone](https://open.spotify.com/track/1GObAbNNxVnMhhB4Q5HIEk) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Live At The Copa & With A Lot Of Soul](https://open.spotify.com/album/3GO8yF9VD1N7Ebkqfhb6vn) | 3:00 | 2022-02-10 | 2022-07-14 |
+| [Ain't No Sun Since You've Been Gone](https://open.spotify.com/track/1yBN1LvoUu6yR7m5ZsmwAa) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [With A Lot O' Soul](https://open.spotify.com/album/1nklkfuUUujG5s3wL6mfuL) | 3:02 | 2023-04-06 |  |
 | [Ain't No Sunshine \- Live at Carnegie Hall, New York, NY \- October 1972](https://open.spotify.com/track/5gEbHse5x6o11g2Tef4AbR) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Bill Withers Live At Carnegie Hall](https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx) | 2:57 | 2022-02-10 |  |
 | [Ain't Nobody \- Live](https://open.spotify.com/track/0oPvVcpAOWtr5IVDyVflfT) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Homecoming \(Live\)](https://open.spotify.com/album/26I2Hz4j3e00ggpjIzuIyY) | 6:14 | 2022-02-10 |  |
 | [Angel \(Live\)](https://open.spotify.com/track/0QmLbWOTGnaMgUCL8xfWiw) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [Lalah Hathaway Live!](https://open.spotify.com/album/4XPHspoSgvDO0ongX1PVKv) | 5:42 | 2022-02-10 | 2022-07-17 |
@@ -162,7 +163,7 @@
 | [The World \(Is Going Up in Flames\) \- Live From Spotify House SXSW '16](https://open.spotify.com/track/1BbzDXEzmgyNT8jeCQvawN) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf) | [Spotify Sessions](https://open.spotify.com/album/0jEAeDxv9hnoIc1YO1kpUk) | 3:11 | 2022-02-10 |  |
 | [The World \(Is Going up in Flames\) \- Live from Spotify House SXSW '16](https://open.spotify.com/track/3Hy45zVyIpdk9BozbS4PU3) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf) | [Spotify Sessions](https://open.spotify.com/album/4fhvCJ9ddgfRcKvubAxZxu) | 3:11 | 2022-02-10 | 2022-07-29 |
 | [There's Nothing Like This \- Live](https://open.spotify.com/track/2kMf9K6k20Ab19RQpUspEj) | [Omar](https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z), [QCBA](https://open.spotify.com/artist/37B0KQjcPVSWjLpOO8ChBb) | [There's Nothing Like This \(Live\)](https://open.spotify.com/album/3P8vrRhCKHoITLLXiwe1iH) | 7:50 | 2022-02-10 | 2022-07-29 |
-| [These Arms Of Mine](https://open.spotify.com/track/03pSPi9O3N1CkZ12M6Av44) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Good To Me: Recorded Live At The Whisky A Go Go Vol\. 2](https://open.spotify.com/album/4GBpI2RteJ9C51Mf1OgZAQ) | 3:30 | 2022-02-10 |  |
+| [These Arms Of Mine](https://open.spotify.com/track/03pSPi9O3N1CkZ12M6Av44) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Good To Me: Recorded Live At The Whisky A Go Go Vol\. 2](https://open.spotify.com/album/4GBpI2RteJ9C51Mf1OgZAQ) | 3:30 | 2022-02-10 | 2023-04-16 |
 | [Time Is On My Side \- Live At Slim's, San Francisco, CA / 8\-30\-1990 & 8\-31\-1990](https://open.spotify.com/track/1TIejSLYx3yUHxiHnAsnlU) | [Irma Thomas](https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv) | [Simply The Best: Live!](https://open.spotify.com/album/5B0ZSh5gb6vFoOe5hSq97w) | 2:38 | 2022-02-10 | 2022-07-24 |
 | [Tired of Being Alone \- Live](https://open.spotify.com/track/4ZEP6AlYmtx43qQdr5cwcx) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Tokyo..\. Live](https://open.spotify.com/album/5ON1SpKi7LFb8axFjAmpEJ) | 5:17 | 2022-02-10 | 2022-07-29 |
 | [To Be Young, Gifted and Black \- Live at the Troubador, Los Angeles, CA](https://open.spotify.com/track/6zLWH5tkCUU6k5nlBzM8z8) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [In Performance](https://open.spotify.com/album/5GKpUSUujdodLbsrJPu4FW) | 8:22 | 2022-02-10 | 2022-07-28 |

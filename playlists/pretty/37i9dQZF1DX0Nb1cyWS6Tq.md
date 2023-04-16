@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 
 > You better duck, when I show you up, the goo goo muck! The Cramps on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 592,423 likes - 80 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 592,964 likes - 80 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,27 +57,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 47 | [Love Like Blood](https://open.spotify.com/track/14z3RzUHeZQgtpOlSYvmZD) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Night Time](https://open.spotify.com/album/2qcwXvluk9iFwNNg4eDBXm) | 6:48 |
 | 48 | [Falling](https://open.spotify.com/track/31CYUJj5f9lbQ0Qqm9PzK5) | [Julee Cruise](https://open.spotify.com/artist/4Pt1HZtuJwrQB8l0ES5iTX) | [Floating Into The Night](https://open.spotify.com/album/3N6VPyK0YsRTccqoRQjkVx) | 5:21 |
 | 49 | [Wax And Wane](https://open.spotify.com/track/1pCaxskZpChEzo3ZTeUFwH) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Garlands](https://open.spotify.com/album/3yT1f4nGSy3BBw4ghtRF29) | 4:04 |
-| 50 | [Kick in the Eye](https://open.spotify.com/track/1WmDtKY1clNiRdc5xY8Bms) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [Mask](https://open.spotify.com/album/6Cj5mXjHSi8eJ5jOAI8tsV) | 3:40 |
-| 51 | [30 Century Man](https://open.spotify.com/track/6u0EHlRPgUIfER7ZAE4x6Q) | [Scott Walker](https://open.spotify.com/artist/04tBaW21jyUfeP5iqiKBVq) | [Scott 3](https://open.spotify.com/album/5ofQcOqaopFUp7VO5UYzpI) | 1:26 |
+| 50 | [30 Century Man](https://open.spotify.com/track/6u0EHlRPgUIfER7ZAE4x6Q) | [Scott Walker](https://open.spotify.com/artist/04tBaW21jyUfeP5iqiKBVq) | [Scott 3](https://open.spotify.com/album/5ofQcOqaopFUp7VO5UYzpI) | 1:26 |
+| 51 | [Kick in the Eye](https://open.spotify.com/track/1WmDtKY1clNiRdc5xY8Bms) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [Mask](https://open.spotify.com/album/6Cj5mXjHSi8eJ5jOAI8tsV) | 3:40 |
 | 52 | [Kangaroo \- Remastered](https://open.spotify.com/track/2HsOICaAi5bwnqyG7uO1Fo) | [This Mortal Coil](https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO) | [It'll End In Tears \(Remastered\)](https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j) | 3:29 |
 | 53 | [A Strange Kind of Love \- Version One](https://open.spotify.com/track/1zPAojZywAA8wCIScNMGK6) | [Peter Murphy](https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY) | [Deep](https://open.spotify.com/album/63VVK15ZBJI5TZu525KTVa) | 3:48 |
 | 54 | [Blasphemous Rumours \- 2006 Remaster](https://open.spotify.com/track/5KjueTOwREhwpEcYrzD0Fz) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Some Great Reward \(2006 Remaster\)](https://open.spotify.com/album/7DbpWj9i5uZ1UggeGRo1LZ) | 6:21 |
 | 55 | [Alice](https://open.spotify.com/track/4PbxSwW7CxxYIFINPjuTnd) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [Some Girls Wander by Mistake](https://open.spotify.com/album/42HVWb7R8TxLHgVjc2OOIV) | 3:34 |
-| 56 | [Red Drop](https://open.spotify.com/track/0jyOu6GTwQ3c0hVXYwGZpL) | [Motorama](https://open.spotify.com/artist/3j0kMFxXTTYsuw1twLClw3) | [Poverty](https://open.spotify.com/album/18y3DE8cX1ptDjRVwgnmfb) | 3:31 |
-| 57 | [Seemann](https://open.spotify.com/track/5zW8UE2pvxwZ1TRC6Q3CXr) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Nina Hagen](https://open.spotify.com/artist/7xZHrltZh8zIRvjimgABvj) | [Reflections](https://open.spotify.com/album/3gJASTvUI7AYoZdOZl8zdw) | 4:42 |
+| 56 | [Seemann](https://open.spotify.com/track/5zW8UE2pvxwZ1TRC6Q3CXr) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Nina Hagen](https://open.spotify.com/artist/7xZHrltZh8zIRvjimgABvj) | [Reflections](https://open.spotify.com/album/3gJASTvUI7AYoZdOZl8zdw) | 4:42 |
+| 57 | [Red Drop](https://open.spotify.com/track/0jyOu6GTwQ3c0hVXYwGZpL) | [Motorama](https://open.spotify.com/artist/3j0kMFxXTTYsuw1twLClw3) | [Poverty](https://open.spotify.com/album/18y3DE8cX1ptDjRVwgnmfb) | 3:31 |
 | 58 | [Ivo](https://open.spotify.com/track/7anJBerQqBKIbbKvLf9eAq) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 3:53 |
-| 59 | [Strung Out Johnny](https://open.spotify.com/track/3bztP3gif7mrJ1LidczGWu) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Strung Out Johnny](https://open.spotify.com/album/3U6B7Thb2LXZjhV47KTqmm) | 4:13 |
-| 60 | [Spiritual Cramp](https://open.spotify.com/track/3jSTCf4oCzZ2yhKNbmfl5k) | [Christian Death](https://open.spotify.com/artist/6mEohczxsctzkEIU0WAeWD) | [Only Theatre of Pain](https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2) | 2:55 |
+| 59 | [Spiritual Cramp](https://open.spotify.com/track/3jSTCf4oCzZ2yhKNbmfl5k) | [Christian Death](https://open.spotify.com/artist/6mEohczxsctzkEIU0WAeWD) | [Only Theatre of Pain](https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2) | 2:55 |
+| 60 | [Strung Out Johnny](https://open.spotify.com/track/3bztP3gif7mrJ1LidczGWu) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Strung Out Johnny](https://open.spotify.com/album/3U6B7Thb2LXZjhV47KTqmm) | 4:13 |
 | 61 | [Snake Dance](https://open.spotify.com/track/20CMNatKGvGsH9H1WjSYYZ) | [The March Violets](https://open.spotify.com/artist/03FKngvcynr4H8PuTP8n19) | [The Botanic Verses](https://open.spotify.com/album/5ZgrlWIPhODOEV0kTpiuYh) | 4:06 |
 | 62 | [Lose My Breath](https://open.spotify.com/track/1Ma06PrhbT07YFTlM48rAK) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Isn't Anything](https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo) | 3:37 |
 | 63 | [Twenty Four Hours \- 2007 Remaster](https://open.spotify.com/track/36HznXQNGoen7dwq4Vv6nP) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Closer \(Collector's Edition\)](https://open.spotify.com/album/1HnxC8MLDciii5LebJ09Ko) | 4:28 |
 | 64 | [Blasphemous Rumours](https://open.spotify.com/track/7JRWBhgl6KeAuDdoUxkSw4) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Catching Up with Depeche Mode](https://open.spotify.com/album/1fuXkfdOh71JbMvOLIXpX9) | 5:06 |
 | 65 | [Medusa](https://open.spotify.com/track/1e9ct57zcGaqnWaehx52Iy) | [Clan of Xymox](https://open.spotify.com/artist/1wHmR7I0UlF58WFQexCPha) | [Medusa](https://open.spotify.com/album/3DBGxdFyynAak3dRiy54Jv) | 5:53 |
-| 66 | [One by One](https://open.spotify.com/track/5F1ZjpCFKcgk4VcsL2on2h) | [Bloody Dead And Sexy](https://open.spotify.com/artist/47YmKMWnvn1TfBanzvAUTc) | [Bad Ambient](https://open.spotify.com/album/24KvacOpWn4tdCti5KGCrK) | 4:55 |
-| 67 | [Wasteland](https://open.spotify.com/track/4kiVRcINxpbNTbmEbePXQL) | [The Mission](https://open.spotify.com/artist/4SAdMucvHyws4QTeAUsPtE) | [Gods Own Medicine](https://open.spotify.com/album/4kBti1HGfkIg1Q9XWeTtHV) | 5:40 |
-| 68 | [Ghost Rider \- 2019 \- Remaster](https://open.spotify.com/track/0SlVvyU9LWTzsnPc8lcoUs) | [Suicide](https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW) | [Suicide \(2019 \- Remaster\)](https://open.spotify.com/album/0wKU4153oTf5Ne3Wbbcykd) | 2:33 |
-| 69 | [Face Meets Glass](https://open.spotify.com/track/7a7G6UxSuYRF7kIaCPAYRT) | [ACTORS](https://open.spotify.com/artist/2Gs4t6zBT69DSluLvaEBWK) | [It Will Come to You](https://open.spotify.com/album/0yIIcvuqXZWqhMizP6w5jJ) | 3:36 |
-| 70 | [Deathwish](https://open.spotify.com/track/1ZGGE74Aw6YFBwJbmuiEZH) | [Christian Death](https://open.spotify.com/artist/6mEohczxsctzkEIU0WAeWD) | [Only Theatre of Pain](https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2) | 2:14 |
+| 66 | [Deathwish](https://open.spotify.com/track/1ZGGE74Aw6YFBwJbmuiEZH) | [Christian Death](https://open.spotify.com/artist/6mEohczxsctzkEIU0WAeWD) | [Only Theatre of Pain](https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2) | 2:14 |
+| 67 | [One by One](https://open.spotify.com/track/5F1ZjpCFKcgk4VcsL2on2h) | [Bloody Dead And Sexy](https://open.spotify.com/artist/47YmKMWnvn1TfBanzvAUTc) | [Bad Ambient](https://open.spotify.com/album/24KvacOpWn4tdCti5KGCrK) | 4:55 |
+| 68 | [Wasteland](https://open.spotify.com/track/4kiVRcINxpbNTbmEbePXQL) | [The Mission](https://open.spotify.com/artist/4SAdMucvHyws4QTeAUsPtE) | [Gods Own Medicine](https://open.spotify.com/album/4kBti1HGfkIg1Q9XWeTtHV) | 5:40 |
+| 69 | [Ghost Rider \- 2019 \- Remaster](https://open.spotify.com/track/0SlVvyU9LWTzsnPc8lcoUs) | [Suicide](https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW) | [Suicide \(2019 \- Remaster\)](https://open.spotify.com/album/0wKU4153oTf5Ne3Wbbcykd) | 2:33 |
+| 70 | [Face Meets Glass](https://open.spotify.com/track/7a7G6UxSuYRF7kIaCPAYRT) | [ACTORS](https://open.spotify.com/artist/2Gs4t6zBT69DSluLvaEBWK) | [It Will Come to You](https://open.spotify.com/album/0yIIcvuqXZWqhMizP6w5jJ) | 3:36 |
 | 71 | [Incubus Succubus II](https://open.spotify.com/track/4Sv0g2vAsMCo3lHpGDeyBb) | [Xmal Deutschland](https://open.spotify.com/artist/5bQ4kqxuAV7tBI7dSs3sB1) | [Tocsin](https://open.spotify.com/album/2wsPRUsIQt3atWXuRYJ3tv) | 4:45 |
 | 72 | [Не Смешно / Ne Smeshno](https://open.spotify.com/track/0eA4Bqcjt58ORsG9VFMSmt) | [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [Monument](https://open.spotify.com/album/7I9n0t27YMnNqf8pIfTG9z) | 3:52 |
 | 73 | [Moonchild](https://open.spotify.com/track/2k6elFIEJnKIWVZjeQJhvt) | [Fields Of The Nephilim](https://open.spotify.com/artist/3m8KqUjgKDwmJ9L9uBHMMs) | [The Nephilim](https://open.spotify.com/album/2m5896RbfEXpQGBfHkGYAP) | 5:40 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 77 | [Beatrix](https://open.spotify.com/track/00kG2B5W9MQYdPxrICYhNg) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 3:12 |
 | 78 | [Beat And The Pulse](https://open.spotify.com/track/5hyEQ6BNYKYrsRNiUxrXT4) | [Austra](https://open.spotify.com/artist/1o43SzzuLoyOxqThmp7s0g) | [Feel It Break](https://open.spotify.com/album/7kZDvUzWaeZrvkEc3Jr1e8) | 4:55 |
 | 79 | [Dance With Me](https://open.spotify.com/track/1AhLr3bpGIfeHUZ18WCpPV) | [Lords Of The New Church](https://open.spotify.com/artist/5JEhWD9S2znCiQRiGj2OUk) | [Is Nothing Sacred?](https://open.spotify.com/album/2VgrqPs1veikehj6Vc0JS8) | 3:25 |
-| 80 | [Swamp Thing](https://open.spotify.com/track/6myTigUAh8oKT2iQUNUHIL) | [The Chameleons](https://open.spotify.com/artist/4HLWX9kzfraiCsTvrxJEXm) | [Cuando Sale El Sol: Rock](https://open.spotify.com/album/7Ff5wvB7uhwLNYUutyHMrq) | 5:56 |
+| 80 | [Vampiria](https://open.spotify.com/track/3WvEldmFjjLhd1ITIl0FMk) | [Moonspell](https://open.spotify.com/artist/17bYSQ9ZRnreVnJjE5X2x6) | [Wolfheart](https://open.spotify.com/album/1GnMnYl0I8CqgNSSODjwP7) | 5:35 |
 
-Snapshot ID: `MTY3OTAxMzgyMCwwMDAwMDAwMDhjM2IzODViOWNjNjliNGJjODYzZDg5NmFlYjY5ZGMx`
+Snapshot ID: `MTY3OTAxMzgyMCwwMDAwMDAwMGQzZmY2OWI2YThmMTY1OTdlMDMxMmE3ZmNjMTFiMjU3`

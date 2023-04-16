@@ -4,7 +4,7 @@
 
 > Play these festive songs upon a winter's night, and have yourself a folksy little Christmas now\. Cover: She & Him
 
-263 songs - 15 hr 25 min
+264 songs - 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,8 @@
 | [Neat Christmas](https://open.spotify.com/track/58CQnYt3Gq4Ye8x3TYP1cr) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Neat Christmas](https://open.spotify.com/album/10JJIqjEJsqWjdWK3by1ap) | 4:01 | 2021-12-24 |  |
 | [New Year's Eve](https://open.spotify.com/track/2Y3QNql9jAa5ARHcyF2WBE) | [Carolina Story](https://open.spotify.com/artist/6as0zYiCUTtYdMI3rxg5Vn) | [Carolina Story Christmas](https://open.spotify.com/album/77azVgUoCz9i6fwl9Tuzfs) | 4:40 | 2021-12-24 |  |
 | [Nothing but a Child](https://open.spotify.com/track/7JoGFAI17R9IZVjcfmL4fP) | [Allison Moorer;Steve Earle](https://open.spotify.com/artist/7GsWVE3kmfmOu6RC9WDVMg) | [To: Kate \- A Benefit for Kate's Sake](https://open.spotify.com/album/6aXfgnD3oYwtjtINBzWUJX) | 4:00 | 2021-12-24 |  |
-| [O Come O Come Emmanuel](https://open.spotify.com/track/22Fol0wZjTxAtS5NHlxYK6) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [O Come O Come Emmanuel](https://open.spotify.com/album/3YmuNVghxaV1bqILKe88hk) | 3:01 | 2022-11-15 |  |
+| [O Come O Come Emmanuel](https://open.spotify.com/track/0nPf3v2C9h2qABsVTQr54L) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [O Come O Come Emmanuel](https://open.spotify.com/album/6X5x5WVDG1Nb5M2T9ESJIE) | 3:01 | 2022-11-15 |  |
+| [O Come O Come Emmanuel](https://open.spotify.com/track/22Fol0wZjTxAtS5NHlxYK6) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [O Come O Come Emmanuel](https://open.spotify.com/album/3YmuNVghxaV1bqILKe88hk) | 3:01 | 2022-11-15 | 2023-04-16 |
 | [O Come O Come Emmanuel](https://open.spotify.com/track/4YIoQTJDBXAc7r8rDxUi50) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Tracks In the Snow](https://open.spotify.com/album/28Fqt02jcDyoi6EfOMy8kQ) | 3:38 | 2021-12-24 | 2022-07-29 |
 | [O Come O Come Emmanuel](https://open.spotify.com/track/5K4NYwDJTh0WVBgc5fxyYK) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Tracks in the Snow](https://open.spotify.com/album/2b2J83VmJmpvKX9TEPDKa9) | 3:38 | 2021-12-24 |  |
 | [O Come, O Come, Emmanuel](https://open.spotify.com/track/3kVnoW7oDuuovp1SyMj9Kb) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 4:04 | 2021-12-24 |  |

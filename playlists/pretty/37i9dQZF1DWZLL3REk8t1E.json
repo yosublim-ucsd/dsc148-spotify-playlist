@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A calentar garganta!",
-  "num_followers": 1122842,
+  "num_followers": 1123104,
   "original_name": "La Cantina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTE2NjMyOSwwMDAwMDAwMGE1NjcyODkyZjhhOTZhMGMyZGE1NzkyZjExMjQ3OTMx",
+  "snapshot_id": "MTY4MTE2NjMyOSwwMDAwMDAwMDdhZjFmN2JkMjJhZGNmYTJkYzZlMDA1ZjI0N2UxYzY3",
   "tracks": [
     {
       "added_at": "2023-04-10 22:38:49",
@@ -279,22 +279,6 @@
     {
       "added_at": "2023-04-10 22:38:49",
       "album": {
-        "name": "La Mejor Versi\u00f3n De M\u00ed",
-        "url": "https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 202560,
-      "name": "El Color de Tus Ojos",
-      "url": "https://open.spotify.com/track/1l77YWrGUp3qX3NS1rz7lq"
-    },
-    {
-      "added_at": "2023-04-10 22:38:49",
-      "album": {
         "name": "Yo Ya No Vuelvo Contigo (En Vivo)",
         "url": "https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 240456,
       "name": "Yo Ya No Vuelvo Contigo - En Vivo",
       "url": "https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd"
+    },
+    {
+      "added_at": "2023-04-10 22:38:49",
+      "album": {
+        "name": "La Mejor Versi\u00f3n De M\u00ed",
+        "url": "https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 202560,
+      "name": "El Color de Tus Ojos",
+      "url": "https://open.spotify.com/track/1l77YWrGUp3qX3NS1rz7lq"
     },
     {
       "added_at": "2023-04-10 22:38:49",
@@ -571,6 +571,38 @@
     {
       "added_at": "2023-04-10 22:38:49",
       "album": {
+        "name": "Le Hace Falta Un Beso",
+        "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 167897,
+      "name": "Le Hace Falta Un Beso",
+      "url": "https://open.spotify.com/track/1SwY9YgXVgRbZM6uzxS4vU"
+    },
+    {
+      "added_at": "2023-04-10 22:38:49",
+      "album": {
+        "name": "Afortunado",
+        "url": "https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 167514,
+      "name": "Sentimental",
+      "url": "https://open.spotify.com/track/3NLJWd1FgZlgBRukNXxEBd"
+    },
+    {
+      "added_at": "2023-04-10 22:38:49",
+      "album": {
         "name": "Se Acabo (En Vivo)",
         "url": "https://open.spotify.com/album/24fixrB7tstEtjF9NlbnIR"
       },
@@ -595,22 +627,6 @@
     {
       "added_at": "2023-04-10 22:38:49",
       "album": {
-        "name": "Le Hace Falta Un Beso",
-        "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 167897,
-      "name": "Le Hace Falta Un Beso",
-      "url": "https://open.spotify.com/track/1SwY9YgXVgRbZM6uzxS4vU"
-    },
-    {
-      "added_at": "2023-04-10 22:38:49",
-      "album": {
         "name": "Ojos En Blanco",
         "url": "https://open.spotify.com/album/6KfwGFnaelkfX5KDET17Bb"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 147053,
       "name": "Ya Te Perd\u00ed La Fe",
       "url": "https://open.spotify.com/track/0KHDthR0XvPoeJaqBc7Sg5"
-    },
-    {
-      "added_at": "2023-04-10 22:38:49",
-      "album": {
-        "name": "Afortunado",
-        "url": "https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 167514,
-      "name": "Sentimental",
-      "url": "https://open.spotify.com/track/3NLJWd1FgZlgBRukNXxEBd"
     },
     {
       "added_at": "2023-04-10 22:38:49",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-04-10 22:38:49",
       "album": {
-        "name": "Creo en Ti",
-        "url": "https://open.spotify.com/album/3spEvK7Mc5ITcn1SuuViNd"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 177058,
-      "name": "Creo en Ti",
-      "url": "https://open.spotify.com/track/6HOOykUGBMv3LFsR9gObw5"
-    },
-    {
-      "added_at": "2023-04-10 22:38:49",
-      "album": {
         "name": "Hoy M\u00e1s Fuerte",
         "url": "https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 131853,
       "name": "Fuiste M\u00eda",
       "url": "https://open.spotify.com/track/0QRHEmvbFr73h5Fyk33fji"
+    },
+    {
+      "added_at": "2023-04-10 22:38:49",
+      "album": {
+        "name": "Creo en Ti",
+        "url": "https://open.spotify.com/album/3spEvK7Mc5ITcn1SuuViNd"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 177058,
+      "name": "Creo en Ti",
+      "url": "https://open.spotify.com/track/6HOOykUGBMv3LFsR9gObw5"
     },
     {
       "added_at": "2023-04-10 22:38:49",
@@ -967,6 +967,26 @@
     {
       "added_at": "2023-04-10 22:38:49",
       "album": {
+        "name": "100 A\u00f1os",
+        "url": "https://open.spotify.com/album/1LmIj33OFO9d1XMh9jRecz"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 185074,
+      "name": "100 A\u00f1os",
+      "url": "https://open.spotify.com/track/4XKC4nfeXgyd4KQDu8arKL"
+    },
+    {
+      "added_at": "2023-04-10 22:38:49",
+      "album": {
         "name": "Canta A Juan Gabriel",
         "url": "https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M"
       },
@@ -999,26 +1019,6 @@
       "duration_ms": 176453,
       "name": "Seis Pies Abajo",
       "url": "https://open.spotify.com/track/6oiKbZIaQ8A0Rnsq9jMJ1E"
-    },
-    {
-      "added_at": "2023-04-10 22:38:49",
-      "album": {
-        "name": "100 A\u00f1os",
-        "url": "https://open.spotify.com/album/1LmIj33OFO9d1XMh9jRecz"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 185074,
-      "name": "100 A\u00f1os",
-      "url": "https://open.spotify.com/track/4XKC4nfeXgyd4KQDu8arKL"
     },
     {
       "added_at": "2023-04-10 22:38:49",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2023-04-10 22:38:49",
       "album": {
-        "name": "A Trav\u00e9s Del Vaso",
-        "url": "https://open.spotify.com/album/27hMg5MlBaww37hBPzS0ot"
+        "name": "En El Area De Sue\u00f1os",
+        "url": "https://open.spotify.com/album/6pHjYeVeqfrhY7urDyaand"
       },
       "artists": [
         {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+          "name": "Duelo",
+          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
         }
       ],
-      "duration_ms": 180120,
-      "name": "A Trav\u00e9s Del Vaso",
-      "url": "https://open.spotify.com/track/1uqjLVaSyTkdDvfGAmXrHo"
+      "duration_ms": 153266,
+      "name": "Le Dije Al Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/23IJBnRVYyPd2GD0mAkZTp"
     },
     {
       "added_at": "2023-04-10 22:38:49",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2023-04-10 22:38:49",
       "album": {
+        "name": "A Trav\u00e9s Del Vaso",
+        "url": "https://open.spotify.com/album/27hMg5MlBaww37hBPzS0ot"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        }
+      ],
+      "duration_ms": 180120,
+      "name": "A Trav\u00e9s Del Vaso",
+      "url": "https://open.spotify.com/track/1uqjLVaSyTkdDvfGAmXrHo"
+    },
+    {
+      "added_at": "2023-04-10 22:38:49",
+      "album": {
         "name": "Decepciones",
         "url": "https://open.spotify.com/album/4Q7weZZRXGVLoKk3NeOuNT"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 223706,
       "name": "Decepciones",
       "url": "https://open.spotify.com/track/2LTYkSso5VAfdqzqjprOcH"
-    },
-    {
-      "added_at": "2023-04-10 22:38:49",
-      "album": {
-        "name": "En El Area De Sue\u00f1os",
-        "url": "https://open.spotify.com/album/6pHjYeVeqfrhY7urDyaand"
-      },
-      "artists": [
-        {
-          "name": "Duelo",
-          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
-        }
-      ],
-      "duration_ms": 153266,
-      "name": "Le Dije Al Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/23IJBnRVYyPd2GD0mAkZTp"
     },
     {
       "added_at": "2023-04-10 22:38:49",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-04-10 22:38:49",
       "album": {
-        "name": "Tragos Amargos",
-        "url": "https://open.spotify.com/album/3bY0J2yoFogW28oX2mwQyo"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 161253,
-      "name": "Tragos Amargos",
-      "url": "https://open.spotify.com/track/3hqlTqu571M1MqRWX6ZX0x"
-    },
-    {
-      "added_at": "2023-04-10 22:38:49",
-      "album": {
         "name": "Colecci\u00f3n Privada \"Las 20 Exclusivas\"",
         "url": "https://open.spotify.com/album/4hueGGPMBXDsGn9Zjv7uvB"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 181266,
       "name": "Ya Es Muy Tarde",
       "url": "https://open.spotify.com/track/47ehW8KNY6XhEtwMYAY0br"
+    },
+    {
+      "added_at": "2023-04-10 22:38:49",
+      "album": {
+        "name": "Tragos Amargos",
+        "url": "https://open.spotify.com/album/3bY0J2yoFogW28oX2mwQyo"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 161253,
+      "name": "Tragos Amargos",
+      "url": "https://open.spotify.com/track/3hqlTqu571M1MqRWX6ZX0x"
     },
     {
       "added_at": "2023-04-10 22:38:49",

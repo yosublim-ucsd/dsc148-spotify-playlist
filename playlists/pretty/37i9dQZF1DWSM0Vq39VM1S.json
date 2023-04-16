@@ -1,12 +1,12 @@
 {
   "description": "Le rayon de soleil musical de votre matin\u00e9e.",
-  "num_followers": 136298,
+  "num_followers": 136393,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODk5NDQ3OCwwMDAwMDAwMGIyMmQyNjg3MzlhYmU3NmRkYjc5ODViM2Q0YjJkYjBl",
+  "snapshot_id": "MTY3ODk5NDQ3OCwwMDAwMDAwMGM0MzhhYzIzNzcyNDdhZGVhMGMyZjhmNDRjYmIwZWNm",
   "tracks": [
     {
       "added_at": "2023-03-16 19:02:33",
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC"
     },
     {
-      "added_at": "2023-04-15 00:19:09",
+      "added_at": "2023-04-16 00:18:29",
       "album": {
         "name": "Norman Fucking Rockwell!",
         "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-03-16 19:02:33",
       "album": {
-        "name": "The Girl From Ipanema - The Bossa Nova Years",
-        "url": "https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 321826,
-      "name": "The Girl From Ipanema",
-      "url": "https://open.spotify.com/track/3898C4AbdbptwYet6547e5"
-    },
-    {
-      "added_at": "2023-03-16 19:02:33",
-      "album": {
         "name": "Californication",
         "url": "https://open.spotify.com/album/0fLhefnjlIV3pGNF9Wo8CD"
       },
@@ -307,18 +291,18 @@
     {
       "added_at": "2023-03-16 19:02:33",
       "album": {
-        "name": "Everglow",
-        "url": "https://open.spotify.com/album/6LRAUvjNMdUieHc8RcpHQU"
+        "name": "The Girl From Ipanema - The Bossa Nova Years",
+        "url": "https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         }
       ],
-      "duration_ms": 227506,
-      "name": "Everglow - Edit",
-      "url": "https://open.spotify.com/track/6aG68QSwv0hgNTq90I2GOE"
+      "duration_ms": 321826,
+      "name": "The Girl From Ipanema",
+      "url": "https://open.spotify.com/track/3898C4AbdbptwYet6547e5"
     },
     {
       "added_at": "2023-03-16 19:02:33",
@@ -335,6 +319,22 @@
       "duration_ms": 232837,
       "name": "when the party's over - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6H7fWtwEUHVfTyZD7zeG4w"
+    },
+    {
+      "added_at": "2023-03-16 19:02:33",
+      "album": {
+        "name": "Everglow",
+        "url": "https://open.spotify.com/album/6LRAUvjNMdUieHc8RcpHQU"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 227506,
+      "name": "Everglow - Edit",
+      "url": "https://open.spotify.com/track/6aG68QSwv0hgNTq90I2GOE"
     },
     {
       "added_at": "2023-03-16 19:02:33",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-03-16 19:02:33",
       "album": {
-        "name": "The Sweet Sound of You",
-        "url": "https://open.spotify.com/album/30NwPn9L2yYV1FD5KSSZVF"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 297720,
-      "name": "The Sweet Sound of You",
-      "url": "https://open.spotify.com/track/6LAUgmGpZBFq2dHmcYCcot"
-    },
-    {
-      "added_at": "2023-03-16 19:02:33",
-      "album": {
         "name": "Paradis",
         "url": "https://open.spotify.com/album/3TlmlAsJZhteMKH47jkDiL"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 171160,
       "name": "Gaffe aux autres",
       "url": "https://open.spotify.com/track/6PbRfvvnsJr6fIi3iunNyn"
+    },
+    {
+      "added_at": "2023-03-16 19:02:33",
+      "album": {
+        "name": "The Sweet Sound of You",
+        "url": "https://open.spotify.com/album/30NwPn9L2yYV1FD5KSSZVF"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "duration_ms": 297720,
+      "name": "The Sweet Sound of You",
+      "url": "https://open.spotify.com/track/6LAUgmGpZBFq2dHmcYCcot"
     },
     {
       "added_at": "2023-03-16 19:02:33",
@@ -823,18 +823,18 @@
     {
       "added_at": "2023-03-16 19:02:33",
       "album": {
-        "name": "Troubadour",
-        "url": "https://open.spotify.com/album/4GIeoRcpLeLwgxQK8jo183"
+        "name": "The Love Still Held Me Near",
+        "url": "https://open.spotify.com/album/57arSTDRPVYZRm6uIuR1ym"
       },
       "artists": [
         {
-          "name": "J.J. Cale",
-          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
+          "name": "City and Colour",
+          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
         }
       ],
-      "duration_ms": 201906,
-      "name": "Cherry",
-      "url": "https://open.spotify.com/track/5cENc0N9NpJJB7FggcMjyS"
+      "duration_ms": 238706,
+      "name": "Fucked It Up",
+      "url": "https://open.spotify.com/track/5Cn9nBZh530Vei9dOeKUGs"
     }
   ],
   "unique_name": "R\u00e9veil en douceur",

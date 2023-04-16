@@ -4,12 +4,12 @@
 
 > El inolvidable sonido del amor nunca había estado tan cerca de ti.
 
-123 songs - 6 hr 34 min
+124 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aceptare](https://open.spotify.com/track/564KwnlvhMpMREj8WjnTVq) | [Anamelba](https://open.spotify.com/artist/0eHVgdb7urvKwieFn6Ksao) | [Lo Mejor de Anamelba, Vol\. 2](https://open.spotify.com/album/45pMrX2TuwQLAOLmGszi2G) | 3:26 | 2021-12-17 | 2022-07-26 |
-| [Acepto Mi Destino](https://open.spotify.com/track/7GbcDRHXyRn1ZEzZWopF0h) | [Gaby Zevallos](https://open.spotify.com/artist/5VYKwJPKsTeY3mcJk7NlTo) | [La Dama del Bolero](https://open.spotify.com/album/0bCz2IkWynHJzOFb6vkYoF) | 3:24 | 2021-12-17 | 2023-04-13 |
+| [Acepto Mi Destino](https://open.spotify.com/track/7GbcDRHXyRn1ZEzZWopF0h) | [Gaby Zevallos](https://open.spotify.com/artist/5VYKwJPKsTeY3mcJk7NlTo) | [La Dama del Bolero](https://open.spotify.com/album/0bCz2IkWynHJzOFb6vkYoF) | 3:24 | 2021-12-17 |  |
 | [Acepto Mi Destino](https://open.spotify.com/track/1gJgHG7wSGJqnAT0FNPZvV) | [Gaby Zevallos](https://open.spotify.com/artist/5VYKwJPKsTeY3mcJk7NlTo) | [Boleros & Baladas: Peruvians Sing For The Brokenhearted](https://open.spotify.com/album/7kGxDuSRrr9IVAPAaPNCml) | 3:26 | 2021-12-17 | 2022-07-29 |
 | [Albricias](https://open.spotify.com/track/1UyH3FwwJcr08leOkD7AK3) | [Anamelba](https://open.spotify.com/artist/0eHVgdb7urvKwieFn6Ksao) | [Lo Mejor de Anamelba, Vol\. 2](https://open.spotify.com/album/45pMrX2TuwQLAOLmGszi2G) | 2:50 | 2021-12-17 | 2022-07-28 |
 | [Alguien Me Dijo](https://open.spotify.com/track/0ck988yod8D7E9zefW5GoA) | [Los Pasteles Verdes](https://open.spotify.com/artist/2lHzW2pMhRYX3ohx5lZY8y) | [Historia: Discografía Completa](https://open.spotify.com/album/7wGasepTMbhvpGtBRzPTlg) | 3:34 | 2021-12-17 | 2022-07-13 |
@@ -17,7 +17,7 @@
 | [Amor De Pobre](https://open.spotify.com/track/4PLLtuqgi3gTNcbmgT8MIN) | [Lucho Barrios](https://open.spotify.com/artist/0THtXVjA70xW4Qk9o2YEYh) | [Antología](https://open.spotify.com/album/1xUT9Xa1dalKLayLcX2HkO) | 2:14 | 2021-12-17 | 2022-07-29 |
 | [Amor Perdido](https://open.spotify.com/track/6kJrQyiydPbEiAgfU5Phrp) | [Maria Luisa Landin](https://open.spotify.com/artist/6xwRfnFKMKRoHL8LuLNBpf) | [Colección Diamante](https://open.spotify.com/album/1mzaWbfnxIq01Jyi23b96h) | 3:14 | 2021-12-17 |  |
 | [Amor Perdido](https://open.spotify.com/track/2KwLC9vs5lZa8NDZUkMlem) | [Maria Luisa Landin](https://open.spotify.com/artist/6xwRfnFKMKRoHL8LuLNBpf) | [Orquideas Vocales](https://open.spotify.com/album/6D7ViPhYqbcigiIgF3c5fK) | 3:15 | 2021-12-17 | 2022-07-29 |
-| [Así](https://open.spotify.com/track/4Est2AoCaL1zVMmU78Qw3H) | [Chivirico Davila](https://open.spotify.com/artist/6RsRDk1TGzoTsaRsLRKfaQ) | [Más Recuerdos Románticos](https://open.spotify.com/album/5DwgXMZWtaRTXfykSwPNVV) | 4:38 | 2021-12-17 |  |
+| [Así](https://open.spotify.com/track/4Est2AoCaL1zVMmU78Qw3H) | [Chivirico Davila](https://open.spotify.com/artist/6RsRDk1TGzoTsaRsLRKfaQ) | [Más Recuerdos Románticos](https://open.spotify.com/album/5DwgXMZWtaRTXfykSwPNVV) | 4:38 | 2021-12-17 | 2023-04-16 |
 | [Aunque Me Cueste la Vida](https://open.spotify.com/track/5arIOYPGGzfbmyWwsTgaye) | [Alberto Beltran](https://open.spotify.com/artist/1UY72czIEtc3qM7iddiS8R), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Aunque Me Cueste la Vida](https://open.spotify.com/album/4M7JZW7HpJAdYVZCObIAQ2) | 2:58 | 2021-12-17 |  |
 | [Besame Mucho](https://open.spotify.com/track/7ID2XpnDroizAWSvzAZsy7) | [Consuelo Velázquez](https://open.spotify.com/artist/3LXU2rvQWxMGvbmnoAqRMU) | [Boleros para Enamorarse, Vol\. 2](https://open.spotify.com/album/3eWzi2pLdTWzkIT9pxhzOZ) | 3:01 | 2021-12-17 | 2022-07-29 |
 | [Bravo](https://open.spotify.com/track/4E2RBRKyIA1ZN5HfBIKnSE) | [Cecilia Bracamonte](https://open.spotify.com/artist/2mjCLOUytfzQD0ymy3024f) | [Con Alma de Bolero](https://open.spotify.com/album/24rvm6xkdEBEEVQHBgBAVI) | 3:40 | 2021-12-17 | 2022-07-28 |
@@ -49,6 +49,7 @@
 | [Dimelo](https://open.spotify.com/track/3hY0TCeZr9VVBz8ZXnL9U2) | [Carmen Delia Dipini](https://open.spotify.com/artist/6DmGRDkFsjh9CAdjzcueSL) | [Toda una Vida](https://open.spotify.com/album/5vDTFuOk5kEFLFb5PsampY) | 2:58 | 2021-12-17 |  |
 | [El Contragolpe](https://open.spotify.com/track/6VUzRBWXZwsH6ODa68KNdX) | [Alci Acosta](https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK) | [Éxitos Alci Acosta](https://open.spotify.com/album/5c8Vcm1PxAAaov2j1opRJa) | 2:32 | 2021-12-17 | 2023-04-13 |
 | [El Contragolpe](https://open.spotify.com/track/44qNH2IBVbzLimI97YyJeK) | [Alci Acosta](https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK) | [30 Mejores: Alci Acosta](https://open.spotify.com/album/1NdnBLYZy9ZtgzPbyxdM5E) | 2:33 | 2021-12-17 | 2023-03-19 |
+| [El Contragolpe](https://open.spotify.com/track/74f7hfeONxGZH6bVnXIYGW) | [Alci Acosta](https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK) | [Y Siguen Los Éxitos](https://open.spotify.com/album/4yWg278fGlo1SZHEjgLfUI) | 2:33 | 2021-12-17 |  |
 | [El Contragolpe](https://open.spotify.com/track/0AhVIj5X2xmVf1I7MCoFzz) | [Alci Acosta](https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK) | [30 Mejores: Alci Acosta](https://open.spotify.com/album/0rVePJ6T1cPv3wG06wFpmv) | 2:33 | 2021-12-17 | 2022-07-29 |
 | [El Final](https://open.spotify.com/track/0WTbwIPt5dA43XMP1SEy8Q) | [Cecilio Alva](https://open.spotify.com/artist/6b3BoaoypHCs2FQ1F54ij5) | [Preso de Mis Boleros Cantineros](https://open.spotify.com/album/0tM0ZAdA0mp7BDFVFTfy3K) | 2:53 | 2021-12-17 | 2022-11-13 |
 | [El Final](https://open.spotify.com/track/4kvaFZySpHz2GZD1g8OIdn) | [Cecilio Alva](https://open.spotify.com/artist/6b3BoaoypHCs2FQ1F54ij5) | [Preso de Mis Boleros Cantineros](https://open.spotify.com/album/3XO74rNJHu8qHSCY3t2fAs) | 2:53 | 2021-12-17 | 2022-07-09 |
@@ -74,7 +75,7 @@
 | [La Cárcel de Sing Sing](https://open.spotify.com/track/5zOEaIEjObo2QM2sHg468m) | [Alci Acosta](https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK) | [Éxitos Alci Acosta](https://open.spotify.com/album/5c8Vcm1PxAAaov2j1opRJa) | 2:55 | 2021-12-17 | 2023-04-13 |
 | [La Loca](https://open.spotify.com/track/2zPJCj2F9ZXyQ7ewMtDFBz) | [Guiller](https://open.spotify.com/artist/05qMOtzCy90GhGIvelpvaF) | [Poker de Ases](https://open.spotify.com/album/2vbLzJhA0KgGveLxp1qnnK) | 3:45 | 2021-12-17 |  |
 | [La Mentira](https://open.spotify.com/track/46Q6e4fQyElbUyg4Jivhts) | [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t) | [Esencial Ana y Victor](https://open.spotify.com/album/5PqWboO8JlSZ2OGBlJGBBn) | 3:05 | 2021-12-17 |  |
-| [La Última Copa](https://open.spotify.com/track/7JtkNGrjQcIH972Ij06TYb) | [Daniel Santos](https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2) | [Daniel Santos](https://open.spotify.com/album/6f9UqC7zgujSSLTW5fMmkc) | 2:01 | 2021-12-17 |  |
+| [La Última Copa](https://open.spotify.com/track/7JtkNGrjQcIH972Ij06TYb) | [Daniel Santos](https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2) | [Daniel Santos](https://open.spotify.com/album/6f9UqC7zgujSSLTW5fMmkc) | 2:01 | 2021-12-17 | 2023-04-16 |
 | [Lo Que Quiera Lola](https://open.spotify.com/track/6443igXMStgLhDvCveDZfQ) | [Bobby Capo](https://open.spotify.com/artist/4HtNNYomY2s6l36CdhOqWW) | [Canta](https://open.spotify.com/album/3cAzDp7oyxsh1nJiEfWoJr) | 2:46 | 2021-12-17 | 2023-04-15 |
 | [Lo Que Quiere Lola](https://open.spotify.com/track/739luVVt9Z2mcC1WmQkLZJ) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [Bobby Capo](https://open.spotify.com/artist/4HtNNYomY2s6l36CdhOqWW) | [18 Éxitos para Recordar](https://open.spotify.com/album/60Y8JTUhpsmfoXfFOMPgwY) | 2:45 | 2021-12-17 | 2022-05-02 |
 | [Loca Ansiedad](https://open.spotify.com/track/4ALC5ZxsZDggCppZcqOrNO) | [Raul Lopez](https://open.spotify.com/artist/0WoNXUXKyGZ4gzN2uJgp6S), [Orquesta de Ricaurte Arias](https://open.spotify.com/artist/7wR8LmVjcmGvqdOHZGhWAr) | [Loca Ansiedad](https://open.spotify.com/album/2JGjsZpQxsRZlNobxeLr4s) | 2:55 | 2021-12-17 |  |

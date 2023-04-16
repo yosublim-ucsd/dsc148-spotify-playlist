@@ -4,12 +4,13 @@
 
 > This is Lenin Ramírez\. The essential tracks, all in one playlist.
 
-78 songs - 4 hr 8 min
+79 songs - 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [19 Toneladas \(En Vivo\)](https://open.spotify.com/track/2LEKVGA36gINS8bYB3csPy) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [En Vivo](https://open.spotify.com/album/3OoDAWDsVyaDZYgvfv9ebT) | 2:30 | 2022-06-03 | 2022-09-11 |
-| [24/7 Dolido](https://open.spotify.com/track/1jt49y7J8bwMhXpvo3wbvO) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [24/7 Dolido](https://open.spotify.com/album/6Fyxi6oD8SD1lK35bKPyqA) | 2:55 | 2022-10-09 |  |
+| [24/7 Dolido](https://open.spotify.com/track/1jt49y7J8bwMhXpvo3wbvO) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [24/7 Dolido](https://open.spotify.com/album/6Fyxi6oD8SD1lK35bKPyqA) | 2:55 | 2022-10-09 | 2023-04-16 |
+| [24/7 Dolido](https://open.spotify.com/track/6SOEnAfMK7T4rzW3dsHrLk) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Con Los Pies en La Tierra](https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r) | 2:55 | 2023-04-15 |  |
 | [Aquiles el de Tijuana \(En Vivo\)](https://open.spotify.com/track/2Cv7yRcIgMP53Hv7AuDLt4) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [En Vivo](https://open.spotify.com/album/3OoDAWDsVyaDZYgvfv9ebT) | 3:08 | 2022-06-01 |  |
 | [Avión Arriba](https://open.spotify.com/track/4OsQBV6PjhJkY8Ld9tLlwa) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Clave Doble L](https://open.spotify.com/artist/3FI7OHP038BGJwg2fMaPeI) | [Seguimos Adelante](https://open.spotify.com/album/0AkCrr3xyED7XE5kt5P8Qt) | 3:49 | 2022-06-01 | 2022-10-06 |
 | [Ay Amigo \- En Vivo](https://open.spotify.com/track/3KeK6yOzzaJS9Mi0Bj9hxw) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Diego Herrera](https://open.spotify.com/artist/2Gl3Sy0B1rtWvBURrOf6Gi) | [Yakifest, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/5HzuEx7noOD6D71uw7WoBk) | 2:17 | 2022-10-12 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: Tiller com Cíntia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,026 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,036 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 84 | [Dalí](https://open.spotify.com/track/6FHQSoXHPYOebrrZBAPB7N) | [No Money](https://open.spotify.com/artist/2XtUEgkLN083xZ6Biwn8dq) | [Dalí](https://open.spotify.com/album/15xdd7nz5qG1RO9devhKFF) | 3:09 |
 | 85 | [Bagunça](https://open.spotify.com/track/16PFg6vxsCIT7FRv2E9B2T) | [Toy Quiuma](https://open.spotify.com/artist/15RcE34OZr4uK8tCyJQEfb) | [Bagunça](https://open.spotify.com/album/2FjmzHBR2x1UQ38Y3mgJHO) | 2:31 |
 | 86 | [MUKA MUNDO, Pt.2](https://open.spotify.com/track/6VOhzSYCbPJY0oWiGpfuB0) | [Real GUNS](https://open.spotify.com/artist/3DNrmBolKZNsx5UHwJCLnT), [404Soundlab](https://open.spotify.com/artist/6MnjuLzxDo66w0t8cI7Ma3) | [ODB](https://open.spotify.com/album/61kuB7V9SXBnw3EOwR6wOC) | 3:40 |
-| 87 | [AZUCAR](https://open.spotify.com/track/4NIXix3zDnqWfSudSteyeh) | [HeartLess](https://open.spotify.com/artist/72bZdVlE9OFvEJcWj7q23r) | [SAYONARA](https://open.spotify.com/album/7FjnIRCsNym5m0aJx4NIkH) | 2:35 |
+| 87 | [AZUCAR](https://open.spotify.com/track/4NIXix3zDnqWfSudSteyeh) | [HeartLess](https://open.spotify.com/artist/72bZdVlE9OFvEJcWj7q23r), [Nedved](https://open.spotify.com/artist/51mpgx4e3s5pGbKiWKSz5W) | [SAYONARA](https://open.spotify.com/album/7FjnIRCsNym5m0aJx4NIkH) | 2:35 |
 | 88 | [Olívia](https://open.spotify.com/track/0WBkYnv1wsH6ld7NZOBJgM) | [Pta](https://open.spotify.com/artist/3VIQzyoHE4thDQjYkR0AEA) | [Olívia](https://open.spotify.com/album/1aJLU4mHhNOmEKI23Of2yf) | 3:18 |
 | 89 | [Porradão No Pulso](https://open.spotify.com/track/7ISwPnW9QvGzJkJIP4ERrQ) | [Nadson B](https://open.spotify.com/artist/7Cn7UQJehcgqPjMBAgWmmJ), [Desejo Beats](https://open.spotify.com/artist/7gXf4us4WnrCvvRJHL8khl) | [Porradão No Pulso](https://open.spotify.com/album/7x2cn2tBzSLqpdNIlY3wXz) | 2:47 |
 | 90 | [777](https://open.spotify.com/track/0ZSRoCgADCVBSAy2tjLnvG) | [Ziki Ks](https://open.spotify.com/artist/5h7FvtwckwDBdLlC3yOHgU), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu) | [777](https://open.spotify.com/album/2cJ1jf9Oo3mhiDK7dLJfeq) | 3:10 |

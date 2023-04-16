@@ -1,12 +1,12 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Jess Williamson",
-  "num_followers": 48610,
+  "num_followers": 48647,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDFhNjg1NDE1ODFjYTU4NmVhZWFkYzdlYmQwNmM1ODg0",
+  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMGZlZTUzNjdjZmI3ODMxZjkxMGEyYzEwMGQ1OWQwNTc5",
   "tracks": [
     {
       "added_at": "2023-04-14 04:00:00",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/5GHOtUAqaPIoUtfQwIQz79"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 179173,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/3gw2Mz111daFVWm7IF0Gb7"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Forget I Exist",
         "url": "https://open.spotify.com/album/4S8raPrW3aRYC3npe8gTEN"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 174489,
       "name": "Love Like That (Words from Her)",
       "url": "https://open.spotify.com/track/1ALOR6EcFzN0AcIAzwWl2U"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/5GHOtUAqaPIoUtfQwIQz79"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 179173,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/3gw2Mz111daFVWm7IF0Gb7"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Purple Haze",
-        "url": "https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 205395,
-      "name": "Purple Haze",
-      "url": "https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Everything I Know About Love",
         "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 209706,
       "name": "Everything I Know About Love",
       "url": "https://open.spotify.com/track/0AwmMHWOVftwCi5hkcNQ5z"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Purple Haze",
+        "url": "https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 205395,
+      "name": "Purple Haze",
+      "url": "https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Go Easy, Kid",
-        "url": "https://open.spotify.com/album/48vdHGDFdYZfoLbtaMuHeh"
-      },
-      "artists": [
-        {
-          "name": "Monica Martin",
-          "url": "https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN"
-        }
-      ],
-      "duration_ms": 248181,
-      "name": "Go Easy, Kid",
-      "url": "https://open.spotify.com/track/50hN4KDpQILZpTejaifHZK"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "rest in peace",
         "url": "https://open.spotify.com/album/0sE1YP1nRz29DgpaogCRsE"
       },
@@ -1119,18 +1103,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "It's Alright",
-        "url": "https://open.spotify.com/album/5sxieYVKKC6kvgIdKmByyI"
+        "name": "Go Easy, Kid",
+        "url": "https://open.spotify.com/album/48vdHGDFdYZfoLbtaMuHeh"
       },
       "artists": [
         {
-          "name": "Cecilia Castleman",
-          "url": "https://open.spotify.com/artist/6yB7WddQdPHwbyQpKl1qOH"
+          "name": "Monica Martin",
+          "url": "https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN"
         }
       ],
-      "duration_ms": 248210,
-      "name": "It's Alright",
-      "url": "https://open.spotify.com/track/67LEdY2HlgEWNnrdaPyYpK"
+      "duration_ms": 248181,
+      "name": "Go Easy, Kid",
+      "url": "https://open.spotify.com/track/50hN4KDpQILZpTejaifHZK"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1147,6 +1131,22 @@
       "duration_ms": 173426,
       "name": "Resentment",
       "url": "https://open.spotify.com/track/2Dms8axOrrjXETwVwtvBF5"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "It's Alright",
+        "url": "https://open.spotify.com/album/5sxieYVKKC6kvgIdKmByyI"
+      },
+      "artists": [
+        {
+          "name": "Cecilia Castleman",
+          "url": "https://open.spotify.com/artist/6yB7WddQdPHwbyQpKl1qOH"
+        }
+      ],
+      "duration_ms": 248210,
+      "name": "It's Alright",
+      "url": "https://open.spotify.com/track/67LEdY2HlgEWNnrdaPyYpK"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "The Real Thing",
+        "url": "https://open.spotify.com/album/7qgdjLl3FZMTnLFm7l8agU"
+      },
+      "artists": [
+        {
+          "name": "Ron Pope",
+          "url": "https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O"
+        }
+      ],
+      "duration_ms": 201057,
+      "name": "The Real Thing",
+      "url": "https://open.spotify.com/track/3hDIkJvUCJIeDFLaBwfGCX"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "saw ur mom at the grocery store",
         "url": "https://open.spotify.com/album/4smhUC8DjcBD3i0hIOlkYP"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 261523,
       "name": "Picture of You",
       "url": "https://open.spotify.com/track/41UWHXKrP9VaNuLHNlWEV2"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "The Real Thing",
-        "url": "https://open.spotify.com/album/7qgdjLl3FZMTnLFm7l8agU"
-      },
-      "artists": [
-        {
-          "name": "Ron Pope",
-          "url": "https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O"
-        }
-      ],
-      "duration_ms": 201057,
-      "name": "The Real Thing",
-      "url": "https://open.spotify.com/track/3hDIkJvUCJIeDFLaBwfGCX"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1663,22 +1663,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Make It Out (feat. Maisie Peters)",
-        "url": "https://open.spotify.com/album/3i51kXWcF0fLzcwDBZFgNo"
+        "name": "Tides",
+        "url": "https://open.spotify.com/album/0Bf1RY3TNvIrvsKlTZYJjk"
       },
       "artists": [
         {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
-        },
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+          "name": "Cujo Moon",
+          "url": "https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N"
         }
       ],
-      "duration_ms": 183360,
-      "name": "Make It Out (feat. Maisie Peters)",
-      "url": "https://open.spotify.com/track/5qXbNSvVp8rB4Kcy2DTTIt"
+      "duration_ms": 215111,
+      "name": "Beat of My Heart",
+      "url": "https://open.spotify.com/track/44fTa1co7zmof732liprRg"
     }
   ],
   "unique_name": "Today's Singer-Songwriters",

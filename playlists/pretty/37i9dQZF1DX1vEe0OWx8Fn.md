@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vEe0OWx8Fn.md) - [plain]
 
 > it was never just a phase
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,787 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,806 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vEe0OWx8Fn.md) - [plain]
 | 24 | [PMA \(feat\. Pale Waves\)](https://open.spotify.com/track/52BHuLFKoBemaQ1oOPFhFZ) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [PMA \(feat\. Pale Waves\)](https://open.spotify.com/album/2Q6u1VzybZKzXfPMPQkyuz) | 3:11 |
 | 25 | [She Likes My Tattoos](https://open.spotify.com/track/2Lle3tbO97Dd4I3deOZ92g) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [She Likes My Tattoos](https://open.spotify.com/album/5K2xRnUFqZBB1FoWoegvp7) | 2:44 |
 | 26 | [Obey \(with YUNGBLUD\)](https://open.spotify.com/track/6MD6xpFK4cfquxRqXxqwjq) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [POST HUMAN: SURVIVAL HORROR](https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4) | 3:40 |
-| 27 | [Real Life Sux](https://open.spotify.com/track/5vddPg2RoRtqLwg3Pz3aI6) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Real Life Sux](https://open.spotify.com/album/0ZN9lMxI4jNT69TMVfCSjg) | 2:23 |
-| 28 | [drivers license](https://open.spotify.com/track/6H7RUDjmjiGV4I9hE24Kk5) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [drivers license](https://open.spotify.com/album/0Hi8bTOS35xZM0zZ6S89hT) | 3:57 |
+| 27 | [drivers license](https://open.spotify.com/track/6H7RUDjmjiGV4I9hE24Kk5) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [drivers license](https://open.spotify.com/album/0Hi8bTOS35xZM0zZ6S89hT) | 3:57 |
+| 28 | [Real Life Sux](https://open.spotify.com/track/5vddPg2RoRtqLwg3Pz3aI6) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Real Life Sux](https://open.spotify.com/album/0ZN9lMxI4jNT69TMVfCSjg) | 2:23 |
 | 29 | [kiss kiss](https://open.spotify.com/track/69LvvkHnFFnX3d5eNObtMo) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Tickets To My Downfall](https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK) | 2:18 |
 | 30 | [Dear Maria, Count Me In](https://open.spotify.com/track/0JJP0IS4w0fJx01EcrfkDe) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [So Wrong, It's Right](https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP) | 3:02 |
 | 31 | [i'm gonna tell my therapist on you](https://open.spotify.com/track/1iUBNLLmZnBAjgkHysEv37) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [i'm gonna tell my therapist on you](https://open.spotify.com/album/7mbrZNnHyQhzlKSwzP8Ojz) | 2:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vEe0OWx8Fn.md) - [plain]
 | 49 | [Creep](https://open.spotify.com/track/5nC2VyPxefp5EXVViTcz7S) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [Creep](https://open.spotify.com/album/4C9Io2lIQJdBo9RH1XK8Gj) | 3:42 |
 | 50 | [Backtrack](https://open.spotify.com/track/7qhLm7FPhf7OjuSQoezTgC) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Backtrack](https://open.spotify.com/album/1HhLhDSaSqWGTb9DEkCt68) | 2:38 |
 
-Snapshot ID: `MTY3MDUwNDQwOSwwMDAwMDAwMDhhNjI3ZmI2ZTA4MDY5MmU3NmY4MzE1NTRlNzlmNzUy`
+Snapshot ID: `MTY3MDUwNDQwOSwwMDAwMDAwMGNjZWQwNmVhZDlhMTE5MTIxZDMzOGQ5MjhhYmQzNWIy`

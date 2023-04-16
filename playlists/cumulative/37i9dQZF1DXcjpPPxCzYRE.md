@@ -4,7 +4,7 @@
 
 > Música tranquila para evadirse.
 
-124 songs - 7 hr 16 min
+125 songs - 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Qué Bueno!](https://open.spotify.com/track/3pCibQLOsHM1z7DnyEpysp) | [Cheti](https://open.spotify.com/artist/14MWie92G8fspcINNwL7n7), [Chukky](https://open.spotify.com/artist/1pbypJzDS0Glu3baISY6AL) | [Qué Bueno!](https://open.spotify.com/album/5KJd4syqmjCuCWIMV4mBZM) | 3:42 | 2022-11-11 |  |
 | [Real Peach](https://open.spotify.com/track/6p4mASLulKdpNFLxQhs0ff) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Wilds](https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA) | 3:53 | 2022-11-11 | 2023-03-28 |
 | [Recording 15](https://open.spotify.com/track/1vNfYCzcCJz0FY7MVVA9lM) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Living Water](https://open.spotify.com/album/3UirGXBKa2VVuip8JPlBpd) | 4:02 | 2022-11-11 | 2023-03-28 |
-| [reverie](https://open.spotify.com/track/56iI6wwW6Lm2DzRxl0TFqH) | [isaac gracie](https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb) | [isaac gracie \(extended edition\)](https://open.spotify.com/album/0WhOJJJZPWfefjJogtinkD) | 5:43 | 2022-11-11 |  |
+| [reverie](https://open.spotify.com/track/56iI6wwW6Lm2DzRxl0TFqH) | [isaac gracie](https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb) | [isaac gracie \(extended edition\)](https://open.spotify.com/album/0WhOJJJZPWfefjJogtinkD) | 5:43 | 2022-11-11 | 2023-04-16 |
 | [Scarlett](https://open.spotify.com/track/5UqTWnG7YZAbj1SYMvnGsU) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Can You Afford To Lose Me?](https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO) | 3:16 | 2022-11-11 |  |
 | [She Burns](https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [The Wild Swan](https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz) | 3:49 | 2022-11-11 | 2023-03-18 |
 | [Si Fueras Lluvia](https://open.spotify.com/track/2N3LPVCuyWN0A5uodq95RN) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [Si Fueras Lluvia](https://open.spotify.com/album/46B8tnPwQdlw6jOY947lGu) | 3:12 | 2023-03-16 |  |
@@ -128,6 +128,7 @@
 | [Too Good At Goodbyes](https://open.spotify.com/track/3VlbOrM6nYPprVvzBZllE5) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:21 | 2022-11-11 | 2023-03-16 |
 | [True Colours](https://open.spotify.com/track/1rGxG6Y5OgmSwGPRPJv9Q4) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [True Colours](https://open.spotify.com/album/2KYcp0bkKyyGllYygfdtHX) | 2:23 | 2022-11-11 |  |
 | [una luz](https://open.spotify.com/track/0zd0kuNdqeLgxuFm5SLYxH) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Verano, por siempre](https://open.spotify.com/album/5ix1sSSCWiQf8hZKaiV0Tc) | 2:56 | 2022-11-11 |  |
+| [Unchained Melody](https://open.spotify.com/track/2eH4LAMhD20bl8tQseKckb) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Unchained Melody](https://open.spotify.com/album/7BKTOFQtwCo78sCpM7woOG) | 2:36 | 2023-03-30 |  |
 | [With Or Without You \- BBC Jo Whiley Session / 2004](https://open.spotify.com/track/1hKatvvaKADQVmEPIob9e8) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears \(Deluxe Edition\)](https://open.spotify.com/album/6EBAeYn2YJvmXp6AkK18Mc) | 3:30 | 2022-11-11 |  |
 | [Yards / Gardens](https://open.spotify.com/track/3PphHkiVdhRaO1EWH6ZWqZ) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Look at it in the Light](https://open.spotify.com/album/3MKaD7aYasZcnBvv8g2XKO) | 2:21 | 2022-11-11 | 2023-03-28 |
 | [You Are My Sunshine](https://open.spotify.com/track/5qMjtrGnezsafpH4oqg7oU) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [You Are My Sunshine](https://open.spotify.com/album/5ueNN8xbGK6BMFnLjeiXUM) | 2:37 | 2022-11-11 |  |

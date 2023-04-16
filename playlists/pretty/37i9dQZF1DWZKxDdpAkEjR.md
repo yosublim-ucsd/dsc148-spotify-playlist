@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKxDdpAkEjR.md) - [plain]
 
 > The soundtrack of the Summer 2022.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232 likes - 52 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 233 likes - 52 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,12 +53,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKxDdpAkEjR.md) - [plain]
 | 43 | [The Funk](https://open.spotify.com/track/7vnKb4rhd90PDvGcCyyRGk) | [TIEKS](https://open.spotify.com/artist/5ubTLvtpORseymsgTVxk45), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [The Funk](https://open.spotify.com/album/6BmTVoSgxOuPwBHwqXhthj) | 2:52 |
 | 44 | [Friendships \(Lost My Love\)](https://open.spotify.com/track/3tzR2HUk6FAGaXzkrXZpQj) | [Pascal Letoublon](https://open.spotify.com/artist/0oXTS2yHUnuji1R7kc9J9a), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Friendships \(Lost My Love\)](https://open.spotify.com/album/2jxal1leCfQeW9udq79xgK) | 3:02 |
 | 45 | [Out of Time \- KAYTRANADA Remix](https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Out Of Time \(Remix Bundle\)](https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ) | 4:35 |
-| 46 | [4U](https://open.spotify.com/track/3UGAJ5bHrDvxH28oJq5Uiw) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw) | [4U](https://open.spotify.com/album/1dmL2D1rqc98yfqJxn0684) | 2:29 |
-| 47 | [In The Dark](https://open.spotify.com/track/0k5RQGviUoEt78mfqI3wDV) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Exotica \(Deluxe\)](https://open.spotify.com/album/24SuLVhTS9iDvnH3fh0gms) | 3:05 |
+| 46 | [In The Dark](https://open.spotify.com/track/0k5RQGviUoEt78mfqI3wDV) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Exotica \(Deluxe\)](https://open.spotify.com/album/24SuLVhTS9iDvnH3fh0gms) | 3:05 |
+| 47 | [4U](https://open.spotify.com/track/3UGAJ5bHrDvxH28oJq5Uiw) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw) | [4U](https://open.spotify.com/album/1dmL2D1rqc98yfqJxn0684) | 2:29 |
 | 48 | [Better Together](https://open.spotify.com/track/3xPrdaCplbZRvgJiOBmGs4) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Better Together](https://open.spotify.com/album/6iPltWDB2BeiopAigyQG3g) | 2:58 |
 | 49 | [Trompeta](https://open.spotify.com/track/1tpl2fUDbrPAcbPufthvQe) | [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq) | [Trompeta](https://open.spotify.com/album/3h4iogzC5VXCozVCzgVWns) | 2:48 |
 | 50 | [Coco Song](https://open.spotify.com/track/5yrsBz5ofgvLXd9MUFdjTY) | [AronChupa](https://open.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh), [Flamingoz](https://open.spotify.com/artist/4hwEhYAJJmsXyRkuhzQ0IL) | [Coco Song](https://open.spotify.com/album/3mHQChzmCdUaeMALpcs4fl) | 2:57 |
 | 51 | [On & On](https://open.spotify.com/track/6KsEcrcGjailfCMFLriTvd) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7), [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s) | [On & On](https://open.spotify.com/album/31M60KTaTBuBHOXx16Csv0) | 2:43 |
 | 52 | [Let Somebody Go \- Ofenbach Remix](https://open.spotify.com/track/1pDrM3rKlxA9fx3mShxzqx) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw) | [Let Somebody Go \(Ofenbach Remix\)](https://open.spotify.com/album/7lbSZjlBsWuXtR3WqsdOSN) | 3:14 |
 
-Snapshot ID: `MTY3NTc2MzQzMiwwMDAwMDAwMGMxYjc0OGJiOTEwNjJkY2ZkNGMzNmE3ZmUxYzJlMzBj`
+Snapshot ID: `MTY3NTc2MzQzMiwwMDAwMDAwMDdjZDdkNmQ2OTE0NjRkNTYxYWE5OGQ5OTUzZDUyOGQ1`

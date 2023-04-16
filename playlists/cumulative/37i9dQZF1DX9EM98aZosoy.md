@@ -4,7 +4,7 @@
 
 > Feiern mit den größten aktuellen Partyhits.
 
-107 songs - 5 hr 4 min
+108 songs - 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Friday \(feat\. Mufasa & Hypeman\) \- Dopamine Re\-Edit](https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Nightcrawlers](https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A), [Mufasa & Hypeman](https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0), [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN) | [Friday \(feat\. Mufasa & Hypeman\) \[Dopamine Re\-Edit\]](https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j) | 2:49 | 2022-10-14 | 2022-11-26 |
 | [Give It To Me \- Full Vocal Mix](https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Give It To Me \(Full Vocal Mix\)](https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp) | 1:42 | 2022-10-14 |  |
 | [Hallucination](https://open.spotify.com/track/7y3c1oJMY1CwwtOZ84Qovu) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Hallucination](https://open.spotify.com/album/3uTg9ykOYoW54hj9q66oCh) | 2:54 | 2022-10-14 |  |
-| [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 | 2022-12-14 |  |
+| [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 | 2022-12-14 | 2023-04-16 |
+| [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 | 2023-04-14 |  |
 | [Herz an Herz](https://open.spotify.com/track/3JfKaDVt5I1egdhm2V5GRG) | [KXXMA](https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx) | [Herz an Herz](https://open.spotify.com/album/2ErXScnw552ExYN83eloZw) | 2:23 | 2023-02-07 | 2023-03-25 |
 | [Hot In It](https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Hot In It](https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q) | 2:09 | 2022-10-14 | 2023-04-15 |
 | [Hurricane \(feat\. SHIBUI\)](https://open.spotify.com/track/1SlLP2AI4L2oh3VRJfHBpf) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4) | [Hurricane \(feat\. SHIBUI\)](https://open.spotify.com/album/5QGih7kgYuAfmYJROylEX3) | 2:33 | 2022-10-14 | 2022-11-17 |

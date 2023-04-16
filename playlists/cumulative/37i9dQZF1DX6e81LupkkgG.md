@@ -4,7 +4,7 @@
 
 > Músicas aconchegantes para aquecer a alma nos dias frios.
 
-218 songs - 12 hr 42 min
+219 songs - 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Lost Without You](https://open.spotify.com/track/3cWI6Hj9LQ0MfMuhw9uSMc) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Freya Ridings](https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd) | 3:45 | 2022-07-22 |  |
 | [Love Is Weird](https://open.spotify.com/track/4vBeG83Hjl2qJspRcTLiz5) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Love Is Weird](https://open.spotify.com/album/1T8KRFCNKdGg1E9BSbBDwq) | 2:30 | 2022-02-18 | 2022-11-13 |
 | [Lover \- Recorded at Air Studios, London](https://open.spotify.com/track/3PgxWUQc4HJoQMj5Kp5Mcd) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4), [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Spotify Singles](https://open.spotify.com/album/6qU8mH51eBvwyqYgg2Wsui) | 3:59 | 2022-02-18 |  |
+| [mine](https://open.spotify.com/track/5WVwFPBm6bI9KPRV2AUR2T) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [mine / me](https://open.spotify.com/album/0Y4UzVqYI5o4GBxkQimdL8) | 3:11 | 2023-04-14 |  |
 | [Minefields](https://open.spotify.com/track/1OU4E4HiVjdak0mL4blVWT) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Minefields](https://open.spotify.com/album/6Pp5U1A6z6OogrtQEL5Q89) | 3:10 | 2022-02-18 |  |
 | [Miserable Man](https://open.spotify.com/track/6gPPoRYJwCsoB2VVdPJfmo) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Miserable Man](https://open.spotify.com/album/2l8bIF7dlr0xNkFJnQXUE4) | 3:52 | 2022-02-18 | 2022-03-26 |
 | [Modern Loneliness \- acoustic](https://open.spotify.com/track/21OihIGdTCAL856FOjcs3j) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~ \(the extras\)](https://open.spotify.com/album/1J2s2YBN58niYSzgkvCIM7) | 4:12 | 2022-07-22 | 2022-11-13 |
@@ -160,7 +161,7 @@
 | [Satellite](https://open.spotify.com/track/1G9hDB1bmxz131N9svQ8pY) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Satellite](https://open.spotify.com/album/1NmhmrcrG143ODfGk9myHE) | 3:06 | 2022-10-07 |  |
 | [Second Hand Love \(feat\. Ruben\)](https://open.spotify.com/track/0tig7XFHhhSErWaXdeq5Oj) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv), [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Second Hand Love \(feat\. Ruben\)](https://open.spotify.com/album/2HMJp3DPado7Go8pZ9SZey) | 3:24 | 2022-02-18 | 2023-02-12 |
 | [Segredo](https://open.spotify.com/track/68oF0mfSgJ0CB4ivpBCQcq) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Degradê](https://open.spotify.com/album/2TUTbVCtk6nWQM55vLKZvs) | 3:26 | 2022-11-04 | 2023-01-15 |
-| [Self Sabotage](https://open.spotify.com/track/60YeZiwow3kKAPvfyolXn6) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [Self Sabotage](https://open.spotify.com/album/1lGuRcwJrSPtneek0Vz7W1) | 3:03 | 2022-05-06 |  |
+| [Self Sabotage](https://open.spotify.com/track/60YeZiwow3kKAPvfyolXn6) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [Self Sabotage](https://open.spotify.com/album/1lGuRcwJrSPtneek0Vz7W1) | 3:03 | 2022-05-06 | 2023-04-16 |
 | [Set For Life](https://open.spotify.com/track/6W9w3qHhJMALd82l6do6F3) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part \(Deluxe\)](https://open.spotify.com/album/7jeMBMO8h8d3H7opdsNfIy) | 4:08 | 2022-12-02 |  |
 | [Shadow Of Mine](https://open.spotify.com/track/0uth6JMSGzbmREU9esuWX5) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Shadow Of Mine](https://open.spotify.com/album/1WOXEZWW81y830KHdqOdVG) | 2:45 | 2022-03-02 | 2022-03-05 |
 | [Sleep Well](https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Sleep Well](https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO) | 2:55 | 2023-04-14 |  |

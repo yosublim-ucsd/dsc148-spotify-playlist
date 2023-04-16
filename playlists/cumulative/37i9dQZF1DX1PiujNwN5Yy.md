@@ -4,7 +4,7 @@
 
 > Sad songs just 4 you para uno de esos días.
 
-168 songs - 9 hr 38 min
+169 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Déjame Dejarte Atrás](https://open.spotify.com/track/6pB2v73sVw1NEm8g959jPT) | [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [Déjame Dejarte Atrás](https://open.spotify.com/album/6ovEup64IXcmtlZIHYzAVx) | 3:24 | 2021-12-06 |  |
 | [El Fuego En El Cielo \(MASTER 1\)](https://open.spotify.com/track/3hJgUV0AiZkjalnfq8geGo) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [ESTO NO TIENE NADA QUE VER CON eduardo](https://open.spotify.com/album/1DcIhob7podzXMZMcvBcOj) | 2:52 | 2021-12-06 | 2022-07-29 |
 | [el jardinero](https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [el jardinero](https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q) | 2:57 | 2021-12-06 |  |
-| [El mejor de tus errores \(feat\. Alice Wonder\)](https://open.spotify.com/track/2h5emEDptvBZZFeJ23a6G3) | [Rayden](https://open.spotify.com/artist/6G43BFwUJvFWbev3knhgEa), [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [El mejor de tus errores \(feat\. Alice Wonder\)](https://open.spotify.com/album/6DUZuOW0k1ceSWMFisvMqZ) | 3:29 | 2021-12-06 |  |
+| [El mejor de tus errores \(feat\. Alice Wonder\)](https://open.spotify.com/track/2h5emEDptvBZZFeJ23a6G3) | [Rayden](https://open.spotify.com/artist/6G43BFwUJvFWbev3knhgEa), [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [El mejor de tus errores \(feat\. Alice Wonder\)](https://open.spotify.com/album/6DUZuOW0k1ceSWMFisvMqZ) | 3:29 | 2021-12-06 | 2023-04-16 |
 | [El Mismo Aire \- con Pablo Alborán](https://open.spotify.com/track/5EbtodsuLbxrFDH6j5avVS) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [El Mismo Aire \(con Pablo Alborán\)](https://open.spotify.com/album/3E3coJkwv6rbqUTiw1qLZ6) | 3:08 | 2021-12-06 |  |
 | [en la ciudad](https://open.spotify.com/track/5smdosXwKG5czbMDXqRtc7) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [dóntia](https://open.spotify.com/artist/6otFL2m5sOProVKidtkpyx) | [en la ciudad](https://open.spotify.com/album/6FC9OVa2vFyot2dp23GdiM) | 3:31 | 2023-03-03 |  |
 | [Es Que Yo Te Quiero A Ti](https://open.spotify.com/track/7KvX1d2BMXXLXt3Kuq5atu) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Es Que Yo Te Quiero A Ti](https://open.spotify.com/album/3yeHPquNBp32WyLri8EbRO) | 5:23 | 2021-12-06 |  |
@@ -148,6 +148,7 @@
 | [T la Sudo \(Demo\)](https://open.spotify.com/track/1Vyf9dBD7DzVWobiEbHoKx) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9), [Roy Borland](https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7) | [T la Sudo \(Demo\)](https://open.spotify.com/album/35avDyqo3YuTl3panFpyFz) | 3:05 | 2021-12-06 |  |
 | [Take All Your Things](https://open.spotify.com/track/0Z6JPPinWTnMr2IewL15J2) | [St Woods](https://open.spotify.com/artist/7Cj0psFxm34eneGRVePhDI) | [Bones](https://open.spotify.com/album/1wIySeB9NtReed6unvzzm8) | 3:36 | 2021-12-06 | 2022-12-03 |
 | [Tal Vez](https://open.spotify.com/track/2roQw5McQNlTzAu2dGGL14) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Tal Vez](https://open.spotify.com/album/7pdEfZI6mGWqdwJCxzP0YB) | 2:39 | 2021-12-06 | 2023-04-13 |
+| [Tal Vez](https://open.spotify.com/track/6nm1A7TSAYLkCTmrdYAWp5) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Tal Vez](https://open.spotify.com/album/3kE68K2LF8KdxJr2B2IoDw) | 2:39 | 2023-04-14 |  |
 | [te echo de menos </3](https://open.spotify.com/track/2cI9at8yZOA69znRNFFyOe) | [Covi Quintana](https://open.spotify.com/artist/2sSqkk6j5gRa7MzeQqMfIN) | [te echo de menos </3](https://open.spotify.com/album/0J9M2VOvAoiw3eC46vWOsr) | 3:01 | 2021-12-06 | 2022-07-29 |
 | [te echo de menos </3](https://open.spotify.com/track/7uf1a5JCGKgNoDj5hv1rFM) | [Covi Quintana](https://open.spotify.com/artist/2sSqkk6j5gRa7MzeQqMfIN) | [Mañana Te Escribo Otra Canción](https://open.spotify.com/album/13fka9ET1RGpC4jQx2W9kE) | 3:01 | 2022-05-03 |  |
 | [Te Guardo](https://open.spotify.com/track/1cvSHX6jBzX93A6b6Q1j3K) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3) | 3:21 | 2022-05-03 |  |

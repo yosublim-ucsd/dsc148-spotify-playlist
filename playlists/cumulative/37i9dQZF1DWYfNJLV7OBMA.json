@@ -4076,10 +4076,36 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 247200,
       "name": "Tinkiri",
       "url": "https://open.spotify.com/track/3PltuHhD5BYPXp6F6OCF9I"
+    },
+    {
+      "album": {
+        "name": "Tinkiri",
+        "url": "https://open.spotify.com/album/2fTgZauT1vZb7UZlmHZHLR"
+      },
+      "artists": [
+        {
+          "name": "DJ JNK",
+          "url": "https://open.spotify.com/artist/0cw03AoYoYH79oBa0L0hoT"
+        },
+        {
+          "name": "Moniyo",
+          "url": "https://open.spotify.com/artist/1QcBHj8ZwJZVHVRp61NSAo"
+        },
+        {
+          "name": "Dimi3",
+          "url": "https://open.spotify.com/artist/7uRcNDbRBROKZcU6r2ZPIE"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247200,
+      "name": "Tinkiri",
+      "url": "https://open.spotify.com/track/4mTLVWdXLgEvllb5GIfJAi"
     },
     {
       "album": {

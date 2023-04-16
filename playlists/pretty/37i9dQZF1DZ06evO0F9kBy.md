@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F9kBy.md) - [plain]
 
 > This is Matt Maher\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,553 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,565 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F9kBy.md) - [plain]
 | 27 | [You Were On The Cross](https://open.spotify.com/track/29eOjlzVVvxmpDD8VYeJpp) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive Again](https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX) | 5:15 |
 | 28 | [Faithfulness \(feat\. Steffany Gretzinger\)](https://open.spotify.com/track/78ANuoRf4FZNRcUDtSaFiL) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 3:31 |
 | 29 | [Baptized](https://open.spotify.com/track/5TjlGElg43A1pHSS6sdKBg) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [New Creation](https://open.spotify.com/album/24792gcL1yqhVFu7QkqxSX) | 3:53 |
-| 30 | [Abide With Me \- Radio Version](https://open.spotify.com/track/5rsERw80XgOfKW98hLTYET) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Abide With Me \(Radio Version\)](https://open.spotify.com/album/6e6e5QP2FBLMKAMn5my95t) | 3:41 |
-| 31 | [Joyful Noise](https://open.spotify.com/track/2OUV9Ryjnat1z8w1C0Igb0) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive & Breathing](https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9) | 4:12 |
+| 30 | [Joyful Noise](https://open.spotify.com/track/2OUV9Ryjnat1z8w1C0Igb0) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive & Breathing](https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9) | 4:12 |
+| 31 | [Abide With Me \- Radio Version](https://open.spotify.com/track/5rsERw80XgOfKW98hLTYET) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Abide With Me \(Radio Version\)](https://open.spotify.com/album/6e6e5QP2FBLMKAMn5my95t) | 3:41 |
 | 32 | [Just as I Am](https://open.spotify.com/track/6gCXdSruNlJtm3guzzlaET) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 4:11 |
 | 33 | [Your Grace Is Enough/Here I Am Lord \(Live\)](https://open.spotify.com/track/27TeIT5tc6vORm23A1gA4h) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [All The People Said Amen](https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu) | 6:05 |
 | 34 | [No Body \(feat\. Matt Maher\)](https://open.spotify.com/track/3KhD8sFLTlH2rFvMskQoUb) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Get Out of the Way of Your Own Heart \(Deluxe Edition\)](https://open.spotify.com/album/2NHhXUmXes3Ky0hdwDpStN) | 4:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F9kBy.md) - [plain]
 | 49 | [Awake My Soul \(A Thousand Tongues\)](https://open.spotify.com/track/62G1fPW9lyLHs1DGOyDRjL) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 3:51 |
 | 50 | [Adoration \(Live\)](https://open.spotify.com/track/5PfnaRjEsPfNOd7AdJmd2N) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [All The People Said Amen](https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu) | 5:59 |
 
-Snapshot ID: `MjgwMjQ4NTIsMDAwMDAwMDBiOTJiZGFhODc0MzUzY2NjNmFkODJiYmMzZTMwZTJkYg==`
+Snapshot ID: `MjgwMjYwMzIsMDAwMDAwMDA1N2RhNDgzNDg0OTdjOTgxMDY2MjFiYTI2YTRkMTk2Mg==`

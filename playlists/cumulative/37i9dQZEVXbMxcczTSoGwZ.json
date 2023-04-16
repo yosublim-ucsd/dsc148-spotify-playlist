@@ -350,7 +350,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 154767,
       "name": "40K",
       "url": "https://open.spotify.com/track/6WQihZyNHPQzaF7dx3Xmi6"
@@ -1245,6 +1245,24 @@
     },
     {
       "album": {
+        "name": "Anneli",
+        "url": "https://open.spotify.com/album/6p2JvXQjGP9Zi13eUE91hF"
+      },
+      "artists": [
+        {
+          "name": "STIG",
+          "url": "https://open.spotify.com/artist/6TKvvwslcx2bKwiX2aBxbd"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185012,
+      "name": "Anneli",
+      "url": "https://open.spotify.com/track/3eWWMMuhJoswsc1KpvAbrG"
+    },
+    {
+      "album": {
         "name": "annoin mun syd\u00e4men (sped up)",
         "url": "https://open.spotify.com/album/2zhjNljeteuATbvNDMhNMP"
       },
@@ -1626,6 +1644,32 @@
       "duration_ms": 218240,
       "name": "Baby baby",
       "url": "https://open.spotify.com/track/5AbP52CPQ5X1x9yJT6uAHE"
+    },
+    {
+      "album": {
+        "name": "Baby Don't Hurt Me",
+        "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140017,
+      "name": "Baby Don't Hurt Me",
+      "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
     },
     {
       "album": {
@@ -3475,6 +3519,24 @@
     },
     {
       "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212953,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
+    },
+    {
+      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -4380,7 +4442,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 164822,
       "name": "Edelleen sua",
       "url": "https://open.spotify.com/track/17V5NNPaddajh4gr50Wng8"
@@ -4720,7 +4782,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 167186,
       "name": "Elokuva",
       "url": "https://open.spotify.com/track/5NXAczluksdeHJ2p5GBqLi"
@@ -9841,6 +9903,28 @@
     },
     {
       "album": {
+        "name": "Kadut ei tuu unohtaa / Kaikki saa kukat joskus",
+        "url": "https://open.spotify.com/album/1mW2h46pd8qGU7qq1YMK8A"
+      },
+      "artists": [
+        {
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        },
+        {
+          "name": "Bizi",
+          "url": "https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159540,
+      "name": "Kadut ei tuu unohtaa",
+      "url": "https://open.spotify.com/track/7cafPRjzSPHWtDPyzMOEiy"
+    },
+    {
+      "album": {
         "name": "Kahvimaito (Vain el\u00e4m\u00e4\u00e4 kausi 12)",
         "url": "https://open.spotify.com/album/4rHq7jPchjH0F37TUPpxBQ"
       },
@@ -11927,6 +12011,24 @@
     },
     {
       "album": {
+        "name": "K\u00c4DET YL\u00d6S",
+        "url": "https://open.spotify.com/album/2joWaoC7gjMGk1Ilbxxq5p"
+      },
+      "artists": [
+        {
+          "name": "BESS",
+          "url": "https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179926,
+      "name": "K\u00e4det yl\u00f6s",
+      "url": "https://open.spotify.com/track/3miCmoC4ELhFxtrUZXR011"
+    },
+    {
+      "album": {
         "name": "K\u00e4mmenen kuva poskeen",
         "url": "https://open.spotify.com/album/5WqX6S8tooEQQLxkHwhxEM"
       },
@@ -13744,7 +13846,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 165633,
       "name": "Makso Mit\u00e4 Makso",
       "url": "https://open.spotify.com/track/2G1gCuldjtW9xcN1n1yenB"
@@ -15030,7 +15132,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 250760,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
@@ -15807,6 +15909,28 @@
     },
     {
       "album": {
+        "name": "Myrskyn j\u00e4lkeen",
+        "url": "https://open.spotify.com/album/4J3xDVYm3u5hk3a5NR78SX"
+      },
+      "artists": [
+        {
+          "name": "Teflon Brothers",
+          "url": "https://open.spotify.com/artist/3zh3U2eQ64EhBFbJuxgf1M"
+        },
+        {
+          "name": "Poju",
+          "url": "https://open.spotify.com/artist/5z9Z1vlOXGvDLBgKfzdswn"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217884,
+      "name": "Myrskyn j\u00e4lkeen",
+      "url": "https://open.spotify.com/track/7h8d7vRJRidMLutOfJ13F7"
+    },
+    {
+      "album": {
         "name": "Mysteeri",
         "url": "https://open.spotify.com/album/1kuMgTPAlt6NVVzzTzuWRp"
       },
@@ -16338,7 +16462,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 167574,
       "name": "No Business On The Dancefloor",
       "url": "https://open.spotify.com/track/47EttOPfJblOFsztpSseEm"
@@ -17222,7 +17346,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 140088,
       "name": "ORANSSI",
       "url": "https://open.spotify.com/track/4LF4LXtyULKaS3skaAndBp"
@@ -17302,6 +17426,28 @@
       "duration_ms": 236906,
       "name": "Overpass Graffiti",
       "url": "https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3"
+    },
+    {
+      "album": {
+        "name": "Ovet paukkuu (feat. william)",
+        "url": "https://open.spotify.com/album/1mVWqJk1Yu9Ubb0OqE6tcu"
+      },
+      "artists": [
+        {
+          "name": "Joe L",
+          "url": "https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra"
+        },
+        {
+          "name": "william",
+          "url": "https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156026,
+      "name": "Ovet paukkuu (feat. william)",
+      "url": "https://open.spotify.com/track/7pLVekYOyxNtBTeaXl9PU5"
     },
     {
       "album": {
@@ -18095,6 +18241,24 @@
     },
     {
       "album": {
+        "name": "Pisamat",
+        "url": "https://open.spotify.com/album/0ic9aYxEuQVsIxS2v00lrr"
+      },
+      "artists": [
+        {
+          "name": "Roope Salminen & Koirat",
+          "url": "https://open.spotify.com/artist/3OElmmR1D18e4dPTISAF5r"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174763,
+      "name": "Pisamat",
+      "url": "https://open.spotify.com/track/3eyfPAFf5Rl8NvIgqTPcSf"
+    },
+    {
+      "album": {
         "name": "Piste",
         "url": "https://open.spotify.com/album/0mJCwfRlCliuvVgqryNGpS"
       },
@@ -18662,7 +18826,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 147979,
       "name": "Queen of Kings",
       "url": "https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA"
@@ -18843,6 +19007,24 @@
     },
     {
       "album": {
+        "name": "K\u00c4DET YL\u00d6S",
+        "url": "https://open.spotify.com/album/2joWaoC7gjMGk1Ilbxxq5p"
+      },
+      "artists": [
+        {
+          "name": "BESS",
+          "url": "https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179585,
+      "name": "Ram pam pam",
+      "url": "https://open.spotify.com/track/3HkGWngSgieI9DdklKeFkt"
+    },
+    {
+      "album": {
         "name": "Ram pam pam",
         "url": "https://open.spotify.com/album/6wKDISYcXTFk9y54P06rGz"
       },
@@ -18854,7 +19036,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 179878,
       "name": "Ram pam pam",
       "url": "https://open.spotify.com/track/55qPuI6NekVyNPM6kh5DN4"
@@ -18988,7 +19170,7 @@
       ],
       "date_added": "2021-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-16",
       "duration_ms": 247426,
       "name": "Reiviluola",
       "url": "https://open.spotify.com/track/1RCQAeceDgtbD7WVLWr05S"
@@ -20542,6 +20724,24 @@
       "duration_ms": 173221,
       "name": "sisko \u00e4l\u00e4 pelk\u00e4\u00e4",
       "url": "https://open.spotify.com/track/0oiz37APFPumfnCdLWNYjO"
+    },
+    {
+      "album": {
+        "name": "Sit\u00e4 mit\u00e4 me oltiin",
+        "url": "https://open.spotify.com/album/1OJwcw7nKtNy1G8QiAC9ea"
+      },
+      "artists": [
+        {
+          "name": "Tuure Boelius",
+          "url": "https://open.spotify.com/artist/4qojHFVaMgvpZZ1LW0L9To"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175449,
+      "name": "Sit\u00e4 mit\u00e4 me oltiin",
+      "url": "https://open.spotify.com/track/1Ie6qCuO9yQyoLR2umZnOL"
     },
     {
       "album": {

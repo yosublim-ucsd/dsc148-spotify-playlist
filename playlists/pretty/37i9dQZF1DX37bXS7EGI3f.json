@@ -1,12 +1,12 @@
 {
   "description": "Epic and melodic metal - for the dragonslayer in you! Cover: Sabaton",
-  "num_followers": 726489,
+  "num_followers": 726641,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMGZmYWY5NjAxY2Q3MGE2NWUwNTQ2MmQ5NDY3NGUxNDA3",
+  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDFiM2IwOTI5MmNlODRkN2E2ZGJmNTMxNWZhYjdmYWEw",
   "tracks": [
     {
       "added_at": "2023-04-14 04:00:00",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Venerate Me",
-        "url": "https://open.spotify.com/album/31N7LU5QrRO1FffpS3oBH7"
-      },
-      "artists": [
-        {
-          "name": "HammerFall",
-          "url": "https://open.spotify.com/artist/2o18h28enlHxj887tATc58"
-        }
-      ],
-      "duration_ms": 283338,
-      "name": "Venerate Me",
-      "url": "https://open.spotify.com/track/6D1i1hoMyjs843XbMhNq8J"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "We Are Legion",
         "url": "https://open.spotify.com/album/1jexIhocz0R6rK1nbUU6Cq"
       },
@@ -363,18 +347,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "The Hanging Tree",
-        "url": "https://open.spotify.com/album/44ZPTnl5lj6W0RvZPgKSHM"
+        "name": "Venerate Me",
+        "url": "https://open.spotify.com/album/31N7LU5QrRO1FffpS3oBH7"
       },
       "artists": [
         {
-          "name": "Elvenking",
-          "url": "https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB"
+          "name": "HammerFall",
+          "url": "https://open.spotify.com/artist/2o18h28enlHxj887tATc58"
         }
       ],
-      "duration_ms": 267240,
-      "name": "The Hanging Tree",
-      "url": "https://open.spotify.com/track/1VkIiifhcYok0aujKKYCHZ"
+      "duration_ms": 283338,
+      "name": "Venerate Me",
+      "url": "https://open.spotify.com/track/6D1i1hoMyjs843XbMhNq8J"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -407,6 +391,22 @@
       "duration_ms": 208859,
       "name": "Fire",
       "url": "https://open.spotify.com/track/6a4hIHS9wtWf2O0e8XgHGl"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "The Hanging Tree",
+        "url": "https://open.spotify.com/album/44ZPTnl5lj6W0RvZPgKSHM"
+      },
+      "artists": [
+        {
+          "name": "Elvenking",
+          "url": "https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB"
+        }
+      ],
+      "duration_ms": 267240,
+      "name": "The Hanging Tree",
+      "url": "https://open.spotify.com/track/1VkIiifhcYok0aujKKYCHZ"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Krigsherren",
+        "url": "https://open.spotify.com/album/1UaQsVV7QmUd1cCzSHYNvl"
+      },
+      "artists": [
+        {
+          "name": "Hulkoff",
+          "url": "https://open.spotify.com/artist/2ztj3MdrAuEMrU1P4HrZwH"
+        }
+      ],
+      "duration_ms": 209440,
+      "name": "Krigsherren",
+      "url": "https://open.spotify.com/track/5vKHU3aMlAzujMK2LcKPf7"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Fairy of the Bog",
         "url": "https://open.spotify.com/album/1JahUk68dOo6qgqppAkfk1"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 275146,
       "name": "The Gates of Time",
       "url": "https://open.spotify.com/track/7htJHIpqvekWbUvy3mDQAZ"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Krigsherren",
-        "url": "https://open.spotify.com/album/1UaQsVV7QmUd1cCzSHYNvl"
-      },
-      "artists": [
-        {
-          "name": "Hulkoff",
-          "url": "https://open.spotify.com/artist/2ztj3MdrAuEMrU1P4HrZwH"
-        }
-      ],
-      "duration_ms": 209440,
-      "name": "Krigsherren",
-      "url": "https://open.spotify.com/track/5vKHU3aMlAzujMK2LcKPf7"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -767,26 +767,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Nekonomicon",
-        "url": "https://open.spotify.com/album/56dhYX1QaCsX3Kz3FgBOrJ"
-      },
-      "artists": [
-        {
-          "name": "Nekonomicon",
-          "url": "https://open.spotify.com/artist/0LRsDKh8RR88ZyqNDw52hB"
-        },
-        {
-          "name": "Kylee Brielle",
-          "url": "https://open.spotify.com/artist/0qYMPOwezx6aACst4H0uaI"
-        }
-      ],
-      "duration_ms": 237031,
-      "name": "Dismantled",
-      "url": "https://open.spotify.com/track/1JETidOlBrs1QsLHPdMUFP"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Of Silence",
         "url": "https://open.spotify.com/album/1dR6oYAK5YRVstm9q6AtA1"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 230480,
       "name": "Childhood",
       "url": "https://open.spotify.com/track/1CznPeF4zp76HqUmZk26dp"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Nekonomicon",
+        "url": "https://open.spotify.com/album/56dhYX1QaCsX3Kz3FgBOrJ"
+      },
+      "artists": [
+        {
+          "name": "Nekonomicon",
+          "url": "https://open.spotify.com/artist/0LRsDKh8RR88ZyqNDw52hB"
+        },
+        {
+          "name": "Kylee Brielle",
+          "url": "https://open.spotify.com/artist/0qYMPOwezx6aACst4H0uaI"
+        }
+      ],
+      "duration_ms": 237031,
+      "name": "Dismantled",
+      "url": "https://open.spotify.com/track/1JETidOlBrs1QsLHPdMUFP"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "New Evil",
-        "url": "https://open.spotify.com/album/2iedVBdD7TICbWsudozEbx"
-      },
-      "artists": [
-        {
-          "name": "Nocturna",
-          "url": "https://open.spotify.com/artist/3Eo8pwg5OKX59PKpAFfPqX"
-        }
-      ],
-      "duration_ms": 265373,
-      "name": "New Evil",
-      "url": "https://open.spotify.com/track/2IvaXSzA8LFKhSVvJV0xtZ"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Pop Metal",
         "url": "https://open.spotify.com/album/3chKNZRdtp9IFFIgzYIWoz"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 191999,
       "name": "Empire",
       "url": "https://open.spotify.com/track/6oOZSrzBB2QTSRY3qoWaYy"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "New Evil",
+        "url": "https://open.spotify.com/album/2iedVBdD7TICbWsudozEbx"
+      },
+      "artists": [
+        {
+          "name": "Nocturna",
+          "url": "https://open.spotify.com/artist/3Eo8pwg5OKX59PKpAFfPqX"
+        }
+      ],
+      "duration_ms": 265373,
+      "name": "New Evil",
+      "url": "https://open.spotify.com/track/2IvaXSzA8LFKhSVvJV0xtZ"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Over the Horizon Radar",
-        "url": "https://open.spotify.com/album/5UOB2GpihCJHEQ30DSnkss"
-      },
-      "artists": [
-        {
-          "name": "Jorn",
-          "url": "https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2"
-        }
-      ],
-      "duration_ms": 323990,
-      "name": "Over the Horizon Radar",
-      "url": "https://open.spotify.com/track/5GMCA2bj9tyiRzMfqpsMzy"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Love Reign O'er Me",
         "url": "https://open.spotify.com/album/4bYUQCRw0UMQaPdlMmPnce"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 240106,
       "name": "Love Reign O'er Me",
       "url": "https://open.spotify.com/track/4iTx8xQFl22MH82TTrw8NQ"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Over the Horizon Radar",
+        "url": "https://open.spotify.com/album/5UOB2GpihCJHEQ30DSnkss"
+      },
+      "artists": [
+        {
+          "name": "Jorn",
+          "url": "https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2"
+        }
+      ],
+      "duration_ms": 323990,
+      "name": "Over the Horizon Radar",
+      "url": "https://open.spotify.com/track/5GMCA2bj9tyiRzMfqpsMzy"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "After Forever (15th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6yHSM7kypL6cP7JcboPiVE"
-      },
-      "artists": [
-        {
-          "name": "After Forever",
-          "url": "https://open.spotify.com/artist/6ISyfZw4EVt16zhmH2lvxp"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/7ug96Oh8cyfTvMovOhc57D"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Dragonwings",
         "url": "https://open.spotify.com/album/5myo6QeT0EwVkAVPw3MlR0"
       },
@@ -1143,34 +1127,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Towards The Dying Lands",
-        "url": "https://open.spotify.com/album/1VrGCLxkDyMH7u252PQO0I"
+        "name": "After Forever (15th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6yHSM7kypL6cP7JcboPiVE"
       },
       "artists": [
         {
-          "name": "Horizon Ignited",
-          "url": "https://open.spotify.com/artist/6ckq60ZYOQgb3qpcBIWt1E"
+          "name": "After Forever",
+          "url": "https://open.spotify.com/artist/6ISyfZw4EVt16zhmH2lvxp"
         }
       ],
-      "duration_ms": 237000,
-      "name": "Guiding Light",
-      "url": "https://open.spotify.com/track/7swJjRerIGDjEAz55QiQnJ"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Experience",
-        "url": "https://open.spotify.com/album/382cff6yTE9GR1zoxPGRTM"
-      },
-      "artists": [
-        {
-          "name": "Megaraptor",
-          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
-        }
-      ],
-      "duration_ms": 314414,
-      "name": "Experience",
-      "url": "https://open.spotify.com/track/5jlu205NEMHwe3TcV0rmGn"
+      "duration_ms": 206400,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/7ug96Oh8cyfTvMovOhc57D"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1187,6 +1155,22 @@
       "duration_ms": 378549,
       "name": "Now Is the Time",
       "url": "https://open.spotify.com/track/0H0g6Rk2E39yNF9ShYj9z0"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Experience",
+        "url": "https://open.spotify.com/album/382cff6yTE9GR1zoxPGRTM"
+      },
+      "artists": [
+        {
+          "name": "Megaraptor",
+          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
+        }
+      ],
+      "duration_ms": 314414,
+      "name": "Experience",
+      "url": "https://open.spotify.com/track/5jlu205NEMHwe3TcV0rmGn"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1211,6 +1195,46 @@
       "duration_ms": 426160,
       "name": "Time Machine (feat. Kai Hansen & Piet Sielck)",
       "url": "https://open.spotify.com/track/2XxNP9FEnrytdaIElFsWoY"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Towards The Dying Lands",
+        "url": "https://open.spotify.com/album/1VrGCLxkDyMH7u252PQO0I"
+      },
+      "artists": [
+        {
+          "name": "Horizon Ignited",
+          "url": "https://open.spotify.com/artist/6ckq60ZYOQgb3qpcBIWt1E"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "Guiding Light",
+      "url": "https://open.spotify.com/track/7swJjRerIGDjEAz55QiQnJ"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "The Endless Shore",
+        "url": "https://open.spotify.com/album/7KnfUdPa3pZ37r3GQe6yz7"
+      },
+      "artists": [
+        {
+          "name": "Mortemia",
+          "url": "https://open.spotify.com/artist/5RUUgjv8Q0H2osxIC3AYBi"
+        },
+        {
+          "name": "Ulli Perhonen",
+          "url": "https://open.spotify.com/artist/5sVlAjN68bza0JFzEbagzH"
+        },
+        {
+          "name": "Nils Courbaron",
+          "url": "https://open.spotify.com/artist/5TXDrJYFMZU5x7DqNnJcR4"
+        }
+      ],
+      "duration_ms": 298124,
+      "name": "The Endless Shore",
+      "url": "https://open.spotify.com/track/1MmecgkGmAS0dpJtF0k4Is"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1283,22 +1307,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Load Your Cannons",
-        "url": "https://open.spotify.com/album/4PFn6wzkqzUnBOvvJaye1j"
-      },
-      "artists": [
-        {
-          "name": "Saint Deamon",
-          "url": "https://open.spotify.com/artist/3N3B6aZbGPNDiW5aZesnoG"
-        }
-      ],
-      "duration_ms": 210080,
-      "name": "Load Your Cannons",
-      "url": "https://open.spotify.com/track/3wZJBxpGhKvxO2OdTVQGMJ"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Breath",
         "url": "https://open.spotify.com/album/2A70NvbWyMrMhCgCCLB05g"
       },
@@ -1311,6 +1319,22 @@
       "duration_ms": 224200,
       "name": "Breath",
       "url": "https://open.spotify.com/track/6srr7GORT5rCZyFKO5jd2G"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Load Your Cannons",
+        "url": "https://open.spotify.com/album/4PFn6wzkqzUnBOvvJaye1j"
+      },
+      "artists": [
+        {
+          "name": "Saint Deamon",
+          "url": "https://open.spotify.com/artist/3N3B6aZbGPNDiW5aZesnoG"
+        }
+      ],
+      "duration_ms": 210080,
+      "name": "Load Your Cannons",
+      "url": "https://open.spotify.com/track/3wZJBxpGhKvxO2OdTVQGMJ"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1367,22 +1391,6 @@
       "duration_ms": 280750,
       "name": "Beneath Your Skin",
       "url": "https://open.spotify.com/track/7jQjPgtzLhJwDMRb23NF9f"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Call My Name",
-        "url": "https://open.spotify.com/album/69FOJK2zUuEdfdpLc3D7pl"
-      },
-      "artists": [
-        {
-          "name": "Sleeping Romance",
-          "url": "https://open.spotify.com/artist/0ppFjJOvd6dhcpKktp6heM"
-        }
-      ],
-      "duration_ms": 267500,
-      "name": "Call My Name",
-      "url": "https://open.spotify.com/track/3FkMke69v3NF3oufwhMygY"
     }
   ],
   "unique_name": "Epic & Melodic",
