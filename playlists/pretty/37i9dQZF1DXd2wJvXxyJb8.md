@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > ta mas e se eu largar tudo e for vender minha arte na praia e viver das coisas q a terra dá
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,028,595 likes - 60 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,029,532 likes - 60 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 18 | [Vai Soltando Pancadão \- Beat do Pica Pau Maluco](https://open.spotify.com/track/2pEnQImOCJiCTvDv3Lu3aE) | [DJ Santos MEC](https://open.spotify.com/artist/3gFraZSNZQpoQ704aHC0Ev), [MC Tilbita](https://open.spotify.com/artist/6H2IOr8ZJ3LMbxrVPRMiQL), [MC Alequinho](https://open.spotify.com/artist/3dMVoraROonQpHTN4S7l2e), [Mc Magrinho](https://open.spotify.com/artist/4JA9UvIYD3D5kL7utiGJMI) | [Vai Soltando Pancadão \- Beat do Pica Pau Maluco](https://open.spotify.com/album/7AVAzg0DN8Shw2yKofxBQM) | 2:46 |
 | 19 | [Love Absurdo](https://open.spotify.com/track/7aZnuwpivaj4N7XFhhqBiO) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy) | [Love Absurdo](https://open.spotify.com/album/2hHVL6MV4j9ikLC4VDygCS) | 3:04 |
 | 20 | [Passe Livre](https://open.spotify.com/track/3UBt3hcQDzqi3MB4V5AzGH) | [Nilson Neto](https://open.spotify.com/artist/2D9AauR2GiC99uhbtBJJeN) | [Passe Livre](https://open.spotify.com/album/1euBiLYutDJjF7H5N7zHwd) | 2:53 |
-| 21 | [NUNCA SOZİNHO](https://open.spotify.com/track/0HAvN3XZPCnOrfFIFGcXp6) | [hamza7](https://open.spotify.com/artist/7541kRGbFjmVsqPV4CMVzp), [Votabia](https://open.spotify.com/artist/4klGZvLtbfhDtrdTTS2EhK) | [NUNCA SOZİNHO](https://open.spotify.com/album/1qF4rCJnQ6wnIHeIfK6BOk) | 2:17 |
+| 21 | [Nunca Sozinho](https://open.spotify.com/track/0uGpWtQgtZ6UcFXnFiNhNq) | [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka) | [Nunca Sozinho](https://open.spotify.com/album/5UDKZWc01Bse8OGYCR2wpb) | 2:17 |
 | 22 | [Botadinha Saliente](https://open.spotify.com/track/0qYW2jULeN9giEty0ee9Fy) | [MC Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP) | [Botadinha Saliente](https://open.spotify.com/album/0cX66lTggji6J1JC7hvDHG) | 2:38 |
 | 23 | [Sem Aliança no Dedo](https://open.spotify.com/track/22sAwsBH0NoNJXnrBenQuO) | [MC Xenon](https://open.spotify.com/artist/5vcMPVDXTLhJ4UpOZKXZtg), [Os Gemeos da Putaria](https://open.spotify.com/artist/5ZEpz4ei1jHqvA4EHUeKqs) | [Sem Aliança no Dedo](https://open.spotify.com/album/1jrzYloHK7zn8n66qulEjn) | 2:00 |
 | 24 | [Dona Chica \- Ao Vivo](https://open.spotify.com/track/0sD07uktXbICUL36lzfBxf) | [Augusto e Rafael](https://open.spotify.com/artist/1md31EhusZo6xEhEXVXbb3) | [Dona Chica \(Ao Vivo\)](https://open.spotify.com/album/1hQvhvilbkg3yQI55eigsd) | 3:03 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 59 | [O Poder Dessa Garota](https://open.spotify.com/track/3emWP5AGvDHFAlHlCOPiqT) | [Mc Gabzin](https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K), [DJ TAK VADIÃO](https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu), [dj sv](https://open.spotify.com/artist/7u9115faVQY8xNrCXqY0zx) | [O Poder Dessa Garota](https://open.spotify.com/album/443D9lOS7CSKSgR0RxaxdV) | 2:16 |
 | 60 | [Balanço da Rede](https://open.spotify.com/track/2qmG7dokbGpDGD0T5wORWt) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Balanço da Rede](https://open.spotify.com/album/0ITV6sO1zJtWItTc31i2bP) | 2:46 |
 
-Snapshot ID: `MTY4MTM5ODQ0OSwwMDAwMDAwMGJkNmM1OGNhMDhlYTM1MGM3MTdmNmZmNWViOWZhOGNj`
+Snapshot ID: `MTY4MTM5ODQ0OSwwMDAwMDAwMGE0YTc1MzM4ZTdlMDJlZmZjOTEzMWVjNWRiZWE0MTVl`

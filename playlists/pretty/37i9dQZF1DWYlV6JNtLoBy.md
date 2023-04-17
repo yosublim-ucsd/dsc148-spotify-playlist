@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 
 > Gospel music from across East Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 343 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 360 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 | 18 | [Mwema](https://open.spotify.com/track/0LkKFTwenA513XXLeF9sVy) | [Mercy Masika](https://open.spotify.com/artist/768ba0tQi1ULwowdydY05T) | [Mwema](https://open.spotify.com/album/6nXlu9652BlZrJySXjdnsX) | 3:52 |
 | 19 | [Kirathimo](https://open.spotify.com/track/5lSJluCdq3PPXnawgjLVr6) | [Grace Mwai](https://open.spotify.com/artist/3DY2UOhqxJUmaYW3yUgAIQ) | [Kirathimo](https://open.spotify.com/album/4ol5duZtTeX4gpDZZm2SWa) | 3:43 |
 | 20 | [Kuna Sauti Yaita](https://open.spotify.com/track/79DSttMu86Iu2cR4PbFPay) | [Ambassadors Of Christ Choir](https://open.spotify.com/artist/2yrDcZOG852sQedI47WMQi) | [Yatupasa Kushukuru](https://open.spotify.com/album/3FTy3A7du71Pa12uK0mJZd) | 3:49 |
-| 21 | [Nikumbushe Wema Wako](https://open.spotify.com/track/62cnrFkQOy5jBuOoCBm5qT) | [Angel Benard](https://open.spotify.com/artist/7lfpPXqQTNddUIYXLDVbbD) | [Nikumbushe Wema Wako](https://open.spotify.com/album/5u0BBGqAaYEgN3Kkrk41AX) | 7:19 |
-| 22 | [Uniongoze Yesu](https://open.spotify.com/track/2V5Bn7Mazl8A7jNQ4fdyTy) | [UPENDO NKONE](https://open.spotify.com/artist/3rCqmZaKlxxo6LbbuhsF8n) | [Uniongoze Yesu, Vol.4](https://open.spotify.com/album/01mAHADPk1dOnHMBb1ILbx) | 8:10 |
+| 21 | [Uniongoze Yesu](https://open.spotify.com/track/2V5Bn7Mazl8A7jNQ4fdyTy) | [UPENDO NKONE](https://open.spotify.com/artist/3rCqmZaKlxxo6LbbuhsF8n) | [Uniongoze Yesu, Vol.4](https://open.spotify.com/album/01mAHADPk1dOnHMBb1ILbx) | 8:10 |
+| 22 | [Nikumbushe Wema Wako](https://open.spotify.com/track/62cnrFkQOy5jBuOoCBm5qT) | [Angel Benard](https://open.spotify.com/artist/7lfpPXqQTNddUIYXLDVbbD) | [Nikumbushe Wema Wako](https://open.spotify.com/album/5u0BBGqAaYEgN3Kkrk41AX) | 7:19 |
 | 23 | [Ipo Siku](https://open.spotify.com/track/3fFvTmzx1VcXY27OZ81FgH) | [Goodluck Gozbert](https://open.spotify.com/artist/4B9O301rvLS2j8hIwzGzHA) | [Ipo Siku](https://open.spotify.com/album/4XeVEyWo9UFsSGXfzuIu8C) | 5:47 |
 | 24 | [Nipe Macho](https://open.spotify.com/track/6RShwwY6EHo3sOJtkUMKvh) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Nipe Macho](https://open.spotify.com/album/0GB03IydOiczdTv1bTK7DV) | 5:53 |
 | 25 | [Uliniumba Nikuabudu](https://open.spotify.com/track/3zTWVZR28Tl9wcVhSzqf9P) | [Angela Chibalonza Muliri](https://open.spotify.com/artist/4AX5pJN0bFBqQQK2u6rnIS) | [Yahwe Uhimidiwe](https://open.spotify.com/album/2IKNfYCQSbUEwjSVMDQzJn) | 4:30 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 | 45 | [My Everything](https://open.spotify.com/track/701bS0JRIz8otP7cNysD63) | [Wahu](https://open.spotify.com/artist/71rskhiIZ7C255cRyXfZOq) | [Wahu Gospel EP](https://open.spotify.com/album/4IAGY70XLlwIs5X4ALHtZ1) | 3:57 |
 | 46 | [Aina Noma](https://open.spotify.com/track/3P50UlKQOuLbGUd1nnTR9u) | [Kelele Takatifu](https://open.spotify.com/artist/65SihDM3mTGy4xmICANg9S) | [Aina Noma](https://open.spotify.com/album/3nz9nyVPp8s27GB2tIJRGD) | 4:14 |
 | 47 | [Tobina](https://open.spotify.com/track/6UsMXXj1YxBhDxIHK7uUyW) | [Daddy Owen](https://open.spotify.com/artist/0C0jx86ffVZNW144tEpETy) | [Tobina](https://open.spotify.com/album/6juJBXZJj4SyFRhzaJkkNp) | 3:51 |
-| 48 | [Happy Birthday](https://open.spotify.com/track/5gt0c4Lnuk7en8EowAWKNt) | [Mercy Masika](https://open.spotify.com/artist/768ba0tQi1ULwowdydY05T) | [Zaidi](https://open.spotify.com/album/1XUrgCEu95MYR1z6rZfm5J) | 2:55 |
-| 49 | [Mungu Baba](https://open.spotify.com/track/5M5gw7OlOtho2gyoiCW5Cq) | [Rufftone](https://open.spotify.com/artist/2QedlserMBA6I7t6zA70bv), [GSU Choir](https://open.spotify.com/artist/7gIUM7VgRJn6R3IVECjYj7) | [Mungu Baba](https://open.spotify.com/album/6MJF92t5iiPxU1BNPoKJtJ) | 4:00 |
-| 50 | [Utukufu](https://open.spotify.com/track/5vFGjh1BlYhklM4ikVcRcC) | [Ali Mukhwana](https://open.spotify.com/artist/0U7KGdU4TcvHnZok2Yntrj) | [Utukufu](https://open.spotify.com/album/7GCarY8GirkE80DpFX5Ki4) | 4:41 |
+| 48 | [Sure \(Counting on You\)](https://open.spotify.com/track/6631GJTIN4OwoKTeAoIk3Q) | [Jesse10s](https://open.spotify.com/artist/6oOIGUtyWVdPoJmgOE1bGH), [Coopy Bly](https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y) | [Sure \(Counting on You\)](https://open.spotify.com/album/2FqECWZ9A5Jr304QeQftM3) | 3:01 |
+| 49 | [Happy Birthday](https://open.spotify.com/track/5gt0c4Lnuk7en8EowAWKNt) | [Mercy Masika](https://open.spotify.com/artist/768ba0tQi1ULwowdydY05T) | [Zaidi](https://open.spotify.com/album/1XUrgCEu95MYR1z6rZfm5J) | 2:55 |
+| 50 | [Mungu Baba](https://open.spotify.com/track/5M5gw7OlOtho2gyoiCW5Cq) | [Rufftone](https://open.spotify.com/artist/2QedlserMBA6I7t6zA70bv), [GSU Choir](https://open.spotify.com/artist/7gIUM7VgRJn6R3IVECjYj7) | [Mungu Baba](https://open.spotify.com/album/6MJF92t5iiPxU1BNPoKJtJ) | 4:00 |
 
-Snapshot ID: `MTY4MTQzMjIwMCwwMDAwMDAwMDYwZWViMmIwNmEwYjk1YmY4MWZhOThiMmYxMzJjYzYy`
+Snapshot ID: `MTY4MTQzMjIwMCwwMDAwMDAwMDBjZDZiYWU0OWZiYjczZTcyOGVmMzA5YTI0ZTg5NWU2`

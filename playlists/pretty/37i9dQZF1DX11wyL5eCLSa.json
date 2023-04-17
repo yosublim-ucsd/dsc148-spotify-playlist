@@ -1,12 +1,12 @@
 {
   "description": "Sangre fresca en las escenas del indie y el rock. El Mat\u00f3 a un Polic\u00eda Motorizado en portada.",
-  "num_followers": 143663,
+  "num_followers": 143705,
   "original_name": "EL ROCK NO HA MUERTO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ1MjAwMCwwMDAwMDAwMGE0OGNhNjA5MTUyYjY3Njg5ZjM4OTk3NGVhYjg0N2M0",
+  "snapshot_id": "MTY4MTQ1MjAwMCwwMDAwMDAwMDViMjdiMDAyNDc1OGZmMTkzZWM3OGM3NDA4NzVlM2Zh",
   "tracks": [
     {
       "added_at": "2023-04-14 06:00:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Holidays - Chromocosmic Avenue",
-        "url": "https://open.spotify.com/album/7K8FcHyp3prxzWxEiP4gDz"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
-        }
-      ],
-      "duration_ms": 203680,
-      "name": "Holidays",
-      "url": "https://open.spotify.com/track/155yF3s6dVDL0azpwlbuuW"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "Mamita Santa",
         "url": "https://open.spotify.com/album/0sw3hxYLMgoepONHVbAs0R"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 239400,
       "name": "Mamita Santa",
       "url": "https://open.spotify.com/track/2jLqTQadOF5w75Z23hztT7"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Holidays - Chromocosmic Avenue",
+        "url": "https://open.spotify.com/album/7K8FcHyp3prxzWxEiP4gDz"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        }
+      ],
+      "duration_ms": 203680,
+      "name": "Holidays",
+      "url": "https://open.spotify.com/track/155yF3s6dVDL0azpwlbuuW"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Trinchera - Single",
-        "url": "https://open.spotify.com/album/7e6wpR5m0K1S3cWkDGQEBm"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 200624,
-      "name": "Trinchera",
-      "url": "https://open.spotify.com/track/5gGQIro4l0L55dfk85WxUP"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "Donde los Ponys Pastan",
         "url": "https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 322013,
       "name": "Espiral",
       "url": "https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Trinchera - Single",
+        "url": "https://open.spotify.com/album/7e6wpR5m0K1S3cWkDGQEBm"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 200624,
+      "name": "Trinchera",
+      "url": "https://open.spotify.com/track/5gGQIro4l0L55dfk85WxUP"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Trinchera",
-        "url": "https://open.spotify.com/album/5oLaRXGevqs8RYxXhYe9PG"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 179024,
-      "name": "Paradoja",
-      "url": "https://open.spotify.com/track/29FRFwLHf0Ec9q6I9K0jLZ"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "\u00bfQui\u00e9n es Billie Max?",
         "url": "https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 174303,
       "name": "Billie Max",
       "url": "https://open.spotify.com/track/3K4K4XZPEGLU0fyASkFo17"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Prenda del Alma - Spotify Singles",
+        "url": "https://open.spotify.com/album/1q6UbLqRpyUkZUtRBvOqAn"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 258579,
+      "name": "Prenda del Alma - Spotify Singles",
+      "url": "https://open.spotify.com/track/2vsr2L14RGZ8dxLSJMQxSZ"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Prenda del Alma - Spotify Singles",
-        "url": "https://open.spotify.com/album/1q6UbLqRpyUkZUtRBvOqAn"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 258579,
-      "name": "Prenda del Alma - Spotify Singles",
-      "url": "https://open.spotify.com/track/2vsr2L14RGZ8dxLSJMQxSZ"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/1Eq3jsx4ZmnlEmLCGZQJXm"
       },
@@ -803,8 +787,8 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "La Izquierda de la Noche",
-        "url": "https://open.spotify.com/album/5l2XPMJy6oB4BiRcYxEp8S"
+        "name": "Trinchera",
+        "url": "https://open.spotify.com/album/5oLaRXGevqs8RYxXhYe9PG"
       },
       "artists": [
         {
@@ -812,9 +796,9 @@
           "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
         }
       ],
-      "duration_ms": 219414,
-      "name": "La Izquierda de la Noche",
-      "url": "https://open.spotify.com/track/7ckFZJx6PYjb3P9mc8PNQl"
+      "duration_ms": 179024,
+      "name": "Paradoja",
+      "url": "https://open.spotify.com/track/29FRFwLHf0Ec9q6I9K0jLZ"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -887,6 +871,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
+        "name": "La Izquierda de la Noche",
+        "url": "https://open.spotify.com/album/5l2XPMJy6oB4BiRcYxEp8S"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 219414,
+      "name": "La Izquierda de la Noche",
+      "url": "https://open.spotify.com/track/7ckFZJx6PYjb3P9mc8PNQl"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
         "name": "Borregos En La Niebla",
         "url": "https://open.spotify.com/album/4dRYCUjEYplBppMnnITj2I"
       },
@@ -939,6 +939,42 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
+        "name": "Inevitable",
+        "url": "https://open.spotify.com/album/2v0nWKYp3INzkGDRTQBqQa"
+      },
+      "artists": [
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        }
+      ],
+      "duration_ms": 204963,
+      "name": "Inevitable",
+      "url": "https://open.spotify.com/track/1gptFG7KprUHogyVXLZytK"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Punk",
+        "url": "https://open.spotify.com/album/0ALZJahmwF0u1AReCWtiZP"
+      },
+      "artists": [
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        },
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 193239,
+      "name": "Punk",
+      "url": "https://open.spotify.com/track/28fb2X931nhjyCHMKbNOPt"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
         "name": "De la Orqu\u00eddea y la Avispa",
         "url": "https://open.spotify.com/album/7L50tSXXmpzbpIDpNDyv5d"
       },
@@ -971,26 +1007,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Punk",
-        "url": "https://open.spotify.com/album/0ALZJahmwF0u1AReCWtiZP"
-      },
-      "artists": [
-        {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
-        },
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 193239,
-      "name": "Punk",
-      "url": "https://open.spotify.com/track/28fb2X931nhjyCHMKbNOPt"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "Mi Psic\u00f3loga Me Dijo Que Hiciera Este Disco",
         "url": "https://open.spotify.com/album/3zLu80ETtlESfO9Lrldbux"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 139066,
       "name": "90",
       "url": "https://open.spotify.com/track/51tqaIE3zBKbhiVVXq3FYi"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Inevitable",
-        "url": "https://open.spotify.com/album/2v0nWKYp3INzkGDRTQBqQa"
-      },
-      "artists": [
-        {
-          "name": "Camilo S\u00e9ptimo",
-          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
-        }
-      ],
-      "duration_ms": 204963,
-      "name": "Inevitable",
-      "url": "https://open.spotify.com/track/1gptFG7KprUHogyVXLZytK"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1083,6 +1083,26 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
+        "name": "Contracorriente",
+        "url": "https://open.spotify.com/album/4ZuzyEmpRBxC35VT3if8wg"
+      },
+      "artists": [
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 190500,
+      "name": "Contracorriente",
+      "url": "https://open.spotify.com/track/1axnVawuhNUMKKfW7Q2mSP"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
         "name": "Al menos ahora",
         "url": "https://open.spotify.com/album/2Sa9nqApJXS2hx9Ff0jf6R"
       },
@@ -1115,22 +1135,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "C\u00e1llame",
-        "url": "https://open.spotify.com/album/2kSM1mDXRGpSWtpMKbRr7w"
-      },
-      "artists": [
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
-        }
-      ],
-      "duration_ms": 187693,
-      "name": "C\u00e1llame",
-      "url": "https://open.spotify.com/track/0fRQGN6XS01UzZbKNj6sQp"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "Trebol",
         "url": "https://open.spotify.com/album/4smZo9EQGuF39FTXLVkIf7"
       },
@@ -1143,6 +1147,22 @@
       "duration_ms": 162758,
       "name": "Trebol",
       "url": "https://open.spotify.com/track/5fnNI5FXd0d6Wdaj6lUoyi"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "C\u00e1llame",
+        "url": "https://open.spotify.com/album/2kSM1mDXRGpSWtpMKbRr7w"
+      },
+      "artists": [
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "duration_ms": 187693,
+      "name": "C\u00e1llame",
+      "url": "https://open.spotify.com/track/0fRQGN6XS01UzZbKNj6sQp"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1179,26 +1199,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Contracorriente",
-        "url": "https://open.spotify.com/album/4ZuzyEmpRBxC35VT3if8wg"
-      },
-      "artists": [
-        {
-          "name": "Camilo S\u00e9ptimo",
-          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 190500,
-      "name": "Contracorriente",
-      "url": "https://open.spotify.com/track/1axnVawuhNUMKKfW7Q2mSP"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "Esc\u00fapeme En La Cara",
         "url": "https://open.spotify.com/album/02hnUWAP3zAetHmbm5q2gf"
       },
@@ -1211,22 +1211,6 @@
       "duration_ms": 201546,
       "name": "Esc\u00fapeme En La Cara",
       "url": "https://open.spotify.com/track/3Wsvw8v3czfWGliziA9BCI"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Realidad Aparente",
-        "url": "https://open.spotify.com/album/7qgEurNldCzTbsDCy8FxDA"
-      },
-      "artists": [
-        {
-          "name": "Los Romanticos de Zacatecas",
-          "url": "https://open.spotify.com/artist/0xg0tZofneUYpE1HQS4gOg"
-        }
-      ],
-      "duration_ms": 101702,
-      "name": "Realidad Aparente",
-      "url": "https://open.spotify.com/track/7JJ8lSAxz7NaVTNiTcYwBc"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1247,18 +1231,34 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Vuelve A Empezar Sin M\u00ed",
-        "url": "https://open.spotify.com/album/2IFmsvDIWtDE9e7lCUT7bi"
+        "name": "Realidad Aparente",
+        "url": "https://open.spotify.com/album/7qgEurNldCzTbsDCy8FxDA"
       },
       "artists": [
         {
-          "name": "La Habitaci\u00f3n Roja",
-          "url": "https://open.spotify.com/artist/1PVE74Pf9ejCjOzdxlsHC6"
+          "name": "Los Romanticos de Zacatecas",
+          "url": "https://open.spotify.com/artist/0xg0tZofneUYpE1HQS4gOg"
         }
       ],
-      "duration_ms": 241898,
-      "name": "Vuelve A Empezar Sin M\u00ed",
-      "url": "https://open.spotify.com/track/7DWdZdw7Rshp7b8LqRB9x4"
+      "duration_ms": 101702,
+      "name": "Realidad Aparente",
+      "url": "https://open.spotify.com/track/7JJ8lSAxz7NaVTNiTcYwBc"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "El Eco de la Nada",
+        "url": "https://open.spotify.com/album/0RmopllB8tAY9P2Of7NdIZ"
+      },
+      "artists": [
+        {
+          "name": "Reyno",
+          "url": "https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU"
+        }
+      ],
+      "duration_ms": 184533,
+      "name": "Nunca te am\u00e9",
+      "url": "https://open.spotify.com/track/6CxvTZO3pqhGMiVUF9gW2R"
     }
   ],
   "unique_name": "EL ROCK NO HA MUERTO",

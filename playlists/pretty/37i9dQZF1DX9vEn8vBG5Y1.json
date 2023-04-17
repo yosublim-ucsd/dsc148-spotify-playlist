@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 2000s. Cover: Kelly Clarkson.",
-  "num_followers": 138494,
+  "num_followers": 138645,
   "original_name": "00s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA3NzE5MCwwMDAwMDAwMDJlNDM1YTI2ODExNjY4NzdjOGI0YmZhOWM3MzJlZWVl",
+  "snapshot_id": "MTY3NDA3NzE5MCwwMDAwMDAwMDE1NTRhOGY3MDkzZmI0ZmMyMDM4N2U2YzVmNTgzOTQx",
   "tracks": [
     {
       "added_at": "2023-01-18 21:26:30",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "The Fray",
-        "url": "https://open.spotify.com/album/3ibdlhMmbFPMYoWvwHCzI3"
-      },
-      "artists": [
-        {
-          "name": "The Fray",
-          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
-        }
-      ],
-      "duration_ms": 241853,
-      "name": "You Found Me",
-      "url": "https://open.spotify.com/track/4IoYz8XqqdowINzfRrFnhi"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
         "name": "Eye To The Telescope",
         "url": "https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 201706,
       "name": "Suddenly I See",
       "url": "https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
+        "name": "The Fray",
+        "url": "https://open.spotify.com/album/3ibdlhMmbFPMYoWvwHCzI3"
+      },
+      "artists": [
+        {
+          "name": "The Fray",
+          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+        }
+      ],
+      "duration_ms": 241853,
+      "name": "You Found Me",
+      "url": "https://open.spotify.com/track/4IoYz8XqqdowINzfRrFnhi"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "The Spirit Room",
-        "url": "https://open.spotify.com/album/1agL7TUoZXr0Xd4Irievqi"
-      },
-      "artists": [
-        {
-          "name": "Michelle Branch",
-          "url": "https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk"
-        }
-      ],
-      "duration_ms": 214826,
-      "name": "Everywhere",
-      "url": "https://open.spotify.com/track/1u0l8zWpQeMYStFkc2mLD7"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
         "name": "You Gotta Go There To Come Back",
         "url": "https://open.spotify.com/album/65ekRZTdz7ufM6yULqgjo8"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 272946,
       "name": "Maybe Tomorrow",
       "url": "https://open.spotify.com/track/6SXy02aTZU3ysoGUixYCz0"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
+        "name": "The Spirit Room",
+        "url": "https://open.spotify.com/album/1agL7TUoZXr0Xd4Irievqi"
+      },
+      "artists": [
+        {
+          "name": "Michelle Branch",
+          "url": "https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk"
+        }
+      ],
+      "duration_ms": 214826,
+      "name": "Everywhere",
+      "url": "https://open.spotify.com/track/1u0l8zWpQeMYStFkc2mLD7"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
+        "name": "All That You Can't Leave Behind",
+        "url": "https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 246400,
+      "name": "Beautiful Day",
+      "url": "https://open.spotify.com/track/1VuBmEauSZywQVtqbxNqka"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
         "name": "Comfort Eagle",
         "url": "https://open.spotify.com/album/5OCg9OWnL1PY4tW2ON8ssj"
       },
@@ -923,18 +939,18 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "All That You Can't Leave Behind",
-        "url": "https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g"
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69"
       },
       "artists": [
         {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
         }
       ],
-      "duration_ms": 246400,
-      "name": "Beautiful Day",
-      "url": "https://open.spotify.com/track/1VuBmEauSZywQVtqbxNqka"
+      "duration_ms": 308933,
+      "name": "Thank You For Loving Me",
+      "url": "https://open.spotify.com/track/577MNC3o3L0lNIzx9abqOk"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -955,22 +971,6 @@
       "duration_ms": 200480,
       "name": "Hero (feat. Josey Scott)",
       "url": "https://open.spotify.com/track/779ooI3rBd0CLqCiiJmtVo"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 308933,
-      "name": "Thank You For Loving Me",
-      "url": "https://open.spotify.com/track/577MNC3o3L0lNIzx9abqOk"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "Room For Squares",
-        "url": "https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 231466,
-      "name": "No Such Thing",
-      "url": "https://open.spotify.com/track/6Vecwo7AHst9V2CE3kmwr0"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
         "name": "Have A Nice Day",
         "url": "https://open.spotify.com/album/3VfBy3QX5peTfME0UxzZ2P"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 229106,
       "name": "Have A Nice Day",
       "url": "https://open.spotify.com/track/06Zz2l7cVTCTgCNDe1bnEF"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
+        "name": "Room For Squares",
+        "url": "https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 231466,
+      "name": "No Such Thing",
+      "url": "https://open.spotify.com/track/6Vecwo7AHst9V2CE3kmwr0"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "Coming To Terms",
-        "url": "https://open.spotify.com/album/3UEZrwx6H0nszMN2g15JoD"
-      },
-      "artists": [
-        {
-          "name": "Carolina Liar",
-          "url": "https://open.spotify.com/artist/0OuSnRyi1OkLPkR4AqzJwi"
-        }
-      ],
-      "duration_ms": 240466,
-      "name": "Show Me What I'm Looking For",
-      "url": "https://open.spotify.com/track/2h8iXIwEdEnQywhFC4q5e5"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
         "name": "Sugar Ray",
         "url": "https://open.spotify.com/album/7rq2iwU4TVxeZJbR4Gb2ht"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 217853,
       "name": "When It's Over - David Kahne Main",
       "url": "https://open.spotify.com/track/5ZsPy9wHH733NlU6c4v2Hi"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
+        "name": "Coming To Terms",
+        "url": "https://open.spotify.com/album/3UEZrwx6H0nszMN2g15JoD"
+      },
+      "artists": [
+        {
+          "name": "Carolina Liar",
+          "url": "https://open.spotify.com/artist/0OuSnRyi1OkLPkR4AqzJwi"
+        }
+      ],
+      "duration_ms": 240466,
+      "name": "Show Me What I'm Looking For",
+      "url": "https://open.spotify.com/track/2h8iXIwEdEnQywhFC4q5e5"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "My Private Nation",
-        "url": "https://open.spotify.com/album/3gQ2rh7TxfCgpfj40Eo8D1"
-      },
-      "artists": [
-        {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
-        }
-      ],
-      "duration_ms": 242200,
-      "name": "Calling All Angels",
-      "url": "https://open.spotify.com/track/0E29BKKGCJHcb7b9oIWgGB"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
         "name": "Who We Are",
         "url": "https://open.spotify.com/album/1ISFv3wJNEj1DxP64UWEMO"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 207240,
       "name": "Whatever It Takes",
       "url": "https://open.spotify.com/track/3nzL5CIQiCEt6jRt1AlQ9d"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
+        "name": "My Private Nation",
+        "url": "https://open.spotify.com/album/3gQ2rh7TxfCgpfj40Eo8D1"
+      },
+      "artists": [
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "duration_ms": 242200,
+      "name": "Calling All Angels",
+      "url": "https://open.spotify.com/track/0E29BKKGCJHcb7b9oIWgGB"
     },
     {
       "added_at": "2023-01-18 21:26:30",

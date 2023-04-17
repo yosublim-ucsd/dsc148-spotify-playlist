@@ -4,7 +4,7 @@
 
 > This is Ryan Adams\. The essential tracks, all in one playlist.
 
-152 songs - 9 hr 20 min
+153 songs - 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Doomsday](https://open.spotify.com/track/70PPbwGrPBpQ1hRBuuSirh) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoner](https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH) | 3:01 | 2022-01-11 |  |
 | [Doylestown Girl](https://open.spotify.com/track/6oRkeHUGlFoxcFLTpnsINh) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 2:54 | 2022-05-14 |  |
 | [Earthquake](https://open.spotify.com/track/7rhBzg6Lm93bXWcpQ4s0pA) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 4:06 | 2022-05-23 | 2022-08-21 |
-| [English Girls Approximately](https://open.spotify.com/track/4z7UVZQQbF2QNT0jlyBLFg) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 5:40 | 2022-01-11 |  |
+| [English Girls Approximately](https://open.spotify.com/track/4z7UVZQQbF2QNT0jlyBLFg) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 5:40 | 2022-01-11 | 2023-04-17 |
 | [Everybody Knows](https://open.spotify.com/track/0pl0QFnT982MoMkNOG7Jhu) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Easy Tiger](https://open.spotify.com/album/2mLIJwfgNPGjpuKaN7njPm) | 2:25 | 2022-08-16 | 2022-10-09 |
 | [Everybody Knows](https://open.spotify.com/track/68jGLpiDK7ZZ13RR8AEm1o) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Easy Tiger](https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE) | 2:25 | 2022-01-11 |  |
 | [Eyes on the Door](https://open.spotify.com/track/2OWsyTqwcpdqcjlPN838pR) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Devolver](https://open.spotify.com/album/1C5CVsW4oyntbxWjsd1e1h) | 3:14 | 2022-11-08 | 2023-02-06 |
@@ -66,6 +66,7 @@
 | [Hall of Shame](https://open.spotify.com/track/3jwnNTEjlyg6z1ctcxYWsV) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [FM](https://open.spotify.com/album/7rNMFgROobX4kniUvoqQrI) | 3:33 | 2022-10-31 | 2022-12-16 |
 | [Hallelujah](https://open.spotify.com/track/35IXhsIR2ZgELZABz7iRVr) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Demolition](https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q) | 3:10 | 2022-01-11 | 2022-08-08 |
 | [Haunted House](https://open.spotify.com/track/60gqIHYxfFNfAF2ljsx2xq) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoner](https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH) | 2:42 | 2022-01-11 |  |
+| [Hello](https://open.spotify.com/track/597K9htpDl8Daciz5PahvW) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Morning Glory](https://open.spotify.com/album/7IlQpxt7VLEUVgh4eSRFAO) | 4:08 | 2023-04-16 |  |
 | [Highway Patrolman](https://open.spotify.com/track/5ernvtf4gNNDjSjOjkEIHy) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Nebraska](https://open.spotify.com/album/4Rb3ltIWEi0OnVNNv03RHh) | 6:41 | 2023-01-08 | 2023-03-31 |
 | [Hotel Chelsea Nights](https://open.spotify.com/track/45EnbdDSEyfNd4xbGSLaBM) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 5:10 | 2022-01-11 | 2022-08-06 |
 | [How Much Light](https://open.spotify.com/track/3nXM6fSbUdWugKFCukr8ib) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [I Do Not Feel Like Being Good](https://open.spotify.com/album/2H2NlBrpEBELrgPIyTS1Tl) | 3:15 | 2022-01-11 | 2022-02-23 |
@@ -84,7 +85,7 @@
 | [In My Time of Need](https://open.spotify.com/track/4JIGrn55PH4BNnoofFKnYc) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn) | 5:38 | 2022-01-11 |  |
 | [In the Blue of the Night](https://open.spotify.com/track/3p2ebzditSdXjW7uJjISyA) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 3:34 | 2022-05-28 | 2022-10-17 |
 | [It's So Quiet, It's Loud](https://open.spotify.com/track/3rX02HpSX4l5YZhdqvM4UW) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Big Colors](https://open.spotify.com/album/2eDMavEOxrN2oqSZZrfwMl) | 3:19 | 2022-01-13 | 2022-03-23 |
-| [Johnny 99](https://open.spotify.com/track/1iFr9whP3Zfps8CEGQmgNH) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Nebraska](https://open.spotify.com/album/4Rb3ltIWEi0OnVNNv03RHh) | 2:06 | 2023-01-08 |  |
+| [Johnny 99](https://open.spotify.com/track/1iFr9whP3Zfps8CEGQmgNH) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Nebraska](https://open.spotify.com/album/4Rb3ltIWEi0OnVNNv03RHh) | 2:06 | 2023-01-08 | 2023-04-17 |
 | [La Cienega Just Smiled](https://open.spotify.com/track/7M5muIJFufE3FaF1b6F8ho) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/7rIwXFX7SXc8FVBMUnRIvJ) | 5:01 | 2022-01-11 |  |
 | [Letting the Light In](https://open.spotify.com/track/5HOpAP7MlarplRG2M27nzz) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Chris](https://open.spotify.com/album/1MMiRTfDofw1aZpg91ls5X) | 2:54 | 2022-04-06 | 2022-06-01 |
 | [Lookout](https://open.spotify.com/track/0USkDJMpEkFZLyPoYFP5XT) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Chris](https://open.spotify.com/album/1MMiRTfDofw1aZpg91ls5X) | 2:52 | 2022-04-06 | 2022-10-13 |
@@ -136,7 +137,7 @@
 | [The Rescue Blues](https://open.spotify.com/track/6lUY5R9gcTIUkddQkdcjuy) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/7rIwXFX7SXc8FVBMUnRIvJ) | 3:38 | 2022-01-11 | 2022-05-17 |
 | [The Shadowlands](https://open.spotify.com/track/2uW4Jr8JOkYtpfQwG5YXcj) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 5:18 | 2022-01-11 | 2022-10-13 |
 | [Theo Is Dreaming](https://open.spotify.com/track/0p6EmD0ixiLtlBbFOsgUIU) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 1:21 | 2023-01-17 | 2023-02-01 |
-| [This House Is Not For Sale](https://open.spotify.com/track/67ftTHCuUcUt5DlNO3dUQR) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 3:53 | 2022-01-11 | 2022-10-13 |
+| [This House Is Not For Sale](https://open.spotify.com/track/67ftTHCuUcUt5DlNO3dUQR) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 3:53 | 2022-01-11 |  |
 | [This Is Your House](https://open.spotify.com/track/3pzm9zJZsfVTwuI04CCEJ1) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 2:05 | 2022-05-16 | 2022-09-30 |
 | [This Love](https://open.spotify.com/track/2VUgv1IEwEcTIBs8SI4DPH) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup) | 4:45 | 2022-11-01 | 2022-11-07 |
 | [Tightrope](https://open.spotify.com/track/1d9M5ezx4n6D57FMG4tj1c) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoner](https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH) | 3:56 | 2022-02-11 | 2022-06-29 |

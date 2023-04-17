@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 242780,
+  "num_followers": 243021,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTM1Mjk3NiwwMDAwMDAwMDk3ZWZkZWIyNDUwZmFmMjg5ZTM5NzQzNWNmOWJlNGY5",
+  "snapshot_id": "MTY4MTM1Mjk3NiwwMDAwMDAwMDUxNzc2NmZhZDE0MzI5Y2M2MjVkNjY4MzZlZjJkMWZi",
   "tracks": [
     {
       "added_at": "2023-04-11 02:56:45",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-04-11 02:56:45",
       "album": {
-        "name": "Eldorado",
-        "url": "https://open.spotify.com/album/3yp6o87R2Du2CC75dw2cqc"
-      },
-      "artists": [
-        {
-          "name": "Notre Dame",
-          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
-        }
-      ],
-      "duration_ms": 381639,
-      "name": "Eldorado",
-      "url": "https://open.spotify.com/track/50juFT8u0XDZQ5HO5khhlC"
-    },
-    {
-      "added_at": "2023-04-11 02:56:45",
-      "album": {
         "name": "Amare",
         "url": "https://open.spotify.com/album/7ELZffIkSkgSeSZwXfuh4K"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 410526,
       "name": "Euphrates",
       "url": "https://open.spotify.com/track/2clyVcUj199ccetJU2Bkej"
+    },
+    {
+      "added_at": "2023-04-11 02:56:45",
+      "album": {
+        "name": "Eldorado",
+        "url": "https://open.spotify.com/album/3yp6o87R2Du2CC75dw2cqc"
+      },
+      "artists": [
+        {
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+        }
+      ],
+      "duration_ms": 381639,
+      "name": "Eldorado",
+      "url": "https://open.spotify.com/track/50juFT8u0XDZQ5HO5khhlC"
     },
     {
       "added_at": "2023-04-11 02:56:45",
@@ -767,22 +767,22 @@
     {
       "added_at": "2023-04-11 02:56:45",
       "album": {
-        "name": "Ya Ghayeb",
-        "url": "https://open.spotify.com/album/6XJCSklPxNl8IJZyPOrq3F"
+        "name": "Il Mattino",
+        "url": "https://open.spotify.com/album/5ApVBQ8xCqiVF2NwRqNsSM"
       },
       "artists": [
         {
-          "name": "DJ Maximus",
-          "url": "https://open.spotify.com/artist/2p0tbndG8hGG7q756YN6WE"
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
         },
         {
-          "name": "Bob Zoabi",
-          "url": "https://open.spotify.com/artist/45Tb1ZlbaGsVsWaWT0P8eW"
+          "name": "Anis Karek",
+          "url": "https://open.spotify.com/artist/63K9PNJ0dItZGILLpeWTS8"
         }
       ],
-      "duration_ms": 217211,
-      "name": "Ya Ghayeb",
-      "url": "https://open.spotify.com/track/5HRonL7F7N4Sd3XeVyLGBt"
+      "duration_ms": 331206,
+      "name": "Il Mattino",
+      "url": "https://open.spotify.com/track/0Bdi3cLtju5gRmwZJ54jUy"
     },
     {
       "added_at": "2023-04-11 02:56:45",
@@ -807,26 +807,6 @@
     {
       "added_at": "2023-04-11 02:56:45",
       "album": {
-        "name": "Il Mattino",
-        "url": "https://open.spotify.com/album/5ApVBQ8xCqiVF2NwRqNsSM"
-      },
-      "artists": [
-        {
-          "name": "Cafe De Anatolia",
-          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
-        },
-        {
-          "name": "Anis Karek",
-          "url": "https://open.spotify.com/artist/63K9PNJ0dItZGILLpeWTS8"
-        }
-      ],
-      "duration_ms": 331206,
-      "name": "Il Mattino",
-      "url": "https://open.spotify.com/track/0Bdi3cLtju5gRmwZJ54jUy"
-    },
-    {
-      "added_at": "2023-04-11 02:56:45",
-      "album": {
         "name": "Cry",
         "url": "https://open.spotify.com/album/4diPOadiw13OpOGZ1InJk2"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 200000,
       "name": "Cry",
       "url": "https://open.spotify.com/track/0dNzSDc24MGkN9sDim1d7b"
+    },
+    {
+      "added_at": "2023-04-11 02:56:45",
+      "album": {
+        "name": "Ya Ghayeb",
+        "url": "https://open.spotify.com/album/6XJCSklPxNl8IJZyPOrq3F"
+      },
+      "artists": [
+        {
+          "name": "DJ Maximus",
+          "url": "https://open.spotify.com/artist/2p0tbndG8hGG7q756YN6WE"
+        },
+        {
+          "name": "Bob Zoabi",
+          "url": "https://open.spotify.com/artist/45Tb1ZlbaGsVsWaWT0P8eW"
+        }
+      ],
+      "duration_ms": 217211,
+      "name": "Ya Ghayeb",
+      "url": "https://open.spotify.com/track/5HRonL7F7N4Sd3XeVyLGBt"
     },
     {
       "added_at": "2023-04-11 02:56:45",
@@ -915,26 +915,6 @@
     {
       "added_at": "2023-04-11 02:56:45",
       "album": {
-        "name": "Your Love (Anthony Keyrouz Remix)",
-        "url": "https://open.spotify.com/album/3riktT549Qi3VPtvd7fsdo"
-      },
-      "artists": [
-        {
-          "name": "Kate Linn",
-          "url": "https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4"
-        },
-        {
-          "name": "Anthony Keyrouz",
-          "url": "https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY"
-        }
-      ],
-      "duration_ms": 196015,
-      "name": "Your Love - Anthony Keyrouz Remix",
-      "url": "https://open.spotify.com/track/1mAUF7W9YkFUZec9cMJG5Z"
-    },
-    {
-      "added_at": "2023-04-11 02:56:45",
-      "album": {
         "name": "Deep Anatolia",
         "url": "https://open.spotify.com/album/5A3raFTb9nsLMWt1xxrvzW"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 381818,
       "name": "Souq",
       "url": "https://open.spotify.com/track/0siPnJlxtppFRimIQs2jG0"
+    },
+    {
+      "added_at": "2023-04-11 02:56:45",
+      "album": {
+        "name": "Your Love (Anthony Keyrouz Remix)",
+        "url": "https://open.spotify.com/album/3riktT549Qi3VPtvd7fsdo"
+      },
+      "artists": [
+        {
+          "name": "Kate Linn",
+          "url": "https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4"
+        },
+        {
+          "name": "Anthony Keyrouz",
+          "url": "https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY"
+        }
+      ],
+      "duration_ms": 196015,
+      "name": "Your Love - Anthony Keyrouz Remix",
+      "url": "https://open.spotify.com/track/1mAUF7W9YkFUZec9cMJG5Z"
     },
     {
       "added_at": "2023-04-11 02:56:45",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-04-11 02:56:45",
       "album": {
-        "name": "Anlar",
-        "url": "https://open.spotify.com/album/22JM1qXMlAVy2MDKsdyN6c"
-      },
-      "artists": [
-        {
-          "name": "Valeron",
-          "url": "https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip"
-        }
-      ],
-      "duration_ms": 430769,
-      "name": "Anlar",
-      "url": "https://open.spotify.com/track/30rDKZPuQxu8US9AVEWkE7"
-    },
-    {
-      "added_at": "2023-04-11 02:56:45",
-      "album": {
         "name": "Che Danestam (Seventh Soul Remix)",
         "url": "https://open.spotify.com/album/0To3grEONUEhU3NhuZwKkS"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 506666,
       "name": "Che Danestam - Seventh Soul Remix",
       "url": "https://open.spotify.com/track/5TteGvnDqhsp5aJhbASQ1S"
+    },
+    {
+      "added_at": "2023-04-11 02:56:45",
+      "album": {
+        "name": "Anlar",
+        "url": "https://open.spotify.com/album/22JM1qXMlAVy2MDKsdyN6c"
+      },
+      "artists": [
+        {
+          "name": "Valeron",
+          "url": "https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip"
+        }
+      ],
+      "duration_ms": 430769,
+      "name": "Anlar",
+      "url": "https://open.spotify.com/track/30rDKZPuQxu8US9AVEWkE7"
     },
     {
       "added_at": "2023-04-11 02:56:45",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-04-11 02:56:45",
       "album": {
-        "name": "Eternal Roots",
-        "url": "https://open.spotify.com/album/6k8dJjNShTIPhwU9vA5sCL"
-      },
-      "artists": [
-        {
-          "name": "Safar (FR)",
-          "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
-        }
-      ],
-      "duration_ms": 305005,
-      "name": "Eternal Roots",
-      "url": "https://open.spotify.com/track/6FhUtyw0Y8q1xR22XlFNXg"
-    },
-    {
-      "added_at": "2023-04-11 02:56:45",
-      "album": {
         "name": "Angelic",
         "url": "https://open.spotify.com/album/7r880xGu2aoZTb3S7gk4a3"
       },
@@ -1367,6 +1351,22 @@
     {
       "added_at": "2023-04-11 02:56:45",
       "album": {
+        "name": "Eternal Roots",
+        "url": "https://open.spotify.com/album/6k8dJjNShTIPhwU9vA5sCL"
+      },
+      "artists": [
+        {
+          "name": "Safar (FR)",
+          "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
+        }
+      ],
+      "duration_ms": 305005,
+      "name": "Eternal Roots",
+      "url": "https://open.spotify.com/track/6FhUtyw0Y8q1xR22XlFNXg"
+    },
+    {
+      "added_at": "2023-04-11 02:56:45",
+      "album": {
         "name": "O.M.M.A",
         "url": "https://open.spotify.com/album/6pCX9dYSV33ZDQYje78efe"
       },
@@ -1379,26 +1379,6 @@
       "duration_ms": 221217,
       "name": "Oud Love",
       "url": "https://open.spotify.com/track/6yo4vfCNw1VD1JKCbJhPEO"
-    },
-    {
-      "added_at": "2023-04-11 02:56:45",
-      "album": {
-        "name": "3 to 1",
-        "url": "https://open.spotify.com/album/0UNDxZCKgUOIYajZVsS6Of"
-      },
-      "artists": [
-        {
-          "name": "Monoir",
-          "url": "https://open.spotify.com/artist/0TmLIfQje5MdX2ovu4yQKz"
-        },
-        {
-          "name": "Eneli",
-          "url": "https://open.spotify.com/artist/77xr1BNiH6bg7sV7ufnFhe"
-        }
-      ],
-      "duration_ms": 219508,
-      "name": "3 to 1",
-      "url": "https://open.spotify.com/track/1Rt3XQp1trBEFNLOsheKfu"
     },
     {
       "added_at": "2023-04-11 02:56:45",
@@ -1423,26 +1403,22 @@
     {
       "added_at": "2023-04-11 02:56:45",
       "album": {
-        "name": "The Fire",
-        "url": "https://open.spotify.com/album/4GUph9nDll1opaq0SnxgBZ"
+        "name": "3 to 1",
+        "url": "https://open.spotify.com/album/0UNDxZCKgUOIYajZVsS6Of"
       },
       "artists": [
         {
-          "name": "Frauble",
-          "url": "https://open.spotify.com/artist/3NLk43BYwIw4UnPFevn1r1"
+          "name": "Monoir",
+          "url": "https://open.spotify.com/artist/0TmLIfQje5MdX2ovu4yQKz"
         },
         {
-          "name": "Behmer",
-          "url": "https://open.spotify.com/artist/6UZvJbrEJxkycbgUznMIF9"
-        },
-        {
-          "name": "Galwaro",
-          "url": "https://open.spotify.com/artist/3vDh2Mern1I2k53Oy0pDlD"
+          "name": "Eneli",
+          "url": "https://open.spotify.com/artist/77xr1BNiH6bg7sV7ufnFhe"
         }
       ],
-      "duration_ms": 176164,
-      "name": "The Fire",
-      "url": "https://open.spotify.com/track/2YJNrFuG3LfjQQz8vodNtz"
+      "duration_ms": 219508,
+      "name": "3 to 1",
+      "url": "https://open.spotify.com/track/1Rt3XQp1trBEFNLOsheKfu"
     },
     {
       "added_at": "2023-04-11 02:56:45",
@@ -1463,6 +1439,30 @@
       "duration_ms": 344000,
       "name": "Yasameen",
       "url": "https://open.spotify.com/track/47bVE60Uy0ocuG1przWZh4"
+    },
+    {
+      "added_at": "2023-04-11 02:56:45",
+      "album": {
+        "name": "The Fire",
+        "url": "https://open.spotify.com/album/4GUph9nDll1opaq0SnxgBZ"
+      },
+      "artists": [
+        {
+          "name": "Frauble",
+          "url": "https://open.spotify.com/artist/3NLk43BYwIw4UnPFevn1r1"
+        },
+        {
+          "name": "Behmer",
+          "url": "https://open.spotify.com/artist/6UZvJbrEJxkycbgUznMIF9"
+        },
+        {
+          "name": "Galwaro",
+          "url": "https://open.spotify.com/artist/3vDh2Mern1I2k53Oy0pDlD"
+        }
+      ],
+      "duration_ms": 176164,
+      "name": "The Fire",
+      "url": "https://open.spotify.com/track/2YJNrFuG3LfjQQz8vodNtz"
     },
     {
       "added_at": "2023-04-11 02:56:45",
@@ -1531,30 +1531,6 @@
     {
       "added_at": "2023-04-11 02:56:45",
       "album": {
-        "name": "Salam",
-        "url": "https://open.spotify.com/album/6PpgtyminvgtcWIsGsdbzA"
-      },
-      "artists": [
-        {
-          "name": "Anis Karek",
-          "url": "https://open.spotify.com/artist/63K9PNJ0dItZGILLpeWTS8"
-        },
-        {
-          "name": "Cafe De Anatolia",
-          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
-        },
-        {
-          "name": "Jad Halal",
-          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
-        }
-      ],
-      "duration_ms": 273502,
-      "name": "Rhim - Jad Halal Remix",
-      "url": "https://open.spotify.com/track/34aFMrV57fY6pxyNRsDNon"
-    },
-    {
-      "added_at": "2023-04-11 02:56:45",
-      "album": {
         "name": "El Hawa",
         "url": "https://open.spotify.com/album/5AflaEuukgyI5tzO8ciA9T"
       },
@@ -1579,22 +1555,6 @@
     {
       "added_at": "2023-04-11 02:56:45",
       "album": {
-        "name": "Izvor",
-        "url": "https://open.spotify.com/album/7zfqQQ0mzEutNin8LTuW71"
-      },
-      "artists": [
-        {
-          "name": "Tebra",
-          "url": "https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P"
-        }
-      ],
-      "duration_ms": 400000,
-      "name": "Izvor",
-      "url": "https://open.spotify.com/track/4z7tWC9yzgcCD23hY8uQaV"
-    },
-    {
-      "added_at": "2023-04-11 02:56:45",
-      "album": {
         "name": "Salat Ala Nabina",
         "url": "https://open.spotify.com/album/2kGHqtp9WEhUeYrCQjjzDq"
       },
@@ -1611,6 +1571,46 @@
       "duration_ms": 218709,
       "name": "Salat Ala Nabina - Radio Edit",
       "url": "https://open.spotify.com/track/34v65aJB2ELQx3vpegUxb1"
+    },
+    {
+      "added_at": "2023-04-11 02:56:45",
+      "album": {
+        "name": "Salam",
+        "url": "https://open.spotify.com/album/6PpgtyminvgtcWIsGsdbzA"
+      },
+      "artists": [
+        {
+          "name": "Anis Karek",
+          "url": "https://open.spotify.com/artist/63K9PNJ0dItZGILLpeWTS8"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        },
+        {
+          "name": "Jad Halal",
+          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
+        }
+      ],
+      "duration_ms": 273502,
+      "name": "Rhim - Jad Halal Remix",
+      "url": "https://open.spotify.com/track/34aFMrV57fY6pxyNRsDNon"
+    },
+    {
+      "added_at": "2023-04-11 02:56:45",
+      "album": {
+        "name": "Izvor",
+        "url": "https://open.spotify.com/album/7zfqQQ0mzEutNin8LTuW71"
+      },
+      "artists": [
+        {
+          "name": "Tebra",
+          "url": "https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P"
+        }
+      ],
+      "duration_ms": 400000,
+      "name": "Izvor",
+      "url": "https://open.spotify.com/track/4z7tWC9yzgcCD23hY8uQaV"
     },
     {
       "added_at": "2023-04-11 02:56:45",
@@ -1655,26 +1655,6 @@
     {
       "added_at": "2023-04-11 02:56:45",
       "album": {
-        "name": "Mandala",
-        "url": "https://open.spotify.com/album/7AaSQmgtNyGxMZgjfgeesi"
-      },
-      "artists": [
-        {
-          "name": "Fady x Mina",
-          "url": "https://open.spotify.com/artist/5d0bEn2xHaHZrXAnFDZaFL"
-        },
-        {
-          "name": "Ash",
-          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
-        }
-      ],
-      "duration_ms": 237215,
-      "name": "Mandala",
-      "url": "https://open.spotify.com/track/4UzqxyDxCMbT5BvbmHT3yR"
-    },
-    {
-      "added_at": "2023-04-11 02:56:45",
-      "album": {
         "name": "3ala bali",
         "url": "https://open.spotify.com/album/5aO9m9qYapKXLtOIWQPwj5"
       },
@@ -1691,6 +1671,26 @@
       "duration_ms": 210132,
       "name": "3ala bali",
       "url": "https://open.spotify.com/track/3qLyA3AChnCW7nsX8f6SOo"
+    },
+    {
+      "added_at": "2023-04-11 02:56:45",
+      "album": {
+        "name": "Mandala",
+        "url": "https://open.spotify.com/album/7AaSQmgtNyGxMZgjfgeesi"
+      },
+      "artists": [
+        {
+          "name": "Fady x Mina",
+          "url": "https://open.spotify.com/artist/5d0bEn2xHaHZrXAnFDZaFL"
+        },
+        {
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
+        }
+      ],
+      "duration_ms": 237215,
+      "name": "Mandala",
+      "url": "https://open.spotify.com/track/4UzqxyDxCMbT5BvbmHT3yR"
     },
     {
       "added_at": "2023-04-11 02:56:45",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2023-04-11 02:56:45",
       "album": {
-        "name": "Roots LP",
-        "url": "https://open.spotify.com/album/4LpDKNBhUxXstCFvEieOcR"
-      },
-      "artists": [
-        {
-          "name": "Mr. ID",
-          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
-        }
-      ],
-      "duration_ms": 178153,
-      "name": "Roots",
-      "url": "https://open.spotify.com/track/4jK03yPAqhrh2juS3IgE0i"
-    },
-    {
-      "added_at": "2023-04-11 02:56:45",
-      "album": {
         "name": "Moulayiten",
         "url": "https://open.spotify.com/album/38Y1doCUrlX33QLXMkBtCa"
       },
@@ -1871,6 +1855,26 @@
     {
       "added_at": "2023-04-11 02:56:45",
       "album": {
+        "name": "Voyage",
+        "url": "https://open.spotify.com/album/7Kf74ttO2jGB089f7yCfVC"
+      },
+      "artists": [
+        {
+          "name": "Houssem Amari",
+          "url": "https://open.spotify.com/artist/0nVvRWWnt2xwqy290TfVAd"
+        },
+        {
+          "name": "Anis Karek",
+          "url": "https://open.spotify.com/artist/63K9PNJ0dItZGILLpeWTS8"
+        }
+      ],
+      "duration_ms": 244800,
+      "name": "Voyage",
+      "url": "https://open.spotify.com/track/3XSQpsj22eFhBehwDvR2kF"
+    },
+    {
+      "added_at": "2023-04-11 02:56:45",
+      "album": {
         "name": "The Universe of Buddha Bar",
         "url": "https://open.spotify.com/album/4p6iAl1zIqZD3RBa7p1snm"
       },
@@ -1899,22 +1903,18 @@
     {
       "added_at": "2023-04-11 02:56:45",
       "album": {
-        "name": "Voyage",
-        "url": "https://open.spotify.com/album/7Kf74ttO2jGB089f7yCfVC"
+        "name": "Roots LP",
+        "url": "https://open.spotify.com/album/4LpDKNBhUxXstCFvEieOcR"
       },
       "artists": [
         {
-          "name": "Houssem Amari",
-          "url": "https://open.spotify.com/artist/0nVvRWWnt2xwqy290TfVAd"
-        },
-        {
-          "name": "Anis Karek",
-          "url": "https://open.spotify.com/artist/63K9PNJ0dItZGILLpeWTS8"
+          "name": "Mr. ID",
+          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
         }
       ],
-      "duration_ms": 244800,
-      "name": "Voyage",
-      "url": "https://open.spotify.com/track/3XSQpsj22eFhBehwDvR2kF"
+      "duration_ms": 178153,
+      "name": "Roots",
+      "url": "https://open.spotify.com/track/4jK03yPAqhrh2juS3IgE0i"
     },
     {
       "added_at": "2023-04-11 02:56:45",

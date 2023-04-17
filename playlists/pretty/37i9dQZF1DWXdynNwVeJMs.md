@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 
 > Listen to the finest Jazz made in Belgium\. Cover: LũpḁGangGang
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,406 likes - 80 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,413 likes - 80 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 | 6 | [Bossa dolce](https://open.spotify.com/track/5tkqbAUvxJ3hkvqRfIoEAE) | [HONEY](https://open.spotify.com/artist/4A8G43ljlPyTmgBYOzi6zc) | [Bossa dolce](https://open.spotify.com/album/34HZEX6AwbnbGCdqJ5BUtZ) | 5:08 |
 | 7 | [Bee Jive](https://open.spotify.com/track/0b41FogpMfqTEgGjmPjecc) | [Echoes of Zoo](https://open.spotify.com/artist/6aYyo8CRlyAGNa9KNYzxRf) | [Bee Jive](https://open.spotify.com/album/2REXT0lKTL8rPIuim1Nycd) | 6:00 |
 | 8 | [SambaFassa](https://open.spotify.com/track/07pXnLZ5IX6PTOFueCydMm) | [Adja](https://open.spotify.com/artist/6mfAnYseSIw2FCo3YvVz1g) | [IRONEYE](https://open.spotify.com/album/63EPS17zm5uUritHjGzs3C) | 5:07 |
-| 9 | [Terra](https://open.spotify.com/track/47mb2nuSkGfwFFs6vIUaj0) | [Dishwasher\_](https://open.spotify.com/artist/0gem6YDkBcWquPOHgLnHTa) | [Buraq](https://open.spotify.com/album/6ECr1SbrqlO6LjzbTKUuXC) | 11:19 |
+| 9 | [Terra](https://open.spotify.com/track/6z4iG45MiRRTnnXutPvi6A) | [Dishwasher\_](https://open.spotify.com/artist/0gem6YDkBcWquPOHgLnHTa) | [Dishwasher\_](https://open.spotify.com/album/5EQLnoq5Z8Qjr4FHF4VjxM) | 11:19 |
 | 10 | [Tunguska \(Part 2\)](https://open.spotify.com/track/2XSBC6tYF7eRA9Coy4Ms4s) | [Ansatz Der Maschine](https://open.spotify.com/artist/2imYMaCI7CxN9tVnNyBuiB) | [Tunguska](https://open.spotify.com/album/4PUzNg12c0DFpuCo95HR7l) | 3:53 |
 | 11 | [Cascaraï](https://open.spotify.com/track/58KIcDUCViSgdVFTZkmpqc) | [schroothoop](https://open.spotify.com/artist/2gbO1WIhdYAqbwwh6LaASF) | [MACADAM](https://open.spotify.com/album/0MmXLzMi3nrfO0lec3drjK) | 3:37 |
 | 12 | [Alice](https://open.spotify.com/track/7IKA8BGPhbUlypRWFAHmXv) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [Stellar Legions](https://open.spotify.com/album/4Q0An9lSHLeqIiZTDy8VeD) | 4:47 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 | 79 | [Chimes](https://open.spotify.com/track/6gzPmb75SbQGuCWwtAoutC) | [Duponte et Duponte](https://open.spotify.com/artist/2deWXMlH853VExXZNmSe5o) | [Chimes](https://open.spotify.com/album/2n04MCWQqg1W7hXDVa5pzi) | 2:43 |
 | 80 | [Drops](https://open.spotify.com/track/3awFJqol6x36gdU7I0p8vw) | [Pascal Schumacher](https://open.spotify.com/artist/0VSt9azgjBhQlNlSlySE7M), [Maxime Delpierre](https://open.spotify.com/artist/7IHLrjSlSFup9A50WSJkRO) | [Drops & Points](https://open.spotify.com/album/2KKXVzr8i0J2oGKFMvKz60) | 5:33 |
 
-Snapshot ID: `MTY4MTQyMzIwMCwwMDAwMDAwMGJlY2NkZDJkZDEyMjgwMjNmYjU4MzhjNjU5YjliMmQ4`
+Snapshot ID: `MTY4MTQyMzIwMCwwMDAwMDAwMDIwYTg0OTg5NTA4YjhmNzZlYzk2ZWVmMzk0NDZmN2Iy`

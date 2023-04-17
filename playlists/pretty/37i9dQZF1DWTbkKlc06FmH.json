@@ -1,12 +1,12 @@
 {
   "description": "\u90fd\u4f1a\u306e\u7a7a\u3092\u898b\u4e0a\u3052\u308b\u3068\u8074\u3053\u3048\u3066\u304f\u308b\u97f3\u697d\u3002 cover painting: \u6c38\u4e95\u535a",
-  "num_followers": 114406,
+  "num_followers": 114454,
   "original_name": "\u90fd\u4f1a\u306e\u7a7a\u3068\u97f3\u697d\u3068",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTM5ODAwMCwwMDAwMDAwMGM4OWU5NjZlNWE3YmIzMTUxZDllOWQzZjUwNDAzYWQy",
+  "snapshot_id": "MTY4MTM5ODAwMCwwMDAwMDAwMGQ4OGEwOTMyNjhmY2NiM2VhZTNlYTUyMWVmN2YxOTcw",
   "tracks": [
     {
       "added_at": "2023-04-13 15:00:00",
@@ -879,6 +879,22 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
+        "name": "Fallin'",
+        "url": "https://open.spotify.com/album/3jRxPwXTP8INLOVpmDxDxo"
+      },
+      "artists": [
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 260532,
+      "name": "Fallin'",
+      "url": "https://open.spotify.com/track/1pkK7kZtxGBoXb583vDS9E"
+    },
+    {
+      "added_at": "2023-04-13 15:00:00",
+      "album": {
         "name": "grace",
         "url": "https://open.spotify.com/album/0i6jJH5oVQh0KL8INSSPpu"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 289541,
       "name": "grace",
       "url": "https://open.spotify.com/track/7tnYsRepXLaNhqj4xtcWP2"
-    },
-    {
-      "added_at": "2023-04-13 15:00:00",
-      "album": {
-        "name": "Since I Have A Lover",
-        "url": "https://open.spotify.com/album/6rnB57BMxdU6Z2TNExuPh7"
-      },
-      "artists": [
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 282000,
-      "name": "Since I Have A Lover",
-      "url": "https://open.spotify.com/track/1qtwebmDBKPQEggSKGoSfy"
     },
     {
       "added_at": "2023-04-13 15:00:00",
@@ -947,18 +947,18 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
-        "name": "Fallin'",
-        "url": "https://open.spotify.com/album/3jRxPwXTP8INLOVpmDxDxo"
+        "name": "Since I Have A Lover",
+        "url": "https://open.spotify.com/album/6rnB57BMxdU6Z2TNExuPh7"
       },
       "artists": [
         {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
         }
       ],
-      "duration_ms": 260532,
-      "name": "Fallin'",
-      "url": "https://open.spotify.com/track/1pkK7kZtxGBoXb583vDS9E"
+      "duration_ms": 282000,
+      "name": "Since I Have A Lover",
+      "url": "https://open.spotify.com/track/1qtwebmDBKPQEggSKGoSfy"
     },
     {
       "added_at": "2023-04-13 15:00:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
-        "name": "Impurities",
-        "url": "https://open.spotify.com/album/4bN7xco6FT5lDwmBcZ18tP"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 229203,
-      "name": "Impurities",
-      "url": "https://open.spotify.com/track/0yUpBx2Y5KwzENVCshSy3M"
-    },
-    {
-      "added_at": "2023-04-13 15:00:00",
-      "album": {
         "name": "CooCool",
         "url": "https://open.spotify.com/album/4oPrQ3KXGrzE2DxJVnAU7F"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 271112,
       "name": "CooCool",
       "url": "https://open.spotify.com/track/0C8jkmcNV7VxyHemnI917F"
+    },
+    {
+      "added_at": "2023-04-13 15:00:00",
+      "album": {
+        "name": "Impurities",
+        "url": "https://open.spotify.com/album/4bN7xco6FT5lDwmBcZ18tP"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 229203,
+      "name": "Impurities",
+      "url": "https://open.spotify.com/track/0yUpBx2Y5KwzENVCshSy3M"
     }
   ],
   "unique_name": "\u90fd\u4f1a\u306e\u7a7a\u3068\u97f3\u697d\u3068",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 
 > 벚꽃이 흩날리고 새싹이 피어오르는 봄의 설레임을 만끽하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,547 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,571 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 | 19 | [Dear my X](https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Dear my X](https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej) | 3:07 |
 | 20 | [Epilogue](https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:49 |
 | 21 | [Paint on Spring](https://open.spotify.com/track/6HpDaHOApCbCgu5AyyRv6v) | [Martin Smith](https://open.spotify.com/artist/3ISWX9gKLGkhlgS5AhvlTd) | [Paint on Spring](https://open.spotify.com/album/3wHPgbPG7fuBktQszASI1I) | 3:52 |
-| 22 | [Happiness](https://open.spotify.com/track/4N9NAR5gze1VdTCY9xOUwc) | [J Rabbit](https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G) | [The Interest of Love \(Original Television Soundtrack, Pt.1\)](https://open.spotify.com/album/2LEJvE8JDCf8ttruz5sFLm) | 3:24 |
-| 23 | [Don't wanna leave tonight](https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [LOVE & HATE](https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ) | 2:44 |
+| 22 | [Don't wanna leave tonight](https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [LOVE & HATE](https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ) | 2:44 |
+| 23 | [Happiness](https://open.spotify.com/track/4N9NAR5gze1VdTCY9xOUwc) | [J Rabbit](https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G) | [The Interest of Love \(Original Television Soundtrack, Pt.1\)](https://open.spotify.com/album/2LEJvE8JDCf8ttruz5sFLm) | 3:24 |
 | 24 | [Bom Bom Bom](https://open.spotify.com/track/1rVPj9cryjgB7MdaU6sqN3) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Love Love Love](https://open.spotify.com/album/1fHeuwIK0CVB1enNSHxzAi) | 3:28 |
 | 25 | [Hi spring Bye](https://open.spotify.com/track/2M7a2Us8CEU1HZHj70byGX) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 5:24 |
 | 26 | [Galaxy](https://open.spotify.com/track/41O17Xo25mbbvay3AOHC8C) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [What Do I Call You \- The 4th Mini Album](https://open.spotify.com/album/70XJeDlFe1LmZo1lyFKyq3) | 3:46 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 | 72 | [Happy Ending](https://open.spotify.com/track/3HLFIlahbxScNvZhq14qOJ) | [Hong Dae Kwang](https://open.spotify.com/artist/6uzSh44SrjshRLiZ3qt8hp) | [Happy Ending](https://open.spotify.com/album/4jus9HaNnfiyXpP8ci0TAp) | 4:01 |
 | 73 | [Mini Stewardess](https://open.spotify.com/track/2kG9KpdmG8hKdJI6UOQZiN) | [Harryan Yoonsoan](https://open.spotify.com/artist/1yiaSLGVlq43ZC9pFLQ8lQ) | [Mini Stewardess](https://open.spotify.com/album/0uU0wcGNAp8ODhVCosMWab) | 3:22 |
 | 74 | [Green Tea](https://open.spotify.com/track/2Y7cOqDqsA2MpQ4HX4B8MD) | [The Green Tea](https://open.spotify.com/artist/2YSSfMg2K75oTvfc63kGQB) | [Heart in Motion](https://open.spotify.com/album/4mFnHs0Q8PXVeibICq4w15) | 4:07 |
-| 75 | [In a bright spring day \(feat\. JungWoo\)](https://open.spotify.com/track/7EcFY8fJH2gnNFeYNDdRQx) | [Budung](https://open.spotify.com/artist/4RtxNIrPXlf3cTtIsuEWMi), [JUNGWOO](https://open.spotify.com/artist/3tvnuk98r2VOv9ygTK8cjs) | [In a bright spring day \(feat\. JungWoo\)](https://open.spotify.com/album/2mNhiPBRxjYUdW7SyDpWmr) | 4:04 |
+| 75 | [SOME](https://open.spotify.com/track/3SFoX1aJtEOt3b0GH5lRdc) | [KIM DONG HYUN](https://open.spotify.com/artist/6NuAIYZptWXWUCAInxX6PU) | [Fling at Convenience Store \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/0ftFFfhQ3SUJ2Hrj6gkbnU) | 3:43 |
 
-Snapshot ID: `MTY4MDU3MzAzNiwwMDAwMDAwMDlhOTE0YzE0ZjcxZjhlMmM0ZWUyMjYwNDFjOTJmZTll`
+Snapshot ID: `MTY4MDU3MzAzNiwwMDAwMDAwMDMzMTMxNDViNjZkZDdiMDRlZDNkODViOTU4MjdkYjY2`

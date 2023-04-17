@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4zvnN9RL36v.md) - [plain]
 
 > 내 마음을 노랫말이 알아줄 때.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,910 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,919 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4zvnN9RL36v.md) - [plain]
 | 19 | [Do You Know That](https://open.spotify.com/track/4EjqDwJRJUfalKsIMfhjMt) | [EUNHA](https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk) | [The Forbidden Marriage, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/0l0tL7F4yLUwG3Ms2ivBsI) | 3:33 |
 | 20 | [그랬나봐](https://open.spotify.com/track/73sCf6xzgU9gJrkxz45HLz) | [김형중](https://open.spotify.com/artist/1PeAdO7bawJcZXcsLVXSSp) | [Kim Hyung Joong](https://open.spotify.com/album/2PqgCecKYA280VFveIfHCN) | 4:29 |
 | 21 | [Druken Truth](https://open.spotify.com/track/39FFkPyRLQtYBJkgV6ETAw) | [Exhibition](https://open.spotify.com/artist/491V7IpquUlnGZDCbKXVPE) | [Exhibition 2](https://open.spotify.com/album/0U916uzyklE8bn8hMlrX3t) | 5:20 |
-| 22 | [I hope I cross your mind](https://open.spotify.com/track/0v25Iep0Ww4p4kgNi29VJh) | [Sogaksogak](https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ) | [I hope I cross your mind](https://open.spotify.com/album/6fy1jB2jAM3JSJAwOCFubg) | 3:36 |
-| 23 | [Maybe I am](https://open.spotify.com/track/6r6CGnSzirRWxfmzOQHQfw) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [I'm](https://open.spotify.com/album/085XU5PQYl7eUA97BkkE8Z) | 3:48 |
+| 22 | [Maybe I am](https://open.spotify.com/track/6r6CGnSzirRWxfmzOQHQfw) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [I'm](https://open.spotify.com/album/085XU5PQYl7eUA97BkkE8Z) | 3:48 |
+| 23 | [I hope I cross your mind](https://open.spotify.com/track/0v25Iep0Ww4p4kgNi29VJh) | [Sogaksogak](https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ) | [I hope I cross your mind](https://open.spotify.com/album/6fy1jB2jAM3JSJAwOCFubg) | 3:36 |
 | 24 | [Three of Us \(With Sing Si Kyung\)](https://open.spotify.com/track/0elG6aqynKF3C1zYdzanpO) | [TOY](https://open.spotify.com/artist/7sS12h1hMwOqXiB5vYdlu8), [Sing Si Kyung](https://open.spotify.com/artist/54fqqQjr6QGdx1UX9cvfft) | [Da Capo](https://open.spotify.com/album/2aFUFpaIjQQV7dWYsWsvEx) | 4:45 |
 | 25 | [\(Bonus Track\) Voice Mail \(Korean Version\)](https://open.spotify.com/track/0MMUVb6JJzOtMyTx9qrAjy) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Modern Times](https://open.spotify.com/album/2QcuXvQBWv1ZKyQtEhLbFe) | 4:06 |
 | 26 | [UP ALL NIGHT](https://open.spotify.com/track/3cLdPR1C6skgxJBIBv1CKt) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv) | [SEOULITE](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) | 3:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4zvnN9RL36v.md) - [plain]
 | 49 | [Wanna be her](https://open.spotify.com/track/0SrnU0smAgD9CdD6591gKN) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [One Strange Night](https://open.spotify.com/album/2NIHcafPBpwE9exKTsSWrr) | 4:11 |
 | 50 | [I Ain't Over](https://open.spotify.com/track/5Z92WE7OM4DB7yphLcbFhb) | [Vanilla Acoustic](https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG) | [Fit Me](https://open.spotify.com/album/4pFmu6Kza4fbk5spjtpxBB) | 4:10 |
 
-Snapshot ID: `MTY3OTkwNTUzMiwwMDAwMDAwMGU3OWFlMmQ0NmMyOGMyOTRkNGQyMDVlN2EwY2I0Nzc5`
+Snapshot ID: `MTY3OTkwNTUzMiwwMDAwMDAwMGZiYjgwZGU3OWMxYTM5M2NmZTE5YTkyY2EyZjhlNDY5`

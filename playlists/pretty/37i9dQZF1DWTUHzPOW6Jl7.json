@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up?",
-  "num_followers": 435605,
+  "num_followers": 436179,
   "original_name": "Energy Booster: R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI4MzQ0NiwwMDAwMDAwMDRkYjkxODU0NmQ5ZWRmZGU0ZWRkMTZjZDdlYTc0OTAz",
+  "snapshot_id": "MTY4MDI4MzQ0NiwwMDAwMDAwMDQxMmFhNTYxNTExOGE1OGQ4MzVmN2UzN2M1ODJhYzM4",
   "tracks": [
     {
       "added_at": "2022-08-02 10:25:51",
@@ -629,24 +629,24 @@
       "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
     },
     {
-      "added_at": "2022-08-25 12:17:17",
+      "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "Over It",
-        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
+        "name": "Nina Sky",
+        "url": "https://open.spotify.com/album/15Zjx7K5ifTVmXa3Nk5B88"
       },
       "artists": [
         {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+          "name": "Nina Sky",
+          "url": "https://open.spotify.com/artist/6eBYLQONaYZhZNAVK061t6"
         },
         {
-          "name": "Usher",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+          "name": "Jabba",
+          "url": "https://open.spotify.com/artist/6TL5LD7Gqmo99xssJEbQpA"
         }
       ],
-      "duration_ms": 181013,
-      "name": "Come Thru (with Usher)",
-      "url": "https://open.spotify.com/track/3TTMUI5dFcbeNSDTTDY9M8"
+      "duration_ms": 232000,
+      "name": "Move Ya Body",
+      "url": "https://open.spotify.com/track/2ndnVdR8si7CW9T8vJRHyW"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -717,24 +717,24 @@
       "url": "https://open.spotify.com/track/0k6DnZMLoEUH8NGD5zh2SE"
     },
     {
-      "added_at": "2022-08-02 10:25:51",
+      "added_at": "2022-08-25 12:17:17",
       "album": {
-        "name": "Nina Sky",
-        "url": "https://open.spotify.com/album/15Zjx7K5ifTVmXa3Nk5B88"
+        "name": "Over It",
+        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
       },
       "artists": [
         {
-          "name": "Nina Sky",
-          "url": "https://open.spotify.com/artist/6eBYLQONaYZhZNAVK061t6"
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         },
         {
-          "name": "Jabba",
-          "url": "https://open.spotify.com/artist/6TL5LD7Gqmo99xssJEbQpA"
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         }
       ],
-      "duration_ms": 232000,
-      "name": "Move Ya Body",
-      "url": "https://open.spotify.com/track/2ndnVdR8si7CW9T8vJRHyW"
+      "duration_ms": 181013,
+      "name": "Come Thru (with Usher)",
+      "url": "https://open.spotify.com/track/3TTMUI5dFcbeNSDTTDY9M8"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "Go Get It",
-        "url": "https://open.spotify.com/album/20bME4IGNpUBm1Rk3TzuP9"
-      },
-      "artists": [
-        {
-          "name": "Mary Mary",
-          "url": "https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde"
-        }
-      ],
-      "duration_ms": 198346,
-      "name": "Shackles (Praise You)",
-      "url": "https://open.spotify.com/track/7JKEA8xYDoFp4q0QBW2PGg"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
         "name": "The Evolution",
         "url": "https://open.spotify.com/album/0hfJ35SzCkWesdUpLKXLto"
       },
@@ -1067,6 +1051,22 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
+        "name": "Go Get It",
+        "url": "https://open.spotify.com/album/20bME4IGNpUBm1Rk3TzuP9"
+      },
+      "artists": [
+        {
+          "name": "Mary Mary",
+          "url": "https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde"
+        }
+      ],
+      "duration_ms": 198346,
+      "name": "Shackles (Praise You)",
+      "url": "https://open.spotify.com/track/7JKEA8xYDoFp4q0QBW2PGg"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
         "name": "Survivor",
         "url": "https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9"
       },
@@ -1079,22 +1079,6 @@
       "duration_ms": 207906,
       "name": "Bootylicious",
       "url": "https://open.spotify.com/track/41nT1Sp6ChR65FbsdLlFHW"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Body Do",
-        "url": "https://open.spotify.com/album/11PXeg2viVWXqcI4yN1wcN"
-      },
-      "artists": [
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        }
-      ],
-      "duration_ms": 142809,
-      "name": "Body Do",
-      "url": "https://open.spotify.com/track/4TiUFzVFDc17Gt0m1ktH2N"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1127,6 +1111,22 @@
       "duration_ms": 184906,
       "name": "Never Leave You (Uh Oooh, Uh Oooh)",
       "url": "https://open.spotify.com/track/1AjQE5MtP5jHQMyDepbvLI"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Body Do",
+        "url": "https://open.spotify.com/album/11PXeg2viVWXqcI4yN1wcN"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "duration_ms": 142809,
+      "name": "Body Do",
+      "url": "https://open.spotify.com/track/4TiUFzVFDc17Gt0m1ktH2N"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "Part III",
-        "url": "https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb"
+        "name": "PARTYNEXTDOOR 3 (P3)",
+        "url": "https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ"
       },
       "artists": [
         {
-          "name": "112",
-          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
         }
       ],
-      "duration_ms": 231800,
-      "name": "Dance With Me",
-      "url": "https://open.spotify.com/track/6uRH1qMz30ZBwwUG0IYE5s"
+      "duration_ms": 202661,
+      "name": "Not Nice",
+      "url": "https://open.spotify.com/track/6tHt7Ln9RV8FTlT4kTxr2b"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "PARTYNEXTDOOR 3 (P3)",
-        "url": "https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 202661,
-      "name": "Not Nice",
-      "url": "https://open.spotify.com/track/6tHt7Ln9RV8FTlT4kTxr2b"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
         "name": "Southern Hummingbird",
         "url": "https://open.spotify.com/album/7uAkY4ERL5Y0BopRxmd3AX"
       },
@@ -1259,6 +1243,42 @@
       "duration_ms": 237800,
       "name": "Oops (Oh My) [feat. Missy Elliott]",
       "url": "https://open.spotify.com/track/5Y0E3dOeynKuLDAXu0t0Bg"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
+        "name": "Part III",
+        "url": "https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb"
+      },
+      "artists": [
+        {
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+        }
+      ],
+      "duration_ms": 231800,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/6uRH1qMz30ZBwwUG0IYE5s"
+    },
+    {
+      "added_at": "2023-04-17 00:16:19",
+      "album": {
+        "name": "In Pieces",
+        "url": "https://open.spotify.com/album/57eOzR6RxyfJLC3ggBQfRI"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "duration_ms": 204832,
+      "name": "Told Ya",
+      "url": "https://open.spotify.com/track/0yMAkO3xc2KwtVcFYQITcy"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1295,26 +1315,6 @@
       "duration_ms": 299826,
       "name": "Honey",
       "url": "https://open.spotify.com/track/5NaOWLOmVjcA3M5spRATN9"
-    },
-    {
-      "added_at": "2023-04-16 00:01:10",
-      "album": {
-        "name": "In Pieces",
-        "url": "https://open.spotify.com/album/57eOzR6RxyfJLC3ggBQfRI"
-      },
-      "artists": [
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        },
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        }
-      ],
-      "duration_ms": 204832,
-      "name": "Told Ya",
-      "url": "https://open.spotify.com/track/0yMAkO3xc2KwtVcFYQITcy"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "Concrete Rose",
-        "url": "https://open.spotify.com/album/3oL0vq8diYrPLGWVgjJBPD"
-      },
-      "artists": [
-        {
-          "name": "Ashanti",
-          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
-        }
-      ],
-      "duration_ms": 186306,
-      "name": "Only U - No Intro",
-      "url": "https://open.spotify.com/track/3sckKKIx96cjPXtiqPHCTB"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
         "name": "Right Here",
         "url": "https://open.spotify.com/album/5mfslBbxkZtxhSfnB2u2Gj"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 226800,
       "name": "Right Here - Human Nature Radio Mix",
       "url": "https://open.spotify.com/track/5u3FywQOPJ5O7ZAjm31cnq"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
+        "name": "Concrete Rose",
+        "url": "https://open.spotify.com/album/3oL0vq8diYrPLGWVgjJBPD"
+      },
+      "artists": [
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        }
+      ],
+      "duration_ms": 186306,
+      "name": "Only U - No Intro",
+      "url": "https://open.spotify.com/track/3sckKKIx96cjPXtiqPHCTB"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1531,26 +1531,6 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "Just Like You",
-        "url": "https://open.spotify.com/album/7mdy09EO4q6F9VWBtXDDjK"
-      },
-      "artists": [
-        {
-          "name": "Keyshia Cole",
-          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
-        },
-        {
-          "name": "Diddy",
-          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
-        }
-      ],
-      "duration_ms": 255773,
-      "name": "Last Night",
-      "url": "https://open.spotify.com/track/3Cn1FSSTXeQ7hCfrbizrD0"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
         "name": "Know Myself",
         "url": "https://open.spotify.com/album/3yQsZtQbpsk62l4Yq5pjIK"
       },
@@ -1567,6 +1547,26 @@
       "duration_ms": 167493,
       "name": "Know Myself",
       "url": "https://open.spotify.com/track/0d8anwJJGti8jE79Y4tXUD"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
+        "name": "Just Like You",
+        "url": "https://open.spotify.com/album/7mdy09EO4q6F9VWBtXDDjK"
+      },
+      "artists": [
+        {
+          "name": "Keyshia Cole",
+          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
+        },
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        }
+      ],
+      "duration_ms": 255773,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/3Cn1FSSTXeQ7hCfrbizrD0"
     },
     {
       "added_at": "2022-08-02 10:25:51",

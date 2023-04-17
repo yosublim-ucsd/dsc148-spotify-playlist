@@ -1,12 +1,12 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 56039,
+  "num_followers": 56069,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDUxNTYzNSwwMDAwMDAwMGMxNDc5ZjE0Mzk0NzRhOTRjMmVkNTk0NmEwZjgwMTJi",
+  "snapshot_id": "MTY4MDUxNTYzNSwwMDAwMDAwMGZmZTlmNTZlNjc2ZjQ1ZDM3NGRmMmYwMjQ1MWEyMTI4",
   "tracks": [
     {
       "added_at": "2023-04-03 09:53:55",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-04-03 09:53:55",
       "album": {
-        "name": "Bez Ciebie",
-        "url": "https://open.spotify.com/album/2XX6T9V5MPE35hZRDrBJgR"
-      },
-      "artists": [
-        {
-          "name": "Dawid Kwiatkowski",
-          "url": "https://open.spotify.com/artist/0hwjSlN7w3WWQY3mLdogAC"
-        }
-      ],
-      "duration_ms": 198222,
-      "name": "Bez Ciebie",
-      "url": "https://open.spotify.com/track/28rASnN07Gun1cXpOsbCHo"
-    },
-    {
-      "added_at": "2023-04-03 09:53:55",
-      "album": {
         "name": "Ludzie prosci",
         "url": "https://open.spotify.com/album/6chn887fKwWnMV4fYifmRv"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 230504,
       "name": "Kazdego dnia",
       "url": "https://open.spotify.com/track/79zCUDHcdzl40CRmIeOLI5"
+    },
+    {
+      "added_at": "2023-04-03 09:53:55",
+      "album": {
+        "name": "Bez Ciebie",
+        "url": "https://open.spotify.com/album/2XX6T9V5MPE35hZRDrBJgR"
+      },
+      "artists": [
+        {
+          "name": "Dawid Kwiatkowski",
+          "url": "https://open.spotify.com/artist/0hwjSlN7w3WWQY3mLdogAC"
+        }
+      ],
+      "duration_ms": 198222,
+      "name": "Bez Ciebie",
+      "url": "https://open.spotify.com/track/28rASnN07Gun1cXpOsbCHo"
     },
     {
       "added_at": "2023-04-03 09:53:55",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2023-04-03 09:53:55",
       "album": {
+        "name": "Moje piosenki edycja zwykla",
+        "url": "https://open.spotify.com/album/4Wcm5yNUmX3UTH28KsZUtj"
+      },
+      "artists": [
+        {
+          "name": "Brodka",
+          "url": "https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY"
+        }
+      ],
+      "duration_ms": 203480,
+      "name": "Znam cie na pamiec",
+      "url": "https://open.spotify.com/track/4Wa9xLwIOdletdE8tBZKp5"
+    },
+    {
+      "added_at": "2023-04-03 09:53:55",
+      "album": {
         "name": "Nasz Film (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3x8ju0GxwF7NLPgPjAIS4T"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 326706,
       "name": "Dmuchawce, Latawce, Wiatr",
       "url": "https://open.spotify.com/track/4itxKC1nLYQ8H4e2ejj1E3"
-    },
-    {
-      "added_at": "2023-04-03 09:53:55",
-      "album": {
-        "name": "Moje piosenki edycja zwykla",
-        "url": "https://open.spotify.com/album/4Wcm5yNUmX3UTH28KsZUtj"
-      },
-      "artists": [
-        {
-          "name": "Brodka",
-          "url": "https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY"
-        }
-      ],
-      "duration_ms": 203480,
-      "name": "Znam cie na pamiec",
-      "url": "https://open.spotify.com/track/4Wa9xLwIOdletdE8tBZKp5"
     },
     {
       "added_at": "2023-04-03 09:53:55",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2023-04-03 09:53:55",
       "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/1UaJL8ydW6w4VL5ECw27ew"
+      },
+      "artists": [
+        {
+          "name": "Robert Gawlinski",
+          "url": "https://open.spotify.com/artist/32qNyW2sjyjjPDQamC2f9O"
+        }
+      ],
+      "duration_ms": 182293,
+      "name": "O Sobie Samym",
+      "url": "https://open.spotify.com/track/01FN979nyz1gmdsfWZv5OL"
+    },
+    {
+      "added_at": "2023-04-03 09:53:55",
+      "album": {
         "name": "Pog\u0142os",
         "url": "https://open.spotify.com/album/38VbM2pFAykoCv0xhBuCt2"
       },
@@ -1199,18 +1215,22 @@
     {
       "added_at": "2023-04-03 09:53:55",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/1UaJL8ydW6w4VL5ECw27ew"
+        "name": "Nie k\u0142am \u017ce mnie kochasz",
+        "url": "https://open.spotify.com/album/4E8A1oe3EKWx8AFeFJ0Fz0"
       },
       "artists": [
         {
-          "name": "Robert Gawlinski",
-          "url": "https://open.spotify.com/artist/32qNyW2sjyjjPDQamC2f9O"
+          "name": "Ewelina Flinta",
+          "url": "https://open.spotify.com/artist/3gd9XZQnyJXTVfLZh1BF6v"
+        },
+        {
+          "name": "\u0141ukasz Zagrobelny",
+          "url": "https://open.spotify.com/artist/1AnN7D0tGyWS5d3l38oqR0"
         }
       ],
-      "duration_ms": 182293,
-      "name": "O Sobie Samym",
-      "url": "https://open.spotify.com/track/01FN979nyz1gmdsfWZv5OL"
+      "duration_ms": 186026,
+      "name": "Nie k\u0142am \u017ce mnie kochasz",
+      "url": "https://open.spotify.com/track/0Xj3MeniDBK33I1YZcqlqP"
     },
     {
       "added_at": "2023-04-03 09:53:55",
@@ -1231,22 +1251,18 @@
     {
       "added_at": "2023-04-03 09:53:55",
       "album": {
-        "name": "Nie k\u0142am \u017ce mnie kochasz",
-        "url": "https://open.spotify.com/album/4E8A1oe3EKWx8AFeFJ0Fz0"
+        "name": "Dla Naiwnych Marzycieli",
+        "url": "https://open.spotify.com/album/0oGiggXuV7aZA3omAELhiR"
       },
       "artists": [
         {
-          "name": "Ewelina Flinta",
-          "url": "https://open.spotify.com/artist/3gd9XZQnyJXTVfLZh1BF6v"
-        },
-        {
-          "name": "\u0141ukasz Zagrobelny",
-          "url": "https://open.spotify.com/artist/1AnN7D0tGyWS5d3l38oqR0"
+          "name": "Ania D\u0105browska",
+          "url": "https://open.spotify.com/artist/7008bv4QLo6eziuxszbjqO"
         }
       ],
-      "duration_ms": 186026,
-      "name": "Nie k\u0142am \u017ce mnie kochasz",
-      "url": "https://open.spotify.com/track/0Xj3MeniDBK33I1YZcqlqP"
+      "duration_ms": 205400,
+      "name": "W Glowie",
+      "url": "https://open.spotify.com/track/5xIwk3q4x3ptb6oedWlKf0"
     },
     {
       "added_at": "2023-04-03 09:53:55",
@@ -1283,22 +1299,6 @@
       "duration_ms": 246771,
       "name": "Zosta\u0144",
       "url": "https://open.spotify.com/track/4Pslf0rV8BsQVYmXjdei37"
-    },
-    {
-      "added_at": "2023-04-03 09:53:55",
-      "album": {
-        "name": "Dla Naiwnych Marzycieli",
-        "url": "https://open.spotify.com/album/0oGiggXuV7aZA3omAELhiR"
-      },
-      "artists": [
-        {
-          "name": "Ania D\u0105browska",
-          "url": "https://open.spotify.com/artist/7008bv4QLo6eziuxszbjqO"
-        }
-      ],
-      "duration_ms": 205400,
-      "name": "W Glowie",
-      "url": "https://open.spotify.com/track/5xIwk3q4x3ptb6oedWlKf0"
     }
   ],
   "unique_name": "Polskie hity o mi\u0142o\u015bci",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,781 likes - 75 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,801 likes - 75 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,17 +49,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 39 | [Water](https://open.spotify.com/track/3kMVwcWq73jxj9w3OlgrmR) | [Caleb Belkin](https://open.spotify.com/artist/12TcsyqAd3lJUcZFJVogXZ) | [Discography](https://open.spotify.com/album/17KY09ISAVpJ30vTaiTW3n) | 1:58 |
 | 40 | [Snowfall](https://open.spotify.com/track/5tn0g0j6ksRufhK0RI33r8) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [Chillhop Essentials Winter 2016](https://open.spotify.com/album/57bNPwHszlEe7xhSWG2qvJ) | 2:56 |
 | 41 | [Autumn Chills](https://open.spotify.com/track/1Mg5n0Gvx8PphL8ZpJVKyT) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Hubert Daviz](https://open.spotify.com/artist/5q0zWFDxHYStTxfgjGHgW7) | [Autumn Chills](https://open.spotify.com/album/0LeD9H3MwdhpdQRdLtEPBE) | 1:54 |
-| 42 | [Vibes](https://open.spotify.com/track/2IZzKwuk34ndrAHSTSHTsB) | [Misc.Inc](https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi) | [Vibes](https://open.spotify.com/album/2CDgkWRxarrpI449ZgYhLw) | 2:08 |
+| 42 | [we used to talk every night](https://open.spotify.com/track/4FbOZNHWXvvCwuuqRVNkRS) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [time off](https://open.spotify.com/album/7aFxwormHMkxMn7gXzHvBs) | 2:02 |
 | 43 | [Open Window](https://open.spotify.com/track/703hSWNgehWT0F16awNLr1) | [Jaeden Camstra](https://open.spotify.com/artist/1xOgtDBKnZvSLAgCVSOmNH) | [Kids' Menu](https://open.spotify.com/album/5QZRe9oZyiwJG3LqYzLQc2) | 2:28 |
-| 44 | [Away with the Fairies](https://open.spotify.com/track/54ekIgWTXDlmFjlhP8GkqO) | [Sleepy Fish](https://open.spotify.com/artist/1IJe80moz409PtxW4llPFw), [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs) | [Away with the Fairies](https://open.spotify.com/album/019piy3yyLujIF1IMtaCo2) | 2:46 |
-| 45 | [we used to talk every night](https://open.spotify.com/track/4FbOZNHWXvvCwuuqRVNkRS) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [time off](https://open.spotify.com/album/7aFxwormHMkxMn7gXzHvBs) | 2:02 |
+| 44 | [Vibes](https://open.spotify.com/track/2IZzKwuk34ndrAHSTSHTsB) | [Misc.Inc](https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi) | [Vibes](https://open.spotify.com/album/2CDgkWRxarrpI449ZgYhLw) | 2:08 |
+| 45 | [Away with the Fairies](https://open.spotify.com/track/54ekIgWTXDlmFjlhP8GkqO) | [Sleepy Fish](https://open.spotify.com/artist/1IJe80moz409PtxW4llPFw), [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs) | [Away with the Fairies](https://open.spotify.com/album/019piy3yyLujIF1IMtaCo2) | 2:46 |
 | 46 | [long ago.](https://open.spotify.com/track/7BdazOnsFvAkQGyrp2djJM) | [halberd](https://open.spotify.com/artist/7ow7nXWCZuMoU09aRki7GB) | [long ago.](https://open.spotify.com/album/63BlmEk69qFmjJbO9n4Jb6) | 2:06 |
 | 47 | [Air](https://open.spotify.com/track/3gQSWGaCoaxONqXitmn7GX) | [Blvk](https://open.spotify.com/artist/12MvJYPfRXWwhUFJ7EtKHb) | [Beat Batch \#2](https://open.spotify.com/album/1zEv31yXhwbYowqsabXRJB) | 1:17 |
 | 48 | [sand castles](https://open.spotify.com/track/6ip3BwXKlULyY279vreCz9) | [Fujitsu](https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT) | [corals 2](https://open.spotify.com/album/1cXZDExwXLZtfLRxCcnETx) | 2:27 |
 | 49 | [Lost in Florence](https://open.spotify.com/track/5B1tm4NuzSbYUTwk0xEz2a) | [Kendall Miles](https://open.spotify.com/artist/4Z5eM7HLu4b0LAKrywoWR2), [I Eat Plants for a Living](https://open.spotify.com/artist/5EevHNEa1e2YvcJgksJpRK) | [Daydreams](https://open.spotify.com/album/75Nc2FvrYrzu7UY4yNjX1O) | 1:32 |
-| 50 | [I Don't Love You Anymore](https://open.spotify.com/track/6QOVWoZUD3IEszbfO46mYW) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [I Don't Love You Anymore](https://open.spotify.com/album/0n64xoWxg6GJpUzA1zOWnl) | 1:17 |
-| 51 | [sekao](https://open.spotify.com/track/4c2TiYoJHIjEPZ5syRZhsY) | [Delayde](https://open.spotify.com/artist/254ga0emOv4GhfUUw5J16h) | [running around dreaming](https://open.spotify.com/album/2yTJ6fdaX9ZYGzdEJyrvna) | 2:12 |
-| 52 | [belas](https://open.spotify.com/track/6OXNlUd6vv5Kwz5kPezGhD) | [eevee](https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q) | [ep seeds](https://open.spotify.com/album/2vxePUlbaM0O8bormn1Pgf) | 3:01 |
+| 50 | [belas](https://open.spotify.com/track/6OXNlUd6vv5Kwz5kPezGhD) | [eevee](https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q) | [ep seeds](https://open.spotify.com/album/2vxePUlbaM0O8bormn1Pgf) | 3:01 |
+| 51 | [I Don't Love You Anymore](https://open.spotify.com/track/6QOVWoZUD3IEszbfO46mYW) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [I Don't Love You Anymore](https://open.spotify.com/album/0n64xoWxg6GJpUzA1zOWnl) | 1:17 |
+| 52 | [sekao](https://open.spotify.com/track/4c2TiYoJHIjEPZ5syRZhsY) | [Delayde](https://open.spotify.com/artist/254ga0emOv4GhfUUw5J16h) | [running around dreaming](https://open.spotify.com/album/2yTJ6fdaX9ZYGzdEJyrvna) | 2:12 |
 | 53 | [Take You There](https://open.spotify.com/track/7pn7E6FglPjV1dDaknCaD8) | [Huey Daze](https://open.spotify.com/artist/5WWaSxxDu0B6pDpeZJke3Y) | [Setsuna](https://open.spotify.com/album/7MFvFVNg8VQAar6XjEUj8R) | 2:32 |
 | 54 | [Rolling Papers](https://open.spotify.com/track/3ou5xfUbChcJHMIN8jZ8C9) | [Sleepdealer](https://open.spotify.com/artist/0kVNa1qBak8arcwcUeLu90) | [Yerba](https://open.spotify.com/album/2TpFFSYCyOFwWlhgOZkEe0) | 2:00 |
 | 55 | [Springtime](https://open.spotify.com/track/6wh61ZuwyFfS9DD6EJCov4) | [j^p^n](https://open.spotify.com/artist/6s3PbveUJMvMwZHyQUAPV4) | [Mercy](https://open.spotify.com/album/1vNYKr4KkIcLFug4zMX0rD) | 2:00 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 58 | [Choke](https://open.spotify.com/track/2bSN2xip2QqAWzpziLxbiy) | [Sonn](https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E) | [Choke](https://open.spotify.com/album/40Ig3tBAjg46yp6XMUdxDg) | 3:00 |
 | 59 | [Swishers](https://open.spotify.com/track/4IYHeSEVelitaI7mX116rb) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m), [\[bsd.u\]](https://open.spotify.com/artist/3m1IaEwT7D9hFKOfpz5VHk) | [Runway](https://open.spotify.com/album/6ho9z5s9kqlWfh3R8QdY0s) | 1:56 |
 | 60 | [Murmuration](https://open.spotify.com/track/6fkAGXwhsnGecBd1z3dDob) | [Blue Wednesday](https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U), [Shopan](https://open.spotify.com/artist/2XHa2Sy9IYid9hnQ2YmtGl) | [Directions](https://open.spotify.com/album/1GNYINM8gupBbSdJSPuaud) | 2:36 |
-| 61 | [Hills and Horizons](https://open.spotify.com/track/1MfeZZwkOZP5gpCfZCzKiJ) | [Fujitsu](https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT) | [Hills and Horizons](https://open.spotify.com/album/7uVXp056ciEBVnddjf7lt5) | 2:05 |
-| 62 | [ORANGE](https://open.spotify.com/track/2QFvsZEjbketrpCgCNC9Zp) | [SINY](https://open.spotify.com/artist/6d1bmKQyB8OJWCOJJPCkVT) | [Shinigami](https://open.spotify.com/album/3ylB3HxdcNx6lCRJT2bruW) | 2:40 |
+| 61 | [ORANGE](https://open.spotify.com/track/2QFvsZEjbketrpCgCNC9Zp) | [SINY](https://open.spotify.com/artist/6d1bmKQyB8OJWCOJJPCkVT) | [Shinigami](https://open.spotify.com/album/3ylB3HxdcNx6lCRJT2bruW) | 2:40 |
+| 62 | [Hills and Horizons](https://open.spotify.com/track/1MfeZZwkOZP5gpCfZCzKiJ) | [Fujitsu](https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT) | [Hills and Horizons](https://open.spotify.com/album/7uVXp056ciEBVnddjf7lt5) | 2:05 |
 | 63 | [Joan of Arc.](https://open.spotify.com/track/2DrrxuNOhnpqJXLH36eR1S) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 2:58 |
 | 64 | [hand of god](https://open.spotify.com/track/17aeqWs7j6xU37MMQ6LofF) | [lofi.samurai](https://open.spotify.com/artist/6NLqFFCoVnFwbXzoIB5Col) | [oldies](https://open.spotify.com/album/2qFWwW20dcp45bEFEgSAc1) | 1:43 |
 | 65 | [Faces](https://open.spotify.com/track/39qwnp9qlLcYd4bq6s5HMj) | [Knowmadic](https://open.spotify.com/artist/0HcyeAioEKhfwVcJAoyN36) | [Faces](https://open.spotify.com/album/3hBQuy5dGt1BYSPkwKiqwf) | 2:13 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 70 | [For Her](https://open.spotify.com/track/5rzCO5V9AVV0zvgJbEfUos) | [Caleb Belkin](https://open.spotify.com/artist/12TcsyqAd3lJUcZFJVogXZ) | [Discography](https://open.spotify.com/album/17KY09ISAVpJ30vTaiTW3n) | 1:47 |
 | 71 | [for you](https://open.spotify.com/track/2iGqmP4YP3hrx3ij9jvZsG) | [jhfly](https://open.spotify.com/artist/7D6kLgvRHr6DNDavc0LhvI) | [jhfly](https://open.spotify.com/album/7hmMkesNBhzzGMiCbOCpMo) | 3:08 |
 | 72 | [St\. Clements](https://open.spotify.com/track/4AzvNQcn1I4sZ2wJrW5ATq) | [Limes](https://open.spotify.com/artist/5o4dgimn1R07w1d2ZzpzpP), [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS) | [St\. Clements](https://open.spotify.com/album/1XXmc02uygqHueQUYutfZZ) | 1:17 |
-| 73 | [Acknowledgement](https://open.spotify.com/track/1dAQ0d23E43gznWA5bvXZT) | [Huey Daze](https://open.spotify.com/artist/5WWaSxxDu0B6pDpeZJke3Y) | [Romance](https://open.spotify.com/album/7pKuX4GEQp8hsy4Z702aKm) | 2:05 |
-| 74 | [Caliber](https://open.spotify.com/track/6nk3juaB3mIKFJq8UcmpDU) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [Caliber](https://open.spotify.com/album/4VBkwvUerwiwJbkY6zlRXK) | 2:10 |
+| 73 | [Caliber](https://open.spotify.com/track/6nk3juaB3mIKFJq8UcmpDU) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [Caliber](https://open.spotify.com/album/4VBkwvUerwiwJbkY6zlRXK) | 2:10 |
+| 74 | [Acknowledgement](https://open.spotify.com/track/1dAQ0d23E43gznWA5bvXZT) | [Huey Daze](https://open.spotify.com/artist/5WWaSxxDu0B6pDpeZJke3Y) | [Romance](https://open.spotify.com/album/7pKuX4GEQp8hsy4Z702aKm) | 2:05 |
 | 75 | [Water](https://open.spotify.com/track/5Z393NbAlwjAl0vYzUZh9D) | [omarr](https://open.spotify.com/artist/6VlR5v7VgUjpqIrIgrZ7wb) | [Desire](https://open.spotify.com/album/0yC7LKmarREa0WIHiZNbnL) | 2:42 |
 
-Snapshot ID: `MTY1MDAyNDU5MiwwMDAwMDAwMGY0ZDhhNmY1ZjhlYjc3NzZiZGVlZDI5ZjA1ZWQxMGRj`
+Snapshot ID: `MTY1MDAyNDU5MiwwMDAwMDAwMDQ3MWU0OWQzMmIzMzdjZTM1NWZhYmE3OTI4NDZhNmFj`

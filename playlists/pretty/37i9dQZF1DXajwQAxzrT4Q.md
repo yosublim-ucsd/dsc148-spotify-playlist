@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: Kanii
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,341 likes - 50 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,463 likes - 50 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 36 | [All I Need \- VIP](https://open.spotify.com/track/7cpnqcFMN6Z7yiSOZyzGMU) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [All I Need \(VIP\)](https://open.spotify.com/album/2tfC2UydNyC7Y0jz6FoEKv) | 3:15 |
 | 37 | [Shake Dhat](https://open.spotify.com/track/5UESpuA78cd0mYIdu7CKq4) | [Zahsosaa](https://open.spotify.com/artist/7Kr0bEtV76UqZNRFBhmz6Y), [D STURDY](https://open.spotify.com/artist/1IgVVWaJUmYNxAWpN1nmnr), [Dj Crazy](https://open.spotify.com/artist/0vqv7Yvt85sVlmdESOFPuK) | [Shake Dhat](https://open.spotify.com/album/2H7UA3WRJM2dGMZoMEhUYf) | 2:40 |
 | 38 | [Jersey Anniversary](https://open.spotify.com/track/4dNU2ZPVNFv5kDGee25DSU) | [KiaBHN](https://open.spotify.com/artist/6qEQN3nqhzCkT8tFvlmPLk), [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW), [DJ BigO](https://open.spotify.com/artist/2Cy1KpNWiTxaVCwDgz0jRD), [Vivid The Producer](https://open.spotify.com/artist/00NSEb3Siwey1RGnfGayah), [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Gratitude](https://open.spotify.com/album/6YH27S9buQftksi0FRgh0f) | 3:12 |
-| 39 | [Self Esteem \(feat\. NLE Choppa\) \- DJ Smallz 732 Jersey Club Remix](https://open.spotify.com/track/45AiClrOnkqbGmQe5OEEUu) | [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Self Esteem \(feat\. NLE Choppa\) \[DJ Smallz 732 Jersey Club Remix\]](https://open.spotify.com/album/465P41bUBc9FVsLIGWkToC) | 1:29 |
-| 40 | [We Are Young \(Jersey Club\)](https://open.spotify.com/track/4F8JgSAhDLib5yoUoykMMZ) | [Kyle Edwards](https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [We Are Young \(Jersey Club\)](https://open.spotify.com/album/56kpBfXOfkpKg3QYHKKAJj) | 1:49 |
+| 39 | [We Are Young \(Jersey Club\)](https://open.spotify.com/track/4F8JgSAhDLib5yoUoykMMZ) | [Kyle Edwards](https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [We Are Young \(Jersey Club\)](https://open.spotify.com/album/56kpBfXOfkpKg3QYHKKAJj) | 1:49 |
+| 40 | [Self Esteem \(feat\. NLE Choppa\) \- DJ Smallz 732 Jersey Club Remix](https://open.spotify.com/track/45AiClrOnkqbGmQe5OEEUu) | [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Self Esteem \(feat\. NLE Choppa\) \[DJ Smallz 732 Jersey Club Remix\]](https://open.spotify.com/album/465P41bUBc9FVsLIGWkToC) | 1:29 |
 | 41 | [eyes](https://open.spotify.com/track/2YOev1DTVgKTqBuUN3J5kg) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [eyes](https://open.spotify.com/album/3kjWlk30j8gIzBe39MbndW) | 2:22 |
 | 42 | [PIANO \(feat\. Lay Bankz\)](https://open.spotify.com/track/7ERd87EHVWn9585J4qXxPS) | [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1), [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Club Godfather](https://open.spotify.com/album/76B56iUllijLjhuH7XFqBi) | 2:36 |
 | 43 | [Back Stabbers Jersey Club Mix](https://open.spotify.com/track/2VWSMXsBe3gW6Ur4iNOpmp) | [Dj Darknite](https://open.spotify.com/artist/6gk5MJg8y3axh8TMBGm1tg), [Groove The Producer](https://open.spotify.com/artist/1pf3UIUqX0QObxx9sppHA1), [Mattknight](https://open.spotify.com/artist/5nUQlno9F83ipUQtkuZMjT) | [Sounds Of A Menace \(Jersey Club\)](https://open.spotify.com/album/1tKLBHhzAJRqC3sbkQWDXI) | 2:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 49 | [BIRTHDAY](https://open.spotify.com/track/6WqVQQvsU36rwF6yytQ6EM) | [L1NA](https://open.spotify.com/artist/62oPQvptWCPp2UCsqYwcIf) | [BIRTHDAY](https://open.spotify.com/album/0nC66yGMx88sJDbFQamG7s) | 2:43 |
 | 50 | [say im ur luv \- Jumbo Sounds Remix](https://open.spotify.com/track/2vRe7YtE1tpVarV1t9fqcu) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [Jumbo Sounds](https://open.spotify.com/artist/1DLHhMWrKCOBuR0Svpw3Hq) | [say im ur luv \(Jumbo Sounds Remix\)](https://open.spotify.com/album/5GxYcqmDvWzetC31Oe0YLm) | 2:17 |
 
-Snapshot ID: `MTY3OTY3MzYwMCwwMDAwMDAwMGI2NGRlNjcxN2RiYjVkNTIwZWIyZTFmNjcxNTk3Zjg0`
+Snapshot ID: `MTY3OTY3MzYwMCwwMDAwMDAwMGM0YmY5N2YxMTNkNGE4MjQwNzZmYjY3Y2U5NTkxMWJl`

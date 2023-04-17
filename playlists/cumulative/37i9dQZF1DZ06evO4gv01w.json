@@ -371,6 +371,36 @@
     },
     {
       "album": {
+        "name": "Late Night Basie",
+        "url": "https://open.spotify.com/album/0UfzjyiMMz6ehDLQEqc7P2"
+      },
+      "artists": [
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        },
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        },
+        {
+          "name": "Will Lee",
+          "url": "https://open.spotify.com/artist/4yfYzng7htuuRXosAJYtun"
+        },
+        {
+          "name": "Shawn Pelton",
+          "url": "https://open.spotify.com/artist/3JamY45rtaJluNZPgdVSkl"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231250,
+      "name": "Blue & Sentimental",
+      "url": "https://open.spotify.com/track/0uAKtjwLUuoRV5HuZCqKbe"
+    },
+    {
+      "album": {
         "name": "Venom & Faith",
         "url": "https://open.spotify.com/album/4XflGGrR7ASWoMNVfy7txI"
       },

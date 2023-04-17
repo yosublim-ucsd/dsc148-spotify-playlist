@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Daddy O Radio \(데디오레디오\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,920 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,016 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 | 40 | [Deja Vu](https://open.spotify.com/track/7uvW1F97LfVbOF6bzHs3nO) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Raid of Dream](https://open.spotify.com/album/4Y5YucmQPgaCJOkmRshYGs) | 3:44 |
 | 41 | [Sweet Chaos](https://open.spotify.com/track/499qjESUqiZjlNI7XQhyLp) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Entropy](https://open.spotify.com/album/2vnlVtSs6PP1iKvcTWtX2h) | 3:47 |
 | 42 | [Right Through Me](https://open.spotify.com/track/4cK8aSO2Ec4gmIjhtHfAKd) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [Right Through Me](https://open.spotify.com/album/7HrZpKCxm1fqem02ALHn2D) | 3:37 |
-| 43 | [DIVE](https://open.spotify.com/track/7CBnUjo3qL7c8p129PFqzb) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [DIVE](https://open.spotify.com/album/4uyM4cCQB9dS18W7YQ1MaH) | 3:19 |
-| 44 | [TOMBOY](https://open.spotify.com/track/6DA7kCWYMggJjqPM84V2Ng) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [23](https://open.spotify.com/album/2VDNZYzubQxFNOR3qD1K9B) | 4:01 |
-| 45 | [Mirror](https://open.spotify.com/track/6tF5SVu63mcy3bxzqpTiap) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Mirror](https://open.spotify.com/album/5y2ZMwQ0HLRXW0Rsidiqws) | 3:34 |
-| 46 | [Highteen](https://open.spotify.com/track/4HcnOrtYTFOLyZrfC7BQ9U) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [Highteen](https://open.spotify.com/album/0KOiVCCpmrK72XwMIL4ieW) | 3:01 |
-| 47 | [pueblo](https://open.spotify.com/track/0SMkcLW4e0agOx7JSEpKkA) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [pueblo](https://open.spotify.com/album/7HlvfsA1BQNIjOx6PHUJrR) | 3:48 |
+| 43 | [TOMBOY](https://open.spotify.com/track/6DA7kCWYMggJjqPM84V2Ng) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [23](https://open.spotify.com/album/2VDNZYzubQxFNOR3qD1K9B) | 4:01 |
+| 44 | [DIVE](https://open.spotify.com/track/7CBnUjo3qL7c8p129PFqzb) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [DIVE](https://open.spotify.com/album/4uyM4cCQB9dS18W7YQ1MaH) | 3:19 |
+| 45 | [pueblo](https://open.spotify.com/track/0SMkcLW4e0agOx7JSEpKkA) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [pueblo](https://open.spotify.com/album/7HlvfsA1BQNIjOx6PHUJrR) | 3:48 |
+| 46 | [Mirror](https://open.spotify.com/track/6tF5SVu63mcy3bxzqpTiap) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Mirror](https://open.spotify.com/album/5y2ZMwQ0HLRXW0Rsidiqws) | 3:34 |
+| 47 | [Highteen](https://open.spotify.com/track/4HcnOrtYTFOLyZrfC7BQ9U) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [Highteen](https://open.spotify.com/album/0KOiVCCpmrK72XwMIL4ieW) | 3:01 |
 | 48 | [PIRI](https://open.spotify.com/track/6vHyPhg8fgclBiY8QN68wp) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The End of Nightmare](https://open.spotify.com/album/02YL02Pjk6moxi5iuYsIPC) | 3:26 |
 | 49 | [Adrenaline](https://open.spotify.com/track/6ZQmJVUuXk1Q27d8vkmgm8) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [VINCENZO \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/47ulDGfVUWUcUSWRQCzxr3) | 3:26 |
 | 50 | [So Tender](https://open.spotify.com/track/1Qhcx4uDQ4RFy9m4mKdzUN) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [Nevertheless, \(Original Television Soundtrack, Pt\. 8\)](https://open.spotify.com/album/7uuHf9rwmvlkUS9AlxK6D2) | 4:28 |
 
-Snapshot ID: `MTY4MTQ2ODkyOSwwMDAwMDAwMGE4NzJlZDllMWYyMjUwNzIxZDg3Y2UwNzBlNjg2OThl`
+Snapshot ID: `MTY4MTQ2ODkyOSwwMDAwMDAwMDM3MzlkMDg4YmI2ZWUyNWY4MDJiNWRkYTc2MGE1MzA0`

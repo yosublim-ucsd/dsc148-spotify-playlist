@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > Japanese female rock icons\. 国内ロックシーンで活躍する女性アーティストたちを特集。Cover: アイナ・ジ・エンド \(AiNA THE END\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,478 likes - 70 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,514 likes - 70 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,31 +52,31 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 42 | [Dramatic](https://open.spotify.com/track/3pT5vtG177l2jrxpPy76jB) | [MASS OF THE FERMENTING DREGS](https://open.spotify.com/artist/14d5KCX9nprUcxnKIShrr1) | [Awakening:Sleeping](https://open.spotify.com/album/3CtgykVNQgaZ42o6f89PQy) | 3:47 |
 | 43 | [Kodoku](https://open.spotify.com/track/74dY9HrENvoHvb1xLxyVqo) | [アカネサス](https://open.spotify.com/artist/7E61BhEMgngwg7EPgS17vl) | [Now I'm 19](https://open.spotify.com/album/5lDYiJtHTX3jsHR7rMJCpX) | 2:59 |
 | 44 | [Divine Attack \- Shingeki \-](https://open.spotify.com/track/77rj86ejZIot8ctbOFIBz5) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 3:38 |
-| 45 | [二人の答え](https://open.spotify.com/track/0BcAenJKFywFoN2iStmt33) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM), [クボタカイ](https://open.spotify.com/artist/0eg7sMst2b9wLVyMgtRFpY) | [日々は季節をめくって](https://open.spotify.com/album/2tPoolR1yMJTg72mRl1WD6) | 4:17 |
-| 46 | [生活](https://open.spotify.com/track/1TAF4rJSiwHVCw7usEp7ae) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [生活](https://open.spotify.com/album/4z9GVOoie1BZseiBIXKbnc) | 4:39 |
+| 45 | [生活](https://open.spotify.com/track/1TAF4rJSiwHVCw7usEp7ae) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [生活](https://open.spotify.com/album/4z9GVOoie1BZseiBIXKbnc) | 4:39 |
+| 46 | [二人の答え](https://open.spotify.com/track/0BcAenJKFywFoN2iStmt33) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM), [クボタカイ](https://open.spotify.com/artist/0eg7sMst2b9wLVyMgtRFpY) | [日々は季節をめくって](https://open.spotify.com/album/2tPoolR1yMJTg72mRl1WD6) | 4:17 |
 | 47 | [Futaba](https://open.spotify.com/track/1orwxUzvNOgv02NwPORbS4) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Falling into your eyes Record](https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz) | 4:37 |
-| 48 | [恋する \- 10YEARS THANK YOU](https://open.spotify.com/track/0vbLzWi64zpd3bEHaETY9D) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [恋する \(10YEARS THANK YOU\)](https://open.spotify.com/album/5xJYHjTq2m8BkRvi5JDBgo) | 6:09 |
-| 49 | [SPARK](https://open.spotify.com/track/3m0WWZ39p9t3DSgr3MqRyK) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [Bye\-Bye Show](https://open.spotify.com/album/1m85FhfhwsxWNmE27G2a69) | 4:08 |
+| 48 | [SPARK](https://open.spotify.com/track/3m0WWZ39p9t3DSgr3MqRyK) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [Bye\-Bye Show](https://open.spotify.com/album/1m85FhfhwsxWNmE27G2a69) | 4:08 |
+| 49 | [恋する \- 10YEARS THANK YOU](https://open.spotify.com/track/0vbLzWi64zpd3bEHaETY9D) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [恋する \(10YEARS THANK YOU\)](https://open.spotify.com/album/5xJYHjTq2m8BkRvi5JDBgo) | 6:09 |
 | 50 | [夢をみせて](https://open.spotify.com/track/6Xl3ty4oPbccRS9ehumXID) | [Cö Shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [夢をみせて](https://open.spotify.com/album/1PuFtFOnOSXNOHkKJkYcWm) | 5:24 |
 | 51 | [Memorable](https://open.spotify.com/track/5RjEJEBvz2WmO7vmfk07aR) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Memorable](https://open.spotify.com/album/2Cz21KfjA5eGgvS7262T4o) | 3:13 |
 | 52 | [空蒼いまま](https://open.spotify.com/track/67dcfh84CB6AoYHMJbmraB) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [空蒼いまま](https://open.spotify.com/album/07MGDYIEIH5d7lPWuUyHmR) | 4:41 |
 | 53 | [私生活 \- 新訳版](https://open.spotify.com/track/0VNPsx1SsHyJCyvNwSYTHo) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [私生活 \(新訳版\)](https://open.spotify.com/album/2SOjoKF4ZeCGlEYU9osbWA) | 3:38 |
 | 54 | [Light and Darkness](https://open.spotify.com/track/12dYN0rS95O37qxZh3pOLV) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 4:04 |
 | 55 | [Never Let You Go](https://open.spotify.com/track/4eehPzTBl5UaENQi04Yzgc) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [SHUNKA RYOUGEN](https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60) | 4:16 |
-| 56 | [ハイキ](https://open.spotify.com/track/571OuDNbmwsysH42KfVp5P) | [Regal Lily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [ハイキ](https://open.spotify.com/album/4RCWq7krRO3AVFj8fvWhYs) | 3:35 |
-| 57 | [君と夏フェス](https://open.spotify.com/track/2nSJH1z0BScpVsTP7EFtX7) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [恋を知っているすべてのあなたへ](https://open.spotify.com/album/6KE5rQedfMgEGFShffAQDd) | 3:45 |
+| 56 | [君と夏フェス](https://open.spotify.com/track/2nSJH1z0BScpVsTP7EFtX7) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [恋を知っているすべてのあなたへ](https://open.spotify.com/album/6KE5rQedfMgEGFShffAQDd) | 3:45 |
+| 57 | [ハイキ](https://open.spotify.com/track/571OuDNbmwsysH42KfVp5P) | [Regal Lily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [ハイキ](https://open.spotify.com/album/4RCWq7krRO3AVFj8fvWhYs) | 3:35 |
 | 58 | [雪冴ゆる](https://open.spotify.com/track/1DgAZpPIhvajIJhztp4fFx) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [雪冴ゆる](https://open.spotify.com/album/3TJcG4XO36lO41bWnPp0L8) | 4:00 |
 | 59 | [I was...](https://open.spotify.com/track/6UCGqwTZ85Fm7wlgMjn6Er) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [I was...](https://open.spotify.com/album/3n1foH2tPnogPeYPafLeCY) | 3:03 |
 | 60 | [lemonade](https://open.spotify.com/track/0GndrRspootOgtpvqcZDpp) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [d a n c i n g a l o n e](https://open.spotify.com/album/0mNqcoC2Tj16oiP4PL7xeN) | 3:06 |
-| 61 | [夜啼鶯](https://open.spotify.com/track/5xGnQbGzev2iqqBFVoDzlg) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [十二次元](https://open.spotify.com/album/54OOd6x03hdIYeHWYajNyP) | 2:18 |
-| 62 | [Sing The Moon](https://open.spotify.com/track/5aDVNw5prQNcjWF02jhxmo) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [Sing The Moon](https://open.spotify.com/album/5J5JoAGR9Ui790ti2gDNiO) | 3:26 |
+| 61 | [Sing The Moon](https://open.spotify.com/track/5aDVNw5prQNcjWF02jhxmo) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [Sing The Moon](https://open.spotify.com/album/5J5JoAGR9Ui790ti2gDNiO) | 3:26 |
+| 62 | [夜啼鶯](https://open.spotify.com/track/5xGnQbGzev2iqqBFVoDzlg) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [十二次元](https://open.spotify.com/album/54OOd6x03hdIYeHWYajNyP) | 2:18 |
 | 63 | [超最悪](https://open.spotify.com/track/4yxY92AAlRIlu22ZNjUaVo) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB) | [超最悪](https://open.spotify.com/album/7g1qyIxwtT6TmuHlu5mhcK) | 2:58 |
-| 64 | [Line](https://open.spotify.com/track/5ySQdNH0V0xQB7N3LmjtAt) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Around Dusk](https://open.spotify.com/album/2ROkLQv3yr62pu56JjM483) | 3:01 |
-| 65 | [風になれ \(cover ver.\)](https://open.spotify.com/track/4OQJYn73HxvQFQw9HgR50e) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [風になれ \(cover ver.\)](https://open.spotify.com/album/76uNTXz2UEwwkdNMfGs8Py) | 3:06 |
-| 66 | [NEW ME](https://open.spotify.com/track/0essQdYYWaolOQq1MfVZ2o) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [NEW ME](https://open.spotify.com/album/1XhChLG0SmRFUKRvfws0JU) | 4:21 |
-| 67 | [Radio song](https://open.spotify.com/track/6EzqEvGM8W0ipnjRkxM43X) | [LOVE PSYCHEDELICO](https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp) | [A revolution](https://open.spotify.com/album/4hQR4egbzyjzu0MchDMZAD) | 4:00 |
-| 68 | [春](https://open.spotify.com/track/1EKokC3pWxtL2t1Y2AEol6) | [Sundae May Club](https://open.spotify.com/artist/75EyBBrypGbb1fNT8dagLM) | [春/POOL](https://open.spotify.com/album/45e8d35oEPGtFu58TwDSTx) | 2:54 |
+| 64 | [JANAINDAYO](https://open.spotify.com/track/2VkHraJTHR6Uk29LTJ2DoQ) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ICHIJIKIKOKU](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) | 2:59 |
+| 65 | [Line](https://open.spotify.com/track/5ySQdNH0V0xQB7N3LmjtAt) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Around Dusk](https://open.spotify.com/album/2ROkLQv3yr62pu56JjM483) | 3:01 |
+| 66 | [風になれ \(cover ver.\)](https://open.spotify.com/track/4OQJYn73HxvQFQw9HgR50e) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [風になれ \(cover ver.\)](https://open.spotify.com/album/76uNTXz2UEwwkdNMfGs8Py) | 3:06 |
+| 67 | [NEW ME](https://open.spotify.com/track/0essQdYYWaolOQq1MfVZ2o) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [NEW ME](https://open.spotify.com/album/1XhChLG0SmRFUKRvfws0JU) | 4:21 |
+| 68 | [Radio song](https://open.spotify.com/track/6EzqEvGM8W0ipnjRkxM43X) | [LOVE PSYCHEDELICO](https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp) | [A revolution](https://open.spotify.com/album/4hQR4egbzyjzu0MchDMZAD) | 4:00 |
 | 69 | [油](https://open.spotify.com/track/1ldQWi4dvIiV8ostfEo8vS) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [油](https://open.spotify.com/album/04KuLUg49thH8DEsSkelsB) | 3:11 |
 | 70 | [School](https://open.spotify.com/track/4aFusxXDOfQyzSKlC2fg5b) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Chilli Beans.](https://open.spotify.com/album/4eAn8XoBrzPRhzNGTctv4O) | 3:50 |
 
-Snapshot ID: `MTY4MTM5ODAwMCwwMDAwMDAwMGViYmU1ZTNhYzliYzkzYmU0ZmViMThkZmI2YWIyZWRk`
+Snapshot ID: `MTY4MTM5ODAwMCwwMDAwMDAwMGI0MzA1NDI1MDIwMWI4MTc1NWIyNDI1ODk5ZWNkN2Vm`

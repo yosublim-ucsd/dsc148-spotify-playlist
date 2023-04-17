@@ -1,12 +1,12 @@
 {
   "description": "Grandes temas del rock de ayer y de hoy.",
-  "num_followers": 771968,
+  "num_followers": 772008,
   "original_name": "Radio Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjMyMzAzMiwwMDAwMDAwMDJiN2U5NzY2MDE1NDNkYWQ1MjVhZWVhYzA5MzU2N2Uy",
+  "snapshot_id": "MTY3NjMyMzAzMiwwMDAwMDAwMDg0ZmEyYzllNDE3MTBkZDcxZjY3YjZiYWEzNzVjZmYy",
   "tracks": [
     {
       "added_at": "2023-02-13 21:17:12",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-02-13 21:17:12",
       "album": {
-        "name": "Blur (Special Edition)",
-        "url": "https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 121160,
-      "name": "Song 2 - 2012 Remaster",
-      "url": "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM"
-    },
-    {
-      "added_at": "2023-02-13 21:17:12",
-      "album": {
         "name": "Urban Hymns (Remastered 2016)",
         "url": "https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 357266,
       "name": "Bitter Sweet Symphony",
       "url": "https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw"
+    },
+    {
+      "added_at": "2023-02-13 21:17:12",
+      "album": {
+        "name": "Blur (Special Edition)",
+        "url": "https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 121160,
+      "name": "Song 2 - 2012 Remaster",
+      "url": "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM"
     },
     {
       "added_at": "2023-02-13 21:17:12",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-02-13 21:17:12",
       "album": {
-        "name": "Echoes, Silence, Patience & Grace",
-        "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 269373,
-      "name": "The Pretender",
-      "url": "https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34"
-    },
-    {
-      "added_at": "2023-02-13 21:17:12",
-      "album": {
         "name": "Weezer",
         "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 200306,
       "name": "Island In The Sun",
       "url": "https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw"
+    },
+    {
+      "added_at": "2023-02-13 21:17:12",
+      "album": {
+        "name": "Echoes, Silence, Patience & Grace",
+        "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 269373,
+      "name": "The Pretender",
+      "url": "https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34"
     },
     {
       "added_at": "2023-02-13 21:17:12",
@@ -427,6 +427,22 @@
     {
       "added_at": "2023-02-13 21:17:12",
       "album": {
+        "name": "There Is Nothing Left To Lose",
+        "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 235293,
+      "name": "Learn to Fly",
+      "url": "https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT"
+    },
+    {
+      "added_at": "2023-02-13 21:17:12",
+      "album": {
         "name": "Get Born",
         "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
       },
@@ -475,22 +491,6 @@
     {
       "added_at": "2023-02-13 21:17:12",
       "album": {
-        "name": "There Is Nothing Left To Lose",
-        "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 235293,
-      "name": "Learn to Fly",
-      "url": "https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT"
-    },
-    {
-      "added_at": "2023-02-13 21:17:12",
-      "album": {
         "name": "Led Zeppelin II (1994 Remaster)",
         "url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx"
       },
@@ -535,6 +535,22 @@
       "duration_ms": 219826,
       "name": "Reptilia",
       "url": "https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA"
+    },
+    {
+      "added_at": "2023-02-13 21:17:12",
+      "album": {
+        "name": "In Your Honor",
+        "url": "https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 255626,
+      "name": "Best of You",
+      "url": "https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp"
     },
     {
       "added_at": "2023-02-13 21:17:12",
@@ -635,22 +651,6 @@
     {
       "added_at": "2023-02-13 21:17:12",
       "album": {
-        "name": "In Your Honor",
-        "url": "https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 255626,
-      "name": "Best of You",
-      "url": "https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp"
-    },
-    {
-      "added_at": "2023-02-13 21:17:12",
-      "album": {
         "name": "Rebel Yell",
         "url": "https://open.spotify.com/album/2FZNWUmgRoP8uJZBaHJdfj"
       },
@@ -663,22 +663,6 @@
       "duration_ms": 288533,
       "name": "Rebel Yell",
       "url": "https://open.spotify.com/track/4TIJ7zSBNejpoIPaWpWRKc"
-    },
-    {
-      "added_at": "2023-02-13 21:17:12",
-      "album": {
-        "name": "Purple (2019 Remaster)",
-        "url": "https://open.spotify.com/album/57lcTrUlYgfMIPvBUsVU6h"
-      },
-      "artists": [
-        {
-          "name": "Stone Temple Pilots",
-          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
-        }
-      ],
-      "duration_ms": 194853,
-      "name": "Interstate Love Song - 2019 Remaster",
-      "url": "https://open.spotify.com/track/6qLEOZvf5gI7kWE63JE7p3"
     },
     {
       "added_at": "2023-02-13 21:17:12",
@@ -699,6 +683,22 @@
     {
       "added_at": "2023-02-13 21:17:12",
       "album": {
+        "name": "Purple (2019 Remaster)",
+        "url": "https://open.spotify.com/album/57lcTrUlYgfMIPvBUsVU6h"
+      },
+      "artists": [
+        {
+          "name": "Stone Temple Pilots",
+          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
+        }
+      ],
+      "duration_ms": 194853,
+      "name": "Interstate Love Song - 2019 Remaster",
+      "url": "https://open.spotify.com/track/6qLEOZvf5gI7kWE63JE7p3"
+    },
+    {
+      "added_at": "2023-02-13 21:17:12",
+      "album": {
         "name": "Beggars Banquet (50th Anniversary Edition)",
         "url": "https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd"
       },
@@ -711,6 +711,22 @@
       "duration_ms": 378146,
       "name": "Sympathy For The Devil - 50th Anniversary Edition",
       "url": "https://open.spotify.com/track/1Ud6moTC0KyXMq1Oxfien0"
+    },
+    {
+      "added_at": "2023-02-13 21:17:12",
+      "album": {
+        "name": "One By One (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 263440,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6"
     },
     {
       "added_at": "2023-02-13 21:17:12",
@@ -791,22 +807,6 @@
       "duration_ms": 274746,
       "name": "Rebel Rebel - 2016 Remaster",
       "url": "https://open.spotify.com/track/2EC9IJj7g0mN1Q5VrZkiYY"
-    },
-    {
-      "added_at": "2023-02-13 21:17:12",
-      "album": {
-        "name": "One By One (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 263440,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6"
     }
   ],
   "unique_name": "Radio Rock",

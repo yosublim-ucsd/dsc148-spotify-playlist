@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-217 songs - 13 hr 33 min
+218 songs - 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Can I Call You Rose?](https://open.spotify.com/track/7wnj1zRcZVlPNJ58shwl7h) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma) | 3:10 | 2022-08-26 |  |
 | [Can We Be Friends?](https://open.spotify.com/track/0dQ5ByUHcI2ngYfUhCqNLP) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Can We Be Friends?](https://open.spotify.com/album/5HqBHeAw3CNbWqu4U3aw6o) | 2:56 | 2021-12-03 | 2022-07-29 |
 | [Can We Be Friends?](https://open.spotify.com/track/0dSUVLUIEtbKdbpq39qPI8) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Sis\. He Wasn't the One](https://open.spotify.com/album/4qffm0dKWKgFOP3Wwfghq1) | 2:56 | 2022-03-11 | 2022-08-27 |
+| [Can't Go \(feat\. Phoelix\)](https://open.spotify.com/track/0TuuzZDwssPfVQvgubXsYV) | [Dinner Party](https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU), [Phoelix](https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0) | [Enigmatic Society](https://open.spotify.com/album/57O5Ll1mLkLQgSeOCayVCe) | 2:44 | 2023-04-14 |  |
 | [Changed](https://open.spotify.com/track/3DU1AMXRg8IkrvAMg6odMt) | [Tamar Braxton](https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS) | [Changed](https://open.spotify.com/album/1VegKoKvndG9a3jhnseFTD) | 3:15 | 2023-03-31 |  |
 | [Choose You](https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [EL\-MEAN](https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J) | 4:11 | 2023-03-10 |  |
 | [Close Your Eyes](https://open.spotify.com/track/20LWQNq7yaMPDhkZsRCoMk) | [Black Atlass](https://open.spotify.com/artist/7AbKOHOvn27dK0FOiboAno) | [Dream Awake](https://open.spotify.com/album/0dwlqqTeFovdI0oMN4dfYQ) | 3:23 | 2022-03-11 | 2022-09-10 |
@@ -184,7 +185,7 @@
 | [Stay](https://open.spotify.com/track/067TB7SiK4ZRF5hURd2sJh) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu) | [Blue](https://open.spotify.com/album/3jsEUHsf88LQ49JgTq5AHH) | 4:30 | 2022-10-21 |  |
 | [Stay Where You Are](https://open.spotify.com/track/68GFZFc2Fa5HLdv6TXziSD) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Stay Where You Are](https://open.spotify.com/album/1Mun53MZEPEfXJpHbCArDJ) | 3:29 | 2022-03-11 | 2023-04-02 |
 | [STEREO DRIVER](https://open.spotify.com/track/1yGzzCuLd5vH5gSb1Ii6jU) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [STEREO DRIVER](https://open.spotify.com/album/0chstf8JqlFUYvI0F7gogH) | 3:51 | 2022-09-23 |  |
-| [STILL HAVE YOU](https://open.spotify.com/track/3LZ8BWLWzzNhub4LR0fQ1Z) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [STILL HAVE YOU](https://open.spotify.com/album/4DQBCDttZkfo2p5Fz0N9fX) | 2:22 | 2023-02-24 |  |
+| [STILL HAVE YOU](https://open.spotify.com/track/3LZ8BWLWzzNhub4LR0fQ1Z) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [STILL HAVE YOU](https://open.spotify.com/album/4DQBCDttZkfo2p5Fz0N9fX) | 2:22 | 2023-02-24 | 2023-04-17 |
 | [Stolen Fruit](https://open.spotify.com/track/5hax6joZydQKWNE55uQAgF) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [Stolen Fruit](https://open.spotify.com/album/7lz4nwWwfRplCq1ts5NmVv) | 3:37 | 2022-02-25 | 2022-09-19 |
 | [Strength, Courage, and Wisdom \- India Arie](https://open.spotify.com/track/5yTu3MMxAPOUQzfR13mxI3) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Muzik of the Mind and Spirit \- a Concept Compilation](https://open.spotify.com/album/7ermETX1IloxCO80fX1poy) | 5:01 | 2022-03-11 | 2022-10-15 |
 | [summer night o8](https://open.spotify.com/track/2yrhCmYZKJHpOFk8OW2rjU) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [summer night o8](https://open.spotify.com/album/38xjiy0KkjzCzz7P9WJHAw) | 3:23 | 2021-12-03 | 2022-09-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 
 > New music and recent favorites from rising and iconic songsmiths and storytellers\. Cover: Jake Blount
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,911 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,954 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 | 47 | [Love and Chains](https://open.spotify.com/track/0nGmvNB4K3bSexD4xNaFgZ) | [Viv & Riley](https://open.spotify.com/artist/02eGekE35DrC5E0qH4kh3H) | [Love and Chains](https://open.spotify.com/album/4lvDFolhKDR42KqeDPPBvT) | 3:37 |
 | 48 | [Millennial](https://open.spotify.com/track/0UVjJZjlZiOB9pVd9wWABs) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Transcendence](https://open.spotify.com/album/4pJ1cAVfgvAIJLWLO0zpuQ) | 2:53 |
 | 49 | [Nightflyer](https://open.spotify.com/track/2Y6JBUc0T7EW2VAA1p9acN) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Nightflyer](https://open.spotify.com/album/0eINi61xfEo3l5Eeztkrzx) | 4:55 |
-| 50 | [Phoenix](https://open.spotify.com/track/2xtgvbuwqBgjI89UmCHApY) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Phoenix](https://open.spotify.com/album/2coGGOjBDPEts7MCgAxrsj) | 3:30 |
-| 51 | [Don't Let Me Disappear](https://open.spotify.com/track/1StMd0fcQFpwrkYTJuHj8z) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Don't Let Me Disappear](https://open.spotify.com/album/3Oliq76kwRgabXMJOtuUz7) | 4:24 |
+| 50 | [Don't Let Me Disappear](https://open.spotify.com/track/1StMd0fcQFpwrkYTJuHj8z) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Don't Let Me Disappear](https://open.spotify.com/album/3Oliq76kwRgabXMJOtuUz7) | 4:24 |
+| 51 | [Phoenix](https://open.spotify.com/track/2xtgvbuwqBgjI89UmCHApY) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Phoenix](https://open.spotify.com/album/2coGGOjBDPEts7MCgAxrsj) | 3:30 |
 | 52 | [Sammi's Song](https://open.spotify.com/track/5yxGc3FatVpON8FM0lpIJU) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [You, Yeah, You](https://open.spotify.com/album/2iAobQN7dau5q1S83OXrvY) | 1:59 |
 | 53 | [Endless Running Out of Time](https://open.spotify.com/track/5tFzdiTH94JMk66e7tDh01) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [Quicksand EP](https://open.spotify.com/album/6EEjDp42XbAqZBSVFPBSiK) | 3:58 |
 | 54 | [Medicine Woman](https://open.spotify.com/track/3S9rZU1GDPhs8WNDv5HQSs) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Goin' Platinum!](https://open.spotify.com/album/6M5DQTTp3zGaWOH6hXsYJV) | 2:37 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 | 71 | [Trouble so Hard](https://open.spotify.com/track/2natNmtgiB8GyASSHKdNA7) | [Amythyst Kiah & Her Chest of Glass](https://open.spotify.com/artist/03l8MKqtSTRh6MaKr0m4aQ) | [Amythyst Kiah and Her Chest of Glass](https://open.spotify.com/album/79JTpqZ22lkjS9g9VblMI5) | 6:02 |
 | 72 | [You And I](https://open.spotify.com/track/2KY7UK4IBIXjUya41cMnYl) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:39 |
 | 73 | [Freedom](https://open.spotify.com/track/1tqWLHz5zbLBw0YT7uBehE) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Natural Conclusion](https://open.spotify.com/album/7vwzdcbSG3qsUBIJ3aVNqi) | 4:28 |
-| 74 | [Tehachapi](https://open.spotify.com/track/5jAwx5j4pI1iy9cm1ZmwM4) | [Margo Cilker](https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7) | [Pohorylle](https://open.spotify.com/album/5fqxOeUUV2uv4cJ1VltThR) | 3:07 |
-| 75 | [Too Late to Write a Love Song](https://open.spotify.com/track/0waQPHO2e0G3NK8QtOBM1b) | [Riddy Arman](https://open.spotify.com/artist/0h1dIjLACuc4yDLePjLT42) | [Riddy Arman](https://open.spotify.com/album/2WtTw0kbBBF9tSLXajwney) | 3:14 |
+| 74 | [Too Late to Write a Love Song](https://open.spotify.com/track/0waQPHO2e0G3NK8QtOBM1b) | [Riddy Arman](https://open.spotify.com/artist/0h1dIjLACuc4yDLePjLT42) | [Riddy Arman](https://open.spotify.com/album/2WtTw0kbBBF9tSLXajwney) | 3:14 |
+| 75 | [Tehachapi](https://open.spotify.com/track/5jAwx5j4pI1iy9cm1ZmwM4) | [Margo Cilker](https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7) | [Pohorylle](https://open.spotify.com/album/5fqxOeUUV2uv4cJ1VltThR) | 3:07 |
 | 76 | [The Parting Glass \(feat\. Darlingside\)](https://open.spotify.com/track/5AylUadxwKFO7wY5jPJg4K) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [The Parting Glass \(feat\. Darlingside\)](https://open.spotify.com/album/0JOGoPvCo7Buduf0xIq01q) | 2:51 |
 | 77 | [At the Purchaser's Option](https://open.spotify.com/track/5RmAtT0VaKttU0Eybo6ZWA) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [Freedom Highway](https://open.spotify.com/album/1CVuPxNHwY5ORJ8MhjD0UB) | 4:16 |
 | 78 | [Workin' Woman Blues](https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 3:05 |
@@ -96,12 +96,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 | 86 | [Stuck In The South](https://open.spotify.com/track/7gCQxWpBtMg2tpEdqGUQa8) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Beyond The Bloodhounds](https://open.spotify.com/album/3N5acrSXdpjx4GBwvvHQv8) | 3:07 |
 | 87 | [History Repeats](https://open.spotify.com/track/11rbkohh9XgnWneGQwROb7) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR) | 3:04 |
 | 88 | [Black Sun](https://open.spotify.com/track/63UtBlg0KZZYueVi6r8DQp) | [Irma](https://open.spotify.com/artist/7KTLYKJhcUOMgNgayxBj9f) | [Black Sun](https://open.spotify.com/album/6b7USoPQHOlfaelSrPPVo9) | 3:26 |
-| 89 | [Blue Heron](https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Blue Heron Suite](https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV) | 4:28 |
-| 90 | [Learnin' to Drown](https://open.spotify.com/track/0jdXNwaLrxoY8n4LHLeBKX) | [Vincent Neil Emerson](https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC) | [Vincent Neil Emerson](https://open.spotify.com/album/17Ez3EXApQUrtqojPQvX6x) | 4:53 |
+| 89 | [Learnin' to Drown](https://open.spotify.com/track/0jdXNwaLrxoY8n4LHLeBKX) | [Vincent Neil Emerson](https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC) | [Vincent Neil Emerson](https://open.spotify.com/album/17Ez3EXApQUrtqojPQvX6x) | 4:53 |
+| 90 | [Blue Heron](https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Blue Heron Suite](https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV) | 4:28 |
 | 91 | [Arkansas](https://open.spotify.com/track/4ZeDbi7KX58LMVhLLA6hmA) | [John Oates](https://open.spotify.com/artist/4TjR4K8rD5CqqqU59V6aGr) | [Arkansas](https://open.spotify.com/album/6p5HjGdps9cbPUURfPeWdf) | 4:20 |
 | 92 | [Money Is King](https://open.spotify.com/track/0dOMCLcbrTbcqmIHsP3FW3) | [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y) | [The Capitalist Blues](https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ) | 2:54 |
-| 93 | [Saint Elizabeth](https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Nine Pin](https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs) | 3:59 |
-| 94 | [Indigo](https://open.spotify.com/track/4dEShdbZOn5qXWXQbUyGh9) | [Katherine Priddy](https://open.spotify.com/artist/102dPAntS5rtgPwkSZPB41) | [The Eternal Rocks Beneath](https://open.spotify.com/album/75Q8BLDuURslpcTthbAcsS) | 4:14 |
+| 93 | [Indigo](https://open.spotify.com/track/4dEShdbZOn5qXWXQbUyGh9) | [Katherine Priddy](https://open.spotify.com/artist/102dPAntS5rtgPwkSZPB41) | [The Eternal Rocks Beneath](https://open.spotify.com/album/75Q8BLDuURslpcTthbAcsS) | 4:14 |
+| 94 | [Saint Elizabeth](https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Nine Pin](https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs) | 3:59 |
 | 95 | [BAD DESIRE](https://open.spotify.com/track/61LLFpdZSENbZZIUQhXPcr) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [WHITE NOISE](https://open.spotify.com/album/5WaysJDadbTMvfJLBbuw8b) | 4:13 |
 | 96 | [If I Could Only Fly](https://open.spotify.com/track/2kIvpCKWEWJnIi5oyU6gXK) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU), [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [If I Could Only Fly / True Love's Flame](https://open.spotify.com/album/2sEZEjF8TlYtIc9JM0j5Di) | 4:29 |
 | 97 | [Walk Into a Storm](https://open.spotify.com/track/7hL9BH60dGwbxC0Q2D1zJ4) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Walk Into a Storm](https://open.spotify.com/album/33pifMgAr6MdQkAodTFYBp) | 5:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 | 99 | [Quasheba, Quasheba](https://open.spotify.com/track/1Ksgx6hc1sXyIWmUMa2wKJ) | [Our Native Daughters](https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW), [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Songs of Our Native Daughters](https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A) | 4:42 |
 | 100 | [Walk Through Fire](https://open.spotify.com/track/3IvY3M6RYfVWTquUxrBudU) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Walk Through Fire \(Deluxe Edition\)](https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL) | 3:47 |
 
-Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMDI4NTk0ZGQ4Yjc3ODJlYTBjMDk5MWRjNzQ2ZGUxNzll`
+Snapshot ID: `MTY2NTcyMDAwMCwwMDAwMDAwMDg4ZDczNTE1YTg2ZTU4OWM1MGYwYTlkMWI2NTYzZDBj`

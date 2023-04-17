@@ -1,12 +1,12 @@
 {
   "description": "\u5373\u8208\u800c\u81ea\u5728\u3001\u512a\u96c5\u800c\u8212\u7de9\uff0c\u9019\u5f62\u5bb9\u662f\u4e0d\u662f\u50cf\u500b\u597d\u5922\u7684\u611f\u89ba\u5462\uff1f\u5c31\u8b93\u7f8e\u5999\u7684\u7235\u58eb\u6a02\u52a9\u4f60\u5165\u7720\u5427\uff01",
-  "num_followers": 56264,
+  "num_followers": 56276,
   "original_name": "\u50ac\u7720\u7235\u58eb",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTEwMzMwMywwMDAwMDAwMGJlYjJiYTRkMWZiMGNmM2M4ZDk0NjAyYmU5MTU5ZjA2",
+  "snapshot_id": "MTY4MTEwMzMwMywwMDAwMDAwMGNiNmYxMjg5ZDUwZmQ4NDMzZDFmNzRhZmE4OWE2OWVi",
   "tracks": [
     {
       "added_at": "2023-04-10 05:08:23",
@@ -87,6 +87,22 @@
     {
       "added_at": "2023-04-10 05:08:23",
       "album": {
+        "name": "Today And Tomorrow",
+        "url": "https://open.spotify.com/album/6MinQE3GG7Xb9GWrOoAWEz"
+      },
+      "artists": [
+        {
+          "name": "McCoy Tyner",
+          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+        }
+      ],
+      "duration_ms": 282320,
+      "name": "When Sunny Gets Blue",
+      "url": "https://open.spotify.com/track/1J9iVCaEriyoMXpj2XszhU"
+    },
+    {
+      "added_at": "2023-04-10 05:08:23",
+      "album": {
         "name": "The President Plays With The Oscar Peterson Trio",
         "url": "https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 205666,
       "name": "There Will Never Be Another You",
       "url": "https://open.spotify.com/track/6oSm3mBWFxJHEnjE2IqhmA"
-    },
-    {
-      "added_at": "2023-04-10 05:08:23",
-      "album": {
-        "name": "Today And Tomorrow",
-        "url": "https://open.spotify.com/album/6MinQE3GG7Xb9GWrOoAWEz"
-      },
-      "artists": [
-        {
-          "name": "McCoy Tyner",
-          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
-        }
-      ],
-      "duration_ms": 282320,
-      "name": "When Sunny Gets Blue",
-      "url": "https://open.spotify.com/track/1J9iVCaEriyoMXpj2XszhU"
     },
     {
       "added_at": "2023-04-10 05:08:23",
@@ -431,6 +431,22 @@
     {
       "added_at": "2023-04-10 05:08:23",
       "album": {
+        "name": "From Gagarin's Point of View",
+        "url": "https://open.spotify.com/album/4jM7MG25QkVfp0SSkQ6138"
+      },
+      "artists": [
+        {
+          "name": "Esbj\u00f6rn Svensson Trio",
+          "url": "https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk"
+        }
+      ],
+      "duration_ms": 243333,
+      "name": "From Gagarin's Point of View",
+      "url": "https://open.spotify.com/track/4JWfPMjVEh4SusNs8V3gt5"
+    },
+    {
+      "added_at": "2023-04-10 05:08:23",
+      "album": {
         "name": "Tranquillo II",
         "url": "https://open.spotify.com/album/0YijaagftFAOjGIfwFwji3"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 212640,
       "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano & Bass)",
       "url": "https://open.spotify.com/track/45QVpFPpNOYMXDbbEeZ39X"
-    },
-    {
-      "added_at": "2023-04-10 05:08:23",
-      "album": {
-        "name": "From Gagarin's Point of View",
-        "url": "https://open.spotify.com/album/4jM7MG25QkVfp0SSkQ6138"
-      },
-      "artists": [
-        {
-          "name": "Esbj\u00f6rn Svensson Trio",
-          "url": "https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk"
-        }
-      ],
-      "duration_ms": 243333,
-      "name": "From Gagarin's Point of View",
-      "url": "https://open.spotify.com/track/4JWfPMjVEh4SusNs8V3gt5"
     },
     {
       "added_at": "2023-04-10 05:08:23",
@@ -859,38 +859,6 @@
     {
       "added_at": "2023-04-10 05:08:23",
       "album": {
-        "name": "Slow Love",
-        "url": "https://open.spotify.com/album/79KUKKwWpL2UZ7HmAMiZIE"
-      },
-      "artists": [
-        {
-          "name": "Capricorn",
-          "url": "https://open.spotify.com/artist/1QS2jqjyvvulJg7jOIFxDe"
-        }
-      ],
-      "duration_ms": 231933,
-      "name": "Moody Caf\u00e9",
-      "url": "https://open.spotify.com/track/6uCvwPPCSBVS95TmcB9cTj"
-    },
-    {
-      "added_at": "2023-04-10 05:08:23",
-      "album": {
-        "name": "Presenting Ray Bryant",
-        "url": "https://open.spotify.com/album/4hoqZsjtH7nMw3KO3tbPwq"
-      },
-      "artists": [
-        {
-          "name": "Ray Bryant",
-          "url": "https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR"
-        }
-      ],
-      "duration_ms": 206053,
-      "name": "A Hundred Dreams from Now",
-      "url": "https://open.spotify.com/track/0VIr8A09UYvMTrGw0Um7op"
-    },
-    {
-      "added_at": "2023-04-10 05:08:23",
-      "album": {
         "name": "Undercurrent",
         "url": "https://open.spotify.com/album/3b2s2A8DPISbaQNxhrEsGQ"
       },
@@ -911,6 +879,38 @@
     {
       "added_at": "2023-04-10 05:08:23",
       "album": {
+        "name": "Presenting Ray Bryant",
+        "url": "https://open.spotify.com/album/4hoqZsjtH7nMw3KO3tbPwq"
+      },
+      "artists": [
+        {
+          "name": "Ray Bryant",
+          "url": "https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR"
+        }
+      ],
+      "duration_ms": 206053,
+      "name": "A Hundred Dreams from Now",
+      "url": "https://open.spotify.com/track/0VIr8A09UYvMTrGw0Um7op"
+    },
+    {
+      "added_at": "2023-04-10 05:08:23",
+      "album": {
+        "name": "Slow Love",
+        "url": "https://open.spotify.com/album/79KUKKwWpL2UZ7HmAMiZIE"
+      },
+      "artists": [
+        {
+          "name": "Capricorn",
+          "url": "https://open.spotify.com/artist/1QS2jqjyvvulJg7jOIFxDe"
+        }
+      ],
+      "duration_ms": 231933,
+      "name": "Moody Caf\u00e9",
+      "url": "https://open.spotify.com/track/6uCvwPPCSBVS95TmcB9cTj"
+    },
+    {
+      "added_at": "2023-04-10 05:08:23",
+      "album": {
         "name": "Remembering Billie",
         "url": "https://open.spotify.com/album/2gnDlzECePgE9e07pihbYd"
       },
@@ -923,6 +923,38 @@
       "duration_ms": 322133,
       "name": "Good Morning Heartache",
       "url": "https://open.spotify.com/track/14aFuIi1l2arBrZfBv9fBP"
+    },
+    {
+      "added_at": "2023-04-10 05:08:23",
+      "album": {
+        "name": "Time Out",
+        "url": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
+      },
+      "artists": [
+        {
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        }
+      ],
+      "duration_ms": 442226,
+      "name": "Strange Meadow Lark",
+      "url": "https://open.spotify.com/track/6HvyFdP5JrCQdmxq2qi7MC"
+    },
+    {
+      "added_at": "2023-04-10 05:08:23",
+      "album": {
+        "name": "The Body & The Soul",
+        "url": "https://open.spotify.com/album/4HI73mieaBFtwKS37HmvQH"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "duration_ms": 202773,
+      "name": "Dedicated To You",
+      "url": "https://open.spotify.com/track/7Codqj9B5oMniYPUhfv26I"
     },
     {
       "added_at": "2023-04-10 05:08:23",
@@ -959,6 +991,22 @@
     {
       "added_at": "2023-04-10 05:08:23",
       "album": {
+        "name": "Be Cool",
+        "url": "https://open.spotify.com/album/1mZiyKK7JnEeisBpPWvk7D"
+      },
+      "artists": [
+        {
+          "name": "Eddie Henderson",
+          "url": "https://open.spotify.com/artist/4LMsUGCTzMsLYcL90zb8sF"
+        }
+      ],
+      "duration_ms": 424243,
+      "name": "After You've Gone",
+      "url": "https://open.spotify.com/track/1gl8PiCrspI8S4psbqjDgy"
+    },
+    {
+      "added_at": "2023-04-10 05:08:23",
+      "album": {
         "name": "Thelonious Monk with John Coltrane (OJC Remaster)",
         "url": "https://open.spotify.com/album/5WqkiRiXHyiML0QkLjqooy"
       },
@@ -975,54 +1023,6 @@
       "duration_ms": 381520,
       "name": "Ruby, My Dear",
       "url": "https://open.spotify.com/track/1BMirA3vwj2NLamWkJsVYq"
-    },
-    {
-      "added_at": "2023-04-10 05:08:23",
-      "album": {
-        "name": "The Body & The Soul",
-        "url": "https://open.spotify.com/album/4HI73mieaBFtwKS37HmvQH"
-      },
-      "artists": [
-        {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
-        }
-      ],
-      "duration_ms": 202773,
-      "name": "Dedicated To You",
-      "url": "https://open.spotify.com/track/7Codqj9B5oMniYPUhfv26I"
-    },
-    {
-      "added_at": "2023-04-10 05:08:23",
-      "album": {
-        "name": "Time Out",
-        "url": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
-      },
-      "artists": [
-        {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
-        }
-      ],
-      "duration_ms": 442226,
-      "name": "Strange Meadow Lark",
-      "url": "https://open.spotify.com/track/6HvyFdP5JrCQdmxq2qi7MC"
-    },
-    {
-      "added_at": "2023-04-10 05:08:23",
-      "album": {
-        "name": "Be Cool",
-        "url": "https://open.spotify.com/album/1mZiyKK7JnEeisBpPWvk7D"
-      },
-      "artists": [
-        {
-          "name": "Eddie Henderson",
-          "url": "https://open.spotify.com/artist/4LMsUGCTzMsLYcL90zb8sF"
-        }
-      ],
-      "duration_ms": 424243,
-      "name": "After You've Gone",
-      "url": "https://open.spotify.com/track/1gl8PiCrspI8S4psbqjDgy"
     },
     {
       "added_at": "2023-04-10 05:08:23",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-04-10 05:08:23",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/4eRKWNE9BbmUEzZ3IqvdH5"
-      },
-      "artists": [
-        {
-          "name": "Paul Bley Trio",
-          "url": "https://open.spotify.com/artist/17Z0yELE3Ovk5iqMx1pZXT"
-        }
-      ],
-      "duration_ms": 177920,
-      "name": "Ida Lupino",
-      "url": "https://open.spotify.com/track/3r1HC492GiqxQQHrIVSFJK"
-    },
-    {
-      "added_at": "2023-04-10 05:08:23",
-      "album": {
         "name": "It Never Entered My Mind",
         "url": "https://open.spotify.com/album/3nqEfqV0hlxvOegVjThfKq"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 375276,
       "name": "It Never Entered My Mind",
       "url": "https://open.spotify.com/track/6zGHpPBJFxudCfvrCmo6EF"
+    },
+    {
+      "added_at": "2023-04-10 05:08:23",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/4eRKWNE9BbmUEzZ3IqvdH5"
+      },
+      "artists": [
+        {
+          "name": "Paul Bley Trio",
+          "url": "https://open.spotify.com/artist/17Z0yELE3Ovk5iqMx1pZXT"
+        }
+      ],
+      "duration_ms": 177920,
+      "name": "Ida Lupino",
+      "url": "https://open.spotify.com/track/3r1HC492GiqxQQHrIVSFJK"
     },
     {
       "added_at": "2023-04-10 05:08:23",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2023-04-10 05:08:23",
       "album": {
-        "name": "Bob Acri",
-        "url": "https://open.spotify.com/album/1HghYCAJpIIZrqad27tp1s"
+        "name": "This Is Jazz #14",
+        "url": "https://open.spotify.com/album/4HNlvnGISvRdhCLHvxm7Yz"
       },
       "artists": [
         {
-          "name": "Bob Acri",
-          "url": "https://open.spotify.com/artist/5LgnVUVYlM9jqiyYMgNMMB"
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         }
       ],
-      "duration_ms": 201226,
-      "name": "Sleep Away",
-      "url": "https://open.spotify.com/track/5YHPH0wpc5IMqNNrbN3JMm"
+      "duration_ms": 323226,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/4Mdo6FZj42vID4oDi6P4ZW"
     }
   ],
   "unique_name": "\u50ac\u7720\u7235\u58eb",

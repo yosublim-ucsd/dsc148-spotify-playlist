@@ -4,7 +4,7 @@
 
 > Breathe deep, and relax with the softer side of Christian music.
 
-80 songs - 5 hr 23 min
+81 songs - 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,10 +28,11 @@
 | [Goodness of God \- Acoustic](https://open.spotify.com/track/3xKktg3qTh1ovCnLqQc7us) | [Will Morrison](https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB) | [Goodness of God \(Acoustic\)](https://open.spotify.com/album/4Z3vUTENWAm8P8TNnD9vyZ) | 4:03 | 2021-10-31 |  |
 | [Graves Into Gardens \- Acoustic](https://open.spotify.com/track/0yMTBqAAAtjNtCkphns47E) | [Will Morrison](https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB) | [Graves Into Gardens \(Acoustic\)](https://open.spotify.com/album/2lgBs5Jkwh9k8LvRxCaNmF) | 4:38 | 2021-10-31 |  |
 | [Hallelujah \(In Your Arms\)](https://open.spotify.com/track/3gg07cCfx8W4oA4ASElvhs) | [Semler](https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g) | [Late Bloomer](https://open.spotify.com/album/3UVxs4HGKC84VG8kQdRjJz) | 3:55 | 2021-10-31 |  |
-| [Heaven's Eyes](https://open.spotify.com/track/5NT4xU0yoihXlVFK5UqXP9) | [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp) | [Heaven's Eyes](https://open.spotify.com/album/17togDwr6kxfxkVJZupMJt) | 4:33 | 2021-10-31 |  |
+| [Heaven's Eyes](https://open.spotify.com/track/5NT4xU0yoihXlVFK5UqXP9) | [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp) | [Heaven's Eyes](https://open.spotify.com/album/17togDwr6kxfxkVJZupMJt) | 4:33 | 2021-10-31 | 2023-04-17 |
 | [Help Is on the Way](https://open.spotify.com/track/6XKKR2EK2L6MV6zRQQuVxe) | [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [Help Is on the Way](https://open.spotify.com/album/7dAapYfDJBwmlF7ZWsLTXV) | 3:40 | 2021-10-31 | 2022-10-11 |
 | [Helpless One](https://open.spotify.com/track/4DccX20AEk2LUgaDht4eHt) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [Helpless One](https://open.spotify.com/album/4MEBE9KVyYrQqDbUqZvyvN) | 3:15 | 2021-10-31 |  |
 | [Hold On](https://open.spotify.com/track/47GwIvmWNwmzurul1rFyJ2) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [Hold On](https://open.spotify.com/album/4UycA6we6inG3usBonCkN5) | 3:37 | 2021-10-31 |  |
+| [Holy, Holy, Holy](https://open.spotify.com/track/6xO4gnKFDGCvLiIFiiDsLT) | [John Tibbs](https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d) | [Holy, Holy, Holy](https://open.spotify.com/album/4iCzXfUIGxmEX8DA42flzB) | 2:26 | 2023-02-07 |  |
 | [I See You](https://open.spotify.com/track/4TK6reOnF7h4My580fx47A) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [I See You](https://open.spotify.com/album/6ei0YKLSRcI7tcsF80aVZI) | 3:18 | 2021-10-31 | 2023-01-24 |
 | [If I Had Stayed](https://open.spotify.com/track/5wWQWPXrFhGcs1qCZtSA8D) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE) | [If I Had Stayed](https://open.spotify.com/album/6LyuOSTe7Igm3efNqvOn4J) | 2:11 | 2021-10-31 |  |
 | [In Christ Alone \(En Jésus Seul\)](https://open.spotify.com/track/6Qn5PXBQQxfTeu7QT742MQ) | [Ri\-An](https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo), [Sebastien Corn](https://open.spotify.com/artist/601DNxtvVupKqvm3STxGTW) | [In Christ Alone \(En Jésus Seul\)](https://open.spotify.com/album/7H8MtnvyshMhC5LVKRqBQL) | 3:42 | 2021-10-31 | 2023-03-08 |

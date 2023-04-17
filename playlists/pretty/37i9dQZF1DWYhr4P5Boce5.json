@@ -1,12 +1,12 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 192650,
+  "num_followers": 192717,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTE1OTI3MiwwMDAwMDAwMGE0ZGQ2YzcxYzEwYzJjMjVkNWJlYTQ3YzNiN2YwZmZl",
+  "snapshot_id": "MTY3NTE1OTI3MiwwMDAwMDAwMDViZmZiYWQ0NjdiMGM1N2I4ZjM2OTY3NDhiMmYyZDdk",
   "tracks": [
     {
       "added_at": "2023-01-31 10:01:12",
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "Safe",
+        "url": "https://open.spotify.com/album/3PD9s1GRpT7ahstwgF6AlX"
+      },
+      "artists": [
+        {
+          "name": "Antoine Bradford",
+          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
+        }
+      ],
+      "duration_ms": 270680,
+      "name": "Safe",
+      "url": "https://open.spotify.com/track/33AwnZl99mjxjNjMIbflbH"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "Faith Hope Love Repeat",
         "url": "https://open.spotify.com/album/4lpaCFD1YtduxtT2W1jlNb"
       },
@@ -787,18 +803,18 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Safe",
-        "url": "https://open.spotify.com/album/3PD9s1GRpT7ahstwgF6AlX"
+        "name": "As for Me and My House",
+        "url": "https://open.spotify.com/album/6fcO3Z9ItTTxCHQzCcNFc2"
       },
       "artists": [
         {
-          "name": "Antoine Bradford",
-          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
+          "name": "John Waller",
+          "url": "https://open.spotify.com/artist/2Px7jTtwBH0nHI1fYSYuaL"
         }
       ],
-      "duration_ms": 270680,
-      "name": "Safe",
-      "url": "https://open.spotify.com/track/33AwnZl99mjxjNjMIbflbH"
+      "duration_ms": 245640,
+      "name": "The Marriage Prayer",
+      "url": "https://open.spotify.com/track/2no4dAQQt46aVsrlkriysB"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -823,18 +839,18 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "As for Me and My House",
-        "url": "https://open.spotify.com/album/6fcO3Z9ItTTxCHQzCcNFc2"
+        "name": "Come To The Well",
+        "url": "https://open.spotify.com/album/6PU9khplTO06aCcMBkoGze"
       },
       "artists": [
         {
-          "name": "John Waller",
-          "url": "https://open.spotify.com/artist/2Px7jTtwBH0nHI1fYSYuaL"
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
         }
       ],
-      "duration_ms": 245640,
-      "name": "The Marriage Prayer",
-      "url": "https://open.spotify.com/track/2no4dAQQt46aVsrlkriysB"
+      "duration_ms": 224013,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/7qO1aodqqumMLHFybn0AvP"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -851,22 +867,6 @@
       "duration_ms": 219613,
       "name": "Heaven (All Around You) - Acoustic",
       "url": "https://open.spotify.com/track/5b4U8K8IdHj8Z9kW5dxNNR"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "Come To The Well",
-        "url": "https://open.spotify.com/album/6PU9khplTO06aCcMBkoGze"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 224013,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/7qO1aodqqumMLHFybn0AvP"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Choose You",
-        "url": "https://open.spotify.com/album/1KoVTcluwzGUCo1xMPqqZA"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 185211,
-      "name": "Choose You",
-      "url": "https://open.spotify.com/track/2rUNWlmyWYeViuhqb4QQc6"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Love in the West",
         "url": "https://open.spotify.com/album/0Oe6yZLlmHs90r6pLAuYBH"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 138556,
       "name": "Love in the West",
       "url": "https://open.spotify.com/track/5ttoyQ1sdU1IuE1nd5MD4l"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Choose You",
+        "url": "https://open.spotify.com/album/1KoVTcluwzGUCo1xMPqqZA"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 185211,
+      "name": "Choose You",
+      "url": "https://open.spotify.com/track/2rUNWlmyWYeViuhqb4QQc6"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1035,6 +1035,26 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "This Loving",
+        "url": "https://open.spotify.com/album/49HeWMNhVUSt8AolqOBBxr"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        }
+      ],
+      "duration_ms": 156831,
+      "name": "This Loving",
+      "url": "https://open.spotify.com/track/1Trsjxw3OfwzIVsSuItgIa"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "Love Letter",
         "url": "https://open.spotify.com/album/3xN0nvkOFcvxlT2LeyxtDd"
       },
@@ -1063,26 +1083,6 @@
       "duration_ms": 212426,
       "name": "The Day Before You - Acoustic",
       "url": "https://open.spotify.com/track/20Y6MNDyaBRpFrQ1Dt5CNF"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "This Loving",
-        "url": "https://open.spotify.com/album/49HeWMNhVUSt8AolqOBBxr"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Johnny Drille",
-          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
-        }
-      ],
-      "duration_ms": 156831,
-      "name": "This Loving",
-      "url": "https://open.spotify.com/track/1Trsjxw3OfwzIVsSuItgIa"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "The Soul",
-        "url": "https://open.spotify.com/album/3ziyaxQziaPPYaUYKl4uR0"
-      },
-      "artists": [
-        {
-          "name": "Andrew Ripp",
-          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
-        }
-      ],
-      "duration_ms": 219653,
-      "name": "Pilots",
-      "url": "https://open.spotify.com/track/1t3koreZmmgvTYvxATwqfz"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Wherever I Go",
         "url": "https://open.spotify.com/album/6b7kXdycXZktv3IppejFI6"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 178253,
       "name": "Going Together",
       "url": "https://open.spotify.com/track/3s1gWhwN7IFE0dxxYhrJyW"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "The Soul",
+        "url": "https://open.spotify.com/album/3ziyaxQziaPPYaUYKl4uR0"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+        }
+      ],
+      "duration_ms": 219653,
+      "name": "Pilots",
+      "url": "https://open.spotify.com/track/1t3koreZmmgvTYvxATwqfz"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "Wait For You",
+        "url": "https://open.spotify.com/album/6HQYLXyQt5ZZtuUGIkBbjw"
+      },
+      "artists": [
+        {
+          "name": "Marie Love",
+          "url": "https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Wait For You",
+      "url": "https://open.spotify.com/track/6KcldlI0awLZXnw0fQ8eA6"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "What A Heart Is Beating For",
         "url": "https://open.spotify.com/album/077nEk4a0GRzvBuMphKmYs"
       },
@@ -1443,22 +1459,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Britt Nicole (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3fKx9rru6A6SLwit7SOoOM"
-      },
-      "artists": [
-        {
-          "name": "Britt Nicole",
-          "url": "https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK"
-        }
-      ],
-      "duration_ms": 251106,
-      "name": "Fallin In Love",
-      "url": "https://open.spotify.com/track/6lSKrLc95qy97lCE6CXSZb"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Oh How I Love You",
         "url": "https://open.spotify.com/album/4t6Gjzb1wkmhslC7mGbqUr"
       },
@@ -1471,6 +1471,22 @@
       "duration_ms": 233050,
       "name": "Oh How I Love You (R&B Version)",
       "url": "https://open.spotify.com/track/2VWk3KtFYWNskD0s7DZe6c"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Britt Nicole (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3fKx9rru6A6SLwit7SOoOM"
+      },
+      "artists": [
+        {
+          "name": "Britt Nicole",
+          "url": "https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK"
+        }
+      ],
+      "duration_ms": 251106,
+      "name": "Fallin In Love",
+      "url": "https://open.spotify.com/track/6lSKrLc95qy97lCE6CXSZb"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1495,22 +1511,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Wait For You",
-        "url": "https://open.spotify.com/album/6HQYLXyQt5ZZtuUGIkBbjw"
-      },
-      "artists": [
-        {
-          "name": "Marie Love",
-          "url": "https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Wait For You",
-      "url": "https://open.spotify.com/track/6KcldlI0awLZXnw0fQ8eA6"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Band of Gold // Summer Sessions",
         "url": "https://open.spotify.com/album/5has36k6H1PClwTsdEhSKU"
       },
@@ -1523,22 +1523,6 @@
       "duration_ms": 208493,
       "name": "Band of Gold // Summer Sessions",
       "url": "https://open.spotify.com/track/3LOJIVOfwVfbeflndxQx3j"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "Heartland",
-        "url": "https://open.spotify.com/album/10INpN8kO8dltcAhRMDO0d"
-      },
-      "artists": [
-        {
-          "name": "John Tibbs",
-          "url": "https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d"
-        }
-      ],
-      "duration_ms": 223445,
-      "name": "Midwest Magic",
-      "url": "https://open.spotify.com/track/3NDDJKePW2oFn9mP2JWyo6"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1559,18 +1543,18 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Here's to Second Chances",
-        "url": "https://open.spotify.com/album/0Pko8NSnBtYKA8azsgODxB"
+        "name": "Heartland",
+        "url": "https://open.spotify.com/album/10INpN8kO8dltcAhRMDO0d"
       },
       "artists": [
         {
-          "name": "LOVKN",
-          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
+          "name": "John Tibbs",
+          "url": "https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d"
         }
       ],
-      "duration_ms": 178748,
-      "name": "What Will She Say",
-      "url": "https://open.spotify.com/track/6umFCRLAaJPdJgRHUIyZZV"
+      "duration_ms": 223445,
+      "name": "Midwest Magic",
+      "url": "https://open.spotify.com/track/3NDDJKePW2oFn9mP2JWyo6"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1587,6 +1571,22 @@
       "duration_ms": 246240,
       "name": "I'm in Love With You",
       "url": "https://open.spotify.com/track/1X40brgUhO1VaZ8CHtKBnt"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Here's to Second Chances",
+        "url": "https://open.spotify.com/album/0Pko8NSnBtYKA8azsgODxB"
+      },
+      "artists": [
+        {
+          "name": "LOVKN",
+          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
+        }
+      ],
+      "duration_ms": 178748,
+      "name": "What Will She Say",
+      "url": "https://open.spotify.com/track/6umFCRLAaJPdJgRHUIyZZV"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Dear Future Husband",
-        "url": "https://open.spotify.com/album/0rO72rgU5JGTTuCjZfgrB9"
-      },
-      "artists": [
-        {
-          "name": "Cecily",
-          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
-        }
-      ],
-      "duration_ms": 268179,
-      "name": "Dear Future Husband",
-      "url": "https://open.spotify.com/track/3gkBkVc6QhkeObBHIPpGjh"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "I do",
         "url": "https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 190000,
       "name": "I do",
       "url": "https://open.spotify.com/track/1HbTfQjhpqXxmedDXkPNoa"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Dear Future Husband",
+        "url": "https://open.spotify.com/album/0rO72rgU5JGTTuCjZfgrB9"
+      },
+      "artists": [
+        {
+          "name": "Cecily",
+          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
+        }
+      ],
+      "duration_ms": 268179,
+      "name": "Dear Future Husband",
+      "url": "https://open.spotify.com/track/3gkBkVc6QhkeObBHIPpGjh"
     },
     {
       "added_at": "2023-01-31 10:01:12",

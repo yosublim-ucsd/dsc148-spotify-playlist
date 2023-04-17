@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ET7mtaGmRc.md) - [plain]
 
 > 해리 스타일스의 내한공연을 기념하며 해리 스타일스의 베스트곡들을 만나보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,509 likes - 37 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,516 likes - 37 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

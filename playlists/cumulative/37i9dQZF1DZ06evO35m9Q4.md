@@ -4,13 +4,13 @@
 
 > This is Stevie Ray Vaughan\. The essential tracks, all in one playlist.
 
-62 songs - 4 hr 41 min
+63 songs - 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Ain't Gone 'N' Give up on Love \- Live at Montreux Casino, Montreux, Switzerland \- July 1985](https://open.spotify.com/track/5sKLUVHc6FR1LHdoc0cgl1) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Live At Montreux 1982 & 1985](https://open.spotify.com/album/7CPcbMHJEr5Z1OHPasEpzf) | 6:24 | 2022-08-05 |  |
 | [Albert's Shuffle \- Live](https://open.spotify.com/track/6aqeVjcTX2ivUtPjr0xocT) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Solos, Sessions & Encores](https://open.spotify.com/album/34moluVsUish03HIUdzSze) | 7:07 | 2022-08-05 |  |
-| [Blues At Sunrise](https://open.spotify.com/track/2iRvnj638AaNON730B5yIs) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session](https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb) | 15:10 | 2022-08-05 |  |
+| [Blues At Sunrise](https://open.spotify.com/track/2iRvnj638AaNON730B5yIs) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session](https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb) | 15:10 | 2022-08-05 | 2023-04-17 |
 | [Boot Hill \- 1989 Version](https://open.spotify.com/track/60kPEmCU9j6wXd57jm5Xpj) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Archives](https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH) | 2:13 | 2022-11-23 |  |
 | [C.O.D\. \- Live at Carnegie Hall, New York, NY \- October 1984](https://open.spotify.com/track/03OGCewZ3ZeyZNAzNkZSKo) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Live at Carnegie Hall](https://open.spotify.com/album/5Q0OpLSi7q2fKcHQHVeBGd) | 5:32 | 2022-08-05 | 2022-10-28 |
 | [Change It](https://open.spotify.com/track/5u00iJsWV7xj5NTGAaMBQt) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Soul to Soul](https://open.spotify.com/album/2WYvNaZ68vRmun6Jy0Qp1e) | 3:57 | 2022-08-05 |  |
@@ -55,6 +55,7 @@
 | [Shake 'N Bake](https://open.spotify.com/track/1dvaLzUkbmvt6GsPVkW7kg) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Archives](https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH) | 2:51 | 2022-08-05 |  |
 | [Shake for Me \- Live at Steamboat 1874, Austin, TX \- April 1980](https://open.spotify.com/track/0LFsHodEUTDEvoRlreOaRe) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Essential Stevie Ray Vaughan And Double Trouble](https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r) | 3:48 | 2022-10-04 |  |
 | [Slide Thing \- Live at Steamboat 1874, Austin, TX \- April 1980](https://open.spotify.com/track/78x9FWB5S033aa4E67D9Wg) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In The Beginning](https://open.spotify.com/album/5judWRJxX0B8BCohZDm69R) | 2:55 | 2022-08-05 |  |
+| [Slip Slidin' Slim](https://open.spotify.com/track/67LxQFCjFefEJ1cqq1Y5br) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Archives](https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH) | 1:41 | 2023-04-16 |  |
 | [So Excited](https://open.spotify.com/track/1nB4UkYsul7uVNK8YIUmw8) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Archives](https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH) | 3:29 | 2022-08-05 |  |
 | [SRV Speaks](https://open.spotify.com/track/7CkTfNc51KRJLinO5jSp3s) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Couldn't Stand The Weather](https://open.spotify.com/album/4CvDljqpyOVfwTV2CludIH) | 1:08 | 2022-08-05 | 2023-02-06 |
 | [Superstition \- Live](https://open.spotify.com/track/4OaTSHT0NYViNOgjpIAXpv) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Essential Stevie Ray Vaughan And Double Trouble](https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r) | 4:40 | 2022-08-05 |  |

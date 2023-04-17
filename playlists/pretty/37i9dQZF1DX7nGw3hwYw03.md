@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nGw3hwYw03.md) - [plain]
 
 > Essential Alesso originals and remixes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,901 likes - 51 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,952 likes - 51 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nGw3hwYw03.md) - [plain]
 | 14 | [Only You](https://open.spotify.com/track/7mXNYEVh9FW72c12qBaO3p) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Sentinel](https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw) | [Only You](https://open.spotify.com/album/7HYcGsdfiY8AEOgGesSknZ) | 2:25 |
 | 15 | [Going Dumb \(with Stray Kids\)](https://open.spotify.com/track/3Ea1CNsTqBY4RtAESrBeNI) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [CORSAK](https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z) | [Going Dumb](https://open.spotify.com/album/5IMZvYqklgYzabWtgtD74l) | 2:49 |
 | 16 | [When I'm Gone \(with Katy Perry\) \[VIP Mix\]](https://open.spotify.com/track/53y02rkTgMKgaJihn2Y2jE) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [When I'm Gone \(with Katy Perry\) \[VIP Mix\]](https://open.spotify.com/album/7Bm6JstkS27sFuX9UPbXfQ) | 2:51 |
-| 17 | [Something Just Like This \- Alesso Remix](https://open.spotify.com/track/50RJdoxw8iajGNtHQe6QeS) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Something Just Like This \(Remixes\)](https://open.spotify.com/album/4uRfYhBBaSX8N3amojmMBE) | 4:12 |
+| 17 | [Something Just Like This \- Alesso Remix](https://open.spotify.com/track/50RJdoxw8iajGNtHQe6QeS) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Something Just Like This \(Remix Pack\) \[Remixes\]](https://open.spotify.com/album/4uRfYhBBaSX8N3amojmMBE) | 4:12 |
 | 18 | [Years](https://open.spotify.com/track/5pVk15sR3OgIeKBKqG9jWw) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Matthew Koma](https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo) | [Years](https://open.spotify.com/album/1lxz4qsMenWD4SR1e5uX6x) | 3:15 |
 | 19 | [I Wanna Know](https://open.spotify.com/track/2kYqdSlrtovVMMIn6ykzba) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Nico & Vinz](https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn) | [I Wanna Know](https://open.spotify.com/album/717X9LkHS8UXp8nb79Jnh6) | 4:00 |
 | 20 | [Somebody To Use](https://open.spotify.com/track/2CMGiyYO8H8GhPwS73LL13) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Somebody To Use](https://open.spotify.com/album/1uNDzwYC01Gp52Y5BeyOxo) | 2:34 |

@@ -1,12 +1,12 @@
 {
   "description": "Let the songs speak. Cover: Yung Bleu",
-  "num_followers": 40775,
+  "num_followers": 40805,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDg2MCwwMDAwMDAwMGUyYmY4NmJlYTgzMGRlZDNmZTZiMGFlMGEyMTY3NGVl",
+  "snapshot_id": "MTY4MTQ0NDg2MCwwMDAwMDAwMDViMmQ3ZmY1NDdmYjZiNTc0Mzk3ZGY1MDZlZjU2Zjkz",
   "tracks": [
     {
       "added_at": "2023-04-14 04:01:00",
@@ -329,24 +329,20 @@
       "url": "https://open.spotify.com/track/0vA6Nhloi5UX2jmqX5Tvk9"
     },
     {
-      "added_at": "2022-09-16 04:00:00",
+      "added_at": "2022-09-09 04:09:30",
       "album": {
-        "name": "YESSIE",
-        "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ"
       },
       "artists": [
         {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
         }
       ],
-      "duration_ms": 223157,
-      "name": "FOREVER (with 6LACK)",
-      "url": "https://open.spotify.com/track/2lVYLiHGIX6GajMqYXF1Un"
+      "duration_ms": 189462,
+      "name": "DO 4 LOVE",
+      "url": "https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS"
     },
     {
       "added_at": "2022-08-05 04:11:54",
@@ -365,20 +361,24 @@
       "url": "https://open.spotify.com/track/0oufSLnKQDoBFX5mgkDCgR"
     },
     {
-      "added_at": "2022-09-09 04:09:30",
+      "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ"
+        "name": "YESSIE",
+        "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
       },
       "artists": [
         {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
         }
       ],
-      "duration_ms": 189462,
-      "name": "DO 4 LOVE",
-      "url": "https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS"
+      "duration_ms": 223157,
+      "name": "FOREVER (with 6LACK)",
+      "url": "https://open.spotify.com/track/2lVYLiHGIX6GajMqYXF1Un"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -651,6 +651,26 @@
     {
       "added_at": "2023-01-27 05:01:00",
       "album": {
+        "name": "Soulection Takeover: 2K23 Edition",
+        "url": "https://open.spotify.com/album/1hhPj4G4CvN32Wo1fQzjb1"
+      },
+      "artists": [
+        {
+          "name": "PHABO",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+        },
+        {
+          "name": "Soulection",
+          "url": "https://open.spotify.com/artist/5zFe5aBvWzEfIz1PJ1Zpft"
+        }
+      ],
+      "duration_ms": 110400,
+      "name": "Step 2 Me",
+      "url": "https://open.spotify.com/track/57tg0m3Iu8YzWyaDfFfDtR"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
         "name": "Ouu Ahh",
         "url": "https://open.spotify.com/album/19QvRjusHmaXHs52bSbR4C"
       },
@@ -683,26 +703,6 @@
       "duration_ms": 173053,
       "name": "Trillions (feat. Brent Faiyaz)",
       "url": "https://open.spotify.com/track/5md3aeM1WaEjDec9gH21yW"
-    },
-    {
-      "added_at": "2023-01-27 05:01:00",
-      "album": {
-        "name": "Soulection Takeover: 2K23 Edition",
-        "url": "https://open.spotify.com/album/1hhPj4G4CvN32Wo1fQzjb1"
-      },
-      "artists": [
-        {
-          "name": "PHABO",
-          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
-        },
-        {
-          "name": "Soulection",
-          "url": "https://open.spotify.com/artist/5zFe5aBvWzEfIz1PJ1Zpft"
-        }
-      ],
-      "duration_ms": 110400,
-      "name": "Step 2 Me",
-      "url": "https://open.spotify.com/track/57tg0m3Iu8YzWyaDfFfDtR"
     },
     {
       "added_at": "2023-03-03 05:16:10",
@@ -825,22 +825,6 @@
       "url": "https://open.spotify.com/track/0IomPr5dBXw2sIkZKvZSSp"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Archives & Lullabies",
-        "url": "https://open.spotify.com/album/4FSiIHTasBx8fQoSzwcb0H"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
-        }
-      ],
-      "duration_ms": 211384,
-      "name": "Nurture",
-      "url": "https://open.spotify.com/track/0OdRKPM36edHZ8OEpbrDCu"
-    },
-    {
       "added_at": "2023-03-03 05:16:10",
       "album": {
         "name": "FORWARD",
@@ -859,6 +843,22 @@
       "duration_ms": 134013,
       "name": "SIDEKICK (with Joyce Wrice) - BONUS",
       "url": "https://open.spotify.com/track/0h3BFerMyzUaYYh2nwGiX3"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Archives & Lullabies",
+        "url": "https://open.spotify.com/album/4FSiIHTasBx8fQoSzwcb0H"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+        }
+      ],
+      "duration_ms": 211384,
+      "name": "Nurture",
+      "url": "https://open.spotify.com/track/0OdRKPM36edHZ8OEpbrDCu"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1261,22 +1261,6 @@
       "url": "https://open.spotify.com/track/74cfwBYBzG8QOvxcBZBeKE"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Glowin 4 Me",
-        "url": "https://open.spotify.com/album/6aziyhUkY3zHrW8ZVL9uds"
-      },
-      "artists": [
-        {
-          "name": "Eric IV",
-          "url": "https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc"
-        }
-      ],
-      "duration_ms": 145609,
-      "name": "Glowin 4 Me",
-      "url": "https://open.spotify.com/track/5jI8xKMCIEToPXuXdFCoFJ"
-    },
-    {
       "added_at": "2022-10-07 04:01:00",
       "album": {
         "name": "Out The Way",
@@ -1291,6 +1275,22 @@
       "duration_ms": 155414,
       "name": "Out The Way",
       "url": "https://open.spotify.com/track/1F90ozGQw5nVHCT5o8yXK3"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Glowin 4 Me",
+        "url": "https://open.spotify.com/album/6aziyhUkY3zHrW8ZVL9uds"
+      },
+      "artists": [
+        {
+          "name": "Eric IV",
+          "url": "https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc"
+        }
+      ],
+      "duration_ms": 145609,
+      "name": "Glowin 4 Me",
+      "url": "https://open.spotify.com/track/5jI8xKMCIEToPXuXdFCoFJ"
     },
     {
       "added_at": "2023-03-03 05:16:10",
@@ -1397,6 +1397,42 @@
       "url": "https://open.spotify.com/track/3c1cNtcW4R8X54QOz86Lwi"
     },
     {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "$weet n $our",
+        "url": "https://open.spotify.com/album/5L5fNQrj8Bq3nnf6PnyfTQ"
+      },
+      "artists": [
+        {
+          "name": "K. Forest",
+          "url": "https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol"
+        }
+      ],
+      "duration_ms": 183588,
+      "name": "$weet n $our",
+      "url": "https://open.spotify.com/track/6xxPmqOp8AbM32rEiJ3AQ4"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Love Scars II",
+        "url": "https://open.spotify.com/album/4bOSKl0Hlmi5jXWxcxhHgs"
+      },
+      "artists": [
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 161684,
+      "name": "Waterfalls",
+      "url": "https://open.spotify.com/track/24KsIgn3IsG6N5e43XQvvx"
+    },
+    {
       "added_at": "2023-03-03 05:16:10",
       "album": {
         "name": "Swerve",
@@ -1415,22 +1451,6 @@
       "duration_ms": 199563,
       "name": "Swerve",
       "url": "https://open.spotify.com/track/73Vj0bDzuk77zsgxA0ujKG"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "$weet n $our",
-        "url": "https://open.spotify.com/album/5L5fNQrj8Bq3nnf6PnyfTQ"
-      },
-      "artists": [
-        {
-          "name": "K. Forest",
-          "url": "https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol"
-        }
-      ],
-      "duration_ms": 183588,
-      "name": "$weet n $our",
-      "url": "https://open.spotify.com/track/6xxPmqOp8AbM32rEiJ3AQ4"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1533,22 +1553,6 @@
       "url": "https://open.spotify.com/track/3xJphVAHpi2IyWV030jJ6A"
     },
     {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Thanks 4 Nothing",
-        "url": "https://open.spotify.com/album/3rA9WvtKza3kX1S0fNsTgi"
-      },
-      "artists": [
-        {
-          "name": "Tink",
-          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
-        }
-      ],
-      "duration_ms": 149020,
-      "name": "New Nigga",
-      "url": "https://open.spotify.com/track/03sBdwtbA0t5mGOcqHxBXB"
-    },
-    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Standards",
@@ -1563,6 +1567,22 @@
       "duration_ms": 186294,
       "name": "Standards",
       "url": "https://open.spotify.com/track/5m0X50W9ga5qghnXzeKNSe"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Thanks 4 Nothing",
+        "url": "https://open.spotify.com/album/3rA9WvtKza3kX1S0fNsTgi"
+      },
+      "artists": [
+        {
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+        }
+      ],
+      "duration_ms": 149020,
+      "name": "New Nigga",
+      "url": "https://open.spotify.com/track/03sBdwtbA0t5mGOcqHxBXB"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1699,22 +1719,6 @@
       "duration_ms": 240320,
       "name": "YOU",
       "url": "https://open.spotify.com/track/5OuASjeBIKFKBxslQCTbXJ"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "How Many",
-        "url": "https://open.spotify.com/album/3uXcufGHqbpkYQnImb0RGm"
-      },
-      "artists": [
-        {
-          "name": "Ryan Destiny",
-          "url": "https://open.spotify.com/artist/5bKtvYqfmflyEKp2FhPXwf"
-        }
-      ],
-      "duration_ms": 198888,
-      "name": "How Many",
-      "url": "https://open.spotify.com/track/01zX60e8CoXA8xNlXdHvdI"
     }
   ],
   "unique_name": "Some Kinda Way",

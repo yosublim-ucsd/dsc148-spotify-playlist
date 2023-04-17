@@ -1,12 +1,12 @@
 {
   "description": "New no wave, post-punk, and anything else. Cover: Squid",
-  "num_followers": 261948,
+  "num_followers": 262021,
   "original_name": "Post Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA1ODUxMSwwMDAwMDAwMGVjMzUwZmVhNzZhMGNmNjU0ZjRjNDRhZGUzYWQwY2Fj",
+  "snapshot_id": "MTY3OTA1ODUxMSwwMDAwMDAwMGIyYjcxZGEzOWI0MzY4ZjQxMGRkMDVhOWNiMjkwMTI4",
   "tracks": [
     {
       "added_at": "2023-02-24 00:00:00",
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/7z81vC7eTE5y4hqk9yCx7F"
     },
     {
-      "added_at": "2023-04-16 00:53:48",
+      "added_at": "2023-04-17 01:10:26",
       "album": {
         "name": "American Nightmare",
         "url": "https://open.spotify.com/album/6zaXhrtWGMMJP4ty8XyMiT"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/4i6snrjpdYSv5PBB7wH6qk"
     },
     {
-      "added_at": "2023-04-16 00:53:48",
+      "added_at": "2023-04-17 01:10:26",
       "album": {
         "name": "Make Way",
         "url": "https://open.spotify.com/album/12nD6G0SKG9fB4SvWvOOEm"
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Signal",
-        "url": "https://open.spotify.com/album/5sunzZo5u8d2pi5WKzjvFS"
-      },
-      "artists": [
-        {
-          "name": "Automatic",
-          "url": "https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU"
-        }
-      ],
-      "duration_ms": 149360,
-      "name": "Calling It",
-      "url": "https://open.spotify.com/track/5NokSQOH2MUmBChmCyVxyj"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "When I Have Fears",
         "url": "https://open.spotify.com/album/17ozByfYT9iEhfGNcT6mdz"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 146978,
       "name": "Don't Cling To Life",
       "url": "https://open.spotify.com/track/00Dsa2N9nqJux5YWfu6MdU"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Signal",
+        "url": "https://open.spotify.com/album/5sunzZo5u8d2pi5WKzjvFS"
+      },
+      "artists": [
+        {
+          "name": "Automatic",
+          "url": "https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU"
+        }
+      ],
+      "duration_ms": 149360,
+      "name": "Calling It",
+      "url": "https://open.spotify.com/track/5NokSQOH2MUmBChmCyVxyj"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -361,7 +361,7 @@
       "url": "https://open.spotify.com/track/3ZJw4Fh6FZzEWXvBxPbpr4"
     },
     {
-      "added_at": "2023-04-16 00:53:48",
+      "added_at": "2023-04-17 01:10:26",
       "album": {
         "name": "Nurse!",
         "url": "https://open.spotify.com/album/3MJd0JLuUE5OKkZCnpPcuI"
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Dogsbody",
-        "url": "https://open.spotify.com/album/1DWLFwBZxTSBWw7G9uhpok"
-      },
-      "artists": [
-        {
-          "name": "Model/Actriz",
-          "url": "https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC"
-        }
-      ],
-      "duration_ms": 187280,
-      "name": "Pure Mode",
-      "url": "https://open.spotify.com/track/3oT787Jq5n4i5HQ7tLsjb7"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "Waterslide, Diving Board, Ladder To The Sky",
         "url": "https://open.spotify.com/album/6wdThJ2V58nkaWfv1jA4B5"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 187586,
       "name": "Back To The Radio",
       "url": "https://open.spotify.com/track/0hHOIVyywNzkoh1v6RWFb3"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Dogsbody",
+        "url": "https://open.spotify.com/album/1DWLFwBZxTSBWw7G9uhpok"
+      },
+      "artists": [
+        {
+          "name": "Model/Actriz",
+          "url": "https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC"
+        }
+      ],
+      "duration_ms": 187280,
+      "name": "Pure Mode",
+      "url": "https://open.spotify.com/track/3oT787Jq5n4i5HQ7tLsjb7"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -511,18 +511,18 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "TRU",
-        "url": "https://open.spotify.com/album/5NBOm2pyKCOqt8iYwgMYnH"
+        "name": "The Cleaner",
+        "url": "https://open.spotify.com/album/0IYwrkF0eNvYRrtUHZO7Bo"
       },
       "artists": [
         {
-          "name": "Ovlov",
-          "url": "https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8"
+          "name": "Squid",
+          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
         }
       ],
-      "duration_ms": 202528,
-      "name": "Stick",
-      "url": "https://open.spotify.com/track/1PiA3Z5eT98iz6my4yVpn4"
+      "duration_ms": 453211,
+      "name": "The Cleaner",
+      "url": "https://open.spotify.com/track/5JCJRbheraNHacbn9v1UWg"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -543,18 +543,18 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "The Cleaner",
-        "url": "https://open.spotify.com/album/0IYwrkF0eNvYRrtUHZO7Bo"
+        "name": "TRU",
+        "url": "https://open.spotify.com/album/5NBOm2pyKCOqt8iYwgMYnH"
       },
       "artists": [
         {
-          "name": "Squid",
-          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
+          "name": "Ovlov",
+          "url": "https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8"
         }
       ],
-      "duration_ms": 453211,
-      "name": "The Cleaner",
-      "url": "https://open.spotify.com/track/5JCJRbheraNHacbn9v1UWg"
+      "duration_ms": 202528,
+      "name": "Stick",
+      "url": "https://open.spotify.com/track/1PiA3Z5eT98iz6my4yVpn4"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Fingers of Steel",
-        "url": "https://open.spotify.com/album/0T2Qic0OPQrVJmyMAxhH4y"
-      },
-      "artists": [
-        {
-          "name": "shame",
-          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
-        }
-      ],
-      "duration_ms": 261384,
-      "name": "Fingers of Steel",
-      "url": "https://open.spotify.com/track/1v1jlj1qT3oDjozh5rOlC6"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "Dogrel",
         "url": "https://open.spotify.com/album/7wMhg0YqDuqylEVnLQQ02R"
       },
@@ -607,18 +591,18 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "'Til The Stream Runs Dry",
-        "url": "https://open.spotify.com/album/7IM36wFeDv1bhzc1soETfO"
+        "name": "Fingers of Steel",
+        "url": "https://open.spotify.com/album/0T2Qic0OPQrVJmyMAxhH4y"
       },
       "artists": [
         {
-          "name": "Opus Kink",
-          "url": "https://open.spotify.com/artist/1qDKbZJLaLlsaI7e6mHqm3"
+          "name": "shame",
+          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
         }
       ],
-      "duration_ms": 260665,
-      "name": "St. Paul of the Tarantulas",
-      "url": "https://open.spotify.com/track/4u3HxVlseWBBROXr7TwHLR"
+      "duration_ms": 261384,
+      "name": "Fingers of Steel",
+      "url": "https://open.spotify.com/track/1v1jlj1qT3oDjozh5rOlC6"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -635,6 +619,22 @@
       "duration_ms": 230121,
       "name": "Magic of Meghan",
       "url": "https://open.spotify.com/track/0L1yjgPN1zIGLYP6TjVgHR"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "'Til The Stream Runs Dry",
+        "url": "https://open.spotify.com/album/7IM36wFeDv1bhzc1soETfO"
+      },
+      "artists": [
+        {
+          "name": "Opus Kink",
+          "url": "https://open.spotify.com/artist/1qDKbZJLaLlsaI7e6mHqm3"
+        }
+      ],
+      "duration_ms": 260665,
+      "name": "St. Paul of the Tarantulas",
+      "url": "https://open.spotify.com/track/4u3HxVlseWBBROXr7TwHLR"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -671,18 +671,18 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Happy Feet",
-        "url": "https://open.spotify.com/album/6pjU8QXWzeuCed73NlF5er"
+        "name": "A Hero's Death",
+        "url": "https://open.spotify.com/album/1TG1jA82COlOCK63DjmiT3"
       },
       "artists": [
         {
-          "name": "Do Nothing",
-          "url": "https://open.spotify.com/artist/73N7cGNNww6Uod1d3IiBKP"
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
         }
       ],
-      "duration_ms": 251204,
-      "name": "Happy Feet",
-      "url": "https://open.spotify.com/track/3rIii6N9TMUWA4ObdkfJvw"
+      "duration_ms": 271106,
+      "name": "I Don't Belong",
+      "url": "https://open.spotify.com/track/6WoKLs9kOA7I9RJtVYr6MQ"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -719,8 +719,24 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Six-Pack",
-        "url": "https://open.spotify.com/album/3w357KurjmtsRZhooOMjgI"
+        "name": "Happy Feet",
+        "url": "https://open.spotify.com/album/6pjU8QXWzeuCed73NlF5er"
+      },
+      "artists": [
+        {
+          "name": "Do Nothing",
+          "url": "https://open.spotify.com/artist/73N7cGNNww6Uod1d3IiBKP"
+        }
+      ],
+      "duration_ms": 251204,
+      "name": "Happy Feet",
+      "url": "https://open.spotify.com/track/3rIii6N9TMUWA4ObdkfJvw"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Drunk Tank Pink (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/07FItTfHsxADQ4sLDxqgFA"
       },
       "artists": [
         {
@@ -728,25 +744,9 @@
           "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
         }
       ],
-      "duration_ms": 231968,
-      "name": "Six-Pack",
-      "url": "https://open.spotify.com/track/4m6CLhBh46R33ELYBRa7ge"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "A Hero's Death",
-        "url": "https://open.spotify.com/album/1TG1jA82COlOCK63DjmiT3"
-      },
-      "artists": [
-        {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
-        }
-      ],
-      "duration_ms": 271106,
-      "name": "I Don't Belong",
-      "url": "https://open.spotify.com/track/6WoKLs9kOA7I9RJtVYr6MQ"
+      "duration_ms": 187626,
+      "name": "Water in the Well",
+      "url": "https://open.spotify.com/track/0gaecBSDgVDjHs3JrWgr5e"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -763,22 +763,6 @@
       "duration_ms": 483800,
       "name": "Pamphlets",
       "url": "https://open.spotify.com/track/3tOKVaYAYRMr3aaNqLxJaM"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "Leather",
-        "url": "https://open.spotify.com/album/1zomrGI2LeCPKzxfS5eN4x"
-      },
-      "artists": [
-        {
-          "name": "Talk Show",
-          "url": "https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3"
-        }
-      ],
-      "duration_ms": 260506,
-      "name": "Leather",
-      "url": "https://open.spotify.com/track/4lj9sAmb00T1JloLEsQaGl"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -827,6 +811,22 @@
       "duration_ms": 223000,
       "name": "Rhythm Is Our Business - Edit",
       "url": "https://open.spotify.com/track/0nSKPt85T4Y3PFKe9U1AoJ"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Leather",
+        "url": "https://open.spotify.com/album/1zomrGI2LeCPKzxfS5eN4x"
+      },
+      "artists": [
+        {
+          "name": "Talk Show",
+          "url": "https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3"
+        }
+      ],
+      "duration_ms": 260506,
+      "name": "Leather",
+      "url": "https://open.spotify.com/track/4lj9sAmb00T1JloLEsQaGl"
     },
     {
       "added_at": "2023-02-24 00:00:00",

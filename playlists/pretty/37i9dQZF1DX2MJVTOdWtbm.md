@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 
 > The home of Latin R&B\. La casa del R&B Latino\. Cover: Chicocurlyhead
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,991 likes - 85 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,035 likes - 85 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,10 +60,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 | 50 | [A la Mitad \(Suceso 1\)](https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [Roxanne](https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo) | 3:33 |
 | 51 | [Limo](https://open.spotify.com/track/31V2GmqlWRcbaY3Up9bLYf) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Limo](https://open.spotify.com/album/7EnuItH74MB3aNwab4WTni) | 2:54 |
 | 52 | [Daiquiri](https://open.spotify.com/track/41fg4zU6tNKqs46Z59Fihs) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Daiquiri](https://open.spotify.com/album/0NxNkoYvI2RWfssxRxtLKg) | 3:38 |
-| 53 | [Quizás](https://open.spotify.com/track/2WAt7nE4oWR5yn6dUil3Qp) | [Flowyn](https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Quizás](https://open.spotify.com/album/6pu8sEx8UvVuGbVI2WvSLy) | 4:08 |
-| 54 | [5 A.M.](https://open.spotify.com/track/1rsKdke2NJBGNDzqe4wVTz) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [5 A.M.](https://open.spotify.com/album/2qd0uOP9veFhIFUKbuW2ks) | 3:02 |
-| 55 | [I.W.Y.](https://open.spotify.com/track/2qePnoTLNzI1aJHLdLBvQM) | [Carlos Unger](https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf) | [I.W.Y.](https://open.spotify.com/album/0W3AKS1vhthN13diu18bTH) | 2:53 |
-| 56 | [Supersad](https://open.spotify.com/track/45GH9XOvr1OR5znGgqXyxW) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Supersad](https://open.spotify.com/album/2DP6dlnGbY9W2ZkH4BKCNh) | 3:35 |
+| 53 | [5 A.M.](https://open.spotify.com/track/1rsKdke2NJBGNDzqe4wVTz) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [5 A.M.](https://open.spotify.com/album/2qd0uOP9veFhIFUKbuW2ks) | 3:02 |
+| 54 | [Quizás](https://open.spotify.com/track/2WAt7nE4oWR5yn6dUil3Qp) | [Flowyn](https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Quizás](https://open.spotify.com/album/6pu8sEx8UvVuGbVI2WvSLy) | 4:08 |
+| 55 | [Supersad](https://open.spotify.com/track/45GH9XOvr1OR5znGgqXyxW) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Supersad](https://open.spotify.com/album/2DP6dlnGbY9W2ZkH4BKCNh) | 3:35 |
+| 56 | [I.W.Y.](https://open.spotify.com/track/2qePnoTLNzI1aJHLdLBvQM) | [Carlos Unger](https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf) | [I.W.Y.](https://open.spotify.com/album/0W3AKS1vhthN13diu18bTH) | 2:53 |
 | 57 | [QCVH](https://open.spotify.com/track/0hi6aypEJwNCRrPQCouZF1) | [Jass Reyes](https://open.spotify.com/artist/3iFcLV27WtmxR8CemVQRoF) | [QCVH](https://open.spotify.com/album/2GttLbx4VBOgdL3uzHWO9G) | 2:16 |
 | 58 | [Girasol](https://open.spotify.com/track/78hbBz2TqsXCG1GfXOWGve) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux), [Ben Aler](https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R) | [Girasol](https://open.spotify.com/album/6QylIYKDZPDZmLR8ORYitd) | 3:24 |
 | 59 | [Todo](https://open.spotify.com/track/5rl1NVOQZBWMqhyTiOUHrJ) | [YOSHI](https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd) | [Todo](https://open.spotify.com/album/3Vy5AXz67VBxwrnrZmXztx) | 3:22 |
@@ -83,15 +83,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 | 73 | [Cabrón](https://open.spotify.com/track/3s7va3f0Sxww7MgvqUpThW) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [Cabrón](https://open.spotify.com/album/0WYn2pJadzB9tiWzC4svkf) | 2:59 |
 | 74 | [diario](https://open.spotify.com/track/5sd1wfUgXN5bBuoAUYaD2c) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [La Gabi](https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X), [Cami Da Baby](https://open.spotify.com/artist/6tbQMAawwUkpHdPelM84DE) | [hembrismo](https://open.spotify.com/album/1BI2alnlw8r7uaFFjDGZur) | 3:50 |
 | 75 | [Luces](https://open.spotify.com/track/0P3E62IdOliXiZ1hJdU0B5) | [Fernanda](https://open.spotify.com/artist/4ofHy9bcqR6gBvOBIvCyC0) | [Luces](https://open.spotify.com/album/4UDWBqFdxvXJfGwRsqxtKj) | 2:17 |
-| 76 | [Quiero \- TDH's Version](https://open.spotify.com/track/7e3cIM6xKrx10ermMTYu3L) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Quiero \(TDH's Version\)](https://open.spotify.com/album/0mPX5LdIJMkxNUDYhAHncL) | 2:37 |
+| 76 | [What More](https://open.spotify.com/track/5nnj82z3JN9DALrgb6lowY) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Flavors 3](https://open.spotify.com/album/2AE8X5DCAuquqbJCQQRhT6) | 2:29 |
 | 77 | [QUIEN ES ESA](https://open.spotify.com/track/3M2tFhrNdBDEEY3nDrcmNn) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [DIADREAMER](https://open.spotify.com/album/3dMeA8bEA9Ianbh9mnyhU9) | 2:30 |
-| 78 | [What More](https://open.spotify.com/track/5nnj82z3JN9DALrgb6lowY) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Flavors 3](https://open.spotify.com/album/2AE8X5DCAuquqbJCQQRhT6) | 2:29 |
+| 78 | [Quiero \- TDH's Version](https://open.spotify.com/track/7e3cIM6xKrx10ermMTYu3L) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Quiero \(TDH's Version\)](https://open.spotify.com/album/0mPX5LdIJMkxNUDYhAHncL) | 2:37 |
 | 79 | [el vuelo](https://open.spotify.com/track/2qtrDGVkMqKrcL44b8U4LG) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4) | [el vuelo](https://open.spotify.com/album/50fPKkTgYxNCIaoEWb3jU3) | 3:05 |
 | 80 | [Na Pa Ti \(feat\. Kofi\)](https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [Na Pa Ti \(feat\. Kofi\)](https://open.spotify.com/album/3UefdYQA4lzyOOZ8SHFSyr) | 2:53 |
 | 81 | [Uh Huh](https://open.spotify.com/track/7L5xzfKz9Lich6YoaDTTfX) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Uh Huh](https://open.spotify.com/album/0QWu0i9aspqONLrrVisUsf) | 2:43 |
-| 82 | [Prende](https://open.spotify.com/track/6r5ThDX3rDYvOHxixSjwvX) | [Menor Menor](https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW) | [Prende](https://open.spotify.com/album/39dpTC9IGFK94L7Z2eh9oX) | 2:53 |
-| 83 | [Alumnos](https://open.spotify.com/track/7pZw5QAA11FtUZFg5utXzp) | [Matt Hunter](https://open.spotify.com/artist/20pVLDSueWpSOPCWnCWzIU), [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Alumnos](https://open.spotify.com/album/224WofhHqF6PuYTGd63baR) | 3:18 |
+| 82 | [Alumnos](https://open.spotify.com/track/7pZw5QAA11FtUZFg5utXzp) | [Matt Hunter](https://open.spotify.com/artist/20pVLDSueWpSOPCWnCWzIU), [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Alumnos](https://open.spotify.com/album/224WofhHqF6PuYTGd63baR) | 3:18 |
+| 83 | [Prende](https://open.spotify.com/track/6r5ThDX3rDYvOHxixSjwvX) | [Menor Menor](https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW) | [Prende](https://open.spotify.com/album/39dpTC9IGFK94L7Z2eh9oX) | 2:53 |
 | 84 | [VAIVÉN](https://open.spotify.com/track/7lU2NQ7kjK3TiNepbf2upU) | [Leo X](https://open.spotify.com/artist/3W4km1swUPuED74s4dPH3A), [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [VAIVÉN](https://open.spotify.com/album/5LLhc1nhCRLQ6EDdxNc0u8) | 3:38 |
 | 85 | [MIA](https://open.spotify.com/track/23GhLjcJ26QGrn7g4saZ4k) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi) | [La Patrona](https://open.spotify.com/album/7GTks3uBI8W9D2EeFYp9V1) | 3:31 |
 
-Snapshot ID: `MTY3ODQ4NDk1NiwwMDAwMDAwMGJkYjg3Y2JjNWY2NTA2ZjRiZjcwNDUzN2I5ZWE4MmVl`
+Snapshot ID: `MTY3ODQ4NDk1NiwwMDAwMDAwMGY3OTUwNWIyMDMzZjk3ZjAzY2RkOGYwNDdiZjY1MWZl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wTXPn.md) - [plain]
 
 > This is KURT\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,123 likes - 42 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,131 likes - 43 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,11 +14,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wTXPn.md) - [plain]
 | 4 | [Tengo](https://open.spotify.com/track/4Jo5MeAP4GFRFc57m2q7FY) | [Antonio José](https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Tengo](https://open.spotify.com/album/6uq8cwuvPvPSYp3rjriBQ9) | 3:50 |
 | 5 | [Sonreír \- Versión Acústica](https://open.spotify.com/track/6Vk8greV4Rn5a1RDCHtydm) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido](https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj) | 3:29 |
 | 6 | [Sonreír](https://open.spotify.com/track/3EYbyZ31BsZ96HEraj3za7) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [En Medio De Este Ruido \(Deluxe\)](https://open.spotify.com/album/3dQMAkuJBVVZoe2xVTZzqB) | 3:31 |
-| 7 | [Prometo](https://open.spotify.com/track/2sml6OCdt6e1UgcWekUJO4) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Prometo](https://open.spotify.com/album/2E3vqnGi7DA7r5DTfIHA5D) | 3:21 |
-| 8 | [Con Las Ganas](https://open.spotify.com/track/7gfZYsX0TVWf6RlMOyV9RB) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [Con Las Ganas](https://open.spotify.com/album/0mtZkrJ2WBLYjggwI3dyD9) | 4:01 |
+| 7 | [Prometo](https://open.spotify.com/track/2sml6OCdt6e1UgcWekUJO4) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Prometo](https://open.spotify.com/album/2E3vqnGi7DA7r5DTfIHA5D) | 3:21 |
+| 8 | [No Te Olvido](https://open.spotify.com/track/7HqIAVm70XTRuy61urYpLT) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [No Te Olvido](https://open.spotify.com/album/1veQ29kfzujZr8HSu7BuRX) | 3:05 |
 | 9 | [Vengo Del Futuro](https://open.spotify.com/track/4mvtqRJpySaswY75a9WfVm) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido](https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj) | 4:16 |
 | 10 | [Encima De Mil](https://open.spotify.com/track/74wY2RFSQJlz7yznnDWDsj) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Despierto](https://open.spotify.com/album/5zjSZUekfzF97XyDUbWW1T) | 3:09 |
-| 11 | [No Te Olvido](https://open.spotify.com/track/7HqIAVm70XTRuy61urYpLT) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [No Te Olvido](https://open.spotify.com/album/1veQ29kfzujZr8HSu7BuRX) | 3:05 |
+| 11 | [Con Las Ganas](https://open.spotify.com/track/7gfZYsX0TVWf6RlMOyV9RB) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [Con Las Ganas](https://open.spotify.com/album/0mtZkrJ2WBLYjggwI3dyD9) | 4:01 |
 | 12 | [Contigo](https://open.spotify.com/track/0QvIVwQqVzEkZbo6cO5LES) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [La Vida](https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs) | 2:47 |
 | 13 | [Se Fuerte Corazón](https://open.spotify.com/track/6d9NFWpK97HEqAnE5tsnZw) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido](https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj) | 4:12 |
 | 14 | [Luna y Marea \(feat\. KURT\)](https://open.spotify.com/track/5Z2gkSJIibMCdbE7TWceE6) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Luna y Marea \(feat\. KURT\)](https://open.spotify.com/album/3lekI28ahWodrOaaRgmmae) | 3:48 |
@@ -50,5 +50,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wTXPn.md) - [plain]
 | 40 | [Visionz of Mine](https://open.spotify.com/track/4q9IXqEDky5QzmyKedPg8q) | [Remnant](https://open.spotify.com/artist/0cjUe5MBVQessZ3oTzsXdv), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Surviving the Game](https://open.spotify.com/album/3czXhfXFfJa3I811Rh6bhM) | 4:21 |
 | 41 | [La Mujer Perfecta \- En Vivo](https://open.spotify.com/track/4tCrl2uIZgACyuGTSvPcbM) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido En Vivo](https://open.spotify.com/album/3Gx2vWuJTFw3u2sz4GC44K) | 5:30 |
 | 42 | [Lolis](https://open.spotify.com/track/03qqmwlMWMa6yQP84Z4fmB) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [La Vida](https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs) | 2:36 |
+| 43 | [Loup](https://open.spotify.com/track/0vlAgGb9uEggSg6UEE7tME) | [RAISAIN](https://open.spotify.com/artist/1gdqmzAlBBZ2HL078KlSGt), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Hoods](https://open.spotify.com/album/4UjA9gB2ct0Tyiy9ryI15d) | 2:33 |
 
-Snapshot ID: `MjgwMjYwMzEsMDAwMDAwMDAxOGY1ODExNWRiYTJjMGMwZThjYjFkZjYwNDc3MmJmNA==`
+Snapshot ID: `MjgwMjc0MDEsMDAwMDAwMDA0NDhmZDMzNjQyMGZmZTk0YTQ4OGFkNmI1NjgwY2E0Yg==`

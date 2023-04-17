@@ -4,7 +4,7 @@
 
 > Cool vibes from the African continent.
 
-201 songs - 11 hr 37 min
+202 songs - 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,7 +193,8 @@
 | [Sweet Adetola](https://open.spotify.com/track/50DVJK20wORh3uG8Y8IDZe) | [Falana](https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj) | [Rising](https://open.spotify.com/album/4165s6MN7MgxpMbMjcgMOo) | 3:46 | 2021-10-15 | 2023-02-04 |
 | [Sweet Adetola](https://open.spotify.com/track/7hLyAxfA4obdEW8DXMsqpU) | [Falana](https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj) | [Rising](https://open.spotify.com/album/1HREWIDOSN2kOOq0FtPQVr) | 3:46 | 2021-10-15 | 2022-10-16 |
 | [Tabom Riddim](https://open.spotify.com/track/2YFZ6IaFywtwTVFSBbaIdz) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH) | [Tabom Riddim](https://open.spotify.com/album/5vUUmLs4XsolALRJIC9t1x) | 2:40 | 2022-12-02 | 2023-03-04 |
-| [Test Me](https://open.spotify.com/track/45VPTngfUEF7c5rBI2IOja) | [Jeune Lio](https://open.spotify.com/artist/1zz3LkV2ojd7rzmYf2QOsF), [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0), [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [A Night In Cocody](https://open.spotify.com/album/7HX3XJ5NzMPUVBkzYRQtWQ) | 3:40 | 2021-10-11 |  |
+| [Test Me](https://open.spotify.com/track/45VPTngfUEF7c5rBI2IOja) | [Jeune Lio](https://open.spotify.com/artist/1zz3LkV2ojd7rzmYf2QOsF), [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0), [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [A Night In Cocody](https://open.spotify.com/album/7HX3XJ5NzMPUVBkzYRQtWQ) | 3:40 | 2021-10-11 | 2023-04-17 |
+| [Test Me](https://open.spotify.com/track/7cb8EEwS3csiKjiee33ZP2) | [Jeune Lio](https://open.spotify.com/artist/1zz3LkV2ojd7rzmYf2QOsF), [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0), [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [A Night In Cocody](https://open.spotify.com/album/7fj4P4j4HNVXX5PZtMaEi2) | 3:40 | 2023-04-14 |  |
 | [The Calling](https://open.spotify.com/track/6GeJhsWvyRghhVha88TCNG) | [Rhita Nattah](https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr) | [The Calling](https://open.spotify.com/album/2ridtCRegwAWPogc0howcY) | 3:13 | 2021-12-16 | 2022-09-10 |
 | [There She Go \(Jack Sparrow\) \[feat\. Mayorkun\]](https://open.spotify.com/track/7Hjnh8OnRAmkBwcyAWl3Lr) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [There She Go \(Jack Sparrow\) \[feat\. Mayorkun\]](https://open.spotify.com/album/00gYL2JGbizwLygmFGi8Gv) | 3:11 | 2022-06-03 | 2022-07-15 |
 | [Things I Know](https://open.spotify.com/track/2AvzqDvMMRXyJhfXrBEDUb) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb) | [Things I Know](https://open.spotify.com/album/14sM4pRzpj49fEn5PJEGUP) | 2:50 | 2022-11-04 |  |

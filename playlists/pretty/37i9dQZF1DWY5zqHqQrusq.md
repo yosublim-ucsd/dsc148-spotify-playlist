@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5zqHqQrusq.md) - [plain]
 
 > Chill, take a long walk and clear your mind
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,373 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,387 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5zqHqQrusq.md) - [plain]
 | 2 | [Compare](https://open.spotify.com/track/2308PKp1LrwpZwRMtW6bWn) | [Africanvic](https://open.spotify.com/artist/49TbpwxzixxceH2mXHXkby) | [Ex Chronicles](https://open.spotify.com/album/1SWq4D1CuKTVaURbKLOIQa) | 4:02 |
 | 3 | [Home](https://open.spotify.com/track/10xrx94SPkwD7Kf3ynXCED) | [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd) | [Home](https://open.spotify.com/album/2Xt2Uq1c96N7rRKfmWQPNW) | 4:12 |
 | 4 | [Forever yours](https://open.spotify.com/track/0dd0McSQVC7kxppAEunPQN) | [Manasseh Shalom](https://open.spotify.com/artist/0l5DAChk60zrPxl18DGUT7) | [Ndoa](https://open.spotify.com/album/3vKSPMAe4vy4p8LcaOygoR) | 4:35 |
-| 5 | [Less](https://open.spotify.com/track/4RuuafWTVxluP7QgNvlIXE) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Andyah](https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX) | [Less](https://open.spotify.com/album/5oiJNwUcVFKzIICaCH0AVo) | 1:25 |
+| 5 | [Less](https://open.spotify.com/track/6ihCdfXsn8YNrt1YjANzjs) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Andyah](https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX) | [More / Less](https://open.spotify.com/album/34EoIMWzhRXhAl1zbOmi7g) | 1:25 |
 | 6 | [Nitangoja](https://open.spotify.com/track/21eRcBcsRtuHjL2jSeMu7A) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Nitangoja](https://open.spotify.com/album/1gKLgM7RsLrCf3rx3Vh2ex) | 2:38 |
 | 7 | [Sometimes](https://open.spotify.com/track/1qOVb7IpU5Mp0vM7HVVA5V) | [Njoki Karu](https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F) | [Tawasifu Ya Moyo](https://open.spotify.com/album/0BPwyOsMg7lQrdxWoy4YLv) | 3:52 |
 | 8 | [Save Me, Pt\. 2](https://open.spotify.com/track/3ZxOiRrYY7h9BIE552XeOW) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI) | [Save Me, Pt\. 2](https://open.spotify.com/album/5x2Jk0WaGbKFjFB1HtAu8F) | 2:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5zqHqQrusq.md) - [plain]
 | 49 | [Blinding Blocks Incorporated \(BBI\)](https://open.spotify.com/track/5EMLJj0bq2bYeVW2UCd62D) | [Dorphanage](https://open.spotify.com/artist/0lLs1XSa8ZCeAkOz91UgnN), [Zawadi](https://open.spotify.com/artist/0qdTYFtnAgZVgZqKMX3jnQ) | [Blinding Blocks Incorporated \(BBI\)](https://open.spotify.com/album/4VhCyAOTmopRYaiJpKpEM5) | 5:55 |
 | 50 | [time \(with my ex\)](https://open.spotify.com/track/3vdmUmL9RzhrQTD67w5dl6) | [Papa](https://open.spotify.com/artist/3yhUYybUxwJn1or7zHXWHy) | [Legacy](https://open.spotify.com/album/1RJZeNA3Awf8RBHPqQ9Cha) | 2:30 |
 
-Snapshot ID: `MTY4MDIwOTk0MCwwMDAwMDAwMDVmMjA1Y2NmNmRiMzdlNmMwNWY0NGE4MGFmZjhkZTE3`
+Snapshot ID: `MTY4MDIwOTk0MCwwMDAwMDAwMDBlZDU5MmQxYTFiZDVmYjNhYjAwMjM1ODYxODVkMWU4`

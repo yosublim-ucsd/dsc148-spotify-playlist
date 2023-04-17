@@ -136,6 +136,10 @@
       },
       "artists": [
         {
+          "name": "Sam Maghett",
+          "url": "https://open.spotify.com/artist/1xSXnf7mFuxNF0CMyQmpX2"
+        },
+        {
           "name": "John Mayall & The Bluesbreakers",
           "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
         },
@@ -342,12 +346,16 @@
       },
       "artists": [
         {
-          "name": "John Mayall & The Bluesbreakers",
-          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
-        },
-        {
           "name": "Eric Clapton",
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "John Mayall",
+          "url": "https://open.spotify.com/artist/5s4z3mRAE7nxE3jjft8J3h"
+        },
+        {
+          "name": "John Mayall & The Bluesbreakers",
+          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
         }
       ],
       "date_added": "2022-05-27",

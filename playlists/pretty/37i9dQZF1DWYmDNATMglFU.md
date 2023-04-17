@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > it's a generation ⛓ ft\. waterparks
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,621 likes - 90 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,632 likes - 90 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 51 | [Sick Of This](https://open.spotify.com/track/2HCQNsYEhghKOW0Ti47QQ1) | [Baby Fisher](https://open.spotify.com/artist/0xyKLUHH6HXyMAgsDQgVsA) | [Sick Of This](https://open.spotify.com/album/00KwLaA4RT15QJPBAEdaGJ) | 3:13 |
 | 52 | [Your Love Was My Drug Too](https://open.spotify.com/track/2ZowBjrBKqgvAM7l7qrGaG) | [Dallas](https://open.spotify.com/artist/4G7Ft324bPwyWC2v35sns8) | [Your Love Was My Drug Too](https://open.spotify.com/album/6EuadnZ9ia3u6afdV6JDD5) | 3:06 |
 | 53 | [Backtrack](https://open.spotify.com/track/7qhLm7FPhf7OjuSQoezTgC) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Backtrack](https://open.spotify.com/album/1HhLhDSaSqWGTb9DEkCt68) | 2:38 |
-| 54 | [REAL SUPER DARK](https://open.spotify.com/track/6nXtGWUzOGxfI7q5hUa6Jj) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/7exaI7MyauQNCOqbyqU27C) | 2:29 |
+| 54 | [REAL SUPER DARK](https://open.spotify.com/track/2YGfjeZvYJyy1BQrbsLmGr) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:29 |
 | 55 | [ONLY FANS](https://open.spotify.com/track/3k3hPsyEiJovWqmwwQ3nR9) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [3](https://open.spotify.com/album/10LJ6xc4AmjUcXOSKwkFfn) | 1:36 |
 | 56 | [Even When I’m Not With You](https://open.spotify.com/track/4FUT5585FDMRFq7z5ZprHC) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Even When I’m Not With You](https://open.spotify.com/album/38nUbLUn1QQvxiYOSezqJU) | 2:54 |
 | 57 | [MY HEAD](https://open.spotify.com/track/4Ky0M6BP4lKfw7lyJabZxi) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag) | [ARRIVED](https://open.spotify.com/album/5BC8FN2b91LD7tyym1ocsa) | 2:35 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 89 | [Seeing Red \(with Dusty Locane & Rah Swish\)](https://open.spotify.com/track/7eokpLlr9FBg6PdqzA2hLh) | [7evin7ins](https://open.spotify.com/artist/4Nr6sbnl0dWasnapIxS92I), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L), [Rah Swish](https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH) | [Seeing Red](https://open.spotify.com/album/5niGkfpw5sNpXPQnicsAKO) | 2:41 |
 | 90 | [Like You Love Me](https://open.spotify.com/track/4tRbfvXqGOj8fbYbXzTWrd) | [44Blonde](https://open.spotify.com/artist/4KVVfMSquW9mvY3CHFwAxX) | [Like You Love Me](https://open.spotify.com/album/2zF61PbxFf6USTCCk673nb) | 2:26 |
 
-Snapshot ID: `MTY4MTQyNjgwMCwwMDAwMDAwMDljYTc0YzYwYzk3MWY2ZTg0ODgyZTlmMmM5OTU5YjUz`
+Snapshot ID: `MTY4MTQyNjgwMCwwMDAwMDAwMGE1N2NlYzExM2JlOGZkNGI2MzNlYzA0YzY1NTUxZGFk`

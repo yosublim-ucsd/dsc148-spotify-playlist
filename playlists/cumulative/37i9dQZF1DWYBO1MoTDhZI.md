@@ -4,7 +4,7 @@
 
 > Set it off with these epic anthems\. Only good vibes here!
 
-575 songs - 1 day 7 hr 10 min
+576 songs - 1 day 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,7 +224,8 @@
 | [Harleys In Hawaii](https://open.spotify.com/track/5nCthAh3jt4xKuLJAifAaR) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Harleys In Hawaii](https://open.spotify.com/album/30UjBkRwwBeCdspCGPBB8V) | 3:05 | 2021-09-25 | 2022-03-05 |
 | [Head In The Clouds](https://open.spotify.com/track/2KsSYX6ZqPrazLabrl6EA4) | [Max Frost](https://open.spotify.com/artist/7r8xR0LmnaAM623MmRDn1V) | [Head In The Clouds](https://open.spotify.com/album/0pOrCE1nBzCciYzmorq4nk) | 3:11 | 2022-03-11 | 2022-04-09 |
 | [Heartbeat \(From the “Lyle, Lyle, Crocodile” Original Motion Picture Soundtrack\)](https://open.spotify.com/track/1gACe11pZiy8Xv3SY0ocyz) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Heartbeat \(From the “Lyle, Lyle, Crocodile” Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1ydhMijrPqgwuIxX4z90AT) | 2:20 | 2022-09-30 | 2022-10-22 |
-| [Heat Waves](https://open.spotify.com/track/6CDzDgIUqeDY5g8ujExx2f) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Heat Waves](https://open.spotify.com/album/69K1zrf6TkXHdYUO8n2qVi) | 3:58 | 2020-11-13 |  |
+| [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 | 2023-04-14 |  |
+| [Heat Waves](https://open.spotify.com/track/6CDzDgIUqeDY5g8ujExx2f) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Heat Waves](https://open.spotify.com/album/69K1zrf6TkXHdYUO8n2qVi) | 3:58 | 2020-11-13 | 2023-04-17 |
 | [Heatwave \(feat\. More Giraffes\)](https://open.spotify.com/track/2CM1iotrmpuwTe4sIQjuKW) | [MELVV](https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d), [More Giraffes](https://open.spotify.com/artist/1SKIyebAAhyPaaFp4x1Vp0) | [Heatwave \(feat\. More Giraffes\)](https://open.spotify.com/album/1ZIXNW1nqyEihYi0LB2quB) | 2:54 | 2019-09-05\* | 2021-08-28 |
 | [Heaven](https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heaven](https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3) | 3:06 | 2023-02-24 |  |
 | [Hell N Back](https://open.spotify.com/track/6xxG3HbexOhJKyiLmtUPhT) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Will You Be My Yellow?](https://open.spotify.com/album/12nH1R4NqEtaOQ5M7RA63p) | 3:33 | 2023-03-11 |  |

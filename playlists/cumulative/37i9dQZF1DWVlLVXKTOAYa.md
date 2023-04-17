@@ -4,7 +4,7 @@
 
 > The most interesting tracks in the current world of pop music.
 
-707 songs - 1 day 12 hr 19 min
+708 songs - 1 day 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 | 2022-03-24 | 2022-10-01 |
 | [Coming for You \(feat\. A1 x J1\)](https://open.spotify.com/track/1xIqDFx3KdByBnKMlTECcM) | [SwitchOTR](https://open.spotify.com/artist/6Xz6ZnGZZ1KKct4jTyKKZv), [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy) | [Coming for You \(feat\. A1 x J1\)](https://open.spotify.com/album/21CCyLhWrr8nA2wKhUf6zH) | 2:58 | 2022-03-24 | 2022-04-18 |
 | [COMPLETE MESS](https://open.spotify.com/track/1Y8COP6Oqef3UxIONvzx6I) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [COMPLETE MESS](https://open.spotify.com/album/5nALCJT36REzB4oFpXki54) | 3:26 | 2022-03-24 | 2022-07-29 |
+| [Cool About It](https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:00 | 2023-03-30 |  |
 | [Cooped Up \(with Roddy Ricch\)](https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Cooped Up](https://open.spotify.com/album/6sjdohc8ouX9jHxIyqi6mi) | 3:05 | 2022-07-07 | 2022-11-26 |
 | [Cowboys Don’t Cry](https://open.spotify.com/track/13plTOJUDmgBrTEd7yzTgq) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboys Don’t Cry](https://open.spotify.com/album/3vAAKKBTjbIAKcJDprhhEQ) | 3:09 | 2022-03-24 | 2022-04-19 |
 | [Crash](https://open.spotify.com/track/0CoKakshKgdDSDhb1pzWdZ) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Crash](https://open.spotify.com/album/3jUPJ9cVv8woNRpqwn3JwN) | 3:10 | 2021-12-16 | 2022-07-29 |
@@ -686,7 +687,7 @@
 | [Where Did You Go? \(feat\. MNEK\)](https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Where Did You Go \(feat\. MNEK\)](https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL) | 2:57 | 2022-07-07 |  |
 | [Where do we go now?](https://open.spotify.com/track/4bYwK4mvWubnAkCextxH2d) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Where do we go now?](https://open.spotify.com/album/4ygkwRaKsCul6Hi0YBck0T) | 4:03 | 2023-02-02 | 2023-02-16 |
 | [WHERE WE ARE](https://open.spotify.com/track/4MTmAFWHpvB9kPMSRgLFRp) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/5Vb119mjQekK46CfEWDQXW) | 2:52 | 2022-03-24 | 2022-04-08 |
-| [Who We Love \(feat\. Ed Sheeran\)](https://open.spotify.com/track/16axxBqfSvis8mjhrLHWeH) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Gloria](https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV) | 2:42 | 2023-02-09 |  |
+| [Who We Love \(feat\. Ed Sheeran\)](https://open.spotify.com/track/16axxBqfSvis8mjhrLHWeH) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Gloria](https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV) | 2:42 | 2023-02-09 | 2023-04-17 |
 | [Who's In Your Head](https://open.spotify.com/track/5nhW8I46uDE5sc5ouEbzao) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Who's In Your Head](https://open.spotify.com/album/3olWRKG2KFhJoWsSRpCpja) | 3:03 | 2021-12-16 | 2022-07-29 |
 | [willow](https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 3:34 | 2021-12-16 | 2022-07-29 |
 | [Wishful Thinking](https://open.spotify.com/track/2JtbYlm4BF5rLFrhkyHXU1) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Wishful Thinking](https://open.spotify.com/album/6X2z7A7ecxou7Hz7haotFO) | 4:03 | 2022-03-24 | 2022-04-20 |

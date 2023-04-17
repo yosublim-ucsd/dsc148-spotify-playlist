@@ -4,7 +4,7 @@
 
 > Kick back to the best new and recent chill hits.
 
-888 songs - 2 day 0 hr 7 min
+889 songs - 2 day 0 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,7 +345,8 @@
 | [Heart of Stone](https://open.spotify.com/track/4GLfpBALr6qDqf5y1jrG2Y) | [Rasmus Walter](https://open.spotify.com/artist/3TFrzDINlnsWcldbfsZlpJ) | [Heart of Stone](https://open.spotify.com/album/4DT84k3Ux03HyDQChr5fqb) | 3:19 | 2019-06-23 | 2020-01-04 |
 | [Heartless \(feat\. Morgan Wallen\)](https://open.spotify.com/track/4uNV7GyGEBZzPDdetEEvhS) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Heartless \(feat\. Morgan Wallen\)](https://open.spotify.com/album/1qfAEnjx3OGSAYvFWsbnWa) | 2:52 | 2020-03-06 | 2021-02-04 |
 | [Heartless \(feat\. Morgan Wallen\)](https://open.spotify.com/track/0rFQ5cKYJ9WtHSKp9sxVYt) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Heartless \(feat\. Morgan Wallen\)](https://open.spotify.com/album/4YEes0AZtUChqtLBwaQLzh) | 2:49 | 2019-10-25 | 2019-10-26 |
-| [Heat Waves](https://open.spotify.com/track/6CDzDgIUqeDY5g8ujExx2f) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Heat Waves](https://open.spotify.com/album/69K1zrf6TkXHdYUO8n2qVi) | 3:58 | 2020-08-20 |  |
+| [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 | 2023-03-23 |  |
+| [Heat Waves](https://open.spotify.com/track/6CDzDgIUqeDY5g8ujExx2f) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Heat Waves](https://open.spotify.com/album/69K1zrf6TkXHdYUO8n2qVi) | 3:58 | 2020-08-20 | 2023-04-17 |
 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 | 2020-06-25 |  |
 | [Heaven](https://open.spotify.com/track/4hpGHoJuJTtAqq9pkevLp6) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Heaven](https://open.spotify.com/album/1K5R5JjqMQnT9wFFCGMGnw) | 3:14 | 2022-05-06 | 2022-07-29 |
 | [Heaven](https://open.spotify.com/track/7zzl5nLmPPkAwk2MRIUpa4) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Heaven](https://open.spotify.com/album/7zvlOXQgusNzrFMADWbz8G) | 2:49 | 2021-02-12 | 2021-05-21 |

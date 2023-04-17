@@ -1,12 +1,12 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Catie Offerman",
-  "num_followers": 403516,
+  "num_followers": 403565,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDE0ZjNjMTE1ZmZjMGQ2M2Y2MDkxOWZkODcwMzNlMTEw",
+  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDI2YTBmZDk1OWZiMjViZGE5YmNiNmExMTNiZmZjYTgx",
   "tracks": [
     {
       "added_at": "2023-04-14 04:00:00",
@@ -279,18 +279,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "West Texas Weather",
-        "url": "https://open.spotify.com/album/1tUtPFJsbs48xPkgfjsWsP"
+        "name": "Happier Alone (feat. Koe Wetzel)",
+        "url": "https://open.spotify.com/album/3FMpvDKoq0GAMYKn72pqlC"
       },
       "artists": [
         {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+          "name": "Austin Meade",
+          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
+        },
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 187669,
-      "name": "West Texas Weather",
-      "url": "https://open.spotify.com/track/1eXFUXzL0maY3l9frWfnhE"
+      "duration_ms": 224027,
+      "name": "Happier Alone (feat. Koe Wetzel)",
+      "url": "https://open.spotify.com/track/4VyZr1v1MNeZbl6eV8ZJGh"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -375,22 +379,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Happier Alone (feat. Koe Wetzel)",
-        "url": "https://open.spotify.com/album/3FMpvDKoq0GAMYKn72pqlC"
+        "name": "West Texas Weather",
+        "url": "https://open.spotify.com/album/1tUtPFJsbs48xPkgfjsWsP"
       },
       "artists": [
         {
-          "name": "Austin Meade",
-          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
-        },
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
         }
       ],
-      "duration_ms": 224027,
-      "name": "Happier Alone (feat. Koe Wetzel)",
-      "url": "https://open.spotify.com/track/4VyZr1v1MNeZbl6eV8ZJGh"
+      "duration_ms": 187669,
+      "name": "West Texas Weather",
+      "url": "https://open.spotify.com/track/1eXFUXzL0maY3l9frWfnhE"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "717 Tapes the Album",
-        "url": "https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 169853,
-      "name": "Burn It Down - 717 Tapes",
-      "url": "https://open.spotify.com/track/59lRASvykN3UQstK839tep"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "You In A Honky Tonk",
         "url": "https://open.spotify.com/album/4UQUjGOmIqVh7mg0c7hYeJ"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 183570,
       "name": "You In A Honky Tonk",
       "url": "https://open.spotify.com/track/76DhLVnoczE6umkHKR2Ec6"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "The Comeback",
+        "url": "https://open.spotify.com/album/3HAqDprp8YxHEguHkCcfOC"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "duration_ms": 198722,
+      "name": "Wild Palomino",
+      "url": "https://open.spotify.com/track/25Pnn7yc213pC2sFUaaINZ"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -479,18 +479,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "The Comeback",
-        "url": "https://open.spotify.com/album/3HAqDprp8YxHEguHkCcfOC"
+        "name": "Creeps",
+        "url": "https://open.spotify.com/album/2lUDd3HMuFnMgK3KfniBGB"
       },
       "artists": [
         {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 198722,
-      "name": "Wild Palomino",
-      "url": "https://open.spotify.com/track/25Pnn7yc213pC2sFUaaINZ"
+      "duration_ms": 226309,
+      "name": "Creeps",
+      "url": "https://open.spotify.com/track/0zOert4KpMDEf332FVRuxb"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -535,18 +535,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Creeps",
-        "url": "https://open.spotify.com/album/2lUDd3HMuFnMgK3KfniBGB"
+        "name": "717 Tapes the Album",
+        "url": "https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU"
       },
       "artists": [
         {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
         }
       ],
-      "duration_ms": 226309,
-      "name": "Creeps",
-      "url": "https://open.spotify.com/track/0zOert4KpMDEf332FVRuxb"
+      "duration_ms": 169853,
+      "name": "Burn It Down - 717 Tapes",
+      "url": "https://open.spotify.com/track/59lRASvykN3UQstK839tep"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "April Showers",
+        "url": "https://open.spotify.com/album/35DYE0Y5qdxojyBA2CXVYX"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 182346,
+      "name": "April Showers",
+      "url": "https://open.spotify.com/track/0E2VoyCHqPn47yGMVgQmrK"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Heaven Down Here",
         "url": "https://open.spotify.com/album/7sabls2pdbgDGN05k9yAIq"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 215977,
       "name": "Easy on the Eyes",
       "url": "https://open.spotify.com/track/5dE2CsXCL0Nvg8qG7NUKg1"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "The Highway Kind",
-        "url": "https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ"
-      },
-      "artists": [
-        {
-          "name": "Josh Abbott Band",
-          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
-        }
-      ],
-      "duration_ms": 182090,
-      "name": "Real Damn Good",
-      "url": "https://open.spotify.com/track/1LMWwN346h8JYkQQ5MEzbZ"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -631,18 +631,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "April Showers",
-        "url": "https://open.spotify.com/album/35DYE0Y5qdxojyBA2CXVYX"
+        "name": "The Highway Kind",
+        "url": "https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ"
       },
       "artists": [
         {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+          "name": "Josh Abbott Band",
+          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
         }
       ],
-      "duration_ms": 182346,
-      "name": "April Showers",
-      "url": "https://open.spotify.com/track/0E2VoyCHqPn47yGMVgQmrK"
+      "duration_ms": 182090,
+      "name": "Real Damn Good",
+      "url": "https://open.spotify.com/track/1LMWwN346h8JYkQQ5MEzbZ"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "The Highway Kind",
-        "url": "https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ"
-      },
-      "artists": [
-        {
-          "name": "Josh Abbott Band",
-          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
-        }
-      ],
-      "duration_ms": 239763,
-      "name": "The Highway Kind",
-      "url": "https://open.spotify.com/track/1DBoVgENKo0xEOAsQS3TK3"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Stay Tuned",
         "url": "https://open.spotify.com/album/6o4nLp0Ra5dW31bxWk91s6"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 200547,
       "name": "Stay Tuned",
       "url": "https://open.spotify.com/track/2dOtM9EeM3bhQvzOWEQPwP"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Hurt No More",
+        "url": "https://open.spotify.com/album/2XYMwjnmcRzpGAPmJQrQyG"
+      },
+      "artists": [
+        {
+          "name": "Pecos & the Rooftops",
+          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
+        }
+      ],
+      "duration_ms": 214582,
+      "name": "Hurt No More",
+      "url": "https://open.spotify.com/track/3qJ5OBunIPNIvU4WAI6RYh"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -759,18 +759,34 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Hurt No More",
-        "url": "https://open.spotify.com/album/2XYMwjnmcRzpGAPmJQrQyG"
+        "name": "The Highway Kind",
+        "url": "https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ"
       },
       "artists": [
         {
-          "name": "Pecos & the Rooftops",
-          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
+          "name": "Josh Abbott Band",
+          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
         }
       ],
-      "duration_ms": 214582,
-      "name": "Hurt No More",
-      "url": "https://open.spotify.com/track/3qJ5OBunIPNIvU4WAI6RYh"
+      "duration_ms": 239763,
+      "name": "The Highway Kind",
+      "url": "https://open.spotify.com/track/1DBoVgENKo0xEOAsQS3TK3"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Neon You",
+        "url": "https://open.spotify.com/album/760jwSfqYPJ0qmPlTPOQaz"
+      },
+      "artists": [
+        {
+          "name": "Don Louis",
+          "url": "https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX"
+        }
+      ],
+      "duration_ms": 187906,
+      "name": "Neon You",
+      "url": "https://open.spotify.com/track/2AlEprA31NMOha3nS5TLvI"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -807,22 +823,6 @@
       "duration_ms": 248866,
       "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
       "url": "https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Neon You",
-        "url": "https://open.spotify.com/album/760jwSfqYPJ0qmPlTPOQaz"
-      },
-      "artists": [
-        {
-          "name": "Don Louis",
-          "url": "https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX"
-        }
-      ],
-      "duration_ms": 187906,
-      "name": "Neon You",
-      "url": "https://open.spotify.com/track/2AlEprA31NMOha3nS5TLvI"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Tears the Size of Texas",
-        "url": "https://open.spotify.com/album/79l3KSw4fOnOvixKQB1yPI"
-      },
-      "artists": [
-        {
-          "name": "Ben Burgess",
-          "url": "https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa"
-        }
-      ],
-      "duration_ms": 238177,
-      "name": "Tears the Size of Texas",
-      "url": "https://open.spotify.com/track/3dty7RRoFfyFTylgKAAy2V"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Different Now",
         "url": "https://open.spotify.com/album/7uMjBi7VLbpjEQOgNcTSI7"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 189009,
       "name": "Different Now",
       "url": "https://open.spotify.com/track/50F1kaXRx8Ns8PvZDj3ZLR"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Tears the Size of Texas",
+        "url": "https://open.spotify.com/album/79l3KSw4fOnOvixKQB1yPI"
+      },
+      "artists": [
+        {
+          "name": "Ben Burgess",
+          "url": "https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa"
+        }
+      ],
+      "duration_ms": 238177,
+      "name": "Tears the Size of Texas",
+      "url": "https://open.spotify.com/track/3dty7RRoFfyFTylgKAAy2V"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Built Different",
-        "url": "https://open.spotify.com/album/4ShfeQkF2wvKB17ZrMnKTn"
-      },
-      "artists": [
-        {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
-        }
-      ],
-      "duration_ms": 180453,
-      "name": "Built Different",
-      "url": "https://open.spotify.com/track/0zEAZTsPl7VXJJ6vx2iAkZ"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Turning Point",
         "url": "https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 153125,
       "name": "The Road",
       "url": "https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Built Different",
+        "url": "https://open.spotify.com/album/4ShfeQkF2wvKB17ZrMnKTn"
+      },
+      "artists": [
+        {
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+        }
+      ],
+      "duration_ms": 180453,
+      "name": "Built Different",
+      "url": "https://open.spotify.com/track/0zEAZTsPl7VXJJ6vx2iAkZ"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1219,18 +1219,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "FREE",
-        "url": "https://open.spotify.com/album/3rSKjvRVAGtNE038X3pjXb"
+        "name": "Josh Abbott Band and Friends, Vol. 1",
+        "url": "https://open.spotify.com/album/5BjTd8BVd3dLRyimZROpTl"
       },
       "artists": [
         {
-          "name": "Chad Cooke Band",
-          "url": "https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H"
+          "name": "Josh Abbott Band",
+          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
+        },
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
         }
       ],
-      "duration_ms": 224894,
-      "name": "I Just Want You",
-      "url": "https://open.spotify.com/track/1saE5pulEvPKbcWyRX6stQ"
+      "duration_ms": 279115,
+      "name": "Don't It Make You Wanna Dance?",
+      "url": "https://open.spotify.com/track/5ukTAX4siTE3rX728mlHzC"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1267,22 +1271,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Josh Abbott Band and Friends, Vol. 1",
-        "url": "https://open.spotify.com/album/5BjTd8BVd3dLRyimZROpTl"
+        "name": "FREE",
+        "url": "https://open.spotify.com/album/3rSKjvRVAGtNE038X3pjXb"
       },
       "artists": [
         {
-          "name": "Josh Abbott Band",
-          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
-        },
-        {
-          "name": "Flatland Cavalry",
-          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+          "name": "Chad Cooke Band",
+          "url": "https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H"
         }
       ],
-      "duration_ms": 279115,
-      "name": "Don't It Make You Wanna Dance?",
-      "url": "https://open.spotify.com/track/5ukTAX4siTE3rX728mlHzC"
+      "duration_ms": 224894,
+      "name": "I Just Want You",
+      "url": "https://open.spotify.com/track/1saE5pulEvPKbcWyRX6stQ"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Fooled Around",
-        "url": "https://open.spotify.com/album/1CDfkllTerM9sZEAs0Gd0Q"
+        "name": "Give It Some Time",
+        "url": "https://open.spotify.com/album/3dWR1apPIDKdn4iV2uIFGD"
       },
       "artists": [
         {
-          "name": "Presley Drake",
-          "url": "https://open.spotify.com/artist/0IQG9LULw1mZehtAXtF9ld"
+          "name": "Tanner Usrey",
+          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
         }
       ],
-      "duration_ms": 192125,
-      "name": "Fooled Around",
-      "url": "https://open.spotify.com/track/5BIOWZoUF45eU07lNuPXz6"
+      "duration_ms": 202920,
+      "name": "Give It Some Time",
+      "url": "https://open.spotify.com/track/3EYGT2jL6afEPBohmfnEIE"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Fooled Around",
+        "url": "https://open.spotify.com/album/1CDfkllTerM9sZEAs0Gd0Q"
+      },
+      "artists": [
+        {
+          "name": "Presley Drake",
+          "url": "https://open.spotify.com/artist/0IQG9LULw1mZehtAXtF9ld"
+        }
+      ],
+      "duration_ms": 192125,
+      "name": "Fooled Around",
+      "url": "https://open.spotify.com/track/5BIOWZoUF45eU07lNuPXz6"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Baby Do",
         "url": "https://open.spotify.com/album/06EhqGLZlsxKMC6O2sPVgG"
       },
@@ -1527,22 +1543,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "I'm Not Him",
-        "url": "https://open.spotify.com/album/5WIjwjbdNGAbATC0iSnyO7"
-      },
-      "artists": [
-        {
-          "name": "Braxton Keith",
-          "url": "https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf"
-        }
-      ],
-      "duration_ms": 195882,
-      "name": "I'm Not Him",
-      "url": "https://open.spotify.com/track/6nuOYIRmlyQIBZZ11Zmmr0"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Girl from Oklahoma",
         "url": "https://open.spotify.com/album/3Oobv5KUzcKbzjrG0iSzV3"
       },
@@ -1555,6 +1555,22 @@
       "duration_ms": 193023,
       "name": "Girl from Oklahoma",
       "url": "https://open.spotify.com/track/6mNWosdjTtMrzqhit3h5cz"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "I'm Not Him",
+        "url": "https://open.spotify.com/album/5WIjwjbdNGAbATC0iSnyO7"
+      },
+      "artists": [
+        {
+          "name": "Braxton Keith",
+          "url": "https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf"
+        }
+      ],
+      "duration_ms": 195882,
+      "name": "I'm Not Him",
+      "url": "https://open.spotify.com/track/6nuOYIRmlyQIBZZ11Zmmr0"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1667,22 +1683,6 @@
       "duration_ms": 235920,
       "name": "But Me",
       "url": "https://open.spotify.com/track/4Y6NQuXwIQNbRJccgE9ul2"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Homecoming",
-        "url": "https://open.spotify.com/album/1Om7EoqiNsXCCMeiTzC9BZ"
-      },
-      "artists": [
-        {
-          "name": "Randy Rogers Band",
-          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
-        }
-      ],
-      "duration_ms": 208827,
-      "name": "Fast Car",
-      "url": "https://open.spotify.com/track/40TItUSmH99bXtbzp0pl4H"
     }
   ],
   "unique_name": "Texas Country Now",

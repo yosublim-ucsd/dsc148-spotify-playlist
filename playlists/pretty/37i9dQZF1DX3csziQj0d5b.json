@@ -1,12 +1,12 @@
 {
   "description": "Some bops to take the pain of homework away.",
-  "num_followers": 1487717,
+  "num_followers": 1489159,
   "original_name": "homework vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ3MDAwMCwwMDAwMDAwMGZjMDMzNjczNDFjMDdlNmY4ZDY3NDAyMWFjOGQwMWY2",
+  "snapshot_id": "MTY4MTQ3MDAwMCwwMDAwMDAwMDA2YmM3NTY5NWUwNTQzMjkzNzZkM2M3YjdkNzE4MmU1",
   "tracks": [
     {
       "added_at": "2023-04-07 20:02:26",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-04-07 20:02:26",
       "album": {
-        "name": "Indigo (Extended)",
-        "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 184613,
-      "name": "Under The Influence",
-      "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
-    },
-    {
-      "added_at": "2023-04-07 20:02:26",
-      "album": {
         "name": "People",
         "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 184791,
       "name": "People",
       "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
+    },
+    {
+      "added_at": "2023-04-07 20:02:26",
+      "album": {
+        "name": "Indigo (Extended)",
+        "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 184613,
+      "name": "Under The Influence",
+      "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
     },
     {
       "added_at": "2023-04-07 20:02:26",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-04-07 20:02:26",
       "album": {
-        "name": "FOUR (Deluxe)",
-        "url": "https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY"
-      },
-      "artists": [
-        {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
-        }
-      ],
-      "duration_ms": 226600,
-      "name": "Night Changes",
-      "url": "https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ"
-    },
-    {
-      "added_at": "2023-04-07 20:02:26",
-      "album": {
         "name": "Eyes Closed",
         "url": "https://open.spotify.com/album/43qfLpwe6sEOEqxVmOHRu0"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 194848,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/07bsRv0pcpbG4zJeLsUs1p"
+    },
+    {
+      "added_at": "2023-04-07 20:02:26",
+      "album": {
+        "name": "FOUR (Deluxe)",
+        "url": "https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "duration_ms": 226600,
+      "name": "Night Changes",
+      "url": "https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ"
     },
     {
       "added_at": "2023-04-07 20:02:26",
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-04-07 20:02:26",
       "album": {
-        "name": "Lift Me Up (From Black Panther: Wakanda Forever - Music From and Inspired By)",
-        "url": "https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h"
+        "name": "you broke me first",
+        "url": "https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc"
       },
       "artists": [
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 196519,
-      "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
-      "url": "https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg"
+      "duration_ms": 169265,
+      "name": "you broke me first",
+      "url": "https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR"
     },
     {
       "added_at": "2023-04-07 20:02:26",
@@ -859,18 +859,18 @@
     {
       "added_at": "2023-04-07 20:02:26",
       "album": {
-        "name": "you broke me first",
-        "url": "https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc"
+        "name": "Lift Me Up (From Black Panther: Wakanda Forever - Music From and Inspired By)",
+        "url": "https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h"
       },
       "artists": [
         {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 169265,
-      "name": "you broke me first",
-      "url": "https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR"
+      "duration_ms": 196519,
+      "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
+      "url": "https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg"
     },
     {
       "added_at": "2023-04-07 20:02:26",
@@ -915,6 +915,26 @@
     {
       "added_at": "2023-04-07 20:02:26",
       "album": {
+        "name": "death bed (coffee for your head)",
+        "url": "https://open.spotify.com/album/2p9gK2BcdrloHNJwarc9gc"
+      },
+      "artists": [
+        {
+          "name": "Powfu",
+          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
+        },
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "death bed (coffee for your head)",
+      "url": "https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx"
+    },
+    {
+      "added_at": "2023-04-07 20:02:26",
+      "album": {
         "name": "Left and Right (Feat. Jung Kook of BTS)",
         "url": "https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF"
       },
@@ -939,38 +959,22 @@
     {
       "added_at": "2023-04-07 20:02:26",
       "album": {
-        "name": "death bed (coffee for your head)",
-        "url": "https://open.spotify.com/album/2p9gK2BcdrloHNJwarc9gc"
+        "name": "Hollywood's Bleeding",
+        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
       },
       "artists": [
         {
-          "name": "Powfu",
-          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         },
         {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
         }
       ],
-      "duration_ms": 173333,
-      "name": "death bed (coffee for your head)",
-      "url": "https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx"
-    },
-    {
-      "added_at": "2023-04-07 20:02:26",
-      "album": {
-        "name": "Dawn FM",
-        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 214193,
-      "name": "Out of Time",
-      "url": "https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV"
+      "duration_ms": 157560,
+      "name": "Sunflower - Spider-Man: Into the Spider-Verse",
+      "url": "https://open.spotify.com/track/0RiRZpuVRbi7oqRdSMwhQY"
     },
     {
       "added_at": "2023-04-07 20:02:26",
@@ -987,6 +991,22 @@
       "duration_ms": 173160,
       "name": "jealousy, jealousy",
       "url": "https://open.spotify.com/track/0MMyJUC3WNnFS1lit5pTjk"
+    },
+    {
+      "added_at": "2023-04-07 20:02:26",
+      "album": {
+        "name": "Dawn FM",
+        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 214193,
+      "name": "Out of Time",
+      "url": "https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV"
     },
     {
       "added_at": "2023-04-07 20:02:26",
@@ -1027,26 +1047,6 @@
     {
       "added_at": "2023-04-07 20:02:26",
       "album": {
-        "name": "Hollywood's Bleeding",
-        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
-        }
-      ],
-      "duration_ms": 157560,
-      "name": "Sunflower - Spider-Man: Into the Spider-Verse",
-      "url": "https://open.spotify.com/track/0RiRZpuVRbi7oqRdSMwhQY"
-    },
-    {
-      "added_at": "2023-04-07 20:02:26",
-      "album": {
         "name": "TAKE TIME",
         "url": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
       },
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-04-07 20:02:26",
       "album": {
+        "name": "CKay The First",
+        "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 145800,
+      "name": "love nwantiti (ah ah ah)",
+      "url": "https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g"
+    },
+    {
+      "added_at": "2023-04-07 20:02:26",
+      "album": {
         "name": "Stuck with U",
         "url": "https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 228482,
       "name": "Stuck with U (with Justin Bieber)",
       "url": "https://open.spotify.com/track/4HBZA5flZLE435QTztThqH"
-    },
-    {
-      "added_at": "2023-04-07 20:02:26",
-      "album": {
-        "name": "CKay The First",
-        "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 145800,
-      "name": "love nwantiti (ah ah ah)",
-      "url": "https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g"
     },
     {
       "added_at": "2023-04-07 20:02:26",
@@ -1191,6 +1191,22 @@
       "duration_ms": 200379,
       "name": "ocean eyes",
       "url": "https://open.spotify.com/track/7hDVYcQq6MxkdJGweuCtl9"
+    },
+    {
+      "added_at": "2023-04-07 20:02:26",
+      "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
     },
     {
       "added_at": "2023-04-07 20:02:26",
@@ -1279,22 +1295,6 @@
     {
       "added_at": "2023-04-07 20:02:26",
       "album": {
-        "name": "Lukas Graham",
-        "url": "https://open.spotify.com/album/4rFrdkSWs0dtj0rWPzOk1v"
-      },
-      "artists": [
-        {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
-        }
-      ],
-      "duration_ms": 237300,
-      "name": "7 Years",
-      "url": "https://open.spotify.com/track/5kqIPrATaCc2LqxVWzQGbk"
-    },
-    {
-      "added_at": "2023-04-07 20:02:26",
-      "album": {
         "name": "Freudian",
         "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
       },
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2023-04-07 20:02:26",
       "album": {
+        "name": "Lukas Graham",
+        "url": "https://open.spotify.com/album/4rFrdkSWs0dtj0rWPzOk1v"
+      },
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        }
+      ],
+      "duration_ms": 237300,
+      "name": "7 Years",
+      "url": "https://open.spotify.com/track/5kqIPrATaCc2LqxVWzQGbk"
+    },
+    {
+      "added_at": "2023-04-07 20:02:26",
+      "album": {
         "name": "We Sing. We Dance. We Steal Things.",
         "url": "https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5"
       },
@@ -1363,22 +1379,6 @@
     {
       "added_at": "2023-04-07 20:02:26",
       "album": {
-        "name": "Pano",
-        "url": "https://open.spotify.com/album/1HJ34zQqSqNvZeO2W6dE01"
-      },
-      "artists": [
-        {
-          "name": "Zack Tabudlo",
-          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
-        }
-      ],
-      "duration_ms": 254400,
-      "name": "Pano",
-      "url": "https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc"
-    },
-    {
-      "added_at": "2023-04-07 20:02:26",
-      "album": {
         "name": "THE END OF EVERYTHING",
         "url": "https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5"
       },
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2023-04-07 20:02:26",
       "album": {
+        "name": "Pano",
+        "url": "https://open.spotify.com/album/1HJ34zQqSqNvZeO2W6dE01"
+      },
+      "artists": [
+        {
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+        }
+      ],
+      "duration_ms": 254400,
+      "name": "Pano",
+      "url": "https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc"
+    },
+    {
+      "added_at": "2023-04-07 20:02:26",
+      "album": {
         "name": "Strawberries & Cigarettes",
         "url": "https://open.spotify.com/album/5L0bixsyXEkomsyucUySjy"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 201538,
       "name": "Strawberries & Cigarettes",
       "url": "https://open.spotify.com/track/3afkJSKX0EAMsJXTZnDXXJ"
-    },
-    {
-      "added_at": "2023-04-07 20:02:26",
-      "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
     },
     {
       "added_at": "2023-04-07 20:02:26",
@@ -1787,18 +1787,18 @@
     {
       "added_at": "2023-04-07 20:02:26",
       "album": {
-        "name": "all the things i never said",
-        "url": "https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8"
+        "name": "Joanne (Deluxe)",
+        "url": "https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh"
       },
       "artists": [
         {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
-      "duration_ms": 175026,
-      "name": "that way",
-      "url": "https://open.spotify.com/track/7l97ElWmIdVHWUaOeeU5ZC"
+      "duration_ms": 205280,
+      "name": "Million Reasons",
+      "url": "https://open.spotify.com/track/7dZ1Odmx9jWIweQSatnRqo"
     },
     {
       "added_at": "2023-04-07 20:02:26",
@@ -1819,18 +1819,18 @@
     {
       "added_at": "2023-04-07 20:02:26",
       "album": {
-        "name": "Joanne (Deluxe)",
-        "url": "https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh"
+        "name": "all the things i never said",
+        "url": "https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 205280,
-      "name": "Million Reasons",
-      "url": "https://open.spotify.com/track/7dZ1Odmx9jWIweQSatnRqo"
+      "duration_ms": 175026,
+      "name": "that way",
+      "url": "https://open.spotify.com/track/7l97ElWmIdVHWUaOeeU5ZC"
     },
     {
       "added_at": "2023-04-07 20:02:26",
@@ -1863,6 +1863,38 @@
       "duration_ms": 181613,
       "name": "comethru",
       "url": "https://open.spotify.com/track/18uwL0vNUanqZH0ro2QcOP"
+    },
+    {
+      "added_at": "2023-04-07 20:02:26",
+      "album": {
+        "name": "Narrated For You",
+        "url": "https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "duration_ms": 181522,
+      "name": "If We Have Each Other",
+      "url": "https://open.spotify.com/track/7pT6WSg4PCt4mr5ZFyUfsF"
+    },
+    {
+      "added_at": "2023-04-07 20:02:26",
+      "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/1UH6aVsmnWRjsB5Tq0qUhF"
+      },
+      "artists": [
+        {
+          "name": "Stephen Dawes",
+          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Teenage Dream",
+      "url": "https://open.spotify.com/track/3GWaFFi6TlPcZLYmCCHZ9O"
     },
     {
       "added_at": "2023-04-07 20:02:26",
@@ -1903,22 +1935,6 @@
     {
       "added_at": "2023-04-07 20:02:26",
       "album": {
-        "name": "Teenage Dream",
-        "url": "https://open.spotify.com/album/1UH6aVsmnWRjsB5Tq0qUhF"
-      },
-      "artists": [
-        {
-          "name": "Stephen Dawes",
-          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Teenage Dream",
-      "url": "https://open.spotify.com/track/3GWaFFi6TlPcZLYmCCHZ9O"
-    },
-    {
-      "added_at": "2023-04-07 20:02:26",
-      "album": {
         "name": "It'll Be Okay",
         "url": "https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r"
       },
@@ -1931,22 +1947,6 @@
       "duration_ms": 222800,
       "name": "It'll Be Okay",
       "url": "https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD"
-    },
-    {
-      "added_at": "2023-04-07 20:02:26",
-      "album": {
-        "name": "Narrated For You",
-        "url": "https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ"
-      },
-      "artists": [
-        {
-          "name": "Alec Benjamin",
-          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
-        }
-      ],
-      "duration_ms": 181522,
-      "name": "If We Have Each Other",
-      "url": "https://open.spotify.com/track/7pT6WSg4PCt4mr5ZFyUfsF"
     },
     {
       "added_at": "2023-04-07 20:02:26",
@@ -1967,18 +1967,18 @@
     {
       "added_at": "2023-04-07 20:02:26",
       "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
+        "name": "Narrated For You",
+        "url": "https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
         }
       ],
-      "duration_ms": 156467,
-      "name": "Off My Face",
-      "url": "https://open.spotify.com/track/3T03rPwlL8NVk1yIaxeD8U"
+      "duration_ms": 218893,
+      "name": "Water Fountain",
+      "url": "https://open.spotify.com/track/4IhKLu7Vk3j2TLmnFPl6To"
     },
     {
       "added_at": "2023-04-07 20:02:26",
@@ -1995,6 +1995,22 @@
       "duration_ms": 193733,
       "name": "GHOST TOWN",
       "url": "https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH"
+    },
+    {
+      "added_at": "2023-04-07 20:02:26",
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 156467,
+      "name": "Off My Face",
+      "url": "https://open.spotify.com/track/3T03rPwlL8NVk1yIaxeD8U"
     },
     {
       "added_at": "2023-04-07 20:02:26",
@@ -2019,22 +2035,6 @@
     {
       "added_at": "2023-04-07 20:02:26",
       "album": {
-        "name": "Narrated For You",
-        "url": "https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ"
-      },
-      "artists": [
-        {
-          "name": "Alec Benjamin",
-          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
-        }
-      ],
-      "duration_ms": 218893,
-      "name": "Water Fountain",
-      "url": "https://open.spotify.com/track/4IhKLu7Vk3j2TLmnFPl6To"
-    },
-    {
-      "added_at": "2023-04-07 20:02:26",
-      "album": {
         "name": "10,000 Hours (with Justin Bieber)",
         "url": "https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY"
       },
@@ -2051,22 +2051,6 @@
       "duration_ms": 167693,
       "name": "10,000 Hours (with Justin Bieber)",
       "url": "https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa"
-    },
-    {
-      "added_at": "2023-04-07 20:02:26",
-      "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 185480,
-      "name": "Harleys In Hawaii",
-      "url": "https://open.spotify.com/track/3B4etxytImrRKQgV3XHjnR"
     },
     {
       "added_at": "2023-04-07 20:02:26",
@@ -2091,6 +2075,22 @@
       "duration_ms": 189486,
       "name": "Memories Remix (feat. Nipsey Hussle & YG)",
       "url": "https://open.spotify.com/track/3p4WMekidOIiyf8SFvfrIC"
+    },
+    {
+      "added_at": "2023-04-07 20:02:26",
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 185480,
+      "name": "Harleys In Hawaii",
+      "url": "https://open.spotify.com/track/3B4etxytImrRKQgV3XHjnR"
     },
     {
       "added_at": "2023-04-07 20:02:26",
@@ -2351,18 +2351,18 @@
     {
       "added_at": "2023-04-07 20:02:26",
       "album": {
-        "name": "Give Or Take",
-        "url": "https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L"
+        "name": "Feel Something (Deluxe)",
+        "url": "https://open.spotify.com/album/5NE8n9E4dMUFvOUZo0tv6p"
       },
       "artists": [
         {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+          "name": "Jaymes Young",
+          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
         }
       ],
-      "duration_ms": 180953,
-      "name": "Lost Me",
-      "url": "https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim"
+      "duration_ms": 228442,
+      "name": "Happiest Year",
+      "url": "https://open.spotify.com/track/219slQu3ALbTSAe9P22hvE"
     },
     {
       "added_at": "2023-04-07 20:02:26",
@@ -2383,18 +2383,18 @@
     {
       "added_at": "2023-04-07 20:02:26",
       "album": {
-        "name": "Feel Something (Deluxe)",
-        "url": "https://open.spotify.com/album/5NE8n9E4dMUFvOUZo0tv6p"
+        "name": "Give Or Take",
+        "url": "https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L"
       },
       "artists": [
         {
-          "name": "Jaymes Young",
-          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
         }
       ],
-      "duration_ms": 228442,
-      "name": "Happiest Year",
-      "url": "https://open.spotify.com/track/219slQu3ALbTSAe9P22hvE"
+      "duration_ms": 180953,
+      "name": "Lost Me",
+      "url": "https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim"
     },
     {
       "added_at": "2023-04-07 20:02:26",
@@ -2471,22 +2471,18 @@
     {
       "added_at": "2023-04-07 20:02:26",
       "album": {
-        "name": "Music Of The Spheres",
-        "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
+        "name": "beerbongs & bentleys",
+        "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         }
       ],
-      "duration_ms": 241595,
-      "name": "Let Somebody Go",
-      "url": "https://open.spotify.com/track/4cGqn0E8JCSY9gQllQj4Mf"
+      "duration_ms": 204426,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/4H7WNRErSbONkM06blBoGc"
     },
     {
       "added_at": "2023-04-07 20:02:26",
@@ -2507,18 +2503,22 @@
     {
       "added_at": "2023-04-07 20:02:26",
       "album": {
-        "name": "beerbongs & bentleys",
-        "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
+        "name": "Music Of The Spheres",
+        "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
       },
       "artists": [
         {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
         }
       ],
-      "duration_ms": 204426,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/4H7WNRErSbONkM06blBoGc"
+      "duration_ms": 241595,
+      "name": "Let Somebody Go",
+      "url": "https://open.spotify.com/track/4cGqn0E8JCSY9gQllQj4Mf"
     },
     {
       "added_at": "2023-04-07 20:02:26",
@@ -2539,18 +2539,18 @@
     {
       "added_at": "2023-04-07 20:02:26",
       "album": {
-        "name": "Happier Than Ever",
-        "url": "https://open.spotify.com/album/6EOyWmHnLJptnyjB8xrYT5"
+        "name": "Put Your Records On",
+        "url": "https://open.spotify.com/album/6K7559pAYrNCJwsv1uIIK7"
       },
       "artists": [
         {
-          "name": "ASTN",
-          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
+          "name": "Ritt Momney",
+          "url": "https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka"
         }
       ],
-      "duration_ms": 109325,
-      "name": "Happier Than Ever",
-      "url": "https://open.spotify.com/track/7es56D0QedGMsK39wl2yFX"
+      "duration_ms": 210463,
+      "name": "Put Your Records On",
+      "url": "https://open.spotify.com/track/6AGOKlMZWLCaEJGnaROtF9"
     }
   ],
   "unique_name": "homework vibes",

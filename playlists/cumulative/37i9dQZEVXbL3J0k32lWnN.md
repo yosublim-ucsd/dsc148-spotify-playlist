@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-1,053 songs - 2 day 7 hr 0 min
+1,054 songs - 2 day 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,8 @@
 | [Champagne Poetry](https://open.spotify.com/track/2HSmyk2qMN8WQjuGhaQgCk) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 5:36 | 2021-09-05 | 2021-09-13 |
 | [chaotic](https://open.spotify.com/track/2bdqU7C4softKNcMYDFi96) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [chaotic](https://open.spotify.com/album/1nZmxiUXBgZZ82fy5A0yau) | 2:58 | 2022-03-26 | 2022-04-10 |
 | [Chart](https://open.spotify.com/track/705n1V0dBe4UOZC1oaah9a) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [LÆNGE LEVE](https://open.spotify.com/album/1IHiXXZxuoJKJos1bcPTQ7) | 3:09 | 2023-01-28 | 2023-02-12 |
-| [Chemical](https://open.spotify.com/track/4qzEjmuz380jeiBJp31oDY) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/6NoH5RUtjoh6ae2lJ9gWfq) | 3:04 | 2023-04-15 |  |
+| [Chemical](https://open.spotify.com/track/4qzEjmuz380jeiBJp31oDY) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/6NoH5RUtjoh6ae2lJ9gWfq) | 3:04 | 2023-04-15 | 2023-04-17 |
+| [Chemical](https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA) | 3:04 | 2023-04-16 |  |
 | [CHOPMONEY](https://open.spotify.com/track/574IRhxKFd1UNAAJlZn6hP) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [CHOPMONEY](https://open.spotify.com/album/4EUPnZujrTHutWfQ63FruU) | 2:23 | 2022-12-31 | 2023-01-29 |
 | [Chosen \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/1dIWPXMX4kRHj6Dt2DStUQ) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [No Love Lost \(Deluxe\)](https://open.spotify.com/album/7AwrgenNcTAJlJF3pKL0Qr) | 2:41 | 2021-08-06 | 2021-09-25 |
 | [CHURCH GIRL](https://open.spotify.com/track/2mqTtvbKxH7SoEQ2oGAnsA) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:44 | 2022-07-30 | 2022-08-04 |
@@ -415,7 +416,7 @@
 | [High Fashion](https://open.spotify.com/track/5igXllDtxviBlTGn4cawA5) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [INTET TIL ALT](https://open.spotify.com/album/5wagiEPQo04yRElo1K9iql) | 2:16 | 2022-02-19 | 2022-03-12 |
 | [Higher Love](https://open.spotify.com/track/1kKYjjfNYxE0YYgLa7vgVY) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Golden Hour](https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ) | 3:48 | 2022-01-01 | 2023-01-03 |
 | [Higher Power](https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Higher Power](https://open.spotify.com/album/6wiPmk3powmcz3G7zr6krg) | 3:31 | 2021-05-09 | 2021-05-10 |
-| [hjem fra fabrikken](https://open.spotify.com/track/5Mx9Hf6G4nZoTp5Ll9AH73) | [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR) | [hjem fra fabrikken](https://open.spotify.com/album/4qktEqAnTpFIAURYMJgZBd) | 3:28 | 2022-03-05 | 2023-04-14 |
+| [hjem fra fabrikken](https://open.spotify.com/track/5Mx9Hf6G4nZoTp5Ll9AH73) | [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR) | [hjem fra fabrikken](https://open.spotify.com/album/4qktEqAnTpFIAURYMJgZBd) | 3:28 | 2022-03-05 |  |
 | [Hjertebrand](https://open.spotify.com/track/5KkDRxYg3a6s8P5fSAkSnW) | [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [\[α\]](https://open.spotify.com/album/5V0uzO6f7OAkHTuxkFKaK8) | 4:02 | 2022-10-01 | 2022-10-23 |
 | [Hold Me Closer](https://open.spotify.com/track/697bFWgzBRm6bmnYWd8GyD) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Hold Me Closer](https://open.spotify.com/album/0rRDqExu5jTJRRZtxJc3Ao) | 3:19 | 2022-05-16 | 2022-05-18 |
 | [Hold Me Closer](https://open.spotify.com/track/5TJEBoTCDbJXiKMdCN9pd3) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [The Lockdown Sessions](https://open.spotify.com/album/3O52AkvWUCF7MfkfLfnobb) | 3:22 | 2022-09-03 | 2022-09-27 |
@@ -1035,7 +1036,7 @@
 | [Window](https://open.spotify.com/track/3UmC20CnRvX0bc1JotlnCy) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Window](https://open.spotify.com/album/71Txi8dyAc3nEXmTGhTw4t) | 2:29 | 2022-04-30 | 2022-05-05 |
 | [Window](https://open.spotify.com/track/6iw75IfUDa6kLXCBewmvF2) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Kronisk Skeptisk](https://open.spotify.com/album/16KVHmbWyMK7mkh53btVe2) | 2:29 | 2022-09-03 | 2022-09-11 |
 | [Winter Wonderland](https://open.spotify.com/track/1yxcKrEcxt4O03IIC25yHk) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Snowfall: The Tony Bennett Christmas Album](https://open.spotify.com/album/2zpZloLD6haM3GzorLdfoC) | 2:13 | 2021-12-25 | 2021-12-27 |
-| [Wish You The Best](https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Wish You The Best](https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS) | 3:30 | 2023-04-15 |  |
+| [Wish You The Best](https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Wish You The Best](https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS) | 3:30 | 2023-04-15 | 2023-04-17 |
 | [Wish You Were Here \(feat\. Khalid\)](https://open.spotify.com/track/0BTGKEEaehTuLJVEJe1U3B) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [4 \(The Pink Album\)](https://open.spotify.com/album/22r4tcO40GeOVicXUS2D9s) | 2:55 | 2023-01-21 | 2023-01-23 |
 | [Wish You Were Here \(feat\. Khalid\)](https://open.spotify.com/track/0jKTqmGVLgbeP5GpOJVCrp) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [4 \(The Pink Album\)](https://open.spotify.com/album/1pMHhe4WlERO69FvVOaB3y) | 2:55 | 2023-01-22 | 2023-01-26 |
 | [Wish You Were Here \(feat\. Khalid\)](https://open.spotify.com/track/7up4SX2l8FAnisrUXoGupd) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Wish You Were Here \(feat\. Khalid\)](https://open.spotify.com/album/6xStUI10NrOYMx3sKoIfBq) | 2:55 | 2022-08-20 | 2022-10-16 |

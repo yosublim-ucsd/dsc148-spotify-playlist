@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIme26eJxid.md) - [plain]
 
 > The most known Afro\-pop classics, all in one place! Cover: <a href="spotify:artist:18RkLKfeoUgZflWv9os25W">Miriam Makeba</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,523 likes - 40 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,593 likes - 40 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIme26eJxid.md) - [plain]
 | 19 | [It's About Time](https://open.spotify.com/track/4LG9ZVvPKP4jjaDOsH6ePO) | [Boom Shaka](https://open.spotify.com/artist/3YkvS9iecT6huS2Rk4NIwL) | [Boom Shaka](https://open.spotify.com/album/6CjjtWnXWUzMif0RqEv3k8) | 5:39 |
 | 20 | [Vuli Ndlela](https://open.spotify.com/track/0KF3mTRj26O3xdfCNqEviW) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Memeza](https://open.spotify.com/album/0IvfrpuZ1uq9JGuWrImJqQ) | 4:25 |
 | 21 | [Ingoma](https://open.spotify.com/track/1L8hlyQDH09vqHzuCwZDA2) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Ibokwe](https://open.spotify.com/album/4iCpOjGwWQzIbHPlna6QyM) | 6:12 |
-| 22 | [Orere\-Elejigbo](https://open.spotify.com/track/7Mi1P2r04F6iyOzrB3IOlR) | [Lijadu Sisters](https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ) | [Horizon Unlimted](https://open.spotify.com/album/6NfAHT2xusXUA4E7WMj8HY) | 4:16 |
-| 23 | [Theresa](https://open.spotify.com/track/4dqtM8dvFvK7GWE1bjDYI4) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Obi Ate Meso Buo](https://open.spotify.com/album/0R50BVSdGAr8Tj9R8JFuF7) | 5:39 |
+| 22 | [Theresa](https://open.spotify.com/track/4dqtM8dvFvK7GWE1bjDYI4) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Obi Ate Meso Buo](https://open.spotify.com/album/0R50BVSdGAr8Tj9R8JFuF7) | 5:39 |
+| 23 | [Orere\-Elejigbo](https://open.spotify.com/track/7Mi1P2r04F6iyOzrB3IOlR) | [Lijadu Sisters](https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ) | [Horizon Unlimted](https://open.spotify.com/album/6NfAHT2xusXUA4E7WMj8HY) | 4:16 |
 | 24 | [Akula Owu Onyeara](https://open.spotify.com/track/0X7mNbVv1YYJ8SrAk4AsiT) | [The Funkees](https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J) | [Dancing Time: The Best of Eastern Nigeria's Afro Rock Exponents 1973\-77](https://open.spotify.com/album/7bmfQqqmSOdIzdIW3Ye8F3) | 7:28 |
 | 25 | [Dlala Mapantsula](https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi) | [Guz Hits](https://open.spotify.com/album/305izURXDMmcRRwR8INvWY) | 5:32 |
 | 26 | [Joromi](https://open.spotify.com/track/5P79h7NLD3zIpkomzFaMWy) | [Sir Victor Uwaifo](https://open.spotify.com/artist/2hCi6vXJyyTG9szd63b4LU) | [Big Sound](https://open.spotify.com/album/7Kb9xyU8IIbyTBk4hwXvYV) | 3:07 |
@@ -47,6 +47,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIme26eJxid.md) - [plain]
 | 37 | [Living Music](https://open.spotify.com/track/2e8OoF7KghSpQ1MdsX7sJd) | [Onyeka Onwenu](https://open.spotify.com/artist/0AsoglRr6rQ8DZEKWnBPz7) | [Ivory Music Classics, Vol\. 2](https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ) | 6:04 |
 | 38 | [Ma Jaiye Oni](https://open.spotify.com/track/47ZKAaOco4DebMlGRzcvUn) | [King Sunny Ade](https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1) | [Juju Music](https://open.spotify.com/album/4BsMW0J2DUx9R9fP5TAEYs) | 5:07 |
 | 39 | [Alo Mi Alo \(Parts 1 & 2\)](https://open.spotify.com/track/4ZAjQaFzbW5IbJJsjfCJJ4) | [Orlando Julius](https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L), [The Afro Sounders](https://open.spotify.com/artist/6NJCN6KXFzP8YlfX4mFDx8) | [Nigeria 70 \- Funky Lagos](https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0) | 8:03 |
-| 40 | [Baby Kilode](https://open.spotify.com/track/0PYDivZavH4ndRJB6E5iUu) | [Dizzy K Falola](https://open.spotify.com/artist/4QebwA96fgRFgzeXzx9dmj) | [Ivory Music Classics, Vol\. 2](https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ) | 4:25 |
+| 40 | [Weekend Special \(with Brenda Fassie\) \- USA Remix](https://open.spotify.com/track/3Uy4yCyO4Yfc9JfifokpJG) | [Brenda & The Big Dudes](https://open.spotify.com/artist/3PGhsvfwxsjXsQw2swnopZ) | [Weekend Special \(USA Remixes\)](https://open.spotify.com/album/5npwhnt8Jnv7KQgHqR6OJv) | 4:48 |
 
-Snapshot ID: `MTU4NjI1MTE2MCwwMDAwMDAwMDg1MTNhMDFkYWE5YzI1OGUyMjExNjY2NTRjNTY0ODQ3`
+Snapshot ID: `MTU4NjI1MTE2MCwwMDAwMDAwMDIzOTg5Y2ExYjc3ZDEzYTU0OWYzZTRlOTY1OTM3YmYz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Brett Young, Megan Moroney, Parker McCollum and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,493 likes - 64 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,669 likes - 64 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 7 | [She Ain't Takin Your Call](https://open.spotify.com/track/56ae1tAz3wtaWfWJ4gsEvd) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [She Ain't Takin Your Call](https://open.spotify.com/album/6hED9cnLsEBHNwAL5R9sj4) | 3:13 |
 | 8 | [Throw You Back](https://open.spotify.com/track/4SEqC1sPuPob2qB9huDhhd) | [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ) | [Mackenzie Carpenter](https://open.spotify.com/album/30tgvcvKKBR2eoiKQZaD4i) | 2:35 |
 | 9 | [Unlive \(with Yelawolf\)](https://open.spotify.com/track/5vBFnLvfjXLdcY8Df6PHj4) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57) | [Unlive \(with Yelawolf\)](https://open.spotify.com/album/3fwKc0nqwk0yomvchwxGMn) | 3:57 |
-| 10 | [What It's Like to Be a Man](https://open.spotify.com/track/5uqXEAPYnytyz9WPoXr3UR) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39) | [What It's Like to Be a Man](https://open.spotify.com/album/5w1tKn8VLDYKcfFuYFQqvh) | 3:39 |
+| 10 | [To Be A Man](https://open.spotify.com/track/5uqXEAPYnytyz9WPoXr3UR) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39) | [To Be A Man](https://open.spotify.com/album/5w1tKn8VLDYKcfFuYFQqvh) | 3:39 |
 | 11 | [Use Me \(Brutal Hearts\) \(feat\. Sturgill Simpson, Dove Cameron & Johnny Blue Skies\)](https://open.spotify.com/track/0poKbTUdYz7lXFd15XuHiC) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB), [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Johnny Blue Skies](https://open.spotify.com/artist/5R55ruC73ANyzDSOzIZjNc) | [Use Me \(Brutal Hearts\) \(feat\. Sturgill Simpson, Dove Cameron & Johnny Blue Skies\)](https://open.spotify.com/album/1Wp9ImrDqyqMGfZVohAfw1) | 3:22 |
 | 12 | [Pray All The Way Home](https://open.spotify.com/track/7mhe8marcC1uyu17L5oxyF) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Pray All The Way Home](https://open.spotify.com/album/55BEOWkidLBWuSVaavBmRn) | 2:24 |
 | 13 | [Pretty Little Poison \- Demo](https://open.spotify.com/track/6y8HWcCq4JxjL4D66bZzjN) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Pretty Little Poison \(Demo\)](https://open.spotify.com/album/0vn8ko1rLw63mBMhC0N9uw) | 3:31 |

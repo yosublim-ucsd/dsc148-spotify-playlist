@@ -7012,7 +7012,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 152593,
       "name": "I Know",
       "url": "https://open.spotify.com/track/2RkMSIqUdveO3p8KVpYBYI"
@@ -11733,6 +11733,24 @@
     },
     {
       "album": {
+        "name": "ICHIJIKIKOKU",
+        "url": "https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184773,
+      "name": "OTONABLUE",
+      "url": "https://open.spotify.com/track/3h1XlHgx0m1dO6nNSO1kSV"
+    },
+    {
+      "album": {
         "name": "OTONABLUE",
         "url": "https://open.spotify.com/album/7vUVx8e9SrqIZe22KqLd6i"
       },
@@ -12878,7 +12896,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 198930,
       "name": "Pobre Coraz\u00f3n",
       "url": "https://open.spotify.com/track/1gpayq8BQ8Z1AZSCHUeZOC"
@@ -12922,6 +12940,24 @@
       "duration_ms": 197476,
       "name": "Por el Resto de Tu Vida",
       "url": "https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y"
+    },
+    {
+      "album": {
+        "name": "Por las Noches",
+        "url": "https://open.spotify.com/album/6USJaTtVIy0YH5hhzOWVHe"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239845,
+      "name": "Por las Noches",
+      "url": "https://open.spotify.com/track/2VzCjpKvPB1l1tqLndtAQa"
     },
     {
       "album": {

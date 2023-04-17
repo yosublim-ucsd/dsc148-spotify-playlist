@@ -1,12 +1,12 @@
 {
   "description": "Clock in from the comfort of your own home and let the music carry you through the day.",
-  "num_followers": 924762,
+  "num_followers": 924822,
   "original_name": "Work From Home",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NTI3NCwwMDAwMDAwMDFlNDM4ZDQ4OGM0ODFjOTMzZDczMmM3ZjhkNTg2ZGUz",
+  "snapshot_id": "MTY4MTQ0NTI3NCwwMDAwMDAwMGM4YzMyOGYzMThjOGYzYTQzMDA3MWMwNDE1YTkwMzAz",
   "tracks": [
     {
       "added_at": "2023-04-14 04:07:54",
@@ -183,6 +183,22 @@
     {
       "added_at": "2023-04-14 04:07:54",
       "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 212953,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
+    },
+    {
+      "added_at": "2023-04-14 04:07:54",
+      "album": {
         "name": "Stuck with U",
         "url": "https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi"
       },
@@ -347,38 +363,6 @@
     {
       "added_at": "2023-04-14 04:07:54",
       "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 221820,
-      "name": "Break My Heart",
-      "url": "https://open.spotify.com/track/017PF4Q3l4DBUiWoXk4OWT"
-    },
-    {
-      "added_at": "2023-04-14 04:07:54",
-      "album": {
-        "name": "Angel Baby",
-        "url": "https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 220779,
-      "name": "Angel Baby",
-      "url": "https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc"
-    },
-    {
-      "added_at": "2023-04-14 04:07:54",
-      "album": {
         "name": "Special (feat. SZA)",
         "url": "https://open.spotify.com/album/5Qw3usvS6dDOE0ErN6tl7O"
       },
@@ -399,6 +383,38 @@
     {
       "added_at": "2023-04-14 04:07:54",
       "album": {
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 221820,
+      "name": "Break My Heart",
+      "url": "https://open.spotify.com/track/017PF4Q3l4DBUiWoXk4OWT"
+    },
+    {
+      "added_at": "2023-04-14 04:07:54",
+      "album": {
+        "name": "Chemical",
+        "url": "https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 184013,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
+    },
+    {
+      "added_at": "2023-04-14 04:07:54",
+      "album": {
         "name": "folklore",
         "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
       },
@@ -415,6 +431,22 @@
     {
       "added_at": "2023-04-14 04:07:54",
       "album": {
+        "name": "Angel Baby",
+        "url": "https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 220779,
+      "name": "Angel Baby",
+      "url": "https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc"
+    },
+    {
+      "added_at": "2023-04-14 04:07:54",
+      "album": {
         "name": "Heaven & Hell",
         "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
       },
@@ -427,22 +459,6 @@
       "duration_ms": 174760,
       "name": "My Head & My Heart",
       "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
-    },
-    {
-      "added_at": "2023-04-14 04:07:54",
-      "album": {
-        "name": "Daylight",
-        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 212953,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
     },
     {
       "added_at": "2023-04-14 04:07:54",
@@ -499,6 +515,22 @@
     {
       "added_at": "2023-04-14 04:07:54",
       "album": {
+        "name": "Waffle House",
+        "url": "https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 145440,
+      "name": "Waffle House",
+      "url": "https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU"
+    },
+    {
+      "added_at": "2023-04-14 04:07:54",
+      "album": {
         "name": "All The Little Lights",
         "url": "https://open.spotify.com/album/52ukyDfkPmF4X6EcSYVfVJ"
       },
@@ -511,22 +543,6 @@
       "duration_ms": 252733,
       "name": "Let Her Go",
       "url": "https://open.spotify.com/track/1KxwZYyzWNyZSRyErj2ojT"
-    },
-    {
-      "added_at": "2023-04-14 04:07:54",
-      "album": {
-        "name": "Numb Little Bug",
-        "url": "https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM"
-      },
-      "artists": [
-        {
-          "name": "Em Beihold",
-          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
-        }
-      ],
-      "duration_ms": 169237,
-      "name": "Numb Little Bug",
-      "url": "https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2"
     },
     {
       "added_at": "2023-04-14 04:07:54",
@@ -551,18 +567,18 @@
     {
       "added_at": "2023-04-14 04:07:54",
       "album": {
-        "name": "Waffle House",
-        "url": "https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99"
+        "name": "Numb Little Bug",
+        "url": "https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM"
       },
       "artists": [
         {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
         }
       ],
-      "duration_ms": 145440,
-      "name": "Waffle House",
-      "url": "https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU"
+      "duration_ms": 169237,
+      "name": "Numb Little Bug",
+      "url": "https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2"
     },
     {
       "added_at": "2023-04-14 04:07:54",
@@ -603,6 +619,22 @@
     {
       "added_at": "2023-04-14 04:07:54",
       "album": {
+        "name": "SunKissing",
+        "url": "https://open.spotify.com/album/7lAb1k0oyiwz7WONpINl5A"
+      },
+      "artists": [
+        {
+          "name": "Hailee Steinfeld",
+          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
+        }
+      ],
+      "duration_ms": 177253,
+      "name": "SunKissing",
+      "url": "https://open.spotify.com/track/5YbGrhQCpOT4aOTlFgACke"
+    },
+    {
+      "added_at": "2023-04-14 04:07:54",
+      "album": {
         "name": "WITHOUT YOU (with Miley Cyrus)",
         "url": "https://open.spotify.com/album/6Aqt69riJ3JPLxIEI8EkzT"
       },
@@ -623,22 +655,6 @@
     {
       "added_at": "2023-04-14 04:07:54",
       "album": {
-        "name": "Chemical",
-        "url": "https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 184013,
-      "name": "Chemical",
-      "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
-    },
-    {
-      "added_at": "2023-04-14 04:07:54",
-      "album": {
         "name": "Heart Wants What It Wants",
         "url": "https://open.spotify.com/album/2UaBO1EDivXwUZengjvRBG"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 182085,
       "name": "Heart Wants What It Wants",
       "url": "https://open.spotify.com/track/7rS4oy2qpJNULQAVgJQTun"
-    },
-    {
-      "added_at": "2023-04-14 04:07:54",
-      "album": {
-        "name": "SunKissing",
-        "url": "https://open.spotify.com/album/7lAb1k0oyiwz7WONpINl5A"
-      },
-      "artists": [
-        {
-          "name": "Hailee Steinfeld",
-          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
-        }
-      ],
-      "duration_ms": 177253,
-      "name": "SunKissing",
-      "url": "https://open.spotify.com/track/5YbGrhQCpOT4aOTlFgACke"
     },
     {
       "added_at": "2023-04-14 04:07:54",
@@ -699,6 +699,22 @@
       "duration_ms": 215140,
       "name": "The Good Ones",
       "url": "https://open.spotify.com/track/3hLuHKzG1cmlRpq53ZVWd8"
+    },
+    {
+      "added_at": "2023-04-14 04:07:54",
+      "album": {
+        "name": "live more & love more",
+        "url": "https://open.spotify.com/album/5sgznu5iMVavhZy04BsUb4"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 158259,
+      "name": "live more & love more",
+      "url": "https://open.spotify.com/track/1Oj4FgVngNgBTvd0a9nI2k"
     },
     {
       "added_at": "2023-04-14 04:07:54",
@@ -751,22 +767,6 @@
     {
       "added_at": "2023-04-14 04:07:54",
       "album": {
-        "name": "live more & love more",
-        "url": "https://open.spotify.com/album/5sgznu5iMVavhZy04BsUb4"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 158259,
-      "name": "live more & love more",
-      "url": "https://open.spotify.com/track/1Oj4FgVngNgBTvd0a9nI2k"
-    },
-    {
-      "added_at": "2023-04-14 04:07:54",
-      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/1btu3XEwHsImFreF8dVV6J"
       },
@@ -811,6 +811,22 @@
       "duration_ms": 164027,
       "name": "Chasing Shadows",
       "url": "https://open.spotify.com/track/5zcoYCmeIL392as1bwIYce"
+    },
+    {
+      "added_at": "2023-04-14 04:07:54",
+      "album": {
+        "name": "Wish You The Best",
+        "url": "https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 210880,
+      "name": "Wish You The Best",
+      "url": "https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3"
     },
     {
       "added_at": "2023-04-14 04:07:54",
@@ -883,22 +899,6 @@
     {
       "added_at": "2023-04-14 04:07:54",
       "album": {
-        "name": "Satellite",
-        "url": "https://open.spotify.com/album/1NmhmrcrG143ODfGk9myHE"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 186514,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/1G9hDB1bmxz131N9svQ8pY"
-    },
-    {
-      "added_at": "2023-04-14 04:07:54",
-      "album": {
         "name": "I Just Called",
         "url": "https://open.spotify.com/album/4Qq3n68D2ktEi0eHFMdpSp"
       },
@@ -919,6 +919,22 @@
       "duration_ms": 150560,
       "name": "I Just Called",
       "url": "https://open.spotify.com/track/0H8Tclo4x4kbZruQtZFNSX"
+    },
+    {
+      "added_at": "2023-04-14 04:07:54",
+      "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/1NmhmrcrG143ODfGk9myHE"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 186514,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/1G9hDB1bmxz131N9svQ8pY"
     },
     {
       "added_at": "2023-04-14 04:07:54",
@@ -1019,18 +1035,18 @@
     {
       "added_at": "2023-04-14 04:07:54",
       "album": {
-        "name": "Wish You The Best",
-        "url": "https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS"
+        "name": "Part Of Me",
+        "url": "https://open.spotify.com/album/5ELHOuo4BjMkzirsbyQnsv"
       },
       "artists": [
         {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
         }
       ],
-      "duration_ms": 210880,
-      "name": "Wish You The Best",
-      "url": "https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3"
+      "duration_ms": 202193,
+      "name": "Part Of Me",
+      "url": "https://open.spotify.com/track/22UYp7aAy1XmIYZ1GsnJuB"
     },
     {
       "added_at": "2023-04-14 04:07:54",
@@ -1087,22 +1103,6 @@
       "duration_ms": 184280,
       "name": "Trampoline (with ZAYN)",
       "url": "https://open.spotify.com/track/2ez6qvOTHKeI3ss80NGqnI"
-    },
-    {
-      "added_at": "2023-04-14 04:07:54",
-      "album": {
-        "name": "Part Of Me",
-        "url": "https://open.spotify.com/album/5ELHOuo4BjMkzirsbyQnsv"
-      },
-      "artists": [
-        {
-          "name": "Cian Ducrot",
-          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
-        }
-      ],
-      "duration_ms": 202193,
-      "name": "Part Of Me",
-      "url": "https://open.spotify.com/track/22UYp7aAy1XmIYZ1GsnJuB"
     },
     {
       "added_at": "2023-04-14 04:07:54",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-04-14 04:07:54",
       "album": {
-        "name": "these words are all for you",
-        "url": "https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS"
-      },
-      "artists": [
-        {
-          "name": "Wrabel",
-          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
-        }
-      ],
-      "duration_ms": 182187,
-      "name": "wish you well",
-      "url": "https://open.spotify.com/track/1Y3Lv6ul3BeSQltSAfwZdo"
-    },
-    {
-      "added_at": "2023-04-14 04:07:54",
-      "album": {
         "name": "Our Song",
         "url": "https://open.spotify.com/album/0zocAVUSizQ74Cn8nCsN3a"
       },
@@ -1335,18 +1319,18 @@
     {
       "added_at": "2023-04-14 04:07:54",
       "album": {
-        "name": "Joy",
-        "url": "https://open.spotify.com/album/0Pq6IzsPjGObrhLlaqn9eM"
+        "name": "these words are all for you",
+        "url": "https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS"
       },
       "artists": [
         {
-          "name": "Andy Grammer",
-          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+          "name": "Wrabel",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
         }
       ],
-      "duration_ms": 193621,
-      "name": "Joy",
-      "url": "https://open.spotify.com/track/4Hn4zAkBUaNnT8m9p7cYaf"
+      "duration_ms": 182187,
+      "name": "wish you well",
+      "url": "https://open.spotify.com/track/1Y3Lv6ul3BeSQltSAfwZdo"
     },
     {
       "added_at": "2023-04-14 04:07:54",
@@ -1363,6 +1347,22 @@
       "duration_ms": 223297,
       "name": "Never Really Over",
       "url": "https://open.spotify.com/track/1IIV8jglA0klVZy17q665k"
+    },
+    {
+      "added_at": "2023-04-14 04:07:54",
+      "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/0Pq6IzsPjGObrhLlaqn9eM"
+      },
+      "artists": [
+        {
+          "name": "Andy Grammer",
+          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+        }
+      ],
+      "duration_ms": 193621,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/4Hn4zAkBUaNnT8m9p7cYaf"
     },
     {
       "added_at": "2023-04-14 04:07:54",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2023-04-14 04:07:54",
       "album": {
+        "name": "I Don't Miss You",
+        "url": "https://open.spotify.com/album/6ozapqxYdXe9uMaMfB6UZp"
+      },
+      "artists": [
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        }
+      ],
+      "duration_ms": 217133,
+      "name": "I Don't Miss You",
+      "url": "https://open.spotify.com/track/3q9zwhKPHiUh8zVZ4sI5qs"
+    },
+    {
+      "added_at": "2023-04-14 04:07:54",
+      "album": {
         "name": "dancing in the kitchen",
         "url": "https://open.spotify.com/album/3fHkjpHZjohpdtiJJdVtez"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 158083,
       "name": "I Like That",
       "url": "https://open.spotify.com/track/0kWQn0wLok1lawHAkGSMW9"
-    },
-    {
-      "added_at": "2023-04-14 04:07:54",
-      "album": {
-        "name": "I Don't Miss You",
-        "url": "https://open.spotify.com/album/6ozapqxYdXe9uMaMfB6UZp"
-      },
-      "artists": [
-        {
-          "name": "JP Saxe",
-          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
-        }
-      ],
-      "duration_ms": 217133,
-      "name": "I Don't Miss You",
-      "url": "https://open.spotify.com/track/3q9zwhKPHiUh8zVZ4sI5qs"
     },
     {
       "added_at": "2023-04-14 04:07:54",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2023-04-14 04:07:54",
       "album": {
+        "name": "mine / me",
+        "url": "https://open.spotify.com/album/0Y4UzVqYI5o4GBxkQimdL8"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 191007,
+      "name": "mine",
+      "url": "https://open.spotify.com/track/5WVwFPBm6bI9KPRV2AUR2T"
+    },
+    {
+      "added_at": "2023-04-14 04:07:54",
+      "album": {
         "name": "The Rose Song [From \"High School Musical: The Musical: The Series (Season 2)\"]",
         "url": "https://open.spotify.com/album/6TeOuy8VtjfYy52ntsnu1m"
       },
@@ -1627,22 +1643,6 @@
     {
       "added_at": "2023-04-14 04:07:54",
       "album": {
-        "name": "Imagine",
-        "url": "https://open.spotify.com/album/5WV2igw6AWfvAZwfNm83oP"
-      },
-      "artists": [
-        {
-          "name": "Ben Platt",
-          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
-        }
-      ],
-      "duration_ms": 164202,
-      "name": "imagine",
-      "url": "https://open.spotify.com/track/716eVtciaJCtTcaknS3QXr"
-    },
-    {
-      "added_at": "2023-04-14 04:07:54",
-      "album": {
         "name": "Evering Road (Special Edition)",
         "url": "https://open.spotify.com/album/6dfAua5R07Ex8evOwz5sUU"
       },
@@ -1655,6 +1655,22 @@
       "duration_ms": 229133,
       "name": "Don't Break the Heart",
       "url": "https://open.spotify.com/track/4tS2pyUXiaTjHK7vCBomyF"
+    },
+    {
+      "added_at": "2023-04-14 04:07:54",
+      "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/5WV2igw6AWfvAZwfNm83oP"
+      },
+      "artists": [
+        {
+          "name": "Ben Platt",
+          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
+        }
+      ],
+      "duration_ms": 164202,
+      "name": "imagine",
+      "url": "https://open.spotify.com/track/716eVtciaJCtTcaknS3QXr"
     },
     {
       "added_at": "2023-04-14 04:07:54",
@@ -1915,22 +1931,6 @@
     {
       "added_at": "2023-04-14 04:07:54",
       "album": {
-        "name": "mine / me",
-        "url": "https://open.spotify.com/album/0Y4UzVqYI5o4GBxkQimdL8"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 191007,
-      "name": "mine",
-      "url": "https://open.spotify.com/track/5WVwFPBm6bI9KPRV2AUR2T"
-    },
-    {
-      "added_at": "2023-04-14 04:07:54",
-      "album": {
         "name": "Don't",
         "url": "https://open.spotify.com/album/0sPcMRaH3i6TO1yvDkOxPS"
       },
@@ -2051,22 +2051,6 @@
     {
       "added_at": "2023-04-14 04:07:54",
       "album": {
-        "name": "I'll Never Not Love You",
-        "url": "https://open.spotify.com/album/40Ud7EvNeSxYcpNibD0Qhu"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 218390,
-      "name": "I'll Never Not Love You",
-      "url": "https://open.spotify.com/track/3tKggonCKJgCG7nroEH2np"
-    },
-    {
-      "added_at": "2023-04-14 04:07:54",
-      "album": {
         "name": "Once",
         "url": "https://open.spotify.com/album/1m9aMm03qhLgwJb7SNFhS6"
       },
@@ -2079,6 +2063,22 @@
       "duration_ms": 184346,
       "name": "Once",
       "url": "https://open.spotify.com/track/5SYYZNpzQ42443RzIhqNWG"
+    },
+    {
+      "added_at": "2023-04-14 04:07:54",
+      "album": {
+        "name": "I'll Never Not Love You",
+        "url": "https://open.spotify.com/album/40Ud7EvNeSxYcpNibD0Qhu"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 218390,
+      "name": "I'll Never Not Love You",
+      "url": "https://open.spotify.com/track/3tKggonCKJgCG7nroEH2np"
     },
     {
       "added_at": "2023-04-14 04:07:54",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2023-04-14 04:07:54",
       "album": {
-        "name": "KEEP IT UP",
-        "url": "https://open.spotify.com/album/36IWMZ2DOpKbLb0IrzWc4U"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "KEEP IT UP",
-      "url": "https://open.spotify.com/track/0ioTTk5l0Zz7Oh48qEocgj"
-    },
-    {
-      "added_at": "2023-04-14 04:07:54",
-      "album": {
         "name": "Dark Skies",
         "url": "https://open.spotify.com/album/02sx3jt3ifjyr8Yfq6XY0V"
       },
@@ -2195,6 +2179,22 @@
       "duration_ms": 194798,
       "name": "Dark Skies",
       "url": "https://open.spotify.com/track/6md6TywIVmybRn604WiPdu"
+    },
+    {
+      "added_at": "2023-04-14 04:07:54",
+      "album": {
+        "name": "KEEP IT UP",
+        "url": "https://open.spotify.com/album/36IWMZ2DOpKbLb0IrzWc4U"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "KEEP IT UP",
+      "url": "https://open.spotify.com/track/0ioTTk5l0Zz7Oh48qEocgj"
     },
     {
       "added_at": "2023-04-14 04:07:54",
@@ -2415,6 +2415,22 @@
     {
       "added_at": "2023-04-14 04:07:54",
       "album": {
+        "name": "Before I Loved You",
+        "url": "https://open.spotify.com/album/5oZROnjg2iP6afypIZyqFe"
+      },
+      "artists": [
+        {
+          "name": "Phillip Phillips",
+          "url": "https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4"
+        }
+      ],
+      "duration_ms": 208785,
+      "name": "Before I Loved You",
+      "url": "https://open.spotify.com/track/2JxNmnMnMLO12m5l20x73G"
+    },
+    {
+      "added_at": "2023-04-14 04:07:54",
+      "album": {
         "name": "All My Loving",
         "url": "https://open.spotify.com/album/5W1sTXqVYuJIgUF6CCy2US"
       },
@@ -2443,22 +2459,6 @@
       "duration_ms": 141796,
       "name": "14",
       "url": "https://open.spotify.com/track/3kCYnvSwhSzYBD7fnDFhbY"
-    },
-    {
-      "added_at": "2023-04-14 04:07:54",
-      "album": {
-        "name": "Before I Loved You",
-        "url": "https://open.spotify.com/album/5oZROnjg2iP6afypIZyqFe"
-      },
-      "artists": [
-        {
-          "name": "Phillip Phillips",
-          "url": "https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4"
-        }
-      ],
-      "duration_ms": 208785,
-      "name": "Before I Loved You",
-      "url": "https://open.spotify.com/track/2JxNmnMnMLO12m5l20x73G"
     },
     {
       "added_at": "2023-04-14 04:07:54",

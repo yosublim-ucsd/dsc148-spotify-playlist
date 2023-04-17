@@ -1,12 +1,12 @@
 {
   "description": "Go deep into spontaneous praise and worship here. On and on.",
-  "num_followers": 168779,
+  "num_followers": 168875,
   "original_name": "Signs & Wonders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5OTE5MjEyMCwwMDAwMDAwMDk1MWU2NGM4MTdkOGIzNGE3NTc2M2Q0NjQwMzM0ZTYx",
+  "snapshot_id": "MTU5OTE5MjEyMCwwMDAwMDAwMGNhNjQzNGUwZDQxZGQzMGRlMzIyNTQzNTlmZjVlNGZj",
   "tracks": [
     {
       "added_at": "2020-09-04 04:02:00",
@@ -467,6 +467,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "There Is a Cloud",
+        "url": "https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 347893,
+      "name": "There Is a Cloud",
+      "url": "https://open.spotify.com/track/2sn2gK89nnjXgJ0iLO4Gps"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Maverick City Music, Vol. 3: Pt. 1",
         "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 945731,
       "name": "Lean Back (feat. Amanda Lindsey Cook & Chandler Moore)",
       "url": "https://open.spotify.com/track/4EtKV9VxLbL6wgeQjiPm4r"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "There Is a Cloud",
-        "url": "https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 347893,
-      "name": "There Is a Cloud",
-      "url": "https://open.spotify.com/track/2sn2gK89nnjXgJ0iLO4Gps"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Where His Light Was",
-        "url": "https://open.spotify.com/album/1jamkW0fDJFlcF1wyAejsW"
-      },
-      "artists": [
-        {
-          "name": "Kristene DiMarco",
-          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
-        }
-      ],
-      "duration_ms": 42373,
-      "name": "Doxology",
-      "url": "https://open.spotify.com/track/475fggJIgGaM2dgjZrsPnL"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Hallelujah Here Below",
         "url": "https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 243269,
       "name": "My Prayer For You",
       "url": "https://open.spotify.com/track/0h4Rk0OJbf4tvUqtHLo4UE"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Where His Light Was",
+        "url": "https://open.spotify.com/album/1jamkW0fDJFlcF1wyAejsW"
+      },
+      "artists": [
+        {
+          "name": "Kristene DiMarco",
+          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
+        }
+      ],
+      "duration_ms": 42373,
+      "name": "Doxology",
+      "url": "https://open.spotify.com/track/475fggJIgGaM2dgjZrsPnL"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -971,6 +971,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Champion",
+        "url": "https://open.spotify.com/album/2eu8QKnnHfaLErUkQQChA4"
+      },
+      "artists": [
+        {
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+        }
+      ],
+      "duration_ms": 339266,
+      "name": "Praise Will Be My Song",
+      "url": "https://open.spotify.com/track/4YzQqc3ccm3En6LniPRGNM"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Let There Be Light (Deluxe)",
         "url": "https://open.spotify.com/album/5SuiUBJmzzlOZqj3rogcja"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 406173,
       "name": "Behold (Then Sings My Soul) - Live",
       "url": "https://open.spotify.com/track/1ploWGMJ1grQQrKcV2zwqb"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Champion",
-        "url": "https://open.spotify.com/album/2eu8QKnnHfaLErUkQQChA4"
-      },
-      "artists": [
-        {
-          "name": "Bryan & Katie Torwalt",
-          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
-        }
-      ],
-      "duration_ms": 339266,
-      "name": "Praise Will Be My Song",
-      "url": "https://open.spotify.com/track/4YzQqc3ccm3En6LniPRGNM"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Forever Amen",
-        "url": "https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY"
-      },
-      "artists": [
-        {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
-        }
-      ],
-      "duration_ms": 270853,
-      "name": "Forever Amen",
-      "url": "https://open.spotify.com/track/3W2ft8jbBUuWiKwwkTlw7z"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "How Can It Be (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6dFgl9xvP6Rd0vWL1mm1Zo"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 192933,
       "name": "Now is Forever - Bonus Track",
       "url": "https://open.spotify.com/track/6k1RI3mXEvCZtSWNvywLXp"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Forever Amen",
+        "url": "https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY"
+      },
+      "artists": [
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "duration_ms": 270853,
+      "name": "Forever Amen",
+      "url": "https://open.spotify.com/track/3W2ft8jbBUuWiKwwkTlw7z"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1095,6 +1095,26 @@
       "duration_ms": 272000,
       "name": "We Fall Down / Agnus Dei - Medley",
       "url": "https://open.spotify.com/track/1mCehTLs3ZlEcoQt0aIGiv"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "We Will Not Be Shaken (Live)",
+        "url": "https://open.spotify.com/album/2e3CuXNmlLd5d8OoI2naop"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Brian Johnson",
+          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
+        }
+      ],
+      "duration_ms": 332604,
+      "name": "We Will Not Be Shaken - Live",
+      "url": "https://open.spotify.com/track/1eZYPovTvmxk3QlVD2VpCX"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1131,26 +1151,6 @@
       "duration_ms": 258213,
       "name": "Overflow (Live)",
       "url": "https://open.spotify.com/track/1xvioaPO8eZigxPTEZh9ZV"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "We Will Not Be Shaken (Live)",
-        "url": "https://open.spotify.com/album/2e3CuXNmlLd5d8OoI2naop"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Brian Johnson",
-          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
-        }
-      ],
-      "duration_ms": 332604,
-      "name": "We Will Not Be Shaken - Live",
-      "url": "https://open.spotify.com/track/1eZYPovTvmxk3QlVD2VpCX"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1247,6 +1247,26 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Starlight (Live)",
+        "url": "https://open.spotify.com/album/1m7Bc6eGK8BgjTpwprlhUh"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        }
+      ],
+      "duration_ms": 227053,
+      "name": "For the One - Live",
+      "url": "https://open.spotify.com/track/2UJT18RZRioIBHgin30T08"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Beautiful Surrender",
         "url": "https://open.spotify.com/album/1t5lSPlapJX2eHbvvsJNJd"
       },
@@ -1299,26 +1319,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Starlight (Live)",
-        "url": "https://open.spotify.com/album/1m7Bc6eGK8BgjTpwprlhUh"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
-        }
-      ],
-      "duration_ms": 227053,
-      "name": "For the One - Live",
-      "url": "https://open.spotify.com/track/2UJT18RZRioIBHgin30T08"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "We Say Yes",
         "url": "https://open.spotify.com/album/7FzR2gm8o75sFpdfuLT9Wg"
       },
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Beautiful Surrender",
-        "url": "https://open.spotify.com/album/1t5lSPlapJX2eHbvvsJNJd"
-      },
-      "artists": [
-        {
-          "name": "Jonathan David Helser",
-          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
-        }
-      ],
-      "duration_ms": 330266,
-      "name": "Abba (Arms Of A Father)",
-      "url": "https://open.spotify.com/track/5X3tiBU7iNVHGqll7iwfiq"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Greater Things",
         "url": "https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz"
       },
@@ -1387,22 +1371,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Fearless / Fill Up The Sky (Live)",
-        "url": "https://open.spotify.com/album/0FJOaqUeh18LeJMqFx9k1A"
+        "name": "Beautiful Surrender",
+        "url": "https://open.spotify.com/album/1t5lSPlapJX2eHbvvsJNJd"
       },
       "artists": [
         {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
-        },
-        {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+          "name": "Jonathan David Helser",
+          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
         }
       ],
-      "duration_ms": 280519,
-      "name": "Fearless - Live",
-      "url": "https://open.spotify.com/track/5rp9r3rFr45bPTsgi18tQB"
+      "duration_ms": 330266,
+      "name": "Abba (Arms Of A Father)",
+      "url": "https://open.spotify.com/track/5X3tiBU7iNVHGqll7iwfiq"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1427,18 +1407,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Here On Earth",
-        "url": "https://open.spotify.com/album/19PjTWD8F605hMJgRoikEA"
+        "name": "Fearless / Fill Up The Sky (Live)",
+        "url": "https://open.spotify.com/album/0FJOaqUeh18LeJMqFx9k1A"
       },
       "artists": [
         {
-          "name": "Bryan & Katie Torwalt",
-          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
         }
       ],
-      "duration_ms": 264120,
-      "name": "Nothing Is Holding Me Back",
-      "url": "https://open.spotify.com/track/7LPNlKR6P8CYWEWJh1tg6K"
+      "duration_ms": 280519,
+      "name": "Fearless - Live",
+      "url": "https://open.spotify.com/track/5rp9r3rFr45bPTsgi18tQB"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1511,6 +1495,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Here On Earth",
+        "url": "https://open.spotify.com/album/19PjTWD8F605hMJgRoikEA"
+      },
+      "artists": [
+        {
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+        }
+      ],
+      "duration_ms": 264120,
+      "name": "Nothing Is Holding Me Back",
+      "url": "https://open.spotify.com/track/7LPNlKR6P8CYWEWJh1tg6K"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Children of God Acoustic Sessions",
         "url": "https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU"
       },
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "The War Is Over",
-        "url": "https://open.spotify.com/album/6JFBg8304jW84YNZohE6bY"
-      },
-      "artists": [
-        {
-          "name": "Josh Baldwin",
-          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
-        }
-      ],
-      "duration_ms": 362746,
-      "name": "You Deserve It All",
-      "url": "https://open.spotify.com/track/2e5gy7g1ZNm1VgIds9PC0E"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Where His Light Was",
         "url": "https://open.spotify.com/album/1jamkW0fDJFlcF1wyAejsW"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 281520,
       "name": "I Am No Victim",
       "url": "https://open.spotify.com/track/2XkTROEhPw2Abzri1F20iL"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "The War Is Over",
+        "url": "https://open.spotify.com/album/6JFBg8304jW84YNZohE6bY"
+      },
+      "artists": [
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        }
+      ],
+      "duration_ms": 362746,
+      "name": "You Deserve It All",
+      "url": "https://open.spotify.com/track/2e5gy7g1ZNm1VgIds9PC0E"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1747,18 +1747,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Intercession (Live)",
-        "url": "https://open.spotify.com/album/6mDxhi9QChFywX2p0QxL62"
+        "name": "The Garden",
+        "url": "https://open.spotify.com/album/0VlrwygIqoI06z2BTCYuTq"
       },
       "artists": [
         {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
         }
       ],
-      "duration_ms": 164480,
-      "name": "Hallelujah (You Get The Glory) - Live",
-      "url": "https://open.spotify.com/track/0D38RVWdBxZF0JW20kGcX0"
+      "duration_ms": 297320,
+      "name": "The Cause Of Christ",
+      "url": "https://open.spotify.com/track/70EydOWbBwGIlHuv0h7uwF"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1799,18 +1799,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "The Garden",
-        "url": "https://open.spotify.com/album/0VlrwygIqoI06z2BTCYuTq"
+        "name": "Intercession (Live)",
+        "url": "https://open.spotify.com/album/6mDxhi9QChFywX2p0QxL62"
       },
       "artists": [
         {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 297320,
-      "name": "The Cause Of Christ",
-      "url": "https://open.spotify.com/track/70EydOWbBwGIlHuv0h7uwF"
+      "duration_ms": 164480,
+      "name": "Hallelujah (You Get The Glory) - Live",
+      "url": "https://open.spotify.com/track/0D38RVWdBxZF0JW20kGcX0"
     },
     {
       "added_at": "2020-09-04 04:02:00",

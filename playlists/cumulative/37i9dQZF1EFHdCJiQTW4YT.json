@@ -2410,10 +2410,32 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 223671,
       "name": "You Know It's About You",
       "url": "https://open.spotify.com/track/0SsRtjLUlAPmUBOWChl1n6"
+    },
+    {
+      "album": {
+        "name": "Leap! (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6GGZvXaDSTPxzjSxIOfmPJ"
+      },
+      "artists": [
+        {
+          "name": "Magical Thinker",
+          "url": "https://open.spotify.com/artist/6gPHdKkaoP152zp04WDdq1"
+        },
+        {
+          "name": "Stephen Wrabel",
+          "url": "https://open.spotify.com/artist/6M3KVfVHZ3Bn7WSNUvETSO"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223671,
+      "name": "You Know It's About You",
+      "url": "https://open.spotify.com/track/3Ta0pQe8LbxK3uvDbRBjbo"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1EFHdCJiQTW4YT"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 
 > Instrumental bliss beyond genre classification.
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,848 likes - 50 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,903 likes - 50 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 9 | [Tahara](https://open.spotify.com/track/4HDyneNRqT6teWLfG5CQ1x) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Tahara](https://open.spotify.com/album/7evkhN1L2LeQjCm1IaCNzS) | 3:33 |
 | 10 | [NPCs have feelings too](https://open.spotify.com/track/2NAb2HxL55cZRhATCQLw3t) | [Artur M Puga](https://open.spotify.com/artist/3eBggjM2o4vL4jMyLgElSn) | [weirdbloom](https://open.spotify.com/album/1VTbpHOo6ks1bjUZNwlvaZ) | 4:39 |
 | 11 | [Transactional Relationship](https://open.spotify.com/track/17YSGfgY3BizhPL8QDF1gg) | [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk) | [Transactional Relationship](https://open.spotify.com/album/0007jLfYrERL4X1mpSgLGK) | 3:13 |
-| 12 | [Universal Sound](https://open.spotify.com/track/4CR6C67Fe6JqIqs8TvITf6) | [Ricky Bamboo](https://open.spotify.com/artist/5NM4Yut39GINagUVOswMzD) | [Forest Theory](https://open.spotify.com/album/6tEb4MSz9C8l72Gk681cZ9) | 3:51 |
-| 13 | [C.A.](https://open.spotify.com/track/13aqTF1q4504gb1WxzDZ1k) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Feorm Falorx](https://open.spotify.com/album/6gSz7SaYTBVaAORAO6j0ME) | 3:06 |
+| 12 | [C.A.](https://open.spotify.com/track/13aqTF1q4504gb1WxzDZ1k) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Feorm Falorx](https://open.spotify.com/album/6gSz7SaYTBVaAORAO6j0ME) | 3:06 |
+| 13 | [Universal Sound](https://open.spotify.com/track/4CR6C67Fe6JqIqs8TvITf6) | [Ricky Bamboo](https://open.spotify.com/artist/5NM4Yut39GINagUVOswMzD) | [Forest Theory](https://open.spotify.com/album/6tEb4MSz9C8l72Gk681cZ9) | 3:51 |
 | 14 | [Distant Thoughts](https://open.spotify.com/track/3ULyNETw72K1nR6tdRz76w) | [Justin Jet Zorbas](https://open.spotify.com/artist/10G9N5ABjyamTFBEAsquNs), [Inum](https://open.spotify.com/artist/3TAGwIg5m6pwHRuBMvtsup) | [Distant Thoughts](https://open.spotify.com/album/1Y2A4NGnjArQf9DLy3Unv2) | 2:27 |
 | 15 | [Leave Here](https://open.spotify.com/track/3JKn7wZYSwOGriPALOQPBT) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Leave Here](https://open.spotify.com/album/4kwlyY10z4cSiF6jmyngt9) | 4:57 |
 | 16 | [Warm Fuzzies: The Glory](https://open.spotify.com/track/7f765rA8dhcnqpu8N9yHyd) | [Bon\-Psy](https://open.spotify.com/artist/5Vv4f9pucnXPVExpBKfBXn) | [Order](https://open.spotify.com/album/6OYR86XQE5NItKcLtBEfPA) | 3:26 |
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 37 | [17°C](https://open.spotify.com/track/4FYpGNDeh57Dmop6EgNEAI) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [17°C](https://open.spotify.com/album/1HuXrTydaxznPxtVZMnnRc) | 4:02 |
 | 38 | [Diamond Beach](https://open.spotify.com/track/5O77vZjVt78PbW6nCKItQq) | [Modula](https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7) | [Paranormal Phenomena – The Icelandic Expedition](https://open.spotify.com/album/7of3FJV3PXkHQ1bWyiFqup) | 3:04 |
 | 39 | [Cheve](https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89) | [Siete Catorce](https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr) | [Cruda](https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH) | 5:29 |
-| 40 | [SPIN FOREVER](https://open.spotify.com/track/1MmksCcZL31uJu8J4swpsC) | [TUNA DISPLAY](https://open.spotify.com/artist/1x7qdjEwCAGHfHrtqrnO8J) | [VIOLENT GLARE](https://open.spotify.com/album/0EOuU9vymdpcWaRQTQzSPT) | 4:10 |
+| 40 | [In Your Head \- Subxet Remix](https://open.spotify.com/track/50mIPnnh5NYXF3I6HapVjq) | [Arhkota](https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ), [Lubna Maher](https://open.spotify.com/artist/3zCuqsdLxjuhTjxYsrIuvb), [Subxet](https://open.spotify.com/artist/5dxUiR8ZvHWBoMS1iRdDey) | [Dreamy Hamilton \(Remixes\)](https://open.spotify.com/album/4X40gozRTAuJrosoKxf9M6) | 4:47 |
 | 41 | [ITSAME \[group hugg\]](https://open.spotify.com/track/2H9n9r52CvPOTYM3WCCl82) | [Brainwaltzera](https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB) | [ITSAME](https://open.spotify.com/album/7Ffx32PXyHvhskEtCtN3xx) | 7:41 |
-| 42 | [In Your Head \- Subxet Remix](https://open.spotify.com/track/50mIPnnh5NYXF3I6HapVjq) | [Arhkota](https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ), [Lubna Maher](https://open.spotify.com/artist/3zCuqsdLxjuhTjxYsrIuvb), [Subxet](https://open.spotify.com/artist/5dxUiR8ZvHWBoMS1iRdDey) | [Dreamy Hamilton \(Remixes\)](https://open.spotify.com/album/4X40gozRTAuJrosoKxf9M6) | 4:47 |
+| 42 | [SPIN FOREVER](https://open.spotify.com/track/1MmksCcZL31uJu8J4swpsC) | [TUNA DISPLAY](https://open.spotify.com/artist/1x7qdjEwCAGHfHrtqrnO8J) | [VIOLENT GLARE](https://open.spotify.com/album/0EOuU9vymdpcWaRQTQzSPT) | 4:10 |
 | 43 | [Pigeon Barron](https://open.spotify.com/track/3J4QilICdLFiPX7lB3lyOJ) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Baby, We're Ascending](https://open.spotify.com/album/7FlN0x6yjToDvOIjpuIm48) | 6:39 |
 | 44 | [Trusted](https://open.spotify.com/track/0lX858dF2YgUxNEUcgN8Gi) | [machìna](https://open.spotify.com/artist/0WOOrXTvgnjErVjsXSOOxn) | [Trusted EP](https://open.spotify.com/album/3fXh9MA7D3t2T4ir3R2tB9) | 3:14 |
 | 45 | [Minena](https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa) | [Ranma Entero](https://open.spotify.com/artist/779eiS92bExNWIAWxmiWIB) | [Minena](https://open.spotify.com/album/0IWOooqWyw1lf5xqYGGs3H) | 4:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 49 | [Desert Viper](https://open.spotify.com/track/07Ee8FQCrmxyseMqszOATP) | [Impérieux](https://open.spotify.com/artist/1H44pbKMHDVSQcYW4joyLK) | [Extensions](https://open.spotify.com/album/4NbNg6wkAtFk0Rv30UUvYN) | 4:12 |
 | 50 | [Yesterday Faded \- Edit](https://open.spotify.com/track/0WLrMIT6Pi7AzvEdvfP7yP) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Yesterday Faded \(Edit\)](https://open.spotify.com/album/6o2dqU7r0teFQoNQZdEGdT) | 4:02 |
 
-Snapshot ID: `MTY4MTUyNDczNiwwMDAwMDAwMDA3OTMxNGFmOTE2YTM5YmUxZThlMjM0OTkyZWMyNTA5`
+Snapshot ID: `MTY4MTUyNDczNiwwMDAwMDAwMDBkMjZiNTM2MzA1YWM5YmNhNDY0MWYzZmU2NjAxNjRm`

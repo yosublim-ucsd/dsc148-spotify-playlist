@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- South Korea.
 
-1,058 songs - 2 day 11 hr 26 min
+1,059 songs - 2 day 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:20 | 2021-03-27\* | 2021-06-27 |
 | [Blood & Sand](https://open.spotify.com/track/1qzcBJjBNyxgnzVeUEELvG) | [Joe Mesmar](https://open.spotify.com/artist/6FcKiLiXqVUbEOAe7hhTua) | [Blood & Sand](https://open.spotify.com/album/0QYnSM87AZhFHhNTHCy68K) | 7:52 | 2022-09-25 | 2022-10-05 |
 | [Blue & Grey](https://open.spotify.com/track/0n2moJpAEWHwaPYYjkzMDl) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 4:14 | 2021-03-30 | 2021-06-13 |
-| [Blue Blood](https://open.spotify.com/track/2avdbiswb0d5AFmyyz68xP) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 2:47 | 2023-04-11 |  |
+| [Blue Blood](https://open.spotify.com/track/2avdbiswb0d5AFmyyz68xP) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 2:47 | 2023-04-11 | 2023-04-17 |
 | [Blue Flame](https://open.spotify.com/track/37YoRLUu1qId0ewavgvnkG) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 3:21 | 2022-05-04 | 2022-05-12 |
 | [Blueming](https://open.spotify.com/track/4Dr2hJ3EnVh2Aaot6fRwDO) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Love poem](https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH) | 3:37 | 2021-03-27\* | 2021-06-25 |
 | [Born Singer](https://open.spotify.com/track/1IthE5GNiRzFN5CVaCa445) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:58 | 2022-06-11 | 2022-07-04 |
@@ -1005,6 +1005,7 @@
 | [What’s Next](https://open.spotify.com/track/3aQem4jVGdhtg116TmJnHz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scary Hours 2](https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89) | 2:58 | 2021-03-27\* | 2021-04-01 |
 | [WHEN I MOVE](https://open.spotify.com/track/5xHVCtel1AeJTaK3mS8UDf) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [MOVE AGAIN \(Japan Special Edition\)](https://open.spotify.com/album/25hgAAeE86W8cEH7s4osl6) | 2:58 | 2022-12-23 | 2022-12-31 |
 | [WHEN I MOVE](https://open.spotify.com/track/7gjNxZa0eOEFLY1So9s3fC) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [MOVE AGAIN](https://open.spotify.com/album/6VxGMuJlJzQgxUca7zRqGk) | 2:58 | 2022-12-01 | 2022-12-24 |
+| [when the storm passes](https://open.spotify.com/track/5LGk6HojDdgnWmSck7AwZi) | [Akame](https://open.spotify.com/artist/13xYfJOINDVvMZ3EqcPUVB) | [when the storm passes](https://open.spotify.com/album/4bVBLnOp0swOht3BOIDSxY) | 0:48 | 2023-04-16 |  |
 | [When This Rain Stops](https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Like Water \- The 1st Mini Album](https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7) | 4:04 | 2021-04-07 | 2021-04-09 |
 | [When You're Gone](https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [When You're Gone](https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp) | 2:52 | 2022-04-02 | 2022-04-26 |
 | [Whenever](https://open.spotify.com/track/2Cew0ywp4F00wLsN0txKdW) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Love, Yerin](https://open.spotify.com/album/2K41KAlW6n9bVlRCQPVcSZ) | 3:32 | 2021-09-12 | 2021-09-19 |

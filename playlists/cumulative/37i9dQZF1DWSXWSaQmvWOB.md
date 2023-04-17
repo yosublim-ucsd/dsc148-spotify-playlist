@@ -4,7 +4,7 @@
 
 > Your daily dose of soul\-infused music! Cover: The Teskey Brothers
 
-655 songs - 1 day 16 hr 11 min
+656 songs - 1 day 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Find Light](https://open.spotify.com/track/4DmRM1SWwGuw8kKQgvAxpM) | [Simon Dufour](https://open.spotify.com/artist/3MJwju3XDhIjxT5t9Tq4aw), [Aaron Day](https://open.spotify.com/artist/7iIKqzMPFhySieiHdJv0zp), [J\. Hoard](https://open.spotify.com/artist/0PmZkPrFtYPDTmhdjERfYs) | [Find Light](https://open.spotify.com/album/27n8Pukcobc0wzqTniGvax) | 3:46 | 2021-01-23 | 2021-04-17 |
 | [Fire](https://open.spotify.com/track/5LWQ5zef4xx39dIcOOeqUI) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [Fire](https://open.spotify.com/album/36CwJiqhcAgsrtnqWZizkV) | 4:29 | 2022-07-28 |  |
 | [Fire In The Sky](https://open.spotify.com/track/3zpGIFghtnVlwMXWyKW474) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Shang\-Chi and The Legend of The Ten Rings: The Album](https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC) | 3:21 | 2021-09-24 | 2022-02-11 |
+| [Flashing Lights](https://open.spotify.com/track/1sK3qSrr5cbVBbFobG2Gjh) | [Dragonfruit](https://open.spotify.com/artist/5XedNczaTKAEy9NrSXZeUy) | [Flashing Lights](https://open.spotify.com/album/25p8WJ7KjgpXVH5RvZqyxv) | 3:33 | 2023-04-06 |  |
 | [Flesh and Blood](https://open.spotify.com/track/3ApDLA7FGUlDc7rNM4bzkb) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Dream in Colour](https://open.spotify.com/album/21z7E0MTyBXzjvuvsVt2Av) | 3:58 | 2020-03-25\* | 2020-11-13 |
 | [Flow](https://open.spotify.com/track/0sVjIDqmoDYFS13wJ4aGWN) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [CHERISE](https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC) | [Flow](https://open.spotify.com/album/0K1QrERzol1Muix9tfgQBi) | 4:23 | 2021-02-12 | 2021-04-17 |
 | [Flowers](https://open.spotify.com/track/7p7DGHdk7LUjQHOXrT3y5I) | [Elli Ingram](https://open.spotify.com/artist/29Dil4ZXNOwBukXdVL1EwB) | [Flowers](https://open.spotify.com/album/4uUmZgAogxVyxMlxCIso0E) | 3:22 | 2020-05-15 | 2020-07-18 |
@@ -626,7 +627,7 @@
 | [Whatever You Are](https://open.spotify.com/track/6uL0ZXwr17RgsMRmXKYY11) | [Myles Sanko](https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G) | [Memories of Love](https://open.spotify.com/album/2wob0s3WIRpsvYHSpDqywa) | 5:00 | 2021-03-26 | 2021-04-17 |
 | [When a Man](https://open.spotify.com/track/6RJoHdqTT5OpIjGl4j3B32) | [Raheem DeVaughn](https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL), [Apollo Brown](https://open.spotify.com/artist/151BUVKmiB9rHDjIkgbeVE) | [When a Man](https://open.spotify.com/album/6nVtyOM1aVgqM7XmRSFckj) | 3:00 | 2021-04-17 | 2022-07-28 |
 | [WHEN IT HURTS](https://open.spotify.com/track/2k841D5ycZPIgIqoT6BJjB) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [Jack Savoretti](https://open.spotify.com/artist/7nC05zmJukRGYObQeRgg3x) | [WHEN IT HURTS](https://open.spotify.com/album/1CDCZ8UtNap3A4PrxeiQaS) | 3:01 | 2023-03-17 | 2023-03-29 |
-| [WHEN IT HURTS](https://open.spotify.com/track/7vJRS4OzKPyR2ZyYg5pVOk) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [Jack Savoretti](https://open.spotify.com/artist/7nC05zmJukRGYObQeRgg3x) | [WHEN IT HURTS](https://open.spotify.com/album/58Zx7kZhWVVYH1KmYGT27z) | 3:01 | 2023-03-30 |  |
+| [WHEN IT HURTS](https://open.spotify.com/track/7vJRS4OzKPyR2ZyYg5pVOk) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [Jack Savoretti](https://open.spotify.com/artist/7nC05zmJukRGYObQeRgg3x) | [WHEN IT HURTS](https://open.spotify.com/album/58Zx7kZhWVVYH1KmYGT27z) | 3:01 | 2023-03-30 | 2023-04-17 |
 | [When They See Us](https://open.spotify.com/track/4CHgGOhXwtzb7j12tQuZ55) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [When They See Us](https://open.spotify.com/album/28Id1uB0xhMahviTxxs4O6) | 3:07 | 2020-06-05 | 2020-07-18 |
 | [When You Were Mine](https://open.spotify.com/track/05NwKm5My3fS780CUUDJFy) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [When You Were Mine](https://open.spotify.com/album/7nI3v7qE8bJ3MP8K0vRDlk) | 3:23 | 2021-09-04 | 2022-09-23 |
 | [Where Is Our Love Song \(feat\. Gary Clark Jr.\)](https://open.spotify.com/track/7d41wCresuSZFzFh2VRnd2) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Where Is Our Love Song](https://open.spotify.com/album/3rgaqrCj7z4EdOwuDTTjBi) | 3:37 | 2020-10-16 | 2021-01-09 |

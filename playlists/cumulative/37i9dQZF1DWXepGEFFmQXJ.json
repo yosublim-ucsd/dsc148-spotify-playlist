@@ -146,7 +146,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 232224,
       "name": "Acres",
       "url": "https://open.spotify.com/track/3C4L7c5JSB0ONiYli4Hplb"
@@ -168,6 +168,24 @@
       "duration_ms": 232224,
       "name": "Acres",
       "url": "https://open.spotify.com/track/4JIWCqW9WFHYD7Snwxji7m"
+    },
+    {
+      "album": {
+        "name": "Now She Ain't",
+        "url": "https://open.spotify.com/album/5FpvK5R9OIe7mcQbedllpM"
+      },
+      "artists": [
+        {
+          "name": "Brad Cox",
+          "url": "https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232224,
+      "name": "Acres",
+      "url": "https://open.spotify.com/track/68Em9vuEpyi3DMxeDiCe2m"
     },
     {
       "album": {

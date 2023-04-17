@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YNmLOBjUmx.md) - [plain]
 
 > Our editors' picks for the best Rock & Alternative songs this year\. Cover: WILLOW \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,464 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,461 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YNmLOBjUmx.md) - [plain]
 | 60 | [Wild](https://open.spotify.com/track/05uhED0miR9OJYPalPi7tx) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Lucifer On The Sofa](https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ) | 3:13 |
 | 61 | [These Are The Days](https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [These Are The Days](https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz) | 3:42 |
 | 62 | [Like A Drug](https://open.spotify.com/track/72R08p6rgsH9xCYu5xcfCS) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [Vol\. 1](https://open.spotify.com/album/0C4HBTbxm3KCIHMGBKV4Zj) | 3:32 |
-| 63 | [FUNERAL GREY](https://open.spotify.com/track/4ORdQW5NLKO3b0RUeBMIrs) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/7exaI7MyauQNCOqbyqU27C) | 2:44 |
+| 63 | [FUNERAL GREY](https://open.spotify.com/track/6Rebnr2UDaxxg3VNe6CBg2) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:44 |
 | 64 | [Say It \(To My Face\)](https://open.spotify.com/track/2UMeGWmUri9RVpmckPV9Jt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Say It \(To My Face\)](https://open.spotify.com/album/0zErHJ7vr4Ao9VgoX3RUYm) | 2:39 |
 | 65 | [DEEP CUTS](https://open.spotify.com/track/2ZTp176VMqvwwcQ62AQuCk) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [DEEP CUTS](https://open.spotify.com/album/2HbkSg3fAswxdCk5Bj23LO) | 4:14 |
 | 66 | [Supernatural](https://open.spotify.com/track/3HFvMIvCBNGkypFCQUHjyV) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Supernatural](https://open.spotify.com/album/5T0qNPygFFXWjhnzSzlTWD) | 2:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YNmLOBjUmx.md) - [plain]
 | 99 | [Million Miles of Fun](https://open.spotify.com/track/62cL9ooB6JUvDoHQi1ooSO) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Hygiene](https://open.spotify.com/album/7o7dfudZfiankIzcfXXamT) | 2:10 |
 | 100 | [We Came To Play](https://open.spotify.com/track/5ZNAXdzYkAMDqAokJ9Ub7Z) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [Trouble The Water](https://open.spotify.com/album/1sgYQT8SDu5pjb0MPPqs3t) | 2:15 |
 
-Snapshot ID: `MTY2OTgxNTkwMCwwMDAwMDAwMDMxOGYxNTQ4MDkyNzliZjcxMDFkYTA0N2MxODBmNjQ4`
+Snapshot ID: `MTY2OTgxNTkwMCwwMDAwMDAwMGQ1ZDFkMGM1MzEzMjRlYWM4NzJmMjZhMGI3OWU4N2Nm`

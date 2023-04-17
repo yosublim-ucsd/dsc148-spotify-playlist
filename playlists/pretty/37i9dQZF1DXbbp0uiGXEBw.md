@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 
 > Cùng tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt\. Ảnh bìa: Hoàng Thùy Linh
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,075 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,099 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 | 17 | [Falling In Love](https://open.spotify.com/track/5K67uEqrHOPJ5i5kcw0QS4) | [Na Ngọc Anh](https://open.spotify.com/artist/5Es1OAhewJhFhbfejSQA7O) | [Falling In Love](https://open.spotify.com/album/7glLUH9evIkEx4LiNIypyB) | 4:38 |
 | 18 | [Em Là Coffee](https://open.spotify.com/track/2mC5v8NMmr6NjKyV7alPDu) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn) | [Em Là Coffee](https://open.spotify.com/album/6qagm5uRQf1OfpApaDGIEa) | 3:05 |
 | 19 | [Trên Tình Bạn Dưới Tình Yêu](https://open.spotify.com/track/4zFgUpC8z88A9aEo7dnRPN) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [50/50](https://open.spotify.com/album/2guZsP5qfBxYma8Y4mhVff) | 3:19 |
-| 20 | [Em Day Chang Phai Thuy Kieu](https://open.spotify.com/track/031jyNUkkD02vrkgZDGJxu) | [Hoàng Thùy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [Hoang](https://open.spotify.com/album/4gfu67H8oClhhE4XT5JL2u) | 3:34 |
+| 20 | [Em Đây Chẳng Phải Thúy Kiều](https://open.spotify.com/track/031jyNUkkD02vrkgZDGJxu) | [Hoàng Thùy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [Hoàng](https://open.spotify.com/album/4gfu67H8oClhhE4XT5JL2u) | 3:34 |
 | 21 | [Em Không Hiểu](https://open.spotify.com/track/1izPmgSW7FV6XFdEOiTvOY) | [Changg](https://open.spotify.com/artist/1nX1HVIUo1Zfs3e2v3lFb9), [Minh Huy](https://open.spotify.com/artist/5zT1Ku9mzzl6RW5y4z0hUK) | [Em Không Hiểu](https://open.spotify.com/album/1TAJ1v7uOXi6lzXQSF3wjn) | 3:57 |
 | 22 | [Gái Độc Thân](https://open.spotify.com/track/2klsSb2iTfgDh95Ak9uWY2) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [Gái Độc Thân](https://open.spotify.com/album/4gDgccYkth0VxOc4m5IpIJ) | 3:05 |
 | 23 | [Hôm Nay Tôi Buồn \(Nashville Version\)](https://open.spotify.com/track/1Q3hhLiYXlomgwH4oDuBeC) | [Phùng Khánh Linh](https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C) | [Hôm Nay Tôi Buồn \(The 5th Anniversary\)](https://open.spotify.com/album/4uoFsEGWuNaf754zs4J4wu) | 4:20 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 | 26 | [Hương \(feat\. Negav\)](https://open.spotify.com/track/6aeU5IH8DB1qHK5jRFTNUv) | [Văn Mai Hương](https://open.spotify.com/artist/63SNH9m8M034lCGELVC1dm), [Negav](https://open.spotify.com/artist/4fg8aMZ23d2bxKz7r2vt9v) | [hương](https://open.spotify.com/album/6q946F95PkIqzVIxMQVVdq) | 3:30 |
 | 27 | [Đâu Cần Một Bài Ca Tình Yêu](https://open.spotify.com/track/3ckraK42KnTt0Mk0b8pmA2) | [Tiên Tiên](https://open.spotify.com/artist/5OvCh1Nin8AGw7OkxYinBe), [TRANG](https://open.spotify.com/artist/2knyDFP4xw9wZEWA98JX6b) | [Đâu Cần Một Bài Ca Tình Yêu](https://open.spotify.com/album/6Qb69lLK43aP1s06fQIYnJ) | 3:15 |
 | 28 | [Khi Em Lớn](https://open.spotify.com/track/5nD5PVXUkIpv0WcwfNFrgS) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G), [Hoàng Dũng](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74) | [Khi Em Lớn](https://open.spotify.com/album/5k4b9vDNNCIB0k1703mPrU) | 3:48 |
-| 29 | [Duyen Am](https://open.spotify.com/track/5dZHey2U2xrNpvgyop8URS) | [Hoàng Thùy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [Hoang](https://open.spotify.com/album/4gfu67H8oClhhE4XT5JL2u) | 2:59 |
+| 29 | [Duyên Âm](https://open.spotify.com/track/5dZHey2U2xrNpvgyop8URS) | [Hoàng Thùy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [Hoàng](https://open.spotify.com/album/4gfu67H8oClhhE4XT5JL2u) | 2:59 |
 | 30 | [Chưa Quên Người Yêu Cũ](https://open.spotify.com/track/3hxfMsWQOcS2o68G62SpuU) | [Hà Nhi](https://open.spotify.com/artist/3XOuN4VDN4EL0GjKov5mWL) | [Chưa Quên Người Yêu Cũ](https://open.spotify.com/album/4bs6KH6sFnt1Y08VtKBB0q) | 5:02 |
 | 31 | [Missing You](https://open.spotify.com/track/1AAGvzJRWMTKx7PNfeTvP4) | [Phuong Ly](https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9), [TINLE](https://open.spotify.com/artist/1jLYYT9QNuDI4zz4Ky9fyq) | [Missing You](https://open.spotify.com/album/1b60c7XKSLPW7s1f0CBWqF) | 4:02 |
 | 32 | [hai mươi hai \(22\) \[feat\. AMEE\]](https://open.spotify.com/track/0dHUKYXP9PJMN0RpR9dpFR) | [Hứa Kim Tuyền](https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP), [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [COLOURS](https://open.spotify.com/album/2eIFX7bSus6CHnQ6Ts5mCh) | 3:58 |

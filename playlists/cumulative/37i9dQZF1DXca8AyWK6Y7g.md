@@ -4,7 +4,7 @@
 
 > livin' life in your 250 sq ft apt cover: Charlotte Cardin
 
-1,594 songs - 3 day 9 hr 9 min
+1,595 songs - 3 day 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -590,7 +590,7 @@
 | [Hardcore](https://open.spotify.com/track/3gHOThR42dJBUnlbNoCQEF) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Hardcore](https://open.spotify.com/album/3EB8voAV8PNRicdD6KDtFV) | 4:08 | 2022-05-13 | 2022-05-20 |
 | [hate my favorite band](https://open.spotify.com/track/0skrS3ItclFdUYVZZeUy07) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [hate my favorite band](https://open.spotify.com/album/4BEWh8xe96dtjPyLZmxguE) | 2:54 | 2022-04-01 | 2023-02-11 |
 | [hate the way you love me](https://open.spotify.com/track/6GXRPqb0daBCcA9SRJMTMe) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [dear amelia](https://open.spotify.com/album/2BFeOSMMljkZs37e4uYLtG) | 2:53 | 2022-07-08 | 2022-09-03 |
-| [HATELOVE](https://open.spotify.com/track/0zDBdVVqplM1fraqw0Au81) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [HATELOVE](https://open.spotify.com/album/3HXLsudy18Zldq74H5KP5R) | 2:51 | 2023-02-24 |  |
+| [HATELOVE](https://open.spotify.com/track/0zDBdVVqplM1fraqw0Au81) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [HATELOVE](https://open.spotify.com/album/3HXLsudy18Zldq74H5KP5R) | 2:51 | 2023-02-24 | 2023-04-17 |
 | [Haunted House](https://open.spotify.com/track/4SLV1kwfWgTVgYjxl9wf4y) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Haunted House](https://open.spotify.com/album/0NNtQyZMNHUm4wec3Q2Oek) | 3:12 | 2021-11-19 | 2022-01-29 |
 | [Have Fun at Your Party](https://open.spotify.com/track/65q2ChWzUOjkgQNIg8jNhW) | [GRAACE](https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV) | [Have Fun at Your Party](https://open.spotify.com/album/1AL9EFQOxqCnng4VrPcMJK) | 3:40 | 2019-05-26\* | 2021-01-31 |
 | [Have I Ever Been In Love?](https://open.spotify.com/track/7nXs2GAKKIkNd8m1N4pgsx) | [Huck](https://open.spotify.com/artist/6kyIFL5I0g0kWOBygAJCbu) | [Have I Ever Been In Love?](https://open.spotify.com/album/3Ab8fVMZZL03XHXo0sL1ov) | 2:50 | 2021-03-22 | 2021-11-14 |
@@ -1131,6 +1131,7 @@
 | [Put Your Records On](https://open.spotify.com/track/1fah1uAs7HeTYDlNftKr3K) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Put Your Records On](https://open.spotify.com/album/48UWtRgO3MWkhUINPy3DjM) | 3:30 | 2021-01-25 | 2022-01-08 |
 | [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/track/0LuB69EEijTVyNHOXHiqhN) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/album/0AmJGPvtL6Kj0MBp7gh8BK) | 2:48 | 2023-03-10 |  |
 | [Pynk \(feat\. Grimes\)](https://open.spotify.com/track/5OpiyfqaQLdtwHd3SfembH) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Dirty Computer](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) | 4:00 | 2021-02-22 | 2021-05-09 |
+| [QUARTER LIFE CRISIS](https://open.spotify.com/track/5qM8NWUsRQ1xztraiBgn0g) | [Taylor Bickett](https://open.spotify.com/artist/3Fxg10eJ6YmvUdM2PPB4Zk) | [QUARTER LIFE CRISIS](https://open.spotify.com/album/0DkuTWSO3Jnljzyxm75mNK) | 3:18 | 2023-03-08 |  |
 | [QUARTER LIFE CRISIS](https://open.spotify.com/track/7BmpRLqZg1vLheYi1SI1Rw) | [Taylor Bickett](https://open.spotify.com/artist/3Fxg10eJ6YmvUdM2PPB4Zk) | [QUARTER LIFE CRISIS](https://open.spotify.com/album/1xZpg4zC8UQRM0NAnWCiZl) | 3:18 | 2022-10-14 | 2023-04-12 |
 | [Quartz](https://open.spotify.com/track/5Ty5uUfUzsAGd5opVvWDNj) | [Black Grapefruit](https://open.spotify.com/artist/13CHp8uQ13fYrZ4dOecqIG) | [Fade Forget](https://open.spotify.com/album/6l5hLE8eZmKfmPKbD8YAl1) | 3:00 | 2019-07-27 | 2020-04-15 |
 | [Queen \- Touch Sensitive Remix](https://open.spotify.com/track/2mRlpDDrKZU7tEKX5dX8mD) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU), [Touch Sensitive](https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [Queen \(Remixes\)](https://open.spotify.com/album/7HFFoZKmvd4UaoK6MmjBXe) | 3:24 | 2021-02-22 | 2022-01-08 |

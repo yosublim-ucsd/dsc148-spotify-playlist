@@ -1,12 +1,12 @@
 {
   "description": "The biggest Texas Country Hits over the last couple of years. Formerly Texas Music Rewind.",
-  "num_followers": 118678,
+  "num_followers": 118804,
   "original_name": "Texas Country Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjA0NTU0OCwwMDAwMDAwMGFjMWVjOTFkY2I5MDExMGRjNmIyNTJiMGI5NmQ4NGM3",
+  "snapshot_id": "MTY3NjA0NTU0OCwwMDAwMDAwMGI4Mjc1ZmUwZDAyMWYxOTI0YjA2NmVjY2RlNzgyYzMw",
   "tracks": [
     {
       "added_at": "2022-05-27 04:00:00",
@@ -399,6 +399,22 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
+        "name": "Muchos Sonidos",
+        "url": "https://open.spotify.com/album/4AyYKQ8iCNv5ZiAhEFRPhE"
+      },
+      "artists": [
+        {
+          "name": "Carson Jeffrey",
+          "url": "https://open.spotify.com/artist/4wDMfwJrSuFKolGyGC5K1l"
+        }
+      ],
+      "duration_ms": 223596,
+      "name": "Ranch Girl Dream",
+      "url": "https://open.spotify.com/track/459Tsc8UpweSq3WqZ80OOV"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
         "name": "In His Arms",
         "url": "https://open.spotify.com/album/6scCDinSi95lzxNqEW6kpV"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 150186,
       "name": "In His Arms",
       "url": "https://open.spotify.com/track/221KYcs5zXX4ew6f8mumse"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
-        "name": "Muchos Sonidos",
-        "url": "https://open.spotify.com/album/4AyYKQ8iCNv5ZiAhEFRPhE"
-      },
-      "artists": [
-        {
-          "name": "Carson Jeffrey",
-          "url": "https://open.spotify.com/artist/4wDMfwJrSuFKolGyGC5K1l"
-        }
-      ],
-      "duration_ms": 223596,
-      "name": "Ranch Girl Dream",
-      "url": "https://open.spotify.com/track/459Tsc8UpweSq3WqZ80OOV"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -723,6 +723,22 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
+        "name": "The Truth",
+        "url": "https://open.spotify.com/album/22xhV09QXE3ocBjGOOWQ4L"
+      },
+      "artists": [
+        {
+          "name": "Cody Hibbard",
+          "url": "https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5"
+        }
+      ],
+      "duration_ms": 212235,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/6cvKAHoVOvSlINUCjbjGLu"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
         "name": "How Lucky Am I",
         "url": "https://open.spotify.com/album/5FvWijatd6SksRLCD0TpER"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 193645,
       "name": "You, Me and a Bottle",
       "url": "https://open.spotify.com/track/5l2vsw5MtFyUcFmsuguNcW"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
-        "name": "The Truth",
-        "url": "https://open.spotify.com/album/22xhV09QXE3ocBjGOOWQ4L"
-      },
-      "artists": [
-        {
-          "name": "Cody Hibbard",
-          "url": "https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5"
-        }
-      ],
-      "duration_ms": 212235,
-      "name": "The Truth",
-      "url": "https://open.spotify.com/track/6cvKAHoVOvSlINUCjbjGLu"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -815,22 +815,6 @@
       "duration_ms": 188636,
       "name": "Can Down",
       "url": "https://open.spotify.com/track/1GIcsaFqm5xn5mkl97v0lV"
-    },
-    {
-      "added_at": "2023-04-16 01:11:59",
-      "album": {
-        "name": "blood",
-        "url": "https://open.spotify.com/album/4ttXGpNxsIaxGtsV2M3unU"
-      },
-      "artists": [
-        {
-          "name": "Kaitlin Butts",
-          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
-        }
-      ],
-      "duration_ms": 298906,
-      "name": "blood",
-      "url": "https://open.spotify.com/track/2YqZCQhkuQpPUb5M9wptBq"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -883,6 +867,22 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
+        "name": "Palo Duro",
+        "url": "https://open.spotify.com/album/7Itz6S4CkB1xRb7649weHa"
+      },
+      "artists": [
+        {
+          "name": "Shotgun Rider",
+          "url": "https://open.spotify.com/artist/1gmKCymY1bESfw6oF1V6gk"
+        }
+      ],
+      "duration_ms": 201826,
+      "name": "I'm Not Alright",
+      "url": "https://open.spotify.com/track/3PURovRKyJaBmgzPfmMJ4O"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
         "name": "No Vacancy",
         "url": "https://open.spotify.com/album/4FLvEcu5X5ZUzsWP3Lbh8O"
       },
@@ -897,20 +897,20 @@
       "url": "https://open.spotify.com/track/72B4o9F7SbMeDWJoQPcqQJ"
     },
     {
-      "added_at": "2022-05-27 04:00:00",
+      "added_at": "2023-04-17 01:25:56",
       "album": {
-        "name": "Palo Duro",
-        "url": "https://open.spotify.com/album/7Itz6S4CkB1xRb7649weHa"
+        "name": "blood",
+        "url": "https://open.spotify.com/album/4ttXGpNxsIaxGtsV2M3unU"
       },
       "artists": [
         {
-          "name": "Shotgun Rider",
-          "url": "https://open.spotify.com/artist/1gmKCymY1bESfw6oF1V6gk"
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
         }
       ],
-      "duration_ms": 201826,
-      "name": "I'm Not Alright",
-      "url": "https://open.spotify.com/track/3PURovRKyJaBmgzPfmMJ4O"
+      "duration_ms": 298906,
+      "name": "blood",
+      "url": "https://open.spotify.com/track/2YqZCQhkuQpPUb5M9wptBq"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -931,6 +931,22 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
+        "name": "One Light Town",
+        "url": "https://open.spotify.com/album/6BwvOmmn7IaK2TkzzsJkHa"
+      },
+      "artists": [
+        {
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+        }
+      ],
+      "duration_ms": 196066,
+      "name": "Queen for a Night",
+      "url": "https://open.spotify.com/track/6Go4PLAMT0aSxqzhEFSn3W"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
         "name": "When Love Comes Around",
         "url": "https://open.spotify.com/album/1P2UKfT58J3L0wSdUs92jc"
       },
@@ -947,6 +963,22 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
+        "name": "Drowning In Dreams",
+        "url": "https://open.spotify.com/album/4OgDsTtnYYixZQ7uVMwsAS"
+      },
+      "artists": [
+        {
+          "name": "Kat Hasty",
+          "url": "https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d"
+        }
+      ],
+      "duration_ms": 268968,
+      "name": "Pretty Things",
+      "url": "https://open.spotify.com/track/4629TVxMQhshiEV4D5Uwyy"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
         "name": "Bad Reputation",
         "url": "https://open.spotify.com/album/6z3Qev2DZEDOCDnZX0eNyw"
       },
@@ -959,22 +991,6 @@
       "duration_ms": 219613,
       "name": "Bad Reputation",
       "url": "https://open.spotify.com/track/0icfvcZgDWltdFtgBZNUB2"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
-        "name": "One Light Town",
-        "url": "https://open.spotify.com/album/6BwvOmmn7IaK2TkzzsJkHa"
-      },
-      "artists": [
-        {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
-        }
-      ],
-      "duration_ms": 196066,
-      "name": "Queen for a Night",
-      "url": "https://open.spotify.com/track/6Go4PLAMT0aSxqzhEFSn3W"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1027,18 +1043,18 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Where Phones Don't Work",
-        "url": "https://open.spotify.com/album/0VNn10LfXJkzFLdk3l9RNQ"
+        "name": "New Tattoos",
+        "url": "https://open.spotify.com/album/780rPEbni816HNo8Fk2Yom"
       },
       "artists": [
         {
-          "name": "Wade Bowen",
-          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
+          "name": "South Texas Tweek",
+          "url": "https://open.spotify.com/artist/7i1TAJ7JbLXS8OMi0tABmM"
         }
       ],
-      "duration_ms": 213643,
-      "name": "Phones Don't Work",
-      "url": "https://open.spotify.com/track/20XMAhJsX2qZtzfaCxn9Ml"
+      "duration_ms": 157660,
+      "name": "New Tattoos",
+      "url": "https://open.spotify.com/track/34WXK8DJ3AuVtyS4w4ShIx"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1059,34 +1075,18 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "New Tattoos",
-        "url": "https://open.spotify.com/album/780rPEbni816HNo8Fk2Yom"
+        "name": "Where Phones Don't Work",
+        "url": "https://open.spotify.com/album/0VNn10LfXJkzFLdk3l9RNQ"
       },
       "artists": [
         {
-          "name": "South Texas Tweek",
-          "url": "https://open.spotify.com/artist/7i1TAJ7JbLXS8OMi0tABmM"
+          "name": "Wade Bowen",
+          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
         }
       ],
-      "duration_ms": 157660,
-      "name": "New Tattoos",
-      "url": "https://open.spotify.com/track/34WXK8DJ3AuVtyS4w4ShIx"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
-        "name": "Drowning In Dreams",
-        "url": "https://open.spotify.com/album/4OgDsTtnYYixZQ7uVMwsAS"
-      },
-      "artists": [
-        {
-          "name": "Kat Hasty",
-          "url": "https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d"
-        }
-      ],
-      "duration_ms": 268968,
-      "name": "Pretty Things",
-      "url": "https://open.spotify.com/track/4629TVxMQhshiEV4D5Uwyy"
+      "duration_ms": 213643,
+      "name": "Phones Don't Work",
+      "url": "https://open.spotify.com/track/20XMAhJsX2qZtzfaCxn9Ml"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1105,7 +1105,7 @@
       "url": "https://open.spotify.com/track/5KOIbBonnacDrt1TUgWmLe"
     },
     {
-      "added_at": "2023-04-16 01:11:59",
+      "added_at": "2023-04-17 01:25:56",
       "album": {
         "name": "Pretty Ugly",
         "url": "https://open.spotify.com/album/3UN2NT53VVKWF331LmVIzb"
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "High on the Bottle",
-        "url": "https://open.spotify.com/album/4Mf1pb2hkmWet5MDEYgtkr"
-      },
-      "artists": [
-        {
-          "name": "Creed Fisher",
-          "url": "https://open.spotify.com/artist/03UZwtrCiMR9P10LcjQ5Wu"
-        }
-      ],
-      "duration_ms": 253952,
-      "name": "High on the Bottle",
-      "url": "https://open.spotify.com/track/3PvgOx0N7kbRjVQHD7lXx4"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Slow",
         "url": "https://open.spotify.com/album/6wnnZ1CsXM8VjVFjuu1lSh"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 184644,
       "name": "Slow",
       "url": "https://open.spotify.com/track/3mhov9HlVm2AL48B8XJskv"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "High on the Bottle",
+        "url": "https://open.spotify.com/album/4Mf1pb2hkmWet5MDEYgtkr"
+      },
+      "artists": [
+        {
+          "name": "Creed Fisher",
+          "url": "https://open.spotify.com/artist/03UZwtrCiMR9P10LcjQ5Wu"
+        }
+      ],
+      "duration_ms": 253952,
+      "name": "High on the Bottle",
+      "url": "https://open.spotify.com/track/3PvgOx0N7kbRjVQHD7lXx4"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
+        "name": "Burn Down EP",
+        "url": "https://open.spotify.com/album/5h68tKi4xydtyM7NJiAEGG"
+      },
+      "artists": [
+        {
+          "name": "Cade Holliday",
+          "url": "https://open.spotify.com/artist/0QNq5Ld1iY0TrzmnABZg61"
+        }
+      ],
+      "duration_ms": 204788,
+      "name": "Picture",
+      "url": "https://open.spotify.com/track/7HiD3Ladm1RrQuGgkDPPyl"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
         "name": "Any Other Guy",
         "url": "https://open.spotify.com/album/3aX8bB9ctFZJS3NF9YAliw"
       },
@@ -1487,18 +1503,18 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Burn Down EP",
-        "url": "https://open.spotify.com/album/5h68tKi4xydtyM7NJiAEGG"
+        "name": "First Dirt Road",
+        "url": "https://open.spotify.com/album/2M5ulwziM5CwKd4zGSdUc3"
       },
       "artists": [
         {
-          "name": "Cade Holliday",
-          "url": "https://open.spotify.com/artist/0QNq5Ld1iY0TrzmnABZg61"
+          "name": "Chris Colston",
+          "url": "https://open.spotify.com/artist/1drW8ii2leKur6GbJtibRz"
         }
       ],
-      "duration_ms": 204788,
-      "name": "Picture",
-      "url": "https://open.spotify.com/track/7HiD3Ladm1RrQuGgkDPPyl"
+      "duration_ms": 203500,
+      "name": "First Dirt Road",
+      "url": "https://open.spotify.com/track/6VIMJ4ixnzZO6jgrhQRhC1"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1547,22 +1563,6 @@
       "duration_ms": 210124,
       "name": "Everything I Had",
       "url": "https://open.spotify.com/track/70eyw755HGnxFAk8jPJGRo"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
-        "name": "First Dirt Road",
-        "url": "https://open.spotify.com/album/2M5ulwziM5CwKd4zGSdUc3"
-      },
-      "artists": [
-        {
-          "name": "Chris Colston",
-          "url": "https://open.spotify.com/artist/1drW8ii2leKur6GbJtibRz"
-        }
-      ],
-      "duration_ms": 203500,
-      "name": "First Dirt Road",
-      "url": "https://open.spotify.com/track/6VIMJ4ixnzZO6jgrhQRhC1"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1631,22 +1631,22 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Whiskey Over Wine",
-        "url": "https://open.spotify.com/album/6CGjZb0VFhDnV0zaZOw9Bs"
+        "name": "Bad Romantic",
+        "url": "https://open.spotify.com/album/537wfsAlZEoI5qEOR7NpJQ"
       },
       "artists": [
         {
-          "name": "David McMahon",
-          "url": "https://open.spotify.com/artist/7jaxYfWErivORgwy5NvaNT"
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
         },
         {
-          "name": "Jake Parshall",
-          "url": "https://open.spotify.com/artist/5lQnbSk0GQNuECY8I53g0U"
+          "name": "Summer Dean",
+          "url": "https://open.spotify.com/artist/33tSPgqoMQLTTJBn7LLLul"
         }
       ],
-      "duration_ms": 230933,
-      "name": "Whiskey Over Wine",
-      "url": "https://open.spotify.com/track/6HcEsb3pfAs2UJJZWE2xKa"
+      "duration_ms": 206108,
+      "name": "You're Lucky She's Lonely",
+      "url": "https://open.spotify.com/track/0ECaEFqiKqtdWdMzogmqBX"
     }
   ],
   "unique_name": "Texas Country Rewind",

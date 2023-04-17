@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYbvs1vByi6.md) - [plain]
 
 > Non\-stop energy, riffs and belters.\. it never gets old, no guest list required.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,461 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,492 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYbvs1vByi6.md) - [plain]
 | 39 | [It's Not Over Yet](https://open.spotify.com/track/0TRvSkiK0eQEejmiu4vBzi) | [Klaxons](https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI) | [Myths Of The Near Future](https://open.spotify.com/album/6NfykVXaIiJG0JkkNI3Ubg) | 3:35 |
 | 40 | [The Bitter End](https://open.spotify.com/track/2yYASbXnAV71CLbNY1HCWf) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Sleeping With Ghosts](https://open.spotify.com/album/2toHnQWm3IbSocaWGYi9J4) | 3:10 |
 | 41 | [Wreckin' Bar \(Ra Ra Ra\)](https://open.spotify.com/track/1K5vb3Yu4F8yMaHggtdpDY) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [What Did You Expect from The Vaccines?](https://open.spotify.com/album/2T0iwqVWzr4Y63x4kKO5DW) | 1:21 |
-| 42 | [The Old Style Raiders](https://open.spotify.com/track/07wuA7wnqcAEi1pWm9hXYW) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [The Theory Of Whatever](https://open.spotify.com/album/5kyMgf8ogldA8iLY9ppyAV) | 3:55 |
-| 43 | [Never Fight A Man With A Perm](https://open.spotify.com/track/7BmWDAlFk1DCL60I435oaE) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Joy as an Act of Resistance.](https://open.spotify.com/album/7BbRSUBwTB37ut0Ht3yAqt) | 3:48 |
+| 42 | [Never Fight A Man With A Perm](https://open.spotify.com/track/7BmWDAlFk1DCL60I435oaE) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Joy as an Act of Resistance.](https://open.spotify.com/album/7BbRSUBwTB37ut0Ht3yAqt) | 3:48 |
+| 43 | [The Old Style Raiders](https://open.spotify.com/track/07wuA7wnqcAEi1pWm9hXYW) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [The Theory Of Whatever](https://open.spotify.com/album/5kyMgf8ogldA8iLY9ppyAV) | 3:55 |
 | 44 | [Autoportrait](https://open.spotify.com/track/7kWwphH6Q6vu9WMtQIcrQf) | [Demob Happy](https://open.spotify.com/artist/6FKokxvL5PCWIxrVhMyDgI) | [Autoportrait](https://open.spotify.com/album/4m1P0dk7zsTTsE2BrkbhnU) | 3:22 |
 | 45 | [One Armed Scissor](https://open.spotify.com/track/1lg8iruuIfdRL20TMmHRzJ) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Relationship Of Command](https://open.spotify.com/album/0x6Y2eA8Boakdrq9x2agdF) | 4:20 |
 | 46 | [It's Getting Boring By The Sea](https://open.spotify.com/track/0Y1FLqg7c4YFCKP2F6HXsG) | [Blood Red Shoes](https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR) | [Box of Secrets](https://open.spotify.com/album/0uOyWZz1ZnQczjvuF9SWWf) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYbvs1vByi6.md) - [plain]
 | 49 | [Back Foot](https://open.spotify.com/track/6geuGKb1jKb6TV8sGE5eaC) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Celebrity Mansions](https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu) | 3:08 |
 | 50 | [Do You Wanna Talk](https://open.spotify.com/track/32SDqcUr2HkSJ20NlHcMBe) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Do You Wanna Talk](https://open.spotify.com/album/1M9rhdjdrp2azAxUtavJuX) | 2:26 |
 
-Snapshot ID: `MTY3MjMzMDg2NSwwMDAwMDAwMDU3ZmE0YmY3ZGYyYjhhNjdmYmRjZWM4Y2RhY2ZjNTVl`
+Snapshot ID: `MTY3MjMzMDg2NSwwMDAwMDAwMGJjMTg0MjRlOGY3Y2ZmMDk2MGNjM2VmYzJjMDBhMjdj`

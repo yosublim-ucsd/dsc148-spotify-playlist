@@ -1,12 +1,12 @@
 {
   "description": "Canciones directas y banderas al viento. Foto: La 25.",
-  "num_followers": 141461,
+  "num_followers": 141508,
   "original_name": "Rock Barrial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjM2OTIwMCwwMDAwMDAwMGZlM2JjODEwMzFkN2RkNmRhOTY1OTMzOWZmN2FlNDZl",
+  "snapshot_id": "MTY3MjM2OTIwMCwwMDAwMDAwMDNkYjJiZDMyZmU0MTM0OWE2Y2YxNTNkNmM3OGE5NWJk",
   "tracks": [
     {
       "added_at": "2022-12-30 03:00:00",
@@ -155,22 +155,6 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
-        "name": "A Contraluz",
-        "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
-      },
-      "artists": [
-        {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Zafar",
-      "url": "https://open.spotify.com/track/1wIUWGdTdhVk5gIPd0ULxX"
-    },
-    {
-      "added_at": "2022-12-30 03:00:00",
-      "album": {
         "name": "Se\u00f1ales",
         "url": "https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 226746,
       "name": "9 de Julio",
       "url": "https://open.spotify.com/track/04bg4edMdpKhsgkSzYqj55"
+    },
+    {
+      "added_at": "2022-12-30 03:00:00",
+      "album": {
+        "name": "A Contraluz",
+        "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
+      },
+      "artists": [
+        {
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Zafar",
+      "url": "https://open.spotify.com/track/1wIUWGdTdhVk5gIPd0ULxX"
     },
     {
       "added_at": "2022-12-30 03:00:00",
@@ -251,18 +251,18 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
-        "name": "Se\u00f1ales",
-        "url": "https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy"
+        "name": "De Bichos Y Flores",
+        "url": "https://open.spotify.com/album/0zDs3M8rUvhn1D6IFNJMgI"
       },
       "artists": [
         {
-          "name": "Callejeros",
-          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
         }
       ],
-      "duration_ms": 289760,
-      "name": "Creo",
-      "url": "https://open.spotify.com/track/5Bi9Cq5oVFy1OtUgecbegZ"
+      "duration_ms": 187066,
+      "name": "El Viejo",
+      "url": "https://open.spotify.com/track/7gKqjNMM4ikt7KFTRsgZgL"
     },
     {
       "added_at": "2022-12-30 03:00:00",
@@ -315,18 +315,18 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
-        "name": "De Bichos Y Flores",
-        "url": "https://open.spotify.com/album/0zDs3M8rUvhn1D6IFNJMgI"
+        "name": "Se\u00f1ales",
+        "url": "https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy"
       },
       "artists": [
         {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+          "name": "Callejeros",
+          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
         }
       ],
-      "duration_ms": 187066,
-      "name": "El Viejo",
-      "url": "https://open.spotify.com/track/7gKqjNMM4ikt7KFTRsgZgL"
+      "duration_ms": 289760,
+      "name": "Creo",
+      "url": "https://open.spotify.com/track/5Bi9Cq5oVFy1OtUgecbegZ"
     },
     {
       "added_at": "2022-12-30 03:00:00",
@@ -363,18 +363,18 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
-        "name": "Presi\u00f3n",
-        "url": "https://open.spotify.com/album/3Pr88tREtqKF9srgl21jGT"
+        "name": "A Contraluz",
+        "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
       },
       "artists": [
         {
-          "name": "Callejeros",
-          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
         }
       ],
-      "duration_ms": 277560,
-      "name": "Una Nueva Noche Fr\u00eda",
-      "url": "https://open.spotify.com/track/39KmBOGkD1ztCbVeo2uspA"
+      "duration_ms": 281533,
+      "name": "Va A Escampar",
+      "url": "https://open.spotify.com/track/4MPwBYidOWnwpKlqQYJEzX"
     },
     {
       "added_at": "2022-12-30 03:00:00",
@@ -443,24 +443,8 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
-        "name": "A Contraluz",
-        "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
-      },
-      "artists": [
-        {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
-        }
-      ],
-      "duration_ms": 281533,
-      "name": "Va A Escampar",
-      "url": "https://open.spotify.com/track/4MPwBYidOWnwpKlqQYJEzX"
-    },
-    {
-      "added_at": "2022-12-30 03:00:00",
-      "album": {
-        "name": "Rocanroles Sin Destino",
-        "url": "https://open.spotify.com/album/3fyFk4hNkdXZK7eIuAvkyz"
+        "name": "Presi\u00f3n",
+        "url": "https://open.spotify.com/album/3Pr88tREtqKF9srgl21jGT"
       },
       "artists": [
         {
@@ -468,9 +452,9 @@
           "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
         }
       ],
-      "duration_ms": 210013,
-      "name": "Prohibido",
-      "url": "https://open.spotify.com/track/5kfg05FFAsnW4ikMqSfI3g"
+      "duration_ms": 277560,
+      "name": "Una Nueva Noche Fr\u00eda",
+      "url": "https://open.spotify.com/track/39KmBOGkD1ztCbVeo2uspA"
     },
     {
       "added_at": "2022-12-30 03:00:00",
@@ -507,6 +491,22 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
+        "name": "Espejos",
+        "url": "https://open.spotify.com/album/6Hg4QuUasAaIbX037jHVg0"
+      },
+      "artists": [
+        {
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+        }
+      ],
+      "duration_ms": 300181,
+      "name": "Vas a Bailar",
+      "url": "https://open.spotify.com/track/6Ew4raE2TqVLWjWspybOFt"
+    },
+    {
+      "added_at": "2022-12-30 03:00:00",
+      "album": {
         "name": "Verde Paisaje del Infierno",
         "url": "https://open.spotify.com/album/5BXYr7iU56rEX24QQPYcjO"
       },
@@ -523,18 +523,18 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
-        "name": "Espejos",
-        "url": "https://open.spotify.com/album/6Hg4QuUasAaIbX037jHVg0"
+        "name": "Rocanroles Sin Destino",
+        "url": "https://open.spotify.com/album/3fyFk4hNkdXZK7eIuAvkyz"
       },
       "artists": [
         {
-          "name": "Ciro y los Persas",
-          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+          "name": "Callejeros",
+          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
         }
       ],
-      "duration_ms": 300181,
-      "name": "Vas a Bailar",
-      "url": "https://open.spotify.com/track/6Ew4raE2TqVLWjWspybOFt"
+      "duration_ms": 210013,
+      "name": "Prohibido",
+      "url": "https://open.spotify.com/track/5kfg05FFAsnW4ikMqSfI3g"
     },
     {
       "added_at": "2022-12-30 03:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
-        "name": "Las Pastillas del Abuelo",
-        "url": "https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD"
-      },
-      "artists": [
-        {
-          "name": "Las Pastillas del Abuelo",
-          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
-        }
-      ],
-      "duration_ms": 431626,
-      "name": "Amar y Envejecer",
-      "url": "https://open.spotify.com/track/0V472Br1hpLSczZdow8MJd"
-    },
-    {
-      "added_at": "2022-12-30 03:00:00",
-      "album": {
         "name": "Para Mi para Vos",
         "url": "https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 317066,
       "name": "Oxidado",
       "url": "https://open.spotify.com/track/32YkpyPZ6taMEEb8TBLcrr"
+    },
+    {
+      "added_at": "2022-12-30 03:00:00",
+      "album": {
+        "name": "Las Pastillas del Abuelo",
+        "url": "https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD"
+      },
+      "artists": [
+        {
+          "name": "Las Pastillas del Abuelo",
+          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
+        }
+      ],
+      "duration_ms": 431626,
+      "name": "Amar y Envejecer",
+      "url": "https://open.spotify.com/track/0V472Br1hpLSczZdow8MJd"
     },
     {
       "added_at": "2022-12-30 03:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
-        "name": "Surcando",
-        "url": "https://open.spotify.com/album/6MI3Mq3LCkXHR01e9hyY7n"
-      },
-      "artists": [
-        {
-          "name": "Cuatro Pesos de Propina",
-          "url": "https://open.spotify.com/artist/0ChnnP8vWVXGxmfUfFYeND"
-        }
-      ],
-      "duration_ms": 280880,
-      "name": "Mi Revolucion",
-      "url": "https://open.spotify.com/track/39K7E651wrt8PorEspTWb5"
-    },
-    {
-      "added_at": "2022-12-30 03:00:00",
-      "album": {
         "name": "Vicio",
         "url": "https://open.spotify.com/album/5GhW2V4FEHOHEeVydU7TxS"
       },
@@ -1067,18 +1051,18 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
-        "name": "El Favor",
-        "url": "https://open.spotify.com/album/62csdLXrMnYxVSrnJaQmzg"
+        "name": "Surcando",
+        "url": "https://open.spotify.com/album/6MI3Mq3LCkXHR01e9hyY7n"
       },
       "artists": [
         {
-          "name": "Las Pastillas del Abuelo",
-          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
+          "name": "Cuatro Pesos de Propina",
+          "url": "https://open.spotify.com/artist/0ChnnP8vWVXGxmfUfFYeND"
         }
       ],
-      "duration_ms": 245024,
-      "name": "El Favor",
-      "url": "https://open.spotify.com/track/1gjX021CdXDhpKCkGM53H4"
+      "duration_ms": 280880,
+      "name": "Mi Revolucion",
+      "url": "https://open.spotify.com/track/39K7E651wrt8PorEspTWb5"
     },
     {
       "added_at": "2022-12-30 03:00:00",
@@ -1111,6 +1095,22 @@
       "duration_ms": 261133,
       "name": "Mu\u00e9velo",
       "url": "https://open.spotify.com/track/4xkQxDPC6RBV1Yfx6vkLsO"
+    },
+    {
+      "added_at": "2022-12-30 03:00:00",
+      "album": {
+        "name": "El Favor",
+        "url": "https://open.spotify.com/album/62csdLXrMnYxVSrnJaQmzg"
+      },
+      "artists": [
+        {
+          "name": "Las Pastillas del Abuelo",
+          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
+        }
+      ],
+      "duration_ms": 245024,
+      "name": "El Favor",
+      "url": "https://open.spotify.com/track/1gjX021CdXDhpKCkGM53H4"
     },
     {
       "added_at": "2022-12-30 03:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2022-12-30 03:00:00",
       "album": {
-        "name": "Las Pastillas del Abuelo",
-        "url": "https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD"
-      },
-      "artists": [
-        {
-          "name": "Las Pastillas del Abuelo",
-          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
-        }
-      ],
-      "duration_ms": 324053,
-      "name": "Viejo",
-      "url": "https://open.spotify.com/track/1MVsaR8VFzfsqJrG3TDCny"
-    },
-    {
-      "added_at": "2022-12-30 03:00:00",
-      "album": {
         "name": "Monta\u00f1a Rusa Emocional",
         "url": "https://open.spotify.com/album/0KOjxfn6PBm3ntF4NZnhjq"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 335560,
       "name": "Amando A Mi Guitarra",
       "url": "https://open.spotify.com/track/1m9Ho33kOmtYcpP7XoY7Vo"
+    },
+    {
+      "added_at": "2022-12-30 03:00:00",
+      "album": {
+        "name": "Las Pastillas del Abuelo",
+        "url": "https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD"
+      },
+      "artists": [
+        {
+          "name": "Las Pastillas del Abuelo",
+          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
+        }
+      ],
+      "duration_ms": 324053,
+      "name": "Viejo",
+      "url": "https://open.spotify.com/track/1MVsaR8VFzfsqJrG3TDCny"
     },
     {
       "added_at": "2022-12-30 03:00:00",

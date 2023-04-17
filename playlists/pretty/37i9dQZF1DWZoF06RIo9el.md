@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Lo mejor de abril 2023
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,520,360 likes - 45 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,520,470 likes - 45 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 6 | [Arranca \(feat\. Omega\)](https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [Arranca \(feat\. Omega\)](https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4) | 2:46 |
 | 7 | [EL HECHIZO](https://open.spotify.com/track/1mF6RkY7x1KsDBZS6cV5f1) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [EL HECHIZO](https://open.spotify.com/album/7cWrHFNgZmtltUv0ZW0BNE) | 2:47 |
 | 8 | [LA HORA Y EL DÍA](https://open.spotify.com/track/1j4yhkxSCEDmiLVKjpYKWq) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [LA HORA Y EL DÍA](https://open.spotify.com/album/3AucKVb9GvQ4pOGaZ8UhFK) | 3:37 |
-| 9 | [OJOS FERRARI](https://open.spotify.com/track/5yAIrkplUEpMNeojW8Q30o) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:00 |
-| 10 | [Cuerpecito](https://open.spotify.com/track/79euszUrA1kga1kK5PRmDo) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Cuerpecito](https://open.spotify.com/album/10C7yBcN3lezb79Dcznwad) | 3:15 |
+| 9 | [Cuerpecito](https://open.spotify.com/track/79euszUrA1kga1kK5PRmDo) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Cuerpecito](https://open.spotify.com/album/10C7yBcN3lezb79Dcznwad) | 3:15 |
+| 10 | [OJOS FERRARI](https://open.spotify.com/track/5yAIrkplUEpMNeojW8Q30o) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:00 |
 | 11 | [La Bolsa Gucci](https://open.spotify.com/track/7KBTLsYW2sI42vdlVP079C) | [miguel cornejo](https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [La Bolsa Gucci](https://open.spotify.com/album/1LMGPTkDnylJGOiojhF11C) | 2:16 |
 | 12 | [Jagger.mp3](https://open.spotify.com/track/2iNmegOcdmt4peYrh9S8qI) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Jagger.mp3](https://open.spotify.com/album/6Ti9115Odt4vwKJTCdG5WN) | 2:35 |
 | 13 | [Las Jordans](https://open.spotify.com/track/4eOGoAtYWRPQZ6mUwwgmuW) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:24 |
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 19 | [Sincerándome](https://open.spotify.com/track/6d920UMBw9naD9ggKvIiMT) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Sincerándome](https://open.spotify.com/album/3m7RgFTpgegZrhETayZOA7) | 3:39 |
 | 20 | [Mi Pecadito](https://open.spotify.com/track/5yrbKnKL9mKC61StX948w1) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Mi Pecadito](https://open.spotify.com/album/2YsZcOI0c1Eyo0JlDAGwXD) | 3:17 |
 | 21 | [Tu Recuerdo](https://open.spotify.com/track/3K4vutqVlY3eINQWb6jSJF) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Tu Recuerdo](https://open.spotify.com/album/0BmSD2UxwSB1g6ptVMv3xy) | 3:29 |
-| 22 | [Binikini](https://open.spotify.com/track/1Iy4dJWborISHY9FHWGKPD) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Binikini](https://open.spotify.com/album/7jAzRi4PeWM3E2MJnBmedj) | 3:03 |
-| 23 | [Si Me Voy \(with The Marías\)](https://open.spotify.com/track/6GiCszfL4D2GlCU8tFU3sR) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Si Me Voy \(with The Marías\)](https://open.spotify.com/album/5TZm9qi0223t20ypmJevEq) | 3:23 |
+| 22 | [Si Me Voy \(with The Marías\)](https://open.spotify.com/track/6GiCszfL4D2GlCU8tFU3sR) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Si Me Voy \(with The Marías\)](https://open.spotify.com/album/5TZm9qi0223t20ypmJevEq) | 3:23 |
+| 23 | [Binikini](https://open.spotify.com/track/1Iy4dJWborISHY9FHWGKPD) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Binikini](https://open.spotify.com/album/7jAzRi4PeWM3E2MJnBmedj) | 3:03 |
 | 24 | [TSQ](https://open.spotify.com/track/1Zh65uEClQl16bwYW4HD2I) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ESENCIA](https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj) | 2:58 |
 | 25 | [CAMA KING \(feat\. Chita\)](https://open.spotify.com/track/1EOyHhh5uOwNrDhiUNnH2u) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 2:43 |
 | 26 | [Vidas Pasadas](https://open.spotify.com/track/2G6cOHhIjJGd7fhBKXBjLr) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Vidas Pasadas](https://open.spotify.com/album/6xUsWpvDVdDD8qDbQOsOL6) | 2:18 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 44 | [OH NO](https://open.spotify.com/track/7dJD8JAMAZmPZRimGYfCwe) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [OH NO](https://open.spotify.com/album/20rj1pmnfjicvfHIOJAaYu) | 2:48 |
 | 45 | [TRES SHOT](https://open.spotify.com/track/4hNCIzbwo0ljZWjHy2nk4k) | [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p) | [TRES SHOT](https://open.spotify.com/album/65am4H2fAGBw03YrDdqCTT) | 2:32 |
 
-Snapshot ID: `MTY4MTQ4OTM5MSwwMDAwMDAwMDhkNDY5Mjc2YmMyY2I0ZjI0YWFkZmEyOWU1YmNmNWEw`
+Snapshot ID: `MTY4MTQ4OTM5MSwwMDAwMDAwMDFhYzliZTk5ZWE5ZWQyOGJkOThhZjkyYjYzM2I1ZDZk`

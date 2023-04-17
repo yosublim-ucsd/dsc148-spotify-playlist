@@ -1,12 +1,12 @@
 {
   "description": "An introduction to the music of Bartok, Hungary's greatest composer.",
-  "num_followers": 16548,
+  "num_followers": 16559,
   "original_name": "This Is Bart\u00f3k",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjY0ODEyMCwwMDAwMDAwMDRmMjRhYjc5ODY3OTg1Njk1N2UzNTQwZGNkMDhjODI4",
+  "snapshot_id": "MTY1NjY0ODEyMCwwMDAwMDAwMDNhYTdhNGJkMzRhYTA0NmZmMGZmMzRjMjAxZGYyMjMw",
   "tracks": [
     {
       "added_at": "2022-07-01 04:02:00",
@@ -671,30 +671,6 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Ditta P\u00e1sztory-Bart\u00f3k plays Bart\u00f3k",
-        "url": "https://open.spotify.com/album/1ITpLV3vxbpw4sM4UIrBsy"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Bart\u00f3k",
-          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
-        },
-        {
-          "name": "Ditta Bartok-Pasztory",
-          "url": "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
-        },
-        {
-          "name": "Maria Comensoli",
-          "url": "https://open.spotify.com/artist/5nOOxcMPG9KTtj3jJxbSeB"
-        }
-      ],
-      "duration_ms": 161466,
-      "name": "Mikrokosmos: 7 Pieces for 2 Pianos, 4 Hands, BB 120: No. 7. Ostinato: Vivacissimo (arr. of Vol. 6, No. 146)",
-      "url": "https://open.spotify.com/track/6nQEtXqLyiug0wZwvT38pj"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
         "name": "Bart\u00f3k: Bluebeard's Castle, Op. 11, Sz. 48",
         "url": "https://open.spotify.com/album/36dGchtqt2hLKTS2oeNHPx"
       },
@@ -775,6 +751,30 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
+        "name": "Ditta P\u00e1sztory-Bart\u00f3k plays Bart\u00f3k",
+        "url": "https://open.spotify.com/album/1ITpLV3vxbpw4sM4UIrBsy"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Ditta Bartok-Pasztory",
+          "url": "https://open.spotify.com/artist/3qsSwGC1UJtfNjZW69ObhI"
+        },
+        {
+          "name": "Maria Comensoli",
+          "url": "https://open.spotify.com/artist/5nOOxcMPG9KTtj3jJxbSeB"
+        }
+      ],
+      "duration_ms": 161466,
+      "name": "Mikrokosmos: 7 Pieces for 2 Pianos, 4 Hands, BB 120: No. 7. Ostinato: Vivacissimo (arr. of Vol. 6, No. 146)",
+      "url": "https://open.spotify.com/track/6nQEtXqLyiug0wZwvT38pj"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
         "name": "Bartok: Concerto for Orchestra / Music for Strings, Percussion and Celesta",
         "url": "https://open.spotify.com/album/6FKv73yrYV5xVzDQJqqM0x"
       },
@@ -795,34 +795,6 @@
       "duration_ms": 453000,
       "name": "Music for Strings, Percussion and Celesta, BB 114: III. Adagio",
       "url": "https://open.spotify.com/track/6NEwZwRUI1gGoY2VtPQeeD"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Bart\u00f3k: Violin Concertos No. 1 & 2",
-        "url": "https://open.spotify.com/album/6zWf25ozog6YJmKqOvxtCN"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Bart\u00f3k",
-          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
-        },
-        {
-          "name": "Isabelle Faust",
-          "url": "https://open.spotify.com/artist/00q3HI6mnGUJqMlfwBJTco"
-        },
-        {
-          "name": "Swedish Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/0K6ufQj8JzIZPPkvZrEwJS"
-        },
-        {
-          "name": "Daniel Harding",
-          "url": "https://open.spotify.com/artist/3sjupE75AphhTX12fgkQv6"
-        }
-      ],
-      "duration_ms": 556493,
-      "name": "Violin Concerto No. 2, Sz. 112: II. Andante tranquillo",
-      "url": "https://open.spotify.com/track/5VbKrfwOpSdXSdQmH7ByAX"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -851,6 +823,34 @@
       "duration_ms": 601866,
       "name": "Violin Concerto No. 2, Sz. 112: II. Andante tranquillo",
       "url": "https://open.spotify.com/track/6yVbBDI2gPqKnSJDb6UbD3"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Bart\u00f3k: Violin Concertos No. 1 & 2",
+        "url": "https://open.spotify.com/album/6zWf25ozog6YJmKqOvxtCN"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Isabelle Faust",
+          "url": "https://open.spotify.com/artist/00q3HI6mnGUJqMlfwBJTco"
+        },
+        {
+          "name": "Swedish Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0K6ufQj8JzIZPPkvZrEwJS"
+        },
+        {
+          "name": "Daniel Harding",
+          "url": "https://open.spotify.com/artist/3sjupE75AphhTX12fgkQv6"
+        }
+      ],
+      "duration_ms": 556493,
+      "name": "Violin Concerto No. 2, Sz. 112: II. Andante tranquillo",
+      "url": "https://open.spotify.com/track/5VbKrfwOpSdXSdQmH7ByAX"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -947,8 +947,8 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Bart\u00f3k: 44 Violin Duos",
-        "url": "https://open.spotify.com/album/5Q7FzPEcV0ZTXlprkNEBZd"
+        "name": "Bartok: Concerto for Orchestra / Music for Strings, Percussion and Celesta",
+        "url": "https://open.spotify.com/album/6FKv73yrYV5xVzDQJqqM0x"
       },
       "artists": [
         {
@@ -956,17 +956,17 @@
           "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
         },
         {
-          "name": "Angela Chun",
-          "url": "https://open.spotify.com/artist/0IaciBSS1GF5SuqWKzM5wA"
+          "name": "Belgian Radio and Television Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/46Y1wFSF9ScMqk1U4SBGky"
         },
         {
-          "name": "Jennifer Chun",
-          "url": "https://open.spotify.com/artist/72ZCIaI1TqwaGRbEvbGBih"
+          "name": "Alexander Rahbari",
+          "url": "https://open.spotify.com/artist/2enPrYI2oHc6IWCuCmLfX9"
         }
       ],
-      "duration_ms": 50133,
-      "name": "Forgat\u00f3s",
-      "url": "https://open.spotify.com/track/0kEhYk7x9tux02gC86vGSZ"
+      "duration_ms": 652000,
+      "name": "Concerto for Orchestra, BB 123: I. Introduzione: Andante non troppo - Allegro vivace",
+      "url": "https://open.spotify.com/track/7KnuT7nqwqj3JjgqZ4EFil"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -999,8 +999,8 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Bartok: Concerto for Orchestra / Music for Strings, Percussion and Celesta",
-        "url": "https://open.spotify.com/album/6FKv73yrYV5xVzDQJqqM0x"
+        "name": "Bart\u00f3k: 44 Violin Duos",
+        "url": "https://open.spotify.com/album/5Q7FzPEcV0ZTXlprkNEBZd"
       },
       "artists": [
         {
@@ -1008,17 +1008,17 @@
           "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
         },
         {
-          "name": "Belgian Radio and Television Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/46Y1wFSF9ScMqk1U4SBGky"
+          "name": "Angela Chun",
+          "url": "https://open.spotify.com/artist/0IaciBSS1GF5SuqWKzM5wA"
         },
         {
-          "name": "Alexander Rahbari",
-          "url": "https://open.spotify.com/artist/2enPrYI2oHc6IWCuCmLfX9"
+          "name": "Jennifer Chun",
+          "url": "https://open.spotify.com/artist/72ZCIaI1TqwaGRbEvbGBih"
         }
       ],
-      "duration_ms": 652000,
-      "name": "Concerto for Orchestra, BB 123: I. Introduzione: Andante non troppo - Allegro vivace",
-      "url": "https://open.spotify.com/track/7KnuT7nqwqj3JjgqZ4EFil"
+      "duration_ms": 50133,
+      "name": "Forgat\u00f3s",
+      "url": "https://open.spotify.com/track/0kEhYk7x9tux02gC86vGSZ"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -1103,6 +1103,26 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
+        "name": "Bart\u00f3k: Works for Violin and Piano, Vol. 2",
+        "url": "https://open.spotify.com/album/4MNzfvklS2GO6cCuG7OfPI"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "James Ehnes",
+          "url": "https://open.spotify.com/artist/0b7df8SeNFCgnJj5Wjg5c8"
+        }
+      ],
+      "duration_ms": 433626,
+      "name": "Sonata for Solo Violin, BB 124, Sz. 117: III. Melodia. Adagio",
+      "url": "https://open.spotify.com/track/4Vq0SIJFvdmHirrC9fv4Vb"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
         "name": "Bart\u00f3k: Concerto For Orchestra; Dance Suite",
         "url": "https://open.spotify.com/album/2Ev0JwFyUqjQ8xpXVmuDzt"
       },
@@ -1123,26 +1143,6 @@
       "duration_ms": 544413,
       "name": "Concerto for Orchestra, Sz. 116: 1. Introduzione (Andante non troppo - Allegro vivace",
       "url": "https://open.spotify.com/track/6EAqH2X8e3gE0oj7g2hEE6"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Bart\u00f3k: Works for Violin and Piano, Vol. 2",
-        "url": "https://open.spotify.com/album/4MNzfvklS2GO6cCuG7OfPI"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Bart\u00f3k",
-          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
-        },
-        {
-          "name": "James Ehnes",
-          "url": "https://open.spotify.com/artist/0b7df8SeNFCgnJj5Wjg5c8"
-        }
-      ],
-      "duration_ms": 433626,
-      "name": "Sonata for Solo Violin, BB 124, Sz. 117: III. Melodia. Adagio",
-      "url": "https://open.spotify.com/track/4Vq0SIJFvdmHirrC9fv4Vb"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -1323,30 +1323,6 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Szymanowski: Symphonies Nos. 1 & 2 / Bartok: Two Pictures",
-        "url": "https://open.spotify.com/album/2HibqQ4RsF6BRNeRZlI84f"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Bart\u00f3k",
-          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
-        },
-        {
-          "name": "Detroit Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/1TuMl6QKOFwgQZzzhzuds4"
-        },
-        {
-          "name": "Antal Dor\u00e1ti",
-          "url": "https://open.spotify.com/artist/3kBrUZAp2FVhkN5bcTu0QL"
-        }
-      ],
-      "duration_ms": 550840,
-      "name": "2 Pictures, Op.10 (Sz. 46): 2. Dorftanz",
-      "url": "https://open.spotify.com/track/6i4eW4tmetHtmS3RFWNIQB"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
         "name": "Bart\u00f3k: Violin Concertos Nos. 1 & 2",
         "url": "https://open.spotify.com/album/4MXMGFOC1XpKD4q0rI63GO"
       },
@@ -1371,6 +1347,30 @@
       "duration_ms": 625800,
       "name": "Violin Concerto No. 2, Sz. 112: II. Andante tranquillo",
       "url": "https://open.spotify.com/track/0zmi8xiLqw7T7paI4ufpk6"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Szymanowski: Symphonies Nos. 1 & 2 / Bartok: Two Pictures",
+        "url": "https://open.spotify.com/album/2HibqQ4RsF6BRNeRZlI84f"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Detroit Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1TuMl6QKOFwgQZzzhzuds4"
+        },
+        {
+          "name": "Antal Dor\u00e1ti",
+          "url": "https://open.spotify.com/artist/3kBrUZAp2FVhkN5bcTu0QL"
+        }
+      ],
+      "duration_ms": 550840,
+      "name": "2 Pictures, Op.10 (Sz. 46): 2. Dorftanz",
+      "url": "https://open.spotify.com/track/6i4eW4tmetHtmS3RFWNIQB"
     },
     {
       "added_at": "2022-07-01 04:02:00",

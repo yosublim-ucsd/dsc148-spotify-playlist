@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The hardest songs, loud\. Very loud\. Cover: Sevendust
 
-[Spotify](https://open.spotify.com/user/spotify) - 902,581 likes - 141 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 902,795 likes - 141 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [72 Seasons](https://open.spotify.com/track/6txhb14PWs9yrkTgR2jnU4) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/5vFa10TvQUWpEv9OkVBatc) | 7:39 |
+| 1 | [72 Seasons](https://open.spotify.com/track/4poeu6nUr4UQo1RXpp29Js) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 7:39 |
 | 2 | [Nobody](https://open.spotify.com/track/4tjTsxTBcacHcx0AvWERLE) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Nobody](https://open.spotify.com/album/4SeaFQDKygggRW9lrmwAhy) | 5:53 |
 | 3 | [Fence](https://open.spotify.com/track/6gQmCGUYq9Xql5rlShqUXj) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Fence](https://open.spotify.com/album/7kTY68ysd8P6LOZe3TybbD) | 3:37 |
 | 4 | [Watch Me Burn](https://open.spotify.com/track/39DDW0Qi6teTpYpu5yUJqP) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [The Hope Of A Spark](https://open.spotify.com/album/5AAt0X7T9p81HEqIQUdzKp) | 3:38 |
@@ -122,7 +122,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 112 | [Agony](https://open.spotify.com/track/6TwbNA8sNXsKm2qXTs5Ogl) | [Silent Theory](https://open.spotify.com/artist/5BKEV71K0K8ZhTbNRVRAXR) | [Agony](https://open.spotify.com/album/3OvGPAhN9ZgJK0l7G23WXT) | 3:20 |
 | 113 | [Deny the Sun](https://open.spotify.com/track/4imE4U6GmWCOzaWV6r7haj) | [Black Orchid Empire](https://open.spotify.com/artist/4TrfxRxjCvOFprX1W2V8k1) | [Deny the Sun](https://open.spotify.com/album/1DmFgV1PER3DY0cfV4PKf0) | 3:14 |
 | 114 | [It Hurts](https://open.spotify.com/track/4pQmwpx6EUeoBJRMUKooMs) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [It Hurts](https://open.spotify.com/album/0UztMLoY6Ebqv9rCmZwghR) | 3:18 |
-| 115 | [If Darkness Had a Son](https://open.spotify.com/track/69HjtjyHuP8KJT7xBaUmtW) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [If Darkness Had a Son](https://open.spotify.com/album/07wqwU4JaQl7XTWwfiAobb) | 6:36 |
+| 115 | [If Darkness Had a Son](https://open.spotify.com/track/3i4Nwzze8zflIoKsuoeBPM) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 6:36 |
 | 116 | [Prizefighter](https://open.spotify.com/track/5GFoRsCqAO4876A4DlsFji) | [Blame My Youth](https://open.spotify.com/artist/48sKVtcDwCMxPbqCzAQMbP) | [Prizefighter](https://open.spotify.com/album/1dygXa6o4gec6P1yDKkxFy) | 3:08 |
 | 117 | [Antidote](https://open.spotify.com/track/0Rrf0IzuiJzthkbjvwCnhm) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [Antidote](https://open.spotify.com/album/4HiUvBkIhOpAl9Td6OVYzB) | 3:28 |
 | 118 | [By The Sound](https://open.spotify.com/track/7fUyorTZHGV2Nv7y6kU2b2) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [By The Sound](https://open.spotify.com/album/5OdLYsLViZQUxq1KkOYioq) | 3:42 |
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 140 | [One More Day](https://open.spotify.com/track/4x9A6Ymy2u6FfoE4ba4iP3) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [Darkbloom](https://open.spotify.com/album/15q7078X1sRf9ivhEnv1tm) | 4:28 |
 | 141 | [CHOKE \(with grandson & Zero 9:36\)](https://open.spotify.com/track/3AV8nyFN5AgejU5DZI9wKl) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [CHOKE](https://open.spotify.com/album/6AovsGSkC91dKnj7rXeK0z) | 2:40 |
 
-Snapshot ID: `MTY4MTQ0NDgwMCwwMDAwMDAwMGZkZGJjYmI5ZjQxNjcyZDNkYWI1MmY1Zjk0MGNkYmEy`
+Snapshot ID: `MTY4MTQ0NDgwMCwwMDAwMDAwMDRjYjRhNGVkMDY4NWUxMzNmNzk4MjIyMzMyZDg0ZTdl`

@@ -4,7 +4,7 @@
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. La Receta en portada.
 
-295 songs - 16 hr 0 min
+296 songs - 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Caricatura](https://open.spotify.com/track/2T5nAEkXMX49j29nMVt6qU) | [Los Igualados](https://open.spotify.com/artist/7CZBDOxXPcGXM2IAoZHCmB) | [La Proxima Semana](https://open.spotify.com/album/2qtB3x29yzmsfy5Qm0U4cx) | 3:19 | 2022-09-02 | 2022-10-04 |
 | [Castillo De Ilusión](https://open.spotify.com/track/4fULKqADhPqLutoSfZZtEo) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Castillo De Ilusión](https://open.spotify.com/album/1gzPnbtL63YRYwbbfzDcVH) | 3:26 | 2023-01-13 | 2023-01-21 |
 | [Chalino](https://open.spotify.com/track/6KrKCKqR8fYEMw2F4XNbE8) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Chalino](https://open.spotify.com/album/266gbjmcYrta8TVjVInvHO) | 3:34 | 2022-03-11 | 2023-04-15 |
-| [Chambeando Recio](https://open.spotify.com/track/5GUn6oyW713HWxE9F1Xp0T) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Chambeando Recio](https://open.spotify.com/album/5iYuRSAA6tEhTDAOBhTDff) | 2:37 | 2022-07-01 |  |
+| [Chambeando Recio](https://open.spotify.com/track/5GUn6oyW713HWxE9F1Xp0T) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Chambeando Recio](https://open.spotify.com/album/5iYuRSAA6tEhTDAOBhTDff) | 2:37 | 2022-07-01 | 2023-04-17 |
 | [Cholos al Punto](https://open.spotify.com/track/7knvkQS97TeGHM4MdoohpB) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Cholos al Punto](https://open.spotify.com/album/2cPLZSwKE24J1sZLqzoIg1) | 2:39 | 2022-12-02 |  |
 | [Chorumbo](https://open.spotify.com/track/6LQn8zFYS44ak3qAUYsp8b) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [Chorumbo](https://open.spotify.com/album/6RPOQC6rd85F9Nuxp5W2Fh) | 3:20 | 2023-02-24 |  |
 | [Con La Muerte en Ancas](https://open.spotify.com/track/3vIpX0oW53VSDv1dKCWg8h) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [Con La Muerte en Ancas](https://open.spotify.com/album/1RZoMN2uYn25BnFrkrbr86) | 3:02 | 2023-01-13 | 2023-01-21 |
@@ -260,6 +260,7 @@
 | [Sin Explicaciones](https://open.spotify.com/track/3MjFu8fCCH2gSUxc9IVOdA) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [ALFA & OMEGA](https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes) | 2:52 | 2022-09-30 |  |
 | [Sindrome De Estocolmo](https://open.spotify.com/track/5EJ3ZjHeXeVQezMhQuzvn7) | [Don Zares](https://open.spotify.com/artist/1qDZG8dXTf2EBxHUACVPdf) | [Sindrome De Estocolmo](https://open.spotify.com/album/0pLGZyin7yXLHfXsAK2H0k) | 3:51 | 2022-07-01 | 2022-09-03 |
 | [Sobran Motivos](https://open.spotify.com/track/1uTHr7ij3eiDdUXvQfA5au) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3), [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj) | [Sobran Motivos](https://open.spotify.com/album/3UX8li2vzG8IcjtPQ11dGt) | 3:05 | 2023-04-14 |  |
+| [Sobre Mis Pies](https://open.spotify.com/track/4mnveTVKzkbkT23GBDfRnj) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Las Guardadas](https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4) | 3:48 | 2023-04-14 |  |
 | [Solo Un Día \- En Vivo](https://open.spotify.com/track/2VZ4vDpWOszIVHzM6iLbmU) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Pistiembre Todo El Año \(En Vivo\)](https://open.spotify.com/album/4Q7M6FhTy0WhQcqHr8uIQt) | 3:52 | 2022-01-14 |  |
 | [Somos](https://open.spotify.com/track/4VPZC2rzlnotxaxCoLm8H7) | [La Pionera](https://open.spotify.com/artist/3gNTIrBf8g8bKKa34S1pMX), [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp) | [Somos](https://open.spotify.com/album/2vs71HbLWNpmNRoD25GQSt) | 3:22 | 2023-03-09 | 2023-04-15 |
 | [Sonreír](https://open.spotify.com/track/4fMevGQ4np44M1OK88Nv5U) | [Colmillo Norteño](https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN) | [Sonreír](https://open.spotify.com/album/2eNHJfFp2JjQIDAI4k5aq3) | 2:50 | 2023-02-24 | 2023-03-09 |

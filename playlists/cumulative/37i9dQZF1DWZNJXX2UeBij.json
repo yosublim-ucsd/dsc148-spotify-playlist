@@ -5035,6 +5035,36 @@
     },
     {
       "album": {
+        "name": "Salaam Namaste",
+        "url": "https://open.spotify.com/album/2IENY924rGfG14TIQIdZFr"
+      },
+      "artists": [
+        {
+          "name": "Vishal-Shekhar",
+          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+        },
+        {
+          "name": "Kunal Ganjawala",
+          "url": "https://open.spotify.com/artist/3t4P7aXVor3NxlJPZxLzOQ"
+        },
+        {
+          "name": "Vasundhara Das",
+          "url": "https://open.spotify.com/artist/0myVJmNOHZ7v7g8JVWGw8H"
+        },
+        {
+          "name": "Jaideep Sahni",
+          "url": "https://open.spotify.com/artist/5kPOMQZvgkAEnRZqwn9SYQ"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276166,
+      "name": "Salaam Namaste",
+      "url": "https://open.spotify.com/track/7fuze7SkVTRISfwqErqJCn"
+    },
+    {
+      "album": {
         "name": "Salaam-E-Ishq",
         "url": "https://open.spotify.com/album/2AYTX7A8GfZrlVwRTdt3QZ"
       },
@@ -5546,7 +5576,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 368546,
       "name": "Tu Aashiqui Hai",
       "url": "https://open.spotify.com/track/2vuhZrEHS25D8xNQTSvuuj"

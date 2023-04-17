@@ -1,12 +1,12 @@
 {
   "description": "livin' life in your 250 sq ft apt cover: Charlotte Cardin",
-  "num_followers": 1465503,
+  "num_followers": 1465674,
   "original_name": "young & free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NTA2NywwMDAwMDAwMDNiNGE3OTYzNWEwOGM3YmM2MGExMDYzOGJlZDA3N2I4",
+  "snapshot_id": "MTY4MTQ0NTA2NywwMDAwMDAwMGVmMWUyZTMzZmJhZGQwMDMxMWQ1ZjVlMTk4OTc0Nzhi",
   "tracks": [
     {
       "added_at": "2023-04-14 04:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-03-08 04:53:29",
       "album": {
-        "name": "Worms",
-        "url": "https://open.spotify.com/album/1iMYhGsjfZIDKuiF73D6cI"
-      },
-      "artists": [
-        {
-          "name": "Ashnikko",
-          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
-        }
-      ],
-      "duration_ms": 148690,
-      "name": "Worms",
-      "url": "https://open.spotify.com/track/5PlGxNgE62io6OBc1BsIaq"
-    },
-    {
-      "added_at": "2023-03-08 04:53:29",
-      "album": {
         "name": "the rainbow cassette",
         "url": "https://open.spotify.com/album/7uzmNefPoRgc5Pi9DS00CC"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 125256,
       "name": "dumb dumb",
       "url": "https://open.spotify.com/track/4qbEaaJ29p32GI8EWQmm6R"
+    },
+    {
+      "added_at": "2023-03-08 04:53:29",
+      "album": {
+        "name": "Worms",
+        "url": "https://open.spotify.com/album/1iMYhGsjfZIDKuiF73D6cI"
+      },
+      "artists": [
+        {
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
+        }
+      ],
+      "duration_ms": 148690,
+      "name": "Worms",
+      "url": "https://open.spotify.com/track/5PlGxNgE62io6OBc1BsIaq"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -837,22 +837,6 @@
       "url": "https://open.spotify.com/track/5rKMN0bKdqcGWo1iLvv30Y"
     },
     {
-      "added_at": "2023-03-17 03:59:11",
-      "album": {
-        "name": "10,000 gecs",
-        "url": "https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ"
-      },
-      "artists": [
-        {
-          "name": "100 gecs",
-          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
-        }
-      ],
-      "duration_ms": 137440,
-      "name": "Dumbest Girl Alive",
-      "url": "https://open.spotify.com/track/0qMZXgcLfkl5RI3q50KHMH"
-    },
-    {
       "added_at": "2023-03-08 04:53:29",
       "album": {
         "name": "Thanks For Nothing, See You Never",
@@ -867,6 +851,22 @@
       "duration_ms": 140309,
       "name": "Pretty Boys",
       "url": "https://open.spotify.com/track/698ehyxjqZ7i06vUJQFviN"
+    },
+    {
+      "added_at": "2023-03-17 03:59:11",
+      "album": {
+        "name": "10,000 gecs",
+        "url": "https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ"
+      },
+      "artists": [
+        {
+          "name": "100 gecs",
+          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+        }
+      ],
+      "duration_ms": 137440,
+      "name": "Dumbest Girl Alive",
+      "url": "https://open.spotify.com/track/0qMZXgcLfkl5RI3q50KHMH"
     },
     {
       "added_at": "2023-03-08 04:53:29",
@@ -901,22 +901,6 @@
       "url": "https://open.spotify.com/track/5XemvyG79fcKPl5lgbhplq"
     },
     {
-      "added_at": "2023-03-17 03:59:11",
-      "album": {
-        "name": "missin u",
-        "url": "https://open.spotify.com/album/6ZkHlcIqV4N7cNyqNtvpNk"
-      },
-      "artists": [
-        {
-          "name": "Tori Kelly",
-          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
-        }
-      ],
-      "duration_ms": 177524,
-      "name": "missin u",
-      "url": "https://open.spotify.com/track/4TQCxVR2rmR3ozusDumesX"
-    },
-    {
       "added_at": "2023-03-08 04:53:29",
       "album": {
         "name": "BOYTOY",
@@ -947,6 +931,22 @@
       "duration_ms": 161366,
       "name": "Cardboard Box",
       "url": "https://open.spotify.com/track/2rf9i0Enr8cw1JRME8Rsvq"
+    },
+    {
+      "added_at": "2023-03-17 03:59:11",
+      "album": {
+        "name": "missin u",
+        "url": "https://open.spotify.com/album/6ZkHlcIqV4N7cNyqNtvpNk"
+      },
+      "artists": [
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        }
+      ],
+      "duration_ms": 177524,
+      "name": "missin u",
+      "url": "https://open.spotify.com/track/4TQCxVR2rmR3ozusDumesX"
     },
     {
       "added_at": "2023-03-08 04:53:29",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-03-08 04:53:29",
       "album": {
-        "name": "Friend Like Me",
-        "url": "https://open.spotify.com/album/4KKDXgsupYDgjkXWah9Yea"
-      },
-      "artists": [
-        {
-          "name": "Rachel Grae",
-          "url": "https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn"
-        }
-      ],
-      "duration_ms": 152224,
-      "name": "Friend Like Me",
-      "url": "https://open.spotify.com/track/0ArW1iNq8D7qfL8acsL1Cs"
-    },
-    {
-      "added_at": "2023-03-08 04:53:29",
-      "album": {
         "name": "do u really?",
         "url": "https://open.spotify.com/album/0GF4XbJWS3wXBssOfKFbb6"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 181889,
       "name": "You Problem",
       "url": "https://open.spotify.com/track/4KQODLeXGCDfixEiUX6aDF"
+    },
+    {
+      "added_at": "2023-03-08 04:53:29",
+      "album": {
+        "name": "Friend Like Me",
+        "url": "https://open.spotify.com/album/4KKDXgsupYDgjkXWah9Yea"
+      },
+      "artists": [
+        {
+          "name": "Rachel Grae",
+          "url": "https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn"
+        }
+      ],
+      "duration_ms": 152224,
+      "name": "Friend Like Me",
+      "url": "https://open.spotify.com/track/0ArW1iNq8D7qfL8acsL1Cs"
     },
     {
       "added_at": "2023-03-08 04:53:29",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2023-03-08 04:53:29",
       "album": {
+        "name": "FU In My Head",
+        "url": "https://open.spotify.com/album/02FPQ0z3Xm5PkzTulKcfKT"
+      },
+      "artists": [
+        {
+          "name": "Cloudy June",
+          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
+        }
+      ],
+      "duration_ms": 167248,
+      "name": "FU In My Head",
+      "url": "https://open.spotify.com/track/5ZSV1Y3Cq2HkGOYOwxpClP"
+    },
+    {
+      "added_at": "2023-03-08 04:53:29",
+      "album": {
         "name": "Showed Me (How I Fell In Love With You)",
         "url": "https://open.spotify.com/album/78MbgfbZml1ZYJ0AUJB1HR"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 160661,
       "name": "THE ONE",
       "url": "https://open.spotify.com/track/0NHMIpUN5tk0zbHNvkIiav"
-    },
-    {
-      "added_at": "2023-03-08 04:53:29",
-      "album": {
-        "name": "FU In My Head",
-        "url": "https://open.spotify.com/album/02FPQ0z3Xm5PkzTulKcfKT"
-      },
-      "artists": [
-        {
-          "name": "Cloudy June",
-          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
-        }
-      ],
-      "duration_ms": 167248,
-      "name": "FU In My Head",
-      "url": "https://open.spotify.com/track/5ZSV1Y3Cq2HkGOYOwxpClP"
     },
     {
       "added_at": "2023-03-17 03:59:11",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-03-08 04:53:29",
       "album": {
-        "name": "u turn me on (but u give me depression)",
-        "url": "https://open.spotify.com/album/7tAEvWFVlVMoPWwyVcwKx8"
-      },
-      "artists": [
-        {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
-        }
-      ],
-      "duration_ms": 147535,
-      "name": "u turn me on (but u give me depression)",
-      "url": "https://open.spotify.com/track/7MeP128gHh4GyTMoGUiZlt"
-    },
-    {
-      "added_at": "2023-03-08 04:53:29",
-      "album": {
         "name": "Let's go to Hell",
         "url": "https://open.spotify.com/album/2tVcIkd2GmDpNQkXRNpaME"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 152181,
       "name": "Let's go to Hell",
       "url": "https://open.spotify.com/track/38XLUjlR84JEwK0SOvX77a"
+    },
+    {
+      "added_at": "2023-03-08 04:53:29",
+      "album": {
+        "name": "u turn me on (but u give me depression)",
+        "url": "https://open.spotify.com/album/7tAEvWFVlVMoPWwyVcwKx8"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "duration_ms": 147535,
+      "name": "u turn me on (but u give me depression)",
+      "url": "https://open.spotify.com/track/7MeP128gHh4GyTMoGUiZlt"
     },
     {
       "added_at": "2023-03-10 04:59:49",
@@ -1673,22 +1673,6 @@
       "url": "https://open.spotify.com/track/0Njbfdqov90zIfAXZl7hIf"
     },
     {
-      "added_at": "2023-03-08 04:53:29",
-      "album": {
-        "name": "Devil Is A Woman",
-        "url": "https://open.spotify.com/album/5pJK4ir6zF8VEscS6T34wL"
-      },
-      "artists": [
-        {
-          "name": "Cloudy June",
-          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
-        }
-      ],
-      "duration_ms": 192491,
-      "name": "Devil Is A Woman",
-      "url": "https://open.spotify.com/track/75hCdrSo0x1La6xUNGnvGv"
-    },
-    {
       "added_at": "2023-04-07 04:00:00",
       "album": {
         "name": "eighteen",
@@ -1703,6 +1687,22 @@
       "duration_ms": 189179,
       "name": "eighteen",
       "url": "https://open.spotify.com/track/37ZOqyxz7B7bmIa2sq5odC"
+    },
+    {
+      "added_at": "2023-03-08 04:53:29",
+      "album": {
+        "name": "Devil Is A Woman",
+        "url": "https://open.spotify.com/album/5pJK4ir6zF8VEscS6T34wL"
+      },
+      "artists": [
+        {
+          "name": "Cloudy June",
+          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
+        }
+      ],
+      "duration_ms": 192491,
+      "name": "Devil Is A Woman",
+      "url": "https://open.spotify.com/track/75hCdrSo0x1La6xUNGnvGv"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2023-03-08 04:53:29",
       "album": {
-        "name": "Forever Drunk",
-        "url": "https://open.spotify.com/album/2lKcXqayvN3V1opi6oQWZ7"
-      },
-      "artists": [
-        {
-          "name": "Peach PRC",
-          "url": "https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS"
-        }
-      ],
-      "duration_ms": 190107,
-      "name": "Forever Drunk",
-      "url": "https://open.spotify.com/track/0DqnKQQarQLw4zVY0LLGbY"
-    },
-    {
-      "added_at": "2023-03-08 04:53:29",
-      "album": {
         "name": "Messy",
         "url": "https://open.spotify.com/album/5M8iOqYh57aru97YQcqFSD"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 124000,
       "name": "Poison",
       "url": "https://open.spotify.com/track/5StQDoFQTDElQjMnfk8qIy"
+    },
+    {
+      "added_at": "2023-03-08 04:53:29",
+      "album": {
+        "name": "Forever Drunk",
+        "url": "https://open.spotify.com/album/2lKcXqayvN3V1opi6oQWZ7"
+      },
+      "artists": [
+        {
+          "name": "Peach PRC",
+          "url": "https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS"
+        }
+      ],
+      "duration_ms": 190107,
+      "name": "Forever Drunk",
+      "url": "https://open.spotify.com/track/0DqnKQQarQLw4zVY0LLGbY"
     },
     {
       "added_at": "2023-03-08 04:53:29",
@@ -2193,22 +2193,6 @@
       "url": "https://open.spotify.com/track/67OrF48gkNByr9HpRtSOSD"
     },
     {
-      "added_at": "2023-03-08 04:53:29",
-      "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/05hHYbkCCQ4AUKCbja744B"
-      },
-      "artists": [
-        {
-          "name": "Noa Kirel",
-          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
-        }
-      ],
-      "duration_ms": 179890,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/307xzW2nYqkHpnQpt6JM1T"
-    },
-    {
       "added_at": "2023-03-31 04:00:00",
       "album": {
         "name": "i loved a boy",
@@ -2225,6 +2209,22 @@
       "url": "https://open.spotify.com/track/7fDBvYEvsInjsVWsnlWC0d"
     },
     {
+      "added_at": "2023-03-08 04:53:29",
+      "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/05hHYbkCCQ4AUKCbja744B"
+      },
+      "artists": [
+        {
+          "name": "Noa Kirel",
+          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
+        }
+      ],
+      "duration_ms": 179890,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/307xzW2nYqkHpnQpt6JM1T"
+    },
+    {
       "added_at": "2023-03-24 04:00:47",
       "album": {
         "name": "Lunch",
@@ -2239,6 +2239,22 @@
       "duration_ms": 172629,
       "name": "Lunch",
       "url": "https://open.spotify.com/track/2aTVnAU5Kde8I9Nzw4Js20"
+    },
+    {
+      "added_at": "2023-04-07 04:00:48",
+      "album": {
+        "name": "I Should Have Stayed at Home",
+        "url": "https://open.spotify.com/album/7Gg6nUfvmeyxJ2FBvP3tDR"
+      },
+      "artists": [
+        {
+          "name": "Ryan Mack",
+          "url": "https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt"
+        }
+      ],
+      "duration_ms": 163013,
+      "name": "I Should Have Stayed at Home",
+      "url": "https://open.spotify.com/track/2y42aEs7Rczw5eMLK9UMeW"
     },
     {
       "added_at": "2023-03-08 04:53:29",
@@ -2287,22 +2303,6 @@
       "duration_ms": 144280,
       "name": "Into My Body",
       "url": "https://open.spotify.com/track/6Idi0H5TS4PwVW91ReBK7z"
-    },
-    {
-      "added_at": "2023-04-07 04:00:48",
-      "album": {
-        "name": "I Should Have Stayed at Home",
-        "url": "https://open.spotify.com/album/7Gg6nUfvmeyxJ2FBvP3tDR"
-      },
-      "artists": [
-        {
-          "name": "Ryan Mack",
-          "url": "https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt"
-        }
-      ],
-      "duration_ms": 163013,
-      "name": "I Should Have Stayed at Home",
-      "url": "https://open.spotify.com/track/2y42aEs7Rczw5eMLK9UMeW"
     },
     {
       "added_at": "2023-03-08 04:53:29",
@@ -2403,18 +2403,18 @@
     {
       "added_at": "2023-03-08 04:53:29",
       "album": {
-        "name": "fall in love",
-        "url": "https://open.spotify.com/album/64zk1KS5iiwGuTmHgRjKrd"
+        "name": "QUARTER LIFE CRISIS",
+        "url": "https://open.spotify.com/album/0DkuTWSO3Jnljzyxm75mNK"
       },
       "artists": [
         {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+          "name": "Taylor Bickett",
+          "url": "https://open.spotify.com/artist/3Fxg10eJ6YmvUdM2PPB4Zk"
         }
       ],
-      "duration_ms": 229264,
-      "name": "fall in love",
-      "url": "https://open.spotify.com/track/3AKkLwxzhWbWjIJ9PblETv"
+      "duration_ms": 198436,
+      "name": "QUARTER LIFE CRISIS",
+      "url": "https://open.spotify.com/track/5qM8NWUsRQ1xztraiBgn0g"
     },
     {
       "added_at": "2023-03-08 04:53:29",
@@ -2431,6 +2431,22 @@
       "duration_ms": 163927,
       "name": "Girl Of Your Dreams",
       "url": "https://open.spotify.com/track/0TKw4XKCDwVlDK1DM7gUUg"
+    },
+    {
+      "added_at": "2023-03-08 04:53:29",
+      "album": {
+        "name": "fall in love",
+        "url": "https://open.spotify.com/album/64zk1KS5iiwGuTmHgRjKrd"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "duration_ms": 229264,
+      "name": "fall in love",
+      "url": "https://open.spotify.com/track/3AKkLwxzhWbWjIJ9PblETv"
     },
     {
       "added_at": "2023-03-08 04:53:29",
@@ -2463,22 +2479,6 @@
       "duration_ms": 134000,
       "name": "liar",
       "url": "https://open.spotify.com/track/1FMO8gVoSFQdduxxulJUCF"
-    },
-    {
-      "added_at": "2023-03-08 04:53:29",
-      "album": {
-        "name": "HATELOVE",
-        "url": "https://open.spotify.com/album/3HXLsudy18Zldq74H5KP5R"
-      },
-      "artists": [
-        {
-          "name": "Alex Porat",
-          "url": "https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI"
-        }
-      ],
-      "duration_ms": 171925,
-      "name": "HATELOVE",
-      "url": "https://open.spotify.com/track/0zDBdVVqplM1fraqw0Au81"
     }
   ],
   "unique_name": "young & free",

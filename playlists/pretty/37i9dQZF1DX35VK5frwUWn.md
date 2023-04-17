@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35VK5frwUWn.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/rjbarrett/">RJ Barrett</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,108 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,112 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35VK5frwUWn.md) - [plain]
 | 8 | [No Flockin'](https://open.spotify.com/track/34oWbFBfGEElvgO0a5c9V4) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [No Flockin'](https://open.spotify.com/album/12YTH28wiBXQ16gvWOCMLU) | 2:45 |
 | 9 | [Through The Wire](https://open.spotify.com/track/4mmkhcEm1Ljy1U9nwtsxUo) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The College Dropout](https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F) | 3:41 |
 | 10 | [In A Minute](https://open.spotify.com/track/3ihIZrJreMJPjQdNLrEXnP) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [In A Minute](https://open.spotify.com/album/3PZTFPQhr0vHnYGwFUvQco) | 3:20 |
-| 11 | [Back in Blood \(feat\. Lil Durk\)](https://open.spotify.com/track/7JuHVG3qQKQKxC4doneXVW) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Back In Blood \(feat\. Lil Durk\)](https://open.spotify.com/album/1VARhsCn3CIog9r2lz6gq5) | 3:04 |
-| 12 | [La Mamá de la Mamá](https://open.spotify.com/track/2L95U6syP0bV3fkYYOzmiW) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e), [CJ](https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY) | [La Mamá de la Mamá](https://open.spotify.com/album/2WG76KEpCWL8c790ZIEXk7) | 3:39 |
+| 11 | [La Mamá de la Mamá](https://open.spotify.com/track/2L95U6syP0bV3fkYYOzmiW) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e), [CJ](https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY) | [La Mamá de la Mamá](https://open.spotify.com/album/2WG76KEpCWL8c790ZIEXk7) | 3:39 |
+| 12 | [Back in Blood \(feat\. Lil Durk\)](https://open.spotify.com/track/7JuHVG3qQKQKxC4doneXVW) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Back In Blood \(feat\. Lil Durk\)](https://open.spotify.com/album/1VARhsCn3CIog9r2lz6gq5) | 3:04 |
 | 13 | [Ambition For Cash](https://open.spotify.com/track/1tkipCYkIgti8f1tqjfcWe) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Ambition For Cash](https://open.spotify.com/album/3lMWNCoEQzdbb9lSZa5gv9) | 2:23 |
 | 14 | [Bubbly \(with Drake & Travis Scott\)](https://open.spotify.com/track/4KDNRh9Oor80z3XIxdWlui) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Punk](https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW) | 2:45 |
 | 15 | [Bestie](https://open.spotify.com/track/6r9xnueU24r4eoG3HXC87E) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [BETTER THAN YOU](https://open.spotify.com/album/1X4W9ApaYSS9ZsmUhIVDD3) | 1:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35VK5frwUWn.md) - [plain]
 | 49 | [MASSAGING ME](https://open.spotify.com/track/2tzgSUZOUKopYbRqQOVT8X) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 1:46 |
 | 50 | [California Love \- Original Version](https://open.spotify.com/track/1JClFT74TYSXlzpagbmj0S) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Roger](https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) | [Greatest Hits](https://open.spotify.com/album/3PO9OtQdvCDJN8zDLtZiYd) | 4:45 |
 
-Snapshot ID: `MTY2NzI3NTIwMCwwMDAwMDAwMDczY2QyODk2ZWZlMjlmNzE5NmMxNzVlZjQzYWQ5YjY3`
+Snapshot ID: `MTY2NzI3NTIwMCwwMDAwMDAwMDg1YWNmZThkMzQ5ZWRjMDM3YWY4ZTRiY2RlMjQzNjEx`

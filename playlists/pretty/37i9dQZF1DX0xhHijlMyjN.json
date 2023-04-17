@@ -1,12 +1,12 @@
 {
   "description": "La m\u00fasica que necesita cualquier verbena veraniega.",
-  "num_followers": 340557,
+  "num_followers": 340583,
   "original_name": "Cl\u00e1sicos del Verano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIyOTc2NSwwMDAwMDAwMGM0NzI3ZDI4NjJjZDBmYjg5MmY2ZmY5YTI2OWU1NTA4",
+  "snapshot_id": "MTY2MDIyOTc2NSwwMDAwMDAwMDNiMzU3MDZjODEzZTg5ODAwZjM5MTNlM2Q5MDVkMTY4",
   "tracks": [
     {
       "added_at": "2022-08-11 14:56:05",
@@ -323,22 +323,6 @@
     {
       "added_at": "2022-08-11 14:56:05",
       "album": {
-        "name": "Todo De Ti",
-        "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 199604,
-      "name": "Todo De Ti",
-      "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
-    },
-    {
-      "added_at": "2022-08-11 14:56:05",
-      "album": {
         "name": "VIDA",
         "url": "https://open.spotify.com/album/5C0YLr4OoRGFDaqdMQmkeH"
       },
@@ -359,18 +343,18 @@
     {
       "added_at": "2022-08-11 14:56:05",
       "album": {
-        "name": "Katrina & The Waves",
-        "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
+        "name": "Todo De Ti",
+        "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
       },
       "artists": [
         {
-          "name": "Katrina & The Waves",
-          "url": "https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 238733,
-      "name": "Walking On Sunshine",
-      "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
+      "duration_ms": 199604,
+      "name": "Todo De Ti",
+      "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
     },
     {
       "added_at": "2022-08-11 14:56:05",
@@ -387,6 +371,22 @@
       "duration_ms": 153800,
       "name": "Tainted Love",
       "url": "https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV"
+    },
+    {
+      "added_at": "2022-08-11 14:56:05",
+      "album": {
+        "name": "Katrina & The Waves",
+        "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
+      },
+      "artists": [
+        {
+          "name": "Katrina & The Waves",
+          "url": "https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3"
+        }
+      ],
+      "duration_ms": 238733,
+      "name": "Walking On Sunshine",
+      "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
     },
     {
       "added_at": "2022-08-11 14:56:05",
@@ -491,6 +491,22 @@
     {
       "added_at": "2022-08-11 14:56:05",
       "album": {
+        "name": "Rocky IV",
+        "url": "https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA"
+      },
+      "artists": [
+        {
+          "name": "Survivor",
+          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
+        }
+      ],
+      "duration_ms": 245640,
+      "name": "Eye of the Tiger",
+      "url": "https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2"
+    },
+    {
+      "added_at": "2022-08-11 14:56:05",
+      "album": {
         "name": "El Dorado",
         "url": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 195840,
       "name": "Chantaje (feat. Maluma)",
       "url": "https://open.spotify.com/track/6mICuAdrwEjh6Y6lroV2Kg"
-    },
-    {
-      "added_at": "2022-08-11 14:56:05",
-      "album": {
-        "name": "Rocky IV",
-        "url": "https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA"
-      },
-      "artists": [
-        {
-          "name": "Survivor",
-          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
-        }
-      ],
-      "duration_ms": 245640,
-      "name": "Eye of the Tiger",
-      "url": "https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2"
     },
     {
       "added_at": "2022-08-11 14:56:05",
@@ -611,26 +611,6 @@
     {
       "added_at": "2022-08-11 14:56:05",
       "album": {
-        "name": "Fijaci\u00f3n Oral, Vol. 1",
-        "url": "https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 212893,
-      "name": "La Tortura (feat. Alejandro Sanz)",
-      "url": "https://open.spotify.com/track/5BSclXJTa9B0iURhUjZo50"
-    },
-    {
-      "added_at": "2022-08-11 14:56:05",
-      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 176133,
       "name": "Vaina Loca",
       "url": "https://open.spotify.com/track/48zFZh27QU5qsrBjn4C2FA"
+    },
+    {
+      "added_at": "2022-08-11 14:56:05",
+      "album": {
+        "name": "Fijaci\u00f3n Oral, Vol. 1",
+        "url": "https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 212893,
+      "name": "La Tortura (feat. Alejandro Sanz)",
+      "url": "https://open.spotify.com/track/5BSclXJTa9B0iURhUjZo50"
     },
     {
       "added_at": "2022-08-11 14:56:05",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-08-11 14:56:05",
       "album": {
-        "name": "Haw\u00e1i",
-        "url": "https://open.spotify.com/album/3GrNH56DyfyEvBAZ3Otptm"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 200197,
-      "name": "Haw\u00e1i",
-      "url": "https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG"
-    },
-    {
-      "added_at": "2022-08-11 14:56:05",
-      "album": {
         "name": "F\u00e9nix",
         "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
       },
@@ -835,18 +819,18 @@
     {
       "added_at": "2022-08-11 14:56:05",
       "album": {
-        "name": "Mi Sangre",
-        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
+        "name": "Haw\u00e1i",
+        "url": "https://open.spotify.com/album/3GrNH56DyfyEvBAZ3Otptm"
       },
       "artists": [
         {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 216706,
-      "name": "La Camisa Negra",
-      "url": "https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL"
+      "duration_ms": 200197,
+      "name": "Haw\u00e1i",
+      "url": "https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG"
     },
     {
       "added_at": "2022-08-11 14:56:05",
@@ -867,6 +851,22 @@
       "duration_ms": 172558,
       "name": "Te Pintaron Pajaritos",
       "url": "https://open.spotify.com/track/4jY5SnGbpH6FdGCqVbhOD4"
+    },
+    {
+      "added_at": "2022-08-11 14:56:05",
+      "album": {
+        "name": "Mi Sangre",
+        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "La Camisa Negra",
+      "url": "https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL"
     },
     {
       "added_at": "2022-08-11 14:56:05",
@@ -963,18 +963,18 @@
     {
       "added_at": "2022-08-11 14:56:05",
       "album": {
-        "name": "St. Elsewhere",
-        "url": "https://open.spotify.com/album/7p2aWivr9OLXocSTTKtG9B"
+        "name": "La Player (Bandolera)",
+        "url": "https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi"
       },
       "artists": [
         {
-          "name": "Gnarls Barkley",
-          "url": "https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH"
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
         }
       ],
-      "duration_ms": 182066,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/2N5zMZX7YeL1tico8oQxa9"
+      "duration_ms": 249608,
+      "name": "La player (Bandolera)",
+      "url": "https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP"
     },
     {
       "added_at": "2022-08-11 14:56:05",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 
 > Ritmos cálidos y alternativos para relajarte y tirarse bajo el sol \#IndieTropical 🌺☀️🌴🎶 Caramelo Haze en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,222 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,242 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,16 +61,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 | 51 | [Piedras del Sol](https://open.spotify.com/track/0A192CDGDTRtdi9zfg8Cpj) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Piedras del Sol](https://open.spotify.com/album/3WO6xLNgcJeeTG2036qLHd) | 3:42 |
 | 52 | [Canoas](https://open.spotify.com/track/7IUGR0FsJjrME1T9fmN2Ig) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Canoas](https://open.spotify.com/album/2aRUgi8wUIUxzgO5VEOCDv) | 4:57 |
 | 53 | [SUBCONSCIENTE](https://open.spotify.com/track/19RUZ3VZgMmWDi3JGz8PlZ) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA](https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL) | 2:38 |
-| 54 | [\(Escapándome\) de mí](https://open.spotify.com/track/3FuzX5N7VSnhSj1x3hQYje) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Nacarile](https://open.spotify.com/album/0pRdkDSMZds1G61wXr2U6i) | 2:54 |
-| 55 | [Alma Carnavalera](https://open.spotify.com/track/2ia6khUL8cdWGqOc31dgl8) | [Stephanie Santiago](https://open.spotify.com/artist/3UyUbkVWB0PoOA49rU9pi6) | [Alma Carnavalera](https://open.spotify.com/album/0Gx8CUQeiJlkcx2R2hMKJX) | 3:54 |
+| 54 | [Alma Carnavalera](https://open.spotify.com/track/2ia6khUL8cdWGqOc31dgl8) | [Stephanie Santiago](https://open.spotify.com/artist/3UyUbkVWB0PoOA49rU9pi6) | [Alma Carnavalera](https://open.spotify.com/album/0Gx8CUQeiJlkcx2R2hMKJX) | 3:54 |
+| 55 | [\(Escapándome\) de mí](https://open.spotify.com/track/3FuzX5N7VSnhSj1x3hQYje) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Nacarile](https://open.spotify.com/album/0pRdkDSMZds1G61wXr2U6i) | 2:54 |
 | 56 | [Sal de Mar](https://open.spotify.com/track/3Go0i4zhTnL8CkfyTrSkez) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Iusef](https://open.spotify.com/artist/7hxdYH7NvvQKn5ZcMTE52b) | [Sal de Mar](https://open.spotify.com/album/5jDsT9P0V42MMYlJ9gI1jl) | 3:26 |
 | 57 | [Sueño Nómade](https://open.spotify.com/track/48IuvQA45zrS1FJBKhOLH8) | [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [Sueño Nómade](https://open.spotify.com/album/2jl3Ee3yRurbYUoq2ffbLN) | 3:00 |
 | 58 | [Futurista](https://open.spotify.com/track/5LTW5ofKF8dds0J4zMw6ZW) | [Gabriele Poso](https://open.spotify.com/artist/2yApCA4GzuGb9oDS5I5Fjp) | [Tamburo Infinito](https://open.spotify.com/album/2BOs7EIE8UdyDdv1MFPvmv) | 2:59 |
 | 59 | [Glorieta](https://open.spotify.com/track/0dARdGOhNNCNf8y4fubUwV) | [Dos Santos](https://open.spotify.com/artist/12Av6pjGrpX0wfTTyXNsyP) | [City of Mirrors](https://open.spotify.com/album/3W9U1PYHL85h599ZUMBBQR) | 2:28 |
 | 60 | [Hoy Como Siempre](https://open.spotify.com/track/61Rc95MbrSSCaXqLcRRBu0) | [Acid Coco](https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW) | [Camino al Mar](https://open.spotify.com/album/1glNAkJudlAf1dNQUsr18G) | 4:12 |
 | 61 | [Diablo](https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk) | [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU), [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [Diablo](https://open.spotify.com/album/6wTBAa1tAJ5B0VulRrSNOI) | 2:52 |
-| 62 | [Todo el Día en la Cama](https://open.spotify.com/track/6TckoX2KeK1hK7wPfdT0zo) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Sorpresa](https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2) | 4:16 |
-| 63 | [Alma Seca](https://open.spotify.com/track/0TjNcJLSuyWByX7IjYYYs9) | [Juanita Euka](https://open.spotify.com/artist/5a7zFB39QFXzf8amit9zJh) | [Mabanzo](https://open.spotify.com/album/27YMkY29ejf68IpDywP91w) | 4:51 |
+| 62 | [Alma Seca](https://open.spotify.com/track/0TjNcJLSuyWByX7IjYYYs9) | [Juanita Euka](https://open.spotify.com/artist/5a7zFB39QFXzf8amit9zJh) | [Mabanzo](https://open.spotify.com/album/27YMkY29ejf68IpDywP91w) | 4:51 |
+| 63 | [Todo el Día en la Cama](https://open.spotify.com/track/6TckoX2KeK1hK7wPfdT0zo) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Sorpresa](https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2) | 4:16 |
 | 64 | [Contra la Corriente](https://open.spotify.com/track/5BS1ULVFdYWNa4r5kE2Ua2) | [Jaguar](https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC) | [Madremonte](https://open.spotify.com/album/4AVxyQmiN8t769CBjIzcZl) | 4:23 |
 | 65 | [Dilo Como Yo \(Te Están Llamando\)](https://open.spotify.com/track/3tz4X9gO0l6lOoh4ZvK7xg) | [Chico Mann](https://open.spotify.com/artist/2Wt6Q6ZHygCPVtMO3uxLGB) | [Manifest Tone EP](https://open.spotify.com/album/71r1Tt7DmwZejC8ONXC1k5) | 4:15 |
 | 66 | [Sabe a Tu Nombre](https://open.spotify.com/track/4kPG4XKpeWVhBd4bfDYuyF) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [Sabe a Tu Nombre](https://open.spotify.com/album/5gkAUF7ohgE237sxZuIFaB) | 3:48 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 | 74 | [Cucu](https://open.spotify.com/track/3yEKNpbidJe62qYAmR6YvJ) | [Gotopo](https://open.spotify.com/artist/0rmwkyTOL6DJ3GISXikmUF), [Don Elektron](https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2) | [Cucu](https://open.spotify.com/album/4FcpN9Cb9g8RWeQFY1LcZc) | 1:52 |
 | 75 | [Capuccino](https://open.spotify.com/track/6nuLwhZNQt6k0HxYoM1nET) | [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W) | [Capuccino](https://open.spotify.com/album/2TQcTnuyLD0RyVqMItP2bj) | 3:49 |
 
-Snapshot ID: `MTY4MTQzNTM3NywwMDAwMDAwMGMwNjI5MjEzMmUxZDhlMjEyZDAxOTc5MDg3Y2I5OWVj`
+Snapshot ID: `MTY4MTQzNTM3NywwMDAwMDAwMDk2ZTU1MmJhYTQ3YjhhYzFmOGI0MDJmOTU5YjVkM2U3`

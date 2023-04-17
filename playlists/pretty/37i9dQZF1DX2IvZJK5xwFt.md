@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 
 > Let's celebrate Pet Day with Måneskin\. Cover: Victoria De Angelis with Chili De Angelis
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,267 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,371 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,12 +16,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 | 6 | [Jesus He Knows Me](https://open.spotify.com/track/1zd8h6ho3mlbhkZnADHVzP) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Jesus He Knows Me](https://open.spotify.com/album/5ATKAJjDVbFIoQVuaHrLNK) | 4:05 |
 | 7 | [Jealousy](https://open.spotify.com/track/7xMZix45UoyZiS40vHC8oy) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Jealousy](https://open.spotify.com/album/1948jAOGWUVxGl7mCLEIef) | 2:09 |
 | 8 | [No Return \- Extended Version From The Original Series “Yellowjackets”](https://open.spotify.com/track/6VOGgvuUoCXodrytKKpEGQ) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [No Return \(Extended Version From The Original Series “Yellowjackets”\)](https://open.spotify.com/album/0HDzM32hlE8cCKJJgwD3L8) | 3:04 |
-| 9 | [72 Seasons](https://open.spotify.com/track/6txhb14PWs9yrkTgR2jnU4) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/5vFa10TvQUWpEv9OkVBatc) | 7:39 |
+| 9 | [72 Seasons](https://open.spotify.com/track/4poeu6nUr4UQo1RXpp29Js) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 7:39 |
 | 10 | [Spellbinding](https://open.spotify.com/track/74rpTA3zk1IWwBY944OK3r) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Spellbinding](https://open.spotify.com/album/2qkyWen9EcUJ1ZPTOsFTo3) | 4:06 |
 | 11 | [Drop Stop Roll](https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Drop Stop Roll](https://open.spotify.com/album/7C45E727Jyq6UrMyLYD2Ab) | 2:50 |
 | 12 | [Champ \(feat\. Edgar Winter\)](https://open.spotify.com/track/3OHYElP3QCFKfnReFTZ2nw) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Edgar Winter](https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk) | [Champ \(feat\. Edgar Winter\)](https://open.spotify.com/album/53Ss7QGhX8hDfymNXdSRtd) | 3:49 |
 | 13 | [BABY SAID](https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 2:44 |
-| 14 | [Screaming Suicide](https://open.spotify.com/track/6ZCh9hBeFzMIPycRnyPqZT) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Screaming Suicide](https://open.spotify.com/album/5RuyqGjhakCG2teiB6VkaC) | 5:30 |
+| 14 | [Screaming Suicide](https://open.spotify.com/track/2zSb2Db4kNYH5qIs5V3BgG) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 5:30 |
 | 15 | [With Or Without You \- Songs Of Surrender](https://open.spotify.com/track/5Ian7OWpp9bX9pHOR9RCKx) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [With Or Without You \(Songs Of Surrender\)](https://open.spotify.com/album/40kPzNF9s62EifVGAhqDL0) | 3:14 |
 | 16 | [Crossfire](https://open.spotify.com/track/4bwvPbiPCsjyMZc6W4VPA2) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Dominion: Day of Destiny](https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv) | 3:12 |
 | 17 | [If I Can Dream \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/4yibMEwSzelLmFtyXwWwZs) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [If I Can Dream \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/5q021NVGXBp7c9QPpZnijt) | 3:16 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 | 48 | [Fighting Myself](https://open.spotify.com/track/5CVZeK7bOC9QxYcZ9gJ5X2) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Fighting Myself](https://open.spotify.com/album/0S1tvjDaar0S6LaRJAFcWF) | 3:21 |
 | 49 | [Watch The World Burn](https://open.spotify.com/track/4CiVz4bw7X1zjCaJ5ZwxUS) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [Watch The World Burn](https://open.spotify.com/album/5SjHojBg6zfZHMqWYjFzFE) | 3:23 |
 | 50 | [Beguiled](https://open.spotify.com/track/6rBiMyaGB1ZJQnxb01FkPG) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Beguiled](https://open.spotify.com/album/582taizXGzfl1ALsX6Busl) | 3:58 |
-| 51 | [If Darkness Had a Son](https://open.spotify.com/track/69HjtjyHuP8KJT7xBaUmtW) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [If Darkness Had a Son](https://open.spotify.com/album/07wqwU4JaQl7XTWwfiAobb) | 6:36 |
+| 51 | [If Darkness Had a Son](https://open.spotify.com/track/3i4Nwzze8zflIoKsuoeBPM) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 6:36 |
 | 52 | [Love From The Other Side \- Edit](https://open.spotify.com/track/7Gm1XwQL5q72SX76nxuXtW) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Love From The Other Side](https://open.spotify.com/album/6zhsE8Z0CfH68FSjxJn0dD) | 4:07 |
 | 53 | [Sirens](https://open.spotify.com/track/4eGua701gIqWxYrETSpHGK) | [The Sherlocks](https://open.spotify.com/artist/4SrofCfzlhtiKRAsMfBxV4) | [Sirens](https://open.spotify.com/album/2qqtSS2ug1CM1UncwBi66w) | 3:22 |
 | 54 | [Toxicated](https://open.spotify.com/track/0qB6ZydAb7ibLHNAf6mlRE) | [Bunkface](https://open.spotify.com/artist/70B8WzgEFajrIE820yi08H) | [Toxicated](https://open.spotify.com/album/2SFr2FJjkU6sbkKUFtfBmr) | 2:37 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 | 74 | [Drones](https://open.spotify.com/track/5QNWATWEQiM9S7rsFUu0Ns) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Drones](https://open.spotify.com/album/2ZfElZEiFCJhbXZa1iVEGb) | 2:29 |
 | 75 | [San Quentin](https://open.spotify.com/track/0nErfLIYBOb0DHE2jqAe6k) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [San Quentin](https://open.spotify.com/album/2oEamuLTW9IlUiDrZLAPMZ) | 3:31 |
 
-Snapshot ID: `MTY4MTQwNTIwMCwwMDAwMDAwMDkyNDEwYzAyNTVhN2JmOGVlMDc4NzFiOTkzZTM5NzEx`
+Snapshot ID: `MTY4MTQwNTIwMCwwMDAwMDAwMDBkZTA1NzIyM2QxMmY5YWU5NmJlZDY5N2UyYzBkNzhj`

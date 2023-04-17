@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Hit-Boy",
-  "num_followers": 1609201,
+  "num_followers": 1609438,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDhjOGRlMWQzYTBkYzVkYzU3MGViOTc4Y2Q0Mjc0OThm",
+  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMGQwMTA5YjQ2ODVlNGNiYjMzNTVmNTgzYjhmZDc0MmVk",
   "tracks": [
     {
       "added_at": "2023-04-14 04:00:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "I Still Don't Cry",
-        "url": "https://open.spotify.com/album/1tvHEgMEd2E0MMay214y9G"
-      },
-      "artists": [
-        {
-          "name": "Marlon Craft",
-          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "I Still Don't Cry",
-      "url": "https://open.spotify.com/track/0FOD0Km83V9o5SZTbbVmzL"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Gang Signs (feat. ScHoolboy Q)",
         "url": "https://open.spotify.com/album/6djndSUOt3l5SJRc1wHdml"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 166840,
       "name": "Gang Signs (feat. ScHoolboy Q)",
       "url": "https://open.spotify.com/track/6snYsavG9vq3C7RGN98dst"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "I Still Don't Cry",
+        "url": "https://open.spotify.com/album/1tvHEgMEd2E0MMay214y9G"
+      },
+      "artists": [
+        {
+          "name": "Marlon Craft",
+          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "I Still Don't Cry",
+      "url": "https://open.spotify.com/track/0FOD0Km83V9o5SZTbbVmzL"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -592,13 +592,17 @@
           "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
         },
         {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        },
+        {
+          "name": "Curren$y",
+          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
         }
       ],
-      "duration_ms": 197266,
-      "name": "Art Talk",
-      "url": "https://open.spotify.com/track/4n0fik3eIbcmKhDh4Xw5x9"
+      "duration_ms": 152693,
+      "name": "Barrag\u00e1n Lighting",
+      "url": "https://open.spotify.com/track/5jJhS8m6vstzzeHdlGoHjt"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -728,17 +732,13 @@
           "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
         },
         {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        },
-        {
-          "name": "Curren$y",
-          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
         }
       ],
-      "duration_ms": 152693,
-      "name": "Barrag\u00e1n Lighting",
-      "url": "https://open.spotify.com/track/5jJhS8m6vstzzeHdlGoHjt"
+      "duration_ms": 197266,
+      "name": "Art Talk",
+      "url": "https://open.spotify.com/track/4n0fik3eIbcmKhDh4Xw5x9"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Live At The Novo",
+        "url": "https://open.spotify.com/album/4WHyqGqxCHQRnn56JCYuhg"
+      },
+      "artists": [
+        {
+          "name": "WESTSIDE BOOGIE",
+          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
+        }
+      ],
+      "duration_ms": 83514,
+      "name": "Cold As Love",
+      "url": "https://open.spotify.com/track/41Loud1XZkZgNw4SS2dsTW"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Moon Roof",
         "url": "https://open.spotify.com/album/3xm4cV4UPNCSqpLe4X8JMs"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 181333,
       "name": "Moon Roof",
       "url": "https://open.spotify.com/track/4ViKU2hlW6dOMTJ7yzXTgR"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Live At The Novo",
-        "url": "https://open.spotify.com/album/4WHyqGqxCHQRnn56JCYuhg"
-      },
-      "artists": [
-        {
-          "name": "WESTSIDE BOOGIE",
-          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
-        }
-      ],
-      "duration_ms": 83514,
-      "name": "Cold As Love",
-      "url": "https://open.spotify.com/track/41Loud1XZkZgNw4SS2dsTW"
     },
     {
       "added_at": "2023-04-14 04:00:00",

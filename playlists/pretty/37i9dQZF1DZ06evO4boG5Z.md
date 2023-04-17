@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4boG5Z.md) - [plain]
 
 > This is Millencolin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,115 likes - 49 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,117 likes - 49 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4boG5Z.md) - [plain]
 | 48 | [Detox](https://open.spotify.com/track/61lH2PBKTjJ3M8CUe5YsND) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Machine 15](https://open.spotify.com/album/37R1jMircABSFxsoWulxTa) | 3:37 |
 | 49 | [Stalemate](https://open.spotify.com/track/3vBpFa87OtswBtpVKvke4I) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Kingwood](https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV) | 3:18 |
 
-Snapshot ID: `MjgwMjYwMzIsMDAwMDAwMDAyZDFiNGUxM2M0NzcyYmNkNDMyMTM2MTk5NjUwZmYwZA==`
+Snapshot ID: `MjgwMjc0MDEsMDAwMDAwMDBmZWQ4YzRhMTU0NGY3M2ZhZWYxYmE0MmFhNWRiMTVlMA==`

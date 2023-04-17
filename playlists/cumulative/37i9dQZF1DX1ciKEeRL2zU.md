@@ -4,7 +4,7 @@
 
 > Remember how love used to be, feel how it is and imagine how it can be with the best South African love songs.
 
-95 songs - 7 hr 8 min
+96 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,8 +18,9 @@
 | [Atamela](https://open.spotify.com/track/0ygf2pf66KVHaaFLPBqisI) | [Presss](https://open.spotify.com/artist/4zvrxiTj59PqL9vRzQI354) | [Evolution of Love](https://open.spotify.com/album/4Q3PFsJo6g39tOvcEEHhVJ) | 3:32 | 2022-02-11 |  |
 | [Baby Girl](https://open.spotify.com/track/14dcMfyhHV1vUdXXfiTuW1) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [Once Upon a Time In Africa](https://open.spotify.com/album/75zZ8xLGSeF0UFE5K0kMrj) | 4:20 | 2022-02-11 | 2022-11-13 |
 | [Baby Girl](https://open.spotify.com/track/5qJpQEJKN2lvm0szJhyvdz) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [Thuto](https://open.spotify.com/album/5eqTNk3knYSiqlpcUT91z7) | 4:20 | 2022-02-11 |  |
+| [Baby Please](https://open.spotify.com/track/47dCbfshKYkbw40Wb49VKO) | [Kelly Khumalo](https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no), [Robbie Malinga](https://open.spotify.com/artist/1nuPAZ36vprvyuAAGBC9UD) | [My Truth](https://open.spotify.com/album/4Q3VwhKvE2slDyveEFIiNr) | 4:44 | 2023-02-10 |  |
 | [Baby Please](https://open.spotify.com/track/0TmitblYFOtTvESsvQpiAS) | [Robbie Malinga](https://open.spotify.com/artist/1nuPAZ36vprvyuAAGBC9UD), [Kelly Khumalo](https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no) | [Soulful Songs: Vol 1](https://open.spotify.com/album/2RtQNzcpmwzwakqzQTnac3) | 4:48 | 2022-02-11 | 2023-04-14 |
-| [Baby Please](https://open.spotify.com/track/3Cije2983YXxgFlV9pqcsn) | [Robbie Malinga](https://open.spotify.com/artist/1nuPAZ36vprvyuAAGBC9UD), [Kelly Khumalo](https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no) | [Mzansi Rhythms of Love](https://open.spotify.com/album/2rsD9g2O3GNDPsY9pfTZek) | 4:48 | 2023-02-10 |  |
+| [Baby Please](https://open.spotify.com/track/3Cije2983YXxgFlV9pqcsn) | [Robbie Malinga](https://open.spotify.com/artist/1nuPAZ36vprvyuAAGBC9UD), [Kelly Khumalo](https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no) | [Mzansi Rhythms of Love](https://open.spotify.com/album/2rsD9g2O3GNDPsY9pfTZek) | 4:48 | 2023-02-10 | 2023-04-17 |
 | [Black Butterfly](https://open.spotify.com/track/7Eq6djk4VjwNHlSxL1c9n9) | [TK](https://open.spotify.com/artist/7GkLffiNibtscyTkTKltfn) | [Best of TK](https://open.spotify.com/album/2FHSrLJLlcA2XgaCrme0FI) | 4:39 | 2022-02-11 |  |
 | [Cashmere](https://open.spotify.com/track/6lU17eD72HITJQi6whfHH7) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Cashmere](https://open.spotify.com/album/3MSWBNsXCTc7U3lE8FDtY1) | 3:03 | 2022-02-11 |  |
 | [Destiny](https://open.spotify.com/track/5mLqm5pmZozHmJltZrlUVT) | [Malaika](https://open.spotify.com/artist/1CfUYtjNZALWpmoPCiL1aM) | [Malaika](https://open.spotify.com/album/1BNliBcI4tJ0g8t81w8n7z) | 7:22 | 2022-02-11 | 2023-02-11 |
@@ -93,8 +94,8 @@
 | [Ungawa Kum](https://open.spotify.com/track/47VpnKqSM6UhAGFjGaUlvy) | [Thebe](https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS) | [Top Dawg](https://open.spotify.com/album/1rrPsxH64XF7uwG7PInaYp) | 5:37 | 2022-02-11 |  |
 | [Ungowami](https://open.spotify.com/track/3Iw3M4ajHzRV0MOQ0a0zRo) | [Semito](https://open.spotify.com/artist/3OpF5sBW6Pbn073VMKKpAm) | [Sebabatso](https://open.spotify.com/album/1xVaUMerQJCsCfHj7oI89w) | 4:52 | 2022-02-11 |  |
 | [Ungowami](https://open.spotify.com/track/3nnDgKZH4k2YVrpFuvXJI3) | [Semito](https://open.spotify.com/artist/3OpF5sBW6Pbn073VMKKpAm) | [I Choose You](https://open.spotify.com/album/6EY0zAXkb5ButcECHqqzji) | 4:52 | 2022-02-11 | 2022-11-13 |
-| [Uthando](https://open.spotify.com/track/5WrnM103yLSiufFT9r1tWL) | [Kelly Khumalo](https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no) | [Sounds of Love: Side A](https://open.spotify.com/album/53PGiw3oxtHwHrzi72Ypa9) | 4:53 | 2022-02-11 | 2022-11-13 |
-| [Uthando](https://open.spotify.com/track/7vAXZOAlNeD6f7rg5qnkbh) | [Kelly Khumalo](https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no) | [Mzansi Rhythms of Love](https://open.spotify.com/album/2rsD9g2O3GNDPsY9pfTZek) | 4:53 | 2022-02-11 |  |
+| [Uthando](https://open.spotify.com/track/5WrnM103yLSiufFT9r1tWL) | [Kelly Khumalo](https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no) | [Sounds of Love: Side A](https://open.spotify.com/album/53PGiw3oxtHwHrzi72Ypa9) | 4:53 | 2022-02-11 |  |
+| [Uthando](https://open.spotify.com/track/7vAXZOAlNeD6f7rg5qnkbh) | [Kelly Khumalo](https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no) | [Mzansi Rhythms of Love](https://open.spotify.com/album/2rsD9g2O3GNDPsY9pfTZek) | 4:53 | 2022-02-11 | 2023-04-17 |
 | [Uthando'lunje](https://open.spotify.com/track/65GUvMEHSemavaT6Jmm3Iv) | [Soul Kulture](https://open.spotify.com/artist/1LZkUMy70sBaxwNWLr22ah), [Teamoswabii](https://open.spotify.com/artist/0ePAUhdGPzGvrX46teYQ80) | [Uthando'lunje](https://open.spotify.com/album/1FUMDbne73baYvn2Na6qL4) | 5:04 | 2022-02-11 | 2023-02-11 |
 | [Uyandithanda](https://open.spotify.com/track/03oeHk2ssQMsygWAQveyKv) | [Zonke](https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn) | [L.O.V.E](https://open.spotify.com/album/2ZVoOSSjAwpsK2v53JvUNT) | 4:08 | 2022-02-11 | 2023-02-11 |
 | [Voicemail](https://open.spotify.com/track/6l4EAi2hbZU9TfZWHUzDBE) | [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A), [Mduduzi Ncube](https://open.spotify.com/artist/5jvlsVxfcbRVuHJ2Uv8WOh), [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1), [Siya Ntuli](https://open.spotify.com/artist/5BggJAW7Ubyk8FR87MpGvc), [Xowla](https://open.spotify.com/artist/08ejcjfMzbGwiK9MVslxc5) | [Voicemail](https://open.spotify.com/album/1jpct6JMzUuQRCvCe0ASwS) | 4:38 | 2023-02-10 |  |

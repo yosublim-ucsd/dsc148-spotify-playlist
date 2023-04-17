@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 
 > The iconic songs celebrating love across the African continent from the 2000's to date
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,493 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,585 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 76 | [Don't Keep Me Waiting](https://open.spotify.com/track/13TEzGeUmbKSyyZjDv6ygG) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Don't Keep Me Waiting](https://open.spotify.com/album/0DwcT9VT9F293ojbvOaVzR) | 3:47 |
 | 77 | [Nomakanjani](https://open.spotify.com/track/7sAaRNhvkHH87PnV5ArZ98) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Greatest Hits 1964\-2004](https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0) | 3:40 |
 | 78 | [Ndilinde](https://open.spotify.com/track/5PwPfqoN2EnW2hVYS7rv1f) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Zabalaza](https://open.spotify.com/album/3SEMoWOREyDMSWGFzrfb0O) | 5:51 |
-| 79 | [Uthando](https://open.spotify.com/track/7vAXZOAlNeD6f7rg5qnkbh) | [Kelly Khumalo](https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no) | [Mzansi Rhythms of Love](https://open.spotify.com/album/2rsD9g2O3GNDPsY9pfTZek) | 4:53 |
+| 79 | [Uthando](https://open.spotify.com/track/5WrnM103yLSiufFT9r1tWL) | [Kelly Khumalo](https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no) | [Sounds of Love: Side A](https://open.spotify.com/album/53PGiw3oxtHwHrzi72Ypa9) | 4:53 |
 | 80 | [Joromi](https://open.spotify.com/track/2veqQDtwehytVhqYJbTHtW) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Simisola](https://open.spotify.com/album/2lHgNW983t05IFHxKSryH3) | 3:55 |
 | 81 | [Love My Baby](https://open.spotify.com/track/7xdHQUxVj0aOAvUOGLCYj3) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Superstar](https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb) | 4:06 |
 | 82 | [Tigi Tigi.](https://open.spotify.com/track/7kIApWELVj8I4eOKJs04JW) | [Sands](https://open.spotify.com/artist/3uYNluWtBu0ksu049wbLVW) | [Azgo Festival Compilation 2019](https://open.spotify.com/album/0QvN86SujsP2OjxEyXBtAw) | 5:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 99 | [Hey Baby](https://open.spotify.com/track/6QSb60sn9DaOuTKoeTHBtr) | [Colonel Moustapha](https://open.spotify.com/artist/6M8r2WBh4hYgx8v5bmw8Yd), [Marya](https://open.spotify.com/artist/5VhnfPg1YsCfdoS5QR9o6J) | [Hey Baby](https://open.spotify.com/album/0joHCEkM7DAir7xqWgm3NW) | 3:05 |
 | 100 | [Haiwihaiwi \(feat\. Bienaime\)](https://open.spotify.com/track/2SNo5wyDBUU7Op1Vz3paVX) | [Wendy Kimani](https://open.spotify.com/artist/0Ep2fNEERde3ns2luc8clT), [Bien Aime](https://open.spotify.com/artist/7F39RDj6PGoOTLqSxWcScL) | [My Essence](https://open.spotify.com/album/0zGiZdTgKFSRLVWd0XLeFi) | 3:29 |
 
-Snapshot ID: `MTY3OTA1NTUyMiwwMDAwMDAwMDkyNjY0N2NiZjg1YTZmYjk1YWNiMzEyOTllYzdmYThj`
+Snapshot ID: `MTY3OTA1NTUyMiwwMDAwMDAwMDIyOTI3MTYwYjM4YjdmNDc5ZDgwZDYxMjk5ODkxYTYx`

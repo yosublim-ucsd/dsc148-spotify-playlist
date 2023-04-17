@@ -4,7 +4,7 @@
 
 > All the best new songs from the pop punk scene\. Cover: Hot Milk
 
-267 songs - 13 hr 6 min
+268 songs - 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,7 +192,8 @@
 | [Psycho](https://open.spotify.com/track/29GKyMCkBY2Kc7M2VcAZJE) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Psycho](https://open.spotify.com/album/4toEJiFEggtxsZPewZmLat) | 2:59 | 2022-08-18 |  |
 | [punk chick](https://open.spotify.com/track/5Wb2OkliDE5wqNNiAy8E4B) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66) | [punk chick](https://open.spotify.com/album/5S7Oe9FovWiPMInQJtGc5p) | 3:08 | 2022-07-04 |  |
 | [Real Life](https://open.spotify.com/track/3WcZqa5zOjq3FnEBZCriMw) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Real Life](https://open.spotify.com/album/52NM880fYreKPu2PJDFR0x) | 2:44 | 2022-08-25 |  |
-| [REAL SUPER DARK](https://open.spotify.com/track/6nXtGWUzOGxfI7q5hUa6Jj) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/7exaI7MyauQNCOqbyqU27C) | 2:29 | 2023-01-27 |  |
+| [REAL SUPER DARK](https://open.spotify.com/track/2YGfjeZvYJyy1BQrbsLmGr) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:29 | 2023-03-31 |  |
+| [REAL SUPER DARK](https://open.spotify.com/track/6nXtGWUzOGxfI7q5hUa6Jj) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/7exaI7MyauQNCOqbyqU27C) | 2:29 | 2023-01-27 | 2023-04-17 |
 | [REAL SUPER DARK](https://open.spotify.com/track/7uuHc1gwZCKG9CGJopnSF3) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/1TyNSqm2av7ed9Z6BgHhFT) | 2:29 | 2023-01-27 | 2023-01-30 |
 | [RECKLESS](https://open.spotify.com/track/2iNb7p7WLZ4fJHZd3kbWst) | [LOU](https://open.spotify.com/artist/4tVzfQLYPxk5vGAgPQXmK4) | [RECKLESS](https://open.spotify.com/album/1tKiELuITXrxUVWA1bUzII) | 2:55 | 2023-03-31 |  |
 | [Remedy for Reality](https://open.spotify.com/track/6VL1ikOTJscKBHRgV686ug) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Torn in Two](https://open.spotify.com/album/7FD1Yk6byTdKJQh0fXX6nN) | 2:44 | 2021-12-20 | 2022-09-10 |

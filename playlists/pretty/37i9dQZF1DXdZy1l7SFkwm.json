@@ -1,12 +1,12 @@
 {
   "description": "El aderezo que te falta.",
-  "num_followers": 33591,
+  "num_followers": 33628,
   "original_name": "Cocina con sabor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNTgyNDI5MywwMDAwMDAwMGVhOThmNGRmMjg3YjY2MTAyOGFiNzFiOWRjNzY1ZTZj",
+  "snapshot_id": "MTYxNTgyNDI5MywwMDAwMDAwMGM2NDMzMzg5MmZhNjUzNzFkOTRmYjVjMzcyMzY3MDdj",
   "tracks": [
     {
       "added_at": "2021-03-15 16:04:53",
@@ -699,26 +699,18 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Jazz Samba Encore!",
-        "url": "https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc"
+        "name": "A Toda Cuba Le Gusta",
+        "url": "https://open.spotify.com/album/3mjwCWLCCtHiEv0Ttek5zT"
       },
       "artists": [
         {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Luiz Bonf\u00e1",
-          "url": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
-        },
-        {
-          "name": "Maria Toledo",
-          "url": "https://open.spotify.com/artist/6snRLiVZyEVuH73LLGamvi"
+          "name": "Afro-Cuban All Stars",
+          "url": "https://open.spotify.com/artist/5cvnQ2gtwZraxeE99Y8aOg"
         }
       ],
-      "duration_ms": 219093,
-      "name": "Saudade Vem Correndo",
-      "url": "https://open.spotify.com/track/3QxAadrRx8aSEVd6Qzr8KF"
+      "duration_ms": 396440,
+      "name": "Amor verdadero",
+      "url": "https://open.spotify.com/track/6Ds9miFD06FwpFdAuqDo0h"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -739,18 +731,26 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "A Toda Cuba Le Gusta",
-        "url": "https://open.spotify.com/album/3mjwCWLCCtHiEv0Ttek5zT"
+        "name": "Jazz Samba Encore!",
+        "url": "https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc"
       },
       "artists": [
         {
-          "name": "Afro-Cuban All Stars",
-          "url": "https://open.spotify.com/artist/5cvnQ2gtwZraxeE99Y8aOg"
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Luiz Bonf\u00e1",
+          "url": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
+        },
+        {
+          "name": "Maria Toledo",
+          "url": "https://open.spotify.com/artist/6snRLiVZyEVuH73LLGamvi"
         }
       ],
-      "duration_ms": 396440,
-      "name": "Amor verdadero",
-      "url": "https://open.spotify.com/track/6Ds9miFD06FwpFdAuqDo0h"
+      "duration_ms": 219093,
+      "name": "Saudade Vem Correndo",
+      "url": "https://open.spotify.com/track/3QxAadrRx8aSEVd6Qzr8KF"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -903,22 +903,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Jersey Beat: The Music Of Frankie Valli and The Four Seasons",
-        "url": "https://open.spotify.com/album/0sEAJ8QdJQPRNL2km3NYqg"
-      },
-      "artists": [
-        {
-          "name": "Frankie Valli & The Four Seasons",
-          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
-        }
-      ],
-      "duration_ms": 168706,
-      "name": "Beggin' - 2007 Remaster",
-      "url": "https://open.spotify.com/track/4LQtQV5HHTdVBCBJYaEuUr"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Lonely Teardrops",
         "url": "https://open.spotify.com/album/4Ixm6f2gdD6Ai1qKkE5NGT"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 166213,
       "name": "Lonely Teardrops",
       "url": "https://open.spotify.com/track/6TYR3IVgIwDK6ydc2EPEQq"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Jersey Beat: The Music Of Frankie Valli and The Four Seasons",
+        "url": "https://open.spotify.com/album/0sEAJ8QdJQPRNL2km3NYqg"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli & The Four Seasons",
+          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
+        }
+      ],
+      "duration_ms": 168706,
+      "name": "Beggin' - 2007 Remaster",
+      "url": "https://open.spotify.com/track/4LQtQV5HHTdVBCBJYaEuUr"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Bonfa Burrows Brazil",
-        "url": "https://open.spotify.com/album/2FZVahHc8nS73bBKXmsKMq"
-      },
-      "artists": [
-        {
-          "name": "Luiz Bonf\u00e1",
-          "url": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
-        }
-      ],
-      "duration_ms": 234200,
-      "name": "The Shade of the Mango Tree",
-      "url": "https://open.spotify.com/track/6gdTVZdQcVN54ynCk38l5U"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "The Astrud Gilberto Album",
         "url": "https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 176146,
       "name": "O Morro (N\u00e3o Tem Vez)",
       "url": "https://open.spotify.com/track/5jMc7pAGFQ5lRqfaM7AsU5"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Bonfa Burrows Brazil",
+        "url": "https://open.spotify.com/album/2FZVahHc8nS73bBKXmsKMq"
+      },
+      "artists": [
+        {
+          "name": "Luiz Bonf\u00e1",
+          "url": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
+        }
+      ],
+      "duration_ms": 234200,
+      "name": "The Shade of the Mango Tree",
+      "url": "https://open.spotify.com/track/6gdTVZdQcVN54ynCk38l5U"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "S'Imbora - A Hist\u00f3ria De Wilson Simonal",
-        "url": "https://open.spotify.com/album/4N9x0tpa3JaHNTWfoRvIx4"
-      },
-      "artists": [
-        {
-          "name": "Wilson Simonal",
-          "url": "https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya"
-        }
-      ],
-      "duration_ms": 152226,
-      "name": "Nem Vem Que N\u00e3o Tem - Ao Vivo",
-      "url": "https://open.spotify.com/track/2Tu5gM7e8Di209p7Gg2CCp"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "The Vintage Series",
         "url": "https://open.spotify.com/album/79trt5vU4vqyna7znhWjqD"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 166186,
       "name": "Little Boy Blue",
       "url": "https://open.spotify.com/track/4M8o993Gt5U6mSogtuviYn"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "S'Imbora - A Hist\u00f3ria De Wilson Simonal",
+        "url": "https://open.spotify.com/album/4N9x0tpa3JaHNTWfoRvIx4"
+      },
+      "artists": [
+        {
+          "name": "Wilson Simonal",
+          "url": "https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya"
+        }
+      ],
+      "duration_ms": 152226,
+      "name": "Nem Vem Que N\u00e3o Tem - Ao Vivo",
+      "url": "https://open.spotify.com/track/2Tu5gM7e8Di209p7Gg2CCp"
     },
     {
       "added_at": "2021-03-15 16:04:53",

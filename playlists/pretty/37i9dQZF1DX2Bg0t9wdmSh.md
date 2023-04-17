@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Bg0t9wdmSh.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/justinlaboy/">Justin LaBoy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,621 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,646 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Bg0t9wdmSh.md) - [plain]
 | 25 | [That’s It](https://open.spotify.com/track/5n6gBhdEjCuj3obgCoTEFD) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pluto x Baby Pluto](https://open.spotify.com/album/48xpWR8K6CGpy3ETAym3pt) | 3:48 |
 | 26 | [Damage](https://open.spotify.com/track/2azM2WRIpQiB9ALfVmYtlW) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Back of My Mind](https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP) | 3:47 |
 | 27 | [Dog Food](https://open.spotify.com/track/3AnCVSpT7j6l8T8GBDUl6n) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Young and Turnt](https://open.spotify.com/album/10QfjPmSXM0Lt82GKlajKL) | 2:33 |
-| 28 | [Track Star](https://open.spotify.com/track/5hChuUMe5iHfjkXgzj1D4b) | [Mooski](https://open.spotify.com/artist/4NqH3V7GS0Igs1VyGMXEi8) | [Track Star](https://open.spotify.com/album/7yvSdViuYJjZwXWtSwYu3D) | 3:19 |
-| 29 | [One Wish](https://open.spotify.com/track/2TFsx3B0hLSSTambrudXs3) | [Ray J](https://open.spotify.com/artist/6gbGGM0E8Q1hE511psqxL0) | [Raydiation](https://open.spotify.com/album/6ZLE8nIut6t3CXt1dIpSh6) | 5:37 |
+| 28 | [One Wish](https://open.spotify.com/track/2TFsx3B0hLSSTambrudXs3) | [Ray J](https://open.spotify.com/artist/6gbGGM0E8Q1hE511psqxL0) | [Raydiation](https://open.spotify.com/album/6ZLE8nIut6t3CXt1dIpSh6) | 5:37 |
+| 29 | [Track Star](https://open.spotify.com/track/5hChuUMe5iHfjkXgzj1D4b) | [Mooski](https://open.spotify.com/artist/4NqH3V7GS0Igs1VyGMXEi8) | [Track Star](https://open.spotify.com/album/7yvSdViuYJjZwXWtSwYu3D) | 3:19 |
 | 30 | [Errbody](https://open.spotify.com/track/6eVxH9Kyanzrw636zJRPcw) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Errbody](https://open.spotify.com/album/1AhcXFOhxnWriMEslx0LC2) | 3:30 |
 | 31 | [Beat Box](https://open.spotify.com/track/3wCx8pwK7J1LVe13dFXjPm) | [SpotemGottem](https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx) | [Beat Box](https://open.spotify.com/album/3ZrmqgaJ6LzRstwWe3k9si) | 1:50 |
 | 32 | [B\*tch From Da Souf](https://open.spotify.com/track/6tLWt7gkvvTSjS6OfJjiyJ) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [B\*tch From Da Souf](https://open.spotify.com/album/5Ux8ZuXz6ojbqiSf2y9iHw) | 2:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Bg0t9wdmSh.md) - [plain]
 | 49 | [RNB \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/6aIARN0We3Rf0O2n20J8hp) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [RNB \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/6A0oDDWAJwFxzD2YQwmp0U) | 3:31 |
 | 50 | [Twerksum](https://open.spotify.com/track/4i8qEsqa426Ctz6KRno3dA) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [Twerksum](https://open.spotify.com/album/5PvbVK53F50l8MpEAkKY45) | 3:13 |
 
-Snapshot ID: `MTY2NDY0MDU5NiwwMDAwMDAwMDA3OWEyZWNmMzcwMDRkZDMyMjU3MzcxMTQ0ZTRjMDc0`
+Snapshot ID: `MTY2NDY0MDU5NiwwMDAwMDAwMDQyYTA5ZTg0NWVmYjc2M2RkZGMzOTBmMmE3ZDE0NTk3`

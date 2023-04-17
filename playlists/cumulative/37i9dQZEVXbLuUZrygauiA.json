@@ -5530,7 +5530,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 189668,
       "name": "El Merengue",
       "url": "https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9"
@@ -13307,6 +13307,24 @@
     },
     {
       "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/3UuTomNtncKiqwsZeakbPj"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196413,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/5H95n43z0KFcXGCEc0ewe1"
+    },
+    {
+      "album": {
         "name": "Piensa en Mi",
         "url": "https://open.spotify.com/album/1YC7xdhB97jSwGkHllnBsn"
       },
@@ -18121,6 +18139,24 @@
     },
     {
       "album": {
+        "name": "Volar\u00e9",
+        "url": "https://open.spotify.com/album/0yP1BBqUrfPnRBai5d63Yf"
+      },
+      "artists": [
+        {
+          "name": "Julian Figueroa",
+          "url": "https://open.spotify.com/artist/7mZRUyicGFKAUjCxc1i51m"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182276,
+      "name": "Un idiota",
+      "url": "https://open.spotify.com/track/35euE6BwKwWF3DeEoINvE9"
+    },
+    {
+      "album": {
         "name": "Un Nuevo Amor",
         "url": "https://open.spotify.com/album/0qRYR5QyvLEt16G7UisMS2"
       },
@@ -19606,7 +19642,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 197578,
       "name": "Yes To Heaven",
       "url": "https://open.spotify.com/track/2LFdU0NCFgh0k5nDeXqIWS"

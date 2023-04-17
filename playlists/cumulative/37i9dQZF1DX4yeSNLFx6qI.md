@@ -4,7 +4,7 @@
 
 > Se acabó el amor\. La música continúa.
 
-202 songs - 11 hr 49 min
+203 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [Regresa](https://open.spotify.com/track/1z9mOl4yaivulHoUBxuQvQ) | [Madison](https://open.spotify.com/artist/0NwGBRhszOv045HeCRAW7n), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Regresa](https://open.spotify.com/album/3Uxs7bly961sChdGGBbfbL) | 3:20 | 2023-03-03 |  |
 | [Roto](https://open.spotify.com/track/5muxDDRz7Y1m9leVgwTUrD) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Roto](https://open.spotify.com/album/5763P0o9ruO8OZ4Dwey7sf) | 2:45 | 2021-12-06 | 2023-01-07 |
 | [Saturno](https://open.spotify.com/track/2oKjjRzItVu8JZScrpzFTx) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Saturno](https://open.spotify.com/album/5pkBUqB9eV83AF7BmNGAs6) | 4:13 | 2021-12-06 |  |
-| [Se Me Olvidó Olvidarte](https://open.spotify.com/track/3PQW9eCAHJm5RXMTRk84la) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p), [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ), [Lucero Mijares](https://open.spotify.com/artist/3NRfvOGwdqnzGWuHE15nGW) | [Se Me Olvidó Olvidarte](https://open.spotify.com/album/7reK9X26hjUaOSzBKaKqoW) | 3:54 | 2021-12-06 |  |
+| [Se Me Olvidó Olvidarte](https://open.spotify.com/track/3PQW9eCAHJm5RXMTRk84la) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p), [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ), [Lucero Mijares](https://open.spotify.com/artist/3NRfvOGwdqnzGWuHE15nGW) | [Se Me Olvidó Olvidarte](https://open.spotify.com/album/7reK9X26hjUaOSzBKaKqoW) | 3:54 | 2021-12-06 | 2023-04-17 |
 | [Se Supone](https://open.spotify.com/track/5Lhlma8CbXwj3ptne7H6DF) | [Lucah](https://open.spotify.com/artist/2L0nCuTUHFPHC3Y8uqbUKw) | [Se Supone](https://open.spotify.com/album/3G0nsurU2QSdw4439JcbhT) | 4:06 | 2021-12-06 | 2022-07-29 |
 | [Será Mi Culpa?](https://open.spotify.com/track/0e5wmUTalS4NiyNjMYmBIA) | [LUANA](https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET) | [Será Mi Culpa?](https://open.spotify.com/album/4A1s03L5Tw52zY0FamWkDW) | 2:19 | 2022-08-31 |  |
 | [Si algún día me toca a mí](https://open.spotify.com/track/0EWTV2ya46WyDFrKiDz7ay) | [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk) | [Si algún día me toca a mí](https://open.spotify.com/album/2lgGsWvn6GO3xsWHiwbcOF) | 3:58 | 2021-12-06 | 2023-01-07 |
@@ -161,6 +161,7 @@
 | [Si Te Vas](https://open.spotify.com/track/5NvC5LlIm7qu4Y8zEl5afq) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Peligro](https://open.spotify.com/album/1kyEyfxfx98zHEmQuJJFxk) | 3:07 | 2021-12-06 | 2022-02-13 |
 | [Si tú no vuelves](https://open.spotify.com/track/7C5l5hLxS4uZX1VJR13ZBT) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Colección Definitiva](https://open.spotify.com/album/0nEL8RK9TM7RD6oTzv27Zf) | 4:38 | 2021-12-06 |  |
 | [Siempre](https://open.spotify.com/track/1twVzpotI6HwGVOT00m3ml) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Siempre](https://open.spotify.com/album/5wUOStQ3CWOvHKMYAguLRN) | 1:32 | 2022-07-21 | 2023-04-14 |
+| [Siempre](https://open.spotify.com/track/2BOfgAlexUSef23fFwkd1k) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Siempre](https://open.spotify.com/album/1FmLq6L6oiD1zAq0UxF341) | 1:32 | 2023-04-14 |  |
 | [Sin Aire](https://open.spotify.com/track/00ftaJIOXTvlp6jAuxvAYs) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Sin Aire](https://open.spotify.com/album/1LsFNlupcPgPZ1vzJq14bn) | 2:53 | 2021-12-06 | 2022-01-06 |
 | [Son Tantas Cosas](https://open.spotify.com/track/54nYowFYNMP2buVxg73w6w) | [Andry Kiddos](https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2) | [Son Tantas Cosas](https://open.spotify.com/album/2QshaPSs5R2x3da2jCHrFj) | 2:24 | 2021-12-06 | 2023-01-07 |
 | [Souvenir \- Acústico](https://open.spotify.com/track/7DdrGHH2WVJE5mu8shi6If) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Lucah](https://open.spotify.com/artist/2L0nCuTUHFPHC3Y8uqbUKw) | [Souvenir \(Acústico\)](https://open.spotify.com/album/5SY3H12qUEisZPFwdDliJY) | 3:18 | 2021-12-06 | 2022-07-28 |

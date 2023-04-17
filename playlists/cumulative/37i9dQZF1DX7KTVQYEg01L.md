@@ -4,7 +4,7 @@
 
 > celebre seu dia no maior astral!
 
-295 songs - 17 hr 0 min
+296 songs - 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,8 @@
 | [Happy \- From "Despicable Me 2"](https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [G I R L](https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W) | 3:52 | 2022-03-24 |  |
 | [Happy Man](https://open.spotify.com/track/11xRCe6bPQ9fRhz70dqF9N) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Happy Man](https://open.spotify.com/album/4RgCkVxrmHpbInrUyy8dU6) | 3:10 | 2022-03-24 | 2022-04-21 |
 | [Hard Place](https://open.spotify.com/track/47OqtEbWGkG6eDNGUNCYYB) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [I Used To Know Her \- Part 2 \- EP](https://open.spotify.com/album/46imFLgb9fR1Io6EoPYeQh) | 4:31 | 2022-03-24 | 2022-04-20 |
-| [Heat Waves](https://open.spotify.com/track/6CDzDgIUqeDY5g8ujExx2f) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Heat Waves](https://open.spotify.com/album/69K1zrf6TkXHdYUO8n2qVi) | 3:58 | 2022-02-04 |  |
+| [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 | 2023-04-07 |  |
+| [Heat Waves](https://open.spotify.com/track/6CDzDgIUqeDY5g8ujExx2f) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Heat Waves](https://open.spotify.com/album/69K1zrf6TkXHdYUO8n2qVi) | 3:58 | 2022-02-04 | 2023-04-17 |
 | [Hello Sunshine](https://open.spotify.com/track/0awwOS43XbEg56EmKjyW4u) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Hello Sunshine](https://open.spotify.com/album/2NCPW6o14asEnK8yIwNSxB) | 3:54 | 2022-03-24 | 2022-04-20 |
 | [Here Comes The Sun \- Remastered](https://open.spotify.com/track/45yEy5WJywhJ3sDI28ajTm) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/2Pqkn9Dq2DFtdfkKAeqgMd) | 3:05 | 2022-03-24 | 2022-04-20 |
 | [Here Comes The Sun \- Remastered 2009](https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 3:05 | 2022-03-24 |  |

@@ -822,7 +822,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 264910,
       "name": "Apkabinai",
       "url": "https://open.spotify.com/track/0wgdB1p9ylLMAj16Yc1IJ3"
@@ -894,7 +894,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-13",
+      "date_removed": null,
       "duration_ms": 195758,
       "name": "Ap\u017eavai",
       "url": "https://open.spotify.com/track/12X9GMNhoP6tSj5ai0Kujw"
@@ -2690,6 +2690,24 @@
       "duration_ms": 186358,
       "name": "Change My Clothes",
       "url": "https://open.spotify.com/track/4mnjwMLCk3JZkhkok3u5g1"
+    },
+    {
+      "album": {
+        "name": "Chemical",
+        "url": "https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184013,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
     },
     {
       "album": {
@@ -7592,7 +7610,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 133829,
       "name": "I Know - PR1SVX Edit",
       "url": "https://open.spotify.com/track/3vcLw8QA3yCOkrj9oLSZNs"
@@ -11714,7 +11732,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 386906,
       "name": "Money Trees",
       "url": "https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4"
@@ -12171,6 +12189,24 @@
     },
     {
       "album": {
+        "name": "Dangus Geriausieji",
+        "url": "https://open.spotify.com/album/08wngOOGFrlXdZ7csqxow7"
+      },
+      "artists": [
+        {
+          "name": "Vaidas Baumila",
+          "url": "https://open.spotify.com/artist/7AczdBjiNUjo4pxVVucvw1"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163240,
+      "name": "Myliu",
+      "url": "https://open.spotify.com/track/1F61F4SNfrF1kYVA6Hwpn5"
+    },
+    {
+      "album": {
         "name": "A\u0161 sakydamas kursiu",
         "url": "https://open.spotify.com/album/5paQn36dIWkKgmmYFrqipn"
       },
@@ -12400,6 +12436,24 @@
       "duration_ms": 169846,
       "name": "NESUSTABDOMAS",
       "url": "https://open.spotify.com/track/2X31yi2yeE7wQjJKgH3XzL"
+    },
+    {
+      "album": {
+        "name": "Never Felt So Alone",
+        "url": "https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160166,
+      "name": "Never Felt So Alone",
+      "url": "https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo"
     },
     {
       "album": {
@@ -18954,7 +19008,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 199920,
       "name": "Too Many Nights (feat. Don Toliver & with Future)",
       "url": "https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g"

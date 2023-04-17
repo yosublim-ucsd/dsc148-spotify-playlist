@@ -1,12 +1,12 @@
 {
   "description": "The ultimate seasonal (indie) playlist.",
-  "num_followers": 163001,
+  "num_followers": 162979,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc2Mjk5MiwwMDAwMDAwMGUwYjM2ZGZmMTQwOWQ1NmRkMWIxZWI4ODRlNGU0MDI0",
+  "snapshot_id": "MTY3MTc2Mjk5MiwwMDAwMDAwMDE4ZDBhODFjOTAwYTcwOTdiZDI5ZGZjN2FiNzk3MDcy",
   "tracks": [
     {
       "added_at": "2022-12-23 02:36:32",
@@ -999,8 +999,8 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
-        "name": "Songs For Christmas",
-        "url": "https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis"
+        "name": "Lonely Man of Winter",
+        "url": "https://open.spotify.com/album/16KjliJcOiaG197Hzl9z3s"
       },
       "artists": [
         {
@@ -1008,9 +1008,9 @@
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 260786,
-      "name": "Joy To The World",
-      "url": "https://open.spotify.com/track/2IqU8ku7GvY7HE0s3sYA34"
+      "duration_ms": 191266,
+      "name": "Lonely Man of Winter",
+      "url": "https://open.spotify.com/track/1OxRNKfrUtgaWoyLZye2ZA"
     },
     {
       "added_at": "2022-12-23 02:36:32",
@@ -1143,8 +1143,8 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
-        "name": "Lonely Man of Winter",
-        "url": "https://open.spotify.com/album/16KjliJcOiaG197Hzl9z3s"
+        "name": "Songs For Christmas",
+        "url": "https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis"
       },
       "artists": [
         {
@@ -1152,9 +1152,9 @@
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 191266,
-      "name": "Lonely Man of Winter",
-      "url": "https://open.spotify.com/track/1OxRNKfrUtgaWoyLZye2ZA"
+      "duration_ms": 198026,
+      "name": "That Was the Worst Christmas Ever!",
+      "url": "https://open.spotify.com/track/6iabiOyIuzZ96Tk6KyYCRp"
     },
     {
       "added_at": "2022-12-23 02:36:32",
@@ -1171,22 +1171,6 @@
       "duration_ms": 177733,
       "name": "Christmas Is Going To The Dogs",
       "url": "https://open.spotify.com/track/01UBQgNn1jCFAnnvNJSjv0"
-    },
-    {
-      "added_at": "2022-12-23 02:36:32",
-      "album": {
-        "name": "Here We Come A-Caroling",
-        "url": "https://open.spotify.com/album/4nnBzX1vhCQpHqw1AbFU27"
-      },
-      "artists": [
-        {
-          "name": "Pomplamoose",
-          "url": "https://open.spotify.com/artist/5dHfLBNU8zoypgKefzEB1c"
-        }
-      ],
-      "duration_ms": 167837,
-      "name": "Here We Come A-Caroling",
-      "url": "https://open.spotify.com/track/3iaFIr7VSe1bp0M2wVFdE6"
     },
     {
       "added_at": "2022-12-23 02:36:32",
@@ -1223,18 +1207,18 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
-        "name": "Auld Lang Syne",
-        "url": "https://open.spotify.com/album/5kJSx4MUPIidcP4DZNRzfu"
+        "name": "Here We Come A-Caroling",
+        "url": "https://open.spotify.com/album/4nnBzX1vhCQpHqw1AbFU27"
       },
       "artists": [
         {
-          "name": "Haley Blais",
-          "url": "https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT"
+          "name": "Pomplamoose",
+          "url": "https://open.spotify.com/artist/5dHfLBNU8zoypgKefzEB1c"
         }
       ],
-      "duration_ms": 192440,
-      "name": "Auld Lang Syne",
-      "url": "https://open.spotify.com/track/1csVCmVSxMwc9wbL0j54hW"
+      "duration_ms": 167837,
+      "name": "Here We Come A-Caroling",
+      "url": "https://open.spotify.com/track/3iaFIr7VSe1bp0M2wVFdE6"
     },
     {
       "added_at": "2022-12-23 02:36:32",
@@ -1251,6 +1235,22 @@
       "duration_ms": 203767,
       "name": "Christmas (Baby Please Come Home) - Recorded at Electric Lady Studios in NYC",
       "url": "https://open.spotify.com/track/4l6HpFFpPcJ3M5N1PuG7We"
+    },
+    {
+      "added_at": "2022-12-23 02:36:32",
+      "album": {
+        "name": "Auld Lang Syne",
+        "url": "https://open.spotify.com/album/5kJSx4MUPIidcP4DZNRzfu"
+      },
+      "artists": [
+        {
+          "name": "Haley Blais",
+          "url": "https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT"
+        }
+      ],
+      "duration_ms": 192440,
+      "name": "Auld Lang Syne",
+      "url": "https://open.spotify.com/track/1csVCmVSxMwc9wbL0j54hW"
     }
   ],
   "unique_name": "Indie Christmas",

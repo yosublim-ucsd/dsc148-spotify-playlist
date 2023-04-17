@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX206LSYrawGc.md) - [plain]
 
 > 80s rock to fuel your ride\. Cover: Guns N' Roses
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,096 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,462 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX206LSYrawGc.md) - [plain]
 | 47 | [Jump](https://open.spotify.com/track/6Fba9RZtC6vTY814JToDtP) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Best of Volume 1](https://open.spotify.com/album/7ndqT6LH9o6YQ5uA7aT0St) | 3:59 |
 | 48 | [I Surrender](https://open.spotify.com/track/2dHjSNCw10clC9oOld8tPn) | [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m) | [Difficult To Cure](https://open.spotify.com/album/6bLrltddpgzAPMlefww9Ex) | 4:01 |
 | 49 | [Modern Day Cowboy](https://open.spotify.com/track/5ZIU2kT1wNjQNclQeVCz5O) | [Tesla](https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU) | [Mechanical Resonance](https://open.spotify.com/album/1VctZj1UuAgfqtnDcTlzGI) | 5:18 |
-| 50 | [Breaking the Chains](https://open.spotify.com/track/2W7CvGjipq3EmHqNGN7lN9) | [Dokken](https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq) | [Breaking the Chains](https://open.spotify.com/album/7f89NbaCH568pUcYy6mqBq) | 3:51 |
+| 50 | [Every Rose Has Its Thorn](https://open.spotify.com/track/5qaSekPPKHIEA1Yn0qkCaC) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Open Up And Say \. \. \. Ahh!](https://open.spotify.com/album/1XKDdHnYVcbcguSX2pXoP8) | 4:20 |
 
-Snapshot ID: `MTY1NzAzNTkxNiwwMDAwMDAwMGM1NDY5ZWNkOTA1YTgwNjZiYTk3OGY4ZWQ3ZGU1ZmQ2`
+Snapshot ID: `MTY1NzAzNTkxNiwwMDAwMDAwMDc4MzY0OWY2MzMyY2MyM2Q4NTc0YWE2NTI4ZGY0NzEw`

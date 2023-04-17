@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 
 > Country rap songs, made to be cranked up\. Cover: Brantley Gilbert and Jelly Roll
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,609 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,623 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 58 | [If You're Gonna Be Dumb, You Gotta Be Tough \(From "Jackass Forever"\)](https://open.spotify.com/track/4nGSexnowpuB3BZ0Zxotru) | [DJ Paul](https://open.spotify.com/artist/2ledyuziz6YjLK5Dw483Oc), [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57) | [If You're Gonna Be Dumb, You Gotta Be Tough \(From "Jackass Forever"\)](https://open.spotify.com/album/3FAccrJLTeHLmi87LWMPCd) | 3:30 |
 | 59 | [The Dream](https://open.spotify.com/track/5TKsfF1CEzUOWe4GDhKKKh) | [Cypress Spring](https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC) | [The Dream](https://open.spotify.com/album/12sCOUpKUUFF9XS31GKRLN) | 3:12 |
 | 60 | [Country Slide](https://open.spotify.com/track/2WbgJl4hnuimyrJHYEOCz4) | [Chris Hosier](https://open.spotify.com/artist/1ZyPVE0wXLVuEGEYpoFx22) | [Was it Worth the Wait](https://open.spotify.com/album/058BIgTkc6mY12RGU1ylfm) | 2:50 |
-| 61 | [Goin' Back Down](https://open.spotify.com/track/76qjyCW5AlcxArP0X988IW) | [Redneck Social Club](https://open.spotify.com/artist/4nPrlCWAm20yBoiyE5vpr1), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx) | [Rowdy Down South](https://open.spotify.com/album/0VFRJoC5VT92Z8CcoG58sT) | 3:45 |
-| 62 | [I'm Still Me](https://open.spotify.com/track/35T4rqTGxHPv5fDfOLsjrx) | [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx) | [We The People, Vol\. 1](https://open.spotify.com/album/2JFGrU8oqUD13C8yxMFU7x) | 2:52 |
+| 61 | [I'm Still Me](https://open.spotify.com/track/35T4rqTGxHPv5fDfOLsjrx) | [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx) | [We The People, Vol\. 1](https://open.spotify.com/album/2JFGrU8oqUD13C8yxMFU7x) | 2:52 |
+| 62 | [Goin' Back Down](https://open.spotify.com/track/76qjyCW5AlcxArP0X988IW) | [Redneck Social Club](https://open.spotify.com/artist/4nPrlCWAm20yBoiyE5vpr1), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx) | [Rowdy Down South](https://open.spotify.com/album/0VFRJoC5VT92Z8CcoG58sT) | 3:45 |
 | 63 | [Slow Cookin'](https://open.spotify.com/track/32Eh7vvmKgkPpycVxrRaiX) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Slow Cookin' & Soul Food: The 2 Piece Combo](https://open.spotify.com/album/6OuoEHblnMuNFPsQLv24FC) | 3:28 |
 | 64 | [Dam](https://open.spotify.com/track/0YJRsd068DzbWWMMUiY5EJ) | [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR) | [Southern Son](https://open.spotify.com/album/0HKbTKNK8B3Am937gbxRv0) | 3:06 |
 | 65 | [Field Party](https://open.spotify.com/track/2DI1SvvgzhIybzuM0AjyvR) | [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU), [JJ Lawhorn](https://open.spotify.com/artist/3HvapZ323lwmK8tu8JsLvb) | [Mud Digger 4](https://open.spotify.com/album/2RG6477nEGHWCoyVCi7dSh) | 4:23 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 74 | [Cowboy Way](https://open.spotify.com/track/70R1opiyUhg85fPBxDNXnC) | [The Maverick Mikel Knight](https://open.spotify.com/artist/2f61PbhZSlFWpeivtUnjUg) | [Urban Cowboy \(Where the City Meets the Country\)](https://open.spotify.com/album/5DdiauojX80Z5jFYM7gGkf) | 4:38 |
 | 75 | [Southern Boy](https://open.spotify.com/track/27cntMbTvzUyvklZB6bSXP) | [Charlie Farley](https://open.spotify.com/artist/7c9KnWYDsZgK8k5QiCi9wk) | [Dirt Road Revival](https://open.spotify.com/album/69xqGT8TBqJ1ewk8LnCJMk) | 3:14 |
 
-Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDQzMjQ1MmU5MWU2MjZiYzIyNjkxNjJlYzFmMGY1YTFh`
+Snapshot ID: `MTY3ODQyNDQwMCwwMDAwMDAwMDJmMjZjNjM1ZDIzOWY0MGNjMmQ4OWRlMzYxYWVmOTc0`

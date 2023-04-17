@@ -1,12 +1,12 @@
 {
   "description": "Un surtido rico de canciones con sabor a M\u00e9xico. ",
-  "num_followers": 158565,
+  "num_followers": 158650,
   "original_name": "La Pozoliza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTE2NjI1NywwMDAwMDAwMGQ5ZDNmMGY1NGY5ZmJkN2VkNjE5NWMwNWIxMGMzN2Rl",
+  "snapshot_id": "MTY4MTE2NjI1NywwMDAwMDAwMGFkODM4YWE1ODg5NjY0OTVmOWI5MDhmY2I4Yjg3NzRi",
   "tracks": [
     {
       "added_at": "2023-02-24 16:23:47",
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/3bvJftZKZe5QKz433NczyV"
     },
     {
-      "added_at": "2023-04-16 01:14:41",
+      "added_at": "2023-04-17 00:45:48",
       "album": {
         "name": "Ya Me Entere (En Vivo)",
         "url": "https://open.spotify.com/album/0P74VgufHFNWnZrrn9Xhpe"
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/5WEt9MiZPNmCbhu8GOR9Kk"
     },
     {
-      "added_at": "2023-04-16 01:14:41",
+      "added_at": "2023-04-17 00:45:48",
       "album": {
         "name": "En Este Amor",
         "url": "https://open.spotify.com/album/6o4we0I9BrHtDb9fUXt97y"
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
     },
     {
-      "added_at": "2023-04-16 01:14:41",
+      "added_at": "2023-04-17 00:45:48",
       "album": {
         "name": "Las Guardadas",
         "url": "https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4"
@@ -221,7 +221,7 @@
       "url": "https://open.spotify.com/track/4NUt1fcnO9aQAELBgXq3Kr"
     },
     {
-      "added_at": "2023-04-16 01:14:41",
+      "added_at": "2023-04-17 00:45:48",
       "album": {
         "name": "Y Lo Volv\u00ed a Hacer",
         "url": "https://open.spotify.com/album/5DtewXaWzI7IDVLeM58u0V"
@@ -337,7 +337,7 @@
       "url": "https://open.spotify.com/track/3ahvKiNH7l6EpnTnzkZpG1"
     },
     {
-      "added_at": "2023-04-16 01:14:41",
+      "added_at": "2023-04-17 00:45:48",
       "album": {
         "name": "\u00bfY que pensabas?",
         "url": "https://open.spotify.com/album/751vmhqLIvydgEeJCfJLZk"
@@ -411,21 +411,21 @@
     {
       "added_at": "2023-02-24 16:23:47",
       "album": {
-        "name": "Desvelado",
-        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
+        "name": "En El Radio Un Cochinero",
+        "url": "https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy"
       },
       "artists": [
         {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
         }
       ],
-      "duration_ms": 221226,
-      "name": "Desvelado",
-      "url": "https://open.spotify.com/track/2JJSGhPpATm8lXeYjD95fw"
+      "duration_ms": 223431,
+      "name": "En El Radio Un Cochinero",
+      "url": "https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy"
     },
     {
-      "added_at": "2023-04-16 01:14:41",
+      "added_at": "2023-04-17 00:45:48",
       "album": {
         "name": "De Parranda Lives Vol. 5",
         "url": "https://open.spotify.com/album/0IbYtGUcmCxEqOenGvcZRh"
@@ -443,18 +443,18 @@
     {
       "added_at": "2023-02-24 16:23:47",
       "album": {
-        "name": "En El Radio Un Cochinero",
-        "url": "https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy"
+        "name": "Desvelado",
+        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
       },
       "artists": [
         {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 223431,
-      "name": "En El Radio Un Cochinero",
-      "url": "https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy"
+      "duration_ms": 221226,
+      "name": "Desvelado",
+      "url": "https://open.spotify.com/track/2JJSGhPpATm8lXeYjD95fw"
     },
     {
       "added_at": "2023-02-24 16:23:47",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-02-24 16:23:47",
       "album": {
-        "name": "Enloquecido",
-        "url": "https://open.spotify.com/album/7pm3bU5WKxGhRI5uyfOKuI"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 212915,
-      "name": "Enloquecido",
-      "url": "https://open.spotify.com/track/3T5F6ulZvDzBQwq3wS31xZ"
-    },
-    {
-      "added_at": "2023-02-24 16:23:47",
-      "album": {
         "name": "Tu Amor O Tu Desprecio",
         "url": "https://open.spotify.com/album/6335RBM5tYZal0oSZm6jvW"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 158440,
       "name": "Ni Parientes Somos",
       "url": "https://open.spotify.com/track/2ANeBRTHe6N0dq7dz7CaVJ"
+    },
+    {
+      "added_at": "2023-02-24 16:23:47",
+      "album": {
+        "name": "Enloquecido",
+        "url": "https://open.spotify.com/album/7pm3bU5WKxGhRI5uyfOKuI"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 212915,
+      "name": "Enloquecido",
+      "url": "https://open.spotify.com/track/3T5F6ulZvDzBQwq3wS31xZ"
     },
     {
       "added_at": "2023-02-24 16:23:47",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-02-24 16:23:47",
       "album": {
-        "name": "Consejos Gratis",
-        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 232178,
-      "name": "Mientes Tan Bien",
-      "url": "https://open.spotify.com/track/0Wnq2QHjYWkj70SC1B3cCJ"
-    },
-    {
-      "added_at": "2023-02-24 16:23:47",
-      "album": {
         "name": "Situaciones",
         "url": "https://open.spotify.com/album/5XvNbyN3sB7nEdhw43CPmM"
       },
@@ -1087,18 +1071,18 @@
     {
       "added_at": "2023-02-24 16:23:47",
       "album": {
-        "name": "FAVORITAS CON AMOR Vol. 2",
-        "url": "https://open.spotify.com/album/0syW2iMTuETtexNib0YXiQ"
+        "name": "Consejos Gratis",
+        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
       },
       "artists": [
         {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 228013,
-      "name": "Mi Eterno Amor Secreto",
-      "url": "https://open.spotify.com/track/5obxcZHZMJRx4ynD8SxEoz"
+      "duration_ms": 232178,
+      "name": "Mientes Tan Bien",
+      "url": "https://open.spotify.com/track/0Wnq2QHjYWkj70SC1B3cCJ"
     },
     {
       "added_at": "2023-02-24 16:23:47",
@@ -1115,6 +1099,22 @@
       "duration_ms": 196099,
       "name": "Palabra de Hombre",
       "url": "https://open.spotify.com/track/4CLkDJ4xLqkV4Vt2vPOny1"
+    },
+    {
+      "added_at": "2023-02-24 16:23:47",
+      "album": {
+        "name": "FAVORITAS CON AMOR Vol. 2",
+        "url": "https://open.spotify.com/album/0syW2iMTuETtexNib0YXiQ"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 228013,
+      "name": "Mi Eterno Amor Secreto",
+      "url": "https://open.spotify.com/track/5obxcZHZMJRx4ynD8SxEoz"
     },
     {
       "added_at": "2023-02-24 16:23:47",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-02-24 16:23:47",
       "album": {
-        "name": "Te Invito a Ser Feliz",
-        "url": "https://open.spotify.com/album/7ukaZijb4JKauWNUYv8ddm"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 196406,
-      "name": "Te Invito a Ser Feliz",
-      "url": "https://open.spotify.com/track/3bUzFhNuke83LHTBw0XhYr"
-    },
-    {
-      "added_at": "2023-02-24 16:23:47",
-      "album": {
         "name": "Hasta la Miel Amarga (feat. Grupo Firme)",
         "url": "https://open.spotify.com/album/1un5ATKBBkOD7L9d2e7sUD"
       },
@@ -1187,18 +1171,18 @@
     {
       "added_at": "2023-02-24 16:23:47",
       "album": {
-        "name": "PUNTO Y APARTE",
-        "url": "https://open.spotify.com/album/7gweMRej5j0jzExxgwreci"
+        "name": "Te Invito a Ser Feliz",
+        "url": "https://open.spotify.com/album/7ukaZijb4JKauWNUYv8ddm"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 152823,
-      "name": "Me Dej\u00e9 Ir Con Todo",
-      "url": "https://open.spotify.com/track/1kBqb0BA14qxbXrgqlLHie"
+      "duration_ms": 196406,
+      "name": "Te Invito a Ser Feliz",
+      "url": "https://open.spotify.com/track/3bUzFhNuke83LHTBw0XhYr"
     },
     {
       "added_at": "2023-02-24 16:23:47",
@@ -1215,6 +1199,22 @@
       "duration_ms": 181264,
       "name": "Tan Bella y Tan Presumida",
       "url": "https://open.spotify.com/track/2fKPwiW1FJLH3JbB1DmR0K"
+    },
+    {
+      "added_at": "2023-02-24 16:23:47",
+      "album": {
+        "name": "PUNTO Y APARTE",
+        "url": "https://open.spotify.com/album/7gweMRej5j0jzExxgwreci"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 152823,
+      "name": "Me Dej\u00e9 Ir Con Todo",
+      "url": "https://open.spotify.com/track/1kBqb0BA14qxbXrgqlLHie"
     },
     {
       "added_at": "2023-02-24 16:23:47",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2023-02-24 16:23:47",
       "album": {
+        "name": "Mi Mayor Anhelo",
+        "url": "https://open.spotify.com/album/3y4zsDJdS6o2oYprOn0XKp"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 209786,
+      "name": "Mi Mayor Anhelo",
+      "url": "https://open.spotify.com/track/0bBvuLFzIjrHm9PPyvohIA"
+    },
+    {
+      "added_at": "2023-02-24 16:23:47",
+      "album": {
         "name": "Mexicano Hasta Las Pampas",
         "url": "https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q"
       },
@@ -1347,18 +1363,18 @@
     {
       "added_at": "2023-02-24 16:23:47",
       "album": {
-        "name": "Mi Mayor Anhelo",
-        "url": "https://open.spotify.com/album/3y4zsDJdS6o2oYprOn0XKp"
+        "name": "Por Mujeres Como T\u00fa",
+        "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 209786,
-      "name": "Mi Mayor Anhelo",
-      "url": "https://open.spotify.com/track/0bBvuLFzIjrHm9PPyvohIA"
+      "duration_ms": 200480,
+      "name": "Directo Al Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/659B2PbbBVtPwJh5QkB1WB"
     },
     {
       "added_at": "2023-02-24 16:23:47",
@@ -1391,22 +1407,6 @@
       "duration_ms": 222946,
       "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
       "url": "https://open.spotify.com/track/5KSwwf96ITyukZpWfazLzS"
-    },
-    {
-      "added_at": "2023-02-24 16:23:47",
-      "album": {
-        "name": "Por Mujeres Como T\u00fa",
-        "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 200480,
-      "name": "Directo Al Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/659B2PbbBVtPwJh5QkB1WB"
     },
     {
       "added_at": "2023-02-24 16:23:47",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2023-02-24 16:23:47",
       "album": {
+        "name": "Amor Plat\u00f3nico",
+        "url": "https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 183080,
+      "name": "Espejeando",
+      "url": "https://open.spotify.com/track/6mEp3WgXcjJw5yjG2C4GuH"
+    },
+    {
+      "added_at": "2023-02-24 16:23:47",
+      "album": {
         "name": "En Vivo en el Palacio de los Deportes - 25 Aniversario",
         "url": "https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 234985,
       "name": "No Me Importa el Dinero (feat. Julieta Venegas) - Vivo en el Palacio de los Deportes",
       "url": "https://open.spotify.com/track/4wXjnoLIMTninCnKRgGsQc"
-    },
-    {
-      "added_at": "2023-02-24 16:23:47",
-      "album": {
-        "name": "Amor Plat\u00f3nico",
-        "url": "https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 183080,
-      "name": "Espejeando",
-      "url": "https://open.spotify.com/track/6mEp3WgXcjJw5yjG2C4GuH"
     },
     {
       "added_at": "2023-02-24 16:23:47",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2023-02-24 16:23:47",
       "album": {
-        "name": "Tucanes De Oro ... Secuestro De Amor",
-        "url": "https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 174160,
-      "name": "El Tucanazo",
-      "url": "https://open.spotify.com/track/07Ag8vm1pW409NrhpPokFg"
-    },
-    {
-      "added_at": "2023-02-24 16:23:47",
-      "album": {
         "name": "Direcci\u00f3n Equivocada",
         "url": "https://open.spotify.com/album/6xdmbSBueb704E5lGXGqfL"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 189093,
       "name": "Direcci\u00f3n Equivocada",
       "url": "https://open.spotify.com/track/4rS0DRx5wKCNmdLsyFb9Pk"
+    },
+    {
+      "added_at": "2023-02-24 16:23:47",
+      "album": {
+        "name": "Tucanes De Oro ... Secuestro De Amor",
+        "url": "https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 174160,
+      "name": "El Tucanazo",
+      "url": "https://open.spotify.com/track/07Ag8vm1pW409NrhpPokFg"
     },
     {
       "added_at": "2023-02-24 16:23:47",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2023-02-24 16:23:47",
       "album": {
-        "name": "Mexico en la Piel (edicion diamante)",
-        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 209213,
-      "name": "M\u00e9xico En La Piel",
-      "url": "https://open.spotify.com/track/5BPq1UQa1NSN647R6IzD3n"
-    },
-    {
-      "added_at": "2023-02-24 16:23:47",
-      "album": {
         "name": "Sincer\u00e1ndome",
         "url": "https://open.spotify.com/album/3m7RgFTpgegZrhETayZOA7"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 175172,
       "name": "Alguien Me Espera en Madrid",
       "url": "https://open.spotify.com/track/4EffpCSd0574GIKF9eKOUl"
+    },
+    {
+      "added_at": "2023-02-24 16:23:47",
+      "album": {
+        "name": "Mexico en la Piel (edicion diamante)",
+        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 209213,
+      "name": "M\u00e9xico En La Piel",
+      "url": "https://open.spotify.com/track/5BPq1UQa1NSN647R6IzD3n"
     },
     {
       "added_at": "2023-02-24 16:23:47",
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2023-02-24 16:23:47",
       "album": {
-        "name": "Bronco Amigo",
-        "url": "https://open.spotify.com/album/08xEu0Znzc82NRFdBof3B6"
-      },
-      "artists": [
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        }
-      ],
-      "duration_ms": 191493,
-      "name": "Si Te Vuelves A Enamorar",
-      "url": "https://open.spotify.com/track/1pIdEhQdhlZShpe6GoESfY"
-    },
-    {
-      "added_at": "2023-02-24 16:23:47",
-      "album": {
         "name": "Por El Amor De Siempre",
         "url": "https://open.spotify.com/album/3anZPZONnJphGTJxmFCfPC"
       },
@@ -1999,6 +1983,22 @@
       "duration_ms": 226146,
       "name": "Me Estoy Acostumbrando A Ti",
       "url": "https://open.spotify.com/track/5oZa1smfDqlY8E2rfUgUEl"
+    },
+    {
+      "added_at": "2023-02-24 16:23:47",
+      "album": {
+        "name": "Bronco Amigo",
+        "url": "https://open.spotify.com/album/08xEu0Znzc82NRFdBof3B6"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "duration_ms": 191493,
+      "name": "Si Te Vuelves A Enamorar",
+      "url": "https://open.spotify.com/track/1pIdEhQdhlZShpe6GoESfY"
     },
     {
       "added_at": "2023-02-24 16:23:47",

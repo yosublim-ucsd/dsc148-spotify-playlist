@@ -1,12 +1,12 @@
 {
   "description": "Son j\u00f3venes, guerreras y cool. Foto: RENEE",
-  "num_followers": 146485,
+  "num_followers": 146505,
   "original_name": "Mujeres del Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0MTIwMCwwMDAwMDAwMDM1NGQ3ZGQ5ZDNkODNhYjEwMzRjMWVlNTIzZGM0MGVj",
+  "snapshot_id": "MTY4MTQ0MTIwMCwwMDAwMDAwMGU1YjY2MmQ2OTY4Y2YyOWIzOGRmNjA1NTE0NmM4ZTM4",
   "tracks": [
     {
       "added_at": "2023-04-14 03:00:00",
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Nocturna",
-        "url": "https://open.spotify.com/album/5vU4ilAXgThxcO2wEuPuk3"
-      },
-      "artists": [
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
-        }
-      ],
-      "duration_ms": 149900,
-      "name": "Me Gustas T\u00fa",
-      "url": "https://open.spotify.com/track/5rKuJ17ulyXWrqtLKS4sFM"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "With Or Without You",
         "url": "https://open.spotify.com/album/2IisAcqsM5zADqUzH2TDAn"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 154337,
       "name": "With Or Without You",
       "url": "https://open.spotify.com/track/1Hl2Pkqh8ErHoYNWcnLXEB"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Nocturna",
+        "url": "https://open.spotify.com/album/5vU4ilAXgThxcO2wEuPuk3"
+      },
+      "artists": [
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "duration_ms": 149900,
+      "name": "Me Gustas T\u00fa",
+      "url": "https://open.spotify.com/track/5rKuJ17ulyXWrqtLKS4sFM"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Monstruos",
-        "url": "https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe"
-      },
-      "artists": [
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 203076,
-      "name": "Monstruos (est\u00e1 bn estar mal)",
-      "url": "https://open.spotify.com/track/2aQ9TR46OFGE40DSGhxc5o"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Esta podr\u00eda ser la se\u00f1al",
         "url": "https://open.spotify.com/album/5y5qNhfSQM4ip0yYRSdxaE"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 77890,
       "name": "Timba",
       "url": "https://open.spotify.com/track/7hEb4FubnwHYtQCT7of7Ub"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Monstruos",
+        "url": "https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 203076,
+      "name": "Monstruos (est\u00e1 bn estar mal)",
+      "url": "https://open.spotify.com/track/2aQ9TR46OFGE40DSGhxc5o"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "I Like 2 Be",
-        "url": "https://open.spotify.com/album/1cTR5iyuSGvU9kP0rZNIX8"
-      },
-      "artists": [
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 174923,
-      "name": "I Like 2 Be",
-      "url": "https://open.spotify.com/track/1KtTsGHdFznXFNqGIPovLA"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "La Negaci\u00f3n",
         "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
       },
@@ -543,8 +527,8 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Wannabe - Spotify Singles",
-        "url": "https://open.spotify.com/album/0NMh7TwL9UkwMowqDLRYMW"
+        "name": "I Like 2 Be",
+        "url": "https://open.spotify.com/album/1cTR5iyuSGvU9kP0rZNIX8"
       },
       "artists": [
         {
@@ -552,25 +536,9 @@
           "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
         }
       ],
-      "duration_ms": 152109,
-      "name": "Wannabe - Spotify Singles",
-      "url": "https://open.spotify.com/track/2Nqxtt1W2iSsqKGNL5XsN1"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "D\u00e9jame Dejarte Atr\u00e1s",
-        "url": "https://open.spotify.com/album/6ovEup64IXcmtlZIHYzAVx"
-      },
-      "artists": [
-        {
-          "name": "Paula Prieto",
-          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
-        }
-      ],
-      "duration_ms": 204775,
-      "name": "D\u00e9jame Dejarte Atr\u00e1s",
-      "url": "https://open.spotify.com/track/6pB2v73sVw1NEm8g959jPT"
+      "duration_ms": 174923,
+      "name": "I Like 2 Be",
+      "url": "https://open.spotify.com/track/1KtTsGHdFznXFNqGIPovLA"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -587,6 +555,22 @@
       "duration_ms": 299192,
       "name": "Precipicio",
       "url": "https://open.spotify.com/track/13oGKDy4OSNNW8PvpDOoxb"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "D\u00e9jame Dejarte Atr\u00e1s",
+        "url": "https://open.spotify.com/album/6ovEup64IXcmtlZIHYzAVx"
+      },
+      "artists": [
+        {
+          "name": "Paula Prieto",
+          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
+        }
+      ],
+      "duration_ms": 204775,
+      "name": "D\u00e9jame Dejarte Atr\u00e1s",
+      "url": "https://open.spotify.com/track/6pB2v73sVw1NEm8g959jPT"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -707,6 +691,38 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Wannabe - Spotify Singles",
+        "url": "https://open.spotify.com/album/0NMh7TwL9UkwMowqDLRYMW"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 152109,
+      "name": "Wannabe - Spotify Singles",
+      "url": "https://open.spotify.com/track/2Nqxtt1W2iSsqKGNL5XsN1"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Marchita",
+        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 204746,
+      "name": "Carta",
+      "url": "https://open.spotify.com/track/3umhPXp0ZFxO8XAW0NcAoE"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "No s\u00e9 qu\u00e9 tienes",
         "url": "https://open.spotify.com/album/11yf5SY78sbU0KlhflFv50"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 197493,
       "name": "PSILOCIBINA",
       "url": "https://open.spotify.com/track/4s89QYq2NW7CvrdGGRXnjg"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Marchita",
-        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 204746,
-      "name": "Carta",
-      "url": "https://open.spotify.com/track/3umhPXp0ZFxO8XAW0NcAoE"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Mango Negro",
-        "url": "https://open.spotify.com/album/2h6a8lF0snB00Jj1JsezRF"
-      },
-      "artists": [
-        {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
-        }
-      ],
-      "duration_ms": 269331,
-      "name": "P\u00e1jaro Azul",
-      "url": "https://open.spotify.com/track/32me2vQrXYrGHvtJxpxHhz"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Te Quiero Olvidar",
         "url": "https://open.spotify.com/album/7vC7hsFMfCARD5FQWiAzIY"
       },
@@ -835,22 +819,6 @@
       "duration_ms": 202519,
       "name": "Te Quiero Olvidar",
       "url": "https://open.spotify.com/track/7HsVyALWw7ILw9wqNJGcUw"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Helado de Mango",
-        "url": "https://open.spotify.com/album/0aWD6AMbVemB4o2jJhiBub"
-      },
-      "artists": [
-        {
-          "name": "Na\u00efa Valdez",
-          "url": "https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA"
-        }
-      ],
-      "duration_ms": 208434,
-      "name": "Helado de Mango",
-      "url": "https://open.spotify.com/track/6Ic36Kj94nFDc2NHsqvo59"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -871,6 +839,38 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Mango Negro",
+        "url": "https://open.spotify.com/album/2h6a8lF0snB00Jj1JsezRF"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        }
+      ],
+      "duration_ms": 269331,
+      "name": "P\u00e1jaro Azul",
+      "url": "https://open.spotify.com/track/32me2vQrXYrGHvtJxpxHhz"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Helado de Mango",
+        "url": "https://open.spotify.com/album/0aWD6AMbVemB4o2jJhiBub"
+      },
+      "artists": [
+        {
+          "name": "Na\u00efa Valdez",
+          "url": "https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA"
+        }
+      ],
+      "duration_ms": 208434,
+      "name": "Helado de Mango",
+      "url": "https://open.spotify.com/track/6Ic36Kj94nFDc2NHsqvo59"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "Excusas",
         "url": "https://open.spotify.com/album/1HdFSJuwUiodRazWiyoovN"
       },
@@ -883,26 +883,6 @@
       "duration_ms": 239960,
       "name": "Excusas",
       "url": "https://open.spotify.com/track/6FCy6lQw7O7GMu17tbA4eb"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Pensar en Ti",
-        "url": "https://open.spotify.com/album/4JqpGaYWAdPnQJiBqnSzeF"
-      },
-      "artists": [
-        {
-          "name": "Ganges",
-          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
-        },
-        {
-          "name": "Natalia Lacunza",
-          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
-        }
-      ],
-      "duration_ms": 219642,
-      "name": "Pensar en Ti",
-      "url": "https://open.spotify.com/track/4phOa75nrH2sCq475pwBq2"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -923,6 +903,26 @@
       "duration_ms": 149773,
       "name": "Ya No",
       "url": "https://open.spotify.com/track/5bMLNuQL14zhYpIg2VFIIO"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Pensar en Ti",
+        "url": "https://open.spotify.com/album/4JqpGaYWAdPnQJiBqnSzeF"
+      },
+      "artists": [
+        {
+          "name": "Ganges",
+          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
+        },
+        {
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+        }
+      ],
+      "duration_ms": 219642,
+      "name": "Pensar en Ti",
+      "url": "https://open.spotify.com/track/4phOa75nrH2sCq475pwBq2"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "qu\u00e9 bueno!",
-        "url": "https://open.spotify.com/album/5NF8Q7vFhmT1RJ15czoEL7"
-      },
-      "artists": [
-        {
-          "name": "Noa Sainz",
-          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
-        }
-      ],
-      "duration_ms": 157394,
-      "name": "qu\u00e9 bueno!",
-      "url": "https://open.spotify.com/track/5oxWWmZLJIH0y6v2isD7Lt"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Serenidad",
         "url": "https://open.spotify.com/album/7ryFCViJ1ruW7WR1OMlFsV"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 208250,
       "name": "Serenidad",
       "url": "https://open.spotify.com/track/5bLHfX6WgqwjSRiPx5AQ3n"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "qu\u00e9 bueno!",
+        "url": "https://open.spotify.com/album/5NF8Q7vFhmT1RJ15czoEL7"
+      },
+      "artists": [
+        {
+          "name": "Noa Sainz",
+          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
+        }
+      ],
+      "duration_ms": 157394,
+      "name": "qu\u00e9 bueno!",
+      "url": "https://open.spotify.com/track/5oxWWmZLJIH0y6v2isD7Lt"
     },
     {
       "added_at": "2023-04-14 03:00:00",

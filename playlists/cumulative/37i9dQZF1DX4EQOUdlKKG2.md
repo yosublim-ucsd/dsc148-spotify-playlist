@@ -4,7 +4,7 @@
 
 > i'm glad i didn't die before i met you.
 
-67 songs - 4 hr 10 min
+68 songs - 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Follow You](https://open.spotify.com/track/6lFUdRItQEsEuD7dSINL47) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:51 | 2023-02-04 |  |
 | [For Me This Is Heaven](https://open.spotify.com/track/64Kk49W8HFh22diWSBVxCr) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Clarity \(Expanded Edition\)](https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4) | 4:06 | 2023-02-04 |  |
 | [Forever and Always](https://open.spotify.com/track/03IARX7s1aJZlDDvn8mJ2Z) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Scream Aim Fire](https://open.spotify.com/album/04VE36yBM6GyJpDtD61e0p) | 6:46 | 2023-02-04 |  |
-| [FUNERAL GREY](https://open.spotify.com/track/4ORdQW5NLKO3b0RUeBMIrs) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/7exaI7MyauQNCOqbyqU27C) | 2:44 | 2023-02-04 |  |
+| [FUNERAL GREY](https://open.spotify.com/track/4ORdQW5NLKO3b0RUeBMIrs) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/7exaI7MyauQNCOqbyqU27C) | 2:44 | 2023-02-04 | 2023-04-17 |
+| [FUNERAL GREY](https://open.spotify.com/track/6Rebnr2UDaxxg3VNe6CBg2) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:44 | 2023-02-14 |  |
 | [Grand Theft Autumn / Where Is Your Boy](https://open.spotify.com/track/3JOdLCIBzQYwHIvpN3isVf) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Take This to Your Grave](https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY) | 3:11 | 2023-02-04 |  |
 | [Gum](https://open.spotify.com/track/0ty8clX5vC9cc08KqywES5) | [Moose Blood](https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q) | [I'll Keep You In Mind, From Time to Time](https://open.spotify.com/album/7aMvv0lYIhPyudfM1TmItV) | 3:01 | 2023-02-04 |  |
 | [Hands Down](https://open.spotify.com/track/6yVSp9H2STyLeOs7pjy2w4) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [A Mark, A Mission, A Brand, A Scar](https://open.spotify.com/album/3I4DmkyMBifLVwrCT3eQ82) | 3:06 | 2023-02-04 |  |

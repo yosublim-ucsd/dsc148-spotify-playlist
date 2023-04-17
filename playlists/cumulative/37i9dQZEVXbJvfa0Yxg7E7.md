@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-1,052 songs - 2 day 6 hr 47 min
+1,054 songs - 2 day 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,14 +150,15 @@
 | [Can't Fight This Feeling](https://open.spotify.com/track/43iNYsPSurHdZRr1CTpz4D) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Can't Fight This Feeling](https://open.spotify.com/album/25QAKqG8nuPXuLh91PnB0B) | 3:01 | 2022-10-15 | 2022-10-23 |
 | [Can't Tame Her](https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Can't Tame Her](https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7) | 3:16 | 2023-01-28 |  |
 | [Candy](https://open.spotify.com/track/3gYVC6X3m0CsRPvfDWmHuC) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Candy](https://open.spotify.com/album/6xMAkkAcIgn4dNtehd3me6) | 2:15 | 2021-06-20 | 2021-07-05 |
-| [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2023-02-23 |  |
+| [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2023-02-23 | 2023-04-17 |
 | [Celestial](https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Celestial](https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29) | 3:29 | 2022-10-01 | 2022-10-06 |
 | [Celestial](https://open.spotify.com/track/7xTDT7gyIrv0xWpwwXExxU) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [= \(Tour Edition\)](https://open.spotify.com/album/4Hmz9dqVLEO7eVcXNTqkH2) | 3:29 | 2022-10-05 | 2022-10-09 |
 | [Champagne Poetry](https://open.spotify.com/track/2HSmyk2qMN8WQjuGhaQgCk) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 5:36 | 2021-09-05 | 2021-09-12 |
 | [Chanel \(feat\. Oscar Blesson\)](https://open.spotify.com/track/16yxSuFoElyE1rXVreeAwc) | [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE), [Oscar Blesson](https://open.spotify.com/artist/34yalNbmu76FgEtORg2yVp) | [Chanel \(feat\. Oscar Blesson\)](https://open.spotify.com/album/7sJ6GDv3MiWdtefpLrKUoy) | 2:52 | 2022-08-13 | 2022-08-15 |
 | [chaotic](https://open.spotify.com/track/2bdqU7C4softKNcMYDFi96) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [chaotic](https://open.spotify.com/album/1nZmxiUXBgZZ82fy5A0yau) | 2:58 | 2022-03-26 | 2022-04-24 |
 | [Chasing Stars \(feat\. James Bay\)](https://open.spotify.com/track/6y6xhAgZjvxy5kR5rigpY3) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chasing Stars \(feat\. James Bay\)](https://open.spotify.com/album/09vWMvGsbMxlVuFS7hCsf6) | 2:50 | 2021-08-22 | 2021-08-23 |
-| [Chemical](https://open.spotify.com/track/4qzEjmuz380jeiBJp31oDY) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/6NoH5RUtjoh6ae2lJ9gWfq) | 3:04 | 2023-04-15 |  |
+| [Chemical](https://open.spotify.com/track/4qzEjmuz380jeiBJp31oDY) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/6NoH5RUtjoh6ae2lJ9gWfq) | 3:04 | 2023-04-15 | 2023-04-17 |
+| [Chemical](https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA) | 3:04 | 2023-04-16 |  |
 | [Christmas Lights](https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Christmas Lights](https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy) | 4:02 | 2021-11-30 | 2022-12-29 |
 | [CHURCH GIRL](https://open.spotify.com/track/2mqTtvbKxH7SoEQ2oGAnsA) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:44 | 2022-07-30 | 2022-08-01 |
 | [Cigarettes](https://open.spotify.com/track/42Xba467wgGvYrR2EE6s0i) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Cigarettes](https://open.spotify.com/album/5OI7dLXwSZFtOnB3aQtCGi) | 3:47 | 2022-02-05 | 2022-02-07 |
@@ -988,6 +989,7 @@
 | [TRUSTFALL](https://open.spotify.com/track/1gUwi1o1S9W9P0FQgJdY8s) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ) | 3:57 | 2023-02-19 | 2023-02-26 |
 | [TRUSTFALL](https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt) | 3:57 | 2023-02-04 | 2023-02-20 |
 | [TSU](https://open.spotify.com/track/4s7QLoImIwmPi9L6dq1nVW) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 5:08 | 2021-09-05 | 2021-09-09 |
+| [Turné](https://open.spotify.com/track/6lEjeruLQP9MAnKKzThhsv) | [Brødrene Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [Turné](https://open.spotify.com/album/6IckHChPtlWt1NhCb4aDyW) | 2:54 | 2023-04-16 |  |
 | [Tusen tanker](https://open.spotify.com/track/1W7WTGXs3mQgvSDKZl67EO) | [William](https://open.spotify.com/artist/0nh7QCv37pMZFIN6vRKidB), [MGPjr](https://open.spotify.com/artist/5k1e5WmyFzUoOXLqXfF3ws) | [MGPjr 2022](https://open.spotify.com/album/36kZ9QnvUOEvsyGXy2agj3) | 2:51 | 2022-05-30 | 2022-06-01 |
 | [Tusen Tårer](https://open.spotify.com/track/1Uub0xkh0QgAQjJ7v5cqy7) | [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9) | [Tusen Tårer](https://open.spotify.com/album/5SMhtESEwRQFx89cUr6wsl) | 2:21 | 2021-05-21 | 2021-05-27 |
 | [Tusen Tårer RifMix](https://open.spotify.com/track/3rltcQNi2sOLr9yJJUZd0m) | [Arif](https://open.spotify.com/artist/3l4RyQwQ0kHZ9Q9cQbRNMr), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Tusen Tårer RifMix](https://open.spotify.com/album/103tsYWETpTUU1yPbiz4iB) | 2:29 | 2022-01-03 | 2022-01-15 |

@@ -4,7 +4,7 @@
 
 > This is KURT\. The essential tracks, all in one playlist.
 
-56 songs - 3 hr 23 min
+57 songs - 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Leyenda](https://open.spotify.com/track/579JzwW1xZKakL7FwFH79r) | [Lucah](https://open.spotify.com/artist/2L0nCuTUHFPHC3Y8uqbUKw), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Leyenda](https://open.spotify.com/album/4Y29vgiupwmAA5uy7xQLBm) | 4:12 | 2023-03-19 |  |
 | [Lolis](https://open.spotify.com/track/03qqmwlMWMa6yQP84Z4fmB) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [La Vida](https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs) | 2:36 | 2023-04-01 |  |
 | [Los Días Que Vendrán](https://open.spotify.com/track/2qmRGDSS7kQ0mRjfuNso9T) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Los Claxons](https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf) | [En Medio De Este Ruido](https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj) | 3:27 | 2023-03-19 |  |
+| [Loup](https://open.spotify.com/track/0vlAgGb9uEggSg6UEE7tME) | [RAISAIN](https://open.spotify.com/artist/1gdqmzAlBBZ2HL078KlSGt), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Hoods](https://open.spotify.com/album/4UjA9gB2ct0Tyiy9ryI15d) | 2:33 | 2023-04-16 |  |
 | [Luna y Marea \(feat\. KURT\)](https://open.spotify.com/track/5Z2gkSJIibMCdbE7TWceE6) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Luna y Marea \(feat\. KURT\)](https://open.spotify.com/album/3lekI28ahWodrOaaRgmmae) | 3:48 | 2023-03-19 |  |
 | [Me Entrego](https://open.spotify.com/track/2lft7FPs5Js1tYbwZ99wvc) | [Juan Solo](https://open.spotify.com/artist/033ki1tu7MbVUn1nhuD2yV), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Me Entrego](https://open.spotify.com/album/2jhUW0bDLjyfORs3KGiuS4) | 3:27 | 2023-03-19 |  |
 | [Nadie Nos Entiende](https://open.spotify.com/track/0lvQ5BPdyuOKqNqhptZsrA) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Willy Rodríguez](https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee) | [Nadie Nos Entiende](https://open.spotify.com/album/6Vbahwg4jyo7Z64F8z9Ky2) | 3:37 | 2023-03-19 |  |
@@ -48,7 +49,7 @@
 | [NQSTA](https://open.spotify.com/track/1h2tfXtkM7UiXP4Leq9Bvu) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [NQSTA](https://open.spotify.com/album/2vX2gLMycyORhu96EEWqi0) | 3:04 | 2023-03-19 |  |
 | [Otra Liza \(Con KURT\)](https://open.spotify.com/track/0aVenGt1PXTHpVG4EfzUX5) | [Alfred García](https://open.spotify.com/artist/0CQgFG7XHyXRpSi24kl0cx), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [1997](https://open.spotify.com/album/0klkzmA0qpleznc4TCug5e) | 3:34 | 2023-03-19 |  |
 | [Por Su Amor \(with KURT\)](https://open.spotify.com/track/4YdQIvvHkj5jzcFUURKHe3) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Por Su Amor \(with KURT\)](https://open.spotify.com/album/0hj1gYgviTYvdi2nRxyMzP) | 3:41 | 2023-03-19 |  |
-| [Prometo](https://open.spotify.com/track/2sml6OCdt6e1UgcWekUJO4) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Prometo](https://open.spotify.com/album/2E3vqnGi7DA7r5DTfIHA5D) | 3:21 | 2023-03-19 |  |
+| [Prometo](https://open.spotify.com/track/2sml6OCdt6e1UgcWekUJO4) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Prometo](https://open.spotify.com/album/2E3vqnGi7DA7r5DTfIHA5D) | 3:21 | 2023-03-19 |  |
 | [Qué Suerte](https://open.spotify.com/track/0xlvFISds9itCX4EUX6wMp) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Qué Suerte](https://open.spotify.com/album/2e1pigjsm0n9gxjum8jQg6) | 2:45 | 2023-03-19 |  |
 | [Roto](https://open.spotify.com/track/5muxDDRz7Y1m9leVgwTUrD) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Roto](https://open.spotify.com/album/5763P0o9ruO8OZ4Dwey7sf) | 2:45 | 2023-03-19 |  |
 | [Se Fuerte Corazón](https://open.spotify.com/track/6d9NFWpK97HEqAnE5tsnZw) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido](https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj) | 4:12 | 2023-03-19 |  |

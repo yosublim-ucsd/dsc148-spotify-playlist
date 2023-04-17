@@ -4,7 +4,7 @@
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Aly & AJ
 
-265 songs - 15 hr 14 min
+266 songs - 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Fighter](https://open.spotify.com/track/2rCp1guc98g6pxqWELfh2b) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Good Luck, Kid](https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi) | 3:41 | 2021-11-12 | 2022-07-29 |
 | [Find a Way](https://open.spotify.com/track/0vud1aGRNlwzuVGE3AfWzs) | [King Charles](https://open.spotify.com/artist/6QKDcdjtwqu4E7rztEUQu5) | [Find a Way](https://open.spotify.com/album/4QQBvcwZJG6gCE1WsyCRV7) | 3:56 | 2021-11-12 | 2022-01-14 |
 | [Find Another Reason Why](https://open.spotify.com/track/69K5FXo7lvM6lyiudqJWni) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Find Another Reason Why](https://open.spotify.com/album/47dBDQRH04eRYA4lKByNMF) | 3:18 | 2021-11-12 |  |
+| [First Place](https://open.spotify.com/track/2nVmUsEIdqVYQG0BTzPdk4) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Powerlines](https://open.spotify.com/album/3fA793BjWaUIqwknayn2OX) | 3:16 | 2023-04-14 |  |
 | [For All You Give](https://open.spotify.com/track/6LLb6rVMgQnGNZwwHSxTzn) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Roses](https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD) | 3:11 | 2022-03-12 |  |
 | [For All You Give \(feat\. Lucy Rose\)](https://open.spotify.com/track/3YRFxtNz0CCiBYmZO0rPdr) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Roses](https://open.spotify.com/album/5EY9uxrUOSqG64coGCPA6q) | 3:11 | 2021-11-12 | 2022-07-29 |
 | [Frightening Fishes \- Main Title Theme from "Shrinking"](https://open.spotify.com/track/487RnLlaejLyPI7l5B8lwm) | [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL), [Tom Howe](https://open.spotify.com/artist/5784JqAJvI24V2Kr3xhoX6) | [Frightening Fishes \(Main Title Theme from "Shrinking"\)](https://open.spotify.com/album/0O0qqVsk0ISz2cu2pAI5jY) | 2:27 | 2023-03-24 | 2023-03-29 |
@@ -253,7 +254,7 @@
 | [We’re All Gonna Die \(with Noah Kahan\)](https://open.spotify.com/track/2Eb2TKNAaE15Fqd4A3MFWU) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [We’re All Gonna Die](https://open.spotify.com/album/1uiwlKORLzoDvBsDiLdkm4) | 2:59 | 2023-03-17 |  |
 | [What I Do](https://open.spotify.com/track/27V9QAXyt9u9itQpS7A7lO) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Palomar Parade](https://open.spotify.com/album/10BcjSFPmPwUtHyqHfKkQh) | 3:35 | 2022-10-14 |  |
 | [What to Do](https://open.spotify.com/track/01yXBrB0ddIzRaIfGk3ZrG) | [Bandits on the Run](https://open.spotify.com/artist/40wE5c0s5AtxRwWXoPzBg6) | [The Criminal Record](https://open.spotify.com/album/4mPo1YkLytNQdFAl4fNaHV) | 3:48 | 2021-11-12 | 2022-07-28 |
-| [When We Were Young](https://open.spotify.com/track/5OxWNIpnedq0bhdUhmNrJT) | [Falls](https://open.spotify.com/artist/0SP0jz4htYhpiCuNEvKr0l) | [Omaha](https://open.spotify.com/album/7BfVNstl3oipb2ZGWyKQxH) | 3:18 | 2022-03-12 |  |
+| [When We Were Young](https://open.spotify.com/track/5OxWNIpnedq0bhdUhmNrJT) | [Falls](https://open.spotify.com/artist/0SP0jz4htYhpiCuNEvKr0l) | [Omaha](https://open.spotify.com/album/7BfVNstl3oipb2ZGWyKQxH) | 3:18 | 2022-03-12 | 2023-04-17 |
 | [When We Were Young](https://open.spotify.com/track/1Bj7N8qzv0KWCxvq4gfOTL) | [Falls](https://open.spotify.com/artist/0SP0jz4htYhpiCuNEvKr0l) | [When We Were Young](https://open.spotify.com/album/2G6RcYjfQUR17vfk84vBCB) | 3:18 | 2021-11-12 | 2022-07-09 |
 | [Where Did It All Go Wrong?](https://open.spotify.com/track/6Y9BWmwnCMUrWc5JIKiaH8) | [Hudson Taylor](https://open.spotify.com/artist/4DX2G1URzfEiRg2wBfv4ub) | [Where Did It All Go Wrong?](https://open.spotify.com/album/32bltuj5LwBVSJvUpzanqX) | 3:39 | 2021-11-12 | 2022-07-29 |
 | [Where You Wanna Go \(feat\. Emily Hearn\)](https://open.spotify.com/track/515piq1R1TK9U8j4JUbFXH) | [Graham Colton](https://open.spotify.com/artist/3bCmhyXqTr9ZNGlHNYNTFA), [Emily Hearn](https://open.spotify.com/artist/4LuEEQLErHvNdZDxEWf6W1) | [Where You Wanna Go \(feat\. Emily Hearn\)](https://open.spotify.com/album/6fZ8MA8RC4wu1BbGeYKgox) | 3:24 | 2022-02-21 | 2022-06-14 |

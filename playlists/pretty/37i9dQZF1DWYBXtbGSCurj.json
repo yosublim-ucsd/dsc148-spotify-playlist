@@ -1,12 +1,12 @@
 {
   "description": "O Trap brasileiro puro ouro, entre lan\u00e7amentos e hits. Foto: Ryu the Runner, Mateca",
-  "num_followers": 345077,
+  "num_followers": 345238,
   "original_name": "Trap Ouro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0MTI2MCwwMDAwMDAwMDg5NjJjM2Q2Y2QyYmMwZjdkNzBjNjY5NDUwMjYzMTU0",
+  "snapshot_id": "MTY4MTQ0MTI2MCwwMDAwMDAwMDU2MjUzZGEzYTE0N2Y0NjVjNzRhOGFmYjhlN2YwYWNk",
   "tracks": [
     {
       "added_at": "2023-04-14 03:01:00",
@@ -22,10 +22,6 @@
         {
           "name": "Mateca",
           "url": "https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU"
-        },
-        {
-          "name": "Trap Select",
-          "url": "https://open.spotify.com/artist/1VlNGdzvBRtCDPi18GuX91"
         }
       ],
       "duration_ms": 157741,
@@ -815,22 +811,30 @@
     {
       "added_at": "2023-04-14 03:01:00",
       "album": {
-        "name": "NUNCA SOZ\u0130NHO",
-        "url": "https://open.spotify.com/album/1qF4rCJnQ6wnIHeIfK6BOk"
+        "name": "Nunca Sozinho",
+        "url": "https://open.spotify.com/album/5UDKZWc01Bse8OGYCR2wpb"
       },
       "artists": [
         {
-          "name": "hamza7",
-          "url": "https://open.spotify.com/artist/7541kRGbFjmVsqPV4CMVzp"
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
         },
         {
-          "name": "Votabia",
-          "url": "https://open.spotify.com/artist/4klGZvLtbfhDtrdTTS2EhK"
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka"
         }
       ],
-      "duration_ms": 137647,
-      "name": "NUNCA SOZ\u0130NHO",
-      "url": "https://open.spotify.com/track/0HAvN3XZPCnOrfFIFGcXp6"
+      "duration_ms": 137102,
+      "name": "Nunca Sozinho",
+      "url": "https://open.spotify.com/track/0uGpWtQgtZ6UcFXnFiNhNq"
     },
     {
       "added_at": "2023-04-14 03:01:00",

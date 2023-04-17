@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 
 > Uma seleção sertaneja para você curtir a sua paixão sem limites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 903,194 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 903,721 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 | 9 | [MORENA](https://open.spotify.com/track/4PQdrXMDHDPl1RczrrlADd) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [MORENA](https://open.spotify.com/album/4nGg3WC1UXnrDdlF1E2urv) | 3:13 |
 | 10 | [Supera \- Ao Vivo](https://open.spotify.com/track/3GmJxfnUDrIs1iCfKUELFz) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Todos Os Cantos, Vol\. 3 \(Ao Vivo\)](https://open.spotify.com/album/0q1sCNFTFPy66A2zeK8qh5) | 2:27 |
 | 11 | [O Que É Que Tem](https://open.spotify.com/track/1p6dBmCdP7xh3OMTYJDZPK) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Live In London \- At The Royal Albert Hall](https://open.spotify.com/album/6nE1C92IIZQBnlYLxObRHW) | 3:35 |
-| 12 | [Dois Enganados](https://open.spotify.com/track/7McCAKExE8KsI2q4Y8wx4U) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Pra Ouvir Tomando Uma, Vol\. 1](https://open.spotify.com/album/34wbTHXH6UAGPJKrl3VXOs) | 2:52 |
-| 13 | [Caso Indefinido \- Ao Vivo](https://open.spotify.com/track/54TwNxgRorpA9lsStXcv0k) | [Cristiano Araújo](https://open.spotify.com/artist/4HF14RSTZQcEafvfPCFEpI) | [In The Cities \- Ao Vivo Em Cuiabá](https://open.spotify.com/album/5nGde95l1DJcFZCB3NOduX) | 5:13 |
+| 12 | [Caso Indefinido \- Ao Vivo](https://open.spotify.com/track/54TwNxgRorpA9lsStXcv0k) | [Cristiano Araújo](https://open.spotify.com/artist/4HF14RSTZQcEafvfPCFEpI) | [In The Cities \- Ao Vivo Em Cuiabá](https://open.spotify.com/album/5nGde95l1DJcFZCB3NOduX) | 5:13 |
+| 13 | [Dois Enganados](https://open.spotify.com/track/7McCAKExE8KsI2q4Y8wx4U) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Pra Ouvir Tomando Uma, Vol\. 1](https://open.spotify.com/album/34wbTHXH6UAGPJKrl3VXOs) | 2:52 |
 | 14 | [Briga Feia \- Ao Vivo](https://open.spotify.com/track/7bukHRNgGLRySTJEVvLoIR) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Ao Vivo No Ibirapuera](https://open.spotify.com/album/5ExfGmxdqydd3vgdLdRR8f) | 3:14 |
 | 15 | [Medo Bobo \- Ao Vivo](https://open.spotify.com/track/2CW04trIoYMbroZWDzPAjs) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Ao Vivo Em Goiânia](https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha) | 2:54 |
 | 16 | [Facas \- Ao Vivo](https://open.spotify.com/track/1ere9b9vDw2N3m9d4uiXxa) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Facas \(Ao Vivo\)](https://open.spotify.com/album/0t4odyaTT5r6RJ7L2CjR8q) | 3:16 |
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 | 28 | [Contramão \- Ao Vivo](https://open.spotify.com/track/5g2HVlqROusgDTtun6Y5Tn) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Gustavo Mioto Ao Vivo Em São Paulo](https://open.spotify.com/album/7LTRGI9fTyJjXxYIuGjGQy) | 3:11 |
 | 29 | [Ciumeira \- Ao Vivo](https://open.spotify.com/track/7D5F5BzIon5zhzQrOU2pdN) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Todos Os Cantos, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/4HpiwfnQvs867JNWeLy1vr) | 3:10 |
 | 30 | [Namorando Com Saudade](https://open.spotify.com/track/6m84TzSTM5nbwZxIxkYHz6) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Tudo Em Paz](https://open.spotify.com/album/57h6WHDjwNGIs5NMeKYEoL) | 2:54 |
-| 31 | [Beijo Bêbado](https://open.spotify.com/track/3BigzTTQfP3xSLPKATYSop) | [Jonas Esticado](https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag) | [Beijo Bêbado](https://open.spotify.com/album/470aKYBGvnxmnTp9ewZQtW) | 2:48 |
+| 31 | [3 Batidas \- Ao Vivo](https://open.spotify.com/track/1uryupl9hqVZYurJwH4G9k) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [3 Batidas \(Ao Vivo\)](https://open.spotify.com/album/2s2XNO2C38JP3NVOp8zkm4) | 2:37 |
 | 32 | [Mágica \- Live](https://open.spotify.com/track/5cN5ZOVcYBl4Lnq50Zeqsx) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Tem Moda Pra Tudo \(Ao Vivo\)](https://open.spotify.com/album/43Z8iIpoxaCrr27KILZJzs) | 2:41 |
-| 33 | [3 Batidas \- Ao Vivo](https://open.spotify.com/track/1uryupl9hqVZYurJwH4G9k) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [3 Batidas \(Ao Vivo\)](https://open.spotify.com/album/2s2XNO2C38JP3NVOp8zkm4) | 2:37 |
+| 33 | [Beijo Bêbado](https://open.spotify.com/track/3BigzTTQfP3xSLPKATYSop) | [Jonas Esticado](https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag) | [Beijo Bêbado](https://open.spotify.com/album/470aKYBGvnxmnTp9ewZQtW) | 2:48 |
 | 34 | [Serenata \- Ao Vivo](https://open.spotify.com/track/5fY9bVl1Wj4PIM3wnduWop) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Todos Os Cantos, Vol\. 2 \(ao Vivo\)](https://open.spotify.com/album/3mTbv6MyAR4KEDh0w8s9Nk) | 2:36 |
 | 35 | [De Trás Pra Frente \- Ao Vivo](https://open.spotify.com/track/6Tp4LCJ5r5IJaEf8lnlPfG) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [O Céu Explica Tudo \(Ao Vivo\)](https://open.spotify.com/album/6UuPk9eKMZBEr0HizvV2Wy) | 2:43 |
 | 36 | [Status Que Eu Não Queria \- Ao Vivo](https://open.spotify.com/track/43tDjfz9Inw7Soy0jzxowN) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Esquece o Mundo Lá Fora \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN) | 2:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 | 49 | [Amor Da Sua Cama](https://open.spotify.com/track/5rq31V6YJVklhB7HxXn9I8) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB) | [Amor Da Sua Cama](https://open.spotify.com/album/2FlH6Ha4zVKWQwCoOt8ldv) | 3:08 |
 | 50 | [Apelido Carinhoso](https://open.spotify.com/track/5xYsacjSZrSYJQDacIs0tq) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Buteco do Gusttavo Lima, Vol\. 2](https://open.spotify.com/album/1quJKGITMBDF2S4x0Zl2Vn) | 3:19 |
 
-Snapshot ID: `MTY4MDgzNjU4MCwwMDAwMDAwMGZiYmU4ZDMzMDE4OWJjNTMwNmE4NTlmZGE2Zjk5NDQz`
+Snapshot ID: `MTY4MDgzNjU4MCwwMDAwMDAwMGUzNzJhZGUzZTUwOTFiMWNmNzA5ZDg3N2YxN2EzMzlj`

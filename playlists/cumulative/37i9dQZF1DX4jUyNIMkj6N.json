@@ -2391,6 +2391,24 @@
     },
     {
       "album": {
+        "name": "Br\u00e5tebrann (Vinyl Edition)",
+        "url": "https://open.spotify.com/album/6LAlzrbGc9DCpnKHRDWN1F"
+      },
+      "artists": [
+        {
+          "name": "Moddi",
+          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288973,
+      "name": "Spor i sand",
+      "url": "https://open.spotify.com/track/7qGuTkxiZ3Uxtr4aI8bxmE"
+    },
+    {
+      "album": {
         "name": "Starting Again",
         "url": "https://open.spotify.com/album/5IrLKl3WwY03Kmzar5n9Ds"
       },
@@ -2814,7 +2832,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 219413,
       "name": "The Sweetest Tune",
       "url": "https://open.spotify.com/track/4vDxQKlCJVfsTdK4g9eA5x"

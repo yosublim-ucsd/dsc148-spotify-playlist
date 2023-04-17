@@ -4,7 +4,7 @@
 
 > Sa k'ap fèt! Enjoy Haiti’s national music, a smooth modern méringue sound.
 
-40 songs - 3 hr 22 min
+41 songs - 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Cheri Benyen M'](https://open.spotify.com/track/2wg48LXBy2TNxgx72sxGEj) | [Harmonik](https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH) | [Degaje](https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF) | 4:31 | 2020-06-03 |  |
 | [Chokola](https://open.spotify.com/track/7IIsViFUZYneEz5md6Azse) | [Alan Cavé](https://open.spotify.com/artist/1tNzo7FgikOLSyk1xf3cR2) | [Rotary International Abidjan](https://open.spotify.com/album/0hzRwW1Jq1U2VNtGph8QLG) | 5:25 | 2020-06-03 |  |
 | [Fanm Sa a Move](https://open.spotify.com/track/5dIb9hXtgboh7H50zFhwfM) | [Mikaben](https://open.spotify.com/artist/3KoKlLuiiCm6rUS9BO89Fp), [Carimi](https://open.spotify.com/artist/7sDhzCtTnUnJc3drYannat) | [Atis Lokal Pap Janm Lague](https://open.spotify.com/album/5mIhKdY0S8JUMvlOHzC4Cy) | 4:45 | 2020-06-03 |  |
+| [Fè Sa W Vle Avè M'](https://open.spotify.com/track/4NqjBifd47mrbbieZ0KNkz) | [K\-Zino](https://open.spotify.com/artist/0ByJbRK16DdCPnCztvgtuW) | [Transition](https://open.spotify.com/album/2wsl13HiIsHw6wgACS87Tp) | 4:07 | 2020-06-03 |  |
 | [Gen Bagay](https://open.spotify.com/track/3QGvZ2bW5WCZ8J6oVoj9ky) | [Yani Martelly](https://open.spotify.com/artist/51Mb7I2woAMIK6DOiMlfuy), [Kenny](https://open.spotify.com/artist/3a1zFnNXUZDXoIwhHGdN6f) | [Gen Bagay](https://open.spotify.com/album/2c17yCuqm2HgVmPldv3vhV) | 3:14 | 2020-06-03 |  |
 | [Gouyé](https://open.spotify.com/track/116sqvAfJGse17D2vOqjSR) | [Jim Rama](https://open.spotify.com/artist/0lBsfiyz1qHN8F8alOIE60), [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ) | [Nouvel R](https://open.spotify.com/album/7t73llYw1dPOBpewNut9GD) | 4:42 | 2020-06-03 |  |
 | [Grev Bèbè](https://open.spotify.com/track/6tsLuq6GUSaoMLScuuAL8I) | [Zenglen](https://open.spotify.com/artist/2yxotUcQyVGm6LGYfPW8Mj) | [No Dead End](https://open.spotify.com/album/7sUJTtv1O1MbTD31ykgqlT) | 5:16 | 2020-06-03 |  |
@@ -45,7 +46,7 @@
 | [Tu me manques](https://open.spotify.com/track/2tjdUXAQO53oMqpRoA4bwP) | [Harry Diboula](https://open.spotify.com/artist/57BxOfFiszAxhvXp5gE5Hn) | [Entre vous et moi \(32 Hits\)](https://open.spotify.com/album/2FLvO78SIGxE9bDTliU2uB) | 4:27 | 2020-06-03 |  |
 | [Vini'm pale w](https://open.spotify.com/track/6g5RSwKEjeFPv9hbrIzje3) | [Black Parents](https://open.spotify.com/artist/4sJwSh8yGNJU0WB6VSepG9) | [Et pourtant](https://open.spotify.com/album/5xAp6DJADF4JaqeStTnJRp) | 5:01 | 2020-06-03 |  |
 | [Wet the hell map vini \- Zouk](https://open.spotify.com/track/3jTIX1lylzAwOIdBjZC3t2) | [Zo Konpa](https://open.spotify.com/artist/5ZAbRapf7rFYPjxPYuQlG5) | [Mete'm alez](https://open.spotify.com/album/0EbHjaICJ8Zzrj7wwjl2ep) | 4:53 | 2020-06-03 |  |
-| [What About Tomorrow](https://open.spotify.com/track/1r3NNzzdvjnVS6UEEe6tVk) | [Nu\-Look](https://open.spotify.com/artist/3GHVlKRurzupQYaoB5x9uB) | [I Got This](https://open.spotify.com/album/3RayyqJSPC8S0YGJQUqCAl) | 6:28 | 2020-06-03 |  |
+| [What About Tomorrow](https://open.spotify.com/track/1r3NNzzdvjnVS6UEEe6tVk) | [Nu\-Look](https://open.spotify.com/artist/3GHVlKRurzupQYaoB5x9uB) | [I Got This](https://open.spotify.com/album/3RayyqJSPC8S0YGJQUqCAl) | 6:28 | 2020-06-03 | 2023-04-17 |
 | [Yelé \(feat\. Ms\. Lauryn Hill\)](https://open.spotify.com/track/4oxn5AUl1DYXWgpAjKM0rK) | [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [Wyclef Jean presents The Carnival featuring Refugee Allstars \(feat\. Refugee All Stars\)](https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU) | 5:24 | 2020-06-03 |  |
 | [Zouk\-La\-Se Sel Medikaman Nou Ni](https://open.spotify.com/track/3ioD05pNkxSjvm2WC4cNke) | [Kassav](https://open.spotify.com/artist/2vI858Cxtz915SlqYtlais) | [Soca 101 Vol\. 4](https://open.spotify.com/album/7IMqYTm43qRRCrJ47vPo8H) | 5:31 | 2020-06-03 |  |
 

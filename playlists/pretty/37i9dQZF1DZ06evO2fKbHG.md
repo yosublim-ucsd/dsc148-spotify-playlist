@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fKbHG.md) - [plain]
 
 > This is The Clash\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,511 likes - 45 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,579 likes - 45 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,11 +25,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fKbHG.md) - [plain]
 | 15 | [Charlie Don't Surf \- Remastered](https://open.spotify.com/track/5T4j3Uv33fQO7tsR2lMl4y) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sandinista! \(Remastered\)](https://open.spotify.com/album/2UxN3UKyS3Z5r0Sra8A5RF) | 4:54 |
 | 16 | [Career Opportunities \- Remastered](https://open.spotify.com/track/4aKMvmxQgX7J766G4pFlyh) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [The Clash \(Remastered\)](https://open.spotify.com/album/49kzgMsxHU5CTeb2XmFHjo) | 1:54 |
 | 17 | [\(White Man\) in Hammersmith Palais](https://open.spotify.com/track/45xBWOa6oEAk1WlVyr5QAB) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 4:00 |
-| 18 | [Lost in the Supermarket \- Remastered](https://open.spotify.com/track/72boGlgSwUK01n44O2tOCv) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 3:46 |
+| 18 | [Rudie Can't Fail \- Remastered](https://open.spotify.com/track/4W9zZsQKsqikYbKM9vcN5Q) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 3:28 |
 | 19 | [Tommy Gun \- Remastered](https://open.spotify.com/track/3ZhMxNCJcoYBj2wrO4VU3l) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Give 'Em Enough Rope \(Remastered\)](https://open.spotify.com/album/4NEvCc6vHcsCPviWPCCrVg) | 3:17 |
 | 20 | [I'm so Bored with the U.S.A\. \- Remastered](https://open.spotify.com/track/6bbQuT0lK4ekunMnK446Bt) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [The Clash \(Remastered\)](https://open.spotify.com/album/49kzgMsxHU5CTeb2XmFHjo) | 2:24 |
 | 21 | [The Leader \- Remastered](https://open.spotify.com/track/1HEcT04aFqXJt27hdTQ9nB) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sandinista! \(Remastered\)](https://open.spotify.com/album/2UxN3UKyS3Z5r0Sra8A5RF) | 1:42 |
-| 22 | [Rudie Can't Fail \- Remastered](https://open.spotify.com/track/4W9zZsQKsqikYbKM9vcN5Q) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 3:28 |
+| 22 | [Lost in the Supermarket \- Remastered](https://open.spotify.com/track/72boGlgSwUK01n44O2tOCv) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 3:46 |
 | 23 | [Safe European Home \- Remastered](https://open.spotify.com/track/7iiofeVKhJz7ZbcI2jFcPm) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Give 'Em Enough Rope \(Remastered\)](https://open.spotify.com/album/4NEvCc6vHcsCPviWPCCrVg) | 3:50 |
 | 24 | [London's Burning \- Remastered](https://open.spotify.com/track/0y8zZOu4u6NmoW7u1jEQzo) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [The Clash \(Remastered\)](https://open.spotify.com/album/49kzgMsxHU5CTeb2XmFHjo) | 2:11 |
 | 25 | [Somebody Got Murdered \- Remastered](https://open.spotify.com/track/6izEYubQaf7odJ46scKEzr) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sandinista! \(Remastered\)](https://open.spotify.com/album/2UxN3UKyS3Z5r0Sra8A5RF) | 3:34 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fKbHG.md) - [plain]
 | 44 | [We are the Clash](https://open.spotify.com/track/2I4WKzFdwTPhLTJCJ1Hpvq) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Cut The Crap](https://open.spotify.com/album/3E01XjnmC1HdxTE8dPuEkn) | 3:02 |
 | 45 | [1977](https://open.spotify.com/track/44P8K95Vlk5chiWAIrEtvx) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sound System](https://open.spotify.com/album/48xJ1Xj8V4snc0am3T0SoF) | 1:40 |
 
-Snapshot ID: `MjgwMjYwMzEsMDAwMDAwMDA0Y2MwOTIwMzc3ODg1MDFmYWVjM2IzMzBmZGJjNmU0Mw==`
+Snapshot ID: `MjgwMjc0MDEsMDAwMDAwMDBhOGJjZjM2NjMxMGM4MDJiNTNmZWI5ZTZjY2YyMTgyNw==`

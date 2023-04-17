@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaljDe6fISR1.md) - [plain]
 
 > Ouça grandes MCs do hip hop nacional\. Foto: ADL, Facção Central
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,135 likes - 74 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,194 likes - 74 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaljDe6fISR1.md) - [plain]
 | 17 | [Eu Viajei no Meu Rádio](https://open.spotify.com/track/6qhjV2yZ19mggPeaT4s4TN) | [Radiola Santa Rosa](https://open.spotify.com/artist/54X71c7GFBwZBjs9Vpn3kT), [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1) | [Eu Viajei no Meu Rádio](https://open.spotify.com/album/5NQI21j6fPi10arbKZ0BO5) | 3:29 |
 | 18 | [Dia de Visita \- Ao Vivo](https://open.spotify.com/track/1A7uDimTjK1RRZwuWMDpzb) | [Realidade Cruel](https://open.spotify.com/artist/0VeXKzjTBWHX5Lf5Kr6rLF) | [Em Meio A Tudo Isso A História Continua \(Ao Vivo\)](https://open.spotify.com/album/6mbN3nlzU1rQTJmOFvI7iA) | 4:48 |
 | 19 | [Até U Infernu Acabá](https://open.spotify.com/track/2NHliybXzN9jQth41c6uWm) | [Trilha Sonora do Gueto](https://open.spotify.com/artist/5gOXpF0vOYUvYwBCd80hQv), [Zekinha](https://open.spotify.com/artist/2lT5bsHesPi6a8vsEBehtr) | [Até U Infernu Acabá](https://open.spotify.com/album/3bMB1dcxNv9aQHUU5vy5TI) | 5:53 |
-| 20 | [Tudo por Você Também](https://open.spotify.com/track/7a2m3Z3GV54fPWhKNv55vI) | [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1) | [Fortificando a Desobediência](https://open.spotify.com/album/2cGL7y3C3yRMv7qo6Bk5Rt) | 6:09 |
+| 20 | [Tudo por Você Também](https://open.spotify.com/track/0P7CWAiZE4IjTS49P4koHS) | [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1) | [Fortificando a Desobediência](https://open.spotify.com/album/7u6It7Xkl1A6U7BxCDOfqn) | 6:09 |
 | 21 | [A Missiva](https://open.spotify.com/track/18xHNWWJjSidNHJMUNgyPq) | [Trilha Sonora do Gueto](https://open.spotify.com/artist/5gOXpF0vOYUvYwBCd80hQv) | [A Missiva](https://open.spotify.com/album/4Ckrl8zQcpGx5dLJ7L7wkn) | 5:43 |
 | 22 | [Rap É Compromisso](https://open.spotify.com/track/4WZfgKQ9WGPsa25rHVrL3x) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn) | [Rap É Compromisso \(Edição Comemorativa\)](https://open.spotify.com/album/4KJARfekEfYH6zGKus6zvz) | 4:23 |
 | 23 | [L\. Gelada \- 3 da Madrugada](https://open.spotify.com/track/32mcFZ8uedc5Wd5xoZsNXe) | [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ) | [Declaração de Guerra](https://open.spotify.com/album/0qMoXv72zaGupEdMRJmjNg) | 7:21 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaljDe6fISR1.md) - [plain]
 | 73 | [Naquela Sala](https://open.spotify.com/track/0XJ6XyjRCW4XiWL9YmOwi8) | [AO Cubo](https://open.spotify.com/artist/1LTlPGgghut6Z0tPrX59YV) | [Década](https://open.spotify.com/album/1ZLYXUAUvUsolaTdaqfr6s) | 6:01 |
 | 74 | [Antes das 6:00, Pt\. 2 \- Bonus Track](https://open.spotify.com/track/1Rn7tUyMiTVxlu4H53cAzV) | [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z), [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K) | [Quantas Vezes Não Me Achei \(Deluxe\)](https://open.spotify.com/album/67NEEqfjTcla2g5k9TP2rZ) | 4:01 |
 
-Snapshot ID: `MTY3ODQxNzI2MCwwMDAwMDAwMGE5N2NmMjU3NjlhMTAyOWE0NzM0ZGZjZjBiMjg3N2Fh`
+Snapshot ID: `MTY3ODQxNzI2MCwwMDAwMDAwMGY1Y2QzYThiMmU2NzQ5ZjQxMTcyZDJkMTZmMjNmNjEz`

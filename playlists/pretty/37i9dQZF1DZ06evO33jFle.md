@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33jFle.md) - [plain]
 
 > This is Jenni Rivera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,291 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,512 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33jFle.md) - [plain]
 | 36 | [Que Me Entierren Cantando](https://open.spotify.com/track/5GaIwab0GIWICCSVzldmUY) | [Lupillo Rivera](https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW), [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Borracho de Primera](https://open.spotify.com/album/1cjt1zBdNmoD4qi3s2meCy) | 3:51 |
 | 37 | [Detrás de Mi Ventana \- Banda](https://open.spotify.com/track/5BwEvu0Spcv6zjOPFWw4HD) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Joyas Prestadas \- Banda](https://open.spotify.com/album/2S1InqamaQuotpISCqos3W) | 4:37 |
 | 38 | [El Amor \(feat\. Jenni Rivera\)](https://open.spotify.com/track/22uCmfKNu7CQM8IFl1syI0) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh), [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [El Patrón \(La Victoria\)](https://open.spotify.com/album/214muZYoc3ewXMXGwQBFVU) | 4:08 |
-| 39 | [Cuando Me Acuerdo de Ti](https://open.spotify.com/track/1jiTEN8iyh2GerskBrVm2M) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Jenni](https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh) | 3:21 |
-| 40 | [Juro Que Nunca Volvere](https://open.spotify.com/track/7zf9VnCyarordJgf4lbDk4) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Homenaje a las Grandes](https://open.spotify.com/album/6XObfnPoT85f85nZMeOBLJ) | 2:40 |
+| 39 | [Juro Que Nunca Volvere](https://open.spotify.com/track/7zf9VnCyarordJgf4lbDk4) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Homenaje a las Grandes](https://open.spotify.com/album/6XObfnPoT85f85nZMeOBLJ) | 2:40 |
+| 40 | [Cuando Me Acuerdo de Ti](https://open.spotify.com/track/1jiTEN8iyh2GerskBrVm2M) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Jenni](https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh) | 3:21 |
 | 41 | [Porque Me Gusta a Morir \- Pop](https://open.spotify.com/track/1o1T0dmi0pPcJxYROpgBVy) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Joyas Prestadas \- Pop](https://open.spotify.com/album/4PbG5KBpRl1ObRpMJ9oLF6) | 5:09 |
 | 42 | [Parrandera, Rebelde y Atrevida](https://open.spotify.com/track/3B1rdhOmO7LwlyIFsC0xFK) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Parrandera, Rebelde y Atrevida](https://open.spotify.com/album/2I50wzYim7XrZhBSrolmzs) | 2:56 |
 | 43 | [Aparentemente Bien \- Versión Sencillo](https://open.spotify.com/track/2nHekPOutiUg9MiCp74NjH) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Aparentemente Bien](https://open.spotify.com/album/1932flu69zKoy3j2Qgz0P2) | 4:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33jFle.md) - [plain]
 | 49 | [Engañémoslo \- Versión Mariachi \- Versión Sencillo](https://open.spotify.com/track/6ZtFzzPFSwg6rPPfNIqFJj) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu), [Mariachi Los Reyes](https://open.spotify.com/artist/4F7KkuF7t7TJPJk7mNPIlM) | [Engañémoslo](https://open.spotify.com/album/3WEmQxo46sFb48DUXk8nli) | 3:31 |
 | 50 | [Por un Amor Cucurrucucu Paloma](https://open.spotify.com/track/0SoWXX2bEslbR4lmoTFwk7) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Homenaje a las Grandes](https://open.spotify.com/album/6XObfnPoT85f85nZMeOBLJ) | 3:42 |
 
-Snapshot ID: `MjgwMjYwMzIsMDAwMDAwMDA2NDBjNzBmNDljZTE1ODZmMTliYTI1OTMxNGZiYjZiYw==`
+Snapshot ID: `MjgwMjc0MDEsMDAwMDAwMDA4ZWFmNDhkZDFhY2JiYzY3ODVkZjRjNzQzOWRlZTc0Ng==`

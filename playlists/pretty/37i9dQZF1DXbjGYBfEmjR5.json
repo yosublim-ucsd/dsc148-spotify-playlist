@@ -1,12 +1,12 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 268699,
+  "num_followers": 268856,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzU0MDI1MCwwMDAwMDAwMDY4NDQ4MmI0OTllZmExZmUzOWE4MDc3NzI4MWI3Y2Ix",
+  "snapshot_id": "MTY2NzU0MDI1MCwwMDAwMDAwMGYzODU4YWYyYTYxNjc3YjhkZWZmNDJhNmVjMjhhNGI1",
   "tracks": [
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1187,22 +1187,18 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Dance Tonite",
-        "url": "https://open.spotify.com/album/0QZSdm43Tuj9adxJiTYcgW"
+        "name": "Disco's Revenge",
+        "url": "https://open.spotify.com/album/3uR2ijqPipHSHibX4nM5uq"
       },
       "artists": [
         {
           "name": "Neon Vectors",
           "url": "https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X"
-        },
-        {
-          "name": "Macross 82-99",
-          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
         }
       ],
-      "duration_ms": 210731,
-      "name": "Dance Tonite",
-      "url": "https://open.spotify.com/track/0VPJHffNebAqAxnP2OJ6hu"
+      "duration_ms": 80098,
+      "name": "Disco's Revenge",
+      "url": "https://open.spotify.com/track/7LGOHP1Sj6rtttWQgUvKwb"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1287,22 +1283,6 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Magall\u00e1nica Thunderlove",
-        "url": "https://open.spotify.com/album/7nZMULV0M6xaq3dakYo70k"
-      },
-      "artists": [
-        {
-          "name": "Iden Kai",
-          "url": "https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv"
-        }
-      ],
-      "duration_ms": 238048,
-      "name": "Gal\u00e1ctica Airlines",
-      "url": "https://open.spotify.com/track/5i3JrtiZnd595v1P9WKsRP"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
         "name": "Back By Popular Demand",
         "url": "https://open.spotify.com/album/01Jw4G9MFWmAOdTaBuQWX2"
       },
@@ -1319,18 +1299,38 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Disco's Revenge",
-        "url": "https://open.spotify.com/album/3uR2ijqPipHSHibX4nM5uq"
+        "name": "Magall\u00e1nica Thunderlove",
+        "url": "https://open.spotify.com/album/7nZMULV0M6xaq3dakYo70k"
+      },
+      "artists": [
+        {
+          "name": "Iden Kai",
+          "url": "https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv"
+        }
+      ],
+      "duration_ms": 238048,
+      "name": "Gal\u00e1ctica Airlines",
+      "url": "https://open.spotify.com/track/5i3JrtiZnd595v1P9WKsRP"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "Dance Tonite",
+        "url": "https://open.spotify.com/album/0QZSdm43Tuj9adxJiTYcgW"
       },
       "artists": [
         {
           "name": "Neon Vectors",
           "url": "https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X"
+        },
+        {
+          "name": "Macross 82-99",
+          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
         }
       ],
-      "duration_ms": 80098,
-      "name": "Disco's Revenge",
-      "url": "https://open.spotify.com/track/7LGOHP1Sj6rtttWQgUvKwb"
+      "duration_ms": 210731,
+      "name": "Dance Tonite",
+      "url": "https://open.spotify.com/track/0VPJHffNebAqAxnP2OJ6hu"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
+        "name": "SOUL MATES",
+        "url": "https://open.spotify.com/album/4NiQpP9xDQlWntAa1VGj9C"
+      },
+      "artists": [
+        {
+          "name": "Javi That's Me",
+          "url": "https://open.spotify.com/artist/4yPRWVvazFxeuAd4R26X8W"
+        }
+      ],
+      "duration_ms": 149028,
+      "name": "CHERRY BLOSSOMS",
+      "url": "https://open.spotify.com/track/2285HoE4Z0o7Zrhd7VSU8r"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
         "name": "Monstruo Japon\u00e9s",
         "url": "https://open.spotify.com/album/4MogjIP4rcQCoxMXN7yMZP"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 250344,
       "name": "Monstruo Japon\u00e9s",
       "url": "https://open.spotify.com/track/3pNedfeY9kQLcsmMHrJoGU"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
-        "name": "SOUL MATES",
-        "url": "https://open.spotify.com/album/4NiQpP9xDQlWntAa1VGj9C"
-      },
-      "artists": [
-        {
-          "name": "Javi That's Me",
-          "url": "https://open.spotify.com/artist/4yPRWVvazFxeuAd4R26X8W"
-        }
-      ],
-      "duration_ms": 149028,
-      "name": "CHERRY BLOSSOMS",
-      "url": "https://open.spotify.com/track/2285HoE4Z0o7Zrhd7VSU8r"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1571,6 +1571,22 @@
       "duration_ms": 138666,
       "name": "keep down flyday",
       "url": "https://open.spotify.com/track/04XgDULx8qLzMVaTxXGI6c"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "DUCK GROOVE",
+        "url": "https://open.spotify.com/album/63dKEwkkrKpyaZT3y9h8xj"
+      },
+      "artists": [
+        {
+          "name": "Aests",
+          "url": "https://open.spotify.com/artist/3zYU33YUxJPzsPrYmpMMiu"
+        }
+      ],
+      "duration_ms": 142497,
+      "name": "DUCK GROOVE",
+      "url": "https://open.spotify.com/track/7xRFTjcKdlF36Ba04J52A9"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1611,58 +1627,6 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "DUCK GROOVE",
-        "url": "https://open.spotify.com/album/63dKEwkkrKpyaZT3y9h8xj"
-      },
-      "artists": [
-        {
-          "name": "Aests",
-          "url": "https://open.spotify.com/artist/3zYU33YUxJPzsPrYmpMMiu"
-        }
-      ],
-      "duration_ms": 142497,
-      "name": "DUCK GROOVE",
-      "url": "https://open.spotify.com/track/7xRFTjcKdlF36Ba04J52A9"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
-        "name": "Galetus",
-        "url": "https://open.spotify.com/album/0eEBi6zsHUpc2dWLEFVGZR"
-      },
-      "artists": [
-        {
-          "name": "ev.exi",
-          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
-        },
-        {
-          "name": "Mere Notilde",
-          "url": "https://open.spotify.com/artist/2d3wstlwe427Q7CamLXlpO"
-        }
-      ],
-      "duration_ms": 207138,
-      "name": "Galetus",
-      "url": "https://open.spotify.com/track/5hEqabdQUshqGx8JERN7XK"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
-        "name": "Notilde Tapes, Vol. 1",
-        "url": "https://open.spotify.com/album/2zEi1dqComKYcret0KkXWg"
-      },
-      "artists": [
-        {
-          "name": "Pop Up!",
-          "url": "https://open.spotify.com/artist/4AuPwqXG4t4Ic5PQGmtjHi"
-        }
-      ],
-      "duration_ms": 230655,
-      "name": "Answer",
-      "url": "https://open.spotify.com/track/09dHKj0JgQ4RdnEHL8fgst"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
         "name": "Bae 5",
         "url": "https://open.spotify.com/album/5FLLpTsSlcnlwrChf2LCWM"
       },
@@ -1683,6 +1647,22 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
+        "name": "Notilde Tapes, Vol. 1",
+        "url": "https://open.spotify.com/album/2zEi1dqComKYcret0KkXWg"
+      },
+      "artists": [
+        {
+          "name": "Pop Up!",
+          "url": "https://open.spotify.com/artist/4AuPwqXG4t4Ic5PQGmtjHi"
+        }
+      ],
+      "duration_ms": 230655,
+      "name": "Answer",
+      "url": "https://open.spotify.com/track/09dHKj0JgQ4RdnEHL8fgst"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
         "name": "Summer 99",
         "url": "https://open.spotify.com/album/7lWUz3qy2GTv621GBOh7PM"
       },
@@ -1695,6 +1675,26 @@
       "duration_ms": 151265,
       "name": "Shall We Dance?",
       "url": "https://open.spotify.com/track/2AfWicugHdy2XCdEScwSbU"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "Galetus",
+        "url": "https://open.spotify.com/album/0eEBi6zsHUpc2dWLEFVGZR"
+      },
+      "artists": [
+        {
+          "name": "ev.exi",
+          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
+        },
+        {
+          "name": "Mere Notilde",
+          "url": "https://open.spotify.com/artist/2d3wstlwe427Q7CamLXlpO"
+        }
+      ],
+      "duration_ms": 207138,
+      "name": "Galetus",
+      "url": "https://open.spotify.com/track/5hEqabdQUshqGx8JERN7XK"
     },
     {
       "added_at": "2022-11-04 05:37:30",

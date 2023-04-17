@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 
 > Goditi l'aperitivo in compagnia e con la colonna sonora ideale!
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,088 likes - 60 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,095 likes - 60 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 39 | [Movement](https://open.spotify.com/track/6WKynwuNv6tsxlFsnWYkQn) | [Lylos](https://open.spotify.com/artist/5atRFMjItKzpYWYW1yVMoR) | [Movement](https://open.spotify.com/album/1uuViGWUYCNyHgaTan5oVk) | 2:52 |
 | 40 | [Never Gonna Give You Up](https://open.spotify.com/track/5fnDDcjcXKUvJ6iSnpiU0v) | [Mac Beez](https://open.spotify.com/artist/4BlBvAGQrqv3vWmx8GWTds) | [Never Gonna Give You Up](https://open.spotify.com/album/1fWMQOAKIqdgzQgE311HK8) | 3:32 |
 | 41 | [Slow Me Down](https://open.spotify.com/track/7mgNqxpTacR6b338g5dEsA) | [Mauve](https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh) | [Slow Me Down](https://open.spotify.com/album/6G6J9h3VIXK36rmAIa8EL3) | 3:39 |
-| 42 | [Violet Breeze](https://open.spotify.com/track/7jONoiyFISdmZT2zneg6sY) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Surf The Orange Water](https://open.spotify.com/album/2x9HwBSuF6CrkPu2Akh1lQ) | 3:09 |
-| 43 | [Feel The Heat](https://open.spotify.com/track/20USnYqI2EWN1fLBD2PF0i) | [Bon Lui](https://open.spotify.com/artist/2NORrxtxRnvCca00Mb2CPg) | [Feel The Heat](https://open.spotify.com/album/0KND8xyCtHZVfexgG0ZQR6) | 5:19 |
+| 42 | [Feel The Heat](https://open.spotify.com/track/20USnYqI2EWN1fLBD2PF0i) | [Bon Lui](https://open.spotify.com/artist/2NORrxtxRnvCca00Mb2CPg) | [Feel The Heat](https://open.spotify.com/album/0KND8xyCtHZVfexgG0ZQR6) | 5:19 |
+| 43 | [Violet Breeze](https://open.spotify.com/track/7jONoiyFISdmZT2zneg6sY) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Surf The Orange Water](https://open.spotify.com/album/2x9HwBSuF6CrkPu2Akh1lQ) | 3:09 |
 | 44 | [Don't Ever Wonder](https://open.spotify.com/track/3yAZcVAti6seA6BbfV4sv6) | [Linae](https://open.spotify.com/artist/4ujgXGDzu9zW8ESDYPQ0t4) | [Don't Ever Wonder](https://open.spotify.com/album/1n6LUJOVA4mjgVLCkjHRjG) | 2:27 |
 | 45 | [Nuit d'Afrique](https://open.spotify.com/track/4PyABgWf1yG2B2DxwjR1Bi) | [Kora \(CA\)](https://open.spotify.com/artist/7lHiOFpepHokhLTy6PNAL9), [Adrien \(CA\)](https://open.spotify.com/artist/6Rqtg9oAMaZmwcN0gN5UNQ) | [Kindisch Presents: Kindisch Steps VI](https://open.spotify.com/album/4qYhEGnOCZSB01SrTtgmdy) | 11:59 |
 | 46 | [All Good](https://open.spotify.com/track/7szWO6GcxVU1lkWWLfpeyI) | [Crade](https://open.spotify.com/artist/0sv3Ei5QResLibVKGeW1HM) | [All Good](https://open.spotify.com/album/74Nnte7VwlaN2zfqX7OL2G) | 3:16 |
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 52 | [Rooftop](https://open.spotify.com/track/2kFkb913w3d49GBzdXqarM) | [Tabú](https://open.spotify.com/artist/3ixqu2cJbIKBGVVmAd9KY3) | [Rooftop](https://open.spotify.com/album/3vjgqeZ3T1cDCY0RJnjAMD) | 3:40 |
 | 53 | [Kiwi](https://open.spotify.com/track/7Cv5wO85eL2sc7KpXTrIlM) | [Harvio](https://open.spotify.com/artist/0VCoyPtLDeOvxwvHeCX7Jx) | [Purple Summer](https://open.spotify.com/album/6k4cdjwYJ7qm7n1g5CcMV7) | 3:52 |
 | 54 | [Hold On](https://open.spotify.com/track/7KKfvDIIyl6tqeXADXah6W) | [Mac Beez](https://open.spotify.com/artist/4BlBvAGQrqv3vWmx8GWTds) | [Hold On](https://open.spotify.com/album/2ZFRC28tWKrAIQtbTIaWAC) | 3:44 |
-| 55 | [Wishing Well \(feat\. Olivia Sebastianelli\)](https://open.spotify.com/track/7uqS1gGcgWD0wiiKttEmyp) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Olivia Sebastianelli](https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR) | [Sunrise To Sunset](https://open.spotify.com/album/4QyylR4pPcWRpp3U2gkPcd) | 3:06 |
-| 56 | [Esmeralda](https://open.spotify.com/track/4HHGxBEC3WOwmXLo6sQx1e) | [Samba Twins](https://open.spotify.com/artist/3gad2wOabFsw6YHJihoQ1X) | [Esmeralda](https://open.spotify.com/album/4ycnduaxkoNeXSVfAVNmT0) | 3:54 |
-| 57 | [Carneiros Beach](https://open.spotify.com/track/33NG5U8673kHJAS249qbFb) | [Carlos Robalinho](https://open.spotify.com/artist/1lyeueezpzyh7J2w3tMoXO) | [Carneiros Beach](https://open.spotify.com/album/2gwvYh1RlW9TtkmYb2Qtyo) | 3:42 |
+| 55 | [Carneiros Beach](https://open.spotify.com/track/33NG5U8673kHJAS249qbFb) | [Carlos Robalinho](https://open.spotify.com/artist/1lyeueezpzyh7J2w3tMoXO) | [Carneiros Beach](https://open.spotify.com/album/2gwvYh1RlW9TtkmYb2Qtyo) | 3:42 |
+| 56 | [Wishing Well \(feat\. Olivia Sebastianelli\)](https://open.spotify.com/track/7uqS1gGcgWD0wiiKttEmyp) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Olivia Sebastianelli](https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR) | [Sunrise To Sunset](https://open.spotify.com/album/4QyylR4pPcWRpp3U2gkPcd) | 3:06 |
+| 57 | [Esmeralda](https://open.spotify.com/track/4HHGxBEC3WOwmXLo6sQx1e) | [Samba Twins](https://open.spotify.com/artist/3gad2wOabFsw6YHJihoQ1X) | [Esmeralda](https://open.spotify.com/album/4ycnduaxkoNeXSVfAVNmT0) | 3:54 |
 | 58 | [Bloom](https://open.spotify.com/track/0mi3tBUwtdYwXCFdZ6QHAZ) | [Sol Calor](https://open.spotify.com/artist/5CUXWZ485yE6im34MWIvoj) | [Bloom](https://open.spotify.com/album/6DRSizkWFTohOLptBgR2cT) | 3:38 |
 | 59 | [Surf The Orange Water](https://open.spotify.com/track/2bkUVv8OYDOSkV6ElMafd2) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Surf The Orange Water](https://open.spotify.com/album/2x9HwBSuF6CrkPu2Akh1lQ) | 3:06 |
 | 60 | [Girl](https://open.spotify.com/track/5jcJHljcjmZckFRIG6PUHq) | [Tekkla](https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz) | [Girl](https://open.spotify.com/album/7y7jHMrvSDYruXa2oDerSG) | 7:31 |
 
-Snapshot ID: `MTY2MTg2MjE5NCwwMDAwMDAwMDM4MGJmMzRiNTE3ZjlmNTAwMTcwZjNkZjUyNTU5YmZl`
+Snapshot ID: `MTY2MTg2MjE5NCwwMDAwMDAwMDU1OTJhNzM3ZDM3NDdjNTBlZGMzYjRjOTczYmM2NzY4`

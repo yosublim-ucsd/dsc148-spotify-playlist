@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 
 > Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: LAS, Miyeon\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,239 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,324 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 | 43 | [This Night \(feat\. Blue.D, Jhnovr\)](https://open.spotify.com/track/626C6JMdKevCTv10pLeHJf) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Blue.D](https://open.spotify.com/artist/0rK0ZPLX4fKnFSbqs6gYfY), [Jhnovr](https://open.spotify.com/artist/4GqXWudNdgIhuDnYHFnQez) | [THIS NIGHT](https://open.spotify.com/album/4XPkeXge5bJLJsGCpJ1nVi) | 3:35 |
 | 44 | [A little bit more](https://open.spotify.com/track/7zQfolCu9NJF1M8rwPOERI) | [JINHO](https://open.spotify.com/artist/3hFLEV38JDeNr3L0HIkeG0), [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Whats wrong with secretary kim OST Part.4](https://open.spotify.com/album/52fLYrQxllSI9fJOp0lS3I) | 3:24 |
 | 45 | [Let Me Go \(with TAEYEON\)](https://open.spotify.com/track/0W1BHowUDWND1AIQU6nUbD) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [with HER](https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW) | 3:31 |
-| 46 | [Way](https://open.spotify.com/track/5jQRsJZzu8jicHgC3wgiY5) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Way \- SM STATION](https://open.spotify.com/album/5Pq73EZamFkp9SQpI6Zw7Y) | 3:58 |
-| 47 | [1, 2](https://open.spotify.com/track/2U4292s8Vs8p7rDP8LYr8c) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [최현석](https://open.spotify.com/artist/7ywGEr53ogVxLibBcb82JV) | [24℃](https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5) | 3:22 |
+| 46 | [1, 2](https://open.spotify.com/track/2U4292s8Vs8p7rDP8LYr8c) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [최현석](https://open.spotify.com/artist/7ywGEr53ogVxLibBcb82JV) | [24℃](https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5) | 3:22 |
+| 47 | [Way](https://open.spotify.com/track/5jQRsJZzu8jicHgC3wgiY5) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Way \- SM STATION](https://open.spotify.com/album/5Pq73EZamFkp9SQpI6Zw7Y) | 3:58 |
 | 48 | [Love Virus](https://open.spotify.com/track/4JA2u5Grq0GCSSQfy5cLFG) | [KIHYUN](https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS), [SEOLA](https://open.spotify.com/artist/0AnZEpTs62mik6O41O3SKf) | [Whats wrong with secretary kim OST Part.1](https://open.spotify.com/album/1l8yWyu8JIf2GttsAVOWlR) | 3:27 |
 | 49 | [Airport Goodbyes \(Prod\. The Black Skirts\)](https://open.spotify.com/track/6JwLranFvCuvv6PmE2ExyN) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Airport Goodbyes](https://open.spotify.com/album/1QfoitDnFtn4e4UmGYdi4i) | 4:07 |
 | 50 | [one summer](https://open.spotify.com/track/7EAkXA5TvfYOYE9EzE3mtc) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [one summer](https://open.spotify.com/album/1dSFPUYpKZiSdBb4jonPPK) | 3:59 |
 
-Snapshot ID: `MTY4MDk1MDYzNCwwMDAwMDAwMGE1OWM2OTA2MmE2N2VlZjI5YjY2ZDU0MjhmNGJkMDQz`
+Snapshot ID: `MTY4MDk1MDYzNCwwMDAwMDAwMDNiOTM2MTJkMTFkMDg3NGI4NmFmMzk0MmQ5ZDQzZjg5`

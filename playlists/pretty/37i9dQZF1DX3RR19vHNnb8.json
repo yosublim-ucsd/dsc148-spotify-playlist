@@ -1,12 +1,12 @@
 {
   "description": "Hip hop tracks to kick your workout up a notch",
-  "num_followers": 9448,
+  "num_followers": 9483,
   "original_name": "Pump it Up ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ4NzI3NiwwMDAwMDAwMDNlZGFjNmRjMjJjMDAzMmViYmRlYzM4ZTA3YjA5N2Iy",
+  "snapshot_id": "MTY4MTQ4NzI3NiwwMDAwMDAwMDFjOTMxZDMwNTViMDUyZWY0NzM5MjAzYjA4MDE4NDQ1",
   "tracks": [
     {
       "added_at": "2023-04-14 15:47:56",
@@ -799,6 +799,46 @@
     {
       "added_at": "2023-04-14 15:47:56",
       "album": {
+        "name": "Vigilante Bop",
+        "url": "https://open.spotify.com/album/62wsAbVkM8OxT2tJ9hIkiG"
+      },
+      "artists": [
+        {
+          "name": "Alpha Ojini",
+          "url": "https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 180950,
+      "name": "Vigilante Bop",
+      "url": "https://open.spotify.com/track/4IschypVu1Oz4FS8Gg7y0u"
+    },
+    {
+      "added_at": "2023-04-14 15:47:56",
+      "album": {
+        "name": "Second Sermon (Remix)",
+        "url": "https://open.spotify.com/album/2YaqeghqhsIi2u9fQjGBsq"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 194863,
+      "name": "Second Sermon - Remix",
+      "url": "https://open.spotify.com/track/574QNMkQGedluLOgr275s9"
+    },
+    {
+      "added_at": "2023-04-14 15:47:56",
+      "album": {
         "name": "Connecting the Dots",
         "url": "https://open.spotify.com/album/1q6SQV8J22Is1SsgKAh4eJ"
       },
@@ -827,46 +867,6 @@
       "duration_ms": 195482,
       "name": "Holy F4k",
       "url": "https://open.spotify.com/track/7eWoPZVIC0RzgFghNDrLbQ"
-    },
-    {
-      "added_at": "2023-04-14 15:47:56",
-      "album": {
-        "name": "Second Sermon (Remix)",
-        "url": "https://open.spotify.com/album/2YaqeghqhsIi2u9fQjGBsq"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 194863,
-      "name": "Second Sermon - Remix",
-      "url": "https://open.spotify.com/track/574QNMkQGedluLOgr275s9"
-    },
-    {
-      "added_at": "2023-04-14 15:47:56",
-      "album": {
-        "name": "Vigilante Bop",
-        "url": "https://open.spotify.com/album/62wsAbVkM8OxT2tJ9hIkiG"
-      },
-      "artists": [
-        {
-          "name": "Alpha Ojini",
-          "url": "https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 180950,
-      "name": "Vigilante Bop",
-      "url": "https://open.spotify.com/track/4IschypVu1Oz4FS8Gg7y0u"
     },
     {
       "added_at": "2023-04-14 15:47:56",

@@ -1,12 +1,12 @@
 {
   "description": "West African love stories wrapped up in song",
-  "num_followers": 6103,
+  "num_followers": 6173,
   "original_name": "Lovin' Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ4ODQ1NCwwMDAwMDAwMDYyMGE1OWQ4Y2QzZDczNzFhMGFiMWM5OGJjZTA0Yjhh",
+  "snapshot_id": "MTY4MTQ4ODQ1NCwwMDAwMDAwMGM2NDY2MTg2Zjg1N2MyOTdmMDBlZTU2OTQzYzJiZmM3",
   "tracks": [
     {
       "added_at": "2023-04-14 16:07:34",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-04-14 16:07:34",
       "album": {
+        "name": "Colors (My Baby) / Loyal",
+        "url": "https://open.spotify.com/album/3BNffda5IHaWQe5YVC986B"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "duration_ms": 164240,
+      "name": "Colors (My Baby)",
+      "url": "https://open.spotify.com/track/0lTUcfkmtQPp6mhjC6EBPq"
+    },
+    {
+      "added_at": "2023-04-14 16:07:34",
+      "album": {
         "name": "One Of A Kind",
         "url": "https://open.spotify.com/album/58SSPXzU66q7GdFqUPxCaU"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 176603,
       "name": "One Of A Kind",
       "url": "https://open.spotify.com/track/1GYffAby5VxcjjIp7j0ea7"
-    },
-    {
-      "added_at": "2023-04-14 16:07:34",
-      "album": {
-        "name": "Colors (My Baby) / Loyal",
-        "url": "https://open.spotify.com/album/3BNffda5IHaWQe5YVC986B"
-      },
-      "artists": [
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        }
-      ],
-      "duration_ms": 164240,
-      "name": "Colors (My Baby)",
-      "url": "https://open.spotify.com/track/0lTUcfkmtQPp6mhjC6EBPq"
     },
     {
       "added_at": "2023-04-14 16:07:34",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-04-14 16:07:34",
       "album": {
-        "name": "Holiday / Reason You",
-        "url": "https://open.spotify.com/album/1NbIj94iC99QFhVA1nBuGX"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 206750,
-      "name": "Reason You",
-      "url": "https://open.spotify.com/track/6FPXNqKGnd7l61nYZz8EFu"
-    },
-    {
-      "added_at": "2023-04-14 16:07:34",
-      "album": {
         "name": "Bad Since '97",
         "url": "https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio"
       },
@@ -899,18 +883,18 @@
     {
       "added_at": "2023-04-14 16:07:34",
       "album": {
-        "name": "More Of You",
-        "url": "https://open.spotify.com/album/4TLRQqrw55Rq7SFoA3OHic"
+        "name": "Holiday / Reason You",
+        "url": "https://open.spotify.com/album/1NbIj94iC99QFhVA1nBuGX"
       },
       "artists": [
         {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 180000,
-      "name": "More Of You",
-      "url": "https://open.spotify.com/track/0bVugkWRfHhHLPfFFVkHpL"
+      "duration_ms": 206750,
+      "name": "Reason You",
+      "url": "https://open.spotify.com/track/6FPXNqKGnd7l61nYZz8EFu"
     },
     {
       "added_at": "2023-04-14 16:07:34",
@@ -931,22 +915,18 @@
     {
       "added_at": "2023-04-14 16:07:34",
       "album": {
-        "name": "Clueless (with Oxlade)",
-        "url": "https://open.spotify.com/album/5uwXfCyZk7F60Eq0CtrD54"
+        "name": "More Of You",
+        "url": "https://open.spotify.com/album/4TLRQqrw55Rq7SFoA3OHic"
       },
       "artists": [
         {
-          "name": "Micha\u00ebl Brun",
-          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
         }
       ],
-      "duration_ms": 164705,
-      "name": "Clueless (with Oxlade)",
-      "url": "https://open.spotify.com/track/7E8Dy2nkCyVShfROcpxsMg"
+      "duration_ms": 180000,
+      "name": "More Of You",
+      "url": "https://open.spotify.com/track/0bVugkWRfHhHLPfFFVkHpL"
     },
     {
       "added_at": "2023-04-14 16:07:34",
@@ -983,6 +963,26 @@
       "duration_ms": 200412,
       "name": "In Love",
       "url": "https://open.spotify.com/track/00ZYd7GYdFrNZFQP5O5T5m"
+    },
+    {
+      "added_at": "2023-04-14 16:07:34",
+      "album": {
+        "name": "Clueless (with Oxlade)",
+        "url": "https://open.spotify.com/album/5uwXfCyZk7F60Eq0CtrD54"
+      },
+      "artists": [
+        {
+          "name": "Micha\u00ebl Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 164705,
+      "name": "Clueless (with Oxlade)",
+      "url": "https://open.spotify.com/track/7E8Dy2nkCyVShfROcpxsMg"
     },
     {
       "added_at": "2023-04-14 16:07:34",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2023-04-14 16:07:34",
       "album": {
+        "name": "For Days",
+        "url": "https://open.spotify.com/album/0B2ciZrwX6zv2ADSniu4i2"
+      },
+      "artists": [
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 164557,
+      "name": "For Days",
+      "url": "https://open.spotify.com/track/7sSpKoxxtecQry1wxVmpIz"
+    },
+    {
+      "added_at": "2023-04-14 16:07:34",
+      "album": {
         "name": "Water & Garri",
         "url": "https://open.spotify.com/album/4kaFvICfRtvFJawQ6p7VSW"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 218130,
       "name": "Somebody\u2019s Son (Ft Brandy)",
       "url": "https://open.spotify.com/track/3Z9B9GQ2fFx4IRCG8bbWys"
-    },
-    {
-      "added_at": "2023-04-14 16:07:34",
-      "album": {
-        "name": "For Days",
-        "url": "https://open.spotify.com/album/0B2ciZrwX6zv2ADSniu4i2"
-      },
-      "artists": [
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 164557,
-      "name": "For Days",
-      "url": "https://open.spotify.com/track/7sSpKoxxtecQry1wxVmpIz"
     },
     {
       "added_at": "2023-04-14 16:07:34",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2023-04-14 16:07:34",
       "album": {
-        "name": "Bezos",
-        "url": "https://open.spotify.com/album/0HWeesVXBwp4q78Ow2RFpx"
+        "name": "Wetin No Good",
+        "url": "https://open.spotify.com/album/6v5ZPjk1YsUlWegG5Cxvea"
       },
       "artists": [
         {
-          "name": "Dboi",
-          "url": "https://open.spotify.com/artist/0Hm8XNele8yJjZXq2A0nh8"
+          "name": "Idahams",
+          "url": "https://open.spotify.com/artist/6jPVueiSr0OHgVetuTuv5O"
         }
       ],
-      "duration_ms": 168437,
-      "name": "Bezos",
-      "url": "https://open.spotify.com/track/3CL2wSAoigecJkzBLJJyjs"
+      "duration_ms": 158812,
+      "name": "Wetin No Good",
+      "url": "https://open.spotify.com/track/23Fh73OaYgY5cisouEybte"
     }
   ],
   "unique_name": "Lovin' Beats",

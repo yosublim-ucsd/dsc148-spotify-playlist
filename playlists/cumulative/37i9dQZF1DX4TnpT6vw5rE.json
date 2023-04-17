@@ -311,6 +311,24 @@
     },
     {
       "album": {
+        "name": "Electric Pulses",
+        "url": "https://open.spotify.com/album/74SSquwi9PTn3HJ52LkHKM"
+      },
+      "artists": [
+        {
+          "name": "Lonely Roads",
+          "url": "https://open.spotify.com/artist/4nQMRc0j45XcB0g0SioPw5"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196153,
+      "name": "Andromeda",
+      "url": "https://open.spotify.com/track/57lzy4rzWaqaFfTMw8y0cJ"
+    },
+    {
+      "album": {
         "name": "Angelus",
         "url": "https://open.spotify.com/album/2x9SoHtnhVlqSs8MwnkUBP"
       },
@@ -2792,7 +2810,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 149333,
       "name": "Overland Kitted",
       "url": "https://open.spotify.com/track/3ulyr4lWLR9rlSqy64dmil"

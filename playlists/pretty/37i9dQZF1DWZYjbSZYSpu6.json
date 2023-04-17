@@ -1,15 +1,15 @@
 {
   "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: LAS, Miyeon)",
-  "num_followers": 385239,
+  "num_followers": 385324,
   "original_name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDk1MDYzNCwwMDAwMDAwMGE1OWM2OTA2MmE2N2VlZjI5YjY2ZDU0MjhmNGJkMDQz",
+  "snapshot_id": "MTY4MDk1MDYzNCwwMDAwMDAwMDNiOTM2MTJkMTFkMDg3NGI4NmFmMzk0MmQ5ZDQzZjg5",
   "tracks": [
     {
-      "added_at": "2023-04-16 01:10:21",
+      "added_at": "2023-04-17 01:11:59",
       "album": {
         "name": "Spring Song (feat. MIYEON ((G)I-DLE))",
         "url": "https://open.spotify.com/album/3VWzNc9gziv2j5bKauli4q"
@@ -915,26 +915,6 @@
     {
       "added_at": "2023-03-27 08:33:01",
       "album": {
-        "name": "Way - SM STATION",
-        "url": "https://open.spotify.com/album/5Pq73EZamFkp9SQpI6Zw7Y"
-      },
-      "artists": [
-        {
-          "name": "ONEW",
-          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
-        },
-        {
-          "name": "Punch",
-          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
-        }
-      ],
-      "duration_ms": 238853,
-      "name": "Way",
-      "url": "https://open.spotify.com/track/5jQRsJZzu8jicHgC3wgiY5"
-    },
-    {
-      "added_at": "2023-03-27 08:33:01",
-      "album": {
         "name": "24\u2103",
         "url": "https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 202683,
       "name": "1, 2",
       "url": "https://open.spotify.com/track/2U4292s8Vs8p7rDP8LYr8c"
+    },
+    {
+      "added_at": "2023-03-27 08:33:01",
+      "album": {
+        "name": "Way - SM STATION",
+        "url": "https://open.spotify.com/album/5Pq73EZamFkp9SQpI6Zw7Y"
+      },
+      "artists": [
+        {
+          "name": "ONEW",
+          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
+        },
+        {
+          "name": "Punch",
+          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
+        }
+      ],
+      "duration_ms": 238853,
+      "name": "Way",
+      "url": "https://open.spotify.com/track/5jQRsJZzu8jicHgC3wgiY5"
     },
     {
       "added_at": "2023-03-27 08:33:01",

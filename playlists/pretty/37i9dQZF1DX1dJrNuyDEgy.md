@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dJrNuyDEgy.md) - [plain]
 
 > Ay ay ay ay..\. Canta y no llores, porque cantando se alegran, cielito lindo, los corazones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,310 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,356 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dJrNuyDEgy.md) - [plain]
 | 3 | [La bikina \- En vivo](https://open.spotify.com/track/1jxO9AwMqYynDsuMWKrPvi) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Vivo](https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo) | 2:59 |
 | 4 | [La Llorona](https://open.spotify.com/track/7L3borCR5Izc7zJjFpjjhh) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Primero Soy Mexicana](https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh) | 8:10 |
 | 5 | [Juliantla](https://open.spotify.com/track/7vrIweMapxdothM6NNPYy5) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [15 Éxitos](https://open.spotify.com/album/28S0SWEBQrVLIOjvewF5n2) | 3:24 |
-| 6 | [La Malagueña](https://open.spotify.com/track/3ffFEGNAioJPjFYAruekiT) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo) | 3:53 |
-| 7 | [Amorcito corazón](https://open.spotify.com/track/73WX2V6JVfyQYYIG3K76i8) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [15 Inmortales de Pedro Infante](https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba) | 3:01 |
+| 6 | [Amorcito corazón](https://open.spotify.com/track/73WX2V6JVfyQYYIG3K76i8) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [15 Inmortales de Pedro Infante](https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba) | 3:01 |
+| 7 | [La Malagueña](https://open.spotify.com/track/3ffFEGNAioJPjFYAruekiT) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo) | 3:53 |
 | 8 | [Serenata huasteca](https://open.spotify.com/track/2y3C3tWoNictZWuOuUtDuO) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [¡MÉXICO Por Siempre!](https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche) | 2:55 |
 | 9 | [El Barzon](https://open.spotify.com/track/3WALh4MuKxt00oJO7vSrjk) | [Luis Pérez Meza](https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT) | [Lo Mejor De Rancheras](https://open.spotify.com/album/1byRtvyAmS4gGeTbSRCwv8) | 2:44 |
 | 10 | [El Taconazo](https://open.spotify.com/track/1k8LMNtT8hsd4cPVwYchyX) | [El Piporro](https://open.spotify.com/artist/2RDCFdmJvNbGQBILkTvF5q) | [Lo Mejor De El Piporro](https://open.spotify.com/album/7Fk73SIehkIrO2uoo1L643) | 2:15 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dJrNuyDEgy.md) - [plain]
 | 23 | [La Bamba](https://open.spotify.com/track/51EcnaX9uGBFYdBpMThgEs) | [Tlen Huicani](https://open.spotify.com/artist/47dC2tIVeFjNtRXcCE53O8), [Lino Chavez](https://open.spotify.com/artist/0mE18DYrJBKMJdDBSUc3Jn) | [Veracruz Son y Huapango](https://open.spotify.com/album/7nrQ2LRqb5N0fFtW4rrPJD) | 3:13 |
 | 24 | [Huapango de Moncayo](https://open.spotify.com/track/6sRcmTzalGYAERH18Nkqo6) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Sinfónico 3](https://open.spotify.com/album/5r6kbcr9qtGnpUo9uBqWwq) | 8:32 |
 | 25 | [El Sinaloense](https://open.spotify.com/track/0bxa8kZpLhhxg9ATooV3yQ) | [Luis Aguilar](https://open.spotify.com/artist/4vazE48JBgn7Q7itFsfFVx) | [RCA 100 Años De Musica](https://open.spotify.com/album/439PoHmgdLpwc6LOF66FwH) | 1:45 |
-| 26 | [La Bala](https://open.spotify.com/track/2Z5fIjiXs9mewTPp2hvVTR) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [De Corazón](https://open.spotify.com/album/76fRflWFFHxPUIc0qKnmDo) | 10:01 |
-| 27 | [Cielito Lindo](https://open.spotify.com/track/3sfUcduHHcJ32O2bIVAxCM) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Primero Soy Mexicana](https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh) | 4:31 |
+| 26 | [Cielito Lindo](https://open.spotify.com/track/3sfUcduHHcJ32O2bIVAxCM) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Primero Soy Mexicana](https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh) | 4:31 |
+| 27 | [La Bala](https://open.spotify.com/track/2Z5fIjiXs9mewTPp2hvVTR) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [De Corazón](https://open.spotify.com/album/76fRflWFFHxPUIc0qKnmDo) | 10:01 |
 | 28 | [Canción Mixteca](https://open.spotify.com/track/5JNNjvunaFiUT56W8GRs80) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar](https://open.spotify.com/album/7Ed2u1RL16YZTKbew4O6HS) | 3:15 |
 | 29 | [Flor De Piña \(Pineapple Flower Dance\) \[Papaloapan Region\]](https://open.spotify.com/track/4Wu1DCxgNeZUKJvLXrhhv9) | [Banda Filarmónica Renacimiento A.C.](https://open.spotify.com/artist/6fUdU059sewWQ0BcsVOkec) | [La Guelaguetza Oaxaca, Vol\. 2](https://open.spotify.com/album/6ih0vpYKKHWJA7Sm9eYM2L) | 3:47 |
 | 30 | [El Toro Serrano](https://open.spotify.com/track/1OimeC3g4x7yH50XQFggPm) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por Mujeres Como Tú](https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL) | 2:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dJrNuyDEgy.md) - [plain]
 | 49 | [Los machetes](https://open.spotify.com/track/1xSDPL5ae24cnZFDwaIO6z) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Memorias Musicales del Mariachi](https://open.spotify.com/album/6DsXaAZwKKpOP1Lex4jDig) | 2:38 |
 | 50 | [La Cucaracha](https://open.spotify.com/track/4b0FVK3GdHI75vdUm8QrHV) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Aires de Mexico](https://open.spotify.com/album/5fMXK7VoIGri38AtHiTzwi) | 2:28 |
 
-Snapshot ID: `MTY3NzA4MzYzNSwwMDAwMDAwMDJjN2FiNzQ4NzlmZWI1M2M0MzhjYTgzMDg0NDc0ZTNh`
+Snapshot ID: `MTY3NzA4MzYzNSwwMDAwMDAwMDgxNGZiM2ZjOTk3ZTZhMzZmZWQ4M2Y3ODgxNjk3ZjRl`

@@ -4,7 +4,7 @@
 
 > Come on down to the waters ye sinner and dig deep into this collection of songs and stories steeped in struggle, hope, darkness, light, sin and salvation.
 
-54 songs - 3 hr 38 min
+55 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Arsonist's Lullabye](https://open.spotify.com/track/6W2iYBlVyKvhPOsjD7J8I4) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Special Edition\)](https://open.spotify.com/album/6bcl0ZcPJWJtyuRsOyhvfv) | 4:26 | 2018-04-16 | 2022-07-29 |
 | [Bartholomew](https://open.spotify.com/track/08zdIWzfOrJj8noBBAbfrV) | [The Silent Comedy](https://open.spotify.com/artist/4s7QvzBMTW4BKWI5pVO2mY) | [Common Faults](https://open.spotify.com/album/5pLjM7AFhHUCFvruCXA1u3) | 3:06 | 2018-04-16 | 2022-07-29 |
 | [Bartholomew](https://open.spotify.com/track/2fzp6ojPHvZaz4uHXxpJVk) | [The Silent Comedy](https://open.spotify.com/artist/4s7QvzBMTW4BKWI5pVO2mY) | [Common Faults \(Remastered Deluxe Edition\)](https://open.spotify.com/album/0am5E1PQGgwMlrsH5mLYtu) | 3:07 | 2018-04-16 | 2022-10-14 |
-| [Bartholomew](https://open.spotify.com/track/44CXyv6wcKCfoRIAY5r99s) | [The Silent Comedy](https://open.spotify.com/artist/4s7QvzBMTW4BKWI5pVO2mY) | [Common Faults \(Remastered Deluxe Edition\)](https://open.spotify.com/album/0ZrsOwdFsAWSnIjlVvKgOE) | 3:07 | 2018-04-16 |  |
+| [Bartholomew](https://open.spotify.com/track/44CXyv6wcKCfoRIAY5r99s) | [The Silent Comedy](https://open.spotify.com/artist/4s7QvzBMTW4BKWI5pVO2mY) | [Common Faults \(Remastered Deluxe Edition\)](https://open.spotify.com/album/0ZrsOwdFsAWSnIjlVvKgOE) | 3:07 | 2018-04-16 | 2023-04-17 |
+| [Bartholomew](https://open.spotify.com/track/4WDEbyUuc701Yn9jQ9srgR) | [The Silent Comedy](https://open.spotify.com/artist/4s7QvzBMTW4BKWI5pVO2mY) | [Common Faults](https://open.spotify.com/album/74McnqPMPwUWBBHZvhaEmr) | 3:07 | 2023-02-18 |  |
 | [Beat the Devil's Tattoo](https://open.spotify.com/track/2iPTESocncak2Q45oXzKOG) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Beat the Devil's Tattoo](https://open.spotify.com/album/04Aq1J0F5FcUUSEhFziTYc) | 3:45 | 2018-04-16 |  |
 | [Beat The Devil's Tattoo](https://open.spotify.com/track/466LASOuTbWDkrwZ3Ylxvv) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Beat the Devil's Tattoo](https://open.spotify.com/album/3ZF8HT7KB4gOvszKgSfUkP) | 3:45 | 2018-04-16 | 2022-07-29 |
 | [Beat the Devil's Tattoo](https://open.spotify.com/track/61OOEzfcJvTLHhFiLZOGRN) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Beat the Devil's Tattoo](https://open.spotify.com/album/7tSapn3n98ZkK3B1EXEGII) | 3:45 | 2018-04-16 | 2022-11-13 |

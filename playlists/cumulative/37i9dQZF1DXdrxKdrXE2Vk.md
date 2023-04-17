@@ -4,7 +4,7 @@
 
 > Experience the best of live worship here\. This week we are featuring some of the favorite live worship tracks of our Guest Curator, Sadie Roberston.
 
-247 songs - 1 day 1 hr 51 min
+248 songs - 1 day 2 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Everything That Has Breath](https://open.spotify.com/track/5bUlGqNAu2LAtK5PZ60jRr) | [Mountaintops](https://open.spotify.com/artist/7d4GxDYKKKb6wzu3tQIBrW), [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [Everything That Has Breath](https://open.spotify.com/album/6jVltEoxN3XZj5D7TxoMAn) | 4:26 | 2022-09-11 | 2023-03-11 |
 | [Everything U Do \- Live](https://open.spotify.com/track/71PXHikWVUqnoscOJrIV3K) | [River Valley AGES](https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h) | [Everything U Do](https://open.spotify.com/album/2dBVbFQOWnYuNHTgVKluSX) | 4:49 | 2023-03-23 | 2023-04-15 |
 | [Faithful \- Live](https://open.spotify.com/track/6S69yfVD0wfbBzDUycCtYy) | [Milestone Worship](https://open.spotify.com/artist/5NHwVYlsN0C3iBrfzfj3lo) | [Faithful \(Live\)](https://open.spotify.com/album/4lCANqaSStGpxfu0H4bSyl) | 7:33 | 2022-02-19 | 2023-03-11 |
-| [Falling In Love \- Live](https://open.spotify.com/track/2mGtvF2O6RHIkCkgXjwiqo) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [John Marc Kohl](https://open.spotify.com/artist/1VB1PYfo6aOs53Vs65t4hA) | [The Worship Initiative, Vol\. 29 \(Live\)](https://open.spotify.com/album/7A3jyuILeLlDYPYgMsrD6L) | 4:43 | 2022-09-11 |  |
+| [Falling In Love \- Live](https://open.spotify.com/track/2mGtvF2O6RHIkCkgXjwiqo) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [John Marc Kohl](https://open.spotify.com/artist/1VB1PYfo6aOs53Vs65t4hA) | [The Worship Initiative, Vol\. 29 \(Live\)](https://open.spotify.com/album/7A3jyuILeLlDYPYgMsrD6L) | 4:43 | 2022-09-11 | 2023-04-17 |
 | [Fearless \- Live](https://open.spotify.com/track/3xKxh0ES9v65MfR6wWjiCl) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Church Volume Two \(Live\)](https://open.spotify.com/album/2DJ7zYt905Ec0nFwWhImm6) | 4:40 | 2022-02-19 |  |
 | [Fighting For My Heart \- Live](https://open.spotify.com/track/2anWmr2A4jZQTDlypymJgv) | [KXC](https://open.spotify.com/artist/4IRzqqB9lt9kxz86QP0kpO), [Rich & Lydia Dicas](https://open.spotify.com/artist/2sEjWVN7e55lGoxddfXAaY) | [Pull Me Through \(Live at King’s House\)](https://open.spotify.com/album/38dj7aDFY0P50sYYmfMGhr) | 7:28 | 2023-03-11 |  |
 | [Finished Work of Christ](https://open.spotify.com/track/4dWde71yEtDlp61gLz3IUl) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS) | [Finished Work of Christ](https://open.spotify.com/album/6nu4zmJTD6kQQNDZctv6Xl) | 4:18 | 2022-09-11 |  |
@@ -177,6 +177,7 @@
 | [Open \- Live](https://open.spotify.com/track/0mmcXH66QN5K2VPFjD50bF) | [LO Worship](https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq) | [Steady Light \(Live from LO Conference\)](https://open.spotify.com/album/6St8kQLFrmsjhtKySbp4Jv) | 6:54 | 2023-03-11 | 2023-04-15 |
 | [Our Father \- Live](https://open.spotify.com/track/5eaxQpwigjy9aZzKDILVul) | [ICF Worship](https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW) | [Our Father \(Live\)](https://open.spotify.com/album/6KVdTXO70Eegz6FTmXqmfS) | 7:00 | 2022-02-19 | 2022-09-12 |
 | [Over & Over](https://open.spotify.com/track/6HELlDKNqQVSD2aCUs1xgp) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [Growing Pains](https://open.spotify.com/album/2t6iyhcrH9dDuPzCSjnxFG) | 4:50 | 2023-04-14 |  |
+| [Paul & Silas \(At Midnight\) \- Live](https://open.spotify.com/track/5ayC8O7yZHMjdIGUSomCZK) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Paul & Silas \(At Midnight\) \[Live\]](https://open.spotify.com/album/4gnmUbth0pCoIhhWlQuanM) | 10:28 | 2023-04-14 |  |
 | [Perspective \- Live](https://open.spotify.com/track/13uti1emyvqDERqFQgOC1J) | [CCV Music](https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e) | [Perspective \(Live\)](https://open.spotify.com/album/0GRiESh2EmEqqIYFIbDdcv) | 5:54 | 2022-09-11 | 2023-03-11 |
 | [Pour My Love On You](https://open.spotify.com/track/0THyR6FIUIrWVOQIYePq2p) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5), [Jonathan Lewis](https://open.spotify.com/artist/0yw87LS4yMQ6WhI2pZAPRY) | [Moments: Near 007](https://open.spotify.com/album/4WAhiiG3HkSMh7OvFMGqRA) | 11:31 | 2023-04-14 |  |
 | [Pour Your Spirit Out \- Live](https://open.spotify.com/track/1d73ibKJ5ugJ8One5WnPff) | [Thrive Worship](https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72) | [Let's Have Church \(Live\)](https://open.spotify.com/album/08cjOClrdsnoztgdxS5wjy) | 9:41 | 2022-02-19 | 2022-09-12 |

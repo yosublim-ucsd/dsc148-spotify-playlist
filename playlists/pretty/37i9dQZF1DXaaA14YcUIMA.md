@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 
 > Anda pa'lante galopante con los grandes del género romántico\. Los Bukis en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,280 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,509 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 | 12 | [Se Fue Mi Paloma](https://open.spotify.com/track/6v4btqrnQRhliof9wGuB3I) | [Los Mismos](https://open.spotify.com/artist/7nkBA0CcBFVR78vPhgcTa7) | [Juntos Para Siempre](https://open.spotify.com/album/0hzBrUq9vGTTyb0TnAdAjU) | 3:08 |
 | 13 | [Mi Vida Eres Tú](https://open.spotify.com/track/5mKwzq7UTXf1xwWcpPoteX) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [Mi Vida Eres Tú](https://open.spotify.com/album/0pKc1X7fBv9chuZRiSIZyE) | 4:10 |
 | 14 | [Amor Prohibido](https://open.spotify.com/track/4Hmuqk2w1fGqwpMP04aDUu) | [Grupo Bryndis](https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO) | [Por El Amor](https://open.spotify.com/album/5ZQ4AmRiuIGuHPf6MmWmxX) | 3:49 |
-| 15 | [Lápiz Labial](https://open.spotify.com/track/0bndT74WaGo5vnd6TLex8U) | [Los Felinos](https://open.spotify.com/artist/6RVdNANISrVp76M0Wjy4hX) | [Lápiz Labial](https://open.spotify.com/album/6FDTr5zPZrfMmeOsFaDTmt) | 2:52 |
+| 15 | [Me Estoy Enamorando](https://open.spotify.com/track/6TyDYuV7w2BwEFnGiMkIn6) | [La Mafia](https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs) | [Tesoros De Coleccion](https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda) | 3:23 |
 | 16 | [Cómo Estás Tú](https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Con La Fuerza Del Destino](https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY) | 2:57 |
-| 17 | [Me Estoy Enamorando](https://open.spotify.com/track/6TyDYuV7w2BwEFnGiMkIn6) | [La Mafia](https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs) | [Tesoros De Coleccion](https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda) | 3:23 |
+| 17 | [Lápiz Labial](https://open.spotify.com/track/0bndT74WaGo5vnd6TLex8U) | [Los Felinos](https://open.spotify.com/artist/6RVdNANISrVp76M0Wjy4hX) | [Lápiz Labial](https://open.spotify.com/album/6FDTr5zPZrfMmeOsFaDTmt) | 2:52 |
 | 18 | [Del Signo Libra](https://open.spotify.com/track/7mWCRNQxvOCCtMfe4sYdKW) | [Grupo Libra](https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt) | [Puras Románticas](https://open.spotify.com/album/22G9x42HPowUEACL8QxuAD) | 3:26 |
 | 19 | [El Taxista](https://open.spotify.com/track/5ugABx5bnTbKl0j6iPwaku) | [Los Dinnosaurios](https://open.spotify.com/artist/2WI2ub4Nn8cJM70m9IM2Hz) | [Inolvidables](https://open.spotify.com/album/6bMC920IXyDwMQVm6ZtCLU) | 3:44 |
 | 20 | [Yo Te Necesito](https://open.spotify.com/track/7yMWuJ6JOZ8Joo5gQrNaYA) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Yo Te Necesito](https://open.spotify.com/album/3hEe5rX51oJiXS3Lv9Yeiz) | 2:58 |
@@ -54,13 +54,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 | 44 | [Un Millon de Rosas](https://open.spotify.com/track/1idB3b2IIfal1DPwOuDQwo) | [La Mafia](https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs) | [20th Anniversary Series](https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX) | 3:29 |
 | 45 | [Ni El Primero Ni El Último](https://open.spotify.com/track/5s5K4wDAyhKr9KANDwt1xI) | [Los Rehenes](https://open.spotify.com/artist/5IaAggho4F1gWHE5REe1e8) | [Pregúntame A Mi](https://open.spotify.com/album/0HHGcxzBZPPXvS58Jnyc8k) | 2:54 |
 | 46 | [Tiernas Mentiras](https://open.spotify.com/track/2jDBun83BgJpfWL498OSIT) | [Samuray](https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8) | [Tiernas Mentiras](https://open.spotify.com/album/2XARbtGZQ4t7oTVlxjOww3) | 3:15 |
-| 47 | [Par De Anillos](https://open.spotify.com/track/3hNa7iKRzCK06IawGLlsbz) | [Viento Y Sol](https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s) | [Grandes Éxitos Remezclados Y Remasterizados](https://open.spotify.com/album/3RMafNWPxjqnrg1MU44Uei) | 3:14 |
+| 47 | [Ultimas Noticias](https://open.spotify.com/track/1KtOcVH5cR2D7QeWpzwm8I) | [Viento Y Sol](https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s) | [Últimas Noticias](https://open.spotify.com/album/5Y81X2aAPTKzjnIhsSz177) | 2:53 |
 | 48 | [Soy Yo](https://open.spotify.com/track/49NsFSiOiBOYDAYfZz4fjl) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [16 Éxitos De Oro](https://open.spotify.com/album/3E6LOBclSiqtnKW3WWJND9) | 3:33 |
 | 49 | [La Fuerza Del Destino](https://open.spotify.com/track/3WjmQylxM3VhcCcajyYGAK) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Con La Fuerza Del Destino](https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY) | 3:09 |
 | 50 | [Voy a pintar un corazón](https://open.spotify.com/track/6ztkxjvne5bjzUUnoskShx) | [Los Acosta](https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x) | [Album de Oro](https://open.spotify.com/album/7yZcbdxZv4trwSe3RfY8LE) | 3:28 |
 | 51 | [Tú Me Quieres Lastimar](https://open.spotify.com/track/4WZBfo2iiJyrhUdcyOOk0c) | [Ladron](https://open.spotify.com/artist/32BLNtPX18499VCjsUiFj1) | [Tú Me Quieres Lastimar](https://open.spotify.com/album/1iXk5Xg8ZhzfWQdbFxbyVE) | 3:35 |
 | 52 | [Oro](https://open.spotify.com/track/50QgKV8vabHHc7au535IqK) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Salvaje Y Tierno](https://open.spotify.com/album/3le90qgKpBzXiW1qigS89K) | 3:10 |
-| 53 | [Ultimas Noticias](https://open.spotify.com/track/1KtOcVH5cR2D7QeWpzwm8I) | [Viento Y Sol](https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s) | [Últimas Noticias](https://open.spotify.com/album/5Y81X2aAPTKzjnIhsSz177) | 2:53 |
+| 53 | [Par De Anillos](https://open.spotify.com/track/3hNa7iKRzCK06IawGLlsbz) | [Viento Y Sol](https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s) | [Grandes Éxitos Remezclados Y Remasterizados](https://open.spotify.com/album/3RMafNWPxjqnrg1MU44Uei) | 3:14 |
 | 54 | [Pídeme La Luna](https://open.spotify.com/track/09CI3BbRrcwkCoRU0ho2RR) | [Los Carlos](https://open.spotify.com/artist/1tVpZyBwLklWcc4BnEEveq) | [En La Luna](https://open.spotify.com/album/5WafO5nBowjxkbpA8c2ase) | 3:12 |
 | 55 | [Perdón Por Tus Lágrimas](https://open.spotify.com/track/3YoLl2RHRhzKg3WhpaFRES) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [Siempre Te Amaré](https://open.spotify.com/album/2vBkgzqbxptOQOnFqwJHos) | 3:57 |
 | 56 | [A Mentir A La Calle](https://open.spotify.com/track/05ww9jCVHDWWucXYarb3r2) | [Grupo Libra](https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt) | [Mi Mexico Querido](https://open.spotify.com/album/47BG0SjWkoyPPCYbEGF8gM) | 3:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 | 99 | [Ven Porque Te Necesito \- Remastered](https://open.spotify.com/track/3DgShLY5XAFKfzM4R5ChLO) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [Los Temerarios Esencial](https://open.spotify.com/album/61lnwjC4AW60dWT4hpqjf8) | 2:57 |
 | 100 | [Tiernas Mentiras](https://open.spotify.com/track/6YjOZqhnGjY73u8cY1p4gl) | [Samuray](https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8) | [Linea De Oro Contigo O Sin Ti](https://open.spotify.com/album/5VLGX5BkN6IdRYNtETZ6Cs) | 3:15 |
 
-Snapshot ID: `MTY0NzQ3NjM4NywwMDAwMDAwMDY5YWJjYTNkZDJiZTFmMGQxYjg0NDY0YTc0ODgxYTU4`
+Snapshot ID: `MTY0NzQ3NjM4NywwMDAwMDAwMDA0NTk3ZTYzM2Y4M2U1YTZmNDI5ZDY2ZWM5NzE4ZTE0`

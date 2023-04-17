@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Happy National Pet Day with JOY ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,365 likes - 258 songs - 14 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,502 likes - 258 songs - 14 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

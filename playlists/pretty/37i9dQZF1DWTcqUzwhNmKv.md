@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Metallica on top of the biggest Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,402,956 likes - 75 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,403,305 likes - 75 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [72 Seasons](https://open.spotify.com/track/6txhb14PWs9yrkTgR2jnU4) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/5vFa10TvQUWpEv9OkVBatc) | 7:39 |
+| 1 | [72 Seasons](https://open.spotify.com/track/4poeu6nUr4UQo1RXpp29Js) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 7:39 |
 | 2 | [Nobody](https://open.spotify.com/track/4tjTsxTBcacHcx0AvWERLE) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Nobody](https://open.spotify.com/album/4SeaFQDKygggRW9lrmwAhy) | 5:53 |
 | 3 | [Drowning](https://open.spotify.com/track/4l0UQ0zDIPYaaa5FF2Kvwt) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Drowning](https://open.spotify.com/album/6d5waVDcEQEcM6BKbkBiNx) | 2:45 |
 | 4 | [Doomswitch](https://open.spotify.com/track/6pUUtKVRmODliJWTyY2pet) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Doomswitch](https://open.spotify.com/album/7J8x3vAHCvP4gKZUEdsLN4) | 4:35 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 44 | [Soul Bleach](https://open.spotify.com/track/3kRGiGpjCFS7CtEBSfHNH0) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Darker Still](https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4) | 3:31 |
 | 45 | [The Shape of Water](https://open.spotify.com/track/1TQCfN9QDURXA14PlJs4x5) | [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0), [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [The Shape of Water](https://open.spotify.com/album/30AACekoL1ZM6gXtPE7GHN) | 3:34 |
 | 46 | [Obsolete](https://open.spotify.com/track/0FCY8j3JRrZ2ynRUdMK9pS) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Echo](https://open.spotify.com/album/5pCBuV5mhXIUonyuWL5EZd) | 4:25 |
-| 47 | [If Darkness Had a Son](https://open.spotify.com/track/69HjtjyHuP8KJT7xBaUmtW) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [If Darkness Had a Son](https://open.spotify.com/album/07wqwU4JaQl7XTWwfiAobb) | 6:36 |
+| 47 | [If Darkness Had a Son](https://open.spotify.com/track/3i4Nwzze8zflIoKsuoeBPM) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 6:36 |
 | 48 | [Monochrome](https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Monochrome](https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI) | 3:57 |
 | 49 | [Heretic \(feat\. Loz Taylor\)](https://open.spotify.com/track/2mTi7e03FygOF0bds32848) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Heretic \(feat\. Loz Taylor\)](https://open.spotify.com/album/4GuxQZOki4NdCKpn9kW9xn) | 3:32 |
 | 50 | [DOGMA](https://open.spotify.com/track/2HIhl2w9iWzxc9b6PJbXFw) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [DOGMA](https://open.spotify.com/album/6bjW09q0WnAX0nIhrJ9rBr) | 2:46 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 74 | [Bone Church](https://open.spotify.com/track/36sAFU68abNDrMOJI5QYZi) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Bone Church](https://open.spotify.com/album/3YfWgkwUS52CmKJeOpBACz) | 5:27 |
 | 75 | [Harvest](https://open.spotify.com/track/4mHO98MVqhw7DeZyoNmCYG) | [Empire State Bastard](https://open.spotify.com/artist/4Lje5EOojiMe1qsGspOlDq) | [Harvest](https://open.spotify.com/album/0kSnsRmaRxJigfDeO355Gq) | 2:50 |
 
-Snapshot ID: `MTY4MTQ0NzcwMSwwMDAwMDAwMDY0NTUxZWMwNDNjOGFlZThkMDQzMmJjNGUwOTI4MmUz`
+Snapshot ID: `MTY4MTQ0NzcwMSwwMDAwMDAwMGMxYTdkMmIyYzQ5MWNiM2NmY2IyNmRhYzAyYjcwMzBk`

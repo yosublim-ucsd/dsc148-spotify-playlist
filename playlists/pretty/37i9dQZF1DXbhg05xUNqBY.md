@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 
 > Breathe deep, and relax with the softer side of Christian music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,251 likes - 70 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,507 likes - 70 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 | 67 | [Helpless One](https://open.spotify.com/track/4DccX20AEk2LUgaDht4eHt) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [Helpless One](https://open.spotify.com/album/4MEBE9KVyYrQqDbUqZvyvN) | 3:15 |
 | 68 | [Whisper \(Acoustic\)](https://open.spotify.com/track/73ZcbnETkq6chgu1RhVULY) | [Stillman](https://open.spotify.com/artist/7oiurd2k5JbvCNjP3PWKTH) | [Whisper \(Acoustic Sessions\)](https://open.spotify.com/album/3njl0Jd9S5nSGIYJxp5UuT) | 4:27 |
 | 69 | [Providence](https://open.spotify.com/track/7G8ZEE8HmuPPfy5JE5PE8b) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo) | [Providence](https://open.spotify.com/album/16PEcahwDYpgyENSSIBPfN) | 6:18 |
-| 70 | [Heaven's Eyes](https://open.spotify.com/track/5NT4xU0yoihXlVFK5UqXP9) | [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp) | [Heaven's Eyes](https://open.spotify.com/album/17togDwr6kxfxkVJZupMJt) | 4:33 |
+| 70 | [Holy, Holy, Holy](https://open.spotify.com/track/6xO4gnKFDGCvLiIFiiDsLT) | [John Tibbs](https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d) | [Holy, Holy, Holy](https://open.spotify.com/album/4iCzXfUIGxmEX8DA42flzB) | 2:26 |
 
-Snapshot ID: `MTY3NTc5MTc4MiwwMDAwMDAwMGY1MDhhZmEyNjYwYzUwZmY5M2UxODQxZDYzY2RjNzcy`
+Snapshot ID: `MTY3NTc5MTc4MiwwMDAwMDAwMDI5ZWMyMzFkZDJkYzIwODJiZTM4NjAzYWNhMDA1MzNm`

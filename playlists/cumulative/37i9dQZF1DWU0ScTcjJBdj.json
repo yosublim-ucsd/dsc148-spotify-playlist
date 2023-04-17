@@ -4711,6 +4711,24 @@
     },
     {
       "album": {
+        "name": "Stand in the Joy",
+        "url": "https://open.spotify.com/album/2r3IZ2sjXvKm14wZEUZC49"
+      },
+      "artists": [
+        {
+          "name": "William Prince",
+          "url": "https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185920,
+      "name": "When You Miss Someone",
+      "url": "https://open.spotify.com/track/0WTMkjTjqKy2KnNQYGfQI5"
+    },
+    {
+      "album": {
         "name": "When You Miss Someone / Tanqueray",
         "url": "https://open.spotify.com/album/7gzB41KzCKsIlRMOq8q0x1"
       },
@@ -4722,7 +4740,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 185920,
       "name": "When You Miss Someone",
       "url": "https://open.spotify.com/track/7qJKahUHkASPu54vMil98J"

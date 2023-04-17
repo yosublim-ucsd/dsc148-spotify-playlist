@@ -1,12 +1,12 @@
 {
   "description": "El icuiricui, el matalacachimba y el ruletero.",
-  "num_followers": 209981,
+  "num_followers": 210157,
   "original_name": "Ruleteando",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTk5NDM4OCwwMDAwMDAwMDFkMzZiMDYxZDIzY2Q0M2U4Nzg2NmE1MjVhY2Q2NWQy",
+  "snapshot_id": "MTY1OTk5NDM4OCwwMDAwMDAwMGNiZGVmYmUzNWY4YWFlNDI5MDY4NDczNzhiOGM0ZmU0",
   "tracks": [
     {
       "added_at": "2022-06-20 21:50:22",
@@ -451,22 +451,6 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "Internacionales Y Rom\u00e1nticos",
-        "url": "https://open.spotify.com/album/5Ze16psciPmtUvLIOLE5D3"
-      },
-      "artists": [
-        {
-          "name": "Los Temerarios",
-          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
-        }
-      ],
-      "duration_ms": 175013,
-      "name": "Ven Porque Te Necesito",
-      "url": "https://open.spotify.com/track/4MNfkZ8dtva3cjJ2biqnDS"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
         "name": "Tus Jefes No Me Quieren. Lleg\u00f3 la Cumbia",
         "url": "https://open.spotify.com/album/59DJY70HuReCmWs6EzRoNA"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 226346,
       "name": "Tus Jefes No Me Quieren",
       "url": "https://open.spotify.com/track/5ZkVnHs6BZViyXnl4LmRXh"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "Internacionales Y Rom\u00e1nticos",
+        "url": "https://open.spotify.com/album/5Ze16psciPmtUvLIOLE5D3"
+      },
+      "artists": [
+        {
+          "name": "Los Temerarios",
+          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
+        }
+      ],
+      "duration_ms": 175013,
+      "name": "Ven Porque Te Necesito",
+      "url": "https://open.spotify.com/track/4MNfkZ8dtva3cjJ2biqnDS"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -592,7 +592,7 @@
           "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
         }
       ],
-      "duration_ms": 259240,
+      "duration_ms": 259239,
       "name": "Oye Mujer",
       "url": "https://open.spotify.com/track/37kCg5izHEMZ66xGdMVG5L"
     },
@@ -647,22 +647,6 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 200840,
-      "name": "No Me Queda M\u00e1s",
-      "url": "https://open.spotify.com/track/1r28ZDlVxz24Rmy8Sq9REY"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
         "name": "Inalcanzable",
         "url": "https://open.spotify.com/album/13UzYROsKbVZF4RZCrMtQF"
       },
@@ -679,18 +663,18 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "Tu Amor Secreto",
-        "url": "https://open.spotify.com/album/1ICfNn1KnGQnjyXaYOiB3c"
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
       },
       "artists": [
         {
-          "name": "Grupo Bryndis",
-          "url": "https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO"
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 214293,
-      "name": "Tu Traici\u00f3n",
-      "url": "https://open.spotify.com/track/2ObbqCZZgwK8VowFYf0RPh"
+      "duration_ms": 200840,
+      "name": "No Me Queda M\u00e1s",
+      "url": "https://open.spotify.com/track/1r28ZDlVxz24Rmy8Sq9REY"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -707,6 +691,22 @@
       "duration_ms": 183373,
       "name": "No Hay Novedad",
       "url": "https://open.spotify.com/track/5LhkCuUvJeMj308m4vlB8z"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "Tu Amor Secreto",
+        "url": "https://open.spotify.com/album/1ICfNn1KnGQnjyXaYOiB3c"
+      },
+      "artists": [
+        {
+          "name": "Grupo Bryndis",
+          "url": "https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO"
+        }
+      ],
+      "duration_ms": 214293,
+      "name": "Tu Traici\u00f3n",
+      "url": "https://open.spotify.com/track/2ObbqCZZgwK8VowFYf0RPh"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -775,18 +775,18 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "Por El Amor",
-        "url": "https://open.spotify.com/album/5ZQ4AmRiuIGuHPf6MmWmxX"
+        "name": "Bodas De Enga\u00f1o",
+        "url": "https://open.spotify.com/album/2Kmg5CiuBTZxYPTEypKDpy"
       },
       "artists": [
         {
-          "name": "Grupo Bryndis",
-          "url": "https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO"
+          "name": "Vagon Chicano",
+          "url": "https://open.spotify.com/artist/2yK0OH7d55O2eZNcBTB19k"
         }
       ],
-      "duration_ms": 229653,
-      "name": "Amor Prohibido",
-      "url": "https://open.spotify.com/track/4Hmuqk2w1fGqwpMP04aDUu"
+      "duration_ms": 212360,
+      "name": "Viernes Sin Tu Amor",
+      "url": "https://open.spotify.com/track/2Ud8SDPZjPI1QSMtOHw721"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -807,6 +807,22 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
+        "name": "Por El Amor",
+        "url": "https://open.spotify.com/album/5ZQ4AmRiuIGuHPf6MmWmxX"
+      },
+      "artists": [
+        {
+          "name": "Grupo Bryndis",
+          "url": "https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO"
+        }
+      ],
+      "duration_ms": 229653,
+      "name": "Amor Prohibido",
+      "url": "https://open.spotify.com/track/4Hmuqk2w1fGqwpMP04aDUu"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
         "name": "Nuestras Canciones Romanticas Favoritas \"20 Exitazos\"",
         "url": "https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM"
       },
@@ -823,18 +839,18 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "Bodas De Enga\u00f1o",
-        "url": "https://open.spotify.com/album/2Kmg5CiuBTZxYPTEypKDpy"
+        "name": "Te Voy A Amar",
+        "url": "https://open.spotify.com/album/64bP2mJ6u20tHxA3EoEbOC"
       },
       "artists": [
         {
-          "name": "Vagon Chicano",
-          "url": "https://open.spotify.com/artist/2yK0OH7d55O2eZNcBTB19k"
+          "name": "Fidel Rueda",
+          "url": "https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ"
         }
       ],
-      "duration_ms": 212360,
-      "name": "Viernes Sin Tu Amor",
-      "url": "https://open.spotify.com/track/2Ud8SDPZjPI1QSMtOHw721"
+      "duration_ms": 194626,
+      "name": "Enhorabuena",
+      "url": "https://open.spotify.com/track/7eensGADN6jTkmrtPPFcBO"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -851,22 +867,6 @@
       "duration_ms": 213026,
       "name": "Amor Regresa",
       "url": "https://open.spotify.com/track/3nbCTU4k0l68vml8nDajwU"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "Te Voy A Amar",
-        "url": "https://open.spotify.com/album/64bP2mJ6u20tHxA3EoEbOC"
-      },
-      "artists": [
-        {
-          "name": "Fidel Rueda",
-          "url": "https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ"
-        }
-      ],
-      "duration_ms": 194626,
-      "name": "Enhorabuena",
-      "url": "https://open.spotify.com/track/7eensGADN6jTkmrtPPFcBO"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
+        "name": "Tesoros De Coleccion",
+        "url": "https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda"
+      },
+      "artists": [
+        {
+          "name": "La Mafia",
+          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
+        }
+      ],
+      "duration_ms": 203560,
+      "name": "Me Estoy Enamorando",
+      "url": "https://open.spotify.com/track/6TyDYuV7w2BwEFnGiMkIn6"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 172512,
       "name": "L\u00e1piz Labial",
       "url": "https://open.spotify.com/track/0bndT74WaGo5vnd6TLex8U"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "Tesoros De Coleccion",
-        "url": "https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda"
-      },
-      "artists": [
-        {
-          "name": "La Mafia",
-          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
-        }
-      ],
-      "duration_ms": 203560,
-      "name": "Me Estoy Enamorando",
-      "url": "https://open.spotify.com/track/6TyDYuV7w2BwEFnGiMkIn6"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "No Me Llames Mas",
-        "url": "https://open.spotify.com/album/1kGauj7au3yzXtrajKOnjd"
-      },
-      "artists": [
-        {
-          "name": "Alcalde La Sonora",
-          "url": "https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ"
-        }
-      ],
-      "duration_ms": 267415,
-      "name": "No Me Llames Mas",
-      "url": "https://open.spotify.com/track/73NQ9fWD3g74wsUh5LTdfF"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
         "name": "Directo Al Coraz\u00f3n",
         "url": "https://open.spotify.com/album/6w4hod1ifRryFs208eKPLe"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 280120,
       "name": "Ese Loco Soy Yo",
       "url": "https://open.spotify.com/track/0J0zz9v1hRXQXQ2rJLgKq1"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "No Me Llames Mas",
+        "url": "https://open.spotify.com/album/1kGauj7au3yzXtrajKOnjd"
+      },
+      "artists": [
+        {
+          "name": "Alcalde La Sonora",
+          "url": "https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ"
+        }
+      ],
+      "duration_ms": 267415,
+      "name": "No Me Llames Mas",
+      "url": "https://open.spotify.com/track/73NQ9fWD3g74wsUh5LTdfF"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -1227,38 +1227,6 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "IV",
-        "url": "https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 207226,
-      "name": "Eres Mi Droga",
-      "url": "https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "Solo Baladas",
-        "url": "https://open.spotify.com/album/6ThVFZhZjPiHwkeoxjJZjh"
-      },
-      "artists": [
-        {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Palabras Tristes",
-      "url": "https://open.spotify.com/track/57xX3bw17BSVUu5WXGwoNw"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
         "name": "El Peor De Tus Antojos",
         "url": "https://open.spotify.com/album/0xCvjzBPz0Ir2t57IaBzim"
       },
@@ -1275,6 +1243,22 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
+        "name": "IV",
+        "url": "https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 207226,
+      "name": "Eres Mi Droga",
+      "url": "https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
         "name": "Los Felinos",
         "url": "https://open.spotify.com/album/4PskUSrvXsKUQ6V0YSlVdI"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 226417,
       "name": "Morena",
       "url": "https://open.spotify.com/track/0sfppAuBPAZ76Xxye6evli"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "Solo Baladas",
+        "url": "https://open.spotify.com/album/6ThVFZhZjPiHwkeoxjJZjh"
+      },
+      "artists": [
+        {
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Palabras Tristes",
+      "url": "https://open.spotify.com/track/57xX3bw17BSVUu5WXGwoNw"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "15 Grandes",
-        "url": "https://open.spotify.com/album/5IFN7h62KHYzNaI5BBIpHj"
-      },
-      "artists": [
-        {
-          "name": "Diablos Locos",
-          "url": "https://open.spotify.com/artist/4VB5hjhR9zb2ZdkShUBGvY"
-        }
-      ],
-      "duration_ms": 308837,
-      "name": "Si No La Tengo",
-      "url": "https://open.spotify.com/track/5BSYu3CEg0L9sDBNXOwKTk"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
         "name": "Mi Vida En Vida",
         "url": "https://open.spotify.com/album/6D6J6D5iAAwZq3zx7aTl6t"
       },
@@ -1371,22 +1355,18 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "Volver\u00e9 A Conquistarte",
-        "url": "https://open.spotify.com/album/691ZR6kaZeK4JS4tQGPuQf"
+        "name": "15 Grandes",
+        "url": "https://open.spotify.com/album/5IFN7h62KHYzNaI5BBIpHj"
       },
       "artists": [
         {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
-        },
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+          "name": "Diablos Locos",
+          "url": "https://open.spotify.com/artist/4VB5hjhR9zb2ZdkShUBGvY"
         }
       ],
-      "duration_ms": 236533,
-      "name": "Pero Te Vas A Arrepentir",
-      "url": "https://open.spotify.com/track/7fUuC299Gjpe7gkW3pBbZp"
+      "duration_ms": 308837,
+      "name": "Si No La Tengo",
+      "url": "https://open.spotify.com/track/5BSYu3CEg0L9sDBNXOwKTk"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -1435,6 +1415,26 @@
       "duration_ms": 175373,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/2Y1qcW4b9aVRnX1fHaVvxY"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "Volver\u00e9 A Conquistarte",
+        "url": "https://open.spotify.com/album/691ZR6kaZeK4JS4tQGPuQf"
+      },
+      "artists": [
+        {
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
+        },
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 236533,
+      "name": "Pero Te Vas A Arrepentir",
+      "url": "https://open.spotify.com/track/7fUuC299Gjpe7gkW3pBbZp"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "Los Yonic's",
-        "url": "https://open.spotify.com/album/1n9JO1nI25yEpiqhie0bpt"
-      },
-      "artists": [
-        {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
-        }
-      ],
-      "duration_ms": 192440,
-      "name": "Un Dolor",
-      "url": "https://open.spotify.com/track/17CjK3UlTIKqklXjOf9mIc"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
         "name": "30 Aniversario (Edici\u00f3n Limitada)",
         "url": "https://open.spotify.com/album/4xxnGwPDaWB4OUmhoGIBCG"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 289802,
       "name": "Las Amo a Las Dos",
       "url": "https://open.spotify.com/track/4XqXGdhCvH9GL7DWeqUrWm"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "Los Yonic's",
+        "url": "https://open.spotify.com/album/1n9JO1nI25yEpiqhie0bpt"
+      },
+      "artists": [
+        {
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
+        }
+      ],
+      "duration_ms": 192440,
+      "name": "Un Dolor",
+      "url": "https://open.spotify.com/track/17CjK3UlTIKqklXjOf9mIc"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -1615,24 +1615,8 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "16 \u00c9xitos De Oro",
-        "url": "https://open.spotify.com/album/3E6LOBclSiqtnKW3WWJND9"
-      },
-      "artists": [
-        {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
-        }
-      ],
-      "duration_ms": 213600,
-      "name": "Soy Yo",
-      "url": "https://open.spotify.com/track/49NsFSiOiBOYDAYfZz4fjl"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
-        "url": "https://open.spotify.com/album/3RMafNWPxjqnrg1MU44Uei"
+        "name": "\u00daltimas Noticias",
+        "url": "https://open.spotify.com/album/5Y81X2aAPTKzjnIhsSz177"
       },
       "artists": [
         {
@@ -1640,9 +1624,9 @@
           "url": "https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s"
         }
       ],
-      "duration_ms": 194426,
-      "name": "Par De Anillos",
-      "url": "https://open.spotify.com/track/3hNa7iKRzCK06IawGLlsbz"
+      "duration_ms": 173133,
+      "name": "Ultimas Noticias",
+      "url": "https://open.spotify.com/track/1KtOcVH5cR2D7QeWpzwm8I"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -1679,18 +1663,18 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "Salvaje Y Tierno",
-        "url": "https://open.spotify.com/album/3le90qgKpBzXiW1qigS89K"
+        "name": "16 \u00c9xitos De Oro",
+        "url": "https://open.spotify.com/album/3E6LOBclSiqtnKW3WWJND9"
       },
       "artists": [
         {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
         }
       ],
-      "duration_ms": 190653,
-      "name": "Oro",
-      "url": "https://open.spotify.com/track/50QgKV8vabHHc7au535IqK"
+      "duration_ms": 213600,
+      "name": "Soy Yo",
+      "url": "https://open.spotify.com/track/49NsFSiOiBOYDAYfZz4fjl"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -1707,6 +1691,22 @@
       "duration_ms": 197400,
       "name": "Prefiero Partir",
       "url": "https://open.spotify.com/track/5jPB0XbTQ89o5DDd0WzJ6p"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "Salvaje Y Tierno",
+        "url": "https://open.spotify.com/album/3le90qgKpBzXiW1qigS89K"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "duration_ms": 190653,
+      "name": "Oro",
+      "url": "https://open.spotify.com/track/50QgKV8vabHHc7au535IqK"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "\u00daltimas Noticias",
-        "url": "https://open.spotify.com/album/5Y81X2aAPTKzjnIhsSz177"
-      },
-      "artists": [
-        {
-          "name": "Viento Y Sol",
-          "url": "https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s"
-        }
-      ],
-      "duration_ms": 173133,
-      "name": "Ultimas Noticias",
-      "url": "https://open.spotify.com/track/1KtOcVH5cR2D7QeWpzwm8I"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
         "name": "La Otra Cara De La Moneda",
         "url": "https://open.spotify.com/album/7vbP6s1SYmqvGxa1wiccAC"
       },
@@ -1771,22 +1755,6 @@
       "duration_ms": 225826,
       "name": "Comp\u00e1rame",
       "url": "https://open.spotify.com/track/3LV4lHJfAiQeprF21jDJec"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "Como Pude Enamorarme De Ti",
-        "url": "https://open.spotify.com/album/4kPZh0MgavSWBIr1LXgBQU"
-      },
-      "artists": [
-        {
-          "name": "Patrulla 81",
-          "url": "https://open.spotify.com/artist/4TTxsp1mecTPT9O4dxVtvN"
-        }
-      ],
-      "duration_ms": 131440,
-      "name": "C\u00f3mo Pude Enamorarme De Ti",
-      "url": "https://open.spotify.com/track/0A4lH5fAqNuLCSOYA3Bp7V"
     },
     {
       "added_at": "2022-01-19 06:00:00",
@@ -1803,6 +1771,38 @@
       "duration_ms": 328115,
       "name": "Los Caminos de la Vida - Spotify Singles",
       "url": "https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
+        "url": "https://open.spotify.com/album/3RMafNWPxjqnrg1MU44Uei"
+      },
+      "artists": [
+        {
+          "name": "Viento Y Sol",
+          "url": "https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s"
+        }
+      ],
+      "duration_ms": 194426,
+      "name": "Par De Anillos",
+      "url": "https://open.spotify.com/track/3hNa7iKRzCK06IawGLlsbz"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "Como Pude Enamorarme De Ti",
+        "url": "https://open.spotify.com/album/4kPZh0MgavSWBIr1LXgBQU"
+      },
+      "artists": [
+        {
+          "name": "Patrulla 81",
+          "url": "https://open.spotify.com/artist/4TTxsp1mecTPT9O4dxVtvN"
+        }
+      ],
+      "duration_ms": 131440,
+      "name": "C\u00f3mo Pude Enamorarme De Ti",
+      "url": "https://open.spotify.com/track/0A4lH5fAqNuLCSOYA3Bp7V"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "La Monjita Voladora - Cumbia Sonidera",
-        "url": "https://open.spotify.com/album/7HxXxjI6VekYFOUtJL7n2V"
-      },
-      "artists": [
-        {
-          "name": "Grupo Toca Recio",
-          "url": "https://open.spotify.com/artist/1j98coEFrGNwVfl7gGMO7u"
-        }
-      ],
-      "duration_ms": 249768,
-      "name": "La Monjita Voladora - Cumbia Sonidera",
-      "url": "https://open.spotify.com/track/24zP7HDzOD078cjG0q61i3"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
         "name": "Mi Cuerpo No Esta Hecho de Metal",
         "url": "https://open.spotify.com/album/7BWj5xz4UjKFk2VL1MQVq0"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 279591,
       "name": "Mi Cuerpo No Esta Hecho de Metal",
       "url": "https://open.spotify.com/track/6wtEHJnbvFFfjoxachlbR6"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "La Monjita Voladora - Cumbia Sonidera",
+        "url": "https://open.spotify.com/album/7HxXxjI6VekYFOUtJL7n2V"
+      },
+      "artists": [
+        {
+          "name": "Grupo Toca Recio",
+          "url": "https://open.spotify.com/artist/1j98coEFrGNwVfl7gGMO7u"
+        }
+      ],
+      "duration_ms": 249768,
+      "name": "La Monjita Voladora - Cumbia Sonidera",
+      "url": "https://open.spotify.com/track/24zP7HDzOD078cjG0q61i3"
     },
     {
       "added_at": "2021-10-12 19:24:04",

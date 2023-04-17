@@ -4,7 +4,7 @@
 
 > ¡A preparar la comida con la sazón de música rica y antigüita!
 
-148 songs - 8 hr 54 min
+149 songs - 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,8 @@
 | [Paleta](https://open.spotify.com/track/3XdIv0nuZqbsnOLNyRsk8k) | [Orkesta Mendoza](https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT) | [Curandero](https://open.spotify.com/album/6XoMGMJOg5HKxWdKI1kkuW) | 2:40 | 2020-05-28 | 2022-07-29 |
 | [Paletero](https://open.spotify.com/track/7ItyQF5aDdr6kizFmQ1u7T) | [Las Cafeteras](https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz) | [Tastes Like L.A.](https://open.spotify.com/album/5SHxpx9zusBX63FOcIo45w) | 3:55 | 2020-05-28 | 2022-07-29 |
 | [Paletero](https://open.spotify.com/track/7g0zc1QNXmrg44wpki6C6n) | [Las Cafeteras](https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz) | [Tastes Like L.A.](https://open.spotify.com/album/1PbmMKMsXwEC9S0I6YrMG6) | 3:55 | 2020-05-28 |  |
-| [Palmar](https://open.spotify.com/track/7wwHXlNsf2HkaVukGNVy8f) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Loca Navidad Latin Rock Vol\. 4](https://open.spotify.com/album/0kDXegd5ADxlS4OhzYhgUX) | 3:13 | 2022-01-11 |  |
+| [Palmar](https://open.spotify.com/track/1INtYY3PE2RP7NrhHOsBaz) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Fruta \(Vol\. II\)](https://open.spotify.com/album/1CKiIYZCELUISFQOsKt2DP) | 3:13 | 2022-01-11 |  |
+| [Palmar](https://open.spotify.com/track/7wwHXlNsf2HkaVukGNVy8f) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Loca Navidad Latin Rock Vol\. 4](https://open.spotify.com/album/0kDXegd5ADxlS4OhzYhgUX) | 3:13 | 2022-01-11 | 2023-04-17 |
 | [Palmera](https://open.spotify.com/track/1thsP19THIiLrpxIPqEteA) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [RCA 100 Años De Musica](https://open.spotify.com/album/0vJ6OuVc98sUYHf8kan8qh) | 1:42 | 2022-01-11 |  |
 | [Papayas](https://open.spotify.com/track/5IdYwtkWxze5HKIq6uwFEk) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [Papayas](https://open.spotify.com/album/2yicqz18D45XpgeHAL2692) | 5:37 | 2020-05-28 |  |
 | [Piel Canela](https://open.spotify.com/track/5eKIsUOHyI4Rc576epTZGO) | [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z), [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Eydie Gorme y Los Panchos](https://open.spotify.com/album/1jbNBYDO9ceORyxH28ZNFf) | 2:16 | 2020-05-28 | 2022-07-29 |

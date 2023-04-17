@@ -1,12 +1,12 @@
 {
   "description": "Swinging jazz and soft beats for relaxing and unwinding.",
-  "num_followers": 42787,
+  "num_followers": 42898,
   "original_name": "Chill Out Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQyMzIwMCwwMDAwMDAwMDEyNzRiMzRjNDVhZTVjYTk3N2ZiZDBjYmY0ZGM1ZTJk",
+  "snapshot_id": "MTY4MTQyMzIwMCwwMDAwMDAwMGYzMzBiN2YwNDA2ZGJmNjA0MzAwMGE4NTgzZjdiNGRh",
   "tracks": [
     {
       "added_at": "2023-04-13 22:00:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Candy",
-        "url": "https://open.spotify.com/album/0YBqRnGxHoCnuEcgdtNLs1"
-      },
-      "artists": [
-        {
-          "name": "Irvin Smith Group",
-          "url": "https://open.spotify.com/artist/4SL7KeObcdWbpCRzEKlhCJ"
-        }
-      ],
-      "duration_ms": 204083,
-      "name": "Candy",
-      "url": "https://open.spotify.com/track/1Eh0sGvTxDYx13pE2PBpEn"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
         "name": "Du & Jag",
         "url": "https://open.spotify.com/album/6XFSqJXCjg1x5GeBslZkBN"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 182563,
       "name": "Me and You",
       "url": "https://open.spotify.com/track/13PQrxT6yKIpsjIKPRBtC5"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "Candy",
+        "url": "https://open.spotify.com/album/0YBqRnGxHoCnuEcgdtNLs1"
+      },
+      "artists": [
+        {
+          "name": "Irvin Smith Group",
+          "url": "https://open.spotify.com/artist/4SL7KeObcdWbpCRzEKlhCJ"
+        }
+      ],
+      "duration_ms": 204083,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/1Eh0sGvTxDYx13pE2PBpEn"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Beautiful Sunrise",
-        "url": "https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH"
-      },
-      "artists": [
-        {
-          "name": "Arta Porting",
-          "url": "https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg"
-        }
-      ],
-      "duration_ms": 327224,
-      "name": "Quiet Sunset",
-      "url": "https://open.spotify.com/track/2bjt3Gki4hIwX9EIrSuYQA"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
         "name": "Solitaire",
         "url": "https://open.spotify.com/album/71qxttrdClPi0LYz05vJhw"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 211053,
       "name": "Solitaire",
       "url": "https://open.spotify.com/track/0loeb8Q4ErFkJWqr2wmNeq"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "Beautiful Sunrise",
+        "url": "https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH"
+      },
+      "artists": [
+        {
+          "name": "Arta Porting",
+          "url": "https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg"
+        }
+      ],
+      "duration_ms": 327224,
+      "name": "Quiet Sunset",
+      "url": "https://open.spotify.com/track/2bjt3Gki4hIwX9EIrSuYQA"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Now that we are here",
-        "url": "https://open.spotify.com/album/4rzLnj1bsRZNq3MDEr6Hh8"
-      },
-      "artists": [
-        {
-          "name": "Soft Brush Touches",
-          "url": "https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ"
-        }
-      ],
-      "duration_ms": 162569,
-      "name": "Now that we are here",
-      "url": "https://open.spotify.com/track/0rQngOdT0wJxPT6jxt9B0n"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
         "name": "Nublu",
         "url": "https://open.spotify.com/album/0PqSULFQO0lLVbiV7lw9BP"
       },
@@ -927,18 +911,18 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "The Nearness Of You",
-        "url": "https://open.spotify.com/album/6OcNfptFr34zXqNDyriSt0"
+        "name": "Now that we are here",
+        "url": "https://open.spotify.com/album/4rzLnj1bsRZNq3MDEr6Hh8"
       },
       "artists": [
         {
-          "name": "Tim Franks Trio",
-          "url": "https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok"
+          "name": "Soft Brush Touches",
+          "url": "https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ"
         }
       ],
-      "duration_ms": 310981,
-      "name": "The Nearness Of You",
-      "url": "https://open.spotify.com/track/4X3IkZgkTo4WTchJXzBlNf"
+      "duration_ms": 162569,
+      "name": "Now that we are here",
+      "url": "https://open.spotify.com/track/0rQngOdT0wJxPT6jxt9B0n"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -971,6 +955,22 @@
       "duration_ms": 230192,
       "name": "Akaishi",
       "url": "https://open.spotify.com/track/5npOIRaqGTVT5Ur8cf4i4K"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "The Nearness Of You",
+        "url": "https://open.spotify.com/album/6OcNfptFr34zXqNDyriSt0"
+      },
+      "artists": [
+        {
+          "name": "Tim Franks Trio",
+          "url": "https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok"
+        }
+      ],
+      "duration_ms": 310981,
+      "name": "The Nearness Of You",
+      "url": "https://open.spotify.com/track/4X3IkZgkTo4WTchJXzBlNf"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "In Another Universe",
-        "url": "https://open.spotify.com/album/20gDATBmLKwoNueDSsC7rR"
-      },
-      "artists": [
-        {
-          "name": "Lachlan Wright Trio",
-          "url": "https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx"
-        }
-      ],
-      "duration_ms": 176729,
-      "name": "In Another Universe",
-      "url": "https://open.spotify.com/track/04OlOJOsWy6RUWgyhixoqk"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
         "name": "SGJAZZ, Vol. 2",
         "url": "https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB"
       },
@@ -1107,18 +1091,18 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "A Sunday Kind Of Love",
-        "url": "https://open.spotify.com/album/6AuNg5Zym7yfX7rgdy6BAW"
+        "name": "In Another Universe",
+        "url": "https://open.spotify.com/album/20gDATBmLKwoNueDSsC7rR"
       },
       "artists": [
         {
-          "name": "High North Trio",
-          "url": "https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY"
+          "name": "Lachlan Wright Trio",
+          "url": "https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx"
         }
       ],
-      "duration_ms": 174867,
-      "name": "In Bloom",
-      "url": "https://open.spotify.com/track/1vHdsEJac4TZE9xycHHcdj"
+      "duration_ms": 176729,
+      "name": "In Another Universe",
+      "url": "https://open.spotify.com/track/04OlOJOsWy6RUWgyhixoqk"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -1139,6 +1123,22 @@
       "duration_ms": 132000,
       "name": "The Wind",
       "url": "https://open.spotify.com/track/30f3b4Ths4zd2na9tip4CP"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "A Sunday Kind Of Love",
+        "url": "https://open.spotify.com/album/6AuNg5Zym7yfX7rgdy6BAW"
+      },
+      "artists": [
+        {
+          "name": "High North Trio",
+          "url": "https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY"
+        }
+      ],
+      "duration_ms": 174867,
+      "name": "In Bloom",
+      "url": "https://open.spotify.com/track/1vHdsEJac4TZE9xycHHcdj"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
+        "name": "For Ellen",
+        "url": "https://open.spotify.com/album/10WEn2GOYd9c6rPhxv4h8Q"
+      },
+      "artists": [
+        {
+          "name": "High North Trio",
+          "url": "https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "For Ellen",
+      "url": "https://open.spotify.com/track/3TPSdihMAJJgLL9JP02puJ"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
         "name": "Shroomin'",
         "url": "https://open.spotify.com/album/1ogdrLRi9fNZl7XpEytaAR"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 148970,
       "name": "Shroomin'",
       "url": "https://open.spotify.com/track/4kt2mS8GfHLZETTXg3aO4j"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
-        "name": "For Ellen",
-        "url": "https://open.spotify.com/album/10WEn2GOYd9c6rPhxv4h8Q"
-      },
-      "artists": [
-        {
-          "name": "High North Trio",
-          "url": "https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY"
-        }
-      ],
-      "duration_ms": 198750,
-      "name": "For Ellen",
-      "url": "https://open.spotify.com/track/3TPSdihMAJJgLL9JP02puJ"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "One Day We'll Meet Again",
-        "url": "https://open.spotify.com/album/0Fm7XBtV5rD5RUDauVeNC3"
-      },
-      "artists": [
-        {
-          "name": "Will Rivers Trio",
-          "url": "https://open.spotify.com/artist/3Hre5sD1zqwVLFVZIhRuDD"
-        }
-      ],
-      "duration_ms": 240714,
-      "name": "One Day We'll Meet Again",
-      "url": "https://open.spotify.com/track/3EPOmVwYPGqKVaY6nQagAk"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
         "name": "My Lonely Days Are Over",
         "url": "https://open.spotify.com/album/6cHr3pZ7P9eQHuRcpLH0H9"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 230681,
       "name": "My Lonely Days Are Over",
       "url": "https://open.spotify.com/track/3A2U0deukLyVDP7IMDPk5K"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "One Day We'll Meet Again",
+        "url": "https://open.spotify.com/album/0Fm7XBtV5rD5RUDauVeNC3"
+      },
+      "artists": [
+        {
+          "name": "Will Rivers Trio",
+          "url": "https://open.spotify.com/artist/3Hre5sD1zqwVLFVZIhRuDD"
+        }
+      ],
+      "duration_ms": 240714,
+      "name": "One Day We'll Meet Again",
+      "url": "https://open.spotify.com/track/3EPOmVwYPGqKVaY6nQagAk"
     },
     {
       "added_at": "2023-04-13 22:00:00",

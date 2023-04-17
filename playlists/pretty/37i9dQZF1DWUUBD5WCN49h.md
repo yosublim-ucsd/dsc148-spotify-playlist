@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD?si=yaJau0xDRVyS\-9XTNnbhXg"> Preyé </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,510 likes - 90 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,526 likes - 90 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 27 | [What you wanna do?](https://open.spotify.com/track/2IQFdoFocKF5kb8J6RNtbc) | [Hunter Rose](https://open.spotify.com/artist/2G6bNldbTZU1viUkX5Myuq) | [What you wanna do?](https://open.spotify.com/album/2HEe16IuFDnQOnb8dT3zam) | 4:27 |
 | 28 | [Damaged](https://open.spotify.com/track/54wYnj7FIU0JFIhy0gYZSH) | [Whoisakin](https://open.spotify.com/artist/6ZbeHoJ4RZnyjkHfIWS6Wp) | [Damaged](https://open.spotify.com/album/3c91kFCZ0kjdcnofzgqxj2) | 2:30 |
 | 29 | [Let me go](https://open.spotify.com/track/6w52GAsdrejKZPZPo4Iu47) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Let me go](https://open.spotify.com/album/1GLbCf7kN8GExrykwIXyYS) | 3:20 |
-| 30 | [BBBBBB](https://open.spotify.com/track/2PrIK96A5GDg7GtbsCgJwg) | [MAUVEY](https://open.spotify.com/artist/6AdFoQsWjrVfWwi4BWYXCH) | [BEFORE THE ALBUM 2: a brief overview](https://open.spotify.com/album/2eYcC9osTDcUIIpqo1SgMd) | 2:48 |
+| 30 | [BBBBBB](https://open.spotify.com/track/2PrIK96A5GDg7GtbsCgJwg) | [MAUVEY](https://open.spotify.com/artist/6AdFoQsWjrVfWwi4BWYXCH), [Big Kill](https://open.spotify.com/artist/2F50OlzwdK2eRTnGCDVuIB) | [BEFORE THE ALBUM 2: a brief overview](https://open.spotify.com/album/2eYcC9osTDcUIIpqo1SgMd) | 2:48 |
 | 31 | [Honest Decision](https://open.spotify.com/track/3WjqXcn7ulLMNwIp1TqTn0) | [Bryann](https://open.spotify.com/artist/1S7tYUIXPaaRJSFhXSJn19) | [Honest Decision](https://open.spotify.com/album/3MumajWKD0oFSzhiyZ8d5T) | 2:19 |
 | 32 | [Why](https://open.spotify.com/track/5RnAlrUxLZmBGhgICz5ggZ) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Why](https://open.spotify.com/album/7fkJBL9ScE5npaKTjOTkWm) | 2:45 |
 | 33 | [Royalty](https://open.spotify.com/track/6y5vkAMps3BAnwbzPhFPVT) | [Keziah Mallam](https://open.spotify.com/artist/4mzTknGC25KKZ5zq8vSxAs), [RnB Princess](https://open.spotify.com/artist/0QKFXBU0ZhrSCJIAsOIjgg), [Beezyx](https://open.spotify.com/artist/0r6sAkbsRJkBbmxYlh4cso) | [Royalty](https://open.spotify.com/album/7EHtA9gPUvQqgTS886DeJg) | 3:33 |

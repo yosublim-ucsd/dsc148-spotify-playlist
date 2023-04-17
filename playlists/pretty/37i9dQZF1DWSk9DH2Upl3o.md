@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 
 > The jam scene is alive and well\. Cover: ALO
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,747 likes - 102 songs - 9 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,778 likes - 102 songs - 9 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

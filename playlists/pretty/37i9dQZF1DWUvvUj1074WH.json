@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Qu\u00e9 traigan m\u00e1s cheve que nos sobran copas!",
-  "num_followers": 84139,
+  "num_followers": 84671,
   "original_name": "La Cervecer\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTY0Njg2MywwMDAwMDAwMDlkZjA1YTRmYzE2Yjk3OGY3YjE0YWYxM2E4YWExNmEx",
+  "snapshot_id": "MTY3MTY0Njg2MywwMDAwMDAwMGRhZmI4NWE0ZThkYjdlNTA2NWEyZjRkOThhN2M5YTdh",
   "tracks": [
     {
       "added_at": "2022-12-21 18:21:03",
@@ -267,8 +267,8 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "In Utero - 20th Anniversary - Deluxe Edition",
-        "url": "https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6"
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         }
       ],
-      "duration_ms": 281160,
-      "name": "Heart-Shaped Box",
-      "url": "https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa"
+      "duration_ms": 301920,
+      "name": "Smells Like Teen Spirit",
+      "url": "https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -411,8 +411,8 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
+        "name": "In Utero - 20th Anniversary - Deluxe Edition",
+        "url": "https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         }
       ],
-      "duration_ms": 301920,
-      "name": "Smells Like Teen Spirit",
-      "url": "https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T"
+      "duration_ms": 281160,
+      "name": "Heart-Shaped Box",
+      "url": "https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -623,18 +623,18 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "Paranoid (Remaster)",
-        "url": "https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7"
+        "name": "The Game (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
       },
       "artists": [
         {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 168405,
-      "name": "Paranoid - 2012 - Remaster",
-      "url": "https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc"
+      "duration_ms": 214653,
+      "name": "Another One Bites The Dust - Remastered 2011",
+      "url": "https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -655,18 +655,18 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "The Game (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
+        "name": "Paranoid (Remaster)",
+        "url": "https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7"
       },
       "artists": [
         {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
         }
       ],
-      "duration_ms": 214653,
-      "name": "Another One Bites The Dust - Remastered 2011",
-      "url": "https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J"
+      "duration_ms": 168405,
+      "name": "Paranoid - 2012 - Remaster",
+      "url": "https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "Alma En Fuego",
-        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 228426,
-      "name": "Amargo Adi\u00f3s",
-      "url": "https://open.spotify.com/track/0zCOT028cU3DeCqN1G18wE"
-    },
-    {
-      "added_at": "2022-12-21 18:21:03",
-      "album": {
         "name": "El Grito Del Tiempo",
         "url": "https://open.spotify.com/album/53ysLjWIelVJ47Si7ouHB3"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 235626,
       "name": "En alg\u00fan lugar",
       "url": "https://open.spotify.com/track/3UIENhLRdFIOuRan92cAQu"
+    },
+    {
+      "added_at": "2022-12-21 18:21:03",
+      "album": {
+        "name": "Alma En Fuego",
+        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 228426,
+      "name": "Amargo Adi\u00f3s",
+      "url": "https://open.spotify.com/track/0zCOT028cU3DeCqN1G18wE"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "Mystic Love",
-        "url": "https://open.spotify.com/album/3yUzbMVyjAV7oU7G42rPUa"
-      },
-      "artists": [
-        {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
-        }
-      ],
-      "duration_ms": 235200,
-      "name": "Pupilas Lejanas",
-      "url": "https://open.spotify.com/track/4k3K6Ke6KfAWb7zyQWrTEA"
-    },
-    {
-      "added_at": "2022-12-21 18:21:03",
-      "album": {
         "name": "Blackout",
         "url": "https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr"
       },
@@ -1091,18 +1075,34 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "Bailar\u00edn Apocal\u00edptico",
-        "url": "https://open.spotify.com/album/1wLDlwN9FfneiyC5ZuJIeQ"
+        "name": "Mystic Love",
+        "url": "https://open.spotify.com/album/3yUzbMVyjAV7oU7G42rPUa"
       },
       "artists": [
         {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
         }
       ],
-      "duration_ms": 195580,
-      "name": "Raz\u00f3n",
-      "url": "https://open.spotify.com/track/2dSz2px33HmyFwL5rDlh2e"
+      "duration_ms": 235200,
+      "name": "Pupilas Lejanas",
+      "url": "https://open.spotify.com/track/4k3K6Ke6KfAWb7zyQWrTEA"
+    },
+    {
+      "added_at": "2022-12-21 18:21:03",
+      "album": {
+        "name": "El Momento",
+        "url": "https://open.spotify.com/album/5Vi36yUkwFN0QhdoIItpCR"
+      },
+      "artists": [
+        {
+          "name": "Nacha Pop",
+          "url": "https://open.spotify.com/artist/1CdLG4i1rTEOsex2UE0jCH"
+        }
+      ],
+      "duration_ms": 248373,
+      "name": "Lucha De Gigantes",
+      "url": "https://open.spotify.com/track/4nheObMzE4K8AIxIICoLgd"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "El Momento",
-        "url": "https://open.spotify.com/album/5Vi36yUkwFN0QhdoIItpCR"
+        "name": "Bailar\u00edn Apocal\u00edptico",
+        "url": "https://open.spotify.com/album/1wLDlwN9FfneiyC5ZuJIeQ"
       },
       "artists": [
         {
-          "name": "Nacha Pop",
-          "url": "https://open.spotify.com/artist/1CdLG4i1rTEOsex2UE0jCH"
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
         }
       ],
-      "duration_ms": 248373,
-      "name": "Lucha De Gigantes",
-      "url": "https://open.spotify.com/track/4nheObMzE4K8AIxIICoLgd"
+      "duration_ms": 195580,
+      "name": "Raz\u00f3n",
+      "url": "https://open.spotify.com/track/2dSz2px33HmyFwL5rDlh2e"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "Descanso Dominical (Bonus Tracks Edition)",
-        "url": "https://open.spotify.com/album/5E4nBdPPUynTOEOG7Lj4yA"
-      },
-      "artists": [
-        {
-          "name": "Mecano",
-          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
-        }
-      ],
-      "duration_ms": 311160,
-      "name": "La Fuerza del Destino",
-      "url": "https://open.spotify.com/track/0fKqhLgg5CYEW2fLlhtWRj"
-    },
-    {
-      "added_at": "2022-12-21 18:21:03",
-      "album": {
         "name": "Caifanes",
         "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 213360,
       "name": "M\u00e1tenme Porque Me Muero",
       "url": "https://open.spotify.com/track/6cqwDeMvlCKI9CoeVahGrM"
+    },
+    {
+      "added_at": "2022-12-21 18:21:03",
+      "album": {
+        "name": "Descanso Dominical (Bonus Tracks Edition)",
+        "url": "https://open.spotify.com/album/5E4nBdPPUynTOEOG7Lj4yA"
+      },
+      "artists": [
+        {
+          "name": "Mecano",
+          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+        }
+      ],
+      "duration_ms": 311160,
+      "name": "La Fuerza del Destino",
+      "url": "https://open.spotify.com/track/0fKqhLgg5CYEW2fLlhtWRj"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "No Es Lo Que Parece",
-        "url": "https://open.spotify.com/album/3zSpK9IRrUvX96rTL5tmzC"
-      },
-      "artists": [
-        {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
-        }
-      ],
-      "duration_ms": 191460,
-      "name": "Kil\u00f3metros",
-      "url": "https://open.spotify.com/track/4Jr2cHZaIe1rmdVlc5efIy"
-    },
-    {
-      "added_at": "2022-12-21 18:21:03",
-      "album": {
         "name": "Caifanes",
         "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 472400,
       "name": "La Negra Tomasa - Bilongo - Versi\u00f3n Tropical",
       "url": "https://open.spotify.com/track/6cVHu0HmKo4oEOSOqooTa3"
+    },
+    {
+      "added_at": "2022-12-21 18:21:03",
+      "album": {
+        "name": "No Es Lo Que Parece",
+        "url": "https://open.spotify.com/album/3zSpK9IRrUvX96rTL5tmzC"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "duration_ms": 191460,
+      "name": "Kil\u00f3metros",
+      "url": "https://open.spotify.com/track/4Jr2cHZaIe1rmdVlc5efIy"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "Re",
-        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 308040,
-      "name": "El baile y el sal\u00f3n",
-      "url": "https://open.spotify.com/track/63QpuNHIZ8APaK37LkV8Xd"
-    },
-    {
-      "added_at": "2022-12-21 18:21:03",
-      "album": {
         "name": "Machine Head",
         "url": "https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 342173,
       "name": "Smoke on the Water",
       "url": "https://open.spotify.com/track/5SAUIWdZ04OxYfJFDchC7S"
+    },
+    {
+      "added_at": "2022-12-21 18:21:03",
+      "album": {
+        "name": "Re",
+        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 308040,
+      "name": "El baile y el sal\u00f3n",
+      "url": "https://open.spotify.com/track/63QpuNHIZ8APaK37LkV8Xd"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -2179,22 +2179,6 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "Compa\u00f1eros Musicales",
-        "url": "https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 246373,
-      "name": "La Rubia y el Demonio",
-      "url": "https://open.spotify.com/track/4iBUoHT6aNcP4J883m49xU"
-    },
-    {
-      "added_at": "2022-12-21 18:21:03",
-      "album": {
         "name": "El Equilibrio De Los Jaguares",
         "url": "https://open.spotify.com/album/345ZGeUupFETaN36llAJCR"
       },
@@ -2207,6 +2191,22 @@
       "duration_ms": 238360,
       "name": "Detr\u00e1s de los Cerros",
       "url": "https://open.spotify.com/track/2ype6DLvWvW3NdSzDi8Dk2"
+    },
+    {
+      "added_at": "2022-12-21 18:21:03",
+      "album": {
+        "name": "Compa\u00f1eros Musicales",
+        "url": "https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 246373,
+      "name": "La Rubia y el Demonio",
+      "url": "https://open.spotify.com/track/4iBUoHT6aNcP4J883m49xU"
     },
     {
       "added_at": "2022-12-21 18:21:03",

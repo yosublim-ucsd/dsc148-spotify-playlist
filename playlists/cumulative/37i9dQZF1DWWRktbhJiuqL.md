@@ -4,7 +4,7 @@
 
 > Various sounds, various decades, but with 1 thing in common: it's pure rock & roll.
 
-301 songs - 19 hr 49 min
+302 songs - 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,8 @@
 | [Louie Louie](https://open.spotify.com/track/0iA3xXSkSCiJywKyo1UKjQ) | [The Kingsmen](https://open.spotify.com/artist/2iIn8H3l2NNBNHFpYKWbfo) | [The Best of The Kingsmen](https://open.spotify.com/album/2SMBIc9VqCmLvWAd9srlSx) | 2:45 | 2022-06-17 | 2023-04-16 |
 | [Low Life](https://open.spotify.com/track/3eDJXbkSGulxTuB2L7fP9B) | [Crobot](https://open.spotify.com/artist/4ygqEKxbe61knnDaodGFmi) | [Motherbrain](https://open.spotify.com/album/5bS8kLirDX380TztuopXkH) | 3:36 | 2022-04-08 | 2022-04-21 |
 | [LUCKY PENNY](https://open.spotify.com/track/4qHSciBVrNNpUlI8TT9CHQ) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [LUCKY PENNY](https://open.spotify.com/album/0jhsnoHuQRJHawKMLxQe5P) | 3:34 | 2022-04-08 | 2022-04-21 |
-| [Lux Æterna](https://open.spotify.com/track/3pwmJJRlr8nXNN9PFD18np) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Lux Æterna](https://open.spotify.com/album/7qxhxLR8oZN3LizPQ7z2cb) | 3:25 | 2022-12-02 |  |
+| [Lux Æterna](https://open.spotify.com/track/18zjwSgYiwu1Meb7Po3tUP) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 3:25 | 2023-04-14 |  |
+| [Lux Æterna](https://open.spotify.com/track/3pwmJJRlr8nXNN9PFD18np) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Lux Æterna](https://open.spotify.com/album/7qxhxLR8oZN3LizPQ7z2cb) | 3:25 | 2022-12-02 | 2023-04-17 |
 | [Lydia](https://open.spotify.com/track/7yoBjKO6cCnK3zV8gr1k4e) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [Mister Asylum](https://open.spotify.com/album/7wGLeeJt18EBjc181FP2cM) | 4:02 | 2022-04-08 | 2023-01-21 |
 | [Magic Carpet Ride](https://open.spotify.com/track/1PqETpgGlfWvkWRF4ypD9w) | [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m) | [70s Classic Rock](https://open.spotify.com/album/4LMCyx911631WjwnTs1DDN) | 4:21 | 2021-12-09 | 2022-07-29 |
 | [Magic Carpet Ride](https://open.spotify.com/track/4c4jJJoaiY21t2TyRZgdWS) | [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m) | [The Second](https://open.spotify.com/album/2Y5GORWYwVAZ8msuEuh5FN) | 4:31 | 2022-06-17 |  |

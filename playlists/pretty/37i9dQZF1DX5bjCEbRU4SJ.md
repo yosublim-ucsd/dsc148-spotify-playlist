@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 
 > Calm Down with this chilled out playlist\. For when it's time to just sit and bask in the afterglow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 563,921 likes - 70 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 563,924 likes - 70 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 | 64 | [Can't Take You With Me](https://open.spotify.com/track/0sWuU0uDypaZ5rwUGqSKtS) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Bahamas Is Afie](https://open.spotify.com/album/2UqlVTULRPG2qm8Bico9CK) | 3:10 |
 | 65 | [The Upswing](https://open.spotify.com/track/2W0bzuej3umee9qrmJ9oYL) | [Bell X1](https://open.spotify.com/artist/2fGa9song5Gee8UEGf6W7I) | [Arms](https://open.spotify.com/album/3yXgDtquomtcp1AnU41fLs) | 4:59 |
 | 66 | [On the Attack](https://open.spotify.com/track/1wOR1yWj7PlnQRbL5QneuJ) | [The Law](https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB), [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy) | [The Way We Move](https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7) | 4:21 |
-| 67 | [I Don't Recall](https://open.spotify.com/track/1BlvDzR1MwebVS7f5uw5dw) | [Lavender Diamond](https://open.spotify.com/artist/2Z1N9zMrbKe6emt3mhc6Kw) | [Incorruptible Heart](https://open.spotify.com/album/6hsjNIJ0QJJvUzMjzU4TGa) | 3:00 |
-| 68 | [When the Day Comes](https://open.spotify.com/track/1KXwXf9Cr9tixpqXWBMcMu) | [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k) | [Blood from a Stone](https://open.spotify.com/album/2OMMQdI71h7sWqkhis2ZkT) | 4:26 |
+| 67 | [When the Day Comes](https://open.spotify.com/track/1KXwXf9Cr9tixpqXWBMcMu) | [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k) | [Blood from a Stone](https://open.spotify.com/album/2OMMQdI71h7sWqkhis2ZkT) | 4:26 |
+| 68 | [I Don't Recall](https://open.spotify.com/track/1BlvDzR1MwebVS7f5uw5dw) | [Lavender Diamond](https://open.spotify.com/artist/2Z1N9zMrbKe6emt3mhc6Kw) | [Incorruptible Heart](https://open.spotify.com/album/6hsjNIJ0QJJvUzMjzU4TGa) | 3:00 |
 | 69 | [Leaf Off / The Cave](https://open.spotify.com/track/2XMiyGBbIOLEcCdGnHGoq5) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Vestiges & Claws](https://open.spotify.com/album/3mDpDgTVy3Lo6fdqoTr215) | 4:53 |
 | 70 | [Over The Ocean](https://open.spotify.com/track/0S5Rhu8BNrhiOlJ4oNJYBy) | [Here We Go Magic](https://open.spotify.com/artist/4WxjrOJGIngO2hJnlCeK7f) | [A Different Ship](https://open.spotify.com/album/50hvTlCGJo45dPG0E87bOa) | 4:26 |
 
-Snapshot ID: `MTU0NDU2NDk1MSwwMDAwMDAwMGE0NThjZjY0Y2U5MmViM2MyNGQ1NTBmOWY5OTIxODA0`
+Snapshot ID: `MTU0NDU2NDk1MSwwMDAwMDAwMDY5MjFlYmM3ODgxMGJjMjUzYzUzOTExYjNiN2U0NTkz`

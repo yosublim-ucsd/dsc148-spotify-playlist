@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 17853,
+  "num_followers": 17866,
   "original_name": "Legendary Labels: Alligator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxOTY5MTIzMiwwMDAwMDAwMDQwMzkyYjc0NGZhNTllMGRiY2MxY2Q3ZjU4MGI0YmI5",
+  "snapshot_id": "MTYxOTY5MTIzMiwwMDAwMDAwMDY4ODQ1ZmJhYmE0ZWQ1MTExMDRmYTE1MGZkNmEwNzAx",
   "tracks": [
     {
       "added_at": "2020-09-21 10:42:33",
@@ -495,22 +495,6 @@
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
-        "name": "The Son Seals Blues Band",
-        "url": "https://open.spotify.com/album/3ACD9YTEsWKEk34nwioHke"
-      },
-      "artists": [
-        {
-          "name": "Son Seals",
-          "url": "https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "Your Love Is Like A Cancer",
-      "url": "https://open.spotify.com/track/6zl81YN27QExitw4AZUDy1"
-    },
-    {
-      "added_at": "2020-09-21 10:42:33",
-      "album": {
         "name": "Wander This World",
         "url": "https://open.spotify.com/album/4ZscZNV7mVZupyotq52wLG"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 210973,
       "name": "Cherry Red Wine",
       "url": "https://open.spotify.com/track/0WXi2cJGxMUhIXE0KXhC5k"
+    },
+    {
+      "added_at": "2020-09-21 10:42:33",
+      "album": {
+        "name": "The Son Seals Blues Band",
+        "url": "https://open.spotify.com/album/3ACD9YTEsWKEk34nwioHke"
+      },
+      "artists": [
+        {
+          "name": "Son Seals",
+          "url": "https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "Your Love Is Like A Cancer",
+      "url": "https://open.spotify.com/track/6zl81YN27QExitw4AZUDy1"
     },
     {
       "added_at": "2020-09-21 10:42:33",
@@ -743,22 +743,6 @@
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
-        "name": "Queen Of The Blues",
-        "url": "https://open.spotify.com/album/0GXwSbl0Q1cZDHL1EIE2oa"
-      },
-      "artists": [
-        {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
-        }
-      ],
-      "duration_ms": 232533,
-      "name": "I Can Love You Like A Woman (Or I Can Fight You Like A Man)",
-      "url": "https://open.spotify.com/track/2OAFshgrBDMtr2IsOVEpdu"
-    },
-    {
-      "added_at": "2020-09-21 10:42:33",
-      "album": {
         "name": "Live From Chicago - Mr. Superharp Himself!",
         "url": "https://open.spotify.com/album/4yM4z52eGLBQiO62J4iCRv"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 186826,
       "name": "Born In Chicago",
       "url": "https://open.spotify.com/track/0lpcT3fUjEqzArcsR2mf4d"
+    },
+    {
+      "added_at": "2020-09-21 10:42:33",
+      "album": {
+        "name": "Queen Of The Blues",
+        "url": "https://open.spotify.com/album/0GXwSbl0Q1cZDHL1EIE2oa"
+      },
+      "artists": [
+        {
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+        }
+      ],
+      "duration_ms": 232533,
+      "name": "I Can Love You Like A Woman (Or I Can Fight You Like A Man)",
+      "url": "https://open.spotify.com/track/2OAFshgrBDMtr2IsOVEpdu"
     },
     {
       "added_at": "2020-09-21 10:42:33",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 
 > Turn up the volume for some filthy bassline! ft\. Bushbaby
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,746 likes - 70 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,783 likes - 70 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,11 +58,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 48 | [Get Out](https://open.spotify.com/track/16HM1ygA3tOEQes2HGduhL) | [Gecha](https://open.spotify.com/artist/1hZ5jgkS8PQxUQTf62pubC), [3000 Bass](https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM) | [Get Out](https://open.spotify.com/album/0FQwBMJPZUMZkghS8wJRr2) | 4:28 |
 | 49 | [Monster](https://open.spotify.com/track/1UfJuFf3V0DfFigaURj3yJ) | [Jamie Duggan](https://open.spotify.com/artist/0MOlBnjY7mmwqxQpFuysB8), [Booda](https://open.spotify.com/artist/1qW7b6PBEfdvzVvZ5bAre6), [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z) | [Monster](https://open.spotify.com/album/3nX64Yz5zsL9GfAS7YJmck) | 3:20 |
 | 50 | [Chances](https://open.spotify.com/track/5szLalLSHItSzMOEqagjwn) | [Wittyboy](https://open.spotify.com/artist/3SgLMH12f6V9dfSW2QPgAw) | [Chances](https://open.spotify.com/album/64QsrEsgFAN6nnxonRjsYP) | 5:10 |
-| 51 | [Affiliation](https://open.spotify.com/track/74OHEZCii7GYJqqEIHPYb0) | [Bermal](https://open.spotify.com/artist/2I50LWeOqOFm3bagM840Nt) | [Affiliation](https://open.spotify.com/album/6viQ5GlaaPHbGLPfIYcEfU) | 3:10 |
-| 52 | [Flow \- Habstrakt Remix](https://open.spotify.com/track/4TaXP5jJ7BNdLwlBt2MPxz) | [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg), [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Flow \(Habstrakt Remix\)](https://open.spotify.com/album/5Pu0dN7JwdwnZfO0wwJOyN) | 3:27 |
-| 53 | [Inside](https://open.spotify.com/track/5Yux6ipN64rjAdUrs5kqGI) | [Slick Don](https://open.spotify.com/artist/3ejOLECzr9WSVFeIc1Tf7k) | [Inside](https://open.spotify.com/album/41v5RTP7DI3PGECp9i7ZBa) | 4:12 |
-| 54 | [Spotlight](https://open.spotify.com/track/1tZJyJ6kx1ALJSM4EYDe45) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Spotlight](https://open.spotify.com/album/3Ypt6xmMLao0waxTaj1zpa) | 3:45 |
-| 55 | [Acid](https://open.spotify.com/track/34GR9jBULKi91lqNSo5og7) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC) | [Acid](https://open.spotify.com/album/6OqBUNn9xm5YCEWGAjUWTg) | 3:45 |
+| 51 | [Flow \- Habstrakt Remix](https://open.spotify.com/track/4TaXP5jJ7BNdLwlBt2MPxz) | [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg), [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Flow \(Habstrakt Remix\)](https://open.spotify.com/album/5Pu0dN7JwdwnZfO0wwJOyN) | 3:27 |
+| 52 | [Affiliation](https://open.spotify.com/track/74OHEZCii7GYJqqEIHPYb0) | [Bermal](https://open.spotify.com/artist/2I50LWeOqOFm3bagM840Nt) | [Affiliation](https://open.spotify.com/album/6viQ5GlaaPHbGLPfIYcEfU) | 3:10 |
+| 53 | [Spotlight](https://open.spotify.com/track/1tZJyJ6kx1ALJSM4EYDe45) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Spotlight](https://open.spotify.com/album/3Ypt6xmMLao0waxTaj1zpa) | 3:45 |
+| 54 | [Acid](https://open.spotify.com/track/34GR9jBULKi91lqNSo5og7) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC) | [Acid](https://open.spotify.com/album/6OqBUNn9xm5YCEWGAjUWTg) | 3:45 |
+| 55 | [Inside](https://open.spotify.com/track/5Yux6ipN64rjAdUrs5kqGI) | [Slick Don](https://open.spotify.com/artist/3ejOLECzr9WSVFeIc1Tf7k) | [Inside](https://open.spotify.com/album/41v5RTP7DI3PGECp9i7ZBa) | 4:12 |
 | 56 | [All My Love](https://open.spotify.com/track/1v0pYeyqnuqVXfwvT4VodR) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki), [Reigns](https://open.spotify.com/artist/4tKUuPctyFQus63BKH4JtG) | [All My Love](https://open.spotify.com/album/1aNYbx5BHK36hFD5bbXW98) | 2:49 |
 | 57 | [Never](https://open.spotify.com/track/43NLj97L6PQUQ05HyZJmQZ) | [Darkzy](https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry), [Aleya Mae](https://open.spotify.com/artist/2O1Sw6WZ4ZVtIQO5LZIOjb) | [Never](https://open.spotify.com/album/7u24MlEFH8OrFG3RI0pMr5) | 3:26 |
 | 58 | [Far](https://open.spotify.com/track/0bVqiSfH3YnFnRPNHgAMuR) | [Cooky](https://open.spotify.com/artist/1gIG3PQXZfplVilbDBdzap) | [Far](https://open.spotify.com/album/3zoa4ZVBL7McPiAI3EAUjQ) | 4:10 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 60 | [Barrington](https://open.spotify.com/track/13UkLkxFcO890QCWwaYW9c) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Barrington / Bodies](https://open.spotify.com/album/5FWII16ZTq6HfCMvdpqCTQ) | 3:41 |
 | 61 | [Emergency](https://open.spotify.com/track/1J2vZvRwW6xjIlsZsydkCO) | [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Emergency](https://open.spotify.com/album/6amlh9MV3y02Lj1cJtcoHE) | 2:49 |
 | 62 | [Solid Ground](https://open.spotify.com/track/5rPEJbUTX6yaznk9V78jQZ) | [KDYN](https://open.spotify.com/artist/3HCAcFMOAXLFYEfpTgQ20N) | [Solid Ground](https://open.spotify.com/album/6bVBjsTZcvTMDr5sjzgVsJ) | 4:01 |
-| 63 | [Hard Hitters](https://open.spotify.com/track/1QVQdgkRXRD4WON1AHvs1k) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [Hard Hitters](https://open.spotify.com/album/2uKCc6oR55TkMuSGTYJIyK) | 3:52 |
-| 64 | [Lose My Mind](https://open.spotify.com/track/1Nv1cCXJoI59N4ep7wZ3mw) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Window Kid](https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p) | [Lose My Mind](https://open.spotify.com/album/2QDNm8JYyT7eo6B9EVzrZc) | 3:41 |
+| 63 | [Lose My Mind](https://open.spotify.com/track/1Nv1cCXJoI59N4ep7wZ3mw) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Window Kid](https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p) | [Lose My Mind](https://open.spotify.com/album/2QDNm8JYyT7eo6B9EVzrZc) | 3:41 |
+| 64 | [Hard Hitters](https://open.spotify.com/track/1QVQdgkRXRD4WON1AHvs1k) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [Hard Hitters](https://open.spotify.com/album/2uKCc6oR55TkMuSGTYJIyK) | 3:52 |
 | 65 | [Be Real](https://open.spotify.com/track/3i4xoeUihdScqGDnvkCFXb) | [Dom Scanlon](https://open.spotify.com/artist/2EhXwW8eckYjHTFWX1f49P) | [Be Real](https://open.spotify.com/album/3prkw0bYIfiZT0Q9Gmz431) | 4:37 |
 | 66 | [Wanna Freak](https://open.spotify.com/track/4ZXkasziPLirl2GCn3bh8Q) | [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Wanna Freak](https://open.spotify.com/album/2JON2aHyeJoaBSIbbvfXrh) | 3:08 |
 | 67 | [Hot Flush](https://open.spotify.com/track/3Pwcb7LvFeCexk1QzZo225) | [My Nu Leng](https://open.spotify.com/artist/2rChxbkkh2U5ZrPuShKmTZ), [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Duskee](https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH) | [Hot Flush](https://open.spotify.com/album/4lKHOh8edLTDSrPgPQ5QDn) | 5:17 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 69 | [Anything](https://open.spotify.com/track/165zMkyh2bVwtu8mAhdTTz) | [Shaun Dean](https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC) | [Anything](https://open.spotify.com/album/6AT2jvuQd9G0qs02hbLpCy) | 4:43 |
 | 70 | [Hold Me Close](https://open.spotify.com/track/5UM597AY45L1gpRsLdslRu) | [Jacko](https://open.spotify.com/artist/4HBwYjwyfn1X6KO6PqY9ia) | [Hold Me Close](https://open.spotify.com/album/6kdTGKNxuMUgQ50WhIdVpg) | 3:52 |
 
-Snapshot ID: `MTY4MDYxNTE4NSwwMDAwMDAwMGRjNDNhNzM4ZjNjNGYzNDgzMmUxZjlhZTY2NzVkMDQ4`
+Snapshot ID: `MTY4MDYxNTE4NSwwMDAwMDAwMDY4YjFhMTFkYzc5ZDVjMTk3OWMxNzg5ODkwZThmOWE2`

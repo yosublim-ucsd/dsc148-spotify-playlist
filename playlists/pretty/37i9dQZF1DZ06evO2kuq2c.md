@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kuq2c.md) - [plain]
 
 > This is Architects\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,730 likes - 38 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,754 likes - 38 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Animals](https://open.spotify.com/track/5ofoB8PFmocBXFBEWVb6Vz) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [For Those That Wish To Exist](https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4) | 4:04 |
-| 2 | [deep fake](https://open.spotify.com/track/7mfMTQ21RSVhUw778ymlyV) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 3:33 |
+| 2 | [when we were young](https://open.spotify.com/track/7DkN4oeXv2mqyPy0sJNrus) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 3:13 |
 | 3 | [Doomsday](https://open.spotify.com/track/75R95k0ICuZBFVEjBauOtt) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Holy Hell](https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7) | 4:08 |
 | 4 | [Gone With The Wind](https://open.spotify.com/track/6w9PFIfsLZvzo09nfmqjxQ) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [All Our Gods Have Abandoned Us](https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so) | 3:45 |
 | 5 | [Black Lungs](https://open.spotify.com/track/06BRkkaJsqM9i6VZKDvUlK) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [For Those That Wish To Exist](https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4) | 3:51 |
-| 6 | [when we were young](https://open.spotify.com/track/7DkN4oeXv2mqyPy0sJNrus) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 3:13 |
+| 6 | [deep fake](https://open.spotify.com/track/7mfMTQ21RSVhUw778ymlyV) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 3:33 |
 | 7 | [Hereafter](https://open.spotify.com/track/3VGheGbJrEnGvwteXNBDNt) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Holy Hell](https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7) | 4:15 |
 | 8 | [A Match Made In Heaven](https://open.spotify.com/track/5QDDmrz819WmzBeQHZNhor) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [All Our Gods Have Abandoned Us](https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so) | 3:48 |
 | 9 | [Meteor](https://open.spotify.com/track/0d2mj7p92bZEckjowsc1a4) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [For Those That Wish To Exist](https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4) | 4:01 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kuq2c.md) - [plain]
 | 37 | [C.A.N.C.E.R](https://open.spotify.com/track/0MyPqVDidAoYEpmGl5VHGW) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Lost Forever // Lost Together](https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc) | 4:19 |
 | 38 | [Colony Collapse](https://open.spotify.com/track/3nRmk2LJq3bTacynhGmAUW) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Lost Forever // Lost Together](https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc) | 4:31 |
 
-Snapshot ID: `MjgwMjYwMzIsMDAwMDAwMDBmMTQ3YjRjYzNiYTFhODkyMmIyMTk0OTQzZjQwOTQzYg==`
+Snapshot ID: `MjgwMjc0MDEsMDAwMDAwMDAzYzEzMjcwNDJlMmMxN2YxMTIyZGQwNzM2YjFjNzljOA==`

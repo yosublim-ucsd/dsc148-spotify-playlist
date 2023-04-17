@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74DDhiuyXIl.md) - [plain]
 
 > 回家的路上，有好聽的歌曲陪伴，會讓人暫時忘了疲倦。
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,733 likes - 75 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,779 likes - 75 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,14 +59,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74DDhiuyXIl.md) - [plain]
 | 49 | [未发送](https://open.spotify.com/track/0IKt70sonEjlSzcMEjdFYo) | [阿冗](https://open.spotify.com/artist/7sD5pBZNNSDMfiF2BvRem7) | [未发送](https://open.spotify.com/album/1Ez536BFu6IGYAe9HMKMoh) | 3:35 |
 | 50 | [恰似你的溫柔](https://open.spotify.com/track/1a0qZKszfpB8tJRFLXMqpj) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [恰似你的溫柔](https://open.spotify.com/album/5T8kukxNxN2tEucny5xt66) | 5:17 |
 | 51 | [情歌沒說的事](https://open.spotify.com/track/2TcAhWtoD2raLezOYcsvxK) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH) | [情歌沒說的事](https://open.spotify.com/album/5QxiBMd8YTI9XsYEaKofuY) | 3:54 |
-| 52 | [You Better Not Think About Me](https://open.spotify.com/track/0mpo3w2SHXb3rsfepeG5Pr) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [Insignificance](https://open.spotify.com/album/1iD3lBhC6wCUgqNTIMEidj) | 4:40 |
-| 53 | [我以為你不會出現 \(UAG安全感形象曲\)](https://open.spotify.com/track/20OrMs4eAhIHyG82wHaGy0) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [我以為你不會出現](https://open.spotify.com/album/6jCdDLLM1EH24grt1rqmIQ) | 5:46 |
+| 52 | [我以為你不會出現 \(UAG安全感形象曲\)](https://open.spotify.com/track/20OrMs4eAhIHyG82wHaGy0) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [我以為你不會出現](https://open.spotify.com/album/6jCdDLLM1EH24grt1rqmIQ) | 5:46 |
+| 53 | [You Better Not Think About Me](https://open.spotify.com/track/0mpo3w2SHXb3rsfepeG5Pr) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [Insignificance](https://open.spotify.com/album/1iD3lBhC6wCUgqNTIMEidj) | 4:40 |
 | 54 | [你夠了](https://open.spotify.com/track/5vJ2Hw5FQShQIpyDqgQlCR) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [你夠了](https://open.spotify.com/album/0aBj80EllGcejy9XcavrtZ) | 3:21 |
 | 55 | [放過自己](https://open.spotify.com/track/1AVYznIek3SoK9xSAsnAuH) | [Ada Zhuang](https://open.spotify.com/artist/42l9R70OWvywz9JN9DCVOM) | [放過自己](https://open.spotify.com/album/4JbsUHHIczczvvAPh137S8) | 4:09 |
 | 56 | [一定會](https://open.spotify.com/track/2wl5Jlf09WAV7LIVUNK594) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [一定會](https://open.spotify.com/album/4SkvbVaPeZmASoDDvFnsrO) | 3:27 |
 | 57 | [毒藥](https://open.spotify.com/track/34YwC7hZlGeIyIZGir8WHE) | [蕭秉治](https://open.spotify.com/artist/0Ej4GfzIcW3dWP0rC5d4x1) | [毒藥](https://open.spotify.com/album/49FXdUp7VMFszWjZSHlvWc) | 3:25 |
-| 58 | [最後一次](https://open.spotify.com/track/11W5Rb3oJgdsjVjbSIRYA9) | [Kelly Pan](https://open.spotify.com/artist/2hJxcuFTgP89GdmCVXfXyi) | [最後一次](https://open.spotify.com/album/1Kk3DZ5m4U8hyswoyvnaJo) | 4:19 |
-| 59 | [如果我沒有傷口](https://open.spotify.com/track/7jWZPpaNaO8tp6p5RRcNG7) | [Jolin Tsai](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [Ugly Beauty](https://open.spotify.com/album/7HFFEjrwzZNpbee44SJnn9) | 5:01 |
+| 58 | [如果我沒有傷口](https://open.spotify.com/track/7jWZPpaNaO8tp6p5RRcNG7) | [Jolin Tsai](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [Ugly Beauty](https://open.spotify.com/album/7HFFEjrwzZNpbee44SJnn9) | 5:01 |
+| 59 | [最後一次](https://open.spotify.com/track/11W5Rb3oJgdsjVjbSIRYA9) | [Kelly Pan](https://open.spotify.com/artist/2hJxcuFTgP89GdmCVXfXyi) | [最後一次](https://open.spotify.com/album/1Kk3DZ5m4U8hyswoyvnaJo) | 4:19 |
 | 60 | [敢傻敢衝 \- 2020黑松沙士年度主題曲](https://open.spotify.com/track/3V0psPzZ73wCDh4BmM7izM) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [敢傻敢衝](https://open.spotify.com/album/3W8AXuHbge4JtOzjhmLIpo) | 3:17 |
 | 61 | [最悲傷的事 \- 《比悲傷更悲傷的故事》影集版 主題曲](https://open.spotify.com/track/1uFmbLzPHHoweD5HEKg240) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [最悲傷的事 \(《比悲傷更悲傷的故事》影集版 主題曲\)](https://open.spotify.com/album/5wwMx4hWNkUijoyTVdXwln) | 4:57 |
 | 62 | [愛了很久的朋友\(電影「後來的我們」插曲\)](https://open.spotify.com/track/2CTAAr1Hd21pEvyjxUHHGC) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [愛了很久的朋友\(電影「後來的我們」插曲\)](https://open.spotify.com/album/5eBBWj4R69YZ0WSajD1YWw) | 4:28 |
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74DDhiuyXIl.md) - [plain]
 | 64 | [错季](https://open.spotify.com/track/3bpmg6cjT1JSApgoXDQd04) | [秋原依](https://open.spotify.com/artist/1heJq6KCSMOGAhJg0iGsEd) | [错季](https://open.spotify.com/album/5VjqmtXynQDvQMXcOOmPkE) | 4:35 |
 | 65 | [白鸽](https://open.spotify.com/track/3ZzjBnvlMgDpD4OH0LcGR4) | [你的上好佳](https://open.spotify.com/artist/14hDbC4uLLxDn19VsFrjsL) | [白鸽](https://open.spotify.com/album/6JQ6jGtfTpnjLU8yQawNO0) | 3:28 |
 | 66 | [別再想見我](https://open.spotify.com/track/7xv1df9mhiy8JyPvaUW61f) | [許光漢](https://open.spotify.com/artist/3hhUgkTf3fFYGogFMbV5Wv) | [別再想見我](https://open.spotify.com/album/0wH1j5vCOautchAN4S6DbX) | 4:30 |
-| 67 | [春天不如預期](https://open.spotify.com/track/2MK1cGZzVDzNnwbniMmDrJ) | [老王樂隊](https://open.spotify.com/artist/4MRQK5pLyNbcOW493n55iT) | [黃色的房子映照清晨的天空](https://open.spotify.com/album/40hKCfVl08keyqMUPVimz3) | 6:29 |
-| 68 | [處處遺憾](https://open.spotify.com/track/6vcl5gHFcDmGnioPoHBxER) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [處處遺憾](https://open.spotify.com/album/6pCW8bXJ2lt3QBU5dFXGdu) | 4:10 |
-| 69 | [心愿](https://open.spotify.com/track/2JvBOfpVxHftlTPaCadw6P) | [Ren Ran](https://open.spotify.com/artist/6f4srX54JFrLNK4aTJe2Sc) | [心愿](https://open.spotify.com/album/5FPSPR3NOTVkZFsT0frnaZ) | 4:20 |
+| 67 | [處處遺憾](https://open.spotify.com/track/6vcl5gHFcDmGnioPoHBxER) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [處處遺憾](https://open.spotify.com/album/6pCW8bXJ2lt3QBU5dFXGdu) | 4:10 |
+| 68 | [不搖滾](https://open.spotify.com/track/1ZgxIcqFpdHYIF7pjHe1Yc) | [831](https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM), [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [\[ 人生就是用來XX的 \] 2021 線上生日趴 \(Live Session\)](https://open.spotify.com/album/2wsteom79gJHf9C6EAZ7df) | 4:51 |
+| 69 | [春天不如預期](https://open.spotify.com/track/2MK1cGZzVDzNnwbniMmDrJ) | [老王樂隊](https://open.spotify.com/artist/4MRQK5pLyNbcOW493n55iT) | [黃色的房子映照清晨的天空](https://open.spotify.com/album/40hKCfVl08keyqMUPVimz3) | 6:29 |
 | 70 | [諷刺的情書](https://open.spotify.com/track/77OJPbm053M9LA5Pqs2yOZ) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [無人知曉](https://open.spotify.com/album/6bCnbjqqRgcPCpJwcnoLju) | 4:18 |
-| 71 | [不搖滾](https://open.spotify.com/track/1ZgxIcqFpdHYIF7pjHe1Yc) | [831](https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM), [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [\[ 人生就是用來XX的 \] 2021 線上生日趴 \(Live Session\)](https://open.spotify.com/album/2wsteom79gJHf9C6EAZ7df) | 4:51 |
+| 71 | [心愿](https://open.spotify.com/track/2JvBOfpVxHftlTPaCadw6P) | [Ren Ran](https://open.spotify.com/artist/6f4srX54JFrLNK4aTJe2Sc) | [心愿](https://open.spotify.com/album/5FPSPR3NOTVkZFsT0frnaZ) | 4:20 |
 | 72 | [鲸落海底](https://open.spotify.com/track/6SCJVKQdBc4KDDCafZ4S8p) | [Xian Zi](https://open.spotify.com/artist/2CBuGdj5Nmgx1VfrgLnGoJ) | [鲸落海底](https://open.spotify.com/album/7dHNvUWY9c3nix7Stp8zMy) | 4:43 |
 | 73 | [愛情的模樣 Life Live](https://open.spotify.com/track/4b1SzvKg74EQ8ftVH0ke8Z) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY), [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [五月天 人生無限公司 Life Live 好友加班篇](https://open.spotify.com/album/5Rfn5E0vo8RIUfWsr0B31Y) | 5:11 |
 | 74 | [Hold Me Tight](https://open.spotify.com/track/18U6DzjWgoMMYg14kJxCMu) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ), [Dena](https://open.spotify.com/artist/7oBIFoqEP2zwnJa2HL6h0l) | [Hold Me Tight](https://open.spotify.com/album/72vVTzqoBOdbJDkZZmVmgd) | 4:06 |
 | 75 | [親害的 \(feat\. A\-Lin\)](https://open.spotify.com/track/3rVVMySmCZCV0pEcrmNYOu) | [柏霖PoLin](https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ), [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [野蠻之荒](https://open.spotify.com/album/4knvf1FmUkiBrDCXWZdrNR) | 3:25 |
 
-Snapshot ID: `MTY4MTEwMzc0OSwwMDAwMDAwMDM3ZDAwN2JlMmY4ZTZiM2FmMGYyNzkxODUwODBlNzU0`
+Snapshot ID: `MTY4MTEwMzc0OSwwMDAwMDAwMDBhMTNhYzBjZDY1NDA1ZDBlNGFjODZhMTgxODMyZjcz`

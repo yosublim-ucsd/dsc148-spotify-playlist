@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46wsnu.md) - [plain]
 
 > This is Rise Against\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,283 likes - 51 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,330 likes - 51 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46wsnu.md) - [plain]
 | 31 | [Sudden Urge](https://open.spotify.com/track/6oAinv8aWXiS5AUzV6Tdlf) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Generation](https://open.spotify.com/album/4t8eylrNR3Z5kYc7VEENLW) | 3:46 |
 | 32 | [Pain Mgmt](https://open.spotify.com/track/0T2s6fdO3RgZY2bPltwNJr) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Generation II](https://open.spotify.com/album/5yMunjWm6lcpvGYDYOfVt0) | 3:42 |
 | 33 | [Survivor Guilt](https://open.spotify.com/track/6z38xRV0gxWMyjtuz5T2Ea) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Endgame](https://open.spotify.com/album/2Gq0ERke26yxdGuRvrqFTD) | 3:59 |
-| 34 | [The Black Market](https://open.spotify.com/track/5skwAU0N1ijXEJ5HFDphXP) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Black Market](https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC) | 4:15 |
+| 34 | [Miracle \- Ghost Note Symphonies](https://open.spotify.com/track/4OtIlddVzUj3p2q28uCvjl) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Ghost Note Symphonies, Vol.1](https://open.spotify.com/album/6Q5roPzwOZwZ3mOzOU47Wl) | 4:02 |
 | 35 | [Forfeit](https://open.spotify.com/track/2DFmAghYvS0NuF9dpQWQaV) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Generation](https://open.spotify.com/album/4t8eylrNR3Z5kYc7VEENLW) | 3:44 |
-| 36 | [Miracle \- Ghost Note Symphonies](https://open.spotify.com/track/4OtIlddVzUj3p2q28uCvjl) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Ghost Note Symphonies, Vol.1](https://open.spotify.com/album/6Q5roPzwOZwZ3mOzOU47Wl) | 4:02 |
+| 36 | [The Black Market](https://open.spotify.com/track/5skwAU0N1ijXEJ5HFDphXP) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Black Market](https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC) | 4:15 |
 | 37 | [Black Masks & Gasoline](https://open.spotify.com/track/5LYYi2xeLbrnvD9UQ1AE3U) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Rpm10](https://open.spotify.com/album/65HQSVksRU9QjPrCsvQK2E) | 2:59 |
 | 38 | [Last Man Standing](https://open.spotify.com/track/30X8uXiLDYneS0MuQY2H6n) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Last Man Standing](https://open.spotify.com/album/0GIQrSfhrtTD8sR7nXhoRB) | 4:27 |
 | 39 | [The Numbers](https://open.spotify.com/track/2gDJhVspNZPpCEyzR9zOY0) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Generation](https://open.spotify.com/album/4t8eylrNR3Z5kYc7VEENLW) | 4:59 |
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46wsnu.md) - [plain]
 | 45 | [Welcome To The Breakdown](https://open.spotify.com/track/3SHfZYUYMkz1PlE0WdVVap) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Wolves](https://open.spotify.com/album/4sz6Fn4BYORRLIc1AvQwQx) | 3:03 |
 | 46 | [Far From Perfect \- Ghost Note Symphonies](https://open.spotify.com/track/5k1pZ19vT32fzCSeqRL26v) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Ghost Note Symphonies, Vol.1](https://open.spotify.com/album/6Q5roPzwOZwZ3mOzOU47Wl) | 3:53 |
 | 47 | [Dirt And Roses](https://open.spotify.com/track/5NfDTmK8fnXgLmUqnFWmbx) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Long Forgotten Songs: B\-Sides & Covers 2000\-2013](https://open.spotify.com/album/3rsOMcHwc9NTQBgEBLcWlP) | 3:13 |
-| 48 | [Beds Are Burning \(feat\. Tim Mcllrath of Rise Against\)](https://open.spotify.com/track/0yTSj2rIX1OeYQJcunbi5N) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [My Echo, My Shadow, My Covers & Me](https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW) | 4:06 |
-| 49 | [The Answer](https://open.spotify.com/track/3SUWh0G4xKwABijsrahDRW) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Generation II](https://open.spotify.com/album/5yMunjWm6lcpvGYDYOfVt0) | 4:01 |
+| 48 | [The Answer](https://open.spotify.com/track/3SUWh0G4xKwABijsrahDRW) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Generation II](https://open.spotify.com/album/5yMunjWm6lcpvGYDYOfVt0) | 4:01 |
+| 49 | [Beds Are Burning \(feat\. Tim Mcllrath of Rise Against\)](https://open.spotify.com/track/0yTSj2rIX1OeYQJcunbi5N) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [My Echo, My Shadow, My Covers & Me](https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW) | 4:06 |
 | 50 | [Voices Off Camera \- Ghost Note Symphonies](https://open.spotify.com/track/3PaeUkXlQSmYKlR30fbdzU) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Ghost Note Symphonies, Vol.1](https://open.spotify.com/album/6Q5roPzwOZwZ3mOzOU47Wl) | 3:01 |
 | 51 | [Blood To Bleed](https://open.spotify.com/track/5tTqyjPKCAe5rqmOl9eslW) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Siren Song Of The Counter\-Culture](https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6) | 3:48 |
 
-Snapshot ID: `MjgwMjYwMzIsMDAwMDAwMDBmMjVmNmQ4MjA5MmNjMDIzZDdkMWQxYTJhNDEzYjRhYQ==`
+Snapshot ID: `MjgwMjc0MDEsMDAwMDAwMDAzNjE3NjAxZGI4ZjMzMmJiYjEzMzQzMzdhMTBiYjE4NA==`

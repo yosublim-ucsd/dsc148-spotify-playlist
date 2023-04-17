@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Amanda Magalh\u00e3es, Dj Nyack",
-  "num_followers": 159449,
+  "num_followers": 159472,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0MTI2MCwwMDAwMDAwMDZhY2FiYjcyMzFkNmQ3MWU0MzRhMmNhMzgyMjVkYmQ5",
+  "snapshot_id": "MTY4MTQ0MTI2MCwwMDAwMDAwMDFjMDcxYTRlNThjYTFmOTNlNjZhY2FlZGY5ZjBmNzdk",
   "tracks": [
     {
       "added_at": "2023-04-14 03:01:00",
@@ -519,30 +519,6 @@
     {
       "added_at": "2023-04-14 03:01:00",
       "album": {
-        "name": "Olhos de Cigana",
-        "url": "https://open.spotify.com/album/5QgZgivyTMSqquSjv4iCXf"
-      },
-      "artists": [
-        {
-          "name": "Izy Castelano",
-          "url": "https://open.spotify.com/artist/2rAYpmc0WnoH9zOcDMQwjq"
-        },
-        {
-          "name": "Tarcis",
-          "url": "https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg"
-        },
-        {
-          "name": "FELL",
-          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "Olhos de Cigana",
-      "url": "https://open.spotify.com/track/1dJu8nGmVqdHiGBsy7gxRl"
-    },
-    {
-      "added_at": "2023-04-14 03:01:00",
-      "album": {
         "name": "Sinal de Fuma\u00e7a",
         "url": "https://open.spotify.com/album/5OkI6zKfhKzl1w3CjpvnOi"
       },
@@ -575,6 +551,30 @@
       "duration_ms": 167936,
       "name": "MENTIROSO",
       "url": "https://open.spotify.com/track/2pWh0qXT9466a6HwMf9I1W"
+    },
+    {
+      "added_at": "2023-04-14 03:01:00",
+      "album": {
+        "name": "Olhos de Cigana",
+        "url": "https://open.spotify.com/album/5QgZgivyTMSqquSjv4iCXf"
+      },
+      "artists": [
+        {
+          "name": "Izy Castelano",
+          "url": "https://open.spotify.com/artist/2rAYpmc0WnoH9zOcDMQwjq"
+        },
+        {
+          "name": "Tarcis",
+          "url": "https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg"
+        },
+        {
+          "name": "FELL",
+          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "Olhos de Cigana",
+      "url": "https://open.spotify.com/track/1dJu8nGmVqdHiGBsy7gxRl"
     },
     {
       "added_at": "2023-04-14 03:01:00",
@@ -639,6 +639,30 @@
     {
       "added_at": "2023-04-14 03:01:00",
       "album": {
+        "name": "Caos",
+        "url": "https://open.spotify.com/album/5rTyg8j1ZT8hJFcWbO63sD"
+      },
+      "artists": [
+        {
+          "name": "Annick",
+          "url": "https://open.spotify.com/artist/7MBC4MpNfqH87jfzeZn3tE"
+        },
+        {
+          "name": "Lezin",
+          "url": "https://open.spotify.com/artist/2JcdqbrYd99HWzPaBRCSfp"
+        },
+        {
+          "name": "Noemi Leal",
+          "url": "https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Caos",
+      "url": "https://open.spotify.com/track/4VhNzb4En46y2hHNYDl92c"
+    },
+    {
+      "added_at": "2023-04-14 03:01:00",
+      "album": {
         "name": "Meu Bem",
         "url": "https://open.spotify.com/album/2bo02n8YzdGhdbUGbKLj5h"
       },
@@ -667,30 +691,6 @@
       "duration_ms": 278000,
       "name": "Roupa de Ontem",
       "url": "https://open.spotify.com/track/5DNmIznDtyTJrkmAXdeFnl"
-    },
-    {
-      "added_at": "2023-04-14 03:01:00",
-      "album": {
-        "name": "Caos",
-        "url": "https://open.spotify.com/album/5rTyg8j1ZT8hJFcWbO63sD"
-      },
-      "artists": [
-        {
-          "name": "Annick",
-          "url": "https://open.spotify.com/artist/7MBC4MpNfqH87jfzeZn3tE"
-        },
-        {
-          "name": "Lezin",
-          "url": "https://open.spotify.com/artist/2JcdqbrYd99HWzPaBRCSfp"
-        },
-        {
-          "name": "Noemi Leal",
-          "url": "https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Caos",
-      "url": "https://open.spotify.com/track/4VhNzb4En46y2hHNYDl92c"
     },
     {
       "added_at": "2023-04-14 03:01:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-04-14 03:01:00",
       "album": {
-        "name": "Estou Aqui",
-        "url": "https://open.spotify.com/album/2DpZXcJODNkdKOVxrmyXgr"
-      },
-      "artists": [
-        {
-          "name": "INAHUGO",
-          "url": "https://open.spotify.com/artist/7mDupUmoe1y83y1XP5lQGR"
-        }
-      ],
-      "duration_ms": 227234,
-      "name": "Del\u00edrio",
-      "url": "https://open.spotify.com/track/3XzYdM3XYfrdWInWct8moG"
-    },
-    {
-      "added_at": "2023-04-14 03:01:00",
-      "album": {
         "name": "O Que Eu Soul (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5DCyIxkkD7LSErRyBS26oC"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 199625,
       "name": "O Que Eu Soul - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5nde5dfB24TXkLSrIHor51"
+    },
+    {
+      "added_at": "2023-04-14 03:01:00",
+      "album": {
+        "name": "Estou Aqui",
+        "url": "https://open.spotify.com/album/2DpZXcJODNkdKOVxrmyXgr"
+      },
+      "artists": [
+        {
+          "name": "INAHUGO",
+          "url": "https://open.spotify.com/artist/7mDupUmoe1y83y1XP5lQGR"
+        }
+      ],
+      "duration_ms": 227234,
+      "name": "Del\u00edrio",
+      "url": "https://open.spotify.com/track/3XzYdM3XYfrdWInWct8moG"
     },
     {
       "added_at": "2023-04-14 03:01:00",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2023-04-14 03:01:00",
       "album": {
+        "name": "Ventilador",
+        "url": "https://open.spotify.com/album/53ARAS1GKpLQYtHusiYkUs"
+      },
+      "artists": [
+        {
+          "name": "Nagy",
+          "url": "https://open.spotify.com/artist/2QX3kFP9WdmGPeFKPfd9Mv"
+        }
+      ],
+      "duration_ms": 179076,
+      "name": "Ventilador",
+      "url": "https://open.spotify.com/track/5pks7N1kfqxMjh44BktzGM"
+    },
+    {
+      "added_at": "2023-04-14 03:01:00",
+      "album": {
         "name": "V\u00edcio",
         "url": "https://open.spotify.com/album/1Xc3wQDbAv60BjFIcUoy59"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 133565,
       "name": "inten\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0skj9KDlD6sFf7RB8SgWB4"
-    },
-    {
-      "added_at": "2023-04-14 03:01:00",
-      "album": {
-        "name": "Ventilador",
-        "url": "https://open.spotify.com/album/53ARAS1GKpLQYtHusiYkUs"
-      },
-      "artists": [
-        {
-          "name": "Nagy",
-          "url": "https://open.spotify.com/artist/2QX3kFP9WdmGPeFKPfd9Mv"
-        }
-      ],
-      "duration_ms": 179076,
-      "name": "Ventilador",
-      "url": "https://open.spotify.com/track/5pks7N1kfqxMjh44BktzGM"
     },
     {
       "added_at": "2023-04-14 03:01:00",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2023-04-14 03:01:00",
       "album": {
+        "name": "Uma Chance Pra Ficar Tudo bem",
+        "url": "https://open.spotify.com/album/3E7fL2Muf5c8OvC8A54Mp3"
+      },
+      "artists": [
+        {
+          "name": "Crod",
+          "url": "https://open.spotify.com/artist/1VI8uzUXTMpjdIvM6Rsh0j"
+        }
+      ],
+      "duration_ms": 154290,
+      "name": "Uma Chance",
+      "url": "https://open.spotify.com/track/2QPZQP2MDGC5ePtfSI9ihO"
+    },
+    {
+      "added_at": "2023-04-14 03:01:00",
+      "album": {
         "name": "Pra Mim N\u00e3o D\u00e1",
         "url": "https://open.spotify.com/album/6b9pPvAJf6rJZfikk7681K"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 153103,
       "name": "Pra Mim N\u00e3o D\u00e1",
       "url": "https://open.spotify.com/track/7hmuEsmtvu4GpMlYjXD6zu"
-    },
-    {
-      "added_at": "2023-04-14 03:01:00",
-      "album": {
-        "name": "Uma Chance Pra Ficar Tudo bem",
-        "url": "https://open.spotify.com/album/3E7fL2Muf5c8OvC8A54Mp3"
-      },
-      "artists": [
-        {
-          "name": "Crod",
-          "url": "https://open.spotify.com/artist/1VI8uzUXTMpjdIvM6Rsh0j"
-        }
-      ],
-      "duration_ms": 154290,
-      "name": "Uma Chance",
-      "url": "https://open.spotify.com/track/2QPZQP2MDGC5ePtfSI9ihO"
     },
     {
       "added_at": "2023-04-14 03:01:00",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2023-04-14 03:01:00",
       "album": {
+        "name": "1001 Motivos",
+        "url": "https://open.spotify.com/album/5WBUhncmkdthBpkab2acDS"
+      },
+      "artists": [
+        {
+          "name": "Jeff Black",
+          "url": "https://open.spotify.com/artist/0C2oPRdGxKKSBMvmAcSUrs"
+        }
+      ],
+      "duration_ms": 163201,
+      "name": "1001 Motivos",
+      "url": "https://open.spotify.com/track/58BRMUXVVwe3haP1jlZBuo"
+    },
+    {
+      "added_at": "2023-04-14 03:01:00",
+      "album": {
         "name": "Inten\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/3GtRC63GLxKHEq2o7j95A8"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 199655,
       "name": "Inten\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/40rijjvXbyX6alCMtM2r3Z"
-    },
-    {
-      "added_at": "2023-04-14 03:01:00",
-      "album": {
-        "name": "1001 Motivos",
-        "url": "https://open.spotify.com/album/5WBUhncmkdthBpkab2acDS"
-      },
-      "artists": [
-        {
-          "name": "Jeff Black",
-          "url": "https://open.spotify.com/artist/0C2oPRdGxKKSBMvmAcSUrs"
-        }
-      ],
-      "duration_ms": 163201,
-      "name": "1001 Motivos",
-      "url": "https://open.spotify.com/track/58BRMUXVVwe3haP1jlZBuo"
     },
     {
       "added_at": "2023-04-14 03:01:00",
@@ -1479,26 +1479,22 @@
     {
       "added_at": "2023-04-14 03:01:00",
       "album": {
-        "name": "Ponto de Equil\u00edbrio",
-        "url": "https://open.spotify.com/album/4qGNPs1xnmEbRXEF4DAQqH"
+        "name": "Te Ouvir",
+        "url": "https://open.spotify.com/album/7J0lgtrG1nb3vHLRNQpdlG"
       },
       "artists": [
         {
-          "name": "Mutanx",
-          "url": "https://open.spotify.com/artist/7pH4KBMOUOnzAWnbtgDhiM"
-        },
-        {
-          "name": "Matheus Caettano",
-          "url": "https://open.spotify.com/artist/7s0WoVMuWmgKszwmct3sB1"
+          "name": "Nina",
+          "url": "https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5"
         },
         {
           "name": "Christoffer",
           "url": "https://open.spotify.com/artist/1e4TwMRNTZmlnnwa0ymxHG"
         }
       ],
-      "duration_ms": 193014,
-      "name": "Ponto de Equil\u00edbrio",
-      "url": "https://open.spotify.com/track/7c4JagpZuj0wWkJmYMubyV"
+      "duration_ms": 215757,
+      "name": "Te Ouvir",
+      "url": "https://open.spotify.com/track/6exIYcUynpOULD7mcWIEas"
     }
   ],
   "unique_name": "R&B Brasil",

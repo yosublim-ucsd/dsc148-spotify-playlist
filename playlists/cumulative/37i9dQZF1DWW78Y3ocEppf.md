@@ -4,7 +4,7 @@
 
 > Let the songs speak\. Cover: Yung Bleu
 
-468 songs - 1 day 0 hr 48 min
+469 songs - 1 day 0 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,7 +193,7 @@
 | [Hotel](https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hotel](https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF) | 3:17 | 2022-09-24 | 2022-12-03 |
 | [How \(feat\. Roddy Ricch\)](https://open.spotify.com/track/6w93UfN5MeXXQTrVIf5V6x) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 3:38 | 2022-05-06 | 2023-02-18 |
 | [How Does It Feel](https://open.spotify.com/track/0ixyLzNaPr7G2Fu5ETgssB) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [How Does It Feel](https://open.spotify.com/album/0WTSA6keV6kTkTZPWULRcg) | 2:46 | 2023-02-24 |  |
-| [How Many](https://open.spotify.com/track/01zX60e8CoXA8xNlXdHvdI) | [Ryan Destiny](https://open.spotify.com/artist/5bKtvYqfmflyEKp2FhPXwf) | [How Many](https://open.spotify.com/album/3uXcufGHqbpkYQnImb0RGm) | 3:18 | 2022-12-09 |  |
+| [How Many](https://open.spotify.com/track/01zX60e8CoXA8xNlXdHvdI) | [Ryan Destiny](https://open.spotify.com/artist/5bKtvYqfmflyEKp2FhPXwf) | [How Many](https://open.spotify.com/album/3uXcufGHqbpkYQnImb0RGm) | 3:18 | 2022-12-09 | 2023-04-17 |
 | [How Much Can A Heart Take \(feat\. Yebba\)](https://open.spotify.com/track/5SFssNXGjeOxdAnECfgttm) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Table For Two](https://open.spotify.com/album/0OPKA9Mrv6JFrTjC0KpvdT) | 5:02 | 2021-12-15 | 2022-08-06 |
 | [How Would You Feel](https://open.spotify.com/track/5yosbcAjMrTNcosZbhZiBo) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [How Would You Feel](https://open.spotify.com/album/373W4hy5SMxKxICDMDynoX) | 2:41 | 2022-03-25 | 2022-07-27 |
 | [Hrs & Hrs](https://open.spotify.com/track/3M5azWqeZbfoVkGXygatlb) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/2ngrG39dI2ofhCxjmFnKv5) | 3:24 | 2022-07-15 | 2022-09-24 |
@@ -446,6 +446,7 @@
 | [Wasteland](https://open.spotify.com/track/3Pf6GfPT5emtTRghA3u7HC) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro) | [The Other Side](https://open.spotify.com/album/4qpF4CLJlmBNyMQNcHUmON) | 2:27 | 2022-09-30 | 2022-10-28 |
 | [Wasting Time \( feat\. Drake & The Neptunes \)](https://open.spotify.com/track/48WidxP9CqyYtk97pwGZ3c) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [Wasting Time \( feat\. Drake & The Neptunes \)](https://open.spotify.com/album/2brWccDLT5vREu0FxqH6Az) | 5:01 | 2021-12-15 | 2022-08-06 |
 | [Watch It Grow \(feat\. Sevyn Streeter\)](https://open.spotify.com/track/3rNreFbHZADxGFssb4Ohm1) | [Traetwothree](https://open.spotify.com/artist/67cw6GPXHiwsDjFTvAoVfV), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [Long Story Short](https://open.spotify.com/album/7iiMaAnJoNNMFx79tcqyn2) | 2:46 | 2023-03-24 |  |
+| [Waterfalls](https://open.spotify.com/track/24KsIgn3IsG6N5e43XQvvx) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Love Scars II](https://open.spotify.com/album/4bOSKl0Hlmi5jXWxcxhHgs) | 2:41 | 2023-04-14 |  |
 | [WE DON'T HAVE TO TALK ABOUT IT](https://open.spotify.com/track/0hTx619IpMPXDZJTtejmgo) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [TEMPORARY HIGHS IN THE VIOLET SKIES](https://open.spotify.com/album/2QbggCXuxIF9ZINGfzR8Md) | 3:19 | 2021-12-15 | 2022-07-29 |
 | [We Made It](https://open.spotify.com/track/2gG6IqL2enOyLdluSTcTTS) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [We Made It](https://open.spotify.com/album/15kYOLNxhabZKauG8YIUBa) | 5:14 | 2021-12-15 | 2022-07-29 |
 | [We Need A Resolution \(feat\. Timbaland\)](https://open.spotify.com/track/2c7huQpWR29bcXrrvLcG2j) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Aaliyah](https://open.spotify.com/album/0cNaDPtbHC1PMJMRTY2GFc) | 4:02 | 2022-03-25 | 2022-04-16 |

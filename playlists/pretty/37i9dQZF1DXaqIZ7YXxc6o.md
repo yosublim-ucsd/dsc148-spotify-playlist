@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: Whyte Fang
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,116 likes - 103 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,123 likes - 103 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

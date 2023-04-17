@@ -4,7 +4,7 @@
 
 > Some of the worlds most beautiful love songs.
 
-417 songs - 1 day 4 hr 25 min
+418 songs - 1 day 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,6 +308,7 @@
 | [Said I Loved You...But I Lied](https://open.spotify.com/track/2nfMrwg3aRhSAv4HX7IzJL) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [The One Thing](https://open.spotify.com/album/76UFgbtfCFi3mGjckycfvX) | 5:04 | 2021-02-01 |  |
 | [Sailing](https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah) | 4:16 | 2022-08-26 | 2023-01-07 |
 | [Sailing](https://open.spotify.com/track/5Ii750a5kcwanAaBfrOlZM) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Rhino Hi\-Five: Christopher Cross](https://open.spotify.com/album/1zCZlZkquBeSNOeThSrKpE) | 4:16 | 2021-02-01 | 2022-07-29 |
+| [Sailing](https://open.spotify.com/track/4ogaI0XfmAunA0LyjveMSF) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh) | 4:18 | 2022-12-02 |  |
 | [Save The Best For Last](https://open.spotify.com/track/7okbmgA8lRBGl5limZ7LFM) | [Vanessa Williams](https://open.spotify.com/artist/75L9s8KVrhCNtBUkZFnDFW) | [The Comfort Zone](https://open.spotify.com/album/0ksxzYuZtQz1kYrZEhXDjV) | 3:38 | 2022-05-30 |  |
 | [Save The Best For Last](https://open.spotify.com/track/1x3Nnjq41J3Mf0RXsEFsWZ) | [Vanessa Williams](https://open.spotify.com/artist/75L9s8KVrhCNtBUkZFnDFW) | [True Drivetime \(3 CD Set \)](https://open.spotify.com/album/2oDShWVqhNVQG0cbtinHnt) | 3:45 | 2021-02-01 | 2022-07-29 |
 | [Say It First](https://open.spotify.com/track/67aDq4Z8lErpWQ0Ky0xaJo) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 4:07 | 2023-02-10 | 2023-03-01 |
@@ -323,7 +324,7 @@
 | [She's The One](https://open.spotify.com/track/4lO57zZGFcj7vSY4QhfVDq) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [I've Been Expecting You](https://open.spotify.com/album/4sgNyq4LbcoRnNhte25GPs) | 4:18 | 2021-02-01 |  |
 | [Show Me Heaven \- From "Days Of Thunder" Soundtrack](https://open.spotify.com/track/0smsQNRjaMKjacESbRb3wZ) | [Maria McKee](https://open.spotify.com/artist/30GIF9g2UJ1ifn45kSMTFf) | [Drivetime](https://open.spotify.com/album/3GO384bB5SvHoaqnA5y5NZ) | 3:42 | 2021-02-01 | 2022-07-29 |
 | [Simply the Best \(From "Schitt's Creek"\)](https://open.spotify.com/track/1KFuLRUmWf0irn0CLclT2X) | [Noah Reid](https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT) | [Simply the Best \(From "Schitt's Creek"\)](https://open.spotify.com/album/3by1f21NPpyV2sxW4PkzRp) | 2:57 | 2023-02-10 | 2023-03-01 |
-| [Smiling All The Way Back Home](https://open.spotify.com/track/2GMnysJaMa483o0gIOinzB) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 3:02 | 2022-12-02 |  |
+| [Smiling All The Way Back Home](https://open.spotify.com/track/2GMnysJaMa483o0gIOinzB) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 3:02 | 2022-12-02 | 2023-04-17 |
 | [Smiling All The Way Back Home](https://open.spotify.com/track/3jeYMY8wyibEfP8gsQ3TAS) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Smiling All The Way Back Home](https://open.spotify.com/album/4MhanVyOKDTIQs8ZhQqNe8) | 3:02 | 2022-09-08 | 2022-11-24 |
 | [Someone Like You](https://open.spotify.com/track/19RKuCdPh68WknFtjG9BJN) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21' Sampler](https://open.spotify.com/album/74fjslPVQH60ns7vRlv3tW) | 4:45 | 2021-02-01 | 2022-07-29 |
 | [Someone Like You](https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 4:45 | 2022-05-30 |  |

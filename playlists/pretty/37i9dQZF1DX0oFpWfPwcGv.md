@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 
 > Disco forever\. Deeper cuts, forgotten gems and 8 minute versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,822 likes - 75 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,861 likes - 75 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 | 59 | [Love Is You \- A Tom Moulton Mix](https://open.spotify.com/track/4YjD6Gd0IjMIchfTOOPEgS) | [Carol Williams](https://open.spotify.com/artist/5QqgCq8kssGoXgqxBlGgJM), [Tom Moulton](https://open.spotify.com/artist/6xDW6TfPeBAiq1gmqMJnM6) | ['Lectric Lady](https://open.spotify.com/album/7eY0iC16v1UNmrHqG1eiuB) | 7:53 |
 | 60 | [Casanova \- Extended Version](https://open.spotify.com/track/1Q2lpDwSeNTn5qawq0IkVu) | [Coffee](https://open.spotify.com/artist/0FKrKK6FcyzlTnuhmv7i6h) | [Slippin' and Dippin' \(Bonus Track Version\)](https://open.spotify.com/album/4LvH1pQ8ysoBXLicmLdifO) | 6:11 |
 | 61 | [Let No Man Put Asunder \- Shep Pettibone 12" Mix](https://open.spotify.com/track/5mTzj7zSsR6YezbRwAzgKd) | [First Choice](https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4), [Shep Pettibone](https://open.spotify.com/artist/6lGq0HC3OQxpPsoSuTwqKr) | [Delusions \(Bonus Version\)](https://open.spotify.com/album/0YbZ9lgPYhxGHS2zpRIOZg) | 8:01 |
-| 62 | [Put Your Body In It](https://open.spotify.com/track/7aRMjcQaRv4pvIQGu1DYVh) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g) | [Gold](https://open.spotify.com/album/4YAxIAMUnzqt0Oq5FRe2W5) | 4:04 |
-| 63 | [Was That All It Was \- 12" Version](https://open.spotify.com/track/1WHY9kgaOaJdv0hjiiw4pk) | [Jean Carn](https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1) | [The Essential Jean Carn \- The PIR Years](https://open.spotify.com/album/0yVvx6X4drgYTeWfAK8xdN) | 6:29 |
+| 62 | [Was That All It Was \- 12" Version](https://open.spotify.com/track/1WHY9kgaOaJdv0hjiiw4pk) | [Jean Carn](https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1) | [The Essential Jean Carn \- The PIR Years](https://open.spotify.com/album/0yVvx6X4drgYTeWfAK8xdN) | 6:29 |
+| 63 | [Put Your Body In It](https://open.spotify.com/track/7aRMjcQaRv4pvIQGu1DYVh) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g) | [Gold](https://open.spotify.com/album/4YAxIAMUnzqt0Oq5FRe2W5) | 4:04 |
 | 64 | [Begin the Beguine](https://open.spotify.com/track/2hLAqf6uB6QusEUHfDf5oi) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf) | [The Essential Johnny Mathis](https://open.spotify.com/album/4KM9hhWCgasx9j7y3NogNv) | 4:18 |
 | 65 | [In The Navy \- Single Version](https://open.spotify.com/track/3qUfFs8rW6FukRFnfRctTq) | [Village People](https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW) | [Go West](https://open.spotify.com/album/0nEUsJwm1yIl9IyC5z8oJb) | 5:40 |
 | 66 | [Shame \- 12" Disco Mix](https://open.spotify.com/track/0QewO59ixTHz3bsa4mRHup) | [Evelyn "Champagne" King](https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7) | [The Essential Evelyn "Champagne" King](https://open.spotify.com/album/4BlJ6291OlTOAKnnXJMIQI) | 6:31 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 | 74 | [Moment Of My Life \- 12" Version](https://open.spotify.com/track/0efOcjjzdfBxFJp6MZcXzC) | [Inner Life](https://open.spotify.com/artist/39fymbns0snQudVbD1hZjX) | [II](https://open.spotify.com/album/6dr4nOonv97FsqmMsBzf0b) | 6:32 |
 | 75 | [Soul Makossa](https://open.spotify.com/track/0ofK8UNWOtCFbbizCe8hta) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Crooklyn Volume II](https://open.spotify.com/album/0D6AKEKQLa5VR5akhUjV0l) | 4:26 |
 
-Snapshot ID: `MTY3ODE0OTQ1OCwwMDAwMDAwMGI0YjUyNWM3YzdhMWM0NGFlMjFhZDk5YmQyNGUwZDY4`
+Snapshot ID: `MTY3ODE0OTQ1OCwwMDAwMDAwMDJlMjk1NjZmN2UwZGQ1Yjc5MWY1ZGNjYjU5OWVlNjUy`

@@ -1,12 +1,12 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 22301,
+  "num_followers": 22413,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk4MzYwMCwwMDAwMDAwMDExNDg4ODZkMGU3NzBkNmJjZWUxZGU5ODUwODUzYWY1",
+  "snapshot_id": "MTY3NTk4MzYwMCwwMDAwMDAwMDYzY2FkOTZkYTBjMzdlMTI3ZWM2MzVjOTYyYWYwNjc2",
   "tracks": [
     {
       "added_at": "2023-02-09 23:00:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "Screen Violence",
-        "url": "https://open.spotify.com/album/0Q6KFth9qxni5rsmqtcTKO"
-      },
-      "artists": [
-        {
-          "name": "CHVRCHES",
-          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
-        }
-      ],
-      "duration_ms": 269640,
-      "name": "Final Girl",
-      "url": "https://open.spotify.com/track/0VlPGhSbjizh04pgE36FUb"
-    },
-    {
-      "added_at": "2023-02-09 23:00:00",
-      "album": {
         "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
         "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 245253,
       "name": "We Only Come Out At Night - Remastered 2012",
       "url": "https://open.spotify.com/track/4vkcU3UFjYsKuBibmYA3hL"
+    },
+    {
+      "added_at": "2023-02-09 23:00:00",
+      "album": {
+        "name": "Screen Violence",
+        "url": "https://open.spotify.com/album/0Q6KFth9qxni5rsmqtcTKO"
+      },
+      "artists": [
+        {
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+        }
+      ],
+      "duration_ms": 269640,
+      "name": "Final Girl",
+      "url": "https://open.spotify.com/track/0VlPGhSbjizh04pgE36FUb"
     },
     {
       "added_at": "2023-02-09 23:00:00",

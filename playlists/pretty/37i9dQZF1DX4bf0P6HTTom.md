@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bf0P6HTTom.md) - [plain]
 
 > Eagles, The Byrds and all your favorite country rock
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,080 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,150 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bf0P6HTTom.md) - [plain]
 | 40 | [Two Lane Highway](https://open.spotify.com/track/0tcq9tNIw5JHUywymB07OA) | [Pure Prairie League](https://open.spotify.com/artist/1MXwwmS2JpmsHZhdMeOL2s) | [Greatest Hits](https://open.spotify.com/album/41AdLTdErVUwftvr1dUVAf) | 4:06 |
 | 41 | [Willin'](https://open.spotify.com/track/10JSZpgIr0NZb3JqP0lT3K) | [Commander Cody and His Lost Planet Airmen](https://open.spotify.com/artist/4KtaHyqLFlKKb7aghnWBfE) | [Commander Cody & His Lost Planet Airmen](https://open.spotify.com/album/5M8Zfk4Gsf31MoGk3JXubL) | 3:38 |
 | 42 | [White Line Fever](https://open.spotify.com/track/5z3kHR2Gh892XGcYuln1Gf) | [The Flying Burrito Brothers](https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM) | [The Flying Burrito Brothers](https://open.spotify.com/album/6lx6e9GACcsSRjoipxeWh1) | 3:16 |
-| 43 | [Down Along The Cove](https://open.spotify.com/track/2jigzHqXdUlpAlmSeaVSeU) | [Johnny Jenkins](https://open.spotify.com/artist/3ghDyCR4DJVjwfcjNHUD27) | [Ton\-Ton Macoute!](https://open.spotify.com/album/5PCm5Bvheyg4QeuF5lfkum) | 3:25 |
-| 44 | [Miller's Cave](https://open.spotify.com/track/2Zq979VWE5SG5WIcd396Ay) | [The International Submarine Band](https://open.spotify.com/artist/6i8kpDUSsrOOhPHfNYhMeF) | [Safe at Home](https://open.spotify.com/album/3FNy8Kp7h2WoUngSfCNpMM) | 2:49 |
+| 43 | [Miller's Cave](https://open.spotify.com/track/2Zq979VWE5SG5WIcd396Ay) | [The International Submarine Band](https://open.spotify.com/artist/6i8kpDUSsrOOhPHfNYhMeF) | [Safe at Home](https://open.spotify.com/album/3FNy8Kp7h2WoUngSfCNpMM) | 2:49 |
+| 44 | [Down Along The Cove](https://open.spotify.com/track/2jigzHqXdUlpAlmSeaVSeU) | [Johnny Jenkins](https://open.spotify.com/artist/3ghDyCR4DJVjwfcjNHUD27) | [Ton\-Ton Macoute!](https://open.spotify.com/album/5PCm5Bvheyg4QeuF5lfkum) | 3:25 |
 | 45 | [Love Reunited](https://open.spotify.com/track/59kLqy6RhRKWFWFgdFSB63) | [The Desert Rose Band](https://open.spotify.com/artist/19FK6WGl1TLyFNsXXqTz8u) | [The Desert Rose Band](https://open.spotify.com/album/4Web53QnajhmXAA6PXK5ih) | 2:57 |
 | 46 | [Make A Little Magic \- 2001 Remaster](https://open.spotify.com/track/6bYroZcslsd84iw56ft2a6) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW), [Nicolette Larson](https://open.spotify.com/artist/0NCXrh1XOnHNp4mM0JUFJw) | [Best Of](https://open.spotify.com/album/53g97Xwkme1StWj2GC3BkG) | 3:55 |
 | 47 | [Listen to a Country Song](https://open.spotify.com/track/5YEgs7DjcGk9pYP6l0u85h) | [Loggins & Messina](https://open.spotify.com/artist/7emRV8AluG3d4e5T0DZiK9) | [Sittin' In](https://open.spotify.com/album/1EtuN2j0AKVwsiqrddMtco) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bf0P6HTTom.md) - [plain]
 | 49 | [It's Not Supposed to Be That Way](https://open.spotify.com/track/4jNBYAK1mPmgM66wZEx6rr) | [Steve Young](https://open.spotify.com/artist/4JzwsGHb8ZN03C7JauWsWH) | [Renegade Picker](https://open.spotify.com/album/6ri0hV7jR1ETLP5zRH4RGk) | 3:41 |
 | 50 | [Ten More Miles to Louisiana](https://open.spotify.com/track/1E252QgKGNYBXfwaiXZtZy) | [Tony Joe White](https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P) | [Black & White](https://open.spotify.com/album/71upkCAZBdlRRxoSbG8wvQ) | 2:24 |
 
-Snapshot ID: `MTY1NzA0ODI5NCwwMDAwMDAwMDBiYzhmNzc1OTUwNGJlYjQ4OGFiMWQ1OTcwOGE0ZWI1`
+Snapshot ID: `MTY1NzA0ODI5NCwwMDAwMDAwMGI3ZTc5ZTM5NzRiNWM3NzFjMzQwMzU0YmQxNzM1MGU0`

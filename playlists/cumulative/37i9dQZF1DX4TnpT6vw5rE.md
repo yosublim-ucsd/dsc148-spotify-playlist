@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-235 songs - 14 hr 10 min
+236 songs - 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [All in Here](https://open.spotify.com/track/7I8OdKB4wCiUVXaLuHuyHv) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Seven Seas](https://open.spotify.com/album/3ZEtGYcGgMyW9pUKlhkbsh) | 5:20 | 2020-12-08\* | 2022-05-20 |
 | [Ancestral Twilight](https://open.spotify.com/track/6jNXaXr3gZejkWlsjVBERQ) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Thai Sunrise](https://open.spotify.com/album/24Wo6aRCb7BSdNQ2cZfB12) | 3:16 | 2021-10-28 |  |
 | [Andromeda](https://open.spotify.com/track/3ILiff34ZwEKw1mrVG4D6D) | [Azulina](https://open.spotify.com/artist/0O6nRPrw4sAbf4bgukqNNa) | [Nebuleuses](https://open.spotify.com/album/2pZfWVip25OGJeQAx5CBT2) | 2:37 | 2020-12-08\* | 2021-03-18 |
+| [Andromeda](https://open.spotify.com/track/57lzy4rzWaqaFfTMw8y0cJ) | [Lonely Roads](https://open.spotify.com/artist/4nQMRc0j45XcB0g0SioPw5) | [Electric Pulses](https://open.spotify.com/album/74SSquwi9PTn3HJ52LkHKM) | 3:16 | 2023-04-17 |  |
 | [Angelus](https://open.spotify.com/track/1oYc7762RLlwGXpVtUh3Bf) | [Yaalani](https://open.spotify.com/artist/64qscQGDXCB9o3nSgoRlBJ) | [Angelus](https://open.spotify.com/album/2x9SoHtnhVlqSs8MwnkUBP) | 2:22 | 2022-10-14 |  |
 | [Another Day \(revised\)](https://open.spotify.com/track/114gL99tniO1ocR4gyukNX) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [In a Safe Place](https://open.spotify.com/album/0cN366vmPQoH0cepgK7CUZ) | 4:21 | 2020-12-08\* | 2022-07-29 |
 | [Another Day \(revised\)](https://open.spotify.com/track/6Xr3Ii4HyMcatwsQgq1iOD) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [In a Safe Place](https://open.spotify.com/album/1sZjWlyc9yL13U5q1nTQ8a) | 4:21 | 2022-07-22 |  |
@@ -162,7 +163,7 @@
 | [Ocelot](https://open.spotify.com/track/7EMDetZnX07SnEvcXR8yEQ) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Seven Seas](https://open.spotify.com/album/3ZEtGYcGgMyW9pUKlhkbsh) | 4:36 | 2021-01-15 | 2022-07-29 |
 | [On the Horizon](https://open.spotify.com/track/6LhMfiUFiANHVS6CCsdv9j) | [Mike Beating](https://open.spotify.com/artist/3EuxGwWNxr2SRmosxJZEB3) | [On the Horizon](https://open.spotify.com/album/0pysKRX6glumaLQ8glH5L2) | 1:48 | 2023-02-24 |  |
 | [Outlaw](https://open.spotify.com/track/7d8UsuThQiOn5WZ5pdv0Ti) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Dusk to Dawn](https://open.spotify.com/album/5UBtUeQ9d4Vgf5qCZVw5fm) | 3:38 | 2021-01-16 |  |
-| [Overland Kitted](https://open.spotify.com/track/3ulyr4lWLR9rlSqy64dmil) | [D/S/T/N/C/E](https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT) | [Terra Firma](https://open.spotify.com/album/1p33sMa7scJrXZSetrhEb0) | 2:29 | 2023-03-24 |  |
+| [Overland Kitted](https://open.spotify.com/track/3ulyr4lWLR9rlSqy64dmil) | [D/S/T/N/C/E](https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT) | [Terra Firma](https://open.spotify.com/album/1p33sMa7scJrXZSetrhEb0) | 2:29 | 2023-03-24 | 2023-04-17 |
 | [Pan Serenade](https://open.spotify.com/track/26hAV8CJvMK58Gdvve3vyx) | [X\-Genie](https://open.spotify.com/artist/7jpxxOSOJX0PCvKXAbQs2I) | [Pan Serenade](https://open.spotify.com/album/2YNQuawkFrWf9Fittz8cIq) | 3:34 | 2020-12-08\* |  |
 | [Parameters](https://open.spotify.com/track/2bCW53cveSKclOEnzlbJyC) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Between Waves](https://open.spotify.com/album/0TeJOSgDHYKwwj3K1zxblP) | 5:15 | 2020-12-08\* | 2021-07-06 |
 | [Part 3](https://open.spotify.com/track/5EGW7u5Apfyu8CJZIkiops) | [Rhian Sheehan](https://open.spotify.com/artist/0H1edn1doFZiHiu2INB2CT) | [Standing in Silence](https://open.spotify.com/album/0vfiJSS4yr9dlKgl3uLING) | 5:13 | 2021-02-22 | 2022-07-29 |

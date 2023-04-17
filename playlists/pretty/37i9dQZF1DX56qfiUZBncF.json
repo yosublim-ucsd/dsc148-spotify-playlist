@@ -1,13 +1,29 @@
 {
   "description": "Let these innovative tracks spark your creativity and inspiration.",
-  "num_followers": 378080,
+  "num_followers": 378089,
   "original_name": "Creativity Boost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzQ3MDg3NSwwMDAwMDAwMGQ3OTYyYmRmMjRiODkyNDM4OWUzZTcwZGNhM2QxY2Y5",
+  "snapshot_id": "MTY3MzQ3MDg3NSwwMDAwMDAwMDNiNmY0NTdhOTQ4OWQ0ZDQzMjFjOGFjMDQzNTYwNzBm",
   "tracks": [
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
+    },
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 218586,
       "name": "Ghost in the Machine (feat. Phoebe Bridgers)",
       "url": "https://open.spotify.com/track/4h5x3XHLVYFJaItKuO2rhy"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -167,22 +167,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Can You Afford To Lose Me?",
-        "url": "https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 196226,
-      "name": "Scarlett",
-      "url": "https://open.spotify.com/track/5UqTWnG7YZAbj1SYMvnGsU"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "No Ordinary",
         "url": "https://open.spotify.com/album/67TMvbWsbRX8mhZVxJJoYu"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 184795,
       "name": "No Ordinary",
       "url": "https://open.spotify.com/track/5GSKLdbgKfoOmZxgwUKBEp"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Can You Afford To Lose Me?",
+        "url": "https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 196226,
+      "name": "Scarlett",
+      "url": "https://open.spotify.com/track/5UqTWnG7YZAbj1SYMvnGsU"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -363,6 +363,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "concrete",
+        "url": "https://open.spotify.com/album/4otlYN4uGurlL16mvgeIHT"
+      },
+      "artists": [
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "concrete",
+      "url": "https://open.spotify.com/track/0fdaw54L9HswP2QVYJjnx6"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "On the Lookout",
         "url": "https://open.spotify.com/album/5jI9z9PnaAzLU7Vj55dw7E"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 229560,
       "name": "On the Lookout",
       "url": "https://open.spotify.com/track/4MDgmDaVN9UPyZ41Cxb3NV"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "concrete",
-        "url": "https://open.spotify.com/album/4otlYN4uGurlL16mvgeIHT"
-      },
-      "artists": [
-        {
-          "name": "Orion Sun",
-          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "concrete",
-      "url": "https://open.spotify.com/track/0fdaw54L9HswP2QVYJjnx6"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "The Baby",
-        "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 195773,
-      "name": "Big Wheel",
-      "url": "https://open.spotify.com/track/6GUQaa74JUSziJ9TT29Ghg"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "The Gods We Can Touch",
         "url": "https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 181333,
       "name": "Giving In To The Love",
       "url": "https://open.spotify.com/track/1YKRI4Uqw9HNEqMoQvhQom"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "The Baby",
+        "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 195773,
+      "name": "Big Wheel",
+      "url": "https://open.spotify.com/track/6GUQaa74JUSziJ9TT29Ghg"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -791,26 +791,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Two Steps",
-        "url": "https://open.spotify.com/album/2a9OfXHzWrnWmYoXN3QPYM"
-      },
-      "artists": [
-        {
-          "name": "Maths Time Joy",
-          "url": "https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK"
-        },
-        {
-          "name": "Kevin Garrett",
-          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Two Steps",
-      "url": "https://open.spotify.com/track/4ACWPAiIYOtETNu9QsFEaP"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Wild Girl",
         "url": "https://open.spotify.com/album/5gjaKIotnXLPTsb9lvp5vT"
       },
@@ -847,18 +827,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "God Save The Animals",
-        "url": "https://open.spotify.com/album/6TzgWk5HZItbFmMT7hH4bU"
+        "name": "Two Steps",
+        "url": "https://open.spotify.com/album/2a9OfXHzWrnWmYoXN3QPYM"
       },
       "artists": [
         {
-          "name": "Alex G",
-          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+          "name": "Maths Time Joy",
+          "url": "https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK"
+        },
+        {
+          "name": "Kevin Garrett",
+          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
         }
       ],
-      "duration_ms": 224253,
-      "name": "Miracles",
-      "url": "https://open.spotify.com/track/5PZuWw56Wwc9W6nEi3ZcWO"
+      "duration_ms": 242000,
+      "name": "Two Steps",
+      "url": "https://open.spotify.com/track/4ACWPAiIYOtETNu9QsFEaP"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -879,6 +863,22 @@
       "duration_ms": 263466,
       "name": "Letting In",
       "url": "https://open.spotify.com/track/1WoJEWUPjhCTwfbOeUjoCI"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "God Save The Animals",
+        "url": "https://open.spotify.com/album/6TzgWk5HZItbFmMT7hH4bU"
+      },
+      "artists": [
+        {
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        }
+      ],
+      "duration_ms": 224253,
+      "name": "Miracles",
+      "url": "https://open.spotify.com/track/5PZuWw56Wwc9W6nEi3ZcWO"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "First Contact",
-        "url": "https://open.spotify.com/album/4dCgqMWPJuBmL0BHiXwIEf"
-      },
-      "artists": [
-        {
-          "name": "Lastlings",
-          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
-        }
-      ],
-      "duration_ms": 236173,
-      "name": "No Time",
-      "url": "https://open.spotify.com/track/1FG2lH6gxJCX94kOg2Sozp"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "are we?",
         "url": "https://open.spotify.com/album/4tl1xL2MeyURq8Vk3enaze"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 185885,
       "name": "superpowerful (with Crooked Colours)",
       "url": "https://open.spotify.com/track/3KgfNzfM4LfxP2v2miNIvh"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "First Contact",
+        "url": "https://open.spotify.com/album/4dCgqMWPJuBmL0BHiXwIEf"
+      },
+      "artists": [
+        {
+          "name": "Lastlings",
+          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
+        }
+      ],
+      "duration_ms": 236173,
+      "name": "No Time",
+      "url": "https://open.spotify.com/track/1FG2lH6gxJCX94kOg2Sozp"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Iridescent",
-        "url": "https://open.spotify.com/album/7kHDeoEZxg9OfOMr13b2IU"
-      },
-      "artists": [
-        {
-          "name": "Ayoni",
-          "url": "https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6"
-        }
-      ],
-      "duration_ms": 202906,
-      "name": "Santa Monica",
-      "url": "https://open.spotify.com/track/2oEyCPWce5scvt5k5eBL1M"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Old T-Shirt (feat. koby)",
         "url": "https://open.spotify.com/album/41v6png8j9Y3dcnnShRtlb"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 219483,
       "name": "Old T-Shirt (feat. koby)",
       "url": "https://open.spotify.com/track/2eY9AF1LTqa1rR4MogBEu7"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Iridescent",
+        "url": "https://open.spotify.com/album/7kHDeoEZxg9OfOMr13b2IU"
+      },
+      "artists": [
+        {
+          "name": "Ayoni",
+          "url": "https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6"
+        }
+      ],
+      "duration_ms": 202906,
+      "name": "Santa Monica",
+      "url": "https://open.spotify.com/track/2oEyCPWce5scvt5k5eBL1M"
     },
     {
       "added_at": "2023-01-11 21:01:15",

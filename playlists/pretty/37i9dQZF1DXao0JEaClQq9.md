@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 
 > eclectic ethereal feeling\. cover: Ethel Cain
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,603,761 likes - 75 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,603,949 likes - 75 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 | 41 | [Talk 2 Me](https://open.spotify.com/track/6pPLhloHxLWiMlAT5Xn1gw) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:19 |
 | 42 | [Playground Love](https://open.spotify.com/track/052z2UsE2wPrHsBJ9tly0g) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ), [Gordon Tracks](https://open.spotify.com/artist/4DWl8U58uYeeTtlvbrLEY6) | [The Virgin Suicides \(Original Motion Picture Score\)](https://open.spotify.com/album/2E1q8eohZZ1BUQ7Bq5WUIY) | 3:31 |
 | 43 | [Spitting Off the Edge of the World](https://open.spotify.com/track/0JX23XA8E7aN1Chj32kgVn) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:17 |
-| 44 | [Paradise Circus](https://open.spotify.com/track/2BndJYJQ17UcEeUFJP5JmY) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Heligoland](https://open.spotify.com/album/1F8y2bg9V9nRoy8zuxo3Jt) | 4:57 |
-| 45 | [A New Kind Of Love \- Demo](https://open.spotify.com/track/3fuyYaLhZ2RoP9eWpvfP1H) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz), [Guy Sigsworth](https://open.spotify.com/artist/0uQWT7X0I9Y7zM7WWexpAj) | [A New Kind Of Love \(Demo\)](https://open.spotify.com/album/484SKRaXGq7m9VV0rmSyeb) | 4:19 |
+| 44 | [A New Kind Of Love \- Demo](https://open.spotify.com/track/3fuyYaLhZ2RoP9eWpvfP1H) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz), [Guy Sigsworth](https://open.spotify.com/artist/0uQWT7X0I9Y7zM7WWexpAj) | [A New Kind Of Love \(Demo\)](https://open.spotify.com/album/484SKRaXGq7m9VV0rmSyeb) | 4:19 |
+| 45 | [Paradise Circus](https://open.spotify.com/track/2BndJYJQ17UcEeUFJP5JmY) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Heligoland](https://open.spotify.com/album/1F8y2bg9V9nRoy8zuxo3Jt) | 4:57 |
 | 46 | [I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Instrumental Relics](https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq) | 4:37 |
 | 47 | [Lo Vas A Olvidar \(with ROSALÍA\)](https://open.spotify.com/track/0psS4i5YooJrXfDnGvWRLi) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Lo Vas A Olvidar \(with ROSALÍA\)](https://open.spotify.com/album/4E8puNI8tw7cXz6YJkwMew) | 3:23 |
 | 48 | [Angels](https://open.spotify.com/track/3zsRP8rH1kaIAo9fmiP4El) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist](https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW) | 2:51 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 | 74 | [I'm Not Like Alice](https://open.spotify.com/track/1AeBPeEi4QbvDLPx3iosv5) | [SkyeChristy](https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND) | [I'm Not Like Alice](https://open.spotify.com/album/26U9UPoJU8Dcng6KqKKjmL) | 2:16 |
 | 75 | [FORWARD](https://open.spotify.com/track/0lFotZWVqwgQOh779DKet5) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [LEILAH](https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e) | [FORWARD](https://open.spotify.com/album/7DtNIDD8b1fN9YO8abZgtT) | 2:16 |
 
-Snapshot ID: `MTY4MTQ0NTc2OSwwMDAwMDAwMDIxMjNiZWZmYzM4MTljMmU5ZDBhYjlhMGM3OWMxZjIz`
+Snapshot ID: `MTY4MTQ0NTc2OSwwMDAwMDAwMGUyMGVlYzM2NDljYTE2YzI5Yjc3MGYyY2E0YWMxNDZk`

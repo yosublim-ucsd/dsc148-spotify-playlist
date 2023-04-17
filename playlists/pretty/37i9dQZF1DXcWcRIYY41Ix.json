@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Lucas Hill.",
-  "num_followers": 107879,
+  "num_followers": 107946,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ1MjAwMCwwMDAwMDAwMGVmYWViMjJlZTcwNGUyMWI4YjI4NGNlY2Y1NjIxMzg3",
+  "snapshot_id": "MTY4MTQ1MjAwMCwwMDAwMDAwMDY2Y2IwY2MyMmIwMzZjODE2ZjYyYWJjMzA5NzkyYWFm",
   "tracks": [
     {
       "added_at": "2023-04-14 06:00:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Despu\u00e9s de Todo: Compilado Latinoamericano",
-        "url": "https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Cristina Plata",
-          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
-        }
-      ],
-      "duration_ms": 158560,
-      "name": "L\u00e1stima",
-      "url": "https://open.spotify.com/track/5jaEobaW0naP6FP2GnQuY5"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "Sof\u00e1",
         "url": "https://open.spotify.com/album/3qMq7yv06IdD14Q4MkxJD4"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 100253,
       "name": "Ponme",
       "url": "https://open.spotify.com/track/6lSqiqPaYyPcEBShRsOLRX"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Despu\u00e9s de Todo: Compilado Latinoamericano",
+        "url": "https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Cristina Plata",
+          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
+        }
+      ],
+      "duration_ms": 158560,
+      "name": "L\u00e1stima",
+      "url": "https://open.spotify.com/track/5jaEobaW0naP6FP2GnQuY5"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -979,26 +979,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "A 200 mil",
-        "url": "https://open.spotify.com/album/0KyqC56ow4ieuE5iH7iNmN"
-      },
-      "artists": [
-        {
-          "name": "Cheti",
-          "url": "https://open.spotify.com/artist/14MWie92G8fspcINNwL7n7"
-        },
-        {
-          "name": "Javypablo",
-          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
-        }
-      ],
-      "duration_ms": 172094,
-      "name": "A 200 mil",
-      "url": "https://open.spotify.com/track/4xlYwJBHbhw46i3VFsLW1n"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "Algo Ritmos",
         "url": "https://open.spotify.com/album/7t08JufrTZPsZnyI8p47nc"
       },
@@ -1015,18 +995,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Inmensamente Fr\u00e1gil",
-        "url": "https://open.spotify.com/album/1kdyYN2uapW4W1RFVcSPCa"
+        "name": "A 200 mil",
+        "url": "https://open.spotify.com/album/0KyqC56ow4ieuE5iH7iNmN"
       },
       "artists": [
         {
-          "name": "Ronroneo",
-          "url": "https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK"
+          "name": "Cheti",
+          "url": "https://open.spotify.com/artist/14MWie92G8fspcINNwL7n7"
+        },
+        {
+          "name": "Javypablo",
+          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
         }
       ],
-      "duration_ms": 219967,
-      "name": "Inmensamente Fr\u00e1gil",
-      "url": "https://open.spotify.com/track/7dbLDpFeg0Gydsf3UrxSdI"
+      "duration_ms": 172094,
+      "name": "A 200 mil",
+      "url": "https://open.spotify.com/track/4xlYwJBHbhw46i3VFsLW1n"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1059,6 +1043,22 @@
       "duration_ms": 196984,
       "name": "Temes",
       "url": "https://open.spotify.com/track/4y7MogcFeMrp4QXPVHloyB"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Inmensamente Fr\u00e1gil",
+        "url": "https://open.spotify.com/album/1kdyYN2uapW4W1RFVcSPCa"
+      },
+      "artists": [
+        {
+          "name": "Ronroneo",
+          "url": "https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK"
+        }
+      ],
+      "duration_ms": 219967,
+      "name": "Inmensamente Fr\u00e1gil",
+      "url": "https://open.spotify.com/track/7dbLDpFeg0Gydsf3UrxSdI"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Versiones Desnudas",
-        "url": "https://open.spotify.com/album/0bKZ3UvO9QLSRcXUuaPgm5"
-      },
-      "artists": [
-        {
-          "name": "RIOLA",
-          "url": "https://open.spotify.com/artist/3Ri2BjKwyDM96dsOzYL5r9"
-        },
-        {
-          "name": "Borja Pic\u00f3",
-          "url": "https://open.spotify.com/artist/316btsfZWyV51FpNdg8LTZ"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Dame M\u00e1s (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/6fv2hZpznPsKawSRbo9osn"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "El Perro Feroz",
         "url": "https://open.spotify.com/album/1TTtA3l551GKHOZ2sROty0"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 140928,
       "name": "Diente de Le\u00f3n",
       "url": "https://open.spotify.com/track/2Ha5vGs7uWxVhHx3O8xdNe"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Versiones Desnudas",
+        "url": "https://open.spotify.com/album/0bKZ3UvO9QLSRcXUuaPgm5"
+      },
+      "artists": [
+        {
+          "name": "RIOLA",
+          "url": "https://open.spotify.com/artist/3Ri2BjKwyDM96dsOzYL5r9"
+        },
+        {
+          "name": "Borja Pic\u00f3",
+          "url": "https://open.spotify.com/artist/316btsfZWyV51FpNdg8LTZ"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Dame M\u00e1s (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/6fv2hZpznPsKawSRbo9osn"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Nada Importa",
-        "url": "https://open.spotify.com/album/7lFMgjDMyD4poD8JKfzI1b"
-      },
-      "artists": [
-        {
-          "name": "Lina de Sol",
-          "url": "https://open.spotify.com/artist/77dt3BFeJYkWqdRgJcFIJK"
-        }
-      ],
-      "duration_ms": 196331,
-      "name": "Nada Importa",
-      "url": "https://open.spotify.com/track/29FRWNC4lPdoyltN1mQ9oF"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "Milonga de Ojos Dorados (Alfredo Zitarrosa) [Live on Pardelion Music]",
         "url": "https://open.spotify.com/album/3ArBdhbnE1kVG9BpqUA6af"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 161342,
       "name": "Milonga de Ojos Dorados (Alfredo Zitarrosa) - Live on Pardelion Music",
       "url": "https://open.spotify.com/track/0fAmpdONIYsxiP27CwnzLJ"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Nada Importa",
+        "url": "https://open.spotify.com/album/7lFMgjDMyD4poD8JKfzI1b"
+      },
+      "artists": [
+        {
+          "name": "Lina de Sol",
+          "url": "https://open.spotify.com/artist/77dt3BFeJYkWqdRgJcFIJK"
+        }
+      ],
+      "duration_ms": 196331,
+      "name": "Nada Importa",
+      "url": "https://open.spotify.com/track/29FRWNC4lPdoyltN1mQ9oF"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
+        "name": "Como el Mar",
+        "url": "https://open.spotify.com/album/1gFlYmZaY1CHMGjoD06AJY"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Cristina Plata",
+          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
+        }
+      ],
+      "duration_ms": 195744,
+      "name": "Corazoncito M\u00edo",
+      "url": "https://open.spotify.com/track/5FvSpXevbWSTjeGMoYxlDi"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
         "name": "Herminia",
         "url": "https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5"
       },
@@ -1487,18 +1503,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Como el Mar",
-        "url": "https://open.spotify.com/album/1gFlYmZaY1CHMGjoD06AJY"
+        "name": "Lo Primero",
+        "url": "https://open.spotify.com/album/0uiItrX0S62V8IN88h0p3Q"
       },
       "artists": [
         {
-          "name": "Mar\u00eda Cristina Plata",
-          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
+          "name": "Rosario Alfonso",
+          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
+        },
+        {
+          "name": "Ni\u00f1a Tormenta",
+          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
         }
       ],
-      "duration_ms": 195744,
-      "name": "Corazoncito M\u00edo",
-      "url": "https://open.spotify.com/track/5FvSpXevbWSTjeGMoYxlDi"
+      "duration_ms": 180778,
+      "name": "Un D\u00eda Lo Encontr\u00e9",
+      "url": "https://open.spotify.com/track/6IPCxRPVXSXdfrubRNertw"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1519,26 +1539,6 @@
       "duration_ms": 218028,
       "name": "La Despedida (feat. Valeria Castro)",
       "url": "https://open.spotify.com/track/2THnHHYUmXLKgI3AzLV053"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Lo Primero",
-        "url": "https://open.spotify.com/album/0uiItrX0S62V8IN88h0p3Q"
-      },
-      "artists": [
-        {
-          "name": "Rosario Alfonso",
-          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
-        },
-        {
-          "name": "Ni\u00f1a Tormenta",
-          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
-        }
-      ],
-      "duration_ms": 180778,
-      "name": "Un D\u00eda Lo Encontr\u00e9",
-      "url": "https://open.spotify.com/track/6IPCxRPVXSXdfrubRNertw"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
+        "name": "Despu\u00e9s de Todo: Compilado Latinoamericano",
+        "url": "https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Cristina Plata",
+          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
+        }
+      ],
+      "duration_ms": 183152,
+      "name": "Cuando los A\u00f1os Pasen",
+      "url": "https://open.spotify.com/track/6u1FdgL0eDeYOVrBxkvXF8"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
         "name": "Mundo Nuevo",
         "url": "https://open.spotify.com/album/6OmDRn61cZSaDwEgTkSlgG"
       },
@@ -1615,22 +1631,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Laura Itandehui",
-        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
-      },
-      "artists": [
-        {
-          "name": "Laura Itandehui",
-          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
-        }
-      ],
-      "duration_ms": 290250,
-      "name": "Tratar\u00e9",
-      "url": "https://open.spotify.com/track/5YFTXVQrrwNjykm9xMKdJK"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "Kumbayeo (Lado A)",
         "url": "https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid"
       },
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Despu\u00e9s de Todo: Compilado Latinoamericano",
-        "url": "https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX"
+        "name": "Laura Itandehui",
+        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
       },
       "artists": [
         {
-          "name": "Mar\u00eda Cristina Plata",
-          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
+          "name": "Laura Itandehui",
+          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
         }
       ],
-      "duration_ms": 183152,
-      "name": "Cuando los A\u00f1os Pasen",
-      "url": "https://open.spotify.com/track/6u1FdgL0eDeYOVrBxkvXF8"
+      "duration_ms": 290250,
+      "name": "Tratar\u00e9",
+      "url": "https://open.spotify.com/track/5YFTXVQrrwNjykm9xMKdJK"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1723,6 +1723,26 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
+        "name": "Libre y en Movimiento",
+        "url": "https://open.spotify.com/album/7xlWizan3Ft3hemqXUTvU0"
+      },
+      "artists": [
+        {
+          "name": "Marina Tuset",
+          "url": "https://open.spotify.com/artist/7wtyZ2WgTY9leTsIPH0VLc"
+        },
+        {
+          "name": "Vicente Garcia",
+          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+        }
+      ],
+      "duration_ms": 183749,
+      "name": "Libre y en Movimiento",
+      "url": "https://open.spotify.com/track/36wsAx4PhbhVOCay8RLADO"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
         "name": "La Santa Patrona de los Corazones Negros",
         "url": "https://open.spotify.com/album/2ajge8g0wBGDtctb0y59IR"
       },
@@ -1771,26 +1791,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "D\u00eda de lluvia en Madrid",
-        "url": "https://open.spotify.com/album/450jlpZf9Hg5o0w3EpqVqC"
-      },
-      "artists": [
-        {
-          "name": "Nacho Rodriguez",
-          "url": "https://open.spotify.com/artist/3fgNTqoWRiML6iMv4asqn9"
-        },
-        {
-          "name": "Pedro Pastor",
-          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
-        }
-      ],
-      "duration_ms": 194165,
-      "name": "D\u00eda de lluvia en Madrid",
-      "url": "https://open.spotify.com/track/39x812j8vdxBQFl0ouhglx"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "TANDA",
         "url": "https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq"
       },
@@ -1807,22 +1807,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Me Voy a Valpara\u00edso",
-        "url": "https://open.spotify.com/album/04OvajTAEAzKGll9ccHS7c"
+        "name": "D\u00eda de lluvia en Madrid",
+        "url": "https://open.spotify.com/album/450jlpZf9Hg5o0w3EpqVqC"
       },
       "artists": [
         {
-          "name": "Diego Lorenzini",
-          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+          "name": "Nacho Rodriguez",
+          "url": "https://open.spotify.com/artist/3fgNTqoWRiML6iMv4asqn9"
         },
         {
-          "name": "Erlend \u00d8ye",
-          "url": "https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs"
+          "name": "Pedro Pastor",
+          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
         }
       ],
-      "duration_ms": 240576,
-      "name": "Me Voy a Valpara\u00edso",
-      "url": "https://open.spotify.com/track/2jc4itS66QfIHkUJGGX5gR"
+      "duration_ms": 194165,
+      "name": "D\u00eda de lluvia en Madrid",
+      "url": "https://open.spotify.com/track/39x812j8vdxBQFl0ouhglx"
     }
   ],
   "unique_name": "Cancionistas",

@@ -1,12 +1,12 @@
 {
   "description": "2012 highlights from the home of indie music.",
-  "num_followers": 64644,
+  "num_followers": 64756,
   "original_name": "Best of Indie 2012",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTAzMjcwMCwwMDAwMDAwMDIyZDNlODdiZmE5MDU4MmYyN2M3MDlkZjU5NTIyYzQw",
+  "snapshot_id": "MTY2NTAzMjcwMCwwMDAwMDAwMDJmNTEzNDI2NDc5NTNmNmNiODI3Y2IxYzBmMTJmNzI0",
   "tracks": [
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Oshin",
-        "url": "https://open.spotify.com/album/1OgEi1Ss26Aq9S5sK848fh"
-      },
-      "artists": [
-        {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
-        }
-      ],
-      "duration_ms": 222973,
-      "name": "Doused",
-      "url": "https://open.spotify.com/track/30uvCVEYqgktyLfDcI76Hx"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "Jake Bugg",
         "url": "https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 199453,
       "name": "Simple As This",
       "url": "https://open.spotify.com/track/59xYAblNy1Xr4U1IsJ3gZb"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Oshin",
+        "url": "https://open.spotify.com/album/1OgEi1Ss26Aq9S5sK848fh"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "duration_ms": 222973,
+      "name": "Doused",
+      "url": "https://open.spotify.com/track/30uvCVEYqgktyLfDcI76Hx"
     },
     {
       "added_at": "2022-05-19 08:11:23",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-05-19 08:11:23",
       "album": {
-        "name": "Boys & Girls (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 179653,
-      "name": "I Found You",
-      "url": "https://open.spotify.com/track/2v1L7Mf7mhgBzpAEcGSdfL"
-    },
-    {
-      "added_at": "2022-05-19 08:11:23",
-      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 301866,
       "name": "Lazuli",
       "url": "https://open.spotify.com/track/6HdMeOwJXD3oY1Thn1bsCY"
+    },
+    {
+      "added_at": "2022-05-19 08:11:23",
+      "album": {
+        "name": "Boys & Girls (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 179653,
+      "name": "I Found You",
+      "url": "https://open.spotify.com/track/2v1L7Mf7mhgBzpAEcGSdfL"
     },
     {
       "added_at": "2022-05-19 08:11:23",

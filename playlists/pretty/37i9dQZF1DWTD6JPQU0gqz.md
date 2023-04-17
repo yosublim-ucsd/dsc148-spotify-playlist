@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6JPQU0gqz.md) - [plain]
 
 > Celebrando a los músicos Afro\-Latinos\. Cover: Tego Calderon
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,553 likes - 80 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,580 likes - 80 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,16 +18,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6JPQU0gqz.md) - [plain]
 | 8 | [Sal y Perrea](https://open.spotify.com/track/5u7twkeask1VIyDeNTElSU) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [42](https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ) | 3:36 |
 | 9 | [La Modelo](https://open.spotify.com/track/2SbzdGpOKlH3HIAGTWTbwU) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 4:15 |
 | 10 | [TU ME QUIERES?](https://open.spotify.com/track/205hq07Rui1lJDgqrqyEaA) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [TU ME QUIERES?](https://open.spotify.com/album/5RrxX9kf55iAmhh8x1CjmB) | 2:45 |
-| 11 | [Los Angeles](https://open.spotify.com/track/4UZCqJJ0m4BpA9HCLgws5o) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Sweet & Sour](https://open.spotify.com/album/006vB71xTBRqzQREjfYREf) | 2:43 |
-| 12 | [Dominicana](https://open.spotify.com/track/45IOnEpVUdxWUZFqpZ7Xvz) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [El Abayarde](https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY) | 4:12 |
+| 11 | [Dominicana](https://open.spotify.com/track/45IOnEpVUdxWUZFqpZ7Xvz) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [El Abayarde](https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY) | 4:12 |
+| 12 | [Los Angeles](https://open.spotify.com/track/4UZCqJJ0m4BpA9HCLgws5o) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Sweet & Sour](https://open.spotify.com/album/006vB71xTBRqzQREjfYREf) | 2:43 |
 | 13 | [Pretty Wings \- uncut](https://open.spotify.com/track/22NLm3IIR9NLG0cUYtmHMW) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [BLACKsummers'night \(2009\)](https://open.spotify.com/album/1cXFSOdjxmS13cOTtnNQAo) | 5:10 |
 | 14 | [Soy Yo](https://open.spotify.com/track/20Ca0pIyUwu9jIUJ2sr5cg) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Soy Yo](https://open.spotify.com/album/7JuLd58gOTogWvAwNyYggp) | 3:38 |
 | 15 | [KI\-KI](https://open.spotify.com/track/3Yu5XohK3sDfSg5os4ARFm) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [KI\-KI](https://open.spotify.com/album/5UcTxoImmX1zOTnk0AvKD1) | 2:21 |
 | 16 | [Tu Pun Pun](https://open.spotify.com/track/5MIWYWguyDnxBlCQT9V4Kt) | [El General](https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK) | [Estas Buena](https://open.spotify.com/album/0Qq0V5ltYmOukWBisFoZDI) | 3:32 |
-| 17 | [Abayarde](https://open.spotify.com/track/4AUMwz00G4hFZxY26MyoWV) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [El Abayarde](https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY) | 3:22 |
-| 18 | [Luces](https://open.spotify.com/track/0MYtnIKlYPYzVZfi1vSPFd) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [Luces](https://open.spotify.com/album/7rnxldpaYk6eyIZQcriFrW) | 3:45 |
+| 17 | [Luces](https://open.spotify.com/track/0MYtnIKlYPYzVZfi1vSPFd) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [Luces](https://open.spotify.com/album/7rnxldpaYk6eyIZQcriFrW) | 3:45 |
+| 18 | [Morena](https://open.spotify.com/track/4oZaZ7tGQ8EXVlsd2wXWQ0) | [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z), [Lil Silvio & El Vega](https://open.spotify.com/artist/53F3cdrVpYq5iM4iaa6AQ3), [La Ross Maria](https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8) | [Morena](https://open.spotify.com/album/2tyL1zXbNKyMCCYYgwa3UP) | 4:02 |
 | 19 | [Apretaito](https://open.spotify.com/track/0cW5cXANjlv8hgLAQwdvgE) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Apretaito](https://open.spotify.com/album/0aMqp2gRJQjhVZmHkuTtfL) | 3:19 |
-| 20 | [Morena](https://open.spotify.com/track/4oZaZ7tGQ8EXVlsd2wXWQ0) | [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z), [Lil Silvio & El Vega](https://open.spotify.com/artist/53F3cdrVpYq5iM4iaa6AQ3), [La Ross Maria](https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8) | [Morena](https://open.spotify.com/album/2tyL1zXbNKyMCCYYgwa3UP) | 4:02 |
+| 20 | [Abayarde](https://open.spotify.com/track/4AUMwz00G4hFZxY26MyoWV) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [El Abayarde](https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY) | 3:22 |
 | 21 | [Guajira \(I Love U 2 Much\)](https://open.spotify.com/track/6LuKwOlk7P0ZpR9L6c9b4y) | [Yerba Buena](https://open.spotify.com/artist/024R83OqqR3AgPjYc3QtyT) | [President Alien](https://open.spotify.com/album/1kF981Cq9HULhdiAxKH5FH) | 4:09 |
 | 22 | [Mi niña Lola](https://open.spotify.com/track/7uDjOQtIiy7wk2UQdHj97u) | [Buika](https://open.spotify.com/artist/1gbXoccc8bjK8eUh92mILy) | [Mi niña Lola](https://open.spotify.com/album/6idfhWkHdRSUcqSjKF87Tk) | 4:29 |
 | 23 | [Otra Vez](https://open.spotify.com/track/4PAZkIDhWvMJMF6nO3HyJX) | [Chavi Leons](https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx) | [Pilot](https://open.spotify.com/album/3iGoLRveNIQ2I4ibGbzXi4) | 2:30 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6JPQU0gqz.md) - [plain]
 | 79 | [La rebelion](https://open.spotify.com/track/00Ro1lnV3V6i87aY4t8Q43) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Sabor a Salsa](https://open.spotify.com/album/4168LZnMKT5rgITtNBbo5z) | 6:16 |
 | 80 | [Esa Flaca](https://open.spotify.com/track/2e0EnlrAtFtzo4q91sR38G) | [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo), [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo) | [Esa Flaca](https://open.spotify.com/album/2k3ZEVpOgGtzuqxXK2PhvV) | 3:01 |
 
-Snapshot ID: `MTY3NjYwNTIwNiwwMDAwMDAwMGYzMzNjM2M4YmI5OTVkMjdkM2I3ZDEzNTY3NDliMTgw`
+Snapshot ID: `MTY3NjYwNTIwNiwwMDAwMDAwMGIyZjAxM2VkNDc2Y2FiM2JhZDViYWM3MTMxMzI4M2E1`

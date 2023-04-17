@@ -4,7 +4,7 @@
 
 > La casa de los corazones rotos.
 
-272 songs - 14 hr 58 min
+273 songs - 15 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [Lo Legal](https://open.spotify.com/track/46o6fYLws9P1XH8kcVVtyo) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Ese Soy Yo](https://open.spotify.com/album/0FTYEBALGZDLGgKzDFR5mk) | 3:18 | 2022-05-23 | 2022-12-25 |
 | [Lo Legal](https://open.spotify.com/track/1CZizCChUV4jVF7xtmsroi) | [El Bebeto Y Su Banda Patria Chica](https://open.spotify.com/artist/1g6NVIow9ivel2OEKD9CYi) | [Estilo Mexicano](https://open.spotify.com/album/5TloO9tPfXW5mTN5Cy1uiM) | 3:18 | 2022-11-07 | 2022-11-13 |
 | [Lo Que Construimos](https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Lo Que Construimos](https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF) | 3:39 | 2022-06-17 | 2022-11-08 |
-| [Lo Siento Mi Amor](https://open.spotify.com/track/62I0X7wop9jcj9MpDQvv5U) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Una Copa Por Cada Reina](https://open.spotify.com/album/5QGlAMO6nrRusU6c1XfjU0) | 3:46 | 2022-12-16 |  |
+| [Lo Siento Mi Amor](https://open.spotify.com/track/62I0X7wop9jcj9MpDQvv5U) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Una Copa Por Cada Reina](https://open.spotify.com/album/5QGlAMO6nrRusU6c1XfjU0) | 3:46 | 2022-12-16 | 2023-04-17 |
 | [Los Caminos de la Vida \- Spotify Singles](https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Los Caminos de la Vida \(Spotify Singles\)](https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5) | 5:28 | 2022-01-19 | 2022-03-05 |
 | [Lágrimas De Miel](https://open.spotify.com/track/5xxWDPW1I0aHAt3twyXAPy) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Lágrimas De Miel](https://open.spotify.com/album/1tTolYWqffkyFE64kvjlkh) | 3:48 | 2022-04-18 | 2022-06-09 |
 | [Maldito Recuerdo](https://open.spotify.com/track/1I9ebkZCdyWVlyXrqdNw2J) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Maldito Recuerdo](https://open.spotify.com/album/3Qtxp9VLVGHbae62AZfj3j) | 3:36 | 2022-05-23 | 2022-10-01 |
@@ -260,6 +260,7 @@
 | [Vete Ya](https://open.spotify.com/track/68KxNaYseDqDC1xlTSbLL0) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Vete Ya](https://open.spotify.com/album/3YLjdhKEcFnwrQve9vVaOY) | 2:37 | 2023-02-14 | 2023-04-15 |
 | [Vete Ya](https://open.spotify.com/track/3gqgSM82j6NMAj4Jllr06T) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Mi Satisfacción](https://open.spotify.com/album/2uJ0YxszsHKfS14kOPmAFl) | 2:37 | 2022-01-07 |  |
 | [Vivo en el 6](https://open.spotify.com/track/3afafgQst7OyR2d7vPbJTM) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Vivo en el 6](https://open.spotify.com/album/11z6QHC7vKHwAbwpzV7Xsz) | 3:12 | 2022-05-06 | 2022-09-03 |
+| [Vuela Tú](https://open.spotify.com/track/6D6Xbp26jVuVdrebUAoRVY) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Vuela Tú](https://open.spotify.com/album/6HNlpNS9D207IT2vMafv4V) | 2:35 | 2023-04-14 |  |
 | [Y Me Da Vergüenza](https://open.spotify.com/track/4WuV8hZ2gAmRfFJwbzvpVk) | [Grupo Legitimo](https://open.spotify.com/artist/1ovPxptMcDubQ0CgYsS5hm) | [Esperándote](https://open.spotify.com/album/0uDSz61JSsXI1XgH3Wok0m) | 2:49 | 2022-05-23 | 2022-06-21 |
 | [Y Me Da Vergüenza](https://open.spotify.com/track/3FR3GIiCGl3NzBYgbbpLJe) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Soy Lo Que Quiero..\. Indispensable \(Edición Especial\)](https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb) | 3:02 | 2022-06-20 | 2022-07-29 |
 | [Y Si Se Quiere Ir](https://open.spotify.com/track/6b68vfUlXy2i2dO79z3h5W) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Y Si Se Quiere Ir](https://open.spotify.com/album/1TGGJG87FFJsLFkILRN1Dc) | 3:07 | 2022-01-07 |  |

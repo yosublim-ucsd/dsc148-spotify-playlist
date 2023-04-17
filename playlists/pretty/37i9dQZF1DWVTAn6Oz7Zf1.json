@@ -1,12 +1,12 @@
 {
   "description": "In cerca di energie? Prova con la nostra playlist!",
-  "num_followers": 166796,
+  "num_followers": 166803,
   "original_name": "Una Carica di Espresso!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ1NTE3NiwwMDAwMDAwMGQxMmEyYjJlODcwN2IzNGM0NTkwMjAzMzQ4YTg5NTcy",
+  "snapshot_id": "MTY4MTQ1NTE3NiwwMDAwMDAwMDYxMzcyZjgzZDRhN2UwZjI1MDFlZDYyNzAxNmEwMzUy",
   "tracks": [
     {
       "added_at": "2023-04-14 06:52:56",
@@ -991,6 +991,26 @@
     {
       "added_at": "2023-04-14 06:52:56",
       "album": {
+        "name": "10 Out Of 10 (feat. Kylie Minogue)",
+        "url": "https://open.spotify.com/album/58sL2tSx8ZOGPYZQAUNBA0"
+      },
+      "artists": [
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        },
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 170602,
+      "name": "10 Out Of 10 (feat. Kylie Minogue)",
+      "url": "https://open.spotify.com/track/11TSwkrxQ7HEOhM8nvzhpj"
+    },
+    {
+      "added_at": "2023-04-14 06:52:56",
+      "album": {
         "name": "Black Magic",
         "url": "https://open.spotify.com/album/5AK6JW4lDEomh8p9LdTSV3"
       },
@@ -1023,26 +1043,6 @@
       "duration_ms": 198407,
       "name": "Always Be There",
       "url": "https://open.spotify.com/track/1PKqiewc0OyZVYxFz5ugbH"
-    },
-    {
-      "added_at": "2023-04-14 06:52:56",
-      "album": {
-        "name": "10 Out Of 10 (feat. Kylie Minogue)",
-        "url": "https://open.spotify.com/album/58sL2tSx8ZOGPYZQAUNBA0"
-      },
-      "artists": [
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        },
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 170602,
-      "name": "10 Out Of 10 (feat. Kylie Minogue)",
-      "url": "https://open.spotify.com/track/11TSwkrxQ7HEOhM8nvzhpj"
     },
     {
       "added_at": "2023-04-14 06:52:56",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2023-04-14 06:52:56",
       "album": {
-        "name": "Diamonds (feat. Aleyna Tilki)",
-        "url": "https://open.spotify.com/album/3LNntOoLKspcyfwiYpQZ8o"
-      },
-      "artists": [
-        {
-          "name": "Jub\u00ebl",
-          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
-        },
-        {
-          "name": "Aleyna Tilki",
-          "url": "https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn"
-        }
-      ],
-      "duration_ms": 168196,
-      "name": "Diamonds (feat. Aleyna Tilki)",
-      "url": "https://open.spotify.com/track/2akrIna6A1btLmjPBN8YKI"
-    },
-    {
-      "added_at": "2023-04-14 06:52:56",
-      "album": {
         "name": "Funny",
         "url": "https://open.spotify.com/album/5Q8Uyc3KUlPhPtMQDY5SWm"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 162081,
       "name": "Beautiful People (feat. Khalid) - NOTD Remix",
       "url": "https://open.spotify.com/track/6J7WMB5GII6pEOzy687jhO"
+    },
+    {
+      "added_at": "2023-04-14 06:52:56",
+      "album": {
+        "name": "Diamonds (feat. Aleyna Tilki)",
+        "url": "https://open.spotify.com/album/3LNntOoLKspcyfwiYpQZ8o"
+      },
+      "artists": [
+        {
+          "name": "Jub\u00ebl",
+          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
+        },
+        {
+          "name": "Aleyna Tilki",
+          "url": "https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn"
+        }
+      ],
+      "duration_ms": 168196,
+      "name": "Diamonds (feat. Aleyna Tilki)",
+      "url": "https://open.spotify.com/track/2akrIna6A1btLmjPBN8YKI"
     },
     {
       "added_at": "2023-04-14 06:52:56",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2023-04-14 06:52:56",
       "album": {
+        "name": "I Swear",
+        "url": "https://open.spotify.com/album/2RtuGDpu3whgnOz8LvB1rO"
+      },
+      "artists": [
+        {
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+        }
+      ],
+      "duration_ms": 131306,
+      "name": "I Swear",
+      "url": "https://open.spotify.com/track/3qnDirWYInwzIJC76AQdV4"
+    },
+    {
+      "added_at": "2023-04-14 06:52:56",
+      "album": {
         "name": "DNA",
         "url": "https://open.spotify.com/album/5NRiyd9eDLOnS6PuhlV5iO"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 177213,
       "name": "DNA",
       "url": "https://open.spotify.com/track/0DfQV2Ri0l83o7Nbzm45vQ"
-    },
-    {
-      "added_at": "2023-04-14 06:52:56",
-      "album": {
-        "name": "I Swear",
-        "url": "https://open.spotify.com/album/2RtuGDpu3whgnOz8LvB1rO"
-      },
-      "artists": [
-        {
-          "name": "YouNotUs",
-          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
-        }
-      ],
-      "duration_ms": 131306,
-      "name": "I Swear",
-      "url": "https://open.spotify.com/track/3qnDirWYInwzIJC76AQdV4"
     },
     {
       "added_at": "2023-04-14 06:52:56",
@@ -1383,22 +1383,22 @@
     {
       "added_at": "2023-04-14 06:52:56",
       "album": {
-        "name": "Happy Machine",
-        "url": "https://open.spotify.com/album/2iab1reuBluKDh3wspwu3e"
+        "name": "Euphoric Sad Songs",
+        "url": "https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB"
       },
       "artists": [
         {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         },
         {
-          "name": "Aleyna Tilki",
-          "url": "https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn"
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
         }
       ],
-      "duration_ms": 135265,
-      "name": "Real Love",
-      "url": "https://open.spotify.com/track/4Juaa2ppIOYcSWbrVtcrNp"
+      "duration_ms": 197573,
+      "name": "Regardless",
+      "url": "https://open.spotify.com/track/3DTqHfTGj1c6y2gDXsTez4"
     },
     {
       "added_at": "2023-04-14 06:52:56",
@@ -1423,22 +1423,22 @@
     {
       "added_at": "2023-04-14 06:52:56",
       "album": {
-        "name": "Euphoric Sad Songs",
-        "url": "https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB"
+        "name": "Happy Machine",
+        "url": "https://open.spotify.com/album/2iab1reuBluKDh3wspwu3e"
       },
       "artists": [
         {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
         },
         {
-          "name": "Rudimental",
-          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+          "name": "Aleyna Tilki",
+          "url": "https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn"
         }
       ],
-      "duration_ms": 197573,
-      "name": "Regardless",
-      "url": "https://open.spotify.com/track/3DTqHfTGj1c6y2gDXsTez4"
+      "duration_ms": 135265,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/4Juaa2ppIOYcSWbrVtcrNp"
     },
     {
       "added_at": "2023-04-14 06:52:56",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos in Hip\-Hop from the U.S\. Cover: Speak
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,595 likes - 40 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,599 likes - 40 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 12 | [Gangsta](https://open.spotify.com/track/4ytxpbnZGX43rcMW1esxnx) | [CJ](https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb) | [Gangsta](https://open.spotify.com/album/2P89EHG7ewK38lrxqEUh27) | 3:01 |
 | 13 | [Face](https://open.spotify.com/track/3xZTXYCcXMj7gAEw6PtcOA) | [G\-Mainey](https://open.spotify.com/artist/6iwdaFkSnuPOovNDg8Wx94), [Bravo the Bagchaser](https://open.spotify.com/artist/31t9hT68QYCDPWkkUVrQjY) | [Face](https://open.spotify.com/album/0mPlZdCyMtoDtHJOylRGzk) | 2:40 |
 | 14 | [Ain't Feelin Us](https://open.spotify.com/track/4N2d8NxscU9beBTC3qhT6P) | [Lil Weirdo](https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo) | [Ain't Feelin Us](https://open.spotify.com/album/2BYsQs4YSUjJHrITZaRn7F) | 2:33 |
-| 15 | [From The Bottom](https://open.spotify.com/track/1BHuiXsUBW3nED6gKIXIWY) | [Emilio Rojas](https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co), [Rittz](https://open.spotify.com/artist/5sRhscbWRXFbjXtSZyfaWY) | [From The Bottom](https://open.spotify.com/album/4ozmhN28ssF2xD3S0tkg68) | 3:30 |
-| 16 | [The One](https://open.spotify.com/track/01Pfi7i0Kve9nTWQGyGYrd) | [Devour](https://open.spotify.com/artist/1rC6V966tijfNzIIIfATvG) | [The One](https://open.spotify.com/album/75hXgReGq2RApC1h02kutn) | 3:47 |
+| 15 | [The One](https://open.spotify.com/track/01Pfi7i0Kve9nTWQGyGYrd) | [Devour](https://open.spotify.com/artist/1rC6V966tijfNzIIIfATvG) | [The One](https://open.spotify.com/album/75hXgReGq2RApC1h02kutn) | 3:47 |
+| 16 | [From The Bottom](https://open.spotify.com/track/1BHuiXsUBW3nED6gKIXIWY) | [Emilio Rojas](https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co), [Rittz](https://open.spotify.com/artist/5sRhscbWRXFbjXtSZyfaWY) | [From The Bottom](https://open.spotify.com/album/4ozmhN28ssF2xD3S0tkg68) | 3:30 |
 | 17 | [With My Homies](https://open.spotify.com/track/1D4lTRCZdSDfz7IaYKj47Y) | [Sevens Muzik](https://open.spotify.com/artist/2rz8oshkpXTxnFgGrJNfSW), [King Lil G](https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb) | [With My Homies](https://open.spotify.com/album/6jrOSts710hkWWHhKfxZbl) | 3:37 |
 | 18 | [Little Homie](https://open.spotify.com/track/6TGY0XOK3espFFqeLkL3q8) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC) | [Little Homie](https://open.spotify.com/album/2i9595pc3gVJIMUVafVena) | 2:34 |
 | 19 | [High](https://open.spotify.com/track/2nkPcGygBk0S7RTsWdFLr6) | [Lil Maru](https://open.spotify.com/artist/6tfVJrqicGpxRbz7q6NJ0L) | [High](https://open.spotify.com/album/7v6fz2Sq43ZReewY3UOUOP) | 2:15 |
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 34 | [Money in the Shoebox , $tonehardt & Dexter Cayn\)](https://open.spotify.com/track/4tMk49Bo8eEj5wNQ2dLiwY) | [Speak](https://open.spotify.com/artist/6Ka6HfvQhsltXZAFT1bYbQ), [J\(X\)](https://open.spotify.com/artist/3qwnfFfieT2LWbd9hWUJbL), [$tonehardt](https://open.spotify.com/artist/6L0fEdbyPCFjfm8f0Ap58i), [Dexter Cayn](https://open.spotify.com/artist/2xOGNq8UOojSAnw31dYfq2) | [Money in the Shoebox , $tonehardt & Dexter Cayn\)](https://open.spotify.com/album/0e2WqMgxffeQDR5V29cAfk) | 2:55 |
 | 35 | [For Real](https://open.spotify.com/track/6IzBIs6LHy8vs6mJfAoHvG) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Aj Hernz](https://open.spotify.com/artist/6OkLZPqXXpKNEAGxE2bupm) | [For Real](https://open.spotify.com/album/482kHPPffbYQ6JW4ST1anV) | 3:39 |
 | 36 | [Gahdamn](https://open.spotify.com/track/3y1zka5AZI6PWmuSdfr681) | [Alexcis](https://open.spotify.com/artist/2tDA2vvMMRpi5GZL0hzqqj), [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA) | [Gahdamn](https://open.spotify.com/album/5TH8rOxyKftcEGSsUXTxA0) | 2:33 |
-| 37 | [Scared Of My Love](https://open.spotify.com/track/1BOyx09F81OnamZyYU3jFL) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD) | [Scared Of My Love](https://open.spotify.com/album/7tUQWYXIXPA3ljIOJSqFeG) | 2:25 |
-| 38 | [All The Good Die Young](https://open.spotify.com/track/4t1gQOs4QcrGgTrLZx3gGL) | [Krystall Poppin](https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC) | [All The Good Die Young](https://open.spotify.com/album/0zjfydrXGgTQZ2H7GEo5WE) | 2:01 |
+| 37 | [All The Good Die Young](https://open.spotify.com/track/4t1gQOs4QcrGgTrLZx3gGL) | [Krystall Poppin](https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC) | [All The Good Die Young](https://open.spotify.com/album/0zjfydrXGgTQZ2H7GEo5WE) | 2:01 |
+| 38 | [Scared Of My Love](https://open.spotify.com/track/1BOyx09F81OnamZyYU3jFL) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD) | [Scared Of My Love](https://open.spotify.com/album/7tUQWYXIXPA3ljIOJSqFeG) | 2:25 |
 | 39 | [N.Y Minute](https://open.spotify.com/track/0ix2WlhdehNXbRd2ONcj2P) | [Bodega Bamz](https://open.spotify.com/artist/6tIgdyPfc6RVQJKCDd9ep9) | [N.Y Minute](https://open.spotify.com/album/5dCxzCwyBmKntm5TkQZ1Q7) | 3:07 |
 | 40 | [Vámonos](https://open.spotify.com/track/0fK7iPZioWaRem2Mo0XQTy) | [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O), [Feefa](https://open.spotify.com/artist/52EfcUQ2nkatuNSusz3v7C), [Chris Obannon](https://open.spotify.com/artist/5CXhiclAFvebleCXKTcrf4) | [Vámonos](https://open.spotify.com/album/59CAbE0DUQ5arPot1kIopV) | 3:51 |
 
-Snapshot ID: `MTY3ODQ4NTc3MywwMDAwMDAwMGZiZDVkYzRmN2MwN2RkYjQ4NmUzOTFjMzc5N2JkNTJm`
+Snapshot ID: `MTY3ODQ4NTc3MywwMDAwMDAwMDNjN2I2Y2I3ZjYwYzgwMjgzMjIwYWE3NTU0Y2IzMGYw`

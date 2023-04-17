@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bispo e Bárbara Tinoco.
 
-275 songs - 15 hr 0 min
+276 songs - 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [Longe](https://open.spotify.com/track/6f8pxYAEPtolYp4JKdh4YB) | [Dinis Mota](https://open.spotify.com/artist/4ZtaPrKdemEzqprB4bIzdx) | [Longe](https://open.spotify.com/album/0dX4dmqGhGmbDxiDq2ya1Q) | 3:45 | 2022-11-11 | 2022-12-02 |
 | [Losing](https://open.spotify.com/track/7w2yYropy6oWtdrrQZX6EZ) | [SLR](https://open.spotify.com/artist/76VHpa0HS1HbibsmCYo4oD) | [Losing](https://open.spotify.com/album/7KoeAFFIVeRL1VDajEgLjI) | 3:56 | 2022-10-13 | 2022-11-11 |
 | [Love Again](https://open.spotify.com/track/677ebW5G4BLaqX5Ue3itGv) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Love Again](https://open.spotify.com/album/150SzhajOXePuIre6fdyMQ) | 3:28 | 2022-12-23 |  |
-| [Lua](https://open.spotify.com/track/1WjnWfl2X36CBYDB0Dtga0) | [Curl](https://open.spotify.com/artist/7y655l8CPBN1uuVpeZHQ5y) | [Lua](https://open.spotify.com/album/4Oyobh3tcmdIuf8c3nrkTj) | 3:36 | 2023-04-13 |  |
+| [Lua](https://open.spotify.com/track/1WjnWfl2X36CBYDB0Dtga0) | [Curl](https://open.spotify.com/artist/7y655l8CPBN1uuVpeZHQ5y) | [Lua](https://open.spotify.com/album/4Oyobh3tcmdIuf8c3nrkTj) | 3:36 | 2023-04-13 | 2023-04-17 |
 | [Lua](https://open.spotify.com/track/7BELSQR2lAJLELaKvVkct3) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Lua](https://open.spotify.com/album/7tMIxE9bA5hgemL5tUzvI1) | 3:12 | 2022-07-07 |  |
 | [Lumi](https://open.spotify.com/track/3T730d6ZWMwVnMXE51v2eY) | [Gang Mka](https://open.spotify.com/artist/0KXnikJ0xyK7bm4zOd5bs3) | [Lumi](https://open.spotify.com/album/0wx0yTWfXM641rHK9rFSr6) | 2:11 | 2022-11-11 | 2022-12-02 |
 | [Lá Fora](https://open.spotify.com/track/2tcqz3Az2AEB3ui0yAvdWr) | [Dino d'Santiago](https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Lá Fora](https://open.spotify.com/album/4RBovD9AuQkPGJ8Tpz9Bpg) | 3:06 | 2022-10-06 | 2022-12-02 |
@@ -263,6 +263,7 @@
 | [Tudo Mudou](https://open.spotify.com/track/2XfGBVchQoNXdxmiZTnhSP) | [Marcelo](https://open.spotify.com/artist/4vtDYMpNi4ZFBGjOie9rwM), [URG](https://open.spotify.com/artist/7kKEaWgCxK4lLwnrmsDZDL) | [Tudo Mudou](https://open.spotify.com/album/3rbUeYAIbQZnNJkEsia5kY) | 3:52 | 2022-09-29 | 2022-10-14 |
 | [Tuesday: Procrastinar](https://open.spotify.com/track/2DjWrLCGdic0K5tl5bXffg) | [Alkinoos](https://open.spotify.com/artist/1tUvSyqscXOmXVYu40hCv0) | [Week](https://open.spotify.com/album/5PlTGcP8Wp4S29t08wzTDj) | 2:59 | 2022-08-18 | 2022-08-22 |
 | [Tê Menos 1](https://open.spotify.com/track/4MxL2BaDBaSfrR5xStqWJJ) | [EU.CLIDES](https://open.spotify.com/artist/74CsbgI3oYJcNJM3ealhBY) | [DECLIVE](https://open.spotify.com/album/1AiOOV6EczEsl8zgpElSzT) | 3:30 | 2023-03-12 |  |
+| [Uma Chamada Tua](https://open.spotify.com/track/7nVIz2hJtiCj7QfNgWTfDm) | [Kibow](https://open.spotify.com/artist/09R2ZnVOtZJjYH5CkDkA0M) | [Uma Chamada Tua](https://open.spotify.com/album/2Pt1yrT5x7GzPzCBexziIW) | 3:11 | 2023-04-13 |  |
 | [UP](https://open.spotify.com/track/50etRztTYtGrwhUi0MV7JX) | [DX](https://open.spotify.com/artist/0omUGjQF2J7gdIUaJqlnzR) | [UP](https://open.spotify.com/album/79gzyakOLwnxmy7mWW4MZi) | 2:37 | 2022-10-27 | 2022-11-25 |
 | [Vai](https://open.spotify.com/track/6y2kYJAT69eIW88dc2NvQz) | [10/16](https://open.spotify.com/artist/7C85XCknYDZcSHj68BiwQE), [SAYLESSALEX.](https://open.spotify.com/artist/6bw5SVjt0q54wNmwozMg7O) | [Vai](https://open.spotify.com/album/30E33TmWJkLCZ1ivfd6zUF) | 3:16 | 2023-03-24 |  |
 | [Vai Dar](https://open.spotify.com/track/0YMXAPod9hwWwtDDejqI0C) | [Domingues](https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx) | [Vai Dar](https://open.spotify.com/album/4OE14bnybnjUzvgT2tjQ2j) | 3:05 | 2022-07-07 | 2022-10-14 |

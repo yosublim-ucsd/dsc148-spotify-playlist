@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Get Better",
+        "url": "https://open.spotify.com/album/385j5opAYD0SP2UHmeeKFU"
+      },
+      "artists": [
+        {
+          "name": "Cate",
+          "url": "https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171913,
+      "name": "Get Better",
+      "url": "https://open.spotify.com/track/6ItblmqN41mj5y3FUC3ooJ"
+    },
+    {
+      "album": {
         "name": "Amelia",
         "url": "https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D"
       },

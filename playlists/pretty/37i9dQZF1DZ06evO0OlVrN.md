@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OlVrN.md) - [plain]
 
 > This is Los Relampagos Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,023 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,027 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,11 +40,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OlVrN.md) - [plain]
 | 30 | [Tengo Miedo](https://open.spotify.com/track/3s41kVuB62ABfW10Mxyp7K) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [15 Exitos de los Relampagos del Norte](https://open.spotify.com/album/3NlXAw72kFd04LBcUgyrDa) | 2:57 |
 | 31 | [Ven a Decirme](https://open.spotify.com/track/5JPYHivczvHw5bjav4COLC) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Puras Cantineras, Vol\. 1](https://open.spotify.com/album/0qqZVWDEGQLr1lhwp3jqUX) | 2:12 |
 | 32 | [Hay Ojitos](https://open.spotify.com/track/3f0ca0sbJefE05GrT69i1X) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Doble 2 En 1](https://open.spotify.com/album/7JLBYptiTNW8gg91QuJDzy) | 2:42 |
-| 33 | [Carta jugada](https://open.spotify.com/track/0vjLrfZAbxQRpoumwzwygZ) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Los Relámpagos del Norte 20 Éxitos](https://open.spotify.com/album/4cWR61Swpa2KcCuVXtaY3R) | 4:00 |
-| 34 | [Una Lágrima y un Recuerdo](https://open.spotify.com/track/6qUKLYivd4KbFGuAk3tHXX) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [15 Boleros de Colección, vol\. 2](https://open.spotify.com/album/6GqILMDFoeerlBqSL8QnhS) | 2:42 |
+| 33 | [Una Lágrima y un Recuerdo](https://open.spotify.com/track/6qUKLYivd4KbFGuAk3tHXX) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [15 Boleros de Colección, vol\. 2](https://open.spotify.com/album/6GqILMDFoeerlBqSL8QnhS) | 2:42 |
+| 34 | [Carta jugada](https://open.spotify.com/track/0vjLrfZAbxQRpoumwzwygZ) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Los Relámpagos del Norte 20 Éxitos](https://open.spotify.com/album/4cWR61Swpa2KcCuVXtaY3R) | 4:00 |
 | 35 | [Caminar Caminar](https://open.spotify.com/track/4JL1se9SpQ9rkRmJGQj2oN) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Puras Cantineras, Vol\. 1](https://open.spotify.com/album/0qqZVWDEGQLr1lhwp3jqUX) | 2:36 |
-| 36 | [Mi Talisman](https://open.spotify.com/track/1zcPAPgfVZXo24wgIO0rDr) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [30 Exitos Inmortales](https://open.spotify.com/album/0sqq8ENeeBECpaM7cne8GA) | 1:55 |
-| 37 | [Allá en el Baile Grande](https://open.spotify.com/track/6j8vimqDs0pfRpy3gf95JO) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [El Disco de Oro](https://open.spotify.com/album/4L5987PRJ0lgS1J2BmwMB7) | 2:14 |
+| 36 | [Allá en el Baile Grande](https://open.spotify.com/track/6j8vimqDs0pfRpy3gf95JO) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [El Disco de Oro](https://open.spotify.com/album/4L5987PRJ0lgS1J2BmwMB7) | 2:14 |
+| 37 | [Mi Talisman](https://open.spotify.com/track/1zcPAPgfVZXo24wgIO0rDr) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [30 Exitos Inmortales](https://open.spotify.com/album/0sqq8ENeeBECpaM7cne8GA) | 1:55 |
 | 38 | [Amargando la vida](https://open.spotify.com/track/2kzPpR2KtWBlSsvMkYEeyE) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [22 Exitos de Oro, vol\. 2](https://open.spotify.com/album/7fdVdewhOZLXhbgilHdNAU) | 3:32 |
 | 39 | [El Espejo](https://open.spotify.com/track/50VYNGTSdo5zgqXUcS3CWZ) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Boleros Inolvidables Con Los Relampagos Del Norte](https://open.spotify.com/album/1MWxBHo476Lww7C0GAiEdz) | 3:31 |
 | 40 | [Me Moriria](https://open.spotify.com/track/1WPO1NLdInUUPChlLUkOu0) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [20 Exitos](https://open.spotify.com/album/3R2YtOfQnRScWMilGDVz0H) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OlVrN.md) - [plain]
 | 49 | [El Espejo](https://open.spotify.com/track/0fUjuxOomFIcRi7T0OKqlD) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Doble 2 En 1](https://open.spotify.com/album/7JLBYptiTNW8gg91QuJDzy) | 3:25 |
 | 50 | [Ni Los Pleitos](https://open.spotify.com/track/1bTWYFOaOO5RCeZPjUmIK5) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Los Relampagos del Norte, Ramon Ayala y Cornelio Reyna](https://open.spotify.com/album/1MaRN2mekXavT4ZiLL1TQZ) | 3:08 |
 
-Snapshot ID: `MjgwMjYwMzEsMDAwMDAwMDAzNWVlMDE2YTllZjVkN2UwZDliNGY2YjlhZDEyNDU3Ng==`
+Snapshot ID: `MjgwMjc0MDEsMDAwMDAwMDBlNGE3Yjg4MzA1MWZkNGI2MmZiYzMwZmJjOTc5OWZjMQ==`

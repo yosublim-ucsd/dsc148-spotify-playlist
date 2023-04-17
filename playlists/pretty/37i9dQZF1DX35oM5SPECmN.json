@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and uptempo indie folk and roots rock, guaranteed to open your stride.",
-  "num_followers": 2420859,
+  "num_followers": 2420838,
   "original_name": "Run Wild",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDEyMDUyNSwwMDAwMDAwMDY3M2U3OWE1NzU1ZTIwMjlhYmNlMDZlYTg3ODljMGRj",
+  "snapshot_id": "MTY4MDEyMDUyNSwwMDAwMDAwMGU5MGVmMzAxNmNmM2Y2NDhjMDE3NmVhOTQzODZjOTBm",
   "tracks": [
     {
       "added_at": "2023-03-29 20:08:45",
@@ -367,6 +367,22 @@
     {
       "added_at": "2023-03-29 20:08:45",
       "album": {
+        "name": "Palomino",
+        "url": "https://open.spotify.com/album/5sT4iQKiMLVJvOQKPVxn62"
+      },
+      "artists": [
+        {
+          "name": "Trampled by Turtles",
+          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Wait so Long",
+      "url": "https://open.spotify.com/track/1QesQ27kCWYTYuXJi8SApS"
+    },
+    {
+      "added_at": "2023-03-29 20:08:45",
+      "album": {
         "name": "Strays",
         "url": "https://open.spotify.com/album/5ahtNEdaVlgHdt75PZwbtj"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 169186,
       "name": "Radio [Feat. Sharon Van Etten]",
       "url": "https://open.spotify.com/track/0J4TuecWdkdRAPbTZXxy62"
-    },
-    {
-      "added_at": "2023-03-29 20:08:45",
-      "album": {
-        "name": "Palomino",
-        "url": "https://open.spotify.com/album/5sT4iQKiMLVJvOQKPVxn62"
-      },
-      "artists": [
-        {
-          "name": "Trampled by Turtles",
-          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Wait so Long",
-      "url": "https://open.spotify.com/track/1QesQ27kCWYTYuXJi8SApS"
     },
     {
       "added_at": "2023-03-29 20:08:45",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-03-29 20:08:45",
       "album": {
-        "name": "Bear Creek",
-        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 248240,
-      "name": "Raise Hell",
-      "url": "https://open.spotify.com/track/4TWn4YeBaTqDURrYLd6k0a"
-    },
-    {
-      "added_at": "2023-03-29 20:08:45",
-      "album": {
         "name": "As We Ran",
         "url": "https://open.spotify.com/album/5n3pUUjhGl3ZrKiQeBB7qi"
       },
@@ -555,18 +539,18 @@
     {
       "added_at": "2023-03-29 20:08:45",
       "album": {
-        "name": "See the World",
-        "url": "https://open.spotify.com/album/4mWXndqtN0KU5ndYussdyK"
+        "name": "Bear Creek",
+        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
       },
       "artists": [
         {
-          "name": "Brett Dennen",
-          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 257893,
-      "name": "See the World",
-      "url": "https://open.spotify.com/track/0YPX6ztcWM4QTbR9tpnHNB"
+      "duration_ms": 248240,
+      "name": "Raise Hell",
+      "url": "https://open.spotify.com/track/4TWn4YeBaTqDURrYLd6k0a"
     },
     {
       "added_at": "2023-03-29 20:08:45",
@@ -583,6 +567,22 @@
       "duration_ms": 220333,
       "name": "Wolf",
       "url": "https://open.spotify.com/track/05daxiDLRI9gEy8xmtvgpv"
+    },
+    {
+      "added_at": "2023-03-29 20:08:45",
+      "album": {
+        "name": "See the World",
+        "url": "https://open.spotify.com/album/4mWXndqtN0KU5ndYussdyK"
+      },
+      "artists": [
+        {
+          "name": "Brett Dennen",
+          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
+        }
+      ],
+      "duration_ms": 257893,
+      "name": "See the World",
+      "url": "https://open.spotify.com/track/0YPX6ztcWM4QTbR9tpnHNB"
     },
     {
       "added_at": "2023-03-29 20:08:45",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-03-29 20:08:45",
       "album": {
+        "name": "Latigo EP",
+        "url": "https://open.spotify.com/album/62C9L1UCLOvvlu7Jb2FRRE"
+      },
+      "artists": [
+        {
+          "name": "Wilderado",
+          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
+        }
+      ],
+      "duration_ms": 220253,
+      "name": "Morning Light",
+      "url": "https://open.spotify.com/track/65LAG4XH7Oq0mZhFdPYqO4"
+    },
+    {
+      "added_at": "2023-03-29 20:08:45",
+      "album": {
         "name": "Like I Used To",
         "url": "https://open.spotify.com/album/0nRjg8p3TOmImvztpYncra"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 263754,
       "name": "Like I Used To",
       "url": "https://open.spotify.com/track/1kZpYFQHUKv4xHELaaUSqP"
-    },
-    {
-      "added_at": "2023-03-29 20:08:45",
-      "album": {
-        "name": "Latigo EP",
-        "url": "https://open.spotify.com/album/62C9L1UCLOvvlu7Jb2FRRE"
-      },
-      "artists": [
-        {
-          "name": "Wilderado",
-          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
-        }
-      ],
-      "duration_ms": 220253,
-      "name": "Morning Light",
-      "url": "https://open.spotify.com/track/65LAG4XH7Oq0mZhFdPYqO4"
     },
     {
       "added_at": "2023-03-29 20:08:45",
@@ -767,18 +767,18 @@
     {
       "added_at": "2023-03-29 20:08:45",
       "album": {
-        "name": "Patience",
-        "url": "https://open.spotify.com/album/4WZgcOXBMQQ2VRj5a6VDDP"
+        "name": "Barton Hollow",
+        "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
       },
       "artists": [
         {
-          "name": "Wilder Woods",
-          "url": "https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2"
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
         }
       ],
-      "duration_ms": 238413,
-      "name": "Patience",
-      "url": "https://open.spotify.com/track/2wFnukjdbUj5DWoNxZd718"
+      "duration_ms": 205773,
+      "name": "Barton Hollow",
+      "url": "https://open.spotify.com/track/6ZOBY9RG2tcxXX0ohKtfRc"
     },
     {
       "added_at": "2023-03-29 20:08:45",
@@ -799,18 +799,18 @@
     {
       "added_at": "2023-03-29 20:08:45",
       "album": {
-        "name": "Barton Hollow",
-        "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/4WZgcOXBMQQ2VRj5a6VDDP"
       },
       "artists": [
         {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+          "name": "Wilder Woods",
+          "url": "https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2"
         }
       ],
-      "duration_ms": 205773,
-      "name": "Barton Hollow",
-      "url": "https://open.spotify.com/track/6ZOBY9RG2tcxXX0ohKtfRc"
+      "duration_ms": 238413,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/2wFnukjdbUj5DWoNxZd718"
     },
     {
       "added_at": "2023-03-29 20:08:45",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-03-29 20:08:45",
       "album": {
-        "name": "By The Way, I Forgive You",
-        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 262866,
-      "name": "Hold Out Your Hand",
-      "url": "https://open.spotify.com/track/0xpKRzMR9x53jKSdugItan"
-    },
-    {
-      "added_at": "2023-03-29 20:08:45",
-      "album": {
         "name": "Obviously",
         "url": "https://open.spotify.com/album/2Zi7uv234eNZJfLPGUIkSD"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 214150,
       "name": "Making Do",
       "url": "https://open.spotify.com/track/1ID7FIrnDFtAoRebVRBhlO"
+    },
+    {
+      "added_at": "2023-03-29 20:08:45",
+      "album": {
+        "name": "By The Way, I Forgive You",
+        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 262866,
+      "name": "Hold Out Your Hand",
+      "url": "https://open.spotify.com/track/0xpKRzMR9x53jKSdugItan"
     },
     {
       "added_at": "2023-03-29 20:08:45",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-03-29 20:08:45",
       "album": {
-        "name": "Lighght (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3oPVMDW85Fo8tXQWKhYIQO"
-      },
-      "artists": [
-        {
-          "name": "Kishi Bashi",
-          "url": "https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0"
-        }
-      ],
-      "duration_ms": 200533,
-      "name": "Philosophize In It! Chemicalize With It!",
-      "url": "https://open.spotify.com/track/7ICjrouimwa79iCbBdUWoq"
-    },
-    {
-      "added_at": "2023-03-29 20:08:45",
-      "album": {
         "name": "Classic",
         "url": "https://open.spotify.com/album/5uYr1aUdzhYkW4QkY45vPR"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 194000,
       "name": "Awake",
       "url": "https://open.spotify.com/track/3HJ5NJAWtxLPAru4wGGN7A"
+    },
+    {
+      "added_at": "2023-03-29 20:08:45",
+      "album": {
+        "name": "Lighght (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3oPVMDW85Fo8tXQWKhYIQO"
+      },
+      "artists": [
+        {
+          "name": "Kishi Bashi",
+          "url": "https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0"
+        }
+      ],
+      "duration_ms": 200533,
+      "name": "Philosophize In It! Chemicalize With It!",
+      "url": "https://open.spotify.com/track/7ICjrouimwa79iCbBdUWoq"
     },
     {
       "added_at": "2023-03-29 20:08:45",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2023-03-29 20:08:45",
       "album": {
-        "name": "Absolute Zero",
-        "url": "https://open.spotify.com/album/1kqlpogKhHGn8zJTXUtZbW"
+        "name": "Reunions",
+        "url": "https://open.spotify.com/album/5XIafkwTpyvL7jjLJx1xKz"
       },
       "artists": [
         {
-          "name": "Little Green Cars",
-          "url": "https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy"
+          "name": "Jason Isbell and the 400 Unit",
+          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
         }
       ],
-      "duration_ms": 300960,
-      "name": "My Love Took Me Down To the River To Silence Me",
-      "url": "https://open.spotify.com/track/1Me1LN4tpFc3rCRkmHAu0q"
+      "duration_ms": 199721,
+      "name": "Be Afraid",
+      "url": "https://open.spotify.com/track/4YtvmIkKHaSBOv1VPmZf6p"
     }
   ],
   "unique_name": "Run Wild",

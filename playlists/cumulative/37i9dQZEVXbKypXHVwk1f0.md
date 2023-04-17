@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Panama.
 
-746 songs - 1 day 18 hr 38 min
+747 songs - 1 day 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Caras Vemos](https://open.spotify.com/track/6NSt2HFIMe5dEDo7Aq2Tf5) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SEN2 KBRN VOL\. 2](https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9) | 2:36 | 2022-11-19 | 2022-12-04 |
 | [CAROLINA](https://open.spotify.com/track/3goYw6YHoCjA1sfBzpdgzH) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:42 | 2023-02-25 | 2023-02-28 |
 | [Carta a Dios](https://open.spotify.com/track/5ZLWuh52L4vvIVlRsjFhga) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SEN2 KBRN VOL\. 2](https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9) | 2:01 | 2022-11-19 | 2022-11-24 |
+| [CASA VERDE](https://open.spotify.com/track/04w93rJXoDQ4fayGw9BPT7) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [Kevin Ice](https://open.spotify.com/artist/5XQ0aNr3aINifZ93L4FUYI), [Haquil](https://open.spotify.com/artist/3JptABIhEERG63NRckg6EG), [Nerry Money](https://open.spotify.com/artist/6g6DtbtyBi3Ir0mxiDlouJ) | [CASA VERDE](https://open.spotify.com/album/4RNy7HfUlON4eclMZlGo2R) | 4:06 | 2023-04-16 |  |
 | [Casaya](https://open.spotify.com/track/4iRHjxLojZsyclcODm5NOv) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ) | [Coexistencia](https://open.spotify.com/album/2Z4R6v7ghh8fbO1xYrk3lW) | 3:26 | 2023-01-23 |  |
 | [Castigo](https://open.spotify.com/track/18pWcEUcUJpBFs7eNBsBht) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM](https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9) | 2:57 | 2022-09-15 | 2022-09-18 |
 | [CASUALIDAD](https://open.spotify.com/track/3yIyUQXF050PehHtbkgaDu) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 3:03 | 2022-11-05 | 2022-11-10 |
@@ -144,7 +145,7 @@
 | [Cuevita](https://open.spotify.com/track/3LGn1d8P4Na3WHvYwCE6NL) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 2:40 | 2023-03-18 | 2023-03-25 |
 | [Culito](https://open.spotify.com/track/4FiHQz4KFtK0m5zzhI4gZL) | [El Bird](https://open.spotify.com/artist/1XHYFx41xbzN5SxLUSvW5Q) | [Culito](https://open.spotify.com/album/4dhH3Nhj7vy79pHdvCp0EB) | 3:36 | 2022-07-23 | 2022-09-16 |
 | [Cumbiaton Mexa](https://open.spotify.com/track/0BakJchpLPMO9eVYW6V6k7) | [Ale Mix](https://open.spotify.com/artist/2uxoElzOZDIX9L5Dc7Oa2F), [Dj Chekesito](https://open.spotify.com/artist/4S0i7CxFJybFWyCsB0vwil) | [Cumbiaton Mexa](https://open.spotify.com/album/5mFr2CXOpFBVGlyjG48X0d) | 2:54 | 2022-09-23 | 2022-12-17 |
-| [Cupido](https://open.spotify.com/track/04ndZkbKGthTgYSv3xS7en) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:54 | 2023-03-13 |  |
+| [Cupido](https://open.spotify.com/track/04ndZkbKGthTgYSv3xS7en) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:54 | 2023-03-13 | 2023-04-17 |
 | [cómo dormiste?](https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [cómo dormiste?](https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK) | 1:52 | 2022-08-13 | 2023-01-24 |
 | [Cúrame](https://open.spotify.com/track/1FlL8ycld6uVDDyhV7P5FA) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 2:44 | 2021-12-21 | 2022-05-08 |
 | [Cúrame](https://open.spotify.com/track/3PwRuzdphgedcWVUOVYJ7I) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/5hKAQ3WuOJtaOW2a8hpIXY) | 2:44 | 2021-08-05 | 2021-12-22 |

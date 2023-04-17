@@ -1,12 +1,12 @@
 {
   "description": "The best feel-good songs of the 1980s.",
-  "num_followers": 212131,
+  "num_followers": 212422,
   "original_name": "Happy 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzU2NDUxMSwwMDAwMDAwMDA2ZDU3ZmY3MTg1YTY4NDgyNzUxMzU1MDYwMWFkZGQx",
+  "snapshot_id": "MTY3NzU2NDUxMSwwMDAwMDAwMDM5MWFjMWU5NzY1MDE5NjY0ODRiNWJjNzdjZDYwZDRh",
   "tracks": [
     {
       "added_at": "2023-01-03 15:06:17",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "Freeze Frame",
-        "url": "https://open.spotify.com/album/48joW5905AMbTFLvy8ZWch"
-      },
-      "artists": [
-        {
-          "name": "The J. Geils Band",
-          "url": "https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F"
-        }
-      ],
-      "duration_ms": 216533,
-      "name": "Centerfold",
-      "url": "https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
         "name": "Living In The Background",
         "url": "https://open.spotify.com/album/2AclHzFubT46QrjWFSfkk9"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 378946,
       "name": "Tarzan Boy",
       "url": "https://open.spotify.com/track/273uCXd7NPrInaiNqtkOrA"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
+        "name": "Freeze Frame",
+        "url": "https://open.spotify.com/album/48joW5905AMbTFLvy8ZWch"
+      },
+      "artists": [
+        {
+          "name": "The J. Geils Band",
+          "url": "https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F"
+        }
+      ],
+      "duration_ms": 216533,
+      "name": "Centerfold",
+      "url": "https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "Madonna",
-        "url": "https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW"
+        "name": "Love Songs (A Compilation Old and New)",
+        "url": "https://open.spotify.com/album/7KZTL6gFUUCzNw4FfjVqCF"
       },
       "artists": [
         {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
         }
       ],
-      "duration_ms": 231560,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/3ibAzRj9JnowdoLkyllk3n"
+      "duration_ms": 204386,
+      "name": "Two Hearts",
+      "url": "https://open.spotify.com/track/2BgWv15eKCDfiubKo6o76k"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "Love Songs (A Compilation Old and New)",
-        "url": "https://open.spotify.com/album/7KZTL6gFUUCzNw4FfjVqCF"
+        "name": "Madonna",
+        "url": "https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW"
       },
       "artists": [
         {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 204386,
-      "name": "Two Hearts",
-      "url": "https://open.spotify.com/track/2BgWv15eKCDfiubKo6o76k"
+      "duration_ms": 231560,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/3ibAzRj9JnowdoLkyllk3n"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "The Very Best of Billy Ocean",
-        "url": "https://open.spotify.com/album/7n4OT3zEZaEiyKKd6mFAhi"
-      },
-      "artists": [
-        {
-          "name": "Billy Ocean",
-          "url": "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
-        }
-      ],
-      "duration_ms": 284373,
-      "name": "Get Outta My Dreams, Get Into My Car",
-      "url": "https://open.spotify.com/track/2D4D3hiOf5U0W6SvJoCQph"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
         "name": "Break Out",
         "url": "https://open.spotify.com/album/0Kmw2yUjTfdaN1son7GTp5"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 267226,
       "name": "Jump (For My Love)",
       "url": "https://open.spotify.com/track/3L9ClO1W5KmebIXTrlKShF"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
+        "name": "The Very Best of Billy Ocean",
+        "url": "https://open.spotify.com/album/7n4OT3zEZaEiyKKd6mFAhi"
+      },
+      "artists": [
+        {
+          "name": "Billy Ocean",
+          "url": "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
+        }
+      ],
+      "duration_ms": 284373,
+      "name": "Get Outta My Dreams, Get Into My Car",
+      "url": "https://open.spotify.com/track/2D4D3hiOf5U0W6SvJoCQph"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "Shaky",
-        "url": "https://open.spotify.com/album/05rSaDParyh27b5eomSA8P"
-      },
-      "artists": [
-        {
-          "name": "Shakin' Stevens",
-          "url": "https://open.spotify.com/artist/0wi4yTYlGtEnbGo4ltZTib"
-        }
-      ],
-      "duration_ms": 171720,
-      "name": "You Drive Me Crazy",
-      "url": "https://open.spotify.com/track/2j8bXaOBeEeyoY4ZpCcFIW"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
         "name": "Cocker",
         "url": "https://open.spotify.com/album/0YnLeYOGgy0vtxQRbgW7s1"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 255293,
       "name": "You Can Leave Your Hat On",
       "url": "https://open.spotify.com/track/1x9iOd3K1JC6tdjGZJpFgZ"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
+        "name": "Shaky",
+        "url": "https://open.spotify.com/album/05rSaDParyh27b5eomSA8P"
+      },
+      "artists": [
+        {
+          "name": "Shakin' Stevens",
+          "url": "https://open.spotify.com/artist/0wi4yTYlGtEnbGo4ltZTib"
+        }
+      ],
+      "duration_ms": 171720,
+      "name": "You Drive Me Crazy",
+      "url": "https://open.spotify.com/track/2j8bXaOBeEeyoY4ZpCcFIW"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "Close (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6LddMxTnUpoZNUZxtMryJh"
-      },
-      "artists": [
-        {
-          "name": "Kim Wilde",
-          "url": "https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo"
-        }
-      ],
-      "duration_ms": 208520,
-      "name": "You Came - Single Version",
-      "url": "https://open.spotify.com/track/2mXvx5UORysNIFVnsuo3kc"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
         "name": "Take My Time",
         "url": "https://open.spotify.com/album/7bNpYL4bvBMLRyafghBrCs"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 200826,
       "name": "Morning Train (Nine to Five) - Edit",
       "url": "https://open.spotify.com/track/1qvDt6W8oaTO9Q4pFNMFEm"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
+        "name": "Close (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6LddMxTnUpoZNUZxtMryJh"
+      },
+      "artists": [
+        {
+          "name": "Kim Wilde",
+          "url": "https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo"
+        }
+      ],
+      "duration_ms": 208520,
+      "name": "You Came - Single Version",
+      "url": "https://open.spotify.com/track/2mXvx5UORysNIFVnsuo3kc"
     },
     {
       "added_at": "2023-01-03 15:06:17",

@@ -4,7 +4,7 @@
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: Los Bunkers
 
-230 songs - 14 hr 42 min
+231 songs - 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [El Mundo Se Termina](https://open.spotify.com/track/6Vbs72gwE5sZuVHK4qZ2PW) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [El Mundo Se Termina](https://open.spotify.com/album/1VmWohc27f4BKsUIZCAfCl) | 4:12 | 2023-03-03 |  |
 | [El Olvido](https://open.spotify.com/track/40ln7ClXzh5wYpNeSQ4fWK) | [Terranave](https://open.spotify.com/artist/6Iih7qmPaBVuzw3lsWj22H) | [El Hombre Es Humano](https://open.spotify.com/album/2oYnjA8cDyOe1WlfaxmrCU) | 3:31 | 2022-04-08 | 2022-07-18 |
 | [El Tren](https://open.spotify.com/track/3jAjThUa6bThaHzsOJgRo0) | [Autóctonos de Ninguna Parte](https://open.spotify.com/artist/7pqtHCx8vGUbM5sVb45peN) | [El Tren](https://open.spotify.com/album/6BNE3lyJFYn7aKcJ23SUF7) | 5:59 | 2022-04-08 | 2022-07-29 |
-| [El Tren](https://open.spotify.com/track/41WfjjjrWcU3qfaZHkUNK8) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [El Tren](https://open.spotify.com/album/7x4eRQdJw18LUXMCNLUotV) | 3:23 | 2022-04-08 |  |
+| [El Tren](https://open.spotify.com/track/41WfjjjrWcU3qfaZHkUNK8) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [El Tren](https://open.spotify.com/album/7x4eRQdJw18LUXMCNLUotV) | 3:23 | 2022-04-08 | 2023-04-17 |
 | [El Vaivén](https://open.spotify.com/track/5aIrqFydkhSU25u6OQLRdT) | [Juanito Ayala](https://open.spotify.com/artist/4Wy8CFlIS11ODC9wVKBSz4), [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK) | [Lo Comido y Lo Bailado](https://open.spotify.com/album/61CtpH0g7Q4Vr4Tr6O1rLh) | 3:09 | 2022-04-08 | 2023-03-03 |
 | [El Último Hombre](https://open.spotify.com/track/3ktAEb2vExKXKIYEasqNZB) | [Jürgensen](https://open.spotify.com/artist/3aa7GJeuK2umr3aA4SGPeG) | [El Último Hombre](https://open.spotify.com/album/1eAxuEL8CwlTyoQCHN56oG) | 2:59 | 2022-04-08 | 2023-03-03 |
 | [Elijo Soledad](https://open.spotify.com/track/0De9FIACgaulJDIzIN7jqq) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [Elijo Soledad](https://open.spotify.com/album/03UF0yRngtiNd5gZaJ9Msk) | 4:27 | 2022-09-23 | 2023-03-03 |
@@ -146,6 +146,7 @@
 | [Milagro](https://open.spotify.com/track/4IbgQmI6Pwh7fchypm4EEW) | [Lucybell](https://open.spotify.com/artist/3rqpBcetrJVphNTRHDv9ht), [Beto Cuevas](https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL) | [Milagro](https://open.spotify.com/album/43Qds07LHMxKUDjTJ6N57L) | 3:33 | 2022-04-08 | 2022-12-17 |
 | [Mis Hermanos Sueñan Despiertos](https://open.spotify.com/track/4zkPhAfJssqmudOKotu0vr) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Mis Hermanos Sueñan Despiertos](https://open.spotify.com/album/5eSV2mQOF7eUBcyc59i4kg) | 3:24 | 2022-04-08 |  |
 | [Morada](https://open.spotify.com/track/6KQeXWaC0MW1w7Csykf1ME) | [Implos](https://open.spotify.com/artist/56YpnBaRqcv4nmiNmwV6k6) | [Morada](https://open.spotify.com/album/7jlHr6be9TdEtZtfDQsnWn) | 4:37 | 2022-04-08 | 2022-07-29 |
+| [Mujer Primavera](https://open.spotify.com/track/4lOvfLvl7BhAbNKMpVOY51) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [Mujer Primavera](https://open.spotify.com/album/4JBPCOkcSLndKUtKDg5JZQ) | 4:36 | 2023-04-14 |  |
 | [Mujer Robusta \(En Vivo Teatro Caupolicán\)](https://open.spotify.com/track/2LGVZgkkPNl2NRdKjytmoi) | [Sinergia](https://open.spotify.com/artist/1OgaghfYd1qr8DFoNrfDNk), [GrassBrass](https://open.spotify.com/artist/1eJudSmozfcZXqLhvnoWKV) | [25 Años \(En Vivo Teatro Caupolicán\)](https://open.spotify.com/album/6Hi5NK6c0xlretuT0p4epl) | 3:07 | 2022-04-08 | 2022-11-29 |
 | [Mágico](https://open.spotify.com/track/37uLyC9qkxus8WmyZQBRRx) | [Joe Vasconcellos](https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce) | [Éxitos Chilenos](https://open.spotify.com/album/09UbdY5tHTS6dhVu786BUw) | 3:07 | 2022-07-08 | 2022-12-17 |
 | [Mágico](https://open.spotify.com/track/4CtI6hFwdR0xlCdap0Fhyn) | [Joe Vasconcellos](https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce) | [Para noventeros chilenos](https://open.spotify.com/album/5PT5a0e9OJhMeejCDXdqqN) | 3:07 | 2022-09-05 | 2022-09-11 |

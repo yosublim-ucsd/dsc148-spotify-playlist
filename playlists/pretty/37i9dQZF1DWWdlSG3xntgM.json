@@ -1,12 +1,12 @@
 {
   "description": "Nh\u1eefng nh\u1ea1c ph\u1ea9m \u0111i v\u00e0o l\u00f2ng ng\u01b0\u1eddi t\u1eeb nhi\u1ec1u th\u1ebf h\u1ec7. \u1ea2nh b\u00eca: Nh\u01b0 Qu\u1ef3nh",
-  "num_followers": 33932,
+  "num_followers": 33940,
   "original_name": "Bolero Tuy\u1ec7t Ph\u1ea9m",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDEwMDk2NywwMDAwMDAwMGY5MzNiOGI5MTFiNGE4NzUzZWYzYjUzNzk4YjgyNGE0",
+  "snapshot_id": "MTY3NDEwMDk2NywwMDAwMDAwMDY5OWQ5ZGY5ZDUzYjlhNjIyZjhhMzEzN2MyMWY4MjYy",
   "tracks": [
     {
       "added_at": "2023-01-19 04:02:47",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-01-19 04:02:47",
       "album": {
+        "name": "Cho Ng\u01b0\u1eddi T\u00ecnh L\u1ee1",
+        "url": "https://open.spotify.com/album/2DTriHYKkXQNqf6tVyucvk"
+      },
+      "artists": [
+        {
+          "name": "Ph\u01b0\u01a1ng Ph\u01b0\u01a1ng Th\u1ea3o",
+          "url": "https://open.spotify.com/artist/5KGgAxYWMoCJduQhLpIH4v"
+        }
+      ],
+      "duration_ms": 356671,
+      "name": "Cho Ng\u01b0\u1eddi T\u00ecnh L\u1ee1",
+      "url": "https://open.spotify.com/track/417NJZjAjPLX0p7xf4H8uJ"
+    },
+    {
+      "added_at": "2023-01-19 04:02:47",
+      "album": {
         "name": "Nh\u1eadt K\u00fd \u0110\u1eddi T\u00f4i",
         "url": "https://open.spotify.com/album/6VNm9Szdku6nagVbX6ADtR"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 247780,
       "name": "N\u00f3i V\u1edbi Ng\u01b0\u1eddi T\u00ecnh",
       "url": "https://open.spotify.com/track/09gYyhwSGWH5agBqRGPYsG"
-    },
-    {
-      "added_at": "2023-01-19 04:02:47",
-      "album": {
-        "name": "Cho Ng\u01b0\u1eddi T\u00ecnh L\u1ee1",
-        "url": "https://open.spotify.com/album/2DTriHYKkXQNqf6tVyucvk"
-      },
-      "artists": [
-        {
-          "name": "Ph\u01b0\u01a1ng Ph\u01b0\u01a1ng Th\u1ea3o",
-          "url": "https://open.spotify.com/artist/5KGgAxYWMoCJduQhLpIH4v"
-        }
-      ],
-      "duration_ms": 356671,
-      "name": "Cho Ng\u01b0\u1eddi T\u00ecnh L\u1ee1",
-      "url": "https://open.spotify.com/track/417NJZjAjPLX0p7xf4H8uJ"
     },
     {
       "added_at": "2023-01-19 04:02:47",
@@ -595,30 +595,6 @@
     {
       "added_at": "2023-01-19 04:02:47",
       "album": {
-        "name": "Best of Tr\u01b0\u1eddng V\u0169",
-        "url": "https://open.spotify.com/album/2CkD43gESVfM5A3KmMtssU"
-      },
-      "artists": [
-        {
-          "name": "Truong Vu",
-          "url": "https://open.spotify.com/artist/78P4eADp0NwlcU4tsRCBdo"
-        },
-        {
-          "name": "Manh Dinh",
-          "url": "https://open.spotify.com/artist/3EwJyciUZbuZc8gZTKKdAM"
-        },
-        {
-          "name": "M\u1ea1nh Qu\u1ef3nh",
-          "url": "https://open.spotify.com/artist/3KTUDQL8OV9Sv6mvLJpS5W"
-        }
-      ],
-      "duration_ms": 356240,
-      "name": "Lk Ngh\u00e8o",
-      "url": "https://open.spotify.com/track/3bUr4wVFdUUWcmqTDyqNXX"
-    },
-    {
-      "added_at": "2023-01-19 04:02:47",
-      "album": {
         "name": "Qua C\u01a1n M\u00ea",
         "url": "https://open.spotify.com/album/4kbT3PLXiKQ6IGcIDeeDSf"
       },
@@ -647,6 +623,30 @@
       "duration_ms": 335189,
       "name": "\u0110\u1eafp m\u1ed9 cu\u1ed9c t\u00ecnh",
       "url": "https://open.spotify.com/track/3T5ebvfNzgtvFzi1CuKKui"
+    },
+    {
+      "added_at": "2023-01-19 04:02:47",
+      "album": {
+        "name": "Best of Tr\u01b0\u1eddng V\u0169",
+        "url": "https://open.spotify.com/album/2CkD43gESVfM5A3KmMtssU"
+      },
+      "artists": [
+        {
+          "name": "Truong Vu",
+          "url": "https://open.spotify.com/artist/78P4eADp0NwlcU4tsRCBdo"
+        },
+        {
+          "name": "Manh Dinh",
+          "url": "https://open.spotify.com/artist/3EwJyciUZbuZc8gZTKKdAM"
+        },
+        {
+          "name": "M\u1ea1nh Qu\u1ef3nh",
+          "url": "https://open.spotify.com/artist/3KTUDQL8OV9Sv6mvLJpS5W"
+        }
+      ],
+      "duration_ms": 356240,
+      "name": "Lk Ngh\u00e8o",
+      "url": "https://open.spotify.com/track/3bUr4wVFdUUWcmqTDyqNXX"
     },
     {
       "added_at": "2023-01-19 04:02:47",

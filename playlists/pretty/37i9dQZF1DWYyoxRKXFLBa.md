@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 
 > Puras morras rifadas\. ¡Súbele al volumen! En portada: Vondré
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,065 likes - 60 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,084 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,12 +48,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 | 38 | [Free Your Mind \- Spanish Version](https://open.spotify.com/track/1cBFq8ArDimc2lnz7bI2Va) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Free Your Mind \(Spanish Version\)](https://open.spotify.com/album/0nm8RYsOK1mCjJPn3yGH2i) | 2:57 |
 | 39 | [Niños furbito y niñas lo que sea](https://open.spotify.com/track/7JM2NCmPwdBldEWCJlzpUZ) | [Aiko el grupo](https://open.spotify.com/artist/0mk9dVJMJF4fanFzeZo6K1) | [Niños furbito y niñas lo que sea](https://open.spotify.com/album/5O7QhTmi2g5f7Y91KmfO4L) | 2:24 |
 | 40 | [Hey Heartbreaker](https://open.spotify.com/track/5rHOYjTsgZSt4FTIkVtcVc) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Dream Wife](https://open.spotify.com/album/0fFlloNPNem2XOi4AeU5ty) | 3:20 |
-| 41 | [SUPERFICIAL](https://open.spotify.com/track/3dHJrJdkNVVpYa4oOwIsX8) | [xHEIDIx](https://open.spotify.com/artist/5cZ3ADw8t6lZQSyBXmFe4j) | [xADR3N4LIN4x](https://open.spotify.com/album/6nXUebcx7kYg6hnGlr8Wg0) | 2:00 |
-| 42 | [Extrañar](https://open.spotify.com/track/192eUOSZQEjYPAsoZ1rY5m) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [Extrañar](https://open.spotify.com/album/7vPZnP3n1kzkq5lrPXYh0B) | 3:17 |
+| 41 | [Extrañar](https://open.spotify.com/track/192eUOSZQEjYPAsoZ1rY5m) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [Extrañar](https://open.spotify.com/album/7vPZnP3n1kzkq5lrPXYh0B) | 3:17 |
+| 42 | [SUPERFICIAL](https://open.spotify.com/track/3dHJrJdkNVVpYa4oOwIsX8) | [xHEIDIx](https://open.spotify.com/artist/5cZ3ADw8t6lZQSyBXmFe4j) | [xADR3N4LIN4x](https://open.spotify.com/album/6nXUebcx7kYg6hnGlr8Wg0) | 2:00 |
 | 43 | [Tu Color](https://open.spotify.com/track/4vaVD9B0RbZ0Puk9ABIGEm) | [BUDAYA](https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U) | [Tu Color](https://open.spotify.com/album/2Ga9wGIWzo7m9vnPEkxt1m) | 3:46 |
 | 44 | [2000nunca](https://open.spotify.com/track/2HJdRebzIISmN4n00jtuRj) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [Algo Bien](https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd) | 3:00 |
-| 45 | [Animal](https://open.spotify.com/track/0oj0QRfjA5WsLvZkoOQk6f) | [Norwayy](https://open.spotify.com/artist/2Oco3IVZNWcII3kGXRaNaU) | [Animal](https://open.spotify.com/album/1YeMVUEEBUcehIKC8PQkK5) | 4:15 |
-| 46 | [Boni Naitó](https://open.spotify.com/track/3GVI5TbNvYLj70ws5ZPFcW) | [Myuné](https://open.spotify.com/artist/3LnFaKCLO8uhqBf2VITWGT) | [Fuera de Lugar](https://open.spotify.com/album/1m5YP0jEENVLbhbNJuZCWO) | 4:43 |
+| 45 | [Boni Naitó](https://open.spotify.com/track/3GVI5TbNvYLj70ws5ZPFcW) | [Myuné](https://open.spotify.com/artist/3LnFaKCLO8uhqBf2VITWGT) | [Fuera de Lugar](https://open.spotify.com/album/1m5YP0jEENVLbhbNJuZCWO) | 4:43 |
+| 46 | [Animal](https://open.spotify.com/track/0oj0QRfjA5WsLvZkoOQk6f) | [Norwayy](https://open.spotify.com/artist/2Oco3IVZNWcII3kGXRaNaU) | [Animal](https://open.spotify.com/album/1YeMVUEEBUcehIKC8PQkK5) | 4:15 |
 | 47 | [Nunca Me Voy a Ir](https://open.spotify.com/track/5IKIuPYuH1tnRFXrQ003VG) | [MIKI](https://open.spotify.com/artist/5ngVZyrFVySdOrvwhYmuss), [Niza Buenrostro](https://open.spotify.com/artist/5UgD3jrxzwsJywYScFRIS9) | [Nunca Me Voy a Ir](https://open.spotify.com/album/67YPCFbxBiQQNujPVpVOUS) | 2:31 |
 | 48 | [Frente al Mar](https://open.spotify.com/track/5FfoOol6bSXoO1FnnkhjeI) | [Girls Go Ska](https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo) | [Frente al Mar](https://open.spotify.com/album/5mo377nus6GhMWCoPMhi7n) | 6:07 |
 | 49 | [Prometimos No Hablar](https://open.spotify.com/track/1aTHKQ5x0tBFmN9yW8jtLF) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Prometimos No Hablar](https://open.spotify.com/album/40jASBMnpbRBj7O8QfLUEU) | 4:19 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 | 55 | [surrealismo.](https://open.spotify.com/track/6MtkCUkLfo9lxnbofkQbjC) | [cKovi](https://open.spotify.com/artist/3sdVgczphtmF1sKTgPZrOO) | [surrealismo.](https://open.spotify.com/album/24gpp8Y3ggwerd9gUKNnre) | 3:11 |
 | 56 | [Dentro](https://open.spotify.com/track/7zygrEhhUZgzLzoX8RWdWR) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Lo Que Duró la Vida de Alguien](https://open.spotify.com/album/1laV2Pxw2s1PCOhYNLEk5v) | 2:25 |
 | 57 | [Caer](https://open.spotify.com/track/4ISBnFzh1VdY0lybDzFQxK) | [Silver Rose](https://open.spotify.com/artist/2JGwyKMo0j1SIbEcbA0QBP) | [Las Distancias](https://open.spotify.com/album/6iw6U4obwRM38eN7JZ33Dm) | 5:11 |
-| 58 | [Todo Se Está Cayendo](https://open.spotify.com/track/2on6Uws8Ku8izt4Kb1PYG8) | [Elis Paprika](https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk) | [Todo Se Está Cayendo](https://open.spotify.com/album/1B60TuVtUl7PPsrWbuOAn6) | 4:15 |
-| 59 | [Volver a Ser](https://open.spotify.com/track/6aD9eUyPdBed9zUcmEJkNj) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Volver a Ser](https://open.spotify.com/album/4D1RRo53qiOmWLI25UZvrV) | 3:28 |
+| 58 | [Volver a Ser](https://open.spotify.com/track/6aD9eUyPdBed9zUcmEJkNj) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Volver a Ser](https://open.spotify.com/album/4D1RRo53qiOmWLI25UZvrV) | 3:28 |
+| 59 | [Todo Se Está Cayendo](https://open.spotify.com/track/2on6Uws8Ku8izt4Kb1PYG8) | [Elis Paprika](https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk) | [Todo Se Está Cayendo](https://open.spotify.com/album/1B60TuVtUl7PPsrWbuOAn6) | 4:15 |
 | 60 | [Corrida al Arco](https://open.spotify.com/track/5QTBQvrTCudXdatBV3ycRF) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Corrida al Arco](https://open.spotify.com/album/6o0XLbTOCvzBz7rH0kYZUk) | 4:15 |
 
-Snapshot ID: `MTY4MDI5MjI0MywwMDAwMDAwMGJmZDYyMGNkMWZhOGZkOTc4NWQ0MTUzYjFiMjg2ZDk1`
+Snapshot ID: `MTY4MDI5MjI0MywwMDAwMDAwMDg4ZjE5MmJjM2VkODUwZDA5NGEyNDdjN2U5MTBhOWQ4`

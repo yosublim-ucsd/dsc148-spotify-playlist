@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,575 likes - 110 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,073 likes - 110 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

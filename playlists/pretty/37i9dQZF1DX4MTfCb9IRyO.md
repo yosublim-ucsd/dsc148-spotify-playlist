@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4MTfCb9IRyO.md) - [plain]
 
 > Classic blues for a blue summer day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,156 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,165 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4MTfCb9IRyO.md) - [plain]
 | 37 | [Ball N' Chain](https://open.spotify.com/track/0D1S1rK4M8D3kJDFN50u0G) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Ball n' Chain](https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl) | 4:31 |
 | 38 | [Born Under A Bad Sign](https://open.spotify.com/track/0vDn81gdOuRxjbIwcASuiV) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [Born Under A Bad Sign](https://open.spotify.com/album/42WQ76qWDQmHlHvJa6Z3Uw) | 2:46 |
 | 39 | [Farther Up The Road](https://open.spotify.com/track/2hPyG7NMpHAmOrmlSziAx2) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [I Pity The Fool: The Duke Recordings, Vol\. One](https://open.spotify.com/album/58DNpB9P4aUKPtaTiZmjK6) | 2:57 |
-| 40 | [Hideaway \- Mono Instrumental](https://open.spotify.com/track/43FVOV48LHhXOhZ0t5picb) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Bluesbreakers](https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o) | 3:13 |
+| 40 | [Hideaway \- Mono Instrumental](https://open.spotify.com/track/43FVOV48LHhXOhZ0t5picb) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s), [Sonny Thompson](https://open.spotify.com/artist/5zJQc0NgR7QSDOxA6EYZkR), [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Bluesbreakers](https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o) | 3:13 |
 | 41 | [Tipitina \- Mono](https://open.spotify.com/track/0Jz7pqRw3fumuTvQgAobH4) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [New Orleans Piano \(Mono\)](https://open.spotify.com/album/4vQc378UGRZAaJemArhMpv) | 2:38 |
 | 42 | [That's A Pretty Good Love](https://open.spotify.com/track/0rWLWREgsqvU5hC5nytLtN) | [Big Maybelle](https://open.spotify.com/artist/7yJXicqUOMPY5Iofua29C0) | [Blues, Candy & Big Maybelle](https://open.spotify.com/album/0fr2opmItHMvdy1N01XcLh) | 2:35 |
 | 43 | [Someday \(Electric\)](https://open.spotify.com/track/5ZUxxja3WzBZUFF6P9M9HN) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Someday](https://open.spotify.com/album/1E7OQUKXxK5qCX1Hy2O7j9) | 3:26 |

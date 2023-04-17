@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UHpXG.md) - [plain]
 
 > This is Motörhead\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,141 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,252 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UHpXG.md) - [plain]
 | 9 | [Hellraiser](https://open.spotify.com/track/65JrmVnWM5KzM1WrXIY0tI) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [March Or Die](https://open.spotify.com/album/3pbbbyxPPgBTAMbAcVzjex) | 4:35 |
 | 10 | [Born To Raise Hell](https://open.spotify.com/track/7Ei4LhQ8BeTfjsPY7FINZS) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bastards](https://open.spotify.com/album/0mtmu4b5dw2dYlrAyjGQa7) | 4:59 |
 | 11 | [Heroes](https://open.spotify.com/track/1WE1WsxSqVofH8ugxJkc0c) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Under Cöver](https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs) | 4:20 |
-| 12 | [Greedy Bastards](https://open.spotify.com/track/4tB3o3rTYsBTd3283dKNYg) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Greedy Bastards](https://open.spotify.com/album/320YsD7ccYfPwARI17GgMw) | 4:12 |
-| 13 | [Love Me Forever](https://open.spotify.com/track/7akyedgeVgZeT6oD77nyHn) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [1916](https://open.spotify.com/album/6mvrfjdgSvwcDXhxyVjWTx) | 5:27 |
+| 12 | [Love Me Forever](https://open.spotify.com/track/7akyedgeVgZeT6oD77nyHn) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [1916](https://open.spotify.com/album/6mvrfjdgSvwcDXhxyVjWTx) | 5:27 |
+| 13 | [Greedy Bastards](https://open.spotify.com/track/4tB3o3rTYsBTd3283dKNYg) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Greedy Bastards](https://open.spotify.com/album/320YsD7ccYfPwARI17GgMw) | 4:12 |
 | 14 | [Louie Louie](https://open.spotify.com/track/5R6OAv09z0kAV7Ll8olOH4) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Overkill \(Expanded Bonus Track Edition\)](https://open.spotify.com/album/5iw08epzFaKtmX3y2vRVU6) | 2:44 |
 | 15 | [Till The End](https://open.spotify.com/track/1n89RaAdJ19i3vZHwhcHVu) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bad Magic](https://open.spotify.com/album/6dMv1580G91kLYjquABSPQ) | 4:05 |
 | 16 | [Motörhead](https://open.spotify.com/track/2iZYdnXBFW4r54HhQKanlg) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Motorhead](https://open.spotify.com/album/5vYvX7jM5TAg7fzK1oKySe) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UHpXG.md) - [plain]
 | 49 | [Too Good To Be True](https://open.spotify.com/track/2r4KEU4enoON5SiUCL4HLV) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [March Or Die](https://open.spotify.com/album/4ghbGX7UrH5TdNScemj22e) | 3:36 |
 | 50 | [The Devil](https://open.spotify.com/track/0AuxHaBLGxjJ6XuxTwL5fz) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bad Magic: SERIOUSLY BAD MAGIC](https://open.spotify.com/album/51G3HGyXVig4jdC58PU8Ay) | 2:53 |
 
-Snapshot ID: `MjgwMjYwMzIsMDAwMDAwMDA1MDAxZTBlOTg3ZGQxY2U0Yjc1MTFjYWQ2M2YxMjMzNw==`
+Snapshot ID: `MjgwMjc0MDEsMDAwMDAwMDAxYWJhM2M5OGE0NjI2MDY3OTQ0NmI1ZWQxM2I1NDNkNg==`

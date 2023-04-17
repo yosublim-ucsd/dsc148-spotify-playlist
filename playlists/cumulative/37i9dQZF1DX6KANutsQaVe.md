@@ -4,7 +4,7 @@
 
 > Our editors’ picks for the best of Rock in Canada in 2022.<br/> Cover: TALK \#SpotifyWrapped
 
-76 songs - 4 hr 15 min
+77 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Don't Miss](https://open.spotify.com/track/4xhJtbV0LEPCHKcDfHnlP5) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Pretty Monster](https://open.spotify.com/album/3UqBWziPrsp5pXDR2cJI2P) | 3:06 | 2022-11-30 |  |
 | [EDGING](https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [EDGING](https://open.spotify.com/album/0EspGdWdoWAxa5mBdQ5z55) | 2:31 | 2022-11-30 |  |
 | [Fever Pitch](https://open.spotify.com/track/3hUIWeIiRr12i4afab6fcX) | [Hotel Mira](https://open.spotify.com/artist/7hd3XnjENIMw13Dmn8hEYw) | [Fever Pitch](https://open.spotify.com/album/5qhUycMgSZpz0VjJwtowXa) | 3:26 | 2022-11-30 |  |
-| [FUNERAL GREY](https://open.spotify.com/track/4ORdQW5NLKO3b0RUeBMIrs) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/7exaI7MyauQNCOqbyqU27C) | 2:44 | 2022-11-30 |  |
+| [FUNERAL GREY](https://open.spotify.com/track/4ORdQW5NLKO3b0RUeBMIrs) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/7exaI7MyauQNCOqbyqU27C) | 2:44 | 2022-11-30 | 2023-04-17 |
+| [FUNERAL GREY](https://open.spotify.com/track/6Rebnr2UDaxxg3VNe6CBg2) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:44 | 2022-11-30 |  |
 | [Gaslight](https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Gaslight](https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt) | 2:53 | 2022-11-30 |  |
 | [Gimme Spirit](https://open.spotify.com/track/3cKmg3AHEEl81qClZ13gUi) | [Dear Rouge](https://open.spotify.com/artist/0YkjOpIntNmlG1PNF2dqSy) | [Spirit](https://open.spotify.com/album/3gc5DYsNfAYPVzMsJPBfE4) | 3:22 | 2022-11-30 |  |
 | [Grow Up Tomorrow](https://open.spotify.com/track/01RyfioUxfQO4gSIg2NXb9) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Grow Up Tomorrow](https://open.spotify.com/album/3rm9AdtOaIPkWNfSQoIcvI) | 3:12 | 2022-11-30 |  |

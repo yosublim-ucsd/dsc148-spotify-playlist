@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > The highest quality blend ft\. BAILEN
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,445 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,475 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 95 | [Rakıya Su Katamam](https://open.spotify.com/track/53YrFJD6mDPGKq8e0SK5LC) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Rakiya Su Katamam b/w Leylim Ley](https://open.spotify.com/album/2fr4NMJF6laNA85zchtlX2) | 3:40 |
 | 96 | [After The Earthquake](https://open.spotify.com/track/0O5q2h0kfQD6PixL7rCHuL) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 3:05 |
 | 97 | [Easier Said Than Done](https://open.spotify.com/track/05u8tZI4nSuNf3pY0KShfQ) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Easier Said Than Done](https://open.spotify.com/album/6TXtR9ZlYnBU78SSQy5krJ) | 2:54 |
-| 98 | [Gamma Rays](https://open.spotify.com/track/7qBXFdv7Q6FMWhsHt2OawM) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Gamma Rays](https://open.spotify.com/album/1SiambHhBaS8xX3bUkb8J3) | 4:20 |
+| 98 | [Gamma Rays](https://open.spotify.com/track/5k6nmmNdpSGdCNzdnyDoRp) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Exotico](https://open.spotify.com/album/4rPbXiutTsGBMnkW9KESZQ) | 4:20 |
 | 99 | [I Wanna Dance With You](https://open.spotify.com/track/4uwPEKdiVnXiscrLgk5666) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 2:54 |
 | 100 | [Insomnia](https://open.spotify.com/track/4WTcpYfuTzxlWjffzeUjah) | [the moss](https://open.spotify.com/artist/4wPeDqxPKkBN50kr8XhEma) | [Insomnia](https://open.spotify.com/album/2G3tS2k6gUuO14Y4fDxw4l) | 3:12 |
 
-Snapshot ID: `MTY4MTQ0NDgwMCwwMDAwMDAwMDhmZmNhNWYyZjFhMzRlMmQ2OGVmMzQ1NmE2N2ZmYWYx`
+Snapshot ID: `MTY4MTQ0NDgwMCwwMDAwMDAwMDI4N2UwODMxYTFlNDM0NzJjNDQwMzI5ZDdlYWI2OTJl`

@@ -1,12 +1,12 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 416863,
+  "num_followers": 417028,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjU4NzgwNywwMDAwMDAwMDQwNjhlNjMzYmZmZDdhNTYyOWQwNDRiMDc2MTVhN2Q2",
+  "snapshot_id": "MTY3NjU4NzgwNywwMDAwMDAwMGZhMjkyOTIyMjZhOGFlMGYwMzU4MzE0MjMxZmFiNmJk",
   "tracks": [
     {
       "added_at": "2023-02-16 22:50:07",
@@ -491,6 +491,22 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
+        "name": "Esuna",
+        "url": "https://open.spotify.com/album/1QcMDjbzVWyju8NQaptAll"
+      },
+      "artists": [
+        {
+          "name": "Nohidea",
+          "url": "https://open.spotify.com/artist/5b0XQwyoJBFd3MwL2YxEPO"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "falling down",
+      "url": "https://open.spotify.com/track/7hFLiKigpVlcmFSryIEff8"
+    },
+    {
+      "added_at": "2023-02-16 22:50:07",
+      "album": {
         "name": "$orries",
         "url": "https://open.spotify.com/album/4UC6UTIy5LGAxiRNrEh1of"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 145669,
       "name": "Was I Not Good Enough?",
       "url": "https://open.spotify.com/track/2XGWFqeiRy3LuMZ9eNWYbW"
-    },
-    {
-      "added_at": "2023-02-16 22:50:07",
-      "album": {
-        "name": "Esuna",
-        "url": "https://open.spotify.com/album/1QcMDjbzVWyju8NQaptAll"
-      },
-      "artists": [
-        {
-          "name": "Nohidea",
-          "url": "https://open.spotify.com/artist/5b0XQwyoJBFd3MwL2YxEPO"
-        }
-      ],
-      "duration_ms": 96000,
-      "name": "falling down",
-      "url": "https://open.spotify.com/track/7hFLiKigpVlcmFSryIEff8"
     },
     {
       "added_at": "2023-02-16 22:50:07",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
+        "name": "in.the.forest.we.are.wizards",
+        "url": "https://open.spotify.com/album/5dtl7XhfdMYSmTBaBSuaTS"
+      },
+      "artists": [
+        {
+          "name": "Kupla",
+          "url": "https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35"
+        }
+      ],
+      "duration_ms": 154074,
+      "name": "emerald",
+      "url": "https://open.spotify.com/track/0kglaBttNwzxtNeDdWafej"
+    },
+    {
+      "added_at": "2023-02-16 22:50:07",
+      "album": {
         "name": "Seymour (with Dawn Golden)",
         "url": "https://open.spotify.com/album/7BccR0AIrdXUozgZTAX6gE"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 113345,
       "name": "Seymour (with Dawn Golden)",
       "url": "https://open.spotify.com/track/3tpr337B8DsgKo7JR2eYAS"
-    },
-    {
-      "added_at": "2023-02-16 22:50:07",
-      "album": {
-        "name": "in.the.forest.we.are.wizards",
-        "url": "https://open.spotify.com/album/5dtl7XhfdMYSmTBaBSuaTS"
-      },
-      "artists": [
-        {
-          "name": "Kupla",
-          "url": "https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35"
-        }
-      ],
-      "duration_ms": 154074,
-      "name": "emerald",
-      "url": "https://open.spotify.com/track/0kglaBttNwzxtNeDdWafej"
     },
     {
       "added_at": "2023-02-16 22:50:07",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
+        "name": "Distant",
+        "url": "https://open.spotify.com/album/4Hdki5EPcGWFmTr3UF6Xt8"
+      },
+      "artists": [
+        {
+          "name": "w00ds",
+          "url": "https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy"
+        }
+      ],
+      "duration_ms": 144892,
+      "name": "Distant",
+      "url": "https://open.spotify.com/track/5PTpamIgmhhvqkQaYyADu0"
+    },
+    {
+      "added_at": "2023-02-16 22:50:07",
+      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/5xIENE9mYM9cIqbqs4MuF7"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 147474,
       "name": "Memories Fade",
       "url": "https://open.spotify.com/track/40rSlnWWx2p4r9lLOwNn96"
-    },
-    {
-      "added_at": "2023-02-16 22:50:07",
-      "album": {
-        "name": "Distant",
-        "url": "https://open.spotify.com/album/4Hdki5EPcGWFmTr3UF6Xt8"
-      },
-      "artists": [
-        {
-          "name": "w00ds",
-          "url": "https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy"
-        }
-      ],
-      "duration_ms": 144892,
-      "name": "Distant",
-      "url": "https://open.spotify.com/track/5PTpamIgmhhvqkQaYyADu0"
     },
     {
       "added_at": "2023-02-16 22:50:07",

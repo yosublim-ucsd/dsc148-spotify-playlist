@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWHdjlGV0r.md) - [plain]
 
 > Certi amori bruciano di più\. Cover: Geolier
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,252 likes - 74 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,370 likes - 74 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWHdjlGV0r.md) - [plain]
 | 65 | [Topless](https://open.spotify.com/track/2HjM0ufsJtI0zBBeFIpEog) | [Geeno](https://open.spotify.com/artist/2GyLz0gcl3zDPPql47YWEy), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM) | [Topless](https://open.spotify.com/album/6Vy5xxdBNkTyOC9fXVHV5X) | 3:00 |
 | 66 | [Vogl Sul A Te](https://open.spotify.com/track/4JajIgqHJAV0Neboj76fqG) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [Emanuele](https://open.spotify.com/album/0ezPP4vUJkMXitFq8oWxyl) | 3:05 |
 | 67 | [MI AMI O NO \(feat\. Capo Plaza\)](https://open.spotify.com/track/2UsAeEA2JH7kKSOflP23zY) | [Giaime](https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [MI AMI O NO \(feat\. Capo Plaza\)](https://open.spotify.com/album/2x3iZoksgMVakMIH5KI20H) | 2:25 |
-| 68 | [Forte](https://open.spotify.com/track/4cC2oSrEm16ddPOCzvPjuY) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [For The Ladies Rap Italiano I GOT 5 ON IT](https://open.spotify.com/album/5sTaHxgOr2e9jKorZ5wq8L) | 3:27 |
+| 68 | [Forte](https://open.spotify.com/track/5G6jHSoLrzhtPBhS2gMvfW) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Nonostante Tutto](https://open.spotify.com/album/0q62V6NN0EWwRTEtyFCsGQ) | 3:27 |
 | 69 | [Purple](https://open.spotify.com/track/6L2omWeSyC8TLGzSRdwCvn) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Chris Nolan](https://open.spotify.com/artist/1xsYReh7zhty26wD4tprKh) | [Vita Vera \- Mixtape, aspettando la Divina Commedia](https://open.spotify.com/album/3VcvEJUFZn6md3wW8kVaJS) | 3:10 |
 | 70 | [Bugie Diverse](https://open.spotify.com/track/5F5vop7HZv4BjauPiUYY7R) | [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM) | [Bugie Diverse](https://open.spotify.com/album/4TMLaBQUFGzS7lfdJVs8bi) | 3:20 |
 | 71 | [AIRFORCE \(feat\. Madame\)](https://open.spotify.com/track/4MTlIhliwFJnTfbEoctDyB) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [SOLO TUTTO](https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw) | 3:40 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWHdjlGV0r.md) - [plain]
 | 73 | [MADAME \- L'anima \(feat\. Madame\)](https://open.spotify.com/track/3go5ZuMoFTKl5ugai8nAKi) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [Persona](https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu) | 3:41 |
 | 74 | [PAROLA \- feat\. Lazza, Emis Killa](https://open.spotify.com/track/2tQ7vPjN88wkQl5hSNSbVF) | [Giaime](https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ) | [MULA](https://open.spotify.com/album/3eDMLC0gVgI6K1O9oMc686) | 3:23 |
 
-Snapshot ID: `MTY4MTQ2Mjk5NSwwMDAwMDAwMDQ1OTdhNWZkMjBhMGI3Yzg2NTkzOWUwOTY1MzA3MGFl`
+Snapshot ID: `MTY4MTQ2Mjk5NSwwMDAwMDAwMDE2YTY2ZTI1NDQ3M2I0MzUzYzRhMWQwYzY2ZTNjZGY4`

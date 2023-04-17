@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 
 > LGBTQIA+ artists que brillan e inspiran.<br/>Cover: Ptazeta
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,981 likes - 70 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,008 likes - 70 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 13 | [Piña](https://open.spotify.com/track/6Fdho6pm3GhNyA4TZajC2X) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [To Anywhere](https://open.spotify.com/album/0D0l81uLwVgMbS7DfaEh6V) | 2:24 |
 | 14 | [Fugitivo](https://open.spotify.com/track/6IWHrUE6laQtlobaAN0IKb) | [Robleis](https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht) | [Fugitivo](https://open.spotify.com/album/1V0Tqj5kxCGZ4Fr6l32pVn) | 2:40 |
 | 15 | [Ganas](https://open.spotify.com/track/54JWFISolUGIbtNeANGp2B) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Mi Primer Día Triste](https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo) | 4:14 |
-| 16 | [un día en París](https://open.spotify.com/track/4qGSb2elUwIqbe4Psomxxs) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [un día en París](https://open.spotify.com/album/5yhz5asZRCa5dceBZBicmo) | 4:02 |
-| 17 | [I'd Rather Have Sex](https://open.spotify.com/track/5JKvoSM8KY9Cski1UvGcpa) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 2:53 |
+| 16 | [I'd Rather Have Sex](https://open.spotify.com/track/5JKvoSM8KY9Cski1UvGcpa) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 2:53 |
+| 17 | [un día en París](https://open.spotify.com/track/4qGSb2elUwIqbe4Psomxxs) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [un día en París](https://open.spotify.com/album/5yhz5asZRCa5dceBZBicmo) | 4:02 |
 | 18 | [La llorona](https://open.spotify.com/track/21VxAmhZn3p0kdb0jXu4Ry) | [Chavela Vargas](https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c) | [Las 30 grandes de Chavela Vargas](https://open.spotify.com/album/5PBV4NRJsndZpe2cbIejt2) | 8:31 |
 | 19 | [Imagina](https://open.spotify.com/track/4Fe2oAGo6fmPVwBNkbEdw1) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Clichés](https://open.spotify.com/album/1HX7p55GnAwv6kPb9m0Qs9) | 3:44 |
 | 20 | [PERREO FURIOSO](https://open.spotify.com/track/2NAjBeyMUrba97IXdLVMqp) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG) | 2:32 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 39 | [Bellakosa](https://open.spotify.com/track/3zmjT7DVb5s01CC8Iy8BlN) | [Sailorfag](https://open.spotify.com/artist/3YvJLKikEKjbzNBk9rfIKE) | [Bellakosa](https://open.spotify.com/album/5tUZWuzaD4vnLJRnH5zxPc) | 2:53 |
 | 40 | [Y Qué?](https://open.spotify.com/track/7IimbpNYdLU9pG366Td4Tm) | [Torreblanca](https://open.spotify.com/artist/5sy13x4wGzkhvLeHr4HPEE) | [José José, Un Tributo 1 & 2](https://open.spotify.com/album/103zw9Qm9BRCdlb3mYsBOl) | 3:06 |
 | 41 | [Amuleto](https://open.spotify.com/track/0mHrAGsrbfmQEBxmstxS21) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy), [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Mojigata](https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS) | 3:45 |
-| 42 | [A La Playa](https://open.spotify.com/track/2MANpdplWDEAnmHC2GA42W) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [A La Playa](https://open.spotify.com/album/00FBTtbNuQhQqSGIMNSHjU) | 3:13 |
-| 43 | [LIBERTAD](https://open.spotify.com/track/4bFfzFtW3B0kU23liGxvF6) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY) | [LIBERTAD](https://open.spotify.com/album/2pfIr8vef2H2EYjQJQwBym) | 3:36 |
+| 42 | [LIBERTAD](https://open.spotify.com/track/4bFfzFtW3B0kU23liGxvF6) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY) | [LIBERTAD](https://open.spotify.com/album/2pfIr8vef2H2EYjQJQwBym) | 3:36 |
+| 43 | [A La Playa](https://open.spotify.com/track/2MANpdplWDEAnmHC2GA42W) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [A La Playa](https://open.spotify.com/album/00FBTtbNuQhQqSGIMNSHjU) | 3:13 |
 | 44 | [Los Caminos Del Amor](https://open.spotify.com/track/4fJ4xLmvXpFFNSjjA82Iym) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Los Caminos Del Amor](https://open.spotify.com/album/6wFKtAwUCv2mkIbSquFCkH) | 3:52 |
 | 45 | [Paradise](https://open.spotify.com/track/4W8k1VqecfTy4nOaHPc4cY) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [Paradise](https://open.spotify.com/album/3SYPjBFJeTW2sb4kMPQk6O) | 3:16 |
 | 46 | [Soy Un Bombón](https://open.spotify.com/track/2tAL1SKeBWQfc4ttSDe8Zn) | [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP) | [Soy Un Bombón](https://open.spotify.com/album/1ZrKg7EXPJ787usjfGVzcY) | 3:36 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 54 | [Prada](https://open.spotify.com/track/5MN4hnNta44Ezm2dfajQB0) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Kick](https://open.spotify.com/album/7vG4sP0DjiSzPPihnuXnLL) | 2:43 |
 | 55 | [Tírame al fondo del mar](https://open.spotify.com/track/0rTdWwgFymyWztg0yctfLG) | [Francisco Victoria](https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv) | [Herida](https://open.spotify.com/album/3EjIOQ9uPmQtxXW1mGOhNq) | 3:27 |
 | 56 | [Bailemos en la Sala](https://open.spotify.com/track/570Ct7gYSSC3bXiNkSFryX) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Bailemos en la Sala](https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W) | 4:04 |
-| 57 | [El Gran Varón](https://open.spotify.com/track/0vxgL9ele9vzJbWrVDrL6Y) | [Ana Macho](https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu), [La Brega](https://open.spotify.com/artist/7n3zQKm0K6MOVshW2qjBsp) | [El Gran Varón](https://open.spotify.com/album/0MQR3TIJWypZjcadiyFcbV) | 4:50 |
-| 58 | [Brillo](https://open.spotify.com/track/6AiM0XGlc0R03v2Z1wlTWn) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0) | [Amor, Locura & Otros Vicios](https://open.spotify.com/album/3RM6JchSNTtRsZ8Do0iWRD) | 2:50 |
+| 57 | [Brillo](https://open.spotify.com/track/6AiM0XGlc0R03v2Z1wlTWn) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0) | [Amor, Locura & Otros Vicios](https://open.spotify.com/album/3RM6JchSNTtRsZ8Do0iWRD) | 2:50 |
+| 58 | [El Gran Varón](https://open.spotify.com/track/0vxgL9ele9vzJbWrVDrL6Y) | [Ana Macho](https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu), [La Brega](https://open.spotify.com/artist/7n3zQKm0K6MOVshW2qjBsp) | [El Gran Varón](https://open.spotify.com/album/0MQR3TIJWypZjcadiyFcbV) | 4:50 |
 | 59 | [Cara de Gitana](https://open.spotify.com/track/2xrpeQqyVNARu5ojQNSF6U) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [La Caldera](https://open.spotify.com/album/4JjADR0Plz1NsDzxud6sgg) | 3:36 |
 | 60 | [Nunca Fue](https://open.spotify.com/track/1yoDprcj9nMx1kq9ZRRsG5) | [Una Típica Francisca](https://open.spotify.com/artist/7mCCpnILGKRMZ4RCA9e4lG), [La Peluquera](https://open.spotify.com/artist/2Y8ZTw3lEypiF5jpINYgGr) | [Nunca Fue](https://open.spotify.com/album/0NexOUhIG5wHThaul9GwPG) | 4:42 |
 | 61 | [Que Sí Que No](https://open.spotify.com/track/4kQkOwwaJWWbLB83doQdlg) | [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [Que Sí Que No](https://open.spotify.com/album/0MDs2fahUHeddRisz4l0dF) | 2:43 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 65 | [me gusta que me gustes](https://open.spotify.com/track/5gQvExQc6zyJnI11AoNJMM) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [Así Me Siento Hoy](https://open.spotify.com/album/0kefZe88v1Muy6YFe0adCe) | 2:35 |
 | 66 | [corazoncito](https://open.spotify.com/track/3QwaKUFPO3CNJcTiWk0kfk) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [corazoncito](https://open.spotify.com/album/5YYkBqPFlaJidU80jXYD9i) | 2:58 |
 | 67 | [lo que queda después del amor](https://open.spotify.com/track/1CceTFtIgX7vPVco9Fub6t) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2) | [EL ETERNO RETORNO: Antología de una flor marchita \(Deluxe\)](https://open.spotify.com/album/0L9ebZXy9sK9W846lkYAMm) | 4:04 |
-| 68 | [Mucho Más](https://open.spotify.com/track/4JOhfm15uy5ETZzfYJfrxS) | [Jackie Mendoza](https://open.spotify.com/artist/2ZIEeX505EvIuA10fNgnHa) | [LuvHz](https://open.spotify.com/album/6yBOev00UB9ZZVaspj00Wb) | 3:05 |
-| 69 | [Besos](https://open.spotify.com/track/0WIOsnOOJlIDN095VDlSOk) | [Macha Kiddo](https://open.spotify.com/artist/5sMMzzTjQpX6z7gKVOVlIv) | [Lesbihonest](https://open.spotify.com/album/5C5rCLBjwHPNF112Xuea9t) | 3:27 |
+| 68 | [Besos](https://open.spotify.com/track/0WIOsnOOJlIDN095VDlSOk) | [Macha Kiddo](https://open.spotify.com/artist/5sMMzzTjQpX6z7gKVOVlIv) | [Lesbihonest](https://open.spotify.com/album/5C5rCLBjwHPNF112Xuea9t) | 3:27 |
+| 69 | [Mucho Más](https://open.spotify.com/track/4JOhfm15uy5ETZzfYJfrxS) | [Jackie Mendoza](https://open.spotify.com/artist/2ZIEeX505EvIuA10fNgnHa) | [LuvHz](https://open.spotify.com/album/6yBOev00UB9ZZVaspj00Wb) | 3:05 |
 | 70 | [Buena Suerte Muchacha](https://open.spotify.com/track/2YY77lkRQXm4B4fdTHkrbO) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Índigo](https://open.spotify.com/album/1JUFR4Qgot2SmMssrlsYNz) | 3:13 |
 
-Snapshot ID: `MTY4MTQ0NDgwMCwwMDAwMDAwMDljOWQzNGViYWQzMGRhNDU1ZTU2ODMwMmZhMjBiMDJk`
+Snapshot ID: `MTY4MTQ0NDgwMCwwMDAwMDAwMGNkNjNiNGI4Y2Y3ZmNkYTIzNWIxZWE3ZTc5ZTJmZWE0`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-642 songs - 1 day 8 hr 24 min
+643 songs - 1 day 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Dayanamıyorum](https://open.spotify.com/track/1iv9A5Rvjff0T5I9pcJJpL) | [Kerim Araz](https://open.spotify.com/artist/2xNgzwX6A9orF0QEJph5Eb), [Sevgim Yılmaz](https://open.spotify.com/artist/1oh1jFXcJYVg7g1E2Yb3PO) | [Dayanamıyorum](https://open.spotify.com/album/4h7y7eDbVmD5wLoy7hCNeh) | 2:54 | 2023-03-20 | 2023-03-25 |
 | [deniyorum, ama](https://open.spotify.com/track/4yhO1qzAICkyoN0w2P2Za4) | [Mavi](https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED) | [deniyorum, ama](https://open.spotify.com/album/59jm1W5RpcgHVuyymSn3nL) | 3:05 | 2022-12-16 | 2023-03-29 |
 | [Derinden / bazen hayat çok kötü gidiyor ve ben onu nasıl anlatacağımı bilemiyorum](https://open.spotify.com/track/1iFGzZThVz7rYr2uqaTffV) | [Barış Diri](https://open.spotify.com/artist/1K3hYM185V2bhs9iRzFpIH) | [Derinden / bazen hayat çok kötü gidiyor ve ben onu nasıl anlatacağımı bilemiyorum](https://open.spotify.com/album/0NMAVArKbc1TFBih22eIMt) | 3:05 | 2021-03-27\* | 2023-03-11 |
+| [Derinlerde](https://open.spotify.com/track/7eGi47ucrFzRVwMiNvPtsU) | [Mark Eliyahu](https://open.spotify.com/artist/7k6KVFItaU7pcBvL6poIi9), [Cem Adrian](https://open.spotify.com/artist/2AWUCT9xtcvkjpFq1ZgpPj) | [About Love](https://open.spotify.com/album/0TJ4vUmmSvJ4DMGRq9WhYu) | 3:21 | 2023-04-16 |  |
 | [Değilim Bi Aşık](https://open.spotify.com/track/0zjiGvCYPHDT7OT4HIv5kp) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca) | [Değilim Bi Aşık](https://open.spotify.com/album/7eCHPDgtLhtJPxt8Ghk3lX) | 2:43 | 2022-10-20 | 2022-12-18 |
 | [Diabolico](https://open.spotify.com/track/4c2M8LTjJChc890Pr1I43h) | [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA) | [Diabolico](https://open.spotify.com/album/7t5MPt9ACpBHcWwXsx9AM7) | 3:09 | 2022-02-05 | 2022-02-09 |
 | [Dibine Kadar](https://open.spotify.com/track/5pbFyTdwtJVmZB5LXmccX4) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Duman 1](https://open.spotify.com/album/0DKrLdv42DlBsGZQYMKU8C) | 3:48 | 2021-10-20 | 2022-02-13 |
@@ -251,7 +252,7 @@
 | [Gunes X Lvbel C5 \- Nkbi](https://open.spotify.com/track/7tQTx7U6GqVdso7BQDkVqo) | [Lythx](https://open.spotify.com/artist/01ffRQ3o5VegxsABrqos6d), [diegoxrd](https://open.spotify.com/artist/2cKOuKNF2sw9pDsMbT0ObI) | [Gunes X Lvbel C5 \- Nkbi](https://open.spotify.com/album/1TvKetNmtPyfJLSOM59heQ) | 2:58 | 2022-11-30 | 2022-12-02 |
 | [Göklerde Süzülürken](https://open.spotify.com/track/1OGVpaGlCnrjrR9UtlWMeP) | [Anıl Piyancı](https://open.spotify.com/artist/2u4xMsh0M2B7R8Wb3pEWae), [Kaan Boşnak](https://open.spotify.com/artist/03cvjFEHz8eGwYHq1L0Pp2) | [Göklerde Süzülürken](https://open.spotify.com/album/1SKF2eZTWPF2MamWPbliE9) | 3:10 | 2021-12-12 | 2022-01-08 |
 | [Gökyüzü Limit](https://open.spotify.com/track/0M32M4AGy7cSa9hk0PE6Rc) | [Ceg](https://open.spotify.com/artist/2QDHxmDObOuv9MCeBYiFtq) | [Gökyüzü Limit](https://open.spotify.com/album/391uE8gkkv8IrAAHHhEoV5) | 3:00 | 2022-01-29 | 2022-01-31 |
-| [Gökyüzünü Tutamam](https://open.spotify.com/track/4O9hcXs1ohtbw4xnMU8wfo) | [Can Koç](https://open.spotify.com/artist/3O6mcOK5C1hkMfwrSkNPMM) | [Gökyüzünü Tutamam](https://open.spotify.com/album/37iuuRYc7PaOzwN8pWfE8M) | 3:15 | 2022-03-23 |  |
+| [Gökyüzünü Tutamam](https://open.spotify.com/track/4O9hcXs1ohtbw4xnMU8wfo) | [Can Koç](https://open.spotify.com/artist/3O6mcOK5C1hkMfwrSkNPMM) | [Gökyüzünü Tutamam](https://open.spotify.com/album/37iuuRYc7PaOzwN8pWfE8M) | 3:15 | 2022-03-23 | 2023-04-17 |
 | [Gönder Gelsin](https://open.spotify.com/track/00qZC0FlaCP0BiefyKDqnt) | [Hande Ünsal](https://open.spotify.com/artist/6YapGsI8u59kfewJjjJ2LJ) | [Gönder Gelsin](https://open.spotify.com/album/2sSQdOlLIFPJPxXJPtTJgR) | 2:47 | 2021-06-24 | 2021-07-04 |
 | [GÖNDER GELSİN](https://open.spotify.com/track/6zUeLNZHEzENd8ts4V9yj2) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [C5MODE](https://open.spotify.com/album/7wl0FR75O4TFKi6QaM4gFu) | 2:06 | 2022-03-20 | 2022-08-06 |
 | [Göremediğin](https://open.spotify.com/track/2ZDj6yB2AnATAciTurevZd) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [Berk Erdemanar](https://open.spotify.com/artist/6JDTOIram8oMZVaF3GZPyw), [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Paradoks](https://open.spotify.com/album/4H5WUnotu7FGuDVhQhophq) | 3:37 | 2022-05-14 | 2022-05-21 |

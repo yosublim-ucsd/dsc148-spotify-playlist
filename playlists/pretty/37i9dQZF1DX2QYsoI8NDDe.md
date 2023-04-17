@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 
 > ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: Conexión Divina
 
-[Spotify](https://open.spotify.com/user/spotify) - 503,217 likes - 65 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 503,210 likes - 65 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 47 | [Pa' Dentro \- Versión Banda](https://open.spotify.com/track/10Uc1hSwdM9RG9zMbIeJSz) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Pa' Dentro](https://open.spotify.com/album/1KuZ2S6sbJF1BE3Uw70ncW) | 2:32 |
 | 48 | [Si Quieres Verme Llorar](https://open.spotify.com/track/7pPa674i4GIa5v5nzwssk4) | [Marisol Terrazas](https://open.spotify.com/artist/3PRQE4Qyt7YF67ElSNxYok) | [Ahora Va La Mía](https://open.spotify.com/album/6oqlFEjgYbCrsMBPiH0NID) | 3:26 |
 | 49 | [Te Me Sigues Antojando](https://open.spotify.com/track/1lmHmsQN66qHztoYgWrzZy) | [Vicky Terrazas](https://open.spotify.com/artist/4DklMZnSnGfzavNx8P02VG) | [Te Me Sigues Antojando](https://open.spotify.com/album/5MmoawkYlXuROoreINB1k6) | 3:05 |
-| 50 | [Muy Buena o Estúpida](https://open.spotify.com/track/6BvnqnmSLdAOVc3OxNziik) | [Karina Catalán](https://open.spotify.com/artist/21HVFYVJPwDz60bgjZ84Nx) | [Pa' Nosotras 8M](https://open.spotify.com/album/134W5TBnMj7LOuxl0LfT01) | 3:00 |
-| 51 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/6ex9LS8VuDouZ5hMI3Pk7G) | [Sandra Echeverria](https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31) | [Se Me Olvidó Otra Vez](https://open.spotify.com/album/1078OuldARhl2eXmoYAR0f) | 3:30 |
+| 50 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/6ex9LS8VuDouZ5hMI3Pk7G) | [Sandra Echeverria](https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31) | [Se Me Olvidó Otra Vez](https://open.spotify.com/album/1078OuldARhl2eXmoYAR0f) | 3:30 |
+| 51 | [Muy Buena o Estúpida](https://open.spotify.com/track/6BvnqnmSLdAOVc3OxNziik) | [Karina Catalán](https://open.spotify.com/artist/21HVFYVJPwDz60bgjZ84Nx) | [Pa' Nosotras 8M](https://open.spotify.com/album/134W5TBnMj7LOuxl0LfT01) | 3:00 |
 | 52 | [En Carne Viva](https://open.spotify.com/track/0576T1N3lsfD2ImwFrW1tO) | [Paola Preciado](https://open.spotify.com/artist/1zG5D5npyMFrKi3TQRXaNP), [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD) | [En Carne Viva](https://open.spotify.com/album/2MOtc63fVOckXi8FrW19Di) | 3:23 |
 | 53 | [G\. Blanco](https://open.spotify.com/track/3TjdNdUfbY6udjKPRZTUS8) | [GiGi](https://open.spotify.com/artist/4EK7mMUmKiGrNRC2ap3Dg8) | [G\. Blanco](https://open.spotify.com/album/0lF7zHfnHCcTOafAqm3TBZ) | 2:58 |
 | 54 | [Le Cale A Quien Le Cale](https://open.spotify.com/track/2nhM06RQQ8uY8s0JdCBKod) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Le Cale A Quien Le Cale](https://open.spotify.com/album/39KCoeSQExkWfgYx4UuvQn) | 2:32 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 60 | [Porque tengo ganas](https://open.spotify.com/track/1NhYdNcgFUaM8NxhQIUcr6) | [Marilyn Odessa](https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w) | [Porque tengo ganas](https://open.spotify.com/album/5HNGVRUvb5ivWwIIGMshw3) | 3:48 |
 | 61 | [Vanessa Guillen](https://open.spotify.com/track/6nvpeJpxKOp2XtDTiTP2KB) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Vanessa Guillen](https://open.spotify.com/album/7LdX5t2i8wNlXlixStYkiq) | 3:27 |
 | 62 | [Uno de los Buenos](https://open.spotify.com/track/4WNCgc6d0GZa18KjQSB81b) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Uno de los Buenos](https://open.spotify.com/album/2AvHahqBPECo32t4COxfak) | 2:56 |
-| 63 | [En Peligro De Extinción \- En Vivo](https://open.spotify.com/track/1jnccQsTSqFpNFriKasQi2) | [Grace Guillén](https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD) | [En Peligro De Extinción \(En Vivo\)](https://open.spotify.com/album/4V9YaFkLZlJHOkyhsVeHTD) | 3:32 |
-| 64 | [Ya Tengo Con Quien](https://open.spotify.com/track/6IM22e1Hz9RP3iKLaIuvaQ) | [Itzel Vida](https://open.spotify.com/artist/60PTHScdfpSSM2RcN0CpUC) | [Ya Tengo Con Quien](https://open.spotify.com/album/4RAkuPeLPfeHhujFrjiliU) | 3:43 |
+| 63 | [Ya Tengo Con Quien](https://open.spotify.com/track/6IM22e1Hz9RP3iKLaIuvaQ) | [Itzel Vida](https://open.spotify.com/artist/60PTHScdfpSSM2RcN0CpUC) | [Ya Tengo Con Quien](https://open.spotify.com/album/4RAkuPeLPfeHhujFrjiliU) | 3:43 |
+| 64 | [En Peligro De Extinción \- En Vivo](https://open.spotify.com/track/1jnccQsTSqFpNFriKasQi2) | [Grace Guillén](https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD) | [En Peligro De Extinción \(En Vivo\)](https://open.spotify.com/album/4V9YaFkLZlJHOkyhsVeHTD) | 3:32 |
 | 65 | [Piénsalo](https://open.spotify.com/track/2tVvId1E6EEz4F9VPQVlpY) | [Tania Mondragon](https://open.spotify.com/artist/1mHfQxhZrANBQkHBbD58mL) | [Piénsalo](https://open.spotify.com/album/2K2CxnJMFq7GArkg29Iksl) | 2:03 |
 
-Snapshot ID: `MTY4MTQ2MDg2NCwwMDAwMDAwMDY3NDg3NGJiYzNmYjlhYjc5YzM1ZTZiYTRmMGZiNWJi`
+Snapshot ID: `MTY4MTQ2MDg2NCwwMDAwMDAwMDM0ZGQzNTBjODc1MGRlMjU2NDQ5NjdlYmI0OWM0OTFj`

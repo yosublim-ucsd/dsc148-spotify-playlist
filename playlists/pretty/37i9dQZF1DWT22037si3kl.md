@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > Chique e confortável como a realeza do Trap\. Foto: Welisson
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,302 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,461 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 43 | [Silenciador](https://open.spotify.com/track/3biKlRmlBqKIFDEbTGGC1S) | [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Silenciador](https://open.spotify.com/album/0R7Z7BN0utY3V8e1MOWmxM) | 2:44 |
 | 44 | [Royal Salute](https://open.spotify.com/track/3v9Pr9ha7UezSYZAlpOx8o) | [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP), [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM) | [Royal Salute](https://open.spotify.com/album/4ytptXvi8DRm1jbXwoklwH) | 4:39 |
 | 45 | [Gucci Gucci](https://open.spotify.com/track/1QoVBtfK4XMo95WOwRQAI0) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Marvin MK](https://open.spotify.com/artist/7DlDVQY8FKFc9x03NNmtAA) | [Gucci Gucci](https://open.spotify.com/album/77BN0mLv2yvN3BKTWnAyrt) | 2:38 |
-| 46 | [Melhor Gestão](https://open.spotify.com/track/22yszoADkRxUuvJosP9hNg) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [éoTGL](https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx) | [Melhor Gestão](https://open.spotify.com/album/7cEPHEZOTSlTztMevEMXRT) | 3:26 |
-| 47 | [X6](https://open.spotify.com/track/0T6XMC5fc5H5OYabHKKhHR) | [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS), [Young Mafia](https://open.spotify.com/artist/6YTZRNJ6v8Vzf1rqP9UKx4) | [X6](https://open.spotify.com/album/7xPhyPrvseezAizSyAmxZm) | 3:53 |
-| 48 | [Desde Menorzin](https://open.spotify.com/track/5XvbaX4eAeNkScND1tInpr) | [Raffé](https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm) | [Jogo do Milhão](https://open.spotify.com/album/3eMouVrdJSJgk1Joj172dL) | 3:14 |
+| 46 | [Desde Menorzin](https://open.spotify.com/track/5XvbaX4eAeNkScND1tInpr) | [Raffé](https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm) | [Jogo do Milhão](https://open.spotify.com/album/3eMouVrdJSJgk1Joj172dL) | 3:14 |
+| 47 | [Melhor Gestão](https://open.spotify.com/track/22yszoADkRxUuvJosP9hNg) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [éoTGL](https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx) | [Melhor Gestão](https://open.spotify.com/album/7cEPHEZOTSlTztMevEMXRT) | 3:26 |
+| 48 | [X6](https://open.spotify.com/track/0T6XMC5fc5H5OYabHKKhHR) | [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS), [Young Mafia](https://open.spotify.com/artist/6YTZRNJ6v8Vzf1rqP9UKx4) | [X6](https://open.spotify.com/album/7xPhyPrvseezAizSyAmxZm) | 3:53 |
 | 49 | [NO WAY](https://open.spotify.com/track/7wprYFS7O5GZC3EOeDS8ce) | [NN3RD](https://open.spotify.com/artist/1Z03arRtzZ9BC49yiCQ839), [Lil Fuub](https://open.spotify.com/artist/47KYl2Wi5f5jmldU2F13An), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr) | [NO WAY](https://open.spotify.com/album/0huWAe5IoXvu2oP1VZEf1L) | 2:06 |
 | 50 | [3S](https://open.spotify.com/track/7IUjxiS0HGn45BePSWJDK7) | [YG Saull](https://open.spotify.com/artist/5JsdUwOF1q652VQpSdeC5Z), [SAWAN](https://open.spotify.com/artist/56G1wIDgBMECUHzUPaeS6Z), [Sailler YG](https://open.spotify.com/artist/6zqFwN56P0aZwZrUqNulML), [SLIME DREAMS](https://open.spotify.com/artist/1vrfZnY0gHgFpP4aOAbFAY) | [3S](https://open.spotify.com/album/6aAotKbE8C0TLA0RNFGwA4) | 2:53 |
 
-Snapshot ID: `MTY4MTQ0MTI2MCwwMDAwMDAwMDZhNjc2MjZlZjcwM2U1MzU5NGJkOTM2NzZlOTE2OTFk`
+Snapshot ID: `MTY4MTQ0MTI2MCwwMDAwMDAwMGUzNTlkMDIzMmFjMGFhOTRhZWU2YTgyNDdlMjE1YzY2`

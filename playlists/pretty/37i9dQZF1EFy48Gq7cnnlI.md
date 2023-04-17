@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0bmMTtKNwsDbQN40k0KTeW">Alex Hope</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 603 likes - 92 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 602 likes - 92 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 47 | [carefully](https://open.spotify.com/track/02gsGTeYxe3HK4hCYg05wf) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 4:45 |
 | 48 | [My Star](https://open.spotify.com/track/0B1Anle9jDveF16WMEAKpA) | [Tuka](https://open.spotify.com/artist/2D9eG3B30VlpA1uME35LeB) | [Life Death Time Eternal \(Deluxe\)](https://open.spotify.com/album/2HGUm5iqR9seycVVT6wRnC) | 3:43 |
 | 49 | [Pretty](https://open.spotify.com/track/4xkD4QOho9fKvCiIH5dUyu) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Stranger Songs](https://open.spotify.com/album/60cFgoDpP3PXeMDjWCGwz6) | 2:55 |
-| 50 | [Right By You](https://open.spotify.com/track/46YQVaev6fuTxtErmhzsPW) | [Tuka](https://open.spotify.com/artist/2D9eG3B30VlpA1uME35LeB) | [Life Death Time Eternal \(Deluxe\)](https://open.spotify.com/album/2HGUm5iqR9seycVVT6wRnC) | 3:48 |
-| 51 | [Scares Me](https://open.spotify.com/track/2dSU3oIyt2hz3L4s8JE2Hj) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Hardest Love](https://open.spotify.com/album/17cNWP1FoUxSTwr3ki8MnX) | 3:02 |
+| 50 | [Scares Me](https://open.spotify.com/track/2dSU3oIyt2hz3L4s8JE2Hj) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Hardest Love](https://open.spotify.com/album/17cNWP1FoUxSTwr3ki8MnX) | 3:02 |
+| 51 | [Right By You](https://open.spotify.com/track/46YQVaev6fuTxtErmhzsPW) | [Tuka](https://open.spotify.com/artist/2D9eG3B30VlpA1uME35LeB) | [Life Death Time Eternal \(Deluxe\)](https://open.spotify.com/album/2HGUm5iqR9seycVVT6wRnC) | 3:48 |
 | 52 | [Power](https://open.spotify.com/track/46IBtK4GyaD3fPv7gbyQyN) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Influence EP](https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv) | 4:14 |
 | 53 | [Red Moon](https://open.spotify.com/track/1tySOyCmgAS9iXrwaFafnq) | [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [Solastalgia](https://open.spotify.com/album/7rwzI6iThLPPhZWL07AgE4) | 3:29 |
 | 54 | [The Pause](https://open.spotify.com/track/18YzQn4Tgib169dXJ6gZlC) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Madness](https://open.spotify.com/album/2ploE2Xfb4u43TnK7OAos3) | 3:57 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 68 | [Tell Me Again](https://open.spotify.com/track/4sH7jSUl7CbvcLxYkT9W3L) | [Jamie Lawson](https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND) | [Happy Accidents \(Deluxe Edition\)](https://open.spotify.com/album/1WF9Uo8Qm6zjY6WPS6hyqD) | 4:15 |
 | 69 | [Keep Them Close 'Cause They Will Fuck You Too](https://open.spotify.com/track/2QZml0QtO2dkbhkoaBTUqW) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Hey, I'm Just like You](https://open.spotify.com/album/4tnkPLLedgamtrRCDdpqwX) | 3:14 |
 | 70 | [Brighter Days](https://open.spotify.com/track/2DfB76u7ww77XsBLD2IFFa) | [Taylor Henderson](https://open.spotify.com/artist/40usJiKvNyNHy3GAcNXSWx) | [Burnt Letters](https://open.spotify.com/album/35q6agQrUXirvl16mq8YAa) | 3:17 |
-| 71 | [We Don't Have Fun When We're Together Anymore](https://open.spotify.com/track/2cpUOU7bo8tVMom7cjzAgn) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Hey, I'm Just like You](https://open.spotify.com/album/4tnkPLLedgamtrRCDdpqwX) | 3:17 |
-| 72 | [In Pieces](https://open.spotify.com/track/5yxPPPKxyYnuom2CrWT78O) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [In Pieces](https://open.spotify.com/album/57eOzR6RxyfJLC3ggBQfRI) | 3:59 |
+| 71 | [In Pieces](https://open.spotify.com/track/5yxPPPKxyYnuom2CrWT78O) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [In Pieces](https://open.spotify.com/album/57eOzR6RxyfJLC3ggBQfRI) | 3:59 |
+| 72 | [We Don't Have Fun When We're Together Anymore](https://open.spotify.com/track/2cpUOU7bo8tVMom7cjzAgn) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Hey, I'm Just like You](https://open.spotify.com/album/4tnkPLLedgamtrRCDdpqwX) | 3:17 |
 | 73 | [Burnt Letters](https://open.spotify.com/track/43LKbeJBFLXlShCcfvwhOz) | [Taylor Henderson](https://open.spotify.com/artist/40usJiKvNyNHy3GAcNXSWx) | [Burnt Letters](https://open.spotify.com/album/35q6agQrUXirvl16mq8YAa) | 3:54 |
 | 74 | [Life On Earth?](https://open.spotify.com/track/5RpEqAXIsRvVwCJdVmufm9) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Two Songs For Now](https://open.spotify.com/album/1heHLpyhV8jv8dprQxJrki) | 2:10 |
 | 75 | [Drink the World Dry](https://open.spotify.com/track/36FjsJeZkpMnzZ92JoQeFw) | [Busby Marou](https://open.spotify.com/artist/4ETXyV9H1p2P1XYgXXTjiO) | [Postcards from the Shell House](https://open.spotify.com/album/7kqk8Kpo0gf5Yzx9fOQuE1) | 3:00 |
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 91 | [Lose Myself](https://open.spotify.com/track/5GiQpCHV469WHEbhef3EVB) | [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [Reset \(Deluxe Edition\)](https://open.spotify.com/album/6ggDEFRZIVCxKjgdqe1qxG) | 3:50 |
 | 92 | [Hold Back](https://open.spotify.com/track/7vsyU7jX2M53yOJtCIYSKh) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Run Where the Light Calls](https://open.spotify.com/album/6WHWwuMGt0T2sH2aZKnmiD) | 3:46 |
 
-Snapshot ID: `MjgwMjY3MzEsMDAwMDAwMDBmMzA2MjViYzZkZTViNTRmNjVjZmJmYmI0MWUyMTU5MA==`
+Snapshot ID: `MjgwMjgxNzEsMDAwMDAwMDBkNWI4NjIzOTE3ZTgxMDEwN2Q1ZjE3ZjdjYjM1ZWJhOA==`

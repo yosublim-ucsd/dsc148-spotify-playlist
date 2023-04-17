@@ -1,12 +1,12 @@
 {
   "description": "Sometimes a cover can be even better than the original. You decide. Cover: M\u00e5neskin",
-  "num_followers": 637658,
+  "num_followers": 637789,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTEzNjExMSwwMDAwMDAwMDYyYjgzMTk0N2VjMzIzZjhmODgwMzg5NGMxODhlNDkx",
+  "snapshot_id": "MTY4MTEzNjExMSwwMDAwMDAwMGFmOGM1YzMyMjdmODY2Yjc1MWQzZjc5ODUxYzAxMThi",
   "tracks": [
     {
       "added_at": "2023-04-07 20:06:50",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-04-07 20:06:50",
       "album": {
-        "name": "So Long, Astoria",
-        "url": "https://open.spotify.com/album/6prPsuR3shSCqcxPB84dkg"
-      },
-      "artists": [
-        {
-          "name": "The Ataris",
-          "url": "https://open.spotify.com/artist/3LC8PXXgk7YtAIobtjSdNi"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "The Boys of Summer",
-      "url": "https://open.spotify.com/track/5BmagRD7Thki6O1zZwbxBy"
-    },
-    {
-      "added_at": "2023-04-07 20:06:50",
-      "album": {
         "name": "Three Dollar Bill, Y'all $",
         "url": "https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 146480,
       "name": "Faith",
       "url": "https://open.spotify.com/track/5MYsvAONqcsIVOwu2HTQ3p"
+    },
+    {
+      "added_at": "2023-04-07 20:06:50",
+      "album": {
+        "name": "So Long, Astoria",
+        "url": "https://open.spotify.com/album/6prPsuR3shSCqcxPB84dkg"
+      },
+      "artists": [
+        {
+          "name": "The Ataris",
+          "url": "https://open.spotify.com/artist/3LC8PXXgk7YtAIobtjSdNi"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "The Boys of Summer",
+      "url": "https://open.spotify.com/track/5BmagRD7Thki6O1zZwbxBy"
     },
     {
       "added_at": "2023-04-07 20:06:50",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-04-07 20:06:50",
       "album": {
-        "name": "Burn the Ships",
-        "url": "https://open.spotify.com/album/27TGyW8JaXeWo971FPfKUi"
-      },
-      "artists": [
-        {
-          "name": "Blacktop Mojo",
-          "url": "https://open.spotify.com/artist/74YaL1CwdKlao06KrJyuX2"
-        }
-      ],
-      "duration_ms": 265476,
-      "name": "Dream On",
-      "url": "https://open.spotify.com/track/5Z3DfEnGBOKC5XMjNlJ8qm"
-    },
-    {
-      "added_at": "2023-04-07 20:06:50",
-      "album": {
         "name": "Life's Been Good",
         "url": "https://open.spotify.com/album/0eGpYPPLOXgHhFVuEn8jto"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 193950,
       "name": "Life's Been Good",
       "url": "https://open.spotify.com/track/7wtMcCrzuRDzaqp7QVyc0w"
+    },
+    {
+      "added_at": "2023-04-07 20:06:50",
+      "album": {
+        "name": "Burn the Ships",
+        "url": "https://open.spotify.com/album/27TGyW8JaXeWo971FPfKUi"
+      },
+      "artists": [
+        {
+          "name": "Blacktop Mojo",
+          "url": "https://open.spotify.com/artist/74YaL1CwdKlao06KrJyuX2"
+        }
+      ],
+      "duration_ms": 265476,
+      "name": "Dream On",
+      "url": "https://open.spotify.com/track/5Z3DfEnGBOKC5XMjNlJ8qm"
     },
     {
       "added_at": "2023-04-07 20:06:50",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2023-04-07 20:06:50",
       "album": {
+        "name": "Origin of Symmetry",
+        "url": "https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 198800,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/5Yj4AP0JGQWierBFKdKVyS"
+    },
+    {
+      "added_at": "2023-04-07 20:06:50",
+      "album": {
         "name": "Someone You Loved",
         "url": "https://open.spotify.com/album/64z1smw6o7hV7OJTzD3Rj7"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 181695,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/6TeB7j56k4AbELOl3G4zfj"
-    },
-    {
-      "added_at": "2023-04-07 20:06:50",
-      "album": {
-        "name": "Origin of Symmetry",
-        "url": "https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 198800,
-      "name": "Feeling Good",
-      "url": "https://open.spotify.com/track/5Yj4AP0JGQWierBFKdKVyS"
     },
     {
       "added_at": "2023-04-07 20:06:50",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-04-07 20:06:50",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2CrS7PVRbhHm0DPqIDm8fY"
-      },
-      "artists": [
-        {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
-        }
-      ],
-      "duration_ms": 284935,
-      "name": "The Only Exception - Spotify Single",
-      "url": "https://open.spotify.com/track/3aemIcBosf7udts37BAvXx"
-    },
-    {
-      "added_at": "2023-04-07 20:06:50",
-      "album": {
         "name": "Wild Card/A Word To The Wise",
         "url": "https://open.spotify.com/album/3YpA1wk8b1yLCYBDb8PS0r"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 187826,
       "name": "Stand By Me",
       "url": "https://open.spotify.com/track/4jpYBxEFpa1Rdw1yAXVSAZ"
+    },
+    {
+      "added_at": "2023-04-07 20:06:50",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2CrS7PVRbhHm0DPqIDm8fY"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "duration_ms": 284935,
+      "name": "The Only Exception - Spotify Single",
+      "url": "https://open.spotify.com/track/3aemIcBosf7udts37BAvXx"
     },
     {
       "added_at": "2023-04-07 20:06:50",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-04-07 20:06:50",
       "album": {
-        "name": "Eleanor Rigby",
-        "url": "https://open.spotify.com/album/3p8kJcKYki4nSdAwr9P9Z5"
-      },
-      "artists": [
-        {
-          "name": "Palaye Royale",
-          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
-        }
-      ],
-      "duration_ms": 177413,
-      "name": "Eleanor Rigby",
-      "url": "https://open.spotify.com/track/4Etfey30ejf9x6zzUwipdz"
-    },
-    {
-      "added_at": "2023-04-07 20:06:50",
-      "album": {
         "name": "ReAniMate 2.0: The CoVeRs eP",
         "url": "https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 188573,
       "name": "Get Lucky",
       "url": "https://open.spotify.com/track/66PgT7clBWAuQlMqoUL0YU"
+    },
+    {
+      "added_at": "2023-04-07 20:06:50",
+      "album": {
+        "name": "Eleanor Rigby",
+        "url": "https://open.spotify.com/album/3p8kJcKYki4nSdAwr9P9Z5"
+      },
+      "artists": [
+        {
+          "name": "Palaye Royale",
+          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
+        }
+      ],
+      "duration_ms": 177413,
+      "name": "Eleanor Rigby",
+      "url": "https://open.spotify.com/track/4Etfey30ejf9x6zzUwipdz"
     },
     {
       "added_at": "2023-04-07 20:06:50",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-04-07 20:06:50",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6WFgRdGLClgQWNNWgokbAD"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 152377,
-      "name": "My Sharona - Live Session from Abbey Road Studios, London, UK",
-      "url": "https://open.spotify.com/track/361ef8N2HYBcKgiU11kkfH"
-    },
-    {
-      "added_at": "2023-04-07 20:06:50",
-      "album": {
         "name": "I Think We're Alone Now",
         "url": "https://open.spotify.com/album/2FYNBNvvPgrUYC87Lqvz6W"
       },
@@ -1595,6 +1579,22 @@
     {
       "added_at": "2023-04-07 20:06:50",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6WFgRdGLClgQWNNWgokbAD"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 152377,
+      "name": "My Sharona - Live Session from Abbey Road Studios, London, UK",
+      "url": "https://open.spotify.com/track/361ef8N2HYBcKgiU11kkfH"
+    },
+    {
+      "added_at": "2023-04-07 20:06:50",
+      "album": {
         "name": "For What It's Worth",
         "url": "https://open.spotify.com/album/6oG7IxA60Uvzbki5vExPs9"
       },
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-04-07 20:06:50",
       "album": {
-        "name": "I Can't Give Everything Away",
-        "url": "https://open.spotify.com/album/58NC5JxuV17ealBQ1lZ0tj"
-      },
-      "artists": [
-        {
-          "name": "Spoon",
-          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
-        }
-      ],
-      "duration_ms": 235680,
-      "name": "I Can't Give Everything Away",
-      "url": "https://open.spotify.com/track/5uLtfWEqn5ngoWySZkI9ii"
-    },
-    {
-      "added_at": "2023-04-07 20:06:50",
-      "album": {
         "name": "Stairway to Nick John",
         "url": "https://open.spotify.com/album/1fifpfPsjplmA61cZcxN1e"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 485018,
       "name": "Stairway to Heaven",
       "url": "https://open.spotify.com/track/0il7xIzXf94gNmYw2tnsUI"
+    },
+    {
+      "added_at": "2023-04-07 20:06:50",
+      "album": {
+        "name": "I Can't Give Everything Away",
+        "url": "https://open.spotify.com/album/58NC5JxuV17ealBQ1lZ0tj"
+      },
+      "artists": [
+        {
+          "name": "Spoon",
+          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
+        }
+      ],
+      "duration_ms": 235680,
+      "name": "I Can't Give Everything Away",
+      "url": "https://open.spotify.com/track/5uLtfWEqn5ngoWySZkI9ii"
     },
     {
       "added_at": "2023-04-07 20:06:50",

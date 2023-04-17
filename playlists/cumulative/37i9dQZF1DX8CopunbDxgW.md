@@ -4,7 +4,7 @@
 
 > The best indie dance tracks of the moment\. Cover: Yaeji
 
-769 songs - 2 day 2 hr 33 min
+770 songs - 2 day 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [CooCool](https://open.spotify.com/track/0C8jkmcNV7VxyHemnI917F) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [CooCool](https://open.spotify.com/album/4oPrQ3KXGrzE2DxJVnAU7F) | 4:31 | 2023-03-10 |  |
 | [Corsica '80](https://open.spotify.com/track/29ciyzjusw1w1UL22GKS67) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O) | [Corsica '80](https://open.spotify.com/album/0TW4O57pYbKTXblJlctE1u) | 4:23 | 2021-08-27 | 2022-05-11 |
 | [Cracker Island \(feat\. Thundercat\)](https://open.spotify.com/track/2W3ZpQg9i6lE6kmHbcdu9N) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Cracker Island \(feat\. Thundercat\)](https://open.spotify.com/album/3488fiYQcGSfkKKpr3ttCD) | 3:33 | 2022-06-24 | 2023-01-06 |
+| [Crush feat\. Erika de Casier](https://open.spotify.com/track/4F3Xx2vBcZ0jq2JD8Bv9ZQ) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Nymph\_o](https://open.spotify.com/album/28MZKxXQKX89mr1Y9g9d3k) | 2:53 | 2023-04-14 |  |
 | [Cry Again](https://open.spotify.com/track/5LfYC98Zc9hsPTPzz9gltB) | [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i), [Gavriel](https://open.spotify.com/artist/53wGx0J5eu3GdlChMeO8RJ) | [Cry Again](https://open.spotify.com/album/1AnstNZSetOGm24TQA5GHB) | 3:02 | 2021-12-24 | 2022-02-10 |
 | [Dance When You Cry](https://open.spotify.com/track/67yOsRrqyxkSttB5y3dC6T) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Dance When You Cry](https://open.spotify.com/album/5SYrSxBRPN8VDdzDf2IshW) | 2:52 | 2022-05-20 | 2023-01-29 |
 | [Danielle \(smile on my face\)](https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Danielle \(smile on my face\)](https://open.spotify.com/album/7xni0tZQ8q2rTHkIeBYr1Y) | 3:21 | 2022-09-16 | 2023-04-09 |
@@ -499,7 +500,7 @@
 | [Ocean](https://open.spotify.com/track/1qOWl2foJb594pmyCtxOqK) | [Effemar](https://open.spotify.com/artist/3QD8Op2asIft2YDqX154NB) | [Ocean](https://open.spotify.com/album/4ugI62TomlTqbBQXVb4Zn8) | 3:40 | 2022-04-08 | 2022-05-19 |
 | [Off You](https://open.spotify.com/track/3b2pfV1sGo8ni5lhF6IQRM) | [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV), [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX) | [Off You](https://open.spotify.com/album/2ZyTafX0z6gvqgf3nuVgJo) | 3:21 | 2021-08-06 | 2022-04-16 |
 | [Oh, Lover \- Edit](https://open.spotify.com/track/4WnASAjxOLAW4J4ZeAtKq3) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [Oh, Lover](https://open.spotify.com/album/3gk7WjSt7KKF6SNezrQc4I) | 3:33 | 2022-08-19 | 2022-10-18 |
-| [Omen \(feat\. Lyrah\)](https://open.spotify.com/track/4noLUZORDAJYCOzkN5OTBH) | [Holiday87](https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [Omen \(feat\. Lyrah\)](https://open.spotify.com/album/6Hj2w3WVnDeCL4Tvhffhll) | 3:44 | 2022-09-09 |  |
+| [Omen \(feat\. Lyrah\)](https://open.spotify.com/track/4noLUZORDAJYCOzkN5OTBH) | [Holiday87](https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [Omen \(feat\. Lyrah\)](https://open.spotify.com/album/6Hj2w3WVnDeCL4Tvhffhll) | 3:44 | 2022-09-09 | 2023-04-17 |
 | [On My Mind \- Short Version](https://open.spotify.com/track/72f2k9lWpfT95o7KaWkj7Z) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [On My Mind / About U](https://open.spotify.com/album/556C4ye37wUq6bKWjR14vg) | 3:57 | 2021-08-06 | 2022-07-27 |
 | [On My Way](https://open.spotify.com/track/284dZP2uHiNlX2NitwREww) | [The Kount](https://open.spotify.com/artist/24OnVX6EYwtu7P3jpMenPY), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ) | [On My Way](https://open.spotify.com/album/62ei8HXiUIMF8QNG0AbZiT) | 2:41 | 2022-02-11 | 2022-07-19 |
 | [One More](https://open.spotify.com/track/01irEqIoLSxEZxlvCxP9wf) | [Reznik](https://open.spotify.com/artist/702smBYudOzBmjHChanIuZ), [good guy mikesh](https://open.spotify.com/artist/5F1botl1yQKgaFE4AFz4ZH) | [One More EP](https://open.spotify.com/album/5kTyDrG1kqjuriepThjxWA) | 7:08 | 2022-12-09 | 2023-02-11 |

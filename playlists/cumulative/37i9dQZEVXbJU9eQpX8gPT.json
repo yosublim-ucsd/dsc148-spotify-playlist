@@ -5829,6 +5829,28 @@
     },
     {
       "album": {
+        "name": "How I Hear it",
+        "url": "https://open.spotify.com/album/3IXrAMo3UkoTb1oVmCVINn"
+      },
+      "artists": [
+        {
+          "name": "Sam Silver",
+          "url": "https://open.spotify.com/artist/1hhCo32XBkw8H0iqTSnkx0"
+        },
+        {
+          "name": "Paris Bryant",
+          "url": "https://open.spotify.com/artist/4Ng21p92TPTkeAcXJlSB2u"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206548,
+      "name": "Feeling Like This",
+      "url": "https://open.spotify.com/track/1cvj0Nu3iwA4Yyd2IX26fL"
+    },
+    {
+      "album": {
         "name": "Fetty Wap",
         "url": "https://open.spotify.com/album/3FU8qkXDboBsrASS7VFIqK"
       },
@@ -10298,7 +10320,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 212241,
       "name": "Like Crazy",
       "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
@@ -11688,7 +11710,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 214360,
       "name": "Mghayer",
       "url": "https://open.spotify.com/track/5QhnCB5kD34sYkvHviU0yz"
@@ -14711,6 +14733,28 @@
     },
     {
       "album": {
+        "name": "How I Hear it",
+        "url": "https://open.spotify.com/album/3IXrAMo3UkoTb1oVmCVINn"
+      },
+      "artists": [
+        {
+          "name": "Sam Silver",
+          "url": "https://open.spotify.com/artist/1hhCo32XBkw8H0iqTSnkx0"
+        },
+        {
+          "name": "A$AP Twelvyy",
+          "url": "https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200341,
+      "name": "Poems",
+      "url": "https://open.spotify.com/track/5Y0m4WXHMvaVFCOeqOnzEQ"
+    },
+    {
+      "album": {
         "name": "Porfavor",
         "url": "https://open.spotify.com/album/36eW5E8tOgwEXVSATUCHME"
       },
@@ -17069,6 +17113,28 @@
     },
     {
       "album": {
+        "name": "How I Hear it",
+        "url": "https://open.spotify.com/album/3IXrAMo3UkoTb1oVmCVINn"
+      },
+      "artists": [
+        {
+          "name": "Sam Silver",
+          "url": "https://open.spotify.com/artist/1hhCo32XBkw8H0iqTSnkx0"
+        },
+        {
+          "name": "LIFEOFTHOM",
+          "url": "https://open.spotify.com/artist/3Lp8bQ9iwGj3ndkd1Wn2Me"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188864,
+      "name": "Swimmin",
+      "url": "https://open.spotify.com/track/2HeMIZbi9gI0EgljgMxijh"
+    },
+    {
+      "album": {
         "name": "R\u00e9elle vie 3.0",
         "url": "https://open.spotify.com/album/4nqsV5gavODGyZ2lx2M2tw"
       },
@@ -18886,7 +18952,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 190515,
       "name": "WAYLE",
       "url": "https://open.spotify.com/track/0jCNrDbEbpRbuDiGcKa907"

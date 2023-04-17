@@ -1,12 +1,12 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 146416,
+  "num_followers": 146478,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDgzNjQ2MCwwMDAwMDAwMGM3MzcwYzkzMDlkNzRlZTEwODYzNzQ1YWI2ZGJhNzM0",
+  "snapshot_id": "MTY4MDgzNjQ2MCwwMDAwMDAwMDA5ODQzNDhjNmUzNzRiYzgyMTU4Nzg0NGExYzg3NDUx",
   "tracks": [
     {
       "added_at": "2023-03-31 03:01:00",
@@ -97,7 +97,7 @@
       "url": "https://open.spotify.com/track/0FBV7lozkqCSuV2q24n43x"
     },
     {
-      "added_at": "2023-04-16 01:07:08",
+      "added_at": "2023-04-17 00:25:25",
       "album": {
         "name": "Recinto",
         "url": "https://open.spotify.com/album/2EK43yizJmRkxIxzsBPLWA"
@@ -599,6 +599,26 @@
     {
       "added_at": "2023-03-31 03:01:00",
       "album": {
+        "name": "Mensagem",
+        "url": "https://open.spotify.com/album/2NPc3kgr2YdiElHG3CKA26"
+      },
+      "artists": [
+        {
+          "name": "Dody",
+          "url": "https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs"
+        },
+        {
+          "name": "lowz",
+          "url": "https://open.spotify.com/artist/03t6CvukafsNbQU1OD2n3q"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Mensagem",
+      "url": "https://open.spotify.com/track/7kfXIHFbBINJeUtXaPodZw"
+    },
+    {
+      "added_at": "2023-03-31 03:01:00",
+      "album": {
         "name": "Ac\u00fastico Altamira #8 - Leonina",
         "url": "https://open.spotify.com/album/6hIMQijH2Wz9T5sPDE2gy0"
       },
@@ -631,26 +651,6 @@
       "duration_ms": 282666,
       "name": "Ac\u00fastico Altamira #8 - Leonina",
       "url": "https://open.spotify.com/track/6YMi3tJujGfeXWmA9KRDhC"
-    },
-    {
-      "added_at": "2023-03-31 03:01:00",
-      "album": {
-        "name": "Mensagem",
-        "url": "https://open.spotify.com/album/2NPc3kgr2YdiElHG3CKA26"
-      },
-      "artists": [
-        {
-          "name": "Dody",
-          "url": "https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs"
-        },
-        {
-          "name": "lowz",
-          "url": "https://open.spotify.com/artist/03t6CvukafsNbQU1OD2n3q"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Mensagem",
-      "url": "https://open.spotify.com/track/7kfXIHFbBINJeUtXaPodZw"
     },
     {
       "added_at": "2023-03-31 03:01:00",
@@ -719,30 +719,6 @@
     {
       "added_at": "2023-03-31 03:01:00",
       "album": {
-        "name": "Conex\u00e3o",
-        "url": "https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i"
-      },
-      "artists": [
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        },
-        {
-          "name": "Luan LDS",
-          "url": "https://open.spotify.com/artist/09zWmRrnBdacbqJUkysC3J"
-        }
-      ],
-      "duration_ms": 143448,
-      "name": "Conex\u00e3o",
-      "url": "https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva"
-    },
-    {
-      "added_at": "2023-03-31 03:01:00",
-      "album": {
         "name": "Original MTK #2 - Se Voc\u00ea Vier",
         "url": "https://open.spotify.com/album/420rc6s3uRgnBnogGrjAfP"
       },
@@ -763,6 +739,30 @@
       "duration_ms": 264547,
       "name": "Original MTK #2 - Se Voc\u00ea Vier",
       "url": "https://open.spotify.com/track/6GOV45NixAW87unGHpS3mE"
+    },
+    {
+      "added_at": "2023-03-31 03:01:00",
+      "album": {
+        "name": "Conex\u00e3o",
+        "url": "https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "Luan LDS",
+          "url": "https://open.spotify.com/artist/09zWmRrnBdacbqJUkysC3J"
+        }
+      ],
+      "duration_ms": 143448,
+      "name": "Conex\u00e3o",
+      "url": "https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva"
     },
     {
       "added_at": "2023-03-31 03:01:00",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2023-03-31 03:01:00",
       "album": {
+        "name": "Stories",
+        "url": "https://open.spotify.com/album/6bWqWfQkNVdcfzoCWTll2R"
+      },
+      "artists": [
+        {
+          "name": "24por7",
+          "url": "https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Stories",
+      "url": "https://open.spotify.com/track/0ooXXsObAmmfgYEB9dlIdc"
+    },
+    {
+      "added_at": "2023-03-31 03:01:00",
+      "album": {
         "name": "Mais uma Chance",
         "url": "https://open.spotify.com/album/28jyVUfpa6fxNk2pToC92M"
       },
@@ -1023,18 +1039,22 @@
     {
       "added_at": "2023-03-31 03:01:00",
       "album": {
-        "name": "Stories",
-        "url": "https://open.spotify.com/album/6bWqWfQkNVdcfzoCWTll2R"
+        "name": "Mist\u00e9rio",
+        "url": "https://open.spotify.com/album/3kBRkJc0JKJ7Cb9PRbs5HG"
       },
       "artists": [
         {
-          "name": "24por7",
-          "url": "https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF"
+          "name": "Knust",
+          "url": "https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ"
+        },
+        {
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
         }
       ],
-      "duration_ms": 128000,
-      "name": "Stories",
-      "url": "https://open.spotify.com/track/0ooXXsObAmmfgYEB9dlIdc"
+      "duration_ms": 142105,
+      "name": "Mist\u00e9rio",
+      "url": "https://open.spotify.com/track/2syPgLsmPg8dBNvqdKhCnc"
     },
     {
       "added_at": "2023-03-31 03:01:00",
@@ -1055,26 +1075,6 @@
       "duration_ms": 193620,
       "name": "Mapa Astral",
       "url": "https://open.spotify.com/track/29FiIrTO3Q8Hr88G35M6F7"
-    },
-    {
-      "added_at": "2023-03-31 03:01:00",
-      "album": {
-        "name": "Mist\u00e9rio",
-        "url": "https://open.spotify.com/album/3kBRkJc0JKJ7Cb9PRbs5HG"
-      },
-      "artists": [
-        {
-          "name": "Knust",
-          "url": "https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ"
-        },
-        {
-          "name": "CMK",
-          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
-        }
-      ],
-      "duration_ms": 142105,
-      "name": "Mist\u00e9rio",
-      "url": "https://open.spotify.com/track/2syPgLsmPg8dBNvqdKhCnc"
     },
     {
       "added_at": "2023-03-31 03:01:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-03-31 03:01:00",
       "album": {
-        "name": "ELA ME TEM",
-        "url": "https://open.spotify.com/album/6G9FBaWvnwKHkiqXOyC2AN"
-      },
-      "artists": [
-        {
-          "name": "Ikki",
-          "url": "https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T"
-        }
-      ],
-      "duration_ms": 147200,
-      "name": "ELA ME TEM",
-      "url": "https://open.spotify.com/track/6TcGk4u9blTVO5bOmtOyFa"
-    },
-    {
-      "added_at": "2023-03-31 03:01:00",
-      "album": {
         "name": "Doses",
         "url": "https://open.spotify.com/album/7iPcwRcW1XYDiElkwZzqEd"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 206210,
       "name": "Doses",
       "url": "https://open.spotify.com/track/6wlLKk88zURUCDZqKwwqFr"
+    },
+    {
+      "added_at": "2023-03-31 03:01:00",
+      "album": {
+        "name": "ELA ME TEM",
+        "url": "https://open.spotify.com/album/6G9FBaWvnwKHkiqXOyC2AN"
+      },
+      "artists": [
+        {
+          "name": "Ikki",
+          "url": "https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T"
+        }
+      ],
+      "duration_ms": 147200,
+      "name": "ELA ME TEM",
+      "url": "https://open.spotify.com/track/6TcGk4u9blTVO5bOmtOyFa"
     },
     {
       "added_at": "2023-03-31 03:01:00",

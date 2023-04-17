@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2000s.",
-  "num_followers": 55486,
+  "num_followers": 55586,
   "original_name": "00s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjQ0MiwwMDAwMDAwMDgyYjdjMTFhMGRhZGIwODA1Yzg0OTZjNzZkMTY4ODNi",
+  "snapshot_id": "MTY1MDkxNjQ0MiwwMDAwMDAwMDJlZjM2Yjc4MTA4ODg1Mjk0Y2ZiODFiZDA4NjBmNmY4",
   "tracks": [
     {
       "added_at": "2022-02-04 22:01:34",
@@ -187,22 +187,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "The Shepherd's Dog",
-        "url": "https://open.spotify.com/album/3fzjXU2SSKero9gVMcPivX"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 241917,
-      "name": "Flightless Bird, American Mouth",
-      "url": "https://open.spotify.com/track/1fEGtTZjrjJW8eUeewnNJR"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Sigh No More",
         "url": "https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 217984,
       "name": "The Cave",
       "url": "https://open.spotify.com/track/3vUn7FE3ZaQgJmkhIrIirF"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "The Shepherd's Dog",
+        "url": "https://open.spotify.com/album/3fzjXU2SSKero9gVMcPivX"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 241917,
+      "name": "Flightless Bird, American Mouth",
+      "url": "https://open.spotify.com/track/1fEGtTZjrjJW8eUeewnNJR"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -783,18 +783,18 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "War Elephant",
-        "url": "https://open.spotify.com/album/0mOjYGdxvpusOVunsElaCq"
+        "name": "O",
+        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
       },
       "artists": [
         {
-          "name": "Deer Tick",
-          "url": "https://open.spotify.com/artist/3rT8xTwSOMDURtWpPyoKIO"
+          "name": "Damien Rice",
+          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
         }
       ],
-      "duration_ms": 181466,
-      "name": "Baltimore Blues No. 1",
-      "url": "https://open.spotify.com/track/3Dy8QNZ77cre9ThUPRguy0"
+      "duration_ms": 286653,
+      "name": "The Blower's Daughter",
+      "url": "https://open.spotify.com/track/4B2lJinAkeNLSJjcq3dg8Q"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -815,18 +815,18 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "O",
-        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
+        "name": "War Elephant",
+        "url": "https://open.spotify.com/album/0mOjYGdxvpusOVunsElaCq"
       },
       "artists": [
         {
-          "name": "Damien Rice",
-          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+          "name": "Deer Tick",
+          "url": "https://open.spotify.com/artist/3rT8xTwSOMDURtWpPyoKIO"
         }
       ],
-      "duration_ms": 286653,
-      "name": "The Blower's Daughter",
-      "url": "https://open.spotify.com/track/4B2lJinAkeNLSJjcq3dg8Q"
+      "duration_ms": 181466,
+      "name": "Baltimore Blues No. 1",
+      "url": "https://open.spotify.com/track/3Dy8QNZ77cre9ThUPRguy0"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "The Trials of Van Occupanther",
-        "url": "https://open.spotify.com/album/034XwDisEPdZwJWTOaUaVs"
-      },
-      "artists": [
-        {
-          "name": "Midlake",
-          "url": "https://open.spotify.com/artist/4YsP5zmteLQ7etNjHAOu30"
-        }
-      ],
-      "duration_ms": 286880,
-      "name": "Roscoe",
-      "url": "https://open.spotify.com/track/01qJhVPCHFFR6wJ5ptyw17"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Let It Die",
         "url": "https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 224506,
       "name": "Mushaboom",
       "url": "https://open.spotify.com/track/66olzBxCgKlpFRB1LKH5pO"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "The Trials of Van Occupanther",
+        "url": "https://open.spotify.com/album/034XwDisEPdZwJWTOaUaVs"
+      },
+      "artists": [
+        {
+          "name": "Midlake",
+          "url": "https://open.spotify.com/artist/4YsP5zmteLQ7etNjHAOu30"
+        }
+      ],
+      "duration_ms": 286880,
+      "name": "Roscoe",
+      "url": "https://open.spotify.com/track/01qJhVPCHFFR6wJ5ptyw17"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Time (The Revelator)",
-        "url": "https://open.spotify.com/album/55FP2ypQcghszSqylyBRbp"
-      },
-      "artists": [
-        {
-          "name": "Gillian Welch",
-          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Everything Is Free",
-      "url": "https://open.spotify.com/track/0H8ukN2MIW2iNvqJP1kb4O"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "The Crane Wife",
         "url": "https://open.spotify.com/album/4qvFBtRrwbSgoH3nyVlTCp"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 313600,
       "name": "Sons & Daughters",
       "url": "https://open.spotify.com/track/721tATaNQPPGSuC3dYEI3h"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Time (The Revelator)",
+        "url": "https://open.spotify.com/album/55FP2ypQcghszSqylyBRbp"
+      },
+      "artists": [
+        {
+          "name": "Gillian Welch",
+          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Everything Is Free",
+      "url": "https://open.spotify.com/track/0H8ukN2MIW2iNvqJP1kb4O"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Hospice",
-        "url": "https://open.spotify.com/album/6fFp2F91noBeodV88bRwTD"
-      },
-      "artists": [
-        {
-          "name": "The Antlers",
-          "url": "https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s"
-        }
-      ],
-      "duration_ms": 311240,
-      "name": "Kettering",
-      "url": "https://open.spotify.com/track/453spNn4mGdYErYt3rGhSX"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Volume One",
         "url": "https://open.spotify.com/album/2qIu18hUz5c6BzY3Rh6fIJ"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 150506,
       "name": "Why Do You Let Me Stay Here?",
       "url": "https://open.spotify.com/track/1ZHYoYfWMYnGAzlwOi2XP4"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Hospice",
+        "url": "https://open.spotify.com/album/6fFp2F91noBeodV88bRwTD"
+      },
+      "artists": [
+        {
+          "name": "The Antlers",
+          "url": "https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s"
+        }
+      ],
+      "duration_ms": 311240,
+      "name": "Kettering",
+      "url": "https://open.spotify.com/track/453spNn4mGdYErYt3rGhSX"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Convict Pool",
-        "url": "https://open.spotify.com/album/2OHPi5M4JlhCTlA5zzUXoq"
-      },
-      "artists": [
-        {
-          "name": "Calexico",
-          "url": "https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ"
-        }
-      ],
-      "duration_ms": 204480,
-      "name": "Alone Again Or",
-      "url": "https://open.spotify.com/track/5cG90AasL6Fd9uTwAMF1tS"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Cassadaga",
         "url": "https://open.spotify.com/album/12g6dnsHEdhzS3BGB4CefB"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 256262,
       "name": "Four Winds",
       "url": "https://open.spotify.com/track/7iV2w73aB3oL7UWgEAWuiN"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Convict Pool",
+        "url": "https://open.spotify.com/album/2OHPi5M4JlhCTlA5zzUXoq"
+      },
+      "artists": [
+        {
+          "name": "Calexico",
+          "url": "https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ"
+        }
+      ],
+      "duration_ms": 204480,
+      "name": "Alone Again Or",
+      "url": "https://open.spotify.com/track/5cG90AasL6Fd9uTwAMF1tS"
     },
     {
       "added_at": "2022-02-04 22:01:34",

@@ -489,6 +489,28 @@
     },
     {
       "album": {
+        "name": "Bad Things",
+        "url": "https://open.spotify.com/album/2S6zhG10NHbiK5F5pkoQoz"
+      },
+      "artists": [
+        {
+          "name": "Not The Father",
+          "url": "https://open.spotify.com/artist/2RGCVHkfmLPJcZVrPBsvY0"
+        },
+        {
+          "name": "Fox'd",
+          "url": "https://open.spotify.com/artist/5AyexHM8AroaTVBLFEKiKS"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168557,
+      "name": "Bad Things",
+      "url": "https://open.spotify.com/track/3DyZ2YzyCsfF5BPocC8bDv"
+    },
+    {
+      "album": {
         "name": "Badman",
         "url": "https://open.spotify.com/album/7sxpxDeIV46p5amup1Wrcq"
       },
@@ -5454,7 +5476,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 158000,
       "name": "My City Never Sleeps",
       "url": "https://open.spotify.com/track/4iYjAC7Rityu6zyahF3nH0"

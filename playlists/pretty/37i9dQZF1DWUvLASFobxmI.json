@@ -1,12 +1,12 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. La Receta en portada.",
-  "num_followers": 387991,
+  "num_followers": 388206,
   "original_name": "Norte\u00f1o 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ1MjAwMCwwMDAwMDAwMDYwZWVhYTA3NzgyZmUyN2JhOTZkYTA2OGNlN2JkMTUy",
+  "snapshot_id": "MTY4MTQ1MjAwMCwwMDAwMDAwMDFhMmZhZjE2MzA5MzljNzk0NTVlYzE1ZGIwN2FmMDA2",
   "tracks": [
     {
       "added_at": "2023-03-31 20:27:10",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Enloquecido",
-        "url": "https://open.spotify.com/album/7pm3bU5WKxGhRI5uyfOKuI"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 212915,
-      "name": "Enloquecido",
-      "url": "https://open.spotify.com/track/3T5F6ulZvDzBQwq3wS31xZ"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Ya Me Entere (En Vivo)",
         "url": "https://open.spotify.com/album/0P74VgufHFNWnZrrn9Xhpe"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 222680,
       "name": "Ya Me Entere - En Vivo",
       "url": "https://open.spotify.com/track/4FjYDIaDlu3xf8JQrfgTBW"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Enloquecido",
+        "url": "https://open.spotify.com/album/7pm3bU5WKxGhRI5uyfOKuI"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 212915,
+      "name": "Enloquecido",
+      "url": "https://open.spotify.com/track/3T5F6ulZvDzBQwq3wS31xZ"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -827,6 +827,26 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "M.L.P",
+        "url": "https://open.spotify.com/album/2Y6PFvErT2EPBIVo7RMXK1"
+      },
+      "artists": [
+        {
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+        },
+        {
+          "name": "Jaziel Avilez",
+          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
+        }
+      ],
+      "duration_ms": 211961,
+      "name": "M.L.P",
+      "url": "https://open.spotify.com/track/0oYk83uZu4S5ROlM8VZMGl"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Tan Bella y Tan Presumida",
         "url": "https://open.spotify.com/album/52pEVRQMA45DSmfmNc8ici"
       },
@@ -839,22 +859,6 @@
       "duration_ms": 181264,
       "name": "Tan Bella y Tan Presumida",
       "url": "https://open.spotify.com/track/2fKPwiW1FJLH3JbB1DmR0K"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Si Es Posible",
-        "url": "https://open.spotify.com/album/1PogP2XZKpfOBGgIuGk9Iu"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 255401,
-      "name": "Si Es Posible",
-      "url": "https://open.spotify.com/track/1uQhUupvikvunqykML6NPd"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -875,22 +879,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "M.L.P",
-        "url": "https://open.spotify.com/album/2Y6PFvErT2EPBIVo7RMXK1"
+        "name": "Si Es Posible",
+        "url": "https://open.spotify.com/album/1PogP2XZKpfOBGgIuGk9Iu"
       },
       "artists": [
         {
-          "name": "Grupo Clasificado",
-          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
-        },
-        {
-          "name": "Jaziel Avilez",
-          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 211961,
-      "name": "M.L.P",
-      "url": "https://open.spotify.com/track/0oYk83uZu4S5ROlM8VZMGl"
+      "duration_ms": 255401,
+      "name": "Si Es Posible",
+      "url": "https://open.spotify.com/track/1uQhUupvikvunqykML6NPd"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -947,26 +947,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Chorumbo",
-        "url": "https://open.spotify.com/album/6RPOQC6rd85F9Nuxp5W2Fh"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        },
-        {
-          "name": "Hans el Oso",
-          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
-        }
-      ],
-      "duration_ms": 200141,
-      "name": "Chorumbo",
-      "url": "https://open.spotify.com/track/6LQn8zFYS44ak3qAUYsp8b"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Huapango Amor Ranchero",
         "url": "https://open.spotify.com/album/40EvvWuBGio70bkcFLk6Fl"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 199314,
       "name": "Huapango Amor Ranchero",
       "url": "https://open.spotify.com/track/4h8xnS3HBT19lpOvOfctS5"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Super Poderes",
+        "url": "https://open.spotify.com/album/47Kif0U9Uen1422h9tSkAM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Secretto",
+          "url": "https://open.spotify.com/artist/6SHAWeSDnokcCA2XhPNgHh"
+        }
+      ],
+      "duration_ms": 173305,
+      "name": "Super Poderes",
+      "url": "https://open.spotify.com/track/5rAOIlEChbdFyrFEEcDqAX"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1019,22 +1019,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Super Poderes",
-        "url": "https://open.spotify.com/album/47Kif0U9Uen1422h9tSkAM"
+        "name": "Chorumbo",
+        "url": "https://open.spotify.com/album/6RPOQC6rd85F9Nuxp5W2Fh"
       },
       "artists": [
         {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         },
         {
-          "name": "Secretto",
-          "url": "https://open.spotify.com/artist/6SHAWeSDnokcCA2XhPNgHh"
+          "name": "Hans el Oso",
+          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
         }
       ],
-      "duration_ms": 173305,
-      "name": "Super Poderes",
-      "url": "https://open.spotify.com/track/5rAOIlEChbdFyrFEEcDqAX"
+      "duration_ms": 200141,
+      "name": "Chorumbo",
+      "url": "https://open.spotify.com/track/6LQn8zFYS44ak3qAUYsp8b"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1123,6 +1123,26 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Agachadita",
+        "url": "https://open.spotify.com/album/5c9O4aceHfVDbEq8DKEGuY"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        }
+      ],
+      "duration_ms": 195024,
+      "name": "Agachadita",
+      "url": "https://open.spotify.com/track/2nwiohQG9DROhzlgZlXPSK"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "De Parranda Lives Vol. 5",
         "url": "https://open.spotify.com/album/0IbYtGUcmCxEqOenGvcZRh"
       },
@@ -1151,26 +1171,6 @@
       "duration_ms": 193666,
       "name": "Qu\u00e9date Conmigo",
       "url": "https://open.spotify.com/track/1BjQB4vJPolq7ctCnUC59Z"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Agachadita",
-        "url": "https://open.spotify.com/album/5c9O4aceHfVDbEq8DKEGuY"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
-        }
-      ],
-      "duration_ms": 195024,
-      "name": "Agachadita",
-      "url": "https://open.spotify.com/track/2nwiohQG9DROhzlgZlXPSK"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1557,20 +1557,20 @@
       "url": "https://open.spotify.com/track/6E3InxDzcHJG7Pe4HrgxkV"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
+      "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "A Bailar Huapangos",
-        "url": "https://open.spotify.com/album/3HwzYVu702BGntM846aF8T"
+        "name": "Las Guardadas",
+        "url": "https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4"
       },
       "artists": [
         {
-          "name": "Los Igualados",
-          "url": "https://open.spotify.com/artist/7CZBDOxXPcGXM2IAoZHCmB"
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 252000,
-      "name": "El P\u00e1vido N\u00e1vido",
-      "url": "https://open.spotify.com/track/0sTV1ucJEAj8M15YJQCLsR"
+      "duration_ms": 228379,
+      "name": "Sobre Mis Pies",
+      "url": "https://open.spotify.com/track/4mnveTVKzkbkT23GBDfRnj"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Fuentes De Ortiz",
-        "url": "https://open.spotify.com/album/2BqFybANgMFE2Tm1tBOSKS"
+        "name": "A Bailar Huapangos",
+        "url": "https://open.spotify.com/album/3HwzYVu702BGntM846aF8T"
       },
       "artists": [
         {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+          "name": "Los Igualados",
+          "url": "https://open.spotify.com/artist/7CZBDOxXPcGXM2IAoZHCmB"
         }
       ],
-      "duration_ms": 232216,
-      "name": "Fuentes De Ortiz",
-      "url": "https://open.spotify.com/track/3C1ew8imuOUAMc6JEL5EO1"
+      "duration_ms": 252000,
+      "name": "El P\u00e1vido N\u00e1vido",
+      "url": "https://open.spotify.com/track/0sTV1ucJEAj8M15YJQCLsR"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "La Loteria",
-        "url": "https://open.spotify.com/album/1eOnR7Tb5ajg0OMNi68i4W"
-      },
-      "artists": [
-        {
-          "name": "Nueva Marca",
-          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
-        }
-      ],
-      "duration_ms": 194655,
-      "name": "Cada Vez Mas",
-      "url": "https://open.spotify.com/track/5Jo2xhD9fwJJbCYE9FY2i5"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Por Eso La Deje",
         "url": "https://open.spotify.com/album/63EVky6PEKdJYaBowGkYBg"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 260794,
       "name": "Por Eso La Deje",
       "url": "https://open.spotify.com/track/6kOXYe3iDJhbuCvnCCeToK"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "La Loteria",
+        "url": "https://open.spotify.com/album/1eOnR7Tb5ajg0OMNi68i4W"
+      },
+      "artists": [
+        {
+          "name": "Nueva Marca",
+          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
+        }
+      ],
+      "duration_ms": 194655,
+      "name": "Cada Vez Mas",
+      "url": "https://open.spotify.com/track/5Jo2xhD9fwJJbCYE9FY2i5"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Fuentes De Ortiz",
+        "url": "https://open.spotify.com/album/2BqFybANgMFE2Tm1tBOSKS"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 232216,
+      "name": "Fuentes De Ortiz",
+      "url": "https://open.spotify.com/track/3C1ew8imuOUAMc6JEL5EO1"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "EL INFIERNO",
         "url": "https://open.spotify.com/album/5zM5b1Ha8HwK6w5xRO4DFf"
       },
@@ -1723,22 +1739,6 @@
       "duration_ms": 217066,
       "name": "EL INFIERNO",
       "url": "https://open.spotify.com/track/2DhbJTNWJ4ChxnMEcY0WAq"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Chambeando Recio",
-        "url": "https://open.spotify.com/album/5iYuRSAA6tEhTDAOBhTDff"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 157749,
-      "name": "Chambeando Recio",
-      "url": "https://open.spotify.com/track/5GUn6oyW713HWxE9F1Xp0T"
     }
   ],
   "unique_name": "Norte\u00f1o 2023",

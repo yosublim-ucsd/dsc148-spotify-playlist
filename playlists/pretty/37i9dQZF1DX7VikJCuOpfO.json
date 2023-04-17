@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Sarah La Morena",
-  "num_followers": 65617,
+  "num_followers": 65636,
   "original_name": "Mariachi 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMGQ0MTZlODYxN2JjZmMxYzY1ODFhZTM0YTUwNTRlYzEz",
+  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMGQ5YmVhMTBhYmQzZDFkOGZmYjE2N2JmYWNjODNmOTU4",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -495,6 +495,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "En Este Amor",
+        "url": "https://open.spotify.com/album/6o4we0I9BrHtDb9fUXt97y"
+      },
+      "artists": [
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "duration_ms": 166920,
+      "name": "En Este Amor",
+      "url": "https://open.spotify.com/track/4f5oH6SMKbWnsxjznuuYAJ"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Ahora",
         "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
       },
@@ -511,26 +527,6 @@
       "duration_ms": 157040,
       "name": "Esta Noche",
       "url": "https://open.spotify.com/track/6RruB10Yvw1uCHHSIku5qW"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Te Llor\u00e9 Un R\u00edo",
-        "url": "https://open.spotify.com/album/7GV5uaJVmICyAAdEoUgKbd"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 209673,
-      "name": "Te Llor\u00e9 Un R\u00edo - Versi\u00f3n Mariache\u00f1o",
-      "url": "https://open.spotify.com/track/04firplM7voiFmGWNTI3Va"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -555,18 +551,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "En Este Amor",
-        "url": "https://open.spotify.com/album/6o4we0I9BrHtDb9fUXt97y"
+        "name": "Te Llor\u00e9 Un R\u00edo",
+        "url": "https://open.spotify.com/album/7GV5uaJVmICyAAdEoUgKbd"
       },
       "artists": [
         {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 166920,
-      "name": "En Este Amor",
-      "url": "https://open.spotify.com/track/4f5oH6SMKbWnsxjznuuYAJ"
+      "duration_ms": 209673,
+      "name": "Te Llor\u00e9 Un R\u00edo - Versi\u00f3n Mariache\u00f1o",
+      "url": "https://open.spotify.com/track/04firplM7voiFmGWNTI3Va"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "M\u00e9xico de Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY"
-      },
-      "artists": [
-        {
-          "name": "Natalia Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
-        }
-      ],
-      "duration_ms": 203840,
-      "name": "La Gata Bajo la Lluvia",
-      "url": "https://open.spotify.com/track/385FrLURUeIGS7UJ8Gaq3G"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Forajido EP 1",
         "url": "https://open.spotify.com/album/7I8Jkv7b1hFt0Pc1eePHTR"
       },
@@ -695,38 +679,6 @@
       "duration_ms": 174741,
       "name": "Lim\u00f3n Con Sal",
       "url": "https://open.spotify.com/track/2yG1RaWw4zhu9YvIgXl2fD"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "De Pura Rabia",
-        "url": "https://open.spotify.com/album/3aKCApnTz9ESmKTUenfojX"
-      },
-      "artists": [
-        {
-          "name": "Yeison Jimenez",
-          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
-        }
-      ],
-      "duration_ms": 187397,
-      "name": "De Pura Rabia",
-      "url": "https://open.spotify.com/track/4bjhTbUKjfxODbAgUNAwHT"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Mexicana Enamorada",
-        "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 205236,
-      "name": "En Realidad",
-      "url": "https://open.spotify.com/track/2m7I1EX7ogZVHFow6Q1jeC"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -747,6 +699,54 @@
       "duration_ms": 176146,
       "name": "Con Un Botecito A Pecho",
       "url": "https://open.spotify.com/track/7mVBmaeIkZo0Vm2zddlszz"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "M\u00e9xico de Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY"
+      },
+      "artists": [
+        {
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        }
+      ],
+      "duration_ms": 203840,
+      "name": "La Gata Bajo la Lluvia",
+      "url": "https://open.spotify.com/track/385FrLURUeIGS7UJ8Gaq3G"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 205236,
+      "name": "En Realidad",
+      "url": "https://open.spotify.com/track/2m7I1EX7ogZVHFow6Q1jeC"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "De Pura Rabia",
+        "url": "https://open.spotify.com/album/3aKCApnTz9ESmKTUenfojX"
+      },
+      "artists": [
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "duration_ms": 187397,
+      "name": "De Pura Rabia",
+      "url": "https://open.spotify.com/track/4bjhTbUKjfxODbAgUNAwHT"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1031,22 +1031,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "M\u00e9xico de Mi Coraz\u00f3n, Vol. 2",
-        "url": "https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY"
+        "name": "No Quer\u00eda Enga\u00f1arte",
+        "url": "https://open.spotify.com/album/7iOHpFiXyBtlIvkCMInHpN"
       },
       "artists": [
         {
-          "name": "Natalia Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
-        },
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
         }
       ],
-      "duration_ms": 186640,
-      "name": "Renunciaci\u00f3n",
-      "url": "https://open.spotify.com/track/1JEBRG9J6YOpGpW67dXsHH"
+      "duration_ms": 241728,
+      "name": "No Quer\u00eda Enga\u00f1arte",
+      "url": "https://open.spotify.com/track/1IGd9cS67gcK1SGVyWqEtz"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1067,18 +1063,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "No Quer\u00eda Enga\u00f1arte",
-        "url": "https://open.spotify.com/album/7iOHpFiXyBtlIvkCMInHpN"
+        "name": "M\u00e9xico de Mi Coraz\u00f3n, Vol. 2",
+        "url": "https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY"
       },
       "artists": [
         {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        },
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
         }
       ],
-      "duration_ms": 241728,
-      "name": "No Quer\u00eda Enga\u00f1arte",
-      "url": "https://open.spotify.com/track/1IGd9cS67gcK1SGVyWqEtz"
+      "duration_ms": 186640,
+      "name": "Renunciaci\u00f3n",
+      "url": "https://open.spotify.com/track/1JEBRG9J6YOpGpW67dXsHH"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Vali\u00f3 La Pena Con Mariachi",
-        "url": "https://open.spotify.com/album/1E0UDUTKwV8g8dH6hkyPAW"
-      },
-      "artists": [
-        {
-          "name": "El Bebeto",
-          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
-        }
-      ],
-      "duration_ms": 226666,
-      "name": "Duele Estar Vivo",
-      "url": "https://open.spotify.com/track/2UEWCYISDArkdFAm7QpTk0"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Antes De Que Te Vayas",
         "url": "https://open.spotify.com/album/1EKiL2kPdSJ511TaHy7IDD"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 231040,
       "name": "Mentiroso - Versi\u00f3n Mariachi",
       "url": "https://open.spotify.com/track/6n1eCxU7vkkK0BeUc2fKlG"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Vali\u00f3 La Pena Con Mariachi",
+        "url": "https://open.spotify.com/album/1E0UDUTKwV8g8dH6hkyPAW"
+      },
+      "artists": [
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "Duele Estar Vivo",
+      "url": "https://open.spotify.com/track/2UEWCYISDArkdFAm7QpTk0"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "La Llorona",
-        "url": "https://open.spotify.com/album/0vx6yN3peiZnWGIK3yxgZX"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 226048,
-      "name": "La Llorona",
-      "url": "https://open.spotify.com/track/5AOEudcsj9BbSfDbRjxkpO"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Todo Me Recuerda A Ti",
         "url": "https://open.spotify.com/album/7sQmXyi4Bd9aw1q7mradRJ"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 208106,
       "name": "Todo Me Recuerda A Ti",
       "url": "https://open.spotify.com/track/0ooSm6DWVb708WQbOy99De"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "La Llorona",
+        "url": "https://open.spotify.com/album/0vx6yN3peiZnWGIK3yxgZX"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 226048,
+      "name": "La Llorona",
+      "url": "https://open.spotify.com/track/5AOEudcsj9BbSfDbRjxkpO"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Ya Es Suficiente",
-        "url": "https://open.spotify.com/album/5Rd0mR4ErR1V7Seq9D3ELT"
-      },
-      "artists": [
-        {
-          "name": "Nuevo Elemento",
-          "url": "https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N"
-        }
-      ],
-      "duration_ms": 182044,
-      "name": "Ya Es Suficiente",
-      "url": "https://open.spotify.com/track/1XF09h15mtS3nvgDniNZN5"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Las Rejas No Matan",
         "url": "https://open.spotify.com/album/2HbREHvhYxmjUuWGFys3M9"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 178000,
       "name": "Las Rejas No Matan",
       "url": "https://open.spotify.com/track/65QAEew8Hanp9jv41K0Wkm"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Ya Es Suficiente",
+        "url": "https://open.spotify.com/album/5Rd0mR4ErR1V7Seq9D3ELT"
+      },
+      "artists": [
+        {
+          "name": "Nuevo Elemento",
+          "url": "https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N"
+        }
+      ],
+      "duration_ms": 182044,
+      "name": "Ya Es Suficiente",
+      "url": "https://open.spotify.com/track/1XF09h15mtS3nvgDniNZN5"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Chuladas Del Alma",
-        "url": "https://open.spotify.com/album/3PfxvQzZa81oXmrceghQTr"
-      },
-      "artists": [
-        {
-          "name": "Sandra Padilla",
-          "url": "https://open.spotify.com/artist/3hht892mum9HGzHHclNtXz"
-        }
-      ],
-      "duration_ms": 136246,
-      "name": "Te Llegar\u00e1 Mi Olvido",
-      "url": "https://open.spotify.com/track/2gVFqyEuY89biuosNL6Y43"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "No Me Hace Falta Nada",
         "url": "https://open.spotify.com/album/72gV9k0jtquTeAUzHvvIE1"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 193841,
       "name": "No Me Hace Falta Nada",
       "url": "https://open.spotify.com/track/6mbugMNw6tfCJUdmJhP9oE"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Chuladas Del Alma",
+        "url": "https://open.spotify.com/album/3PfxvQzZa81oXmrceghQTr"
+      },
+      "artists": [
+        {
+          "name": "Sandra Padilla",
+          "url": "https://open.spotify.com/artist/3hht892mum9HGzHHclNtXz"
+        }
+      ],
+      "duration_ms": 136246,
+      "name": "Te Llegar\u00e1 Mi Olvido",
+      "url": "https://open.spotify.com/track/2gVFqyEuY89biuosNL6Y43"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Ser\u00e9",
-        "url": "https://open.spotify.com/album/65YVP3CV11KakZLZBagWOL"
-      },
-      "artists": [
-        {
-          "name": "Nuevo Elemento",
-          "url": "https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N"
-        }
-      ],
-      "duration_ms": 163433,
-      "name": "Ser\u00e9",
-      "url": "https://open.spotify.com/track/79zvHHEqoXY3DFUUXBwNN2"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "La Loter\u00eda",
         "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
       },
@@ -1719,18 +1703,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Imborrable",
-        "url": "https://open.spotify.com/album/3A5prmtlMcT7DlMjAjTkCY"
+        "name": "Ser\u00e9",
+        "url": "https://open.spotify.com/album/65YVP3CV11KakZLZBagWOL"
       },
       "artists": [
         {
-          "name": "Chelo Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/5CrdWDm3mQfNI5vlPWyw3z"
+          "name": "Nuevo Elemento",
+          "url": "https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N"
         }
       ],
-      "duration_ms": 192066,
-      "name": "Imborrable",
-      "url": "https://open.spotify.com/track/3jNjhaqd0hDPHW8DFoufce"
+      "duration_ms": 163433,
+      "name": "Ser\u00e9",
+      "url": "https://open.spotify.com/track/79zvHHEqoXY3DFUUXBwNN2"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1747,6 +1731,22 @@
       "duration_ms": 258243,
       "name": "El Valor de una Mujer",
       "url": "https://open.spotify.com/track/74CFOSkfQnjR0QccdBw0TZ"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Imborrable",
+        "url": "https://open.spotify.com/album/3A5prmtlMcT7DlMjAjTkCY"
+      },
+      "artists": [
+        {
+          "name": "Chelo Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/5CrdWDm3mQfNI5vlPWyw3z"
+        }
+      ],
+      "duration_ms": 192066,
+      "name": "Imborrable",
+      "url": "https://open.spotify.com/track/3jNjhaqd0hDPHW8DFoufce"
     },
     {
       "added_at": "2023-03-10 05:00:00",

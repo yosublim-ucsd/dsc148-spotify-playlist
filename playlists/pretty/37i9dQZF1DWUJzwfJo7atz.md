@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJzwfJo7atz.md) - [plain]
 
 > cute moments in fields and on dancefloors \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,363 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,524 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJzwfJo7atz.md) - [plain]
 | 2 | [Happy Music](https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music / Something on My Mind](https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR) | 3:52 |
 | 3 | [Strong](https://open.spotify.com/track/5bF00VrMY3FwnQDgoP4Gnk) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Strong](https://open.spotify.com/album/4feYoBaeQJUrYygOD4A0DF) | 3:54 |
 | 4 | [GOOD TIMES](https://open.spotify.com/track/6I6QkE2UVSj9YX48oRrD6e) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [GOOD TIMES / PROBLEMZ](https://open.spotify.com/album/0nBijXgCvIu7T9AlF9P1Te) | 3:01 |
-| 5 | [Just for me](https://open.spotify.com/track/1Vrj9Vcbb0lOG94pQbYvzv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 1:56 |
+| 5 | [The Sign](https://open.spotify.com/track/0hjRzBuGh9qGGzcbW7xK12) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [The Sign](https://open.spotify.com/album/1ayB1Y1h0ZNW9MECEA7QSb) | 3:33 |
 | 6 | [My Purple iPod Nano \(2nd Gen\)](https://open.spotify.com/track/7KzTDWGFQerYzkSqRXLwUp) | [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [My Purple iPod Nano \(2nd Gen\)](https://open.spotify.com/album/1R1i1cNz94QG5tT4aByFgU) | 2:44 |
-| 7 | [The Sign](https://open.spotify.com/track/0hjRzBuGh9qGGzcbW7xK12) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [The Sign](https://open.spotify.com/album/1ayB1Y1h0ZNW9MECEA7QSb) | 3:33 |
+| 7 | [Just for me](https://open.spotify.com/track/1Vrj9Vcbb0lOG94pQbYvzv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 1:56 |
 | 8 | [Forms Of Love](https://open.spotify.com/track/5YUyOSNj5gmRjZQ7yZ3JTA) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Forms Of Love](https://open.spotify.com/album/59xZYca7c3Rn0IhAzEqHUg) | 6:03 |
 | 9 | [Serotonin Moonbeams](https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Serotonin Moonbeams](https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO) | 4:49 |
 | 10 | [Home](https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Begin Again](https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr) | 3:33 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJzwfJo7atz.md) - [plain]
 | 43 | [Be with You](https://open.spotify.com/track/2ECjeYPCdRNeuCzO0W1UMW) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [When the Lights Go](https://open.spotify.com/album/2aApNIlo8yWlCk6x899rhY) | 4:07 |
 | 44 | [I Know You](https://open.spotify.com/track/5f7gdXvYTZqCRl4ieL4xvl) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [I Know You](https://open.spotify.com/album/2CXL7xliVASXyKWYoJfu3Q) | 3:52 |
 | 45 | [Alright](https://open.spotify.com/track/4bao9qwqgkBdCuNmKehrOA) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Alright](https://open.spotify.com/album/7uFPxf7dz1jdeBj6fyVVLi) | 4:55 |
-| 46 | [My Heart Still Leans On You](https://open.spotify.com/track/7hTcipfBVimzXdYd9ynEbA) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR), [Miller Blue](https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA) | [My Heart Still Leans On You](https://open.spotify.com/album/3QLP5YPGen6T7pnYpb8Gt8) | 4:47 |
-| 47 | [Intimate Fantasy](https://open.spotify.com/track/6plKjqeFQ30GbfAbvS3srq) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Intimate Fantasy \- EP](https://open.spotify.com/album/5gkN7t6aczEdOCwKxGeYkW) | 8:13 |
+| 46 | [Intimate Fantasy](https://open.spotify.com/track/6plKjqeFQ30GbfAbvS3srq) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Intimate Fantasy \- EP](https://open.spotify.com/album/5gkN7t6aczEdOCwKxGeYkW) | 8:13 |
+| 47 | [My Heart Still Leans On You](https://open.spotify.com/track/7hTcipfBVimzXdYd9ynEbA) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR), [Miller Blue](https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA) | [My Heart Still Leans On You](https://open.spotify.com/album/3QLP5YPGen6T7pnYpb8Gt8) | 4:47 |
 | 48 | [To The Floor](https://open.spotify.com/track/7cZR9UwVtBQR3zwyDYMK9p) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Yesterday Is Heavy](https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR) | 3:09 |
 | 49 | [Lose Your Senses](https://open.spotify.com/track/4UGtoN1j6i8gtMb64Y2cDY) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Lose Your Senses](https://open.spotify.com/album/6yLyY2UFppJXFz2jVXTKUM) | 6:28 |
 | 50 | [Love Is A State Of Mind \(feat\. Ramona Renea\)](https://open.spotify.com/track/0nD0RjzwWRO1SUE1to50FL) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Ramona Renea](https://open.spotify.com/artist/4rgCSBhGOFMm7d8HJsA4j3) | [Black Girl Magic](https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN) | 3:13 |
 
-Snapshot ID: `MTY2OTgxOTg1NCwwMDAwMDAwMDFmYmNiNzkzMGMwOWIxYTgyYWZhODk4MzBmZWMzZTY0`
+Snapshot ID: `MTY2OTgxOTg1NCwwMDAwMDAwMDNjOTRiYWU0YmViYjE0N2RmZjMyZTNmYWVhNTkzNTgx`

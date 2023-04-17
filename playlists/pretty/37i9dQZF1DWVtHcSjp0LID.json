@@ -1,12 +1,12 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 54868,
+  "num_followers": 54904,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzkwNjQ1NSwwMDAwMDAwMDg1MTljMjNhOGVmNmRiMThkNmIwZGJiN2UxMDU3MWJi",
+  "snapshot_id": "MTY1NzkwNjQ1NSwwMDAwMDAwMGFiOTExY2FhNDQ4ODViZjkzZWIyYjUyMmJmMzAzYTc0",
   "tracks": [
     {
       "added_at": "2022-07-15 17:34:15",
@@ -159,22 +159,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Joli Mai",
-        "url": "https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj"
-      },
-      "artists": [
-        {
-          "name": "Daphni",
-          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
-        }
-      ],
-      "duration_ms": 138371,
-      "name": "Poly",
-      "url": "https://open.spotify.com/track/70GeFg0Hy8uvIoujccyWgz"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Powers of Ten",
         "url": "https://open.spotify.com/album/5zj0qH4lKPQOotmWkE3ECb"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 421306,
       "name": "Singularity",
       "url": "https://open.spotify.com/track/0yuJtvXsapVOQfNDYxQ5mw"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Joli Mai",
+        "url": "https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj"
+      },
+      "artists": [
+        {
+          "name": "Daphni",
+          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
+        }
+      ],
+      "duration_ms": 138371,
+      "name": "Poly",
+      "url": "https://open.spotify.com/track/70GeFg0Hy8uvIoujccyWgz"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -263,22 +263,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "In Colour",
-        "url": "https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ"
-      },
-      "artists": [
-        {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        }
-      ],
-      "duration_ms": 291018,
-      "name": "Gosh",
-      "url": "https://open.spotify.com/track/4mlZurguzNJior9siewA8C"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Unity Pt. 2",
         "url": "https://open.spotify.com/album/5FkWjMTGQOhag93NyFfLP6"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 487868,
       "name": "Fading",
       "url": "https://open.spotify.com/track/770zzJRmEN0sudaxuD7GkB"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "In Colour",
+        "url": "https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        }
+      ],
+      "duration_ms": 291018,
+      "name": "Gosh",
+      "url": "https://open.spotify.com/track/4mlZurguzNJior9siewA8C"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Rages 1992",
-        "url": "https://open.spotify.com/album/6v9jhi0WbpnsFSaAAXX1HO"
-      },
-      "artists": [
-        {
-          "name": "Dusty Kid",
-          "url": "https://open.spotify.com/artist/6JGLndnzrQrIFkd8NFha3C"
-        }
-      ],
-      "duration_ms": 435000,
-      "name": "Kollera",
-      "url": "https://open.spotify.com/track/0ZrXNuryJ6FYjww6jU6RUm"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Blurred",
         "url": "https://open.spotify.com/album/6buz46xNMKBZ5xItTu5rDK"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 361160,
       "name": "Blurred - Bonobo Remix",
       "url": "https://open.spotify.com/track/4uayzCHBoZ1cpTSpMmdMXB"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Rages 1992",
+        "url": "https://open.spotify.com/album/6v9jhi0WbpnsFSaAAXX1HO"
+      },
+      "artists": [
+        {
+          "name": "Dusty Kid",
+          "url": "https://open.spotify.com/artist/6JGLndnzrQrIFkd8NFha3C"
+        }
+      ],
+      "duration_ms": 435000,
+      "name": "Kollera",
+      "url": "https://open.spotify.com/track/0ZrXNuryJ6FYjww6jU6RUm"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -483,22 +483,18 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "A Magic World (Remixes)",
-        "url": "https://open.spotify.com/album/39rJ5ozCZCmmeC7N0e2JOS"
+        "name": "Arterial",
+        "url": "https://open.spotify.com/album/11IULm1RrL6acmTm3qQzLH"
       },
       "artists": [
         {
-          "name": "KAS:ST",
-          "url": "https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN"
-        },
-        {
-          "name": "NTO",
-          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+          "name": "Lusine",
+          "url": "https://open.spotify.com/artist/2fMe9lZs5HGGOwh8cMSIub"
         }
       ],
-      "duration_ms": 365971,
-      "name": "Letters - NTO Remix",
-      "url": "https://open.spotify.com/track/5eoWUn76XK5blDGfJMecTY"
+      "duration_ms": 254962,
+      "name": "Arterial",
+      "url": "https://open.spotify.com/track/5G67YWTwKKRBkk1EH8aw3S"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -519,34 +515,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Arterial",
-        "url": "https://open.spotify.com/album/11IULm1RrL6acmTm3qQzLH"
+        "name": "A Magic World (Remixes)",
+        "url": "https://open.spotify.com/album/39rJ5ozCZCmmeC7N0e2JOS"
       },
       "artists": [
         {
-          "name": "Lusine",
-          "url": "https://open.spotify.com/artist/2fMe9lZs5HGGOwh8cMSIub"
-        }
-      ],
-      "duration_ms": 254962,
-      "name": "Arterial",
-      "url": "https://open.spotify.com/track/5G67YWTwKKRBkk1EH8aw3S"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Sarita Colonia",
-        "url": "https://open.spotify.com/album/0ku4piLs17h4xD7e92FEf6"
-      },
-      "artists": [
+          "name": "KAS:ST",
+          "url": "https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN"
+        },
         {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
         }
       ],
-      "duration_ms": 227317,
-      "name": "Sarita Colonia - Edit",
-      "url": "https://open.spotify.com/track/0VNtKhOQZConLZc1GjQckk"
+      "duration_ms": 365971,
+      "name": "Letters - NTO Remix",
+      "url": "https://open.spotify.com/track/5eoWUn76XK5blDGfJMecTY"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -563,6 +547,22 @@
       "duration_ms": 364795,
       "name": "Never Forget",
       "url": "https://open.spotify.com/track/2XdHM7xIoz9R94JeB3Cwrd"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Sarita Colonia",
+        "url": "https://open.spotify.com/album/0ku4piLs17h4xD7e92FEf6"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 227317,
+      "name": "Sarita Colonia - Edit",
+      "url": "https://open.spotify.com/track/0VNtKhOQZConLZc1GjQckk"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Moons",
-        "url": "https://open.spotify.com/album/3tIgTO7IeJfRd4rUDyxAUb"
-      },
-      "artists": [
-        {
-          "name": "Embee",
-          "url": "https://open.spotify.com/artist/7ga1hewK4zSX6yl16251DF"
-        }
-      ],
-      "duration_ms": 217411,
-      "name": "Moons",
-      "url": "https://open.spotify.com/track/4t4uk0wS8mvGwuAsGW9TB8"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "The Haunted House of House",
         "url": "https://open.spotify.com/album/2F0NkwRHdlAjnMIiYbjF1n"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 346640,
       "name": "Cow Palace",
       "url": "https://open.spotify.com/track/3KOJFD2qK8pvcXMstA8Ss4"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Moons",
+        "url": "https://open.spotify.com/album/3tIgTO7IeJfRd4rUDyxAUb"
+      },
+      "artists": [
+        {
+          "name": "Embee",
+          "url": "https://open.spotify.com/artist/7ga1hewK4zSX6yl16251DF"
+        }
+      ],
+      "duration_ms": 217411,
+      "name": "Moons",
+      "url": "https://open.spotify.com/track/4t4uk0wS8mvGwuAsGW9TB8"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Dazed & Confused",
-        "url": "https://open.spotify.com/album/5ELUDL08pgSVM1FmpWlJP2"
-      },
-      "artists": [
-        {
-          "name": "Supernaive",
-          "url": "https://open.spotify.com/artist/0LIQJHtaj1P8K7CFMxqonq"
-        }
-      ],
-      "duration_ms": 223060,
-      "name": "Opal Waltz",
-      "url": "https://open.spotify.com/track/5rHTvJCwN2D4sLrqwAVorG"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "When the Rain",
         "url": "https://open.spotify.com/album/2dwUpYD9rU1rVMBst4Dy66"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 400327,
       "name": "Deep Eyes Blue Skies",
       "url": "https://open.spotify.com/track/6suIXGZs9DIIxcUzl4Ilot"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Dazed & Confused",
+        "url": "https://open.spotify.com/album/5ELUDL08pgSVM1FmpWlJP2"
+      },
+      "artists": [
+        {
+          "name": "Supernaive",
+          "url": "https://open.spotify.com/artist/0LIQJHtaj1P8K7CFMxqonq"
+        }
+      ],
+      "duration_ms": 223060,
+      "name": "Opal Waltz",
+      "url": "https://open.spotify.com/track/5rHTvJCwN2D4sLrqwAVorG"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Frekk EP",
-        "url": "https://open.spotify.com/album/1OEm5cnudsYGee21Ic1nYE"
-      },
-      "artists": [
-        {
-          "name": "Async",
-          "url": "https://open.spotify.com/artist/5PZlBEt3wsD3kAw6i7Mz0t"
-        }
-      ],
-      "duration_ms": 474009,
-      "name": "Deepart 8.0",
-      "url": "https://open.spotify.com/track/1TmgIqBZJsMvs4p96tEWrI"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Ars Vivendi",
         "url": "https://open.spotify.com/album/5uYfpev9L3tOSEr0OMGI1F"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 381406,
       "name": "Ars Vivendi",
       "url": "https://open.spotify.com/track/6KQesAONxYMlSrcmapTqDm"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Frekk EP",
+        "url": "https://open.spotify.com/album/1OEm5cnudsYGee21Ic1nYE"
+      },
+      "artists": [
+        {
+          "name": "Async",
+          "url": "https://open.spotify.com/artist/5PZlBEt3wsD3kAw6i7Mz0t"
+        }
+      ],
+      "duration_ms": 474009,
+      "name": "Deepart 8.0",
+      "url": "https://open.spotify.com/track/1TmgIqBZJsMvs4p96tEWrI"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "LO-FI IS THE UNWANTED BASTARD CHILD OF JAZZ",
-        "url": "https://open.spotify.com/album/5CPLb3j8NMxwplclu4xMEc"
+        "name": "Breathing Underwater",
+        "url": "https://open.spotify.com/album/7n7MzOjUGkLO6gIotByQLL"
       },
       "artists": [
         {
-          "name": "Da Vosk Docta",
-          "url": "https://open.spotify.com/artist/0eVFGwSvttHQvGrdcKXbW2"
+          "name": "Jim Henderson",
+          "url": "https://open.spotify.com/artist/0MXiMSXku6aYHyNgXtT9MG"
         }
       ],
-      "duration_ms": 308576,
-      "name": "VIEW FROM MY BALCONY AT NIGHT",
-      "url": "https://open.spotify.com/track/5wOcV21lFPwIL8XbpWy6WF"
+      "duration_ms": 313079,
+      "name": "Breathing Underwater",
+      "url": "https://open.spotify.com/track/2z37gIePyVNcu8cmuvc3JL"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Breathing Underwater",
-        "url": "https://open.spotify.com/album/7n7MzOjUGkLO6gIotByQLL"
+        "name": "LO-FI IS THE UNWANTED BASTARD CHILD OF JAZZ",
+        "url": "https://open.spotify.com/album/5CPLb3j8NMxwplclu4xMEc"
       },
       "artists": [
         {
-          "name": "Jim Henderson",
-          "url": "https://open.spotify.com/artist/0MXiMSXku6aYHyNgXtT9MG"
+          "name": "Da Vosk Docta",
+          "url": "https://open.spotify.com/artist/0eVFGwSvttHQvGrdcKXbW2"
         }
       ],
-      "duration_ms": 313079,
-      "name": "Breathing Underwater",
-      "url": "https://open.spotify.com/track/2z37gIePyVNcu8cmuvc3JL"
+      "duration_ms": 308576,
+      "name": "VIEW FROM MY BALCONY AT NIGHT",
+      "url": "https://open.spotify.com/track/5wOcV21lFPwIL8XbpWy6WF"
     },
     {
       "added_at": "2022-07-15 17:34:15",

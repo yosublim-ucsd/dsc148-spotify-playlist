@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pVA3Hx6Sbo.md) - [plain]
 
 > Mientras la gente no deje de aplaudir, Chente no deja de cantar\. Por siempre, Vicente Fernández.
 
-[Spotify](https://open.spotify.com/user/spotify) - 884,716 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 885,298 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

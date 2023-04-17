@@ -1,12 +1,12 @@
 {
   "description": "Unwind to these easy classics from the 2010s...",
-  "num_followers": 266650,
+  "num_followers": 266757,
   "original_name": "Easy 10s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjUwNTU4NywwMDAwMDAwMDY0NTM2NThkYjlhMzY4OWNmMjllYWE3OTViNmY0YTk3",
+  "snapshot_id": "MTY0MjUwNTU4NywwMDAwMDAwMDFlNjZhNWQ5M2U2ZjQxYTdlYTk5ZTFhMWNmMWNjYTEw",
   "tracks": [
     {
       "added_at": "2020-07-08 17:53:44",
@@ -783,6 +783,22 @@
     {
       "added_at": "2020-07-08 17:53:44",
       "album": {
+        "name": "Flicker (Deluxe)",
+        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 188174,
+      "name": "Slow Hands",
+      "url": "https://open.spotify.com/track/2cOUlop2ZakjOKe4WinesN"
+    },
+    {
+      "added_at": "2020-07-08 17:53:44",
+      "album": {
         "name": "Making Mirrors",
         "url": "https://open.spotify.com/album/1HjSyGjmLNjRAKgT9t1cna"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 244973,
       "name": "Somebody That I Used To Know",
       "url": "https://open.spotify.com/track/4wCmqSrbyCgxEXROQE6vtV"
-    },
-    {
-      "added_at": "2020-07-08 17:53:44",
-      "album": {
-        "name": "Flicker (Deluxe)",
-        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 188174,
-      "name": "Slow Hands",
-      "url": "https://open.spotify.com/track/2cOUlop2ZakjOKe4WinesN"
     },
     {
       "added_at": "2020-07-08 17:53:44",
@@ -851,18 +851,18 @@
     {
       "added_at": "2020-07-08 17:53:44",
       "album": {
-        "name": "A Place We Knew",
-        "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
       },
       "artists": [
         {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 240013,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/6w8pFOKn42O418qwcQElZ3"
+      "duration_ms": 217925,
+      "name": "In My Feelings",
+      "url": "https://open.spotify.com/track/2G7V7zsVDxg1yRsu7Ew9RJ"
     },
     {
       "added_at": "2020-07-08 17:53:44",
@@ -887,18 +887,18 @@
     {
       "added_at": "2020-07-08 17:53:44",
       "album": {
-        "name": "Scorpion",
-        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
+        "name": "A Place We Knew",
+        "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
         }
       ],
-      "duration_ms": 217925,
-      "name": "In My Feelings",
-      "url": "https://open.spotify.com/track/2G7V7zsVDxg1yRsu7Ew9RJ"
+      "duration_ms": 240013,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/6w8pFOKn42O418qwcQElZ3"
     },
     {
       "added_at": "2020-07-08 17:53:44",
@@ -951,6 +951,22 @@
     {
       "added_at": "2020-07-08 17:53:44",
       "album": {
+        "name": "Nervous System",
+        "url": "https://open.spotify.com/album/1qyjZGIeeLJlXbYWuoloWj"
+      },
+      "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 176320,
+      "name": "Issues",
+      "url": "https://open.spotify.com/track/7vu0JkJh0ldukEYbTVcqd0"
+    },
+    {
+      "added_at": "2020-07-08 17:53:44",
+      "album": {
         "name": "Get Weird (Expanded Edition)",
         "url": "https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 249810,
       "name": "Secret Love Song (feat. Jason Derulo)",
       "url": "https://open.spotify.com/track/6KHL1En9v6iNWjcs44mcmU"
-    },
-    {
-      "added_at": "2020-07-08 17:53:44",
-      "album": {
-        "name": "Nervous System",
-        "url": "https://open.spotify.com/album/1qyjZGIeeLJlXbYWuoloWj"
-      },
-      "artists": [
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 176320,
-      "name": "Issues",
-      "url": "https://open.spotify.com/track/7vu0JkJh0ldukEYbTVcqd0"
     },
     {
       "added_at": "2020-07-08 17:53:44",

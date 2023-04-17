@@ -1,12 +1,12 @@
 {
   "description": "Dinner with Friends? Here's the perfect playlist.",
-  "num_followers": 1545496,
+  "num_followers": 1545769,
   "original_name": "Dinner with Friends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMGY1MTc5MDMwZDdiMmU1OGNkNzIwODYzMWE4OGQ3OTc5",
+  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMDUzNmFlNzRlMjdkOTQwMDI1YTc3ZWRmNTZmODgwOWE2",
   "tracks": [
     {
       "added_at": "2023-03-17 04:00:00",
@@ -955,6 +955,22 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/65mtbxKKczJgxPUeyVPUrc"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 232837,
+      "name": "when the party's over - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6H7fWtwEUHVfTyZD7zeG4w"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/1sW3lhfPUhjjgD6oaYnBnV"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 238639,
       "name": "Anywhere Away from Here (Rag\u2019n\u2019Bone Man & P!nk)",
       "url": "https://open.spotify.com/track/5gjATWO1EIhrCP1CQ2GWg8"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/65mtbxKKczJgxPUeyVPUrc"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 232837,
-      "name": "when the party's over - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6H7fWtwEUHVfTyZD7zeG4w"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
+        "name": "Hold Me While You Wait",
+        "url": "https://open.spotify.com/album/1yDDPX98edTDjG5hFqY2xL"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 205686,
+      "name": "Hold Me While You Wait",
+      "url": "https://open.spotify.com/track/6700Z4Izi8EbB6JNthU6Ma"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
         "name": "Everyday Life",
         "url": "https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 193133,
       "name": "You and I",
       "url": "https://open.spotify.com/track/7rsTP6MbfJqXT11RiDDo5a"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Hold Me While You Wait",
-        "url": "https://open.spotify.com/album/1yDDPX98edTDjG5hFqY2xL"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 205686,
-      "name": "Hold Me While You Wait",
-      "url": "https://open.spotify.com/track/6700Z4Izi8EbB6JNthU6Ma"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
+        "name": "Pacific Standard Time",
+        "url": "https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        }
+      ],
+      "duration_ms": 368783,
+      "name": "Harvest Moon",
+      "url": "https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
         "name": "Best Day of My Life",
         "url": "https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw"
       },
@@ -1291,18 +1307,18 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Pacific Standard Time",
-        "url": "https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9"
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/71c88ePh8VRMXLmLdDEGzf"
       },
       "artists": [
         {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
         }
       ],
-      "duration_ms": 368783,
-      "name": "Harvest Moon",
-      "url": "https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36"
+      "duration_ms": 189671,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/6El3mjjzGWOas5meWIETKI"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1359,22 +1375,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/71c88ePh8VRMXLmLdDEGzf"
-      },
-      "artists": [
-        {
-          "name": "Lily Meola",
-          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
-        }
-      ],
-      "duration_ms": 189671,
-      "name": "Daydream",
-      "url": "https://open.spotify.com/track/6El3mjjzGWOas5meWIETKI"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "georgia got colder",
         "url": "https://open.spotify.com/album/0FlFeUoegYdzMZwTOVANE2"
       },
@@ -1407,38 +1407,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Fired Up",
-        "url": "https://open.spotify.com/album/5dIhYtKB5Q8FbsvfehueGP"
-      },
-      "artists": [
-        {
-          "name": "Grace Carter",
-          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
-        }
-      ],
-      "duration_ms": 201086,
-      "name": "Fired Up",
-      "url": "https://open.spotify.com/track/7gxW8RQnNQHAFi6aBVMCBL"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Tomorrow EP",
-        "url": "https://open.spotify.com/album/4uVBOgsiFX3qsvAvtgoW4X"
-      },
-      "artists": [
-        {
-          "name": "Jack Curley",
-          "url": "https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK"
-        }
-      ],
-      "duration_ms": 184984,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/3uHWdehoLyQZJECjiTI4a6"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Perfectly Imperfect",
         "url": "https://open.spotify.com/album/6YYdaF74fciAagw5BpJ6Qy"
       },
@@ -1467,6 +1435,38 @@
       "duration_ms": 195133,
       "name": "Stuck On You",
       "url": "https://open.spotify.com/track/0ROwoz82DIW4tOzkxYnSjf"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Fired Up",
+        "url": "https://open.spotify.com/album/5dIhYtKB5Q8FbsvfehueGP"
+      },
+      "artists": [
+        {
+          "name": "Grace Carter",
+          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
+        }
+      ],
+      "duration_ms": 201086,
+      "name": "Fired Up",
+      "url": "https://open.spotify.com/track/7gxW8RQnNQHAFi6aBVMCBL"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Tomorrow EP",
+        "url": "https://open.spotify.com/album/4uVBOgsiFX3qsvAvtgoW4X"
+      },
+      "artists": [
+        {
+          "name": "Jack Curley",
+          "url": "https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK"
+        }
+      ],
+      "duration_ms": 184984,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/3uHWdehoLyQZJECjiTI4a6"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "portraits",
-        "url": "https://open.spotify.com/album/3YuXuSnRfq8NuYE7UjHQKk"
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha"
       },
       "artists": [
         {
-          "name": "Greyson Chance",
-          "url": "https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX"
+          "name": "Mina Okabe",
+          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
         }
       ],
-      "duration_ms": 170363,
-      "name": "shut up",
-      "url": "https://open.spotify.com/track/0vBlrSOT8xxEBgKay0Otr4"
+      "duration_ms": 182076,
+      "name": "Every Second",
+      "url": "https://open.spotify.com/track/0GxUJLTF4RanPVwY1YpcZ3"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha"
+        "name": "portraits",
+        "url": "https://open.spotify.com/album/3YuXuSnRfq8NuYE7UjHQKk"
       },
       "artists": [
         {
-          "name": "Mina Okabe",
-          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
+          "name": "Greyson Chance",
+          "url": "https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX"
         }
       ],
-      "duration_ms": 182076,
-      "name": "Every Second",
-      "url": "https://open.spotify.com/track/0GxUJLTF4RanPVwY1YpcZ3"
+      "duration_ms": 170363,
+      "name": "shut up",
+      "url": "https://open.spotify.com/track/0vBlrSOT8xxEBgKay0Otr4"
     },
     {
       "added_at": "2023-03-17 04:00:00",

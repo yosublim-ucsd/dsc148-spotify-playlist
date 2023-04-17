@@ -1,12 +1,12 @@
 {
   "description": "Late night cool and the sound of smooth blues.",
-  "num_followers": 77094,
+  "num_followers": 77235,
   "original_name": "Midnight Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQzMDQ2MCwwMDAwMDAwMDNkYjA5NmE5MTg0YmZhNWQ4M2E2YmQzNDViNTNkNzMy",
+  "snapshot_id": "MTY4MTQzMDQ2MCwwMDAwMDAwMGJlNjE1NjU3ZTE1MmYwOGVhMGYzZWUzYmRhOWNlNjJk",
   "tracks": [
     {
       "added_at": "2023-04-14 00:01:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
-        "name": "Me and Mr. Johnson",
-        "url": "https://open.spotify.com/album/3DgSNj2EanKS98ViJovfrh"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 246493,
-      "name": "Kind Hearted Woman Blues",
-      "url": "https://open.spotify.com/track/3bDhok0xhx7ihIGWdt9Ft0"
-    },
-    {
-      "added_at": "2023-04-14 00:01:00",
-      "album": {
         "name": "Put In a Little Time",
         "url": "https://open.spotify.com/album/4lMmRnqMe82gxF92t8dWXt"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 280062,
       "name": "Don't Worry",
       "url": "https://open.spotify.com/track/3NVy1z9t4I6qgkY29d0r7C"
+    },
+    {
+      "added_at": "2023-04-14 00:01:00",
+      "album": {
+        "name": "Me and Mr. Johnson",
+        "url": "https://open.spotify.com/album/3DgSNj2EanKS98ViJovfrh"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 246493,
+      "name": "Kind Hearted Woman Blues",
+      "url": "https://open.spotify.com/track/3bDhok0xhx7ihIGWdt9Ft0"
     },
     {
       "added_at": "2023-04-14 00:01:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
-        "name": "Good Luck Man",
-        "url": "https://open.spotify.com/album/2v0DQ5RtiQl8ldmxA3KOvs"
-      },
-      "artists": [
-        {
-          "name": "Carey Bell",
-          "url": "https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs"
-        }
-      ],
-      "duration_ms": 428266,
-      "name": "Teardrops",
-      "url": "https://open.spotify.com/track/4E3n9S34nNuJ25OiR8UxRg"
-    },
-    {
-      "added_at": "2023-04-14 00:01:00",
-      "album": {
         "name": "Woman Across The River",
         "url": "https://open.spotify.com/album/3iaVJullB48EV1OM2oMXJs"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 270600,
       "name": "Help Me Through The Day",
       "url": "https://open.spotify.com/track/70b5CmxmkftPHqnnzy7H9G"
+    },
+    {
+      "added_at": "2023-04-14 00:01:00",
+      "album": {
+        "name": "Good Luck Man",
+        "url": "https://open.spotify.com/album/2v0DQ5RtiQl8ldmxA3KOvs"
+      },
+      "artists": [
+        {
+          "name": "Carey Bell",
+          "url": "https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs"
+        }
+      ],
+      "duration_ms": 428266,
+      "name": "Teardrops",
+      "url": "https://open.spotify.com/track/4E3n9S34nNuJ25OiR8UxRg"
     },
     {
       "added_at": "2023-04-14 00:01:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
-        "name": "Working Man",
-        "url": "https://open.spotify.com/album/0gsSBr61g7HRuZmyW75VJu"
-      },
-      "artists": [
-        {
-          "name": "Albert Cummings",
-          "url": "https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg"
-        }
-      ],
-      "duration_ms": 332560,
-      "name": "Let Me Be",
-      "url": "https://open.spotify.com/track/2jgHuKeHNfhtYEHwIuc0iJ"
-    },
-    {
-      "added_at": "2023-04-14 00:01:00",
-      "album": {
         "name": "Big Fun",
         "url": "https://open.spotify.com/album/2Tkar3J9w5aUbxfE4ItKmV"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 214600,
       "name": "She Puts Me In The Mood",
       "url": "https://open.spotify.com/track/0t0CvqbxqwtETTajrzqKoW"
+    },
+    {
+      "added_at": "2023-04-14 00:01:00",
+      "album": {
+        "name": "Working Man",
+        "url": "https://open.spotify.com/album/0gsSBr61g7HRuZmyW75VJu"
+      },
+      "artists": [
+        {
+          "name": "Albert Cummings",
+          "url": "https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg"
+        }
+      ],
+      "duration_ms": 332560,
+      "name": "Let Me Be",
+      "url": "https://open.spotify.com/track/2jgHuKeHNfhtYEHwIuc0iJ"
     },
     {
       "added_at": "2023-04-14 00:01:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
-        "name": "Sings Bessie Smith",
-        "url": "https://open.spotify.com/album/2Em2NnnKeKydoEMzlcSHr4"
-      },
-      "artists": [
-        {
-          "name": "LaVern Baker",
-          "url": "https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw"
-        }
-      ],
-      "duration_ms": 292520,
-      "name": "Empty Bed Blues - Mono",
-      "url": "https://open.spotify.com/track/7DBKmXITq99xmNPr3ZX2nK"
-    },
-    {
-      "added_at": "2023-04-14 00:01:00",
-      "album": {
         "name": "Old Bones, New Fire",
         "url": "https://open.spotify.com/album/68tbX1vD7WbHabOlMQK9Fg"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 187524,
       "name": "I Know I've Been Changed",
       "url": "https://open.spotify.com/track/6XV7DB5x0QbwPw2AJfiOlz"
+    },
+    {
+      "added_at": "2023-04-14 00:01:00",
+      "album": {
+        "name": "Sings Bessie Smith",
+        "url": "https://open.spotify.com/album/2Em2NnnKeKydoEMzlcSHr4"
+      },
+      "artists": [
+        {
+          "name": "LaVern Baker",
+          "url": "https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw"
+        }
+      ],
+      "duration_ms": 292520,
+      "name": "Empty Bed Blues - Mono",
+      "url": "https://open.spotify.com/track/7DBKmXITq99xmNPr3ZX2nK"
     },
     {
       "added_at": "2023-04-14 00:01:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
-        "name": "Poet Of The Blues",
-        "url": "https://open.spotify.com/album/7oD8K0s2rvJ53vjLurRLNf"
-      },
-      "artists": [
-        {
-          "name": "Percy Mayfield",
-          "url": "https://open.spotify.com/artist/4BfUHTiOoOcunsrw4mS2HU"
-        }
-      ],
-      "duration_ms": 172573,
-      "name": "The River's Invitation",
-      "url": "https://open.spotify.com/track/0YdyUFdhdcHxq7Nfw6prq3"
-    },
-    {
-      "added_at": "2023-04-14 00:01:00",
-      "album": {
         "name": "Ain't Giving Up",
         "url": "https://open.spotify.com/album/7if1zXFGoL0maOFlWKX6yE"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 420181,
       "name": "Weak Days",
       "url": "https://open.spotify.com/track/0ci4FY6foptsMwZZtVhYNw"
+    },
+    {
+      "added_at": "2023-04-14 00:01:00",
+      "album": {
+        "name": "Poet Of The Blues",
+        "url": "https://open.spotify.com/album/7oD8K0s2rvJ53vjLurRLNf"
+      },
+      "artists": [
+        {
+          "name": "Percy Mayfield",
+          "url": "https://open.spotify.com/artist/4BfUHTiOoOcunsrw4mS2HU"
+        }
+      ],
+      "duration_ms": 172573,
+      "name": "The River's Invitation",
+      "url": "https://open.spotify.com/track/0YdyUFdhdcHxq7Nfw6prq3"
     }
   ],
   "unique_name": "Midnight Blues",

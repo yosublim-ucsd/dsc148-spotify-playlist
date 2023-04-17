@@ -1,12 +1,12 @@
 {
   "description": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c. \uc131\uacf5\uc744 \uc704\ud55c \uc5f4\uc815\uacfc \uc9d1\ub150\uc744 \ub290\uaef4\ubcf4\uc138\uc694. (\ucee4\ubc84: Royal 44)",
-  "num_followers": 3102,
+  "num_followers": 3108,
   "original_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkwNTkwNywwMDAwMDAwMGJhNTg3Y2Y0NGQyMTZiMGEzODBjN2JjYzE1NjNiZmVj",
+  "snapshot_id": "MTY3OTkwNTkwNywwMDAwMDAwMGIyMDZjMjI4ZmQ2ZDBkNDM3MzAzNjZlMTU4NzAwMTU4",
   "tracks": [
     {
       "added_at": "2023-02-24 08:51:34",
@@ -467,6 +467,22 @@
     {
       "added_at": "2023-02-24 08:51:34",
       "album": {
+        "name": "NUNA",
+        "url": "https://open.spotify.com/album/6XBIkDFhDgc3PQOUEcO2fd"
+      },
+      "artists": [
+        {
+          "name": "Jessi",
+          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
+        }
+      ],
+      "duration_ms": 181582,
+      "name": "STAR",
+      "url": "https://open.spotify.com/track/64UJcOMUgdFnSyTmP2NdA0"
+    },
+    {
+      "added_at": "2023-02-24 08:51:34",
+      "album": {
         "name": "grayground. 01",
         "url": "https://open.spotify.com/album/0jR5mEh7PtD96CfXwkmem7"
       },
@@ -487,18 +503,18 @@
     {
       "added_at": "2023-02-24 08:51:34",
       "album": {
-        "name": "NUNA",
-        "url": "https://open.spotify.com/album/6XBIkDFhDgc3PQOUEcO2fd"
+        "name": "DPR ARCHIVES",
+        "url": "https://open.spotify.com/album/1qpS7W0whJPG7b8PlhSgGw"
       },
       "artists": [
         {
-          "name": "Jessi",
-          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
         }
       ],
-      "duration_ms": 181582,
-      "name": "STAR",
-      "url": "https://open.spotify.com/track/64UJcOMUgdFnSyTmP2NdA0"
+      "duration_ms": 103119,
+      "name": "just dream it",
+      "url": "https://open.spotify.com/track/0Iz4In7qPeiZXLvt6YhOwP"
     },
     {
       "added_at": "2023-02-24 08:51:34",
@@ -519,18 +535,18 @@
     {
       "added_at": "2023-02-24 08:51:34",
       "album": {
-        "name": "DPR ARCHIVES",
-        "url": "https://open.spotify.com/album/1qpS7W0whJPG7b8PlhSgGw"
+        "name": "Boyhood",
+        "url": "https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri"
       },
       "artists": [
         {
-          "name": "DPR LIVE",
-          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
         }
       ],
-      "duration_ms": 103119,
-      "name": "just dream it",
-      "url": "https://open.spotify.com/track/0Iz4In7qPeiZXLvt6YhOwP"
+      "duration_ms": 221142,
+      "name": "wish",
+      "url": "https://open.spotify.com/track/2iGE15tDX1YR1uegNyxaB3"
     },
     {
       "added_at": "2023-02-24 08:51:34",
@@ -551,22 +567,6 @@
       "duration_ms": 210401,
       "name": "ERI ERI (Feat. Homies)",
       "url": "https://open.spotify.com/track/2IWjd02V6f5FBiC9ZDbe9R"
-    },
-    {
-      "added_at": "2023-02-24 08:51:34",
-      "album": {
-        "name": "Boyhood",
-        "url": "https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri"
-      },
-      "artists": [
-        {
-          "name": "CHANGMO",
-          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
-        }
-      ],
-      "duration_ms": 221142,
-      "name": "wish",
-      "url": "https://open.spotify.com/track/2iGE15tDX1YR1uegNyxaB3"
     },
     {
       "added_at": "2023-02-24 08:51:34",
@@ -1129,7 +1129,7 @@
       "url": "https://open.spotify.com/track/3j5P08hfKY8oUSARXvmjjZ"
     },
     {
-      "added_at": "2023-04-16 01:06:49",
+      "added_at": "2023-04-17 01:00:42",
       "album": {
         "name": "It's Your Turn (Feat. Futuristic Swaver)",
         "url": "https://open.spotify.com/album/6PJegtUCcQPhdkP11FyXJt"
@@ -1803,6 +1803,46 @@
     {
       "added_at": "2023-02-24 08:51:34",
       "album": {
+        "name": "RESPECT",
+        "url": "https://open.spotify.com/album/4FpsKzdhjKzTTYgN9DvJbv"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        },
+        {
+          "name": "DJ Pumkin",
+          "url": "https://open.spotify.com/artist/6FzmP3yuDErhGqZ3CP6Fz0"
+        }
+      ],
+      "duration_ms": 184586,
+      "name": "RESPECT (Feat. GRAY, DJ Pumkin)",
+      "url": "https://open.spotify.com/track/7tCNxlrTSIonzZW9oBa4SC"
+    },
+    {
+      "added_at": "2023-02-24 08:51:34",
+      "album": {
+        "name": "natural high",
+        "url": "https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu"
+      },
+      "artists": [
+        {
+          "name": "nafla",
+          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
+        }
+      ],
+      "duration_ms": 140411,
+      "name": "dreamin'",
+      "url": "https://open.spotify.com/track/15dd4M9GAV1RhEH0qesnKL"
+    },
+    {
+      "added_at": "2023-02-24 08:51:34",
+      "album": {
         "name": "YOUTH! (feat. Bewhy, HAON & Coogie)",
         "url": "https://open.spotify.com/album/7B9Hkeo69vV37dRqgcUUap"
       },
@@ -1827,46 +1867,6 @@
       "duration_ms": 206783,
       "name": "YOUTH! (feat. Bewhy, HAON & Coogie)",
       "url": "https://open.spotify.com/track/4D9F6gcVJ4dqg4fLz4Oyjd"
-    },
-    {
-      "added_at": "2023-02-24 08:51:34",
-      "album": {
-        "name": "natural high",
-        "url": "https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu"
-      },
-      "artists": [
-        {
-          "name": "nafla",
-          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
-        }
-      ],
-      "duration_ms": 140411,
-      "name": "dreamin'",
-      "url": "https://open.spotify.com/track/15dd4M9GAV1RhEH0qesnKL"
-    },
-    {
-      "added_at": "2023-02-24 08:51:34",
-      "album": {
-        "name": "RESPECT",
-        "url": "https://open.spotify.com/album/4FpsKzdhjKzTTYgN9DvJbv"
-      },
-      "artists": [
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        },
-        {
-          "name": "GRAY",
-          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
-        },
-        {
-          "name": "DJ Pumkin",
-          "url": "https://open.spotify.com/artist/6FzmP3yuDErhGqZ3CP6Fz0"
-        }
-      ],
-      "duration_ms": 184586,
-      "name": "RESPECT (Feat. GRAY, DJ Pumkin)",
-      "url": "https://open.spotify.com/track/7tCNxlrTSIonzZW9oBa4SC"
     },
     {
       "added_at": "2023-02-24 08:51:34",
@@ -1947,6 +1947,26 @@
     {
       "added_at": "2023-02-24 08:51:34",
       "album": {
+        "name": "Show Me the Money 4 Episode 5",
+        "url": "https://open.spotify.com/album/38Ch7I5PqyCIugfJCcKTMr"
+      },
+      "artists": [
+        {
+          "name": "BlackNut",
+          "url": "https://open.spotify.com/artist/0T8sqjCB5w57zxvW5lp3qJ"
+        },
+        {
+          "name": "Jessi",
+          "url": "https://open.spotify.com/artist/3YFNWBXKaHtR6RVvReN99N"
+        }
+      ],
+      "duration_ms": 410810,
+      "name": "Something I can do",
+      "url": "https://open.spotify.com/track/0QOvc1Y1gPItKQf3l3eBTR"
+    },
+    {
+      "added_at": "2023-02-24 08:51:34",
+      "album": {
         "name": "IT\u2032S YOUR WAY",
         "url": "https://open.spotify.com/album/1fElnXqdUqkPD9qEGxwEYb"
       },
@@ -1967,26 +1987,6 @@
       "duration_ms": 189834,
       "name": "Double Up (Feat. skinny brown, CK)",
       "url": "https://open.spotify.com/track/3TfIXDBZJqZzjDHnw50yDL"
-    },
-    {
-      "added_at": "2023-02-24 08:51:34",
-      "album": {
-        "name": "Show Me the Money 4 Episode 5",
-        "url": "https://open.spotify.com/album/38Ch7I5PqyCIugfJCcKTMr"
-      },
-      "artists": [
-        {
-          "name": "BlackNut",
-          "url": "https://open.spotify.com/artist/0T8sqjCB5w57zxvW5lp3qJ"
-        },
-        {
-          "name": "Jessi",
-          "url": "https://open.spotify.com/artist/3YFNWBXKaHtR6RVvReN99N"
-        }
-      ],
-      "duration_ms": 410810,
-      "name": "Something I can do",
-      "url": "https://open.spotify.com/track/0QOvc1Y1gPItKQf3l3eBTR"
     },
     {
       "added_at": "2023-02-24 08:51:34",
@@ -2031,22 +2031,22 @@
     {
       "added_at": "2023-02-24 08:51:34",
       "album": {
-        "name": "changes",
-        "url": "https://open.spotify.com/album/3K8JviLmeuvMixS8N9oWbn"
+        "name": "BLAZE",
+        "url": "https://open.spotify.com/album/3rReTvcphfVOJUOYXpCiWJ"
       },
       "artists": [
         {
-          "name": "Owen",
-          "url": "https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO"
+          "name": "DO HAN SE",
+          "url": "https://open.spotify.com/artist/0vpzOOH7hVL9KdsCus9v5v"
         },
         {
-          "name": "Loopy",
-          "url": "https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg"
+          "name": "BIGONE",
+          "url": "https://open.spotify.com/artist/0bQhUyXffQjkd6horP6fKX"
         }
       ],
-      "duration_ms": 249875,
-      "name": "changes (feat. Loopy)",
-      "url": "https://open.spotify.com/track/6Mc2Kn5zFjmAHDN9vIzywI"
+      "duration_ms": 131493,
+      "name": "SLASH (Feat. BIGONE)",
+      "url": "https://open.spotify.com/track/2F1n5rGdo6oQbZFYuVx9ud"
     }
   ],
   "unique_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",

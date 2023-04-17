@@ -1,12 +1,12 @@
 {
   "description": "Prendete con tu lista favorita de Dembow. Foto: Angel Dior & Flow 28",
-  "num_followers": 82002,
+  "num_followers": 82102,
   "original_name": "Rep\u00fablica Dembow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMDU1MDRiZGVkZTFkZDdhMWU3ZWUxNjZjYjgxZDQ2MDM2",
+  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMDI1MjJiMTM3OTViYzE1Yzk2YjgzNWUzYjRmNDQyMjJh",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -327,26 +327,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Sistema De Patio",
-        "url": "https://open.spotify.com/album/2CEgQxkmV8DKlSp0hHR839"
-      },
-      "artists": [
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        },
-        {
-          "name": "Treintisiete",
-          "url": "https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah"
-        }
-      ],
-      "duration_ms": 134222,
-      "name": "Sistema De Patio",
-      "url": "https://open.spotify.com/track/65497v9jzFfu5sSA8ADap5"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Traag",
         "url": "https://open.spotify.com/album/5MHVtiFIv6DASkrHsgbOXE"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 189619,
       "name": "Traag",
       "url": "https://open.spotify.com/track/5fySAmiBZEILTlSwo8n4Wi"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Sistema De Patio",
+        "url": "https://open.spotify.com/album/2CEgQxkmV8DKlSp0hHR839"
+      },
+      "artists": [
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        },
+        {
+          "name": "Treintisiete",
+          "url": "https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah"
+        }
+      ],
+      "duration_ms": 134222,
+      "name": "Sistema De Patio",
+      "url": "https://open.spotify.com/track/65497v9jzFfu5sSA8ADap5"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -463,6 +463,30 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Carbon Fiber Hits",
+        "url": "https://open.spotify.com/album/2Uld8jdkYagsj9j7xBom0T"
+      },
+      "artists": [
+        {
+          "name": "Carbon Fiber Music",
+          "url": "https://open.spotify.com/artist/7akJAsqIpakhpXpWEUSEGX"
+        },
+        {
+          "name": "Lary Over",
+          "url": "https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78"
+        },
+        {
+          "name": "Lirico En La Casa",
+          "url": "https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo"
+        }
+      ],
+      "duration_ms": 224018,
+      "name": "Subete",
+      "url": "https://open.spotify.com/track/4OOlKNTQISagv0nsofvySZ"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Singamo",
         "url": "https://open.spotify.com/album/253SMVFCLr8mpmUAyQekLW"
       },
@@ -487,30 +511,6 @@
       "duration_ms": 136763,
       "name": "Singamo",
       "url": "https://open.spotify.com/track/3rLdmhMmRqpKb7Bbzo43EI"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Carbon Fiber Hits",
-        "url": "https://open.spotify.com/album/2Uld8jdkYagsj9j7xBom0T"
-      },
-      "artists": [
-        {
-          "name": "Carbon Fiber Music",
-          "url": "https://open.spotify.com/artist/7akJAsqIpakhpXpWEUSEGX"
-        },
-        {
-          "name": "Lary Over",
-          "url": "https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78"
-        },
-        {
-          "name": "Lirico En La Casa",
-          "url": "https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo"
-        }
-      ],
-      "duration_ms": 224018,
-      "name": "Subete",
-      "url": "https://open.spotify.com/track/4OOlKNTQISagv0nsofvySZ"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Los Bobo Son Mio",
+        "url": "https://open.spotify.com/album/4v1NXjiiUavkphyQmcjmIF"
+      },
+      "artists": [
+        {
+          "name": "Haraca Kiko",
+          "url": "https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh"
+        }
+      ],
+      "duration_ms": 131870,
+      "name": "Los Bobo Son Mio",
+      "url": "https://open.spotify.com/track/5NcQz7GySYVN5vyx5r0OIl"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Mueve Eso",
         "url": "https://open.spotify.com/album/137Kiv3H9ygMvm5fGy8BcR"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 142862,
       "name": "Mueve Eso",
       "url": "https://open.spotify.com/track/05I7jRJLZWfHgnuv2w7f75"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Los Bobo Son Mio",
-        "url": "https://open.spotify.com/album/4v1NXjiiUavkphyQmcjmIF"
-      },
-      "artists": [
-        {
-          "name": "Haraca Kiko",
-          "url": "https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh"
-        }
-      ],
-      "duration_ms": 131870,
-      "name": "Los Bobo Son Mio",
-      "url": "https://open.spotify.com/track/5NcQz7GySYVN5vyx5r0OIl"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Yo Me Monto",
-        "url": "https://open.spotify.com/album/3ooHyFyPuv9lCPeVJaHLi6"
-      },
-      "artists": [
-        {
-          "name": "J Alvarez",
-          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
-        }
-      ],
-      "duration_ms": 172314,
-      "name": "Yo Me Monto",
-      "url": "https://open.spotify.com/track/4p6H5XmF6knuep5BFkLYgR"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Colombiana",
         "url": "https://open.spotify.com/album/63vnbIp0UFLKeDlJ3NLPfK"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 186801,
       "name": "Colombiana",
       "url": "https://open.spotify.com/track/4OkZXjA1yje9NZurlsfiGw"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Yo Me Monto",
+        "url": "https://open.spotify.com/album/3ooHyFyPuv9lCPeVJaHLi6"
+      },
+      "artists": [
+        {
+          "name": "J Alvarez",
+          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+        }
+      ],
+      "duration_ms": 172314,
+      "name": "Yo Me Monto",
+      "url": "https://open.spotify.com/track/4p6H5XmF6knuep5BFkLYgR"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Dembow 2014 - 14 Original Urban Hits!",
-        "url": "https://open.spotify.com/album/2wQgEZf2kLZFjLOqI9EV64"
-      },
-      "artists": [
-        {
-          "name": "Los Lun\u00e1ticos",
-          "url": "https://open.spotify.com/artist/3dznStnQzstoqfwjmyuKuA"
-        }
-      ],
-      "duration_ms": 205080,
-      "name": "Siente El Ki",
-      "url": "https://open.spotify.com/track/4Y4TzQhODQmsTRA3NTuFlV"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Bye Bye (feat. Chimbala and Liro Shaq)",
         "url": "https://open.spotify.com/album/7juaBYswyufzydPt0016zv"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 196746,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/1CFICGHfnZH6tXVKIYtYJp"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Dembow 2014 - 14 Original Urban Hits!",
+        "url": "https://open.spotify.com/album/2wQgEZf2kLZFjLOqI9EV64"
+      },
+      "artists": [
+        {
+          "name": "Los Lun\u00e1ticos",
+          "url": "https://open.spotify.com/artist/3dznStnQzstoqfwjmyuKuA"
+        }
+      ],
+      "duration_ms": 205080,
+      "name": "Siente El Ki",
+      "url": "https://open.spotify.com/track/4Y4TzQhODQmsTRA3NTuFlV"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Trayectoria",
+        "url": "https://open.spotify.com/album/1dovid8Cb5WCdaUCccteeh"
+      },
+      "artists": [
+        {
+          "name": "La Materialista",
+          "url": "https://open.spotify.com/artist/4FMqE1IWlhufYw1x2zlKG6"
+        }
+      ],
+      "duration_ms": 215301,
+      "name": "La Chapa Que Vibran",
+      "url": "https://open.spotify.com/track/6cFckWKvl4IrBmRZI995kG"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "El Toro",
         "url": "https://open.spotify.com/album/31TLZhqZdOT2HVrh5b9rrH"
       },
@@ -1347,22 +1363,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Trayectoria",
-        "url": "https://open.spotify.com/album/1dovid8Cb5WCdaUCccteeh"
-      },
-      "artists": [
-        {
-          "name": "La Materialista",
-          "url": "https://open.spotify.com/artist/4FMqE1IWlhufYw1x2zlKG6"
-        }
-      ],
-      "duration_ms": 215301,
-      "name": "La Chapa Que Vibran",
-      "url": "https://open.spotify.com/track/6cFckWKvl4IrBmRZI995kG"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Limonada Coco (Remix)",
         "url": "https://open.spotify.com/album/3liRtVXbGcDBNHoCwAS7i5"
       },
@@ -1383,26 +1383,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Romo y Pepas (with Angel Dior)",
-        "url": "https://open.spotify.com/album/79XrynY1blrNcoxHu1UIj3"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Films",
-          "url": "https://open.spotify.com/artist/4twMBjUEs3uYOoY4ywzJAZ"
-        },
-        {
-          "name": "Angel Dior",
-          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Romo y Pepas (with Angel Dior)",
-      "url": "https://open.spotify.com/track/3LGavT7oNZiI5WjdmjPiOo"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "5 Mujeres",
         "url": "https://open.spotify.com/album/2P0gPcMDGOOUdtGo2ECluI"
       },
@@ -1419,6 +1399,26 @@
       "duration_ms": 209000,
       "name": "5 Mujeres",
       "url": "https://open.spotify.com/track/12IF1N3EbqgvRZweMJHAVO"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Romo y Pepas (with Angel Dior)",
+        "url": "https://open.spotify.com/album/79XrynY1blrNcoxHu1UIj3"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Films",
+          "url": "https://open.spotify.com/artist/4twMBjUEs3uYOoY4ywzJAZ"
+        },
+        {
+          "name": "Angel Dior",
+          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Romo y Pepas (with Angel Dior)",
+      "url": "https://open.spotify.com/track/3LGavT7oNZiI5WjdmjPiOo"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Mr Brum Brum",
+        "url": "https://open.spotify.com/album/1mQTVVmy6EUp67GjRD2h40"
+      },
+      "artists": [
+        {
+          "name": "Lirico En La Casa",
+          "url": "https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo"
+        }
+      ],
+      "duration_ms": 172878,
+      "name": "Brum Brum",
+      "url": "https://open.spotify.com/track/62utJ0vVOX6X7EFJ8XsmA1"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Me Vale V3rg4",
         "url": "https://open.spotify.com/album/12PjHJ65aOOicQRb6Zuslz"
       },
@@ -1655,22 +1671,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Mr Brum Brum",
-        "url": "https://open.spotify.com/album/1mQTVVmy6EUp67GjRD2h40"
-      },
-      "artists": [
-        {
-          "name": "Lirico En La Casa",
-          "url": "https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo"
-        }
-      ],
-      "duration_ms": 172878,
-      "name": "Brum Brum",
-      "url": "https://open.spotify.com/track/62utJ0vVOX6X7EFJ8XsmA1"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Cuando Bebo",
         "url": "https://open.spotify.com/album/2qijMBUbzPBCwN0JjGr8Df"
       },
@@ -1683,30 +1683,6 @@
       "duration_ms": 234372,
       "name": "Cuando Bebo",
       "url": "https://open.spotify.com/track/7HEEmTfwfM56sSZd6glbZH"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Banda",
-        "url": "https://open.spotify.com/album/2Sp9mxQc4hAtYn4NVW2SMO"
-      },
-      "artists": [
-        {
-          "name": "Max Escobar",
-          "url": "https://open.spotify.com/artist/4plC0UaorE9RvYxijnnzUA"
-        },
-        {
-          "name": "El Fecho RD",
-          "url": "https://open.spotify.com/artist/2qHuI4Avg4Dbowhu8whV9e"
-        },
-        {
-          "name": "Tommy King",
-          "url": "https://open.spotify.com/artist/4VqmB4FEHsgbwCkyfNAFTu"
-        }
-      ],
-      "duration_ms": 178564,
-      "name": "Banda",
-      "url": "https://open.spotify.com/track/0CTQlAEZI4DrtxIySsGWuL"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1751,6 +1727,30 @@
       "duration_ms": 304584,
       "name": "Nataly - Remix",
       "url": "https://open.spotify.com/track/3VT90yDEnIxbNWhTkVdiuF"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Banda",
+        "url": "https://open.spotify.com/album/2Sp9mxQc4hAtYn4NVW2SMO"
+      },
+      "artists": [
+        {
+          "name": "Max Escobar",
+          "url": "https://open.spotify.com/artist/4plC0UaorE9RvYxijnnzUA"
+        },
+        {
+          "name": "El Fecho RD",
+          "url": "https://open.spotify.com/artist/2qHuI4Avg4Dbowhu8whV9e"
+        },
+        {
+          "name": "Tommy King",
+          "url": "https://open.spotify.com/artist/4VqmB4FEHsgbwCkyfNAFTu"
+        }
+      ],
+      "duration_ms": 178564,
+      "name": "Banda",
+      "url": "https://open.spotify.com/track/0CTQlAEZI4DrtxIySsGWuL"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -2087,6 +2087,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "No Son de Na",
+        "url": "https://open.spotify.com/album/4J4bjLAtDPXFSjhNhV2MIS"
+      },
+      "artists": [
+        {
+          "name": "Tommy Titerito",
+          "url": "https://open.spotify.com/artist/7qaDbD0PkaTUTOaUpqMeGk"
+        }
+      ],
+      "duration_ms": 185984,
+      "name": "No Son de Na",
+      "url": "https://open.spotify.com/track/5W8oJxVClXOOAwS84nfrry"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Lleg\u00f3 el Domi",
         "url": "https://open.spotify.com/album/5mVW0Qi7Q66gleL2rgVgaC"
       },
@@ -2103,22 +2119,6 @@
       "duration_ms": 175093,
       "name": "H\u00e1blale de Cualto",
       "url": "https://open.spotify.com/track/4zRITqNT5onefyu56kOI9W"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "No Son de Na",
-        "url": "https://open.spotify.com/album/4J4bjLAtDPXFSjhNhV2MIS"
-      },
-      "artists": [
-        {
-          "name": "Tommy Titerito",
-          "url": "https://open.spotify.com/artist/7qaDbD0PkaTUTOaUpqMeGk"
-        }
-      ],
-      "duration_ms": 185984,
-      "name": "No Son de Na",
-      "url": "https://open.spotify.com/track/5W8oJxVClXOOAwS84nfrry"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -2639,26 +2639,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Ayayai",
-        "url": "https://open.spotify.com/album/5La0K5s0ftUoLMUGAAHgjG"
-      },
-      "artists": [
-        {
-          "name": "Breycoo",
-          "url": "https://open.spotify.com/artist/5Sewfh7SjZE6gheTG6L35H"
-        },
-        {
-          "name": "El Pepo Show",
-          "url": "https://open.spotify.com/artist/12DrMYv3haAHRxjWzxVRFB"
-        }
-      ],
-      "duration_ms": 166025,
-      "name": "Ayayai",
-      "url": "https://open.spotify.com/track/0YI55FQIlBuy7CKSVZ5ygp"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Guayabu",
         "url": "https://open.spotify.com/album/0ir4DHfH1beyncktC1fS9F"
       },
@@ -2699,6 +2679,26 @@
       "duration_ms": 146050,
       "name": "Porte",
       "url": "https://open.spotify.com/track/0K6V9t1sZDeTVp1002iEir"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Ayayai",
+        "url": "https://open.spotify.com/album/5La0K5s0ftUoLMUGAAHgjG"
+      },
+      "artists": [
+        {
+          "name": "Breycoo",
+          "url": "https://open.spotify.com/artist/5Sewfh7SjZE6gheTG6L35H"
+        },
+        {
+          "name": "El Pepo Show",
+          "url": "https://open.spotify.com/artist/12DrMYv3haAHRxjWzxVRFB"
+        }
+      ],
+      "duration_ms": 166025,
+      "name": "Ayayai",
+      "url": "https://open.spotify.com/track/0YI55FQIlBuy7CKSVZ5ygp"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -3127,22 +3127,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Cero Coro",
-        "url": "https://open.spotify.com/album/6O86yEhkjwrI4LRfXilKd2"
+        "name": "Como Lo Capo",
+        "url": "https://open.spotify.com/album/5IV31eVYSJvzwbqFryT05B"
       },
       "artists": [
         {
-          "name": "Peke\u00f1o 77",
-          "url": "https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD"
+          "name": "Messiah",
+          "url": "https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7"
         },
         {
-          "name": "Neo Pistea",
-          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
+          "name": "El Mayor Clasico",
+          "url": "https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj"
         }
       ],
-      "duration_ms": 170073,
-      "name": "Cero Coro",
-      "url": "https://open.spotify.com/track/6F3fByGnMXy8ZZ9Rp0WpWQ"
+      "duration_ms": 289201,
+      "name": "Como Lo Capo",
+      "url": "https://open.spotify.com/track/7f3QVHV8UEwbL2duHAcDGo"
     }
   ],
   "unique_name": "Rep\u00fablica Dembow",

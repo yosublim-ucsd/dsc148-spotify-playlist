@@ -4,7 +4,7 @@
 
 > Afrobeats' hottest singles\. Cover: <a href="https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg?si=KLI\_k7C7RbKu67zS9IOi\_A"> Asake</a>
 
-150 songs - 7 hr 12 min
+151 songs - 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Apollo](https://open.spotify.com/track/3OsZkVwyJhGLJ0KrdUx23o) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Apollo](https://open.spotify.com/album/3yblFXYTz2eKaNd36H6QQz) | 2:50 | 2022-06-09 | 2022-12-18 |
 | [Ara \(Gen Gen Tin\)](https://open.spotify.com/track/1j9I9JrUTXNblSWazCq9CU) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Ara \(Gen Gen Tin\)](https://open.spotify.com/album/4ysDR8PYoFO4R6rNMOYSSO) | 2:26 | 2023-03-15 |  |
 | [Asiwaju](https://open.spotify.com/track/7ErtOGQ9DwyQa3lwP77j4u) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Asiwaju](https://open.spotify.com/album/5xqEVPQeBA9GUnEFJhyCtt) | 3:36 | 2022-11-28 |  |
+| [Ask About Me](https://open.spotify.com/track/7E86nXdcmISA9vBH0Egx7O) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Ask About Me](https://open.spotify.com/album/6u0gaySWdi8suKJ8WE91Z9) | 2:55 | 2023-04-14 |  |
 | [Astalavista](https://open.spotify.com/track/3kKZsfJfTLHQOraQWL1KYE) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Astalavista](https://open.spotify.com/album/43SgoLOqhyoefGdGy1lxb8) | 2:51 | 2022-11-24 |  |
 | [Automatic](https://open.spotify.com/track/1yz6NJ6hXpVvaRbllgXQpI) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Automatic](https://open.spotify.com/album/3y0yjUEuag7X0HQSc4aqDF) | 2:56 | 2023-01-20 | 2023-03-18 |
 | [AVAILABU](https://open.spotify.com/track/6hVwoGjU2l2tHk9Cm1kEiZ) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [GANGSTER ROMANTIC](https://open.spotify.com/album/0qogcdzZgkdwcVGrtHho6G) | 2:55 | 2023-03-02 | 2023-03-25 |
@@ -69,7 +70,7 @@
 | [In My Mind](https://open.spotify.com/track/1IiNgs5RGEYyGQFLXJvte5) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Bad Since '97](https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio) | 2:18 | 2022-08-25 |  |
 | [Jaiye Foreign](https://open.spotify.com/track/3iRKwxW8ZDjmL9nKk3nisz) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Jaiye Foreign](https://open.spotify.com/album/5D3OdqLtggVIsUjxXrzHwY) | 3:10 | 2022-08-12 | 2023-01-28 |
 | [Joha](https://open.spotify.com/track/5UwxpuGHkwiojKDaPC5ZNu) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:28 | 2022-09-30 |  |
-| [Kenkele](https://open.spotify.com/track/6u1Hciw2SSywNhnrjvZPhp) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Kenkele](https://open.spotify.com/album/6Jm4FSKWl5NL5m5gF9954m) | 3:33 | 2022-07-21 |  |
+| [Kenkele](https://open.spotify.com/track/6u1Hciw2SSywNhnrjvZPhp) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Kenkele](https://open.spotify.com/album/6Jm4FSKWl5NL5m5gF9954m) | 3:33 | 2022-07-21 | 2023-04-17 |
 | [Kilo](https://open.spotify.com/track/1iM0xHlmZPGZ8gdbPXtUgN) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE) | [Kilo](https://open.spotify.com/album/3otG6QLpT1X30PORPPkBfu) | 2:12 | 2022-06-09 | 2023-01-28 |
 | [Knee Down](https://open.spotify.com/track/3ovSaVUTDOtxfDw5xh9qJ4) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [B A H D](https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8) | 2:27 | 2022-08-05 |  |
 | [Kolomental](https://open.spotify.com/track/3kqE7QmylUIJV3QXC6arrR) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Outlaw](https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w) | 3:17 | 2022-06-09 |  |

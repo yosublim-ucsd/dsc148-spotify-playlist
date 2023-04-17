@@ -1,12 +1,12 @@
 {
   "description": "We hear you.",
-  "num_followers": 1134341,
+  "num_followers": 1134730,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDYzNDQyMiwwMDAwMDAwMDQyMGQ3M2Y0MzUzZTU1NmE3MTY1OWRjMTM1MjIwZWQz",
+  "snapshot_id": "MTY4MDYzNDQyMiwwMDAwMDAwMGMzZGIwZDg2YzllMWExZTE3MTRiOTNkMjY3NjE3OTFj",
   "tracks": [
     {
       "added_at": "2023-03-21 17:38:22",
@@ -659,26 +659,6 @@
     {
       "added_at": "2023-03-21 17:38:22",
       "album": {
-        "name": "You Don't Want Me Anymore",
-        "url": "https://open.spotify.com/album/3fIR123EC4MJUYmPPAJ0Ss"
-      },
-      "artists": [
-        {
-          "name": "Sn\u00f8w",
-          "url": "https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP"
-        },
-        {
-          "name": "Teqkoi",
-          "url": "https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "You Don't Want Me Anymore",
-      "url": "https://open.spotify.com/track/0K4gxQ2u3545b0GAu85ObO"
-    },
-    {
-      "added_at": "2023-03-21 17:38:22",
-      "album": {
         "name": "I'm Not Enough and I'm Sorry",
         "url": "https://open.spotify.com/album/55el5L9WQeGe5LUm73cWL7"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 120000,
       "name": "I'm Not Enough and I'm Sorry",
       "url": "https://open.spotify.com/track/4P1L6AniTDJzANaubzWGYs"
+    },
+    {
+      "added_at": "2023-03-21 17:38:22",
+      "album": {
+        "name": "You Don't Want Me Anymore",
+        "url": "https://open.spotify.com/album/3fIR123EC4MJUYmPPAJ0Ss"
+      },
+      "artists": [
+        {
+          "name": "Sn\u00f8w",
+          "url": "https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP"
+        },
+        {
+          "name": "Teqkoi",
+          "url": "https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "You Don't Want Me Anymore",
+      "url": "https://open.spotify.com/track/0K4gxQ2u3545b0GAu85ObO"
     },
     {
       "added_at": "2023-03-21 17:38:22",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-03-21 17:38:22",
       "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/5muERq5oQwEjbruFHVIPk2"
-      },
-      "artists": [
-        {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
-        }
-      ],
-      "duration_ms": 193005,
-      "name": "Mother",
-      "url": "https://open.spotify.com/track/2ItXZP9iAfOtoASybQIOJd"
-    },
-    {
-      "added_at": "2023-03-21 17:38:22",
-      "album": {
         "name": "London Is Lonely",
         "url": "https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 234760,
       "name": "London Is Lonely",
       "url": "https://open.spotify.com/track/5dXiKFepHXZktud7z5635H"
+    },
+    {
+      "added_at": "2023-03-21 17:38:22",
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/5muERq5oQwEjbruFHVIPk2"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "duration_ms": 193005,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/2ItXZP9iAfOtoASybQIOJd"
     },
     {
       "added_at": "2023-03-21 17:38:22",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2023-03-21 17:38:22",
       "album": {
+        "name": "No Surprises",
+        "url": "https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V"
+      },
+      "artists": [
+        {
+          "name": "Juliana Chahayed",
+          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
+        }
+      ],
+      "duration_ms": 120961,
+      "name": "No Surprises",
+      "url": "https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW"
+    },
+    {
+      "added_at": "2023-03-21 17:38:22",
+      "album": {
         "name": "is your bedroom ceiling bored? (feat. Cavetown)",
         "url": "https://open.spotify.com/album/3EScPN7QqAa3WUVgZe1dNo"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 207509,
       "name": "is your bedroom ceiling bored? (feat. Cavetown)",
       "url": "https://open.spotify.com/track/3ehrCQoouv7NW8LRgcMvRF"
-    },
-    {
-      "added_at": "2023-03-21 17:38:22",
-      "album": {
-        "name": "No Surprises",
-        "url": "https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V"
-      },
-      "artists": [
-        {
-          "name": "Juliana Chahayed",
-          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
-        }
-      ],
-      "duration_ms": 120961,
-      "name": "No Surprises",
-      "url": "https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW"
     },
     {
       "added_at": "2023-03-21 17:38:22",
@@ -1137,20 +1137,20 @@
       "url": "https://open.spotify.com/track/1oE6bVjho2LQdTkDMq43Yd"
     },
     {
-      "added_at": "2023-03-21 17:38:22",
+      "added_at": "2023-03-23 19:39:36",
       "album": {
-        "name": "Don't Leave, Don't Go / Bleed",
-        "url": "https://open.spotify.com/album/1awanVhccvZ0L2WTMm9FfT"
+        "name": "Dark Corners and Alchemy",
+        "url": "https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA"
       },
       "artists": [
         {
-          "name": "Deyaz",
-          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
         }
       ],
-      "duration_ms": 184242,
-      "name": "Don't Leave, Don't Go",
-      "url": "https://open.spotify.com/track/07nd9H2REZKIhVgp3n36YL"
+      "duration_ms": 153915,
+      "name": "princes of melancholia",
+      "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
     },
     {
       "added_at": "2023-03-21 17:38:22",
@@ -1169,20 +1169,20 @@
       "url": "https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3"
     },
     {
-      "added_at": "2023-03-23 19:39:36",
+      "added_at": "2023-03-21 17:38:22",
       "album": {
-        "name": "Dark Corners and Alchemy",
-        "url": "https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA"
+        "name": "Don't Leave, Don't Go / Bleed",
+        "url": "https://open.spotify.com/album/1awanVhccvZ0L2WTMm9FfT"
       },
       "artists": [
         {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+          "name": "Deyaz",
+          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
         }
       ],
-      "duration_ms": 153915,
-      "name": "princes of melancholia",
-      "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
+      "duration_ms": 184242,
+      "name": "Don't Leave, Don't Go",
+      "url": "https://open.spotify.com/track/07nd9H2REZKIhVgp3n36YL"
     },
     {
       "added_at": "2023-03-21 17:38:22",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-03-21 17:38:22",
       "album": {
-        "name": "keep our love alive",
-        "url": "https://open.spotify.com/album/3p8XPhLmoX4DA69jj6kNMN"
-      },
-      "artists": [
-        {
-          "name": "Powfu",
-          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
-        }
-      ],
-      "duration_ms": 176775,
-      "name": "keep our love alive",
-      "url": "https://open.spotify.com/track/3CW5bobIBa94caEAhkLQSu"
-    },
-    {
-      "added_at": "2023-03-21 17:38:22",
-      "album": {
         "name": "curse,",
         "url": "https://open.spotify.com/album/7M6YYETrlwqiUxHBqaz5eO"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 238734,
       "name": "curse,",
       "url": "https://open.spotify.com/track/4sOhW5vsO7eCC0OaxQi7DJ"
+    },
+    {
+      "added_at": "2023-03-21 17:38:22",
+      "album": {
+        "name": "keep our love alive",
+        "url": "https://open.spotify.com/album/3p8XPhLmoX4DA69jj6kNMN"
+      },
+      "artists": [
+        {
+          "name": "Powfu",
+          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
+        }
+      ],
+      "duration_ms": 176775,
+      "name": "keep our love alive",
+      "url": "https://open.spotify.com/track/3CW5bobIBa94caEAhkLQSu"
     },
     {
       "added_at": "2023-03-21 17:38:22",
@@ -1497,6 +1497,26 @@
       "url": "https://open.spotify.com/track/0LlTn7ZnC0Nu3lDY2cg8jL"
     },
     {
+      "added_at": "2023-03-23 19:39:36",
+      "album": {
+        "name": "crow's nest",
+        "url": "https://open.spotify.com/album/2hMXOaCFcRn3ZrZAIefdKE"
+      },
+      "artists": [
+        {
+          "name": "Powfu",
+          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
+        },
+        {
+          "name": "Ollie",
+          "url": "https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR"
+        }
+      ],
+      "duration_ms": 222545,
+      "name": "crow's nest (feat. Ollie)",
+      "url": "https://open.spotify.com/track/4Fx7GtXOK8k3rxVgKzi6ko"
+    },
+    {
       "added_at": "2023-03-21 17:38:22",
       "album": {
         "name": "Tell Me About You (feat. Mishaal)",
@@ -1515,6 +1535,26 @@
       "duration_ms": 194400,
       "name": "Tell Me About You (feat. Mishaal)",
       "url": "https://open.spotify.com/track/1haZCYSR61JHOAivPNOuQH"
+    },
+    {
+      "added_at": "2023-03-21 17:38:22",
+      "album": {
+        "name": "Smoke Signals (feat. Tessa Violet)",
+        "url": "https://open.spotify.com/album/0BcN30IU7guOqvKxVeXXqQ"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        },
+        {
+          "name": "Tessa Violet",
+          "url": "https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ"
+        }
+      ],
+      "duration_ms": 208966,
+      "name": "Smoke Signals (feat. Tessa Violet)",
+      "url": "https://open.spotify.com/track/07c66SO9kYqa5GSmvLsQZy"
     },
     {
       "added_at": "2023-03-21 17:38:22",
@@ -1547,46 +1587,6 @@
       "duration_ms": 120032,
       "name": "I even told my mom about u",
       "url": "https://open.spotify.com/track/6Uxex5NWDRtA8hQKDpRn8H"
-    },
-    {
-      "added_at": "2023-03-23 19:39:36",
-      "album": {
-        "name": "crow's nest",
-        "url": "https://open.spotify.com/album/2hMXOaCFcRn3ZrZAIefdKE"
-      },
-      "artists": [
-        {
-          "name": "Powfu",
-          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
-        },
-        {
-          "name": "Ollie",
-          "url": "https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR"
-        }
-      ],
-      "duration_ms": 222545,
-      "name": "crow's nest (feat. Ollie)",
-      "url": "https://open.spotify.com/track/4Fx7GtXOK8k3rxVgKzi6ko"
-    },
-    {
-      "added_at": "2023-03-21 17:38:22",
-      "album": {
-        "name": "Smoke Signals (feat. Tessa Violet)",
-        "url": "https://open.spotify.com/album/0BcN30IU7guOqvKxVeXXqQ"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        },
-        {
-          "name": "Tessa Violet",
-          "url": "https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ"
-        }
-      ],
-      "duration_ms": 208966,
-      "name": "Smoke Signals (feat. Tessa Violet)",
-      "url": "https://open.spotify.com/track/07c66SO9kYqa5GSmvLsQZy"
     },
     {
       "added_at": "2023-03-21 17:38:22",

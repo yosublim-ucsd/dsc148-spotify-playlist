@@ -1,6 +1,6 @@
 {
   "description": "Classic blues for a blue summer day.",
-  "num_followers": 15156,
+  "num_followers": 15165,
   "original_name": "Summertime Blues",
   "owner": {
     "name": "Spotify",
@@ -643,6 +643,14 @@
         "url": "https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o"
       },
       "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        },
+        {
+          "name": "Sonny Thompson",
+          "url": "https://open.spotify.com/artist/5zJQc0NgR7QSDOxA6EYZkR"
+        },
         {
           "name": "John Mayall & The Bluesbreakers",
           "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"

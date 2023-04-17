@@ -1,12 +1,12 @@
 {
   "description": "Fuel your powerwalk with these upbeat and uplifting tracks.",
-  "num_followers": 505127,
+  "num_followers": 505355,
   "original_name": "Powerwalk!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyOTQ0NzY1MywwMDAwMDAwMGZmNWEyM2NmZDFiZWE1NDgxYWNjMjBiZDQ1NDljOTRh",
+  "snapshot_id": "MTYyOTQ0NzY1MywwMDAwMDAwMDcxNTM3ZTg5ZGE4ZGE1Y2VlN2VlY2MwMzk5NzkzM2I2",
   "tracks": [
     {
       "added_at": "2021-08-20 08:20:52",
@@ -667,22 +667,6 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "Get To Know You",
-        "url": "https://open.spotify.com/album/2MUwPFCq8gmtViYhg3NRVU"
-      },
-      "artists": [
-        {
-          "name": "Samantha Harvey",
-          "url": "https://open.spotify.com/artist/78c7nvjh7AbOgTNV7QKMxZ"
-        }
-      ],
-      "duration_ms": 201666,
-      "name": "Get To Know You",
-      "url": "https://open.spotify.com/track/3oiLlbBynuErymca4Dwp5H"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
         "name": "Love Not War (The Tampa Beat)",
         "url": "https://open.spotify.com/album/3CHys9v5aX1NS861o6r556"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 192921,
       "name": "Love Not War (The Tampa Beat)",
       "url": "https://open.spotify.com/track/4Lt6GXGzYsa1tgkv3nGSTm"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "Get To Know You",
+        "url": "https://open.spotify.com/album/2MUwPFCq8gmtViYhg3NRVU"
+      },
+      "artists": [
+        {
+          "name": "Samantha Harvey",
+          "url": "https://open.spotify.com/artist/78c7nvjh7AbOgTNV7QKMxZ"
+        }
+      ],
+      "duration_ms": 201666,
+      "name": "Get To Know You",
+      "url": "https://open.spotify.com/track/3oiLlbBynuErymca4Dwp5H"
     },
     {
       "added_at": "2021-08-20 08:20:52",
@@ -847,6 +847,26 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
+        "name": "Lose Somebody",
+        "url": "https://open.spotify.com/album/3LhriqAiHJYw7rxvtlkvQc"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 199549,
+      "name": "Lose Somebody",
+      "url": "https://open.spotify.com/track/7xbWAw3LMgRMn4omR5yVn3"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
         "name": "Lifestyle (feat. Adam Levine)",
         "url": "https://open.spotify.com/album/0SNj1uja6FAoffAMOTdlLy"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 153865,
       "name": "Lifestyle (feat. Adam Levine)",
       "url": "https://open.spotify.com/track/0osvOdeD3YXZiWkT8MKolJ"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
-        "name": "Lose Somebody",
-        "url": "https://open.spotify.com/album/3LhriqAiHJYw7rxvtlkvQc"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 199549,
-      "name": "Lose Somebody",
-      "url": "https://open.spotify.com/track/7xbWAw3LMgRMn4omR5yVn3"
     },
     {
       "added_at": "2021-08-20 08:20:52",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "Summer Feeling",
-        "url": "https://open.spotify.com/album/7ljoppdRu0kbD3KLrbuXzY"
-      },
-      "artists": [
-        {
-          "name": "Matoma",
-          "url": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
-        },
-        {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
-        }
-      ],
-      "duration_ms": 180600,
-      "name": "Summer Feeling",
-      "url": "https://open.spotify.com/track/793OuR8rJ0zpVp708ONAxO"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
         "name": "if we never met (remix)",
         "url": "https://open.spotify.com/album/1iCPJ4fkyZ5yvIWSqA4ajE"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 186594,
       "name": "if we never met - remix",
       "url": "https://open.spotify.com/track/0o6NlHNV7Tet6yh9BC6BGd"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "Summer Feeling",
+        "url": "https://open.spotify.com/album/7ljoppdRu0kbD3KLrbuXzY"
+      },
+      "artists": [
+        {
+          "name": "Matoma",
+          "url": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
+        },
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "duration_ms": 180600,
+      "name": "Summer Feeling",
+      "url": "https://open.spotify.com/track/793OuR8rJ0zpVp708ONAxO"
     },
     {
       "added_at": "2021-08-20 08:20:52",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "Your Song",
-        "url": "https://open.spotify.com/album/6lrm01OVZZVmarH2XLSAXZ"
-      },
-      "artists": [
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 180757,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/4c2W3VKsOFoIg2SFaO6DY5"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
         "name": "All Around The World (La La La)",
         "url": "https://open.spotify.com/album/5GJPwVjH1HL5krPhyxsooq"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 147840,
       "name": "All Around The World (La La La)",
       "url": "https://open.spotify.com/track/1D2Aldrksl9yWWCIPOeDzy"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "Your Song",
+        "url": "https://open.spotify.com/album/6lrm01OVZZVmarH2XLSAXZ"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 180757,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/4c2W3VKsOFoIg2SFaO6DY5"
     },
     {
       "added_at": "2021-08-20 08:20:52",

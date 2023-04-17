@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 
 > The world's biggest dance hits\. Cover: MEDUZA & Poppy Baskcomb
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,006,902 likes - 76 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,007,131 likes - 76 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

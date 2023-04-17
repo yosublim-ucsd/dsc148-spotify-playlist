@@ -1,12 +1,12 @@
 {
   "description": "En\u00e9rgicos beats para musicalizar tu rutina diaria de ejercicio.",
-  "num_followers": 135364,
+  "num_followers": 135375,
   "original_name": "Ejercicio Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzA2Mjg5MSwwMDAwMDAwMGViNWFlODI3NmIzN2I2ODg4MmJhNzhiMmEwMTZkMTdl",
+  "snapshot_id": "MTY3MzA2Mjg5MSwwMDAwMDAwMGM5YmUxNzZiODliNmExZGZhMWFlNGZhNjhhODkyZDE5",
   "tracks": [
     {
       "added_at": "2022-10-12 15:43:07",
@@ -547,6 +547,22 @@
     {
       "added_at": "2022-10-12 15:43:07",
       "album": {
+        "name": "2 Die 4",
+        "url": "https://open.spotify.com/album/6p4OKNrv71scAKjHZ16G5t"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 185875,
+      "name": "2 Die 4",
+      "url": "https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY"
+    },
+    {
+      "added_at": "2022-10-12 15:43:07",
+      "album": {
         "name": "Say Nothing (feat. MAY-A)",
         "url": "https://open.spotify.com/album/3QMl37rC1ye7PKRFH7Bgz9"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 232959,
       "name": "Say Nothing (feat. MAY-A)",
       "url": "https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl"
-    },
-    {
-      "added_at": "2022-10-12 15:43:07",
-      "album": {
-        "name": "2 Die 4",
-        "url": "https://open.spotify.com/album/6p4OKNrv71scAKjHZ16G5t"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 185875,
-      "name": "2 Die 4",
-      "url": "https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY"
     },
     {
       "added_at": "2022-10-12 15:43:07",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-10-12 15:43:07",
       "album": {
-        "name": "Network - taken from Superstar",
-        "url": "https://open.spotify.com/album/3NBCC4dPJwOG5JNCpXUlNL"
-      },
-      "artists": [
-        {
-          "name": "Global Deejays",
-          "url": "https://open.spotify.com/artist/5M0Y6NBi3Wfwo2H1gtPl1L"
-        }
-      ],
-      "duration_ms": 224200,
-      "name": "The Sound Of San Francisco - Progressive Album Mix",
-      "url": "https://open.spotify.com/track/60tsXfCcG6Ljxsr8whOXL5"
-    },
-    {
-      "added_at": "2022-10-12 15:43:07",
-      "album": {
         "name": "New Rave",
         "url": "https://open.spotify.com/album/0fKU8zzmBjXNAJp5Uo2dml"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 208095,
       "name": "Kill Me Slow",
       "url": "https://open.spotify.com/track/2NZJKUPIGfJqLAzONNr4gv"
+    },
+    {
+      "added_at": "2022-10-12 15:43:07",
+      "album": {
+        "name": "Network - taken from Superstar",
+        "url": "https://open.spotify.com/album/3NBCC4dPJwOG5JNCpXUlNL"
+      },
+      "artists": [
+        {
+          "name": "Global Deejays",
+          "url": "https://open.spotify.com/artist/5M0Y6NBi3Wfwo2H1gtPl1L"
+        }
+      ],
+      "duration_ms": 224200,
+      "name": "The Sound Of San Francisco - Progressive Album Mix",
+      "url": "https://open.spotify.com/track/60tsXfCcG6Ljxsr8whOXL5"
     },
     {
       "added_at": "2022-10-12 15:43:07",
@@ -807,6 +807,30 @@
       "duration_ms": 147260,
       "name": "Turn Back Time",
       "url": "https://open.spotify.com/track/27bZ77uG7mEhydpaPvThR6"
+    },
+    {
+      "added_at": "2022-10-12 15:43:07",
+      "album": {
+        "name": "Better When You're Gone",
+        "url": "https://open.spotify.com/album/4ZoXNDicq0MrsGk1pM883o"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Brooks",
+          "url": "https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e"
+        },
+        {
+          "name": "Loote",
+          "url": "https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ"
+        }
+      ],
+      "duration_ms": 192402,
+      "name": "Better When You're Gone",
+      "url": "https://open.spotify.com/track/4Tvw0lweq9l2JPQKFbpbBQ"
     },
     {
       "added_at": "2022-10-12 15:43:07",
@@ -887,30 +911,6 @@
       "duration_ms": 153414,
       "name": "My Pony",
       "url": "https://open.spotify.com/track/4GprZcKZ8U6GBMXWVmkkWX"
-    },
-    {
-      "added_at": "2022-10-12 15:43:07",
-      "album": {
-        "name": "Better When You're Gone",
-        "url": "https://open.spotify.com/album/4ZoXNDicq0MrsGk1pM883o"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Brooks",
-          "url": "https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e"
-        },
-        {
-          "name": "Loote",
-          "url": "https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ"
-        }
-      ],
-      "duration_ms": 192402,
-      "name": "Better When You're Gone",
-      "url": "https://open.spotify.com/track/4Tvw0lweq9l2JPQKFbpbBQ"
     },
     {
       "added_at": "2022-10-12 15:43:07",
@@ -1227,6 +1227,26 @@
     {
       "added_at": "2022-10-12 15:43:07",
       "album": {
+        "name": "Menage A Trois",
+        "url": "https://open.spotify.com/album/4MpNQl6p23pbhKpvrv8EPo"
+      },
+      "artists": [
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        },
+        {
+          "name": "Holy Molly",
+          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
+        }
+      ],
+      "duration_ms": 168508,
+      "name": "Menage A Trois",
+      "url": "https://open.spotify.com/track/40vCMTDaDwwpf7DyBlmgEj"
+    },
+    {
+      "added_at": "2022-10-12 15:43:07",
+      "album": {
         "name": "So What",
         "url": "https://open.spotify.com/album/7c5V6ykHcEZRhxlDFdfaTr"
       },
@@ -1275,26 +1295,6 @@
     {
       "added_at": "2022-10-12 15:43:07",
       "album": {
-        "name": "Menage A Trois",
-        "url": "https://open.spotify.com/album/4MpNQl6p23pbhKpvrv8EPo"
-      },
-      "artists": [
-        {
-          "name": "LIZOT",
-          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
-        },
-        {
-          "name": "Holy Molly",
-          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
-        }
-      ],
-      "duration_ms": 168508,
-      "name": "Menage A Trois",
-      "url": "https://open.spotify.com/track/40vCMTDaDwwpf7DyBlmgEj"
-    },
-    {
-      "added_at": "2022-10-12 15:43:07",
-      "album": {
         "name": "Party On My Own (feat. FAULHABER)",
         "url": "https://open.spotify.com/album/0KyVN9LjYo0ASG1ibiShht"
       },
@@ -1319,6 +1319,26 @@
     {
       "added_at": "2022-10-12 15:43:07",
       "album": {
+        "name": "Permanence",
+        "url": "https://open.spotify.com/album/1Sq58aXNrzbQxmczMAtTGg"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        }
+      ],
+      "duration_ms": 231290,
+      "name": "Permanence",
+      "url": "https://open.spotify.com/track/05IbhAKODbXn8og9uaUgpc"
+    },
+    {
+      "added_at": "2022-10-12 15:43:07",
+      "album": {
         "name": "Remember the Summer (feat. Karra)",
         "url": "https://open.spotify.com/album/6B0znwNH8mpUMNgH7uO1H3"
       },
@@ -1339,26 +1359,6 @@
       "duration_ms": 170624,
       "name": "Remember the Summer (feat. Karra)",
       "url": "https://open.spotify.com/track/6S2MDC31VIH79OwGU87L0s"
-    },
-    {
-      "added_at": "2022-10-12 15:43:07",
-      "album": {
-        "name": "Permanence",
-        "url": "https://open.spotify.com/album/1Sq58aXNrzbQxmczMAtTGg"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-        }
-      ],
-      "duration_ms": 231290,
-      "name": "Permanence",
-      "url": "https://open.spotify.com/track/05IbhAKODbXn8og9uaUgpc"
     },
     {
       "added_at": "2022-10-12 15:43:07",

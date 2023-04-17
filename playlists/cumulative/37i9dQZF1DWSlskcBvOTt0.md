@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-396 songs - 1 day 16 hr 17 min
+397 songs - 1 day 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Cosmovision](https://open.spotify.com/track/2gauzJG2UlNCWiBP5ppcNc) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [Ravid](https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 3:33 | 2022-08-03 |  |
 | [Cumulonimbus Incus](https://open.spotify.com/track/2paMfzAp6rhZaAU5gjVfh6) | [Spencer Brown](https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK) | [Silver Linings](https://open.spotify.com/album/3OFxNZom1XclhLF4cU62n8) | 6:48 | 2021-07-30 | 2022-07-29 |
 | [Cure My Desire \(feat\. Clementine Douglas\) \- Themba Remix](https://open.spotify.com/track/5vaNPQoye1DYsXj0yckiCk) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6), [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC) | [Cure My Desire \(feat\. Clementine Douglas\) \[Themba Remix\]](https://open.spotify.com/album/00QRGLQDaGgBc9ukkiSgwi) | 3:40 | 2023-01-30 |  |
+| [Dark Sun](https://open.spotify.com/track/4Rlbt7DrxqHqT2gSAOVbLe) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Momentum](https://open.spotify.com/album/0dqK6mrJ3jnp8fmN5gbbTB) | 7:10 | 2023-04-07 |  |
 | [Days Like This](https://open.spotify.com/track/51l7PA4wcyQMEJeuanHrbf) | [Fiin](https://open.spotify.com/artist/1epLtVgUJz01HSPZbdAT1X) | [Days Like This](https://open.spotify.com/album/0wO5kcElEfWFL0FMlehALZ) | 5:20 | 2021-04-21 | 2022-07-29 |
 | [Dede](https://open.spotify.com/track/7dR999H4VruQjlx7yFLR2U) | [Sinca](https://open.spotify.com/artist/5TjfRHDPGSphgwJaiGauqT) | [Dede](https://open.spotify.com/album/16KOMbLfPxLqnWmS7qCKmo) | 4:39 | 2022-09-09 | 2022-10-26 |
 | [Delusions](https://open.spotify.com/track/2M6XhuILqt1uh6VzKgQYYu) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO), [Local Dialect](https://open.spotify.com/artist/1dFKuU0lKJNg27s2LKLZ2j) | [Delusions](https://open.spotify.com/album/1lGzqoNRkYYB7m7y8SQFKN) | 4:32 | 2021-10-01 | 2022-07-10 |
@@ -205,7 +206,7 @@
 | [Looking at Your Pager \- Solomun Remix](https://open.spotify.com/track/3SrLEavYNM4QQ8IaTySHGT) | [KH](https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Looking At Your Pager \(Solomun Remix\)](https://open.spotify.com/album/7HhVsiE0RjoBhLvE3P1O6u) | 4:28 | 2022-11-18 | 2023-03-31 |
 | [Looking In The Sky \- Radio Edit](https://open.spotify.com/track/4o7tMl7CwHMKKCUDgbZCC9) | [Emanuel Satie](https://open.spotify.com/artist/3veg7sFGWTk62Ecwj6mzij), [Maga](https://open.spotify.com/artist/3SLZrLX47S9PmPRabiESVl), [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE), [Sean Doron](https://open.spotify.com/artist/1qc7Whymce7gEOJ92t4ocX), [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3), [Paul Brenning](https://open.spotify.com/artist/4LJbPEKdCcfzE1x0GhUnL6) | [Looking In The Sky](https://open.spotify.com/album/2On5ucuoSWhuQwU5qZcM2Z) | 4:31 | 2022-12-02 | 2023-01-26 |
 | [Los Dos](https://open.spotify.com/track/4jbCJmt7MblzdjqafFKMIz) | [El Mukuka](https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd), [Kreative Nativez](https://open.spotify.com/artist/4s2DjPiXzoh6KErcgfMl6G), [XAS](https://open.spotify.com/artist/469qIiJtQqL9aRUZtuBBmx) | [Los Dos](https://open.spotify.com/album/1Ldq4SBeOmEGt9UxcR4Sij) | 4:52 | 2022-07-01 | 2022-07-23 |
-| [Losing Game](https://open.spotify.com/track/4eSPKciUMc2ZzzCqwBuWNA) | [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [Losing Game](https://open.spotify.com/album/5QP8mNwbdpxuz9cLG49igL) | 5:31 | 2022-09-30 |  |
+| [Losing Game](https://open.spotify.com/track/4eSPKciUMc2ZzzCqwBuWNA) | [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [Losing Game](https://open.spotify.com/album/5QP8mNwbdpxuz9cLG49igL) | 5:31 | 2022-09-30 | 2023-04-17 |
 | [Loss Of Hope](https://open.spotify.com/track/5QRhs05R9MOXHQC2OOn5bq) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Distorted Youth EP](https://open.spotify.com/album/65OPNarZvRrfJM2BDyHAVi) | 7:19 | 2022-04-19 |  |
 | [Louna](https://open.spotify.com/track/2Ms9rXvqIqCzn9BYkhVoYA) | [Sam Shure](https://open.spotify.com/artist/51YmUpitluHsvMTXJ2rsiN) | [Laconia](https://open.spotify.com/album/5KzPSUu9nrd53wZqESbx6w) | 8:35 | 2021-04-21 |  |
 | [Luciernagas](https://open.spotify.com/track/2SHbl5MEmDxbXsG0QdDlc0) | [Barrio Lindo](https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p) | [Fulgor](https://open.spotify.com/album/3dTBQ3DeErJkq1m1M64aCz) | 5:56 | 2021-04-21 | 2022-07-27 |

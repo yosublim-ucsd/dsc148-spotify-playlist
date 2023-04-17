@@ -4,7 +4,7 @@
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-419 songs - 23 hr 52 min
+420 songs - 23 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,6 +322,7 @@
 | [QUN](https://open.spotify.com/track/2MMIvXUnusZ0gdqJIZmyMC) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [QUN](https://open.spotify.com/album/47XooQzRkZy0kh6ccRPceH) | 3:09 | 2022-01-07 | 2023-03-03 |
 | [Qué Raro Es Este Lugar](https://open.spotify.com/track/6P39XaKGRchk7Ug7jSIWQe) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT) | [Qué Raro Es Este Lugar](https://open.spotify.com/album/1npZZgI8E99ZyQKj9jpPcJ) | 4:13 | 2022-01-07 | 2022-07-26 |
 | [Radar](https://open.spotify.com/track/2ZrnMV7mUPqU2qPgFyEa23) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Radar](https://open.spotify.com/album/21upJvK4VBVEwgyftb1k58) | 2:42 | 2022-01-07 | 2023-04-14 |
+| [Radar](https://open.spotify.com/track/4nW9jVbdboPpVCFJ8UWeKX) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Radar](https://open.spotify.com/album/3CiE56hBxIZtHpAWZHScv5) | 2:42 | 2023-04-14 |  |
 | [Rapunzel](https://open.spotify.com/track/5yRqtny5JXioXV8SHO30nw) | [Joaquín Vitola](https://open.spotify.com/artist/4GHo23JMbtceTkGJdnEaXd) | [Rapunzel](https://open.spotify.com/album/1kEkSvrq0Hv2K80V7YfirE) | 3:42 | 2022-04-01 | 2022-04-19 |
 | [rayo violeta](https://open.spotify.com/track/5R5kHA3tw9s9DUUWmiEH5V) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [Percii](https://open.spotify.com/artist/3Yo0r3OCG4QOTtRl8gThfd) | [ENVOLTORIO](https://open.spotify.com/album/0PawHcpENJnqCXwKranhS3) | 2:53 | 2022-01-28 | 2022-07-22 |
 | [Reina](https://open.spotify.com/track/4deE2RmG4R1N1mlHJABUeW) | [Agua Florida](https://open.spotify.com/artist/6OhBvIgI7E71kveV1vItnq) | [Reina](https://open.spotify.com/album/64uweRga2ScsdB8Nf77yjg) | 3:03 | 2022-01-07 | 2022-07-21 |
@@ -426,6 +427,6 @@
 | [Zoe](https://open.spotify.com/track/1Zp6wk74v4tf1UPgX75IQB) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Como Antes](https://open.spotify.com/album/56qAd8JFUBjW7gdAEQinHT) | 3:34 | 2022-07-15 | 2023-03-03 |
 | [Zoe](https://open.spotify.com/track/4ukRrm8X7wezPgdgdqOaTf) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Como Antes](https://open.spotify.com/album/1pPs1H9wM7IgDpadTkI5dQ) | 3:34 | 2022-04-01 | 2022-07-27 |
 | [Éramos](https://open.spotify.com/track/4M30Nb65x1xg4CpScEoU96) | [Palo Di Paolo](https://open.spotify.com/artist/6HOl2rFte7tlucs7dYAVBc), [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT) | [Éramos](https://open.spotify.com/album/5XSPUnJv6QtIVhqE0XfqxI) | 2:49 | 2022-07-15 | 2022-07-25 |
-| [Única](https://open.spotify.com/track/3BmtYNRAzVoKjfOccz83Es) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Única](https://open.spotify.com/album/6Abzs1QKczzZ2vVLSf1bH9) | 3:20 | 2022-01-07 |  |
+| [Única](https://open.spotify.com/track/3BmtYNRAzVoKjfOccz83Es) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Única](https://open.spotify.com/album/6Abzs1QKczzZ2vVLSf1bH9) | 3:20 | 2022-01-07 | 2023-04-17 |
 
 \*This playlist was first scraped on 2022-01-21. Prior content cannot be recovered.

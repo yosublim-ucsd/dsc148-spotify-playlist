@@ -1,12 +1,12 @@
 {
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o.",
-  "num_followers": 106685,
+  "num_followers": 106793,
   "original_name": "Trap Classe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjI5NTQ3NiwwMDAwMDAwMDZiODgwM2FmZTY2ZmFiM2VhY2NmYzZkMTg2ODdlNGQ2",
+  "snapshot_id": "MTY3NjI5NTQ3NiwwMDAwMDAwMDJmZDcyNDcwNTY0NzFmN2ZjNWQ3ZGY3MjYxNGM1NGNk",
   "tracks": [
     {
       "added_at": "2023-02-07 20:52:54",
@@ -613,30 +613,6 @@
       "url": "https://open.spotify.com/track/7rJK5hWRhsG40Ga9zp7DlO"
     },
     {
-      "added_at": "2023-04-16 00:56:12",
-      "album": {
-        "name": "Menino Ney",
-        "url": "https://open.spotify.com/album/3IWRs9fZhKc4i7lCkqNPHU"
-      },
-      "artists": [
-        {
-          "name": "Chefin",
-          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "Dazz",
-          "url": "https://open.spotify.com/artist/0mabpBrWkBHo7UHcyOclit"
-        }
-      ],
-      "duration_ms": 139636,
-      "name": "Menino Ney",
-      "url": "https://open.spotify.com/track/3n7ASTQanOp5milmESBqlt"
-    },
-    {
       "added_at": "2023-02-07 20:52:54",
       "album": {
         "name": "Fio a Fio",
@@ -659,6 +635,30 @@
       "duration_ms": 178356,
       "name": "Fio a Fio",
       "url": "https://open.spotify.com/track/6XFykQIcRhoIhud5NZSsyL"
+    },
+    {
+      "added_at": "2023-04-17 00:50:11",
+      "album": {
+        "name": "Menino Ney",
+        "url": "https://open.spotify.com/album/3IWRs9fZhKc4i7lCkqNPHU"
+      },
+      "artists": [
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Dazz",
+          "url": "https://open.spotify.com/artist/0mabpBrWkBHo7UHcyOclit"
+        }
+      ],
+      "duration_ms": 139636,
+      "name": "Menino Ney",
+      "url": "https://open.spotify.com/track/3n7ASTQanOp5milmESBqlt"
     },
     {
       "added_at": "2023-02-07 20:52:54",
@@ -739,6 +739,26 @@
     {
       "added_at": "2023-02-07 20:52:54",
       "album": {
+        "name": "A Cunhada",
+        "url": "https://open.spotify.com/album/18mcw81gkxsDALOpPDPpGf"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "AMUSIK",
+          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
+        }
+      ],
+      "duration_ms": 167937,
+      "name": "A Cunhada",
+      "url": "https://open.spotify.com/track/2NmCWuOfyIZBGdBHezHboQ"
+    },
+    {
+      "added_at": "2023-02-07 20:52:54",
+      "album": {
         "name": "Chega de Falar de Ice",
         "url": "https://open.spotify.com/album/2Cylgte8uM34hQxgQP74xg"
       },
@@ -799,22 +819,6 @@
     {
       "added_at": "2023-02-07 20:52:54",
       "album": {
-        "name": "Ok Baby",
-        "url": "https://open.spotify.com/album/0N8j8hvyEfBrQbBPMhNGD9"
-      },
-      "artists": [
-        {
-          "name": "Japa",
-          "url": "https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA"
-        }
-      ],
-      "duration_ms": 164210,
-      "name": "Ok Baby",
-      "url": "https://open.spotify.com/track/6EHSC5FGDVtL3LPcHkZQCi"
-    },
-    {
-      "added_at": "2023-02-07 20:52:54",
-      "album": {
         "name": "Zero Mancada",
         "url": "https://open.spotify.com/album/4QLHe2XXswsU9cB4gV7zJE"
       },
@@ -843,42 +847,18 @@
     {
       "added_at": "2023-02-07 20:52:54",
       "album": {
-        "name": "A Cunhada",
-        "url": "https://open.spotify.com/album/18mcw81gkxsDALOpPDPpGf"
+        "name": "Ok Baby",
+        "url": "https://open.spotify.com/album/0N8j8hvyEfBrQbBPMhNGD9"
       },
       "artists": [
         {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "AMUSIK",
-          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
+          "name": "Japa",
+          "url": "https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA"
         }
       ],
-      "duration_ms": 167937,
-      "name": "A Cunhada",
-      "url": "https://open.spotify.com/track/2NmCWuOfyIZBGdBHezHboQ"
-    },
-    {
-      "added_at": "2023-02-07 20:52:54",
-      "album": {
-        "name": "Criminal Influencer",
-        "url": "https://open.spotify.com/album/4c14Voy3lrcEd4pseEreG3"
-      },
-      "artists": [
-        {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
-        },
-        {
-          "name": "Tarcis",
-          "url": "https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg"
-        }
-      ],
-      "duration_ms": 116571,
-      "name": "Criminal Influencer",
-      "url": "https://open.spotify.com/track/1yGJUwPOptMclOwV2kvAxH"
+      "duration_ms": 164210,
+      "name": "Ok Baby",
+      "url": "https://open.spotify.com/track/6EHSC5FGDVtL3LPcHkZQCi"
     },
     {
       "added_at": "2023-02-07 20:52:54",
@@ -927,6 +907,26 @@
     {
       "added_at": "2023-02-07 20:52:54",
       "album": {
+        "name": "Criminal Influencer",
+        "url": "https://open.spotify.com/album/4c14Voy3lrcEd4pseEreG3"
+      },
+      "artists": [
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "Tarcis",
+          "url": "https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg"
+        }
+      ],
+      "duration_ms": 116571,
+      "name": "Criminal Influencer",
+      "url": "https://open.spotify.com/track/1yGJUwPOptMclOwV2kvAxH"
+    },
+    {
+      "added_at": "2023-02-07 20:52:54",
+      "album": {
         "name": "Love And Choppa",
         "url": "https://open.spotify.com/album/4cTdjeCkYYssaUIWdhZhyF"
       },
@@ -963,22 +963,6 @@
       "duration_ms": 159010,
       "name": "Tapa",
       "url": "https://open.spotify.com/track/3IlV0oQTh8DrBp38CVJ91p"
-    },
-    {
-      "added_at": "2023-02-07 20:52:54",
-      "album": {
-        "name": "Dejavu",
-        "url": "https://open.spotify.com/album/1HyDJJWmrJjfz1txHR17UF"
-      },
-      "artists": [
-        {
-          "name": "Japa",
-          "url": "https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA"
-        }
-      ],
-      "duration_ms": 146165,
-      "name": "Dejavu",
-      "url": "https://open.spotify.com/track/4WnUiUZyqIF7vP6S4wriKG"
     },
     {
       "added_at": "2023-02-07 20:52:54",
@@ -1031,6 +1015,22 @@
     {
       "added_at": "2023-02-07 20:52:54",
       "album": {
+        "name": "Ak Forty Seven",
+        "url": "https://open.spotify.com/album/3nBoAaBT5TqSgu2BSrtgV3"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        }
+      ],
+      "duration_ms": 172973,
+      "name": "Ak Forty Seven",
+      "url": "https://open.spotify.com/track/7jYpr1CDp4NQDo0uGekLdG"
+    },
+    {
+      "added_at": "2023-02-07 20:52:54",
+      "album": {
         "name": "Bvlgari",
         "url": "https://open.spotify.com/album/4KSMA20Et20Z4BBhxSYzrS"
       },
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2023-02-07 20:52:54",
       "album": {
-        "name": "Ak Forty Seven",
-        "url": "https://open.spotify.com/album/3nBoAaBT5TqSgu2BSrtgV3"
+        "name": "Dejavu",
+        "url": "https://open.spotify.com/album/1HyDJJWmrJjfz1txHR17UF"
       },
       "artists": [
         {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+          "name": "Japa",
+          "url": "https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA"
         }
       ],
-      "duration_ms": 172973,
-      "name": "Ak Forty Seven",
-      "url": "https://open.spotify.com/track/7jYpr1CDp4NQDo0uGekLdG"
+      "duration_ms": 146165,
+      "name": "Dejavu",
+      "url": "https://open.spotify.com/track/4WnUiUZyqIF7vP6S4wriKG"
     },
     {
       "added_at": "2023-02-07 20:52:54",

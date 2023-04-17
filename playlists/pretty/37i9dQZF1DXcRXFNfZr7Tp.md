@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRXFNfZr7Tp.md) - [plain]
 
 > Current favorites and exciting new music\. Cover: David Guetta, Anne\-Marie & Coi Leray
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,763,748 likes - 93 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,764,078 likes - 93 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "All 60s, all ballads. Cover: Etta James",
-  "num_followers": 124052,
+  "num_followers": 124123,
   "original_name": "60s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjY4MjA3NiwwMDAwMDAwMDJhZjBmNjgzNjY0OGQyOTc1YWQ4ODAwMjk4NWU3NmRh",
+  "snapshot_id": "MTY3MjY4MjA3NiwwMDAwMDAwMDMxOGYwNmE0M2VlNmNhZjg0YjhlMGM5OTMxZjU5Y2Qw",
   "tracks": [
     {
       "added_at": "2023-01-02 17:54:36",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-01-02 17:54:36",
       "album": {
-        "name": "Elvis 30 #1 Hits",
-        "url": "https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 177840,
-      "name": "Can't Help Falling In Love",
-      "url": "https://open.spotify.com/track/4hAUynwghvrqDXs1ejKNEq"
-    },
-    {
-      "added_at": "2023-01-02 17:54:36",
-      "album": {
         "name": "Pain in My Heart",
         "url": "https://open.spotify.com/album/2BFOk5b8jjm2xmsbx7qXq3"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 154533,
       "name": "These Arms of Mine",
       "url": "https://open.spotify.com/track/4skknrc3sJqaPTtUr2cwFq"
+    },
+    {
+      "added_at": "2023-01-02 17:54:36",
+      "album": {
+        "name": "Elvis 30 #1 Hits",
+        "url": "https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 177840,
+      "name": "Can't Help Falling In Love",
+      "url": "https://open.spotify.com/track/4hAUynwghvrqDXs1ejKNEq"
     },
     {
       "added_at": "2023-01-02 17:54:36",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-01-02 17:54:36",
       "album": {
-        "name": "You'll Lose A Good Thing",
-        "url": "https://open.spotify.com/album/1M9sGvei24wKfCC1P7CESZ"
-      },
-      "artists": [
-        {
-          "name": "Barbara Lynn",
-          "url": "https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB"
-        }
-      ],
-      "duration_ms": 159866,
-      "name": "You'll Lose A Good Thing",
-      "url": "https://open.spotify.com/track/5CEREcGR5WaLt40YzTQ62e"
-    },
-    {
-      "added_at": "2023-01-02 17:54:36",
-      "album": {
         "name": "30 Greatest Hits: Portrait of a Legend 1951-1964",
         "url": "https://open.spotify.com/album/4jiO2jRz7g50ESvYYKsKwZ"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 165280,
       "name": "Bring It On Home To Me",
       "url": "https://open.spotify.com/track/4yjz1aazw6R8ZURpGbCAkp"
+    },
+    {
+      "added_at": "2023-01-02 17:54:36",
+      "album": {
+        "name": "You'll Lose A Good Thing",
+        "url": "https://open.spotify.com/album/1M9sGvei24wKfCC1P7CESZ"
+      },
+      "artists": [
+        {
+          "name": "Barbara Lynn",
+          "url": "https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB"
+        }
+      ],
+      "duration_ms": 159866,
+      "name": "You'll Lose A Good Thing",
+      "url": "https://open.spotify.com/track/5CEREcGR5WaLt40YzTQ62e"
     },
     {
       "added_at": "2023-01-02 17:54:36",

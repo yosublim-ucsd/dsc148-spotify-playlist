@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PB22uESAd3.md) - [plain]
 
 > The artists who laid the groundwork for Rock & Roll\. Cover: Sister Rosetta Tharpe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,392 likes - 70 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,472 likes - 70 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PB22uESAd3.md) - [plain]
 | 8 | [See See Rider](https://open.spotify.com/track/1MW7hcqDWh0ODZA5hVunaO) | [LaVern Baker](https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw) | [See See Rider](https://open.spotify.com/album/4ngkRpyw98uagKb7lOlQ03) | 2:30 |
 | 9 | [Hang up My Rock and Roll Shoes](https://open.spotify.com/track/1L6JGepB2558f8XSYsw36G) | [Chuck Willis](https://open.spotify.com/artist/21uawITknPcgjwdJuvpcGE) | [I Remember Chuck Willis \(US Internet Release\)](https://open.spotify.com/album/00sUHXj82zGyIxUCJCLm8u) | 2:19 |
 | 10 | [Shake, Rattle and Roll](https://open.spotify.com/track/7aLoa1F3EoM8AeC6Ao1RKz) | [Big Joe Turner](https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7) | [Shake Rattle & Rock](https://open.spotify.com/album/3srwW4zf3HJcOItxUokJgI) | 2:59 |
-| 11 | [Highway 49](https://open.spotify.com/track/12notHo8LwKc09rKORGtAQ) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Steve Winwood](https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte), [Bill Wyman](https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC), [Charlie Watts](https://open.spotify.com/artist/5e50biMeBYtqgeMAAMPi9k), [Hubert Sumlin](https://open.spotify.com/artist/3Dogy4uGWEG13OyOJmw3R9) | [The London Howlin’ Wolf Sessions \(Deluxe Edition\)](https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l) | 2:47 |
+| 11 | [Highway 49](https://open.spotify.com/track/12notHo8LwKc09rKORGtAQ) | [Howlin' Wolf with Steve Winwood: Piano & Organ, Bill Wyman: Bass Guitar, Shaker & Cowbell, Charlie Watts: Drums, Conga & Assorted Percussion](https://open.spotify.com/artist/33yY8KynjFTutORPp8Q8ln), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Steve Winwood](https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte), [Bill Wyman](https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC), [Charlie Watts](https://open.spotify.com/artist/5e50biMeBYtqgeMAAMPi9k), [Hubert Sumlin](https://open.spotify.com/artist/3Dogy4uGWEG13OyOJmw3R9) | [The London Howlin’ Wolf Sessions \(Deluxe Edition\)](https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l) | 2:47 |
 | 12 | [You Can't Judge A Book By Its Cover](https://open.spotify.com/track/4HEmPMRG1Mz4pYEpYbWTO0) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [The Chess Box](https://open.spotify.com/album/5cERxgxqQGUNmqEjsaz0B8) | 3:14 |
 | 13 | [We're Gonna Rock, We're Gonna Roll](https://open.spotify.com/track/7n4jHBUYOtwr8AkEihuwL2) | [Wild Bill Moore](https://open.spotify.com/artist/6qVDOKAgcvJ5YQcjQhlf4a), [Paul Williams](https://open.spotify.com/artist/3f626JSVauIhTQgatsFcs4) | [Stompin' At The Savoy: The Original Indie Label, 1944\-1961](https://open.spotify.com/album/7FX7LtZgNBhC56MkUMfhCf) | 2:38 |
 | 14 | [Whole Lotta Shakin' Goin' On](https://open.spotify.com/track/2QrBIUz6Mbmkh5dqcLzTHp) | [Big Maybelle](https://open.spotify.com/artist/7yJXicqUOMPY5Iofua29C0) | [R&B: From Doo\-Wop To Hip\-Hop](https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8) | 2:44 |

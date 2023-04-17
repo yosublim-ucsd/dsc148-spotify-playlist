@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 
 > The early pioneers and current favorites in Southern Rock\. Cover: Lynyrd Skynyrd
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,951 likes - 100 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,044 likes - 100 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 77 | [Southern Comfort](https://open.spotify.com/track/1TLlIe8ipNVx5pfkZPAbvM) | [Jimmie Van Zant Band](https://open.spotify.com/artist/3UaCfTAPqSeGFYQU9WS83C) | [Southern Comfort](https://open.spotify.com/album/06n91VSG9qfkTY9znysZ3A) | 5:23 |
 | 78 | [Bad Little Doggie](https://open.spotify.com/track/3ugXVwlV5FvbyeYRZ0YjFN) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Dark Side of the Mule \(Deluxe Edition\)](https://open.spotify.com/album/2V78RuVG8YmX509TP0DM51) | 3:43 |
 | 79 | [Georgia Rhythm](https://open.spotify.com/track/7aV9xwnPgzTWj3yG0nAURt) | [Atlanta Rhythm Section](https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw) | [20th Century Masters: The Millennium Collection: Best Of Atlanta Rhythm Section](https://open.spotify.com/album/72HlYFr3YD7gWjFacHOZ6f) | 4:53 |
-| 80 | [Southern Hospitality](https://open.spotify.com/track/5Egt33w53KOIf2DorWqzmr) | [Bishop Black](https://open.spotify.com/artist/1HY3IWHxgzIFyQ6HBAJmSh) | [Bishop Black](https://open.spotify.com/album/3adG9Zj2SKjqR34zUTBxpR) | 4:05 |
-| 81 | [Come On](https://open.spotify.com/track/4sGtV91CRzmMqVCwWPdPuM) | [Southern Bitch](https://open.spotify.com/artist/5zpWZ217cRQHwQlSZSdKnR) | [Snake in the Grass](https://open.spotify.com/album/6tq5yl940mgDAIEdkZe98J) | 4:03 |
+| 80 | [Come On](https://open.spotify.com/track/4sGtV91CRzmMqVCwWPdPuM) | [Southern Bitch](https://open.spotify.com/artist/5zpWZ217cRQHwQlSZSdKnR) | [Snake in the Grass](https://open.spotify.com/album/6tq5yl940mgDAIEdkZe98J) | 4:03 |
+| 81 | [Southern Hospitality](https://open.spotify.com/track/5Egt33w53KOIf2DorWqzmr) | [Bishop Black](https://open.spotify.com/artist/1HY3IWHxgzIFyQ6HBAJmSh) | [Bishop Black](https://open.spotify.com/album/3adG9Zj2SKjqR34zUTBxpR) | 4:05 |
 | 82 | [It Hurts To Want It So Bad](https://open.spotify.com/track/7HdVnKXXDuFz003iLaky53) | [Sea Level](https://open.spotify.com/artist/3VqsPf2lM6ulJ5fjCJquyP) | [Cats On The Coast](https://open.spotify.com/album/3R4P3ai1blLNI2c8WXhpqR) | 3:39 |
 | 83 | [Island](https://open.spotify.com/track/0UHSZ1m3t9vcL1MYqTJSge) | [The Gregg Allman Band](https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw) | [Just Before The Bullets Fly](https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ) | 4:15 |
 | 84 | [Grey Ghost](https://open.spotify.com/track/1noWIYqgKF7dv4IGSL21wZ) | [Henry Paul Band](https://open.spotify.com/artist/4GGDnwXsF5e9gjhJMRZ03s) | [Grey Ghost](https://open.spotify.com/album/0DCaJ8Y99VKHdLHaMGeJ1M) | 6:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 99 | [Rock Bottom](https://open.spotify.com/track/0c4aazSW1tPBa77emdNRjv) | [The Dickey Betts Band](https://open.spotify.com/artist/27xGA3Cv8vhbzRPWPH7xHP) | [Pattern Disruptive](https://open.spotify.com/album/4MfdvvYsqYDUcmQBFKQdmq) | 5:41 |
 | 100 | [Open Road](https://open.spotify.com/track/0qmMJfVn7KlhRab9zgwS7z) | [Grinderswitch](https://open.spotify.com/artist/0zdtxv7cxrUpRCS7IbKyYz) | [Pullin' Together](https://open.spotify.com/album/4KYsD0KdmyZZT34Sp8hLUz) | 4:09 |
 
-Snapshot ID: `MTY3NDA3ODc3NSwwMDAwMDAwMDcxZGNkMzU4YjdhYjMzMjY4MzVlYzAxZDFjMmVhMjlj`
+Snapshot ID: `MTY3NDA3ODc3NSwwMDAwMDAwMDExY2IxZDA2ZDhhOGJiZjI1Nzc0ZDliMzlhMmU0Zjky`

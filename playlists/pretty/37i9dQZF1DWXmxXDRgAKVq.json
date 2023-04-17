@@ -1,6 +1,6 @@
 {
   "description": "Curated by A$AP Mob in honor of A$AP Yams.",
-  "num_followers": 189811,
+  "num_followers": 189823,
   "original_name": "This Is A$AP Mob",
   "owner": {
     "name": "Spotify",
@@ -479,13 +479,17 @@
     {
       "added_at": "2022-09-23 14:27:13",
       "album": {
-        "name": "Feels So Good (feat. A$AP Ferg, A$AP Nast, A$AP Rocky & A$AP Twelvyy)",
+        "name": "Feels So Good (feat. A$AP Rocky, A$AP Ferg, A$AP Nast & A$AP Twelvyy)",
         "url": "https://open.spotify.com/album/0fPPktynlWuMw4VOFGCS1Y"
       },
       "artists": [
         {
           "name": "A$AP Mob",
           "url": "https://open.spotify.com/artist/7yO4IdJjCEPz7YgZMe25iS"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
         },
         {
           "name": "A$AP Ferg",
@@ -496,16 +500,12 @@
           "url": "https://open.spotify.com/artist/1uLYUm2A6kpFYAECfAFoH1"
         },
         {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        },
-        {
           "name": "A$AP Twelvyy",
           "url": "https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P"
         }
       ],
       "duration_ms": 205668,
-      "name": "Feels So Good (feat. A$AP Ferg, A$AP Nast, A$AP Rocky & A$AP Twelvyy)",
+      "name": "Feels So Good (feat. A$AP Rocky, A$AP Ferg, A$AP Nast & A$AP Twelvyy)",
       "url": "https://open.spotify.com/track/2GDurWqMjyoIN4tufyWMHw"
     },
     {

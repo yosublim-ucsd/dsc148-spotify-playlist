@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4aaDnIu6X4bZwMQ2yc4YAg">Emily Falvey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121 likes - 78 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 120 likes - 78 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 40 | [Time for You](https://open.spotify.com/track/6alla5DflGEfEWnvVSnOJM) | [Lindsay James](https://open.spotify.com/artist/4cBmS6uvIFgrRQGOCAuNZz) | [Time for You](https://open.spotify.com/album/4VoczVespp2I2Sf0348Qbg) | 2:49 |
 | 41 | [Homesick](https://open.spotify.com/track/1xLJqyCa4Soe31BJ5TCReE) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July](https://open.spotify.com/album/3Y22F7f6OISIYwTirf2E6R) | 2:55 |
 | 42 | [Break It](https://open.spotify.com/track/4XMbKS9GO46sPXoJOO1ffu) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [Canaan Cox](https://open.spotify.com/album/3LzwdHRLsgho0NkmHIs0mA) | 3:05 |
-| 43 | [7/22](https://open.spotify.com/track/4IggUXbmr9g0LyDealeCH7) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July](https://open.spotify.com/album/3Y22F7f6OISIYwTirf2E6R) | 2:56 |
-| 44 | [6 string american dream](https://open.spotify.com/track/43lYzLeOEuCI3ylod1BluA) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [being a dad and missing mine](https://open.spotify.com/album/4kf6OiSKhk7ZIRRnkP4AGA) | 3:13 |
+| 43 | [6 string american dream](https://open.spotify.com/track/43lYzLeOEuCI3ylod1BluA) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [being a dad and missing mine](https://open.spotify.com/album/4kf6OiSKhk7ZIRRnkP4AGA) | 3:13 |
+| 44 | [7/22](https://open.spotify.com/track/4IggUXbmr9g0LyDealeCH7) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July](https://open.spotify.com/album/3Y22F7f6OISIYwTirf2E6R) | 2:56 |
 | 45 | [Never Now](https://open.spotify.com/track/2gSFr15E0Mv4cI6dhZJLWs) | [Elephants Everywhere](https://open.spotify.com/artist/6BWEZz5zvfJGBjJZhlAWM5), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Never Now](https://open.spotify.com/album/4k7wUy1wwoaIRvkMbbekNu) | 3:32 |
 | 46 | [h8 u right now](https://open.spotify.com/track/3FPVguQo4fLeBVPLRZYwNE) | [Syence](https://open.spotify.com/artist/4VfTgWhy9PKLJN3xKJcDqf), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [h8 u right now](https://open.spotify.com/album/0qFBov62uuQlMnViBkI2rl) | 2:57 |
 | 47 | [Trust Issues](https://open.spotify.com/track/0MdlrWJAGxGXEC4qQCEZHP) | [Jackie Castro](https://open.spotify.com/artist/6blpGtm31QFko8NcqeOxvN) | [Thank you for your patience.](https://open.spotify.com/album/2OkKCOuivjuzskcq7kqDNB) | 3:28 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 61 | [The Truth](https://open.spotify.com/track/1iEBtGIwux7Z91TkCzbDV7) | [Eloise Alterman](https://open.spotify.com/artist/6fwUdydSdIHu9NHHTCDYc0) | [The Truth](https://open.spotify.com/album/7uTgWHct2uQraEWN3IXLuv) | 3:03 |
 | 62 | [There Goes My Heart](https://open.spotify.com/track/3PBjyEIhY26g5wByX9lDBt) | [Liz Huett](https://open.spotify.com/artist/4wh5xUIEU8YlGPXZHV6klA) | [There Goes My Heart](https://open.spotify.com/album/7h2JwEdU03S7OoTasIdhWx) | 2:32 |
 | 63 | [Miss It Now \(For Sarah\)](https://open.spotify.com/track/5PpehEZDyUuDn9Kq3SkATF) | [Liz Huett](https://open.spotify.com/artist/4wh5xUIEU8YlGPXZHV6klA) | [Miss It Now \(For Sarah\)](https://open.spotify.com/album/1xGWc24fUFh0QtXmCfQvSG) | 2:30 |
-| 64 | [Personal](https://open.spotify.com/track/3DCu17yxNOj44wpNg9h3YT) | [Summer Overstreet](https://open.spotify.com/artist/73z6hYt1jsBWSbm2irWqlz) | [Personal](https://open.spotify.com/album/5PSkXaHWqp6xQZMQvDJ74b) | 2:54 |
-| 65 | [Too Good](https://open.spotify.com/track/10O0IDtXxKqWh99trwm83p) | [Sarahbeth Taite](https://open.spotify.com/artist/6iCtgvVXPJTVGGUfVzztN0) | [For My Own Good](https://open.spotify.com/album/42zUazIJf9BUVdN66V0Bx3) | 3:06 |
+| 64 | [Too Good](https://open.spotify.com/track/10O0IDtXxKqWh99trwm83p) | [Sarahbeth Taite](https://open.spotify.com/artist/6iCtgvVXPJTVGGUfVzztN0) | [For My Own Good](https://open.spotify.com/album/42zUazIJf9BUVdN66V0Bx3) | 3:06 |
+| 65 | [Personal](https://open.spotify.com/track/3DCu17yxNOj44wpNg9h3YT) | [Summer Overstreet](https://open.spotify.com/artist/73z6hYt1jsBWSbm2irWqlz) | [Personal](https://open.spotify.com/album/5PSkXaHWqp6xQZMQvDJ74b) | 2:54 |
 | 66 | [Where Do We Go \- The Voice Performance](https://open.spotify.com/track/5a7QUeuh2OXw0SI4go5shg) | [John Holiday](https://open.spotify.com/artist/1t7W0bPXdarbjiCuEeFv2y) | [The Season 19 Collection \(The Voice Performance\)](https://open.spotify.com/album/2V28iwMeICBbv2Qqsi9gd1) | 2:27 |
 | 67 | [Easy on Me](https://open.spotify.com/track/4U35K9PqSqC28vhsEYCYru) | [Jack Newsome](https://open.spotify.com/artist/0JWzjpVD9Y6AJKIEg1JkYj) | [All Dressed Up](https://open.spotify.com/album/2fTcxmyd15YE0SvnGfwGGY) | 2:56 |
 | 68 | [Place to Be](https://open.spotify.com/track/3FKQ3HUw36ipWMhh8UvPzk) | [Drty Shdw](https://open.spotify.com/artist/1V5Vqlxw4xGhfGQt4N64DL), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Place to Be](https://open.spotify.com/album/6eX0PDJYxbHmcbQJfoG5k8) | 3:52 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 77 | [Love's Contagious](https://open.spotify.com/track/0UjBGfWrjApND3MKR6winT) | [Darby](https://open.spotify.com/artist/151Z1Ly2l0u5Vm4zugwQTT) | [Love's Contagious](https://open.spotify.com/album/6iZ25yelMx8XcA85uW96dR) | 2:19 |
 | 78 | [Parallel Universe](https://open.spotify.com/track/7Bjeh8lHQZMolHSm4kX2Ie) | [Navyhue](https://open.spotify.com/artist/1ab6W5waGBlE1nmkVtLdX5) | [Parallel Universe](https://open.spotify.com/album/00zC5ot02HOcq5pf9odGIw) | 3:32 |
 
-Snapshot ID: `MjgwMjY3MzYsMDAwMDAwMDBjOWViNThkMTQ1ZWQzNjQzZGE2NTY0YzQ4MjJmMWIwYw==`
+Snapshot ID: `MjgwMjgxNzYsMDAwMDAwMDBhMjVjOGRkMGU2NDY0NmEyNmMwMDBmNzQ4NTY3NmE4Zg==`

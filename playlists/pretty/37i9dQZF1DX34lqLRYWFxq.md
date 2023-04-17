@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > New adventures in rock start here\. Cover: TALK
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,826 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,839 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

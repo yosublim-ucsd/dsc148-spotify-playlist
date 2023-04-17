@@ -4,7 +4,7 @@
 
 > Your music\. Your faith\. Your life\. This is Pop for life!  Cover artist: Blessing Offor
 
-340 songs - 19 hr 1 min
+341 songs - 19 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Grave](https://open.spotify.com/track/3rGriClqmR0c8MzSJ1hhhG) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Grave](https://open.spotify.com/album/42nhJXXpTWPfkAw1RvU7ly) | 2:55 | 2021-10-31 | 2022-07-23 |
 | [Hallelujah’s Song \(Psalm 103\) \- FRANKLIN Remix](https://open.spotify.com/track/6CyjgYf2MXZwKdSKkCAmaK) | [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW), [Caleb Chapman](https://open.spotify.com/artist/2O7QprwEkB7axelpXQa7Th), [Will Chapman](https://open.spotify.com/artist/5QUtZ4R2ZxWxOSrrvxj4jU) | [Bangerz](https://open.spotify.com/album/4PiXo9M3VrAlP5fG0auMcx) | 4:18 | 2021-10-31 | 2022-07-23 |
 | [HAPPY](https://open.spotify.com/track/3ujkAJ4EMZzgMgM1RXqpCJ) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [EXIT](https://open.spotify.com/album/23hocB8tXBHfvImk7SNPnv) | 2:04 | 2021-10-31 | 2023-01-14 |
+| [Happy Day \- Retain Remix](https://open.spotify.com/track/4CbSxyiD3zOziagpHFszCc) | [Retain](https://open.spotify.com/artist/5SwavZEv1VevR29sNLYTbF) | [Happy Day \- Retain Remix](https://open.spotify.com/album/4fBa38ySFa0gYrP5N7aZzk) | 3:20 | 2023-01-13 |  |
 | [Happy Sad](https://open.spotify.com/track/4tC5zD76WwY6ibqphFAL9X) | [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2), [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [Happy Sad](https://open.spotify.com/album/12lfy14lzxVSkgYZE5DkpN) | 2:26 | 2021-10-31 | 2022-07-11 |
 | [Headspace](https://open.spotify.com/track/40eIrKcUvepNmdenanC0Hl) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Godsend](https://open.spotify.com/album/1fVyZLsUGyDJcqgRfq8wZ2) | 2:57 | 2021-10-31 | 2023-01-14 |
 | [Headspace \- GOLDHOUSE Remix](https://open.spotify.com/track/7HcnT1waFtSq0Ul3kXwflW) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG), [GOLDHOUSE](https://open.spotify.com/artist/670UISOh9XV1zlq5z5IfoY) | [Headspace](https://open.spotify.com/album/7y8Dzogy270AzjyhZU204y) | 3:08 | 2021-10-31 | 2022-07-29 |
@@ -232,7 +233,7 @@
 | [Other Side](https://open.spotify.com/track/3rxboiP5cvTiaI7aUtRTVl) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [Other Side](https://open.spotify.com/album/1JYuc5a6gwcEKBxed4NXaE) | 3:16 | 2021-10-31 | 2022-06-15 |
 | [OTHERSIDE](https://open.spotify.com/track/7jj8WmWbs7yQ6d9qvR7A9u) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [OTHERSIDE](https://open.spotify.com/album/6LYdb9nK82LJEwa9Zrr4YP) | 3:14 | 2021-10-31 | 2023-01-14 |
 | [Out Of The Dark \- Petey Martin Remix](https://open.spotify.com/track/4SfcLgPBOZa0ZFtHt3HBXO) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3), [Petey Martin](https://open.spotify.com/artist/30B2OY2t19A6zCXGFUNlGB) | [Out Of The Dark \(Petey Martin Remix\)](https://open.spotify.com/album/79HDfZmxKg9v2NCsvpNboH) | 2:45 | 2023-01-13 |  |
-| [Overcomer \- Julie and Ruslan Remix](https://open.spotify.com/track/6FFJU39AqFjtkALONLjRZv) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3), [Julie Lov](https://open.spotify.com/artist/5nAOuMlz0LCXhGVTfT03QR) | [Overcomer: The Remixes](https://open.spotify.com/album/2deAoRH9urnjAY8XKR8zTc) | 3:16 | 2023-01-13 |  |
+| [Overcomer \- Julie and Ruslan Remix](https://open.spotify.com/track/6FFJU39AqFjtkALONLjRZv) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3), [Julie Lov](https://open.spotify.com/artist/5nAOuMlz0LCXhGVTfT03QR) | [Overcomer: The Remixes](https://open.spotify.com/album/2deAoRH9urnjAY8XKR8zTc) | 3:16 | 2023-01-13 | 2023-04-17 |
 | [Palaces](https://open.spotify.com/track/2INYwScE60yVgmyYsX00LH) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [Palaces](https://open.spotify.com/album/0jkYniPLdIYSCl6feoIVMJ) | 4:13 | 2023-01-13 | 2023-02-12 |
 | [Patient](https://open.spotify.com/track/1uUp4gXR9ZHiV4iHRbmQa3) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Nothing is Ordinary\. Everything is Beautiful.](https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P) | 3:34 | 2021-10-31 | 2023-01-14 |
 | [Patient](https://open.spotify.com/track/5qDHU1U5XlX6X0KBsAWoL9) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Patient](https://open.spotify.com/album/05qd0bhPJrFj3jUa5yXze5) | 3:34 | 2021-10-31 | 2022-07-29 |

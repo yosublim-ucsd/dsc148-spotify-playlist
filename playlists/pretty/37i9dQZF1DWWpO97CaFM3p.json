@@ -1,12 +1,12 @@
 {
   "description": "when you decide societal constructs just aren\u2019t the vibe anymore. \n",
-  "num_followers": 337640,
+  "num_followers": 338017,
   "original_name": "wanderlust",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTk1NzQxNiwwMDAwMDAwMDhhOWU1ZmEyYmU1NzUxMzdkYjMzMTA0ZTMyZDY5ODMx",
+  "snapshot_id": "MTY3OTk1NzQxNiwwMDAwMDAwMDMxNjM4OGZjOTJjNjkxMDkyMmRmYTQ2NTA4ZTE2MmI1",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "Hozier (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 240146,
-      "name": "Cherry Wine - Live",
-      "url": "https://open.spotify.com/track/1C042FLYy7rP3MfnkOcnha"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
         "name": "So Long Forever",
         "url": "https://open.spotify.com/album/6cmFNl8lllA6BGc7SKLy3y"
       },
@@ -743,18 +727,18 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "The Head And The Heart",
-        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
+        "name": "Hozier (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
       },
       "artists": [
         {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 284000,
-      "name": "Rivers and Roads",
-      "url": "https://open.spotify.com/track/3z7kvwJVRfA4HCOfm9ngog"
+      "duration_ms": 240146,
+      "name": "Cherry Wine - Live",
+      "url": "https://open.spotify.com/track/1C042FLYy7rP3MfnkOcnha"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -771,6 +755,22 @@
       "duration_ms": 328506,
       "name": "Old Pine",
       "url": "https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "The Head And The Heart",
+        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 284000,
+      "name": "Rivers and Roads",
+      "url": "https://open.spotify.com/track/3z7kvwJVRfA4HCOfm9ngog"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "London's Song",
-        "url": "https://open.spotify.com/album/7znWNtOhMKIQiYUldh2Rmr"
-      },
-      "artists": [
-        {
-          "name": "Matt Hartke",
-          "url": "https://open.spotify.com/artist/6OkqAt7MtIDPOadHr1gEkz"
-        }
-      ],
-      "duration_ms": 178573,
-      "name": "London's Song",
-      "url": "https://open.spotify.com/track/1Mk9ou2m6hsEZJYuNRJFpO"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
         "name": "Veneer",
         "url": "https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 161680,
       "name": "Heartbeats",
       "url": "https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "London's Song",
+        "url": "https://open.spotify.com/album/7znWNtOhMKIQiYUldh2Rmr"
+      },
+      "artists": [
+        {
+          "name": "Matt Hartke",
+          "url": "https://open.spotify.com/artist/6OkqAt7MtIDPOadHr1gEkz"
+        }
+      ],
+      "duration_ms": 178573,
+      "name": "London's Song",
+      "url": "https://open.spotify.com/track/1Mk9ou2m6hsEZJYuNRJFpO"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "untitled",
-        "url": "https://open.spotify.com/album/1lcAeYHgVLtY1vuIJ8zawx"
-      },
-      "artists": [
-        {
-          "name": "zachy",
-          "url": "https://open.spotify.com/artist/7MWQhu1TA9OE4Lps563bN4"
-        }
-      ],
-      "duration_ms": 101086,
-      "name": "untitled",
-      "url": "https://open.spotify.com/track/0slJ3lfslgd5qk2ev9b6ol"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
         "name": "A Place",
         "url": "https://open.spotify.com/album/2C0s7ySTrSsJQwZUFznQVh"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 225356,
       "name": "A Place",
       "url": "https://open.spotify.com/track/7ERXXehG6qY2uDDiKhRNlx"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "untitled",
+        "url": "https://open.spotify.com/album/1lcAeYHgVLtY1vuIJ8zawx"
+      },
+      "artists": [
+        {
+          "name": "zachy",
+          "url": "https://open.spotify.com/artist/7MWQhu1TA9OE4Lps563bN4"
+        }
+      ],
+      "duration_ms": 101086,
+      "name": "untitled",
+      "url": "https://open.spotify.com/track/0slJ3lfslgd5qk2ev9b6ol"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1685,7 +1685,7 @@
       "url": "https://open.spotify.com/track/0SqfoSpuWsk4CJpCX2LvCD"
     },
     {
-      "added_at": "2023-04-16 01:05:11",
+      "added_at": "2023-04-17 00:49:55",
       "album": {
         "name": "Wonderland",
         "url": "https://open.spotify.com/album/770No61AWG74gR1xQaRYzL"
@@ -1835,38 +1835,6 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "Good Woman",
-        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 216746,
-      "name": "Nothing\u2019s Gonna Happen",
-      "url": "https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "Lightning Of July",
-        "url": "https://open.spotify.com/album/7tCSAe5FtwRJmQZgLE24EG"
-      },
-      "artists": [
-        {
-          "name": "Baird",
-          "url": "https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO"
-        }
-      ],
-      "duration_ms": 176666,
-      "name": "Lightning Of July",
-      "url": "https://open.spotify.com/track/3Q4WTzhqY25Y7aVCmYt4TJ"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
         "name": "The Summer Isles",
         "url": "https://open.spotify.com/album/05HEBowDsH1MMkERUsn6Tl"
       },
@@ -1879,6 +1847,22 @@
       "duration_ms": 192920,
       "name": "I Just Love You",
       "url": "https://open.spotify.com/track/5fRXEJpIZKaDxsHOGpXXuS"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Good Woman",
+        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 216746,
+      "name": "Nothing\u2019s Gonna Happen",
+      "url": "https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1899,6 +1883,22 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
+        "name": "Roadtripsong",
+        "url": "https://open.spotify.com/album/0hVKsOrcrxQIoXVdJ5Nu5O"
+      },
+      "artists": [
+        {
+          "name": "Abby Cates",
+          "url": "https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n"
+        }
+      ],
+      "duration_ms": 221142,
+      "name": "Roadtripsong",
+      "url": "https://open.spotify.com/track/6OMnH9uEKd7W3YK3ncuUF7"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
         "name": "love is not dying",
         "url": "https://open.spotify.com/album/5mkf4N44kdEwYgaOk3hRLF"
       },
@@ -1915,18 +1915,18 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "Roadtripsong",
-        "url": "https://open.spotify.com/album/0hVKsOrcrxQIoXVdJ5Nu5O"
+        "name": "Holdly",
+        "url": "https://open.spotify.com/album/6F4S4TL7KECkwJkMD9ziCW"
       },
       "artists": [
         {
-          "name": "Abby Cates",
-          "url": "https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n"
+          "name": "Florist",
+          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
         }
       ],
-      "duration_ms": 221142,
-      "name": "Roadtripsong",
-      "url": "https://open.spotify.com/track/6OMnH9uEKd7W3YK3ncuUF7"
+      "duration_ms": 227139,
+      "name": "Vacation",
+      "url": "https://open.spotify.com/track/7fQmffdxTktq0sJFvRUcwE"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1947,18 +1947,18 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "Holdly",
-        "url": "https://open.spotify.com/album/6F4S4TL7KECkwJkMD9ziCW"
+        "name": "Lightning Of July",
+        "url": "https://open.spotify.com/album/7tCSAe5FtwRJmQZgLE24EG"
       },
       "artists": [
         {
-          "name": "Florist",
-          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
+          "name": "Baird",
+          "url": "https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO"
         }
       ],
-      "duration_ms": 227139,
-      "name": "Vacation",
-      "url": "https://open.spotify.com/track/7fQmffdxTktq0sJFvRUcwE"
+      "duration_ms": 176666,
+      "name": "Lightning Of July",
+      "url": "https://open.spotify.com/track/3Q4WTzhqY25Y7aVCmYt4TJ"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2022-12-09 05:00:00",
       "album": {
-        "name": "The Weatherman",
-        "url": "https://open.spotify.com/album/3IcfYXw7lTtLfG5XWLlSZi"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 256600,
-      "name": "The Universe",
-      "url": "https://open.spotify.com/track/5SOV1dyQQJx98X4yY17bCI"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
         "name": "Lavender Girl",
         "url": "https://open.spotify.com/album/5ChxDXf7pMg4QoVLUO9Lwz"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 203546,
       "name": "Lavender Girl",
       "url": "https://open.spotify.com/track/5IqPGPAeAru7g6ljnY0dPf"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "The Weatherman",
+        "url": "https://open.spotify.com/album/3IcfYXw7lTtLfG5XWLlSZi"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 256600,
+      "name": "The Universe",
+      "url": "https://open.spotify.com/track/5SOV1dyQQJx98X4yY17bCI"
     },
     {
       "added_at": "2022-12-09 05:00:00",

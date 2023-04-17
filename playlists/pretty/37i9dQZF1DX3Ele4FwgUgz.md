@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ele4FwgUgz.md) - [plain]
 
 > Music from "Love Live! Nijigasaki High School Idol Club" 「ラブライブ！虹ヶ咲学園スクールアイドル同好会」の楽曲を1つのプレイリストで。<br/>©2022 プロジェクトラブライブ！虹ヶ咲学園スクールアイドル同好会
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,353 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,390 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ele4FwgUgz.md) - [plain]
 | 43 | [Fire Bird](https://open.spotify.com/track/54SdBdxoc2lbBh1bmPgf9o) | [朝香果林 \(CV.久保田未夢\)](https://open.spotify.com/artist/6mGi9UIrYgzUrcrgBGQFku) | [Just Believe!!!](https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA) | 3:57 |
 | 44 | [I'm Still...](https://open.spotify.com/track/6hoWEK3oAZGV66U5z1UVbP) | [ミア・テイラー \(CV.内田 秀\)](https://open.spotify.com/artist/54hnRUYsDChS7pkIRHiz5P) | [MONSTER GIRLS](https://open.spotify.com/album/0oMa84sBIJyioafjIAvEar) | 4:06 |
 | 45 | [あなたの理想のヒロイン](https://open.spotify.com/track/2RbkLmTbz2dGlLkzgDAUlu) | [桜坂しずく \(CV.前田佳織里\)](https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq) | [TOKIMEKI Runners](https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ) | 5:26 |
-| 46 | [ミチノサキ](https://open.spotify.com/track/1SxNthWig8SgyPENTtVQJB) | [QU4RTZ](https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK) | [PASTEL](https://open.spotify.com/album/5VNJPg765C7xruuoJX92Xd) | 4:01 |
+| 46 | [恋するMagic!!](https://open.spotify.com/track/6XhJEnIFAqMQxoiLSlelgn) | [DiverDiva](https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd) | [Eternal Light](https://open.spotify.com/album/5zkPtKjefIE5nBluB7N9vm) | 3:48 |
 | 47 | [Maze Town](https://open.spotify.com/track/1aLfZSKp44prkEYIGpWM63) | [A・ZU・NA](https://open.spotify.com/artist/6J6RrsIzXnWKqcFu7ri9Pd) | [Maze Town](https://open.spotify.com/album/1xhku0K709SOBcrqqz3LmB) | 4:23 |
-| 48 | [恋するMagic!!](https://open.spotify.com/track/6XhJEnIFAqMQxoiLSlelgn) | [DiverDiva](https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd) | [Eternal Light](https://open.spotify.com/album/5zkPtKjefIE5nBluB7N9vm) | 3:48 |
+| 48 | [ミチノサキ](https://open.spotify.com/track/1SxNthWig8SgyPENTtVQJB) | [QU4RTZ](https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK) | [PASTEL](https://open.spotify.com/album/5VNJPg765C7xruuoJX92Xd) | 4:01 |
 | 49 | [ダイアモンド](https://open.spotify.com/track/0UAqHawQbQjCvDCYonrZzc) | [中須かすみ \(CV.相良茉優\)](https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA) | [TOKIMEKI Runners](https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ) | 3:53 |
 | 50 | [サイコーハート](https://open.spotify.com/track/7fR786eNI8rp2sKxQM5jK0) | [宮下 愛 \(CV.村上奈津実\)](https://open.spotify.com/artist/19W707ZUq5jEr0NBWCaS01) | [サイコーハート / La Bella Patria / ツナガルコネクト \(宮下 愛盤\)](https://open.spotify.com/album/1qvo8Ajhwj2DRa3slc7rkn) | 4:12 |
 
-Snapshot ID: `MTY2OTEyOTIwMCwwMDAwMDAwMGU3YjNmMjY3OWExOTc3NmYyN2UyYzliNWRiMTAxNWQ4`
+Snapshot ID: `MTY2OTEyOTIwMCwwMDAwMDAwMDVkN2FiZGY3Yzk2MzFmMWM4ZjEzMDU1MWM1MzAxOGUy`

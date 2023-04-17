@@ -1,12 +1,12 @@
 {
   "description": "self-reinvention never sounded so good.",
-  "num_followers": 31823,
+  "num_followers": 31998,
   "original_name": "hair dye",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIzNTIwMCwwMDAwMDAwMGJmMTAwM2Q5OGJmOGMwNGVmOTFjZGYwNWE3YTJiMGM1",
+  "snapshot_id": "MTY4MDIzNTIwMCwwMDAwMDAwMDZiMTk0ZjljMmI1Y2IzOWE4N2MyOWEwZmUxM2YxMGM5",
   "tracks": [
     {
       "added_at": "2023-03-31 04:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Sleepyhead",
-        "url": "https://open.spotify.com/album/4KTenQpTycVovYaJmCcrMa"
-      },
-      "artists": [
-        {
-          "name": "Lala Lala",
-          "url": "https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE"
-        }
-      ],
-      "duration_ms": 130478,
-      "name": "Dream Song",
-      "url": "https://open.spotify.com/track/0jTKmPYBGiEZsQtRNlWM1L"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Sometimes I Sit and Think, and Sometimes I Just Sit",
         "url": "https://open.spotify.com/album/6PosCDToF5fOdEjTI5PsDX"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 230560,
       "name": "Pedestrian at Best",
       "url": "https://open.spotify.com/track/7gsn3NxWLA0s0g9TmQlMri"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Sleepyhead",
+        "url": "https://open.spotify.com/album/4KTenQpTycVovYaJmCcrMa"
+      },
+      "artists": [
+        {
+          "name": "Lala Lala",
+          "url": "https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE"
+        }
+      ],
+      "duration_ms": 130478,
+      "name": "Dream Song",
+      "url": "https://open.spotify.com/track/0jTKmPYBGiEZsQtRNlWM1L"
     },
     {
       "added_at": "2023-03-31 04:00:00",

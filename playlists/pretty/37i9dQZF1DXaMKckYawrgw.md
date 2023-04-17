@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 
 > Ska 100% hecho en México con chilito del que pica\. La Tremenda Korte en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,973 likes - 107 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,976 likes - 107 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,11 +34,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 | 24 | [Total](https://open.spotify.com/track/2y0ee1wuzrrZmBTZw2ztaa) | [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt) | [Frecuencia Rebelde](https://open.spotify.com/album/7AWov5AzYW9qMUaX6VKrcj) | 3:16 |
 | 25 | [Mi Vida es un Tango](https://open.spotify.com/track/7dCOvIWIepwEn9Vxa2dpR6) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [Salon Victoria](https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o) | 3:03 |
 | 26 | [El Esqueleto](https://open.spotify.com/track/0CucYEXuGngb0vfUMpOmID) | [Victimas Del Doctor Cerebro](https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M) | [Lucha Rock](https://open.spotify.com/album/3qFQ5sXiOUEy0vVMj1LIii) | 3:43 |
-| 27 | [Somos del Barrio](https://open.spotify.com/track/4f3B6Ts5LUR2X0DLwr00JV) | [Los Rude Boys](https://open.spotify.com/artist/2hnZsQ7mRwI8Sy2fOFL9wA) | [El Precio del Sudor](https://open.spotify.com/album/3GeVKe0S3AIyGRbt5L40tc) | 2:44 |
+| 27 | [Quinto Patio Ska](https://open.spotify.com/track/1Zs96OM6QHyb00sVAFOZ2g) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [Circular Colectivo](https://open.spotify.com/album/414o3Z4kf1C9dGdpxGmkBk) | 4:05 |
 | 28 | [Es Por Ti](https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:35 |
 | 29 | [War 4 Peace](https://open.spotify.com/track/3beXppvBycZ5qD0ZNpRiXb) | [Los De Abajo](https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW), [Diego Benlliure](https://open.spotify.com/artist/632hZrvw4igilYgJr25TNF), [José Grela](https://open.spotify.com/artist/6asUVMkGHy6e5CeyRtygEn) | [Latin Ska Force](https://open.spotify.com/album/0nqw5cvwdXNtyGv0H9WEDt) | 3:26 |
 | 30 | [Acábame de Matar](https://open.spotify.com/track/5VXLuJ4E1FqtAAWLvnpMzV) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Panteón Rococó](https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg) | 3:00 |
-| 31 | [Quinto Patio Ska](https://open.spotify.com/track/1Zs96OM6QHyb00sVAFOZ2g) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [Circular Colectivo](https://open.spotify.com/album/414o3Z4kf1C9dGdpxGmkBk) | 4:05 |
+| 31 | [Somos del Barrio](https://open.spotify.com/track/4f3B6Ts5LUR2X0DLwr00JV) | [Los Rude Boys](https://open.spotify.com/artist/2hnZsQ7mRwI8Sy2fOFL9wA) | [El Precio del Sudor](https://open.spotify.com/album/3GeVKe0S3AIyGRbt5L40tc) | 2:44 |
 | 32 | [Fantasma de la Rana](https://open.spotify.com/track/4k8A9pwl4R562JnNnRSjnL) | [Sekta Core](https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc) | [Morbo's Club](https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v) | 3:57 |
 | 33 | [Tres Patines](https://open.spotify.com/track/52Ocbi72eRBWUpE4gYK6PQ) | [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt), [Skuela de Baile](https://open.spotify.com/artist/28i5b12ENfU4hsxPt5fIs1) | [Tres Patines](https://open.spotify.com/album/1IfdViO2KIMROZJYhxsWlA) | 2:32 |
 | 34 | [No Piensa En Ti](https://open.spotify.com/track/6zc3skkzxwCJXVywiv7JvM) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Unidad, Cerveza y Ska](https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd) | 4:09 |
@@ -85,15 +85,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 | 75 | [Felicidad](https://open.spotify.com/track/4nO5Ljx7tRrYqC6t3BGRhg) | [Girls Go Ska](https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo) | [Frente al Mar](https://open.spotify.com/album/5mo377nus6GhMWCoPMhi7n) | 5:04 |
 | 76 | [Bum Bum](https://open.spotify.com/track/2qJVf6eIISbjq21DYHauO3) | [Buena Vibra Social Sound](https://open.spotify.com/artist/5qUgKXhgE42KrDsz6K4m01) | [Buena Vibra Social Sound, Vol\. 1](https://open.spotify.com/album/6gPi5aG2BtnE1gBVWUDCAu) | 3:53 |
 | 77 | [Estambul Ska](https://open.spotify.com/track/6DPAbdD7Wik0WxdpIwQRmH) | [Toño Quirazco](https://open.spotify.com/artist/2uu3Ci708BPlF2oXSCeSeo) | [Ska, Vol\. 2](https://open.spotify.com/album/7GrWjBPVOAzYFdFFwHRAvZ) | 2:37 |
-| 78 | [Blue Ska](https://open.spotify.com/track/5uaI9Q4PZdVeM7flx4ksB8) | [Santísima Trinidad](https://open.spotify.com/artist/2XObUySWwK2PkfQsL1mcvs) | [Sueños \(Remastered\)](https://open.spotify.com/album/3vdd9bpIJGHyBpEhqS3OYx) | 3:01 |
-| 79 | [El Mundo No Esta Listo](https://open.spotify.com/track/1QwFA0yfArj0PEUau8yevB) | [Moon Stomper](https://open.spotify.com/artist/6jDS4uqEOGwHlfHnLPz3KE) | [El Mundo No Esta Listo](https://open.spotify.com/album/3f5DkLjh7MUclnlrrT4jYv) | 2:52 |
+| 78 | [El Mundo No Esta Listo](https://open.spotify.com/track/1QwFA0yfArj0PEUau8yevB) | [Moon Stomper](https://open.spotify.com/artist/6jDS4uqEOGwHlfHnLPz3KE) | [El Mundo No Esta Listo](https://open.spotify.com/album/3f5DkLjh7MUclnlrrT4jYv) | 2:52 |
+| 79 | [Blue Ska](https://open.spotify.com/track/5uaI9Q4PZdVeM7flx4ksB8) | [Santísima Trinidad](https://open.spotify.com/artist/2XObUySWwK2PkfQsL1mcvs) | [Sueños \(Remastered\)](https://open.spotify.com/album/3vdd9bpIJGHyBpEhqS3OYx) | 3:01 |
 | 80 | [alo alo](https://open.spotify.com/track/4tXIQlSCFi0hTn85dS6MJl) | [La trenza De La Abuela](https://open.spotify.com/artist/6QU6mxgWdOOKNkUErSqEMM) | [Loco amor](https://open.spotify.com/album/2y2lRGqPNPT68MaClgU2FL) | 3:00 |
 | 81 | [Lejos Otra Vez](https://open.spotify.com/track/3xmXfTd5RrqlIOWPnfDRoG) | [La Parranda Magna](https://open.spotify.com/artist/1mfVKBLO3fW0P0A72HvBIH) | [La Kruda Realidad](https://open.spotify.com/album/2zikmV9U4hrslEzwSprmda) | 3:18 |
 | 82 | [Lamento Egipcio](https://open.spotify.com/track/1FPDoLtvmAX1bWzuNWKRJG) | [Módulo Ghetto](https://open.spotify.com/artist/7LC3IkN0ds990xsji4GrhM) | [Lamento Egipcio](https://open.spotify.com/album/6UjC13m2EheNOtFdU5ayVd) | 3:53 |
-| 83 | [No Insistas Más](https://open.spotify.com/track/2Xdj6GwDDTiz0jliUAHHTz) | [Pachecos Orchestra](https://open.spotify.com/artist/4hPssieu35ERaNP3dcKuoR), [Betania López](https://open.spotify.com/artist/4iTKW9n4HDGCfTud01OaFL) | [Classic's Ska](https://open.spotify.com/album/4ul956S8zBlCMjkAZJFvDj) | 4:13 |
+| 83 | [Stay Rude](https://open.spotify.com/track/1GTsw9fJdctqyT7iVQS35i) | [Moon Stomper](https://open.spotify.com/artist/6jDS4uqEOGwHlfHnLPz3KE) | [Marcando El Ritmo](https://open.spotify.com/album/537Yl2DlSZ58rPkV07E5aE) | 2:35 |
 | 84 | [Ciao](https://open.spotify.com/track/136wILyBKYq1Su7fXQQJNH) | [Girls Go Ska](https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo) | [Ciao](https://open.spotify.com/album/6yQCx1G68XrLOIQkHBXlce) | 4:23 |
-| 85 | [Revoluciones](https://open.spotify.com/track/5OjXaJ32H7olIakpiNSDbS) | [La Hoja Ensamble](https://open.spotify.com/artist/5xnipUAcWtXKEdc0czxTPE) | [Revoluciones](https://open.spotify.com/album/5WV18rJf103xCSq1bruZwJ) | 6:27 |
-| 86 | [Stay Rude](https://open.spotify.com/track/1GTsw9fJdctqyT7iVQS35i) | [Moon Stomper](https://open.spotify.com/artist/6jDS4uqEOGwHlfHnLPz3KE) | [Marcando El Ritmo](https://open.spotify.com/album/537Yl2DlSZ58rPkV07E5aE) | 2:35 |
+| 85 | [No Insistas Más](https://open.spotify.com/track/2Xdj6GwDDTiz0jliUAHHTz) | [Pachecos Orchestra](https://open.spotify.com/artist/4hPssieu35ERaNP3dcKuoR), [Betania López](https://open.spotify.com/artist/4iTKW9n4HDGCfTud01OaFL) | [Classic's Ska](https://open.spotify.com/album/4ul956S8zBlCMjkAZJFvDj) | 4:13 |
+| 86 | [Revoluciones](https://open.spotify.com/track/5OjXaJ32H7olIakpiNSDbS) | [La Hoja Ensamble](https://open.spotify.com/artist/5xnipUAcWtXKEdc0czxTPE) | [Revoluciones](https://open.spotify.com/album/5WV18rJf103xCSq1bruZwJ) | 6:27 |
 | 87 | [Mérida Ska](https://open.spotify.com/track/5watJHxDxO5RLv7ye4HHXy) | [Toño Quirazco](https://open.spotify.com/artist/2uu3Ci708BPlF2oXSCeSeo) | [Jamaica Ska](https://open.spotify.com/album/6DDi0g2UP6IYKTY8xyT2Xq) | 2:33 |
 | 88 | [La Mentira](https://open.spotify.com/track/2zbuaopaNyAC3C4940YNCL) | [Moon Stomper](https://open.spotify.com/artist/6jDS4uqEOGwHlfHnLPz3KE) | [Rude Boy Nights](https://open.spotify.com/album/5QkJ7K1MeJuq0oSD8YJfbw) | 3:26 |
 | 89 | [Jueves](https://open.spotify.com/track/1A2UpNvD4mDtfDxRwy32EY) | [Moon Stomper](https://open.spotify.com/artist/6jDS4uqEOGwHlfHnLPz3KE), [Ruzzo Móran](https://open.spotify.com/artist/0RwRXTmjAzNtDsNoVmGHPr) | [Marcando El Ritmo](https://open.spotify.com/album/537Yl2DlSZ58rPkV07E5aE) | 3:38 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 | 106 | [Esta Noche](https://open.spotify.com/track/3k7QtSyXq3lbv51kaFwzMB) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Compañeros Musicales](https://open.spotify.com/album/6che3OFwfIG8KzJQ7IkwXc) | 3:25 |
 | 107 | [El Dejado](https://open.spotify.com/track/1SLeMtVgr6TJMmuPjCPgxv) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Los Skarnales](https://open.spotify.com/artist/0Fs8ncEYnVSmzepxUocr5n) | [A2Í 5Uena!, Vol 2](https://open.spotify.com/album/2Fbw8FPgMnce7PN46CAjNW) | 4:56 |
 
-Snapshot ID: `MTY4MDI0MjQwMCwwMDAwMDAwMDJhNjVmZDU4YTI0NmRmZGY2MDhlMzA3MWFjNmY5MDY4`
+Snapshot ID: `MTY4MDI0MjQwMCwwMDAwMDAwMGE2YWI3OTU3YTlmZmUwMjRhOGUxNDAzN2U1MDQ1NzFh`

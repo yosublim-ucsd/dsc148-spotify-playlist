@@ -1,12 +1,12 @@
 {
   "description": "~ have a lovely time ~",
-  "num_followers": 125674,
+  "num_followers": 125800,
   "original_name": "The Picnic List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzAxNzY0NywwMDAwMDAwMGRmMjQzN2RiNTUwYjU0NWNjZTVhYzI4OWQyYzBmNmM2",
+  "snapshot_id": "MTY3NzAxNzY0NywwMDAwMDAwMGUyY2VjYTY0MjQwNDAxZmJiNjNiNzUwYjRkOGJkZTg1",
   "tracks": [
     {
       "added_at": "2023-02-21 22:14:07",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-02-21 22:14:07",
       "album": {
-        "name": "Pony",
-        "url": "https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 267520,
-      "name": "Pluto Projector",
-      "url": "https://open.spotify.com/track/4EWBhKf1fOFnyMtUzACXEc"
-    },
-    {
-      "added_at": "2023-02-21 22:14:07",
-      "album": {
         "name": "Menagerie",
         "url": "https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 254560,
       "name": "Lovely Day",
       "url": "https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh"
+    },
+    {
+      "added_at": "2023-02-21 22:14:07",
+      "album": {
+        "name": "Pony",
+        "url": "https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 267520,
+      "name": "Pluto Projector",
+      "url": "https://open.spotify.com/track/4EWBhKf1fOFnyMtUzACXEc"
     },
     {
       "added_at": "2023-02-21 22:14:07",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-02-21 22:14:07",
       "album": {
-        "name": "The Lumineers",
-        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 163133,
-      "name": "Ho Hey",
-      "url": "https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7"
-    },
-    {
-      "added_at": "2023-02-21 22:14:07",
-      "album": {
         "name": "Commodores",
         "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 256426,
       "name": "Easy",
       "url": "https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA"
+    },
+    {
+      "added_at": "2023-02-21 22:14:07",
+      "album": {
+        "name": "The Lumineers",
+        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 163133,
+      "name": "Ho Hey",
+      "url": "https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7"
     },
     {
       "added_at": "2023-02-21 22:14:07",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-02-21 22:14:07",
       "album": {
-        "name": "Coming Home (Deluxe)",
-        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 240200,
-      "name": "River",
-      "url": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK"
-    },
-    {
-      "added_at": "2023-02-21 22:14:07",
-      "album": {
         "name": "Inseparable",
         "url": "https://open.spotify.com/album/1eTNYVS06XwHjwMssf6Fsx"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 171960,
       "name": "This Will Be (An Everlasting Love)",
       "url": "https://open.spotify.com/track/0PDCewmZCp0P5s00bptcdd"
+    },
+    {
+      "added_at": "2023-02-21 22:14:07",
+      "album": {
+        "name": "Coming Home (Deluxe)",
+        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 240200,
+      "name": "River",
+      "url": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK"
     },
     {
       "added_at": "2023-02-21 22:14:07",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-02-21 22:14:07",
       "album": {
-        "name": "Backyard Boy (Stripped)",
-        "url": "https://open.spotify.com/album/4BXCJA3xYjgSk16CqK1Zrz"
-      },
-      "artists": [
-        {
-          "name": "Claire Rosinkranz",
-          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
-        }
-      ],
-      "duration_ms": 129240,
-      "name": "Backyard Boy",
-      "url": "https://open.spotify.com/track/04F42oEuKrRComYJfJuyVR"
-    },
-    {
-      "added_at": "2023-02-21 22:14:07",
-      "album": {
         "name": "Harmony House",
         "url": "https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 194693,
       "name": "Close To You",
       "url": "https://open.spotify.com/track/50PyquzZ9BaBwLZZd1AuuV"
+    },
+    {
+      "added_at": "2023-02-21 22:14:07",
+      "album": {
+        "name": "Backyard Boy (Stripped)",
+        "url": "https://open.spotify.com/album/4BXCJA3xYjgSk16CqK1Zrz"
+      },
+      "artists": [
+        {
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+        }
+      ],
+      "duration_ms": 129240,
+      "name": "Backyard Boy",
+      "url": "https://open.spotify.com/track/04F42oEuKrRComYJfJuyVR"
     },
     {
       "added_at": "2023-02-21 22:14:07",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-02-21 22:14:07",
       "album": {
-        "name": "Down the Way",
-        "url": "https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 239146,
-      "name": "Big Jet Plane",
-      "url": "https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v"
-    },
-    {
-      "added_at": "2023-02-21 22:14:07",
-      "album": {
         "name": "The Foundations",
         "url": "https://open.spotify.com/album/3j1kw5l2mEeKCUuXXwjhWp"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 177533,
       "name": "Build Me Up Buttercup",
       "url": "https://open.spotify.com/track/6sPOmDulFtLzfX25zICNrC"
+    },
+    {
+      "added_at": "2023-02-21 22:14:07",
+      "album": {
+        "name": "Down the Way",
+        "url": "https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 239146,
+      "name": "Big Jet Plane",
+      "url": "https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v"
     },
     {
       "added_at": "2023-02-21 22:14:07",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-02-21 22:14:07",
       "album": {
-        "name": "Be Slow",
-        "url": "https://open.spotify.com/album/2dUqjfW3uN8obZ6i1XnHCZ"
-      },
-      "artists": [
-        {
-          "name": "Harrison Storm",
-          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
-        }
-      ],
-      "duration_ms": 205286,
-      "name": "Be Slow",
-      "url": "https://open.spotify.com/track/3j2SaDGyzZhiifh5g5tmNw"
-    },
-    {
-      "added_at": "2023-02-21 22:14:07",
-      "album": {
         "name": "The Freewheelin' Bob Dylan",
         "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 217400,
       "name": "Don't Think Twice, It's All Right",
       "url": "https://open.spotify.com/track/2WOjLF83vqjit2Zh4B69V3"
+    },
+    {
+      "added_at": "2023-02-21 22:14:07",
+      "album": {
+        "name": "Be Slow",
+        "url": "https://open.spotify.com/album/2dUqjfW3uN8obZ6i1XnHCZ"
+      },
+      "artists": [
+        {
+          "name": "Harrison Storm",
+          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
+        }
+      ],
+      "duration_ms": 205286,
+      "name": "Be Slow",
+      "url": "https://open.spotify.com/track/3j2SaDGyzZhiifh5g5tmNw"
     },
     {
       "added_at": "2023-02-21 22:14:07",
@@ -1499,22 +1499,6 @@
       "duration_ms": 216586,
       "name": "When We Are Together",
       "url": "https://open.spotify.com/track/5M5TD1Tlpcgq0Fj1l6Mz6Z"
-    },
-    {
-      "added_at": "2023-02-21 22:14:07",
-      "album": {
-        "name": "a little more time",
-        "url": "https://open.spotify.com/album/7GRsfBAEdhJTdcwoqTXedi"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 210202,
-      "name": "a little more time",
-      "url": "https://open.spotify.com/track/5UhZyWfrSEhGYfIIFNYscF"
     },
     {
       "added_at": "2023-02-21 22:14:07",
@@ -1579,6 +1563,22 @@
     {
       "added_at": "2023-02-21 22:14:07",
       "album": {
+        "name": "a little more time",
+        "url": "https://open.spotify.com/album/7GRsfBAEdhJTdcwoqTXedi"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 210202,
+      "name": "a little more time",
+      "url": "https://open.spotify.com/track/5UhZyWfrSEhGYfIIFNYscF"
+    },
+    {
+      "added_at": "2023-02-21 22:14:07",
+      "album": {
         "name": "Easy On My Eyes",
         "url": "https://open.spotify.com/album/6BUPtXbb2tspYnkVdg5Ef7"
       },
@@ -1591,6 +1591,22 @@
       "duration_ms": 180146,
       "name": "See The Light",
       "url": "https://open.spotify.com/track/5nsFJfYtAFZmL9PbtYKYcA"
+    },
+    {
+      "added_at": "2023-02-21 22:14:07",
+      "album": {
+        "name": "Pet Sounds (Original Mono & Stereo Mix Versions)",
+        "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 173040,
+      "name": "God Only Knows - Mono / 1997 Remastered",
+      "url": "https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf"
     },
     {
       "added_at": "2023-02-21 22:14:07",
@@ -1623,22 +1639,6 @@
       "duration_ms": 229293,
       "name": "Suzanne",
       "url": "https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F"
-    },
-    {
-      "added_at": "2023-02-21 22:14:07",
-      "album": {
-        "name": "First Collection 2006-2009",
-        "url": "https://open.spotify.com/album/6ou9sQOsIY5xIIX417L3ud"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 275306,
-      "name": "Mykonos",
-      "url": "https://open.spotify.com/track/2s7pyee9w04uQy3cNKzey9"
     }
   ],
   "unique_name": "The Picnic List",

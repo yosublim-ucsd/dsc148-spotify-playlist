@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaTPCSrnmwu.md) - [plain]
 
 > Disfruta de tu velada en la sedosa compañía de las 88 teclas del piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,064 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,074 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaTPCSrnmwu.md) - [plain]
 | 12 | [Ode To Sunshine](https://open.spotify.com/track/1Zfkx3AThGj2ysalStOIyn) | [Edward Elysseus](https://open.spotify.com/artist/3B2uDXsfuaUaXn5CuN4Eh7) | [Clear Blue Skies](https://open.spotify.com/album/2nCUZMqf2r51Z7iWUP9kVU) | 4:28 |
 | 13 | [Amalfi Moon](https://open.spotify.com/track/3qE1HsdBOfXyZmCfRfT8Jc) | [Ana Olgica](https://open.spotify.com/artist/29nLvGubwGVV9I4kF3nldc) | [Amalfi Moon](https://open.spotify.com/album/1DuAYHyITCrrQVGGVMt8Fz) | 2:31 |
 | 14 | [Don't Know Why](https://open.spotify.com/track/7e9e6hczmTaB9bYrTJMcHe) | [Stephen Rogerson](https://open.spotify.com/artist/5xXnBmVrb708VQBBjG59Gk) | [Moon Over Brooklyn](https://open.spotify.com/album/3cdgdzfuIoOWbMbemo7OGM) | 2:20 |
-| 15 | [Quando sorridi](https://open.spotify.com/track/4tJLqa4zHZmoBrkdZu2IFY) | [Vala Capon](https://open.spotify.com/artist/49fgD6LHJUewc21tGBaOqV) | [Quando sorridi](https://open.spotify.com/album/5WED43tdqslgKrB6s3fA8I) | 2:03 |
-| 16 | [Um Dia No Mar](https://open.spotify.com/track/1EZYeNyXTPKOVAP7Vn9wCi) | [Claudio Fonseca Quartet](https://open.spotify.com/artist/3cxnRW4ENZ1c41HbbXy8Bf) | [Um Dia No Mar](https://open.spotify.com/album/4QrobV7gNlPPVdJ6MY8Y2U) | 2:41 |
+| 15 | [Um Dia No Mar](https://open.spotify.com/track/1EZYeNyXTPKOVAP7Vn9wCi) | [Claudio Fonseca Quartet](https://open.spotify.com/artist/3cxnRW4ENZ1c41HbbXy8Bf) | [Um Dia No Mar](https://open.spotify.com/album/4QrobV7gNlPPVdJ6MY8Y2U) | 2:41 |
+| 16 | [Quando sorridi](https://open.spotify.com/track/4tJLqa4zHZmoBrkdZu2IFY) | [Vala Capon](https://open.spotify.com/artist/49fgD6LHJUewc21tGBaOqV) | [Quando sorridi](https://open.spotify.com/album/5WED43tdqslgKrB6s3fA8I) | 2:03 |
 | 17 | [Lágrimas Negras](https://open.spotify.com/track/3c7m2Kzg1q9iKa4yhKbuea) | [Bebo Valdés](https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj), [Chucho Valdés](https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp) | [Juntos para Siempre](https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76) | 3:44 |
 | 18 | [Fin de l'été](https://open.spotify.com/track/6jm8T38DHANT7c2xvIZpx6) | [Falerina Paquet](https://open.spotify.com/artist/2EVyOTY6DUVsMpLzqcCZ8B) | [Fin de l'été](https://open.spotify.com/album/5NQ7mu7ifo8HTpsg9eIc42) | 1:53 |
 | 19 | [Canción Contra La Indecisión](https://open.spotify.com/track/6fTs9vrso7u7spinTkiauE) | [Bobo Stenson Trio](https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV) | [Contra La Indecisión](https://open.spotify.com/album/3e1D8PXvjboQnZY8o9vNgo) | 4:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaTPCSrnmwu.md) - [plain]
 | 49 | [How Insensitive](https://open.spotify.com/track/6sLdpUMlsSe1TT7c3DPZbE) | [Petra Britton](https://open.spotify.com/artist/5o3FN7dWw31Y92A9gp56m2) | [Ev'rything I Love](https://open.spotify.com/album/5jinjBFLM6HuPMbVUiFDZh) | 2:18 |
 | 50 | [La mariposa](https://open.spotify.com/track/7hnHIeg2UVBYmxkvhmaOts) | [Carmín Aponte](https://open.spotify.com/artist/0xh9QyZHWTadoIZx6A20h9) | [La mariposa](https://open.spotify.com/album/7L1I2d8HsB8J9RmphxKlUj) | 2:14 |
 
-Snapshot ID: `MTYxMDk4NTQzNSwwMDAwMDAwMDE0YmEwNTNkMmViOWZmNmQxOTNkNTFhYmM3NzFhZGMx`
+Snapshot ID: `MTYxMDk4NTQzNSwwMDAwMDAwMGMzYzk0ODNmOWRlY2ZhNzIyMTBhMmM0N2Q2ZjViYTY2`

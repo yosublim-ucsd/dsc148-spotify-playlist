@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto s\u00ed es Bachata! Portada: Romeo Santos",
-  "num_followers": 208902,
+  "num_followers": 209026,
   "original_name": "Bachat\u00e9ame",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIzODg2MCwwMDAwMDAwMDM3MGVhODMwYzg2NWI5YzRiM2QyZmRiNmQ3MjI2Y2Zm",
+  "snapshot_id": "MTY4MDIzODg2MCwwMDAwMDAwMDUzYmJkY2RiNmQyZjEwZjExYWM1ZGNhMzdmOWU4NTEz",
   "tracks": [
     {
       "added_at": "2023-03-31 05:01:00",
@@ -1015,8 +1015,8 @@
     {
       "added_at": "2023-03-31 05:01:00",
       "album": {
-        "name": "Enamorado",
-        "url": "https://open.spotify.com/album/3cncShkeHvZMb0b1sz8TxA"
+        "name": "Creiste",
+        "url": "https://open.spotify.com/album/7mKk2Bs3RmVufvShVI8EcU"
       },
       "artists": [
         {
@@ -1024,9 +1024,9 @@
           "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
         }
       ],
-      "duration_ms": 372733,
-      "name": "P\u00e9game Tu Vicio",
-      "url": "https://open.spotify.com/track/55VkPG0F93r4gYkYXBetfE"
+      "duration_ms": 257488,
+      "name": "Creiste",
+      "url": "https://open.spotify.com/track/53orRX6MudB9jhW0sKZWhW"
     },
     {
       "added_at": "2023-03-31 05:01:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-03-31 05:01:00",
       "album": {
-        "name": "Sentimiento",
-        "url": "https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo"
-      },
-      "artists": [
-        {
-          "name": "Teodoro Reyes",
-          "url": "https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy"
-        }
-      ],
-      "duration_ms": 216800,
-      "name": "Los Pobres Tambien LLoran",
-      "url": "https://open.spotify.com/track/2PcQcYs9O2akTO3uCgRdGg"
-    },
-    {
-      "added_at": "2023-03-31 05:01:00",
-      "album": {
         "name": "Bachatas Para La Historia",
         "url": "https://open.spotify.com/album/3XpFWkLUNxJtOFRlGW1zKU"
       },
@@ -1143,8 +1127,24 @@
     {
       "added_at": "2023-03-31 05:01:00",
       "album": {
-        "name": "Creiste",
-        "url": "https://open.spotify.com/album/7mKk2Bs3RmVufvShVI8EcU"
+        "name": "Sentimiento",
+        "url": "https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo"
+      },
+      "artists": [
+        {
+          "name": "Teodoro Reyes",
+          "url": "https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy"
+        }
+      ],
+      "duration_ms": 216800,
+      "name": "Los Pobres Tambien LLoran",
+      "url": "https://open.spotify.com/track/2PcQcYs9O2akTO3uCgRdGg"
+    },
+    {
+      "added_at": "2023-03-31 05:01:00",
+      "album": {
+        "name": "Enamorado",
+        "url": "https://open.spotify.com/album/3cncShkeHvZMb0b1sz8TxA"
       },
       "artists": [
         {
@@ -1152,9 +1152,9 @@
           "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
         }
       ],
-      "duration_ms": 257488,
-      "name": "Creiste",
-      "url": "https://open.spotify.com/track/53orRX6MudB9jhW0sKZWhW"
+      "duration_ms": 372733,
+      "name": "P\u00e9game Tu Vicio",
+      "url": "https://open.spotify.com/track/55VkPG0F93r4gYkYXBetfE"
     },
     {
       "added_at": "2023-03-31 05:01:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-03-31 05:01:00",
       "album": {
-        "name": "Pilot",
-        "url": "https://open.spotify.com/album/3iGoLRveNIQ2I4ibGbzXi4"
-      },
-      "artists": [
-        {
-          "name": "Chavi Leons",
-          "url": "https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx"
-        }
-      ],
-      "duration_ms": 150071,
-      "name": "Otra Vez",
-      "url": "https://open.spotify.com/track/4PAZkIDhWvMJMF6nO3HyJX"
-    },
-    {
-      "added_at": "2023-03-31 05:01:00",
-      "album": {
         "name": "Hablamos En La Cama",
         "url": "https://open.spotify.com/album/2U6skaTPCGdtHbpAfb8Bap"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 262786,
       "name": "Coraz\u00f3n Con Candado",
       "url": "https://open.spotify.com/track/6BrJFyOcW5El8YLp3DtTJ7"
+    },
+    {
+      "added_at": "2023-03-31 05:01:00",
+      "album": {
+        "name": "Pilot",
+        "url": "https://open.spotify.com/album/3iGoLRveNIQ2I4ibGbzXi4"
+      },
+      "artists": [
+        {
+          "name": "Chavi Leons",
+          "url": "https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx"
+        }
+      ],
+      "duration_ms": 150071,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/4PAZkIDhWvMJMF6nO3HyJX"
     },
     {
       "added_at": "2023-03-31 05:01:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-03-31 05:01:00",
       "album": {
-        "name": "Escenas De Amor",
-        "url": "https://open.spotify.com/album/0FBJ8Wh061zAWwgi8dGDco"
-      },
-      "artists": [
-        {
-          "name": "Raulin Rodriguez",
-          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
-        }
-      ],
-      "duration_ms": 230360,
-      "name": "Como Ser\u00e1s Tu",
-      "url": "https://open.spotify.com/track/269nyKy2duFQEE1FSnkdny"
-    },
-    {
-      "added_at": "2023-03-31 05:01:00",
-      "album": {
         "name": "La Raiz",
         "url": "https://open.spotify.com/album/6X78J9UxEWDy8vhEfAq7aL"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 200437,
       "name": "Borracho Y Loco",
       "url": "https://open.spotify.com/track/4KtYHts2AdkhcV9x2MGbWt"
+    },
+    {
+      "added_at": "2023-03-31 05:01:00",
+      "album": {
+        "name": "Latin Dance Series - Bachata",
+        "url": "https://open.spotify.com/album/0EQ8hVtn1UFDK8jGB8ub8o"
+      },
+      "artists": [
+        {
+          "name": "The Latin Dance Machine",
+          "url": "https://open.spotify.com/artist/65tDFkGSE6HgE86soyuDVK"
+        }
+      ],
+      "duration_ms": 241680,
+      "name": "Muchachita Loca",
+      "url": "https://open.spotify.com/track/3sc5V807LrB6laUneVyu52"
     },
     {
       "added_at": "2023-03-31 05:01:00",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2023-03-31 05:01:00",
       "album": {
-        "name": "Latin Dance Series - Bachata",
-        "url": "https://open.spotify.com/album/0EQ8hVtn1UFDK8jGB8ub8o"
+        "name": "Escenas De Amor",
+        "url": "https://open.spotify.com/album/0FBJ8Wh061zAWwgi8dGDco"
       },
       "artists": [
         {
-          "name": "The Latin Dance Machine",
-          "url": "https://open.spotify.com/artist/65tDFkGSE6HgE86soyuDVK"
+          "name": "Raulin Rodriguez",
+          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
         }
       ],
-      "duration_ms": 241680,
-      "name": "Muchachita Loca",
-      "url": "https://open.spotify.com/track/3sc5V807LrB6laUneVyu52"
+      "duration_ms": 230360,
+      "name": "Como Ser\u00e1s Tu",
+      "url": "https://open.spotify.com/track/269nyKy2duFQEE1FSnkdny"
     },
     {
       "added_at": "2023-03-31 05:01:00",

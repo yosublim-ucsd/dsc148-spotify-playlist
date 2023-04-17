@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 
 > Luister naar de fijnste nieuwe songs en hits van dit moment! Cover: Son Mieux
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,186 likes - 90 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,187 likes - 90 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 | 17 | [Eyes Closed](https://open.spotify.com/track/07bsRv0pcpbG4zJeLsUs1p) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Eyes Closed](https://open.spotify.com/album/43qfLpwe6sEOEqxVmOHRu0) | 3:14 |
 | 18 | [That’s Not How This Works \(feat\. Dan + Shay\)](https://open.spotify.com/track/28a0aMV1OKoyNiCJuNsWrY) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [That’s Not How This Works \(feat\. Dan + Shay\)](https://open.spotify.com/album/67IEDkeGYxOvS2RvcarzrT) | 2:45 |
 | 19 | [You Are You](https://open.spotify.com/track/2gsqXY6cxyCAJ7TiM3oyxW) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [Any Day Now](https://open.spotify.com/album/1T4QzY60Mpe02NYZDPWVFI) | 2:58 |
-| 20 | [WHEN IT HURTS](https://open.spotify.com/track/7vJRS4OzKPyR2ZyYg5pVOk) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [Jack Savoretti](https://open.spotify.com/artist/7nC05zmJukRGYObQeRgg3x) | [WHEN IT HURTS](https://open.spotify.com/album/58Zx7kZhWVVYH1KmYGT27z) | 3:01 |
+| 20 | [WHEN IT HURTS](https://open.spotify.com/track/3AOHXWSY2iFEXPpIwLfYcP) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [Jack Savoretti](https://open.spotify.com/artist/7nC05zmJukRGYObQeRgg3x) | [For When It Hurts](https://open.spotify.com/album/4fyML49o9PKbI3jaTFA7gH) | 3:01 |
 | 21 | [Good Time](https://open.spotify.com/track/5XUirzoMLaO0qsiHZTY3Mo) | [Sheppard](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) | [Good Time](https://open.spotify.com/album/6dJO0DBV6QxLIHjYytOmzO) | 2:52 |
 | 22 | [How I'm Feeling Now](https://open.spotify.com/track/5CcfIvFHULvnM0ST4nzRRN) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [How I'm Feeling Now](https://open.spotify.com/album/5Kys3ZEzHMqSbpKnyfSkqj) | 3:46 |
 | 23 | [Can't Get Enough](https://open.spotify.com/track/2qx9v2aAKz5AQ2PaXMDdb1) | [Mitch Rivers](https://open.spotify.com/artist/60MGr6u8AF2SYwh7zRBV3K) | [Can't Get Enough](https://open.spotify.com/album/0C4H93VXSWTYU9rRqLhtSg) | 3:51 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 | 89 | [Still Got It Goin' On \- Radio Edit](https://open.spotify.com/track/0s29NsEfTyZQ5FFeQbVWWs) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Still Got It Goin' On \(Radio Edit\)](https://open.spotify.com/album/70IIzf8VDiLTvmKIVFQjzz) | 4:03 |
 | 90 | [Paper Crown](https://open.spotify.com/track/2fB0qwP98V9Yrv3mgR6IJJ) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Paper Crown](https://open.spotify.com/album/7sQDzWYBQavRBvvamkslFe) | 3:12 |
 
-Snapshot ID: `MTY4MTQyMzIwMCwwMDAwMDAwMDNmY2Y5YWNiOWI1OTgwYzU3MzVlMzc5NjI5ODdhNWE2`
+Snapshot ID: `MTY4MTQyMzIwMCwwMDAwMDAwMDU2OTkzMjhmZWFkNDc1YjYyMWRkYWNmYTk1N2RjMjU0`

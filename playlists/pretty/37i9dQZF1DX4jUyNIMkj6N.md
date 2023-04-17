@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,420 likes - 60 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,490 likes - 60 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 50 | [Look At The Light](https://open.spotify.com/track/56aazenLnCcpAzCEgsCyYV) | [Sin Fang](https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU) | [Flowers](https://open.spotify.com/album/4LzplREyxz4OBGBYjkLCaW) | 3:40 |
 | 51 | [The Devil's Tongue](https://open.spotify.com/track/0zJ5Alcy6I5mqjQVcUqTSx) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK) | 2:13 |
 | 52 | [Tranøy fyr](https://open.spotify.com/track/1ZiY38qhaI4HF6lilr2FV8) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Tranøy fyr](https://open.spotify.com/album/6VdthuopHQGNXLcCH5Vwjy) | 3:56 |
-| 53 | [I Was Just Thinking](https://open.spotify.com/track/1kcTZCAV8k8CQ0LOz735Gd) | [Teitur](https://open.spotify.com/artist/1lrjRRYpYP8kVTlHLShjJM) | [Poetry & Airplanes](https://open.spotify.com/album/56fpdPOaGl7IHh71TPtQo1) | 3:31 |
-| 54 | [Grey](https://open.spotify.com/track/6VVMhLXX7329EmXVwrm40I) | [Silver Lining](https://open.spotify.com/artist/2fpiIE5NAH8HpcYthaxm97) | [Grey](https://open.spotify.com/album/2hhuqUYYuwCGiGVPDFt53J) | 3:52 |
+| 53 | [Grey](https://open.spotify.com/track/6VVMhLXX7329EmXVwrm40I) | [Silver Lining](https://open.spotify.com/artist/2fpiIE5NAH8HpcYthaxm97) | [Grey](https://open.spotify.com/album/2hhuqUYYuwCGiGVPDFt53J) | 3:52 |
+| 54 | [I Was Just Thinking](https://open.spotify.com/track/1kcTZCAV8k8CQ0LOz735Gd) | [Teitur](https://open.spotify.com/artist/1lrjRRYpYP8kVTlHLShjJM) | [Poetry & Airplanes](https://open.spotify.com/album/56fpdPOaGl7IHh71TPtQo1) | 3:31 |
 | 55 | [Bluebelle Mountain](https://open.spotify.com/track/02nxCFRn4cmbfKQB4mUFP5) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Joni Was Right Pt\. II](https://open.spotify.com/album/6wonVPtSuwYgTjn76yMCgE) | 3:20 |
 | 56 | [Zeven](https://open.spotify.com/track/1fW3S0ANHrRLxOGd1MbhTP) | [iamamiwhoami](https://open.spotify.com/artist/6UOcY6w4K6Ek5Lw5rFDHdP), [ionnalee](https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv) | [Be Here Soon](https://open.spotify.com/album/76GU37as8GBPpZdauuS6EW) | 3:36 |
 | 57 | [Ain't Nobody Like Me](https://open.spotify.com/track/1HClG4JoFtukyPDO73eoVe) | [Bendik Brænne](https://open.spotify.com/artist/2xHFB5Nl4D6Il5tfP57sr1), [Daniel Romano](https://open.spotify.com/artist/2kTXvMOmrHVjVewErG5kHD) | [The Last Great Country Swindle](https://open.spotify.com/album/1I25HgAQMA4yhiW7jIv0qQ) | 3:23 |
-| 58 | [Glimpse of a Time](https://open.spotify.com/track/06zhgqhDgIM6CMI4NyDVxu) | [Broken Twin](https://open.spotify.com/artist/4Y1f57EtKq7YF6DfftpopX) | [May](https://open.spotify.com/album/2vXLNhdNLU10FscOd07Xbl) | 3:34 |
-| 59 | [The Sweetest Tune](https://open.spotify.com/track/4vDxQKlCJVfsTdK4g9eA5x) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [Vinyl and a Heartache](https://open.spotify.com/album/3ggLoeg7Vv2fx1OoR1Egte) | 3:39 |
+| 58 | [Spor i sand](https://open.spotify.com/track/7qGuTkxiZ3Uxtr4aI8bxmE) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Bråtebrann \(Vinyl Edition\)](https://open.spotify.com/album/6LAlzrbGc9DCpnKHRDWN1F) | 4:48 |
+| 59 | [Glimpse of a Time](https://open.spotify.com/track/06zhgqhDgIM6CMI4NyDVxu) | [Broken Twin](https://open.spotify.com/artist/4Y1f57EtKq7YF6DfftpopX) | [May](https://open.spotify.com/album/2vXLNhdNLU10FscOd07Xbl) | 3:34 |
 | 60 | [Hunting Sky](https://open.spotify.com/track/48wE4vYe6iumDianYfUAfO) | [Sumie](https://open.spotify.com/artist/1oEHAWdn0GWyRaL8JGOlan) | [Sumie](https://open.spotify.com/album/3MJtEuh26Rm8p8cdNemiAg) | 3:15 |
 
-Snapshot ID: `MTY4MTQyMzIwMCwwMDAwMDAwMDJhODA2MjI2MDY1ODFkOWEzY2E3ODg3ZGI0Nzk2YTc2`
+Snapshot ID: `MTY4MTQyMzIwMCwwMDAwMDAwMDMyOTA2MThhZWU4Y2M3NDM2MmRlMDRjODM5NDUxZDAz`

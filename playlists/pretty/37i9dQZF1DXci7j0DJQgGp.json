@@ -1,12 +1,12 @@
 {
   "description": "The perfect playlist to just sit back and chill out with.",
-  "num_followers": 1804099,
+  "num_followers": 1804148,
   "original_name": "Hanging Out & Relaxing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI5NjY4NywwMDAwMDAwMDM3Y2MzN2FjMGM1ZmEwODQ3NTYxMzU5OWVmYjFlYjAz",
+  "snapshot_id": "MTY4MDI5NjY4NywwMDAwMDAwMGVkM2Q3OWMzMGQ4ZDQ0ZDQ5NThhYTQ3ODYxNDg5Y2M1",
   "tracks": [
     {
       "added_at": "2023-03-28 20:19:12",
@@ -759,6 +759,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "Motel Mayday",
+        "url": "https://open.spotify.com/album/4dJgUM5aZ8GhXQp0QPkOS0"
+      },
+      "artists": [
+        {
+          "name": "Josiah and the Bonnevilles",
+          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+        }
+      ],
+      "duration_ms": 223160,
+      "name": "Stolen Love",
+      "url": "https://open.spotify.com/track/6ZW6Q3Fzt9fGzC4nbhA5pf"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "(self-titled)",
         "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 222297,
       "name": "These Are The Days",
       "url": "https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Motel Mayday",
-        "url": "https://open.spotify.com/album/4dJgUM5aZ8GhXQp0QPkOS0"
-      },
-      "artists": [
-        {
-          "name": "Josiah and the Bonnevilles",
-          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
-        }
-      ],
-      "duration_ms": 223160,
-      "name": "Stolen Love",
-      "url": "https://open.spotify.com/track/6ZW6Q3Fzt9fGzC4nbhA5pf"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "We've Been Going About This All Wrong",
-        "url": "https://open.spotify.com/album/3PqowBonjatEu0P7g5AIHr"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 239146,
-      "name": "Mistakes",
-      "url": "https://open.spotify.com/track/4WYVA9t70fpESE1mychdZL"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Peace Or Love",
         "url": "https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 210377,
       "name": "Rocky Trail",
       "url": "https://open.spotify.com/track/2eqvJD0b9ueAWwb7QSBGCW"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "We've Been Going About This All Wrong",
+        "url": "https://open.spotify.com/album/3PqowBonjatEu0P7g5AIHr"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 239146,
+      "name": "Mistakes",
+      "url": "https://open.spotify.com/track/4WYVA9t70fpESE1mychdZL"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "concussion",
-        "url": "https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2"
-      },
-      "artists": [
-        {
-          "name": "girlhouse",
-          "url": "https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX"
-        }
-      ],
-      "duration_ms": 277142,
-      "name": "concussion",
-      "url": "https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Mother",
         "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 262960,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/1el1feH98jWUrPpYmu5jN8"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "concussion",
+        "url": "https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2"
+      },
+      "artists": [
+        {
+          "name": "girlhouse",
+          "url": "https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX"
+        }
+      ],
+      "duration_ms": 277142,
+      "name": "concussion",
+      "url": "https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/0dsp6TeaD2da6UvQy4CZ2C"
-      },
-      "artists": [
-        {
-          "name": "Sjowgren",
-          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
-        }
-      ],
-      "duration_ms": 90227,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/03rZ4jEeqvKjrqdRHPZmpp"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "My Finest Work Yet",
         "url": "https://open.spotify.com/album/2xQ1WHVV0MdVSRkpND5P51"
       },
@@ -1115,50 +1099,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "songs written for piano",
-        "url": "https://open.spotify.com/album/4b3sAKmiYUPq7OCe7JEX4O"
+        "name": "Change",
+        "url": "https://open.spotify.com/album/0dsp6TeaD2da6UvQy4CZ2C"
       },
       "artists": [
         {
-          "name": "Katie Gregson-MacLeod",
-          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
+          "name": "Sjowgren",
+          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
         }
       ],
-      "duration_ms": 147853,
-      "name": "white lies",
-      "url": "https://open.spotify.com/track/3twtKmTjKfNjavNLZg5jLH"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Del Water Gap",
-        "url": "https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE"
-      },
-      "artists": [
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        }
-      ],
-      "duration_ms": 205905,
-      "name": "Alone Together",
-      "url": "https://open.spotify.com/track/1JKioiu4WVtEZojt2OdfmR"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Way I Go",
-        "url": "https://open.spotify.com/album/2BI8iTUQ5STaPPE8HowGNq"
-      },
-      "artists": [
-        {
-          "name": "Gordi",
-          "url": "https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM"
-        }
-      ],
-      "duration_ms": 247829,
-      "name": "Way I Go",
-      "url": "https://open.spotify.com/track/5fMTQPtPqEGNCI9gDGTruc"
+      "duration_ms": 90227,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/03rZ4jEeqvKjrqdRHPZmpp"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1179,6 +1131,54 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "Jaime",
+        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "duration_ms": 191395,
+      "name": "Stay High",
+      "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Way I Go",
+        "url": "https://open.spotify.com/album/2BI8iTUQ5STaPPE8HowGNq"
+      },
+      "artists": [
+        {
+          "name": "Gordi",
+          "url": "https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM"
+        }
+      ],
+      "duration_ms": 247829,
+      "name": "Way I Go",
+      "url": "https://open.spotify.com/track/5fMTQPtPqEGNCI9gDGTruc"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Del Water Gap",
+        "url": "https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "duration_ms": 205905,
+      "name": "Alone Together",
+      "url": "https://open.spotify.com/track/1JKioiu4WVtEZojt2OdfmR"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Jubilee",
         "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
       },
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Jaime",
-        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
+        "name": "songs written for piano",
+        "url": "https://open.spotify.com/album/4b3sAKmiYUPq7OCe7JEX4O"
       },
       "artists": [
         {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+          "name": "Katie Gregson-MacLeod",
+          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
         }
       ],
-      "duration_ms": 191395,
-      "name": "Stay High",
-      "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
+      "duration_ms": 147853,
+      "name": "white lies",
+      "url": "https://open.spotify.com/track/3twtKmTjKfNjavNLZg5jLH"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "The Waterfall II",
-        "url": "https://open.spotify.com/album/4B5fQBMzkCRXoQ2qpxaQhh"
-      },
-      "artists": [
-        {
-          "name": "My Morning Jacket",
-          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
-        }
-      ],
-      "duration_ms": 277093,
-      "name": "Run It",
-      "url": "https://open.spotify.com/track/0YZBkk4ZTgTMZUKgjTVXMd"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Like I Used To",
         "url": "https://open.spotify.com/album/0nRjg8p3TOmImvztpYncra"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 263754,
       "name": "Like I Used To",
       "url": "https://open.spotify.com/track/1kZpYFQHUKv4xHELaaUSqP"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "The Waterfall II",
+        "url": "https://open.spotify.com/album/4B5fQBMzkCRXoQ2qpxaQhh"
+      },
+      "artists": [
+        {
+          "name": "My Morning Jacket",
+          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
+        }
+      ],
+      "duration_ms": 277093,
+      "name": "Run It",
+      "url": "https://open.spotify.com/track/0YZBkk4ZTgTMZUKgjTVXMd"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "Saint Cloud",
+        "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "duration_ms": 217373,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/2lBEWXP11gpEySIXgA5ALH"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Because I Wanted You to Know",
         "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
       },
@@ -1647,22 +1663,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Saint Cloud",
-        "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
-      },
-      "artists": [
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        }
-      ],
-      "duration_ms": 217373,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/2lBEWXP11gpEySIXgA5ALH"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "i,i",
         "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
       },
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Weatherman",
-        "url": "https://open.spotify.com/album/4GkmkJSF88GEnP2LFuCl0r"
-      },
-      "artists": [
-        {
-          "name": "Hush Kids",
-          "url": "https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh"
-        }
-      ],
-      "duration_ms": 211509,
-      "name": "Weatherman",
-      "url": "https://open.spotify.com/track/4i3ayapBXkyHJZLVOUqTmc"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Gold Past Life",
         "url": "https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 205493,
       "name": "Cazadera",
       "url": "https://open.spotify.com/track/5gi3e0vVgX0Jpgnc7fhZCc"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Weatherman",
+        "url": "https://open.spotify.com/album/4GkmkJSF88GEnP2LFuCl0r"
+      },
+      "artists": [
+        {
+          "name": "Hush Kids",
+          "url": "https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh"
+        }
+      ],
+      "duration_ms": 211509,
+      "name": "Weatherman",
+      "url": "https://open.spotify.com/track/4i3ayapBXkyHJZLVOUqTmc"
     }
   ],
   "unique_name": "Hanging Out & Relaxing",

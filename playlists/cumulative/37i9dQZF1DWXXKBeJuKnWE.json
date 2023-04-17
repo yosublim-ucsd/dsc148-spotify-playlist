@@ -468,7 +468,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-15",
+      "date_removed": null,
       "duration_ms": 203555,
       "name": "Devil",
       "url": "https://open.spotify.com/track/6REIaFxddyAZI2MjmlSHOW"
@@ -1006,7 +1006,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 396293,
       "name": "If Darkness Had a Son",
       "url": "https://open.spotify.com/track/69HjtjyHuP8KJT7xBaUmtW"
@@ -1209,6 +1209,24 @@
     },
     {
       "album": {
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205679,
+      "name": "Lux \u00c6terna",
+      "url": "https://open.spotify.com/track/18zjwSgYiwu1Meb7Po3tUP"
+    },
+    {
+      "album": {
         "name": "Lux \u00c6terna",
         "url": "https://open.spotify.com/album/7qxhxLR8oZN3LizPQ7z2cb"
       },
@@ -1220,7 +1238,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 205679,
       "name": "Lux \u00c6terna",
       "url": "https://open.spotify.com/track/3pwmJJRlr8nXNN9PFD18np"
@@ -1542,7 +1560,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 149194,
       "name": "REAL SUPER DARK",
       "url": "https://open.spotify.com/track/6nXtGWUzOGxfI7q5hUa6Jj"
@@ -1792,7 +1810,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-15",
+      "date_removed": null,
       "duration_ms": 172480,
       "name": "STFU",
       "url": "https://open.spotify.com/track/3kUOyI09uhyv2hqKgj2o39"

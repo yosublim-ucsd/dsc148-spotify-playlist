@@ -1,12 +1,12 @@
 {
   "description": "The warm sound and the cozy mood of classic Jazz. A soundtrack in the background for relaxing, dinner or focus. Cover: Hank Mobley",
-  "num_followers": 39161,
+  "num_followers": 39274,
   "original_name": "In the Mood for Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTM5MzI0OCwwMDAwMDAwMGJhY2RkYjkzZWExZDhiODhlNTFjMzVkYWNhOGE0MTE1",
+  "snapshot_id": "MTY4MTM5MzI0OCwwMDAwMDAwMDkwNWRkZmY2NGNmNTUzNDUzNmJhYjBlNzVjYjNlMWE3",
   "tracks": [
     {
       "added_at": "2023-03-23 09:58:10",
@@ -75,6 +75,22 @@
     {
       "added_at": "2023-03-23 09:58:10",
       "album": {
+        "name": "All Or Nothing At All",
+        "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 185586,
+      "name": "April In Paris",
+      "url": "https://open.spotify.com/track/34zhjduFdQFhkRUJ230h9T"
+    },
+    {
+      "added_at": "2023-03-23 09:58:10",
+      "album": {
         "name": "Duke Ellington & John Coltrane",
         "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
       },
@@ -91,22 +107,6 @@
       "duration_ms": 319733,
       "name": "My Little Brown Book",
       "url": "https://open.spotify.com/track/4rmCI9VWrwrJTJ8XQ80BMN"
-    },
-    {
-      "added_at": "2023-03-23 09:58:10",
-      "album": {
-        "name": "All Or Nothing At All",
-        "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 185586,
-      "name": "April In Paris",
-      "url": "https://open.spotify.com/track/34zhjduFdQFhkRUJ230h9T"
     },
     {
       "added_at": "2023-03-23 09:58:10",
@@ -455,6 +455,22 @@
     {
       "added_at": "2023-03-23 09:58:10",
       "album": {
+        "name": "Hello, Dolly! (Remastered)",
+        "url": "https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 271333,
+      "name": "A Kiss To Build A Dream On",
+      "url": "https://open.spotify.com/track/6GtJqo0vr7DqWOHQtp77cV"
+    },
+    {
+      "added_at": "2023-03-23 09:58:10",
+      "album": {
         "name": "The Rockin' Chair Lady",
         "url": "https://open.spotify.com/album/4lPSYNGinkzy6Taq0rRXYC"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 360306,
       "name": "Porgy (I Loves You Porgy) - Outtake",
       "url": "https://open.spotify.com/track/3NmLBig4t7RZWbLT3U2eBb"
-    },
-    {
-      "added_at": "2023-03-23 09:58:10",
-      "album": {
-        "name": "Hello, Dolly! (Remastered)",
-        "url": "https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 271333,
-      "name": "A Kiss To Build A Dream On",
-      "url": "https://open.spotify.com/track/6GtJqo0vr7DqWOHQtp77cV"
     },
     {
       "added_at": "2023-03-23 09:58:10",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-03-23 09:58:10",
       "album": {
-        "name": "Once Upon A Summertime",
-        "url": "https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n"
-      },
-      "artists": [
-        {
-          "name": "Blossom Dearie",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
-        }
-      ],
-      "duration_ms": 190706,
-      "name": "Love Is Here To Stay",
-      "url": "https://open.spotify.com/track/0PmF0FFqD13ePLmwH6isb1"
-    },
-    {
-      "added_at": "2023-03-23 09:58:10",
-      "album": {
         "name": "Something Wonderful",
         "url": "https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 147666,
       "name": "What A Little Moonlight Can Do - Remastered",
       "url": "https://open.spotify.com/track/0KDn1UsD2ym34dCT4P9ebj"
+    },
+    {
+      "added_at": "2023-03-23 09:58:10",
+      "album": {
+        "name": "Once Upon A Summertime",
+        "url": "https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n"
+      },
+      "artists": [
+        {
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 190706,
+      "name": "Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/0PmF0FFqD13ePLmwH6isb1"
     },
     {
       "added_at": "2023-03-23 09:58:10",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-03-23 09:58:10",
       "album": {
+        "name": "Anita O'Day Swings Cole Porter With Billy May",
+        "url": "https://open.spotify.com/album/7fW57iJNSmeL29fUnBTTIO"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        }
+      ],
+      "duration_ms": 164840,
+      "name": "Love For Sale - 1959 Version",
+      "url": "https://open.spotify.com/track/43hj7RjOE5vXtgnqPidEv4"
+    },
+    {
+      "added_at": "2023-03-23 09:58:10",
+      "album": {
         "name": "The Essential Doris Day",
         "url": "https://open.spotify.com/album/747z8vJ5eFQPqeQ2Xtvn31"
       },
@@ -755,22 +771,6 @@
     {
       "added_at": "2023-03-23 09:58:10",
       "album": {
-        "name": "Anita O'Day Swings Cole Porter With Billy May",
-        "url": "https://open.spotify.com/album/7fW57iJNSmeL29fUnBTTIO"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 164840,
-      "name": "Love For Sale - 1959 Version",
-      "url": "https://open.spotify.com/track/43hj7RjOE5vXtgnqPidEv4"
-    },
-    {
-      "added_at": "2023-03-23 09:58:10",
-      "album": {
         "name": "Lullabies Of Birdland",
         "url": "https://open.spotify.com/album/44zUpA9KsYPplGV7HZmE8K"
       },
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-03-23 09:58:10",
       "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
-      },
-      "artists": [
-        {
-          "name": "Lee Konitz",
-          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
-        }
-      ],
-      "duration_ms": 417320,
-      "name": "Foolin' Myself",
-      "url": "https://open.spotify.com/track/1M0bEJicvT2qmdJej9wjyk"
-    },
-    {
-      "added_at": "2023-03-23 09:58:10",
-      "album": {
         "name": "Happy Moods",
         "url": "https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 184293,
       "name": "Excerpts From The Blues",
       "url": "https://open.spotify.com/track/4jY2c0mzMwB9PZbGEeCZZn"
+    },
+    {
+      "added_at": "2023-03-23 09:58:10",
+      "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
+      },
+      "artists": [
+        {
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+        }
+      ],
+      "duration_ms": 417320,
+      "name": "Foolin' Myself",
+      "url": "https://open.spotify.com/track/1M0bEJicvT2qmdJej9wjyk"
     },
     {
       "added_at": "2023-03-23 09:58:10",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-03-23 09:58:10",
       "album": {
-        "name": "The Turnaround",
-        "url": "https://open.spotify.com/album/2FR2NZXhXDbCTCeUUdHEJr"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 413306,
-      "name": "My Sin - Remastered 2000/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/1ebZEQLe2lfwyMnuhnIDjx"
-    },
-    {
-      "added_at": "2023-03-23 09:58:10",
-      "album": {
         "name": "The Fabulous Sidney Bechet",
         "url": "https://open.spotify.com/album/3vfghXH6XIugrTCCNQfQTS"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 248066,
       "name": "All Of Me",
       "url": "https://open.spotify.com/track/4sHMm4xzOe9cz68cf9I25k"
+    },
+    {
+      "added_at": "2023-03-23 09:58:10",
+      "album": {
+        "name": "The Turnaround",
+        "url": "https://open.spotify.com/album/2FR2NZXhXDbCTCeUUdHEJr"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 413306,
+      "name": "My Sin - Remastered 2000/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/1ebZEQLe2lfwyMnuhnIDjx"
     },
     {
       "added_at": "2023-03-23 09:58:10",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-03-23 09:58:10",
       "album": {
-        "name": "Dream with Dean",
-        "url": "https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 194893,
-      "name": "I'm Confessin' (That I Love You)",
-      "url": "https://open.spotify.com/track/6EN0fTxduMrFWuFK46pi7Z"
-    },
-    {
-      "added_at": "2023-03-23 09:58:10",
-      "album": {
         "name": "Time To Swing",
         "url": "https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 150651,
       "name": "Willow Weep For Me",
       "url": "https://open.spotify.com/track/2LHaIw3mxrbKbiZnEnGpvJ"
+    },
+    {
+      "added_at": "2023-03-23 09:58:10",
+      "album": {
+        "name": "Dream with Dean",
+        "url": "https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 194893,
+      "name": "I'm Confessin' (That I Love You)",
+      "url": "https://open.spotify.com/track/6EN0fTxduMrFWuFK46pi7Z"
     },
     {
       "added_at": "2023-03-23 09:58:10",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2023-03-23 09:58:10",
       "album": {
-        "name": "Jutta Hipp With Zoot Sims (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3Caef1zBtNTPEIg5C3XZI2"
-      },
-      "artists": [
-        {
-          "name": "Jutta Hipp",
-          "url": "https://open.spotify.com/artist/1nUb2VIRkIq9Qwmg1XdI1T"
-        },
-        {
-          "name": "Zoot Sims",
-          "url": "https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap"
-        }
-      ],
-      "duration_ms": 412653,
-      "name": "Too Close For Comfort",
-      "url": "https://open.spotify.com/track/7hvZ6vMAnO0cDkkKKJok4Y"
-    },
-    {
-      "added_at": "2023-03-23 09:58:10",
-      "album": {
         "name": "Ella and Louis",
         "url": "https://open.spotify.com/album/3kfnwa4p4uYiTOP8K8ooSE"
       },
@@ -1131,6 +1111,26 @@
       "duration_ms": 342133,
       "name": "The Nearness Of You",
       "url": "https://open.spotify.com/track/75LI0OCqjssEzuhEv42jYn"
+    },
+    {
+      "added_at": "2023-03-23 09:58:10",
+      "album": {
+        "name": "Jutta Hipp With Zoot Sims (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3Caef1zBtNTPEIg5C3XZI2"
+      },
+      "artists": [
+        {
+          "name": "Jutta Hipp",
+          "url": "https://open.spotify.com/artist/1nUb2VIRkIq9Qwmg1XdI1T"
+        },
+        {
+          "name": "Zoot Sims",
+          "url": "https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap"
+        }
+      ],
+      "duration_ms": 412653,
+      "name": "Too Close For Comfort",
+      "url": "https://open.spotify.com/track/7hvZ6vMAnO0cDkkKKJok4Y"
     },
     {
       "added_at": "2023-03-23 09:58:10",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2023-03-23 09:58:10",
       "album": {
+        "name": "Blue Train",
+        "url": "https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 479023,
+      "name": "I'm Old Fashioned",
+      "url": "https://open.spotify.com/track/0sMR4StyIAXLE0WrfaZIDu"
+    },
+    {
+      "added_at": "2023-03-23 09:58:10",
+      "album": {
         "name": "Mary Lou Williams Presents Black Christ of the Andes",
         "url": "https://open.spotify.com/album/35TchegKRAVtmhwSfDA8hy"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 285000,
       "name": "It Ain\u2019t Necessarily So",
       "url": "https://open.spotify.com/track/0vwTHK0RI01avuLIrAHp8C"
-    },
-    {
-      "added_at": "2023-03-23 09:58:10",
-      "album": {
-        "name": "Songs from the Heart (Remastered 2013)",
-        "url": "https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
-        }
-      ],
-      "duration_ms": 144428,
-      "name": "I Fall In Love Too Easily",
-      "url": "https://open.spotify.com/track/4DkOOLxg4p72UZzoUwV95W"
     },
     {
       "added_at": "2023-03-23 09:58:10",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2023-03-23 09:58:10",
       "album": {
+        "name": "Songs from the Heart (Remastered 2013)",
+        "url": "https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+        }
+      ],
+      "duration_ms": 144428,
+      "name": "I Fall In Love Too Easily",
+      "url": "https://open.spotify.com/track/4DkOOLxg4p72UZzoUwV95W"
+    },
+    {
+      "added_at": "2023-03-23 09:58:10",
+      "album": {
         "name": "Sings The Winners",
         "url": "https://open.spotify.com/album/5EC5UZWQEWFyKy2Kq4ibWB"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 191240,
       "name": "Early Autumn",
       "url": "https://open.spotify.com/track/1tj5ZJB9BhKlIBsi5mhI8b"
-    },
-    {
-      "added_at": "2023-03-23 09:58:10",
-      "album": {
-        "name": "Blue Train",
-        "url": "https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 479023,
-      "name": "I'm Old Fashioned",
-      "url": "https://open.spotify.com/track/0sMR4StyIAXLE0WrfaZIDu"
     },
     {
       "added_at": "2023-03-23 09:58:10",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2023-03-23 09:58:10",
       "album": {
-        "name": "Baker's Holiday",
-        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
+        "name": "Blues Walk",
+        "url": "https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk"
       },
       "artists": [
         {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+          "name": "Lou Donaldson",
+          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
         }
       ],
-      "duration_ms": 174040,
-      "name": "When Your Lover Has Gone",
-      "url": "https://open.spotify.com/track/4cAZSwLu81TpobAB0M9kz4"
+      "duration_ms": 331333,
+      "name": "Play Ray",
+      "url": "https://open.spotify.com/track/0CaMKN4Fu6WKHBW38JazrY"
     },
     {
       "added_at": "2023-03-23 09:58:10",
@@ -1319,38 +1319,18 @@
     {
       "added_at": "2023-03-23 09:58:10",
       "album": {
-        "name": "Blues Walk",
-        "url": "https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk"
+        "name": "Baker's Holiday",
+        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
       },
       "artists": [
         {
-          "name": "Lou Donaldson",
-          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 331333,
-      "name": "Play Ray",
-      "url": "https://open.spotify.com/track/0CaMKN4Fu6WKHBW38JazrY"
-    },
-    {
-      "added_at": "2023-03-23 09:58:10",
-      "album": {
-        "name": "Ella And Louis Again",
-        "url": "https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 145533,
-      "name": "Comes Love",
-      "url": "https://open.spotify.com/track/4RCIJZQ866qGKz0tefgYYt"
+      "duration_ms": 174040,
+      "name": "When Your Lover Has Gone",
+      "url": "https://open.spotify.com/track/4cAZSwLu81TpobAB0M9kz4"
     },
     {
       "added_at": "2023-03-23 09:58:10",
@@ -1387,6 +1367,26 @@
     {
       "added_at": "2023-03-23 09:58:10",
       "album": {
+        "name": "Ella And Louis Again",
+        "url": "https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 145533,
+      "name": "Comes Love",
+      "url": "https://open.spotify.com/track/4RCIJZQ866qGKz0tefgYYt"
+    },
+    {
+      "added_at": "2023-03-23 09:58:10",
+      "album": {
         "name": "Nat King Cole Sings George Shearing Plays",
         "url": "https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr"
       },
@@ -1403,6 +1403,70 @@
       "duration_ms": 209933,
       "name": "I'm Lost",
       "url": "https://open.spotify.com/track/4sWFAJNRxrkYlWC0UpYZXC"
+    },
+    {
+      "added_at": "2023-03-23 09:58:10",
+      "album": {
+        "name": "Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster)",
+        "url": "https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 173160,
+      "name": "It Could Happen to You",
+      "url": "https://open.spotify.com/track/0Ve39xlLUEwJlxEpKR117l"
+    },
+    {
+      "added_at": "2023-03-23 09:58:10",
+      "album": {
+        "name": "Trav'lin' Light",
+        "url": "https://open.spotify.com/album/03Xem2BGYv3uVW7bQpBVuQ"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        }
+      ],
+      "duration_ms": 207733,
+      "name": "Crazy He Calls Me",
+      "url": "https://open.spotify.com/track/3737oBAK0AEMMGxOdjM5xW"
+    },
+    {
+      "added_at": "2023-03-23 09:58:10",
+      "album": {
+        "name": "King Of The Tenors",
+        "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 185800,
+      "name": "Don't Get Around Much Any More",
+      "url": "https://open.spotify.com/track/0U9GZufDpyO2YQRLHmcMa6"
+    },
+    {
+      "added_at": "2023-03-23 09:58:10",
+      "album": {
+        "name": "Ella Sings Gershwin",
+        "url": "https://open.spotify.com/album/3DJYxksYYP018jgpOTVXqO"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 167293,
+      "name": "Soon",
+      "url": "https://open.spotify.com/track/6FWtmmLX3pJEhKdS0OwPTc"
     },
     {
       "added_at": "2023-03-23 09:58:10",
@@ -1439,70 +1503,6 @@
     {
       "added_at": "2023-03-23 09:58:10",
       "album": {
-        "name": "Trav'lin' Light",
-        "url": "https://open.spotify.com/album/03Xem2BGYv3uVW7bQpBVuQ"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 207733,
-      "name": "Crazy He Calls Me",
-      "url": "https://open.spotify.com/track/3737oBAK0AEMMGxOdjM5xW"
-    },
-    {
-      "added_at": "2023-03-23 09:58:10",
-      "album": {
-        "name": "Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster)",
-        "url": "https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 173160,
-      "name": "It Could Happen to You",
-      "url": "https://open.spotify.com/track/0Ve39xlLUEwJlxEpKR117l"
-    },
-    {
-      "added_at": "2023-03-23 09:58:10",
-      "album": {
-        "name": "Ella Sings Gershwin",
-        "url": "https://open.spotify.com/album/3DJYxksYYP018jgpOTVXqO"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 167293,
-      "name": "Soon",
-      "url": "https://open.spotify.com/track/6FWtmmLX3pJEhKdS0OwPTc"
-    },
-    {
-      "added_at": "2023-03-23 09:58:10",
-      "album": {
-        "name": "King Of The Tenors",
-        "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        }
-      ],
-      "duration_ms": 185800,
-      "name": "Don't Get Around Much Any More",
-      "url": "https://open.spotify.com/track/0U9GZufDpyO2YQRLHmcMa6"
-    },
-    {
-      "added_at": "2023-03-23 09:58:10",
-      "album": {
         "name": "Sarah Vaughan In Hi-Fi",
         "url": "https://open.spotify.com/album/3pmwIzJoyWl2gys1A8jUml"
       },
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-03-23 09:58:10",
       "album": {
-        "name": "Oscar Peterson For Lovers (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7qcSO0ylHCDZNFClhnbqHv"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 280866,
-      "name": "Time And Again",
-      "url": "https://open.spotify.com/track/18epPmynZUEZcGSUhTxK2t"
-    },
-    {
-      "added_at": "2023-03-23 09:58:10",
-      "album": {
         "name": "All Or Nothing At All",
         "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 231760,
       "name": "But Not For Me",
       "url": "https://open.spotify.com/track/0RylOkUn6emxO9bPwxWqsI"
+    },
+    {
+      "added_at": "2023-03-23 09:58:10",
+      "album": {
+        "name": "Oscar Peterson For Lovers (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7qcSO0ylHCDZNFClhnbqHv"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 280866,
+      "name": "Time And Again",
+      "url": "https://open.spotify.com/track/18epPmynZUEZcGSUhTxK2t"
     },
     {
       "added_at": "2023-03-23 09:58:10",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2023-03-23 09:58:10",
       "album": {
-        "name": "Ben Webster and Associates",
-        "url": "https://open.spotify.com/album/4Iorh0xvUvOWcVpbFHiGTR"
+        "name": "Clap Hands, Here Comes Charlie! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/051AdKfsuNyfiUc81mkJIR"
       },
       "artists": [
         {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
         }
       ],
-      "duration_ms": 274160,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/6M5sixn4EsVnrxBE4RpTNr"
+      "duration_ms": 377200,
+      "name": "Spring Can Really Hang You Up The Most",
+      "url": "https://open.spotify.com/track/1706f2W2p6OpGj3n6WVGJR"
     },
     {
       "added_at": "2023-03-23 09:58:10",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2023-03-23 09:58:10",
       "album": {
+        "name": "Ben Webster and Associates",
+        "url": "https://open.spotify.com/album/4Iorh0xvUvOWcVpbFHiGTR"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 274160,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/6M5sixn4EsVnrxBE4RpTNr"
+    },
+    {
+      "added_at": "2023-03-23 09:58:10",
+      "album": {
         "name": "Don't Go To Strangers (Rudy Van Gelder Remaster)",
         "url": "https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt"
       },
@@ -1619,18 +1635,18 @@
     {
       "added_at": "2023-03-23 09:58:10",
       "album": {
-        "name": "Clap Hands, Here Comes Charlie! (Expanded Edition)",
-        "url": "https://open.spotify.com/album/051AdKfsuNyfiUc81mkJIR"
+        "name": "There's Only One...",
+        "url": "https://open.spotify.com/album/23rGVbzBz5S72mqLUGQJB8"
       },
       "artists": [
         {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
         }
       ],
-      "duration_ms": 377200,
-      "name": "Spring Can Really Hang You Up The Most",
-      "url": "https://open.spotify.com/track/1706f2W2p6OpGj3n6WVGJR"
+      "duration_ms": 312840,
+      "name": "I'm Getting Sentimental Over You",
+      "url": "https://open.spotify.com/track/1OxzwCDfkefXTnfwiKUufb"
     },
     {
       "added_at": "2023-03-23 09:58:10",
@@ -1647,22 +1663,6 @@
       "duration_ms": 288840,
       "name": "Dear Kathy",
       "url": "https://open.spotify.com/track/151RegbPut96kOvkSiPqLb"
-    },
-    {
-      "added_at": "2023-03-23 09:58:10",
-      "album": {
-        "name": "There's Only One...",
-        "url": "https://open.spotify.com/album/23rGVbzBz5S72mqLUGQJB8"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 312840,
-      "name": "I'm Getting Sentimental Over You",
-      "url": "https://open.spotify.com/track/1OxzwCDfkefXTnfwiKUufb"
     },
     {
       "added_at": "2023-03-23 09:58:10",

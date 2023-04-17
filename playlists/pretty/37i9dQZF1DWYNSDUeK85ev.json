@@ -1,12 +1,12 @@
 {
   "description": "La m\u00fasica que prende la fiesta!",
-  "num_followers": 557322,
+  "num_followers": 557741,
   "original_name": "Joda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQxNTE1MiwwMDAwMDAwMDdiNDNhYjk0MWI4Njk0OTdjNTk5OGRiNWVlZTg0YTRl",
+  "snapshot_id": "MTY4MTQxNTE1MiwwMDAwMDAwMDJiZGM2ZGY2YTgyMjljN2M0YWIxMGFiMzZkM2Q5ODg2",
   "tracks": [
     {
       "added_at": "2023-04-13 19:45:52",
@@ -591,26 +591,6 @@
     {
       "added_at": "2023-04-13 19:45:52",
       "album": {
-        "name": "Mi\u00e9nteme",
-        "url": "https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 165275,
-      "name": "Mi\u00e9nteme",
-      "url": "https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc"
-    },
-    {
-      "added_at": "2023-04-13 19:45:52",
-      "album": {
         "name": "Quiero Creer",
         "url": "https://open.spotify.com/album/5PzpQ3Wx1dU16rRdQHVSCx"
       },
@@ -635,6 +615,26 @@
     {
       "added_at": "2023-04-13 19:45:52",
       "album": {
+        "name": "Mi\u00e9nteme",
+        "url": "https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 165275,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc"
+    },
+    {
+      "added_at": "2023-04-13 19:45:52",
+      "album": {
         "name": "Tu Turrito",
         "url": "https://open.spotify.com/album/6FKqbKsNvN2hT8vXdT0N02"
       },
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-04-13 19:45:52",
       "album": {
+        "name": "Jordan",
+        "url": "https://open.spotify.com/album/5NXNrP5J2LhfkbI9ZfcNXI"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 176142,
+      "name": "Jordan",
+      "url": "https://open.spotify.com/track/6y8z28epOv5FlaxDv1Lo5B"
+    },
+    {
+      "added_at": "2023-04-13 19:45:52",
+      "album": {
         "name": "Callaita",
         "url": "https://open.spotify.com/album/06S3Qjh4QWLtn6c7CVhYh7"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 250533,
       "name": "Callaita",
       "url": "https://open.spotify.com/track/2TH65lNHgvLxCKXM3apjxI"
-    },
-    {
-      "added_at": "2023-04-13 19:45:52",
-      "album": {
-        "name": "Jordan",
-        "url": "https://open.spotify.com/album/5NXNrP5J2LhfkbI9ZfcNXI"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 176142,
-      "name": "Jordan",
-      "url": "https://open.spotify.com/track/6y8z28epOv5FlaxDv1Lo5B"
     },
     {
       "added_at": "2023-04-13 19:45:52",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-04-13 19:45:52",
       "album": {
-        "name": "BICHOTA",
-        "url": "https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 178946,
-      "name": "BICHOTA",
-      "url": "https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1"
-    },
-    {
-      "added_at": "2023-04-13 19:45:52",
-      "album": {
         "name": "\u00c9pico",
         "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 266086,
       "name": "Soltera - Remix",
       "url": "https://open.spotify.com/track/4t9a07PAghtQMRAIP9FQ7Z"
+    },
+    {
+      "added_at": "2023-04-13 19:45:52",
+      "album": {
+        "name": "BICHOTA",
+        "url": "https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 178946,
+      "name": "BICHOTA",
+      "url": "https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1"
     },
     {
       "added_at": "2023-04-13 19:45:52",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-04-13 19:45:52",
       "album": {
-        "name": "Sesi\u00f3n - 6",
-        "url": "https://open.spotify.com/album/3qa4N8Y6qDAuBGUJHtCgei"
-      },
-      "artists": [
-        {
-          "name": "Axel Caram",
-          "url": "https://open.spotify.com/artist/2PkjYgKhHI4qofYoxWB9ZP"
-        }
-      ],
-      "duration_ms": 150315,
-      "name": "Sesi\u00f3n - 6",
-      "url": "https://open.spotify.com/track/5sMcmy7UVizJoSm9YNZFyZ"
-    },
-    {
-      "added_at": "2023-04-13 19:45:52",
-      "album": {
         "name": "Sigue Bailandome",
         "url": "https://open.spotify.com/album/7v95vtyP4yh88N5fx5rYdB"
       },
@@ -1335,6 +1319,22 @@
     {
       "added_at": "2023-04-13 19:45:52",
       "album": {
+        "name": "Sesi\u00f3n - 6",
+        "url": "https://open.spotify.com/album/3qa4N8Y6qDAuBGUJHtCgei"
+      },
+      "artists": [
+        {
+          "name": "Axel Caram",
+          "url": "https://open.spotify.com/artist/2PkjYgKhHI4qofYoxWB9ZP"
+        }
+      ],
+      "duration_ms": 150315,
+      "name": "Sesi\u00f3n - 6",
+      "url": "https://open.spotify.com/track/5sMcmy7UVizJoSm9YNZFyZ"
+    },
+    {
+      "added_at": "2023-04-13 19:45:52",
+      "album": {
         "name": "Los Legendarios 001",
         "url": "https://open.spotify.com/album/7g5WqPI4CdA22Cy8LxRXCf"
       },
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2023-04-13 19:45:52",
       "album": {
-        "name": "Se Te Nota (with Guaynaa)",
-        "url": "https://open.spotify.com/album/4XiHCUNnGgnnN5xkGue4RF"
-      },
-      "artists": [
-        {
-          "name": "Lele Pons",
-          "url": "https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx"
-        },
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        }
-      ],
-      "duration_ms": 155825,
-      "name": "Se Te Nota (with Guaynaa)",
-      "url": "https://open.spotify.com/track/11EnQRgRMJwMAesfkB5pnu"
-    },
-    {
-      "added_at": "2023-04-13 19:45:52",
-      "album": {
         "name": "La F\u00f3rmula",
         "url": "https://open.spotify.com/album/76iE2t7UDAZLNkqHFuvWtQ"
       },
@@ -1399,6 +1379,26 @@
       "duration_ms": 240733,
       "name": "More",
       "url": "https://open.spotify.com/track/0AAl3LtvIhEilWXZmYHeh5"
+    },
+    {
+      "added_at": "2023-04-13 19:45:52",
+      "album": {
+        "name": "Se Te Nota (with Guaynaa)",
+        "url": "https://open.spotify.com/album/4XiHCUNnGgnnN5xkGue4RF"
+      },
+      "artists": [
+        {
+          "name": "Lele Pons",
+          "url": "https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        }
+      ],
+      "duration_ms": 155825,
+      "name": "Se Te Nota (with Guaynaa)",
+      "url": "https://open.spotify.com/track/11EnQRgRMJwMAesfkB5pnu"
     },
     {
       "added_at": "2023-04-13 19:45:52",
@@ -1699,26 +1699,6 @@
     {
       "added_at": "2023-04-13 19:45:52",
       "album": {
-        "name": "CALLEJERO FINO | Mission 10",
-        "url": "https://open.spotify.com/album/3iqAvQSDTyB34WTmKmL7hB"
-      },
-      "artists": [
-        {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
-        },
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        }
-      ],
-      "duration_ms": 168994,
-      "name": "CALLEJERO FINO | Mission 10",
-      "url": "https://open.spotify.com/track/12BLBKATlbWXPhuSNL8eAr"
-    },
-    {
-      "added_at": "2023-04-13 19:45:52",
-      "album": {
         "name": "Los Vaqueros Wild Wild Mixes",
         "url": "https://open.spotify.com/album/0lSruNExlVqHp7Ox1xpWgu"
       },
@@ -1739,6 +1719,26 @@
       "duration_ms": 240200,
       "name": "Quizas - Remix",
       "url": "https://open.spotify.com/track/4YFoQUkj0XXJgTiHp8d61y"
+    },
+    {
+      "added_at": "2023-04-13 19:45:52",
+      "album": {
+        "name": "CALLEJERO FINO | Mission 10",
+        "url": "https://open.spotify.com/album/3iqAvQSDTyB34WTmKmL7hB"
+      },
+      "artists": [
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        },
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        }
+      ],
+      "duration_ms": 168994,
+      "name": "CALLEJERO FINO | Mission 10",
+      "url": "https://open.spotify.com/track/12BLBKATlbWXPhuSNL8eAr"
     },
     {
       "added_at": "2023-04-13 19:45:52",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2023-04-13 19:45:52",
       "album": {
-        "name": "The Perfect Melody",
-        "url": "https://open.spotify.com/album/5YQYegKc5aoF6xNnGwVU2v"
-      },
-      "artists": [
-        {
-          "name": "Zion",
-          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
-        }
-      ],
-      "duration_ms": 304091,
-      "name": "Zun Da Da",
-      "url": "https://open.spotify.com/track/6DxS2ZRl8G3EagHkovYXA2"
-    },
-    {
-      "added_at": "2023-04-13 19:45:52",
-      "album": {
         "name": "Vibras",
         "url": "https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 250840,
       "name": "No Es Justo",
       "url": "https://open.spotify.com/track/5qFeMRz4TvetPmzjre9Dq7"
+    },
+    {
+      "added_at": "2023-04-13 19:45:52",
+      "album": {
+        "name": "The Perfect Melody",
+        "url": "https://open.spotify.com/album/5YQYegKc5aoF6xNnGwVU2v"
+      },
+      "artists": [
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        }
+      ],
+      "duration_ms": 304091,
+      "name": "Zun Da Da",
+      "url": "https://open.spotify.com/track/6DxS2ZRl8G3EagHkovYXA2"
     },
     {
       "added_at": "2023-04-13 19:45:52",
@@ -1911,26 +1911,6 @@
     {
       "added_at": "2023-04-13 19:45:52",
       "album": {
-        "name": "PEPPER | Mission 11",
-        "url": "https://open.spotify.com/album/5OIK0OmBzjnYVS0geBsSRM"
-      },
-      "artists": [
-        {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
-        },
-        {
-          "name": "EsElPepper",
-          "url": "https://open.spotify.com/artist/1b0xGZg7tJnYH3TLUKadFH"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "EsElPepper | Mission 11",
-      "url": "https://open.spotify.com/track/3RHh5CYBVN1XP0MS3cg1Bz"
-    },
-    {
-      "added_at": "2023-04-13 19:45:52",
-      "album": {
         "name": "Fiel (Remix)",
         "url": "https://open.spotify.com/album/1jBESH0DEFN7z8WH8B0B5c"
       },
@@ -1959,6 +1939,26 @@
       "duration_ms": 349546,
       "name": "Fiel - Remix",
       "url": "https://open.spotify.com/track/43qcs9NpJhDxtG91zxFkj7"
+    },
+    {
+      "added_at": "2023-04-13 19:45:52",
+      "album": {
+        "name": "PEPPER | Mission 11",
+        "url": "https://open.spotify.com/album/5OIK0OmBzjnYVS0geBsSRM"
+      },
+      "artists": [
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        },
+        {
+          "name": "EsElPepper",
+          "url": "https://open.spotify.com/artist/1b0xGZg7tJnYH3TLUKadFH"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "EsElPepper | Mission 11",
+      "url": "https://open.spotify.com/track/3RHh5CYBVN1XP0MS3cg1Bz"
     },
     {
       "added_at": "2023-04-13 19:45:52",

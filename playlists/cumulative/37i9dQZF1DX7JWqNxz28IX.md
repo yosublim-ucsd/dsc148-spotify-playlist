@@ -132,7 +132,7 @@
 | [Notti Sbagliate](https://open.spotify.com/track/5Nx5sc8gzP2xHckhw3bWSL) | [Delfa](https://open.spotify.com/artist/4RkRi2pyK00Awctep7AkSc) | [Notti Sbagliate](https://open.spotify.com/album/6FkMcHq9A51wDuUlOQCTpg) | 2:10 | 2022-09-29 | 2022-10-14 |
 | [O Mi Uccidi](https://open.spotify.com/track/0jkBVkeS6L5NtvPn29NeIK) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [REBEL \(Deluxe\)](https://open.spotify.com/album/0BSVUwV411OWhUlAIK9epW) | 2:59 | 2022-09-22 |  |
 | [oggi ho pianto](https://open.spotify.com/track/6Sgu1QpY9CPZrIuXHvBZ9C) | [outcast.](https://open.spotify.com/artist/4jOS0OX3X4Yj6CmNtOGJf9) | [oggi ho pianto](https://open.spotify.com/album/1ksdOJC3p3NOgP45uEHJ5M) | 2:12 | 2022-04-21 | 2023-03-25 |
-| [OPPOSTI](https://open.spotify.com/track/1x2Wwdt41BH7aCmMhH8ryv) | [Lil Sanax](https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI) | [Cosa Siamo Noi Ora](https://open.spotify.com/album/2FFF7L9KIYb1v5UtSuVhEJ) | 2:29 | 2022-04-21 | 2023-03-25 |
+| [OPPOSTI](https://open.spotify.com/track/1x2Wwdt41BH7aCmMhH8ryv) | [Lil Sanax](https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI) | [Cosa Siamo Noi Ora](https://open.spotify.com/album/2FFF7L9KIYb1v5UtSuVhEJ) | 2:29 | 2022-04-21 |  |
 | [Orgia](https://open.spotify.com/track/7bJiGfQ6oH8IPm41BTMtSc) | [Tripolare](https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w) | [Acne](https://open.spotify.com/album/4p88bKpzYsdGIVUtkQUsby) | 2:06 | 2022-04-21 | 2022-12-09 |
 | [Pagine](https://open.spotify.com/track/2qfLABUmMubADB6tRridR3) | [Kia](https://open.spotify.com/artist/4IA59RHOyKrygCtloEbopT) | [Pagine](https://open.spotify.com/album/0jWndBcFpzkAAhyVfwGBdU) | 2:24 | 2023-02-23 |  |
 | [Pagine](https://open.spotify.com/track/2zc5IR5UZb013SPfZnXezx) | [Kia](https://open.spotify.com/artist/4IA59RHOyKrygCtloEbopT) | [Pagine](https://open.spotify.com/album/3klEMkbs4lchGCz3j4LPSB) | 2:24 | 2022-04-21 | 2023-02-25 |
@@ -210,7 +210,7 @@
 | [x dimenticarti](https://open.spotify.com/track/36yVUCU4BXMPTlZKXTLNAS) | [Dasplan](https://open.spotify.com/artist/3NTgDjVbLSiv0d7NW6MGhP) | [x dimenticarti](https://open.spotify.com/album/4Yqn5A7LPALVKi4rOcPXMu) | 2:16 | 2022-06-02 | 2022-12-15 |
 | [X4](https://open.spotify.com/track/57PzEk2wg7T1JtKwwhBpIT) | [Alek](https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY) | [X4](https://open.spotify.com/album/49Qeb8YVPKSN3OBkvwXyWl) | 2:34 | 2022-09-08 |  |
 | [Xelisa2 \(feat\. ARIETE\)](https://open.spotify.com/track/0TFwQNQV9TzDRSh05ljlv7) | [Tauro Boys](https://open.spotify.com/artist/3co0PkJ0FkzdkjRPkBf9WM), [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [TauroTape3](https://open.spotify.com/album/3O1hIgLryt4q65Y1YcjXdp) | 2:57 | 2022-04-21 |  |
-| [Zucchero Bianco](https://open.spotify.com/track/0BJUff7q1HgjJd0pb3AtpM) | [Milly>](https://open.spotify.com/artist/7tTOeyKdqi5XCTXt6EFZwf) | [Zucchero Bianco](https://open.spotify.com/album/36f8upLYp7KLmskF1xyO36) | 2:13 | 2022-12-05 |  |
+| [Zucchero Bianco](https://open.spotify.com/track/0BJUff7q1HgjJd0pb3AtpM) | [Milly>](https://open.spotify.com/artist/7tTOeyKdqi5XCTXt6EFZwf) | [Zucchero Bianco](https://open.spotify.com/album/36f8upLYp7KLmskF1xyO36) | 2:13 | 2022-12-05 | 2023-04-17 |
 | [È Andata Così](https://open.spotify.com/track/47jPZoeY2hgKA4Y4Zk3etW) | [Aiden](https://open.spotify.com/artist/1nP7zdpk1ok53IBGhMwhb3) | [È Andata Così](https://open.spotify.com/album/7AdlQyoaGhS0pLTYKaBR7B) | 3:52 | 2022-04-21 |  |
 
 \*This playlist was first scraped on 2022-05-09. Prior content cannot be recovered.

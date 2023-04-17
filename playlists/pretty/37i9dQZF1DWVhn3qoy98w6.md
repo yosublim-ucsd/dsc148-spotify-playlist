@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Artistas independientes emergentes, cada miércoles\. Foto: Paco Te Quiero.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,101 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,111 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 10 | [Un Lugar Donde Esconderse](https://open.spotify.com/track/55jYxv8ZRabDERYuUgUCVZ) | [RIOLA](https://open.spotify.com/artist/3Ri2BjKwyDM96dsOzYL5r9) | [Un Lugar Donde Esconderse](https://open.spotify.com/album/53O4bxBLsepBjEA8pNtXhG) | 6:07 |
 | 11 | [Nene, dime algo](https://open.spotify.com/track/3kTTsfHvjikrNgXuJ6p6nA) | [LYD](https://open.spotify.com/artist/6FxESoS5TUltKFAXd6R8z9) | [Nene, dime algo](https://open.spotify.com/album/2kJki4Movjj8ATfdBrzJEr) | 2:37 |
 | 12 | [El Cielo Entero](https://open.spotify.com/track/5dy4VwdOxC1krd79l2OXAs) | [Pijamapaul](https://open.spotify.com/artist/2WdCRCaLnVSIqGAaVVuVSG) | [El Cielo Entero](https://open.spotify.com/album/2pMdD8LNGHxpQBXzQr1TLx) | 3:57 |
-| 13 | [De 100 A 0](https://open.spotify.com/track/7CBN9gIcgM23tv6pR5wO3t) | [Violetta Arriaza](https://open.spotify.com/artist/2WET7xahye2vwzTTB7MH1U), [PASHN](https://open.spotify.com/artist/2fnhtrsU10lnYJkOzx7TlS) | [De 100 A 0](https://open.spotify.com/album/1yZ7HouvJ5dYteU3ftSqEg) | 2:36 |
+| 13 | [De 100 A 0](https://open.spotify.com/track/7CBN9gIcgM23tv6pR5wO3t) | [Violetta Arriaza](https://open.spotify.com/artist/2WET7xahye2vwzTTB7MH1U), [PASHN](https://open.spotify.com/artist/2fnhtrsU10lnYJkOzx7TlS) | [De 100 a 0](https://open.spotify.com/album/1yZ7HouvJ5dYteU3ftSqEg) | 2:36 |
 | 14 | [Los Días Grises](https://open.spotify.com/track/2NJP7mVqpujtFvsjAwOI9p) | [Atenas](https://open.spotify.com/artist/08FA4kpmXgGIN6nDR7uPQ6), [Zahara](https://open.spotify.com/artist/4YURwtw03So7mXmK9JHD5j) | [Los Días Grises](https://open.spotify.com/album/5YbhYe2vwXTmJtlJE6hUKo) | 2:46 |
 | 15 | [Una noche más](https://open.spotify.com/track/6I0QTVpQNl9bOqjKREqnzM) | [Strappÿ](https://open.spotify.com/artist/2Zwo1ZZOkkY4Yw9c1io68a) | [Una noche más](https://open.spotify.com/album/4vxNaZXEVKG5m2GXndWOHt) | 3:27 |
 | 16 | [La Chica de Atrás del Story](https://open.spotify.com/track/320ALjZNY67YrTvxaBbaWX) | [Shack Rose](https://open.spotify.com/artist/4HkPb5ckJxHYK6kRl1ARiS), [Halley](https://open.spotify.com/artist/4v9zst7kVftfvbKuKAfBhq) | [La Chica de Atrás del Story](https://open.spotify.com/album/34rhHrtYpz380izUyCpZUr) | 3:23 |

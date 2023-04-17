@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 
 > Funk \- new and old \- to accompany your drive.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,103 likes - 100 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,129 likes - 100 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 | 46 | [Do It Like You Do](https://open.spotify.com/track/7cnWNeQIQutKJmL3MZSfr6) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8), [Nigel Hall](https://open.spotify.com/artist/04HwdlOSZ8Rnmp4D3vyjI2) | [Fly](https://open.spotify.com/album/3xkP2jcNDvuo7ZfNjl22Vy) | 4:11 |
 | 47 | [Housequake](https://open.spotify.com/track/5xP9clzYBKZ6F3u2VZUaBJ) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Sign "O" the Times](https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B) | 4:42 |
 | 48 | [Fux with the Tux](https://open.spotify.com/track/5pdyEWdUmpbxs9jkAagOMh) | [Tuxedo](https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr) | [Tuxedo II](https://open.spotify.com/album/6iDvvsXxNNCiwSUQhixa68) | 2:46 |
-| 49 | [Miss Madison](https://open.spotify.com/track/3nenus1phfZrVUeKJxsiDE) | [Phat Phunktion](https://open.spotify.com/artist/3afwdwY97SMtIdnUsPTpQT) | [Real Life .:.High Fidelity](https://open.spotify.com/album/71w5yv26R3yqlxpDs1KqWh) | 3:30 |
-| 50 | [Diggin' On James Brown](https://open.spotify.com/track/4Udo45PAGJgTbIWTqFdHKe) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Souled Out](https://open.spotify.com/album/13QSuP63jfv33OqqqnEZyY) | 4:39 |
+| 49 | [Diggin' On James Brown](https://open.spotify.com/track/4Udo45PAGJgTbIWTqFdHKe) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Souled Out](https://open.spotify.com/album/13QSuP63jfv33OqqqnEZyY) | 4:39 |
+| 50 | [Miss Madison](https://open.spotify.com/track/3nenus1phfZrVUeKJxsiDE) | [Phat Phunktion](https://open.spotify.com/artist/3afwdwY97SMtIdnUsPTpQT) | [Real Life .:.High Fidelity](https://open.spotify.com/album/71w5yv26R3yqlxpDs1KqWh) | 3:30 |
 | 51 | [Funk Ain't Ova](https://open.spotify.com/track/5nBgM7vUM7w9bNKW2MFZhH) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69), [Desmond Foster](https://open.spotify.com/artist/3qqFMYoELTj4g9yzuQEALf) | [Stay Good](https://open.spotify.com/album/7KFdFOJJF84VbZ5rJjbyK7) | 3:51 |
 | 52 | [Slippery When Wet](https://open.spotify.com/track/6Pb0WHqmmTL308Z2uQrNP1) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [The Commodores: The Definitive Collection](https://open.spotify.com/album/4mDGyVthoID64WAcff0HxR) | 3:17 |
 | 53 | [Highly Compatible](https://open.spotify.com/track/6duiqRWqHNVhCNCqPzd65q) | [The Motet](https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN) | [Death or Devotion](https://open.spotify.com/album/6n1UQ3O3RHsnxBd1FNGgVl) | 6:05 |
@@ -94,14 +94,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 | 84 | [Water](https://open.spotify.com/track/5zo7avEFmAXh1Xh0lorTw0) | [Dumpstaphunk](https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC), [Grooveline Horns](https://open.spotify.com/artist/5KhWcpf9kE1qqoT9e8S743), [Reggie Watkins](https://open.spotify.com/artist/14Ou42tZvSnt2LaFXiMp3z), [carlos sosa](https://open.spotify.com/artist/4FnOfgH6FgYXOLzbhok5eL), [Fernanco Castillo](https://open.spotify.com/artist/6FBJesby0YNelqeM4Y4xSV) | [Dirty Word](https://open.spotify.com/album/79Wa68FKzsDAJp4GJdbreF) | 4:33 |
 | 85 | [Superstatic](https://open.spotify.com/track/7DmAKZ07s3e2IYrqUVtUWF) | [Turkuaz](https://open.spotify.com/artist/699X8OLj9lpNg8rqFdQsA7) | [Life In The City](https://open.spotify.com/album/1s5qOtWNafsjfEl9NlmWio) | 4:05 |
 | 86 | [Losin' Streak \(feat\. Daniel Merriweather\)](https://open.spotify.com/track/2cyTtLjjuO9j9M3gyWJ8Du) | [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj), [Daniel Merriweather](https://open.spotify.com/artist/6HD2mo0Gz8wd8IbOXYwUfN) | [Vs.](https://open.spotify.com/album/7fROjXzlwT8v6VTSWhIKBY) | 3:44 |
-| 87 | [Let's Take a Ride](https://open.spotify.com/track/7y3UXCIUHfFsnQp8wwuVLj) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE) | [Funk!](https://open.spotify.com/album/3dZcuCcy9AfEvmvlUvsUwf) | 3:45 |
-| 88 | [Liar](https://open.spotify.com/track/3lMcxADyU7bEM8y0ktXHJB) | [Electro Deluxe](https://open.spotify.com/artist/10eFnQAKDDg8V25LEVvhpH) | [Circle](https://open.spotify.com/album/5Vo5j4UDMxrxvrM5shPoAl) | 4:31 |
+| 87 | [Liar](https://open.spotify.com/track/3lMcxADyU7bEM8y0ktXHJB) | [Electro Deluxe](https://open.spotify.com/artist/10eFnQAKDDg8V25LEVvhpH) | [Circle](https://open.spotify.com/album/5Vo5j4UDMxrxvrM5shPoAl) | 4:31 |
+| 88 | [Let's Take a Ride](https://open.spotify.com/track/7y3UXCIUHfFsnQp8wwuVLj) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE) | [Funk!](https://open.spotify.com/album/3dZcuCcy9AfEvmvlUvsUwf) | 3:45 |
 | 89 | [Got Me Funked Up](https://open.spotify.com/track/6puGnKlOsMcu5SkcEEdHkg) | [The Aquaducks](https://open.spotify.com/artist/1gODfHkJMTmn5Kmyy3M6LW) | [The Deep End](https://open.spotify.com/album/1BRjZuuUCqYjCDAOhMnJ29) | 3:32 |
 | 90 | [.img](https://open.spotify.com/track/5BXZOifc6Z6M2QCYWPFspA) | [Brother Theodore](https://open.spotify.com/artist/5MBOU2gdYzq0EDy0BoUykg) | [St\. Ann](https://open.spotify.com/album/3DOaQqmgxasR3CtsJnnynn) | 5:47 |
 | 91 | [F.y.g](https://open.spotify.com/track/1yvjg39SUCDlSxOYsu8unL) | [The APX](https://open.spotify.com/artist/4FcDSQOUJabW2HEHGofJOM), [Zapp](https://open.spotify.com/artist/7hzsuhnzHbNMRW1whCgWVL) | [Amplified Experiment](https://open.spotify.com/album/4cS75aWftbOa1nTMdkg27E) | 2:45 |
 | 92 | [Warning](https://open.spotify.com/track/3EQOwmp82jHkPtSUnG3aPn) | [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj), [Kaiit](https://open.spotify.com/artist/05GTlMes7SkTlE9JcIvYB2) | [Lab Experiments, Vol\. 2](https://open.spotify.com/album/6j0BOlgrf1L0rBfI6fqxmA) | 3:31 |
-| 93 | [Do It with Soul](https://open.spotify.com/track/4U3pzSGJKpi3JwAOZygvwX) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Soul Side of Town](https://open.spotify.com/album/6meVai9RNunLTuXrz5IcVJ) | 3:53 |
-| 94 | [I'm Your Biggest Fan](https://open.spotify.com/track/4IThPVciaEpF0h8rIs1QnV) | [Karl Denson](https://open.spotify.com/artist/00ZLAUFA0jWOsSZKzIrM6v) | [Gnomes & Badgers](https://open.spotify.com/album/56MQoYzvGvaaECXTN9rUFY) | 3:36 |
+| 93 | [I'm Your Biggest Fan](https://open.spotify.com/track/4IThPVciaEpF0h8rIs1QnV) | [Karl Denson](https://open.spotify.com/artist/00ZLAUFA0jWOsSZKzIrM6v) | [Gnomes & Badgers](https://open.spotify.com/album/56MQoYzvGvaaECXTN9rUFY) | 3:36 |
+| 94 | [Do It with Soul](https://open.spotify.com/track/4U3pzSGJKpi3JwAOZygvwX) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Soul Side of Town](https://open.spotify.com/album/6meVai9RNunLTuXrz5IcVJ) | 3:53 |
 | 95 | [Just Say Nothing](https://open.spotify.com/track/6oBOx9S6xhHbAkznP2wiNC) | [Incognito](https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs), [Vanessa Haynes](https://open.spotify.com/artist/0x1dqXqirpBR3KT3pdjyEf) | [In Search Of Better Days](https://open.spotify.com/album/2f83h1GYlE4SrVseNnSvQ4) | 4:41 |
 | 96 | [Wild](https://open.spotify.com/track/6WPIx2V0nXS0xJmvJ4X0wh) | [Garth.](https://open.spotify.com/artist/7aEP0AzwgG0Bs0Bw7I2sqI), [Mammal Dap](https://open.spotify.com/artist/7nel0SBlJRHLKGr5VZMleq) | [Wild](https://open.spotify.com/album/7hKNuqA2bj1BjYDOXMMWGK) | 3:32 |
 | 97 | [Pocket \(Radio Edit\)](https://open.spotify.com/track/4QtS7BCHG2jO3ka89o2eed) | [The Lionyls](https://open.spotify.com/artist/28XiFctnEifvmTgCxFGOJU) | [Pocket \(Radio Edit\)](https://open.spotify.com/album/7IeXmD7Qhgz7uvrHprmV4q) | 3:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 | 99 | [Jurassic Funk](https://open.spotify.com/track/2xGCKeFRnbg43fQh7TWzB5) | [Jurassik Funk](https://open.spotify.com/artist/3btloSh9XNNgniuk85Z6x0) | [Jurassik Funk](https://open.spotify.com/album/0EKOrxgDltNB2OjrPPAQy8) | 4:19 |
 | 100 | [Word Is Out](https://open.spotify.com/track/3irXL694Levp0Uzrnq5yva) | [Chelsea Wilson](https://open.spotify.com/artist/7jZXfSHSrqtbEgJsnpPPIk) | [Chasing Gold](https://open.spotify.com/album/43agPW88PbT44L6SrZr9dJ) | 4:34 |
 
-Snapshot ID: `MTYzODkwNDkzOSwwMDAwMDAwMGNhNmI3ZDQyODMxZTg3ZGRmZjU3MGFlZDUxZDc5OThl`
+Snapshot ID: `MTYzODkwNDkzOSwwMDAwMDAwMGRlYzUwOGVmOTc2NGNkNWE2ZWI4ODFhOWQ5NTJlYjIw`

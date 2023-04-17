@@ -1,12 +1,12 @@
 {
   "description": "Con el mismo saz\u00f3n y amor que una sopita de fideo.",
-  "num_followers": 124967,
+  "num_followers": 125054,
   "original_name": "La Cocina de la Abuela",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQyNjM5NiwwMDAwMDAwMDBlMDRmZWQwZDUyMGQ1MDZlOTY5ZWY4YTUyMDU3Zjhl",
+  "snapshot_id": "MTY3MjQyNjM5NiwwMDAwMDAwMDg4MmMzNDBjNDdlZDk0NTlmZjRjM2QxYTc2ODEwNTFh",
   "tracks": [
     {
       "added_at": "2022-12-30 18:53:16",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-12-30 18:53:16",
       "album": {
-        "name": "Alma, Coraz\u00f3n Y Vida",
-        "url": "https://open.spotify.com/album/7AyiKOqr5X1l1qRXQlUMAP"
-      },
-      "artists": [
-        {
-          "name": "Dyango",
-          "url": "https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb"
-        }
-      ],
-      "duration_ms": 206840,
-      "name": "Cuando quieras, donde quieras (Cos\u00ec era e cos\u00ec sia)",
-      "url": "https://open.spotify.com/track/3akNntAza319MgjivWphIH"
-    },
-    {
-      "added_at": "2022-12-30 18:53:16",
-      "album": {
         "name": "Antolog\u00eda. . . Los Solitarios",
         "url": "https://open.spotify.com/album/0yui0kzwnX3DgfpKKYIlrg"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 173506,
       "name": "Nada de tu amor",
       "url": "https://open.spotify.com/track/3N7oZZG0sPkdBITPI7LwYf"
+    },
+    {
+      "added_at": "2022-12-30 18:53:16",
+      "album": {
+        "name": "Alma, Coraz\u00f3n Y Vida",
+        "url": "https://open.spotify.com/album/7AyiKOqr5X1l1qRXQlUMAP"
+      },
+      "artists": [
+        {
+          "name": "Dyango",
+          "url": "https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb"
+        }
+      ],
+      "duration_ms": 206840,
+      "name": "Cuando quieras, donde quieras (Cos\u00ec era e cos\u00ec sia)",
+      "url": "https://open.spotify.com/track/3akNntAza319MgjivWphIH"
     },
     {
       "added_at": "2022-12-30 18:53:16",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-12-30 18:53:16",
       "album": {
-        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Manoella Torres",
-        "url": "https://open.spotify.com/album/7Hri6gZJ0HGvNoM7pZxPfi"
-      },
-      "artists": [
-        {
-          "name": "Manoella Torres",
-          "url": "https://open.spotify.com/artist/4JRKcLbpjobmoOVoOXPd6y"
-        }
-      ],
-      "duration_ms": 197360,
-      "name": "Si Supieras",
-      "url": "https://open.spotify.com/track/2c2m8IPUiQaMCjEABKJ1kx"
-    },
-    {
-      "added_at": "2022-12-30 18:53:16",
-      "album": {
         "name": "\u00c9xitos Eternos",
         "url": "https://open.spotify.com/album/3P9Y7c860rgTpYjK8SBMon"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 182999,
       "name": "Recuerdos de una Noche",
       "url": "https://open.spotify.com/track/1HvnEWOy2ykY8sJa2K6y7s"
+    },
+    {
+      "added_at": "2022-12-30 18:53:16",
+      "album": {
+        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Manoella Torres",
+        "url": "https://open.spotify.com/album/7Hri6gZJ0HGvNoM7pZxPfi"
+      },
+      "artists": [
+        {
+          "name": "Manoella Torres",
+          "url": "https://open.spotify.com/artist/4JRKcLbpjobmoOVoOXPd6y"
+        }
+      ],
+      "duration_ms": 197360,
+      "name": "Si Supieras",
+      "url": "https://open.spotify.com/track/2c2m8IPUiQaMCjEABKJ1kx"
     },
     {
       "added_at": "2022-12-30 18:53:16",
@@ -1051,6 +1051,22 @@
       "duration_ms": 197149,
       "name": "La Barca",
       "url": "https://open.spotify.com/track/1GHTx9EyR44pgtGLotj2nH"
+    },
+    {
+      "added_at": "2022-12-30 18:53:16",
+      "album": {
+        "name": "Serenata con Los Tecolines",
+        "url": "https://open.spotify.com/album/5B8WnefLZ6ako5S6eUa7mb"
+      },
+      "artists": [
+        {
+          "name": "Los Tecolines",
+          "url": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
+        }
+      ],
+      "duration_ms": 173146,
+      "name": "Ahora y siempre",
+      "url": "https://open.spotify.com/track/5J32HBvOLwvvJmgwRhn8fh"
     },
     {
       "added_at": "2022-12-30 18:53:16",
@@ -1111,18 +1127,18 @@
     {
       "added_at": "2022-12-30 18:53:16",
       "album": {
-        "name": "Serenata con Los Tecolines",
-        "url": "https://open.spotify.com/album/5B8WnefLZ6ako5S6eUa7mb"
+        "name": "S\u00f3lo para enamorados",
+        "url": "https://open.spotify.com/album/0aKX7SIu3MGX01ST8NANy8"
       },
       "artists": [
         {
-          "name": "Los Tecolines",
-          "url": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
+          "name": "Los Baby's",
+          "url": "https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9"
         }
       ],
-      "duration_ms": 173146,
-      "name": "Ahora y siempre",
-      "url": "https://open.spotify.com/track/5J32HBvOLwvvJmgwRhn8fh"
+      "duration_ms": 190840,
+      "name": "Tri\u00e1ngulo",
+      "url": "https://open.spotify.com/track/24VnFu3wCGaUYsR8LyBgIi"
     },
     {
       "added_at": "2022-12-30 18:53:16",
@@ -1139,22 +1155,6 @@
       "duration_ms": 247266,
       "name": "No soy de aqu\u00ed",
       "url": "https://open.spotify.com/track/54vgIR3osHwRywPcBxVrv3"
-    },
-    {
-      "added_at": "2022-12-30 18:53:16",
-      "album": {
-        "name": "S\u00f3lo para enamorados",
-        "url": "https://open.spotify.com/album/0aKX7SIu3MGX01ST8NANy8"
-      },
-      "artists": [
-        {
-          "name": "Los Baby's",
-          "url": "https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9"
-        }
-      ],
-      "duration_ms": 190840,
-      "name": "Tri\u00e1ngulo",
-      "url": "https://open.spotify.com/track/24VnFu3wCGaUYsR8LyBgIi"
     },
     {
       "added_at": "2022-12-30 18:53:16",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2022-12-30 18:53:16",
       "album": {
-        "name": "Serie Diamante (USA)",
-        "url": "https://open.spotify.com/album/2fgUn3x6HujXAP2AXxMoer"
-      },
-      "artists": [
-        {
-          "name": "Los Solitarios",
-          "url": "https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj"
-        }
-      ],
-      "duration_ms": 168866,
-      "name": "Nunca digas",
-      "url": "https://open.spotify.com/track/4pMyhL7qpkgIquLtn8ukUa"
-    },
-    {
-      "added_at": "2022-12-30 18:53:16",
-      "album": {
         "name": "\u00c9xitos Eternos",
         "url": "https://open.spotify.com/album/3P9Y7c860rgTpYjK8SBMon"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 259866,
       "name": "Hipocres\u00eda",
       "url": "https://open.spotify.com/track/5Cf4aRX1Kr6Y0DMb18zaqi"
+    },
+    {
+      "added_at": "2022-12-30 18:53:16",
+      "album": {
+        "name": "Serie Diamante (USA)",
+        "url": "https://open.spotify.com/album/2fgUn3x6HujXAP2AXxMoer"
+      },
+      "artists": [
+        {
+          "name": "Los Solitarios",
+          "url": "https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj"
+        }
+      ],
+      "duration_ms": 168866,
+      "name": "Nunca digas",
+      "url": "https://open.spotify.com/track/4pMyhL7qpkgIquLtn8ukUa"
     },
     {
       "added_at": "2022-12-30 18:53:16",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2022-12-30 18:53:16",
       "album": {
-        "name": "Castillos en el aire",
-        "url": "https://open.spotify.com/album/3gQtNYk66VQ8DEMG0mGRxw"
-      },
-      "artists": [
-        {
-          "name": "Alberto Cortez",
-          "url": "https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9"
-        }
-      ],
-      "duration_ms": 198106,
-      "name": "Castillos en el aire",
-      "url": "https://open.spotify.com/track/39tN3TRbpPvm4rqdMn7hZ9"
-    },
-    {
-      "added_at": "2022-12-30 18:53:16",
-      "album": {
         "name": "Amor Eterno",
         "url": "https://open.spotify.com/album/0UuQzzrlyxMseEttP9hL3C"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 223573,
       "name": "D\u00e9jame Vivir (with Juan Gabriel)",
       "url": "https://open.spotify.com/track/4LY4j1ziOoVQm8beWBRYVN"
+    },
+    {
+      "added_at": "2022-12-30 18:53:16",
+      "album": {
+        "name": "Castillos en el aire",
+        "url": "https://open.spotify.com/album/3gQtNYk66VQ8DEMG0mGRxw"
+      },
+      "artists": [
+        {
+          "name": "Alberto Cortez",
+          "url": "https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9"
+        }
+      ],
+      "duration_ms": 198106,
+      "name": "Castillos en el aire",
+      "url": "https://open.spotify.com/track/39tN3TRbpPvm4rqdMn7hZ9"
     },
     {
       "added_at": "2022-12-30 18:53:16",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2022-12-30 18:53:16",
       "album": {
-        "name": "Lo M\u00e1s Rom\u00e1ntico De",
-        "url": "https://open.spotify.com/album/4dy1PD7aN1of2Stl7WPwiJ"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles Negros",
-          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
-        }
-      ],
-      "duration_ms": 201226,
-      "name": "A Tu Recuerdo",
-      "url": "https://open.spotify.com/track/0ZHoRUV1mugmRfG16MnBwP"
-    },
-    {
-      "added_at": "2022-12-30 18:53:16",
-      "album": {
         "name": "15 Exitos De Jose Luis Rodriguez",
         "url": "https://open.spotify.com/album/22RrvH0d9fd9HHXgOtAOwt"
       },
@@ -1499,6 +1483,38 @@
     {
       "added_at": "2022-12-30 18:53:16",
       "album": {
+        "name": "Mi Arbol Y Yo",
+        "url": "https://open.spotify.com/album/3xE56OcK19QNVNr7EUoE3o"
+      },
+      "artists": [
+        {
+          "name": "Alberto Cortez",
+          "url": "https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9"
+        }
+      ],
+      "duration_ms": 213446,
+      "name": "Mi Arbol Y Yo",
+      "url": "https://open.spotify.com/track/4un7tX9V9E4O06ogDdtSpv"
+    },
+    {
+      "added_at": "2022-12-30 18:53:16",
+      "album": {
+        "name": "Lo M\u00e1s Rom\u00e1ntico De",
+        "url": "https://open.spotify.com/album/4dy1PD7aN1of2Stl7WPwiJ"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles Negros",
+          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
+        }
+      ],
+      "duration_ms": 201226,
+      "name": "A Tu Recuerdo",
+      "url": "https://open.spotify.com/track/0ZHoRUV1mugmRfG16MnBwP"
+    },
+    {
+      "added_at": "2022-12-30 18:53:16",
+      "album": {
         "name": "Tesoros De Coleccion",
         "url": "https://open.spotify.com/album/5fvc3yXYkuFeutWruzxCTk"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 226373,
       "name": "Pasito Tun, Tun",
       "url": "https://open.spotify.com/track/2IiqERlz1TkGtLECHyIrQw"
-    },
-    {
-      "added_at": "2022-12-30 18:53:16",
-      "album": {
-        "name": "Mi Arbol Y Yo",
-        "url": "https://open.spotify.com/album/3xE56OcK19QNVNr7EUoE3o"
-      },
-      "artists": [
-        {
-          "name": "Alberto Cortez",
-          "url": "https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9"
-        }
-      ],
-      "duration_ms": 213446,
-      "name": "Mi Arbol Y Yo",
-      "url": "https://open.spotify.com/track/4un7tX9V9E4O06ogDdtSpv"
     },
     {
       "added_at": "2022-12-30 18:53:16",

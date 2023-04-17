@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 
 > Die größten Hits der deutschen Hip\-Hop\-Geschichte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 601,122 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 601,243 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 | 12 | [Rhythmus meines Lebens](https://open.spotify.com/track/4FyVe8mdjaRLvtqnXae6BM) | [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD) | [Die John Bello Story, Vol\. 3](https://open.spotify.com/album/5CF8sggi5aUSptomzuGzQB) | 3:16 |
 | 13 | [Augen auf](https://open.spotify.com/track/3nAJAotlLWvmSWHQ05D2ma) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Ich & meine Maske \(Premium Version\)](https://open.spotify.com/album/0fQtAAJlHLf5DQZJBVRt7t) | 3:50 |
 | 14 | [Ein Affe und ein Pferd](https://open.spotify.com/track/3qM75mSV84LHHJqlITqZsk) | [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05) | [Ganz Oben \(Mixtape\)](https://open.spotify.com/album/1sRETCvm24dPNwAhpZqytk) | 3:45 |
-| 15 | [Ahnma](https://open.spotify.com/track/1sr9lbDDGIxmFK7wUdA1Z8) | [Beginner](https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf), [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs), [Gentleman](https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7) | [Advanced Chemistry](https://open.spotify.com/album/5rBJ9tt8jQ0PQLc0dBlNJI) | 4:13 |
-| 16 | [Kids \(2 Finger an den Kopf\)](https://open.spotify.com/track/6lxTIMeCLEkj48TlCRG3XX) | [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB) | [Zum Glück in die Zukunft II](https://open.spotify.com/album/6Ttnb4f8aPy7ytDJqV10FT) | 3:49 |
+| 15 | [Kids \(2 Finger an den Kopf\)](https://open.spotify.com/track/6lxTIMeCLEkj48TlCRG3XX) | [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB) | [Zum Glück in die Zukunft II](https://open.spotify.com/album/6Ttnb4f8aPy7ytDJqV10FT) | 3:49 |
+| 16 | [Ahnma](https://open.spotify.com/track/1sr9lbDDGIxmFK7wUdA1Z8) | [Beginner](https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf), [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs), [Gentleman](https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7) | [Advanced Chemistry](https://open.spotify.com/album/5rBJ9tt8jQ0PQLc0dBlNJI) | 4:13 |
 | 17 | [Jein](https://open.spotify.com/track/22f8RBGm0xklH4wSh36J3w) | [Fettes Brot](https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH) | [Außen Top Hits, innen Geschmack](https://open.spotify.com/album/4VFsj2vgk7Iyiw7Nsv9HfH) | 5:54 |
 | 18 | [Für immer jung](https://open.spotify.com/track/3tv1DRqL9KRuIUawu6eYG0) | [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S), [Karel Gott](https://open.spotify.com/artist/4zaslnpNr10iUFJGx0XqpM) | [Heavy Metal Payback](https://open.spotify.com/album/3m1BhLKInOY8Rrs4R6STQz) | 4:30 |
 | 19 | [Oh Jonny](https://open.spotify.com/track/1IivtUqnUfW9jH3pM08D8U) | [Jan Delay](https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc) | [Wir Kinder vom Bahnhof Soul \(Re\-Release\)](https://open.spotify.com/album/7MrA7kNLED6TooTm9uxH2i) | 3:39 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 | 34 | [Leben und Tod des Kenneth Glöckler](https://open.spotify.com/track/3ai0DFuYn5KnHPUbRjAkga) | [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S) | [Leben und Tod des Kenneth Glöckler](https://open.spotify.com/album/1rR7VSYfXUZWFWZALjBcC4) | 10:01 |
 | 35 | [Kompass ohne Norden](https://open.spotify.com/track/4wEDActEN5ZyJi0DK8bCtf) | [Prinz Pi](https://open.spotify.com/artist/3OYM3jjPVR60kOqmamRRgk) | [Kompass ohne Norden \(Premium Edition\)](https://open.spotify.com/album/1SWh0DfTaWQPopinkTPIMY) | 4:12 |
 | 36 | [Prison Break Anthem \(Ich glaub an Dich\) \(feat\. Adel Tawil\) \- Single Version](https://open.spotify.com/track/1ISVPhtR7F0DMluQkhq3mT) | [Azad](https://open.spotify.com/artist/7LQLsKs1Qulq0BxYdhRnBU), [Adel Tawil](https://open.spotify.com/artist/3rZBkgoRHG8M9jQL0QPNMi) | [Blockschrift](https://open.spotify.com/album/4Rzr6mHoq3nUppphdbmxwj) | 4:04 |
-| 37 | [Kimnotyze](https://open.spotify.com/track/6Hn28vF3xTsg7ukG1pGIDF) | [DJ Tomekk](https://open.spotify.com/artist/182XFUhmCtgombl0vTM8fN), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [Trooper Da Don](https://open.spotify.com/artist/0ED9s4HNaTjWmNgujA1Mvu) | [Beat of Life, Vol\. 1](https://open.spotify.com/album/1x0sohs1p9hvf2RtLdUiXY) | 3:29 |
-| 38 | [Cruisen](https://open.spotify.com/track/6e5kuZssmkwWL3Yt4jwTRy) | [Massive Töne](https://open.spotify.com/artist/1Ia0ZFqTFENtoU9bxYUsKJ) | [MT3](https://open.spotify.com/album/23e9X1a2ODDLWDi9Go747g) | 3:55 |
+| 37 | [Cruisen](https://open.spotify.com/track/6e5kuZssmkwWL3Yt4jwTRy) | [Massive Töne](https://open.spotify.com/artist/1Ia0ZFqTFENtoU9bxYUsKJ) | [MT3](https://open.spotify.com/album/23e9X1a2ODDLWDi9Go747g) | 3:55 |
+| 38 | [Kimnotyze](https://open.spotify.com/track/6Hn28vF3xTsg7ukG1pGIDF) | [DJ Tomekk](https://open.spotify.com/artist/182XFUhmCtgombl0vTM8fN), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [Trooper Da Don](https://open.spotify.com/artist/0ED9s4HNaTjWmNgujA1Mvu) | [Beat of Life, Vol\. 1](https://open.spotify.com/album/1x0sohs1p9hvf2RtLdUiXY) | 3:29 |
 | 39 | [Poesie Album](https://open.spotify.com/track/0T8wIusBn0OpzFm2H6AVNY) | [Samy Deluxe](https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0) | [Up2Date XXL](https://open.spotify.com/album/2NFUNB6V1qSyhQ55FxZigO) | 3:50 |
 | 40 | [Neuruppin](https://open.spotify.com/track/6REiDLAJKtYGoZsPVgNdiH) | [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05), [Kuba](https://open.spotify.com/artist/3RMUVIfL3EyviMrClncdOK), [Cannibal Rob](https://open.spotify.com/artist/4D5Tio68jTH1n0ut1J2Qyk) | [Hahnenkampf](https://open.spotify.com/album/0coO5OMFsw888Gok7JwXxe) | 5:23 |
 | 41 | [Wenn wir kommen](https://open.spotify.com/track/5eJ4MilFcuh4TBxlhSw5lx) | [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S) | [Electro Ghetto \(Re\-Release\)](https://open.spotify.com/album/6hjvEsyxjU2eRqtofEHPvX) | 3:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 | 49 | [Da draussen](https://open.spotify.com/track/3pw3W5nRx5MDmWOd9sawYA) | [Fettes Brot](https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH) | [Fettes Brot lässt grüssen](https://open.spotify.com/album/0Mbt27Q40cXFkhbTMQW5QL) | 5:20 |
 | 50 | [Füchse](https://open.spotify.com/track/4vxjNphyAqPGR8KpuXPGoi) | [Beginner](https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf), [Samy Deluxe](https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0) | [Bambule](https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D) | 4:34 |
 
-Snapshot ID: `MTY3Nzc3MDE1NSwwMDAwMDAwMDNlYTc4OGM4N2FlYWY2NGZiMWM0ODBkOWY4MGZhOTky`
+Snapshot ID: `MTY3Nzc3MDE1NSwwMDAwMDAwMGYzYmM3M2E0YjJmOTgyODdiNDJjZjZkMmVlZmM1ODY2`

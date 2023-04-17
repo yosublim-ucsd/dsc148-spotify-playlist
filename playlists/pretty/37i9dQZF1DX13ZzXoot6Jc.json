@@ -1,12 +1,12 @@
 {
   "description": "A collection of hits that will have you singing every word. Cover: Morgan Wallen",
-  "num_followers": 438354,
+  "num_followers": 438481,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDRiYzNjNWFkMzk2MWYzMmIyNzI3MjI2MjdkZDA4Y2U2",
+  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDEwNzdlMGVkMzdlZWQ3MDZjZDExNzNjYzExMzA5MmY4",
   "tracks": [
     {
       "added_at": "2023-04-14 04:00:00",
@@ -243,22 +243,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Whiskey On You",
-        "url": "https://open.spotify.com/album/3MrvNAqlEsm5iScBAf9Cfm"
-      },
-      "artists": [
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
-        }
-      ],
-      "duration_ms": 183789,
-      "name": "Whiskey On You",
-      "url": "https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Fall In Love",
         "url": "https://open.spotify.com/album/532HZrT6uAekC4urDonoXa"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 232058,
       "name": "Fall In Love",
       "url": "https://open.spotify.com/track/5gVCfYmQRPy1QJifP8f5gg"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Whiskey On You",
+        "url": "https://open.spotify.com/album/3MrvNAqlEsm5iScBAf9Cfm"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "duration_ms": 183789,
+      "name": "Whiskey On You",
+      "url": "https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Heart Like A Truck",
-        "url": "https://open.spotify.com/album/5NRfYTHlDOZ9poFHN2pVQo"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 199040,
-      "name": "Heart Like A Truck",
-      "url": "https://open.spotify.com/track/5ZCjp56T8J6d7amJyFSzrI"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Ballads Of The Broken",
         "url": "https://open.spotify.com/album/4aWPCLZWr9gG0ucLIMJavx"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 166035,
       "name": "IF YOU GO DOWN (I'M GOIN' DOWN TOO)",
       "url": "https://open.spotify.com/track/1jX9wlAgVkAl0fCZqkCI73"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Heart Like A Truck",
+        "url": "https://open.spotify.com/album/5NRfYTHlDOZ9poFHN2pVQo"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 199040,
+      "name": "Heart Like A Truck",
+      "url": "https://open.spotify.com/track/5ZCjp56T8J6d7amJyFSzrI"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "What My World Spins Around",
-        "url": "https://open.spotify.com/album/4oTrQ9TmOapgT6uI8W6wsS"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 186790,
-      "name": "What My World Spins Around",
-      "url": "https://open.spotify.com/track/6HBRLaSQ7NB8MNlaqzYen1"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Water Under The Bridge",
         "url": "https://open.spotify.com/album/1utmiav7Az868fJjhPCeeA"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 169760,
       "name": "Water Under The Bridge",
       "url": "https://open.spotify.com/track/4viFAHmivkYQKkwLvwKOgg"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "What My World Spins Around",
+        "url": "https://open.spotify.com/album/4oTrQ9TmOapgT6uI8W6wsS"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 186790,
+      "name": "What My World Spins Around",
+      "url": "https://open.spotify.com/track/6HBRLaSQ7NB8MNlaqzYen1"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Dear Alcohol",
-        "url": "https://open.spotify.com/album/6TtLuu7MV4ptXoXBCIq6xL"
-      },
-      "artists": [
-        {
-          "name": "Dax",
-          "url": "https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39"
-        }
-      ],
-      "duration_ms": 236307,
-      "name": "Dear Alcohol",
-      "url": "https://open.spotify.com/track/3HgmGFYiO8967EFji8CSdM"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "MACON",
         "url": "https://open.spotify.com/album/2cydSJJLXu2TtP9VoOnGn4"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 212030,
       "name": "If I Didn't Love You",
       "url": "https://open.spotify.com/track/1WQ40xJSvgDmD9K7ckJwux"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Dear Alcohol",
+        "url": "https://open.spotify.com/album/6TtLuu7MV4ptXoXBCIq6xL"
+      },
+      "artists": [
+        {
+          "name": "Dax",
+          "url": "https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39"
+        }
+      ],
+      "duration_ms": 236307,
+      "name": "Dear Alcohol",
+      "url": "https://open.spotify.com/track/3HgmGFYiO8967EFji8CSdM"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/3i5LIueVgxjgCu1TIZOraP"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 179720,
-      "name": "23",
-      "url": "https://open.spotify.com/track/4PuAqZlL1tkidkuxfDlLbF"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "GOOD TIME",
         "url": "https://open.spotify.com/album/5WvmRAsjmB3uPLoFeCioC5"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 214720,
       "name": "GOOD TIME",
       "url": "https://open.spotify.com/track/2S8UMuLJ0z8agFgFGJ6Ztt"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/3i5LIueVgxjgCu1TIZOraP"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 179720,
+      "name": "23",
+      "url": "https://open.spotify.com/track/4PuAqZlL1tkidkuxfDlLbF"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Greetings From...Jake",
+        "url": "https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6"
+      },
+      "artists": [
+        {
+          "name": "Jake Owen",
+          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
+        }
+      ],
+      "duration_ms": 238400,
+      "name": "Made For You",
+      "url": "https://open.spotify.com/track/7vF3xkCMvZjAe2nTWY0uQZ"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "The Bones (with Hozier)",
         "url": "https://open.spotify.com/album/6HzebUNgGlzC1AMBwHGIkH"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 197298,
       "name": "The Bones - with Hozier",
       "url": "https://open.spotify.com/track/1yTTMcUhL7rtz08Dsgb7Qb"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Greetings From...Jake",
-        "url": "https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6"
-      },
-      "artists": [
-        {
-          "name": "Jake Owen",
-          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
-        }
-      ],
-      "duration_ms": 238400,
-      "name": "Made For You",
-      "url": "https://open.spotify.com/track/7vF3xkCMvZjAe2nTWY0uQZ"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Good Things",
-        "url": "https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm"
+        "name": "Born Here Live Here Die Here",
+        "url": "https://open.spotify.com/album/0wnaUYW25dVLAzk41fp1Ez"
       },
       "artists": [
         {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
         }
       ],
-      "duration_ms": 144760,
-      "name": "Glad You Exist",
-      "url": "https://open.spotify.com/track/3oV2RVOmwdWdf9BmGS4Oad"
+      "duration_ms": 193426,
+      "name": "One Margarita",
+      "url": "https://open.spotify.com/track/1Y3TlYJNhIa7k4YAvFkJAB"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Born Here Live Here Die Here",
-        "url": "https://open.spotify.com/album/0wnaUYW25dVLAzk41fp1Ez"
+        "name": "Good Things",
+        "url": "https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm"
       },
       "artists": [
         {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
         }
       ],
-      "duration_ms": 193426,
-      "name": "One Margarita",
-      "url": "https://open.spotify.com/track/1Y3TlYJNhIa7k4YAvFkJAB"
+      "duration_ms": 144760,
+      "name": "Glad You Exist",
+      "url": "https://open.spotify.com/track/3oV2RVOmwdWdf9BmGS4Oad"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Beers And Sunshine",
+        "url": "https://open.spotify.com/album/1GZyb1fAcVAdxeZK16ozLR"
+      },
+      "artists": [
+        {
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+        }
+      ],
+      "duration_ms": 178278,
+      "name": "Beers And Sunshine",
+      "url": "https://open.spotify.com/track/36ISlLb12gKuCCVTYXC0gb"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Wishful Drinking (with Sam Hunt)",
         "url": "https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 194544,
       "name": "Wishful Drinking (with Sam Hunt)",
       "url": "https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Beers And Sunshine",
-        "url": "https://open.spotify.com/album/1GZyb1fAcVAdxeZK16ozLR"
-      },
-      "artists": [
-        {
-          "name": "Darius Rucker",
-          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
-        }
-      ],
-      "duration_ms": 178278,
-      "name": "Beers And Sunshine",
-      "url": "https://open.spotify.com/track/36ISlLb12gKuCCVTYXC0gb"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "On A Different Night",
-        "url": "https://open.spotify.com/album/7e2cKmW21NqkGQUfbDyPdF"
-      },
-      "artists": [
-        {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
-        }
-      ],
-      "duration_ms": 189277,
-      "name": "On A Different Night",
-      "url": "https://open.spotify.com/track/4cF4vuC7Ci29yhnbuoFRZx"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Here On Earth",
         "url": "https://open.spotify.com/album/1txWLNMKiZ5K6ezFMtyjLM"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 221400,
       "name": "7500 OBO",
       "url": "https://open.spotify.com/track/7A4WmJcWx6KrVRfQ2CP8e7"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Gold Chain Cowboy",
+        "url": "https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "To Be Loved By You",
+      "url": "https://open.spotify.com/track/2pUQX4d3Cjh3umGkVz0XyI"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Gold Chain Cowboy",
-        "url": "https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu"
+        "name": "On A Different Night",
+        "url": "https://open.spotify.com/album/7e2cKmW21NqkGQUfbDyPdF"
       },
       "artists": [
         {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
         }
       ],
-      "duration_ms": 199680,
-      "name": "To Be Loved By You",
-      "url": "https://open.spotify.com/track/2pUQX4d3Cjh3umGkVz0XyI"
+      "duration_ms": 189277,
+      "name": "On A Different Night",
+      "url": "https://open.spotify.com/track/4cF4vuC7Ci29yhnbuoFRZx"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Life Rolls On",
+        "url": "https://open.spotify.com/album/6dfdmMDGw988CzNEFdnIcY"
+      },
+      "artists": [
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        }
+      ],
+      "duration_ms": 153253,
+      "name": "Long Live",
+      "url": "https://open.spotify.com/track/0YfRAYTNTNszGg8VARrSIH"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Bettie James",
         "url": "https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h"
       },
@@ -1527,38 +1543,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "New Truck",
-        "url": "https://open.spotify.com/album/3497MUjpGLcslVVb9ZeteM"
-      },
-      "artists": [
-        {
-          "name": "Dylan Scott",
-          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
-        }
-      ],
-      "duration_ms": 174360,
-      "name": "New Truck",
-      "url": "https://open.spotify.com/track/4MDYIbU6I29Gjiu7JATTIJ"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Life Rolls On",
-        "url": "https://open.spotify.com/album/6dfdmMDGw988CzNEFdnIcY"
-      },
-      "artists": [
-        {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
-        }
-      ],
-      "duration_ms": 153253,
-      "name": "Long Live",
-      "url": "https://open.spotify.com/track/0YfRAYTNTNszGg8VARrSIH"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Time, Tequila & Therapy",
         "url": "https://open.spotify.com/album/1yjrtwm2ru1qPGBPBUDE0x"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 178680,
       "name": "I Was On a Boat That Day",
       "url": "https://open.spotify.com/track/7u6kAP26NFU2rwNKjFUpI8"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "New Truck",
+        "url": "https://open.spotify.com/album/3497MUjpGLcslVVb9ZeteM"
+      },
+      "artists": [
+        {
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+        }
+      ],
+      "duration_ms": 174360,
+      "name": "New Truck",
+      "url": "https://open.spotify.com/track/4MDYIbU6I29Gjiu7JATTIJ"
     },
     {
       "added_at": "2023-04-14 04:00:00",

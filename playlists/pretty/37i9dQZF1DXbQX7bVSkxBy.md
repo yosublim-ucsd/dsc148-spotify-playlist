@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 
 > Raise a voice and testify with Nigerian gospel music\.  Cover: Mercy Chinwo
 
-[Spotify](https://open.spotify.com/user/spotify) - 449 likes - 50 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 559 likes - 50 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,16 +39,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 | 29 | [Fragrance to Fire](https://open.spotify.com/track/7eGDM90StP3QFkcwJPaLRg) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Gospel of the Kingdom](https://open.spotify.com/album/25YIWvGm47WqKctz8k76r5) | 10:57 |
 | 30 | [All That Matters](https://open.spotify.com/track/7aDw6ABFrazUlM4PRfUYLI) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [The Message](https://open.spotify.com/album/4Ms9jXii2uQWm8mjxvnqLd) | 6:10 |
 | 31 | [Omemma](https://open.spotify.com/track/3t2o1njvVXz9IojLD1FTqk) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Man Of Galilee](https://open.spotify.com/album/6m1ZBEKGANGy4Tfgwhtk08) | 4:17 |
-| 32 | [There's an Overflow](https://open.spotify.com/track/5pccP1TA1WGNrYXAHF8xNU) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [There's an Overflow](https://open.spotify.com/album/7bCb9oOr3rwnZ5YHJbwTBm) | 8:10 |
+| 32 | [My Trust Is in You](https://open.spotify.com/track/3n5ZcqA96LtnDICLZ5rqFY) | [David G](https://open.spotify.com/artist/3UxYGkc2hubOZsZuLAR7Ri) | [Yahweh](https://open.spotify.com/album/0Ai0IfdEIuJCMgkHUDEZAy) | 3:35 |
 | 33 | [Onise Iyanu \(feat\. Micah Stampley\)](https://open.spotify.com/track/0S7l0Nz5MztXjkNTppknRp) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Micah Stampley](https://open.spotify.com/artist/32HUki1MDatCzJlahnhjqK) | [This God Is Too Good](https://open.spotify.com/album/5RCbwQMe3LwArxqneTQMTg) | 6:06 |
 | 34 | [Obinasom](https://open.spotify.com/track/0zffPG1MN1yCiWkJBM4zjC) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 5:00 |
-| 35 | [My Trust Is in You](https://open.spotify.com/track/3n5ZcqA96LtnDICLZ5rqFY) | [David G](https://open.spotify.com/artist/3UxYGkc2hubOZsZuLAR7Ri) | [Yahweh](https://open.spotify.com/album/0Ai0IfdEIuJCMgkHUDEZAy) | 3:35 |
+| 35 | [There's an Overflow](https://open.spotify.com/track/5pccP1TA1WGNrYXAHF8xNU) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [There's an Overflow](https://open.spotify.com/album/7bCb9oOr3rwnZ5YHJbwTBm) | 8:10 |
 | 36 | [Never Let Me Go \- African Worship Medley/Live](https://open.spotify.com/track/5mT9muoaYVBcvpM3UiJZBY) | [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj) | [The Glory Experience \(Live In Houston\)](https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ) | 2:22 |
 | 37 | [Jesus at the Centre](https://open.spotify.com/track/6vxVWANYDzpoWJcF4vVbr2) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm) | [Victory](https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6) | 6:09 |
 | 38 | [On Fire](https://open.spotify.com/track/2rn3SbXpuzacWTj6WQEB2W) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Return Rev\. 2:4](https://open.spotify.com/album/4thMivYYO5sTAfgCfSU7tI) | 8:51 |
 | 39 | [Unchangeable](https://open.spotify.com/track/2BQ9reSLLtXxcWuturEq6F) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [Most High](https://open.spotify.com/album/4DmICvVxirmdQzjbuXEfzS) | 5:17 |
-| 40 | [He Did It Again](https://open.spotify.com/track/3DnfU6JmmoKV4YK9gzCrk6) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [He Did It Again](https://open.spotify.com/album/4VXAAa1nfnwGBFvMAZLUbZ) | 5:03 |
-| 41 | [Baba Oh](https://open.spotify.com/track/7kOezDLrt87YbPZfgv7qub) | [Jonathan Nelson](https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa), [Sonnie Badu](https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo) | [Fearless \(Deluxe Edition\)](https://open.spotify.com/album/2VZ2wxXREyzvLSGDdQtDsD) | 5:23 |
+| 40 | [Baba Oh](https://open.spotify.com/track/7kOezDLrt87YbPZfgv7qub) | [Jonathan Nelson](https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa), [Sonnie Badu](https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo) | [Fearless \(Deluxe Edition\)](https://open.spotify.com/album/2VZ2wxXREyzvLSGDdQtDsD) | 5:23 |
+| 41 | [He Did It Again](https://open.spotify.com/track/3DnfU6JmmoKV4YK9gzCrk6) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [He Did It Again](https://open.spotify.com/album/4VXAAa1nfnwGBFvMAZLUbZ) | 5:03 |
 | 42 | [No One Like You](https://open.spotify.com/track/1B6d6tSoQTZyYalEFVu86p) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [No One Like You](https://open.spotify.com/album/2319omaa3ftdBNLmmQmGuf) | 5:17 |
 | 43 | [Daddy Wey Dey Pamper \- Special Version](https://open.spotify.com/track/21K28NfxP5PJQcCdxtbOpL) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Doris Joseph](https://open.spotify.com/artist/52JrpF7KvjwmFvt4MTV5ho) | [Daddy Wey Dey Pamper \(Special Version\)](https://open.spotify.com/album/7MoXTFv7bTm0g5moOX0Tz2) | 4:47 |
 | 44 | [Under The Canopy](https://open.spotify.com/track/59SR0FpZzENp1Xa5yXExzW) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Under The Canopy](https://open.spotify.com/album/0m4KXfassO1hsCsQBnQBkb) | 5:13 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 | 46 | [Igwe](https://open.spotify.com/track/6Of9mBX5A3C0DqH7ysqqFb) | [Midnight Crew](https://open.spotify.com/artist/6fV5ZuXo1IZqGn9n1hexab) | [Igwe](https://open.spotify.com/album/5UP6Qw8DpgmuQJsevFLwmG) | 5:12 |
 | 47 | [Miracle Worker \(feat\. Nathaniel Bassey\)](https://open.spotify.com/track/7lbzZjOuAP1SgdbBntWENT) | [Glowreeyah Braimah](https://open.spotify.com/artist/4xn29UFDYZE3V9knQ2JSh1), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [The Expression](https://open.spotify.com/album/1DTO9Qm1Cx2nVKzMbuwrMm) | 4:50 |
 | 48 | [Mighty God \- Remix](https://open.spotify.com/track/3wJ7y9A3d6Nx8dgzWYvwMR) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Mighty God \(Remix\)](https://open.spotify.com/album/0FEwRFVRGygc77wGe6gUOX) | 5:23 |
-| 49 | [Dansaki](https://open.spotify.com/track/7pW8qktBmU1SLIDeiVb8PP) | [Lara George](https://open.spotify.com/artist/6BMYlvYYyC0VxN6vV9y9KZ) | [Higher](https://open.spotify.com/album/3PJUJDl7tSaxspgWXEawfN) | 5:24 |
-| 50 | [Waymaker \(Live\)](https://open.spotify.com/track/1cWzzfQCJWqhgaEVO2Ca4l) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Way Maker \(Live\)](https://open.spotify.com/album/2lE2XqhO7WNHcRVEfQMKOm) | 8:20 |
+| 49 | [Waymaker \(Live\)](https://open.spotify.com/track/1cWzzfQCJWqhgaEVO2Ca4l) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Way Maker \(Live\)](https://open.spotify.com/album/2lE2XqhO7WNHcRVEfQMKOm) | 8:20 |
+| 50 | [Dansaki](https://open.spotify.com/track/7pW8qktBmU1SLIDeiVb8PP) | [Lara George](https://open.spotify.com/artist/6BMYlvYYyC0VxN6vV9y9KZ) | [Higher](https://open.spotify.com/album/3PJUJDl7tSaxspgWXEawfN) | 5:24 |
 
-Snapshot ID: `MTY4MTQ5MDUzMywwMDAwMDAwMDkwM2M0OGFhYTMyZGIxNGFjNmM5Y2M4MTBkMGRiM2M3`
+Snapshot ID: `MTY4MTQ5MDUzMywwMDAwMDAwMGUyMjU0MjcwNjRlZDYyMGJkOWEzM2ZiN2YxNzZiYmUw`

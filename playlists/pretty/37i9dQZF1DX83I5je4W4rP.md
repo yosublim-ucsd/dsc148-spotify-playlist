@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 
 > Soak up these laid\-back jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,041,547 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,041,637 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,18 +57,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 | 47 | [Life's Been Good](https://open.spotify.com/track/7wtMcCrzuRDzaqp7QVyc0w) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Life's Been Good](https://open.spotify.com/album/0eGpYPPLOXgHhFVuEn8jto) | 3:13 |
 | 48 | [Take It or Leave It](https://open.spotify.com/track/0qdnPX9umHlQBQuv2sYZlo) | [Sublime With Rome](https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ) | [Yours Truly \(Deluxe Edition\)](https://open.spotify.com/album/2bKgvvT3ZCOW8CRpbU0Hdt) | 3:52 |
 | 49 | [Fade Away](https://open.spotify.com/track/4TyCnstYu6LGrjka5WW6ft) | [Rebelution](https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc) | [Count Me In](https://open.spotify.com/album/05SuSxEPuEJI1RnwTcOCRg) | 3:29 |
-| 50 | [Dawn of Time](https://open.spotify.com/track/445qQk3nyQwmjf4vzDghKd) | [Tribal Seeds](https://open.spotify.com/artist/7jgZFR40bWjwOrRCOZFB02) | [Tribal Seeds](https://open.spotify.com/album/6wmbkqwaT1z87mPMKxxhfN) | 4:16 |
-| 51 | [Set Sail](https://open.spotify.com/track/2nkuZha8Oe9puQ8ZX1P9ha) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr) | [Set Sail](https://open.spotify.com/album/14emdMLeIWpokV9l8Xgobb) | 3:36 |
+| 50 | [Set Sail](https://open.spotify.com/track/2nkuZha8Oe9puQ8ZX1P9ha) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr) | [Set Sail](https://open.spotify.com/album/14emdMLeIWpokV9l8Xgobb) | 3:36 |
+| 51 | [Dawn of Time](https://open.spotify.com/track/445qQk3nyQwmjf4vzDghKd) | [Tribal Seeds](https://open.spotify.com/artist/7jgZFR40bWjwOrRCOZFB02) | [Tribal Seeds](https://open.spotify.com/album/6wmbkqwaT1z87mPMKxxhfN) | 4:16 |
 | 52 | [We'll Be Alright](https://open.spotify.com/track/5k0U1CVgDmBZ6xutJVIU8r) | [The Hip Abduction](https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK) | [A Seafarer and the Infinite Dream](https://open.spotify.com/album/2byxJMI52Ov7gWQp0imRER) | 3:16 |
 | 53 | [Bullet and a Target](https://open.spotify.com/track/3r7gP3kGBkldTrOO6ebMGy) | [Citizen Cope](https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F) | [The Clarence Greenwood Recordings](https://open.spotify.com/album/4cmqFKgpFzSa6FDR1I3VFr) | 4:23 |
 | 54 | [Gimme Love](https://open.spotify.com/track/0xhHR5lWJCxIYGapEskm7C) | [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3) | [Gimme Love](https://open.spotify.com/album/1A1VUJcKkq2zEef0OAuEfm) | 3:51 |
 | 55 | [Good Vibes \(feat\. Lutan Fyah\)](https://open.spotify.com/track/0kNSPASJw7VASyGPbOdkn8) | [Rebelution](https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc), [Lutan Fyah](https://open.spotify.com/artist/1QfjByidqUrsRhcT3fpWTU) | [Peace of Mind \(Deluxe\)](https://open.spotify.com/album/69QU0KRyEfMXDG2K10HdMJ) | 3:31 |
 | 56 | [Sunshine](https://open.spotify.com/track/1ma4sCjoVMptvilcgJDPGc) | [Matisyahu](https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw) | [Spark Seeker](https://open.spotify.com/album/2dq7y0FKyzr33UBYXZ2g7u) | 3:33 |
-| 57 | [Shine](https://open.spotify.com/track/4Jd3a2zX1nzt145eDSQK3Y) | [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [Start Livin'](https://open.spotify.com/album/046TK75MmvAdIkrk51uGIg) | 3:14 |
-| 58 | [Goodbyes](https://open.spotify.com/track/6kpKgO0iPsRkmslT5woRh5) | [Sublime With Rome](https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ) | [Goodbyes](https://open.spotify.com/album/0KtW3jjoLmaRfEymHu8P7B) | 2:11 |
-| 59 | [Walk Away](https://open.spotify.com/track/2zpWbK58RhiLysM201bT3W) | [Ballyhoo!](https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ) | [Daydreams](https://open.spotify.com/album/5R8yRYP7TqrGXsjV6xaLVJ) | 3:23 |
+| 57 | [Take Me To The Ocean](https://open.spotify.com/track/6IjB7d4ciJaMt4TX9p8MhS) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr) | [Ways Of The World](https://open.spotify.com/album/4fDFYGSc4P92SZ8UZ3te3q) | 4:30 |
+| 58 | [Shine](https://open.spotify.com/track/4Jd3a2zX1nzt145eDSQK3Y) | [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [Start Livin'](https://open.spotify.com/album/046TK75MmvAdIkrk51uGIg) | 3:14 |
+| 59 | [Goodbyes](https://open.spotify.com/track/6kpKgO0iPsRkmslT5woRh5) | [Sublime With Rome](https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ) | [Goodbyes](https://open.spotify.com/album/0KtW3jjoLmaRfEymHu8P7B) | 2:11 |
 | 60 | [Pressure Drop](https://open.spotify.com/track/1QtWWUzwEGwpJlDRmpOSEg) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Sweet and Dandy](https://open.spotify.com/album/6sn6gS4YnlAbxzetlJsUxQ) | 2:57 |
-| 61 | [Take Me To The Ocean](https://open.spotify.com/track/6IjB7d4ciJaMt4TX9p8MhS) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr) | [Ways Of The World](https://open.spotify.com/album/4fDFYGSc4P92SZ8UZ3te3q) | 4:30 |
+| 61 | [Walk Away](https://open.spotify.com/track/2zpWbK58RhiLysM201bT3W) | [Ballyhoo!](https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ) | [Daydreams](https://open.spotify.com/album/5R8yRYP7TqrGXsjV6xaLVJ) | 3:23 |
 | 62 | [Bring Me Along](https://open.spotify.com/track/12hIOqdMjKmYatc3fwywL7) | [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [No Shame](https://open.spotify.com/album/1r1dc5yTdwHQk77JZibmCF) | 3:32 |
 | 63 | [Right Me Up](https://open.spotify.com/track/0mIedzCvGwfq4wIdGiVSut) | [State Radio](https://open.spotify.com/artist/6eaKsv68njcrz5OjeQor5L), [Chadwick Stokes](https://open.spotify.com/artist/785rMkDH7JjOFN3NcBGDJM) | [Us Against The Crown \(Bonus Track Version\)](https://open.spotify.com/album/3XOvNcVeUI9AInH5f0i7ou) | 4:13 |
 | 64 | [Wake Up](https://open.spotify.com/track/6UTZE0OPFM4ofNR1IJAAFX) | [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh) | [The Green](https://open.spotify.com/album/37Qr8WHL9Pa1BYEeKDxaJ6) | 4:49 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 | 97 | [Let It All Out](https://open.spotify.com/track/4kFJNoQNvBcJDenyQc5Rk3) | [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3), [Bret Bollinger](https://open.spotify.com/artist/2dmKeby7UGSfbbxX5y5aAu), [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [Let It All Out](https://open.spotify.com/album/5Vbzak4krkKEs6ECqfKaTl) | 4:35 |
 | 98 | [The Game](https://open.spotify.com/track/24nN6MHT8RXVLMPp5Xxfje) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Mind The Moon](https://open.spotify.com/album/4IVcJES0Og7KzrtA70DgC2) | 3:33 |
 | 99 | [Love Her Anyways](https://open.spotify.com/track/3B8TBGV0upObaUd9z4O9W8) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [Prologue](https://open.spotify.com/album/1mgDzGlXtOLeilxgyaltHo) | 3:06 |
-| 100 | [Breakdown](https://open.spotify.com/track/01cbb52SrkVOB8VuFaPoGP) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Jack Johnson & Friends: Best Of Kokua Festival, A Benefit For The Kokua Hawaii Foundation](https://open.spotify.com/album/1tqFk7TTYICk0Mhk9XUX9L) | 4:13 |
+| 100 | [Digital Heaven](https://open.spotify.com/track/5V7ge7ltQ3LTUXNNcRVWqw) | [Mihali](https://open.spotify.com/artist/1GJKMYNEIsLbRfS3AyS4YV) | [Effection](https://open.spotify.com/album/7DRW2mILmVTbyitwdNBdzU) | 3:29 |
 
-Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMDZjZGVlYWQ0ZTBiMjFkZGFlNWY4YjA3ZjdhYmM1MTVi`
+Snapshot ID: `MTY3NzIxNDg2MCwwMDAwMDAwMDY1MTBhNTYwODE5NDI1MTY1OWY4YmQ0ZGM5MjJhZjUy`

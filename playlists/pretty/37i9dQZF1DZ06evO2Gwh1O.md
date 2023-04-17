@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Gwh1O.md) - [plain]
 
 > This is Funeral For A Friend\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,659 likes - 49 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,658 likes - 49 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,11 +26,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Gwh1O.md) - [plain]
 | 16 | [All Hands on Deck, Pt\. 1: Raise the Sail](https://open.spotify.com/track/69OUP9n8fk8Y6bmHeSGHQB) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Tales Don't Tell Themselves](https://open.spotify.com/album/4CF5iDzxarsfbhBqc8ZcdH) | 3:26 |
 | 17 | [Recovery](https://open.spotify.com/track/5Xf3jkF3S5IB2u29aSLKjf) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Hours](https://open.spotify.com/album/3789JMOmSmuDeNlBQ5TSZK) | 3:30 |
 | 18 | [Red Is the New Black](https://open.spotify.com/track/00xrSZwKt8BZWF5Lv5gVuB) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Casually Dressed And Deep In Conversation](https://open.spotify.com/album/5RoKtuFghXVMHrtOf0CBKN) | 5:13 |
-| 19 | [1%](https://open.spotify.com/track/7g0ZRgrt1YqRxZPpn6gKBT) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Chapter and Verse](https://open.spotify.com/album/146lsgsoDkI9Dz06nnO2Sw) | 3:43 |
+| 19 | [10.45 Amsterdam Conversations](https://open.spotify.com/track/4t0VJ7J6QMZBE5lz0LdbjU) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Between Order and Model](https://open.spotify.com/album/09pyNkO8GT3vvGgiIJEiDU) | 3:39 |
 | 20 | [The Diary](https://open.spotify.com/track/47KSg94NVnpiPBKHV5IiDO) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Tales Don't Tell Themselves](https://open.spotify.com/album/4CF5iDzxarsfbhBqc8ZcdH) | 3:40 |
 | 21 | [Monsters](https://open.spotify.com/track/3k0coNayddFcRWKYJujrx4) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Hours](https://open.spotify.com/album/3789JMOmSmuDeNlBQ5TSZK) | 3:29 |
 | 22 | [Bullet Theory](https://open.spotify.com/track/7nh7lmeaUtM0EejuRCy8Jn) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Casually Dressed And Deep In Conversation](https://open.spotify.com/album/5RoKtuFghXVMHrtOf0CBKN) | 3:53 |
-| 23 | [10.45 Amsterdam Conversations](https://open.spotify.com/track/4t0VJ7J6QMZBE5lz0LdbjU) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Between Order and Model](https://open.spotify.com/album/09pyNkO8GT3vvGgiIJEiDU) | 3:39 |
+| 23 | [1%](https://open.spotify.com/track/7g0ZRgrt1YqRxZPpn6gKBT) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Chapter and Verse](https://open.spotify.com/album/146lsgsoDkI9Dz06nnO2Sw) | 3:43 |
 | 24 | [On a Wire](https://open.spotify.com/track/1Uxv6XbbcfwxZwUGdxwtWd) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Tales Don't Tell Themselves](https://open.spotify.com/album/4CF5iDzxarsfbhBqc8ZcdH) | 3:56 |
 | 25 | [Best Friends and Hospital Beds](https://open.spotify.com/track/6B1XIYrH0g7uuf9yNeDsue) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Conduit](https://open.spotify.com/album/1kZNKmHgyUJxBrC7tqQIkT) | 2:45 |
 | 26 | [Rookie](https://open.spotify.com/track/7taPGIacorqe7v7Rigw6UT) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Split](https://open.spotify.com/album/4uaGUSJyxsNIM4h4Dw73cf) | 4:15 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Gwh1O.md) - [plain]
 | 48 | [Inequality](https://open.spotify.com/track/5ohutul21ZtJtb16LiSjdk) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Chapter and Verse](https://open.spotify.com/album/146lsgsoDkI9Dz06nnO2Sw) | 2:53 |
 | 49 | [Sunday Bloody Sunday](https://open.spotify.com/track/686ZsEtJzTwS9cDcrQkoBQ) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Monsters](https://open.spotify.com/album/4pZcafB8p6eH2p5cs8ZaW4) | 4:24 |
 
-Snapshot ID: `MjgwMjYwMzIsMDAwMDAwMDAwNTY2ZGRlYmJlOGM4Y2IyNDU4ZWNiMTg1YjNkZjY0OA==`
+Snapshot ID: `MjgwMjc0MDEsMDAwMDAwMDBiMzZjYzVkODY4ZWQyZDNkM2FmYTBiZjI1MzZmZDU2Zg==`

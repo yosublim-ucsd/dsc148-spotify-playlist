@@ -1,12 +1,12 @@
 {
   "description": "A taste of the very best bluegrass instrumentals, classic and new.",
-  "num_followers": 37567,
+  "num_followers": 37599,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg0MDAwMCwwMDAwMDAwMDIxZjM2NzI5NDEyOTAxOTMzNGY4MTY3NGQ3ZWU1Zjdk",
+  "snapshot_id": "MTY4MDg0MDAwMCwwMDAwMDAwMDdjMjdlNTczZjY2MDA0MmMzNTdiNjRlNDNhZGY4OTJk",
   "tracks": [
     {
       "added_at": "2023-04-07 04:00:00",
@@ -523,18 +523,18 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Watchhouse",
-        "url": "https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK"
+        "name": "Double Banjo Bluegrass Spectacular",
+        "url": "https://open.spotify.com/album/4tIGzvCcfoHTYI8nlzPwch"
       },
       "artists": [
         {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+          "name": "Tony Trischka",
+          "url": "https://open.spotify.com/artist/1NjpWti9GnUtjjC2XV7UJK"
         }
       ],
-      "duration_ms": 260863,
-      "name": "Coming Down from Green Mountain",
-      "url": "https://open.spotify.com/track/6mQ3VQn9TEZaIuzvnkQm2I"
+      "duration_ms": 180493,
+      "name": "Bon Aqua Blues",
+      "url": "https://open.spotify.com/track/0SE1Y1MCWtKm88IeqjnDoL"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -567,18 +567,18 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Double Banjo Bluegrass Spectacular",
-        "url": "https://open.spotify.com/album/4tIGzvCcfoHTYI8nlzPwch"
+        "name": "Watchhouse",
+        "url": "https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK"
       },
       "artists": [
         {
-          "name": "Tony Trischka",
-          "url": "https://open.spotify.com/artist/1NjpWti9GnUtjjC2XV7UJK"
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
         }
       ],
-      "duration_ms": 180493,
-      "name": "Bon Aqua Blues",
-      "url": "https://open.spotify.com/track/0SE1Y1MCWtKm88IeqjnDoL"
+      "duration_ms": 260863,
+      "name": "Coming Down from Green Mountain",
+      "url": "https://open.spotify.com/track/6mQ3VQn9TEZaIuzvnkQm2I"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Unless",
-        "url": "https://open.spotify.com/album/7ypdPobffspADW87626GOy"
-      },
-      "artists": [
-        {
-          "name": "Hawktail",
-          "url": "https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm"
-        }
-      ],
-      "duration_ms": 251600,
-      "name": "In the Kitchen",
-      "url": "https://open.spotify.com/track/3FPaQUAvN3xmdZQqQmCvUM"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "Sun and Water (Here Comes the Sun/Waters of March)",
         "url": "https://open.spotify.com/album/7DLOyhTDSOM0hkocckdZjh"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 214546,
       "name": "Sun and Water (Here Comes the Sun/Waters of March)",
       "url": "https://open.spotify.com/track/1B2SiSOvDp0GYQQyLCl7LI"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Unless",
+        "url": "https://open.spotify.com/album/7ypdPobffspADW87626GOy"
+      },
+      "artists": [
+        {
+          "name": "Hawktail",
+          "url": "https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm"
+        }
+      ],
+      "duration_ms": 251600,
+      "name": "In the Kitchen",
+      "url": "https://open.spotify.com/track/3FPaQUAvN3xmdZQqQmCvUM"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -863,34 +863,18 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Formations",
-        "url": "https://open.spotify.com/album/51G5vn744vAm0qJtuKElX5"
+        "name": "Dillsboro Blues",
+        "url": "https://open.spotify.com/album/16OAkIBQZ3vmGFMk1bBlJD"
       },
       "artists": [
         {
-          "name": "Hawktail",
-          "url": "https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm"
+          "name": "Darren Nicholson",
+          "url": "https://open.spotify.com/artist/70O2FAS1z732CogF3N6W8f"
         }
       ],
-      "duration_ms": 299973,
-      "name": "Last One on the Line",
-      "url": "https://open.spotify.com/track/3EJCPHptFTb66er6xgaP6o"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Black Banjo",
-        "url": "https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2"
-      },
-      "artists": [
-        {
-          "name": "Tray Wellington",
-          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
-        }
-      ],
-      "duration_ms": 198478,
-      "name": "Crooked Mind",
-      "url": "https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g"
+      "duration_ms": 245000,
+      "name": "Dillsboro Blues",
+      "url": "https://open.spotify.com/track/0CPcEVBK0mN7o7cvxLrCrZ"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -911,18 +895,34 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Dillsboro Blues",
-        "url": "https://open.spotify.com/album/16OAkIBQZ3vmGFMk1bBlJD"
+        "name": "Black Banjo",
+        "url": "https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2"
       },
       "artists": [
         {
-          "name": "Darren Nicholson",
-          "url": "https://open.spotify.com/artist/70O2FAS1z732CogF3N6W8f"
+          "name": "Tray Wellington",
+          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
         }
       ],
-      "duration_ms": 245000,
-      "name": "Dillsboro Blues",
-      "url": "https://open.spotify.com/track/0CPcEVBK0mN7o7cvxLrCrZ"
+      "duration_ms": 198478,
+      "name": "Crooked Mind",
+      "url": "https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Formations",
+        "url": "https://open.spotify.com/album/51G5vn744vAm0qJtuKElX5"
+      },
+      "artists": [
+        {
+          "name": "Hawktail",
+          "url": "https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm"
+        }
+      ],
+      "duration_ms": 299973,
+      "name": "Last One on the Line",
+      "url": "https://open.spotify.com/track/3EJCPHptFTb66er6xgaP6o"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Things Are Simple",
-        "url": "https://open.spotify.com/album/2ob3K0w9zdg2YPET5xn49c"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/0kM18IEgG0cwxgfJRj7xFF"
-        }
-      ],
-      "duration_ms": 288026,
-      "name": "Along Came Sonny",
-      "url": "https://open.spotify.com/track/2eIOinqL0Rup57qmoRiwKs"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "Best Of The Vanguard Years",
         "url": "https://open.spotify.com/album/0WEd2PpiPxuD8RX576wiWK"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 287934,
       "name": "Carl\u2019s Breakdown",
       "url": "https://open.spotify.com/track/1WSgLVVvvhF0UvJdpaErCj"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Things Are Simple",
+        "url": "https://open.spotify.com/album/2ob3K0w9zdg2YPET5xn49c"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/0kM18IEgG0cwxgfJRj7xFF"
+        }
+      ],
+      "duration_ms": 288026,
+      "name": "Along Came Sonny",
+      "url": "https://open.spotify.com/track/2eIOinqL0Rup57qmoRiwKs"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1379,22 +1379,18 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Doc & Merle Watson's Guitar Album",
-        "url": "https://open.spotify.com/album/5cJh03Sy8v8o3i2zQhusLq"
+        "name": "Squirrelville",
+        "url": "https://open.spotify.com/album/7eCzxWAKlmax5GPYVxefsh"
       },
       "artists": [
         {
-          "name": "Doc Watson",
-          "url": "https://open.spotify.com/artist/01N1aZStXA4yGvkz4vRXtJ"
-        },
-        {
-          "name": "Merle Watson",
-          "url": "https://open.spotify.com/artist/6lynZefatZW6zvh500EIKN"
+          "name": "Tony Furtado",
+          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
         }
       ],
-      "duration_ms": 159600,
-      "name": "Black Mountain Rag",
-      "url": "https://open.spotify.com/track/6q3WwghJk9Ht7Mhoj90wIk"
+      "duration_ms": 281386,
+      "name": "Squirrelville",
+      "url": "https://open.spotify.com/track/02AwMmSFYM1yigumqelwsv"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1415,22 +1411,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Squirrelville",
-        "url": "https://open.spotify.com/album/7eCzxWAKlmax5GPYVxefsh"
-      },
-      "artists": [
-        {
-          "name": "Tony Furtado",
-          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
-        }
-      ],
-      "duration_ms": 281386,
-      "name": "Squirrelville",
-      "url": "https://open.spotify.com/track/02AwMmSFYM1yigumqelwsv"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "A Man Must Carry On",
         "url": "https://open.spotify.com/album/01Fru9pmsJY6eahTSxAf6c"
       },
@@ -1443,6 +1423,26 @@
       "duration_ms": 329933,
       "name": "Eternal Blues",
       "url": "https://open.spotify.com/track/4HitPhJOcrzOSmk7FyqkE6"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Doc & Merle Watson's Guitar Album",
+        "url": "https://open.spotify.com/album/5cJh03Sy8v8o3i2zQhusLq"
+      },
+      "artists": [
+        {
+          "name": "Doc Watson",
+          "url": "https://open.spotify.com/artist/01N1aZStXA4yGvkz4vRXtJ"
+        },
+        {
+          "name": "Merle Watson",
+          "url": "https://open.spotify.com/artist/6lynZefatZW6zvh500EIKN"
+        }
+      ],
+      "duration_ms": 159600,
+      "name": "Black Mountain Rag",
+      "url": "https://open.spotify.com/track/6q3WwghJk9Ht7Mhoj90wIk"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
+        "name": "The Good, the Bad and the Ugly",
+        "url": "https://open.spotify.com/album/3cM9AtEeQ8US0XqaCFGiNo"
+      },
+      "artists": [
+        {
+          "name": "Southern Raised",
+          "url": "https://open.spotify.com/artist/4R6Hnjk4k3QzifbwQ05NQH"
+        }
+      ],
+      "duration_ms": 351091,
+      "name": "The Good, the Bad and the Ugly",
+      "url": "https://open.spotify.com/track/2FxI0pkOFZPmgv69vYlsSg"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
         "name": "Into My Own",
         "url": "https://open.spotify.com/album/6oWQ9Jd7snovTm6B0IdEOK"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 306059,
       "name": "Overton Waltz",
       "url": "https://open.spotify.com/track/05lA78CxLBlUOFMsoSucyO"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "58957: The Bluegrass Guitar Collection",
-        "url": "https://open.spotify.com/album/2Ii3WXidbwtPzdiWEmDOmG"
-      },
-      "artists": [
-        {
-          "name": "Tony Rice Unit",
-          "url": "https://open.spotify.com/artist/4Of7rb2VkamHYwHhBjbwYg"
-        }
-      ],
-      "duration_ms": 156932,
-      "name": "Blackberry Blossom",
-      "url": "https://open.spotify.com/track/3rGzzWcBktMg6x1yyTiTLA"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1567,18 +1567,18 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "The Good, the Bad and the Ugly",
-        "url": "https://open.spotify.com/album/3cM9AtEeQ8US0XqaCFGiNo"
+        "name": "58957: The Bluegrass Guitar Collection",
+        "url": "https://open.spotify.com/album/2Ii3WXidbwtPzdiWEmDOmG"
       },
       "artists": [
         {
-          "name": "Southern Raised",
-          "url": "https://open.spotify.com/artist/4R6Hnjk4k3QzifbwQ05NQH"
+          "name": "Tony Rice Unit",
+          "url": "https://open.spotify.com/artist/4Of7rb2VkamHYwHhBjbwYg"
         }
       ],
-      "duration_ms": 351091,
-      "name": "The Good, the Bad and the Ugly",
-      "url": "https://open.spotify.com/track/2FxI0pkOFZPmgv69vYlsSg"
+      "duration_ms": 156932,
+      "name": "Blackberry Blossom",
+      "url": "https://open.spotify.com/track/3rGzzWcBktMg6x1yyTiTLA"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1631,26 +1631,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "The Gasoline Brothers",
-        "url": "https://open.spotify.com/album/19w0zikbLZgW8v7BKjyeTX"
-      },
-      "artists": [
-        {
-          "name": "David Grisman",
-          "url": "https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O"
-        },
-        {
-          "name": "Tony Rice",
-          "url": "https://open.spotify.com/artist/6N9hyojoLChEhlsS8vYnyr"
-        }
-      ],
-      "duration_ms": 196032,
-      "name": "Old Joe Clark",
-      "url": "https://open.spotify.com/track/6p54JGVQTiP2oT8UBnOW8L"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "Me & My Guitar",
         "url": "https://open.spotify.com/album/17TJYoQWwccA98WnuVxwLy"
       },
@@ -1667,22 +1647,22 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Weevils in the Grits",
-        "url": "https://open.spotify.com/album/40Yxmocscw8TzoyID1h45C"
+        "name": "The Gasoline Brothers",
+        "url": "https://open.spotify.com/album/19w0zikbLZgW8v7BKjyeTX"
       },
       "artists": [
         {
-          "name": "Sami Braman",
-          "url": "https://open.spotify.com/artist/3ESdsDgxcy5caRV6Ufcwre"
+          "name": "David Grisman",
+          "url": "https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O"
         },
         {
-          "name": "Brittany Haas",
-          "url": "https://open.spotify.com/artist/35HI5ILDlg2vduaII47ItP"
+          "name": "Tony Rice",
+          "url": "https://open.spotify.com/artist/6N9hyojoLChEhlsS8vYnyr"
         }
       ],
-      "duration_ms": 221061,
-      "name": "Weevils in the Grits",
-      "url": "https://open.spotify.com/track/5npvIsHPd35M5JioSnVJHs"
+      "duration_ms": 196032,
+      "name": "Old Joe Clark",
+      "url": "https://open.spotify.com/track/6p54JGVQTiP2oT8UBnOW8L"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1727,6 +1707,26 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
+        "name": "Weevils in the Grits",
+        "url": "https://open.spotify.com/album/40Yxmocscw8TzoyID1h45C"
+      },
+      "artists": [
+        {
+          "name": "Sami Braman",
+          "url": "https://open.spotify.com/artist/3ESdsDgxcy5caRV6Ufcwre"
+        },
+        {
+          "name": "Brittany Haas",
+          "url": "https://open.spotify.com/artist/35HI5ILDlg2vduaII47ItP"
+        }
+      ],
+      "duration_ms": 221061,
+      "name": "Weevils in the Grits",
+      "url": "https://open.spotify.com/track/5npvIsHPd35M5JioSnVJHs"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
         "name": "Moonbeam",
         "url": "https://open.spotify.com/album/1VTipkjGNb0kofaMblqkT2"
       },
@@ -1755,26 +1755,6 @@
       "duration_ms": 196875,
       "name": "Cellopickin'",
       "url": "https://open.spotify.com/track/656nmSiyqb2Y5Hv1M795ux"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Impromptu Sessions No. 2: Dominick Leslie & Ric Robertson (Trust In Most)",
-        "url": "https://open.spotify.com/album/5Ox4AXjm8naieQbNqyAW78"
-      },
-      "artists": [
-        {
-          "name": "Dominick Leslie",
-          "url": "https://open.spotify.com/artist/5dTs3hLoBfuhLiGRiQcmgu"
-        },
-        {
-          "name": "Ric Robertson",
-          "url": "https://open.spotify.com/artist/7euJV43X9MeQnoQFSELd25"
-        }
-      ],
-      "duration_ms": 222646,
-      "name": "East Virginia Blues",
-      "url": "https://open.spotify.com/track/37LaaqKaMg5ivz0qMeRzKw"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1811,18 +1791,38 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Frost On The Pumpkin",
-        "url": "https://open.spotify.com/album/3tGGJ6PaBqUVQYJlVRtxbu"
+        "name": "Impromptu Sessions No. 2: Dominick Leslie & Ric Robertson (Trust In Most)",
+        "url": "https://open.spotify.com/album/5Ox4AXjm8naieQbNqyAW78"
       },
       "artists": [
         {
-          "name": "Kenny Baker",
-          "url": "https://open.spotify.com/artist/2hdWa1ITLNBBtU5CM0m2Jg"
+          "name": "Dominick Leslie",
+          "url": "https://open.spotify.com/artist/5dTs3hLoBfuhLiGRiQcmgu"
+        },
+        {
+          "name": "Ric Robertson",
+          "url": "https://open.spotify.com/artist/7euJV43X9MeQnoQFSELd25"
         }
       ],
-      "duration_ms": 153066,
-      "name": "Back Up And Push",
-      "url": "https://open.spotify.com/track/7au8g5pl9gJiivYFhua16z"
+      "duration_ms": 222646,
+      "name": "East Virginia Blues",
+      "url": "https://open.spotify.com/track/37LaaqKaMg5ivz0qMeRzKw"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/4BSggug7Bz1IigGofkmIAv"
+      },
+      "artists": [
+        {
+          "name": "Ethan Setiawan",
+          "url": "https://open.spotify.com/artist/4PiLSMo2ZPdBLhSNv1Rggn"
+        }
+      ],
+      "duration_ms": 372746,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/4UvzGgR2uGRwqq6QDGQzl8"
     }
   ],
   "unique_name": "Instrumental Bluegrass",

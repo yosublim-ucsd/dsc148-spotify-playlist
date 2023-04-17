@@ -4,13 +4,14 @@
 
 > Let's celebrate Pet Day with Måneskin\. Cover: Victoria De Angelis with Chili De Angelis
 
-322 songs - 20 hr 12 min
+325 songs - 20 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(pls\) set me on fire](https://open.spotify.com/track/0Z1Xxix96HUYYL6RScOQqG) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [\(pls\) set me on fire](https://open.spotify.com/album/5Y1o9GddlN87GHzM3NkPdk) | 3:04 | 2023-01-16 | 2023-02-03 |
 | [100\-99 \(feat\. GoldLink\)](https://open.spotify.com/track/5XlcnTmdhoAJBZT1aR4dAd) | [Albert Hammond Jr](https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [100\-99 \(feat\. GoldLink\)](https://open.spotify.com/album/6d0VbhJaKP5a4snEUTFmGg) | 3:36 | 2023-04-10 |  |
-| [72 Seasons](https://open.spotify.com/track/6txhb14PWs9yrkTgR2jnU4) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/5vFa10TvQUWpEv9OkVBatc) | 7:39 | 2023-04-10 |  |
+| [72 Seasons](https://open.spotify.com/track/4poeu6nUr4UQo1RXpp29Js) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 7:39 | 2023-04-13 |  |
+| [72 Seasons](https://open.spotify.com/track/6txhb14PWs9yrkTgR2jnU4) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/5vFa10TvQUWpEv9OkVBatc) | 7:39 | 2023-04-10 | 2023-04-17 |
 | [A Line](https://open.spotify.com/track/73gS8oIeBx85oEDce2Mkgg) | [Body Type](https://open.spotify.com/artist/2gOqvEhTe5TjetSBfivC4D) | [Everything Is Dangerous But Nothing's Surprising](https://open.spotify.com/album/02isuorLo6tPExAe4qGVAD) | 3:10 | 2022-05-26 | 2022-06-10 |
 | [abcdefu \(angrier\)](https://open.spotify.com/track/1EQFOouqdKYdpbNoOHRVO2) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu \(angrier\)](https://open.spotify.com/album/23M1xUF2RoRSvXtpwQP4rJ) | 2:39 | 2022-05-06 |  |
 | [ADHD](https://open.spotify.com/track/3ZqJEsAtQrrVVkWAOaqkRt) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [Shape & Form](https://open.spotify.com/album/7q1CcQco23wrR3dpVd87kL) | 2:45 | 2022-10-06 | 2023-02-17 |
@@ -137,7 +138,8 @@
 | [I Say Too Much](https://open.spotify.com/track/3J2loLgNiCIxkGLlcv3RRM) | [Jaime Wong](https://open.spotify.com/artist/6SzwY0WC15s1MJh3BO9xtz) | [I Say Too Much](https://open.spotify.com/album/1P09nNc98o5NKtwcx61XRK) | 2:40 | 2022-09-01 | 2023-01-17 |
 | [I WANNA BE YOUR SLAVE](https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 2:53 | 2022-05-06 | 2023-01-20 |
 | [Iconic](https://open.spotify.com/track/7oTImlbBuKpTLi8hokqYR1) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Harder Than It Looks](https://open.spotify.com/album/0NgcYDpxXtgTADvZdVTLtP) | 3:05 | 2022-05-06 | 2023-02-17 |
-| [If Darkness Had a Son](https://open.spotify.com/track/69HjtjyHuP8KJT7xBaUmtW) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [If Darkness Had a Son](https://open.spotify.com/album/07wqwU4JaQl7XTWwfiAobb) | 6:36 | 2023-03-03 |  |
+| [If Darkness Had a Son](https://open.spotify.com/track/3i4Nwzze8zflIoKsuoeBPM) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 6:36 | 2023-04-13 |  |
+| [If Darkness Had a Son](https://open.spotify.com/track/69HjtjyHuP8KJT7xBaUmtW) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [If Darkness Had a Son](https://open.spotify.com/album/07wqwU4JaQl7XTWwfiAobb) | 6:36 | 2023-03-03 | 2023-04-17 |
 | [If I Can Dream \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/4yibMEwSzelLmFtyXwWwZs) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [If I Can Dream \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/5q021NVGXBp7c9QPpZnijt) | 3:16 | 2022-06-16 |  |
 | [If You Say the Word](https://open.spotify.com/track/3pmSHIHtJC289ImufO7uor) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [If You Say the Word](https://open.spotify.com/album/0SvYW67Kes52rOZziDO9uC) | 4:20 | 2022-05-06 | 2022-08-26 |
 | [Invisible \- Songs Of Surrender](https://open.spotify.com/track/40EiOxrNDU2DObDLOgcbdw) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Surrender](https://open.spotify.com/album/3fqPfbVHsvdpovpJXOJlvU) | 4:23 | 2023-03-16 | 2023-04-11 |
@@ -233,7 +235,8 @@
 | [Save Yourself \- Japanese Version](https://open.spotify.com/track/2noRPwBUD3h98s09YuxHf9) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Save Yourself](https://open.spotify.com/album/1xs19Gxdqwyb3jfNQlEOUo) | 3:17 | 2022-06-23 | 2022-07-08 |
 | [Scarlette](https://open.spotify.com/track/1OtgC9xZIw2aSOWGHiAOgX) | [Windrunner](https://open.spotify.com/artist/7GqHmgqt4wkWHZr8fcc9P7), [Valiant Hearts](https://open.spotify.com/artist/23JfHao7GdCfsGkXw4jJl8) | [Scarlette](https://open.spotify.com/album/5R48HkJTMQLaN3DthQCD7D) | 4:30 | 2022-05-06 | 2022-09-02 |
 | [scream!](https://open.spotify.com/track/4ns5zRv5YXKZTfiGx3qEE0) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [scream!](https://open.spotify.com/album/2sCqph9s39xDKrZBZVtlHY) | 3:19 | 2022-05-06 | 2022-05-16 |
-| [Screaming Suicide](https://open.spotify.com/track/6ZCh9hBeFzMIPycRnyPqZT) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Screaming Suicide](https://open.spotify.com/album/5RuyqGjhakCG2teiB6VkaC) | 5:30 | 2023-01-20 |  |
+| [Screaming Suicide](https://open.spotify.com/track/2zSb2Db4kNYH5qIs5V3BgG) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 5:30 | 2023-04-13 |  |
+| [Screaming Suicide](https://open.spotify.com/track/6ZCh9hBeFzMIPycRnyPqZT) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Screaming Suicide](https://open.spotify.com/album/5RuyqGjhakCG2teiB6VkaC) | 5:30 | 2023-01-20 | 2023-04-17 |
 | [SCRIPTVRE](https://open.spotify.com/track/7FPVeszuwXH2ppPaU46Fjn) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [SCRIPTVRE](https://open.spotify.com/album/1HvgwiANKWRPQPq6BNM5BY) | 3:49 | 2022-05-06 | 2023-01-20 |
 | [Seasick](https://open.spotify.com/track/7fR3tnzsPKVNZTx4Ms871S) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Seasick](https://open.spotify.com/album/5WdjEWFKc0aznBIb01FHo7) | 2:30 | 2022-06-30 | 2022-07-28 |
 | [SELF\-SABOTAGE \(feat\. Good Charlotte\)](https://open.spotify.com/track/0Xio3TJaKcH819kEPjjLyS) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu), [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [SELF\-SABOTAGE \(feat\. Good Charlotte\)](https://open.spotify.com/album/5a8LFWG62uq5jiigTMxW3W) | 2:37 | 2022-09-22 | 2022-12-16 |

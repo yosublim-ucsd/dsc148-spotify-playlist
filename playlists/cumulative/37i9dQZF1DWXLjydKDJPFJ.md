@@ -4,7 +4,7 @@
 
 > Compare, prenda el carbón y saque la bocina que ya se armó la carnita.
 
-274 songs - 14 hr 56 min
+275 songs - 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Me La Avente](https://open.spotify.com/track/2QwMXe5zbqymDZGYsMDVqZ) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Malo](https://open.spotify.com/album/7kTcIz6EDhc8G0QCyvpOpH) | 2:35 | 2021-12-08 | 2022-07-29 |
 | [Me La Avente](https://open.spotify.com/track/3ahvKiNH7l6EpnTnzkZpG1) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Malo](https://open.spotify.com/album/4fvBzXczcpD346IFgtWnaI) | 2:35 | 2021-12-08 |  |
 | [Me Metí En El Ruedo](https://open.spotify.com/track/7KNSQcLwrl3bNEuV1OVHtv) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 2](https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS) | 2:54 | 2021-12-08 |  |
+| [Mentira No Es](https://open.spotify.com/track/6cmZSeILXKvgFRpUcDGQHZ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Mentira No Es](https://open.spotify.com/album/6Eb0XXaJ6oEVPclUXz1kz9) | 3:20 | 2023-04-14 |  |
 | [Mi Casa Nueva](https://open.spotify.com/track/0YqxST7jMa8B4Ecr1675u6) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Aguanta Corazón](https://open.spotify.com/album/1rtPiqPMmhjLP1cNBTb5q5) | 2:50 | 2021-12-08 | 2022-07-29 |
 | [Mi Golondrina](https://open.spotify.com/track/0U1HpcV2UChQzOIQGLZv7T) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [En Vivo..\. El Hombre Y Su Musica](https://open.spotify.com/album/6CQHDMfFOGqspVTHRBZugx) | 2:58 | 2021-12-08 | 2022-11-13 |
 | [Mi Golondrina \- En Vivo](https://open.spotify.com/track/1oXTiFmljKee2o6tmOO8sR) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [En Vivo...El Hombre Y Su Musica](https://open.spotify.com/album/6HniHEkUrAv3Gb14p7qayA) | 2:58 | 2021-12-08 | 2022-06-11 |
@@ -248,7 +249,7 @@
 | [Te Amo](https://open.spotify.com/track/2Y1qcW4b9aVRnX1fHaVvxY) | [Los Mier](https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ) | [Mi Historia](https://open.spotify.com/album/3XqjOolTMs2plXorDGZINS) | 2:55 | 2021-12-08 |  |
 | [Te Felicito](https://open.spotify.com/track/5S5iGgjym5A1JUDAv50wYg) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Unas Mías y Otras Prestadas, Vol\. 2](https://open.spotify.com/album/6sF3LfhZPhZWAbdzsJ6hHz) | 3:44 | 2023-02-01 |  |
 | [Te Perdonaría](https://open.spotify.com/track/0fOcoVDRswPO5bIviynzvJ) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Te Perdonaría](https://open.spotify.com/album/6L8a3pdMbTjgHWluN2TLdz) | 2:36 | 2023-04-14 |  |
-| [TE QUIERO](https://open.spotify.com/track/7r3xWBPAiFNZS7QVxXc3HJ) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [TE QUIERO](https://open.spotify.com/album/4JQx52nfJX5YfcEMTs1ceq) | 2:33 | 2023-02-01 |  |
+| [TE QUIERO](https://open.spotify.com/track/7r3xWBPAiFNZS7QVxXc3HJ) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [TE QUIERO](https://open.spotify.com/album/4JQx52nfJX5YfcEMTs1ceq) | 2:33 | 2023-02-01 | 2023-04-17 |
 | [Te Quiero A Tí](https://open.spotify.com/track/4v9dVYIvD3EFuzWiXngmDq) | [A.B\. Quintanilla III Y Los Kumbia Kings](https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL) | [Amor, Familia Y Respeto](https://open.spotify.com/album/5XuNzqgx79H4Z2jhfdzFFQ) | 3:14 | 2021-12-08 | 2023-03-14 |
 | [Te Quiero Mucho](https://open.spotify.com/track/6PyD9wjBeQB2pFZJl14KsM) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [De Corazón Norteño](https://open.spotify.com/album/2OU5N16ujMgsEehujn2eUe) | 3:23 | 2021-12-08 | 2023-02-01 |
 | [Te Quiero Mucho](https://open.spotify.com/track/6l6gnB0E9BxlryxdfLm1ZX) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [La Más Completa Colección \(Disc 1 \- Mexico\)](https://open.spotify.com/album/1O7FgObNhY9QVdLxO636Xs) | 3:24 | 2021-12-08 | 2022-06-11 |

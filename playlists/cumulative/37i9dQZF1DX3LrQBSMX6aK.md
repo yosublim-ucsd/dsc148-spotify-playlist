@@ -4,7 +4,7 @@
 
 > Classical compositions from Ravi Shankar and more.
 
-72 songs - 17 hr 22 min
+73 songs - 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Ananda Nadamadum Tillai Sankara](https://open.spotify.com/track/6n0zRU7mAzwLyuvswZM4Zq) | [L\. Shankar](https://open.spotify.com/artist/5X75aYCKG5hS5yONW4IPRr) | [Who's To Know \- Indian Classical Music](https://open.spotify.com/album/3OMXlAb0CBDAq37LajekYQ) | 23:53 | 2021-12-07 |  |
 | [Bairan](https://open.spotify.com/track/3VkIejOeatDUJGq9faLncj) | [Shakir Khan](https://open.spotify.com/artist/1y8wQpxPrJamcHovxJu9UX), [Aarya Ambekar](https://open.spotify.com/artist/5eq2uN2yinN4ZJezM2N9Gm) | [Taurat](https://open.spotify.com/album/2LsJpdLEVENc7rjVOBu935) | 5:01 | 2021-12-07 |  |
 | [Bheempalas\-Ek Taal \(feat\. Charudatta Phadke\)](https://open.spotify.com/track/6oSEq00mzuxI7FpRNc84qc) | [Milind Date](https://open.spotify.com/artist/7zF7CHrGMDojcnsWUWJvlx), [Charudatta Phadke](https://open.spotify.com/artist/61h6rVGmXRAWbWB8Q0tdIR) | [Swar Venu](https://open.spotify.com/album/6eHZYEfasxwW7VLVLUOrH5) | 12:15 | 2023-01-15 |  |
+| [Bindiya Ka Rang Uda Jaye \- Raga Bhairavi \- Tala Dadra](https://open.spotify.com/track/6sVEyEssNWWbX8eABiNfdN) | [Manjusha Patil](https://open.spotify.com/artist/3LDjhTMmzOTXWXcnteHHcU), [Suyog Kundalkar](https://open.spotify.com/artist/2MShZojcDtiCJtodRnKWbk), [Prashant Pandav](https://open.spotify.com/artist/2lHCSPBPOfpetcA99KlhYR) | [Bindiya Ka Rang \- Dadra](https://open.spotify.com/album/6qaUTjlKmx2mkOz8drtklF) | 7:36 | 2023-04-16 |  |
 | [Brochevarevarurar](https://open.spotify.com/track/5gRW0aQdzRizSiXVvfLsLl) | [A\. Kanyakumari](https://open.spotify.com/artist/1KpLrWibd8HAU54JqTgEaH) | [Strings Of Harmony \- Violin On 3 Octaves](https://open.spotify.com/album/4MuwtJ3EQ0ibtM4XLsjxob) | 5:28 | 2021-12-07 |  |
 | [Chandrakaush Alap](https://open.spotify.com/track/4hrp2BLqRV6XO2oOp5IVeY) | [Nikhil Banerjee](https://open.spotify.com/artist/7ieM2QOG3mf89WSTAfGvu1) | [Chandrakaush Khamaj 1967](https://open.spotify.com/album/4fY7XyZhcMPXyqXo5FOkh7) | 20:24 | 2021-12-07 |  |
 | [Darbari Kanara Jod and Jhalla](https://open.spotify.com/track/7kXIHzGUKI7pwOUadVeNvt) | [Sayan Ghosh](https://open.spotify.com/artist/0v2VcLKH6etQ0HycMXTiJ6), [Tamaghna Chakraborty](https://open.spotify.com/artist/55xb23Tep4vdgQeVqFKCVw) | [Raag Darbari Kannada](https://open.spotify.com/album/6xFMAWesokFJbF1iwmASBb) | 7:11 | 2023-01-02 |  |
@@ -27,7 +28,7 @@
 | [Kaliyugavaradana](https://open.spotify.com/track/27YrqgpUZ0xWwGW5TSy11W) | [U\. Srinivas](https://open.spotify.com/artist/4vC2GtOXDzAfthZ4gnFowC) | [Rama Sreerama](https://open.spotify.com/album/6GYoGq7MnyEe3CyTA7lEw0) | 4:44 | 2021-12-07 | 2022-07-29 |
 | [Kaliyugavaradana](https://open.spotify.com/track/7JiPoVDTmteJ0USnow2C1p) | [U\. Srinivas](https://open.spotify.com/artist/4vC2GtOXDzAfthZ4gnFowC) | [Rama Sreerama](https://open.spotify.com/album/3l9Iy9Fae5OinuELBH1gCq) | 4:44 | 2022-07-26 | 2023-01-16 |
 | [Mangal Bhairav\-Jod](https://open.spotify.com/track/2pPM04AXTJX2PPkYiOrKXc) | [Milind Date](https://open.spotify.com/artist/7zF7CHrGMDojcnsWUWJvlx) | [Prabhat Sagar](https://open.spotify.com/album/42DZZlRvrsRP2MkzHoabLy) | 9:52 | 2022-12-09 |  |
-| [Meevalla](https://open.spotify.com/track/0qgq1JUHLMv2K6YJdt959l) | [E\. Gayathri](https://open.spotify.com/artist/0L2KwWWDMeKwkYDlGWJw0B) | [Veena \(Carnatic Classical\) Vol\. 2](https://open.spotify.com/album/0tsVdUojduaZzkaCPBEWlZ) | 3:24 | 2021-12-07 |  |
+| [Meevalla](https://open.spotify.com/track/0qgq1JUHLMv2K6YJdt959l) | [E\. Gayathri](https://open.spotify.com/artist/0L2KwWWDMeKwkYDlGWJw0B) | [Veena \(Carnatic Classical\) Vol\. 2](https://open.spotify.com/album/0tsVdUojduaZzkaCPBEWlZ) | 3:24 | 2021-12-07 | 2023-04-17 |
 | [Mohanam](https://open.spotify.com/track/3QZfNbGGwSoh6dEcJyhXAs) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6), [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY) | [Mohanam](https://open.spotify.com/album/1piZvuK9Rmli3wiCk3VETp) | 5:59 | 2023-01-20 |  |
 | [Mori Painjainiya \(Raag Hamsadhwani\)](https://open.spotify.com/track/1c6L8hhEgq8fEvT4MuHmdk) | [Ronkini Gupta](https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4), [Ashish Ragwani](https://open.spotify.com/artist/5En4yYFch66YWFTavXtuuO) | [Mori Painjainiya \(Raag Hamsadhwani\)](https://open.spotify.com/album/3j4OOZZ3pOjgu5plv09AAw) | 5:36 | 2021-12-07 |  |
 | [Om Namah Shivay](https://open.spotify.com/track/2S2Z0ll0OMa16uBT5UDvIa) | [Pandit Jasraj](https://open.spotify.com/artist/6vvIQFcpGLIum7HYhYwNx0), [Sanjeev Abhyankar](https://open.spotify.com/artist/70napPWBnaiRereRVDhyB1) | [Spiritual Legacy](https://open.spotify.com/album/1k4ohi81faehwtDi0lYfFp) | 8:36 | 2021-12-07 |  |

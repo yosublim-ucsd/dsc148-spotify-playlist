@@ -1,12 +1,12 @@
 {
   "description": "I rapper pi\u00f9 forti del mondo in una sola playlist. Cover: Drake",
-  "num_followers": 202778,
+  "num_followers": 202794,
   "original_name": "Rap Internazionale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQyMzI2MCwwMDAwMDAwMDE4NGZhOGRhM2QyZDIyZmRkNWU3OWQ1NTIyMDdjZDE2",
+  "snapshot_id": "MTY4MTQyMzI2MCwwMDAwMDAwMDhkYzNhOTVhNzAxNDg2YWIxMTU1N2ZjY2YyNDQwN2Rl",
   "tracks": [
     {
       "added_at": "2023-04-13 22:01:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "In My Head",
-        "url": "https://open.spotify.com/album/4I00tpvL54vnWy49vH5fRK"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "In My Head",
-      "url": "https://open.spotify.com/track/2RJAKIw6nIkgZVsAIKhmqz"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
         "name": "HOTEL LOBBY (Unc & Phew)",
         "url": "https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 142657,
       "name": "HOTEL LOBBY (Unc & Phew)",
       "url": "https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/4I00tpvL54vnWy49vH5fRK"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/2RJAKIw6nIkgZVsAIKhmqz"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -911,6 +911,26 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
+        "name": "Moulaga",
+        "url": "https://open.spotify.com/album/2k7vGyQFY5ILNhRf6Ia68J"
+      },
+      "artists": [
+        {
+          "name": "Heuss L'enfoir\u00e9",
+          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
+        },
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 179868,
+      "name": "Moulaga",
+      "url": "https://open.spotify.com/track/5BfCoUcWNXcpyJfjXRIeyC"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
         "name": "Cap\u00edtulo 1",
         "url": "https://open.spotify.com/album/0jps45S3BLg0ObqAyboGVb"
       },
@@ -935,26 +955,6 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "Moulaga",
-        "url": "https://open.spotify.com/album/2k7vGyQFY5ILNhRf6Ia68J"
-      },
-      "artists": [
-        {
-          "name": "Heuss L'enfoir\u00e9",
-          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
-        },
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        }
-      ],
-      "duration_ms": 179868,
-      "name": "Moulaga",
-      "url": "https://open.spotify.com/track/5BfCoUcWNXcpyJfjXRIeyC"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
         "name": "DS4EVER",
         "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
       },
@@ -975,6 +975,30 @@
       "duration_ms": 136266,
       "name": "pushin P (feat. Young Thug)",
       "url": "https://open.spotify.com/track/3XOalgusokruzA5ZBA2Qcb"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
+        "name": "06 Gucci (feat. DaBaby & 21 Savage)",
+        "url": "https://open.spotify.com/album/6K67robZZpglKEFuNQWtsr"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 178950,
+      "name": "06 Gucci (feat. DaBaby & 21 Savage)",
+      "url": "https://open.spotify.com/track/4mWbFYZ9P14Ulf1LIFZGhH"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -1023,30 +1047,6 @@
       "duration_ms": 135264,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/1HvTxgCj0mTzQlEo0zLvFb"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "06 Gucci (feat. DaBaby & 21 Savage)",
-        "url": "https://open.spotify.com/album/6K67robZZpglKEFuNQWtsr"
-      },
-      "artists": [
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 178950,
-      "name": "06 Gucci (feat. DaBaby & 21 Savage)",
-      "url": "https://open.spotify.com/track/4mWbFYZ9P14Ulf1LIFZGhH"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -1203,6 +1203,34 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
+        "name": "4EVA (feat. Pharrell Williams)",
+        "url": "https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx"
+      },
+      "artists": [
+        {
+          "name": "KAYTRAMIN\u00c9",
+          "url": "https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy"
+        },
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 190373,
+      "name": "4EVA (feat. Pharrell Williams)",
+      "url": "https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
         "name": "Me & You",
         "url": "https://open.spotify.com/album/6V5o0b3ALGp5hkSew9Ms42"
       },
@@ -1215,22 +1243,6 @@
       "duration_ms": 187034,
       "name": "Me & You",
       "url": "https://open.spotify.com/track/12Us8e6NFesdkXKf4StU1I"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "Poland",
-        "url": "https://open.spotify.com/album/5LZiWbqOpj6g8uxSHch12S"
-      },
-      "artists": [
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        }
-      ],
-      "duration_ms": 83200,
-      "name": "Poland",
-      "url": "https://open.spotify.com/track/74loibzxXRL875X20kenvk"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -1263,18 +1275,18 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "Come Home The Kids Miss You",
-        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+        "name": "Poland",
+        "url": "https://open.spotify.com/album/5LZiWbqOpj6g8uxSHch12S"
       },
       "artists": [
         {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
         }
       ],
-      "duration_ms": 135053,
-      "name": "Dua Lipa",
-      "url": "https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4"
+      "duration_ms": 83200,
+      "name": "Poland",
+      "url": "https://open.spotify.com/track/74loibzxXRL875X20kenvk"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -1295,6 +1307,42 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 135053,
+      "name": "Dua Lipa",
+      "url": "https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
+        "name": "Princess Diana (with Nicki Minaj)",
+        "url": "https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 172125,
+      "name": "Princess Diana (with Nicki Minaj)",
+      "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
         "name": "AIN'T GONNA ANSWER",
         "url": "https://open.spotify.com/album/55HRw5hcRFhf3uSljPqZqA"
       },
@@ -1311,34 +1359,6 @@
       "duration_ms": 187453,
       "name": "AIN'T GONNA ANSWER",
       "url": "https://open.spotify.com/track/2NV0mpU5YbyJXydzYPgw5O"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "4EVA (feat. Pharrell Williams)",
-        "url": "https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx"
-      },
-      "artists": [
-        {
-          "name": "KAYTRAMIN\u00c9",
-          "url": "https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy"
-        },
-        {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
-        },
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        }
-      ],
-      "duration_ms": 190373,
-      "name": "4EVA (feat. Pharrell Williams)",
-      "url": "https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -1403,26 +1423,6 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "Down In Atlanta",
-        "url": "https://open.spotify.com/album/3SxiMoJROq0kvfbQtd75xp"
-      },
-      "artists": [
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 164041,
-      "name": "Down In Atlanta",
-      "url": "https://open.spotify.com/track/5unjCay0kUjuej5ebn4nS4"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
         "name": "POPSTAR (feat. Drake)",
         "url": "https://open.spotify.com/album/5nNtpPsSUgb9Hlb3dF1gXa"
       },
@@ -1439,6 +1439,26 @@
       "duration_ms": 200221,
       "name": "POPSTAR (feat. Drake)",
       "url": "https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
+        "name": "Down In Atlanta",
+        "url": "https://open.spotify.com/album/3SxiMoJROq0kvfbQtd75xp"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 164041,
+      "name": "Down In Atlanta",
+      "url": "https://open.spotify.com/track/5unjCay0kUjuej5ebn4nS4"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -1507,6 +1527,26 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/55ZLjifyJc6wpZ07D2DcLV"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 189450,
+      "name": "Blackout",
+      "url": "https://open.spotify.com/track/0B0Xu2ih8fWpcwyxAt1c7m"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
         "name": "Fighting Demons (Deluxe)",
         "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
       },
@@ -1555,26 +1595,6 @@
       "duration_ms": 152137,
       "name": "TO THE MOON",
       "url": "https://open.spotify.com/track/5vUnjhBzRJJIAOJPde6zDx"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "Blackout",
-        "url": "https://open.spotify.com/album/55ZLjifyJc6wpZ07D2DcLV"
-      },
-      "artists": [
-        {
-          "name": "Joyner Lucas",
-          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 189450,
-      "name": "Blackout",
-      "url": "https://open.spotify.com/track/0B0Xu2ih8fWpcwyxAt1c7m"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -1859,6 +1879,22 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
+        "name": "Traumazine",
+        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 137107,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/5hHvFrMnwic82WwRLr4WY0"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
         "name": "Night Away (Dance) (feat. Tion Wayne)",
         "url": "https://open.spotify.com/album/6WQPgcOtZCoXGBZQOxDJQ0"
       },
@@ -1879,22 +1915,6 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "Traumazine",
-        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 137107,
-      "name": "Her",
-      "url": "https://open.spotify.com/track/5hHvFrMnwic82WwRLr4WY0"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
         "name": "I'M THAT BITCH",
         "url": "https://open.spotify.com/album/3XZmrh1D5RI5kvz5N6i6Lp"
       },
@@ -1911,22 +1931,6 @@
       "duration_ms": 152043,
       "name": "I'M THAT BITCH",
       "url": "https://open.spotify.com/track/39uEuUEWsAZtozSQRPlf62"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "Distraction",
-        "url": "https://open.spotify.com/album/30OwIxHqQILQ9vwd86sD3o"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 171319,
-      "name": "Distraction",
-      "url": "https://open.spotify.com/track/1oc92BMKYkNxK17C2GtyRM"
     }
   ],
   "unique_name": "Rap Internazionale",

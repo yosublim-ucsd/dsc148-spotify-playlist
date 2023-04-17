@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
-  "num_followers": 15797,
+  "num_followers": 15817,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ1NTkwMiwwMDAwMDAwMGYxN2Y0MzJjMGY4NDlkOWUwN2I2YjhhNjQ0MDk5OTk2",
+  "snapshot_id": "MTY4MTQ1NTkwMiwwMDAwMDAwMDFiMmMwNDhhMmFhZmIyZDMyMjYxNDRjYTc4ZDIzM2U1",
   "tracks": [
     {
       "added_at": "2023-04-14 07:05:02",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-04-14 07:05:02",
       "album": {
-        "name": "My Fair Lady",
-        "url": "https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza"
-      },
-      "artists": [
-        {
-          "name": "Shelly Manne And His Friends",
-          "url": "https://open.spotify.com/artist/4NmuwMxBl62HSU4nXZYLUf"
-        }
-      ],
-      "duration_ms": 362040,
-      "name": "With A Little Bit Of Luck - Instrumental",
-      "url": "https://open.spotify.com/track/2sYInNWcg7ZL9cLobvs0oo"
-    },
-    {
-      "added_at": "2023-04-14 07:05:02",
-      "album": {
         "name": "Harold In The Land Of Jazz",
         "url": "https://open.spotify.com/album/4VvgRg2qKq70YWZjKGepiG"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 426533,
       "name": "Grooveyard",
       "url": "https://open.spotify.com/track/2DS10kEktKybLiPI30WvFG"
+    },
+    {
+      "added_at": "2023-04-14 07:05:02",
+      "album": {
+        "name": "My Fair Lady",
+        "url": "https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza"
+      },
+      "artists": [
+        {
+          "name": "Shelly Manne And His Friends",
+          "url": "https://open.spotify.com/artist/4NmuwMxBl62HSU4nXZYLUf"
+        }
+      ],
+      "duration_ms": 362040,
+      "name": "With A Little Bit Of Luck - Instrumental",
+      "url": "https://open.spotify.com/track/2sYInNWcg7ZL9cLobvs0oo"
     },
     {
       "added_at": "2023-04-14 07:05:02",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-04-14 07:05:02",
       "album": {
-        "name": "My Fair Lady",
-        "url": "https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza"
-      },
-      "artists": [
-        {
-          "name": "Shelly Manne And His Friends",
-          "url": "https://open.spotify.com/artist/4NmuwMxBl62HSU4nXZYLUf"
-        }
-      ],
-      "duration_ms": 338773,
-      "name": "On The Street Where You Live - Instrumental",
-      "url": "https://open.spotify.com/track/5kvgi3kVbX8AQ8kjpgEyuv"
-    },
-    {
-      "added_at": "2023-04-14 07:05:02",
-      "album": {
         "name": "Jimmy Raney Featuring Bob Brookmeyer",
         "url": "https://open.spotify.com/album/2M5HUcSTnSBgJt1zB9Xjvp"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 244466,
       "name": "Sometime Ago",
       "url": "https://open.spotify.com/track/0OshedQ1Ylcgxcr3c23BQV"
+    },
+    {
+      "added_at": "2023-04-14 07:05:02",
+      "album": {
+        "name": "My Fair Lady",
+        "url": "https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza"
+      },
+      "artists": [
+        {
+          "name": "Shelly Manne And His Friends",
+          "url": "https://open.spotify.com/artist/4NmuwMxBl62HSU4nXZYLUf"
+        }
+      ],
+      "duration_ms": 338773,
+      "name": "On The Street Where You Live - Instrumental",
+      "url": "https://open.spotify.com/track/5kvgi3kVbX8AQ8kjpgEyuv"
     },
     {
       "added_at": "2023-04-14 07:05:02",
@@ -611,6 +611,22 @@
     {
       "added_at": "2023-04-14 07:05:02",
       "album": {
+        "name": "Chico Hamilton Quintet In Hi-Fi",
+        "url": "https://open.spotify.com/album/2dFpm1YkRBmyINNSAOYMGg"
+      },
+      "artists": [
+        {
+          "name": "Chico Hamilton Quintet",
+          "url": "https://open.spotify.com/artist/46KGomcx6B13NuFgu6GNT6"
+        }
+      ],
+      "duration_ms": 219760,
+      "name": "The Wind",
+      "url": "https://open.spotify.com/track/3BeZhOKQMg67oQ5NA1ChB2"
+    },
+    {
+      "added_at": "2023-04-14 07:05:02",
+      "album": {
         "name": "Sonny Stitt, Bud Powell, J.J. Johnson",
         "url": "https://open.spotify.com/album/7qbujqTVR3B9ED9DqGd1sB"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 225906,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/6DT90JA5wdKatQf12NynLb"
-    },
-    {
-      "added_at": "2023-04-14 07:05:02",
-      "album": {
-        "name": "Chico Hamilton Quintet In Hi-Fi",
-        "url": "https://open.spotify.com/album/2dFpm1YkRBmyINNSAOYMGg"
-      },
-      "artists": [
-        {
-          "name": "Chico Hamilton Quintet",
-          "url": "https://open.spotify.com/artist/46KGomcx6B13NuFgu6GNT6"
-        }
-      ],
-      "duration_ms": 219760,
-      "name": "The Wind",
-      "url": "https://open.spotify.com/track/3BeZhOKQMg67oQ5NA1ChB2"
     },
     {
       "added_at": "2023-04-14 07:05:02",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-04-14 07:05:02",
       "album": {
-        "name": "Nothing But The Blues",
-        "url": "https://open.spotify.com/album/3looSg4zNUFzKAyyos640A"
-      },
-      "artists": [
-        {
-          "name": "Herb Ellis",
-          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
-        }
-      ],
-      "duration_ms": 361760,
-      "name": "Patti Cake",
-      "url": "https://open.spotify.com/track/5mAWOB72eW90rZtr3wzcYE"
-    },
-    {
-      "added_at": "2023-04-14 07:05:02",
-      "album": {
         "name": "What Is There To Say?",
         "url": "https://open.spotify.com/album/0NUxMpyjIOP71y3NaThnTW"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 303533,
       "name": "News From Blueport",
       "url": "https://open.spotify.com/track/19cN9w8acuY1mhelpksd6h"
+    },
+    {
+      "added_at": "2023-04-14 07:05:02",
+      "album": {
+        "name": "Nothing But The Blues",
+        "url": "https://open.spotify.com/album/3looSg4zNUFzKAyyos640A"
+      },
+      "artists": [
+        {
+          "name": "Herb Ellis",
+          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
+        }
+      ],
+      "duration_ms": 361760,
+      "name": "Patti Cake",
+      "url": "https://open.spotify.com/track/5mAWOB72eW90rZtr3wzcYE"
     },
     {
       "added_at": "2023-04-14 07:05:02",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-04-14 07:05:02",
       "album": {
-        "name": "Monterey Concerts",
-        "url": "https://open.spotify.com/album/1nIZG4Rb0iAzzqo5UgcF2t"
-      },
-      "artists": [
-        {
-          "name": "Cal Tjader",
-          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
-        }
-      ],
-      "duration_ms": 605400,
-      "name": "Walkin' With Wally - live",
-      "url": "https://open.spotify.com/track/2jrutFIbGBJqT8FdSRisuJ"
-    },
-    {
-      "added_at": "2023-04-14 07:05:02",
-      "album": {
         "name": "Stan Getz At The Shrine",
         "url": "https://open.spotify.com/album/2fXvQcPb7ZVTr0GqLE1j12"
       },
@@ -835,18 +819,18 @@
     {
       "added_at": "2023-04-14 07:05:02",
       "album": {
-        "name": "The Quartet and the Quintet",
-        "url": "https://open.spotify.com/album/6p27kZ6ymuGGZoXNapHwt9"
+        "name": "Monterey Concerts",
+        "url": "https://open.spotify.com/album/1nIZG4Rb0iAzzqo5UgcF2t"
       },
       "artists": [
         {
-          "name": "Jack Sheldon",
-          "url": "https://open.spotify.com/artist/0AP9ck0QA9iqnCWJ16G7qj"
+          "name": "Cal Tjader",
+          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
         }
       ],
-      "duration_ms": 195546,
-      "name": "Ahmoore",
-      "url": "https://open.spotify.com/track/4lsys7hGDgypUoMZFvi9ke"
+      "duration_ms": 605400,
+      "name": "Walkin' With Wally - live",
+      "url": "https://open.spotify.com/track/2jrutFIbGBJqT8FdSRisuJ"
     },
     {
       "added_at": "2023-04-14 07:05:02",
@@ -863,6 +847,22 @@
       "duration_ms": 410800,
       "name": "Brandenburg Gate",
       "url": "https://open.spotify.com/track/4p71KdIiYX7KQrkXoXE32X"
+    },
+    {
+      "added_at": "2023-04-14 07:05:02",
+      "album": {
+        "name": "The Quartet and the Quintet",
+        "url": "https://open.spotify.com/album/6p27kZ6ymuGGZoXNapHwt9"
+      },
+      "artists": [
+        {
+          "name": "Jack Sheldon",
+          "url": "https://open.spotify.com/artist/0AP9ck0QA9iqnCWJ16G7qj"
+        }
+      ],
+      "duration_ms": 195546,
+      "name": "Ahmoore",
+      "url": "https://open.spotify.com/track/4lsys7hGDgypUoMZFvi9ke"
     }
   ],
   "unique_name": "West Coast Jazz",

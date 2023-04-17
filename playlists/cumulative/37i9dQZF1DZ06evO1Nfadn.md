@@ -4,7 +4,7 @@
 
 > This is Banda Maguey\. The essential tracks, all in one playlist.
 
-86 songs - 4 hr 6 min
+87 songs - 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Bajo Mil Llaves](https://open.spotify.com/track/0MzJVPncnI3QcDe4dSSdcF) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella de Los Bailes](https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU) | 2:27 | 2022-06-02 | 2022-10-11 |
 | [Brinca Brita](https://open.spotify.com/track/0PLFV9ddyrQ7josGKivRTi) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Lo Que Son las Cosas](https://open.spotify.com/album/1ems7HK5yY95MtyNCDKKDi) | 3:14 | 2022-06-01 |  |
 | [Báilalo Suavecito](https://open.spotify.com/track/4xqSBX0ygS4UZZqpzdCGWy) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [15 Canciones Favoritas](https://open.spotify.com/album/7bQTZGWH4siZ5JBnGsOAcU) | 2:38 | 2022-06-01 | 2022-10-12 |
-| [Como Chapulin](https://open.spotify.com/track/2i63GltjvYmpj8hGioLfN5) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña](https://open.spotify.com/album/7Ja4lDuleKTZV67LuqlGA5) | 2:34 | 2022-06-01 |  |
+| [Como Chapulin](https://open.spotify.com/track/2i63GltjvYmpj8hGioLfN5) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña](https://open.spotify.com/album/7Ja4lDuleKTZV67LuqlGA5) | 2:34 | 2022-06-01 | 2023-04-17 |
 | [Como la Luna](https://open.spotify.com/track/70tWNfuIdbEL51aiR0kJav) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella de Los Bailes](https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU) | 3:01 | 2022-06-01 |  |
 | [Corazon Corazoncito](https://open.spotify.com/track/6rd0Dpq4bZrb5V9ZQhkjar) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña](https://open.spotify.com/album/7Ja4lDuleKTZV67LuqlGA5) | 2:22 | 2022-07-13 | 2022-09-10 |
 | [Corazon De Oro](https://open.spotify.com/track/1Z1zgVs2cRnfigMGvITbzQ) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña](https://open.spotify.com/album/7Ja4lDuleKTZV67LuqlGA5) | 3:25 | 2022-06-01 |  |
@@ -39,6 +39,7 @@
 | [El Polvorete](https://open.spotify.com/track/5GvgB8SL5laT3ZdRvt3VD0) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [A Corazón Abierto](https://open.spotify.com/album/40pLKjuTNiEgIiUeaXQ2Lk) | 2:50 | 2022-06-02 | 2022-07-30 |
 | [El Teterete](https://open.spotify.com/track/505QALTxkpzRI7FY4kuS2J) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella de Los Bailes](https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU) | 2:57 | 2022-06-01 |  |
 | [El Toca Toca](https://open.spotify.com/track/48eyqkxVkl5nKOdHp5WIxv) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [A Corazón Abierto](https://open.spotify.com/album/40pLKjuTNiEgIiUeaXQ2Lk) | 2:46 | 2022-06-01 |  |
+| [El Toro Pinto](https://open.spotify.com/track/1Bintm3VasQng30o97U9D3) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [El Toro Pinto](https://open.spotify.com/album/7l2PClmsLcKhI0p3FDL65N) | 3:31 | 2023-04-16 |  |
 | [El Zancudito](https://open.spotify.com/track/1Y3HAmViyeZjPisxX8R4H8) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tu Eterno Enamorado](https://open.spotify.com/album/1yVWFex6NKNjEpYzwbKkui) | 2:44 | 2022-06-01 |  |
 | [Estare Contigo](https://open.spotify.com/track/6WIMzW10yHaUBVr262fcAH) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella de Los Bailes](https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU) | 3:52 | 2022-06-22 | 2022-10-08 |
 | [Evidencias](https://open.spotify.com/track/1v24D8YVZIWfV9c8A3VkXU) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Pa Que Veas Lo Que Se Siente](https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg) | 3:36 | 2022-12-30 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The greatest operatic and orchestral works of Rossini, featuring William Tell, The Barber of Seville and Cinderella.",
-  "num_followers": 30602,
+  "num_followers": 30614,
   "original_name": "This Is Rossini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzIyMzg2MiwwMDAwMDAwMGY5OWE5OTE0Zjg3ZjdjZDA2YTU5ZGUyZjIzODZkOGY3",
+  "snapshot_id": "MTY1NzIyMzg2MiwwMDAwMDAwMDVlOGFhZGRkM2YwNjMwNWJiMThmZmE4OGY2ZWEyOTZm",
   "tracks": [
     {
       "added_at": "2022-06-28 08:38:32",
@@ -559,30 +559,6 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
-        "name": "Rossini: Overtures; Introduction, Theme and Variations for Clarinet and Orchestra",
-        "url": "https://open.spotify.com/album/4eicyHPyG6XCQyHCtTUjWE"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Charles Neidich",
-          "url": "https://open.spotify.com/artist/3lDahJNf7d4adku8fQj7pj"
-        },
-        {
-          "name": "Orpheus Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/35pZsti1RSA5Zv98jAm8kX"
-        }
-      ],
-      "duration_ms": 239493,
-      "name": "Introduction, Theme and Variations for Clarinet and Orchestra in E-Flat Major - Cadenza: Charles Neidich: Introduzione: Andante (sostenuto)",
-      "url": "https://open.spotify.com/track/7sJExZ0lqrwadGrY9kCOYg"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
         "name": "Rossini: La gazza ladra (Live)",
         "url": "https://open.spotify.com/album/2Yr7ygE0GfrjGutqpLLtNl"
       },
@@ -615,6 +591,30 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
+        "name": "Rossini: Overtures; Introduction, Theme and Variations for Clarinet and Orchestra",
+        "url": "https://open.spotify.com/album/4eicyHPyG6XCQyHCtTUjWE"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Charles Neidich",
+          "url": "https://open.spotify.com/artist/3lDahJNf7d4adku8fQj7pj"
+        },
+        {
+          "name": "Orpheus Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/35pZsti1RSA5Zv98jAm8kX"
+        }
+      ],
+      "duration_ms": 239493,
+      "name": "Introduction, Theme and Variations for Clarinet and Orchestra in E-Flat Major - Cadenza: Charles Neidich: Introduzione: Andante (sostenuto)",
+      "url": "https://open.spotify.com/track/7sJExZ0lqrwadGrY9kCOYg"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
         "name": "Rossini: Il Barbiere di Siviglia",
         "url": "https://open.spotify.com/album/2kSCA5c2qEXVIGmvtGwIXQ"
       },
@@ -635,54 +635,6 @@
       "duration_ms": 184840,
       "name": "Il barbiere di Siviglia / Act 2: No. 15 Temporale (Thunderstorm)",
       "url": "https://open.spotify.com/track/3mb8XLlJgkjq2gpuS8coAc"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
-        "name": "Rossini: Sonatas for Strings Nos. 4-6",
-        "url": "https://open.spotify.com/album/27aPo3i0FEH9zbUdkC2Re4"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Hungarian Virtuosi",
-          "url": "https://open.spotify.com/artist/5n7F8cHDE9RdCmot6yT93t"
-        },
-        {
-          "name": "Tam\u00e1s Benedek",
-          "url": "https://open.spotify.com/artist/22vrIuWtmcAZ88VolfCSIg"
-        }
-      ],
-      "duration_ms": 335946,
-      "name": "Sonata for Strings No. 6 in D Major, \"La tempesta\": III. Tempesta. Allegro",
-      "url": "https://open.spotify.com/track/5x28hgrb0v1oav4D9ZCUiS"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
-        "name": "Rossini: String Sonatas Nos. 1- 3",
-        "url": "https://open.spotify.com/album/2QK2kTzIja5lXsgJSJkl3p"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Hungarian Virtuosi",
-          "url": "https://open.spotify.com/artist/5n7F8cHDE9RdCmot6yT93t"
-        },
-        {
-          "name": "Tam\u00e1s Benedek",
-          "url": "https://open.spotify.com/artist/22vrIuWtmcAZ88VolfCSIg"
-        }
-      ],
-      "duration_ms": 431693,
-      "name": "Sonata for Strings No. 2 in A Major: I. Allegro",
-      "url": "https://open.spotify.com/track/577x8UR0DjTe4YqYEMndHh"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -739,6 +691,54 @@
       "duration_ms": 241946,
       "name": "L'Italiana in Algeri (The Italian Girl in Algiers): Act II Scene 4: Aria: Ho un gran peso sulla testa (Taddeo, Chorus)",
       "url": "https://open.spotify.com/track/63R1BY3EjDAuSUIHzSvYVj"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
+        "name": "Rossini: Sonatas for Strings Nos. 4-6",
+        "url": "https://open.spotify.com/album/27aPo3i0FEH9zbUdkC2Re4"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Hungarian Virtuosi",
+          "url": "https://open.spotify.com/artist/5n7F8cHDE9RdCmot6yT93t"
+        },
+        {
+          "name": "Tam\u00e1s Benedek",
+          "url": "https://open.spotify.com/artist/22vrIuWtmcAZ88VolfCSIg"
+        }
+      ],
+      "duration_ms": 335946,
+      "name": "Sonata for Strings No. 6 in D Major, \"La tempesta\": III. Tempesta. Allegro",
+      "url": "https://open.spotify.com/track/5x28hgrb0v1oav4D9ZCUiS"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
+        "name": "Rossini: String Sonatas Nos. 1- 3",
+        "url": "https://open.spotify.com/album/2QK2kTzIja5lXsgJSJkl3p"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Hungarian Virtuosi",
+          "url": "https://open.spotify.com/artist/5n7F8cHDE9RdCmot6yT93t"
+        },
+        {
+          "name": "Tam\u00e1s Benedek",
+          "url": "https://open.spotify.com/artist/22vrIuWtmcAZ88VolfCSIg"
+        }
+      ],
+      "duration_ms": 431693,
+      "name": "Sonata for Strings No. 2 in A Major: I. Allegro",
+      "url": "https://open.spotify.com/track/577x8UR0DjTe4YqYEMndHh"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -1159,30 +1159,6 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
-        "name": "Rossini: String Sonatas, Vol.2",
-        "url": "https://open.spotify.com/album/660Q1nlgVtVI4S94fJ3Eiu"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Filarmonica del Teatro Comunale di Bologna",
-          "url": "https://open.spotify.com/artist/58QCnSrGJD5DhqH4hTgjT3"
-        },
-        {
-          "name": "Riccardo Chailly",
-          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
-        }
-      ],
-      "duration_ms": 230666,
-      "name": "Sinfonia in D - \"al Conventello\" - ed. Philip Gossett",
-      "url": "https://open.spotify.com/track/1P2Fto8ycsOkJe3nEb9K67"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
         "name": "Rossini: String Sonatas, etc.",
         "url": "https://open.spotify.com/album/5ggYuXtjLMHHYlEfr06Jwu"
       },
@@ -1203,6 +1179,30 @@
       "duration_ms": 429160,
       "name": "Serenata in E flat",
       "url": "https://open.spotify.com/track/4qjZkq9W5CPdJMKTJuvKl6"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
+        "name": "Rossini: String Sonatas, Vol.2",
+        "url": "https://open.spotify.com/album/660Q1nlgVtVI4S94fJ3Eiu"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Filarmonica del Teatro Comunale di Bologna",
+          "url": "https://open.spotify.com/artist/58QCnSrGJD5DhqH4hTgjT3"
+        },
+        {
+          "name": "Riccardo Chailly",
+          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
+        }
+      ],
+      "duration_ms": 230666,
+      "name": "Sinfonia in D - \"al Conventello\" - ed. Philip Gossett",
+      "url": "https://open.spotify.com/track/1P2Fto8ycsOkJe3nEb9K67"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -1407,6 +1407,34 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
+        "name": "Rossini: Il barbiere di Siviglia; La Cenerentola; L'Italiana in Algeri; Il viaggio a Reims",
+        "url": "https://open.spotify.com/album/7u9uW03SaWgRSaDEQyWmN8"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Enzo Dara",
+          "url": "https://open.spotify.com/artist/03SZ5zVrrY9ydcNEqpaQrZ"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "duration_ms": 366226,
+      "name": "Il barbiere di Siviglia, Act I: No. 8, Aria. A un dottor della mia sorte",
+      "url": "https://open.spotify.com/track/6EUtAuCpqmZvnjNczByRBy"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
         "name": "Rossini: Semiramide",
         "url": "https://open.spotify.com/album/63xmfwgcmJYlxTCIHvI2UA"
       },
@@ -1463,34 +1491,6 @@
       "duration_ms": 458173,
       "name": "Semiramide: Act I Scene 8: Ah dov'e, dov'e il cimento? (Idreno)",
       "url": "https://open.spotify.com/track/56bSi0LsUurOGZZ1SBbmB5"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
-        "name": "Rossini: Il barbiere di Siviglia; La Cenerentola; L'Italiana in Algeri; Il viaggio a Reims",
-        "url": "https://open.spotify.com/album/7u9uW03SaWgRSaDEQyWmN8"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Enzo Dara",
-          "url": "https://open.spotify.com/artist/03SZ5zVrrY9ydcNEqpaQrZ"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "Claudio Abbado",
-          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
-        }
-      ],
-      "duration_ms": 366226,
-      "name": "Il barbiere di Siviglia, Act I: No. 8, Aria. A un dottor della mia sorte",
-      "url": "https://open.spotify.com/track/6EUtAuCpqmZvnjNczByRBy"
     },
     {
       "added_at": "2022-06-28 08:38:32",

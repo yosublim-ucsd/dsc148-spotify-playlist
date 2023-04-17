@@ -1,12 +1,12 @@
 {
   "description": "Male artists singing about love.",
-  "num_followers": 713539,
+  "num_followers": 713757,
   "original_name": "In the Arms of a Woman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODU5NDAwOSwwMDAwMDAwMGJkYmQyNmEzZjA2NTJkYjMxN2UwZjA2ZTE0Y2MyZDNi",
+  "snapshot_id": "MTY2ODU5NDAwOSwwMDAwMDAwMGJjNmFmYTY1YmViZDQwNzQ0ZTVmMWM5OGIzZDVjMzIz",
   "tracks": [
     {
       "added_at": "2022-08-26 12:00:00",
@@ -187,22 +187,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Only Human (Deluxe)",
-        "url": "https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 204326,
-      "name": "You Are The Reason",
-      "url": "https://open.spotify.com/track/69vToJ9BMbbLlFZo7k7A7B"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Agent Provocateur",
         "url": "https://open.spotify.com/album/4oQhDQDKMeI6IMlwpXt3j8"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 304786,
       "name": "I Want to Know What Love Is - 1999 Remaster",
       "url": "https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Only Human (Deluxe)",
+        "url": "https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 204326,
+      "name": "You Are The Reason",
+      "url": "https://open.spotify.com/track/69vToJ9BMbbLlFZo7k7A7B"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -315,22 +315,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "The Singles (Expanded)",
-        "url": "https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 206360,
-      "name": "Against All Odds (Take a Look at Me Now) - 2016 Remaster",
-      "url": "https://open.spotify.com/track/63CHa6rmamv9OsehkRD8oz"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Chicago X",
         "url": "https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P"
       },
@@ -347,18 +331,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Repeat Offender",
-        "url": "https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG"
+        "name": "The Singles (Expanded)",
+        "url": "https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah"
       },
       "artists": [
         {
-          "name": "Richard Marx",
-          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
         }
       ],
-      "duration_ms": 264333,
-      "name": "Right Here Waiting",
-      "url": "https://open.spotify.com/track/4LFwNJWoj74Yd71fIr1W8x"
+      "duration_ms": 206360,
+      "name": "Against All Odds (Take a Look at Me Now) - 2016 Remaster",
+      "url": "https://open.spotify.com/track/63CHa6rmamv9OsehkRD8oz"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -375,6 +359,22 @@
       "duration_ms": 353026,
       "name": "Always",
       "url": "https://open.spotify.com/track/2RChe0r2cMoyOvuKobZy44"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Repeat Offender",
+        "url": "https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG"
+      },
+      "artists": [
+        {
+          "name": "Richard Marx",
+          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
+        }
+      ],
+      "duration_ms": 264333,
+      "name": "Right Here Waiting",
+      "url": "https://open.spotify.com/track/4LFwNJWoj74Yd71fIr1W8x"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Solitude / Solitaire",
-        "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
-      },
-      "artists": [
-        {
-          "name": "Peter Cetera",
-          "url": "https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z"
-        }
-      ],
-      "duration_ms": 258333,
-      "name": "Glory of Love",
-      "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Hi Infidelity (30th Anniversary Edition)",
         "url": "https://open.spotify.com/album/0X4ZNTZw7SYgrp5rlBQC3N"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 200293,
       "name": "Keep on Loving You",
       "url": "https://open.spotify.com/track/4rcHWl68ai6KvpXlc8vbnE"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Solitude / Solitaire",
+        "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
+      },
+      "artists": [
+        {
+          "name": "Peter Cetera",
+          "url": "https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z"
+        }
+      ],
+      "duration_ms": 258333,
+      "name": "Glory of Love",
+      "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -907,18 +907,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "XO",
-        "url": "https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1"
+        "name": "18 Til I Die",
+        "url": "https://open.spotify.com/album/29t8lxRlQIyG4K5Xaydt46"
       },
       "artists": [
         {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
         }
       ],
-      "duration_ms": 213626,
-      "name": "XO",
-      "url": "https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v"
+      "duration_ms": 291666,
+      "name": "Have You Ever Really Loved A Woman?",
+      "url": "https://open.spotify.com/track/32Gf5A7Hr8RdgggXG0Fdks"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -939,18 +939,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "18 Til I Die",
-        "url": "https://open.spotify.com/album/29t8lxRlQIyG4K5Xaydt46"
+        "name": "XO",
+        "url": "https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1"
       },
       "artists": [
         {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 291666,
-      "name": "Have You Ever Really Loved A Woman?",
-      "url": "https://open.spotify.com/track/32Gf5A7Hr8RdgggXG0Fdks"
+      "duration_ms": 213626,
+      "name": "XO",
+      "url": "https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Love Always",
-        "url": "https://open.spotify.com/album/5cmtcMzuUZq8vxS5T7NVPu"
-      },
-      "artists": [
-        {
-          "name": "K-Ci & JoJo",
-          "url": "https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK"
-        }
-      ],
-      "duration_ms": 331240,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/5GorFaKkP2mLREQvhSblIg"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "All-4-One",
         "url": "https://open.spotify.com/album/4L5ZA0GukWNWjsk9b7HHDy"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 259853,
       "name": "I Swear",
       "url": "https://open.spotify.com/track/4WUnM4KNZ0kjp0CUeoyOnS"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Love Always",
+        "url": "https://open.spotify.com/album/5cmtcMzuUZq8vxS5T7NVPu"
+      },
+      "artists": [
+        {
+          "name": "K-Ci & JoJo",
+          "url": "https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK"
+        }
+      ],
+      "duration_ms": 331240,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/5GorFaKkP2mLREQvhSblIg"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/6fQ1xPtYMzoBiqvSO2LcpT"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 234106,
-      "name": "Naked",
-      "url": "https://open.spotify.com/track/7krbSH3rd8lhIZvuzTV3Bl"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Welcome To The Real World",
         "url": "https://open.spotify.com/album/682sQ449vmcJXS2AGIMrsl"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 343933,
       "name": "Broken Wings",
       "url": "https://open.spotify.com/track/78FHUZRbFDCG6VkRAQdFLm"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/6fQ1xPtYMzoBiqvSO2LcpT"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 234106,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/7krbSH3rd8lhIZvuzTV3Bl"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Love Songs (A Compilation Old and New)",
-        "url": "https://open.spotify.com/album/7KZTL6gFUUCzNw4FfjVqCF"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 210733,
-      "name": "A Groovy Kind of Love",
-      "url": "https://open.spotify.com/track/5OHUTC4EvTbL0DuZQRIGGX"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Say You Won't Let Go",
         "url": "https://open.spotify.com/album/0BL67dR6x0CPU7B7J9P8qC"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 211240,
       "name": "Say You Won't Let Go",
       "url": "https://open.spotify.com/track/1Pw5C4N6Fn5E4mGCxmbbVa"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Love Songs (A Compilation Old and New)",
+        "url": "https://open.spotify.com/album/7KZTL6gFUUCzNw4FfjVqCF"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 210733,
+      "name": "A Groovy Kind of Love",
+      "url": "https://open.spotify.com/track/5OHUTC4EvTbL0DuZQRIGGX"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1223,22 +1223,6 @@
       "duration_ms": 281200,
       "name": "All for Love",
       "url": "https://open.spotify.com/track/4lsEHglVsLzILTDQ3CNESV"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "No Jacket Required (2016 Remaster)",
-        "url": "https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 288973,
-      "name": "One More Night - 2016 Remaster",
-      "url": "https://open.spotify.com/track/6fkvIT9KFKxO8poBeKfaEf"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1335,6 +1319,22 @@
       "duration_ms": 205453,
       "name": "Marry Me",
       "url": "https://open.spotify.com/track/2MWOqewf5j0qf2b6S5J6cS"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "No Jacket Required (2016 Remaster)",
+        "url": "https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 288973,
+      "name": "One More Night - 2016 Remaster",
+      "url": "https://open.spotify.com/track/6fkvIT9KFKxO8poBeKfaEf"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Stop All the World Now (Special Edition)",
-        "url": "https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y"
-      },
-      "artists": [
-        {
-          "name": "Howie Day",
-          "url": "https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer"
-        }
-      ],
-      "duration_ms": 277000,
-      "name": "Collide - Acoustic Version",
-      "url": "https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Third Album",
         "url": "https://open.spotify.com/album/5d6X8oegJmu9XKn9UBAswG"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 237760,
       "name": "I'll Be There",
       "url": "https://open.spotify.com/track/5RdhBLmB4DyFHLglRrfx63"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Stop All the World Now (Special Edition)",
+        "url": "https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y"
+      },
+      "artists": [
+        {
+          "name": "Howie Day",
+          "url": "https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer"
+        }
+      ],
+      "duration_ms": 277000,
+      "name": "Collide - Acoustic Version",
+      "url": "https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Take It All Away (U.S. Version)",
-        "url": "https://open.spotify.com/album/78IbgGcKueK33SETMOQfaj"
-      },
-      "artists": [
-        {
-          "name": "Ryan Cabrera",
-          "url": "https://open.spotify.com/artist/3C4t1usFGoKHCSRdujm2GN"
-        }
-      ],
-      "duration_ms": 204173,
-      "name": "True",
-      "url": "https://open.spotify.com/track/0jdeV5dSB3kUBRqe1xQJbh"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Double Fantasy",
         "url": "https://open.spotify.com/album/1NWA2fPLUAW5df7UGI5thp"
       },
@@ -1747,18 +1731,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "The Seventh One",
-        "url": "https://open.spotify.com/album/7LVxCg18peWcBBdu7Xr6r3"
+        "name": "Take It All Away (U.S. Version)",
+        "url": "https://open.spotify.com/album/78IbgGcKueK33SETMOQfaj"
       },
       "artists": [
         {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+          "name": "Ryan Cabrera",
+          "url": "https://open.spotify.com/artist/3C4t1usFGoKHCSRdujm2GN"
         }
       ],
-      "duration_ms": 269226,
-      "name": "Stop Loving You",
-      "url": "https://open.spotify.com/track/73bzcsDjx9FqzqKWcPLMiH"
+      "duration_ms": 204173,
+      "name": "True",
+      "url": "https://open.spotify.com/track/0jdeV5dSB3kUBRqe1xQJbh"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1775,6 +1759,22 @@
       "duration_ms": 247733,
       "name": "My Love - 2018 Remaster",
       "url": "https://open.spotify.com/track/0Oj0TT23GBH2XuHAaSsloH"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "The Seventh One",
+        "url": "https://open.spotify.com/album/7LVxCg18peWcBBdu7Xr6r3"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        }
+      ],
+      "duration_ms": 269226,
+      "name": "Stop Loving You",
+      "url": "https://open.spotify.com/track/73bzcsDjx9FqzqKWcPLMiH"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Isaiah",
-        "url": "https://open.spotify.com/album/0Mcl4Qm47aTgoJ35CFGsQv"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Firebrace",
-          "url": "https://open.spotify.com/artist/5lXfVoQxVgC5fpjkVqvNYn"
-        }
-      ],
-      "duration_ms": 193446,
-      "name": "It's Gotta Be You",
-      "url": "https://open.spotify.com/track/6cAKeFFYW2aClZSUyvqAEW"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "The Gold Experience",
         "url": "https://open.spotify.com/album/7JdnQ7zCfqETcLgS94d3ks"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 265320,
       "name": "The Most Beautiful Girl In the World",
       "url": "https://open.spotify.com/track/0aPaGIX2QIMAH5SMp0VEMe"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Isaiah",
+        "url": "https://open.spotify.com/album/0Mcl4Qm47aTgoJ35CFGsQv"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Firebrace",
+          "url": "https://open.spotify.com/artist/5lXfVoQxVgC5fpjkVqvNYn"
+        }
+      ],
+      "duration_ms": 193446,
+      "name": "It's Gotta Be You",
+      "url": "https://open.spotify.com/track/6cAKeFFYW2aClZSUyvqAEW"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/1bnoqPJyaxMCtYuSprcBTD"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Can You Feel The Love Tonight",
-      "url": "https://open.spotify.com/track/67HKtdqchK0rmODxsBeWT8"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Acoustic Sessions",
         "url": "https://open.spotify.com/album/1U9wuhGG9sT1frxmyuoYNh"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 228146,
       "name": "Never Seen Anything \"Quite Like You\" - Acoustic",
       "url": "https://open.spotify.com/track/018Idkvf82hi44UZmIXiGB"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/1bnoqPJyaxMCtYuSprcBTD"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Can You Feel The Love Tonight",
+      "url": "https://open.spotify.com/track/67HKtdqchK0rmODxsBeWT8"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Amos Lee",
-        "url": "https://open.spotify.com/album/0hPXaSKyujqCej452raazD"
-      },
-      "artists": [
-        {
-          "name": "Amos Lee",
-          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
-        }
-      ],
-      "duration_ms": 251440,
-      "name": "Arms Of A Woman",
-      "url": "https://open.spotify.com/track/37pK088xTo1ZpR3y23wsFk"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Classics (Vol.4)",
         "url": "https://open.spotify.com/album/1vq5rtsUNR2tu5eJeG3uq8"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 162973,
       "name": "You Are So Beautiful",
       "url": "https://open.spotify.com/track/5Yo8iKcDFk5aJ2Pntaz8UH"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Amos Lee",
+        "url": "https://open.spotify.com/album/0hPXaSKyujqCej452raazD"
+      },
+      "artists": [
+        {
+          "name": "Amos Lee",
+          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+        }
+      ],
+      "duration_ms": 251440,
+      "name": "Arms Of A Woman",
+      "url": "https://open.spotify.com/track/37pK088xTo1ZpR3y23wsFk"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2323,22 +2323,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "The Big Picture",
-        "url": "https://open.spotify.com/album/7ndxdHA40ZLx0jH0V6fjz9"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 308840,
-      "name": "Something About The Way You Look Tonight",
-      "url": "https://open.spotify.com/track/4l4mSq8IKgCMz0q9KFZ7tK"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "The Best of Luther Vandross The Best of Love",
         "url": "https://open.spotify.com/album/5rrSO0mgkVmZF1qjPn0TKD"
       },
@@ -2351,6 +2335,22 @@
       "duration_ms": 323000,
       "name": "Here and Now",
       "url": "https://open.spotify.com/track/042pmCix7CPth3l3X28jl1"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "The Big Picture",
+        "url": "https://open.spotify.com/album/7ndxdHA40ZLx0jH0V6fjz9"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 308840,
+      "name": "Something About The Way You Look Tonight",
+      "url": "https://open.spotify.com/track/4l4mSq8IKgCMz0q9KFZ7tK"
     },
     {
       "added_at": "2022-08-26 12:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 601122,
+  "num_followers": 601243,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc3MDE1NSwwMDAwMDAwMDNlYTc4OGM4N2FlYWY2NGZiMWM0ODBkOWY4MGZhOTky",
+  "snapshot_id": "MTY3Nzc3MDE1NSwwMDAwMDAwMGYzYmM3M2E0YjJmOTgyODdiNDJjZjZkMmVlZmM1ODY2",
   "tracks": [
     {
       "added_at": "2022-12-21 12:27:58",
@@ -251,6 +251,22 @@
     {
       "added_at": "2022-12-21 12:27:58",
       "album": {
+        "name": "Zum Gl\u00fcck in die Zukunft II",
+        "url": "https://open.spotify.com/album/6Ttnb4f8aPy7ytDJqV10FT"
+      },
+      "artists": [
+        {
+          "name": "Marteria",
+          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
+        }
+      ],
+      "duration_ms": 229573,
+      "name": "Kids (2 Finger an den Kopf)",
+      "url": "https://open.spotify.com/track/6lxTIMeCLEkj48TlCRG3XX"
+    },
+    {
+      "added_at": "2022-12-21 12:27:58",
+      "album": {
         "name": "Advanced Chemistry",
         "url": "https://open.spotify.com/album/5rBJ9tt8jQ0PQLc0dBlNJI"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 253680,
       "name": "Ahnma",
       "url": "https://open.spotify.com/track/1sr9lbDDGIxmFK7wUdA1Z8"
-    },
-    {
-      "added_at": "2022-12-21 12:27:58",
-      "album": {
-        "name": "Zum Gl\u00fcck in die Zukunft II",
-        "url": "https://open.spotify.com/album/6Ttnb4f8aPy7ytDJqV10FT"
-      },
-      "artists": [
-        {
-          "name": "Marteria",
-          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
-        }
-      ],
-      "duration_ms": 229573,
-      "name": "Kids (2 Finger an den Kopf)",
-      "url": "https://open.spotify.com/track/6lxTIMeCLEkj48TlCRG3XX"
     },
     {
       "added_at": "2022-12-21 12:27:58",
@@ -647,6 +647,22 @@
     {
       "added_at": "2022-12-21 12:27:58",
       "album": {
+        "name": "MT3",
+        "url": "https://open.spotify.com/album/23e9X1a2ODDLWDi9Go747g"
+      },
+      "artists": [
+        {
+          "name": "Massive T\u00f6ne",
+          "url": "https://open.spotify.com/artist/1Ia0ZFqTFENtoU9bxYUsKJ"
+        }
+      ],
+      "duration_ms": 235266,
+      "name": "Cruisen",
+      "url": "https://open.spotify.com/track/6e5kuZssmkwWL3Yt4jwTRy"
+    },
+    {
+      "added_at": "2022-12-21 12:27:58",
+      "album": {
         "name": "Beat of Life, Vol. 1",
         "url": "https://open.spotify.com/album/1x0sohs1p9hvf2RtLdUiXY"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 209626,
       "name": "Kimnotyze",
       "url": "https://open.spotify.com/track/6Hn28vF3xTsg7ukG1pGIDF"
-    },
-    {
-      "added_at": "2022-12-21 12:27:58",
-      "album": {
-        "name": "MT3",
-        "url": "https://open.spotify.com/album/23e9X1a2ODDLWDi9Go747g"
-      },
-      "artists": [
-        {
-          "name": "Massive T\u00f6ne",
-          "url": "https://open.spotify.com/artist/1Ia0ZFqTFENtoU9bxYUsKJ"
-        }
-      ],
-      "duration_ms": 235266,
-      "name": "Cruisen",
-      "url": "https://open.spotify.com/track/6e5kuZssmkwWL3Yt4jwTRy"
     },
     {
       "added_at": "2022-12-21 12:27:58",

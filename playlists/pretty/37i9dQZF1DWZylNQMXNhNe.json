@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits e novidades de artistas LGBTQIA+ est\u00e3o aqui. Foto: Majur",
-  "num_followers": 219322,
+  "num_followers": 219339,
   "original_name": "AUGE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTU4NjUwMSwwMDAwMDAwMDlkMGI0NTUyYzliMjY1MzhmMGJlNmUxNDNkYmUzZTE5",
+  "snapshot_id": "MTY4MTU4NjUwMSwwMDAwMDAwMGI0ZGVhNjVhMDAzNDUwNzE5YWNiYTMzNWNjMWU2NTkw",
   "tracks": [
     {
       "added_at": "2023-04-15 19:21:41",
@@ -611,6 +611,26 @@
     {
       "added_at": "2023-04-15 19:21:41",
       "album": {
+        "name": "Traviarcado",
+        "url": "https://open.spotify.com/album/29JRrndgwUbbGDjyEwre8y"
+      },
+      "artists": [
+        {
+          "name": "Bixarte",
+          "url": "https://open.spotify.com/artist/3Fpst9Ng2gdZjD0xfIla3o"
+        },
+        {
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "duration_ms": 142722,
+      "name": "Pitbull Sem Coleira",
+      "url": "https://open.spotify.com/track/01BOygx1zefZHjpmgkgqIA"
+    },
+    {
+      "added_at": "2023-04-15 19:21:41",
+      "album": {
         "name": "Emoji de Fogo (Danny Bond & Cyberkills Remix)",
         "url": "https://open.spotify.com/album/4OcBz7AFm3PVFIB6aLIrXU"
       },
@@ -635,26 +655,6 @@
     {
       "added_at": "2023-04-15 19:21:41",
       "album": {
-        "name": "Traviarcado",
-        "url": "https://open.spotify.com/album/29JRrndgwUbbGDjyEwre8y"
-      },
-      "artists": [
-        {
-          "name": "Bixarte",
-          "url": "https://open.spotify.com/artist/3Fpst9Ng2gdZjD0xfIla3o"
-        },
-        {
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
-        }
-      ],
-      "duration_ms": 142722,
-      "name": "Pitbull Sem Coleira",
-      "url": "https://open.spotify.com/track/01BOygx1zefZHjpmgkgqIA"
-    },
-    {
-      "added_at": "2023-04-15 19:21:41",
-      "album": {
         "name": "LIA (pt.1)",
         "url": "https://open.spotify.com/album/65MKPvNVH77wWCFayg1TTX"
       },
@@ -667,22 +667,6 @@
       "duration_ms": 137753,
       "name": "VRAU",
       "url": "https://open.spotify.com/track/3oNteV2lmIV0R19Jalc7Pd"
-    },
-    {
-      "added_at": "2023-04-15 19:21:41",
-      "album": {
-        "name": "PITAYAS",
-        "url": "https://open.spotify.com/album/0YsItDdtGBBHzROpoKYajk"
-      },
-      "artists": [
-        {
-          "name": "PITAYAS",
-          "url": "https://open.spotify.com/artist/6KXzBlb5GgUeAnmqNKut6R"
-        }
-      ],
-      "duration_ms": 169714,
-      "name": "Macetada",
-      "url": "https://open.spotify.com/track/51v7dQ3f2vGBOdYxIemOyY"
     },
     {
       "added_at": "2023-04-15 19:21:41",
@@ -707,6 +691,22 @@
       "duration_ms": 153917,
       "name": "Arrasany 3.0",
       "url": "https://open.spotify.com/track/1T1EV8CFAbuJujBS94K245"
+    },
+    {
+      "added_at": "2023-04-15 19:21:41",
+      "album": {
+        "name": "PITAYAS",
+        "url": "https://open.spotify.com/album/0YsItDdtGBBHzROpoKYajk"
+      },
+      "artists": [
+        {
+          "name": "PITAYAS",
+          "url": "https://open.spotify.com/artist/6KXzBlb5GgUeAnmqNKut6R"
+        }
+      ],
+      "duration_ms": 169714,
+      "name": "Macetada",
+      "url": "https://open.spotify.com/track/51v7dQ3f2vGBOdYxIemOyY"
     },
     {
       "added_at": "2023-04-15 19:21:41",

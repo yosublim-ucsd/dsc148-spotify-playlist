@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0lyPY3TrtOd.md) - [plain]
 
 > Extatische gevoelens met prachtige muziek
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,765 likes - 70 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,768 likes - 70 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

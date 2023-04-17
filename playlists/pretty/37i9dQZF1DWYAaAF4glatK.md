@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAaAF4glatK.md) - [plain]
 
 ### [Summer Hits](https://open.spotify.com/playlist/37i9dQZF1DWYAaAF4glatK)
 
-> Plus que 10 semaines avant l'été ! 🍦
+> Plus que 9 semaines avant l'été ! 🍦
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,648 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,739 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAaAF4glatK.md) - [plain]
 | 49 | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc) | 2:35 |
 | 50 | [We Could Be Together](https://open.spotify.com/track/3ElGRG3DqSzzkh1b2wnbzf) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Daddy DJ](https://open.spotify.com/artist/2Bc52Zzq4Hx7Dqm0Qw8bJL) | [We Could Be Together \(feat\. Daddy DJ\)](https://open.spotify.com/album/7xgmfo0gHFJk9DNdOfqBNn) | 2:29 |
 
-Snapshot ID: `MTY4MTQyNjgwMCwwMDAwMDAwMGQ3MWI3OWFjZGIxZjllZDFjMmQ1YjUyNzE4ZjNmODBj`
+Snapshot ID: `MTY4MTY4MjQwMCwwMDAwMDAwMDI4MGQ1NTYyNjViNjI1ZWFhMGFmOWRkNmM0ZmMyNmVk`

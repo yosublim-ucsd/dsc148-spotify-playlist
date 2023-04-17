@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchlyaSeZp0q.md) - [plain]
 
 > Soul for the blues\. Cover: Otis Redding.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,459 likes - 40 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,769 likes - 40 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchlyaSeZp0q.md) - [plain]
 | 30 | [The Love I Lost \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/4mumFsUDQXpQts1Y7Zjw5H) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Black & Blue \(Expanded Edition\) \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N) | 6:24 |
 | 31 | [Then You Can Tell Me Goodbye](https://open.spotify.com/track/1bDjWyTOXs0sxQMC1mchSM) | [Bettye Swann](https://open.spotify.com/artist/0g3EsNvUCwgpsdkAiIC50W) | [Bettye Swann](https://open.spotify.com/album/1oHCwJLBDoKDOfdznsRjNs) | 3:46 |
 | 32 | [It Should Have Been Me](https://open.spotify.com/track/3lQNVAMwqcxFCJj8mI1izh) | [Yvonne Fair](https://open.spotify.com/artist/4mGB0olhR5RpsEZWn0cqA8) | [The Bitch Is Black](https://open.spotify.com/album/0ehXIeOOjIrlCFXv7Bv8CS) | 3:33 |
-| 33 | [He Called Me Baby](https://open.spotify.com/track/3zIiZrCROmhS9ERPdEHXYa) | [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [Stand By Your Man](https://open.spotify.com/album/5FSETqzUj1EAlIVvPYmv5r) | 3:33 |
-| 34 | [One Step Ahead](https://open.spotify.com/track/0dSRoWYf0GOzX9L44g53sZ) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [A Bit Of Soul](https://open.spotify.com/album/2RmmiMocgFh0MxSeUy6D0S) | 2:33 |
+| 33 | [One Step Ahead](https://open.spotify.com/track/0dSRoWYf0GOzX9L44g53sZ) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [A Bit Of Soul](https://open.spotify.com/album/2RmmiMocgFh0MxSeUy6D0S) | 2:33 |
+| 34 | [He Called Me Baby](https://open.spotify.com/track/3zIiZrCROmhS9ERPdEHXYa) | [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [Stand By Your Man](https://open.spotify.com/album/5FSETqzUj1EAlIVvPYmv5r) | 3:33 |
 | 35 | [The Dark End of the Street](https://open.spotify.com/track/5vWMCGVeGxp3PEdvpDN3a0) | [James Carr](https://open.spotify.com/artist/59fzcTUsoozikLmRY1SwHS) | [You Got My Mind Messed Up](https://open.spotify.com/album/1akOJm6k5Y4Kp0NdoBNa8j) | 2:33 |
 | 36 | [Why Can't We Live Together](https://open.spotify.com/track/722E6CPY8biq4sUnf40u6Y) | [Timmy Thomas](https://open.spotify.com/artist/7JLwBH0X2G8tgHceqvOu5B) | [Why Can't We Live Together](https://open.spotify.com/album/0HN6yWzRIaLKPnSFdeBtAO) | 4:37 |
 | 37 | [I've Got Dreams to Remember](https://open.spotify.com/track/4Ym0HjYfgEaUgjI3WuDqMK) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Very Best of Otis Redding](https://open.spotify.com/album/28Pt7Q4ikXNPOEbtGnKlFA) | 3:15 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchlyaSeZp0q.md) - [plain]
 | 39 | [Do What You Gotta Do](https://open.spotify.com/track/2tF6qsoOtu92PzCTk4OKOf) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Chapter Two](https://open.spotify.com/album/3IOY0CeApn7qAjL6k5pRz4) | 4:09 |
 | 40 | [I Miss You \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/5y0yvFr9dAsT1ycNUYSRPl) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Harold Melvin & The Blue Notes \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef) | 8:38 |
 
-Snapshot ID: `MTY2MjY0OTA4NCwwMDAwMDAwMGVlOWYyMGY5NTc4ZTg1ZDE4OTQ4YTY4YjA2OTZlZmI2`
+Snapshot ID: `MTY2MjY0OTA4NCwwMDAwMDAwMDgzYzJhNzdkZWIxMDVmMjk3NzdjZmRiZTA3ZjUzNDRk`

@@ -4,7 +4,7 @@
 
 > Explore the ever\-evolving folk & roots scene\. Cover: The Tallest Man On Earth
 
-374 songs - 23 hr 13 min
+375 songs - 23 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,8 @@
 | [Hear It Again](https://open.spotify.com/track/4CLPOmWL4IPkLa7vC0RFQU) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Hear It Again](https://open.spotify.com/album/6vR4nfemxHqPfzlv4dVp8i) | 3:53 | 2021-12-10 | 2022-02-26 |
 | [heaven from here \(with Penny and Sparrow\)](https://open.spotify.com/track/14zduMrtXG6iAyoozpQhDA) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:03 | 2021-12-10 | 2022-01-22 |
 | [Help Me Remember](https://open.spotify.com/track/0u0MIKwM1AfCU8UAjnJ6aH) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [Help Me Remember](https://open.spotify.com/album/70X4wmZSGoVBIxuFGfd7y4) | 4:55 | 2021-12-10 | 2022-06-04 |
-| [Hiding Out In The Open](https://open.spotify.com/track/3S8fsWbSzwTAbyRXWnLugk) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/2uDbIwcvfGsMEbzeU3iyoU) | 3:21 | 2023-03-24 |  |
+| [Hiding Out In The Open](https://open.spotify.com/track/3S8fsWbSzwTAbyRXWnLugk) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/2uDbIwcvfGsMEbzeU3iyoU) | 3:21 | 2023-03-24 | 2023-04-17 |
+| [Hiding Out In The Open](https://open.spotify.com/track/6Q34tUtXLuWst5c63ddQ7N) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn) | 3:21 | 2023-04-14 |  |
 | [Hiding Out In The Open](https://open.spotify.com/track/6rN8cR7iEcC1hAlHF4UpSN) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/4GErH8Za9b4VutH8jTSU1o) | 3:21 | 2023-02-24 | 2023-03-26 |
 | [Hitchin' a Ride](https://open.spotify.com/track/7oCx2L4JBKi6wQYhXzT8FN) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Hitchin' a Ride](https://open.spotify.com/album/52GMS1garIMItzvmogm1MF) | 4:30 | 2022-07-08 | 2023-01-06 |
 | [Hold My Hand](https://open.spotify.com/track/0v3lkM0UK7RfbtdkeycqdI) | [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Hold My Hand](https://open.spotify.com/album/0CyBAwMsqEOxlyUMIMB2I4) | 5:01 | 2022-09-02 | 2023-01-06 |

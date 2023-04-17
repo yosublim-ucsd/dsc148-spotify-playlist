@@ -4,7 +4,7 @@
 
 > Sonido contemporáneo y algunos clásicos\. <br/>Foto: Gorillaz
 
-182 songs - 11 hr 44 min
+183 songs - 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,8 @@
 | [Love Grows \(Where My Rosemary Goes\)](https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh) | [Edison Lighthouse](https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa) | [Love Grows \(Where My Rosemary Goes\) & Other Gems](https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y) | 2:54 | 2022-07-25 |  |
 | [Love Of Mine \- Night Visions Demo](https://open.spotify.com/track/4C20SN2nzLbsZbS6A4idoA) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Love Of Mine \(Night Visions Demo\)](https://open.spotify.com/album/3BAUn8SPQORLl49pDhR30l) | 4:09 | 2022-09-05 |  |
 | [Love, Reign O'er Me](https://open.spotify.com/track/5ZfsG6AXxJBSaiAyKuTSgy) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Love, Reign O'er Me](https://open.spotify.com/album/1cZTDwipkedFb85qMbYTr1) | 5:32 | 2022-04-18 | 2022-07-26 |
-| [Lux Æterna](https://open.spotify.com/track/3pwmJJRlr8nXNN9PFD18np) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Lux Æterna](https://open.spotify.com/album/7qxhxLR8oZN3LizPQ7z2cb) | 3:25 | 2022-12-12 |  |
+| [Lux Æterna](https://open.spotify.com/track/18zjwSgYiwu1Meb7Po3tUP) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 3:25 | 2023-03-17 |  |
+| [Lux Æterna](https://open.spotify.com/track/3pwmJJRlr8nXNN9PFD18np) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Lux Æterna](https://open.spotify.com/album/7qxhxLR8oZN3LizPQ7z2cb) | 3:25 | 2022-12-12 | 2023-04-17 |
 | [maybe \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/25wdC7CJmCJPgnKw9rYquJ) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:50 | 2022-04-18 | 2022-07-26 |
 | [Morning Blue](https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Morning Blue](https://open.spotify.com/album/2ewGI2tIH2rBS0j5avcEfG) | 3:37 | 2022-07-08 |  |
 | [Natural Born Killer](https://open.spotify.com/track/78wMThFTNKThsWq19o0F1H) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [Natural Born Killer/Pink Lullabye](https://open.spotify.com/album/379z7WiokF2pa4kKUgVjRF) | 3:16 | 2022-12-12 |  |

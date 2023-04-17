@@ -1,12 +1,12 @@
 {
   "description": "Tesoros musicales del ayer.",
-  "num_followers": 618253,
+  "num_followers": 618804,
   "original_name": "Viejitas pero Bonitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTc2NjA3MywwMDAwMDAwMGU2ZGUyNmZkZDM1M2FiMjZhMTQ0NzlmYjRlMDI2NmM1",
+  "snapshot_id": "MTY3OTc2NjA3MywwMDAwMDAwMDYxMzRiOTJmMmMxYTllNThiNzIzYTBiYzU5MWNjZDA0",
   "tracks": [
     {
       "added_at": "2021-04-22 14:20:49",
@@ -623,22 +623,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Serie De Oro",
-        "url": "https://open.spotify.com/album/1vdwYgTjF9jklmR0RbRR0d"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles Negros",
-          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
-        }
-      ],
-      "duration_ms": 174360,
-      "name": "Debut Y Despedida",
-      "url": "https://open.spotify.com/track/1Ab8M5xfQ0nUTGSldQzAA2"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "De Piel Negra",
         "url": "https://open.spotify.com/album/4i0eMiYUxt1ESu6SrHQpVg"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 278453,
       "name": "Hacer El Amor Con Otro",
       "url": "https://open.spotify.com/track/1MtVzUD3q6z3NmppCZcCDb"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Serie De Oro",
+        "url": "https://open.spotify.com/album/1vdwYgTjF9jklmR0RbRR0d"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles Negros",
+          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
+        }
+      ],
+      "duration_ms": 174360,
+      "name": "Debut Y Despedida",
+      "url": "https://open.spotify.com/track/1Ab8M5xfQ0nUTGSldQzAA2"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -863,6 +863,22 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
+        "name": "Que Nada Nos Separe",
+        "url": "https://open.spotify.com/album/0tv0ugArh5TtRPMORE70RY"
+      },
+      "artists": [
+        {
+          "name": "Mijares",
+          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "No Hace Falta",
+      "url": "https://open.spotify.com/track/5DiHLU0npIbhSTZm8EGeuT"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
         "name": "Coleccion Original",
         "url": "https://open.spotify.com/album/0OwOpYYCXo04N5VMQEaXuJ"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 191306,
       "name": "Nada Personal",
       "url": "https://open.spotify.com/track/3XtPN9Var7rerjAzLsCAHt"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
-        "name": "Que Nada Nos Separe",
-        "url": "https://open.spotify.com/album/0tv0ugArh5TtRPMORE70RY"
-      },
-      "artists": [
-        {
-          "name": "Mijares",
-          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "No Hace Falta",
-      "url": "https://open.spotify.com/track/5DiHLU0npIbhSTZm8EGeuT"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "A Mi Amor Con Mi Amor",
-        "url": "https://open.spotify.com/album/2UER4o2CMFxJ0qEG662gcu"
-      },
-      "artists": [
-        {
-          "name": "Armando Manzanero",
-          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
-        }
-      ],
-      "duration_ms": 141666,
-      "name": "Adoro",
-      "url": "https://open.spotify.com/track/00qP28OLPa3PQ7EmWBsaMK"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "16 \u00c9xitos: Baladas",
         "url": "https://open.spotify.com/album/16koZGZZYztvCEShPLndCv"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 200045,
       "name": "El Pecador",
       "url": "https://open.spotify.com/track/1lDx45n8dnAU1v9yct5bxU"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "A Mi Amor Con Mi Amor",
+        "url": "https://open.spotify.com/album/2UER4o2CMFxJ0qEG662gcu"
+      },
+      "artists": [
+        {
+          "name": "Armando Manzanero",
+          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
+        }
+      ],
+      "duration_ms": 141666,
+      "name": "Adoro",
+      "url": "https://open.spotify.com/track/00qP28OLPa3PQ7EmWBsaMK"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
+        "name": "S\u00f3lo para enamorados",
+        "url": "https://open.spotify.com/album/0aKX7SIu3MGX01ST8NANy8"
+      },
+      "artists": [
+        {
+          "name": "Los Baby's",
+          "url": "https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9"
+        }
+      ],
+      "duration_ms": 190840,
+      "name": "Tri\u00e1ngulo",
+      "url": "https://open.spotify.com/track/24VnFu3wCGaUYsR8LyBgIi"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
         "name": "Roma (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3fbJSth7xYdLAphGOSqJl5"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 209676,
       "name": "Oiga",
       "url": "https://open.spotify.com/track/1vJOhtqk2fjKHi7vVToylw"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
-        "name": "S\u00f3lo para enamorados",
-        "url": "https://open.spotify.com/album/0aKX7SIu3MGX01ST8NANy8"
-      },
-      "artists": [
-        {
-          "name": "Los Baby's",
-          "url": "https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9"
-        }
-      ],
-      "duration_ms": 190840,
-      "name": "Tri\u00e1ngulo",
-      "url": "https://open.spotify.com/track/24VnFu3wCGaUYsR8LyBgIi"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1511,26 +1511,6 @@
       "duration_ms": 259866,
       "name": "Hipocres\u00eda",
       "url": "https://open.spotify.com/track/5Cf4aRX1Kr6Y0DMb18zaqi"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
-        "name": "Baladas",
-        "url": "https://open.spotify.com/album/55vtZQyrfCGjZBeoHLtT6o"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        },
-        {
-          "name": "Alberto Vazquez",
-          "url": "https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc"
-        }
-      ],
-      "duration_ms": 188917,
-      "name": "Maracas",
-      "url": "https://open.spotify.com/track/1OVUW7Ube0RTZIFoRRCsPE"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1599,6 +1579,26 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
+        "name": "Baladas",
+        "url": "https://open.spotify.com/album/55vtZQyrfCGjZBeoHLtT6o"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        },
+        {
+          "name": "Alberto Vazquez",
+          "url": "https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc"
+        }
+      ],
+      "duration_ms": 188917,
+      "name": "Maracas",
+      "url": "https://open.spotify.com/track/1OVUW7Ube0RTZIFoRRCsPE"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
         "name": "Grandes \u00c9xitos Vol.2",
         "url": "https://open.spotify.com/album/73HgDlnXFSEWv7qmKDogeN"
       },
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Lo Mejor de Massiel",
-        "url": "https://open.spotify.com/album/44JyWGnSQObZVILBVQ4hnF"
+        "name": "RCA 100 A\u00f1os De Musica",
+        "url": "https://open.spotify.com/album/7vMnaKzlmBN2GRVYCMOMqc"
       },
       "artists": [
         {
-          "name": "Massiel",
-          "url": "https://open.spotify.com/artist/7gAcNqHWOMnqnsTBjq7v0T"
+          "name": "Roberto Jordan",
+          "url": "https://open.spotify.com/artist/5SyvBTttsNPEcFjtceTBmx"
         }
       ],
-      "duration_ms": 227640,
-      "name": "Rosas en el Mar",
-      "url": "https://open.spotify.com/track/1CzxmV2RMlY7RoYN6Jd85S"
+      "duration_ms": 158506,
+      "name": "No Se Ha Dado Cuenta",
+      "url": "https://open.spotify.com/track/3lzkOHkG5yH3xj40sY4nVI"
     }
   ],
   "unique_name": "Viejitas pero Bonitas",

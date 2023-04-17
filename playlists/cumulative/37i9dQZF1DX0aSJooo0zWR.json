@@ -1129,6 +1129,24 @@
     },
     {
       "album": {
+        "name": "Letter from Home",
+        "url": "https://open.spotify.com/album/1lI7eqGgfNK73apQo4siJY"
+      },
+      "artists": [
+        {
+          "name": "Pat Metheny Group",
+          "url": "https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt"
+        }
+      ],
+      "date_added": "2021-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385866,
+      "name": "Have You Heard",
+      "url": "https://open.spotify.com/track/73XavwM8RbuKL60jswYOWb"
+    },
+    {
+      "album": {
         "name": "Whale City",
         "url": "https://open.spotify.com/album/1GSle18vm2ymASsjX39ZQa"
       },
@@ -2182,7 +2200,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 251216,
       "name": "Savannah",
       "url": "https://open.spotify.com/track/771NJupMr1OXtQ76umdJCZ"

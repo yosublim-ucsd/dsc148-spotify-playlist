@@ -941,6 +941,28 @@
     },
     {
       "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/5FfvlodmCUmCTQPckhh0e2"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        },
+        {
+          "name": "La Original Banda GM",
+          "url": "https://open.spotify.com/artist/3NSgRhld0JBzrIvPj7bXAw"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206067,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/72787Gltc2X1WIgIfnicSD"
+    },
+    {
+      "album": {
         "name": "La Chispa",
         "url": "https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v"
       },

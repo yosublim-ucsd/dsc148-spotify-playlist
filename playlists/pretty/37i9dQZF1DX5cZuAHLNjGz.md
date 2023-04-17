@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 
 > Ultimate 101 Punjabi Hits with Diljit Dosanjh & Gurdas Maan
 
-[Spotify](https://open.spotify.com/user/spotify) - 931,100 likes - 101 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 931,499 likes - 101 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

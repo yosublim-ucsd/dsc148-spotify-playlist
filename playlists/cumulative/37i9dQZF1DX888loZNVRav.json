@@ -1043,6 +1043,36 @@
     },
     {
       "album": {
+        "name": "Sweeney Todd: The Demon Barber of Fleet Street (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2q6InM859RCsSQOjHWNHk2"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sondheim",
+          "url": "https://open.spotify.com/artist/4TbtUt49IMXEIMmNdifHb1"
+        },
+        {
+          "name": "Victor Garber",
+          "url": "https://open.spotify.com/artist/38cD8Rgj90SnDQFCmBGwUS"
+        },
+        {
+          "name": "Original Broadway Cast of Sweeney Todd: The Demon Barber of Fleet Street",
+          "url": "https://open.spotify.com/artist/6EoJvLCnPbPZJFAurWlx2e"
+        },
+        {
+          "name": "Paul Gemignani",
+          "url": "https://open.spotify.com/artist/5oi5DXLFdDZKjwlVxRY3GS"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117320,
+      "name": "Johanna",
+      "url": "https://open.spotify.com/track/1mglqKLKJ9wRUQmoWxyb5m"
+    },
+    {
+      "album": {
         "name": "Sweeney Todd (The 2012 London Cast Recording)",
         "url": "https://open.spotify.com/album/23MgjBTkvG44KQ9u6mX456"
       },
@@ -1058,32 +1088,6 @@
       "duration_ms": 118080,
       "name": "Johanna (From \"Sweeney Todd 2012 London Cast Recording\")",
       "url": "https://open.spotify.com/track/3G87kJWKE9ZLgGvheG3V4d"
-    },
-    {
-      "album": {
-        "name": "Sweeney Todd: The Demon Barber of Fleet Street (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/2q6InM859RCsSQOjHWNHk2"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sondheim",
-          "url": "https://open.spotify.com/artist/4TbtUt49IMXEIMmNdifHb1"
-        },
-        {
-          "name": "Victor Garber",
-          "url": "https://open.spotify.com/artist/38cD8Rgj90SnDQFCmBGwUS"
-        },
-        {
-          "name": "Paul Gemignani",
-          "url": "https://open.spotify.com/artist/5oi5DXLFdDZKjwlVxRY3GS"
-        }
-      ],
-      "date_added": "2022-12-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 117320,
-      "name": "Johanna (From \"Sweeney Todd\")",
-      "url": "https://open.spotify.com/track/1mglqKLKJ9wRUQmoWxyb5m"
     },
     {
       "album": {

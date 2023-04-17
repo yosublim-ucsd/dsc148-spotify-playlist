@@ -1,12 +1,12 @@
 {
   "description": "Canzoni rap per party fino al mattino! Cover: Tony Effe",
-  "num_followers": 76277,
+  "num_followers": 76368,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDgxODQ2MCwwMDAwMDAwMDhiOTUxNTI0ZDI0YjE3YjU5MjZjODQ3M2JmYTFhZTc0",
+  "snapshot_id": "MTY4MDgxODQ2MCwwMDAwMDAwMGRmYjU2ZGFjNGNkNTMxMzY1OGI0YTc3YjBjM2M4NGI1",
   "tracks": [
     {
       "added_at": "2023-04-06 22:01:00",
@@ -755,26 +755,6 @@
     {
       "added_at": "2023-04-06 22:01:00",
       "album": {
-        "name": "Famoso",
-        "url": "https://open.spotify.com/album/5fTgdXawyLC7oZEry7jGEk"
-      },
-      "artists": [
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 193554,
-      "name": "Baby (with J Balvin)",
-      "url": "https://open.spotify.com/track/3JCqB2HhpIPNNg1O4os8o5"
-    },
-    {
-      "added_at": "2023-04-06 22:01:00",
-      "album": {
         "name": "Lento",
         "url": "https://open.spotify.com/album/2FCnqgKag6FTtXOG2FEl5P"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 162362,
       "name": "Lento",
       "url": "https://open.spotify.com/track/0iRKVjfQzpr41T3WsU7shl"
+    },
+    {
+      "added_at": "2023-04-06 22:01:00",
+      "album": {
+        "name": "Famoso",
+        "url": "https://open.spotify.com/album/5fTgdXawyLC7oZEry7jGEk"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 193554,
+      "name": "Baby (with J Balvin)",
+      "url": "https://open.spotify.com/track/3JCqB2HhpIPNNg1O4os8o5"
     },
     {
       "added_at": "2023-04-06 22:01:00",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2023-04-06 22:01:00",
       "album": {
+        "name": "FSK TRAPSHIT REVENGE",
+        "url": "https://open.spotify.com/album/4z4zCeqiEjTTBI0a8Uyl0S"
+      },
+      "artists": [
+        {
+          "name": "FSK SATELLITE",
+          "url": "https://open.spotify.com/artist/4UikIA2yhd0jVJSXD9IOJH"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "ANSIA NO",
+      "url": "https://open.spotify.com/track/2yuYI5NFhevxa05se7Qht9"
+    },
+    {
+      "added_at": "2023-04-06 22:01:00",
+      "album": {
         "name": "SHAWTY (feat. Sacky)",
         "url": "https://open.spotify.com/album/6FtMPLKEmsz2BsnJuCYrKQ"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 153881,
       "name": "SHAWTY (feat. Sacky)",
       "url": "https://open.spotify.com/track/6yX3lSkO4F3FKx5wDJi4J0"
-    },
-    {
-      "added_at": "2023-04-06 22:01:00",
-      "album": {
-        "name": "FSK TRAPSHIT REVENGE",
-        "url": "https://open.spotify.com/album/4z4zCeqiEjTTBI0a8Uyl0S"
-      },
-      "artists": [
-        {
-          "name": "FSK SATELLITE",
-          "url": "https://open.spotify.com/artist/4UikIA2yhd0jVJSXD9IOJH"
-        }
-      ],
-      "duration_ms": 148500,
-      "name": "ANSIA NO",
-      "url": "https://open.spotify.com/track/2yuYI5NFhevxa05se7Qht9"
     },
     {
       "added_at": "2023-04-06 22:01:00",
@@ -1271,30 +1271,6 @@
     {
       "added_at": "2023-04-06 22:01:00",
       "album": {
-        "name": "Il Doc 2 (feat. Tony Effe & Gu\u00e8)",
-        "url": "https://open.spotify.com/album/1Ldy8KRZOLtwLJP3NmIR3q"
-      },
-      "artists": [
-        {
-          "name": "VillaBanks",
-          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
-        },
-        {
-          "name": "Tony Effe",
-          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
-        },
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        }
-      ],
-      "duration_ms": 174983,
-      "name": "Il Doc 2 (feat. Tony Effe & Gu\u00e8)",
-      "url": "https://open.spotify.com/track/2mKxTSrVPzc6dS8VqNTIYZ"
-    },
-    {
-      "added_at": "2023-04-06 22:01:00",
-      "album": {
         "name": "TRAVESURAS (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo)",
         "url": "https://open.spotify.com/album/068WIA490RGoZi1ZObrv9e"
       },
@@ -1323,6 +1299,30 @@
       "duration_ms": 265637,
       "name": "TRAVESURAS (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo)",
       "url": "https://open.spotify.com/track/7IrtgihaMKV0DOVcB0TcBG"
+    },
+    {
+      "added_at": "2023-04-06 22:01:00",
+      "album": {
+        "name": "Il Doc 2 (feat. Tony Effe & Gu\u00e8)",
+        "url": "https://open.spotify.com/album/1Ldy8KRZOLtwLJP3NmIR3q"
+      },
+      "artists": [
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+        },
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "duration_ms": 174983,
+      "name": "Il Doc 2 (feat. Tony Effe & Gu\u00e8)",
+      "url": "https://open.spotify.com/track/2mKxTSrVPzc6dS8VqNTIYZ"
     },
     {
       "added_at": "2023-04-06 22:01:00",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2023-04-06 22:01:00",
       "album": {
-        "name": "Louboutin",
-        "url": "https://open.spotify.com/album/1L10rKUr6ll3JmEj94BXoU"
-      },
-      "artists": [
-        {
-          "name": "Vale pain",
-          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
-        },
-        {
-          "name": "Rondodasosa",
-          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Louboutin",
-      "url": "https://open.spotify.com/track/7fzaDe7qR6IX2w275uX4Th"
-    },
-    {
-      "added_at": "2023-04-06 22:01:00",
-      "album": {
         "name": "Fuego Del Calor (feat. Ozuna, Tyga & Capo Plaza)",
         "url": "https://open.spotify.com/album/6O7pWTHLRiNKcHPkonDJWz"
       },
@@ -1439,6 +1419,26 @@
       "duration_ms": 196000,
       "name": "Fuego Del Calor (feat. Ozuna, Tyga & Capo Plaza)",
       "url": "https://open.spotify.com/track/7FX4EvQht57zUc2P313cEZ"
+    },
+    {
+      "added_at": "2023-04-06 22:01:00",
+      "album": {
+        "name": "Louboutin",
+        "url": "https://open.spotify.com/album/1L10rKUr6ll3JmEj94BXoU"
+      },
+      "artists": [
+        {
+          "name": "Vale pain",
+          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
+        },
+        {
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Louboutin",
+      "url": "https://open.spotify.com/track/7fzaDe7qR6IX2w275uX4Th"
     },
     {
       "added_at": "2023-04-06 22:01:00",

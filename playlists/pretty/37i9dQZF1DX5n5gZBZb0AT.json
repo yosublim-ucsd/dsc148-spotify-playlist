@@ -1,12 +1,12 @@
 {
   "description": "all gains",
-  "num_followers": 28592,
+  "num_followers": 29150,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTk1NDQ5NCwwMDAwMDAwMDY0NWU2ZDNmM2U0MWU3YTlhNDRhODkxM2E1Mzc5MDM0",
+  "snapshot_id": "MTY3OTk1NDQ5NCwwMDAwMDAwMDI1YzA5NmQ0Y2U3YjVmMmZkNjhmYTNhYThlZDBkYTg1",
   "tracks": [
     {
       "added_at": "2023-03-09 21:54:21",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-03-09 21:54:21",
       "album": {
-        "name": "Luv Is Rage 2",
-        "url": "https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 182706,
-      "name": "XO Tour Llif3",
-      "url": "https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO"
-    },
-    {
-      "added_at": "2023-03-09 21:54:21",
-      "album": {
         "name": "MIDDLE CHILD",
         "url": "https://open.spotify.com/album/3XzSOIE6zGLliuqsVGLmUc"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 213593,
       "name": "MIDDLE CHILD",
       "url": "https://open.spotify.com/track/2JvzF1RMd7lE3KmFlsyZD8"
+    },
+    {
+      "added_at": "2023-03-09 21:54:21",
+      "album": {
+        "name": "Luv Is Rage 2",
+        "url": "https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 182706,
+      "name": "XO Tour Llif3",
+      "url": "https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO"
     },
     {
       "added_at": "2023-03-09 21:54:21",

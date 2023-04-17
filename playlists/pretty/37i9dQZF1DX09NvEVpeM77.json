@@ -1,12 +1,12 @@
 {
   "description": "Classic rock favorites. Cover: Bruce Springsteen",
-  "num_followers": 279254,
+  "num_followers": 279626,
   "original_name": "Dad Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODM3NzE4NywwMDAwMDAwMGQ1YmY4OGI4ZWYzMDVhMDVkMWMyZjdlNWUyNDdmMGMy",
+  "snapshot_id": "MTY3ODM3NzE4NywwMDAwMDAwMDg3M2M1Y2M2ZmZkMzZjMzRlNzlmNmM3MzczY2EwYmY4",
   "tracks": [
     {
       "added_at": "2022-06-15 19:50:25",
@@ -173,22 +173,6 @@
       "url": "https://open.spotify.com/track/1cU34sZG9kF4FYHCoAD0Ib"
     },
     {
-      "added_at": "2022-03-04 19:00:59",
-      "album": {
-        "name": "Leftoverture (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7MejfRSNnrpcLZIxkeZDqR"
-      },
-      "artists": [
-        {
-          "name": "Kansas",
-          "url": "https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1"
-        }
-      ],
-      "duration_ms": 323000,
-      "name": "Carry on Wayward Son",
-      "url": "https://open.spotify.com/track/4DMKwE2E2iYDKY01C335Uw"
-    },
-    {
       "added_at": "2022-03-14 17:21:32",
       "album": {
         "name": "Born In The U.S.A.",
@@ -203,6 +187,22 @@
       "duration_ms": 155880,
       "name": "I'm On Fire",
       "url": "https://open.spotify.com/track/3PzsbWSQdLCKDLxn7YZfkM"
+    },
+    {
+      "added_at": "2022-03-04 19:00:59",
+      "album": {
+        "name": "Leftoverture (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7MejfRSNnrpcLZIxkeZDqR"
+      },
+      "artists": [
+        {
+          "name": "Kansas",
+          "url": "https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1"
+        }
+      ],
+      "duration_ms": 323000,
+      "name": "Carry on Wayward Son",
+      "url": "https://open.spotify.com/track/4DMKwE2E2iYDKY01C335Uw"
     },
     {
       "added_at": "2022-03-31 19:45:13",
@@ -303,6 +303,22 @@
     {
       "added_at": "2022-03-04 19:00:59",
       "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 278680,
+      "name": "Born in the U.S.A.",
+      "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
+    },
+    {
+      "added_at": "2022-03-04 19:00:59",
+      "album": {
         "name": "Willy And The Poor Boys (Expanded Edition)",
         "url": "https://open.spotify.com/album/31q47gQszFt0CddSyMksgO"
       },
@@ -351,22 +367,6 @@
     {
       "added_at": "2022-03-04 19:00:59",
       "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 278680,
-      "name": "Born in the U.S.A.",
-      "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
-    },
-    {
-      "added_at": "2022-03-04 19:00:59",
-      "album": {
         "name": "52nd Street",
         "url": "https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI"
       },
@@ -379,22 +379,6 @@
       "duration_ms": 284000,
       "name": "My Life",
       "url": "https://open.spotify.com/track/4ZoBC5MhSEzuknIgAkBaoT"
-    },
-    {
-      "added_at": "2022-03-14 17:21:32",
-      "album": {
-        "name": "Fire And Water",
-        "url": "https://open.spotify.com/album/1ydlm89JR8cV8VuSaNvHNL"
-      },
-      "artists": [
-        {
-          "name": "Free",
-          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
-        }
-      ],
-      "duration_ms": 330643,
-      "name": "All Right Now",
-      "url": "https://open.spotify.com/track/1gcESexgftSuLuML57Y69q"
     },
     {
       "added_at": "2022-03-04 19:00:59",
@@ -411,6 +395,22 @@
       "duration_ms": 286219,
       "name": "Life in the Fast Lane - 2013 Remaster",
       "url": "https://open.spotify.com/track/6gXrEUzibufX9xYPk3HD5p"
+    },
+    {
+      "added_at": "2022-03-14 17:21:32",
+      "album": {
+        "name": "Fire And Water",
+        "url": "https://open.spotify.com/album/1ydlm89JR8cV8VuSaNvHNL"
+      },
+      "artists": [
+        {
+          "name": "Free",
+          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
+        }
+      ],
+      "duration_ms": 330643,
+      "name": "All Right Now",
+      "url": "https://open.spotify.com/track/1gcESexgftSuLuML57Y69q"
     },
     {
       "added_at": "2022-03-14 17:21:32",
@@ -445,22 +445,6 @@
       "url": "https://open.spotify.com/track/1H4idkmruFoJBg1DvUv2tY"
     },
     {
-      "added_at": "2022-03-31 19:45:13",
-      "album": {
-        "name": "Not Fragile",
-        "url": "https://open.spotify.com/album/3TtCMt4XLddj9PQeVBfsK1"
-      },
-      "artists": [
-        {
-          "name": "Bachman-Turner Overdrive",
-          "url": "https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5"
-        }
-      ],
-      "duration_ms": 234866,
-      "name": "You Ain't Seen Nothing Yet",
-      "url": "https://open.spotify.com/track/0HOrDVS349XFcpCYsO2hAP"
-    },
-    {
       "added_at": "2022-03-04 19:00:59",
       "album": {
         "name": "Born To Run",
@@ -475,6 +459,22 @@
       "duration_ms": 269920,
       "name": "Born to Run",
       "url": "https://open.spotify.com/track/6hTcuIQa0sxrrByu9wTD7s"
+    },
+    {
+      "added_at": "2022-03-31 19:45:13",
+      "album": {
+        "name": "Not Fragile",
+        "url": "https://open.spotify.com/album/3TtCMt4XLddj9PQeVBfsK1"
+      },
+      "artists": [
+        {
+          "name": "Bachman-Turner Overdrive",
+          "url": "https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5"
+        }
+      ],
+      "duration_ms": 234866,
+      "name": "You Ain't Seen Nothing Yet",
+      "url": "https://open.spotify.com/track/0HOrDVS349XFcpCYsO2hAP"
     },
     {
       "added_at": "2022-03-14 17:21:32",
@@ -541,22 +541,6 @@
       "url": "https://open.spotify.com/track/3fnPv1LRMxENr63afVhaz1"
     },
     {
-      "added_at": "2022-03-04 19:14:07",
-      "album": {
-        "name": "Pieces Of Eight",
-        "url": "https://open.spotify.com/album/294yFGYq9SBXWR4g6dK63D"
-      },
-      "artists": [
-        {
-          "name": "Styx",
-          "url": "https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh"
-        }
-      ],
-      "duration_ms": 257226,
-      "name": "Renegade",
-      "url": "https://open.spotify.com/track/1CQqupcyMg7176PPmIVmSj"
-    },
-    {
       "added_at": "2022-03-04 19:00:59",
       "album": {
         "name": "Fly Like An Eagle",
@@ -571,6 +555,22 @@
       "duration_ms": 170173,
       "name": "Take The Money And Run",
       "url": "https://open.spotify.com/track/1ZhrREyOOeFV6TxDOyiPwu"
+    },
+    {
+      "added_at": "2022-03-04 19:14:07",
+      "album": {
+        "name": "Pieces Of Eight",
+        "url": "https://open.spotify.com/album/294yFGYq9SBXWR4g6dK63D"
+      },
+      "artists": [
+        {
+          "name": "Styx",
+          "url": "https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh"
+        }
+      ],
+      "duration_ms": 257226,
+      "name": "Renegade",
+      "url": "https://open.spotify.com/track/1CQqupcyMg7176PPmIVmSj"
     },
     {
       "added_at": "2022-03-14 17:21:32",
@@ -669,6 +669,22 @@
       "url": "https://open.spotify.com/track/0lzNXoZINVBLHWNIxKxWOo"
     },
     {
+      "added_at": "2022-03-04 19:00:59",
+      "album": {
+        "name": "Fly Like An Eagle",
+        "url": "https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC"
+      },
+      "artists": [
+        {
+          "name": "Steve Miller Band",
+          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+        }
+      ],
+      "duration_ms": 187066,
+      "name": "Rock'n Me",
+      "url": "https://open.spotify.com/track/1orVKbp6vqtfAPOmvRofVq"
+    },
+    {
       "added_at": "2022-06-15 19:50:25",
       "album": {
         "name": "But Seriously, Folks...",
@@ -715,22 +731,6 @@
       "duration_ms": 195306,
       "name": "China Grove",
       "url": "https://open.spotify.com/track/7cy1bEJV6FCtDaYpsk8aG6"
-    },
-    {
-      "added_at": "2022-03-04 19:00:59",
-      "album": {
-        "name": "Fly Like An Eagle",
-        "url": "https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC"
-      },
-      "artists": [
-        {
-          "name": "Steve Miller Band",
-          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
-        }
-      ],
-      "duration_ms": 187066,
-      "name": "Rock'n Me",
-      "url": "https://open.spotify.com/track/1orVKbp6vqtfAPOmvRofVq"
     },
     {
       "added_at": "2022-03-04 19:14:07",
@@ -781,22 +781,6 @@
       "url": "https://open.spotify.com/track/56lhDZNQ5J47aog6mGKeGk"
     },
     {
-      "added_at": "2022-03-14 17:21:32",
-      "album": {
-        "name": "Permanent Waves",
-        "url": "https://open.spotify.com/album/3nUNxSh2szhmN7iifAKv5i"
-      },
-      "artists": [
-        {
-          "name": "Rush",
-          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
-        }
-      ],
-      "duration_ms": 296466,
-      "name": "The Spirit Of Radio",
-      "url": "https://open.spotify.com/track/4e9hUiLsN4mx61ARosFi7p"
-    },
-    {
       "added_at": "2022-03-04 19:00:59",
       "album": {
         "name": "Fly Like An Eagle",
@@ -811,6 +795,22 @@
       "duration_ms": 282693,
       "name": "Fly Like An Eagle",
       "url": "https://open.spotify.com/track/3e0FzZjTXOUtiJGSClOBrI"
+    },
+    {
+      "added_at": "2022-03-14 17:21:32",
+      "album": {
+        "name": "Permanent Waves",
+        "url": "https://open.spotify.com/album/3nUNxSh2szhmN7iifAKv5i"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "duration_ms": 296466,
+      "name": "The Spirit Of Radio",
+      "url": "https://open.spotify.com/track/4e9hUiLsN4mx61ARosFi7p"
     }
   ],
   "unique_name": "Dad Rock",

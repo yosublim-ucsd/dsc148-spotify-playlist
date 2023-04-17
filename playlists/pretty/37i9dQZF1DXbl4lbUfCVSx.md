@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 
 > Sa k'ap fèt! Enjoy Haiti’s national music, a smooth modern méringue sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,117 likes - 40 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,129 likes - 40 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 | 22 | [Yelé \(feat\. Ms\. Lauryn Hill\)](https://open.spotify.com/track/4oxn5AUl1DYXWgpAjKM0rK) | [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [Wyclef Jean presents The Carnival featuring Refugee Allstars \(feat\. Refugee All Stars\)](https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU) | 5:24 |
 | 23 | [Another Round \- Zouk](https://open.spotify.com/track/2bMD78FllNnUX5L5cejItr) | [Zo Konpa](https://open.spotify.com/artist/5ZAbRapf7rFYPjxPYuQlG5) | [Another Round](https://open.spotify.com/album/3BQOkiKZPPqcyHOmqKILNQ) | 4:18 |
 | 24 | [Pam Pam Pam](https://open.spotify.com/track/5DeceTNgeKTn3uUI0JBxq4) | [Tantan](https://open.spotify.com/artist/5WLcU8GQxU9yOK4oqNICJL) | [Tantan\- Pam Pam Pam](https://open.spotify.com/album/58JTifvM1LyBP6WUqaijU8) | 6:26 |
-| 25 | [Is It Real?](https://open.spotify.com/track/2i4lLBucZUbHunIH7maIst) | [Arly Lariviere](https://open.spotify.com/artist/4JWyqE3lyeBUiyMATTBw4o) | [Encyclopedie](https://open.spotify.com/album/1RI9JdAdq2TMcJh7LiMle9) | 6:42 |
-| 26 | [Mwen bouke](https://open.spotify.com/track/5I8RwPZFt7hw1sBGgltoE2) | [Harmonik](https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH) | [Diferan](https://open.spotify.com/album/4Fvn3EqC18EGayl4mndJq9) | 4:57 |
+| 25 | [Mwen bouke](https://open.spotify.com/track/5I8RwPZFt7hw1sBGgltoE2) | [Harmonik](https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH) | [Diferan](https://open.spotify.com/album/4Fvn3EqC18EGayl4mndJq9) | 4:57 |
+| 26 | [Is It Real?](https://open.spotify.com/track/2i4lLBucZUbHunIH7maIst) | [Arly Lariviere](https://open.spotify.com/artist/4JWyqE3lyeBUiyMATTBw4o) | [Encyclopedie](https://open.spotify.com/album/1RI9JdAdq2TMcJh7LiMle9) | 6:42 |
 | 27 | [It's Getting Late](https://open.spotify.com/track/3xyHkaONRVaVFt6iOtzB1B) | [J\-BEATZ](https://open.spotify.com/artist/5lAmUypm7Pmextgjxe1qwU) | [Our Own World](https://open.spotify.com/album/23Gcw0J4M7u0Lp3llF3EGD) | 4:53 |
 | 28 | [San Limit](https://open.spotify.com/track/0jMJvojL24cI32yYm8l43z) | [T\-Vice](https://open.spotify.com/artist/2bbAvnyKqRhU6zut6bAE9N) | [3 Tou 9](https://open.spotify.com/album/1IwaIw7A5aN8sYmvwyvz5m) | 4:49 |
 | 29 | [Kenbe'l La](https://open.spotify.com/track/6llFsg3VEQqXmfCTAWH8os) | [Roody Roodboy](https://open.spotify.com/artist/5VgONLRcpRrg4FbBstSxhN) | [Fòk Tèt Ou La](https://open.spotify.com/album/1zlhgCRbwflCf8AYamaraw) | 4:23 |
@@ -47,6 +47,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 | 37 | [Simplicité](https://open.spotify.com/track/7HRVCfIaGGqUtOpVTB3MWI) | [Harmonik](https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH) | [Degaje](https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF) | 5:31 |
 | 38 | [Grev Bèbè](https://open.spotify.com/track/6tsLuq6GUSaoMLScuuAL8I) | [Zenglen](https://open.spotify.com/artist/2yxotUcQyVGm6LGYfPW8Mj) | [No Dead End](https://open.spotify.com/album/7sUJTtv1O1MbTD31ykgqlT) | 5:16 |
 | 39 | [Pa kite'm \- Djazz Dj'aa](https://open.spotify.com/track/6QpPY9WVrobfQM7pU4TdFB) | [5Lan](https://open.spotify.com/artist/5soBVwhSyJeROoyNhL5MXi), [Olivier Duret](https://open.spotify.com/artist/4Lo1kP4n9FjjG8bDmOl2zB) | [Pa kite'm \(Djazz Dj'aa\)](https://open.spotify.com/album/7lmLIlwmKZfUmPFxWZY3kc) | 5:35 |
-| 40 | [What About Tomorrow](https://open.spotify.com/track/1r3NNzzdvjnVS6UEEe6tVk) | [Nu\-Look](https://open.spotify.com/artist/3GHVlKRurzupQYaoB5x9uB) | [I Got This](https://open.spotify.com/album/3RayyqJSPC8S0YGJQUqCAl) | 6:28 |
+| 40 | [Fè Sa W Vle Avè M'](https://open.spotify.com/track/4NqjBifd47mrbbieZ0KNkz) | [K\-Zino](https://open.spotify.com/artist/0ByJbRK16DdCPnCztvgtuW) | [Transition](https://open.spotify.com/album/2wsl13HiIsHw6wgACS87Tp) | 4:07 |
 
-Snapshot ID: `MTU5MTIwODI2NSwwMDAwMDAwMDRmMDdmNTQzZjFlZjFjNDBlNzJmZTNhMjUyZDE2Y2E4`
+Snapshot ID: `MTU5MTIwODI2NSwwMDAwMDAwMGZjMTFkMzVlNmJmNGUwZDM4YmI2MGMxMjBmOTk2ODI2`

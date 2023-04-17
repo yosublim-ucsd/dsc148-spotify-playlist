@@ -4,7 +4,7 @@
 
 > The UK's biggest rock playlist\. Cover: Another Sky
 
-172 songs - 9 hr 8 min
+174 songs - 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [15 Minutes In The Algorithm](https://open.spotify.com/track/2FyRW5FCNTKZNoFGHOwHPs) | [The Reytons](https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ) | [What's Rock And Roll?](https://open.spotify.com/album/3ypJeqXuihGdO05YJ6PLeD) | 3:13 | 2023-01-30 | 2023-04-14 |
 | [21ST CENTURY BITCH](https://open.spotify.com/track/6b4gtrHODf0L93GxIKEotN) | [Holy Wars](https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4) | [21ST CENTURY BITCH](https://open.spotify.com/album/3Kj5vTVyzOGBwp71lO6pYo) | 2:45 | 2023-03-08 | 2023-03-09 |
 | [5,6,7,8 \(feat\. girlfriends\)](https://open.spotify.com/track/6YAngZqMTJyorUHoeOpaqy) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0), [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [5,6,7,8 \(feat\. girlfriends\)](https://open.spotify.com/album/0SPIpADk9hv62agR2J5iy5) | 2:16 | 2023-03-24 |  |
-| [72 Seasons](https://open.spotify.com/track/6txhb14PWs9yrkTgR2jnU4) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/5vFa10TvQUWpEv9OkVBatc) | 7:39 | 2023-03-30 |  |
+| [72 Seasons](https://open.spotify.com/track/4poeu6nUr4UQo1RXpp29Js) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 7:39 | 2023-04-13 |  |
+| [72 Seasons](https://open.spotify.com/track/6txhb14PWs9yrkTgR2jnU4) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/5vFa10TvQUWpEv9OkVBatc) | 7:39 | 2023-03-30 | 2023-04-17 |
 | [:mydopamine:](https://open.spotify.com/track/2orIpa9dzNtsqyKjdts0f1) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [:mydopamine:](https://open.spotify.com/album/4tHK91a2JwTUOeAw29jlvN) | 3:33 | 2023-01-13 | 2023-02-10 |
 | [<maybe> it's my fault](https://open.spotify.com/track/5qMq8ITRVuTwqd2pDL0gff) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<COPINGMECHANISM>](https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV) | 2:39 | 2023-03-08 | 2023-03-09 |
 | [A Crooked Melody](https://open.spotify.com/track/57bIv3ROVypmo9bzJzUShI) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [A Crooked Melody](https://open.spotify.com/album/4fIZzk4JQ6g5xFlOdz1rGE) | 3:55 | 2023-04-06 |  |
@@ -133,7 +134,8 @@
 | [Play My Favourite Song](https://open.spotify.com/track/4uBs8miGwBykRYjrbAO5kV) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [Play My Favourite Song](https://open.spotify.com/album/48kUWLzmZrvwHqYrpOkBat) | 2:35 | 2023-02-24 |  |
 | [Psychopath](https://open.spotify.com/track/7KSAqfQp0BgllQJuimgdye) | [Another Sky](https://open.spotify.com/artist/08p5D6BYuwPqGsFuIDLNFr) | [Psychopath](https://open.spotify.com/album/3AbrCdHe3tzMrsyUMcuiPf) | 3:33 | 2023-04-13 |  |
 | [Radio Reject](https://open.spotify.com/track/5e2nKdiIRq7bNt8xkhvJhX) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Baku's Revenge](https://open.spotify.com/album/07wQSjTds9132XAwuYzBWF) | 2:22 | 2023-01-13 | 2023-02-10 |
-| [REAL SUPER DARK](https://open.spotify.com/track/6nXtGWUzOGxfI7q5hUa6Jj) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/7exaI7MyauQNCOqbyqU27C) | 2:29 | 2023-01-27 |  |
+| [REAL SUPER DARK](https://open.spotify.com/track/2YGfjeZvYJyy1BQrbsLmGr) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:29 | 2023-04-13 |  |
+| [REAL SUPER DARK](https://open.spotify.com/track/6nXtGWUzOGxfI7q5hUa6Jj) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/7exaI7MyauQNCOqbyqU27C) | 2:29 | 2023-01-27 | 2023-04-17 |
 | [REAL SUPER DARK](https://open.spotify.com/track/7uuHc1gwZCKG9CGJopnSF3) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/1TyNSqm2av7ed9Z6BgHhFT) | 2:29 | 2023-01-27 | 2023-01-30 |
 | [Return My Head](https://open.spotify.com/track/7hbvq2vHYcYTgRs2tJgiel) | [The Murder Capital](https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp) | [Return My Head](https://open.spotify.com/album/7268G8ZBtoLP1tU5y4FtBW) | 2:45 | 2023-01-13 | 2023-03-03 |
 | [Rotoscope](https://open.spotify.com/track/3TV6XEPjXQhbSneiEXRNEr) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Rotoscope](https://open.spotify.com/album/0twOWaleSiQaUUSTFegpds) | 3:35 | 2023-03-08 | 2023-03-09 |

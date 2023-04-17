@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home!",
-  "num_followers": 48887,
+  "num_followers": 48952,
   "original_name": "Drill Work",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjU1MDMzMSwwMDAwMDAwMGI2NjI2YTFlYzJmNWE5M2FmODhlN2U4NTJlOWY4NGM0",
+  "snapshot_id": "MTY2NjU1MDMzMSwwMDAwMDAwMGQyZDU1M2JiYWYzM2IyNWUwNjAxODMyYjg3YTZlZWJj",
   "tracks": [
     {
       "added_at": "2022-10-23 18:38:51",
@@ -679,18 +679,18 @@
     {
       "added_at": "2022-10-23 18:38:51",
       "album": {
-        "name": "Talk To Me Nice",
-        "url": "https://open.spotify.com/album/4wt9ueqBx4ngkdrD3Rd41Z"
+        "name": "Bad One",
+        "url": "https://open.spotify.com/album/2dRuU6vLhrV2PJDhX1I9uR"
       },
       "artists": [
         {
-          "name": "Russ Millions",
-          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
+          "name": "Private Zero",
+          "url": "https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf"
         }
       ],
-      "duration_ms": 148000,
-      "name": "Talk To Me Nice",
-      "url": "https://open.spotify.com/track/1JTnvQEXkqf0ZovtKPDh9j"
+      "duration_ms": 134142,
+      "name": "Bad One",
+      "url": "https://open.spotify.com/track/55HHh45WOyOZtF4cPMR1W0"
     },
     {
       "added_at": "2022-10-23 18:38:51",
@@ -755,18 +755,18 @@
     {
       "added_at": "2022-10-23 18:38:51",
       "album": {
-        "name": "Bad One",
-        "url": "https://open.spotify.com/album/2dRuU6vLhrV2PJDhX1I9uR"
+        "name": "Talk To Me Nice",
+        "url": "https://open.spotify.com/album/4wt9ueqBx4ngkdrD3Rd41Z"
       },
       "artists": [
         {
-          "name": "Private Zero",
-          "url": "https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf"
+          "name": "Russ Millions",
+          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
         }
       ],
-      "duration_ms": 134142,
-      "name": "Bad One",
-      "url": "https://open.spotify.com/track/55HHh45WOyOZtF4cPMR1W0"
+      "duration_ms": 148000,
+      "name": "Talk To Me Nice",
+      "url": "https://open.spotify.com/track/1JTnvQEXkqf0ZovtKPDh9j"
     },
     {
       "added_at": "2022-10-23 18:38:51",

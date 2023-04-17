@@ -2093,6 +2093,24 @@
     },
     {
       "album": {
+        "name": "Fruta (Vol. II)",
+        "url": "https://open.spotify.com/album/1CKiIYZCELUISFQOsKt2DP"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193626,
+      "name": "Palmar",
+      "url": "https://open.spotify.com/track/1INtYY3PE2RP7NrhHOsBaz"
+    },
+    {
+      "album": {
         "name": "Loca Navidad Latin Rock Vol. 4",
         "url": "https://open.spotify.com/album/0kDXegd5ADxlS4OhzYhgUX"
       },
@@ -2104,7 +2122,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 193626,
       "name": "Palmar",
       "url": "https://open.spotify.com/track/7wwHXlNsf2HkaVukGNVy8f"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TZic46Z9vh.md) - [plain]
 
 > Celebrando el Festival de Avándaro, hito del rock mexicano\. ¡Paz y amor! Portada: Los Dug Dug's.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,308 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,319 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TZic46Z9vh.md) - [plain]
 | 2 | [Easy Woman](https://open.spotify.com/track/2wcCHVRTtIzdHjbgbQxMVH) | [EL RITUAL](https://open.spotify.com/artist/5892Xxyev45o73ZrqlmMGT) | [Colección Avandaro](https://open.spotify.com/album/52secMI8PGxRR44sNXPkcP) | 3:13 |
 | 3 | [Padre](https://open.spotify.com/track/0Pfmcd69ZHAutoGFXIMdfo) | [Grupo Ciruela](https://open.spotify.com/artist/1xPdPBhKemqYuJUlaLTR9S) | [Regreso al Origen](https://open.spotify.com/album/54FzvnC07SZN2QpZ1yF0Jn) | 3:26 |
 | 4 | [Mariguana](https://open.spotify.com/track/7tg2dbJi72K4cK4kjdp2g2) | [Peace and Love](https://open.spotify.com/artist/5wDBmKAwsm1Tp69yh3xV2Z) | [Peace and Love](https://open.spotify.com/album/6iNEmKhA3QO1yBo2syHKr2) | 6:02 |
-| 5 | [Nasty Sex](https://open.spotify.com/track/5GwFtEwUc4FZfM8xZzDod9) | [La Revolución De Emiliano Zapata](https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2) | [La Revolución de Emiliano Zapata](https://open.spotify.com/album/2oSxSb7LlbuDapMLtbepzg) | 7:26 |
+| 5 | [Nasty Sex](https://open.spotify.com/track/1XoFXjGDhvFrIy6xT7WlcR) | [La Revolución De Emiliano Zapata](https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2) | [Viva El Rock Latino 2015](https://open.spotify.com/album/32T2hxjfQJfO41Vp2sG4rb) | 5:22 |
 | 6 | [La Chava de Avandaro](https://open.spotify.com/track/7vF23kio37rXXLrS3biEgh) | [Three Souls In My Mind](https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R) | [Oye Cantinero](https://open.spotify.com/album/0zqkgfxNAggVV3KaXmzzEF) | 2:33 |
 | 7 | [I'm a Walking \- I Love You More \- En Vivo](https://open.spotify.com/track/0gw7FHb7rAdxHXJRlHSbq1) | [El Amor](https://open.spotify.com/artist/6bNso1JBkY1Bp6Xbcb1ZdS) | [En Vivo](https://open.spotify.com/album/2oV7ZTUFSRFPwzFwxowLgS) | 12:11 |
 | 8 | [Adopta un Árbol](https://open.spotify.com/track/1NRWS2eUmmCtk0ttBxTHWJ) | [Cossa Nostra](https://open.spotify.com/artist/3wLZEAt80jqCe3F2XJaSIT) | [Adopta un Árbol](https://open.spotify.com/album/6idPl4nKH9L80y4zY8hav1) | 3:30 |
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TZic46Z9vh.md) - [plain]
 | 34 | [Satanás](https://open.spotify.com/track/6hG2T8xkFaCTscKbAIPYYm) | [EL RITUAL](https://open.spotify.com/artist/5892Xxyev45o73ZrqlmMGT) | [Colección Avandaro](https://open.spotify.com/album/52secMI8PGxRR44sNXPkcP) | 8:02 |
 | 35 | [Cambia, Cambia](https://open.spotify.com/track/5naHaIvjo1Cw1O4ASdktgG) | [Los Dug Dug's](https://open.spotify.com/artist/4NJDvfZdkJBPqecQ83THVT) | [15 Éxitos de los Dug Dug's Rock and Roll](https://open.spotify.com/album/5CtcJWRwRPZF0WkJ92ZspC) | 3:18 |
 | 36 | [Pobre Nina](https://open.spotify.com/track/7B9yavzlfIDl1rxyiicNQY) | [Los Monjes](https://open.spotify.com/artist/6PjH1bMbi3GPcgur2egQMO) | [Los Nuggetz \- 60's Punk, Pop and Psychedelic From Latin America](https://open.spotify.com/album/3Wmj1OJev6LrgjS9SIPBk7) | 1:53 |
-| 37 | [Tommy Lyz](https://open.spotify.com/track/2MWlye2Nga64EmS28igJs7) | [Toncho Pilatos](https://open.spotify.com/artist/3RKNiMGSJ4dfDpizaqm9X3) | [Toncho Pilatos](https://open.spotify.com/album/2GBWCqo2XWqqfNhhIRXSwK) | 3:50 |
-| 38 | [Tiempo Perdido](https://open.spotify.com/track/1PBS2zYINZFFs3Vt8AFfPL) | [Nahuatl](https://open.spotify.com/artist/0gLvrQ3TEUm3DDyud9Qa7K) | [Volumen I](https://open.spotify.com/album/645mFqD3c66EuYrYZg02Kk) | 4:41 |
+| 37 | [Tiempo Perdido](https://open.spotify.com/track/1PBS2zYINZFFs3Vt8AFfPL) | [Nahuatl](https://open.spotify.com/artist/0gLvrQ3TEUm3DDyud9Qa7K) | [Volumen I](https://open.spotify.com/album/645mFqD3c66EuYrYZg02Kk) | 4:41 |
+| 38 | [Tommy Lyz](https://open.spotify.com/track/2MWlye2Nga64EmS28igJs7) | [Toncho Pilatos](https://open.spotify.com/artist/3RKNiMGSJ4dfDpizaqm9X3) | [Toncho Pilatos](https://open.spotify.com/album/2GBWCqo2XWqqfNhhIRXSwK) | 3:50 |
 | 39 | [In\-a\-Gadda\-da\-Vida](https://open.spotify.com/track/27bwyWQYuTFwvvks3JkeF7) | [La Máquina Del Sonido](https://open.spotify.com/artist/1wT6pLxxW0tFyk2nnE5HGg) | [Serie de Colección 18 Auténticos Éxitos Hit´s de Grupos, Vol\. 2](https://open.spotify.com/album/3eXRb8zVCNGSWx3OHodqXB) | 1:55 |
-| 40 | [Nati Bati Yi](https://open.spotify.com/track/0696PYVWQH7HZdTGeY33ZK) | [The Spiders](https://open.spotify.com/artist/5mrfwFGMT56yGbirhVdInL) | [Monster A Go\-Go: Teen Trash From Psychedelic Tokyo '66 \- '69 \(Volume 1\)](https://open.spotify.com/album/0d3ymarURd8tsiawQJJxl7) | 2:29 |
-| 41 | [The Call of the Woman \(El Llamado de la Hembra\)](https://open.spotify.com/track/5xDzHDSJy8kyVrr1WASR0N) | [Enigma!](https://open.spotify.com/artist/735Su6vORHKZEN8Hh8pM3H) | [Rock Sound](https://open.spotify.com/album/2Lln8tQqVPOM0hTxNwYmvq) | 3:48 |
+| 40 | [The Call of the Woman \(El Llamado de la Hembra\)](https://open.spotify.com/track/5xDzHDSJy8kyVrr1WASR0N) | [Enigma!](https://open.spotify.com/artist/735Su6vORHKZEN8Hh8pM3H) | [Rock Sound](https://open.spotify.com/album/2Lln8tQqVPOM0hTxNwYmvq) | 3:48 |
+| 41 | [Nati Bati Yi](https://open.spotify.com/track/0696PYVWQH7HZdTGeY33ZK) | [The Spiders](https://open.spotify.com/artist/5mrfwFGMT56yGbirhVdInL) | [Monster A Go\-Go: Teen Trash From Psychedelic Tokyo '66 \- '69 \(Volume 1\)](https://open.spotify.com/album/0d3ymarURd8tsiawQJJxl7) | 2:29 |
 | 42 | [Ciudad Hippie](https://open.spotify.com/track/6VwQN0X2kpPnnYohDCPK7v) | [Rabbits And Carrots](https://open.spotify.com/artist/5FjZWiU4wLCmX0QBaMKhwQ) | [Soul Latino](https://open.spotify.com/album/53nfvyyeuDSxk7PZjptrFE) | 5:07 |
-| 43 | [Groupie](https://open.spotify.com/track/5CNo2B3LgMJgheq3ikhVir) | [EL RITUAL](https://open.spotify.com/artist/5892Xxyev45o73ZrqlmMGT) | [El Ritual](https://open.spotify.com/album/5BUdMrFRo924docI7JKqmo) | 3:54 |
-| 44 | [Nada Nos Detendrá](https://open.spotify.com/track/6bpu24bVKDCEyFHdpcNEMA) | [Grupo Ciruela](https://open.spotify.com/artist/1xPdPBhKemqYuJUlaLTR9S) | [Regreso al Origen](https://open.spotify.com/album/54FzvnC07SZN2QpZ1yF0Jn) | 3:12 |
-| 45 | [Let's Make It Now \(Hagámoslo Ahora\)](https://open.spotify.com/track/7pKFG1Hlr37cS8TLJCs27j) | [Los Dug Dug's](https://open.spotify.com/artist/4NJDvfZdkJBPqecQ83THVT) | [RCA 100 Años de Música](https://open.spotify.com/album/1d3ehrCDJMcz0qWKQ1GYg7) | 4:36 |
+| 43 | [Nada Nos Detendrá](https://open.spotify.com/track/6bpu24bVKDCEyFHdpcNEMA) | [Grupo Ciruela](https://open.spotify.com/artist/1xPdPBhKemqYuJUlaLTR9S) | [Regreso al Origen](https://open.spotify.com/album/54FzvnC07SZN2QpZ1yF0Jn) | 3:12 |
+| 44 | [Groupie](https://open.spotify.com/track/5CNo2B3LgMJgheq3ikhVir) | [EL RITUAL](https://open.spotify.com/artist/5892Xxyev45o73ZrqlmMGT) | [El Ritual](https://open.spotify.com/album/5BUdMrFRo924docI7JKqmo) | 3:54 |
+| 45 | [Roaming](https://open.spotify.com/track/7qbSUZaGP6FyvadcKT59WF) | [La Fachada De Piedra](https://open.spotify.com/artist/4alM2y1QDZQ9NkVgdmO0f9) | [Rock en Avándaro Valle de Bravo](https://open.spotify.com/album/4YeKgMdvtyH6pLC0g4uqMT) | 3:07 |
 | 46 | [Mi Mami Dijo](https://open.spotify.com/track/6SqepgrJ8ThiNLmZZW0IcT) | [Los Monjes](https://open.spotify.com/artist/6PjH1bMbi3GPcgur2egQMO) | [Pebbles Vol\. 12, Mexico Pt\. 1, Originals Artifacts From The Psychedelic Era](https://open.spotify.com/album/4KLAjeofXYCHrB1s3tDZDy) | 2:05 |
-| 47 | [Roaming](https://open.spotify.com/track/7qbSUZaGP6FyvadcKT59WF) | [La Fachada De Piedra](https://open.spotify.com/artist/4alM2y1QDZQ9NkVgdmO0f9) | [Rock en Avándaro Valle de Bravo](https://open.spotify.com/album/4YeKgMdvtyH6pLC0g4uqMT) | 3:07 |
-| 48 | [Boom! Boom! Boom!](https://open.spotify.com/track/4BuMxDprV7PhLj5ykVwA9I) | [The Spiders](https://open.spotify.com/artist/5mrfwFGMT56yGbirhVdInL) | [Slitherama: Teen Trash From Psychedelic Tokyo '66 \- '69 \(Volume 3\)](https://open.spotify.com/album/3sV1mS552317G9XyVhkQOb) | 2:34 |
-| 49 | [Mony Mony](https://open.spotify.com/track/4roB2QW6dbmd799xB21dQX) | [Las Moskas](https://open.spotify.com/artist/5tqciiCyuTvqWLNGE7MvpY) | [Rock Sound](https://open.spotify.com/album/3O3bm3NTe7IRZHPmbm2dMZ) | 2:43 |
-| 50 | [Regreso al Origen](https://open.spotify.com/track/27T3luqWg01rUHNaO6RB5X) | [Grupo Ciruela](https://open.spotify.com/artist/1xPdPBhKemqYuJUlaLTR9S) | [Regreso al Origen](https://open.spotify.com/album/54FzvnC07SZN2QpZ1yF0Jn) | 3:57 |
+| 47 | [Let's Make It Now \(Hagámoslo Ahora\)](https://open.spotify.com/track/7pKFG1Hlr37cS8TLJCs27j) | [Los Dug Dug's](https://open.spotify.com/artist/4NJDvfZdkJBPqecQ83THVT) | [RCA 100 Años de Música](https://open.spotify.com/album/1d3ehrCDJMcz0qWKQ1GYg7) | 4:36 |
+| 48 | [Mony Mony](https://open.spotify.com/track/4roB2QW6dbmd799xB21dQX) | [Las Moskas](https://open.spotify.com/artist/5tqciiCyuTvqWLNGE7MvpY) | [Rock Sound](https://open.spotify.com/album/3O3bm3NTe7IRZHPmbm2dMZ) | 2:43 |
+| 49 | [Boom! Boom! Boom!](https://open.spotify.com/track/4BuMxDprV7PhLj5ykVwA9I) | [The Spiders](https://open.spotify.com/artist/5mrfwFGMT56yGbirhVdInL) | [Slitherama: Teen Trash From Psychedelic Tokyo '66 \- '69 \(Volume 3\)](https://open.spotify.com/album/3sV1mS552317G9XyVhkQOb) | 2:34 |
+| 50 | [Libertad](https://open.spotify.com/track/3oCXeYBiZODvdaXHranRHd) | [Los Soul Master's](https://open.spotify.com/artist/4dlWy5TRLwDd04nALLTWfe) | [Rock en Avándaro Valle de Bravo](https://open.spotify.com/album/4YeKgMdvtyH6pLC0g4uqMT) | 2:49 |
 
-Snapshot ID: `MTY0MDM1MzE2NSwwMDAwMDAwMGVmMzEyODIwYmI1ZjU0ZTc0ODAxN2NmMzQxNWYxMDc2`
+Snapshot ID: `MTY0MDM1MzE2NSwwMDAwMDAwMDc3NzQ5ZjNlMzU0NjRjMDAxNjhhNTZkYTU0NDg3OWM5`

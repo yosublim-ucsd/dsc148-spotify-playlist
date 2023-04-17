@@ -1,12 +1,12 @@
 {
   "description": "'80s New Wave, New Romantic and Post-punk.",
-  "num_followers": 925047,
+  "num_followers": 925466,
   "original_name": "The '80s All Lined Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzQ5NDkzOSwwMDAwMDAwMDI5MjE2ZDM3MjgwNmQyMDlmZmIyMDcwMGE1NTMwZGE3",
+  "snapshot_id": "MTY3NzQ5NDkzOSwwMDAwMDAwMGNmMWM5M2EyZWIyNGUyZmE5MDdiNmYzYmJjNDUwMTk1",
   "tracks": [
     {
       "added_at": "2022-06-01 09:47:30",
@@ -145,22 +145,6 @@
       "url": "https://open.spotify.com/track/3qLZ866ZfaK0B0R5FIqXLG"
     },
     {
-      "added_at": "2018-12-12 10:56:53",
-      "album": {
-        "name": "Love Will Tear Us Apart",
-        "url": "https://open.spotify.com/album/0u0CJa9zwFbGSU8JWQYS5G"
-      },
-      "artists": [
-        {
-          "name": "Joy Division",
-          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
-        }
-      ],
-      "duration_ms": 208453,
-      "name": "Love Will Tear Us Apart - 2020 Remaster",
-      "url": "https://open.spotify.com/track/34iOH7LY3vme5rQxsVILZ4"
-    },
-    {
       "added_at": "2019-08-01 09:50:38",
       "album": {
         "name": "Please: Further Listening 1984 - 1986 (2018 Remaster)",
@@ -175,6 +159,22 @@
       "duration_ms": 285906,
       "name": "West End Girls - 2018 Remaster",
       "url": "https://open.spotify.com/track/2Di0qFNb7ATroCGB3q0Ka7"
+    },
+    {
+      "added_at": "2018-12-12 10:56:53",
+      "album": {
+        "name": "Love Will Tear Us Apart",
+        "url": "https://open.spotify.com/album/0u0CJa9zwFbGSU8JWQYS5G"
+      },
+      "artists": [
+        {
+          "name": "Joy Division",
+          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+        }
+      ],
+      "duration_ms": 208453,
+      "name": "Love Will Tear Us Apart - 2020 Remaster",
+      "url": "https://open.spotify.com/track/34iOH7LY3vme5rQxsVILZ4"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -273,20 +273,20 @@
       "url": "https://open.spotify.com/track/2oSpQ7QtIKTNFfA08Cy0ku"
     },
     {
-      "added_at": "2019-08-01 09:13:54",
+      "added_at": "2018-12-12 10:56:53",
       "album": {
-        "name": "Unknown Pleasures (Collector's Edition)",
-        "url": "https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy"
+        "name": "Let's Dance (2018 Remaster)",
+        "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
       },
       "artists": [
         {
-          "name": "Joy Division",
-          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
         }
       ],
-      "duration_ms": 209039,
-      "name": "Disorder - 2007 Remaster",
-      "url": "https://open.spotify.com/track/5fbQCQt91LsVgXusFS0CCD"
+      "duration_ms": 288339,
+      "name": "Modern Love - 2018 Remaster",
+      "url": "https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5"
     },
     {
       "added_at": "2022-09-27 13:03:58",
@@ -305,20 +305,20 @@
       "url": "https://open.spotify.com/track/1xaTREM89RbIxkcjlpf4Uw"
     },
     {
-      "added_at": "2018-12-12 10:56:53",
+      "added_at": "2019-08-01 09:13:54",
       "album": {
-        "name": "Let's Dance (2018 Remaster)",
-        "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
+        "name": "Unknown Pleasures (Collector's Edition)",
+        "url": "https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy"
       },
       "artists": [
         {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+          "name": "Joy Division",
+          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
         }
       ],
-      "duration_ms": 288339,
-      "name": "Modern Love - 2018 Remaster",
-      "url": "https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5"
+      "duration_ms": 209039,
+      "name": "Disorder - 2007 Remaster",
+      "url": "https://open.spotify.com/track/5fbQCQt91LsVgXusFS0CCD"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2018-12-12 10:56:53",
       "album": {
-        "name": "Treasure",
-        "url": "https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62"
-      },
-      "artists": [
-        {
-          "name": "Cocteau Twins",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
-        }
-      ],
-      "duration_ms": 223266,
-      "name": "Lorelei",
-      "url": "https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH"
-    },
-    {
-      "added_at": "2018-12-12 10:56:53",
-      "album": {
         "name": "The Hurting",
         "url": "https://open.spotify.com/album/3sIFpEctox1XOs3FEkqrgr"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 254000,
       "name": "Change",
       "url": "https://open.spotify.com/track/2JhIaeltCDCcp02K936tgx"
+    },
+    {
+      "added_at": "2018-12-12 10:56:53",
+      "album": {
+        "name": "Treasure",
+        "url": "https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        }
+      ],
+      "duration_ms": 223266,
+      "name": "Lorelei",
+      "url": "https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH"
     },
     {
       "added_at": "2021-11-08 14:30:13",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2018-12-12 10:56:53",
       "album": {
-        "name": "Lovely",
-        "url": "https://open.spotify.com/album/7dkhewp2B3L7YNsUp9u5GR"
-      },
-      "artists": [
-        {
-          "name": "The Primitives",
-          "url": "https://open.spotify.com/artist/4FPmAi3p4T3p0AsthfqHMA"
-        }
-      ],
-      "duration_ms": 151693,
-      "name": "Crash",
-      "url": "https://open.spotify.com/track/4tPHC7YsU3LInUYcIe2UIi"
-    },
-    {
-      "added_at": "2018-12-12 10:56:53",
-      "album": {
         "name": "Some Great Reward (2006 Remaster)",
         "url": "https://open.spotify.com/album/7DbpWj9i5uZ1UggeGRo1LZ"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 232080,
       "name": "People Are People - 2006 Remaster",
       "url": "https://open.spotify.com/track/3GREm6zSHwKZsJxl0hqbAQ"
+    },
+    {
+      "added_at": "2018-12-12 10:56:53",
+      "album": {
+        "name": "Lovely",
+        "url": "https://open.spotify.com/album/7dkhewp2B3L7YNsUp9u5GR"
+      },
+      "artists": [
+        {
+          "name": "The Primitives",
+          "url": "https://open.spotify.com/artist/4FPmAi3p4T3p0AsthfqHMA"
+        }
+      ],
+      "duration_ms": 151693,
+      "name": "Crash",
+      "url": "https://open.spotify.com/track/4tPHC7YsU3LInUYcIe2UIi"
     },
     {
       "added_at": "2020-01-07 15:15:52",
@@ -1569,20 +1569,20 @@
       "url": "https://open.spotify.com/track/2h7w0KHwHbx4WbG6WxjO7U"
     },
     {
-      "added_at": "2018-12-12 10:56:53",
+      "added_at": "2019-11-03 11:40:01",
       "album": {
-        "name": "Viva Hate (2014 Remaster)",
-        "url": "https://open.spotify.com/album/0s5wo4mTZ5bJAgqiPBO3ou"
+        "name": "The Crossing",
+        "url": "https://open.spotify.com/album/1E4YQWCiaIuRG7ih78thrE"
       },
       "artists": [
         {
-          "name": "Morrissey",
-          "url": "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
+          "name": "Big Country",
+          "url": "https://open.spotify.com/artist/1h8YIw9HLr6E8gdXVDRbVJ"
         }
       ],
-      "duration_ms": 235520,
-      "name": "Suedehead - 2011 Remaster",
-      "url": "https://open.spotify.com/track/76HJoPhDFxD7rizsbCmZND"
+      "duration_ms": 283200,
+      "name": "In A Big Country",
+      "url": "https://open.spotify.com/track/4cY1KFcIcTkjXxxF4KVDpY"
     },
     {
       "added_at": "2021-08-31 07:26:09",
@@ -1601,6 +1601,22 @@
       "url": "https://open.spotify.com/track/2UV9ahm7JUWHN1zQAoocEq"
     },
     {
+      "added_at": "2018-12-12 10:56:53",
+      "album": {
+        "name": "Viva Hate (2014 Remaster)",
+        "url": "https://open.spotify.com/album/0s5wo4mTZ5bJAgqiPBO3ou"
+      },
+      "artists": [
+        {
+          "name": "Morrissey",
+          "url": "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
+        }
+      ],
+      "duration_ms": 235520,
+      "name": "Suedehead - 2011 Remaster",
+      "url": "https://open.spotify.com/track/76HJoPhDFxD7rizsbCmZND"
+    },
+    {
       "added_at": "2019-08-01 09:50:38",
       "album": {
         "name": "Lion and the Cobra",
@@ -1615,38 +1631,6 @@
       "duration_ms": 227653,
       "name": "Mandinka",
       "url": "https://open.spotify.com/track/4x4e63yL8r7tOFcZ0n6KHe"
-    },
-    {
-      "added_at": "2019-11-03 11:40:01",
-      "album": {
-        "name": "The Crossing",
-        "url": "https://open.spotify.com/album/1E4YQWCiaIuRG7ih78thrE"
-      },
-      "artists": [
-        {
-          "name": "Big Country",
-          "url": "https://open.spotify.com/artist/1h8YIw9HLr6E8gdXVDRbVJ"
-        }
-      ],
-      "duration_ms": 283200,
-      "name": "In A Big Country",
-      "url": "https://open.spotify.com/track/4cY1KFcIcTkjXxxF4KVDpY"
-    },
-    {
-      "added_at": "2018-12-12 10:56:53",
-      "album": {
-        "name": "Everything Counts",
-        "url": "https://open.spotify.com/album/1pXjpgob9bE4OFxCUSSVjQ"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 239706,
-      "name": "Everything Counts",
-      "url": "https://open.spotify.com/track/31xOx8PgBKBdXk5gfUvr0p"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -1679,6 +1663,22 @@
       "duration_ms": 204333,
       "name": "Walls Come Tumbling Down",
       "url": "https://open.spotify.com/track/00cn1ynXQhURwsgv69fN0b"
+    },
+    {
+      "added_at": "2018-12-12 10:56:53",
+      "album": {
+        "name": "Everything Counts",
+        "url": "https://open.spotify.com/album/1pXjpgob9bE4OFxCUSSVjQ"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 239706,
+      "name": "Everything Counts",
+      "url": "https://open.spotify.com/track/31xOx8PgBKBdXk5gfUvr0p"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -1841,22 +1841,6 @@
       "url": "https://open.spotify.com/track/0mxe1uof85IOstFsn2l2da"
     },
     {
-      "added_at": "2019-08-01 09:59:32",
-      "album": {
-        "name": "Night And Day",
-        "url": "https://open.spotify.com/album/62rwfuO0qI4y6pSz6zwOlS"
-      },
-      "artists": [
-        {
-          "name": "Joe Jackson",
-          "url": "https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT"
-        }
-      ],
-      "duration_ms": 259493,
-      "name": "Steppin' Out",
-      "url": "https://open.spotify.com/track/1qaS4rwkm52lpkDZVmvF52"
-    },
-    {
       "added_at": "2019-08-01 09:23:21",
       "album": {
         "name": "Scary Monsters (And Super Creeps) [2017 Remaster]",
@@ -1871,6 +1855,22 @@
       "duration_ms": 290480,
       "name": "Fashion - 2017 Remaster",
       "url": "https://open.spotify.com/track/1MMYuuvnD3O9Sn90gDabv9"
+    },
+    {
+      "added_at": "2019-08-01 09:59:32",
+      "album": {
+        "name": "Night And Day",
+        "url": "https://open.spotify.com/album/62rwfuO0qI4y6pSz6zwOlS"
+      },
+      "artists": [
+        {
+          "name": "Joe Jackson",
+          "url": "https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT"
+        }
+      ],
+      "duration_ms": 259493,
+      "name": "Steppin' Out",
+      "url": "https://open.spotify.com/track/1qaS4rwkm52lpkDZVmvF52"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -2073,20 +2073,20 @@
       "url": "https://open.spotify.com/track/3Mw3lZoplwJrVE5Qz7XRUx"
     },
     {
-      "added_at": "2019-08-01 09:50:38",
+      "added_at": "2019-08-02 12:45:54",
       "album": {
-        "name": "The Stars We Are",
-        "url": "https://open.spotify.com/album/3HIPNQXH9gtsvrlt74dUXR"
+        "name": "A Secret Wish (Analogue Sequence)",
+        "url": "https://open.spotify.com/album/4W0pFYAaKVuJwY9ZMTmsUW"
       },
       "artists": [
         {
-          "name": "Marc Almond",
-          "url": "https://open.spotify.com/artist/7nBZYpVAH6bD0QlD7Mpil7"
+          "name": "Propaganda",
+          "url": "https://open.spotify.com/artist/28yIUgPYZqgJoNZjeBvrHn"
         }
       ],
-      "duration_ms": 261687,
-      "name": "Tears Run Rings",
-      "url": "https://open.spotify.com/track/7jEQ43V8AA7UQ6NcG4x1ki"
+      "duration_ms": 228733,
+      "name": "p:Machinery",
+      "url": "https://open.spotify.com/track/7ws5COVtdJoCjK8Zumn43b"
     },
     {
       "added_at": "2020-10-21 16:52:43",
@@ -2105,20 +2105,20 @@
       "url": "https://open.spotify.com/track/42B78nSUeYYpdzmeWciyPM"
     },
     {
-      "added_at": "2019-08-02 12:45:54",
+      "added_at": "2019-08-01 09:50:38",
       "album": {
-        "name": "A Secret Wish (Analogue Sequence)",
-        "url": "https://open.spotify.com/album/4W0pFYAaKVuJwY9ZMTmsUW"
+        "name": "The Stars We Are",
+        "url": "https://open.spotify.com/album/3HIPNQXH9gtsvrlt74dUXR"
       },
       "artists": [
         {
-          "name": "Propaganda",
-          "url": "https://open.spotify.com/artist/28yIUgPYZqgJoNZjeBvrHn"
+          "name": "Marc Almond",
+          "url": "https://open.spotify.com/artist/7nBZYpVAH6bD0QlD7Mpil7"
         }
       ],
-      "duration_ms": 228733,
-      "name": "p:Machinery",
-      "url": "https://open.spotify.com/track/7ws5COVtdJoCjK8Zumn43b"
+      "duration_ms": 261687,
+      "name": "Tears Run Rings",
+      "url": "https://open.spotify.com/track/7jEQ43V8AA7UQ6NcG4x1ki"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -2325,20 +2325,20 @@
       "url": "https://open.spotify.com/track/6HYf9ZEZKuxy581QVmYA6c"
     },
     {
-      "added_at": "2022-05-27 11:23:30",
+      "added_at": "2021-10-17 09:47:36",
       "album": {
-        "name": "Some Great Reward (2006 Remaster)",
-        "url": "https://open.spotify.com/album/7DbpWj9i5uZ1UggeGRo1LZ"
+        "name": "Fehler im System (2023 Remaster)",
+        "url": "https://open.spotify.com/album/7KDpHLxa1aLFJuw8pt3Yy2"
       },
       "artists": [
         {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+          "name": "Peter Schilling",
+          "url": "https://open.spotify.com/artist/7ip3CWlgPZbQHvgJpmcGSS"
         }
       ],
-      "duration_ms": 381560,
-      "name": "Blasphemous Rumours - 2006 Remaster",
-      "url": "https://open.spotify.com/track/5KjueTOwREhwpEcYrzD0Fz"
+      "duration_ms": 303903,
+      "name": "Major Tom (V\u00f6llig losgel\u00f6st) - 2022 Remaster",
+      "url": "https://open.spotify.com/track/3pR29mXC5gp0UjJSRePU2f"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -2355,6 +2355,22 @@
       "duration_ms": 330426,
       "name": "Wishing (If I Had a Photograph of You)",
       "url": "https://open.spotify.com/track/2mwdSJZlzXOJqTQ37rpIbv"
+    },
+    {
+      "added_at": "2022-05-27 11:23:30",
+      "album": {
+        "name": "Some Great Reward (2006 Remaster)",
+        "url": "https://open.spotify.com/album/7DbpWj9i5uZ1UggeGRo1LZ"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 381560,
+      "name": "Blasphemous Rumours - 2006 Remaster",
+      "url": "https://open.spotify.com/track/5KjueTOwREhwpEcYrzD0Fz"
     },
     {
       "added_at": "2019-08-02 11:52:58",
@@ -2375,22 +2391,6 @@
     {
       "added_at": "2018-12-12 10:56:53",
       "album": {
-        "name": "On The Other Hand There's A Fist",
-        "url": "https://open.spotify.com/album/3Yg4ePP2KlxZgCXhOgQIDU"
-      },
-      "artists": [
-        {
-          "name": "Jona Lewie",
-          "url": "https://open.spotify.com/artist/3nohf4qILMr5aUSOsolwxB"
-        }
-      ],
-      "duration_ms": 186626,
-      "name": "You'll Always Find Me In The Kitchen At Parties",
-      "url": "https://open.spotify.com/track/4ZHPfdvTgCDGIeP8fAUVpG"
-    },
-    {
-      "added_at": "2018-12-12 10:56:53",
-      "album": {
         "name": "Dig That Groove Baby",
         "url": "https://open.spotify.com/album/2G4Qadfi3LHuQSaZ60rFCP"
       },
@@ -2405,20 +2405,20 @@
       "url": "https://open.spotify.com/track/00MmJraiM6d7AINTYB5Xid"
     },
     {
-      "added_at": "2021-10-17 09:47:36",
+      "added_at": "2018-12-12 10:56:53",
       "album": {
-        "name": "Fehler im System (2023 Remaster)",
-        "url": "https://open.spotify.com/album/7KDpHLxa1aLFJuw8pt3Yy2"
+        "name": "On The Other Hand There's A Fist",
+        "url": "https://open.spotify.com/album/3Yg4ePP2KlxZgCXhOgQIDU"
       },
       "artists": [
         {
-          "name": "Peter Schilling",
-          "url": "https://open.spotify.com/artist/7ip3CWlgPZbQHvgJpmcGSS"
+          "name": "Jona Lewie",
+          "url": "https://open.spotify.com/artist/3nohf4qILMr5aUSOsolwxB"
         }
       ],
-      "duration_ms": 303903,
-      "name": "Major Tom (V\u00f6llig losgel\u00f6st) - 2022 Remaster",
-      "url": "https://open.spotify.com/track/3pR29mXC5gp0UjJSRePU2f"
+      "duration_ms": 186626,
+      "name": "You'll Always Find Me In The Kitchen At Parties",
+      "url": "https://open.spotify.com/track/4ZHPfdvTgCDGIeP8fAUVpG"
     },
     {
       "added_at": "2018-12-12 10:56:53",

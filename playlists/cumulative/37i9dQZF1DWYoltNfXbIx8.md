@@ -4,7 +4,7 @@
 
 > Uma playlist só com as origens do Rap nacional\. Foto: MV Bill
 
-104 songs - 10 hr 0 min
+105 songs - 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,8 @@
 | [Soldado do Morro](https://open.spotify.com/track/6DcxN9jzax8WgSl39XtTfx) | [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ) | [Traficando Informação](https://open.spotify.com/album/0Tl0xR97QwbyY6YU5Q70mV) | 6:52 | 2022-02-25 |  |
 | [Somos Nos](https://open.spotify.com/track/3qQ6z2RmuTXDDMW4FOZpEW) | [SNJ](https://open.spotify.com/artist/53eJax5oXY1SqAwVjSO7Uk) | [Somos Nos a Justica](https://open.spotify.com/album/0XlG6cwuICfhqx2oo7YqyK) | 4:34 | 2022-02-25 |  |
 | [Sonho Meu](https://open.spotify.com/track/5AV7MnJYqIzo04TbShrJDT) | [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1) | [Fortificando a Desobediência](https://open.spotify.com/album/21LvTSzGemrRgeeC939bC8) | 5:40 | 2022-02-25 | 2022-07-29 |
-| [Sonho Meu](https://open.spotify.com/track/7Dcm25Cx6oJb58R6omQT08) | [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1) | [Fortificando a Desobediência](https://open.spotify.com/album/2cGL7y3C3yRMv7qo6Bk5Rt) | 5:40 | 2022-02-25 |  |
+| [Sonho Meu](https://open.spotify.com/track/7Dcm25Cx6oJb58R6omQT08) | [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1) | [Fortificando a Desobediência](https://open.spotify.com/album/2cGL7y3C3yRMv7qo6Bk5Rt) | 5:40 | 2022-02-25 | 2023-04-17 |
+| [Sonho Meu](https://open.spotify.com/track/1Vtd7pteeBGMy7y0hb7bcB) | [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1), [Cibelle](https://open.spotify.com/artist/3BfQyeTb3hG0Iy76tSWwAU) | [Fortificando a Desobediência](https://open.spotify.com/album/7u6It7Xkl1A6U7BxCDOfqn) | 5:40 | 2022-12-02 |  |
 | [Sou Negrão](https://open.spotify.com/track/22jyfobuA8gTgTsTHGAPzG) | [Possemente Zulu](https://open.spotify.com/artist/6jXPqaCexpo7b4JHeFsmSV) | [Revolusom: A Volta do Tape Perdido](https://open.spotify.com/album/0S2iqPNC2M1taMpLWA2Map) | 6:25 | 2022-02-25 |  |
 | [Sr\. Tempo Bom](https://open.spotify.com/track/6vbN5VPXXh2Co1rA9wEJAw) | [Thaíde & DJ Hum](https://open.spotify.com/artist/26hFGAboiK1hGyRCXdfOq3), [DJ Hum](https://open.spotify.com/artist/37hCu82ZWZlLCf6gs1H8Gf), [Thaíde](https://open.spotify.com/artist/6aBCEjrlI6ylLy2DTHRyJe), [Paula Lima](https://open.spotify.com/artist/5oE0wKd9rFGBMQTNF1CTZW), [Ieda Hills](https://open.spotify.com/artist/4C6FdPXAivI1RSEL63afq4) | [Preste Atenção](https://open.spotify.com/album/4QhLW1Z07WU2CrQcerA7wy) | 4:42 | 2022-02-25 |  |
 | [Sr\. Tempo Bom](https://open.spotify.com/track/5QHmlQiT4VUz0w5jjMQwGy) | [Thaíde & DJ Hum](https://open.spotify.com/artist/26hFGAboiK1hGyRCXdfOq3), [DJ Hum](https://open.spotify.com/artist/37hCu82ZWZlLCf6gs1H8Gf), [Thaíde](https://open.spotify.com/artist/6aBCEjrlI6ylLy2DTHRyJe), [Paula Lima & Ieda Hills](https://open.spotify.com/artist/3K8B64cKUgTjV7Q7QPA7ZS) | [Preste Atenção](https://open.spotify.com/album/3cwZOIV5bkTrWG8Huzj1MV) | 4:42 | 2022-02-25 | 2022-07-29 |

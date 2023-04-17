@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 
 > Hip hop tracks to kick your workout up a notch
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,448 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,483 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 | 36 | [Who's True](https://open.spotify.com/track/3vMItL2i0J010aWIw1YUwr) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Green With Envy](https://open.spotify.com/album/4YWgs2cK2u6lrIzM9Ve2wc) | 3:36 |
 | 37 | [Ease](https://open.spotify.com/track/39qkz1q7TkelO5Eb6YTKOv) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Yanga Chief](https://open.spotify.com/artist/30WlMKuvwN6RrMeLARZeqk) | [MASS COUNTRY](https://open.spotify.com/album/376vzaVcBQAbefjO1t7vu5) | 4:17 |
 | 38 | [FAKE NIKES \(feat\. Blxckie & Cheque\)](https://open.spotify.com/track/7bhBk8gX5aRsiUTBaaaCwq) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM) | [Young Preacher](https://open.spotify.com/album/5J4BbjFnBq9C31xsph3ld2) | 3:01 |
-| 39 | [Holy F4k](https://open.spotify.com/track/7eWoPZVIC0RzgFghNDrLbQ) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Ivorian Doll](https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Connecting the Dots](https://open.spotify.com/album/1q6SQV8J22Is1SsgKAh4eJ) | 3:15 |
+| 39 | [Vigilante Bop](https://open.spotify.com/track/4IschypVu1Oz4FS8Gg7y0u) | [Alpha Ojini](https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Vigilante Bop](https://open.spotify.com/album/62wsAbVkM8OxT2tJ9hIkiG) | 3:00 |
 | 40 | [Second Sermon \- Remix](https://open.spotify.com/track/574QNMkQGedluLOgr275s9) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Second Sermon \(Remix\)](https://open.spotify.com/album/2YaqeghqhsIi2u9fQjGBsq) | 3:14 |
-| 41 | [Vigilante Bop](https://open.spotify.com/track/4IschypVu1Oz4FS8Gg7y0u) | [Alpha Ojini](https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Vigilante Bop](https://open.spotify.com/album/62wsAbVkM8OxT2tJ9hIkiG) | 3:00 |
+| 41 | [Holy F4k](https://open.spotify.com/track/7eWoPZVIC0RzgFghNDrLbQ) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Ivorian Doll](https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Connecting the Dots](https://open.spotify.com/album/1q6SQV8J22Is1SsgKAh4eJ) | 3:15 |
 | 42 | [Hate Me](https://open.spotify.com/track/1tDf8B65kTrz87w5RJmgXG) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Hate Me](https://open.spotify.com/album/4TMywqUCETaHjCMralaz1p) | 3:19 |
 | 43 | [My Bro](https://open.spotify.com/track/40PfZ3BA3B9DXqiOC7yUFh) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [BILLION DOLLAR DREAM \(Deluxe Version\)](https://open.spotify.com/album/17JDg6vlGbIPHoYT7Z0hPi) | 3:06 |
 | 44 | [Anadwo](https://open.spotify.com/track/28kK6tGNpEVpBYiyu6dot1) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Anadwo](https://open.spotify.com/album/5NTCRsZ3s9YSUPi9QiGRuh) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 | 49 | [Go German](https://open.spotify.com/track/1YpGByjEamqwgni31e3Ylu) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [Go German](https://open.spotify.com/album/566SSg2JNZLMGCVu8euxNN) | 2:58 |
 | 50 | [Second Sermon](https://open.spotify.com/track/6quFWbUf88BS0pWUNrwVCR) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Second Sermon](https://open.spotify.com/album/1WtUCwDqTypySaG8c5yC8C) | 2:46 |
 
-Snapshot ID: `MTY4MTQ4NzI3NiwwMDAwMDAwMDNlZGFjNmRjMjJjMDAzMmViYmRlYzM4ZTA3YjA5N2Iy`
+Snapshot ID: `MTY4MTQ4NzI3NiwwMDAwMDAwMDFjOTMxZDMwNTViMDUyZWY0NzM5MjAzYjA4MDE4NDQ1`

@@ -1,12 +1,12 @@
 {
   "description": "Jesus Music but make it pon pon.   Get your fill of Afrobeats and Bible right here!  Cover: Uwa",
-  "num_followers": 40414,
+  "num_followers": 40570,
   "original_name": "AfroGospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAyMzc3NiwwMDAwMDAwMDllNGFiNjU5NjU1YWU5YWExZTQxZTEyMGQzODI5YzU1",
+  "snapshot_id": "MTY3NjAyMzc3NiwwMDAwMDAwMDE4ZGI5YTVmODdkMWRkNWEzMTRiMzNhYjMwNWY3NGNh",
   "tracks": [
     {
       "added_at": "2023-02-10 10:09:36",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "Mercy (Sho Mo)",
-        "url": "https://open.spotify.com/album/4a77kkjF2d7ESt8kWcAdEx"
-      },
-      "artists": [
-        {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
-        }
-      ],
-      "duration_ms": 165642,
-      "name": "Mercy (Sho Mo)",
-      "url": "https://open.spotify.com/track/1DFe5m3909enzcdrHNrSXY"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
         "name": "Akorede",
         "url": "https://open.spotify.com/album/60OHPdjGHgbHZBwBQVnlyE"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 240039,
       "name": "Akorede",
       "url": "https://open.spotify.com/track/6nNnOZRV4X5rxMMivAItDp"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
+        "name": "Mercy (Sho Mo)",
+        "url": "https://open.spotify.com/album/4a77kkjF2d7ESt8kWcAdEx"
+      },
+      "artists": [
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        }
+      ],
+      "duration_ms": 165642,
+      "name": "Mercy (Sho Mo)",
+      "url": "https://open.spotify.com/track/1DFe5m3909enzcdrHNrSXY"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -903,26 +903,6 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "Only",
-        "url": "https://open.spotify.com/album/2PmXOqX60yjlQ52f1ZUuQw"
-      },
-      "artists": [
-        {
-          "name": "Dj Horphuray",
-          "url": "https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L"
-        },
-        {
-          "name": "Marizu",
-          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
-        }
-      ],
-      "duration_ms": 159085,
-      "name": "Only",
-      "url": "https://open.spotify.com/track/16uaRgsUFQhtUBXf1OTwcf"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
         "name": "Pepper Dem",
         "url": "https://open.spotify.com/album/1yLoyhBS3UYGNPUqrMIdIW"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 168813,
       "name": "Pepper Dem",
       "url": "https://open.spotify.com/track/3h1GZSyRIentZ7bg7q20Ca"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
+        "name": "Only",
+        "url": "https://open.spotify.com/album/2PmXOqX60yjlQ52f1ZUuQw"
+      },
+      "artists": [
+        {
+          "name": "Dj Horphuray",
+          "url": "https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L"
+        },
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        }
+      ],
+      "duration_ms": 159085,
+      "name": "Only",
+      "url": "https://open.spotify.com/track/16uaRgsUFQhtUBXf1OTwcf"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -963,18 +963,22 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "Jericho",
-        "url": "https://open.spotify.com/album/5dQ34jIzy2scaQXayGZNuL"
+        "name": "YOUR MIND",
+        "url": "https://open.spotify.com/album/3uCTyAK8W8KgNhOybwSox4"
       },
       "artists": [
         {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+          "name": "Spillz Ochai",
+          "url": "https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q"
+        },
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
         }
       ],
-      "duration_ms": 138710,
-      "name": "Jericho",
-      "url": "https://open.spotify.com/track/1u8KsB5A1YXpfoyqgsO6Ek"
+      "duration_ms": 175312,
+      "name": "YOUR MIND",
+      "url": "https://open.spotify.com/track/0KsRHhUgJKnxprKxC0nyiV"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -1003,22 +1007,18 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "YOUR MIND",
-        "url": "https://open.spotify.com/album/3uCTyAK8W8KgNhOybwSox4"
+        "name": "Jericho",
+        "url": "https://open.spotify.com/album/5dQ34jIzy2scaQXayGZNuL"
       },
       "artists": [
         {
-          "name": "Spillz Ochai",
-          "url": "https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q"
-        },
-        {
-          "name": "Marizu",
-          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
         }
       ],
-      "duration_ms": 175312,
-      "name": "YOUR MIND",
-      "url": "https://open.spotify.com/track/0KsRHhUgJKnxprKxC0nyiV"
+      "duration_ms": 138710,
+      "name": "Jericho",
+      "url": "https://open.spotify.com/track/1u8KsB5A1YXpfoyqgsO6Ek"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -1083,26 +1083,6 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "Highly Favoured",
-        "url": "https://open.spotify.com/album/5EG3FrFomhVsocyhiwkJYA"
-      },
-      "artists": [
-        {
-          "name": "Reblah",
-          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
-        },
-        {
-          "name": "Renzo BA",
-          "url": "https://open.spotify.com/artist/1FocFjV0hqXSMMGffTbySn"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Highly Favoured",
-      "url": "https://open.spotify.com/track/02JJjf7HWHylohQftv7muI"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
         "name": "No Stress",
         "url": "https://open.spotify.com/album/6jCc7VUYsjhFDL70OrTLEL"
       },
@@ -1119,6 +1099,26 @@
       "duration_ms": 200280,
       "name": "No Stress",
       "url": "https://open.spotify.com/track/5FQBGvpjehp8hTnogC4V3Z"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
+        "name": "Highly Favoured",
+        "url": "https://open.spotify.com/album/5EG3FrFomhVsocyhiwkJYA"
+      },
+      "artists": [
+        {
+          "name": "Reblah",
+          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
+        },
+        {
+          "name": "Renzo BA",
+          "url": "https://open.spotify.com/artist/1FocFjV0hqXSMMGffTbySn"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Highly Favoured",
+      "url": "https://open.spotify.com/track/02JJjf7HWHylohQftv7muI"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
+        "name": "Valentine",
+        "url": "https://open.spotify.com/album/4IPg0TIXt2teKZxvxnjJHr"
+      },
+      "artists": [
+        {
+          "name": "Konola",
+          "url": "https://open.spotify.com/artist/5OLzjUDB3C9y3LvyNefP8t"
+        }
+      ],
+      "duration_ms": 196530,
+      "name": "Valentine",
+      "url": "https://open.spotify.com/track/4yf7zNinhajeShvOXAHMuZ"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
         "name": "Nobody Like You",
         "url": "https://open.spotify.com/album/1dU5VJTafuXBaXWFZKZ69C"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 185959,
       "name": "Nobody Like You (feat. CalledOut Music) - Radio Edit",
       "url": "https://open.spotify.com/track/69dmysQe6AgLJM4FepdiiJ"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
-        "name": "Valentine",
-        "url": "https://open.spotify.com/album/4IPg0TIXt2teKZxvxnjJHr"
-      },
-      "artists": [
-        {
-          "name": "Konola",
-          "url": "https://open.spotify.com/artist/5OLzjUDB3C9y3LvyNefP8t"
-        }
-      ],
-      "duration_ms": 196530,
-      "name": "Valentine",
-      "url": "https://open.spotify.com/track/4yf7zNinhajeShvOXAHMuZ"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "I Need You",
-        "url": "https://open.spotify.com/album/1eiKWT8uMg2QC1F8N34jdC"
-      },
-      "artists": [
-        {
-          "name": "Shirlvin Desir",
-          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
-        },
-        {
-          "name": "GAV",
-          "url": "https://open.spotify.com/artist/4EK1vzhkIaze8TCtYg0Tge"
-        }
-      ],
-      "duration_ms": 155326,
-      "name": "I Need You",
-      "url": "https://open.spotify.com/track/3hH73HFk0SrSCTLxsTw9gD"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
         "name": "Feeling Good",
         "url": "https://open.spotify.com/album/6sYCJnsF6Io91R5GOVlvFs"
       },
@@ -1331,6 +1311,26 @@
       "duration_ms": 206181,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/1hjfRY5lZd5XYAVRgCg1g8"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
+        "name": "I Need You",
+        "url": "https://open.spotify.com/album/1eiKWT8uMg2QC1F8N34jdC"
+      },
+      "artists": [
+        {
+          "name": "Shirlvin Desir",
+          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
+        },
+        {
+          "name": "GAV",
+          "url": "https://open.spotify.com/artist/4EK1vzhkIaze8TCtYg0Tge"
+        }
+      ],
+      "duration_ms": 155326,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/3hH73HFk0SrSCTLxsTw9gD"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -1371,50 +1371,6 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "Higher Life",
-        "url": "https://open.spotify.com/album/2gt5I6qjSVSt619rSAIlOg"
-      },
-      "artists": [
-        {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
-        },
-        {
-          "name": "Darla Baltazar",
-          "url": "https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Conflicted",
-      "url": "https://open.spotify.com/track/2HXxWaxq54pRSJIrsosr4H"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
-        "name": "Your Love",
-        "url": "https://open.spotify.com/album/405dv35s3LkDWgWkim8qOs"
-      },
-      "artists": [
-        {
-          "name": "Shirlvin Desir",
-          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
-        },
-        {
-          "name": "O'Tobi",
-          "url": "https://open.spotify.com/artist/1HYbCVkigoBdEuitGNANGW"
-        },
-        {
-          "name": "Maikon West",
-          "url": "https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG"
-        }
-      ],
-      "duration_ms": 176788,
-      "name": "Your Love",
-      "url": "https://open.spotify.com/track/52MTPnKokoYtLQjpHLk9qZ"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
         "name": "True Love",
         "url": "https://open.spotify.com/album/1jEbLKBbUdvKqLoCoNTDz4"
       },
@@ -1435,6 +1391,26 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
+        "name": "Higher Life",
+        "url": "https://open.spotify.com/album/2gt5I6qjSVSt619rSAIlOg"
+      },
+      "artists": [
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        },
+        {
+          "name": "Darla Baltazar",
+          "url": "https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Conflicted",
+      "url": "https://open.spotify.com/track/2HXxWaxq54pRSJIrsosr4H"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
         "name": "Show Dem",
         "url": "https://open.spotify.com/album/6tKY5zhkNZZTRkegrw73zD"
       },
@@ -1451,6 +1427,22 @@
       "duration_ms": 206897,
       "name": "Show Dem",
       "url": "https://open.spotify.com/track/3HUzd6rh0Seg1CNt6sUELc"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
+        "name": "Yakpa",
+        "url": "https://open.spotify.com/album/2fe6rgi33vQX1X4Zoesebh"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Rue",
+          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+        }
+      ],
+      "duration_ms": 163369,
+      "name": "Yakpa",
+      "url": "https://open.spotify.com/track/6vojGMaqWIWN18K1yE5oLG"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -1491,18 +1483,26 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "Yakpa",
-        "url": "https://open.spotify.com/album/2fe6rgi33vQX1X4Zoesebh"
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/405dv35s3LkDWgWkim8qOs"
       },
       "artists": [
         {
-          "name": "Malcolm Rue",
-          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+          "name": "Shirlvin Desir",
+          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
+        },
+        {
+          "name": "O'Tobi",
+          "url": "https://open.spotify.com/artist/1HYbCVkigoBdEuitGNANGW"
+        },
+        {
+          "name": "Maikon West",
+          "url": "https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG"
         }
       ],
-      "duration_ms": 163369,
-      "name": "Yakpa",
-      "url": "https://open.spotify.com/track/6vojGMaqWIWN18K1yE5oLG"
+      "duration_ms": 176788,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/52MTPnKokoYtLQjpHLk9qZ"
     },
     {
       "added_at": "2023-02-10 10:09:36",

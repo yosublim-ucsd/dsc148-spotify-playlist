@@ -4,7 +4,7 @@
 
 > Soft instrumental Jazz for working or studying.
 
-318 songs - 22 hr 25 min
+319 songs - 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Baubles, Bangles & Beads](https://open.spotify.com/track/7hOfHLHUyYaOVuL8MxzoLv) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [Baubles, Bangles & Beads](https://open.spotify.com/album/52l4zyCJJLLl93HezGeAoG) | 3:22 | 2022-11-11 |  |
 | [Beautiful Sunrise](https://open.spotify.com/track/6vtzBYf1I2Ozsdp94A2t5i) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Beautiful Sunrise](https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH) | 4:51 | 2023-02-02 |  |
 | [Beneath It All](https://open.spotify.com/track/7AGPS3yD3CJR3xrPBTLhcO) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [Beneath It All](https://open.spotify.com/album/2Zk97EqDVC4iLN4GdX0RIs) | 2:51 | 2022-12-08 | 2023-03-08 |
-| [Bewitched](https://open.spotify.com/track/7va480wmDj33F0PRpINgkD) | [Jaden Berry](https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL) | [Bewitched](https://open.spotify.com/album/2GeLBQLeuf4AzujFK206X0) | 3:27 | 2022-11-11 |  |
+| [Bewitched](https://open.spotify.com/track/7va480wmDj33F0PRpINgkD) | [Jaden Berry](https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL) | [Bewitched](https://open.spotify.com/album/2GeLBQLeuf4AzujFK206X0) | 3:27 | 2022-11-11 | 2023-04-17 |
 | [Beyond Belief](https://open.spotify.com/track/4Y27hhN8JYQnD4XPnqlZsU) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Beyond Belief](https://open.spotify.com/album/3NbBA45Xy9RD9og05z7NBJ) | 3:31 | 2022-11-24 |  |
 | [Blue And Sentimental](https://open.spotify.com/track/78ntGe4xyecZHg9exQWwK6) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Plays Count Basie](https://open.spotify.com/album/7ETDHJ9yletBCxNx0ipr1x) | 2:26 | 2021-12-16 | 2022-08-18 |
 | [Blue Eyes Crying In The Rain](https://open.spotify.com/track/4QJ4UWKHSgqPEofSerNqZI) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [Blue Eyes Crying In The Rain](https://open.spotify.com/album/7GOaAr9XegEcOqgkL4NqNq) | 4:12 | 2022-12-22 |  |
@@ -186,6 +186,7 @@
 | [Misty](https://open.spotify.com/track/4Mdo6FZj42vID4oDi6P4ZW) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [This Is Jazz \#14](https://open.spotify.com/album/4HNlvnGISvRdhCLHvxm7Yz) | 5:23 | 2022-06-29 | 2022-11-11 |
 | [Misty](https://open.spotify.com/track/4YhDhdIh1YYVmNUvnYjoRy) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Sony Jazz Collection](https://open.spotify.com/album/006BXWFpgckHlmMvpeQKqI) | 5:23 | 2021-12-16 | 2022-07-29 |
 | [Molly's theme](https://open.spotify.com/track/7r5XG6Ko5PsiSext5v0vyO) | [Bernhard Cohen](https://open.spotify.com/artist/4KU3igTxJsnJrxcOF2oC6f) | [Molly's theme](https://open.spotify.com/album/28OqRj89nMCysbF2EANXej) | 3:52 | 2022-12-22 |  |
+| [Moody Promenade](https://open.spotify.com/track/3QDUpdIPgL1NSpCY9aPpbf) | [Irvin Smith Group](https://open.spotify.com/artist/4SL7KeObcdWbpCRzEKlhCJ) | [Moody Promenade](https://open.spotify.com/album/2fHHkpZFQAjV1lCrC2AY4U) | 2:57 | 2023-04-13 |  |
 | [Moon Side](https://open.spotify.com/track/4gZIqCz8djBkwsT5yFsVSb) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Rue Crémieux](https://open.spotify.com/album/31veFoscAjzxxGosNo2DaO) | 3:03 | 2023-01-12 |  |
 | [More Than You Know](https://open.spotify.com/track/3AyHmUPu0wL0jKCxAkMALo) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [More Than You Know](https://open.spotify.com/album/3SFDdesj9oBxdrXZJMqHk5) | 4:21 | 2022-11-11 | 2023-01-26 |
 | [Mornin](https://open.spotify.com/track/5lKkgKB4yZ6BW0Aps1CKcL) | [James Earle Trio](https://open.spotify.com/artist/5G7z3n4Oy0s4hHwfnqfKU4) | [Mornin](https://open.spotify.com/album/0A8eqNEbD3NkNb4ki7N2E0) | 2:33 | 2022-11-11 |  |

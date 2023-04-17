@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: DNGDNGDNG
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,468 likes - 60 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,566 likes - 60 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,16 +57,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 | 47 | [Tarpuricusum Sarata \- Captain Planet Remix](https://open.spotify.com/track/2jEuZ0vQ5IVKMcr3KBxpSV) | [Luzmila Carpio](https://open.spotify.com/artist/5nerlXgmkkutK76kjPNjCr), [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Luzmila Carpio Remixed \(Luzmila Carpio Meets ZZK\)](https://open.spotify.com/album/42yJe2iKdZ6Le083B0XuZj) | 4:20 |
 | 48 | [Pua](https://open.spotify.com/track/4b3bYGxsCzLnPwQ5CyRlQX) | [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG), [Penya](https://open.spotify.com/artist/33E3A9UvKfjQno9m6S5xwU) | [Semillero](https://open.spotify.com/album/4yjnNPa3bH1Vwrepclo6d4) | 5:48 |
 | 49 | [Salsa Caliente \(Versión Aumentada\)](https://open.spotify.com/track/3qMRDghhgm2V3be7a3yxnn) | [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [Desesperanza](https://open.spotify.com/album/5Kz98hHeSt1Qokhc6rZd83) | 4:43 |
-| 50 | [Soma](https://open.spotify.com/track/1qA2L50nbrpDv9b53ifP88) | [Maajo](https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO) | [Kuru Kuru](https://open.spotify.com/album/1VtknfjcZGa4thCJt9bcaP) | 5:11 |
-| 51 | [Bleu de lune \(El Buho Remix\)](https://open.spotify.com/track/4FKT3e93KFlXf5KBh715EV) | [Zoufris Maracas](https://open.spotify.com/artist/2aW5pvTZYAAZxbh75uVzZD), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Bleu de lune \(El Buho Remix\)](https://open.spotify.com/album/1NB4UnMNf4SOXCY7iIIdyZ) | 4:41 |
-| 52 | [Nada](https://open.spotify.com/track/0IqrBjsS2wToMuIJgZjur7) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Li Saumet](https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw) | [Nada](https://open.spotify.com/album/6uvd9g2I5M3x6EaKusdJDK) | 4:58 |
+| 50 | [Nada](https://open.spotify.com/track/0IqrBjsS2wToMuIJgZjur7) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Li Saumet](https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw) | [Nada](https://open.spotify.com/album/6uvd9g2I5M3x6EaKusdJDK) | 4:58 |
+| 51 | [Soma](https://open.spotify.com/track/1qA2L50nbrpDv9b53ifP88) | [Maajo](https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO) | [Kuru Kuru](https://open.spotify.com/album/1VtknfjcZGa4thCJt9bcaP) | 5:11 |
+| 52 | [Bleu de lune \(El Buho Remix\)](https://open.spotify.com/track/4FKT3e93KFlXf5KBh715EV) | [Zoufris Maracas](https://open.spotify.com/artist/2aW5pvTZYAAZxbh75uVzZD), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Bleu de lune \(El Buho Remix\)](https://open.spotify.com/album/1NB4UnMNf4SOXCY7iIIdyZ) | 4:41 |
 | 53 | [Agujeros Blancos](https://open.spotify.com/track/62fdnD6CHCJHQYwH2YOQw3) | [Federico Estevez](https://open.spotify.com/artist/78wJyJntuNWAPG0FbN8k41) | [De Aquí Hasta Aquí](https://open.spotify.com/album/2IGTlMn6hFIJCilXryWOp3) | 2:24 |
 | 54 | [Mariposa](https://open.spotify.com/track/0g49ATUHh1IJtrXW77VysX) | [CANU](https://open.spotify.com/artist/0LRrOx7jaNrYkN1WcHeNMU), [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e), [Alejandro Castelli](https://open.spotify.com/artist/1PNTdpk9ro2EyigI6gxZVN) | [Mariposa](https://open.spotify.com/album/0znYmByBOKwFZunIH24Lth) | 7:57 |
 | 55 | [Desierto](https://open.spotify.com/track/4AaWrj0s8jwkrQZT41aMXM) | [Simah](https://open.spotify.com/artist/6LYnrefo5eYNNpzOiNxa4L) | [Desierto](https://open.spotify.com/album/46UeLDMUsEfQ8cI4CkUvSE) | 2:53 |
 | 56 | [Cuando Canto Grito](https://open.spotify.com/track/1t4gqrKnZ8TYjUAuyskN4Q) | [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6), [Lucía Pulido](https://open.spotify.com/artist/3Nc4dbxJUlEmftLhLuXn3O) | [Cuando Canto Grito](https://open.spotify.com/album/4ZvHs6XyOHCVwWd1x0NGFP) | 5:41 |
-| 57 | [Underwater Temples of Mahabalipuram](https://open.spotify.com/track/3qebe3F4sfNJLxbUBlMJnQ) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [Underwater Temples of Mahabalipuram](https://open.spotify.com/album/1R1mrvSewIDG7aiLvrAKuN) | 2:30 |
-| 58 | [Sendero del Monte](https://open.spotify.com/track/48TkZlKN57XcU049NoKmOd) | [Mateo Kingman](https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx) | [Respira](https://open.spotify.com/album/1LE1cbHMViiLVaJFaNxGvJ) | 3:51 |
-| 59 | [Sola](https://open.spotify.com/track/3pFvfrF9ye3Cn97rcZZv3q) | [Ghetto Kumbé](https://open.spotify.com/artist/2e74MUhJZSeg2Goe2UUAj3) | [Ghetto Kumbé](https://open.spotify.com/album/0eqlUfZMwPxebIrelMJZVe) | 4:15 |
+| 57 | [Sendero del Monte](https://open.spotify.com/track/48TkZlKN57XcU049NoKmOd) | [Mateo Kingman](https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx) | [Respira](https://open.spotify.com/album/1LE1cbHMViiLVaJFaNxGvJ) | 3:51 |
+| 58 | [Sola](https://open.spotify.com/track/3pFvfrF9ye3Cn97rcZZv3q) | [Ghetto Kumbé](https://open.spotify.com/artist/2e74MUhJZSeg2Goe2UUAj3) | [Ghetto Kumbé](https://open.spotify.com/album/0eqlUfZMwPxebIrelMJZVe) | 4:15 |
+| 59 | [Underwater Temples of Mahabalipuram](https://open.spotify.com/track/3qebe3F4sfNJLxbUBlMJnQ) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [Underwater Temples of Mahabalipuram](https://open.spotify.com/album/1R1mrvSewIDG7aiLvrAKuN) | 2:30 |
 | 60 | [Mano de Fatima](https://open.spotify.com/track/45bZeDQK1sPbSu8xgSvs8R) | [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw), [Khalil Mounji](https://open.spotify.com/artist/6jAB1WpJuTMPx7RH0ssZbK) | [La Tercera Vision](https://open.spotify.com/album/2U4iGHChiMfFxlOtePA1Yt) | 3:55 |
 
-Snapshot ID: `MTY3NjQ3MTQyNiwwMDAwMDAwMDViZmU1YzczMmFiZWIyOWIxZmRkOGI4M2NmNGJhMzYz`
+Snapshot ID: `MTY3NjQ3MTQyNiwwMDAwMDAwMDZkZjVmMDFlOWJhMWFiNzM3ZjdlZjI1NmU1NTJiY2Ey`

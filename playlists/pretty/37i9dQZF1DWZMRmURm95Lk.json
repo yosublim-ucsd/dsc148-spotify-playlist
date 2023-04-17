@@ -1,12 +1,12 @@
 {
   "description": "Beat e rime, oggi come una volta. Kiave, Gheesa e Macro Marco in cover.",
-  "num_followers": 31652,
+  "num_followers": 31669,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQyMzI2MCwwMDAwMDAwMDU0ZTg5ZTcxZmVkZDQwM2ZiZGNlNTk2YjUzM2JhZGVh",
+  "snapshot_id": "MTY4MTQyMzI2MCwwMDAwMDAwMGVjNmJkMGVjOWQ5YTJhMmY5MjQxNmNhYjcyMGIyOTky",
   "tracks": [
     {
       "added_at": "2023-04-13 22:01:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "SPECIALIST",
-        "url": "https://open.spotify.com/album/0ffd8nDXYLBtCWVNOujCQV"
-      },
-      "artists": [
-        {
-          "name": "Ensi",
-          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
-        }
-      ],
-      "duration_ms": 145446,
-      "name": "SPECIALIST",
-      "url": "https://open.spotify.com/track/00ziDepoTjKU8DJ3lXnh4T"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
         "name": "Ferro del mestiere",
         "url": "https://open.spotify.com/album/3MmCBPYzRAiMZc5tFMu0NL"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 130593,
       "name": "Yeah (feat. Emis Killa)",
       "url": "https://open.spotify.com/track/2CxCmoViEZSnWZU60K4tW3"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
+        "name": "SPECIALIST",
+        "url": "https://open.spotify.com/album/0ffd8nDXYLBtCWVNOujCQV"
+      },
+      "artists": [
+        {
+          "name": "Ensi",
+          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
+        }
+      ],
+      "duration_ms": 145446,
+      "name": "SPECIALIST",
+      "url": "https://open.spotify.com/track/00ziDepoTjKU8DJ3lXnh4T"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -879,18 +879,22 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "Mondo Marcio (2022 Remastered)",
-        "url": "https://open.spotify.com/album/76VmOnyPsdl1fZRqnOhGkf"
+        "name": "Innocente",
+        "url": "https://open.spotify.com/album/2DOOcX6j2vj5ocfRYq7JTR"
       },
       "artists": [
         {
-          "name": "Mondo Marcio",
-          "url": "https://open.spotify.com/artist/6Fd10Q3sQq1NsvpFTlvMsN"
+          "name": "Lucariello",
+          "url": "https://open.spotify.com/artist/1pv59RDMxb8WKREVPpLDK9"
+        },
+        {
+          "name": "Don Joe",
+          "url": "https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ"
         }
       ],
-      "duration_ms": 235733,
-      "name": "Tieni duro! - 2022 Remastered",
-      "url": "https://open.spotify.com/track/1Uw9UJ25oqXVbld6BbmIsk"
+      "duration_ms": 168409,
+      "name": "Africa Twin (feat. Don Joe)",
+      "url": "https://open.spotify.com/track/0JsLTmbvK0oL7k6WhDaWJM"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -951,22 +955,42 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "Innocente",
-        "url": "https://open.spotify.com/album/2DOOcX6j2vj5ocfRYq7JTR"
+        "name": "Mondo Marcio (2022 Remastered)",
+        "url": "https://open.spotify.com/album/76VmOnyPsdl1fZRqnOhGkf"
       },
       "artists": [
         {
-          "name": "Lucariello",
-          "url": "https://open.spotify.com/artist/1pv59RDMxb8WKREVPpLDK9"
-        },
-        {
-          "name": "Don Joe",
-          "url": "https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ"
+          "name": "Mondo Marcio",
+          "url": "https://open.spotify.com/artist/6Fd10Q3sQq1NsvpFTlvMsN"
         }
       ],
-      "duration_ms": 168409,
-      "name": "Africa Twin (feat. Don Joe)",
-      "url": "https://open.spotify.com/track/0JsLTmbvK0oL7k6WhDaWJM"
+      "duration_ms": 235733,
+      "name": "Tieni duro! - 2022 Remastered",
+      "url": "https://open.spotify.com/track/1Uw9UJ25oqXVbld6BbmIsk"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
+        "name": "Ti Pretendo XXX",
+        "url": "https://open.spotify.com/album/4Z7I16kiaaZSRolYWpqjtW"
+      },
+      "artists": [
+        {
+          "name": "North of Loreto",
+          "url": "https://open.spotify.com/artist/6FZ6p42HnE0rs0GRRmXuLo"
+        },
+        {
+          "name": "Raf",
+          "url": "https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "duration_ms": 221380,
+      "name": "Ti Pretendo XXX",
+      "url": "https://open.spotify.com/track/2G4Abb0ddI9jPYn4pt59XM"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -995,30 +1019,6 @@
       "duration_ms": 260000,
       "name": "Natura",
       "url": "https://open.spotify.com/track/5ebE6c9KKiOgI4iF40AraF"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "Ti Pretendo XXX",
-        "url": "https://open.spotify.com/album/4Z7I16kiaaZSRolYWpqjtW"
-      },
-      "artists": [
-        {
-          "name": "North of Loreto",
-          "url": "https://open.spotify.com/artist/6FZ6p42HnE0rs0GRRmXuLo"
-        },
-        {
-          "name": "Raf",
-          "url": "https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3"
-        },
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        }
-      ],
-      "duration_ms": 221380,
-      "name": "Ti Pretendo XXX",
-      "url": "https://open.spotify.com/track/2G4Abb0ddI9jPYn4pt59XM"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "Heavy Metal",
-        "url": "https://open.spotify.com/album/1vw8sbkCqUAyXJfEFSGI6f"
-      },
-      "artists": [
-        {
-          "name": "Cor Veleno",
-          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
-        }
-      ],
-      "duration_ms": 236573,
-      "name": "Un mestiere qualunque",
-      "url": "https://open.spotify.com/track/68OwzL0UGfgIKTpn0p1azy"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
         "name": "Rebus",
         "url": "https://open.spotify.com/album/2w8DyIVdzfGyoKxWzNTgYz"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 193706,
       "name": "Bugie Bianche",
       "url": "https://open.spotify.com/track/5YG4c1oIu9vOr8Wqoa05iH"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
+        "name": "Heavy Metal",
+        "url": "https://open.spotify.com/album/1vw8sbkCqUAyXJfEFSGI6f"
+      },
+      "artists": [
+        {
+          "name": "Cor Veleno",
+          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
+        }
+      ],
+      "duration_ms": 236573,
+      "name": "Un mestiere qualunque",
+      "url": "https://open.spotify.com/track/68OwzL0UGfgIKTpn0p1azy"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -1267,6 +1267,26 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
+        "name": "Schiena Contro Schiena",
+        "url": "https://open.spotify.com/album/5IwGNmcikVfFtiVtDmw5ff"
+      },
+      "artists": [
+        {
+          "name": "Duplici",
+          "url": "https://open.spotify.com/artist/26LUOCEFlhNl9RjCPDruPT"
+        },
+        {
+          "name": "Dj Double S",
+          "url": "https://open.spotify.com/artist/6dtsFkULezFnergRkRlQv0"
+        }
+      ],
+      "duration_ms": 259557,
+      "name": "21 Grammi",
+      "url": "https://open.spotify.com/track/3mALxpNkY2W4EzLldNCo9s"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
         "name": "Dead poets",
         "url": "https://open.spotify.com/album/2u4ck3pMmH9uvBTk98e6XO"
       },
@@ -1295,26 +1315,6 @@
       "duration_ms": 291757,
       "name": "Poeti estinti",
       "url": "https://open.spotify.com/track/5tz7hOlCqP7hYeLfLaT9pk"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "Schiena Contro Schiena",
-        "url": "https://open.spotify.com/album/5IwGNmcikVfFtiVtDmw5ff"
-      },
-      "artists": [
-        {
-          "name": "Duplici",
-          "url": "https://open.spotify.com/artist/26LUOCEFlhNl9RjCPDruPT"
-        },
-        {
-          "name": "Dj Double S",
-          "url": "https://open.spotify.com/artist/6dtsFkULezFnergRkRlQv0"
-        }
-      ],
-      "duration_ms": 259557,
-      "name": "21 Grammi",
-      "url": "https://open.spotify.com/track/3mALxpNkY2W4EzLldNCo9s"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "Questo non \u00e8 un cane",
-        "url": "https://open.spotify.com/album/5EsYTsMhIoAIMHj850DUeY"
-      },
-      "artists": [
-        {
-          "name": "Claver Gold",
-          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
-        }
-      ],
-      "duration_ms": 166533,
-      "name": "Il coraggio di dirti",
-      "url": "https://open.spotify.com/track/18FcA4logPoWj73sYqanLU"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
         "name": "Sotto effetto stono",
         "url": "https://open.spotify.com/album/63h7JtAfYi7W0e4lbGtzEE"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 276933,
       "name": "Solo lei ha quel che voglio (feat. Danny Losito)",
       "url": "https://open.spotify.com/track/6XuUJwcaTMdDS7rsasMNaM"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
+        "name": "Questo non \u00e8 un cane",
+        "url": "https://open.spotify.com/album/5EsYTsMhIoAIMHj850DUeY"
+      },
+      "artists": [
+        {
+          "name": "Claver Gold",
+          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
+        }
+      ],
+      "duration_ms": 166533,
+      "name": "Il coraggio di dirti",
+      "url": "https://open.spotify.com/track/18FcA4logPoWj73sYqanLU"
     },
     {
       "added_at": "2023-04-13 22:01:00",

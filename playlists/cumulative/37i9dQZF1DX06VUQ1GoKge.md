@@ -4,7 +4,7 @@
 
 > Louder, faster! Kickass metal tracks to drive you forward.
 
-223 songs - 15 hr 27 min
+224 songs - 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,8 @@
 | [Locked \(In My Head\)](https://open.spotify.com/track/4UUZ6q9fMXFH4WG6SJ2mQP) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Locked \(In My Head\)](https://open.spotify.com/album/5mZ1ajDJMLRp2pDp8NZLQK) | 3:06 | 2021-03-29 | 2022-07-29 |
 | [Looking Down the Barrel of Today](https://open.spotify.com/track/5IVA7WzOlWrmZh8EqZqMaw) | [Hatebreed](https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV) | [The Concrete Confessional](https://open.spotify.com/album/63AsIG0ig2p4mWx42ySWIj) | 2:41 | 2021-03-29 |  |
 | [Looking Down the Barrel of Today](https://open.spotify.com/track/5hQfs9spSyXUavvPe7jmgn) | [Hatebreed](https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV) | [The Concrete Confessional](https://open.spotify.com/album/300egwhkQSsKEFLbZgFa36) | 2:41 | 2021-03-29 | 2022-07-29 |
-| [Lux Æterna](https://open.spotify.com/track/3pwmJJRlr8nXNN9PFD18np) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Lux Æterna](https://open.spotify.com/album/7qxhxLR8oZN3LizPQ7z2cb) | 3:25 | 2023-02-24 |  |
+| [Lux Æterna](https://open.spotify.com/track/18zjwSgYiwu1Meb7Po3tUP) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 3:25 | 2023-04-04 |  |
+| [Lux Æterna](https://open.spotify.com/track/3pwmJJRlr8nXNN9PFD18np) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Lux Æterna](https://open.spotify.com/album/7qxhxLR8oZN3LizPQ7z2cb) | 3:25 | 2023-02-24 | 2023-04-17 |
 | [Madhouse](https://open.spotify.com/track/76BYv24CcZt2u94JRjmATX) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [Spreading The Disease](https://open.spotify.com/album/0qEFMrunmeRHqzI9xAnu9L) | 4:19 | 2021-03-29 |  |
 | [MANTRA](https://open.spotify.com/track/7dRj3sTBYkNbEx5kdNHriv) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [MANTRA](https://open.spotify.com/album/5V4SjUDKVzGxIJDxIHfOZ3) | 3:53 | 2021-03-29 |  |
 | [Master of Puppets](https://open.spotify.com/track/799XxzSlWNYkuWJxUbuGnF) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Stranger Things: Soundtrack from the Netflix Series, Season 4](https://open.spotify.com/album/3Tij2oa4FJWd7Gk0pJaf0w) | 8:34 | 2021-03-29 | 2022-11-13 |

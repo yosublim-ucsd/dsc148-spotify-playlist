@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > só faixa rosa, tem disposição? 🎀 Foto: slipmami, Ebony, LARINHX
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,952 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,054 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 12 | [Gostosa Posturada](https://open.spotify.com/track/0QrZOO5aW18qjKHbjcClWu) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Rafu](https://open.spotify.com/artist/2wrb1WRmxjvwtnyjPXOnvk) | [Gostosa Posturada](https://open.spotify.com/album/3mp2ekGulGPeycSW8kugCr) | 2:04 |
 | 13 | [100 Mili](https://open.spotify.com/track/4eolUWC5VizUx1YMHMeagu) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [100 Mili](https://open.spotify.com/album/1BwTcopCPLmipd6iCOVXFi) | 2:22 |
 | 14 | [Levado \- Spotify Singles](https://open.spotify.com/track/15psePad9IL6X85xlyjzRh) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Rennan Guerra](https://open.spotify.com/artist/1342WybEuWuTMbl8emV1TA), [Patrick Laplan](https://open.spotify.com/artist/4XfU95qBFC5ZmdhfRXeP6o) | [Levado \- Spotify Singles](https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy) | 2:55 |
-| 15 | [Licor](https://open.spotify.com/track/3pPudCfrDQWTnMZsYzIs7N) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Licor](https://open.spotify.com/album/6a9GBHSCTEoyGopwFQOj19) | 4:17 |
-| 16 | [Combate](https://open.spotify.com/track/2LkRPTwqJ6PqoOKswBQkdp) | [RAP, falando](https://open.spotify.com/artist/5V8FZVxUupPFrmqrZcoaBt), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [Combate](https://open.spotify.com/album/4UNuBZQoxlSjx2bCI8kqfC) | 3:10 |
+| 15 | [Combate](https://open.spotify.com/track/2LkRPTwqJ6PqoOKswBQkdp) | [RAP, falando](https://open.spotify.com/artist/5V8FZVxUupPFrmqrZcoaBt), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [Combate](https://open.spotify.com/album/4UNuBZQoxlSjx2bCI8kqfC) | 3:10 |
+| 16 | [Licor](https://open.spotify.com/track/3pPudCfrDQWTnMZsYzIs7N) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Licor](https://open.spotify.com/album/6a9GBHSCTEoyGopwFQOj19) | 4:17 |
 | 17 | [Rotina](https://open.spotify.com/track/5lnUkWihFa5guFzLi8y8Hb) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Marcos Beatman](https://open.spotify.com/artist/42VxOCKKlEXQ1kgDZBXnfk) | [44](https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr) | 3:16 |
 | 18 | [Oompa Loompa](https://open.spotify.com/track/0Wg8XNchyTN5qlOfgXFEc7) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Oompa Loompa](https://open.spotify.com/album/47ZG3gfqIRftdUgcuo6k6M) | 3:14 |
 | 19 | [Faixa Rosa](https://open.spotify.com/track/1DoaY4rjTCk5cUEUTU2pq3) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [BocaDosBeats](https://open.spotify.com/artist/08Jh4nbAgQK1ZcY9FpcBjw) | [Faixa Rosa](https://open.spotify.com/album/5qAsZm3XpJWm99peC2JTDs) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 49 | [Preta Patrícia](https://open.spotify.com/track/3IkBv7RRbbZchtrO4hziB6) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i) | [Preta Patrícia](https://open.spotify.com/album/6aTXMJZMd1AAeTkLHCrTOX) | 4:14 |
 | 50 | [Mob](https://open.spotify.com/track/4Lj7Jipbh9Z4QqGJvcIpuN) | [Fenda](https://open.spotify.com/artist/2MOzAmZ3VnuQuUYD1slLSq), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Púrpura](https://open.spotify.com/album/0cdIIZgZt1izXSmjPL045h) | 3:39 |
 
-Snapshot ID: `MTY4MTQ0MTI2MCwwMDAwMDAwMDQxMWQ2MmYwNTFiZTlmNjliOWU2OTk4ZTA2NDM5Y2U3`
+Snapshot ID: `MTY4MTQ0MTI2MCwwMDAwMDAwMDAyYTQ1YzliNTAwNGE0YzhkYWQ4NzkzNWY3MGQ1NjRk`

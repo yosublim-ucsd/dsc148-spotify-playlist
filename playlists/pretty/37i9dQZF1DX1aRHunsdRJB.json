@@ -1,12 +1,12 @@
 {
   "description": "A playlist driven from the islands, take the front seat as Soca meets Bashment \n\n",
-  "num_followers": 9098,
+  "num_followers": 9106,
   "original_name": "Soca Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTcyNTYwMCwwMDAwMDAwMDZiY2FkNGUzOGY3N2Y5MjhmZDkxYTI0ODFlZTJhMGQ4",
+  "snapshot_id": "MTY0NTcyNTYwMCwwMDAwMDAwMGRkNmNkZjY2YmE2ZjNlOTBjYTRjMGQyZjEzMDQ0Yzdm",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -347,6 +347,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Split in De Middle",
+        "url": "https://open.spotify.com/album/7ewwmtn3lhROcG8wvT5Zh4"
+      },
+      "artists": [
+        {
+          "name": "Freezy",
+          "url": "https://open.spotify.com/artist/4suXYeRdmqURfBOpvTwViF"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Split in De Middle",
+      "url": "https://open.spotify.com/track/5jorKk3TjGkG4gX44l8I4i"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "King Bubba Mashup Volume 1",
         "url": "https://open.spotify.com/album/5LnZJFfnBfjKfdDEiYPRo2"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 159013,
       "name": "Monster Winer",
       "url": "https://open.spotify.com/track/3bZaDC1VEb1YpIpWu8ks5H"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Split in De Middle",
-        "url": "https://open.spotify.com/album/7ewwmtn3lhROcG8wvT5Zh4"
-      },
-      "artists": [
-        {
-          "name": "Freezy",
-          "url": "https://open.spotify.com/artist/4suXYeRdmqURfBOpvTwViF"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Split in De Middle",
-      "url": "https://open.spotify.com/track/5jorKk3TjGkG4gX44l8I4i"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Wileside Government",
-        "url": "https://open.spotify.com/album/32atiLrIa1jY1bKgZCWTi9"
-      },
-      "artists": [
-        {
-          "name": "Jahvillani",
-          "url": "https://open.spotify.com/artist/40vpvFOIfRil2lXkK5GrTK"
-        }
-      ],
-      "duration_ms": 202332,
-      "name": "Wileside Government",
-      "url": "https://open.spotify.com/track/0SAx46pqnF5tEzmazHw7Id"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Caution Riddim",
         "url": "https://open.spotify.com/album/0oCbAGTJf4aWNEjyFX2Nte"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 189022,
       "name": "Up & Up",
       "url": "https://open.spotify.com/track/6Lm3yZ7ZHNyHJmNlxuCrge"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Wileside Government",
+        "url": "https://open.spotify.com/album/32atiLrIa1jY1bKgZCWTi9"
+      },
+      "artists": [
+        {
+          "name": "Jahvillani",
+          "url": "https://open.spotify.com/artist/40vpvFOIfRil2lXkK5GrTK"
+        }
+      ],
+      "duration_ms": 202332,
+      "name": "Wileside Government",
+      "url": "https://open.spotify.com/track/0SAx46pqnF5tEzmazHw7Id"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -719,6 +719,26 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Knock About Riddim",
+        "url": "https://open.spotify.com/album/0rjdrM2IvkSXQodZMGEoZw"
+      },
+      "artists": [
+        {
+          "name": "System32",
+          "url": "https://open.spotify.com/artist/7otiKgm5qrgugGPiW4by20"
+        },
+        {
+          "name": "Viking Ding Dong",
+          "url": "https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "We Outside",
+      "url": "https://open.spotify.com/track/2tQ4YMW7iOA6pbA4Zb87sT"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Ba Ba Ben (Remix)",
         "url": "https://open.spotify.com/album/5BXDWRiFkMijKVlK7yV3ug"
       },
@@ -747,38 +767,18 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Knock About Riddim",
-        "url": "https://open.spotify.com/album/0rjdrM2IvkSXQodZMGEoZw"
+        "name": "Baila Riddim",
+        "url": "https://open.spotify.com/album/7k8okFoxLMVcK8sptO5ZmS"
       },
       "artists": [
         {
-          "name": "System32",
-          "url": "https://open.spotify.com/artist/7otiKgm5qrgugGPiW4by20"
-        },
-        {
-          "name": "Viking Ding Dong",
-          "url": "https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK"
+          "name": "Motto",
+          "url": "https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O"
         }
       ],
-      "duration_ms": 176000,
-      "name": "We Outside",
-      "url": "https://open.spotify.com/track/2tQ4YMW7iOA6pbA4Zb87sT"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Darkseid Riddim",
-        "url": "https://open.spotify.com/album/6jCLEXGfOXFLggNEXuSfpX"
-      },
-      "artists": [
-        {
-          "name": "Problem Child",
-          "url": "https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU"
-        }
-      ],
-      "duration_ms": 214738,
-      "name": "Nasty Up",
-      "url": "https://open.spotify.com/track/1ZTihlaGPnfLrOXbOFyj15"
+      "duration_ms": 137195,
+      "name": "Shots (One for Di Road)",
+      "url": "https://open.spotify.com/track/6rIE6JA0jPE3OyuNPGrX2C"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -807,18 +807,18 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Baila Riddim",
-        "url": "https://open.spotify.com/album/7k8okFoxLMVcK8sptO5ZmS"
+        "name": "Darkseid Riddim",
+        "url": "https://open.spotify.com/album/6jCLEXGfOXFLggNEXuSfpX"
       },
       "artists": [
         {
-          "name": "Motto",
-          "url": "https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O"
+          "name": "Problem Child",
+          "url": "https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU"
         }
       ],
-      "duration_ms": 137195,
-      "name": "Shots (One for Di Road)",
-      "url": "https://open.spotify.com/track/6rIE6JA0jPE3OyuNPGrX2C"
+      "duration_ms": 214738,
+      "name": "Nasty Up",
+      "url": "https://open.spotify.com/track/1ZTihlaGPnfLrOXbOFyj15"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Ba Ba Ben (Wine & Ben Pt. 2)",
-        "url": "https://open.spotify.com/album/4PHvt5nQcyhapIxtD9rcT7"
-      },
-      "artists": [
-        {
-          "name": "DJ CHEEM",
-          "url": "https://open.spotify.com/artist/73srMZV12x8XvV4r8VekHZ"
-        }
-      ],
-      "duration_ms": 146681,
-      "name": "Ba Ba Ben (Wine & Ben Pt. 2)",
-      "url": "https://open.spotify.com/track/1QNYJ6R4zW90nEyjvWnTjt"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Soca Gold 2011",
         "url": "https://open.spotify.com/album/7mbrzf6XMjrp3WAcy9uwX0"
       },
@@ -871,6 +855,30 @@
       "duration_ms": 187026,
       "name": "Guh Down",
       "url": "https://open.spotify.com/track/4gNXjJOrIn7UUX2SJhs27J"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Big Ride Riddim",
+        "url": "https://open.spotify.com/album/6xf96U9L4Lf1GdSV2ai5sN"
+      },
+      "artists": [
+        {
+          "name": "Motto",
+          "url": "https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O"
+        },
+        {
+          "name": "Blackboy",
+          "url": "https://open.spotify.com/artist/5IRAIoTz3nx7KYujtayoMu"
+        },
+        {
+          "name": "Ezra",
+          "url": "https://open.spotify.com/artist/6H3rq6G5qNy35La9pxUtoB"
+        }
+      ],
+      "duration_ms": 126458,
+      "name": "Man with Ride (Big Ride)",
+      "url": "https://open.spotify.com/track/4lnYCV8h7WMusbocyjX8aP"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -911,26 +919,18 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Big Ride Riddim",
-        "url": "https://open.spotify.com/album/6xf96U9L4Lf1GdSV2ai5sN"
+        "name": "Ba Ba Ben (Wine & Ben Pt. 2)",
+        "url": "https://open.spotify.com/album/4PHvt5nQcyhapIxtD9rcT7"
       },
       "artists": [
         {
-          "name": "Motto",
-          "url": "https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O"
-        },
-        {
-          "name": "Blackboy",
-          "url": "https://open.spotify.com/artist/5IRAIoTz3nx7KYujtayoMu"
-        },
-        {
-          "name": "Ezra",
-          "url": "https://open.spotify.com/artist/6H3rq6G5qNy35La9pxUtoB"
+          "name": "DJ CHEEM",
+          "url": "https://open.spotify.com/artist/73srMZV12x8XvV4r8VekHZ"
         }
       ],
-      "duration_ms": 126458,
-      "name": "Man with Ride (Big Ride)",
-      "url": "https://open.spotify.com/track/4lnYCV8h7WMusbocyjX8aP"
+      "duration_ms": 146681,
+      "name": "Ba Ba Ben (Wine & Ben Pt. 2)",
+      "url": "https://open.spotify.com/track/1QNYJ6R4zW90nEyjvWnTjt"
     },
     {
       "added_at": "2022-02-24 18:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZufbpO1g3tw.md) - [plain]
 
 > ¡Picositos y con mucho sabor!
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,374 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,466 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,14 +40,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZufbpO1g3tw.md) - [plain]
 | 30 | [Si No La Tengo](https://open.spotify.com/track/5BSYu3CEg0L9sDBNXOwKTk) | [Diablos Locos](https://open.spotify.com/artist/4VB5hjhR9zb2ZdkShUBGvY) | [15 Grandes](https://open.spotify.com/album/5IFN7h62KHYzNaI5BBIpHj) | 5:08 |
 | 31 | [Cumbia Con La Luna](https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Cumbias Sin Control](https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX) | 3:35 |
 | 32 | [Abrazándonos](https://open.spotify.com/track/22eWPYjQKppTSuiWgEhk9w) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa), [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Abrazándonos](https://open.spotify.com/album/6GAf2ZKo1SZxJb8WiQSGzf) | 3:15 |
-| 33 | [Paloma Ajena](https://open.spotify.com/track/0xQ9ffzl3I05FTDcYUnQ4X) | [La Banda Tecno](https://open.spotify.com/artist/6FIQoXCHsjUVZBFab3sXbM) | [Tropical & Rumbero: Vuelve](https://open.spotify.com/album/6ph0pyKPe1ffEOA3jC6kLx) | 4:10 |
-| 34 | [Amigos Nada Más](https://open.spotify.com/track/5B5eaJFprnSiCLlXTenkr3) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Una Lluvia De Rosas](https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv) | 3:30 |
+| 33 | [Amigos Nada Más](https://open.spotify.com/track/5B5eaJFprnSiCLlXTenkr3) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Una Lluvia De Rosas](https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv) | 3:30 |
+| 34 | [Paloma Ajena](https://open.spotify.com/track/0xQ9ffzl3I05FTDcYUnQ4X) | [La Banda Tecno](https://open.spotify.com/artist/6FIQoXCHsjUVZBFab3sXbM) | [Tropical & Rumbero: Vuelve](https://open.spotify.com/album/6ph0pyKPe1ffEOA3jC6kLx) | 4:10 |
 | 35 | [Corazón Solitario](https://open.spotify.com/track/7f7ChKewJr4Mjm8rDl53iP) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Guarachando](https://open.spotify.com/album/5uHNavgy4yM4orwoEBWMjO) | 4:04 |
 | 36 | [Mira oye](https://open.spotify.com/track/4l3SD9S0EOaBAPejqNti6E) | [Los Tigrillos](https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf) | [Cumbias con Garra Vol\. IV \*](https://open.spotify.com/album/6sCg6I963xNmg9qo8xbwqp) | 3:22 |
-| 37 | [La Picare](https://open.spotify.com/track/68Ur7kDx0OXW5BH0TxpAPn) | [Alameños de la Sierra](https://open.spotify.com/artist/4C9L4xjlVFB6lsA9v3EfUh) | [El Tropezon](https://open.spotify.com/album/54vZCfkZRmqgXyNmmd0rqB) | 4:20 |
-| 38 | [Yo Quiero Quebrarte](https://open.spotify.com/track/0Byi0pNpSr0FKDQ8HtMwKY) | [Los Felinos](https://open.spotify.com/artist/6RVdNANISrVp76M0Wjy4hX) | [Soy El Aventurero](https://open.spotify.com/album/7rVVL3koiagqhD3yMYpAQy) | 3:06 |
+| 37 | [Quedate Con Él](https://open.spotify.com/track/1ftwyOlhOp4up63kcGsDq4) | [Grupo Jalado](https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM) | [Que Te Vaya Bien](https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS) | 3:36 |
+| 38 | [La Picare](https://open.spotify.com/track/68Ur7kDx0OXW5BH0TxpAPn) | [Alameños de la Sierra](https://open.spotify.com/artist/4C9L4xjlVFB6lsA9v3EfUh) | [El Tropezon](https://open.spotify.com/album/54vZCfkZRmqgXyNmmd0rqB) | 4:20 |
 | 39 | [Tao, Tao](https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Cumbias Sin Control](https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX) | 2:52 |
-| 40 | [Quedate Con Él](https://open.spotify.com/track/1ftwyOlhOp4up63kcGsDq4) | [Grupo Jalado](https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM) | [Que Te Vaya Bien](https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS) | 3:36 |
+| 40 | [Yo Quiero Quebrarte](https://open.spotify.com/track/0Byi0pNpSr0FKDQ8HtMwKY) | [Los Felinos](https://open.spotify.com/artist/6RVdNANISrVp76M0Wjy4hX) | [Soy El Aventurero](https://open.spotify.com/album/7rVVL3koiagqhD3yMYpAQy) | 3:06 |
 | 41 | [Cumbia Francesa](https://open.spotify.com/track/6gcI2byXyIPQM2tFybviuo) | [Grupo Saya](https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP) | [Sólo Éxitos](https://open.spotify.com/album/5hfRoSTXSY1sISkQTVc0nn) | 3:40 |
 | 42 | [La Danza de los Mirlos \(Cumbia de los Pajaritos\)](https://open.spotify.com/track/0AnwIwxt96ERVRohy7hcnU) | [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Cumbia Amazonica](https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL) | 2:49 |
 | 43 | [La Bota](https://open.spotify.com/track/5s3IWiEUyNocPtapPxqlPd) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Mexico Querido](https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1) | 3:28 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZufbpO1g3tw.md) - [plain]
 | 90 | [Para Elisa](https://open.spotify.com/track/6t6QEaiKAXtVOORoNbGR9O) | [Los Destellos](https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf) | [En Orbita](https://open.spotify.com/album/0jzpJgWjBGLxQsGbwKT7TB) | 2:49 |
 | 91 | [Babalu](https://open.spotify.com/track/2q6Ctk1nBJU59XtYhiN47b) | [Ska Cubano](https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF) | [Ska Cubano](https://open.spotify.com/album/3N58JMWyiCXtS0uJB5Kvxt) | 4:29 |
 | 92 | [Hotline Bling](https://open.spotify.com/track/7dNOYhHNvhCs0uKkCQdH2M) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Los Miticos Del Ritmo](https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu) | [Hotline Bling](https://open.spotify.com/album/7fBRvRup48necAZiCwGugk) | 3:23 |
-| 93 | [Lazalypso](https://open.spotify.com/track/73nwZubj4lYdp7MfDZO47a) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Baile Bucanero](https://open.spotify.com/album/1jBC2RT7oXRkOqHrfoZCI3) | 3:33 |
-| 94 | [Quiero Verte Feliz](https://open.spotify.com/track/3iFt4DlU6m4eqIFS7GBc4Y) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Quiero Verte Feliz](https://open.spotify.com/album/06aAMIxG5RZzUAZ6KUe4bx) | 2:57 |
+| 93 | [Quiero Verte Feliz](https://open.spotify.com/track/3iFt4DlU6m4eqIFS7GBc4Y) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Quiero Verte Feliz](https://open.spotify.com/album/06aAMIxG5RZzUAZ6KUe4bx) | 2:57 |
+| 94 | [Lazalypso](https://open.spotify.com/track/73nwZubj4lYdp7MfDZO47a) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Baile Bucanero](https://open.spotify.com/album/1jBC2RT7oXRkOqHrfoZCI3) | 3:33 |
 | 95 | [La Luna en Tu Mirada](https://open.spotify.com/track/6Pn9xvGxfZdg0BvAiQsMmJ) | [Los Zafiros](https://open.spotify.com/artist/20hjMyNIdXmSMFau9ZkmU6) | [Director Nestor Mili](https://open.spotify.com/album/6sdUnDbPFE4Krw4aHHEM3z) | 2:36 |
 | 96 | [Bocanegra](https://open.spotify.com/track/3MX20DuDYfhihzv24OyM3V) | [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo) | [Cumbia Salvaje](https://open.spotify.com/album/2EMw3RFVp5okEUKY7yGYIV) | 4:22 |
 | 97 | [Todos tenemos hogar](https://open.spotify.com/track/0TS5b5bVfUtGi2VOimdjIH) | [Los Pirañas](https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq) | [Historia natural](https://open.spotify.com/album/6R4jGvcdmRiF8wL6yqp34N) | 3:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZufbpO1g3tw.md) - [plain]
 | 99 | [Un Silbido Amoroso](https://open.spotify.com/track/548qXG0DVSXKPuQ51EuvcK) | [Los Wembler's de Iquitos](https://open.spotify.com/artist/09o5k3t1L2ZxhJBnIERJxT) | [Cumbia Beat Volume 1](https://open.spotify.com/album/55Zzh7zGhuAF0YnlpbjV0S) | 2:35 |
 | 100 | [Los sabanales](https://open.spotify.com/track/31GD3gDTI7PYt6Dulr1wvh) | [Los Corraleros De Majagual](https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4) | [The Afrosound Of Colombia Volume 1](https://open.spotify.com/album/7GuPa60Lh3Wlls5rMGpOJf) | 2:43 |
 
-Snapshot ID: `MTY3MTY0NDQ2NSwwMDAwMDAwMDBjZTQ0NzFhMWQ4NmZlYzgzMWJmNzkxNmYxZTJjMWI5`
+Snapshot ID: `MTY3MTY0NDQ2NSwwMDAwMDAwMDA1ZDU3ZjFiYmU0N2U5MDRlMDhjNzA4MWEyMzc3YjE0`

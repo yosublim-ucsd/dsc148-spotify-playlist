@@ -3234,7 +3234,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-13",
+      "date_removed": null,
       "duration_ms": 131013,
       "name": "Boy's a liar Pt. 2",
       "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
@@ -5072,7 +5072,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 146216,
       "name": "cupid - (sped up)",
       "url": "https://open.spotify.com/track/2Bs3OsJiMadTe1oBRxMOSk"
@@ -10245,6 +10245,24 @@
     },
     {
       "album": {
+        "name": "Hell N Back (Sped Up)",
+        "url": "https://open.spotify.com/album/39qJcvWj03Pcm9HJdb1NR8"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213573,
+      "name": "Hell N Back",
+      "url": "https://open.spotify.com/track/0rVJ6v23RQozOIvr1YotJP"
+    },
+    {
+      "album": {
         "name": "Pink Heartz",
         "url": "https://open.spotify.com/album/1POWgdYTzfFt9rhKlXFwsU"
       },
@@ -10564,7 +10582,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 264473,
       "name": "HOPE",
       "url": "https://open.spotify.com/track/0EgLxY52mpGsXETyEsgVlP"
@@ -13578,7 +13596,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 216524,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/3ym8ajVmKm6Fybgov3WBI5"
@@ -21022,7 +21040,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-15",
+      "date_removed": null,
       "duration_ms": 265000,
       "name": "Shorty Party",
       "url": "https://open.spotify.com/track/55ZATsjPlTeSTNJOuW90pW"

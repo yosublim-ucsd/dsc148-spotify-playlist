@@ -1256,7 +1256,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 185012,
       "name": "Anneli",
       "url": "https://open.spotify.com/track/3eWWMMuhJoswsc1KpvAbrG"
@@ -2952,6 +2952,24 @@
       "duration_ms": 228123,
       "name": "Cheek",
       "url": "https://open.spotify.com/track/6Zy7DwGzHvezMHUASmAvqv"
+    },
+    {
+      "album": {
+        "name": "Chemical",
+        "url": "https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184013,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
     },
     {
       "album": {
@@ -19170,7 +19188,7 @@
       ],
       "date_added": "2021-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-16",
+      "date_removed": null,
       "duration_ms": 247426,
       "name": "Reiviluola",
       "url": "https://open.spotify.com/track/1RCQAeceDgtbD7WVLWr05S"
@@ -20738,7 +20756,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 175449,
       "name": "Sit\u00e4 mit\u00e4 me oltiin",
       "url": "https://open.spotify.com/track/1Ie6qCuO9yQyoLR2umZnOL"

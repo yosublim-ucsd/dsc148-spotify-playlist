@@ -1,12 +1,12 @@
 {
   "description": "Pop country hits of today and tomorrow. Cover: Tyler Hubbard",
-  "num_followers": 125817,
+  "num_followers": 125990,
   "original_name": "Pop Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg0MDAwMCwwMDAwMDAwMDgzYWE2MzFhYzBlZmNhOTNiOTI4ZmU2MDE4MDAwN2Uz",
+  "snapshot_id": "MTY4MDg0MDAwMCwwMDAwMDAwMDNjOWQ2M2YzNTI0NzFlZjQ1YWU0YjA3Y2Y1ZWYwYmEw",
   "tracks": [
     {
       "added_at": "2023-04-07 04:00:00",
@@ -199,22 +199,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "GIRL",
-        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 197293,
-      "name": "The Bones",
-      "url": "https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "Goldmine",
         "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 210772,
       "name": "I Hope",
       "url": "https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "GIRL",
+        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 197293,
+      "name": "The Bones",
+      "url": "https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Bets On Us",
-        "url": "https://open.spotify.com/album/3n6nbKCoNMsSDBpzvEg1Q5"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 180959,
-      "name": "Bets On Us",
-      "url": "https://open.spotify.com/track/1AZEKyJQKVucfisCqKO1Nk"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "Born Here Live Here Die Here (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1Trg5OuUpkNFLF21HdbOg6"
       },
@@ -1067,22 +1047,6 @@
       "duration_ms": 228440,
       "name": "Waves",
       "url": "https://open.spotify.com/track/027269uzraETHuoG6aMs6a"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Better Liar",
-        "url": "https://open.spotify.com/album/6GQ5SLUlVBc95MZiDJrU2j"
-      },
-      "artists": [
-        {
-          "name": "Julia Cole",
-          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
-        }
-      ],
-      "duration_ms": 169736,
-      "name": "Better Liar",
-      "url": "https://open.spotify.com/track/4HykouKy5aX0JT3oplCi1O"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1103,6 +1067,42 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
+        "name": "Better Liar",
+        "url": "https://open.spotify.com/album/6GQ5SLUlVBc95MZiDJrU2j"
+      },
+      "artists": [
+        {
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+        }
+      ],
+      "duration_ms": 169736,
+      "name": "Better Liar",
+      "url": "https://open.spotify.com/track/4HykouKy5aX0JT3oplCi1O"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Bets On Us",
+        "url": "https://open.spotify.com/album/3n6nbKCoNMsSDBpzvEg1Q5"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 180959,
+      "name": "Bets On Us",
+      "url": "https://open.spotify.com/track/1AZEKyJQKVucfisCqKO1Nk"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
         "name": "Pickup",
         "url": "https://open.spotify.com/album/75yTVtHRGlobA0IvgGG59X"
       },
@@ -1115,22 +1115,6 @@
       "duration_ms": 168447,
       "name": "Pickup",
       "url": "https://open.spotify.com/track/2kEhQe0BVtY8IIaFE5ALA0"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Keith",
-        "url": "https://open.spotify.com/album/7dWCUs7VGjsopOEB6VoQYv"
-      },
-      "artists": [
-        {
-          "name": "Kaylee Bell",
-          "url": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
-        }
-      ],
-      "duration_ms": 171537,
-      "name": "Keith",
-      "url": "https://open.spotify.com/track/7pcekwb2T8L4MIc29f9GXB"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1151,6 +1135,22 @@
       "duration_ms": 161853,
       "name": "Fancy Like (feat. Kesha)",
       "url": "https://open.spotify.com/track/2GgqnsIe9oNOfXN4YCI2eo"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Keith",
+        "url": "https://open.spotify.com/album/7dWCUs7VGjsopOEB6VoQYv"
+      },
+      "artists": [
+        {
+          "name": "Kaylee Bell",
+          "url": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "duration_ms": 171537,
+      "name": "Keith",
+      "url": "https://open.spotify.com/track/7pcekwb2T8L4MIc29f9GXB"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1251,6 +1251,26 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
+        "name": "Anything She Says",
+        "url": "https://open.spotify.com/album/0xuuAAiiNHuLd3QUstmwMQ"
+      },
+      "artists": [
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        },
+        {
+          "name": "Seaforth",
+          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
+        }
+      ],
+      "duration_ms": 169154,
+      "name": "Anything She Says",
+      "url": "https://open.spotify.com/track/6LQxv30jh0lCISHsPYwqoy"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
         "name": "Just Drive",
         "url": "https://open.spotify.com/album/0qI3s1Bbvq8En1KWpJ4qVy"
       },
@@ -1279,26 +1299,6 @@
       "duration_ms": 205946,
       "name": "Home Sweet",
       "url": "https://open.spotify.com/track/7xMFk2Vj2hALyMdzHFopJl"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Anything She Says",
-        "url": "https://open.spotify.com/album/0xuuAAiiNHuLd3QUstmwMQ"
-      },
-      "artists": [
-        {
-          "name": "Mitchell Tenpenny",
-          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
-        },
-        {
-          "name": "Seaforth",
-          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
-        }
-      ],
-      "duration_ms": 169154,
-      "name": "Anything She Says",
-      "url": "https://open.spotify.com/track/6LQxv30jh0lCISHsPYwqoy"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Russell Dickerson",
-        "url": "https://open.spotify.com/album/1yq5iFSGYrr3NA3UidIgi8"
-      },
-      "artists": [
-        {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
-        }
-      ],
-      "duration_ms": 188960,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/23eLnI8GBwNOVQJJmhbLpS"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "Life Rolls On",
         "url": "https://open.spotify.com/album/6dfdmMDGw988CzNEFdnIcY"
       },
@@ -1427,18 +1411,18 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Breakups",
-        "url": "https://open.spotify.com/album/59PZ1sBuiJjiLLL5qCvoua"
+        "name": "Russell Dickerson",
+        "url": "https://open.spotify.com/album/1yq5iFSGYrr3NA3UidIgi8"
       },
       "artists": [
         {
-          "name": "Seaforth",
-          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
         }
       ],
-      "duration_ms": 223129,
-      "name": "Breakups",
-      "url": "https://open.spotify.com/track/77Bt2DXJE1R1qsnm4D10Ox"
+      "duration_ms": 188960,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/23eLnI8GBwNOVQJJmhbLpS"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1455,6 +1439,22 @@
       "duration_ms": 157213,
       "name": "Lost My Heartbreak",
       "url": "https://open.spotify.com/track/5fjoMV6IwPKFsmm0LQuv0m"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Breakups",
+        "url": "https://open.spotify.com/album/59PZ1sBuiJjiLLL5qCvoua"
+      },
+      "artists": [
+        {
+          "name": "Seaforth",
+          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
+        }
+      ],
+      "duration_ms": 223129,
+      "name": "Breakups",
+      "url": "https://open.spotify.com/track/77Bt2DXJE1R1qsnm4D10Ox"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
+        "name": "I Can't Take You Anywhere",
+        "url": "https://open.spotify.com/album/2p63vg635NT4kQN3amdxRR"
+      },
+      "artists": [
+        {
+          "name": "Seaforth",
+          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
+        }
+      ],
+      "duration_ms": 211850,
+      "name": "I Can't Take You Anywhere",
+      "url": "https://open.spotify.com/track/6qy96hXke3U5vSxZe5klYp"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
         "name": "Woman You Got",
         "url": "https://open.spotify.com/album/19GuJrC5nV45shkMHbBEXm"
       },
@@ -1559,26 +1575,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Can't Do Without Me",
-        "url": "https://open.spotify.com/album/7rMux0Or1QJ7PW6AAm25D4"
-      },
-      "artists": [
-        {
-          "name": "Chayce Beckham",
-          "url": "https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt"
-        },
-        {
-          "name": "Lindsay Ell",
-          "url": "https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q"
-        }
-      ],
-      "duration_ms": 201146,
-      "name": "Can't Do Without Me",
-      "url": "https://open.spotify.com/track/6Wy1WU6nkioVn681Rom3SP"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "Sunday Drive",
         "url": "https://open.spotify.com/album/5am18BIdjp6lOvt9KjKbSd"
       },
@@ -1595,18 +1591,22 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "I Can't Take You Anywhere",
-        "url": "https://open.spotify.com/album/2p63vg635NT4kQN3amdxRR"
+        "name": "Can't Do Without Me",
+        "url": "https://open.spotify.com/album/7rMux0Or1QJ7PW6AAm25D4"
       },
       "artists": [
         {
-          "name": "Seaforth",
-          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
+          "name": "Chayce Beckham",
+          "url": "https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt"
+        },
+        {
+          "name": "Lindsay Ell",
+          "url": "https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q"
         }
       ],
-      "duration_ms": 211850,
-      "name": "I Can't Take You Anywhere",
-      "url": "https://open.spotify.com/track/6qy96hXke3U5vSxZe5klYp"
+      "duration_ms": 201146,
+      "name": "Can't Do Without Me",
+      "url": "https://open.spotify.com/track/6Wy1WU6nkioVn681Rom3SP"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1647,18 +1647,22 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "I Wonder",
-        "url": "https://open.spotify.com/album/1wGuExpsgmoymARmzDdnfy"
+        "name": "Good Beer",
+        "url": "https://open.spotify.com/album/3PuVtau24hELLklY6dcd3q"
       },
       "artists": [
         {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+          "name": "Seaforth",
+          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
+        },
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 206493,
-      "name": "I Wonder",
-      "url": "https://open.spotify.com/track/19Sf2YrUN9ohsdBk8BWJTF"
+      "duration_ms": 174111,
+      "name": "Good Beer",
+      "url": "https://open.spotify.com/track/55M9eKCXJFCpid6WBVyEct"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1699,6 +1703,22 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
+        "name": "I Wonder",
+        "url": "https://open.spotify.com/album/1wGuExpsgmoymARmzDdnfy"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "duration_ms": 206493,
+      "name": "I Wonder",
+      "url": "https://open.spotify.com/track/19Sf2YrUN9ohsdBk8BWJTF"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
         "name": "I Don't Go Back",
         "url": "https://open.spotify.com/album/0Rh8EYAlpUkvonGJoBMudV"
       },
@@ -1715,22 +1735,18 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Good Beer",
-        "url": "https://open.spotify.com/album/3PuVtau24hELLklY6dcd3q"
+        "name": "Leave You Alone",
+        "url": "https://open.spotify.com/album/1GeeQwpCveYVHBSumI6dFx"
       },
       "artists": [
         {
-          "name": "Seaforth",
-          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
-        },
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
         }
       ],
-      "duration_ms": 174111,
-      "name": "Good Beer",
-      "url": "https://open.spotify.com/track/55M9eKCXJFCpid6WBVyEct"
+      "duration_ms": 214238,
+      "name": "Leave You Alone",
+      "url": "https://open.spotify.com/track/5J8AKBaUq1WHrzrm9YWlP3"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1747,26 +1763,6 @@
       "duration_ms": 173685,
       "name": "Reverse",
       "url": "https://open.spotify.com/track/6MNZfNhi2LWFuzgDIqthPE"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "When You Know",
-        "url": "https://open.spotify.com/album/5TQpsbM1Y8JQK7QUbv8aLc"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "Matt Stell",
-          "url": "https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy"
-        }
-      ],
-      "duration_ms": 178994,
-      "name": "When You Know",
-      "url": "https://open.spotify.com/track/2OPTHrQqFQRrFcrl1p9DXA"
     }
   ],
   "unique_name": "Pop Country",

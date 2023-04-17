@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 
 > De aquí y de allá\. Un poquito de todo\. Cover: Ariel & The Culture
 
-[Spotify](https://open.spotify.com/user/spotify) - 747,761 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 747,758 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 20 | [DAMN!](https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [DAMN!](https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr) | 1:57 |
 | 21 | [Cortes Modernos](https://open.spotify.com/track/1haYL3OvJA7OCHnzMx5JlX) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Cortes Modernos](https://open.spotify.com/album/0gyrTCJOamPi13piB2i0KJ) | 3:43 |
 | 22 | [Hamster](https://open.spotify.com/track/6ENNbWw5drUoXhgcuDqBqh) | [Coy Panda](https://open.spotify.com/artist/0jyKeOg8R6F3VGHh7qWHM8), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5), [Elin Sandberg](https://open.spotify.com/artist/0ZQ8Xgo8S2RWjp0vI6gIuA) | [Hamster](https://open.spotify.com/album/77Q34IlOURpIv3CLxQ78Hi) | 3:41 |
-| 23 | [Hostage](https://open.spotify.com/track/07RY54HKxOorMfOUHzK5De) | [Abrina](https://open.spotify.com/artist/3FfeeQuvoeef4F19qixt58) | [Hostage](https://open.spotify.com/album/19NdNTEHtg4U8qhNpOZNQ6) | 2:44 |
-| 24 | [Contraluz](https://open.spotify.com/track/1sVBiZA6OMCQYAaryp5Gbe) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Contraluz](https://open.spotify.com/album/3Gxm7cLKDllPSHUR1sEDyA) | 3:32 |
-| 25 | [Levitando Lento](https://open.spotify.com/track/2uQRhJo29IQVKiUUmYLqTm) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Levitando Lento](https://open.spotify.com/album/35erxSQT8lds419FlnC6WP) | 3:42 |
+| 23 | [Contraluz](https://open.spotify.com/track/1sVBiZA6OMCQYAaryp5Gbe) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Contraluz](https://open.spotify.com/album/3Gxm7cLKDllPSHUR1sEDyA) | 3:32 |
+| 24 | [Levitando Lento](https://open.spotify.com/track/2uQRhJo29IQVKiUUmYLqTm) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Levitando Lento](https://open.spotify.com/album/35erxSQT8lds419FlnC6WP) | 3:42 |
+| 25 | [Hostage](https://open.spotify.com/track/07RY54HKxOorMfOUHzK5De) | [Abrina](https://open.spotify.com/artist/3FfeeQuvoeef4F19qixt58) | [Hostage](https://open.spotify.com/album/19NdNTEHtg4U8qhNpOZNQ6) | 2:44 |
 | 26 | [Siempre tengo sueño](https://open.spotify.com/track/7kE9OWd9b7mFOA9GUXVMpX) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Siempre tengo sueño](https://open.spotify.com/album/4yUFJKvE11HBabznJjKRt3) | 2:45 |
 | 27 | [Can’t Hold You Down](https://open.spotify.com/track/61dlOsLjABToOe5RzZ5Dqf) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [What Had Happened Was…](https://open.spotify.com/album/0wDMdN0ayHzxKladaKwctq) | 2:39 |
 | 28 | [Laberinto \- Bosq Remix](https://open.spotify.com/track/73EADOHLCpA5Fk4EM8vzO1) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U) | [Laberinto \(Bosq Remix\)](https://open.spotify.com/album/5vfciS3URPiFrOBnzSIy2k) | 3:44 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 35 | [DE REVERSA](https://open.spotify.com/track/0q6JxbQUTLb1MVE3ucpDFW) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj), [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [DE REVERSA](https://open.spotify.com/album/37gbLafAooDbpx7AqX9O2B) | 3:04 |
 | 36 | [en la ciudad](https://open.spotify.com/track/5smdosXwKG5czbMDXqRtc7) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [dóntia](https://open.spotify.com/artist/6otFL2m5sOProVKidtkpyx) | [en la ciudad](https://open.spotify.com/album/6FC9OVa2vFyot2dp23GdiM) | 3:31 |
 | 37 | [Let Me Down Slow](https://open.spotify.com/track/4cNEDhDs7WYKdYfEqQePVG) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Let Me Down Slow](https://open.spotify.com/album/7oTuz8OVNUqLSjRzjRubwz) | 2:57 |
-| 38 | [Futuro](https://open.spotify.com/track/3jHL68prXOOuDrgz9jbIoT) | [COASTCITY](https://open.spotify.com/artist/3U6AuiLSmMwlxgEDGZz9xj) | [Futuro](https://open.spotify.com/album/3f1hF4eTrVUq71O4Nj0Puf) | 4:02 |
-| 39 | [Polaroid](https://open.spotify.com/track/2FUsz4y7BNzWomZjvK9ebT) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [¿Cómo sonaría un disco?](https://open.spotify.com/album/5ceNhJg1s3D5sm49J9kLHI) | 2:56 |
+| 38 | [Polaroid](https://open.spotify.com/track/2FUsz4y7BNzWomZjvK9ebT) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [¿Cómo sonaría un disco?](https://open.spotify.com/album/5ceNhJg1s3D5sm49J9kLHI) | 2:56 |
+| 39 | [Futuro](https://open.spotify.com/track/3jHL68prXOOuDrgz9jbIoT) | [COASTCITY](https://open.spotify.com/artist/3U6AuiLSmMwlxgEDGZz9xj) | [Futuro](https://open.spotify.com/album/3f1hF4eTrVUq71O4Nj0Puf) | 4:02 |
 | 40 | [Dame Guerra](https://open.spotify.com/track/1gmfe3QPovAq7jvHXGwXEa) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [Dame Guerra](https://open.spotify.com/album/0WczcRttRVj6UIoAO8HSnN) | 2:56 |
 | 41 | [te di mi luz](https://open.spotify.com/track/66xdsJEW1KSeWi2rFmB7QF) | [Vivi K](https://open.spotify.com/artist/4WSOtiDdjEIvAAK6HqvdUg) | [SI ME ELEVO](https://open.spotify.com/album/5x1uFs84xX2MnzCaB7Uvkr) | 2:22 |
 | 42 | [Flexa](https://open.spotify.com/track/7dHS8dBVEZc3xP7jfm7g6u) | [Sessi](https://open.spotify.com/artist/6aPCzcaD2zGsu387By8SZX) | [Flexa](https://open.spotify.com/album/4ap1rTmDR8Xubn6Crx0EbR) | 3:18 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 47 | [Pasatiempo](https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Línea Recta](https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL) | 3:02 |
 | 48 | [CONTRACORRIENTE](https://open.spotify.com/track/1hxyGrsOZYyJM2NvwtDDIE) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA](https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL) | 3:25 |
 | 49 | [Miel <3](https://open.spotify.com/track/4DjuqRQQIBLkOz9S6MN28t) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Suspiros](https://open.spotify.com/album/67kgDdEZm4L3H1O67WYLXg) | 3:23 |
-| 50 | [WM \(Wifey Material\)](https://open.spotify.com/track/4QOgJKWvxw48Q97ETW7T6G) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [WM \(Wifey Material\)](https://open.spotify.com/album/1cOMZJ5XiWwPL2eDTo3IUT) | 2:41 |
-| 51 | [me perdono](https://open.spotify.com/track/0Srk7bCTje83WDSiknSXQy) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV) | [me perdono](https://open.spotify.com/album/4TR5qYz8iLFlQLy1NUDn1V) | 3:32 |
+| 50 | [me perdono](https://open.spotify.com/track/0Srk7bCTje83WDSiknSXQy) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV) | [me perdono](https://open.spotify.com/album/4TR5qYz8iLFlQLy1NUDn1V) | 3:32 |
+| 51 | [WM \(Wifey Material\)](https://open.spotify.com/track/4QOgJKWvxw48Q97ETW7T6G) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [WM \(Wifey Material\)](https://open.spotify.com/album/1cOMZJ5XiWwPL2eDTo3IUT) | 2:41 |
 | 52 | [Sola](https://open.spotify.com/track/3JqDfnSgtwbw8jiTEr4Zvf) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [Naona](https://open.spotify.com/album/2AnXB8xGLsYu3m0Wk1frHd) | 3:51 |
 | 53 | [No Puedo Olvidarte](https://open.spotify.com/track/1n6HUdzct5wsH4xUvPgwnF) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G), [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [No Puedo Olvidarte](https://open.spotify.com/album/07zsPKA92ljSmL6X6jNE4Y) | 3:27 |
 | 54 | [Ideas In Mind](https://open.spotify.com/track/5zS8EhKARJ1G6wfTXuNBu0) | [Aroe Phoenix](https://open.spotify.com/artist/6AkFDQFapnYQswNRaqPSVO) | [Ideas In Mind](https://open.spotify.com/album/1iiFx24WGvey7d0rIJtk1D) | 3:38 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 57 | [Tatuaje](https://open.spotify.com/track/1ZOyR8gyHEYsue2h85MF0W) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1) | [Tatuaje](https://open.spotify.com/album/678gtbngxA3D12ZRfz1E9X) | 3:06 |
 | 58 | [Cliché](https://open.spotify.com/track/1IeIu8G0uzcrDKl2l6eg99) | [Marte](https://open.spotify.com/artist/3O2mT8DFtMzB6ptxFXdpHm) | [Cliché](https://open.spotify.com/album/7dcFO10Q12E0n1AAtv6c4E) | 3:16 |
 | 59 | [Eterno Verano](https://open.spotify.com/track/1LKZ4TNbzvhXypk8XSEVOR) | [chimi](https://open.spotify.com/artist/3bERmnGbNw9n8tHKP5MUSj), [Marie Gabrielle Blix](https://open.spotify.com/artist/6dwPBKzmGIo6MlRAJ4cxFe) | [Eterno Verano](https://open.spotify.com/album/40LKXLc5JwGyVQ85mvdcEI) | 3:58 |
-| 60 | [Mar](https://open.spotify.com/track/36GdqHlWkFlj4rreFMcLnQ) | [1982 \(diecinueve ochenta y dos\)](https://open.spotify.com/artist/5TM0RQvmHVybWPQtQHoTd4) | [Mar](https://open.spotify.com/album/1H7m8mnXKA0nhGNBQWhdid) | 3:24 |
+| 60 | [¿Para dónde vamos?](https://open.spotify.com/track/51Eock8moiROVuwifuovBF) | [Madame Récamier](https://open.spotify.com/artist/2rNCZVyZwtSaTI1HGj8LFD), [Andrik](https://open.spotify.com/artist/2EQprQtkdtAXyg6PsQl4Wp) | [¿Para dónde vamos?](https://open.spotify.com/album/66Juh4grDFoKjsWAoRbJLL) | 3:34 |
 
-Snapshot ID: `MTY4MTQwMTQwNiwwMDAwMDAwMDJkNjY4YjNjZTYxOTVlYTlkY2EyY2ViODYzODExMmRi`
+Snapshot ID: `MTY4MTQwMTQwNiwwMDAwMDAwMDk3ZTA3YTUyZDJmMzkyYWY5MzYxOTY3MmMwNGNlMzBj`

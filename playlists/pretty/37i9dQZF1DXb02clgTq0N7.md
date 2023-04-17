@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb02clgTq0N7.md) - [plain]
 
 > Y que retumbe la bandona con puros corridos de 24k\. Fuerza Regida en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,622 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,777 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb02clgTq0N7.md) - [plain]
 | 54 | [Luis Montes \(aka Luis Montes el de Uruapan\)](https://open.spotify.com/track/5UYoI6KTyoHePfPwvnW2qS) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Señalado por Costumbre](https://open.spotify.com/album/0zwj2mx5EeRPkdU9r9yeXs) | 2:55 |
 | 55 | [Está De Parranda El Jefe \- Corrido](https://open.spotify.com/track/6vjrC6SFwlhMDcXp19IBIL) | [Banda Sinaloense MS de Sergio Lizárraga](https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP) | [Corridos Famosos Al Estilo De...](https://open.spotify.com/album/5ZDjSIPKk4NCxbepk6Qvcm) | 2:45 |
 | 56 | [El Tarasco](https://open.spotify.com/track/7qkl7zanDubz7DvzLFRr8Z) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Corridos Arrolladores Vol\. 1](https://open.spotify.com/album/7Fiu13ssHKL6Ax11S3z4ap) | 3:09 |
-| 57 | [Entre Pancho y Pancho 2.0](https://open.spotify.com/track/2p35OtN25aGq8Brpp3GyiV) | [Arley Perez](https://open.spotify.com/artist/63zgw9LU9aqnuHnvHr3ZUZ) | [Entre Pancho y Pancho 2.0](https://open.spotify.com/album/59JMwQSNIq5w6h7PaHiYYv) | 2:53 |
-| 58 | [Yo Fui El Elegante](https://open.spotify.com/track/0rjjeubHWrLp5B8kfXrg0x) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Haciendo Ruido](https://open.spotify.com/album/5crNwercw8bueI9WuxcKAo) | 2:23 |
+| 57 | [Yo Fui El Elegante](https://open.spotify.com/track/0rjjeubHWrLp5B8kfXrg0x) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Haciendo Ruido](https://open.spotify.com/album/5crNwercw8bueI9WuxcKAo) | 2:23 |
+| 58 | [Entre Pancho y Pancho 2.0](https://open.spotify.com/track/2p35OtN25aGq8Brpp3GyiV) | [Arley Perez](https://open.spotify.com/artist/63zgw9LU9aqnuHnvHr3ZUZ) | [Entre Pancho y Pancho 2.0](https://open.spotify.com/album/59JMwQSNIq5w6h7PaHiYYv) | 2:53 |
 | 59 | [El Sinvergüenza \(Con Banda Sinaloense\)](https://open.spotify.com/track/6mtpdwKaX6wQLqOgh6I6ys) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Imperio](https://open.spotify.com/album/4n0IYzVbxLFckUKpurk6kN) | 3:02 |
 | 60 | [La Tambora Va A Sonar](https://open.spotify.com/track/1qEVrgmfyslOXCpQsVaf1u) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Soy Así](https://open.spotify.com/album/4SrvbBpwiAJf09kK7EvQsk) | 2:36 |
 | 61 | [Clave Privada](https://open.spotify.com/track/1GzuoVH7AOB9lsU8uI7mT0) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Pa' Puros Compas!, Vol\. 1: Por una Mujer Casada y Otras Rancheras](https://open.spotify.com/album/5jqZyPBi6NXenINRZ7e0QJ) | 2:59 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb02clgTq0N7.md) - [plain]
 | 74 | [El Katch](https://open.spotify.com/track/1CRtFt2ucv4fISV8HIMHPv) | [Saul El Jaguar Alarcón](https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro), [Ulises Quintero](https://open.spotify.com/artist/3bMp5goOxqKUKLvYfP6Qvu) | [Lo Mejor De](https://open.spotify.com/album/1VMDxbzjwAjfQIdK5tgeTJ) | 2:26 |
 | 75 | [Los Dos Plebes](https://open.spotify.com/track/5qROxEji2ksPXQdEp4X28a) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Los Mejores Corridos y Rancheras](https://open.spotify.com/album/1sLwqqnV64LERipuDvqfHY) | 3:32 |
 
-Snapshot ID: `MTY3NzEwNTQ1NywwMDAwMDAwMGQ3YzFmMWE5YTZkMWM1NDQ3Mzk2NjA1Zjg1ODBlOTcy`
+Snapshot ID: `MTY3NzEwNTQ1NywwMDAwMDAwMDFmYjA5MTRlZDc1ZjJiZjU0YjMwNzM3OGNlYWM4ZWI3`

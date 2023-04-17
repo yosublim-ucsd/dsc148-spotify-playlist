@@ -4,7 +4,7 @@
 
 > Happy National Pet Day! 🫶🏼 \(Cover: Crush\(크러쉬\)\)
 
-555 songs - 1 day 5 hr 58 min
+556 songs - 1 day 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Amazing](https://open.spotify.com/track/5u05Rmpk6tafcD7226IxvV) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [Amazing](https://open.spotify.com/album/5j6mRb3Yo9jkL7R8hNXt21) | 2:47 | 2022-12-19 | 2022-12-27 |
 | [Amoo\-rae\-do](https://open.spotify.com/track/0P2ZMsx0ZSORtoAltJje1B) | [COCONA](https://open.spotify.com/artist/5UukZH6jYHqTwLSSWGj7FN) | [Amoo\-rae\-do](https://open.spotify.com/album/5javGGT9UBP0kc0ayoWCGP) | 1:48 | 2022-05-11 | 2022-05-29 |
 | [Amusement Park](https://open.spotify.com/track/1TUkEXQrskATO9SoB4QMUN) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Amusement Park](https://open.spotify.com/album/1azcqabc4kDgRNMWFA02wZ) | 4:16 | 2022-04-21 |  |
-| [Animal Farm](https://open.spotify.com/track/3gAXVQOR0h7Ks71lsr5MFZ) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Animal Farm](https://open.spotify.com/album/3Wn89ahl9ccGAxrjIB8Tvt) | 3:23 | 2022-09-27 |  |
+| [Animal Farm](https://open.spotify.com/track/3gAXVQOR0h7Ks71lsr5MFZ) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Animal Farm](https://open.spotify.com/album/3Wn89ahl9ccGAxrjIB8Tvt) | 3:23 | 2022-09-27 | 2023-04-17 |
 | [ANIRAGO \(feat\. Zion.T\)](https://open.spotify.com/track/4udQ9x6PZTNkO6Jwxdn0iw) | [Slom](https://open.spotify.com/artist/0UswO8FFKS2tv6dzyNyJLD), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [WEATHER REPORT](https://open.spotify.com/album/7fovUQYXBmAfq8FGN8eEzm) | 3:22 | 2022-10-28 | 2022-12-16 |
 | [Anniversary](https://open.spotify.com/track/2m0SbQ7CHTGNIsL3XUHyOh) | [Artinb](https://open.spotify.com/artist/5t7WiBzx4KeS4VZg9dZ6Kp) | [Anniversary](https://open.spotify.com/album/39tkZG9vhYL6fckCwRo340) | 2:22 | 2022-04-19 | 2022-04-21 |
 | [Another Day](https://open.spotify.com/track/3X2hc7RCVAs3cswv1FvuUP) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Natural](https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ) | 3:01 | 2022-06-10 | 2022-06-12 |
@@ -320,6 +320,7 @@
 | [Maybe It’s Not Our Fault](https://open.spotify.com/track/2xxAW1kGFSVCDdRVoryX8R) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Our Love is Great](https://open.spotify.com/album/6o7uJmwJP40A8lllMXk8MW) | 3:53 | 2022-06-03 | 2022-06-21 |
 | [maybe we need a break](https://open.spotify.com/track/2P2r0647uy5pKUikGZ7q9B) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [modern breakups](https://open.spotify.com/album/2QnNSkWnmb2Aw42kEGvDQL) | 3:04 | 2022-07-27 | 2023-03-18 |
 | [maybe we need a break](https://open.spotify.com/track/3Lr7NDSn4xKGa1dzMdGkBj) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [modern breakups](https://open.spotify.com/album/0FWQlepaI5ZA2Kkeik8RZY) | 3:04 | 2022-04-19 | 2022-07-29 |
+| [maybe we need a break](https://open.spotify.com/track/4KnjQKwfL4kd1hD4jHZ7XT) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [modern breakups](https://open.spotify.com/album/59Dkfn6sD5usY9cwebxX60) | 3:04 | 2023-04-11 |  |
 | [Mayday \(Feat\. Joy\)](https://open.spotify.com/track/3k7ikTNf1Ms0ZfTsoe9Blk) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [homemade 1](https://open.spotify.com/album/75yTA2QkJzFi33JRw1q7El) | 3:19 | 2022-05-11 | 2022-06-01 |
 | [Mayday \(feat\. 조이\)](https://open.spotify.com/track/37cXQzQaHR7zMk8G360Vke) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [homemade 1](https://open.spotify.com/album/1ki9IXpNliEpYmXqhPIJz6) | 3:19 | 2022-10-05 | 2022-10-26 |
 | [Me without you \(feat\. Moon Byul of MAMAMOO\)](https://open.spotify.com/track/3FfvXpIMyw29AJ3ghGXEJ5) | [Xydo](https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X), [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [Me without you \(feat\. Moon Byul of MAMAMOO\)](https://open.spotify.com/album/4eld4LZK1hzHeJZuBw8n35) | 3:31 | 2022-04-22 | 2022-07-22 |

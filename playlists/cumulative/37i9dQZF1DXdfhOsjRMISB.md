@@ -4,7 +4,7 @@
 
 > Country music to accompany you on the open road\. Cover: Maren Morris
 
-310 songs - 17 hr 9 min
+311 songs - 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [My Bar](https://open.spotify.com/track/3rvEUrjnl3eXXmKiKLkzRN) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [My Bar](https://open.spotify.com/album/5SaPpj7mUr3Yin6oaBSnEP) | 3:13 | 2022-11-18 | 2022-12-27 |
 | [My Boy](https://open.spotify.com/track/0PjXFoTUNltAvf4IN0N3Xx) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [My Boy](https://open.spotify.com/album/1KMNV3TwzyaD0ongzMHjVQ) | 3:23 | 2021-12-03 | 2022-07-29 |
 | [My Boy](https://open.spotify.com/track/47fyYjbsfq48e3fUys4Xaa) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [Backslider](https://open.spotify.com/album/3ajAv3GaQivcQyU5JuE8eY) | 3:23 | 2022-07-01 | 2023-03-20 |
+| [My Kinda Party](https://open.spotify.com/track/215FCyLSBcXeX0NASXEjyn) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [My Kinda Party](https://open.spotify.com/album/6gYk1JlSSmlUZGs1Lef1BI) | 4:44 | 2023-02-01 |  |
 | [Never Say Never \(with Lainey Wilson\)](https://open.spotify.com/track/03kCiUPjdAV9ur9ugm8PQT) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Never Say Never \(with Lainey Wilson\)](https://open.spotify.com/album/1aW42KGi7ll4z6ALSwfv70) | 2:56 | 2022-06-01 | 2023-01-17 |
 | [Never Til Now](https://open.spotify.com/track/2t6lQWC69f2ybmd6VTO2vU) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [Already Drank That Beer \- Side A](https://open.spotify.com/album/1gH6cnZFuxGpRqv7R1da7r) | 2:53 | 2022-06-01 | 2022-07-29 |
 | [Never Til Now](https://open.spotify.com/track/6gCrHBlDZw3UkLSjzkLlGF) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [Already Drank That Beer](https://open.spotify.com/album/38kLDWmm1uaKAtvYTT3ZAI) | 2:53 | 2022-07-01 |  |
@@ -273,7 +274,7 @@
 | [Thought You Should Know](https://open.spotify.com/track/6NHpyYvJyQsg2nXXzGYc2R) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Thought You Should Know](https://open.spotify.com/album/4kbT7O8zsXUw8CZvhBR46i) | 3:35 | 2023-01-13 |  |
 | [Till There's Nothing Left](https://open.spotify.com/track/6rIIhxmidzI07z1kgiOqY8) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [The Otherside](https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW) | 3:15 | 2021-12-03 |  |
 | [To Hell & Back](https://open.spotify.com/track/4Yy1VOdLAX7MuKQOcivV4O) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:15 | 2021-12-03 | 2022-07-24 |
-| [Trouble With A Heartbreak](https://open.spotify.com/track/3HO30hRbkOLU6ZWERayfQO) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [GEORGIA](https://open.spotify.com/album/4ZaUIMUNymqD3koXtYev2P) | 3:16 | 2022-07-01 |  |
+| [Trouble With A Heartbreak](https://open.spotify.com/track/3HO30hRbkOLU6ZWERayfQO) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [GEORGIA](https://open.spotify.com/album/4ZaUIMUNymqD3koXtYev2P) | 3:16 | 2022-07-01 | 2023-04-17 |
 | [Trouble With A Heartbreak](https://open.spotify.com/track/4lSNyiHil3tuiwtvEpN1qq) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Trouble With A Heartbreak](https://open.spotify.com/album/3hs2Iakgld3yGrrcJSpg28) | 3:16 | 2022-07-01 | 2022-07-29 |
 | [Try Losing One](https://open.spotify.com/track/6mDokQBBmkDhu7uDEFhyQ7) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [What Do They Know](https://open.spotify.com/album/0NR3FJJhD27XgurmHEQHY0) | 3:39 | 2022-11-14 | 2023-02-07 |
 | [Under My Skin](https://open.spotify.com/track/3G3OwFCrkc86mMuLPOvgjc) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Under My Skin](https://open.spotify.com/album/5NhqmLmAXBje7W8yfT5Z9j) | 2:58 | 2022-07-01 |  |

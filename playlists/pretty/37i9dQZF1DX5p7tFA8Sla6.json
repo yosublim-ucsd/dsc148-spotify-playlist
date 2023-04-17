@@ -1,12 +1,12 @@
 {
   "description": "Funk - new and old - to accompany your drive.",
-  "num_followers": 47103,
+  "num_followers": 47129,
   "original_name": "Funk Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODkwNDkzOSwwMDAwMDAwMGNhNmI3ZDQyODMxZTg3ZGRmZjU3MGFlZDUxZDc5OThl",
+  "snapshot_id": "MTYzODkwNDkzOSwwMDAwMDAwMGRlYzUwOGVmOTc2NGNkNWE2ZWI4ODFhOWQ5NTJlYjIw",
   "tracks": [
     {
       "added_at": "2019-08-22 14:26:16",
@@ -803,22 +803,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Real Life .:.High Fidelity",
-        "url": "https://open.spotify.com/album/71w5yv26R3yqlxpDs1KqWh"
-      },
-      "artists": [
-        {
-          "name": "Phat Phunktion",
-          "url": "https://open.spotify.com/artist/3afwdwY97SMtIdnUsPTpQT"
-        }
-      ],
-      "duration_ms": 210160,
-      "name": "Miss Madison",
-      "url": "https://open.spotify.com/track/3nenus1phfZrVUeKJxsiDE"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Souled Out",
         "url": "https://open.spotify.com/album/13QSuP63jfv33OqqqnEZyY"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 279866,
       "name": "Diggin' On James Brown",
       "url": "https://open.spotify.com/track/4Udo45PAGJgTbIWTqFdHKe"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Real Life .:.High Fidelity",
+        "url": "https://open.spotify.com/album/71w5yv26R3yqlxpDs1KqWh"
+      },
+      "artists": [
+        {
+          "name": "Phat Phunktion",
+          "url": "https://open.spotify.com/artist/3afwdwY97SMtIdnUsPTpQT"
+        }
+      ],
+      "duration_ms": 210160,
+      "name": "Miss Madison",
+      "url": "https://open.spotify.com/track/3nenus1phfZrVUeKJxsiDE"
     },
     {
       "added_at": "2019-09-20 18:33:34",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Funk!",
-        "url": "https://open.spotify.com/album/3dZcuCcy9AfEvmvlUvsUwf"
-      },
-      "artists": [
-        {
-          "name": "Brian Culbertson",
-          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
-        }
-      ],
-      "duration_ms": 225424,
-      "name": "Let's Take a Ride",
-      "url": "https://open.spotify.com/track/7y3UXCIUHfFsnQp8wwuVLj"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Circle",
         "url": "https://open.spotify.com/album/5Vo5j4UDMxrxvrM5shPoAl"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 271054,
       "name": "Liar",
       "url": "https://open.spotify.com/track/3lMcxADyU7bEM8y0ktXHJB"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Funk!",
+        "url": "https://open.spotify.com/album/3dZcuCcy9AfEvmvlUvsUwf"
+      },
+      "artists": [
+        {
+          "name": "Brian Culbertson",
+          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
+        }
+      ],
+      "duration_ms": 225424,
+      "name": "Let's Take a Ride",
+      "url": "https://open.spotify.com/track/7y3UXCIUHfFsnQp8wwuVLj"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Soul Side of Town",
-        "url": "https://open.spotify.com/album/6meVai9RNunLTuXrz5IcVJ"
-      },
-      "artists": [
-        {
-          "name": "Tower Of Power",
-          "url": "https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB"
-        }
-      ],
-      "duration_ms": 233491,
-      "name": "Do It with Soul",
-      "url": "https://open.spotify.com/track/4U3pzSGJKpi3JwAOZygvwX"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Gnomes & Badgers",
         "url": "https://open.spotify.com/album/56MQoYzvGvaaECXTN9rUFY"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 216800,
       "name": "I'm Your Biggest Fan",
       "url": "https://open.spotify.com/track/4IThPVciaEpF0h8rIs1QnV"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Soul Side of Town",
+        "url": "https://open.spotify.com/album/6meVai9RNunLTuXrz5IcVJ"
+      },
+      "artists": [
+        {
+          "name": "Tower Of Power",
+          "url": "https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB"
+        }
+      ],
+      "duration_ms": 233491,
+      "name": "Do It with Soul",
+      "url": "https://open.spotify.com/track/4U3pzSGJKpi3JwAOZygvwX"
     },
     {
       "added_at": "2019-08-22 14:26:16",

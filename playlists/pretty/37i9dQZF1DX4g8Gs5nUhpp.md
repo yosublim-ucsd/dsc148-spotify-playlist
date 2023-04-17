@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > Mừng ngày của sen và boss\. Ảnh bìa: sen AMEE và boss Tuyết
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,072 likes - 55 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,165 likes - 55 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 40 | [Cà Phê](https://open.spotify.com/track/5cvW3PYJeQjRTnj9vHP5Va) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [50/50](https://open.spotify.com/album/2guZsP5qfBxYma8Y4mhVff) | 3:10 |
 | 41 | [Có Đâu Ai Ngờ](https://open.spotify.com/track/5OE0IzdS8Bs4UaLvDoTXKD) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj) | [Có Đâu Ai Ngờ](https://open.spotify.com/album/706NYXSqVRFvEn2L4GFahN) | 3:40 |
 | 42 | [Và Ngày Nào Đó](https://open.spotify.com/track/6fDa6IEt8EAFkHH4hShFK4) | [Trung Quân](https://open.spotify.com/artist/5Cf9nBDNc99UFkq9Yqap7Q) | [Và Ngày Nào Đó](https://open.spotify.com/album/4cLAtnMJPasZ99JqDVVSm3) | 4:22 |
-| 43 | [Em Day Chang Phai Thuy Kieu](https://open.spotify.com/track/031jyNUkkD02vrkgZDGJxu) | [Hoàng Thùy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [Hoang](https://open.spotify.com/album/4gfu67H8oClhhE4XT5JL2u) | 3:34 |
+| 43 | [Em Đây Chẳng Phải Thúy Kiều](https://open.spotify.com/track/031jyNUkkD02vrkgZDGJxu) | [Hoàng Thùy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [Hoàng](https://open.spotify.com/album/4gfu67H8oClhhE4XT5JL2u) | 3:34 |
 | 44 | [ThichThich](https://open.spotify.com/track/3wUp8eCTshIrJcYbjWaoyP) | [Phuong Ly](https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9) | [ThichThich](https://open.spotify.com/album/4AitP1QgqnYpEpx8KY07IA) | 4:01 |
 | 45 | [Tình Ca Tình Ta](https://open.spotify.com/track/4I2ne5vm5LJmrXAfqgjAG4) | [kis](https://open.spotify.com/artist/6mshB4wc19nPYxpdbtWkz9) | [Tình Ca Tình Ta](https://open.spotify.com/album/3qdtvJBOprlT6VK2j0eest) | 2:55 |
 | 46 | [Thích Quá Rùi Nà](https://open.spotify.com/track/6jcG3yZ0e2CSI6omkYO1ut) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ) | [Thích Quá Rùi Nà](https://open.spotify.com/album/2Uejuvo8WwGMH3hUe8NGsO) | 2:58 |

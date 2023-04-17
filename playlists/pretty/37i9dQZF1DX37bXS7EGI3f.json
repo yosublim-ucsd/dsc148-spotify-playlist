@@ -1,12 +1,12 @@
 {
   "description": "Epic and melodic metal - for the dragonslayer in you! Cover: Sabaton",
-  "num_followers": 726641,
+  "num_followers": 726808,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDFiM2IwOTI5MmNlODRkN2E2ZGJmNTMxNWZhYjdmYWEw",
+  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMGMyYzA0ZTkzOGIwMGNlM2RhMDAxOThlNDRhNmI0NmZh",
   "tracks": [
     {
       "added_at": "2023-04-14 04:00:00",
@@ -259,6 +259,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Reincarnation",
+        "url": "https://open.spotify.com/album/4yc9P5BoQkFrHlKPcW6UsQ"
+      },
+      "artists": [
+        {
+          "name": "Beyond The Black",
+          "url": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "Reincarnation",
+      "url": "https://open.spotify.com/track/3scNYs59MN2puKtlwnzq9Z"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "What Else Is There?",
         "url": "https://open.spotify.com/album/2GayaI0DUXAQMp8xdeXaY0"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 227796,
       "name": "What Else Is There?",
       "url": "https://open.spotify.com/track/0zbeLVcM8iUBiKq6GxoJU3"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Reincarnation",
-        "url": "https://open.spotify.com/album/4yc9P5BoQkFrHlKPcW6UsQ"
-      },
-      "artists": [
-        {
-          "name": "Beyond The Black",
-          "url": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "Reincarnation",
-      "url": "https://open.spotify.com/track/3scNYs59MN2puKtlwnzq9Z"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -411,18 +411,34 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "The Hanging Tree",
-        "url": "https://open.spotify.com/album/3pl0dKJfqQ5GajM2Mvp2TG"
+        "name": "Natural Born Killer",
+        "url": "https://open.spotify.com/album/44aKRAvfkITepinjdP1jVb"
       },
       "artists": [
         {
-          "name": "Megaraptor",
-          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
+          "name": "Dynazty",
+          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
         }
       ],
-      "duration_ms": 226128,
-      "name": "The Hanging Tree",
-      "url": "https://open.spotify.com/track/2dZaznMM1CnsCcRprcYs5Z"
+      "duration_ms": 205826,
+      "name": "Natural Born Killer",
+      "url": "https://open.spotify.com/track/6zF7mIV7Yx74FALTZh3UMZ"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Winter Is Coming",
+        "url": "https://open.spotify.com/album/1tWfmRuAlcjVu4utHgy3fN"
+      },
+      "artists": [
+        {
+          "name": "Beyond The Black",
+          "url": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
+        }
+      ],
+      "duration_ms": 277493,
+      "name": "Winter Is Coming",
+      "url": "https://open.spotify.com/track/1BPFrXiyrInaCIWkuvVRny"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -447,34 +463,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Winter Is Coming",
-        "url": "https://open.spotify.com/album/1tWfmRuAlcjVu4utHgy3fN"
+        "name": "The Hanging Tree",
+        "url": "https://open.spotify.com/album/3pl0dKJfqQ5GajM2Mvp2TG"
       },
       "artists": [
         {
-          "name": "Beyond The Black",
-          "url": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
+          "name": "Megaraptor",
+          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
         }
       ],
-      "duration_ms": 277493,
-      "name": "Winter Is Coming",
-      "url": "https://open.spotify.com/track/1BPFrXiyrInaCIWkuvVRny"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Natural Born Killer",
-        "url": "https://open.spotify.com/album/44aKRAvfkITepinjdP1jVb"
-      },
-      "artists": [
-        {
-          "name": "Dynazty",
-          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
-        }
-      ],
-      "duration_ms": 205826,
-      "name": "Natural Born Killer",
-      "url": "https://open.spotify.com/track/6zF7mIV7Yx74FALTZh3UMZ"
+      "duration_ms": 226128,
+      "name": "The Hanging Tree",
+      "url": "https://open.spotify.com/track/2dZaznMM1CnsCcRprcYs5Z"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -587,26 +587,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Vita Nova",
-        "url": "https://open.spotify.com/album/6HLg30KBqgZsKRhWeKmops"
-      },
-      "artists": [
-        {
-          "name": "Eye of Melian",
-          "url": "https://open.spotify.com/artist/4o6EEebyNsDyI14s2jnB4G"
-        },
-        {
-          "name": "Johanna Kurkela",
-          "url": "https://open.spotify.com/artist/7fsO7iJz8gv776THRffk0A"
-        }
-      ],
-      "duration_ms": 364029,
-      "name": "Vita Nova",
-      "url": "https://open.spotify.com/track/2o7Exjn3bLrKOYS7rsJXlr"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Power of Will",
         "url": "https://open.spotify.com/album/6MSd9d2q11JwWSsZh6fBVr"
       },
@@ -639,18 +619,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "The Raven's Cry",
-        "url": "https://open.spotify.com/album/6AV2YW66ESlkPDRE8aD6qG"
+        "name": "Vita Nova",
+        "url": "https://open.spotify.com/album/6HLg30KBqgZsKRhWeKmops"
       },
       "artists": [
         {
-          "name": "Bloodbound",
-          "url": "https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6"
+          "name": "Eye of Melian",
+          "url": "https://open.spotify.com/artist/4o6EEebyNsDyI14s2jnB4G"
+        },
+        {
+          "name": "Johanna Kurkela",
+          "url": "https://open.spotify.com/artist/7fsO7iJz8gv776THRffk0A"
         }
       ],
-      "duration_ms": 234000,
-      "name": "The Raven's Cry",
-      "url": "https://open.spotify.com/track/0CKj88bTUht7lafuwhgI7m"
+      "duration_ms": 364029,
+      "name": "Vita Nova",
+      "url": "https://open.spotify.com/track/2o7Exjn3bLrKOYS7rsJXlr"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -671,18 +655,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Fairy of the Bog",
-        "url": "https://open.spotify.com/album/1JahUk68dOo6qgqppAkfk1"
+        "name": "The Raven's Cry",
+        "url": "https://open.spotify.com/album/6AV2YW66ESlkPDRE8aD6qG"
       },
       "artists": [
         {
-          "name": "Blackbriar",
-          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
+          "name": "Bloodbound",
+          "url": "https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6"
         }
       ],
-      "duration_ms": 276705,
-      "name": "Fairy of the Bog",
-      "url": "https://open.spotify.com/track/1bonbXXlT83xzDsyKIc0Am"
+      "duration_ms": 234000,
+      "name": "The Raven's Cry",
+      "url": "https://open.spotify.com/track/0CKj88bTUht7lafuwhgI7m"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -699,6 +683,22 @@
       "duration_ms": 312626,
       "name": "Reborn",
       "url": "https://open.spotify.com/track/3MQSjTjKpA3ZRRCYHnEE9h"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Fairy of the Bog",
+        "url": "https://open.spotify.com/album/1JahUk68dOo6qgqppAkfk1"
+      },
+      "artists": [
+        {
+          "name": "Blackbriar",
+          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
+        }
+      ],
+      "duration_ms": 276705,
+      "name": "Fairy of the Bog",
+      "url": "https://open.spotify.com/track/1bonbXXlT83xzDsyKIc0Am"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Call of the North",
-        "url": "https://open.spotify.com/album/4w7w5ZXaUSAqY6qot06f5t"
-      },
-      "artists": [
-        {
-          "name": "Frozen Crown",
-          "url": "https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E"
-        }
-      ],
-      "duration_ms": 384066,
-      "name": "Call of the North",
-      "url": "https://open.spotify.com/track/4BS6jSRHgqNjL1eSlokBBd"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Of Silence",
         "url": "https://open.spotify.com/album/1dR6oYAK5YRVstm9q6AtA1"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 237031,
       "name": "Dismantled",
       "url": "https://open.spotify.com/track/1JETidOlBrs1QsLHPdMUFP"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Call of the North",
+        "url": "https://open.spotify.com/album/4w7w5ZXaUSAqY6qot06f5t"
+      },
+      "artists": [
+        {
+          "name": "Frozen Crown",
+          "url": "https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E"
+        }
+      ],
+      "duration_ms": 384066,
+      "name": "Call of the North",
+      "url": "https://open.spotify.com/track/4BS6jSRHgqNjL1eSlokBBd"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Seventh Rum of a Seventh Rum",
-        "url": "https://open.spotify.com/album/27a7wYxLOTiiUiRnSEXCzY"
-      },
-      "artists": [
-        {
-          "name": "Alestorm",
-          "url": "https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da"
-        }
-      ],
-      "duration_ms": 201114,
-      "name": "Seventh Rum of a Seventh Rum",
-      "url": "https://open.spotify.com/track/7KyyCMD4fPZgJ0kKVuNAo3"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Phoenix",
         "url": "https://open.spotify.com/album/7pqRiN3pUnKElwIXBdUAV1"
       },
@@ -891,6 +875,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Seventh Rum of a Seventh Rum",
+        "url": "https://open.spotify.com/album/27a7wYxLOTiiUiRnSEXCzY"
+      },
+      "artists": [
+        {
+          "name": "Alestorm",
+          "url": "https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da"
+        }
+      ],
+      "duration_ms": 201114,
+      "name": "Seventh Rum of a Seventh Rum",
+      "url": "https://open.spotify.com/track/7KyyCMD4fPZgJ0kKVuNAo3"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Invaders",
         "url": "https://open.spotify.com/album/4BL7mjdzThCY1w4GDX18j4"
       },
@@ -903,30 +903,6 @@
       "duration_ms": 338000,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/4K658m16hnoNkRMAD8UFpE"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "The Bell",
-        "url": "https://open.spotify.com/album/4sw2lggNNlSRYa34GbEoTu"
-      },
-      "artists": [
-        {
-          "name": "Eye of Melian",
-          "url": "https://open.spotify.com/artist/4o6EEebyNsDyI14s2jnB4G"
-        },
-        {
-          "name": "Delain",
-          "url": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
-        },
-        {
-          "name": "Johanna Kurkela",
-          "url": "https://open.spotify.com/artist/7fsO7iJz8gv776THRffk0A"
-        }
-      ],
-      "duration_ms": 271486,
-      "name": "The Bell",
-      "url": "https://open.spotify.com/track/1g2eSCd9S2onJcfJxAcS71"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -963,22 +939,26 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "The Widow Maker",
-        "url": "https://open.spotify.com/album/2ivXd8Ca3ECnX7ILZoNpbP"
+        "name": "The Bell",
+        "url": "https://open.spotify.com/album/4sw2lggNNlSRYa34GbEoTu"
       },
       "artists": [
         {
-          "name": "Carpenter Brut",
-          "url": "https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP"
+          "name": "Eye of Melian",
+          "url": "https://open.spotify.com/artist/4o6EEebyNsDyI14s2jnB4G"
         },
         {
-          "name": "Gunship",
-          "url": "https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS"
+          "name": "Delain",
+          "url": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
+        },
+        {
+          "name": "Johanna Kurkela",
+          "url": "https://open.spotify.com/artist/7fsO7iJz8gv776THRffk0A"
         }
       ],
-      "duration_ms": 235453,
-      "name": "The Widow Maker - feat. Gunship",
-      "url": "https://open.spotify.com/track/2wEefjLWT91c7AyTuiStmi"
+      "duration_ms": 271486,
+      "name": "The Bell",
+      "url": "https://open.spotify.com/track/1g2eSCd9S2onJcfJxAcS71"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -999,6 +979,26 @@
       "duration_ms": 240106,
       "name": "Love Reign O'er Me",
       "url": "https://open.spotify.com/track/4iTx8xQFl22MH82TTrw8NQ"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "The Widow Maker",
+        "url": "https://open.spotify.com/album/2ivXd8Ca3ECnX7ILZoNpbP"
+      },
+      "artists": [
+        {
+          "name": "Carpenter Brut",
+          "url": "https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP"
+        },
+        {
+          "name": "Gunship",
+          "url": "https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS"
+        }
+      ],
+      "duration_ms": 235453,
+      "name": "The Widow Maker - feat. Gunship",
+      "url": "https://open.spotify.com/track/2wEefjLWT91c7AyTuiStmi"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Summer Wine",
+        "url": "https://open.spotify.com/album/0zD0AziIE0AvM4cklnT7Bj"
+      },
+      "artists": [
+        {
+          "name": "Megaraptor",
+          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
+        }
+      ],
+      "duration_ms": 245444,
+      "name": "Summer Wine",
+      "url": "https://open.spotify.com/track/1FgRL0qBHeVu4iZnj3WP9r"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Queen of Shadow",
         "url": "https://open.spotify.com/album/0Zn0cFk7LKXL6R5M9bXDku"
       },
@@ -1059,22 +1075,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Summer Wine",
-        "url": "https://open.spotify.com/album/0zD0AziIE0AvM4cklnT7Bj"
-      },
-      "artists": [
-        {
-          "name": "Megaraptor",
-          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
-        }
-      ],
-      "duration_ms": 245444,
-      "name": "Summer Wine",
-      "url": "https://open.spotify.com/track/1FgRL0qBHeVu4iZnj3WP9r"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Elements of Power",
         "url": "https://open.spotify.com/album/3KVsdtxgGQN5hKi0AWqU0A"
       },
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Nomad's Luck",
-        "url": "https://open.spotify.com/album/4hu6ynojW3eaL7Bp5tDi5A"
+        "name": "After Forever (15th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6yHSM7kypL6cP7JcboPiVE"
       },
       "artists": [
         {
-          "name": "Ignea",
-          "url": "https://open.spotify.com/artist/7E7V95LId9MPJ6anIK1qrM"
+          "name": "After Forever",
+          "url": "https://open.spotify.com/artist/6ISyfZw4EVt16zhmH2lvxp"
         }
       ],
-      "duration_ms": 278000,
-      "name": "Nomad's Luck",
-      "url": "https://open.spotify.com/track/0Riwsy1sSuL5uCOlTvEAnH"
+      "duration_ms": 206400,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/7ug96Oh8cyfTvMovOhc57D"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "After Forever (15th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6yHSM7kypL6cP7JcboPiVE"
-      },
-      "artists": [
-        {
-          "name": "After Forever",
-          "url": "https://open.spotify.com/artist/6ISyfZw4EVt16zhmH2lvxp"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/7ug96Oh8cyfTvMovOhc57D"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Now Is the Time",
         "url": "https://open.spotify.com/album/4IFXE9orZJ3dAxIZDjp3aV"
       },
@@ -1159,18 +1143,42 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Experience",
-        "url": "https://open.spotify.com/album/382cff6yTE9GR1zoxPGRTM"
+        "name": "The Endless Shore",
+        "url": "https://open.spotify.com/album/7KnfUdPa3pZ37r3GQe6yz7"
       },
       "artists": [
         {
-          "name": "Megaraptor",
-          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
+          "name": "Mortemia",
+          "url": "https://open.spotify.com/artist/5RUUgjv8Q0H2osxIC3AYBi"
+        },
+        {
+          "name": "Ulli Perhonen",
+          "url": "https://open.spotify.com/artist/5sVlAjN68bza0JFzEbagzH"
+        },
+        {
+          "name": "Nils Courbaron",
+          "url": "https://open.spotify.com/artist/5TXDrJYFMZU5x7DqNnJcR4"
         }
       ],
-      "duration_ms": 314414,
-      "name": "Experience",
-      "url": "https://open.spotify.com/track/5jlu205NEMHwe3TcV0rmGn"
+      "duration_ms": 298124,
+      "name": "The Endless Shore",
+      "url": "https://open.spotify.com/track/1MmecgkGmAS0dpJtF0k4Is"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Nomad's Luck",
+        "url": "https://open.spotify.com/album/4hu6ynojW3eaL7Bp5tDi5A"
+      },
+      "artists": [
+        {
+          "name": "Ignea",
+          "url": "https://open.spotify.com/artist/7E7V95LId9MPJ6anIK1qrM"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "Nomad's Luck",
+      "url": "https://open.spotify.com/track/0Riwsy1sSuL5uCOlTvEAnH"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1199,6 +1207,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Experience",
+        "url": "https://open.spotify.com/album/382cff6yTE9GR1zoxPGRTM"
+      },
+      "artists": [
+        {
+          "name": "Megaraptor",
+          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
+        }
+      ],
+      "duration_ms": 314414,
+      "name": "Experience",
+      "url": "https://open.spotify.com/track/5jlu205NEMHwe3TcV0rmGn"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Towards The Dying Lands",
         "url": "https://open.spotify.com/album/1VrGCLxkDyMH7u252PQO0I"
       },
@@ -1211,30 +1235,6 @@
       "duration_ms": 237000,
       "name": "Guiding Light",
       "url": "https://open.spotify.com/track/7swJjRerIGDjEAz55QiQnJ"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "The Endless Shore",
-        "url": "https://open.spotify.com/album/7KnfUdPa3pZ37r3GQe6yz7"
-      },
-      "artists": [
-        {
-          "name": "Mortemia",
-          "url": "https://open.spotify.com/artist/5RUUgjv8Q0H2osxIC3AYBi"
-        },
-        {
-          "name": "Ulli Perhonen",
-          "url": "https://open.spotify.com/artist/5sVlAjN68bza0JFzEbagzH"
-        },
-        {
-          "name": "Nils Courbaron",
-          "url": "https://open.spotify.com/artist/5TXDrJYFMZU5x7DqNnJcR4"
-        }
-      ],
-      "duration_ms": 298124,
-      "name": "The Endless Shore",
-      "url": "https://open.spotify.com/track/1MmecgkGmAS0dpJtF0k4Is"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Load Your Cannons",
-        "url": "https://open.spotify.com/album/4PFn6wzkqzUnBOvvJaye1j"
-      },
-      "artists": [
-        {
-          "name": "Saint Deamon",
-          "url": "https://open.spotify.com/artist/3N3B6aZbGPNDiW5aZesnoG"
-        }
-      ],
-      "duration_ms": 210080,
-      "name": "Load Your Cannons",
-      "url": "https://open.spotify.com/track/3wZJBxpGhKvxO2OdTVQGMJ"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Here We Stand",
         "url": "https://open.spotify.com/album/47tmMof0okT3jCJteSF1rR"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 248026,
       "name": "Here We Stand",
       "url": "https://open.spotify.com/track/3PMyqW85Gvncxxup60MIie"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Load Your Cannons",
+        "url": "https://open.spotify.com/album/4PFn6wzkqzUnBOvvJaye1j"
+      },
+      "artists": [
+        {
+          "name": "Saint Deamon",
+          "url": "https://open.spotify.com/artist/3N3B6aZbGPNDiW5aZesnoG"
+        }
+      ],
+      "duration_ms": 210080,
+      "name": "Load Your Cannons",
+      "url": "https://open.spotify.com/track/3wZJBxpGhKvxO2OdTVQGMJ"
     },
     {
       "added_at": "2023-04-14 04:00:00",

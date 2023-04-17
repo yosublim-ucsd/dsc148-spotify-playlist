@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > The hottest songs from LGBTQIA+ artists\. Cover: Joy Oladokun
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,104,981 likes - 53 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,104,716 likes - 53 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

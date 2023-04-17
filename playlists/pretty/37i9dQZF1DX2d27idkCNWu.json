@@ -1,12 +1,12 @@
 {
   "description": "Vers\u00f5es desplugadas do mundo pop. ",
-  "num_followers": 260297,
+  "num_followers": 260326,
   "original_name": "Pop Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMGI4OWRmMGYwN2YzM2RkOGRkMjg1YzRjNWQwYzdkNDhi",
+  "snapshot_id": "MTY3OTYyNjgwMCwwMDAwMDAwMDQwMjA2NWQwMDY2Mjk1MzJjN2ZkNzMyMjRjMmJlOTNm",
   "tracks": [
     {
       "added_at": "2023-03-24 03:00:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Pointless (Strings Acoustic)",
-        "url": "https://open.spotify.com/album/1cblE478ZQE4G3sDtGprqy"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 240238,
-      "name": "Pointless - Strings Acoustic",
-      "url": "https://open.spotify.com/track/4rmuX9LHbxYYJuPtP353uL"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "brent",
         "url": "https://open.spotify.com/album/16mjtcKPxpQ4ajFHmJ0hJC"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 232706,
       "name": "Slow Dancing in a Burning Room - Acoustic",
       "url": "https://open.spotify.com/track/3PSMcb1gU5A8DveqU2K4z2"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Pointless (Strings Acoustic)",
+        "url": "https://open.spotify.com/album/1cblE478ZQE4G3sDtGprqy"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 240238,
+      "name": "Pointless - Strings Acoustic",
+      "url": "https://open.spotify.com/track/4rmuX9LHbxYYJuPtP353uL"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
-        "name": "Ozu Vivo (Live)",
-        "url": "https://open.spotify.com/album/1fPeBvEYIUS91OTh6lu65O"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 187936,
-      "name": "Del Mar - Acustico",
-      "url": "https://open.spotify.com/track/5N7mjkDgLZip8LM1m4ecwa"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
         "name": "Bad Memories (Acoustic)",
         "url": "https://open.spotify.com/album/4dF6QWuJKAhhnZcaql39La"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 141330,
       "name": "Bad Memories - Acoustic",
       "url": "https://open.spotify.com/track/38Z2ZEs6tW8D0AnM0AVSxP"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
+        "name": "Ozu Vivo (Live)",
+        "url": "https://open.spotify.com/album/1fPeBvEYIUS91OTh6lu65O"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 187936,
+      "name": "Del Mar - Acustico",
+      "url": "https://open.spotify.com/track/5N7mjkDgLZip8LM1m4ecwa"
     },
     {
       "added_at": "2023-03-24 03:00:00",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2023-03-24 03:00:00",
       "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/6LKflEUxLnl1whADVUb8cf"
+      },
+      "artists": [
+        {
+          "name": "Echosmith",
+          "url": "https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x"
+        }
+      ],
+      "duration_ms": 201745,
+      "name": "Cool Kids - Live from Spotify NYC",
+      "url": "https://open.spotify.com/track/2p6PmhAtI3WkAOGDbnJp19"
+    },
+    {
+      "added_at": "2023-03-24 03:00:00",
+      "album": {
         "name": "Ac\u00fastico MTV Manu Gavassi Canta Fruto Proibido",
         "url": "https://open.spotify.com/album/0E7BlhGz33kQOLqRbSUTmt"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 295223,
       "name": "Ovelha Negra - Ac\u00fastico MTV",
       "url": "https://open.spotify.com/track/0gGvGuoOqfYdkjbcl2Mh0N"
-    },
-    {
-      "added_at": "2023-03-24 03:00:00",
-      "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/6LKflEUxLnl1whADVUb8cf"
-      },
-      "artists": [
-        {
-          "name": "Echosmith",
-          "url": "https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x"
-        }
-      ],
-      "duration_ms": 201745,
-      "name": "Cool Kids - Live from Spotify NYC",
-      "url": "https://open.spotify.com/track/2p6PmhAtI3WkAOGDbnJp19"
     },
     {
       "added_at": "2023-03-24 03:00:00",

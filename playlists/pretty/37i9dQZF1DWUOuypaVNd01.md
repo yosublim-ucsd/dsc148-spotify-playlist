@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 
 > De réu a ref \- o filho deles quer viver essa vida\. Foto: Btrem, Derxan, Major RD, LEALL, $amuka
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,648 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,675 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 2 | [BRAZIL](https://open.spotify.com/track/0d16iGBlngyLHsldWzvahM) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [DJ Ery](https://open.spotify.com/artist/3fJhU7uVbc7ofhDXfBXJnS) | [BRAZIL](https://open.spotify.com/album/3XX0VacWrVLIa7Dx2x1SSd) | 2:04 |
 | 3 | [Faixa Preta](https://open.spotify.com/track/15mfSyeqvnqu8HThdlGjg3) | [Yung Nobre](https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB), [Martelin](https://open.spotify.com/artist/1qYCFTfaAPk15UPO93sStr), [Puterrier](https://open.spotify.com/artist/0zbO4WWM2wJM3ulFmCbMwB) | [Faixa Preta](https://open.spotify.com/album/0XxLomO3lIEIFrEe0lTVtH) | 2:49 |
 | 4 | [Riqueza](https://open.spotify.com/track/3YfHTvRU8S08RL3UWUEiEr) | [Dendê](https://open.spotify.com/artist/306dURz1s90QIIZaVusODl), [Vinão Beats](https://open.spotify.com/artist/6z3MdWWG4r2vJivLpHV9WH) | [Riqueza](https://open.spotify.com/album/0ReYt8t0Bttf1Y6dDnimjs) | 2:20 |
-| 5 | [A.T.E](https://open.spotify.com/track/5edz78T7soouB6TgAORzRZ) | [Yung Nobre](https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB), [Pepito](https://open.spotify.com/artist/27agYrHqpHeDP8mI0gtw7N), [Gxrdenx](https://open.spotify.com/artist/0HHoOQ7hezpKMgtTmi4dQP) | [A.T.E](https://open.spotify.com/album/6Jj5qOkWOGb0HeQbsU1a1g) | 2:22 |
+| 5 | [A.T.E](https://open.spotify.com/track/5edz78T7soouB6TgAORzRZ) | [Yung Nobre](https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE), [Gxrdenx](https://open.spotify.com/artist/0HHoOQ7hezpKMgtTmi4dQP) | [A.T.E](https://open.spotify.com/album/6Jj5qOkWOGb0HeQbsU1a1g) | 2:22 |
 | 6 | [Passa Nada](https://open.spotify.com/track/2ppPUewH2bl3W80Zp6zKcD) | [Boca](https://open.spotify.com/artist/7DM9mUj11mLXmrtgw8YxaX), [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [Vitin](https://open.spotify.com/artist/3qqsM7MrioDCvQPL7AMBRS), [Nochica](https://open.spotify.com/artist/7KXVP4FXUjg321zasfnoBZ), [JEFFRO](https://open.spotify.com/artist/5jkObTziesSFoINHI1ZVUi) | [Passa Nada](https://open.spotify.com/album/7AAwkqFgpxCSOomrrxQFlT) | 3:44 |
 | 7 | [Galáctico](https://open.spotify.com/track/5TeyVY4G2E7vaOW2Nuyn7K) | [Blecaute](https://open.spotify.com/artist/3YWjrrBRyllQOX1NwCtfpX), [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd) | [Galáctico](https://open.spotify.com/album/1Q0OGrZWJHZmgyqEYZ7lih) | 3:00 |
 | 8 | [ESSE É MEU ESTILO \(feat\. Akira Presidente & BK\)](https://open.spotify.com/track/6TuFeSKT62xvhsrAeRMG0d) | [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1), [Akira Presidente](https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [RUNNING](https://open.spotify.com/album/50T8RSK9OuebjbS4f5uqZV) | 3:58 |

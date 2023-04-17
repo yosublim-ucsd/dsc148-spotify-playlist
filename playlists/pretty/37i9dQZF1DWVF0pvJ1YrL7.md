@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVF0pvJ1YrL7.md) - [plain]
 
 > Chaos in electronic form.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,887 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,959 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVF0pvJ1YrL7.md) - [plain]
 | 25 | [Senzu Beans](https://open.spotify.com/track/0DMYvAkliivrzUOOyTR2G0) | [Maitro](https://open.spotify.com/artist/4pG6hTUl9HhyftfJQQI7np), [DUCAT](https://open.spotify.com/artist/4ADZvJH9oSDFHFGkwWGGGD) | [Dragonball Wave II](https://open.spotify.com/album/3XohsFcMxMN44U25fqTqF4) | 2:19 |
 | 26 | [Squaz](https://open.spotify.com/track/3oWnubwEmwkZOlI3SxYekZ) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Brainfeeder X](https://open.spotify.com/album/3o2065Z31P88vws4lA3cc4) | 5:35 |
 | 27 | [Wild Chamber](https://open.spotify.com/track/64jAqN4KeoMaiX11EXvXF4) | [upsammy](https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV) | [Wild Chamber](https://open.spotify.com/album/7ow4bpiILldUbu975NRIx4) | 4:21 |
-| 28 | [Ziad Jarrah Studied Mathematics](https://open.spotify.com/track/6FvJujsc00pC1umLOUN9gK) | [Vatican Shadow](https://open.spotify.com/artist/1b6p8KZ14dw35fuIuDWQNV) | [Media in the Service of Terror](https://open.spotify.com/album/321TLbC07nx2E9qg1LyYpw) | 4:50 |
-| 29 | [Toothbrush](https://open.spotify.com/track/3sv7dVSufdOzxx0YcGnNud) | [Dorian Concept](https://open.spotify.com/artist/2sriRQRt36DnfHtD68zZlj) | [Toothbrush / Booth Thrust](https://open.spotify.com/album/2Bfoe4fd0HVhDjch8C0voh) | 3:17 |
+| 28 | [Toothbrush](https://open.spotify.com/track/3sv7dVSufdOzxx0YcGnNud) | [Dorian Concept](https://open.spotify.com/artist/2sriRQRt36DnfHtD68zZlj) | [Toothbrush / Booth Thrust](https://open.spotify.com/album/2Bfoe4fd0HVhDjch8C0voh) | 3:17 |
+| 29 | [Ziad Jarrah Studied Mathematics](https://open.spotify.com/track/6FvJujsc00pC1umLOUN9gK) | [Vatican Shadow](https://open.spotify.com/artist/1b6p8KZ14dw35fuIuDWQNV) | [Media in the Service of Terror](https://open.spotify.com/album/321TLbC07nx2E9qg1LyYpw) | 4:50 |
 | 30 | [Senhor Zalla](https://open.spotify.com/track/2veEIrSGcCszmVKyEuiIVd) | [Shelter](https://open.spotify.com/artist/3k2mZ2vmhiARdgLHAuCkGT) | [Zon Zon Zon](https://open.spotify.com/album/7fUIL0vt55dn93nWfRgBWj) | 5:08 |
 | 31 | [Valve](https://open.spotify.com/track/5fkcStZXAKDbJRqZLbJhXJ) | [Visible Cloaks](https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG), [Miyako Koda](https://open.spotify.com/artist/77lGdUDzfWYkQ8kbzcvGDY) | [Reassemblage](https://open.spotify.com/album/5YMsM8N0PVicGhnDiFO3NK) | 3:24 |
 | 32 | [Lost and Found \(Lost Mix\)](https://open.spotify.com/track/0t0hsYPyMuE4siG7GkDded) | [Objekt](https://open.spotify.com/artist/44z1nVVXZE8d4njcQmQLWc) | [Cocoon Crush](https://open.spotify.com/album/2vE3mTa7olXTXbHb6t2XjE) | 2:32 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVF0pvJ1YrL7.md) - [plain]
 | 39 | [Dazzle Anew](https://open.spotify.com/track/4jPGf8NTH7H5L9zbH8r7KK) | [Objekt](https://open.spotify.com/artist/44z1nVVXZE8d4njcQmQLWc) | [Cocoon Crush](https://open.spotify.com/album/2vE3mTa7olXTXbHb6t2XjE) | 3:36 |
 | 40 | [Punta Alem](https://open.spotify.com/track/6rWyZPJd3Pmn6ng44kg4Wr) | [Gora Sou](https://open.spotify.com/artist/6GqE7gm7ep2CLEjN03wReS) | [Ramifications](https://open.spotify.com/album/2sbW0BHAt4RibZnl5jHGtZ) | 4:46 |
 | 41 | [Dencity](https://open.spotify.com/track/76IRaPhfYRF9xVZC3qTdR7) | [Trans\-4M](https://open.spotify.com/artist/19BCL3CRrl1hMq8cIJV4fj) | [Sublunar Oracles](https://open.spotify.com/album/0ErOiDberv4cJ2Kxj4J2fk) | 6:07 |
-| 42 | [Island Birdy](https://open.spotify.com/track/4gKCchpPdZVQDJsDUxl7bf) | [Howie Lee](https://open.spotify.com/artist/5y2TmxjZITDjLsfUxjlkcD) | [Birdy Island](https://open.spotify.com/album/0A5wO1obJKJsdQN0kFqUEf) | 4:18 |
-| 43 | [Fallen Angels](https://open.spotify.com/track/0FTMZs0lK0MbQsSjQKjCqv) | [Little Snake](https://open.spotify.com/artist/2Hr12vmF0ozKYzLjPB2ZfX), [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Fallen Angels](https://open.spotify.com/album/14yMrZlzYUSXovS9RyGkWh) | 4:29 |
-| 44 | [Mangrove](https://open.spotify.com/track/0zdyHkf7N2JIuuzrjLQStd) | [Bataille Solaire](https://open.spotify.com/artist/1qvKDLWQAegOmpkdWhL5Mz) | [Documentaires](https://open.spotify.com/album/0pfXg399w8dYdU7Wm69heu) | 2:18 |
+| 42 | [Mangrove](https://open.spotify.com/track/0zdyHkf7N2JIuuzrjLQStd) | [Bataille Solaire](https://open.spotify.com/artist/1qvKDLWQAegOmpkdWhL5Mz) | [Documentaires](https://open.spotify.com/album/0pfXg399w8dYdU7Wm69heu) | 2:18 |
+| 43 | [Island Birdy](https://open.spotify.com/track/4gKCchpPdZVQDJsDUxl7bf) | [Howie Lee](https://open.spotify.com/artist/5y2TmxjZITDjLsfUxjlkcD) | [Birdy Island](https://open.spotify.com/album/0A5wO1obJKJsdQN0kFqUEf) | 4:18 |
+| 44 | [Fallen Angels](https://open.spotify.com/track/0FTMZs0lK0MbQsSjQKjCqv) | [Little Snake](https://open.spotify.com/artist/2Hr12vmF0ozKYzLjPB2ZfX), [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Fallen Angels](https://open.spotify.com/album/14yMrZlzYUSXovS9RyGkWh) | 4:29 |
 | 45 | [Aurelie \(Lido Pimienta Remix\)](https://open.spotify.com/track/0vFdrzcSex0hPwLnw3SFa1) | [Lou Canon](https://open.spotify.com/artist/2ZKNwYmNk7NS0oSNq5AieB), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Aurelie \(Lido Pimienta Remix\)](https://open.spotify.com/album/42imqapebSrpDVOjETHCnN) | 4:18 |
 | 46 | [New Planet](https://open.spotify.com/track/73ftARNcKnSjzzCodbBwWq) | [Ford & Lopatin](https://open.spotify.com/artist/3eTOYD8UyQa3MalrtkyKha) | [Channel Pressure](https://open.spotify.com/album/0tW5rBMpINfekEGbhqkR3d) | 3:22 |
-| 47 | [Magical Iridescence](https://open.spotify.com/track/6eM5mq1xnuvB6NWGOSBp84) | [Michel Genest](https://open.spotify.com/artist/51R7qjp3MIY8mBq4vYvu0x) | [Crystal Fantasy](https://open.spotify.com/album/34UpoK24E13czwERrCUqfM) | 2:40 |
-| 48 | [Forecast](https://open.spotify.com/track/4SJbP61kwGbrjFABXlhprD) | [Motion Graphics](https://open.spotify.com/artist/0vmZnQdyuSYbU9F61oApmi) | [Motion Graphics](https://open.spotify.com/album/6pB6PQ1biJp8MFlUMTabEn) | 1:31 |
+| 47 | [Forecast](https://open.spotify.com/track/4SJbP61kwGbrjFABXlhprD) | [Motion Graphics](https://open.spotify.com/artist/0vmZnQdyuSYbU9F61oApmi) | [Motion Graphics](https://open.spotify.com/album/6pB6PQ1biJp8MFlUMTabEn) | 1:31 |
+| 48 | [Magical Iridescence](https://open.spotify.com/track/6eM5mq1xnuvB6NWGOSBp84) | [Michel Genest](https://open.spotify.com/artist/51R7qjp3MIY8mBq4vYvu0x) | [Crystal Fantasy](https://open.spotify.com/album/34UpoK24E13czwERrCUqfM) | 2:40 |
 | 49 | [Synapse](https://open.spotify.com/track/3iQoEV281XLrAVp9mEVPmV) | [House Of Tapes](https://open.spotify.com/artist/40vP7vx1UAkMTSSGcoalPY) | [Phantom of Eden](https://open.spotify.com/album/17KovENSr872390SmpvK5l) | 5:04 |
 | 50 | [Coris](https://open.spotify.com/track/1G5b1MCRsBsC9T53vv5SH9) | [OVSICORI](https://open.spotify.com/artist/0MVM5Khj39EkpVtLvU9Ujp) | [Bucle](https://open.spotify.com/album/0e2ihe6UiQ1SL73u98L98b) | 7:00 |
 
-Snapshot ID: `MTY4MTUyMzg1MCwwMDAwMDAwMDQyNjQ1ODM4ZDczYWFlMWIwOWZjZGI3MTU0Y2ZiMWE4`
+Snapshot ID: `MTY4MTUyMzg1MCwwMDAwMDAwMDkxZDRhYjhlYWI0OGNmMTE2YmE2NTUxZWJkYjA2MDgy`

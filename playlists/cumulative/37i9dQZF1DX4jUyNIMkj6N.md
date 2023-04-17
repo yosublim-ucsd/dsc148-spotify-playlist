@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-193 songs - 12 hr 0 min
+194 songs - 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Solfager og Ormekongen](https://open.spotify.com/track/72xkiSQyAbHlaGHBYrlwLI) | [Gåte](https://open.spotify.com/artist/3YxkGgMvqCQA75aFpy6524) | [Solfager og Ormekongen](https://open.spotify.com/album/1CcblCunCvgfhSb7B3E1fS) | 4:53 | 2021-12-02 | 2022-07-28 |
 | [Solringen \- First Flight of the White Raven LIVE](https://open.spotify.com/track/0fIy0hd1teqHnUZyt0o7os) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Solringen \(First Flight of the White Raven LIVE\)](https://open.spotify.com/album/6onBcLQqwIoGL81fFAwI82) | 4:45 | 2022-01-20 | 2022-07-21 |
 | [Something Good](https://open.spotify.com/track/4MIpMHjGu9tBoK065wTu6R) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Something Good](https://open.spotify.com/album/6pYjJFbYrjgxPc6O6ke14G) | 3:45 | 2022-09-29 |  |
+| [Spor i sand](https://open.spotify.com/track/7qGuTkxiZ3Uxtr4aI8bxmE) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Bråtebrann \(Vinyl Edition\)](https://open.spotify.com/album/6LAlzrbGc9DCpnKHRDWN1F) | 4:48 | 2023-04-13 |  |
 | [Starting Again](https://open.spotify.com/track/7BnzDWMDn1lV25kTTEefNz) | [Rebekka Lundstrøm](https://open.spotify.com/artist/3gVauPfgPGg6uKuR6dOMui) | [Starting Again](https://open.spotify.com/album/5IrLKl3WwY03Kmzar5n9Ds) | 4:36 | 2022-03-24 | 2022-07-19 |
 | [Stay Alive](https://open.spotify.com/track/0ZNYGrmcehorhh9JOeg5Iv) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Stay Alive \(From The Secret Life Of Walter Mitty\)](https://open.spotify.com/album/1bOzvOad5Oirmr1ewGlnKs) | 4:26 | 2021-12-02 |  |
 | [Still Here](https://open.spotify.com/track/0KawFoaUEu2ICSJ0CawwCJ) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [Still Here](https://open.spotify.com/album/4eLSzWcNiF99ezdryVRdKN) | 3:38 | 2023-01-26 |  |
@@ -159,7 +160,7 @@
 | [The Man Who Isn't Here](https://open.spotify.com/track/6ZiL7k1BRddpLgrS484kc7) | [Frøkedal](https://open.spotify.com/artist/7uTDwdxKfkZtEfjpofiYwr) | [Hold On Dreamer](https://open.spotify.com/album/27zpUxeNAiCvCmHLOTpqWt) | 3:50 | 2021-12-02 | 2022-07-29 |
 | [The Sky is Painted Gray Today](https://open.spotify.com/track/0WOz7oU6zfuUvDzWHmIdMK) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [The Sky is Painted Gray Today](https://open.spotify.com/album/4iEFEhFxzgr7VKpuo4rjUT) | 3:41 | 2022-07-14 |  |
 | [The Sky Is Painted Gray Today](https://open.spotify.com/track/6IMK8QiJ4ehdOGNGmIXUgA) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [The Sky Is Painted Gray Today](https://open.spotify.com/album/5F89kdB5vCOgwLRydYFnIE) | 3:41 | 2021-12-02 | 2022-07-29 |
-| [The Sweetest Tune](https://open.spotify.com/track/4vDxQKlCJVfsTdK4g9eA5x) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [Vinyl and a Heartache](https://open.spotify.com/album/3ggLoeg7Vv2fx1OoR1Egte) | 3:39 | 2022-08-18 |  |
+| [The Sweetest Tune](https://open.spotify.com/track/4vDxQKlCJVfsTdK4g9eA5x) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [Vinyl and a Heartache](https://open.spotify.com/album/3ggLoeg7Vv2fx1OoR1Egte) | 3:39 | 2022-08-18 | 2023-04-17 |
 | [The Sweetest Tune](https://open.spotify.com/track/5XzOc450ipHJN7R5Xaxwyg) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [Vinyl and a Heartache](https://open.spotify.com/album/2xvl46LPQ9xmyj6Z2M9FB9) | 3:39 | 2021-12-02 | 2022-07-29 |
 | [Time](https://open.spotify.com/track/5nOz57qBsV7J5rlIcJl9io) | [Silver Lining](https://open.spotify.com/artist/2fpiIE5NAH8HpcYthaxm97) | [Go Out Nowhere](https://open.spotify.com/album/1bpJLdfzfpFSjDGVtegoSC) | 3:46 | 2022-05-12 | 2022-07-29 |
 | [Time of the Blue](https://open.spotify.com/track/0e1GAQ4Cm74D1A0zvXVhdT) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Time of the Blue](https://open.spotify.com/album/41w6j5UiScGhghsSxAp2mM) | 3:46 | 2022-07-14 | 2022-09-30 |

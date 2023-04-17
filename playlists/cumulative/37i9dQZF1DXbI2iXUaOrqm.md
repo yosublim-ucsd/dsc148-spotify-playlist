@@ -4,7 +4,7 @@
 
 > Rock meets pop meets punk, para esos días cuando todo te vale.
 
-72 songs - 3 hr 44 min
+73 songs - 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,8 +40,9 @@
 | [Himno \(para los que están jodidos\)](https://open.spotify.com/track/0xk30CeA3Klu0xOOdE8grl) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [Allison](https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr) | [Himno \(para los que están jodidos\)](https://open.spotify.com/album/0WCX8VZK7JA2mChT1sQO3c) | 3:05 | 2023-04-14 |  |
 | [Infierno Frío](https://open.spotify.com/track/1sI4YBO3bbctccXYNUaam0) | [Viniloversus](https://open.spotify.com/artist/2zwh4WnVBGZcfnllC7DUxt) | [Infierno Frío](https://open.spotify.com/album/6YB76Lunmrai7yjMiQDbCj) | 2:18 | 2023-01-20 | 2023-03-11 |
 | [Just A Girl](https://open.spotify.com/track/5lWRaa0fBxDE5yU91npPq7) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 3:29 | 2023-01-20 |  |
-| [La Casa de A](https://open.spotify.com/track/6xtphuj19xftkTUHDZ4sFH) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Prender un Fuego](https://open.spotify.com/album/3QgG3SuMTWMIsxwzdu7vN3) | 3:16 | 2023-01-20 |  |
+| [La Casa de A](https://open.spotify.com/track/6xtphuj19xftkTUHDZ4sFH) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Prender un Fuego](https://open.spotify.com/album/3QgG3SuMTWMIsxwzdu7vN3) | 3:16 | 2023-01-20 | 2023-04-17 |
 | [La Llave](https://open.spotify.com/track/1DJcyrh1PserkiE2IZ9Q7G) | [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Fuera de Lugar](https://open.spotify.com/album/40ablOkksXy9AgUsOHxhrm) | 3:06 | 2023-01-20 | 2023-01-29 |
+| [Me da igual](https://open.spotify.com/track/1MB8FjCsHDfLn3EjPO3ehp) | [Hens](https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK) | [No Me Odio Tanto](https://open.spotify.com/album/59HyW3yFk1tQsRJYK85BuB) | 2:58 | 2023-04-14 |  |
 | [Me Tome Una Pastilla...](https://open.spotify.com/track/38qcLdCR7vSCkq3ClfaWpX) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [Defecto Perfecto](https://open.spotify.com/album/2nbI0uW9IoyZg23xNL08Bx) | 4:38 | 2023-01-20 |  |
 | [mejores amigos](https://open.spotify.com/track/3UO6Hj6xtowWdanb3hs5QR) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0), [Candela Gómez](https://open.spotify.com/artist/0jIhz2FFQmwcjj63SJh63h), [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx) | [mejores amigos](https://open.spotify.com/album/4CNWr0Icz7j1ngMho7ZjA8) | 2:53 | 2023-03-11 |  |
 | [Mi Mejor Versión](https://open.spotify.com/track/3JA65Jo8LtmZIjlvhB08pG) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Mi Mejor Versión](https://open.spotify.com/album/3vvreW2zeLSPk2FV97TkH3) | 3:21 | 2023-01-20 |  |

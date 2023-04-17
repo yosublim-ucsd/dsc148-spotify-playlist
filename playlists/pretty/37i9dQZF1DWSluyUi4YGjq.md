@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 > A new gen of bands gazing at their pedals, while soaring celestially\-high\. Winter on cover!
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,755 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,157 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 36 | [Whirring](https://open.spotify.com/track/2XbqxKjCnE9YWfPRqwgtPq) | [The Joy Formidable](https://open.spotify.com/artist/4LdZNE5MHGqvc0N9ivXNF3) | [The Big Roar](https://open.spotify.com/album/2R45MnKwqMVAuqQ6UvNwet) | 6:47 |
 | 37 | [Love Song](https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Love Song](https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH) | 2:51 |
 | 38 | [Pulling Our Weight](https://open.spotify.com/track/5JfibYpOT2Rtw6a0iWHiNm) | [The Radio Dept.](https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG) | [Passive Aggressive](https://open.spotify.com/album/2tKuxquz6D6CEhPP5TLTl4) | 3:20 |
-| 39 | [pg.4 a picture of three hedges](https://open.spotify.com/track/4qtRBRNDFVbZ2kk3BEaRf3) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [pg.4 a picture of three hedges/through your window](https://open.spotify.com/album/12TPSTIy5SbQnGRirNzNcB) | 4:09 |
-| 40 | [Bang Bang](https://open.spotify.com/track/1FE3y5rW4l9I7prqRLnLi4) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Bang Bang](https://open.spotify.com/album/0NTpahhBmUXJjGRD1kuaV6) | 2:52 |
+| 39 | [Bang Bang](https://open.spotify.com/track/1FE3y5rW4l9I7prqRLnLi4) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Bang Bang](https://open.spotify.com/album/0NTpahhBmUXJjGRD1kuaV6) | 2:52 |
+| 40 | [pg.4 a picture of three hedges](https://open.spotify.com/track/4qtRBRNDFVbZ2kk3BEaRf3) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [pg.4 a picture of three hedges/through your window](https://open.spotify.com/album/12TPSTIy5SbQnGRirNzNcB) | 4:09 |
 | 41 | [Baldpate Driver](https://open.spotify.com/track/7sS9l7KI8S0hh984RdtTTh) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [We're Not Here to Be Loved](https://open.spotify.com/album/0hm7PiBu72tRliLqLfiKy1) | 4:13 |
 | 42 | [Beautiful World](https://open.spotify.com/track/2L7yZATBaLmKEb0BvIBXK2) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [To See the Next Part of the Dream](https://open.spotify.com/album/0sLt9EsWnVZgJAO5Sp35YQ) | 5:20 |
 | 43 | [At It Again](https://open.spotify.com/track/3nC63MCw9qxn2uneBWqP7W) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Moveys](https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar) | 2:03 |
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 61 | [The Dead Are Dumb](https://open.spotify.com/track/0gtvktvlWNbT8BFgx196ov) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Tired of Tomorrow \(Deluxe Version\)](https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH) | 4:30 |
 | 62 | [Cranekiss](https://open.spotify.com/track/5ljHvSOYJ2AQfZoTlVwni1) | [Tamaryn](https://open.spotify.com/artist/3TdVTSmMfLh55VrJDUpIQ2) | [Cranekiss](https://open.spotify.com/album/0ZMlxCl7fzXSkv4T56hEOa) | 3:50 |
 | 63 | [Strawberry](https://open.spotify.com/track/0kttqKdToPQupUgaBto3UM) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Strawberry](https://open.spotify.com/album/5aZjNX2D52tzOPM2FMcA0v) | 3:29 |
-| 64 | [taste of concrete](https://open.spotify.com/track/5gsLyERQX8cQslfSqdhTw3) | [Shrimp](https://open.spotify.com/artist/53WWphw1pE9SBpsjRgU9tC) | [taste of concrete](https://open.spotify.com/album/3P3IXKGBC2d0SfJAvcbg9V) | 2:32 |
-| 65 | [Air Supply](https://open.spotify.com/track/3I7Uqll4wyJmfBSDQWiLWh) | [Sweet Trip](https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM) | [You Will Never Know Why](https://open.spotify.com/album/78lIjVFQSSRqO47Pvw1b9M) | 4:41 |
+| 64 | [Air Supply](https://open.spotify.com/track/3I7Uqll4wyJmfBSDQWiLWh) | [Sweet Trip](https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM) | [You Will Never Know Why](https://open.spotify.com/album/78lIjVFQSSRqO47Pvw1b9M) | 4:41 |
+| 65 | [taste of concrete](https://open.spotify.com/track/5gsLyERQX8cQslfSqdhTw3) | [Shrimp](https://open.spotify.com/artist/53WWphw1pE9SBpsjRgU9tC) | [taste of concrete](https://open.spotify.com/album/3P3IXKGBC2d0SfJAvcbg9V) | 2:32 |
 | 66 | [Press](https://open.spotify.com/track/37SnMHwWU7F9isLYZB3taJ) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Sway](https://open.spotify.com/album/4jIsi2mhVUh51F7dZCxlGF) | 3:31 |
 | 67 | [Pretty Face](https://open.spotify.com/track/7n3Y93fkz1oRdsgpYTazkh) | [Soft Kill](https://open.spotify.com/artist/58rIPw8uw8LW01eQH7Mi7m) | [Dead Kids R.I.P\. City](https://open.spotify.com/album/09GvIBV4cQDhvlL8rzTIy3) | 2:31 |
-| 68 | [Go and Come Back](https://open.spotify.com/track/2gF3wvkKkkuAXGFzAPUBSa) | [Fleeting Joys](https://open.spotify.com/artist/314EDjJCQdcNfzwefA7daH) | [Despondent Transponder](https://open.spotify.com/album/3Crg8b3vGdMBH6a7rGBtN9) | 4:30 |
-| 69 | [eightball](https://open.spotify.com/track/2GWjuqubd6LAYgimjWiGu3) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj) | [Destiny XL](https://open.spotify.com/album/6F0DKc4JJuxL5y7gL568r7) | 3:09 |
+| 68 | [eightball](https://open.spotify.com/track/2GWjuqubd6LAYgimjWiGu3) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj) | [Destiny XL](https://open.spotify.com/album/6F0DKc4JJuxL5y7gL568r7) | 3:09 |
+| 69 | [Go and Come Back](https://open.spotify.com/track/2gF3wvkKkkuAXGFzAPUBSa) | [Fleeting Joys](https://open.spotify.com/artist/314EDjJCQdcNfzwefA7daH) | [Despondent Transponder](https://open.spotify.com/album/3Crg8b3vGdMBH6a7rGBtN9) | 4:30 |
 | 70 | [Blue Line Baby](https://open.spotify.com/track/4syzzi19vlAQOFDtipYyRL) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Dance on the Blacktop](https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ) | 4:30 |
 | 71 | [Strawberry Cream](https://open.spotify.com/track/0kVQozLQGhKL6FGzCcnCPF) | [Oeil](https://open.spotify.com/artist/5XWHODeAWqM44qXaQwGGT7) | [Urban Twilight \(Remaster\)](https://open.spotify.com/album/4UJdE1UXEfLRDlv7gl55zI) | 3:50 |
 | 72 | [OUTLAW69](https://open.spotify.com/track/4r13d29427UZ9lyGrhKjxJ) | [Blush Response](https://open.spotify.com/artist/3Mpl6q5GdubLhAFQsHLKGj), [Warm](https://open.spotify.com/artist/7G1o6riAKqUeL8Z7FF9J6I) | [Blush Response & Warm](https://open.spotify.com/album/4jfSogLkLLatu35KGy4lTn) | 3:56 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 74 | [Chihiro](https://open.spotify.com/track/0Kg61SKiinZ7MCt2xPYzhq) | [Soft Blue Shimmer](https://open.spotify.com/artist/5ZclZsMoBdRY9MJw6l47Fx) | [Heaven Inches Away](https://open.spotify.com/album/3kNVOsMavASjW9PBfltFMJ) | 4:00 |
 | 75 | [Daisy Chain](https://open.spotify.com/track/2jAxKLW8lw39joDZ4LtUq3) | [Muted Color](https://open.spotify.com/artist/4wZ8VQ73g7CdsFdo4VXDJD) | [Pastel](https://open.spotify.com/album/4atzYhVGosCXHuxvf2GEEy) | 4:01 |
 
-Snapshot ID: `MTY4MTUxMzc5NSwwMDAwMDAwMGIzZGNjMzEwZWU4NjgyMDE3M2EyZTE1Nzk0YjM1MWVm`
+Snapshot ID: `MTY4MTUxMzc5NSwwMDAwMDAwMDM4YTc2Zjg1MDVkZjMwZTI3NTI0ZWRiNjkyNWI2M2Iy`

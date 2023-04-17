@@ -4,7 +4,7 @@
 
 > The smoothest Afro R&B out right now\. Cover:  <a href="https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g?si=Gs1LtpKzTKqjs9IoazUUMg" >Lloyiso</a>
 
-211 songs - 11 hr 15 min
+212 songs - 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,7 +193,8 @@
 | [Summertime With You](https://open.spotify.com/track/4UsVMpG6N5ZFhTyGZvyBuE) | [Titose](https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7) | [Was It Something I Said?](https://open.spotify.com/album/3M6SVIRAGFPUmQ6ca3mFOi) | 2:16 | 2021-11-04 | 2022-07-08 |
 | [Sundays Are For Lovers](https://open.spotify.com/track/3EgaEehSd9raC0RAUbwtQh) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB) | [Amagama \(Deluxe\)](https://open.spotify.com/album/0DP3kKlV04ZUmNbFoxDnjs) | 4:43 | 2022-08-12 | 2022-10-01 |
 | [SUPAHAWT](https://open.spotify.com/track/4ir8C4oqZRrLHlC6VQ3mTF) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [From Uganda With Love](https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL) | 1:50 | 2023-02-16 |  |
-| [Test Me](https://open.spotify.com/track/45VPTngfUEF7c5rBI2IOja) | [Jeune Lio](https://open.spotify.com/artist/1zz3LkV2ojd7rzmYf2QOsF), [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0), [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [A Night In Cocody](https://open.spotify.com/album/7HX3XJ5NzMPUVBkzYRQtWQ) | 3:40 | 2021-09-24 |  |
+| [Test Me](https://open.spotify.com/track/45VPTngfUEF7c5rBI2IOja) | [Jeune Lio](https://open.spotify.com/artist/1zz3LkV2ojd7rzmYf2QOsF), [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0), [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [A Night In Cocody](https://open.spotify.com/album/7HX3XJ5NzMPUVBkzYRQtWQ) | 3:40 | 2021-09-24 | 2023-04-17 |
+| [Test Me](https://open.spotify.com/track/7cb8EEwS3csiKjiee33ZP2) | [Jeune Lio](https://open.spotify.com/artist/1zz3LkV2ojd7rzmYf2QOsF), [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0), [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [A Night In Cocody](https://open.spotify.com/album/7fj4P4j4HNVXX5PZtMaEi2) | 3:40 | 2023-04-14 |  |
 | [Therapy](https://open.spotify.com/track/1qIATFQg93M6KvhPh9QSNc) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Therapy](https://open.spotify.com/album/5HTQ5jXZYHmG0rsYpABqGp) | 3:05 | 2022-05-05 |  |
 | [There's Too Much Of You](https://open.spotify.com/track/2ZvxEQ6U9NJJEcVfKa5Jw7) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [What's Around The Corner](https://open.spotify.com/album/25svhynQhTgN0uUjHAdDth) | 2:18 | 2023-01-19 | 2023-01-21 |
 | [There's Too Much Of You](https://open.spotify.com/track/7ox53QO10ykeeAkrFvmn3f) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [What's Around The Corner](https://open.spotify.com/album/1RpUrBuml8USoJNuUAbVrH) | 2:18 | 2023-01-19 | 2023-01-28 |

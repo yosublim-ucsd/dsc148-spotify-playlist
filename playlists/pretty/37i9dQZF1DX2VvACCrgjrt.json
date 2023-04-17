@@ -1,12 +1,12 @@
 {
   "description": "Real nasty house. Cover: Habstrakt",
-  "num_followers": 419676,
+  "num_followers": 419750,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg3ODEwMCwwMDAwMDAwMDFhOTgxNzRlNWU3YzZiNjAyNmZmNzY1Mjk4NGYxZWJi",
+  "snapshot_id": "MTY4MDg3ODEwMCwwMDAwMDAwMDdmMjI3NjljMjg0MzA2MmI2ZmQ0YTBjZDkwMTEyZWYy",
   "tracks": [
     {
       "added_at": "2023-03-31 04:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Deep In LA",
-        "url": "https://open.spotify.com/album/4yI5ry3atQU0uekSqIS9Q1"
-      },
-      "artists": [
-        {
-          "name": "Dirty Audio",
-          "url": "https://open.spotify.com/artist/1WGex9YdmT4TZjmmMirZA8"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Deep In LA",
-      "url": "https://open.spotify.com/track/36FAlEL4gmVTdUpPjnPtRV"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Bumba Bass",
         "url": "https://open.spotify.com/album/5jpu3knFAP2QMFzwa3JBFn"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 133125,
       "name": "Bumba Bass",
       "url": "https://open.spotify.com/track/119lPAmtAB9PhFXE7XBWV2"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Deep In LA",
+        "url": "https://open.spotify.com/album/4yI5ry3atQU0uekSqIS9Q1"
+      },
+      "artists": [
+        {
+          "name": "Dirty Audio",
+          "url": "https://open.spotify.com/artist/1WGex9YdmT4TZjmmMirZA8"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Deep In LA",
+      "url": "https://open.spotify.com/track/36FAlEL4gmVTdUpPjnPtRV"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -831,26 +831,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Welcome to the Playhouse",
-        "url": "https://open.spotify.com/album/6hhEQkw3cuI1HQ61Xma7Cy"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Shaquille O'Neal",
-          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "Welcome to the Playhouse",
-      "url": "https://open.spotify.com/track/1qXTtWP0sNcePb3tT2eHWL"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Set The Tempo (feat. HQA)",
         "url": "https://open.spotify.com/album/5zPcj2i8Xt2JFA5zuK3NiN"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 183434,
       "name": "Set The Tempo (feat. HQA)",
       "url": "https://open.spotify.com/track/4Fw9pEVsvkpwyIHoVKJ6yI"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Welcome to the Playhouse",
+        "url": "https://open.spotify.com/album/6hhEQkw3cuI1HQ61Xma7Cy"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Shaquille O'Neal",
+          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Welcome to the Playhouse",
+      "url": "https://open.spotify.com/track/1qXTtWP0sNcePb3tT2eHWL"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "CONTROVERSIA by Alok Vol. 008",
-        "url": "https://open.spotify.com/album/38RZAmM8SqgL5gyhWacYFK"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        }
-      ],
-      "duration_ms": 155714,
-      "name": "Kill Me",
-      "url": "https://open.spotify.com/track/3zXS11n8H34fWV53hg7XAr"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Back It Up (feat. Young Lyxx)",
         "url": "https://open.spotify.com/album/1oIZpKnunXHez26jcAFmpI"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 198094,
       "name": "Back It Up (feat. Young Lyxx)",
       "url": "https://open.spotify.com/track/6ePX5p0ufqiYywnNa9nXkO"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "CONTROVERSIA by Alok Vol. 008",
+        "url": "https://open.spotify.com/album/38RZAmM8SqgL5gyhWacYFK"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "duration_ms": 155714,
+      "name": "Kill Me",
+      "url": "https://open.spotify.com/track/3zXS11n8H34fWV53hg7XAr"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "Gang Gang",
+        "url": "https://open.spotify.com/album/2UoDlleSyih3WgzHZYBElH"
+      },
+      "artists": [
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Gang Gang",
+      "url": "https://open.spotify.com/track/7ftiw2BSQHx7snbX0llu6a"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Rush",
         "url": "https://open.spotify.com/album/2eZsDmAcZj27p3B73kbcYp"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 232727,
       "name": "Rush",
       "url": "https://open.spotify.com/track/2a9hp6HbEtzUQBLv5C81mw"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Gang Gang",
-        "url": "https://open.spotify.com/album/2UoDlleSyih3WgzHZYBElH"
-      },
-      "artists": [
-        {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Gang Gang",
-      "url": "https://open.spotify.com/track/7ftiw2BSQHx7snbX0llu6a"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "LEFT TO RIGHT (Space Laces Remix)",
-        "url": "https://open.spotify.com/album/1W0Mus0KmEd27lnEEhmZjv"
-      },
-      "artists": [
-        {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        },
-        {
-          "name": "Space Laces",
-          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
-        }
-      ],
-      "duration_ms": 217604,
-      "name": "LEFT TO RIGHT - Space Laces Remix",
-      "url": "https://open.spotify.com/track/7pcmP5rRN9w145LcpOw9vx"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Tune",
         "url": "https://open.spotify.com/album/0wN5zaRkX38Eh8U8myFobq"
       },
@@ -1263,6 +1243,26 @@
       "duration_ms": 188160,
       "name": "Tune",
       "url": "https://open.spotify.com/track/7ske1qDeuRwD933vcnD3OS"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "LEFT TO RIGHT (Space Laces Remix)",
+        "url": "https://open.spotify.com/album/1W0Mus0KmEd27lnEEhmZjv"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "Space Laces",
+          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
+        }
+      ],
+      "duration_ms": 217604,
+      "name": "LEFT TO RIGHT - Space Laces Remix",
+      "url": "https://open.spotify.com/track/7pcmP5rRN9w145LcpOw9vx"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1401,7 +1401,7 @@
       "url": "https://open.spotify.com/track/6G6gv3EH3kWjm35x6tcsOF"
     },
     {
-      "added_at": "2023-04-16 01:16:14",
+      "added_at": "2023-04-17 01:18:48",
       "album": {
         "name": "No Drama",
         "url": "https://open.spotify.com/album/1CUAAq1mV9BlDgWJblzksq"
@@ -1467,26 +1467,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Funky Sound",
-        "url": "https://open.spotify.com/album/49PKyqHw17jBNcTUaLlafR"
-      },
-      "artists": [
-        {
-          "name": "Plastik Funk",
-          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
-        },
-        {
-          "name": "HINA",
-          "url": "https://open.spotify.com/artist/6sn3ynJRzn7OJUdW9Tzz9K"
-        }
-      ],
-      "duration_ms": 139921,
-      "name": "Funky Sound",
-      "url": "https://open.spotify.com/track/6uKA5VNApuHQoWnSRH1jlc"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Block Party EP",
         "url": "https://open.spotify.com/album/0i0UghehaPAyvAKScn543o"
       },
@@ -1503,6 +1483,26 @@
       "duration_ms": 174395,
       "name": "Reality",
       "url": "https://open.spotify.com/track/2h6fLwmfDafmP1ImJFFskj"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Funky Sound",
+        "url": "https://open.spotify.com/album/49PKyqHw17jBNcTUaLlafR"
+      },
+      "artists": [
+        {
+          "name": "Plastik Funk",
+          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
+        },
+        {
+          "name": "HINA",
+          "url": "https://open.spotify.com/artist/6sn3ynJRzn7OJUdW9Tzz9K"
+        }
+      ],
+      "duration_ms": 139921,
+      "name": "Funky Sound",
+      "url": "https://open.spotify.com/track/6uKA5VNApuHQoWnSRH1jlc"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1559,26 +1559,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Dark Side",
-        "url": "https://open.spotify.com/album/2wsfXvFZaPK9bYpxVmv6ya"
-      },
-      "artists": [
-        {
-          "name": "Saint Punk",
-          "url": "https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW"
-        },
-        {
-          "name": "MASTERIA",
-          "url": "https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO"
-        }
-      ],
-      "duration_ms": 157440,
-      "name": "Dark Side",
-      "url": "https://open.spotify.com/track/5iDws8ebHXlm1Nh7vUjJ9i"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Who U With",
         "url": "https://open.spotify.com/album/5Lfgd5wGgdP6jHaYlkWhVY"
       },
@@ -1599,6 +1579,26 @@
       "duration_ms": 161574,
       "name": "Who U With (feat. Killa Kela)",
       "url": "https://open.spotify.com/track/7HKsIwDpv9CqbXRkkMVkYU"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Dark Side",
+        "url": "https://open.spotify.com/album/2wsfXvFZaPK9bYpxVmv6ya"
+      },
+      "artists": [
+        {
+          "name": "Saint Punk",
+          "url": "https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW"
+        },
+        {
+          "name": "MASTERIA",
+          "url": "https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO"
+        }
+      ],
+      "duration_ms": 157440,
+      "name": "Dark Side",
+      "url": "https://open.spotify.com/track/5iDws8ebHXlm1Nh7vUjJ9i"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1637,7 +1637,7 @@
       "url": "https://open.spotify.com/track/4enqcEaN9zRqZXlKltzyNC"
     },
     {
-      "added_at": "2023-04-16 01:16:14",
+      "added_at": "2023-04-17 01:18:48",
       "album": {
         "name": "Stop Looking (ft. Amy Miyu)",
         "url": "https://open.spotify.com/album/5zE5inTXdQH9yPRYvuiGDV"
@@ -1703,26 +1703,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Rumble Slow (StereoKilla Remix)",
-        "url": "https://open.spotify.com/album/5QySCEHPgrnu9BXuH0qama"
-      },
-      "artists": [
-        {
-          "name": "Dada Life",
-          "url": "https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9"
-        },
-        {
-          "name": "StereoKilla",
-          "url": "https://open.spotify.com/artist/3IxxRIBaCq3pXjxfS7CODy"
-        }
-      ],
-      "duration_ms": 141120,
-      "name": "Rumble Slow - StereoKilla Remix",
-      "url": "https://open.spotify.com/track/3YF5YQbHoUYzyAxuSz6S6U"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Still Here",
         "url": "https://open.spotify.com/album/1efpvOFvmtOKiNTLh3xKmx"
       },
@@ -1739,6 +1719,26 @@
       "duration_ms": 159352,
       "name": "Still Here",
       "url": "https://open.spotify.com/track/4RlapXgc7AWQkrn0gCx7iZ"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Rumble Slow (StereoKilla Remix)",
+        "url": "https://open.spotify.com/album/5QySCEHPgrnu9BXuH0qama"
+      },
+      "artists": [
+        {
+          "name": "Dada Life",
+          "url": "https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9"
+        },
+        {
+          "name": "StereoKilla",
+          "url": "https://open.spotify.com/artist/3IxxRIBaCq3pXjxfS7CODy"
+        }
+      ],
+      "duration_ms": 141120,
+      "name": "Rumble Slow - StereoKilla Remix",
+      "url": "https://open.spotify.com/track/3YF5YQbHoUYzyAxuSz6S6U"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -2063,18 +2063,38 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "DBL Park",
-        "url": "https://open.spotify.com/album/6LhckcJg7vMmV6rB0f1mwt"
+        "name": "B.T.H.D (Bring The House Down)",
+        "url": "https://open.spotify.com/album/3G3tu0CoisV0m8QlE1MXu6"
       },
       "artists": [
         {
-          "name": "Good Times Ahead",
-          "url": "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
+          "name": "Wenzday",
+          "url": "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
         }
       ],
-      "duration_ms": 204759,
-      "name": "DBL Park",
-      "url": "https://open.spotify.com/track/0V5bYmG3gwmt6zPCg3GcM5"
+      "duration_ms": 220800,
+      "name": "B.T.H.D (Bring The House Down)",
+      "url": "https://open.spotify.com/track/6d39vg2NYSYH584ioqev75"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "No Stoppin",
+        "url": "https://open.spotify.com/album/5xws8aUsScDLDQ0isFesjS"
+      },
+      "artists": [
+        {
+          "name": "Cloverdale",
+          "url": "https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB"
+        },
+        {
+          "name": "Eleganto",
+          "url": "https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V"
+        }
+      ],
+      "duration_ms": 185196,
+      "name": "No Stoppin",
+      "url": "https://open.spotify.com/track/7yhgXEXfxFZ3umffj1UPaQ"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -2099,22 +2119,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "No Stoppin",
-        "url": "https://open.spotify.com/album/5xws8aUsScDLDQ0isFesjS"
+        "name": "DBL Park",
+        "url": "https://open.spotify.com/album/6LhckcJg7vMmV6rB0f1mwt"
       },
       "artists": [
         {
-          "name": "Cloverdale",
-          "url": "https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB"
-        },
-        {
-          "name": "Eleganto",
-          "url": "https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V"
+          "name": "Good Times Ahead",
+          "url": "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
         }
       ],
-      "duration_ms": 185196,
-      "name": "No Stoppin",
-      "url": "https://open.spotify.com/track/7yhgXEXfxFZ3umffj1UPaQ"
+      "duration_ms": 204759,
+      "name": "DBL Park",
+      "url": "https://open.spotify.com/track/0V5bYmG3gwmt6zPCg3GcM5"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -2143,22 +2159,6 @@
       "duration_ms": 180983,
       "name": "Giving Up On Love",
       "url": "https://open.spotify.com/track/3WhW8hmR8tFQjpZBIFNLw6"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "B.T.H.D (Bring The House Down)",
-        "url": "https://open.spotify.com/album/3G3tu0CoisV0m8QlE1MXu6"
-      },
-      "artists": [
-        {
-          "name": "Wenzday",
-          "url": "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "B.T.H.D (Bring The House Down)",
-      "url": "https://open.spotify.com/track/6d39vg2NYSYH584ioqev75"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -2359,18 +2359,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "My City Never Sleeps",
-        "url": "https://open.spotify.com/album/7utrFfSLgUchtDqtbld3sy"
+        "name": "Bad Things",
+        "url": "https://open.spotify.com/album/2S6zhG10NHbiK5F5pkoQoz"
       },
       "artists": [
         {
-          "name": "LittGloss",
-          "url": "https://open.spotify.com/artist/4pGKT0bADpfN9VOZvGlSz0"
+          "name": "Not The Father",
+          "url": "https://open.spotify.com/artist/2RGCVHkfmLPJcZVrPBsvY0"
+        },
+        {
+          "name": "Fox'd",
+          "url": "https://open.spotify.com/artist/5AyexHM8AroaTVBLFEKiKS"
         }
       ],
-      "duration_ms": 158000,
-      "name": "My City Never Sleeps",
-      "url": "https://open.spotify.com/track/4iYjAC7Rityu6zyahF3nH0"
+      "duration_ms": 168557,
+      "name": "Bad Things",
+      "url": "https://open.spotify.com/track/3DyZ2YzyCsfF5BPocC8bDv"
     }
   ],
   "unique_name": "Nasty Bits",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNeg74zvBUZ.md) - [plain]
 
 > Sunlight! The most precious gold to be found on Earth.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,648 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,650 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNeg74zvBUZ.md) - [plain]
 | 32 | [A Sea Of Love](https://open.spotify.com/track/7feFMZxaNV6km5QZAXYyv0) | [Huerco S.](https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy) | [For Those Of You Who Have Never \(And Also Those Who Have\)](https://open.spotify.com/album/57o6rhS5v8qPeRPzrNRWF9) | 7:17 |
 | 33 | [Wintergreen](https://open.spotify.com/track/7zf1xFJp2PuqM00hhsC3ax) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Wintergreen](https://open.spotify.com/album/5abZ6znESLYUw9nEhUveJa) | 3:44 |
 | 34 | [Natural Bridges](https://open.spotify.com/track/43oEjzPLnmve0ea2WjqV6W) | [Signa](https://open.spotify.com/artist/0NNkdG1hVjxDA0Viq5cERJ), [John Mark Nelson](https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB) | [Two](https://open.spotify.com/album/1XE0ohBl8Wfml1KJUzzNtF) | 2:43 |
-| 35 | [The Hostess](https://open.spotify.com/track/0ZibOOMZvxb78LLTzkogKL) | [E Ruscha V](https://open.spotify.com/artist/0NOdYxMmwVSeIshVxo6eVE) | [Who Are You](https://open.spotify.com/album/3IlpmrOKZkuPNopf0WCk1F) | 2:04 |
-| 36 | [Coconut Mango](https://open.spotify.com/track/6VRgvci0hYokJguaBzGZmj) | [Arrangement](https://open.spotify.com/artist/6RxI3tCP0Olcb9dMar7e9e) | [Coconut Mango](https://open.spotify.com/album/5paYeeVQtrLKO68IaCCtwj) | 5:25 |
+| 35 | [Coconut Mango](https://open.spotify.com/track/6VRgvci0hYokJguaBzGZmj) | [Arrangement](https://open.spotify.com/artist/6RxI3tCP0Olcb9dMar7e9e) | [Coconut Mango](https://open.spotify.com/album/5paYeeVQtrLKO68IaCCtwj) | 5:25 |
+| 36 | [The Hostess](https://open.spotify.com/track/0ZibOOMZvxb78LLTzkogKL) | [E Ruscha V](https://open.spotify.com/artist/0NOdYxMmwVSeIshVxo6eVE) | [Who Are You](https://open.spotify.com/album/3IlpmrOKZkuPNopf0WCk1F) | 2:04 |
 | 37 | [Bismillahi 'Rrahmani 'Rrahim](https://open.spotify.com/track/5oTnjavcEz8hENl2nlYmdx) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Pavilion Of Dreams](https://open.spotify.com/album/0hWjBUtA4eoFsyh6lygVRN) | 18:27 |
 | 38 | [Impossible Island](https://open.spotify.com/track/312f1c2NbtQKam65h7Mq39) | [Gaussian Curve](https://open.spotify.com/artist/2rxgmguaQSynTMnBKZL73G) | [Clouds](https://open.spotify.com/album/4FC9qI04vobItNEKVeRh8Q) | 7:28 |
 | 39 | [Dawn Chorus](https://open.spotify.com/track/1AzyK709SaGmKOT32r0jSj) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE) | 3:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNeg74zvBUZ.md) - [plain]
 | 49 | [Arboretum](https://open.spotify.com/track/2V0zmL125nc9w25OBdc2oT) | [Corimbo](https://open.spotify.com/artist/5jQIczzAJzOzwnNLFOwoI6) | [Anemophily](https://open.spotify.com/album/2YBYYYHaUb6d2I9EzBkcmt) | 3:43 |
 | 50 | [Dwellberry](https://open.spotify.com/track/6924XH4uThVPk4CpFv30gG) | [Khotin](https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk) | [Beautiful You](https://open.spotify.com/album/6P5OuLSRPjb8vumlRlcq4m) | 4:43 |
 
-Snapshot ID: `MTY4MTUxNzQ5NSwwMDAwMDAwMGJjY2U0NTY4ZTRkM2M5ZjQ4NDQ4OGFhZjU5MGViOWQw`
+Snapshot ID: `MTY4MTUxNzQ5NSwwMDAwMDAwMDVlODFjOGVjNzJkZmFhNzM0MmRkYTAzMTY3MTFjZmU5`

@@ -4,7 +4,7 @@
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドと共に、爽やかな1日を迎えませんか？
 
-202 songs - 12 hr 7 min
+203 songs - 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [hate u love u](https://open.spotify.com/track/6ATgDc6e4sPn84hvJsAmPt) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [hate u love u](https://open.spotify.com/album/0rajxwGsaQ1sqoegXK6gvw) | 2:55 | 2022-10-20 |  |
 | [Heaven \- Acoustic](https://open.spotify.com/track/0DXmK0QaBycr8MpM52Kaeo) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heaven \(Acoustic\)](https://open.spotify.com/album/2BVa3nSaQSubIwgKYEtXka) | 3:03 | 2023-03-23 |  |
 | [Here Comes The Sun \- Remastered 2009](https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 3:05 | 2022-12-14 |  |
-| [Hiding Out In The Open](https://open.spotify.com/track/3S8fsWbSzwTAbyRXWnLugk) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/2uDbIwcvfGsMEbzeU3iyoU) | 3:21 | 2023-03-23 |  |
+| [Hiding Out In The Open](https://open.spotify.com/track/3S8fsWbSzwTAbyRXWnLugk) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/2uDbIwcvfGsMEbzeU3iyoU) | 3:21 | 2023-03-23 | 2023-04-17 |
+| [Hiding Out In The Open](https://open.spotify.com/track/6Q34tUtXLuWst5c63ddQ7N) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn) | 3:21 | 2023-04-13 |  |
 | [Hiding Out In The Open](https://open.spotify.com/track/6rN8cR7iEcC1hAlHF4UpSN) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/4GErH8Za9b4VutH8jTSU1o) | 3:21 | 2023-02-14 | 2023-03-26 |
 | [High On You](https://open.spotify.com/track/6y3u6i5claLRiZImccMbyY) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [High On You](https://open.spotify.com/album/0bi6Wqcd2SWl3cWXz80YIL) | 3:14 | 2023-02-23 |  |
 | [Higher \(feat\. iann dior and GRACEY\) \[Acoustic\]](https://open.spotify.com/track/1tlH92NHQu2HgKGTgArWBT) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Higher \(feat\. iann dior and GRACEY\) \[Acoustic\]](https://open.spotify.com/album/3njZmPZaoTmNRHHMVQDBgg) | 3:30 | 2022-12-13 | 2023-01-20 |

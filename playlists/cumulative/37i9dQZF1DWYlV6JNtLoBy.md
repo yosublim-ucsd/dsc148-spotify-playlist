@@ -4,7 +4,7 @@
 
 > Gospel music from across East Africa
 
-52 songs - 4 hr 5 min
+53 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Relax](https://open.spotify.com/track/6vUjxGdsmFyyycqZohBo8e) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Relax](https://open.spotify.com/album/65LvwDgc92DvkD7GdhPl7R) | 4:09 | 2022-12-19 |  |
 | [Shusha Nyavu](https://open.spotify.com/track/4OWverqpwi4P1BstWOjlS1) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Shusha Nyavu](https://open.spotify.com/album/2Tlcxf4JXImZRqiNnYCDKt) | 3:46 | 2022-12-19 |  |
 | [Siteketei](https://open.spotify.com/track/67LFW34evrWCOHi9ZTqIXz) | [Angel Benard](https://open.spotify.com/artist/7lfpPXqQTNddUIYXLDVbbD) | [Siteketei](https://open.spotify.com/album/0gtIbZPhTNbYUf8GNhRtMC) | 3:30 | 2022-12-19 |  |
+| [Sure \(Counting on You\)](https://open.spotify.com/track/6631GJTIN4OwoKTeAoIk3Q) | [Jesse10s](https://open.spotify.com/artist/6oOIGUtyWVdPoJmgOE1bGH), [Coopy Bly](https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y) | [Sure \(Counting on You\)](https://open.spotify.com/album/2FqECWZ9A5Jr304QeQftM3) | 3:01 | 2023-04-14 |  |
 | [Sweetie Sweetie](https://open.spotify.com/track/3mnMhG3NCpHuWixUJSZADP) | [Zabron Singers](https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP) | [Sweetie Sweetie](https://open.spotify.com/album/1gp2BVV3amp3NTsJN59IOg) | 5:16 | 2022-12-19 |  |
 | [Tasted Of Your Power](https://open.spotify.com/track/6ygiRazaywRpL5VLClqQwe) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:51 | 2022-12-19 |  |
 | [Tawala](https://open.spotify.com/track/6dvk6TqiOxnkLL3T7zkup5) | [Ben Cyco](https://open.spotify.com/artist/357UDX6McIJEWiI0ttqWug), [Laura Karwirwa](https://open.spotify.com/artist/7wkxMxxw3LihaaaWQA7tYT) | [Tawala](https://open.spotify.com/album/2SvM1aj4W4cHTwdSuTyHQs) | 3:06 | 2022-12-19 |  |
@@ -50,7 +51,7 @@
 | [Uliniumba Nikuabudu](https://open.spotify.com/track/3zTWVZR28Tl9wcVhSzqf9P) | [Angela Chibalonza Muliri](https://open.spotify.com/artist/4AX5pJN0bFBqQQK2u6rnIS) | [Yahwe Uhimidiwe](https://open.spotify.com/album/2IKNfYCQSbUEwjSVMDQzJn) | 4:30 | 2022-12-19 |  |
 | [Uniongoze Yesu](https://open.spotify.com/track/2V5Bn7Mazl8A7jNQ4fdyTy) | [UPENDO NKONE](https://open.spotify.com/artist/3rCqmZaKlxxo6LbbuhsF8n) | [Uniongoze Yesu, Vol.4](https://open.spotify.com/album/01mAHADPk1dOnHMBb1ILbx) | 8:10 | 2022-12-19 |  |
 | [Upendo Wa Yesu](https://open.spotify.com/track/5vn3uwdsg6ymcQG7hY4oer) | [UPENDO NKONE](https://open.spotify.com/artist/3rCqmZaKlxxo6LbbuhsF8n) | [Hapa Nilipo](https://open.spotify.com/album/4Rz5OPFfDnv1UHk6q0lKWz) | 4:21 | 2022-12-19 |  |
-| [Utukufu](https://open.spotify.com/track/5vFGjh1BlYhklM4ikVcRcC) | [Ali Mukhwana](https://open.spotify.com/artist/0U7KGdU4TcvHnZok2Yntrj) | [Utukufu](https://open.spotify.com/album/7GCarY8GirkE80DpFX5Ki4) | 4:41 | 2022-12-19 |  |
+| [Utukufu](https://open.spotify.com/track/5vFGjh1BlYhklM4ikVcRcC) | [Ali Mukhwana](https://open.spotify.com/artist/0U7KGdU4TcvHnZok2Yntrj) | [Utukufu](https://open.spotify.com/album/7GCarY8GirkE80DpFX5Ki4) | 4:41 | 2022-12-19 | 2023-04-17 |
 | [Utukufu Na Heshima](https://open.spotify.com/track/0vNZmwnIZqzz0jUCEHs8Z3) | [John Lisu](https://open.spotify.com/artist/39ASHssSh5BCkjBzCA1Cdg) | [Jehovah Yu Hai](https://open.spotify.com/album/7m1A6ahy5nTSXLlZb63aDt) | 8:37 | 2022-12-19 | 2023-04-09 |
 | [Vanity](https://open.spotify.com/track/2hU8ghQ7P480nxYoD3hzmc) | [Daddy Owen](https://open.spotify.com/artist/0C0jx86ffVZNW144tEpETy) | [Vanity](https://open.spotify.com/album/6llcDSIf386x2uFut64Z0O) | 4:37 | 2022-12-19 |  |
 | [Vimbada](https://open.spotify.com/track/6PAZJPDC9Qrcz30gpiCMMx) | [Moji Shortbabaa](https://open.spotify.com/artist/75LES04hIh8qYY8Oqdp7rn) | [Yesu Mtaani](https://open.spotify.com/album/5grus83AKDhpY4rKcBV3VS) | 3:14 | 2022-12-19 |  |

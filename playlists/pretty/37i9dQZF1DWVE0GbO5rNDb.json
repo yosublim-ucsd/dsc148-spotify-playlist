@@ -1,12 +1,12 @@
 {
   "description": "Musica dance per le tue giornate di sole \u2600\ufe0f",
-  "num_followers": 92176,
+  "num_followers": 92198,
   "original_name": "Estate Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg0MDI0MCwwMDAwMDAwMGQ1MGZhMzU4NzQ2ZTRkMzY3MTJiMDAyZDQ0ZmE0YmE0",
+  "snapshot_id": "MTY4MDg0MDI0MCwwMDAwMDAwMGM0MDM3N2VjY2VhZjQ1YmJlMTNhNmU5NTQ4YmFmNmI4",
   "tracks": [
     {
       "added_at": "2023-04-07 04:04:00",
@@ -599,26 +599,6 @@
     {
       "added_at": "2023-04-07 04:04:00",
       "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 188731,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ"
-    },
-    {
-      "added_at": "2023-04-07 04:04:00",
-      "album": {
         "name": "Some Say (Felix Jaehn Remix)",
         "url": "https://open.spotify.com/album/3HE3e3QqmuhAsxcJGtxyEr"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 186878,
       "name": "Some Say - Felix Jaehn Remix",
       "url": "https://open.spotify.com/track/7C1trmcQQ5n5RNy4l6ziCv"
+    },
+    {
+      "added_at": "2023-04-07 04:04:00",
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 188731,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ"
     },
     {
       "added_at": "2023-04-07 04:04:00",
@@ -659,22 +659,26 @@
     {
       "added_at": "2023-04-07 04:04:00",
       "album": {
-        "name": "Shadow",
-        "url": "https://open.spotify.com/album/6gBdU9KlMWSrqM3rkuZyY0"
+        "name": "Rain In Ibiza",
+        "url": "https://open.spotify.com/album/034jdvpqZ6172bXix4BEmN"
       },
       "artists": [
         {
-          "name": "Syn Cole",
-          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
         },
         {
-          "name": "Alida",
-          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
+          "name": "The Stickmen Project",
+          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
+        },
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
         }
       ],
-      "duration_ms": 166572,
-      "name": "Shadow",
-      "url": "https://open.spotify.com/track/102rhgJ5PEFt62e0PumSF2"
+      "duration_ms": 141931,
+      "name": "Rain In Ibiza",
+      "url": "https://open.spotify.com/track/5u8Y0lAUlBLwuhpXSDUGf4"
     },
     {
       "added_at": "2023-04-07 04:04:00",
@@ -715,26 +719,38 @@
     {
       "added_at": "2023-04-07 04:04:00",
       "album": {
-        "name": "Rain In Ibiza",
-        "url": "https://open.spotify.com/album/034jdvpqZ6172bXix4BEmN"
+        "name": "Clap Your Hands",
+        "url": "https://open.spotify.com/album/2Uxn2xBab5Sjo3gnfuir7q"
       },
       "artists": [
         {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "The Stickmen Project",
-          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
-        },
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
         }
       ],
-      "duration_ms": 141931,
-      "name": "Rain In Ibiza",
-      "url": "https://open.spotify.com/track/5u8Y0lAUlBLwuhpXSDUGf4"
+      "duration_ms": 189880,
+      "name": "Clap Your Hands",
+      "url": "https://open.spotify.com/track/7g7OshelYRRnOSEMmisJVI"
+    },
+    {
+      "added_at": "2023-04-07 04:04:00",
+      "album": {
+        "name": "Shadow",
+        "url": "https://open.spotify.com/album/6gBdU9KlMWSrqM3rkuZyY0"
+      },
+      "artists": [
+        {
+          "name": "Syn Cole",
+          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+        },
+        {
+          "name": "Alida",
+          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
+        }
+      ],
+      "duration_ms": 166572,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/102rhgJ5PEFt62e0PumSF2"
     },
     {
       "added_at": "2023-04-07 04:04:00",
@@ -763,22 +779,6 @@
       "duration_ms": 190302,
       "name": "So Close",
       "url": "https://open.spotify.com/track/7FjZU7XFs7P9jHI9Z0yRhK"
-    },
-    {
-      "added_at": "2023-04-07 04:04:00",
-      "album": {
-        "name": "Clap Your Hands",
-        "url": "https://open.spotify.com/album/2Uxn2xBab5Sjo3gnfuir7q"
-      },
-      "artists": [
-        {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
-        }
-      ],
-      "duration_ms": 189880,
-      "name": "Clap Your Hands",
-      "url": "https://open.spotify.com/track/7g7OshelYRRnOSEMmisJVI"
     },
     {
       "added_at": "2023-04-07 04:04:00",
@@ -867,18 +867,22 @@
     {
       "added_at": "2023-04-07 04:04:00",
       "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/3U7e6Sa0lv3gU6tSt0auOI"
+        "name": "So Far So Good",
+        "url": "https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA"
       },
       "artists": [
         {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
         }
       ],
-      "duration_ms": 235215,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/4oe1guqHjDMCYoQguWlNDg"
+      "duration_ms": 196021,
+      "name": "The Fall",
+      "url": "https://open.spotify.com/track/5FvGI8KtImlEbOsvEW3pfX"
     },
     {
       "added_at": "2023-04-07 04:04:00",
@@ -899,22 +903,18 @@
     {
       "added_at": "2023-04-07 04:04:00",
       "album": {
-        "name": "So Far So Good",
-        "url": "https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA"
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/3U7e6Sa0lv3gU6tSt0auOI"
       },
       "artists": [
         {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
         }
       ],
-      "duration_ms": 196021,
-      "name": "The Fall",
-      "url": "https://open.spotify.com/track/5FvGI8KtImlEbOsvEW3pfX"
+      "duration_ms": 235215,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/4oe1guqHjDMCYoQguWlNDg"
     },
     {
       "added_at": "2023-04-07 04:04:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-04-07 04:04:00",
       "album": {
-        "name": "Little Bit Of Love",
-        "url": "https://open.spotify.com/album/1n46dubYWsiqfO1agUTVyz"
-      },
-      "artists": [
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 195452,
-      "name": "Little Bit Of Love",
-      "url": "https://open.spotify.com/track/0VrgIjDkmDwlgZk54Try2u"
-    },
-    {
-      "added_at": "2023-04-07 04:04:00",
-      "album": {
         "name": "Madan (King)",
         "url": "https://open.spotify.com/album/17nQWgqiyuKwi5Oku7BDAl"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 183609,
       "name": "Madan (King)",
       "url": "https://open.spotify.com/track/5EGAY1Txvi5A3hFkYYGsXx"
+    },
+    {
+      "added_at": "2023-04-07 04:04:00",
+      "album": {
+        "name": "Little Bit Of Love",
+        "url": "https://open.spotify.com/album/1n46dubYWsiqfO1agUTVyz"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 195452,
+      "name": "Little Bit Of Love",
+      "url": "https://open.spotify.com/track/0VrgIjDkmDwlgZk54Try2u"
     },
     {
       "added_at": "2023-04-07 04:04:00",
@@ -1643,22 +1643,22 @@
     {
       "added_at": "2023-04-07 04:04:00",
       "album": {
-        "name": "Sweet Talker",
-        "url": "https://open.spotify.com/album/301gSTTWjmjIa1M6Hx4hPT"
+        "name": "Tears In Ibiza (feat. AR/CO)",
+        "url": "https://open.spotify.com/album/3j1gIUlWUvy3ihysDQUYpg"
       },
       "artists": [
         {
-          "name": "Years & Years",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+          "name": "The Stickmen Project",
+          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
         },
         {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
         }
       ],
-      "duration_ms": 176930,
-      "name": "Sweet Talker",
-      "url": "https://open.spotify.com/track/6FRxFke9VsjXmibGgSeKki"
+      "duration_ms": 143579,
+      "name": "Tears In Ibiza (feat. AR/CO)",
+      "url": "https://open.spotify.com/track/7A0xA68c4NiTvbWWAsIsoN"
     },
     {
       "added_at": "2023-04-07 04:04:00",
@@ -1687,22 +1687,22 @@
     {
       "added_at": "2023-04-07 04:04:00",
       "album": {
-        "name": "Tears In Ibiza (feat. AR/CO)",
-        "url": "https://open.spotify.com/album/3j1gIUlWUvy3ihysDQUYpg"
+        "name": "Sweet Talker",
+        "url": "https://open.spotify.com/album/301gSTTWjmjIa1M6Hx4hPT"
       },
       "artists": [
         {
-          "name": "The Stickmen Project",
-          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
+          "name": "Years & Years",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
         },
         {
-          "name": "AR/CO",
-          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
         }
       ],
-      "duration_ms": 143579,
-      "name": "Tears In Ibiza (feat. AR/CO)",
-      "url": "https://open.spotify.com/track/7A0xA68c4NiTvbWWAsIsoN"
+      "duration_ms": 176930,
+      "name": "Sweet Talker",
+      "url": "https://open.spotify.com/track/6FRxFke9VsjXmibGgSeKki"
     },
     {
       "added_at": "2023-04-07 04:04:00",
@@ -1743,18 +1743,22 @@
     {
       "added_at": "2023-04-07 04:04:00",
       "album": {
-        "name": "Like No One Does",
-        "url": "https://open.spotify.com/album/7dXSckW6VGuZlmCiK14Go2"
+        "name": "What It Feels Like",
+        "url": "https://open.spotify.com/album/6w5EasEXNH9NSNpgJLqXO5"
       },
       "artists": [
         {
-          "name": "Jake Scott",
-          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
+          "name": "Toby Romeo",
+          "url": "https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey"
+        },
+        {
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
         }
       ],
-      "duration_ms": 158469,
-      "name": "Like No One Does",
-      "url": "https://open.spotify.com/track/2HnfqILzgKt1CepTlU4oqq"
+      "duration_ms": 135276,
+      "name": "What It Feels Like",
+      "url": "https://open.spotify.com/track/7lD0SNdtIYGV30yxu4494I"
     },
     {
       "added_at": "2023-04-07 04:04:00",
@@ -1799,22 +1803,18 @@
     {
       "added_at": "2023-04-07 04:04:00",
       "album": {
-        "name": "What It Feels Like",
-        "url": "https://open.spotify.com/album/6w5EasEXNH9NSNpgJLqXO5"
+        "name": "Like No One Does",
+        "url": "https://open.spotify.com/album/7dXSckW6VGuZlmCiK14Go2"
       },
       "artists": [
         {
-          "name": "Toby Romeo",
-          "url": "https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey"
-        },
-        {
-          "name": "YouNotUs",
-          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+          "name": "Jake Scott",
+          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
         }
       ],
-      "duration_ms": 135276,
-      "name": "What It Feels Like",
-      "url": "https://open.spotify.com/track/7lD0SNdtIYGV30yxu4494I"
+      "duration_ms": 158469,
+      "name": "Like No One Does",
+      "url": "https://open.spotify.com/track/2HnfqILzgKt1CepTlU4oqq"
     },
     {
       "added_at": "2023-04-07 04:04:00",
@@ -1867,26 +1867,6 @@
     {
       "added_at": "2023-04-07 04:04:00",
       "album": {
-        "name": "We Got Love",
-        "url": "https://open.spotify.com/album/4GtslEn7rHERVWRlqrYehy"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
-        }
-      ],
-      "duration_ms": 213040,
-      "name": "We Got Love",
-      "url": "https://open.spotify.com/track/35mMXfym6C9VOTUVrcKKZp"
-    },
-    {
-      "added_at": "2023-04-07 04:04:00",
-      "album": {
         "name": "Only For The Better",
         "url": "https://open.spotify.com/album/2YCkfABSqmSv2hW2v9w3Vl"
       },
@@ -1907,6 +1887,26 @@
     {
       "added_at": "2023-04-07 04:04:00",
       "album": {
+        "name": "We Got Love",
+        "url": "https://open.spotify.com/album/4GtslEn7rHERVWRlqrYehy"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "duration_ms": 213040,
+      "name": "We Got Love",
+      "url": "https://open.spotify.com/track/35mMXfym6C9VOTUVrcKKZp"
+    },
+    {
+      "added_at": "2023-04-07 04:04:00",
+      "album": {
         "name": "Call On Me",
         "url": "https://open.spotify.com/album/4l78jaWeylIINTLaAdIHJy"
       },
@@ -1919,26 +1919,6 @@
       "duration_ms": 194880,
       "name": "Call On Me",
       "url": "https://open.spotify.com/track/1gX4wETtMGvOB7u1proVfj"
-    },
-    {
-      "added_at": "2023-04-07 04:04:00",
-      "album": {
-        "name": "Live For",
-        "url": "https://open.spotify.com/album/075Aglr1S2AQZRNKv13Ho7"
-      },
-      "artists": [
-        {
-          "name": "ARTY",
-          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
-        },
-        {
-          "name": "Griff Clawson",
-          "url": "https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7"
-        }
-      ],
-      "duration_ms": 171433,
-      "name": "Live For",
-      "url": "https://open.spotify.com/track/0F9fZwEu2cWSgqoRWzAtAS"
     },
     {
       "added_at": "2023-04-07 04:04:00",
@@ -1963,22 +1943,42 @@
     {
       "added_at": "2023-04-07 04:04:00",
       "album": {
-        "name": "Lullaby",
-        "url": "https://open.spotify.com/album/1SR7c6j94aiuYEhUrfTbZ7"
+        "name": "Live For",
+        "url": "https://open.spotify.com/album/075Aglr1S2AQZRNKv13Ho7"
       },
       "artists": [
         {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+          "name": "ARTY",
+          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
         },
         {
-          "name": "Paloma Faith",
-          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
+          "name": "Griff Clawson",
+          "url": "https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7"
         }
       ],
-      "duration_ms": 204022,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/5xzCzOAOfRi4DOttSzvznR"
+      "duration_ms": 171433,
+      "name": "Live For",
+      "url": "https://open.spotify.com/track/0F9fZwEu2cWSgqoRWzAtAS"
+    },
+    {
+      "added_at": "2023-04-07 04:04:00",
+      "album": {
+        "name": "DANCE",
+        "url": "https://open.spotify.com/album/4YIOg7I2h6ISBGXijrVtLi"
+      },
+      "artists": [
+        {
+          "name": "CLMD",
+          "url": "https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr"
+        },
+        {
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+        }
+      ],
+      "duration_ms": 174448,
+      "name": "DANCE",
+      "url": "https://open.spotify.com/track/6TfeXwJihJRuBW3mFpib6J"
     }
   ],
   "unique_name": "Estate Dance",

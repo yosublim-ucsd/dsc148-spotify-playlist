@@ -4,7 +4,7 @@
 
 > Blissful indie for dreamers.
 
-347 songs - 21 hr 36 min
+348 songs - 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Cricket Songs](https://open.spotify.com/track/1X6YvgGzWH9t6io3ZBZ7JP) | [Phantom Handshakes](https://open.spotify.com/artist/1zg9SzoXC2U50P7Q403Alo) | [Cricket Songs](https://open.spotify.com/album/26bo5J4lnlEcCV1LygSfGM) | 3:50 | 2021-03-26 | 2022-07-28 |
 | [Crossroads](https://open.spotify.com/track/4wf0EYJDLjaHoRXJ7fAvxm) | [Haleiwa](https://open.spotify.com/artist/46IokpOf5xVXtw6RAPKZRi) | [Crossroads](https://open.spotify.com/album/5aS6AGAE1T6Mz7bpjFYTnK) | 2:53 | 2019-11-19\* | 2020-12-22 |
 | [Crushin'](https://open.spotify.com/track/2rl3qVhTopu9De51tKCDUM) | [Film School](https://open.spotify.com/artist/3Q5JOuj2Zs59ujPp1njIWS) | [Crushin'](https://open.spotify.com/album/0fx54uQWyxEcStCm4jKRVO) | 3:50 | 2019-11-19\* | 2020-11-06 |
-| [dad](https://open.spotify.com/track/3ZdGWogMp00sHjyXW4o4Mk) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [dad](https://open.spotify.com/album/6Gh4KS4MxQP04klmHWVAtZ) | 3:12 | 2022-04-01 |  |
+| [dad](https://open.spotify.com/track/3ZdGWogMp00sHjyXW4o4Mk) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [dad](https://open.spotify.com/album/6Gh4KS4MxQP04klmHWVAtZ) | 3:12 | 2022-04-01 | 2023-04-17 |
 | [Daisy](https://open.spotify.com/track/05EgVvYINhUHLomTjv5VKe) | [atmos bloom](https://open.spotify.com/artist/5F6pjXWILFr4XnOngaKyo3) | [Flora](https://open.spotify.com/album/5MOsdLQs3Rx5ed7cnrH5Ku) | 2:15 | 2022-07-06 |  |
 | [Daisy](https://open.spotify.com/track/3w2C7ISKBH9yhjHK4VjyFb) | [atmos bloom](https://open.spotify.com/artist/5F6pjXWILFr4XnOngaKyo3) | [Daisy](https://open.spotify.com/album/4rqRIEmsDFgu8eKKg4aEi6) | 2:15 | 2022-04-13 | 2022-04-21 |
 | [Damn I'm Tired](https://open.spotify.com/track/3HyzMwZ7JHVp07a9YQnpWJ) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Damn I'm Tired](https://open.spotify.com/album/0LqHbdzLluBS0k9Wh7bmKu) | 3:45 | 2021-12-22 |  |
@@ -130,6 +130,7 @@
 | [Hang On](https://open.spotify.com/track/2DSxutganHw57vSdvmgjZt) | [Quicksilver Daydream](https://open.spotify.com/artist/7iqMkZYGHvYvfFexsXZrsL) | [Fly Oblivion](https://open.spotify.com/album/5NpTFT0dZpm5w2hcHhLcEG) | 2:59 | 2019-11-19\* | 2022-06-30 |
 | [Hang On](https://open.spotify.com/track/5g6PqhkeTyARGPROM5Gosp) | [Quicksilver Daydream](https://open.spotify.com/artist/7iqMkZYGHvYvfFexsXZrsL) | [Hang On](https://open.spotify.com/album/1hL39aGR9yHmhs39OO7w3y) | 2:59 | 2019-11-19\* | 2020-11-25 |
 | [Heaven](https://open.spotify.com/track/1gczbgaCmw15h3ZG4awluK) | [Brothertiger](https://open.spotify.com/artist/2MaMzvFmtu68r9zpdJ4tLE) | [Heaven](https://open.spotify.com/album/12ehvPg4PDufuo4FhfAWgr) | 4:50 | 2021-09-23 | 2023-01-06 |
+| [Heavy Days](https://open.spotify.com/track/0nGmz6gDOZdRh0rYd623P9) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [Heavy Days](https://open.spotify.com/album/5B2eSjpDpzAmIxfpGndPHe) | 3:47 | 2023-03-24 |  |
 | [Heavy Days](https://open.spotify.com/track/6Nr8U7LKb4B07ZTbXA1RbX) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [Heavy Days](https://open.spotify.com/album/6qkZLHCIMcG8dFSWLTnteo) | 3:47 | 2021-09-23 | 2023-04-07 |
 | [Heretic Porcelain](https://open.spotify.com/track/1vKbvhNrBNgkPPOiIBcbyv) | [Tan Cologne](https://open.spotify.com/artist/0BzCBe2kdywrXRgiP1JZeo) | [Heretic Porcelain](https://open.spotify.com/album/2LxiqZJ4AgDxKT0R5sQf0K) | 4:45 | 2020-11-06 | 2022-07-26 |
 | [High](https://open.spotify.com/track/1zeHdhh4mHP08aGMCMCyPM) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Running](https://open.spotify.com/album/4n42G2OKF6kxGugj2MMn5c) | 3:37 | 2021-08-01 | 2022-07-29 |

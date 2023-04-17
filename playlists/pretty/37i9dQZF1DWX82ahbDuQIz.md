@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX82ahbDuQIz.md) - [plain]
 
 > Musical songs from Broadway, the West End and beyond\. Cover: Parade
 
-[Spotify](https://open.spotify.com/user/spotify) - 488,970 likes - 96 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 489,079 likes - 96 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX82ahbDuQIz.md) - [plain]
 | 71 | [I Get a Kick out of You](https://open.spotify.com/track/23B3o2laQ6r35OQMgtXTRo) | [Sutton Foster](https://open.spotify.com/artist/2RWaZohsuqSJX9xWX3p95G) | [Anything Goes \(New Broadway Cast Recording\)](https://open.spotify.com/album/6yH8LWqApBErvtBGSSwGzL) | 2:24 |
 | 72 | [Santa Fe](https://open.spotify.com/track/6aWJOPC5gpjTpRiyvrFOQm) | [Jeremy Jordan](https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub) | [Newsies \(Original Broadway Cast Recording\)](https://open.spotify.com/album/3hqYvu1aBkroLKzkGM5DSk) | 3:12 |
 | 73 | [Sweet Transvestite](https://open.spotify.com/track/0K9n8TBThz4xNAkF1eIlB6) | [Tim Curry](https://open.spotify.com/artist/5upLeyz8OjRZcbFuXOF59B) | [The Rocky Horror Picture Show \- Original Soundtrack](https://open.spotify.com/album/4QviryaneolcRmDB57SLco) | 3:24 |
-| 74 | [Johanna \(From "Sweeney Todd"\)](https://open.spotify.com/track/1mglqKLKJ9wRUQmoWxyb5m) | [Stephen Sondheim](https://open.spotify.com/artist/4TbtUt49IMXEIMmNdifHb1), [Victor Garber](https://open.spotify.com/artist/38cD8Rgj90SnDQFCmBGwUS), [Paul Gemignani](https://open.spotify.com/artist/5oi5DXLFdDZKjwlVxRY3GS) | [Sweeney Todd: The Demon Barber of Fleet Street \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2q6InM859RCsSQOjHWNHk2) | 1:57 |
+| 74 | [Johanna](https://open.spotify.com/track/1mglqKLKJ9wRUQmoWxyb5m) | [Stephen Sondheim](https://open.spotify.com/artist/4TbtUt49IMXEIMmNdifHb1), [Victor Garber](https://open.spotify.com/artist/38cD8Rgj90SnDQFCmBGwUS), [Original Broadway Cast of Sweeney Todd: The Demon Barber of Fleet Street](https://open.spotify.com/artist/6EoJvLCnPbPZJFAurWlx2e), [Paul Gemignani](https://open.spotify.com/artist/5oi5DXLFdDZKjwlVxRY3GS) | [Sweeney Todd: The Demon Barber of Fleet Street \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2q6InM859RCsSQOjHWNHk2) | 1:57 |
 | 75 | [Cabaret \(from "Cabaret"\)](https://open.spotify.com/track/5ySJFXo0jQmn8O8J81yzJD) | [Natasha Richardson](https://open.spotify.com/artist/6FwAZUidq5yFqZuLg94DuM), [Alan Cumming](https://open.spotify.com/artist/66T9wYAojCjsnxM4R5KAhW) | [The Essential Broadway](https://open.spotify.com/album/3gGJBjFWvp8oOYIF1MBSQQ) | 4:12 |
 | 76 | [Satisfied](https://open.spotify.com/track/3dP0pLbg9OfVwssDjp9aT0) | [Renée Elise Goldsberry](https://open.spotify.com/artist/5VJN4jB6PqqEg4kJiAj6Eu), [Original Broadway Cast of Hamilton](https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu) | [Hamilton \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) | 5:29 |
 | 77 | [All That Jazz](https://open.spotify.com/track/3nAuX0TA8yhqsPDHO8ybFe) | [Chicago Ensemble \(1997\)](https://open.spotify.com/artist/5mitnQA7skz8pAo8W6t9ph) | [Chicago The Musical \(New Broadway Cast Recording \(1997\)\)](https://open.spotify.com/album/5zgxFgQiGAqNmAY5EhgVWv) | 5:05 |

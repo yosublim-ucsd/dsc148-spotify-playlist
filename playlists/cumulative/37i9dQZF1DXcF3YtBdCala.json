@@ -175,6 +175,32 @@
     },
     {
       "album": {
+        "name": "Asi Soy Yo (Remix)",
+        "url": "https://open.spotify.com/album/70WHsIuGd7gv2HcD34hezS"
+      },
+      "artists": [
+        {
+          "name": "Alexis Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/74F14UgJDPL2FCVmQE8Ycj"
+        },
+        {
+          "name": "Luisito Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/0ajy8rupiCOgvmsOtaG83P"
+        },
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175813,
+      "name": "Asi Soy Yo - Remix",
+      "url": "https://open.spotify.com/track/2lCWraVKfxzcazOS9mxu5T"
+    },
+    {
+      "album": {
         "name": "As\u00ed Nom\u00e1s",
         "url": "https://open.spotify.com/album/1DJ1t2VC98iToO2Xw0cIPy"
       },
@@ -1137,6 +1163,24 @@
     },
     {
       "album": {
+        "name": "Magia",
+        "url": "https://open.spotify.com/album/60kJstm2YGdiqr6g7gpCqB"
+      },
+      "artists": [
+        {
+          "name": "Felipe Pel\u00e1ez",
+          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157607,
+      "name": "Magia",
+      "url": "https://open.spotify.com/track/6ExLGBti18vFy0Kc3QNXvO"
+    },
+    {
+      "album": {
         "name": "Me Hace Tanto Bien",
         "url": "https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV"
       },
@@ -1744,7 +1788,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 229200,
       "name": "Qu\u00e9 Iron\u00eda",
       "url": "https://open.spotify.com/track/4OBNBGe8w5un8KJbONIhYF"
@@ -2258,7 +2302,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 182044,
       "name": "Ya Es Suficiente",
       "url": "https://open.spotify.com/track/1XF09h15mtS3nvgDniNZN5"

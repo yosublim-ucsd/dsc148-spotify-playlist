@@ -1,12 +1,12 @@
 {
   "description": "Have a drink and relax to the Jazz played in the background in the bar.",
-  "num_followers": 44293,
+  "num_followers": 44401,
   "original_name": "Jazz Bar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ2NjcxNiwwMDAwMDAwMGFiYWE1Y2VlMjdjODRlZTdlNmQxMjMwZDQ2YWM5MWY2",
+  "snapshot_id": "MTY4MTQ2NjcxNiwwMDAwMDAwMGY2NTFhMDU1OWZlZTE4ZTcyMDdhNTQ3YmZmMzRiMDQw",
   "tracks": [
     {
       "added_at": "2023-04-14 10:05:16",
@@ -47,6 +47,26 @@
     {
       "added_at": "2023-04-14 10:05:16",
       "album": {
+        "name": "Sarah Vaughan",
+        "url": "https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        },
+        {
+          "name": "Clifford Brown",
+          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
+        }
+      ],
+      "duration_ms": 291173,
+      "name": "Embraceable You",
+      "url": "https://open.spotify.com/track/5m3XMzewNg9EADweC7j7Nn"
+    },
+    {
+      "added_at": "2023-04-14 10:05:16",
+      "album": {
         "name": "Verve Jazz Masters 34: Coleman Hawkins",
         "url": "https://open.spotify.com/album/068xxiiZI5PQYoYVQl2R7y"
       },
@@ -67,26 +87,6 @@
       "duration_ms": 159773,
       "name": "Cocktails For Two",
       "url": "https://open.spotify.com/track/50ijZUy4vc2q9Pm12q5F7K"
-    },
-    {
-      "added_at": "2023-04-14 10:05:16",
-      "album": {
-        "name": "Sarah Vaughan",
-        "url": "https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        },
-        {
-          "name": "Clifford Brown",
-          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
-        }
-      ],
-      "duration_ms": 291173,
-      "name": "Embraceable You",
-      "url": "https://open.spotify.com/track/5m3XMzewNg9EADweC7j7Nn"
     },
     {
       "added_at": "2023-04-14 10:05:16",
@@ -239,18 +239,18 @@
     {
       "added_at": "2023-04-14 10:05:16",
       "album": {
-        "name": "An Introduction To Sarah Vaughan",
-        "url": "https://open.spotify.com/album/6luprPJCSNzTR0qGQOSlWE"
+        "name": "Loads Of Love",
+        "url": "https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY"
       },
       "artists": [
         {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+          "name": "Shirley Horn",
+          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
         }
       ],
-      "duration_ms": 151373,
-      "name": "Tenderly",
-      "url": "https://open.spotify.com/track/6TMoKdGcSIHjLfyzINFB5X"
+      "duration_ms": 177666,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/0NaArK8e9ovK75lLRU0OWM"
     },
     {
       "added_at": "2023-04-14 10:05:16",
@@ -271,18 +271,18 @@
     {
       "added_at": "2023-04-14 10:05:16",
       "album": {
-        "name": "Loads Of Love",
-        "url": "https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY"
+        "name": "An Introduction To Sarah Vaughan",
+        "url": "https://open.spotify.com/album/6luprPJCSNzTR0qGQOSlWE"
       },
       "artists": [
         {
-          "name": "Shirley Horn",
-          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
         }
       ],
-      "duration_ms": 177666,
-      "name": "Do It Again",
-      "url": "https://open.spotify.com/track/0NaArK8e9ovK75lLRU0OWM"
+      "duration_ms": 151373,
+      "name": "Tenderly",
+      "url": "https://open.spotify.com/track/6TMoKdGcSIHjLfyzINFB5X"
     },
     {
       "added_at": "2023-04-14 10:05:16",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-04-14 10:05:16",
       "album": {
-        "name": "All Or Nothing At All",
-        "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 256386,
-      "name": "Do Nothin' Till You Hear From Me - 1956 Version",
-      "url": "https://open.spotify.com/track/7ueJIjtiVTKmYmDpvQokdG"
-    },
-    {
-      "added_at": "2023-04-14 10:05:16",
-      "album": {
         "name": "See You At The Fair",
         "url": "https://open.spotify.com/album/1jMKRKYJTWspPOKBmjfUsq"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 258893,
       "name": "Something Cool - Mono",
       "url": "https://open.spotify.com/track/2mqjKGlSdJHdjCQHtOx6PD"
+    },
+    {
+      "added_at": "2023-04-14 10:05:16",
+      "album": {
+        "name": "All Or Nothing At All",
+        "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 256386,
+      "name": "Do Nothin' Till You Hear From Me - 1956 Version",
+      "url": "https://open.spotify.com/track/7ueJIjtiVTKmYmDpvQokdG"
     },
     {
       "added_at": "2023-04-14 10:05:16",
@@ -719,22 +719,18 @@
     {
       "added_at": "2023-04-14 10:05:16",
       "album": {
-        "name": "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
+        "name": "Kind Of Blue (Legacy Edition)",
+        "url": "https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw"
       },
       "artists": [
         {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 385706,
-      "name": "You Go To My Head",
-      "url": "https://open.spotify.com/track/6ejEeOXB4r7Tda2YJvNpSI"
+      "duration_ms": 707253,
+      "name": "Love For Sale",
+      "url": "https://open.spotify.com/track/66vrjgMvWOLyeKBuMGA0Cz"
     },
     {
       "added_at": "2023-04-14 10:05:16",
@@ -755,18 +751,22 @@
     {
       "added_at": "2023-04-14 10:05:16",
       "album": {
-        "name": "Kind Of Blue (Legacy Edition)",
-        "url": "https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw"
+        "name": "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
       },
       "artists": [
         {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
         }
       ],
-      "duration_ms": 707253,
-      "name": "Love For Sale",
-      "url": "https://open.spotify.com/track/66vrjgMvWOLyeKBuMGA0Cz"
+      "duration_ms": 385706,
+      "name": "You Go To My Head",
+      "url": "https://open.spotify.com/track/6ejEeOXB4r7Tda2YJvNpSI"
     },
     {
       "added_at": "2023-04-14 10:05:16",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2023-04-14 10:05:16",
       "album": {
-        "name": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
-        "url": "https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy"
+        "name": "Jazz 'Round Midnight: Ballads",
+        "url": "https://open.spotify.com/album/7vFkvIbJVMmVx9sou1UXZY"
       },
       "artists": [
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+          "name": "Arthur Prysock",
+          "url": "https://open.spotify.com/artist/6yJZMmgqsTjH6ooVALu7oT"
         }
       ],
-      "duration_ms": 164826,
-      "name": "Am I Blue? - Take 2",
-      "url": "https://open.spotify.com/track/59KkICr2P3gksRXtukBrIX"
+      "duration_ms": 222666,
+      "name": "I'm Through With Love",
+      "url": "https://open.spotify.com/track/0GoXM92wupNu7ydgt826Oz"
     },
     {
       "added_at": "2023-04-14 10:05:16",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-04-14 10:05:16",
       "album": {
-        "name": "Jazz 'Round Midnight: Ballads",
-        "url": "https://open.spotify.com/album/7vFkvIbJVMmVx9sou1UXZY"
-      },
-      "artists": [
-        {
-          "name": "Arthur Prysock",
-          "url": "https://open.spotify.com/artist/6yJZMmgqsTjH6ooVALu7oT"
-        }
-      ],
-      "duration_ms": 222666,
-      "name": "I'm Through With Love",
-      "url": "https://open.spotify.com/track/0GoXM92wupNu7ydgt826Oz"
-    },
-    {
-      "added_at": "2023-04-14 10:05:16",
-      "album": {
         "name": "King Of The Tenors",
         "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
       },
@@ -1479,6 +1463,22 @@
     {
       "added_at": "2023-04-14 10:05:16",
       "album": {
+        "name": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
+        "url": "https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 164826,
+      "name": "Am I Blue? - Take 2",
+      "url": "https://open.spotify.com/track/59KkICr2P3gksRXtukBrIX"
+    },
+    {
+      "added_at": "2023-04-14 10:05:16",
+      "album": {
         "name": "Ella Fitzgerald Sings The Duke Ellington Song Book",
         "url": "https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj"
       },
@@ -1491,6 +1491,22 @@
       "duration_ms": 331213,
       "name": "Prelude To A Kiss",
       "url": "https://open.spotify.com/track/5np8aLrbzZDCHPPXyqNOeb"
+    },
+    {
+      "added_at": "2023-04-14 10:05:16",
+      "album": {
+        "name": "Complete Roost Recordings",
+        "url": "https://open.spotify.com/album/52zwSjXRQJor9U8Ti84m64"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 181266,
+      "name": "Autumn Leaves - Instrumental Version",
+      "url": "https://open.spotify.com/track/4BAJX7Myp1qKfAgxfLPG8v"
     },
     {
       "added_at": "2023-04-14 10:05:16",
@@ -1515,22 +1531,6 @@
     {
       "added_at": "2023-04-14 10:05:16",
       "album": {
-        "name": "Complete Roost Recordings",
-        "url": "https://open.spotify.com/album/52zwSjXRQJor9U8Ti84m64"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 181266,
-      "name": "Autumn Leaves - Instrumental Version",
-      "url": "https://open.spotify.com/track/4BAJX7Myp1qKfAgxfLPG8v"
-    },
-    {
-      "added_at": "2023-04-14 10:05:16",
-      "album": {
         "name": "The Classic Lena Horne",
         "url": "https://open.spotify.com/album/2feDNzqIwyjntEmwEoqMfm"
       },
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2023-04-14 10:05:16",
       "album": {
-        "name": "Wailing With Lou",
-        "url": "https://open.spotify.com/album/3oy4KWxOtbmFXWBEdrulHf"
+        "name": "Ballads",
+        "url": "https://open.spotify.com/album/66lE5oVdR8QZjXNbYjJulR"
       },
       "artists": [
         {
-          "name": "Lou Donaldson",
-          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
+          "name": "Grant Green",
+          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
         }
       ],
-      "duration_ms": 413080,
-      "name": "There Is No Greater Love",
-      "url": "https://open.spotify.com/track/3nVZEmGoRp4uId0LRTdcfm"
+      "duration_ms": 434666,
+      "name": "Little Girl Blue",
+      "url": "https://open.spotify.com/track/26bVvTsdbtIAuJ0pZyCaOO"
     },
     {
       "added_at": "2023-04-14 10:05:16",
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2023-04-14 10:05:16",
       "album": {
-        "name": "Ballads",
-        "url": "https://open.spotify.com/album/66lE5oVdR8QZjXNbYjJulR"
+        "name": "Wailing With Lou",
+        "url": "https://open.spotify.com/album/3oy4KWxOtbmFXWBEdrulHf"
       },
       "artists": [
         {
-          "name": "Grant Green",
-          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
+          "name": "Lou Donaldson",
+          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
         }
       ],
-      "duration_ms": 434666,
-      "name": "Little Girl Blue",
-      "url": "https://open.spotify.com/track/26bVvTsdbtIAuJ0pZyCaOO"
+      "duration_ms": 413080,
+      "name": "There Is No Greater Love",
+      "url": "https://open.spotify.com/track/3nVZEmGoRp4uId0LRTdcfm"
     },
     {
       "added_at": "2023-04-14 10:05:16",

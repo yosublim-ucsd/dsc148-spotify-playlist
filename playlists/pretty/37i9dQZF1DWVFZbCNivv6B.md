@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 
 > Aquí vive el hip\-hop\. Cartel de Santa y La Kelly en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 651,572 likes - 106 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 651,893 likes - 106 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

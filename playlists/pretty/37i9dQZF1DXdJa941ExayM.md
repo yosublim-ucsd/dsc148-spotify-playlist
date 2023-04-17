@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 
 > maybe it's punk, maybe it's not\. Cover: 100 gecs
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,331 likes - 80 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,480 likes - 80 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,20 +73,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 | 63 | [ATTENTION!](https://open.spotify.com/track/5w4nlSCMfNT2TdopSd0Lmu) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [ATTENTION!](https://open.spotify.com/album/7zM6DDsuOyzy85DMg6Ktfh) | 2:41 |
 | 64 | [Dazzling](https://open.spotify.com/track/12KEEMtokPYmzVbUopkRBm) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Thirst](https://open.spotify.com/album/2eLnAcGJgI4cdFlqjT25h1) | 2:40 |
 | 65 | [I Want Attention](https://open.spotify.com/track/4ZVXl0izo6Gz3cGf1uXGQF) | [ZELA](https://open.spotify.com/artist/4Hq5SvV1YpZIDBVaygsGVg) | [I Want Attention](https://open.spotify.com/album/1H3SqVXlAOxhEf1RrU4gJf) | 2:45 |
-| 66 | [Idgaf](https://open.spotify.com/track/3GrYhvHbnMhp2CQFSU4Qeb) | [Beach Bums](https://open.spotify.com/artist/28uoxZaXCXirkQDIZFaVbJ) | [Overcast](https://open.spotify.com/album/2fSq9tYVZHxi3lxub36rdA) | 2:45 |
-| 67 | [sore](https://open.spotify.com/track/7vUgOE1PE39ORLkoGg8b82) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [sore](https://open.spotify.com/album/6WOzttpXQTWLtbhUpKF5o2) | 2:54 |
+| 66 | [sore](https://open.spotify.com/track/7vUgOE1PE39ORLkoGg8b82) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [sore](https://open.spotify.com/album/6WOzttpXQTWLtbhUpKF5o2) | 2:54 |
+| 67 | [Idgaf](https://open.spotify.com/track/3GrYhvHbnMhp2CQFSU4Qeb) | [Beach Bums](https://open.spotify.com/artist/28uoxZaXCXirkQDIZFaVbJ) | [Overcast](https://open.spotify.com/album/2fSq9tYVZHxi3lxub36rdA) | 2:45 |
 | 68 | [I Raise You \(The Price of Your Head\)](https://open.spotify.com/track/302te1PaXydwxxX6aIjkhn) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [I Raise You \(The Price of Your Head\)](https://open.spotify.com/album/0KGJSvayWmKlbQW49bZQIt) | 3:51 |
 | 69 | [Nothin](https://open.spotify.com/track/5B8YgxWQB7DJixto3dMXga) | [Worry Club](https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl) | [Nothin](https://open.spotify.com/album/60qxRLUI5bH6vM0jp25XES) | 2:47 |
-| 70 | [stupid bitch](https://open.spotify.com/track/77wru6MqUYACgY74Lgp3Ti) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [softCORE](https://open.spotify.com/album/0iv5fjooZ7WR2FvmxKwDER) | 2:45 |
-| 71 | [Love You Forever](https://open.spotify.com/track/74P29isjvkWKam9RH3VIqx) | [THICK](https://open.spotify.com/artist/3y6q4JBOyyoETYPw1yHYli) | [Love You Forever](https://open.spotify.com/album/1Dhav3eZHLNgwZhtoxpz72) | 2:26 |
+| 70 | [Love You Forever](https://open.spotify.com/track/74P29isjvkWKam9RH3VIqx) | [THICK](https://open.spotify.com/artist/3y6q4JBOyyoETYPw1yHYli) | [Love You Forever](https://open.spotify.com/album/1Dhav3eZHLNgwZhtoxpz72) | 2:26 |
+| 71 | [stupid bitch](https://open.spotify.com/track/77wru6MqUYACgY74Lgp3Ti) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [softCORE](https://open.spotify.com/album/0iv5fjooZ7WR2FvmxKwDER) | 2:45 |
 | 72 | [Just For Love](https://open.spotify.com/track/6wQeNdJeBm6QCQQNIkQhd8) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Just For Love](https://open.spotify.com/album/3TEdTmkLHGGEpmpzbgV0Js) | 3:17 |
 | 73 | [TEEN POP SENSATION](https://open.spotify.com/track/01BgUiNgDvBfwDizRm4qnp) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em) | [just in case the world ends \(deluxe edition\)](https://open.spotify.com/album/4IML4pQ6aDgViRY1RW139y) | 2:14 |
-| 74 | [Mosquito](https://open.spotify.com/track/3p5I5YZWnp81bcAvUzVHa3) | [Elijah Miller](https://open.spotify.com/artist/5EiOwophtTAR0ZaPfXuK5a) | [Mosquito](https://open.spotify.com/album/1eUSbAtW5RZmiuWEDmCxYe) | 2:52 |
-| 75 | [Town's Dead](https://open.spotify.com/track/6p8GJBXzymtc0QyJES6ubV) | [Kojaque](https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY) | [Town's Dead](https://open.spotify.com/album/6PtpPzTZPYmRQ9EqfGTUYT) | 3:06 |
+| 74 | [Town's Dead](https://open.spotify.com/track/6p8GJBXzymtc0QyJES6ubV) | [Kojaque](https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY) | [Town's Dead](https://open.spotify.com/album/6PtpPzTZPYmRQ9EqfGTUYT) | 3:06 |
+| 75 | [Mosquito](https://open.spotify.com/track/3p5I5YZWnp81bcAvUzVHa3) | [Elijah Miller](https://open.spotify.com/artist/5EiOwophtTAR0ZaPfXuK5a) | [Mosquito](https://open.spotify.com/album/1eUSbAtW5RZmiuWEDmCxYe) | 2:52 |
 | 76 | [i wanna bite your face](https://open.spotify.com/track/0TmhK8MuZrWow9HUp6fH5c) | [Eve 6](https://open.spotify.com/artist/4Eqd24yS5YcxI8b6Xfuwr8) | [grim value](https://open.spotify.com/album/63se1zqIgvcKzzOfqIbR8m) | 2:26 |
 | 77 | [pity party \(hyperpunk remix\)](https://open.spotify.com/track/3pgNhkkVzEBp3oWjGiHHWL) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [pity party \(hyperpunk remix\)](https://open.spotify.com/album/58nU4gbZoCTv8Cn0xpKqiF) | 2:36 |
 | 78 | [It's Permanent](https://open.spotify.com/track/3OGkTlzC4Se6z6e9eEwMOt) | [Ultra Q](https://open.spotify.com/artist/57JelvPHs2P6BROjeHhHZ3) | [Get Yourself A Friend](https://open.spotify.com/album/1UgBF6FuYhQnnKPuPnxbVD) | 3:32 |
 | 79 | [Night Pill](https://open.spotify.com/track/6M9YPsfizSSymcQCFUTlHz) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd), [Asha Lorenz](https://open.spotify.com/artist/6W2HXxZcdhtB9P2Njxm3aX) | [LOGGERHEAD](https://open.spotify.com/album/346cEAiUJrCcj2ddihbTAV) | 3:40 |
 | 80 | [New Slang](https://open.spotify.com/track/1sRjSllwLDh0xHgZCywXmf) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [You Are a Runner and I Am My Father's Son](https://open.spotify.com/album/2LAC5rux87C29bv8vuhEgj) | 4:15 |
 
-Snapshot ID: `MTY3OTMxODA2MCwwMDAwMDAwMGViYTY3M2VjYzYzMWFiMzEyNDkzMTRlNGUzMGQzODE3`
+Snapshot ID: `MTY3OTMxODA2MCwwMDAwMDAwMDg5OTI3YjQwNzQ0ZjM1MmI3NGEwNzZkYjYyODU1ZTlj`

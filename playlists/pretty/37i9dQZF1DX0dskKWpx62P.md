@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 
 > ¡Con todo el sentimiento andino! Foto: William Luna
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,519 likes - 60 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,564 likes - 60 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 | 3 | [Niñachay](https://open.spotify.com/track/3kpTxzF6Uas4qZuX5ou4hD) | [William Luna](https://open.spotify.com/artist/0iw0Jy3qkvqcDpGJvIRFRw) | [Desde el estudio](https://open.spotify.com/album/3rLAWBembrdnSdDK8QaGRN) | 5:22 |
 | 4 | [Cajamarquina](https://open.spotify.com/track/5tOCsVNHO1rEtC7KaP2v3E) | [String Karma](https://open.spotify.com/artist/42VMxC4VzMu9akH0YIUexx) | [Olvidame](https://open.spotify.com/album/1TyZdWfNCLMUd1sikT13CZ) | 4:25 |
 | 5 | [Falso Juramento \(feat\. Mac Salvador\)](https://open.spotify.com/track/09ooFAZPkqMmXrON2wmdWk) | [Max Castro](https://open.spotify.com/artist/0yBAksfvttaIwTvj812Ytr), [Mac Salvador](https://open.spotify.com/artist/1qiPLYO5rrmTOtxSnYeqZX) | [Max Castro y la Gran Banda](https://open.spotify.com/album/3AKPMqREYYrNpkqXC5t8Tv) | 5:13 |
-| 6 | [Bella Mestiza](https://open.spotify.com/track/5NRAUbtk0aTVzhB2jxkN7h) | [Ángel Bedrillana](https://open.spotify.com/artist/6gTTDix3FA5TyyW4iEx9aR) | [Angel Bedrillana \(Mestizo\)](https://open.spotify.com/album/4BKlcQZgjkudPLXUayFHLG) | 3:57 |
+| 6 | [La Chismosa](https://open.spotify.com/track/7o5AxqP9cym90ZeEIqmS9i) | [Los Campesinos de Bambamarca](https://open.spotify.com/artist/5UmukQI0Wc2h7pHjF1tT9m) | [A..estilo propio y jaranero](https://open.spotify.com/album/27FrtbVRNzJw0yXBENTm8D) | 6:05 |
 | 7 | [Adiós Pueblo de Ayacucho](https://open.spotify.com/track/5SnatgsCSbX8tQ3WVX9Rhe) | [The Strings Of The Inkas](https://open.spotify.com/artist/5IvgHIvVVCT77omikIYE9O) | [Serie Maravillas: Cuerdas & Vientos Sagrados, Vol\. 1](https://open.spotify.com/album/0orBMvdv3crXTHj2DS4rAp) | 2:59 |
-| 8 | [La Chismosa](https://open.spotify.com/track/7o5AxqP9cym90ZeEIqmS9i) | [Los Campesinos de Bambamarca](https://open.spotify.com/artist/5UmukQI0Wc2h7pHjF1tT9m) | [A..estilo propio y jaranero](https://open.spotify.com/album/27FrtbVRNzJw0yXBENTm8D) | 6:05 |
+| 8 | [Bella Mestiza](https://open.spotify.com/track/5NRAUbtk0aTVzhB2jxkN7h) | [Ángel Bedrillana](https://open.spotify.com/artist/6gTTDix3FA5TyyW4iEx9aR) | [Angel Bedrillana \(Mestizo\)](https://open.spotify.com/album/4BKlcQZgjkudPLXUayFHLG) | 3:57 |
 | 9 | [No Quiero Más Esta Vida](https://open.spotify.com/track/7nMvYV2DHRy2FhtXmNsAl0) | [Yawar](https://open.spotify.com/artist/1uvxq0pWC1f55Yg9XmgLnW) | [De Colores](https://open.spotify.com/album/4qyO900qJRTiM3lPCeHg00) | 4:17 |
 | 10 | [Mentiras](https://open.spotify.com/track/43AppGONaZENtN60Ez9Vyv) | [Yarita Lizeth Yanarico](https://open.spotify.com/artist/1XyAr4Gr1SItyAVPiiAI7y) | [La Chinita del Amor](https://open.spotify.com/album/564dCSiWqoKbYuCWIUUyu5) | 5:53 |
 | 11 | [Olvidame](https://open.spotify.com/track/0vEBYwEwOYVq1tPqB2Qohf) | [String Karma](https://open.spotify.com/artist/42VMxC4VzMu9akH0YIUexx) | [Olvidame](https://open.spotify.com/album/1TyZdWfNCLMUd1sikT13CZ) | 4:30 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 | 28 | [Chapitas](https://open.spotify.com/track/1KAZ9CCzFCwlfs2VoLe3p4) | [Porfirio Ayvar](https://open.spotify.com/artist/1nu4Tbh3AzDwDMXIaEFRzx) | [Tusuyninchiq](https://open.spotify.com/album/6t3uN5N7F3qT1b5f6LfRlU) | 4:19 |
 | 29 | [Cerveza, Cerveza](https://open.spotify.com/track/5wtuD6qC9x6NK3tdH7Rh2Y) | [Wendy Sulca](https://open.spotify.com/artist/3LY2cnBt6jqLEdJco5NBE2) | [Papito por Qué Me Dejaste..!](https://open.spotify.com/album/0dmYa6GxBcTxBRJ5xZu7X1) | 4:34 |
 | 30 | [Llanto por Llanto](https://open.spotify.com/track/5H1GKJbNqttrG2mXCnMwWJ) | [Los Errantes](https://open.spotify.com/artist/3YObW3HRSRdnLAy5qVBowr) | [Los Errantes](https://open.spotify.com/album/6MBZ95LW4dmnyRsRvG7Nx3) | 2:41 |
-| 31 | [Huaylash Macho](https://open.spotify.com/track/2wIRGGoFZ43qlGKd5c0gnE) | [Eusebio "Chato" Grados](https://open.spotify.com/artist/6zgB4oxPALPaoxlCPkvj32) | [Huaylash Macho](https://open.spotify.com/album/5Z2unS845iqX49m9LokIxz) | 3:39 |
-| 32 | [Mi Linda Niña](https://open.spotify.com/track/0Pf4rmQmrIl6G0bbuszuwH) | [Mario Mendoza](https://open.spotify.com/artist/16wOUZsJRt4lH9cM9Js3VQ) | [Lo Mejor del Incomparable...Mario Mendoza](https://open.spotify.com/album/1fq9eMMW89xN3BxZvWgDuw) | 2:43 |
+| 31 | [Mi Linda Niña](https://open.spotify.com/track/0Pf4rmQmrIl6G0bbuszuwH) | [Mario Mendoza](https://open.spotify.com/artist/16wOUZsJRt4lH9cM9Js3VQ) | [Lo Mejor del Incomparable...Mario Mendoza](https://open.spotify.com/album/1fq9eMMW89xN3BxZvWgDuw) | 2:43 |
+| 32 | [Huaylash Macho](https://open.spotify.com/track/2wIRGGoFZ43qlGKd5c0gnE) | [Eusebio "Chato" Grados](https://open.spotify.com/artist/6zgB4oxPALPaoxlCPkvj32) | [Huaylash Macho](https://open.spotify.com/album/5Z2unS845iqX49m9LokIxz) | 3:39 |
 | 33 | [A los Filos de un Cuchillo](https://open.spotify.com/track/2NV98hFxTvHGnzFLDfmOXI) | [Pastorita Huaracina](https://open.spotify.com/artist/75Orb0PXE3VANhXihfdxsF) | [Pastorita Huaracina](https://open.spotify.com/album/7LrDqHp1qBGa16z2MqqThM) | 3:08 |
 | 34 | [Dónde Está tu Dinero](https://open.spotify.com/track/6i1F5QTSueIXqY0lkmkjEo) | [Alicia Delgado](https://open.spotify.com/artist/0rNV2u9J1LiJ2BRtN3oOtW) | [La princesa del Folklore](https://open.spotify.com/album/45hG14f1YCGyg1ezB97HlR) | 4:30 |
 | 35 | [Carrito del Gobierno](https://open.spotify.com/track/1Net8ueUaiGDbFvokcINq7) | [Jilguero Del Huascarán](https://open.spotify.com/artist/3ys2iBkiK7WY5yx248KIpx) | [Cantares Huaracinos](https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK) | 2:40 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 | 53 | [Amor Verdadero](https://open.spotify.com/track/1CMgLNMnmOzQc1pbaVwctV) | [Damaris](https://open.spotify.com/artist/2zcBBdC0mMH60MMglRpHod), [Raices de Jauja](https://open.spotify.com/artist/4GBwdePu8Ym2dbI6P72zi9) | [Tú Puedes Volar](https://open.spotify.com/album/6Mfa1vsbXf1sIRg4GMtpXw) | 4:10 |
 | 54 | [Amigo](https://open.spotify.com/track/1hX2Kv3f6X1fUJpMzuihgi) | [Edwin Montoya](https://open.spotify.com/artist/3owb5B5H82e72R5GJYSnwb) | [Mis Éxitos Eternos Vol\. 2](https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2) | 3:42 |
 | 55 | [Linda Warmisitay](https://open.spotify.com/track/2HkdxoctBhDs3XWeHmUUm4) | [Yawar](https://open.spotify.com/artist/1uvxq0pWC1f55Yg9XmgLnW) | [De Colores](https://open.spotify.com/album/4qyO900qJRTiM3lPCeHg00) | 4:14 |
-| 56 | [Carrito del Regreso](https://open.spotify.com/track/6E37bI48bQcPPJj20aNCOL) | [Ernesto Sanchez Fajardo](https://open.spotify.com/artist/3aPmMxqcg0JkCW3Em1SSzC) | [El Jilguero de Huascarán](https://open.spotify.com/album/5SS2SwafKqEmXuU5uuP0S5) | 2:41 |
-| 57 | [Sirwana](https://open.spotify.com/track/4QJ4AGqVMGrVCXtPBmzldQ) | [Los Apus](https://open.spotify.com/artist/0AFZV1o9URU4250NqeLuvf) | [El Imperio de los Apus](https://open.spotify.com/album/0rrBats1rpEHyynw5YETSH) | 3:59 |
-| 58 | [Donde Estarás Palomita](https://open.spotify.com/track/3M4eyS4qeq1GXUNAVdTGHN) | [Kiko Revatta](https://open.spotify.com/artist/13biTRIVK4wnKZ8KVvTgRa) | [Ayacucho En El Corazon De Todos Vol.2](https://open.spotify.com/album/5J36nWq3TbIe8S9zvQaERi) | 3:17 |
-| 59 | [Sihuarsito](https://open.spotify.com/track/1SE8uvi7ORh3Q9qFR91yWN) | [Los Puquiales](https://open.spotify.com/artist/56BGpfV7llrp7rvvseEaPn) | [Huayno, Vol\. 2](https://open.spotify.com/album/5ruEdZJIr4XPSlNvCrnrU4) | 2:47 |
+| 56 | [Sirwana](https://open.spotify.com/track/4QJ4AGqVMGrVCXtPBmzldQ) | [Los Apus](https://open.spotify.com/artist/0AFZV1o9URU4250NqeLuvf) | [El Imperio de los Apus](https://open.spotify.com/album/0rrBats1rpEHyynw5YETSH) | 3:59 |
+| 57 | [Carrito del Regreso](https://open.spotify.com/track/6E37bI48bQcPPJj20aNCOL) | [Ernesto Sanchez Fajardo](https://open.spotify.com/artist/3aPmMxqcg0JkCW3Em1SSzC) | [El Jilguero de Huascarán](https://open.spotify.com/album/5SS2SwafKqEmXuU5uuP0S5) | 2:41 |
+| 58 | [Sihuarsito](https://open.spotify.com/track/1SE8uvi7ORh3Q9qFR91yWN) | [Los Puquiales](https://open.spotify.com/artist/56BGpfV7llrp7rvvseEaPn) | [Huayno, Vol\. 2](https://open.spotify.com/album/5ruEdZJIr4XPSlNvCrnrU4) | 2:47 |
+| 59 | [Donde Estarás Palomita](https://open.spotify.com/track/3M4eyS4qeq1GXUNAVdTGHN) | [Kiko Revatta](https://open.spotify.com/artist/13biTRIVK4wnKZ8KVvTgRa) | [Ayacucho En El Corazon De Todos Vol.2](https://open.spotify.com/album/5J36nWq3TbIe8S9zvQaERi) | 3:17 |
 | 60 | [Chinita Ingrata](https://open.spotify.com/track/5Zg2sTf0f476qo0u9h0wOB) | [Los Pacharacos](https://open.spotify.com/artist/1zo4zNnsG4FZjK7OFqvDLW) | [Los Pacharacos](https://open.spotify.com/album/5r2IZe4Ce9ozJ1lcBU9iAZ) | 2:49 |
 
-Snapshot ID: `MTY0Mzk4NTk1NywwMDAwMDAwMDFjYjA4MDE3ZDM3N2Q0MmYxOTEzOGVkZWJmMzhlOTg3`
+Snapshot ID: `MTY0Mzk4NTk1NywwMDAwMDAwMDJlZGIzOTJkNDM2ODRkZWYyNjIxNWM3ZWE4ZDYyNzk5`

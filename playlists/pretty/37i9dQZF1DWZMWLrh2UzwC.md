@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Joe Flizzow
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,905 likes - 83 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,904 likes - 83 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

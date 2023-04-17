@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring NLE Choppa, Ice Spice, and more\. Cover: Yung Bleu
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,347 likes - 51 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,440 likes - 51 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 43 | [New Wave](https://open.spotify.com/track/2HYeSE78ngSfNUaQu0kyXn) | [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE) | [New Wave](https://open.spotify.com/album/3dEwqyQk6FG72QABZTQL4k) | 2:12 |
 | 44 | [aorta](https://open.spotify.com/track/7IBxi4jju9JTSE3s41904R) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [2MORE](https://open.spotify.com/album/78gh9A7ti6abCaTZiHK0rV) | 2:11 |
 | 45 | [Soul Fly](https://open.spotify.com/track/7sbUvvuYuWQwIYnMT9UpPw) | [YSN Fab](https://open.spotify.com/artist/4e7DLHD3L0VvT1ubv5oq0w) | [Soul Fly](https://open.spotify.com/album/4HPcuvxB5VmsNrSeEzQMQg) | 3:20 |
-| 46 | [I DID IT](https://open.spotify.com/track/6lfPULis2dxRaJXVi7CH1T) | [Domani](https://open.spotify.com/artist/0uFa64czAQ5cVJa3V0PfRq) | [I DID IT](https://open.spotify.com/album/28yZkmmqzUdWZWZy27mKTT) | 2:28 |
+| 46 | [I DID IT](https://open.spotify.com/track/6lfPULis2dxRaJXVi7CH1T) | [Domani](https://open.spotify.com/artist/0uFa64czAQ5cVJa3V0PfRq) | [I DID IT](https://open.spotify.com/album/28yZkmmqzUdWZWZy27mKTT) | 2:30 |
 | 47 | [TRACKHAWK](https://open.spotify.com/track/2Xxl6bNhnWSZB7IG9MiUC7) | [VV$ KEN](https://open.spotify.com/artist/2FelUywHDci70FpLOHGghU), [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH) | [TRACKHAWK](https://open.spotify.com/album/3rC1FeKw1vQxDSWR7lhwBS) | 3:56 |
 | 48 | [Almost Killed Me](https://open.spotify.com/track/6B0e2V1iqzhhEihJWtZIev) | [ShaqIsDope](https://open.spotify.com/artist/3Is1kGaN2jmS0hB1Hn6dp4) | [Almost Killed Me](https://open.spotify.com/album/1xrsHFd0en43PnV0vzE6Y1) | 4:13 |
 | 49 | [Nemzzz Type Beat](https://open.spotify.com/track/7plasP6SM6dCa9EXvFZeDE) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Nemzzz Type Beat](https://open.spotify.com/album/0ux2h3FIMbfbfdPDVuQRIZ) | 2:53 |

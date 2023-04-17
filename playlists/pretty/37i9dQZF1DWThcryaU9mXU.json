@@ -1,12 +1,12 @@
 {
   "description": "When you want to be alone and the Blues is your soundtrack.",
-  "num_followers": 38499,
+  "num_followers": 38578,
   "original_name": "Just Me and the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYxNjA2MCwwMDAwMDAwMDEyNTliOGNhYjk5MTQ3N2ExYTAzNzEyOWY2MTM1YmY2",
+  "snapshot_id": "MTY3OTYxNjA2MCwwMDAwMDAwMDRhM2FmNWFlOGM4ODZiODY4ODRmZDg5YTljM2JkODBk",
   "tracks": [
     {
       "added_at": "2023-03-24 00:01:00",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "His Best",
-        "url": "https://open.spotify.com/album/1ZpGSzyrRcrp6tn8IczHDU"
-      },
-      "artists": [
-        {
-          "name": "Bo Diddley",
-          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
-        }
-      ],
-      "duration_ms": 229200,
-      "name": "Ooh Baby",
-      "url": "https://open.spotify.com/track/3Caj3EuBDu2cpjpFNNTXLL"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "Real Gone",
         "url": "https://open.spotify.com/album/5Y3BKzJMHKfPlGb24weYXe"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 262869,
       "name": "Broken & Blue (feat. Joe Bonamassa)",
       "url": "https://open.spotify.com/track/6YhIOU8jVa14jqcyc6bCKf"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "His Best",
+        "url": "https://open.spotify.com/album/1ZpGSzyrRcrp6tn8IczHDU"
+      },
+      "artists": [
+        {
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+        }
+      ],
+      "duration_ms": 229200,
+      "name": "Ooh Baby",
+      "url": "https://open.spotify.com/track/3Caj3EuBDu2cpjpFNNTXLL"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
+        "name": "Jackie Sings The Blues",
+        "url": "https://open.spotify.com/album/0vNnjQQ3qUWyNI3H8tYMy4"
+      },
+      "artists": [
+        {
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+        }
+      ],
+      "duration_ms": 124786,
+      "name": "Please Tell Me Why",
+      "url": "https://open.spotify.com/track/4MiSIiIZQFOQFg9O0I9DCR"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
         "name": "Nothing But the Blues (Live)",
         "url": "https://open.spotify.com/album/5PGQW0n8n0JDxmpPkAgwIc"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 224840,
       "name": "I Shall Know Him",
       "url": "https://open.spotify.com/track/5sk8dIBrmEJc2YY4lW2LHT"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
-        "name": "Jackie Sings The Blues",
-        "url": "https://open.spotify.com/album/0vNnjQQ3qUWyNI3H8tYMy4"
-      },
-      "artists": [
-        {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
-        }
-      ],
-      "duration_ms": 124786,
-      "name": "Please Tell Me Why",
-      "url": "https://open.spotify.com/track/4MiSIiIZQFOQFg9O0I9DCR"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
+        "name": "Real Gone",
+        "url": "https://open.spotify.com/album/5Y3BKzJMHKfPlGb24weYXe"
+      },
+      "artists": [
+        {
+          "name": "Ally Venable",
+          "url": "https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM"
+        }
+      ],
+      "duration_ms": 219690,
+      "name": "Blues is My Best Friend",
+      "url": "https://open.spotify.com/track/1lEJz2TvlpeACrffMW33K0"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
         "name": "Best Of The Vanguard Years",
         "url": "https://open.spotify.com/album/50S1EIpm4XRJhZQEAzcMh3"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 288856,
       "name": "Love Is Gone",
       "url": "https://open.spotify.com/track/72H7XGrB55Uh7IOxlPD6u6"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
-        "name": "Real Gone",
-        "url": "https://open.spotify.com/album/5Y3BKzJMHKfPlGb24weYXe"
-      },
-      "artists": [
-        {
-          "name": "Ally Venable",
-          "url": "https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM"
-        }
-      ],
-      "duration_ms": 219690,
-      "name": "Blues is My Best Friend",
-      "url": "https://open.spotify.com/track/1lEJz2TvlpeACrffMW33K0"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "What do You Feel?",
-        "url": "https://open.spotify.com/album/1qXLUwieqcu4HQ9NTVSBQm"
+        "name": "Marshall Texas Is My Home",
+        "url": "https://open.spotify.com/album/0vKVTf2y0iDogf68a6ItHb"
       },
       "artists": [
         {
-          "name": "Renato Genestra",
-          "url": "https://open.spotify.com/artist/3FBOoPApjegYcmKgmULxs4"
+          "name": "Floyd Dixon",
+          "url": "https://open.spotify.com/artist/5UCUtfCh50agObTTt2ma1M"
         }
       ],
-      "duration_ms": 334000,
-      "name": "What do You Feel?",
-      "url": "https://open.spotify.com/track/7sjjPWYA3Y5vGEIBDJ5QVE"
+      "duration_ms": 184760,
+      "name": "Hard Living Alone",
+      "url": "https://open.spotify.com/track/0JwU0drRHEtI5H1lVJCDys"
     }
   ],
   "unique_name": "Just Me and the Blues",

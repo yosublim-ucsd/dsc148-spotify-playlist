@@ -4,13 +4,13 @@
 
 > ¡Al agua! Nosotros ponemos la música.
 
-531 songs - 1 day 4 hr 23 min
+532 songs - 1 day 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [+Linda](https://open.spotify.com/track/5cBrOhKDyiJF9bPGUHKkG0) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [+Linda](https://open.spotify.com/album/5ka8beHlVQAFdRm6IaZ9JQ) | 2:41 | 2022-06-03 | 2022-07-21 |
 | [1+1 \(feat\. Yandel & Sofía Reyes\) \- Banx & Ranx Remix](https://open.spotify.com/track/2en8KkmwWVRnAFlUueeDs0) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [1+1 \(feat\. Yandel & Sofía Reyes\) \[Banx & Ranx Remix\]](https://open.spotify.com/album/2ds7l2UKWHAj3nKX2Pfmdz) | 3:24 | 2022-06-03 | 2022-07-29 |
-| [12x3](https://open.spotify.com/track/0HINQFSerZ6iMfSsaTO3G5) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [12x3](https://open.spotify.com/album/2yTsZhJ86LtD1hvl8wSRPr) | 2:39 | 2022-06-03 |  |
+| [12x3](https://open.spotify.com/track/0HINQFSerZ6iMfSsaTO3G5) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [12x3](https://open.spotify.com/album/2yTsZhJ86LtD1hvl8wSRPr) | 2:39 | 2022-06-03 | 2023-04-17 |
 | [22](https://open.spotify.com/track/07L6tEZIfCX3GZAWCpGj0e) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [22](https://open.spotify.com/album/5NfpwctBSlT9eLTrYuC8Qq) | 2:39 | 2022-06-03 | 2022-07-27 |
 | [23 \(With Ape Drums\)](https://open.spotify.com/track/1G7vCwBCxeTe8fB0EGMDdq) | [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav), [Ape Drums](https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u) | [Romances](https://open.spotify.com/album/3jnnIq9TS7hOasZlEJsaFB) | 2:47 | 2022-06-03 | 2022-07-23 |
 | [2step \(feat\. Lil Baby\)](https://open.spotify.com/track/2UN0lp72LAusrXi8LLVomt) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [2step \(feat\. Lil Baby\)](https://open.spotify.com/album/6NPPPC6DxPvukxZcYVOBif) | 2:43 | 2022-07-26 | 2022-11-21 |
@@ -219,6 +219,7 @@
 | [Infinity](https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Feel Something](https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z) | 3:57 | 2022-07-26 |  |
 | [Inolvidable](https://open.spotify.com/track/0OTtnwUO8natNWSwdZvXVF) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Inolvidable](https://open.spotify.com/album/3MdsEVhC9AMtDTXB8n2yXI) | 3:45 | 2022-06-03 | 2022-06-19 |
 | [Instinto](https://open.spotify.com/track/7eQ1a5DgRxRnyrhNM7Kql5) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Instinto](https://open.spotify.com/album/5vHhyucp6G8yWLcfkQitzz) | 3:48 | 2022-06-17 | 2022-07-02 |
+| [Jagger.mp3](https://open.spotify.com/track/2iNmegOcdmt4peYrh9S8qI) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Jagger.mp3](https://open.spotify.com/album/6Ti9115Odt4vwKJTCdG5WN) | 2:35 | 2023-04-14 |  |
 | [Jamaica](https://open.spotify.com/track/4H7p2aGtZLMlZRKZxBlKN7) | [Kafu Banton](https://open.spotify.com/artist/5RLb16s3zfrdWdRF0l7xij), [Jorkan](https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm) | [Jamaica](https://open.spotify.com/album/5R64qUMmWl4LeKOAq6tDbg) | 3:08 | 2022-06-27 | 2022-07-26 |
 | [Jangueo](https://open.spotify.com/track/5m3jpKkgkfoMcym1qjToFg) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [LOST](https://open.spotify.com/album/0owN7Uk2MRirowjo9PQv14) | 4:19 | 2022-06-03 | 2022-07-28 |
 | [Jeans](https://open.spotify.com/track/3GtnId3Cm1Xa6joCj08nzW) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Jeans](https://open.spotify.com/album/2CihHxhe77TEB6YEWBRVru) | 3:05 | 2022-06-03 | 2022-06-30 |

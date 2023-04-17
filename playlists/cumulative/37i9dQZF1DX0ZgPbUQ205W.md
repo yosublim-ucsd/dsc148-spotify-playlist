@@ -4,7 +4,7 @@
 
 > Calm and soft sounds of Jazz to help you relax and unwind.
 
-291 songs - 21 hr 12 min
+292 songs - 21 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Lonely Dreams](https://open.spotify.com/track/06spmhyDpCb9aWQapTZcxY) | [Andy Luma Trio](https://open.spotify.com/artist/3vnHJt1VixhKHJ0b8IhwIy) | [Lonely Dreams](https://open.spotify.com/album/2PtgmOMUnMDAYLQhsfLck5) | 3:37 | 2022-11-17 |  |
 | [Lonely Shadows](https://open.spotify.com/track/25YYVgOIVdR862zVCSWr13) | [Dominik Wania](https://open.spotify.com/artist/25D7V3YvCGzcloWOrAIhJd) | [Lonely Shadows](https://open.spotify.com/album/2cHI5uX8xjQbAb5LpWAHU6) | 5:59 | 2021-12-17 | 2022-11-11 |
 | [Looking Forward](https://open.spotify.com/track/1ImSQqQnC1UmJaKtT3GfEp) | [Steve Luke & Holloway](https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY) | [Looking Forward](https://open.spotify.com/album/4SVRZswM92y7LDcGL8BqmH) | 3:11 | 2023-01-26 |  |
+| [Love on a Lonely Street](https://open.spotify.com/track/4Ol91F33J7jGfPjRubHbEk) | [The Ebbing Tides](https://open.spotify.com/artist/4WW6fT5v4jH5eHqCn9myM3) | [Love on a Lonely Street](https://open.spotify.com/album/0o7H8gUcxfOs6Ir1BCAyer) | 3:03 | 2023-04-14 |  |
 | [Love To Be Happy](https://open.spotify.com/track/3wMe1lySKxJeH9iMWXDqgx) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Love To Be Happy](https://open.spotify.com/album/4by10y5bBBZtlfRzUicL60) | 3:15 | 2022-11-11 |  |
 | [Lush Life](https://open.spotify.com/track/7xuOv4oO4lghAaoS27dIEx) | [Tiril Brandt](https://open.spotify.com/artist/1Vor0rs0uaRKRuimiXWd92) | [Lush Life](https://open.spotify.com/album/0gTwalJJCInwDoCqDyF8JR) | 4:02 | 2022-11-11 |  |
 | [Lyskaster](https://open.spotify.com/track/3Ex9d18dywAHyaRvq3hWK3) | [Jakob Bro](https://open.spotify.com/artist/6slrkfC61k7yWM5Hl5USES), [Thomas Morgan](https://open.spotify.com/artist/6txzCcsy6ZKKKQLHmE3Y9L), [Jon Christensen](https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr) | [Gefion](https://open.spotify.com/album/7oBGBUeoPT402ls5ANCQdT) | 4:14 | 2022-06-29 | 2022-11-11 |
@@ -227,7 +228,7 @@
 | [Space Wales](https://open.spotify.com/track/75xI0ZJzkULqWgDlSMOxmG) | [Petter Rylén](https://open.spotify.com/artist/6NEDpDwNHfds11P15WZu7c) | [Space Wales](https://open.spotify.com/album/4DhBbkOPIrXBILOiz9irUB) | 4:24 | 2021-12-17 | 2022-09-09 |
 | [Steps from the Nightingale](https://open.spotify.com/track/7fyUkkPxqX09GgpTBDR22Z) | [James Leeluck](https://open.spotify.com/artist/4ny5CQ4SQz5jW9YKbXJ3sZ) | [Steps from the Nightingale](https://open.spotify.com/album/1ItL7EmWFogCnKiXFZQbmA) | 2:34 | 2022-12-01 |  |
 | [Still](https://open.spotify.com/track/2s499EvGIk8gVUGLCyftFX) | [Reed Stricklers](https://open.spotify.com/artist/3YymwcoMkoY21jce0PLBaC) | [Still](https://open.spotify.com/album/48i2I8qyuyoqMahX05LWkq) | 2:31 | 2023-01-05 |  |
-| [Stream](https://open.spotify.com/track/4fSd7w77XMrJhz1C5VOscJ) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [Opening](https://open.spotify.com/album/5i1LH4nSX9Vwm3C037k4Q7) | 7:03 | 2022-09-15 |  |
+| [Stream](https://open.spotify.com/track/4fSd7w77XMrJhz1C5VOscJ) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [Opening](https://open.spotify.com/album/5i1LH4nSX9Vwm3C037k4Q7) | 7:03 | 2022-09-15 | 2023-04-17 |
 | [Strong](https://open.spotify.com/track/0iJhPjzqVlPsvmzwT8PRtF) | [Marco Locurcio](https://open.spotify.com/artist/2RACMOQxnNns6xRkyhmrY4) | [Strong](https://open.spotify.com/album/49ZdyLXkMzzRE01tsrM61s) | 4:23 | 2022-02-24 |  |
 | [Surrender](https://open.spotify.com/track/7lyyZLvFmPSVNXOcAlyNOa) | [Eivind Aarset](https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC), [Jan Bang](https://open.spotify.com/artist/3GNzfnhVE1aY6fgK403107) | [Dream Logic](https://open.spotify.com/album/1RfjUvp5cxnQwYw2X8WEEr) | 4:21 | 2021-12-17 | 2023-02-18 |
 | [Sweet Earth](https://open.spotify.com/track/74zEQOrvwBXDY2omVJrjTL) | [Skúli Sverrisson](https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh), [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Strata](https://open.spotify.com/album/2xaTBvbW8pWwaGEao3Ajt4) | 2:26 | 2022-05-25 | 2023-03-14 |

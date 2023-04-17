@@ -4,13 +4,14 @@
 
 > Metallica on top of the biggest Metal playlist.
 
-414 songs - 1 day 3 hr 43 min
+416 songs - 1 day 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [112](https://open.spotify.com/track/6Ef5D1XQrboIMC4UY9jptf) | [Lost Society](https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN) | [112](https://open.spotify.com/album/0aq677QTRSYPj3sbsDGjKv) | 3:49 | 2022-05-20 | 2022-06-24 |
 | [1984](https://open.spotify.com/track/7LG0FEpKoKvHCv1S6FUrBY) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [1984](https://open.spotify.com/album/5RYY90zPEcG3XxZhueE6Y3) | 3:35 | 2022-11-18 | 2023-02-04 |
-| [72 Seasons](https://open.spotify.com/track/6txhb14PWs9yrkTgR2jnU4) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/5vFa10TvQUWpEv9OkVBatc) | 7:39 | 2023-03-31 |  |
+| [72 Seasons](https://open.spotify.com/track/4poeu6nUr4UQo1RXpp29Js) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 7:39 | 2023-04-14 |  |
+| [72 Seasons](https://open.spotify.com/track/6txhb14PWs9yrkTgR2jnU4) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/5vFa10TvQUWpEv9OkVBatc) | 7:39 | 2023-03-31 | 2023-04-17 |
 | [A Devil More Damned](https://open.spotify.com/track/4ZFfOL1iR8ZIgNdxur569O) | [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v) | [A Devil More Damned / Choke / Mind Right](https://open.spotify.com/album/3VpuG1Z9YmhjOBK77CMdro) | 4:54 | 2022-09-30 | 2022-11-26 |
 | [a new moral low ground](https://open.spotify.com/track/2XNJNwSOq8tLWhQ5a9sGBb) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 3:31 | 2022-11-04 |  |
 | [A Shot in the Dark](https://open.spotify.com/track/0vWaCnMA1j2u5OE5eOVb2N) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [A Shot in the Dark](https://open.spotify.com/album/7dcfDgnDbBf6BVtrltPw9u) | 3:12 | 2022-04-08 | 2022-05-20 |
@@ -176,7 +177,8 @@
 | [I Am Damnation](https://open.spotify.com/track/17ExHVQYfJBlTSnbidz0LQ) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [I Am Damnation](https://open.spotify.com/album/4CegSYvQSSoiMLhO0AHEDa) | 4:46 | 2021-12-20 | 2022-04-15 |
 | [I Run With Wolves](https://open.spotify.com/track/7oNOP1xca406nustARPRru) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL) | [I Run With Wolves](https://open.spotify.com/album/4lJsPWd2NLv14P4AhDZkmo) | 3:21 | 2021-12-20 | 2022-01-14 |
 | [I See Dead People](https://open.spotify.com/track/3UgZA53hNSPbwtNJ7x8Bd9) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK), [Louie Knuxx](https://open.spotify.com/artist/2SQXiX0AGHf3Aw43or85KX) | [I See Dead People](https://open.spotify.com/album/3R8VofbgLwq9q48eueOCqC) | 3:36 | 2023-02-17 |  |
-| [If Darkness Had a Son](https://open.spotify.com/track/69HjtjyHuP8KJT7xBaUmtW) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [If Darkness Had a Son](https://open.spotify.com/album/07wqwU4JaQl7XTWwfiAobb) | 6:36 | 2023-03-03 |  |
+| [If Darkness Had a Son](https://open.spotify.com/track/3i4Nwzze8zflIoKsuoeBPM) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 6:36 | 2023-04-14 |  |
+| [If Darkness Had a Son](https://open.spotify.com/track/69HjtjyHuP8KJT7xBaUmtW) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [If Darkness Had a Son](https://open.spotify.com/album/07wqwU4JaQl7XTWwfiAobb) | 6:36 | 2023-03-03 | 2023-04-17 |
 | [If Tomorrow Never Comes](https://open.spotify.com/track/0OzYhueF403FBct7orzGEg) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Dear Monsters](https://open.spotify.com/album/4yXFKYXTfZ92kX1ucyIh1o) | 3:08 | 2021-12-20 | 2022-03-11 |
 | [If Tomorrow Never Comes \(Feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/track/5MgL0ccriqgDP1Gq3pwNNO) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [If Tomorrow Never Comes \(Feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/album/3la7NF2COfg90BdTY7HGtS) | 3:09 | 2022-03-18 | 2022-06-17 |
 | [Imaginary Fire \- feat\. Greg Puciato](https://open.spotify.com/track/1bqXa1m255ElnYj14xvzll) | [Carpenter Brut](https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP), [Greg Puciato](https://open.spotify.com/artist/3seAlZdPsUKKveZltRG7wi) | [Imaginary Fire](https://open.spotify.com/album/0ZpAiTmi2EpqUqKYlWkfAx) | 4:21 | 2022-03-24 | 2022-06-24 |

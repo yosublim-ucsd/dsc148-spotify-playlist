@@ -1,12 +1,12 @@
 {
   "description": "O batid\u00e3o dos funks mais bombados pra agitar a pista do seu baile!",
-  "num_followers": 1004278,
+  "num_followers": 1004300,
   "original_name": "Segue o Baile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzI1NTE4MiwwMDAwMDAwMDg4YjBiZTNiYTRmYWIwOWE5YWNhMWFhM2IyNmE4YmRm",
+  "snapshot_id": "MTY3NzI1NTE4MiwwMDAwMDAwMDFiMzYzOGRjMWNhODE3NTY4NTFmMzAzNTA3NTdjYmZl",
   "tracks": [
     {
       "added_at": "2023-02-24 16:13:02",
@@ -879,26 +879,6 @@
     {
       "added_at": "2023-02-24 16:13:02",
       "album": {
-        "name": "Cheia de Marra",
-        "url": "https://open.spotify.com/album/4GEYyoMWwYRKeEUU6x6ZS4"
-      },
-      "artists": [
-        {
-          "name": "Mc Livinho",
-          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
-        },
-        {
-          "name": "Perera DJ",
-          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
-        }
-      ],
-      "duration_ms": 267049,
-      "name": "Cheia de Marra",
-      "url": "https://open.spotify.com/track/4k1IrLxPtGF2qdSSFV5Ghw"
-    },
-    {
-      "added_at": "2023-02-24 16:13:02",
-      "album": {
         "name": "Medley da Gaiola (DENNIS Remix)",
         "url": "https://open.spotify.com/album/4w2mFsi8WKeGFklMhyipnb"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 239999,
       "name": "Medley da Gaiola - DENNIS Remix",
       "url": "https://open.spotify.com/track/7rLegaz7zKB6EtDNzcslKE"
+    },
+    {
+      "added_at": "2023-02-24 16:13:02",
+      "album": {
+        "name": "Cheia de Marra",
+        "url": "https://open.spotify.com/album/4GEYyoMWwYRKeEUU6x6ZS4"
+      },
+      "artists": [
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        },
+        {
+          "name": "Perera DJ",
+          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
+        }
+      ],
+      "duration_ms": 267049,
+      "name": "Cheia de Marra",
+      "url": "https://open.spotify.com/track/4k1IrLxPtGF2qdSSFV5Ghw"
     },
     {
       "added_at": "2023-02-24 16:13:02",
@@ -1039,6 +1039,26 @@
     {
       "added_at": "2023-02-24 16:13:02",
       "album": {
+        "name": "Azul Piscina",
+        "url": "https://open.spotify.com/album/3kMegJnLY4Ywh6Dw1NvHBF"
+      },
+      "artists": [
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        },
+        {
+          "name": "Perera DJ",
+          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
+        }
+      ],
+      "duration_ms": 214153,
+      "name": "Azul Piscina",
+      "url": "https://open.spotify.com/track/01t5aRQQqY5R95Ptlwi2jm"
+    },
+    {
+      "added_at": "2023-02-24 16:13:02",
+      "album": {
         "name": "\u00c9 sempre assim",
         "url": "https://open.spotify.com/album/0rhRbPFgLhjibgPhUHYQU3"
       },
@@ -1079,26 +1099,6 @@
     {
       "added_at": "2023-02-24 16:13:02",
       "album": {
-        "name": "Azul Piscina",
-        "url": "https://open.spotify.com/album/3kMegJnLY4Ywh6Dw1NvHBF"
-      },
-      "artists": [
-        {
-          "name": "Mc Livinho",
-          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
-        },
-        {
-          "name": "Perera DJ",
-          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
-        }
-      ],
-      "duration_ms": 214153,
-      "name": "Azul Piscina",
-      "url": "https://open.spotify.com/track/01t5aRQQqY5R95Ptlwi2jm"
-    },
-    {
-      "added_at": "2023-02-24 16:13:02",
-      "album": {
         "name": "Agora Vai Sentar",
         "url": "https://open.spotify.com/album/39HSKuqaxE7NH3ZeJoKqdh"
       },
@@ -1131,6 +1131,26 @@
     {
       "added_at": "2023-02-24 16:13:02",
       "album": {
+        "name": "Chama Ela (feat. Pedro Sampaio)",
+        "url": "https://open.spotify.com/album/5st5iXtyMBDo6OLBUBqSpW"
+      },
+      "artists": [
+        {
+          "name": "Lexa",
+          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
+        },
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        }
+      ],
+      "duration_ms": 120200,
+      "name": "Chama Ela (feat. Pedro Sampaio)",
+      "url": "https://open.spotify.com/track/14kRWkCWBYfQqILflEcpSJ"
+    },
+    {
+      "added_at": "2023-02-24 16:13:02",
+      "album": {
         "name": "Trof\u00e9u do Ano",
         "url": "https://open.spotify.com/album/3BQgCMCYcRf9t3V2nfBWgw"
       },
@@ -1151,26 +1171,6 @@
       "duration_ms": 189103,
       "name": "Trof\u00e9u do Ano",
       "url": "https://open.spotify.com/track/4MdifWtRdG2iHCMSzbA7nA"
-    },
-    {
-      "added_at": "2023-02-24 16:13:02",
-      "album": {
-        "name": "Chama Ela (feat. Pedro Sampaio)",
-        "url": "https://open.spotify.com/album/5st5iXtyMBDo6OLBUBqSpW"
-      },
-      "artists": [
-        {
-          "name": "Lexa",
-          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
-        },
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        }
-      ],
-      "duration_ms": 120200,
-      "name": "Chama Ela (feat. Pedro Sampaio)",
-      "url": "https://open.spotify.com/track/14kRWkCWBYfQqILflEcpSJ"
     },
     {
       "added_at": "2023-02-24 16:13:02",
@@ -1303,6 +1303,26 @@
     {
       "added_at": "2023-02-24 16:13:02",
       "album": {
+        "name": "Sapequinha",
+        "url": "https://open.spotify.com/album/0flHUcoTFiyujvz0JpfBja"
+      },
+      "artists": [
+        {
+          "name": "Lexa",
+          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
+        },
+        {
+          "name": "MC Lan",
+          "url": "https://open.spotify.com/artist/4mb1xtQVGSK5dh8AbtwBiR"
+        }
+      ],
+      "duration_ms": 134106,
+      "name": "Sapequinha",
+      "url": "https://open.spotify.com/track/7LPR6AdkOQR9WpEixCGNCk"
+    },
+    {
+      "added_at": "2023-02-24 16:13:02",
+      "album": {
         "name": "FICA \u00c0 VONTADE",
         "url": "https://open.spotify.com/album/0m912C2hGRDD6GlpHqN3VY"
       },
@@ -1359,26 +1379,6 @@
       "duration_ms": 155713,
       "name": "BALAN\u00c7A A GLOCK",
       "url": "https://open.spotify.com/track/4PUjVQcrNhH85XXyXnnjBd"
-    },
-    {
-      "added_at": "2023-02-24 16:13:02",
-      "album": {
-        "name": "Sapequinha",
-        "url": "https://open.spotify.com/album/0flHUcoTFiyujvz0JpfBja"
-      },
-      "artists": [
-        {
-          "name": "Lexa",
-          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
-        },
-        {
-          "name": "MC Lan",
-          "url": "https://open.spotify.com/artist/4mb1xtQVGSK5dh8AbtwBiR"
-        }
-      ],
-      "duration_ms": 134106,
-      "name": "Sapequinha",
-      "url": "https://open.spotify.com/track/7LPR6AdkOQR9WpEixCGNCk"
     },
     {
       "added_at": "2023-02-24 16:13:02",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2023-02-24 16:13:02",
       "album": {
-        "name": "LEXA",
-        "url": "https://open.spotify.com/album/52SWY8s4RmmSB0YnXZUSMi"
-      },
-      "artists": [
-        {
-          "name": "Lexa",
-          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 140800,
-      "name": "Quebrar Seu Cora\u00e7\u00e3o (feat. Lu\u00edsa Sonza)",
-      "url": "https://open.spotify.com/track/3K9ruAxOYy8PDRHz85He2T"
-    },
-    {
-      "added_at": "2023-02-24 16:13:02",
-      "album": {
         "name": "Resenha l\u00e1 em casa",
         "url": "https://open.spotify.com/album/3woJd4AFogSyxqK3wkzPk2"
       },
@@ -1507,6 +1487,26 @@
       "duration_ms": 236852,
       "name": "Resenha l\u00e1 em casa",
       "url": "https://open.spotify.com/track/3NnW2EqJxvHYrRy3upaznl"
+    },
+    {
+      "added_at": "2023-02-24 16:13:02",
+      "album": {
+        "name": "LEXA",
+        "url": "https://open.spotify.com/album/52SWY8s4RmmSB0YnXZUSMi"
+      },
+      "artists": [
+        {
+          "name": "Lexa",
+          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 140800,
+      "name": "Quebrar Seu Cora\u00e7\u00e3o (feat. Lu\u00edsa Sonza)",
+      "url": "https://open.spotify.com/track/3K9ruAxOYy8PDRHz85He2T"
     },
     {
       "added_at": "2023-02-24 16:13:02",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-02-24 16:13:02",
       "album": {
-        "name": "Finalidade Era Ficar em Casa",
-        "url": "https://open.spotify.com/album/2Fm7ad2tXYu5LHKePgBLcP"
-      },
-      "artists": [
-        {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-        }
-      ],
-      "duration_ms": 185652,
-      "name": "Finalidade Era Ficar em Casa",
-      "url": "https://open.spotify.com/track/2Y73798F4zbbbvKT02fbtE"
-    },
-    {
-      "added_at": "2023-02-24 16:13:02",
-      "album": {
         "name": "Solta a batida",
         "url": "https://open.spotify.com/album/37ENHzff2cXEOqVbJ4WjY4"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 169811,
       "name": "Solta a batida",
       "url": "https://open.spotify.com/track/4yjljBusKH0hgsIzHlF85T"
+    },
+    {
+      "added_at": "2023-02-24 16:13:02",
+      "album": {
+        "name": "Finalidade Era Ficar em Casa",
+        "url": "https://open.spotify.com/album/2Fm7ad2tXYu5LHKePgBLcP"
+      },
+      "artists": [
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        }
+      ],
+      "duration_ms": 185652,
+      "name": "Finalidade Era Ficar em Casa",
+      "url": "https://open.spotify.com/track/2Y73798F4zbbbvKT02fbtE"
     },
     {
       "added_at": "2023-02-24 16:13:02",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2023-02-24 16:13:02",
       "album": {
-        "name": "Aquecimento Solta o Ponto (Brega Funk)",
-        "url": "https://open.spotify.com/album/7vHUPX3oH9ndrD1hJusPw8"
-      },
-      "artists": [
-        {
-          "name": "Dj Cabide",
-          "url": "https://open.spotify.com/artist/6liy2XyeKhIfj6dfSG1gCu"
-        }
-      ],
-      "duration_ms": 123928,
-      "name": "Aquecimento Solta o Ponto (Brega Funk)",
-      "url": "https://open.spotify.com/track/3LrEJsgBhQ8uRpAzbxDyOw"
-    },
-    {
-      "added_at": "2023-02-24 16:13:02",
-      "album": {
         "name": "N\u00e3o encosta",
         "url": "https://open.spotify.com/album/0FVXKp0wuQJikYk6qg1cW3"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 144039,
       "name": "N\u00e3o encosta",
       "url": "https://open.spotify.com/track/3TLik0AUo5Ri65DFrEivd4"
+    },
+    {
+      "added_at": "2023-02-24 16:13:02",
+      "album": {
+        "name": "Aquecimento Solta o Ponto (Brega Funk)",
+        "url": "https://open.spotify.com/album/7vHUPX3oH9ndrD1hJusPw8"
+      },
+      "artists": [
+        {
+          "name": "Dj Cabide",
+          "url": "https://open.spotify.com/artist/6liy2XyeKhIfj6dfSG1gCu"
+        }
+      ],
+      "duration_ms": 123928,
+      "name": "Aquecimento Solta o Ponto (Brega Funk)",
+      "url": "https://open.spotify.com/track/3LrEJsgBhQ8uRpAzbxDyOw"
     },
     {
       "added_at": "2023-02-24 16:13:02",

@@ -4,7 +4,7 @@
 
 > Background scores to help you sail through the day
 
-74 songs - 3 hr 35 min
+75 songs - 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Dor Theme](https://open.spotify.com/track/1kP6s97MzaVY6Vs6WQl48u) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq) | [Dor \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/23j7YAe0CCu2R2fxFyc31M) | 1:49 | 2022-05-04 | 2022-07-29 |
 | [Dor Theme](https://open.spotify.com/track/30Jjz3R2fgSsT6X5ne9ogr) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq) | [Dor \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4nQuXmaVhy6FQLYyqmpxic) | 1:49 | 2022-07-08 | 2022-08-01 |
 | [Farewell Trance \- Instrumental](https://open.spotify.com/track/6NjZp0gQNFI3mytJINKFwE) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Shweta Pandit](https://open.spotify.com/artist/4L0JycQCCwKksT3G5SVApu), [Caralisa Monteiro](https://open.spotify.com/artist/2Yf4MRVpt0rcAd5y5h5ph1) | [Kabhi Alvida Naa Kehna \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4hYTERVUXY74XJdm8tyXBV) | 5:47 | 2022-05-04 | 2022-07-27 |
-| [Hanuman Theme](https://open.spotify.com/track/6J4UQsBAj04eKLRdR480bZ) | [Swapnil Bandodkar](https://open.spotify.com/artist/5yHnIri2Bj5Ysuaki6VOVy) | [Hanuman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3YJ4ybOBMtxPyhdy8Q9al1) | 3:03 | 2022-07-08 |  |
+| [Hanuman Theme](https://open.spotify.com/track/6J4UQsBAj04eKLRdR480bZ) | [Swapnil Bandodkar](https://open.spotify.com/artist/5yHnIri2Bj5Ysuaki6VOVy) | [Hanuman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3YJ4ybOBMtxPyhdy8Q9al1) | 3:03 | 2022-07-08 | 2023-04-17 |
 | [Hanuman Theme](https://open.spotify.com/track/3nCtX2vQR0ZQQ8mfnbQZ8n) | [Swapnil Bandodkar](https://open.spotify.com/artist/5yHnIri2Bj5Ysuaki6VOVy) | [Hanuman](https://open.spotify.com/album/0kee4xS02XNY2pQIke9EDr) | 3:03 | 2022-05-04 | 2022-07-29 |
 | [Heartbeat \- Instrumental](https://open.spotify.com/track/3n7qJSOyVke4JagcJ8FiSG) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ) | [Kal Ho Naa Ho \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6H71erprmvRxnWs3XqC8uE) | 4:23 | 2022-05-04 |  |
 | [I'm On \(Theme\)](https://open.spotify.com/track/53smqbWww0YmOlRyRjZT1h) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb) | [Ra\-One](https://open.spotify.com/album/5x2eTJrbEvmOTEcWWWubLy) | 1:21 | 2022-05-04 |  |
@@ -51,6 +51,7 @@
 | [Munna’S Love](https://open.spotify.com/track/1XotHNg5Tnpcyq1R2nJ7Na) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Dhobi Ghat](https://open.spotify.com/album/2gIiVoEdG9Gy5dIqH5opQE) | 2:25 | 2022-05-04 |  |
 | [Non\-Veg Melody](https://open.spotify.com/track/40y0JSUWt2BWw78ohC57T0) | [Instrumental](https://open.spotify.com/artist/0wMmGaXRfdHPhqSEAVQIr6) | [Cheeni Kum](https://open.spotify.com/album/1GdS4AlrlBPtROdVwg3Fl6) | 2:46 | 2022-05-04 | 2022-08-26 |
 | [Om Shanti Om \(Instrumental\)](https://open.spotify.com/track/4kqUlN3craCx3ZIBIfhp2X) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb) | [Om Shanti Om](https://open.spotify.com/album/2cUzlmLfL5LUTSEk7qG09k) | 0:56 | 2022-05-04 |  |
+| [Pathaan x Tiger Theme](https://open.spotify.com/track/4z1jSTY07dyKEdAJEulD8D) | [Sanchit Balhara](https://open.spotify.com/artist/0LOdQDBSB8NYPykI3REezj), [Ankit Balhara](https://open.spotify.com/artist/2FtpR8FWlo2HsessGvWxRg), [Julius Packiam](https://open.spotify.com/artist/37dW5exIcXrrHEMmiItJas), [Riya Duggal](https://open.spotify.com/artist/5goNlHuuRk93uDY86KcLET) | [Pathaan x Tiger Theme](https://open.spotify.com/album/464iqgO24r33iqRwYgMRj6) | 2:35 | 2023-04-16 |  |
 | [Pathaan’s Theme](https://open.spotify.com/track/7l00c4RIiRh9MngY4Mt6jG) | [Sanchit Balhara](https://open.spotify.com/artist/0LOdQDBSB8NYPykI3REezj), [Ankit Balhara](https://open.spotify.com/artist/2FtpR8FWlo2HsessGvWxRg), [Magdalena Supel](https://open.spotify.com/artist/5n0sgDuAJmQiacddjwwG5d), [Kit Bee](https://open.spotify.com/artist/0V3THFCdrDqATp2dnLAQF7) | [Pathaan](https://open.spotify.com/album/2ooWY7xriwwyj23dAI32C2) | 2:37 | 2023-01-06 |  |
 | [Perpendicular \(Theme\)](https://open.spotify.com/track/4dnBoWcH0c5BzaIXssStBi) | [Sneha Khanwalkar](https://open.spotify.com/artist/3JtetEsoytPoOIPGvqUvSR) | [Gangs Of Wasseypur \- 2](https://open.spotify.com/album/7DBbDXQbei6e4X6EdXOyz2) | 1:53 | 2022-05-04 |  |
 | [Rangoon Theme](https://open.spotify.com/track/3PkLK8b0tRTIgggmM1vwib) | [Vishal Bhardwaj](https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc) | [Rangoon](https://open.spotify.com/album/2fcB0MfveJSfjhDG4UjfxQ) | 1:31 | 2022-05-04 |  |

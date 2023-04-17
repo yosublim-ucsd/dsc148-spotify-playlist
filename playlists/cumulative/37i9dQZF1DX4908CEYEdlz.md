@@ -4,13 +4,14 @@
 
 > Aumente o volume e ouça as bandas que estão com tudo no rock! Foto: Fall Out Boy
 
-225 songs - 13 hr 39 min
+227 songs - 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Not\) Enough](https://open.spotify.com/track/65jOD2RMAErYoB1rGUOoLz) | [Fight The Fade](https://open.spotify.com/artist/5byg90wTxATnhB6kK253DF) | [APOPHYSITIS](https://open.spotify.com/album/4n1Y8Djpo0xnuhuPWcKYbR) | 4:22 | 2022-12-30 |  |
 | [1x1 \(feat\. Nova Twins\)](https://open.spotify.com/track/6sIbv1oWOuma2qV907MUbk) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [POST HUMAN: SURVIVAL HORROR](https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4) | 3:29 | 2022-01-14 | 2022-12-03 |
-| [72 Seasons](https://open.spotify.com/track/6txhb14PWs9yrkTgR2jnU4) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/5vFa10TvQUWpEv9OkVBatc) | 7:39 | 2023-04-07 |  |
+| [72 Seasons](https://open.spotify.com/track/4poeu6nUr4UQo1RXpp29Js) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 7:39 | 2023-04-14 |  |
+| [72 Seasons](https://open.spotify.com/track/6txhb14PWs9yrkTgR2jnU4) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/5vFa10TvQUWpEv9OkVBatc) | 7:39 | 2023-04-07 | 2023-04-17 |
 | [A Beautiful Life](https://open.spotify.com/track/4lcQ64FgH8aBhBfx19jlA4) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [Gifts From The Holy Ghost](https://open.spotify.com/album/4kfE0W36et9sZgbRHNjHdl) | 3:35 | 2022-04-22 | 2023-03-25 |
 | [Abuse Me \(ft\. L'exquisite Douleur\)](https://open.spotify.com/track/7kgppSWLikBRTcyuCs1hfC) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38), [L'exquisite Douleur](https://open.spotify.com/artist/2wNYw9h0N78tk6nR0F0aQ4) | [Abuse Me \(ft\. L'exquisite Douleur\)](https://open.spotify.com/album/0Jbwtz6ss80zTuTwgQsVgH) | 3:08 | 2022-04-29 | 2022-05-20 |
 | [Actions Speak Louder Than Words \(feat\. Myles Kennedy and The Conspirators\)](https://open.spotify.com/track/3pg8FGqUihrwtsPxmBf8NJ) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Myles Kennedy And The Conspirators](https://open.spotify.com/artist/1J0FSEQhWSMHcYqaapIjY6) | [4 \(feat\. Myles Kennedy and The Conspirators\)](https://open.spotify.com/album/5hEFdC1iEWOjgQgiRqdtXQ) | 4:01 | 2022-02-11 | 2023-02-25 |
@@ -165,7 +166,8 @@
 | [Rotoscope](https://open.spotify.com/track/3TV6XEPjXQhbSneiEXRNEr) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Rotoscope](https://open.spotify.com/album/0twOWaleSiQaUUSTFegpds) | 3:35 | 2022-06-24 | 2022-08-13 |
 | [Salvation](https://open.spotify.com/track/54VRGCpS5jUI4PXa5jAZFL) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Salvation](https://open.spotify.com/album/0Zjqgl37E3nYM9No5UA1Zm) | 3:35 | 2023-03-31 |  |
 | [San Quentin](https://open.spotify.com/track/0nErfLIYBOb0DHE2jqAe6k) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [San Quentin](https://open.spotify.com/album/2oEamuLTW9IlUiDrZLAPMZ) | 3:31 | 2022-09-09 | 2022-10-08 |
-| [Screaming Suicide](https://open.spotify.com/track/6ZCh9hBeFzMIPycRnyPqZT) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Screaming Suicide](https://open.spotify.com/album/5RuyqGjhakCG2teiB6VkaC) | 5:30 | 2023-01-20 |  |
+| [Screaming Suicide](https://open.spotify.com/track/2zSb2Db4kNYH5qIs5V3BgG) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 5:30 | 2023-04-14 |  |
+| [Screaming Suicide](https://open.spotify.com/track/6ZCh9hBeFzMIPycRnyPqZT) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Screaming Suicide](https://open.spotify.com/album/5RuyqGjhakCG2teiB6VkaC) | 5:30 | 2023-01-20 | 2023-04-17 |
 | [Sex Magik](https://open.spotify.com/track/5QUfvTWB3lufXitDEbrcT7) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Sex Magik](https://open.spotify.com/album/1YiU1FtGcLU67uw0yI3MMU) | 3:26 | 2022-02-25 | 2022-04-02 |
 | [Slow Me](https://open.spotify.com/track/5ZtIuVEKcvfjHeYgit0xDa) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [The Art Of Survival](https://open.spotify.com/album/7lDTe11so67WdsLFd25dwi) | 3:48 | 2022-10-07 |  |
 | [Sol](https://open.spotify.com/track/3Svbk7PnKp2hKqViRCti7S) | [Oceans Ate Alaska](https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ) | [Disparity](https://open.spotify.com/album/2aI7O7ukQBWxfMimo9pUo8) | 3:21 | 2022-09-02 | 2022-09-10 |

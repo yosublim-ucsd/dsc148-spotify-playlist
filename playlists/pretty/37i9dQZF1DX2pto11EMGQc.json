@@ -1,12 +1,12 @@
 {
   "description": "Here's to the groom! Enjoy your day with the boys!",
-  "num_followers": 93302,
+  "num_followers": 93313,
   "original_name": "Bachelor Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDAwNTMwOSwwMDAwMDAwMGM0MTg2N2M3MTRhOTZhODk2MDExNjE3NThjNjNmMDkw",
+  "snapshot_id": "MTY3MDAwNTMwOSwwMDAwMDAwMDk2MDhjOTQ2ZDNlMGQzOGZkMGJkMDE0MTk5MGMyNGQ5",
   "tracks": [
     {
       "added_at": "2022-05-11 15:37:27",
@@ -279,6 +279,22 @@
     {
       "added_at": "2022-05-11 15:37:27",
       "album": {
+        "name": "Oh, What A Life",
+        "url": "https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv"
+      },
+      "artists": [
+        {
+          "name": "American Authors",
+          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+        }
+      ],
+      "duration_ms": 194240,
+      "name": "Best Day Of My Life",
+      "url": "https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP"
+    },
+    {
+      "added_at": "2022-05-11 15:37:27",
+      "album": {
         "name": "FRIENDS KEEP SECRETS",
         "url": "https://open.spotify.com/album/7dQ734EW0iLvQfF6vBFNiZ"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 170769,
       "name": "Eastside (with Halsey & Khalid)",
       "url": "https://open.spotify.com/track/7FGq80cy8juXBCD2nrqdWU"
-    },
-    {
-      "added_at": "2022-05-11 15:37:27",
-      "album": {
-        "name": "Oh, What A Life",
-        "url": "https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv"
-      },
-      "artists": [
-        {
-          "name": "American Authors",
-          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
-        }
-      ],
-      "duration_ms": 194240,
-      "name": "Best Day Of My Life",
-      "url": "https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP"
     },
     {
       "added_at": "2022-05-11 15:37:27",

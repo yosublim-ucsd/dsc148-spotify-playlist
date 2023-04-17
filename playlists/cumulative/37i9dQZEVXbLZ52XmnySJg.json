@@ -4675,6 +4675,24 @@
     },
     {
       "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
+    },
+    {
+      "album": {
         "name": "Heer Raanjhana (From \"Bachchhan Paandey\")",
         "url": "https://open.spotify.com/album/5y3SQgGGSM3nwRiIsdllq2"
       },
@@ -6144,10 +6162,28 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 173637,
       "name": "Kahani Suno 2.0",
       "url": "https://open.spotify.com/track/4VsP4Dm8gsibRxB5I2hEkw"
+    },
+    {
+      "album": {
+        "name": "Apna Bana Leee",
+        "url": "https://open.spotify.com/album/5V65gcdhjY0wbhIJe4N6vG"
+      },
+      "artists": [
+        {
+          "name": "T-Series Mashup",
+          "url": "https://open.spotify.com/artist/4qrEWUlhv3yfKoqeEv6Psw"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173685,
+      "name": "Kahani Suno 2.0",
+      "url": "https://open.spotify.com/track/3GZBBvnkM8ybEbRSKysVcp"
     },
     {
       "album": {
@@ -6344,7 +6380,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 77252,
       "name": "Kali Kali Zulfon Ke (Lo-Fi)",
       "url": "https://open.spotify.com/track/3mUkVsovIuscQlSoMhmAZt"
@@ -9628,7 +9664,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-12",
+      "date_removed": null,
       "duration_ms": 224146,
       "name": "Pasoori",
       "url": "https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB"
@@ -10898,7 +10934,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 115636,
       "name": "Sanak",
       "url": "https://open.spotify.com/track/3SiQsAVS3CDJQzWPRyX1XP"
@@ -11364,7 +11400,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-14",
+      "date_removed": null,
       "duration_ms": 586075,
       "name": "Shree Hanuman Chalisa",
       "url": "https://open.spotify.com/track/6H7fLdt0AeWpuxUKXuXWrx"
@@ -13206,7 +13242,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 184613,
       "name": "Under The Influence",
       "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"

@@ -720,7 +720,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 92040,
       "name": "BEAUTIFUL - Anime Edit",
       "url": "https://open.spotify.com/track/56LHN0v30yTGB6NFdihTg1"
@@ -5689,6 +5689,46 @@
     },
     {
       "album": {
+        "name": "Setsunano Chikai",
+        "url": "https://open.spotify.com/album/5RxLQesE8xz3LsCwyrLIDn"
+      },
+      "artists": [
+        {
+          "name": "Neko Hacker",
+          "url": "https://open.spotify.com/artist/2aQ9IoRPwXEhhBVj4wbS46"
+        },
+        {
+          "name": "\u7531\u5d0e\u53f8",
+          "url": "https://open.spotify.com/artist/57nGnwFiNGNY5t77bVWWw2"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220186,
+      "name": "Setsunano Chikai",
+      "url": "https://open.spotify.com/track/1YKBiydKeMfqHXwDECHLU6"
+    },
+    {
+      "album": {
+        "name": "Shinda!",
+        "url": "https://open.spotify.com/album/2VQMSyKrXpA0m6PECjU8sm"
+      },
+      "artists": [
+        {
+          "name": "Masayoshi Oishi",
+          "url": "https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220928,
+      "name": "Shinda!",
+      "url": "https://open.spotify.com/track/2wLuWWfrOHnPjbC3CUuuZ9"
+    },
+    {
+      "album": {
         "name": "Kaikai Kitan / Ao No Waltz",
         "url": "https://open.spotify.com/album/6BZjN6j79mjz7PJfGmvCR1"
       },
@@ -5970,7 +6010,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 244160,
       "name": "SPARK-AGAIN",
       "url": "https://open.spotify.com/track/3NEuSQZbVmfQwRuDKol40Y"
@@ -8252,7 +8292,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 211184,
       "name": "\u30a4\u30d3\u30c4\u30ca\u30b3\u30c8\u30d0",
       "url": "https://open.spotify.com/track/1ru7EpUF1bidYVq1n6VWUz"
@@ -11636,7 +11676,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-21",
+      "date_removed": null,
       "duration_ms": 294933,
       "name": "\u671d\u304c\u6765\u308b",
       "url": "https://open.spotify.com/track/6Mq4q5OIMO25vBsKpFdlnH"

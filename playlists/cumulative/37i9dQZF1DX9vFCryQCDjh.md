@@ -4,7 +4,7 @@
 
 > 90년대를 수 놓았던 명곡들을 만나보세요.
 
-112 songs - 7 hr 5 min
+113 songs - 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Get Up](https://open.spotify.com/track/5PmzpRLsWoWhgjpFZ6Hh9i) | [Baby V.O.X](https://open.spotify.com/artist/7H5LMtjHqkyH4U8dpLR4lo) | [Baby V.O.X Special Album](https://open.spotify.com/album/0SEOmCDuKkiXZR2v5jnmd9) | 2:12 | 2021-03-11 |  |
 | [Good Life](https://open.spotify.com/track/3ttJRHDJ9zuG9uU4qrE2VJ) | [Drunken Tiger](https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI) | [Drunken Tiger Best](https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq) | 3:07 | 2021-03-11 |  |
 | [Hey, Come On!](https://open.spotify.com/track/5VOTPW5potAFI9gH3QrjV5) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [HEY, COME ON! \- The 4th Album](https://open.spotify.com/album/7dmeb1HMweJy5bvrTQPmul) | 3:28 | 2021-03-11 |  |
-| [Hey, Hey, Hey](https://open.spotify.com/track/5VgjKdEj2Ppv8bSXG3GWlY) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [Jaurim 'True' Live \(Live\)](https://open.spotify.com/album/5Pejwbf19423OS2S2xoWOW) | 2:55 | 2021-03-11 |  |
+| [Hey, Hey, Hey](https://open.spotify.com/track/5VgjKdEj2Ppv8bSXG3GWlY) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [Jaurim 'True' Live \(Live\)](https://open.spotify.com/album/5Pejwbf19423OS2S2xoWOW) | 2:55 | 2021-03-11 | 2023-04-17 |
 | [Hope](https://open.spotify.com/track/0LW6E8rEAltX9Svci5M3Z1) | [H.O.T.](https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS) | [Resurrection \- The 3rd Album](https://open.spotify.com/album/0yJ02boB03UsjObzoXJ5O4) | 4:20 | 2021-03-11 |  |
 | [Hot](https://open.spotify.com/track/1IkdRtsgZCtWIekX8NrLdN) | [1TYM](https://open.spotify.com/artist/0P8IEJrM7oUTK4WwdMKsvS) | [Once N 4 All](https://open.spotify.com/album/1ezAh7aCsuTvnb3g2WIprH) | 3:38 | 2021-03-11 |  |
 | [Hwanyoungmoon](https://open.spotify.com/track/0WI4YqBDb79uzP6w0wTYfP) | [Click\-B](https://open.spotify.com/artist/2kOGSFThgEzPEjL4fFB25w) | [Challenge](https://open.spotify.com/album/04DpX5uY7gpPlWoWbrU1iP) | 4:03 | 2021-03-11 | 2022-12-20 |
@@ -50,6 +50,7 @@
 | [Let's Go to the Beach Pt\. 2](https://open.spotify.com/track/3rmrE59ZBjeJCPhFm6bSe6) | [DJ DOC](https://open.spotify.com/artist/3kDgt4vVKGTLmtC3FkOwWF) | [DJ\. DOC 4th Album](https://open.spotify.com/album/4bClX08UzWDCDbsURK56mv) | 3:22 | 2021-03-11 |  |
 | [Love is gone](https://open.spotify.com/track/0DBhDnGxwmHV70ATccFPtD) | [Kim Gun Mo](https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO) | [Myself](https://open.spotify.com/album/6mlVLQt9U7RD7hYWWNwoe9) | 3:59 | 2021-03-11 |  |
 | [Love Love](https://open.spotify.com/track/3Ex3g8xsXFeg3AAD3e2yyI) | [Bijou](https://open.spotify.com/artist/569eb22oPAh6r0CaVsuGto) | [Bijou Is Ballad](https://open.spotify.com/album/6bFIEMBIejKMWSgWWcb6gP) | 3:40 | 2021-03-11 | 2023-04-09 |
+| [Love Love](https://open.spotify.com/track/0RZkS18yW2TONdm8NQ56Ic) | [Bijou](https://open.spotify.com/artist/569eb22oPAh6r0CaVsuGto) | [Bijou Is Ballad](https://open.spotify.com/album/6bitlzpPk8hUUsVY2N8jhA) | 3:43 | 2021-03-11 |  |
 | [Missing You](https://open.spotify.com/track/7fKZEW2QI7hdRITkMJZY9N) | [Baby V.O.X](https://open.spotify.com/artist/7H5LMtjHqkyH4U8dpLR4lo) | [Come Come Come baby](https://open.spotify.com/album/0SwgQkiMgFLn7dLKj0yOcW) | 3:51 | 2021-03-11 |  |
 | [Na Na Na](https://open.spotify.com/track/5NEyoTXkeo2L6UkRgRgSKD) | [Steve Yoo](https://open.spotify.com/artist/64mQUXcqmQCyywZEc7BtS9) | [Cyber Yoo Sueng Jun](https://open.spotify.com/album/3jrD9RUkQcrFZpy2dZL5sD) | 3:54 | 2021-03-11 |  |
 | [No.1](https://open.spotify.com/track/4RtHEggWfFWknuAsRdkyku) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [No.1 \- The 2nd Album](https://open.spotify.com/album/4Se5tmG7Dc1WKJYr4o5gXz) | 3:13 | 2021-03-11 |  |

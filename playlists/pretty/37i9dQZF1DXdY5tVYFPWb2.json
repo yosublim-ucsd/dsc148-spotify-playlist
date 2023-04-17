@@ -1,12 +1,12 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 138588,
+  "num_followers": 138665,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTIyNTIwMCwwMDAwMDAwMGU4ZWM5MzYzNzZlZGE4NzdiMjQzZWE0Y2RmMTgzMzZi",
+  "snapshot_id": "MTY4MTIyNTIwMCwwMDAwMDAwMDU4NGE5YTVhMDdkY2M1YjE1NWVkMDkyYzQ5NzM3YmNj",
   "tracks": [
     {
       "added_at": "2023-04-11 15:00:00",
@@ -859,6 +859,42 @@
     {
       "added_at": "2023-04-11 15:00:00",
       "album": {
+        "name": "Inner Ocean",
+        "url": "https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1"
+      },
+      "artists": [
+        {
+          "name": "salasa",
+          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
+        }
+      ],
+      "duration_ms": 223808,
+      "name": "\u592a\u967d\u304c\u6607\u308b\u307e\u3067",
+      "url": "https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD"
+    },
+    {
+      "added_at": "2023-04-11 15:00:00",
+      "album": {
+        "name": "\u30b7\u30f3\u30d7\u30eb\u30fb\u30e9\u30d6 feat. \u4f50\u3005\u6728\u8a69\u7e54",
+        "url": "https://open.spotify.com/album/0N8IGVQ6OvHYamqAGezZ3l"
+      },
+      "artists": [
+        {
+          "name": "PAPER MOON PROJECT",
+          "url": "https://open.spotify.com/artist/0Y4i2EgSgrjmUCyT3UxCn9"
+        },
+        {
+          "name": "\u4f50\u3005\u6728\u8a69\u7e54",
+          "url": "https://open.spotify.com/artist/0Fs6az4macUnUxwgSvHsEI"
+        }
+      ],
+      "duration_ms": 252326,
+      "name": "\u30b7\u30f3\u30d7\u30eb\u30fb\u30e9\u30d6 feat. \u4f50\u3005\u6728\u8a69\u7e54",
+      "url": "https://open.spotify.com/track/2mudoDEVfAtKFV4VNddaCC"
+    },
+    {
+      "added_at": "2023-04-11 15:00:00",
+      "album": {
         "name": "DOWN TOWN",
         "url": "https://open.spotify.com/album/3yY408DUkgwhfZkouMRK0i"
       },
@@ -887,42 +923,6 @@
       "duration_ms": 290610,
       "name": "DOWN TOWN",
       "url": "https://open.spotify.com/track/3MXCCaSni8I1FSvHeMQIGV"
-    },
-    {
-      "added_at": "2023-04-11 15:00:00",
-      "album": {
-        "name": "\u30b7\u30f3\u30d7\u30eb\u30fb\u30e9\u30d6 feat. \u4f50\u3005\u6728\u8a69\u7e54",
-        "url": "https://open.spotify.com/album/0N8IGVQ6OvHYamqAGezZ3l"
-      },
-      "artists": [
-        {
-          "name": "PAPER MOON PROJECT",
-          "url": "https://open.spotify.com/artist/0Y4i2EgSgrjmUCyT3UxCn9"
-        },
-        {
-          "name": "\u4f50\u3005\u6728\u8a69\u7e54",
-          "url": "https://open.spotify.com/artist/0Fs6az4macUnUxwgSvHsEI"
-        }
-      ],
-      "duration_ms": 252326,
-      "name": "\u30b7\u30f3\u30d7\u30eb\u30fb\u30e9\u30d6 feat. \u4f50\u3005\u6728\u8a69\u7e54",
-      "url": "https://open.spotify.com/track/2mudoDEVfAtKFV4VNddaCC"
-    },
-    {
-      "added_at": "2023-04-11 15:00:00",
-      "album": {
-        "name": "Inner Ocean",
-        "url": "https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1"
-      },
-      "artists": [
-        {
-          "name": "salasa",
-          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
-        }
-      ],
-      "duration_ms": 223808,
-      "name": "\u592a\u967d\u304c\u6607\u308b\u307e\u3067",
-      "url": "https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD"
     },
     {
       "added_at": "2023-04-11 15:00:00",
@@ -1051,6 +1051,26 @@
     {
       "added_at": "2023-04-11 15:00:00",
       "album": {
+        "name": "U.F.O",
+        "url": "https://open.spotify.com/album/73rI30alnLXFitAnxHeNG0"
+      },
+      "artists": [
+        {
+          "name": "haruno",
+          "url": "https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u"
+        },
+        {
+          "name": "A.G.O",
+          "url": "https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK"
+        }
+      ],
+      "duration_ms": 230319,
+      "name": "U.F.O",
+      "url": "https://open.spotify.com/track/01LxBtO7yAI4hpP6lxFW1j"
+    },
+    {
+      "added_at": "2023-04-11 15:00:00",
+      "album": {
         "name": "CITY POP LOVERS",
         "url": "https://open.spotify.com/album/3Npp8Wobd8XRztK3xVVu48"
       },
@@ -1083,22 +1103,18 @@
     {
       "added_at": "2023-04-11 15:00:00",
       "album": {
-        "name": "U.F.O",
-        "url": "https://open.spotify.com/album/73rI30alnLXFitAnxHeNG0"
+        "name": "\u5929\u56fd\u306b\u3044\u3061\u3070\u3093\u8fd1\u3044\u5cf6",
+        "url": "https://open.spotify.com/album/4YPZiZnV40IFY4X3j8Jnta"
       },
       "artists": [
         {
-          "name": "haruno",
-          "url": "https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u"
-        },
-        {
-          "name": "A.G.O",
-          "url": "https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK"
+          "name": "Asako Toki",
+          "url": "https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y"
         }
       ],
-      "duration_ms": 230319,
-      "name": "U.F.O",
-      "url": "https://open.spotify.com/track/01LxBtO7yAI4hpP6lxFW1j"
+      "duration_ms": 283106,
+      "name": "\u5929\u56fd\u306b\u3044\u3061\u3070\u3093\u8fd1\u3044\u5cf6",
+      "url": "https://open.spotify.com/track/67wpz675S04tMcORr36Psb"
     },
     {
       "added_at": "2023-04-11 15:00:00",
@@ -1119,18 +1135,18 @@
     {
       "added_at": "2023-04-11 15:00:00",
       "album": {
-        "name": "\u5929\u56fd\u306b\u3044\u3061\u3070\u3093\u8fd1\u3044\u5cf6",
-        "url": "https://open.spotify.com/album/4YPZiZnV40IFY4X3j8Jnta"
+        "name": "\u30cd\u30a4\u30eb\u306e\u5cf6",
+        "url": "https://open.spotify.com/album/3WcnLCT0xyymYkCANFHo7Z"
       },
       "artists": [
         {
-          "name": "Asako Toki",
-          "url": "https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y"
+          "name": "salasa",
+          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
         }
       ],
-      "duration_ms": 283106,
-      "name": "\u5929\u56fd\u306b\u3044\u3061\u3070\u3093\u8fd1\u3044\u5cf6",
-      "url": "https://open.spotify.com/track/67wpz675S04tMcORr36Psb"
+      "duration_ms": 201642,
+      "name": "Amber",
+      "url": "https://open.spotify.com/track/39KmklB5budgAsuow00krX"
     },
     {
       "added_at": "2023-04-11 15:00:00",
@@ -1167,22 +1183,6 @@
       "duration_ms": 187557,
       "name": "STARLIGHT",
       "url": "https://open.spotify.com/track/7gg611kXgkFXDwEdAAYSOD"
-    },
-    {
-      "added_at": "2023-04-11 15:00:00",
-      "album": {
-        "name": "\u30cd\u30a4\u30eb\u306e\u5cf6",
-        "url": "https://open.spotify.com/album/3WcnLCT0xyymYkCANFHo7Z"
-      },
-      "artists": [
-        {
-          "name": "salasa",
-          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
-        }
-      ],
-      "duration_ms": 201642,
-      "name": "Amber",
-      "url": "https://open.spotify.com/track/39KmklB5budgAsuow00krX"
     },
     {
       "added_at": "2023-04-11 15:00:00",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2023-04-11 15:00:00",
       "album": {
-        "name": "Structure Of Romance (feat. Kyoko Koizumi)",
-        "url": "https://open.spotify.com/album/4YDaCT2bUZtIEaXhjAM100"
-      },
-      "artists": [
-        {
-          "name": "Night Tempo",
-          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
-        },
-        {
-          "name": "Kyoko Koizumi",
-          "url": "https://open.spotify.com/artist/47CIQFAst7iOrRZ16XOfP8"
-        }
-      ],
-      "duration_ms": 194017,
-      "name": "Structure Of Romance (feat. Kyoko Koizumi)",
-      "url": "https://open.spotify.com/track/4KPJNptJJe00Jy3YBMXqe4"
-    },
-    {
-      "added_at": "2023-04-11 15:00:00",
-      "album": {
         "name": "MAO",
         "url": "https://open.spotify.com/album/1gUytKK9FdgvwF8BZ2Kmxv"
       },
@@ -1291,6 +1271,26 @@
       "duration_ms": 267666,
       "name": "Lovely",
       "url": "https://open.spotify.com/track/0vH1UCjFHp0VCDK7U0XK8W"
+    },
+    {
+      "added_at": "2023-04-11 15:00:00",
+      "album": {
+        "name": "Structure Of Romance (feat. Kyoko Koizumi)",
+        "url": "https://open.spotify.com/album/4YDaCT2bUZtIEaXhjAM100"
+      },
+      "artists": [
+        {
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        },
+        {
+          "name": "Kyoko Koizumi",
+          "url": "https://open.spotify.com/artist/47CIQFAst7iOrRZ16XOfP8"
+        }
+      ],
+      "duration_ms": 194017,
+      "name": "Structure Of Romance (feat. Kyoko Koizumi)",
+      "url": "https://open.spotify.com/track/4KPJNptJJe00Jy3YBMXqe4"
     },
     {
       "added_at": "2023-04-11 15:00:00",
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2023-04-11 15:00:00",
       "album": {
-        "name": "NO TIME",
-        "url": "https://open.spotify.com/album/27jDdZginjmRgglqUkcQ5N"
-      },
-      "artists": [
-        {
-          "name": "VivaOla",
-          "url": "https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9"
-        },
-        {
-          "name": "SIRUP",
-          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
-        }
-      ],
-      "duration_ms": 160298,
-      "name": "NO TIME",
-      "url": "https://open.spotify.com/track/1yKNCtOGmtH7abfZGRV9Oc"
-    },
-    {
-      "added_at": "2023-04-11 15:00:00",
-      "album": {
         "name": "NOTE",
         "url": "https://open.spotify.com/album/2h5PLCIWEYt2VJARv8OvYa"
       },
@@ -1387,8 +1367,28 @@
     {
       "added_at": "2023-04-11 15:00:00",
       "album": {
-        "name": "After Party",
-        "url": "https://open.spotify.com/album/4EKE55nhtFpoxHdOJXKb1i"
+        "name": "NO TIME",
+        "url": "https://open.spotify.com/album/27jDdZginjmRgglqUkcQ5N"
+      },
+      "artists": [
+        {
+          "name": "VivaOla",
+          "url": "https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9"
+        },
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        }
+      ],
+      "duration_ms": 160298,
+      "name": "NO TIME",
+      "url": "https://open.spotify.com/track/1yKNCtOGmtH7abfZGRV9Oc"
+    },
+    {
+      "added_at": "2023-04-11 15:00:00",
+      "album": {
+        "name": "yugi",
+        "url": "https://open.spotify.com/album/7eexbOyxF5ZxRboSPVuNVc"
       },
       "artists": [
         {
@@ -1396,9 +1396,9 @@
           "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
         }
       ],
-      "duration_ms": 272657,
-      "name": "After Party",
-      "url": "https://open.spotify.com/track/6ZmTUJTej1ObruiiUsrnrc"
+      "duration_ms": 201617,
+      "name": "yugi",
+      "url": "https://open.spotify.com/track/2SgXOT2HryYnbtWL7JfIFy"
     },
     {
       "added_at": "2023-04-11 15:00:00",
@@ -1507,8 +1507,8 @@
     {
       "added_at": "2023-04-11 15:00:00",
       "album": {
-        "name": "yugi",
-        "url": "https://open.spotify.com/album/7eexbOyxF5ZxRboSPVuNVc"
+        "name": "After Party",
+        "url": "https://open.spotify.com/album/4EKE55nhtFpoxHdOJXKb1i"
       },
       "artists": [
         {
@@ -1516,9 +1516,9 @@
           "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
         }
       ],
-      "duration_ms": 201617,
-      "name": "yugi",
-      "url": "https://open.spotify.com/track/2SgXOT2HryYnbtWL7JfIFy"
+      "duration_ms": 272657,
+      "name": "After Party",
+      "url": "https://open.spotify.com/track/6ZmTUJTej1ObruiiUsrnrc"
     },
     {
       "added_at": "2023-04-11 15:00:00",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-04-11 15:00:00",
       "album": {
-        "name": "friends",
-        "url": "https://open.spotify.com/album/6fxDSk0nnIRStLtvRRGJl8"
-      },
-      "artists": [
-        {
-          "name": "iri",
-          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
-        }
-      ],
-      "duration_ms": 229653,
-      "name": "friends",
-      "url": "https://open.spotify.com/track/0K958nrYqQ94HznXAQ8cWi"
-    },
-    {
-      "added_at": "2023-04-11 15:00:00",
-      "album": {
         "name": "IMA",
         "url": "https://open.spotify.com/album/2yMvBOJATTkn4wDhZZotIT"
       },
@@ -1575,18 +1559,18 @@
     {
       "added_at": "2023-04-11 15:00:00",
       "album": {
-        "name": "TWO",
-        "url": "https://open.spotify.com/album/0ICXXs5PZGSqrXcogtXezO"
+        "name": "friends",
+        "url": "https://open.spotify.com/album/6fxDSk0nnIRStLtvRRGJl8"
       },
       "artists": [
         {
-          "name": "SPiCYSOL",
-          "url": "https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA"
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
         }
       ],
-      "duration_ms": 187606,
-      "name": "Playback",
-      "url": "https://open.spotify.com/track/0cyepU0mCfmbvZdQMKP4El"
+      "duration_ms": 229653,
+      "name": "friends",
+      "url": "https://open.spotify.com/track/0K958nrYqQ94HznXAQ8cWi"
     },
     {
       "added_at": "2023-04-11 15:00:00",
@@ -1607,6 +1591,22 @@
       "duration_ms": 302721,
       "name": "Aoyama Killer Story (Night Tempo Showa Groove Mix)",
       "url": "https://open.spotify.com/track/08Q3YDJYVho2ImOhGc2AY5"
+    },
+    {
+      "added_at": "2023-04-11 15:00:00",
+      "album": {
+        "name": "TWO",
+        "url": "https://open.spotify.com/album/0ICXXs5PZGSqrXcogtXezO"
+      },
+      "artists": [
+        {
+          "name": "SPiCYSOL",
+          "url": "https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA"
+        }
+      ],
+      "duration_ms": 187606,
+      "name": "Playback",
+      "url": "https://open.spotify.com/track/0cyepU0mCfmbvZdQMKP4El"
     },
     {
       "added_at": "2023-04-11 15:00:00",
@@ -1675,34 +1675,22 @@
     {
       "added_at": "2023-04-11 15:00:00",
       "album": {
-        "name": "SEASONS",
-        "url": "https://open.spotify.com/album/3Gf0rgu4VC50g4ItRiEtao"
+        "name": "Sentimental (Neon Mix)",
+        "url": "https://open.spotify.com/album/6hU2dcf1WpFtPX4EL1ybBr"
       },
       "artists": [
         {
-          "name": "SPiCYSOL",
-          "url": "https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA"
-        }
-      ],
-      "duration_ms": 241866,
-      "name": "Treasure",
-      "url": "https://open.spotify.com/track/5run1AkGCGYegjLSlsmvZn"
-    },
-    {
-      "added_at": "2023-04-11 15:00:00",
-      "album": {
-        "name": "Twilight",
-        "url": "https://open.spotify.com/album/5gfcLajeC6hAaslnzb0bxf"
-      },
-      "artists": [
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        },
         {
-          "name": "Asako Toki",
-          "url": "https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y"
+          "name": "\u7af9\u5185\u7f8e\u5ba5",
+          "url": "https://open.spotify.com/artist/5PxUfN01MCRFIw7Quz8VZ7"
         }
       ],
-      "duration_ms": 270133,
-      "name": "Mirrors",
-      "url": "https://open.spotify.com/track/18LOgLjl2ljm2eOKKhYiWi"
+      "duration_ms": 203588,
+      "name": "Sentimental - Neon Mix",
+      "url": "https://open.spotify.com/track/7M2hoIlOzvuEzEETqRRQbn"
     },
     {
       "added_at": "2023-04-11 15:00:00",
@@ -1727,38 +1715,50 @@
     {
       "added_at": "2023-04-11 15:00:00",
       "album": {
-        "name": "Rendezvous",
-        "url": "https://open.spotify.com/album/6bR1ncEiqAvSk0LysPD7yQ"
+        "name": "Twilight",
+        "url": "https://open.spotify.com/album/5gfcLajeC6hAaslnzb0bxf"
       },
       "artists": [
         {
-          "name": "Yoko Kuzuya",
-          "url": "https://open.spotify.com/artist/4npBbWR9zhm8hXabjjigvt"
+          "name": "Asako Toki",
+          "url": "https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y"
         }
       ],
-      "duration_ms": 283933,
-      "name": "Rendezvous",
-      "url": "https://open.spotify.com/track/1RCZ3cqpzj1CUSfXljYcLe"
+      "duration_ms": 270133,
+      "name": "Mirrors",
+      "url": "https://open.spotify.com/track/18LOgLjl2ljm2eOKKhYiWi"
     },
     {
       "added_at": "2023-04-11 15:00:00",
       "album": {
-        "name": "Sentimental (Neon Mix)",
-        "url": "https://open.spotify.com/album/6hU2dcf1WpFtPX4EL1ybBr"
+        "name": "Change My Life",
+        "url": "https://open.spotify.com/album/0ta9f6bwpnvCMuVbb1RfHG"
       },
       "artists": [
         {
-          "name": "Night Tempo",
-          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
-        },
-        {
-          "name": "\u7af9\u5185\u7f8e\u5ba5",
-          "url": "https://open.spotify.com/artist/5PxUfN01MCRFIw7Quz8VZ7"
+          "name": "THE RAMPAGE from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW"
         }
       ],
-      "duration_ms": 203588,
-      "name": "Sentimental - Neon Mix",
-      "url": "https://open.spotify.com/track/7M2hoIlOzvuEzEETqRRQbn"
+      "duration_ms": 243600,
+      "name": "Change My Life",
+      "url": "https://open.spotify.com/track/2oqe9h6uLQ1jn48Mz4OQI6"
+    },
+    {
+      "added_at": "2023-04-11 15:00:00",
+      "album": {
+        "name": "SEASONS",
+        "url": "https://open.spotify.com/album/3Gf0rgu4VC50g4ItRiEtao"
+      },
+      "artists": [
+        {
+          "name": "SPiCYSOL",
+          "url": "https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA"
+        }
+      ],
+      "duration_ms": 241866,
+      "name": "Treasure",
+      "url": "https://open.spotify.com/track/5run1AkGCGYegjLSlsmvZn"
     }
   ],
   "unique_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 
 > 150%
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,383,478 likes - 100 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,386,200 likes - 100 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 46 | [I Can't \- Sped Up](https://open.spotify.com/track/62jwQiRfhqGR6GcbahCDWq) | [Montana99](https://open.spotify.com/artist/4b3DUSYA69Wfn0AmgD0Zaj) | [I Can't \- Sped Up](https://open.spotify.com/album/3AzbVwgBNAE49TZ86U4MoG) | 2:01 |
 | 47 | [Those Eyes \- Sped Up](https://open.spotify.com/track/6XDBohkvajOwoqr8jHPjzQ) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes \(Alternate Versions\)](https://open.spotify.com/album/55J0IqFDDMrc9v672IDED2) | 2:47 |
 | 48 | [Until I Found You \(Sped Up\) \- Heaven When I Held You Again How Could We Ever Just Be Friends](https://open.spotify.com/track/2w5aTimRJjWefNoXaoCpd4) | [Hiko](https://open.spotify.com/artist/0KYOBAf6Zky4CFQne2JPTX) | [Until I Found You \(Sped Up\) \- Heaven When I Held You Again How Could We Ever Just Be Friends](https://open.spotify.com/album/13JS9rH3cjTaWAjhrAxrpx) | 2:03 |
-| 49 | [I Wanna Be Saved \- Remix](https://open.spotify.com/track/7cTWKLGU20JeK01dTHJKTk) | [DJ Davion](https://open.spotify.com/artist/3hqsR0iIPaT2kcGKRATaMl) | [I Wanna Be Saved \(Remix\)](https://open.spotify.com/album/4jNCfTsT4tWB1bbrKLwI7V) | 4:02 |
+| 49 | [I WANNA BE SAVED \(REMIX\)](https://open.spotify.com/track/7oGbiBAh5LiAoHVZZLyweS) | [ExotiiC\-](https://open.spotify.com/artist/3t98cVjC4AW3IPjCNsc3em) | [I WANNA BE SAVED \(REMIX\)](https://open.spotify.com/album/6Zu5FIic4qYK8bqZ1Kdq64) | 4:02 |
 | 50 | [Them Changes \- Sped Up](https://open.spotify.com/track/6pod2VRHVTven17Da0uZHi) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Them Changes \(Sped Up\)](https://open.spotify.com/album/6BxctollBKIGGFZ8zAYLxw) | 2:15 |
 | 51 | [moment](https://open.spotify.com/track/5K9tfeoiztw94dyWzF39jq) | [Vierre Cloud](https://open.spotify.com/artist/31ijgiurmIPTNojkYQXdnl) | [moment](https://open.spotify.com/album/4FehFP4tVEFyT75LCTHl7m) | 2:09 |
 | 52 | [Drowning \- Sped Up Version](https://open.spotify.com/track/40x8vMUHIjqd2A5EtHEvAb) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Drowning \(Sped Up Version\)](https://open.spotify.com/album/3Z5FPyxx1sKOTzHsOnS4ZI) | 2:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 99 | [Wasted \(Nightcore\)](https://open.spotify.com/track/0zSDG1EI7SGhM62M5iBiGI) | [Murkish](https://open.spotify.com/artist/5anIaPEacO0S5sVfxg6cVw), [Huken](https://open.spotify.com/artist/2i5ApczYJfGAYrtf7QmjCV) | [Wasted \(Nightcore\)](https://open.spotify.com/album/338C6sxO1twtEJn8YqGeh4) | 3:14 |
 | 100 | [Cool for the Summer \- Sped Up \(Nightcore\)](https://open.spotify.com/track/4FYWOYqOF9lbb1JcZFDT67) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Cool for the Summer \[Sped Up \(Nightcore\)\]](https://open.spotify.com/album/410MZofhiv240ybaWhUxpc) | 3:11 |
 
-Snapshot ID: `MTY4MTQxMzY5NCwwMDAwMDAwMDY3OTgxZGVkNTBiMWVhZjVhM2U3NDQxMDExYTc2OTdm`
+Snapshot ID: `MTY4MTQxMzY5NCwwMDAwMDAwMDBjOTM4MDY5MDAxMWZkZWY0NTU3ZjU2MGZkMTQ3NWMz`

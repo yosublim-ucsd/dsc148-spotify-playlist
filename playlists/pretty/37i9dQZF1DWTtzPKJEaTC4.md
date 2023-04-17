@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtzPKJEaTC4.md) - [plain]
 
 > <a href="spotify:artist:2i1CPudyCUjL50Wqjv8AMI">Alfa Mist</a> shares his jazz favorites
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,923 likes - 30 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,964 likes - 30 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

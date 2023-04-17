@@ -1,12 +1,12 @@
 {
   "description": "Descubra MC Paiva ZS e novos talentos brasileiros no horizonte.",
-  "num_followers": 421809,
+  "num_followers": 421823,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk5ODAwMCwwMDAwMDAwMDUzYjIwYTk3NjVjN2I5OGNjNzA4YWI2NmEwNDlmYjFk",
+  "snapshot_id": "MTY3NTk5ODAwMCwwMDAwMDAwMDY1ZGE2NWM5ZTMxMjg3MTI1MzY2ZjA2Y2I0MzkzMjIw",
   "tracks": [
     {
       "added_at": "2023-02-10 03:00:00",
@@ -483,6 +483,22 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
+        "name": "Eu Fiquei Com a Puta",
+        "url": "https://open.spotify.com/album/4AFnqpOQ1WyrLchDC2980C"
+      },
+      "artists": [
+        {
+          "name": "MC Josh",
+          "url": "https://open.spotify.com/artist/2sJi2UQrxTzhekQYGLxvT6"
+        }
+      ],
+      "duration_ms": 138461,
+      "name": "Eu Fiquei Com a Puta",
+      "url": "https://open.spotify.com/track/5ljLYEJZRLjtrZt1DXtT8B"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
         "name": "Todo Mundo Ama O Sol",
         "url": "https://open.spotify.com/album/4YfxPY16QwP1KTdtvkz5y3"
       },
@@ -507,22 +523,6 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
-        "name": "Eu Fiquei Com a Puta",
-        "url": "https://open.spotify.com/album/4AFnqpOQ1WyrLchDC2980C"
-      },
-      "artists": [
-        {
-          "name": "MC Josh",
-          "url": "https://open.spotify.com/artist/2sJi2UQrxTzhekQYGLxvT6"
-        }
-      ],
-      "duration_ms": 138461,
-      "name": "Eu Fiquei Com a Puta",
-      "url": "https://open.spotify.com/track/5ljLYEJZRLjtrZt1DXtT8B"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
         "name": "Meu Amor",
         "url": "https://open.spotify.com/album/074aWj0vTp7r0JTZWBvvOQ"
       },
@@ -539,6 +539,26 @@
       "duration_ms": 146347,
       "name": "Meu Amor",
       "url": "https://open.spotify.com/track/6QXTXu1Rezdb7gMcVvRXeC"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
+        "name": "Colocando Nela",
+        "url": "https://open.spotify.com/album/1Q3x5tOOqIGGRLBjQlM0zs"
+      },
+      "artists": [
+        {
+          "name": "MC L da Vinte",
+          "url": "https://open.spotify.com/artist/0lHB0Qc4pmD5RkTLlHeESo"
+        },
+        {
+          "name": "Mc Kaio",
+          "url": "https://open.spotify.com/artist/34ZgtjHC9aNCr5ZTUs7bzx"
+        }
+      ],
+      "duration_ms": 140307,
+      "name": "Colocando Nela",
+      "url": "https://open.spotify.com/track/5uvEyd73MMFvW2WuEghabn"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -563,26 +583,6 @@
       "duration_ms": 169057,
       "name": "O Justo N\u00e3o Treme",
       "url": "https://open.spotify.com/track/032k6qsKSvNfdBndLe4rCD"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
-        "name": "Colocando Nela",
-        "url": "https://open.spotify.com/album/1Q3x5tOOqIGGRLBjQlM0zs"
-      },
-      "artists": [
-        {
-          "name": "MC L da Vinte",
-          "url": "https://open.spotify.com/artist/0lHB0Qc4pmD5RkTLlHeESo"
-        },
-        {
-          "name": "Mc Kaio",
-          "url": "https://open.spotify.com/artist/34ZgtjHC9aNCr5ZTUs7bzx"
-        }
-      ],
-      "duration_ms": 140307,
-      "name": "Colocando Nela",
-      "url": "https://open.spotify.com/track/5uvEyd73MMFvW2WuEghabn"
     },
     {
       "added_at": "2023-02-10 03:00:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-02-10 03:00:00",
       "album": {
-        "name": "Capa de Revista",
-        "url": "https://open.spotify.com/album/0wm8lBrvdnyzoaOMJoToN5"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        }
-      ],
-      "duration_ms": 174314,
-      "name": "Capa de Revista",
-      "url": "https://open.spotify.com/track/3d5B5nqP5r6aUDJYf4JPSN"
-    },
-    {
-      "added_at": "2023-02-10 03:00:00",
-      "album": {
         "name": "Vendaval (Ao Vivo)",
         "url": "https://open.spotify.com/album/0CdhqJwe0aAWf0Oz7SYSiF"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 233236,
       "name": "Vendaval - Ao Vivo",
       "url": "https://open.spotify.com/track/2fkVehr2ZC9tEI2EpeOIOT"
+    },
+    {
+      "added_at": "2023-02-10 03:00:00",
+      "album": {
+        "name": "Capa de Revista",
+        "url": "https://open.spotify.com/album/0wm8lBrvdnyzoaOMJoToN5"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        }
+      ],
+      "duration_ms": 174314,
+      "name": "Capa de Revista",
+      "url": "https://open.spotify.com/track/3d5B5nqP5r6aUDJYf4JPSN"
     },
     {
       "added_at": "2023-02-10 03:00:00",

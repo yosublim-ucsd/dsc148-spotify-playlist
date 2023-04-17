@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 18053,
+  "num_followers": 18099,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg4MzIwMCwwMDAwMDAwMDlhYjliMjJjZmYzNDQ2MzRmZWVmYmI0YzA2YmJlNDcz",
+  "snapshot_id": "MTY4MDg4MzIwMCwwMDAwMDAwMDI3MTdmOGEwZDNlZmJkODZmYjJlZDI5MzliODRhMWI5",
   "tracks": [
     {
       "added_at": "2023-04-07 16:00:00",
@@ -475,6 +475,22 @@
     {
       "added_at": "2023-04-07 16:00:00",
       "album": {
+        "name": "Warning",
+        "url": "https://open.spotify.com/album/3y5fQAMQcXwch8hlHuhzwp"
+      },
+      "artists": [
+        {
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+        }
+      ],
+      "duration_ms": 336504,
+      "name": "Warning",
+      "url": "https://open.spotify.com/track/09fLcyru2xKfVPpN01dL0C"
+    },
+    {
+      "added_at": "2023-04-07 16:00:00",
+      "album": {
         "name": "Regulate",
         "url": "https://open.spotify.com/album/67OiUqqH4IBKVeJA1nU9JO"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 154550,
       "name": "Regulate",
       "url": "https://open.spotify.com/track/0aIY7EW39FmWoMugq4zGr0"
-    },
-    {
-      "added_at": "2023-04-07 16:00:00",
-      "album": {
-        "name": "Warning",
-        "url": "https://open.spotify.com/album/3y5fQAMQcXwch8hlHuhzwp"
-      },
-      "artists": [
-        {
-          "name": "Beltran",
-          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
-        }
-      ],
-      "duration_ms": 336504,
-      "name": "Warning",
-      "url": "https://open.spotify.com/track/09fLcyru2xKfVPpN01dL0C"
     },
     {
       "added_at": "2023-04-07 16:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-04-07 16:00:00",
       "album": {
-        "name": "La Serenata",
-        "url": "https://open.spotify.com/album/3wwXFMVnxEs6CVqM2jPynR"
-      },
-      "artists": [
-        {
-          "name": "The Shooters",
-          "url": "https://open.spotify.com/artist/1RJGNOlgGHlD8vl0uire0y"
-        }
-      ],
-      "duration_ms": 178609,
-      "name": "La Serenata",
-      "url": "https://open.spotify.com/track/2xoB9e4xWilVsqZhlHnBQF"
-    },
-    {
-      "added_at": "2023-04-07 16:00:00",
-      "album": {
         "name": "Bionic Boy",
         "url": "https://open.spotify.com/album/3TZ40t04vfJ9MvEZcdoqsg"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 206265,
       "name": "Bionic Boy",
       "url": "https://open.spotify.com/track/7byloGFJ8lO5d7cCxFXOIh"
+    },
+    {
+      "added_at": "2023-04-07 16:00:00",
+      "album": {
+        "name": "La Serenata",
+        "url": "https://open.spotify.com/album/3wwXFMVnxEs6CVqM2jPynR"
+      },
+      "artists": [
+        {
+          "name": "The Shooters",
+          "url": "https://open.spotify.com/artist/1RJGNOlgGHlD8vl0uire0y"
+        }
+      ],
+      "duration_ms": 178609,
+      "name": "La Serenata",
+      "url": "https://open.spotify.com/track/2xoB9e4xWilVsqZhlHnBQF"
     },
     {
       "added_at": "2023-04-07 16:00:00",
@@ -775,18 +775,18 @@
     {
       "added_at": "2023-04-07 16:00:00",
       "album": {
-        "name": "YAP EP",
-        "url": "https://open.spotify.com/album/05R0wLkqu505xO4Jx40KVf"
+        "name": "No Turning Back",
+        "url": "https://open.spotify.com/album/4iWlMzqqS9zOY0n0ACJQSt"
       },
       "artists": [
         {
-          "name": "Kollektiv Turmstrasse",
-          "url": "https://open.spotify.com/artist/1oXiuCd5F0DcnmXH5KaM6N"
+          "name": "MANT",
+          "url": "https://open.spotify.com/artist/5FfP0wtlfiBqwJdQbmOs3y"
         }
       ],
-      "duration_ms": 246474,
-      "name": "YAP",
-      "url": "https://open.spotify.com/track/13HJKOxoj5k0XsBOAEdqAt"
+      "duration_ms": 190449,
+      "name": "No Turning Back",
+      "url": "https://open.spotify.com/track/04An9nhuAtHo8gsN9ygaug"
     },
     {
       "added_at": "2023-04-07 16:00:00",
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-04-07 16:00:00",
       "album": {
+        "name": "YAP EP",
+        "url": "https://open.spotify.com/album/05R0wLkqu505xO4Jx40KVf"
+      },
+      "artists": [
+        {
+          "name": "Kollektiv Turmstrasse",
+          "url": "https://open.spotify.com/artist/1oXiuCd5F0DcnmXH5KaM6N"
+        }
+      ],
+      "duration_ms": 246474,
+      "name": "YAP",
+      "url": "https://open.spotify.com/track/13HJKOxoj5k0XsBOAEdqAt"
+    },
+    {
+      "added_at": "2023-04-07 16:00:00",
+      "album": {
         "name": "N NIGHT",
         "url": "https://open.spotify.com/album/59dqu4xpSWOarQt4nh9sdg"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 454000,
       "name": "N NIGHT",
       "url": "https://open.spotify.com/track/72YERGjA9X5F6NuE4GLLmC"
-    },
-    {
-      "added_at": "2023-04-07 16:00:00",
-      "album": {
-        "name": "No Turning Back",
-        "url": "https://open.spotify.com/album/4iWlMzqqS9zOY0n0ACJQSt"
-      },
-      "artists": [
-        {
-          "name": "MANT",
-          "url": "https://open.spotify.com/artist/5FfP0wtlfiBqwJdQbmOs3y"
-        }
-      ],
-      "duration_ms": 190449,
-      "name": "No Turning Back",
-      "url": "https://open.spotify.com/track/04An9nhuAtHo8gsN9ygaug"
     },
     {
       "added_at": "2023-04-07 16:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-04-07 16:00:00",
       "album": {
-        "name": "Femme Tech",
-        "url": "https://open.spotify.com/album/2pYtRpgha87XaijSIwUUbn"
-      },
-      "artists": [
-        {
-          "name": "DESIREE",
-          "url": "https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa"
-        }
-      ],
-      "duration_ms": 382439,
-      "name": "Femme",
-      "url": "https://open.spotify.com/track/3w2wq54qcswAGDr9CgRymT"
-    },
-    {
-      "added_at": "2023-04-07 16:00:00",
-      "album": {
         "name": "Kill The Soundboy",
         "url": "https://open.spotify.com/album/19yhnnzXMUkzctGGijNagH"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 404000,
       "name": "Kill The Soundboy",
       "url": "https://open.spotify.com/track/72AMbEMW0SGjL36DpLuYfY"
+    },
+    {
+      "added_at": "2023-04-07 16:00:00",
+      "album": {
+        "name": "Femme Tech",
+        "url": "https://open.spotify.com/album/2pYtRpgha87XaijSIwUUbn"
+      },
+      "artists": [
+        {
+          "name": "DESIREE",
+          "url": "https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa"
+        }
+      ],
+      "duration_ms": 382439,
+      "name": "Femme",
+      "url": "https://open.spotify.com/track/3w2wq54qcswAGDr9CgRymT"
     },
     {
       "added_at": "2023-04-07 16:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-04-07 16:00:00",
       "album": {
-        "name": "Walk The Line (Radio Edit)",
-        "url": "https://open.spotify.com/album/16VndWG1tn0N7Qpp7sz51Z"
-      },
-      "artists": [
-        {
-          "name": "Jesse Jonez",
-          "url": "https://open.spotify.com/artist/4uRQ0KBoYFYkziR9SIZW3i"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Walk The Line - Radio Edit",
-      "url": "https://open.spotify.com/track/4xt43vcfXajgYbcDdOjOgI"
-    },
-    {
-      "added_at": "2023-04-07 16:00:00",
-      "album": {
         "name": "Music4TheMasses (Andrea Oliva Remix)",
         "url": "https://open.spotify.com/album/3nfx8zp8LAUEQcYBpqdWh9"
       },
@@ -1019,22 +1003,6 @@
     {
       "added_at": "2023-04-07 16:00:00",
       "album": {
-        "name": "winter '23",
-        "url": "https://open.spotify.com/album/3g5iPkooVkFQTYPwRa1iyy"
-      },
-      "artists": [
-        {
-          "name": "Ranger Trucco",
-          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
-        }
-      ],
-      "duration_ms": 370000,
-      "name": "buss it.",
-      "url": "https://open.spotify.com/track/6Pf51Bk7UPHmmtOflHK82T"
-    },
-    {
-      "added_at": "2023-04-07 16:00:00",
-      "album": {
         "name": "Ready For The Blues",
         "url": "https://open.spotify.com/album/3J284h72wbaiRytMtO0qTL"
       },
@@ -1047,6 +1015,22 @@
       "duration_ms": 300041,
       "name": "Ready For The Blues",
       "url": "https://open.spotify.com/track/6BTaeh7bxG1O2Jk2mQCqXJ"
+    },
+    {
+      "added_at": "2023-04-07 16:00:00",
+      "album": {
+        "name": "winter '23",
+        "url": "https://open.spotify.com/album/3g5iPkooVkFQTYPwRa1iyy"
+      },
+      "artists": [
+        {
+          "name": "Ranger Trucco",
+          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
+        }
+      ],
+      "duration_ms": 370000,
+      "name": "buss it.",
+      "url": "https://open.spotify.com/track/6Pf51Bk7UPHmmtOflHK82T"
     },
     {
       "added_at": "2023-04-07 16:00:00",
@@ -1067,6 +1051,22 @@
       "duration_ms": 233333,
       "name": "Stutter",
       "url": "https://open.spotify.com/track/1OTixnhGk8U4HleNJCNUg9"
+    },
+    {
+      "added_at": "2023-04-07 16:00:00",
+      "album": {
+        "name": "Walk The Line (Radio Edit)",
+        "url": "https://open.spotify.com/album/16VndWG1tn0N7Qpp7sz51Z"
+      },
+      "artists": [
+        {
+          "name": "Jesse Jonez",
+          "url": "https://open.spotify.com/artist/4uRQ0KBoYFYkziR9SIZW3i"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Walk The Line - Radio Edit",
+      "url": "https://open.spotify.com/track/4xt43vcfXajgYbcDdOjOgI"
     },
     {
       "added_at": "2023-04-07 16:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-04-07 16:00:00",
       "album": {
-        "name": "Bear",
-        "url": "https://open.spotify.com/album/1gyE0xFDCHrJwh7djleXcz"
-      },
-      "artists": [
-        {
-          "name": "Dot Major",
-          "url": "https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh"
-        }
-      ],
-      "duration_ms": 311000,
-      "name": "Bear",
-      "url": "https://open.spotify.com/track/0233tCHQ7wju5xzpQfeb5s"
-    },
-    {
-      "added_at": "2023-04-07 16:00:00",
-      "album": {
         "name": "Shoot the Shot",
         "url": "https://open.spotify.com/album/4zD4CujteqFDt6lpVrTPmT"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 359998,
       "name": "Shoot the Shot",
       "url": "https://open.spotify.com/track/6LEd9JLKmViufFYI0JfLDL"
+    },
+    {
+      "added_at": "2023-04-07 16:00:00",
+      "album": {
+        "name": "Bear",
+        "url": "https://open.spotify.com/album/1gyE0xFDCHrJwh7djleXcz"
+      },
+      "artists": [
+        {
+          "name": "Dot Major",
+          "url": "https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh"
+        }
+      ],
+      "duration_ms": 311000,
+      "name": "Bear",
+      "url": "https://open.spotify.com/track/0233tCHQ7wju5xzpQfeb5s"
     },
     {
       "added_at": "2023-04-07 16:00:00",

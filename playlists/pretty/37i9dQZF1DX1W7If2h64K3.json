@@ -1,12 +1,12 @@
 {
   "description": "Discover the music of Schumann.",
-  "num_followers": 39497,
+  "num_followers": 39545,
   "original_name": "This Is Schumann",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzU2NzgyMCwwMDAwMDAwMDlhNGVmMGFiZjU0YTU4NzA4MDM3MzZiMGJkYmY2MWQ2",
+  "snapshot_id": "MTY2NzU2NzgyMCwwMDAwMDAwMGMxYzNkZWYyMWJlYWFhOWE0YjQ1YjMwZDJhNWVhNDUz",
   "tracks": [
     {
       "added_at": "2022-11-04 13:17:00",
@@ -755,26 +755,6 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
-        "name": "Piano Recital: Kotaro Fukuma",
-        "url": "https://open.spotify.com/album/67NnX49VmU1rb1oQeJJPiH"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Kotaro Fukuma",
-          "url": "https://open.spotify.com/artist/2NXGOKB3pcM9r9W2poWyZK"
-        }
-      ],
-      "duration_ms": 417866,
-      "name": "Theme and Variations on the name Abegg, Op. 1: Abegg Variations, Op. 1",
-      "url": "https://open.spotify.com/track/10MXyf1e2wktLfzvHRHVGD"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
         "name": "Schumann: Kinderszenen; Kreisleriana; Waldszenen",
         "url": "https://open.spotify.com/album/7f9V9jwebM6tVDpItA1O8m"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 202986,
       "name": "Waldszenen, Op. 82: No. 7 Vogel als Prophet",
       "url": "https://open.spotify.com/track/41z9F9wr2JU7nAB7fMTOUq"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
+        "name": "Piano Recital: Kotaro Fukuma",
+        "url": "https://open.spotify.com/album/67NnX49VmU1rb1oQeJJPiH"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Kotaro Fukuma",
+          "url": "https://open.spotify.com/artist/2NXGOKB3pcM9r9W2poWyZK"
+        }
+      ],
+      "duration_ms": 417866,
+      "name": "Theme and Variations on the name Abegg, Op. 1: Abegg Variations, Op. 1",
+      "url": "https://open.spotify.com/track/10MXyf1e2wktLfzvHRHVGD"
     },
     {
       "added_at": "2022-11-04 13:17:00",
@@ -851,6 +851,34 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
+        "name": "Schumann: Cello Concerto; Piano Trio No. 1",
+        "url": "https://open.spotify.com/album/572k9YtrTjku07ed5jf8rH"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Jean-Guihen Queyras",
+          "url": "https://open.spotify.com/artist/2vXeB7c78tU2l7Mad2sjx8"
+        },
+        {
+          "name": "Freiburger Barockorchester",
+          "url": "https://open.spotify.com/artist/2fJKxKjBxD1X1NkkG78qai"
+        },
+        {
+          "name": "Pablo Heras-Casado",
+          "url": "https://open.spotify.com/artist/17QYL51GCUv2vKlQWGqvWp"
+        }
+      ],
+      "duration_ms": 475426,
+      "name": "Cello Concerto in A minor, op. 129: III. Finale vivace - Sehr Lebhaft",
+      "url": "https://open.spotify.com/track/01Q0yJSYeyoNFYxJXjWbQG"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
         "name": "Schumann: Frage",
         "url": "https://open.spotify.com/album/1PY3eZFiACssW8rfkG1qMu"
       },
@@ -891,34 +919,6 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
-        "name": "Schumann: Cello Concerto; Piano Trio No. 1",
-        "url": "https://open.spotify.com/album/572k9YtrTjku07ed5jf8rH"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Jean-Guihen Queyras",
-          "url": "https://open.spotify.com/artist/2vXeB7c78tU2l7Mad2sjx8"
-        },
-        {
-          "name": "Freiburger Barockorchester",
-          "url": "https://open.spotify.com/artist/2fJKxKjBxD1X1NkkG78qai"
-        },
-        {
-          "name": "Pablo Heras-Casado",
-          "url": "https://open.spotify.com/artist/17QYL51GCUv2vKlQWGqvWp"
-        }
-      ],
-      "duration_ms": 475426,
-      "name": "Cello Concerto in A minor, op. 129: III. Finale vivace - Sehr Lebhaft",
-      "url": "https://open.spotify.com/track/01Q0yJSYeyoNFYxJXjWbQG"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
         "name": "Schumann: Piano Quintet - String Quartets 1-3",
         "url": "https://open.spotify.com/album/0QXuIPV4wTatxg7ZmAvYBc"
       },
@@ -935,6 +935,26 @@
       "duration_ms": 460960,
       "name": "Schumann: Piano Quintet in E-Flat Major, Op. 44: IV. Allegro, ma non troppo",
       "url": "https://open.spotify.com/track/3bhbdUcr5UeEDYdzqjRLwi"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
+        "name": "Mussorgsky: Pictures at an Exhibition",
+        "url": "https://open.spotify.com/album/37F9lsM2rWGbSMLl6X3nNM"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Paul Lewis",
+          "url": "https://open.spotify.com/artist/4LYCuV8d6rylb6zjv2k03l"
+        }
+      ],
+      "duration_ms": 738560,
+      "name": "Fantasie in C Major, Op. 17: I. Durchaus phantastisch und leidenschaftlich vorzutragen - Im Legenden",
+      "url": "https://open.spotify.com/track/3VwB9QamFLmYcBTm7bNKOE"
     },
     {
       "added_at": "2022-11-04 13:17:00",
@@ -979,26 +999,6 @@
       "duration_ms": 374533,
       "name": "Presto passionato",
       "url": "https://open.spotify.com/track/4UpIfrd4UaEw94BDwjD516"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
-        "name": "Mussorgsky: Pictures at an Exhibition",
-        "url": "https://open.spotify.com/album/37F9lsM2rWGbSMLl6X3nNM"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Paul Lewis",
-          "url": "https://open.spotify.com/artist/4LYCuV8d6rylb6zjv2k03l"
-        }
-      ],
-      "duration_ms": 738560,
-      "name": "Fantasie in C Major, Op. 17: I. Durchaus phantastisch und leidenschaftlich vorzutragen - Im Legenden",
-      "url": "https://open.spotify.com/track/3VwB9QamFLmYcBTm7bNKOE"
     },
     {
       "added_at": "2022-11-04 13:17:00",
@@ -1171,30 +1171,6 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
-        "name": "Schumann: The 4 Symphonies; Overtures Opp.81 \"Genoveva\" & 115 \"Manfred\"",
-        "url": "https://open.spotify.com/album/0YY96s0OHD2X49Qb8TszSC"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Berliner Philharmoniker",
-          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
-        },
-        {
-          "name": "Rafael Kubel\u00edk",
-          "url": "https://open.spotify.com/artist/1JlF2VuyOSOasy8ZxCbD6C"
-        }
-      ],
-      "duration_ms": 427653,
-      "name": "Symphony No. 1 in B-Flat Major, Op. 38 \"Spring\": IV. Allegro animato e grazioso",
-      "url": "https://open.spotify.com/track/2qYu0I9yKKpGnbySmN6w3K"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
         "name": "Schumann: Missa sacra; 4 doppelch\u00f6rige Ges\u00e4nge",
         "url": "https://open.spotify.com/album/0hcRHKRzGfDrUmqOvVpPsC"
       },
@@ -1219,6 +1195,30 @@
       "duration_ms": 172186,
       "name": "Missa Sacra Op. 147: IV. Offertorium",
       "url": "https://open.spotify.com/track/01bUsrRqDL4L7UL2faL6VF"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
+        "name": "Schumann: The 4 Symphonies; Overtures Opp.81 \"Genoveva\" & 115 \"Manfred\"",
+        "url": "https://open.spotify.com/album/0YY96s0OHD2X49Qb8TszSC"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Rafael Kubel\u00edk",
+          "url": "https://open.spotify.com/artist/1JlF2VuyOSOasy8ZxCbD6C"
+        }
+      ],
+      "duration_ms": 427653,
+      "name": "Symphony No. 1 in B-Flat Major, Op. 38 \"Spring\": IV. Allegro animato e grazioso",
+      "url": "https://open.spotify.com/track/2qYu0I9yKKpGnbySmN6w3K"
     },
     {
       "added_at": "2022-11-04 13:17:00",

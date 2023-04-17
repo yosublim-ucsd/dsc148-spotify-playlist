@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 
 > Music from the award\-winning doc: The Black Power Mixtape 1967–1975.
 
-[Spotify](https://open.spotify.com/user/spotify) - 675,142 likes - 69 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 675,359 likes - 69 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,14 +36,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 | 26 | [Green Onions](https://open.spotify.com/track/6KKcey1w86oP0qxN8frbfD) | [Booker T\. & the M.G.'s](https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5) | [Green Onions / Behave Yourself](https://open.spotify.com/album/2kXlr7GzUOQxl3NLDF0DNe) | 2:47 |
 | 27 | [I Never Loved a Man \(The Way I Love You\)](https://open.spotify.com/track/1hES47PrbU8GPTI5A9lsr0) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [I Never Loved a Man the Way I Love You](https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V) | 2:51 |
 | 28 | [I'm Gonna Love You Just A Little More Baby](https://open.spotify.com/track/1QR3Wcba5NBidmxEE8DW3w) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [I've Got So Much To Give](https://open.spotify.com/album/0ldkrsBFHXhKHlynq8tJVI) | 7:11 |
-| 29 | [Be Thankful for What You Got \(Pt\. 1 & Pt\. 2\)](https://open.spotify.com/track/7pN8GMLw3prWFn5nvJRM6O) | [William DeVaughn](https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU) | [Be Thankful for What You Got](https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z) | 7:09 |
-| 30 | [I Was Made To Love Her](https://open.spotify.com/track/2aCKBrLn7rbhStk5k4FwnF) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [I Was Made To Love Her](https://open.spotify.com/album/6thSjE17RxW8tJFtLyXA3B) | 2:36 |
-| 31 | [Groove Me](https://open.spotify.com/track/1sG3M0yjIYweejCR9Amyh6) | [King Floyd](https://open.spotify.com/artist/03PCdNvkF81s7xHmtkNcoz) | [King Floyd](https://open.spotify.com/album/6r1VSCkbZaVj6FUhbh3aFQ) | 3:03 |
+| 29 | [Groove Me](https://open.spotify.com/track/1sG3M0yjIYweejCR9Amyh6) | [King Floyd](https://open.spotify.com/artist/03PCdNvkF81s7xHmtkNcoz) | [King Floyd](https://open.spotify.com/album/6r1VSCkbZaVj6FUhbh3aFQ) | 3:03 |
+| 30 | [Be Thankful for What You Got \(Pt\. 1 & Pt\. 2\)](https://open.spotify.com/track/7pN8GMLw3prWFn5nvJRM6O) | [William DeVaughn](https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU) | [Be Thankful for What You Got](https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z) | 7:09 |
+| 31 | [I Was Made To Love Her](https://open.spotify.com/track/2aCKBrLn7rbhStk5k4FwnF) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [I Was Made To Love Her](https://open.spotify.com/album/6thSjE17RxW8tJFtLyXA3B) | 2:36 |
 | 32 | [Didn't I \(Blow Your Mind This Time\)](https://open.spotify.com/track/1NeKY4qWsCnhY8fvhwQa7q) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Delfonics](https://open.spotify.com/album/6Ie6D0KslXxrbkOAr5sbyX) | 3:21 |
 | 33 | [What Becomes Of The Brokenhearted](https://open.spotify.com/track/0wBaPbJ2qsbGqgnGbqBDgP) | [Jimmy Ruffin](https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy) | [Sings Top Ten](https://open.spotify.com/album/5zRvMt37YxCPddq09ivuPV) | 2:58 |
 | 34 | [Hang On In There Baby](https://open.spotify.com/track/4RYNJVKgNpwSZguajVfsef) | [Johnny Bristol](https://open.spotify.com/artist/0F4yfY9manxJrgsfwbXdZa) | [Hang On In There Baby](https://open.spotify.com/album/6eoKjEg7UGE9ZeT3S3Q6Ix) | 3:53 |
-| 35 | [Your Precious Love](https://open.spotify.com/track/3uMJcNcxcp801NLwgYrj9k) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [United](https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE) | 3:07 |
-| 36 | [Supernatural Thing, Pt\. 1](https://open.spotify.com/track/62dhSmROhppvuWyeCeC730) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Supernatural Thing](https://open.spotify.com/album/69MJXfjEtAf2xpyNe4KIfD) | 4:11 |
+| 35 | [Supernatural Thing, Pt\. 1](https://open.spotify.com/track/62dhSmROhppvuWyeCeC730) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Supernatural Thing](https://open.spotify.com/album/69MJXfjEtAf2xpyNe4KIfD) | 4:11 |
+| 36 | [Your Precious Love](https://open.spotify.com/track/3uMJcNcxcp801NLwgYrj9k) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [United](https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE) | 3:07 |
 | 37 | [Smiling Faces Sometimes](https://open.spotify.com/track/5Vdg4tP25ffeGEC5GGmCwm) | [The Undisputed Truth](https://open.spotify.com/artist/2tkwWmcZOQPNbbIdknfBsw) | [The Undisputed Truth](https://open.spotify.com/album/0HHW9b70iZmfWNcFfjOFEz) | 3:18 |
 | 38 | [The Ghetto](https://open.spotify.com/track/1yeIxOEFmpQ3qlOb2R3g2m) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Everything Is Everything](https://open.spotify.com/album/7k89fD1BB2xQCibsPtSYyh) | 6:53 |
 | 39 | [Rainy Night in Georgia](https://open.spotify.com/track/2zbV4xRYLuElz4PWOXI5P7) | [Brook Benton](https://open.spotify.com/artist/2ttm3uT0N1RN7vwKv1pQgh) | [Brook Benton Today](https://open.spotify.com/album/5rEchSYf1EpZ0CxmwnRwKx) | 3:53 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 | 54 | [Freddie's Dead](https://open.spotify.com/track/2ouFIPC3O1HNBcVTw1d9AN) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Superfly: Deluxe 25th Anniversary Edition](https://open.spotify.com/album/5QuvlU7nCUZZJauMvhlWR4) | 5:29 |
 | 55 | [If You're Ready \(Come Go With Me\)](https://open.spotify.com/track/5eX6j2j6gfaXEryl54oIKZ) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [Be What You Are \(Reissue\)](https://open.spotify.com/album/2p7fRyRo0bvJtmAE8O8Lk7) | 4:27 |
 | 56 | [Who's Making Love](https://open.spotify.com/track/2DxX9x7Cmywikp14l1YUdk) | [Johnnie Taylor](https://open.spotify.com/artist/4OGuNAnRFWZOgOA2d51taz) | [Who's Making Love...](https://open.spotify.com/album/3ZCzcCgiSwoUB2czLBWmGJ) | 2:46 |
-| 57 | [Wish Someone Would Care](https://open.spotify.com/track/0EP7T1h041oiEfkNCqbST2) | [Irma Thomas](https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv) | [Super Blues, Vol.1](https://open.spotify.com/album/48MRLdjWTY8ycSSXC5OV67) | 2:19 |
-| 58 | [I Forgot To Be Your Lover](https://open.spotify.com/track/3a19dv4IRhGjkyvgdUxEDu) | [William Bell](https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR) | [The Man In The Street: The Complete Yellow Stax Solo Singles \(1968\-1974\)](https://open.spotify.com/album/0mRmuRVY94yZmwcItjpg5b) | 2:22 |
+| 57 | [I Forgot To Be Your Lover](https://open.spotify.com/track/3a19dv4IRhGjkyvgdUxEDu) | [William Bell](https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR) | [The Man In The Street: The Complete Yellow Stax Solo Singles \(1968\-1974\)](https://open.spotify.com/album/0mRmuRVY94yZmwcItjpg5b) | 2:22 |
+| 58 | [Wish Someone Would Care](https://open.spotify.com/track/0EP7T1h041oiEfkNCqbST2) | [Irma Thomas](https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv) | [Super Blues, Vol.1](https://open.spotify.com/album/48MRLdjWTY8ycSSXC5OV67) | 2:19 |
 | 59 | [See See Rider](https://open.spotify.com/track/1MW7hcqDWh0ODZA5hVunaO) | [LaVern Baker](https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw) | [See See Rider](https://open.spotify.com/album/4ngkRpyw98uagKb7lOlQ03) | 2:30 |
 | 60 | [One of a Kind \(Love Affair\)](https://open.spotify.com/track/3LV2CK8sJiYjg1bV1aHQop) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [Spinners](https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg) | 3:34 |
 | 61 | [Soul Man](https://open.spotify.com/track/0aebD8Phxpok5MG7pbwey5) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [Atlantic 60th: Soul, Sweat And Strut](https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD) | 2:36 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 | 68 | [Oh No Not My Baby](https://open.spotify.com/track/4BQwQ4XzsWT7yRZ3Sx1bFm) | [Maxine Brown](https://open.spotify.com/artist/1kCqTUSrWJEHZm2GSpRuMV) | [Super Hits](https://open.spotify.com/album/53lp2W57Y52Ln5RmRHjW6k) | 2:37 |
 | 69 | [Hurt so Bad \(Rerecorded\)](https://open.spotify.com/track/3qY8Ni73Tx4mJXASDmBWJN) | [Little Anthony & The Imperials](https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V) | [100 Hits of the Swingin' 60's](https://open.spotify.com/album/36QisDW5zB4phHrXOzE60V) | 2:17 |
 
-Snapshot ID: `MTY2OTcyMDkzNSwwMDAwMDAwMDQ1MDYzOTliODc1NGM3YTk3NGI0ZWJhMjg1MTI0MjNh`
+Snapshot ID: `MTY2OTcyMDkzNSwwMDAwMDAwMDYzNGIzNjNlYTVhYTBiMTQ2YTU1N2VlNDA2MzRhMjE0`

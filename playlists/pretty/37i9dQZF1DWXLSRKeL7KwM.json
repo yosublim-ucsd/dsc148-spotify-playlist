@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 344346,
+  "num_followers": 344669,
   "original_name": "Energy Booster: Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDAyMDYwMywwMDAwMDAwMGVmZjdlM2Y3ZmU2YWU5NDEwMTFkZjhlMzFlNTg4YWY5",
+  "snapshot_id": "MTY4MDAyMDYwMywwMDAwMDAwMDRkZTVkZWJkMDZlNTkzMGFhYTIwNTI5OGQ1MGNiMDBk",
   "tracks": [
     {
       "added_at": "2023-03-28 16:23:23",
@@ -295,6 +295,22 @@
     {
       "added_at": "2023-03-28 16:23:23",
       "album": {
+        "name": "Barefoot Blue Jean Night",
+        "url": "https://open.spotify.com/album/4GeJssW5iLOSLOIXhLfOUJ"
+      },
+      "artists": [
+        {
+          "name": "Jake Owen",
+          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
+        }
+      ],
+      "duration_ms": 167426,
+      "name": "Barefoot Blue Jean Night",
+      "url": "https://open.spotify.com/track/3ts6xK5GzfMAAriT9AIBmP"
+    },
+    {
+      "added_at": "2023-03-28 16:23:23",
+      "album": {
         "name": "Kane Brown",
         "url": "https://open.spotify.com/album/4hhvgHjPqUOAYkclDkhL2T"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 188253,
       "name": "What Ifs (feat. Lauren Alaina)",
       "url": "https://open.spotify.com/track/7zVCrzzEJU7u24sbJPXA5W"
-    },
-    {
-      "added_at": "2023-03-28 16:23:23",
-      "album": {
-        "name": "A ROCK",
-        "url": "https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 217801,
-      "name": "GIVE HEAVEN SOME HELL",
-      "url": "https://open.spotify.com/track/2bVeUlOC5JjTpkQXuUUoYm"
     },
     {
       "added_at": "2023-03-28 16:23:23",
@@ -379,18 +379,18 @@
     {
       "added_at": "2023-03-28 16:23:23",
       "album": {
-        "name": "Barefoot Blue Jean Night",
-        "url": "https://open.spotify.com/album/4GeJssW5iLOSLOIXhLfOUJ"
+        "name": "A ROCK",
+        "url": "https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ"
       },
       "artists": [
         {
-          "name": "Jake Owen",
-          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 167426,
-      "name": "Barefoot Blue Jean Night",
-      "url": "https://open.spotify.com/track/3ts6xK5GzfMAAriT9AIBmP"
+      "duration_ms": 217801,
+      "name": "GIVE HEAVEN SOME HELL",
+      "url": "https://open.spotify.com/track/2bVeUlOC5JjTpkQXuUUoYm"
     },
     {
       "added_at": "2023-03-28 16:23:23",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-03-28 16:23:23",
       "album": {
-        "name": "Four The Record",
-        "url": "https://open.spotify.com/album/1Pv6Znx8kGygusP4fqBD7m"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 177773,
-      "name": "Mama's Broken Heart",
-      "url": "https://open.spotify.com/track/2mXsZsJBThTaJXbNcg5QD4"
-    },
-    {
-      "added_at": "2023-03-28 16:23:23",
-      "album": {
         "name": "Learn To Live",
         "url": "https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 231920,
       "name": "Alright",
       "url": "https://open.spotify.com/track/5JlH51YDYsGj2dyEJKKjcN"
+    },
+    {
+      "added_at": "2023-03-28 16:23:23",
+      "album": {
+        "name": "Four The Record",
+        "url": "https://open.spotify.com/album/1Pv6Znx8kGygusP4fqBD7m"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 177773,
+      "name": "Mama's Broken Heart",
+      "url": "https://open.spotify.com/track/2mXsZsJBThTaJXbNcg5QD4"
     },
     {
       "added_at": "2023-03-28 16:23:23",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-03-28 16:23:23",
       "album": {
-        "name": "Golden Road",
-        "url": "https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 323040,
-      "name": "Somebody Like You",
-      "url": "https://open.spotify.com/track/0b9djfiuDIMw1zKH6gV74g"
-    },
-    {
-      "added_at": "2023-03-28 16:23:23",
-      "album": {
         "name": "RISER",
         "url": "https://open.spotify.com/album/5FoxaIGIRuXsbhZhwdfknU"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 254466,
       "name": "Drunk On A Plane",
       "url": "https://open.spotify.com/track/1soxUgYIZb1qx1c7o1Lc7z"
+    },
+    {
+      "added_at": "2023-03-28 16:23:23",
+      "album": {
+        "name": "Golden Road",
+        "url": "https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 323040,
+      "name": "Somebody Like You",
+      "url": "https://open.spotify.com/track/0b9djfiuDIMw1zKH6gV74g"
     },
     {
       "added_at": "2023-03-28 16:23:23",
@@ -675,26 +675,6 @@
     {
       "added_at": "2023-03-28 16:23:23",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN"
-      },
-      "artists": [
-        {
-          "name": "Parmalee",
-          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
-        },
-        {
-          "name": "Blanco Brown",
-          "url": "https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i"
-        }
-      ],
-      "duration_ms": 193880,
-      "name": "Just the Way",
-      "url": "https://open.spotify.com/track/3FE6cfCDhmhOraeSLPe6Vj"
-    },
-    {
-      "added_at": "2023-03-28 16:23:23",
-      "album": {
         "name": "How Country Feels",
         "url": "https://open.spotify.com/album/4BVzcXLDJ8pRtJttQiU3G6"
       },
@@ -711,18 +691,22 @@
     {
       "added_at": "2023-03-28 16:23:23",
       "album": {
-        "name": "Dierks Bentley",
-        "url": "https://open.spotify.com/album/2yeODPn8igz9qQiitOZRyJ"
+        "name": "For You",
+        "url": "https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN"
       },
       "artists": [
         {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+          "name": "Parmalee",
+          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
+        },
+        {
+          "name": "Blanco Brown",
+          "url": "https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i"
         }
       ],
-      "duration_ms": 260826,
-      "name": "What Was I Thinkin'",
-      "url": "https://open.spotify.com/track/0r8iDf65NHgFgZOGLwj5r8"
+      "duration_ms": 193880,
+      "name": "Just the Way",
+      "url": "https://open.spotify.com/track/3FE6cfCDhmhOraeSLPe6Vj"
     },
     {
       "added_at": "2023-03-28 16:23:23",
@@ -775,6 +759,22 @@
     {
       "added_at": "2023-03-28 16:23:23",
       "album": {
+        "name": "Dierks Bentley",
+        "url": "https://open.spotify.com/album/2yeODPn8igz9qQiitOZRyJ"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        }
+      ],
+      "duration_ms": 260826,
+      "name": "What Was I Thinkin'",
+      "url": "https://open.spotify.com/track/0r8iDf65NHgFgZOGLwj5r8"
+    },
+    {
+      "added_at": "2023-03-28 16:23:23",
+      "album": {
         "name": "Dig Your Roots",
         "url": "https://open.spotify.com/album/09KOjaflTBRE28GVvXqkYC"
       },
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-03-28 16:23:23",
       "album": {
-        "name": "Honeysuckle & Lightning Bugs",
-        "url": "https://open.spotify.com/album/4dwNsmLLMl2F4xM5rWfHmj"
-      },
-      "artists": [
-        {
-          "name": "Blanco Brown",
-          "url": "https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i"
-        }
-      ],
-      "duration_ms": 200593,
-      "name": "The Git Up",
-      "url": "https://open.spotify.com/track/2KKijf6Ett4kmVNJze2roh"
-    },
-    {
-      "added_at": "2023-03-28 16:23:23",
-      "album": {
         "name": "Up All Night",
         "url": "https://open.spotify.com/album/191BU6Uvnf7oNTjO4n36Yu"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 213826,
       "name": "Somethin' 'Bout A Truck",
       "url": "https://open.spotify.com/track/6Ymvlzom4TQeoKqAWsZRD8"
+    },
+    {
+      "added_at": "2023-03-28 16:23:23",
+      "album": {
+        "name": "Honeysuckle & Lightning Bugs",
+        "url": "https://open.spotify.com/album/4dwNsmLLMl2F4xM5rWfHmj"
+      },
+      "artists": [
+        {
+          "name": "Blanco Brown",
+          "url": "https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i"
+        }
+      ],
+      "duration_ms": 200593,
+      "name": "The Git Up",
+      "url": "https://open.spotify.com/track/2KKijf6Ett4kmVNJze2roh"
     },
     {
       "added_at": "2023-03-28 16:23:23",
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-03-28 16:23:23",
       "album": {
+        "name": "Life At Best",
+        "url": "https://open.spotify.com/album/7DYy5TiODoqnZbZ2o6KcmV"
+      },
+      "artists": [
+        {
+          "name": "Eli Young Band",
+          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
+        }
+      ],
+      "duration_ms": 220520,
+      "name": "Even If It Breaks Your Heart",
+      "url": "https://open.spotify.com/track/0Nu9WA8kEbBWEsay2s8Q0U"
+    },
+    {
+      "added_at": "2023-03-28 16:23:23",
+      "album": {
         "name": "One Too Many",
         "url": "https://open.spotify.com/album/5j5ngp5GBH7zW3RhHljRK9"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 203893,
       "name": "One Too Many",
       "url": "https://open.spotify.com/track/5NUXE8W12lWcUXgJRCjeEw"
-    },
-    {
-      "added_at": "2023-03-28 16:23:23",
-      "album": {
-        "name": "Life At Best",
-        "url": "https://open.spotify.com/album/7DYy5TiODoqnZbZ2o6KcmV"
-      },
-      "artists": [
-        {
-          "name": "Eli Young Band",
-          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
-        }
-      ],
-      "duration_ms": 220520,
-      "name": "Even If It Breaks Your Heart",
-      "url": "https://open.spotify.com/track/0Nu9WA8kEbBWEsay2s8Q0U"
     },
     {
       "added_at": "2023-03-28 16:23:23",
@@ -963,6 +963,22 @@
     {
       "added_at": "2023-03-28 16:23:23",
       "album": {
+        "name": "Cole Swindell",
+        "url": "https://open.spotify.com/album/2mlPEYhK1KwDD45CCCWxaH"
+      },
+      "artists": [
+        {
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        }
+      ],
+      "duration_ms": 196746,
+      "name": "Chillin' It",
+      "url": "https://open.spotify.com/track/0Utg7sirTPqrs6Cx0FbriQ"
+    },
+    {
+      "added_at": "2023-03-28 16:23:23",
+      "album": {
         "name": "How Country Feels",
         "url": "https://open.spotify.com/album/4BVzcXLDJ8pRtJttQiU3G6"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 196160,
       "name": "Wine, Beer, Whiskey",
       "url": "https://open.spotify.com/track/5avVDmK9FVJpd3MDO8I3Zl"
-    },
-    {
-      "added_at": "2023-03-28 16:23:23",
-      "album": {
-        "name": "Skeletons",
-        "url": "https://open.spotify.com/album/0OA03FrXlln4FvE30LaEXR"
-      },
-      "artists": [
-        {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
-        }
-      ],
-      "duration_ms": 172106,
-      "name": "I'm Not For Everyone",
-      "url": "https://open.spotify.com/track/143YESFOZqxVGrKEWisbid"
     },
     {
       "added_at": "2023-03-28 16:23:23",
@@ -1047,38 +1047,34 @@
     {
       "added_at": "2023-03-28 16:23:23",
       "album": {
-        "name": "Cole Swindell",
-        "url": "https://open.spotify.com/album/2mlPEYhK1KwDD45CCCWxaH"
+        "name": "Skeletons",
+        "url": "https://open.spotify.com/album/0OA03FrXlln4FvE30LaEXR"
       },
       "artists": [
         {
-          "name": "Cole Swindell",
-          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
         }
       ],
-      "duration_ms": 196746,
-      "name": "Chillin' It",
-      "url": "https://open.spotify.com/track/0Utg7sirTPqrs6Cx0FbriQ"
+      "duration_ms": 172106,
+      "name": "I'm Not For Everyone",
+      "url": "https://open.spotify.com/track/143YESFOZqxVGrKEWisbid"
     },
     {
       "added_at": "2023-03-28 16:23:23",
       "album": {
-        "name": "Based on a True Story... (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6MzrSTAQdDR92tHLLAhYp0"
+        "name": "Red River Blue (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1WXCjIDp84rJN6Sa1Um9kJ"
       },
       "artists": [
         {
           "name": "Blake Shelton",
           "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        },
-        {
-          "name": "Pistol Annies",
-          "url": "https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny"
         }
       ],
-      "duration_ms": 288760,
-      "name": "Boys 'Round Here (feat. Pistol Annies & Friends)",
-      "url": "https://open.spotify.com/track/39FwE8edwuyiaa4PrGBkP7"
+      "duration_ms": 210720,
+      "name": "Honey Bee",
+      "url": "https://open.spotify.com/track/0gY2iq0xJPRoIB1PScKSw4"
     },
     {
       "added_at": "2023-03-28 16:23:23",
@@ -1119,22 +1115,6 @@
     {
       "added_at": "2023-03-28 16:23:23",
       "album": {
-        "name": "Pawn Shop",
-        "url": "https://open.spotify.com/album/6BId6JLmkyr9QC81RdUWqT"
-      },
-      "artists": [
-        {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
-        }
-      ],
-      "duration_ms": 335480,
-      "name": "Stay A Little Longer",
-      "url": "https://open.spotify.com/track/23EkfwUdsRIz7jAZIcC8gb"
-    },
-    {
-      "added_at": "2023-03-28 16:23:23",
-      "album": {
         "name": "The Mountain",
         "url": "https://open.spotify.com/album/45fVgJb5lmzatX9VZ4yzSO"
       },
@@ -1155,34 +1135,54 @@
     {
       "added_at": "2023-03-28 16:23:23",
       "album": {
-        "name": "Unapologetically (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
+        "name": "Anything Goes",
+        "url": "https://open.spotify.com/album/5NG7WZaCZZ12M5LJm0JcVc"
       },
       "artists": [
         {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
         }
       ],
-      "duration_ms": 192840,
-      "name": "Miss Me More",
-      "url": "https://open.spotify.com/track/5NfJGBAL9mgFPRQxKJmiX2"
+      "duration_ms": 218866,
+      "name": "Anything Goes",
+      "url": "https://open.spotify.com/track/46ZfPS5VpSQVU5gb82hg3K"
     },
     {
       "added_at": "2023-03-28 16:23:23",
       "album": {
-        "name": "Red River Blue (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1WXCjIDp84rJN6Sa1Um9kJ"
+        "name": "Pawn Shop",
+        "url": "https://open.spotify.com/album/6BId6JLmkyr9QC81RdUWqT"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "duration_ms": 335480,
+      "name": "Stay A Little Longer",
+      "url": "https://open.spotify.com/track/23EkfwUdsRIz7jAZIcC8gb"
+    },
+    {
+      "added_at": "2023-03-28 16:23:23",
+      "album": {
+        "name": "Based on a True Story... (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6MzrSTAQdDR92tHLLAhYp0"
       },
       "artists": [
         {
           "name": "Blake Shelton",
           "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        },
+        {
+          "name": "Pistol Annies",
+          "url": "https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny"
         }
       ],
-      "duration_ms": 210720,
-      "name": "Honey Bee",
-      "url": "https://open.spotify.com/track/0gY2iq0xJPRoIB1PScKSw4"
+      "duration_ms": 288760,
+      "name": "Boys 'Round Here (feat. Pistol Annies & Friends)",
+      "url": "https://open.spotify.com/track/39FwE8edwuyiaa4PrGBkP7"
     },
     {
       "added_at": "2023-03-28 16:23:23",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2023-03-28 16:23:23",
       "album": {
-        "name": "Anything Goes",
-        "url": "https://open.spotify.com/album/5NG7WZaCZZ12M5LJm0JcVc"
+        "name": "Unapologetically (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
       },
       "artists": [
         {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 218866,
-      "name": "Anything Goes",
-      "url": "https://open.spotify.com/track/46ZfPS5VpSQVU5gb82hg3K"
+      "duration_ms": 192840,
+      "name": "Miss Me More",
+      "url": "https://open.spotify.com/track/5NfJGBAL9mgFPRQxKJmiX2"
     },
     {
       "added_at": "2023-03-28 16:23:23",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-03-28 16:23:23",
       "album": {
-        "name": "Pawn Shop",
-        "url": "https://open.spotify.com/album/6BId6JLmkyr9QC81RdUWqT"
-      },
-      "artists": [
-        {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
-        }
-      ],
-      "duration_ms": 216800,
-      "name": "It Ain't My Fault",
-      "url": "https://open.spotify.com/track/08wJ1B9yu9sPeoRa5fbpr3"
-    },
-    {
-      "added_at": "2023-03-28 16:23:23",
-      "album": {
         "name": "Cold Beer Calling My Name",
         "url": "https://open.spotify.com/album/3sRPj5WMTrlTy2vTJW3BKx"
       },
@@ -1315,26 +1299,6 @@
       "duration_ms": 210480,
       "name": "Cold Beer Calling My Name",
       "url": "https://open.spotify.com/track/3dV1fjKOlLnaNK5MeZHXGv"
-    },
-    {
-      "added_at": "2023-03-28 16:23:23",
-      "album": {
-        "name": "Bettie James",
-        "url": "https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Allen",
-          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
-        },
-        {
-          "name": "Brad Paisley",
-          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
-        }
-      ],
-      "duration_ms": 212720,
-      "name": "Freedom Was A Highway",
-      "url": "https://open.spotify.com/track/3J5jotqUAjU479WhAiNkpU"
     },
     {
       "added_at": "2023-03-28 16:23:23",
@@ -1359,6 +1323,42 @@
       "duration_ms": 173173,
       "name": "ONE BEER (feat. Lauren Alaina & Devin Dawson)",
       "url": "https://open.spotify.com/track/5FmvaZGd6fulojSToozLRD"
+    },
+    {
+      "added_at": "2023-03-28 16:23:23",
+      "album": {
+        "name": "Pawn Shop",
+        "url": "https://open.spotify.com/album/6BId6JLmkyr9QC81RdUWqT"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "duration_ms": 216800,
+      "name": "It Ain't My Fault",
+      "url": "https://open.spotify.com/track/08wJ1B9yu9sPeoRa5fbpr3"
+    },
+    {
+      "added_at": "2023-03-28 16:23:23",
+      "album": {
+        "name": "Bettie James",
+        "url": "https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+        },
+        {
+          "name": "Brad Paisley",
+          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
+        }
+      ],
+      "duration_ms": 212720,
+      "name": "Freedom Was A Highway",
+      "url": "https://open.spotify.com/track/3J5jotqUAjU479WhAiNkpU"
     },
     {
       "added_at": "2023-03-28 16:23:23",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2023-03-28 16:23:23",
       "album": {
-        "name": "Road Less Traveled",
-        "url": "https://open.spotify.com/album/296hswDnxvymjboFBxvmI5"
+        "name": "Things That We Drink To",
+        "url": "https://open.spotify.com/album/7CgrejBVsP6OeA3WgxDPPc"
       },
       "artists": [
         {
-          "name": "Lauren Alaina",
-          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
+          "name": "Morgan Evans",
+          "url": "https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS"
         }
       ],
-      "duration_ms": 216266,
-      "name": "Road Less Traveled",
-      "url": "https://open.spotify.com/track/4nxgA1nvXvTkmsBY0vJV57"
+      "duration_ms": 213183,
+      "name": "Kiss Somebody",
+      "url": "https://open.spotify.com/track/4f3fb3alVLFc8Ga4ncpg7x"
     },
     {
       "added_at": "2023-03-28 16:23:23",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2023-03-28 16:23:23",
       "album": {
-        "name": "Things That We Drink To",
-        "url": "https://open.spotify.com/album/7CgrejBVsP6OeA3WgxDPPc"
+        "name": "Road Less Traveled",
+        "url": "https://open.spotify.com/album/296hswDnxvymjboFBxvmI5"
       },
       "artists": [
         {
-          "name": "Morgan Evans",
-          "url": "https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS"
+          "name": "Lauren Alaina",
+          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
         }
       ],
-      "duration_ms": 213183,
-      "name": "Kiss Somebody",
-      "url": "https://open.spotify.com/track/4f3fb3alVLFc8Ga4ncpg7x"
+      "duration_ms": 216266,
+      "name": "Road Less Traveled",
+      "url": "https://open.spotify.com/track/4nxgA1nvXvTkmsBY0vJV57"
     },
     {
       "added_at": "2023-03-28 16:23:23",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2023-03-28 16:23:23",
       "album": {
+        "name": "Bring You Back",
+        "url": "https://open.spotify.com/album/7weU5IWFfeueNG5V68CTTT"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        }
+      ],
+      "duration_ms": 181209,
+      "name": "Don't Ya",
+      "url": "https://open.spotify.com/track/3Qe097eJNp9MfpT2PieEw0"
+    },
+    {
+      "added_at": "2023-03-28 16:23:23",
+      "album": {
         "name": "Throw It Back (feat. Keith Urban)",
         "url": "https://open.spotify.com/album/56rScV2lFznLUGxqYYwUpo"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 188936,
       "name": "Throw It Back (feat. Keith Urban)",
       "url": "https://open.spotify.com/track/4BLiRJdtn8jwUVtvbHIv2T"
-    },
-    {
-      "added_at": "2023-03-28 16:23:23",
-      "album": {
-        "name": "Bring You Back",
-        "url": "https://open.spotify.com/album/7weU5IWFfeueNG5V68CTTT"
-      },
-      "artists": [
-        {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
-        }
-      ],
-      "duration_ms": 181209,
-      "name": "Don't Ya",
-      "url": "https://open.spotify.com/track/3Qe097eJNp9MfpT2PieEw0"
     },
     {
       "added_at": "2023-03-28 16:23:23",
@@ -2111,22 +2111,6 @@
     {
       "added_at": "2023-03-28 16:23:23",
       "album": {
-        "name": "Hooch",
-        "url": "https://open.spotify.com/album/67IjZYUfyKX6LLLgzZYThB"
-      },
-      "artists": [
-        {
-          "name": "Drew Green",
-          "url": "https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP"
-        }
-      ],
-      "duration_ms": 144997,
-      "name": "Hooch",
-      "url": "https://open.spotify.com/track/16zKFMyWWEy6eo0L1ez59R"
-    },
-    {
-      "added_at": "2023-03-28 16:23:23",
-      "album": {
         "name": "Current Mood",
         "url": "https://open.spotify.com/album/23cuZhPWDfX1uKD4qwuv7t"
       },
@@ -2139,6 +2123,22 @@
       "duration_ms": 185706,
       "name": "I'd Be Jealous Too",
       "url": "https://open.spotify.com/track/7rdK9NSJIRBZAiXC0vuBS9"
+    },
+    {
+      "added_at": "2023-03-28 16:23:23",
+      "album": {
+        "name": "Hooch",
+        "url": "https://open.spotify.com/album/67IjZYUfyKX6LLLgzZYThB"
+      },
+      "artists": [
+        {
+          "name": "Drew Green",
+          "url": "https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP"
+        }
+      ],
+      "duration_ms": 144997,
+      "name": "Hooch",
+      "url": "https://open.spotify.com/track/16zKFMyWWEy6eo0L1ez59R"
     },
     {
       "added_at": "2023-03-28 16:23:23",
@@ -2271,6 +2271,22 @@
     {
       "added_at": "2023-03-28 16:23:23",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/51G8SmLrrbgrlBaUXUCBQ3"
+      },
+      "artists": [
+        {
+          "name": "Gretchen Wilson",
+          "url": "https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF"
+        }
+      ],
+      "duration_ms": 215920,
+      "name": "Redneck Woman",
+      "url": "https://open.spotify.com/track/5pQtfVIaQvINzl0XIGKNrC"
+    },
+    {
+      "added_at": "2023-03-28 16:23:23",
+      "album": {
         "name": "Found It In You",
         "url": "https://open.spotify.com/album/2VFCN1WQ0qPZydQY2E2YnI"
       },
@@ -2307,22 +2323,6 @@
       "duration_ms": 176533,
       "name": "Beer With My Friends (feat. Cole Swindell and David Lee Murphy)",
       "url": "https://open.spotify.com/track/5YsPrfAtcCzMIc4BHTsxP5"
-    },
-    {
-      "added_at": "2023-03-28 16:23:23",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/51G8SmLrrbgrlBaUXUCBQ3"
-      },
-      "artists": [
-        {
-          "name": "Gretchen Wilson",
-          "url": "https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF"
-        }
-      ],
-      "duration_ms": 215920,
-      "name": "Redneck Woman",
-      "url": "https://open.spotify.com/track/5pQtfVIaQvINzl0XIGKNrC"
     },
     {
       "added_at": "2023-03-28 16:23:23",

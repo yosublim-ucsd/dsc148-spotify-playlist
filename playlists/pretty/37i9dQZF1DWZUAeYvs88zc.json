@@ -1,12 +1,12 @@
 {
   "description": "For all of us dancing on our own.",
-  "num_followers": 527664,
+  "num_followers": 527890,
   "original_name": "Sad Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDk3MjI0NSwwMDAwMDAwMDg1YTIyOWZjNzM1Y2M1NDBiYTYyZjViNzBjZmY3MDc4",
+  "snapshot_id": "MTY4MDk3MjI0NSwwMDAwMDAwMDY0NThhYzlkNjcyZDc4MDAzNWMxYmQwNDcyZTVlMmY4",
   "tracks": [
     {
       "added_at": "2023-04-08 16:44:05",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-04-08 16:44:05",
       "album": {
-        "name": "Telepath",
-        "url": "https://open.spotify.com/album/6npBFQje5ZenFSLErcNflE"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 194973,
-      "name": "Telepath",
-      "url": "https://open.spotify.com/track/3Z39gbqdaGL3WJXBG0gcuE"
-    },
-    {
-      "added_at": "2023-04-08 16:44:05",
-      "album": {
         "name": "Pang",
         "url": "https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 183861,
       "name": "So Hot You're Hurting My Feelings",
       "url": "https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT"
+    },
+    {
+      "added_at": "2023-04-08 16:44:05",
+      "album": {
+        "name": "Telepath",
+        "url": "https://open.spotify.com/album/6npBFQje5ZenFSLErcNflE"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 194973,
+      "name": "Telepath",
+      "url": "https://open.spotify.com/track/3Z39gbqdaGL3WJXBG0gcuE"
     },
     {
       "added_at": "2023-04-08 16:44:05",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-04-08 16:44:05",
       "album": {
-        "name": "Hopeless Romantic",
-        "url": "https://open.spotify.com/album/0sKJKrBhK5gYDdN39fLYb2"
-      },
-      "artists": [
-        {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
-        }
-      ],
-      "duration_ms": 181178,
-      "name": "Hopeless Romantic",
-      "url": "https://open.spotify.com/track/22VPpAWB7qzV8L9rgza11j"
-    },
-    {
-      "added_at": "2023-04-08 16:44:05",
-      "album": {
         "name": "rubberband",
         "url": "https://open.spotify.com/album/3CWYvhScPEskXPOYiXG8SH"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 147713,
       "name": "rubberband",
       "url": "https://open.spotify.com/track/05ABOPiW13nqIedJfqmfPM"
+    },
+    {
+      "added_at": "2023-04-08 16:44:05",
+      "album": {
+        "name": "Hopeless Romantic",
+        "url": "https://open.spotify.com/album/0sKJKrBhK5gYDdN39fLYb2"
+      },
+      "artists": [
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        }
+      ],
+      "duration_ms": 181178,
+      "name": "Hopeless Romantic",
+      "url": "https://open.spotify.com/track/22VPpAWB7qzV8L9rgza11j"
     },
     {
       "added_at": "2023-04-08 16:44:05",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-04-08 16:44:05",
       "album": {
-        "name": "The Loneliest Time",
-        "url": "https://open.spotify.com/album/3l2Gi0hMjZV2uvKoWlFkoQ"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 173200,
-      "name": "Talking to Yourself",
-      "url": "https://open.spotify.com/track/7I7Dk8FOkZqhqZp9N2RKiP"
-    },
-    {
-      "added_at": "2023-04-08 16:44:05",
-      "album": {
         "name": "Can't Do Better",
         "url": "https://open.spotify.com/album/4XovGKPffxorW8SRdo5Mwc"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 244120,
       "name": "Dancing with Tears in My Eyes",
       "url": "https://open.spotify.com/track/3or3oEITvJmMwZRYeWSaen"
+    },
+    {
+      "added_at": "2023-04-08 16:44:05",
+      "album": {
+        "name": "The Loneliest Time",
+        "url": "https://open.spotify.com/album/3l2Gi0hMjZV2uvKoWlFkoQ"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 173200,
+      "name": "Talking to Yourself",
+      "url": "https://open.spotify.com/track/7I7Dk8FOkZqhqZp9N2RKiP"
     },
     {
       "added_at": "2023-04-08 16:44:05",
@@ -1031,26 +1031,6 @@
       "duration_ms": 243186,
       "name": "Happy & Sad",
       "url": "https://open.spotify.com/track/04MoJkJzCoU9ukeewv5Vzu"
-    },
-    {
-      "added_at": "2023-04-08 16:44:05",
-      "album": {
-        "name": "The Loneliest Time",
-        "url": "https://open.spotify.com/album/3l2Gi0hMjZV2uvKoWlFkoQ"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        },
-        {
-          "name": "Rufus Wainwright",
-          "url": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
-        }
-      ],
-      "duration_ms": 274506,
-      "name": "The Loneliest Time (feat. Rufus Wainwright)",
-      "url": "https://open.spotify.com/track/6c6vULMrRuN4NECs2iB1xe"
     },
     {
       "added_at": "2023-04-08 16:44:05",
@@ -1131,6 +1111,26 @@
       "duration_ms": 184640,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/2Gs2mHNQF2Lt7a9iIarcji"
+    },
+    {
+      "added_at": "2023-04-08 16:44:05",
+      "album": {
+        "name": "The Loneliest Time",
+        "url": "https://open.spotify.com/album/3l2Gi0hMjZV2uvKoWlFkoQ"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        },
+        {
+          "name": "Rufus Wainwright",
+          "url": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
+        }
+      ],
+      "duration_ms": 274506,
+      "name": "The Loneliest Time (feat. Rufus Wainwright)",
+      "url": "https://open.spotify.com/track/6c6vULMrRuN4NECs2iB1xe"
     },
     {
       "added_at": "2023-04-08 16:44:05",

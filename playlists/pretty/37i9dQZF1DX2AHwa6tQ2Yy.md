@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 
 > Let the music flow through you...
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,195 likes - 70 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,239 likes - 70 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,17 +51,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 41 | [Stay High \- Childish Gambino Version](https://open.spotify.com/track/6LmNmPxViPRou1YAvyg1OS) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Jaime \(Reimagined\)](https://open.spotify.com/album/5FwiNeZyBHQXH1ppbXqxe0) | 3:38 |
 | 42 | [Tell You Not To Worry](https://open.spotify.com/track/4Iq3jFY8xrsnE3MvFIAP33) | [The Meltdown](https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf) | [It's A Long Road](https://open.spotify.com/album/6apSXr9z4mOLNrFYkeT6Sa) | 4:42 |
 | 43 | [Reelin'](https://open.spotify.com/track/0pZrbb5wNwxRA3mqsl1SWN) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Everything's Fine](https://open.spotify.com/album/2OOTl13Kx9KxMF1ESG2u58) | 3:28 |
-| 44 | [Thinking Too Much](https://open.spotify.com/track/7ES4KuLdHnkBRFqWsQua8r) | [TOI](https://open.spotify.com/artist/6AdX4TgEt0fYWoRqvHi81A) | [Thinking Too Much](https://open.spotify.com/album/5gQlfc5Uk8txY9bAH0TIaQ) | 3:28 |
+| 44 | [First Time](https://open.spotify.com/track/69WrRBXGKP70NqXNOf8NIw) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [Something To Feel](https://open.spotify.com/album/4vB6GN9VFxZU1mtBYlc3Ph) | 5:09 |
 | 45 | [Spider](https://open.spotify.com/track/2yfozOE8IyeOz8NLqmU0OT) | [Dallas Tamaira](https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt) | [Spider](https://open.spotify.com/album/6BLGrbjxYgMxugvnOJLfxx) | 2:54 |
-| 46 | [First Time](https://open.spotify.com/track/69WrRBXGKP70NqXNOf8NIw) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [Something To Feel](https://open.spotify.com/album/4vB6GN9VFxZU1mtBYlc3Ph) | 5:09 |
+| 46 | [Thinking Too Much](https://open.spotify.com/track/7ES4KuLdHnkBRFqWsQua8r) | [TOI](https://open.spotify.com/artist/6AdX4TgEt0fYWoRqvHi81A) | [Thinking Too Much](https://open.spotify.com/album/5gQlfc5Uk8txY9bAH0TIaQ) | 3:28 |
 | 47 | [I Won't Let You Down](https://open.spotify.com/track/32L9L0Hg4skEWlog49n1a3) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [I Won't Let You Down](https://open.spotify.com/album/0MTBD4WKIES8BkS8rfSKnp) | 4:04 |
 | 48 | [Deja Vu](https://open.spotify.com/track/3oPE1YX2dgGqU7e0eJTqnG) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY) | [Deja Vu](https://open.spotify.com/album/6y305wH4wMtb2t1kJt6894) | 3:06 |
 | 49 | [This Will Be Our Year](https://open.spotify.com/track/2oy3hJGwD5aJSlFy4OnAkL) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [This Will Be Our Year](https://open.spotify.com/album/1aunApiIbz5beHK7ty68bT) | 2:37 |
 | 50 | [Falling in Love Again](https://open.spotify.com/track/6N0ViJHgMFaUt5TGXQizmn) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [Tomorrow's Gonna Come](https://open.spotify.com/album/7v8VvueBjcukRvpMU0wxF0) | 3:50 |
 | 51 | [No Flowers](https://open.spotify.com/track/5NOViHpW9RmHc2HQKxewyb) | [Dallas Tamaira](https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt) | [No Flowers](https://open.spotify.com/album/4AVeqsCo8ewXf9uN3IF9gs) | 3:04 |
 | 52 | [Hold On](https://open.spotify.com/track/0zcRUprLKw7LtndkBurb3S) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Hold On](https://open.spotify.com/album/3WWfApLKg76DOgntZABET6) | 3:23 |
-| 53 | [bend yr ear](https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Like Neptune](https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB) | 3:53 |
-| 54 | [Ease Up](https://open.spotify.com/track/4ykxlLzlR2B7OhpkPBMhUW) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Most Wanted \(Deluxe\)](https://open.spotify.com/album/46fxxm1oHMPzR51GElXrAt) | 3:41 |
+| 53 | [Ease Up](https://open.spotify.com/track/4ykxlLzlR2B7OhpkPBMhUW) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Most Wanted \(Deluxe\)](https://open.spotify.com/album/46fxxm1oHMPzR51GElXrAt) | 3:41 |
+| 54 | [bend yr ear](https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Like Neptune](https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB) | 3:53 |
 | 55 | [No One But You](https://open.spotify.com/track/7LSypGB8lN2LbdizzUzzgL) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [No One But You](https://open.spotify.com/album/4DlUVB5ZqzYYB11YoHonsR) | 3:33 |
 | 56 | [exodus the north star](https://open.spotify.com/track/6P1X3qgDqlkjf8XmJS9Xiw) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [exodus the north star](https://open.spotify.com/album/31prAWzIqlD3D7R4qPZlfr) | 3:25 |
 | 57 | [Raye](https://open.spotify.com/track/1HCscV7IBGyxnaPh2jShMP) | [John Splithoff](https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD) | [Make It Happen \(Deluxe Edition\)](https://open.spotify.com/album/5RbJ1jOe7KFVfbB5GOLhUT) | 4:29 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 69 | [Pieces](https://open.spotify.com/track/0yKfO5xFUkSG7JmyPcwtAP) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Pieces](https://open.spotify.com/album/4bRhptKi6B8B0A2ssBiPyA) | 5:52 |
 | 70 | [High Off You](https://open.spotify.com/track/0Tac3CLKtrgDgoNipYyZaw) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv) | [High Off You](https://open.spotify.com/album/0okhOL15AUDSqpKFi9CHcu) | 3:53 |
 
-Snapshot ID: `MTY4MDE4MzYzNSwwMDAwMDAwMDNlZDMwYjYyOGI0YzViYWE4YTk1Yzc3MzhlNzAwNmI5`
+Snapshot ID: `MTY4MDE4MzYzNSwwMDAwMDAwMGQ3YmQ1OTlkNWYwY2ExZTY3MWU1NWNmOGIyN2NhZWJi`

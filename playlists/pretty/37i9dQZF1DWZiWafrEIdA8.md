@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 
 > 한 줄, 한 줄 당신을 위로하는 가사와 따뜻한 비트.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,004 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,009 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 39 | [Home Sh\*t Home \(Feat\. JINBO\)](https://open.spotify.com/track/2pdIj0UkQBu0eB0BMIoJcT) | [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [JINBO](https://open.spotify.com/artist/4PlxqkEk6seCManiTAPTWb) | [DARKROOM](https://open.spotify.com/album/3mbp7RgskfhBo8GO7FNyi6) | 3:29 |
 | 40 | [Pat Pat](https://open.spotify.com/track/6lejhkABV4Hns2v1ZJjPwJ) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8), [P.O](https://open.spotify.com/artist/6mTcXVXmCixpsVnYDUpCnY), [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Kang's Kitchen3](https://open.spotify.com/album/6I5jZ0dOJLoyyiPvYEtbst) | 3:02 |
 | 41 | [Family Portrait \(Feat\. Kim Feel\)](https://open.spotify.com/track/20LM2NJWXVwCqtkVeJIb7B) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 4:46 |
-| 42 | [Seat Belt \(Feat\. Dynamic Duo\)](https://open.spotify.com/track/2WcMriAJ84pN5ZW8cBiUnQ) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [Pphk](https://open.spotify.com/artist/7Aj5YhBa3fybV1CotHRftv), [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [Primary and Pphk Pt.1](https://open.spotify.com/album/5CCVroCLwjRk4GDTwCaX4t) | 4:08 |
-| 43 | [Future Boy](https://open.spotify.com/track/2kbMfNEAfPuKwinUIj5opm) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Future Boy](https://open.spotify.com/album/6xDENSYvVpXXIbYlHjBzI0) | 2:04 |
+| 42 | [Future Boy](https://open.spotify.com/track/2kbMfNEAfPuKwinUIj5opm) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Future Boy](https://open.spotify.com/album/6xDENSYvVpXXIbYlHjBzI0) | 2:04 |
+| 43 | [Seat Belt \(Feat\. Dynamic Duo\)](https://open.spotify.com/track/2WcMriAJ84pN5ZW8cBiUnQ) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [Pphk](https://open.spotify.com/artist/7Aj5YhBa3fybV1CotHRftv), [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [Primary and Pphk Pt.1](https://open.spotify.com/album/5CCVroCLwjRk4GDTwCaX4t) | 4:08 |
 | 44 | [Sleepless \(feat\. Heize\)](https://open.spotify.com/track/3JsiJGVbCJM7cIb1YnlG96) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [PSY 9th](https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB) | 3:05 |
 | 45 | [Black Happiness](https://open.spotify.com/track/3gpwEXhh8o08MWQukS9bVz) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [t 3 YOONMIRAE](https://open.spotify.com/album/1IpgVEDfoO0y50l2DyHu0L) | 4:04 |
 | 46 | [HELLP](https://open.spotify.com/track/2D3rC3VmUhf3fVZeRbAwcC) | [RYNO](https://open.spotify.com/artist/5rIOZ6g7qSlq60wITUUle2), [MELOH](https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg) | [HELLP](https://open.spotify.com/album/1XV4Tae3eibi8dM3igtbgM) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 49 | [poison](https://open.spotify.com/track/3BSuec8O8wWWUo82kaCw5T) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [E SENS](https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH) | [Primary and the Messengers LP](https://open.spotify.com/album/20MnU7TMGi4OEPkPZjZxYA) | 3:55 |
 | 50 | [ORIGINAL \(Feat\. Sion\) \(Prod\. R.Tee\)](https://open.spotify.com/track/4mIVK08PK5UB8R196Cx64r) | [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [SHOW ME THE MONEY 11 Final](https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0) | 3:12 |
 
-Snapshot ID: `MTY3OTkwNTkxNiwwMDAwMDAwMDdkMDUwNjg5YWNhMTc5ZWI4YzUxZWIzYzY0ZDJhMzlk`
+Snapshot ID: `MTY3OTkwNTkxNiwwMDAwMDAwMGQ1NzgxZDM4NjAxYzc5OTI0Zjg1ODQ4NDEzYjg3ZjU0`

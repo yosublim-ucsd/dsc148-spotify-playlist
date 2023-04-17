@@ -4,7 +4,7 @@
 
 > Latin music bangers for your gaming session! Cover: Eladio Carrion
 
-467 songs - 1 day 2 hr 55 min
+468 songs - 1 day 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [China](https://open.spotify.com/track/2ksOAxtIxY8yElEWw8RhgK) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [China](https://open.spotify.com/album/1PTTAq0OxggVgqP5WTYWDh) | 5:01 | 2021-12-16 | 2022-04-19 |
 | [CHORRITO PA LAS ANIMAS](https://open.spotify.com/track/0CYTGMBYkwUxrj1MWDLrC5) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SIXDO](https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa) | 2:48 | 2023-04-03 |  |
 | [Christian Dior](https://open.spotify.com/track/4jOBQxq4Ffd8DDrsN4wPOR) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Christian Dior](https://open.spotify.com/album/4qLn9tjRhGQLjImUMTjOMz) | 2:27 | 2021-12-16 | 2022-07-29 |
-| [Cinderella](https://open.spotify.com/track/5R7l05dglCrUX0qjZ1Eec1) | [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf) | [Cinderella](https://open.spotify.com/album/6ckqiQSyFDaf9bbvN5hPOa) | 3:13 | 2023-04-03 |  |
+| [Cinderella](https://open.spotify.com/track/5R7l05dglCrUX0qjZ1Eec1) | [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf) | [Cinderella](https://open.spotify.com/album/6ckqiQSyFDaf9bbvN5hPOa) | 3:13 | 2023-04-03 | 2023-04-17 |
 | [Classy 101](https://open.spotify.com/track/6XSqqQIy7Lm7SnwxS4NrGx) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Classy 101](https://open.spotify.com/album/4jtQUtS4ABgER3DnGfKJCv) | 3:15 | 2023-04-03 |  |
 | [Cochinae](https://open.spotify.com/track/01EzG8Qg7oQqYMTNV5YkOW) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU) | [Querian Perreo?](https://open.spotify.com/album/0IzxRY3FGPo3sB8kLrNMCU) | 3:20 | 2023-04-03 |  |
 | [Coco Chanel](https://open.spotify.com/track/0PB0O24JqAuNdOAFVJljMS) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 3:28 | 2023-04-03 |  |
@@ -181,6 +181,7 @@
 | [Holy Shit \- Remix](https://open.spotify.com/track/1OzhsvZSKTMUZRjo4al9cA) | [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Holy Shit \(Remix\)](https://open.spotify.com/album/0IzxukhRLKI3fU3HIaSIC1) | 3:27 | 2021-12-16 | 2022-08-03 |
 | [HOY COBRÉ](https://open.spotify.com/track/0tjZv2hChdHZCW1zFXpy1J) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:42 | 2021-12-16 | 2022-07-29 |
 | [HP](https://open.spotify.com/track/31UjYv5vLsDkzchJOtUMtW) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [HP](https://open.spotify.com/album/4Z6UQR992qmvuH2WLBD1pT) | 3:04 | 2021-12-16 | 2022-04-26 |
+| [Imaginaste](https://open.spotify.com/track/6MvqgVj98rzMGuxdpIyzeh) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Famouz](https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I) | 3:18 | 2023-04-03 |  |
 | [In Da Getto](https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [In Da Getto](https://open.spotify.com/album/2M7g0SNXnSq7j5BgYJYJsl) | 2:11 | 2021-12-16 | 2023-04-04 |
 | [Inmoral](https://open.spotify.com/track/4ViP6HWnIvwnztjj9cXrsL) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA) | [Inmoral](https://open.spotify.com/album/2mQtgxR1S7cghSqkz7cMVT) | 2:57 | 2021-12-16 | 2022-07-28 |
 | [Instagram](https://open.spotify.com/track/0EFxJw34fK8DWlTxx9qYeW) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Instagram](https://open.spotify.com/album/0FLBLU9SceeQFuIaR54MJH) | 2:42 | 2022-04-29 | 2023-04-04 |

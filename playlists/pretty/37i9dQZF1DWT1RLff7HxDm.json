@@ -1,12 +1,12 @@
 {
   "description": "All live, all blues. Cover: Jackie Venson",
-  "num_followers": 153239,
+  "num_followers": 153303,
   "original_name": "Blues Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDg2MCwwMDAwMDAwMDBmNTJhODBjN2ZhNzA4YmY0M2ZhNTYzNjU2ZTc2MTU0",
+  "snapshot_id": "MTY4MTQ0NDg2MCwwMDAwMDAwMDVlMzg2Yzc1ZjliMDc2YzI5MzY5ZTlkYWE1MTc4YTVl",
   "tracks": [
     {
       "added_at": "2022-09-30 04:01:00",
@@ -653,20 +653,24 @@
       "url": "https://open.spotify.com/track/0rTmNc15RZrI9EzBM7cE0L"
     },
     {
-      "added_at": "2020-10-30 17:47:12",
+      "added_at": "2021-09-17 04:02:00",
       "album": {
-        "name": "Backstage Pass (Live)",
-        "url": "https://open.spotify.com/album/0jacoX6zadwW0ESPf6Bmzn"
+        "name": "Paint The Roses (Live in Concert)",
+        "url": "https://open.spotify.com/album/5u6igDbmfkKA1PW3DBItKH"
       },
       "artists": [
         {
-          "name": "Ghost Town Blues Band",
-          "url": "https://open.spotify.com/artist/4VblfNPhfhWsX28dEgV4sK"
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        },
+        {
+          "name": "Nu Deco Ensemble",
+          "url": "https://open.spotify.com/artist/4GYUlFINfLTLni6bN7SbAK"
         }
       ],
-      "duration_ms": 268650,
-      "name": "Tip of My Hat (Live)",
-      "url": "https://open.spotify.com/track/3utyGdz94oMBMSnEV6Cz8N"
+      "duration_ms": 312824,
+      "name": "Mad As A Hatter - Live in Concert",
+      "url": "https://open.spotify.com/track/3msGgsgqMQXd7nO1S2e59f"
     },
     {
       "added_at": "2022-02-04 17:00:00",
@@ -705,24 +709,20 @@
       "url": "https://open.spotify.com/track/4mBSlDtxKBtfean9muzN3d"
     },
     {
-      "added_at": "2021-09-17 04:02:00",
+      "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Paint The Roses (Live in Concert)",
-        "url": "https://open.spotify.com/album/5u6igDbmfkKA1PW3DBItKH"
+        "name": "Backstage Pass (Live)",
+        "url": "https://open.spotify.com/album/0jacoX6zadwW0ESPf6Bmzn"
       },
       "artists": [
         {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        },
-        {
-          "name": "Nu Deco Ensemble",
-          "url": "https://open.spotify.com/artist/4GYUlFINfLTLni6bN7SbAK"
+          "name": "Ghost Town Blues Band",
+          "url": "https://open.spotify.com/artist/4VblfNPhfhWsX28dEgV4sK"
         }
       ],
-      "duration_ms": 312824,
-      "name": "Mad As A Hatter - Live in Concert",
-      "url": "https://open.spotify.com/track/3msGgsgqMQXd7nO1S2e59f"
+      "duration_ms": 268650,
+      "name": "Tip of My Hat (Live)",
+      "url": "https://open.spotify.com/track/3utyGdz94oMBMSnEV6Cz8N"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -807,6 +807,22 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
+        "name": "Live! The Real Deal",
+        "url": "https://open.spotify.com/album/1c2TbdKkPq7gMTGCPRen1O"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 461533,
+      "name": "Damn Right I've Got The Blues - Live",
+      "url": "https://open.spotify.com/track/1s7EqwR1IPlaQO7iXaRUCi"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
         "name": "Big, Bad and Beautiful (Live)",
         "url": "https://open.spotify.com/album/6FOcdJWwdmGOvpu5JqdqL2"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 350573,
       "name": "Stoop Down Baby - Live",
       "url": "https://open.spotify.com/track/5OOieWxqvwaYoqSv4FKixt"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
-        "name": "Live In Tallahassee",
-        "url": "https://open.spotify.com/album/2UH1aJggZdP0Vz0iTjouYG"
-      },
-      "artists": [
-        {
-          "name": "Eugene Hideaway Bridges",
-          "url": "https://open.spotify.com/artist/0vZJjQvIZKzNxKOP5eLzWY"
-        }
-      ],
-      "duration_ms": 212732,
-      "name": "Step By Step - Live",
-      "url": "https://open.spotify.com/track/1MMcAvzf5cGgQ9hLt0Y0WA"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -855,34 +855,18 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Live! The Real Deal",
-        "url": "https://open.spotify.com/album/1c2TbdKkPq7gMTGCPRen1O"
+        "name": "Live In Tallahassee",
+        "url": "https://open.spotify.com/album/2UH1aJggZdP0Vz0iTjouYG"
       },
       "artists": [
         {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+          "name": "Eugene Hideaway Bridges",
+          "url": "https://open.spotify.com/artist/0vZJjQvIZKzNxKOP5eLzWY"
         }
       ],
-      "duration_ms": 461533,
-      "name": "Damn Right I've Got The Blues - Live",
-      "url": "https://open.spotify.com/track/1s7EqwR1IPlaQO7iXaRUCi"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
-        "name": "Unleashed",
-        "url": "https://open.spotify.com/album/6e2NUuv5gLX7aT5J9hPK28"
-      },
-      "artists": [
-        {
-          "name": "Dave Fields",
-          "url": "https://open.spotify.com/artist/2ZHM1FdVdVfpxzuqRNPVjf"
-        }
-      ],
-      "duration_ms": 497133,
-      "name": "Pocket Full of Dust (Live)",
-      "url": "https://open.spotify.com/track/0QpLq6RybVWoVvhmC1PCeW"
+      "duration_ms": 212732,
+      "name": "Step By Step - Live",
+      "url": "https://open.spotify.com/track/1MMcAvzf5cGgQ9hLt0Y0WA"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -899,6 +883,22 @@
       "duration_ms": 281666,
       "name": "Crying For My Baby",
       "url": "https://open.spotify.com/track/1ZbuDt1StCJMB68xc4Ec9A"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Unleashed",
+        "url": "https://open.spotify.com/album/6e2NUuv5gLX7aT5J9hPK28"
+      },
+      "artists": [
+        {
+          "name": "Dave Fields",
+          "url": "https://open.spotify.com/artist/2ZHM1FdVdVfpxzuqRNPVjf"
+        }
+      ],
+      "duration_ms": 497133,
+      "name": "Pocket Full of Dust (Live)",
+      "url": "https://open.spotify.com/track/0QpLq6RybVWoVvhmC1PCeW"
     },
     {
       "added_at": "2020-10-30 17:47:12",

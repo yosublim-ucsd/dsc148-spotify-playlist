@@ -1,12 +1,12 @@
 {
   "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: Lou-Adriane Cassidy",
-  "num_followers": 1226,
+  "num_followers": 1236,
   "original_name": "ALT_QC",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ5ODU3NiwwMDAwMDAwMDU3YjVjNmIyYTIyZTRiYTE1ZjQ4MzVhNGMxNDE3MWIw",
+  "snapshot_id": "MTY4MTQ5ODU3NiwwMDAwMDAwMGVjZGQ2M2Y4MDA1YjVlNmY5NTlkOTZlN2U4YTdmYjI3",
   "tracks": [
     {
       "added_at": "2023-04-14 18:56:16",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-04-14 18:56:16",
       "album": {
-        "name": "Juillet",
-        "url": "https://open.spotify.com/album/78WQi9nKw7KivHbgVwF61a"
-      },
-      "artists": [
-        {
-          "name": "Frais Dispo",
-          "url": "https://open.spotify.com/artist/6TDKketvd7bXUsKVcMKMb9"
-        }
-      ],
-      "duration_ms": 184946,
-      "name": "Juillet",
-      "url": "https://open.spotify.com/track/0rAmw31b9kQLSbOAF7ElaP"
-    },
-    {
-      "added_at": "2023-04-14 18:56:16",
-      "album": {
         "name": "Horizon",
         "url": "https://open.spotify.com/album/6qyufe7RrSL90YJQ5El132"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 220607,
       "name": "Feu de for\u00eat",
       "url": "https://open.spotify.com/track/7mVYp5DvhrOLm3cGg8mK8M"
+    },
+    {
+      "added_at": "2023-04-14 18:56:16",
+      "album": {
+        "name": "Juillet",
+        "url": "https://open.spotify.com/album/78WQi9nKw7KivHbgVwF61a"
+      },
+      "artists": [
+        {
+          "name": "Frais Dispo",
+          "url": "https://open.spotify.com/artist/6TDKketvd7bXUsKVcMKMb9"
+        }
+      ],
+      "duration_ms": 184946,
+      "name": "Juillet",
+      "url": "https://open.spotify.com/track/0rAmw31b9kQLSbOAF7ElaP"
     },
     {
       "added_at": "2023-04-14 18:56:16",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-04-14 18:56:16",
       "album": {
-        "name": "Viendras-tu pleurer?",
-        "url": "https://open.spotify.com/album/0vi46z2QfWE6AvGApoT6tm"
-      },
-      "artists": [
-        {
-          "name": "Rosier",
-          "url": "https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1"
-        }
-      ],
-      "duration_ms": 207013,
-      "name": "Viendras-tu pleurer?",
-      "url": "https://open.spotify.com/track/6lBb5vtkIdpJ2LxQX9NisN"
-    },
-    {
-      "added_at": "2023-04-14 18:56:16",
-      "album": {
         "name": "Maison ouverte",
         "url": "https://open.spotify.com/album/4CBp6ELEy0RCE6J2KjmVgD"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 239573,
       "name": "Maison ouverte",
       "url": "https://open.spotify.com/track/6y3a7T7IHodmrJrr48aBi0"
+    },
+    {
+      "added_at": "2023-04-14 18:56:16",
+      "album": {
+        "name": "Viendras-tu pleurer?",
+        "url": "https://open.spotify.com/album/0vi46z2QfWE6AvGApoT6tm"
+      },
+      "artists": [
+        {
+          "name": "Rosier",
+          "url": "https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1"
+        }
+      ],
+      "duration_ms": 207013,
+      "name": "Viendras-tu pleurer?",
+      "url": "https://open.spotify.com/track/6lBb5vtkIdpJ2LxQX9NisN"
     },
     {
       "added_at": "2023-04-14 18:56:16",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-04-14 18:56:16",
       "album": {
-        "name": "Fleur de l'\u00c2ge",
-        "url": "https://open.spotify.com/album/6Aj0vdfEBYeHmOiFFjZJev"
-      },
-      "artists": [
-        {
-          "name": "Mon Doux Saigneur",
-          "url": "https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x"
-        }
-      ],
-      "duration_ms": 202996,
-      "name": "Shoegaze",
-      "url": "https://open.spotify.com/track/6t5COdf65qd8igj588vkET"
-    },
-    {
-      "added_at": "2023-04-14 18:56:16",
-      "album": {
         "name": "Piscine hors terre",
         "url": "https://open.spotify.com/album/2ltrFO1XpkT9hvQ486AQ9d"
       },
@@ -911,18 +895,18 @@
     {
       "added_at": "2023-04-14 18:56:16",
       "album": {
-        "name": "Rencontrer Looloo",
-        "url": "https://open.spotify.com/album/2YcDBVyl0OuRS2mda5jCgG"
+        "name": "Fleur de l'\u00c2ge",
+        "url": "https://open.spotify.com/album/6Aj0vdfEBYeHmOiFFjZJev"
       },
       "artists": [
         {
-          "name": "Chocolat",
-          "url": "https://open.spotify.com/artist/1WCqmUezh1dSnBcHSozS57"
+          "name": "Mon Doux Saigneur",
+          "url": "https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x"
         }
       ],
-      "duration_ms": 150320,
-      "name": "Ah Ouin",
-      "url": "https://open.spotify.com/track/715ogeJXR3EL4ISDjiVdhe"
+      "duration_ms": 202996,
+      "name": "Shoegaze",
+      "url": "https://open.spotify.com/track/6t5COdf65qd8igj588vkET"
     },
     {
       "added_at": "2023-04-14 18:56:16",
@@ -939,6 +923,22 @@
       "duration_ms": 280513,
       "name": "Phile\u0301douche",
       "url": "https://open.spotify.com/track/0CKC1pIz3wLRcVkZAy0eJI"
+    },
+    {
+      "added_at": "2023-04-14 18:56:16",
+      "album": {
+        "name": "Rencontrer Looloo",
+        "url": "https://open.spotify.com/album/2YcDBVyl0OuRS2mda5jCgG"
+      },
+      "artists": [
+        {
+          "name": "Chocolat",
+          "url": "https://open.spotify.com/artist/1WCqmUezh1dSnBcHSozS57"
+        }
+      ],
+      "duration_ms": 150320,
+      "name": "Ah Ouin",
+      "url": "https://open.spotify.com/track/715ogeJXR3EL4ISDjiVdhe"
     },
     {
       "added_at": "2023-04-14 18:56:16",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-04-14 18:56:16",
       "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/4TLtqGfe71qF4fY5n83JgE"
-      },
-      "artists": [
-        {
-          "name": "SUUNS",
-          "url": "https://open.spotify.com/artist/3UkN1XeK2D4wD4uhtJx4vb"
-        }
-      ],
-      "duration_ms": 239951,
-      "name": "Wave",
-      "url": "https://open.spotify.com/track/7JjHkIW5WcA68HTYu3K75b"
-    },
-    {
-      "added_at": "2023-04-14 18:56:16",
-      "album": {
         "name": "Butane",
         "url": "https://open.spotify.com/album/71pFQF3pkQhCDGkHmuxBFd"
       },
@@ -1095,6 +1079,22 @@
     {
       "added_at": "2023-04-14 18:56:16",
       "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/4TLtqGfe71qF4fY5n83JgE"
+      },
+      "artists": [
+        {
+          "name": "SUUNS",
+          "url": "https://open.spotify.com/artist/3UkN1XeK2D4wD4uhtJx4vb"
+        }
+      ],
+      "duration_ms": 239951,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/7JjHkIW5WcA68HTYu3K75b"
+    },
+    {
+      "added_at": "2023-04-14 18:56:16",
+      "album": {
         "name": "Sweet Mont\u00e9r\u00e9gie",
         "url": "https://open.spotify.com/album/62dJ6IUek4cuNPKhgYRaIr"
       },
@@ -1107,6 +1107,38 @@
       "duration_ms": 229413,
       "name": "Sweet Mont\u00e9r\u00e9gie",
       "url": "https://open.spotify.com/track/622Po4YytbjATQ1B9J6xid"
+    },
+    {
+      "added_at": "2023-04-14 18:56:16",
+      "album": {
+        "name": "Rock & roll sur ton chemin",
+        "url": "https://open.spotify.com/album/26i7XLkOPTGFz061Ntro8p"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Personne",
+          "url": "https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy"
+        }
+      ],
+      "duration_ms": 238019,
+      "name": "Rock & roll sur ton chemin",
+      "url": "https://open.spotify.com/track/7Aez89dhpMN39MgmFk9d6K"
+    },
+    {
+      "added_at": "2023-04-14 18:56:16",
+      "album": {
+        "name": "O\u00f9 nos corps s'en vont mourir",
+        "url": "https://open.spotify.com/album/5wTzdT6lhcpv8PBqQkxXoA"
+      },
+      "artists": [
+        {
+          "name": "Marco Ema",
+          "url": "https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ"
+        }
+      ],
+      "duration_ms": 177413,
+      "name": "Amy",
+      "url": "https://open.spotify.com/track/6cjoFnCGY5bBlcxu0W7gvq"
     },
     {
       "added_at": "2023-04-14 18:56:16",
@@ -1131,22 +1163,6 @@
     {
       "added_at": "2023-04-14 18:56:16",
       "album": {
-        "name": "Rock & roll sur ton chemin",
-        "url": "https://open.spotify.com/album/26i7XLkOPTGFz061Ntro8p"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Personne",
-          "url": "https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy"
-        }
-      ],
-      "duration_ms": 238019,
-      "name": "Rock & roll sur ton chemin",
-      "url": "https://open.spotify.com/track/7Aez89dhpMN39MgmFk9d6K"
-    },
-    {
-      "added_at": "2023-04-14 18:56:16",
-      "album": {
         "name": "Babyfoot (feat. Kl\u00f4 Pelgag)",
         "url": "https://open.spotify.com/album/6hiaLfpvnH69stsmbA9t1W"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 156933,
       "name": "Babyfoot (feat. Kl\u00f4 Pelgag)",
       "url": "https://open.spotify.com/track/7KfODvbJdlLQw6bgT2Qzqg"
-    },
-    {
-      "added_at": "2023-04-14 18:56:16",
-      "album": {
-        "name": "O\u00f9 nos corps s'en vont mourir",
-        "url": "https://open.spotify.com/album/5wTzdT6lhcpv8PBqQkxXoA"
-      },
-      "artists": [
-        {
-          "name": "Marco Ema",
-          "url": "https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ"
-        }
-      ],
-      "duration_ms": 177413,
-      "name": "Amy",
-      "url": "https://open.spotify.com/track/6cjoFnCGY5bBlcxu0W7gvq"
     },
     {
       "added_at": "2023-04-14 18:56:16",

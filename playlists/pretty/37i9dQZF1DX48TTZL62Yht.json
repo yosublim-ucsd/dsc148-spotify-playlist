@@ -1,12 +1,12 @@
 {
   "description": "The tracks you just keep pulling up. Cover: NLE Choppa",
-  "num_followers": 434176,
+  "num_followers": 434248,
   "original_name": "Hip-Hop Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ4NjU5NiwwMDAwMDAwMDhmM2VjYzUwODQ3NzY2YWY2MTE2NjMwNWRhZWMxZDNm",
+  "snapshot_id": "MTY4MTQ4NjU5NiwwMDAwMDAwMDUxMDY1MDM5ODA4YjcwNjVjMDcwOTBjNzM4NDIyMmMy",
   "tracks": [
     {
       "added_at": "2023-04-14 15:36:36",
@@ -435,26 +435,6 @@
     {
       "added_at": "2023-04-14 15:36:36",
       "album": {
-        "name": "El Dorado",
-        "url": "https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq"
-      },
-      "artists": [
-        {
-          "name": "24kGoldn",
-          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
-        },
-        {
-          "name": "iann dior",
-          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
-        }
-      ],
-      "duration_ms": 140533,
-      "name": "Mood (feat. iann dior)",
-      "url": "https://open.spotify.com/track/4jPy3l0RUwlUI9T5XHBW2m"
-    },
-    {
-      "added_at": "2023-04-14 15:36:36",
-      "album": {
         "name": "Perfect Ten",
         "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
       },
@@ -475,22 +455,38 @@
     {
       "added_at": "2023-04-14 15:36:36",
       "album": {
-        "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
-        "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
+        "name": "El Dorado",
+        "url": "https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq"
       },
       "artists": [
         {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
         },
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
         }
       ],
-      "duration_ms": 203266,
-      "name": "Space Cadet (feat. Gunna)",
-      "url": "https://open.spotify.com/track/1fewSx2d5KIZ04wsooEBOz"
+      "duration_ms": 140533,
+      "name": "Mood (feat. iann dior)",
+      "url": "https://open.spotify.com/track/4jPy3l0RUwlUI9T5XHBW2m"
+    },
+    {
+      "added_at": "2023-04-14 15:36:36",
+      "album": {
+        "name": "My Turn (Deluxe)",
+        "url": "https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 144651,
+      "name": "Low Down",
+      "url": "https://open.spotify.com/track/5m0yZ33oOy0yYBtdTXuxQe"
     },
     {
       "added_at": "2023-04-14 15:36:36",
@@ -519,18 +515,22 @@
     {
       "added_at": "2023-04-14 15:36:36",
       "album": {
-        "name": "My Turn (Deluxe)",
-        "url": "https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r"
+        "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
+        "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
       },
       "artists": [
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 144651,
-      "name": "Low Down",
-      "url": "https://open.spotify.com/track/5m0yZ33oOy0yYBtdTXuxQe"
+      "duration_ms": 203266,
+      "name": "Space Cadet (feat. Gunna)",
+      "url": "https://open.spotify.com/track/1fewSx2d5KIZ04wsooEBOz"
     },
     {
       "added_at": "2023-04-14 15:36:36",
@@ -711,26 +711,6 @@
     {
       "added_at": "2023-04-14 15:36:36",
       "album": {
-        "name": "family ties (with Kendrick Lamar)",
-        "url": "https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx"
-      },
-      "artists": [
-        {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 252069,
-      "name": "family ties (with Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH"
-    },
-    {
-      "added_at": "2023-04-14 15:36:36",
-      "album": {
         "name": "DS4EVER",
         "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 193346,
       "name": "P power (feat. Drake)",
       "url": "https://open.spotify.com/track/0lEjxUUlKqjqXrVlIHFduD"
+    },
+    {
+      "added_at": "2023-04-14 15:36:36",
+      "album": {
+        "name": "family ties (with Kendrick Lamar)",
+        "url": "https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 252069,
+      "name": "family ties (with Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH"
     },
     {
       "added_at": "2023-04-14 15:36:36",
@@ -835,6 +835,30 @@
     {
       "added_at": "2023-04-14 15:36:36",
       "album": {
+        "name": "DS4EVER",
+        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 136266,
+      "name": "pushin P (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/3XOalgusokruzA5ZBA2Qcb"
+    },
+    {
+      "added_at": "2023-04-14 15:36:36",
+      "album": {
         "name": "ONEPOINTFIVE",
         "url": "https://open.spotify.com/album/4mwO9qIVmngSe7yR5Ios0I"
       },
@@ -899,30 +923,6 @@
       "duration_ms": 218447,
       "name": "Ramen & OJ",
       "url": "https://open.spotify.com/track/4TIqzdAssasqx3DAe6cG9J"
-    },
-    {
-      "added_at": "2023-04-14 15:36:36",
-      "album": {
-        "name": "DS4EVER",
-        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 136266,
-      "name": "pushin P (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/3XOalgusokruzA5ZBA2Qcb"
     },
     {
       "added_at": "2023-04-14 15:36:36",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-04-14 15:36:36",
       "album": {
-        "name": "Back For Everything",
-        "url": "https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 200547,
-      "name": "Super Gremlin",
-      "url": "https://open.spotify.com/track/1Y5Jvi3eLi4Chwqch9GMem"
-    },
-    {
-      "added_at": "2023-04-14 15:36:36",
-      "album": {
         "name": "Banking On Me",
         "url": "https://open.spotify.com/album/0J2kO9eiQauyjKyYgBFtPn"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 173182,
       "name": "Big Energy",
       "url": "https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq"
+    },
+    {
+      "added_at": "2023-04-14 15:36:36",
+      "album": {
+        "name": "Back For Everything",
+        "url": "https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 200547,
+      "name": "Super Gremlin",
+      "url": "https://open.spotify.com/track/1Y5Jvi3eLi4Chwqch9GMem"
     },
     {
       "added_at": "2023-04-14 15:36:36",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2023-04-14 15:36:36",
       "album": {
-        "name": "F*CK LOVE 3+: OVER YOU",
-        "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 181688,
-      "name": "GO (feat. Juice WRLD)",
-      "url": "https://open.spotify.com/track/4lH5L59hPQGr05aJyb2Q2E"
-    },
-    {
-      "added_at": "2023-04-14 15:36:36",
-      "album": {
         "name": "Come Home The Kids Miss You",
         "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 309327,
       "name": "Churchill Downs (feat. Drake)",
       "url": "https://open.spotify.com/track/3EMp20j5E42MxfFbsEsIvD"
+    },
+    {
+      "added_at": "2023-04-14 15:36:36",
+      "album": {
+        "name": "F*CK LOVE 3+: OVER YOU",
+        "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 181688,
+      "name": "GO (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/4lH5L59hPQGr05aJyb2Q2E"
     },
     {
       "added_at": "2023-04-14 15:36:36",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-04-14 15:36:36",
       "album": {
-        "name": "In A Minute",
-        "url": "https://open.spotify.com/album/3PZTFPQhr0vHnYGwFUvQco"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 200470,
-      "name": "In A Minute",
-      "url": "https://open.spotify.com/track/3ihIZrJreMJPjQdNLrEXnP"
-    },
-    {
-      "added_at": "2023-04-14 15:36:36",
-      "album": {
         "name": "Featuring Ty Dolla $ign",
         "url": "https://open.spotify.com/album/6M4Nu5UgX097dxeF2lm9P8"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 143375,
       "name": "Spicy (feat. Post Malone)",
       "url": "https://open.spotify.com/track/5IUtvfNvOyVYZUa6AJFrnP"
+    },
+    {
+      "added_at": "2023-04-14 15:36:36",
+      "album": {
+        "name": "In A Minute",
+        "url": "https://open.spotify.com/album/3PZTFPQhr0vHnYGwFUvQco"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 200470,
+      "name": "In A Minute",
+      "url": "https://open.spotify.com/track/3ihIZrJreMJPjQdNLrEXnP"
     },
     {
       "added_at": "2023-04-14 15:36:36",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-04-14 15:36:36",
       "album": {
-        "name": "Hanging With Wolves",
-        "url": "https://open.spotify.com/album/31ItlZnLUC9S5wChTbE8Ew"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 205893,
-      "name": "Hanging With Wolves",
-      "url": "https://open.spotify.com/track/1a7tOEheXeaSNathZW4Gzk"
-    },
-    {
-      "added_at": "2023-04-14 15:36:36",
-      "album": {
         "name": "CLOUDS (THE MIXTAPE)",
         "url": "https://open.spotify.com/album/7eQGtkzCgrIWDOe76E9F8t"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 251236,
       "name": "JUST LIKE YOU",
       "url": "https://open.spotify.com/track/7tTRFVlFzk6yTnoMcParmi"
+    },
+    {
+      "added_at": "2023-04-14 15:36:36",
+      "album": {
+        "name": "Hanging With Wolves",
+        "url": "https://open.spotify.com/album/31ItlZnLUC9S5wChTbE8Ew"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 205893,
+      "name": "Hanging With Wolves",
+      "url": "https://open.spotify.com/track/1a7tOEheXeaSNathZW4Gzk"
     },
     {
       "added_at": "2023-04-14 15:36:36",
@@ -1651,26 +1651,6 @@
     {
       "added_at": "2023-04-14 15:36:36",
       "album": {
-        "name": "I NEVER LIKED YOU",
-        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 236186,
-      "name": "I'M ON ONE (feat. Drake)",
-      "url": "https://open.spotify.com/track/6wyhUr4Xw8z5uSy0AhoZfU"
-    },
-    {
-      "added_at": "2023-04-14 15:36:36",
-      "album": {
         "name": "Walk Em Down (feat. Roddy Ricch)",
         "url": "https://open.spotify.com/album/3EYg0XBIcyz3OvhIy7gsZQ"
       },
@@ -1687,6 +1667,26 @@
       "duration_ms": 173288,
       "name": "Walk Em Down (feat. Roddy Ricch)",
       "url": "https://open.spotify.com/track/4cSSL3YafYjM3yjgFO1vJg"
+    },
+    {
+      "added_at": "2023-04-14 15:36:36",
+      "album": {
+        "name": "I NEVER LIKED YOU",
+        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 236186,
+      "name": "I'M ON ONE (feat. Drake)",
+      "url": "https://open.spotify.com/track/6wyhUr4Xw8z5uSy0AhoZfU"
     },
     {
       "added_at": "2023-04-14 15:36:36",

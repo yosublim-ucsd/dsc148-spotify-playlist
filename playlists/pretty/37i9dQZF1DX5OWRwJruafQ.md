@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 
 > Keep it Punjabi, Keep it Real\. Cover: Jordan Sandhu & Mahira Sharma
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,230 likes - 81 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,319 likes - 81 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1856,6 +1856,24 @@
     {
       "album": {
         "name": "You & I",
+        "url": "https://open.spotify.com/album/0eP9tZfnTfXk8aSnqPRC15"
+      },
+      "artists": [
+        {
+          "name": "Diego Gonzalez",
+          "url": "https://open.spotify.com/artist/60uj5nOT1TpQeBRo4ds9fd"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151816,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/3mX2GKPSW38pRpdmC9tdvY"
+    },
+    {
+      "album": {
+        "name": "You & I",
         "url": "https://open.spotify.com/album/3zqHROb3Ja6GiVxbdGQeMu"
       },
       "artists": [
@@ -1866,7 +1884,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 151835,
       "name": "You & I",
       "url": "https://open.spotify.com/track/0epYQ0yLA5RUYyrhADkF0j"

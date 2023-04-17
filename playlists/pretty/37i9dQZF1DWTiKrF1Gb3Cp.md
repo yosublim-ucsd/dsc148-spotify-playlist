@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiKrF1Gb3Cp.md) - [plain]
 
 > Musicaliza tu sesión de videojuegos con estos versos de barrio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,674 likes - 80 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,715 likes - 80 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiKrF1Gb3Cp.md) - [plain]
 | 63 | [Ileso](https://open.spotify.com/track/15cuGrCRcbTwSA3yVTGLnq) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Artilleria Pesada, Presenta:](https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v) | 6:21 |
 | 64 | [Yo Quiero Fumar \(I Wanna Get High\) \- Spanish Version](https://open.spotify.com/track/3RIDe85YSYGGoJ0daSzfhD) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Los Grandes Éxitos En Español \(Spanish Greatest Hits\)](https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ) | 2:46 |
 | 65 | [Pandillero Pero Millonario \(feat\. Santa Fe Klan\)](https://open.spotify.com/track/3AiQx9X4ZJIsd4h7vE7zDx) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Pandillero Pero Millonario \(feat\. Santa Fe Klan\)](https://open.spotify.com/album/2KLvSqqH6CC1Ka9Tks0HgP) | 4:03 |
-| 66 | [De Aquí los Veo](https://open.spotify.com/track/7ICsw0j1Ln2cJDkFzqrGUS) | [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD), [Babo](https://open.spotify.com/artist/50A4LkkoiVLuJAtcRvfqYh) | [Millonario Sin Corona](https://open.spotify.com/album/2M9NJUv0KbyZzINUyMcmM3) | 3:23 |
-| 67 | [Payaso](https://open.spotify.com/track/5DvZUEmCZ6YghXnrZMLgV2) | [ILUMINATIK BUFFON](https://open.spotify.com/artist/7CvKsTEWv1BS3LydN8HgG6), [Bear Busby](https://open.spotify.com/artist/18u6URN38HiDhEhYqfUmiz), [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9), [Iluminatik](https://open.spotify.com/artist/0N6H5exnFMoW4yNQ3vDJ3Z) | [Payaso](https://open.spotify.com/album/5OoEHWt4JIBppiNAgouGAi) | 3:19 |
+| 66 | [Payaso](https://open.spotify.com/track/5DvZUEmCZ6YghXnrZMLgV2) | [ILUMINATIK BUFFON](https://open.spotify.com/artist/7CvKsTEWv1BS3LydN8HgG6), [Bear Busby](https://open.spotify.com/artist/18u6URN38HiDhEhYqfUmiz), [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9), [Iluminatik](https://open.spotify.com/artist/0N6H5exnFMoW4yNQ3vDJ3Z) | [Payaso](https://open.spotify.com/album/5OoEHWt4JIBppiNAgouGAi) | 3:19 |
+| 67 | [De Aquí los Veo](https://open.spotify.com/track/7ICsw0j1Ln2cJDkFzqrGUS) | [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD), [Babo](https://open.spotify.com/artist/50A4LkkoiVLuJAtcRvfqYh) | [Millonario Sin Corona](https://open.spotify.com/album/2M9NJUv0KbyZzINUyMcmM3) | 3:23 |
 | 68 | [Soy De Barrio](https://open.spotify.com/track/10t8iyVRX6hcfb09NVPqQE) | [Adán Zapata](https://open.spotify.com/artist/1NGy8h3j8jFQvFv6cniUnl) | [Exitos](https://open.spotify.com/album/1ZGckR4LGjk5EYMRZ4Oe1A) | 3:59 |
 | 69 | [Quién?](https://open.spotify.com/track/5hqitjTCDMgyZFgED53rkk) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Quién?](https://open.spotify.com/album/0cmu883YDLBaMS0H9LY7Dy) | 3:46 |
 | 70 | [Ya Ni Modo](https://open.spotify.com/track/3bj0evIVd1Tbbnn8h6WSl3) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1) | [Nosotros Somos la Under Side Karnal](https://open.spotify.com/album/3EhmA2L1zzqE5ibQaoyNnL) | 5:15 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiKrF1Gb3Cp.md) - [plain]
 | 79 | [Pa Los Barrios Y Las Clikas](https://open.spotify.com/track/722FnPcAf2KnbXzdokciiz) | [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9) | [Pa los Barrios y las Clikas](https://open.spotify.com/album/7LfNHO58gshGnniObPb4L1) | 3:47 |
 | 80 | [Bendita Vida](https://open.spotify.com/track/5xZTPEfZTDS5AE3PGLyAYn) | [Richard Ahumada](https://open.spotify.com/artist/4oR06FdpsOJTcTnOkSzUsC) | [Exitos](https://open.spotify.com/album/1zt7d4HabQ37eIZjnpkhpe) | 3:48 |
 
-Snapshot ID: `MTY4MDg0NzIwMCwwMDAwMDAwMGRkZDBhZmVmYjA2ZjIzYmI5MzJhNzNiYjA2NzRmMGRh`
+Snapshot ID: `MTY4MDg0NzIwMCwwMDAwMDAwMGNmYTRkMGQwOWFjMGZjZjkxY2JlNDk4NWRmNDIwOTRh`

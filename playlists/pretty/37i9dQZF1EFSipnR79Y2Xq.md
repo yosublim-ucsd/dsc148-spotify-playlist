@@ -10,7 +10,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 |---|---|---|---|---|
 | 1 | [911 \- En Vivo](https://open.spotify.com/track/1O0IFR3MYqgQbziKTCf0X4) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [911 \(En Vivo\)](https://open.spotify.com/album/5C481uIDXJ2Ddkqtq8A28H) | 2:55 |
 | 2 | [Tiempo Fuera](https://open.spotify.com/track/01gAbqtPWVRLzHKZjqbtwM) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Tiempo Fuera](https://open.spotify.com/album/3ofYz6uyOpKbp8DHnCefh3) | 3:18 |
-| 3 | [Modo Incógnito](https://open.spotify.com/track/7h1KxwCRPI9WC3hJyLuF8g) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Sin Miedo Al Éxito \(Deluxe\)](https://open.spotify.com/album/06RNnPXzGC23bqQiCDTotI) | 3:06 |
+| 3 | [Modo Incógnito](https://open.spotify.com/track/7h1KxwCRPI9WC3hJyLuF8g) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [Sin Miedo Al Éxito \(Deluxe\)](https://open.spotify.com/album/06RNnPXzGC23bqQiCDTotI) | 3:06 |
 | 4 | [Con Toda La Actitud](https://open.spotify.com/track/6J6UUsCUZTDEnfsRjlx204) | [Simón León](https://open.spotify.com/artist/4mTHBSlYMRCM1c22vaQjh0), [Los Buitres De Culiacan Sinaloa](https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB) | [Con Toda La Actitud](https://open.spotify.com/album/03GA53bmUWFhRW7j0V0wuO) | 2:31 |
 | 5 | [Así \- En Vivo](https://open.spotify.com/track/42VytKp0lKpe2r8Yc9AQ4A) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Así \(En Vivo\)](https://open.spotify.com/album/0PZeRC7Xtc9n29XEzKbsFx) | 2:26 |
 | 6 | [Día De Bajón](https://open.spotify.com/track/3iZFmfp6v6u4sldfg7HgRo) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6) | [Día De Bajón](https://open.spotify.com/album/3u6jVCx2tYFPRQtzKpUyaM) | 2:24 |
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 | 26 | [¿Qué Vas A Hacer Sin Mí?](https://open.spotify.com/track/3Ebp9mbcQRPeItbcccvx4Y) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [¿Qué Vas A Hacer Sin Mí?](https://open.spotify.com/album/65yyiSr8XiQrLoUyUPGfZ4) | 3:19 |
 | 27 | [Mi Toxica](https://open.spotify.com/track/2cyoeBgg53OnFhL2oE0EGZ) | [René González El Camaleón](https://open.spotify.com/artist/0nnqDGxsJzT8St1QjegXU0) | [Mi Toxica](https://open.spotify.com/album/2ZjnBZPrdxIiJmYnJEc1Wi) | 3:22 |
 
-Snapshot ID: `MjgwMjY3NDMsMDAwMDAwMDA2OTRhMjQwYWVlMGFlYjNkNDliZDc3MzEyMTU0ZDljMQ==`
+Snapshot ID: `MjgwMjgxODMsMDAwMDAwMDA2NTM2OTE2MWY0MGQyMzU4YTVlNjljMmMzMzU3ZmIzMw==`

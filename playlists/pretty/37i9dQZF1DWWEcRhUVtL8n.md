@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 
 > New and approved indie pop\. Cover: Magdalena Bay
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,702,910 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,702,828 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 | 56 | [What I Want](https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 4:03 |
 | 57 | [Give A Little Kindness](https://open.spotify.com/track/7JrYr89YEIGwWqiEFUlSvj) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Seasons](https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ) | 2:44 |
 | 58 | [I Need That](https://open.spotify.com/track/3rgnM3MBkpsuVeSwmtXYia) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [End of Time](https://open.spotify.com/album/6lRDlZ73raNJQKDXcUzdKU) | 2:30 |
-| 59 | [are you feeling it now](https://open.spotify.com/track/7BvU5P5RgbZ12LJdpF4iPK) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [blotter baby](https://open.spotify.com/album/3YCZdqadysSZff6XOXOM2d) | 2:36 |
-| 60 | [Perspective](https://open.spotify.com/track/1WcVAZYGMKdd2cqeDpuDGI) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Perspective](https://open.spotify.com/album/07V9Z6WeOyxUYKs3p0zFc4) | 2:43 |
-| 61 | [Bruise](https://open.spotify.com/track/26NhDr8bfNqIkmkFCoFdeI) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [Bruise](https://open.spotify.com/album/0pzoYtS7zcG2kd7g4NUbrx) | 2:59 |
+| 59 | [Bruise](https://open.spotify.com/track/26NhDr8bfNqIkmkFCoFdeI) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [Bruise](https://open.spotify.com/album/0pzoYtS7zcG2kd7g4NUbrx) | 2:59 |
+| 60 | [are you feeling it now](https://open.spotify.com/track/7BvU5P5RgbZ12LJdpF4iPK) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [blotter baby](https://open.spotify.com/album/3YCZdqadysSZff6XOXOM2d) | 2:36 |
+| 61 | [Perspective](https://open.spotify.com/track/1WcVAZYGMKdd2cqeDpuDGI) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Perspective](https://open.spotify.com/album/07V9Z6WeOyxUYKs3p0zFc4) | 2:43 |
 | 62 | [Day By Day](https://open.spotify.com/track/79oft65PDY4LL7MoLQ6Nxp) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Trail Mix Tape](https://open.spotify.com/album/7o1kPZMhYTeD78xeKZ6hm6) | 3:07 |
 | 63 | [Maybe I’m Lonely](https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Maybe I’m Lonely](https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM) | 2:32 |
 | 64 | [Balcony](https://open.spotify.com/track/2JLjlI1OGUSHL32Ex733IB) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Harmony House](https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF) | 2:31 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 | 70 | [I Wanna Live Forever](https://open.spotify.com/track/759ptp5ik4aLVCMnrQmUKg) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [I Wanna Live Forever](https://open.spotify.com/album/3kI5ZrCZC4FudYzqSAbyVK) | 3:26 |
 | 71 | [free flow](https://open.spotify.com/track/1UxiPpx3EC2SqFmGoqlXOy) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [free flow](https://open.spotify.com/album/01Fg6wIgT1NDXys8UPTJsK) | 3:23 |
 | 72 | [i wanna be your right hand](https://open.spotify.com/track/68SNAUUgO2XwxykrEboEZN) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [i wanna be your right hand](https://open.spotify.com/album/1Qo5P3fZvirEKp6sKXEoYT) | 2:28 |
-| 73 | [promised](https://open.spotify.com/track/2Fv3WCZVsCxQtkMAQLHMmJ) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [flounder](https://open.spotify.com/album/3AmWQhIXHawKYgthdEJSLJ) | 3:58 |
-| 74 | [Let U Go](https://open.spotify.com/track/7FEiuFp1Zo9rxehIquEtL2) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Let U Go](https://open.spotify.com/album/5hDUlkrk1mRlWKslw839TQ) | 2:48 |
-| 75 | [I'm So Bored](https://open.spotify.com/track/4o2W2DAQqBRN9RpSNnEIRw) | [Sarah and the Sundays](https://open.spotify.com/artist/1vnh2cDW2CgA5M1ya95mZG) | [The Living End](https://open.spotify.com/album/4SklRLhsxx0ZHr9SEkP19B) | 3:28 |
+| 73 | [Let U Go](https://open.spotify.com/track/7FEiuFp1Zo9rxehIquEtL2) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Let U Go](https://open.spotify.com/album/5hDUlkrk1mRlWKslw839TQ) | 2:48 |
+| 74 | [promised](https://open.spotify.com/track/2Fv3WCZVsCxQtkMAQLHMmJ) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [flounder](https://open.spotify.com/album/3AmWQhIXHawKYgthdEJSLJ) | 3:58 |
+| 75 | [Melancholy](https://open.spotify.com/track/1KF7in1Tx1G5JzIVFw8Frj) | [DOUBLECAMP](https://open.spotify.com/artist/6IvIbSOsPLkPS4N1MO4Fdy) | [Melancholy](https://open.spotify.com/album/0O5rQMVVxqfoWgdYAUqxIT) | 2:25 |
 
-Snapshot ID: `MTY4MTQ0NDgwMCwwMDAwMDAwMDAzNTI4OTI0NDM1NjU5MzA5ZGVlYWI1MWU2NjgxYzdh`
+Snapshot ID: `MTY4MTQ0NDgwMCwwMDAwMDAwMGVlOTk0ZDVjNzc1OTE5YmU4MTFhYjM2NzM0ZDQ1NDkx`

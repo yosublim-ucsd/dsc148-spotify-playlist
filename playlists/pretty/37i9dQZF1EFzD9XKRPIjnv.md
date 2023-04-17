@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0JLbaF5wHm7PYeI06NPRsa">Sarah Aarons</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,671 likes - 118 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,670 likes - 118 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 32 | [Never Ever \(feat\. Sarah\)](https://open.spotify.com/track/0EC0IDtHw47tkwWZ5VMF8r) | [The Rubens](https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI) | [LO LA RU](https://open.spotify.com/album/7a6mqtb2gc5vM4RkfCVX7E) | 3:19 |
 | 33 | [as long as you care](https://open.spotify.com/track/0GQqQ7dA7B4mcEktSZaOUp) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [as long as you care](https://open.spotify.com/album/4Fa7UBvAT9kuEMOAq2gbHm) | 3:13 |
 | 34 | [Crown \(with Camila Cabello & Grey\)](https://open.spotify.com/track/7qrMWXNwE1aD1o1sBnyIAh) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl) | [Crown \(with Camila Cabello & Grey\) \[From Bright: The Album\]](https://open.spotify.com/album/3QB2VHZ40qHxyTHSEzqthX) | 3:21 |
-| 35 | [Say It to My Face](https://open.spotify.com/track/27TOMo26A8fEPKTIBf9SNR) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [As She Pleases](https://open.spotify.com/album/3PYA0lKJUKoKhYkVSLDyDb) | 3:09 |
-| 36 | [Jaded](https://open.spotify.com/track/3AAY8YicetRPlDAkibHLiS) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:05 |
+| 35 | [Jaded](https://open.spotify.com/track/3AAY8YicetRPlDAkibHLiS) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:05 |
+| 36 | [Say It to My Face](https://open.spotify.com/track/27TOMo26A8fEPKTIBf9SNR) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [As She Pleases](https://open.spotify.com/album/3PYA0lKJUKoKhYkVSLDyDb) | 3:09 |
 | 37 | [Mad at You \(with Gallant\)](https://open.spotify.com/track/4G4EoG2Dk7kjisJKv9DP5h) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Mad at You \(with Gallant\)](https://open.spotify.com/album/7dyE6UJ5D2dj2VStrMkRbI) | 3:46 |
 | 38 | [Alone](https://open.spotify.com/track/3Gj3CIHeZjds77ITl8XX7r) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Glasshouse \(Deluxe Edition\)](https://open.spotify.com/album/3a32QdgcEGrEKhkSfJk8Tw) | 3:36 |
 | 39 | [Quit You](https://open.spotify.com/track/4GJAd1nBylAEbw1dZDVzEQ) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Quit You](https://open.spotify.com/album/2WPXSv8cyr0i20Z9jsPd5M) | 3:41 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 117 | [Broken Home \- From "Empire: Season 6"](https://open.spotify.com/track/4dkn6avuOxa9hwnk9507KQ) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Alexandra Grey](https://open.spotify.com/artist/6VW8RmPy2TkeibNTFafG6n) | [Broken Home \(From "Empire: Season 6"\)](https://open.spotify.com/album/1pQ8f3ulVNTU3WZytYxMb6) | 3:20 |
 | 118 | [Trust Issues](https://open.spotify.com/track/1pF2jde5bhVXkDlWyl7N03) | [Aaron](https://open.spotify.com/artist/556QXf5aTw46XDZ9swLCYE) | [Trust Issues](https://open.spotify.com/album/0NU1WYWYXzGtC4SwkOsxD4) | 3:21 |
 
-Snapshot ID: `MjgwMjY3MjksMDAwMDAwMDA0OGQwOTcxZGU5MjMzNTI2ZjQxNjcyZTQ4YTNjOTVlMA==`
+Snapshot ID: `MjgwMjgxNzAsMDAwMDAwMDA5NmM2ZTE2MzIwNzUzNDZhMmFkMzZhNjdkNzZmYzUwNg==`

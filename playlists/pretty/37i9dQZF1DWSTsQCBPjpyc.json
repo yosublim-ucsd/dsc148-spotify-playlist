@@ -1,12 +1,12 @@
 {
   "description": "Blues meets funk. Cover: Eric Gales",
-  "num_followers": 21831,
+  "num_followers": 21872,
   "original_name": "Funky Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Nzg0ODEyMSwwMDAwMDAwMDE5OWVjZWZiZGJkYjQ0NjZjMGVlNTcxZmRhMDk1NDY0",
+  "snapshot_id": "MTY2Nzg0ODEyMSwwMDAwMDAwMGI1ZjIyOGQwNTA3YmI4NGMxNGRjYzg2Njk3M2I5Mzlj",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -491,6 +491,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Deluxe Edition",
+        "url": "https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH"
+      },
+      "artists": [
+        {
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+        }
+      ],
+      "duration_ms": 288360,
+      "name": "Come To Mama",
+      "url": "https://open.spotify.com/track/3j3pLudjSCN0kaXH0YCps8"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "I Wanna Get Funky",
         "url": "https://open.spotify.com/album/6046X2I4SRTkO4BY14PGG6"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 259226,
       "name": "I Want My Crown",
       "url": "https://open.spotify.com/track/2a1BbbIpOE0YBxLgejQNDU"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Deluxe Edition",
-        "url": "https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH"
-      },
-      "artists": [
-        {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
-        }
-      ],
-      "duration_ms": 288360,
-      "name": "Come To Mama",
-      "url": "https://open.spotify.com/track/3j3pLudjSCN0kaXH0YCps8"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -605,22 +605,6 @@
       "url": "https://open.spotify.com/track/3qdcSUX3d8iG6K3zyyR5ny"
     },
     {
-      "added_at": "2022-01-28 05:00:00",
-      "album": {
-        "name": "Crown",
-        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
-      },
-      "artists": [
-        {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
-        }
-      ],
-      "duration_ms": 227880,
-      "name": "Put That Back",
-      "url": "https://open.spotify.com/track/68c1MV92ptINojyzzheUJu"
-    },
-    {
       "added_at": "2020-12-01 05:01:00",
       "album": {
         "name": "On Tap",
@@ -669,6 +653,22 @@
       "url": "https://open.spotify.com/track/3nqj5Fx7sbZBkTIuCoRjGN"
     },
     {
+      "added_at": "2022-01-28 05:00:00",
+      "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        }
+      ],
+      "duration_ms": 227880,
+      "name": "Put That Back",
+      "url": "https://open.spotify.com/track/68c1MV92ptINojyzzheUJu"
+    },
+    {
       "added_at": "2020-12-01 05:01:00",
       "album": {
         "name": "Let It Go",
@@ -699,26 +699,6 @@
       "duration_ms": 225666,
       "name": "Meet Me in Chicago",
       "url": "https://open.spotify.com/track/35sEYu9d2rT5BPLiOiMYob"
-    },
-    {
-      "added_at": "2022-01-28 05:00:00",
-      "album": {
-        "name": "Crown",
-        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
-      },
-      "artists": [
-        {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
-        },
-        {
-          "name": "LaDonna Gales",
-          "url": "https://open.spotify.com/artist/5qolIJGqHqYn1a1igndmgV"
-        }
-      ],
-      "duration_ms": 183520,
-      "name": "Take Me Just As I Am",
-      "url": "https://open.spotify.com/track/2BR8UJjWRQBAuvBFUqInok"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -783,6 +763,26 @@
       "duration_ms": 273213,
       "name": "Pots And Pans",
       "url": "https://open.spotify.com/track/2P9jpTryQV7mu7ufOryj59"
+    },
+    {
+      "added_at": "2022-01-28 05:00:00",
+      "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        },
+        {
+          "name": "LaDonna Gales",
+          "url": "https://open.spotify.com/artist/5qolIJGqHqYn1a1igndmgV"
+        }
+      ],
+      "duration_ms": 183520,
+      "name": "Take Me Just As I Am",
+      "url": "https://open.spotify.com/track/2BR8UJjWRQBAuvBFUqInok"
     },
     {
       "added_at": "2020-12-01 05:01:00",

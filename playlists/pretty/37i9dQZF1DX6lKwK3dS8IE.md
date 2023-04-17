@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lKwK3dS8IE.md) - [plain]
 
 > Folk punk, anti\-folk, acoustic punk & more\. Cover: The Moldy Peaches
 
-[Spotify](https://open.spotify.com/user/spotify) - 659 likes - 54 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 663 likes - 54 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [My Alcoholic Friends](https://open.spotify.com/track/2gvmxusSOe3vNjNDjQWaso) | [The Dresden Dolls](https://open.spotify.com/artist/5JqX1glXPg6428ubI1w72i) | [Yes, Virginia](https://open.spotify.com/album/1jcVHOTgDFDb5nLh2wTCaR) | 2:47 |
-| 2 | [Twin Size Mattress](https://open.spotify.com/track/14N3tALR3Mhf7UHpJRKk4L) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [Talon Of The Hawk](https://open.spotify.com/album/1Xz5zrDqXetBm5HwNGSqPs) | 4:24 |
-| 3 | [Blister In The Sun](https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH) | [Violent Femmes](https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy) | [Violent Femmes](https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG) | 2:25 |
+| 2 | [Blister In The Sun](https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH) | [Violent Femmes](https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy) | [Violent Femmes](https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG) | 2:25 |
+| 3 | [Twin Size Mattress](https://open.spotify.com/track/14N3tALR3Mhf7UHpJRKk4L) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [Talon Of The Hawk](https://open.spotify.com/album/1Xz5zrDqXetBm5HwNGSqPs) | 4:24 |
 | 4 | [I Love You Like An Alcoholic](https://open.spotify.com/track/7u63zva845rv8tRFi9FG8a) | [The Taxpayers](https://open.spotify.com/artist/1QNEVFk8MjculKl5977kfy) | ["God, Forgive These Bastards" Songs From The Forgotten Life of Henry Turner](https://open.spotify.com/album/2H4MixFpi9BQdQqtozfovm) | 3:35 |
 | 5 | [Hell's Comin' with Me](https://open.spotify.com/track/5N0lmKQfQpXNQNjUGlPKIT) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Hell's Comin' with Me](https://open.spotify.com/album/7sXEDXktkY9cFOcgvIR6CI) | 3:32 |
 | 6 | [In the Aeroplane Over the Sea](https://open.spotify.com/track/5rfT032kGmLvbxZzfHlu5D) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [In the Aeroplane Over the Sea](https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob) | 3:22 |
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lKwK3dS8IE.md) - [plain]
 | 9 | [Brave as a Noun](https://open.spotify.com/track/6bfPo8Ge3VoD4dEGSDs0R9) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [People Who Can Eat People are the Luckiest People in the World](https://open.spotify.com/album/2jRdTNGZzb3drtFRYaUpFE) | 1:14 |
 | 10 | [Anyone Else But You](https://open.spotify.com/track/2pKi1lRvXNASy7ybeQIDTy) | [The Moldy Peaches](https://open.spotify.com/artist/7GGv4mV9JTJK9e7nIzUliU) | [The Moldy Peaches](https://open.spotify.com/album/4FD8WC9s2yohxwVTp9f236) | 3:00 |
 | 11 | [Nights Like These](https://open.spotify.com/track/7s7KOxwTHHnVBmtphJKWRk) | [Pigeon Pit](https://open.spotify.com/artist/4Bmvzoo0CzEGV4EczcG9rv) | [Shut In](https://open.spotify.com/album/2vvB2Q0Hyekckd7ic6wOrf) | 2:01 |
-| 12 | [The Voice In My Head](https://open.spotify.com/track/2pLBgqBQxTqrUN1jCn8M8B) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [The Voice In My Head](https://open.spotify.com/album/4M3uXTjbtdPBBiMGtNGCa1) | 1:58 |
-| 13 | [Runs in the Family](https://open.spotify.com/track/0GdiWLQt5VYtMEcero6AOW) | [Amanda Palmer](https://open.spotify.com/artist/726Dh6A5VyDfAAQxilT6A0) | [Who Killed Amanda Palmer \(Deluxe Version\)](https://open.spotify.com/album/55MoQXHYxkNlD5lxZOjoeG) | 2:44 |
+| 12 | [Runs in the Family](https://open.spotify.com/track/0GdiWLQt5VYtMEcero6AOW) | [Amanda Palmer](https://open.spotify.com/artist/726Dh6A5VyDfAAQxilT6A0) | [Who Killed Amanda Palmer \(Deluxe Version\)](https://open.spotify.com/album/55MoQXHYxkNlD5lxZOjoeG) | 2:44 |
+| 13 | [The Voice In My Head](https://open.spotify.com/track/2pLBgqBQxTqrUN1jCn8M8B) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [The Voice In My Head](https://open.spotify.com/album/4M3uXTjbtdPBBiMGtNGCa1) | 1:58 |
 | 14 | [Don't Carry It All](https://open.spotify.com/track/2UODQhPzz51lssoMPOlfy5) | [The Decemberists](https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2) | [The King Is Dead](https://open.spotify.com/album/3hd8GiXOy4KUTxVDVUDT5F) | 4:16 |
 | 15 | [Tire Swing](https://open.spotify.com/track/0vbhRDi46TDNHkhKbZa81B) | [Kimya Dawson](https://open.spotify.com/artist/5PPCkoOKabpGGhqrUwSikz) | [Remember That I Love You](https://open.spotify.com/album/7bc415JbeoQAJAPsc8fGyn) | 3:08 |
 | 16 | [Body Terror Song](https://open.spotify.com/track/3D1PuFi2U8lmtdWRZcCz1f) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [Good Luck Everybody](https://open.spotify.com/album/2SvkUGRbWkrnsytUsINzf6) | 2:37 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lKwK3dS8IE.md) - [plain]
 | 53 | [Be Happy](https://open.spotify.com/track/6fzlvBtOkL1LNKyrToxVwi) | [A Day Without Love](https://open.spotify.com/artist/09JoYdZo9cekYMqyN1bsGD) | [Be Happy, Today](https://open.spotify.com/album/1dsdPI01rcf6eRHYJTsu1H) | 3:00 |
 | 54 | [Cup of Water](https://open.spotify.com/track/2WxO2FZlWAMz5joaAry6CU) | [Billy Mack Collector](https://open.spotify.com/artist/1e7Ac48NUTW8s93OMz7FWE) | [Songs About Water and Trying to Feel Okay](https://open.spotify.com/album/5JZfn7wYHxgbEbJRs2vb79) | 4:00 |
 
-Snapshot ID: `MTY4MDg0MDAwMCwwMDAwMDAwMDhjYjdiYzJkZmUxOGFiZGY0ZGE5OGMzZDRlYWVhMmVk`
+Snapshot ID: `MTY4MDg0MDAwMCwwMDAwMDAwMDc1OTE4YmZkMDU4OGY1NmUzODg4NmRhMjk5ZmQyN2Ri`

@@ -1,12 +1,12 @@
 {
   "description": "Dale play, y que el amor no pare.",
-  "num_followers": 153407,
+  "num_followers": 153506,
   "original_name": "Enganchados: Rom\u00e1nticos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODEyMjM4NCwwMDAwMDAwMGY3MmM1YzNiOTFhMTE4MGFkMTFiNmFhODYwZTBjZjMy",
+  "snapshot_id": "MTY3ODEyMjM4NCwwMDAwMDAwMDk0OWQ5YWI3NjYzZTZhODhmNDFjODZhOWM0YmVjYTQy",
   "tracks": [
     {
       "added_at": "2023-03-06 17:06:24",
@@ -163,6 +163,22 @@
     {
       "added_at": "2023-03-06 17:06:24",
       "album": {
+        "name": "Dejarte De Amar",
+        "url": "https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6"
+      },
+      "artists": [
+        {
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+        }
+      ],
+      "duration_ms": 205160,
+      "name": "Mientes",
+      "url": "https://open.spotify.com/track/5EhzE6HJaCcLFrf5rPqvpk"
+    },
+    {
+      "added_at": "2023-03-06 17:06:24",
+      "album": {
         "name": "Uno los Dos",
         "url": "https://open.spotify.com/album/1HvZ1Cipa88AAshhY1Jfe9"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 215426,
       "name": "Uno los Dos",
       "url": "https://open.spotify.com/track/7Cg58yt6PVyvckydVLRZsp"
-    },
-    {
-      "added_at": "2023-03-06 17:06:24",
-      "album": {
-        "name": "Dejarte De Amar",
-        "url": "https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6"
-      },
-      "artists": [
-        {
-          "name": "Camila",
-          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
-        }
-      ],
-      "duration_ms": 205160,
-      "name": "Mientes",
-      "url": "https://open.spotify.com/track/5EhzE6HJaCcLFrf5rPqvpk"
     },
     {
       "added_at": "2023-03-06 17:06:24",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-03-06 17:06:24",
       "album": {
-        "name": "Vicentico",
-        "url": "https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo"
-      },
-      "artists": [
-        {
-          "name": "Vicentico",
-          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
-        }
-      ],
-      "duration_ms": 218440,
-      "name": "Algo Contigo",
-      "url": "https://open.spotify.com/track/4zsDA31stWMtLveU61hejd"
-    },
-    {
-      "added_at": "2023-03-06 17:06:24",
-      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 307866,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l"
+    },
+    {
+      "added_at": "2023-03-06 17:06:24",
+      "album": {
+        "name": "Vicentico",
+        "url": "https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo"
+      },
+      "artists": [
+        {
+          "name": "Vicentico",
+          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
+        }
+      ],
+      "duration_ms": 218440,
+      "name": "Algo Contigo",
+      "url": "https://open.spotify.com/track/4zsDA31stWMtLveU61hejd"
     },
     {
       "added_at": "2023-03-06 17:06:24",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-03-06 17:06:24",
       "album": {
-        "name": "Prisma",
-        "url": "https://open.spotify.com/album/3p9YnUYZyns6PGxTbKeLFq"
-      },
-      "artists": [
-        {
-          "name": "Beret",
-          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
-        }
-      ],
-      "duration_ms": 218861,
-      "name": "Ojal\u00e1",
-      "url": "https://open.spotify.com/track/75KrTLbcLWgCcldZGxZR12"
-    },
-    {
-      "added_at": "2023-03-06 17:06:24",
-      "album": {
         "name": "Utopia",
         "url": "https://open.spotify.com/album/1yM8iaMk4Slsqr94LabgN1"
       },
@@ -699,18 +683,18 @@
     {
       "added_at": "2023-03-06 17:06:24",
       "album": {
-        "name": "Qui\u00e9n Dijo Ayer",
-        "url": "https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ"
+        "name": "Prisma",
+        "url": "https://open.spotify.com/album/3p9YnUYZyns6PGxTbKeLFq"
       },
       "artists": [
         {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
         }
       ],
-      "duration_ms": 264786,
-      "name": "Dime Que No",
-      "url": "https://open.spotify.com/track/3uEJFR0oQeBaNMEXs4bTSq"
+      "duration_ms": 218861,
+      "name": "Ojal\u00e1",
+      "url": "https://open.spotify.com/track/75KrTLbcLWgCcldZGxZR12"
     },
     {
       "added_at": "2023-03-06 17:06:24",
@@ -735,6 +719,22 @@
     {
       "added_at": "2023-03-06 17:06:24",
       "album": {
+        "name": "Qui\u00e9n Dijo Ayer",
+        "url": "https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        }
+      ],
+      "duration_ms": 264786,
+      "name": "Dime Que No",
+      "url": "https://open.spotify.com/track/3uEJFR0oQeBaNMEXs4bTSq"
+    },
+    {
+      "added_at": "2023-03-06 17:06:24",
+      "album": {
         "name": "Ya No Vuelvas",
         "url": "https://open.spotify.com/album/2eK5Sw1SDSiCpLNUm6MFoS"
       },
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-03-06 17:06:24",
       "album": {
-        "name": "Mi Reflejo",
-        "url": "https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 265733,
-      "name": "Pero Me Acuerdo de T\u00ed",
-      "url": "https://open.spotify.com/track/4B1sb2YVO03sBmyR8bvzEB"
-    },
-    {
-      "added_at": "2023-03-06 17:06:24",
-      "album": {
         "name": "Franco De Vita En Primera Fila",
         "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 218760,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ"
+    },
+    {
+      "added_at": "2023-03-06 17:06:24",
+      "album": {
+        "name": "Mi Reflejo",
+        "url": "https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 265733,
+      "name": "Pero Me Acuerdo de T\u00ed",
+      "url": "https://open.spotify.com/track/4B1sb2YVO03sBmyR8bvzEB"
     },
     {
       "added_at": "2023-03-06 17:06:24",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-03-06 17:06:24",
       "album": {
-        "name": "Grandes Hits",
-        "url": "https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL"
-      },
-      "artists": [
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 256133,
-      "name": "Lloviendo Estrellas",
-      "url": "https://open.spotify.com/track/5b00r2xveYfVIOExZJJ395"
-    },
-    {
-      "added_at": "2023-03-06 17:06:24",
-      "album": {
         "name": "Iconos",
         "url": "https://open.spotify.com/album/5SGUCNeCuGHbR73Iyh2F7g"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 240733,
       "name": "Y C\u00f3mo Es El",
       "url": "https://open.spotify.com/track/3h8KGJn9UFX2cfjN78iMVF"
+    },
+    {
+      "added_at": "2023-03-06 17:06:24",
+      "album": {
+        "name": "Grandes Hits",
+        "url": "https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL"
+      },
+      "artists": [
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 256133,
+      "name": "Lloviendo Estrellas",
+      "url": "https://open.spotify.com/track/5b00r2xveYfVIOExZJJ395"
     },
     {
       "added_at": "2023-03-06 17:06:24",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-03-06 17:06:24",
       "album": {
-        "name": "Sergio Dalma En Concierto",
-        "url": "https://open.spotify.com/album/0luSmXE3F4tZWmomnjLF0r"
-      },
-      "artists": [
-        {
-          "name": "Sergio Dalma",
-          "url": "https://open.spotify.com/artist/7x6XYw3yCC67Pizi4o0wvZ"
-        }
-      ],
-      "duration_ms": 274933,
-      "name": "Bailar Pegados - En Concierto",
-      "url": "https://open.spotify.com/track/4Z7hD7n1hmjbqAmitLFY5V"
-    },
-    {
-      "added_at": "2023-03-06 17:06:24",
-      "album": {
         "name": "Solo Exitos",
         "url": "https://open.spotify.com/album/1wJksWydcUG8t9gmdBVHU1"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 220946,
       "name": "Antes",
       "url": "https://open.spotify.com/track/565MagsPGofHeTxiH678pW"
+    },
+    {
+      "added_at": "2023-03-06 17:06:24",
+      "album": {
+        "name": "Sergio Dalma En Concierto",
+        "url": "https://open.spotify.com/album/0luSmXE3F4tZWmomnjLF0r"
+      },
+      "artists": [
+        {
+          "name": "Sergio Dalma",
+          "url": "https://open.spotify.com/artist/7x6XYw3yCC67Pizi4o0wvZ"
+        }
+      ],
+      "duration_ms": 274933,
+      "name": "Bailar Pegados - En Concierto",
+      "url": "https://open.spotify.com/track/4Z7hD7n1hmjbqAmitLFY5V"
     },
     {
       "added_at": "2023-03-06 17:06:24",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-03-06 17:06:24",
       "album": {
-        "name": "He Venido Por Ti",
-        "url": "https://open.spotify.com/album/6wpz5IBiPdIKsOy7JBJu5C"
-      },
-      "artists": [
-        {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
-        }
-      ],
-      "duration_ms": 199866,
-      "name": "He Venido Por Ti",
-      "url": "https://open.spotify.com/track/0BzpzUw1akFAoEUzTLGoQ0"
-    },
-    {
-      "added_at": "2023-03-06 17:06:24",
-      "album": {
         "name": "20 A\u00f1os Contigo",
         "url": "https://open.spotify.com/album/7j74PZNNtthH0JwMPSqIVw"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 167306,
       "name": "Hasta El Final",
       "url": "https://open.spotify.com/track/4jLAgMw4tzHzSJuKF3UJA7"
+    },
+    {
+      "added_at": "2023-03-06 17:06:24",
+      "album": {
+        "name": "He Venido Por Ti",
+        "url": "https://open.spotify.com/album/6wpz5IBiPdIKsOy7JBJu5C"
+      },
+      "artists": [
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "duration_ms": 199866,
+      "name": "He Venido Por Ti",
+      "url": "https://open.spotify.com/track/0BzpzUw1akFAoEUzTLGoQ0"
     },
     {
       "added_at": "2023-03-06 17:06:24",

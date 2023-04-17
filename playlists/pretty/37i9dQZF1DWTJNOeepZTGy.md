@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJNOeepZTGy.md) - [plain]
 
 > As you prepare and settle into your romantic dinner, let us provide the soundtrack with these RnB/Soul love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,377 likes - 50 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,418 likes - 50 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJNOeepZTGy.md) - [plain]
 | 40 | [Say So](https://open.spotify.com/track/6OLlACmD4AlW2N7CWVhVxO) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Say So](https://open.spotify.com/album/7nc9NmxMiErW3UeeKeQ4Hq) | 3:32 |
 | 41 | [Spend The Night](https://open.spotify.com/track/14VwBAL1qSlG4ovOSYUQF4) | [Rahsaan Patterson](https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH) | [Rahsaan Patterson](https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c) | 4:53 |
 | 42 | [Show Me the Way \(feat\. Raphael Saadiq\)](https://open.spotify.com/track/3d47DFYwKsWsXkwfaktsmk) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [Illumination](https://open.spotify.com/album/7dnGdy8zcBQtfXAJQBi0oM) | 7:47 |
-| 43 | [Still](https://open.spotify.com/track/36tR7kGlYwgi9IWpuUSbp1) | [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [The Transition of Mali](https://open.spotify.com/album/00kU4HzJ0Uvr3PGBxrqt14) | 4:50 |
-| 44 | [Never Felt This Way](https://open.spotify.com/track/3ETM5bHqW8RtMsP9PauI6S) | [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9) | [Brian McKnight](https://open.spotify.com/album/2LftuOQxTIDRfHYOGaCJJG) | 5:35 |
+| 43 | [Never Felt This Way](https://open.spotify.com/track/3ETM5bHqW8RtMsP9PauI6S) | [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9) | [Brian McKnight](https://open.spotify.com/album/2LftuOQxTIDRfHYOGaCJJG) | 5:35 |
+| 44 | [Still](https://open.spotify.com/track/36tR7kGlYwgi9IWpuUSbp1) | [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [The Transition of Mali](https://open.spotify.com/album/00kU4HzJ0Uvr3PGBxrqt14) | 4:50 |
 | 45 | [I'd Give My Life For You \- Alternate Mix](https://open.spotify.com/track/1emvYBqAWFPpFUQyhBG9He) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Let's Get It On \(Deluxe Edition\)](https://open.spotify.com/album/3rDn7vWteVTxTbuLQXb6eC) | 3:29 |
 | 46 | [Superstar \- Live at Radio City Music Hall, New York \- Feb\. 12, 2003](https://open.spotify.com/track/3pAiTAdDCvqWECwRmUlxvi) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Live Radio City Music Hall 2003](https://open.spotify.com/album/5wq0AUenn2o3RXoBelNsxu) | 12:49 |
 | 47 | [Back Together \(feat\. Rick James\)](https://open.spotify.com/track/42CgYmz74tNngUErbZ48x6) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo), [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL) | [Back Together \(feat\. Rick James\)](https://open.spotify.com/album/47m94t0suSEty3IMVmiCKL) | 3:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJNOeepZTGy.md) - [plain]
 | 49 | [Between the Sheets](https://open.spotify.com/track/7GazZcRE8uDL24PzwyUe2f) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [The Essential Isley Brothers](https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v) | 5:38 |
 | 50 | [Love, Need And Want You](https://open.spotify.com/track/5Ikg1hHVz53mrytVXGrztN) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [The Essential Patti LaBelle](https://open.spotify.com/album/2BTLvBugU9bxzrXZtnFjn3) | 5:00 |
 
-Snapshot ID: `MTY3MzU0NTE5OCwwMDAwMDAwMDVjZTA1N2IxMjA3MGY4MDM2NzVkMzkxM2ZkZmVmMmFk`
+Snapshot ID: `MTY3MzU0NTE5OCwwMDAwMDAwMDYzNWEyNmFlYWQwZDBmNmUxNTkzMDljMzZiODZlNDk2`

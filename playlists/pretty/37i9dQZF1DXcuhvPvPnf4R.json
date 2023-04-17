@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/meaghansmom/\">Monique Blake</a>",
-  "num_followers": 4314,
+  "num_followers": 4335,
   "original_name": "Monique Blake's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MjU4MywwMDAwMDAwMGY0NjdkODY5YzAwMzdjZTgwMDAxM2Q4YWUxYjRmNjlj",
+  "snapshot_id": "MTY2NDY0MjU4MywwMDAwMDAwMDg2Y2YyNmQ5MjJjN2M0NzkzNWRjMTlmN2UyZWYzODhh",
   "tracks": [
     {
       "added_at": "2022-10-01 16:43:03",
@@ -687,26 +687,6 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
-        "name": "Broken Silence",
-        "url": "https://open.spotify.com/album/0V5LKel3fj8JvCNeYHWCuU"
-      },
-      "artists": [
-        {
-          "name": "Foxy Brown",
-          "url": "https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C"
-        },
-        {
-          "name": "Cham",
-          "url": "https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK"
-        }
-      ],
-      "duration_ms": 212200,
-      "name": "Tables Will Turn",
-      "url": "https://open.spotify.com/track/0NTsxA8DrjBbZjK35oP67U"
-    },
-    {
-      "added_at": "2022-10-01 16:43:03",
-      "album": {
         "name": "Exodus",
         "url": "https://open.spotify.com/album/4kztTaq5iUKFXuWj06wbRM"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 276208,
       "name": "Hood Blues (feat. Westside Gunn, Benny The Butcher & Conway The Machine)",
       "url": "https://open.spotify.com/track/1OaIvyH1IbX31m4JY6yBej"
+    },
+    {
+      "added_at": "2022-10-01 16:43:03",
+      "album": {
+        "name": "Broken Silence",
+        "url": "https://open.spotify.com/album/0V5LKel3fj8JvCNeYHWCuU"
+      },
+      "artists": [
+        {
+          "name": "Foxy Brown",
+          "url": "https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C"
+        },
+        {
+          "name": "Cham",
+          "url": "https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK"
+        }
+      ],
+      "duration_ms": 212200,
+      "name": "Tables Will Turn",
+      "url": "https://open.spotify.com/track/0NTsxA8DrjBbZjK35oP67U"
     },
     {
       "added_at": "2022-10-01 16:43:03",

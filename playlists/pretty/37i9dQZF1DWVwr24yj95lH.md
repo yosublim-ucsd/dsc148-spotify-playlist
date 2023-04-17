@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 
 > The best Grunge heirs' songs\. Cover: Bush
 
-[Spotify](https://open.spotify.com/user/spotify) - 569,869 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 570,190 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 | 83 | [Starseed](https://open.spotify.com/track/4et8vIjMkwvHvtaBp1yh70) | [Our Lady Peace](https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH) | [Naveed](https://open.spotify.com/album/5Kcy45Vd27PmOoSPgi9siS) | 4:04 |
 | 84 | [Caught In The Rain](https://open.spotify.com/track/1aWjCUq4KU7wCdQ2AuGeB7) | [Revis](https://open.spotify.com/artist/4e27lOSzk1nvSxpw2BrrwT) | [Places For Breathing](https://open.spotify.com/album/5IuW2X71vJlkLVua4Fd2wX) | 3:30 |
 | 85 | [Welcome To The Fold](https://open.spotify.com/track/0oPcNTwHKpYnDZfkcdOsiA) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [Title Of Record \(Expanded Edition\)](https://open.spotify.com/album/0PtuV98eVpJkCORoCH2uCu) | 7:40 |
-| 86 | [Rapture](https://open.spotify.com/track/00WXjbcR195RztyuAQ90ub) | [Hurt](https://open.spotify.com/artist/3jnoH2xrhvxUgeN2rrudHL) | [Vol\. 1](https://open.spotify.com/album/2P5omMI0SDu3lWiSenca1h) | 5:40 |
-| 87 | [Flowers On A Grave](https://open.spotify.com/track/4TcYGnt7qcBuDoGTWHJ36E) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [The Kingdom](https://open.spotify.com/album/1IduB3mfHISAtpV1zQHpef) | 3:45 |
+| 86 | [Flowers On A Grave](https://open.spotify.com/track/4TcYGnt7qcBuDoGTWHJ36E) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [The Kingdom](https://open.spotify.com/album/1IduB3mfHISAtpV1zQHpef) | 3:45 |
+| 87 | [Rapture](https://open.spotify.com/track/00WXjbcR195RztyuAQ90ub) | [Hurt](https://open.spotify.com/artist/3jnoH2xrhvxUgeN2rrudHL) | [Vol\. 1](https://open.spotify.com/album/2P5omMI0SDu3lWiSenca1h) | 5:40 |
 | 88 | [Gone Away \(A Song For Starr\)](https://open.spotify.com/track/3Vxib4vvhfLPyphsln3of2) | [Cold](https://open.spotify.com/artist/0Gw3a3BkWLwsMLFbOBmo6Q) | [Year Of The Spider](https://open.spotify.com/album/0XxmvWFp66NnlSxco9i7yr) | 3:14 |
 | 89 | [Just Go](https://open.spotify.com/track/45chhYFgWlUNobpEMq7PxP) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Dysfunction](https://open.spotify.com/album/4fLp0YBi1chfMHSBkIeI6w) | 4:50 |
 | 90 | [Astounded](https://open.spotify.com/track/0WBL72ulf4mkcflIO0W5cq) | [Tantric](https://open.spotify.com/artist/4tMZahYVKJdjbC1GHVtNnV) | [Tantric \(U.S\. Version\-Enh'd\)](https://open.spotify.com/album/08nOgpgThrvOYlvM6nUOmJ) | 4:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 | 99 | [Bulletproof Skin](https://open.spotify.com/track/1E5ftzZvJLOICYQ0oYDHID) | [Institute](https://open.spotify.com/artist/5dw20y4c03uTJPC7rKoDtS) | [Distort Yourself](https://open.spotify.com/album/5oKTgRe1bSLIkZ39pwHqrj) | 4:25 |
 | 100 | [Cumbersome](https://open.spotify.com/track/6XmpvInnm4EgCUgXMTqIRR) | [Seven Mary Three](https://open.spotify.com/artist/2zsLaQhHFdQPdFXqG1nRmM) | [Churn](https://open.spotify.com/album/6vnsykSsmiy1etv3krbC5T) | 6:02 |
 
-Snapshot ID: `MTY3MjgyMjYzNSwwMDAwMDAwMDUyYjRmYjg4ZTM2MGI4MTAwNzVlZjM2ODkxYTM3ZTY1`
+Snapshot ID: `MTY3MjgyMjYzNSwwMDAwMDAwMDAzZWNmNTM3Y2NiZmFhZGEyNmI3MmE4ODIxMGNkOTNm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2P0QCc.md) - [plain]
 
 > This is Inspector\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,195 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,236 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2P0QCc.md) - [plain]
 | 20 | [Otra Vez](https://open.spotify.com/track/0nOtNlhNtInuUptmnjJtUs) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Otra Vez](https://open.spotify.com/album/6Gy4e2sYwQ3VKEW4AkUtXd) | 4:18 |
 | 21 | [Las Tijeras](https://open.spotify.com/track/3Rn0rPrhtQmEJlljjanuc9) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 4:05 |
 | 22 | [Brindo Por Ti](https://open.spotify.com/track/6XeuHuEhijEhvt2KXsJGvZ) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspección Retroacústica](https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk) | 4:08 |
-| 23 | [Convaleciente](https://open.spotify.com/track/4O0sPAqzasrIPPuDDrlM3r) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Convaleciente](https://open.spotify.com/album/5ugPUCZNcNtYJZuczE83Th) | 3:26 |
-| 24 | [Yo No Naci Para Amar](https://open.spotify.com/track/7qQMiNcXYmkx6G3sZ5ljDm) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 4:30 |
+| 23 | [Yo No Naci Para Amar](https://open.spotify.com/track/7qQMiNcXYmkx6G3sZ5ljDm) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 4:30 |
+| 24 | [Convaleciente](https://open.spotify.com/track/4O0sPAqzasrIPPuDDrlM3r) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Convaleciente](https://open.spotify.com/album/5ugPUCZNcNtYJZuczE83Th) | 3:26 |
 | 25 | [Pasa la Vida](https://open.spotify.com/track/4DP3Pl4f2QysGpBvBakrIE) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Páginas en Blanco](https://open.spotify.com/album/5UUTz6uw8xlU6V56pBXW8G) | 4:33 |
 | 26 | [Inspiracional](https://open.spotify.com/track/1iPLqMA51oVMzaATZrcZZ1) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspección Retroacústica](https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk) | 4:36 |
 | 27 | [Deja Ya de Mentir](https://open.spotify.com/track/50g55TOo4ZYIaKeWEaMKGB) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Lollypop Lorry](https://open.spotify.com/artist/78fGkSqH726lfIWGxSg6uX) | [A2í 5uena!, Vol 1](https://open.spotify.com/album/32IXwoxYqeTDQSZd2H9PIS) | 3:13 |
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2P0QCc.md) - [plain]
 | 39 | [Más Allá del Universo](https://open.spotify.com/track/6HUeXwT3LqfcEVYYc2Z9uv) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Paradise Has No Border](https://open.spotify.com/album/06suiN9OLq2uwkUc44FO1U) | 3:04 |
 | 40 | [Guitarras Blancas](https://open.spotify.com/track/08oC8F2G7gkwfcVRGrOB2U) | [La Skandalosa Tripulación](https://open.spotify.com/artist/3dTtKHXPMLmyevUFZO941G), [Fabián Dee](https://open.spotify.com/artist/0rrBjKAgWYCE9QOe2HWat8), [Homero Ontiveros](https://open.spotify.com/artist/6IIAv1oFfMw5tEjIbcjyFt), [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Guitarras Blancas](https://open.spotify.com/album/3FQid93WBN205xUSNji4cZ) | 3:07 |
 | 41 | [Páginas en Blanco](https://open.spotify.com/track/0Te6eXGhdb1dv1qDMTnJm7) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Páginas en Blanco](https://open.spotify.com/album/5UUTz6uw8xlU6V56pBXW8G) | 4:16 |
-| 42 | [Blanco y Negro](https://open.spotify.com/track/0FqsUf0mLzE7anwGwDiwQA) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Blanco y Negro](https://open.spotify.com/album/7qhAkyX27LQoUTrveQmika) | 2:26 |
+| 42 | [Amar O Morir](https://open.spotify.com/track/0WGw8hRQjJFwz0fNyrj91A) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspección Retroacústica](https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk) | 3:56 |
 | 43 | [Ruby Soho](https://open.spotify.com/track/0Dy729ORbIQqwozoVLw4KX) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Hooligans United a Tribute to Rancid](https://open.spotify.com/album/3fNR9RPA8gWdl8DHyEylPv) | 3:07 |
-| 44 | [Amar O Morir](https://open.spotify.com/track/0WGw8hRQjJFwz0fNyrj91A) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspección Retroacústica](https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk) | 3:56 |
+| 44 | [Blanco y Negro](https://open.spotify.com/track/0FqsUf0mLzE7anwGwDiwQA) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Blanco y Negro](https://open.spotify.com/album/7qhAkyX27LQoUTrveQmika) | 2:26 |
 | 45 | [Alma En Fuego](https://open.spotify.com/track/5Jk1TpnDH4MzaOg05NMiKO) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Unidad, Cerveza y Ska](https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd) | 4:07 |
 | 46 | [Realidad](https://open.spotify.com/track/6URADJcjFjOWdDTKcxlknR) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:16 |
 | 47 | [Tan Grande](https://open.spotify.com/track/64KFKG9Wb7nY3PFNbTa0Wm) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Doctor Krápula](https://open.spotify.com/artist/6qr2W4OfZLCIC7gItc7j0r) | [Tan Grande](https://open.spotify.com/album/3OMP46WlIEONRAwGym5Rcv) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2P0QCc.md) - [plain]
 | 49 | [Te Fuiste](https://open.spotify.com/track/4PPbyWTRR5L9KonF6jqwOs) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Unidad, Cerveza y Ska](https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd) | 2:28 |
 | 50 | [Dolor en el Sur](https://open.spotify.com/track/26G3ejHXZlHm1o2GTaCqUr) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Blanco y Negro](https://open.spotify.com/album/7qhAkyX27LQoUTrveQmika) | 3:56 |
 
-Snapshot ID: `MjgwMjYwMzIsMDAwMDAwMDAzMDEyNWUzOGY1MjQwZjcyMDA0ZGY1ZGZkMjlhMDJkZA==`
+Snapshot ID: `MjgwMjc0MDEsMDAwMDAwMDAzMjNhZjg2OGExYzUzYzU5MzFlMTRiYjA4ZmMyMDBmZg==`

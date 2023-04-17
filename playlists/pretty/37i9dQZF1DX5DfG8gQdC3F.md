@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Charlotte Cardin, Post Malone, Lauren Spencer Smith, and Feist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,487 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,512 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 12 | [Synergy](https://open.spotify.com/track/5KkxBEAqnxcfibAepMZSyA) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82) | [Synergy](https://open.spotify.com/album/10FiVORbZ6sRGYLWkP3PQ4) | 3:29 |
 | 13 | [Esta Vida](https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Esta Vida](https://open.spotify.com/album/5C82uAeAwABjDB7lsLL9iL) | 3:29 |
 | 14 | [Afraid of the Dark](https://open.spotify.com/track/6iuaN8P73TOrTo4MCFpIc8) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Afraid of the Dark](https://open.spotify.com/album/5pI0rlg5RIFp9rnxkMM2b3) | 3:47 |
-| 15 | [What It's Like to Be a Man](https://open.spotify.com/track/5uqXEAPYnytyz9WPoXr3UR) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39) | [What It's Like to Be a Man](https://open.spotify.com/album/5w1tKn8VLDYKcfFuYFQqvh) | 3:39 |
+| 15 | [To Be A Man](https://open.spotify.com/track/5uqXEAPYnytyz9WPoXr3UR) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39) | [To Be A Man](https://open.spotify.com/album/5w1tKn8VLDYKcfFuYFQqvh) | 3:39 |
 | 16 | [Love Again \- from the Motion Picture Soundtrack](https://open.spotify.com/track/4o1I2WL1pjyFLpshFuLCm2) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Love Again \(from the Motion Picture Soundtrack\)](https://open.spotify.com/album/3IIFp3ItzFscCAKXB6Z2Zv) | 3:32 |
 | 17 | [Try Me](https://open.spotify.com/track/3htVhQPsTXWAkAXYRkfRSz) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Try Me](https://open.spotify.com/album/1zEHQu3XSlROYTbFdmISHx) | 3:33 |
 | 18 | [Queen of the Dancehall](https://open.spotify.com/track/2KKUB380LqN4ydVQhdMGFJ) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Queen of the Dancehall](https://open.spotify.com/album/0BAUGuQ5pbGkBBWfIZOEbW) | 2:28 |

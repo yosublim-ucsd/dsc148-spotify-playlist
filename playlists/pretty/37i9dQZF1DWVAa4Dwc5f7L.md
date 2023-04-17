@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 
 > ¡Hasta las 15! Monster merengue hits! Cover: Elvis Crespo
 
-[Spotify](https://open.spotify.com/user/spotify) - 379,777 likes - 100 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,825 likes - 100 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,14 +45,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 35 | [Pegadito Suavecito](https://open.spotify.com/track/7FFpxe3RMrRhG63dFtgRed) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Fito Blanko](https://open.spotify.com/artist/5eYDJJfPXinVZq2mXleOSW) | [One Flag](https://open.spotify.com/album/6IDeGLzTfjld3DzSbgnSUt) | 3:46 |
 | 36 | [Buscando Tus Besos](https://open.spotify.com/track/5hCfmqE3kJrIIA4bacK7gx) | [Rubby Pérez](https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx) | [Buscando Tus Besos](https://open.spotify.com/album/1l02hyM8dkgdC3ujkxiBmT) | 3:55 |
 | 37 | [La Quiero a Morir](https://open.spotify.com/track/66cquyyzQVJr3XFTokrHxl) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Los Hijos Del Rey](https://open.spotify.com/album/014dlhTlNSo8mOUN4IwWal) | 5:06 |
-| 38 | [Morena Ven](https://open.spotify.com/track/0ejCXxg1xLNengD587zpAe) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Mundialmente Sabrosos](https://open.spotify.com/album/3aGmmQS34YIRNjNPf27r39) | 4:21 |
+| 38 | [Abusadora](https://open.spotify.com/track/5mCvkhkAvwNnUsIt2PN9Al) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Serie 2000](https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m) | 4:09 |
 | 39 | [Como Yo](https://open.spotify.com/track/6lukSvy0Oh4oImuY0ihOvH) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [La Llave De Mi Corazon](https://open.spotify.com/album/1xdl8xYY54gDXuTVhOxNSc) | 3:25 |
-| 40 | [Abusadora](https://open.spotify.com/track/5mCvkhkAvwNnUsIt2PN9Al) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Serie 2000](https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m) | 4:09 |
+| 40 | [Morena Ven](https://open.spotify.com/track/0ejCXxg1xLNengD587zpAe) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Mundialmente Sabrosos](https://open.spotify.com/album/3aGmmQS34YIRNjNPf27r39) | 4:21 |
 | 41 | [Niña Bonita \- Remastered 2020](https://open.spotify.com/track/7gKs1zCe0oSzpBjNyvdMIP) | [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ) | [Mi Niña Bonita \(Remastered 2020 / 10 Anniversary\)](https://open.spotify.com/album/1jvT4Qd5XX0D3VEEX9IAam) | 3:35 |
 | 42 | [Mi Reina](https://open.spotify.com/track/7eXxn1Nqr4XUKTfJRzgAax) | [La Makina](https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX) | [La Makina..\. A Mil](https://open.spotify.com/album/12Mfk5BfNCnKU8oQ5adypn) | 4:10 |
 | 43 | [La Morena](https://open.spotify.com/track/2gU7z6VLvHtrRCZvLhVehS) | [Oro Solido](https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4) | [El Poder de New York](https://open.spotify.com/album/4pqxqBDUI1WnJXItH0SFji) | 4:48 |
-| 44 | [Borrón y Cuenta Nueva](https://open.spotify.com/track/4ktOth7G3OxN9vTiWF1oxD) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Acabando!](https://open.spotify.com/album/0sEL3rEDSjh1sybrUjVwaB) | 3:58 |
-| 45 | [Patacón Pisao](https://open.spotify.com/track/7J3rDUSA4vDHaqHPblboTU) | [Johnny Ventura](https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus) | [10 De Colección](https://open.spotify.com/album/4se9bp1pffpDBHyzFWD4YV) | 4:35 |
+| 44 | [Patacón Pisao](https://open.spotify.com/track/7J3rDUSA4vDHaqHPblboTU) | [Johnny Ventura](https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus) | [10 De Colección](https://open.spotify.com/album/4se9bp1pffpDBHyzFWD4YV) | 4:35 |
+| 45 | [Borrón y Cuenta Nueva](https://open.spotify.com/track/4ktOth7G3OxN9vTiWF1oxD) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Acabando!](https://open.spotify.com/album/0sEL3rEDSjh1sybrUjVwaB) | 3:58 |
 | 46 | [Anoche Hablamos de Amor](https://open.spotify.com/track/0ElCcbF18PWFCLzMwIJU9m) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Vete y Dile](https://open.spotify.com/album/3bLNzJGuGCJCPnJw4lqwTn) | 4:31 |
 | 47 | [El Africano](https://open.spotify.com/track/04bMI6KabOuaqBBgBvaa32) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Serie 2000](https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m) | 4:11 |
 | 48 | [Kiliki Taka Ti](https://open.spotify.com/track/7zSuMBPE82UBr6eNpJEzSd) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Lo Mejor De...Toño Rosario](https://open.spotify.com/album/475agtJk3uN4dSg38QKx5t) | 6:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 99 | [La Pastilla](https://open.spotify.com/track/6laC9qdbtt83hHAikUpt27) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Éxitos](https://open.spotify.com/album/0qTw9aI747PymW3nbhYIVJ) | 4:18 |
 | 100 | [Ni Tu Ni Yo](https://open.spotify.com/track/77cE5knaNTdMi3xwD4qpBv) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Juntos](https://open.spotify.com/album/6yq4tvlzSBaHvdsb8dPg2X) | 4:37 |
 
-Snapshot ID: `MTY4MTQ0NDgwMCwwMDAwMDAwMDIxYjdkZWIzYjZmN2I0MmEyMTY5NDAwNjMxMzYzNzVk`
+Snapshot ID: `MTY4MTQ0NDgwMCwwMDAwMDAwMGNjZTc0MjE1NjlkOTgyZWJjZDA0NDY5MGYyZGRhODNj`

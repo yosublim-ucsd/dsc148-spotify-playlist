@@ -1,12 +1,12 @@
 {
   "description": "\u00a1mueve ese booty! \ud83c\udf51\ud83d\udd25",
-  "num_followers": 111571,
+  "num_followers": 111864,
   "original_name": "twerk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg4Mjc5OCwwMDAwMDAwMGM3OWE3ZTI3MDg3MWViYTA5ODFlMWE4ZWU1M2QxMjA0",
+  "snapshot_id": "MTY4MDg4Mjc5OCwwMDAwMDAwMDhjMGQ0ZjQ0NGIwODY5NWNlNzY1ODhkYjBhMGU0ZTY0",
   "tracks": [
     {
       "added_at": "2023-04-07 15:53:18",
@@ -908,7 +908,7 @@
           "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 258800,
+      "duration_ms": 258799,
       "name": "Secreto",
       "url": "https://open.spotify.com/track/5W83ErFkO3aKAIS1WMi6u0"
     },
@@ -1291,6 +1291,34 @@
     {
       "added_at": "2023-04-07 15:53:18",
       "album": {
+        "name": "Eleg\u00ed (feat. D\u00edmelo Flow)",
+        "url": "https://open.spotify.com/album/3j6ouZdjTVyddYH2XkMjYb"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "D\u00edmelo Flow",
+          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
+        }
+      ],
+      "duration_ms": 197721,
+      "name": "Eleg\u00ed (feat. D\u00edmelo Flow)",
+      "url": "https://open.spotify.com/track/50ZC4PM7hywH27RcCfViau"
+    },
+    {
+      "added_at": "2023-04-07 15:53:18",
+      "album": {
         "name": "La Jeepeta (Remix)",
         "url": "https://open.spotify.com/album/5emzM1P5GGeroiivNQgCq4"
       },
@@ -1323,34 +1351,6 @@
     {
       "added_at": "2023-04-07 15:53:18",
       "album": {
-        "name": "Eleg\u00ed (feat. D\u00edmelo Flow)",
-        "url": "https://open.spotify.com/album/3j6ouZdjTVyddYH2XkMjYb"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "D\u00edmelo Flow",
-          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
-        }
-      ],
-      "duration_ms": 197721,
-      "name": "Eleg\u00ed (feat. D\u00edmelo Flow)",
-      "url": "https://open.spotify.com/track/50ZC4PM7hywH27RcCfViau"
-    },
-    {
-      "added_at": "2023-04-07 15:53:18",
-      "album": {
         "name": "Colores",
         "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
       },
@@ -1363,6 +1363,22 @@
       "duration_ms": 205933,
       "name": "Azul",
       "url": "https://open.spotify.com/track/2lCkncy6bIB0LTMT7kvrD1"
+    },
+    {
+      "added_at": "2023-04-07 15:53:18",
+      "album": {
+        "name": "Nibiru",
+        "url": "https://open.spotify.com/album/7f6r6ijWtMJ0QYydwuCYvH"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 158760,
+      "name": "Baila Baila Baila",
+      "url": "https://open.spotify.com/track/5PXsZaT8cOxb4mXrA20PMQ"
     },
     {
       "added_at": "2023-04-07 15:53:18",
@@ -1387,18 +1403,18 @@
     {
       "added_at": "2023-04-07 15:53:18",
       "album": {
-        "name": "Nibiru",
-        "url": "https://open.spotify.com/album/7f6r6ijWtMJ0QYydwuCYvH"
+        "name": "Pa'l Mundo",
+        "url": "https://open.spotify.com/album/0mfiGkVJST0ysEVznu2aZP"
       },
       "artists": [
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
         }
       ],
-      "duration_ms": 158760,
-      "name": "Baila Baila Baila",
-      "url": "https://open.spotify.com/track/5PXsZaT8cOxb4mXrA20PMQ"
+      "duration_ms": 172680,
+      "name": "Rakata",
+      "url": "https://open.spotify.com/track/1kQqiC1rS1FiuVpeBKN0QN"
     },
     {
       "added_at": "2023-04-07 15:53:18",
@@ -1419,22 +1435,6 @@
       "duration_ms": 144018,
       "name": "Linda",
       "url": "https://open.spotify.com/track/1ahCrpeTt94LL7y1aXw0Y8"
-    },
-    {
-      "added_at": "2023-04-07 15:53:18",
-      "album": {
-        "name": "Pa'l Mundo",
-        "url": "https://open.spotify.com/album/0mfiGkVJST0ysEVznu2aZP"
-      },
-      "artists": [
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        }
-      ],
-      "duration_ms": 172680,
-      "name": "Rakata",
-      "url": "https://open.spotify.com/track/1kQqiC1rS1FiuVpeBKN0QN"
     },
     {
       "added_at": "2023-04-07 15:53:18",
@@ -1515,26 +1515,6 @@
     {
       "added_at": "2023-04-07 15:53:18",
       "album": {
-        "name": "Los Bandoleros Reloaded",
-        "url": "https://open.spotify.com/album/5KtOg6t1abStlfb6OvoD8R"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        },
-        {
-          "name": "Vico C",
-          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
-        }
-      ],
-      "duration_ms": 265586,
-      "name": "La Vecinita",
-      "url": "https://open.spotify.com/track/4wmPBI7iEJ2urKoXjQQqFu"
-    },
-    {
-      "added_at": "2023-04-07 15:53:18",
-      "album": {
         "name": "El Androide",
         "url": "https://open.spotify.com/album/4v25w5u9JmarAGjE3jcByx"
       },
@@ -1555,18 +1535,22 @@
     {
       "added_at": "2023-04-07 15:53:18",
       "album": {
-        "name": "Colores",
-        "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
+        "name": "Los Bandoleros Reloaded",
+        "url": "https://open.spotify.com/album/5KtOg6t1abStlfb6OvoD8R"
       },
       "artists": [
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Vico C",
+          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
         }
       ],
-      "duration_ms": 157733,
-      "name": "Amarillo",
-      "url": "https://open.spotify.com/track/6zEgnpM0qYmHLDnh8WPejL"
+      "duration_ms": 265586,
+      "name": "La Vecinita",
+      "url": "https://open.spotify.com/track/4wmPBI7iEJ2urKoXjQQqFu"
     },
     {
       "added_at": "2023-04-07 15:53:18",
@@ -1587,6 +1571,22 @@
       "duration_ms": 259600,
       "name": "Jangueo",
       "url": "https://open.spotify.com/track/1bRpSCFv6P2OUhciByeRYR"
+    },
+    {
+      "added_at": "2023-04-07 15:53:18",
+      "album": {
+        "name": "Colores",
+        "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 157733,
+      "name": "Amarillo",
+      "url": "https://open.spotify.com/track/6zEgnpM0qYmHLDnh8WPejL"
     },
     {
       "added_at": "2023-04-07 15:53:18",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2023-04-07 15:53:18",
       "album": {
-        "name": "Reggaeton",
-        "url": "https://open.spotify.com/album/5FMJB2xKTMGdM3w6DmC6L5"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 158800,
-      "name": "Reggaeton",
-      "url": "https://open.spotify.com/track/2D3z17LBMJ2HEHeBFFjTLi"
-    },
-    {
-      "added_at": "2023-04-07 15:53:18",
-      "album": {
         "name": "Tu Sicaria",
         "url": "https://open.spotify.com/album/6LcDLFvmP0BrUOgEFjscJR"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 161748,
       "name": "+Linda",
       "url": "https://open.spotify.com/track/5cBrOhKDyiJF9bPGUHKkG0"
+    },
+    {
+      "added_at": "2023-04-07 15:53:18",
+      "album": {
+        "name": "Reggaeton",
+        "url": "https://open.spotify.com/album/5FMJB2xKTMGdM3w6DmC6L5"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 158800,
+      "name": "Reggaeton",
+      "url": "https://open.spotify.com/track/2D3z17LBMJ2HEHeBFFjTLi"
     },
     {
       "added_at": "2023-04-07 15:53:18",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2023-04-07 15:53:18",
       "album": {
-        "name": "Rojo",
-        "url": "https://open.spotify.com/album/54lqxBRUg66EYNyqKSKU5C"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 150853,
-      "name": "Rojo",
-      "url": "https://open.spotify.com/track/4uziEsK1yiqdauKVDPsmVG"
-    },
-    {
-      "added_at": "2023-04-07 15:53:18",
-      "album": {
         "name": "Intimo",
         "url": "https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt"
       },
@@ -1879,6 +1863,66 @@
       "duration_ms": 215459,
       "name": "Whine Up",
       "url": "https://open.spotify.com/track/2pWOMNQJW3g2zmGjP0Vkb0"
+    },
+    {
+      "added_at": "2023-04-07 15:53:18",
+      "album": {
+        "name": "Desconocidos",
+        "url": "https://open.spotify.com/album/0vfE72mb2weKSONtBC6SPJ"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 204453,
+      "name": "Desconocidos",
+      "url": "https://open.spotify.com/track/0s5DNDV6LAKn2u2Ufa3VjQ"
+    },
+    {
+      "added_at": "2023-04-07 15:53:18",
+      "album": {
+        "name": "Rojo",
+        "url": "https://open.spotify.com/album/54lqxBRUg66EYNyqKSKU5C"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 150853,
+      "name": "Rojo",
+      "url": "https://open.spotify.com/track/4uziEsK1yiqdauKVDPsmVG"
+    },
+    {
+      "added_at": "2023-04-07 15:53:18",
+      "album": {
+        "name": "Borracho",
+        "url": "https://open.spotify.com/album/0DzwLlhnxgjPgL3uWNZTWG"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        }
+      ],
+      "duration_ms": 219750,
+      "name": "Borracho",
+      "url": "https://open.spotify.com/track/0rsTDgGRlXKuzSAxcdb4Ns"
     },
     {
       "added_at": "2023-04-07 15:53:18",
@@ -1915,50 +1959,6 @@
       "duration_ms": 304733,
       "name": "Bellaquita - Remix",
       "url": "https://open.spotify.com/track/1Xnn1TPyr5h0hpRAT4B4EA"
-    },
-    {
-      "added_at": "2023-04-07 15:53:18",
-      "album": {
-        "name": "Desconocidos",
-        "url": "https://open.spotify.com/album/0vfE72mb2weKSONtBC6SPJ"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 204453,
-      "name": "Desconocidos",
-      "url": "https://open.spotify.com/track/0s5DNDV6LAKn2u2Ufa3VjQ"
-    },
-    {
-      "added_at": "2023-04-07 15:53:18",
-      "album": {
-        "name": "Borracho",
-        "url": "https://open.spotify.com/album/0DzwLlhnxgjPgL3uWNZTWG"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        },
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        }
-      ],
-      "duration_ms": 219750,
-      "name": "Borracho",
-      "url": "https://open.spotify.com/track/0rsTDgGRlXKuzSAxcdb4Ns"
     },
     {
       "added_at": "2023-04-07 15:53:18",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2023-04-07 15:53:18",
       "album": {
-        "name": "Morado",
-        "url": "https://open.spotify.com/album/7ynTaSXD9esXkgY0GG8UFd"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 200666,
-      "name": "Morado",
-      "url": "https://open.spotify.com/track/3mQ6SLdxxaL52Yte7KF2Ks"
-    },
-    {
-      "added_at": "2023-04-07 15:53:18",
-      "album": {
         "name": "54+1",
         "url": "https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 222511,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/19vrzibX1lFlT2V2ToVQkv"
+    },
+    {
+      "added_at": "2023-04-07 15:53:18",
+      "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/5Qkxw86wtQYlK2dEjTJcSP"
+      },
+      "artists": [
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        }
+      ],
+      "duration_ms": 123253,
+      "name": "Perreito",
+      "url": "https://open.spotify.com/track/5ecJFbbgmywVJkqGQIfcuo"
     }
   ],
   "unique_name": "twerk",

@@ -1897,6 +1897,28 @@
     },
     {
       "album": {
+        "name": "Dreamland (+ Bonus Levels)",
+        "url": "https://open.spotify.com/album/4nr6ytQ4OrEralEu4LhIVp"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243536,
+      "name": "Heat Waves - Oliver Heldens Remix",
+      "url": "https://open.spotify.com/track/3k2FCI9rzGEvXnjP0BEZzp"
+    },
+    {
+      "album": {
         "name": "Heat Waves (Expansion Pack)",
         "url": "https://open.spotify.com/album/57j3jda1XAM1xFdVamdVue"
       },
@@ -1912,7 +1934,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 243536,
       "name": "Heat Waves - Oliver Heldens Remix",
       "url": "https://open.spotify.com/track/6yvdWGtowJa7ffgc1UR5SF"

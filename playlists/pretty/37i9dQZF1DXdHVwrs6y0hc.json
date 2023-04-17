@@ -1,12 +1,12 @@
 {
   "description": "Come for the stew stay for the craic.",
-  "num_followers": 50603,
+  "num_followers": 50700,
   "original_name": "Irish Tavern",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNDg5NTEwNiwwMDAwMDAwMDNiNTgyYzY5NmQzYjUwN2YxYzQ5MzBkZjMyMGRiMWM0",
+  "snapshot_id": "MTYzNDg5NTEwNiwwMDAwMDAwMGNlMjRmZmUyMjk0YTU2OWFmNDZmNjJiMDI3MDNjYWUx",
   "tracks": [
     {
       "added_at": "2021-04-26 15:38:07",
@@ -423,18 +423,18 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
-        "name": "Many's The Fine Tale",
-        "url": "https://open.spotify.com/album/0nmsNkHCMFKJX6zQX5tEYz"
+        "name": "Tara: Irish Songs (Paddy Dreaming)",
+        "url": "https://open.spotify.com/album/6gmemevzCugRlnRC1YmQPr"
       },
       "artists": [
         {
-          "name": "Ed Miller",
-          "url": "https://open.spotify.com/artist/7GmEWdBYkt5IE7EDkArB1M"
+          "name": "Tara",
+          "url": "https://open.spotify.com/artist/24JAAnBviO3vTMZ5N9taj8"
         }
       ],
-      "duration_ms": 221546,
-      "name": "The Lads O' The Fair",
-      "url": "https://open.spotify.com/track/0k4BqDSSeH07EQ91HzIjiM"
+      "duration_ms": 174693,
+      "name": "Paddy Dreaming",
+      "url": "https://open.spotify.com/track/4TmmeeYNQ0tD1jIo0u6Wck"
     },
     {
       "added_at": "2021-04-26 15:38:07",
@@ -471,18 +471,18 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
-        "name": "Tara: Irish Songs (Paddy Dreaming)",
-        "url": "https://open.spotify.com/album/6gmemevzCugRlnRC1YmQPr"
+        "name": "Many's The Fine Tale",
+        "url": "https://open.spotify.com/album/0nmsNkHCMFKJX6zQX5tEYz"
       },
       "artists": [
         {
-          "name": "Tara",
-          "url": "https://open.spotify.com/artist/24JAAnBviO3vTMZ5N9taj8"
+          "name": "Ed Miller",
+          "url": "https://open.spotify.com/artist/7GmEWdBYkt5IE7EDkArB1M"
         }
       ],
-      "duration_ms": 174693,
-      "name": "Paddy Dreaming",
-      "url": "https://open.spotify.com/track/4TmmeeYNQ0tD1jIo0u6Wck"
+      "duration_ms": 221546,
+      "name": "The Lads O' The Fair",
+      "url": "https://open.spotify.com/track/0k4BqDSSeH07EQ91HzIjiM"
     },
     {
       "added_at": "2021-04-26 15:38:07",
@@ -543,6 +543,22 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
+        "name": "Tara: Irish Songs (Paddy Dreaming)",
+        "url": "https://open.spotify.com/album/6gmemevzCugRlnRC1YmQPr"
+      },
+      "artists": [
+        {
+          "name": "Tara",
+          "url": "https://open.spotify.com/artist/24JAAnBviO3vTMZ5N9taj8"
+        }
+      ],
+      "duration_ms": 231400,
+      "name": "The Charladies' Ball",
+      "url": "https://open.spotify.com/track/2xmbVtHzfnZiSjzYjRliap"
+    },
+    {
+      "added_at": "2021-04-26 15:38:07",
+      "album": {
         "name": "Sean Tyrrell Live at Greenes",
         "url": "https://open.spotify.com/album/7hwixTHLIB7E0xkw3n3lUV"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 251533,
       "name": "The Blight",
       "url": "https://open.spotify.com/track/2QJUd682LU3QIOYWnBP5gZ"
-    },
-    {
-      "added_at": "2021-04-26 15:38:07",
-      "album": {
-        "name": "Tara: Irish Songs (Paddy Dreaming)",
-        "url": "https://open.spotify.com/album/6gmemevzCugRlnRC1YmQPr"
-      },
-      "artists": [
-        {
-          "name": "Tara",
-          "url": "https://open.spotify.com/artist/24JAAnBviO3vTMZ5N9taj8"
-        }
-      ],
-      "duration_ms": 231400,
-      "name": "The Charladies' Ball",
-      "url": "https://open.spotify.com/track/2xmbVtHzfnZiSjzYjRliap"
     },
     {
       "added_at": "2021-04-26 15:38:07",
@@ -827,22 +827,6 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
-        "name": "20 Best Irish Songs",
-        "url": "https://open.spotify.com/album/6wyX3vo0E5pKCKaRECy0SQ"
-      },
-      "artists": [
-        {
-          "name": "Noel McLoughlin",
-          "url": "https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV"
-        }
-      ],
-      "duration_ms": 264450,
-      "name": "Dublin in the Rare Old Times",
-      "url": "https://open.spotify.com/track/6cUmT8gumNhb2Y9GOghnmh"
-    },
-    {
-      "added_at": "2021-04-26 15:38:07",
-      "album": {
         "name": "Song for Ireland",
         "url": "https://open.spotify.com/album/1cWuC6mhnhmtZOOICbZEAA"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 248250,
       "name": "The Reason I Left Mullingar",
       "url": "https://open.spotify.com/track/69BIUIZZ8xIYJhQ0t1eY1J"
+    },
+    {
+      "added_at": "2021-04-26 15:38:07",
+      "album": {
+        "name": "20 Best Irish Songs",
+        "url": "https://open.spotify.com/album/6wyX3vo0E5pKCKaRECy0SQ"
+      },
+      "artists": [
+        {
+          "name": "Noel McLoughlin",
+          "url": "https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV"
+        }
+      ],
+      "duration_ms": 264450,
+      "name": "Dublin in the Rare Old Times",
+      "url": "https://open.spotify.com/track/6cUmT8gumNhb2Y9GOghnmh"
     },
     {
       "added_at": "2021-04-26 15:38:07",

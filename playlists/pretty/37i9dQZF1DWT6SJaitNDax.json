@@ -1,12 +1,12 @@
 {
   "description": "Afro sounds crossing borders.  Cover: <a href=\"https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp?si=cc4qsqDzSfS21lTakVte6w\">Wizkid</a>",
-  "num_followers": 580697,
+  "num_followers": 580837,
   "original_name": "We Everywhere",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc1NDc3NCwwMDAwMDAwMDU1MjU2NGJlOTY4MzRlMjc0NTVjOWFhMmUzNjNjNjgy",
+  "snapshot_id": "MTY3NDc1NDc3NCwwMDAwMDAwMDA5YzlkZjNlNjVkNTE3ZDYwYWJjMWIzMzQ3MmMzZDRl",
   "tracks": [
     {
       "added_at": "2023-01-26 17:39:34",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
-        "name": "Different (With Majid Jordan)",
-        "url": "https://open.spotify.com/album/0XRJnjejsA9YXjYGdek23k"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        },
-        {
-          "name": "Majid Jordan",
-          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "Different (With Majid Jordan)",
-      "url": "https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY"
-    },
-    {
-      "added_at": "2023-01-26 17:39:34",
-      "album": {
         "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
         "url": "https://open.spotify.com/album/6OTNestAuAxK7wytwRiq9q"
       },
@@ -1331,6 +1311,26 @@
       "duration_ms": 213599,
       "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
       "url": "https://open.spotify.com/track/6iC4xfqow6iAsRhPh5IrWz"
+    },
+    {
+      "added_at": "2023-01-26 17:39:34",
+      "album": {
+        "name": "Different (With Majid Jordan)",
+        "url": "https://open.spotify.com/album/0XRJnjejsA9YXjYGdek23k"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        },
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "Different (With Majid Jordan)",
+      "url": "https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY"
     },
     {
       "added_at": "2023-01-26 17:39:34",
@@ -1599,26 +1599,6 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
-        "name": "Roadblock",
-        "url": "https://open.spotify.com/album/5Iqujhk1y4Q4KoQILNzvgS"
-      },
-      "artists": [
-        {
-          "name": "NSG",
-          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
-        },
-        {
-          "name": "LD",
-          "url": "https://open.spotify.com/artist/4eQGLO5ExQniSLvj5NjW6m"
-        }
-      ],
-      "duration_ms": 233293,
-      "name": "Roadblock",
-      "url": "https://open.spotify.com/track/1TfpBtkEQiDISwBcW1BeCX"
-    },
-    {
-      "added_at": "2023-01-26 17:39:34",
-      "album": {
         "name": "Stand Strong (feat. Sunday Service Choir)",
         "url": "https://open.spotify.com/album/3MhLmyxJueeWrXsRWlfw0e"
       },
@@ -1659,6 +1639,42 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
+        "name": "Roadblock",
+        "url": "https://open.spotify.com/album/5Iqujhk1y4Q4KoQILNzvgS"
+      },
+      "artists": [
+        {
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+        },
+        {
+          "name": "LD",
+          "url": "https://open.spotify.com/artist/4eQGLO5ExQniSLvj5NjW6m"
+        }
+      ],
+      "duration_ms": 233293,
+      "name": "Roadblock",
+      "url": "https://open.spotify.com/track/1TfpBtkEQiDISwBcW1BeCX"
+    },
+    {
+      "added_at": "2023-01-26 17:39:34",
+      "album": {
+        "name": "Legalize",
+        "url": "https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 146249,
+      "name": "Legalize",
+      "url": "https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5"
+    },
+    {
+      "added_at": "2023-01-26 17:39:34",
+      "album": {
         "name": "Blessings REMIX (feat. French Montana & Davido)",
         "url": "https://open.spotify.com/album/3kxuAgeGxSrMLi9qu4F6x9"
       },
@@ -1679,22 +1695,6 @@
       "duration_ms": 225000,
       "name": "Blessings REMIX (feat. French Montana & Davido)",
       "url": "https://open.spotify.com/track/4qxWose1KJgPDYQkMs0Ng5"
-    },
-    {
-      "added_at": "2023-01-26 17:39:34",
-      "album": {
-        "name": "Legalize",
-        "url": "https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 146249,
-      "name": "Legalize",
-      "url": "https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5"
     },
     {
       "added_at": "2023-01-26 17:39:34",
@@ -1759,26 +1759,6 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
-        "name": "Heat Of The Moment",
-        "url": "https://open.spotify.com/album/3EjN3Lt1gd4M0KrYKz7GrD"
-      },
-      "artists": [
-        {
-          "name": "Tink",
-          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 174421,
-      "name": "Might Let You (feat. Davido)",
-      "url": "https://open.spotify.com/track/1q03sSwtOk5czzjKFa4qhA"
-    },
-    {
-      "added_at": "2023-01-26 17:39:34",
-      "album": {
         "name": "Renaissance",
         "url": "https://open.spotify.com/album/0cFJfTwmx4KOM9zEy9i2nB"
       },
@@ -1799,6 +1779,46 @@
       "duration_ms": 202012,
       "name": "The Recipe",
       "url": "https://open.spotify.com/track/2WyedZ7owuPdgT4tcHhdo5"
+    },
+    {
+      "added_at": "2023-01-26 17:39:34",
+      "album": {
+        "name": "Heat Of The Moment",
+        "url": "https://open.spotify.com/album/3EjN3Lt1gd4M0KrYKz7GrD"
+      },
+      "artists": [
+        {
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 174421,
+      "name": "Might Let You (feat. Davido)",
+      "url": "https://open.spotify.com/track/1q03sSwtOk5czzjKFa4qhA"
+    },
+    {
+      "added_at": "2023-01-26 17:39:34",
+      "album": {
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/3P5vWf0KJyYObvNKB7jP00"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 188910,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/2XghxCSGfhpGR2B3ahQXVr"
     },
     {
       "added_at": "2023-01-26 17:39:34",
@@ -1863,26 +1883,6 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
-        "name": "Lento",
-        "url": "https://open.spotify.com/album/3P5vWf0KJyYObvNKB7jP00"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 188910,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/2XghxCSGfhpGR2B3ahQXVr"
-    },
-    {
-      "added_at": "2023-01-26 17:39:34",
-      "album": {
         "name": "Therapy",
         "url": "https://open.spotify.com/album/5HTQ5jXZYHmG0rsYpABqGp"
       },
@@ -1939,6 +1939,30 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
+        "name": "Dream Girl (Global Remix)",
+        "url": "https://open.spotify.com/album/0sQ2hDPOvRDi71FSWB73JD"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 212405,
+      "name": "Dream Girl - Global Remix",
+      "url": "https://open.spotify.com/track/5Etwr8GddDDAwuTK84m5JI"
+    },
+    {
+      "added_at": "2023-01-26 17:39:34",
+      "album": {
         "name": "4AM",
         "url": "https://open.spotify.com/album/1lOAu6ugGCM0WVXfmdwEnO"
       },
@@ -1971,30 +1995,6 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
-        "name": "Dream Girl (Global Remix)",
-        "url": "https://open.spotify.com/album/0sQ2hDPOvRDi71FSWB73JD"
-      },
-      "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        },
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 212405,
-      "name": "Dream Girl - Global Remix",
-      "url": "https://open.spotify.com/track/5Etwr8GddDDAwuTK84m5JI"
-    },
-    {
-      "added_at": "2023-01-26 17:39:34",
-      "album": {
         "name": "A Better Time",
         "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
       },
@@ -2015,18 +2015,26 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
-        "name": "Ginger Me",
-        "url": "https://open.spotify.com/album/1jAYq6eDQAyDFvuJDWdsS4"
+        "name": "Soweto Blues",
+        "url": "https://open.spotify.com/album/2tLxWdcRPF3V05kX1TLb40"
       },
       "artists": [
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Busiswa",
+          "url": "https://open.spotify.com/artist/3RThWxnHbyN5Hvkr66eYj7"
+        },
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
         }
       ],
-      "duration_ms": 205892,
-      "name": "Ginger Me",
-      "url": "https://open.spotify.com/track/28QpG4RmYhxq2YxjmQ06Ch"
+      "duration_ms": 298997,
+      "name": "Soweto Blues",
+      "url": "https://open.spotify.com/track/6l5WDlZzjAXWEA47969TXI"
     }
   ],
   "unique_name": "We Everywhere",

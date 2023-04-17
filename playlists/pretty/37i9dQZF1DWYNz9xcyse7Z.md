@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 
 > Recordando el legado campirano y rancherón con las clásicas del sierreño\. Ariel Camacho en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,694 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,753 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 | 58 | [De Esta Sierra a la Otra Sierra](https://open.spotify.com/track/6Hsuzg08RM8Bz9ypVyJBce) | [Valentín "El Gallo"](https://open.spotify.com/artist/0MJYPa8lsdyJ1Rhf3JTVn3), [Los Dukes De Sonora](https://open.spotify.com/artist/6CPniXwNjmvUgGE2cPzmmb) | [Valentín "El Gallo" Con Guitarras \(En Vivo\)](https://open.spotify.com/album/3NO5ZbtH8zW3wqSF9p7SGs) | 2:36 |
 | 59 | [Mujer Paseada](https://open.spotify.com/track/4HxcEHl9hIvVIdUAsuIoUi) | [Los Nuevos de Sinaloa](https://open.spotify.com/artist/6Q5TEd26K9VgRNVrEmvpU5) | [El Jardin Olvidado](https://open.spotify.com/album/4akU0gaOGgrJJvg2oP3eSB) | 2:42 |
 | 60 | [Rama Verde](https://open.spotify.com/track/4ItuglUP2usKbAWKFcPZna) | [El Canelo De Sinaloa](https://open.spotify.com/artist/5WyCFEWzY8eMcSOu0BFjhJ), [Los Dos Del Sitio](https://open.spotify.com/artist/4fKzhjg1iCHqWvXBB1U6G2) | [El Diablo y el Federal](https://open.spotify.com/album/2rcwazegT8e3JlhPPtHJYk) | 2:36 |
-| 61 | [Los Barandales Del Puente](https://open.spotify.com/track/6ISYzpM2NIThCoOtfUVpC1) | [Los Dos De La Sierra](https://open.spotify.com/artist/3VCLVWGByXwgEpCQW1jmBc) | [Los Dos De La Sierra](https://open.spotify.com/album/0240X6ItNjZMOqwX6ZbkYL) | 3:21 |
-| 62 | [Esta Cobardia](https://open.spotify.com/track/3Rn0F5FIe6V4WtrUruFknR) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Grandes Exitos con Tuba, Acordeón y Guitarra Vol\. 1](https://open.spotify.com/album/2E9MK3bAEAJSpuyRqrSIb2) | 2:26 |
+| 61 | [Esta Cobardia](https://open.spotify.com/track/3Rn0F5FIe6V4WtrUruFknR) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Grandes Exitos con Tuba, Acordeón y Guitarra Vol\. 1](https://open.spotify.com/album/2E9MK3bAEAJSpuyRqrSIb2) | 2:26 |
+| 62 | [Los Barandales Del Puente](https://open.spotify.com/track/6ISYzpM2NIThCoOtfUVpC1) | [Los Dos De La Sierra](https://open.spotify.com/artist/3VCLVWGByXwgEpCQW1jmBc) | [Los Dos De La Sierra](https://open.spotify.com/album/0240X6ItNjZMOqwX6ZbkYL) | 3:21 |
 | 63 | [Que Te Casas](https://open.spotify.com/track/3rZD94i2rUr1nddo8uVXWq) | [Ramon Massiaca Y Los Dos Plebes](https://open.spotify.com/artist/70F5hQ2GuRjGCBawrf1joe) | [La Sombra Del Arbol](https://open.spotify.com/album/4R0sMZcXew3rNAiIfpPLax) | 2:34 |
 | 64 | [La Botella](https://open.spotify.com/track/70lFCPMdLXpxcfApqTECxA) | [Valentín "El Gallo"](https://open.spotify.com/artist/0MJYPa8lsdyJ1Rhf3JTVn3), [Los Dukes De Sonora](https://open.spotify.com/artist/6CPniXwNjmvUgGE2cPzmmb) | [Valentín "El Gallo" Con Guitarras \(En Vivo\)](https://open.spotify.com/album/3NO5ZbtH8zW3wqSF9p7SGs) | 3:26 |
 | 65 | [Para Morir Naci](https://open.spotify.com/track/58VjK7wICoMm0M2zftvsll) | [Los Dukes De Sonora](https://open.spotify.com/artist/6CPniXwNjmvUgGE2cPzmmb) | [Para Morir Nací](https://open.spotify.com/album/6xO9JouFVYKw9lD9YejQJD) | 3:12 |
@@ -88,12 +88,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 | 78 | [Cielo Azul, Cielo Nublado](https://open.spotify.com/track/5GRe4EsGxq49GaxKYvWQoZ) | [Roman De Los Reyes](https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF) | [Tu Lo Decidiste](https://open.spotify.com/album/0JNCEzRPMSqwTTVh350Mj8) | 3:05 |
 | 79 | [Llorando Por Ti](https://open.spotify.com/track/7xtzhHqkdbgCqefLIKgKpY) | [Los Students](https://open.spotify.com/artist/468vRwxNFLQ9bnv9LeA5Sm) | [Para Siempre](https://open.spotify.com/album/0h1qpEWCEyKf6lJHPbN4MR) | 3:18 |
 | 80 | [Las Lluvias](https://open.spotify.com/track/5JWnxJIBUa7bVHqaZIEoUy) | [Los Gavilanes de la Sierra](https://open.spotify.com/artist/1m41o6nhLXMVGGzz9kLgq1) | [Piel de Azúcar](https://open.spotify.com/album/6LRYnSGOYJZufNSd5IscGV) | 3:04 |
-| 81 | [Los Plebes Atrevidos](https://open.spotify.com/track/59hQ9CzM8Mrril2tKdXFj0) | [Los Cuen's De Sinaloa](https://open.spotify.com/artist/4QLyaPcH64FhlBxA8FAeN2) | [Los Cuen's De Sinaloa](https://open.spotify.com/album/0ySeNWEVo1p6JLkylvagO0) | 3:17 |
+| 81 | [Amores Fingidos](https://open.spotify.com/track/7dHPgzcHDFq8s6B50H9bfn) | [Los Cuen's De Sinaloa](https://open.spotify.com/artist/4QLyaPcH64FhlBxA8FAeN2) | [Los Cuen's De Sinaloa](https://open.spotify.com/album/0ySeNWEVo1p6JLkylvagO0) | 2:48 |
 | 82 | [Dos Seres Que Se Aman](https://open.spotify.com/track/6EvHYa6KUiXAl9rqt7E7Z5) | [Los Dos De La Sierra](https://open.spotify.com/artist/3VCLVWGByXwgEpCQW1jmBc) | [Tres Suspiros](https://open.spotify.com/album/1uBsBFgV33cAfgSkIfD9bB) | 2:42 |
 | 83 | [Siempre Te Amaré](https://open.spotify.com/track/2dgAOE1CW61s4pPfrQtgqT) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Grandes Exitos con Tuba, Acordeón y Guitarra Vol\. 1](https://open.spotify.com/album/2E9MK3bAEAJSpuyRqrSIb2) | 2:30 |
 | 84 | [Vete ya](https://open.spotify.com/track/7nyrLXE5oinHY87LpZL1e3) | [Los Sierreños](https://open.spotify.com/artist/5MXWcBs0RGTVN1bz9N7g3A) | [Homenaje Sierreño Al Gallo De Oro](https://open.spotify.com/album/0J8RcbQTePcVEYxnbcZqr0) | 2:31 |
 | 85 | [Eres Mi Droga](https://open.spotify.com/track/521UsXTm7oXDQAgTf9dyS4) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [20 Exitos Sierreños](https://open.spotify.com/album/3oQTOdQllM1EwXNzrmClNi) | 3:18 |
-| 86 | [Amores Fingidos](https://open.spotify.com/track/7dHPgzcHDFq8s6B50H9bfn) | [Los Cuen's De Sinaloa](https://open.spotify.com/artist/4QLyaPcH64FhlBxA8FAeN2) | [Los Cuen's De Sinaloa](https://open.spotify.com/album/0ySeNWEVo1p6JLkylvagO0) | 2:48 |
+| 86 | [Los Plebes Atrevidos](https://open.spotify.com/track/59hQ9CzM8Mrril2tKdXFj0) | [Los Cuen's De Sinaloa](https://open.spotify.com/artist/4QLyaPcH64FhlBxA8FAeN2) | [Los Cuen's De Sinaloa](https://open.spotify.com/album/0ySeNWEVo1p6JLkylvagO0) | 3:17 |
 | 87 | [Mi Buen Corazón](https://open.spotify.com/track/7ylLz8J0xYDToZSajXGmoe) | [Los Gavilanes de la Sierra](https://open.spotify.com/artist/1m41o6nhLXMVGGzz9kLgq1) | [Piel de Azúcar](https://open.spotify.com/album/6LRYnSGOYJZufNSd5IscGV) | 4:39 |
 | 88 | [El Buque de Mas Potencia](https://open.spotify.com/track/1PKLz0d2aaEYG2tEFnGXl5) | [Roman De Los Reyes](https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF) | [Tu Lo Decidiste](https://open.spotify.com/album/0JNCEzRPMSqwTTVh350Mj8) | 2:39 |
 | 89 | [Que Casualidad](https://open.spotify.com/track/1ARNcGlXQKky7zX4TZkCtx) | [Sierreños de Sinaloa](https://open.spotify.com/artist/49XtLcagl18fnpRxiW7QW8) | [Siguen los Exitos](https://open.spotify.com/album/3x6EZXwwRU7kDo9DKzVWKa) | 2:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 | 99 | [Mi Virgencita](https://open.spotify.com/track/2kLYRxamXLrWk11CRRtlp2) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Carnita Asada Sierreña](https://open.spotify.com/album/3wv1ZejKf5Gbk32GYfKPZR) | 2:24 |
 | 100 | [Panfilita](https://open.spotify.com/track/6gaKSvGKBdvHhVL82k9w0E) | [Grupo cessna](https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W) | [El gavilan de acero](https://open.spotify.com/album/08kWZ6q2C80r8OdhCJcq2R) | 3:09 |
 
-Snapshot ID: `MTY3NTM4MzQwOSwwMDAwMDAwMGZjYzQyMGJiNGRhZDU1N2I3MmFkMzgxOWU3MGQ2NjZi`
+Snapshot ID: `MTY3NTM4MzQwOSwwMDAwMDAwMDczMTBkNWE3OTVlNWU3MTQ3YTZiODkxMDljYmExMWVj`

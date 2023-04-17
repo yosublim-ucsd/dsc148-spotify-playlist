@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43pSb7XuvgU.md) - [plain]
 
 > Los grandes éxitos de José José y Juan Gabriel en un mismo lugar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,706 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,815 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43pSb7XuvgU.md) - [plain]
 | 74 | [Costumbres \- En Vivo \[Desde el Instituto Nacional de Bellas Artes\]](https://open.spotify.com/track/2F7podTOpnJDZxU9KMZK9a) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Lo Mejor en Bellas Artes \- 40 Aniversario](https://open.spotify.com/album/4hpY1ryuyFipmOovXGoT88) | 6:31 |
 | 75 | [Debo Hacerlo](https://open.spotify.com/track/0Vu6MvjQLu68rOkhhUqY7h) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Debo Hacerlo](https://open.spotify.com/album/0cccCLiFP4WGPmXdn823JG) | 9:39 |
 | 76 | [Mañana Te Acordaras](https://open.spotify.com/track/1Yo9idf6XM0rhPWSTIG1cP) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con El Mariachi Vargas De Tecalitlan \(with El Mariachi Vargas de Tecalitlán\)](https://open.spotify.com/album/13NCFsw0EMj0JHwC9KaYwK) | 3:55 |
-| 77 | [Siempre Estoy Pensando en Ti \(with El Mariachi México '70 de Pepe López\)](https://open.spotify.com/track/3I8DsEUbuONtbZmkwfz4Gp) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Mariachi México 70 De Pepe López](https://open.spotify.com/artist/0ay6m3OlBxTuEwu1NFHlZI) | [Con Mariachi Vol.2 \(with El Mariachi México '70 de Pepe López\)](https://open.spotify.com/album/3pEHzLdkPor0RrnvSmvXmd) | 3:29 |
-| 78 | [Te Llegará Mi Olvido](https://open.spotify.com/track/6UJAHl1NDh8Nroa27mIKDZ) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Te Llegará Mi Olvido](https://open.spotify.com/album/1wPQmJqHHgHe8dTuP1yTAQ) | 2:16 |
+| 77 | [Te Llegará Mi Olvido](https://open.spotify.com/track/6UJAHl1NDh8Nroa27mIKDZ) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Te Llegará Mi Olvido](https://open.spotify.com/album/1wPQmJqHHgHe8dTuP1yTAQ) | 2:16 |
+| 78 | [Siempre Estoy Pensando en Ti \(with El Mariachi México '70 de Pepe López\)](https://open.spotify.com/track/3I8DsEUbuONtbZmkwfz4Gp) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Mariachi México 70 De Pepe López](https://open.spotify.com/artist/0ay6m3OlBxTuEwu1NFHlZI) | [Con Mariachi Vol.2 \(with El Mariachi México '70 de Pepe López\)](https://open.spotify.com/album/3pEHzLdkPor0RrnvSmvXmd) | 3:29 |
 | 79 | [Cosas de Enamorados](https://open.spotify.com/track/0am5jWvHPdiOggYsAvpTvY) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Cosas De Enamorados](https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG) | 3:26 |
 | 80 | [Aunque Te Enamores](https://open.spotify.com/track/5hufQzFmqxdyp09BQAqZ5C) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [15 Años Baladas Éxitos](https://open.spotify.com/album/6tDHKMrmuTwtAbdFxP4Ki6) | 3:36 |
 | 81 | [Una Mañana \(with Natalia Lafourcade\)](https://open.spotify.com/track/2ooHEUx2reFH7jzhgpGQ77) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [José José Duetos Volumen 1](https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT) | 2:59 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43pSb7XuvgU.md) - [plain]
 | 92 | [Almohada \- Revisitado](https://open.spotify.com/track/6IpLEAgmrhtbWwawz99r5u) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [José por Siempre José](https://open.spotify.com/album/20cSzDuNZl8JfbIz6csFuh) | 3:37 |
 | 93 | [Contigo en la Distancia \(with Carlos Cuevas\)](https://open.spotify.com/track/2DBD5WswXbHNUcrBU52cUP) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV), [Carlos Cuevas](https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL) | [José José Duetos Volumen 1](https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT) | 3:48 |
 | 94 | [Ahora Con la Banda..\. Te Voy a Olvidar / Ya para Qué / La Farsante](https://open.spotify.com/track/4tZ4seoyOqBvjlGlrJenF3) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Juan Gabriel Con Banda..\. El Recodo](https://open.spotify.com/album/3noaO4I0Z1RCHltgBtmabl) | 5:02 |
-| 95 | [Vienes o Voy](https://open.spotify.com/track/7JholUL3Iv83zpEY8CsuZf) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Gracias por Esperar](https://open.spotify.com/album/4XZyy5120of00kdsqlG0uI) | 5:08 |
-| 96 | [La Diferencia](https://open.spotify.com/track/7qCBdX4MbIaNlpqcKL2WSe) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Los Dúo](https://open.spotify.com/album/2IlXnGyMzDixqs44RSUObZ) | 3:31 |
+| 95 | [La Diferencia](https://open.spotify.com/track/7qCBdX4MbIaNlpqcKL2WSe) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Los Dúo](https://open.spotify.com/album/2IlXnGyMzDixqs44RSUObZ) | 3:31 |
+| 96 | [Vienes o Voy](https://open.spotify.com/track/7JholUL3Iv83zpEY8CsuZf) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Gracias por Esperar](https://open.spotify.com/album/4XZyy5120of00kdsqlG0uI) | 5:08 |
 | 97 | [El Día Que Me Acaricies Lloraré](https://open.spotify.com/track/4Hju95i74r8s7zimcJ2map) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Pensamientos](https://open.spotify.com/album/48zTdk2DxqybNPEJfL6Mnl) | 3:33 |
 | 98 | [Así Fue](https://open.spotify.com/track/7HGymGTKfdACYRI4g7H2Gu) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Los Dúo](https://open.spotify.com/album/2IlXnGyMzDixqs44RSUObZ) | 6:32 |
 | 99 | [Mi Vida](https://open.spotify.com/track/0eXhCBr3S9MlyUpW42aSyU) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Musica Original De La Pelicula Gavilan O Paloma](https://open.spotify.com/album/1QiCz8Wjz3lJLZnK7PEVhy) | 4:06 |
 | 100 | [Eso Nomás](https://open.spotify.com/track/7EmvOxDhWWlxIktbT4Yhgo) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [40 Y 20](https://open.spotify.com/album/72HLf3LP783UMuU1zQ6XgL) | 4:22 |
 
-Snapshot ID: `MTY0MDgyMDgzNywwMDAwMDAwMGNmNGFjNzVkZjYwYWE1MDg0OGI2NDIyMTBhYjQ5Y2Qy`
+Snapshot ID: `MTY0MDgyMDgzNywwMDAwMDAwMDQwNGUyMWY1YTg0MmY4NTU4YzAzODYzMmYzODRmOWJh`

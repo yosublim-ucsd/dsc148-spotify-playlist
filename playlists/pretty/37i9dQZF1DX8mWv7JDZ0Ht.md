@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 
 > Novidades e hits do pop nacional pra te deixar mais leve! Foto: Zeeba
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,695 likes - 80 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,811 likes - 80 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,20 +73,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 63 | [sexto sentido](https://open.spotify.com/track/2hdYIAUXuEMrBXt3xYY8eX) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T) | [sexto sentido](https://open.spotify.com/album/2NMMRFtASnOSdzLzQBY4mg) | 2:36 |
 | 64 | [A Voz](https://open.spotify.com/track/45eQA1sSBrkbQ6BP5bBIem) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai) | [A Voz](https://open.spotify.com/album/31mLvafOzdttDLFdgbLliq) | 4:02 |
 | 65 | [Atalaia](https://open.spotify.com/track/3gx5LqxSuGGRdV8UvHTSZl) | [Vitor Soltau](https://open.spotify.com/artist/3e8zvncHL9bIvPszfa8amS), [Paulo Novaes](https://open.spotify.com/artist/1Ee2vIMGWEMnEqcjJ8nKZ6) | [Atalaia](https://open.spotify.com/album/2dYMAlHoZot2yZG5X2M28Q) | 3:12 |
-| 66 | [Contradição](https://open.spotify.com/track/7uff94i4ckT91Cw8Zj5AbX) | [MADÚ](https://open.spotify.com/artist/2tJ2rv15e4PIhS6SSnOkxR), [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa) | [Contradição](https://open.spotify.com/album/3jG5jSEcouTayTmGZzLjXU) | 2:19 |
+| 66 | [MENINA](https://open.spotify.com/track/30sNX63sgXRJWQcSK9DbLm) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x) | [MENINA](https://open.spotify.com/album/7tyJ4al0A5shUAtMGFolAP) | 3:11 |
 | 67 | [Saudade](https://open.spotify.com/track/3N9DVfynhzZNmcih0KbLPi) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD), [VNegreen](https://open.spotify.com/artist/6wqRhQBrvbrjle8kCuEDRG), [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY) | [Orgânico Verão 2023](https://open.spotify.com/album/0eGnjuEmnPCAepsfDSTkim) | 3:58 |
 | 68 | [Coisas De Você](https://open.spotify.com/track/2zgYAkkDhKAm5ERlJXSTR9) | [AMARINA](https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG) | [Coisas De Você](https://open.spotify.com/album/5v9Kmw1Wun0wZJ1xpT1kNE) | 3:17 |
-| 69 | [MENINA](https://open.spotify.com/track/30sNX63sgXRJWQcSK9DbLm) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x) | [MENINA](https://open.spotify.com/album/7tyJ4al0A5shUAtMGFolAP) | 3:11 |
+| 69 | [Contradição](https://open.spotify.com/track/7uff94i4ckT91Cw8Zj5AbX) | [MADÚ](https://open.spotify.com/artist/2tJ2rv15e4PIhS6SSnOkxR), [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa) | [Contradição](https://open.spotify.com/album/3jG5jSEcouTayTmGZzLjXU) | 2:19 |
 | 70 | [Pois É](https://open.spotify.com/track/1Hs6h2vpj9B75cwmefLZdh) | [Iuri K](https://open.spotify.com/artist/7jVCHoIGvfQ0PuwNJFGX5W) | [Pois É](https://open.spotify.com/album/4B0W1tsKCrh2n6PHC8J948) | 2:42 |
 | 71 | [Juntin](https://open.spotify.com/track/4T2QY2HaVaK8AGhN2pGblJ) | [Nós Dois](https://open.spotify.com/artist/43KMDeX4Bs6jlla2AS8Q0g) | [nósdois](https://open.spotify.com/album/07N7v9V7dpt4fm0Pl0OcPe) | 2:43 |
 | 72 | [Vem Me Encontrar](https://open.spotify.com/track/2jAmXEIGktQSy53MXns4G2) | [Nicolas Candido](https://open.spotify.com/artist/5Zv9YrrNkqX5FaaAHtw3E6) | [Vem Me Encontrar](https://open.spotify.com/album/78KW27Ao3Z0xeoWY9Q9xpz) | 2:53 |
 | 73 | [Vou Ficar Bem](https://open.spotify.com/track/3kihHB83cSIvBzEIpu0vXK) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj), [Ricky Ndombashi](https://open.spotify.com/artist/6gevwu0s8NHgdG6HAExvqK), [Lil Glass](https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq) | [Vou Ficar Bem](https://open.spotify.com/album/17vkMMRTqSzEuwfSmUYjv4) | 2:29 |
 | 74 | [Brisa Boa](https://open.spotify.com/track/7N2Rw3NC0GhH4AlyZS7xJw) | [Biollo](https://open.spotify.com/artist/2fkazGgn5K5YNPRztNR4pF) | [Brisa Boa](https://open.spotify.com/album/53cd6HI4HCXmHxpcXQhtNq) | 2:42 |
-| 75 | [Mais de Mim](https://open.spotify.com/track/6mid1KP7PeU9Z4reD9pl1y) | [Liza Lou](https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [Mais de Mim](https://open.spotify.com/album/09Y7f7sFfU2nzTtHNmR8FG) | 2:34 |
-| 76 | [Logo Eu](https://open.spotify.com/track/1pPpL3JEgD2mJLA6uBVolj) | [Zek](https://open.spotify.com/artist/39A7Z4FUZvnRvIVNfyfesh) | [Decolagem](https://open.spotify.com/album/6i02cQxaeYpaKEeMRasSXK) | 2:32 |
-| 77 | [Se Sêsse](https://open.spotify.com/track/3kkCaXUNvatoBoPnXEyo9u) | [Gabi Shima](https://open.spotify.com/artist/63wyJbKDl6uKOvoHfcgwHj) | [Se Sêsse](https://open.spotify.com/album/5wloPznM9sSe6X3wxNYViA) | 2:51 |
-| 78 | [Olhar Sereno](https://open.spotify.com/track/0NK7mWy6jo5fwfNXGgDSJW) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x) | [Olhar Sereno](https://open.spotify.com/album/1FGD5qr0bR7Gljwd1XPIVL) | 3:05 |
+| 75 | [Olhar Sereno](https://open.spotify.com/track/0NK7mWy6jo5fwfNXGgDSJW) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x) | [Olhar Sereno](https://open.spotify.com/album/1FGD5qr0bR7Gljwd1XPIVL) | 3:05 |
+| 76 | [Mais de Mim](https://open.spotify.com/track/6mid1KP7PeU9Z4reD9pl1y) | [Liza Lou](https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [Mais de Mim](https://open.spotify.com/album/09Y7f7sFfU2nzTtHNmR8FG) | 2:34 |
+| 77 | [Logo Eu](https://open.spotify.com/track/1pPpL3JEgD2mJLA6uBVolj) | [Zek](https://open.spotify.com/artist/39A7Z4FUZvnRvIVNfyfesh) | [Decolagem](https://open.spotify.com/album/6i02cQxaeYpaKEeMRasSXK) | 2:32 |
+| 78 | [Se Sêsse](https://open.spotify.com/track/3kkCaXUNvatoBoPnXEyo9u) | [Gabi Shima](https://open.spotify.com/artist/63wyJbKDl6uKOvoHfcgwHj) | [Se Sêsse](https://open.spotify.com/album/5wloPznM9sSe6X3wxNYViA) | 2:51 |
 | 79 | [Eu e Você](https://open.spotify.com/track/3151w9snyt1Hvsm14whS4p) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj), [Ricky Ndombashi](https://open.spotify.com/artist/6gevwu0s8NHgdG6HAExvqK), [Lil Glass](https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq) | [Eu e Você](https://open.spotify.com/album/0R8hpT9SvreIeMmXLJHh5R) | 2:40 |
 | 80 | [Coração Teimoso](https://open.spotify.com/track/5muVEVnpZ3i7T4HQGpvigc) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj), [Ricky Ndombashi](https://open.spotify.com/artist/6gevwu0s8NHgdG6HAExvqK), [Lil Glass](https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq) | [Amor e Melancolia](https://open.spotify.com/album/4Uag7dntWK63TIrhDqAoBc) | 2:51 |
 
-Snapshot ID: `MTY4MTQ0MTIwMCwwMDAwMDAwMDFiNjljNGMyOTA2MTg3NzA2ZjE2MDA0ZmYyMTI0ZDVh`
+Snapshot ID: `MTY4MTQ0MTIwMCwwMDAwMDAwMDBhZmJjNTlmN2U3ZWEzYTk4NjdiNWJjNzdiODljOTI3`

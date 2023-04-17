@@ -1,12 +1,12 @@
 {
   "description": "nos fuimos de fiesta \ud83c\udf89 \nCover: Becky G & Omega",
-  "num_followers": 946878,
+  "num_followers": 946951,
   "original_name": "Fiesta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTM5ODc0NywwMDAwMDAwMGViNzA4YmYzYzc1M2QwN2VjMTc4ZTlhZWIxMDEyYjI2",
+  "snapshot_id": "MTY4MTM5ODc0NywwMDAwMDAwMGNlNDA4MzM3NDNlYzBiMjAyMjk0NDQ2ZTU1OWRhNDVj",
   "tracks": [
     {
       "added_at": "2023-04-03 18:28:00",
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf"
     },
     {
-      "added_at": "2023-04-16 00:37:19",
+      "added_at": "2023-04-17 00:40:41",
       "album": {
         "name": "La Bebe (Remix)",
         "url": "https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx"
     },
     {
-      "added_at": "2023-04-16 00:37:19",
+      "added_at": "2023-04-17 00:40:41",
       "album": {
         "name": "Los \u00c1ngeles",
         "url": "https://open.spotify.com/album/4bPQ9fS8MUFcAfSq0NzBbI"
@@ -181,7 +181,7 @@
       "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
     },
     {
-      "added_at": "2023-04-16 00:37:19",
+      "added_at": "2023-04-17 00:40:41",
       "album": {
         "name": "Cuerpecito",
         "url": "https://open.spotify.com/album/10C7yBcN3lezb79Dcznwad"
@@ -269,7 +269,7 @@
       "url": "https://open.spotify.com/track/6Rpbzk2LC8xWZI93RyodAq"
     },
     {
-      "added_at": "2023-04-16 00:37:19",
+      "added_at": "2023-04-17 00:40:41",
       "album": {
         "name": "L\u00edo",
         "url": "https://open.spotify.com/album/0kzO37PJ7zVbRBv1Kruee8"
@@ -369,7 +369,7 @@
       "url": "https://open.spotify.com/track/2beS6dD5rovBxSA1zYoSHR"
     },
     {
-      "added_at": "2023-04-16 00:37:19",
+      "added_at": "2023-04-17 00:40:41",
       "album": {
         "name": "Mas Rica Que Ayer",
         "url": "https://open.spotify.com/album/7goOJ9hkBfNyuESHKmtGWu"
@@ -983,6 +983,26 @@
     {
       "added_at": "2023-04-03 18:28:00",
       "album": {
+        "name": "JOSE",
+        "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 217360,
+      "name": "Qu\u00e9 M\u00e1s Pues?",
+      "url": "https://open.spotify.com/track/6D2TCm4nf5nxAcdGJ7w3QP"
+    },
+    {
+      "added_at": "2023-04-03 18:28:00",
+      "album": {
         "name": "Con Altura",
         "url": "https://open.spotify.com/album/4bxHLppgdmaYJk0yfdcP0l"
       },
@@ -1003,26 +1023,6 @@
       "duration_ms": 161626,
       "name": "Con Altura",
       "url": "https://open.spotify.com/track/2qG5sZ7Si6sdK74qLxedYM"
-    },
-    {
-      "added_at": "2023-04-03 18:28:00",
-      "album": {
-        "name": "JOSE",
-        "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 217360,
-      "name": "Qu\u00e9 M\u00e1s Pues?",
-      "url": "https://open.spotify.com/track/6D2TCm4nf5nxAcdGJ7w3QP"
     },
     {
       "added_at": "2023-04-03 18:28:00",
@@ -1059,6 +1059,26 @@
       "duration_ms": 224693,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/3pDhN3qB33AOPhQEkUCaWt"
+    },
+    {
+      "added_at": "2023-04-03 18:28:00",
+      "album": {
+        "name": "Motivan2",
+        "url": "https://open.spotify.com/album/22lEQJ7khtB2yvsq84FDQb"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 209453,
+      "name": "Otra vez (feat. J Balvin)",
+      "url": "https://open.spotify.com/track/3QwBODjSEzelZyVjxPOHdq"
     },
     {
       "added_at": "2023-04-03 18:28:00",
@@ -1139,26 +1159,6 @@
     {
       "added_at": "2023-04-03 18:28:00",
       "album": {
-        "name": "Motivan2",
-        "url": "https://open.spotify.com/album/22lEQJ7khtB2yvsq84FDQb"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 209453,
-      "name": "Otra vez (feat. J Balvin)",
-      "url": "https://open.spotify.com/track/3QwBODjSEzelZyVjxPOHdq"
-    },
-    {
-      "added_at": "2023-04-03 18:28:00",
-      "album": {
         "name": "Calle 13 (Explicit Version)",
         "url": "https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16"
       },
@@ -1171,6 +1171,22 @@
       "duration_ms": 239306,
       "name": "Atr\u00e9vete-Te-Te",
       "url": "https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv"
+    },
+    {
+      "added_at": "2023-04-03 18:28:00",
+      "album": {
+        "name": "Una Dimensi\u00f3n De \u00c9xitos",
+        "url": "https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV"
+      },
+      "artists": [
+        {
+          "name": "Dimension Latina",
+          "url": "https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk"
+        }
+      ],
+      "duration_ms": 228554,
+      "name": "Llorar\u00e1s",
+      "url": "https://open.spotify.com/track/2naqSVQHgiaoEpxtkVOhmK"
     },
     {
       "added_at": "2023-04-03 18:28:00",
@@ -1191,18 +1207,18 @@
     {
       "added_at": "2023-04-03 18:28:00",
       "album": {
-        "name": "Una Dimensi\u00f3n De \u00c9xitos",
-        "url": "https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV"
+        "name": "DIVA- Platinum Edition",
+        "url": "https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb"
       },
       "artists": [
         {
-          "name": "Dimension Latina",
-          "url": "https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk"
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
         }
       ],
-      "duration_ms": 228554,
-      "name": "Llorar\u00e1s",
-      "url": "https://open.spotify.com/track/2naqSVQHgiaoEpxtkVOhmK"
+      "duration_ms": 186506,
+      "name": "Quiero Bailar",
+      "url": "https://open.spotify.com/track/7mY1dIaY9vY6Jrlrjg3dRn"
     },
     {
       "added_at": "2023-04-03 18:28:00",
@@ -1227,6 +1243,22 @@
     {
       "added_at": "2023-04-03 18:28:00",
       "album": {
+        "name": "M\u00e1s Negro Que Rojo",
+        "url": "https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "duration_ms": 186133,
+      "name": "Hecha Pa' Mi",
+      "url": "https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx"
+    },
+    {
+      "added_at": "2023-04-03 18:28:00",
+      "album": {
         "name": "TRANSLATION",
         "url": "https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc"
       },
@@ -1243,38 +1275,6 @@
       "duration_ms": 222522,
       "name": "GIRL LIKE ME",
       "url": "https://open.spotify.com/track/1zLBsSVxETQOfINOLYvT5m"
-    },
-    {
-      "added_at": "2023-04-03 18:28:00",
-      "album": {
-        "name": "DIVA- Platinum Edition",
-        "url": "https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb"
-      },
-      "artists": [
-        {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
-        }
-      ],
-      "duration_ms": 186506,
-      "name": "Quiero Bailar",
-      "url": "https://open.spotify.com/track/7mY1dIaY9vY6Jrlrjg3dRn"
-    },
-    {
-      "added_at": "2023-04-03 18:28:00",
-      "album": {
-        "name": "M\u00e1s Negro Que Rojo",
-        "url": "https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU"
-      },
-      "artists": [
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        }
-      ],
-      "duration_ms": 186133,
-      "name": "Hecha Pa' Mi",
-      "url": "https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx"
     },
     {
       "added_at": "2023-04-03 18:28:00",
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2023-04-03 18:28:00",
       "album": {
-        "name": "VIVES",
-        "url": "https://open.spotify.com/album/57giaIaMyAVCS7jMIaoIgK"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        },
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 229509,
-      "name": "La Bicicleta",
-      "url": "https://open.spotify.com/track/0Gx4VrHzS7pZOEAGrmXXBH"
-    },
-    {
-      "added_at": "2023-04-03 18:28:00",
-      "album": {
         "name": "Vibras",
         "url": "https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT"
       },
@@ -1335,6 +1315,26 @@
       "duration_ms": 185040,
       "name": "Mi Gente",
       "url": "https://open.spotify.com/track/7COfe3P7KgfwDwIRB8LIDw"
+    },
+    {
+      "added_at": "2023-04-03 18:28:00",
+      "album": {
+        "name": "VIVES",
+        "url": "https://open.spotify.com/album/57giaIaMyAVCS7jMIaoIgK"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 229509,
+      "name": "La Bicicleta",
+      "url": "https://open.spotify.com/track/0Gx4VrHzS7pZOEAGrmXXBH"
     },
     {
       "added_at": "2023-04-03 18:28:00",
@@ -1471,6 +1471,34 @@
     {
       "added_at": "2023-04-03 18:28:00",
       "album": {
+        "name": "UN DIA (ONE DAY) (Feat. Tainy)",
+        "url": "https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "duration_ms": 232253,
+      "name": "UN DIA (ONE DAY) (Feat. Tainy)",
+      "url": "https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e"
+    },
+    {
+      "added_at": "2023-04-03 18:28:00",
+      "album": {
         "name": "Relaci\u00f3n (Remix)",
         "url": "https://open.spotify.com/album/2O985DZAb4i6M6iu4HWqSX"
       },
@@ -1499,34 +1527,6 @@
       "duration_ms": 247308,
       "name": "Relaci\u00f3n - Remix",
       "url": "https://open.spotify.com/track/35UUpTmrcFXNIVIN26ujXl"
-    },
-    {
-      "added_at": "2023-04-03 18:28:00",
-      "album": {
-        "name": "UN DIA (ONE DAY) (Feat. Tainy)",
-        "url": "https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        }
-      ],
-      "duration_ms": 232253,
-      "name": "UN DIA (ONE DAY) (Feat. Tainy)",
-      "url": "https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e"
     },
     {
       "added_at": "2023-04-03 18:28:00",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2023-04-03 18:28:00",
       "album": {
-        "name": "Ay, DiOs M\u00edo!",
-        "url": "https://open.spotify.com/album/1mMUBQXa70gHyUjK0Q0u63"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 189653,
-      "name": "Ay, DiOs M\u00edo!",
-      "url": "https://open.spotify.com/track/7x4ASXYEKfQBCewcZhK776"
-    },
-    {
-      "added_at": "2023-04-03 18:28:00",
-      "album": {
         "name": "Pa'l Mundo",
         "url": "https://open.spotify.com/album/0mfiGkVJST0ysEVznu2aZP"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 172680,
       "name": "Rakata",
       "url": "https://open.spotify.com/track/1kQqiC1rS1FiuVpeBKN0QN"
+    },
+    {
+      "added_at": "2023-04-03 18:28:00",
+      "album": {
+        "name": "Ay, DiOs M\u00edo!",
+        "url": "https://open.spotify.com/album/1mMUBQXa70gHyUjK0Q0u63"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 189653,
+      "name": "Ay, DiOs M\u00edo!",
+      "url": "https://open.spotify.com/track/7x4ASXYEKfQBCewcZhK776"
     },
     {
       "added_at": "2023-04-03 18:28:00",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2023-04-03 18:28:00",
       "album": {
-        "name": "911",
-        "url": "https://open.spotify.com/album/4G5Vks8Uru6hWVdZba0fP1"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 215891,
-      "name": "911",
-      "url": "https://open.spotify.com/track/2TksvaRivgAEj780DgRB73"
-    },
-    {
-      "added_at": "2023-04-03 18:28:00",
-      "album": {
         "name": "ENOC",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 224186,
       "name": "Despeinada",
       "url": "https://open.spotify.com/track/0JAZWvvqttGFm4UMDsPQXC"
+    },
+    {
+      "added_at": "2023-04-03 18:28:00",
+      "album": {
+        "name": "911",
+        "url": "https://open.spotify.com/album/4G5Vks8Uru6hWVdZba0fP1"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 215891,
+      "name": "911",
+      "url": "https://open.spotify.com/track/2TksvaRivgAEj780DgRB73"
     },
     {
       "added_at": "2023-04-03 18:28:00",
@@ -2003,30 +2003,6 @@
     {
       "added_at": "2023-04-03 18:28:00",
       "album": {
-        "name": "Baila Conmigo (feat. Kelly Ruiz)",
-        "url": "https://open.spotify.com/album/68hy2xnNgeo0dO0YOm4Th7"
-      },
-      "artists": [
-        {
-          "name": "Dayvi",
-          "url": "https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf"
-        },
-        {
-          "name": "Victor Cardenas",
-          "url": "https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR"
-        },
-        {
-          "name": "Kelly Ru\u00edz",
-          "url": "https://open.spotify.com/artist/0cCNT5RyWndpS7Zx7ISEDw"
-        }
-      ],
-      "duration_ms": 189817,
-      "name": "Baila Conmigo (feat. Kelly Ruiz)",
-      "url": "https://open.spotify.com/track/4Clmg1g8n2yBYG13Z1oSdG"
-    },
-    {
-      "added_at": "2023-04-03 18:28:00",
-      "album": {
         "name": "Indeciso",
         "url": "https://open.spotify.com/album/4qecT0ZJrf35thz2WaEm6P"
       },
@@ -2047,6 +2023,30 @@
       "duration_ms": 217253,
       "name": "Indeciso",
       "url": "https://open.spotify.com/track/59s0s39NFWScuHDbHytI14"
+    },
+    {
+      "added_at": "2023-04-03 18:28:00",
+      "album": {
+        "name": "Baila Conmigo (feat. Kelly Ruiz)",
+        "url": "https://open.spotify.com/album/68hy2xnNgeo0dO0YOm4Th7"
+      },
+      "artists": [
+        {
+          "name": "Dayvi",
+          "url": "https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf"
+        },
+        {
+          "name": "Victor Cardenas",
+          "url": "https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR"
+        },
+        {
+          "name": "Kelly Ru\u00edz",
+          "url": "https://open.spotify.com/artist/0cCNT5RyWndpS7Zx7ISEDw"
+        }
+      ],
+      "duration_ms": 189817,
+      "name": "Baila Conmigo (feat. Kelly Ruiz)",
+      "url": "https://open.spotify.com/track/4Clmg1g8n2yBYG13Z1oSdG"
     },
     {
       "added_at": "2023-04-03 18:28:00",
@@ -2163,38 +2163,6 @@
     {
       "added_at": "2023-04-03 18:28:00",
       "album": {
-        "name": "Fiel (Remix)",
-        "url": "https://open.spotify.com/album/1jBESH0DEFN7z8WH8B0B5c"
-      },
-      "artists": [
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Los Legendarios",
-          "url": "https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 349546,
-      "name": "Fiel - Remix",
-      "url": "https://open.spotify.com/track/43qcs9NpJhDxtG91zxFkj7"
-    },
-    {
-      "added_at": "2023-04-03 18:28:00",
-      "album": {
         "name": "DJ No Pare (feat. Zion, Dalex, Lenny Tav\u00e1rez) [Remix]",
         "url": "https://open.spotify.com/album/71uU1JDWZ61OMDtW8h1Kp8"
       },
@@ -2227,6 +2195,38 @@
       "duration_ms": 258600,
       "name": "DJ No Pare (feat. Zion, Dalex, Lenny Tav\u00e1rez) - Remix",
       "url": "https://open.spotify.com/track/1ndyl3wJCFs872XZ3ztPk6"
+    },
+    {
+      "added_at": "2023-04-03 18:28:00",
+      "album": {
+        "name": "Fiel (Remix)",
+        "url": "https://open.spotify.com/album/1jBESH0DEFN7z8WH8B0B5c"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Los Legendarios",
+          "url": "https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 349546,
+      "name": "Fiel - Remix",
+      "url": "https://open.spotify.com/track/43qcs9NpJhDxtG91zxFkj7"
     },
     {
       "added_at": "2023-04-03 18:28:00",
@@ -2335,6 +2335,26 @@
     {
       "added_at": "2023-04-03 18:28:00",
       "album": {
+        "name": "AEIOU",
+        "url": "https://open.spotify.com/album/4J8uihMqMcLWlhz6DsGdJK"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 161880,
+      "name": "AEIOU",
+      "url": "https://open.spotify.com/track/1c2vVx6knoiZHXbJJ9Mk8L"
+    },
+    {
+      "added_at": "2023-04-03 18:28:00",
+      "album": {
         "name": "Miedito o Qu\u00e9? (feat. KAROL G)",
         "url": "https://open.spotify.com/album/6TRoxZTx8HtZ2B3U7c1jVC"
       },
@@ -2391,26 +2411,6 @@
       "duration_ms": 223173,
       "name": "Nazareno",
       "url": "https://open.spotify.com/track/0RGpd5zCowfEItCUF7Itpr"
-    },
-    {
-      "added_at": "2023-04-03 18:28:00",
-      "album": {
-        "name": "AEIOU",
-        "url": "https://open.spotify.com/album/4J8uihMqMcLWlhz6DsGdJK"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 161880,
-      "name": "AEIOU",
-      "url": "https://open.spotify.com/track/1c2vVx6knoiZHXbJJ9Mk8L"
     },
     {
       "added_at": "2023-04-03 18:28:00",
@@ -2507,26 +2507,6 @@
     {
       "added_at": "2023-04-03 18:28:00",
       "album": {
-        "name": "Gyal You a Party Animal (Remix)",
-        "url": "https://open.spotify.com/album/1drLzJJL0Voqt9GfD4cAly"
-      },
-      "artists": [
-        {
-          "name": "Charly Black",
-          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 223366,
-      "name": "Gyal You a Party Animal - Remix",
-      "url": "https://open.spotify.com/track/3rK30dzS17JWgft6PIvEjt"
-    },
-    {
-      "added_at": "2023-04-03 18:28:00",
-      "album": {
         "name": "La \u00daltima Promesa",
         "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
       },
@@ -2543,6 +2523,26 @@
       "duration_ms": 226010,
       "name": "La Botella",
       "url": "https://open.spotify.com/track/6GPBXtnSepHovJi1uD1Ggj"
+    },
+    {
+      "added_at": "2023-04-03 18:28:00",
+      "album": {
+        "name": "Gyal You a Party Animal (Remix)",
+        "url": "https://open.spotify.com/album/1drLzJJL0Voqt9GfD4cAly"
+      },
+      "artists": [
+        {
+          "name": "Charly Black",
+          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 223366,
+      "name": "Gyal You a Party Animal - Remix",
+      "url": "https://open.spotify.com/track/3rK30dzS17JWgft6PIvEjt"
     },
     {
       "added_at": "2023-04-03 18:28:00",
@@ -2627,22 +2627,6 @@
     {
       "added_at": "2023-04-03 18:28:00",
       "album": {
-        "name": "Jeans",
-        "url": "https://open.spotify.com/album/2CihHxhe77TEB6YEWBRVru"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        }
-      ],
-      "duration_ms": 185840,
-      "name": "Jeans",
-      "url": "https://open.spotify.com/track/3GtnId3Cm1Xa6joCj08nzW"
-    },
-    {
-      "added_at": "2023-04-03 18:28:00",
-      "album": {
         "name": "Los Due\u00f1os del Swing",
         "url": "https://open.spotify.com/album/6ZQf6jgUi4K33aCD04SAYw"
       },
@@ -2659,6 +2643,22 @@
     {
       "added_at": "2023-04-03 18:28:00",
       "album": {
+        "name": "Jeans",
+        "url": "https://open.spotify.com/album/2CihHxhe77TEB6YEWBRVru"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 185840,
+      "name": "Jeans",
+      "url": "https://open.spotify.com/track/3GtnId3Cm1Xa6joCj08nzW"
+    },
+    {
+      "added_at": "2023-04-03 18:28:00",
+      "album": {
         "name": "El Hombre Mas Famoso De La Tierra",
         "url": "https://open.spotify.com/album/59IdVahjfUKyRxPcGiAp98"
       },
@@ -2671,6 +2671,22 @@
       "duration_ms": 205333,
       "name": "Guallando",
       "url": "https://open.spotify.com/track/4jRxEVNituPZObHbCSBZL3"
+    },
+    {
+      "added_at": "2023-04-03 18:28:00",
+      "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/5Qkxw86wtQYlK2dEjTJcSP"
+      },
+      "artists": [
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        }
+      ],
+      "duration_ms": 123253,
+      "name": "Perreito",
+      "url": "https://open.spotify.com/track/5ecJFbbgmywVJkqGQIfcuo"
     },
     {
       "added_at": "2023-04-03 18:28:00",
@@ -2695,22 +2711,6 @@
     {
       "added_at": "2023-04-03 18:28:00",
       "album": {
-        "name": "Normal",
-        "url": "https://open.spotify.com/album/5Qkxw86wtQYlK2dEjTJcSP"
-      },
-      "artists": [
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
-        }
-      ],
-      "duration_ms": 123253,
-      "name": "Perreito",
-      "url": "https://open.spotify.com/track/5ecJFbbgmywVJkqGQIfcuo"
-    },
-    {
-      "added_at": "2023-04-03 18:28:00",
-      "album": {
         "name": "Pa'lla Voy",
         "url": "https://open.spotify.com/album/7Egfnc2y2UO9Gqeh5nYzDh"
       },
@@ -2723,22 +2723,6 @@
       "duration_ms": 246787,
       "name": "Pa'lla Voy",
       "url": "https://open.spotify.com/track/05jVbjHBsX3V8OxFWlpayR"
-    },
-    {
-      "added_at": "2023-04-03 18:28:00",
-      "album": {
-        "name": "La Copa",
-        "url": "https://open.spotify.com/album/2PC6PCA91NxKDtuV63i0rF"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 154628,
-      "name": "La Copa",
-      "url": "https://open.spotify.com/track/2gdBsRfuWGwJwe3X5XwZuI"
     },
     {
       "added_at": "2023-04-03 18:28:00",
@@ -2767,6 +2751,22 @@
       "duration_ms": 169997,
       "name": "Que Calor (feat. J Balvin & El Alfa)",
       "url": "https://open.spotify.com/track/13HgktGt4RdYj0QmF1ELZO"
+    },
+    {
+      "added_at": "2023-04-03 18:28:00",
+      "album": {
+        "name": "La Copa",
+        "url": "https://open.spotify.com/album/2PC6PCA91NxKDtuV63i0rF"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 154628,
+      "name": "La Copa",
+      "url": "https://open.spotify.com/track/2gdBsRfuWGwJwe3X5XwZuI"
     },
     {
       "added_at": "2023-04-03 18:28:00",
@@ -2939,22 +2939,6 @@
     {
       "added_at": "2023-04-03 18:28:00",
       "album": {
-        "name": "Mami",
-        "url": "https://open.spotify.com/album/0UJuzh4Dtev5lHXG696a1y"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        }
-      ],
-      "duration_ms": 201574,
-      "name": "Mami",
-      "url": "https://open.spotify.com/track/7GHzGRsozCmF7yI1fazXST"
-    },
-    {
-      "added_at": "2023-04-03 18:28:00",
-      "album": {
         "name": "Muchacha",
         "url": "https://open.spotify.com/album/1ToC2cIeaKdchZVfx6P3Mj"
       },
@@ -2971,6 +2955,22 @@
       "duration_ms": 200689,
       "name": "Muchacha",
       "url": "https://open.spotify.com/track/2vI4SxtYqAQD5h1nSrqfKM"
+    },
+    {
+      "added_at": "2023-04-03 18:28:00",
+      "album": {
+        "name": "Mami",
+        "url": "https://open.spotify.com/album/0UJuzh4Dtev5lHXG696a1y"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "duration_ms": 201574,
+      "name": "Mami",
+      "url": "https://open.spotify.com/track/7GHzGRsozCmF7yI1fazXST"
     },
     {
       "added_at": "2023-04-03 18:28:00",

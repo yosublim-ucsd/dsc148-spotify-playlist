@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2010s.",
-  "num_followers": 42768,
+  "num_followers": 42882,
   "original_name": "10s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjQ0MiwwMDAwMDAwMGUxNDc4NmZkYzU0ZTI4ZjE2NTA2NTIzOWJjM2VlZWI2",
+  "snapshot_id": "MTY1MDkxNjQ0MiwwMDAwMDAwMGExYWI2ZTg3MTNmZTc3YjQ1MDgxMTVlMjAxZmM1YTI4",
   "tracks": [
     {
       "added_at": "2022-02-04 21:53:01",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "The Head And The Heart",
-        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 284000,
-      "name": "Rivers and Roads",
-      "url": "https://open.spotify.com/track/3z7kvwJVRfA4HCOfm9ngog"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Every Kingdom",
         "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 328506,
       "name": "Old Pine",
       "url": "https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "The Head And The Heart",
+        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 284000,
+      "name": "Rivers and Roads",
+      "url": "https://open.spotify.com/track/3z7kvwJVRfA4HCOfm9ngog"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Living Mirage",
-        "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 196055,
-      "name": "Honeybee",
-      "url": "https://open.spotify.com/track/5CalS8Gn69OOrR9aiw0ZO9"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "boygenius",
         "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 206465,
       "name": "Me & My Dog",
       "url": "https://open.spotify.com/track/74uoN2UfgdUAzwVeFaRUE2"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Living Mirage",
+        "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 196055,
+      "name": "Honeybee",
+      "url": "https://open.spotify.com/track/5CalS8Gn69OOrR9aiw0ZO9"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Lines",
-        "url": "https://open.spotify.com/album/1UkOPjlvgtqoeeIETfK2fs"
-      },
-      "artists": [
-        {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
-        }
-      ],
-      "duration_ms": 194906,
-      "name": "Minimum",
-      "url": "https://open.spotify.com/track/6kND7UAXGZk2kfZbEWQ6e3"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "And The War Came",
         "url": "https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED"
       },
@@ -779,18 +763,18 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "i,i",
-        "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
+        "name": "Lines",
+        "url": "https://open.spotify.com/album/1UkOPjlvgtqoeeIETfK2fs"
       },
       "artists": [
         {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
         }
       ],
-      "duration_ms": 216706,
-      "name": "Hey, Ma",
-      "url": "https://open.spotify.com/track/0RstfX9nRY1Lfuy1808MoT"
+      "duration_ms": 194906,
+      "name": "Minimum",
+      "url": "https://open.spotify.com/track/6kND7UAXGZk2kfZbEWQ6e3"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -811,6 +795,22 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
+        "name": "i,i",
+        "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "Hey, Ma",
+      "url": "https://open.spotify.com/track/0RstfX9nRY1Lfuy1808MoT"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
         "name": "Tearing At The Seams",
         "url": "https://open.spotify.com/album/6d0PPZVxoyKN3VlFrzsKYp"
       },
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Deadeye",
-        "url": "https://open.spotify.com/album/2jqeCy5ydYWWWYB11VMS2V"
-      },
-      "artists": [
-        {
-          "name": "The Ballroom Thieves",
-          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
-        }
-      ],
-      "duration_ms": 190120,
-      "name": "Bees",
-      "url": "https://open.spotify.com/track/13otFWMHR8dlJ73XnSEW8y"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Hard Believer",
         "url": "https://open.spotify.com/album/1TMJ7yDSSYByO0UjKwnOiX"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 310693,
       "name": "Looking Too Closely",
       "url": "https://open.spotify.com/track/7bhI6rnvaVw8qgZPn32qE0"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Deadeye",
+        "url": "https://open.spotify.com/album/2jqeCy5ydYWWWYB11VMS2V"
+      },
+      "artists": [
+        {
+          "name": "The Ballroom Thieves",
+          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
+        }
+      ],
+      "duration_ms": 190120,
+      "name": "Bees",
+      "url": "https://open.spotify.com/track/13otFWMHR8dlJ73XnSEW8y"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Wild Rivers",
-        "url": "https://open.spotify.com/album/4SMbqvJenspMXbcPROZsVK"
-      },
-      "artists": [
-        {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
-        }
-      ],
-      "duration_ms": 260368,
-      "name": "Heart Attack",
-      "url": "https://open.spotify.com/track/1rxB5KwQlyjYqmJU2ahy6V"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Signs of Light",
         "url": "https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 370200,
       "name": "Song for Zula",
       "url": "https://open.spotify.com/track/6Thn8AOHIwPCkf2O4ZgfC2"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Wild Rivers",
+        "url": "https://open.spotify.com/album/4SMbqvJenspMXbcPROZsVK"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "duration_ms": 260368,
+      "name": "Heart Attack",
+      "url": "https://open.spotify.com/track/1rxB5KwQlyjYqmJU2ahy6V"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Light Upon the Lake",
-        "url": "https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv"
-      },
-      "artists": [
-        {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
-        }
-      ],
-      "duration_ms": 237973,
-      "name": "No Woman",
-      "url": "https://open.spotify.com/track/5KPXcfXaGOaWUqOHLDXFRP"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Little Giant",
         "url": "https://open.spotify.com/album/3ZTS2uxdWAkBnIXzsCY8PZ"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 241720,
       "name": "Tiger Striped Sky",
       "url": "https://open.spotify.com/track/4C2aiAVTTVyZbCQZst5Xu1"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Light Upon the Lake",
+        "url": "https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "duration_ms": 237973,
+      "name": "No Woman",
+      "url": "https://open.spotify.com/track/5KPXcfXaGOaWUqOHLDXFRP"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Living Water",
-        "url": "https://open.spotify.com/album/3UirGXBKa2VVuip8JPlBpd"
-      },
-      "artists": [
-        {
-          "name": "Shannon Lay",
-          "url": "https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Recording 15",
-      "url": "https://open.spotify.com/track/1vNfYCzcCJz0FY7MVVA9lM"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Sense of Home",
         "url": "https://open.spotify.com/album/1MggtpuaGB0IPfFUYaY40U"
       },
@@ -1307,18 +1291,18 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "New Ways",
-        "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
+        "name": "Living Water",
+        "url": "https://open.spotify.com/album/3UirGXBKa2VVuip8JPlBpd"
       },
       "artists": [
         {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+          "name": "Shannon Lay",
+          "url": "https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6"
         }
       ],
-      "duration_ms": 247266,
-      "name": "Hot Tears",
-      "url": "https://open.spotify.com/track/1aU0F8KL0vaKQacSMQRN9d"
+      "duration_ms": 242000,
+      "name": "Recording 15",
+      "url": "https://open.spotify.com/track/1vNfYCzcCJz0FY7MVVA9lM"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1335,6 +1319,22 @@
       "duration_ms": 170826,
       "name": "Chateau Lobby #4 (in C for Two Virgins)",
       "url": "https://open.spotify.com/track/3wfF0Nw234zHY1vdIWIc2g"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "New Ways",
+        "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 247266,
+      "name": "Hot Tears",
+      "url": "https://open.spotify.com/track/1aU0F8KL0vaKQacSMQRN9d"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Burn Your Fire For No Witness (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/62RDt42wD8VdrhfHG6IzpC"
-      },
-      "artists": [
-        {
-          "name": "Angel Olsen",
-          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
-        }
-      ],
-      "duration_ms": 125440,
-      "name": "Unfucktheworld",
-      "url": "https://open.spotify.com/track/2NE61HPxiQyPbNhggQqrzG"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Rarities",
         "url": "https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 232986,
       "name": "Halo",
       "url": "https://open.spotify.com/track/4JaoU6fL2Ifz2gDyFYtpiP"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Burn Your Fire For No Witness (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/62RDt42wD8VdrhfHG6IzpC"
+      },
+      "artists": [
+        {
+          "name": "Angel Olsen",
+          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+        }
+      ],
+      "duration_ms": 125440,
+      "name": "Unfucktheworld",
+      "url": "https://open.spotify.com/track/2NE61HPxiQyPbNhggQqrzG"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "The King Is Dead",
-        "url": "https://open.spotify.com/album/3hd8GiXOy4KUTxVDVUDT5F"
-      },
-      "artists": [
-        {
-          "name": "The Decemberists",
-          "url": "https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2"
-        }
-      ],
-      "duration_ms": 256560,
-      "name": "Don't Carry It All",
-      "url": "https://open.spotify.com/track/2UODQhPzz51lssoMPOlfy5"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Helplessness Blues",
         "url": "https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 303386,
       "name": "Helplessness Blues",
       "url": "https://open.spotify.com/track/02VdHwnGhy5fTW2CTZkYsb"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "The King Is Dead",
+        "url": "https://open.spotify.com/album/3hd8GiXOy4KUTxVDVUDT5F"
+      },
+      "artists": [
+        {
+          "name": "The Decemberists",
+          "url": "https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2"
+        }
+      ],
+      "duration_ms": 256560,
+      "name": "Don't Carry It All",
+      "url": "https://open.spotify.com/track/2UODQhPzz51lssoMPOlfy5"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Hannah",
-        "url": "https://open.spotify.com/album/0xyYtBmta0jBeqXOJsocSJ"
-      },
-      "artists": [
-        {
-          "name": "Lomelda",
-          "url": "https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4"
-        }
-      ],
-      "duration_ms": 208382,
-      "name": "Hannah Sun",
-      "url": "https://open.spotify.com/track/4neuBR5NvjaYqAfj2vPbig"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Two Hands",
         "url": "https://open.spotify.com/album/5pp7px9MITK2MqeFVbRWGo"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 367093,
       "name": "Not",
       "url": "https://open.spotify.com/track/7lrhugjSbiImrNSLIFIq0c"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Hannah",
+        "url": "https://open.spotify.com/album/0xyYtBmta0jBeqXOJsocSJ"
+      },
+      "artists": [
+        {
+          "name": "Lomelda",
+          "url": "https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4"
+        }
+      ],
+      "duration_ms": 208382,
+      "name": "Hannah Sun",
+      "url": "https://open.spotify.com/track/4neuBR5NvjaYqAfj2vPbig"
     },
     {
       "added_at": "2022-02-04 21:53:01",

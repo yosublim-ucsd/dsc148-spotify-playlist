@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs83FtTMQFw.md) - [plain]
 
 > The hottest tracks of today ft\. Metro Boomin, Nicki Minaj, Lil Uzi Vert and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,218,599 likes - 82 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,218,895 likes - 82 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

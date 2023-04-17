@@ -1,12 +1,12 @@
 {
   "description": "S\u00fabete a la troca \u2764\ufe0f",
-  "num_followers": 29762,
+  "num_followers": 29881,
   "original_name": "La Mamalona Rom\u00e1ntica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDYzMTA2OSwwMDAwMDAwMGJiMjZlMGNhMTkwOGNlOGUzOTQwYzRiZjJjYmI5MGNl",
+  "snapshot_id": "MTY4MDYzMTA2OSwwMDAwMDAwMGYzNTg3Njk1MzJhZWUwMjFmYTIxZTRkNmY3OWZmYThk",
   "tracks": [
     {
       "added_at": "2023-03-17 06:39:57",
@@ -69,7 +69,7 @@
       "url": "https://open.spotify.com/track/0IKeDy5bT9G0bA7ZixRT4A"
     },
     {
-      "added_at": "2023-04-16 01:32:36",
+      "added_at": "2023-04-17 00:58:15",
       "album": {
         "name": "Chanel",
         "url": "https://open.spotify.com/album/4cd4QB02mwPtiTOJBzQmWo"
@@ -125,23 +125,7 @@
       "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
     },
     {
-      "added_at": "2023-03-17 06:39:57",
-      "album": {
-        "name": "Tu Veneno Mortal",
-        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 226821,
-      "name": "Con Tus Besos",
-      "url": "https://open.spotify.com/track/6WYB1odDfMPVMyp1QxFInT"
-    },
-    {
-      "added_at": "2023-04-16 01:32:36",
+      "added_at": "2023-04-17 00:58:15",
       "album": {
         "name": "Qu\u00e9 Onda Perdida",
         "url": "https://open.spotify.com/album/6kbhZqFlf80O9LW2EAWz15"
@@ -159,6 +143,22 @@
       "duration_ms": 239637,
       "name": "Qu\u00e9 Onda Perdida",
       "url": "https://open.spotify.com/track/3upTB6o5YgeALHgDp3mzte"
+    },
+    {
+      "added_at": "2023-03-17 06:39:57",
+      "album": {
+        "name": "Tu Veneno Mortal",
+        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 226821,
+      "name": "Con Tus Besos",
+      "url": "https://open.spotify.com/track/6WYB1odDfMPVMyp1QxFInT"
     },
     {
       "added_at": "2023-03-17 06:39:57",
@@ -267,6 +267,22 @@
     {
       "added_at": "2023-03-17 06:39:57",
       "album": {
+        "name": "30 Aniversario",
+        "url": "https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 208160,
+      "name": "El Amor de Mi Vida",
+      "url": "https://open.spotify.com/track/1w3FzkhH82foC5oIbIKKut"
+    },
+    {
+      "added_at": "2023-03-17 06:39:57",
+      "album": {
         "name": "Te Quiero Besar",
         "url": "https://open.spotify.com/album/3nzB6RJLeWrgaATXF5ZIkr"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 190334,
       "name": "Te Quiero Besar",
       "url": "https://open.spotify.com/track/3iwKWIaEZ5jafPYZZSCDLz"
-    },
-    {
-      "added_at": "2023-03-17 06:39:57",
-      "album": {
-        "name": "30 Aniversario",
-        "url": "https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 208160,
-      "name": "El Amor de Mi Vida",
-      "url": "https://open.spotify.com/track/1w3FzkhH82foC5oIbIKKut"
     },
     {
       "added_at": "2023-03-17 06:39:57",
@@ -413,7 +413,7 @@
       "url": "https://open.spotify.com/track/6ajVb9JDdueaxbtLImUEPC"
     },
     {
-      "added_at": "2023-04-16 01:32:36",
+      "added_at": "2023-04-17 00:58:15",
       "album": {
         "name": "Mil Maneras De Morir",
         "url": "https://open.spotify.com/album/3Dkya3iIixR12RhWy8KnY5"
@@ -481,7 +481,7 @@
       "url": "https://open.spotify.com/track/0G9e3gdGPeer3BC1jh1qGN"
     },
     {
-      "added_at": "2023-04-16 01:32:36",
+      "added_at": "2023-04-17 00:58:15",
       "album": {
         "name": "No Se Puede Decir Adi\u00f3s / Nuestra Canci\u00f3n",
         "url": "https://open.spotify.com/album/2hajlGHDWlqIzHh1bvST29"
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-03-17 06:39:57",
       "album": {
-        "name": "Es Amor",
-        "url": "https://open.spotify.com/album/3b9zRa6yyjSTA6Z24UgbYZ"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 164933,
-      "name": "Es Amor",
-      "url": "https://open.spotify.com/track/4ktsS76uu22xyxnWOQcNLv"
-    },
-    {
-      "added_at": "2023-03-17 06:39:57",
-      "album": {
         "name": "MMXX's",
         "url": "https://open.spotify.com/album/7GukTesEXhrBTQNjorHbKv"
       },
@@ -639,18 +623,18 @@
     {
       "added_at": "2023-03-17 06:39:57",
       "album": {
-        "name": "Desde El Cant\u00f3n (en Vivo)",
-        "url": "https://open.spotify.com/album/2c3E1sKcWvcIt1lxYbiqgv"
+        "name": "Es Amor",
+        "url": "https://open.spotify.com/album/3b9zRa6yyjSTA6Z24UgbYZ"
       },
       "artists": [
         {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 173663,
-      "name": "Me Estoy Enamorando - en Vivo",
-      "url": "https://open.spotify.com/track/43UQAAZQB9eVlZhdz5pnt1"
+      "duration_ms": 164933,
+      "name": "Es Amor",
+      "url": "https://open.spotify.com/track/4ktsS76uu22xyxnWOQcNLv"
     },
     {
       "added_at": "2023-03-17 06:39:57",
@@ -667,6 +651,22 @@
       "duration_ms": 194962,
       "name": "Te Regalo",
       "url": "https://open.spotify.com/track/7c36pInnsI3DzAGDQcTW99"
+    },
+    {
+      "added_at": "2023-03-17 06:39:57",
+      "album": {
+        "name": "Desde El Cant\u00f3n (en Vivo)",
+        "url": "https://open.spotify.com/album/2c3E1sKcWvcIt1lxYbiqgv"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 173663,
+      "name": "Me Estoy Enamorando - en Vivo",
+      "url": "https://open.spotify.com/track/43UQAAZQB9eVlZhdz5pnt1"
     },
     {
       "added_at": "2023-03-17 06:39:57",
@@ -721,6 +721,22 @@
       "url": "https://open.spotify.com/track/1x87m5qOQDngRadEcIPVhX"
     },
     {
+      "added_at": "2023-04-17 00:58:15",
+      "album": {
+        "name": "Ni\u00f1a Bonita",
+        "url": "https://open.spotify.com/album/0hwRPsmQlENjWhGp1JZdCT"
+      },
+      "artists": [
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "duration_ms": 124826,
+      "name": "Ni\u00f1a Bonita",
+      "url": "https://open.spotify.com/track/1xGC65nTKUKVzdpkMa2h67"
+    },
+    {
       "added_at": "2023-03-17 06:39:57",
       "album": {
         "name": "Voy a Conquistarte",
@@ -741,22 +757,6 @@
       "url": "https://open.spotify.com/track/1NRL1xr9JCqu5ITWURgfk6"
     },
     {
-      "added_at": "2023-04-16 01:32:36",
-      "album": {
-        "name": "Ni\u00f1a Bonita",
-        "url": "https://open.spotify.com/album/0hwRPsmQlENjWhGp1JZdCT"
-      },
-      "artists": [
-        {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
-        }
-      ],
-      "duration_ms": 124826,
-      "name": "Ni\u00f1a Bonita",
-      "url": "https://open.spotify.com/track/1xGC65nTKUKVzdpkMa2h67"
-    },
-    {
       "added_at": "2023-03-17 06:39:57",
       "album": {
         "name": "Corridos 602",
@@ -771,6 +771,22 @@
       "duration_ms": 167370,
       "name": "Pideme la Luna",
       "url": "https://open.spotify.com/track/3m2S4eEc19o5krIEplPq2c"
+    },
+    {
+      "added_at": "2023-03-17 06:39:57",
+      "album": {
+        "name": "El Elegido",
+        "url": "https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 209664,
+      "name": "Que Bonito Es Querer",
+      "url": "https://open.spotify.com/track/7Jcvu13qlP4km0uDX9p2pZ"
     },
     {
       "added_at": "2023-03-17 06:39:57",
@@ -807,22 +823,6 @@
     {
       "added_at": "2023-03-17 06:39:57",
       "album": {
-        "name": "Perfecta",
-        "url": "https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 211560,
-      "name": "Perfecta",
-      "url": "https://open.spotify.com/track/4YO9aERidTIRtBG225jr0l"
-    },
-    {
-      "added_at": "2023-03-17 06:39:57",
-      "album": {
         "name": "Vibras de Noche",
         "url": "https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG"
       },
@@ -839,18 +839,18 @@
     {
       "added_at": "2023-03-17 06:39:57",
       "album": {
-        "name": "El Elegido",
-        "url": "https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t"
+        "name": "Perfecta",
+        "url": "https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm"
       },
       "artists": [
         {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
         }
       ],
-      "duration_ms": 209664,
-      "name": "Que Bonito Es Querer",
-      "url": "https://open.spotify.com/track/7Jcvu13qlP4km0uDX9p2pZ"
+      "duration_ms": 211560,
+      "name": "Perfecta",
+      "url": "https://open.spotify.com/track/4YO9aERidTIRtBG225jr0l"
     },
     {
       "added_at": "2023-03-17 06:39:57",
@@ -903,38 +903,6 @@
     {
       "added_at": "2023-03-17 06:39:57",
       "album": {
-        "name": "D\u00e9jame Ser",
-        "url": "https://open.spotify.com/album/3WPHKzqx1q136JTnQ9Q7xz"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 188500,
-      "name": "D\u00e9jame Ser",
-      "url": "https://open.spotify.com/track/281MU4q1qidG9gUNj2FZsf"
-    },
-    {
-      "added_at": "2023-03-17 06:39:57",
-      "album": {
-        "name": "Junto A Ti",
-        "url": "https://open.spotify.com/album/7mBK2LPlyhQTi3WLM00j7r"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 193922,
-      "name": "Junto A Ti",
-      "url": "https://open.spotify.com/track/6Vjznt4fAGn3rFTuP4EJIC"
-    },
-    {
-      "added_at": "2023-03-17 06:39:57",
-      "album": {
         "name": "Obsessed (Deluxe)",
         "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
       },
@@ -967,6 +935,22 @@
     {
       "added_at": "2023-03-17 06:39:57",
       "album": {
+        "name": "Junto A Ti",
+        "url": "https://open.spotify.com/album/7mBK2LPlyhQTi3WLM00j7r"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 193922,
+      "name": "Junto A Ti",
+      "url": "https://open.spotify.com/track/6Vjznt4fAGn3rFTuP4EJIC"
+    },
+    {
+      "added_at": "2023-03-17 06:39:57",
+      "album": {
         "name": "Mi Princesa",
         "url": "https://open.spotify.com/album/74Z68wlXXHP5nzOobB6ppJ"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 214146,
       "name": "Espero Con Ansias",
       "url": "https://open.spotify.com/track/22SnIb63vexyG4RlRcqI9r"
+    },
+    {
+      "added_at": "2023-03-17 06:39:57",
+      "album": {
+        "name": "D\u00e9jame Ser",
+        "url": "https://open.spotify.com/album/3WPHKzqx1q136JTnQ9Q7xz"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 188500,
+      "name": "D\u00e9jame Ser",
+      "url": "https://open.spotify.com/track/281MU4q1qidG9gUNj2FZsf"
     },
     {
       "added_at": "2023-03-17 06:39:57",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-03-17 06:39:57",
       "album": {
-        "name": "Jalo",
-        "url": "https://open.spotify.com/album/5ItVyjlKmm3vm9bJUBgKPc"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 145277,
-      "name": "Jalo",
-      "url": "https://open.spotify.com/track/7b6XzXDscAvlxofcXveZIz"
-    },
-    {
-      "added_at": "2023-03-17 06:39:57",
-      "album": {
         "name": "El Amor De Mi Vida",
         "url": "https://open.spotify.com/album/1wBeKqcO0EVPcKethJQ9sm"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 179538,
       "name": "El Amor De Mi Vida",
       "url": "https://open.spotify.com/track/20ucGUA3I3z5lBi651CfNh"
+    },
+    {
+      "added_at": "2023-03-17 06:39:57",
+      "album": {
+        "name": "Jalo",
+        "url": "https://open.spotify.com/album/5ItVyjlKmm3vm9bJUBgKPc"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 145277,
+      "name": "Jalo",
+      "url": "https://open.spotify.com/track/7b6XzXDscAvlxofcXveZIz"
     },
     {
       "added_at": "2023-03-17 06:39:57",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2023-03-17 06:39:57",
       "album": {
+        "name": "Soy El Nata",
+        "url": "https://open.spotify.com/album/7AGkmNOYEjPDNAeoL9K4PN"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 179899,
+      "name": "Noches De Desvelo",
+      "url": "https://open.spotify.com/track/7aYP7DH23pb0cAZBQQK6uz"
+    },
+    {
+      "added_at": "2023-03-17 06:39:57",
+      "album": {
         "name": "Un Loco Enamorado",
         "url": "https://open.spotify.com/album/5UioFILcdOsiSLItygxb7C"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 201001,
       "name": "Un Loco Enamorado",
       "url": "https://open.spotify.com/track/7xSnRDIfclnEVMcz6KGuo4"
-    },
-    {
-      "added_at": "2023-03-17 06:39:57",
-      "album": {
-        "name": "Soy El Nata",
-        "url": "https://open.spotify.com/album/7AGkmNOYEjPDNAeoL9K4PN"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 179899,
-      "name": "Noches De Desvelo",
-      "url": "https://open.spotify.com/track/7aYP7DH23pb0cAZBQQK6uz"
     }
   ],
   "unique_name": "La Mamalona Rom\u00e1ntica",

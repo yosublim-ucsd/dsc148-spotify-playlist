@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2023 全新陣容出列！台灣出發， 展望世界，他們就是未來的巨星星！Cover: LÜCY x Andr 安德 x Everydaze x 胡家誠
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,718 likes - 67 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,788 likes - 67 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

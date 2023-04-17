@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 
 > Estas son las indomables del Regional Mexicano\. Chiquis en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,758 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,838 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 47 | [Así Nomás](https://open.spotify.com/track/56J7bkvuNDfs2e9YGbI01E) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9) | [Así Nomás](https://open.spotify.com/album/1DJ1t2VC98iToO2Xw0cIPy) | 3:11 |
 | 48 | [Con La Misma Piedra](https://open.spotify.com/track/48YY9jYcCMqW6FiAZ5EmSb) | [Grupo Limite](https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C) | [Por Puro Amor](https://open.spotify.com/album/0WsszKdBU8ZgICPUvrvIb6) | 3:39 |
 | 49 | [Paloma Blanca](https://open.spotify.com/track/0qTmcxa3HhdKEH0wftscnQ) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Mariachi Divas de Cindy Shea](https://open.spotify.com/artist/3D5AzlMCW0gCYlNvFANoEd) | [Paloma Blanca](https://open.spotify.com/album/7jGwTVjD5GOy8cUQqhJpsI) | 3:53 |
-| 50 | [Que Poquito Me Conoces](https://open.spotify.com/track/3rxafxANDFSkB2onHUBUe6) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Confidente](https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP) | 2:30 |
+| 50 | [Desaires](https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Pa' Los Dolidos](https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi) | 2:41 |
 | 51 | [Morí](https://open.spotify.com/track/2ysxv5DXuosxjvaGItVn1E) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Morí](https://open.spotify.com/album/0yexjHqn8yMIgpxNxJqVQ0) | 3:44 |
-| 52 | [Desaires](https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Pa' Los Dolidos](https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi) | 2:41 |
+| 52 | [Que Poquito Me Conoces](https://open.spotify.com/track/3rxafxANDFSkB2onHUBUe6) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Confidente](https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP) | 2:30 |
 | 53 | [El Barco](https://open.spotify.com/track/0O195ut6Wlnv0ppzxmEpU4) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W) | 3:46 |
 | 54 | [Cuando Me Importabas](https://open.spotify.com/track/0ihv6gQs9XoIr7me3M9sCy) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [Cuando Me Importabas](https://open.spotify.com/album/1yEZEZ575OrXSneXTDDsWD) | 3:12 |
 | 55 | [Tambien Las Mujeres Pueden \(En Vivo\)](https://open.spotify.com/track/0EwW3CpYxYmiwa4LHOmbxY) | [Janely Rosa](https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Tambien Las Mujeres Pueden \(En Vivo\)](https://open.spotify.com/album/0A9jc2mNfi0CeYveDasqI3) | 3:02 |
@@ -99,9 +99,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 89 | [Amor De Unos Botes](https://open.spotify.com/track/1g1F4DIjpLnh6TEeB8SCHD) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P), [Fernanda Diaz](https://open.spotify.com/artist/1454MOFLayt1NuJ2CMaY8Y) | [Amor De Unos Botes](https://open.spotify.com/album/1XtF9fBxTchoV70JxxdFTe) | 3:15 |
 | 90 | [Ven a Mí](https://open.spotify.com/track/3GfABcgtxdYZyNwtiFNfhY) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [Ven a Mí](https://open.spotify.com/album/1kVJTTPDm0gYX7au6C6Uli) | 4:46 |
 | 91 | [Ya Te Olvidé](https://open.spotify.com/track/6AQmEy0PpEHNb72Pz94sMD) | [Grace Guillén](https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD) | [Ya Te Olvidé](https://open.spotify.com/album/5naqdFvqwIyTVEcLdUmPrV) | 3:40 |
-| 92 | [Una Tarde De Abril](https://open.spotify.com/track/2WP7Hffpxt4SuvZY0UG6PY) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN) | [Una Tarde De Abril](https://open.spotify.com/album/3lESpmcn3r1pR2prmtMrfh) | 2:53 |
-| 93 | [Contigo Aprendí \- En Vivo](https://open.spotify.com/track/1Oj84aMBeOnTcjKyQ4yHkA) | [Ana Casillas](https://open.spotify.com/artist/1B14dSg39GuUntPDa6KOXu) | [Sesiones En Vivo Vol\. 2](https://open.spotify.com/album/10F9VCKoV67HlFuBM0wgju) | 3:26 |
-| 94 | [Amiga](https://open.spotify.com/track/5fB1anQrnZBMnSjilCnAZ8) | [Marilyn Patiño](https://open.spotify.com/artist/0QRuYvK5g5MBK4r27OyRmh), [Lady Yuliana](https://open.spotify.com/artist/3WLVEbpQIsYvDslZadgxO2) | [Amiga](https://open.spotify.com/album/1Zc6hqIINyRhDkyvLNV1e8) | 3:25 |
+| 92 | [Amiga](https://open.spotify.com/track/5fB1anQrnZBMnSjilCnAZ8) | [Marilyn Patiño](https://open.spotify.com/artist/0QRuYvK5g5MBK4r27OyRmh), [Lady Yuliana](https://open.spotify.com/artist/3WLVEbpQIsYvDslZadgxO2) | [Amiga](https://open.spotify.com/album/1Zc6hqIINyRhDkyvLNV1e8) | 3:25 |
+| 93 | [Una Tarde De Abril](https://open.spotify.com/track/2WP7Hffpxt4SuvZY0UG6PY) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN) | [Una Tarde De Abril](https://open.spotify.com/album/3lESpmcn3r1pR2prmtMrfh) | 2:53 |
+| 94 | [Contigo Aprendí \- En Vivo](https://open.spotify.com/track/1Oj84aMBeOnTcjKyQ4yHkA) | [Ana Casillas](https://open.spotify.com/artist/1B14dSg39GuUntPDa6KOXu) | [Sesiones En Vivo Vol\. 2](https://open.spotify.com/album/10F9VCKoV67HlFuBM0wgju) | 3:26 |
 | 95 | [Mi Soldadita](https://open.spotify.com/track/5lpKKzuCgPqrcOscblmapl) | [La Abuela Irma Silva](https://open.spotify.com/artist/54326fpqCFfVK6deMVzOTq) | [Mi Soldadita](https://open.spotify.com/album/2aRBOVDwie76WQ55iIUUkt) | 3:10 |
 | 96 | [Porque Me Sabes Querer](https://open.spotify.com/track/3XTggCtNo5eeMgjy4BgpBk) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN) | [Porque Me Sabes Querer](https://open.spotify.com/album/6iaj4eF6KuCyBrJXFzdOem) | 3:13 |
 | 97 | [Ovarios](https://open.spotify.com/track/5M0xCMnbD2gDUfhRo5pvlT) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Misma Gran Señora](https://open.spotify.com/album/4JckvbYfeoqro9OfNM87y5) | 2:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 99 | [Mariposa de Barrio](https://open.spotify.com/track/02ykJXbTaAyxPgaicIRxo4) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mi Vida Loca](https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM) | 3:58 |
 | 100 | [Brujería](https://open.spotify.com/track/1PcwgVL81paHLsxatYSNR3) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 2:01 |
 
-Snapshot ID: `MTY4MTQ1MjAwMCwwMDAwMDAwMDBmNDExODBiODNhMTE5YWM4ZTExNDA5OTA0YzljMmM5`
+Snapshot ID: `MTY4MTQ1MjAwMCwwMDAwMDAwMGQzY2Y2YTc1NzUxYjAzN2ExMjBlYjNmNDRmNDNkNDI5`

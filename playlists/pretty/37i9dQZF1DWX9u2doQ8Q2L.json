@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 365659,
+  "num_followers": 365724,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTM5ODAwMCwwMDAwMDAwMDdhNGMzMjE4NWVlYjQ3Mjg0ZTQxYTU0YTU0N2NjYzk1",
+  "snapshot_id": "MTY4MTM5ODAwMCwwMDAwMDAwMDcwNWNmY2I3NGJlYTU5ZjY3YWQ3ODlkYjNmNWVlYmRl",
   "tracks": [
     {
       "added_at": "2023-04-13 15:00:00",
@@ -939,18 +939,22 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
-        "name": "Damn!",
-        "url": "https://open.spotify.com/album/58iLEcJ5gjmwjPH4T8Ahy9"
+        "name": "DAWN (feat. Aile The Shota)",
+        "url": "https://open.spotify.com/album/28zuCoJ3HrQdD7plQcErXx"
       },
       "artists": [
         {
-          "name": "Wez Atlas",
-          "url": "https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ"
+          "name": "MATZ",
+          "url": "https://open.spotify.com/artist/55vjGKmlvpOxuYjwGjBKrD"
+        },
+        {
+          "name": "Aile The Shota",
+          "url": "https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju"
         }
       ],
-      "duration_ms": 161760,
-      "name": "Damn!",
-      "url": "https://open.spotify.com/track/7f8eO8Gd4FNZZemvweT31N"
+      "duration_ms": 184640,
+      "name": "DAWN (feat. Aile The Shota)",
+      "url": "https://open.spotify.com/track/3LjyZPsPe9CA0DL9CS726A"
     },
     {
       "added_at": "2023-04-13 15:00:00",
@@ -967,6 +971,22 @@
       "duration_ms": 190594,
       "name": "Girl in the Mirror",
       "url": "https://open.spotify.com/track/6QXHw9vBEbzQU7GuZSWMLh"
+    },
+    {
+      "added_at": "2023-04-13 15:00:00",
+      "album": {
+        "name": "Damn!",
+        "url": "https://open.spotify.com/album/58iLEcJ5gjmwjPH4T8Ahy9"
+      },
+      "artists": [
+        {
+          "name": "Wez Atlas",
+          "url": "https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ"
+        }
+      ],
+      "duration_ms": 161760,
+      "name": "Damn!",
+      "url": "https://open.spotify.com/track/7f8eO8Gd4FNZZemvweT31N"
     },
     {
       "added_at": "2023-04-13 15:00:00",
@@ -991,26 +1011,6 @@
       "duration_ms": 178000,
       "name": "BREAKTHROUGH",
       "url": "https://open.spotify.com/track/3bfn8rA63B8QbqJjES4s4M"
-    },
-    {
-      "added_at": "2023-04-13 15:00:00",
-      "album": {
-        "name": "DAWN (feat. Aile The Shota)",
-        "url": "https://open.spotify.com/album/28zuCoJ3HrQdD7plQcErXx"
-      },
-      "artists": [
-        {
-          "name": "MATZ",
-          "url": "https://open.spotify.com/artist/55vjGKmlvpOxuYjwGjBKrD"
-        },
-        {
-          "name": "Aile The Shota",
-          "url": "https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju"
-        }
-      ],
-      "duration_ms": 184640,
-      "name": "DAWN (feat. Aile The Shota)",
-      "url": "https://open.spotify.com/track/3LjyZPsPe9CA0DL9CS726A"
     },
     {
       "added_at": "2023-04-13 15:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
-        "name": "Heat",
-        "url": "https://open.spotify.com/album/6YnhFXZM5tJcBCY7BehT8L"
-      },
-      "artists": [
-        {
-          "name": "Lucky Kilimanjaro",
-          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
-        }
-      ],
-      "duration_ms": 263692,
-      "name": "Heat",
-      "url": "https://open.spotify.com/track/0W9ZNXpTcdYrRFddGttATh"
-    },
-    {
-      "added_at": "2023-04-13 15:00:00",
-      "album": {
         "name": "Running In The Dark (Image Song for Arknights mobile game)",
         "url": "https://open.spotify.com/album/16X7XTvj35X5fVmE8d8jnR"
       },
@@ -1099,6 +1083,38 @@
       "duration_ms": 220533,
       "name": "Running In The Dark - Image Song for Arknights mobile game",
       "url": "https://open.spotify.com/track/3D46cXfwM4id5YfQbpTvKA"
+    },
+    {
+      "added_at": "2023-04-13 15:00:00",
+      "album": {
+        "name": "NIGHT TAPE",
+        "url": "https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB"
+      },
+      "artists": [
+        {
+          "name": "CHIAKI SATO",
+          "url": "https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt"
+        }
+      ],
+      "duration_ms": 266900,
+      "name": "\u591c\u3092\u30eb\u30fc\u30d7",
+      "url": "https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX"
+    },
+    {
+      "added_at": "2023-04-13 15:00:00",
+      "album": {
+        "name": "Heat",
+        "url": "https://open.spotify.com/album/6YnhFXZM5tJcBCY7BehT8L"
+      },
+      "artists": [
+        {
+          "name": "Lucky Kilimanjaro",
+          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
+        }
+      ],
+      "duration_ms": 263692,
+      "name": "Heat",
+      "url": "https://open.spotify.com/track/0W9ZNXpTcdYrRFddGttATh"
     },
     {
       "added_at": "2023-04-13 15:00:00",
@@ -1131,22 +1147,6 @@
       "duration_ms": 158500,
       "name": "\u30e1\u30ac\u30d5\u30a9\u30f3",
       "url": "https://open.spotify.com/track/3b97D6YMKoXseRjntwH5q0"
-    },
-    {
-      "added_at": "2023-04-13 15:00:00",
-      "album": {
-        "name": "NIGHT TAPE",
-        "url": "https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB"
-      },
-      "artists": [
-        {
-          "name": "CHIAKI SATO",
-          "url": "https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt"
-        }
-      ],
-      "duration_ms": 266900,
-      "name": "\u591c\u3092\u30eb\u30fc\u30d7",
-      "url": "https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX"
     },
     {
       "added_at": "2023-04-13 15:00:00",
@@ -1423,6 +1423,38 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
+        "name": "Inner Ocean",
+        "url": "https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1"
+      },
+      "artists": [
+        {
+          "name": "salasa",
+          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
+        }
+      ],
+      "duration_ms": 223808,
+      "name": "\u592a\u967d\u304c\u6607\u308b\u307e\u3067",
+      "url": "https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD"
+    },
+    {
+      "added_at": "2023-04-13 15:00:00",
+      "album": {
+        "name": "Chrome Season",
+        "url": "https://open.spotify.com/album/26z9uGhvmZt7YjkCspGTlB"
+      },
+      "artists": [
+        {
+          "name": "Bleecker Chrome",
+          "url": "https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8"
+        }
+      ],
+      "duration_ms": 186176,
+      "name": "come again",
+      "url": "https://open.spotify.com/track/7vyYFC1tpOv4mg3PrbTfCX"
+    },
+    {
+      "added_at": "2023-04-13 15:00:00",
+      "album": {
         "name": "DOWN TOWN",
         "url": "https://open.spotify.com/album/3yY408DUkgwhfZkouMRK0i"
       },
@@ -1455,38 +1487,6 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
-        "name": "Chrome Season",
-        "url": "https://open.spotify.com/album/26z9uGhvmZt7YjkCspGTlB"
-      },
-      "artists": [
-        {
-          "name": "Bleecker Chrome",
-          "url": "https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8"
-        }
-      ],
-      "duration_ms": 186176,
-      "name": "come again",
-      "url": "https://open.spotify.com/track/7vyYFC1tpOv4mg3PrbTfCX"
-    },
-    {
-      "added_at": "2023-04-13 15:00:00",
-      "album": {
-        "name": "Inner Ocean",
-        "url": "https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1"
-      },
-      "artists": [
-        {
-          "name": "salasa",
-          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
-        }
-      ],
-      "duration_ms": 223808,
-      "name": "\u592a\u967d\u304c\u6607\u308b\u307e\u3067",
-      "url": "https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD"
-    },
-    {
-      "added_at": "2023-04-13 15:00:00",
-      "album": {
         "name": "Eyes",
         "url": "https://open.spotify.com/album/2VSREGDOr59t7uOXZ8B7s7"
       },
@@ -1499,6 +1499,22 @@
       "duration_ms": 170064,
       "name": "Eyes",
       "url": "https://open.spotify.com/track/5hztfJs7VAjS4c4IWc3lZc"
+    },
+    {
+      "added_at": "2023-04-13 15:00:00",
+      "album": {
+        "name": "orange",
+        "url": "https://open.spotify.com/album/4l0svnFTrWNYbN02FNxmGk"
+      },
+      "artists": [
+        {
+          "name": "macico",
+          "url": "https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk"
+        }
+      ],
+      "duration_ms": 176666,
+      "name": "orange",
+      "url": "https://open.spotify.com/track/1OzZI9XdRIkAkYqAsUlJnL"
     },
     {
       "added_at": "2023-04-13 15:00:00",
@@ -1527,18 +1543,34 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
-        "name": "orange",
-        "url": "https://open.spotify.com/album/4l0svnFTrWNYbN02FNxmGk"
+        "name": "Jesus Loves You",
+        "url": "https://open.spotify.com/album/0MmKSrbOnVxqUga9R0MAH3"
       },
       "artists": [
         {
-          "name": "macico",
-          "url": "https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk"
+          "name": "Kvi Baba",
+          "url": "https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs"
         }
       ],
-      "duration_ms": 176666,
-      "name": "orange",
-      "url": "https://open.spotify.com/track/1OzZI9XdRIkAkYqAsUlJnL"
+      "duration_ms": 168426,
+      "name": "Bye Bye (0331)",
+      "url": "https://open.spotify.com/track/4RwdPcdrJfmPXyxrAeS8c8"
+    },
+    {
+      "added_at": "2023-04-13 15:00:00",
+      "album": {
+        "name": "2016",
+        "url": "https://open.spotify.com/album/7qeQudNVKihiHBykhZa5IY"
+      },
+      "artists": [
+        {
+          "name": "Bleecker Chrome",
+          "url": "https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8"
+        }
+      ],
+      "duration_ms": 240833,
+      "name": "2016",
+      "url": "https://open.spotify.com/track/7nQdpfYzWAZ48Q2IcmrC3Q"
     },
     {
       "added_at": "2023-04-13 15:00:00",
@@ -1563,22 +1595,6 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
-        "name": "2016",
-        "url": "https://open.spotify.com/album/7qeQudNVKihiHBykhZa5IY"
-      },
-      "artists": [
-        {
-          "name": "Bleecker Chrome",
-          "url": "https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8"
-        }
-      ],
-      "duration_ms": 240833,
-      "name": "2016",
-      "url": "https://open.spotify.com/track/7nQdpfYzWAZ48Q2IcmrC3Q"
-    },
-    {
-      "added_at": "2023-04-13 15:00:00",
-      "album": {
         "name": "SPEED AGETE (Prod. Chaki Zulu)",
         "url": "https://open.spotify.com/album/0s5YEX9wcWOR6CxNxywvBk"
       },
@@ -1599,22 +1615,6 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
-        "name": "Jesus Loves You",
-        "url": "https://open.spotify.com/album/0MmKSrbOnVxqUga9R0MAH3"
-      },
-      "artists": [
-        {
-          "name": "Kvi Baba",
-          "url": "https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs"
-        }
-      ],
-      "duration_ms": 168426,
-      "name": "Bye Bye (0331)",
-      "url": "https://open.spotify.com/track/4RwdPcdrJfmPXyxrAeS8c8"
-    },
-    {
-      "added_at": "2023-04-13 15:00:00",
-      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/7zI8awEHpNi7KtHLH6USis"
       },
@@ -1627,6 +1627,22 @@
       "duration_ms": 149002,
       "name": "Stay",
       "url": "https://open.spotify.com/track/0Hu3e0RBJwUSBc8Nextmft"
+    },
+    {
+      "added_at": "2023-04-13 15:00:00",
+      "album": {
+        "name": "Hozue",
+        "url": "https://open.spotify.com/album/0HC1HrnxGZyvss2drq6Ff0"
+      },
+      "artists": [
+        {
+          "name": "Bialystocks",
+          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
+        }
+      ],
+      "duration_ms": 220236,
+      "name": "Hozue",
+      "url": "https://open.spotify.com/track/7p3plksuVPhzw06KskgFFr"
     },
     {
       "added_at": "2023-04-13 15:00:00",
@@ -1647,26 +1663,6 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
-        "name": "Mermaid",
-        "url": "https://open.spotify.com/album/5bmgJcXApczi08TVQGNR8F"
-      },
-      "artists": [
-        {
-          "name": "Skaai",
-          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
-        },
-        {
-          "name": "uin",
-          "url": "https://open.spotify.com/artist/4QeHs1eoKjxJLPFOkgsNjw"
-        }
-      ],
-      "duration_ms": 174219,
-      "name": "Mermaid",
-      "url": "https://open.spotify.com/track/5KpPfyynOV0kCOaHXd5eeb"
-    },
-    {
-      "added_at": "2023-04-13 15:00:00",
-      "album": {
         "name": "\u967d\u6c17\u306a\u4f11\u65e5",
         "url": "https://open.spotify.com/album/6j9nxtP0BmchrWc9JkBT2G"
       },
@@ -1683,18 +1679,22 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
-        "name": "Hozue",
-        "url": "https://open.spotify.com/album/0HC1HrnxGZyvss2drq6Ff0"
+        "name": "Mermaid",
+        "url": "https://open.spotify.com/album/5bmgJcXApczi08TVQGNR8F"
       },
       "artists": [
         {
-          "name": "Bialystocks",
-          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+        },
+        {
+          "name": "uin",
+          "url": "https://open.spotify.com/artist/4QeHs1eoKjxJLPFOkgsNjw"
         }
       ],
-      "duration_ms": 220236,
-      "name": "Hozue",
-      "url": "https://open.spotify.com/track/7p3plksuVPhzw06KskgFFr"
+      "duration_ms": 174219,
+      "name": "Mermaid",
+      "url": "https://open.spotify.com/track/5KpPfyynOV0kCOaHXd5eeb"
     },
     {
       "added_at": "2023-04-13 15:00:00",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
-        "name": "HUES",
-        "url": "https://open.spotify.com/album/019fqb5ajmLWkD57gViVvo"
-      },
-      "artists": [
-        {
-          "name": "Hana Hope",
-          "url": "https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a"
-        }
-      ],
-      "duration_ms": 238831,
-      "name": "We've Come So Far",
-      "url": "https://open.spotify.com/track/5FRTam306WIvvLrmmroNCs"
-    },
-    {
-      "added_at": "2023-04-13 15:00:00",
-      "album": {
         "name": "\u30ed\u30de\u30f3\u30b9",
         "url": "https://open.spotify.com/album/08X34HYaXRUkho62DxyGNf"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 224600,
       "name": "\u30ed\u30de\u30f3\u30b9",
       "url": "https://open.spotify.com/track/7aYS9BNsXFIFEogRGL1rQC"
+    },
+    {
+      "added_at": "2023-04-13 15:00:00",
+      "album": {
+        "name": "HUES",
+        "url": "https://open.spotify.com/album/019fqb5ajmLWkD57gViVvo"
+      },
+      "artists": [
+        {
+          "name": "Hana Hope",
+          "url": "https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a"
+        }
+      ],
+      "duration_ms": 238831,
+      "name": "We've Come So Far",
+      "url": "https://open.spotify.com/track/5FRTam306WIvvLrmmroNCs"
     },
     {
       "added_at": "2023-04-13 15:00:00",

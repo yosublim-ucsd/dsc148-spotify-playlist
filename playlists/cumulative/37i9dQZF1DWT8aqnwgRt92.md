@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-632 songs - 1 day 16 hr 14 min
+633 songs - 1 day 16 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -411,7 +411,7 @@
 | [アイウエ](https://open.spotify.com/track/7rqYTYi70xZBqEMAtSVhXc) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G), [SAKURAmoti](https://open.spotify.com/artist/2raQe3AjMykp6K4Y890owO) | [アイウエ](https://open.spotify.com/album/1cWeuydo4eS8AwAID5YUGJ) | 3:42 | 2022-10-13 | 2023-01-13 |
 | [アイタリナイ](https://open.spotify.com/track/67seLhibwW3OAyZcEw5Ijh) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [ニト。](https://open.spotify.com/artist/7bNO9nNPBOXrcUzOA66UbE) | [アイタリナイ](https://open.spotify.com/album/1C5VITN2qaLE4PChtSmSrj) | 2:42 | 2023-01-12 |  |
 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 | 2023-04-11 |  |
-| [アイワナムチュー](https://open.spotify.com/track/21zl36W7QoaVy5MMxAvfcv) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [アイワナムチュー](https://open.spotify.com/album/1JNzKXrtkaXgn5y96johqC) | 3:25 | 2023-01-05 |  |
+| [アイワナムチュー](https://open.spotify.com/track/21zl36W7QoaVy5MMxAvfcv) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [アイワナムチュー](https://open.spotify.com/album/1JNzKXrtkaXgn5y96johqC) | 3:25 | 2023-01-05 | 2023-04-17 |
 | [アレキシサイミアスペア](https://open.spotify.com/track/1pQ9MUBDpe5AVnpxha0uso) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [last aurorally](https://open.spotify.com/album/5NxTmnfjzE2DpeUUWfsn0F) | 5:25 | 2023-04-11 |  |
 | [アンチノミー](https://open.spotify.com/track/4q9x6Ze2ifhBElxbSDtx1D) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [アンチノミー](https://open.spotify.com/album/0KlgjlEvjQJIxsAu7EDEE1) | 5:03 | 2023-01-17 | 2023-04-12 |
 | [イビツナコトバ](https://open.spotify.com/track/1ru7EpUF1bidYVq1n6VWUz) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [イビツナコトバ](https://open.spotify.com/album/2Q7Vw6B0q0ZSLdFhBx94o8) | 3:31 | 2023-01-12 | 2023-04-09 |
@@ -434,6 +434,7 @@
 | [ギターと孤独と蒼い惑星](https://open.spotify.com/track/17rhDgnYYryQU4uS71ZxFu) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [ギターと孤独と蒼い惑星](https://open.spotify.com/album/6PmIi4asxDdrpIcZKHYfWp) | 3:48 | 2022-11-08 | 2022-12-28 |
 | [ギリギリRide it out](https://open.spotify.com/track/7Ac881VKUrTcPWDpLG6Yiv) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [Choo Choo TRAIN](https://open.spotify.com/album/2qB0JLYy2Ufq65f0NkjfPG) | 3:51 | 2022-11-15 | 2023-01-06 |
 | [クウフク \(starring VALSHE\)](https://open.spotify.com/track/3nM0q6UoSaxxfeU81Sb8s5) | [今夜、あの街から](https://open.spotify.com/artist/3CIypr428k5fChS6LK790Y), [VALSHE](https://open.spotify.com/artist/3RbqLuOD3CrWxEpXeyMbS3) | [クウフク \(starring VALSHE\)](https://open.spotify.com/album/6ggasRuWfhDyzfDCu0aWQn) | 2:50 | 2023-02-21 |  |
+| [コイコガレ](https://open.spotify.com/track/1RtxMS6dcQuxK5y8TKh4Md) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM), [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [コイコガレ](https://open.spotify.com/album/71gRqLVrm4OMLRUYXMkWbu) | 3:35 | 2023-04-16 |  |
 | [サイダー](https://open.spotify.com/track/1pgT2Ue3CjtILtKHkifnmS) | [Motohiro Hata](https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q) | [サイダー](https://open.spotify.com/album/3hCLUq4eAthQqGFZ3KfJbY) | 4:27 | 2022-07-05 | 2022-08-06 |
 | [サイレントマイノリティー](https://open.spotify.com/track/2X0KAuaG6RCoa8C1A1DPmI) | [Kashitaro Ito](https://open.spotify.com/artist/3i7tuzRfutJGAUowspOM1f) | [TVアニメ「乙女ゲー世界はモブに厳しい世界です」オープニングテーマ「サイレントマイノリティー」](https://open.spotify.com/album/5hK3alKl1ln4eAJtM3vN4u) | 3:38 | 2022-05-28 | 2022-07-06 |
 | [シャル・ウィ・ダンス?](https://open.spotify.com/track/3scQcXcg9nOfWVQDQTeDXF) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [シャル・ウィ・ダンス?](https://open.spotify.com/album/0bJE38pebBIRov35fJG5jZ) | 4:26 | 2022-07-12 | 2022-10-14 |

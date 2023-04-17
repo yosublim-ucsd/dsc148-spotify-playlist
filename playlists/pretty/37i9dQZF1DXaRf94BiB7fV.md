@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > Emerging Indie artists on the rise, updated every Wednesday\. Cover: Navjot Ahuja , Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,586 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,624 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

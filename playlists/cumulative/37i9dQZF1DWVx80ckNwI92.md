@@ -4,7 +4,7 @@
 
 > The future of African Indie and Alternative
 
-56 songs - 2 hr 44 min
+58 songs - 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,14 +43,16 @@
 | [my intentions](https://open.spotify.com/track/6xLC342gJAbWQYG3Td23cn) | [Funbi](https://open.spotify.com/artist/2ZvhA3s4Jwbcce62lzGEGX) | [my Intentions](https://open.spotify.com/album/3HKtKW3F060uEkTCxWnU8E) | 3:06 | 2023-03-30 |  |
 | [Not My Own](https://open.spotify.com/track/4LJCnfBCGR7k1cWMbZ6OxQ) | [ro](https://open.spotify.com/artist/1m4s5VPSqT6GcF5fm9qKXB), [Wanja Wohoro](https://open.spotify.com/artist/6x42DjzrK28UZZzKsKGvVE) | [Not My Own](https://open.spotify.com/album/2MnS88RNdCYeYP12wnxp2D) | 2:16 | 2023-03-30 |  |
 | [Nu Riddim](https://open.spotify.com/track/3KW6KJKinwAszaajAHOSQF) | [Ycee](https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj) | [Love Drunk](https://open.spotify.com/album/5d0oU10qoxpnSpa4PCaKXo) | 3:09 | 2023-03-30 |  |
-| [Numbers](https://open.spotify.com/track/2BR3axG2HyUqRgeND9Ufv2) | [Petite Noir](https://open.spotify.com/artist/4dGwtd1FYag1VY1vaR1U8y) | [Numbers](https://open.spotify.com/album/50i2QAMZyvMyEzOhy8M7bB) | 3:07 | 2023-03-30 |  |
+| [Numbers](https://open.spotify.com/track/2BR3axG2HyUqRgeND9Ufv2) | [Petite Noir](https://open.spotify.com/artist/4dGwtd1FYag1VY1vaR1U8y) | [Numbers](https://open.spotify.com/album/50i2QAMZyvMyEzOhy8M7bB) | 3:07 | 2023-03-30 | 2023-04-17 |
+| [Numbers](https://open.spotify.com/track/3GCwEJZBpdu7AUtBxlz70r) | [Petite Noir](https://open.spotify.com/artist/4dGwtd1FYag1VY1vaR1U8y) | [MotherFather](https://open.spotify.com/album/6G76PblQXf5i8JB7mC0mv3) | 3:07 | 2023-03-30 |  |
 | [OLE](https://open.spotify.com/track/3ugqlQkSvdAckn4uNOlzQF) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [OLE](https://open.spotify.com/album/72Gkfhx9bDh2LMrO2vMaPy) | 2:31 | 2023-04-14 |  |
 | [On My Way](https://open.spotify.com/track/2mTU6HVWHYPIDefNUcj9fN) | [Tena Tenpo](https://open.spotify.com/artist/6t5xnCosOLmlmQG9ZqnUJN), [benmaelen](https://open.spotify.com/artist/7rQenKdDeM6d5o7GOBwWnq), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [On My Way](https://open.spotify.com/album/0u1jNMcDzXqgFU8aYpmCeh) | 3:26 | 2023-03-30 | 2023-04-07 |
 | [Play Dumb](https://open.spotify.com/track/0IrIlT6XttUFdsQkk9ZkVe) | [OwlVez](https://open.spotify.com/artist/0YAFjgw3FmgrIHzZdvrV0V) | [Play Dumb](https://open.spotify.com/album/4xjjCaQjqKgHl8tjfREOCm) | 3:59 | 2023-03-30 | 2023-04-07 |
 | [Sanguine \- Pastel Remix](https://open.spotify.com/track/45DcpHNu6MLivmNaalRIZo) | [Lil Seyi](https://open.spotify.com/artist/2Z5C4k6StRPuT2ZipvC00O), [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [Sanguine \(Pastel Remix\)](https://open.spotify.com/album/0DggHQp8mTvxxLBKy7pANP) | 3:09 | 2023-03-30 |  |
 | [Sapio\-Medula](https://open.spotify.com/track/4O5EL0Ih7QTWDfU51XUGvB) | [Phaemous](https://open.spotify.com/artist/24teR3vPUTk7Le0KjxpSwQ) | [Sapio\-Medula](https://open.spotify.com/album/5UqlwxwUB2lyCuFWBRqryI) | 2:52 | 2023-03-30 |  |
 | [showmetheway !!](https://open.spotify.com/track/6JRfbZ9d0Caw35pbCsOTSL) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Poco Lee](https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc) | [showmetheway !!](https://open.spotify.com/album/3JYPab6Bqkk4BXdvdinw5G) | 2:20 | 2023-03-30 |  |
-| [Simple Things](https://open.spotify.com/track/75hLIkx0MpoWDc8LJfOsPR) | [Petite Noir](https://open.spotify.com/artist/4dGwtd1FYag1VY1vaR1U8y), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [Simple Things](https://open.spotify.com/album/02ksay19qLiCSc2zWBGJsj) | 3:17 | 2023-03-30 |  |
+| [Simple Things](https://open.spotify.com/track/75hLIkx0MpoWDc8LJfOsPR) | [Petite Noir](https://open.spotify.com/artist/4dGwtd1FYag1VY1vaR1U8y), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [Simple Things](https://open.spotify.com/album/02ksay19qLiCSc2zWBGJsj) | 3:17 | 2023-03-30 | 2023-04-17 |
+| [Simple Things \(feat\. Theo Croker\)](https://open.spotify.com/track/12aouEbQ2CAzBg7yc4IYVf) | [Petite Noir](https://open.spotify.com/artist/4dGwtd1FYag1VY1vaR1U8y), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [MotherFather](https://open.spotify.com/album/6G76PblQXf5i8JB7mC0mv3) | 3:17 | 2023-03-30 |  |
 | [Take Me Home \(One Take\)](https://open.spotify.com/track/0ihhrhAPOVGNhyaSlSFgVz) | [True nESS](https://open.spotify.com/artist/7b7SUjtDrf6ym930Pmi3jh) | [Take Me Home \(One Take\)](https://open.spotify.com/album/00JQKIr7LCVu0bI0uVr2pY) | 2:21 | 2023-03-30 | 2023-04-07 |
 | [The Girl and the Time Machine](https://open.spotify.com/track/1d59d3DFywurMx6uBtlGu9) | [Asa Quana](https://open.spotify.com/artist/5bZxKABYkYmtKIh1f3us7m) | [The Girl and the Time Machine](https://open.spotify.com/album/4XsGm3iq4Bg2q6vTZ72lCF) | 1:37 | 2023-03-30 |  |
 | [THE VALLEY](https://open.spotify.com/track/0FUCIaGATJiBUgOrdgOpQf) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [THE VALLEY](https://open.spotify.com/album/1wXWu2bowTw4dXmSnhzHgn) | 2:07 | 2023-03-30 | 2023-04-07 |

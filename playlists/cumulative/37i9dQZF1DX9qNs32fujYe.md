@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: Ghost
 
-709 songs - 2 day 4 hr 46 min
+712 songs - 2 day 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,7 +295,8 @@
 | [I Will Be Heard](https://open.spotify.com/track/4Lxn1JlGJwmmXpODrNvPA6) | [Hatebreed](https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV) | [Perseverance](https://open.spotify.com/album/2UPZ06izR1OtTX80U30AfG) | 2:58 | 2022-08-19 |  |
 | [I'll Be Your Hero \- Single Edit](https://open.spotify.com/track/5dwI4Uips5iK1Q7q0vAcHU) | [Rhapsody Of Fire](https://open.spotify.com/artist/2GnCQNJbs4xqFulqAdAg2U) | [I'll Be Your Hero](https://open.spotify.com/album/5smEbdNLzzhh7WdBmW5rtJ) | 4:12 | 2021-12-17 | 2022-06-14 |
 | [Icon of Sin](https://open.spotify.com/track/5g64OWLbV0DFtLGCxOFmAo) | [Icon of Sin](https://open.spotify.com/artist/1Pr3Zk2s1bZpX2WVkKdmkP) | [Icon of Sin](https://open.spotify.com/album/5NYtZtQ2T687s5qhLTOlSa) | 5:47 | 2021-12-17 | 2022-07-04 |
-| [If Darkness Had a Son](https://open.spotify.com/track/69HjtjyHuP8KJT7xBaUmtW) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [If Darkness Had a Son](https://open.spotify.com/album/07wqwU4JaQl7XTWwfiAobb) | 6:36 | 2023-03-03 |  |
+| [If Darkness Had a Son](https://open.spotify.com/track/3i4Nwzze8zflIoKsuoeBPM) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 6:36 | 2023-04-14 |  |
+| [If Darkness Had a Son](https://open.spotify.com/track/69HjtjyHuP8KJT7xBaUmtW) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [If Darkness Had a Son](https://open.spotify.com/album/07wqwU4JaQl7XTWwfiAobb) | 6:36 | 2023-03-03 | 2023-04-17 |
 | [If I Can't Have You \- No One Will \(feat\. Johan Hegg\)](https://open.spotify.com/track/658hbUMUk7jcYpSqAOhX28) | [Doro](https://open.spotify.com/artist/5GLeyUhj8B8f5pJxqZllKl), [Johan Hegg](https://open.spotify.com/artist/468XobaUhrILLXnYCv013o) | [If I Can't Have You \- No One Will \(feat\. Johan Hegg\)](https://open.spotify.com/album/5n2FbYAZQzVYUw6aFMYu7v) | 5:09 | 2021-12-17 | 2022-04-15 |
 | [If Not for You](https://open.spotify.com/track/0YErfApccjJFLU9KvVd0Lv) | [Tremonti](https://open.spotify.com/artist/44tQC1PjxXIpEgW0i8uN00) | [Marching in Time](https://open.spotify.com/album/0kxRp8FlcQ0Sx2edzWzEGe) | 4:10 | 2022-07-13 | 2022-07-29 |
 | [If Tomorrow Never Comes \(Feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/track/5MgL0ccriqgDP1Gq3pwNNO) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [If Tomorrow Never Comes \(Feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/album/3la7NF2COfg90BdTY7HGtS) | 3:09 | 2022-03-22 | 2023-02-11 |
@@ -349,7 +350,8 @@
 | [Living Pyre](https://open.spotify.com/track/7HK1HXXSc8Mxgkbb4rin5b) | [Khemmis](https://open.spotify.com/artist/5Dejhd4zYKEUm6q1FLr1ik) | [Living Pyre](https://open.spotify.com/album/4EDlB1BRG6mo0EDNmVtDf1) | 5:12 | 2021-12-29 | 2022-05-28 |
 | [Long Live Rock N Roll](https://open.spotify.com/track/2ilsr4UkwAL10MspiJtKA3) | [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m) | [Long Live Rock 'n' Roll](https://open.spotify.com/album/0abggihGZTIzf1GfHhrjwE) | 4:24 | 2022-08-19 | 2023-02-11 |
 | [Love is Gonna Get You Killed](https://open.spotify.com/track/4BopOUl5fmRZHrjKIR2L3S) | [Axxis](https://open.spotify.com/artist/2kGeYVloFXuKXgXnhQTcIT) | [Love is Gonna Get You Killed](https://open.spotify.com/album/2eKvO8SeApDc4id1XahaiC) | 3:59 | 2021-12-29 | 2022-04-20 |
-| [Lux Æterna](https://open.spotify.com/track/3pwmJJRlr8nXNN9PFD18np) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Lux Æterna](https://open.spotify.com/album/7qxhxLR8oZN3LizPQ7z2cb) | 3:25 | 2022-11-29 |  |
+| [Lux Æterna](https://open.spotify.com/track/18zjwSgYiwu1Meb7Po3tUP) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 3:25 | 2023-04-14 |  |
+| [Lux Æterna](https://open.spotify.com/track/3pwmJJRlr8nXNN9PFD18np) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Lux Æterna](https://open.spotify.com/album/7qxhxLR8oZN3LizPQ7z2cb) | 3:25 | 2022-11-29 | 2023-04-17 |
 | [Madhouse](https://open.spotify.com/track/76BYv24CcZt2u94JRjmATX) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [Spreading The Disease](https://open.spotify.com/album/0qEFMrunmeRHqzI9xAnu9L) | 4:19 | 2022-08-19 |  |
 | [Magic Signs](https://open.spotify.com/track/3ds3h3P2TsIYofkxHc3mtB) | [Rhapsody Of Fire](https://open.spotify.com/artist/2GnCQNJbs4xqFulqAdAg2U) | [Magic Signs](https://open.spotify.com/album/1d8Ox6KeG0LC7RObcYR5eU) | 4:52 | 2021-12-17 | 2022-07-26 |
 | [Mama, I'm Coming Home](https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [No More Tears \(Expanded Edition\)](https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7) | 4:11 | 2022-07-29 | 2023-03-11 |
@@ -504,7 +506,8 @@
 | [Scars](https://open.spotify.com/track/4U34OT0GZbx6l1jOlGw0AC) | [Persuader](https://open.spotify.com/artist/0PQ6ajUdjeMSDv84U0x5UC) | [Scars](https://open.spotify.com/album/3hkGbbFD4EkC62IomQaD6g) | 4:58 | 2021-12-17 | 2022-04-18 |
 | [School's Out](https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [School's Out](https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq) | 3:30 | 2022-08-19 |  |
 | [Scorpio](https://open.spotify.com/track/5OwevD2C36VIEPrylSOZEv) | [Ronnie Atkins](https://open.spotify.com/artist/6P9001LmAdPIqvcdDhYduM) | [Scorpio](https://open.spotify.com/album/13OEd35xH2Wvv76298qR6Q) | 4:34 | 2021-12-29 | 2022-04-21 |
-| [Screaming Suicide](https://open.spotify.com/track/6ZCh9hBeFzMIPycRnyPqZT) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Screaming Suicide](https://open.spotify.com/album/5RuyqGjhakCG2teiB6VkaC) | 5:30 | 2023-01-20 |  |
+| [Screaming Suicide](https://open.spotify.com/track/2zSb2Db4kNYH5qIs5V3BgG) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 5:30 | 2023-04-14 |  |
+| [Screaming Suicide](https://open.spotify.com/track/6ZCh9hBeFzMIPycRnyPqZT) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Screaming Suicide](https://open.spotify.com/album/5RuyqGjhakCG2teiB6VkaC) | 5:30 | 2023-01-20 | 2023-04-17 |
 | [Scum](https://open.spotify.com/track/64syMK7oo9VPihJBj1IBGH) | [Napalm Death](https://open.spotify.com/artist/3UqRgrDIQ208yNGiWKRMNt) | [Scum](https://open.spotify.com/album/51wqCUWehVrNj2Ltc83zJu) | 2:38 | 2022-11-04 | 2023-02-01 |
 | [Separate Ways](https://open.spotify.com/track/62eNYg3cHHfr1ThVxe2vaM) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c) | [Blow EP](https://open.spotify.com/album/3AyOgySZDKrBWEwCVy2Ohv) | 5:00 | 2022-04-08 |  |
 | [Sermons of the Sinner](https://open.spotify.com/track/1t31VXgKUO3TvxXKz9OO8q) | [KK's Priest](https://open.spotify.com/artist/0bDUXDIVbwZC0NVw26b4D3) | [Sermons of the Sinner](https://open.spotify.com/album/5M3iDNGrwaF8emK4COEgdM) | 5:25 | 2021-12-17 | 2022-06-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 
 > This is Valerie June\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,724 likes - 42 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,723 likes - 41 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 | 20 | [Sure to Fall](https://open.spotify.com/track/13RQs1T5nEDGq5JVBFHJEo) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Red Hot: A Memphis Celebration of Sun Records](https://open.spotify.com/album/5i5GqRNs1ifV07HCQLQH6c) | 2:51 |
 | 21 | [Home Inside \(with Valerie June\) \(From “Norah Jones is Playing Along” Podcast\)](https://open.spotify.com/track/2e8hzjW6K0TFPZkwIa38o0) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Home Inside \(with Valerie June\) \(From “Norah Jones is Playing Along” Podcast\)](https://open.spotify.com/album/7zAu6xxacBn0nzZbwSZHEK) | 2:19 |
 | 22 | [Slip Slide On By](https://open.spotify.com/track/3TEojRdSXcNyaDXZDqlr31) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 4:04 |
-| 23 | [Use Me](https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Use Me](https://open.spotify.com/album/6MCzIFRAFlSQeXn7JrhXI0) | 4:05 |
-| 24 | [Into My Arms](https://open.spotify.com/track/5UpRKWaVwwLQMH7ME6Pxr0) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Under Cover](https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH) | 4:10 |
-| 25 | [Happy Or Lonesome](https://open.spotify.com/track/4vzU9v60ThI1hzgGJZphI9) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Sweetheart 2014](https://open.spotify.com/album/0qjDs1pSBA36pw3qL57LAx) | 1:51 |
+| 23 | [Happy Or Lonesome](https://open.spotify.com/track/4vzU9v60ThI1hzgGJZphI9) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Sweetheart 2014](https://open.spotify.com/album/0qjDs1pSBA36pw3qL57LAx) | 1:51 |
+| 24 | [Use Me](https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Use Me](https://open.spotify.com/album/6MCzIFRAFlSQeXn7JrhXI0) | 4:05 |
+| 25 | [Into My Arms](https://open.spotify.com/track/5UpRKWaVwwLQMH7ME6Pxr0) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Under Cover](https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH) | 4:10 |
 | 26 | [Got Soul](https://open.spotify.com/track/64Z3YM5ZdbIRRdZKbPLxzq) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 4:12 |
 | 27 | [Within You \- Moon And Stars / Acoustic](https://open.spotify.com/track/3CGswhS4HazxivUCTfDlZq) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers \(Deluxe Edition\)](https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL) | 4:02 |
 | 28 | [Why The Bright Stars Glow](https://open.spotify.com/track/7gYMQltOReqftzZDH3jWs8) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:25 |
@@ -48,7 +48,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 | 38 | [Don’t It Make You Want To Go Home](https://open.spotify.com/track/1IiRdOcgZNojYYbVwU0w8Z) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Under Cover](https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH) | 4:39 |
 | 39 | [You Can’t Be Told](https://open.spotify.com/track/4afYc6b90xaA04w6Cm8Xa2) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 3:15 |
 | 40 | [Two Roads](https://open.spotify.com/track/70mQOpzNZzO7FJvjmMWbY7) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 4:11 |
-| 41 | [Mad About the Girl](https://open.spotify.com/track/2bNDCbxCEPMa0qBzh26MEm) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Universal Love \- Wedding Songs Reimagined](https://open.spotify.com/album/1Roqqh9z76dk77g98fiR2E) | 3:11 |
-| 42 | [Imagine](https://open.spotify.com/track/4xUsxA83y9Ea5qC6v8m6VG) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Under Cover](https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH) | 3:07 |
+| 41 | [Imagine](https://open.spotify.com/track/4xUsxA83y9Ea5qC6v8m6VG) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Under Cover](https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH) | 3:07 |
 
-Snapshot ID: `MjgwMjYwMzIsMDAwMDAwMDBkNjY5N2E4NGRlY2QwZmRkZTBhMTA1NDhlMTM0NTZlMQ==`
+Snapshot ID: `MjgwMjc0MDEsMDAwMDAwMDBjYTA5YjI5YTU5ODYyMWZiYTE4NTVmZGRlOGYxYzFhNg==`

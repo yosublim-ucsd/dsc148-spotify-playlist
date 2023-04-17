@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsaI3czLL.md) - [plain]
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,943 likes - 70 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,000 likes - 70 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,12 +59,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsaI3czLL.md) - [plain]
 | 49 | [Night Time](https://open.spotify.com/track/6kwhwM4bjrFxnPT0wlbb6b) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Days With Uncertainty](https://open.spotify.com/album/0p4J9aL2rG5uBKLRO8HkPM) | 3:59 |
 | 50 | [肌色](https://open.spotify.com/track/2YfbnRGevaN759T1DSGvxB) | [SADFRANK](https://open.spotify.com/artist/2F4sUnzP850MX9jgOLgwuW) | [gel](https://open.spotify.com/album/4gIseD8M4C2iiX3XuOnQmg) | 7:46 |
 | 51 | [Stay in the light \- reprise](https://open.spotify.com/track/4pxMywoprsTqPXDPkZ1zZh) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [RAKEL](https://open.spotify.com/artist/5TTXO1acO5ZuuUCsZ0MXJl) | [After the chaos](https://open.spotify.com/album/2WmbGJLnpIcfwgTHW1Uq9H) | 4:24 |
-| 52 | [Love Birds](https://open.spotify.com/track/2TDtrTlftOMY2GlU8aMtMb) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ), [琴音](https://open.spotify.com/artist/0vmDmyY6q6ALXjlONSf7kO) | [\[Kin no Kuni Mizu no Kuni\] Original Sound Track](https://open.spotify.com/album/5BWOI876SLfTD2yz4Nom0u) | 2:33 |
-| 53 | [Beautiful Sleep](https://open.spotify.com/track/5ut9a0Dwd0XashJx7kda5A) | [Shinya Kiyozuka](https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2) | [眠るためのピアノアルバム\~beautiful sleep\~](https://open.spotify.com/album/7H191esP6oW2m58tzIDfhZ) | 4:02 |
+| 52 | [Beautiful Sleep](https://open.spotify.com/track/5ut9a0Dwd0XashJx7kda5A) | [Shinya Kiyozuka](https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2) | [眠るためのピアノアルバム\~beautiful sleep\~](https://open.spotify.com/album/7H191esP6oW2m58tzIDfhZ) | 4:02 |
+| 53 | [Love Birds](https://open.spotify.com/track/2TDtrTlftOMY2GlU8aMtMb) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ), [琴音](https://open.spotify.com/artist/0vmDmyY6q6ALXjlONSf7kO) | [\[Kin no Kuni Mizu no Kuni\] Original Sound Track](https://open.spotify.com/album/5BWOI876SLfTD2yz4Nom0u) | 2:33 |
 | 54 | [青月浮く海](https://open.spotify.com/track/3FNY9Bpo5mTirQiodwjJcw) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [This is music too](https://open.spotify.com/album/2IPhSOJjl8RyyjCReuJ62Z) | 4:24 |
 | 55 | [ねむるのまち\~Tidur Tidur\~](https://open.spotify.com/track/2CXT8P6nv9BfKMn4xSMU8V) | [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [帰ってから、歌いたくなってもいいようにと思ったのだ。](https://open.spotify.com/album/6Pq4P9sRKc2siKZ8j7izcG) | 5:10 |
-| 56 | [Sleeping in Waking](https://open.spotify.com/track/2zx4apdK8SZeHqDLYLLfCe) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Sleeping in Waking](https://open.spotify.com/album/2EXjrlqsinxkPKguQMlbN2) | 3:53 |
-| 57 | [Separate Seasons](https://open.spotify.com/track/6B5YgFMDxPjWVuiOA1oid4) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Westbound EP](https://open.spotify.com/album/7KE6QLulOMXqVsN4XiJvxF) | 3:48 |
+| 56 | [Separate Seasons](https://open.spotify.com/track/6B5YgFMDxPjWVuiOA1oid4) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Westbound EP](https://open.spotify.com/album/7KE6QLulOMXqVsN4XiJvxF) | 3:48 |
+| 57 | [Sleeping in Waking](https://open.spotify.com/track/2zx4apdK8SZeHqDLYLLfCe) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Sleeping in Waking](https://open.spotify.com/album/2EXjrlqsinxkPKguQMlbN2) | 3:53 |
 | 58 | [苺](https://open.spotify.com/track/3Abgz2yPNmRG105Fj7BLyH) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ) | [Prescribing The...](https://open.spotify.com/album/0kbiI34d3E8pEtxP3nAcat) | 4:47 |
 | 59 | [手紙が届けてくれたもの](https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [HALSHURA\(ハルシュラ\)](https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm) | 3:15 |
 | 60 | [パレード](https://open.spotify.com/track/35Pj3GRGfF2kp4LF1CEZzV) | [MIZ](https://open.spotify.com/artist/1T4OKi8vYcs2gNv98KglRq) | [Ninh Binh Brother's Homestay](https://open.spotify.com/album/2I7P1pgDW7BZigccsZ17ra) | 3:48 |
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsaI3czLL.md) - [plain]
 | 62 | [希望のうた](https://open.spotify.com/track/24dq1uvUoVVQ6WMwFTqUPl) | [Fuyumi Abe](https://open.spotify.com/artist/3LMkQzoTUDoZaLhM58O2Ej) | [沈黙の恋人](https://open.spotify.com/album/7dmVoJfhWrvEj3rLaYJbFo) | 4:05 |
 | 63 | [ナスティ・ハウス](https://open.spotify.com/track/5GmPGaSokdG5KAfiahOdeF) | [眞名子 新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [ナスティ・ハウス](https://open.spotify.com/album/2AMBIQoUR9oCq3Y5SJ5rXC) | 2:14 |
 | 64 | [Good Night Station](https://open.spotify.com/track/5BPYHGLP1DPo0nVfOUHTEJ) | [Yogee New Waves](https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh) | [BLUEHARLEM](https://open.spotify.com/album/2uBQmsJvg2MKEWZRfFwAaQ) | 5:27 |
-| 65 | [eureka](https://open.spotify.com/track/6iBvMGKtAhUSyFaZZKIP7F) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [eureka](https://open.spotify.com/album/2NouP8V8x5hoIVazmWEHtQ) | 3:30 |
-| 66 | [あなたがどこかで](https://open.spotify.com/track/5HcQ3l5sM9aFyd49UFwSoK) | [Anzen Chitai](https://open.spotify.com/artist/3EAqVJtaxnPcWYlHXkHcuC) | [あなたがどこかで](https://open.spotify.com/album/39ZsxUsASZ2XZKjUwMsIUF) | 4:40 |
-| 67 | [Lady \- 2020](https://open.spotify.com/track/0lr6629pdCnastEgrPtl1r) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [This is music too](https://open.spotify.com/album/2IPhSOJjl8RyyjCReuJ62Z) | 5:56 |
-| 68 | [Sashiiro](https://open.spotify.com/track/2WEDTNH2nR7aN6RP2tzxh5) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte) | 3:05 |
+| 65 | [あなたがどこかで](https://open.spotify.com/track/5HcQ3l5sM9aFyd49UFwSoK) | [Anzen Chitai](https://open.spotify.com/artist/3EAqVJtaxnPcWYlHXkHcuC) | [あなたがどこかで](https://open.spotify.com/album/39ZsxUsASZ2XZKjUwMsIUF) | 4:40 |
+| 66 | [Sashiiro](https://open.spotify.com/track/2WEDTNH2nR7aN6RP2tzxh5) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte) | 3:05 |
+| 67 | [eureka](https://open.spotify.com/track/6iBvMGKtAhUSyFaZZKIP7F) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [eureka](https://open.spotify.com/album/2NouP8V8x5hoIVazmWEHtQ) | 3:30 |
+| 68 | [Lady \- 2020](https://open.spotify.com/track/0lr6629pdCnastEgrPtl1r) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [This is music too](https://open.spotify.com/album/2IPhSOJjl8RyyjCReuJ62Z) | 5:56 |
 | 69 | [在宅ワルツ](https://open.spotify.com/track/75RAICYI4nhGPiiVJwSO8e) | [NRQ](https://open.spotify.com/artist/55EEMVysOzhsLWSDzB5zhf) | [Retronym](https://open.spotify.com/album/0l7UtNpyBJeATV6nnvdZpj) | 2:41 |
 | 70 | [Apartment](https://open.spotify.com/track/2DDbWYOE6SlGJroPwgmc3N) | [Hikaru Arata](https://open.spotify.com/artist/33JXrDOZ1iA1XlDF2dRgTO) | [Apartment](https://open.spotify.com/album/1uZL2Sg4Saeep7GGTMpIRT) | 4:03 |
 
-Snapshot ID: `MTY4MTM5ODAwMCwwMDAwMDAwMDVlMmQyOTIwMzNmNTAxM2M1ZDlmMDU1MTZlYzIxYmVl`
+Snapshot ID: `MTY4MTM5ODAwMCwwMDAwMDAwMDc3M2QxY2RhZDgwNDhmMmExZjcxNDdlMzg1OGUwNjM2`

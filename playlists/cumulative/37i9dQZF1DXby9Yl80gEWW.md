@@ -4,7 +4,7 @@
 
 > A taste of the very best bluegrass instrumentals, classic and new.
 
-209 songs - 12 hr 44 min
+210 songs - 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Appalachia Waltz](https://open.spotify.com/track/6ZWoCwvDD3BvhTmgLiFiFW) | [Mark O'Connor](https://open.spotify.com/artist/5zfaMrd5q4szVTxVYWuoDV), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [Edgar Meyer](https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD) | [Heartland: An Appalachian Anthology](https://open.spotify.com/album/6XoYUIPrhQn2G6DOar698L) | 5:45 | 2021-12-03 |  |
 | [Apple Blossom](https://open.spotify.com/track/00IR13v1HwfrLmatb3PYoA) | [Hannah Read](https://open.spotify.com/artist/3ffIal1i0EioO2cZE9oLa9), [Michael Starkey](https://open.spotify.com/artist/0v5kYF6D2YsoToYXmEUhYk) | [Apple Blossom](https://open.spotify.com/album/2OO4zV0Mq3yRKl3aEX1N7x) | 3:05 | 2022-04-15 | 2022-04-21 |
 | [Ashland Breakdown](https://open.spotify.com/track/416qnXql5nHfTuj7le2jzC) | [Noam Pikelny](https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C) | [Noam Pikelny Plays Kenny Baker Plays Bill Monroe](https://open.spotify.com/album/0KjAr1ZXTIKoxcto5e51jP) | 3:56 | 2021-12-03 | 2023-01-21 |
-| [Back Up And Push](https://open.spotify.com/track/7au8g5pl9gJiivYFhua16z) | [Kenny Baker](https://open.spotify.com/artist/2hdWa1ITLNBBtU5CM0m2Jg) | [Frost On The Pumpkin](https://open.spotify.com/album/3tGGJ6PaBqUVQYJlVRtxbu) | 2:33 | 2021-12-03 |  |
+| [Back Up And Push](https://open.spotify.com/track/7au8g5pl9gJiivYFhua16z) | [Kenny Baker](https://open.spotify.com/artist/2hdWa1ITLNBBtU5CM0m2Jg) | [Frost On The Pumpkin](https://open.spotify.com/album/3tGGJ6PaBqUVQYJlVRtxbu) | 2:33 | 2021-12-03 | 2023-04-17 |
 | [Backstep Cindy / Purple Bamboo](https://open.spotify.com/track/5NH9to3cBp0qdLihn3ro0i) | [Abigail Washburn](https://open.spotify.com/artist/40CfCtMnEXvvCKk8J1DniP) | [Song of the Traveling Daughter \(Bonus Track Version\)](https://open.spotify.com/album/4EdanYXG2bE9jAIdF8ZuXL) | 3:01 | 2022-07-22 |  |
 | [Backstep Cindy/Purple Bamboo](https://open.spotify.com/track/6XuD42wKyxfGOTrO1kdZK0) | [Abigail Washburn](https://open.spotify.com/artist/40CfCtMnEXvvCKk8J1DniP) | [Song of the Traveling Daughter](https://open.spotify.com/album/4unZBN3ywyKP0ULRH9ODlh) | 3:01 | 2021-12-03 | 2022-07-29 |
 | [Backwaters](https://open.spotify.com/track/07BCxiinT4u11J5QQHpd1w) | [Tony Rice Unit](https://open.spotify.com/artist/4Of7rb2VkamHYwHhBjbwYg) | [Backwaters](https://open.spotify.com/album/2CeKS7jH06EWqGgaRp3Len) | 6:10 | 2021-12-03 | 2022-07-29 |
@@ -97,6 +97,7 @@
 | [From Sea To Sky](https://open.spotify.com/track/0p1v3xx5pzRiUKUersdDtR) | [Jake Soffer](https://open.spotify.com/artist/7JV0AfdtfA325ka6q3pRsX) | [From Sea To Sky](https://open.spotify.com/album/1xbIYXMSBnzghgRlDeVzkp) | 2:39 | 2021-12-03 |  |
 | [Future Man](https://open.spotify.com/track/0wCxFPw156RcqRyZeo96NB) | [Strength In Numbers](https://open.spotify.com/artist/7JrYMXoj7ke3GqLEivVgYJ) | [Telluride Sessions](https://open.spotify.com/album/280qrGpx4WYkwsL7lMKarM) | 5:09 | 2021-12-03 | 2022-07-23 |
 | [Going Out…](https://open.spotify.com/track/0Ak9D9HV7XLSrljdrOPtUj) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [Celebrants](https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq) | 3:04 | 2023-03-24 |  |
+| [Golden](https://open.spotify.com/track/4UvzGgR2uGRwqq6QDGQzl8) | [Ethan Setiawan](https://open.spotify.com/artist/4PiLSMo2ZPdBLhSNv1Rggn) | [Golden](https://open.spotify.com/album/4BSggug7Bz1IigGofkmIAv) | 6:12 | 2023-04-07 |  |
 | [Golden Pond](https://open.spotify.com/track/2T0FSlZIf2IYtbH1y2DEvJ) | [Chris Thile](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF) | [Stealing Second](https://open.spotify.com/album/63sHuqQ8uMSC6BTuOIp39I) | 3:12 | 2021-12-03 |  |
 | [Good to Go](https://open.spotify.com/track/0UMa1yjIaKjDUqGpNWER9Q) | [Bill Emerson](https://open.spotify.com/artist/5Y1fDUKYkFE1M4ALzFGdfF) | [Banjo Man](https://open.spotify.com/album/7B2u2hjEQowl7eBkCNwgHz) | 3:37 | 2022-07-22 | 2023-01-17 |
 | [Good to Go](https://open.spotify.com/track/5K7AhhV2f94CfqUFZtlAMu) | [Bill Emerson](https://open.spotify.com/artist/5Y1fDUKYkFE1M4ALzFGdfF) | [Banjo Man](https://open.spotify.com/album/3NAwKnXQXJ9Zpb7NS2DPdL) | 3:37 | 2021-12-03 | 2022-07-27 |

@@ -4,7 +4,7 @@
 
 > alternative hits of today, tomorrow, and then some\. Cover: Bea Miller
 
-492 songs - 1 day 1 hr 34 min
+493 songs - 1 day 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,8 @@
 | [Fuck Tha World](https://open.spotify.com/track/0BMNgV6BjAvWU3zueMBaRu) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Fuck Tha World](https://open.spotify.com/album/49QnWzeoHyQsILlEoM8aAQ) | 2:21 | 2023-01-13 |  |
 | [Fuck Your Labels](https://open.spotify.com/track/6Y8TZ2mDCfVYE8O9VdGpaW) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Fuck Your Labels](https://open.spotify.com/album/1YNFjA7p3DvzILGOjW0mGW) | 2:57 | 2022-02-04 | 2022-04-02 |
 | [FUNERAL GREY](https://open.spotify.com/track/29zvr7PRPQhE8plnBZ44nZ) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [FUNERAL GREY](https://open.spotify.com/album/4BCWDiQzz9tE9KilNixcld) | 2:44 | 2022-05-20 | 2023-02-01 |
-| [FUNERAL GREY](https://open.spotify.com/track/4ORdQW5NLKO3b0RUeBMIrs) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/7exaI7MyauQNCOqbyqU27C) | 2:44 | 2023-01-13 |  |
+| [FUNERAL GREY](https://open.spotify.com/track/4ORdQW5NLKO3b0RUeBMIrs) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/7exaI7MyauQNCOqbyqU27C) | 2:44 | 2023-01-13 | 2023-04-17 |
+| [FUNERAL GREY](https://open.spotify.com/track/6Rebnr2UDaxxg3VNe6CBg2) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:44 | 2023-01-13 |  |
 | [Georgia](https://open.spotify.com/track/7d4lvIqCYS2DGTCZAjmCHu) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [Georgia](https://open.spotify.com/album/5PLNgWXs7Hq6RHgFetDAtJ) | 2:56 | 2022-11-18 |  |
 | [gfy \(with Machine Gun Kelly\)](https://open.spotify.com/track/3MTm8eZ2wCEtpyZqqhP6Dn) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [gfy \(with Machine Gun Kelly\)](https://open.spotify.com/album/43tasPwPisjAgGgde0yy7F) | 2:52 | 2022-05-27 | 2022-06-29 |
 | [Girls](https://open.spotify.com/track/1IbwVEskI2zH0dM4pnmWfU) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Girls](https://open.spotify.com/album/0ELNO6pSJy9iq7FJG2DKVM) | 2:20 | 2022-06-24 | 2023-01-14 |

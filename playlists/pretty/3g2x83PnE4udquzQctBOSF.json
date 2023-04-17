@@ -1,12 +1,12 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2213,
+  "num_followers": 2215,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "MzA2OCxhM2M4OGIwZmE3Njg5NjFiZjIyNjI4ZWI4MDg4OWZjYjc3ZWIwM2I1",
+  "snapshot_id": "MzEwNSxhZWQ0Mjc0MTcwZTM4N2UwOTA2NDc2YjAyOWYwNWJiMGI4ZDNkYTMz",
   "tracks": [
     {
       "added_at": "2023-03-17 19:24:07",
@@ -25,6 +25,78 @@
       "url": "https://open.spotify.com/track/0G7OcyJxRWmuHr9z5LQLNf"
     },
     {
+      "added_at": "2023-04-16 13:14:33",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/1X994T3NOkN6NEfbZTwYXX"
+      },
+      "artists": [
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        }
+      ],
+      "duration_ms": 170624,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/08rASU8hp7fUAWmQ8CLOgD"
+    },
+    {
+      "added_at": "2023-04-16 13:14:25",
+      "album": {
+        "name": "London Bridge",
+        "url": "https://open.spotify.com/album/3GjwA8C4Pe0WSCxfRjF8Fr"
+      },
+      "artists": [
+        {
+          "name": "Dot N Life",
+          "url": "https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS"
+        },
+        {
+          "name": "Jen Payne",
+          "url": "https://open.spotify.com/artist/3EJxT1yUtdzeTZEBZRT4Hq"
+        }
+      ],
+      "duration_ms": 145312,
+      "name": "London Bridge",
+      "url": "https://open.spotify.com/track/2OQ6ZUyMQc1v1em66u8V2V"
+    },
+    {
+      "added_at": "2023-04-16 13:13:52",
+      "album": {
+        "name": "Take A Flight",
+        "url": "https://open.spotify.com/album/1uPTrWlFC0MpA01VwAjR37"
+      },
+      "artists": [
+        {
+          "name": "CASHEW",
+          "url": "https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw"
+        },
+        {
+          "name": "Nadia",
+          "url": "https://open.spotify.com/artist/2tRocnrINF0O5Glx1axBmr"
+        }
+      ],
+      "duration_ms": 230551,
+      "name": "Take A Flight",
+      "url": "https://open.spotify.com/track/6OyNK8tVP9rDUFXmH6lCXI"
+    },
+    {
+      "added_at": "2023-02-10 17:30:44",
+      "album": {
+        "name": "Ready Or Not",
+        "url": "https://open.spotify.com/album/4Vmlwmg6QKl3FYqeFZkfM7"
+      },
+      "artists": [
+        {
+          "name": "AGLF",
+          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
+        }
+      ],
+      "duration_ms": 189196,
+      "name": "Ready Or Not",
+      "url": "https://open.spotify.com/track/4n9RHYdYcIofn5C5j1gpz0"
+    },
+    {
       "added_at": "2023-04-09 14:08:35",
       "album": {
         "name": "Breakout",
@@ -39,6 +111,30 @@
       "duration_ms": 215284,
       "name": "Breakout",
       "url": "https://open.spotify.com/track/2cevf1aWBm8JcRiVCLv4OM"
+    },
+    {
+      "added_at": "2023-04-16 13:14:32",
+      "album": {
+        "name": "Badder",
+        "url": "https://open.spotify.com/album/6bn2OYT6wzSlegYgLW1RuB"
+      },
+      "artists": [
+        {
+          "name": "SLVR",
+          "url": "https://open.spotify.com/artist/4nKvbonPefiFmshjpHENVU"
+        },
+        {
+          "name": "offrami",
+          "url": "https://open.spotify.com/artist/733pYGuQ9xwCh15uK2VWT1"
+        },
+        {
+          "name": "Flirta D",
+          "url": "https://open.spotify.com/artist/2G9VTaPA12WZVovEImUtsR"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Badder",
+      "url": "https://open.spotify.com/track/4ZrPmCZRTkZSWYeH3KD7Uh"
     },
     {
       "added_at": "2023-04-09 14:08:21",
@@ -61,6 +157,38 @@
       "url": "https://open.spotify.com/track/2RvUquRNqRRCh3y5Ls7DTc"
     },
     {
+      "added_at": "2023-04-16 13:14:39",
+      "album": {
+        "name": "Snatch",
+        "url": "https://open.spotify.com/album/3NBR8469FQQ4tq3idiztto"
+      },
+      "artists": [
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        }
+      ],
+      "duration_ms": 258750,
+      "name": "Snatch",
+      "url": "https://open.spotify.com/track/2WnWl10jDfmFHFFsQNAiAD"
+    },
+    {
+      "added_at": "2023-01-20 06:39:56",
+      "album": {
+        "name": "Don't Wanna Be",
+        "url": "https://open.spotify.com/album/6BFJ3bHMNMVxLxYmvi3mwh"
+      },
+      "artists": [
+        {
+          "name": "AGLF",
+          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
+        }
+      ],
+      "duration_ms": 203333,
+      "name": "Don't Wanna Be",
+      "url": "https://open.spotify.com/track/2btIgqM1ddLW5hZBaZJw0W"
+    },
+    {
       "added_at": "2023-04-09 14:08:15",
       "album": {
         "name": "Saturday Love",
@@ -81,20 +209,20 @@
       "url": "https://open.spotify.com/track/2jGlVbdMM7pzUl5RyeSJrX"
     },
     {
-      "added_at": "2023-02-10 17:30:44",
+      "added_at": "2023-04-16 13:14:28",
       "album": {
-        "name": "Ready Or Not",
-        "url": "https://open.spotify.com/album/4Vmlwmg6QKl3FYqeFZkfM7"
+        "name": "Piano Cut",
+        "url": "https://open.spotify.com/album/4Btco6sLBM6L2mQtIJbwtu"
       },
       "artists": [
         {
-          "name": "AGLF",
-          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
+          "name": "Krizman Toni",
+          "url": "https://open.spotify.com/artist/1gs5auXmVRzKT318H1yRJ0"
         }
       ],
-      "duration_ms": 189196,
-      "name": "Ready Or Not",
-      "url": "https://open.spotify.com/track/4n9RHYdYcIofn5C5j1gpz0"
+      "duration_ms": 342000,
+      "name": "Piano Cut - Original Mix",
+      "url": "https://open.spotify.com/track/47xYP9z5UvuRinGKLuFHba"
     },
     {
       "added_at": "2023-03-31 16:48:51",
@@ -111,6 +239,38 @@
       "duration_ms": 193124,
       "name": "Energy",
       "url": "https://open.spotify.com/track/68fHIJayqhaS5aQCNKKkA2"
+    },
+    {
+      "added_at": "2023-04-16 13:12:54",
+      "album": {
+        "name": "Bring It Back",
+        "url": "https://open.spotify.com/album/1uAp3SjH93W2DYygY1ZOqj"
+      },
+      "artists": [
+        {
+          "name": "Shok\u00eb",
+          "url": "https://open.spotify.com/artist/3F0pGF36o08n2NE7vIEHyk"
+        }
+      ],
+      "duration_ms": 207888,
+      "name": "Bring It Back",
+      "url": "https://open.spotify.com/track/3apcdPE6p0Ncdz7SAhtbMa"
+    },
+    {
+      "added_at": "2022-09-30 05:47:41",
+      "album": {
+        "name": "CLOD",
+        "url": "https://open.spotify.com/album/0kVpJtY2EYon2C3IMAXwwU"
+      },
+      "artists": [
+        {
+          "name": "AGLF",
+          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
+        }
+      ],
+      "duration_ms": 139107,
+      "name": "CLOD",
+      "url": "https://open.spotify.com/track/0TWVLP8GandBcmFzuHD4iv"
     },
     {
       "added_at": "2023-04-09 14:08:41",
@@ -145,6 +305,22 @@
       "url": "https://open.spotify.com/track/1nBKoqVdJng70x0o1eZzVG"
     },
     {
+      "added_at": "2023-04-16 13:14:36",
+      "album": {
+        "name": "Samsara / Hangover",
+        "url": "https://open.spotify.com/album/4bgLaGD4Tx5SIKVHik3cNo"
+      },
+      "artists": [
+        {
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+        }
+      ],
+      "duration_ms": 178616,
+      "name": "Samsara",
+      "url": "https://open.spotify.com/track/4U91micKPBG76g9oKoICVk"
+    },
+    {
       "added_at": "2023-04-09 14:08:32",
       "album": {
         "name": "Stronger",
@@ -161,10 +337,10 @@
       "url": "https://open.spotify.com/track/1gqRLGe1HWXqwaRw4NOMyp"
     },
     {
-      "added_at": "2023-01-20 06:39:56",
+      "added_at": "2022-05-26 08:21:11",
       "album": {
-        "name": "Don't Wanna Be",
-        "url": "https://open.spotify.com/album/6BFJ3bHMNMVxLxYmvi3mwh"
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/5WUts3vG3zcXW0KqK2KnGK"
       },
       "artists": [
         {
@@ -172,25 +348,9 @@
           "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
         }
       ],
-      "duration_ms": 203333,
-      "name": "Don't Wanna Be",
-      "url": "https://open.spotify.com/track/2btIgqM1ddLW5hZBaZJw0W"
-    },
-    {
-      "added_at": "2023-03-31 16:46:42",
-      "album": {
-        "name": "Dream Team",
-        "url": "https://open.spotify.com/album/3eka4HQCSqQyQbiExGGs06"
-      },
-      "artists": [
-        {
-          "name": "MNNR",
-          "url": "https://open.spotify.com/artist/4yZ4oFs7rKNy4OXlZmcZnd"
-        }
-      ],
-      "duration_ms": 236129,
-      "name": "Dream Team",
-      "url": "https://open.spotify.com/track/5LRu9P4iPFfu7DXcpNknNG"
+      "duration_ms": 157341,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/6bUZWGb0T87wJ2ZPyz0UfC"
     },
     {
       "added_at": "2023-04-09 14:08:30",
@@ -209,52 +369,20 @@
       "url": "https://open.spotify.com/track/6LEd9JLKmViufFYI0JfLDL"
     },
     {
-      "added_at": "2023-03-26 16:11:24",
+      "added_at": "2023-04-16 13:14:41",
       "album": {
-        "name": "Bass Go Boom",
-        "url": "https://open.spotify.com/album/4t1FInCRUjdO1iPSwUrBMG"
+        "name": "Move Left Move Right",
+        "url": "https://open.spotify.com/album/1RfcDcg06qSjBwrNawMyrp"
       },
       "artists": [
         {
-          "name": "Joshwa",
-          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
         }
       ],
-      "duration_ms": 178604,
-      "name": "Bass Go Boom",
-      "url": "https://open.spotify.com/track/6iRBFQQpLU9BSRnUBBmPQh"
-    },
-    {
-      "added_at": "2023-03-26 16:11:18",
-      "album": {
-        "name": "Energy",
-        "url": "https://open.spotify.com/album/1H8CdJVjZ8qhGdBzC73bKb"
-      },
-      "artists": [
-        {
-          "name": "VOLAC",
-          "url": "https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE"
-        }
-      ],
-      "duration_ms": 182382,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/1bOp53Hzj9SIrtB7r17L3V"
-    },
-    {
-      "added_at": "2022-09-30 05:47:41",
-      "album": {
-        "name": "CLOD",
-        "url": "https://open.spotify.com/album/0kVpJtY2EYon2C3IMAXwwU"
-      },
-      "artists": [
-        {
-          "name": "AGLF",
-          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
-        }
-      ],
-      "duration_ms": 139107,
-      "name": "CLOD",
-      "url": "https://open.spotify.com/track/0TWVLP8GandBcmFzuHD4iv"
+      "duration_ms": 216562,
+      "name": "Move Left Move Right",
+      "url": "https://open.spotify.com/track/7wnbohQK3eQyow0q4WuzXf"
     },
     {
       "added_at": "2023-04-09 14:08:27",
@@ -289,6 +417,22 @@
       "url": "https://open.spotify.com/track/0tpw2iisVlCnG0QG8SCIG1"
     },
     {
+      "added_at": "2022-07-15 16:45:56",
+      "album": {
+        "name": "Abra",
+        "url": "https://open.spotify.com/album/73QJDc0XOLeUvA0ZbpoaHH"
+      },
+      "artists": [
+        {
+          "name": "AGLF",
+          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
+        }
+      ],
+      "duration_ms": 155634,
+      "name": "Abra",
+      "url": "https://open.spotify.com/track/4DB4uMofaOI0tejIe26XGI"
+    },
+    {
       "added_at": "2023-04-09 14:08:38",
       "album": {
         "name": "The Mumble",
@@ -305,54 +449,6 @@
       "url": "https://open.spotify.com/track/1oQkhEfJrxUxFIMGlUMr9O"
     },
     {
-      "added_at": "2023-03-26 16:11:14",
-      "album": {
-        "name": "Jump Em",
-        "url": "https://open.spotify.com/album/10xWCzTEr6LbahxswjrGEt"
-      },
-      "artists": [
-        {
-          "name": "GIANT",
-          "url": "https://open.spotify.com/artist/5SNRm9Vv3wf1c1MEOU6K1K"
-        }
-      ],
-      "duration_ms": 199067,
-      "name": "Jump Em",
-      "url": "https://open.spotify.com/track/05CumuPfFqJu7FmBtO0KmV"
-    },
-    {
-      "added_at": "2022-05-26 08:21:11",
-      "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/5WUts3vG3zcXW0KqK2KnGK"
-      },
-      "artists": [
-        {
-          "name": "AGLF",
-          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
-        }
-      ],
-      "duration_ms": 157341,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/6bUZWGb0T87wJ2ZPyz0UfC"
-    },
-    {
-      "added_at": "2023-03-31 16:48:48",
-      "album": {
-        "name": "Ear Candy",
-        "url": "https://open.spotify.com/album/3ENboL13VOTEbxwtGymquP"
-      },
-      "artists": [
-        {
-          "name": "Ramin Rezaie",
-          "url": "https://open.spotify.com/artist/4kJADEfmcYZAHfXzvIfg2w"
-        }
-      ],
-      "duration_ms": 209530,
-      "name": "Ear Candy",
-      "url": "https://open.spotify.com/track/1qhPpCSwALaIVLgxY2i421"
-    },
-    {
       "added_at": "2023-04-09 14:08:24",
       "album": {
         "name": "Like Magic",
@@ -367,54 +463,6 @@
       "duration_ms": 176250,
       "name": "Like Magic",
       "url": "https://open.spotify.com/track/6ylVMjts8KG2MSaY9opfG9"
-    },
-    {
-      "added_at": "2023-03-31 16:48:40",
-      "album": {
-        "name": "Let's Dance / Be What You Want",
-        "url": "https://open.spotify.com/album/7Dt5XJMCSg3hPICh3yjvA5"
-      },
-      "artists": [
-        {
-          "name": "Dillon Nathaniel",
-          "url": "https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j"
-        }
-      ],
-      "duration_ms": 193593,
-      "name": "Be What You Want",
-      "url": "https://open.spotify.com/track/1bcsIhfIuOTSLb7lFzPEwv"
-    },
-    {
-      "added_at": "2023-03-31 16:48:37",
-      "album": {
-        "name": "Slay EP",
-        "url": "https://open.spotify.com/album/2ppzZqalX6C5DDU8tVOV2a"
-      },
-      "artists": [
-        {
-          "name": "Marco Strous",
-          "url": "https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i"
-        }
-      ],
-      "duration_ms": 353000,
-      "name": "Slay",
-      "url": "https://open.spotify.com/track/2uQ8zOCi5F4EC9jZa419eM"
-    },
-    {
-      "added_at": "2022-07-15 16:45:56",
-      "album": {
-        "name": "Abra",
-        "url": "https://open.spotify.com/album/73QJDc0XOLeUvA0ZbpoaHH"
-      },
-      "artists": [
-        {
-          "name": "AGLF",
-          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
-        }
-      ],
-      "duration_ms": 155634,
-      "name": "Abra",
-      "url": "https://open.spotify.com/track/4DB4uMofaOI0tejIe26XGI"
     },
     {
       "added_at": "2023-04-09 14:08:18",
@@ -437,62 +485,6 @@
       "url": "https://open.spotify.com/track/0KW3srRTtq1XSRRBykgjNm"
     },
     {
-      "added_at": "2023-03-31 16:47:18",
-      "album": {
-        "name": "1949",
-        "url": "https://open.spotify.com/album/0AhaMd9g6mqHrmqlQGoR8g"
-      },
-      "artists": [
-        {
-          "name": "Honey & Badger",
-          "url": "https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK"
-        },
-        {
-          "name": "OOTORO",
-          "url": "https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "1949",
-      "url": "https://open.spotify.com/track/0aWDp3psKAdohWqo0H2psk"
-    },
-    {
-      "added_at": "2023-03-31 16:48:44",
-      "album": {
-        "name": "Heritage",
-        "url": "https://open.spotify.com/album/4hO0xNT3cqylkfL5Raw3zG"
-      },
-      "artists": [
-        {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
-        }
-      ],
-      "duration_ms": 251613,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/3tek0cqcIJ0wKMpFuNrwBe"
-    },
-    {
-      "added_at": "2023-03-31 16:48:57",
-      "album": {
-        "name": "Snow is Falling (Tony Romera Remix)",
-        "url": "https://open.spotify.com/album/0XaIqOn9u4wa6muOQ9OPIG"
-      },
-      "artists": [
-        {
-          "name": "Vladimir Cauchemar",
-          "url": "https://open.spotify.com/artist/2V5xArcB3BGAHmwsK46tyU"
-        },
-        {
-          "name": "Tony Romera",
-          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Snow is Falling - Tony Romera Remix",
-      "url": "https://open.spotify.com/track/2VS6opNQchKzV5jERSYjZB"
-    },
-    {
       "added_at": "2023-04-09 14:08:13",
       "album": {
         "name": "Fever",
@@ -507,6 +499,22 @@
       "duration_ms": 172173,
       "name": "Fever",
       "url": "https://open.spotify.com/track/0Mbxt2EcmRUnajQsMWLK3c"
+    },
+    {
+      "added_at": "2023-04-16 13:13:10",
+      "album": {
+        "name": "DESIRE96",
+        "url": "https://open.spotify.com/album/32qjzjfmDJX4lA6yAPR2fb"
+      },
+      "artists": [
+        {
+          "name": "Bushbaby",
+          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
+        }
+      ],
+      "duration_ms": 253478,
+      "name": "DESIRE96",
+      "url": "https://open.spotify.com/track/1Isw0eYkTeBUP4uuqLNHZt"
     }
   ],
   "unique_name": "AGLF Playlist",

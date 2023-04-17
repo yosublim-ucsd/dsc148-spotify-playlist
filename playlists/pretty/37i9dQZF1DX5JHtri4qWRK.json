@@ -1,12 +1,12 @@
 {
   "description": "R&B jams for the brokenhearted.",
-  "num_followers": 5582,
+  "num_followers": 5588,
   "original_name": "Heartbreak Hotel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTQ4NjYxNiwwMDAwMDAwMDhlOWQ0NjNjNGRkZjczNDI1MDRjMGUwZjdhYTUwMTE3",
+  "snapshot_id": "MTYzOTQ4NjYxNiwwMDAwMDAwMGM3OTc1Y2VlODliMzUyNmQxNTMxZTA0MGU1ZTBhOWUz",
   "tracks": [
     {
       "added_at": "2021-12-14 12:56:56",
@@ -623,22 +623,6 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
-        "name": "Over",
-        "url": "https://open.spotify.com/album/5AnJbiMebwoHI7mwgbhv2H"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 205275,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/1DOgkaR5Gqa8JtPEIbQORC"
-    },
-    {
-      "added_at": "2021-12-14 12:56:56",
-      "album": {
         "name": "My Love Is Your Love",
         "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 292400,
       "name": "It's Not Right But It's Okay",
       "url": "https://open.spotify.com/track/7861kBrZ5aw7o4NfggcyYW"
+    },
+    {
+      "added_at": "2021-12-14 12:56:56",
+      "album": {
+        "name": "Over",
+        "url": "https://open.spotify.com/album/5AnJbiMebwoHI7mwgbhv2H"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 205275,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/1DOgkaR5Gqa8JtPEIbQORC"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -803,6 +803,22 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
+        "name": "After The Storm",
+        "url": "https://open.spotify.com/album/4lSQkGgFffaUOd22Yrc25v"
+      },
+      "artists": [
+        {
+          "name": "Monica",
+          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
+        }
+      ],
+      "duration_ms": 242773,
+      "name": "So Gone",
+      "url": "https://open.spotify.com/track/6BIcjFZIVDZxNAcofRFPx4"
+    },
+    {
+      "added_at": "2021-12-14 12:56:56",
+      "album": {
         "name": "Trip",
         "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 270546,
       "name": "Never Call Me",
       "url": "https://open.spotify.com/track/0WXct4PcELq8Jh1R4Yhw4W"
-    },
-    {
-      "added_at": "2021-12-14 12:56:56",
-      "album": {
-        "name": "After The Storm",
-        "url": "https://open.spotify.com/album/4lSQkGgFffaUOd22Yrc25v"
-      },
-      "artists": [
-        {
-          "name": "Monica",
-          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
-        }
-      ],
-      "duration_ms": 242773,
-      "name": "So Gone",
-      "url": "https://open.spotify.com/track/6BIcjFZIVDZxNAcofRFPx4"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -891,22 +891,6 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
-        "name": "Still Over It",
-        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 151714,
-      "name": "Throw It Away",
-      "url": "https://open.spotify.com/track/21DN44aYlSoyfOQcboC0IP"
-    },
-    {
-      "added_at": "2021-12-14 12:56:56",
-      "album": {
         "name": "I Wanna Go There",
         "url": "https://open.spotify.com/album/3skbBjGnAOqfy6ndwwOT4G"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 294693,
       "name": "How You Gonna Act Like That",
       "url": "https://open.spotify.com/track/3OUApyz3jDB3syGUNGqB1d"
+    },
+    {
+      "added_at": "2021-12-14 12:56:56",
+      "album": {
+        "name": "Still Over It",
+        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 151714,
+      "name": "Throw It Away",
+      "url": "https://open.spotify.com/track/21DN44aYlSoyfOQcboC0IP"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -979,22 +979,6 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
-        "name": "Back At One",
-        "url": "https://open.spotify.com/album/0ZnKlkQrZb1xDbT8bmPSjo"
-      },
-      "artists": [
-        {
-          "name": "Brian McKnight",
-          "url": "https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9"
-        }
-      ],
-      "duration_ms": 247466,
-      "name": "6, 8, 12",
-      "url": "https://open.spotify.com/track/0IR0twnckQoKMgbnPf5uw0"
-    },
-    {
-      "added_at": "2021-12-14 12:56:56",
-      "album": {
         "name": "Chasing Summer",
         "url": "https://open.spotify.com/album/5zUDvKAyEKkrhYLWJJWGPQ"
       },
@@ -1011,6 +995,22 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
+        "name": "Back At One",
+        "url": "https://open.spotify.com/album/0ZnKlkQrZb1xDbT8bmPSjo"
+      },
+      "artists": [
+        {
+          "name": "Brian McKnight",
+          "url": "https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9"
+        }
+      ],
+      "duration_ms": 247466,
+      "name": "6, 8, 12",
+      "url": "https://open.spotify.com/track/0IR0twnckQoKMgbnPf5uw0"
+    },
+    {
+      "added_at": "2021-12-14 12:56:56",
+      "album": {
         "name": "Pretty Dreamer / Petty Lover",
         "url": "https://open.spotify.com/album/1puQ890qwK8OdXB1kDQyDD"
       },
@@ -1023,6 +1023,26 @@
       "duration_ms": 160654,
       "name": "Petty Lover",
       "url": "https://open.spotify.com/track/0SBjNhOuMeUM9nwanocvsm"
+    },
+    {
+      "added_at": "2021-12-14 12:56:56",
+      "album": {
+        "name": "Still Over It",
+        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 207294,
+      "name": "Unloyal (with Ari Lennox)",
+      "url": "https://open.spotify.com/track/081Shn2hU3YxvQmGaCPegr"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -1055,26 +1075,6 @@
       "duration_ms": 249013,
       "name": "Try Sleeping with a Broken Heart",
       "url": "https://open.spotify.com/track/1yK9LISg5uBOOW5bT2Wm0i"
-    },
-    {
-      "added_at": "2021-12-14 12:56:56",
-      "album": {
-        "name": "Still Over It",
-        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 207294,
-      "name": "Unloyal (with Ari Lennox)",
-      "url": "https://open.spotify.com/track/081Shn2hU3YxvQmGaCPegr"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev"
-      },
-      "artists": [
-        {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
-        }
-      ],
-      "duration_ms": 324280,
-      "name": "Soon as I Get Home",
-      "url": "https://open.spotify.com/track/6SkGfPa77E4giShVbk9N6R"
-    },
-    {
-      "added_at": "2021-12-14 12:56:56",
-      "album": {
         "name": "21",
         "url": "https://open.spotify.com/album/2dGxINFRaJEwDRXohf5gTE"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 256426,
       "name": "Ice Box",
       "url": "https://open.spotify.com/track/5qhlC4Rzals34zxovrPzKp"
+    },
+    {
+      "added_at": "2021-12-14 12:56:56",
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev"
+      },
+      "artists": [
+        {
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+        }
+      ],
+      "duration_ms": 324280,
+      "name": "Soon as I Get Home",
+      "url": "https://open.spotify.com/track/6SkGfPa77E4giShVbk9N6R"
     },
     {
       "added_at": "2021-12-14 12:56:56",
@@ -1683,18 +1683,18 @@
     {
       "added_at": "2021-12-14 12:56:56",
       "album": {
-        "name": "Unappreciated",
-        "url": "https://open.spotify.com/album/5nHZP6EqmhfNwxe71tpyKn"
+        "name": "Toni Braxton",
+        "url": "https://open.spotify.com/album/73ojqvZakvdkBxSg9pyPqz"
       },
       "artists": [
         {
-          "name": "Cherish",
-          "url": "https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo"
+          "name": "Toni Braxton",
+          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
         }
       ],
-      "duration_ms": 235333,
-      "name": "Unappreciated",
-      "url": "https://open.spotify.com/track/5ZelMPn7vupvsTToUTvcbF"
+      "duration_ms": 301560,
+      "name": "Another Sad Love Song",
+      "url": "https://open.spotify.com/track/70iDnqYvxCPl3mPd3ddxgD"
     }
   ],
   "unique_name": "Heartbreak Hotel",

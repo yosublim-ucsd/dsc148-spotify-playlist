@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's Country crop\. Cover: Luke Combs
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,314 likes - 80 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,787 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 20 | [Love Like That \(feat\. The Shires\)](https://open.spotify.com/track/4iA14miA1x0Kq86zZIRZpX) | [The Wolfe Brothers](https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma), [The Shires](https://open.spotify.com/artist/48hCuDf2HUMGTgMhqLfic3) | [Livin' The Dream](https://open.spotify.com/album/79THFfQB6XH5C9zaSnxi3c) | 3:36 |
 | 21 | [5 Leaf Clover](https://open.spotify.com/track/2RbIoEQeXBoJzWt09eitEI) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [5 Leaf Clover](https://open.spotify.com/album/6Aa81tDuPFATzb61ZQNTmM) | 3:31 |
 | 22 | [Note To Self](https://open.spotify.com/track/5X9XUK9LZTAUO9wuqYLp4N) | [Abby Christo](https://open.spotify.com/artist/0aE69mf1NjsaqZzXsoo4qH) | [Note To Self](https://open.spotify.com/album/6KDINvcBPKMM9irLEM1nV2) | 3:13 |
-| 23 | [Acres](https://open.spotify.com/track/3C4L7c5JSB0ONiYli4Hplb) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [Beer and Fishin'](https://open.spotify.com/album/1EpFGwrI0vUVf7YPhUgZCe) | 3:52 |
+| 23 | [Acres](https://open.spotify.com/track/68Em9vuEpyi3DMxeDiCe2m) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [Now She Ain't](https://open.spotify.com/album/5FpvK5R9OIe7mcQbedllpM) | 3:52 |
 | 24 | [Religiously](https://open.spotify.com/track/0ec7EBr0mjWO6J7TRr09bN) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously](https://open.spotify.com/album/5M1xyJCeOsknHsg8k3yOxI) | 2:58 |
 | 25 | [Unforgivingly Me](https://open.spotify.com/track/3AhDEZJSqachAClLXNfSx9) | [Jade Gibson](https://open.spotify.com/artist/6WySchWeh56OiZ7Fxzu7Aq) | [Unforgivingly Me](https://open.spotify.com/album/01hoYJaRqNuMi06xhfvcLF) | 2:56 |
 | 26 | [Broken](https://open.spotify.com/track/30nMa90oTf1bRnByWAPvQk) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Broken](https://open.spotify.com/album/7eaFOkg9K2iccAFK8mcRZT) | 2:57 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 79 | [Dead To Me](https://open.spotify.com/track/4i2O11UnrFyCvW1X4aZT28) | [HUTCH](https://open.spotify.com/artist/55qwxSOjW4bmtSEI8INDpQ) | [Dead To Me](https://open.spotify.com/album/07VQaRYNPQrX5q74HYMlqF) | 2:58 |
 | 80 | [Last Night Lonely](https://open.spotify.com/track/3SeeaIXnrCfT88vHVCRWHl) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Last Night Lonely](https://open.spotify.com/album/6RVASKYeyPoQCjExSbmpzp) | 3:01 |
 
-Snapshot ID: `MTY4MTM5NDQwMCwwMDAwMDAwMGQ2ZWIxMjY3YjM1NGE1N2I2ZjNlNmI2ZDRkZDcxYjg2`
+Snapshot ID: `MTY4MTM5NDQwMCwwMDAwMDAwMGY2ZDRlMGVjOGIyMGQwNjIxZGM3NDg1MTBjYjU2Y2Ji`

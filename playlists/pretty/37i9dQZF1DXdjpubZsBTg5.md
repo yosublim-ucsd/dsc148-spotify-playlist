@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdjpubZsBTg5.md) - [plain]
 
 > Revive a la generación que transformó el rock en español para siempre\. En portada: Soda Stereo
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,860 likes - 60 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,027 likes - 60 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdjpubZsBTg5.md) - [plain]
 | 56 | [Viento Loco](https://open.spotify.com/track/1wgUsPEuNiMMOsKYIzKabj) | [GIT](https://open.spotify.com/artist/21o0KNjooi1XjygW6V70NM) | [Vol I](https://open.spotify.com/album/3MMn99oMe2maysD6Vq441s) | 3:18 |
 | 57 | [Dime Jaguar](https://open.spotify.com/track/1KnhTAyAcYZ4hO9YBWAATe) | [Jaguares](https://open.spotify.com/artist/1RgXxY6uzWo9cjYYwwgVGq) | [El Equilibrio De Los Jaguares](https://open.spotify.com/album/345ZGeUupFETaN36llAJCR) | 4:57 |
 | 58 | [El Microbito](https://open.spotify.com/track/0wTrY23ot5A0aog0JNzXLS) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Rock Latino](https://open.spotify.com/album/0aGusz7aHYnYfjWSTr1YFI) | 2:36 |
-| 59 | [El Esqueleto](https://open.spotify.com/track/0CucYEXuGngb0vfUMpOmID) | [Victimas Del Doctor Cerebro](https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M) | [Lucha Rock](https://open.spotify.com/album/3qFQ5sXiOUEy0vVMj1LIii) | 3:43 |
-| 60 | [Tres Lunares](https://open.spotify.com/track/4kSxZ6KmOkLGW8dHDo5NdQ) | [Kerigma](https://open.spotify.com/artist/7t3VRQukdpeWyhKTgodDxB) | [Tres Lunares](https://open.spotify.com/album/0h8LKZDut0SLW7RsuaMOLP) | 4:21 |
+| 59 | [Tres Lunares](https://open.spotify.com/track/4kSxZ6KmOkLGW8dHDo5NdQ) | [Kerigma](https://open.spotify.com/artist/7t3VRQukdpeWyhKTgodDxB) | [Tres Lunares](https://open.spotify.com/album/0h8LKZDut0SLW7RsuaMOLP) | 4:21 |
+| 60 | [El Esqueleto](https://open.spotify.com/track/0CucYEXuGngb0vfUMpOmID) | [Victimas Del Doctor Cerebro](https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M) | [Lucha Rock](https://open.spotify.com/album/3qFQ5sXiOUEy0vVMj1LIii) | 3:43 |
 
-Snapshot ID: `MTY2MTM4ODc3OCwwMDAwMDAwMDIxYmI4ZGY0MWE2NDY1Y2I5ZmI2MjQ1YWZlNjMxZjE0`
+Snapshot ID: `MTY2MTM4ODc3OCwwMDAwMDAwMDcxZDkyNjdhYjM0ODNmOWRlYzJlZmVkZDQ5MmZjYjk0`

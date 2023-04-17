@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QHI5qVTd7o.md) - [plain]
 
 > You know all the tracks, you just can't sing\-along\. Cover: Martin Garrix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,083 likes - 47 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,106 likes - 47 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QHI5qVTd7o.md) - [plain]
 | 41 | [Blow Your Mind](https://open.spotify.com/track/3vqWmOr3fIfBqh02ezS2lV) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Blow Your Mind](https://open.spotify.com/album/23gPWelTvT4xrs38Gc0IUG) | 5:54 |
 | 42 | [G.I.P.S.Y\. \- Radio Edit](https://open.spotify.com/track/4BLHQIfrGZX6VKAmCjJwaZ) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Boostedkids](https://open.spotify.com/artist/2PMTEy2vzCh81UZTpjK7fZ) | [G.I.P.S.Y.](https://open.spotify.com/album/7gMun8L9PaRORbVjsi4Bli) | 3:41 |
 | 43 | [Dead Mans Hand](https://open.spotify.com/track/4FVcGYFGstfGbL4aZZkqIc) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Dead Mans Hand](https://open.spotify.com/album/6Ge0sTvsG2N3QfBCxt4eIM) | 4:15 |
-| 44 | [The Power Of Now](https://open.spotify.com/track/4cDZTA6lEVEmtOxaLDUCWy) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Headhunterz](https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy) | [Neon Future Odyssey](https://open.spotify.com/album/0gVmaYMzy3sehDULjCAMJZ) | 3:21 |
-| 45 | [Resurrection \- Axwell Recut Radio Version](https://open.spotify.com/track/2DAxxGq7ozovsvgmccwHmC) | [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9), [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43) | [Electronic Music Anthology Vol.4 \(by FG\)](https://open.spotify.com/album/7L2ZHZ0BrbnZu3pe4CuisU) | 2:45 |
+| 44 | [Resurrection \- Axwell Recut Radio Version](https://open.spotify.com/track/2DAxxGq7ozovsvgmccwHmC) | [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9), [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43) | [Electronic Music Anthology Vol.4 \(by FG\)](https://open.spotify.com/album/7L2ZHZ0BrbnZu3pe4CuisU) | 2:45 |
+| 45 | [The Power Of Now](https://open.spotify.com/track/4cDZTA6lEVEmtOxaLDUCWy) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Headhunterz](https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy) | [Neon Future Odyssey](https://open.spotify.com/album/0gVmaYMzy3sehDULjCAMJZ) | 3:21 |
 | 46 | [Don't Give Up](https://open.spotify.com/track/27q6Z9Mo9GeeSHOHfO48gb) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [Don't Give Up](https://open.spotify.com/album/1glRZozlvH9QbasNkSYyfy) | 5:21 |
 | 47 | [Cake Face](https://open.spotify.com/track/2mhBN7yxNNqD8eODc5Cg73) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Neon Future Odyssey](https://open.spotify.com/album/0gVmaYMzy3sehDULjCAMJZ) | 6:11 |
 
-Snapshot ID: `MTY3Nzg1Mzc0MiwwMDAwMDAwMDQ3MTUwZjUxYzI2NTc1NGMzYjU5MmJlOWRmZDFjNTcw`
+Snapshot ID: `MTY3Nzg1Mzc0MiwwMDAwMDAwMGJhNGRiMzRkZDAyZGM0NTk3NWFiYWM0MmY3NTk2MWM5`

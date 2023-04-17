@@ -1,12 +1,12 @@
 {
   "description": "Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.",
-  "num_followers": 77610,
+  "num_followers": 77635,
   "original_name": "This is Gershwin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMGUxMGRkODI3YTY1YTcyZDlhY2YzZDYwMjMyNjI4ZTQ1",
+  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMGEwNDUwZjc1ODRhMDI4OGY3OWQzYjZhMzk4N2EzMGUz",
   "tracks": [
     {
       "added_at": "2022-08-05 04:02:00",
@@ -247,6 +247,22 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
+        "name": "Steppin' Out",
+        "url": "https://open.spotify.com/album/0DItsczVSy5rOaJOOIZ49F"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "duration_ms": 197066,
+      "name": "Who Cares?",
+      "url": "https://open.spotify.com/track/7h8Y5ozXb7D7COLHahSq4b"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
         "name": "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
         "url": "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 358640,
       "name": "How Long Has This Been Going On?",
       "url": "https://open.spotify.com/track/5axYHelFYVT2Qb5R49LMX6"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
-        "name": "Steppin' Out",
-        "url": "https://open.spotify.com/album/0DItsczVSy5rOaJOOIZ49F"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        }
-      ],
-      "duration_ms": 197066,
-      "name": "Who Cares?",
-      "url": "https://open.spotify.com/track/7h8Y5ozXb7D7COLHahSq4b"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -904,34 +904,6 @@
           "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
         },
         {
-          "name": "Steven Browen",
-          "url": "https://open.spotify.com/artist/3d3RVN8F8dChpQVHj6AgdI"
-        },
-        {
-          "name": "Buffalo Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
-        },
-        {
-          "name": "Joann Falletta",
-          "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
-        }
-      ],
-      "duration_ms": 412906,
-      "name": "Catfish Row: Suite from Porgy and Bess (arr. S. Bowen for orchestra): I. Catfish Row",
-      "url": "https://open.spotify.com/track/6YDyGvuZOX5m3aoTZTS2G7"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
-        "name": "Gershwin: Rhapsody in Blue - Strike Up the Band: Overture - Promenade - Catfish Row",
-        "url": "https://open.spotify.com/album/7BGSTg6EXyPHTuaFiJgz1V"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
           "name": "Don Rose",
           "url": "https://open.spotify.com/artist/68I7vZsOjHhe5587Lk75WL"
         },
@@ -951,8 +923,8 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Gershwin Take Two",
-        "url": "https://open.spotify.com/album/1eUkvcNIuj8xjJb38Cp5vY"
+        "name": "Gershwin: Rhapsody in Blue - Strike Up the Band: Overture - Promenade - Catfish Row",
+        "url": "https://open.spotify.com/album/7BGSTg6EXyPHTuaFiJgz1V"
       },
       "artists": [
         {
@@ -960,13 +932,21 @@
           "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
         },
         {
-          "name": "Simon Tedeschi",
-          "url": "https://open.spotify.com/artist/7oB8O1OribJYpFWTfRrbl6"
+          "name": "Steven Browen",
+          "url": "https://open.spotify.com/artist/3d3RVN8F8dChpQVHj6AgdI"
+        },
+        {
+          "name": "Buffalo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
+        },
+        {
+          "name": "Joann Falletta",
+          "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
         }
       ],
-      "duration_ms": 47426,
-      "name": "I'll Build a Stairway to Paradise",
-      "url": "https://open.spotify.com/track/1PKu4cKPcE8s3yxNatioM1"
+      "duration_ms": 412906,
+      "name": "Catfish Row: Suite from Porgy and Bess (arr. S. Bowen for orchestra): I. Catfish Row",
+      "url": "https://open.spotify.com/track/6YDyGvuZOX5m3aoTZTS2G7"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -991,6 +971,26 @@
       "duration_ms": 204920,
       "name": "3 Preludes for Piano Solo: 2. Andante con moto e poco rubato (Arr. Jascha Heifetz)",
       "url": "https://open.spotify.com/track/0SIRzB0ZuR3LTPisCFPsAp"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Gershwin Take Two",
+        "url": "https://open.spotify.com/album/1eUkvcNIuj8xjJb38Cp5vY"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Simon Tedeschi",
+          "url": "https://open.spotify.com/artist/7oB8O1OribJYpFWTfRrbl6"
+        }
+      ],
+      "duration_ms": 47426,
+      "name": "I'll Build a Stairway to Paradise",
+      "url": "https://open.spotify.com/track/1PKu4cKPcE8s3yxNatioM1"
     },
     {
       "added_at": "2022-08-05 04:02:00",

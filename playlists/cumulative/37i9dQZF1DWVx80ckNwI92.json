@@ -726,10 +726,28 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 187052,
       "name": "Numbers",
       "url": "https://open.spotify.com/track/2BR3axG2HyUqRgeND9Ufv2"
+    },
+    {
+      "album": {
+        "name": "MotherFather",
+        "url": "https://open.spotify.com/album/6G76PblQXf5i8JB7mC0mv3"
+      },
+      "artists": [
+        {
+          "name": "Petite Noir",
+          "url": "https://open.spotify.com/artist/4dGwtd1FYag1VY1vaR1U8y"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187052,
+      "name": "Numbers",
+      "url": "https://open.spotify.com/track/3GCwEJZBpdu7AUtBxlz70r"
     },
     {
       "album": {
@@ -872,10 +890,32 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 197333,
       "name": "Simple Things",
       "url": "https://open.spotify.com/track/75hLIkx0MpoWDc8LJfOsPR"
+    },
+    {
+      "album": {
+        "name": "MotherFather",
+        "url": "https://open.spotify.com/album/6G76PblQXf5i8JB7mC0mv3"
+      },
+      "artists": [
+        {
+          "name": "Petite Noir",
+          "url": "https://open.spotify.com/artist/4dGwtd1FYag1VY1vaR1U8y"
+        },
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "Simple Things (feat. Theo Croker)",
+      "url": "https://open.spotify.com/track/12aouEbQ2CAzBg7yc4IYVf"
     },
     {
       "album": {

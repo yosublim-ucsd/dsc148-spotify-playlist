@@ -1,12 +1,12 @@
 {
   "description": "Meet the vocalists representing Korea! (Cover:\bAylah(\uc544\uc77c\ub77c)) (\ub300\ud55c\ubbfc\uad6d\uc744 \ub300\ud45c\ud558\ub294 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 317975,
+  "num_followers": 318043,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDc1MjM5OCwwMDAwMDAwMGU4YzY0YjA0OWRhMDRlYjRhM2RlNzAzNGQ3ZDFjOWRm",
+  "snapshot_id": "MTY4MDc1MjM5OCwwMDAwMDAwMDFhODQ3ZjdhZWQ4YjdiMTBmMmY3NzM4OTliNTg5ZThk",
   "tracks": [
     {
       "added_at": "2023-03-31 10:23:23",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/3cgDEWthQdpLcTTeWMV0VB"
     },
     {
-      "added_at": "2023-04-16 01:27:18",
+      "added_at": "2023-04-17 00:50:33",
       "album": {
         "name": "Anomaly",
         "url": "https://open.spotify.com/album/1pYNoczdbcFbN7udLlB1t0"
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
-        "name": "Naul <Ballad Pop City>",
-        "url": "https://open.spotify.com/album/5KN5V04kjs7YeTVyQcpqqZ"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 260668,
-      "name": "Nights Into Days (Prod. by Naul)",
-      "url": "https://open.spotify.com/track/7yMSnQEier8Kp4iQuIvt0t"
-    },
-    {
-      "added_at": "2023-03-31 10:23:23",
-      "album": {
         "name": "Like Water - The 1st Mini Album",
         "url": "https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 244546,
       "name": "When This Rain Stops",
       "url": "https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf"
+    },
+    {
+      "added_at": "2023-03-31 10:23:23",
+      "album": {
+        "name": "Naul <Ballad Pop City>",
+        "url": "https://open.spotify.com/album/5KN5V04kjs7YeTVyQcpqqZ"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 260668,
+      "name": "Nights Into Days (Prod. by Naul)",
+      "url": "https://open.spotify.com/track/7yMSnQEier8Kp4iQuIvt0t"
     },
     {
       "added_at": "2023-03-31 10:23:23",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
-        "name": "HOSPITAL PLAYLIST Season2 (Original Television Soundtrack), Pt. 10",
-        "url": "https://open.spotify.com/album/36VmbKKMtbSt0GUcQkwRV8"
-      },
-      "artists": [
-        {
-          "name": "Yoon Mirae",
-          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
-        }
-      ],
-      "duration_ms": 256314,
-      "name": "It\u2032s My Life",
-      "url": "https://open.spotify.com/track/01zMJ3mp9nqZmJTCeb3lLl"
-    },
-    {
-      "added_at": "2023-03-31 10:23:23",
-      "album": {
         "name": "haeyo (2022)",
         "url": "https://open.spotify.com/album/2KgYaKN5C3h33TEgCrbfAo"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 238071,
       "name": "haeyo (2022)",
       "url": "https://open.spotify.com/track/0M4EDkH7RpbKlWwrZ9o17N"
+    },
+    {
+      "added_at": "2023-03-31 10:23:23",
+      "album": {
+        "name": "HOSPITAL PLAYLIST Season2 (Original Television Soundtrack), Pt. 10",
+        "url": "https://open.spotify.com/album/36VmbKKMtbSt0GUcQkwRV8"
+      },
+      "artists": [
+        {
+          "name": "Yoon Mirae",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        }
+      ],
+      "duration_ms": 256314,
+      "name": "It\u2032s My Life",
+      "url": "https://open.spotify.com/track/01zMJ3mp9nqZmJTCeb3lLl"
     },
     {
       "added_at": "2023-03-31 10:23:23",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
-        "name": "love",
-        "url": "https://open.spotify.com/album/3TzHGHpI61xn4CqKrMhRRS"
-      },
-      "artists": [
-        {
-          "name": "Sion",
-          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
-        }
-      ],
-      "duration_ms": 213275,
-      "name": "comedy",
-      "url": "https://open.spotify.com/track/1kNVRCfLtotmIKQOb87tUL"
-    },
-    {
-      "added_at": "2023-03-31 10:23:23",
-      "album": {
         "name": "Because I am a woman",
         "url": "https://open.spotify.com/album/6hf7ETkQLEIW5rKkCks9Bl"
       },
@@ -1051,18 +1035,18 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
-        "name": "New Year",
-        "url": "https://open.spotify.com/album/5EurmkjnoKInaBsjAM6iFB"
+        "name": "love",
+        "url": "https://open.spotify.com/album/3TzHGHpI61xn4CqKrMhRRS"
       },
       "artists": [
         {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+          "name": "Sion",
+          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
         }
       ],
-      "duration_ms": 234386,
-      "name": "Big world",
-      "url": "https://open.spotify.com/track/0Hy3JNYKAJu4ttcyQHzzYA"
+      "duration_ms": 213275,
+      "name": "comedy",
+      "url": "https://open.spotify.com/track/1kNVRCfLtotmIKQOb87tUL"
     },
     {
       "added_at": "2023-03-31 10:23:23",
@@ -1095,6 +1079,22 @@
       "duration_ms": 246293,
       "name": "\ub108\ub97c \uc704\ud574",
       "url": "https://open.spotify.com/track/2yY6cliPDD0lyXgebWzhrr"
+    },
+    {
+      "added_at": "2023-03-31 10:23:23",
+      "album": {
+        "name": "New Year",
+        "url": "https://open.spotify.com/album/5EurmkjnoKInaBsjAM6iFB"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 234386,
+      "name": "Big world",
+      "url": "https://open.spotify.com/track/0Hy3JNYKAJu4ttcyQHzzYA"
     },
     {
       "added_at": "2023-03-31 10:23:23",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
-        "name": "GOMAK BOYS",
-        "url": "https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9"
-      },
-      "artists": [
-        {
-          "name": "GOMAK BOYS",
-          "url": "https://open.spotify.com/artist/3Xm9SBZmNxPOUbHcdvaTeT"
-        }
-      ],
-      "duration_ms": 204120,
-      "name": "Sweet Thing",
-      "url": "https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a"
-    },
-    {
-      "added_at": "2023-03-31 10:23:23",
-      "album": {
         "name": "You&I",
         "url": "https://open.spotify.com/album/5r4Z2r3SMsPUlX4VbFW6IA"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 221333,
       "name": "You&I",
       "url": "https://open.spotify.com/track/4IvxwZaPKnrU7xDXXQExQc"
+    },
+    {
+      "added_at": "2023-03-31 10:23:23",
+      "album": {
+        "name": "GOMAK BOYS",
+        "url": "https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9"
+      },
+      "artists": [
+        {
+          "name": "GOMAK BOYS",
+          "url": "https://open.spotify.com/artist/3Xm9SBZmNxPOUbHcdvaTeT"
+        }
+      ],
+      "duration_ms": 204120,
+      "name": "Sweet Thing",
+      "url": "https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a"
     },
     {
       "added_at": "2023-03-31 10:23:23",
@@ -1347,38 +1347,6 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
-        "name": "Crash Course in Romance OST Part 3",
-        "url": "https://open.spotify.com/album/1ngSqp4QFiMFePyYQnjvsH"
-      },
-      "artists": [
-        {
-          "name": "Lee Juck",
-          "url": "https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa"
-        }
-      ],
-      "duration_ms": 250831,
-      "name": "The opposite side",
-      "url": "https://open.spotify.com/track/63jQ5Els02lQZFwZSqn8Dh"
-    },
-    {
-      "added_at": "2023-03-31 10:23:23",
-      "album": {
-        "name": "Rookie Historian GooHaeRyung (Original Television Soundtrack), Pt. 2",
-        "url": "https://open.spotify.com/album/7vvT1Lt9uuSjV7rdYeeIDt"
-      },
-      "artists": [
-        {
-          "name": "Yoon Mirae",
-          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
-        }
-      ],
-      "duration_ms": 234269,
-      "name": "My Dream",
-      "url": "https://open.spotify.com/track/6KH01MmdV1vsprqge5pWUc"
-    },
-    {
-      "added_at": "2023-03-31 10:23:23",
-      "album": {
         "name": "Drunken confession at night",
         "url": "https://open.spotify.com/album/6ckoOynVQtEj04mbOAyGAh"
       },
@@ -1407,6 +1375,38 @@
       "duration_ms": 212146,
       "name": "Because of You",
       "url": "https://open.spotify.com/track/5jZYTT8lSXiVzkpiBTQGTj"
+    },
+    {
+      "added_at": "2023-03-31 10:23:23",
+      "album": {
+        "name": "Rookie Historian GooHaeRyung (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/7vvT1Lt9uuSjV7rdYeeIDt"
+      },
+      "artists": [
+        {
+          "name": "Yoon Mirae",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        }
+      ],
+      "duration_ms": 234269,
+      "name": "My Dream",
+      "url": "https://open.spotify.com/track/6KH01MmdV1vsprqge5pWUc"
+    },
+    {
+      "added_at": "2023-03-31 10:23:23",
+      "album": {
+        "name": "Crash Course in Romance OST Part 3",
+        "url": "https://open.spotify.com/album/1ngSqp4QFiMFePyYQnjvsH"
+      },
+      "artists": [
+        {
+          "name": "Lee Juck",
+          "url": "https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa"
+        }
+      ],
+      "duration_ms": 250831,
+      "name": "The opposite side",
+      "url": "https://open.spotify.com/track/63jQ5Els02lQZFwZSqn8Dh"
     },
     {
       "added_at": "2023-03-31 10:23:23",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
-        "name": "&10",
-        "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
-      },
-      "artists": [
-        {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
-        }
-      ],
-      "duration_ms": 273292,
-      "name": "Days without you",
-      "url": "https://open.spotify.com/track/14xiv5uhzoRdqd3cxHiBbw"
-    },
-    {
-      "added_at": "2023-03-31 10:23:23",
-      "album": {
         "name": "Faith OST",
         "url": "https://open.spotify.com/album/0uFJieT8zGkryWddYK7Vkd"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 267937,
       "name": "Walking Slowly",
       "url": "https://open.spotify.com/track/2zahaztD28KVpM84zFoeQ9"
+    },
+    {
+      "added_at": "2023-03-31 10:23:23",
+      "album": {
+        "name": "&10",
+        "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "duration_ms": 273292,
+      "name": "Days without you",
+      "url": "https://open.spotify.com/track/14xiv5uhzoRdqd3cxHiBbw"
     },
     {
       "added_at": "2023-03-31 10:23:23",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
-        "name": "Dear",
-        "url": "https://open.spotify.com/album/2UKLUzxg6b2A1vZJfuf63p"
-      },
-      "artists": [
-        {
-          "name": "Shin Yong Jae",
-          "url": "https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR"
-        }
-      ],
-      "duration_ms": 240840,
-      "name": "First Line",
-      "url": "https://open.spotify.com/track/2jyX7hcIU3N4DY1n9EKIab"
-    },
-    {
-      "added_at": "2023-03-31 10:23:23",
-      "album": {
         "name": "Starting Now",
         "url": "https://open.spotify.com/album/4HSSyNh3DVQVT2z5Z9cSzy"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 205440,
       "name": "Starting Now",
       "url": "https://open.spotify.com/track/7rtD4GjoJkg0iFj0XmPfR1"
+    },
+    {
+      "added_at": "2023-03-31 10:23:23",
+      "album": {
+        "name": "One Day More",
+        "url": "https://open.spotify.com/album/6LqipT57Al2ZKzFdhhcz68"
+      },
+      "artists": [
+        {
+          "name": "BIG MAMA",
+          "url": "https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ"
+        }
+      ],
+      "duration_ms": 247986,
+      "name": "One Day More",
+      "url": "https://open.spotify.com/track/4nr85wYs3ZaCTSOm8oPa3J"
     },
     {
       "added_at": "2023-03-31 10:23:23",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
+        "name": "Dear",
+        "url": "https://open.spotify.com/album/2UKLUzxg6b2A1vZJfuf63p"
+      },
+      "artists": [
+        {
+          "name": "Shin Yong Jae",
+          "url": "https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR"
+        }
+      ],
+      "duration_ms": 240840,
+      "name": "First Line",
+      "url": "https://open.spotify.com/track/2jyX7hcIU3N4DY1n9EKIab"
+    },
+    {
+      "added_at": "2023-03-31 10:23:23",
+      "album": {
         "name": "The Fairy Tale",
         "url": "https://open.spotify.com/album/76ASw7kgzeLbfGyei95zN1"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 227054,
       "name": "Tale",
       "url": "https://open.spotify.com/track/3VtDqefAMMvUcg4x9Ma2LB"
-    },
-    {
-      "added_at": "2023-03-31 10:23:23",
-      "album": {
-        "name": "One Day More",
-        "url": "https://open.spotify.com/album/6LqipT57Al2ZKzFdhhcz68"
-      },
-      "artists": [
-        {
-          "name": "BIG MAMA",
-          "url": "https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ"
-        }
-      ],
-      "duration_ms": 247986,
-      "name": "One Day More",
-      "url": "https://open.spotify.com/track/4nr85wYs3ZaCTSOm8oPa3J"
     }
   ],
   "unique_name": "v o K a l",

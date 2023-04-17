@@ -1,12 +1,12 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 376742,
+  "num_followers": 377273,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ2NzA3OCwwMDAwMDAwMDkwNDFjNjk4ZDRiYmNjNjZiMmU5NzFhMjdkNGVlY2Q2",
+  "snapshot_id": "MTY4MTQ2NzA3OCwwMDAwMDAwMGExZDk3MDI2YmJiMjI1ZDIwZDZhZTkzYWY5N2QzOGRi",
   "tracks": [
     {
       "added_at": "2023-04-14 10:11:18",
@@ -547,54 +547,6 @@
     {
       "added_at": "2023-04-14 10:11:18",
       "album": {
-        "name": "Fictions",
-        "url": "https://open.spotify.com/album/13GE9LY5RpnTYTZ12LywX3"
-      },
-      "artists": [
-        {
-          "name": "Jane Birkin",
-          "url": "https://open.spotify.com/artist/4XYH5Be5pn1qkxhfaID3J5"
-        }
-      ],
-      "duration_ms": 185240,
-      "name": "Harvest Moon",
-      "url": "https://open.spotify.com/track/7sx41M0GEQPLMYt3FjCnSw"
-    },
-    {
-      "added_at": "2023-04-14 10:11:18",
-      "album": {
-        "name": "Haven't We Met?",
-        "url": "https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 248416,
-      "name": "You Make Me Feel so Young",
-      "url": "https://open.spotify.com/track/6SYFwqZvPueoTBLoNjidAs"
-    },
-    {
-      "added_at": "2023-04-14 10:11:18",
-      "album": {
-        "name": "Everything I Know About Love",
-        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 216453,
-      "name": "Just Like Chet",
-      "url": "https://open.spotify.com/track/1yNylaCqr4SbSUcgvStBGJ"
-    },
-    {
-      "added_at": "2023-04-14 10:11:18",
-      "album": {
         "name": "Easy On Me",
         "url": "https://open.spotify.com/album/7rriXPfGcOzdHmU6q7V8Vr"
       },
@@ -643,6 +595,54 @@
       "duration_ms": 244123,
       "name": "How Insensitive",
       "url": "https://open.spotify.com/track/7zTPGoqzsHv4hnYib1jP8e"
+    },
+    {
+      "added_at": "2023-04-14 10:11:18",
+      "album": {
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 216453,
+      "name": "Just Like Chet",
+      "url": "https://open.spotify.com/track/1yNylaCqr4SbSUcgvStBGJ"
+    },
+    {
+      "added_at": "2023-04-14 10:11:18",
+      "album": {
+        "name": "Fictions",
+        "url": "https://open.spotify.com/album/13GE9LY5RpnTYTZ12LywX3"
+      },
+      "artists": [
+        {
+          "name": "Jane Birkin",
+          "url": "https://open.spotify.com/artist/4XYH5Be5pn1qkxhfaID3J5"
+        }
+      ],
+      "duration_ms": 185240,
+      "name": "Harvest Moon",
+      "url": "https://open.spotify.com/track/7sx41M0GEQPLMYt3FjCnSw"
+    },
+    {
+      "added_at": "2023-04-14 10:11:18",
+      "album": {
+        "name": "Haven't We Met?",
+        "url": "https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 248416,
+      "name": "You Make Me Feel so Young",
+      "url": "https://open.spotify.com/track/6SYFwqZvPueoTBLoNjidAs"
     },
     {
       "added_at": "2023-04-14 10:11:18",
@@ -859,18 +859,18 @@
     {
       "added_at": "2023-04-14 10:11:18",
       "album": {
-        "name": "end credits",
-        "url": "https://open.spotify.com/album/6ZgbXMymYOnmGTTgFcnmy2"
+        "name": "Jazz Love",
+        "url": "https://open.spotify.com/album/2XDDmdrutCzZRwxpkoJBLq"
       },
       "artists": [
         {
-          "name": "Sarah Kang",
-          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+          "name": "Laura Fygi",
+          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
         }
       ],
-      "duration_ms": 248500,
-      "name": "end credits",
-      "url": "https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H"
+      "duration_ms": 236469,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/4VHm7ABduF0wRhmoGIOXHJ"
     },
     {
       "added_at": "2023-04-14 10:11:18",
@@ -891,18 +891,18 @@
     {
       "added_at": "2023-04-14 10:11:18",
       "album": {
-        "name": "Jazz Love",
-        "url": "https://open.spotify.com/album/2XDDmdrutCzZRwxpkoJBLq"
+        "name": "end credits",
+        "url": "https://open.spotify.com/album/6ZgbXMymYOnmGTTgFcnmy2"
       },
       "artists": [
         {
-          "name": "Laura Fygi",
-          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
         }
       ],
-      "duration_ms": 236469,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/4VHm7ABduF0wRhmoGIOXHJ"
+      "duration_ms": 248500,
+      "name": "end credits",
+      "url": "https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H"
     },
     {
       "added_at": "2023-04-14 10:11:18",
@@ -955,26 +955,6 @@
     {
       "added_at": "2023-04-14 10:11:18",
       "album": {
-        "name": "LIVING ROOM 2",
-        "url": "https://open.spotify.com/album/0mgDobmUfgJHVNEV7GHfSy"
-      },
-      "artists": [
-        {
-          "name": "Martina DaSilva",
-          "url": "https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F"
-        },
-        {
-          "name": "Michael Stephenson",
-          "url": "https://open.spotify.com/artist/2hLykFY0OkRxdzJAaidlzk"
-        }
-      ],
-      "duration_ms": 217172,
-      "name": "Say You'll Be There",
-      "url": "https://open.spotify.com/track/5PPFu9Ezev083u2bEuoz3q"
-    },
-    {
-      "added_at": "2023-04-14 10:11:18",
-      "album": {
         "name": "Here It Is: A Tribute to Leonard Cohen",
         "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 380066,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/3Fn1AoG7bIcMKPKy30KtKD"
+    },
+    {
+      "added_at": "2023-04-14 10:11:18",
+      "album": {
+        "name": "LIVING ROOM 2",
+        "url": "https://open.spotify.com/album/0mgDobmUfgJHVNEV7GHfSy"
+      },
+      "artists": [
+        {
+          "name": "Martina DaSilva",
+          "url": "https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F"
+        },
+        {
+          "name": "Michael Stephenson",
+          "url": "https://open.spotify.com/artist/2hLykFY0OkRxdzJAaidlzk"
+        }
+      ],
+      "duration_ms": 217172,
+      "name": "Say You'll Be There",
+      "url": "https://open.spotify.com/track/5PPFu9Ezev083u2bEuoz3q"
     },
     {
       "added_at": "2023-04-14 10:11:18",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-04-14 10:11:18",
       "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/5YfLvxcH8jCibShM4ogLUr"
-      },
-      "artists": [
-        {
-          "name": "Eliane Elias",
-          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
-        }
-      ],
-      "duration_ms": 250186,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/5iRxI8g8AxrQe6EpKYMtdN"
-    },
-    {
-      "added_at": "2023-04-14 10:11:18",
-      "album": {
         "name": "Duets",
         "url": "https://open.spotify.com/album/3cdclv2AHxC4DTjlIujNeC"
       },
@@ -1095,22 +1079,6 @@
     {
       "added_at": "2023-04-14 10:11:18",
       "album": {
-        "name": "Kisses On The Bottom",
-        "url": "https://open.spotify.com/album/5jOBxNZ2fXG1k0x8SYJ38e"
-      },
-      "artists": [
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        }
-      ],
-      "duration_ms": 155706,
-      "name": "I'm Gonna Sit Right Down And Write Myself A Letter",
-      "url": "https://open.spotify.com/track/4YUetg3gv643KMv8X40KPO"
-    },
-    {
-      "added_at": "2023-04-14 10:11:18",
-      "album": {
         "name": "Coming Back To You",
         "url": "https://open.spotify.com/album/5kHIm8MtwOa6jVGS4nFC31"
       },
@@ -1127,6 +1095,38 @@
       "duration_ms": 220600,
       "name": "Coming Back To You",
       "url": "https://open.spotify.com/track/1KjTMIDPS9bhCa4VF1odYH"
+    },
+    {
+      "added_at": "2023-04-14 10:11:18",
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/5YfLvxcH8jCibShM4ogLUr"
+      },
+      "artists": [
+        {
+          "name": "Eliane Elias",
+          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
+        }
+      ],
+      "duration_ms": 250186,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/5iRxI8g8AxrQe6EpKYMtdN"
+    },
+    {
+      "added_at": "2023-04-14 10:11:18",
+      "album": {
+        "name": "Kisses On The Bottom",
+        "url": "https://open.spotify.com/album/5jOBxNZ2fXG1k0x8SYJ38e"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "duration_ms": 155706,
+      "name": "I'm Gonna Sit Right Down And Write Myself A Letter",
+      "url": "https://open.spotify.com/track/4YUetg3gv643KMv8X40KPO"
     },
     {
       "added_at": "2023-04-14 10:11:18",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-04-14 10:11:18",
       "album": {
-        "name": "Love Stories",
-        "url": "https://open.spotify.com/album/3quRrdM2QORsA07w31zq5N"
-      },
-      "artists": [
-        {
-          "name": "Eliane Elias",
-          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
-        }
-      ],
-      "duration_ms": 352466,
-      "name": "Come Fly With Me",
-      "url": "https://open.spotify.com/track/12v7P7tjpUJmNCdhsBbeSl"
-    },
-    {
-      "added_at": "2023-04-14 10:11:18",
-      "album": {
         "name": "Back to Bacharach (Expanded Edition)",
         "url": "https://open.spotify.com/album/0wfkSewGh40HvJ2Mo48kiJ"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 222146,
       "name": "I've Never Been In Love Before",
       "url": "https://open.spotify.com/track/4IqrPu63viykyz34gUYKAx"
+    },
+    {
+      "added_at": "2023-04-14 10:11:18",
+      "album": {
+        "name": "Love Stories",
+        "url": "https://open.spotify.com/album/3quRrdM2QORsA07w31zq5N"
+      },
+      "artists": [
+        {
+          "name": "Eliane Elias",
+          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
+        }
+      ],
+      "duration_ms": 352466,
+      "name": "Come Fly With Me",
+      "url": "https://open.spotify.com/track/12v7P7tjpUJmNCdhsBbeSl"
     },
     {
       "added_at": "2023-04-14 10:11:18",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2023-04-14 10:11:18",
       "album": {
-        "name": "Half The Perfect World",
-        "url": "https://open.spotify.com/album/6krx8ZgiDPDVTKDoZGwevx"
+        "name": "Light Out Of Darkness (A Tribute To Ray Charles)",
+        "url": "https://open.spotify.com/album/1lSUbhc28a8hfMmaXQH7fc"
       },
       "artists": [
         {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+          "name": "Shirley Horn",
+          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
         }
       ],
-      "duration_ms": 237813,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/20Wrb8zv1LCJYGeJDQetLK"
+      "duration_ms": 191826,
+      "name": "Hit The Road Jack",
+      "url": "https://open.spotify.com/track/3Ix0grk4L4iofIaYRTWR7S"
     },
     {
       "added_at": "2023-04-14 10:11:18",
@@ -1307,6 +1307,26 @@
     {
       "added_at": "2023-04-14 10:11:18",
       "album": {
+        "name": "Creole Love Call",
+        "url": "https://open.spotify.com/album/1aV2jCH2ntuiZTpcrPcQvn"
+      },
+      "artists": [
+        {
+          "name": "Joe Sample",
+          "url": "https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE"
+        },
+        {
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+        }
+      ],
+      "duration_ms": 240666,
+      "name": "One Day I Fly Away",
+      "url": "https://open.spotify.com/track/5G4mD6dNtV9V30npBbAj0i"
+    },
+    {
+      "added_at": "2023-04-14 10:11:18",
+      "album": {
         "name": "Meet Me at the Movies (feat. Iiro Rantala)",
         "url": "https://open.spotify.com/album/0BfGtAxWnse4U1cIOZMyl4"
       },
@@ -1331,22 +1351,18 @@
     {
       "added_at": "2023-04-14 10:11:18",
       "album": {
-        "name": "Creole Love Call",
-        "url": "https://open.spotify.com/album/1aV2jCH2ntuiZTpcrPcQvn"
+        "name": "Half The Perfect World",
+        "url": "https://open.spotify.com/album/6krx8ZgiDPDVTKDoZGwevx"
       },
       "artists": [
         {
-          "name": "Joe Sample",
-          "url": "https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE"
-        },
-        {
-          "name": "Nils Landgren",
-          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
         }
       ],
-      "duration_ms": 240666,
-      "name": "One Day I Fly Away",
-      "url": "https://open.spotify.com/track/5G4mD6dNtV9V30npBbAj0i"
+      "duration_ms": 237813,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/20Wrb8zv1LCJYGeJDQetLK"
     },
     {
       "added_at": "2023-04-14 10:11:18",
@@ -1363,22 +1379,6 @@
       "duration_ms": 233848,
       "name": "Castles in the Air",
       "url": "https://open.spotify.com/track/2EHOINS6ULWahXvResI7mo"
-    },
-    {
-      "added_at": "2023-04-14 10:11:18",
-      "album": {
-        "name": "Light Out Of Darkness (A Tribute To Ray Charles)",
-        "url": "https://open.spotify.com/album/1lSUbhc28a8hfMmaXQH7fc"
-      },
-      "artists": [
-        {
-          "name": "Shirley Horn",
-          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
-        }
-      ],
-      "duration_ms": 191826,
-      "name": "Hit The Road Jack",
-      "url": "https://open.spotify.com/track/3Ix0grk4L4iofIaYRTWR7S"
     },
     {
       "added_at": "2023-04-14 10:11:18",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2023-04-14 10:11:18",
       "album": {
+        "name": "My Wonderland",
+        "url": "https://open.spotify.com/album/4Qhd3ksKmLXaDHyA82Wc6A"
+      },
+      "artists": [
+        {
+          "name": "Simone Kopmajer",
+          "url": "https://open.spotify.com/artist/7cylWVUnKfaVT2vpkNoRWB"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "A Man and a Woman",
+      "url": "https://open.spotify.com/track/1mWZWF9qOktP3YUKIvAQtj"
+    },
+    {
+      "added_at": "2023-04-14 10:11:18",
+      "album": {
         "name": "Bells On Sand",
         "url": "https://open.spotify.com/album/5WmMcrffw3sBnMxxrhbF0g"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 329306,
       "name": "Just A Dream",
       "url": "https://open.spotify.com/track/3n09FQ8rPHhxS46wzYEmWq"
-    },
-    {
-      "added_at": "2023-04-14 10:11:18",
-      "album": {
-        "name": "My Wonderland",
-        "url": "https://open.spotify.com/album/4Qhd3ksKmLXaDHyA82Wc6A"
-      },
-      "artists": [
-        {
-          "name": "Simone Kopmajer",
-          "url": "https://open.spotify.com/artist/7cylWVUnKfaVT2vpkNoRWB"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "A Man and a Woman",
-      "url": "https://open.spotify.com/track/1mWZWF9qOktP3YUKIvAQtj"
     },
     {
       "added_at": "2023-04-14 10:11:18",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2023-04-14 10:11:18",
       "album": {
-        "name": "Always Seem to Get Things Wrong",
-        "url": "https://open.spotify.com/album/0jxF7dbDnO5mQ5PHlgLlJ6"
+        "name": "My Funny Valentine (For Oskar and Eli)",
+        "url": "https://open.spotify.com/album/1gWuzvRkirEnoeRkqLPPlH"
       },
       "artists": [
         {
-          "name": "Gabi Hartmann",
-          "url": "https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn"
+          "name": "Amos Lee",
+          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
         }
       ],
-      "duration_ms": 251413,
-      "name": "I'll Tell You Something",
-      "url": "https://open.spotify.com/track/1q6sKjFBoTyZ15Vwf5IuGa"
+      "duration_ms": 127400,
+      "name": "My Funny Valentine (For Oskar and Eli)",
+      "url": "https://open.spotify.com/track/4EzDKhYBnbDvbDGqJxK1HZ"
     },
     {
       "added_at": "2023-04-14 10:11:18",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2023-04-14 10:11:18",
       "album": {
-        "name": "My Funny Valentine (For Oskar and Eli)",
-        "url": "https://open.spotify.com/album/1gWuzvRkirEnoeRkqLPPlH"
+        "name": "Always Seem to Get Things Wrong",
+        "url": "https://open.spotify.com/album/0jxF7dbDnO5mQ5PHlgLlJ6"
       },
       "artists": [
         {
-          "name": "Amos Lee",
-          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+          "name": "Gabi Hartmann",
+          "url": "https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn"
         }
       ],
-      "duration_ms": 127400,
-      "name": "My Funny Valentine (For Oskar and Eli)",
-      "url": "https://open.spotify.com/track/4EzDKhYBnbDvbDGqJxK1HZ"
+      "duration_ms": 251413,
+      "name": "I'll Tell You Something",
+      "url": "https://open.spotify.com/track/1q6sKjFBoTyZ15Vwf5IuGa"
     },
     {
       "added_at": "2023-04-14 10:11:18",
@@ -1735,22 +1735,22 @@
     {
       "added_at": "2023-04-14 10:11:18",
       "album": {
-        "name": "On Vacation",
-        "url": "https://open.spotify.com/album/0lkjkN4nOGZeFr0hxaMQDY"
+        "name": "La belle vie - The Good Life",
+        "url": "https://open.spotify.com/album/5j9lwYLRgkVtN5HWJ08wfH"
       },
       "artists": [
         {
-          "name": "Till Br\u00f6nner",
-          "url": "https://open.spotify.com/artist/3Q4xYZ2ZuFaAsZZyjPIfc8"
+          "name": "Thomas Dutronc",
+          "url": "https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz"
         },
         {
-          "name": "Bob James",
-          "url": "https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ"
+          "name": "Jeff Goldblum",
+          "url": "https://open.spotify.com/artist/0O1n2TpXR4XizmHi7aY0l8"
         }
       ],
-      "duration_ms": 326733,
-      "name": "Save Your Love for Me",
-      "url": "https://open.spotify.com/track/3aqnw5JOWwyLli3SPAwtc1"
+      "duration_ms": 222920,
+      "name": "La belle vie - The Good Life",
+      "url": "https://open.spotify.com/track/3bO3Bh5Cx2fRM75q42vrJE"
     }
   ],
   "unique_name": "Easy Jazz",

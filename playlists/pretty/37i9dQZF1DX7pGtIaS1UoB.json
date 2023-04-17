@@ -1,12 +1,12 @@
 {
   "description": "\u9019\u4e9b\u6709\u7bc0\u594f\u6709\u6eab\u5ea6\u7684\u60c5\u6b4c\uff0c\u80fd\u8b93\u4f60\u6642\u6642\u523b\u523b\u90fd\u6709\u5728\u5e78\u798f\u4e2d\u904a\u8d70\u7684\u611f\u89ba\u3002",
-  "num_followers": 89277,
+  "num_followers": 89295,
   "original_name": "\u6696\u5fc3\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTEwMzQwNywwMDAwMDAwMDdhZmNjYjJjNWZjZTg2MWUwMGUzZDZiMDk0Y2RjMDBh",
+  "snapshot_id": "MTY4MTEwMzQwNywwMDAwMDAwMGZiZTk3ZDJjODAwMzU4MWE0OTJkMGRkNjYyMjg5NDYy",
   "tracks": [
     {
       "added_at": "2023-04-10 05:10:07",
@@ -175,18 +175,18 @@
     {
       "added_at": "2023-04-10 05:10:07",
       "album": {
-        "name": "\u6211\u591a\u559c\u6b61\u4f60,\u4f60\u6703\u77e5\u9053(\u7db2\u5287<\u81f4\u6211\u5011\u55ae\u7d14\u7684\u5c0f\u7f8e\u597d>\u63a8\u5ee3\u66f2)",
-        "url": "https://open.spotify.com/album/0nELe45M3v4oeUuxKR9noj"
+        "name": "\u6162\u6162\u61c2",
+        "url": "https://open.spotify.com/album/65i87rD1htDv82zSh6hTVn"
       },
       "artists": [
         {
-          "name": "Wang Jun Qi",
-          "url": "https://open.spotify.com/artist/4PQnqdTaKkIjsPTbIqNcub"
+          "name": "Silence Wang",
+          "url": "https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60"
         }
       ],
-      "duration_ms": 199679,
-      "name": "\u6211\u591a\u559c\u6b61\u4f60,\u4f60\u6703\u77e5\u9053(\u7db2\u5287<\u81f4\u6211\u5011\u55ae\u7d14\u7684\u5c0f\u7f8e\u597d>\u63a8\u5ee3\u66f2)",
-      "url": "https://open.spotify.com/track/221FBKC22DTc7XkPIaZYOl"
+      "duration_ms": 196885,
+      "name": "\u5c0f\u661f\u661f",
+      "url": "https://open.spotify.com/track/2bRdjYBHfm2dCBOAXHKIyI"
     },
     {
       "added_at": "2023-04-10 05:10:07",
@@ -207,18 +207,18 @@
     {
       "added_at": "2023-04-10 05:10:07",
       "album": {
-        "name": "\u6162\u6162\u61c2",
-        "url": "https://open.spotify.com/album/65i87rD1htDv82zSh6hTVn"
+        "name": "\u6211\u591a\u559c\u6b61\u4f60,\u4f60\u6703\u77e5\u9053(\u7db2\u5287<\u81f4\u6211\u5011\u55ae\u7d14\u7684\u5c0f\u7f8e\u597d>\u63a8\u5ee3\u66f2)",
+        "url": "https://open.spotify.com/album/0nELe45M3v4oeUuxKR9noj"
       },
       "artists": [
         {
-          "name": "Silence Wang",
-          "url": "https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60"
+          "name": "Wang Jun Qi",
+          "url": "https://open.spotify.com/artist/4PQnqdTaKkIjsPTbIqNcub"
         }
       ],
-      "duration_ms": 196885,
-      "name": "\u5c0f\u661f\u661f",
-      "url": "https://open.spotify.com/track/2bRdjYBHfm2dCBOAXHKIyI"
+      "duration_ms": 199679,
+      "name": "\u6211\u591a\u559c\u6b61\u4f60,\u4f60\u6703\u77e5\u9053(\u7db2\u5287<\u81f4\u6211\u5011\u55ae\u7d14\u7684\u5c0f\u7f8e\u597d>\u63a8\u5ee3\u66f2)",
+      "url": "https://open.spotify.com/track/221FBKC22DTc7XkPIaZYOl"
     },
     {
       "added_at": "2023-04-10 05:10:07",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-04-10 05:10:07",
       "album": {
+        "name": "\u6539\u8b8a\u81ea\u5df1",
+        "url": "https://open.spotify.com/album/7yjS4CBFK0f9oQsVrcdNNW"
+      },
+      "artists": [
+        {
+          "name": "Leehom Wang",
+          "url": "https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt"
+        }
+      ],
+      "duration_ms": 166693,
+      "name": "\u4f60\u662f\u6211\u5fc3\u5185\u7684\u4e00\u9996\u6b4c",
+      "url": "https://open.spotify.com/track/17N5sJg46rDPKCGj0pKhGl"
+    },
+    {
+      "added_at": "2023-04-10 05:10:07",
+      "album": {
         "name": "Thoughts Of You",
         "url": "https://open.spotify.com/album/2ZXNtjobXsbWgzcRlYGaPx"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 208998,
       "name": "\u7b2c\u4e00\u9ed8\u5951 (\u7535\u89c6\u5267 \u300a\u4f60\u5fae\u7b11\u65f6\u5f88\u7f8e\u300b \u7247\u5c3e\u66f2)",
       "url": "https://open.spotify.com/track/4Y7gVsky7KNr4P8Bjbtlcy"
-    },
-    {
-      "added_at": "2023-04-10 05:10:07",
-      "album": {
-        "name": "\u6539\u8b8a\u81ea\u5df1",
-        "url": "https://open.spotify.com/album/7yjS4CBFK0f9oQsVrcdNNW"
-      },
-      "artists": [
-        {
-          "name": "Leehom Wang",
-          "url": "https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt"
-        }
-      ],
-      "duration_ms": 166693,
-      "name": "\u4f60\u662f\u6211\u5fc3\u5185\u7684\u4e00\u9996\u6b4c",
-      "url": "https://open.spotify.com/track/17N5sJg46rDPKCGj0pKhGl"
     },
     {
       "added_at": "2023-04-10 05:10:07",
@@ -807,26 +807,6 @@
     {
       "added_at": "2023-04-10 05:10:07",
       "album": {
-        "name": "the way you wanna be",
-        "url": "https://open.spotify.com/album/3wogxQLPdiF4WmeKx0RFHN"
-      },
-      "artists": [
-        {
-          "name": "OHMYMEITING",
-          "url": "https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx"
-        },
-        {
-          "name": "Marcus Lee",
-          "url": "https://open.spotify.com/artist/18G699wFEzXLGHsgsDZyYj"
-        }
-      ],
-      "duration_ms": 157354,
-      "name": "the way you wanna be",
-      "url": "https://open.spotify.com/track/3qjh8pAF0yTYTjzHwQ9WuR"
-    },
-    {
-      "added_at": "2023-04-10 05:10:07",
-      "album": {
         "name": "\u975e\u914b",
         "url": "https://open.spotify.com/album/3wXVp7uFmElrmsm65zAhzG"
       },
@@ -879,22 +859,22 @@
     {
       "added_at": "2023-04-10 05:10:07",
       "album": {
-        "name": "\u6bcf\u5929\u4e00\u6a23\u60f3\u4f60",
-        "url": "https://open.spotify.com/album/7bh1e8WsZLCRy16aeKijaa"
+        "name": "the way you wanna be",
+        "url": "https://open.spotify.com/album/3wogxQLPdiF4WmeKx0RFHN"
       },
       "artists": [
         {
-          "name": "Sun Day Night.",
-          "url": "https://open.spotify.com/artist/6ipNbvd45mRR8LTdA6K9fD"
+          "name": "OHMYMEITING",
+          "url": "https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx"
         },
         {
-          "name": "\u67ef\u6df3\u6069",
-          "url": "https://open.spotify.com/artist/7etKd05AwHXCtlW2Wq2r82"
+          "name": "Marcus Lee",
+          "url": "https://open.spotify.com/artist/18G699wFEzXLGHsgsDZyYj"
         }
       ],
-      "duration_ms": 227000,
-      "name": "\u6bcf\u5929\u4e00\u6a23\u60f3\u4f60",
-      "url": "https://open.spotify.com/track/2fo0HSd0TWTQQdK1z8ySm5"
+      "duration_ms": 157354,
+      "name": "the way you wanna be",
+      "url": "https://open.spotify.com/track/3qjh8pAF0yTYTjzHwQ9WuR"
     },
     {
       "added_at": "2023-04-10 05:10:07",
@@ -927,6 +907,26 @@
       "duration_ms": 135000,
       "name": "\u6c27\u5316\u6c22",
       "url": "https://open.spotify.com/track/2Dmq5eBpjomx7tHzQto6j5"
+    },
+    {
+      "added_at": "2023-04-10 05:10:07",
+      "album": {
+        "name": "\u6bcf\u5929\u4e00\u6a23\u60f3\u4f60",
+        "url": "https://open.spotify.com/album/7bh1e8WsZLCRy16aeKijaa"
+      },
+      "artists": [
+        {
+          "name": "Sun Day Night.",
+          "url": "https://open.spotify.com/artist/6ipNbvd45mRR8LTdA6K9fD"
+        },
+        {
+          "name": "\u67ef\u6df3\u6069",
+          "url": "https://open.spotify.com/artist/7etKd05AwHXCtlW2Wq2r82"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "\u6bcf\u5929\u4e00\u6a23\u60f3\u4f60",
+      "url": "https://open.spotify.com/track/2fo0HSd0TWTQQdK1z8ySm5"
     },
     {
       "added_at": "2023-04-10 05:10:07",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2023-04-10 05:10:07",
       "album": {
+        "name": "\u6211\u7684\u9ea5\u514b\u98a8",
+        "url": "https://open.spotify.com/album/4MYmTwirh8mfdWZxVa9mgX"
+      },
+      "artists": [
+        {
+          "name": "Will Pan",
+          "url": "https://open.spotify.com/artist/7fCFxj1GCRqwFZEP4iJRw0"
+        }
+      ],
+      "duration_ms": 241213,
+      "name": "\u611b\u4e0a\u672a\u4f86\u7684\u4f60",
+      "url": "https://open.spotify.com/track/3bUYcpibCAUQe0O9ZERqTl"
+    },
+    {
+      "added_at": "2023-04-10 05:10:07",
+      "album": {
         "name": "\u76f4\u7403\u6d6a\u6f2b",
         "url": "https://open.spotify.com/album/3G98Lb3s6ENS5AgcRsSplO"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 226666,
       "name": "\u76f4\u7403\u6d6a\u6f2b",
       "url": "https://open.spotify.com/track/55FEIlNSMb4MR7IAG7VNmz"
-    },
-    {
-      "added_at": "2023-04-10 05:10:07",
-      "album": {
-        "name": "\u6211\u7684\u9ea5\u514b\u98a8",
-        "url": "https://open.spotify.com/album/4MYmTwirh8mfdWZxVa9mgX"
-      },
-      "artists": [
-        {
-          "name": "Will Pan",
-          "url": "https://open.spotify.com/artist/7fCFxj1GCRqwFZEP4iJRw0"
-        }
-      ],
-      "duration_ms": 241213,
-      "name": "\u611b\u4e0a\u672a\u4f86\u7684\u4f60",
-      "url": "https://open.spotify.com/track/3bUYcpibCAUQe0O9ZERqTl"
     },
     {
       "added_at": "2023-04-10 05:10:07",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2023-04-10 05:10:07",
       "album": {
+        "name": "SUPERMAN",
+        "url": "https://open.spotify.com/album/2n7gL0RbyATH41IgxEIqWN"
+      },
+      "artists": [
+        {
+          "name": "Gary Chaw",
+          "url": "https://open.spotify.com/artist/1mfzcypCggFwpCJ1gmi8BK"
+        }
+      ],
+      "duration_ms": 244690,
+      "name": "\u5169\u96bb\u6200\u4eba",
+      "url": "https://open.spotify.com/track/16MADi2KjVZgwshXXnCysN"
+    },
+    {
+      "added_at": "2023-04-10 05:10:07",
+      "album": {
         "name": "\u9918\u751f\u90fd\u662f\u4f60",
         "url": "https://open.spotify.com/album/29oAqIrnduw3NMtbRfSzSB"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 204291,
       "name": "\u8acb\u4f60\u5ac1\u7d66\u6211 - HBO Asia\u539f\u5275\u5f71\u96c6\u300a\u6212\u6307\u6d41\u6d6a\u8a18\u300b\u7247\u982d\u66f2",
       "url": "https://open.spotify.com/track/6FmfdFUbG8q6U2KbsNFo3y"
-    },
-    {
-      "added_at": "2023-04-10 05:10:07",
-      "album": {
-        "name": "SUPERMAN",
-        "url": "https://open.spotify.com/album/2n7gL0RbyATH41IgxEIqWN"
-      },
-      "artists": [
-        {
-          "name": "Gary Chaw",
-          "url": "https://open.spotify.com/artist/1mfzcypCggFwpCJ1gmi8BK"
-        }
-      ],
-      "duration_ms": 244690,
-      "name": "\u5169\u96bb\u6200\u4eba",
-      "url": "https://open.spotify.com/track/16MADi2KjVZgwshXXnCysN"
     }
   ],
   "unique_name": "\u6696\u5fc3\u60c5\u6b4c",

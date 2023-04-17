@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5l9rcXWdrth.md) - [plain]
 
 > Some of the most influential and innovative voices in hip\-hop—yesterday, today, tomorrow\. Cover: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,873 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,067 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5l9rcXWdrth.md) - [plain]
 | 37 | [WHOLE LOTTA MONEY](https://open.spotify.com/track/5yorXJWdBan1Vlh116ZtQ7) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 2:36 |
 | 38 | [Buss It](https://open.spotify.com/track/25j0Sape7qZbq6ZPLFefTT) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Erica Banks](https://open.spotify.com/album/5d0diKuXWPHNxon86lnjOJ) | 3:07 |
 | 39 | [I Am \(feat\. Flo Milli\)](https://open.spotify.com/track/4E7ZbuJH3NddjnMWLstkRq) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [After The Rain](https://open.spotify.com/album/0ne4ND8fxiwMDH8OK0sAn6) | 3:02 |
-| 40 | [No Fear](https://open.spotify.com/track/2H881m3JRA8lpuuwaQL6zy) | [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [No Fear](https://open.spotify.com/album/35uDNZkjmhAEnV3sz9A7jI) | 2:49 |
-| 41 | [My Neck, My Back \(Lick It\)](https://open.spotify.com/track/5r29mFrurlVBbqJzjr2XW6) | [Khia](https://open.spotify.com/artist/3q7isf09BuwXLyR2khBs60) | [Thug Misses \(Digitally Remastered\)](https://open.spotify.com/album/4Xa2dq99gQqzGj4vq0rGoV) | 3:42 |
+| 40 | [My Neck, My Back \(Lick It\)](https://open.spotify.com/track/5r29mFrurlVBbqJzjr2XW6) | [Khia](https://open.spotify.com/artist/3q7isf09BuwXLyR2khBs60) | [Thug Misses \(Digitally Remastered\)](https://open.spotify.com/album/4Xa2dq99gQqzGj4vq0rGoV) | 3:42 |
+| 41 | [No Fear](https://open.spotify.com/track/2H881m3JRA8lpuuwaQL6zy) | [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [No Fear](https://open.spotify.com/album/35uDNZkjmhAEnV3sz9A7jI) | 2:49 |
 | 42 | [May I](https://open.spotify.com/track/1GcXzijYzyfMq6wryZjYW5) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Ho, why is you here ?](https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P) | 2:43 |
 | 43 | [The Rain \(Supa Dupa Fly\)](https://open.spotify.com/track/2WRzpLD8qDRrxMXc63E5WJ) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Supa Dupa Fly](https://open.spotify.com/album/6UkdyvPElK6JDkyeRClbI2) | 4:11 |
 | 44 | [My Way](https://open.spotify.com/track/5NnwiqW2KwXYN4wl6ahYsn) | [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR) | [Eat My Pussy](https://open.spotify.com/album/0SWNsyNKAJHshqiYkbE3er) | 2:24 |
 | 45 | [Eat It](https://open.spotify.com/track/4V5Dv8IjHNTk2YJzU9vgsW) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Something for Thee Hotties](https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq) | 2:49 |
-| 46 | [I'll Be](https://open.spotify.com/track/6Ag4SYLUGFdnJrCwUIb4mT) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Ill Na Na](https://open.spotify.com/album/6qLC4weRVEetELyQQgkAMk) | 2:58 |
-| 47 | [The Jump Off](https://open.spotify.com/track/6UZS3KgNc0NF13bbtQTzD6) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [La Bella Mafia](https://open.spotify.com/album/6UlNLXBFLqRDiKnyrF4oDE) | 3:54 |
+| 46 | [The Jump Off](https://open.spotify.com/track/6UZS3KgNc0NF13bbtQTzD6) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [La Bella Mafia](https://open.spotify.com/album/6UlNLXBFLqRDiKnyrF4oDE) | 3:54 |
+| 47 | [I'll Be](https://open.spotify.com/track/6Ag4SYLUGFdnJrCwUIb4mT) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Ill Na Na](https://open.spotify.com/album/6qLC4weRVEetELyQQgkAMk) | 2:58 |
 | 48 | [Female Goat](https://open.spotify.com/track/3GvtfWTRoialUPNCbDjdtI) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Time's Up](https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi) | 2:53 |
 | 49 | [What'chu Like \(feat\. Tyrese\)](https://open.spotify.com/track/5d8woPn6sHRA6yPnnHnqSt) | [Da Brat](https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf), [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [Unrestricted](https://open.spotify.com/album/6O6Ljcn3hIcxMw3eSLD811) | 3:41 |
 | 50 | [MMM MMM \(feat\. ATL Jacob\)](https://open.spotify.com/track/7GLqR9ToJLb0PV3XyNAWNm) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [MMM MMM \(feat\. ATL Jacob\)](https://open.spotify.com/album/5IPRVG3Ph5zixjdC49LKdu) | 2:17 |
 
-Snapshot ID: `MTY3NTM2NzAwMCwwMDAwMDAwMDRlODUwMGUxYzNhNTM1NzIzMTA5MWI5ODZkNmE4NjQw`
+Snapshot ID: `MTY3NTM2NzAwMCwwMDAwMDAwMGQxNTZiNDUxZThmZWI3ZmE4NGZkMjA3ZmNiNDNjZTdm`

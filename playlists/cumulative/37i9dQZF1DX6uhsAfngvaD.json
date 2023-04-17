@@ -1174,7 +1174,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 192600,
       "name": "dad",
       "url": "https://open.spotify.com/track/3ZdGWogMp00sHjyXW4o4Mk"
@@ -2234,6 +2234,24 @@
       "duration_ms": 290000,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1gczbgaCmw15h3ZG4awluK"
+    },
+    {
+      "album": {
+        "name": "Heavy Days",
+        "url": "https://open.spotify.com/album/5B2eSjpDpzAmIxfpGndPHe"
+      },
+      "artists": [
+        {
+          "name": "Still Corners",
+          "url": "https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227683,
+      "name": "Heavy Days",
+      "url": "https://open.spotify.com/track/0nGmz6gDOZdRh0rYd623P9"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > Today's Hip\-Hop with Drake, Ice Spice, Nicki Minaj, and NLE Choppa!
 
-[Spotify](https://open.spotify.com/user/spotify) - 817,081 likes - 74 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 817,153 likes - 74 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

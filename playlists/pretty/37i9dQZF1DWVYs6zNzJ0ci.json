@@ -1,12 +1,12 @@
 {
   "description": "Vibraciones rastafari en espa\u00f1ol. Foto: Rawayana, Danny Ocean",
-  "num_followers": 1234211,
+  "num_followers": 1234346,
   "original_name": "Reggae en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAzMjgwMCwwMDAwMDAwMGVkYmI3MzlmOTdiNjk5MTFjOTU2ZjY5ZjFkY2U5Yjk3",
+  "snapshot_id": "MTY3OTAzMjgwMCwwMDAwMDAwMDZhNWE5NmZhOTQ3ZjM3MGQ3NjAyMmVjZTg0OGYyOTIw",
   "tracks": [
     {
       "added_at": "2023-03-03 05:01:00",
@@ -435,18 +435,22 @@
     {
       "added_at": "2023-03-03 05:01:00",
       "album": {
-        "name": "Con Rastafari Todo Concuerda",
-        "url": "https://open.spotify.com/album/6cdQ6F0AWi4lrolEwbCDYN"
+        "name": "Trippy Caribbean",
+        "url": "https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG"
       },
       "artists": [
         {
-          "name": "Zona Ganjah",
-          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Apache",
+          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
         }
       ],
-      "duration_ms": 259560,
-      "name": "Vibra Positiva",
-      "url": "https://open.spotify.com/track/6srdU7rKLC5DOuVBWDpmyD"
+      "duration_ms": 288388,
+      "name": "High (feat. Apache)",
+      "url": "https://open.spotify.com/track/5KQVSvivJ89ZFAPdsLLtyq"
     },
     {
       "added_at": "2023-03-03 05:01:00",
@@ -487,22 +491,18 @@
     {
       "added_at": "2023-03-03 05:01:00",
       "album": {
-        "name": "Trippy Caribbean",
-        "url": "https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG"
+        "name": "Con Rastafari Todo Concuerda",
+        "url": "https://open.spotify.com/album/6cdQ6F0AWi4lrolEwbCDYN"
       },
       "artists": [
         {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
-          "name": "Apache",
-          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
         }
       ],
-      "duration_ms": 288388,
-      "name": "High (feat. Apache)",
-      "url": "https://open.spotify.com/track/5KQVSvivJ89ZFAPdsLLtyq"
+      "duration_ms": 259560,
+      "name": "Vibra Positiva",
+      "url": "https://open.spotify.com/track/6srdU7rKLC5DOuVBWDpmyD"
     },
     {
       "added_at": "2023-03-03 05:01:00",
@@ -971,18 +971,22 @@
     {
       "added_at": "2023-03-03 05:01:00",
       "album": {
-        "name": "La Distancia",
-        "url": "https://open.spotify.com/album/0zw2MOywrEqrMOVXxWwHgi"
+        "name": "3000 Vivos (En Vivo)",
+        "url": "https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1"
       },
       "artists": [
         {
           "name": "Los Pericos",
           "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        },
+        {
+          "name": "MAGIC!",
+          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
         }
       ],
-      "duration_ms": 227143,
-      "name": "La Distancia",
-      "url": "https://open.spotify.com/track/5Mnyex5ZKe30IiaHXJ1562"
+      "duration_ms": 269013,
+      "name": "Waitin (En Vivo) (feat. MAGIC!)",
+      "url": "https://open.spotify.com/track/2wwp7vBI2TUGhIbwa3GBSH"
     },
     {
       "added_at": "2023-03-03 05:01:00",
@@ -1147,22 +1151,18 @@
     {
       "added_at": "2023-03-03 05:01:00",
       "album": {
-        "name": "3000 Vivos (En Vivo)",
-        "url": "https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1"
+        "name": "La Distancia",
+        "url": "https://open.spotify.com/album/0zw2MOywrEqrMOVXxWwHgi"
       },
       "artists": [
         {
           "name": "Los Pericos",
           "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
-        },
-        {
-          "name": "MAGIC!",
-          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
         }
       ],
-      "duration_ms": 269013,
-      "name": "Waitin (En Vivo) (feat. MAGIC!)",
-      "url": "https://open.spotify.com/track/2wwp7vBI2TUGhIbwa3GBSH"
+      "duration_ms": 227143,
+      "name": "La Distancia",
+      "url": "https://open.spotify.com/track/5Mnyex5ZKe30IiaHXJ1562"
     },
     {
       "added_at": "2023-03-03 05:01:00",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2023-03-03 05:01:00",
       "album": {
+        "name": "Conexi\u00f3n",
+        "url": "https://open.spotify.com/album/58gzZSrrL0xaRWJlQ5C4w4"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        }
+      ],
+      "duration_ms": 212533,
+      "name": "Conexi\u00f3n",
+      "url": "https://open.spotify.com/track/526O830Od2gPgcXRyRJOX0"
+    },
+    {
+      "added_at": "2023-03-03 05:01:00",
+      "album": {
         "name": "Pipa y Placa",
         "url": "https://open.spotify.com/album/6ASgaytLSi6bq1Hc8m8heS"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 213000,
       "name": "Pipa y Placa",
       "url": "https://open.spotify.com/track/6CiBBWXURdhh84dJZbGAfU"
-    },
-    {
-      "added_at": "2023-03-03 05:01:00",
-      "album": {
-        "name": "Conexi\u00f3n",
-        "url": "https://open.spotify.com/album/58gzZSrrL0xaRWJlQ5C4w4"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        }
-      ],
-      "duration_ms": 212533,
-      "name": "Conexi\u00f3n",
-      "url": "https://open.spotify.com/track/526O830Od2gPgcXRyRJOX0"
     },
     {
       "added_at": "2023-03-03 05:01:00",
@@ -1795,18 +1795,22 @@
     {
       "added_at": "2023-03-03 05:01:00",
       "album": {
-        "name": "Tu Amor",
-        "url": "https://open.spotify.com/album/7cu2iMZeDZYdGKJIUtqwgB"
+        "name": "Codigos Del Alma",
+        "url": "https://open.spotify.com/album/3gpM7IpvTpE1ByLL1aR0lS"
       },
       "artists": [
         {
-          "name": "Kameleba",
-          "url": "https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST"
+          "name": "Rastrillos",
+          "url": "https://open.spotify.com/artist/7oVQXVtyLC8b7pxGefZX50"
+        },
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 220565,
-      "name": "Tu Amor",
-      "url": "https://open.spotify.com/track/7AZWaDN04T6TQY4dJR8M5A"
+      "duration_ms": 307720,
+      "name": "La Musica",
+      "url": "https://open.spotify.com/track/1UWRoVKwatWvKCMFfn6Z6P"
     },
     {
       "added_at": "2023-03-03 05:01:00",

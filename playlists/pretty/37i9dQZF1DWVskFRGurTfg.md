@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVskFRGurTfg.md) - [plain]
 
 > Éxitos urbanos de Latinoamérica con ROSALÍA y Rauw Alejandro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,862,722 likes - 99 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,863,594 likes - 99 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

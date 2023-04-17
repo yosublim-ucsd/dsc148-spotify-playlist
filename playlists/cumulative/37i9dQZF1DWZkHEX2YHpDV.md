@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt\. it's what you want it to be\. Cover: All Time Low
 
-921 songs - 2 day 0 hr 52 min
+922 songs - 2 day 0 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [caroline](https://open.spotify.com/track/2WxB1yMEPUPAILo8BdEUFa) | [raspy](https://open.spotify.com/artist/1trffosn0Alk3IlloOD5O8) | [caroline](https://open.spotify.com/album/6KuCBVE5ZYTJxbge7Twwel) | 2:47 | 2022-04-01 | 2022-04-06 |
 | [Carousel](https://open.spotify.com/track/12q0i0bpDwti8pIPtqO4yQ) | [Eat Your Heart Out](https://open.spotify.com/artist/1Zj2DULoJ6vo0FZ2R8HM3i) | [Carousel](https://open.spotify.com/album/6jkeginjmIxiNCDts3bltL) | 3:53 | 2021-12-10 | 2022-07-07 |
 | [Cat's Cradle](https://open.spotify.com/track/6WtjnP1y7Mo0hxyPl1fCU6) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Cat's Cradle](https://open.spotify.com/album/4SQCiFw6ZlkJBr2Eb5zZ8K) | 2:36 | 2022-04-08 | 2022-05-17 |
-| [catastrophe](https://open.spotify.com/track/23CIjjRFiqwaAGHmF1p5oX) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [catastrophe](https://open.spotify.com/album/2jEt25RLXZn6gtav3jtven) | 2:36 | 2022-12-02 |  |
+| [catastrophe](https://open.spotify.com/track/23CIjjRFiqwaAGHmF1p5oX) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [catastrophe](https://open.spotify.com/album/2jEt25RLXZn6gtav3jtven) | 2:36 | 2022-12-02 | 2023-04-17 |
 | [Catching Fire \(feat\. nothing,nowhere.\)](https://open.spotify.com/track/0M0iDfjwyJwRWBS1Wpocd5) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Catching Fire \(feat\. nothing,nowhere.\)](https://open.spotify.com/album/5ezmrxI0U874BTigubbQWb) | 4:01 | 2021-12-10 | 2023-04-11 |
 | [Cathedral Bell](https://open.spotify.com/track/6XmQuWdDRF0E2QwDsrRbkb) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Cathedral Bell](https://open.spotify.com/album/1EAnGsIjR5X3sdIiwQAGcT) | 3:04 | 2021-12-10 | 2022-06-17 |
 | [Cave In](https://open.spotify.com/track/7foB3FgACotzkH5hkWOOAS) | [I The Mighty](https://open.spotify.com/artist/1aK2PiGHyEgc4wAIKQzMj2) | [Cave In](https://open.spotify.com/album/62qer7kVON5XSwZ3wd8W7B) | 3:27 | 2021-12-10 | 2022-06-22 |
@@ -308,7 +308,8 @@
 | [Fuck You](https://open.spotify.com/track/7fGGZSUU5Uja2A8dvmS9l9) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Fuck You](https://open.spotify.com/album/2Sdh5caZ8hEFIbQGXY4p6e) | 2:57 | 2022-11-04 |  |
 | [Fumes](https://open.spotify.com/track/3eUpLx5Xm1LmFLDMt7tJXo) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Fumes / Limbo](https://open.spotify.com/album/7bR6MDcy3HPH16qJJe9vIQ) | 2:17 | 2022-04-08 | 2022-05-31 |
 | [FUNERAL GREY](https://open.spotify.com/track/29zvr7PRPQhE8plnBZ44nZ) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [FUNERAL GREY](https://open.spotify.com/album/4BCWDiQzz9tE9KilNixcld) | 2:44 | 2022-05-20 | 2023-02-01 |
-| [FUNERAL GREY](https://open.spotify.com/track/4ORdQW5NLKO3b0RUeBMIrs) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/7exaI7MyauQNCOqbyqU27C) | 2:44 | 2022-12-02 |  |
+| [FUNERAL GREY](https://open.spotify.com/track/4ORdQW5NLKO3b0RUeBMIrs) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/7exaI7MyauQNCOqbyqU27C) | 2:44 | 2022-12-02 | 2023-04-17 |
+| [FUNERAL GREY](https://open.spotify.com/track/6Rebnr2UDaxxg3VNe6CBg2) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:44 | 2023-04-10 |  |
 | [Fvck Your Boyfriend](https://open.spotify.com/track/5x403rOWWAdkdlt6r8NFFG) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Fvck Your Boyfriend](https://open.spotify.com/album/2BL0drOpAdfvOCjZ7rEiu4) | 2:55 | 2021-12-10 | 2022-05-30 |
 | [G R O W \(WILLOW & Avril Lavigne feat\. Travis Barker\)](https://open.spotify.com/track/7yYDTV3VQ322o8r4wcYlqZ) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [lately I feel EVERYTHING](https://open.spotify.com/album/1dg0gmrCaEbENVXpPIvi1m) | 2:09 | 2021-12-10 | 2022-05-19 |
 | [Garamond](https://open.spotify.com/track/5FqwQC3C7VEO62zpVR6RHt) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [Garamond](https://open.spotify.com/album/7FV2SMlamWIJ9q0cSGZ1lj) | 2:59 | 2021-12-10 | 2023-04-11 |
@@ -854,7 +855,7 @@
 | [Upside Down](https://open.spotify.com/track/6trJelO46qKNUso5FtqgzG) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [Upside Down](https://open.spotify.com/album/7HFSSWViGV3f6FvIY8evex) | 3:51 | 2022-02-04 | 2022-05-19 |
 | [ur a <stranger> \- Live](https://open.spotify.com/track/0dz9WWF0rYChuh0FubVYGl) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [WILLOW: Live At Electric Lady](https://open.spotify.com/album/2yaCKbj7pFFEkXn3ixVr7w) | 2:17 | 2023-04-10 | 2023-04-12 |
 | [VAMPIRE'S DIET \(with Bert McCracken of The Used\)](https://open.spotify.com/track/78ITp8KLeHWvtjjf42LXck) | [3OH!3](https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL), [Bert McCracken](https://open.spotify.com/artist/6ulyIBuifBzU35RsvFZIx0) | [VAMPIRE'S DIET \(with Bert McCracken of The Used\)](https://open.spotify.com/album/7zQFULxk2VKVXrCsOFlGHJ) | 2:28 | 2021-12-10 | 2022-07-29 |
-| [Vandalize \- Japanese Version](https://open.spotify.com/track/2nuDirYeA0wsYcFMgC7L8E) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Vandalize](https://open.spotify.com/album/457jZPSKtrWepu8RKsHG1a) | 3:14 | 2022-09-09 | 2023-04-12 |
+| [Vandalize \- Japanese Version](https://open.spotify.com/track/2nuDirYeA0wsYcFMgC7L8E) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Vandalize](https://open.spotify.com/album/457jZPSKtrWepu8RKsHG1a) | 3:14 | 2022-09-09 |  |
 | [VANS](https://open.spotify.com/track/0ouhKwWDhTFzCj3ctYOuLR) | [Arrested Youth](https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG) | [VANS](https://open.spotify.com/album/6wqGT4hSci81XQq1qoXSMD) | 2:37 | 2022-04-01 | 2022-04-21 |
 | [Vertebrae](https://open.spotify.com/track/5VKFzJzOInbZJnB8Pnxj1g) | [Tiny Moving Parts](https://open.spotify.com/artist/5rJVTTK0ucAxQhkUc0nXbH) | [breathe](https://open.spotify.com/album/2F2RkJb7kGZitRS6C8O2XT) | 3:36 | 2022-02-04 | 2022-04-10 |
 | [Very Long List](https://open.spotify.com/track/3WqxH9HTldfadCzTGuCWTN) | [Northbound](https://open.spotify.com/artist/0bV8hivDiFzeCTUT8DVPop) | [Soul Kiss](https://open.spotify.com/album/1Z3vrb7f6zNVjVXCrZxNn4) | 3:42 | 2021-12-10 | 2022-07-06 |

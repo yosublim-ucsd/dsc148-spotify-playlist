@@ -1,12 +1,12 @@
 {
   "description": "Hear the latest releases from bluegrass and string bands alike. Cover: Mighty Poplar",
-  "num_followers": 119923,
+  "num_followers": 119955,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMGM3OTRhZWFjN2JmM2FkZThiZjU2OTg1NDVlZTY1NmEz",
+  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDU3MzU2NWI5NjMyYzcyZjY2Mjc0MWMxYTBiOTFlOGRm",
   "tracks": [
     {
       "added_at": "2023-04-14 04:00:00",
@@ -895,6 +895,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Hell on Church Street",
+        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
+      },
+      "artists": [
+        {
+          "name": "Punch Brothers",
+          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
+        }
+      ],
+      "duration_ms": 300676,
+      "name": "Orphan Annie",
+      "url": "https://open.spotify.com/track/7tsWLFSZ7HNUDDF5UxUSZE"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "White Freight Liner Blues (feat. Molly Tuttle)",
         "url": "https://open.spotify.com/album/6x0ueS4GGofC8q79ryKbR4"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 256000,
       "name": "White Freight Liner Blues (feat. Molly Tuttle)",
       "url": "https://open.spotify.com/track/4pIsyjHTDweaJDyQl6dMrd"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Hell on Church Street",
-        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
-      },
-      "artists": [
-        {
-          "name": "Punch Brothers",
-          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
-        }
-      ],
-      "duration_ms": 300676,
-      "name": "Orphan Annie",
-      "url": "https://open.spotify.com/track/7tsWLFSZ7HNUDDF5UxUSZE"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Lyin' Low",
-        "url": "https://open.spotify.com/album/20XVs57B5nrk68OGkSbWh4"
-      },
-      "artists": [
-        {
-          "name": "Charles Wesley Godwin",
-          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
-        }
-      ],
-      "duration_ms": 258683,
-      "name": "Lyin' Low",
-      "url": "https://open.spotify.com/track/4zKzSlADNWYQ8dKOQ3eMf0"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "City on a Hill",
         "url": "https://open.spotify.com/album/0SAncQWJMyMMg9Ee0HvvUb"
       },
@@ -1019,18 +1003,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Roller Coaster",
-        "url": "https://open.spotify.com/album/2t78M1HYDWaiBqU7bzrgeg"
+        "name": "Lyin' Low",
+        "url": "https://open.spotify.com/album/20XVs57B5nrk68OGkSbWh4"
       },
       "artists": [
         {
-          "name": "Billy Gilman",
-          "url": "https://open.spotify.com/artist/6OqQbeNe7Pi7Zi7SNTi9ko"
+          "name": "Charles Wesley Godwin",
+          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
         }
       ],
-      "duration_ms": 181573,
-      "name": "Roller Coaster",
-      "url": "https://open.spotify.com/track/1HtXFOJnsyKNIsFnk2MySA"
+      "duration_ms": 258683,
+      "name": "Lyin' Low",
+      "url": "https://open.spotify.com/track/4zKzSlADNWYQ8dKOQ3eMf0"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1051,6 +1035,22 @@
       "duration_ms": 249000,
       "name": "Harder Than Steel",
       "url": "https://open.spotify.com/track/03xIPbTIXnqTJnElXpDYjY"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Roller Coaster",
+        "url": "https://open.spotify.com/album/2t78M1HYDWaiBqU7bzrgeg"
+      },
+      "artists": [
+        {
+          "name": "Billy Gilman",
+          "url": "https://open.spotify.com/artist/6OqQbeNe7Pi7Zi7SNTi9ko"
+        }
+      ],
+      "duration_ms": 181573,
+      "name": "Roller Coaster",
+      "url": "https://open.spotify.com/track/1HtXFOJnsyKNIsFnk2MySA"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Black Cowboys",
+        "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
+      },
+      "artists": [
+        {
+          "name": "Dom Flemons",
+          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
+        }
+      ],
+      "duration_ms": 162473,
+      "name": "Lonesome Old River Blues",
+      "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "In the Sweet by and By",
         "url": "https://open.spotify.com/album/7JZHTqJuqfFQDBqV0GqTE5"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 165213,
       "name": "Wedding Dress",
       "url": "https://open.spotify.com/track/61PiRWXdcKeWZyi3Lf6I9t"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Black Cowboys",
-        "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
-      },
-      "artists": [
-        {
-          "name": "Dom Flemons",
-          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
-        }
-      ],
-      "duration_ms": 162473,
-      "name": "Lonesome Old River Blues",
-      "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1291,22 +1291,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Hymns-Some Of Old, Some Of New",
-        "url": "https://open.spotify.com/album/7f5asZCvsayLsxzQtr8aJs"
+        "name": "Edges Run",
+        "url": "https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk"
       },
       "artists": [
         {
-          "name": "Julie and Dan",
-          "url": "https://open.spotify.com/artist/01Pk9rWj3jvIFILsJmXl7c"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
         }
       ],
-      "duration_ms": 229120,
-      "name": "The Seeker",
-      "url": "https://open.spotify.com/track/2vIaCDb7ZVDCtcReCMthKP"
+      "duration_ms": 194786,
+      "name": "Edges Run",
+      "url": "https://open.spotify.com/track/3LTKKY3qb8MmG3ZfJcfR0x"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1327,18 +1323,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Edges Run",
-        "url": "https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk"
+        "name": "Hymns-Some Of Old, Some Of New",
+        "url": "https://open.spotify.com/album/7f5asZCvsayLsxzQtr8aJs"
       },
       "artists": [
         {
-          "name": "Mipso",
-          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
+          "name": "Julie and Dan",
+          "url": "https://open.spotify.com/artist/01Pk9rWj3jvIFILsJmXl7c"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 194786,
-      "name": "Edges Run",
-      "url": "https://open.spotify.com/track/3LTKKY3qb8MmG3ZfJcfR0x"
+      "duration_ms": 229120,
+      "name": "The Seeker",
+      "url": "https://open.spotify.com/track/2vIaCDb7ZVDCtcReCMthKP"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/552YmmarnFx3XxnzCaqGCo"
+      },
+      "artists": [
+        {
+          "name": "Yes Ma'am",
+          "url": "https://open.spotify.com/artist/2ImmXDgaacATNycVOulRZg"
+        }
+      ],
+      "duration_ms": 153968,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/7lLdVymMzVJxq6sl8VPDzJ"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Live the Dream",
         "url": "https://open.spotify.com/album/0TxDZ0xlSYgwtS0Erao5iS"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 172773,
       "name": "Live the Dream",
       "url": "https://open.spotify.com/track/2f64sXdXeIZHKHtAdYcZ2p"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Runaway",
-        "url": "https://open.spotify.com/album/552YmmarnFx3XxnzCaqGCo"
-      },
-      "artists": [
-        {
-          "name": "Yes Ma'am",
-          "url": "https://open.spotify.com/artist/2ImmXDgaacATNycVOulRZg"
-        }
-      ],
-      "duration_ms": 153968,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/7lLdVymMzVJxq6sl8VPDzJ"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "The More I Learn",
+        "url": "https://open.spotify.com/album/63gK1MXpwjJkEXiorwMU0b"
+      },
+      "artists": [
+        {
+          "name": "Bryan Sutton",
+          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
+        }
+      ],
+      "duration_ms": 246853,
+      "name": "The More I Learn",
+      "url": "https://open.spotify.com/track/6TWeSDCjEn8xDA9OTaHcsL"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Message From Heaven",
         "url": "https://open.spotify.com/album/7eui7uH5V3HbAp0JLdHMTf"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 224800,
       "name": "Message From Heaven",
       "url": "https://open.spotify.com/track/5T2x4bRxNJJ7DxZVccf0WK"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "The More I Learn",
-        "url": "https://open.spotify.com/album/63gK1MXpwjJkEXiorwMU0b"
-      },
-      "artists": [
-        {
-          "name": "Bryan Sutton",
-          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
-        }
-      ],
-      "duration_ms": 246853,
-      "name": "The More I Learn",
-      "url": "https://open.spotify.com/track/6TWeSDCjEn8xDA9OTaHcsL"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Laws Of Gravity",
+        "url": "https://open.spotify.com/album/0yXaxoA7bBeXc31NQxiv93"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 275973,
+      "name": "1901: A Canyon Odyssey",
+      "url": "https://open.spotify.com/track/56xBiRC5zcb1Hvhnek8m1u"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Vol. II",
         "url": "https://open.spotify.com/album/67FkMHssT1EBNS6KzZTGoY"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 205933,
       "name": "She Left Me Standing on the Mountain",
       "url": "https://open.spotify.com/track/7JPuc4cWW62fMpL4iRldWY"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Laws Of Gravity",
-        "url": "https://open.spotify.com/album/0yXaxoA7bBeXc31NQxiv93"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 275973,
-      "name": "1901: A Canyon Odyssey",
-      "url": "https://open.spotify.com/track/56xBiRC5zcb1Hvhnek8m1u"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Twisted Pine",
-        "url": "https://open.spotify.com/album/5kZPWAZ9ms0hRmgt9hpijv"
-      },
-      "artists": [
-        {
-          "name": "Twisted Pine",
-          "url": "https://open.spotify.com/artist/1hS8I57cnaheZpt7Tdn6ps"
-        }
-      ],
-      "duration_ms": 252428,
-      "name": "When I Called Your Name",
-      "url": "https://open.spotify.com/track/6SZ1bNDsPyDeEaIq9cosxw"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/3rUBCaC8gHZH4yrGWsYZRb"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 139893,
       "name": "Super Moon",
       "url": "https://open.spotify.com/track/7a87b0XfUmeTYBrrjX50AH"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Twisted Pine",
+        "url": "https://open.spotify.com/album/5kZPWAZ9ms0hRmgt9hpijv"
+      },
+      "artists": [
+        {
+          "name": "Twisted Pine",
+          "url": "https://open.spotify.com/artist/1hS8I57cnaheZpt7Tdn6ps"
+        }
+      ],
+      "duration_ms": 252428,
+      "name": "When I Called Your Name",
+      "url": "https://open.spotify.com/track/6SZ1bNDsPyDeEaIq9cosxw"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1755,26 +1755,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Wheels Up (feat. Sierra Hull & Molly Tuttle)",
-        "url": "https://open.spotify.com/album/0GtT7uD8ebTxZ26ExOksy9"
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/1MKqppAnggvYNrKE2HGILZ"
       },
       "artists": [
         {
-          "name": "B\u00e9la Fleck",
-          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
-        },
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        },
-        {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+          "name": "The Grascals",
+          "url": "https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm"
         }
       ],
-      "duration_ms": 255369,
-      "name": "Wheels Up (feat. Sierra Hull & Molly Tuttle)",
-      "url": "https://open.spotify.com/track/38yl3Y2LbWFmphbaVwvKEy"
+      "duration_ms": 139000,
+      "name": "Maybelle",
+      "url": "https://open.spotify.com/track/6IBbvLtjyuA0kv30goCK42"
     }
   ],
   "unique_name": "Grass Roots",

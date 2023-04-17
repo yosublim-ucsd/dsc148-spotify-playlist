@@ -1,12 +1,12 @@
 {
   "description": "Hit the dance floor with your favorite bops!",
-  "num_followers": 396067,
+  "num_followers": 396376,
   "original_name": "Dance Pop Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTQ1NjAzMywwMDAwMDAwMDMxYzg5OWQzZTdiOTU1M2ZjM2EwOTc3NGZkODgzZDVm",
+  "snapshot_id": "MTY3OTQ1NjAzMywwMDAwMDAwMGZkNmExMTAwMWY0YmQzOGRjN2RmZGRmZjAzZDJkYjU5",
   "tracks": [
     {
       "added_at": "2023-03-10 05:01:00",
@@ -643,26 +643,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Where Did You Go (feat. MNEK)",
-        "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
-        }
-      ],
-      "duration_ms": 177689,
-      "name": "Where Did You Go? (feat. MNEK)",
-      "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "Love Tonight (David Guetta Remix)",
         "url": "https://open.spotify.com/album/2HYufzr6XUqSurRZdY0D9w"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 158095,
       "name": "Love Tonight (David Guetta Remix Edit)",
       "url": "https://open.spotify.com/track/2prnn41CblB8B4yWACDljP"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Where Did You Go (feat. MNEK)",
+        "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 177689,
+      "name": "Where Did You Go? (feat. MNEK)",
+      "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Goosebumps",
-        "url": "https://open.spotify.com/album/49HjM8mnjS9PgYjSC03tkS"
-      },
-      "artists": [
-        {
-          "name": "HVME",
-          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
-        }
-      ],
-      "duration_ms": 163208,
-      "name": "Goosebumps",
-      "url": "https://open.spotify.com/track/20McUFi8KCIVdNDLrkTDuZ"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "Summertime Sadness [Lana Del Rey vs. Cedric Gervais] (Cedric Gervais Remix)",
         "url": "https://open.spotify.com/album/1fXwOvaqIdkhp5F3fiFbCv"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 214912,
       "name": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix",
       "url": "https://open.spotify.com/track/6PUIzlqotEmPuBfjbwYWOB"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Goosebumps",
+        "url": "https://open.spotify.com/album/49HjM8mnjS9PgYjSC03tkS"
+      },
+      "artists": [
+        {
+          "name": "HVME",
+          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
+        }
+      ],
+      "duration_ms": 163208,
+      "name": "Goosebumps",
+      "url": "https://open.spotify.com/track/20McUFi8KCIVdNDLrkTDuZ"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -2059,6 +2059,26 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
+        "name": "What's Love Got to Do with It",
+        "url": "https://open.spotify.com/album/1JFKchcdu3ewuhA5PIHWno"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "duration_ms": 208156,
+      "name": "What's Love Got to Do with It",
+      "url": "https://open.spotify.com/track/3Be7CLdHZpyzsVijme39cW"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
         "name": "OK Not To Be OK",
         "url": "https://open.spotify.com/album/3wCtCJ8O6SlGBWYfzAlsb2"
       },
@@ -2075,26 +2095,6 @@
       "duration_ms": 159862,
       "name": "OK Not To Be OK",
       "url": "https://open.spotify.com/track/0zzVTGyRrWpQu8Fr28NRAv"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "Some Say (Felix Jaehn Remix)",
-        "url": "https://open.spotify.com/album/3HE3e3QqmuhAsxcJGtxyEr"
-      },
-      "artists": [
-        {
-          "name": "Nea",
-          "url": "https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E"
-        },
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        }
-      ],
-      "duration_ms": 186878,
-      "name": "Some Say - Felix Jaehn Remix",
-      "url": "https://open.spotify.com/track/7C1trmcQQ5n5RNy4l6ziCv"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -2119,22 +2119,22 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "What's Love Got to Do with It",
-        "url": "https://open.spotify.com/album/1JFKchcdu3ewuhA5PIHWno"
+        "name": "Some Say (Felix Jaehn Remix)",
+        "url": "https://open.spotify.com/album/3HE3e3QqmuhAsxcJGtxyEr"
       },
       "artists": [
         {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+          "name": "Nea",
+          "url": "https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E"
         },
         {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
         }
       ],
-      "duration_ms": 208156,
-      "name": "What's Love Got to Do with It",
-      "url": "https://open.spotify.com/track/3Be7CLdHZpyzsVijme39cW"
+      "duration_ms": 186878,
+      "name": "Some Say - Felix Jaehn Remix",
+      "url": "https://open.spotify.com/track/7C1trmcQQ5n5RNy4l6ziCv"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -2267,26 +2267,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Love Again (Imanbek Remix)",
-        "url": "https://open.spotify.com/album/1P0qTV2aAW913jN2rDjnl7"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Love Again - Imanbek Remix",
-      "url": "https://open.spotify.com/track/0zg8u9UUlvwSvBJYEjhgDT"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "UP",
         "url": "https://open.spotify.com/album/2jA1exLaHCcpHtDrGLKTmy"
       },
@@ -2303,6 +2283,26 @@
       "duration_ms": 148944,
       "name": "UP",
       "url": "https://open.spotify.com/track/2ykXJ9QVwx9Li8nsW0h6b2"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Love Again (Imanbek Remix)",
+        "url": "https://open.spotify.com/album/1P0qTV2aAW913jN2rDjnl7"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Love Again - Imanbek Remix",
+      "url": "https://open.spotify.com/track/0zg8u9UUlvwSvBJYEjhgDT"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -2491,26 +2491,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Shivers (Dillon Francis Remix)",
-        "url": "https://open.spotify.com/album/1IhjAej4bFQdXNh9yRwE7B"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        }
-      ],
-      "duration_ms": 127766,
-      "name": "Shivers (Dillon Francis Remix) [Main Mix]",
-      "url": "https://open.spotify.com/track/59zbXPD0j7JxsVVm480g3b"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "The London Sessions",
         "url": "https://open.spotify.com/album/6CIslPQSknp875cigkhKJC"
       },
@@ -2535,6 +2515,26 @@
       "duration_ms": 215759,
       "name": "Jackie Chan",
       "url": "https://open.spotify.com/track/4vvnuJlgBeNVwq3TNmLMNX"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Shivers (Dillon Francis Remix)",
+        "url": "https://open.spotify.com/album/1IhjAej4bFQdXNh9yRwE7B"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        }
+      ],
+      "duration_ms": 127766,
+      "name": "Shivers (Dillon Francis Remix) [Main Mix]",
+      "url": "https://open.spotify.com/track/59zbXPD0j7JxsVVm480g3b"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -2639,26 +2639,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Sunshine. The EP",
-        "url": "https://open.spotify.com/album/0XXoRMuytQq5EFiNmMXL6c"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        },
-        {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
-        }
-      ],
-      "duration_ms": 188825,
-      "name": "Sunshine - MOTi Remix",
-      "url": "https://open.spotify.com/track/1zgV7obuDgU0DEaNCmPw8u"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "A Town Called Paradise (Deluxe)",
         "url": "https://open.spotify.com/album/1116PKIKlArm87HVaPtonW"
       },
@@ -2675,6 +2655,26 @@
       "duration_ms": 190013,
       "name": "Wasted",
       "url": "https://open.spotify.com/track/7m3povhdMDLZwuEKak0l0n"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Sunshine. The EP",
+        "url": "https://open.spotify.com/album/0XXoRMuytQq5EFiNmMXL6c"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        },
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        }
+      ],
+      "duration_ms": 188825,
+      "name": "Sunshine - MOTi Remix",
+      "url": "https://open.spotify.com/track/1zgV7obuDgU0DEaNCmPw8u"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -2783,26 +2783,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Conversations in the Dark",
-        "url": "https://open.spotify.com/album/23c9fzxlE27spU05ATg1b2"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 210236,
-      "name": "Conversations in the Dark - John Legend vs. David Guetta",
-      "url": "https://open.spotify.com/track/20d27F17AZOxTJOEHAVK2Y"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "Exotica",
         "url": "https://open.spotify.com/album/4LIWp0dSuFmtNJrxdegyOG"
       },
@@ -2823,6 +2803,26 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
+        "name": "Conversations in the Dark",
+        "url": "https://open.spotify.com/album/23c9fzxlE27spU05ATg1b2"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 210236,
+      "name": "Conversations in the Dark - John Legend vs. David Guetta",
+      "url": "https://open.spotify.com/track/20d27F17AZOxTJOEHAVK2Y"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
         "name": "Don't Start Now (Remixes)",
         "url": "https://open.spotify.com/album/4bFD3e4YDki1tu4EQCfSdt"
       },
@@ -2839,26 +2839,6 @@
       "duration_ms": 216774,
       "name": "Don't Start Now - Purple Disco Machine Remix",
       "url": "https://open.spotify.com/track/2JzErxvclrRRG9bj9dEXR3"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "Heat Waves (Expansion Pack)",
-        "url": "https://open.spotify.com/album/57j3jda1XAM1xFdVamdVue"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        },
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        }
-      ],
-      "duration_ms": 243536,
-      "name": "Heat Waves - Oliver Heldens Remix",
-      "url": "https://open.spotify.com/track/6yvdWGtowJa7ffgc1UR5SF"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -2923,6 +2903,26 @@
       "duration_ms": 215648,
       "name": "you broke me first - Gryffin Remix",
       "url": "https://open.spotify.com/track/3Ni9jLlq3xPoOKv1HYlQrH"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Dreamland (+ Bonus Levels)",
+        "url": "https://open.spotify.com/album/4nr6ytQ4OrEralEu4LhIVp"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "duration_ms": 243536,
+      "name": "Heat Waves - Oliver Heldens Remix",
+      "url": "https://open.spotify.com/track/3k2FCI9rzGEvXnjP0BEZzp"
     },
     {
       "added_at": "2023-03-10 05:01:00",

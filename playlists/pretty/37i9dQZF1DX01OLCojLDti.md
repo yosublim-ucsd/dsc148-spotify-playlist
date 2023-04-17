@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01OLCojLDti.md) - [plain]
 
 > Music from "Love Live! Superstar!!" 「ラブライブ！スーパースター!!」の楽曲を1つのプレイリストで。©2022 プロジェクトラブライブ！スーパースター!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,455 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,472 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01OLCojLDti.md) - [plain]
 | 32 | [駆けるメリーゴーランド \- 澁谷かのん Ver.](https://open.spotify.com/track/2LcTth33ATPHEV5pIjnxDE) | [澁谷かのん \(CV.伊達さゆり\)](https://open.spotify.com/artist/2KO3nQQqN4LJAKQebedEHF) | [リエラのうた2](https://open.spotify.com/album/4uALKWcmsB7CZX4ZtUqEhB) | 3:41 |
 | 33 | [Dears](https://open.spotify.com/track/3AHuJ6AswDGQzMcgcoqxgA) | [葉月 恋 \(CV.青山なぎさ\)](https://open.spotify.com/artist/0VWeMWIDKNxCARCogBoyyD) | [リエラのうた](https://open.spotify.com/album/7KwBG3qnGU2FBsfXMkIVjn) | 3:42 |
 | 34 | [Ringing!](https://open.spotify.com/track/4mW90bggzjedGuWehaj3Jw) | [唐 可可 \(CV.Liyuu\)](https://open.spotify.com/artist/5ox19lYzPV4s1N3mTkNLRI) | [リエラのうた](https://open.spotify.com/album/7KwBG3qnGU2FBsfXMkIVjn) | 3:22 |
-| 35 | [Dears](https://open.spotify.com/track/3cAsFzMTD6F1MxlUUEqASJ) | [平安名すみれ \(CV.ペイトン尚未\)](https://open.spotify.com/artist/4Du7haj4stBA22g5jfb9Mp) | [リエラのうた](https://open.spotify.com/album/7KwBG3qnGU2FBsfXMkIVjn) | 3:41 |
-| 36 | [Ringing!](https://open.spotify.com/track/2bnDu15idoCjxzCbRhu1Zf) | [嵐 千砂都 \(CV.岬 なこ\)](https://open.spotify.com/artist/44iPyW0GCQm1Qk5e5UPT8H) | [リエラのうた](https://open.spotify.com/album/7KwBG3qnGU2FBsfXMkIVjn) | 3:21 |
-| 37 | [Message](https://open.spotify.com/track/4SI4KsP4AmYS8ZT0Z7NPc7) | [平安名すみれ \(CV.ペイトン尚未\)](https://open.spotify.com/artist/4Du7haj4stBA22g5jfb9Mp) | [リエラのうた](https://open.spotify.com/album/7KwBG3qnGU2FBsfXMkIVjn) | 3:45 |
+| 35 | [Ringing!](https://open.spotify.com/track/2bnDu15idoCjxzCbRhu1Zf) | [嵐 千砂都 \(CV.岬 なこ\)](https://open.spotify.com/artist/44iPyW0GCQm1Qk5e5UPT8H) | [リエラのうた](https://open.spotify.com/album/7KwBG3qnGU2FBsfXMkIVjn) | 3:21 |
+| 36 | [Message](https://open.spotify.com/track/4SI4KsP4AmYS8ZT0Z7NPc7) | [平安名すみれ \(CV.ペイトン尚未\)](https://open.spotify.com/artist/4Du7haj4stBA22g5jfb9Mp) | [リエラのうた](https://open.spotify.com/album/7KwBG3qnGU2FBsfXMkIVjn) | 3:45 |
+| 37 | [Dears](https://open.spotify.com/track/3cAsFzMTD6F1MxlUUEqASJ) | [平安名すみれ \(CV.ペイトン尚未\)](https://open.spotify.com/artist/4Du7haj4stBA22g5jfb9Mp) | [リエラのうた](https://open.spotify.com/album/7KwBG3qnGU2FBsfXMkIVjn) | 3:41 |
 | 38 | [Memories](https://open.spotify.com/track/42PBEUED8Oj2M0mY160lQz) | [嵐 千砂都 \(CV.岬 なこ\)](https://open.spotify.com/artist/44iPyW0GCQm1Qk5e5UPT8H) | [リエラのうた](https://open.spotify.com/album/7KwBG3qnGU2FBsfXMkIVjn) | 3:54 |
 | 39 | [Anniversary](https://open.spotify.com/track/2UTPVDJjgebX1313QNn0hx) | [葉月 恋 \(CV.青山なぎさ\)](https://open.spotify.com/artist/0VWeMWIDKNxCARCogBoyyD) | [リエラのうた](https://open.spotify.com/album/7KwBG3qnGU2FBsfXMkIVjn) | 3:30 |
 | 40 | [ノンフィクション!!](https://open.spotify.com/track/2MdKm0P7WVSW4sOy7C7gvG) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [ノンフィクション!! / Starlight Prologue \(第10話盤\)](https://open.spotify.com/album/1WL0ewJxIVf0dvOEhHxyfL) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01OLCojLDti.md) - [plain]
 | 49 | [未来の音が聴こえる](https://open.spotify.com/track/6ettFES2c7iA0YbPoQ5eYI) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [Sing!Shine!Smile! / 未来の音が聴こえる \(第12話盤\)](https://open.spotify.com/album/7J38QZOcQfuuZixGxTDYGA) | 4:41 |
 | 50 | [揺らぐわ](https://open.spotify.com/track/3wq3xOdy2VA9NfHzsF3BWQ) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [Welcome to 僕らのセカイ / Go!! リスタート \(第3話盤\)](https://open.spotify.com/album/6vYuZDrnINSx0ykjYb7SrD) | 3:29 |
 
-Snapshot ID: `MTY3ODgwNjA2MCwwMDAwMDAwMDQ0ZWU4OTI2YWU4ZmE2MmQ4NTA5YmU5NGRiNmIzNjky`
+Snapshot ID: `MTY3ODgwNjA2MCwwMDAwMDAwMDMwYTkxMzZiYWU3NDBhZjVhZGJkMzA4NDhlNzIzNThi`

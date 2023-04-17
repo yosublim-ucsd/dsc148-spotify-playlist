@@ -1,12 +1,12 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 101633,
+  "num_followers": 101756,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI4MTE1NywwMDAwMDAwMDA2OWYwOThmMDNhZmI0OTgyYzRlYmRlM2VhOTBkNmY3",
+  "snapshot_id": "MTY2MzI4MTE1NywwMDAwMDAwMGRkYWRmMzNhMDBmNWYyYzBiMDQ4Y2M3ZDRlMGMzZTM2",
   "tracks": [
     {
       "added_at": "2022-09-15 22:32:37",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Swim",
-        "url": "https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O"
-      },
-      "artists": [
-        {
-          "name": "Caribou",
-          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
-        }
-      ],
-      "duration_ms": 315585,
-      "name": "Odessa",
-      "url": "https://open.spotify.com/track/3D1P3oPecqAQy2u33gAhsM"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "Slick",
         "url": "https://open.spotify.com/album/2j2cyqYnr84LjriiNoTtqb"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 353453,
       "name": "Intimate Friends",
       "url": "https://open.spotify.com/track/35YSCRS2BshfXYdNAQxrs8"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "Swim",
+        "url": "https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "duration_ms": 315585,
+      "name": "Odessa",
+      "url": "https://open.spotify.com/track/3D1P3oPecqAQy2u33gAhsM"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Sister",
-        "url": "https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        }
-      ],
-      "duration_ms": 268829,
-      "name": "Sister",
-      "url": "https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "Best of The Black President",
         "url": "https://open.spotify.com/album/7325GfKum2hDK231i3LqA7"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 591706,
       "name": "Water No Get Enemy - Edit",
       "url": "https://open.spotify.com/track/43ile6cBzr9uaC4bJf6J3N"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "Sister",
+        "url": "https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "duration_ms": 268829,
+      "name": "Sister",
+      "url": "https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Model Man",
-        "url": "https://open.spotify.com/album/5K6zprAN97GLwBpDxiRgK4"
-      },
-      "artists": [
-        {
-          "name": "Model Man",
-          "url": "https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA"
-        }
-      ],
-      "duration_ms": 245653,
-      "name": "Clarity",
-      "url": "https://open.spotify.com/track/6ynQ0rykKOYSB75YxI0FrT"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "Horizon Unlimted",
         "url": "https://open.spotify.com/album/6NfAHT2xusXUA4E7WMj8HY"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 316866,
       "name": "Come On Home",
       "url": "https://open.spotify.com/track/3XPOwqZH6WsBLn3uURmXQ4"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "Model Man",
+        "url": "https://open.spotify.com/album/5K6zprAN97GLwBpDxiRgK4"
+      },
+      "artists": [
+        {
+          "name": "Model Man",
+          "url": "https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA"
+        }
+      ],
+      "duration_ms": 245653,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/6ynQ0rykKOYSB75YxI0FrT"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Shout Out! To Freedom...",
-        "url": "https://open.spotify.com/album/7aqqi7wkPw0zWqCqA5VQio"
-      },
-      "artists": [
-        {
-          "name": "Nightmares On Wax",
-          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
-        }
-      ],
-      "duration_ms": 274973,
-      "name": "Imagineering",
-      "url": "https://open.spotify.com/track/3s768KxqbbRHoOcIt4FDSN"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "Nightrider",
         "url": "https://open.spotify.com/album/4u5C68CzGi223ErII6MD3l"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 300990,
       "name": "Nightrider",
       "url": "https://open.spotify.com/track/0i7jazn1Rtp51KPM4iSs6z"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "Shout Out! To Freedom...",
+        "url": "https://open.spotify.com/album/7aqqi7wkPw0zWqCqA5VQio"
+      },
+      "artists": [
+        {
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        }
+      ],
+      "duration_ms": 274973,
+      "name": "Imagineering",
+      "url": "https://open.spotify.com/track/3s768KxqbbRHoOcIt4FDSN"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Diego E.P.",
-        "url": "https://open.spotify.com/album/6jBUi3Hjp0GihmvfNMmeGI"
-      },
-      "artists": [
-        {
-          "name": "Gotts Street Park",
-          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
-        }
-      ],
-      "duration_ms": 221946,
-      "name": "Ozu",
-      "url": "https://open.spotify.com/track/0fym4mro3A1876ysJ7ulJQ"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "Nterini - A COLORS SHOW",
         "url": "https://open.spotify.com/album/6JErS4p9PuTYxCmeWu6Eaq"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 231923,
       "name": "Nterini - A COLORS SHOW",
       "url": "https://open.spotify.com/track/3G7Mvni5YaF5UgJWGp5nQe"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "Diego E.P.",
+        "url": "https://open.spotify.com/album/6jBUi3Hjp0GihmvfNMmeGI"
+      },
+      "artists": [
+        {
+          "name": "Gotts Street Park",
+          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
+        }
+      ],
+      "duration_ms": 221946,
+      "name": "Ozu",
+      "url": "https://open.spotify.com/track/0fym4mro3A1876ysJ7ulJQ"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Wisdom Through Music",
-        "url": "https://open.spotify.com/album/2qR5kf6jPhN84zcrAHrlme"
+        "name": "Afro-Harping",
+        "url": "https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n"
       },
       "artists": [
         {
-          "name": "Pharoah Sanders",
-          "url": "https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud"
+          "name": "Dorothy Ashby",
+          "url": "https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt"
         }
       ],
-      "duration_ms": 318626,
-      "name": "Love Is Everywhere",
-      "url": "https://open.spotify.com/track/4IIxBK0L8uj7viwxhmuSc4"
+      "duration_ms": 221053,
+      "name": "Action Line",
+      "url": "https://open.spotify.com/track/1TZQO0HgZq6jj6P9GgD2xS"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -1095,6 +1095,22 @@
       "duration_ms": 336092,
       "name": "6000 Ft.",
       "url": "https://open.spotify.com/track/5VDnV2q6OrlrPsHsDZtIP1"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "Wisdom Through Music",
+        "url": "https://open.spotify.com/album/2qR5kf6jPhN84zcrAHrlme"
+      },
+      "artists": [
+        {
+          "name": "Pharoah Sanders",
+          "url": "https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud"
+        }
+      ],
+      "duration_ms": 318626,
+      "name": "Love Is Everywhere",
+      "url": "https://open.spotify.com/track/4IIxBK0L8uj7viwxhmuSc4"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -1131,18 +1147,18 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Afro-Harping",
-        "url": "https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n"
+        "name": "Your Queen Is A Reptile",
+        "url": "https://open.spotify.com/album/4pxnDGBdoGu88h8ZInX5f5"
       },
       "artists": [
         {
-          "name": "Dorothy Ashby",
-          "url": "https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt"
+          "name": "Sons Of Kemet",
+          "url": "https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki"
         }
       ],
-      "duration_ms": 221053,
-      "name": "Action Line",
-      "url": "https://open.spotify.com/track/1TZQO0HgZq6jj6P9GgD2xS"
+      "duration_ms": 314693,
+      "name": "My Queen Is Albertina Sisulu",
+      "url": "https://open.spotify.com/track/28uZjhU60BosFYSMJLJoQ3"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -1171,38 +1187,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Your Queen Is A Reptile",
-        "url": "https://open.spotify.com/album/4pxnDGBdoGu88h8ZInX5f5"
-      },
-      "artists": [
-        {
-          "name": "Sons Of Kemet",
-          "url": "https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki"
-        }
-      ],
-      "duration_ms": 314693,
-      "name": "My Queen Is Albertina Sisulu",
-      "url": "https://open.spotify.com/track/28uZjhU60BosFYSMJLJoQ3"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
-        "name": "Um Viol\u00e3o em Primeiro Plano",
-        "url": "https://open.spotify.com/album/2gRu1FqkaEtzVrJprvpwSM"
-      },
-      "artists": [
-        {
-          "name": "Rosinha De Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/3PaJldxyhusOBLFXRkI36B"
-        }
-      ],
-      "duration_ms": 252413,
-      "name": "Asa Branca",
-      "url": "https://open.spotify.com/track/6p5QJBr5iE2xvHatGebTbR"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "OnlyL",
         "url": "https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 288038,
       "name": "I Know",
       "url": "https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "Aletheia",
+        "url": "https://open.spotify.com/album/0RVj8aaUuoTOZ7pyGjll6b"
+      },
+      "artists": [
+        {
+          "name": "O'Flynn",
+          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
+        }
+      ],
+      "duration_ms": 276008,
+      "name": "Desmond's Empire",
+      "url": "https://open.spotify.com/track/57vEXvnoTpXlLi3wYES4uQ"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Aletheia",
-        "url": "https://open.spotify.com/album/0RVj8aaUuoTOZ7pyGjll6b"
+        "name": "Um Viol\u00e3o em Primeiro Plano",
+        "url": "https://open.spotify.com/album/2gRu1FqkaEtzVrJprvpwSM"
       },
       "artists": [
         {
-          "name": "O'Flynn",
-          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
+          "name": "Rosinha De Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/3PaJldxyhusOBLFXRkI36B"
         }
       ],
-      "duration_ms": 276008,
-      "name": "Desmond's Empire",
-      "url": "https://open.spotify.com/track/57vEXvnoTpXlLi3wYES4uQ"
+      "duration_ms": 252413,
+      "name": "Asa Branca",
+      "url": "https://open.spotify.com/track/6p5QJBr5iE2xvHatGebTbR"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Before",
-        "url": "https://open.spotify.com/album/5vqILcEeCT0N1DeJBsLrGE"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 287871,
-      "name": "Before",
-      "url": "https://open.spotify.com/track/0FjyvdAffyJcnvbv3dLFyw"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "Dr. Buzzard's Original Savannah Band",
         "url": "https://open.spotify.com/album/7EZlo6A3wcmAAjKozsQhiq"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 245573,
       "name": "Sunshower",
       "url": "https://open.spotify.com/track/5SWfqINCAFg3N4x9bcegYf"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "Before",
+        "url": "https://open.spotify.com/album/5vqILcEeCT0N1DeJBsLrGE"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 287871,
+      "name": "Before",
+      "url": "https://open.spotify.com/track/0FjyvdAffyJcnvbv3dLFyw"
     }
   ],
   "unique_name": "Turntable",

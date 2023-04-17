@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JIQWGoNdfp.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/cheetah/">Tyreek Hill</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,727 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,803 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JIQWGoNdfp.md) - [plain]
 | 45 | [Lifetime \- Remastered 2021](https://open.spotify.com/track/0tXq1ob3ysGZN2oK1abtyp) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Now](https://open.spotify.com/album/3Ul8Nyuzr2AEwE8iSrQepC) | 5:29 |
 | 46 | [The Matrimony \(feat\. Usher\)](https://open.spotify.com/track/7vlPI45Zzzk0palLdKry4k) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [The Album About Nothing](https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd) | 6:35 |
 | 47 | [Anything \(feat\. Next\)](https://open.spotify.com/track/38084tN66v4KHqiLpl9cN8) | [Jaheim](https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3), [Next](https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA) | [Ghetto Love](https://open.spotify.com/album/2Hvu2Yh4ghgcLvYLr3V5dM) | 4:47 |
-| 48 | [Countless Times](https://open.spotify.com/track/4Dy5oXGqZZLzOumW6Jho7o) | [Marzz](https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG) | [Love Letterz \(Deluxe\)](https://open.spotify.com/album/4QjiMgXdGCo8R2RPEqTjer) | 2:45 |
-| 49 | [Lately](https://open.spotify.com/track/0XmTCQWHgf6dOXJeLjXrzr) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [Tyrese](https://open.spotify.com/album/1srJ4xgMWliQdwquG81ObA) | 4:26 |
+| 48 | [Lately](https://open.spotify.com/track/0XmTCQWHgf6dOXJeLjXrzr) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [Tyrese](https://open.spotify.com/album/1srJ4xgMWliQdwquG81ObA) | 4:26 |
+| 49 | [Countless Times](https://open.spotify.com/track/4Dy5oXGqZZLzOumW6Jho7o) | [Marzz](https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG) | [Love Letterz \(Deluxe\)](https://open.spotify.com/album/4QjiMgXdGCo8R2RPEqTjer) | 2:45 |
 | 50 | [Fuckin' wit Me](https://open.spotify.com/track/3v10vlZlZPApvDz3kE4aNe) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [Sex, Love & Pain II](https://open.spotify.com/album/58WvlSmvoKkrvUuZHw322D) | 4:02 |
 
-Snapshot ID: `MTY2NDY3NTQ4MywwMDAwMDAwMDhmZTk0NDI1NjcwNGFjYTljMzFmMWU2ZTI1YTg2M2E5`
+Snapshot ID: `MTY2NDY3NTQ4MywwMDAwMDAwMDZiNzg2NTk1OTkzM2Q4YWJlNmJmYzQ0MzIxMGFiM2I2`

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3qxnY549ZIMw4QeJsOC3T6">Stephen Wrabel</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-128 songs - 7 hr 27 min
+129 songs - 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [With You \(feat\. Wrabel\)](https://open.spotify.com/track/7gleE2w0CsjsWCs184n522) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Kids in Love](https://open.spotify.com/album/47oyrKaeobswT4T8zyaxdM) | 3:30 | 2022-09-08 |  |
 | [Woman \(feat\. The Dap\-Kings Horns\)](https://open.spotify.com/track/1kJtfldK9F7XmsSiSNlbth) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [The Dap\-Kings Horns](https://open.spotify.com/artist/4LFgxG38Y0l4Fo1gdQelay) | [Rainbow](https://open.spotify.com/album/1IYVB8NfiRqhdZlTxjspNh) | 3:16 | 2022-09-08 |  |
 | [Written in the Scars \(feat\. Wrabel\)](https://open.spotify.com/track/0W68dlJ9e4OcVWbECODJDM) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [The Aviary](https://open.spotify.com/album/7DNmxxEuJe19wNVrinaXx4) | 3:23 | 2022-09-08 |  |
-| [You Know It's About You](https://open.spotify.com/track/0SsRtjLUlAPmUBOWChl1n6) | [Magical Thinker](https://open.spotify.com/artist/6gPHdKkaoP152zp04WDdq1), [Stephen Wrabel](https://open.spotify.com/artist/6M3KVfVHZ3Bn7WSNUvETSO) | [Ballerina \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7uK7lryagOhgixWruMVfu1) | 3:43 | 2022-09-08 |  |
+| [You Know It's About You](https://open.spotify.com/track/0SsRtjLUlAPmUBOWChl1n6) | [Magical Thinker](https://open.spotify.com/artist/6gPHdKkaoP152zp04WDdq1), [Stephen Wrabel](https://open.spotify.com/artist/6M3KVfVHZ3Bn7WSNUvETSO) | [Ballerina \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7uK7lryagOhgixWruMVfu1) | 3:43 | 2022-09-08 | 2023-04-17 |
+| [You Know It's About You](https://open.spotify.com/track/3Ta0pQe8LbxK3uvDbRBjbo) | [Magical Thinker](https://open.spotify.com/artist/6gPHdKkaoP152zp04WDdq1), [Stephen Wrabel](https://open.spotify.com/artist/6M3KVfVHZ3Bn7WSNUvETSO) | [Leap! \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6GGZvXaDSTPxzjSxIOfmPJ) | 3:43 | 2023-04-16 |  |
 
 \*This playlist was first scraped on 2022-09-09. Prior content cannot be recovered.

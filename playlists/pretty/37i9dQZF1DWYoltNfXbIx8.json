@@ -1,12 +1,12 @@
 {
   "description": "Uma playlist s\u00f3 com as origens do Rap nacional. Foto: MV Bill",
-  "num_followers": 68164,
+  "num_followers": 68235,
   "original_name": "No Princ\u00edpio Era o Verso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1MDA2MCwwMDAwMDAwMDYyODM3NDQ2MzZmYTFjZTEzZGZiYTY4NmQ2NDdhNjY3",
+  "snapshot_id": "MTY2OTk1MDA2MCwwMDAwMDAwMDllMzRjMzAwZDBkOThjZWVkNWJlZTM0NzJmZmE2Njk2",
   "tracks": [
     {
       "added_at": "2022-12-02 03:01:00",
@@ -936,17 +936,21 @@
       "added_at": "2022-12-02 03:01:00",
       "album": {
         "name": "Fortificando a Desobedi\u00eancia",
-        "url": "https://open.spotify.com/album/2cGL7y3C3yRMv7qo6Bk5Rt"
+        "url": "https://open.spotify.com/album/7u6It7Xkl1A6U7BxCDOfqn"
       },
       "artists": [
         {
           "name": "Xis",
           "url": "https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1"
+        },
+        {
+          "name": "Cibelle",
+          "url": "https://open.spotify.com/artist/3BfQyeTb3hG0Iy76tSWwAU"
         }
       ],
       "duration_ms": 340666,
       "name": "Sonho Meu",
-      "url": "https://open.spotify.com/track/7Dcm25Cx6oJb58R6omQT08"
+      "url": "https://open.spotify.com/track/1Vtd7pteeBGMy7y0hb7bcB"
     },
     {
       "added_at": "2022-12-02 03:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.",
-  "num_followers": 334052,
+  "num_followers": 334174,
   "original_name": "Soul Revived",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg0MDAwMCwwMDAwMDAwMDZjYWQzZTkzNGI0OTEzOGRlYjUwYzU4NDYzMWMyZDc1",
+  "snapshot_id": "MTY4MDg0MDAwMCwwMDAwMDAwMGQ2ZTczZWY4M2ExZjZmNmM3MTMwNGJmYTJjNTMyYTQx",
   "tracks": [
     {
       "added_at": "2023-03-31 04:11:02",
@@ -183,6 +183,38 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 382333,
+      "name": "Feel Like Makin' Love",
+      "url": "https://open.spotify.com/track/7hzgk557YLr0722EFkmp9Z"
+    },
+    {
+      "added_at": "2021-01-15 05:01:00",
+      "album": {
+        "name": "Million",
+        "url": "https://open.spotify.com/album/47KopnVrimQ96IMZqMU6EU"
+      },
+      "artists": [
+        {
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+        }
+      ],
+      "duration_ms": 271493,
+      "name": "Million",
+      "url": "https://open.spotify.com/track/1Ktsil4bC4hYRWlqMG4qK3"
+    },
+    {
+      "added_at": "2021-01-15 05:01:00",
+      "album": {
         "name": "My Name Is Joe",
         "url": "https://open.spotify.com/album/6zuCJaxmHKNKN5hMDF556U"
       },
@@ -211,38 +243,6 @@
       "duration_ms": 251640,
       "name": "Thank God I Found You (feat. Joe & Nas) - Make It Last Remix Edit",
       "url": "https://open.spotify.com/track/6nTcn8CybBcx0t7IaXEJ6O"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
-        "name": "Million",
-        "url": "https://open.spotify.com/album/47KopnVrimQ96IMZqMU6EU"
-      },
-      "artists": [
-        {
-          "name": "Tink",
-          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
-        }
-      ],
-      "duration_ms": 271493,
-      "name": "Million",
-      "url": "https://open.spotify.com/track/1Ktsil4bC4hYRWlqMG4qK3"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 382333,
-      "name": "Feel Like Makin' Love",
-      "url": "https://open.spotify.com/track/7hzgk557YLr0722EFkmp9Z"
     },
     {
       "added_at": "2021-01-15 05:01:00",
@@ -395,6 +395,22 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
+        "name": "The Best Of O'Bryan",
+        "url": "https://open.spotify.com/album/1UXHujdClgEK6DdAUlzLH1"
+      },
+      "artists": [
+        {
+          "name": "O'Bryan",
+          "url": "https://open.spotify.com/artist/7ynDETvwFfaLOGPz143R31"
+        }
+      ],
+      "duration_ms": 238693,
+      "name": "You And I",
+      "url": "https://open.spotify.com/track/2QptbtUWMta6rpuoXeO0ap"
+    },
+    {
+      "added_at": "2021-01-15 05:01:00",
+      "album": {
         "name": "Love's In Need Of Love Today",
         "url": "https://open.spotify.com/album/067timXrQdiROAy7dHLpIP"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 252697,
       "name": "Love's In Need Of Love Today",
       "url": "https://open.spotify.com/track/6eCeCP4MhQGPNAKPi6YD9p"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
-        "name": "The Best Of O'Bryan",
-        "url": "https://open.spotify.com/album/1UXHujdClgEK6DdAUlzLH1"
-      },
-      "artists": [
-        {
-          "name": "O'Bryan",
-          "url": "https://open.spotify.com/artist/7ynDETvwFfaLOGPz143R31"
-        }
-      ],
-      "duration_ms": 238693,
-      "name": "You And I",
-      "url": "https://open.spotify.com/track/2QptbtUWMta6rpuoXeO0ap"
     },
     {
       "added_at": "2021-01-15 05:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "sensual roots & indie folk.",
-  "num_followers": 543973,
+  "num_followers": 544103,
   "original_name": "intertwined",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMGE4NjBjNWU4N2YyMmNmY2RiNTA1YmU3ZmJhZTgzNmM2",
+  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMDE4NGE5NTAyODRhY2ViNzcxMTRhMDUyM2NhYzViYmI3",
   "tracks": [
     {
       "added_at": "2023-03-24 04:00:00",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "searching for freedom",
-        "url": "https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
-        }
-      ],
-      "duration_ms": 266999,
-      "name": "letting go",
-      "url": "https://open.spotify.com/track/30a5DDL7xq347S143EoOPp"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Power Over Me EP",
         "url": "https://open.spotify.com/album/0cXMRxSn0NE4CBitrQNo65"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 200435,
       "name": "Power Over Me - Acoustic",
       "url": "https://open.spotify.com/track/2E04ekeTRa6FsyK1twNZrL"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "searching for freedom",
+        "url": "https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "duration_ms": 266999,
+      "name": "letting go",
+      "url": "https://open.spotify.com/track/30a5DDL7xq347S143EoOPp"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "The Weather Station",
-        "url": "https://open.spotify.com/album/31zbZWJ5o51IijJaVjZDOQ"
-      },
-      "artists": [
-        {
-          "name": "The Weather Station",
-          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
-        }
-      ],
-      "duration_ms": 220253,
-      "name": "Thirty",
-      "url": "https://open.spotify.com/track/2TQXJmPwCgmIXpAtz9dyCI"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Theatrics",
         "url": "https://open.spotify.com/album/51EBcEd7bGD96iR6yXtYRC"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 218332,
       "name": "By Night",
       "url": "https://open.spotify.com/track/2HiVLVR0RrcjQagWwuiwob"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "The Weather Station",
+        "url": "https://open.spotify.com/album/31zbZWJ5o51IijJaVjZDOQ"
+      },
+      "artists": [
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "duration_ms": 220253,
+      "name": "Thirty",
+      "url": "https://open.spotify.com/track/2TQXJmPwCgmIXpAtz9dyCI"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "TRUE",
-        "url": "https://open.spotify.com/album/2sw2jwyFml3Ola4RO3by8v"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 186022,
-      "name": "TRUE",
-      "url": "https://open.spotify.com/track/4Cz2tFaDnb08uKHumBdYzu"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Never Tear Us Apart",
         "url": "https://open.spotify.com/album/7jLRehwciXcJKo5IYeii8k"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 230201,
       "name": "Never Tear Us Apart",
       "url": "https://open.spotify.com/track/5LfyeUdF28bljfTmVmD7gm"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "TRUE",
+        "url": "https://open.spotify.com/album/2sw2jwyFml3Ola4RO3by8v"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 186022,
+      "name": "TRUE",
+      "url": "https://open.spotify.com/track/4Cz2tFaDnb08uKHumBdYzu"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "Live at Eddie's Attic",
+        "url": "https://open.spotify.com/album/40LvDRa8e5cdgUFsKgSUzq"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 201520,
+      "name": "Tip of My Tongue (Live at Eddie's Attic)",
+      "url": "https://open.spotify.com/track/3bGJ53wSgjTPCQIRalZSTd"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Path of Least Resistance",
         "url": "https://open.spotify.com/album/6JXDyA1oQ7KETUndJDu6f2"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 218733,
       "name": "Lovers Who Make Love",
       "url": "https://open.spotify.com/track/07TynTJvMsM19UHI121q5l"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Live at Eddie's Attic",
-        "url": "https://open.spotify.com/album/40LvDRa8e5cdgUFsKgSUzq"
-      },
-      "artists": [
-        {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
-        }
-      ],
-      "duration_ms": 201520,
-      "name": "Tip of My Tongue (Live at Eddie's Attic)",
-      "url": "https://open.spotify.com/track/3bGJ53wSgjTPCQIRalZSTd"
     },
     {
       "added_at": "2023-03-24 04:00:00",

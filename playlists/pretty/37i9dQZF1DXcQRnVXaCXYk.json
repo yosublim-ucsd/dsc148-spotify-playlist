@@ -1,12 +1,12 @@
 {
   "description": "Neem plaats in je eigen Pop Lounge, thuis, onderweg of op het werk.",
-  "num_followers": 42087,
+  "num_followers": 42092,
   "original_name": "The Pop Lounge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTQ1MjY5MCwwMDAwMDAwMGFhY2QyMWRmZTkxMjQyODJjNjQ1NmUwNzUwZDRmZTQ2",
+  "snapshot_id": "MTY3NTQ1MjY5MCwwMDAwMDAwMDBhNjIxYmY0MmI5M2RkNTM3NmZkZWI0N2RlNTRhMDE2",
   "tracks": [
     {
       "added_at": "2023-01-19 23:00:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "We Were Liars",
-        "url": "https://open.spotify.com/album/1fYonUxSmAnow1U8f2vhUl"
-      },
-      "artists": [
-        {
-          "name": "Atticus Blue",
-          "url": "https://open.spotify.com/artist/5jBXUdZ1qWKhy263U0nXPs"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "We Were Liars",
-      "url": "https://open.spotify.com/track/6KkBc1KCGGPRZ8cEz6E5iG"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
         "name": "Next To You",
         "url": "https://open.spotify.com/album/4Y9sJ6dLSRR8EQHn6mXPDA"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 179253,
       "name": "Next To You",
       "url": "https://open.spotify.com/track/3UZqOA4wSDFnauAP63sRZO"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "We Were Liars",
+        "url": "https://open.spotify.com/album/1fYonUxSmAnow1U8f2vhUl"
+      },
+      "artists": [
+        {
+          "name": "Atticus Blue",
+          "url": "https://open.spotify.com/artist/5jBXUdZ1qWKhy263U0nXPs"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "We Were Liars",
+      "url": "https://open.spotify.com/track/6KkBc1KCGGPRZ8cEz6E5iG"
     },
     {
       "added_at": "2023-01-19 23:00:00",

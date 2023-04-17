@@ -1,12 +1,12 @@
 {
   "description": "Los pr\u00f3ceres de la historia del rock nacional. Julieta Venegas en portada.",
-  "num_followers": 479573,
+  "num_followers": 479744,
   "original_name": "Iconos del Rock Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTY4MDQzMSwwMDAwMDAwMDNkOGNkMjc2ZTRhNGU3ZjBmODY2Y2FmMmFiOTIyN2Vm",
+  "snapshot_id": "MTY3OTY4MDQzMSwwMDAwMDAwMGNkNWRiNTU2ZDU1ZDFlYzA5MTFlNmNhOTcxOTZjNjhl",
   "tracks": [
     {
       "added_at": "2023-03-24 17:53:51",
@@ -1159,8 +1159,8 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
-        "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
+        "name": "Zo\u00e9",
+        "url": "https://open.spotify.com/album/505KuEEsIP9oOFrhJC7s5x"
       },
       "artists": [
         {
@@ -1168,25 +1168,9 @@
           "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
         }
       ],
-      "duration_ms": 237840,
-      "name": "Dead - En Vivo",
-      "url": "https://open.spotify.com/track/7xFn3dihBf60SS4m1wDDt5"
-    },
-    {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
-        "name": "Salon Victoria",
-        "url": "https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o"
-      },
-      "artists": [
-        {
-          "name": "Salon Victoria",
-          "url": "https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea"
-        }
-      ],
-      "duration_ms": 183480,
-      "name": "Mi Vida es un Tango",
-      "url": "https://open.spotify.com/track/7dCOvIWIepwEn9Vxa2dpR6"
+      "duration_ms": 329573,
+      "name": "Deja Te Conecto",
+      "url": "https://open.spotify.com/track/0txzKMVwjig6MFiSn6TetQ"
     },
     {
       "added_at": "2022-08-25 00:53:36",
@@ -1203,6 +1187,22 @@
       "duration_ms": 250706,
       "name": "Tres Lunares",
       "url": "https://open.spotify.com/track/0THa3Vl0Ad1ksflpK10AJw"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
+        "name": "Salon Victoria",
+        "url": "https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o"
+      },
+      "artists": [
+        {
+          "name": "Salon Victoria",
+          "url": "https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea"
+        }
+      ],
+      "duration_ms": 183480,
+      "name": "Mi Vida es un Tango",
+      "url": "https://open.spotify.com/track/7dCOvIWIepwEn9Vxa2dpR6"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "Botas Negras",
-        "url": "https://open.spotify.com/album/7bcjqAbck3cO5Pv1dcrVox"
-      },
-      "artists": [
-        {
-          "name": "Radio Kaos",
-          "url": "https://open.spotify.com/artist/2kS6fJbWluJG8ay4WDRUIc"
-        }
-      ],
-      "duration_ms": 343826,
-      "name": "Botas Negras",
-      "url": "https://open.spotify.com/track/33gx6JR9By6ahTupIh2kCT"
-    },
-    {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
         "name": "Un Tributo",
         "url": "https://open.spotify.com/album/4AiVPWn2MW2q4C4BcF69lJ"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 230026,
       "name": "Payaso",
       "url": "https://open.spotify.com/track/7hzeu43gNUoHwh5CQrl3Jk"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
+        "name": "Botas Negras",
+        "url": "https://open.spotify.com/album/7bcjqAbck3cO5Pv1dcrVox"
+      },
+      "artists": [
+        {
+          "name": "Radio Kaos",
+          "url": "https://open.spotify.com/artist/2kS6fJbWluJG8ay4WDRUIc"
+        }
+      ],
+      "duration_ms": 343826,
+      "name": "Botas Negras",
+      "url": "https://open.spotify.com/track/33gx6JR9By6ahTupIh2kCT"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "Caballeros del Albedr\u00edo",
-        "url": "https://open.spotify.com/album/0BdAM5a8EHS92VtY6Qa4nz"
-      },
-      "artists": [
-        {
-          "name": "Austin TV",
-          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
-        }
-      ],
-      "duration_ms": 138400,
-      "name": "El Hombre P\u00e1nico",
-      "url": "https://open.spotify.com/track/0Wilr5Nh89RR5zhrd5UHXM"
-    },
-    {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
         "name": "Saga Mama",
         "url": "https://open.spotify.com/album/7rWjUHoF1VDRseBSYNLWjE"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 219000,
       "name": "Afroman",
       "url": "https://open.spotify.com/track/4Ghq7XXreyLUJmmRBGlbbw"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
+        "name": "Caballeros del Albedr\u00edo",
+        "url": "https://open.spotify.com/album/0BdAM5a8EHS92VtY6Qa4nz"
+      },
+      "artists": [
+        {
+          "name": "Austin TV",
+          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
+        }
+      ],
+      "duration_ms": 138400,
+      "name": "El Hombre P\u00e1nico",
+      "url": "https://open.spotify.com/track/0Wilr5Nh89RR5zhrd5UHXM"
     },
     {
       "added_at": "2022-01-28 17:39:37",

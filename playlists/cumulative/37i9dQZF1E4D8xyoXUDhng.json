@@ -1167,6 +1167,24 @@
     },
     {
       "album": {
+        "name": "The Best Gospel Songs Ever",
+        "url": "https://open.spotify.com/album/5nWYAnQYCMjNZJQRWquhVi"
+      },
+      "artists": [
+        {
+          "name": "Samson White",
+          "url": "https://open.spotify.com/artist/3oM6F6iZ78X4yaYBDsmHKm"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242506,
+      "name": "Every Praise",
+      "url": "https://open.spotify.com/track/50QimSjdNdPEE0ddkqhpc5"
+    },
+    {
+      "album": {
         "name": "Every Time I Breathe",
         "url": "https://open.spotify.com/album/0QIOGBUOtFj3DtO2W9qmiM"
       },
@@ -1276,6 +1294,24 @@
       "duration_ms": 432986,
       "name": "Faith",
       "url": "https://open.spotify.com/track/61bUZL0jHtyILBPZmmtNXp"
+    },
+    {
+      "album": {
+        "name": "The Worship Project",
+        "url": "https://open.spotify.com/album/2yiPVGDpKu9RGSoSvZceu1"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Butler",
+          "url": "https://open.spotify.com/artist/5gl2M2G5Dn5XTEW30iMMoD"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277573,
+      "name": "Falling In Love With Jesus",
+      "url": "https://open.spotify.com/track/1iEtiqgM2msOd1aQnWISfD"
     },
     {
       "album": {
@@ -1546,7 +1582,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-16",
+      "date_removed": null,
       "duration_ms": 257293,
       "name": "Give Me A Clean Heart",
       "url": "https://open.spotify.com/track/4JqqDnj1bxS9anq6m6IPy0"
@@ -1842,7 +1878,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-16",
+      "date_removed": null,
       "duration_ms": 364066,
       "name": "Hallelujah, Salvation and Glory",
       "url": "https://open.spotify.com/track/3wtEG3QWtLk7nO8WjSrokl"
@@ -2030,7 +2066,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-05",
+      "date_removed": null,
       "duration_ms": 279040,
       "name": "Holy Is The Lamb",
       "url": "https://open.spotify.com/track/314gW9paIqnhLx9ajEGwj8"
@@ -2426,7 +2462,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 213733,
       "name": "I Wish I Knew How It Feels to be Free",
       "url": "https://open.spotify.com/track/2mZ9Iw0rl6JmBkzrI3B979"
@@ -2622,6 +2658,24 @@
       "duration_ms": 205760,
       "name": "I'm Sure It's You (The Wedding Song)",
       "url": "https://open.spotify.com/track/0u5eGZeXOdwJxM0gfMObJw"
+    },
+    {
+      "album": {
+        "name": "Nobody but You",
+        "url": "https://open.spotify.com/album/0bGII8Qu64tXhPGu6uCPuq"
+      },
+      "artists": [
+        {
+          "name": "Norman Hutchins",
+          "url": "https://open.spotify.com/artist/2gya4YZQdto5OdF91ZdEzh"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253080,
+      "name": "I've Got My Mind Made Up",
+      "url": "https://open.spotify.com/track/17oXlnuKTi3Jqd8OBs4hfk"
     },
     {
       "album": {
@@ -3154,7 +3208,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 313348,
       "name": "Let Me Fly",
       "url": "https://open.spotify.com/track/5K343YA7wmeCEahItdpgKH"
@@ -3444,7 +3498,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-16",
+      "date_removed": null,
       "duration_ms": 62000,
       "name": "Loving Father",
       "url": "https://open.spotify.com/track/4LOiSOxdMM7LwENsMbOwRW"
@@ -3986,7 +4040,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 183968,
       "name": "O Come O Come Emmanuel",
       "url": "https://open.spotify.com/track/7hicYsdPGS2EQUlqXalwti"
@@ -4066,7 +4120,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 86893,
       "name": "Oh Sweet Wonder",
       "url": "https://open.spotify.com/track/2ppQGZRiNam0Nf2BFlowqa"
@@ -4102,7 +4156,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 214893,
       "name": "Only What You Do For Christ",
       "url": "https://open.spotify.com/track/5JnbeyIWWFvnrUPTT4iFyT"
@@ -4308,7 +4362,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 255773,
       "name": "Praise Medley: O Come Let Us Adore Him, For You Are Worthy, I Love You Lord, I Exalt Thee",
       "url": "https://open.spotify.com/track/3Ba0EiBNVAWxOQHxjigHGd"
@@ -4927,6 +4981,24 @@
     },
     {
       "album": {
+        "name": "The Awakening of Le'Andria Johnson (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/51OxmXlkvdMBwMEgwMkrJb"
+      },
+      "artists": [
+        {
+          "name": "Le'Andria Johnson",
+          "url": "https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258573,
+      "name": "Sooner or Later",
+      "url": "https://open.spotify.com/track/1Qjp4VEOz7usvQTDLf3D2I"
+    },
+    {
+      "album": {
         "name": "Hiding Place",
         "url": "https://open.spotify.com/album/5A5ePoPwlIuxVmn3cIhiFw"
       },
@@ -5090,7 +5162,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 307960,
       "name": "Sunday Best Medley 1",
       "url": "https://open.spotify.com/track/1AUuZwDpStVoX557mfssY1"
@@ -5202,7 +5274,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 99443,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/1pTkbmcMNIaQiGiyOXFuj7"
@@ -5542,7 +5614,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-14",
+      "date_removed": null,
       "duration_ms": 142000,
       "name": "The Storm Is Passing Over (Hymnal #595)",
       "url": "https://open.spotify.com/track/5d79A761pLh6BOWVNDVUgu"
@@ -5578,7 +5650,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 291813,
       "name": "There Is More",
       "url": "https://open.spotify.com/track/0RugrGfhtDCfFN4SUwg0th"
@@ -5806,7 +5878,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 225793,
       "name": "We Speak of the Realms",
       "url": "https://open.spotify.com/track/2Xqc9mFmVPxseH5wA1de4V"
@@ -5904,7 +5976,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 175609,
       "name": "When I Rose (From the Original TV Series Greenleaf: Season 4 Soundtrack) - Choir Version",
       "url": "https://open.spotify.com/track/6SYnCv1NNQZmvqRP6mahAX"
@@ -6088,7 +6160,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-16",
+      "date_removed": null,
       "duration_ms": 214600,
       "name": "You Amaze Me - I Just Want You Album Version",
       "url": "https://open.spotify.com/track/3LhV1K7c2PtAdmEdANSLxd"
@@ -6168,6 +6240,24 @@
       "duration_ms": 363506,
       "name": "You've Been So Faithful",
       "url": "https://open.spotify.com/track/5ZCc20XaRoEFD7xX3OPPNI"
+    },
+    {
+      "album": {
+        "name": "Lavish Worship",
+        "url": "https://open.spotify.com/album/346LyPDtxWHvzIB6j6D3Iz"
+      },
+      "artists": [
+        {
+          "name": "Ntokozo Mbambo",
+          "url": "https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276250,
+      "name": "Your Glory (Have Your Way)",
+      "url": "https://open.spotify.com/track/55kMx9E9g05z6cBzNl4Wdv"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng"

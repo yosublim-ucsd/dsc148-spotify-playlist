@@ -1,12 +1,12 @@
 {
   "description": "me gustas mucho. <3 I've got a crush on you.",
-  "num_followers": 289091,
+  "num_followers": 289144,
   "original_name": "internet crush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg4MjY4OSwwMDAwMDAwMDM4YWY4MDVjNzE4ZTA4ZTc0NmZhNzU2OTYxY2NhZGE2",
+  "snapshot_id": "MTY4MDg4MjY4OSwwMDAwMDAwMDZhMGM1NzBmZTExMjhmMDkwMzZiZmE5MWMzZDg4MDZl",
   "tracks": [
     {
       "added_at": "2023-04-07 15:51:29",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-04-07 15:51:29",
       "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
+    },
+    {
+      "added_at": "2023-04-07 15:51:29",
+      "album": {
         "name": "ARDIPITHECUS",
         "url": "https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 199604,
       "name": "Todo De Ti",
       "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
-    },
-    {
-      "added_at": "2023-04-07 15:51:29",
-      "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
     },
     {
       "added_at": "2023-04-07 15:51:29",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-04-07 15:51:29",
       "album": {
-        "name": "Backyard Boy (Stripped)",
-        "url": "https://open.spotify.com/album/4BXCJA3xYjgSk16CqK1Zrz"
-      },
-      "artists": [
-        {
-          "name": "Claire Rosinkranz",
-          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
-        }
-      ],
-      "duration_ms": 129240,
-      "name": "Backyard Boy",
-      "url": "https://open.spotify.com/track/04F42oEuKrRComYJfJuyVR"
-    },
-    {
-      "added_at": "2023-04-07 15:51:29",
-      "album": {
         "name": "Harmony House",
         "url": "https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 194693,
       "name": "Close To You",
       "url": "https://open.spotify.com/track/50PyquzZ9BaBwLZZd1AuuV"
+    },
+    {
+      "added_at": "2023-04-07 15:51:29",
+      "album": {
+        "name": "Backyard Boy (Stripped)",
+        "url": "https://open.spotify.com/album/4BXCJA3xYjgSk16CqK1Zrz"
+      },
+      "artists": [
+        {
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+        }
+      ],
+      "duration_ms": 129240,
+      "name": "Backyard Boy",
+      "url": "https://open.spotify.com/track/04F42oEuKrRComYJfJuyVR"
     },
     {
       "added_at": "2023-04-07 15:51:29",

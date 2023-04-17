@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 
 > DMV music breaking waves\. Cover: Shy Glizzy
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,126 likes - 73 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,132 likes - 73 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

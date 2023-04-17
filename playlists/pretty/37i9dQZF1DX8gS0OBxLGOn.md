@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gS0OBxLGOn.md) - [plain]
 
 > Sean bienvenidos al mundo del ska, el circo y la alegría con la banda favorita de Córdoba, Argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,380 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,427 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-1,390 songs - 3 day 2 hr 23 min
+1,392 songs - 3 day 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -362,6 +362,7 @@
 | [Ektarfa](https://open.spotify.com/track/70wFZWY6cKFxp3Qcq8uxH4) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Ektarfa](https://open.spotify.com/album/1iNdJOekTl1JSgPQqIYvDS) | 3:50 | 2022-06-14 | 2022-06-24 |
 | [El Aferrado](https://open.spotify.com/track/5H60a1evkC6f1VJ3TCkoIQ) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [El Aferrado](https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi) | 2:43 | 2022-06-23 | 2022-07-03 |
 | [El Amor De Su Vida](https://open.spotify.com/track/5zMgWyXawwhTbCh74tiMxD) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [El Aferrado](https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi) | 3:39 | 2022-06-22 | 2022-07-09 |
+| [El Colesterol](https://open.spotify.com/track/2j8FWFwF1kvyGcdQwzMl3F) | [Los Vendavales de Adan Melendez](https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4) | [Las Agüitas](https://open.spotify.com/album/0AzqeBnrMhpNakIGdnRwKD) | 2:56 | 2023-04-16 |  |
 | [El Gordo Trae El Mando](https://open.spotify.com/track/3kf0WdFOalKWBkCCLJo4mA) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [El Gordo Trae El Mando](https://open.spotify.com/album/0DqHNI5QhosQmpQ5Ojzqe6) | 1:52 | 2023-02-21 | 2023-03-29 |
 | [El Jami](https://open.spotify.com/track/05DOiyiRvyed2Kd5Z1sV7S) | [Grupo 3030](https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL) | [El Jami](https://open.spotify.com/album/511TVSxb1rXXuTfUHWdTXO) | 2:59 | 2022-09-08 | 2022-09-18 |
 | [Ela](https://open.spotify.com/track/4kvL0qtl0uMwiHHgSGAgJl) | [Andromache](https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv) | [Ela](https://open.spotify.com/album/6yLTAu9P2FW7uwTzchu1Xx) | 3:02 | 2022-05-14 | 2022-05-29 |
@@ -377,6 +378,7 @@
 | [En La Intimidad \| CROSSOVER \#1](https://open.spotify.com/track/7w7BrPbOjF5OxChs2dxFve) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [En La Intimidad \| CROSSOVER \#1](https://open.spotify.com/album/5OT9JgUd8WVWBJgYog7a82) | 2:45 | 2023-02-28 | 2023-03-22 |
 | [En lo profundo/Peso](https://open.spotify.com/track/4mEIqavz99DpHXxi3wK46I) | [Sugey Torres](https://open.spotify.com/artist/1ND1UzX6EmIrVxfsRowxIc) | [Encanto \(Banda Sonora Original en Español\)](https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF) | 3:22 | 2022-01-06 | 2022-01-24 |
 | [Endlos\_demo](https://open.spotify.com/track/4tQA4uDHh6iPaQLWaxeQqH) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [Endlos\_demo](https://open.spotify.com/album/1kMIcfGn8lMbLwrNAmpnEj) | 2:17 | 2023-01-26 | 2023-02-01 |
+| [Engelbewaarder](https://open.spotify.com/track/2C2vSufLm1wLq2GjDH3iMh) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Engelbewaarder](https://open.spotify.com/album/3c6Hst9lqpnnRRpEbP1RxH) | 3:16 | 2023-04-16 |  |
 | [engravings](https://open.spotify.com/track/4u5CfuAGAHNYDIHSSW7BiY) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [engravings](https://open.spotify.com/album/2SbLcM1nwlKO76evmEuX6w) | 3:00 | 2022-07-19 | 2022-08-10 |
 | [Ennai Vittu \(From "Love Today"\)](https://open.spotify.com/track/3LP4QpKptfe2yEC7oG5iNa) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Ennai Vittu \(From "Love Today"\)](https://open.spotify.com/album/7u2XibFdWx7ru0qUKHgkOe) | 4:04 | 2022-11-11 | 2022-12-08 |
 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 | 2022-03-16 | 2022-04-13 |
@@ -494,7 +496,7 @@
 | [Granite](https://open.spotify.com/track/0rcJX1gJdAAm7vnqY1H7O2) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Granite](https://open.spotify.com/album/35zx0t2picyGskSU3QceVr) | 3:45 | 2023-02-19 | 2023-02-22 |
 | [Great Balls Of Fire \- Live](https://open.spotify.com/track/79iLGWV1TP277jSF8QJEo3) | [Miles Teller](https://open.spotify.com/artist/0Mwiznen8otvLN9KAHeUlq) | [Top Gun: Maverick \(Music From The Motion Picture\)](https://open.spotify.com/album/3tjIKRAPBy5Qu4z8F5HmBz) | 1:54 | 2022-06-21 | 2022-06-29 |
 | [Growing Old With You](https://open.spotify.com/track/5n4kMW5dn7MHFhXQuJb9zG) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Growing Old With You](https://open.spotify.com/album/161OJ4mZwXGzdeLI2jibXZ) | 3:16 | 2022-02-20 | 2022-03-16 |
-| [GTA IV](https://open.spotify.com/track/4anem4UYsj3JAJUucRMrrO) | [Raul Apxpei](https://open.spotify.com/artist/4WHGb6eSnaaS9cbTJYEo6l) | [GTA IV](https://open.spotify.com/album/4kb9aD0hlYl8V1ubktpHUG) | 2:18 | 2023-04-14 |  |
+| [GTA IV](https://open.spotify.com/track/4anem4UYsj3JAJUucRMrrO) | [Raul Apxpei](https://open.spotify.com/artist/4WHGb6eSnaaS9cbTJYEo6l) | [GTA IV](https://open.spotify.com/album/4kb9aD0hlYl8V1ubktpHUG) | 2:18 | 2023-04-14 | 2023-04-17 |
 | [Gökyüzünü Tutamam](https://open.spotify.com/track/4O9hcXs1ohtbw4xnMU8wfo) | [Can Koç](https://open.spotify.com/artist/3O6mcOK5C1hkMfwrSkNPMM) | [Gökyüzünü Tutamam](https://open.spotify.com/album/37iuuRYc7PaOzwN8pWfE8M) | 3:15 | 2022-04-04 | 2022-06-07 |
 | [Gözler Yalan Söylemez](https://open.spotify.com/track/6Y7B1Jyw9RJJtCTbGnw6zJ) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Gözler Yalan Söylemez](https://open.spotify.com/album/2WnAt4LEDWFMRn0bW3PR0s) | 2:13 | 2022-03-23 | 2022-04-06 |
 | [Habits](https://open.spotify.com/track/4UGvqm3e7UElrrriPtnhwz) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Habits](https://open.spotify.com/album/4KKuhABzFkGE9UAucodfUo) | 2:16 | 2022-09-19 | 2022-09-21 |
@@ -969,7 +971,7 @@
 | [Playboy](https://open.spotify.com/track/45GDh5cZcRVOAyQqZWxiUt) | [Jx.Zero](https://open.spotify.com/artist/3mMSaohBdsQgDKFmsJ5n2d) | [In My Sins](https://open.spotify.com/album/4GENTWizn55KM44eriqNq8) | 2:32 | 2022-02-07 | 2022-03-16 |
 | [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 | 2022-12-27 | 2023-03-02 |
 | [PLAYGROUND](https://open.spotify.com/track/5gitknsNQkrsCwfIbWK8Kd) | [Vivi](https://open.spotify.com/artist/4UhPHvXjn0st73ksfh8DjU) | [PLAYGROUND](https://open.spotify.com/album/3hPfwefUmHJZDXrJpdftxi) | 2:19 | 2023-01-09 | 2023-01-18 |
-| [Pobre Corazón](https://open.spotify.com/track/1gpayq8BQ8Z1AZSCHUeZOC) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P) | [Pobre Corazón](https://open.spotify.com/album/1IV4edNM4eYtHUOieGtIj9) | 3:18 | 2023-04-10 |  |
+| [Pobre Corazón](https://open.spotify.com/track/1gpayq8BQ8Z1AZSCHUeZOC) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P) | [Pobre Corazón](https://open.spotify.com/album/1IV4edNM4eYtHUOieGtIj9) | 3:18 | 2023-04-10 | 2023-04-17 |
 | [Poland](https://open.spotify.com/track/74loibzxXRL875X20kenvk) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Poland](https://open.spotify.com/album/5LZiWbqOpj6g8uxSHch12S) | 1:23 | 2022-11-01 | 2022-11-09 |
 | [Polaroid Love](https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 3:04 | 2022-02-01 | 2022-03-09 |
 | [Pongámonos De Acuerdo](https://open.spotify.com/track/1OZpgVRQKkxcoeEocqTMRZ) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [El Aferrado](https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi) | 2:41 | 2022-06-22 | 2022-07-20 |

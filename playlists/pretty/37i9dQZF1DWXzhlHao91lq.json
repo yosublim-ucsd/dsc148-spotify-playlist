@@ -1,12 +1,12 @@
 {
   "description": "\u4ee5\u8f15\u5feb\u53c8\u5bcc\u539f\u91ce\u6c23\u606f\u7684\u6c11\u8b20\u642d\u914d\u5348\u8336\uff0c\u8b93\u8033\u969b\u3001\u9f52\u9830\u4e00\u540c\u7559\u9999\uff0c\u597d\u5fc3\u60c5\u958b\u82b1\u7d50\u679c\u3002",
-  "num_followers": 66535,
+  "num_followers": 66567,
   "original_name": "\u82b1\u8349\u4e0b\u5348\u8336",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTEwMjgyOCwwMDAwMDAwMDQ3MGM5YTZhZmY2NTA3OTgyNGUzM2Y2YjQ4OTU2OTBh",
+  "snapshot_id": "MTY4MTEwMjgyOCwwMDAwMDAwMDBjOWQyYmJjNWEzY2UwNWEwNTY2ZmE5YjZkMzM5M2Zj",
   "tracks": [
     {
       "added_at": "2023-04-10 05:00:27",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-04-10 05:00:27",
       "album": {
-        "name": "Empty House",
-        "url": "https://open.spotify.com/album/3XGjvft85BAbITUEqMgNTu"
-      },
-      "artists": [
-        {
-          "name": "GANGGA",
-          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
-        }
-      ],
-      "duration_ms": 212636,
-      "name": "Empty House",
-      "url": "https://open.spotify.com/track/1iIh7kxpDQb95xTfsIk3Ew"
-    },
-    {
-      "added_at": "2023-04-10 05:00:27",
-      "album": {
         "name": "Place We Were Made",
         "url": "https://open.spotify.com/album/3lAphThw6i1jHzvXVGXJmE"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 185274,
       "name": "Place We Were Made",
       "url": "https://open.spotify.com/track/7nZF59EvFUshBQfhHev64D"
+    },
+    {
+      "added_at": "2023-04-10 05:00:27",
+      "album": {
+        "name": "Empty House",
+        "url": "https://open.spotify.com/album/3XGjvft85BAbITUEqMgNTu"
+      },
+      "artists": [
+        {
+          "name": "GANGGA",
+          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
+        }
+      ],
+      "duration_ms": 212636,
+      "name": "Empty House",
+      "url": "https://open.spotify.com/track/1iIh7kxpDQb95xTfsIk3Ew"
     },
     {
       "added_at": "2023-04-10 05:00:27",

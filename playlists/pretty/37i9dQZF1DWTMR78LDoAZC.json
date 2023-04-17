@@ -1,12 +1,12 @@
 {
   "description": "Left of center indie/alternative LGBTQIA+ artists. Cover: Miya Folick",
-  "num_followers": 112809,
+  "num_followers": 112974,
   "original_name": "Alternative Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODIxNzM4MSwwMDAwMDAwMDI5MTgwZDAxZjIxYTQxMmFhN2U0OTdlMmQ5ZTcxN2Y3",
+  "snapshot_id": "MTY3ODIxNzM4MSwwMDAwMDAwMGU2YTg1Nzg3NDBjNjk4OWI4NmY1YjVlYjdjYTlkMDI0",
   "tracks": [
     {
       "added_at": "2023-03-07 19:29:41",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-03-07 19:29:41",
       "album": {
-        "name": "Super Monster",
-        "url": "https://open.spotify.com/album/0QPFWBu8oVVNtekmNzlVvW"
-      },
-      "artists": [
-        {
-          "name": "Claud",
-          "url": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1"
-        }
-      ],
-      "duration_ms": 188097,
-      "name": "Soft Spot",
-      "url": "https://open.spotify.com/track/30bqNfOgcJOw2EWJJl1w5J"
-    },
-    {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
         "name": "Sound & Color (Deluxe)",
         "url": "https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 268853,
       "name": "This Feeling",
       "url": "https://open.spotify.com/track/6qpVj3AuwobyWyDdg7TPay"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
+        "name": "Super Monster",
+        "url": "https://open.spotify.com/album/0QPFWBu8oVVNtekmNzlVvW"
+      },
+      "artists": [
+        {
+          "name": "Claud",
+          "url": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1"
+        }
+      ],
+      "duration_ms": 188097,
+      "name": "Soft Spot",
+      "url": "https://open.spotify.com/track/30bqNfOgcJOw2EWJJl1w5J"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-03-07 19:29:41",
       "album": {
-        "name": "Little Oblivions",
-        "url": "https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A"
-      },
-      "artists": [
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        }
-      ],
-      "duration_ms": 174773,
-      "name": "Faith Healer",
-      "url": "https://open.spotify.com/track/5M7jnmPrtHgL5H4fTewJch"
-    },
-    {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
         "name": "Swamp Ophelia",
         "url": "https://open.spotify.com/album/1X0bc0O18Dj5eqh0owcw21"
       },
@@ -615,18 +599,18 @@
     {
       "added_at": "2023-03-07 19:29:41",
       "album": {
-        "name": "are you?",
-        "url": "https://open.spotify.com/album/3EswyAfo6ryjlpeZ48lVvb"
+        "name": "Little Oblivions",
+        "url": "https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A"
       },
       "artists": [
         {
-          "name": "Zeph",
-          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
         }
       ],
-      "duration_ms": 197773,
-      "name": "are you?",
-      "url": "https://open.spotify.com/track/22sTjPna1Haei3cRLgAUh0"
+      "duration_ms": 174773,
+      "name": "Faith Healer",
+      "url": "https://open.spotify.com/track/5M7jnmPrtHgL5H4fTewJch"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -643,6 +627,22 @@
       "duration_ms": 258665,
       "name": "Outta Time",
       "url": "https://open.spotify.com/track/3usFKA7XXOtaIqDdH6mUx9"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
+        "name": "are you?",
+        "url": "https://open.spotify.com/album/3EswyAfo6ryjlpeZ48lVvb"
+      },
+      "artists": [
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "duration_ms": 197773,
+      "name": "are you?",
+      "url": "https://open.spotify.com/track/22sTjPna1Haei3cRLgAUh0"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-03-07 19:29:41",
       "album": {
-        "name": "Found",
-        "url": "https://open.spotify.com/album/5CMCYw32tcYsqrPZnCypHx"
-      },
-      "artists": [
-        {
-          "name": "Emily Vu",
-          "url": "https://open.spotify.com/artist/3t3oOB1GYe4PFV2X6D29NS"
-        }
-      ],
-      "duration_ms": 144592,
-      "name": "Self Love",
-      "url": "https://open.spotify.com/track/2MBVnShnrBNvjdtMBCWkbp"
-    },
-    {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
         "name": "Daddy's Home",
         "url": "https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 257519,
       "name": "The Melting Of The Sun",
       "url": "https://open.spotify.com/track/3WD3w5uSzAGJWrNFnHhi1a"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
+        "name": "Found",
+        "url": "https://open.spotify.com/album/5CMCYw32tcYsqrPZnCypHx"
+      },
+      "artists": [
+        {
+          "name": "Emily Vu",
+          "url": "https://open.spotify.com/artist/3t3oOB1GYe4PFV2X6D29NS"
+        }
+      ],
+      "duration_ms": 144592,
+      "name": "Self Love",
+      "url": "https://open.spotify.com/track/2MBVnShnrBNvjdtMBCWkbp"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-03-07 19:29:41",
       "album": {
-        "name": "Peak",
-        "url": "https://open.spotify.com/album/3DlqoysgHCd3CLV4LUOCnh"
-      },
-      "artists": [
-        {
-          "name": "Choker",
-          "url": "https://open.spotify.com/artist/5XQRfs0gXs30aWUn1Umves"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "El Dorado",
-      "url": "https://open.spotify.com/track/6x93hzBoL7HpirMN2P48co"
-    },
-    {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
         "name": "Blondshell",
         "url": "https://open.spotify.com/album/46r4MXX8kzBWSwJg2WVm9Y"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 216852,
       "name": "Olympus",
       "url": "https://open.spotify.com/track/428djqRa5cPXovbZIYQOIO"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
+        "name": "Peak",
+        "url": "https://open.spotify.com/album/3DlqoysgHCd3CLV4LUOCnh"
+      },
+      "artists": [
+        {
+          "name": "Choker",
+          "url": "https://open.spotify.com/artist/5XQRfs0gXs30aWUn1Umves"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "El Dorado",
+      "url": "https://open.spotify.com/track/6x93hzBoL7HpirMN2P48co"
     },
     {
       "added_at": "2023-03-07 19:29:41",

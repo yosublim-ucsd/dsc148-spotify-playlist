@@ -1,12 +1,12 @@
 {
   "description": "Svensk punk fr\u00e5n f\u00f6rr och nu. \n",
-  "num_followers": 28086,
+  "num_followers": 28093,
   "original_name": "Svensk Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQyMzIwMCwwMDAwMDAwMDhiZmE1NDAzMzlhOWFiMjkwZDdhN2NlY2RiNjA2Zjlk",
+  "snapshot_id": "MTY4MTQyMzIwMCwwMDAwMDAwMGY3MGI4MzFlN2Q2M2FjNzVlNGM2NGY1NTcyOTg0ZmFj",
   "tracks": [
     {
       "added_at": "2023-04-13 22:00:00",
@@ -495,6 +495,22 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
+        "name": "\u00c4ndras och f\u00f6r\u00e4ndra",
+        "url": "https://open.spotify.com/album/1CBwaG5G67eyftT3LhOAOA"
+      },
+      "artists": [
+        {
+          "name": "Lastkaj 14",
+          "url": "https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI"
+        }
+      ],
+      "duration_ms": 125440,
+      "name": "\u00c4ndras och f\u00f6r\u00e4ndra",
+      "url": "https://open.spotify.com/track/3ThgiJYysAuWrabao04nAj"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
         "name": "Noppriga Tights Och Moonboots",
         "url": "https://open.spotify.com/album/7Ej9w61IrbodhAxrNRXYTn"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 109800,
       "name": "En slemmig torsk",
       "url": "https://open.spotify.com/track/0lHqNKA2IX8MzQwLNPbbY8"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
-        "name": "\u00c4ndras och f\u00f6r\u00e4ndra",
-        "url": "https://open.spotify.com/album/1CBwaG5G67eyftT3LhOAOA"
-      },
-      "artists": [
-        {
-          "name": "Lastkaj 14",
-          "url": "https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI"
-        }
-      ],
-      "duration_ms": 125440,
-      "name": "\u00c4ndras och f\u00f6r\u00e4ndra",
-      "url": "https://open.spotify.com/track/3ThgiJYysAuWrabao04nAj"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -607,18 +607,18 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Ond saga",
-        "url": "https://open.spotify.com/album/4ZjxaSk7kgGkWIttkK7D0X"
+        "name": "Grit",
+        "url": "https://open.spotify.com/album/5j376oRcfB6bEovuA5Ssod"
       },
       "artists": [
         {
-          "name": "KSMB",
-          "url": "https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71"
+          "name": "Mimikry",
+          "url": "https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv"
         }
       ],
-      "duration_ms": 204400,
-      "name": "Sverigev\u00e4nner",
-      "url": "https://open.spotify.com/track/74ZYleEd9SYtyziSyvaDb3"
+      "duration_ms": 174753,
+      "name": "Jag l\u00e4mnar festen",
+      "url": "https://open.spotify.com/track/0BizThcD0irhGDGoZNCn1z"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -639,18 +639,18 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Pengar Har Inga \u00d6gon",
-        "url": "https://open.spotify.com/album/1ueBZ7RDpKS1kv4VYTaZRY"
+        "name": "Ond saga",
+        "url": "https://open.spotify.com/album/4ZjxaSk7kgGkWIttkK7D0X"
       },
       "artists": [
         {
-          "name": "De Lyckliga Kompisarna",
-          "url": "https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd"
+          "name": "KSMB",
+          "url": "https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71"
         }
       ],
-      "duration_ms": 154226,
-      "name": "Johanna",
-      "url": "https://open.spotify.com/track/2ekTSYW68ShERRzsPBbRaF"
+      "duration_ms": 204400,
+      "name": "Sverigev\u00e4nner",
+      "url": "https://open.spotify.com/track/74ZYleEd9SYtyziSyvaDb3"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -671,18 +671,18 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Grit",
-        "url": "https://open.spotify.com/album/5j376oRcfB6bEovuA5Ssod"
+        "name": "Pengar Har Inga \u00d6gon",
+        "url": "https://open.spotify.com/album/1ueBZ7RDpKS1kv4VYTaZRY"
       },
       "artists": [
         {
-          "name": "Mimikry",
-          "url": "https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv"
+          "name": "De Lyckliga Kompisarna",
+          "url": "https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd"
         }
       ],
-      "duration_ms": 174753,
-      "name": "Jag l\u00e4mnar festen",
-      "url": "https://open.spotify.com/track/0BizThcD0irhGDGoZNCn1z"
+      "duration_ms": 154226,
+      "name": "Johanna",
+      "url": "https://open.spotify.com/track/2ekTSYW68ShERRzsPBbRaF"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "[emo]",
-        "url": "https://open.spotify.com/album/57RyBvC6QTcd13XRfo9MDP"
-      },
-      "artists": [
-        {
-          "name": "Kardinal Synd",
-          "url": "https://open.spotify.com/artist/32KVyD0F48q3QNpSET788O"
-        }
-      ],
-      "duration_ms": 192362,
-      "name": "Simpel Matematik",
-      "url": "https://open.spotify.com/track/3v0YqaZ4UG78gzaQDiPbAQ"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
         "name": "Ebba Gr\u00f6n 1978 - 1982",
         "url": "https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R"
       },
@@ -799,18 +783,34 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "V\u00e4rdel\u00f6s",
-        "url": "https://open.spotify.com/album/4j1KS0IccBP03iFKJpj0qp"
+        "name": "[emo]",
+        "url": "https://open.spotify.com/album/57RyBvC6QTcd13XRfo9MDP"
       },
       "artists": [
         {
-          "name": "Sten & Stalin",
-          "url": "https://open.spotify.com/artist/7xS4Uw7T0pNePx7S238bM9"
+          "name": "Kardinal Synd",
+          "url": "https://open.spotify.com/artist/32KVyD0F48q3QNpSET788O"
         }
       ],
-      "duration_ms": 123560,
-      "name": "Feta Gubbar",
-      "url": "https://open.spotify.com/track/0XwpJFzmXViS6TImtpv9lM"
+      "duration_ms": 192362,
+      "name": "Simpel Matematik",
+      "url": "https://open.spotify.com/track/3v0YqaZ4UG78gzaQDiPbAQ"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "Alla sover",
+        "url": "https://open.spotify.com/album/6Ey1sBXBiOW7Y3QCyenE0v"
+      },
+      "artists": [
+        {
+          "name": "Mimikry",
+          "url": "https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv"
+        }
+      ],
+      "duration_ms": 167648,
+      "name": "Brinner",
+      "url": "https://open.spotify.com/track/30UvZ7ZoerQChs2wLgTuqR"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -831,6 +831,22 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
+        "name": "V\u00e4rdel\u00f6s",
+        "url": "https://open.spotify.com/album/4j1KS0IccBP03iFKJpj0qp"
+      },
+      "artists": [
+        {
+          "name": "Sten & Stalin",
+          "url": "https://open.spotify.com/artist/7xS4Uw7T0pNePx7S238bM9"
+        }
+      ],
+      "duration_ms": 123560,
+      "name": "Feta Gubbar",
+      "url": "https://open.spotify.com/track/0XwpJFzmXViS6TImtpv9lM"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
         "name": "Snabbmat F\u00f6r Folk I Farten",
         "url": "https://open.spotify.com/album/2zyjwH3dY4mqHEykHoKzTh"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 210333,
       "name": "Sibylla",
       "url": "https://open.spotify.com/track/3OhmF7xJuoNr5EQNWcw03q"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
-        "name": "Alla sover",
-        "url": "https://open.spotify.com/album/6Ey1sBXBiOW7Y3QCyenE0v"
-      },
-      "artists": [
-        {
-          "name": "Mimikry",
-          "url": "https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv"
-        }
-      ],
-      "duration_ms": 167648,
-      "name": "Brinner",
-      "url": "https://open.spotify.com/track/30UvZ7ZoerQChs2wLgTuqR"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -927,6 +927,22 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
+        "name": "Alderland",
+        "url": "https://open.spotify.com/album/4ucaMCI586k92aFtZvLRcG"
+      },
+      "artists": [
+        {
+          "name": "Mimikry",
+          "url": "https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv"
+        }
+      ],
+      "duration_ms": 180573,
+      "name": "Kom och dansa lite",
+      "url": "https://open.spotify.com/track/0WJwf0lJbVtS7Qz2gkoaje"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
         "name": "Vi \u00c4r Alla Stj\u00e4rnor",
         "url": "https://open.spotify.com/album/7E2RVJCOJyo0WqyH1b9GNn"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 145520,
       "name": "Som En Doft Av Napalm",
       "url": "https://open.spotify.com/track/68dRAj0qJy7KQe4FxjUqrc"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
-        "name": "Borgerlig begravning",
-        "url": "https://open.spotify.com/album/7CrfHrApj1K5LpjSyiSUYH"
-      },
-      "artists": [
-        {
-          "name": "Borgerlig Begravning",
-          "url": "https://open.spotify.com/artist/58oxi3Ei1SHkiWTZ1DP33q"
-        }
-      ],
-      "duration_ms": 121510,
-      "name": "Va\u0308gra",
-      "url": "https://open.spotify.com/track/1xKkbE6TAk0fw982WRofnl"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
+        "name": "Borgerlig begravning",
+        "url": "https://open.spotify.com/album/7CrfHrApj1K5LpjSyiSUYH"
+      },
+      "artists": [
+        {
+          "name": "Borgerlig Begravning",
+          "url": "https://open.spotify.com/artist/58oxi3Ei1SHkiWTZ1DP33q"
+        }
+      ],
+      "duration_ms": 121510,
+      "name": "Va\u0308gra",
+      "url": "https://open.spotify.com/track/1xKkbE6TAk0fw982WRofnl"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
         "name": "Sex Politik & F\u00e5glar",
         "url": "https://open.spotify.com/album/2M63nUb95NAqYou8reFFwo"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 186800,
       "name": "Grav\u00f6l",
       "url": "https://open.spotify.com/track/01AKl5g1N4xZvJ23NSxCuZ"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
-        "name": "V\u00e4lkommen till fabriken",
-        "url": "https://open.spotify.com/album/3TzvCcOrrzkWZm6unnpa9S"
-      },
-      "artists": [
-        {
-          "name": "Kardborrebandet",
-          "url": "https://open.spotify.com/artist/6CaozjJFhs3wLYvch7B0At"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Fabriken",
-      "url": "https://open.spotify.com/track/5EUmW6SjzUmexP82gl93jd"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Alderland",
-        "url": "https://open.spotify.com/album/4ucaMCI586k92aFtZvLRcG"
+        "name": "V\u00e4lkommen till fabriken",
+        "url": "https://open.spotify.com/album/3TzvCcOrrzkWZm6unnpa9S"
       },
       "artists": [
         {
-          "name": "Mimikry",
-          "url": "https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv"
+          "name": "Kardborrebandet",
+          "url": "https://open.spotify.com/artist/6CaozjJFhs3wLYvch7B0At"
         }
       ],
-      "duration_ms": 180573,
-      "name": "Kom och dansa lite",
-      "url": "https://open.spotify.com/track/0WJwf0lJbVtS7Qz2gkoaje"
+      "duration_ms": 146000,
+      "name": "Fabriken",
+      "url": "https://open.spotify.com/track/5EUmW6SjzUmexP82gl93jd"
     },
     {
       "added_at": "2023-04-13 22:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 > Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: Dubdogz, Maxximal, Mc Hollywood
 
-[Spotify](https://open.spotify.com/user/spotify) - 682,034 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 682,145 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

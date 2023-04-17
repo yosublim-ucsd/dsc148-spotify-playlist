@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 
 > Get your Sunday sound right with this collection of current Gospel essentials.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,561 likes - 60 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,708 likes - 60 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 | 11 | [You Deserve It \(feat\. Bishop Cortez Vaughn\)](https://open.spotify.com/track/6FeGkKpsH1ht2GRDCEa0O2) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Bishop Cortez Vaughn](https://open.spotify.com/artist/5AkeEGPP5D9gUO61YH59Lz) | [You Deserve It \(Deluxe Edition\)](https://open.spotify.com/album/0NlDLxMWZfaAAbAmWTD7pP) | 6:05 |
 | 12 | [Love Theory](https://open.spotify.com/track/2Yfkjb3z3pN9DfS1yE0b3Y) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [LONG LIVE LOVE](https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt) | 4:11 |
 | 13 | [In Jesus Name](https://open.spotify.com/track/08MelkdJqbh68USUjAfr2T) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E) | [Covered: Alive In Asia \(Deluxe Version\)](https://open.spotify.com/album/2XHkWEJaHIrMfpKTMGr4wb) | 6:24 |
-| 14 | [Change Me](https://open.spotify.com/track/14iF9JDX0AOxkoa8BL2WYB) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [One Way](https://open.spotify.com/album/5M8DUTlZa68recDK5RvmBB) | 6:06 |
-| 15 | [Unstoppable](https://open.spotify.com/track/7ImLXs35qALCxJMiz33Ab9) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Unstoppable](https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang) | 3:13 |
+| 14 | [Unstoppable](https://open.spotify.com/track/7ImLXs35qALCxJMiz33Ab9) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Unstoppable](https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang) | 3:13 |
+| 15 | [Change Me](https://open.spotify.com/track/14iF9JDX0AOxkoa8BL2WYB) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [One Way](https://open.spotify.com/album/5M8DUTlZa68recDK5RvmBB) | 6:06 |
 | 16 | [This Is A Move \- Live](https://open.spotify.com/track/776imhCfnvp9NoIYJ8uj0G) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [This Is A Move \(Live\)](https://open.spotify.com/album/5SH3LZPcZVx5fr6uQ7R2pF) | 7:25 |
 | 17 | [Testimony](https://open.spotify.com/track/37PMWc1U9QTGRSh9cKzvDj) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w), [Group Therapy](https://open.spotify.com/artist/0f7eDR1n3XZwch1xXwEsYW) | [Anthony Brown & group therAPy](https://open.spotify.com/album/1oavdXITKhu6Mgb1YlIOoN) | 4:17 |
 | 18 | [I Love The Lord \(with Georgia Mass Choir\)](https://open.spotify.com/track/2xrXUa8o1JJtz8nobY2UsY) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [The Georgia Mass Choir](https://open.spotify.com/artist/1CdyK67jEL4DXXsmp8vFfN) | [The Preacher's Wife](https://open.spotify.com/album/4GtmXlzXsP67AKOVT8LWKK) | 4:56 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 | 33 | [2nd Win](https://open.spotify.com/track/2GjOk5EmK3njFZPx0aXtm4) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [GRACELAND](https://open.spotify.com/album/7CeLcdXA8rCbkZSbmZYM0S) | 2:55 |
 | 34 | [Well Done](https://open.spotify.com/track/64hIlYHCreOzGCuzWsivXW) | [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp) | [Well Done](https://open.spotify.com/album/2T6MoExj6ZfHxd5az22f35) | 4:52 |
 | 35 | [Live](https://open.spotify.com/track/6Oc3UJgFdqv7WDKgl3x5CI) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [You Shall Live](https://open.spotify.com/album/3TKtaibpr6H09j4z7QHaU8) | 5:18 |
-| 36 | [I Forgive Me](https://open.spotify.com/track/3nY9M5V1T62fOwRJieUkJd) | [James Fortune](https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH) | [Dear Future Me](https://open.spotify.com/album/3di3Ns3BssEWFGZ8QeLZSt) | 4:36 |
-| 37 | [If God / Nothing But the Blood \- Studio Version](https://open.spotify.com/track/2kbffpFwcxNZT0HfHKf5Dv) | [Casey J](https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd) | [If God / Nothing But the Blood \(Studio Version\)](https://open.spotify.com/album/7jQPc5YniQzkR0ucMuJHMY) | 4:27 |
+| 36 | [If God / Nothing But the Blood \- Studio Version](https://open.spotify.com/track/2kbffpFwcxNZT0HfHKf5Dv) | [Casey J](https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd) | [If God / Nothing But the Blood \(Studio Version\)](https://open.spotify.com/album/7jQPc5YniQzkR0ucMuJHMY) | 4:27 |
+| 37 | [I Forgive Me](https://open.spotify.com/track/3nY9M5V1T62fOwRJieUkJd) | [James Fortune](https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH) | [Dear Future Me](https://open.spotify.com/album/3di3Ns3BssEWFGZ8QeLZSt) | 4:36 |
 | 38 | [Work It Out \- Live](https://open.spotify.com/track/1SDaYLQD1C9twbdZYsNcbX) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Work It Out \(Live\)](https://open.spotify.com/album/5fcf47GvauNXh7yGACSXpQ) | 5:20 |
 | 39 | [It's Yours](https://open.spotify.com/track/0xYwbNvw4TburjOJYs0GpQ) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [One Nation Under God](https://open.spotify.com/album/3fdcELLJcdrGFL2VJQu6VP) | 6:58 |
 | 40 | [Gotta Have You](https://open.spotify.com/track/1JhJUr6uQ2bf8CNcVsARr4) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Life Music: Stage Two](https://open.spotify.com/album/2akE85yBX94ruIAOjR7ru4) | 2:56 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 | 59 | [Your Love](https://open.spotify.com/track/0RZfOr4ZxPJYOGqfhSQqoo) | [Tim Bowman Jr.](https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l) | [Listen](https://open.spotify.com/album/5YChjVISCxpP25SXcAeEQm) | 4:55 |
 | 60 | [I'm All In](https://open.spotify.com/track/1ijoiBbxkaeqsGO0Dnsssn) | [Maranda Curtis](https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502) | [I'm All In](https://open.spotify.com/album/2OGtoyigrfRs1h9TdZWlSK) | 3:23 |
 
-Snapshot ID: `MTU5MTE5NDc5MCwwMDAwMDAwMGMwNmMwZTNlZTkwZjdmMGQyOTk1MTM0NDFmYmM1OGY1`
+Snapshot ID: `MTU5MTE5NDc5MCwwMDAwMDAwMDE3YzY4MGJiZTNmNTJmMmYyOGZiNzdiYzEyZjkyMzE1`

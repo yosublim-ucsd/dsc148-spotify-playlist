@@ -1,12 +1,12 @@
 {
   "description": "Extra van je vrije tijd genieten voor jong en oud.",
-  "num_followers": 74933,
+  "num_followers": 75039,
   "original_name": "Quality Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTMyODA4MSwwMDAwMDAwMDkwZTAwMTAzYTg5NWNkNWYwMzA1ODhhMzIzNjlkNzJl",
+  "snapshot_id": "MTY4MTMyODA4MSwwMDAwMDAwMGY2M2I5Y2JiNTgxNjA0NGRkODY0Yjk0ZTcwMTk0ZmM3",
   "tracks": [
     {
       "added_at": "2021-12-28 12:54:47",
@@ -451,22 +451,6 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
-        "name": "The Joshua Tree (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 277476,
-      "name": "I Still Haven't Found What I'm Looking For",
-      "url": "https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO"
-    },
-    {
-      "added_at": "2021-12-28 12:54:47",
-      "album": {
         "name": "Tattoo You (2009 Re-Mastered)",
         "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 213066,
       "name": "Start Me Up - Remastered 2009",
       "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
+    },
+    {
+      "added_at": "2021-12-28 12:54:47",
+      "album": {
+        "name": "The Joshua Tree (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 277476,
+      "name": "I Still Haven't Found What I'm Looking For",
+      "url": "https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO"
     },
     {
       "added_at": "2021-12-28 12:54:47",
@@ -503,22 +503,6 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
-        "name": "Imagine",
-        "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
-      },
-      "artists": [
-        {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
-        }
-      ],
-      "duration_ms": 187866,
-      "name": "Imagine - Remastered 2010",
-      "url": "https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9"
-    },
-    {
-      "added_at": "2021-12-28 12:54:47",
-      "album": {
         "name": "Full Moon Fever",
         "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 256000,
       "name": "Free Fallin'",
       "url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
+    },
+    {
+      "added_at": "2021-12-28 12:54:47",
+      "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "duration_ms": 187866,
+      "name": "Imagine - Remastered 2010",
+      "url": "https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9"
     },
     {
       "added_at": "2021-12-28 12:54:47",
@@ -763,22 +763,6 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
-        "name": "The Lumineers",
-        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 163133,
-      "name": "Ho Hey",
-      "url": "https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7"
-    },
-    {
-      "added_at": "2021-12-28 12:54:47",
-      "album": {
         "name": "Commodores",
         "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 256426,
       "name": "Easy",
       "url": "https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA"
+    },
+    {
+      "added_at": "2021-12-28 12:54:47",
+      "album": {
+        "name": "The Lumineers",
+        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 163133,
+      "name": "Ho Hey",
+      "url": "https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7"
     },
     {
       "added_at": "2021-12-28 12:54:47",
@@ -811,38 +811,6 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
-        "name": "The Bends",
-        "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 257480,
-      "name": "High and Dry",
-      "url": "https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf"
-    },
-    {
-      "added_at": "2021-12-28 12:54:47",
-      "album": {
-        "name": "Woodland",
-        "url": "https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 210080,
-      "name": "Bloom - Bonus Track",
-      "url": "https://open.spotify.com/track/1HMQmOWrkieKYWlFsjUP3D"
-    },
-    {
-      "added_at": "2021-12-28 12:54:47",
-      "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
@@ -859,6 +827,22 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
+        "name": "The Bends",
+        "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 257480,
+      "name": "High and Dry",
+      "url": "https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf"
+    },
+    {
+      "added_at": "2021-12-28 12:54:47",
+      "album": {
         "name": "The Beatles (Remastered)",
         "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 138386,
       "name": "Blackbird - Remastered 2009",
       "url": "https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr"
+    },
+    {
+      "added_at": "2021-12-28 12:54:47",
+      "album": {
+        "name": "Woodland",
+        "url": "https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "duration_ms": 210080,
+      "name": "Bloom - Bonus Track",
+      "url": "https://open.spotify.com/track/1HMQmOWrkieKYWlFsjUP3D"
     },
     {
       "added_at": "2021-12-28 12:54:47",
@@ -907,22 +907,6 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
-        "name": "Lost on You",
-        "url": "https://open.spotify.com/album/0dYi4VGov4Dl4AED2eVwPw"
-      },
-      "artists": [
-        {
-          "name": "LP",
-          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
-        }
-      ],
-      "duration_ms": 268105,
-      "name": "Lost on You",
-      "url": "https://open.spotify.com/track/2LIh4uzqq9cXMPzzmcToHl"
-    },
-    {
-      "added_at": "2021-12-28 12:54:47",
-      "album": {
         "name": "Too Rye Ay",
         "url": "https://open.spotify.com/album/7nCWzcMZanUBPZgZaKpzM6"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 516893,
       "name": "American Pie",
       "url": "https://open.spotify.com/track/1fDsrQ23eTAVFElUMaf38X"
+    },
+    {
+      "added_at": "2021-12-28 12:54:47",
+      "album": {
+        "name": "Lost on You",
+        "url": "https://open.spotify.com/album/0dYi4VGov4Dl4AED2eVwPw"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "duration_ms": 268105,
+      "name": "Lost on You",
+      "url": "https://open.spotify.com/track/2LIh4uzqq9cXMPzzmcToHl"
     },
     {
       "added_at": "2021-12-28 12:54:47",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
-        "name": "Seal",
-        "url": "https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1"
-      },
-      "artists": [
-        {
-          "name": "Seal",
-          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
-        }
-      ],
-      "duration_ms": 288426,
-      "name": "Kiss from a Rose",
-      "url": "https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh"
-    },
-    {
-      "added_at": "2021-12-28 12:54:47",
-      "album": {
         "name": "Wednesday Morning, 3 A.M.",
         "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 185413,
       "name": "The Sound of Silence - Acoustic Version",
       "url": "https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK"
+    },
+    {
+      "added_at": "2021-12-28 12:54:47",
+      "album": {
+        "name": "Seal",
+        "url": "https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1"
+      },
+      "artists": [
+        {
+          "name": "Seal",
+          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
+        }
+      ],
+      "duration_ms": 288426,
+      "name": "Kiss from a Rose",
+      "url": "https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh"
     },
     {
       "added_at": "2021-12-28 12:54:47",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
-        "name": "Greatest Hits Volume One - The Singles",
-        "url": "https://open.spotify.com/album/0UccZZgelTAbbk3OSPZymO"
-      },
-      "artists": [
-        {
-          "name": "The Goo Goo Dolls",
-          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
-        }
-      ],
-      "duration_ms": 289906,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/6vrUTGn5p8IrfTZ0J6sIVM"
-    },
-    {
-      "added_at": "2021-12-28 12:54:47",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/3q6Bz38jmqRDkXI7j5Hb9Y"
       },
@@ -1243,18 +1227,18 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
-        "name": "Escapology",
-        "url": "https://open.spotify.com/album/4QyE2i0y4nyxHsiwm6VK9V"
+        "name": "Greatest Hits Volume One - The Singles",
+        "url": "https://open.spotify.com/album/0UccZZgelTAbbk3OSPZymO"
       },
       "artists": [
         {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
         }
       ],
-      "duration_ms": 263866,
-      "name": "Feel",
-      "url": "https://open.spotify.com/track/2Ms33RTRCT6gArrpcrPxmo"
+      "duration_ms": 289906,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/6vrUTGn5p8IrfTZ0J6sIVM"
     },
     {
       "added_at": "2021-12-28 12:54:47",
@@ -1291,6 +1275,38 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
+        "name": "Escapology",
+        "url": "https://open.spotify.com/album/4QyE2i0y4nyxHsiwm6VK9V"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "duration_ms": 263866,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/2Ms33RTRCT6gArrpcrPxmo"
+    },
+    {
+      "added_at": "2021-12-28 12:54:47",
+      "album": {
+        "name": "The Best of Sade",
+        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 258693,
+      "name": "Smooth Operator - Single Version",
+      "url": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R"
+    },
+    {
+      "added_at": "2021-12-28 12:54:47",
+      "album": {
         "name": "Keep The Faith",
         "url": "https://open.spotify.com/album/2FbviTPUjgJJUxsGM1sGDq"
       },
@@ -1323,18 +1339,18 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
-        "name": "The Best of Sade",
-        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
+        "name": "Breakfast In America (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna"
       },
       "artists": [
         {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+          "name": "Supertramp",
+          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
         }
       ],
-      "duration_ms": 258693,
-      "name": "Smooth Operator - Single Version",
-      "url": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R"
+      "duration_ms": 159346,
+      "name": "Breakfast In America - 2010 Remastered",
+      "url": "https://open.spotify.com/track/4a5pNRjwmzYQuEY1E7O6pj"
     },
     {
       "added_at": "2021-12-28 12:54:47",
@@ -1355,34 +1371,18 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
-        "name": "Breakfast In America (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna"
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
       },
       "artists": [
         {
-          "name": "Supertramp",
-          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 159346,
-      "name": "Breakfast In America - 2010 Remastered",
-      "url": "https://open.spotify.com/track/4a5pNRjwmzYQuEY1E7O6pj"
-    },
-    {
-      "added_at": "2021-12-28 12:54:47",
-      "album": {
-        "name": "Greatest",
-        "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 245200,
-      "name": "How Deep Is Your Love",
-      "url": "https://open.spotify.com/track/2JoZzpdeP2G6Csfdq5aLXP"
+      "duration_ms": 172933,
+      "name": "One Love / People Get Ready - Medley",
+      "url": "https://open.spotify.com/track/6SR0dDuXH2vtgBfMLrivKV"
     },
     {
       "added_at": "2021-12-28 12:54:47",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
+        "name": "Greatest",
+        "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
       },
       "artists": [
         {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
         }
       ],
-      "duration_ms": 172933,
-      "name": "One Love / People Get Ready - Medley",
-      "url": "https://open.spotify.com/track/6SR0dDuXH2vtgBfMLrivKV"
+      "duration_ms": 245200,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/2JoZzpdeP2G6Csfdq5aLXP"
     },
     {
       "added_at": "2021-12-28 12:54:47",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
-        "name": "Mezzanine",
-        "url": "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR"
-      },
-      "artists": [
-        {
-          "name": "Massive Attack",
-          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
-        }
-      ],
-      "duration_ms": 330773,
-      "name": "Teardrop",
-      "url": "https://open.spotify.com/track/67Hna13dNDkZvBpTXRIaOJ"
-    },
-    {
-      "added_at": "2021-12-28 12:54:47",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/6errc1YD0IKeT3sudfomvO"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 257373,
       "name": "Breakfast At Tiffany's",
       "url": "https://open.spotify.com/track/1uzWOoJdADfstQuFtQFTUn"
+    },
+    {
+      "added_at": "2021-12-28 12:54:47",
+      "album": {
+        "name": "Mezzanine",
+        "url": "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR"
+      },
+      "artists": [
+        {
+          "name": "Massive Attack",
+          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+        }
+      ],
+      "duration_ms": 330773,
+      "name": "Teardrop",
+      "url": "https://open.spotify.com/track/67Hna13dNDkZvBpTXRIaOJ"
     },
     {
       "added_at": "2021-12-28 12:54:47",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
-        "name": "Dummy",
-        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
-      },
-      "artists": [
-        {
-          "name": "Portishead",
-          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
-        }
-      ],
-      "duration_ms": 308626,
-      "name": "Glory Box",
-      "url": "https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC"
-    },
-    {
-      "added_at": "2021-12-28 12:54:47",
-      "album": {
         "name": "Call Me Irresponsible",
         "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 212373,
       "name": "Everything",
       "url": "https://open.spotify.com/track/4T6HLdP6OcAtqC6tGnQelG"
+    },
+    {
+      "added_at": "2021-12-28 12:54:47",
+      "album": {
+        "name": "Dummy",
+        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
+      },
+      "artists": [
+        {
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+        }
+      ],
+      "duration_ms": 308626,
+      "name": "Glory Box",
+      "url": "https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC"
     },
     {
       "added_at": "2021-12-28 12:54:47",
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
+        "name": "Unplugged (Live)",
+        "url": "https://open.spotify.com/album/6zxsfP7TdXLAS9QEGNN0Uy"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 289026,
+      "name": "Layla - Acoustic Live",
+      "url": "https://open.spotify.com/track/0zxj7dVhYZq5ACyaDx5XIo"
+    },
+    {
+      "added_at": "2021-12-28 12:54:47",
+      "album": {
         "name": "Back To Black",
         "url": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV"
       },
@@ -1787,18 +1803,18 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
-        "name": "Unplugged (Live)",
-        "url": "https://open.spotify.com/album/6zxsfP7TdXLAS9QEGNN0Uy"
+        "name": "Pocket Full Of Kryptonite",
+        "url": "https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK"
       },
       "artists": [
         {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+          "name": "Spin Doctors",
+          "url": "https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m"
         }
       ],
-      "duration_ms": 289026,
-      "name": "Layla - Acoustic Live",
-      "url": "https://open.spotify.com/track/0zxj7dVhYZq5ACyaDx5XIo"
+      "duration_ms": 256733,
+      "name": "Two Princes",
+      "url": "https://open.spotify.com/track/4ePP9So5xRzspjLFVVbj90"
     },
     {
       "added_at": "2021-12-28 12:54:47",
@@ -1815,22 +1831,6 @@
       "duration_ms": 266560,
       "name": "Runaway Train (2022 Remaster)",
       "url": "https://open.spotify.com/track/3TW48DvQ7ChwY1Yy1tkMaP"
-    },
-    {
-      "added_at": "2021-12-28 12:54:47",
-      "album": {
-        "name": "Pocket Full Of Kryptonite",
-        "url": "https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK"
-      },
-      "artists": [
-        {
-          "name": "Spin Doctors",
-          "url": "https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m"
-        }
-      ],
-      "duration_ms": 256733,
-      "name": "Two Princes",
-      "url": "https://open.spotify.com/track/4ePP9So5xRzspjLFVVbj90"
     },
     {
       "added_at": "2021-12-28 12:54:47",
@@ -2055,22 +2055,6 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
-        "name": "Tapestry",
-        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
-      },
-      "artists": [
-        {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
-        }
-      ],
-      "duration_ms": 233173,
-      "name": "It's Too Late",
-      "url": "https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC"
-    },
-    {
-      "added_at": "2021-12-28 12:54:47",
-      "album": {
         "name": "Buena Vista Social Club",
         "url": "https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi"
       },
@@ -2083,6 +2067,22 @@
       "duration_ms": 256653,
       "name": "Chan Chan",
       "url": "https://open.spotify.com/track/5sbw5zIz9ck2pOEDXUR0QU"
+    },
+    {
+      "added_at": "2021-12-28 12:54:47",
+      "album": {
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "duration_ms": 233173,
+      "name": "It's Too Late",
+      "url": "https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC"
     },
     {
       "added_at": "2021-12-28 12:54:47",
@@ -2423,22 +2423,6 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
-        "name": "You Gotta Go There To Come Back",
-        "url": "https://open.spotify.com/album/65ekRZTdz7ufM6yULqgjo8"
-      },
-      "artists": [
-        {
-          "name": "Stereophonics",
-          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
-        }
-      ],
-      "duration_ms": 272946,
-      "name": "Maybe Tomorrow",
-      "url": "https://open.spotify.com/track/6SXy02aTZU3ysoGUixYCz0"
-    },
-    {
-      "added_at": "2021-12-28 12:54:47",
-      "album": {
         "name": "Reservoir Dogs (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4pFfvZt1riTaIWzkHFfmsF"
       },
@@ -2451,6 +2435,22 @@
       "duration_ms": 203893,
       "name": "Stuck In The Middle With You",
       "url": "https://open.spotify.com/track/1b7LMtXCXGc2EwOIplI35z"
+    },
+    {
+      "added_at": "2021-12-28 12:54:47",
+      "album": {
+        "name": "You Gotta Go There To Come Back",
+        "url": "https://open.spotify.com/album/65ekRZTdz7ufM6yULqgjo8"
+      },
+      "artists": [
+        {
+          "name": "Stereophonics",
+          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
+        }
+      ],
+      "duration_ms": 272946,
+      "name": "Maybe Tomorrow",
+      "url": "https://open.spotify.com/track/6SXy02aTZU3ysoGUixYCz0"
     },
     {
       "added_at": "2021-12-28 12:54:47",
@@ -2555,22 +2555,6 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
-        "name": "The Rose",
-        "url": "https://open.spotify.com/album/6PXrZg7FMAGm1rnu6widwU"
-      },
-      "artists": [
-        {
-          "name": "Bette Midler",
-          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
-        }
-      ],
-      "duration_ms": 221373,
-      "name": "The Rose",
-      "url": "https://open.spotify.com/track/562JrM9b7jiu8LgzV62x3o"
-    },
-    {
-      "added_at": "2021-12-28 12:54:47",
-      "album": {
         "name": "Extreme II: Pornograffitti (Deluxe)",
         "url": "https://open.spotify.com/album/4bQ3DhbAEU6zhWFRhDNF3r"
       },
@@ -2583,6 +2567,22 @@
       "duration_ms": 334000,
       "name": "More Than Words",
       "url": "https://open.spotify.com/track/58c8pMaXi3xdpBIVfG6WGC"
+    },
+    {
+      "added_at": "2021-12-28 12:54:47",
+      "album": {
+        "name": "The Rose",
+        "url": "https://open.spotify.com/album/6PXrZg7FMAGm1rnu6widwU"
+      },
+      "artists": [
+        {
+          "name": "Bette Midler",
+          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
+        }
+      ],
+      "duration_ms": 221373,
+      "name": "The Rose",
+      "url": "https://open.spotify.com/track/562JrM9b7jiu8LgzV62x3o"
     },
     {
       "added_at": "2021-12-28 12:54:47",
@@ -2623,22 +2623,6 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
-        "name": "Get Lifted",
-        "url": "https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 281466,
-      "name": "Ordinary People",
-      "url": "https://open.spotify.com/track/2ZA4uMlSZjaoWGFqP1tsLI"
-    },
-    {
-      "added_at": "2021-12-28 12:54:47",
-      "album": {
         "name": "In the Midnight Hour",
         "url": "https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU"
       },
@@ -2651,6 +2635,22 @@
       "duration_ms": 157160,
       "name": "In the Midnight Hour",
       "url": "https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv"
+    },
+    {
+      "added_at": "2021-12-28 12:54:47",
+      "album": {
+        "name": "Get Lifted",
+        "url": "https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 281466,
+      "name": "Ordinary People",
+      "url": "https://open.spotify.com/track/2ZA4uMlSZjaoWGFqP1tsLI"
     },
     {
       "added_at": "2021-12-28 12:54:47",
@@ -2703,22 +2703,6 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
-        "name": "Chaos And The Calm",
-        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 238746,
-      "name": "Hold Back The River",
-      "url": "https://open.spotify.com/track/7tmtOEDxPN7CWaQWBsG1DY"
-    },
-    {
-      "added_at": "2021-12-28 12:54:47",
-      "album": {
         "name": "Would I Lie To You?",
         "url": "https://open.spotify.com/album/3fdyhYkAKnfNIDSNUwZIPR"
       },
@@ -2731,6 +2715,22 @@
       "duration_ms": 223706,
       "name": "Would I Lie To You? - Album Edit",
       "url": "https://open.spotify.com/track/1XFyebjye69ZVGR2WOze2U"
+    },
+    {
+      "added_at": "2021-12-28 12:54:47",
+      "album": {
+        "name": "Chaos And The Calm",
+        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 238746,
+      "name": "Hold Back The River",
+      "url": "https://open.spotify.com/track/7tmtOEDxPN7CWaQWBsG1DY"
     },
     {
       "added_at": "2021-12-28 12:54:47",
@@ -2815,22 +2815,6 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
-        "name": "Heat Wave",
-        "url": "https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK"
-      },
-      "artists": [
-        {
-          "name": "Martha Reeves & The Vandellas",
-          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
-        }
-      ],
-      "duration_ms": 163053,
-      "name": "(Love Is Like A) Heat Wave",
-      "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
-    },
-    {
-      "added_at": "2021-12-28 12:54:47",
-      "album": {
         "name": "Going To A Go-Go",
         "url": "https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW"
       },
@@ -2843,6 +2827,22 @@
       "duration_ms": 174360,
       "name": "The Tracks Of My Tears",
       "url": "https://open.spotify.com/track/6QyQmdvQ1ywNccYa0pwLNQ"
+    },
+    {
+      "added_at": "2021-12-28 12:54:47",
+      "album": {
+        "name": "Heat Wave",
+        "url": "https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK"
+      },
+      "artists": [
+        {
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+        }
+      ],
+      "duration_ms": 163053,
+      "name": "(Love Is Like A) Heat Wave",
+      "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
     },
     {
       "added_at": "2021-12-28 12:54:47",
@@ -2995,22 +2995,6 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
-        "name": "It's A Man's Man's Man's World",
-        "url": "https://open.spotify.com/album/3WQOQKNq8COxy0Ozv6YBb1"
-      },
-      "artists": [
-        {
-          "name": "James Brown & The Famous Flames",
-          "url": "https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr"
-        }
-      ],
-      "duration_ms": 167373,
-      "name": "It's A Man's, Man's, Man's World",
-      "url": "https://open.spotify.com/track/3SQ9Hb9rfpJ02AWfaOPhpy"
-    },
-    {
-      "added_at": "2021-12-28 12:54:47",
-      "album": {
         "name": "Mr. Tambourine Man",
         "url": "https://open.spotify.com/album/0pkrqPjeq9K5KD0hFqAKNa"
       },
@@ -3023,6 +3007,22 @@
       "duration_ms": 149466,
       "name": "Mr. Tambourine Man",
       "url": "https://open.spotify.com/track/2HCaIYjkvWSZzaSKUoOh3d"
+    },
+    {
+      "added_at": "2021-12-28 12:54:47",
+      "album": {
+        "name": "It's A Man's Man's Man's World",
+        "url": "https://open.spotify.com/album/3WQOQKNq8COxy0Ozv6YBb1"
+      },
+      "artists": [
+        {
+          "name": "James Brown & The Famous Flames",
+          "url": "https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr"
+        }
+      ],
+      "duration_ms": 167373,
+      "name": "It's A Man's, Man's, Man's World",
+      "url": "https://open.spotify.com/track/3SQ9Hb9rfpJ02AWfaOPhpy"
     },
     {
       "added_at": "2021-12-28 12:54:47",
@@ -3043,22 +3043,6 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
-        "name": "Lungs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 168666,
-      "name": "You've Got The Love",
-      "url": "https://open.spotify.com/track/6u9RqxALwkjJ1ukB1y8vuP"
-    },
-    {
-      "added_at": "2021-12-28 12:54:47",
-      "album": {
         "name": "Outlandos D'Amour (Remastered 2003)",
         "url": "https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf"
       },
@@ -3071,6 +3055,22 @@
       "duration_ms": 178760,
       "name": "Can't Stand Losing You",
       "url": "https://open.spotify.com/track/6DjKJgwe9c90Bd2iya0fre"
+    },
+    {
+      "added_at": "2021-12-28 12:54:47",
+      "album": {
+        "name": "Lungs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 168666,
+      "name": "You've Got The Love",
+      "url": "https://open.spotify.com/track/6u9RqxALwkjJ1ukB1y8vuP"
     },
     {
       "added_at": "2021-12-28 12:54:47",
@@ -3107,22 +3107,6 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
-        "name": "Close To You",
-        "url": "https://open.spotify.com/album/1CsuCA05y9r7ftG9bGGtWV"
-      },
-      "artists": [
-        {
-          "name": "Carpenters",
-          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "(They Long To Be) Close To You",
-      "url": "https://open.spotify.com/track/50q2aUjWoTn6CJIfSPRJQA"
-    },
-    {
-      "added_at": "2021-12-28 12:54:47",
-      "album": {
         "name": "Completely Well",
         "url": "https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1"
       },
@@ -3139,18 +3123,18 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
-        "name": "Stoosh",
-        "url": "https://open.spotify.com/album/4S7eZrznxAyzv8IaoztDDR"
+        "name": "Close To You",
+        "url": "https://open.spotify.com/album/1CsuCA05y9r7ftG9bGGtWV"
       },
       "artists": [
         {
-          "name": "Skunk Anansie",
-          "url": "https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF"
+          "name": "Carpenters",
+          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
         }
       ],
-      "duration_ms": 207360,
-      "name": "Hedonism (Just Because You Feel Good)",
-      "url": "https://open.spotify.com/track/2qRZm3cGCUPK40j3g0G5cN"
+      "duration_ms": 276000,
+      "name": "(They Long To Be) Close To You",
+      "url": "https://open.spotify.com/track/50q2aUjWoTn6CJIfSPRJQA"
     },
     {
       "added_at": "2021-12-28 12:54:47",
@@ -3167,6 +3151,22 @@
       "duration_ms": 260493,
       "name": "All Night Long - Single Version",
       "url": "https://open.spotify.com/track/4giIdAr7Plyu5LQzBOR4FP"
+    },
+    {
+      "added_at": "2021-12-28 12:54:47",
+      "album": {
+        "name": "Stoosh",
+        "url": "https://open.spotify.com/album/4S7eZrznxAyzv8IaoztDDR"
+      },
+      "artists": [
+        {
+          "name": "Skunk Anansie",
+          "url": "https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF"
+        }
+      ],
+      "duration_ms": 207360,
+      "name": "Hedonism (Just Because You Feel Good)",
+      "url": "https://open.spotify.com/track/2qRZm3cGCUPK40j3g0G5cN"
     },
     {
       "added_at": "2021-12-28 12:54:47",
@@ -3287,22 +3287,6 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
-        "name": "This Girl's in Love with You",
-        "url": "https://open.spotify.com/album/5TGmpcEuZsVIoxDWnJIan5"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 199266,
-      "name": "Son of a Preacher Man",
-      "url": "https://open.spotify.com/track/4uCbetXW9LStYPUjCpBVp9"
-    },
-    {
-      "added_at": "2021-12-28 12:54:47",
-      "album": {
         "name": "Time of the Season",
         "url": "https://open.spotify.com/album/3xhlrGx740Jp150YJMD40I"
       },
@@ -3315,6 +3299,22 @@
       "duration_ms": 214026,
       "name": "Time of the Season",
       "url": "https://open.spotify.com/track/6im4Ks6SWUqwTGp7Cft1e7"
+    },
+    {
+      "added_at": "2021-12-28 12:54:47",
+      "album": {
+        "name": "This Girl's in Love with You",
+        "url": "https://open.spotify.com/album/5TGmpcEuZsVIoxDWnJIan5"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 199266,
+      "name": "Son of a Preacher Man",
+      "url": "https://open.spotify.com/track/4uCbetXW9LStYPUjCpBVp9"
     },
     {
       "added_at": "2021-12-28 12:54:47",
@@ -3495,6 +3495,26 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
+        "name": "7 Seconds: The Best Of Youssou N'Dour",
+        "url": "https://open.spotify.com/album/6Smydx3R0VZPoIdBeOmbFI"
+      },
+      "artists": [
+        {
+          "name": "Youssou N'Dour",
+          "url": "https://open.spotify.com/artist/77zlytAFjPFjUKda8TNIDY"
+        },
+        {
+          "name": "Neneh Cherry",
+          "url": "https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD"
+        }
+      ],
+      "duration_ms": 305773,
+      "name": "7 Seconds (feat. Neneh Cherry)",
+      "url": "https://open.spotify.com/track/76D5nfZbYzZYfUZKGy73jy"
+    },
+    {
+      "added_at": "2021-12-28 12:54:47",
+      "album": {
         "name": "Chicago 16 (Expanded Edition)",
         "url": "https://open.spotify.com/album/1I5t0om003Ikyhs8Ks3t8C"
       },
@@ -3523,26 +3543,6 @@
       "duration_ms": 223520,
       "name": "Love the One You're With",
       "url": "https://open.spotify.com/track/0NnyYBnyStcNKDu7PejLPF"
-    },
-    {
-      "added_at": "2021-12-28 12:54:47",
-      "album": {
-        "name": "7 Seconds: The Best Of Youssou N'Dour",
-        "url": "https://open.spotify.com/album/6Smydx3R0VZPoIdBeOmbFI"
-      },
-      "artists": [
-        {
-          "name": "Youssou N'Dour",
-          "url": "https://open.spotify.com/artist/77zlytAFjPFjUKda8TNIDY"
-        },
-        {
-          "name": "Neneh Cherry",
-          "url": "https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD"
-        }
-      ],
-      "duration_ms": 305773,
-      "name": "7 Seconds (feat. Neneh Cherry)",
-      "url": "https://open.spotify.com/track/76D5nfZbYzZYfUZKGy73jy"
     },
     {
       "added_at": "2021-12-28 12:54:47",
@@ -3643,22 +3643,6 @@
     {
       "added_at": "2021-12-28 12:54:47",
       "album": {
-        "name": "Half Mile Harvest",
-        "url": "https://open.spotify.com/album/6seixGAN22NspEmvRID4fG"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 240912,
-      "name": "Pain and Misery",
-      "url": "https://open.spotify.com/track/2W5dSuM7DDdWymjzZsICBn"
-    },
-    {
-      "added_at": "2021-12-28 12:54:47",
-      "album": {
         "name": "A Kind of Magic (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/6QYnikkyKvjmFtTiZVeCW7"
       },
@@ -3671,6 +3655,22 @@
       "duration_ms": 264253,
       "name": "A Kind Of Magic - Remastered 2011",
       "url": "https://open.spotify.com/track/1LFK84nUerBbYfFd1LmnTm"
+    },
+    {
+      "added_at": "2021-12-28 12:54:47",
+      "album": {
+        "name": "Half Mile Harvest",
+        "url": "https://open.spotify.com/album/6seixGAN22NspEmvRID4fG"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 240912,
+      "name": "Pain and Misery",
+      "url": "https://open.spotify.com/track/2W5dSuM7DDdWymjzZsICBn"
     },
     {
       "added_at": "2021-12-28 12:54:47",

@@ -4,7 +4,7 @@
 
 > The best in new punk rock music\. Cover: Los Bitchos
 
-120 songs - 5 hr 57 min
+121 songs - 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Happiness 4 Dummies](https://open.spotify.com/track/0WKZtlkkgK44fVSrP75EO2) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Happiness 4 Dummies](https://open.spotify.com/album/7mSqGeFRzvBcjywz52XY6N) | 2:39 | 2022-12-02 | 2023-03-28 |
 | [HAPPY](https://open.spotify.com/track/2uLJFEi6rax0x23xZrFyHC) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [HAPPY](https://open.spotify.com/album/2BaEVtgFlWOtqz0jtMiVie) | 2:27 | 2022-12-02 | 2023-02-19 |
 | [Hell of Mine](https://open.spotify.com/track/1ONqS8Dgb14MMpst9VCJoN) | [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [Hell of Mine](https://open.spotify.com/album/7pVKbnAFrVQ4wzJ6RsVq4T) | 2:05 | 2022-12-02 | 2023-03-21 |
-| [Here In Your Bedroom \(feat\. Avril Lavigne\)](https://open.spotify.com/track/0eOKxLySILR9x85cknejae) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Never Look Back \(Deluxe\)](https://open.spotify.com/album/6qkETtOzEEXtL3fB4Jdatx) | 3:12 | 2022-12-02 |  |
+| [Here In Your Bedroom \(feat\. Avril Lavigne\)](https://open.spotify.com/track/0eOKxLySILR9x85cknejae) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Never Look Back \(Deluxe\)](https://open.spotify.com/album/6qkETtOzEEXtL3fB4Jdatx) | 3:12 | 2022-12-02 | 2023-04-17 |
 | [Hiccup](https://open.spotify.com/track/50FLwADrMNPuw0ZPMcD08z) | [Sorry Mom](https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX) | [Hiccup](https://open.spotify.com/album/3M52jxyf7VbA9jWQ9K5cSR) | 1:45 | 2023-03-20 |  |
 | [How Does It Feel?](https://open.spotify.com/track/36Bf1RIqi0QbYiX8QEQmfZ) | [Grandmas House](https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv) | [How Does It Feel?](https://open.spotify.com/album/6pQXmyYZy2SBDwc4h8EZji) | 1:35 | 2022-12-02 |  |
 | [I HATE ME TOO](https://open.spotify.com/track/52K4NbHU3E2KvVxwKpAGUm) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [I WENT TO HELL AND BACK](https://open.spotify.com/album/0C9MH7ojRpjgfFJ5CNiEZu) | 2:57 | 2022-12-02 |  |
@@ -92,13 +92,14 @@
 | [No One to Judge Me](https://open.spotify.com/track/3caRPcZ7eOYhxvgIsiVEQe) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Silver Linings \(Deluxe\)](https://open.spotify.com/album/01qHqKXqAp9103BTmj4J1A) | 2:41 | 2022-12-02 | 2023-02-05 |
 | [OK](https://open.spotify.com/track/5Hq77IhQwXUjySpk2D12Wy) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [OK](https://open.spotify.com/album/32oPNdyJ9msTqi8btivvPZ) | 3:53 | 2022-12-02 |  |
 | [Paranoid](https://open.spotify.com/track/5kKHQvRdXfTBD3F99zn22K) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Paranoid](https://open.spotify.com/album/6SWH4PMxSh7NHF7vzRhRHv) | 3:19 | 2022-12-02 |  |
-| [Paying The Price](https://open.spotify.com/track/6F4DAh0ANpqlP20iR4Fqlh) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [Paying The Price](https://open.spotify.com/album/5lXmnuAhMGGRYkQwOCVR3w) | 2:40 | 2022-12-02 | 2023-03-21 |
+| [Paying The Price](https://open.spotify.com/track/6F4DAh0ANpqlP20iR4Fqlh) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [Paying The Price](https://open.spotify.com/album/5lXmnuAhMGGRYkQwOCVR3w) | 2:40 | 2022-12-02 |  |
 | [Raised By Wolves](https://open.spotify.com/track/4lUubz3TMfHfQDJl0mAo2l) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [In The Wild](https://open.spotify.com/album/3kY1OhkaStCboWLSBTIfvg) | 3:01 | 2022-12-02 |  |
 | [Relentless](https://open.spotify.com/track/1wnRNsHtySQZZYsvLs8tJx) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [THE UNRAVELING OF PUPTHEBAND](https://open.spotify.com/album/2bRpK0BpzYUQZYIzri35n6) | 4:34 | 2022-12-02 |  |
 | [Reset My Password](https://open.spotify.com/track/7GipCwr5UKD9qtjr15UBMz) | [Public Body](https://open.spotify.com/artist/0afEu0n4WzBeNOdyjfBU6X) | [Reset My Password](https://open.spotify.com/album/5dj8uEetIgU9k9GSTTyYdB) | 2:50 | 2022-12-02 | 2023-03-04 |
 | [Rob the Supermarket](https://open.spotify.com/track/2fNNsux1O634IqSVMVzoMJ) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Rob the Supermarket](https://open.spotify.com/album/5v6y4D4NWc0j7teG6ZJO9h) | 2:14 | 2022-12-02 | 2023-02-26 |
 | [Ruin My Life \(feat\. Deryck Whibley\)](https://open.spotify.com/track/0g4Nl4tH0jef0wApjV5sfH) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ), [Deryck Whibley](https://open.spotify.com/artist/4qJK4cVUMM04auRU8oa4bf) | [Harder Than It Looks](https://open.spotify.com/album/0NgcYDpxXtgTADvZdVTLtP) | 3:19 | 2022-12-02 |  |
-| [SELF\-SABOTAGE](https://open.spotify.com/track/34KYsYoTRXMU0MBcfBvJha) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [SELF\-SABOTAGE \(MC4D Remix\)](https://open.spotify.com/album/48OpJKI9yOfcynQX2mpkN3) | 2:37 | 2023-01-18 |  |
+| [SELF\-SABOTAGE](https://open.spotify.com/track/34KYsYoTRXMU0MBcfBvJha) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [SELF\-SABOTAGE \(MC4D Remix\)](https://open.spotify.com/album/48OpJKI9yOfcynQX2mpkN3) | 2:37 | 2023-01-18 | 2023-04-17 |
+| [SELF\-SABOTAGE](https://open.spotify.com/track/3QbNQoebsLQUvXismbliHH) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:37 | 2023-03-03 |  |
 | [SELF\-SABOTAGE](https://open.spotify.com/track/6uEBUvGjFsoVdEf775Coa3) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [SELF\-SABOTAGE](https://open.spotify.com/album/1a37BS9lp7tkEbhGtoj0qf) | 2:37 | 2022-12-02 | 2023-01-30 |
 | [serotonin](https://open.spotify.com/track/7j1nFsNOimv0aj6CcLIsTj) | [lleo](https://open.spotify.com/artist/0zXY7bBZFvl0mNxPxzo1e4) | [serotonin](https://open.spotify.com/album/3VuJ9cyJWBvjQ8TxbJGrge) | 3:03 | 2022-12-02 |  |
 | [Sick Day](https://open.spotify.com/track/5Ms33wMo1MxDuLHekXX9S9) | [Teen Mortgage](https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP) | [Sick Day](https://open.spotify.com/album/0XIVrYRLXzwTuGXZdEzVw6) | 2:03 | 2023-03-20 |  |

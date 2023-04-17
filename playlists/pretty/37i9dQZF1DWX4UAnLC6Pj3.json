@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Luis \u00c1ngel El Flaco & Josi Cuen en portada.",
-  "num_followers": 1106307,
+  "num_followers": 1106665,
   "original_name": "Banda 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg5OTg3NiwwMDAwMDAwMGU3ZGU2MjhjYTUyNmNjNWY4NDFhMGQ4NTcxZmQyOGVl",
+  "snapshot_id": "MTY4MDg5OTg3NiwwMDAwMDAwMDFiZjQxYTkxYTk5MzJkMWI2NTMxODJmYzA1MTE3YTIz",
   "tracks": [
     {
       "added_at": "2023-04-07 20:37:55",
@@ -135,18 +135,18 @@
     {
       "added_at": "2023-04-07 20:37:55",
       "album": {
-        "name": "Consejos Gratis",
-        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
+        "name": "La Rueda De La Fortuna",
+        "url": "https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd"
       },
       "artists": [
         {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 122096,
-      "name": "Como Quieras Quiero",
-      "url": "https://open.spotify.com/track/7MyOq9tWhL9bGHeeG5Iz5p"
+      "duration_ms": 211266,
+      "name": "El Paciente",
+      "url": "https://open.spotify.com/track/2Nk3gXgekore0lfB7PCnub"
     },
     {
       "added_at": "2023-04-07 20:37:55",
@@ -171,18 +171,18 @@
     {
       "added_at": "2023-04-07 20:37:55",
       "album": {
-        "name": "La Rueda De La Fortuna",
-        "url": "https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd"
+        "name": "Consejos Gratis",
+        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
       },
       "artists": [
         {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 211266,
-      "name": "El Paciente",
-      "url": "https://open.spotify.com/track/2Nk3gXgekore0lfB7PCnub"
+      "duration_ms": 122096,
+      "name": "Como Quieras Quiero",
+      "url": "https://open.spotify.com/track/7MyOq9tWhL9bGHeeG5Iz5p"
     },
     {
       "added_at": "2023-04-07 20:37:55",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-04-07 20:37:55",
       "album": {
+        "name": "Historias de Mi Vida",
+        "url": "https://open.spotify.com/album/6rXIKiwGq6YDhNyEUnlabe"
+      },
+      "artists": [
+        {
+          "name": "Giovanny Ayala",
+          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
+        }
+      ],
+      "duration_ms": 201857,
+      "name": "A Cu\u00e1nto Me Qued\u00e9",
+      "url": "https://open.spotify.com/track/4HgB85fVdWG83EZOHj5paV"
+    },
+    {
+      "added_at": "2023-04-07 20:37:55",
+      "album": {
         "name": "Jalando la Bandona",
         "url": "https://open.spotify.com/album/1pO3OK249I1ZJd61TDk92e"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 129500,
       "name": "Levantando Polvadera - En Vivo",
       "url": "https://open.spotify.com/track/065QGFIfARtgUoTeJifVvJ"
-    },
-    {
-      "added_at": "2023-04-07 20:37:55",
-      "album": {
-        "name": "Historias de Mi Vida",
-        "url": "https://open.spotify.com/album/6rXIKiwGq6YDhNyEUnlabe"
-      },
-      "artists": [
-        {
-          "name": "Giovanny Ayala",
-          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
-        }
-      ],
-      "duration_ms": 201857,
-      "name": "A Cu\u00e1nto Me Qued\u00e9",
-      "url": "https://open.spotify.com/track/4HgB85fVdWG83EZOHj5paV"
     },
     {
       "added_at": "2023-04-07 20:37:55",
@@ -1199,38 +1199,6 @@
     {
       "added_at": "2023-04-07 20:37:55",
       "album": {
-        "name": "Fin de Semana",
-        "url": "https://open.spotify.com/album/7HgBS5lPsiU4bswb741ABB"
-      },
-      "artists": [
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Fin de Semana",
-      "url": "https://open.spotify.com/track/1vAoGye89UrMmGr2MreFES"
-    },
-    {
-      "added_at": "2023-04-07 20:37:55",
-      "album": {
-        "name": "Me Rindo",
-        "url": "https://open.spotify.com/album/4ZuuapFT4NA2nYljrz6D57"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 220653,
-      "name": "Me Rindo",
-      "url": "https://open.spotify.com/track/763m9Csnr97OvhnAej8iDQ"
-    },
-    {
-      "added_at": "2023-04-07 20:37:55",
-      "album": {
         "name": "El Precio De La Soledad",
         "url": "https://open.spotify.com/album/2eJw7c1smx7ycjTqcBgI5I"
       },
@@ -1243,6 +1211,22 @@
       "duration_ms": 166143,
       "name": "El Precio De La Soledad",
       "url": "https://open.spotify.com/track/7pYfcq47xJDP98syaVhpuK"
+    },
+    {
+      "added_at": "2023-04-07 20:37:55",
+      "album": {
+        "name": "Fin de Semana",
+        "url": "https://open.spotify.com/album/7HgBS5lPsiU4bswb741ABB"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Fin de Semana",
+      "url": "https://open.spotify.com/track/1vAoGye89UrMmGr2MreFES"
     },
     {
       "added_at": "2023-04-07 20:37:55",
@@ -1263,6 +1247,22 @@
       "duration_ms": 201400,
       "name": "Ya Se Fue",
       "url": "https://open.spotify.com/track/3hIFiQfRn4tOaIS6ePCNXr"
+    },
+    {
+      "added_at": "2023-04-07 20:37:55",
+      "album": {
+        "name": "Me Rindo",
+        "url": "https://open.spotify.com/album/4ZuuapFT4NA2nYljrz6D57"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 220653,
+      "name": "Me Rindo",
+      "url": "https://open.spotify.com/track/763m9Csnr97OvhnAej8iDQ"
     },
     {
       "added_at": "2023-04-07 20:37:55",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2023-04-07 20:37:55",
       "album": {
-        "name": "Si Esta Botella Hablara",
-        "url": "https://open.spotify.com/album/098L2b6zmrDW8PX9LRq88o"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 188511,
-      "name": "Si Esta Botella Hablara",
-      "url": "https://open.spotify.com/track/3KMqPVzCOTcDAy5cGBEv5N"
-    },
-    {
-      "added_at": "2023-04-07 20:37:55",
-      "album": {
         "name": "Aplaca Tus Berrinches",
         "url": "https://open.spotify.com/album/7pb7D979yuDEsK1g5tWgKj"
       },
@@ -1387,6 +1367,26 @@
       "duration_ms": 196360,
       "name": "De Ti Exclusivo",
       "url": "https://open.spotify.com/track/404MXA5pRTh93BrxPeGrQp"
+    },
+    {
+      "added_at": "2023-04-07 20:37:55",
+      "album": {
+        "name": "Si Esta Botella Hablara",
+        "url": "https://open.spotify.com/album/098L2b6zmrDW8PX9LRq88o"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 188511,
+      "name": "Si Esta Botella Hablara",
+      "url": "https://open.spotify.com/track/3KMqPVzCOTcDAy5cGBEv5N"
     },
     {
       "added_at": "2023-04-07 20:37:55",
@@ -1495,7 +1495,7 @@
     {
       "added_at": "2023-04-07 20:37:55",
       "album": {
-        "name": "Modo Crudo",
+        "name": "Modo Crudo (Versi\u00f3n Banda)",
         "url": "https://open.spotify.com/album/2miY1Si17V3AvA1YXe8O5k"
       },
       "artists": [
@@ -1505,24 +1505,8 @@
         }
       ],
       "duration_ms": 128513,
-      "name": "Modo Crudo",
+      "name": "Modo Crudo - Versi\u00f3n Banda",
       "url": "https://open.spotify.com/track/21VxcprEejJWPVNHxA23Hs"
-    },
-    {
-      "added_at": "2023-04-07 20:37:55",
-      "album": {
-        "name": "24/7 Dolido",
-        "url": "https://open.spotify.com/album/6Fyxi6oD8SD1lK35bKPyqA"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 175090,
-      "name": "24/7 Dolido",
-      "url": "https://open.spotify.com/track/1jt49y7J8bwMhXpvo3wbvO"
     },
     {
       "added_at": "2023-04-07 20:37:55",
@@ -1539,6 +1523,22 @@
       "duration_ms": 220746,
       "name": "Te Va A Ir Bien",
       "url": "https://open.spotify.com/track/7nHD3IwYISHWeX946ZBUhp"
+    },
+    {
+      "added_at": "2023-04-07 20:37:55",
+      "album": {
+        "name": "24/7 Dolido",
+        "url": "https://open.spotify.com/album/6Fyxi6oD8SD1lK35bKPyqA"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 175090,
+      "name": "24/7 Dolido",
+      "url": "https://open.spotify.com/track/1jt49y7J8bwMhXpvo3wbvO"
     },
     {
       "added_at": "2023-04-07 20:37:55",

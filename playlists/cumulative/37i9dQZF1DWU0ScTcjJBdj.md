@@ -4,7 +4,7 @@
 
 > Let your worries and cares slip away.
 
-268 songs - 17 hr 23 min
+269 songs - 17 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,7 +263,8 @@
 | [Weekend](https://open.spotify.com/track/3p0kes1amIxF9ucjtclpYm) | [Sumbuck](https://open.spotify.com/artist/6T4OrfxxOTkAUKAe2gg9fZ), [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [Weekend](https://open.spotify.com/album/59ZTo6b3Rfc1R7K6Cwa1CH) | 2:27 | 2020-11-11 | 2022-10-14 |
 | [What if You](https://open.spotify.com/track/0nKimWXdewT5XCaL5wOstA) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [What if You](https://open.spotify.com/album/65TC3N9kNHYeLFt7hqaW5M) | 3:22 | 2022-06-08 |  |
 | [when i look at you.](https://open.spotify.com/track/2Hf4lbVibsJo6u6cFAxwdQ) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [when i look at you.](https://open.spotify.com/album/1RxM5TK6tax3e20Z90SRPC) | 3:52 | 2020-06-04 | 2022-05-14 |
-| [When You Miss Someone](https://open.spotify.com/track/7qJKahUHkASPu54vMil98J) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [When You Miss Someone / Tanqueray](https://open.spotify.com/album/7gzB41KzCKsIlRMOq8q0x1) | 3:05 | 2023-02-03 |  |
+| [When You Miss Someone](https://open.spotify.com/track/0WTMkjTjqKy2KnNQYGfQI5) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [Stand in the Joy](https://open.spotify.com/album/2r3IZ2sjXvKm14wZEUZC49) | 3:05 | 2023-04-04 |  |
+| [When You Miss Someone](https://open.spotify.com/track/7qJKahUHkASPu54vMil98J) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [When You Miss Someone / Tanqueray](https://open.spotify.com/album/7gzB41KzCKsIlRMOq8q0x1) | 3:05 | 2023-02-03 | 2023-04-17 |
 | [Where's My Love](https://open.spotify.com/track/0IRmoVD5Zbndp79ShxphRb) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Where's My Love](https://open.spotify.com/album/6U6yE35iYGweoUiFFjuBdC) | 3:22 | 2022-06-24 | 2022-11-13 |
 | [Where's My Love](https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [SYML](https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz) | 3:22 | 2022-06-24 |  |
 | [Where's My Love](https://open.spotify.com/track/6H9Bc39zoXOUhzl5QJb3KQ) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Where's My Love](https://open.spotify.com/album/6ZyPzv9YtaN5R8NfwGtVly) | 3:22 | 2019-05-26\* | 2022-07-29 |

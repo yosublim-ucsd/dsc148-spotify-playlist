@@ -1,12 +1,12 @@
 {
   "description": "Al cien con los corridos \u00a1Para un buen ejercicio!",
-  "num_followers": 126250,
+  "num_followers": 126417,
   "original_name": "Bien Mach\u00edn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTEyODQwNywwMDAwMDAwMGMyYzMyNzJjNTlmM2I2YTYyNDAwZjM1OGQzMzViMTQ0",
+  "snapshot_id": "MTY3OTEyODQwNywwMDAwMDAwMDg5MGQ2NzhlNmE2NjBkM2VmNjZjZWIwOWM0NWY1ZDRi",
   "tracks": [
     {
       "added_at": "2023-01-27 06:44:25",
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/1Fuc3pBiPFxAeSJoO8tDh5"
     },
     {
-      "added_at": "2023-04-16 01:18:11",
+      "added_at": "2023-04-17 01:28:59",
       "album": {
         "name": "Dijeron Que No La Iba Lograr",
         "url": "https://open.spotify.com/album/3pyALc28lhIbH4gPXVNb9g"
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-01-27 06:44:25",
       "album": {
-        "name": "Seguimos Irremediables",
-        "url": "https://open.spotify.com/album/40qsMl66nONy9hHLMHATwO"
-      },
-      "artists": [
-        {
-          "name": "Betillo Guerrero",
-          "url": "https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y"
-        }
-      ],
-      "duration_ms": 190850,
-      "name": "Por Clave el 13",
-      "url": "https://open.spotify.com/track/5xwP3VbM3eBKOeFF3fwn6Z"
-    },
-    {
-      "added_at": "2023-01-27 06:44:25",
-      "album": {
         "name": "D\u00e9cimo Aniversario",
         "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 164360,
       "name": "Tranquilito",
       "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
+    },
+    {
+      "added_at": "2023-01-27 06:44:25",
+      "album": {
+        "name": "Seguimos Irremediables",
+        "url": "https://open.spotify.com/album/40qsMl66nONy9hHLMHATwO"
+      },
+      "artists": [
+        {
+          "name": "Betillo Guerrero",
+          "url": "https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y"
+        }
+      ],
+      "duration_ms": 190850,
+      "name": "Por Clave el 13",
+      "url": "https://open.spotify.com/track/5xwP3VbM3eBKOeFF3fwn6Z"
     },
     {
       "added_at": "2023-01-27 06:44:25",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-01-27 06:44:25",
       "album": {
-        "name": "Consejos Gratis",
-        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 142656,
-      "name": "Consejos Gratis",
-      "url": "https://open.spotify.com/track/2xTLTU2K901snq53FLWZKE"
-    },
-    {
-      "added_at": "2023-01-27 06:44:25",
-      "album": {
         "name": "Somos Arrieros",
         "url": "https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 156792,
       "name": "Vida Ventajosa",
       "url": "https://open.spotify.com/track/72kaj3MRKcGnv2dbukJQRA"
+    },
+    {
+      "added_at": "2023-01-27 06:44:25",
+      "album": {
+        "name": "Consejos Gratis",
+        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 142656,
+      "name": "Consejos Gratis",
+      "url": "https://open.spotify.com/track/2xTLTU2K901snq53FLWZKE"
     },
     {
       "added_at": "2023-01-27 06:44:25",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2023-01-27 06:44:25",
       "album": {
+        "name": "Al Estilo Rancheron",
+        "url": "https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 191994,
+      "name": "El Envidioso",
+      "url": "https://open.spotify.com/track/53PoPAD389bBE4ePYuT95g"
+    },
+    {
+      "added_at": "2023-01-27 06:44:25",
+      "album": {
         "name": "El Chino (En Vivo)",
         "url": "https://open.spotify.com/album/38WE0G7MQhz8f9hJjuK1rK"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 180047,
       "name": "El Chino (En Vivo)",
       "url": "https://open.spotify.com/track/4b148u8CHf38OU1yW5Xf1F"
-    },
-    {
-      "added_at": "2023-01-27 06:44:25",
-      "album": {
-        "name": "Al Estilo Rancheron",
-        "url": "https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 191994,
-      "name": "El Envidioso",
-      "url": "https://open.spotify.com/track/53PoPAD389bBE4ePYuT95g"
     },
     {
       "added_at": "2023-01-27 06:44:25",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2023-01-27 06:44:25",
       "album": {
+        "name": "Corridos Pa' la Historia",
+        "url": "https://open.spotify.com/album/325vQ2EMFZ2pHMMq96xHqh"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 155543,
+      "name": "Yo Soy Rico",
+      "url": "https://open.spotify.com/track/6ueysvoc0nj7piSJXEJGJx"
+    },
+    {
+      "added_at": "2023-01-27 06:44:25",
+      "album": {
         "name": "Malas Rachas (En Vivo)",
         "url": "https://open.spotify.com/album/6RQExWvMa6De96hdwfxdDi"
       },
@@ -1491,22 +1507,6 @@
     {
       "added_at": "2023-01-27 06:44:25",
       "album": {
-        "name": "Corridos Pa' la Historia",
-        "url": "https://open.spotify.com/album/325vQ2EMFZ2pHMMq96xHqh"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 155543,
-      "name": "Yo Soy Rico",
-      "url": "https://open.spotify.com/track/6ueysvoc0nj7piSJXEJGJx"
-    },
-    {
-      "added_at": "2023-01-27 06:44:25",
-      "album": {
         "name": "Desde la Ra\u00edz",
         "url": "https://open.spotify.com/album/0QUTQD8QwyAuI1znIdT02Y"
       },
@@ -1519,22 +1519,6 @@
       "duration_ms": 201205,
       "name": "Fumando Mota",
       "url": "https://open.spotify.com/track/2ytQws1jfyFcY2K2MDUfzd"
-    },
-    {
-      "added_at": "2023-01-27 06:44:25",
-      "album": {
-        "name": "Golpe de Estado (En Vivo)",
-        "url": "https://open.spotify.com/album/4HKp5Ouc9lHtJvwlYhlcFg"
-      },
-      "artists": [
-        {
-          "name": "Panchito Arredondo",
-          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
-        }
-      ],
-      "duration_ms": 149163,
-      "name": "300 Locos - En Vivo",
-      "url": "https://open.spotify.com/track/4PjeItnxK4Ht94FFxYoPXf"
     },
     {
       "added_at": "2023-01-27 06:44:25",
@@ -1559,6 +1543,22 @@
       "duration_ms": 211706,
       "name": "La Hummer Y El Camaro",
       "url": "https://open.spotify.com/track/6bRkTmvWjUr6aCXrKGIaG5"
+    },
+    {
+      "added_at": "2023-01-27 06:44:25",
+      "album": {
+        "name": "Golpe de Estado (En Vivo)",
+        "url": "https://open.spotify.com/album/4HKp5Ouc9lHtJvwlYhlcFg"
+      },
+      "artists": [
+        {
+          "name": "Panchito Arredondo",
+          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
+        }
+      ],
+      "duration_ms": 149163,
+      "name": "300 Locos - En Vivo",
+      "url": "https://open.spotify.com/track/4PjeItnxK4Ht94FFxYoPXf"
     },
     {
       "added_at": "2023-01-27 06:44:25",
@@ -1619,8 +1619,8 @@
     {
       "added_at": "2023-01-27 06:44:25",
       "album": {
-        "name": "Corridos De Alto Calibre",
-        "url": "https://open.spotify.com/album/1YKiiRFhUVaLMVEu0l59Ri"
+        "name": "Simplemente Gracias",
+        "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
       },
       "artists": [
         {
@@ -1628,9 +1628,9 @@
           "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 201600,
-      "name": "Javier El De Los Llanos",
-      "url": "https://open.spotify.com/track/7kyK2NSDfRE1612vdYuqIx"
+      "duration_ms": 140880,
+      "name": "Chalito",
+      "url": "https://open.spotify.com/track/6Lb8ikDcpKjF3yx2AnlwzG"
     },
     {
       "added_at": "2023-01-27 06:44:25",
@@ -1667,22 +1667,18 @@
     {
       "added_at": "2023-01-27 06:44:25",
       "album": {
-        "name": "30 Blindadas",
-        "url": "https://open.spotify.com/album/6sNLsF2fYslNGiQzb9NfXG"
+        "name": "El Borracho",
+        "url": "https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta"
       },
       "artists": [
         {
-          "name": "Raul Vega",
-          "url": "https://open.spotify.com/artist/3RG6ihKgeBkOsLAPZxoPp9"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 126293,
-      "name": "30 Blindadas",
-      "url": "https://open.spotify.com/track/1DSEdQdvhbBfXmDkQNZbzf"
+      "duration_ms": 184199,
+      "name": "El Borracho",
+      "url": "https://open.spotify.com/track/5rHezo2wXys6LNAKLrghMG"
     },
     {
       "added_at": "2023-01-27 06:44:25",
@@ -1719,24 +1715,28 @@
     {
       "added_at": "2023-01-27 06:44:25",
       "album": {
-        "name": "El Borracho",
-        "url": "https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta"
+        "name": "30 Blindadas",
+        "url": "https://open.spotify.com/album/6sNLsF2fYslNGiQzb9NfXG"
       },
       "artists": [
         {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+          "name": "Raul Vega",
+          "url": "https://open.spotify.com/artist/3RG6ihKgeBkOsLAPZxoPp9"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 184199,
-      "name": "El Borracho",
-      "url": "https://open.spotify.com/track/5rHezo2wXys6LNAKLrghMG"
+      "duration_ms": 126293,
+      "name": "30 Blindadas",
+      "url": "https://open.spotify.com/track/1DSEdQdvhbBfXmDkQNZbzf"
     },
     {
       "added_at": "2023-01-27 06:44:25",
       "album": {
-        "name": "Simplemente Gracias",
-        "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
+        "name": "Corridos De Alto Calibre",
+        "url": "https://open.spotify.com/album/1YKiiRFhUVaLMVEu0l59Ri"
       },
       "artists": [
         {
@@ -1744,9 +1744,9 @@
           "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 140880,
-      "name": "Chalito",
-      "url": "https://open.spotify.com/track/6Lb8ikDcpKjF3yx2AnlwzG"
+      "duration_ms": 201600,
+      "name": "Javier El De Los Llanos",
+      "url": "https://open.spotify.com/track/7kyK2NSDfRE1612vdYuqIx"
     },
     {
       "added_at": "2023-01-27 06:44:25",

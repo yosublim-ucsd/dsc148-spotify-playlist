@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/keithpowers/\">Keith Powers</a>",
-  "num_followers": 43392,
+  "num_followers": 43586,
   "original_name": "Keith Power's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDc2OTYwMCwwMDAwMDAwMDk5MGY0NjYzNzhkNDFiMWZkODBjNTYxMjFiNzE0MDEx",
+  "snapshot_id": "MTY2NDc2OTYwMCwwMDAwMDAwMGJiNzQ3MTAwNjMzYjU1OGM1NDIyNzRhMDBhOTRhMzlj",
   "tracks": [
     {
       "added_at": "2022-10-03 04:00:00",
@@ -71,22 +71,6 @@
     {
       "added_at": "2022-10-03 04:00:00",
       "album": {
-        "name": "Gemini Rights",
-        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 156506,
-      "name": "Static",
-      "url": "https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem"
-    },
-    {
-      "added_at": "2022-10-03 04:00:00",
-      "album": {
         "name": "Love, Damini",
         "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
       },
@@ -99,6 +83,22 @@
       "duration_ms": 172342,
       "name": "Last Last",
       "url": "https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ"
+    },
+    {
+      "added_at": "2022-10-03 04:00:00",
+      "album": {
+        "name": "Gemini Rights",
+        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 156506,
+      "name": "Static",
+      "url": "https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem"
     },
     {
       "added_at": "2022-10-03 04:00:00",

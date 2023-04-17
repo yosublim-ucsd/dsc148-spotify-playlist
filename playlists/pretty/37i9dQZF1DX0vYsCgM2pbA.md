@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 
 > Kick on with this mix of homegrown electronic music
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,499 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,607 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 | 32 | [I Don't Wanna Leave](https://open.spotify.com/track/0mWXMQ8hrrAJfxN7LG2Wsk) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Surrender](https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN) | 4:29 |
 | 33 | [Can't Do Without \(My Baby\)](https://open.spotify.com/track/4hG6H7xPvEleJD9QUEqaAS) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Can't Do Without \(My Baby\)](https://open.spotify.com/album/2Y2bKgwqnGKYeN7Zun222X) | 3:22 |
 | 34 | [We Don't Ever Stop](https://open.spotify.com/track/7tzsbAE9Md4tr8MAbK4h5i) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [We Don’t Ever Stop](https://open.spotify.com/album/0ZrhY3h9Flf23MIl5udSTV) | 2:40 |
-| 35 | [You](https://open.spotify.com/track/0qjYHI9np3bsH5tr0tX2Pk) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Flansie](https://open.spotify.com/artist/2BArfYNHUsUFaABc7WzoSI) | [You](https://open.spotify.com/album/0Gc4oCJpqyp7D2OchNftc1) | 4:06 |
-| 36 | [Love Language](https://open.spotify.com/track/2hJ0nwb8HPZgo1cTfoHSmH) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Tomorrows](https://open.spotify.com/album/6DiDjfJEnfAjEZAhbSiQSV) | 3:18 |
+| 35 | [Love Language](https://open.spotify.com/track/2hJ0nwb8HPZgo1cTfoHSmH) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Tomorrows](https://open.spotify.com/album/6DiDjfJEnfAjEZAhbSiQSV) | 3:18 |
+| 36 | [You](https://open.spotify.com/track/0qjYHI9np3bsH5tr0tX2Pk) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Flansie](https://open.spotify.com/artist/2BArfYNHUsUFaABc7WzoSI) | [You](https://open.spotify.com/album/0Gc4oCJpqyp7D2OchNftc1) | 4:06 |
 | 37 | [Where The Angels Go To Die](https://open.spotify.com/track/0zwJUJgcZrcdAKfATMYhcq) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Too Much Fun](https://open.spotify.com/album/6DVEb2UcjI2o4W4SdOXksM) | 3:32 |
 | 38 | [Slugger 1.4 \[2014 Export.WAV\]](https://open.spotify.com/track/4FDq7m7jgOpVFV0k3LA3i3) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Slugger 1.4 \[2014 Export.WAV\]](https://open.spotify.com/album/1NEZwyvzSz4EDD68xTRjAu) | 4:08 |
 | 39 | [Alive](https://open.spotify.com/track/5IKaBEdCQlfB6aikIFKuR8) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Alive](https://open.spotify.com/album/7pF1j9CKPRpcecJZrzzhmc) | 5:34 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 | 47 | [Love Is Real](https://open.spotify.com/track/7nZNvE2EdKrH127yzBMW8E) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Love Is Real](https://open.spotify.com/album/2zQJvUy9Cw6BGlYBBL4f8X) | 3:17 |
 | 48 | [Function](https://open.spotify.com/track/4I58pzQEyFpHLXyDGekkCc) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Jordan Dennis](https://open.spotify.com/artist/2iSbupdaMW303tk8tqdCv5) | [Function](https://open.spotify.com/album/1aWuDVpiNWrOQgMNB59adV) | 3:17 |
 | 49 | [Finish What You Started](https://open.spotify.com/track/00H3S427pckJf5DtsKCbeY) | [Boo Seeka](https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO) | [Between The Head & The Heart](https://open.spotify.com/album/0oSNfuiXDJ01zODQnZGMdH) | 2:59 |
-| 50 | [Feelings](https://open.spotify.com/track/25FYMUzUb4f7juGbmfG6El) | [JYYE](https://open.spotify.com/artist/1KNafMiV5Y3OhOr1A5tWwb) | [Feelings](https://open.spotify.com/album/5OiqeHLzyFUUMjnDzMkfue) | 3:00 |
-| 51 | [Empty Promise](https://open.spotify.com/track/0sEn4RyabCmp3dGbbT5J6I) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s), [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Happiness, Guaranteed](https://open.spotify.com/album/2CqFgdXnnF8nmsiP9qDuhX) | 3:51 |
+| 50 | [Empty Promise](https://open.spotify.com/track/0sEn4RyabCmp3dGbbT5J6I) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s), [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Happiness, Guaranteed](https://open.spotify.com/album/2CqFgdXnnF8nmsiP9qDuhX) | 3:51 |
+| 51 | [Feelings](https://open.spotify.com/track/25FYMUzUb4f7juGbmfG6El) | [JYYE](https://open.spotify.com/artist/1KNafMiV5Y3OhOr1A5tWwb) | [Feelings](https://open.spotify.com/album/5OiqeHLzyFUUMjnDzMkfue) | 3:00 |
 | 52 | [The Last Goodbye \(feat\. Bettye LaVette\) \- Hayden James Remix](https://open.spotify.com/track/78M9wiuBmRktLeDvgvsk3s) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [The Last Goodbye \(Hayden James Remix\)](https://open.spotify.com/album/6I8qUd7EE0xPGpY0H4jh5E) | 3:44 |
 | 53 | [Why 1.3 \[2012 Export Wav\]](https://open.spotify.com/track/4K0dZGCi79U9TnZNkLJpkb) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Things Don't Always Go The Way You Plan](https://open.spotify.com/album/6JlmbLrsozWe61rYTVsG7n) | 4:53 |
 | 54 | [Feel It Too](https://open.spotify.com/track/2orNXSkyIRgWWAVHRjjchs) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6) | [Closure](https://open.spotify.com/album/2tQMlxXnIuH9bdnytpKZCz) | 4:53 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 | 59 | [Frauds \(Mall Grab Remix\)](https://open.spotify.com/track/6scCpOSEfY7FfDRjkHnUwL) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Frauds \(Mall Grab Remix\)](https://open.spotify.com/album/1JsPxT71G12JueIEVP0UR1) | 3:36 |
 | 60 | [Patience](https://open.spotify.com/track/0MYqjhoG0r9K23MAk4ok5A) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [What I Breathe](https://open.spotify.com/album/4Xt7IVNtLEjVjetUBufoyw) | 4:17 |
 
-Snapshot ID: `MTY4MTM5NzExOSwwMDAwMDAwMDNhYWM2YTE2NmM0ZjY2NzY0MzIyMmY3MjRlY2VlYjI0`
+Snapshot ID: `MTY4MTM5NzExOSwwMDAwMDAwMDIxZTFmZTBkZTEwNzNiYjA4ZDJiOTBkNDc5NTYxODFh`

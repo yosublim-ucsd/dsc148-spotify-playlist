@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rSirtgYLyt.md) - [plain]
 
 > The best cover versions from the world of Blues\. Taj Mahal on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,394 likes - 96 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,492 likes - 96 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rSirtgYLyt.md) - [plain]
 | 65 | [On The Road Again](https://open.spotify.com/track/6IWxHgVbdKyUMydhVGXRaT) | [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [The Best Of Canned Heat](https://open.spotify.com/album/0TBmLh3U5sk1F8eF0twjwi) | 3:26 |
 | 66 | [Green Manalishi \(With the Two Prong Crown\)](https://open.spotify.com/track/1ugH9JwMb8Kv77IeNrkvWw) | [LORE](https://open.spotify.com/artist/18w4oJknIoBRU0ZB3ECGA2) | [Green Manalishi \(With the Two Prong Crown\)](https://open.spotify.com/album/3r9rCDEGcz1CdtHzepxcf8) | 5:48 |
 | 67 | [Sweet Home Chicago \- Mono Rough Mix](https://open.spotify.com/track/5zGssSIGlzrEWZOH3M8Bn6) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Buddy Guy & Junior Wells Play The Blues \(Expanded\)](https://open.spotify.com/album/258nJWLkWNsQshy4AZUDaQ) | 4:00 |
-| 68 | [Ramblin' On My Mind \- Mono](https://open.spotify.com/track/5ah6Etv38v3ZsE0iyZMdTq) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Bluesbreakers](https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o) | 3:06 |
+| 68 | [Ramblin' On My Mind \- Mono](https://open.spotify.com/track/5ah6Etv38v3ZsE0iyZMdTq) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy), [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Bluesbreakers](https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o) | 3:06 |
 | 69 | [\(Baby\) You Got What It Takes \(feat\. Joss Stone\)](https://open.spotify.com/track/31dzIMOW5SH3UejDcmY6Ws) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Born To Play Guitar](https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W) | 3:17 |
 | 70 | [Travelling Riverside Blues \(BBC Session\) \- Remastered](https://open.spotify.com/track/3dCarMp6T3GsKCspJgeD0a) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Coda \(Deluxe Edition\)](https://open.spotify.com/album/56G9UnPmRifbubzPDJfAyd) | 5:11 |
 | 71 | [Give Me One Reason](https://open.spotify.com/track/3ag0SbzIlflUWf1ChhEmhZ) | [Big Daddy Wilson](https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr) | [Neckbone Stew](https://open.spotify.com/album/5WaGSIkfMgfuJ0Yd9FNyKb) | 4:23 |

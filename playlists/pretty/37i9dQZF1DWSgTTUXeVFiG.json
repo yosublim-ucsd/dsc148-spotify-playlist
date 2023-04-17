@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos de siempre en concierto. Foto: Celia Cruz",
-  "num_followers": 15730,
+  "num_followers": 15771,
   "original_name": "Vivo de Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzU3OTYwMCwwMDAwMDAwMDc2NWQ1Mzc3MDhlYzIyNjU3MmE1YWRhZGYxMTM1YTBj",
+  "snapshot_id": "MTY0NzU3OTYwMCwwMDAwMDAwMDVmNmVlNmI2MTg0ZWYxNTdlNzI3OTI0MmQyMzZiODQz",
   "tracks": [
     {
       "added_at": "2022-03-18 05:00:00",
@@ -375,22 +375,6 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Va por Ti, Frankie (Concierto Homenaje a Frankie Ruiz)",
-        "url": "https://open.spotify.com/album/3NpPEaMbkXan11KO2FB43Q"
-      },
-      "artists": [
-        {
-          "name": "Tommy Olivencia",
-          "url": "https://open.spotify.com/artist/38fLjRT1W1x3RR6SWWxL0x"
-        }
-      ],
-      "duration_ms": 311520,
-      "name": "Viajera",
-      "url": "https://open.spotify.com/track/5sGcHVN7zuehqXAcNHe4Ek"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
         "name": "Sergio George Presents Salsa Giants (Live)",
         "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 388360,
       "name": "Aguanile - Live Version",
       "url": "https://open.spotify.com/track/5HOX67EERSs8OXmuD8uWvH"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Va por Ti, Frankie (Concierto Homenaje a Frankie Ruiz)",
+        "url": "https://open.spotify.com/album/3NpPEaMbkXan11KO2FB43Q"
+      },
+      "artists": [
+        {
+          "name": "Tommy Olivencia",
+          "url": "https://open.spotify.com/artist/38fLjRT1W1x3RR6SWWxL0x"
+        }
+      ],
+      "duration_ms": 311520,
+      "name": "Viajera",
+      "url": "https://open.spotify.com/track/5sGcHVN7zuehqXAcNHe4Ek"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -511,38 +511,6 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/2kIKvvOkkLqfGUyAaiU3rQ"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 522960,
-      "name": "Juanito Alima\u00f1a - Live",
-      "url": "https://open.spotify.com/track/6ZBmiKpvm0Wkv8oxstW9f2"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Sergio George Presents Salsa Giants (Live)",
-        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
-      },
-      "artists": [
-        {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
-        }
-      ],
-      "duration_ms": 343786,
-      "name": "Yo No S\u00e9 Ma\u00f1ana - Live Version",
-      "url": "https://open.spotify.com/track/6sc28e5O4zPT3N1VY7N5Q3"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
         "name": "Sergio George Presents Salsa Giants (Live)",
         "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
       },
@@ -575,6 +543,22 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/2kIKvvOkkLqfGUyAaiU3rQ"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 522960,
+      "name": "Juanito Alima\u00f1a - Live",
+      "url": "https://open.spotify.com/track/6ZBmiKpvm0Wkv8oxstW9f2"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
         "name": "40... y Contando (En Vivo Desde Puerto Rico)",
         "url": "https://open.spotify.com/album/1oftR2h20tzZjMEiesBPJp"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 442960,
       "name": "Agua que Cae del Cielo (Lluvia) (feat. Willie Rosario) - En Vivo desde Puerto Rico",
       "url": "https://open.spotify.com/track/39XBzvG6sBfwvNvhfD7bpA"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Sergio George Presents Salsa Giants (Live)",
+        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
+      },
+      "artists": [
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        }
+      ],
+      "duration_ms": 343786,
+      "name": "Yo No S\u00e9 Ma\u00f1ana - Live Version",
+      "url": "https://open.spotify.com/track/6sc28e5O4zPT3N1VY7N5Q3"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -791,18 +791,18 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "En Vivo Desde Bellas Artes",
-        "url": "https://open.spotify.com/album/7GjrbV5AIgz240w67gmVCs"
+        "name": "Sergio George Presents Salsa Giants (Live)",
+        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
       },
       "artists": [
         {
-          "name": "Roberto Roena",
-          "url": "https://open.spotify.com/artist/4i5rDrP2IqCdMgde0vIpyB"
+          "name": "Willy Chirino",
+          "url": "https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO"
         }
       ],
-      "duration_ms": 278866,
-      "name": "Tu Loco, Loco, Y Yo Tranquilo",
-      "url": "https://open.spotify.com/track/5ZnS39e15qQqAFS7lgCPE1"
+      "duration_ms": 352480,
+      "name": "Medias Negras - Live Version",
+      "url": "https://open.spotify.com/track/51QsdN4xBmkLhtqNi0J40l"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -823,18 +823,18 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Sergio George Presents Salsa Giants (Live)",
-        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
+        "name": "En Vivo Desde Bellas Artes",
+        "url": "https://open.spotify.com/album/7GjrbV5AIgz240w67gmVCs"
       },
       "artists": [
         {
-          "name": "Willy Chirino",
-          "url": "https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO"
+          "name": "Roberto Roena",
+          "url": "https://open.spotify.com/artist/4i5rDrP2IqCdMgde0vIpyB"
         }
       ],
-      "duration_ms": 352480,
-      "name": "Medias Negras - Live Version",
-      "url": "https://open.spotify.com/track/51QsdN4xBmkLhtqNi0J40l"
+      "duration_ms": 278866,
+      "name": "Tu Loco, Loco, Y Yo Tranquilo",
+      "url": "https://open.spotify.com/track/5ZnS39e15qQqAFS7lgCPE1"
     },
     {
       "added_at": "2022-03-18 05:00:00",

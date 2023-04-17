@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Hozwal",
-  "num_followers": 515943,
+  "num_followers": 515996,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NzAxMiwwMDAwMDAwMGY4MmY2YWYwMTZiMGFkODY2NjBlOGQ2YWM1ZTlhY2Nm",
+  "snapshot_id": "MTY4MTQ0NzAxMiwwMDAwMDAwMGIzMGZmOTZmMDliOWIxYjNlYWUyY2Y4MWFlMmEyZWUx",
   "tracks": [
     {
       "added_at": "2023-04-14 04:36:52",
@@ -287,18 +287,22 @@
     {
       "added_at": "2023-04-14 04:36:52",
       "album": {
-        "name": "REMIX EXCLUSIVO",
-        "url": "https://open.spotify.com/album/0K9klyLQafG164T9f7NKkS"
+        "name": "Classy 101",
+        "url": "https://open.spotify.com/album/4jtQUtS4ABgER3DnGfKJCv"
       },
       "artists": [
         {
           "name": "Feid",
           "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
         }
       ],
-      "duration_ms": 206946,
-      "name": "REMIX EXCLUSIVO",
-      "url": "https://open.spotify.com/track/3eqCJfgJJs8iKx49KO12s3"
+      "duration_ms": 195986,
+      "name": "Classy 101",
+      "url": "https://open.spotify.com/track/6XSqqQIy7Lm7SnwxS4NrGx"
     },
     {
       "added_at": "2023-04-14 04:36:52",
@@ -463,22 +467,18 @@
     {
       "added_at": "2023-04-14 04:36:52",
       "album": {
-        "name": "Classy 101",
-        "url": "https://open.spotify.com/album/4jtQUtS4ABgER3DnGfKJCv"
+        "name": "REMIX EXCLUSIVO",
+        "url": "https://open.spotify.com/album/0K9klyLQafG164T9f7NKkS"
       },
       "artists": [
         {
           "name": "Feid",
           "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
         }
       ],
-      "duration_ms": 195986,
-      "name": "Classy 101",
-      "url": "https://open.spotify.com/track/6XSqqQIy7Lm7SnwxS4NrGx"
+      "duration_ms": 206946,
+      "name": "REMIX EXCLUSIVO",
+      "url": "https://open.spotify.com/track/3eqCJfgJJs8iKx49KO12s3"
     },
     {
       "added_at": "2023-04-14 04:36:52",
@@ -575,22 +575,18 @@
     {
       "added_at": "2023-04-14 04:36:52",
       "album": {
-        "name": "TAMO EN NOTA",
-        "url": "https://open.spotify.com/album/2nMe3lptQDUXDsjIyUcnON"
+        "name": "LA VIDA ES UNA",
+        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
       },
       "artists": [
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Angel Dior",
-          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 180060,
-      "name": "TAMO EN NOTA",
-      "url": "https://open.spotify.com/track/2I0aHZjCXh6UjMHIOqugYF"
+      "duration_ms": 163240,
+      "name": "MI DROGA",
+      "url": "https://open.spotify.com/track/5OYRVKWII0Eog7CjQRnmGf"
     },
     {
       "added_at": "2023-04-14 04:36:52",
@@ -623,18 +619,22 @@
     {
       "added_at": "2023-04-14 04:36:52",
       "album": {
-        "name": "LA VIDA ES UNA",
-        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
+        "name": "TAMO EN NOTA",
+        "url": "https://open.spotify.com/album/2nMe3lptQDUXDsjIyUcnON"
       },
       "artists": [
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Angel Dior",
+          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
         }
       ],
-      "duration_ms": 163240,
-      "name": "MI DROGA",
-      "url": "https://open.spotify.com/track/5OYRVKWII0Eog7CjQRnmGf"
+      "duration_ms": 180060,
+      "name": "TAMO EN NOTA",
+      "url": "https://open.spotify.com/track/2I0aHZjCXh6UjMHIOqugYF"
     },
     {
       "added_at": "2023-04-14 04:36:52",
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-04-14 04:36:52",
       "album": {
+        "name": "SHERATON",
+        "url": "https://open.spotify.com/album/0kfpaS0fOMNNohtRbY7ZxI"
+      },
+      "artists": [
+        {
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        }
+      ],
+      "duration_ms": 142040,
+      "name": "SHERATON",
+      "url": "https://open.spotify.com/track/6sOSd3PYqy3UnSXF5r0MvN"
+    },
+    {
+      "added_at": "2023-04-14 04:36:52",
+      "album": {
         "name": "LA HORA Y EL D\u00cdA",
         "url": "https://open.spotify.com/album/3AucKVb9GvQ4pOGaZ8UhFK"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 217254,
       "name": "LA HORA Y EL D\u00cdA",
       "url": "https://open.spotify.com/track/1j4yhkxSCEDmiLVKjpYKWq"
-    },
-    {
-      "added_at": "2023-04-14 04:36:52",
-      "album": {
-        "name": "SHERATON",
-        "url": "https://open.spotify.com/album/0kfpaS0fOMNNohtRbY7ZxI"
-      },
-      "artists": [
-        {
-          "name": "El Jordan 23",
-          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
-        }
-      ],
-      "duration_ms": 142040,
-      "name": "SHERATON",
-      "url": "https://open.spotify.com/track/6sOSd3PYqy3UnSXF5r0MvN"
     },
     {
       "added_at": "2023-04-14 04:36:52",
@@ -847,26 +847,6 @@
     {
       "added_at": "2023-04-14 04:36:52",
       "album": {
-        "name": "AFTER PARTY",
-        "url": "https://open.spotify.com/album/2kNNMnHh6XovIPMNA2mIzU"
-      },
-      "artists": [
-        {
-          "name": "Kevin Roldan",
-          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
-        },
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        }
-      ],
-      "duration_ms": 210680,
-      "name": "AFTER PARTY",
-      "url": "https://open.spotify.com/track/2dJBk3D3vAqj3hnULBYny6"
-    },
-    {
-      "added_at": "2023-04-14 04:36:52",
-      "album": {
         "name": "En Bajita",
         "url": "https://open.spotify.com/album/77hesD3v2jWR2dnhElz9Yp"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 209302,
       "name": "En Bajita",
       "url": "https://open.spotify.com/track/5K9VzfSr7L34rMMJxe8ndg"
+    },
+    {
+      "added_at": "2023-04-14 04:36:52",
+      "album": {
+        "name": "AFTER PARTY",
+        "url": "https://open.spotify.com/album/2kNNMnHh6XovIPMNA2mIzU"
+      },
+      "artists": [
+        {
+          "name": "Kevin Roldan",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "duration_ms": 210680,
+      "name": "AFTER PARTY",
+      "url": "https://open.spotify.com/track/2dJBk3D3vAqj3hnULBYny6"
     },
     {
       "added_at": "2023-04-14 04:36:52",
@@ -919,6 +919,22 @@
       "duration_ms": 161287,
       "name": "Tiempos de Plan B",
       "url": "https://open.spotify.com/track/3ncDEAUzMdf291D27RJQdM"
+    },
+    {
+      "added_at": "2023-04-14 04:36:52",
+      "album": {
+        "name": "LA VIDA ES UNA",
+        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 167175,
+      "name": "AGUARDIENTE",
+      "url": "https://open.spotify.com/track/3Z0l8qwMuC376pcutLVsY8"
     },
     {
       "added_at": "2023-04-14 04:36:52",
@@ -967,18 +983,22 @@
     {
       "added_at": "2023-04-14 04:36:52",
       "album": {
-        "name": "LA VIDA ES UNA",
-        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
+        "name": "Brinca",
+        "url": "https://open.spotify.com/album/4jLqHMNoB6G1idIYYwrtgH"
       },
       "artists": [
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
         }
       ],
-      "duration_ms": 167175,
-      "name": "AGUARDIENTE",
-      "url": "https://open.spotify.com/track/3Z0l8qwMuC376pcutLVsY8"
+      "duration_ms": 146086,
+      "name": "Brinca",
+      "url": "https://open.spotify.com/track/2T9GW5NdmBnz5ZlDkmMZZS"
     },
     {
       "added_at": "2023-04-14 04:36:52",
@@ -999,26 +1019,6 @@
       "duration_ms": 156000,
       "name": "Be Con Be",
       "url": "https://open.spotify.com/track/1CtTPDF2C68dorPvn7S8oR"
-    },
-    {
-      "added_at": "2023-04-14 04:36:52",
-      "album": {
-        "name": "Brinca",
-        "url": "https://open.spotify.com/album/4jLqHMNoB6G1idIYYwrtgH"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 146086,
-      "name": "Brinca",
-      "url": "https://open.spotify.com/track/2T9GW5NdmBnz5ZlDkmMZZS"
     },
     {
       "added_at": "2023-04-14 04:36:52",
@@ -1135,6 +1135,38 @@
     {
       "added_at": "2023-04-14 04:36:52",
       "album": {
+        "name": "Peli-Culeo (Remix)",
+        "url": "https://open.spotify.com/album/6r9E0ojkW7EHWBKLgznPME"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Randy",
+          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 221646,
+      "name": "Peli-Culeo - Remix",
+      "url": "https://open.spotify.com/track/0fHpcRj2Jog7fHYB6DbOZF"
+    },
+    {
+      "added_at": "2023-04-14 04:36:52",
+      "album": {
         "name": "D X VIDA",
         "url": "https://open.spotify.com/album/5kr54C0vWd6aZq3IarPMdk"
       },
@@ -1195,38 +1227,6 @@
       "duration_ms": 225054,
       "name": "En La Intimidad",
       "url": "https://open.spotify.com/track/1EmVyH2yt5PEMm4hVftZ6d"
-    },
-    {
-      "added_at": "2023-04-14 04:36:52",
-      "album": {
-        "name": "Peli-Culeo (Remix)",
-        "url": "https://open.spotify.com/album/6r9E0ojkW7EHWBKLgznPME"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        },
-        {
-          "name": "Randy",
-          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
-        },
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        }
-      ],
-      "duration_ms": 221646,
-      "name": "Peli-Culeo - Remix",
-      "url": "https://open.spotify.com/track/0fHpcRj2Jog7fHYB6DbOZF"
     },
     {
       "added_at": "2023-04-14 04:36:52",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2023-04-14 04:36:52",
       "album": {
+        "name": "My Name",
+        "url": "https://open.spotify.com/album/5VX1xk0uVSPBVUsD80v1ji"
+      },
+      "artists": [
+        {
+          "name": "Neutro Shorty",
+          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "My Name",
+      "url": "https://open.spotify.com/track/0O1AdqQhfLoWp0gNsG8ysy"
+    },
+    {
+      "added_at": "2023-04-14 04:36:52",
+      "album": {
         "name": "El DJ",
         "url": "https://open.spotify.com/album/36fxSO2fchu2m4pqtL5nGy"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 179361,
       "name": "El DJ",
       "url": "https://open.spotify.com/track/7MFPvxXabl3fPHJBfcvOHu"
-    },
-    {
-      "added_at": "2023-04-14 04:36:52",
-      "album": {
-        "name": "My Name",
-        "url": "https://open.spotify.com/album/5VX1xk0uVSPBVUsD80v1ji"
-      },
-      "artists": [
-        {
-          "name": "Neutro Shorty",
-          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "My Name",
-      "url": "https://open.spotify.com/track/0O1AdqQhfLoWp0gNsG8ysy"
     },
     {
       "added_at": "2023-04-14 04:36:52",
@@ -1823,26 +1823,6 @@
     {
       "added_at": "2023-04-14 04:36:52",
       "album": {
-        "name": "C\u00f3digos",
-        "url": "https://open.spotify.com/album/04lH7i7S1sf9xDx2zbIQZd"
-      },
-      "artists": [
-        {
-          "name": "Omy de Oro",
-          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
-        },
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        }
-      ],
-      "duration_ms": 216521,
-      "name": "En Mis Sue\u00f1os",
-      "url": "https://open.spotify.com/track/0CyBQFxnc2OQIZ2AVxDxLy"
-    },
-    {
-      "added_at": "2023-04-14 04:36:52",
-      "album": {
         "name": "K Tas Haciendo?",
         "url": "https://open.spotify.com/album/2u8q8zfkCdLrZiWWKuvshA"
       },
@@ -1863,6 +1843,26 @@
       "duration_ms": 169109,
       "name": "K Tas Haciendo?",
       "url": "https://open.spotify.com/track/1klFPKt6JaTc0YWCV8OLYT"
+    },
+    {
+      "added_at": "2023-04-14 04:36:52",
+      "album": {
+        "name": "C\u00f3digos",
+        "url": "https://open.spotify.com/album/04lH7i7S1sf9xDx2zbIQZd"
+      },
+      "artists": [
+        {
+          "name": "Omy de Oro",
+          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
+        },
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "duration_ms": 216521,
+      "name": "En Mis Sue\u00f1os",
+      "url": "https://open.spotify.com/track/0CyBQFxnc2OQIZ2AVxDxLy"
     },
     {
       "added_at": "2023-04-14 04:36:52",

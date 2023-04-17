@@ -1,12 +1,12 @@
 {
   "description": "New music and recent favorites from rising and iconic songsmiths and storytellers. Cover: Jake Blount",
-  "num_followers": 177911,
+  "num_followers": 177954,
   "original_name": "Contemporary Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDI4NTk0ZGQ4Yjc3ODJlYTBjMDk5MWRjNzQ2ZGUxNzll",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDg4ZDczNTE1YTg2ZTU4OWM1MGYwYTlkMWI2NTYzZDBj",
   "tracks": [
     {
       "added_at": "2022-02-25 19:00:55",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/2coGGOjBDPEts7MCgAxrsj"
-      },
-      "artists": [
-        {
-          "name": "Aoife O'Donovan",
-          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
-        }
-      ],
-      "duration_ms": 210196,
-      "name": "Phoenix",
-      "url": "https://open.spotify.com/track/2xtgvbuwqBgjI89UmCHApY"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
         "name": "Don't Let Me Disappear",
         "url": "https://open.spotify.com/album/3Oliq76kwRgabXMJOtuUz7"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 264522,
       "name": "Don't Let Me Disappear",
       "url": "https://open.spotify.com/track/1StMd0fcQFpwrkYTJuHj8z"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/2coGGOjBDPEts7MCgAxrsj"
+      },
+      "artists": [
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "duration_ms": 210196,
+      "name": "Phoenix",
+      "url": "https://open.spotify.com/track/2xtgvbuwqBgjI89UmCHApY"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Pohorylle",
-        "url": "https://open.spotify.com/album/5fqxOeUUV2uv4cJ1VltThR"
-      },
-      "artists": [
-        {
-          "name": "Margo Cilker",
-          "url": "https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7"
-        }
-      ],
-      "duration_ms": 187306,
-      "name": "Tehachapi",
-      "url": "https://open.spotify.com/track/5jAwx5j4pI1iy9cm1ZmwM4"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
         "name": "Riddy Arman",
         "url": "https://open.spotify.com/album/2WtTw0kbBBF9tSLXajwney"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 194306,
       "name": "Too Late to Write a Love Song",
       "url": "https://open.spotify.com/track/0waQPHO2e0G3NK8QtOBM1b"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
+        "name": "Pohorylle",
+        "url": "https://open.spotify.com/album/5fqxOeUUV2uv4cJ1VltThR"
+      },
+      "artists": [
+        {
+          "name": "Margo Cilker",
+          "url": "https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7"
+        }
+      ],
+      "duration_ms": 187306,
+      "name": "Tehachapi",
+      "url": "https://open.spotify.com/track/5jAwx5j4pI1iy9cm1ZmwM4"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Blue Heron Suite",
-        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 268080,
-      "name": "Blue Heron",
-      "url": "https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
         "name": "Vincent Neil Emerson",
         "url": "https://open.spotify.com/album/17Ez3EXApQUrtqojPQvX6x"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 293240,
       "name": "Learnin' to Drown",
       "url": "https://open.spotify.com/track/0jdXNwaLrxoY8n4LHLeBKX"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
+        "name": "Blue Heron Suite",
+        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 268080,
+      "name": "Blue Heron",
+      "url": "https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Nine Pin",
-        "url": "https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs"
-      },
-      "artists": [
-        {
-          "name": "Kaia Kater",
-          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
-        }
-      ],
-      "duration_ms": 239093,
-      "name": "Saint Elizabeth",
-      "url": "https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
         "name": "The Eternal Rocks Beneath",
         "url": "https://open.spotify.com/album/75Q8BLDuURslpcTthbAcsS"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 254633,
       "name": "Indigo",
       "url": "https://open.spotify.com/track/4dEShdbZOn5qXWXQbUyGh9"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
+        "name": "Nine Pin",
+        "url": "https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs"
+      },
+      "artists": [
+        {
+          "name": "Kaia Kater",
+          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
+        }
+      ],
+      "duration_ms": 239093,
+      "name": "Saint Elizabeth",
+      "url": "https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB"
     },
     {
       "added_at": "2022-02-25 19:00:55",

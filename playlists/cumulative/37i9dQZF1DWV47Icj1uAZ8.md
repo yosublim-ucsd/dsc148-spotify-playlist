@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://twitter.com/kofi">Kofi Siriboe</a>
 
-57 songs - 4 hr 6 min
+58 songs - 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Any Time, Any Place](https://open.spotify.com/track/2yOm4lN7aTygtXanJFNFWU) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Janet](https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg) | 7:08 | 2022-10-01 |  |
 | [Bria's Interlude \(feat\. Omarion\)](https://open.spotify.com/track/4i3GraNMzBKze1WsVl38DS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT) | [So Far Gone](https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh) | 2:19 | 2022-10-01 |  |
 | [Circles](https://open.spotify.com/track/4jXl6VtkFFKIt3ycUQc5LT) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles](https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb) | 2:50 | 2022-10-01 |  |
+| [Claudia, Wilhelm R And Me](https://open.spotify.com/track/4jR8SmpJ76qsD1TlaD6TIY) | [Roberto Musci](https://open.spotify.com/artist/1HSz5qiRNcs8eJ0Sp2LOxw) | [Tower of Silence](https://open.spotify.com/album/0emZeMYklVE3LS97rGKN8S) | 2:57 | 2022-10-01 |  |
 | [Dead Man Walking](https://open.spotify.com/track/5VlTQnZO89Ioku8ssdbqJk) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Dead Man Walking](https://open.spotify.com/album/7JN4bDXgC4mDcuhghlFBHc) | 4:07 | 2022-10-01 |  |
 | [Distant Lover](https://open.spotify.com/track/5Xt3RUiOkiH2pGYtMTVeNS) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Let's Get It On \(Expanded Edition\)](https://open.spotify.com/album/6AmnVWOxXYucWxgidEgwhy) | 4:15 | 2022-10-01 |  |
 | [don’t i \(feat\. Gunna\)](https://open.spotify.com/track/4t2HbYiaqvoPsbSrOB0LqS) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [LIVE LIFE FAST](https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94) | 3:33 | 2022-10-01 |  |
@@ -58,7 +59,7 @@
 | [t h e \. c l i m b \. b a c k](https://open.spotify.com/track/5lLNBIyjp72btcnrjBG751) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 5:06 | 2022-10-01 |  |
 | [The Message](https://open.spotify.com/track/1AHfovSnGPVYKaahRtA0U6) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [It Was Written](https://open.spotify.com/album/78Fgb88MY0ECc4GVMejqTg) | 3:54 | 2022-10-01 |  |
 | [Time's A Wastin](https://open.spotify.com/track/6q8fYYujrQxXckq1tTtqqi) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 6:40 | 2022-10-01 | 2023-04-04 |
-| [Timmy's Prayer](https://open.spotify.com/track/16bQdxSVtmvL2hc4h3OJE3) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Process \(Bonus Edition\)](https://open.spotify.com/album/4rA6i9oXyMhh77pqK0cXKv) | 4:23 | 2022-10-01 |  |
+| [Timmy's Prayer](https://open.spotify.com/track/16bQdxSVtmvL2hc4h3OJE3) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Process \(Bonus Edition\)](https://open.spotify.com/album/4rA6i9oXyMhh77pqK0cXKv) | 4:23 | 2022-10-01 | 2023-04-17 |
 | [Trouble](https://open.spotify.com/track/5yplb3035SZqG3E6TArvGK) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Trouble](https://open.spotify.com/album/0kjpOQzwiIr55TIBBJ5coK) | 3:43 | 2022-10-01 |  |
 | [Wildfire](https://open.spotify.com/track/06U3tIapsJ0X6dZx5nhLtt) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [SBTRKT](https://open.spotify.com/album/4ncktAfHYJlko5yZgqce3H) | 3:21 | 2022-10-01 | 2022-11-13 |
 | [Wildfire](https://open.spotify.com/track/0fiTN2N5HEIefAHtm00vYG) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [SBTRKT \(Deluxe Version\)](https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq) | 3:21 | 2022-10-01 |  |

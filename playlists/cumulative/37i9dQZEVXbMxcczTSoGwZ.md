@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-1,347 songs - 3 day 1 hr 28 min
+1,348 songs - 3 day 1 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Anna mun rakastaa](https://open.spotify.com/track/3XWTJgRk4FfgiRnGXwdCt3) | [Erin](https://open.spotify.com/artist/5H34mYQz0gLcqPWIOTyDaJ) | [Anna mun rakastaa](https://open.spotify.com/album/6tZbLPoy9A3x6zfszrgQYq) | 2:56 | 2022-01-08 | 2022-03-06 |
 | [Anna mun sydän takas](https://open.spotify.com/track/6TnHiSoPWFnSEK5wGvcA0C) | [Heikki Kuula](https://open.spotify.com/artist/2EuQqDENk0vVonzvKya24Q) | [Anna mun sydän takas](https://open.spotify.com/album/0Q2M6DmJ1moOJwiu2gkA4I) | 2:57 | 2021-11-07 | 2021-11-08 |
 | [ANNAWA](https://open.spotify.com/track/21GN53EvKL963Dr2Q2B9SW) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [LIMBO](https://open.spotify.com/album/35eRCbiaVPNOpSvleCo6JZ) | 2:40 | 2022-12-10 | 2023-03-12 |
-| [Anneli](https://open.spotify.com/track/3eWWMMuhJoswsc1KpvAbrG) | [STIG](https://open.spotify.com/artist/6TKvvwslcx2bKwiX2aBxbd) | [Anneli](https://open.spotify.com/album/6p2JvXQjGP9Zi13eUE91hF) | 3:05 | 2023-04-15 |  |
+| [Anneli](https://open.spotify.com/track/3eWWMMuhJoswsc1KpvAbrG) | [STIG](https://open.spotify.com/artist/6TKvvwslcx2bKwiX2aBxbd) | [Anneli](https://open.spotify.com/album/6p2JvXQjGP9Zi13eUE91hF) | 3:05 | 2023-04-15 | 2023-04-17 |
 | [annoin mun sydämen \- sped up](https://open.spotify.com/track/2AJ6rvmP2r9015CgO4bFG6) | [whereismike](https://open.spotify.com/artist/6EbpHfQA5YHcyDKT0Ghaim) | [annoin mun sydämen \(sped up\)](https://open.spotify.com/album/2zhjNljeteuATbvNDMhNMP) | 2:21 | 2023-02-04 | 2023-02-19 |
 | [Another Love](https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down](https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ) | 4:04 | 2021-04-14 | 2023-04-02 |
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2022-10-22 | 2023-01-07 |
@@ -157,6 +157,7 @@
 | [Cha Cha Cha](https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [Cha Cha Cha](https://open.spotify.com/album/5rBqeRlrrzR77MAkbgAmS6) | 2:55 | 2023-01-19 |  |
 | [Champagne Poetry](https://open.spotify.com/track/2HSmyk2qMN8WQjuGhaQgCk) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 5:36 | 2021-09-05 | 2021-09-09 |
 | [Cheek](https://open.spotify.com/track/6Zy7DwGzHvezMHUASmAvqv) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [ViO](https://open.spotify.com/album/1syZJ0HasgimydePATEIfx) | 3:48 | 2022-03-05 | 2022-03-21 |
+| [Chemical](https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA) | 3:04 | 2023-04-16 |  |
 | [Chillaa veli](https://open.spotify.com/track/1agD3NMqnpaejVler2S9xJ) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Chillaa veli](https://open.spotify.com/album/7lHrsy9SvjKWr2Ca13Qv8d) | 2:51 | 2022-07-09 | 2023-01-06 |
 | [Chillaa veli](https://open.spotify.com/track/7LORRjg6Pvi6ROFEPC2VPy) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Sextape II](https://open.spotify.com/album/7AtxLIvzuR2T3jsr62wzyR) | 2:51 | 2023-01-07 | 2023-01-17 |
 | [Christmas Lights](https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Christmas Lights](https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy) | 4:02 | 2022-12-25 | 2022-12-27 |
@@ -975,7 +976,7 @@
 | [RAPSTAR](https://open.spotify.com/track/43PGPuHIlVOc04jrZVh9L6) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [RAPSTAR](https://open.spotify.com/album/0SVzFcpsByITKgURaxXdsV) | 2:45 | 2021-04-11 | 2021-05-27 |
 | [Rasputin](https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Rasputin](https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd) | 3:06 | 2021-05-03 | 2023-01-03 |
 | [Reggaemiehen lauantai \(Vain elämää kausi 12\)](https://open.spotify.com/track/7vCzRSmOiztXt4ikVp0uMU) | [Jukka Poika](https://open.spotify.com/artist/57ZjZU8vSOeP0Q2hbwh8wn) | [Reggaemiehen lauantai \(Vain elämää kausi 12\)](https://open.spotify.com/album/7zNoZoPUdCMVRPkJaWwsGl) | 2:52 | 2021-10-04 | 2021-10-19 |
-| [Reiviluola](https://open.spotify.com/track/1RCQAeceDgtbD7WVLWr05S) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Älä pelkää elämää](https://open.spotify.com/album/6CHpJofiGTiA1GjaKbqpfo) | 4:07 | 2021-09-12 | 2023-04-16 |
+| [Reiviluola](https://open.spotify.com/track/1RCQAeceDgtbD7WVLWr05S) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Älä pelkää elämää](https://open.spotify.com/album/6CHpJofiGTiA1GjaKbqpfo) | 4:07 | 2021-09-12 |  |
 | [Reiviluola \- Remix](https://open.spotify.com/track/4eVRTOy6vUWuwD03ccIXYv) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s), [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc), [jambo](https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0) | [Reiviluola \(Remix\)](https://open.spotify.com/album/3F9pbcw4b20EvSNQoMYhZx) | 3:19 | 2022-12-31 | 2023-01-19 |
 | [Remember](https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Remember](https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF) | 2:40 | 2021-06-20 | 2021-06-26 |
 | [Remote Control](https://open.spotify.com/track/3SYLoL8KHxdQPYIkfwmUjN) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:18 | 2021-08-31 | 2021-09-02 |
@@ -1055,7 +1056,7 @@
 | [Silmät](https://open.spotify.com/track/1rYP6R16sM0uSlxrqzR5pM) | [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [Diplomaatti](https://open.spotify.com/album/3RqMFWox0y0ofDtvPimCqk) | 3:49 | 2023-04-04 |  |
 | [Sinä olet kaunis \- Vain elämää kausi 12](https://open.spotify.com/track/5kK01LL5xYf14RyurMOhG8) | [Tuure Kilpeläinen](https://open.spotify.com/artist/2inhO0GfiR0DhSGhPCwZZg), [Triosis+](https://open.spotify.com/artist/3FLWGtQILFjVr2ENqhr8G4) | [Sinä olet kaunis \(Vain elämää kausi 12\)](https://open.spotify.com/album/24NNblpq0fsKZDbOc3kxa8) | 4:21 | 2021-10-24 | 2021-10-28 |
 | [sisko älä pelkää](https://open.spotify.com/track/0oiz37APFPumfnCdLWNYjO) | [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [sisko älä pelkää](https://open.spotify.com/album/0SGGPX84syrqNEa0d4BXQu) | 2:53 | 2023-01-21 | 2023-02-12 |
-| [Sitä mitä me oltiin](https://open.spotify.com/track/1Ie6qCuO9yQyoLR2umZnOL) | [Tuure Boelius](https://open.spotify.com/artist/4qojHFVaMgvpZZ1LW0L9To) | [Sitä mitä me oltiin](https://open.spotify.com/album/1OJwcw7nKtNy1G8QiAC9ea) | 2:55 | 2023-04-15 |  |
+| [Sitä mitä me oltiin](https://open.spotify.com/track/1Ie6qCuO9yQyoLR2umZnOL) | [Tuure Boelius](https://open.spotify.com/artist/4qojHFVaMgvpZZ1LW0L9To) | [Sitä mitä me oltiin](https://open.spotify.com/album/1OJwcw7nKtNy1G8QiAC9ea) | 2:55 | 2023-04-15 | 2023-04-17 |
 | [Siunaus](https://open.spotify.com/track/7wsEyQqriELzVKrp4NHfhZ) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [ViO](https://open.spotify.com/album/1syZJ0HasgimydePATEIfx) | 3:19 | 2022-03-05 | 2022-03-07 |
 | [Skene](https://open.spotify.com/track/0IghJnHZCrilFytSASVTri) | [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq), [Victor Nordis](https://open.spotify.com/artist/1DAgitxRlJMroOghdSraJp) | [Oi maamme Helsinki](https://open.spotify.com/album/3oDSCPKRLQJoPY0Tf0ljlx) | 3:10 | 2022-10-01 | 2022-10-23 |
 | [Slaidaan](https://open.spotify.com/track/4Fcx6s82ACWwUNP1Iq5bIC) | [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Slaidaan / XO](https://open.spotify.com/album/1FUv9bIxUhmXGkDwrHcdou) | 2:20 | 2023-02-25 | 2023-02-27 |

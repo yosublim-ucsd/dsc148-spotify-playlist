@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IlXDVSi4zz.md) - [plain]
 
 > Dance the night away and just blame it on Tulum!
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,235 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,536 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,12 +13,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IlXDVSi4zz.md) - [plain]
 | 3 | [Goosebumps \- Remix](https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Goosebumps \(Remix\)](https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD) | 2:42 |
 | 4 | [Oiga Morena](https://open.spotify.com/track/1VK0Nb6EqY5gIMw7jlZCZJ) | [Gian Varela](https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF), [Nenito Vargas](https://open.spotify.com/artist/5nZJzDR7V0oO6I3jG7y1dC) | [Oiga Morena](https://open.spotify.com/album/6LjF97ZQem85Iq4iavJt7q) | 2:49 |
 | 5 | [Mi Casa \- 12" Version](https://open.spotify.com/track/6FkujwwtXmKXko2oJYcABu) | [2fox](https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0), [Nandi](https://open.spotify.com/artist/2gGDpCPFlzPUCUyrF8jXMH) | [Mi Casa](https://open.spotify.com/album/1CLz2LKEShUpzhylJcaEHt) | 6:35 |
-| 6 | [All By Myself](https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [All By Myself](https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn) | 2:51 |
+| 6 | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO) | 2:46 |
 | 7 | [Amore](https://open.spotify.com/track/0m6fSWEw7QwLSrkS1tWsiJ) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Augusto Yepes](https://open.spotify.com/artist/4Fii6zdHW1hbQw0LS4qeTs) | [Amore](https://open.spotify.com/album/1RJyJUZKnRR5NUgMC8d6k6) | 6:23 |
 | 8 | [Desperado \- Original Mix](https://open.spotify.com/track/2jBYV5szcd0pjbl5YYjPqT) | [Moojo](https://open.spotify.com/artist/4bU2sBWgXJtViut3q68o5m), [Demayä](https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9), [ARKADYAN](https://open.spotify.com/artist/2ELBfW9Bn2xBAIvWeXeCgI) | [Desperado](https://open.spotify.com/album/1D24WkLNkBUzFWHLXBBIab) | 6:47 |
 | 9 | [Damelo](https://open.spotify.com/track/2d4TilZYXbkd08n49lnNj4) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW) | [Damelo](https://open.spotify.com/album/4aeBwsqPn09Ch7mzx53LFL) | 3:44 |
 | 10 | [Lunar Spirits](https://open.spotify.com/track/26TzE87XsAR0zd9SkruqxB) | [Canø](https://open.spotify.com/artist/61y7GkU4OOPseS05owEXtL) | [Lunar Spirits](https://open.spotify.com/album/7gZaCDSfzWTxJ0arszwSI0) | 6:39 |
-| 11 | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO) | 2:46 |
+| 11 | [All By Myself](https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [All By Myself](https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn) | 2:51 |
 | 12 | [Your Love \(9PM\)](https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Your Love \(9PM\)](https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b) | 2:30 |
 | 13 | [Breaking Me](https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Breaking Me](https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn) | 2:46 |
 | 14 | [Promises \(with Sam Smith\)](https://open.spotify.com/track/5N5k9nd479b1xpDZ4usjrg) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Promises \(with Sam Smith\)](https://open.spotify.com/album/2tpWgbBdzjkaJVJzR4T8y1) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IlXDVSi4zz.md) - [plain]
 | 49 | [Muyè](https://open.spotify.com/track/5WgW9bG91h4zRUnBr97d6c) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [You Are Safe](https://open.spotify.com/album/7lg5i5BW3Fhmay7kEpyORQ) | 7:49 |
 | 50 | [Phara Oh](https://open.spotify.com/track/5TrkFfJgrGa1PdAkJO5QAs) | [Dole & Kom](https://open.spotify.com/artist/5iVuj2TcNIEBNnzGk97vfT) | [Phara Oh Away](https://open.spotify.com/album/15qqhB5L0g5xb8sFVaVEul) | 8:47 |
 
-Snapshot ID: `MTY3OTYwNzM0MCwwMDAwMDAwMGYwZTgxOTRmMWM0MWMzOGY0OTYwNTU5ODhhYmJjYmIx`
+Snapshot ID: `MTY3OTYwNzM0MCwwMDAwMDAwMDEwYzg4NjQ0MGNmYjQyYWFiZTVlNmU0OTYzYjNjM2Zk`

@@ -1,12 +1,12 @@
 {
   "description": "Historias y versos que tocan la piel.",
-  "num_followers": 260007,
+  "num_followers": 260046,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg3NTIzOSwwMDAwMDAwMDcwZmUyNjg1ODk2OTE0N2VmZWE4ODNmNDdlY2UyMWVj",
+  "snapshot_id": "MTY2MDg3NTIzOSwwMDAwMDAwMGJlNDExODQxOTk1MDdiYjQ0MzUwM2ViMDk3MDI4ZjIw",
   "tracks": [
     {
       "added_at": "2021-07-29 16:46:05",
@@ -539,22 +539,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Mujer Que Camina",
-        "url": "https://open.spotify.com/album/7sm8OhJ1XcOSc1SCtlzFHK"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Filio",
-          "url": "https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K"
-        }
-      ],
-      "duration_ms": 322013,
-      "name": "Mujer Que Camina",
-      "url": "https://open.spotify.com/track/5U1hQvJzMLsjeySz5V5BuG"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Pablo Milan\u00e9s: Un Concierto para Am\u00e9rica (Live)",
         "url": "https://open.spotify.com/album/128iTJllUXrFI9VogghxEJ"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 268964,
       "name": "El Breve Espacio en Que No Est\u00e1s - Live",
       "url": "https://open.spotify.com/track/5gqjhBhOtdSJpB7el7VXCj"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Mujer Que Camina",
+        "url": "https://open.spotify.com/album/7sm8OhJ1XcOSc1SCtlzFHK"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Filio",
+          "url": "https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K"
+        }
+      ],
+      "duration_ms": 322013,
+      "name": "Mujer Que Camina",
+      "url": "https://open.spotify.com/track/5U1hQvJzMLsjeySz5V5BuG"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -727,22 +727,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "La Gran Coleccion Del 60 Aniversario CBS -Juan Salvador",
-        "url": "https://open.spotify.com/album/4P0x8TOzFL9fQNebb6nlBx"
-      },
-      "artists": [
-        {
-          "name": "Juan Salvador",
-          "url": "https://open.spotify.com/artist/58wRCWfE39AuN6fvXRdWN2"
-        }
-      ],
-      "duration_ms": 187600,
-      "name": "Hoy Com\u00ed Con el Abuelo",
-      "url": "https://open.spotify.com/track/1cEVUvYESLFL7nQlVrymsI"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Todav\u00eda",
         "url": "https://open.spotify.com/album/7pXbtBSDRM9v4ZQP6dbRP7"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 185617,
       "name": "Todav\u00eda",
       "url": "https://open.spotify.com/track/2HSC6Dy73O16zvWJnKViSw"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "La Gran Coleccion Del 60 Aniversario CBS -Juan Salvador",
+        "url": "https://open.spotify.com/album/4P0x8TOzFL9fQNebb6nlBx"
+      },
+      "artists": [
+        {
+          "name": "Juan Salvador",
+          "url": "https://open.spotify.com/artist/58wRCWfE39AuN6fvXRdWN2"
+        }
+      ],
+      "duration_ms": 187600,
+      "name": "Hoy Com\u00ed Con el Abuelo",
+      "url": "https://open.spotify.com/track/1cEVUvYESLFL7nQlVrymsI"
     },
     {
       "added_at": "2021-07-29 16:46:05",

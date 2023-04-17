@@ -1,12 +1,12 @@
 {
   "description": "Las leyendas del mariachi est\u00e1n aqu\u00ed. Christian Nodal en portada.",
-  "num_followers": 877661,
+  "num_followers": 877874,
   "original_name": "Leyendas del Mariachi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgyMzIwMCwwMDAwMDAwMDI3YjM0ZjYwZTA3ODczNjcxMTg3NjliY2E5NDZlMjk1",
+  "snapshot_id": "MTY3NzgyMzIwMCwwMDAwMDAwMDMxYjZhOWUxMzZlN2E1NDBhODJhYTg2YWQ4Y2I2ZTlj",
   "tracks": [
     {
       "added_at": "2023-03-03 06:00:00",
@@ -79,22 +79,6 @@
     {
       "added_at": "2022-01-25 16:44:28",
       "album": {
-        "name": "Juan Gabriel",
-        "url": "https://open.spotify.com/album/43k4po9vUTVv54kNCBXWcT"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 182880,
-      "name": "\u00bfPor Qu\u00e9 Me Haces Llorar?",
-      "url": "https://open.spotify.com/track/68pE8830rWrd5LSSfKcRqn"
-    },
-    {
-      "added_at": "2022-01-25 16:44:28",
-      "album": {
         "name": "Joan Sebastian Con Mariachi",
         "url": "https://open.spotify.com/album/7Ml2mSF97d0zz3mDCKdx9M"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 211255,
       "name": "Tatuajes",
       "url": "https://open.spotify.com/track/57dG9il4j7Hi7G8Cqgi0Ts"
+    },
+    {
+      "added_at": "2022-01-25 16:44:28",
+      "album": {
+        "name": "Juan Gabriel",
+        "url": "https://open.spotify.com/album/43k4po9vUTVv54kNCBXWcT"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 182880,
+      "name": "\u00bfPor Qu\u00e9 Me Haces Llorar?",
+      "url": "https://open.spotify.com/track/68pE8830rWrd5LSSfKcRqn"
     },
     {
       "added_at": "2023-01-06 06:00:00",
@@ -175,22 +175,6 @@
     {
       "added_at": "2022-01-25 16:44:28",
       "album": {
-        "name": "Secreto De Amor",
-        "url": "https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 273008,
-      "name": "Secreto De Amor",
-      "url": "https://open.spotify.com/track/47PiSg7z5qjUyEGKN4I1g7"
-    },
-    {
-      "added_at": "2022-01-25 16:44:28",
-      "album": {
         "name": "Mi Persona Preferida",
         "url": "https://open.spotify.com/album/5539gXhKSR7ykwrh6wamQJ"
       },
@@ -227,6 +211,22 @@
     {
       "added_at": "2022-01-25 16:44:28",
       "album": {
+        "name": "La Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 194946,
+      "name": "No Llega el Olvido",
+      "url": "https://open.spotify.com/track/2l8QQVT6hYdnT79kKCU6p6"
+    },
+    {
+      "added_at": "2022-01-25 16:44:28",
+      "album": {
         "name": "Vicente Fernandez Para Siempre",
         "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
       },
@@ -243,18 +243,18 @@
     {
       "added_at": "2022-01-25 16:44:28",
       "album": {
-        "name": "La Gran Se\u00f1ora",
-        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
+        "name": "Secreto De Amor",
+        "url": "https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV"
       },
       "artists": [
         {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 194946,
-      "name": "No Llega el Olvido",
-      "url": "https://open.spotify.com/track/2l8QQVT6hYdnT79kKCU6p6"
+      "duration_ms": 273008,
+      "name": "Secreto De Amor",
+      "url": "https://open.spotify.com/track/47PiSg7z5qjUyEGKN4I1g7"
     },
     {
       "added_at": "2022-01-25 16:44:28",
@@ -637,24 +637,20 @@
       "url": "https://open.spotify.com/track/1xqSh7mbpThNiSjDU7FwLe"
     },
     {
-      "added_at": "2022-03-04 06:00:00",
+      "added_at": "2022-01-25 16:44:28",
       "album": {
-        "name": "Te Llor\u00e9 Un R\u00edo",
-        "url": "https://open.spotify.com/album/7GV5uaJVmICyAAdEoUgKbd"
+        "name": "Colecci\u00f3n De Oro, Vol. 5: Mariachi",
+        "url": "https://open.spotify.com/album/5nCibJfM8LvlVDRVk2GKIa"
       },
       "artists": [
         {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 209673,
-      "name": "Te Llor\u00e9 Un R\u00edo - Versi\u00f3n Mariache\u00f1o",
-      "url": "https://open.spotify.com/track/04firplM7voiFmGWNTI3Va"
+      "duration_ms": 159921,
+      "name": "Llorar",
+      "url": "https://open.spotify.com/track/7qjelT2ay3rsDk1cLWDJpE"
     },
     {
       "added_at": "2022-01-25 16:44:28",
@@ -673,20 +669,24 @@
       "url": "https://open.spotify.com/track/6JEgMLyMEqFTaoQyMg4vhQ"
     },
     {
-      "added_at": "2022-01-25 16:44:28",
+      "added_at": "2022-03-04 06:00:00",
       "album": {
-        "name": "Colecci\u00f3n De Oro, Vol. 5: Mariachi",
-        "url": "https://open.spotify.com/album/5nCibJfM8LvlVDRVk2GKIa"
+        "name": "Te Llor\u00e9 Un R\u00edo",
+        "url": "https://open.spotify.com/album/7GV5uaJVmICyAAdEoUgKbd"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 159921,
-      "name": "Llorar",
-      "url": "https://open.spotify.com/track/7qjelT2ay3rsDk1cLWDJpE"
+      "duration_ms": 209673,
+      "name": "Te Llor\u00e9 Un R\u00edo - Versi\u00f3n Mariache\u00f1o",
+      "url": "https://open.spotify.com/track/04firplM7voiFmGWNTI3Va"
     },
     {
       "added_at": "2022-01-25 16:44:28",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2022-01-25 16:44:28",
       "album": {
-        "name": "Corridos Y Rancheras",
-        "url": "https://open.spotify.com/album/0RZ4nhnAHsZeYPtKMX16hf"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
-        }
-      ],
-      "duration_ms": 193493,
-      "name": "Camino de Guanajuato",
-      "url": "https://open.spotify.com/track/4Llj18Ki0h1YLFTCZbpSp8"
-    },
-    {
-      "added_at": "2022-01-25 16:44:28",
-      "album": {
         "name": "RCA 100 A\u00f1os De Musica",
         "url": "https://open.spotify.com/album/439PoHmgdLpwc6LOF66FwH"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 240906,
       "name": "El Mala Estrella",
       "url": "https://open.spotify.com/track/5XjtX9V4qh0WCGnK8MWQBr"
+    },
+    {
+      "added_at": "2022-01-25 16:44:28",
+      "album": {
+        "name": "Corridos Y Rancheras",
+        "url": "https://open.spotify.com/album/0RZ4nhnAHsZeYPtKMX16hf"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "duration_ms": 193493,
+      "name": "Camino de Guanajuato",
+      "url": "https://open.spotify.com/track/4Llj18Ki0h1YLFTCZbpSp8"
     },
     {
       "added_at": "2022-02-11 06:00:00",

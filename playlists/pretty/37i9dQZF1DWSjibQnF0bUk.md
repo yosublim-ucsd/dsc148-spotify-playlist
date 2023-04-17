@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjibQnF0bUk.md) - [plain]
 
 > Definitive African party starters, perfect for any jollof jam or braai! "Spray" money to these hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,553 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,882 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,19 +54,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjibQnF0bUk.md) - [plain]
 | 44 | [Big Flexa](https://open.spotify.com/track/16vqEDaCZpq5zdgop8U9uM) | [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [C'buda M](https://open.spotify.com/artist/3rdDFMUUzxsQODbgrY6mCf), [Alfa Kat](https://open.spotify.com/artist/30Ep7ARHnQpc0z9otD7jup), [Banaba Des](https://open.spotify.com/artist/02CpmHJhuAVY5YybphI3Wn), [Sdida](https://open.spotify.com/artist/7MVdJWzuMTtXvvaovjs3bB), [Man T](https://open.spotify.com/artist/5syvopnKgETMISE53XS578) | [Big Flexa](https://open.spotify.com/album/5MhQBsStYfPKxStExE5wM3) | 5:27 |
 | 45 | [Hamba Wena](https://open.spotify.com/track/1hsFJ92y0FU2cFOOLkEFVr) | [Deep London](https://open.spotify.com/artist/4WcuDDFGfo4j6VHqkGmjZ8), [Boohle](https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4) | [Hamba Wena](https://open.spotify.com/album/4vwKHSXGmqA0Fe9u9NLt51) | 6:14 |
 | 46 | [Baddest Boy \- Remix](https://open.spotify.com/track/4lDghGd035xrzGp6Yec2j1) | [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Baddest Boy \(Remix\)](https://open.spotify.com/album/2aNveWp5zVMduvpZwAZTpf) | 2:24 |
-| 47 | [MOTO](https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [MOTO](https://open.spotify.com/album/3MXt0hRNSIulLZy7x1XpAg) | 2:58 |
-| 48 | [Apollo](https://open.spotify.com/track/1OGZU2zmK6x0UnM3yeZ4lR) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Outlaw](https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w) | 2:50 |
+| 47 | [Far Away](https://open.spotify.com/track/6ytwuDs4xBbt0TllrIZi4C) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Far Away](https://open.spotify.com/album/57oEI8ZsS1oPc6bYwgfNiT) | 2:19 |
+| 48 | [MOTO](https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [MOTO](https://open.spotify.com/album/3MXt0hRNSIulLZy7x1XpAg) | 2:58 |
 | 49 | [The One \(Chop Life\)](https://open.spotify.com/track/4QrZSUg5xCZpFKDIhJMU2Q) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Yaba Buluku Boyz](https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi) | [The One \(Chop Life\)](https://open.spotify.com/album/5nECl8Xw4BiWM7PSuI6dDl) | 3:17 |
 | 50 | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/track/1mJFFeluclL38IwV264lm9) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1) | 2:33 |
-| 51 | [Far Away](https://open.spotify.com/track/6ytwuDs4xBbt0TllrIZi4C) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Far Away](https://open.spotify.com/album/57oEI8ZsS1oPc6bYwgfNiT) | 2:19 |
+| 51 | [Apollo](https://open.spotify.com/track/1OGZU2zmK6x0UnM3yeZ4lR) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Outlaw](https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w) | 2:50 |
 | 52 | [NANA](https://open.spotify.com/track/3x14QjUcvBTxIYjMD9RzVO) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [NANA](https://open.spotify.com/album/7KJ1TeVa4Xc9Wv0AOv9o0Y) | 2:26 |
 | 53 | [Sere \- Remix](https://open.spotify.com/track/6kxo2n2WY48fAhLuiwYOAb) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Sere \(Remix\)](https://open.spotify.com/album/2VTdHWIwS3hf7Yi1I14ZG9) | 3:14 |
-| 54 | [Abracadabra \- Remix](https://open.spotify.com/track/7CDmOoIXrtknQN5zcpHRBr) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Abracadabra \(Remix\)](https://open.spotify.com/album/6YMeH1rG1CtkXvv9zKI7f3) | 2:52 |
-| 55 | [Werser](https://open.spotify.com/track/5ysRcpZAYSHvqtMNKgQQ16) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Werser](https://open.spotify.com/album/1GkNzKt3pj4Gg2by8cokBI) | 4:08 |
-| 56 | [AVAILABU](https://open.spotify.com/track/6hVwoGjU2l2tHk9Cm1kEiZ) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [GANGSTER ROMANTIC](https://open.spotify.com/album/0qogcdzZgkdwcVGrtHho6G) | 2:55 |
-| 57 | [Single Again](https://open.spotify.com/track/0h9NbR0ozxlNVnTXOX8xjk) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Single Again](https://open.spotify.com/album/77o4SRMv2fNVXHxwcTO6DI) | 3:44 |
+| 54 | [Single Again](https://open.spotify.com/track/0h9NbR0ozxlNVnTXOX8xjk) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Single Again](https://open.spotify.com/album/77o4SRMv2fNVXHxwcTO6DI) | 3:44 |
+| 55 | [Abracadabra \- Remix](https://open.spotify.com/track/7CDmOoIXrtknQN5zcpHRBr) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Abracadabra \(Remix\)](https://open.spotify.com/album/6YMeH1rG1CtkXvv9zKI7f3) | 2:52 |
+| 56 | [Werser](https://open.spotify.com/track/5ysRcpZAYSHvqtMNKgQQ16) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Werser](https://open.spotify.com/album/1GkNzKt3pj4Gg2by8cokBI) | 4:08 |
+| 57 | [AVAILABU](https://open.spotify.com/track/6hVwoGjU2l2tHk9Cm1kEiZ) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [GANGSTER ROMANTIC](https://open.spotify.com/album/0qogcdzZgkdwcVGrtHho6G) | 2:55 |
 | 58 | [Loving You](https://open.spotify.com/track/6othjWxN6khdhiLu9GdOtj) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Loving You](https://open.spotify.com/album/4w6eohs63XTqvHZ9iMZB5Z) | 2:05 |
 | 59 | [Pele Pele](https://open.spotify.com/track/3r4sc1n8kNL2FpebHwaAQE) | [Ch'cco](https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz) | [Pele Pele](https://open.spotify.com/album/3HnFaSlDoeqqmPoVWYAETZ) | 5:17 |
 | 60 | [Nack](https://open.spotify.com/track/2o8AVV8YssDJKN6zqG20p1) | [The Therapist](https://open.spotify.com/artist/3rp5xD3dLZnUe7QnXxYrm2) | [Nack](https://open.spotify.com/album/6AVdBuT0CI9wSTJhGBRO6d) | 2:49 |
 
-Snapshot ID: `MTY4MTQ3Njk4NiwwMDAwMDAwMDY3MjM2MzAyMDA3NmRjNDJiZjAxNmJlNzJjZjVhZjQ5`
+Snapshot ID: `MTY4MTQ3Njk4NiwwMDAwMDAwMGY0MzI5Zjk5N2FkYTRjMTFmY2FjZWUxYjQyMzhhMjAx`

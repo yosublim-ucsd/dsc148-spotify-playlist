@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Zach Bryan
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,178 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,395 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 | 6 | [Tough Country](https://open.spotify.com/track/20XPXqe5eCGYA5CnVnKUZF) | [The Panhandlers](https://open.spotify.com/artist/3PDBePAkhZWQPgR72nhbW8), [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb), [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ), [John Baumann](https://open.spotify.com/artist/5OCPKdyvsphdpbIVpVts3L) | [Tough Country](https://open.spotify.com/album/4usJHvZr3K0vTvb7bzzw7w) | 4:03 |
 | 7 | [Everywhere I Go](https://open.spotify.com/track/2JHFr3SVvWSGoFKg3kvTgw) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Down Rounder](https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8) | 2:19 |
 | 8 | [Life Ain't Fair and the World Is Mean](https://open.spotify.com/track/3M97fwKZfzvQ8xppMoQ7a0) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [High Top Mountain](https://open.spotify.com/album/59ElPFKCqmH5nLRdWjyopf) | 2:06 |
-| 9 | [Straight and Narrow](https://open.spotify.com/track/3ZJd3PCBk8ibpO8DVlkCsF) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Straight and Narrow](https://open.spotify.com/album/3THvfv2GtFgLL45lknPgiu) | 3:19 |
+| 9 | [Straight and Narrow](https://open.spotify.com/track/40vKwNlXXKUmQMGceAoEpy) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Straight and Narrow](https://open.spotify.com/album/0floBXCzvTvVMR3gXWZBav) | 3:19 |
 | 10 | [More Than Friends \(feat\. Lainey Wilson\)](https://open.spotify.com/track/0ux8xs7l9rh1Hr8SgExguM) | [Lukas Nelson and Promise of the Real](https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [More Than Friends \(feat\. Lainey Wilson\)](https://open.spotify.com/album/0aJOXNP0MBlCLrhJF61Igw) | 3:01 |
 | 11 | [American Gothic \(feat\. Hailey Whitters\)](https://open.spotify.com/track/72vF5ESZ9UJEpVZkXNN8FL) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd), [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [bon aqua EP](https://open.spotify.com/album/782C6iLDAvYgAjJfd6YmSA) | 3:15 |
 | 12 | [Horses](https://open.spotify.com/track/3Wrbf7Ecb7wDL5nS7L9HL0) | [Rob Baird](https://open.spotify.com/artist/1eE9EMjfAxDNT22LXc4Xpt) | [Horses](https://open.spotify.com/album/1Eh2GN0KEBgCrMCDaTcAfQ) | 3:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 | 99 | [Bittersweet, TN](https://open.spotify.com/track/0merkJ9dgvkemPaR3urDWs) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF), [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [This Is A Photograph](https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6) | 4:13 |
 | 100 | [Lyin' low](https://open.spotify.com/track/2dXGmRWNxNwSakbBPxAbiH) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [How the Mighty Fall](https://open.spotify.com/album/7jo6e3KUvEk7DqwfI9eS6w) | 4:18 |
 
-Snapshot ID: `MTY4MTUwNjQ0MCwwMDAwMDAwMGRkMjNlMzNmNjJlN2Q2NDRjZTZhZGMwZmI1NjM5MDli`
+Snapshot ID: `MTY4MTUwNjQ0MCwwMDAwMDAwMGYxZjY5ZGMxNjhhMjg5YzM3MGU2OWJlNDU2N2NjODY5`

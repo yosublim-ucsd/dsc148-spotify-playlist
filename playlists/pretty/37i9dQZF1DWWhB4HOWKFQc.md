@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Aziz Hedra
 
-[Spotify](https://open.spotify.com/user/spotify) - 892,688 likes - 85 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 894,013 likes - 85 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 | 3 | [Komang](https://open.spotify.com/track/2AaaE0qvFWtyT8srKNfRhH) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Komang](https://open.spotify.com/album/2N8JUijzZsT2IJnplY4vAE) | 3:42 |
 | 4 | [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 |
 | 5 | [LIMBO](https://open.spotify.com/track/2bdVgAQgosGUJoViVDNeOV) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 3:32 |
-| 6 | [You & I](https://open.spotify.com/track/0epYQ0yLA5RUYyrhADkF0j) | [Diego Gonzalez](https://open.spotify.com/artist/60uj5nOT1TpQeBRo4ds9fd) | [You & I](https://open.spotify.com/album/3zqHROb3Ja6GiVxbdGQeMu) | 2:31 |
+| 6 | [You & I](https://open.spotify.com/track/3mX2GKPSW38pRpdmC9tdvY) | [Diego Gonzalez](https://open.spotify.com/artist/60uj5nOT1TpQeBRo4ds9fd) | [You & I](https://open.spotify.com/album/0eP9tZfnTfXk8aSnqPRC15) | 2:31 |
 | 7 | [Abadi](https://open.spotify.com/track/6rdqabpJT3jplQzor1os8j) | [Dendi Nata](https://open.spotify.com/artist/509YLwDnYeTaVfX0Kl6Jdn), [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa) | [Abadi](https://open.spotify.com/album/6imuBPMqzJSYbN19D9GlFm) | 4:52 |
 | 8 | [drunk text](https://open.spotify.com/track/0KpWiHVmIFDTvai20likX4) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [drunk text](https://open.spotify.com/album/0lcfkucXPJH7zGSHbUXUjZ) | 3:07 |
 | 9 | [Tak Segampang Itu](https://open.spotify.com/track/26cvTWJq2E1QqN4jyH2OTU) | [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx) | [Tak Segampang Itu](https://open.spotify.com/album/6gO5mDyNTqiIqHItRil4OG) | 3:51 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 | 84 | [Monsters](https://open.spotify.com/track/4SykS8RWkF6eK6xeua7XLP) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Once Upon a Mind](https://open.spotify.com/album/4gkWfdUgz4jWrGx4sKQpb4) | 4:19 |
 | 85 | [NIGHT DANCER](https://open.spotify.com/track/348NF6vX0Yh22xvH0EZEro) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [NIGHT DANCER](https://open.spotify.com/album/0qbkekB04QYsLqCX68e8Oy) | 3:30 |
 
-Snapshot ID: `MTY4MTQ0MzkwNCwwMDAwMDAwMDU3YmY4NTViOWYxYzc4YTY1ODM1MTU0M2RhNjEwYjI3`
+Snapshot ID: `MTY4MTQ0MzkwNCwwMDAwMDAwMGNhMTRlNmQ3NGIyNzlmMjU3NjdjNzQ0NDIwMTY1MmEz`

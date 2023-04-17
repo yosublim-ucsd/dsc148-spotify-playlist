@@ -4,7 +4,7 @@
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Aziz Hedra
 
-98 songs - 5 hr 54 min
+99 songs - 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,8 @@
 | [Usai](https://open.spotify.com/track/3nHxZEe1dT7zs73DG6pNll) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Usai](https://open.spotify.com/album/1lN55vIsNORo3W6QlWbGR8) | 3:37 | 2023-03-23 |  |
 | [Violet](https://open.spotify.com/track/7IezwtVIJIPC36LpKMR9d7) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Killa](https://open.spotify.com/artist/1gGUO8gYL0YWzyOKFCYegd) | [Spin The Globe](https://open.spotify.com/album/1HkGRJtlIFAMDKpEgGxF0M) | 2:02 | 2023-03-23 |  |
 | [Ya Maulana](https://open.spotify.com/track/1rnNm4yEXQCdnjQTsObWlY) | [Opick](https://open.spotify.com/artist/5KN9rEUWrzshrf0FU2n3Iz) | [Ya Maulana](https://open.spotify.com/album/15SWHhL9GcwUZ2pPPlcwtF) | 3:43 | 2023-03-27 |  |
-| [You & I](https://open.spotify.com/track/0epYQ0yLA5RUYyrhADkF0j) | [Diego Gonzalez](https://open.spotify.com/artist/60uj5nOT1TpQeBRo4ds9fd) | [You & I](https://open.spotify.com/album/3zqHROb3Ja6GiVxbdGQeMu) | 2:31 | 2023-03-23 |  |
+| [You & I](https://open.spotify.com/track/3mX2GKPSW38pRpdmC9tdvY) | [Diego Gonzalez](https://open.spotify.com/artist/60uj5nOT1TpQeBRo4ds9fd) | [You & I](https://open.spotify.com/album/0eP9tZfnTfXk8aSnqPRC15) | 2:31 | 2023-04-13 |  |
+| [You & I](https://open.spotify.com/track/0epYQ0yLA5RUYyrhADkF0j) | [Diego Gonzalez](https://open.spotify.com/artist/60uj5nOT1TpQeBRo4ds9fd) | [You & I](https://open.spotify.com/album/3zqHROb3Ja6GiVxbdGQeMu) | 2:31 | 2023-03-23 | 2023-04-17 |
 | [ルージュの伝言](https://open.spotify.com/track/1jw992uwXhqJJ0H42ucTRL) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [COBALT HOUR](https://open.spotify.com/album/5q4nqytaxLA99VEVJ6yQRu) | 3:02 | 2023-03-23 | 2023-04-14 |
 | [애열 Love Shine](https://open.spotify.com/track/467zSU1hr4OF3Zq5zVX3Dt) | [LEEHEESANG](https://open.spotify.com/artist/6zJiJ82GmaUZF8TwTPktsz) | [WHOEVER](https://open.spotify.com/album/4j878Utyg4KAXw0vAKuaSj) | 4:26 | 2023-03-23 | 2023-04-14 |
 

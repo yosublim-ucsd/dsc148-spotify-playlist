@@ -1,12 +1,12 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 146690,
+  "num_followers": 146692,
   "original_name": "Ren hygge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA0MTY2MiwwMDAwMDAwMGM1NWViMDliMmUyMjUyY2JkNjQxNzQwNWQ3NThiYzNi",
+  "snapshot_id": "MTY3OTA0MTY2MiwwMDAwMDAwMGY1NjA3MjFkYTk2ZTBmYmI2Y2ZmNmI0NzNkNGFkNzYz",
   "tracks": [
     {
       "added_at": "2023-03-17 08:27:42",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-03-17 08:27:42",
       "album": {
-        "name": "Still Alive (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1mTP6AfzT0v0eaihtcXOxe"
-      },
-      "artists": [
-        {
-          "name": "Maximillian",
-          "url": "https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr"
-        }
-      ],
-      "duration_ms": 194757,
-      "name": "Beautiful Scars",
-      "url": "https://open.spotify.com/track/1Hu42ZLWG9dHaVOPiWyEmE"
-    },
-    {
-      "added_at": "2023-03-17 08:27:42",
-      "album": {
         "name": "Happiness Begins",
         "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 217533,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/1vYh9x8UmFTLbXiizk9Qc5"
+    },
+    {
+      "added_at": "2023-03-17 08:27:42",
+      "album": {
+        "name": "Still Alive (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1mTP6AfzT0v0eaihtcXOxe"
+      },
+      "artists": [
+        {
+          "name": "Maximillian",
+          "url": "https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr"
+        }
+      ],
+      "duration_ms": 194757,
+      "name": "Beautiful Scars",
+      "url": "https://open.spotify.com/track/1Hu42ZLWG9dHaVOPiWyEmE"
     },
     {
       "added_at": "2023-03-17 08:27:42",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-03-17 08:27:42",
       "album": {
+        "name": "Place We Were Made",
+        "url": "https://open.spotify.com/album/3lAphThw6i1jHzvXVGXJmE"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 185274,
+      "name": "Place We Were Made",
+      "url": "https://open.spotify.com/track/7nZF59EvFUshBQfhHev64D"
+    },
+    {
+      "added_at": "2023-03-17 08:27:42",
+      "album": {
         "name": "Lifeline",
         "url": "https://open.spotify.com/album/5zA6sCY6TFsPBi2ZdMy58w"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 200347,
       "name": "Lifeline",
       "url": "https://open.spotify.com/track/66JzG73Z9KwNNjm5kVlnqI"
-    },
-    {
-      "added_at": "2023-03-17 08:27:42",
-      "album": {
-        "name": "Place We Were Made",
-        "url": "https://open.spotify.com/album/3lAphThw6i1jHzvXVGXJmE"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 185274,
-      "name": "Place We Were Made",
-      "url": "https://open.spotify.com/track/7nZF59EvFUshBQfhHev64D"
     },
     {
       "added_at": "2023-03-17 08:27:42",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-03-17 08:27:42",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/7mNUdtUxh2dKzqYMgP67LX"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 203546,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/0CJvDUBeEL1Rmpx7MH28CQ"
-    },
-    {
-      "added_at": "2023-03-17 08:27:42",
-      "album": {
         "name": "Nervous System",
         "url": "https://open.spotify.com/album/1qyjZGIeeLJlXbYWuoloWj"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 202346,
       "name": "Worst In Me",
       "url": "https://open.spotify.com/track/1FY8gDAydm8CfGYp7Lv9ce"
+    },
+    {
+      "added_at": "2023-03-17 08:27:42",
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/7mNUdtUxh2dKzqYMgP67LX"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 203546,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/0CJvDUBeEL1Rmpx7MH28CQ"
     },
     {
       "added_at": "2023-03-17 08:27:42",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-03-17 08:27:42",
       "album": {
-        "name": "Fearless",
-        "url": "https://open.spotify.com/album/3C0mlKvUmnOGr2OOxc79ak"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 284720,
-      "name": "Fearless",
-      "url": "https://open.spotify.com/track/1cU4GEpxK7Pu0RDsaQ3EAF"
-    },
-    {
-      "added_at": "2023-03-17 08:27:42",
-      "album": {
         "name": "Rockferry",
         "url": "https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 226386,
       "name": "Warwick Avenue",
       "url": "https://open.spotify.com/track/2IMIbiJlbi0pIs3FBpKFhS"
+    },
+    {
+      "added_at": "2023-03-17 08:27:42",
+      "album": {
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/3C0mlKvUmnOGr2OOxc79ak"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 284720,
+      "name": "Fearless",
+      "url": "https://open.spotify.com/track/1cU4GEpxK7Pu0RDsaQ3EAF"
     },
     {
       "added_at": "2023-03-17 08:27:42",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2023-03-17 08:27:42",
       "album": {
+        "name": "How Would You Feel (Paean)",
+        "url": "https://open.spotify.com/album/6m47Bv7lQlUWNZ5W6N4XjJ"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 280533,
+      "name": "How Would You Feel (Paean)",
+      "url": "https://open.spotify.com/track/1lyNFzcCl9kXCof6GV32fV"
+    },
+    {
+      "added_at": "2023-03-17 08:27:42",
+      "album": {
         "name": "i loved you first",
         "url": "https://open.spotify.com/album/77GA1E8JXxpzlFFnGxbLEg"
       },
@@ -1727,18 +1743,18 @@
     {
       "added_at": "2023-03-17 08:27:42",
       "album": {
-        "name": "How Would You Feel (Paean)",
-        "url": "https://open.spotify.com/album/6m47Bv7lQlUWNZ5W6N4XjJ"
+        "name": "Keeping Faith",
+        "url": "https://open.spotify.com/album/4lxNvi3XfEZfon54OltWQh"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Amy Wadge",
+          "url": "https://open.spotify.com/artist/0Zh5nyS0km753bfcX4QGHp"
         }
       ],
-      "duration_ms": 280533,
-      "name": "How Would You Feel (Paean)",
-      "url": "https://open.spotify.com/track/1lyNFzcCl9kXCof6GV32fV"
+      "duration_ms": 172058,
+      "name": "Faith's Song",
+      "url": "https://open.spotify.com/track/4HFUxZOWqVemXYF1T7QQ1l"
     },
     {
       "added_at": "2023-03-17 08:27:42",
@@ -1755,22 +1771,6 @@
       "duration_ms": 240866,
       "name": "Be Your Man",
       "url": "https://open.spotify.com/track/5rWjy4ys7LdinaFKZQBlZh"
-    },
-    {
-      "added_at": "2023-03-17 08:27:42",
-      "album": {
-        "name": "Keeping Faith",
-        "url": "https://open.spotify.com/album/4lxNvi3XfEZfon54OltWQh"
-      },
-      "artists": [
-        {
-          "name": "Amy Wadge",
-          "url": "https://open.spotify.com/artist/0Zh5nyS0km753bfcX4QGHp"
-        }
-      ],
-      "duration_ms": 172058,
-      "name": "Faith's Song",
-      "url": "https://open.spotify.com/track/4HFUxZOWqVemXYF1T7QQ1l"
     },
     {
       "added_at": "2023-03-17 08:27:42",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2023-03-17 08:27:42",
       "album": {
-        "name": "Raised Under Grey Skies (Deluxe)",
-        "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
-      },
-      "artists": [
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 183591,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/0ol0U7r1cOiiKCjvTsLVmU"
-    },
-    {
-      "added_at": "2023-03-17 08:27:42",
-      "album": {
         "name": "Songs For You, Truths For Me",
         "url": "https://open.spotify.com/album/0pAVneHUj7ApOZZPPZBVyN"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 211400,
       "name": "You Make It Real",
       "url": "https://open.spotify.com/track/4Xvcx48q8khat7M1YUYaYW"
+    },
+    {
+      "added_at": "2023-03-17 08:27:42",
+      "album": {
+        "name": "Raised Under Grey Skies (Deluxe)",
+        "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 183591,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/0ol0U7r1cOiiKCjvTsLVmU"
     },
     {
       "added_at": "2023-03-17 08:27:42",

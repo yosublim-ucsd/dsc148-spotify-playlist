@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Jarabe de Palo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 545,708 likes - 75 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 545,826 likes - 75 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 46 | [Acabo de llegar](https://open.spotify.com/track/5LlXYUfSei584BdUJ05Lo3) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Por la boca vive el pez](https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y) | 6:15 |
 | 47 | [Buscando en la basura](https://open.spotify.com/track/46Yp4JsZIh8ceg5WBqW1ZB) | [La Fuga](https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc) | [Negociando gasolina](https://open.spotify.com/album/1hCwejZJomHEdOP7sZmGUR) | 3:28 |
 | 48 | [Escuela de Calor](https://open.spotify.com/track/7J0niAY0FLzGiCVJUREl88) | [Radio Futura](https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM) | [La Ley Del Desierto](https://open.spotify.com/album/12q1hQoVuKLVUaqlksygIu) | 3:30 |
-| 49 | [El roce de tu cuerpo](https://open.spotify.com/track/3EPd9riN2R8Zjl6GkrxxGl) | [Platero Y Tu](https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav) | [Muy Deficiente](https://open.spotify.com/album/6nSNoI4zgtfMm1H9NXI4r1) | 4:10 |
-| 50 | [A San Fernando un Ratito a Pie y Otro Caminando](https://open.spotify.com/track/740Rh302Wm6uHRsYTa4KDQ) | [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4) | [Arena En Los Bolsillos](https://open.spotify.com/album/0bFrRKmqzgPqL1ej485WLf) | 3:47 |
+| 49 | [A San Fernando un Ratito a Pie y Otro Caminando](https://open.spotify.com/track/740Rh302Wm6uHRsYTa4KDQ) | [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4) | [Arena En Los Bolsillos](https://open.spotify.com/album/0bFrRKmqzgPqL1ej485WLf) | 3:47 |
+| 50 | [El roce de tu cuerpo](https://open.spotify.com/track/3EPd9riN2R8Zjl6GkrxxGl) | [Platero Y Tu](https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav) | [Muy Deficiente](https://open.spotify.com/album/6nSNoI4zgtfMm1H9NXI4r1) | 4:10 |
 | 51 | [Y volar \(con los Caligaris\)](https://open.spotify.com/track/0vabIwEiZDGml2CyVmGNBX) | [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Ahora o nunca](https://open.spotify.com/album/1gVTdZJaemKysGPHgMQfvD) | 3:09 |
 | 52 | [Mar adentro](https://open.spotify.com/track/1Oo6emBm60fXZJU2RCeWpH) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Mar No Cesa\- Edición Especial](https://open.spotify.com/album/1ybmfBatQowYBzowJxE74Y) | 4:01 |
 | 53 | [Rumbapop](https://open.spotify.com/track/1sLotMFghANlkVzI4ln2uW) | [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F), [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Rumbapop](https://open.spotify.com/album/4I0VNxfe8qdt1SnvEiqREu) | 2:38 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 67 | [Corazon de mimbre](https://open.spotify.com/track/6ScI1xf3RszISXvLGmitY3) | [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [Coces al Aire 1997\-2007](https://open.spotify.com/album/3mfnHHROaUAzdzmTZHI1YQ) | 5:37 |
 | 68 | [No Hay Tregua](https://open.spotify.com/track/5fuiYDXvDMVqsa3o8B8KLR) | [Barricada](https://open.spotify.com/artist/5llr3wJl6JrJoHSJAR804R) | [Barricada](https://open.spotify.com/album/0TXXfuJy2zJ50x94VvCuqZ) | 2:55 |
 | 69 | [Serenade](https://open.spotify.com/track/4tzi4VV1vCTZsT4SEKQIKJ) | [Dover](https://open.spotify.com/artist/5kdLOinhQnlSk4su7U6lyW) | [Devil Came to Me](https://open.spotify.com/album/31cccvot053zKCeLHnnic1) | 3:54 |
-| 70 | [La senda del tiempo](https://open.spotify.com/track/6dMKB6nyxcg8hllDzPCvRc) | [Celtas Cortos](https://open.spotify.com/artist/3hIPQBm8PBt8B5aahP6cVP) | [Gente Impresentable](https://open.spotify.com/album/79gPRqLvpQu9Kc8MYNYfSD) | 4:30 |
-| 71 | [Caricias en tu espalda \(feat\. MARLENA\)](https://open.spotify.com/track/3W86lhWeDNKPG59RHLJAdh) | [Despistaos](https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2), [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [Caricias en tu espalda \(feat\. MARLENA\)](https://open.spotify.com/album/6ZXosHrTpN0BCjofSGsKxF) | 3:04 |
+| 70 | [Caricias en tu espalda \(feat\. MARLENA\)](https://open.spotify.com/track/3W86lhWeDNKPG59RHLJAdh) | [Despistaos](https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2), [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [Caricias en tu espalda \(feat\. MARLENA\)](https://open.spotify.com/album/6ZXosHrTpN0BCjofSGsKxF) | 3:04 |
+| 71 | [La senda del tiempo](https://open.spotify.com/track/6dMKB6nyxcg8hllDzPCvRc) | [Celtas Cortos](https://open.spotify.com/artist/3hIPQBm8PBt8B5aahP6cVP) | [Gente Impresentable](https://open.spotify.com/album/79gPRqLvpQu9Kc8MYNYfSD) | 4:30 |
 | 72 | [Últimas Voluntades \- Canción Original De La Película](https://open.spotify.com/track/5A1iJXWsLLHZvpYPMQ5rRQ) | [Viva Suecia](https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC) | [Últimas Voluntades \(Canción Original De La Película\)](https://open.spotify.com/album/5JxqDLN2I5bdXtFEnduaNY) | 3:46 |
 | 73 | [Insurrección \(con Manolo García\)](https://open.spotify.com/track/5JD2HODIglXaNJopWb248t) | [Miguel Ríos](https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ), [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4) | [Miguel Ríos y las estrellas del Rock latino](https://open.spotify.com/album/1meG4YSY7cIKvQkQR3D6hH) | 3:47 |
 | 74 | [Miedo](https://open.spotify.com/track/47oZRFceogtlw8Kcu5UGaj) | [M\-Clan](https://open.spotify.com/artist/4oVqMVHC03xnYJ7fyb1dh6) | [Sopa fria](https://open.spotify.com/album/0Q2szvW8oeHdReOGcdYrBj) | 4:57 |
 | 75 | [Cigarrito](https://open.spotify.com/track/2Gt5oL4aEufZvJy9KjEkxi) | [Platero Y Tu](https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav) | [Correos](https://open.spotify.com/album/2CT7oREbwTDOSWIMjRCCaY) | 3:56 |
 
-Snapshot ID: `MTY4MTQyMzI2MCwwMDAwMDAwMDJjNmUxYjkwN2E5ZTAxNzg1MGIwMzFkOWE5ZGY0NDdj`
+Snapshot ID: `MTY4MTQyMzI2MCwwMDAwMDAwMGY1M2MyNWYwNzk4MzU0Y2RlYWY1M2VkNWIxZWNhZTA2`

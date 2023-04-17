@@ -718,7 +718,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 340666,
       "name": "English Girls Approximately",
       "url": "https://open.spotify.com/track/4z7UVZQQbF2QNT0jlyBLFg"
@@ -1046,6 +1046,24 @@
       "duration_ms": 162306,
       "name": "Haunted House",
       "url": "https://open.spotify.com/track/60gqIHYxfFNfAF2ljsx2xq"
+    },
+    {
+      "album": {
+        "name": "Morning Glory",
+        "url": "https://open.spotify.com/album/7IlQpxt7VLEUVgh4eSRFAO"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248289,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/597K9htpDl8Daciz5PahvW"
     },
     {
       "album": {
@@ -1384,7 +1402,7 @@
       ],
       "date_added": "2023-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 126310,
       "name": "Johnny 99",
       "url": "https://open.spotify.com/track/1iFr9whP3Zfps8CEGQmgNH"
@@ -2320,7 +2338,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 233653,
       "name": "This House Is Not For Sale",
       "url": "https://open.spotify.com/track/67ftTHCuUcUt5DlNO3dUQR"

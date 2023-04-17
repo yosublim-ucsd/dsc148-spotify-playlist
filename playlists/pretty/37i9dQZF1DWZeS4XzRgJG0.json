@@ -1,12 +1,12 @@
 {
   "description": "sorry ik kan niet... moet studeren",
-  "num_followers": 20058,
+  "num_followers": 20087,
   "original_name": "Studeermuziek",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQxOTcwMywwMDAwMDAwMDUzYmJhY2VlYWFkMjIzZjY2ODg4NWEwMmI4YTZmOWE0",
+  "snapshot_id": "MTY4MTQxOTcwMywwMDAwMDAwMDg0YWUzNDAxYjk3MzQ2Mjk3MGRjNDViNjJkZWUwYTVl",
   "tracks": [
     {
       "added_at": "2023-04-13 21:01:43",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-04-13 21:01:43",
       "album": {
-        "name": "Perception",
-        "url": "https://open.spotify.com/album/1KOmHyNLuOe5YrPhD3Juuf"
-      },
-      "artists": [
-        {
-          "name": "NF",
-          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
-        }
-      ],
-      "duration_ms": 212120,
-      "name": "Let You Down",
-      "url": "https://open.spotify.com/track/52okn5MNA47tk87PeZJLEL"
-    },
-    {
-      "added_at": "2023-04-13 21:01:43",
-      "album": {
         "name": "Divinely Uninspired To A Hellish Extent",
         "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 220492,
       "name": "Bruises",
       "url": "https://open.spotify.com/track/4Of7rzpRpV1mWRbhp5rAqG"
+    },
+    {
+      "added_at": "2023-04-13 21:01:43",
+      "album": {
+        "name": "Perception",
+        "url": "https://open.spotify.com/album/1KOmHyNLuOe5YrPhD3Juuf"
+      },
+      "artists": [
+        {
+          "name": "NF",
+          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
+        }
+      ],
+      "duration_ms": 212120,
+      "name": "Let You Down",
+      "url": "https://open.spotify.com/track/52okn5MNA47tk87PeZJLEL"
     },
     {
       "added_at": "2023-04-13 21:01:43",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-04-13 21:01:43",
       "album": {
-        "name": "\u00f7 (Deluxe)",
-        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 221106,
-      "name": "Supermarket Flowers",
-      "url": "https://open.spotify.com/track/4VuS959DSpr82t3qBqCrWG"
-    },
-    {
-      "added_at": "2023-04-13 21:01:43",
-      "album": {
         "name": "Jealous - EP",
         "url": "https://open.spotify.com/album/6bsCl6iS6dvC4xaiBlecPv"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 287693,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/4G92yYrUs0cvY7G41YRI0z"
+    },
+    {
+      "added_at": "2023-04-13 21:01:43",
+      "album": {
+        "name": "\u00f7 (Deluxe)",
+        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 221106,
+      "name": "Supermarket Flowers",
+      "url": "https://open.spotify.com/track/4VuS959DSpr82t3qBqCrWG"
     },
     {
       "added_at": "2023-04-13 21:01:43",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-04-13 21:01:43",
       "album": {
-        "name": "+",
-        "url": "https://open.spotify.com/album/0W5GGnapMz0VwemQvJDqa7"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 258373,
-      "name": "The A Team",
-      "url": "https://open.spotify.com/track/1VdZ0vKfR5jneCmWIUAMxK"
-    },
-    {
-      "added_at": "2023-04-13 21:01:43",
-      "album": {
         "name": "It's About Us",
         "url": "https://open.spotify.com/album/3Yk19X5zgXDSrG8uqrPnXC"
       },
@@ -1295,6 +1279,22 @@
     {
       "added_at": "2023-04-13 21:01:43",
       "album": {
+        "name": "+",
+        "url": "https://open.spotify.com/album/0W5GGnapMz0VwemQvJDqa7"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 258373,
+      "name": "The A Team",
+      "url": "https://open.spotify.com/track/1VdZ0vKfR5jneCmWIUAMxK"
+    },
+    {
+      "added_at": "2023-04-13 21:01:43",
+      "album": {
         "name": "Six Feet Under",
         "url": "https://open.spotify.com/album/74TRp3O8BRdGxc0XO0UzoY"
       },
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2023-04-13 21:01:43",
       "album": {
-        "name": "Remember That Night?",
-        "url": "https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP"
+        "name": "glisten",
+        "url": "https://open.spotify.com/album/14lSyFVCuhvEoW7ogOIzD0"
       },
       "artists": [
         {
-          "name": "Sara Kays",
-          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
         }
       ],
-      "duration_ms": 227186,
-      "name": "Remember That Night?",
-      "url": "https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7"
+      "duration_ms": 169973,
+      "name": "all the kids are depressed",
+      "url": "https://open.spotify.com/track/75ls0gurX68lUmMjE7QcsE"
     },
     {
       "added_at": "2023-04-13 21:01:43",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2023-04-13 21:01:43",
       "album": {
-        "name": "glisten",
-        "url": "https://open.spotify.com/album/14lSyFVCuhvEoW7ogOIzD0"
+        "name": "Remember That Night?",
+        "url": "https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP"
       },
       "artists": [
         {
-          "name": "Jeremy Zucker",
-          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+          "name": "Sara Kays",
+          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
         }
       ],
-      "duration_ms": 169973,
-      "name": "all the kids are depressed",
-      "url": "https://open.spotify.com/track/75ls0gurX68lUmMjE7QcsE"
+      "duration_ms": 227186,
+      "name": "Remember That Night?",
+      "url": "https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7"
     },
     {
       "added_at": "2023-04-13 21:01:43",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-04-13 21:01:43",
       "album": {
-        "name": "Cheers to the Fall",
-        "url": "https://open.spotify.com/album/6Blubl1glavmervPJa3QVs"
-      },
-      "artists": [
-        {
-          "name": "Andra Day",
-          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
-        }
-      ],
-      "duration_ms": 253342,
-      "name": "Rise Up",
-      "url": "https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz"
-    },
-    {
-      "added_at": "2023-04-13 21:01:43",
-      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/5vplYu9dji5uOQdLutFfnf"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 183103,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/0ecC8p17cDNlxHXkuYqeR6"
+    },
+    {
+      "added_at": "2023-04-13 21:01:43",
+      "album": {
+        "name": "Cheers to the Fall",
+        "url": "https://open.spotify.com/album/6Blubl1glavmervPJa3QVs"
+      },
+      "artists": [
+        {
+          "name": "Andra Day",
+          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
+        }
+      ],
+      "duration_ms": 253342,
+      "name": "Rise Up",
+      "url": "https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz"
     },
     {
       "added_at": "2023-04-13 21:01:43",
@@ -2223,22 +2223,6 @@
     {
       "added_at": "2023-04-13 21:01:43",
       "album": {
-        "name": "Wide Awake",
-        "url": "https://open.spotify.com/album/65Z3hZGZsiNcpOAT2U0Inn"
-      },
-      "artists": [
-        {
-          "name": "Michael Schulte",
-          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
-        }
-      ],
-      "duration_ms": 224743,
-      "name": "You Said You'd Grow Old With Me",
-      "url": "https://open.spotify.com/track/41WTP0gosjYD74B06uS2tL"
-    },
-    {
-      "added_at": "2023-04-13 21:01:43",
-      "album": {
         "name": "Dumb Love",
         "url": "https://open.spotify.com/album/0xU5lh9KbThw5Y7b50Ilm8"
       },
@@ -2251,6 +2235,22 @@
       "duration_ms": 207068,
       "name": "Dumb Love",
       "url": "https://open.spotify.com/track/2Ms8MDDtYBw7M3K5F3EqPX"
+    },
+    {
+      "added_at": "2023-04-13 21:01:43",
+      "album": {
+        "name": "Wide Awake",
+        "url": "https://open.spotify.com/album/65Z3hZGZsiNcpOAT2U0Inn"
+      },
+      "artists": [
+        {
+          "name": "Michael Schulte",
+          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
+        }
+      ],
+      "duration_ms": 224743,
+      "name": "You Said You'd Grow Old With Me",
+      "url": "https://open.spotify.com/track/41WTP0gosjYD74B06uS2tL"
     },
     {
       "added_at": "2023-04-13 21:01:43",
@@ -2703,22 +2703,6 @@
     {
       "added_at": "2023-04-13 21:01:43",
       "album": {
-        "name": "7 Layers",
-        "url": "https://open.spotify.com/album/2rQtlZamCmgyyfXk30duG5"
-      },
-      "artists": [
-        {
-          "name": "Dotan",
-          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
-        }
-      ],
-      "duration_ms": 209687,
-      "name": "Hungry",
-      "url": "https://open.spotify.com/track/4xqm63jD6sXXbdLrAa09px"
-    },
-    {
-      "added_at": "2023-04-13 21:01:43",
-      "album": {
         "name": "Toujours des fleurs",
         "url": "https://open.spotify.com/album/2bl3fqhASHS45oLpOD6Jiy"
       },
@@ -2731,6 +2715,22 @@
       "duration_ms": 281757,
       "name": "Mon idole",
       "url": "https://open.spotify.com/track/7hw9fHpl79i897B0wOmor8"
+    },
+    {
+      "added_at": "2023-04-13 21:01:43",
+      "album": {
+        "name": "7 Layers",
+        "url": "https://open.spotify.com/album/2rQtlZamCmgyyfXk30duG5"
+      },
+      "artists": [
+        {
+          "name": "Dotan",
+          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
+        }
+      ],
+      "duration_ms": 209687,
+      "name": "Hungry",
+      "url": "https://open.spotify.com/track/4xqm63jD6sXXbdLrAa09px"
     },
     {
       "added_at": "2023-04-13 21:01:43",
@@ -2799,6 +2799,22 @@
     {
       "added_at": "2023-04-13 21:01:43",
       "album": {
+        "name": "7 Layers",
+        "url": "https://open.spotify.com/album/2rQtlZamCmgyyfXk30duG5"
+      },
+      "artists": [
+        {
+          "name": "Dotan",
+          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
+        }
+      ],
+      "duration_ms": 187926,
+      "name": "Let The River In",
+      "url": "https://open.spotify.com/track/5MhTDV0DWOTBrgjOVJhhrn"
+    },
+    {
+      "added_at": "2023-04-13 21:01:43",
+      "album": {
         "name": "Het Is Al Laat Toch",
         "url": "https://open.spotify.com/album/3RtDWaClh52W8VjqCrYqwK"
       },
@@ -2847,22 +2863,6 @@
       "duration_ms": 156804,
       "name": "Hey - Acoustic",
       "url": "https://open.spotify.com/track/28vyxr4A3WyiZ9dR1mTIr5"
-    },
-    {
-      "added_at": "2023-04-13 21:01:43",
-      "album": {
-        "name": "7 Layers",
-        "url": "https://open.spotify.com/album/2rQtlZamCmgyyfXk30duG5"
-      },
-      "artists": [
-        {
-          "name": "Dotan",
-          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
-        }
-      ],
-      "duration_ms": 187926,
-      "name": "Let The River In",
-      "url": "https://open.spotify.com/track/5MhTDV0DWOTBrgjOVJhhrn"
     },
     {
       "added_at": "2023-04-13 21:01:43",
@@ -2947,22 +2947,6 @@
     {
       "added_at": "2023-04-13 21:01:43",
       "album": {
-        "name": "Another Day (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6kcxIYNkpX9IOdbF7vOFFo"
-      },
-      "artists": [
-        {
-          "name": "Racoon",
-          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
-        }
-      ],
-      "duration_ms": 197360,
-      "name": "Love You More",
-      "url": "https://open.spotify.com/track/4rpU5VpYljwxLmGyb6JzbP"
-    },
-    {
-      "added_at": "2023-04-13 21:01:43",
-      "album": {
         "name": "Haunt You (feat. chloe moriondo)",
         "url": "https://open.spotify.com/album/2tDuXTNCAmd5VQXh2Bi8Ry"
       },
@@ -2983,22 +2967,6 @@
     {
       "added_at": "2023-04-13 21:01:43",
       "album": {
-        "name": "Our Version Of Events",
-        "url": "https://open.spotify.com/album/3bPrapL1DmFkznWnTb7xNz"
-      },
-      "artists": [
-        {
-          "name": "Emeli Sand\u00e9",
-          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
-        }
-      ],
-      "duration_ms": 221173,
-      "name": "Clown",
-      "url": "https://open.spotify.com/track/0EGVOnw876hry5JOK0ZaeV"
-    },
-    {
-      "added_at": "2023-04-13 21:01:43",
-      "album": {
         "name": "You've Changed",
         "url": "https://open.spotify.com/album/5l5steAg9r1WiMDGIoY5c2"
       },
@@ -3011,6 +2979,38 @@
       "duration_ms": 234076,
       "name": "You've Changed",
       "url": "https://open.spotify.com/track/2YMtKGTaTuuB0ThQ9QFyrc"
+    },
+    {
+      "added_at": "2023-04-13 21:01:43",
+      "album": {
+        "name": "Another Day (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6kcxIYNkpX9IOdbF7vOFFo"
+      },
+      "artists": [
+        {
+          "name": "Racoon",
+          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
+        }
+      ],
+      "duration_ms": 197360,
+      "name": "Love You More",
+      "url": "https://open.spotify.com/track/4rpU5VpYljwxLmGyb6JzbP"
+    },
+    {
+      "added_at": "2023-04-13 21:01:43",
+      "album": {
+        "name": "Our Version Of Events",
+        "url": "https://open.spotify.com/album/3bPrapL1DmFkznWnTb7xNz"
+      },
+      "artists": [
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "duration_ms": 221173,
+      "name": "Clown",
+      "url": "https://open.spotify.com/track/0EGVOnw876hry5JOK0ZaeV"
     },
     {
       "added_at": "2023-04-13 21:01:43",
@@ -3127,22 +3127,6 @@
     {
       "added_at": "2023-04-13 21:01:43",
       "album": {
-        "name": "Take Your Time Girl (live at ruud de wild/538)",
-        "url": "https://open.spotify.com/album/5PXcnxw0wVmj6My9JRk9aD"
-      },
-      "artists": [
-        {
-          "name": "Niels Geusebroek",
-          "url": "https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l"
-        }
-      ],
-      "duration_ms": 208206,
-      "name": "Take Your Time Girl (live at ruud de wild/538)",
-      "url": "https://open.spotify.com/track/3vbcCYLei5EmF60B3r8666"
-    },
-    {
-      "added_at": "2023-04-13 21:01:43",
-      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/1TtYqCKJROEOT3Vf1WRqT2"
       },
@@ -3159,18 +3143,18 @@
     {
       "added_at": "2023-04-13 21:01:43",
       "album": {
-        "name": "I Don't Love You Anymore",
-        "url": "https://open.spotify.com/album/39SKOMDOdOnKsbnI8T7JFO"
+        "name": "Take Your Time Girl (live at ruud de wild/538)",
+        "url": "https://open.spotify.com/album/5PXcnxw0wVmj6My9JRk9aD"
       },
       "artists": [
         {
-          "name": "Gorran",
-          "url": "https://open.spotify.com/artist/0eYc5DiKCToQ0hCJ3SuPMw"
+          "name": "Niels Geusebroek",
+          "url": "https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l"
         }
       ],
-      "duration_ms": 251080,
-      "name": "I Don't Love You Anymore",
-      "url": "https://open.spotify.com/track/6QJ8l79GBzZeBGb6MaBSxh"
+      "duration_ms": 208206,
+      "name": "Take Your Time Girl (live at ruud de wild/538)",
+      "url": "https://open.spotify.com/track/3vbcCYLei5EmF60B3r8666"
     },
     {
       "added_at": "2023-04-13 21:01:43",
@@ -3187,6 +3171,22 @@
       "duration_ms": 218640,
       "name": "With You",
       "url": "https://open.spotify.com/track/3u0cm2AwmuIxInF9F7lOyF"
+    },
+    {
+      "added_at": "2023-04-13 21:01:43",
+      "album": {
+        "name": "I Don't Love You Anymore",
+        "url": "https://open.spotify.com/album/39SKOMDOdOnKsbnI8T7JFO"
+      },
+      "artists": [
+        {
+          "name": "Gorran",
+          "url": "https://open.spotify.com/artist/0eYc5DiKCToQ0hCJ3SuPMw"
+        }
+      ],
+      "duration_ms": 251080,
+      "name": "I Don't Love You Anymore",
+      "url": "https://open.spotify.com/track/6QJ8l79GBzZeBGb6MaBSxh"
     },
     {
       "added_at": "2023-04-13 21:01:43",

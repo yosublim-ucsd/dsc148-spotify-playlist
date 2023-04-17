@@ -1,12 +1,12 @@
 {
   "description": "The quintessential list of songs to celebrate commencement. Congrats to the Class of 2022 and all other classes celebrating graduation this year. ",
-  "num_followers": 229742,
+  "num_followers": 229773,
   "original_name": "Graduation Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODgwMzY1NywwMDAwMDAwMGZlNWFlZDViZGMwMzc4MWZlYTBiNWQ4NGUwNDg5MmZj",
+  "snapshot_id": "MTY1ODgwMzY1NywwMDAwMDAwMDg3ZjE2ZmJlYTIyMjExZTEwYzQ1Mzk0NTQ0MjJiOTg1",
   "tracks": [
     {
       "added_at": "2022-05-23 14:29:26",
@@ -371,22 +371,6 @@
     {
       "added_at": "2022-05-23 14:29:26",
       "album": {
-        "name": "\u00f7 (Deluxe)",
-        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 261153,
-      "name": "Castle on the Hill",
-      "url": "https://open.spotify.com/track/6PCUP3dWmTjcTtXY02oFdT"
-    },
-    {
-      "added_at": "2022-05-23 14:29:26",
-      "album": {
         "name": "Walking On A Dream (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 198440,
       "name": "Walking On A Dream",
       "url": "https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ"
+    },
+    {
+      "added_at": "2022-05-23 14:29:26",
+      "album": {
+        "name": "\u00f7 (Deluxe)",
+        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 261153,
+      "name": "Castle on the Hill",
+      "url": "https://open.spotify.com/track/6PCUP3dWmTjcTtXY02oFdT"
     },
     {
       "added_at": "2022-05-23 14:29:26",
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-05-23 14:29:26",
       "album": {
-        "name": "Shame, Shame (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/16XswZ18xhMs8qUTN51mRl"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dog",
-          "url": "https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7"
-        }
-      ],
-      "duration_ms": 234800,
-      "name": "Where'd All the Time Go?",
-      "url": "https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI"
-    },
-    {
-      "added_at": "2022-05-23 14:29:26",
-      "album": {
         "name": "Woodstock",
         "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
       },
@@ -615,18 +599,18 @@
     {
       "added_at": "2022-05-23 14:29:26",
       "album": {
-        "name": "American Teen",
-        "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
+        "name": "Shame, Shame (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/16XswZ18xhMs8qUTN51mRl"
       },
       "artists": [
         {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+          "name": "Dr. Dog",
+          "url": "https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7"
         }
       ],
-      "duration_ms": 228600,
-      "name": "8TEEN",
-      "url": "https://open.spotify.com/track/5bgwqaRSS3M8WHWruHgSL5"
+      "duration_ms": 234800,
+      "name": "Where'd All the Time Go?",
+      "url": "https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI"
     },
     {
       "added_at": "2022-05-23 14:29:26",
@@ -651,6 +635,22 @@
       "duration_ms": 189486,
       "name": "Memories Remix (feat. Nipsey Hussle & YG)",
       "url": "https://open.spotify.com/track/3p4WMekidOIiyf8SFvfrIC"
+    },
+    {
+      "added_at": "2022-05-23 14:29:26",
+      "album": {
+        "name": "American Teen",
+        "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 228600,
+      "name": "8TEEN",
+      "url": "https://open.spotify.com/track/5bgwqaRSS3M8WHWruHgSL5"
     },
     {
       "added_at": "2022-05-23 14:29:26",

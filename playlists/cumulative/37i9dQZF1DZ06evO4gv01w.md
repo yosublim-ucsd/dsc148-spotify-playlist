@@ -4,7 +4,7 @@
 
 > This is Larkin Poe\. The essential tracks, all in one playlist.
 
-94 songs - 5 hr 34 min
+95 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Blood Harmony](https://open.spotify.com/track/03DkpmmMGvsyuNjb7rBn72) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/1YLPn4tEqchhJIwB5fPt6k) | 4:05 | 2022-09-10 | 2022-09-18 |
 | [Blood Harmony](https://open.spotify.com/track/0lNzJmI8WydGlJ3ZzEvW93) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj) | 4:05 | 2022-11-18 | 2022-11-25 |
 | [Blood Harmony](https://open.spotify.com/track/4O1FoNb9yC3B7Ts3KOMWt2) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/3oghxFoXbe6RZup0thSLiz) | 4:05 | 2022-08-05 | 2022-11-19 |
+| [Blue & Sentimental](https://open.spotify.com/track/0uAKtjwLUuoRV5HuZCqKbe) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Will Lee](https://open.spotify.com/artist/4yfYzng7htuuRXosAJYtun), [Shawn Pelton](https://open.spotify.com/artist/3JamY45rtaJluNZPgdVSkl) | [Late Night Basie](https://open.spotify.com/album/0UfzjyiMMz6ehDLQEqc7P2) | 3:51 | 2023-04-16 |  |
 | [Blue Ridge Mountains](https://open.spotify.com/track/0X6wrG9bGZl5mz8Af6AaC7) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Venom & Faith](https://open.spotify.com/album/4XflGGrR7ASWoMNVfy7txI) | 2:51 | 2022-08-06 |  |
 | [Blunt](https://open.spotify.com/track/22KxHFvbIk1r3N5gK7Q5vD) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Reskinned](https://open.spotify.com/album/4UwbVHSo5yrp4jkOIrKsRo) | 3:24 | 2022-08-05 | 2022-11-14 |
 | [Bolt Cutters & The Family Name](https://open.spotify.com/track/1RCqVVgPQNfUT1LCEwGJnY) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj) | 3:15 | 2022-11-13 |  |

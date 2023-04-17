@@ -4,7 +4,7 @@
 
 > The hardest songs, loud\. Very loud\. Cover: Sevendust
 
-735 songs - 1 day 20 hr 0 min
+737 songs - 1 day 20 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [100 Little Deaths](https://open.spotify.com/track/1iK6objrHYqNj6TjFhbEKJ) | [Lilith Czar](https://open.spotify.com/artist/2tMZ37dVy1DzZjXXCjhgFq) | [Created From Filth And Dust](https://open.spotify.com/album/3wrOixk8SLnjk4siR58e8q) | 3:33 | 2022-11-04 | 2023-04-15 |
 | [100 Little Deaths](https://open.spotify.com/track/3MgIvPwRJQ3H02Pg2R361m) | [Lilith Czar](https://open.spotify.com/artist/2tMZ37dVy1DzZjXXCjhgFq) | [Created From Filth And Dust](https://open.spotify.com/album/5a0aj6PFt8bFu2Pg3KWPzW) | 3:33 | 2022-06-10 | 2022-11-05 |
 | [100 Little Deaths](https://open.spotify.com/track/65B9xDVwOLjOi2Sm4bRVdm) | [Lilith Czar](https://open.spotify.com/artist/2tMZ37dVy1DzZjXXCjhgFq) | [100 Little Deaths \(Radio Edit\)](https://open.spotify.com/album/2bmYfuRVtzB5vAbr56K72G) | 3:33 | 2022-11-04 | 2022-11-13 |
-| [72 Seasons](https://open.spotify.com/track/6txhb14PWs9yrkTgR2jnU4) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/5vFa10TvQUWpEv9OkVBatc) | 7:39 | 2023-03-31 |  |
+| [72 Seasons](https://open.spotify.com/track/4poeu6nUr4UQo1RXpp29Js) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 7:39 | 2023-04-14 |  |
+| [72 Seasons](https://open.spotify.com/track/6txhb14PWs9yrkTgR2jnU4) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/5vFa10TvQUWpEv9OkVBatc) | 7:39 | 2023-03-31 | 2023-04-17 |
 | [<maybe> it's my fault](https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<maybe> it's my fault](https://open.spotify.com/album/139YquG3RpaLBq98PbsOIM) | 2:39 | 2022-07-08 | 2022-09-17 |
 | [A Crooked Melody](https://open.spotify.com/track/57bIv3ROVypmo9bzJzUShI) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [A Crooked Melody](https://open.spotify.com/album/4fIZzk4JQ6g5xFlOdz1rGE) | 3:55 | 2023-04-07 |  |
 | [A Disappearing Act](https://open.spotify.com/track/04flu1A6UXP4Stissk3G1l) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Vaxis II: A Window of the Waking Mind](https://open.spotify.com/album/5YRtvIMApwxnUTcWUBcaON) | 3:29 | 2022-08-19 | 2023-03-25 |
@@ -325,7 +326,8 @@
 | [I'll Be Waiting](https://open.spotify.com/track/0qLNIVGcEf7iq0fPMCJDCP) | [The Violent](https://open.spotify.com/artist/5NokRbYYfqacBmRVBRj0wD) | [I'll Be Waiting](https://open.spotify.com/album/3nfQ8FZKErsCD4pfQIdUAB) | 4:22 | 2023-03-17 |  |
 | [I'm Not](https://open.spotify.com/track/5bmxbmDia6hJvshHkzRYcb) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [I'm Not](https://open.spotify.com/album/5iybC75h5fhEF9jL7DDlov) | 2:43 | 2021-12-03 | 2022-06-04 |
 | [Ice Cold](https://open.spotify.com/track/5VwNXyLRoIDJ2E2XW1pLVW) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [The Midnight Demon Club](https://open.spotify.com/album/0SWbz68LauoDrMdgdNv6gr) | 3:27 | 2023-03-10 |  |
-| [If Darkness Had a Son](https://open.spotify.com/track/69HjtjyHuP8KJT7xBaUmtW) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [If Darkness Had a Son](https://open.spotify.com/album/07wqwU4JaQl7XTWwfiAobb) | 6:36 | 2023-03-03 |  |
+| [If Darkness Had a Son](https://open.spotify.com/track/3i4Nwzze8zflIoKsuoeBPM) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 6:36 | 2023-04-14 |  |
+| [If Darkness Had a Son](https://open.spotify.com/track/69HjtjyHuP8KJT7xBaUmtW) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [If Darkness Had a Son](https://open.spotify.com/album/07wqwU4JaQl7XTWwfiAobb) | 6:36 | 2023-03-03 | 2023-04-17 |
 | [If Tomorrow Never Comes \(Feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/track/5MgL0ccriqgDP1Gq3pwNNO) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [If Tomorrow Never Comes \(Feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/album/3la7NF2COfg90BdTY7HGtS) | 3:09 | 2022-03-18 | 2022-08-20 |
 | [Immortalize](https://open.spotify.com/track/1AR0d9urAEX4a1WdTzmbKz) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [Immortalize](https://open.spotify.com/album/3kJDQqifVrTnTEOj1alM13) | 3:35 | 2022-12-02 | 2023-03-11 |
 | [Imperial Heretic](https://open.spotify.com/track/52Ee1NSe8oaum15FN1CyH7) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Darker Still](https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4) | 4:50 | 2023-03-10 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Trendy x Chill K-Hip Hop.  (Cover: Giriboy(\uae30\ub9ac\ubcf4\uc774)) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
-  "num_followers": 185997,
+  "num_followers": 186151,
   "original_name": "TrenChill K-Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDc3MDYwMiwwMDAwMDAwMGU2ZjE2ZjcyOTNiNTYzODdlMmQ2MGFiMGM3YWE5ZTcw",
+  "snapshot_id": "MTY4MDc3MDYwMiwwMDAwMDAwMDllNzViZWQ5NjkwMWYxYmQ2YmUyNTQ1YWNhN2M0MDdl",
   "tracks": [
     {
       "added_at": "2023-04-06 08:38:09",
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/5KdY5Yn4hNRRf7vEWS57BD"
     },
     {
-      "added_at": "2023-04-16 01:05:03",
+      "added_at": "2023-04-17 01:05:46",
       "album": {
         "name": "come to my stu (Remix) [feat. Leellamarz]",
         "url": "https://open.spotify.com/album/29pHmhmbZ0D4h3loLSHdqZ"
@@ -687,6 +687,26 @@
     {
       "added_at": "2023-04-06 08:38:09",
       "album": {
+        "name": "Garden",
+        "url": "https://open.spotify.com/album/19HqbZL9Y69UssY9DDyBXR"
+      },
+      "artists": [
+        {
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 189821,
+      "name": "No.5",
+      "url": "https://open.spotify.com/track/0tWJ05IcctwDbJ0PfDbigg"
+    },
+    {
+      "added_at": "2023-04-06 08:38:09",
+      "album": {
         "name": "Remember Archive",
         "url": "https://open.spotify.com/album/3pf4ET01y2FMzmkiJnVYd1"
       },
@@ -707,26 +727,6 @@
       "duration_ms": 215226,
       "name": "Jumper (Feat. Gaeko, MINO)",
       "url": "https://open.spotify.com/track/56kc7J5Enl1ayKv3ClHMsl"
-    },
-    {
-      "added_at": "2023-04-06 08:38:09",
-      "album": {
-        "name": "Garden",
-        "url": "https://open.spotify.com/album/19HqbZL9Y69UssY9DDyBXR"
-      },
-      "artists": [
-        {
-          "name": "PENOMECO",
-          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 189821,
-      "name": "No.5",
-      "url": "https://open.spotify.com/track/0tWJ05IcctwDbJ0PfDbigg"
     },
     {
       "added_at": "2023-04-06 08:38:09",
@@ -855,26 +855,6 @@
     {
       "added_at": "2023-04-06 08:38:09",
       "album": {
-        "name": "Akita",
-        "url": "https://open.spotify.com/album/47SpzlhQhg5hcwX1J7azaS"
-      },
-      "artists": [
-        {
-          "name": "BE'O",
-          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
-        },
-        {
-          "name": "hartts",
-          "url": "https://open.spotify.com/artist/0a1stdnZdUUGkudEf9iymv"
-        }
-      ],
-      "duration_ms": 224293,
-      "name": "Akita (Feat. hartts) (Prod. OBSN)",
-      "url": "https://open.spotify.com/track/3Z8mmSGRXteAGEZFJW4VYV"
-    },
-    {
-      "added_at": "2023-04-06 08:38:09",
-      "album": {
         "name": "SHOW ME THE MONEY 11 Episode 3",
         "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 234839,
       "name": "EYE (Feat. BIG Naughty, JUSTHIS) (Prod. R.Tee)",
       "url": "https://open.spotify.com/track/20JkEhlKCrKtzORT5qDdWE"
+    },
+    {
+      "added_at": "2023-04-06 08:38:09",
+      "album": {
+        "name": "Akita",
+        "url": "https://open.spotify.com/album/47SpzlhQhg5hcwX1J7azaS"
+      },
+      "artists": [
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        },
+        {
+          "name": "hartts",
+          "url": "https://open.spotify.com/artist/0a1stdnZdUUGkudEf9iymv"
+        }
+      ],
+      "duration_ms": 224293,
+      "name": "Akita (Feat. hartts) (Prod. OBSN)",
+      "url": "https://open.spotify.com/track/3Z8mmSGRXteAGEZFJW4VYV"
     },
     {
       "added_at": "2023-04-06 08:38:09",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-04-06 08:38:09",
       "album": {
-        "name": "WHERE DOES SASQUATCH LIVE? Pt. 1",
-        "url": "https://open.spotify.com/album/2TUaUffgOaezf2b52HTTWE"
-      },
-      "artists": [
-        {
-          "name": "Zior Park",
-          "url": "https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD"
-        }
-      ],
-      "duration_ms": 239706,
-      "name": "MAGIC!",
-      "url": "https://open.spotify.com/track/7J7zXMRJjA8Xcz02EHLwxJ"
-    },
-    {
-      "added_at": "2023-04-06 08:38:09",
-      "album": {
         "name": "Epik High Is Here \u4e0a (Part 1)",
         "url": "https://open.spotify.com/album/5MH95tw9aZo7ayqkfsRzMu"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 214640,
       "name": "End of the World (Feat. GSoul)",
       "url": "https://open.spotify.com/track/5ZO2kMfYHuKXoAShKuXjZn"
+    },
+    {
+      "added_at": "2023-04-06 08:38:09",
+      "album": {
+        "name": "WHERE DOES SASQUATCH LIVE? Pt. 1",
+        "url": "https://open.spotify.com/album/2TUaUffgOaezf2b52HTTWE"
+      },
+      "artists": [
+        {
+          "name": "Zior Park",
+          "url": "https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD"
+        }
+      ],
+      "duration_ms": 239706,
+      "name": "MAGIC!",
+      "url": "https://open.spotify.com/track/7J7zXMRJjA8Xcz02EHLwxJ"
     },
     {
       "added_at": "2023-04-06 08:38:09",
@@ -1347,6 +1347,26 @@
     {
       "added_at": "2023-04-06 08:38:09",
       "album": {
+        "name": "FRIENDS",
+        "url": "https://open.spotify.com/album/15qT5zhGXLx7Oz725k8aZV"
+      },
+      "artists": [
+        {
+          "name": "lIlBOI",
+          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
+        },
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 190690,
+      "name": "FRIENDS",
+      "url": "https://open.spotify.com/track/1Y8tCOCqwav6RBvfNjYphx"
+    },
+    {
+      "added_at": "2023-04-06 08:38:09",
+      "album": {
         "name": "Between Sat & Sun",
         "url": "https://open.spotify.com/album/6YcwCU0b6fXZ003KIU8Jio"
       },
@@ -1371,26 +1391,6 @@
     {
       "added_at": "2023-04-06 08:38:09",
       "album": {
-        "name": "FRIENDS",
-        "url": "https://open.spotify.com/album/15qT5zhGXLx7Oz725k8aZV"
-      },
-      "artists": [
-        {
-          "name": "lIlBOI",
-          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
-        },
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 190690,
-      "name": "FRIENDS",
-      "url": "https://open.spotify.com/track/1Y8tCOCqwav6RBvfNjYphx"
-    },
-    {
-      "added_at": "2023-04-06 08:38:09",
-      "album": {
         "name": "ISLAND",
         "url": "https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO"
       },
@@ -1407,6 +1407,26 @@
       "duration_ms": 174644,
       "name": "Beautiful (Feat. Skinny Brown)",
       "url": "https://open.spotify.com/track/3J6NzKxov6PDE1LC99gXV8"
+    },
+    {
+      "added_at": "2023-04-06 08:38:09",
+      "album": {
+        "name": "Epik High Is Here \u4e0b (Part 2)",
+        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "duration_ms": 217773,
+      "name": "Rich Kids Anthem (Feat. Lee Hi)",
+      "url": "https://open.spotify.com/track/4nF3APHarLJHV3igGVgTUJ"
     },
     {
       "added_at": "2023-04-06 08:38:09",
@@ -1435,22 +1455,6 @@
     {
       "added_at": "2023-04-06 08:38:09",
       "album": {
-        "name": "COCO BOTTLE",
-        "url": "https://open.spotify.com/album/18T01XcLc1WzIZ3bCzwOsg"
-      },
-      "artists": [
-        {
-          "name": "PENOMECO",
-          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
-        }
-      ],
-      "duration_ms": 187889,
-      "name": "COCO BOTTLE",
-      "url": "https://open.spotify.com/track/3hHpCjJdBBw4KjizY8l72r"
-    },
-    {
-      "added_at": "2023-04-06 08:38:09",
-      "album": {
         "name": "11:59 (feat. Goopy)",
         "url": "https://open.spotify.com/album/4t9L0wjwVTWEakrmJ2YZvk"
       },
@@ -1471,22 +1475,18 @@
     {
       "added_at": "2023-04-06 08:38:09",
       "album": {
-        "name": "Epik High Is Here \u4e0b (Part 2)",
-        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
+        "name": "COCO BOTTLE",
+        "url": "https://open.spotify.com/album/18T01XcLc1WzIZ3bCzwOsg"
       },
       "artists": [
         {
-          "name": "Epik High",
-          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
-        },
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
         }
       ],
-      "duration_ms": 217773,
-      "name": "Rich Kids Anthem (Feat. Lee Hi)",
-      "url": "https://open.spotify.com/track/4nF3APHarLJHV3igGVgTUJ"
+      "duration_ms": 187889,
+      "name": "COCO BOTTLE",
+      "url": "https://open.spotify.com/track/3hHpCjJdBBw4KjizY8l72r"
     },
     {
       "added_at": "2023-04-06 08:38:09",
@@ -1503,22 +1503,6 @@
       "duration_ms": 206680,
       "name": "OUT OF MY SIGHT",
       "url": "https://open.spotify.com/track/0hUH6MXHQn9coBKHMXWpD8"
-    },
-    {
-      "added_at": "2023-04-06 08:38:09",
-      "album": {
-        "name": "Trippy",
-        "url": "https://open.spotify.com/album/4m2Thl6ktgiZTkCxUpKpX5"
-      },
-      "artists": [
-        {
-          "name": "Beenzino",
-          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
-        }
-      ],
-      "duration_ms": 207680,
-      "name": "Trippy",
-      "url": "https://open.spotify.com/track/5VuH5mBWdaZi5oNzrFhigj"
     },
     {
       "added_at": "2023-04-06 08:38:09",
@@ -1543,30 +1527,6 @@
     {
       "added_at": "2023-04-06 08:38:09",
       "album": {
-        "name": "LOVE MAZE",
-        "url": "https://open.spotify.com/album/7rOm15Kcboervh20RasQPp"
-      },
-      "artists": [
-        {
-          "name": "TRADE L",
-          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 227560,
-      "name": "NG (Feat. pH-1, Jay Park)",
-      "url": "https://open.spotify.com/track/1Oda9YbX3UIA8De6GhQN8M"
-    },
-    {
-      "added_at": "2023-04-06 08:38:09",
-      "album": {
         "name": "Show Me The Money 9 Episode 3",
         "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
       },
@@ -1587,6 +1547,46 @@
       "duration_ms": 276152,
       "name": "Tomorrow (Feat. GIRIBOY, BIG Naughty)",
       "url": "https://open.spotify.com/track/7K31QxS2DmTBxdYldd8yqf"
+    },
+    {
+      "added_at": "2023-04-06 08:38:09",
+      "album": {
+        "name": "Trippy",
+        "url": "https://open.spotify.com/album/4m2Thl6ktgiZTkCxUpKpX5"
+      },
+      "artists": [
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        }
+      ],
+      "duration_ms": 207680,
+      "name": "Trippy",
+      "url": "https://open.spotify.com/track/5VuH5mBWdaZi5oNzrFhigj"
+    },
+    {
+      "added_at": "2023-04-06 08:38:09",
+      "album": {
+        "name": "LOVE MAZE",
+        "url": "https://open.spotify.com/album/7rOm15Kcboervh20RasQPp"
+      },
+      "artists": [
+        {
+          "name": "TRADE L",
+          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 227560,
+      "name": "NG (Feat. pH-1, Jay Park)",
+      "url": "https://open.spotify.com/track/1Oda9YbX3UIA8De6GhQN8M"
     },
     {
       "added_at": "2023-04-06 08:38:09",
@@ -1823,26 +1823,6 @@
     {
       "added_at": "2023-04-06 08:38:09",
       "album": {
-        "name": "H.A.L.F (Have.A.Little.Fun)",
-        "url": "https://open.spotify.com/album/48u7IqYux9zf5sUWVb6qcm"
-      },
-      "artists": [
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        },
-        {
-          "name": "DPR LIVE",
-          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
-        }
-      ],
-      "duration_ms": 200900,
-      "name": "Have A Little Fun",
-      "url": "https://open.spotify.com/track/1F3QFP6UXUPUbgo1stlc0x"
-    },
-    {
-      "added_at": "2023-04-06 08:38:09",
-      "album": {
         "name": "Beginning",
         "url": "https://open.spotify.com/album/7D1eIygExQO5kvrCWF9mf0"
       },
@@ -1859,6 +1839,26 @@
       "duration_ms": 172956,
       "name": "Dessert shop (Feat. h3hyeon)",
       "url": "https://open.spotify.com/track/6hMwJeEhfeVm98LyRN7WWk"
+    },
+    {
+      "added_at": "2023-04-06 08:38:09",
+      "album": {
+        "name": "H.A.L.F (Have.A.Little.Fun)",
+        "url": "https://open.spotify.com/album/48u7IqYux9zf5sUWVb6qcm"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        }
+      ],
+      "duration_ms": 200900,
+      "name": "Have A Little Fun",
+      "url": "https://open.spotify.com/track/1F3QFP6UXUPUbgo1stlc0x"
     },
     {
       "added_at": "2023-04-06 08:38:09",
@@ -1963,18 +1963,26 @@
     {
       "added_at": "2023-04-06 08:38:09",
       "album": {
-        "name": "\uc624\uc5fc,\ucd94",
-        "url": "https://open.spotify.com/album/2A8D0clrVMyW9KsYRTiZWQ"
+        "name": "ROOM SERVICE",
+        "url": "https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0"
       },
       "artists": [
         {
-          "name": "Hwaji",
-          "url": "https://open.spotify.com/artist/1Azg0okIA7BY6CMwRBLmud"
+          "name": "GroovyRoom",
+          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
+        },
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "Moon Sujin",
+          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
         }
       ],
-      "duration_ms": 165214,
-      "name": "\uc624\uc5fc",
-      "url": "https://open.spotify.com/track/0GtvTl4sjuDRJF59MjywwO"
+      "duration_ms": 185729,
+      "name": "Pick up your phone (Feat. MOON)",
+      "url": "https://open.spotify.com/track/5FMPLl79EfOnRZ4xn2Mck0"
     }
   ],
   "unique_name": "TrenChill K-Hip Hop",

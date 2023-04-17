@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5RJFUyAPLw.md) - [plain]
 
 > Relajados y disfrutando la vida con musiquita linda de fondo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,676 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,711 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5RJFUyAPLw.md) - [plain]
 | 13 | [TOSCANA](https://open.spotify.com/track/6ejAYAdo08qbPLrH4FEfYe) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Cardellino](https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC) | 2:49 |
 | 14 | [De mí, de mí, de mí](https://open.spotify.com/track/71O4eV3KvxjJ2mycKTBvwr) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [Cuatro Estaciones](https://open.spotify.com/album/6Ur6AsWdJDIdihiDWqNz7m) | 3:37 |
 | 15 | [Para Qué Sufrir](https://open.spotify.com/track/4nehxVflg443IcjhsqpfEG) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:46 |
-| 16 | [Toda la Vida](https://open.spotify.com/track/2KSUy9yJZbXXfvIIIqQ6we) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [DOS DOS DOS](https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP) | 3:10 |
+| 16 | [Perreo Bonito](https://open.spotify.com/track/7EGWnAJSDIfJRRsE78n7ea) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Perreo Bonito](https://open.spotify.com/album/36mS7QJlFRmi3Pcw0yikxc) | 3:07 |
 | 17 | [Lo Hice, Te Dejé](https://open.spotify.com/track/3PKhRDUCDckxRypmC5RhO6) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Grandes Éxitos del Boleroglam, Vol\. 2](https://open.spotify.com/album/49k8bx6FKOeKocIRppwnYE) | 3:06 |
-| 18 | [Perreo Bonito](https://open.spotify.com/track/7EGWnAJSDIfJRRsE78n7ea) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Perreo Bonito](https://open.spotify.com/album/36mS7QJlFRmi3Pcw0yikxc) | 3:07 |
+| 18 | [Toda la Vida](https://open.spotify.com/track/2KSUy9yJZbXXfvIIIqQ6we) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [DOS DOS DOS](https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP) | 3:10 |
 | 19 | [Ciclo](https://open.spotify.com/track/1lq2OOQB6ayaHvsbWZhtqQ) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Ciclo](https://open.spotify.com/album/3RdOl7kpv8eExyjI9YhANs) | 2:49 |
 | 20 | [Tan Difícil de Entender](https://open.spotify.com/track/2KkQ9qiUzA7SHwCadQtI8u) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Tan Difícil de Entender](https://open.spotify.com/album/4llL1SDFfsIsbuBY0seqKd) | 2:05 |
 | 21 | [Como Antes](https://open.spotify.com/track/1rgTPhfIsygO4HjDafOVzR) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Como Antes](https://open.spotify.com/album/0jXsX7bYf7FQE0CLGug86V) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5RJFUyAPLw.md) - [plain]
 | 49 | [Mis Amantes](https://open.spotify.com/track/0Z02F4Jh582ZU59skYyXUD) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH), [Kastiello](https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X) | [Mis Amantes](https://open.spotify.com/album/1clEtt82cNNqkh6YWU2fBc) | 3:49 |
 | 50 | [estamos bien](https://open.spotify.com/track/1VvnmpJBpaJ6LOObkwOg7C) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [estamos bien](https://open.spotify.com/album/1kCf3v2NqFFTmQwRwlRe3G) | 2:40 |
 
-Snapshot ID: `MTY4MTQ4NzUwMiwwMDAwMDAwMDUwY2E5NzEyMTRhYWMwOTM3OTMwNWRjNTI1MjAwNzdl`
+Snapshot ID: `MTY4MTQ4NzUwMiwwMDAwMDAwMDdjMjU5ZWZhNzEzNTdiYzhhYjRiZjRmODkyN2MwYjc1`

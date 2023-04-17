@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 
 > Tengan a la mano las máscaras de lucha libre y la tabla de surf.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,003 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,026 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 | 22 | [Jaley Jaley](https://open.spotify.com/track/5Q2kmykzh6TUFBBqskiHjK) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Cera Perdida](https://open.spotify.com/album/4G4lWdQ2QmExgywdumu7Fh) | 3:09 |
 | 23 | [Tangatutanga](https://open.spotify.com/track/6jKsTrjBw58EylG0U0Pxws) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Acapulco Golden](https://open.spotify.com/album/54nY5IKYlpgFYYXbA5Y3hr) | 1:28 |
 | 24 | [Walk, Don't Run](https://open.spotify.com/track/74Qp7hzjPFQZUBMpNDqUIM) | [The Ventures](https://open.spotify.com/artist/2GaayiIs1kcyNqRXQuzp35) | [Walk Don't Run \- All\-Time Greatest Hits](https://open.spotify.com/album/6OezD06HfOjBAQiXqTsXTJ) | 2:06 |
-| 25 | [Magneto](https://open.spotify.com/track/6QpUKeuW5YxcQ5m3r9lwBl) | [Messer Chups](https://open.spotify.com/artist/756Li3sKcK4EdDiniLPqRl) | [The Incredible Crocotiger](https://open.spotify.com/album/3j7XTxpkvKB3bkkkLQmP5P) | 2:50 |
-| 26 | [Bocanegra](https://open.spotify.com/track/3MX20DuDYfhihzv24OyM3V) | [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo) | [Cumbia Salvaje](https://open.spotify.com/album/2EMw3RFVp5okEUKY7yGYIV) | 4:22 |
+| 25 | [Bocanegra](https://open.spotify.com/track/3MX20DuDYfhihzv24OyM3V) | [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo) | [Cumbia Salvaje](https://open.spotify.com/album/2EMw3RFVp5okEUKY7yGYIV) | 4:22 |
+| 26 | [Magneto](https://open.spotify.com/track/6QpUKeuW5YxcQ5m3r9lwBl) | [Messer Chups](https://open.spotify.com/artist/756Li3sKcK4EdDiniLPqRl) | [The Incredible Crocotiger](https://open.spotify.com/album/3j7XTxpkvKB3bkkkLQmP5P) | 2:50 |
 | 27 | [Wish You Were Here](https://open.spotify.com/track/0bPl0bTLYzpnkIZOtES29O) | [Arizona Baby](https://open.spotify.com/artist/1RzhOKsFwEhVZWR2OmCCqV), [Los Coronas](https://open.spotify.com/artist/47Q90hbpzShTWyi60e6uVN) | [Dos Bandas y un Destino](https://open.spotify.com/album/3BmLh6ul8Rbj9LiabRcKQ1) | 3:49 |
 | 28 | [Psycho for Your Love](https://open.spotify.com/track/45XtqGyKhOkkYIeOND0KF7) | [The Meteors](https://open.spotify.com/artist/7a2sloQlmdKSmj3fwMMpg9) | [The Lost Album](https://open.spotify.com/album/7zaDIege7cTVCOkGyto9Bw) | 2:53 |
 | 29 | [Labios Carmin](https://open.spotify.com/track/2zskzzvImqBBqWmPcIUeNa) | [Los Vaguens](https://open.spotify.com/artist/0cE1FRPmspxRadK6z3zQb2) | [Bestiario de Santa Lucia](https://open.spotify.com/album/7hHBljFGjPZxIgOQ9MjK4a) | 3:29 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 | 33 | [El Beach Boy](https://open.spotify.com/track/6oqxj450uTm4141WYeLLOM) | [Fenomeno Fuzz](https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc) | [Martinis & Bikinis](https://open.spotify.com/album/3E2iEWxguD9ypkLuZ6UMoz) | 2:17 |
 | 34 | [There But for the Grace of God Go I](https://open.spotify.com/track/0pDMnocBxXOPjBiTfYr8bl) | [The Gories](https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh) | [Outta Here](https://open.spotify.com/album/0lmtSiRNAX5QXkQm4IuWHb) | 3:07 |
 | 35 | [Last Call](https://open.spotify.com/track/2Aw6dlyFVe0noQH9ppjhvX) | [The Bomboras](https://open.spotify.com/artist/3yoSVQdO70gyHa8hfpoJwD) | [Swingin' Singles](https://open.spotify.com/album/0yfDlYjL7m8HGqaobyt4k3) | 1:55 |
-| 36 | [Haulin' Hearse](https://open.spotify.com/track/4A9dMvwGlocF9gxVesArPR) | [The Ghastly Ones](https://open.spotify.com/artist/2dOGUGTTR0vKcexJaOOLMy) | [A\-Haunting We Will Go\-Go](https://open.spotify.com/album/6bXNFJ3G3oq73vWW7uHvtk) | 2:22 |
-| 37 | [The Godfather](https://open.spotify.com/track/4IbDm3FsKHrdbuAAWXZztu) | [Satan's Pilgrims](https://open.spotify.com/artist/7LQPLh6XX8uGuU8WKkHYIM) | [Plymouth Rock](https://open.spotify.com/album/3vBmJk8uUIqtH2wYPdVfq9) | 2:34 |
+| 36 | [The Godfather](https://open.spotify.com/track/4IbDm3FsKHrdbuAAWXZztu) | [Satan's Pilgrims](https://open.spotify.com/artist/7LQPLh6XX8uGuU8WKkHYIM) | [Plymouth Rock](https://open.spotify.com/album/3vBmJk8uUIqtH2wYPdVfq9) | 2:34 |
+| 37 | [Haulin' Hearse](https://open.spotify.com/track/4A9dMvwGlocF9gxVesArPR) | [The Ghastly Ones](https://open.spotify.com/artist/2dOGUGTTR0vKcexJaOOLMy) | [A\-Haunting We Will Go\-Go](https://open.spotify.com/album/6bXNFJ3G3oq73vWW7uHvtk) | 2:22 |
 | 38 | [Olvidemos el Romance .\. Cojamos Ya!](https://open.spotify.com/track/2xGPn1g68eJfGY4c3qEwlZ) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Perfume de Violetas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/03663WodvoLxswAm8iHB4r) | 2:15 |
 | 39 | [Tequila](https://open.spotify.com/track/6iBdawbfBxb7op85Ydd9C7) | [The Surfaris](https://open.spotify.com/artist/6gZVflqhSHhG3MjYrf1dOv) | [Surf Party: Best Of The Surfaris \- Live!](https://open.spotify.com/album/6Sxn3U1oloIaKAZl8pc0Y4) | 2:42 |
 | 40 | [Shooby Doo Wop](https://open.spotify.com/track/0hRphF5bOnJkQzKSKuJbmc) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Daniel Gutierrez](https://open.spotify.com/artist/4BjnUrsKtotSlzyIN5AYGq) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 2:28 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 | 74 | [Chicas Kamikaze](https://open.spotify.com/track/72kbuWvm36guCtSreHM203) | [Matorralman](https://open.spotify.com/artist/4FAxuKuqbciGKSsTS5AgaB) | [Guateque Estelar](https://open.spotify.com/album/5fLy3qmhRpmV4DPtqw4DGj) | 5:11 |
 | 75 | [Miradas de Amor](https://open.spotify.com/track/4V69bmJHHOcWctu9BroqW0) | [Danny Amis with Lost Acapulco](https://open.spotify.com/artist/0PLhEPFzmqf0yjfyb8261k) | [Daddy\-O Grande In Mexico](https://open.spotify.com/album/0eyG4OGP4qQdEAI7jchSgv) | 2:58 |
 
-Snapshot ID: `MTY3OTYzNzYwMCwwMDAwMDAwMGE0NjJjYzUxZGMyYTQ1NDY5NDE0M2ViNDFmZmJkYjZi`
+Snapshot ID: `MTY3OTYzNzYwMCwwMDAwMDAwMGYzMTlmMTI4Y2QxMGFjNThlYjY0MTdmM2ZkNjQ5OWNi`

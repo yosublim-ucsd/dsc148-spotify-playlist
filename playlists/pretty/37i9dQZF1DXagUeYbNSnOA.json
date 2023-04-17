@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring Piba. Updates every Wednesday.",
-  "num_followers": 169525,
+  "num_followers": 169530,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTMxODgwMCwwMDAwMDAwMDA3M2YxOWY0OTlhNTIxYTNjNTg2M2I5NDlmZmRkOGRl",
+  "snapshot_id": "MTY4MTMxODgwMCwwMDAwMDAwMGFjNTgyOTgxOTc4MDM5MjU0NmNjZjdjMzU1YjYyMjJm",
   "tracks": [
     {
       "added_at": "2023-04-12 17:00:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-04-12 17:00:00",
       "album": {
-        "name": "Viaje (a)marte",
-        "url": "https://open.spotify.com/album/0s5pP23tx9XCUAQ82xSouC"
-      },
-      "artists": [
-        {
-          "name": "Tom\u00e1s Laur\u00eda",
-          "url": "https://open.spotify.com/artist/0neHEgLsKKdPl2izN9qVzY"
-        }
-      ],
-      "duration_ms": 118204,
-      "name": "Vibras Positivas",
-      "url": "https://open.spotify.com/track/6nq8qg9OAldCiM6jaCVKer"
-    },
-    {
-      "added_at": "2023-04-12 17:00:00",
-      "album": {
         "name": "Lo \u00danico Que Tenemos Que Ver T\u00fa y Yo Es Lo de en Frente",
         "url": "https://open.spotify.com/album/4khJHEa8AuphacJcuEVORy"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 99090,
       "name": "Lo \u00danico Que Tenemos Que Ver T\u00fa y Yo Es Lo de en Frente",
       "url": "https://open.spotify.com/track/6FuR5KzA4mm9oEB1OsIX1x"
+    },
+    {
+      "added_at": "2023-04-12 17:00:00",
+      "album": {
+        "name": "Viaje (a)marte",
+        "url": "https://open.spotify.com/album/0s5pP23tx9XCUAQ82xSouC"
+      },
+      "artists": [
+        {
+          "name": "Tom\u00e1s Laur\u00eda",
+          "url": "https://open.spotify.com/artist/0neHEgLsKKdPl2izN9qVzY"
+        }
+      ],
+      "duration_ms": 118204,
+      "name": "Vibras Positivas",
+      "url": "https://open.spotify.com/track/6nq8qg9OAldCiM6jaCVKer"
     },
     {
       "added_at": "2023-04-12 17:00:00",

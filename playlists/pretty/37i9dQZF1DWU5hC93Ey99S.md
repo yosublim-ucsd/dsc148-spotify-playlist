@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > "What in the stutter/rainy/tremolo house list did I just create??"
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,909 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,952 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 36 | [So Long](https://open.spotify.com/track/0PFqyFI62E0nTjIcBdhHPD) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Origami Human](https://open.spotify.com/artist/6vOoZCnNiawjGeViOSoY1t) | [There's Another Life 4 U / So Long](https://open.spotify.com/album/5VwbMyHjQ1hPcIHnEEvTKa) | 3:47 |
 | 37 | [Pearls \- SILK Remix](https://open.spotify.com/track/3COoBjp98dAjysxl5ksTsV) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc), [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Pearls \(SILK Remix\)](https://open.spotify.com/album/3yo2oAvILNLiOcmswEzYfr) | 4:06 |
 | 38 | [No Nein](https://open.spotify.com/track/4qeIlzP0Z1JFXh0AckDcX8) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [Mietze Conte](https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN) | [No Nein](https://open.spotify.com/album/5vmCLooZQ8zXFbabT1nvxP) | 2:31 |
-| 39 | [Need Somebody \(Icarus Remix\)](https://open.spotify.com/track/42Axq8KVKQLestbSsQG1Qe) | [BONNIE X CLYDE](https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r), [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [Need Somebody \(Icarus Remix\)](https://open.spotify.com/album/5ZmEZhwaAUEkkkhRUhGUFM) | 4:44 |
+| 39 | [Her](https://open.spotify.com/track/2EMLyx9QTYPDa9GNCxhAqz) | [Montee](https://open.spotify.com/artist/2rgFqpsqtoEJGOr0JzFxtG) | [Her](https://open.spotify.com/album/5tLg7FOM4rHctSrbPMun95) | 3:31 |
 | 40 | [Wasted On You](https://open.spotify.com/track/3HSf2e7s5Q9WQO16biu4U4) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Little Love](https://open.spotify.com/album/793CKt4Qo8QvaOx2uWkhst) | 4:23 |
-| 41 | [Her](https://open.spotify.com/track/2EMLyx9QTYPDa9GNCxhAqz) | [Montee](https://open.spotify.com/artist/2rgFqpsqtoEJGOr0JzFxtG) | [Her](https://open.spotify.com/album/5tLg7FOM4rHctSrbPMun95) | 3:31 |
-| 42 | [Esther \- Duskus Romantic Edit](https://open.spotify.com/track/3VgWp5x2nvvP9XFCs6UBQs) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [Esther \(Duskus Romantic Edit\)](https://open.spotify.com/album/7cUcaY2UwQPaFYYnEx648J) | 3:03 |
-| 43 | [Tell Me](https://open.spotify.com/track/5o5tFFa10RqTWPsGXnL6uj) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Tell Me](https://open.spotify.com/album/1jPgrvTG7bG5VLWTxIaUDd) | 3:01 |
+| 41 | [Need Somebody \(Icarus Remix\)](https://open.spotify.com/track/42Axq8KVKQLestbSsQG1Qe) | [BONNIE X CLYDE](https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r), [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [Need Somebody \(Icarus Remix\)](https://open.spotify.com/album/5ZmEZhwaAUEkkkhRUhGUFM) | 4:44 |
+| 42 | [Nothing Is Easy](https://open.spotify.com/track/5iKzJujKsuWtQcZ1JqrRIH) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Nothing Is Easy EP](https://open.spotify.com/album/4nm8MRARxw1YRlVX8m2BBW) | 3:11 |
+| 43 | [Say It To Me](https://open.spotify.com/track/7t7ozrjWAqQPyvBZPoVbdQ) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8) | [Say It To Me](https://open.spotify.com/album/5Hmf5zuiJv54jvkureLeiW) | 4:02 |
 | 44 | [WASTED ON ME](https://open.spotify.com/track/6tXebnSmy1ZEZANFRHRoCO) | [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr) | [WASTED ON ME](https://open.spotify.com/album/5e08LQuzV5wcQlCcp9rs2g) | 3:02 |
-| 45 | [Insomnia](https://open.spotify.com/track/3GE9ogfnPuuc2YkdCHsqHF) | [RudeLies](https://open.spotify.com/artist/7hf6L4LN1RTVN66IdBVpPr) | [Insomnia](https://open.spotify.com/album/6WYfJKnEghNhELzi7bhenR) | 3:06 |
-| 46 | [Gold](https://open.spotify.com/track/4y7P4oG7MNei0CmcuwdfZe) | [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Gold](https://open.spotify.com/album/2M3YBCxafpX8VyGxGcc3Nq) | 2:03 |
-| 47 | [Say It To Me](https://open.spotify.com/track/7t7ozrjWAqQPyvBZPoVbdQ) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8) | [Say It To Me](https://open.spotify.com/album/5Hmf5zuiJv54jvkureLeiW) | 4:02 |
-| 48 | [Nothing Is Easy](https://open.spotify.com/track/5iKzJujKsuWtQcZ1JqrRIH) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Nothing Is Easy EP](https://open.spotify.com/album/4nm8MRARxw1YRlVX8m2BBW) | 3:11 |
+| 45 | [Tell Me](https://open.spotify.com/track/5o5tFFa10RqTWPsGXnL6uj) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Tell Me](https://open.spotify.com/album/1jPgrvTG7bG5VLWTxIaUDd) | 3:01 |
+| 46 | [Esther \- Duskus Romantic Edit](https://open.spotify.com/track/3VgWp5x2nvvP9XFCs6UBQs) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [Esther \(Duskus Romantic Edit\)](https://open.spotify.com/album/7cUcaY2UwQPaFYYnEx648J) | 3:03 |
+| 47 | [Insomnia](https://open.spotify.com/track/3GE9ogfnPuuc2YkdCHsqHF) | [RudeLies](https://open.spotify.com/artist/7hf6L4LN1RTVN66IdBVpPr) | [Insomnia](https://open.spotify.com/album/6WYfJKnEghNhELzi7bhenR) | 3:06 |
+| 48 | [Gold](https://open.spotify.com/track/4y7P4oG7MNei0CmcuwdfZe) | [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Gold](https://open.spotify.com/album/2M3YBCxafpX8VyGxGcc3Nq) | 2:03 |
 | 49 | [Radio \- SILK Remix](https://open.spotify.com/track/2XnnsbJsLJpE6Kt7IMLRn4) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Radio \(SILK Remix\)](https://open.spotify.com/album/1ccpjciLT1hr63qZpj9ZPA) | 3:02 |
 | 50 | [Need You](https://open.spotify.com/track/5HWybXhMxw8W8t0sUPysxf) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Need You](https://open.spotify.com/album/3yVl1zSI4SBQGVIpUEcDKF) | 3:34 |
 
-Snapshot ID: `MTY4MTQyNjgwMCwwMDAwMDAwMDk2N2M1YTNmODY0Mjc0ODczN2NjYzc4ZDM2MTcyMjU1`
+Snapshot ID: `MTY4MTQyNjgwMCwwMDAwMDAwMDU1YTRjYzYyOWFjOTkwMjc4NWVkMWQ1NzRlNGQwOTk3`

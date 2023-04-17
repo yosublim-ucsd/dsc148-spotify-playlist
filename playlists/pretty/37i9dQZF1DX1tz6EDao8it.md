@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tz6EDao8it.md) - [plain]
 
 > Timeless, unforgettable melodies from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 535,910 likes - 82 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 536,475 likes - 82 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tz6EDao8it.md) - [plain]
 | 3 | [Theme From Jurassic Park](https://open.spotify.com/track/2TZbQZXOuR8osP2AK8yYMN) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Jurassic Park](https://open.spotify.com/album/1yyFmCMeNtuLWsLZAXPStf) | 3:27 |
 | 4 | [Cornfield Chase](https://open.spotify.com/track/6pWgRkpqVfxnj3WuIcJ7WP) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Interstellar \(Original Motion Picture Soundtrack\) \[Expanded Edition\]](https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP) | 2:06 |
 | 5 | [Comptine d'un autre été, l'après\-midi](https://open.spotify.com/track/14rZjW3RioG7WesZhYESso) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [Le Fabuleux destin d'Amélie Poulain \(Bande originale du film\)](https://open.spotify.com/album/6PRPYATK5VvjZ2p911y6U0) | 2:20 |
-| 6 | [Now We Are Free \- From "Gladiator" Soundtrack](https://open.spotify.com/track/1raWfcURBd1Q3W3K0ojDCM) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Klaus Badelt](https://open.spotify.com/artist/03GruNQP8X25PCoWzdvIGZ), [Lisa Gerrard](https://open.spotify.com/artist/3C4MmUJYQN9svNdedAR2BK), [Gavin Greenaway](https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q), [The Lyndhurst Orchestra](https://open.spotify.com/artist/6djeIA7Gl9v9gvnpRc1eIF) | [Gladiator \- Music From The Motion Picture](https://open.spotify.com/album/0HqvyHCJ9EaORFyA8BPDyW) | 4:14 |
+| 6 | [Now We Are Free \- From "Gladiator" Soundtrack](https://open.spotify.com/track/1yzAzGGN9wZNySoP6wGba6) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Klaus Badelt](https://open.spotify.com/artist/03GruNQP8X25PCoWzdvIGZ), [Lisa Gerrard](https://open.spotify.com/artist/3C4MmUJYQN9svNdedAR2BK), [Gavin Greenaway](https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q), [The Lyndhurst Orchestra](https://open.spotify.com/artist/6djeIA7Gl9v9gvnpRc1eIF) | [Cinema Sounds of Hans Zimmer](https://open.spotify.com/album/0rmQ3exOg2zn87yROU9RSX) | 4:14 |
 | 7 | [The Avengers](https://open.spotify.com/track/5SXsXjVJCWeJuf7FHvgBYR) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [The Avengers \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3wvpIkfl4oOgZLMaQBWadf) | 2:03 |
 | 8 | [Concerning Hobbits](https://open.spotify.com/track/644es5aYPJghtZLjM1rmSP) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7) | [The Lord of the Rings: The Fellowship of the Ring \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/04rz93AqGy9JduzV3K81Dh) | 2:55 |
 | 9 | [Pure spirits of the forest](https://open.spotify.com/track/1IFME3mAnOYVDv4I2gMUyd) | [James Horner](https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr) | [AVATAR Music From The Motion Picture Music Composed and Conducted by James Horner \(Deluxe\)](https://open.spotify.com/album/2n9XTeWA3qyZVxWiH8TKlV) | 8:49 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tz6EDao8it.md) - [plain]
 | 81 | [With My Own Eyes](https://open.spotify.com/track/1X26LGm0cnHhzAvXpIYIWc) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Atonement OST](https://open.spotify.com/album/08LLwEtgyMST8wRsKaZiLZ) | 4:40 |
 | 82 | [Tennessee](https://open.spotify.com/track/2O0UWIMFeMtFR0LJMuIPjJ) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Pearl Harbor \- Original Motion Picture Soundtrack](https://open.spotify.com/album/6d0LelwtKFd0F0ZfImWWDz) | 3:39 |
 
-Snapshot ID: `MTY4MDcwMzIyNSwwMDAwMDAwMGNiMzA5N2FmMDZjOGVkYmYzOGZiYTM0NTZlMWQxMjRk`
+Snapshot ID: `MTY4MDcwMzIyNSwwMDAwMDAwMGQ5ZjgxOTUwMTJiNDE2ZTc5MWQ5ZTAyZTc1NjkyMzM2`

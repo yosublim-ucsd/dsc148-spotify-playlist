@@ -1823,6 +1823,28 @@
     },
     {
       "album": {
+        "name": "Espantap\u00e1jaros",
+        "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "La Perla",
+          "url": "https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Espantap\u00e1jaros",
+      "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
+    },
+    {
+      "album": {
         "name": "Abismos",
         "url": "https://open.spotify.com/album/5wFCEY9HExtzfyTETDeAHi"
       },
@@ -2816,7 +2838,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 173320,
       "name": "Lento",
       "url": "https://open.spotify.com/track/5qy7TkqmSsuDarSz9Ogt5s"
@@ -4707,6 +4729,24 @@
     },
     {
       "album": {
+        "name": "Quisiera",
+        "url": "https://open.spotify.com/album/3HJ3fRk2KTki8HvqsoLWm6"
+      },
+      "artists": [
+        {
+          "name": "Flor de Jamaica",
+          "url": "https://open.spotify.com/artist/4jS676NJhUIjqAjmDzKG5f"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224378,
+      "name": "Quisiera",
+      "url": "https://open.spotify.com/track/58s4Lbsh8MBAFoJ7Aeaex8"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9 m\u00e1s da (feat. Charlie Rodd)",
         "url": "https://open.spotify.com/album/4J9rqXc6sk1UmjOPFvhuL9"
       },
@@ -4802,7 +4842,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 251428,
       "name": "Regresar (Vibes4YourSoul Remix)",
       "url": "https://open.spotify.com/track/2Rzt5D3eOg7I12ZWozGX4w"
@@ -5012,7 +5052,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 188507,
       "name": "Sed",
       "url": "https://open.spotify.com/track/5qwBGh8rMY4jEdszbxXA0Z"
@@ -5154,6 +5194,28 @@
       "duration_ms": 288554,
       "name": "Solo",
       "url": "https://open.spotify.com/track/6fsiu35EUhFHqKUP32ZMMf"
+    },
+    {
+      "album": {
+        "name": "Solo Una Amiga",
+        "url": "https://open.spotify.com/album/4GnhEiT4St0Qvlp5LV8UnG"
+      },
+      "artists": [
+        {
+          "name": "Dariell Cano",
+          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
+        },
+        {
+          "name": "Danny Reyes",
+          "url": "https://open.spotify.com/artist/29lfDpKuAjaSUKsxTqU0g3"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264490,
+      "name": "Solo Una Amiga",
+      "url": "https://open.spotify.com/track/1fDtV4aKfx3veJqpz9iYsM"
     },
     {
       "album": {

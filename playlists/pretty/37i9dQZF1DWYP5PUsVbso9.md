@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 
 > The decade of the Outlaws of Country Music \- where traditional and crossover country collided\. Cover: Charley Pride
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,928 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,144 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,12 +60,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 | 50 | [Years](https://open.spotify.com/track/0NmCGVEXhfAu7XMI4JMyff) | [Barbara Mandrell](https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg) | [Just For The Record](https://open.spotify.com/album/4eoO8CKZTuLmTitjkPOpIY) | 3:51 |
 | 51 | [Good Hearted Woman](https://open.spotify.com/track/3CqLvQ9fPOLtLIKb7r5ti6) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Ultimate Waylon Jennings](https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa) | 2:58 |
 | 52 | [Blue Skies](https://open.spotify.com/track/33LQxf2T3Jbgw3XQ1H3LMY) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Stardust](https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq) | 3:33 |
-| 53 | [Tennessee Waltz](https://open.spotify.com/track/7A3TAN0Epolvort9IcqKvq) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E) | [Let's Keep It That Way](https://open.spotify.com/album/5cLFy5cKLjOetxzo5micoR) | 2:49 |
-| 54 | [Pure Love](https://open.spotify.com/track/4LE5mk1mDDn0TX7669wVvg) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ) | [Pure Love](https://open.spotify.com/album/1CYDyOq4idlMXcqqxiJ1A5) | 2:21 |
+| 53 | [Pure Love](https://open.spotify.com/track/4LE5mk1mDDn0TX7669wVvg) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ) | [Pure Love](https://open.spotify.com/album/1CYDyOq4idlMXcqqxiJ1A5) | 2:21 |
+| 54 | [Tennessee Waltz](https://open.spotify.com/track/7A3TAN0Epolvort9IcqKvq) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E) | [Let's Keep It That Way](https://open.spotify.com/album/5cLFy5cKLjOetxzo5micoR) | 2:49 |
 | 55 | [Wasted Days And Wasted Nights](https://open.spotify.com/track/3xPer22ZLDCRQtb6Z03ykt) | [Freddy Fender](https://open.spotify.com/artist/0SNdq9iJyup4XY6JbNHbt6) | [Before The Next Teardrop Falls](https://open.spotify.com/album/3gy2ynEvSm1yV3gydcPWxd) | 2:51 |
-| 56 | [If I Were a Carpenter](https://open.spotify.com/track/1UN6NjkwkztYxl6XzIp0pJ) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [June Carter Cash](https://open.spotify.com/artist/0ZnY6mQmgr2yZarjry68td) | [Hello, I'm Johnny Cash](https://open.spotify.com/album/1ET6CG74QlRHqbU1fJ5NhE) | 3:00 |
+| 56 | [Two Dollars in the Jukebox \- 2008 Remaster](https://open.spotify.com/track/7ueyVuff3whBxbmoanlg4C) | [Eddie Rabbitt](https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78) | [Rocky Mountain Music](https://open.spotify.com/album/56zMmCEznU5HuK0DW214oI) | 2:22 |
 | 57 | [Talking In Your Sleep](https://open.spotify.com/track/4JqusF4byBFBfcv43ZPyjc) | [Crystal Gayle](https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc) | [When I Dream](https://open.spotify.com/album/6yjOONx5zNbysHWi6a9sah) | 2:54 |
-| 58 | [Two Dollars in the Jukebox \- 2008 Remaster](https://open.spotify.com/track/7ueyVuff3whBxbmoanlg4C) | [Eddie Rabbitt](https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78) | [Rocky Mountain Music](https://open.spotify.com/album/56zMmCEznU5HuK0DW214oI) | 2:22 |
+| 58 | [If I Were a Carpenter](https://open.spotify.com/track/1UN6NjkwkztYxl6XzIp0pJ) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [June Carter Cash](https://open.spotify.com/artist/0ZnY6mQmgr2yZarjry68td) | [Hello, I'm Johnny Cash](https://open.spotify.com/album/1ET6CG74QlRHqbU1fJ5NhE) | 3:00 |
 | 59 | [You and Me](https://open.spotify.com/track/0yTzqq0G5th4IKPv3Qfick) | [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [The Essential Tammy Wynette](https://open.spotify.com/album/5lmYjjjnij8ug8WrEoVQK7) | 3:20 |
 | 60 | [The Grand Tour](https://open.spotify.com/track/5lXX4SAV6HBaVnZ6sUQPNE) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [George Jones \- 16 Biggest Hits](https://open.spotify.com/album/7poo7LkjfXMcKLK8lAkD1p) | 3:07 |
 | 61 | [Stranger](https://open.spotify.com/track/3OBmAls7qBqUb6A9kZimw3) | [Johnny Duncan](https://open.spotify.com/artist/2ahMUMyJ2xTC1Qaneot7Sm), [Janie Fricke](https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV) | [The Essential Johnny Duncan](https://open.spotify.com/album/3BagFmNBhlXOOtCoaZ4iMk) | 3:09 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 | 91 | [If You Love Me \(Let Me Know\)](https://open.spotify.com/track/2sU0wR5zAs6tsen499fTcl) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [If You Love Me, Let Me Know](https://open.spotify.com/album/3rjkhRSQsNjjeTjkC7ZnHg) | 3:16 |
 | 92 | [Why Have You Left The One You Left Me For](https://open.spotify.com/track/4u2Fcnbsf2KtH7gE86vxM0) | [Crystal Gayle](https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc) | [When I Dream](https://open.spotify.com/album/6yjOONx5zNbysHWi6a9sah) | 2:56 |
 | 93 | [It Must Be Love \- Single Version](https://open.spotify.com/track/2yjP9SAtGTy6xgMEJXVXsi) | [Don Williams](https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe) | [20 Greatest Hits](https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9) | 2:26 |
-| 94 | [Heaven's Just A Sin Away](https://open.spotify.com/track/2MQMTw0ErhEAecLfm2ClUk) | [The Kendalls](https://open.spotify.com/artist/1rFQlnVFNwI3H6QLDL7LFN) | [The Kendalls \- 42 Massive Hits](https://open.spotify.com/album/0TLnx23a5jjqtakfXHLHdz) | 2:25 |
-| 95 | [Till the End](https://open.spotify.com/track/7pwA0yTkSFYDiiplqmy8KE) | [Vern Gosdin](https://open.spotify.com/artist/4kNRotUiNCcfZhnpJJTDtl) | [Till The End](https://open.spotify.com/album/1D1ddPbzhq1L4w5AJler8F) | 2:46 |
+| 94 | [Till the End](https://open.spotify.com/track/7pwA0yTkSFYDiiplqmy8KE) | [Vern Gosdin](https://open.spotify.com/artist/4kNRotUiNCcfZhnpJJTDtl) | [Till The End](https://open.spotify.com/album/1D1ddPbzhq1L4w5AJler8F) | 2:46 |
+| 95 | [Heaven's Just A Sin Away](https://open.spotify.com/track/2MQMTw0ErhEAecLfm2ClUk) | [The Kendalls](https://open.spotify.com/artist/1rFQlnVFNwI3H6QLDL7LFN) | [The Kendalls \- 42 Massive Hits](https://open.spotify.com/album/0TLnx23a5jjqtakfXHLHdz) | 2:25 |
 | 96 | ['Til I Get It Right](https://open.spotify.com/track/64s3ywG24Rkgum7qIIA6wO) | [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [The Essential Tammy Wynette](https://open.spotify.com/album/5lmYjjjnij8ug8WrEoVQK7) | 2:37 |
 | 97 | [If I Said You Had A Beautiful Body Would You Hold It Against Me](https://open.spotify.com/track/7pRKbx3PYJmz36cp92hDIE) | [The Bellamy Brothers](https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa) | [Best Of The Bellamy Brothers](https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf) | 3:12 |
 | 98 | [I Just Fall In Love Again](https://open.spotify.com/track/6aBiU9lFd3BhtggI7aeqBI) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E) | [New Kind Of Feeling](https://open.spotify.com/album/7lzKMo3MHAz8Xuc0LBA4tG) | 2:51 |
 | 99 | [Every Time Two Fools Collide](https://open.spotify.com/track/7fiM9fRN7nRb2z1j7ZOdjy) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4), [Dottie West](https://open.spotify.com/artist/2pvPkEAN9xSrDrIVUOxWMB) | [Every Time Two Fools Collide](https://open.spotify.com/album/4eUUpjBZcZ8ODPhId8O7CL) | 3:00 |
 | 100 | [East Bound and Down](https://open.spotify.com/track/7rLaJmjANgWaHEys3p6SDu) | [Jerry Reed](https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF) | [The Essential Jerry Reed](https://open.spotify.com/album/1SpsDklXoa1vV9OzBsSXe0) | 2:47 |
 
-Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDQwNDRjM2YwYTRmMDFiNDMxNGM2N2E4NmFhYjMyOTE2`
+Snapshot ID: `MTY3NzIxNDgwMCwwMDAwMDAwMDQ4ZjhmNThiOTVlZWE3ZTIyNDFkNzMxNWM0OWIzNjIx`

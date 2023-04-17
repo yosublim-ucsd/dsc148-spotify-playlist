@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Catie Offerman
 
-432 songs - 1 day 1 hr 46 min
+433 songs - 1 day 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Everything Has Your Memory](https://open.spotify.com/track/0KYC7enraB6AVZ5k7cdfKk) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Everything Has Your Memory](https://open.spotify.com/album/26z3oFclQMKjKXn686cATB) | 3:45 | 2022-06-03 | 2022-10-15 |
 | [Everything I Had](https://open.spotify.com/track/70eyw755HGnxFAk8jPJGRo) | [Gunnar Latham](https://open.spotify.com/artist/7D4Tp8mNvYMeE6xMDSTlU4) | [Volume 2](https://open.spotify.com/album/1Ow5quOYqrRSf4SU6SQnga) | 3:30 | 2021-12-17 | 2022-03-19 |
 | [Excuses](https://open.spotify.com/track/2dXZhZ6OgUPAaiwJs8yR79) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Excuses](https://open.spotify.com/album/4LAo9lNxakhW24GiAW0P6t) | 3:26 | 2021-12-17 | 2022-03-19 |
-| [Fast Car](https://open.spotify.com/track/40TItUSmH99bXtbzp0pl4H) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Homecoming](https://open.spotify.com/album/1Om7EoqiNsXCCMeiTzC9BZ) | 3:28 | 2022-10-14 |  |
+| [Fast Car](https://open.spotify.com/track/40TItUSmH99bXtbzp0pl4H) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Homecoming](https://open.spotify.com/album/1Om7EoqiNsXCCMeiTzC9BZ) | 3:28 | 2022-10-14 | 2023-04-17 |
 | [Feels Right](https://open.spotify.com/track/7tEvD2vzhu8FnZ2i4EdPsU) | [Logan Samford](https://open.spotify.com/artist/2szN0HF9UCH9ZkGkkoGqVz) | [Feels Right](https://open.spotify.com/album/40jOCf6bWDCLNsLSzEBvuX) | 3:24 | 2021-12-17 | 2022-03-19 |
 | [Fences](https://open.spotify.com/track/37TQSRXPacyRqVmnLT1QVi) | [Mark Jones & Twenty Paces](https://open.spotify.com/artist/36RSMY5KaK2Bk8HwFrOq04) | [Fences](https://open.spotify.com/album/7oka0HTuXQiLUo51Ai621C) | 4:06 | 2022-04-08 | 2022-07-28 |
 | [Fine By Me](https://open.spotify.com/track/4X5GnkmymLagGzBmJRO0tf) | [Curtis Grimes](https://open.spotify.com/artist/21NiIObyfGUR3UPql6UrkP) | [Fine By Me](https://open.spotify.com/album/6Gnd8NfKh9x90a7lUURXZz) | 3:07 | 2023-02-10 |  |
@@ -155,6 +155,7 @@
 | [Girl from Oklahoma](https://open.spotify.com/track/6mNWosdjTtMrzqhit3h5cz) | [Darrin Morris Band](https://open.spotify.com/artist/2qvUuw0HXxaz5yzKsRxlXf) | [Girl from Oklahoma](https://open.spotify.com/album/3Oobv5KUzcKbzjrG0iSzV3) | 3:13 | 2023-01-13 |  |
 | [Girls Just Wanna Have Fun \- Duet](https://open.spotify.com/track/0Z7mIPT4ULM9SJkWX9dH0i) | [Bri Bagwell](https://open.spotify.com/artist/62D9vyyzOd1uIny0qRDLAo), [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4) | [Girls Just Wanna Have Fun \(Duet\)](https://open.spotify.com/album/5M3japWPgpoSaISvKFOhXJ) | 3:14 | 2022-03-25 | 2022-07-29 |
 | [Girls Like Me](https://open.spotify.com/track/7sHT4a3rSs8IXdo7RZjzC6) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [Girls Like Me](https://open.spotify.com/album/2LFWLNbRoaoOkvj98gudSv) | 2:51 | 2022-05-27 | 2023-04-15 |
+| [Give It Some Time](https://open.spotify.com/track/3EYGT2jL6afEPBohmfnEIE) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Give It Some Time](https://open.spotify.com/album/3dWR1apPIDKdn4iV2uIFGD) | 3:22 | 2023-04-14 |  |
 | [Glory of True Love](https://open.spotify.com/track/2vi13dqyEG3YA7fqrEZRAA) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Glory of True Love](https://open.spotify.com/album/5HU1SmRWt20DsYKazXiMQa) | 4:09 | 2022-01-14 | 2022-07-29 |
 | [Go For A Drive](https://open.spotify.com/track/03h9MHRWj80zAF84Q0839u) | [Hunter Thomas](https://open.spotify.com/artist/0KwfJ6dji46g0lr6oab77I) | [Go for a Drive](https://open.spotify.com/album/1RMUz5G2ILPsKcCQfWnwG4) | 3:22 | 2021-12-17 | 2022-05-28 |
 | [God & Everybody](https://open.spotify.com/track/6n0HI4p826Zh2qUjlpNPnQ) | [Grant Gilbert](https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919) | [God & Everybody](https://open.spotify.com/album/6yj5Pq8WlbTtGpxamLq02I) | 2:54 | 2022-07-08 | 2022-09-26 |

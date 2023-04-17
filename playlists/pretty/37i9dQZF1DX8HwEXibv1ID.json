@@ -1,12 +1,12 @@
 {
   "description": "Instrumental and vocal versions of the incredible Cole Porter. Cover: Cole Porter",
-  "num_followers": 25964,
+  "num_followers": 25990,
   "original_name": "The Cole Porter Songbook",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ1NTEyMywwMDAwMDAwMDExNDhhZDA5YjFiOGJkMGQ2MzAwZjRkNmQ0MWY2YzI3",
+  "snapshot_id": "MTY4MTQ1NTEyMywwMDAwMDAwMGYwZjI3ODhlYzE3ZDJjNWNiYzEzZTFjZjU3ODY3ZTI0",
   "tracks": [
     {
       "added_at": "2023-04-14 06:52:03",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-04-14 06:52:03",
       "album": {
-        "name": "The Bridge",
-        "url": "https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 411866,
-      "name": "You Do Something to Me - Remastered",
-      "url": "https://open.spotify.com/track/0HQWwFTh58MJ7DHKaD4DZO"
-    },
-    {
-      "added_at": "2023-04-14 06:52:03",
-      "album": {
         "name": "Bobby Short Loves Cole Porter",
         "url": "https://open.spotify.com/album/1xOxd51uf1Qq5iGtdS5jdP"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 203533,
       "name": "You've Got That Thing",
       "url": "https://open.spotify.com/track/5Wz59yK5Rm056tpvnpLNsM"
+    },
+    {
+      "added_at": "2023-04-14 06:52:03",
+      "album": {
+        "name": "The Bridge",
+        "url": "https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 411866,
+      "name": "You Do Something to Me - Remastered",
+      "url": "https://open.spotify.com/track/0HQWwFTh58MJ7DHKaD4DZO"
     },
     {
       "added_at": "2023-04-14 06:52:03",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-04-14 06:52:03",
       "album": {
-        "name": "Worktime (RVG)",
-        "url": "https://open.spotify.com/album/7czLtW2CezNLEoLjLgbosC"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 369053,
-      "name": "It's All Right With Me",
-      "url": "https://open.spotify.com/track/2jr6t4mra4tM2dwp0QePpp"
-    },
-    {
-      "added_at": "2023-04-14 06:52:03",
-      "album": {
         "name": "A Man and His Trombone",
         "url": "https://open.spotify.com/album/1F4BlMdj4N0qXXM11Of6GI"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 168442,
       "name": "Silk Stockings",
       "url": "https://open.spotify.com/track/5iRLpKazu6D8zoNz1RzCmp"
+    },
+    {
+      "added_at": "2023-04-14 06:52:03",
+      "album": {
+        "name": "Worktime (RVG)",
+        "url": "https://open.spotify.com/album/7czLtW2CezNLEoLjLgbosC"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 369053,
+      "name": "It's All Right With Me",
+      "url": "https://open.spotify.com/track/2jr6t4mra4tM2dwp0QePpp"
     },
     {
       "added_at": "2023-04-14 06:52:03",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-04-14 06:52:03",
       "album": {
-        "name": "John Barrowman Swings Cole Porter",
-        "url": "https://open.spotify.com/album/3aunFH2Gzswretr3rWLB9k"
-      },
-      "artists": [
-        {
-          "name": "John Barrowman",
-          "url": "https://open.spotify.com/artist/2J3lGdyoJc3p5ceinyjCFQ"
-        }
-      ],
-      "duration_ms": 143066,
-      "name": "\u00c7a, C'est l'Amour",
-      "url": "https://open.spotify.com/track/6O847erzexsdRhzlMJaFa0"
-    },
-    {
-      "added_at": "2023-04-14 06:52:03",
-      "album": {
         "name": "Easy To Love: The Songs Of Cole Porter",
         "url": "https://open.spotify.com/album/3NnFEdQ57OGL55VSFa045Q"
       },
@@ -987,18 +971,18 @@
     {
       "added_at": "2023-04-14 06:52:03",
       "album": {
-        "name": "Mabel Mercer Sings Cole Porter",
-        "url": "https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN"
+        "name": "John Barrowman Swings Cole Porter",
+        "url": "https://open.spotify.com/album/3aunFH2Gzswretr3rWLB9k"
       },
       "artists": [
         {
-          "name": "Mabel Mercer",
-          "url": "https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K"
+          "name": "John Barrowman",
+          "url": "https://open.spotify.com/artist/2J3lGdyoJc3p5ceinyjCFQ"
         }
       ],
-      "duration_ms": 111306,
-      "name": "I Am Ashamed That Women Are so Simple",
-      "url": "https://open.spotify.com/track/37tJzpOIs4hDV1B87UrvuQ"
+      "duration_ms": 143066,
+      "name": "\u00c7a, C'est l'Amour",
+      "url": "https://open.spotify.com/track/6O847erzexsdRhzlMJaFa0"
     },
     {
       "added_at": "2023-04-14 06:52:03",
@@ -1015,6 +999,22 @@
       "duration_ms": 159000,
       "name": "Rap Tap on Wood",
       "url": "https://open.spotify.com/track/7cds5KV5fDScPBvhbHWlpJ"
+    },
+    {
+      "added_at": "2023-04-14 06:52:03",
+      "album": {
+        "name": "Mabel Mercer Sings Cole Porter",
+        "url": "https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN"
+      },
+      "artists": [
+        {
+          "name": "Mabel Mercer",
+          "url": "https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K"
+        }
+      ],
+      "duration_ms": 111306,
+      "name": "I Am Ashamed That Women Are so Simple",
+      "url": "https://open.spotify.com/track/37tJzpOIs4hDV1B87UrvuQ"
     },
     {
       "added_at": "2023-04-14 06:52:03",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-04-14 06:52:03",
       "album": {
-        "name": "John Barrowman Swings Cole Porter",
-        "url": "https://open.spotify.com/album/3aunFH2Gzswretr3rWLB9k"
-      },
-      "artists": [
-        {
-          "name": "John Barrowman",
-          "url": "https://open.spotify.com/artist/2J3lGdyoJc3p5ceinyjCFQ"
-        }
-      ],
-      "duration_ms": 127906,
-      "name": "I Happen To Like New York",
-      "url": "https://open.spotify.com/track/3m4nAH1cPZHTk4zBDUIMOm"
-    },
-    {
-      "added_at": "2023-04-14 06:52:03",
-      "album": {
         "name": "Easy To Love: The Songs Of Cole Porter",
         "url": "https://open.spotify.com/album/3NnFEdQ57OGL55VSFa045Q"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 266466,
       "name": "Why Don't We Try Staying Home?",
       "url": "https://open.spotify.com/track/7EQzuOEoDBH5hP6UYAeY1B"
+    },
+    {
+      "added_at": "2023-04-14 06:52:03",
+      "album": {
+        "name": "John Barrowman Swings Cole Porter",
+        "url": "https://open.spotify.com/album/3aunFH2Gzswretr3rWLB9k"
+      },
+      "artists": [
+        {
+          "name": "John Barrowman",
+          "url": "https://open.spotify.com/artist/2J3lGdyoJc3p5ceinyjCFQ"
+        }
+      ],
+      "duration_ms": 127906,
+      "name": "I Happen To Like New York",
+      "url": "https://open.spotify.com/track/3m4nAH1cPZHTk4zBDUIMOm"
     },
     {
       "added_at": "2023-04-14 06:52:03",

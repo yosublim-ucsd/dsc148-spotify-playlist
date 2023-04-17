@@ -4,7 +4,7 @@
 
 > This is Hundred Reasons\. The essential tracks, all in one playlist.
 
-59 songs - 3 hr 27 min
+60 songs - 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,15 +54,16 @@
 | [Silver](https://open.spotify.com/track/1iP5nJRIag9Kem1RuqCVXt) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Ideas Above Our Station](https://open.spotify.com/album/0njHxwzfjbX5MS7YPXBwMM) | 3:17 | 2022-11-17 |  |
 | [Slipping Away](https://open.spotify.com/track/4a6YD5loEsBYi6eBy53y9I) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Quick the Word Sharp the Action \(New Version\)](https://open.spotify.com/album/1w1ukla1NGjk1DUDaiQyvX) | 4:16 | 2023-02-26 | 2023-03-02 |
 | [Slipping Away](https://open.spotify.com/track/5YrcfV2qcH5cTw9LqvOF2s) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Quick The Word Sharp The Action](https://open.spotify.com/album/2tJbT3ckeLs6FD5FXBKxtz) | 4:16 | 2023-01-02 | 2023-04-15 |
-| [So So Soon](https://open.spotify.com/track/0pbRMdTybJA51v0tUjQv9G) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [So So Soon](https://open.spotify.com/album/5b47ZAEieOQUTSNk2M1ZkP) | 3:48 | 2023-02-04 |  |
+| [So So Soon](https://open.spotify.com/track/0pbRMdTybJA51v0tUjQv9G) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [So So Soon](https://open.spotify.com/album/5b47ZAEieOQUTSNk2M1ZkP) | 3:48 | 2023-02-04 | 2023-04-17 |
 | [So So Soon](https://open.spotify.com/track/0zIpmkbHfzoo3A8lga2Rmv) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [So So Soon](https://open.spotify.com/album/73jq7GCwgsVjkV4TJMHF35) | 3:48 | 2023-02-02 | 2023-02-05 |
+| [So So Soon](https://open.spotify.com/track/4BTFkZkQTYAM6xf4uAGpA9) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/7c7Ls32YEt5ifi8BbrLX3D) | 3:48 | 2023-04-16 |  |
 | [Soapbox Rally \(Live\)](https://open.spotify.com/track/1mznyaXfDmQIhMBQExRQ57) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Live at the Lemon Grove](https://open.spotify.com/album/5nykFp8cx7wIad1R4rlFc2) | 2:23 | 2022-11-17 |  |
 | [Stalemate](https://open.spotify.com/track/5jpH92KeCAHVFyrmOyuGGw) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Quick the Word Sharp the Action \(New Version\)](https://open.spotify.com/album/1w1ukla1NGjk1DUDaiQyvX) | 2:33 | 2022-11-17 | 2023-01-22 |
 | [Stories With Unhappy Endings](https://open.spotify.com/track/1nR2maqQdyrb7xEpzUyfOL) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Shatterproof Is Not A Challenge](https://open.spotify.com/album/5NRqlYZGCBZO5vwZCGJvah) | 3:48 | 2022-11-17 |  |
 | [The Great Test](https://open.spotify.com/track/29AGJhFoJ0y31oZ49r7J6D) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Shatterproof Is Not A Challenge](https://open.spotify.com/album/5NRqlYZGCBZO5vwZCGJvah) | 1:59 | 2022-11-17 |  |
 | [The Old School Way](https://open.spotify.com/track/2s03Z86G09dg3K0ogdwcjR) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [The Old School Way](https://open.spotify.com/album/0cpDwmTqLL5iqiSCofJb1d) | 3:31 | 2022-12-17 | 2023-03-07 |
 | [The Old School Way](https://open.spotify.com/track/4PDmSqrIbeSusqWxHzCafh) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [The Old School Way](https://open.spotify.com/album/7e4zPgziPQixuydmHlWAJc) | 3:31 | 2022-12-15 | 2022-12-18 |
-| [The Old School Way](https://open.spotify.com/track/5F4VAqLivojMqr9mn9ORBk) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/7c7Ls32YEt5ifi8BbrLX3D) | 3:31 | 2023-03-06 |  |
+| [The Old School Way](https://open.spotify.com/track/5F4VAqLivojMqr9mn9ORBk) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/7c7Ls32YEt5ifi8BbrLX3D) | 3:31 | 2023-03-06 | 2023-04-17 |
 | [The Perfect Gift](https://open.spotify.com/track/6fRVeAhnfpfpmTRMndS2FK) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Kill Your Own](https://open.spotify.com/album/101Y1ApCSBWHyuJBSB46Sd) | 3:50 | 2022-11-17 |  |
 | [The Prance](https://open.spotify.com/track/2sk0ldLco4NrGyAk9quFHw) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Quick the Word Sharp the Action \(New Version\)](https://open.spotify.com/album/1w1ukla1NGjk1DUDaiQyvX) | 3:38 | 2022-11-17 | 2023-01-22 |
 | [Wave Form](https://open.spotify.com/track/5FjFC56lrbiHcO3aE3nG5T) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/7c7Ls32YEt5ifi8BbrLX3D) | 4:17 | 2023-02-25 | 2023-03-07 |

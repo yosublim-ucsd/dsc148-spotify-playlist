@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsLcak1FuUD.md) - [plain]
 
 > Fue durante los '70 que el Rock se manifestó como un gigante a nivel mundial\. Argentina no fue la excepción\.  Foto: <a href="spotify:artist:10vtHOCA3qPLmrGylgO2F1">Manal</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,542 likes - 55 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,561 likes - 55 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsLcak1FuUD.md) - [plain]
 | 45 | [Avellaneda Blues](https://open.spotify.com/track/2SeUS7JmN0oLjHPHGvDZFA) | [Manal](https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1) | [Manal](https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C) | 5:33 |
 | 46 | [Alguien Más en Quien Confiar \- '74 Single Version](https://open.spotify.com/track/10F81E1vPGGROdMHyVthSh) | [El Reloj](https://open.spotify.com/artist/4qZeDZdBD3NiWVbkwX2Lpx) | [El Reloj](https://open.spotify.com/album/3xIkQ0YsEyRvjEY1a8KdXc) | 4:02 |
 | 47 | [Figuración](https://open.spotify.com/track/2ZXPZV2w9KSEH6YXJQwFBP) | [Almendra](https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo) | [El 1er Álbum Más los Singles](https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp) | 3:32 |
-| 48 | [Envases de Todo](https://open.spotify.com/track/7gIUh5iGYpTagqtq74hvs0) | [David Lebón](https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E) | [David Lebon](https://open.spotify.com/album/2sVpQXYG4nKgpJ5F3Q84RC) | 7:11 |
-| 49 | [En el país de la libertad](https://open.spotify.com/track/4cfkWf9EmRZCKMZBAPebNm) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [León Gieco](https://open.spotify.com/album/6fSW2xHU18TEgEnoV1VsjJ) | 3:13 |
+| 48 | [En el país de la libertad](https://open.spotify.com/track/4cfkWf9EmRZCKMZBAPebNm) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [León Gieco](https://open.spotify.com/album/6fSW2xHU18TEgEnoV1VsjJ) | 3:13 |
+| 49 | [Envases de Todo](https://open.spotify.com/track/7gIUh5iGYpTagqtq74hvs0) | [David Lebón](https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E) | [David Lebon](https://open.spotify.com/album/2sVpQXYG4nKgpJ5F3Q84RC) | 7:11 |
 | 50 | [Los Delirios del Mariscal](https://open.spotify.com/track/56vhyP9UvLtGYUbeBBxqke) | [Crucis](https://open.spotify.com/artist/3PN8odvj48fnALdAsCKG3g) | [Los Delirios del Mariscal](https://open.spotify.com/album/1IQKV1zaM2GihjCXjZTdeJ) | 10:03 |
 | 51 | [Vamos a Buscar la Luz](https://open.spotify.com/track/3olst9SIdO6I9lhYa6HyYQ) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [40 Obras Fundamentales](https://open.spotify.com/album/3hopYMyIaBFZTU5Fvt91NF) | 3:51 |
 | 52 | [Se Ama O No Se Ama](https://open.spotify.com/track/7sYM4xTvfR0N3UkRT9n7Vp) | [La Cofradia De La Flor Solar](https://open.spotify.com/artist/5wkCcDqHUaJbR79G5rEEpL) | [La Cofradía De La Flor Solar](https://open.spotify.com/album/13AoE3gnX1NjlEmlNZmhUR) | 4:26 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsLcak1FuUD.md) - [plain]
 | 54 | [La Casa De La Mente](https://open.spotify.com/track/4o4LVmNCWYAisLF8j9yc69) | [Espiritu](https://open.spotify.com/artist/5QH5oyyvZkvgzAiENV3tph) | [Crisálida](https://open.spotify.com/album/373aJj6wGlb49JD46Qhh7Q) | 6:55 |
 | 55 | [En El Hospicio](https://open.spotify.com/track/6NZ2OTfVCJ9rf6hm6tpJxh) | [Pastoral](https://open.spotify.com/artist/3budmcJD4fTyytFVDp5lud) | [Oro](https://open.spotify.com/album/67TJF7Es43tCAfZtWv5kiq) | 3:37 |
 
-Snapshot ID: `MTU4MjczNDMyMiwwMDAwMDAwMDZlMGJkZTU5NzhmYzkwZWQzYjViOGFhY2M1OGZlZTgz`
+Snapshot ID: `MTU4MjczNDMyMiwwMDAwMDAwMDhlOTE0ZmZkNzY5YWM5YTc5N2UwMDJkZDc1ZTYwZTA3`

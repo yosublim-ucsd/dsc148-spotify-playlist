@@ -1,12 +1,12 @@
 {
   "description": "Warm indie dance vibes, the music you need at golden hour.",
-  "num_followers": 431262,
+  "num_followers": 431468,
   "original_name": "golden hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMGMzZjI0NjkxMGYxNGQxYTkzMjZlOTliODg0MWZlMGUy",
+  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDUxMjc2MmI1OTAwNGM0MjQwYTkwMDEzYTEzM2E4ZDE3",
   "tracks": [
     {
       "added_at": "2023-03-20 18:32:59",
@@ -391,6 +391,22 @@
     {
       "added_at": "2023-03-20 18:32:59",
       "album": {
+        "name": "Vanille fraise",
+        "url": "https://open.spotify.com/album/41Ht5x3AgpMVmoFoIzaUPO"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "duration_ms": 238183,
+      "name": "Vanille fraise",
+      "url": "https://open.spotify.com/track/7nZ9CzhiFRPhOQCn7eDSnn"
+    },
+    {
+      "added_at": "2023-03-20 18:32:59",
+      "album": {
         "name": "Emma Peters (Remixed)",
         "url": "https://open.spotify.com/album/5NHfnTwW8s72NU0Fa92jeP"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 196162,
       "name": "Gis\u00e8le",
       "url": "https://open.spotify.com/track/6wqv1yeDe2wlPmQEM5ZCYb"
-    },
-    {
-      "added_at": "2023-03-20 18:32:59",
-      "album": {
-        "name": "Vanille fraise",
-        "url": "https://open.spotify.com/album/41Ht5x3AgpMVmoFoIzaUPO"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        }
-      ],
-      "duration_ms": 238183,
-      "name": "Vanille fraise",
-      "url": "https://open.spotify.com/track/7nZ9CzhiFRPhOQCn7eDSnn"
     },
     {
       "added_at": "2023-03-20 18:32:59",
@@ -717,6 +717,22 @@
       "url": "https://open.spotify.com/track/1ZqeykOaDmjkldzs7XGR4b"
     },
     {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Enjoy Your Life",
+        "url": "https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "duration_ms": 240053,
+      "name": "Enjoy Your Life",
+      "url": "https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS"
+    },
+    {
       "added_at": "2023-03-20 18:32:59",
       "album": {
         "name": "On Hold (Jamie xx Remix)",
@@ -755,6 +771,22 @@
     {
       "added_at": "2023-03-20 18:32:59",
       "album": {
+        "name": "Leak 04-13 (Bait Ones)",
+        "url": "https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr"
+      },
+      "artists": [
+        {
+          "name": "Jai Paul",
+          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
+        }
+      ],
+      "duration_ms": 253080,
+      "name": "Jasmine - Demo",
+      "url": "https://open.spotify.com/track/44LAHDPaM5dvkmmD5w1W84"
+    },
+    {
+      "added_at": "2023-03-20 18:32:59",
+      "album": {
         "name": "Hesitate",
         "url": "https://open.spotify.com/album/5yCaCrHtiOhgbdBAupRJJM"
       },
@@ -775,22 +807,6 @@
     {
       "added_at": "2023-03-20 18:32:59",
       "album": {
-        "name": "Leak 04-13 (Bait Ones)",
-        "url": "https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr"
-      },
-      "artists": [
-        {
-          "name": "Jai Paul",
-          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
-        }
-      ],
-      "duration_ms": 253080,
-      "name": "Jasmine - Demo",
-      "url": "https://open.spotify.com/track/44LAHDPaM5dvkmmD5w1W84"
-    },
-    {
-      "added_at": "2023-03-20 18:32:59",
-      "album": {
         "name": "Right Down the Line",
         "url": "https://open.spotify.com/album/0xMvVtSsEL5HMYql9ZiRoI"
       },
@@ -805,20 +821,20 @@
       "url": "https://open.spotify.com/track/7sJ5JL0c0cba0tJBmy3tw7"
     },
     {
-      "added_at": "2023-03-20 18:32:59",
+      "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "About A Feeling",
-        "url": "https://open.spotify.com/album/2GkkprMhl4L0TyIyRvfRwX"
+        "name": "Begin Again",
+        "url": "https://open.spotify.com/album/5uvyLKCk0xALxoSlBEzP21"
       },
       "artists": [
         {
-          "name": "Summer Heart",
-          "url": "https://open.spotify.com/artist/0JlTFsR41vwvQTppOR3yio"
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
         }
       ],
-      "duration_ms": 247572,
-      "name": "I Wanna Go",
-      "url": "https://open.spotify.com/track/3EA4HwrlLdDJ3b4cX7JfqC"
+      "duration_ms": 217272,
+      "name": "Begin Again - Single Edit",
+      "url": "https://open.spotify.com/track/36CGnEiFk8rGx0R14aW1Dw"
     },
     {
       "added_at": "2023-03-20 18:32:59",
@@ -835,6 +851,22 @@
       "duration_ms": 349413,
       "name": "Pizza Guy",
       "url": "https://open.spotify.com/track/1bq6eYt2tdB5rSkwXgiwgD"
+    },
+    {
+      "added_at": "2023-03-20 18:32:59",
+      "album": {
+        "name": "About A Feeling",
+        "url": "https://open.spotify.com/album/2GkkprMhl4L0TyIyRvfRwX"
+      },
+      "artists": [
+        {
+          "name": "Summer Heart",
+          "url": "https://open.spotify.com/artist/0JlTFsR41vwvQTppOR3yio"
+        }
+      ],
+      "duration_ms": 247572,
+      "name": "I Wanna Go",
+      "url": "https://open.spotify.com/track/3EA4HwrlLdDJ3b4cX7JfqC"
     },
     {
       "added_at": "2023-03-20 18:32:59",
@@ -953,22 +985,6 @@
       "url": "https://open.spotify.com/track/6nYJaQMAbU66vlZOWXy6Q4"
     },
     {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Enjoy Your Life",
-        "url": "https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N"
-      },
-      "artists": [
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        }
-      ],
-      "duration_ms": 240053,
-      "name": "Enjoy Your Life",
-      "url": "https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS"
-    },
-    {
       "added_at": "2023-03-20 18:32:59",
       "album": {
         "name": "On the Quiet (Expanded Edition)",
@@ -989,20 +1005,20 @@
       "url": "https://open.spotify.com/track/34XwEhXXTz6dVRUxr8BbEB"
     },
     {
-      "added_at": "2023-03-20 18:32:59",
+      "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Purple Noon",
-        "url": "https://open.spotify.com/album/5YzzV7NMiiVGKMve73OBYc"
+        "name": "Loving You",
+        "url": "https://open.spotify.com/album/3SiKtT1GsVNunfic2eXkzx"
       },
       "artists": [
         {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
         }
       ],
-      "duration_ms": 252409,
-      "name": "Too Late",
-      "url": "https://open.spotify.com/track/2syYxXSHwiJueleWSDGY0Z"
+      "duration_ms": 194594,
+      "name": "Loving You",
+      "url": "https://open.spotify.com/track/5m5THqRa6jHwKYLMWp2DEW"
     },
     {
       "added_at": "2023-03-20 18:32:59",
@@ -1019,6 +1035,22 @@
       "duration_ms": 220626,
       "name": "How Much (You Want Her) 2017",
       "url": "https://open.spotify.com/track/1B0ymvBm70MZR2TnZJUSXZ"
+    },
+    {
+      "added_at": "2023-03-20 18:32:59",
+      "album": {
+        "name": "Purple Noon",
+        "url": "https://open.spotify.com/album/5YzzV7NMiiVGKMve73OBYc"
+      },
+      "artists": [
+        {
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+        }
+      ],
+      "duration_ms": 252409,
+      "name": "Too Late",
+      "url": "https://open.spotify.com/track/2syYxXSHwiJueleWSDGY0Z"
     },
     {
       "added_at": "2023-03-20 18:32:59",
@@ -1043,18 +1075,22 @@
     {
       "added_at": "2023-03-20 18:32:59",
       "album": {
-        "name": "Wild",
-        "url": "https://open.spotify.com/album/2oegpcBiGzsD1JBXKZ9nWD"
+        "name": "Circmvnt",
+        "url": "https://open.spotify.com/album/2eR6L5nfTqjp97Kty4fCgs"
       },
       "artists": [
         {
-          "name": "Tourist",
-          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+          "name": "Elujay",
+          "url": "https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO"
+        },
+        {
+          "name": "HXNS",
+          "url": "https://open.spotify.com/artist/3DmNosRs1GoM9BJPJmsul0"
         }
       ],
-      "duration_ms": 324266,
-      "name": "Kin",
-      "url": "https://open.spotify.com/track/3RID7FNOsH3XqUcEsgpq5v"
+      "duration_ms": 153076,
+      "name": "1080p",
+      "url": "https://open.spotify.com/track/3kjB9p5GpyOfSnsQeBzpZb"
     },
     {
       "added_at": "2023-03-20 18:32:59",
@@ -1083,26 +1119,6 @@
     {
       "added_at": "2023-03-20 18:32:59",
       "album": {
-        "name": "Circmvnt",
-        "url": "https://open.spotify.com/album/2eR6L5nfTqjp97Kty4fCgs"
-      },
-      "artists": [
-        {
-          "name": "Elujay",
-          "url": "https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO"
-        },
-        {
-          "name": "HXNS",
-          "url": "https://open.spotify.com/artist/3DmNosRs1GoM9BJPJmsul0"
-        }
-      ],
-      "duration_ms": 153076,
-      "name": "1080p",
-      "url": "https://open.spotify.com/track/3kjB9p5GpyOfSnsQeBzpZb"
-    },
-    {
-      "added_at": "2023-03-20 18:32:59",
-      "album": {
         "name": "Bodies",
         "url": "https://open.spotify.com/album/16mo5DcJexdaBnL0u5QAoS"
       },
@@ -1121,20 +1137,36 @@
       "url": "https://open.spotify.com/track/5mueyPaJsGl0bGiZSu1z0e"
     },
     {
-      "added_at": "2023-04-14 04:00:00",
+      "added_at": "2023-03-20 18:32:59",
       "album": {
-        "name": "Begin Again",
-        "url": "https://open.spotify.com/album/5uvyLKCk0xALxoSlBEzP21"
+        "name": "Wild",
+        "url": "https://open.spotify.com/album/2oegpcBiGzsD1JBXKZ9nWD"
       },
       "artists": [
         {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
         }
       ],
-      "duration_ms": 217272,
-      "name": "Begin Again - Single Edit",
-      "url": "https://open.spotify.com/track/36CGnEiFk8rGx0R14aW1Dw"
+      "duration_ms": 324266,
+      "name": "Kin",
+      "url": "https://open.spotify.com/track/3RID7FNOsH3XqUcEsgpq5v"
+    },
+    {
+      "added_at": "2023-03-20 18:32:59",
+      "album": {
+        "name": "Paracosm",
+        "url": "https://open.spotify.com/album/0NJB8HwQsR7RH4bVM7Z6HL"
+      },
+      "artists": [
+        {
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+        }
+      ],
+      "duration_ms": 245654,
+      "name": "It All Feels Right",
+      "url": "https://open.spotify.com/track/2tpTRRc6XFZcwdZlc3hf02"
     },
     {
       "added_at": "2023-03-20 18:32:59",
@@ -1167,22 +1199,6 @@
       "duration_ms": 222439,
       "name": "Drift",
       "url": "https://open.spotify.com/track/4e00y1uBHrrWjlGfnNHoV8"
-    },
-    {
-      "added_at": "2023-03-20 18:32:59",
-      "album": {
-        "name": "Paracosm",
-        "url": "https://open.spotify.com/album/0NJB8HwQsR7RH4bVM7Z6HL"
-      },
-      "artists": [
-        {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
-        }
-      ],
-      "duration_ms": 245654,
-      "name": "It All Feels Right",
-      "url": "https://open.spotify.com/track/2tpTRRc6XFZcwdZlc3hf02"
     },
     {
       "added_at": "2023-03-20 18:32:59",
@@ -1299,22 +1315,6 @@
     {
       "added_at": "2023-03-20 18:32:59",
       "album": {
-        "name": "Temporary Love",
-        "url": "https://open.spotify.com/album/4rR6MzkvCQw8P72RKJu7en"
-      },
-      "artists": [
-        {
-          "name": "Mishegas",
-          "url": "https://open.spotify.com/artist/1F3BcbR6yzILOCzzA3i0Rh"
-        }
-      ],
-      "duration_ms": 244267,
-      "name": "Temporary Love",
-      "url": "https://open.spotify.com/track/2ArO7GJPukDnhRvRfhB58n"
-    },
-    {
-      "added_at": "2023-03-20 18:32:59",
-      "album": {
         "name": "What Falling in Love Is For",
         "url": "https://open.spotify.com/album/7FFeFU5wRax5sTF3LurA68"
       },
@@ -1343,6 +1343,22 @@
       "duration_ms": 196071,
       "name": "Kyle (i found you)",
       "url": "https://open.spotify.com/track/0v1g5U1OAb0XBjKyA8R36i"
+    },
+    {
+      "added_at": "2023-03-20 18:32:59",
+      "album": {
+        "name": "Temporary Love",
+        "url": "https://open.spotify.com/album/4rR6MzkvCQw8P72RKJu7en"
+      },
+      "artists": [
+        {
+          "name": "Mishegas",
+          "url": "https://open.spotify.com/artist/1F3BcbR6yzILOCzzA3i0Rh"
+        }
+      ],
+      "duration_ms": 244267,
+      "name": "Temporary Love",
+      "url": "https://open.spotify.com/track/2ArO7GJPukDnhRvRfhB58n"
     },
     {
       "added_at": "2023-03-20 18:32:59",
@@ -1391,22 +1407,6 @@
       "duration_ms": 171699,
       "name": "Don't Turn Around",
       "url": "https://open.spotify.com/track/1eYKJWV1eK85T5AZwvwOuH"
-    },
-    {
-      "added_at": "2023-03-20 18:32:59",
-      "album": {
-        "name": "Californian Soil",
-        "url": "https://open.spotify.com/album/3wcC3Rowkgk4CffWv84sJH"
-      },
-      "artists": [
-        {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        }
-      ],
-      "duration_ms": 243284,
-      "name": "Baby It's You",
-      "url": "https://open.spotify.com/track/2g8y0qpGaM3HTWWJZiInKA"
     }
   ],
   "unique_name": "golden hour",

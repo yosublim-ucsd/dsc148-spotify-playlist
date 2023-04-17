@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 
 > Great songs from great people\.  Enjoy music from artists you can believe in!
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,950 likes - 65 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,015 likes - 65 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,18 +46,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 36 | [Fill My Cup](https://open.spotify.com/track/0J4WBSk4f5QDsuF12I3oA1) | [Thad Cockrell](https://open.spotify.com/artist/1kZ6UUBDcd4a0H3wKFhzvM), [The New Respects](https://open.spotify.com/artist/5lwtznzBlmVM2IhgrCWbT9) | [If In Case You Feel The Same](https://open.spotify.com/album/2M9xs7ILwOXsMgvH8aObmA) | 4:49 |
 | 37 | [Queen Songs/Human](https://open.spotify.com/track/27fpPlAMJc9IM6adpi46Nc) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Pep Talks](https://open.spotify.com/album/2Hr4GBTjdCn2RoGSEv35Ln) | 8:00 |
 | 38 | [Giants](https://open.spotify.com/track/0Q7ike4sNrjLSZx8r26C9s) | [Silverberg](https://open.spotify.com/artist/3lpVtJYZ57FvUVDzECu4UY), [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx) | [Giants](https://open.spotify.com/album/2ik2fFjv7xdAAK3VP9P779) | 3:53 |
-| 39 | [I Love It](https://open.spotify.com/track/5RE1GkL0Zt9Soasbt1R1xx) | [Aalok Bala](https://open.spotify.com/artist/5Uu7rkbI8eNOsGWFCp5sSM) | [Rebirth](https://open.spotify.com/album/3iGGESom06TuNUHu6xIQJd) | 3:21 |
-| 40 | [Grateful \(feat\. Poo Bear\)](https://open.spotify.com/track/4vdzAzlQHMp225TA0mT4mq) | [13 Crowns](https://open.spotify.com/artist/1B6G8jtCIld4w3q7KQgIzb), [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX) | [Grateful \(feat\. Poo Bear\)](https://open.spotify.com/album/0ZsYHZvZVDfo6CWE8IgpoH) | 4:06 |
-| 41 | [The One Where I Talk To God](https://open.spotify.com/track/0AYWhKWWhO4TtbQwvHSCXA) | [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Tree Giants](https://open.spotify.com/artist/4Cp7yuORQTCa9GUfvb2gss) | [The One Where I Talk To God](https://open.spotify.com/album/1npPoXS35aTSLnPW8JAeAz) | 3:25 |
-| 42 | [Go With You](https://open.spotify.com/track/4QVB1ZS4a15oz6md6YiSZV) | [Mike Edel](https://open.spotify.com/artist/2slZ64SaMOJ1EXEi3W9PTI) | [THRESHOLDS](https://open.spotify.com/album/5LBLcdPMnr1mwBRldKb3vs) | 3:31 |
+| 39 | [Grateful \(feat\. Poo Bear\)](https://open.spotify.com/track/4vdzAzlQHMp225TA0mT4mq) | [13 Crowns](https://open.spotify.com/artist/1B6G8jtCIld4w3q7KQgIzb), [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX) | [Grateful \(feat\. Poo Bear\)](https://open.spotify.com/album/0ZsYHZvZVDfo6CWE8IgpoH) | 4:06 |
+| 40 | [I Love It](https://open.spotify.com/track/5RE1GkL0Zt9Soasbt1R1xx) | [Aalok Bala](https://open.spotify.com/artist/5Uu7rkbI8eNOsGWFCp5sSM) | [Rebirth](https://open.spotify.com/album/3iGGESom06TuNUHu6xIQJd) | 3:21 |
+| 41 | [Go With You](https://open.spotify.com/track/4QVB1ZS4a15oz6md6YiSZV) | [Mike Edel](https://open.spotify.com/artist/2slZ64SaMOJ1EXEi3W9PTI) | [THRESHOLDS](https://open.spotify.com/album/5LBLcdPMnr1mwBRldKb3vs) | 3:31 |
+| 42 | [The One Where I Talk To God](https://open.spotify.com/track/0AYWhKWWhO4TtbQwvHSCXA) | [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Tree Giants](https://open.spotify.com/artist/4Cp7yuORQTCa9GUfvb2gss) | [The One Where I Talk To God](https://open.spotify.com/album/1npPoXS35aTSLnPW8JAeAz) | 3:25 |
 | 43 | [Ain't No Grave](https://open.spotify.com/track/6z355fOnb6YRjK4WUQK3VF) | [Zach Winters](https://open.spotify.com/artist/163OfTopSs5dr4iVSizkvu) | [Ain't No Grave](https://open.spotify.com/album/6epmqEFmOUFfBLwmMjzRdw) | 4:48 |
 | 44 | [City of Black & White](https://open.spotify.com/track/33dVEqsu2V7zvCIgid8PnF) | [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1) | [City of Black & White Revisited](https://open.spotify.com/album/2QpByGx95I9XzccW9aNVtM) | 3:45 |
 | 45 | [Unshackled](https://open.spotify.com/track/1ZHOREB6ew670daqMQ75F0) | [Ecclesia](https://open.spotify.com/artist/6yuXGldP2yeZ8GFNrZdlSC), [Kareen Vargas](https://open.spotify.com/artist/4xpzHbtR7afmdAsz3gxdd8) | [Unshackled](https://open.spotify.com/album/3rvPQDXFMxJqtSlMzD7JSm) | 4:04 |
 | 46 | [Constellate](https://open.spotify.com/track/7JDpA0WUDhFMb4MEsihv7r) | [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Portals](https://open.spotify.com/album/5yiWKtKmZTtPbuVa9CYs5I) | 3:18 |
 | 47 | [Wake Up Sleeper](https://open.spotify.com/track/3a1tbocbSXksbYWkGOPMLs) | [Wildwood Kin](https://open.spotify.com/artist/2KOxHm9lGE9lFZDQdebD6B) | [Wildwood Kin](https://open.spotify.com/album/0gdQ8PGuLpDQnOKWMfOfBH) | 4:06 |
 | 48 | [Autumn Love](https://open.spotify.com/track/2zzM0GO6lGiy4mXDZ7eEca) | [Tyson Motsenbocker](https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u) | [Autumn Love](https://open.spotify.com/album/677rERahjwbsZZQNrg1tN4) | 4:55 |
-| 49 | [Free](https://open.spotify.com/track/7GNgN8mUDYfoQRi3FoAxRy) | [Gungor](https://open.spotify.com/artist/4J4o73Oun7v0XXRjN8DPif) | [One Wild Life](https://open.spotify.com/album/7GWiEU6QEjWzluWfmp30Cp) | 3:28 |
-| 50 | [Electricity](https://open.spotify.com/track/33Wl3F0PmnWmTQHcR6tTG3) | [Drew Holcomb](https://open.spotify.com/artist/0Obcl00RkSejk0z0m4vUwT), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Electricity](https://open.spotify.com/album/0ZmeJpQ0XsidtWxekod1sY) | 4:28 |
+| 49 | [Electricity](https://open.spotify.com/track/33Wl3F0PmnWmTQHcR6tTG3) | [Drew Holcomb](https://open.spotify.com/artist/0Obcl00RkSejk0z0m4vUwT), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Electricity](https://open.spotify.com/album/0ZmeJpQ0XsidtWxekod1sY) | 4:28 |
+| 50 | [Free](https://open.spotify.com/track/7GNgN8mUDYfoQRi3FoAxRy) | [Gungor](https://open.spotify.com/artist/4J4o73Oun7v0XXRjN8DPif) | [One Wild Life](https://open.spotify.com/album/7GWiEU6QEjWzluWfmp30Cp) | 3:28 |
 | 51 | [Compromise](https://open.spotify.com/track/0tZSHcIwouL6HLgH0BBpUC) | [Molly Kate Kestner](https://open.spotify.com/artist/390x0qxDdsMmN20RAwspbf) | [Compromise](https://open.spotify.com/album/3M8SOThdRPxCbOGBCKQGuh) | 2:59 |
 | 52 | [Oh Dreamer](https://open.spotify.com/track/2Uu1hqObahlzFDbZqjC6CR) | [The Brilliance](https://open.spotify.com/artist/26nltVmOVeIfYmwcmqTm7e) | [Oh Dreamer](https://open.spotify.com/album/4c89AmtrwLAF1H1sNBgHei) | 3:24 |
 | 53 | [The Mountain \(Live from 25in24\)](https://open.spotify.com/track/7ie0VFLajcWxysGPWgDQeB) | [Jon Foreman](https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq) | [The Mountain \(Live from 25in24\)](https://open.spotify.com/album/3Kns6f8OJy1LkPvHNuppVs) | 3:51 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 64 | [I Am One](https://open.spotify.com/track/6cuwOV2JrWQSY2wKBCawzJ) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN), [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [I Am One](https://open.spotify.com/album/0UBI5alyeqYSys0BUPAnEF) | 4:10 |
 | 65 | [Free Like a Broken Heart \(Acoustic\)](https://open.spotify.com/track/0vb6mwKc6QLvC0jOnrmQEy) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Free Like a Broken Heart \(Acoustic\)](https://open.spotify.com/album/6ehpRVe1W04hujIxUj4EDD) | 3:33 |
 
-Snapshot ID: `MTU5OTE5MjEyMCwwMDAwMDAwMDY1MDFjNzUxODc3MzNmYjQ5NTA2Y2E5OTBkOTEwMjUx`
+Snapshot ID: `MTU5OTE5MjEyMCwwMDAwMDAwMGI2YWIyODRhMzJiMTY5MzliZDhiOTQ0ZjU3N2FhMzUz`

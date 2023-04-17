@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women from all over the world, at full volume\. Cover: INNA
 
-[Spotify](https://open.spotify.com/user/spotify) - 892,552 likes - 78 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 892,520 likes - 78 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,21 +53,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 43 | [Can't Control](https://open.spotify.com/track/5ZJE92mDnbh9jr7XgJs5lQ) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5) | [Can't Control](https://open.spotify.com/album/7nez9h7CDSZtWNVyAuC8Co) | 2:57 |
 | 44 | [Shoreditch Road](https://open.spotify.com/track/1fXH9WeNGhc5xBAqQUp6e0) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [Shoreditch Road](https://open.spotify.com/album/56jLPpU2ZIgVy9Caq5umUH) | 3:13 |
 | 45 | [Ma che Hit](https://open.spotify.com/track/0UdDpDeyyidQZISEhEqAMH) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [Ma che Hit](https://open.spotify.com/album/46ei2Xa6C9yAOrnmKDRdOA) | 2:18 |
-| 46 | [Tiba Tiba Hilang](https://open.spotify.com/track/1AvxW0tQF0SEaXNMiLe8aU) | [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Tiba Tiba Hilang](https://open.spotify.com/album/13peROZOrOtZVAXj31Szfq) | 4:25 |
-| 47 | [Bebe](https://open.spotify.com/track/4cbbcvNAEwB1Mh6fvpFW0O) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [Bebe](https://open.spotify.com/album/6VarZmpkqYXFYsO1NcWJX3) | 2:16 |
+| 46 | [Bebe](https://open.spotify.com/track/4cbbcvNAEwB1Mh6fvpFW0O) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [Bebe](https://open.spotify.com/album/6VarZmpkqYXFYsO1NcWJX3) | 2:16 |
+| 47 | [Tiba Tiba Hilang](https://open.spotify.com/track/1AvxW0tQF0SEaXNMiLe8aU) | [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Tiba Tiba Hilang](https://open.spotify.com/album/13peROZOrOtZVAXj31Szfq) | 4:25 |
 | 48 | [Temptation](https://open.spotify.com/track/1kplLFEcIjhCmdEGxfuU7R) | [The Jordan](https://open.spotify.com/artist/7uV6WztwBfEmbGrVPANEaW) | [Temptation](https://open.spotify.com/album/1mFnNicKCQPKlth8V3zovY) | 3:48 |
 | 49 | [Berlin](https://open.spotify.com/track/3B1fIPSXUbuPQ5xShByFSU) | [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [Berlin](https://open.spotify.com/album/69mhSprfKPOftUhwt8UglR) | 4:06 |
 | 50 | [VELOZzzz](https://open.spotify.com/track/7lGrtzbEsxfKyBW1El2l97) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [VELOZzzz](https://open.spotify.com/album/2VMx5vYoiUwABFtxhXmqFN) | 3:04 |
 | 51 | [Ana Wein](https://open.spotify.com/track/5FUkSeyQJaH4kZ8frwvKYo) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf) | [Ana Wein](https://open.spotify.com/album/4ahaqIfKhv72tl8TxDzjHt) | 3:52 |
 | 52 | [CHROME](https://open.spotify.com/track/6sXubAaPRNZD4ls6fsOtRC) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir), [dayvan](https://open.spotify.com/artist/1eTInlBizrAteaACHeE85y), [Evar](https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la) | [eclips3](https://open.spotify.com/album/5PTaRgWmvUnOUhOx800hB9) | 2:42 |
-| 53 | [Serena](https://open.spotify.com/track/6ZCfxKANLN7q0YoOHQ90hm) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Lotus Glow](https://open.spotify.com/album/0e4dBWmBHPevyfC9Zle4mv) | 3:37 |
-| 54 | [Diamonds](https://open.spotify.com/track/0bJGCUiWt2jlH3VR3gdeIo) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Diamonds](https://open.spotify.com/album/4PKc2BFgxs3wQmWR85slvD) | 2:43 |
-| 55 | [Mis Mejores Poses](https://open.spotify.com/track/7FZ5Dtc1RbWd0qXgFqZ4zS) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [Mis Mejores Poses](https://open.spotify.com/album/4mqqDapNQ10WynQPGRCkol) | 2:20 |
-| 56 | [Soul Ties](https://open.spotify.com/track/6HFrOJItMlIgzlYsXcs6Fu) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Soul Ties](https://open.spotify.com/album/3AM8Ck88yPerwlY7Fvp0oU) | 3:58 |
+| 53 | [Mis Mejores Poses](https://open.spotify.com/track/7FZ5Dtc1RbWd0qXgFqZ4zS) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [Mis Mejores Poses](https://open.spotify.com/album/4mqqDapNQ10WynQPGRCkol) | 2:20 |
+| 54 | [Serena](https://open.spotify.com/track/6ZCfxKANLN7q0YoOHQ90hm) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Lotus Glow](https://open.spotify.com/album/0e4dBWmBHPevyfC9Zle4mv) | 3:37 |
+| 55 | [Soul Ties](https://open.spotify.com/track/6HFrOJItMlIgzlYsXcs6Fu) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Soul Ties](https://open.spotify.com/album/3AM8Ck88yPerwlY7Fvp0oU) | 3:58 |
+| 56 | [Diamonds](https://open.spotify.com/track/0bJGCUiWt2jlH3VR3gdeIo) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Diamonds](https://open.spotify.com/album/4PKc2BFgxs3wQmWR85slvD) | 2:43 |
 | 57 | [La más Famosa](https://open.spotify.com/track/2kY3foijfdehX02ktsZ6E7) | [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [GATA PISTOLA](https://open.spotify.com/album/61WaPbQFOC0svswIVNQpUn) | 2:22 |
 | 58 | [For Granted](https://open.spotify.com/track/7IF3KlxHiuypG8UAInt0UM) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Done \(Let's Get It\)](https://open.spotify.com/album/1qVKptza3e1owyE8IzvTUO) | 2:41 |
-| 59 | [Something French](https://open.spotify.com/track/5n0vQkugV41imw4ZKn6WvA) | [Isolde Lasoen](https://open.spotify.com/artist/69LIgTfuoQOAiE5wbqkMci) | [Oh Dear](https://open.spotify.com/album/27VCTA2nCe7ulozoaMTV2Y) | 3:38 |
-| 60 | [ทำดีตอนนี้ไม่ทันแล้ว](https://open.spotify.com/track/7562H4D0qxKxbJY3RO0GKU) | [Bean Napason](https://open.spotify.com/artist/3JP38d8r7r0trtBel5H7nu) | [ทำดีตอนนี้ไม่ทันแล้ว](https://open.spotify.com/album/6bfgUYeUIBSdxQrWPsbTTI) | 3:24 |
+| 59 | [ทำดีตอนนี้ไม่ทันแล้ว](https://open.spotify.com/track/7562H4D0qxKxbJY3RO0GKU) | [Bean Napason](https://open.spotify.com/artist/3JP38d8r7r0trtBel5H7nu) | [ทำดีตอนนี้ไม่ทันแล้ว](https://open.spotify.com/album/6bfgUYeUIBSdxQrWPsbTTI) | 3:24 |
+| 60 | [Something French](https://open.spotify.com/track/5n0vQkugV41imw4ZKn6WvA) | [Isolde Lasoen](https://open.spotify.com/artist/69LIgTfuoQOAiE5wbqkMci) | [Oh Dear](https://open.spotify.com/album/27VCTA2nCe7ulozoaMTV2Y) | 3:38 |
 | 61 | [Weź skręć](https://open.spotify.com/track/42HeuVcP5xaOkQUmOkAOMp) | [DOROTA](https://open.spotify.com/artist/2fEs4vr7qFxwyrzmTrXxYE) | [Weź skręć](https://open.spotify.com/album/7bZeRcZQbmGKoaxGZv1hDK) | 2:41 |
 | 62 | [Szia](https://open.spotify.com/track/4kMfc4jVR0Eyp5GJJgNgwL) | [Sisi](https://open.spotify.com/artist/6DM0KWyDnsqdKIfFvk6d8f) | [Szia](https://open.spotify.com/album/5Ni6GqciWF1Uy4YiD6cPIw) | 2:27 |
 | 63 | [3ALA BALI](https://open.spotify.com/track/6Ne0DGBMgtmY1Maj3QAVIF) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [3ALA BALI](https://open.spotify.com/album/4H6F1ToFkjw4pDQWsA2CON) | 2:42 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 66 | [IBTC](https://open.spotify.com/track/7BokHWSjR5wKAcytz1y6S4) | [Malibu Babie](https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ) | [Malibu Babie SZN: Vol I](https://open.spotify.com/album/0baOUkjYE0kLhwWaGwdu78) | 2:23 |
 | 67 | [VATA](https://open.spotify.com/track/6psGi1f5EAL8S7zaF6nEtK) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [VATA](https://open.spotify.com/album/0UVLp3xutGE0aQcAlbnmJ6) | 1:36 |
 | 68 | [Navego](https://open.spotify.com/track/5ADyMWZM9dBKvRjCrfbu7j) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Kinesis](https://open.spotify.com/album/5NmANPMiXncyAwoNXOW9tK) | 3:19 |
-| 69 | [FORA](https://open.spotify.com/track/1K2QN3HUjNDncM7cCGPvQ1) | [701](https://open.spotify.com/artist/00ITn8oTHWAJMGySvynsYg) | [FORA](https://open.spotify.com/album/65nSzTeTqWTp5sCdQFxyp9) | 3:38 |
-| 70 | [Mawaan Te Dhiyaan](https://open.spotify.com/track/2YjCorBTZCnYPZX7CgnRl4) | [Akriti Kakar](https://open.spotify.com/artist/0le3G5nxaIL8ecHpBA6LPW), [Prakriti Kakar](https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86), [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM), [Nirmal Kakar](https://open.spotify.com/artist/4GtTnGMesEd9XHF6DtBce9), [Gurpreet Saini](https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie) | [Big Band Theory Season2](https://open.spotify.com/album/5poVgYwr0JO5FDwJgxBUnb) | 3:53 |
+| 69 | [Mawaan Te Dhiyaan](https://open.spotify.com/track/2YjCorBTZCnYPZX7CgnRl4) | [Akriti Kakar](https://open.spotify.com/artist/0le3G5nxaIL8ecHpBA6LPW), [Prakriti Kakar](https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86), [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM), [Nirmal Kakar](https://open.spotify.com/artist/4GtTnGMesEd9XHF6DtBce9), [Gurpreet Saini](https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie) | [Big Band Theory Season2](https://open.spotify.com/album/5poVgYwr0JO5FDwJgxBUnb) | 3:53 |
+| 70 | [FORA](https://open.spotify.com/track/1K2QN3HUjNDncM7cCGPvQ1) | [701](https://open.spotify.com/artist/00ITn8oTHWAJMGySvynsYg) | [FORA](https://open.spotify.com/album/65nSzTeTqWTp5sCdQFxyp9) | 3:38 |
 | 71 | [Forest song \- Original Soundtrack «Mavka\. The Forest Song](https://open.spotify.com/track/1D0yDJG72EFzFsbPrINzXG) | [Khrystyna Soloviy](https://open.spotify.com/artist/5lLVx3mMyUvZ9QKzM09CZa) | [Forest song \(Original Soundtrack «Mavka\. The Forest Song\)](https://open.spotify.com/album/5apkXbTZXtKz6uIBRXUv8Q) | 3:36 |
 | 72 | [ground zero](https://open.spotify.com/track/4BKGOLRScQzCal1o6A9XAL) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [space](https://open.spotify.com/album/7ygO9kMeqjmADYqdy7ZH3k) | 2:43 |
 | 73 | [Hideaway](https://open.spotify.com/track/1vQcBRfHtlbPVUX1ryKGOe) | [Flanger Kids](https://open.spotify.com/artist/0Z6OJHkHFz4JiwDHaCzhE9) | [Hideaway](https://open.spotify.com/album/02sp2Yv1DgShVmdjNJDw8T) | 3:46 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 77 | [Bendición](https://open.spotify.com/track/05LC7bVfkMrW6Ojx59DJmI) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq) | [Bendición](https://open.spotify.com/album/73b0Kk4U4s0YEYPLZZrFz9) | 2:01 |
 | 78 | [OLE](https://open.spotify.com/track/3ugqlQkSvdAckn4uNOlzQF) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [OLE](https://open.spotify.com/album/72Gkfhx9bDh2LMrO2vMaPy) | 2:31 |
 
-Snapshot ID: `MTY4MTQ3NDMxNiwwMDAwMDAwMGQ4ZGNhYmQyNGFlNmY4ZTdmNTBlZTgyYmY2ZmYwMzg3`
+Snapshot ID: `MTY4MTQ3NDMxNiwwMDAwMDAwMGU1OTE2ZTI0NDA1N2QxZTgzMmFmZjNjY2QxNzllYWUx`

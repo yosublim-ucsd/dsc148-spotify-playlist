@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EQOUdlKKG2.md) - [plain]
 
 > i'm glad i didn't die before i met you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,044 likes - 67 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,232 likes - 67 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EQOUdlKKG2.md) - [plain]
 | 27 | [I Swear This Time I Mean It](https://open.spotify.com/track/2OYTFaOB4D1bWLXaT5mrfH) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Anywhere but Here](https://open.spotify.com/album/0JK09CS7SdFERmAiBNjawF) | 4:01 |
 | 28 | [Northern Downpour](https://open.spotify.com/track/49SL9f1Kz73p0bzsNPTY4l) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pretty\. Odd.](https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw) | 4:07 |
 | 29 | [Here \(In Your Arms\)](https://open.spotify.com/track/1GV98LUEVk1U3LWAkX2Apw) | [Hellogoodbye](https://open.spotify.com/artist/6GH0NzpthMGxu1mcfAkOde) | [Zombies! Aliens! Vampires! Dinosaurs!](https://open.spotify.com/album/6caG763FP5oUCdxklebHh6) | 4:00 |
-| 30 | [FUNERAL GREY](https://open.spotify.com/track/4ORdQW5NLKO3b0RUeBMIrs) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/7exaI7MyauQNCOqbyqU27C) | 2:44 |
+| 30 | [FUNERAL GREY](https://open.spotify.com/track/6Rebnr2UDaxxg3VNe6CBg2) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:44 |
 | 31 | [After the Party](https://open.spotify.com/track/3cnD0uH9C0AY4oxmb84gpc) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [After The Party](https://open.spotify.com/album/1nzDVfQopF9YBkpPAfUck3) | 3:50 |
 | 32 | [Beating Heart Baby](https://open.spotify.com/track/24efdUt3KGbZ6wnBLp6j2n) | [Head Automatica](https://open.spotify.com/artist/2cyaobEho8uxhqLxwG7j6i) | [Decadence](https://open.spotify.com/album/4PQJiFSYykABCgha6bU4O6) | 3:23 |
 | 33 | [Be My Escape](https://open.spotify.com/track/5eK5xQl8EGzR5zYkxaDCAn) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [Mmhmm](https://open.spotify.com/album/4UZTjODd6CvRN1Lx8g6hBV) | 4:00 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EQOUdlKKG2.md) - [plain]
 | 66 | [Spaghetti Tattoo](https://open.spotify.com/track/3SJxkDKY9w5GF0bpQrVDKy) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Spaghetti Tattoo](https://open.spotify.com/album/5P4NHzuaxvISML8kvXJvIl) | 3:12 |
 | 67 | [I Wanna](https://open.spotify.com/track/1aWYAQICESeHj2Xauv1Zfd) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [When The World Comes Down](https://open.spotify.com/album/3BCMpDOcQlbCZpf5vnTadZ) | 3:28 |
 
-Snapshot ID: `MTY3NjU2OTk0MywwMDAwMDAwMGZkNWY3ZDEwOGU3MzQxMWQ1YjI1YmQ5OTBmZDU1MjMz`
+Snapshot ID: `MTY3NjU2OTk0MywwMDAwMDAwMGI4NjRjYjdiMmE5NTljYWNkNzdlMWNiOWFkY2IxNGUz`

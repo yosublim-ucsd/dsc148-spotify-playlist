@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GdOmc.md) - [plain]
 
 > This is Casting Crowns\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,806 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,857 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GdOmc.md) - [plain]
 | 49 | [American Dream](https://open.spotify.com/track/2OO0hAm1v0uRkqJCupGu4n) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Casting Crowns](https://open.spotify.com/album/0OET3Pft2RKmDxzpP3FcGc) | 4:10 |
 | 50 | [Joyful, Joyful](https://open.spotify.com/track/1Pv9XvvQE3KXs66DWKOhmy) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Until The Whole World Hears](https://open.spotify.com/album/6GH2hcSeIDNfnNTQfjTy2i) | 4:26 |
 
-Snapshot ID: `MjgwMjYwMzIsMDAwMDAwMDAzMWQyOTU4MGQyZDQ5YzgxZTIxODVmY2UyOTEyMzg2NQ==`
+Snapshot ID: `MjgwMjc0MDEsMDAwMDAwMDAxOGNhYzE0ZTM4MThkNzliNGU4ZDY5MGY2MWIxZjQwOQ==`

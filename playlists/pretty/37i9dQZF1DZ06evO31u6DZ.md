@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31u6DZ.md) - [plain]
 
 > This is Senses Fail\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,939 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,941 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,12 +19,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31u6DZ.md) - [plain]
 | 9 | [Bloody Romance](https://open.spotify.com/track/0x0UjQv7TEFPzHlSATUo9N) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [From The Depths Of Dreams](https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y) | 3:50 |
 | 10 | [Rum Is for Drinking, Not for Burning](https://open.spotify.com/track/38bTAKxFVuAnnk8UMm0iwb) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Let It Enfold You](https://open.spotify.com/album/2NLyP6U1OZZ8d4PvbVANLT) | 2:43 |
 | 11 | [End of the World/A Game of Chess](https://open.spotify.com/track/2l860vihpp6XxMEKRc5n73) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ), [Connie Sgarbossa](https://open.spotify.com/artist/7ymaeAGhITzan9ytguISsP), [SeeYouSpaceCowboy...](https://open.spotify.com/artist/7CFS5X96xBaJft4QdzTTC1) | [Hell is in Your Head](https://open.spotify.com/album/1Rj8VxOUGmuKrTDcFNISvB) | 3:56 |
-| 12 | [Wolves at the Door](https://open.spotify.com/track/3AOCBSxBqQgz7W65K084Ha) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Life Is Not a Waiting Room](https://open.spotify.com/album/0ebY8YG1wME8xFsFzsuDyF) | 3:27 |
-| 13 | [The Rapture](https://open.spotify.com/track/2o9ivYHrcu0S6hvKtTKmaJ) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching](https://open.spotify.com/album/4J1JNPuYZR6zQMl7I66Z6B) | 1:57 |
+| 12 | [The Rapture](https://open.spotify.com/track/2o9ivYHrcu0S6hvKtTKmaJ) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching](https://open.spotify.com/album/4J1JNPuYZR6zQMl7I66Z6B) | 1:57 |
+| 13 | [Wolves at the Door](https://open.spotify.com/track/3AOCBSxBqQgz7W65K084Ha) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Life Is Not a Waiting Room](https://open.spotify.com/album/0ebY8YG1wME8xFsFzsuDyF) | 3:27 |
 | 14 | [Lady in a Blue Dress](https://open.spotify.com/track/2v63SstROhGSQ2z8EYOyAR) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Let It Enfold You](https://open.spotify.com/album/2NLyP6U1OZZ8d4PvbVANLT) | 3:18 |
 | 15 | [Handguns and Second Chances](https://open.spotify.com/track/2HdtxF6IO9zvFTyuoe44kX) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [From The Depths Of Dreams](https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y) | 2:21 |
-| 16 | [Lungs Like Gallows](https://open.spotify.com/track/4rTzIN2fYne7HK1f0yRaXX) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Life Is Not a Waiting Room](https://open.spotify.com/album/0ebY8YG1wME8xFsFzsuDyF) | 3:20 |
-| 17 | [Bonecrusher](https://open.spotify.com/track/6ByX3KNyDv2Dd3UfkzCuAd) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching](https://open.spotify.com/album/4J1JNPuYZR6zQMl7I66Z6B) | 2:33 |
+| 16 | [Bonecrusher](https://open.spotify.com/track/6ByX3KNyDv2Dd3UfkzCuAd) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching](https://open.spotify.com/album/4J1JNPuYZR6zQMl7I66Z6B) | 2:33 |
+| 17 | [Lungs Like Gallows](https://open.spotify.com/track/4rTzIN2fYne7HK1f0yRaXX) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Life Is Not a Waiting Room](https://open.spotify.com/album/0ebY8YG1wME8xFsFzsuDyF) | 3:20 |
 | 18 | [You're Cute When You Scream](https://open.spotify.com/track/3Ch5YOx4qbMpmeYgurnBSd) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Let It Enfold You](https://open.spotify.com/album/2NLyP6U1OZZ8d4PvbVANLT) | 2:25 |
 | 19 | [One Eight Seven](https://open.spotify.com/track/0pclT1QQ4Pu7C1pZBpei0f) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [From The Depths Of Dreams](https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y) | 4:10 |
 | 20 | [Gold Jacket, Green Jacket...](https://open.spotify.com/track/7fu67Zso8hS8rcAMXuPhcJ) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [If There Is Light, It Will Find You](https://open.spotify.com/album/5Bdj3JrmjvkampuUvA8nx0) | 3:34 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31u6DZ.md) - [plain]
 | 43 | [Steven](https://open.spotify.com/track/5B06JHXewLwFQhBBOZuDCu) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [From The Depths Of Dreams](https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y) | 4:20 |
 | 44 | [To All the Crowded Rooms](https://open.spotify.com/track/7qZEhFIZN1SlgQGvSo31NN) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching \(Deluxe Version\)](https://open.spotify.com/album/76avO7AfsTAMe4dvVV3Wwj) | 3:05 |
 | 45 | [First Breath, Last Breath](https://open.spotify.com/track/6eRpj3GLxtaBv2z0ruySm1) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [If There Is Light, It Will Find You](https://open.spotify.com/album/5Bdj3JrmjvkampuUvA8nx0) | 2:54 |
-| 46 | [The Fire](https://open.spotify.com/track/7uXqfDaEfaqDbvrFkYfRC7) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [The Fire](https://open.spotify.com/album/6IExM5Oz7rM77Qz27L0nYD) | 3:44 |
-| 47 | [Negative Space](https://open.spotify.com/track/54GtzmielGnNaqkpmfCp4o) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching](https://open.spotify.com/album/4J1JNPuYZR6zQMl7I66Z6B) | 1:21 |
+| 46 | [Negative Space](https://open.spotify.com/track/54GtzmielGnNaqkpmfCp4o) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching](https://open.spotify.com/album/4J1JNPuYZR6zQMl7I66Z6B) | 1:21 |
+| 47 | [The Fire](https://open.spotify.com/track/7uXqfDaEfaqDbvrFkYfRC7) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [The Fire](https://open.spotify.com/album/6IExM5Oz7rM77Qz27L0nYD) | 3:44 |
 | 48 | [Every Day Is a Struggle](https://open.spotify.com/track/2Rk6o3Xsz4th844Z4sCYI7) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching \(Deluxe Version\)](https://open.spotify.com/album/76avO7AfsTAMe4dvVV3Wwj) | 3:04 |
 | 49 | [Lush Rimbaugh](https://open.spotify.com/track/3M3e3C2iMMFV6hn9r1VYuL) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Lush Rimbaugh](https://open.spotify.com/album/2BvxQyy7BGWLErMN3KuXeY) | 3:26 |
 | 50 | [The Ground Folds \(Acoustic\)](https://open.spotify.com/track/22qvb9FLsJJtkLMN1hAphe) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [From The Depths Of Dreams](https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y) | 4:28 |
 
-Snapshot ID: `MjgwMjYwMzIsMDAwMDAwMDA5MTZkM2I5YTU3NWMzMmM5ODE5ZTNiY2E2NDA2YzBiZQ==`
+Snapshot ID: `MjgwMjc0MDEsMDAwMDAwMDBiZGIwZTQ0OTVjYTBjMjFmMGU3YmYzYmRhZDQwYWY0OA==`

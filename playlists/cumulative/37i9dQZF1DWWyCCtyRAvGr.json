@@ -100,6 +100,10 @@
       },
       "artists": [
         {
+          "name": "Sam Maghett",
+          "url": "https://open.spotify.com/artist/1xSXnf7mFuxNF0CMyQmpX2"
+        },
+        {
           "name": "John Mayall & The Bluesbreakers",
           "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
         },
@@ -972,8 +976,8 @@
       },
       "artists": [
         {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+          "name": "Howlin' Wolf with Steve Winwood: Piano & Organ, Bill Wyman: Bass Guitar, Shaker & Cowbell, Charlie Watts: Drums, Conga & Assorted Percussion",
+          "url": "https://open.spotify.com/artist/33yY8KynjFTutORPp8Q8ln"
         },
         {
           "name": "Eric Clapton",
@@ -2161,6 +2165,10 @@
         "url": "https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o"
       },
       "artists": [
+        {
+          "name": "James Bracken",
+          "url": "https://open.spotify.com/artist/58fUt7QRp6wXTLz4MRTNaN"
+        },
         {
           "name": "John Mayall & The Bluesbreakers",
           "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"

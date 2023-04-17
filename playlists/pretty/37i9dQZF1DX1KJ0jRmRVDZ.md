@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,628 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,758 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 39 | [水光](https://open.spotify.com/track/1h8SMT8M4eoaMUxAHzDYk9) | [詩道](https://open.spotify.com/artist/3GxiOV4tzMiuDG4MDmQMzC) | [水光](https://open.spotify.com/album/0UEfFiPlXtGjtOdNFdO1mD) | 4:00 |
 | 40 | [海のまにまに](https://open.spotify.com/track/0loZ1KfQSLJxYR0Y7dImKN) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [海のまにまに](https://open.spotify.com/album/6M4p4S5t8PuRZiq7zvMEPB) | 4:15 |
 | 41 | [ピアスを飲む](https://open.spotify.com/track/0MeVGdMTHtVDu9bYS21BcS) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [ピアスを飲む](https://open.spotify.com/album/4gELhndqwqi2hJjO7ljuqp) | 2:42 |
-| 42 | [アイウエ](https://open.spotify.com/track/7rqYTYi70xZBqEMAtSVhXc) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G), [SAKURAmoti](https://open.spotify.com/artist/2raQe3AjMykp6K4Y890owO) | [アイウエ](https://open.spotify.com/album/1cWeuydo4eS8AwAID5YUGJ) | 3:42 |
-| 43 | [Haru wo Tsugeru](https://open.spotify.com/track/5QseXDzPvtjdeaWNhYbm0m) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Haru wo Tsugeru](https://open.spotify.com/album/002POSVXei4zFN5FDF0YqQ) | 3:16 |
+| 42 | [Haru wo Tsugeru](https://open.spotify.com/track/5QseXDzPvtjdeaWNhYbm0m) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Haru wo Tsugeru](https://open.spotify.com/album/002POSVXei4zFN5FDF0YqQ) | 3:16 |
+| 43 | [アイウエ](https://open.spotify.com/track/7rqYTYi70xZBqEMAtSVhXc) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G), [SAKURAmoti](https://open.spotify.com/artist/2raQe3AjMykp6K4Y890owO) | [アイウエ](https://open.spotify.com/album/1cWeuydo4eS8AwAID5YUGJ) | 3:42 |
 | 44 | [Rendezvous](https://open.spotify.com/track/7gspVQa13prQbNABCRacwE) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Rendezvous](https://open.spotify.com/album/089xXTATtiHlkm0VCM0w8q) | 2:12 |
 | 45 | [左右盲](https://open.spotify.com/track/797EOD68bmVFiyalgBGeOZ) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [左右盲](https://open.spotify.com/album/7gXTELLABqdYBJ9R9bQ443) | 4:27 |
 | 46 | [It Might Be Painful, but I Still Love It.](https://open.spotify.com/track/0yrHUQ7LReHy0TqPoWoHd8) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [It Might Be Painful, but I Still Love It.](https://open.spotify.com/album/69aL4LJK092UFLmWtFeFFy) | 3:24 |
 | 47 | [化け猫](https://open.spotify.com/track/7wag9tAwUdqyfQMDUgY1g9) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [化け猫](https://open.spotify.com/album/4nDK96OK3zDeE3rZkvG9E7) | 2:47 |
 | 48 | [ミスター](https://open.spotify.com/track/2YbNZLoiREBYZo4HeKB8Np) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [ミスター](https://open.spotify.com/album/4oGSH2U1aP0Jr0zldlMRAt) | 3:07 |
-| 49 | [Neppa](https://open.spotify.com/track/6IL2qmfBpLeLVpsglwgatn) | [tephe](https://open.spotify.com/artist/6OKfFmQpN6Pfbqu32AyxR9), [Butter](https://open.spotify.com/artist/4OPbOOdRuVXn32mTNF8rZ2) | [Neppa](https://open.spotify.com/album/3ClWZGhs9vgfUyCkHKzbG8) | 1:14 |
-| 50 | [愛を解く](https://open.spotify.com/track/7DHatm4xHTDxQaTz83zf7V) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [色彩](https://open.spotify.com/album/4PKAlSU3CWtWeTsPwo9wQ9) | 3:01 |
+| 49 | [愛を解く](https://open.spotify.com/track/7DHatm4xHTDxQaTz83zf7V) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [色彩](https://open.spotify.com/album/4PKAlSU3CWtWeTsPwo9wQ9) | 3:01 |
+| 50 | [Neppa](https://open.spotify.com/track/6IL2qmfBpLeLVpsglwgatn) | [tephe](https://open.spotify.com/artist/6OKfFmQpN6Pfbqu32AyxR9), [Butter](https://open.spotify.com/artist/4OPbOOdRuVXn32mTNF8rZ2) | [Neppa](https://open.spotify.com/album/3ClWZGhs9vgfUyCkHKzbG8) | 1:14 |
 
-Snapshot ID: `MTY4MTM5ODAwMCwwMDAwMDAwMDQyM2VkZDk0ZWUwYTkyZDBmOGJlODg0YmM2NDg0Yzkw`
+Snapshot ID: `MTY4MTM5ODAwMCwwMDAwMDAwMDViNTRjOThkYjAxYmEwYzZiNjcxNWU5N2QwZTQ5Y2Q0`

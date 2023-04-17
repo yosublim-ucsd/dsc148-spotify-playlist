@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AdAEX3vkB1.md) - [plain]
 
 > The biggest party hits of the 1960s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,039 likes - 134 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,298 likes - 134 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,18 +73,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AdAEX3vkB1.md) - [plain]
 | 63 | [Stop! In The Name Of Love](https://open.spotify.com/track/52FlwUMMDnTK8TGkCag9Jd) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [More Hits By The Supremes](https://open.spotify.com/album/2maj3yWtoFnr0g7TlNao7A) | 2:52 |
 | 64 | [Going Up The Country](https://open.spotify.com/track/57460SJgSpCXaRJ9YIYHxy) | [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [The Best Of Canned Heat](https://open.spotify.com/album/0TBmLh3U5sk1F8eF0twjwi) | 2:51 |
 | 65 | [Mustang Sally](https://open.spotify.com/track/5Sz09kaSzvpTC8lgm5W8Mt) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [The Wicked Pickett](https://open.spotify.com/album/6tdCKyx1g6XV5uzOWmkxSC) | 3:07 |
-| 66 | [Everybody Needs Somebody to Love](https://open.spotify.com/track/4NL8D4RQsC6ux6eI3m3Lg5) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [The Very Best of Solomon Burke](https://open.spotify.com/album/6qnOfoAUz11fZ98GFilmKE) | 2:46 |
-| 67 | [It's Your Thing](https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [It's Our Thing](https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF) | 2:49 |
+| 66 | [It's Your Thing](https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [It's Our Thing](https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF) | 2:49 |
+| 67 | [Everybody Needs Somebody to Love](https://open.spotify.com/track/4NL8D4RQsC6ux6eI3m3Lg5) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [The Very Best of Solomon Burke](https://open.spotify.com/album/6qnOfoAUz11fZ98GFilmKE) | 2:46 |
 | 68 | [Take Good Care Of My Baby](https://open.spotify.com/track/06JokgprGDKrtZ1eP6z2CQ) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [Take Good Care Of My Baby](https://open.spotify.com/album/4yB0nAAZLuRNK4xdme2axu) | 2:29 |
 | 69 | [Sunshine, Lollipops And Rainbows](https://open.spotify.com/track/0AZb6ryK8LsFcvY1jWHO61) | [Lesley Gore](https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ) | [Lesley Gore Sings Of Mixed\-Up Hearts](https://open.spotify.com/album/5eluBwSJ7uwDBizWCiazSJ) | 1:36 |
 | 70 | [Uptight \(Everything's Alright\)](https://open.spotify.com/track/0Hw6SCrtU9pFCjgAONpnGZ) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Up\-Tight](https://open.spotify.com/album/0qnHA4SDco9mPuWGzDqVDK) | 2:54 |
 | 71 | [He's So Fine \- Remastered 2000](https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh) | [The Chiffons](https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj) | [The Chiffons Absolutely The Best!](https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq) | 1:52 |
-| 72 | [Gimme Some Lovin' \- Single Mix](https://open.spotify.com/track/3qCHUm73I3o5F1mDEfibzo) | [The Spencer Davis Group](https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS) | [Gimme Some Loving / Blues In F](https://open.spotify.com/album/5FuD0MXgLATEsV4lyBbAD0) | 2:58 |
-| 73 | [Breaking Up Is Hard to Do](https://open.spotify.com/track/2x6pbpjVGjiWCcH89IK8AX) | [Neil Sedaka](https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL) | [Circulate \(Expanded Edition\)](https://open.spotify.com/album/66qxRQqOy7kVcsVpT0OVFZ) | 2:19 |
-| 74 | [Georgy Girl](https://open.spotify.com/track/73XQBWHSVLL1939hb8cQTm) | [The Seekers](https://open.spotify.com/artist/7dedWAqd0IKTdCiqiadUrV) | [The Seekers](https://open.spotify.com/album/3vMmPXoijRRhpE9lPpUyq4) | 2:20 |
-| 75 | [The Tears Of A Clown](https://open.spotify.com/track/4Dq749x2QP6OXTURJ9GGY8) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [Make It Happen](https://open.spotify.com/album/6vbD4D3SpN2JBjCoXdGE3i) | 3:01 |
-| 76 | [Friday On My Mind](https://open.spotify.com/track/2CT08rpgdut8qQs7IAzMGi) | [The Easybeats](https://open.spotify.com/artist/1pJEZXU2hJApJW3rM7LmMu) | [Easy](https://open.spotify.com/album/2LTIOQBvQt6ubWJQiQSxS9) | 2:43 |
-| 77 | [Beggin'](https://open.spotify.com/track/2S6XOQqWqUBIySUU00vMru) | [Frankie Valli & The Four Seasons](https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou) | [New Gold Hits](https://open.spotify.com/album/4YOXmT7qlIjaDC3muRuEHY) | 2:50 |
+| 72 | [Breaking Up Is Hard to Do](https://open.spotify.com/track/2x6pbpjVGjiWCcH89IK8AX) | [Neil Sedaka](https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL) | [Circulate \(Expanded Edition\)](https://open.spotify.com/album/66qxRQqOy7kVcsVpT0OVFZ) | 2:19 |
+| 73 | [Gimme Some Lovin' \- Single Mix](https://open.spotify.com/track/3qCHUm73I3o5F1mDEfibzo) | [The Spencer Davis Group](https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS) | [Gimme Some Loving / Blues In F](https://open.spotify.com/album/5FuD0MXgLATEsV4lyBbAD0) | 2:58 |
+| 74 | [The Tears Of A Clown](https://open.spotify.com/track/4Dq749x2QP6OXTURJ9GGY8) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [Make It Happen](https://open.spotify.com/album/6vbD4D3SpN2JBjCoXdGE3i) | 3:01 |
+| 75 | [Georgy Girl](https://open.spotify.com/track/73XQBWHSVLL1939hb8cQTm) | [The Seekers](https://open.spotify.com/artist/7dedWAqd0IKTdCiqiadUrV) | [The Seekers](https://open.spotify.com/album/3vMmPXoijRRhpE9lPpUyq4) | 2:20 |
+| 76 | [Beggin'](https://open.spotify.com/track/2S6XOQqWqUBIySUU00vMru) | [Frankie Valli & The Four Seasons](https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou) | [New Gold Hits](https://open.spotify.com/album/4YOXmT7qlIjaDC3muRuEHY) | 2:50 |
+| 77 | [Friday On My Mind](https://open.spotify.com/track/2CT08rpgdut8qQs7IAzMGi) | [The Easybeats](https://open.spotify.com/artist/1pJEZXU2hJApJW3rM7LmMu) | [Easy](https://open.spotify.com/album/2LTIOQBvQt6ubWJQiQSxS9) | 2:43 |
 | 78 | [Comin' Home Baby](https://open.spotify.com/track/71tjsDvB4EMJqNG8EMmFnb) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Comin' Home Baby](https://open.spotify.com/album/5OtQlb0pY3Xkg0teNeVm22) | 2:45 |
 | 79 | [Saturday Night at the Movies](https://open.spotify.com/track/0jrdWPwYjUZvqfJcwE8ddh) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [The Good Life With the Drifters](https://open.spotify.com/album/1lvcXSmZa8rTR5M03tihq5) | 2:33 |
 | 80 | [Hello Mary Lou, Goodbye Heart \- Remastered](https://open.spotify.com/track/6ImmlZj8ysK2jDnqqbKp60) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Rick Is 21](https://open.spotify.com/album/0eWkaY2z2iBw1t7M8eHKQe) | 2:18 |
@@ -143,4 +143,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AdAEX3vkB1.md) - [plain]
 | 133 | [Eight Days A Week \- Remastered 2009](https://open.spotify.com/track/1Dg4dFJr3HW7sbA7vPejre) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Beatles For Sale \(Remastered\)](https://open.spotify.com/album/1vANZV20H5B4Fk6yf7Ot9a) | 2:43 |
 | 134 | [I Want To Hold Your Hand \- Remastered 2009](https://open.spotify.com/track/5Qe7NHxeLAn8KoLTNLSdwe) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles 1962 \- 1966 \(Remastered\)](https://open.spotify.com/album/6126O4XLYAfzU3961ziahP) | 2:26 |
 
-Snapshot ID: `MTY2OTk2NTUxNCwwMDAwMDAwMDQxMGVkMjIzNDU5OWFmMjk3NTE0ODU4NDk1ZWMxZjEx`
+Snapshot ID: `MTY2OTk2NTUxNCwwMDAwMDAwMDgzNmMzMjk5YWE1MmY5YzY5ZTg2Mzk3MTdjZjQwOWEz`

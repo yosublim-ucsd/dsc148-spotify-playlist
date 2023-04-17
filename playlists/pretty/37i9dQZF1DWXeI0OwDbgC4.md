@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 
 > Even through heartbreak and pain, God’s love remains\. Here are songs that cover the crossroads of hope and heartbreak.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,615 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,667 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 | 39 | [Who You?](https://open.spotify.com/track/767ZVjUmigWt8JUmG39x6W) | [Lil Goat](https://open.spotify.com/artist/40zuFXVJaYmGFpEXojbUiV) | [Who You?](https://open.spotify.com/album/0uChoKiStNm7HLTvt6Bvtd) | 2:21 |
 | 40 | [love in the summer](https://open.spotify.com/track/3lYrsTLgTx81qvNgxmGXYW) | [Ben Lawrence](https://open.spotify.com/artist/4hwbEkmTTgBuc7sYVKA5PN) | [love in the summer](https://open.spotify.com/album/6C2PK15p8aTeJEEDQHrBM3) | 2:25 |
 | 41 | [Mistakes Were Made](https://open.spotify.com/track/2xHHLxTDWQpiIzzYL8rzdx) | [John Michael Howell](https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP) | [Mistakes Were Made](https://open.spotify.com/album/3wreBZPIdf6y5h56X46LJn) | 3:33 |
-| 42 | [already gone](https://open.spotify.com/track/5s1mXKAscJsC5aizCMbwKC) | [JSteph](https://open.spotify.com/artist/0MCSKdSCK4aujv5BeTJPj3) | [already gone](https://open.spotify.com/album/7KH9YyGGUqn3geIoty1rLz) | 3:31 |
-| 43 | [Te Digo Adios](https://open.spotify.com/track/55Tm9Fb2flEu3lPtgpToTm) | [Chriz Roy](https://open.spotify.com/artist/1oulM2dZKW5lqjvlPYJ7P2), [Jaydan](https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5) | [Te Digo Adios](https://open.spotify.com/album/32LZEVREgNsGsdXpNH9tLZ) | 3:23 |
+| 42 | [Te Digo Adios](https://open.spotify.com/track/55Tm9Fb2flEu3lPtgpToTm) | [Chriz Roy](https://open.spotify.com/artist/1oulM2dZKW5lqjvlPYJ7P2), [Jaydan](https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5) | [Te Digo Adios](https://open.spotify.com/album/32LZEVREgNsGsdXpNH9tLZ) | 3:23 |
+| 43 | [already gone](https://open.spotify.com/track/5s1mXKAscJsC5aizCMbwKC) | [JSteph](https://open.spotify.com/artist/0MCSKdSCK4aujv5BeTJPj3) | [already gone](https://open.spotify.com/album/7KH9YyGGUqn3geIoty1rLz) | 3:31 |
 | 44 | [Giving You All Of Me](https://open.spotify.com/track/53ZV7HHQu29ic08xwvQB3O) | [BigGucciDame](https://open.spotify.com/artist/6mjDlBKzYcYavIYfOfQLKi) | [Giving You All Of Me](https://open.spotify.com/album/2UVi0PUYG7ggVrhoaXuF59) | 2:29 |
 | 45 | [TAKE A CHANCE](https://open.spotify.com/track/27j28hzT9pzB0rx2lJR5u8) | [Spencer Kane](https://open.spotify.com/artist/6wRBVb1TqANRmxpqP7FKtb) | [TAKE A CHANCE](https://open.spotify.com/album/3hXhvsQ8LkRvFHlFyyd6Py) | 2:29 |
 | 46 | [Like That](https://open.spotify.com/track/3pLDuAz6GEFNnGWVfX6KSO) | [Phil J.](https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9) | [Like That](https://open.spotify.com/album/4lIL3O7bwzUsG036jsXr4A) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 | 49 | [Mender Of Broken Hearts](https://open.spotify.com/track/7LrTq9MG2jsGK5VWhEleLa) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [Nothing But The Hits: Fred Hammond](https://open.spotify.com/album/0BrE1eS3LplGo2OnLPa2j4) | 5:00 |
 | 50 | [That's On You](https://open.spotify.com/track/1JLDxMUQB6RRh7KtMkkF0f) | [Ilish](https://open.spotify.com/artist/0k9MEyUMyo7Tx0F1C1cnCi) | [Love Parables](https://open.spotify.com/album/4SKqQVUdD8GGRDrQbz7Ls4) | 2:44 |
 
-Snapshot ID: `MTY3NTIyMTIwOSwwMDAwMDAwMDU3MzJiNjFlOGIyZmFiNjJiMGY2ZDVhOTY5YjdlYTcx`
+Snapshot ID: `MTY3NTIyMTIwOSwwMDAwMDAwMDgxYzZjZjc2OTY3ZGNiNWRjNzU4MDYwOGViNDY5ZDdk`

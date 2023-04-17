@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: SZA & Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 994,425 likes - 128 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 994,671 likes - 128 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

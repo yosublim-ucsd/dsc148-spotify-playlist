@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mOf7x.md) - [plain]
 
 > This is Ana Bárbara\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,808 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,837 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mOf7x.md) - [plain]
 | 39 | [Alma perdida](https://open.spotify.com/track/3iJ92AFAzuxuVMXZHlRkbA) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Alma Perdida](https://open.spotify.com/album/7lCJ9krfW84FJXkN8MkBOL) | 3:55 |
 | 40 | [Nuestra Canción](https://open.spotify.com/track/7iOdfDA960q7Y4TQhaN3eA) | [La Mafia](https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Vozes](https://open.spotify.com/album/2oIKM0oZ45eySf4VUiOSPR) | 3:33 |
 | 41 | [Los Besos No Se Dan En La Camisa](https://open.spotify.com/track/7HEztOmJiiJhpykhjoUtWc) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Los Besos No Se Dan En La Camisa](https://open.spotify.com/album/7fmhqh0nvaGukOYWkRoUWS) | 3:44 |
-| 42 | [Yo Ya No Estoy](https://open.spotify.com/track/5JBXKpGw5LBTOomR5w20sm) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Yo Soy La Mujer](https://open.spotify.com/album/3yEDiwSeDMiYh7oJLzl7QC) | 3:35 |
-| 43 | [Y Siempre](https://open.spotify.com/track/3N3G4GKbHlkRfktCuNV5Ul) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Ay, Amor](https://open.spotify.com/album/3ZmguqRipyO48mXaLCchdz) | 3:50 |
+| 42 | [Y Siempre](https://open.spotify.com/track/3N3G4GKbHlkRfktCuNV5Ul) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Ay, Amor](https://open.spotify.com/album/3ZmguqRipyO48mXaLCchdz) | 3:50 |
+| 43 | [Yo Ya No Estoy](https://open.spotify.com/track/5JBXKpGw5LBTOomR5w20sm) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Yo Soy La Mujer](https://open.spotify.com/album/3yEDiwSeDMiYh7oJLzl7QC) | 3:35 |
 | 44 | [Te Llevaste \- Original mix](https://open.spotify.com/track/3t4BuAW1W5Va37ef4WVTRC) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Rompiendo Cadenas](https://open.spotify.com/album/4M4XNTi992X3cGrjhWeM4p) | 3:23 |
 | 45 | [Cuenta Conmigo \(Feat\. Ana Bárbara\)](https://open.spotify.com/track/6utkB9P58tbbHwXzEYxeIO) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Cuenta Conmigo \(Feat\. Ana Bárbara\)](https://open.spotify.com/album/7DRMVvRCbDtg4jsvyZMtqT) | 3:03 |
-| 46 | [Tengo Ganas](https://open.spotify.com/track/2QyPrHTHXRmdyizq5MGBEF) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Yo Soy La Mujer](https://open.spotify.com/album/3yEDiwSeDMiYh7oJLzl7QC) | 3:53 |
-| 47 | [Principio Y Fin](https://open.spotify.com/track/5pncUsL0FvKOFlJO9uKuKV) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Loca De Amar](https://open.spotify.com/album/2eyl66bHPrqMjjTfzLxHt3) | 3:49 |
+| 46 | [Principio Y Fin](https://open.spotify.com/track/5pncUsL0FvKOFlJO9uKuKV) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Loca De Amar](https://open.spotify.com/album/2eyl66bHPrqMjjTfzLxHt3) | 3:49 |
+| 47 | [Tengo Ganas](https://open.spotify.com/track/2QyPrHTHXRmdyizq5MGBEF) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Yo Soy La Mujer](https://open.spotify.com/album/3yEDiwSeDMiYh7oJLzl7QC) | 3:53 |
 | 48 | [Entre Ella Y Yo](https://open.spotify.com/track/3yfjiOCMa9VNZ5cYdUHIrV) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Ay, Amor](https://open.spotify.com/album/3ZmguqRipyO48mXaLCchdz) | 3:59 |
 | 49 | [Cosas del Amor \(with Ana Barbara\)](https://open.spotify.com/track/1Sr81TR1aUDZdPVNIHQyww) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Yuri](https://open.spotify.com/album/7C2u8zacX2l48XqqDWTStW) | 3:18 |
 | 50 | [Estar A Tu Lado](https://open.spotify.com/track/2hpqKfCVvMgMR3hHomg8LA) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [La Gorda Linda](https://open.spotify.com/album/5p4AIAvFarT9TzSPYI6sa6) | 3:43 |
 
-Snapshot ID: `MjgwMjYwMzIsMDAwMDAwMDA2ZGUxODhhOTcxODFlZmIwOGFjOTk2NDExYTUwM2UzMQ==`
+Snapshot ID: `MjgwMjc0MDEsMDAwMDAwMDAzNTc5NjJjY2I0ODU2ZTU2M2YxYmIwNGVhMzUxZGE5ZA==`

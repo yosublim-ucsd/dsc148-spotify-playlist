@@ -4,7 +4,7 @@
 
 > The highest quality blend ft\. BAILEN
 
-689 songs - 1 day 17 hr 51 min
+690 songs - 1 day 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,7 +207,8 @@
 | [Fucked It Up](https://open.spotify.com/track/6YQYqDVVu774K0eFLiuKAo) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Fucked It Up](https://open.spotify.com/album/37dC8LHmBmziZzWvGV6QPi) | 3:58 | 2023-02-24 | 2023-04-04 |
 | [Funny Girl](https://open.spotify.com/track/2orOji9Xa4xhCWUtSAZrFT) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Funny Girl](https://open.spotify.com/album/7m7mnbF6lT9DsPbzqsNQgO) | 3:39 | 2022-01-07 | 2022-01-29 |
 | [Galacticana](https://open.spotify.com/track/3hwnMsJB7c8tF9f0AAt6ak) | [Strand of Oaks](https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL) | [In Heaven](https://open.spotify.com/album/76pQf98XjjF5RZIniiev2d) | 4:00 | 2021-12-10 | 2022-02-12 |
-| [Gamma Rays](https://open.spotify.com/track/7qBXFdv7Q6FMWhsHt2OawM) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Gamma Rays](https://open.spotify.com/album/1SiambHhBaS8xX3bUkb8J3) | 4:20 | 2023-01-13 |  |
+| [Gamma Rays](https://open.spotify.com/track/5k6nmmNdpSGdCNzdnyDoRp) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Exotico](https://open.spotify.com/album/4rPbXiutTsGBMnkW9KESZQ) | 4:20 | 2023-04-14 |  |
+| [Gamma Rays](https://open.spotify.com/track/7qBXFdv7Q6FMWhsHt2OawM) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Gamma Rays](https://open.spotify.com/album/1SiambHhBaS8xX3bUkb8J3) | 4:20 | 2023-01-13 | 2023-04-17 |
 | [German Cars](https://open.spotify.com/track/4yPEdX4KdqujBwQWlzhBMu) | [Matt Nathanson](https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA) | [German Cars](https://open.spotify.com/album/319NY8ddHWxtHWaYzbPdjT) | 3:21 | 2022-06-24 | 2022-08-27 |
 | [Get Down](https://open.spotify.com/track/5NFHQLN5tdjkTdUBkNGDEo) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [Get Down](https://open.spotify.com/album/4li8nEW2egUoMBzWkKbHHQ) | 2:31 | 2021-12-10 | 2022-03-05 |
 | [Get Inspired](https://open.spotify.com/track/4Og0uXMYqouN7xOQ7u8jiW) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Get Inspired](https://open.spotify.com/album/2aBGFRtuLyivUnE2TF1FrD) | 2:53 | 2022-11-25 | 2023-01-21 |

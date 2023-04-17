@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-763 songs - 2 day 2 hr 13 min
+764 songs - 2 day 2 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Aerostar](https://open.spotify.com/track/0MapUfkFs5QgcRXuj7Dihy) | [Video Age](https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW) | [Aerostar](https://open.spotify.com/album/7qC9vTonZ0IXuKKkPyNqar) | 4:20 | 2021-04-02 | 2022-07-09 |
 | [After All](https://open.spotify.com/track/6wuJXtirfIartyLOSSDno9) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [After All](https://open.spotify.com/album/3yNmwe7tHm0YXMPAHfrxjr) | 2:21 | 2023-03-06 |  |
 | [After Dark](https://open.spotify.com/track/0IBtqMsYiVpkq4B0vtL390) | [Paul Jacobs](https://open.spotify.com/artist/3Om4E4aDBrVJxiBjAnAhO2) | [After Dark](https://open.spotify.com/album/3H5tVV3csqMeFw8XqDH5yO) | 4:38 | 2022-04-20 | 2022-07-29 |
-| [Afterlife](https://open.spotify.com/track/4RHjB7f6wc1mkIHno5bsNG) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Afterlife](https://open.spotify.com/album/7sHDo7EBwVqJXaXOYAIEhB) | 3:46 | 2023-03-16 |  |
+| [Afterlife](https://open.spotify.com/track/4RHjB7f6wc1mkIHno5bsNG) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Afterlife](https://open.spotify.com/album/7sHDo7EBwVqJXaXOYAIEhB) | 3:46 | 2023-03-16 | 2023-04-17 |
+| [Afterlife](https://open.spotify.com/track/5XfG0OjDoHFAOOBtPcSmX8) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Exotico](https://open.spotify.com/album/4rPbXiutTsGBMnkW9KESZQ) | 3:46 | 2023-03-16 |  |
 | [Agitations tropicales](https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Odyssée \- EP](https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA) | 4:08 | 2022-04-20 | 2023-04-15 |
 | [Airwalkin'](https://open.spotify.com/track/3GuI8cLpgy6CxZk72a1Jyo) | [GUM](https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW) | [Out In The World](https://open.spotify.com/album/5slqr0lIekuWg0N3q6PDTT) | 3:35 | 2021-04-02 | 2022-04-20 |
 | [Alava vaara](https://open.spotify.com/track/3U9s47vYfFTHvftW3BZHlV) | [Malady](https://open.spotify.com/artist/0EWsrf2mp5bdBgkXjz2PB9) | [Alava vaara](https://open.spotify.com/album/3qi5dCXPsXf3yczSpkS6zl) | 6:43 | 2021-08-20 | 2022-04-19 |

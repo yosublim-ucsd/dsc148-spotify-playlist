@@ -1,12 +1,12 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 743393,
+  "num_followers": 743645,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTU4NTkyMSwwMDAwMDAwMGMxMTMxMWRlNWRlZmRiNzQ3NTYwMmVhMzI1NWM3MDUx",
+  "snapshot_id": "MTY4MTU4NTkyMSwwMDAwMDAwMGZhZjI2NjIyOTY4OTA4YTZkYjkwYzc1MzVlYjQ0MzQy",
   "tracks": [
     {
       "added_at": "2023-04-15 19:12:01",
@@ -475,18 +475,18 @@
     {
       "added_at": "2023-04-15 19:12:01",
       "album": {
-        "name": "Na Press\u00e3o",
-        "url": "https://open.spotify.com/album/18gEdE7EJMpVeBCSDZgOdG"
+        "name": "Algo Parecido",
+        "url": "https://open.spotify.com/album/4xujhMVqrfeMvtt4SV8QIb"
       },
       "artists": [
         {
-          "name": "Lenine",
-          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
+          "name": "Skank",
+          "url": "https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU"
         }
       ],
-      "duration_ms": 284293,
-      "name": "Paci\u00eancia",
-      "url": "https://open.spotify.com/track/6gBlkT2u5P7UyZUYH8WnKz"
+      "duration_ms": 225018,
+      "name": "Algo Parecido",
+      "url": "https://open.spotify.com/track/1xd17oTRJ5sFIHySHLnad9"
     },
     {
       "added_at": "2023-04-15 19:12:01",
@@ -507,18 +507,18 @@
     {
       "added_at": "2023-04-15 19:12:01",
       "album": {
-        "name": "Algo Parecido",
-        "url": "https://open.spotify.com/album/4xujhMVqrfeMvtt4SV8QIb"
+        "name": "Na Press\u00e3o",
+        "url": "https://open.spotify.com/album/18gEdE7EJMpVeBCSDZgOdG"
       },
       "artists": [
         {
-          "name": "Skank",
-          "url": "https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU"
+          "name": "Lenine",
+          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
         }
       ],
-      "duration_ms": 225018,
-      "name": "Algo Parecido",
-      "url": "https://open.spotify.com/track/1xd17oTRJ5sFIHySHLnad9"
+      "duration_ms": 284293,
+      "name": "Paci\u00eancia",
+      "url": "https://open.spotify.com/track/6gBlkT2u5P7UyZUYH8WnKz"
     },
     {
       "added_at": "2023-04-15 19:12:01",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-04-15 19:12:01",
       "album": {
+        "name": "Promete",
+        "url": "https://open.spotify.com/album/6DXshRqI83BTRfeWtspvyQ"
+      },
+      "artists": [
+        {
+          "name": "Ana Vilela",
+          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
+        }
+      ],
+      "duration_ms": 198377,
+      "name": "Promete",
+      "url": "https://open.spotify.com/track/7iB72vyGDEcc232lctJdgL"
+    },
+    {
+      "added_at": "2023-04-15 19:12:01",
+      "album": {
         "name": "Pra Me Refazer",
         "url": "https://open.spotify.com/album/24l6oqlnRqFyxTBoh3phe5"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 215116,
       "name": "Pra Me Refazer",
       "url": "https://open.spotify.com/track/1NocSraHhZfASkuG2WdE5r"
-    },
-    {
-      "added_at": "2023-04-15 19:12:01",
-      "album": {
-        "name": "Promete",
-        "url": "https://open.spotify.com/album/6DXshRqI83BTRfeWtspvyQ"
-      },
-      "artists": [
-        {
-          "name": "Ana Vilela",
-          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
-        }
-      ],
-      "duration_ms": 198377,
-      "name": "Promete",
-      "url": "https://open.spotify.com/track/7iB72vyGDEcc232lctJdgL"
     },
     {
       "added_at": "2023-04-15 19:12:01",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2023-04-15 19:12:01",
       "album": {
+        "name": "Chega de Saudade / O Amor o Sorriso e a Flor / Jo\u00e3o Gilberto (1961) [Ultimate Mix]",
+        "url": "https://open.spotify.com/album/5QyRw84mq8qyaOfaMthydb"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 122773,
+      "name": "Chega de Saudade - Ultimate Mix",
+      "url": "https://open.spotify.com/track/1cM4eMzeqalRs8HbXtfT9X"
+    },
+    {
+      "added_at": "2023-04-15 19:12:01",
+      "album": {
         "name": "AS PALAVRAS, VOL. 1 & 2",
         "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 310760,
       "name": "Lan\u00e7a Perfume",
       "url": "https://open.spotify.com/track/3cijWAljXxxJDco4N2aLQl"
-    },
-    {
-      "added_at": "2023-04-15 19:12:01",
-      "album": {
-        "name": "Chega de Saudade / O Amor o Sorriso e a Flor / Jo\u00e3o Gilberto (1961) [Ultimate Mix]",
-        "url": "https://open.spotify.com/album/5QyRw84mq8qyaOfaMthydb"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 122773,
-      "name": "Chega de Saudade - Ultimate Mix",
-      "url": "https://open.spotify.com/track/1cM4eMzeqalRs8HbXtfT9X"
     },
     {
       "added_at": "2023-04-15 19:12:01",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-04-15 19:12:01",
       "album": {
-        "name": "Tribalistas Ao Vivo",
-        "url": "https://open.spotify.com/album/5cnwEGGZCmPx1f3mLQK90b"
-      },
-      "artists": [
-        {
-          "name": "Tribalistas",
-          "url": "https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD"
-        }
-      ],
-      "duration_ms": 273727,
-      "name": "Vilarejo - Ao Vivo",
-      "url": "https://open.spotify.com/track/3E3jroGWmeblwYhW6YJvoK"
-    },
-    {
-      "added_at": "2023-04-15 19:12:01",
-      "album": {
         "name": "Raizes Do Samba",
         "url": "https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 179933,
       "name": "Preciso Me Encontrar",
       "url": "https://open.spotify.com/track/1op7nM2R2M6FAU6dSCTRWV"
+    },
+    {
+      "added_at": "2023-04-15 19:12:01",
+      "album": {
+        "name": "Tribalistas Ao Vivo",
+        "url": "https://open.spotify.com/album/5cnwEGGZCmPx1f3mLQK90b"
+      },
+      "artists": [
+        {
+          "name": "Tribalistas",
+          "url": "https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD"
+        }
+      ],
+      "duration_ms": 273727,
+      "name": "Vilarejo - Ao Vivo",
+      "url": "https://open.spotify.com/track/3E3jroGWmeblwYhW6YJvoK"
     }
   ],
   "unique_name": "Cafezinho",

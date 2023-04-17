@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Chiminyo Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,048 likes - 75 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,066 likes - 75 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 49 | [LOVE IS](https://open.spotify.com/track/1Sx3NLx0k01HRqA2JhVguv) | [Jason Mountario](https://open.spotify.com/artist/6ibPIgByjCH7qYPlBbN4Tr), [Sri Hanuraga](https://open.spotify.com/artist/6oBbSq1WI51saPC5Vys7z2), [Kelvin Andreas](https://open.spotify.com/artist/2hl3KpfiMWRSP51mLLi4Pd) | [LOVE IS](https://open.spotify.com/album/23f2kd0MMf7L6aJZ5vOkAb) | 6:00 |
 | 50 | [Yukiwata](https://open.spotify.com/track/6kFd2jKQFadILP7GB8rxmQ) | [slowstoop](https://open.spotify.com/artist/759vJrda9Y2XsEsfjmtqET) | [Yukiwata](https://open.spotify.com/album/07h9E701XExk1kpEa0JlUK) | 2:16 |
 | 51 | [Echoes](https://open.spotify.com/track/6E4NJHE0TEuMsCOIddyJSQ) | [Still Caravan](https://open.spotify.com/artist/4oRIYEDeg0IEgU8I8FwMXJ) | [Echoes](https://open.spotify.com/album/3g6bR9rpjAQExzVXH6zFDP) | 4:05 |
-| 52 | [around the world](https://open.spotify.com/track/70WBAN9os6FvYtDgJroIGU) | [JaRon Marshall](https://open.spotify.com/artist/6JwWBoX8tpTGJQ5X8HzSL8) | [around the world](https://open.spotify.com/album/5eL2i5al18gKUYP5NQmRZu) | 2:30 |
+| 52 | [around the world](https://open.spotify.com/track/4bUqCv0JQN5QezCMHrltdy) | [JaRon Marshall](https://open.spotify.com/artist/6JwWBoX8tpTGJQ5X8HzSL8) | [earth sounds](https://open.spotify.com/album/4Dd8qP7i9mF39PMqpsMCpz) | 2:30 |
 | 53 | [WHEN THE DAY COMES](https://open.spotify.com/track/5Mz8j6zm5sIRQMOfhxY8Zw) | [Tom Ford](https://open.spotify.com/artist/3GjqRsFb9dpZ02vchIWQPE), [Davide Shorty](https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso), [Magic Malik](https://open.spotify.com/artist/7mzj5bmHv7oFibvvj0hEzv) | [The Return Of The Tennis Champions](https://open.spotify.com/album/0BpsEXXGF0O0KPCQd4QJKc) | 3:10 |
 | 54 | [Brighter Days](https://open.spotify.com/track/2Wq1S6kCjiOak3QmYSGQc4) | [Joel Holmes](https://open.spotify.com/artist/3ix3uHPWkVMdu4oKABHQ4j), [Cory Baker](https://open.spotify.com/artist/14ePPON5zkdxf98ohUL1xf), [Theljon Allen](https://open.spotify.com/artist/1s65RPZG6B3QkuFVmLAUKJ) | [Brighter Days](https://open.spotify.com/album/1TMugnWlcMysktIw0QWg5Y) | 3:31 |
 | 55 | [Powerful Vulnerability](https://open.spotify.com/track/4uAgZ5xEZ63DlcVcTwPoJU) | [Julia Kadel Trio](https://open.spotify.com/artist/6v52JqviYmn3ojHp4H2Y0A) | [Powerful Vulnerability](https://open.spotify.com/album/7vieF6tvzdmNQtWyN2qNEY) | 7:25 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 74 | [Fri](https://open.spotify.com/track/7hobbyK1Esg7WF5LoDPlLT) | [Flammer Dance Band](https://open.spotify.com/artist/0M2maCJx5UrjKSWGHQmqOF) | [Fri](https://open.spotify.com/album/0LLBUHL76a0HUtlC2mFnx4) | 4:57 |
 | 75 | [Simple Rhyme](https://open.spotify.com/track/1QAvqAGnEgoDI30Jylgk1I) | [Mario Picci](https://open.spotify.com/artist/18C29QJtylJNQT8DRAnaks) | [2000 \(Remastered\)](https://open.spotify.com/album/3IBDfek3wtf3Q3yIve0u7r) | 3:49 |
 
-Snapshot ID: `MTY4MTMwOTY2MywwMDAwMDAwMGE1ZDAxMDJkNDk3MDdjYWI4ZTc5ZWM0MWQwYmI2NGM1`
+Snapshot ID: `MTY4MTMwOTY2MywwMDAwMDAwMDRhY2NmZjhkZjU4MDE2NTFjNTQ3ZWM1ODU3YmIzNGFm`

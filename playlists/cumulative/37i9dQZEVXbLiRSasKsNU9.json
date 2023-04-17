@@ -7021,6 +7021,24 @@
     },
     {
       "album": {
+        "name": "Las Ag\u00fcitas",
+        "url": "https://open.spotify.com/album/0AzqeBnrMhpNakIGdnRwKD"
+      },
+      "artists": [
+        {
+          "name": "Los Vendavales de Adan Melendez",
+          "url": "https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176333,
+      "name": "El Colesterol",
+      "url": "https://open.spotify.com/track/2j8FWFwF1kvyGcdQwzMl3F"
+    },
+    {
+      "album": {
         "name": "El Gordo Trae El Mando",
         "url": "https://open.spotify.com/album/0DqHNI5QhosQmpQ5Ojzqe6"
       },
@@ -7304,6 +7322,24 @@
       "duration_ms": 137647,
       "name": "Endlos_demo",
       "url": "https://open.spotify.com/track/4tQA4uDHh6iPaQLWaxeQqH"
+    },
+    {
+      "album": {
+        "name": "Engelbewaarder",
+        "url": "https://open.spotify.com/album/3c6Hst9lqpnnRRpEbP1RxH"
+      },
+      "artists": [
+        {
+          "name": "Marco Schuitmaker",
+          "url": "https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196520,
+      "name": "Engelbewaarder",
+      "url": "https://open.spotify.com/track/2C2vSufLm1wLq2GjDH3iMh"
     },
     {
       "album": {
@@ -9648,7 +9684,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 138181,
       "name": "GTA IV",
       "url": "https://open.spotify.com/track/4anem4UYsj3JAJUucRMrrO"
@@ -19066,7 +19102,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 198930,
       "name": "Pobre Coraz\u00f3n",
       "url": "https://open.spotify.com/track/1gpayq8BQ8Z1AZSCHUeZOC"

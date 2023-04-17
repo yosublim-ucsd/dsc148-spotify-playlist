@@ -1,12 +1,12 @@
 {
   "description": "Ride the bassline. Cover: Rezz",
-  "num_followers": 205710,
+  "num_followers": 205812,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMGIwYzczYjVhZTMzYjRlNDUzY2ZlMzUxOTdiYTgzYzYw",
+  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDc4NWI0NWRjNjZiOWE2ZGNlZTkwNDRlZjM4YmVmMzJl",
   "tracks": [
     {
       "added_at": "2023-03-31 04:00:00",
@@ -403,6 +403,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "Maria Maria",
+        "url": "https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd"
+      },
+      "artists": [
+        {
+          "name": "TECH IT DEEP",
+          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
+        }
+      ],
+      "duration_ms": 161801,
+      "name": "Maria Maria",
+      "url": "https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "New Gold (feat. Tame Impala and Bootie Brown) [Dom Dolla Remix]",
         "url": "https://open.spotify.com/album/7BVQ5jsPNkmQUnlOU0mg6e"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 274141,
       "name": "New Gold (feat. Tame Impala and Bootie Brown) - Dom Dolla Remix",
       "url": "https://open.spotify.com/track/2c3KCGq6UojB2c8UAFrRON"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Maria Maria",
-        "url": "https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd"
-      },
-      "artists": [
-        {
-          "name": "TECH IT DEEP",
-          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
-        }
-      ],
-      "duration_ms": 161801,
-      "name": "Maria Maria",
-      "url": "https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -563,26 +563,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "New Bottega",
-        "url": "https://open.spotify.com/album/6dlPgHkvVUMkTBsovGFAxH"
-      },
-      "artists": [
-        {
-          "name": "Torren Foot",
-          "url": "https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4"
-        },
-        {
-          "name": "Azealia Banks",
-          "url": "https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I"
-        }
-      ],
-      "duration_ms": 188915,
-      "name": "New Bottega",
-      "url": "https://open.spotify.com/track/05IOuexttkZG6eQLFi3v40"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Push To Start (feat. No/Me)",
         "url": "https://open.spotify.com/album/5kbNGOCcd1B1nxU1y1Mizb"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 181875,
       "name": "Push To Start (feat. No/Me)",
       "url": "https://open.spotify.com/track/6t4VHEcJ7Kek9pgGHlDp6R"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "New Bottega",
+        "url": "https://open.spotify.com/album/6dlPgHkvVUMkTBsovGFAxH"
+      },
+      "artists": [
+        {
+          "name": "Torren Foot",
+          "url": "https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4"
+        },
+        {
+          "name": "Azealia Banks",
+          "url": "https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I"
+        }
+      ],
+      "duration_ms": 188915,
+      "name": "New Bottega",
+      "url": "https://open.spotify.com/track/05IOuexttkZG6eQLFi3v40"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -831,6 +831,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "Faster",
+        "url": "https://open.spotify.com/album/4cIrSFEwm1MVc53X9XdACU"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        }
+      ],
+      "duration_ms": 180517,
+      "name": "Faster",
+      "url": "https://open.spotify.com/track/2EZ27G58YiHySXVFR1R14I"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Empress (Zeds Dead Remix)",
         "url": "https://open.spotify.com/album/3cm2AeJxXUCePRrRzzTnWG"
       },
@@ -849,20 +865,24 @@
       "url": "https://open.spotify.com/track/5w9XTPbDewcXuKaseMFwlj"
     },
     {
-      "added_at": "2023-03-31 04:00:00",
+      "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Faster",
-        "url": "https://open.spotify.com/album/4cIrSFEwm1MVc53X9XdACU"
+        "name": "Synergy",
+        "url": "https://open.spotify.com/album/10FiVORbZ6sRGYLWkP3PQ4"
       },
       "artists": [
         {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "DVBBS",
+          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
         }
       ],
-      "duration_ms": 180517,
-      "name": "Faster",
-      "url": "https://open.spotify.com/track/2EZ27G58YiHySXVFR1R14I"
+      "duration_ms": 209714,
+      "name": "Synergy",
+      "url": "https://open.spotify.com/track/5KkxBEAqnxcfibAepMZSyA"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -943,26 +963,6 @@
       "duration_ms": 157036,
       "name": "HEADSH\u00d6T",
       "url": "https://open.spotify.com/track/1I53j1Vvwkla8P2JIecioT"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Synergy",
-        "url": "https://open.spotify.com/album/10FiVORbZ6sRGYLWkP3PQ4"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "DVBBS",
-          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
-        }
-      ],
-      "duration_ms": 209714,
-      "name": "Synergy",
-      "url": "https://open.spotify.com/track/5KkxBEAqnxcfibAepMZSyA"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1079,6 +1079,26 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "The Machines",
+        "url": "https://open.spotify.com/album/5P3kvsIaj4aX7usKBJAPeQ"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "The Machines",
+      "url": "https://open.spotify.com/track/3SH8GHdwJGXnoEmnCbPpJQ"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "BACK ONLINE",
         "url": "https://open.spotify.com/album/4Jo971sLoS2lO4bf9hKe2j"
       },
@@ -1103,26 +1123,6 @@
       "duration_ms": 217846,
       "name": "BACK ONLINE",
       "url": "https://open.spotify.com/track/46bI9wmq6kDJJ3yAqTvkzH"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "The Machines",
-        "url": "https://open.spotify.com/album/5P3kvsIaj4aX7usKBJAPeQ"
-      },
-      "artists": [
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        },
-        {
-          "name": "Blanke",
-          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
-        }
-      ],
-      "duration_ms": 202666,
-      "name": "The Machines",
-      "url": "https://open.spotify.com/track/3SH8GHdwJGXnoEmnCbPpJQ"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1243,22 +1243,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Collecting Thoughts",
-        "url": "https://open.spotify.com/album/7vMJWsVV5RVQGGV9MtsS9M"
+        "name": "Thrones of Blood",
+        "url": "https://open.spotify.com/album/3bA9JNdeH91Id0ilofZlVX"
       },
       "artists": [
         {
-          "name": "Koven",
-          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
         },
         {
-          "name": "ShockOne",
-          "url": "https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH"
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
         }
       ],
-      "duration_ms": 205738,
-      "name": "Collecting Thoughts",
-      "url": "https://open.spotify.com/track/4iZjLwKa4VUZBeeMvgyNeL"
+      "duration_ms": 320853,
+      "name": "Fall Apart",
+      "url": "https://open.spotify.com/track/0o4nOUsrcHCKMu74kUlxDS"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1283,22 +1283,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Thrones of Blood",
-        "url": "https://open.spotify.com/album/3bA9JNdeH91Id0ilofZlVX"
+        "name": "Collecting Thoughts",
+        "url": "https://open.spotify.com/album/7vMJWsVV5RVQGGV9MtsS9M"
       },
       "artists": [
         {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+          "name": "Koven",
+          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
         },
         {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+          "name": "ShockOne",
+          "url": "https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH"
         }
       ],
-      "duration_ms": 320853,
-      "name": "Fall Apart",
-      "url": "https://open.spotify.com/track/0o4nOUsrcHCKMu74kUlxDS"
+      "duration_ms": 205738,
+      "name": "Collecting Thoughts",
+      "url": "https://open.spotify.com/track/4iZjLwKa4VUZBeeMvgyNeL"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1321,6 +1321,22 @@
       "url": "https://open.spotify.com/track/6FggaqcdwsE4pocJ5GaWxr"
     },
     {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "One Touch",
+        "url": "https://open.spotify.com/album/4VCCLsmrSghXSM8dxyhVWo"
+      },
+      "artists": [
+        {
+          "name": "BAMBII",
+          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
+        }
+      ],
+      "duration_ms": 180437,
+      "name": "One Touch",
+      "url": "https://open.spotify.com/track/6DURQC9m8Rt8SjL4ZKp0Eq"
+    },
+    {
       "added_at": "2023-03-31 04:00:00",
       "album": {
         "name": "Don't Miss (The Bloody Beetroots Remix)",
@@ -1339,22 +1355,6 @@
       "duration_ms": 178181,
       "name": "Don\u2019t Miss - The Bloody Beetroots Remix",
       "url": "https://open.spotify.com/track/5noYbWiU8xMYd4VEPOeFRz"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "One Touch",
-        "url": "https://open.spotify.com/album/4VCCLsmrSghXSM8dxyhVWo"
-      },
-      "artists": [
-        {
-          "name": "BAMBII",
-          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
-        }
-      ],
-      "duration_ms": 180437,
-      "name": "One Touch",
-      "url": "https://open.spotify.com/track/6DURQC9m8Rt8SjL4ZKp0Eq"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Slang Bang",
-        "url": "https://open.spotify.com/album/0KEhLU0pumICuuu387MJ5Z"
+        "name": "A Mere Blip In Your Timeline",
+        "url": "https://open.spotify.com/album/24oSN9awI8g3kOCQ4M8Nxb"
       },
       "artists": [
         {
-          "name": "Greeko",
-          "url": "https://open.spotify.com/artist/2G60xU64nhrlgfBPxIE8JH"
+          "name": "OBLVYN",
+          "url": "https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF"
         }
       ],
-      "duration_ms": 204651,
-      "name": "Slang Bang",
-      "url": "https://open.spotify.com/track/2qYh4nKrsYsXb3T7U1VWxi"
+      "duration_ms": 206390,
+      "name": "A Mere Blip In Your Timeline",
+      "url": "https://open.spotify.com/track/6MSNsf4mGsh1vvoRgQu3zG"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "A Mere Blip In Your Timeline",
-        "url": "https://open.spotify.com/album/24oSN9awI8g3kOCQ4M8Nxb"
+        "name": "Slang Bang",
+        "url": "https://open.spotify.com/album/0KEhLU0pumICuuu387MJ5Z"
       },
       "artists": [
         {
-          "name": "OBLVYN",
-          "url": "https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF"
+          "name": "Greeko",
+          "url": "https://open.spotify.com/artist/2G60xU64nhrlgfBPxIE8JH"
         }
       ],
-      "duration_ms": 206390,
-      "name": "A Mere Blip In Your Timeline",
-      "url": "https://open.spotify.com/track/6MSNsf4mGsh1vvoRgQu3zG"
+      "duration_ms": 204651,
+      "name": "Slang Bang",
+      "url": "https://open.spotify.com/track/2qYh4nKrsYsXb3T7U1VWxi"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "THE POWER!",
+        "url": "https://open.spotify.com/album/7Ewjy1z4p5QKz0EFrgXskf"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        }
+      ],
+      "duration_ms": 164186,
+      "name": "THE POWER!",
+      "url": "https://open.spotify.com/track/253hNdYwpTLBlMpgm2RYIQ"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Hooyah!",
         "url": "https://open.spotify.com/album/15IjJw4B6jvRPPtbuwHHkI"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 132800,
       "name": "Hooyah!",
       "url": "https://open.spotify.com/track/3v3NFAqax9Zg6TFBltTMF8"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "THE POWER!",
-        "url": "https://open.spotify.com/album/7Ewjy1z4p5QKz0EFrgXskf"
-      },
-      "artists": [
-        {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        }
-      ],
-      "duration_ms": 164186,
-      "name": "THE POWER!",
-      "url": "https://open.spotify.com/track/253hNdYwpTLBlMpgm2RYIQ"
     },
     {
       "added_at": "2023-03-31 04:00:00",

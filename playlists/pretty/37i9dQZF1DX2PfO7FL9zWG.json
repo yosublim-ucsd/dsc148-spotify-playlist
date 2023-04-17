@@ -1,12 +1,12 @@
 {
   "description": "Revisit stand out songs from these singer/songwriters. Cover: Noah Kahan",
-  "num_followers": 48617,
+  "num_followers": 48665,
   "original_name": "Folk Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI5MDc1NSwwMDAwMDAwMGUwZDA2N2RlZDVhZDBlYzU0ZWQ5N2FkNTZiOGFjNGFl",
+  "snapshot_id": "MTY4MDI5MDc1NSwwMDAwMDAwMGU2ZmRlN2FlOTBkYzA3ZTRlZTBiNDI2OWUyYmU3MWEx",
   "tracks": [
     {
       "added_at": "2023-03-31 19:25:55",
@@ -299,18 +299,18 @@
     {
       "added_at": "2023-03-31 19:25:55",
       "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/3hR8a4KfoKuRvMDmZB3Di4"
+        "name": "Caamp",
+        "url": "https://open.spotify.com/album/7spHo6tjPR8hbJab6I0Bwo"
       },
       "artists": [
         {
-          "name": "The Strumbellas",
-          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
         }
       ],
-      "duration_ms": 203653,
-      "name": "Spirits",
-      "url": "https://open.spotify.com/track/1VyiUi0mRnSKgtHa5dBoUd"
+      "duration_ms": 129463,
+      "name": "Vagabond",
+      "url": "https://open.spotify.com/track/2R3I5DiDf8bLz2QjrPmUpk"
     },
     {
       "added_at": "2023-03-31 19:25:55",
@@ -363,34 +363,34 @@
     {
       "added_at": "2023-03-31 19:25:55",
       "album": {
-        "name": "Caamp",
-        "url": "https://open.spotify.com/album/7spHo6tjPR8hbJab6I0Bwo"
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/3hR8a4KfoKuRvMDmZB3Di4"
       },
       "artists": [
         {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+          "name": "The Strumbellas",
+          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
         }
       ],
-      "duration_ms": 129463,
-      "name": "Vagabond",
-      "url": "https://open.spotify.com/track/2R3I5DiDf8bLz2QjrPmUpk"
+      "duration_ms": 203653,
+      "name": "Spirits",
+      "url": "https://open.spotify.com/track/1VyiUi0mRnSKgtHa5dBoUd"
     },
     {
       "added_at": "2023-03-31 19:25:55",
       "album": {
-        "name": "EP",
-        "url": "https://open.spotify.com/album/1ewyUvC97wRYnvK61UssDm"
+        "name": "Sob Rock",
+        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
       },
       "artists": [
         {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 178293,
-      "name": "Down by the Water",
-      "url": "https://open.spotify.com/track/4Vutl1Y7OJOBwIqVISNmzL"
+      "duration_ms": 286386,
+      "name": "I Guess I Just Feel Like",
+      "url": "https://open.spotify.com/track/4Im6GRj17qa7NW76OsJh1s"
     },
     {
       "added_at": "2023-03-31 19:25:55",
@@ -411,18 +411,18 @@
     {
       "added_at": "2023-03-31 19:25:55",
       "album": {
-        "name": "Sob Rock",
-        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
+        "name": "EP",
+        "url": "https://open.spotify.com/album/1ewyUvC97wRYnvK61UssDm"
       },
       "artists": [
         {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
         }
       ],
-      "duration_ms": 286386,
-      "name": "I Guess I Just Feel Like",
-      "url": "https://open.spotify.com/track/4Im6GRj17qa7NW76OsJh1s"
+      "duration_ms": 178293,
+      "name": "Down by the Water",
+      "url": "https://open.spotify.com/track/4Vutl1Y7OJOBwIqVISNmzL"
     },
     {
       "added_at": "2023-03-31 19:25:55",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-03-31 19:25:55",
       "album": {
-        "name": "Give Me A Minute",
-        "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 193800,
-      "name": "To the Mountains",
-      "url": "https://open.spotify.com/track/4jLxibvYRtzEAiTDvbL9fO"
-    },
-    {
-      "added_at": "2023-03-31 19:25:55",
-      "album": {
         "name": "Trouble Will Find Me",
         "url": "https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 245240,
       "name": "I Need My Girl",
       "url": "https://open.spotify.com/track/50M7nY1oQuNHecs0ahWAtI"
+    },
+    {
+      "added_at": "2023-03-31 19:25:55",
+      "album": {
+        "name": "Give Me A Minute",
+        "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 193800,
+      "name": "To the Mountains",
+      "url": "https://open.spotify.com/track/4jLxibvYRtzEAiTDvbL9fO"
     },
     {
       "added_at": "2023-03-31 19:25:55",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-03-31 19:25:55",
       "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 270892,
-      "name": "Salt And The Sea",
-      "url": "https://open.spotify.com/track/5EKqsMU2tn1iAYNQF8h0ll"
-    },
-    {
-      "added_at": "2023-03-31 19:25:55",
-      "album": {
         "name": "Wilder Mind (Deluxe)",
         "url": "https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 221039,
       "name": "Believe",
       "url": "https://open.spotify.com/track/4xmv6NGg9arNPmANOa4cjq"
+    },
+    {
+      "added_at": "2023-03-31 19:25:55",
+      "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 270892,
+      "name": "Salt And The Sea",
+      "url": "https://open.spotify.com/track/5EKqsMU2tn1iAYNQF8h0ll"
     },
     {
       "added_at": "2023-03-31 19:25:55",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-03-31 19:25:55",
       "album": {
-        "name": "Cannot Be, Whatsoever",
-        "url": "https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 202226,
-      "name": "Birdcage",
-      "url": "https://open.spotify.com/track/1ulB5740qjdSila4Vjnb7Z"
-    },
-    {
-      "added_at": "2023-03-31 19:25:55",
-      "album": {
         "name": "Nina Cried Power - EP",
         "url": "https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 300706,
       "name": "Shrike",
       "url": "https://open.spotify.com/track/5uIYONgpUQ7t0v7D6CTMBt"
+    },
+    {
+      "added_at": "2023-03-31 19:25:55",
+      "album": {
+        "name": "Cannot Be, Whatsoever",
+        "url": "https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 202226,
+      "name": "Birdcage",
+      "url": "https://open.spotify.com/track/1ulB5740qjdSila4Vjnb7Z"
     },
     {
       "added_at": "2023-03-31 19:25:55",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-03-31 19:25:55",
       "album": {
-        "name": "Fifteen",
-        "url": "https://open.spotify.com/album/119HRNCY7xfA3R218gtspV"
-      },
-      "artists": [
-        {
-          "name": "The Wailin' Jennys",
-          "url": "https://open.spotify.com/artist/331QVEZKK1yz5KhYiR2pBj"
-        }
-      ],
-      "duration_ms": 222704,
-      "name": "Wildflowers",
-      "url": "https://open.spotify.com/track/46Nz7uguhTyUWOXhRBbzxa"
-    },
-    {
-      "added_at": "2023-03-31 19:25:55",
-      "album": {
         "name": "Ruins",
         "url": "https://open.spotify.com/album/5l2Ts5Hd4BN2O28rZksznR"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 192813,
       "name": "To Live a Life",
       "url": "https://open.spotify.com/track/4K00AQLpOhGUdDfDINDfYL"
+    },
+    {
+      "added_at": "2023-03-31 19:25:55",
+      "album": {
+        "name": "Fifteen",
+        "url": "https://open.spotify.com/album/119HRNCY7xfA3R218gtspV"
+      },
+      "artists": [
+        {
+          "name": "The Wailin' Jennys",
+          "url": "https://open.spotify.com/artist/331QVEZKK1yz5KhYiR2pBj"
+        }
+      ],
+      "duration_ms": 222704,
+      "name": "Wildflowers",
+      "url": "https://open.spotify.com/track/46Nz7uguhTyUWOXhRBbzxa"
     },
     {
       "added_at": "2023-03-31 19:25:55",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-03-31 19:25:55",
       "album": {
-        "name": "Know Your Mind",
-        "url": "https://open.spotify.com/album/7LKXmNzqqAw7B7wsZtcxqM"
-      },
-      "artists": [
-        {
-          "name": "Jon and Roy",
-          "url": "https://open.spotify.com/artist/1K0Gi1qUFGSyZUFXvJF4F2"
-        }
-      ],
-      "duration_ms": 202808,
-      "name": "Rising Sun",
-      "url": "https://open.spotify.com/track/3pEnh64tQcPwZs9pLvFPTI"
-    },
-    {
-      "added_at": "2023-03-31 19:25:55",
-      "album": {
         "name": "Light Year (feat. Lennon Stella)",
         "url": "https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 188043,
       "name": "Light Year (feat. Lennon Stella)",
       "url": "https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb"
+    },
+    {
+      "added_at": "2023-03-31 19:25:55",
+      "album": {
+        "name": "Know Your Mind",
+        "url": "https://open.spotify.com/album/7LKXmNzqqAw7B7wsZtcxqM"
+      },
+      "artists": [
+        {
+          "name": "Jon and Roy",
+          "url": "https://open.spotify.com/artist/1K0Gi1qUFGSyZUFXvJF4F2"
+        }
+      ],
+      "duration_ms": 202808,
+      "name": "Rising Sun",
+      "url": "https://open.spotify.com/track/3pEnh64tQcPwZs9pLvFPTI"
     },
     {
       "added_at": "2023-03-31 19:25:55",

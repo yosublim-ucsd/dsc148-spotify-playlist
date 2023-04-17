@@ -2833,6 +2833,28 @@
     },
     {
       "album": {
+        "name": "Mentira No Es",
+        "url": "https://open.spotify.com/album/6Eb0XXaJ6oEVPclUXz1kz9"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Mentira No Es",
+      "url": "https://open.spotify.com/track/6cmZSeILXKvgFRpUcDGQHZ"
+    },
+    {
+      "album": {
         "name": "Aguanta Coraz\u00f3n",
         "url": "https://open.spotify.com/album/1rtPiqPMmhjLP1cNBTb5q5"
       },
@@ -4568,7 +4590,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 153733,
       "name": "TE QUIERO",
       "url": "https://open.spotify.com/track/7r3xWBPAiFNZS7QVxXc3HJ"

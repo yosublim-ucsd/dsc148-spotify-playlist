@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres que la rompen feat\. AKRIILA\. <br/>Dales play, dales power.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,716 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,720 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 30 | [X Detra \(feat\. Saitoape\)](https://open.spotify.com/track/5ozANUJQBPX33q29RXGTJ6) | [Amikiraa](https://open.spotify.com/artist/3xCoO7TgLAuhKkNz0uRwo2), [Nihla](https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf), [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Saitoape](https://open.spotify.com/artist/1uXQ1A3Jy85T7cWKFvlgoU) | [X Detra \(feat\. Saitoape\)](https://open.spotify.com/album/78KwaH54fwPpOltpzc5hYM) | 3:37 |
 | 31 | [Siempre Nice](https://open.spotify.com/track/7cXUURjoM0VmxkMDXFyIKO) | [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP) | [Back to Basics](https://open.spotify.com/album/32sbVfAJ3CK8Uu27g4VAJY) | 3:11 |
 | 32 | [Mi Cula \(Remix\)](https://open.spotify.com/track/4mRfyjonZZuRy3iTxKHazl) | [Señorita Chu](https://open.spotify.com/artist/66HozQ44x8qKTB7irTL2NJ), [Almeyda](https://open.spotify.com/artist/3ScIhY1EejsIFbTsU87XwF), [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [Señorita](https://open.spotify.com/album/7t50mP3PTQZkO1O8BeqV4z) | 3:47 |
-| 33 | [No Verán](https://open.spotify.com/track/5ad4erSBw23M9ZR9qXxKJO) | [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML), [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [No Verán](https://open.spotify.com/album/0uEDpAuha70JI917sWwjfK) | 3:25 |
-| 34 | [XULA](https://open.spotify.com/track/7pONy7BDKUf9RnGwj541Lq) | [Nihla](https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf), [Saito ape](https://open.spotify.com/artist/2MPqvA1H0bdSKq7hohfxL1) | [XULA](https://open.spotify.com/album/08isqualO1ZcEKPVWl2e4L) | 2:17 |
+| 33 | [XULA](https://open.spotify.com/track/7pONy7BDKUf9RnGwj541Lq) | [Nihla](https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf), [Saito ape](https://open.spotify.com/artist/2MPqvA1H0bdSKq7hohfxL1) | [XULA](https://open.spotify.com/album/08isqualO1ZcEKPVWl2e4L) | 2:17 |
+| 34 | [No Verán](https://open.spotify.com/track/5ad4erSBw23M9ZR9qXxKJO) | [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML), [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [No Verán](https://open.spotify.com/album/0uEDpAuha70JI917sWwjfK) | 3:25 |
 | 35 | [Bendecía](https://open.spotify.com/track/1whBPxqXxk75fRRwlOLfgb) | [Otherness](https://open.spotify.com/artist/5TErnITI1p7XdTWM5CTwIL), [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Ata RK](https://open.spotify.com/artist/1uaqThDFNKkktLbwFejfxW) | [Bendecía](https://open.spotify.com/album/7MzBpaRgt9pUI4oYdLzK8q) | 3:16 |
 | 36 | [Brígida](https://open.spotify.com/track/4YlYsqejhE3xBb0XfWXXjE) | [Vesta Lugg](https://open.spotify.com/artist/4BMCoatjMD45S9nDzLVa3c) | [Brígida](https://open.spotify.com/album/4Mn1APLhJYZNRpqEmUphgp) | 2:42 |
 | 37 | [MARIPOSAS](https://open.spotify.com/track/57vFoxxvfJQKg5P2dLfGQb) | [Mariana Bfly](https://open.spotify.com/artist/1MNb8KUeOjT6rWWPBQlUdw), [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Meekasia](https://open.spotify.com/artist/1uzFAZNYuGEeCjciRFPWkE), [David Wild](https://open.spotify.com/artist/0eyks56NYFl5AKHIqz7AUY), [NixBeatz](https://open.spotify.com/artist/0VHYHgSQdE244aP0Ci3D6v) | [EFECTO MARIPOSA](https://open.spotify.com/album/4vlfXEHz4Oxq6Hw466MhRt) | 4:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 49 | [Saber Si Me Amas \(Quiero\)](https://open.spotify.com/track/5XqB8ZPPhGHkmoXOasTAKn) | [Catiusca](https://open.spotify.com/artist/2ZVR14iRL4B4bLq6CWVAPb) | [Saber Si Me Amas \(Quiero\)](https://open.spotify.com/album/77A4SicHUWwI96Kg9R6Cw7) | 2:30 |
 | 50 | [Luces](https://open.spotify.com/track/4jfsxJSwR3h9kPTPOlGV54) | [Rvyo](https://open.spotify.com/artist/6eo5LO5tYMMvvKa6iLoY2n) | [Rayokuza](https://open.spotify.com/album/3RbneQRC7hqcFIn2DZpCKg) | 3:38 |
 
-Snapshot ID: `MTY4MDY2MzYwMCwwMDAwMDAwMDI4Mjc0OTNjYjM3ODdlNjBhYWRiMzI3ZjA2MjA5MDNl`
+Snapshot ID: `MTY4MDY2MzYwMCwwMDAwMDAwMDc0YTJiNTFjM2YwMmZkOGNmYTI5Mjc5NGVkMDAyMzc4`

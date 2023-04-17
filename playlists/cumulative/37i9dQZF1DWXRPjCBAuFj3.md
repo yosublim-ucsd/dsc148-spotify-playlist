@@ -4,7 +4,7 @@
 
 > I rapper più forti del mondo in una sola playlist\. Cover: Drake
 
-292 songs - 15 hr 14 min
+293 songs - 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Die Hard](https://open.spotify.com/track/6gI9b2VsoWhjhIuIeToDVs) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:59 | 2022-05-13 | 2022-07-29 |
 | [Die Young \(feat\. 347aidan\)](https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Die Young \(feat\. 347aidan\)](https://open.spotify.com/album/33C2Ujqsq5tFa93LtafTHN) | 2:28 | 2022-06-01 |  |
 | [Diet Coke](https://open.spotify.com/track/3BMG9dnjNymT1OGUXQTAXl) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Diet Coke](https://open.spotify.com/album/6AmzYhYXSHDndclYdVsKeF) | 2:59 | 2022-05-13 | 2022-07-28 |
-| [Distraction](https://open.spotify.com/track/1oc92BMKYkNxK17C2GtyRM) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Distraction](https://open.spotify.com/album/30OwIxHqQILQ9vwd86sD3o) | 2:51 | 2022-06-02 |  |
+| [Distraction](https://open.spotify.com/track/1oc92BMKYkNxK17C2GtyRM) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Distraction](https://open.spotify.com/album/30OwIxHqQILQ9vwd86sD3o) | 2:51 | 2022-06-02 | 2023-04-17 |
 | [Do It Right](https://open.spotify.com/track/4ZevD501qZiFK7FY8DFn0V) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Do It Right](https://open.spotify.com/album/6v0yp2gWW4rFao7LtIA8RR) | 2:54 | 2022-11-18 | 2023-03-10 |
 | [Do What I Want](https://open.spotify.com/track/62tDpymKVSXEu0W3d4AMr9) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Do What I Want](https://open.spotify.com/album/3vV1pBCY7hLtLo3jF11JfO) | 2:51 | 2022-06-22 | 2022-08-31 |
 | [DOGTOOTH](https://open.spotify.com/track/0judK8TqYfvwUohBngUxrE) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DOGTOOTH](https://open.spotify.com/album/1pdqT6DBwIA0WElEspOA0v) | 2:41 | 2023-03-30 |  |
@@ -211,6 +211,7 @@
 | [Praise God](https://open.spotify.com/track/0WSEq9Ko4kFPt8yo3ICd6T) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 3:46 | 2022-07-28 |  |
 | [Praise God](https://open.spotify.com/track/0Zm7NKJgoKY6ZWwtoEUILK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:46 | 2022-05-10 | 2022-07-29 |
 | [Pressurelicious \(feat\. Future\)](https://open.spotify.com/track/5ZWNnO9MyPfGrUHiGWHESB) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Pressurelicious \(feat\. Future\)](https://open.spotify.com/album/2Wm9AhTq7byuyEIx5QXVWJ) | 2:53 | 2022-07-28 | 2022-09-28 |
+| [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK) | 2:52 | 2023-04-13 |  |
 | [PUFFIN ON ZOOTIEZ](https://open.spotify.com/track/5qgFgsrrxOjyPmX5YCuK2E) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I NEVER LIKED YOU](https://open.spotify.com/album/6ViO9Wx6dWzeUq6DmGTaHl) | 2:52 | 2022-07-26 | 2022-10-03 |
 | [Push It \(feat\. Young Thug\)](https://open.spotify.com/track/1s3etXt5RKVEuC14ugwmHy) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Me vs\. Me](https://open.spotify.com/album/4KrQSZfzmxp0aftaBZj7m3) | 3:30 | 2022-05-13 | 2022-07-29 |
 | [pushin P \(feat\. Young Thug\)](https://open.spotify.com/track/3LnpBazWpD31QMTn6LgVGv) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [DS4EVER](https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW) | 2:16 | 2022-05-10 | 2022-07-29 |

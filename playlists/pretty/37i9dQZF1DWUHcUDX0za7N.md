@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 
 > Hip hop and rap music from Nigeria\. Cover:<a href="https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y?si=hRwyX9JuS92OirIIx6lNnw" > Prettyboy D\-O </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,028 likes - 70 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,073 likes - 70 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,22 +61,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 51 | [Out There](https://open.spotify.com/track/292BMcWitjojrgMxZ3Zaj8) | [Dangbana Republik](https://open.spotify.com/artist/5ezmlxcj3HQvg2XZamXlZK), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [High Tension 2.0](https://open.spotify.com/album/43564usP2MXDmGPsjPHL8q) | 2:43 |
 | 52 | [Soft Life](https://open.spotify.com/track/6JQWH9Kpcjp6RygaRwGnG2) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Soundtrack To The Good Life](https://open.spotify.com/album/5JMesY6i8fM1d4Cg10NqYY) | 3:55 |
 | 53 | [MIDLIFE CRISIS](https://open.spotify.com/track/1pVnCzZpNVODfXz3t4H9ub) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [MIDLIFE CRISIS / WYDTM](https://open.spotify.com/album/4zt5mhHF6V5xnA6kmHiTf0) | 2:11 |
-| 54 | [Sober](https://open.spotify.com/track/2KjV1nxFfYkmq66z4ZK7tz) | [Aguero Banks](https://open.spotify.com/artist/07xuHzGNG1v2zLVtPypTGX) | [Sober](https://open.spotify.com/album/5zoE3LTZotB4stVdvcYT6x) | 4:01 |
-| 55 | [Legendary](https://open.spotify.com/track/3SvMD6ePy6BrNmnNzBGdnD) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [LITTLE & LEGENDARY](https://open.spotify.com/album/4oHJ6JejDytkQ5b9GUSohI) | 2:27 |
+| 54 | [Pot Of Stew](https://open.spotify.com/track/5Q1k767YrKyEMiDBjXYEnd) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF) | [Pot Of Stew](https://open.spotify.com/album/7wSOzsCfac5crudnU3ne8O) | 1:48 |
+| 55 | [Sober](https://open.spotify.com/track/2KjV1nxFfYkmq66z4ZK7tz) | [Aguero Banks](https://open.spotify.com/artist/07xuHzGNG1v2zLVtPypTGX) | [Sober](https://open.spotify.com/album/5zoE3LTZotB4stVdvcYT6x) | 4:01 |
 | 56 | [Okwaraji \(feat\. Bella Shmurda\) \[Remix\]](https://open.spotify.com/track/1ouKW98AJhLvHsT08uvx4R) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Sex Over Love \(Deluxe Edition\)](https://open.spotify.com/album/29SmW14aVvMvgUamIc8JNl) | 2:48 |
-| 57 | [The Guy](https://open.spotify.com/track/6blCtzooXNbKlyDMgdp5zo) | [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL) | [The Guy](https://open.spotify.com/album/2LKh0iw3OeLCIEkd0HsHeL) | 3:17 |
+| 57 | [Legendary](https://open.spotify.com/track/3SvMD6ePy6BrNmnNzBGdnD) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [LITTLE & LEGENDARY](https://open.spotify.com/album/4oHJ6JejDytkQ5b9GUSohI) | 2:27 |
 | 58 | [Blessed Sinner](https://open.spotify.com/track/66fLV81N2fPV5XSaZn459U) | [Rord Kelly](https://open.spotify.com/artist/2yFOQnykNui2qOv0dENRyR) | [Blessed Sinner](https://open.spotify.com/album/015Ci9KJFaVbvorl31nEv8) | 2:58 |
-| 59 | [Highest Student](https://open.spotify.com/track/7a0Wzxeh1I88Br9ZNtHD5H) | [MOJO AF](https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J), [Masiano](https://open.spotify.com/artist/0wh9usKigmJMIpkosaQ5uF) | [Highest Student](https://open.spotify.com/album/3cw1LTnoRBHQN9StfTHYDK) | 2:51 |
-| 60 | [Pot Of Stew](https://open.spotify.com/track/5Q1k767YrKyEMiDBjXYEnd) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF) | [Pot Of Stew](https://open.spotify.com/album/7wSOzsCfac5crudnU3ne8O) | 1:48 |
+| 59 | [The Guy](https://open.spotify.com/track/6blCtzooXNbKlyDMgdp5zo) | [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL) | [The Guy](https://open.spotify.com/album/2LKh0iw3OeLCIEkd0HsHeL) | 3:17 |
+| 60 | [Highest Student](https://open.spotify.com/track/7a0Wzxeh1I88Br9ZNtHD5H) | [MOJO AF](https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J), [Masiano](https://open.spotify.com/artist/0wh9usKigmJMIpkosaQ5uF) | [Highest Student](https://open.spotify.com/album/3cw1LTnoRBHQN9StfTHYDK) | 2:51 |
 | 61 | [Omo X 100](https://open.spotify.com/track/1QsW0pGtO2t6egswtRAHa8) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Omo X 100](https://open.spotify.com/album/2gakmjz9n1lsRSZdue5xUi) | 2:06 |
 | 62 | [Tycoon](https://open.spotify.com/track/6MzulmD5wofNSMmBTqNsba) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [Mojo](https://open.spotify.com/artist/7sCNOLD0NCCcWvWphFUKcF) | [Clone Wars Vol\. 5 \- The Algorhythm](https://open.spotify.com/album/3yUUyNXWF0CFwaCFIEYHzJ) | 3:58 |
 | 63 | [Silent Mode](https://open.spotify.com/track/16czimzBLTAXTC8l4tdaMQ) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [YPSZN3](https://open.spotify.com/album/18fTwvrwISUL4KJiap0Ekp) | 3:20 |
 | 64 | [Moving Mad](https://open.spotify.com/track/3NEm37oSILi153aS3mJGsd) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50) | [Moving Mad](https://open.spotify.com/album/1wqrmVrcBTus8veGMT2Nnq) | 2:22 |
 | 65 | [Symbiosis](https://open.spotify.com/track/1xNAMQydjXH9LalZxVt4dN) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Nissi](https://open.spotify.com/artist/4586oPyU8t6d4hGb1BPFTU) | [Symbiosis](https://open.spotify.com/album/4kW20Wc6qVcrBWfvVATqpN) | 4:09 |
 | 66 | [Trouble](https://open.spotify.com/track/6JZJ6Sbo0biJvOCnx5QaLw) | [Basketmouth](https://open.spotify.com/artist/12bnIxBXecZzYmrJKRbaQ4), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Trouble](https://open.spotify.com/album/4EsC6oCWtJjU9zuHBIxan8) | 2:43 |
-| 67 | [INTERMISSION](https://open.spotify.com/track/3Nn6h1A0DhGnfnMSWw73HQ) | [SGaWD](https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l) | [INTERMISSION](https://open.spotify.com/album/2bIfTq7gNYqPUGR7YIhZW7) | 2:48 |
-| 68 | [Wahala](https://open.spotify.com/track/3neQ27BTYg6eBK3Zb4PERm) | [Abstraktt](https://open.spotify.com/artist/2H5FFLsniz7p7rled2S4pD) | [Wahala](https://open.spotify.com/album/2FlTnOE9paxs4soz5FzKJO) | 2:42 |
+| 67 | [Wahala](https://open.spotify.com/track/3neQ27BTYg6eBK3Zb4PERm) | [Abstraktt](https://open.spotify.com/artist/2H5FFLsniz7p7rled2S4pD) | [Wahala](https://open.spotify.com/album/2FlTnOE9paxs4soz5FzKJO) | 2:42 |
+| 68 | [INTERMISSION](https://open.spotify.com/track/3Nn6h1A0DhGnfnMSWw73HQ) | [SGaWD](https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l) | [INTERMISSION](https://open.spotify.com/album/2bIfTq7gNYqPUGR7YIhZW7) | 2:48 |
 | 69 | [Suliya](https://open.spotify.com/track/3ezKYRrXqBGsBqunV5fTcd) | [Hotkid](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Suliya](https://open.spotify.com/album/2oU8UmMT3RnvNDFjJSPgVm) | 2:11 |
 | 70 | [Stronger](https://open.spotify.com/track/1IWNI9NFFieHtzhgW9ghK5) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Stronger](https://open.spotify.com/album/2mfO2Esi28FBUHFoYuujZA) | 2:53 |
 
-Snapshot ID: `MTY4MTQ3NTU4NiwwMDAwMDAwMGExNGQ1YmViYjhkMzU3NDQ0Y2UyMGU0YTdmNmE4MzYy`
+Snapshot ID: `MTY4MTQ3NTU4NiwwMDAwMDAwMGJiNDJlMTY4YjcyY2I2ZmQ3OGRhODM4MjYxYTNmYmZm`

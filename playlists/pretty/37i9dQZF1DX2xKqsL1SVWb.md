@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKqsL1SVWb.md) - [plain]
 
 > Folk tan dulce como la miel\. Kevin Kaarl en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,910 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,907 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,19 +15,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKqsL1SVWb.md) - [plain]
 | 5 | [No Te Quiero Perder](https://open.spotify.com/track/4AwlNIyid3oRyNqX61kTKt) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Limerencia](https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj) | 3:46 |
 | 6 | [Amor Fugaz](https://open.spotify.com/track/4O2bxKTnK9En7OPw8kGDDF) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [The Life in Your Eyes](https://open.spotify.com/album/7hnH4pDgMDP4veSuZ7Uxlz) | 2:55 |
 | 7 | [El lugar correcto](https://open.spotify.com/track/3G6XpCfczuhbTSBlgfqe9v) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [De Todas las Flores](https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81) | 3:51 |
-| 8 | [nomás tú](https://open.spotify.com/track/2QOWWawJs7RLfttH4BXPXa) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [nomás tú](https://open.spotify.com/album/638iojk5ANMxC2zlVcjd16) | 2:37 |
+| 8 | [Miel](https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [Miel](https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B) | 2:04 |
 | 9 | [Que no me encuentre](https://open.spotify.com/track/3Nb4ygzwmt8CNIb3fZ2Pk1) | [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb) | [Que no me encuentre](https://open.spotify.com/album/0C0K2Mf3DyY7cgJoPgI5eH) | 3:06 |
 | 10 | [San Lucas](https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [San Lucas](https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1) | 4:07 |
 | 11 | [Juntos](https://open.spotify.com/track/6DnmHa24M6jVBisjhyHcIs) | [Erich](https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU) | [HSN](https://open.spotify.com/album/6mZZOWFnjModwsij9EDDam) | 2:40 |
-| 12 | [Miel](https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [Miel](https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B) | 2:04 |
+| 12 | [nomás tú](https://open.spotify.com/track/2QOWWawJs7RLfttH4BXPXa) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [nomás tú](https://open.spotify.com/album/638iojk5ANMxC2zlVcjd16) | 2:37 |
 | 13 | [Vuelvo Pronto](https://open.spotify.com/track/2HECQdPQtR1K9DfEdCBAoa) | [Karina Galicia](https://open.spotify.com/artist/0syMDHmkYbx5dG8bOnZ60z) | [Canciones Secretas](https://open.spotify.com/album/6CrUSUaGNBRz8MNYTkvNm1) | 2:32 |
-| 14 | [Soñar Contigo](https://open.spotify.com/track/0GYS14rwcsMXhYMP57W164) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Mundo De Dos](https://open.spotify.com/album/2prBuM9hprQROvEI5MDZ5C) | 2:48 |
-| 15 | [Brindo](https://open.spotify.com/track/1oLp4xkeNCxjMy4glz0vbL) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn) | [Brindo](https://open.spotify.com/album/5WBJnHs3CWYPwoi3yJS58x) | 3:05 |
+| 14 | [Brindo](https://open.spotify.com/track/1oLp4xkeNCxjMy4glz0vbL) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn) | [Brindo](https://open.spotify.com/album/5WBJnHs3CWYPwoi3yJS58x) | 3:05 |
+| 15 | [Soñar Contigo](https://open.spotify.com/track/0GYS14rwcsMXhYMP57W164) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Mundo De Dos](https://open.spotify.com/album/2prBuM9hprQROvEI5MDZ5C) | 2:48 |
 | 16 | [Mi Despedida](https://open.spotify.com/track/6Svlf7ToRwf8VFaHWpdN9O) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Mi Despedida](https://open.spotify.com/album/23INaDzOxYRJqQOm5X2Twv) | 3:16 |
 | 17 | [Reina de mi Corazón](https://open.spotify.com/track/6pBV756dsPFIMGfLi29Obk) | [Jesus Dimas](https://open.spotify.com/artist/3T8yvcStZybKlw4Douh93g) | [Reina de mi Corazón](https://open.spotify.com/album/2eg5l4Mktmc950WhNBdybS) | 3:34 |
 | 18 | [Colapso](https://open.spotify.com/track/7dT9D6117e5DbhnKxDLNW9) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Hasta el Fin Del Mundo](https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7) | 3:55 |
-| 19 | [Terraformar](https://open.spotify.com/track/4ZDdMGTlSgm7ATgbx4pZlP) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [Terraformar](https://open.spotify.com/album/3CT4nIVAbLmPqCK3LtFMzK) | 2:20 |
-| 20 | [Amapolas \- Acústico](https://open.spotify.com/track/3w7yklj80FkFG1e3QQBzGB) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Canciones para escuchar en el río](https://open.spotify.com/album/1OSheaXw7vf5kvIF94qrTk) | 3:05 |
+| 19 | [Amapolas \- Acústico](https://open.spotify.com/track/3w7yklj80FkFG1e3QQBzGB) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Canciones para escuchar en el río](https://open.spotify.com/album/1OSheaXw7vf5kvIF94qrTk) | 3:05 |
+| 20 | [Terraformar](https://open.spotify.com/track/4ZDdMGTlSgm7ATgbx4pZlP) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [Terraformar](https://open.spotify.com/album/3CT4nIVAbLmPqCK3LtFMzK) | 2:20 |
 | 21 | [Infeliz](https://open.spotify.com/track/1HfkiyazS6licNey0lz01N) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Perdido En Ti](https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg) | 3:19 |
 | 22 | [Está Dañada \- Remix](https://open.spotify.com/track/2HFrlVZI1PHNwfNiIC8mkb) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Está Dañada \(Remix\)](https://open.spotify.com/album/1dEd2iGVdXJXmQdhNklAOO) | 3:59 |
 | 23 | [Lágrimas De Miel](https://open.spotify.com/track/5xxWDPW1I0aHAt3twyXAPy) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Lágrimas De Miel](https://open.spotify.com/album/1tTolYWqffkyFE64kvjlkh) | 3:48 |
@@ -66,22 +66,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKqsL1SVWb.md) - [plain]
 | 56 | [Retrato](https://open.spotify.com/track/0SYLZU1RhHaVBZO2cv9SQ3) | [Lezlie](https://open.spotify.com/artist/278VaSr9ONC7O8n0CXm4Fg) | [Retrato](https://open.spotify.com/album/7eI2NAvOwa8O8CtnBARs3A) | 2:41 |
 | 57 | [Tu Despedida](https://open.spotify.com/track/27lGrJOO7EwUuInWZGqCMz) | [Felipe Botello y El Sonoro Rugir](https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr) | [Tu Despedida](https://open.spotify.com/album/3SANjRAaEFJ9WEXxRc8yGX) | 3:54 |
 | 58 | [Dejar Ir](https://open.spotify.com/track/2a7gTBqzipCCuSQzgOSHl6) | [Carope](https://open.spotify.com/artist/4TCGau2PjdwNpyEOPVtdPs) | [Dejar Ir](https://open.spotify.com/album/7joqDQGlL3HEbX4uuaR8tA) | 4:49 |
-| 59 | [Arena Blanca](https://open.spotify.com/track/5j0P1xvPEFC3aLloV70sAF) | [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [Páramo Místico](https://open.spotify.com/album/3w6sKad6TBHZgZGE3oU4tL) | 3:23 |
+| 59 | [Arena Roja](https://open.spotify.com/track/5LxBsUiUHcxHeg1bQyQYeF) | [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [Arena Roja](https://open.spotify.com/album/35nR8jjRVVjo6R3IhQO9le) | 3:58 |
 | 60 | [Vuelvo](https://open.spotify.com/track/1JcLF91e2N4sSuYuZ19fEz) | [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Agendas Vencidas](https://open.spotify.com/album/1ItyNz7DTEfVqchGAFui8s) | 3:17 |
 | 61 | [Herido :\(](https://open.spotify.com/track/3nOVioPlgs8GxvCVQJ0jKV) | [SHAO](https://open.spotify.com/artist/6rGxc2bEuNfj8aNtGh7TQS) | [Terciopelo](https://open.spotify.com/album/0uOOazj0IXyUab4OVT9rIz) | 3:43 |
 | 62 | [La Balada de Sarah Lynn](https://open.spotify.com/track/358ITOTwU2zByvL2YftgGn) | [Un León Marinero](https://open.spotify.com/artist/3r55sOwTNOxG0GIM3VAyE7) | [La Balada de Sarah Lynn](https://open.spotify.com/album/04SGJp6OGTuWtAycY4oOtY) | 2:34 |
 | 63 | [Dulce Veneno \- Sigues Aquí](https://open.spotify.com/track/2u0bUWgV8Ac8O3gnnA5xI0) | [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3), [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [De Todo un Poco](https://open.spotify.com/album/28FDFSEkA2zhVB5q6GL6CS) | 4:18 |
-| 64 | [Hoy Es Hoy](https://open.spotify.com/track/3H4XQcBxCptMYEou4tsjVd) | [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [Hoy Es Hoy](https://open.spotify.com/album/3iU8y5kOdMIPMdaRaHyhmF) | 2:54 |
-| 65 | [Al Pie del Volcán](https://open.spotify.com/track/5TpldaZoFR74NclU2mEhTP) | [Yo y las Bestias](https://open.spotify.com/artist/6IMsvQIE5UuA92aA22TfxP) | [Al Pie del Volcán](https://open.spotify.com/album/34jUSNv9RoyaxI78mHzFmr) | 4:05 |
+| 64 | [Al Pie del Volcán](https://open.spotify.com/track/5TpldaZoFR74NclU2mEhTP) | [Yo y las Bestias](https://open.spotify.com/artist/6IMsvQIE5UuA92aA22TfxP) | [Al Pie del Volcán](https://open.spotify.com/album/34jUSNv9RoyaxI78mHzFmr) | 4:05 |
+| 65 | [Hoy Es Hoy](https://open.spotify.com/track/3H4XQcBxCptMYEou4tsjVd) | [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [Hoy Es Hoy](https://open.spotify.com/album/3iU8y5kOdMIPMdaRaHyhmF) | 2:54 |
 | 66 | [El Fin](https://open.spotify.com/track/0tMZaa09HA20lbBvKEkd8N) | [Karla Cruise](https://open.spotify.com/artist/1lDvMKVfuYM3tO8iAIlYrs) | [El Fin](https://open.spotify.com/album/36zytWk6zIaTL5hcrPplY8) | 2:57 |
 | 67 | [Yaya](https://open.spotify.com/track/7jm48iiBt7oI8skNwgzNrs) | [Venado Meraki](https://open.spotify.com/artist/5bLXtvIMDtusv4j9PtXjgB) | [Yaya](https://open.spotify.com/album/6ZhmkUD947boo8m6KGS4CM) | 3:53 |
-| 68 | [Arena Roja](https://open.spotify.com/track/5LxBsUiUHcxHeg1bQyQYeF) | [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [Arena Roja](https://open.spotify.com/album/35nR8jjRVVjo6R3IhQO9le) | 3:58 |
+| 68 | [Arena Blanca](https://open.spotify.com/track/5j0P1xvPEFC3aLloV70sAF) | [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [Páramo Místico](https://open.spotify.com/album/3w6sKad6TBHZgZGE3oU4tL) | 3:23 |
 | 69 | [¿Qué pasó?](https://open.spotify.com/track/1VgWAGoBepDqO0elgJ7LHL) | [Brandd Alvarez](https://open.spotify.com/artist/38Fp7nDn5ldveEZHy1fkbo) | [¿Qué pasó?](https://open.spotify.com/album/7mTdih8YvmbQBKsmXNOISQ) | 4:19 |
 | 70 | [La Triste Historia de un Cazafantasmas Retirado](https://open.spotify.com/track/66upbgKkgfSxMmIWMCvL8p) | [Sad Saturno](https://open.spotify.com/artist/4skcssepAWMUywr7Nmng2d) | [La Triste Historia de un Cazafantasmas Retirado](https://open.spotify.com/album/7EoVqsPnTl7mEj3p1wMZus) | 3:34 |
 | 71 | [Repetir](https://open.spotify.com/track/4TlpJDThWiOD0KJz0snvD7) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Repetir](https://open.spotify.com/album/2hN53yrLB2x6xcHwPiHTd5) | 2:43 |
 | 72 | [Antes de Partir \- Cap.1](https://open.spotify.com/track/4IqmLOM19rzF1WeOTwK2ND) | [Erick Mendoza](https://open.spotify.com/artist/4a3ZMZGCMmCEAFnRdUTdw4) | [Antes de Partir \- Cap.1](https://open.spotify.com/album/3yBJgpGmpOIQ79oBEbaNdm) | 3:31 |
 | 73 | [Cuando salga el sol](https://open.spotify.com/track/5kR3d959InuG8hA5EDXE2k) | [Alan Troy](https://open.spotify.com/artist/2AAtJ9SZMYanKsVF87wxGU) | [Cuando salga el sol](https://open.spotify.com/album/0DXHs3FAp1n74c9DRFykqv) | 3:21 |
-| 74 | [Se Te Olvidó](https://open.spotify.com/track/43p7kAVqa4CYkwQtl0ZBb3) | [Bella Álvarez](https://open.spotify.com/artist/6dqfuonDrw9UdawWJIAGjs) | [Se Te Olvidó](https://open.spotify.com/album/1k8eERaYIlNo3PI5VOx2Eo) | 3:31 |
-| 75 | [Nos Dijimos Adiós](https://open.spotify.com/track/4DEa05v9flZt5Q009QucTU) | [Paola Decanini](https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE) | [Nos Dijimos Adiós](https://open.spotify.com/album/2AQqArbCTwT5LEAD01IXHe) | 3:42 |
+| 74 | [Amor Con Filo](https://open.spotify.com/track/3hzxwtypvjo7qqy8umK66X) | [Anthrés](https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4) | [Amor Con Filo](https://open.spotify.com/album/5LZTVKoO09QDaADq6ij0Sj) | 2:58 |
+| 75 | [Se Te Olvidó](https://open.spotify.com/track/43p7kAVqa4CYkwQtl0ZBb3) | [Bella Álvarez](https://open.spotify.com/artist/6dqfuonDrw9UdawWJIAGjs) | [Se Te Olvidó](https://open.spotify.com/album/1k8eERaYIlNo3PI5VOx2Eo) | 3:31 |
 
-Snapshot ID: `MTY4MDI5MDE5NSwwMDAwMDAwMDg5MWU5ZTBkN2U2YjZmNjAzOWFmMTNjYTYyMTY3MTE2`
+Snapshot ID: `MTY4MDI5MDE5NSwwMDAwMDAwMGNhMGVkMTZkYzMyNGU4YThhYmM2MDY3ZTdlZTlmYTI3`

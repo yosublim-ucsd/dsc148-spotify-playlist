@@ -1,12 +1,12 @@
 {
   "description": "An essential list of recent hits of SoGo.  Cover:  <a href=\"https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb?si=t4i4AV79QiSGjnj0F5J2cA\">The Browns</a>",
-  "num_followers": 7293,
+  "num_followers": 7329,
   "original_name": "Streets Of Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ1MzY1OCwwMDAwMDAwMDFiMjg5OTllNjcwNmE3OTEyYmM2M2ZhNjZkZDA0NTY2",
+  "snapshot_id": "MTY4MTQ1MzY1OCwwMDAwMDAwMGQ1M2U3NmI2N2YwMDM0ZDg2NjE1ZTRhNmZmYWI0NGQ1",
   "tracks": [
     {
       "added_at": "2023-04-14 06:27:38",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Time Machine",
-        "url": "https://open.spotify.com/album/0Sl1oCoNsDtCkSLTaTZzpP"
-      },
-      "artists": [
-        {
-          "name": "The Browders",
-          "url": "https://open.spotify.com/artist/4Ug1lA45bfmGwUx76BWWfW"
-        }
-      ],
-      "duration_ms": 205506,
-      "name": "Lift up His Name",
-      "url": "https://open.spotify.com/track/23a025gnBl8S0b7Cb9Bz0S"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Bigger Than Sunday",
         "url": "https://open.spotify.com/album/0RgdcpTzlEU9m0WnfgsU19"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 197240,
       "name": "Best Thing",
       "url": "https://open.spotify.com/track/2LqfoPg1e7dud9HJSnaVsn"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Time Machine",
+        "url": "https://open.spotify.com/album/0Sl1oCoNsDtCkSLTaTZzpP"
+      },
+      "artists": [
+        {
+          "name": "The Browders",
+          "url": "https://open.spotify.com/artist/4Ug1lA45bfmGwUx76BWWfW"
+        }
+      ],
+      "duration_ms": 205506,
+      "name": "Lift up His Name",
+      "url": "https://open.spotify.com/track/23a025gnBl8S0b7Cb9Bz0S"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -655,18 +655,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "I Have God to Thank for Everything",
-        "url": "https://open.spotify.com/album/2GCDQ5nQ3FIhaQnGfzlpgJ"
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/3Z6G191LKtBlbPwxJtOgEl"
       },
       "artists": [
         {
-          "name": "The Inspirations",
-          "url": "https://open.spotify.com/artist/5r3AH74NQJVPeRGmBfnNf3"
+          "name": "The Hoppers",
+          "url": "https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7"
         }
       ],
-      "duration_ms": 168058,
-      "name": "I Have God to Thank for Everything",
-      "url": "https://open.spotify.com/track/0ecJwqxF2KxcYHiwzi23Tk"
+      "duration_ms": 241109,
+      "name": "Believe For It",
+      "url": "https://open.spotify.com/track/63R7v5So5B4NwnSg5D83Kb"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -687,18 +687,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/3Z6G191LKtBlbPwxJtOgEl"
+        "name": "I Have God to Thank for Everything",
+        "url": "https://open.spotify.com/album/2GCDQ5nQ3FIhaQnGfzlpgJ"
       },
       "artists": [
         {
-          "name": "The Hoppers",
-          "url": "https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7"
+          "name": "The Inspirations",
+          "url": "https://open.spotify.com/artist/5r3AH74NQJVPeRGmBfnNf3"
         }
       ],
-      "duration_ms": 241109,
-      "name": "Believe For It",
-      "url": "https://open.spotify.com/track/63R7v5So5B4NwnSg5D83Kb"
+      "duration_ms": 168058,
+      "name": "I Have God to Thank for Everything",
+      "url": "https://open.spotify.com/track/0ecJwqxF2KxcYHiwzi23Tk"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Front Porch Singin'",
-        "url": "https://open.spotify.com/album/41ueL4w9hoGodvfWHjLfCY"
-      },
-      "artists": [
-        {
-          "name": "The Oak Ridge Boys",
-          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
-        }
-      ],
-      "duration_ms": 108145,
-      "name": "Rock My Soul",
-      "url": "https://open.spotify.com/track/6bb7yezS8C4RwLbWKDtiAN"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "The Stories We Tell",
         "url": "https://open.spotify.com/album/4GJxoLRAleQBeEb6CSR2oI"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 181000,
       "name": "Good in the Good Times",
       "url": "https://open.spotify.com/track/6m6CBaVU3KKztFkmz28m1I"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Front Porch Singin'",
+        "url": "https://open.spotify.com/album/41ueL4w9hoGodvfWHjLfCY"
+      },
+      "artists": [
+        {
+          "name": "The Oak Ridge Boys",
+          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
+        }
+      ],
+      "duration_ms": 108145,
+      "name": "Rock My Soul",
+      "url": "https://open.spotify.com/track/6bb7yezS8C4RwLbWKDtiAN"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -819,6 +819,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "Glorious Appearing",
+        "url": "https://open.spotify.com/album/3kPtp2JB1FsCW7ntRNt99W"
+      },
+      "artists": [
+        {
+          "name": "The Hoppers",
+          "url": "https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7"
+        }
+      ],
+      "duration_ms": 228997,
+      "name": "Glorious Appearing",
+      "url": "https://open.spotify.com/track/2CGX7JVKELwjNgs4FppLEU"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "Come On In",
         "url": "https://open.spotify.com/album/6fomyXP5lxMAmm1yKXmIHV"
       },
@@ -851,18 +867,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Glorious Appearing",
-        "url": "https://open.spotify.com/album/3kPtp2JB1FsCW7ntRNt99W"
+        "name": "Love Is the Voice",
+        "url": "https://open.spotify.com/album/2CHhug02gOUxNAlahCkdMR"
       },
       "artists": [
         {
-          "name": "The Hoppers",
-          "url": "https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7"
+          "name": "The Taylors",
+          "url": "https://open.spotify.com/artist/7cWAsRKW1DL0pRUXWyCDsX"
         }
       ],
-      "duration_ms": 228997,
-      "name": "Glorious Appearing",
-      "url": "https://open.spotify.com/track/2CGX7JVKELwjNgs4FppLEU"
+      "duration_ms": 165613,
+      "name": "God, Do it Again",
+      "url": "https://open.spotify.com/track/2S5MGYMortUR7BQO133k6o"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -883,22 +899,6 @@
       "duration_ms": 197760,
       "name": "Give Me Jesus",
       "url": "https://open.spotify.com/track/1A0hWOgHJZhfmU0Jz27XsB"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "Love Is the Voice",
-        "url": "https://open.spotify.com/album/2CHhug02gOUxNAlahCkdMR"
-      },
-      "artists": [
-        {
-          "name": "The Taylors",
-          "url": "https://open.spotify.com/artist/7cWAsRKW1DL0pRUXWyCDsX"
-        }
-      ],
-      "duration_ms": 165613,
-      "name": "God, Do it Again",
-      "url": "https://open.spotify.com/track/2S5MGYMortUR7BQO133k6o"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "Come and Dine",
+        "url": "https://open.spotify.com/album/7y5dsM3Tre13QHcSG1L8tC"
+      },
+      "artists": [
+        {
+          "name": "William Lee Golden and The Goldens",
+          "url": "https://open.spotify.com/artist/3DBCHVQNlapluGiMfXZDFX"
+        }
+      ],
+      "duration_ms": 149213,
+      "name": "Come and Dine",
+      "url": "https://open.spotify.com/track/6tf81aaHf2TumDPjrkPlr6"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "Brighten The Corner Where You Are (Radio Edit)",
         "url": "https://open.spotify.com/album/7tpVNdsEnSWj30uRodyS4y"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 222064,
       "name": "I Bring You Jesus",
       "url": "https://open.spotify.com/track/6hOlJaU7E3SycdVXQN2taI"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "Come and Dine",
-        "url": "https://open.spotify.com/album/7y5dsM3Tre13QHcSG1L8tC"
-      },
-      "artists": [
-        {
-          "name": "William Lee Golden and The Goldens",
-          "url": "https://open.spotify.com/artist/3DBCHVQNlapluGiMfXZDFX"
-        }
-      ],
-      "duration_ms": 149213,
-      "name": "Come and Dine",
-      "url": "https://open.spotify.com/track/6tf81aaHf2TumDPjrkPlr6"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "The World Needs a Song",
-        "url": "https://open.spotify.com/album/4E9MITR2tZPyaUOPQpmUOJ"
-      },
-      "artists": [
-        {
-          "name": "The Lore Family",
-          "url": "https://open.spotify.com/artist/4LumramOIgEFgFyNkYeb94"
-        }
-      ],
-      "duration_ms": 191056,
-      "name": "The World Needs a Song",
-      "url": "https://open.spotify.com/track/2m03vLyMsBkWaEYwJOfP5T"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Lord's Prayer",
         "url": "https://open.spotify.com/album/1GTIjIET5P7s2oXtT3sBcs"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 214238,
       "name": "Grace Ain't Fair - Acoustic Version",
       "url": "https://open.spotify.com/track/2CEBwToSll6HnKr0op8WQH"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "The World Needs a Song",
+        "url": "https://open.spotify.com/album/4E9MITR2tZPyaUOPQpmUOJ"
+      },
+      "artists": [
+        {
+          "name": "The Lore Family",
+          "url": "https://open.spotify.com/artist/4LumramOIgEFgFyNkYeb94"
+        }
+      ],
+      "duration_ms": 191056,
+      "name": "The World Needs a Song",
+      "url": "https://open.spotify.com/track/2m03vLyMsBkWaEYwJOfP5T"
     },
     {
       "added_at": "2023-04-14 06:27:38",

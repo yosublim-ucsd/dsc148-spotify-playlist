@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o especial do jazz nacional. Foto: Amaro Freitas",
-  "num_followers": 152071,
+  "num_followers": 152114,
   "original_name": "Jazz Brasileiro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0MTI2MCwwMDAwMDAwMGNhZGZiMzVkNWUxNzI1ZjY2OTYwMTBhMGUzOTNhMDJj",
+  "snapshot_id": "MTY4MTQ0MTI2MCwwMDAwMDAwMGYwZTFlNGRjNzFjMjE0Y2Y2NmFiZGJhN2NkOGI4MWYz",
   "tracks": [
     {
       "added_at": "2023-04-14 03:01:00",
@@ -271,6 +271,22 @@
     {
       "added_at": "2023-04-14 03:01:00",
       "album": {
+        "name": "Consola\u00e7\u00e3o (Live)",
+        "url": "https://open.spotify.com/album/0idYgGKX0aTVmUVIJ3Dhzs"
+      },
+      "artists": [
+        {
+          "name": "Bola Sete",
+          "url": "https://open.spotify.com/artist/3vVLhTD4Etza2AvvWJaNyW"
+        }
+      ],
+      "duration_ms": 283965,
+      "name": "Consola\u00e7\u00e3o - Live",
+      "url": "https://open.spotify.com/track/49KG5t8YMzD1HIusWoNchm"
+    },
+    {
+      "added_at": "2023-04-14 03:01:00",
+      "album": {
         "name": "Jo\u00e3o Donato JID007",
         "url": "https://open.spotify.com/album/03q6oK9euB25TGC2Jp8uPZ"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 143332,
       "name": "Adrian, Ali and Gregory",
       "url": "https://open.spotify.com/track/17wNarAwouBJco5zx1LDKb"
-    },
-    {
-      "added_at": "2023-04-14 03:01:00",
-      "album": {
-        "name": "Consola\u00e7\u00e3o (Live)",
-        "url": "https://open.spotify.com/album/0idYgGKX0aTVmUVIJ3Dhzs"
-      },
-      "artists": [
-        {
-          "name": "Bola Sete",
-          "url": "https://open.spotify.com/artist/3vVLhTD4Etza2AvvWJaNyW"
-        }
-      ],
-      "duration_ms": 283965,
-      "name": "Consola\u00e7\u00e3o - Live",
-      "url": "https://open.spotify.com/track/49KG5t8YMzD1HIusWoNchm"
     },
     {
       "added_at": "2023-04-14 03:01:00",
@@ -335,6 +335,22 @@
     {
       "added_at": "2023-04-14 03:01:00",
       "album": {
+        "name": "Chamam\u00e9",
+        "url": "https://open.spotify.com/album/08ZqtBfCPA1XU0M2zNCkrZ"
+      },
+      "artists": [
+        {
+          "name": "YANGOS",
+          "url": "https://open.spotify.com/artist/3j6WayXYqFcOSQPfG5wqhO"
+        }
+      ],
+      "duration_ms": 202206,
+      "name": "Rasguido Serrano",
+      "url": "https://open.spotify.com/track/0vc6o6imhfWix6jNf6VVtA"
+    },
+    {
+      "added_at": "2023-04-14 03:01:00",
+      "album": {
         "name": "Or\u00edn, a L\u00edngua dos Anjos",
         "url": "https://open.spotify.com/album/592rNszuxHVYJAiRbpQAbF"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 240492,
       "name": "Or\u00edn",
       "url": "https://open.spotify.com/track/3eMveNQF1lc0y1iksVM2Jt"
-    },
-    {
-      "added_at": "2023-04-14 03:01:00",
-      "album": {
-        "name": "Chamam\u00e9",
-        "url": "https://open.spotify.com/album/08ZqtBfCPA1XU0M2zNCkrZ"
-      },
-      "artists": [
-        {
-          "name": "YANGOS",
-          "url": "https://open.spotify.com/artist/3j6WayXYqFcOSQPfG5wqhO"
-        }
-      ],
-      "duration_ms": 202206,
-      "name": "Rasguido Serrano",
-      "url": "https://open.spotify.com/track/0vc6o6imhfWix6jNf6VVtA"
     },
     {
       "added_at": "2023-04-14 03:01:00",
@@ -711,30 +711,26 @@
     {
       "added_at": "2023-04-14 03:01:00",
       "album": {
-        "name": "Rodopio",
-        "url": "https://open.spotify.com/album/7vffZYl4azgpaoYc4KIE1E"
+        "name": "Su\u00edte Amer\u00edndia",
+        "url": "https://open.spotify.com/album/1GDeC6yrxqWKX75FSn8nkg"
       },
       "artists": [
         {
-          "name": "Dani Gurgel",
-          "url": "https://open.spotify.com/artist/2j5N97IBFhpmtZ7n7qTLZw"
+          "name": "Yamandu Costa",
+          "url": "https://open.spotify.com/artist/3xnqS3i4fWn0P30qIlnWYV"
         },
         {
-          "name": "Debora Gurgel",
-          "url": "https://open.spotify.com/artist/4yMK2n4V4BuobNJfW6agFT"
+          "name": "Orquestra Assintom\u00e1tica",
+          "url": "https://open.spotify.com/artist/6aO53sBfidfLeCPuxVmnUm"
         },
         {
-          "name": "Thiago Rabello",
-          "url": "https://open.spotify.com/artist/56uVOkyK508SN0TWUegCBB"
-        },
-        {
-          "name": "Sidiel Vieira",
-          "url": "https://open.spotify.com/artist/6w5Vaup8DAh32WeB8OUr50"
+          "name": "Martin Sued",
+          "url": "https://open.spotify.com/artist/2tHlPF8Z3LhEA2rBrrEWOI"
         }
       ],
-      "duration_ms": 225573,
-      "name": "Rodopio",
-      "url": "https://open.spotify.com/track/2V9L1lqYBZH3HAr5pCIimi"
+      "duration_ms": 840973,
+      "name": "Su\u00edte Amer\u00edndia",
+      "url": "https://open.spotify.com/track/50i63kSRpuJXi9tAgrpDQF"
     },
     {
       "added_at": "2023-04-14 03:01:00",
@@ -763,18 +759,30 @@
     {
       "added_at": "2023-04-14 03:01:00",
       "album": {
-        "name": "Hermeto Solo: Por Diferentes Caminhos (Piano Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/4EcbBJsAWX950lcV0MRuBk"
+        "name": "Rodopio",
+        "url": "https://open.spotify.com/album/7vffZYl4azgpaoYc4KIE1E"
       },
       "artists": [
         {
-          "name": "Hermeto Pascoal",
-          "url": "https://open.spotify.com/artist/5COT5dVPZHSd0ZFyCQCm7s"
+          "name": "Dani Gurgel",
+          "url": "https://open.spotify.com/artist/2j5N97IBFhpmtZ7n7qTLZw"
+        },
+        {
+          "name": "Debora Gurgel",
+          "url": "https://open.spotify.com/artist/4yMK2n4V4BuobNJfW6agFT"
+        },
+        {
+          "name": "Thiago Rabello",
+          "url": "https://open.spotify.com/artist/56uVOkyK508SN0TWUegCBB"
+        },
+        {
+          "name": "Sidiel Vieira",
+          "url": "https://open.spotify.com/artist/6w5Vaup8DAh32WeB8OUr50"
         }
       ],
-      "duration_ms": 328437,
-      "name": "Pixitotinha",
-      "url": "https://open.spotify.com/track/7q4pF9QPLQPhq6SXzsisrd"
+      "duration_ms": 225573,
+      "name": "Rodopio",
+      "url": "https://open.spotify.com/track/2V9L1lqYBZH3HAr5pCIimi"
     },
     {
       "added_at": "2023-04-14 03:01:00",
@@ -791,6 +799,22 @@
       "duration_ms": 225184,
       "name": "Porto Rio",
       "url": "https://open.spotify.com/track/4cju6IU8utozhyEHYrPua9"
+    },
+    {
+      "added_at": "2023-04-14 03:01:00",
+      "album": {
+        "name": "Hermeto Solo: Por Diferentes Caminhos (Piano Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4EcbBJsAWX950lcV0MRuBk"
+      },
+      "artists": [
+        {
+          "name": "Hermeto Pascoal",
+          "url": "https://open.spotify.com/artist/5COT5dVPZHSd0ZFyCQCm7s"
+        }
+      ],
+      "duration_ms": 328437,
+      "name": "Pixitotinha",
+      "url": "https://open.spotify.com/track/7q4pF9QPLQPhq6SXzsisrd"
     },
     {
       "added_at": "2023-04-14 03:01:00",
@@ -1039,30 +1063,6 @@
     {
       "added_at": "2023-04-14 03:01:00",
       "album": {
-        "name": "Experimento 1",
-        "url": "https://open.spotify.com/album/7kpMqU9gIfdNoCPaSKIhzr"
-      },
-      "artists": [
-        {
-          "name": "Benjamim Taubkin",
-          "url": "https://open.spotify.com/artist/3RXcmh3eKjiIG9XNP3XOmy"
-        },
-        {
-          "name": "Kab\u00e9 Pinheiro",
-          "url": "https://open.spotify.com/artist/6pcIIwCAElxXLUu3iw3xAF"
-        },
-        {
-          "name": "Jo\u00e3o Taubkin",
-          "url": "https://open.spotify.com/artist/5RUKQNNnVb67S4HJuEHgzc"
-        }
-      ],
-      "duration_ms": 576170,
-      "name": "Experimento 1",
-      "url": "https://open.spotify.com/track/2htZhUGpBaF6kkdXmRka0t"
-    },
-    {
-      "added_at": "2023-04-14 03:01:00",
-      "album": {
         "name": "M\u00fasica Disfar\u00e7ada de Gente",
         "url": "https://open.spotify.com/album/7E0MGmfOTV3l0UOSnYib5r"
       },
@@ -1111,26 +1111,26 @@
     {
       "added_at": "2023-04-14 03:01:00",
       "album": {
-        "name": "Mirada Pervertida (Bossa Guitar)",
-        "url": "https://open.spotify.com/album/1FOofSDQ5Vcy7LF5TS3ZPP"
+        "name": "Experimento 1",
+        "url": "https://open.spotify.com/album/7kpMqU9gIfdNoCPaSKIhzr"
       },
       "artists": [
         {
-          "name": "Rio Bossa Trio",
-          "url": "https://open.spotify.com/artist/1QpgA0cBoshohw9L6YNueu"
+          "name": "Benjamim Taubkin",
+          "url": "https://open.spotify.com/artist/3RXcmh3eKjiIG9XNP3XOmy"
         },
         {
-          "name": "Bossasonic",
-          "url": "https://open.spotify.com/artist/1rMrvKch63UbSVbU3DwlLv"
+          "name": "Kab\u00e9 Pinheiro",
+          "url": "https://open.spotify.com/artist/6pcIIwCAElxXLUu3iw3xAF"
         },
         {
-          "name": "Taryn Szpilman",
-          "url": "https://open.spotify.com/artist/0ciHYgiBCJR0vpWalvaMKC"
+          "name": "Jo\u00e3o Taubkin",
+          "url": "https://open.spotify.com/artist/5RUKQNNnVb67S4HJuEHgzc"
         }
       ],
-      "duration_ms": 218174,
-      "name": "Nadie Tiene El Alma Pura",
-      "url": "https://open.spotify.com/track/4GxOPQmmCLZ393WupYhhlQ"
+      "duration_ms": 576170,
+      "name": "Experimento 1",
+      "url": "https://open.spotify.com/track/2htZhUGpBaF6kkdXmRka0t"
     },
     {
       "added_at": "2023-04-14 03:01:00",
@@ -1171,26 +1171,26 @@
     {
       "added_at": "2023-04-14 03:01:00",
       "album": {
-        "name": "Su\u00edte Amer\u00edndia",
-        "url": "https://open.spotify.com/album/1GDeC6yrxqWKX75FSn8nkg"
+        "name": "Mirada Pervertida (Bossa Guitar)",
+        "url": "https://open.spotify.com/album/1FOofSDQ5Vcy7LF5TS3ZPP"
       },
       "artists": [
         {
-          "name": "Yamandu Costa",
-          "url": "https://open.spotify.com/artist/3xnqS3i4fWn0P30qIlnWYV"
+          "name": "Rio Bossa Trio",
+          "url": "https://open.spotify.com/artist/1QpgA0cBoshohw9L6YNueu"
         },
         {
-          "name": "Orquestra Assintom\u00e1tica",
-          "url": "https://open.spotify.com/artist/6aO53sBfidfLeCPuxVmnUm"
+          "name": "Bossasonic",
+          "url": "https://open.spotify.com/artist/1rMrvKch63UbSVbU3DwlLv"
         },
         {
-          "name": "Martin Sued",
-          "url": "https://open.spotify.com/artist/2tHlPF8Z3LhEA2rBrrEWOI"
+          "name": "Taryn Szpilman",
+          "url": "https://open.spotify.com/artist/0ciHYgiBCJR0vpWalvaMKC"
         }
       ],
-      "duration_ms": 840973,
-      "name": "Su\u00edte Amer\u00edndia",
-      "url": "https://open.spotify.com/track/50i63kSRpuJXi9tAgrpDQF"
+      "duration_ms": 218174,
+      "name": "Nadie Tiene El Alma Pura",
+      "url": "https://open.spotify.com/track/4GxOPQmmCLZ393WupYhhlQ"
     },
     {
       "added_at": "2023-04-14 03:01:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-04-14 03:01:00",
       "album": {
-        "name": "Can\u00e7\u00e3o da Odalisca",
-        "url": "https://open.spotify.com/album/1OZtzAd1bGvkgwI4gz0LCh"
-      },
-      "artists": [
-        {
-          "name": "Caetano Brasil",
-          "url": "https://open.spotify.com/artist/7tLeUzTAGpSFzlYyQACBNP"
-        }
-      ],
-      "duration_ms": 365120,
-      "name": "Can\u00e7\u00e3o da Odalisca",
-      "url": "https://open.spotify.com/track/7m81jgiqOawSB9F7eP8wpn"
-    },
-    {
-      "added_at": "2023-04-14 03:01:00",
-      "album": {
         "name": "Um",
         "url": "https://open.spotify.com/album/278T99dsaxiUd5LR1I99jO"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 270012,
       "name": "With Ernesto",
       "url": "https://open.spotify.com/track/3ufrJqihyJzskjw6NVL7RD"
+    },
+    {
+      "added_at": "2023-04-14 03:01:00",
+      "album": {
+        "name": "Can\u00e7\u00e3o da Odalisca",
+        "url": "https://open.spotify.com/album/1OZtzAd1bGvkgwI4gz0LCh"
+      },
+      "artists": [
+        {
+          "name": "Caetano Brasil",
+          "url": "https://open.spotify.com/artist/7tLeUzTAGpSFzlYyQACBNP"
+        }
+      ],
+      "duration_ms": 365120,
+      "name": "Can\u00e7\u00e3o da Odalisca",
+      "url": "https://open.spotify.com/track/7m81jgiqOawSB9F7eP8wpn"
     },
     {
       "added_at": "2023-04-14 03:01:00",
@@ -1443,6 +1443,30 @@
     {
       "added_at": "2023-04-14 03:01:00",
       "album": {
+        "name": "Kurukere",
+        "url": "https://open.spotify.com/album/5wDaxoRCIWH7wWDmwQQSKL"
+      },
+      "artists": [
+        {
+          "name": "Joao Parahyba",
+          "url": "https://open.spotify.com/artist/7h9XKFZhXoppj0vQvRBShW"
+        },
+        {
+          "name": "Marcos Romera",
+          "url": "https://open.spotify.com/artist/3YOrSCZPZyMblbJ0EXkDrV"
+        },
+        {
+          "name": "Marcelo Mariano",
+          "url": "https://open.spotify.com/artist/0tmAPQ38pisrrZR7JD1ILk"
+        }
+      ],
+      "duration_ms": 352329,
+      "name": "Kurukere",
+      "url": "https://open.spotify.com/track/7KRa4kuRagWi0aGJL06CxB"
+    },
+    {
+      "added_at": "2023-04-14 03:01:00",
+      "album": {
         "name": "Chico Macedo 4teto",
         "url": "https://open.spotify.com/album/7Dm3ppcSlWTTxqP1UZoFGy"
       },
@@ -1455,26 +1479,6 @@
       "duration_ms": 304880,
       "name": "Sampa",
       "url": "https://open.spotify.com/track/4FVMTBJXWnyiSCCUKLsKrE"
-    },
-    {
-      "added_at": "2023-04-14 03:01:00",
-      "album": {
-        "name": "Clim\u00e3o",
-        "url": "https://open.spotify.com/album/45j1UtPcqzwclLJlZcFjBm"
-      },
-      "artists": [
-        {
-          "name": "RP Project",
-          "url": "https://open.spotify.com/artist/2G96dMRTHqkjyMbCO9htbY"
-        },
-        {
-          "name": "Walmir Gil",
-          "url": "https://open.spotify.com/artist/3nOhlQgPhTYWJ9WOvyFygs"
-        }
-      ],
-      "duration_ms": 430563,
-      "name": "Clim\u00e3o",
-      "url": "https://open.spotify.com/track/6ovDXiIzy40XMI85632P48"
     },
     {
       "added_at": "2023-04-14 03:01:00",
@@ -1515,26 +1519,22 @@
     {
       "added_at": "2023-04-14 03:01:00",
       "album": {
-        "name": "Kurukere",
-        "url": "https://open.spotify.com/album/5wDaxoRCIWH7wWDmwQQSKL"
+        "name": "Clim\u00e3o",
+        "url": "https://open.spotify.com/album/45j1UtPcqzwclLJlZcFjBm"
       },
       "artists": [
         {
-          "name": "Joao Parahyba",
-          "url": "https://open.spotify.com/artist/7h9XKFZhXoppj0vQvRBShW"
+          "name": "RP Project",
+          "url": "https://open.spotify.com/artist/2G96dMRTHqkjyMbCO9htbY"
         },
         {
-          "name": "Marcos Romera",
-          "url": "https://open.spotify.com/artist/3YOrSCZPZyMblbJ0EXkDrV"
-        },
-        {
-          "name": "Marcelo Mariano",
-          "url": "https://open.spotify.com/artist/0tmAPQ38pisrrZR7JD1ILk"
+          "name": "Walmir Gil",
+          "url": "https://open.spotify.com/artist/3nOhlQgPhTYWJ9WOvyFygs"
         }
       ],
-      "duration_ms": 352329,
-      "name": "Kurukere",
-      "url": "https://open.spotify.com/track/7KRa4kuRagWi0aGJL06CxB"
+      "duration_ms": 430563,
+      "name": "Clim\u00e3o",
+      "url": "https://open.spotify.com/track/6ovDXiIzy40XMI85632P48"
     },
     {
       "added_at": "2023-04-14 03:01:00",
@@ -1727,30 +1727,6 @@
     {
       "added_at": "2023-04-14 03:01:00",
       "album": {
-        "name": "AMF",
-        "url": "https://open.spotify.com/album/3dB8a8vroSsE20RMZmJuBf"
-      },
-      "artists": [
-        {
-          "name": "Ana Azevedo",
-          "url": "https://open.spotify.com/artist/2frZmyP2Y7Hx6le3nOVlHn"
-        },
-        {
-          "name": "Augusto Mattoso",
-          "url": "https://open.spotify.com/artist/0luiQsbwEuJHz0MjyajJ4Y"
-        },
-        {
-          "name": "Andr\u00e9 Fr\u00f3es",
-          "url": "https://open.spotify.com/artist/0WYPjKev7drYwzpy8GuRje"
-        }
-      ],
-      "duration_ms": 334890,
-      "name": "Serena",
-      "url": "https://open.spotify.com/track/12pbppQGlnGQHd4cRxEYDO"
-    },
-    {
-      "added_at": "2023-04-14 03:01:00",
-      "album": {
         "name": "Fugindo do Sete",
         "url": "https://open.spotify.com/album/7rHJa0fWmXLk1nlye0pyzk"
       },
@@ -1771,6 +1747,30 @@
       "duration_ms": 300659,
       "name": "Fugindo do Sete",
       "url": "https://open.spotify.com/track/5bxEGDBpwFmRVmCGdfJclt"
+    },
+    {
+      "added_at": "2023-04-14 03:01:00",
+      "album": {
+        "name": "AMF",
+        "url": "https://open.spotify.com/album/3dB8a8vroSsE20RMZmJuBf"
+      },
+      "artists": [
+        {
+          "name": "Ana Azevedo",
+          "url": "https://open.spotify.com/artist/2frZmyP2Y7Hx6le3nOVlHn"
+        },
+        {
+          "name": "Augusto Mattoso",
+          "url": "https://open.spotify.com/artist/0luiQsbwEuJHz0MjyajJ4Y"
+        },
+        {
+          "name": "Andr\u00e9 Fr\u00f3es",
+          "url": "https://open.spotify.com/artist/0WYPjKev7drYwzpy8GuRje"
+        }
+      ],
+      "duration_ms": 334890,
+      "name": "Serena",
+      "url": "https://open.spotify.com/track/12pbppQGlnGQHd4cRxEYDO"
     },
     {
       "added_at": "2023-04-14 03:01:00",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2023-04-14 03:01:00",
       "album": {
-        "name": "Deyeh",
-        "url": "https://open.spotify.com/album/7DjcAv2AKCNczTFvqsgsxb"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Monteiro",
-          "url": "https://open.spotify.com/artist/2toMmE1j1zvEIdZCmTJbGd"
-        }
-      ],
-      "duration_ms": 205466,
-      "name": "Kahkoon",
-      "url": "https://open.spotify.com/track/5c6yOxUijK7K5YtEde3rSt"
-    },
-    {
-      "added_at": "2023-04-14 03:01:00",
-      "album": {
         "name": "When the Answer Is a Question",
         "url": "https://open.spotify.com/album/2FBNA5BgJ4AlPqNf7DNSH6"
       },
@@ -1859,26 +1843,18 @@
     {
       "added_at": "2023-04-14 03:01:00",
       "album": {
-        "name": "Sobre a Lua e os Passos",
-        "url": "https://open.spotify.com/album/21wGzLdyRWonWnjcEuwlqX"
+        "name": "Deyeh",
+        "url": "https://open.spotify.com/album/7DjcAv2AKCNczTFvqsgsxb"
       },
       "artists": [
         {
-          "name": "Trov\u00e3o Rocha",
-          "url": "https://open.spotify.com/artist/0u2Fj8zfHGiA82dDWCptaL"
-        },
-        {
-          "name": "Sebastian Cavallaro",
-          "url": "https://open.spotify.com/artist/3P6Kv3myWy1y4P631huZhk"
-        },
-        {
-          "name": "Victor Bub",
-          "url": "https://open.spotify.com/artist/7GnTv86SxOeGKlLD4eYtGl"
+          "name": "Marcelo Monteiro",
+          "url": "https://open.spotify.com/artist/2toMmE1j1zvEIdZCmTJbGd"
         }
       ],
-      "duration_ms": 247683,
-      "name": "Sobre a Lua e os Passos",
-      "url": "https://open.spotify.com/track/3lZnN3zIgJA0zhFevSDnw3"
+      "duration_ms": 205466,
+      "name": "Kahkoon",
+      "url": "https://open.spotify.com/track/5c6yOxUijK7K5YtEde3rSt"
     },
     {
       "added_at": "2023-04-14 03:01:00",
@@ -1903,38 +1879,26 @@
     {
       "added_at": "2023-04-14 03:01:00",
       "album": {
-        "name": "Someone To Watch Over Me (Meet Tetel)",
-        "url": "https://open.spotify.com/album/28z8cVf1apcyRfvVflv4rq"
+        "name": "Sobre a Lua e os Passos",
+        "url": "https://open.spotify.com/album/21wGzLdyRWonWnjcEuwlqX"
       },
       "artists": [
         {
-          "name": "Tetel Di Babuya",
-          "url": "https://open.spotify.com/artist/5cPY99VZsIVVJzYcTutgEJ"
+          "name": "Trov\u00e3o Rocha",
+          "url": "https://open.spotify.com/artist/0u2Fj8zfHGiA82dDWCptaL"
         },
         {
-          "name": "Daniel Grajew",
-          "url": "https://open.spotify.com/artist/4ef0QbgppvhWK6xEH9gb5t"
-        }
-      ],
-      "duration_ms": 220560,
-      "name": "Someone To Watch Over Me - Meet Tetel",
-      "url": "https://open.spotify.com/track/5SnHGVR4rSZzUdPrV8Qxp2"
-    },
-    {
-      "added_at": "2023-04-14 03:01:00",
-      "album": {
-        "name": "\u00a1\u00c1ndale!",
-        "url": "https://open.spotify.com/album/02J1eI3x5BA6zwdzv9zuRu"
-      },
-      "artists": [
+          "name": "Sebastian Cavallaro",
+          "url": "https://open.spotify.com/artist/3P6Kv3myWy1y4P631huZhk"
+        },
         {
-          "name": "the flux trio",
-          "url": "https://open.spotify.com/artist/5Y9M3zHzDU3SFeVOl1fnS2"
+          "name": "Victor Bub",
+          "url": "https://open.spotify.com/artist/7GnTv86SxOeGKlLD4eYtGl"
         }
       ],
-      "duration_ms": 202272,
-      "name": "\u00a1\u00c1ndale!",
-      "url": "https://open.spotify.com/track/2gyPzt77ygXLHatfX7DiWi"
+      "duration_ms": 247683,
+      "name": "Sobre a Lua e os Passos",
+      "url": "https://open.spotify.com/track/3lZnN3zIgJA0zhFevSDnw3"
     },
     {
       "added_at": "2023-04-14 03:01:00",
@@ -1959,6 +1923,22 @@
       "duration_ms": 416645,
       "name": "Es\u00e8nt\u00e1y\u00e9",
       "url": "https://open.spotify.com/track/5Ql86e570c4Ra4sWGyCrQv"
+    },
+    {
+      "added_at": "2023-04-14 03:01:00",
+      "album": {
+        "name": "\u00a1\u00c1ndale!",
+        "url": "https://open.spotify.com/album/02J1eI3x5BA6zwdzv9zuRu"
+      },
+      "artists": [
+        {
+          "name": "the flux trio",
+          "url": "https://open.spotify.com/artist/5Y9M3zHzDU3SFeVOl1fnS2"
+        }
+      ],
+      "duration_ms": 202272,
+      "name": "\u00a1\u00c1ndale!",
+      "url": "https://open.spotify.com/track/2gyPzt77ygXLHatfX7DiWi"
     },
     {
       "added_at": "2023-04-14 03:01:00",
@@ -1995,18 +1975,22 @@
     {
       "added_at": "2023-04-14 03:01:00",
       "album": {
-        "name": "Cinepoesia: Samba do \u00c1rvore",
-        "url": "https://open.spotify.com/album/64Muop8ZCdm90mIyf1Llvk"
+        "name": "Someone To Watch Over Me (Meet Tetel)",
+        "url": "https://open.spotify.com/album/28z8cVf1apcyRfvVflv4rq"
       },
       "artists": [
         {
-          "name": "L\u00e9a Freire",
-          "url": "https://open.spotify.com/artist/5Xi6LikdXrsu4boWVR03Uo"
+          "name": "Tetel Di Babuya",
+          "url": "https://open.spotify.com/artist/5cPY99VZsIVVJzYcTutgEJ"
+        },
+        {
+          "name": "Daniel Grajew",
+          "url": "https://open.spotify.com/artist/4ef0QbgppvhWK6xEH9gb5t"
         }
       ],
-      "duration_ms": 163169,
-      "name": "Cinepoesia: Samba do \u00c1rvore",
-      "url": "https://open.spotify.com/track/5Y8IdY1g5QhXlC9hZR1Db4"
+      "duration_ms": 220560,
+      "name": "Someone To Watch Over Me - Meet Tetel",
+      "url": "https://open.spotify.com/track/5SnHGVR4rSZzUdPrV8Qxp2"
     },
     {
       "added_at": "2023-04-14 03:01:00",
@@ -2043,6 +2027,22 @@
       "duration_ms": 261073,
       "name": "L\u00e2mina",
       "url": "https://open.spotify.com/track/78lwAylCLHLfhC21j96FGt"
+    },
+    {
+      "added_at": "2023-04-14 03:01:00",
+      "album": {
+        "name": "Cinepoesia: Samba do \u00c1rvore",
+        "url": "https://open.spotify.com/album/64Muop8ZCdm90mIyf1Llvk"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9a Freire",
+          "url": "https://open.spotify.com/artist/5Xi6LikdXrsu4boWVR03Uo"
+        }
+      ],
+      "duration_ms": 163169,
+      "name": "Cinepoesia: Samba do \u00c1rvore",
+      "url": "https://open.spotify.com/track/5Y8IdY1g5QhXlC9hZR1Db4"
     },
     {
       "added_at": "2023-04-14 03:01:00",

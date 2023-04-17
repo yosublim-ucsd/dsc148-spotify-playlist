@@ -1,12 +1,12 @@
 {
   "description": "Cruise to the smooth grooves of these yacht rock tunes",
-  "num_followers": 1364173,
+  "num_followers": 1365027,
   "original_name": "Yacht Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTI0NTc2MiwwMDAwMDAwMGRmNmRkNzAzOGM4MTEwYTAxYzg1N2Q3NTAxMjg4NDA5",
+  "snapshot_id": "MTY2OTI0NTc2MiwwMDAwMDAwMDhjMDVlMGVlMjFjODQwMDY3YmZkNDc2Y2QwMmQzNzgw",
   "tracks": [
     {
       "added_at": "2022-11-23 23:22:42",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-11-23 23:22:42",
       "album": {
-        "name": "Careless",
-        "url": "https://open.spotify.com/album/08zWo4xb7GZ5e3dyUOUAmm"
-      },
-      "artists": [
-        {
-          "name": "Stephen Bishop",
-          "url": "https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN"
-        }
-      ],
-      "duration_ms": 181893,
-      "name": "On And On",
-      "url": "https://open.spotify.com/track/0Vth3l4XAo8hNYmxjzhr2y"
-    },
-    {
-      "added_at": "2022-11-23 23:22:42",
-      "album": {
         "name": "Five-A-Side",
         "url": "https://open.spotify.com/album/5hC1ciYNtewV8gncsKHt1F"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 204226,
       "name": "How Long",
       "url": "https://open.spotify.com/track/4AjKVyNUMdUveKK5OH1OJD"
+    },
+    {
+      "added_at": "2022-11-23 23:22:42",
+      "album": {
+        "name": "Careless",
+        "url": "https://open.spotify.com/album/08zWo4xb7GZ5e3dyUOUAmm"
+      },
+      "artists": [
+        {
+          "name": "Stephen Bishop",
+          "url": "https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN"
+        }
+      ],
+      "duration_ms": 181893,
+      "name": "On And On",
+      "url": "https://open.spotify.com/track/0Vth3l4XAo8hNYmxjzhr2y"
     },
     {
       "added_at": "2022-11-23 23:22:42",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-11-23 23:22:42",
       "album": {
-        "name": "Robbie Dupree",
-        "url": "https://open.spotify.com/album/1sY2wLftl601YlV9YUQFgW"
-      },
-      "artists": [
-        {
-          "name": "Robbie Dupree",
-          "url": "https://open.spotify.com/artist/3jrgftS3TYbNxcPt5itKhz"
-        }
-      ],
-      "duration_ms": 213973,
-      "name": "Steal Away - Remastered",
-      "url": "https://open.spotify.com/track/7v5rsCN3LhX9XaIlWyTdx3"
-    },
-    {
-      "added_at": "2022-11-23 23:22:42",
-      "album": {
         "name": "The Essential Daryl Hall & John Oates",
         "url": "https://open.spotify.com/album/0gCDvloPR42pZRZhmbGYVI"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 190706,
       "name": "You Make My Dreams (Come True)",
       "url": "https://open.spotify.com/track/2dlEdDEmuQsrcXaAL3Znzi"
+    },
+    {
+      "added_at": "2022-11-23 23:22:42",
+      "album": {
+        "name": "Robbie Dupree",
+        "url": "https://open.spotify.com/album/1sY2wLftl601YlV9YUQFgW"
+      },
+      "artists": [
+        {
+          "name": "Robbie Dupree",
+          "url": "https://open.spotify.com/artist/3jrgftS3TYbNxcPt5itKhz"
+        }
+      ],
+      "duration_ms": 213973,
+      "name": "Steal Away - Remastered",
+      "url": "https://open.spotify.com/track/7v5rsCN3LhX9XaIlWyTdx3"
     },
     {
       "added_at": "2022-11-23 23:22:42",

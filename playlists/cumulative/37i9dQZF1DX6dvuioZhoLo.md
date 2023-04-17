@@ -4,7 +4,7 @@
 
 > New makes old\. Cover: Sierra Ferrell
 
-195 songs - 11 hr 34 min
+196 songs - 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Black & Blue](https://open.spotify.com/track/529y37n9VZXubT1KlWM78i) | [Zephaniah OHora](https://open.spotify.com/artist/6kWzLAW2ZUuy22mLrdwZSY) | [Listening to the Music](https://open.spotify.com/album/13VYDl6nj8dGQgyWiZPOJO) | 3:10 | 2021-11-12 |  |
 | [Blood on Your Bootheels](https://open.spotify.com/track/5qfPr1jisW3bGULZd5UXtf) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [I Will Not Be Afraid](https://open.spotify.com/album/14tLWuboMq3NyGJV4lXkyk) | 3:15 | 2021-11-12 |  |
 | [Blue Kentucky Girl \- 2003 Remaster](https://open.spotify.com/track/3O9GZtd0hf6RH6EJjb5KXB) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Blue Kentucky Girl \(Expanded & Remastered\)](https://open.spotify.com/album/00tOvqGXbQLpbPMRmYjs5d) | 3:20 | 2021-11-12 |  |
+| [BROKEN PIECES](https://open.spotify.com/track/6oR93SbtqVEboBslSAMCS1) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [For When It Hurts](https://open.spotify.com/album/4fyML49o9PKbI3jaTFA7gH) | 3:02 | 2023-04-14 |  |
 | [Broken Wing](https://open.spotify.com/track/1OGVxDEyybBtIFSECRQA2A) | [Evil](https://open.spotify.com/artist/63gbws6nuYUlQpwWtTlPqD) | [Broken Wing](https://open.spotify.com/album/2y3Pa8bQlZGXTW45TaCYQr) | 4:35 | 2021-11-12 |  |
 | [Buddies](https://open.spotify.com/track/2LIOtDQuQ3mJuB1OOHPxIk) | [Lauren Barth](https://open.spotify.com/artist/21aYYkFIsLevgFeEFKbiC1) | [The Oklahoma Room at Folk Alliance 2017](https://open.spotify.com/album/5sBVk8l6NJ4H82qOkMjKHF) | 3:22 | 2021-11-12 | 2022-07-27 |
 | [Captain](https://open.spotify.com/track/3Y9lUEz7m6066pMifT9159) | [Nicole Atkins](https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO), [Britt Daniel](https://open.spotify.com/artist/50VwXblSjWqTmcDO1OqigH) | [Italian Ice](https://open.spotify.com/album/74UN1ucm77OPXi3VyWVgAE) | 3:07 | 2021-11-12 | 2022-07-29 |
@@ -159,7 +160,7 @@
 | [Run\-down Neighborhood](https://open.spotify.com/track/4d75miZVKZd75MiAVWZvDa) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/5AmFYqUT1cu6JErSTHw5k6) | 3:06 | 2021-11-12 | 2022-07-29 |
 | [Run\-down Neighborhood](https://open.spotify.com/track/5a0zfY27mdOdvjwypqVVhT) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/2wnC0fWey2uAnCBsrdTeqf) | 3:06 | 2022-04-01 |  |
 | [Runnin'](https://open.spotify.com/track/2EM8Ann4TIcFjnVtNpkT8D) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [Runnin'](https://open.spotify.com/album/0qcRycVTiFPrDF2DKQdRCv) | 3:57 | 2021-11-12 | 2022-07-29 |
-| [Same Devil \(feat\. Brandi Carlile\)](https://open.spotify.com/track/11ztTGjFtV3MNoNx0XvApC) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Same Devil \(feat\. Brandi Carlile\)](https://open.spotify.com/album/6XL1xCLdUOU6j35YspCkqO) | 3:07 | 2021-11-12 |  |
+| [Same Devil \(feat\. Brandi Carlile\)](https://open.spotify.com/track/11ztTGjFtV3MNoNx0XvApC) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Same Devil \(feat\. Brandi Carlile\)](https://open.spotify.com/album/6XL1xCLdUOU6j35YspCkqO) | 3:07 | 2021-11-12 | 2023-04-17 |
 | [Shakedown](https://open.spotify.com/track/5TiFSXE1DInbcr0xYeM2k4) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Shakedown](https://open.spotify.com/album/6H2F39aTyw02VjBsUyYmUb) | 2:46 | 2021-11-12 | 2022-07-29 |
 | [Shakedown](https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 2:46 | 2022-04-01 |  |
 | [Sold My Soul](https://open.spotify.com/track/2xklhH0eIzxKyagF3XAOYL) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Sold My Soul](https://open.spotify.com/album/1nh6RFcSZx7lU2zLi9seOR) | 6:11 | 2021-11-12 | 2022-07-29 |

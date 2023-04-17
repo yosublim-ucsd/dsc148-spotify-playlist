@@ -1,12 +1,12 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Cartel de Santa y La Kelly en portada.",
-  "num_followers": 544462,
+  "num_followers": 545223,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ4NzE1MywwMDAwMDAwMDFkZTFlNGVkZmY4Yzk1NzBhYjMzNDg2NzFmMjkwYWYz",
+  "snapshot_id": "MTY4MTQ4NzE1MywwMDAwMDAwMDkyMDM3NGI1MDc3MGZkMmNhZWY0YTIxM2Y1N2M5OTdh",
   "tracks": [
     {
       "added_at": "2023-04-14 06:00:00",
@@ -379,22 +379,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Ya Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/0v7kIoSFh2xLJX5cU8PZkK"
+        "name": "Tronando Ligas",
+        "url": "https://open.spotify.com/album/7idHMYzKwME3BmhHiusrJ3"
       },
       "artists": [
         {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         },
         {
           "name": "Junior H",
           "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         }
       ],
-      "duration_ms": 177666,
-      "name": "Ya Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/49lbKqbCI8SmJfW64OYXGZ"
+      "duration_ms": 155818,
+      "name": "Tronando Ligas",
+      "url": "https://open.spotify.com/track/6Xfu24Hd3ufGrpGyZFy07M"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -419,26 +419,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Tronando Ligas",
-        "url": "https://open.spotify.com/album/7idHMYzKwME3BmhHiusrJ3"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 155818,
-      "name": "Tronando Ligas",
-      "url": "https://open.spotify.com/track/6Xfu24Hd3ufGrpGyZFy07M"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "Ando Enfocado",
         "url": "https://open.spotify.com/album/74aFegGXDQOr3fJPtf5QYq"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 184106,
       "name": "Ando Enfocado",
       "url": "https://open.spotify.com/track/1Gm2qMRuxnuqnM62xyp89d"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Ya Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0v7kIoSFh2xLJX5cU8PZkK"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 177666,
+      "name": "Ya Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/49lbKqbCI8SmJfW64OYXGZ"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -559,26 +559,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "El Tsurito",
-        "url": "https://open.spotify.com/album/2Vsd77mgdyNDlYG1XYmBuA"
+        "name": "Calidad",
+        "url": "https://open.spotify.com/album/2ZaaYylAxHJ6sPJe9mHwHb"
       },
       "artists": [
         {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         },
         {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+          "name": "Luis Mexia",
+          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
         }
       ],
-      "duration_ms": 194518,
-      "name": "El Tsurito",
-      "url": "https://open.spotify.com/track/1piak4R3yW4otWWyaSqyCH"
+      "duration_ms": 170053,
+      "name": "Calidad",
+      "url": "https://open.spotify.com/track/0uBcoM4zxRXk7kmsmxoiFS"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -599,22 +595,26 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Calidad",
-        "url": "https://open.spotify.com/album/2ZaaYylAxHJ6sPJe9mHwHb"
+        "name": "El Tsurito",
+        "url": "https://open.spotify.com/album/2Vsd77mgdyNDlYG1XYmBuA"
       },
       "artists": [
         {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         },
         {
-          "name": "Luis Mexia",
-          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 170053,
-      "name": "Calidad",
-      "url": "https://open.spotify.com/track/0uBcoM4zxRXk7kmsmxoiFS"
+      "duration_ms": 194518,
+      "name": "El Tsurito",
+      "url": "https://open.spotify.com/track/1piak4R3yW4otWWyaSqyCH"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -675,26 +675,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Solita (En Vivo)",
-        "url": "https://open.spotify.com/album/50ABTjpmglksLMkTdoo1lP"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 215984,
-      "name": "Solita (En Vivo)",
-      "url": "https://open.spotify.com/track/6ggHV1SCPqLLV5U2kyW9qD"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "B\u00e9lico y Cholo",
         "url": "https://open.spotify.com/album/3TLunjZoDqcC2dicF8XWY2"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 202218,
       "name": "B\u00e9lico y Cholo",
       "url": "https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Solita (En Vivo)",
+        "url": "https://open.spotify.com/album/50ABTjpmglksLMkTdoo1lP"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 215984,
+      "name": "Solita (En Vivo)",
+      "url": "https://open.spotify.com/track/6ggHV1SCPqLLV5U2kyW9qD"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -979,26 +979,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "LUNA",
-        "url": "https://open.spotify.com/album/7zxhGn6Fq3pcpOpHAcOpAD"
-      },
-      "artists": [
-        {
-          "name": "Jd Pantoja",
-          "url": "https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK"
-        },
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        }
-      ],
-      "duration_ms": 225640,
-      "name": "LUNA",
-      "url": "https://open.spotify.com/track/4lFKjvCI3fQ1yMuKvdEvGS"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "La Ni\u00f1a del Volc\u00e1n (Polocorp Remix)",
         "url": "https://open.spotify.com/album/4uQdPn1drtbUwDoYKfw99n"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 324556,
       "name": "La Ni\u00f1a del Volc\u00e1n (Polocorp Remix)",
       "url": "https://open.spotify.com/track/0aw4Dcu2XxEuLtXaepPTEA"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "LUNA",
+        "url": "https://open.spotify.com/album/7zxhGn6Fq3pcpOpHAcOpAD"
+      },
+      "artists": [
+        {
+          "name": "Jd Pantoja",
+          "url": "https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK"
+        },
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        }
+      ],
+      "duration_ms": 225640,
+      "name": "LUNA",
+      "url": "https://open.spotify.com/track/4lFKjvCI3fQ1yMuKvdEvGS"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
+        "name": "1Trago",
+        "url": "https://open.spotify.com/album/61bbTZzUgZZnZPpuKYHj26"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 201106,
+      "name": "1Trago",
+      "url": "https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
         "name": "Inexperto En Olvidarte",
         "url": "https://open.spotify.com/album/4ZBMLo0vXL00kQqp3SeebE"
       },
@@ -1087,42 +1103,6 @@
       "duration_ms": 185213,
       "name": "Inexperto En Olvidarte",
       "url": "https://open.spotify.com/track/1WvNTYRxyodbQ4NPmO9jKZ"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "PUNTO Y APARTE",
-        "url": "https://open.spotify.com/album/7gweMRej5j0jzExxgwreci"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 152823,
-      "name": "Me Dej\u00e9 Ir Con Todo",
-      "url": "https://open.spotify.com/track/1kBqb0BA14qxbXrgqlLHie"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Chorumbo",
-        "url": "https://open.spotify.com/album/6RPOQC6rd85F9Nuxp5W2Fh"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        },
-        {
-          "name": "Hans el Oso",
-          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
-        }
-      ],
-      "duration_ms": 200141,
-      "name": "Chorumbo",
-      "url": "https://open.spotify.com/track/6LQn8zFYS44ak3qAUYsp8b"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1143,6 +1123,62 @@
       "duration_ms": 211961,
       "name": "M.L.P",
       "url": "https://open.spotify.com/track/0oYk83uZu4S5ROlM8VZMGl"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "PUNTO Y APARTE",
+        "url": "https://open.spotify.com/album/7gweMRej5j0jzExxgwreci"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 152823,
+      "name": "Me Dej\u00e9 Ir Con Todo",
+      "url": "https://open.spotify.com/track/1kBqb0BA14qxbXrgqlLHie"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Rumores",
+        "url": "https://open.spotify.com/album/1NK0ocpcz8JpZfsdzNYJid"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 202594,
+      "name": "Rumores",
+      "url": "https://open.spotify.com/track/3OUkQJY3YQ00HwD5GPuk7A"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Chorumbo",
+        "url": "https://open.spotify.com/album/6RPOQC6rd85F9Nuxp5W2Fh"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        },
+        {
+          "name": "Hans el Oso",
+          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
+        }
+      ],
+      "duration_ms": 200141,
+      "name": "Chorumbo",
+      "url": "https://open.spotify.com/track/6LQn8zFYS44ak3qAUYsp8b"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1199,6 +1235,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
+        "name": "Te Invito a Ser Feliz",
+        "url": "https://open.spotify.com/album/7ukaZijb4JKauWNUYv8ddm"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 196406,
+      "name": "Te Invito a Ser Feliz",
+      "url": "https://open.spotify.com/track/3bUzFhNuke83LHTBw0XhYr"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
         "name": "Sandro Malandro Por Amor Al Mic",
         "url": "https://open.spotify.com/album/7fWRP3KUkm4PdTL5OPCqzv"
       },
@@ -1231,22 +1283,6 @@
       "duration_ms": 192053,
       "name": "El Deportivo",
       "url": "https://open.spotify.com/track/00UbH8ziTAgSGvc8vf9qRt"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Te Invito a Ser Feliz",
-        "url": "https://open.spotify.com/album/7ukaZijb4JKauWNUYv8ddm"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 196406,
-      "name": "Te Invito a Ser Feliz",
-      "url": "https://open.spotify.com/track/3bUzFhNuke83LHTBw0XhYr"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1307,38 +1343,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Rumores",
-        "url": "https://open.spotify.com/album/1NK0ocpcz8JpZfsdzNYJid"
+        "name": "Gente Corriente",
+        "url": "https://open.spotify.com/album/6pzjO8qClKr8iQ5eDqNZ84"
       },
       "artists": [
         {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
         }
       ],
-      "duration_ms": 202594,
-      "name": "Rumores",
-      "url": "https://open.spotify.com/track/3OUkQJY3YQ00HwD5GPuk7A"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "1Trago",
-        "url": "https://open.spotify.com/album/61bbTZzUgZZnZPpuKYHj26"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 201106,
-      "name": "1Trago",
-      "url": "https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl"
+      "duration_ms": 133480,
+      "name": "Gente Corriente",
+      "url": "https://open.spotify.com/track/4IwuZ9TArWPahGjIdTqyJw"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1355,22 +1371,6 @@
       "duration_ms": 211764,
       "name": "Infieles",
       "url": "https://open.spotify.com/track/2bta5uOxojY072yAOSniu3"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Gente Corriente",
-        "url": "https://open.spotify.com/album/6pzjO8qClKr8iQ5eDqNZ84"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 133480,
-      "name": "Gente Corriente",
-      "url": "https://open.spotify.com/track/4IwuZ9TArWPahGjIdTqyJw"
     },
     {
       "added_at": "2023-04-14 06:00:00",

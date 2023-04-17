@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzhlHao91lq.md) - [plain]
 
 > 以輕快又富原野氣息的民謠搭配午茶，讓耳際、齒頰一同留香，好心情開花結果。
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,535 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,567 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzhlHao91lq.md) - [plain]
 | 36 | [Hard To Be Human](https://open.spotify.com/track/3rhcTGF7AK0QsSzMmLVkqu) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Hard To Be Human](https://open.spotify.com/album/7Fo8WHPyK3fmdUb2sfHW71) | 2:50 |
 | 37 | [Mariposa \- Acoustic](https://open.spotify.com/track/64o1r6z5k2HmTglC2D4IKm) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Mariposa \(Acoustic\)](https://open.spotify.com/album/7vvn3NdaYY08BixfhVaA5L) | 3:36 |
 | 38 | [rainbow](https://open.spotify.com/track/46Ga2kf5pfMcFINTIx0kXI) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE) | [rainbow](https://open.spotify.com/album/7xi7Dl3oKoCK8lQeQnyhFd) | 3:22 |
-| 39 | [Empty House](https://open.spotify.com/track/1iIh7kxpDQb95xTfsIk3Ew) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Empty House](https://open.spotify.com/album/3XGjvft85BAbITUEqMgNTu) | 3:32 |
-| 40 | [Place We Were Made](https://open.spotify.com/track/7nZF59EvFUshBQfhHev64D) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Place We Were Made](https://open.spotify.com/album/3lAphThw6i1jHzvXVGXJmE) | 3:05 |
+| 39 | [Place We Were Made](https://open.spotify.com/track/7nZF59EvFUshBQfhHev64D) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Place We Were Made](https://open.spotify.com/album/3lAphThw6i1jHzvXVGXJmE) | 3:05 |
+| 40 | [Empty House](https://open.spotify.com/track/1iIh7kxpDQb95xTfsIk3Ew) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Empty House](https://open.spotify.com/album/3XGjvft85BAbITUEqMgNTu) | 3:32 |
 | 41 | [Renee's Song](https://open.spotify.com/track/13iMiwdY7pgE1f7NwYKr1D) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Renee's Song](https://open.spotify.com/album/0WuZ8xp4MRsvNfYeN0M33G) | 2:10 |
 | 42 | [The Simple Things](https://open.spotify.com/track/755gQFe8AygwKePVjrMDoj) | [Michael Carreon](https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC) | [Love Adolescent](https://open.spotify.com/album/5R3YIYy4faDKKUtdBqbE52) | 4:23 |
 | 43 | [Vincent](https://open.spotify.com/track/6OkfJkVO5anGzXuSFzMBD7) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Vincent](https://open.spotify.com/album/61U8LRbEAiftr3xRri0rxS) | 3:43 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzhlHao91lq.md) - [plain]
 | 74 | [Stargazing](https://open.spotify.com/track/4sAX65hbNtEC1lceCdGuMt) | [Isabella Celander](https://open.spotify.com/artist/6sQYT9B066RITdelCECQuE) | [Stargazing](https://open.spotify.com/album/1AEKfZUlivdz3cBmO1Zeky) | 3:06 |
 | 75 | [Ocean \(feat\. Meghan Trainor\)](https://open.spotify.com/track/1PwPlrkSztcrXcRFzO2DnH) | [LunchMoney Lewis](https://open.spotify.com/artist/2iUbk5KhZYZt4CRvWbwb7S), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Ocean \(feat\. Meghan Trainor\)](https://open.spotify.com/album/3kyLA7vyU0y5rpUP6Ksely) | 3:36 |
 
-Snapshot ID: `MTY4MTEwMjgyOCwwMDAwMDAwMDQ3MGM5YTZhZmY2NTA3OTgyNGUzM2Y2YjQ4OTU2OTBh`
+Snapshot ID: `MTY4MTEwMjgyOCwwMDAwMDAwMDBjOWQyYmJjNWEzY2UwNWEwNTY2ZmE5YjZkMzM5M2Zj`

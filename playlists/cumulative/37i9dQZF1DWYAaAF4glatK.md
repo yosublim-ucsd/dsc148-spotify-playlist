@@ -2,7 +2,7 @@
 
 ### [Summer Hits](https://open.spotify.com/playlist/37i9dQZF1DWYAaAF4glatK)
 
-> Plus que 10 semaines avant l'été ! 🍦
+> Plus que 9 semaines avant l'été ! 🍦
 
 89 songs - 4 hr 28 min
 

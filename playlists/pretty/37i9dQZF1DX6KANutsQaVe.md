@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KANutsQaVe.md) - [plain]
 
 > Our editors’ picks for the best of Rock in Canada in 2022.<br/> Cover: TALK \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,488 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,492 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KANutsQaVe.md) - [plain]
 | 54 | [Broken](https://open.spotify.com/track/3tnKdIkmqLiL9UKxxqjM8C) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Broken](https://open.spotify.com/album/1ADbmheBGdOcaAIF44h4Yu) | 3:10 |
 | 55 | [Miracle](https://open.spotify.com/track/2ah5gOCogw00A62XBoepmc) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Miracle](https://open.spotify.com/album/7sobDr1V7BbSF0mkJOOGj3) | 4:03 |
 | 56 | [ZOMBIFIED](https://open.spotify.com/track/2ib8fuTavdc48X6MjhE4Ft) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [ZOMBIFIED](https://open.spotify.com/album/7nYa3AJUXbBrRLPXtneIEX) | 3:38 |
-| 57 | [FUNERAL GREY](https://open.spotify.com/track/4ORdQW5NLKO3b0RUeBMIrs) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/7exaI7MyauQNCOqbyqU27C) | 2:44 |
+| 57 | [FUNERAL GREY](https://open.spotify.com/track/6Rebnr2UDaxxg3VNe6CBg2) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:44 |
 | 58 | [Bad Things](https://open.spotify.com/track/4b3f0U8gOfJKyxB8cYdCiw) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Bad Things](https://open.spotify.com/album/5ynUGkp1zf2gs4Q1ceUhsR) | 3:48 |
 | 59 | [Fever Pitch](https://open.spotify.com/track/3hUIWeIiRr12i4afab6fcX) | [Hotel Mira](https://open.spotify.com/artist/7hd3XnjENIMw13Dmn8hEYw) | [Fever Pitch](https://open.spotify.com/album/5qhUycMgSZpz0VjJwtowXa) | 3:26 |
 | 60 | [Beguiled](https://open.spotify.com/track/6rBiMyaGB1ZJQnxb01FkPG) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Beguiled](https://open.spotify.com/album/582taizXGzfl1ALsX6Busl) | 3:58 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KANutsQaVe.md) - [plain]
 | 74 | [My Limitations](https://open.spotify.com/track/3jbBgWsDIvqYeF1Du6z6EE) | [The Zolas](https://open.spotify.com/artist/0BVWMc7JEHdh2Ku6xgKuYL) | [My Limitations](https://open.spotify.com/album/55P9us6DOduyACzkWhjMJk) | 3:01 |
 | 75 | [Ricochet](https://open.spotify.com/track/0JlqCj8qRtUSUsrMvVpszW) | [New Friends](https://open.spotify.com/artist/7aHNy2bjgGqOeFqUZ1shgb) | [Ricochet](https://open.spotify.com/album/6DxrVhCsvW24hSrP94FZLQ) | 2:57 |
 
-Snapshot ID: `MTY2OTgxNTkwMCwwMDAwMDAwMDUzMTBiODMxYTRkNWZkNjcxNWIwZDhiOWNiN2Q0OThm`
+Snapshot ID: `MTY2OTgxNTkwMCwwMDAwMDAwMGYwN2YwNTg4ZTY1ZDA3NjM2YzQzMDZlMTk5ZGVhMmRi`

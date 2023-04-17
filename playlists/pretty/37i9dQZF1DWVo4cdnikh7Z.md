@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 
 > New Music from Kollywood.<br/>Cover : Pathu Thala
 
-[Spotify](https://open.spotify.com/user/spotify) - 504,988 likes - 64 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,303 likes - 64 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "New song and hits from your favorite Alternative artists. Cover: Jack White",
-  "num_followers": 63151,
+  "num_followers": 63203,
   "original_name": "Your Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzk1MDg2MCwwMDAwMDAwMDFjMzcxYWE3NjIxMzE4MWFjODA4NjJmMWQ5MTQ4ODA2",
+  "snapshot_id": "MTY0Mzk1MDg2MCwwMDAwMDAwMDVkMGYzNGZkM2E4MmUyMjhhZDY4YTQ2OGY3NmU0Y2Qx",
   "tracks": [
     {
       "added_at": "2022-02-04 05:01:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
-        "name": "Black Holes",
-        "url": "https://open.spotify.com/album/6ESjsIQSb9iKqCkDo3S2sc"
-      },
-      "artists": [
-        {
-          "name": "The Blue Stones",
-          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
-        }
-      ],
-      "duration_ms": 185960,
-      "name": "Black Holes (Solid Ground)",
-      "url": "https://open.spotify.com/track/6JsiDFQRx7GHcuf2UroSYB"
-    },
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
         "name": "We Are The Wrecks",
         "url": "https://open.spotify.com/album/0vQRfUULb3EpObpn28YOkH"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 242306,
       "name": "Favorite Liar",
       "url": "https://open.spotify.com/track/1scwknKtBQpreYy6MSoJqJ"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
+        "name": "Black Holes",
+        "url": "https://open.spotify.com/album/6ESjsIQSb9iKqCkDo3S2sc"
+      },
+      "artists": [
+        {
+          "name": "The Blue Stones",
+          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
+        }
+      ],
+      "duration_ms": 185960,
+      "name": "Black Holes (Solid Ground)",
+      "url": "https://open.spotify.com/track/6JsiDFQRx7GHcuf2UroSYB"
     },
     {
       "added_at": "2022-02-04 05:01:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
-        "name": "A Light for Attracting Attention",
-        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
-      },
-      "artists": [
-        {
-          "name": "The Smile",
-          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
-        }
-      ],
-      "duration_ms": 168172,
-      "name": "You Will Never Work In Television Again",
-      "url": "https://open.spotify.com/track/2ownDSIYHvydbtauGZW4ln"
-    },
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
         "name": "New Age Norms 2",
         "url": "https://open.spotify.com/album/1Bgy7wJny262o4EVxiLqMT"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 171226,
       "name": "Who\u2019s Gonna Love Me Now",
       "url": "https://open.spotify.com/track/5VqnXEcxWfLdnsXBVjEpWx"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
+        "name": "A Light for Attracting Attention",
+        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
+      },
+      "artists": [
+        {
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+        }
+      ],
+      "duration_ms": 168172,
+      "name": "You Will Never Work In Television Again",
+      "url": "https://open.spotify.com/track/2ownDSIYHvydbtauGZW4ln"
     },
     {
       "added_at": "2022-02-04 05:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 
 > Just vibes\. Cover: Papi Sousa, Alvaro Diaz, paopao & Lyanno
 
-[Spotify](https://open.spotify.com/user/spotify) - 695,532 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 695,522 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 55 | [3 y Pico](https://open.spotify.com/track/0r64jJnSYca92hWaTLca5W) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [3 y Pico](https://open.spotify.com/album/5KV1DEKnLvZZsXeeUhvlGp) | 3:10 |
 | 56 | [Monte Carlo](https://open.spotify.com/track/0vV9YneKNzEEsAxQBFfOzp) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Amor En Español](https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR) | 3:07 |
 | 57 | [Tú Y Yo](https://open.spotify.com/track/1gdTePGTxJ7C27UxqIYzrm) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Tú Y Yo](https://open.spotify.com/album/1AY4Zx80mZRaqLT0rOwuTo) | 4:02 |
-| 58 | [Summer Nights](https://open.spotify.com/track/2J6KEv2z0LWUsMc2bHBAOR) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) | [Summer Nights](https://open.spotify.com/album/3noBkmNZz14QcgIRgIzAZQ) | 2:31 |
-| 59 | [Otro Día Lluvioso \(with Lenny Tavarez & Becky G feat\. Dalex\)](https://open.spotify.com/track/2qhcTAKmpFNXBEu1FYo69t) | [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Otro Día Lluvioso \(with Lenny Tavarez & Becky G feat\. Dalex\)](https://open.spotify.com/album/6MGhjZ5uPXwciHnjOGUIxK) | 4:25 |
+| 58 | [Otro Día Lluvioso \(with Lenny Tavarez & Becky G feat\. Dalex\)](https://open.spotify.com/track/2qhcTAKmpFNXBEu1FYo69t) | [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Otro Día Lluvioso \(with Lenny Tavarez & Becky G feat\. Dalex\)](https://open.spotify.com/album/6MGhjZ5uPXwciHnjOGUIxK) | 4:25 |
+| 59 | [Summer Nights](https://open.spotify.com/track/2J6KEv2z0LWUsMc2bHBAOR) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) | [Summer Nights](https://open.spotify.com/album/3noBkmNZz14QcgIRgIzAZQ) | 2:31 |
 | 60 | [B\-Day](https://open.spotify.com/track/5Sdm6lHMwrh0tSd4pvQxXF) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [B\-Day](https://open.spotify.com/album/1hja3Ifsxu0GMwLB5nR5e2) | 4:08 |
 | 61 | [algo así](https://open.spotify.com/track/5YZ6ThqD1WBi9g0YSlLsfW) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [diamantes y espinas](https://open.spotify.com/album/3o86U2Y7aQCgQe2kQQOz8T) | 3:33 |
 | 62 | [atrapada en el cielo](https://open.spotify.com/track/0xa6hDuygUskYwHD4hNXUR) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [Stuck in the Sky](https://open.spotify.com/album/30vPoPfOku0lYgfTE903vA) | 2:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 99 | [caos](https://open.spotify.com/track/666gQThvRTs3OfeJURkKLh) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [3AM](https://open.spotify.com/album/6kq7kwgdD6Iq1naBCJRn2j) | 4:13 |
 | 100 | [Cenizas](https://open.spotify.com/track/54szHYyqK2XSdfsefoiGjj) | [Zizzy](https://open.spotify.com/artist/2h8f3bQReG6QLk3tA1j7NS), [BeatBoy](https://open.spotify.com/artist/5UBcT8h31eT62kHEsNaW3X) | [Cenizas](https://open.spotify.com/album/0blTDBEGqFOeEUOAy0G4kV) | 3:29 |
 
-Snapshot ID: `MTY4MDg5NjA4NCwwMDAwMDAwMDQ0YmQxM2U5YzIzYjk5Yjg0OGI3MzBhMTNlNzc3NzI2`
+Snapshot ID: `MTY4MDg5NjA4NCwwMDAwMDAwMGMzNmMzYTZlYzZmY2JlOTAyYWM2MGY1ZDcwMjM1YWI0`

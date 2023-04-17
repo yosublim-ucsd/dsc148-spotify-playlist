@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 
 > MADE of latin roots, MADE in the U.S\. MADE to shine! Cover: Loyal Lobos
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,465 likes - 78 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,474 likes - 78 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 31 | [amigos con beneficios](https://open.spotify.com/track/5z7CdPON2afBSONCdIMniG) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [amigos con beneficios](https://open.spotify.com/album/5GIg36pmqOUTW5SlAAqqnh) | 4:01 |
 | 32 | [Tu Labial](https://open.spotify.com/track/3vz0ZD15RxM2HNCGgrVrVc) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Tu Labial](https://open.spotify.com/album/6kXbu3L1IVJZhGqsogGTWx) | 3:47 |
 | 33 | [La Receta](https://open.spotify.com/track/5AmZTocG6dh1jN22KgIF2H) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [La Receta](https://open.spotify.com/album/0jdlWpht7OheUR2kvWWPlA) | 3:11 |
-| 34 | [happy](https://open.spotify.com/track/1uMkOqwGtVFZLihwXe7WC6) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [i love you but this is goodbye](https://open.spotify.com/album/6gGk1hChE1H2vZpat7dw15) | 3:20 |
-| 35 | [Takin' All My Lovin'](https://open.spotify.com/track/5L4FLTgwJtV8teoPKIrzc7) | [Mikey Jimenez](https://open.spotify.com/artist/0DgdXuxVB3yXP5U54WZvSL), [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7) | [Takin' All My Lovin'](https://open.spotify.com/album/2uwY4YqgyxMimWaTo1KUsC) | 3:27 |
+| 34 | [Takin' All My Lovin'](https://open.spotify.com/track/5L4FLTgwJtV8teoPKIrzc7) | [Mikey Jimenez](https://open.spotify.com/artist/0DgdXuxVB3yXP5U54WZvSL), [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7) | [Takin' All My Lovin'](https://open.spotify.com/album/2uwY4YqgyxMimWaTo1KUsC) | 3:27 |
+| 35 | [happy](https://open.spotify.com/track/1uMkOqwGtVFZLihwXe7WC6) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [i love you but this is goodbye](https://open.spotify.com/album/6gGk1hChE1H2vZpat7dw15) | 3:20 |
 | 36 | [Que Vuelvas / Bebe Dame](https://open.spotify.com/track/2XrOorKhvt1a1Ed9cSegMu) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [Que Vuelvas / Bebe Dame](https://open.spotify.com/album/4QCle6zCruK9W630FupUSX) | 2:56 |
 | 37 | [ALERGICA](https://open.spotify.com/track/11Sakrqqq61WNucb48QGWy) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [ALERGICA](https://open.spotify.com/album/128gRYuCA4HlmI3vCiwl6l) | 3:05 |
 | 38 | [¿Dónde?](https://open.spotify.com/track/0mFdgCl72vf746EW4l6Ztt) | [Lechero](https://open.spotify.com/artist/2x5oi7GC3XkdgXSC8juDIw), [desamor.](https://open.spotify.com/artist/3Bg5zq88wlTgSPgT1x2CFW) | [¿Dónde?](https://open.spotify.com/album/5s2BpnMUEjfrZCR013IGoY) | 2:32 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 53 | [The Dream](https://open.spotify.com/track/4TYe8NRgpLFQBJrJLeSAqn) | [xBValentine](https://open.spotify.com/artist/4THqvMsBc72amqxSB45LDu), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [The Dream](https://open.spotify.com/album/3IICOMvM3iSFf0Q3Jmc1Pt) | 3:22 |
 | 54 | [Del Amor Al Odio](https://open.spotify.com/track/0D44Q1JSPFbtz8VDSUINtv) | [Digiannia](https://open.spotify.com/artist/7h4VlNeXe4xN4uRWnYn875) | [Del Amor Al Odio](https://open.spotify.com/album/7CMhhkwEOq6TBywB2zK1dV) | 3:16 |
 | 55 | [Olvidar De Ti](https://open.spotify.com/track/4FAyJudwDRGLZyXsYPxRRI) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [Olvidar De Ti](https://open.spotify.com/album/2pQx1F9ehl2E8V88HuHhlb) | 2:13 |
-| 56 | [ANYWAY](https://open.spotify.com/track/6GY2FCfIwuY0tlmk0HE9t2) | [Poe Leos](https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA) | [ANYWAY](https://open.spotify.com/album/2OTJpqiKPctZPSOJcKwmUB) | 3:30 |
-| 57 | [TQD](https://open.spotify.com/track/3nY5WkZfpPbEesL0suAVqq) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN) | [TQD](https://open.spotify.com/album/2oHIws9KI1JMfmbzmNEXoA) | 3:20 |
+| 56 | [TQD](https://open.spotify.com/track/3nY5WkZfpPbEesL0suAVqq) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN) | [TQD](https://open.spotify.com/album/2oHIws9KI1JMfmbzmNEXoA) | 3:20 |
+| 57 | [ANYWAY](https://open.spotify.com/track/6GY2FCfIwuY0tlmk0HE9t2) | [Poe Leos](https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA) | [ANYWAY](https://open.spotify.com/album/2OTJpqiKPctZPSOJcKwmUB) | 3:30 |
 | 58 | [Nadie En Este Mundo](https://open.spotify.com/track/228sACC7y614ro6IKRsOUJ) | [Pródigo Secreto](https://open.spotify.com/artist/7vtrVzMSgVdkTLLVk7UrDC) | [Recuerdos Del Pasado, Vol\. 2](https://open.spotify.com/album/3pMXlpXItYXJoEEdKWCAGm) | 3:52 |
 | 59 | [Mirror In My Living Room](https://open.spotify.com/track/6sjd3IipyGU97VimolF0yR) | [Tayler Buono](https://open.spotify.com/artist/5doPfvddXXjtQIJu9rQEz5) | [Mirror In My Living Room](https://open.spotify.com/album/59KKhEV8ydurxp9XxdQEwg) | 3:00 |
 | 60 | [overflow](https://open.spotify.com/track/54Emsvj9A1qPH6zXOafruV) | [vivi rincon](https://open.spotify.com/artist/7G3PkBcNf57mBBK1qYA1iE) | [overflow](https://open.spotify.com/album/4Npxh394iWsnecaWncrvJU) | 2:55 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 68 | [El Raulito](https://open.spotify.com/track/0T8psfzHptYOA1GHDBqgbx) | [Pitt Blanco](https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o) | [El Raulito](https://open.spotify.com/album/4ZqXlZBnogGgyyX7XdxqsD) | 3:10 |
 | 69 | [Losing My Mind](https://open.spotify.com/track/1lF9NdpTfSo2gnJtgNhn3S) | [Calista Del Toro](https://open.spotify.com/artist/2AdpTsL9U2vslmS8y7XXtc) | [Losing My Mind](https://open.spotify.com/album/3CcCKl14Z94YwcjHAHpSMH) | 2:35 |
 | 70 | [Atmosférica](https://open.spotify.com/track/7CkmacAafgK7mKnartEcJz) | [Mexico City Heartbreak](https://open.spotify.com/artist/6HCbitfK12jusZy0drIiqJ) | [Atmosférica](https://open.spotify.com/album/3SXUi0sFJxlgRKjtn8exL7) | 3:57 |
-| 71 | [Lucid Dreaming](https://open.spotify.com/track/7CxxcJ8I5VAwnb1amdhZWq) | [Karina Magallon](https://open.spotify.com/artist/1YwrLrYKopX3zW2DMXpeSh) | [Lucid Dreaming](https://open.spotify.com/album/6fRkrFd5kyAEbpSBe37CvW) | 2:37 |
-| 72 | [Drink Me Like Wine](https://open.spotify.com/track/0WTnZEt7dIFGK61BKVbut8) | [Andria Rose](https://open.spotify.com/artist/7pyFoUaznDd4Bxq5PmPKnK) | [Drink Me Like Wine](https://open.spotify.com/album/4RTXEGXWdPLsTk2EwUTO4k) | 2:35 |
+| 71 | [Drink Me Like Wine](https://open.spotify.com/track/0WTnZEt7dIFGK61BKVbut8) | [Andria Rose](https://open.spotify.com/artist/7pyFoUaznDd4Bxq5PmPKnK) | [Drink Me Like Wine](https://open.spotify.com/album/4RTXEGXWdPLsTk2EwUTO4k) | 2:35 |
+| 72 | [Lucid Dreaming](https://open.spotify.com/track/7CxxcJ8I5VAwnb1amdhZWq) | [Karina Magallon](https://open.spotify.com/artist/1YwrLrYKopX3zW2DMXpeSh) | [Lucid Dreaming](https://open.spotify.com/album/6fRkrFd5kyAEbpSBe37CvW) | 2:37 |
 | 73 | [Ruby](https://open.spotify.com/track/0e69hMJTwnCTA83HNyaSKx) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [The Lonestar \(Side B\)](https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D) | 3:32 |
 | 74 | [Azúcar y Miel](https://open.spotify.com/track/77YxTd1xU2vX8zQTM90tCS) | [Los Velvets](https://open.spotify.com/artist/2XwCyW0m2J8oTZZ3VIBVy5) | [Azúcar y Miel](https://open.spotify.com/album/66RHHesIVcYuJm0BkmajkK) | 3:12 |
 | 75 | [Emerald Eyes](https://open.spotify.com/track/1q5nWUhHF16QHJLnnKZLNQ) | [The Bromigos](https://open.spotify.com/artist/7IstQm3HsOZGoNhX0LJo0C) | [Emerald Eyes](https://open.spotify.com/album/4nRE7s8dB1EG5LCp61zLHX) | 3:30 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 77 | [Estupido](https://open.spotify.com/track/0s0911eZbCQY93FjUYmTRr) | [Deiv](https://open.spotify.com/artist/6Z26q1zYyoHDTzO2SrVaX1) | [Estupido](https://open.spotify.com/album/06AFG4QcIJ6xyiF7DVRKyZ) | 3:06 |
 | 78 | [Zarna](https://open.spotify.com/track/2m3x9amJXUtxD12K3ZuaAg) | [Sasha Wrist](https://open.spotify.com/artist/3h4yzDa8Uj4ZplkApbgFAD) | [Zarna](https://open.spotify.com/album/6v9ziOQ7A3R8FzGXmHr5Mv) | 3:06 |
 
-Snapshot ID: `MTY4MDI0OTc4NSwwMDAwMDAwMDU3NTZmZDVkMDg1MDFiZjVhMzc4NjM3ZDRlNjMyYzY2`
+Snapshot ID: `MTY4MDI0OTc4NSwwMDAwMDAwMGQxOWYzZGI0ZGUxNjA2ZGQ5NGZjN2YwYWJhMTg2ZTkw`

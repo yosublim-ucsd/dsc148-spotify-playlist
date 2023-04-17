@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the internet\. Cover: BLP KOSHER
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,344,861 likes - 100 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,345,116 likes - 100 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 42 | [Mysëlf](https://open.spotify.com/track/2kimLa9Di1xK5MpZSxJhRy) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 2:30 |
 | 43 | [Gone \(sped up\)](https://open.spotify.com/track/6dj6mwfnLiCp20cslQEcOE) | [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou), [Ardeycat](https://open.spotify.com/artist/34Nu2mFDOVCEab7z18ceOo) | [Gone \(sped up\)](https://open.spotify.com/album/1p6EfDB7huUNYmQE9EDCwl) | 1:51 |
 | 44 | [GHOSTKILLA](https://open.spotify.com/track/7GAnp0Xrdx6SMW9FVUTR1w) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [GHOSTKILLA](https://open.spotify.com/album/4ASLNRahJH5tj0F4bYOJkC) | 2:19 |
-| 45 | [Let U Go](https://open.spotify.com/track/29pUhY4WylF02TuUiPUYYV) | [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou) | [Let U Go](https://open.spotify.com/album/4WzPhDgw6vO5Jq0m9VmN72) | 2:08 |
+| 45 | [Let U Go](https://open.spotify.com/track/40TZnaw4eDPChJNHw2Swf3) | [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou) | [Let U Go](https://open.spotify.com/album/0TC7kk9aS65YztJnAcEeYR) | 2:08 |
 | 46 | [NEVEREVER](https://open.spotify.com/track/610gzNqwaSz89u6YIpDlyZ) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [NS+ \(ULTRA\)](https://open.spotify.com/album/20NEJgF7RPooqJ1dW0JZM1) | 2:24 |
 | 47 | [Righteous](https://open.spotify.com/track/2zG8L9QM7FnlKkLQYirIxh) | [Mo Beats](https://open.spotify.com/artist/2Hil1oktsE7Wic4X5cBGK3) | [Righteous](https://open.spotify.com/album/3V94UgGEHH6Au9bH1J4MnS) | 2:43 |
 | 48 | [attachment \(she wanna love\)](https://open.spotify.com/track/6pNa6wVEk5RdxRgGhab77S) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [Bossa](https://open.spotify.com/artist/1c7g2IlcGxfR51B2axtFbC), [Kanii Archive](https://open.spotify.com/artist/0FTGkFA0UcAfMR9f7p1djv) | [attachment \(she wanna love\)](https://open.spotify.com/album/4dfembGAqkVP5BAm2F8HAl) | 1:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 99 | [11:35 In Miami](https://open.spotify.com/track/2qTh0uDCWUZ9G9xZO7RqGd) | [YN Jay](https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU) | [Coochie Land \(Deluxe\)](https://open.spotify.com/album/17pvDiyitMvBilTM9UvLeK) | 1:36 |
 | 100 | [sipping my tea](https://open.spotify.com/track/5f4NTBzhDSX8d8eT0HsZEL) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [sipping my tea](https://open.spotify.com/album/1WxpvhzIDHLG5F9unXWM0C) | 1:42 |
 
-Snapshot ID: `MTY4MTQ0NDgwMCwwMDAwMDAwMGM0OGU4N2Q3NDU2ZjJkNmU5ZTZjNGM4MTYyOTA2MjVh`
+Snapshot ID: `MTY4MTQ0NDgwMCwwMDAwMDAwMGY1YTRlMjRhNTAyM2U4Y2M3OGE4ZTQyNmRkNjEzZDFl`

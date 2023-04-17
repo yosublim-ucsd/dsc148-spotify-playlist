@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 
 > Lo nuevo del popetón y reggaetón emergente en MX, con Yng Lvcas y Peso Pluma en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,213 likes - 55 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,273 likes - 55 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 13 | [Mejor Sola](https://open.spotify.com/track/5bpklP2B9Nlj5BO90RuCyA) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Mejor Sola](https://open.spotify.com/album/3TI2wvsbQINrmuV5CIXwWH) | 3:50 |
 | 14 | [Maviri](https://open.spotify.com/track/2KbDqOveWc2vInJ4QiSeuX) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [Maviri](https://open.spotify.com/album/5w3ksWCecm2QnMYDsOKeJd) | 2:15 |
 | 15 | [Te Acuerdas](https://open.spotify.com/track/4JoDK5TniOJXdraIz25yV7) | [Los Reyes del Norte](https://open.spotify.com/artist/1Xjm7jpjGWmZ2i6XSJpE7V), [Nash](https://open.spotify.com/artist/4YBfycQ7b5Nim6IepjpnO3), [Pinky06](https://open.spotify.com/artist/3IaOQV2tg0ZxEbN6UyYF1E) | [Te Acuerdas](https://open.spotify.com/album/6iFApmwM9WTGmGHDs8mjtH) | 2:40 |
-| 16 | [Como Tú](https://open.spotify.com/track/6yWpPKvt3aJ22i2cpB2QTG) | [Jd Pantoja](https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK) | [Como Tú](https://open.spotify.com/album/1uGYD7JyIY9FwNc0pFCB4b) | 2:59 |
-| 17 | [Bien Bebé](https://open.spotify.com/track/74LXuYE8UubyCvLIrslqG5) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Ey Gary](https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww) | [Bien Bebé](https://open.spotify.com/album/2JzeX6UfR90xudmwryUOsk) | 2:43 |
+| 16 | [Bien Bebé](https://open.spotify.com/track/74LXuYE8UubyCvLIrslqG5) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Ey Gary](https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww) | [Bien Bebé](https://open.spotify.com/album/2JzeX6UfR90xudmwryUOsk) | 2:43 |
+| 17 | [Como Tú](https://open.spotify.com/track/6yWpPKvt3aJ22i2cpB2QTG) | [Jd Pantoja](https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK) | [Como Tú](https://open.spotify.com/album/1uGYD7JyIY9FwNc0pFCB4b) | 2:59 |
 | 18 | [NO TE VAYAS](https://open.spotify.com/track/1R2EVhoWhlCkBTb8l9MdCn) | [Santa Anna](https://open.spotify.com/artist/79XgYTBTsIyKqgxHyLpPSH), [Yanncy](https://open.spotify.com/artist/03hBdKejw4tVUd7uz80TQM) | [NO TE VAYAS](https://open.spotify.com/album/5gnzsCQT85f958D8YdLAg4) | 4:16 |
 | 19 | [Me Dolió](https://open.spotify.com/track/6GohKuqUmoVmuZJ148PEjN) | [Alan Jacques](https://open.spotify.com/artist/1fcB4CTiWJ7MSN1oJHQbBE), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Kid Gallo](https://open.spotify.com/artist/1dpQRfqTZe2OmBhR01lD0c), [Amador](https://open.spotify.com/artist/6qZVFsb2jVenTxZ3NBGnNv) | [Me Dolió](https://open.spotify.com/album/6bXPqEZYKWCRzZrq5a44Z2) | 2:43 |
 | 20 | [Uy K Raro](https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [Uy K Raro](https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn) | 2:07 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 50 | [LA PUERTA](https://open.spotify.com/track/1C7dlhgx28pHMjCMfiiZun) | [Steff](https://open.spotify.com/artist/0Gh7dmIj59Sa4JPy9x0yUt) | [LA PUERTA](https://open.spotify.com/album/08UiEXyBQY3dDgdfieN0mj) | 3:03 |
 | 51 | [Sueño](https://open.spotify.com/track/5zzeED4DVkAX9ujce347pD) | [Daizak](https://open.spotify.com/artist/1CTQCLfayh8AF1ybuosMWZ), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH), [Tommy Artz](https://open.spotify.com/artist/5d8RjWwyW7wKhdiMXFQcPt), [Freciso](https://open.spotify.com/artist/2f5seq5MeXUMIbCCwoqm9C) | [Sueño](https://open.spotify.com/album/0i5yS4tEvSRHYaw2fRseOr) | 3:40 |
 | 52 | [Ñero Session 2](https://open.spotify.com/track/5dERrcB9eCq5x44BbpQQfp) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Cris Sour](https://open.spotify.com/artist/4FDok6VDIf3e0KFxaWXc4t), [Zkiper Mami](https://open.spotify.com/artist/42dhqBXADvMbtRoUX2SckE) | [Ñero Session 2](https://open.spotify.com/album/24Oz2KxC0F5F2JKWOoNZ7E) | 2:26 |
-| 53 | [Flama](https://open.spotify.com/track/3qPl0LBkxkpC8dLBs8oxug) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [Mayki Graff](https://open.spotify.com/artist/7EiFezQrfthN6y5Aiiw0Q5) | [Flama](https://open.spotify.com/album/1NVzPKVN5FSqANSjAewanV) | 2:22 |
-| 54 | [Me Tientas \- Remix](https://open.spotify.com/track/6csH5yeXeOcZGDrIq0FRIe) | [Ele O](https://open.spotify.com/artist/7JNMkQEQnwqIGB2VQbypxi), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Nando Produce](https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI) | [Me Tientas \(Remix\)](https://open.spotify.com/album/2JZUX0M1kl0BGD5dBqem6Z) | 3:05 |
+| 53 | [Me Tientas \- Remix](https://open.spotify.com/track/6csH5yeXeOcZGDrIq0FRIe) | [Ele O](https://open.spotify.com/artist/7JNMkQEQnwqIGB2VQbypxi), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Nando Produce](https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI) | [Me Tientas \(Remix\)](https://open.spotify.com/album/2JZUX0M1kl0BGD5dBqem6Z) | 3:05 |
+| 54 | [Flama](https://open.spotify.com/track/3qPl0LBkxkpC8dLBs8oxug) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [Mayki Graff](https://open.spotify.com/artist/7EiFezQrfthN6y5Aiiw0Q5) | [Flama](https://open.spotify.com/album/1NVzPKVN5FSqANSjAewanV) | 2:22 |
 | 55 | [Pereza](https://open.spotify.com/track/0Oy1etXcmeKuWkyPbdVqnT) | [Mia Salinas](https://open.spotify.com/artist/7joyMZS5bboTR4PghWa3Um) | [Pereza](https://open.spotify.com/album/77HhN60VUTZCnySGoOG7aB) | 3:09 |
 
-Snapshot ID: `MTY4MTQ1MjAwMCwwMDAwMDAwMDUyMDJlY2M1MzY1ZGNiNTk5MDU0MTQ3YjlkMzNkYmEx`
+Snapshot ID: `MTY4MTQ1MjAwMCwwMDAwMDAwMDU0OGQ5NGNlMzc1MTgxZTlmNmE5NjRiN2U1ODM4OTkx`

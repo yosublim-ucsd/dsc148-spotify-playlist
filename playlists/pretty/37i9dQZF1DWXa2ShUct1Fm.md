@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXa2ShUct1Fm.md) - [plain]
 
 > Say the name, Seventeen! Carats, get ready to slip into the diamond life with your 13 shining diamonds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 689,087 likes - 145 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 689,460 likes - 145 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

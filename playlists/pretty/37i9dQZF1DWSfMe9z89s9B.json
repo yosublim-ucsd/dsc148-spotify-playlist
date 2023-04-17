@@ -1,12 +1,12 @@
 {
   "description": "Leaders of the new school...Alternative R&B. Cover: Frank Ocean",
-  "num_followers": 1373120,
+  "num_followers": 1373753,
   "original_name": "Vanguard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDg2MCwwMDAwMDAwMDVhOWFhMzVjOGM2ZWYxN2I2Yzg1NjA4MjQ4OTY3MjYz",
+  "snapshot_id": "MTY4MTQ0NDg2MCwwMDAwMDAwMDA1YjQ5MDFhYTg1MDZjYzMwYzM2NTkwMWVlODBjNWEw",
   "tracks": [
     {
       "added_at": "2022-12-09 05:00:00",
@@ -445,6 +445,22 @@
       "url": "https://open.spotify.com/track/4QhWbupniDd44EDtnh2bFJ"
     },
     {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Sleep Well",
+        "url": "https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 175875,
+      "name": "Sleep Well",
+      "url": "https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1"
+    },
+    {
       "added_at": "2022-12-10 19:36:26",
       "album": {
         "name": "ULTRAMARINE",
@@ -477,6 +493,26 @@
       "url": "https://open.spotify.com/track/1ztPf79mbGpktO7TjB7tWW"
     },
     {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "NEVER ENOUGH",
+        "url": "https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "Mustafa",
+          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
+        }
+      ],
+      "duration_ms": 277518,
+      "name": "Toronto 2014 (with Mustafa)",
+      "url": "https://open.spotify.com/track/4t9R5rbtovdvya28uMODDz"
+    },
+    {
       "added_at": "2022-12-16 05:17:19",
       "album": {
         "name": "Build Me A House",
@@ -497,24 +533,20 @@
       "url": "https://open.spotify.com/track/3Sb3Md9qVCRwu470IZ4XIp"
     },
     {
-      "added_at": "2023-04-07 04:01:00",
+      "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "NEVER ENOUGH",
-        "url": "https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y"
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
       },
       "artists": [
         {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "name": "Mustafa",
-          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
         }
       ],
-      "duration_ms": 277518,
-      "name": "Toronto 2014 (with Mustafa)",
-      "url": "https://open.spotify.com/track/4t9R5rbtovdvya28uMODDz"
+      "duration_ms": 177922,
+      "name": "Godspeed",
+      "url": "https://open.spotify.com/track/34xTFwjPQ1dC6uJmleno7x"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -541,36 +573,20 @@
       "url": "https://open.spotify.com/track/14adSLAL6WgvwH5snRF3gs"
     },
     {
-      "added_at": "2023-04-14 04:01:00",
+      "added_at": "2023-04-07 22:20:15",
       "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+        "name": "only u",
+        "url": "https://open.spotify.com/album/2U7bhZNHzxwpRJQ9de7LmZ"
       },
       "artists": [
         {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+          "name": "Karri",
+          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
         }
       ],
-      "duration_ms": 177922,
-      "name": "Godspeed",
-      "url": "https://open.spotify.com/track/34xTFwjPQ1dC6uJmleno7x"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "Sleep Well",
-        "url": "https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 175875,
-      "name": "Sleep Well",
-      "url": "https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1"
+      "duration_ms": 146127,
+      "name": "only u",
+      "url": "https://open.spotify.com/track/0jatnHT0N0LSpbE1obPLB9"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -587,22 +603,6 @@
       "duration_ms": 241666,
       "name": "TODAY",
       "url": "https://open.spotify.com/track/6osru1Fx1n50mRD8QWI9m1"
-    },
-    {
-      "added_at": "2023-04-07 22:20:15",
-      "album": {
-        "name": "only u",
-        "url": "https://open.spotify.com/album/2U7bhZNHzxwpRJQ9de7LmZ"
-      },
-      "artists": [
-        {
-          "name": "Karri",
-          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
-        }
-      ],
-      "duration_ms": 146127,
-      "name": "only u",
-      "url": "https://open.spotify.com/track/0jatnHT0N0LSpbE1obPLB9"
     },
     {
       "added_at": "2022-12-16 05:17:19",
@@ -689,20 +689,20 @@
       "url": "https://open.spotify.com/track/2dsbZwFPMYhchakMgL72DD"
     },
     {
-      "added_at": "2023-03-31 04:00:00",
+      "added_at": "2022-12-02 05:00:00",
       "album": {
-        "name": "NOT ALONE",
-        "url": "https://open.spotify.com/album/06osQucbdoBctWgXgdFblC"
+        "name": "deadman",
+        "url": "https://open.spotify.com/album/3o7s3kTZToycxrqhtrAwxa"
       },
       "artists": [
         {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+          "name": "Souly Had",
+          "url": "https://open.spotify.com/artist/20WmX0l9JgOpehDOAXY6iO"
         }
       ],
-      "duration_ms": 185013,
-      "name": "NOT ALONE",
-      "url": "https://open.spotify.com/track/42RpLZC6rKzQZyLMaJMsDJ"
+      "duration_ms": 130909,
+      "name": "deadman",
+      "url": "https://open.spotify.com/track/5wT0AQeYT09WqR7r0eYZWs"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -719,22 +719,6 @@
       "duration_ms": 180266,
       "name": "too far close",
       "url": "https://open.spotify.com/track/1rKdNSA119ByMxI9chV5J6"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "deadman",
-        "url": "https://open.spotify.com/album/3o7s3kTZToycxrqhtrAwxa"
-      },
-      "artists": [
-        {
-          "name": "Souly Had",
-          "url": "https://open.spotify.com/artist/20WmX0l9JgOpehDOAXY6iO"
-        }
-      ],
-      "duration_ms": 130909,
-      "name": "deadman",
-      "url": "https://open.spotify.com/track/5wT0AQeYT09WqR7r0eYZWs"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -777,20 +761,20 @@
       "url": "https://open.spotify.com/track/5sr3Cp0w8kIefyKKU3YnnV"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "CHERIMOYA",
-        "url": "https://open.spotify.com/album/4PrcKgbbS0rudXsXJqfyR5"
+        "name": "NOT ALONE",
+        "url": "https://open.spotify.com/album/06osQucbdoBctWgXgdFblC"
       },
       "artists": [
         {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
         }
       ],
-      "duration_ms": 129080,
-      "name": "CHERIMOYA",
-      "url": "https://open.spotify.com/track/2dldFaASbSWz8uzz9KY2al"
+      "duration_ms": 185013,
+      "name": "NOT ALONE",
+      "url": "https://open.spotify.com/track/42RpLZC6rKzQZyLMaJMsDJ"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -809,20 +793,36 @@
       "url": "https://open.spotify.com/track/7zEeY9dw8wpTrxn4Ll26bu"
     },
     {
-      "added_at": "2022-09-23 04:05:05",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "STEREO DRIVER",
-        "url": "https://open.spotify.com/album/0chstf8JqlFUYvI0F7gogH"
+        "name": "CHERIMOYA",
+        "url": "https://open.spotify.com/album/4PrcKgbbS0rudXsXJqfyR5"
       },
       "artists": [
         {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
         }
       ],
-      "duration_ms": 231533,
-      "name": "STEREO DRIVER",
-      "url": "https://open.spotify.com/track/1yGzzCuLd5vH5gSb1Ii6jU"
+      "duration_ms": 129080,
+      "name": "CHERIMOYA",
+      "url": "https://open.spotify.com/track/2dldFaASbSWz8uzz9KY2al"
+    },
+    {
+      "added_at": "2022-07-22 14:09:12",
+      "album": {
+        "name": "JAMIE",
+        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/3Kfh2IIk7nehym6iv2Ru8P"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -859,22 +859,6 @@
       "duration_ms": 292824,
       "name": "On the Run",
       "url": "https://open.spotify.com/track/4N9CjZCmixsudkya5a7MtW"
-    },
-    {
-      "added_at": "2022-07-22 14:09:12",
-      "album": {
-        "name": "JAMIE",
-        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Last Dance",
-      "url": "https://open.spotify.com/track/3Kfh2IIk7nehym6iv2Ru8P"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -923,6 +907,22 @@
       "duration_ms": 256750,
       "name": "Eternal Sunshine (Fire Pit)",
       "url": "https://open.spotify.com/track/39AkkoGAl2ILUDU2u9g9En"
+    },
+    {
+      "added_at": "2022-09-23 04:05:05",
+      "album": {
+        "name": "STEREO DRIVER",
+        "url": "https://open.spotify.com/album/0chstf8JqlFUYvI0F7gogH"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "duration_ms": 231533,
+      "name": "STEREO DRIVER",
+      "url": "https://open.spotify.com/track/1yGzzCuLd5vH5gSb1Ii6jU"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1117,22 +1117,6 @@
       "url": "https://open.spotify.com/track/78ndblGlkOiMHUrrWPgBoL"
     },
     {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Raven",
-        "url": "https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT"
-      },
-      "artists": [
-        {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        }
-      ],
-      "duration_ms": 216178,
-      "name": "Washed Away",
-      "url": "https://open.spotify.com/track/1o6heh4aefLv3GJYjtfLa6"
-    },
-    {
       "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "D4U - Spotify Singles",
@@ -1147,6 +1131,22 @@
       "duration_ms": 160487,
       "name": "D4U - Spotify Singles",
       "url": "https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Raven",
+        "url": "https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "duration_ms": 216178,
+      "name": "Washed Away",
+      "url": "https://open.spotify.com/track/1o6heh4aefLv3GJYjtfLa6"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1181,6 +1181,22 @@
       "url": "https://open.spotify.com/track/5NPOyiXE1gn147zLE2XvPu"
     },
     {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
+        "name": "Most Men - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4Ll6gnAL7gDjnZM8tOEndi"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 253375,
+      "name": "Most Men - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/6oNlhbPtDLVMcSKzloa3WO"
+    },
+    {
       "added_at": "2023-01-27 05:01:00",
       "album": {
         "name": "STRAWBERRY LOUIS VUITTON (Ft. Thundercat, Maeta)",
@@ -1205,38 +1221,6 @@
       "url": "https://open.spotify.com/track/2K81yLG5kx2uKqT4PZmTXp"
     },
     {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
-        "name": "Most Men - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/4Ll6gnAL7gDjnZM8tOEndi"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 253375,
-      "name": "Most Men - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/6oNlhbPtDLVMcSKzloa3WO"
-    },
-    {
-      "added_at": "2023-02-24 05:23:50",
-      "album": {
-        "name": "World In My Hands",
-        "url": "https://open.spotify.com/album/4VbYBboyCVdKFJ0eh9ATfT"
-      },
-      "artists": [
-        {
-          "name": "LAVI$H",
-          "url": "https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32"
-        }
-      ],
-      "duration_ms": 194401,
-      "name": "World In My Hands",
-      "url": "https://open.spotify.com/track/4c2HeCpHJ3VzN8RyEoULTW"
-    },
-    {
       "added_at": "2022-07-15 04:02:46",
       "album": {
         "name": "Good Mornin'",
@@ -1255,6 +1239,38 @@
       "duration_ms": 142351,
       "name": "Good Mornin'",
       "url": "https://open.spotify.com/track/31DhZKH7E1T41TAnK0qyC5"
+    },
+    {
+      "added_at": "2023-02-24 05:23:50",
+      "album": {
+        "name": "World In My Hands",
+        "url": "https://open.spotify.com/album/4VbYBboyCVdKFJ0eh9ATfT"
+      },
+      "artists": [
+        {
+          "name": "LAVI$H",
+          "url": "https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32"
+        }
+      ],
+      "duration_ms": 194401,
+      "name": "World In My Hands",
+      "url": "https://open.spotify.com/track/4c2HeCpHJ3VzN8RyEoULTW"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Coffee in the Morning",
+        "url": "https://open.spotify.com/album/3amBBRy7fdSTUnDrh4QyL1"
+      },
+      "artists": [
+        {
+          "name": "Aaron Taylor",
+          "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7"
+        }
+      ],
+      "duration_ms": 226453,
+      "name": "Coffee in the Morning",
+      "url": "https://open.spotify.com/track/2h99UmvMA81FvvqKM3lhwk"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1277,22 +1293,6 @@
       "url": "https://open.spotify.com/track/6uAWmu9PkZ7l7OAVeQljus"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "On My Way",
-        "url": "https://open.spotify.com/album/47fQUDWGQ9i5V4jp8zpKfT"
-      },
-      "artists": [
-        {
-          "name": "Khamari",
-          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
-        }
-      ],
-      "duration_ms": 180545,
-      "name": "On My Way",
-      "url": "https://open.spotify.com/track/1JrcjXpkAEIALeX9tqIAVA"
-    },
-    {
       "added_at": "2022-11-18 05:00:00",
       "album": {
         "name": "Girl In The Half Pearl",
@@ -1309,40 +1309,40 @@
       "url": "https://open.spotify.com/track/4JiLpvvnPiQtsf4izF1SQ5"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Coffee in the Morning",
-        "url": "https://open.spotify.com/album/3amBBRy7fdSTUnDrh4QyL1"
+        "name": "Touch Your Soul / Love & Rage",
+        "url": "https://open.spotify.com/album/7dDuLnLlmPVTMHx0Quxefj"
       },
       "artists": [
         {
-          "name": "Aaron Taylor",
-          "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7"
-        }
-      ],
-      "duration_ms": 226453,
-      "name": "Coffee in the Morning",
-      "url": "https://open.spotify.com/track/2h99UmvMA81FvvqKM3lhwk"
-    },
-    {
-      "added_at": "2023-02-24 05:23:50",
-      "album": {
-        "name": "Water My Heart (feat. Mereba)",
-        "url": "https://open.spotify.com/album/3s8P0go7OUTdf9NzZFS15a"
-      },
-      "artists": [
-        {
-          "name": "rum.gold",
-          "url": "https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB"
+          "name": "Dreamer Isioma",
+          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
         },
         {
-          "name": "Mereba",
-          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
+          "name": "Merlyn Wood",
+          "url": "https://open.spotify.com/artist/5AqnZL03z5cuZJMPVTRj9Y"
         }
       ],
-      "duration_ms": 222334,
-      "name": "Water My Heart (feat. Mereba)",
-      "url": "https://open.spotify.com/track/5CisgeB65yWttE54rFIfZ4"
+      "duration_ms": 189232,
+      "name": "Touch Your Soul (feat. Merlyn Wood)",
+      "url": "https://open.spotify.com/track/4PRdVFLaAPWXJvIVwKnLqa"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "On My Way",
+        "url": "https://open.spotify.com/album/47fQUDWGQ9i5V4jp8zpKfT"
+      },
+      "artists": [
+        {
+          "name": "Khamari",
+          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
+        }
+      ],
+      "duration_ms": 180545,
+      "name": "On My Way",
+      "url": "https://open.spotify.com/track/1JrcjXpkAEIALeX9tqIAVA"
     },
     {
       "added_at": "2023-02-24 05:23:50",
@@ -1365,24 +1365,24 @@
       "url": "https://open.spotify.com/track/2kLMWqTsPb3i5QfLmnOAhM"
     },
     {
-      "added_at": "2023-03-31 04:00:00",
+      "added_at": "2023-02-24 05:23:50",
       "album": {
-        "name": "Touch Your Soul / Love & Rage",
-        "url": "https://open.spotify.com/album/7dDuLnLlmPVTMHx0Quxefj"
+        "name": "Water My Heart (feat. Mereba)",
+        "url": "https://open.spotify.com/album/3s8P0go7OUTdf9NzZFS15a"
       },
       "artists": [
         {
-          "name": "Dreamer Isioma",
-          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
+          "name": "rum.gold",
+          "url": "https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB"
         },
         {
-          "name": "Merlyn Wood",
-          "url": "https://open.spotify.com/artist/5AqnZL03z5cuZJMPVTRj9Y"
+          "name": "Mereba",
+          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
         }
       ],
-      "duration_ms": 189232,
-      "name": "Touch Your Soul (feat. Merlyn Wood)",
-      "url": "https://open.spotify.com/track/4PRdVFLaAPWXJvIVwKnLqa"
+      "duration_ms": 222334,
+      "name": "Water My Heart (feat. Mereba)",
+      "url": "https://open.spotify.com/track/5CisgeB65yWttE54rFIfZ4"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -1713,20 +1713,20 @@
       "url": "https://open.spotify.com/track/5WUKybZ2qvtWjZOKbK8JwF"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2022-09-09 04:06:40",
       "album": {
-        "name": "nolademos",
-        "url": "https://open.spotify.com/album/3aXlTlKpRpnwTsjL0lXRIt"
+        "name": "Like Neptune",
+        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
       },
       "artists": [
         {
-          "name": "Spencer.",
-          "url": "https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR"
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
         }
       ],
-      "duration_ms": 79291,
-      "name": "*smokes weed once*",
-      "url": "https://open.spotify.com/track/0u42ardVmhoaCo746IumyG"
+      "duration_ms": 233853,
+      "name": "bend yr ear",
+      "url": "https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh"
     }
   ],
   "unique_name": "Vanguard",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 
 > This is KB\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,045 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,059 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 | 6 | [Wholehearted](https://open.spotify.com/track/6VUkxixPg5mwleZcKlD7Wo) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Wholehearted](https://open.spotify.com/album/6vYLD0YIUj06oN7TvjPM8P) | 3:02 |
 | 7 | [10K](https://open.spotify.com/track/6RSQJWAsHqCAqhH9cgStE5) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [His Glory Alone](https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj) | 3:16 |
 | 8 | [Hold Me Back](https://open.spotify.com/track/5C5FqRfbXF9oY4HSRYyqn3) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Hold Me Back](https://open.spotify.com/album/2jGC7NrvufO6RAbDn60NTU) | 3:43 |
-| 9 | [Graves](https://open.spotify.com/track/1CEYsFOS0hAoVxuqtRmaLz) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Graves](https://open.spotify.com/album/7IyWwzTZC4NAGp9Sg0UAKM) | 4:20 |
-| 10 | [O God Forgive Us](https://open.spotify.com/track/2dBpNhfNCT1XkBRAOdam5J) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [RUN WILD\. LIVE FREE\. LOVE STRONG\. \(Deluxe Anniversary Edition\)](https://open.spotify.com/album/3JgsuH1i4ddVP4Ke5zf87I) | 3:25 |
+| 9 | [O God Forgive Us](https://open.spotify.com/track/2dBpNhfNCT1XkBRAOdam5J) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [RUN WILD\. LIVE FREE\. LOVE STRONG\. \(Deluxe Anniversary Edition\)](https://open.spotify.com/album/3JgsuH1i4ddVP4Ke5zf87I) | 3:25 |
+| 10 | [Graves](https://open.spotify.com/track/1CEYsFOS0hAoVxuqtRmaLz) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Graves](https://open.spotify.com/album/7IyWwzTZC4NAGp9Sg0UAKM) | 4:20 |
 | 11 | [Armies](https://open.spotify.com/track/0xn6LxYghEct04MQTcrtrJ) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [His Glory Alone](https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj) | 3:30 |
 | 12 | [Be Alright \- Remix](https://open.spotify.com/track/1Uj2EIkCWdfe6XMOscRqBr) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [Be Alright \(Remix\)](https://open.spotify.com/album/5CZSvhDtNjRA7kU0FFHxY7) | 3:42 |
 | 13 | [Prove It](https://open.spotify.com/track/1tGKjMflcFTEY2IOzKhwLe) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [American Prodigal \(Deluxe Edition\)](https://open.spotify.com/album/5UnaAIuMRqSBeBWY3XM0FQ) | 2:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 | 49 | [Tempo](https://open.spotify.com/track/2qFykEZQhO43nt6Kbg0IFk) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Tempo](https://open.spotify.com/album/7CHHpR5lbHnnNdY2blhDhi) | 4:00 |
 | 50 | [On 10](https://open.spotify.com/track/2KR3XkJdsVJrF1ISG1QbLy) | [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [On 10](https://open.spotify.com/album/1o2f9ssb08V2XSRichmBT1) | 3:07 |
 
-Snapshot ID: `MjgwMjYwMzIsMDAwMDAwMDA0NjdmZDIxZWJjYWIwZWE1Y2YwMTdmNjU0ZDNiYjA1Yg==`
+Snapshot ID: `MjgwMjc0MDEsMDAwMDAwMDAyNTFiNzMyYjIzZjMwZTYxMzMwMTY3ZjA1NmY4NjVlNQ==`

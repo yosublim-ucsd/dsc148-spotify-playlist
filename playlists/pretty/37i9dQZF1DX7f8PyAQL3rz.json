@@ -1,12 +1,12 @@
 {
   "description": "kayblack esquece",
-  "num_followers": 1105052,
+  "num_followers": 1105472,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ3NzA4MCwwMDAwMDAwMGQyOWQwYmJmMjVmY2Q0NzJkYzkxNTg5ZjBhOGY3MTYx",
+  "snapshot_id": "MTY4MTQ3NzA4MCwwMDAwMDAwMDI0OTA4ZTJhYzJhZDcxODFiYmZkNTk3NzQyNjI5OTZl",
   "tracks": [
     {
       "added_at": "2023-04-14 12:58:00",
@@ -723,6 +723,34 @@
     {
       "added_at": "2023-04-14 12:58:00",
       "album": {
+        "name": "Nunca Sozinho",
+        "url": "https://open.spotify.com/album/5UDKZWc01Bse8OGYCR2wpb"
+      },
+      "artists": [
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka"
+        }
+      ],
+      "duration_ms": 137102,
+      "name": "Nunca Sozinho",
+      "url": "https://open.spotify.com/track/0uGpWtQgtZ6UcFXnFiNhNq"
+    },
+    {
+      "added_at": "2023-04-14 12:58:00",
+      "album": {
         "name": "Hino dos Mlks",
         "url": "https://open.spotify.com/album/0oqZQcQBNKWMxTGgi72eMt"
       },
@@ -1051,26 +1079,6 @@
     {
       "added_at": "2023-04-14 12:58:00",
       "album": {
-        "name": "Mateca x Teto",
-        "url": "https://open.spotify.com/album/6UxAHRNJAQpp9Rd1aGrQd7"
-      },
-      "artists": [
-        {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
-        },
-        {
-          "name": "Mateca",
-          "url": "https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU"
-        }
-      ],
-      "duration_ms": 202909,
-      "name": "Balazul",
-      "url": "https://open.spotify.com/track/1RgJ4lexKGNBlKnyxB5SRt"
-    },
-    {
-      "added_at": "2023-04-14 12:58:00",
-      "album": {
         "name": "Me Espera",
         "url": "https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof"
       },
@@ -1091,6 +1099,26 @@
       "duration_ms": 142564,
       "name": "Metflix - Remix",
       "url": "https://open.spotify.com/track/0o1FzBVTQhHBjwxaNko4Jh"
+    },
+    {
+      "added_at": "2023-04-14 12:58:00",
+      "album": {
+        "name": "Mateca x Teto",
+        "url": "https://open.spotify.com/album/6UxAHRNJAQpp9Rd1aGrQd7"
+      },
+      "artists": [
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        },
+        {
+          "name": "Mateca",
+          "url": "https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU"
+        }
+      ],
+      "duration_ms": 202909,
+      "name": "Balazul",
+      "url": "https://open.spotify.com/track/1RgJ4lexKGNBlKnyxB5SRt"
     },
     {
       "added_at": "2023-04-14 12:58:00",
@@ -1451,26 +1479,6 @@
       "duration_ms": 128000,
       "name": "Londres Freestyle",
       "url": "https://open.spotify.com/track/1lgavq2sDLrnD5h5BytyBr"
-    },
-    {
-      "added_at": "2023-04-14 12:58:00",
-      "album": {
-        "name": "NUNCA SOZ\u0130NHO",
-        "url": "https://open.spotify.com/album/1qF4rCJnQ6wnIHeIfK6BOk"
-      },
-      "artists": [
-        {
-          "name": "hamza7",
-          "url": "https://open.spotify.com/artist/7541kRGbFjmVsqPV4CMVzp"
-        },
-        {
-          "name": "Votabia",
-          "url": "https://open.spotify.com/artist/4klGZvLtbfhDtrdTTS2EhK"
-        }
-      ],
-      "duration_ms": 137647,
-      "name": "NUNCA SOZ\u0130NHO",
-      "url": "https://open.spotify.com/track/0HAvN3XZPCnOrfFIFGcXp6"
     }
   ],
   "unique_name": "creme",

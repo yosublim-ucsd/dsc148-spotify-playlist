@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 
 > Prepare for Easter week by reflecting on songs of Jesus' life, death, and resurrection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,136 likes - 75 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,137 likes - 75 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,10 +47,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 | 37 | [No One Like Our God](https://open.spotify.com/track/0OVsEZ9BLf4zNa4d8OOL3a) | [Lincoln Brewster](https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1) | [No One Like Our God](https://open.spotify.com/album/7Fcpi2Cm9H7PoWi0y91aKR) | 4:09 |
 | 38 | [Long Live The King \- Live At The Grove](https://open.spotify.com/track/59JtpavXIKPmHi4Z8PAbj3) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Matt Gilman](https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P) | [Long Live The King \(Live At The Grove\)](https://open.spotify.com/album/0agzLXWxrapOwNXsGXx9nn) | 7:01 |
 | 39 | [Speak the Name \(feat\. Natalie Grant\)](https://open.spotify.com/track/6ERUhKp4ECxlnmJvKQZpu1) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Unstoppable](https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang) | 4:52 |
-| 40 | [The Cross Has The Final Word](https://open.spotify.com/track/5vqBJKU4U3OLvm2anticiy) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [The Cross Has The Final Word](https://open.spotify.com/album/43PHsVjv7xGRZNbD9TGha6) | 4:12 |
-| 41 | [O Rock Eternal](https://open.spotify.com/track/5jESluIHyWKrA6DNA9HuUH) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [The Narrow Sea](https://open.spotify.com/album/6sYxNRjg8MYDCdkDT1BfM8) | 5:13 |
-| 42 | [Amazing Grace \(My Chains Are Gone\)](https://open.spotify.com/track/6AsJ2pB08SKZ0j96U7F1pr) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [See The Morning](https://open.spotify.com/album/1rt1h8pDDeJoVJrr5jbAmi) | 4:27 |
-| 43 | [Happy Day](https://open.spotify.com/track/1gLCydMCD7D1b0bnYp5tyS) | [Tim Hughes](https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh) | [Holding Nothing Back](https://open.spotify.com/album/2rygzTYOjYKpkfW99tCiaz) | 3:23 |
+| 40 | [O Rock Eternal](https://open.spotify.com/track/5jESluIHyWKrA6DNA9HuUH) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [The Narrow Sea](https://open.spotify.com/album/6sYxNRjg8MYDCdkDT1BfM8) | 5:13 |
+| 41 | [The Cross Has The Final Word](https://open.spotify.com/track/5vqBJKU4U3OLvm2anticiy) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [The Cross Has The Final Word](https://open.spotify.com/album/43PHsVjv7xGRZNbD9TGha6) | 4:12 |
+| 42 | [Happy Day](https://open.spotify.com/track/1gLCydMCD7D1b0bnYp5tyS) | [Tim Hughes](https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh) | [Holding Nothing Back](https://open.spotify.com/album/2rygzTYOjYKpkfW99tCiaz) | 3:23 |
+| 43 | [Amazing Grace \(My Chains Are Gone\)](https://open.spotify.com/track/6AsJ2pB08SKZ0j96U7F1pr) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [See The Morning](https://open.spotify.com/album/1rt1h8pDDeJoVJrr5jbAmi) | 4:27 |
 | 44 | [At The Cross \(Love Ran Red\) \- Live](https://open.spotify.com/track/51IOMFLZNIn4oynL6t6bwr) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: Take It All \(Live\)](https://open.spotify.com/album/5UIZUNZAbJl60uG7Y13JdB) | 7:08 |
 | 45 | [Upon Him](https://open.spotify.com/track/6hgbfjVLnlzIHiR8OJpeZS) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Upon Him](https://open.spotify.com/album/0LzvNRqh0zYGMyAuky8W05) | 4:01 |
 | 46 | [Death Was Arrested](https://open.spotify.com/track/29ZlluQsIFaYL79bBYey28) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Seth Condrey](https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg) | [Death Was Arrested](https://open.spotify.com/album/4bJORPO5CXGYDQ4VTKDMq9) | 5:14 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 | 69 | [Unveil My Eyes](https://open.spotify.com/track/3q2YCR0NGK1cTm9epl4q23) | [Salt Of The Sound](https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB) | [Echoes Of Wonder](https://open.spotify.com/album/0DuV8V9ZQQ7LnD22evmLsd) | 2:03 |
 | 70 | [Death Was Arrested / He's Alive \- Live](https://open.spotify.com/track/63xczPjcOU8Wl5T5YsStAo) | [The Talleys](https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC) | [Death Was Arrested / He's Alive \(Live\)](https://open.spotify.com/album/4aFoHGmtxzQtSHarx1k8IE) | 6:03 |
 | 71 | [Faithfulness \(feat\. Steffany Gretzinger\)](https://open.spotify.com/track/78ANuoRf4FZNRcUDtSaFiL) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 3:31 |
-| 72 | [Three](https://open.spotify.com/track/7wAR6VZvelnHbNKsrpTAs0) | [Jackson Michelson](https://open.spotify.com/artist/75u3YWqj5cBc7lxxfctOqN), [Point Of Grace](https://open.spotify.com/artist/5y1gFSVnE4DGxUxHeKrGk6) | [Three](https://open.spotify.com/album/4CieJO00mA5U3Qy8WhPYjU) | 3:33 |
-| 73 | [My Victory](https://open.spotify.com/track/1zg8rQ4pENedgx2FpHXN0o) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [My Utmost For His Highest](https://open.spotify.com/album/1FsAHNrcHF3QVdRHloCnhV) | 4:00 |
+| 72 | [My Victory](https://open.spotify.com/track/1zg8rQ4pENedgx2FpHXN0o) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [My Utmost For His Highest](https://open.spotify.com/album/1FsAHNrcHF3QVdRHloCnhV) | 4:00 |
+| 73 | [Three](https://open.spotify.com/track/7wAR6VZvelnHbNKsrpTAs0) | [Jackson Michelson](https://open.spotify.com/artist/75u3YWqj5cBc7lxxfctOqN), [Point Of Grace](https://open.spotify.com/artist/5y1gFSVnE4DGxUxHeKrGk6) | [Three](https://open.spotify.com/album/4CieJO00mA5U3Qy8WhPYjU) | 3:33 |
 | 74 | [Forever](https://open.spotify.com/track/4v3SzdNUZLpocZxK6oZEkW) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brian Johnson](https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9) | [Tides](https://open.spotify.com/album/1JS4S79J7ZNDKRUkf2tFl6) | 5:26 |
 | 75 | [Love Shines \- Acoustic Version](https://open.spotify.com/track/0wO8DKDFIW1RpSaVHhRmQd) | [Austin Stone Worship](https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x) | [Love Shines \- EP](https://open.spotify.com/album/4nPsZ7BBTtYcWw52GmeTRO) | 5:19 |
 
-Snapshot ID: `MTY4MDQyMzY3NiwwMDAwMDAwMDQzMTIzMDEwY2JjMTFmNWRlNTU2ZTc1Nzk1ZTUxNjI1`
+Snapshot ID: `MTY4MDQyMzY3NiwwMDAwMDAwMGJlMzY5OWVhNGM3NGEzMmIxNGZiZWEzMjE3YjFlYmIy`

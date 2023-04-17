@@ -1,12 +1,12 @@
 {
   "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Johnny Drille",
-  "num_followers": 194275,
+  "num_followers": 194383,
   "original_name": "Ginger Me",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ2NjYwMSwwMDAwMDAwMDE1NWI5NTI4Mjc5ZjEwYzE2NTFkODZjZjUzZjM5YWI5",
+  "snapshot_id": "MTY4MTQ2NjYwMSwwMDAwMDAwMDZjNDE0Y2IyN2UzYWZkNTQzOWFjMDI2NzRjODg2MTA3",
   "tracks": [
     {
       "added_at": "2023-04-14 10:03:21",
@@ -367,6 +367,30 @@
     {
       "added_at": "2023-04-14 10:03:21",
       "album": {
+        "name": "People (Remixes)",
+        "url": "https://open.spotify.com/album/2Ebc4HsLcB4fXrTA5oNE5G"
+      },
+      "artists": [
+        {
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 184633,
+      "name": "People (feat. Ayra Starr & Omah Lay)",
+      "url": "https://open.spotify.com/track/4AxG1T6UJJ4xCX4Wz6JDLG"
+    },
+    {
+      "added_at": "2023-04-14 10:03:21",
+      "album": {
         "name": "Playboy",
         "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
       },
@@ -399,26 +423,6 @@
     {
       "added_at": "2023-04-14 10:03:21",
       "album": {
-        "name": "Carry Me Go",
-        "url": "https://open.spotify.com/album/7hAXzkLo3J1tLMMO3H74do"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        },
-        {
-          "name": "Boy Spyce",
-          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
-        }
-      ],
-      "duration_ms": 136464,
-      "name": "Carry Me Go",
-      "url": "https://open.spotify.com/track/7qxtOyjZ2zSaxBPH8fLyNi"
-    },
-    {
-      "added_at": "2023-04-14 10:03:21",
-      "album": {
         "name": "How Many Times",
         "url": "https://open.spotify.com/album/32pRltYP2ioIOuycPQFpXm"
       },
@@ -443,26 +447,22 @@
     {
       "added_at": "2023-04-14 10:03:21",
       "album": {
-        "name": "People (Remixes)",
-        "url": "https://open.spotify.com/album/2Ebc4HsLcB4fXrTA5oNE5G"
+        "name": "Carry Me Go",
+        "url": "https://open.spotify.com/album/7hAXzkLo3J1tLMMO3H74do"
       },
       "artists": [
         {
-          "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
         },
         {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Boy Spyce",
+          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
         }
       ],
-      "duration_ms": 184633,
-      "name": "People (feat. Ayra Starr & Omah Lay)",
-      "url": "https://open.spotify.com/track/4AxG1T6UJJ4xCX4Wz6JDLG"
+      "duration_ms": 136464,
+      "name": "Carry Me Go",
+      "url": "https://open.spotify.com/track/7qxtOyjZ2zSaxBPH8fLyNi"
     },
     {
       "added_at": "2023-04-14 10:03:21",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-04-14 10:03:21",
       "album": {
-        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
-        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 176293,
-      "name": "Coming Back For You",
-      "url": "https://open.spotify.com/track/5o77o7nTrQL1mWAyrvVMNI"
-    },
-    {
-      "added_at": "2023-04-14 10:03:21",
-      "album": {
         "name": "Outlaw",
         "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 197000,
       "name": "Kolomental",
       "url": "https://open.spotify.com/track/3kqE7QmylUIJV3QXC6arrR"
+    },
+    {
+      "added_at": "2023-04-14 10:03:21",
+      "album": {
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 176293,
+      "name": "Coming Back For You",
+      "url": "https://open.spotify.com/track/5o77o7nTrQL1mWAyrvVMNI"
     },
     {
       "added_at": "2023-04-14 10:03:21",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-04-14 10:03:21",
       "album": {
-        "name": "Sempe (Acoustic)",
-        "url": "https://open.spotify.com/album/2UKtuS3AaeMsEmt5tV6rAe"
-      },
-      "artists": [
-        {
-          "name": "L.A.X",
-          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
-        }
-      ],
-      "duration_ms": 98000,
-      "name": "Sempe - Acoustic",
-      "url": "https://open.spotify.com/track/6R2gAXDiP5689wFxzP6qvl"
-    },
-    {
-      "added_at": "2023-04-14 10:03:21",
-      "album": {
         "name": "Folake",
         "url": "https://open.spotify.com/album/1zXxlkgp0TkifABiPujJ1i"
       },
@@ -687,6 +671,22 @@
     {
       "added_at": "2023-04-14 10:03:21",
       "album": {
+        "name": "Sempe (Acoustic)",
+        "url": "https://open.spotify.com/album/2UKtuS3AaeMsEmt5tV6rAe"
+      },
+      "artists": [
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        }
+      ],
+      "duration_ms": 98000,
+      "name": "Sempe - Acoustic",
+      "url": "https://open.spotify.com/track/6R2gAXDiP5689wFxzP6qvl"
+    },
+    {
+      "added_at": "2023-04-14 10:03:21",
+      "album": {
         "name": "Beautifully",
         "url": "https://open.spotify.com/album/2jE8QxForZdlDrQjazefhx"
       },
@@ -699,6 +699,22 @@
       "duration_ms": 169844,
       "name": "Beautifully",
       "url": "https://open.spotify.com/track/7mFrwc86C3vZKobwpK0jdH"
+    },
+    {
+      "added_at": "2023-04-14 10:03:21",
+      "album": {
+        "name": "19 & Dangerous",
+        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Fashion Killer",
+      "url": "https://open.spotify.com/track/3R2Etej4zzbt8LTs3rvJA1"
     },
     {
       "added_at": "2023-04-14 10:03:21",
@@ -735,22 +751,6 @@
       "duration_ms": 262973,
       "name": "Blessed (feat. Damian Marley)",
       "url": "https://open.spotify.com/track/3QO1m6i0nsrp8aOnapvbkx"
-    },
-    {
-      "added_at": "2023-04-14 10:03:21",
-      "album": {
-        "name": "19 & Dangerous",
-        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Fashion Killer",
-      "url": "https://open.spotify.com/track/3R2Etej4zzbt8LTs3rvJA1"
     },
     {
       "added_at": "2023-04-14 10:03:21",
@@ -819,18 +819,18 @@
     {
       "added_at": "2023-04-14 10:03:21",
       "album": {
-        "name": "Bad To Me",
-        "url": "https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ"
+        "name": "5 Star",
+        "url": "https://open.spotify.com/album/7sL2HnpqLO8uAdV6YlHLl4"
       },
       "artists": [
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
         }
       ],
-      "duration_ms": 176850,
-      "name": "Bad To Me",
-      "url": "https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j"
+      "duration_ms": 150280,
+      "name": "5 Star",
+      "url": "https://open.spotify.com/track/5l6ZVWdSdot8a1FjPBiXvz"
     },
     {
       "added_at": "2023-04-14 10:03:21",
@@ -851,18 +851,18 @@
     {
       "added_at": "2023-04-14 10:03:21",
       "album": {
-        "name": "5 Star",
-        "url": "https://open.spotify.com/album/7sL2HnpqLO8uAdV6YlHLl4"
+        "name": "Bad To Me",
+        "url": "https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ"
       },
       "artists": [
         {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 150280,
-      "name": "5 Star",
-      "url": "https://open.spotify.com/track/5l6ZVWdSdot8a1FjPBiXvz"
+      "duration_ms": 176850,
+      "name": "Bad To Me",
+      "url": "https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j"
     },
     {
       "added_at": "2023-04-14 10:03:21",
@@ -923,26 +923,6 @@
     {
       "added_at": "2023-04-14 10:03:21",
       "album": {
-        "name": "Different (With Majid Jordan)",
-        "url": "https://open.spotify.com/album/0XRJnjejsA9YXjYGdek23k"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        },
-        {
-          "name": "Majid Jordan",
-          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "Different (With Majid Jordan)",
-      "url": "https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY"
-    },
-    {
-      "added_at": "2023-04-14 10:03:21",
-      "album": {
         "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
         "url": "https://open.spotify.com/album/6OTNestAuAxK7wytwRiq9q"
       },
@@ -967,6 +947,46 @@
       "duration_ms": 213599,
       "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
       "url": "https://open.spotify.com/track/6iC4xfqow6iAsRhPh5IrWz"
+    },
+    {
+      "added_at": "2023-04-14 10:03:21",
+      "album": {
+        "name": "Catch Me If You Can",
+        "url": "https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 160799,
+      "name": "One Woman",
+      "url": "https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF"
+    },
+    {
+      "added_at": "2023-04-14 10:03:21",
+      "album": {
+        "name": "Different (With Majid Jordan)",
+        "url": "https://open.spotify.com/album/0XRJnjejsA9YXjYGdek23k"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        },
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "Different (With Majid Jordan)",
+      "url": "https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY"
     },
     {
       "added_at": "2023-04-14 10:03:21",
@@ -1043,26 +1063,6 @@
     {
       "added_at": "2023-04-14 10:03:21",
       "album": {
-        "name": "Catch Me If You Can",
-        "url": "https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 160799,
-      "name": "One Woman",
-      "url": "https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF"
-    },
-    {
-      "added_at": "2023-04-14 10:03:21",
-      "album": {
         "name": "Last Name",
         "url": "https://open.spotify.com/album/5tUXmCXcOyqRO7lLeWrMHR"
       },
@@ -1091,6 +1091,26 @@
       "duration_ms": 175504,
       "name": "you",
       "url": "https://open.spotify.com/track/5Wdl4yFoXOX1xmA53udLyZ"
+    },
+    {
+      "added_at": "2023-04-14 10:03:21",
+      "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 174117,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu"
     },
     {
       "added_at": "2023-04-14 10:03:21",
@@ -1159,26 +1179,6 @@
       "duration_ms": 202626,
       "name": "Antidote (feat. Adekunle Gold)",
       "url": "https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia"
-    },
-    {
-      "added_at": "2023-04-14 10:03:21",
-      "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 174117,
-      "name": "Sinner",
-      "url": "https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu"
     },
     {
       "added_at": "2023-04-14 10:03:21",

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Baila con los mejores \u00e9xitos de los 90! Ricky Martin en portada.",
-  "num_followers": 1015381,
+  "num_followers": 1015670,
   "original_name": "Fiesta 90era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ2Mzc4MSwwMDAwMDAwMGI3MGM2MWY5NDE2Mzk4Y2UzNjkyZjMyOTA2MGM3ZDli",
+  "snapshot_id": "MTY3ODQ2Mzc4MSwwMDAwMDAwMDVkYTIzNmUzOGZlZTllYjYzZTFmMmU4ZTE2MzgwYjIx",
   "tracks": [
     {
       "added_at": "2023-03-10 15:56:21",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-03-10 15:56:21",
       "album": {
-        "name": "Chayanne",
-        "url": "https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 218560,
-      "name": "Torero",
-      "url": "https://open.spotify.com/track/2es7AohVgF03LwjmQyaVMl"
-    },
-    {
-      "added_at": "2023-03-10 15:56:21",
-      "album": {
         "name": "Lo Mejor de Vilma Palma",
         "url": "https://open.spotify.com/album/04ezQVYrGNcXyrBUl42NZi"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 281933,
       "name": "La pachanga",
       "url": "https://open.spotify.com/track/0bIye27QbOvSrTAmCViX5O"
+    },
+    {
+      "added_at": "2023-03-10 15:56:21",
+      "album": {
+        "name": "Chayanne",
+        "url": "https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 218560,
+      "name": "Torero",
+      "url": "https://open.spotify.com/track/2es7AohVgF03LwjmQyaVMl"
     },
     {
       "added_at": "2023-03-10 15:56:21",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-03-10 15:56:21",
       "album": {
-        "name": "La M\u00e1s Completa Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/6r62ZeOqHlT866I41gDQbA"
-      },
-      "artists": [
-        {
-          "name": "Ragazzi",
-          "url": "https://open.spotify.com/artist/1GtZbseNStljOLGycLUbpA"
-        }
-      ],
-      "duration_ms": 241773,
-      "name": "TBC",
-      "url": "https://open.spotify.com/track/6HJpRs15t69hbKxIhlWwgC"
-    },
-    {
-      "added_at": "2023-03-10 15:56:21",
-      "album": {
         "name": "Lo Mejor De OV7",
         "url": "https://open.spotify.com/album/3YEri67vvZWR0WJxbda8D0"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 249400,
       "name": "Enloqu\u00e9ceme",
       "url": "https://open.spotify.com/track/0tZARbD3Ir3eY7nbFULwfS"
+    },
+    {
+      "added_at": "2023-03-10 15:56:21",
+      "album": {
+        "name": "La M\u00e1s Completa Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/6r62ZeOqHlT866I41gDQbA"
+      },
+      "artists": [
+        {
+          "name": "Ragazzi",
+          "url": "https://open.spotify.com/artist/1GtZbseNStljOLGycLUbpA"
+        }
+      ],
+      "duration_ms": 241773,
+      "name": "TBC",
+      "url": "https://open.spotify.com/track/6HJpRs15t69hbKxIhlWwgC"
     },
     {
       "added_at": "2023-03-10 15:56:21",

@@ -4,7 +4,7 @@
 
 > 沒有什麼比感覺好更重要了！這裡的歌曲能大大振奮心情、令你元氣十足！
 
-257 songs - 13 hr 39 min
+258 songs - 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Carry You Home](https://open.spotify.com/track/57jJsS1qNk12kOUHcRpJMm) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Carry You Home](https://open.spotify.com/album/1W7Xuqc9isSe0erfFGZFpR) | 3:19 | 2022-12-06 | 2022-12-13 |
 | [cherry cigarettes](https://open.spotify.com/track/6Fsz5G1vKPZjQ3OIeFm50v) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [cherry cigarettes](https://open.spotify.com/album/20tQ55dryYRoJ7M8DmKWti) | 2:18 | 2023-01-23 | 2023-02-01 |
 | [Chew On My Heart](https://open.spotify.com/track/6t7089pe4VklogK683LdPM) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chew On My Heart](https://open.spotify.com/album/35CBeD16aEGo0xnm5ov6pM) | 3:15 | 2022-06-06 | 2022-07-29 |
+| [Cinderella Snapped](https://open.spotify.com/track/3udCid1W2whR6CQrVpsKUh) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Cinderella Snapped](https://open.spotify.com/album/7iUDdeaEqO2asWLp8zPE3n) | 2:53 | 2023-04-03 |  |
 | [Clean](https://open.spotify.com/track/731wrbYzVBKXCgdcvZ1vDM) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Unwanted](https://open.spotify.com/album/2j1AQqwSWqsMaJ5WCS1LlY) | 2:53 | 2022-08-15 | 2022-08-23 |
 | [Cloud 9](https://open.spotify.com/track/6vFsBXYczYsP0H3lgunZOm) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Honeymoon](https://open.spotify.com/album/6QZyKchQivUBTSMcoBmlPa) | 2:27 | 2022-07-25 |  |
 | [Clouds](https://open.spotify.com/track/6GJpkR776SkVYZLTVxtdNT) | [North To East](https://open.spotify.com/artist/3bJnr1lqzY1jVOZ6vYZI9I) | [Clouds](https://open.spotify.com/album/1gKdKi8qjeUqheWmyfqWzY) | 4:24 | 2022-06-06 | 2022-07-29 |
@@ -87,7 +88,7 @@
 | [Fuck It I Love You](https://open.spotify.com/track/7eU1oQcE89ZS7T8oVuMn4G) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Fuck It I Love You](https://open.spotify.com/album/52Ey7PJjy1ct2Qoygs7h8W) | 3:23 | 2022-06-13 | 2022-07-27 |
 | [gfy \(with Machine Gun Kelly\)](https://open.spotify.com/track/3MTm8eZ2wCEtpyZqqhP6Dn) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [gfy \(with Machine Gun Kelly\)](https://open.spotify.com/album/43tasPwPisjAgGgde0yy7F) | 2:52 | 2022-07-25 | 2022-09-10 |
 | [gfy \(with Machine Gun Kelly\)](https://open.spotify.com/track/4nvGIQPgLnWWJUJrnRsIOX) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [in loving memory](https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau) | 2:54 | 2022-10-10 | 2022-12-30 |
-| [Give Me a Kiss](https://open.spotify.com/track/0OXdfW3Q6VJGpg1k5Ik1SW) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Give Me a Kiss](https://open.spotify.com/album/0CafPkGhvLKbSwto8FQJq1) | 2:49 | 2022-11-14 |  |
+| [Give Me a Kiss](https://open.spotify.com/track/0OXdfW3Q6VJGpg1k5Ik1SW) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Give Me a Kiss](https://open.spotify.com/album/0CafPkGhvLKbSwto8FQJq1) | 2:49 | 2022-11-14 | 2023-04-17 |
 | [Give Me A Kiss](https://open.spotify.com/track/0ocf3HwWhrXtA8r63Vcd2h) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Give Me A Kiss](https://open.spotify.com/album/4Cxkou3pFWfzoLsw9Aonfw) | 2:49 | 2022-09-06 | 2022-11-06 |
 | [Go The Distance](https://open.spotify.com/track/4HFi9NP66qdNOsgPGLqrm7) | [New Rules](https://open.spotify.com/artist/75ois9nn8xMuOgVk2oCN1C) | [Go The Distance](https://open.spotify.com/album/4n0O2srPjbdjU4i1EEqkcu) | 2:47 | 2022-06-06 | 2022-07-28 |
 | [GO TO HELL](https://open.spotify.com/track/55XRXhQeU25IwqVpjQqxkz) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [GO TO HELL](https://open.spotify.com/album/32boQRfLOkEfXznZtudRrS) | 3:03 | 2022-06-13 | 2022-07-23 |

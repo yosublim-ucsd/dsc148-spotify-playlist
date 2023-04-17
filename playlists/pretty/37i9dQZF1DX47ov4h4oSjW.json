@@ -1,12 +1,12 @@
 {
   "description": "Music to help you concentrate during your homework.",
-  "num_followers": 104209,
+  "num_followers": 104196,
   "original_name": "Piano Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODYxNjMxOCwwMDAwMDAwMGJmYTQ1ZTViMzljMTIzNWU2MjY0YTk0MTY2NGE1Njgz",
+  "snapshot_id": "MTY3ODYxNjMxOCwwMDAwMDAwMGQxZTRkZGU3ZGNjNGY4NzA3YmM1MzhmN2NlM2M1NjBm",
   "tracks": [
     {
       "added_at": "2023-03-12 10:18:38",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Snow Kiss",
-        "url": "https://open.spotify.com/album/0z2kjuU6HASKwJoOMCYw1T"
-      },
-      "artists": [
-        {
-          "name": "Freya R\u00e4\u00e4f",
-          "url": "https://open.spotify.com/artist/160moq3FVNizaDKVSK4Pmj"
-        }
-      ],
-      "duration_ms": 116750,
-      "name": "Snow Kiss",
-      "url": "https://open.spotify.com/track/2WCeRZDVyagKARVqAxr7QW"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Home full of solipsism",
         "url": "https://open.spotify.com/album/6lO17gFILD6VAk71WT29dA"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 177882,
       "name": "Home full of solipsism",
       "url": "https://open.spotify.com/track/0i5RkqFU2XfihIcxTxG3h1"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Snow Kiss",
+        "url": "https://open.spotify.com/album/0z2kjuU6HASKwJoOMCYw1T"
+      },
+      "artists": [
+        {
+          "name": "Freya R\u00e4\u00e4f",
+          "url": "https://open.spotify.com/artist/160moq3FVNizaDKVSK4Pmj"
+        }
+      ],
+      "duration_ms": 116750,
+      "name": "Snow Kiss",
+      "url": "https://open.spotify.com/track/2WCeRZDVyagKARVqAxr7QW"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Eyes Closed And Traveling",
-        "url": "https://open.spotify.com/album/5Lc2PFEqSXXRAL3swmftRb"
-      },
-      "artists": [
-        {
-          "name": "Peter Broderick",
-          "url": "https://open.spotify.com/artist/3haVJx9TUcufYl1rPyH0iv"
-        }
-      ],
-      "duration_ms": 219549,
-      "name": "Eyes Closed And Traveling",
-      "url": "https://open.spotify.com/track/6zYHwIlDPraiG9UTg4y0oe"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Donde Nadas",
         "url": "https://open.spotify.com/album/6Yg0OOMxh7bywdOeUVzwXK"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 141941,
       "name": "Donde Nadas",
       "url": "https://open.spotify.com/track/0SpK2s8gJnetHIuzSBqgta"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Eyes Closed And Traveling",
+        "url": "https://open.spotify.com/album/5Lc2PFEqSXXRAL3swmftRb"
+      },
+      "artists": [
+        {
+          "name": "Peter Broderick",
+          "url": "https://open.spotify.com/artist/3haVJx9TUcufYl1rPyH0iv"
+        }
+      ],
+      "duration_ms": 219549,
+      "name": "Eyes Closed And Traveling",
+      "url": "https://open.spotify.com/track/6zYHwIlDPraiG9UTg4y0oe"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Paragon",
-        "url": "https://open.spotify.com/album/2UizTfQJHP9iS8GTCrlgHe"
+        "name": "Always",
+        "url": "https://open.spotify.com/album/53GIKoxcqDkU8yZgA3o9FO"
       },
       "artists": [
         {
-          "name": "Anton Lebedev",
-          "url": "https://open.spotify.com/artist/1QCX4RcJeAWUjciKRD7bug"
+          "name": "Olivier DeGrasse",
+          "url": "https://open.spotify.com/artist/13mckNVoWSaXe2LubZG4Sb"
         }
       ],
-      "duration_ms": 160500,
-      "name": "Paragon",
-      "url": "https://open.spotify.com/track/7r2oQgswotJG7uxMvvomc6"
+      "duration_ms": 197500,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/4cmE5SPvjKEzIHzhrLq9jO"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/53GIKoxcqDkU8yZgA3o9FO"
+        "name": "Paragon",
+        "url": "https://open.spotify.com/album/2UizTfQJHP9iS8GTCrlgHe"
       },
       "artists": [
         {
-          "name": "Olivier DeGrasse",
-          "url": "https://open.spotify.com/artist/13mckNVoWSaXe2LubZG4Sb"
+          "name": "Anton Lebedev",
+          "url": "https://open.spotify.com/artist/1QCX4RcJeAWUjciKRD7bug"
         }
       ],
-      "duration_ms": 197500,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/4cmE5SPvjKEzIHzhrLq9jO"
+      "duration_ms": 160500,
+      "name": "Paragon",
+      "url": "https://open.spotify.com/track/7r2oQgswotJG7uxMvvomc6"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Avenues",
-        "url": "https://open.spotify.com/album/0rvrpin8MFriRR4dIIneA1"
-      },
-      "artists": [
-        {
-          "name": "Seth Fernsby",
-          "url": "https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX"
-        }
-      ],
-      "duration_ms": 139663,
-      "name": "Avenues",
-      "url": "https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Eden",
         "url": "https://open.spotify.com/album/0qlURxpEPDS25Wg74IAoeC"
       },
@@ -1467,22 +1451,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Azure (Piano Version)",
-        "url": "https://open.spotify.com/album/4lT2JzD3ZAEfjRx5crCbA5"
+        "name": "Avenues",
+        "url": "https://open.spotify.com/album/0rvrpin8MFriRR4dIIneA1"
       },
       "artists": [
         {
-          "name": "Aukai",
-          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
-        },
-        {
-          "name": "B\u00fc\u015fra Kay\u0131k\u00e7\u0131",
-          "url": "https://open.spotify.com/artist/0iOvtl1pydfRgGpJWOOP8E"
+          "name": "Seth Fernsby",
+          "url": "https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX"
         }
       ],
-      "duration_ms": 222129,
-      "name": "Azure - Piano Version",
-      "url": "https://open.spotify.com/track/5b3i1A9Frf3c0UFffMtoXA"
+      "duration_ms": 139663,
+      "name": "Avenues",
+      "url": "https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1503,6 +1483,26 @@
       "duration_ms": 376440,
       "name": "Nocturnes, Op. 27: No. 2 in D-Flat Major",
       "url": "https://open.spotify.com/track/1nGDsTkP1npeWj4hJ9s9pw"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Azure (Piano Version)",
+        "url": "https://open.spotify.com/album/4lT2JzD3ZAEfjRx5crCbA5"
+      },
+      "artists": [
+        {
+          "name": "Aukai",
+          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
+        },
+        {
+          "name": "B\u00fc\u015fra Kay\u0131k\u00e7\u0131",
+          "url": "https://open.spotify.com/artist/0iOvtl1pydfRgGpJWOOP8E"
+        }
+      ],
+      "duration_ms": 222129,
+      "name": "Azure - Piano Version",
+      "url": "https://open.spotify.com/track/5b3i1A9Frf3c0UFffMtoXA"
     },
     {
       "added_at": "2023-03-12 10:18:38",

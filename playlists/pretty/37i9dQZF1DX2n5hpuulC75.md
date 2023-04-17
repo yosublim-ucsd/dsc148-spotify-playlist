@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 
 > Chill tunes for mellow moods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,559 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,611 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 | 15 | [I Don't Know](https://open.spotify.com/track/0otN4xqX87CxYFtbzQEPkS) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Where Will We Go, Pt\. 2](https://open.spotify.com/album/045GmXzU5nxXkpeD3w1eHc) | 4:59 |
 | 16 | [Where the Money Flows](https://open.spotify.com/track/35592qATAP1u72mO9oelLc) | [Peter Cat Recording Co.](https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV) | [Bismillah](https://open.spotify.com/album/6gnNCtxxhwKTYGIDVqeMUd) | 5:13 |
 | 17 | [Free Form](https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Wave002](https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU) | 2:47 |
-| 18 | [thankful](https://open.spotify.com/track/54xvG8lA7vsaEnsppZECaL) | [Meltycanon](https://open.spotify.com/artist/3agnCimLdkVM3mc4PFJUxC) | [Old Compilation 3](https://open.spotify.com/album/6OGJgEAt1mJ34TymYnTz5I) | 2:26 |
-| 19 | [Tonight](https://open.spotify.com/track/6oToGY0yfiDHiL13kOvZyr) | [Mishegas](https://open.spotify.com/artist/1F3BcbR6yzILOCzzA3i0Rh) | [Tonight](https://open.spotify.com/album/3fzORzNVuRc1VH3K74swLE) | 3:12 |
+| 18 | [Tonight](https://open.spotify.com/track/6oToGY0yfiDHiL13kOvZyr) | [Mishegas](https://open.spotify.com/artist/1F3BcbR6yzILOCzzA3i0Rh) | [Tonight](https://open.spotify.com/album/3fzORzNVuRc1VH3K74swLE) | 3:12 |
+| 19 | [thankful](https://open.spotify.com/track/54xvG8lA7vsaEnsppZECaL) | [Meltycanon](https://open.spotify.com/artist/3agnCimLdkVM3mc4PFJUxC) | [Old Compilation 3](https://open.spotify.com/album/6OGJgEAt1mJ34TymYnTz5I) | 2:26 |
 | 20 | [Daydream](https://open.spotify.com/track/6DEDhjTllUrPw29BivTvn2) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T), [Joba](https://open.spotify.com/artist/2t64CHsmWouJNyXSwy5q2q) | [Daydream feat\. Joba](https://open.spotify.com/album/0WRsSZMzGnH9f4HOfzTybZ) | 3:20 |
 | 21 | [Plastic](https://open.spotify.com/track/6ilPGjQvpV8PdA2lCeCfn1) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Aromanticism](https://open.spotify.com/album/3GEa8PdRoag1vtVUQCAla1) | 3:08 |
 | 22 | [Vibe](https://open.spotify.com/track/3cbgUz3NTglWlY0tuzQiQO) | [MELVV](https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d) | [Vibe](https://open.spotify.com/album/5w0BNHjrQ9ObkkQUVWzFdn) | 2:24 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 | 59 | [Nylon](https://open.spotify.com/track/5rXnugeW097ItJ6axhE9Rm) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz) | [Backwater](https://open.spotify.com/album/1NP6e7CKUe0xofWmmBMcfA) | 4:14 |
 | 60 | [You](https://open.spotify.com/track/4hUwGugDAOjypsfNyagxbA) | [Only Emily](https://open.spotify.com/artist/7zQJLySlh6khVpyF4W1IdT) | [EP 2](https://open.spotify.com/album/63nEJyxKj0LvRo3BUWoRK4) | 2:50 |
 
-Snapshot ID: `MTU2ODY0ODY2NSwwMDAwMDAwMDQ4MTM1MjExM2FjYmVlY2I5NGRjYzc4ZjI0N2RmMGI4`
+Snapshot ID: `MTU2ODY0ODY2NSwwMDAwMDAwMGRmNjA3NjZlMDJiYjhhODdkMTdkN2M1OTkzOTRiODVj`

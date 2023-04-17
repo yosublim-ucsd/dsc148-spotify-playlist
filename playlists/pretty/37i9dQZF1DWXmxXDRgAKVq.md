@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmxXDRgAKVq.md) - [plain]
 
 > Curated by A$AP Mob in honor of A$AP Yams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,811 likes - 51 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,823 likes - 51 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmxXDRgAKVq.md) - [plain]
 | 23 | [dothatshit!](https://open.spotify.com/track/1KzNsOkpQthVwpCJrADJEQ) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Playboi Carti](https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j) | 3:04 |
 | 24 | [WAM](https://open.spotify.com/track/7f2HHmhlbdkW5f9Ge26qny) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ) | [Floor Seats](https://open.spotify.com/album/6bI4IQKBcLX0KsTjQ9NR97) | 2:37 |
 | 25 | [Canal St\. \(feat\. Bones\)](https://open.spotify.com/track/0rBMP6VVGRgwnzZCLpijyl) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [AT.LONG.LAST.A$AP](https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc) | 3:47 |
-| 26 | [Feels So Good \(feat\. A$AP Ferg, A$AP Nast, A$AP Rocky & A$AP Twelvyy\)](https://open.spotify.com/track/2GDurWqMjyoIN4tufyWMHw) | [A$AP Mob](https://open.spotify.com/artist/7yO4IdJjCEPz7YgZMe25iS), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [A$AP NAST](https://open.spotify.com/artist/1uLYUm2A6kpFYAECfAFoH1), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [A$AP Twelvyy](https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P) | [Feels So Good \(feat\. A$AP Ferg, A$AP Nast, A$AP Rocky & A$AP Twelvyy\)](https://open.spotify.com/album/0fPPktynlWuMw4VOFGCS1Y) | 3:25 |
+| 26 | [Feels So Good \(feat\. A$AP Rocky, A$AP Ferg, A$AP Nast & A$AP Twelvyy\)](https://open.spotify.com/track/2GDurWqMjyoIN4tufyWMHw) | [A$AP Mob](https://open.spotify.com/artist/7yO4IdJjCEPz7YgZMe25iS), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [A$AP NAST](https://open.spotify.com/artist/1uLYUm2A6kpFYAECfAFoH1), [A$AP Twelvyy](https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P) | [Feels So Good \(feat\. A$AP Rocky, A$AP Ferg, A$AP Nast & A$AP Twelvyy\)](https://open.spotify.com/album/0fPPktynlWuMw4VOFGCS1Y) | 3:25 |
 | 27 | [Nandos](https://open.spotify.com/track/5kk89RYrVuGGNtE2pilxci) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Still Striving](https://open.spotify.com/album/0tQ7Iu6EicQTPyhYRNWjaT) | 2:55 |
 | 28 | [Wassup](https://open.spotify.com/track/1bjTEsJdDdbuA5JsdRRxhP) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [LIVE.LOVE.A$AP](https://open.spotify.com/album/4l6EPpP9hjQrLb8qNB9eC5) | 2:38 |
 | 29 | [Stay "100"](https://open.spotify.com/track/1hJjKYqtVt47RmRR0Q1vDA) | [Smooky MarGielaa](https://open.spotify.com/artist/2HO2kO7O5gEnM91dhobllP) | [Stay "100"](https://open.spotify.com/album/1BexHfFIu0svjzHCW9xd9Q) | 3:12 |

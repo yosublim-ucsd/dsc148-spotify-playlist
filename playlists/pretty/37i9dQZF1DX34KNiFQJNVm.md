@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Lagum, Mc Don Juan, Dilsinho, Leo Santana, Xande De Pilares com Grupo Menos É Mais e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,861,538 likes - 98 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,861,691 likes - 98 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 33 | [Na Rebolada](https://open.spotify.com/track/6pZgVujok602Yqjvo1safZ) | [Brisa Star](https://open.spotify.com/artist/7fKfVo62Yx50GtTdIgeBqk), [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI), [Maikinho DJ](https://open.spotify.com/artist/4fjI8I30Qwk0hOKr8jNvEh) | [Na Rebolada](https://open.spotify.com/album/2CVG0U36vNbgaBaRCUa8j3) | 2:18 |
 | 34 | [Te dizer que sim.](https://open.spotify.com/track/74RR6gAf69MEsUmSNOqmE4) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Te dizer que sim.](https://open.spotify.com/album/1bgwJ8nruUENGjcghivLcO) | 2:30 |
 | 35 | [Arrepiada](https://open.spotify.com/track/5lxf7rlWtF1ervIHlG6GFF) | [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE) | [ARREPIADA](https://open.spotify.com/album/7CEH5SQ6yP5MUlunhS8kH0) | 3:35 |
-| 36 | [Uber](https://open.spotify.com/track/3e9jL8tQI1JyBQgaXYFwUb) | [Ryu, the Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Mateca](https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU), [Trap Select](https://open.spotify.com/artist/1VlNGdzvBRtCDPi18GuX91) | [Uber](https://open.spotify.com/album/1Uf5qg0DF4xGCl2JYKz2Ae) | 2:37 |
+| 36 | [Uber](https://open.spotify.com/track/3e9jL8tQI1JyBQgaXYFwUb) | [Ryu, the Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Mateca](https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU) | [Uber](https://open.spotify.com/album/1Uf5qg0DF4xGCl2JYKz2Ae) | 2:37 |
 | 37 | [Combate](https://open.spotify.com/track/2LkRPTwqJ6PqoOKswBQkdp) | [RAP, falando](https://open.spotify.com/artist/5V8FZVxUupPFrmqrZcoaBt), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [Combate](https://open.spotify.com/album/4UNuBZQoxlSjx2bCI8kqfC) | 3:10 |
 | 38 | [Na Sua](https://open.spotify.com/track/5Wwap1q83am8aMJMo4mjDs) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [Na Sua](https://open.spotify.com/album/4rUcoz67PBYnscDJFS0hi8) | 3:05 |
 | 39 | [Hora do Rush](https://open.spotify.com/track/0aKGUdUtiSC7V9d3f2Uxqs) | [Yan Cloud](https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP), [Manigga](https://open.spotify.com/artist/59GPSQnifjrE5Cyz5xX9PQ), [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Zamba](https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW) | [Hora do Rush](https://open.spotify.com/album/4aTO2E4SeFu9fhPjQJGSNq) | 2:56 |

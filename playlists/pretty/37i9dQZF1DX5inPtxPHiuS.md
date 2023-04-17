@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 
 > ¡Disfruta con los grandes del rock colombiano! Foto: Diamante Eléctrico
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,672 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,680 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,13 +32,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 22 | [Nómada](https://open.spotify.com/track/2J4drmgsDr6u7EP3DvyN9A) | [La Banda del Bisonte](https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Nómada](https://open.spotify.com/album/4tUaCFfhnftL5Eg6li46K6) | 4:47 |
 | 23 | [Algún Contexto](https://open.spotify.com/track/3VthvpD7tsAm5lybsXWXX1) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Armenia](https://open.spotify.com/album/4tT3ltCmgXpxtVuYTWN1bm) | 2:54 |
 | 24 | [Punto Final](https://open.spotify.com/track/56YcLUmZ3d7cJOxOin7y9A) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [Castillos de Arena](https://open.spotify.com/album/6ufTtCn7TfxmFDrcxLNXoB) | 3:16 |
-| 25 | [Un Eterno Loop Sin Fin](https://open.spotify.com/track/0pb1YMJkOqDE2ztxzsYHTd) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [Un Eterno Loop Sin Fin](https://open.spotify.com/album/0rO0NHGworrKc2o1X5q3ne) | 3:49 |
-| 26 | [Apología de una Amigdala Inflamada](https://open.spotify.com/track/34sNFlKyNs9IjmdUttxtWA) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH) | [Apología de una Amigdala Inflamada](https://open.spotify.com/album/5LEInPf0wx6Z0zvKkI72PQ) | 2:32 |
+| 25 | [Apología de una Amigdala Inflamada](https://open.spotify.com/track/34sNFlKyNs9IjmdUttxtWA) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH) | [Apología de una Amigdala Inflamada](https://open.spotify.com/album/5LEInPf0wx6Z0zvKkI72PQ) | 2:32 |
+| 26 | [Un Eterno Loop Sin Fin](https://open.spotify.com/track/0pb1YMJkOqDE2ztxzsYHTd) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [Un Eterno Loop Sin Fin](https://open.spotify.com/album/0rO0NHGworrKc2o1X5q3ne) | 3:49 |
 | 27 | [Todo Va a Arder](https://open.spotify.com/track/00cMA5Xuinekqx8ui1Eixy) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [B \(Deluxe Edition\)](https://open.spotify.com/album/44TWj8mzWLC1KrlGQ7asNY) | 3:21 |
 | 28 | [Ahora Me Cuesta](https://open.spotify.com/track/3kpmzwSyKbVhGxu6Rvme0L) | [La Pestilencia](https://open.spotify.com/artist/09N5SuYvKJPb6mX34qfeM3) | [Productos Desaparecidos](https://open.spotify.com/album/1JyFH6v4N1WNofSsCRcYiG) | 3:45 |
 | 29 | [Somos Coyotes](https://open.spotify.com/track/0RGuPZmtJxMblQwZIvcNsQ) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Doce Vientos](https://open.spotify.com/album/7iJkzoo9QSgy0nW13uIohq) | 3:42 |
-| 30 | [Sigo](https://open.spotify.com/track/2D9fsqNw4aMABpchC5Once) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Sigo](https://open.spotify.com/album/0XcwHtwzFbnrXuX1CzhFKQ) | 3:19 |
-| 31 | [Emociones](https://open.spotify.com/track/1yDCUaF1tojw8WjZUpY0Lp) | [La Derecha](https://open.spotify.com/artist/7JNwRhdFj1nB8I1OKTHbCO) | [Polvo Eres](https://open.spotify.com/album/7HasLPPt3DSEI2CQENBMPQ) | 3:47 |
+| 30 | [Emociones](https://open.spotify.com/track/1yDCUaF1tojw8WjZUpY0Lp) | [La Derecha](https://open.spotify.com/artist/7JNwRhdFj1nB8I1OKTHbCO) | [Polvo Eres](https://open.spotify.com/album/7HasLPPt3DSEI2CQENBMPQ) | 3:47 |
+| 31 | [Sigo](https://open.spotify.com/track/2D9fsqNw4aMABpchC5Once) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Sigo](https://open.spotify.com/album/0XcwHtwzFbnrXuX1CzhFKQ) | 3:19 |
 | 32 | [Barco de Papel](https://open.spotify.com/track/5Pv4XZQu60gd4BeFKUgjna) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [Barco de Papel](https://open.spotify.com/album/7HmHk8sLbDpg8t3rO8PSz1) | 3:32 |
 | 33 | [Una Canción](https://open.spotify.com/track/1X5Hcf0u95e76eqv10NbiA) | [Poligamia](https://open.spotify.com/artist/3l8MpG7CL6zqYDBhbcNG1O) | [15 Grandes Éxitos](https://open.spotify.com/album/0BKbOvXdF2QVXNwX63Iwbk) | 3:07 |
 | 34 | [Niños Perdidos](https://open.spotify.com/track/3fANb47ayeswMFaT5fI1Or) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI), [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Niños Perdidos](https://open.spotify.com/album/55OtSjhhECr6c8we4xyX6y) | 2:39 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 38 | [Nada que hablar \(feat\. Aterciopelados\)](https://open.spotify.com/track/7tHQZ9Wbb8dI4ldZBaKfaw) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL), [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Nada que hablar \(feat\. Aterciopelados\)](https://open.spotify.com/album/3NJno867gz0ZuAy8td5pRm) | 3:25 |
 | 39 | [Delirio](https://open.spotify.com/track/4iT2KQFHJHqbyOktqLkI23) | [Los Makenzy](https://open.spotify.com/artist/2H4hhmZnat1J12EI1u4N0s), [Superlitio](https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB), [Pipe Bravo](https://open.spotify.com/artist/1jQdrJgtbeqURoJDNUtQaq) | [Delirio](https://open.spotify.com/album/35nk59oHxNe8wQkGiDyAMI) | 3:30 |
 | 40 | [El Tema de Amor Que Esperabas](https://open.spotify.com/track/7J4Ax9xslsyY7aw8ku7I6j) | [Las Yumbeñas](https://open.spotify.com/artist/2S1RZNDZE0W1pt57ytr1dh) | [Yumbotopía](https://open.spotify.com/album/05ySquwyP7g6JTiRzJKQc1) | 2:53 |
-| 41 | [Planetas](https://open.spotify.com/track/3OAr3wALlfcBz88S1oyu0z) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [Anaranjado](https://open.spotify.com/album/6pgtJt1lDEZmoOC2fhgD0Y) | 3:16 |
-| 42 | [Desvanecer](https://open.spotify.com/track/1M0OhNeH1RFJdam3cAVvQL) | [Poligamia](https://open.spotify.com/artist/3l8MpG7CL6zqYDBhbcNG1O) | [15 Grandes Éxitos](https://open.spotify.com/album/0BKbOvXdF2QVXNwX63Iwbk) | 4:00 |
+| 41 | [Desvanecer](https://open.spotify.com/track/1M0OhNeH1RFJdam3cAVvQL) | [Poligamia](https://open.spotify.com/artist/3l8MpG7CL6zqYDBhbcNG1O) | [15 Grandes Éxitos](https://open.spotify.com/album/0BKbOvXdF2QVXNwX63Iwbk) | 4:00 |
+| 42 | [Planetas](https://open.spotify.com/track/3OAr3wALlfcBz88S1oyu0z) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [Anaranjado](https://open.spotify.com/album/6pgtJt1lDEZmoOC2fhgD0Y) | 3:16 |
 | 43 | [Perdedor](https://open.spotify.com/track/5ar5amjRsCkf0Q83SDIpMl) | [Consulado Popular](https://open.spotify.com/artist/7A8fPSWDyJhjCtzHWhprQR) | [Perdedor](https://open.spotify.com/album/4LlHGstQq3kGoD76eJ6gaB) | 3:11 |
 | 44 | [A Tu Lado](https://open.spotify.com/track/4Yx4NDik0QW3hpKXTMOQNw) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [A Tu Lado](https://open.spotify.com/album/603lFzzUSI0yVjfQxlpXN2) | 3:23 |
 | 45 | [Perro Come Perro](https://open.spotify.com/track/6yFINQXuZLwCLgfHCtv2sv) | [Superlitio](https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB), [LosPetitFellas](https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv) | [Perro Come Perro](https://open.spotify.com/album/7Bww9cUgtmlbdXpkSWp67A) | 3:17 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 59 | [Voy a olvidarme de mi](https://open.spotify.com/track/2AklN5bNjuVAg3U3bKZ0Dk) | [Tr3sdeCoraZón](https://open.spotify.com/artist/1KSBih5CRHtXP3yb8GSn0M), [Andrés Felipe Muñoz Lara](https://open.spotify.com/artist/70k6TbiV5FfziomRQvHrX7), [Sebastián Mejía](https://open.spotify.com/artist/2GcxW1f5KFCz3Rgc3OSAZS), [Jorge Iván Botero](https://open.spotify.com/artist/1rcnDmNR0ajpqHOrnNmsKO), [Julio Osorio](https://open.spotify.com/artist/1fcdwrNb20Yjm5P4kgnxsB) | [Covers](https://open.spotify.com/album/2ETz2y2dJ7bD7XfXXUaKjq) | 3:33 |
 | 60 | [Soledad Criminal](https://open.spotify.com/track/78JWLDL4fLdGNHT26IaEPS) | [1280 Almas](https://open.spotify.com/artist/5skZhjSLizA2G1bJQp2iNM) | [Aquí Vamos Otra Vez](https://open.spotify.com/album/5M58twn7mZ9tDQstqmH6nD) | 3:09 |
 
-Snapshot ID: `MTY4MTQ1NTMwMCwwMDAwMDAwMDM4MWM2ZjFkNmQ1OWVhNWI0NDUxYjk1OThiOGIzZTVi`
+Snapshot ID: `MTY4MTQ1NTMwMCwwMDAwMDAwMDAwMzUwMWQ4MjNlNjJlMmM4MTViOWI0NDVlZWU2ZTRl`

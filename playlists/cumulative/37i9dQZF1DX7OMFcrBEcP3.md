@@ -4,7 +4,7 @@
 
 > The corridos our abuelos and parents listened to, viejitos y perrones!
 
-196 songs - 10 hr 7 min
+197 songs - 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Aerolínea Carrillo](https://open.spotify.com/track/0xYTyyfV767E2Vn3hz56kL) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [The Green Trip](https://open.spotify.com/album/1KrCvwoIRQ18824qcMFb4F) | 2:54 | 2022-01-01 | 2023-02-22 |
 | [Alma Enamorada](https://open.spotify.com/track/4vpaq405VfAjjam64HOxuw) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Ya Después De Muerto](https://open.spotify.com/album/31OklCEo9716SuyztIgGLy) | 2:55 | 2023-02-21 |  |
 | [Amores Fingidos](https://open.spotify.com/track/0wW9b7PRLE7JruS2QOdq92) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [15 Éxitos](https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R) | 2:57 | 2023-02-21 |  |
+| [Anastasio Pacheco](https://open.spotify.com/track/2wcbC2ViEAKUjCx4pz1q6J) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Nieves De Enero](https://open.spotify.com/album/0l1m4FOStVJxLb3Ogf9EKn) | 3:28 | 2023-03-01 |  |
 | [Arboles De La Barranca](https://open.spotify.com/track/5HVrCuta5Za8hqrwjIUX5Q) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Las Más Pegadas](https://open.spotify.com/album/3EsRXaeYo3QvPz4fBqpV7y) | 2:21 | 2023-02-21 | 2023-03-10 |
 | [Arturo Garza Trevino](https://open.spotify.com/track/124rsyrZdIRjZlbL40PoAt) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pistoleros Famosos](https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI) | 2:49 | 2023-02-21 |  |
 | [Baraja De Oro](https://open.spotify.com/track/4vxGRxWgmTtaVOJlVV1TjC) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [40 Éxitos](https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd) | 3:18 | 2022-01-01 |  |
@@ -160,7 +161,7 @@
 | [Máquina 501](https://open.spotify.com/track/1wRF1D054vNvDga8dRfCdn) | [Francisco "Charro" Avitia](https://open.spotify.com/artist/4avWq3MJ9MS6TiIHrnymok) | [Charro Avitia](https://open.spotify.com/album/1Y848NgqzkOr28SfcBshmV) | 2:54 | 2023-02-21 |  |
 | [Más Chingón Que Ese Buey](https://open.spotify.com/track/5fA7H8n3zhNsoSQSYA3DLz) | [Los Razos](https://open.spotify.com/artist/7HYgqp51TBXZdtjinjkQuZ) | [Con Banda Y De Parranda](https://open.spotify.com/album/784Mrg7xgVFTYk0qAAxMWR) | 2:42 | 2023-02-21 |  |
 | [Nadie Es Eterno](https://open.spotify.com/track/4QBymteCSzSkVSq1L4j1mf) | [Adan Chalino Sanchez](https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy) | [Amor Y Lágrimas](https://open.spotify.com/album/1ofYSIU9pfhZy22WEL165p) | 3:16 | 2023-02-22 |  |
-| [Nieves De Enero](https://open.spotify.com/track/15oVebJsvQd0O8rv22HwBe) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Ya Después De Muerto](https://open.spotify.com/album/31OklCEo9716SuyztIgGLy) | 3:33 | 2023-02-21 |  |
+| [Nieves De Enero](https://open.spotify.com/track/15oVebJsvQd0O8rv22HwBe) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Ya Después De Muerto](https://open.spotify.com/album/31OklCEo9716SuyztIgGLy) | 3:33 | 2023-02-21 | 2023-04-17 |
 | [No Se La Van A Acabar](https://open.spotify.com/track/5glNrTHDvYscelF7JGBxDB) | [La Mejores Bandas Del Mundo Vol 2](https://open.spotify.com/artist/69jBNhFKISDzO6IJPgKfsC) | [Puros Corridos Y Rancheras](https://open.spotify.com/album/2S8pPO6llQejOCpnkj3U9b) | 3:12 | 2022-01-01 | 2023-02-06 |
 | [No Se La Van Acabar](https://open.spotify.com/track/2axPsgKQouhRvodneN6K3Z) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [La Más Completa Colección \(Disc 1\)](https://open.spotify.com/album/7qgar3nxo2RpNGPn7Ilf54) | 3:12 | 2022-01-01 | 2022-07-29 |
 | [Pacas De A Kilo](https://open.spotify.com/track/4mBRMSabjk5OFpwAyZyHOI) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [La Garra De...](https://open.spotify.com/album/36X48S9LwuT4hOF9igko7Y) | 3:34 | 2022-01-01 |  |

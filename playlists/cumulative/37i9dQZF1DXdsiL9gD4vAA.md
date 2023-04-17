@@ -4,7 +4,7 @@
 
 > Let these contemplative couplets take you away.
 
-86 songs - 8 hr 41 min
+87 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Dil Jalaane Ki Baat](https://open.spotify.com/track/7y8nfUqN3m56KiisCjYk7s) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [The Reluctant Fundamentalist Soundtrack](https://open.spotify.com/album/0DY2lIwaHNbR7aoLKWZit5) | 1:42 | 2021-12-01 |  |
 | [Dilkash](https://open.spotify.com/track/4RBzmqblZsEuNypCAHdWYf) | [Talat Aziz](https://open.spotify.com/artist/6a0qIxqTaL1BgqUfby0JLc) | [Gulmohar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/79Xlo73WJ5gL2TnbAFWw87) | 4:29 | 2023-02-27 | 2023-03-21 |
 | [Duniya Kisi Ke Pyar Mein](https://open.spotify.com/track/4UDsOiaMP4pLawOzlmeGKk) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Golden Greats Of Mehdi Hassan](https://open.spotify.com/album/5kZPQXY1qFWCZrlGLApOKq) | 5:40 | 2021-12-01 |  |
-| [Duniya Kisie Ke Pyar Mein](https://open.spotify.com/track/1xoxOHmcRZqygAmiXugPs5) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Mehdi Hassan](https://open.spotify.com/album/70aqO6m7wDEb0vF3aWK2Kl) | 3:14 | 2021-12-01 |  |
+| [Duniya Kisie Ke Pyar Mein](https://open.spotify.com/track/1xoxOHmcRZqygAmiXugPs5) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Mehdi Hassan](https://open.spotify.com/album/70aqO6m7wDEb0vF3aWK2Kl) | 3:14 | 2021-12-01 | 2023-04-17 |
 | [Faasla Is Kadar](https://open.spotify.com/track/4JgzQJSWLRfKVCbnozPHB8) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Zikr](https://open.spotify.com/album/2gQgk1hyNCIgaeOu4OSCZz) | 5:58 | 2021-12-01 |  |
 | [Hai Isi Mein Pyar Ki Aabru](https://open.spotify.com/track/2UaGnopu3HmCVlJ0lHfQHE) | [Arpita Chakraborty](https://open.spotify.com/artist/37qkV6Tep5CIGcRk1hJJhk), [Pushkar Jog](https://open.spotify.com/artist/2tKnS5nS5NOk2VIMTN7OjA) | [Hai Isi Mein Pyar Ki Aabru](https://open.spotify.com/album/56hiuxLFq78Jj10Ts0iNEg) | 3:43 | 2023-03-02 |  |
 | [Hangama Hai Kiu Barbad](https://open.spotify.com/track/5BLW13IDABVJN5J0dS7AjG) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Dil Mein Ek Leher \- Ghulam Ali the Ghazal Maestro](https://open.spotify.com/album/6WtcRp4M2WaSBX3hza6efS) | 8:29 | 2021-12-01 | 2022-07-29 |
@@ -42,6 +42,7 @@
 | [Har zulm tera yaad hai](https://open.spotify.com/track/3lz869qyZcRBATTT6r4omU) | [Sajjad Ali](https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD) | [Geet aur ghazlon ka haseen sangam](https://open.spotify.com/album/47nQ54mrT5meW6q0U3aaXU) | 5:43 | 2021-12-01 |  |
 | [Hoshwalon Ko Khabar Kya](https://open.spotify.com/track/5NbR7c5zrOZN3Dje3JVJEN) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Sarfarosh \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/55kjppMnPs20DEKXN7jaSF) | 5:07 | 2022-07-26 |  |
 | [Hoshwalon Ko Khabar Kya \(From "Sarfarosh"\)](https://open.spotify.com/track/03BvoVjiTrsFdBtOIzDsfy) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Romantic Evening with Jagjit Singh](https://open.spotify.com/album/33BrYdz37reGujAmhBPWQa) | 5:07 | 2021-12-01 | 2022-07-29 |
+| [Hum Bhi Tum Bhi](https://open.spotify.com/track/27DSXISrpyBlMFQndmKVbJ) | [Anurag Sharma](https://open.spotify.com/artist/0RD2rIVPpv1UUggDFAqFd4) | [Hum Bhi Tum Bhi](https://open.spotify.com/album/6L0s6jok49CK1AkK8vnAmM) | 3:53 | 2023-04-16 |  |
 | [Humko Kisike Gham Ne Maara](https://open.spotify.com/track/1ftMjWQH3eIxJkN3KjLKjD) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Best of Ghulam Ali: His 50 Greatest Ghazal Hits](https://open.spotify.com/album/5vsRAeRm6meFIQi2LWgVGz) | 7:18 | 2021-12-01 | 2022-07-29 |
 | [Humko Kisike Gham Ne Maara](https://open.spotify.com/track/3e2saSOAkc7ex0jhCwws4Y) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Top 10 Ghulam Ali](https://open.spotify.com/album/0eE9TMiCZp5VBEnBf3dQHg) | 7:18 | 2022-11-09 | 2022-11-13 |
 | [Humko Kisike Gham Ne Maara](https://open.spotify.com/track/5hZmZaExf8sG6wvoWpqs8m) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Enriching Ghazals](https://open.spotify.com/album/0reghrVnpLYtzSN8h9NstO) | 7:18 | 2022-07-26 |  |

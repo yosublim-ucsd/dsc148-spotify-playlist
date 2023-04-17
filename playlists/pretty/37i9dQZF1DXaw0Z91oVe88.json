@@ -1,12 +1,12 @@
 {
   "description": "\uc6b0\uc0b0\uc744 \ub358\uc9c0\uace0 \ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uace0 \uc2f6\uc740 \ub0a0\uc5d0 \ub4e4\uc73c\uc138\uc694!",
-  "num_followers": 2428,
+  "num_followers": 2431,
   "original_name": "\ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uc5b4",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkwNTY5MCwwMDAwMDAwMDlmNWZhNjYwYzc1ZWU5OTBlM2VhMjI2ZjhmNzI4NzAy",
+  "snapshot_id": "MTY3OTkwNTY5MCwwMDAwMDAwMGUzNTM0NjA3NjE2YTg4OWI2ZmVlOGU4NWJiZTk0ZGUz",
   "tracks": [
     {
       "added_at": "2023-03-27 08:28:10",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-03-27 08:28:10",
       "album": {
-        "name": "Cold World",
-        "url": "https://open.spotify.com/album/1LV9rvmb5ibcrCKLcv6Pv2"
-      },
-      "artists": [
-        {
-          "name": "OVAN",
-          "url": "https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS"
-        }
-      ],
-      "duration_ms": 208306,
-      "name": "Cold World",
-      "url": "https://open.spotify.com/track/4N2qh0ovGWJOSPqCB2007q"
-    },
-    {
-      "added_at": "2023-03-27 08:28:10",
-      "album": {
         "name": "Repeat (Original Soundtrack from the Webtoon \"The returned duke\") [prod. PATEKO]",
         "url": "https://open.spotify.com/album/6WHcLvLRbZoSJuGFOzzHnq"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 161334,
       "name": "Repeat (Original Soundtrack from the Webtoon \"The returned duke\") [prod. PATEKO]",
       "url": "https://open.spotify.com/track/7kfXPBhBOHNu5AHjFS0Iug"
+    },
+    {
+      "added_at": "2023-03-27 08:28:10",
+      "album": {
+        "name": "Cold World",
+        "url": "https://open.spotify.com/album/1LV9rvmb5ibcrCKLcv6Pv2"
+      },
+      "artists": [
+        {
+          "name": "OVAN",
+          "url": "https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS"
+        }
+      ],
+      "duration_ms": 208306,
+      "name": "Cold World",
+      "url": "https://open.spotify.com/track/4N2qh0ovGWJOSPqCB2007q"
     },
     {
       "added_at": "2023-03-27 08:28:10",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-03-27 08:28:10",
       "album": {
-        "name": "Beautiful Night - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T"
-      },
-      "artists": [
-        {
-          "name": "YESUNG",
-          "url": "https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf"
-        }
-      ],
-      "duration_ms": 267426,
-      "name": "A Letter in The Wind",
-      "url": "https://open.spotify.com/track/5fk9FvsE57Ai8lHLuICJFx"
-    },
-    {
-      "added_at": "2023-03-27 08:28:10",
-      "album": {
         "name": "Cobalt Blue",
         "url": "https://open.spotify.com/album/7LNZEGjzSYIwdyYIim6M3x"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 201003,
       "name": "\ud750\ub974\ub294 \uc2dc\uac04 \uc18d\uc5d0 \uc6b0\ub9ac\ub294 \uc544\ub984\ub2e4\uc6cc What A Beautiful Night",
       "url": "https://open.spotify.com/track/3zDJ728eY8S3PGNFpNZX71"
+    },
+    {
+      "added_at": "2023-03-27 08:28:10",
+      "album": {
+        "name": "Beautiful Night - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T"
+      },
+      "artists": [
+        {
+          "name": "YESUNG",
+          "url": "https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf"
+        }
+      ],
+      "duration_ms": 267426,
+      "name": "A Letter in The Wind",
+      "url": "https://open.spotify.com/track/5fk9FvsE57Ai8lHLuICJFx"
     },
     {
       "added_at": "2023-03-27 08:28:10",

@@ -4,7 +4,7 @@
 
 > This is Bastille\. The essential tracks, all in one playlist.
 
-58 songs - 3 hr 14 min
+59 songs - 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Of The Night](https://open.spotify.com/track/7BNDyzwDboNRR2wmd7GSew) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:34 | 2022-10-26 |  |
 | [Plug In…](https://open.spotify.com/track/0yoQeKfgQwXg0nbMoYDnJg) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Give Me The Future + Dreams Of The Past](https://open.spotify.com/album/2dssFgPLHm6Y1mINk3JNJ8) | 2:40 | 2022-10-26 |  |
 | [Pompeii](https://open.spotify.com/track/6fNhZRFEkBfgW39W3wKARJ) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Bad Blood](https://open.spotify.com/album/1jUoeAbO2HCADZ1uiyLYIo) | 3:34 | 2022-10-26 |  |
-| [Pompeii \- Audien Remix](https://open.spotify.com/track/2Kl1E3NdbzT7vVi93TffoX) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE) | [Pompeii \(Audien Remix\)](https://open.spotify.com/album/4QJKyqHqUUBWEGYD7wekvU) | 5:52 | 2022-10-26 |  |
+| [Pompeii \- Audien Remix](https://open.spotify.com/track/2Kl1E3NdbzT7vVi93TffoX) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE) | [Pompeii \(Audien Remix\)](https://open.spotify.com/album/4QJKyqHqUUBWEGYD7wekvU) | 5:52 | 2022-10-26 | 2023-04-17 |
+| [Pompeii \- MTV Unplugged / Edit](https://open.spotify.com/track/2Pzo3PpYPcqpebYgXWUoWl) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Pompeii / Come As You Are \(MTV Unplugged\)](https://open.spotify.com/album/5o8QbgQysnN2Ox4ZLWnp5K) | 4:28 | 2023-04-16 |  |
 | [Power](https://open.spotify.com/track/7mq92gCVqxaZQuzE6h9ZBp) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \(Complete Edition\)](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 3:29 | 2022-10-26 |  |
 | [Quarter Past Midnight](https://open.spotify.com/track/1etiUDkISHELzQGMY79ryt) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Quarter Past Midnight](https://open.spotify.com/album/70p5NvBOkvaxU1UeIxhE1Z) | 3:21 | 2022-10-26 |  |
 | [Real Life](https://open.spotify.com/track/1HiwjKAIcaeLa1ZraVlxep) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Give Me The Future + Dreams Of The Past](https://open.spotify.com/album/2dssFgPLHm6Y1mINk3JNJ8) | 2:20 | 2022-10-26 |  |

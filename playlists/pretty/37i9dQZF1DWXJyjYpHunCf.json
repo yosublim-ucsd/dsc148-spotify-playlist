@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Aly & AJ",
-  "num_followers": 814121,
+  "num_followers": 814288,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDU3Y2UyNmM1MGY5MGViZWY1YzU0NWNhMGYxYTg4OWJi",
+  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMGIxYTA1YThhYzNhNTkzZmM4NWYyMWY0OGFiNDU5YzRi",
   "tracks": [
     {
       "added_at": "2023-04-14 04:00:00",
@@ -879,6 +879,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Bored",
+        "url": "https://open.spotify.com/album/4cGUztBrBh5uep9lBJYzP3"
+      },
+      "artists": [
+        {
+          "name": "Sara Kays",
+          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
+        }
+      ],
+      "duration_ms": 166875,
+      "name": "Bored",
+      "url": "https://open.spotify.com/track/3YQtnh00LIhMqimMUjbS6l"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "A Pillar of Salt",
         "url": "https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 319053,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Bored",
-        "url": "https://open.spotify.com/album/4cGUztBrBh5uep9lBJYzP3"
-      },
-      "artists": [
-        {
-          "name": "Sara Kays",
-          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
-        }
-      ],
-      "duration_ms": 166875,
-      "name": "Bored",
-      "url": "https://open.spotify.com/track/3YQtnh00LIhMqimMUjbS6l"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "I've Got a Song",
-        "url": "https://open.spotify.com/album/4z3NrWP94ySfz0W3dDmQs7"
-      },
-      "artists": [
-        {
-          "name": "Morningsiders",
-          "url": "https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl"
-        }
-      ],
-      "duration_ms": 180533,
-      "name": "This Could Be Good",
-      "url": "https://open.spotify.com/track/7d2ytNiHGDf32YwZOU6RnZ"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "The Worth Of The Wait",
         "url": "https://open.spotify.com/album/0jNqBHYpxtWq8CfHQxA7Rd"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 171800,
       "name": "The Worth Of The Wait",
       "url": "https://open.spotify.com/track/4ngv7whSPSAwD8ZP3zMHsd"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "I've Got a Song",
+        "url": "https://open.spotify.com/album/4z3NrWP94ySfz0W3dDmQs7"
+      },
+      "artists": [
+        {
+          "name": "Morningsiders",
+          "url": "https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl"
+        }
+      ],
+      "duration_ms": 180533,
+      "name": "This Could Be Good",
+      "url": "https://open.spotify.com/track/7d2ytNiHGDf32YwZOU6RnZ"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "We Still Move on Dance Floors",
-        "url": "https://open.spotify.com/album/1sFCdkWltYD4dqN8JxL6tI"
-      },
-      "artists": [
-        {
-          "name": "The Strumbellas",
-          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
-        }
-      ],
-      "duration_ms": 163893,
-      "name": "In This Life",
-      "url": "https://open.spotify.com/track/38wSbAmV7zNBhYqfzv1m9x"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Light Year (feat. Lennon Stella)",
         "url": "https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 188043,
       "name": "Light Year (feat. Lennon Stella)",
       "url": "https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "We Still Move on Dance Floors",
+        "url": "https://open.spotify.com/album/1sFCdkWltYD4dqN8JxL6tI"
+      },
+      "artists": [
+        {
+          "name": "The Strumbellas",
+          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
+        }
+      ],
+      "duration_ms": 163893,
+      "name": "In This Life",
+      "url": "https://open.spotify.com/track/38wSbAmV7zNBhYqfzv1m9x"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Making Do",
-        "url": "https://open.spotify.com/album/3sI7Qkzzjs4lSleiRvfJlC"
-      },
-      "artists": [
-        {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
-        }
-      ],
-      "duration_ms": 214150,
-      "name": "Making Do",
-      "url": "https://open.spotify.com/track/46quRQAj7MxBJ38B5EyJOc"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Part of Me",
         "url": "https://open.spotify.com/album/6uOlsqNPU8RIwSx0Uv2tH4"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 237230,
       "name": "Part of Me",
       "url": "https://open.spotify.com/track/4aosx8uOGPG9aJjm0Dj4dN"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Making Do",
+        "url": "https://open.spotify.com/album/3sI7Qkzzjs4lSleiRvfJlC"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        }
+      ],
+      "duration_ms": 214150,
+      "name": "Making Do",
+      "url": "https://open.spotify.com/track/46quRQAj7MxBJ38B5EyJOc"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "so it goes...",
-        "url": "https://open.spotify.com/album/4r9nkAAU6oKLRsGAltedIu"
+        "name": "I'm Alone, No You're Not",
+        "url": "https://open.spotify.com/album/0kb4iBtX69frHEfyNv7EJG"
       },
       "artists": [
         {
-          "name": "nicole han",
-          "url": "https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C"
+          "name": "JOSEPH",
+          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
         }
       ],
-      "duration_ms": 160500,
-      "name": "running shoes",
-      "url": "https://open.spotify.com/track/5V1v1CtvbiImJzuet2Un5I"
+      "duration_ms": 199853,
+      "name": "White Flag",
+      "url": "https://open.spotify.com/track/3nDM1ezsfSuuYaFN4sicp1"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1567,18 +1567,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "I'm Alone, No You're Not",
-        "url": "https://open.spotify.com/album/0kb4iBtX69frHEfyNv7EJG"
+        "name": "so it goes...",
+        "url": "https://open.spotify.com/album/4r9nkAAU6oKLRsGAltedIu"
       },
       "artists": [
         {
-          "name": "JOSEPH",
-          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
+          "name": "nicole han",
+          "url": "https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C"
         }
       ],
-      "duration_ms": 199853,
-      "name": "White Flag",
-      "url": "https://open.spotify.com/track/3nDM1ezsfSuuYaFN4sicp1"
+      "duration_ms": 160500,
+      "name": "running shoes",
+      "url": "https://open.spotify.com/track/5V1v1CtvbiImJzuet2Un5I"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "The Art of Letting Go",
-        "url": "https://open.spotify.com/album/449CV10TloVGhBv9NfwFTD"
+        "name": "I Know the Way Home",
+        "url": "https://open.spotify.com/album/028PxoVXaGF8zlD3wxfraR"
       },
       "artists": [
         {
-          "name": "gnash",
-          "url": "https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw"
+          "name": "Andrew Galucki",
+          "url": "https://open.spotify.com/artist/0Z00sSHBoJ9wsqTY5hT3mP"
         }
       ],
-      "duration_ms": 180763,
-      "name": "Be Here Now",
-      "url": "https://open.spotify.com/track/1ZEEd0xgeZIW82fuzmJfJ2"
+      "duration_ms": 201875,
+      "name": "I Know the Way Home",
+      "url": "https://open.spotify.com/track/7mZedsGVcUJOl6hSy17ykh"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1631,18 +1631,34 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "I Know the Way Home",
-        "url": "https://open.spotify.com/album/028PxoVXaGF8zlD3wxfraR"
+        "name": "The Art of Letting Go",
+        "url": "https://open.spotify.com/album/449CV10TloVGhBv9NfwFTD"
       },
       "artists": [
         {
-          "name": "Andrew Galucki",
-          "url": "https://open.spotify.com/artist/0Z00sSHBoJ9wsqTY5hT3mP"
+          "name": "gnash",
+          "url": "https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw"
         }
       ],
-      "duration_ms": 201875,
-      "name": "I Know the Way Home",
-      "url": "https://open.spotify.com/track/7mZedsGVcUJOl6hSy17ykh"
+      "duration_ms": 180763,
+      "name": "Be Here Now",
+      "url": "https://open.spotify.com/track/1ZEEd0xgeZIW82fuzmJfJ2"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Powerlines",
+        "url": "https://open.spotify.com/album/3fA793BjWaUIqwknayn2OX"
+      },
+      "artists": [
+        {
+          "name": "Sam MacPherson",
+          "url": "https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh"
+        }
+      ],
+      "duration_ms": 196026,
+      "name": "First Place",
+      "url": "https://open.spotify.com/track/2nVmUsEIdqVYQG0BTzPdk4"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1659,22 +1675,6 @@
       "duration_ms": 211579,
       "name": "On My Way",
       "url": "https://open.spotify.com/track/7tvdONFIPzFajuWX0TrlIQ"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Omaha",
-        "url": "https://open.spotify.com/album/7BfVNstl3oipb2ZGWyKQxH"
-      },
-      "artists": [
-        {
-          "name": "Falls",
-          "url": "https://open.spotify.com/artist/0SP0jz4htYhpiCuNEvKr0l"
-        }
-      ],
-      "duration_ms": 198600,
-      "name": "When We Were Young",
-      "url": "https://open.spotify.com/track/5OxWNIpnedq0bhdUhmNrJT"
     }
   ],
   "unique_name": "Folk Pop",

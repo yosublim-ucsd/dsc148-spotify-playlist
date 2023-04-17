@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRKnsaXaBL.md) - [plain]
 
 > Catching sunsets con indie rock de fondo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 837 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 854 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,13 +19,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRKnsaXaBL.md) - [plain]
 | 9 | [Holidays](https://open.spotify.com/track/155yF3s6dVDL0azpwlbuuW) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Holidays \- Chromocosmic Avenue](https://open.spotify.com/album/7K8FcHyp3prxzWxEiP4gDz) | 3:23 |
 | 10 | [Mi Mejor Versión](https://open.spotify.com/track/3JA65Jo8LtmZIjlvhB08pG) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Mi Mejor Versión](https://open.spotify.com/album/3vvreW2zeLSPk2FV97TkH3) | 3:21 |
 | 11 | [El Momento Perfecto](https://open.spotify.com/track/7LUepo06YjPnIoDVmiwYlJ) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [RIO HOTEL](https://open.spotify.com/album/39X3Jhsy9oT9XzgoUDs5P9) | 3:21 |
-| 12 | [Popular](https://open.spotify.com/track/3uEx77R6b16SAltboKfQjh) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Sonidos De Karmática Resonancia](https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO) | 4:30 |
-| 13 | [Medalla de Oro](https://open.spotify.com/track/3e43fFQ7FOO2ic7wTnzwBl) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Medalla de Oro](https://open.spotify.com/album/1BTJdsNvbyccpP6UgEP6YF) | 5:40 |
+| 12 | [Medalla de Oro](https://open.spotify.com/track/3e43fFQ7FOO2ic7wTnzwBl) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Medalla de Oro](https://open.spotify.com/album/1BTJdsNvbyccpP6UgEP6YF) | 5:40 |
+| 13 | [Popular](https://open.spotify.com/track/3uEx77R6b16SAltboKfQjh) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Sonidos De Karmática Resonancia](https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO) | 4:30 |
 | 14 | [la ultima noche](https://open.spotify.com/track/7v29kSNtnrOTf0pAqP4Lvx) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [la ultima noche](https://open.spotify.com/album/1sAzIppqYMYtaJ8Dit8zsw) | 3:17 |
 | 15 | [La Puerta](https://open.spotify.com/track/5JM0MaVqz9I38pRzbo9U6l) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [La Puerta](https://open.spotify.com/album/3uW3dr9cYAvk6fouQY0EzH) | 3:03 |
 | 16 | [Llama Gemela](https://open.spotify.com/track/7e2WTOAzufu1MSIkWd0NAH) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Llama Gemela](https://open.spotify.com/album/43Qy4AahGmqtaH3166U8lz) | 3:27 |
-| 17 | [Laguna](https://open.spotify.com/track/1IXlvfEQyufn2NehDTUmdA) | [Rouss](https://open.spotify.com/artist/3Xa0w2RUuQw38J199xgj2A), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Laguna](https://open.spotify.com/album/69GY4foDKPwFg8yTYY2fMS) | 3:42 |
-| 18 | [Billie Max](https://open.spotify.com/track/3K4K4XZPEGLU0fyASkFo17) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [¿Quién es Billie Max?](https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3) | 2:54 |
+| 17 | [Billie Max](https://open.spotify.com/track/3K4K4XZPEGLU0fyASkFo17) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [¿Quién es Billie Max?](https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3) | 2:54 |
+| 18 | [Laguna](https://open.spotify.com/track/1IXlvfEQyufn2NehDTUmdA) | [Rouss](https://open.spotify.com/artist/3Xa0w2RUuQw38J199xgj2A), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Laguna](https://open.spotify.com/album/69GY4foDKPwFg8yTYY2fMS) | 3:42 |
 | 19 | [DAMN!](https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [DAMN!](https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr) | 1:57 |
 | 20 | [Sin Vos No Puedo](https://open.spotify.com/track/4jqu753tYcQ1MsoH9wXDSW) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [El Big Blue](https://open.spotify.com/album/1K6DMhbzgcx1T8e4HPnOX4) | 2:55 |
 | 21 | [Insatisfecho](https://open.spotify.com/track/0QfPd5Z46l1bkDhl9ABV2x) | [PJAMA](https://open.spotify.com/artist/6rEnCeFGwNGiOuBhjOPMVH) | [Pacific Jam At My Apartment](https://open.spotify.com/album/2U1uNbCDt2jDhZpd6bM4wn) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRKnsaXaBL.md) - [plain]
 | 49 | [Comollegamosaquí](https://open.spotify.com/track/3YRszbJk8rtF9yTDHCecLs) | [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM), [Diego Raposo](https://open.spotify.com/artist/1rGSYidxwKVwew2k0cuUFi) | [Comollegamosaquí](https://open.spotify.com/album/6Sp2j1ApQAyuWcd23yniUS) | 3:20 |
 | 50 | [Nos Soltamos](https://open.spotify.com/track/5wiHLVINwcLi2x0G6IoIYL) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi) | [Last Spa on Earth](https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB) | 3:34 |
 
-Snapshot ID: `MTY4MTQ0NDg2MCwwMDAwMDAwMDA3ODUyMzY5ZjI5ODcxYTkwYTg4NjJhY2E5NzhhODMw`
+Snapshot ID: `MTY4MTQ0NDg2MCwwMDAwMDAwMDYzOGI2NGIyZmE1ODcyY2U3OGE5MmQ0ZjU2NTM4MDI1`

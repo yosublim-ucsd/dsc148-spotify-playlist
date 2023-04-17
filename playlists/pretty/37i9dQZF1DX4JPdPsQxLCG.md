@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 
 > Classic tunes to soundtrack your weekend\. Cover: The Tragically Hip
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,759 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,767 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 10 | [She's so High](https://open.spotify.com/track/7mnGQesk1TzQLzQ9bYWZPR) | [Tal Bachman](https://open.spotify.com/artist/3KEb1kbIZN5jumsjFEWgSW) | [Tal Bachman](https://open.spotify.com/album/3v17hBg9lx5vdJQ8Dfr6OD) | 3:44 |
 | 11 | [Fat Lip](https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [All Killer, No Filler](https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim) | 2:58 |
 | 12 | [The Spark](https://open.spotify.com/track/2Tw18xvENjmh7MBPCJNBcP) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [Reliever](https://open.spotify.com/album/6f6IZDYwtBOGjJZxBiRUhF) | 3:59 |
-| 13 | [Someday](https://open.spotify.com/track/4PkJ7c9y1CwpuVOiJODnCZ) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [The Long Road](https://open.spotify.com/album/4fygErqiNgFUic5hU42Z3E) | 3:27 |
-| 14 | [Tom Sawyer](https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Moving Pictures \(2011 Remaster\)](https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY) | 4:36 |
+| 13 | [Tom Sawyer](https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Moving Pictures \(2011 Remaster\)](https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY) | 4:36 |
+| 14 | [Someday](https://open.spotify.com/track/4PkJ7c9y1CwpuVOiJODnCZ) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [The Long Road](https://open.spotify.com/album/4fygErqiNgFUic5hU42Z3E) | 3:27 |
 | 15 | [Leather Jacket](https://open.spotify.com/track/7iDPOnnIRfhsau33KevZ2r) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [High Noon](https://open.spotify.com/album/2by8ALhxiuhvROfzJHH2Pq) | 3:56 |
 | 16 | [Magic Carpet Ride](https://open.spotify.com/track/4c4jJJoaiY21t2TyRZgdWS) | [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m) | [The Second](https://open.spotify.com/album/2Y5GORWYwVAZ8msuEuh5FN) | 4:31 |
 | 17 | [Sundown](https://open.spotify.com/track/0SjnBEHZVXgCKvOrpvzL2k) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Sundown](https://open.spotify.com/album/2IPD9EcNjUmsHvqULDMU9Y) | 3:33 |
@@ -55,16 +55,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 45 | [Comin' Home](https://open.spotify.com/track/0SwUDplbBp66rM5sMC0eD7) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Sometimes](https://open.spotify.com/album/4RiXxyAgLSoTNcIgPYV5dn) | 5:05 |
 | 46 | [Superman's Dead](https://open.spotify.com/track/5AqdEGne9bWAMPTI5UUmQY) | [Our Lady Peace](https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH) | [Clumsy](https://open.spotify.com/album/4mWNf9f6fkznoMKchh2u1M) | 4:15 |
 | 47 | [I Hear You Calling](https://open.spotify.com/track/7KsLCoGgjP1tsGPJuvi2SX) | [Gob](https://open.spotify.com/artist/0c4fpXIFPFNve1CxmGgXQf) | [The World According To Gob](https://open.spotify.com/album/5W9KaweYXnOVDlG7UjIbCb) | 3:11 |
-| 48 | [Leader of Men](https://open.spotify.com/track/4Vf9v7ohVz5i8PeZBliwb5) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [The State](https://open.spotify.com/album/3jl1TcvE91Mnu6zjKkklAb) | 3:30 |
-| 49 | [Electric Pow Wow Drum](https://open.spotify.com/track/5e8v4ibmsMHxHLALe5KaiZ) | [The Halluci Nation](https://open.spotify.com/artist/2jlWF9ltd8UtoaqW0PxY4z) | [A Tribe Called Red](https://open.spotify.com/album/1FYVy6b5R41tMIAhWS6fXJ) | 3:39 |
+| 48 | [Electric Pow Wow Drum](https://open.spotify.com/track/5e8v4ibmsMHxHLALe5KaiZ) | [The Halluci Nation](https://open.spotify.com/artist/2jlWF9ltd8UtoaqW0PxY4z) | [A Tribe Called Red](https://open.spotify.com/album/1FYVy6b5R41tMIAhWS6fXJ) | 3:39 |
+| 49 | [Leader of Men](https://open.spotify.com/track/4Vf9v7ohVz5i8PeZBliwb5) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [The State](https://open.spotify.com/album/3jl1TcvE91Mnu6zjKkklAb) | 3:30 |
 | 50 | [Go For Soda](https://open.spotify.com/track/36iHMTOAr9S4y0WvuWQtvm) | [Kim Mitchell](https://open.spotify.com/artist/5P6mPJKEwpIgjFIIFZhEma) | [Akimbo Alogo](https://open.spotify.com/album/3O03q0mEZ2VshJ4EmpkgTO) | 3:25 |
 | 51 | [Wondering Where The Lions Are](https://open.spotify.com/track/0v1lnGbN08YjocXp3SvJXP) | [Bruce Cockburn](https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz) | [Waiting For A Miracle](https://open.spotify.com/album/5LY3NOVnOe2H5jcZ3FFIG2) | 3:43 |
 | 52 | [We're Here For A Good Time \(Not A Long Time\)](https://open.spotify.com/track/5QSf82Wy6anGZ1NEUr1neJ) | [Trooper](https://open.spotify.com/artist/2bT4eELLlSuDTtZWV2Z3jN) | [Knock 'Em Dead Kid](https://open.spotify.com/album/4lRGegSdH4MiZGY0dCCIDQ) | 3:34 |
 | 53 | [Anthems For A Seventeen Year\-Old Girl](https://open.spotify.com/track/0VXp4zDspR993l2hIKW17g) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [You Forgot It In People](https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ) | 4:35 |
 | 54 | [New Girl Now](https://open.spotify.com/track/1grnSNpTAe14gjtqfArZan) | [Honeymoon Suite](https://open.spotify.com/artist/7kFyhQTV7cbd3iSYW2yt1Q) | [Honeymoon Suite](https://open.spotify.com/album/30S6ZGFNC9KcUZeOqxuq3n) | 3:36 |
 | 55 | [Innocent](https://open.spotify.com/track/5mFyCVEII6mp5YPPYQfTck) | [Our Lady Peace](https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH) | [Gravity](https://open.spotify.com/album/6jno7QiWnaOHtMiZctBJBd) | 3:42 |
-| 56 | [Signs](https://open.spotify.com/track/5KWXi2eCYsC6ofIILjvG4V) | [Five Man Electrical Band](https://open.spotify.com/artist/1GjVNyMzPjdBuip6Xanllu) | [Absolutely Right \- The Best Of Five Man Electrical Band](https://open.spotify.com/album/5W6F5tJqFnmmbPV4oJKbbR) | 4:01 |
-| 57 | [That Song](https://open.spotify.com/track/2hiMLnZ2iItT3WIMxY3hAB) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS) | [In Loving Memory Of \- 20th Anniversary Special Edition](https://open.spotify.com/album/6Agfrk7oe0H7WsXauqMPR6) | 5:04 |
+| 56 | [That Song](https://open.spotify.com/track/2hiMLnZ2iItT3WIMxY3hAB) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS) | [In Loving Memory Of \- 20th Anniversary Special Edition](https://open.spotify.com/album/6Agfrk7oe0H7WsXauqMPR6) | 5:04 |
+| 57 | [Signs](https://open.spotify.com/track/5KWXi2eCYsC6ofIILjvG4V) | [Five Man Electrical Band](https://open.spotify.com/artist/1GjVNyMzPjdBuip6Xanllu) | [Absolutely Right \- The Best Of Five Man Electrical Band](https://open.spotify.com/album/5W6F5tJqFnmmbPV4oJKbbR) | 4:01 |
 | 58 | [Never Surrender](https://open.spotify.com/track/5U5p472hgeXUKvh0d8RL4K) | [Corey Hart](https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0) | [Boy In The Box](https://open.spotify.com/album/5WrZRRqfnVPr9EbNSqG0cN) | 4:55 |
 | 59 | [No Time](https://open.spotify.com/track/29HbvYjzl95cYA4wGIhFCd) | [The Guess Who](https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc) | [American Woman](https://open.spotify.com/album/4Z3eBMaRmWCbTguaeiYUjV) | 3:49 |
 | 60 | [Sweetest Kill](https://open.spotify.com/track/488u1IbVEsaC7fxjABWjHx) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [Forgiveness Rock Record](https://open.spotify.com/album/5hzEg6FhiOIXHufj0EithW) | 5:09 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 66 | [Raise A Little Hell](https://open.spotify.com/track/1yNz3A4ubmE5IEvpNFkjdc) | [Trooper](https://open.spotify.com/artist/2bT4eELLlSuDTtZWV2Z3jN) | [Thick As Thieves](https://open.spotify.com/album/4LyTOb4shQjOLSwE0zUpk0) | 3:42 |
 | 67 | [Knocking At The Door](https://open.spotify.com/track/01afuV689RNz1MKDhGuwWG) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Morning Report \(Deluxe\)](https://open.spotify.com/album/2qzcSOkX6xYvlC2RPAqboQ) | 3:42 |
 | 68 | [Feeling Good](https://open.spotify.com/track/1BWNpziDWyAMfGdKC2ydS6) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [The Sheepdogs \(Deluxe\)](https://open.spotify.com/album/6HIGCaguAPnwApqjRmYBUw) | 3:10 |
-| 69 | [Paint It Black](https://open.spotify.com/track/7ybIcMrSGMNBlZk0FLkvls) | [Gob](https://open.spotify.com/artist/0c4fpXIFPFNve1CxmGgXQf) | [How Far Shallow Takes You](https://open.spotify.com/album/1K79PLVBw5N5tDcIygMYeW) | 3:16 |
-| 70 | [Hello, I'm In Delaware](https://open.spotify.com/track/1PUh1GENlvlgu0dW28I6tY) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Sometimes](https://open.spotify.com/album/4RiXxyAgLSoTNcIgPYV5dn) | 5:45 |
+| 69 | [Hello, I'm In Delaware](https://open.spotify.com/track/1PUh1GENlvlgu0dW28I6tY) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Sometimes](https://open.spotify.com/album/4RiXxyAgLSoTNcIgPYV5dn) | 5:45 |
+| 70 | [Paint It Black](https://open.spotify.com/track/7ybIcMrSGMNBlZk0FLkvls) | [Gob](https://open.spotify.com/artist/0c4fpXIFPFNve1CxmGgXQf) | [How Far Shallow Takes You](https://open.spotify.com/album/1K79PLVBw5N5tDcIygMYeW) | 3:16 |
 | 71 | [Sweet Mountain River](https://open.spotify.com/track/2g2st70xvu7DYGlfVircnf) | [Monster Truck](https://open.spotify.com/artist/0slSgjqTuj6hcod6IcG6zu) | [Furiosity](https://open.spotify.com/album/671q4kHo2y178Q6VvDd6ER) | 3:49 |
-| 72 | [Fly At Night \(In The Morning We Land\)](https://open.spotify.com/track/65P1kWWq2FOig9q2POBD4K) | [Chilliwack](https://open.spotify.com/artist/3TkWygOTDBZXAdFDh9HOkG) | [Dreams, Dreams, Dreams](https://open.spotify.com/album/0HFcnY7LMUaE0PsCg9W1KI) | 4:53 |
-| 73 | [Share the Land](https://open.spotify.com/track/51krF0CyHT5AEuh81K0t0z) | [The Guess Who](https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc) | [Share The Land](https://open.spotify.com/album/3zlRX163Z3F9H0MWPmtiBV) | 3:55 |
+| 72 | [Share the Land](https://open.spotify.com/track/51krF0CyHT5AEuh81K0t0z) | [The Guess Who](https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc) | [Share The Land](https://open.spotify.com/album/3zlRX163Z3F9H0MWPmtiBV) | 3:55 |
+| 73 | [Fly At Night \(In The Morning We Land\)](https://open.spotify.com/track/65P1kWWq2FOig9q2POBD4K) | [Chilliwack](https://open.spotify.com/artist/3TkWygOTDBZXAdFDh9HOkG) | [Dreams, Dreams, Dreams](https://open.spotify.com/album/0HFcnY7LMUaE0PsCg9W1KI) | 4:53 |
 | 74 | [She Ain't Pretty](https://open.spotify.com/track/3lQl6N5vnASpox2hdHpH2w) | [The Northern Pikes](https://open.spotify.com/artist/2BLAzgwe8OzvLOPTZDBCtw) | [Snow In June](https://open.spotify.com/album/51UDRztqnNOkq3WLIDKGAa) | 2:43 |
 | 75 | [Not Ready to Go](https://open.spotify.com/track/1NGH22lTbPAkuj7gLdCcJW) | [The Trews](https://open.spotify.com/artist/2mCd5QO8EUB5rmbGUbCrTJ) | [House of Ill Fame \(Bonus Live Cut Edition\)](https://open.spotify.com/album/5gQedR7N5Upa5UD2R0C0gd) | 3:03 |
 
-Snapshot ID: `MTY2MzEwNjE0NCwwMDAwMDAwMGUyZjA1OTY0YjY0ZDk5YTk0N2VkMTZjMDBiOGNmZWQ4`
+Snapshot ID: `MTY2MzEwNjE0NCwwMDAwMDAwMDg4OWEyZGNlYjA2YTU3ZDYwYWMxY2EwNGQ0NmViMTNl`

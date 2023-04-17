@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 
 > Historias y versos que tocan la piel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,007 likes - 99 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,046 likes - 99 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 30 | [Y Sin Embargo \- En Directo](https://open.spotify.com/track/2PwlT72CyKMN2WzgCS4yUR) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Nos Sobran Los Motivos](https://open.spotify.com/album/6lzBpfskJ6azfSi88CECKv) | 6:02 |
 | 31 | [Alevosía](https://open.spotify.com/track/7lVAkvu9j5d6Pgd1CbXn16) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Alevosia](https://open.spotify.com/album/1UpLSQ8L2ZCfT8OlXyAQKe) | 4:38 |
 | 32 | [Kilómetros de Cielo](https://open.spotify.com/track/6UrLQTasnzlYYKo0U5IICp) | [Edgar Oceransky](https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl) | [De Carne y Hueso](https://open.spotify.com/album/5vhobYClzYYgOR8FCd9Uj8) | 4:21 |
-| 33 | [Mujer Que Camina](https://open.spotify.com/track/5U1hQvJzMLsjeySz5V5BuG) | [Alejandro Filio](https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K) | [Mujer Que Camina](https://open.spotify.com/album/7sm8OhJ1XcOSc1SCtlzFHK) | 5:22 |
-| 34 | [El Breve Espacio en Que No Estás \- Live](https://open.spotify.com/track/5gqjhBhOtdSJpB7el7VXCj) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [Pablo Milanés: Un Concierto para América \(Live\)](https://open.spotify.com/album/128iTJllUXrFI9VogghxEJ) | 4:28 |
+| 33 | [El Breve Espacio en Que No Estás \- Live](https://open.spotify.com/track/5gqjhBhOtdSJpB7el7VXCj) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [Pablo Milanés: Un Concierto para América \(Live\)](https://open.spotify.com/album/128iTJllUXrFI9VogghxEJ) | 4:28 |
+| 34 | [Mujer Que Camina](https://open.spotify.com/track/5U1hQvJzMLsjeySz5V5BuG) | [Alejandro Filio](https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K) | [Mujer Que Camina](https://open.spotify.com/album/7sm8OhJ1XcOSc1SCtlzFHK) | 5:22 |
 | 35 | [Cantares \- En Directo](https://open.spotify.com/track/5HmYuJIqLEXOa9i4YQJWoQ) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Serrat En Directo](https://open.spotify.com/album/5uc1F7ZXMeGxgvfp9z7W8G) | 3:16 |
 | 36 | [Juré](https://open.spotify.com/track/2k3UGlRomFp8jl5dZUmqMX) | [Carlos Carreira](https://open.spotify.com/artist/1VksQOAs5gGHqrcmI4Obw6) | [Contigo](https://open.spotify.com/album/34d1lw7j4LCD3scXgUN8kN) | 3:36 |
 | 37 | [Por Ti](https://open.spotify.com/track/5vVwrqxCYDRGBkWpPuLqFU) | [Óscar Chávez](https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb) | [Oscar Chávez / La Más Completa Colección](https://open.spotify.com/album/47J1O0MfeIVexX6SpIoAFv) | 2:52 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 41 | [Guapa](https://open.spotify.com/track/6FCrZ2Eh3T0Wk45EsB3auG) | [Edgar Oceransky](https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl), [Diego Ojeda](https://open.spotify.com/artist/0eDQlGtmwyq67ApA0Yhyfl) | [Maldita Vocación](https://open.spotify.com/album/3CuB8tyC9WnmtwA1Fee3ku) | 4:45 |
 | 42 | [Sin Tu Latido](https://open.spotify.com/track/5c6OaqhGZq0thRc56z5nAn) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Cuerpo A Cuerpo](https://open.spotify.com/album/3WkzCVHH31VULuzWaIDyD5) | 5:01 |
 | 43 | [Después de Ti](https://open.spotify.com/track/7o6WEhWTa73yA3qiprJfQO) | [Alejandro Filio](https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K) | [1978/1988](https://open.spotify.com/album/7bIbdEJSYLqQ8nLXaMbm6f) | 3:04 |
-| 44 | [Hoy Comí Con el Abuelo](https://open.spotify.com/track/1cEVUvYESLFL7nQlVrymsI) | [Juan Salvador](https://open.spotify.com/artist/58wRCWfE39AuN6fvXRdWN2) | [La Gran Coleccion Del 60 Aniversario CBS \-Juan Salvador](https://open.spotify.com/album/4P0x8TOzFL9fQNebb6nlBx) | 3:07 |
-| 45 | [Todavía](https://open.spotify.com/track/2HSC6Dy73O16zvWJnKViSw) | [Francisco Céspedes](https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8) | [Todavía](https://open.spotify.com/album/7pXbtBSDRM9v4ZQP6dbRP7) | 3:05 |
+| 44 | [Todavía](https://open.spotify.com/track/2HSC6Dy73O16zvWJnKViSw) | [Francisco Céspedes](https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8) | [Todavía](https://open.spotify.com/album/7pXbtBSDRM9v4ZQP6dbRP7) | 3:05 |
+| 45 | [Hoy Comí Con el Abuelo](https://open.spotify.com/track/1cEVUvYESLFL7nQlVrymsI) | [Juan Salvador](https://open.spotify.com/artist/58wRCWfE39AuN6fvXRdWN2) | [La Gran Coleccion Del 60 Aniversario CBS \-Juan Salvador](https://open.spotify.com/album/4P0x8TOzFL9fQNebb6nlBx) | 3:07 |
 | 46 | [Por Si No Te Vuelvo A Ver](https://open.spotify.com/track/3PDUwo7N2IF6fOfD3dEZMH) | [Miguel Inzunza](https://open.spotify.com/artist/6BoD6RlEPXtsku4JA9rrdb) | [Juguete De Madera](https://open.spotify.com/album/1wuudf3MeIPS0MdGvjU5YM) | 3:29 |
 | 47 | [Lo Mejor Que Hay En Mi Vida](https://open.spotify.com/track/5S3uYPl1oYKShBI1CyZAc7) | [Amaury Gutiérrez](https://open.spotify.com/artist/5bnH2idOWAXzMEbw9gIP5D) | [Entre Cuerdas](https://open.spotify.com/album/6Korv9rTN9ZOsHtkhjQayK) | 4:24 |
 | 48 | [El Manual de Lo Prohibido \- Acoustic Live Version](https://open.spotify.com/track/126lK16xw9pZo9N1xTf8Oy) | [Edgar Oceransky](https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl), [Raúl Ornelas](https://open.spotify.com/artist/3C6Jn2YYPlZoe7pBPQl845) | [Sólo, Ni Tan Sólo, Vol\. 2 \(Acoustic Live Version\)](https://open.spotify.com/album/0J37bveorWwGLl1fSn7ZqJ) | 4:05 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 98 | [Viene la Cosa](https://open.spotify.com/track/6ICAdGrduZHsR9ZIfx9CCw) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Viene la Cosa](https://open.spotify.com/album/6PREdFoN9vmyzU3CpdAts3) | 3:51 |
 | 99 | [Alfonsina Y El Mar](https://open.spotify.com/track/6Q3ozAXkxLpKQy6sc8L0TY) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [Ariel Ramírez](https://open.spotify.com/artist/2dTieljE0C4ydCdUPIPLRW), [Hector Zeoli](https://open.spotify.com/artist/2yAbebpFzH9GhCLeCwKwtN) | [30 años](https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU) | 4:40 |
 
-Snapshot ID: `MTY2MDg3NTIzOSwwMDAwMDAwMDcwZmUyNjg1ODk2OTE0N2VmZWE4ODNmNDdlY2UyMWVj`
+Snapshot ID: `MTY2MDg3NTIzOSwwMDAwMDAwMGJlNDExODQxOTk1MDdiYjQ0MzUwM2ViMDk3MDI4ZjIw`

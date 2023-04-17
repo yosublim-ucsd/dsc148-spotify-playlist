@@ -404,7 +404,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 273426,
       "name": "Heaven's Eyes",
       "url": "https://open.spotify.com/track/5NT4xU0yoihXlVFK5UqXP9"
@@ -462,6 +462,24 @@
       "duration_ms": 217573,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/47GwIvmWNwmzurul1rFyJ2"
+    },
+    {
+      "album": {
+        "name": "Holy, Holy, Holy",
+        "url": "https://open.spotify.com/album/4iCzXfUIGxmEX8DA42flzB"
+      },
+      "artists": [
+        {
+          "name": "John Tibbs",
+          "url": "https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "Holy, Holy, Holy",
+      "url": "https://open.spotify.com/track/6xO4gnKFDGCvLiIFiiDsLT"
     },
     {
       "album": {

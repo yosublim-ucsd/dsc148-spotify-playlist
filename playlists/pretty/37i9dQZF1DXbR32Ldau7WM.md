@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > The biggest rock artists in Japan right now! Cover: Ling tosite sigure\(凛として時雨\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,134 likes - 80 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,226 likes - 80 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,15 +60,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 50 | [SLEEPLESS](https://open.spotify.com/track/6Xizy6cbIVFGuOFMvj1btX) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [SLEEPLESS](https://open.spotify.com/album/5qZBvVlYiHtz5jAfJDQp5k) | 3:38 |
 | 51 | [のら犬にさえなれない](https://open.spotify.com/track/60oCvPKZvNPeSTMTFKiRDb) | [Elephant Kashimashi](https://open.spotify.com/artist/24ljrnVUlUZ2apxF6GZsrm) | [のら犬にさえなれない](https://open.spotify.com/album/3MTSjbVzPw4RF9BqNRkHh4) | 4:32 |
 | 52 | [Hunter or Prey](https://open.spotify.com/track/1mSzEhQw7CH50j9e97un0V) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [AXIS](https://open.spotify.com/album/3qKwhlHo13SRpExp9et5eQ) | 3:44 |
-| 53 | [冬ノ道ノセイ](https://open.spotify.com/track/4lEYmCpjjVG9hBVc6rlmUN) | [Straightener](https://open.spotify.com/artist/4q5fHrf0Q0R6imQ3etjXEG) | [冬ノ道ノセイ](https://open.spotify.com/album/1wGa63zrjAufDCd7zA4wCs) | 4:31 |
-| 54 | [Drain Water](https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:11 |
+| 53 | [Drain Water](https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:11 |
+| 54 | [冬ノ道ノセイ](https://open.spotify.com/track/4lEYmCpjjVG9hBVc6rlmUN) | [Straightener](https://open.spotify.com/artist/4q5fHrf0Q0R6imQ3etjXEG) | [冬ノ道ノセイ](https://open.spotify.com/album/1wGa63zrjAufDCd7zA4wCs) | 4:31 |
 | 55 | [Let's go down the street](https://open.spotify.com/track/2OcKkcc650vUnWBW3WI9jr) | [The Birthday](https://open.spotify.com/artist/58zME34zPsQx58YXCyFryH) | [Let's go down the street](https://open.spotify.com/album/4bJs16gpfnH3jr3S4REn5U) | 4:04 |
-| 56 | [THE PROMISE](https://open.spotify.com/track/3nzAbV5u0IBT6UJuPqPcLp) | [DOPING PANDA](https://open.spotify.com/artist/1Z9z0ONErFhEvidgPFOi6W) | [THE PROMISE](https://open.spotify.com/album/2Bx6rMVAb1WltCaBQWT5Lg) | 3:18 |
-| 57 | [All We Need Is Summer Day](https://open.spotify.com/track/18lXaewmQrOOCMZDAv0QYM) | [9mm Parabellum Bullet](https://open.spotify.com/artist/3v0nHmnUcf9GAhjQOTctQu) | [TIGHTROPE](https://open.spotify.com/album/4KpSEm7faORT0XUFZRTAJc) | 2:42 |
+| 56 | [All We Need Is Summer Day](https://open.spotify.com/track/18lXaewmQrOOCMZDAv0QYM) | [9mm Parabellum Bullet](https://open.spotify.com/artist/3v0nHmnUcf9GAhjQOTctQu) | [TIGHTROPE](https://open.spotify.com/album/4KpSEm7faORT0XUFZRTAJc) | 2:42 |
+| 57 | [THE PROMISE](https://open.spotify.com/track/3nzAbV5u0IBT6UJuPqPcLp) | [DOPING PANDA](https://open.spotify.com/artist/1Z9z0ONErFhEvidgPFOi6W) | [THE PROMISE](https://open.spotify.com/album/2Bx6rMVAb1WltCaBQWT5Lg) | 3:18 |
 | 58 | [Fever](https://open.spotify.com/track/7oEGjKG1ukNFUlfQodmUz3) | [ACIDMAN](https://open.spotify.com/artist/0zEbGW70TQHSOf4Ip1oeVn) | [Fever](https://open.spotify.com/album/2tBrdyxwKLtADqTvmacSiL) | 3:41 |
 | 59 | [Voyage](https://open.spotify.com/track/4omDxqC1xPp6wFfs7UZHVv) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Voyage](https://open.spotify.com/album/5zSvFaWhWwksDGOLYkKOb5) | 3:39 |
-| 60 | [Steady](https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:30 |
-| 61 | [ハイパーイメージ](https://open.spotify.com/track/5higKPhcN5wzx2IqafqalE) | [Ivy to Fraudulent Game](https://open.spotify.com/artist/4tfU4ctKJhrv0PJmSzMlJX) | [ハイパーイメージ](https://open.spotify.com/album/5aIKLPM4ONVaodAX2Dt3Z8) | 2:30 |
+| 60 | [ハイパーイメージ](https://open.spotify.com/track/5higKPhcN5wzx2IqafqalE) | [Ivy to Fraudulent Game](https://open.spotify.com/artist/4tfU4ctKJhrv0PJmSzMlJX) | [ハイパーイメージ](https://open.spotify.com/album/5aIKLPM4ONVaodAX2Dt3Z8) | 2:30 |
+| 61 | [Steady](https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:30 |
 | 62 | [Sun of Love](https://open.spotify.com/track/4Dh38LmVwPAgnwBIbo8ndS) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [Sun of Love](https://open.spotify.com/album/5ZJLJPs0uVBvVQ4fHo6X2I) | 4:12 |
 | 63 | [BackBeat](https://open.spotify.com/track/6ttx0DBQOzlAtPCuJUSP8V) | [DOES](https://open.spotify.com/artist/2zwGPEFviyaICCDiAWxLjy) | [BackBeat](https://open.spotify.com/album/20Kzp3sMbCnigdUkxbq6rj) | 3:50 |
 | 64 | [THE KEBABSを抱きしめて](https://open.spotify.com/track/4vLkPISde2wc7vcFdBMB4a) | [THE KEBABS](https://open.spotify.com/artist/59RHw8mybzyMx2euAXycie) | [幸せにしてくれいーぴー](https://open.spotify.com/album/2q37HtYAlyNvkGvKSeojsZ) | 3:33 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 79 | [One More Time](https://open.spotify.com/track/5eJzzdZFGx5UTQ8OO9HhKQ) | [9mm Parabellum Bullet](https://open.spotify.com/artist/3v0nHmnUcf9GAhjQOTctQu) | [One More Time](https://open.spotify.com/album/3XKXbGqYOWElmctD6tfrIJ) | 3:27 |
 | 80 | [VOX](https://open.spotify.com/track/1KxHcxJXPxED226UAIQFwK) | [Dragon Ash](https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L) | [VOX](https://open.spotify.com/album/7G3Gkn2mfKJuhTCtk0R8U1) | 4:10 |
 
-Snapshot ID: `MTY4MTM5ODAwMCwwMDAwMDAwMGVlN2U2ZDI2ZjZmMDY4MGE3MGZhMzFhNzRkYTU1ZGYx`
+Snapshot ID: `MTY4MTM5ODAwMCwwMDAwMDAwMDAxNGMyNzE0ZmY2YmMxYjlhYjdkZWJkZjVjN2QwYjVk`

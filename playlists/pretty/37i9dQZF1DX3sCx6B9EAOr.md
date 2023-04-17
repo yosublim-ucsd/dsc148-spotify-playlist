@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCx6B9EAOr.md) - [plain]
 
 > What kind of music would you listen to if you went for a drive with BamBam? Enjoy your drive time with music selected by fans! \(뱀뱀과 함께 드라이브를 한다면 무슨 음악을 들으실거에요? 팬들이 직접 선정한 음악과 함께 드라이브 시간을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,594 likes - 35 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,608 likes - 35 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

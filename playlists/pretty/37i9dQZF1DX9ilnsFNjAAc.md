@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ilnsFNjAAc.md) - [plain]
 
 > Raw dance beats pushing club culture forwards\. Cover: Shygirl
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,697 likes - 60 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,720 likes - 60 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

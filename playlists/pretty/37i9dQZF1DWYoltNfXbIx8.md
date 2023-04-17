@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 
 > Uma playlist só com as origens do Rap nacional\. Foto: MV Bill
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,164 likes - 70 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,235 likes - 70 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 | 50 | [Respeito É pra Quem Tem](https://open.spotify.com/track/4pZt1KU0y9Ckrw5Bcp60GB) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [RZO](https://open.spotify.com/artist/1CQJtHMGhqvrSZiRTjSeOU) | [Rap É Compromisso \(Edição Comemorativa\)](https://open.spotify.com/album/4KJARfekEfYH6zGKus6zvz) | 5:29 |
 | 51 | [Exército Do Rap](https://open.spotify.com/track/4utfUZHM35t2r7GEOqNa8S) | [Helião](https://open.spotify.com/artist/4E18TGN1tOs6QTHAOupZgV), [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn) | [Guerreiro, Guerreira](https://open.spotify.com/album/5CGbKL3fvKpdcU1i8VP3Zo) | 3:00 |
 | 52 | [L\. Gelada \- 3 da Madrugada](https://open.spotify.com/track/32mcFZ8uedc5Wd5xoZsNXe) | [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ) | [Declaração de Guerra](https://open.spotify.com/album/0qMoXv72zaGupEdMRJmjNg) | 7:21 |
-| 53 | [Sonho Meu](https://open.spotify.com/track/7Dcm25Cx6oJb58R6omQT08) | [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1) | [Fortificando a Desobediência](https://open.spotify.com/album/2cGL7y3C3yRMv7qo6Bk5Rt) | 5:40 |
+| 53 | [Sonho Meu](https://open.spotify.com/track/1Vtd7pteeBGMy7y0hb7bcB) | [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1), [Cibelle](https://open.spotify.com/artist/3BfQyeTb3hG0Iy76tSWwAU) | [Fortificando a Desobediência](https://open.spotify.com/album/7u6It7Xkl1A6U7BxCDOfqn) | 5:40 |
 | 54 | [Lembrança](https://open.spotify.com/track/5z2JnOo0ZxrZVkaFpeV5AJ) | [Consciência Humana](https://open.spotify.com/artist/1nwuifu5rxgVlrGwjjoJOt) | [Entre a Adolescência e o Crime](https://open.spotify.com/album/6ndOfkbN2BiLUzE4x5tprw) | 9:34 |
 | 55 | [Pule ou Empurre](https://open.spotify.com/track/5KyCqnsRNr5sV4y2AcW542) | [R.P.W.](https://open.spotify.com/artist/2BYX0OUHkVMB6jBVjdUtUm) | [O Melhor do Rap Nacional, Vol\. 2](https://open.spotify.com/album/62P9Bb98VUUAEAlrLClVZo) | 3:44 |
 | 56 | [Mano de Fé](https://open.spotify.com/track/1rXh5lDcW9sMeBizF2awvd) | [Potencial 3](https://open.spotify.com/artist/6nZg0XOctvjji1pPvsOjNH) | [Mano de Fé](https://open.spotify.com/album/4PmbdwTs4hoYztsDs60T1j) | 4:16 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 | 69 | [O Clã da Vila](https://open.spotify.com/track/2U1bbnX6oxwdNedX32CL23) | [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [BNegão](https://open.spotify.com/artist/3wYrCJWf6iI5vuUDOnZdUw), [Satiras](https://open.spotify.com/artist/7gDFnhMz0f2jqUeNVr9TdA), [HHC](https://open.spotify.com/artist/4zG1JgcEXdGXtMfPG935gr) | [O Clã da Vila](https://open.spotify.com/album/5mUsmcFBfu9exO4DGDuxPg) | 7:33 |
 | 70 | [Mandando Bronca](https://open.spotify.com/track/3gxKCBisGDEcv4kDNyFocz) | [Pavilhão 9](https://open.spotify.com/artist/5QTksGpRsgrYaFe1Gnf2AH), [Max](https://open.spotify.com/artist/4uPE8jQtZMzl7kYevZv26v), [Igor Cavalera](https://open.spotify.com/artist/54SDl74Lz33Vi2SnbO5GFu) | [Cadeia Nacional](https://open.spotify.com/album/1c7a4F6mAh53vef9gWrhl5) | 4:26 |
 
-Snapshot ID: `MTY2OTk1MDA2MCwwMDAwMDAwMDYyODM3NDQ2MzZmYTFjZTEzZGZiYTY4NmQ2NDdhNjY3`
+Snapshot ID: `MTY2OTk1MDA2MCwwMDAwMDAwMDllMzRjMzAwZDBkOThjZWVkNWJlZTM0NzJmZmE2Njk2`

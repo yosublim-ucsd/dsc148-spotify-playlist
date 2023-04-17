@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QL9TBCM8cE.md) - [plain]
 
 > Music from "THE IDOLM@STER SHINY COLORS"\. アイドルマスター シャイニーカラーズの楽曲を1つのプレイリストで。THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,795 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,816 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QL9TBCM8cE.md) - [plain]
 | 45 | [Secret utopIA](https://open.spotify.com/track/3TE8TVyNEPutMardTtgl62) | [illumination STARS](https://open.spotify.com/artist/4hdNG4UKCFXjzfuCB37vyj), [ALSTROEMERIA](https://open.spotify.com/artist/6JqEyRLu7IsykcxMFFMZAc), [SHHis](https://open.spotify.com/artist/5Myi8VWLHStjf0nqwLMMMO) | [THE IDOLM@STER SHINY COLORS Synthe\-Side 03](https://open.spotify.com/album/5VWEYE7ttilS4rRwoDk6HS) | 3:48 |
 | 46 | [僕らだけの未来の空](https://open.spotify.com/track/4PLZYL3uBFJxfVuZqVUAAf) | [ノクチル](https://open.spotify.com/artist/2mEuo2oqjiInFkBJUOfsSc) | [THE IDOLM@STER SHINY COLORS L@YERED WING 07](https://open.spotify.com/album/4bRs74VKNeAnUu0lUcT4nJ) | 3:36 |
 | 47 | [Hide & Attack](https://open.spotify.com/track/5mX8BzqOQ4u1UwrOCztEIc) | [ストレイライト](https://open.spotify.com/artist/493MBQPclwtXx4zWgCalzd) | [THE IDOLM@STER SHINY COLORS GR@DATE WING 06](https://open.spotify.com/album/6pgeXOy8vv6LZ4ten6TKKE) | 3:59 |
-| 48 | [星をめざして](https://open.spotify.com/track/7wsxyqYKYjVYsc1lSgE2X0) | [芹沢あさひ \(CV.田中有紀\)](https://open.spotify.com/artist/1WH3WJeWBh6MaSdrWmQWy4) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS \-Stella\-](https://open.spotify.com/album/4LNCaJ2SQh27tRtaZGzmT9) | 4:26 |
-| 49 | [statice](https://open.spotify.com/track/63fbgkmVDVCWM5vTmwEufo) | [浅倉 透 \(CV.和久井 優\)](https://open.spotify.com/artist/3W0BlGAFqbi1iKvsfO8kcu) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS](https://open.spotify.com/album/6gEqUT48U8C9GK6QhpoJeG) | 4:37 |
+| 48 | [statice](https://open.spotify.com/track/63fbgkmVDVCWM5vTmwEufo) | [浅倉 透 \(CV.和久井 優\)](https://open.spotify.com/artist/3W0BlGAFqbi1iKvsfO8kcu) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS](https://open.spotify.com/album/6gEqUT48U8C9GK6QhpoJeG) | 4:37 |
+| 49 | [星をめざして](https://open.spotify.com/track/7wsxyqYKYjVYsc1lSgE2X0) | [芹沢あさひ \(CV.田中有紀\)](https://open.spotify.com/artist/1WH3WJeWBh6MaSdrWmQWy4) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS \-Stella\-](https://open.spotify.com/album/4LNCaJ2SQh27tRtaZGzmT9) | 4:26 |
 | 50 | [夢見鳥](https://open.spotify.com/track/4LBl0NObinFBwEDPIGIoRq) | [樋口円香 \(CV.土屋李央\)](https://open.spotify.com/artist/4nzTh0EGvqoTb8P1KsmcVX) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS \-Stella\-](https://open.spotify.com/album/4LNCaJ2SQh27tRtaZGzmT9) | 4:21 |
 
-Snapshot ID: `MTY3ODIwMTIwMCwwMDAwMDAwMDk0NGM0YmMzY2UxZTgxODg0NWU5MDlkY2RjMDhjMmI1`
+Snapshot ID: `MTY3ODIwMTIwMCwwMDAwMDAwMGIzOGRhZGJjN2QxM2Y4YzFlNDFmYzRjZTI3NmQ0ZDY3`

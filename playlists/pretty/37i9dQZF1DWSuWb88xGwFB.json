@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 26232,
+  "num_followers": 26255,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjMxNTk1NiwwMDAwMDAwMGYxZTQ3NjY2OWM2YjI0ODU3MGI2MDFhYmQ1YWUyNjk4",
+  "snapshot_id": "MTY0NjMxNTk1NiwwMDAwMDAwMGJkYTIzNDQ2YzVmODllNTJiZjI2NzRlMmNkMmU5MmQw",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -147,22 +147,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Who Dares To Believe In Me",
-        "url": "https://open.spotify.com/album/7l46E4hSynmCmaSnVmXHdT"
-      },
-      "artists": [
-        {
-          "name": "The Believers",
-          "url": "https://open.spotify.com/artist/32ZExi6NKMCjakKJ5GmDRP"
-        }
-      ],
-      "duration_ms": 491746,
-      "name": "Who Dares To Believe In Me?",
-      "url": "https://open.spotify.com/track/2orxZZBLXF40hyBDSqqEGb"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Sinfonia Della Notte",
         "url": "https://open.spotify.com/album/1XcxMqr1XRN1h7k07aXpoR"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 445946,
       "name": "Sinfonia Della Notte",
       "url": "https://open.spotify.com/track/14iTtRdW9NJ1K3TKn7KR4T"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Who Dares To Believe In Me",
+        "url": "https://open.spotify.com/album/7l46E4hSynmCmaSnVmXHdT"
+      },
+      "artists": [
+        {
+          "name": "The Believers",
+          "url": "https://open.spotify.com/artist/32ZExi6NKMCjakKJ5GmDRP"
+        }
+      ],
+      "duration_ms": 491746,
+      "name": "Who Dares To Believe In Me?",
+      "url": "https://open.spotify.com/track/2orxZZBLXF40hyBDSqqEGb"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -423,22 +423,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Asuca (Remixes)",
-        "url": "https://open.spotify.com/album/55es5pld0PeugvDtRU1PZi"
-      },
-      "artists": [
-        {
-          "name": "R.A.W.",
-          "url": "https://open.spotify.com/artist/0WRq0dNGEZcy9evM2UuL9C"
-        }
-      ],
-      "duration_ms": 356676,
-      "name": "Asuca - Tribal Mix",
-      "url": "https://open.spotify.com/track/39SGubV6xzcknuwddb8d6d"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "The Tribal - EP (Remixes)",
         "url": "https://open.spotify.com/album/0zJyxO4jsvtADO6fyt4wdo"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 243920,
       "name": "Love & Happiness (Yemaya Y Och\u00f9n) - Radio Edit",
       "url": "https://open.spotify.com/track/5J51JZixTx08GKXwufn5Cw"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Asuca (Remixes)",
+        "url": "https://open.spotify.com/album/55es5pld0PeugvDtRU1PZi"
+      },
+      "artists": [
+        {
+          "name": "R.A.W.",
+          "url": "https://open.spotify.com/artist/0WRq0dNGEZcy9evM2UuL9C"
+        }
+      ],
+      "duration_ms": 356676,
+      "name": "Asuca - Tribal Mix",
+      "url": "https://open.spotify.com/track/39SGubV6xzcknuwddb8d6d"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
-        "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
-      },
-      "artists": [
-        {
-          "name": "R.A.W.",
-          "url": "https://open.spotify.com/artist/0WRq0dNGEZcy9evM2UuL9C"
-        }
-      ],
-      "duration_ms": 430867,
-      "name": "Unbe - Erick 'More' Mix",
-      "url": "https://open.spotify.com/track/2trtz6D7Y16zZJr5B3XAGD"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Generate Power (feat. Paula Brion) [2010 Mixes]",
         "url": "https://open.spotify.com/album/5MwtRnaCznUi4ijSIjQ8KY"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 780936,
       "name": "Break Night - The Mardi Gras Mix",
       "url": "https://open.spotify.com/track/18BSfCDcxdUMJ6Q0e78Ra1"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
+        "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
+      },
+      "artists": [
+        {
+          "name": "R.A.W.",
+          "url": "https://open.spotify.com/artist/0WRq0dNGEZcy9evM2UuL9C"
+        }
+      ],
+      "duration_ms": 430867,
+      "name": "Unbe - Erick 'More' Mix",
+      "url": "https://open.spotify.com/track/2trtz6D7Y16zZJr5B3XAGD"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Muevete Mama",
-        "url": "https://open.spotify.com/album/4LGon28IgqEplZZjgnxbqr"
-      },
-      "artists": [
-        {
-          "name": "Afro-Cube",
-          "url": "https://open.spotify.com/artist/404yHHpunUI8aDneAYbY1u"
-        }
-      ],
-      "duration_ms": 414378,
-      "name": "Muevete Mama - Broder Mix",
-      "url": "https://open.spotify.com/track/5j1UuKogoBifaCtspPmcvZ"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Love Trax",
         "url": "https://open.spotify.com/album/1VyhBbnfZeiB5d5YGcxVU9"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 406131,
       "name": "Love Trax - Love Izz",
       "url": "https://open.spotify.com/track/6Aiahrv9IoKgTb7OqOaqp5"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Muevete Mama",
+        "url": "https://open.spotify.com/album/4LGon28IgqEplZZjgnxbqr"
+      },
+      "artists": [
+        {
+          "name": "Afro-Cube",
+          "url": "https://open.spotify.com/artist/404yHHpunUI8aDneAYbY1u"
+        }
+      ],
+      "duration_ms": 414378,
+      "name": "Muevete Mama - Broder Mix",
+      "url": "https://open.spotify.com/track/5j1UuKogoBifaCtspPmcvZ"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
-        "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
-      },
-      "artists": [
-        {
-          "name": "Raw Power",
-          "url": "https://open.spotify.com/artist/5xhTAnkK8Pxq3XHGitPztd"
-        }
-      ],
-      "duration_ms": 297037,
-      "name": "Wanna Be Your Girl - A 'G' Thang Mix",
-      "url": "https://open.spotify.com/track/1kTbLVpJoP0QzMhf4ZoUfH"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Justify",
         "url": "https://open.spotify.com/album/4uGfxR9WiHiGYWE6pFDKL9"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 545040,
       "name": "Justify - Vocal Mix",
       "url": "https://open.spotify.com/track/5Gy9zW7lb98HLGaARD2aLb"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
+        "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
+      },
+      "artists": [
+        {
+          "name": "Raw Power",
+          "url": "https://open.spotify.com/artist/5xhTAnkK8Pxq3XHGitPztd"
+        }
+      ],
+      "duration_ms": 297037,
+      "name": "Wanna Be Your Girl - A 'G' Thang Mix",
+      "url": "https://open.spotify.com/track/1kTbLVpJoP0QzMhf4ZoUfH"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
-        "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
-      },
-      "artists": [
-        {
-          "name": "Scram",
-          "url": "https://open.spotify.com/artist/00OeT8g2l7bAwFH9oD9TEu"
-        }
-      ],
-      "duration_ms": 341200,
-      "name": "Jump & Sing - Hard Metro Mix",
-      "url": "https://open.spotify.com/track/2028K7usL1aImoGvaFhyGx"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Get Up",
         "url": "https://open.spotify.com/album/7vEb16cbQRZ9EPywWeIgLK"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 410973,
       "name": "Get Up",
       "url": "https://open.spotify.com/track/2zP57ODfOyIIGfjhfK4L5Q"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Choices",
+        "url": "https://open.spotify.com/album/2c68ZizXWS5lDng75WLwIE"
+      },
+      "artists": [
+        {
+          "name": "Full Swing",
+          "url": "https://open.spotify.com/artist/61u5dnJOUnu9mddENoTJeQ"
+        }
+      ],
+      "duration_ms": 472984,
+      "name": "Choices - Choices Vocal Mix",
+      "url": "https://open.spotify.com/track/0snpiWB9x2GdHbaTzmutHa"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -987,6 +987,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
+        "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
+      },
+      "artists": [
+        {
+          "name": "Scram",
+          "url": "https://open.spotify.com/artist/00OeT8g2l7bAwFH9oD9TEu"
+        }
+      ],
+      "duration_ms": 341200,
+      "name": "Jump & Sing - Hard Metro Mix",
+      "url": "https://open.spotify.com/track/2028K7usL1aImoGvaFhyGx"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "This Way / Boy",
         "url": "https://open.spotify.com/album/2O0Of8TEl3Ja05ULJYEuW2"
       },
@@ -1019,38 +1035,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Choices",
-        "url": "https://open.spotify.com/album/2c68ZizXWS5lDng75WLwIE"
-      },
-      "artists": [
-        {
-          "name": "Full Swing",
-          "url": "https://open.spotify.com/artist/61u5dnJOUnu9mddENoTJeQ"
-        }
-      ],
-      "duration_ms": 472984,
-      "name": "Choices - Choices Vocal Mix",
-      "url": "https://open.spotify.com/track/0snpiWB9x2GdHbaTzmutHa"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Strictly Rhythms, Vol. 1",
-        "url": "https://open.spotify.com/album/2OWNRLf5fy8nKVWWOdvW7i"
-      },
-      "artists": [
-        {
-          "name": "Kenny Dope",
-          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
-        }
-      ],
-      "duration_ms": 766733,
-      "name": "Tribal Seagulls",
-      "url": "https://open.spotify.com/track/6eO9bj2SH9yfgNytUdtC9T"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Set My Spirit Free (feat. Sandy Rivera)",
         "url": "https://open.spotify.com/album/2rFxKv5g2o34oZEYcCpzvN"
       },
@@ -1071,6 +1055,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Strictly Rhythms, Vol. 1",
+        "url": "https://open.spotify.com/album/2OWNRLf5fy8nKVWWOdvW7i"
+      },
+      "artists": [
+        {
+          "name": "Kenny Dope",
+          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
+        }
+      ],
+      "duration_ms": 766733,
+      "name": "Tribal Seagulls",
+      "url": "https://open.spotify.com/track/6eO9bj2SH9yfgNytUdtC9T"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
         "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
       },
@@ -1083,22 +1083,6 @@
       "duration_ms": 427132,
       "name": "Hey! - The Rhythm Hype Mix",
       "url": "https://open.spotify.com/track/1iaEun88QJb6k3MCe3PKve"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
-        "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
-      },
-      "artists": [
-        {
-          "name": "D-Tune",
-          "url": "https://open.spotify.com/artist/26P8hiVKDgo3V5CfdYwSWm"
-        }
-      ],
-      "duration_ms": 337901,
-      "name": "Just An Organ - Just An Organ Mix",
-      "url": "https://open.spotify.com/track/4doXJDmMNk3yVwZcWaTEW2"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1119,6 +1103,22 @@
       "duration_ms": 227173,
       "name": "Just Us - B.O.P. Radio Joint",
       "url": "https://open.spotify.com/track/1hfX4Y0u3MqizJdjnnjHdZ"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
+        "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
+      },
+      "artists": [
+        {
+          "name": "D-Tune",
+          "url": "https://open.spotify.com/artist/26P8hiVKDgo3V5CfdYwSWm"
+        }
+      ],
+      "duration_ms": 337901,
+      "name": "Just An Organ - Just An Organ Mix",
+      "url": "https://open.spotify.com/track/4doXJDmMNk3yVwZcWaTEW2"
     },
     {
       "added_at": "2022-03-03 13:59:16",

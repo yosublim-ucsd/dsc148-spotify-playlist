@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-217 songs - 13 hr 21 min
+218 songs - 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Mota](https://open.spotify.com/track/32XtK3PD1oI0PXgrQPHgOM) | [Papa Shawn Boo](https://open.spotify.com/artist/17Lwhyd0xKymj1hGM06JrL), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [D\. LYNCH](https://open.spotify.com/artist/1GFGKpUhMtHRmO1WZ0RbDp) | [Mota](https://open.spotify.com/album/7BCjqTxD74UnueM9ZGJiiG) | 3:08 | 2023-04-07 | 2023-04-15 |
 | [Music to Get Rich To \(feat\. Ghostface Killah, Lorentz & Jahju16\)](https://open.spotify.com/track/1geGiUehw4HuopF0xo7f4p) | [Halon](https://open.spotify.com/artist/6FsTyMvWygqPWyx4d1MvoT), [Lorentz](https://open.spotify.com/artist/2QDnY1LY2mnzeeKGZLHoc7), [Jahju16](https://open.spotify.com/artist/0NWqCsFrGXt0a7su3xJSaC), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe) | [Music to Get Rich To \(feat\. Ghostface Killah, Lorentz & Jahju16\)](https://open.spotify.com/album/0FaS0JzKiRNo4m5AkyCtI7) | 3:36 | 2023-03-10 | 2023-03-18 |
 | [New Gospel](https://open.spotify.com/track/61lD6dHS3wv0CT3ayawfZQ) | [DrunkenLover](https://open.spotify.com/artist/4fWhd743irv8aSGwFCrykt), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1) | [New Gospel](https://open.spotify.com/album/4BJiZyWxoYMKbYyOnMAUPt) | 2:43 | 2023-02-10 | 2023-02-18 |
+| [New Millennium \(Basic Tracks\)](https://open.spotify.com/track/4KTFtsadHOMKnxX5fCcucu) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Lost Not Forgotten Archives: The Making of Falling Into Infinity \(1997\)](https://open.spotify.com/album/6PSF6V0b6eMbuBI8lBMahX) | 1:48 | 2023-04-14 |  |
 | [Night Time Study \- Lofi](https://open.spotify.com/track/7ufNjClIo0SHEcEHXVqchb) | [Heavenly Realms](https://open.spotify.com/artist/37t9bT54d83HTqfWLET0Vj), [LoFi Bear](https://open.spotify.com/artist/2S49iNx8Jjd1P9hxuD0oRE), [The Dream Life Factory](https://open.spotify.com/artist/5xUCp9FjByKFgtUSCuyo67) | [Night Time Study \(Lofi\)](https://open.spotify.com/album/7gvtvDJMeyONlHTRgycwzJ) | 2:08 | 2023-03-10 | 2023-03-18 |
 | [No Tomorrow](https://open.spotify.com/track/0ctvAQSD8kcQP6VUYF5yLf) | [M.I.M.E](https://open.spotify.com/artist/1RdQK73ZgvXjkaBJkibE6X), [Wax](https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV) | [No Tomorrow](https://open.spotify.com/album/66yZzWmZViMvBqYpf0gLNL) | 1:49 | 2023-04-14 |  |
 | [No! \(feat\. Snoop Dogg\)](https://open.spotify.com/track/06CvuzqCjTBrCBXBOlcvOm) | [Mallokay](https://open.spotify.com/artist/1r6bhhy35fKOmTGVmdaUOH), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [No! \(feat\. Snoop Dogg\)](https://open.spotify.com/album/2DW7XGc3Ryw3sAWxym3Xws) | 3:13 | 2023-02-10 | 2023-02-18 |
@@ -224,6 +225,6 @@
 | [Work That](https://open.spotify.com/track/4k0Gpz3QD12vVV6XJF7uOy) | [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr), [FJ Outlaw](https://open.spotify.com/artist/7LOfwXilquLSyzg493dPwJ), [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P) | [Work That](https://open.spotify.com/album/3wi2k5B4qfXu3EwmTsggjD) | 3:04 | 2023-02-24 | 2023-03-04 |
 | [Wreckless](https://open.spotify.com/track/2C7ZHLGI6eQoQ1m0aGtLK3) | [Meeco](https://open.spotify.com/artist/6n5aqrtqKxRHEdap5f4vgQ), [DJ Access](https://open.spotify.com/artist/6pgLZsB8Z4kotoAiX8yW3T), [Inspectah Deck](https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO), [Fashawn](https://open.spotify.com/artist/6sDyTDjzGxcvyhLn5x9RyY) | [Wreckless](https://open.spotify.com/album/1E1HHfY6IClaSASPELV7t9) | 2:36 | 2023-03-17 | 2023-04-16 |
 | [WYD](https://open.spotify.com/track/2tFTUUlBZeHGeI2Ys0nkci) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [WYD](https://open.spotify.com/album/08PRxcK4bHMKg6PVObT6r9) | 3:21 | 2023-02-17 | 2023-03-12 |
-| [You Not Me \(Strings, Piano, Vocals and Key Overdubs\)](https://open.spotify.com/track/6TIj3K9nu4HNrtogAfSJAH) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Lost Not Forgotten Archives: The Making of Falling Into Infinity \(1997\)](https://open.spotify.com/album/6PSF6V0b6eMbuBI8lBMahX) | 3:33 | 2023-04-14 |  |
+| [You Not Me \(Strings, Piano, Vocals and Key Overdubs\)](https://open.spotify.com/track/6TIj3K9nu4HNrtogAfSJAH) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Lost Not Forgotten Archives: The Making of Falling Into Infinity \(1997\)](https://open.spotify.com/album/6PSF6V0b6eMbuBI8lBMahX) | 3:33 | 2023-04-14 | 2023-04-17 |
 
 \*This playlist was first scraped on 2023-02-13. Prior content cannot be recovered.

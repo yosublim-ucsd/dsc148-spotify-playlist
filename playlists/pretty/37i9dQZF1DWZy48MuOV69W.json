@@ -1,12 +1,12 @@
 {
   "description": "Cozy and jazzy interpretations of all your favourite Christmas songs.",
-  "num_followers": 59056,
+  "num_followers": 59051,
   "original_name": "Fireside Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTY5NTAzMSwwMDAwMDAwMDJkZTc3NWM5ODA0NTQ0NGI1YjAzYTVjMmY2OGVhMzdi",
+  "snapshot_id": "MTY3MTY5NTAzMSwwMDAwMDAwMGMxZDA4MTBjNTlkYTViN2YyNzNkOGE2OWNiMTRmOTZj",
   "tracks": [
     {
       "added_at": "2022-12-22 07:43:51",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-12-22 07:43:51",
       "album": {
-        "name": "All I Want For Christmas Is You",
-        "url": "https://open.spotify.com/album/6NG2YLKoP9ZrSPpUIiexj8"
-      },
-      "artists": [
-        {
-          "name": "Midtown Players",
-          "url": "https://open.spotify.com/artist/1GRABQUFydUxNHGumW35mO"
-        }
-      ],
-      "duration_ms": 241374,
-      "name": "All I Want For Christmas Is You",
-      "url": "https://open.spotify.com/track/5495y2sQOmH2lTeki2cTkD"
-    },
-    {
-      "added_at": "2022-12-22 07:43:51",
-      "album": {
         "name": "The Christmas Collection",
         "url": "https://open.spotify.com/album/1k0fZo1NgwWJUXsVX8SBHa"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 226426,
       "name": "An Old Fashioned Christmas",
       "url": "https://open.spotify.com/track/7b3EE8oiI8Cu7sfDO46zs8"
+    },
+    {
+      "added_at": "2022-12-22 07:43:51",
+      "album": {
+        "name": "All I Want For Christmas Is You",
+        "url": "https://open.spotify.com/album/6NG2YLKoP9ZrSPpUIiexj8"
+      },
+      "artists": [
+        {
+          "name": "Midtown Players",
+          "url": "https://open.spotify.com/artist/1GRABQUFydUxNHGumW35mO"
+        }
+      ],
+      "duration_ms": 241374,
+      "name": "All I Want For Christmas Is You",
+      "url": "https://open.spotify.com/track/5495y2sQOmH2lTeki2cTkD"
     },
     {
       "added_at": "2022-12-22 07:43:51",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-12-22 07:43:51",
       "album": {
-        "name": "A Merry Christmas With Bing Crosby & The Andrews Sisters (Remastered)",
-        "url": "https://open.spotify.com/album/0w8UpAutS4akZSqbvJH4fk"
-      },
-      "artists": [
-        {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        }
-      ],
-      "duration_ms": 187906,
-      "name": "The First Snowfall - Single Version",
-      "url": "https://open.spotify.com/track/1OwGYy9S2R0lzhoGn7vv6S"
-    },
-    {
-      "added_at": "2022-12-22 07:43:51",
-      "album": {
         "name": "The Season",
         "url": "https://open.spotify.com/album/3ciopGUNGy8S9VoLIfNaFG"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 300586,
       "name": "Moonlight In Vermont",
       "url": "https://open.spotify.com/track/1dpM2N7IkTM1gSUtomiE9F"
+    },
+    {
+      "added_at": "2022-12-22 07:43:51",
+      "album": {
+        "name": "A Merry Christmas With Bing Crosby & The Andrews Sisters (Remastered)",
+        "url": "https://open.spotify.com/album/0w8UpAutS4akZSqbvJH4fk"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        }
+      ],
+      "duration_ms": 187906,
+      "name": "The First Snowfall - Single Version",
+      "url": "https://open.spotify.com/track/1OwGYy9S2R0lzhoGn7vv6S"
     },
     {
       "added_at": "2022-12-22 07:43:51",
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-12-22 07:43:51",
       "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/6el8HN8F8E4l7gv5TbZFmE"
-      },
-      "artists": [
-        {
-          "name": "Chantal Chamberland",
-          "url": "https://open.spotify.com/artist/1Bkw1ZbvkudC1lY4jTQSpU"
-        }
-      ],
-      "duration_ms": 236354,
-      "name": "Maybe Next Christmas",
-      "url": "https://open.spotify.com/track/4HPE7dfz44sK8Azlix2hLV"
-    },
-    {
-      "added_at": "2022-12-22 07:43:51",
-      "album": {
         "name": "Have Yourself a Soulful Little Christmas",
         "url": "https://open.spotify.com/album/2qecynSla5V5qcg8Xdqzgw"
       },
@@ -615,18 +599,18 @@
     {
       "added_at": "2022-12-22 07:43:51",
       "album": {
-        "name": "Winter Wonderland",
-        "url": "https://open.spotify.com/album/7Djta9G35BBXrjz4CnSg39"
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/6el8HN8F8E4l7gv5TbZFmE"
       },
       "artists": [
         {
-          "name": "Nicki Parrott",
-          "url": "https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7"
+          "name": "Chantal Chamberland",
+          "url": "https://open.spotify.com/artist/1Bkw1ZbvkudC1lY4jTQSpU"
         }
       ],
-      "duration_ms": 235546,
-      "name": "Baby, It's Cold Outside",
-      "url": "https://open.spotify.com/track/1odvHu7LNcEkRn83LwnoZb"
+      "duration_ms": 236354,
+      "name": "Maybe Next Christmas",
+      "url": "https://open.spotify.com/track/4HPE7dfz44sK8Azlix2hLV"
     },
     {
       "added_at": "2022-12-22 07:43:51",
@@ -647,6 +631,22 @@
       "duration_ms": 242506,
       "name": "Jolis sapins",
       "url": "https://open.spotify.com/track/30wgv3YjIy0MUtKrtolqRd"
+    },
+    {
+      "added_at": "2022-12-22 07:43:51",
+      "album": {
+        "name": "Winter Wonderland",
+        "url": "https://open.spotify.com/album/7Djta9G35BBXrjz4CnSg39"
+      },
+      "artists": [
+        {
+          "name": "Nicki Parrott",
+          "url": "https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7"
+        }
+      ],
+      "duration_ms": 235546,
+      "name": "Baby, It's Cold Outside",
+      "url": "https://open.spotify.com/track/1odvHu7LNcEkRn83LwnoZb"
     },
     {
       "added_at": "2022-12-22 07:43:51",

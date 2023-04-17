@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fTL90LxKyz.md) - [plain]
 
 > Go hard or go home!
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,887 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,952 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fTL90LxKyz.md) - [plain]
 | 32 | [Versus](https://open.spotify.com/track/6NTxrKuDVmqb1Yr86cR5MD) | [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5), [M1llionz](https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq) | [Versus](https://open.spotify.com/album/5W0gx431L1lzVXXXpH385f) | 2:54 |
 | 33 | [Who Else \(feat\. Unknown T\)](https://open.spotify.com/track/6BERzZBkuvnjuf7dUYOL3R) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [Who Else \(feat\. Unknown T\)](https://open.spotify.com/album/3dVDMKUj4X35IMG63SCbwe) | 2:34 |
 | 34 | [6am in Brighton](https://open.spotify.com/track/0pvPWDLzZcWFyXO2VantXA) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [6am in Brighton](https://open.spotify.com/album/5fuMhXg7UxrJWnm8qbWIVW) | 3:14 |
-| 35 | [Talk To Me Nice](https://open.spotify.com/track/1JTnvQEXkqf0ZovtKPDh9j) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [Talk To Me Nice](https://open.spotify.com/album/4wt9ueqBx4ngkdrD3Rd41Z) | 2:28 |
+| 35 | [Bad One](https://open.spotify.com/track/55HHh45WOyOZtF4cPMR1W0) | [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf) | [Bad One](https://open.spotify.com/album/2dRuU6vLhrV2PJDhX1I9uR) | 2:14 |
 | 36 | [Bringing It Back](https://open.spotify.com/track/3inbZcvbbcwJFgEzZgANwE) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Bringing It Back](https://open.spotify.com/album/51NcaYxQV6atdnmrCtQoc7) | 3:10 |
 | 37 | [M24 x Fumez the Engineer \- Plugged In](https://open.spotify.com/track/6mZ1eBLOPHltSDFZn4SfwU) | [Fumez The Engineer](https://open.spotify.com/artist/0ksX396B3t2Gt8kwr0BJZk), [M24](https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T) | [M24 x Fumez the Engineer \- Plugged In](https://open.spotify.com/album/4XVOMAV4svBJPsSYI3SE5u) | 2:32 |
 | 38 | [Extra Sleeve](https://open.spotify.com/track/4m9JJpWpijDvgVWcRrkgSB) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [The Last Whip II](https://open.spotify.com/album/4UpMoWftmk0UuuBeQhNxfQ) | 3:35 |
-| 39 | [Bad One](https://open.spotify.com/track/55HHh45WOyOZtF4cPMR1W0) | [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf) | [Bad One](https://open.spotify.com/album/2dRuU6vLhrV2PJDhX1I9uR) | 2:14 |
+| 39 | [Talk To Me Nice](https://open.spotify.com/track/1JTnvQEXkqf0ZovtKPDh9j) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [Talk To Me Nice](https://open.spotify.com/album/4wt9ueqBx4ngkdrD3Rd41Z) | 2:28 |
 | 40 | [On Deck](https://open.spotify.com/track/34YkG2pMNOldalZtevHztN) | [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM) | [On Deck](https://open.spotify.com/album/1nr8LxzUvc6iQsG2bFK8Rd) | 2:59 |
 | 41 | [Ei8ht Mile \(feat\. Aitch\)](https://open.spotify.com/track/5hI4RRn6wXpEZJUhvkTUNV) | [DigDat](https://open.spotify.com/artist/47rT8CoKTbr0S945AGgATQ), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Ei8ht Mile](https://open.spotify.com/album/4C3UTxhLUXd9WiiKQpZ2FN) | 2:56 |
 | 42 | [Too Many Lies](https://open.spotify.com/track/2C44bXptVuQcbh7KAEI9UN) | [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE), [LD](https://open.spotify.com/artist/4eQGLO5ExQniSLvj5NjW6m) | [Too Many Lies](https://open.spotify.com/album/6KqC49BW6eS59XkmzHpc71) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fTL90LxKyz.md) - [plain]
 | 49 | [Know Better \(feat\. Rv\)](https://open.spotify.com/track/0IX9PL2dUVCHp6L4JQ9Rzq) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Rv](https://open.spotify.com/artist/4VylF3B1rKCL5tdOJ8VL8o) | [The One](https://open.spotify.com/album/1y37t6X1wmEVbCke5Luugd) | 3:30 |
 | 50 | [Rumours](https://open.spotify.com/track/1zxcCcoyCqSz55gk9noip5) | [Ivorian Doll](https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd) | [Rumours](https://open.spotify.com/album/3fBplUasp3sIiqGRonASkl) | 2:01 |
 
-Snapshot ID: `MTY2NjU1MDMzMSwwMDAwMDAwMGI2NjI2YTFlYzJmNWE5M2FmODhlN2U4NTJlOWY4NGM0`
+Snapshot ID: `MTY2NjU1MDMzMSwwMDAwMDAwMGQyZDU1M2JiYWYzM2IyNWUwNjAxODMyYjg3YTZlZWJj`

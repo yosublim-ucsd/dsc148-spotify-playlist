@@ -4,7 +4,7 @@
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-238 songs - 1 day 1 hr 31 min
+239 songs - 1 day 1 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [High Society Girl \- Long Dub Version; 1983 Digital Remaster](https://open.spotify.com/track/5bTXVkgoUZs8SXngRproJG) | [Laid Back](https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX) | [Good Vibes \- The Very Best of Laid Back](https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1) | 6:10 | 2020-08-07 | 2022-07-27 |
 | [Hit That Perfect Beat \- 12" Version](https://open.spotify.com/track/1HFNDhBDyzxXQIijaCSxHE) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08) | [Truthdare Doubledare](https://open.spotify.com/album/5K6Ba06Rt9JUpBkrlfh6rw) | 6:26 | 2021-12-22 | 2022-07-28 |
 | [Hold Me Now](https://open.spotify.com/track/3xkoUGbf11dLvsfIdgfmIp) | [Thompson Twins](https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn) | [The Best of Thompson Twins Greatest Mixes](https://open.spotify.com/album/518KEiiREhbb0ks7rA6ACM) | 7:09 | 2022-06-10 | 2023-04-14 |
+| [Hold Me Now \- Phil Thornalley Mix](https://open.spotify.com/track/0LAG9oBDVbbfWvhb9fFYtn) | [Thompson Twins](https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn), [Phil Thornalley](https://open.spotify.com/artist/71RtTArPPKb0UVJ5ThBYGL) | [Dance Vault Remixes](https://open.spotify.com/album/41UghWAWHJW3jvhpQnhQC3) | 7:05 | 2022-12-23 |  |
 | [How Will I Know \- John "Jellybean" Benitez Remix](https://open.spotify.com/track/1dW1kgruSVDh57IsBfuocK) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston \(The Deluxe Anniversary Edition\)](https://open.spotify.com/album/04arXzlpe9GdzQ8yPzAjAE) | 6:31 | 2022-06-10 | 2022-11-13 |
 | [Hypnotic Tango \- Original 12" Version](https://open.spotify.com/track/3L1bBpBTa1SmGivOhR6DID) | [My Mine](https://open.spotify.com/artist/6RJSLoaPbwMo58MnK83v8o) | [Hypnotic Tango](https://open.spotify.com/album/7DpHPysI2JkdhVNKFfgU2C) | 6:09 | 2022-06-10 |  |
 | [Hypnotic Tango \- Original 12" Version](https://open.spotify.com/track/22Nr8FO0EFLbMSCpBoYBl6) | [My Mine](https://open.spotify.com/artist/6RJSLoaPbwMo58MnK83v8o) | [Modern Eighties Long Versions](https://open.spotify.com/album/7yWfnNEsghWveiVUC1Qo3m) | 6:09 | 2021-12-22 | 2022-07-28 |
@@ -173,7 +174,7 @@
 | [Rhythm Is A Dancer \- 12'' Version](https://open.spotify.com/track/6NLAzDPHSlV2bl7XbmivOq) | [SNAP!](https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx) | [Rhythm Is a Dancer 2008](https://open.spotify.com/album/0fCSmPLktcURKcwkO06qeN) | 5:16 | 2022-06-10 |  |
 | [Rock Me Amadeus \- 12" American Edit](https://open.spotify.com/track/4cf3G0u7zyEu2dhRDFsunY) | [Falco](https://open.spotify.com/artist/0hLd40hVpRDGENe4KGZLnW) | [Falco \- The Sound Of Musik](https://open.spotify.com/album/1R5n97h4zI1mb8TPYKmY4A) | 5:49 | 2020-08-07 | 2022-07-26 |
 | [Rock Me Amadeus \- 12" American Edit](https://open.spotify.com/track/5SjPfAiNn5rqPkQNcglgVR) | [Falco](https://open.spotify.com/artist/0hLd40hVpRDGENe4KGZLnW) | [Rock Me Amadeus 30th Anniversary](https://open.spotify.com/album/31VIlWUGdK4a3ZqEC9efJO) | 5:50 | 2022-06-10 |  |
-| [Rockit](https://open.spotify.com/track/2imFIZ1WcOHrA5IPFhVLJY) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [The Best Of Herbie Hancock \- The Hits!](https://open.spotify.com/album/4zZHvc3I4GrfPIUS0UkQb3) | 5:25 | 2021-12-22 |  |
+| [Rockit](https://open.spotify.com/track/2imFIZ1WcOHrA5IPFhVLJY) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [The Best Of Herbie Hancock \- The Hits!](https://open.spotify.com/album/4zZHvc3I4GrfPIUS0UkQb3) | 5:25 | 2021-12-22 | 2023-04-17 |
 | [Running In The Family \- Extended Version](https://open.spotify.com/track/5vTKn6MszumvJHpobYCcEq) | [Level 42](https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5) | [Running In The Family \(Super Deluxe Edition\)](https://open.spotify.com/album/0ocLcPbY6DKLkAiVyHvipJ) | 6:14 | 2021-12-22 |  |
 | [Say Hello, Wave Goodbye \- Extended Version](https://open.spotify.com/track/65VecWWPnXspZRuy7Bafz3) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [The Twelve Inch Singles](https://open.spotify.com/album/5zeGFTKlts1ViWGK5dszcX) | 8:56 | 2020-08-07 | 2022-07-29 |
 | [Send Me An Angel \(12” Remix\) \(Re\-Recorded\)](https://open.spotify.com/track/3oN3N71JD1YyTKwFpKGwIT) | [Real Life](https://open.spotify.com/artist/1n0pe6Cx9pCNvXYkX9TTLX) | [Send Me An Angel \- '80s Synth Essentials](https://open.spotify.com/album/5lWsE3vKmVYa3KM7S9njkL) | 5:46 | 2021-12-22 | 2022-07-08 |

@@ -4,7 +4,7 @@
 
 > Weird year overall, but great for indie\. Editors' picks of the best tracks of the year\. Cover: Phoebe Bridgers
 
-165 songs - 9 hr 24 min
+166 songs - 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,8 @@
 | [Take Me Where Your Heart Is](https://open.spotify.com/track/62kHSw6wBh4c6UemJCb5p6) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Take Me Where Your Heart Is](https://open.spotify.com/album/6XkgiL7F2lC1pnZgioUyYd) | 3:12 | 2020-12-01 | 2022-07-29 |
 | [Take Me Where Your Heart Is](https://open.spotify.com/track/1RJl5cZ8kFpoVFOS2x6scI) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [The Shave Experiment \(Director's Cut\)](https://open.spotify.com/album/6Q3iHNU0fOwOxoCvyteue0) | 3:12 | 2020-12-01 |  |
 | [Take Me Where Your Heart Is](https://open.spotify.com/track/4EcoXZhvbU3qS7ORWUEcVI) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [The Shave Experiment](https://open.spotify.com/album/0oHFSP4uqDes9sOZQu43Jz) | 3:12 | 2020-12-01 | 2022-11-13 |
-| [Tangerine](https://open.spotify.com/track/5VGEgFZfWBoEOGb3Vlo3rU) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:20 | 2020-12-01 |  |
+| [Tangerine](https://open.spotify.com/track/40rOlDoGejXXF4B0BYsjx8) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:20 | 2020-12-01 |  |
+| [Tangerine](https://open.spotify.com/track/5VGEgFZfWBoEOGb3Vlo3rU) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:20 | 2020-12-01 | 2023-04-17 |
 | [Teenage Headache Dreams \(with Ellie Rowsell\)](https://open.spotify.com/track/5X8FVIy9iaXoDEiIlCjcmp) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Ellie Rowsell](https://open.spotify.com/artist/60t20hnY4HFbjM0sbJ07vc), [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Teenage Headache Dreams \(with Ellie Rowsell\)](https://open.spotify.com/album/5R8GPzld0YydbKawqmbigD) | 4:43 | 2020-12-01 |  |
 | [Texas Sun](https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz) | 4:12 | 2020-12-01 |  |
 | [Texas Sun](https://open.spotify.com/track/3k5oLgungD1dSOGLqQdIQw) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/3woYZI2bFXEh5nR8KfltJ1) | 4:12 | 2020-12-01 | 2022-07-29 |

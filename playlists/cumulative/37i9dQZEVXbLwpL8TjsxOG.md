@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-581 songs - 1 day 10 hr 57 min
+582 songs - 1 day 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Celebrity](https://open.spotify.com/track/4RewTiGEGoO7FWNZUmp1f4) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Celebrity](https://open.spotify.com/album/3mtDgtcl4bxDN73kIM216g) | 3:15 | 2021-03-27\* | 2021-03-27 |
 | [Celebrity](https://open.spotify.com/track/5nCwjUUsmBuNZKn9Xu10Os) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:15 | 2021-03-27 | 2021-04-21 |
 | [Champagne Poetry](https://open.spotify.com/track/2HSmyk2qMN8WQjuGhaQgCk) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 5:36 | 2021-09-05 | 2021-09-06 |
+| [Chemical](https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA) | 3:04 | 2023-04-16 |  |
 | [Cheshire](https://open.spotify.com/track/1LJT4ctFlHUSVsfZqMeaz0) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHESHIRE](https://open.spotify.com/album/1E5swTfZ9FF5ECxH1N7EvL) | 3:02 | 2022-12-02 | 2022-12-04 |
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/3PIDciSFdrQxSQSihim3hN) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 2:33 | 2021-12-25 | 2021-12-27 |
 | [Ciao](https://open.spotify.com/track/5liLMCOcyXU45BY9LzyC6r) | [RubberBand](https://open.spotify.com/artist/7uzBKhYbCKBs53kDrO4Suc) | [Ciao](https://open.spotify.com/album/49E9WqCcwPoxlJ288eFG69) | 4:33 | 2021-06-20 | 2022-01-23 |
@@ -401,7 +402,7 @@
 | [初戀](https://open.spotify.com/track/1gGgVV7kyte91NOurgCbPo) | [Mike 曾比特](https://open.spotify.com/artist/33oY0RTyXAMYBM6QSImuo7) | [初戀](https://open.spotify.com/album/3osmGX8eBAPlyeyQsYWUag) | 3:29 | 2022-05-15 | 2022-05-28 |
 | [初戀](https://open.spotify.com/track/5XihvL3MlNcj6yPwAKsgFw) | [Mike 曾比特](https://open.spotify.com/artist/33oY0RTyXAMYBM6QSImuo7) | [MIKE \(Deluxe Version\)](https://open.spotify.com/album/0bEkpw5Jt53O0uBEYQX2Co) | 3:29 | 2022-05-19 | 2022-06-01 |
 | [到底發生過什麼事](https://open.spotify.com/track/48yFnEAkBdOmqvhZ6NaR4U) | [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [到底發生過什麼事](https://open.spotify.com/album/7h9tAmlntUcHYb17Me9ge3) | 4:19 | 2022-10-25 |  |
-| [到底發生過什麼事 \(feat\. 八三夭\)](https://open.spotify.com/track/5xzGrWbHvP8Qt5X4vzdlrN) | [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9), [831](https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM) | [到底發生過什麼事 \(feat\. 八三夭\)](https://open.spotify.com/album/527Jit9KyLZbnTZYoH72PJ) | 4:26 | 2023-03-27 |  |
+| [到底發生過什麼事 \(feat\. 八三夭\)](https://open.spotify.com/track/5xzGrWbHvP8Qt5X4vzdlrN) | [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9), [831](https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM) | [到底發生過什麼事 \(feat\. 八三夭\)](https://open.spotify.com/album/527Jit9KyLZbnTZYoH72PJ) | 4:26 | 2023-03-27 | 2023-04-17 |
 | [刻在我心底的名字 \(Your Name Engraved Herein\) \- 電影<刻在你心底的名字>主題曲](https://open.spotify.com/track/3OC84eKMxRJ4x0Hcwl9i4i) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [刻在我心底的名字 \(Your Name Engraved Herein\)](https://open.spotify.com/album/5RG4bEVKGMdLaEIv1dofR2) | 5:20 | 2021-03-27\* | 2021-09-19 |
 | [勁浪漫 超溫馨](https://open.spotify.com/track/2YF2QvEFNGbIgNQaUzLk4Q) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [to be honest](https://open.spotify.com/album/0qRlwYQIRtsqmQsRFYqOVi) | 3:19 | 2022-05-21 | 2023-01-14 |
 | [勁浪漫 超溫馨](https://open.spotify.com/track/78TbTvePaJ6FFdwSMSXARy) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [勁浪漫 超溫馨](https://open.spotify.com/album/17rzHi2IJyAQS0X8MnetY2) | 3:19 | 2021-11-28 | 2022-05-28 |

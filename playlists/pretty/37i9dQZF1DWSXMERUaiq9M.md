@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 
 > love peace techno
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,298 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,461 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 7 | [Moment](https://open.spotify.com/track/4rGKCr6pj3tKNWJvICbOaZ) | [Nicolas Binder](https://open.spotify.com/artist/4cisvT0RilDGHw8lzANpUA) | [Moment](https://open.spotify.com/album/5l4IBxY3EZwenZLXqzFCDV) | 3:24 |
 | 8 | [We Are The People \- southstar Remix](https://open.spotify.com/track/3vLMN02wGnPBdjRVvewedS) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [We Are The People \(southstar Remix\)](https://open.spotify.com/album/28E0EqraSPvGhUQ0jNkUvb) | 3:56 |
 | 9 | [DIE LIEBE KOMMT NICHT AUS BERLIN](https://open.spotify.com/track/3bYEYuHHiX1TmdLUiWykIc) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [DIE LIEBE KOMMT NICHT AUS BERLIN](https://open.spotify.com/album/6NquqivifGK4u1fqazCxqi) | 3:26 |
-| 10 | [Toro \(I Hate Models Speed Up Revival Edit of Andre VII RMX\)](https://open.spotify.com/track/1HIalwjo1TQVaB63BXbkQu) | [El Columpio Asesino](https://open.spotify.com/artist/7oXqKY12gSK5Q37dWZYWT0), [I Hate Models](https://open.spotify.com/artist/0KqSULB80ft2H3aFg6kJmN), [Andre VII](https://open.spotify.com/artist/6ydoTVyJn4VEKeRUeTtjFq) | [Toro \(I Hate Models Speed Up Revival Edit of Andre VII RMX\)](https://open.spotify.com/album/3J2Hrh8Zz20bTRTgKSBz60) | 6:11 |
-| 11 | [Reflection](https://open.spotify.com/track/67dg2dYPGza76ZEnp7k00d) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90), [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Reflection EP](https://open.spotify.com/album/4Qqe2c9VgbdnbFO2F7AyGe) | 6:46 |
+| 10 | [Reflection](https://open.spotify.com/track/67dg2dYPGza76ZEnp7k00d) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90), [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Reflection EP](https://open.spotify.com/album/4Qqe2c9VgbdnbFO2F7AyGe) | 6:46 |
+| 11 | [Toro \(I Hate Models Speed Up Revival Edit of Andre VII RMX\)](https://open.spotify.com/track/1HIalwjo1TQVaB63BXbkQu) | [El Columpio Asesino](https://open.spotify.com/artist/7oXqKY12gSK5Q37dWZYWT0), [I Hate Models](https://open.spotify.com/artist/0KqSULB80ft2H3aFg6kJmN), [Andre VII](https://open.spotify.com/artist/6ydoTVyJn4VEKeRUeTtjFq) | [Toro \(I Hate Models Speed Up Revival Edit of Andre VII RMX\)](https://open.spotify.com/album/3J2Hrh8Zz20bTRTgKSBz60) | 6:11 |
 | 12 | [The Captain](https://open.spotify.com/track/4NGwhkwJzROYFJKNFmFHus) | [HIJCKD](https://open.spotify.com/artist/4oFuOElyTlMdZMXMQBSdVq) | [The Captain](https://open.spotify.com/album/0hc4lRGEKpOzSdd2KXZ47j) | 3:12 |
 | 13 | [Unity \- Original Mix](https://open.spotify.com/track/4lotSTi1ufPLtyfTLZ4VNF) | [Droplex](https://open.spotify.com/artist/5yePldMswAMD9fvIfRUc2o), [Steve C](https://open.spotify.com/artist/4XSkgDkwi4AQXvtO0EMGcb) | [Unity \(Original Mix\)](https://open.spotify.com/album/5W3X60uJ524fwrtijDUcAy) | 5:12 |
 | 14 | [Romantika](https://open.spotify.com/track/4nOOoo9OJbgnTBNHe5b6nD) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Eros Massacre](https://open.spotify.com/album/0ZVpEzmv3wYLL1waCPPf7V) | 4:10 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 39 | [Feel You \(Beside Me\)](https://open.spotify.com/track/2Y7TA1fnjoZWHvAhi70TUv) | [LUPA](https://open.spotify.com/artist/58Y24OWJla2epBPf0toBTo) | [Feel You \(Beside Me\)](https://open.spotify.com/album/4NvXD68wMwVrgzHSSkhQGC) | 5:29 |
 | 40 | [My Little White Pony](https://open.spotify.com/track/25SHYrwpLLuVnsLsN39xYr) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [Farm Fantasies](https://open.spotify.com/album/4iQOiiyHbLlwLTnPUDZPEo) | 4:59 |
 | 41 | [Vigour \- Julian Muller Remix](https://open.spotify.com/track/0Wh4YlbUtNSrgHq6HnfD0c) | [CAIVA](https://open.spotify.com/artist/0VevbPTec9d8audiahBL3f), [Julian Muller](https://open.spotify.com/artist/5UWmNXxqHIUcpHEJCxDojK) | [Fatigue](https://open.spotify.com/album/7H8AhpWNX7FciB94nhxRJJ) | 5:49 |
-| 42 | [Haze \- Marlon Hoffstadt AKA DJ Daddy Trance Remix](https://open.spotify.com/track/3IAxJkFW0AeEHhmSFHjX0G) | [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Haze Remixes](https://open.spotify.com/album/7g1Rj26ma74ZKBPmnAA09M) | 6:56 |
-| 43 | [Italo Disco](https://open.spotify.com/track/42H7zXATS1GpuFGawmNKqU) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Backseat Tape](https://open.spotify.com/album/3kukhQjrtZcMNL43oLBedf) | 3:18 |
+| 42 | [Italo Disco](https://open.spotify.com/track/42H7zXATS1GpuFGawmNKqU) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Backseat Tape](https://open.spotify.com/album/3kukhQjrtZcMNL43oLBedf) | 3:18 |
+| 43 | [Haze \- Marlon Hoffstadt AKA DJ Daddy Trance Remix](https://open.spotify.com/track/3IAxJkFW0AeEHhmSFHjX0G) | [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Haze Remixes](https://open.spotify.com/album/7g1Rj26ma74ZKBPmnAA09M) | 6:56 |
 | 44 | [Never Let Me Go](https://open.spotify.com/track/23LmGBgZLAnBLxrEIYd16O) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [Never Let Me Go](https://open.spotify.com/album/2GOR4HwqpYDUTlFP3Qb3JI) | 4:09 |
 | 45 | [Through My Veins \- Edit](https://open.spotify.com/track/17wUCYjzJFiGXiipM7QMIW) | [Marhu](https://open.spotify.com/artist/25az6IQ02a8MQRCKU4JEea) | [Through My Veins EP](https://open.spotify.com/album/3eWB6et4exOakZPKAD1nod) | 3:30 |
 | 46 | [Love Song](https://open.spotify.com/track/2ekhJNuxeoQ9Q84dFtknP7) | [Mausio](https://open.spotify.com/artist/5yzLRjAu6ni4Bb3fQDED2q) | [Love Song](https://open.spotify.com/album/1V9nXTFcfUBCPq5hIGfoiU) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 49 | [Euro Visions \- Marlon Hoffstadt AKA Dj Daddy Trance Remix](https://open.spotify.com/track/1nvoh304h7a0RQgPgquxgZ) | [S7RENS](https://open.spotify.com/artist/4ZJGyUysIpIEULuzIzOzfl), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Euro Visions \(Marlon Hoffstadt AKA Dj Daddy Trance Remix\)](https://open.spotify.com/album/0C3yLvZNlvr1deVChjY2PZ) | 6:14 |
 | 50 | [Pump This](https://open.spotify.com/track/3zv6z0evv8QiIJjA8yOWAf) | [EFESIAN](https://open.spotify.com/artist/1fZOavLEMJtVzDcFGVPHWC) | [Pump This](https://open.spotify.com/album/0vYFogRb0q1U9UhVcy9o8f) | 4:09 |
 
-Snapshot ID: `MTY4MDgxODQ2MCwwMDAwMDAwMDY0NTY0YWUxZjNiNDJhM2MxOTg4NzU3YWY0NzAzN2Rh`
+Snapshot ID: `MTY4MDgxODQ2MCwwMDAwMDAwMDQ5YzY1NWIyMjY1MjRlMmIwYTJjNWE2NmY1NjRlMDU5`

@@ -1,12 +1,12 @@
 {
   "description": "Experience music from some of your favorite Gospel artists and those they've influenced.  Cover: Gene Moore",
-  "num_followers": 187258,
+  "num_followers": 187490,
   "original_name": "Rhythm & Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDIwNjQzOSwwMDAwMDAwMDIwODJjMTE2ZTQ0ZWMyZjJkM2VkODZiYzBiNmQwNGRj",
+  "snapshot_id": "MTY3NDIwNjQzOSwwMDAwMDAwMDRkZmY3MDBlMjExNzVkODM4YmMzM2E0ODdlZDQyZTJi",
   "tracks": [
     {
       "added_at": "2023-01-20 09:20:39",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "without you",
-        "url": "https://open.spotify.com/album/003wacHGqIo43x8Qsetg7z"
-      },
-      "artists": [
-        {
-          "name": "Secily",
-          "url": "https://open.spotify.com/artist/32eZd7DKXr4eQTWqWRHGe2"
-        }
-      ],
-      "duration_ms": 176065,
-      "name": "without you",
-      "url": "https://open.spotify.com/track/25mOPkAn5kz8vqi6Oh6rLV"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
         "name": "Strawberry Worship",
         "url": "https://open.spotify.com/album/57UUzfiPmtOiIrJW13UJJN"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 159221,
       "name": "Strawberry Worship",
       "url": "https://open.spotify.com/track/6M51HiOTboltzBHExCNcRf"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "without you",
+        "url": "https://open.spotify.com/album/003wacHGqIo43x8Qsetg7z"
+      },
+      "artists": [
+        {
+          "name": "Secily",
+          "url": "https://open.spotify.com/artist/32eZd7DKXr4eQTWqWRHGe2"
+        }
+      ],
+      "duration_ms": 176065,
+      "name": "without you",
+      "url": "https://open.spotify.com/track/25mOPkAn5kz8vqi6Oh6rLV"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "All My Praise",
-        "url": "https://open.spotify.com/album/2SGRAtlh30q2on1fgkcArw"
-      },
-      "artists": [
-        {
-          "name": "Ryan Ellis",
-          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
-        }
-      ],
-      "duration_ms": 207438,
-      "name": "All My Praise",
-      "url": "https://open.spotify.com/track/3b9j80XcN10pJt4vDcniwk"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
         "name": "New Day",
         "url": "https://open.spotify.com/album/03BX2eYHXIAC0MfXdK943H"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 181776,
       "name": "New Day",
       "url": "https://open.spotify.com/track/5DPZx70S847lrn640OizK3"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "All My Praise",
+        "url": "https://open.spotify.com/album/2SGRAtlh30q2on1fgkcArw"
+      },
+      "artists": [
+        {
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+        }
+      ],
+      "duration_ms": 207438,
+      "name": "All My Praise",
+      "url": "https://open.spotify.com/track/3b9j80XcN10pJt4vDcniwk"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -787,6 +787,22 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
+        "name": "Walk With You",
+        "url": "https://open.spotify.com/album/189fRY2Ia2UVDcMnGW8hKV"
+      },
+      "artists": [
+        {
+          "name": "Michael Bethany",
+          "url": "https://open.spotify.com/artist/6leYBoSGoXZllPhCTjKtQe"
+        }
+      ],
+      "duration_ms": 382608,
+      "name": "Walk With You",
+      "url": "https://open.spotify.com/track/1ccvFGOxax5zDNdt8fNZLg"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
         "name": "Miracles (feat. Pastor Mike Jr.)",
         "url": "https://open.spotify.com/album/33sy8ZsbmMJYER9v5Yw3xD"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 358885,
       "name": "Miracles (feat. Pastor Mike Jr.)",
       "url": "https://open.spotify.com/track/5fATOdcoblNwc2cW4DTUok"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
-        "name": "Walk With You",
-        "url": "https://open.spotify.com/album/189fRY2Ia2UVDcMnGW8hKV"
-      },
-      "artists": [
-        {
-          "name": "Michael Bethany",
-          "url": "https://open.spotify.com/artist/6leYBoSGoXZllPhCTjKtQe"
-        }
-      ],
-      "duration_ms": 382608,
-      "name": "Walk With You",
-      "url": "https://open.spotify.com/track/1ccvFGOxax5zDNdt8fNZLg"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Here Comes the Joy",
-        "url": "https://open.spotify.com/album/6SwtN1RwT1NXeEdd00Oe69"
-      },
-      "artists": [
-        {
-          "name": "Deitrick Haddon",
-          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
-        }
-      ],
-      "duration_ms": 252332,
-      "name": "Here Comes the Joy",
-      "url": "https://open.spotify.com/track/4MYKJSucTbUsNkOQYIIohw"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
         "name": "Safe Place",
         "url": "https://open.spotify.com/album/0hvxD5XUvOhvGAJ9pNmIDx"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 211209,
       "name": "Safe Place",
       "url": "https://open.spotify.com/track/4qRRObsRR0MNKPfGM7p5yD"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "Here Comes the Joy",
+        "url": "https://open.spotify.com/album/6SwtN1RwT1NXeEdd00Oe69"
+      },
+      "artists": [
+        {
+          "name": "Deitrick Haddon",
+          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
+        }
+      ],
+      "duration_ms": 252332,
+      "name": "Here Comes the Joy",
+      "url": "https://open.spotify.com/track/4MYKJSucTbUsNkOQYIIohw"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
+        "name": "more like you",
+        "url": "https://open.spotify.com/album/7LXQLC9LcezYqo9wTWzj2J"
+      },
+      "artists": [
+        {
+          "name": "Reed Deming",
+          "url": "https://open.spotify.com/artist/1fKEt9S1A4iszlgL9rFjPR"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "more like you",
+      "url": "https://open.spotify.com/track/039ZACDj8Cb8AA0jdKyQgT"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/36GXbwa9TQmAQ8BfCaU1y5"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 255008,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/5b5Pi5oP4FWNcEPVmr8MIa"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
-        "name": "more like you",
-        "url": "https://open.spotify.com/album/7LXQLC9LcezYqo9wTWzj2J"
-      },
-      "artists": [
-        {
-          "name": "Reed Deming",
-          "url": "https://open.spotify.com/artist/1fKEt9S1A4iszlgL9rFjPR"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "more like you",
-      "url": "https://open.spotify.com/track/039ZACDj8Cb8AA0jdKyQgT"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
+        "name": "VANILLA",
+        "url": "https://open.spotify.com/album/6VuA0G64riGnjOxs5ArVNB"
+      },
+      "artists": [
+        {
+          "name": "Sarah Nathali\u00e9",
+          "url": "https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni"
+        }
+      ],
+      "duration_ms": 148318,
+      "name": "VANILLA",
+      "url": "https://open.spotify.com/track/0VvBm20XZedf4wQhbUs3hb"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
         "name": "Simple Ways",
         "url": "https://open.spotify.com/album/7vs8N6AbGXg8i0K4y6aEpc"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 177214,
       "name": "Simple Ways",
       "url": "https://open.spotify.com/track/4pRmJstStQ4d23TUhjDj6a"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
-        "name": "VANILLA",
-        "url": "https://open.spotify.com/album/6VuA0G64riGnjOxs5ArVNB"
-      },
-      "artists": [
-        {
-          "name": "Sarah Nathali\u00e9",
-          "url": "https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni"
-        }
-      ],
-      "duration_ms": 148318,
-      "name": "VANILLA",
-      "url": "https://open.spotify.com/track/0VvBm20XZedf4wQhbUs3hb"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1539,26 +1539,6 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Make It",
-        "url": "https://open.spotify.com/album/6I3squylyzSrBRE4X7rUST"
-      },
-      "artists": [
-        {
-          "name": "Josiah Russell",
-          "url": "https://open.spotify.com/artist/70pljCNIqAC29VPwT8fGAL"
-        },
-        {
-          "name": "Mod G",
-          "url": "https://open.spotify.com/artist/072FBwoso1MO9Y2YSykWN6"
-        }
-      ],
-      "duration_ms": 170666,
-      "name": "Make It",
-      "url": "https://open.spotify.com/track/4maBgZrXAehw9QcffWRBlZ"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
         "name": "Belongs To You (R&B Remix)",
         "url": "https://open.spotify.com/album/3uXFWEyEpYYnOhwHjBUxOz"
       },
@@ -1599,6 +1579,26 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
+        "name": "Make It",
+        "url": "https://open.spotify.com/album/6I3squylyzSrBRE4X7rUST"
+      },
+      "artists": [
+        {
+          "name": "Josiah Russell",
+          "url": "https://open.spotify.com/artist/70pljCNIqAC29VPwT8fGAL"
+        },
+        {
+          "name": "Mod G",
+          "url": "https://open.spotify.com/artist/072FBwoso1MO9Y2YSykWN6"
+        }
+      ],
+      "duration_ms": 170666,
+      "name": "Make It",
+      "url": "https://open.spotify.com/track/4maBgZrXAehw9QcffWRBlZ"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
         "name": "Unguilty Pleasure",
         "url": "https://open.spotify.com/album/6h3zsp0Lkb0z1tzXbzq4t0"
       },
@@ -1615,6 +1615,54 @@
       "duration_ms": 193398,
       "name": "Unguilty Pleasure",
       "url": "https://open.spotify.com/track/3CLg16dkjsA2vgcUieeDwU"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "pillow soft",
+        "url": "https://open.spotify.com/album/27ToXf5vltBPO8rnssYEUp"
+      },
+      "artists": [
+        {
+          "name": "Sarah Nathali\u00e9",
+          "url": "https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni"
+        }
+      ],
+      "duration_ms": 143439,
+      "name": "pillow soft",
+      "url": "https://open.spotify.com/track/0t8fKvRdEPoDf7995BN5gX"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/312MTUV5emNgXs3H8BWSgY"
+      },
+      "artists": [
+        {
+          "name": "SEMAJE",
+          "url": "https://open.spotify.com/artist/4M93StsBRGsfkjgSBH6sRW"
+        }
+      ],
+      "duration_ms": 186337,
+      "name": "You",
+      "url": "https://open.spotify.com/track/4gVq3WxGiANRcF4tpqrTOx"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "Preach",
+        "url": "https://open.spotify.com/album/6EujkT5oqXhCfzmXFJS7Vj"
+      },
+      "artists": [
+        {
+          "name": "Sondae",
+          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Preach",
+      "url": "https://open.spotify.com/track/5mzY0sgr4IfN9MI8lDU3Zv"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1639,70 +1687,6 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "pillow soft",
-        "url": "https://open.spotify.com/album/27ToXf5vltBPO8rnssYEUp"
-      },
-      "artists": [
-        {
-          "name": "Sarah Nathali\u00e9",
-          "url": "https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni"
-        }
-      ],
-      "duration_ms": 143439,
-      "name": "pillow soft",
-      "url": "https://open.spotify.com/track/0t8fKvRdEPoDf7995BN5gX"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
-        "name": "Preach",
-        "url": "https://open.spotify.com/album/6EujkT5oqXhCfzmXFJS7Vj"
-      },
-      "artists": [
-        {
-          "name": "Sondae",
-          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Preach",
-      "url": "https://open.spotify.com/track/5mzY0sgr4IfN9MI8lDU3Zv"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/312MTUV5emNgXs3H8BWSgY"
-      },
-      "artists": [
-        {
-          "name": "SEMAJE",
-          "url": "https://open.spotify.com/artist/4M93StsBRGsfkjgSBH6sRW"
-        }
-      ],
-      "duration_ms": 186337,
-      "name": "You",
-      "url": "https://open.spotify.com/track/4gVq3WxGiANRcF4tpqrTOx"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
-        "name": "New Wine Flow",
-        "url": "https://open.spotify.com/album/3TXxV9TnRmAlzEZcrzRb0y"
-      },
-      "artists": [
-        {
-          "name": "Ryan Ellis",
-          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
-        }
-      ],
-      "duration_ms": 209164,
-      "name": "New Wine Flow",
-      "url": "https://open.spotify.com/track/2xDpWnVhlAAsqjFWWYU80i"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
         "name": "Gotta Be God",
         "url": "https://open.spotify.com/album/5QoG06Wf5RiAb3Vf6i1gkv"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 168000,
       "name": "Gotta Be God",
       "url": "https://open.spotify.com/track/66dKe5hsyrNInqBpnxPTPL"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "New Wine Flow",
+        "url": "https://open.spotify.com/album/3TXxV9TnRmAlzEZcrzRb0y"
+      },
+      "artists": [
+        {
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+        }
+      ],
+      "duration_ms": 209164,
+      "name": "New Wine Flow",
+      "url": "https://open.spotify.com/track/2xDpWnVhlAAsqjFWWYU80i"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1795,6 +1795,26 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
+        "name": "GOOD TO ME",
+        "url": "https://open.spotify.com/album/3Cfnat6JaNYV3ol0qOzzek"
+      },
+      "artists": [
+        {
+          "name": "nathan huang",
+          "url": "https://open.spotify.com/artist/4dzy2MaxMOZwVTWXXq3JAL"
+        },
+        {
+          "name": "Darla Baltazar",
+          "url": "https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1"
+        }
+      ],
+      "duration_ms": 207840,
+      "name": "GOOD TO ME",
+      "url": "https://open.spotify.com/track/7neWN16iIGrzHsL2xa2plW"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
         "name": "Back to You",
         "url": "https://open.spotify.com/album/1Xqk8mkHHeF6UPpqQpjA83"
       },
@@ -1831,38 +1851,18 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Be My Everything (Reimagined)",
-        "url": "https://open.spotify.com/album/3INyxMUu4b0eJMuQ0HkVbB"
+        "name": "Lean on the Lord",
+        "url": "https://open.spotify.com/album/4Q2apaYoaJfqEz0aFep7xl"
       },
       "artists": [
         {
-          "name": "Antoine Bradford",
-          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
         }
       ],
-      "duration_ms": 233086,
-      "name": "Be My Everything - Reimagined",
-      "url": "https://open.spotify.com/track/2gOdvR5niu4OsTOd12coeQ"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
-        "name": "Perfect Love",
-        "url": "https://open.spotify.com/album/72sgI7kVlLaFCOZPs0TPFg"
-      },
-      "artists": [
-        {
-          "name": "Kingdmusic",
-          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
-        },
-        {
-          "name": "No\u00ebl Mio",
-          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
-        }
-      ],
-      "duration_ms": 180375,
-      "name": "You're The One",
-      "url": "https://open.spotify.com/track/6vCGmtaAMAqXvoKPqRA3jg"
+      "duration_ms": 214903,
+      "name": "Lean on the Lord",
+      "url": "https://open.spotify.com/track/1YEShExhORN9sq3CmGMDJ3"
     }
   ],
   "unique_name": "Rhythm & Praise",

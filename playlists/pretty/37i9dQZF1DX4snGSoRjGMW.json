@@ -1,12 +1,12 @@
 {
   "description": "Soul meets blues. Cover: Joe Louis Walker",
-  "num_followers": 10862,
+  "num_followers": 10911,
   "original_name": "Soul Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NjA2MCwwMDAwMDAwMDliNWQzMmYzNDg0NjI4OGIxZDU0OTI5ZjlhMTBhODhk",
+  "snapshot_id": "MTY3MzU4NjA2MCwwMDAwMDAwMGFmMTIxMjQ3MzdiM2RmN2VlMmVlODg3N2VlYmRmYmEy",
   "tracks": [
     {
       "added_at": "2023-01-13 05:01:00",
@@ -89,20 +89,20 @@
       "url": "https://open.spotify.com/track/2K0M6aAOj5dAMDnDu5VW18"
     },
     {
-      "added_at": "2020-12-01 05:01:00",
+      "added_at": "2021-05-21 04:01:00",
       "album": {
-        "name": "Deep In The Heart",
-        "url": "https://open.spotify.com/album/5uQXDTWnEd0roTdrSUN1ba"
+        "name": "Sharecropper's Son",
+        "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
       },
       "artists": [
         {
-          "name": "W.C. Clark",
-          "url": "https://open.spotify.com/artist/2eJojpx2Dv1QL3WBjJQXWi"
+          "name": "Robert Finley",
+          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
         }
       ],
-      "duration_ms": 293373,
-      "name": "My Texas Home",
-      "url": "https://open.spotify.com/track/16UV31f3UunkFqMOsIMU5n"
+      "duration_ms": 174106,
+      "name": "Starting To See",
+      "url": "https://open.spotify.com/track/4ZCmcMZxQJYcRhTaklYqVU"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -121,20 +121,20 @@
       "url": "https://open.spotify.com/track/1MBgaJoraHR7RHgAV58QU4"
     },
     {
-      "added_at": "2021-05-21 04:01:00",
+      "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Sharecropper's Son",
-        "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
+        "name": "Deep In The Heart",
+        "url": "https://open.spotify.com/album/5uQXDTWnEd0roTdrSUN1ba"
       },
       "artists": [
         {
-          "name": "Robert Finley",
-          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
+          "name": "W.C. Clark",
+          "url": "https://open.spotify.com/artist/2eJojpx2Dv1QL3WBjJQXWi"
         }
       ],
-      "duration_ms": 174106,
-      "name": "Starting To See",
-      "url": "https://open.spotify.com/track/4ZCmcMZxQJYcRhTaklYqVU"
+      "duration_ms": 293373,
+      "name": "My Texas Home",
+      "url": "https://open.spotify.com/track/16UV31f3UunkFqMOsIMU5n"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "It Ain't Easy: Essential Recordings",
-        "url": "https://open.spotify.com/album/3OtKfYKnLZbmqdrBNCbkNU"
-      },
-      "artists": [
-        {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
-        }
-      ],
-      "duration_ms": 222066,
-      "name": "It's Harder Now - Remix",
-      "url": "https://open.spotify.com/track/1VXoeEb0rhalFjoSIde0vo"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Right On Time!",
         "url": "https://open.spotify.com/album/0fasWjmufll2DjLombteEC"
       },
@@ -319,18 +303,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Keep On Believing",
-        "url": "https://open.spotify.com/album/1Ujf4A1kIy1BW6RqW9CJYN"
+        "name": "It Ain't Easy: Essential Recordings",
+        "url": "https://open.spotify.com/album/3OtKfYKnLZbmqdrBNCbkNU"
       },
       "artists": [
         {
-          "name": "Lou Pride",
-          "url": "https://open.spotify.com/artist/3AEOeIFNFooiCVzG5BD5kZ"
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
         }
       ],
-      "duration_ms": 319760,
-      "name": "I'm Com'un Home in the Morn'un",
-      "url": "https://open.spotify.com/track/2wB9CDJ3AlpGxau0KF3Xy7"
+      "duration_ms": 222066,
+      "name": "It's Harder Now - Remix",
+      "url": "https://open.spotify.com/track/1VXoeEb0rhalFjoSIde0vo"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -347,6 +331,22 @@
       "duration_ms": 297106,
       "name": "No Regrets",
       "url": "https://open.spotify.com/track/0d6zDOS0Zk0Kkar2Lrp20P"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Keep On Believing",
+        "url": "https://open.spotify.com/album/1Ujf4A1kIy1BW6RqW9CJYN"
+      },
+      "artists": [
+        {
+          "name": "Lou Pride",
+          "url": "https://open.spotify.com/artist/3AEOeIFNFooiCVzG5BD5kZ"
+        }
+      ],
+      "duration_ms": 319760,
+      "name": "I'm Com'un Home in the Morn'un",
+      "url": "https://open.spotify.com/track/2wB9CDJ3AlpGxau0KF3Xy7"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -401,22 +401,6 @@
       "url": "https://open.spotify.com/track/2fg8StWDjZ6HXAWi3lz0Ix"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Midnight Blues",
-        "url": "https://open.spotify.com/album/6nYaIvRUVf1dFzCrX5aNAK"
-      },
-      "artists": [
-        {
-          "name": "Crystal Shawanda",
-          "url": "https://open.spotify.com/artist/31X6W8Y4y9E0G78r5Y2rXG"
-        }
-      ],
-      "duration_ms": 215803,
-      "name": "I Want My Soul Back",
-      "url": "https://open.spotify.com/track/1b8xcfGtzTNluKLSSDaZdV"
-    },
-    {
       "added_at": "2021-04-23 04:01:00",
       "album": {
         "name": "Fire It Up",
@@ -431,6 +415,22 @@
       "duration_ms": 222620,
       "name": "Out Of Love",
       "url": "https://open.spotify.com/track/4eWh67wskXcVPXFdSSlrQS"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Midnight Blues",
+        "url": "https://open.spotify.com/album/6nYaIvRUVf1dFzCrX5aNAK"
+      },
+      "artists": [
+        {
+          "name": "Crystal Shawanda",
+          "url": "https://open.spotify.com/artist/31X6W8Y4y9E0G78r5Y2rXG"
+        }
+      ],
+      "duration_ms": 215803,
+      "name": "I Want My Soul Back",
+      "url": "https://open.spotify.com/track/1b8xcfGtzTNluKLSSDaZdV"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Wanted",
-        "url": "https://open.spotify.com/album/16fiGM53IxqzhvGusMmyEJ"
-      },
-      "artists": [
-        {
-          "name": "Denise LaSalle",
-          "url": "https://open.spotify.com/artist/0GVO1kqJHVxOarPgex9K15"
-        }
-      ],
-      "duration_ms": 287480,
-      "name": "Bone It Like You Own It",
-      "url": "https://open.spotify.com/track/1LhlJisWDjvYhmxtlXDXUT"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Old School",
         "url": "https://open.spotify.com/album/36avF49BDsiQjdjMxo3nqF"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 408413,
       "name": "Money Is The Name Of The Game",
       "url": "https://open.spotify.com/track/2eXE8IO1M5lyu2H7Qyi7hL"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Wanted",
+        "url": "https://open.spotify.com/album/16fiGM53IxqzhvGusMmyEJ"
+      },
+      "artists": [
+        {
+          "name": "Denise LaSalle",
+          "url": "https://open.spotify.com/artist/0GVO1kqJHVxOarPgex9K15"
+        }
+      ],
+      "duration_ms": 287480,
+      "name": "Bone It Like You Own It",
+      "url": "https://open.spotify.com/track/1LhlJisWDjvYhmxtlXDXUT"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -803,18 +803,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Right On Time!",
-        "url": "https://open.spotify.com/album/0fasWjmufll2DjLombteEC"
+        "name": "Blues Is On Fire",
+        "url": "https://open.spotify.com/album/5Eg8IqPjqEhZc8AFf4Y1cJ"
       },
       "artists": [
         {
-          "name": "Little Buster & the Soul Brothers",
-          "url": "https://open.spotify.com/artist/6UN2nDyCut9rrFFhfrO1Qs"
+          "name": "Lonnie Shields",
+          "url": "https://open.spotify.com/artist/3OLH6X1iYxhTzdEtk2O3jV"
         }
       ],
-      "duration_ms": 256466,
-      "name": "Engines And Wings",
-      "url": "https://open.spotify.com/track/5DKD8QtRqQbCwIQ7mTXPpl"
+      "duration_ms": 242027,
+      "name": "All The Way Down",
+      "url": "https://open.spotify.com/track/353BumIgA33r4FzY84JCaF"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -835,18 +835,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Blues Is On Fire",
-        "url": "https://open.spotify.com/album/5Eg8IqPjqEhZc8AFf4Y1cJ"
+        "name": "Master of the Game",
+        "url": "https://open.spotify.com/album/2EfYz1jjfWM3TNmawkeMKX"
       },
       "artists": [
         {
-          "name": "Lonnie Shields",
-          "url": "https://open.spotify.com/artist/3OLH6X1iYxhTzdEtk2O3jV"
+          "name": "Jackie Payne Steve Edmonson Band",
+          "url": "https://open.spotify.com/artist/0XnUcbdWKZxfPl6bNDTZt3"
         }
       ],
-      "duration_ms": 242027,
-      "name": "All The Way Down",
-      "url": "https://open.spotify.com/track/353BumIgA33r4FzY84JCaF"
+      "duration_ms": 236146,
+      "name": "Black Cat Roun' My Do'",
+      "url": "https://open.spotify.com/track/4wQkp4iGbBrE4QbJbqC3CM"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -863,6 +863,38 @@
       "duration_ms": 271426,
       "name": "Sweet Dynamite!",
       "url": "https://open.spotify.com/track/2UsMjBWTZftDuCmF5QGN0g"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Right On Time!",
+        "url": "https://open.spotify.com/album/0fasWjmufll2DjLombteEC"
+      },
+      "artists": [
+        {
+          "name": "Little Buster & the Soul Brothers",
+          "url": "https://open.spotify.com/artist/6UN2nDyCut9rrFFhfrO1Qs"
+        }
+      ],
+      "duration_ms": 256466,
+      "name": "Engines And Wings",
+      "url": "https://open.spotify.com/track/5DKD8QtRqQbCwIQ7mTXPpl"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Jump the Joint",
+        "url": "https://open.spotify.com/album/5AEPi7bvMdOMv6n6KFjnsZ"
+      },
+      "artists": [
+        {
+          "name": "Eugene Bridges",
+          "url": "https://open.spotify.com/artist/727soeGZ5CJB5qksGORqNR"
+        }
+      ],
+      "duration_ms": 389373,
+      "name": "Living",
+      "url": "https://open.spotify.com/track/1ysdESkyEixB9iUlarjxtu"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -887,22 +919,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Jump the Joint",
-        "url": "https://open.spotify.com/album/5AEPi7bvMdOMv6n6KFjnsZ"
-      },
-      "artists": [
-        {
-          "name": "Eugene Bridges",
-          "url": "https://open.spotify.com/artist/727soeGZ5CJB5qksGORqNR"
-        }
-      ],
-      "duration_ms": 389373,
-      "name": "Living",
-      "url": "https://open.spotify.com/track/1ysdESkyEixB9iUlarjxtu"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Master of the Game",
         "url": "https://open.spotify.com/album/2EfYz1jjfWM3TNmawkeMKX"
       },
@@ -912,41 +928,9 @@
           "url": "https://open.spotify.com/artist/0XnUcbdWKZxfPl6bNDTZt3"
         }
       ],
-      "duration_ms": 236146,
-      "name": "Black Cat Roun' My Do'",
-      "url": "https://open.spotify.com/track/4wQkp4iGbBrE4QbJbqC3CM"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Today I Sing The Blues",
-        "url": "https://open.spotify.com/album/2FETHI04M6eFdnKaDBaiqF"
-      },
-      "artists": [
-        {
-          "name": "Joyce Lawson",
-          "url": "https://open.spotify.com/artist/0Hw5PTRTJMSYkLGnIqQeqW"
-        }
-      ],
-      "duration_ms": 275773,
-      "name": "Stop Doggin Me Around",
-      "url": "https://open.spotify.com/track/4CI56rOk5ClZPhxgnvRcP7"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Blues Is On Fire",
-        "url": "https://open.spotify.com/album/5Eg8IqPjqEhZc8AFf4Y1cJ"
-      },
-      "artists": [
-        {
-          "name": "Lonnie Shields",
-          "url": "https://open.spotify.com/artist/3OLH6X1iYxhTzdEtk2O3jV"
-        }
-      ],
-      "duration_ms": 325160,
-      "name": "Going To The Juke Joint",
-      "url": "https://open.spotify.com/track/0sS0CzdobQFGPbMevoEdZx"
+      "duration_ms": 208746,
+      "name": "The Real Deal",
+      "url": "https://open.spotify.com/track/71r6AKMlWO7PdAmywO5zoQ"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -967,18 +951,34 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Keep On Believing",
-        "url": "https://open.spotify.com/album/1Ujf4A1kIy1BW6RqW9CJYN"
+        "name": "Blues Is On Fire",
+        "url": "https://open.spotify.com/album/5Eg8IqPjqEhZc8AFf4Y1cJ"
       },
       "artists": [
         {
-          "name": "Lou Pride",
-          "url": "https://open.spotify.com/artist/3AEOeIFNFooiCVzG5BD5kZ"
+          "name": "Lonnie Shields",
+          "url": "https://open.spotify.com/artist/3OLH6X1iYxhTzdEtk2O3jV"
         }
       ],
-      "duration_ms": 265133,
-      "name": "I Can't Hold It",
-      "url": "https://open.spotify.com/track/1YIEDMHFSa43AFA3fNtbk6"
+      "duration_ms": 325160,
+      "name": "Going To The Juke Joint",
+      "url": "https://open.spotify.com/track/0sS0CzdobQFGPbMevoEdZx"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Today I Sing The Blues",
+        "url": "https://open.spotify.com/album/2FETHI04M6eFdnKaDBaiqF"
+      },
+      "artists": [
+        {
+          "name": "Joyce Lawson",
+          "url": "https://open.spotify.com/artist/0Hw5PTRTJMSYkLGnIqQeqW"
+        }
+      ],
+      "duration_ms": 275773,
+      "name": "Stop Doggin Me Around",
+      "url": "https://open.spotify.com/track/4CI56rOk5ClZPhxgnvRcP7"
     }
   ],
   "unique_name": "Soul Blues",

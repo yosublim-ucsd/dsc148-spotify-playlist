@@ -1,12 +1,12 @@
 {
   "description": "The sounds keeping the streets of Nigeria on fire. \nCover: Mohbad",
-  "num_followers": 5697,
+  "num_followers": 5797,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ3NTc1NiwwMDAwMDAwMDU0MTcyZGE4YjkwNzg5YTBjNmU4ZDRjY2Q0M2VlMjQ4",
+  "snapshot_id": "MTY4MTQ3NTc1NiwwMDAwMDAwMDQ1NjljNTVhNDJiOTFmZGJmMTFlOTcxZTMxYzg5NWIw",
   "tracks": [
     {
       "added_at": "2023-04-14 12:35:56",
@@ -675,22 +675,22 @@
     {
       "added_at": "2023-04-14 12:35:56",
       "album": {
-        "name": "Realize",
-        "url": "https://open.spotify.com/album/6CsuuMym36rdojCUMsiOud"
+        "name": "Feel Better",
+        "url": "https://open.spotify.com/album/1ew7HYS9GyX2klze1hoKFL"
       },
       "artists": [
         {
-          "name": "Balloranking",
-          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+          "name": "Anonymous Music",
+          "url": "https://open.spotify.com/artist/4WhsLR2xiykGDAXg1ozqBG"
         },
         {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
         }
       ],
-      "duration_ms": 175255,
-      "name": "Realize",
-      "url": "https://open.spotify.com/track/1GfaxJMFAolWogWr2MNkZ3"
+      "duration_ms": 143300,
+      "name": "Feel Better",
+      "url": "https://open.spotify.com/track/11gtAsVqrzhvI0g9lVrLc0"
     },
     {
       "added_at": "2023-04-14 12:35:56",
@@ -719,22 +719,22 @@
     {
       "added_at": "2023-04-14 12:35:56",
       "album": {
-        "name": "Feel Better",
-        "url": "https://open.spotify.com/album/1ew7HYS9GyX2klze1hoKFL"
+        "name": "Realize",
+        "url": "https://open.spotify.com/album/6CsuuMym36rdojCUMsiOud"
       },
       "artists": [
         {
-          "name": "Anonymous Music",
-          "url": "https://open.spotify.com/artist/4WhsLR2xiykGDAXg1ozqBG"
+          "name": "Balloranking",
+          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
         },
         {
-          "name": "Mohbad",
-          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 143300,
-      "name": "Feel Better",
-      "url": "https://open.spotify.com/track/11gtAsVqrzhvI0g9lVrLc0"
+      "duration_ms": 175255,
+      "name": "Realize",
+      "url": "https://open.spotify.com/track/1GfaxJMFAolWogWr2MNkZ3"
     },
     {
       "added_at": "2023-04-14 12:35:56",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-04-14 12:35:56",
       "album": {
-        "name": "Oga Mi Sir",
-        "url": "https://open.spotify.com/album/0zxuEYK7xzifxOwf2KVltM"
-      },
-      "artists": [
-        {
-          "name": "Hotkid",
-          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
-        }
-      ],
-      "duration_ms": 160031,
-      "name": "Oga Mi Sir",
-      "url": "https://open.spotify.com/track/7aAvNhf385lLD9WABzMqST"
-    },
-    {
-      "added_at": "2023-04-14 12:35:56",
-      "album": {
         "name": "Oluchi",
         "url": "https://open.spotify.com/album/3CMAs9sJbRYe8ZaPx1qU7f"
       },
@@ -903,6 +887,38 @@
       "duration_ms": 162999,
       "name": "Oluchi",
       "url": "https://open.spotify.com/track/0IHtL8OEYytdyw7mpakIur"
+    },
+    {
+      "added_at": "2023-04-14 12:35:56",
+      "album": {
+        "name": "Oga Mi Sir",
+        "url": "https://open.spotify.com/album/0zxuEYK7xzifxOwf2KVltM"
+      },
+      "artists": [
+        {
+          "name": "Hotkid",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+        }
+      ],
+      "duration_ms": 160031,
+      "name": "Oga Mi Sir",
+      "url": "https://open.spotify.com/track/7aAvNhf385lLD9WABzMqST"
+    },
+    {
+      "added_at": "2023-04-14 12:35:56",
+      "album": {
+        "name": "On Fire (From 'Gangs of Lagos')",
+        "url": "https://open.spotify.com/album/1H7A3Jo78llpDiDAuYKkQS"
+      },
+      "artists": [
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        }
+      ],
+      "duration_ms": 160746,
+      "name": "On Fire (From 'Gangs of Lagos')",
+      "url": "https://open.spotify.com/track/5Y06JkdP9jp68nSQLfeu41"
     },
     {
       "added_at": "2023-04-14 12:35:56",
@@ -943,42 +959,6 @@
     {
       "added_at": "2023-04-14 12:35:56",
       "album": {
-        "name": "On Fire (From 'Gangs of Lagos')",
-        "url": "https://open.spotify.com/album/1H7A3Jo78llpDiDAuYKkQS"
-      },
-      "artists": [
-        {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
-        }
-      ],
-      "duration_ms": 160746,
-      "name": "On Fire (From 'Gangs of Lagos')",
-      "url": "https://open.spotify.com/track/5Y06JkdP9jp68nSQLfeu41"
-    },
-    {
-      "added_at": "2023-04-14 12:35:56",
-      "album": {
-        "name": "El Major",
-        "url": "https://open.spotify.com/album/29IbX53a1mueMk9BgvcfZn"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        },
-        {
-          "name": "Camidoh",
-          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
-        }
-      ],
-      "duration_ms": 171258,
-      "name": "Fire Down",
-      "url": "https://open.spotify.com/track/6ZzN6WLgAlx7sHCath3P9B"
-    },
-    {
-      "added_at": "2023-04-14 12:35:56",
-      "album": {
         "name": "Instagram",
         "url": "https://open.spotify.com/album/6sFvLO6FV4q9E9qkhJyRVS"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 188000,
       "name": "Instagram",
       "url": "https://open.spotify.com/track/12eQ5caMTUuzU7JIYB272D"
+    },
+    {
+      "added_at": "2023-04-14 12:35:56",
+      "album": {
+        "name": "El Major",
+        "url": "https://open.spotify.com/album/29IbX53a1mueMk9BgvcfZn"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        },
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        }
+      ],
+      "duration_ms": 171258,
+      "name": "Fire Down",
+      "url": "https://open.spotify.com/track/6ZzN6WLgAlx7sHCath3P9B"
     },
     {
       "added_at": "2023-04-14 12:35:56",

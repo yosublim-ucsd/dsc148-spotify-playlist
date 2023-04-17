@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Zeeba",
-  "num_followers": 419695,
+  "num_followers": 419811,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0MTIwMCwwMDAwMDAwMDFiNjljNGMyOTA2MTg3NzA2ZjE2MDA0ZmYyMTI0ZDVh",
+  "snapshot_id": "MTY4MTQ0MTIwMCwwMDAwMDAwMDBhZmJjNTlmN2U3ZWEzYTk4NjdiNWJjNzdiODljOTI3",
   "tracks": [
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1171,22 +1171,18 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Contradi\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/3jG5jSEcouTayTmGZzLjXU"
+        "name": "MENINA",
+        "url": "https://open.spotify.com/album/7tyJ4al0A5shUAtMGFolAP"
       },
       "artists": [
         {
-          "name": "MAD\u00da",
-          "url": "https://open.spotify.com/artist/2tJ2rv15e4PIhS6SSnOkxR"
-        },
-        {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+          "name": "Flavio Ferrari",
+          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
         }
       ],
-      "duration_ms": 139428,
-      "name": "Contradi\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/7uff94i4ckT91Cw8Zj5AbX"
+      "duration_ms": 191208,
+      "name": "MENINA",
+      "url": "https://open.spotify.com/track/30sNX63sgXRJWQcSK9DbLm"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1235,18 +1231,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "MENINA",
-        "url": "https://open.spotify.com/album/7tyJ4al0A5shUAtMGFolAP"
+        "name": "Contradi\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/3jG5jSEcouTayTmGZzLjXU"
       },
       "artists": [
         {
-          "name": "Flavio Ferrari",
-          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+          "name": "MAD\u00da",
+          "url": "https://open.spotify.com/artist/2tJ2rv15e4PIhS6SSnOkxR"
+        },
+        {
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
         }
       ],
-      "duration_ms": 191208,
-      "name": "MENINA",
-      "url": "https://open.spotify.com/track/30sNX63sgXRJWQcSK9DbLm"
+      "duration_ms": 139428,
+      "name": "Contradi\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/7uff94i4ckT91Cw8Zj5AbX"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Olhar Sereno",
+        "url": "https://open.spotify.com/album/1FGD5qr0bR7Gljwd1XPIVL"
+      },
+      "artists": [
+        {
+          "name": "Flavio Ferrari",
+          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+        }
+      ],
+      "duration_ms": 185552,
+      "name": "Olhar Sereno",
+      "url": "https://open.spotify.com/track/0NK7mWy6jo5fwfNXGgDSJW"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "Mais de Mim",
         "url": "https://open.spotify.com/album/09Y7f7sFfU2nzTtHNmR8FG"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 171752,
       "name": "Se S\u00easse",
       "url": "https://open.spotify.com/track/3kkCaXUNvatoBoPnXEyo9u"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Olhar Sereno",
-        "url": "https://open.spotify.com/album/1FGD5qr0bR7Gljwd1XPIVL"
-      },
-      "artists": [
-        {
-          "name": "Flavio Ferrari",
-          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
-        }
-      ],
-      "duration_ms": 185552,
-      "name": "Olhar Sereno",
-      "url": "https://open.spotify.com/track/0NK7mWy6jo5fwfNXGgDSJW"
     },
     {
       "added_at": "2023-04-14 03:00:00",

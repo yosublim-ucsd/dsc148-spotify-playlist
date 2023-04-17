@@ -4,7 +4,7 @@
 
 > The cream of today's Country crop\. Cover: Luke Combs
 
-333 songs - 18 hr 13 min
+334 songs - 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,8 +15,9 @@
 | [A Heart Don't Break Like That](https://open.spotify.com/track/2V7KxZ0HTzRVqKkQFOawNO) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj), [Bastian Baker](https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC) | [A Heart Don't Break Like That](https://open.spotify.com/album/0DCDKUtWSJc3KgIG0JjcwT) | 2:59 | 2022-03-17 | 2022-08-12 |
 | [A Little Love Will Fix You Up](https://open.spotify.com/track/55cp9h1BUgjvwDG4v4swHe) | [The Long and Short Of It](https://open.spotify.com/artist/78GEEWDfGY6HjdDG8CLiiI) | [Midnight Choir](https://open.spotify.com/album/0nBWf4xjmKnwmZKZkibL8B) | 2:52 | 2022-08-05 | 2022-10-28 |
 | [AA](https://open.spotify.com/track/77oKig47u34qCCFWKMfu1e) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [AA](https://open.spotify.com/album/7m5hJYb9a0sxNstIKm3PPz) | 3:09 | 2022-01-21 | 2022-06-24 |
-| [Acres](https://open.spotify.com/track/3C4L7c5JSB0ONiYli4Hplb) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [Beer and Fishin'](https://open.spotify.com/album/1EpFGwrI0vUVf7YPhUgZCe) | 3:52 | 2023-03-16 |  |
+| [Acres](https://open.spotify.com/track/3C4L7c5JSB0ONiYli4Hplb) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [Beer and Fishin'](https://open.spotify.com/album/1EpFGwrI0vUVf7YPhUgZCe) | 3:52 | 2023-03-16 | 2023-04-17 |
 | [Acres](https://open.spotify.com/track/4JIWCqW9WFHYD7Snwxji7m) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [Acres](https://open.spotify.com/album/59ZMKvAyxlAYf6IioYgSi0) | 3:52 | 2023-02-23 | 2023-03-19 |
+| [Acres](https://open.spotify.com/track/68Em9vuEpyi3DMxeDiCe2m) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [Now She Ain't](https://open.spotify.com/album/5FpvK5R9OIe7mcQbedllpM) | 3:52 | 2023-04-13 |  |
 | [Admire](https://open.spotify.com/track/0wdFJP36ORnHvKNK0fEtTg) | [Jake Davey](https://open.spotify.com/artist/5dlylLGY11H1ekOD9hwHuK) | [Admire](https://open.spotify.com/album/6OpFEhugnMcaFwgVGoFFcg) | 3:34 | 2022-03-04 | 2022-07-18 |
 | [After the Breakdown](https://open.spotify.com/track/5XsBQNOToyIfL0dGp7KIna) | [McAlister Kemp](https://open.spotify.com/artist/3kYvlV6E961RxSCtavDXe6) | [After the Breakdown](https://open.spotify.com/album/6TDFO09pfq3OdtvKFEj9Ey) | 3:24 | 2022-03-31 | 2022-06-17 |
 | [Ain't Goin' Home](https://open.spotify.com/track/4HpMCEkK2bAYTsIaMnVfsc) | [Vixens Of Fall](https://open.spotify.com/artist/5E8CKxCEIm6vLESXqUExBt) | [Ain't Goin' Home](https://open.spotify.com/album/2BaCaOKP9hMhf68PTLKJY6) | 3:18 | 2022-07-21 | 2022-10-07 |

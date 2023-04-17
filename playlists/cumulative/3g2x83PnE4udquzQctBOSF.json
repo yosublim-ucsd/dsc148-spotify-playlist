@@ -20,7 +20,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 133333,
       "name": "1949",
       "url": "https://open.spotify.com/track/0aWDp3psKAdohWqo0H2psk"
@@ -151,6 +151,32 @@
     },
     {
       "album": {
+        "name": "Badder",
+        "url": "https://open.spotify.com/album/6bn2OYT6wzSlegYgLW1RuB"
+      },
+      "artists": [
+        {
+          "name": "SLVR",
+          "url": "https://open.spotify.com/artist/4nKvbonPefiFmshjpHENVU"
+        },
+        {
+          "name": "offrami",
+          "url": "https://open.spotify.com/artist/733pYGuQ9xwCh15uK2VWT1"
+        },
+        {
+          "name": "Flirta D",
+          "url": "https://open.spotify.com/artist/2G9VTaPA12WZVovEImUtsR"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Badder",
+      "url": "https://open.spotify.com/track/4ZrPmCZRTkZSWYeH3KD7Uh"
+    },
+    {
+      "album": {
         "name": "Badman Sound",
         "url": "https://open.spotify.com/album/7lkg1Kbn6G00QskjBlEVsR"
       },
@@ -180,7 +206,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 178604,
       "name": "Bass Go Boom",
       "url": "https://open.spotify.com/track/6iRBFQQpLU9BSRnUBBmPQh"
@@ -216,7 +242,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 193593,
       "name": "Be What You Want",
       "url": "https://open.spotify.com/track/1bcsIhfIuOTSLb7lFzPEwv"
@@ -296,6 +322,24 @@
       "duration_ms": 215284,
       "name": "Breakout",
       "url": "https://open.spotify.com/track/2cevf1aWBm8JcRiVCLv4OM"
+    },
+    {
+      "album": {
+        "name": "Bring It Back",
+        "url": "https://open.spotify.com/album/1uAp3SjH93W2DYygY1ZOqj"
+      },
+      "artists": [
+        {
+          "name": "Shok\u00eb",
+          "url": "https://open.spotify.com/artist/3F0pGF36o08n2NE7vIEHyk"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207888,
+      "name": "Bring It Back",
+      "url": "https://open.spotify.com/track/3apcdPE6p0Ncdz7SAhtbMa"
     },
     {
       "album": {
@@ -429,6 +473,24 @@
     },
     {
       "album": {
+        "name": "DESIRE96",
+        "url": "https://open.spotify.com/album/32qjzjfmDJX4lA6yAPR2fb"
+      },
+      "artists": [
+        {
+          "name": "Bushbaby",
+          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253478,
+      "name": "DESIRE96",
+      "url": "https://open.spotify.com/track/1Isw0eYkTeBUP4uuqLNHZt"
+    },
+    {
+      "album": {
         "name": "Different Side",
         "url": "https://open.spotify.com/album/5MvoxzRfTWDYjNF98qRezc"
       },
@@ -484,7 +546,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 236129,
       "name": "Dream Team",
       "url": "https://open.spotify.com/track/5LRu9P4iPFfu7DXcpNknNG"
@@ -520,7 +582,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 209530,
       "name": "Ear Candy",
       "url": "https://open.spotify.com/track/1qhPpCSwALaIVLgxY2i421"
@@ -556,7 +618,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 182382,
       "name": "Energy",
       "url": "https://open.spotify.com/track/1bOp53Hzj9SIrtB7r17L3V"
@@ -1038,7 +1100,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 199067,
       "name": "Jump Em",
       "url": "https://open.spotify.com/track/05CumuPfFqJu7FmBtO0KmV"
@@ -1191,6 +1253,46 @@
     },
     {
       "album": {
+        "name": "London Bridge",
+        "url": "https://open.spotify.com/album/3GjwA8C4Pe0WSCxfRjF8Fr"
+      },
+      "artists": [
+        {
+          "name": "Dot N Life",
+          "url": "https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS"
+        },
+        {
+          "name": "Jen Payne",
+          "url": "https://open.spotify.com/artist/3EJxT1yUtdzeTZEBZRT4Hq"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145312,
+      "name": "London Bridge",
+      "url": "https://open.spotify.com/track/2OQ6ZUyMQc1v1em66u8V2V"
+    },
+    {
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/1X994T3NOkN6NEfbZTwYXX"
+      },
+      "artists": [
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170624,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/08rASU8hp7fUAWmQ8CLOgD"
+    },
+    {
+      "album": {
         "name": "Love Finds A Way (Radio Edit)",
         "url": "https://open.spotify.com/album/1B7YW1Y5VSXDdIIagVOSy7"
       },
@@ -1300,6 +1402,24 @@
       "duration_ms": 178000,
       "name": "Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/25h246vto9gTVE2mCEY69q"
+    },
+    {
+      "album": {
+        "name": "Move Left Move Right",
+        "url": "https://open.spotify.com/album/1RfcDcg06qSjBwrNawMyrp"
+      },
+      "artists": [
+        {
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216562,
+      "name": "Move Left Move Right",
+      "url": "https://open.spotify.com/track/7wnbohQK3eQyow0q4WuzXf"
     },
     {
       "album": {
@@ -1420,10 +1540,28 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 251613,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/3tek0cqcIJ0wKMpFuNrwBe"
+    },
+    {
+      "album": {
+        "name": "Piano Cut",
+        "url": "https://open.spotify.com/album/4Btco6sLBM6L2mQtIJbwtu"
+      },
+      "artists": [
+        {
+          "name": "Krizman Toni",
+          "url": "https://open.spotify.com/artist/1gs5auXmVRzKT318H1yRJ0"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342000,
+      "name": "Piano Cut - Original Mix",
+      "url": "https://open.spotify.com/track/47xYP9z5UvuRinGKLuFHba"
     },
     {
       "album": {
@@ -1619,6 +1757,24 @@
     },
     {
       "album": {
+        "name": "Samsara / Hangover",
+        "url": "https://open.spotify.com/album/4bgLaGD4Tx5SIKVHik3cNo"
+      },
+      "artists": [
+        {
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178616,
+      "name": "Samsara",
+      "url": "https://open.spotify.com/track/4U91micKPBG76g9oKoICVk"
+    },
+    {
+      "album": {
         "name": "Saturday Love",
         "url": "https://open.spotify.com/album/4Heb9ISUmA1d3h9VMGY9a6"
       },
@@ -1700,10 +1856,28 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 353000,
       "name": "Slay",
       "url": "https://open.spotify.com/track/2uQ8zOCi5F4EC9jZa419eM"
+    },
+    {
+      "album": {
+        "name": "Snatch",
+        "url": "https://open.spotify.com/album/3NBR8469FQQ4tq3idiztto"
+      },
+      "artists": [
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258750,
+      "name": "Snatch",
+      "url": "https://open.spotify.com/track/2WnWl10jDfmFHFFsQNAiAD"
     },
     {
       "album": {
@@ -1722,7 +1896,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 270000,
       "name": "Snow is Falling - Tony Romera Remix",
       "url": "https://open.spotify.com/track/2VS6opNQchKzV5jERSYjZB"
@@ -1888,6 +2062,28 @@
       "duration_ms": 412500,
       "name": "symphonia.",
       "url": "https://open.spotify.com/track/0FSdefPsdTZgxFM5Rvwqnu"
+    },
+    {
+      "album": {
+        "name": "Take A Flight",
+        "url": "https://open.spotify.com/album/1uPTrWlFC0MpA01VwAjR37"
+      },
+      "artists": [
+        {
+          "name": "CASHEW",
+          "url": "https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw"
+        },
+        {
+          "name": "Nadia",
+          "url": "https://open.spotify.com/artist/2tRocnrINF0O5Glx1axBmr"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230551,
+      "name": "Take A Flight",
+      "url": "https://open.spotify.com/track/6OyNK8tVP9rDUFXmH6lCXI"
     },
     {
       "album": {

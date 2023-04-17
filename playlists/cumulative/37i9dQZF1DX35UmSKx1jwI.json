@@ -1182,7 +1182,7 @@
       ],
       "date_added": "2020-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 145792,
       "name": "Pretty Please",
       "url": "https://open.spotify.com/track/5Rse8If81NbzXL1ARjHOTB"
@@ -1486,6 +1486,28 @@
       "duration_ms": 208473,
       "name": "Turn Me On (feat. Vula)",
       "url": "https://open.spotify.com/track/0qaWEvPkts34WF68r8Dzx9"
+    },
+    {
+      "album": {
+        "name": "Upside Down (feat. Poppy Baskcomb)",
+        "url": "https://open.spotify.com/album/2FmCevNKGGSYOa9uCuXydm"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174374,
+      "name": "Upside Down (feat. Poppy Baskcomb)",
+      "url": "https://open.spotify.com/track/2UDycsru4dEa1UFmyIvKYU"
     },
     {
       "album": {

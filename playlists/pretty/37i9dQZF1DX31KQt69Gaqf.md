@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31KQt69Gaqf.md) - [plain]
 
 > Let us take care of your workday soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,917 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,915 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31KQt69Gaqf.md) - [plain]
 | 61 | [Running Red Lights \(feat\. Rivers Cuomo & Pink Siifu\)](https://open.spotify.com/track/0UdYkM8rQeOV9B8n65fsfN) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [Rivers Cuomo](https://open.spotify.com/artist/4LAz9VRX8Nat9kvIzgkg2v), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [Running Red Lights \(feat\. Rivers Cuomo & Pink Siifu\)](https://open.spotify.com/album/0H6aN1da6Hv7nnZK5RrQVm) | 4:39 |
 | 62 | [Stronger](https://open.spotify.com/track/5xYhT6DfdLNOk9VYzkv0z9) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Stronger](https://open.spotify.com/album/4p6WCaxi2nrkO5i06iKWm5) | 3:18 |
 | 63 | [Fading](https://open.spotify.com/track/77GXioLcswmFLd6wAqN2Eo) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Magical Thinking](https://open.spotify.com/album/4RY8E9iJR1Ec6d3FXqqodJ) | 4:43 |
-| 64 | [Icarus](https://open.spotify.com/track/78OhueBD5iAZuW2gPhZ5EF) | [Gengahr](https://open.spotify.com/artist/2ATweaQe83QUQVjM8LMh7J) | [Sanctuary](https://open.spotify.com/album/57DpPfLzyxA5iP8zjLQoY4) | 3:54 |
-| 65 | [Baby It's You](https://open.spotify.com/track/3Yoy8R29IewKS8sO80L4XB) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Baby It's You](https://open.spotify.com/album/1X25p3GpzvOSH8oupRUh0t) | 4:02 |
+| 64 | [Baby It's You](https://open.spotify.com/track/3Yoy8R29IewKS8sO80L4XB) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Baby It's You](https://open.spotify.com/album/1X25p3GpzvOSH8oupRUh0t) | 4:02 |
+| 65 | [Icarus](https://open.spotify.com/track/78OhueBD5iAZuW2gPhZ5EF) | [Gengahr](https://open.spotify.com/artist/2ATweaQe83QUQVjM8LMh7J) | [Sanctuary](https://open.spotify.com/album/57DpPfLzyxA5iP8zjLQoY4) | 3:54 |
 | 66 | [Greener](https://open.spotify.com/track/3y51IDTIvdRJAwzZOhYHqB) | [Jade Emperor](https://open.spotify.com/artist/22x4ObzsgLRlFkoqsZ00Lo) | [Greener](https://open.spotify.com/album/6pEe6ykp15A2SRDqWm5PKK) | 3:32 |
 | 67 | [Seven Nights](https://open.spotify.com/track/1ayrOU2q0K9xVt05CgMq2O) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [Undertones](https://open.spotify.com/album/7CfevcKViQya5AT6HrDdhL) | 2:50 |
 | 68 | [Can't Fight](https://open.spotify.com/track/1zALEEIF3ipCSQMyHBzwPf) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Can't Fight](https://open.spotify.com/album/6WvLHMNGRawv4mzu1HZzFq) | 3:10 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31KQt69Gaqf.md) - [plain]
 | 89 | [Party Fear](https://open.spotify.com/track/5TagOSob2rhCeltUpSyOP4) | [Raleigh Ritchie](https://open.spotify.com/artist/0IB0VjX9NSrGX6PjCXGVcq) | [Andy](https://open.spotify.com/album/1VGG6wKi23E0xvCScuK6AO) | 3:32 |
 | 90 | [Don't Think](https://open.spotify.com/track/43VHs3j5y5i2feqlhpzRqF) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Walking Like We Do](https://open.spotify.com/album/0Z9W4KdFjlAUNGjXx3CVZU) | 4:08 |
 | 91 | [Floating](https://open.spotify.com/track/1MZISLnqzwG3xU6YuQHqPo) | [Lo](https://open.spotify.com/artist/4PWIYHR91QGrOmK0diFMKO) | [Floating](https://open.spotify.com/album/73sU1DlOXPgcp3Z3kFTXYo) | 3:37 |
-| 92 | [Goodnights & Goodbyes](https://open.spotify.com/track/2vZEBUgUkvI8unkULuM5fA) | [Qhairo](https://open.spotify.com/artist/4iZFdVAuD09d0newPwscSk) | [Goodnights & Goodbyes](https://open.spotify.com/album/4N5NLp77oC120qnYEH6a9w) | 2:55 |
-| 93 | [Alapathy](https://open.spotify.com/track/3qJwMD0TRsejb73xbaT43o) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [BREACH](https://open.spotify.com/album/0KsNopmZLaB71o6i2nw95I) | 3:14 |
+| 92 | [Alapathy](https://open.spotify.com/track/3qJwMD0TRsejb73xbaT43o) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [BREACH](https://open.spotify.com/album/0KsNopmZLaB71o6i2nw95I) | 3:14 |
+| 93 | [Goodnights & Goodbyes](https://open.spotify.com/track/2vZEBUgUkvI8unkULuM5fA) | [Qhairo](https://open.spotify.com/artist/4iZFdVAuD09d0newPwscSk) | [Goodnights & Goodbyes](https://open.spotify.com/album/4N5NLp77oC120qnYEH6a9w) | 2:55 |
 | 94 | [Royal Morning Blue \- Edit](https://open.spotify.com/track/3PkntoEMclM5Xxiy3744Il) | [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [Royal Morning Blue](https://open.spotify.com/album/7KV5IU1kITYQkySptDrk2R) | 3:03 |
 | 95 | [Lonely Dancer](https://open.spotify.com/track/5EDiJyIO6wvTms3qK2E4mk) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO), [Anika](https://open.spotify.com/artist/6fimwBQkUgYS2HweErgxN5) | [Lonely Dancer](https://open.spotify.com/album/6w0ZfpZWsrqip4YoZ0bsTJ) | 3:07 |
 | 96 | [Higher Plain](https://open.spotify.com/track/4jVkkMuhZscX5F7BIbDVBR) | [Ted Jasper](https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW) | [Solstice](https://open.spotify.com/album/6jPO2gtwitpbmkEDD0kYLn) | 2:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31KQt69Gaqf.md) - [plain]
 | 99 | [So Simpatico \- Edit](https://open.spotify.com/track/4GzHrLySoKpHdsLwZDwioT) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [So Simpatico](https://open.spotify.com/album/3T6jlI15kmoraxuM5AvGkR) | 3:05 |
 | 100 | [Treat You Right](https://open.spotify.com/track/7ItOfW0Phlgis72tCdIcsw) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [Treat You Right](https://open.spotify.com/album/3F91sv7XPeK9JYQdpXktd2) | 4:21 |
 
-Snapshot ID: `MTY3NDY5MzEyMCwwMDAwMDAwMGY1MDBiMjkzNzU1YmFiNWVlNDE4NGMyMjJlYzc5YjM5`
+Snapshot ID: `MTY3NDY5MzEyMCwwMDAwMDAwMGMzNTQxNWNiOTk3Mzc1NWRmNDkxZDU2MjJhOWQ3OGY4`

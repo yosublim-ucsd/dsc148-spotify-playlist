@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: Odumodublvck",
-  "num_followers": 6230,
+  "num_followers": 6286,
   "original_name": "Hype List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ3NzY4NSwwMDAwMDAwMDczZjYwMWVjYzk5OGQxMGRhNmI0MTRjZjcyMjI0OGIw",
+  "snapshot_id": "MTY4MTQ3NzY4NSwwMDAwMDAwMDg2YWQxYzRiZWNmNDYwMWQ4ZGQzMmQwNWNmZWJhNjZm",
   "tracks": [
     {
       "added_at": "2023-04-14 13:08:05",
@@ -343,26 +343,22 @@
     {
       "added_at": "2023-04-14 13:08:05",
       "album": {
-        "name": "I Remember (feat. Roddy Ricch & Kodak Black)",
-        "url": "https://open.spotify.com/album/3uAsKIks1rWzarn1anRo4K"
+        "name": "7220",
+        "url": "https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM"
       },
       "artists": [
         {
-          "name": "Internet Money",
-          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         },
         {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 173379,
-      "name": "I Remember (feat. Roddy Ricch & Kodak Black)",
-      "url": "https://open.spotify.com/track/7qAwnjc2qPbpK1gB4VRwXW"
+      "duration_ms": 181393,
+      "name": "What Happened To Virgil (feat. Gunna)",
+      "url": "https://open.spotify.com/track/7ohROa13QK43JBRqfCmz4P"
     },
     {
       "added_at": "2023-04-14 13:08:05",
@@ -387,22 +383,26 @@
     {
       "added_at": "2023-04-14 13:08:05",
       "album": {
-        "name": "7220",
-        "url": "https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM"
+        "name": "I Remember (feat. Roddy Ricch & Kodak Black)",
+        "url": "https://open.spotify.com/album/3uAsKIks1rWzarn1anRo4K"
       },
       "artists": [
         {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+          "name": "Internet Money",
+          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
         },
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         }
       ],
-      "duration_ms": 181393,
-      "name": "What Happened To Virgil (feat. Gunna)",
-      "url": "https://open.spotify.com/track/7ohROa13QK43JBRqfCmz4P"
+      "duration_ms": 173379,
+      "name": "I Remember (feat. Roddy Ricch & Kodak Black)",
+      "url": "https://open.spotify.com/track/7qAwnjc2qPbpK1gB4VRwXW"
     },
     {
       "added_at": "2023-04-14 13:08:05",
@@ -975,18 +975,22 @@
     {
       "added_at": "2023-04-14 13:08:05",
       "album": {
-        "name": "Blackout",
-        "url": "https://open.spotify.com/album/2AGpLCQpyNNmU03ENVvkeg"
+        "name": "Vigilante Bop",
+        "url": "https://open.spotify.com/album/62wsAbVkM8OxT2tJ9hIkiG"
       },
       "artists": [
         {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+          "name": "Alpha Ojini",
+          "url": "https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 137806,
-      "name": "Blackout",
-      "url": "https://open.spotify.com/track/5xKXBeEv4mJKG9vDw1Zkc8"
+      "duration_ms": 180950,
+      "name": "Vigilante Bop",
+      "url": "https://open.spotify.com/track/4IschypVu1Oz4FS8Gg7y0u"
     },
     {
       "added_at": "2023-04-14 13:08:05",
@@ -1007,6 +1011,22 @@
       "duration_ms": 258320,
       "name": "In Da Car",
       "url": "https://open.spotify.com/track/3UOg91DTKgZuWsYsV1Zn13"
+    },
+    {
+      "added_at": "2023-04-14 13:08:05",
+      "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/2AGpLCQpyNNmU03ENVvkeg"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 137806,
+      "name": "Blackout",
+      "url": "https://open.spotify.com/track/5xKXBeEv4mJKG9vDw1Zkc8"
     },
     {
       "added_at": "2023-04-14 13:08:05",
@@ -1039,26 +1059,6 @@
       "duration_ms": 195482,
       "name": "Holy F4k",
       "url": "https://open.spotify.com/track/7eWoPZVIC0RzgFghNDrLbQ"
-    },
-    {
-      "added_at": "2023-04-14 13:08:05",
-      "album": {
-        "name": "Vigilante Bop",
-        "url": "https://open.spotify.com/album/62wsAbVkM8OxT2tJ9hIkiG"
-      },
-      "artists": [
-        {
-          "name": "Alpha Ojini",
-          "url": "https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 180950,
-      "name": "Vigilante Bop",
-      "url": "https://open.spotify.com/track/4IschypVu1Oz4FS8Gg7y0u"
     },
     {
       "added_at": "2023-04-14 13:08:05",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2023-04-14 13:08:05",
       "album": {
-        "name": "Ivyson Army Tour Mixtape",
-        "url": "https://open.spotify.com/album/1aVDTp3dj2thrSRcXyTVlA"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        },
-        {
-          "name": "Emtee",
-          "url": "https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr"
-        }
-      ],
-      "duration_ms": 178421,
-      "name": "Born To Win",
-      "url": "https://open.spotify.com/track/05xkxPqRIiCuhXP3wSn8Zn"
-    },
-    {
-      "added_at": "2023-04-14 13:08:05",
-      "album": {
         "name": "PARA",
         "url": "https://open.spotify.com/album/5lIW4ZVGLazp4s7E43EPuc"
       },
@@ -1187,22 +1167,6 @@
     {
       "added_at": "2023-04-14 13:08:05",
       "album": {
-        "name": "Headliner",
-        "url": "https://open.spotify.com/album/6AAVCyWUzc7rcna0kXmmaf"
-      },
-      "artists": [
-        {
-          "name": "NSG",
-          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
-        }
-      ],
-      "duration_ms": 207057,
-      "name": "Headliner",
-      "url": "https://open.spotify.com/track/5yX1jR8VbEygSGnY7dXPBq"
-    },
-    {
-      "added_at": "2023-04-14 13:08:05",
-      "album": {
         "name": "Pray 2 The East",
         "url": "https://open.spotify.com/album/6oOKILSxYzQ3xmk7QDncIR"
       },
@@ -1219,6 +1183,42 @@
       "duration_ms": 178064,
       "name": "Pray 2 The East (feat. BNXN fka Buju)",
       "url": "https://open.spotify.com/track/5NI7jC26RB9s7prQc7SkZg"
+    },
+    {
+      "added_at": "2023-04-14 13:08:05",
+      "album": {
+        "name": "Headliner",
+        "url": "https://open.spotify.com/album/6AAVCyWUzc7rcna0kXmmaf"
+      },
+      "artists": [
+        {
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+        }
+      ],
+      "duration_ms": 207057,
+      "name": "Headliner",
+      "url": "https://open.spotify.com/track/5yX1jR8VbEygSGnY7dXPBq"
+    },
+    {
+      "added_at": "2023-04-14 13:08:05",
+      "album": {
+        "name": "Ivyson Army Tour Mixtape",
+        "url": "https://open.spotify.com/album/1aVDTp3dj2thrSRcXyTVlA"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        },
+        {
+          "name": "Emtee",
+          "url": "https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr"
+        }
+      ],
+      "duration_ms": 178421,
+      "name": "Born To Win",
+      "url": "https://open.spotify.com/track/05xkxPqRIiCuhXP3wSn8Zn"
     },
     {
       "added_at": "2023-04-14 13:08:05",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0ScTcjJBdj.md) - [plain]
 
 > Let your worries and cares slip away.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,746,862 likes - 136 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,746,923 likes - 136 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0ScTcjJBdj.md) - [plain]
 | 33 | [Victory](https://open.spotify.com/track/2f6pqUyFcs3NUSoz49H9nw) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [Victory](https://open.spotify.com/album/6DUTXtgL3YKOf2wX8RCKe4) | 3:53 |
 | 34 | [You and Me On The Rock \(feat\. Lucius\)](https://open.spotify.com/track/61X73CJcpwGIxgQgKEXbw0) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 3:50 |
 | 35 | [Favorite Peeps](https://open.spotify.com/track/0SHa9XHwYYB1UUmgbgHuhQ) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 3:13 |
-| 36 | [When You Miss Someone](https://open.spotify.com/track/7qJKahUHkASPu54vMil98J) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [When You Miss Someone / Tanqueray](https://open.spotify.com/album/7gzB41KzCKsIlRMOq8q0x1) | 3:05 |
+| 36 | [When You Miss Someone](https://open.spotify.com/track/0WTMkjTjqKy2KnNQYGfQI5) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [Stand in the Joy](https://open.spotify.com/album/2r3IZ2sjXvKm14wZEUZC49) | 3:05 |
 | 37 | [Spark, Set Fire](https://open.spotify.com/track/00vPAsfTwvicR45W2PE20o) | [The Western Den](https://open.spotify.com/artist/3AKIOaRG1CUS6JYtgavz1z) | [A Light Left On](https://open.spotify.com/album/6IY3dzTK8UZCJpzMO3TqyH) | 3:51 |
 | 38 | [Rubber](https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Rubber](https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV) | 3:18 |
 | 39 | [Getting It Right](https://open.spotify.com/track/3W2DvPUsPGyCbfBZEgqPn8) | [Caitlin Rose](https://open.spotify.com/artist/41LGTx1fpA69G2ZAJKZntM), [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Getting It Right](https://open.spotify.com/album/3zA17MmyBmEogW6WHIDsWj) | 2:50 |
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0ScTcjJBdj.md) - [plain]
 | 135 | [Harder Way](https://open.spotify.com/track/2mOxQ582K8WAP3FjTUhYVC) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [San Isabel](https://open.spotify.com/album/0ujviO24y6WGV1KQwkcwIv) | 3:17 |
 | 136 | [Stay Alive \- Cover](https://open.spotify.com/track/0cm34ja39LyPxK2oddv90s) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Stay Alive \(COVERS\)](https://open.spotify.com/album/3I1ZWDd8jAs6aztutLGVDm) | 3:53 |
 
-Snapshot ID: `MTY4MDYyOTE0NywwMDAwMDAwMDE1NTgwODYzMjVkMmY0ZjY2NzI1NTdmM2EyNTUyMGIw`
+Snapshot ID: `MTY4MDYyOTE0NywwMDAwMDAwMDdjZjQyZjUwMzFiMWI0ZWU4NmNjMjhjODQwNWU5NTk2`

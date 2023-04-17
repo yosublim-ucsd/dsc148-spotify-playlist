@@ -1,12 +1,12 @@
 {
   "description": "For those cozy moments.",
-  "num_followers": 479500,
+  "num_followers": 479718,
   "original_name": "Spooning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ1Nzg4OSwwMDAwMDAwMGIxNWI4MGQ2MzAwMzA5YzM4MTJmMTdkYmVlZmRhNWM1",
+  "snapshot_id": "MTY4MTQ1Nzg4OSwwMDAwMDAwMGViZDU0MzI1Y2Q4ZWQ4ZjRmODYzZTc3M2YwNTY3NjNk",
   "tracks": [
     {
       "added_at": "2023-02-10 11:00:00",
@@ -179,22 +179,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Flicker (Deluxe)",
-        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 232852,
-      "name": "This Town",
-      "url": "https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "The Joshua Tree (Super Deluxe)",
         "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
       },
@@ -211,18 +195,18 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+        "name": "Flicker (Deluxe)",
+        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
         }
       ],
-      "duration_ms": 183893,
-      "name": "Love Language",
-      "url": "https://open.spotify.com/track/1eIXYZWEfJO3Na2LCCnIJE"
+      "duration_ms": 232852,
+      "name": "This Town",
+      "url": "https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -239,6 +223,22 @@
       "duration_ms": 214706,
       "name": "willow",
       "url": "https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 183893,
+      "name": "Love Language",
+      "url": "https://open.spotify.com/track/1eIXYZWEfJO3Na2LCCnIJE"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -427,6 +427,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "Room For Squares",
+        "url": "https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 249626,
+      "name": "Your Body Is a Wonderland",
+      "url": "https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "An Evening With Silk Sonic",
         "url": "https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 249444,
       "name": "After Last Night (with Thundercat & Bootsy Collins)",
       "url": "https://open.spotify.com/track/6jGAh1bFnXt1Muj9zeHveZ"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Room For Squares",
-        "url": "https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 249626,
-      "name": "Your Body Is a Wonderland",
-      "url": "https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Kaleidoscope Dream",
-        "url": "https://open.spotify.com/album/21XMv0TCsnhWPt7MNVvkzD"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 193146,
-      "name": "Adorn",
-      "url": "https://open.spotify.com/track/25cUhiAod71TIQSNicOaW3"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Stripped",
         "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 238560,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Kaleidoscope Dream",
+        "url": "https://open.spotify.com/album/21XMv0TCsnhWPt7MNVvkzD"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 193146,
+      "name": "Adorn",
+      "url": "https://open.spotify.com/track/25cUhiAod71TIQSNicOaW3"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Melancholic",
-        "url": "https://open.spotify.com/album/6s7HjPR5SQ29OYKLIGq63J"
-      },
-      "artists": [
-        {
-          "name": "Ruben",
-          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
-        }
-      ],
-      "duration_ms": 170830,
-      "name": "Lay By Me",
-      "url": "https://open.spotify.com/track/5xQ1yxKzTuPcSNO9FP0lNS"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Weak",
         "url": "https://open.spotify.com/album/5iZOesuEQxTbZkvSuyAaK4"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 159375,
       "name": "Weak",
       "url": "https://open.spotify.com/track/3UnfOb5hmnf4KF7NIgAj9a"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Melancholic",
+        "url": "https://open.spotify.com/album/6s7HjPR5SQ29OYKLIGq63J"
+      },
+      "artists": [
+        {
+          "name": "Ruben",
+          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
+        }
+      ],
+      "duration_ms": 170830,
+      "name": "Lay By Me",
+      "url": "https://open.spotify.com/track/5xQ1yxKzTuPcSNO9FP0lNS"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -961,6 +961,22 @@
       "url": "https://open.spotify.com/track/70K0ezmzYEZeqoSaZMyP7o"
     },
     {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Stop All the World Now (Special Edition)",
+        "url": "https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y"
+      },
+      "artists": [
+        {
+          "name": "Howie Day",
+          "url": "https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer"
+        }
+      ],
+      "duration_ms": 277000,
+      "name": "Collide - Acoustic Version",
+      "url": "https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg"
+    },
+    {
       "added_at": "2023-03-17 11:15:09",
       "album": {
         "name": "GLU",
@@ -977,20 +993,24 @@
       "url": "https://open.spotify.com/track/2G5zNimfDzfcAtbHtEKzTu"
     },
     {
-      "added_at": "2023-02-10 11:00:00",
+      "added_at": "2023-04-14 07:38:09",
       "album": {
-        "name": "Stop All the World Now (Special Edition)",
-        "url": "https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y"
+        "name": "3000\u00b0",
+        "url": "https://open.spotify.com/album/2phJX6Yo2s6WB7jhLgg9EF"
       },
       "artists": [
         {
-          "name": "Howie Day",
-          "url": "https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer"
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        },
+        {
+          "name": "JVCK JAMES",
+          "url": "https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN"
         }
       ],
-      "duration_ms": 277000,
-      "name": "Collide - Acoustic Version",
-      "url": "https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg"
+      "duration_ms": 202755,
+      "name": "I'm Baby (ft. Jvck James)",
+      "url": "https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1023,26 +1043,6 @@
       "duration_ms": 205463,
       "name": "Love Someone",
       "url": "https://open.spotify.com/track/2JqnpexlO9dmvjUMCaLCLJ"
-    },
-    {
-      "added_at": "2023-04-14 07:38:09",
-      "album": {
-        "name": "3000\u00b0",
-        "url": "https://open.spotify.com/album/2phJX6Yo2s6WB7jhLgg9EF"
-      },
-      "artists": [
-        {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
-        },
-        {
-          "name": "JVCK JAMES",
-          "url": "https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN"
-        }
-      ],
-      "duration_ms": 202755,
-      "name": "I'm Baby (ft. Jvck James)",
-      "url": "https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "ANTI (Deluxe)",
-        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 223213,
-      "name": "Close To You",
-      "url": "https://open.spotify.com/track/6D2tzc8kRnZb7P1lNwMBLH"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Once Again",
         "url": "https://open.spotify.com/album/1ZWwFwSKaREGLWxpGiPAoF"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 235666,
       "name": "Save Room",
       "url": "https://open.spotify.com/track/3sTc75CCyIw4FPs6cXkOe7"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "ANTI (Deluxe)",
+        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 223213,
+      "name": "Close To You",
+      "url": "https://open.spotify.com/track/6D2tzc8kRnZb7P1lNwMBLH"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1983,6 +1983,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2up3OPMp9Tb4dAKM2erWXQ"
+      },
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        }
+      ],
+      "duration_ms": 205583,
+      "name": "For You - Recorded At Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/4AHIgOApMmqVfpvc1hxK6x"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "Super",
         "url": "https://open.spotify.com/album/1hmpZwKow6UgeZalIw7qq6"
       },
@@ -1999,22 +2015,6 @@
       "duration_ms": 181812,
       "name": "Super",
       "url": "https://open.spotify.com/track/0uy7gpsoHJvXBU7EI1c80W"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2up3OPMp9Tb4dAKM2erWXQ"
-      },
-      "artists": [
-        {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
-        }
-      ],
-      "duration_ms": 205583,
-      "name": "For You - Recorded At Spotify Studios Stockholm",
-      "url": "https://open.spotify.com/track/4AHIgOApMmqVfpvc1hxK6x"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2267,6 +2267,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "Glasshouse (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6mPNjjOl2GHbP4E90l7bJe"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 216866,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/0iOZD91DEQm3nuTEk5Bt8k"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "Put D'Angelo On",
         "url": "https://open.spotify.com/album/1bzYIO6OIHcokJvgbAZj4s"
       },
@@ -2283,22 +2299,6 @@
       "duration_ms": 187438,
       "name": "Put D'Angelo On",
       "url": "https://open.spotify.com/track/1QJp8dIzUSg9c1pXLmqGNB"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Glasshouse (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6mPNjjOl2GHbP4E90l7bJe"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 216866,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/0iOZD91DEQm3nuTEk5Bt8k"
     },
     {
       "added_at": "2023-02-10 11:00:00",

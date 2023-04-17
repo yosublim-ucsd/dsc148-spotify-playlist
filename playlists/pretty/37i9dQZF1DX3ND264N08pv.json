@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 40466,
+  "num_followers": 40537,
   "original_name": "Hardcore Rage 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQyMzIwMCwwMDAwMDAwMDgxYWYyZTk1ZTI2NmRkOGVhM2RkZWJmMzBjM2Q2Y2M5",
+  "snapshot_id": "MTY4MTQyMzIwMCwwMDAwMDAwMGQ4NWJkYzgxM2EyYzEzZGMyMzBiNWRkMjM3MjA2YzZi",
   "tracks": [
     {
       "added_at": "2023-04-13 22:00:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Enter The Dome (Official Thunderdome 2022 Anthem)",
-        "url": "https://open.spotify.com/album/11f7M6Iutpt2PDvvxWdRuM"
-      },
-      "artists": [
-        {
-          "name": "N-Vitral",
-          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
-        }
-      ],
-      "duration_ms": 231102,
-      "name": "Enter The Dome - Official Thunderdome 2022 Anthem",
-      "url": "https://open.spotify.com/track/5wvfLTKIewrRfrZJRs3Qqf"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
         "name": "Cryexgenic",
         "url": "https://open.spotify.com/album/1wVCfLLSlUP2zprjVCYKR9"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 223215,
       "name": "Cryexgenic",
       "url": "https://open.spotify.com/track/1UACIXnIw1AVHyodV4wbhv"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "Enter The Dome (Official Thunderdome 2022 Anthem)",
+        "url": "https://open.spotify.com/album/11f7M6Iutpt2PDvvxWdRuM"
+      },
+      "artists": [
+        {
+          "name": "N-Vitral",
+          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
+        }
+      ],
+      "duration_ms": 231102,
+      "name": "Enter The Dome - Official Thunderdome 2022 Anthem",
+      "url": "https://open.spotify.com/track/5wvfLTKIewrRfrZJRs3Qqf"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -771,26 +771,6 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Fight Them All",
-        "url": "https://open.spotify.com/album/7wY8Z4jVcMXECcIQ83docS"
-      },
-      "artists": [
-        {
-          "name": "Broken Minds",
-          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
-        },
-        {
-          "name": "Never Surrender",
-          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
-        }
-      ],
-      "duration_ms": 171789,
-      "name": "Fight Them All",
-      "url": "https://open.spotify.com/track/0rZBe91kLd0h85B9e7T3vR"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
         "name": "Hardcore By Nature",
         "url": "https://open.spotify.com/album/2izAsrxlJDLFuDSCRBfsjQ"
       },
@@ -819,18 +799,22 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "I'm A Raver",
-        "url": "https://open.spotify.com/album/6ZGaPeQGX4vnaSu5bOHzEu"
+        "name": "Fight Them All",
+        "url": "https://open.spotify.com/album/7wY8Z4jVcMXECcIQ83docS"
       },
       "artists": [
+        {
+          "name": "Broken Minds",
+          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
+        },
         {
           "name": "Never Surrender",
           "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
         }
       ],
-      "duration_ms": 205664,
-      "name": "I'm A Raver",
-      "url": "https://open.spotify.com/track/1zdCuA3OezPXkK2raYt0BY"
+      "duration_ms": 171789,
+      "name": "Fight Them All",
+      "url": "https://open.spotify.com/track/0rZBe91kLd0h85B9e7T3vR"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -847,6 +831,22 @@
       "duration_ms": 319500,
       "name": "The Other Side",
       "url": "https://open.spotify.com/track/65qF8kMxmpKagt23L0jJJv"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "I'm A Raver",
+        "url": "https://open.spotify.com/album/6ZGaPeQGX4vnaSu5bOHzEu"
+      },
+      "artists": [
+        {
+          "name": "Never Surrender",
+          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+        }
+      ],
+      "duration_ms": 205664,
+      "name": "I'm A Raver",
+      "url": "https://open.spotify.com/track/1zdCuA3OezPXkK2raYt0BY"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "DANCEFLOOR SLAYER",
-        "url": "https://open.spotify.com/album/6uXYnYAFqg6i6Ti2svFblo"
-      },
-      "artists": [
-        {
-          "name": "LunaKorpz",
-          "url": "https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1"
-        },
-        {
-          "name": "The Purge",
-          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
-        }
-      ],
-      "duration_ms": 161653,
-      "name": "DANCEFLOOR SLAYER",
-      "url": "https://open.spotify.com/track/7dqpISlr5xVC4eDID1jc5c"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
         "name": "Crazy, Like Me!",
         "url": "https://open.spotify.com/album/7fP1WnaLnKYajHvHJjU15g"
       },
@@ -1059,18 +1039,22 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Shadows in the Dark",
-        "url": "https://open.spotify.com/album/39LODywZvMhYTjECv7poxU"
+        "name": "DANCEFLOOR SLAYER",
+        "url": "https://open.spotify.com/album/6uXYnYAFqg6i6Ti2svFblo"
       },
       "artists": [
         {
-          "name": "Re-Fuzz",
-          "url": "https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs"
+          "name": "LunaKorpz",
+          "url": "https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1"
+        },
+        {
+          "name": "The Purge",
+          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
         }
       ],
-      "duration_ms": 288398,
-      "name": "Shadows in the Dark",
-      "url": "https://open.spotify.com/track/0L4i68FCrTrwev3PxUUpQt"
+      "duration_ms": 161653,
+      "name": "DANCEFLOOR SLAYER",
+      "url": "https://open.spotify.com/track/7dqpISlr5xVC4eDID1jc5c"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -1095,22 +1079,18 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Game Breaker",
-        "url": "https://open.spotify.com/album/5byRL7fz21kyoNAM2Fog4H"
+        "name": "Shadows in the Dark",
+        "url": "https://open.spotify.com/album/39LODywZvMhYTjECv7poxU"
       },
       "artists": [
         {
-          "name": "Bloodlust",
-          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
-        },
-        {
-          "name": "E-Force",
-          "url": "https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C"
+          "name": "Re-Fuzz",
+          "url": "https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs"
         }
       ],
-      "duration_ms": 198987,
-      "name": "Game Breaker",
-      "url": "https://open.spotify.com/track/2lNaARcTaHVlohiPlKvlnm"
+      "duration_ms": 288398,
+      "name": "Shadows in the Dark",
+      "url": "https://open.spotify.com/track/0L4i68FCrTrwev3PxUUpQt"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -1131,18 +1111,58 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "RUDE METHODS",
-        "url": "https://open.spotify.com/album/2dSW6exybjXs8rXYQ3utSd"
+        "name": "Game Breaker",
+        "url": "https://open.spotify.com/album/5byRL7fz21kyoNAM2Fog4H"
+      },
+      "artists": [
+        {
+          "name": "Bloodlust",
+          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
+        },
+        {
+          "name": "E-Force",
+          "url": "https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C"
+        }
+      ],
+      "duration_ms": 198987,
+      "name": "Game Breaker",
+      "url": "https://open.spotify.com/track/2lNaARcTaHVlohiPlKvlnm"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "HIT THA CLUB",
+        "url": "https://open.spotify.com/album/1YcHtxuo6mYQcLwxNd28H9"
+      },
+      "artists": [
+        {
+          "name": "LunaKorpz",
+          "url": "https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1"
+        }
+      ],
+      "duration_ms": 166615,
+      "name": "HIT THA CLUB",
+      "url": "https://open.spotify.com/track/13vfyLZ1FsC73tOGTXHC1H"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "BEAT DROP",
+        "url": "https://open.spotify.com/album/4tB9m8YxO1ubNOi6iYocZH"
       },
       "artists": [
         {
           "name": "Andy the Core",
           "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
+        },
+        {
+          "name": "Frenchkillerz",
+          "url": "https://open.spotify.com/artist/1AYLNDNyJwPWGSlB3l2Ji1"
         }
       ],
-      "duration_ms": 188487,
-      "name": "RUDE METHODS",
-      "url": "https://open.spotify.com/track/25jlmlUJiDquYv8NIyPBTV"
+      "duration_ms": 206238,
+      "name": "BEAT DROP",
+      "url": "https://open.spotify.com/track/6euvRHGSDbaHgbQYbJeX7S"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -1167,22 +1187,6 @@
       "duration_ms": 218250,
       "name": "Full Throttle (Official Gearbox Full Throttle Anthem)",
       "url": "https://open.spotify.com/track/5JkCr2BpMh1pdMb6R4hKLx"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
-        "name": "HIT THA CLUB",
-        "url": "https://open.spotify.com/album/1YcHtxuo6mYQcLwxNd28H9"
-      },
-      "artists": [
-        {
-          "name": "LunaKorpz",
-          "url": "https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1"
-        }
-      ],
-      "duration_ms": 166615,
-      "name": "HIT THA CLUB",
-      "url": "https://open.spotify.com/track/13vfyLZ1FsC73tOGTXHC1H"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -1255,22 +1259,34 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "BEAT DROP",
-        "url": "https://open.spotify.com/album/4tB9m8YxO1ubNOi6iYocZH"
+        "name": "RUDE METHODS",
+        "url": "https://open.spotify.com/album/2dSW6exybjXs8rXYQ3utSd"
       },
       "artists": [
         {
           "name": "Andy the Core",
           "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
-        },
-        {
-          "name": "Frenchkillerz",
-          "url": "https://open.spotify.com/artist/1AYLNDNyJwPWGSlB3l2Ji1"
         }
       ],
-      "duration_ms": 206238,
-      "name": "BEAT DROP",
-      "url": "https://open.spotify.com/track/6euvRHGSDbaHgbQYbJeX7S"
+      "duration_ms": 188487,
+      "name": "RUDE METHODS",
+      "url": "https://open.spotify.com/track/25jlmlUJiDquYv8NIyPBTV"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "LOSE STRESS",
+        "url": "https://open.spotify.com/album/2OKZCUdcVh8mCgPZEpQBhZ"
+      },
+      "artists": [
+        {
+          "name": "LunaKorpz",
+          "url": "https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1"
+        }
+      ],
+      "duration_ms": 168101,
+      "name": "LOSE STRESS",
+      "url": "https://open.spotify.com/track/1awFS7E8LutYumdpdYGq7M"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -1323,22 +1339,6 @@
       "duration_ms": 187200,
       "name": "The Chop Game",
       "url": "https://open.spotify.com/track/4jp0Z4REkbEeGmSgTlf18C"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
-        "name": "LOSE STRESS",
-        "url": "https://open.spotify.com/album/2OKZCUdcVh8mCgPZEpQBhZ"
-      },
-      "artists": [
-        {
-          "name": "LunaKorpz",
-          "url": "https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1"
-        }
-      ],
-      "duration_ms": 168101,
-      "name": "LOSE STRESS",
-      "url": "https://open.spotify.com/track/1awFS7E8LutYumdpdYGq7M"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Not Afraid to Fall",
-        "url": "https://open.spotify.com/album/45XBkkNEnLzgSQJFWMqo92"
-      },
-      "artists": [
-        {
-          "name": "Hyperverb",
-          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
-        }
-      ],
-      "duration_ms": 185230,
-      "name": "Not Afraid to Fall",
-      "url": "https://open.spotify.com/track/6YLTwVpwO2OwuKPq5MC5oe"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
         "name": "Sky Ablaze",
         "url": "https://open.spotify.com/album/0t1j9srFXkWtOGUYI6o6A5"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 254075,
       "name": "The Resurrection (Official Toxicator 2022 Anthem)",
       "url": "https://open.spotify.com/track/1A86wZUo1CsjqycCQ8glen"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "Not Afraid to Fall",
+        "url": "https://open.spotify.com/album/45XBkkNEnLzgSQJFWMqo92"
+      },
+      "artists": [
+        {
+          "name": "Hyperverb",
+          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
+        }
+      ],
+      "duration_ms": 185230,
+      "name": "Not Afraid to Fall",
+      "url": "https://open.spotify.com/track/6YLTwVpwO2OwuKPq5MC5oe"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
+        "name": "Born To React",
+        "url": "https://open.spotify.com/album/2xnhi2zEqCN1vjewjKrGBe"
+      },
+      "artists": [
+        {
+          "name": "Imperatorz",
+          "url": "https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1"
+        }
+      ],
+      "duration_ms": 145519,
+      "name": "Born To React",
+      "url": "https://open.spotify.com/track/3kJ20oY7QCfeOk0dAlXFfA"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
         "name": "Drifting Away",
         "url": "https://open.spotify.com/album/07KH8tjrh8pnmDE1YNQkBi"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 160390,
       "name": "Adrenaline Kicks",
       "url": "https://open.spotify.com/track/5pgQRiuJ0dKnimS6wkpNfA"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
-        "name": "Born To React",
-        "url": "https://open.spotify.com/album/2xnhi2zEqCN1vjewjKrGBe"
-      },
-      "artists": [
-        {
-          "name": "Imperatorz",
-          "url": "https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1"
-        }
-      ],
-      "duration_ms": 145519,
-      "name": "Born To React",
-      "url": "https://open.spotify.com/track/3kJ20oY7QCfeOk0dAlXFfA"
     },
     {
       "added_at": "2023-04-13 22:00:00",

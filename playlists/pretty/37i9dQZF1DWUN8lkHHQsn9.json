@@ -1,12 +1,12 @@
 {
   "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: MAS",
-  "num_followers": 2773,
+  "num_followers": 2771,
   "original_name": "GLOW Polska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTE2NDAwMCwwMDAwMDAwMGU3NGRmMWU1ZThmNWMyMjc0NmQ2NmZkZThlMWEwN2Vk",
+  "snapshot_id": "MTY4MTE2NDAwMCwwMDAwMDAwMDBkMjBjNjkzYWNjOGJmZTQzZGVkZGIyNDNmNTY0YjY5",
   "tracks": [
     {
       "added_at": "2023-04-10 22:00:00",
@@ -831,18 +831,18 @@
     {
       "added_at": "2023-04-10 22:00:00",
       "album": {
-        "name": "Magister",
-        "url": "https://open.spotify.com/album/7El3IrfgM2Sz2J9LLruD1h"
+        "name": "FOMO",
+        "url": "https://open.spotify.com/album/0cP9ZrJM3O7XSUdJVRXoLJ"
       },
       "artists": [
         {
-          "name": "Aljas",
-          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
+          "name": "Shyness!",
+          "url": "https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym"
         }
       ],
-      "duration_ms": 160712,
-      "name": "Evangelion",
-      "url": "https://open.spotify.com/track/3inilFIpx5bJZuIoWESgKc"
+      "duration_ms": 224706,
+      "name": "FOMO",
+      "url": "https://open.spotify.com/track/0N1JQHZEUbVqcgMryK9NpL"
     },
     {
       "added_at": "2023-04-10 22:00:00",
@@ -863,18 +863,18 @@
     {
       "added_at": "2023-04-10 22:00:00",
       "album": {
-        "name": "FOMO",
-        "url": "https://open.spotify.com/album/0cP9ZrJM3O7XSUdJVRXoLJ"
+        "name": "Magister",
+        "url": "https://open.spotify.com/album/7El3IrfgM2Sz2J9LLruD1h"
       },
       "artists": [
         {
-          "name": "Shyness!",
-          "url": "https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym"
+          "name": "Aljas",
+          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
         }
       ],
-      "duration_ms": 224706,
-      "name": "FOMO",
-      "url": "https://open.spotify.com/track/0N1JQHZEUbVqcgMryK9NpL"
+      "duration_ms": 160712,
+      "name": "Evangelion",
+      "url": "https://open.spotify.com/track/3inilFIpx5bJZuIoWESgKc"
     },
     {
       "added_at": "2023-04-10 22:00:00",
@@ -927,6 +927,22 @@
     {
       "added_at": "2023-04-10 22:00:00",
       "album": {
+        "name": "Girls, Gays, People",
+        "url": "https://open.spotify.com/album/4Chm1IYsC21b9Zevy8Vbr9"
+      },
+      "artists": [
+        {
+          "name": "Yanch",
+          "url": "https://open.spotify.com/artist/0cB5gHRy82zYYouDMeckVZ"
+        }
+      ],
+      "duration_ms": 395000,
+      "name": "Girls, Gays, People",
+      "url": "https://open.spotify.com/track/0hcEoARENUw9yAc4H7fr10"
+    },
+    {
+      "added_at": "2023-04-10 22:00:00",
+      "album": {
         "name": "Don't Collapse",
         "url": "https://open.spotify.com/album/1FXhql6RzeIEdk790tOYBm"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 261818,
       "name": "Don't Collapse",
       "url": "https://open.spotify.com/track/11ZmWCdq4Jlvx7b5OVTmmP"
-    },
-    {
-      "added_at": "2023-04-10 22:00:00",
-      "album": {
-        "name": "Girls, Gays, People",
-        "url": "https://open.spotify.com/album/4Chm1IYsC21b9Zevy8Vbr9"
-      },
-      "artists": [
-        {
-          "name": "Yanch",
-          "url": "https://open.spotify.com/artist/0cB5gHRy82zYYouDMeckVZ"
-        }
-      ],
-      "duration_ms": 395000,
-      "name": "Girls, Gays, People",
-      "url": "https://open.spotify.com/track/0hcEoARENUw9yAc4H7fr10"
     },
     {
       "added_at": "2023-04-10 22:00:00",

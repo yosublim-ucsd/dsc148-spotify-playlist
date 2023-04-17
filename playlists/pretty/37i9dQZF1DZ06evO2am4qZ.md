@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2am4qZ.md) - [plain]
 
 > This is Baby Tate\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,014 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,019 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2am4qZ.md) - [plain]
 | 29 | [Focused](https://open.spotify.com/track/0R86U2o1voaXPzvL5QrNWE) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [After The Rain: Deluxe](https://open.spotify.com/album/6GOBCr97vW3rl3Nea3H6Pe) | 2:46 |
 | 30 | [Flick! \(Stacey\) \(feat\. Yung Baby Tate\)](https://open.spotify.com/track/1I0etEWpAifqN3Ceq1ZMYt) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Watch This!](https://open.spotify.com/album/4Vu0PtnR4eyViFmKZNpJqL) | 2:04 |
 | 31 | [Want Not A Need \(feat\. Baby Tate\)](https://open.spotify.com/track/71sEDegC32gkp1Y0vdrAf9) | [Kidd Kenn](https://open.spotify.com/artist/5dkb0qOeUicNVLZKRGG92m), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Grown](https://open.spotify.com/album/0qg7zJ3vm8Mv7xtrrYYhQV) | 2:07 |
-| 32 | [STUPID \(feat\. Ashnikko & Yung Baby Tate\) \- Sped Up Nightcore](https://open.spotify.com/track/6cxzd3vNyGtNOTnv34OCwO) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [STUPID \(feat\. Ashnikko & Yung Baby Tate\) \[Sped Up Nightcore\]](https://open.spotify.com/album/7I2HnKQFARWPLxSsUjIDIL) | 2:24 |
+| 32 | [oOo that's my type \(feat\. Yung Baby Tate\)](https://open.spotify.com/track/3hafGbhod5a1pRxeUrVD1O) | [Marian Hill](https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [oOo that's my type \(feat\. Yung Baby Tate\)](https://open.spotify.com/album/12MXzGTIgDokAvCMR0qXHN) | 2:41 |
 | 33 | [Eenie Meenie](https://open.spotify.com/track/4SClznXpl6IEK4ese5MULZ) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [After The Rain: Deluxe](https://open.spotify.com/album/6GOBCr97vW3rl3Nea3H6Pe) | 2:22 |
-| 34 | [oOo that's my type \(feat\. Yung Baby Tate\)](https://open.spotify.com/track/3hafGbhod5a1pRxeUrVD1O) | [Marian Hill](https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [oOo that's my type \(feat\. Yung Baby Tate\)](https://open.spotify.com/album/12MXzGTIgDokAvCMR0qXHN) | 2:41 |
+| 34 | [STUPID \(feat\. Ashnikko & Yung Baby Tate\) \- Sped Up Nightcore](https://open.spotify.com/track/6cxzd3vNyGtNOTnv34OCwO) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [STUPID \(feat\. Ashnikko & Yung Baby Tate\) \[Sped Up Nightcore\]](https://open.spotify.com/album/7I2HnKQFARWPLxSsUjIDIL) | 2:24 |
 | 35 | [Mean Girl \(feat\. Queen Key & Asian Doll\)](https://open.spotify.com/track/61HXix5FqC7fuqty8sQJ0r) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR), [Asian Doll](https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J) | [GIRLS Deluxe](https://open.spotify.com/album/1Qj0GLSG3jwLnwDP36nDkZ) | 4:22 |
 | 36 | [Like We](https://open.spotify.com/track/0A2YRDNyOpVHJ9uBd83OCJ) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Alaya](https://open.spotify.com/artist/5MY5rCpGaLfcgRpocaw8EG) | [zer0](https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb) | 3:12 |
 | 37 | [Baecation](https://open.spotify.com/track/34ukbJprybxATIMVL5ku4x) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [After The Rain: Deluxe](https://open.spotify.com/album/6GOBCr97vW3rl3Nea3H6Pe) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2am4qZ.md) - [plain]
 | 49 | [That Girl](https://open.spotify.com/track/1eGW9NUzLN1roVpWWyjVI8) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [GIRLS](https://open.spotify.com/album/3KExRXeulCEJWUYr6IP2lk) | 4:30 |
 | 50 | [Hey Ladies](https://open.spotify.com/track/0S4HeVwCfMx41pAIgqKgGI) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Stoppa](https://open.spotify.com/artist/0XM0fHfVDa2UgDJOrE1woZ) | [WukiWorld](https://open.spotify.com/album/523y2Ub7mQPON9romO2APM) | 2:48 |
 
-Snapshot ID: `MjgwMjYwMzIsMDAwMDAwMDAzNWU3YmQ0YmVjZmFjNmQzN2YxMjY5YzcyN2Q5YzMyNA==`
+Snapshot ID: `MjgwMjc0MDEsMDAwMDAwMDA1MGEzZGFjZDQxOTUwMGI5MWViODJjMzA5YjZmZmUzYw==`

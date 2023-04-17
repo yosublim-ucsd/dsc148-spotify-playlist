@@ -2006,7 +2006,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-16",
+      "date_removed": null,
       "duration_ms": 131625,
       "name": "Blicky",
       "url": "https://open.spotify.com/track/5udNN5hwk870U9dk7a0nHe"
@@ -6172,7 +6172,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 146938,
       "name": "Habibi",
       "url": "https://open.spotify.com/track/5FXDsBtTJRSMmmWhFxhAI0"
@@ -7494,7 +7494,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 197000,
       "name": "In This Darkness",
       "url": "https://open.spotify.com/track/6qrcJkIpuWpxH0ruS8WVAy"
@@ -9416,7 +9416,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-07",
+      "date_removed": null,
       "duration_ms": 185000,
       "name": "Me and the Devil",
       "url": "https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh"
@@ -9632,7 +9632,7 @@
       ],
       "date_added": "2022-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 217103,
       "name": "Mentalit\u00e9",
       "url": "https://open.spotify.com/track/6bgI3JZPDLm6gDE75utatQ"
@@ -10298,6 +10298,24 @@
       "duration_ms": 185437,
       "name": "Moving On",
       "url": "https://open.spotify.com/track/1HziFe87mEtaTjLAdGHXyl"
+    },
+    {
+      "album": {
+        "name": "Footprints I Found",
+        "url": "https://open.spotify.com/album/5bXx1ncSvWPtNAuecQgsHf"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187293,
+      "name": "Mr. Forgettable",
+      "url": "https://open.spotify.com/track/0c8K5IUrmVlieC0Fc0d8tV"
     },
     {
       "album": {
@@ -11724,7 +11742,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 122070,
       "name": "PAINTING PICTURES",
       "url": "https://open.spotify.com/track/6KXKcH4QO1MiGrMQOGoADP"
@@ -12438,7 +12456,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 157440,
-      "name": "Pon de Replay (Dance)",
+      "name": "Pon de Replay",
       "url": "https://open.spotify.com/track/4ybaX7Z05jZnuQOW6jxYEy"
     },
     {
@@ -12454,7 +12472,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 160029,
       "name": "POOR",
       "url": "https://open.spotify.com/track/0LDUzTvKVEla4L7GusNck2"
@@ -13748,6 +13766,28 @@
       "duration_ms": 133846,
       "name": "Se Voce Nao Quer Passa a Vez",
       "url": "https://open.spotify.com/track/7snnTlaWaN39nfN1PhUaT8"
+    },
+    {
+      "album": {
+        "name": "Flower Boy",
+        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180386,
+      "name": "See You Again (feat. Kali Uchis)",
+      "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
     },
     {
       "album": {
@@ -18648,6 +18688,28 @@
       "duration_ms": 216833,
       "name": "\u042f\u0434",
       "url": "https://open.spotify.com/track/59vIllaE2ottAAAtAiAuLt"
+    },
+    {
+      "album": {
+        "name": "\u3059\u305a\u3081\u306e\u6238\u7de0\u307e\u308a",
+        "url": "https://open.spotify.com/album/1zw13BheGzuWgbm5CY4dJp"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        },
+        {
+          "name": "\u5341\u660e",
+          "url": "https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238560,
+      "name": "\u3059\u305a\u3081",
+      "url": "https://open.spotify.com/track/3HCGX2gmPLu6ttkbYvPGTR"
     },
     {
       "album": {

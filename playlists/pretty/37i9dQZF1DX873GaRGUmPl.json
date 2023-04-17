@@ -1,12 +1,12 @@
 {
   "description": "The best alternative songs of the decade. Cover: The 1975",
-  "num_followers": 895965,
+  "num_followers": 896055,
   "original_name": "Alternative 10s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzM1ODQ2MywwMDAwMDAwMDdjNWEwNmYyMmIzY2M0YzgwOGQ1MWM4Mzg2YzQxYTM4",
+  "snapshot_id": "MTY3MzM1ODQ2MywwMDAwMDAwMGE0MDcyZGYzMGVjYmJkZWQwNTE5OWI4YzczZTdlMTc2",
   "tracks": [
     {
       "added_at": "2022-09-29 15:30:40",
@@ -91,22 +91,6 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "Salad Days",
-        "url": "https://open.spotify.com/album/2sij95QgjmgrhNv33achzn"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 231723,
-      "name": "Chamber Of Reflection",
-      "url": "https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb"
-    },
-    {
-      "added_at": "2022-09-29 15:30:40",
-      "album": {
         "name": "we fell in love in october / October Passed Me By",
         "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 184153,
       "name": "we fell in love in october",
       "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
+    },
+    {
+      "added_at": "2022-09-29 15:30:40",
+      "album": {
+        "name": "Salad Days",
+        "url": "https://open.spotify.com/album/2sij95QgjmgrhNv33achzn"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 231723,
+      "name": "Chamber Of Reflection",
+      "url": "https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -187,22 +187,6 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "To Pimp A Butterfly",
-        "url": "https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 219333,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/3iVcZ5G6tvkXZkZKlMpIUs"
-    },
-    {
-      "added_at": "2022-09-29 15:30:40",
-      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
       },
@@ -219,18 +203,34 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+        "name": "To Pimp A Butterfly",
+        "url": "https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP"
       },
       "artists": [
         {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 249191,
-      "name": "Ivy",
-      "url": "https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a"
+      "duration_ms": 219333,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/3iVcZ5G6tvkXZkZKlMpIUs"
+    },
+    {
+      "added_at": "2022-09-29 15:30:40",
+      "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/2XgBQwGRxr4P7cHLDYiqrO"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 190845,
+      "name": "My Kind of Woman",
+      "url": "https://open.spotify.com/track/6jgkEbmQ2F2onEqsEhiliL"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -251,18 +251,18 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "2",
-        "url": "https://open.spotify.com/album/2XgBQwGRxr4P7cHLDYiqrO"
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
       },
       "artists": [
         {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
         }
       ],
-      "duration_ms": 190845,
-      "name": "My Kind of Woman",
-      "url": "https://open.spotify.com/track/6jgkEbmQ2F2onEqsEhiliL"
+      "duration_ms": 249191,
+      "name": "Ivy",
+      "url": "https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -331,6 +331,22 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
+        "name": "Never Trust a Happy Song",
+        "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
+      },
+      "artists": [
+        {
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        }
+      ],
+      "duration_ms": 218013,
+      "name": "Tongue Tied",
+      "url": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N"
+    },
+    {
+      "added_at": "2022-09-29 15:30:40",
+      "album": {
         "name": "Nothing Happens",
         "url": "https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 178000,
       "name": "Are You Bored Yet? (feat. Clairo)",
       "url": "https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm"
-    },
-    {
-      "added_at": "2022-09-29 15:30:40",
-      "album": {
-        "name": "Never Trust a Happy Song",
-        "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
-      },
-      "artists": [
-        {
-          "name": "GROUPLOVE",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
-        }
-      ],
-      "duration_ms": 218013,
-      "name": "Tongue Tied",
-      "url": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -399,18 +399,18 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+        "name": "Woodstock",
+        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
       },
       "artists": [
         {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
         }
       ],
-      "duration_ms": 248807,
-      "name": "White Ferrari",
-      "url": "https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV"
+      "duration_ms": 163253,
+      "name": "Feel It Still",
+      "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -431,18 +431,18 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "Woodstock",
-        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
       },
       "artists": [
         {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
         }
       ],
-      "duration_ms": 163253,
-      "name": "Feel It Still",
-      "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
+      "duration_ms": 248807,
+      "name": "White Ferrari",
+      "url": "https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "Atlanta Millionaires Club",
-        "url": "https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn"
-      },
-      "artists": [
-        {
-          "name": "Faye Webster",
-          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
-        }
-      ],
-      "duration_ms": 202653,
-      "name": "Kingston",
-      "url": "https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R"
-    },
-    {
-      "added_at": "2022-09-29 15:30:40",
-      "album": {
         "name": "Melodrama",
         "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 234652,
       "name": "Green Light",
       "url": "https://open.spotify.com/track/6ie2Bw3xLj2JcGowOlcMhb"
+    },
+    {
+      "added_at": "2022-09-29 15:30:40",
+      "album": {
+        "name": "Atlanta Millionaires Club",
+        "url": "https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "duration_ms": 202653,
+      "name": "Kingston",
+      "url": "https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "Visions",
-        "url": "https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM"
-      },
-      "artists": [
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 251266,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/3LGsgpx4TfxhXbr07OFKqs"
-    },
-    {
-      "added_at": "2022-09-29 15:30:40",
-      "album": {
         "name": "Holy Fire",
         "url": "https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 238853,
       "name": "My Number",
       "url": "https://open.spotify.com/track/04caEZhAsQKnWqKsMwk9ud"
+    },
+    {
+      "added_at": "2022-09-29 15:30:40",
+      "album": {
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 251266,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/3LGsgpx4TfxhXbr07OFKqs"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "Final Song",
-        "url": "https://open.spotify.com/album/2gcqSlK5xTxcpuLZ1iik3Z"
-      },
-      "artists": [
-        {
-          "name": "M\u00d8",
-          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
-        }
-      ],
-      "duration_ms": 235826,
-      "name": "Final Song",
-      "url": "https://open.spotify.com/track/4qqArAiTPueDxIp7cf87h7"
-    },
-    {
-      "added_at": "2022-09-29 15:30:40",
-      "album": {
         "name": "What Went Down",
         "url": "https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 244293,
       "name": "Mountain at My Gates",
       "url": "https://open.spotify.com/track/3f7OyfSoDbQC0LRDQiytPp"
+    },
+    {
+      "added_at": "2022-09-29 15:30:40",
+      "album": {
+        "name": "Final Song",
+        "url": "https://open.spotify.com/album/2gcqSlK5xTxcpuLZ1iik3Z"
+      },
+      "artists": [
+        {
+          "name": "M\u00d8",
+          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+        }
+      ],
+      "duration_ms": 235826,
+      "name": "Final Song",
+      "url": "https://open.spotify.com/track/4qqArAiTPueDxIp7cf87h7"
     },
     {
       "added_at": "2022-09-29 15:30:40",

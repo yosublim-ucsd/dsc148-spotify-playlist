@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 
 > Dance hits in 2023\. Cover: SG Lewis
 
-[Digster](https://open.spotify.com/user/digster.fm) - 116,554 likes - 50 songs - 2 hr 24 min
+[Digster](https://open.spotify.com/user/digster.fm) - 116,553 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

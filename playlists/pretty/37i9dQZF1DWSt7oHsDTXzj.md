@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 
 > The ultimate seasonal \(indie\) playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,001 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,979 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 | 57 | [Home Alone, Too](https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Home Alone, Too](https://open.spotify.com/album/4y57bVmY8Jj0BK0RxcLRXb) | 4:00 |
 | 58 | [Walking in the Air](https://open.spotify.com/track/0TPoPWvaSaHEuEaDHyEMKf) | [Mimicking Birds](https://open.spotify.com/artist/5PifaykkaJRJlWbUz3H0od) | [Walking in the Air](https://open.spotify.com/album/5HeEv4JIJTpJ4hgxnBIUcH) | 4:17 |
 | 59 | [Must Be Santa \- Spotify Singles Holiday](https://open.spotify.com/track/04LnqfQEzvutfUhSylWowv) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Must Be Santa \(Spotify Singles Holiday\)](https://open.spotify.com/album/0wJyKcyU78UBHupNdCEtW4) | 5:11 |
-| 60 | [Joy To The World](https://open.spotify.com/track/2IqU8ku7GvY7HE0s3sYA34) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Songs For Christmas](https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis) | 4:20 |
+| 60 | [Lonely Man of Winter](https://open.spotify.com/track/1OxRNKfrUtgaWoyLZye2ZA) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Lonely Man of Winter](https://open.spotify.com/album/16KjliJcOiaG197Hzl9z3s) | 3:11 |
 | 61 | [Christmas Must Be Tonight](https://open.spotify.com/track/5HGeTJqFRlhY3VYC9phKw6) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [This Warm December, A Brushfire Holiday Vol\. 2](https://open.spotify.com/album/4dTpeR3SNPSp77CztAXT7T) | 3:47 |
 | 62 | [baby jesus is nobody’s baby now](https://open.spotify.com/track/6HwsLuTeG7W4BYeuvSPTsr) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [baby jesus is nobody’s baby now](https://open.spotify.com/album/1x8xjOeUiVCRZkvIesrdWY) | 3:35 |
 | 63 | [Yellow Bike](https://open.spotify.com/track/1vztTdgyyARufM8lnCFEzE) | [Pedro The Lion](https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr) | [Phoenix](https://open.spotify.com/album/6GmQc3dPo8YcwbC9zOrWv9) | 3:53 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 | 66 | [Merry Xmas Everybody](https://open.spotify.com/track/5lfN1H4X6hDhHKMoZIApEN) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Merry Xmas Everybody](https://open.spotify.com/album/60i7Lo8iMpAFEogjdDQje4) | 3:38 |
 | 67 | [Silent Night](https://open.spotify.com/track/0hwGsJMbUwevJHPdg3YPRV) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [Christmas Songs Vol\. 1](https://open.spotify.com/album/5lWtnP3XSJWZlZJy7RCXf5) | 4:44 |
 | 68 | [In the Bleak Midwinter](https://open.spotify.com/track/2Q7EmuVCLEY72iw7klTdPA) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [In the Bleak Midwinter](https://open.spotify.com/album/43u0uu5HLQ0nXJqIxlWwiW) | 4:20 |
-| 69 | [Lonely Man of Winter](https://open.spotify.com/track/1OxRNKfrUtgaWoyLZye2ZA) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Lonely Man of Winter](https://open.spotify.com/album/16KjliJcOiaG197Hzl9z3s) | 3:11 |
+| 69 | [That Was the Worst Christmas Ever!](https://open.spotify.com/track/6iabiOyIuzZ96Tk6KyYCRp) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Songs For Christmas](https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis) | 3:18 |
 | 70 | [Christmas Is Going To The Dogs](https://open.spotify.com/track/01UBQgNn1jCFAnnvNJSjv0) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [Useless Trinkets\-B Sides, Soundtracks, Rarieties and Unreleased 1996\-2006](https://open.spotify.com/album/5tdxfCXrgvk8vj81QWh2tt) | 2:57 |
-| 71 | [Here We Come A\-Caroling](https://open.spotify.com/track/3iaFIr7VSe1bp0M2wVFdE6) | [Pomplamoose](https://open.spotify.com/artist/5dHfLBNU8zoypgKefzEB1c) | [Here We Come A\-Caroling](https://open.spotify.com/album/4nnBzX1vhCQpHqw1AbFU27) | 2:47 |
-| 72 | [The White Season](https://open.spotify.com/track/00nHwKHbwy33Q8Eo3OB86u) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [Creatures of an Hour](https://open.spotify.com/album/0SEaWCwVW6KQK6wB6NNtsU) | 2:53 |
-| 73 | [Holiday](https://open.spotify.com/track/5o95cqHWLtaHToZnSS8j5Q) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Holiday](https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx) | 4:08 |
-| 74 | [Auld Lang Syne](https://open.spotify.com/track/1csVCmVSxMwc9wbL0j54hW) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Auld Lang Syne](https://open.spotify.com/album/5kJSx4MUPIidcP4DZNRzfu) | 3:12 |
-| 75 | [Christmas \(Baby Please Come Home\) \- Recorded at Electric Lady Studios in NYC](https://open.spotify.com/track/4l6HpFFpPcJ3M5N1PuG7We) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Spotify Singles \- Holiday](https://open.spotify.com/album/4NeHkZmteGriA9lEoa9Brp) | 3:23 |
+| 71 | [The White Season](https://open.spotify.com/track/00nHwKHbwy33Q8Eo3OB86u) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [Creatures of an Hour](https://open.spotify.com/album/0SEaWCwVW6KQK6wB6NNtsU) | 2:53 |
+| 72 | [Holiday](https://open.spotify.com/track/5o95cqHWLtaHToZnSS8j5Q) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Holiday](https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx) | 4:08 |
+| 73 | [Here We Come A\-Caroling](https://open.spotify.com/track/3iaFIr7VSe1bp0M2wVFdE6) | [Pomplamoose](https://open.spotify.com/artist/5dHfLBNU8zoypgKefzEB1c) | [Here We Come A\-Caroling](https://open.spotify.com/album/4nnBzX1vhCQpHqw1AbFU27) | 2:47 |
+| 74 | [Christmas \(Baby Please Come Home\) \- Recorded at Electric Lady Studios in NYC](https://open.spotify.com/track/4l6HpFFpPcJ3M5N1PuG7We) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Spotify Singles \- Holiday](https://open.spotify.com/album/4NeHkZmteGriA9lEoa9Brp) | 3:23 |
+| 75 | [Auld Lang Syne](https://open.spotify.com/track/1csVCmVSxMwc9wbL0j54hW) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Auld Lang Syne](https://open.spotify.com/album/5kJSx4MUPIidcP4DZNRzfu) | 3:12 |
 
-Snapshot ID: `MTY3MTc2Mjk5MiwwMDAwMDAwMGUwYjM2ZGZmMTQwOWQ1NmRkMWIxZWI4ODRlNGU0MDI0`
+Snapshot ID: `MTY3MTc2Mjk5MiwwMDAwMDAwMDE4ZDBhODFjOTAwYTcwOTdiZDI5ZGZjN2FiNzk3MDcy`

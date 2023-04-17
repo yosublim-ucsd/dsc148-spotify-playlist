@@ -4,7 +4,7 @@
 
 > All your favourite pop songs, remixed to perfection\. Cover: Zara Larsson
 
-61 songs - 3 hr 19 min
+62 songs - 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [go \- goddard\. Remix](https://open.spotify.com/track/6RZo8T7GY9EoWZXC5i2587) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [Go \(Remixes\)](https://open.spotify.com/album/1kGbwOHke3PrRnZAmlkoOu) | 3:12 | 2022-06-20 |  |
 | [Good Ones \- Joel Corry Remix](https://open.spotify.com/track/2Jt8OOQV33kCWJs7ojOCUJ) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Good Ones \(Joel Corry Remix\)](https://open.spotify.com/album/6gSdPxoDUwQ7ClDwEsq7gv) | 2:45 | 2022-06-20 |  |
 | [Hate Me \- R3HAB Remix](https://open.spotify.com/track/3iJeF2izF1QcpCgUc97BLl) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Hate Me \(R3HAB Remix\)](https://open.spotify.com/album/6e6RVFWdZaoTiLAZOCMnps) | 3:23 | 2022-06-20 |  |
-| [Heat Waves \- Oliver Heldens Remix](https://open.spotify.com/track/6yvdWGtowJa7ffgc1UR5SF) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Heat Waves \(Expansion Pack\)](https://open.spotify.com/album/57j3jda1XAM1xFdVamdVue) | 4:03 | 2022-06-20 |  |
+| [Heat Waves \- Oliver Heldens Remix](https://open.spotify.com/track/3k2FCI9rzGEvXnjP0BEZzp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/4nr6ytQ4OrEralEu4LhIVp) | 4:03 | 2023-04-12 |  |
+| [Heat Waves \- Oliver Heldens Remix](https://open.spotify.com/track/6yvdWGtowJa7ffgc1UR5SF) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Heat Waves \(Expansion Pack\)](https://open.spotify.com/album/57j3jda1XAM1xFdVamdVue) | 4:03 | 2022-06-20 | 2023-04-17 |
 | [Here \- Madism Remix](https://open.spotify.com/track/3aB0xS45shndxNnvfhpEEz) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [Here \(Madism Remix\)](https://open.spotify.com/album/5zr53yPoCvQmyyTrDWVncs) | 3:00 | 2023-04-12 |  |
 | [If We Ever Broke Up \- goddard\. Remix](https://open.spotify.com/track/2U9nC0E0VMiGEadMOdV6dN) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [If We Ever Broke Up \(goddard\. Remix\)](https://open.spotify.com/album/0ToSBYDbCC4Up9JlpZkXSr) | 2:36 | 2023-04-12 |  |
 | [if we never met \- remix](https://open.spotify.com/track/0o6NlHNV7Tet6yh9BC6BGd) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [if we never met \(remix\)](https://open.spotify.com/album/1iCPJ4fkyZ5yvIWSqA4ajE) | 3:06 | 2022-06-20 |  |

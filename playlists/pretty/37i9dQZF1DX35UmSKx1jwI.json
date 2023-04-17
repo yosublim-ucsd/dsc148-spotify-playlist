@@ -1,12 +1,12 @@
 {
   "description": "Feel good, high energy beats to keep you motivated for that every day workout!",
-  "num_followers": 86457,
+  "num_followers": 86515,
   "original_name": "Gym Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQyMzE0MCwwMDAwMDAwMDRiZjI2YmUxYjg5YzFmNjhmMWYyODk3MTc5MjI2Nzdj",
+  "snapshot_id": "MTY4MTQyMzE0MCwwMDAwMDAwMGRkNDRkNTU3YzBlMzllYzc4NGE1OWI1NjIxYmQyODYy",
   "tracks": [
     {
       "added_at": "2023-04-13 21:59:00",
@@ -663,22 +663,22 @@
     {
       "added_at": "2023-04-13 21:59:00",
       "album": {
-        "name": "18 Months",
-        "url": "https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT"
+        "name": "Caught A Body (feat. Ty Dolla $ign)",
+        "url": "https://open.spotify.com/album/5JEgZa6di9DVcftMmEoN2r"
       },
       "artists": [
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
         },
         {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 232800,
-      "name": "Let's Go (feat. Ne-Yo)",
-      "url": "https://open.spotify.com/track/4wkQmYpAaMe41Rc3sYZ7Vz"
+      "duration_ms": 149110,
+      "name": "Caught A Body (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/4JvJj733DNy6nuVcC1NzCq"
     },
     {
       "added_at": "2023-04-13 21:59:00",
@@ -703,38 +703,22 @@
     {
       "added_at": "2023-04-13 21:59:00",
       "album": {
-        "name": "Caught A Body (feat. Ty Dolla $ign)",
-        "url": "https://open.spotify.com/album/5JEgZa6di9DVcftMmEoN2r"
+        "name": "18 Months",
+        "url": "https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT"
       },
       "artists": [
         {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
         },
         {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
         }
       ],
-      "duration_ms": 149110,
-      "name": "Caught A Body (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/4JvJj733DNy6nuVcC1NzCq"
-    },
-    {
-      "added_at": "2023-04-13 21:59:00",
-      "album": {
-        "name": "TIM",
-        "url": "https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        }
-      ],
-      "duration_ms": 277261,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/0vrmHPfoBadXVr2n0m1aqZ"
+      "duration_ms": 232800,
+      "name": "Let's Go (feat. Ne-Yo)",
+      "url": "https://open.spotify.com/track/4wkQmYpAaMe41Rc3sYZ7Vz"
     },
     {
       "added_at": "2023-04-13 21:59:00",
@@ -751,6 +735,22 @@
       "duration_ms": 206587,
       "name": "You Little Beauty",
       "url": "https://open.spotify.com/track/1gRQxbfL4ULWyTosgXSbWT"
+    },
+    {
+      "added_at": "2023-04-13 21:59:00",
+      "album": {
+        "name": "TIM",
+        "url": "https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "duration_ms": 277261,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/0vrmHPfoBadXVr2n0m1aqZ"
     },
     {
       "added_at": "2023-04-13 21:59:00",
@@ -879,6 +879,46 @@
     {
       "added_at": "2023-04-13 21:59:00",
       "album": {
+        "name": "Upside Down (feat. Poppy Baskcomb)",
+        "url": "https://open.spotify.com/album/2FmCevNKGGSYOa9uCuXydm"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "duration_ms": 174374,
+      "name": "Upside Down (feat. Poppy Baskcomb)",
+      "url": "https://open.spotify.com/track/2UDycsru4dEa1UFmyIvKYU"
+    },
+    {
+      "added_at": "2023-04-13 21:59:00",
+      "album": {
+        "name": "I Could Be The One [Avicii vs Nicky Romero]",
+        "url": "https://open.spotify.com/album/292ltz2MxXuFZw9FaEbaZ3"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 208320,
+      "name": "I Could Be The One (Avicii Vs. Nicky Romero) - Radio Edit",
+      "url": "https://open.spotify.com/track/591nHHHzZl1NLt9PMKpinM"
+    },
+    {
+      "added_at": "2023-04-13 21:59:00",
+      "album": {
         "name": "Power",
         "url": "https://open.spotify.com/album/4G19LdhYXHY60QJepiSVbE"
       },
@@ -919,22 +959,22 @@
     {
       "added_at": "2023-04-13 21:59:00",
       "album": {
-        "name": "I Could Be The One [Avicii vs Nicky Romero]",
-        "url": "https://open.spotify.com/album/292ltz2MxXuFZw9FaEbaZ3"
+        "name": "The Wave",
+        "url": "https://open.spotify.com/album/51xuEhCDa3SJsvBIWvII8a"
       },
       "artists": [
         {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
         },
         {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
         }
       ],
-      "duration_ms": 208320,
-      "name": "I Could Be The One (Avicii Vs. Nicky Romero) - Radio Edit",
-      "url": "https://open.spotify.com/track/591nHHHzZl1NLt9PMKpinM"
+      "duration_ms": 160183,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/0LRYbMHrBXkXNUBhRkENT1"
     },
     {
       "added_at": "2023-04-13 21:59:00",
@@ -955,26 +995,6 @@
       "duration_ms": 193320,
       "name": "Born To Be Yours",
       "url": "https://open.spotify.com/track/0WVAQaxrT0wsGEG4BCVSn2"
-    },
-    {
-      "added_at": "2023-04-13 21:59:00",
-      "album": {
-        "name": "The Wave",
-        "url": "https://open.spotify.com/album/51xuEhCDa3SJsvBIWvII8a"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Mike Williams",
-          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
-        }
-      ],
-      "duration_ms": 160183,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/0LRYbMHrBXkXNUBhRkENT1"
     },
     {
       "added_at": "2023-04-13 21:59:00",
@@ -1155,26 +1175,6 @@
       "duration_ms": 204000,
       "name": "Castles - Sam Feldt Remix",
       "url": "https://open.spotify.com/track/0AZJDOGsRHnR9GEMWqzOiP"
-    },
-    {
-      "added_at": "2023-04-13 21:59:00",
-      "album": {
-        "name": "Pretty Please",
-        "url": "https://open.spotify.com/album/6ytnDl9t7n1ROdtbVzK7Kb"
-      },
-      "artists": [
-        {
-          "name": "Jackson Wang",
-          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 145792,
-      "name": "Pretty Please",
-      "url": "https://open.spotify.com/track/5Rse8If81NbzXL1ARjHOTB"
     }
   ],
   "unique_name": "Gym Beats",

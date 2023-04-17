@@ -4,14 +4,15 @@
 
 > Metallica along with today's Rock songs you need to hear.
 
-308 songs - 17 hr 22 min
+309 songs - 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [.intoodeep.](https://open.spotify.com/track/5QhNhUBkNtz9f6NQLrv5A8) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [\-!\-](https://open.spotify.com/album/00NKrA90xCjPCMvR0CdvVl) | 3:39 | 2022-02-25 | 2022-07-02 |
 | [10 for 10](https://open.spotify.com/track/3FJWujo6lhrjtS3w8rR78F) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Halloween Mixtape](https://open.spotify.com/album/1Defrb5hnuVq7ZnSBtxlRy) | 2:17 | 2022-08-19 | 2022-10-01 |
 | [2am](https://open.spotify.com/track/04no0XXxXd3F5uLZi3qDYK) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [2am](https://open.spotify.com/album/04CKg4c7QsOXrlUxXbEZAe) | 3:44 | 2022-03-11 | 2022-09-10 |
-| [72 Seasons](https://open.spotify.com/track/6txhb14PWs9yrkTgR2jnU4) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/5vFa10TvQUWpEv9OkVBatc) | 7:39 | 2023-04-14 |  |
+| [72 Seasons](https://open.spotify.com/track/4poeu6nUr4UQo1RXpp29Js) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 7:39 | 2023-04-14 |  |
+| [72 Seasons](https://open.spotify.com/track/6txhb14PWs9yrkTgR2jnU4) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/5vFa10TvQUWpEv9OkVBatc) | 7:39 | 2023-04-14 | 2023-04-17 |
 | [:mydopamine:](https://open.spotify.com/track/2orIpa9dzNtsqyKjdts0f1) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [:mydopamine:](https://open.spotify.com/album/4tHK91a2JwTUOeAw29jlvN) | 3:33 | 2023-01-27 |  |
 | [<maybe> it's my fault](https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<maybe> it's my fault](https://open.spotify.com/album/139YquG3RpaLBq98PbsOIM) | 2:39 | 2022-06-24 | 2022-10-08 |
 | [<maybe> it's my fault](https://open.spotify.com/track/5qMq8ITRVuTwqd2pDL0gff) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<COPINGMECHANISM>](https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV) | 2:42 | 2022-10-07 | 2022-10-22 |

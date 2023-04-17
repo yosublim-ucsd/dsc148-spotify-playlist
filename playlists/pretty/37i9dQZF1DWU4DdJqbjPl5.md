@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 
 > The smoothest Afro R&B out right now\. Cover:  <a href="https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g?si=Gs1LtpKzTKqjs9IoazUUMg" >Lloyiso</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,270 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,337 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Test Me](https://open.spotify.com/track/45VPTngfUEF7c5rBI2IOja) | [Jeune Lio](https://open.spotify.com/artist/1zz3LkV2ojd7rzmYf2QOsF), [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0), [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [A Night In Cocody](https://open.spotify.com/album/7HX3XJ5NzMPUVBkzYRQtWQ) | 3:40 |
+| 1 | [Test Me](https://open.spotify.com/track/7cb8EEwS3csiKjiee33ZP2) | [Jeune Lio](https://open.spotify.com/artist/1zz3LkV2ojd7rzmYf2QOsF), [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0), [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [A Night In Cocody](https://open.spotify.com/album/7fj4P4j4HNVXX5PZtMaEi2) | 3:40 |
 | 2 | [Satisfy My Soul](https://open.spotify.com/track/3R679xi0Ht1FrWtXpAXr6O) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od) | [Fluid](https://open.spotify.com/album/0q0jqTHpWYZIg0kYfTfXbB) | 3:14 |
 | 3 | [Give A Little Kindness](https://open.spotify.com/track/7JrYr89YEIGwWqiEFUlSvj) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Seasons](https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ) | 2:44 |
 | 4 | [Baby Riddim](https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Baby Riddim](https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b) | 3:10 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 | 79 | [Yolo](https://open.spotify.com/track/5BZND0pEiJowPDbqMwHY2M) | [Toby Grey](https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww) | [Yolo](https://open.spotify.com/album/3kflZg32LcyQvzUu3nJkOO) | 2:19 |
 | 80 | [Pour Me a Drink](https://open.spotify.com/track/1ebcm76NK3TarOZBvBRz3P) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [The Brother's Keeper](https://open.spotify.com/album/0g7K5tuXiGzf5K6umuzCRX) | 2:48 |
 
-Snapshot ID: `MTY4MTQ3NjU0OSwwMDAwMDAwMDQ5MWVhM2MxMWJmM2M5Y2Y3MDJlMWM4M2NjNTUyZjNl`
+Snapshot ID: `MTY4MTQ3NjU0OSwwMDAwMDAwMGE1ZWI3OWI3MzE5MzY3YzUxOWMxY2JhOGQ1YzcyZGI5`

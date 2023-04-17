@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU7mNH0ss71X.md) - [plain]
 
 > U.K\. rising star <a href="spotify:artist:6DnQYUjtYusK9QJts9HqSC">Skepsis</a><br/> delivers a mix filled with gritty basslines and fist\-pumping tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,229 likes - 39 songs - 59 min 12 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,233 likes - 39 songs - 59 min 12 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Caf\u00e9 caliente, sill\u00f3n blandito y la mejor lectura o compa\u00f1\u00eda.",
-  "num_followers": 810498,
+  "num_followers": 810582,
   "original_name": "Caf\u00e9, Libros.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTUxOTIzMCwwMDAwMDAwMGM3ODJiZmJkNGZmODZhNDI2ZDdiM2I5MDVjNjA0Mzhl",
+  "snapshot_id": "MTY4MTUxOTIzMCwwMDAwMDAwMDVjYzE3OGVhMjFmMTE3MDlmMTI1YzRkYTg4MDQ0ZDVm",
   "tracks": [
     {
       "added_at": "2021-07-16 14:31:12",
@@ -459,6 +459,22 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
+        "name": "Peace Or Love",
+        "url": "https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC"
+      },
+      "artists": [
+        {
+          "name": "Kings of Convenience",
+          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
+        }
+      ],
+      "duration_ms": 236372,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/2CioKOaM8dU2VvjYUCNRGx"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
         "name": "South of the Border (feat. Camila Cabello) [Acoustic]",
         "url": "https://open.spotify.com/album/1NXzlVvFqPATxSheVsEVZT"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 194884,
       "name": "South of the Border (feat. Camila Cabello) - Acoustic",
       "url": "https://open.spotify.com/track/6Kzzkq9sFHm51RwhHswCVc"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
-        "name": "Peace Or Love",
-        "url": "https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC"
-      },
-      "artists": [
-        {
-          "name": "Kings of Convenience",
-          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
-        }
-      ],
-      "duration_ms": 236372,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/2CioKOaM8dU2VvjYUCNRGx"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -835,18 +835,18 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Paolo Velera",
-        "url": "https://open.spotify.com/album/3vHWDnKJ7yBYDy5W3D85pC"
+        "name": "When Smoke Rises",
+        "url": "https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw"
       },
       "artists": [
         {
-          "name": "Paolo Velera",
-          "url": "https://open.spotify.com/artist/6IA4Wsjyp72OYkvWlkwyeH"
+          "name": "Mustafa",
+          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
         }
       ],
-      "duration_ms": 206557,
-      "name": "Life on Mars",
-      "url": "https://open.spotify.com/track/2VxuqHEeXHxGMWZN6CqFcT"
+      "duration_ms": 181372,
+      "name": "Stay Alive",
+      "url": "https://open.spotify.com/track/4SwVWcia2JyWFTNHkFZ2tA"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -867,18 +867,18 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "When Smoke Rises",
-        "url": "https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw"
+        "name": "Paolo Velera",
+        "url": "https://open.spotify.com/album/3vHWDnKJ7yBYDy5W3D85pC"
       },
       "artists": [
         {
-          "name": "Mustafa",
-          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
+          "name": "Paolo Velera",
+          "url": "https://open.spotify.com/artist/6IA4Wsjyp72OYkvWlkwyeH"
         }
       ],
-      "duration_ms": 181372,
-      "name": "Stay Alive",
-      "url": "https://open.spotify.com/track/4SwVWcia2JyWFTNHkFZ2tA"
+      "duration_ms": 206557,
+      "name": "Life on Mars",
+      "url": "https://open.spotify.com/track/2VxuqHEeXHxGMWZN6CqFcT"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -931,6 +931,22 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
+        "name": "Happy Now (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3NQLd4nYN0KfiZsU6M3xlm"
+      },
+      "artists": [
+        {
+          "name": "Linn Brikell",
+          "url": "https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu"
+        }
+      ],
+      "duration_ms": 213666,
+      "name": "Happy Now - Acoustic",
+      "url": "https://open.spotify.com/track/3aXsAIpsE1VR9FNvW0V4rU"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
         "name": "Somebody That I Used To Know",
         "url": "https://open.spotify.com/album/2MBa7MBL9N5fACqj1KXmpl"
       },
@@ -947,18 +963,18 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Happy Now (Acoustic Version)",
-        "url": "https://open.spotify.com/album/3NQLd4nYN0KfiZsU6M3xlm"
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/2fYaBSkUVlzK5nTDxLYMZ3"
       },
       "artists": [
         {
-          "name": "Linn Brikell",
-          "url": "https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu"
+          "name": "Powell Sullivan",
+          "url": "https://open.spotify.com/artist/2m1anAOoOQM3Df2j3tNelS"
         }
       ],
-      "duration_ms": 213666,
-      "name": "Happy Now - Acoustic",
-      "url": "https://open.spotify.com/track/3aXsAIpsE1VR9FNvW0V4rU"
+      "duration_ms": 281302,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/7mFKhrFYjNsC2IMHCMzsDg"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -979,22 +995,6 @@
       "duration_ms": 170370,
       "name": "Los Feliz",
       "url": "https://open.spotify.com/track/6qY9VrqsfBeT8Nrc1Yg8jI"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
-        "name": "Perfect",
-        "url": "https://open.spotify.com/album/2fYaBSkUVlzK5nTDxLYMZ3"
-      },
-      "artists": [
-        {
-          "name": "Powell Sullivan",
-          "url": "https://open.spotify.com/artist/2m1anAOoOQM3Df2j3tNelS"
-        }
-      ],
-      "duration_ms": 281302,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/7mFKhrFYjNsC2IMHCMzsDg"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Conc\u00e9ntrica Canci\u00f3n",
-        "url": "https://open.spotify.com/album/4LepOoTd1jPdGdouTPdiYS"
-      },
-      "artists": [
-        {
-          "name": "Alex Cuba",
-          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
-        }
-      ],
-      "duration_ms": 162297,
-      "name": "Conc\u00e9ntrica Canci\u00f3n",
-      "url": "https://open.spotify.com/track/4gSBMIeKcra4fwb9oIXPQt"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
         "name": "Song for Nick Drake",
         "url": "https://open.spotify.com/album/0tD7F0mOkgQliDESDRBLey"
       },
@@ -1375,34 +1359,18 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Heather",
-        "url": "https://open.spotify.com/album/79Dfqa8MfZI5x3mH5uBkA6"
+        "name": "Conc\u00e9ntrica Canci\u00f3n",
+        "url": "https://open.spotify.com/album/4LepOoTd1jPdGdouTPdiYS"
       },
       "artists": [
         {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+          "name": "Alex Cuba",
+          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
         }
       ],
-      "duration_ms": 198007,
-      "name": "Heather - Acoustic",
-      "url": "https://open.spotify.com/track/1J7KtoM0AB2Slp1pK9USJS"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
-        "name": "I Love You Madly EP",
-        "url": "https://open.spotify.com/album/1OLFfUp0dJ4aVItd0EfCyu"
-      },
-      "artists": [
-        {
-          "name": "Irene Diaz",
-          "url": "https://open.spotify.com/artist/1ADOdE5G5ToLJQBP9hv9NF"
-        }
-      ],
-      "duration_ms": 226200,
-      "name": "Crazy Love",
-      "url": "https://open.spotify.com/track/3C4njwEL5bda64vv1JAQt5"
+      "duration_ms": 162297,
+      "name": "Conc\u00e9ntrica Canci\u00f3n",
+      "url": "https://open.spotify.com/track/4gSBMIeKcra4fwb9oIXPQt"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -1427,18 +1395,34 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Wayne Mack",
-        "url": "https://open.spotify.com/album/4rfj34FpgZZvfxUUXda0oU"
+        "name": "I Love You Madly EP",
+        "url": "https://open.spotify.com/album/1OLFfUp0dJ4aVItd0EfCyu"
       },
       "artists": [
         {
-          "name": "Wayne Mack",
-          "url": "https://open.spotify.com/artist/62eR2vdahhu9BuJesGEQCI"
+          "name": "Irene Diaz",
+          "url": "https://open.spotify.com/artist/1ADOdE5G5ToLJQBP9hv9NF"
         }
       ],
-      "duration_ms": 193412,
-      "name": "Everything I wanted",
-      "url": "https://open.spotify.com/track/74DKZHRy9gRJ50JWpe7hQY"
+      "duration_ms": 226200,
+      "name": "Crazy Love",
+      "url": "https://open.spotify.com/track/3C4njwEL5bda64vv1JAQt5"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
+        "name": "Heather",
+        "url": "https://open.spotify.com/album/79Dfqa8MfZI5x3mH5uBkA6"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 198007,
+      "name": "Heather - Acoustic",
+      "url": "https://open.spotify.com/track/1J7KtoM0AB2Slp1pK9USJS"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -1459,6 +1443,22 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
+        "name": "Wayne Mack",
+        "url": "https://open.spotify.com/album/4rfj34FpgZZvfxUUXda0oU"
+      },
+      "artists": [
+        {
+          "name": "Wayne Mack",
+          "url": "https://open.spotify.com/artist/62eR2vdahhu9BuJesGEQCI"
+        }
+      ],
+      "duration_ms": 193412,
+      "name": "Everything I wanted",
+      "url": "https://open.spotify.com/track/74DKZHRy9gRJ50JWpe7hQY"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
         "name": "Voy A Apagar La Luz",
         "url": "https://open.spotify.com/album/7BszH6X5fEBsgNVXXvltvu"
       },
@@ -1471,22 +1471,6 @@
       "duration_ms": 143848,
       "name": "Voy A Apagar La Luz",
       "url": "https://open.spotify.com/track/40duIz5ZiOGr9tjiGHQw80"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
-        "name": "#Acoustic #2",
-        "url": "https://open.spotify.com/album/2yENbnhh873NzrwFmxYMeO"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 180643,
-      "name": "We are Young",
-      "url": "https://open.spotify.com/track/3lmVxRzXSE6Ls94GwWZ5pu"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -1569,6 +1553,22 @@
       "url": "https://open.spotify.com/track/2G0MFuEXoxdDgBjfFXP65I"
     },
     {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
+        "name": "#Acoustic #2",
+        "url": "https://open.spotify.com/album/2yENbnhh873NzrwFmxYMeO"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 180643,
+      "name": "We are Young",
+      "url": "https://open.spotify.com/track/3lmVxRzXSE6Ls94GwWZ5pu"
+    },
+    {
       "added_at": "2023-01-03 01:00:29",
       "album": {
         "name": "Brindo",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Promises",
-        "url": "https://open.spotify.com/album/4vyTdD9HNj9BlOTXgTC4TT"
-      },
-      "artists": [
-        {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/1sJaXDUlF4lz35ee4jUs6J"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
         "name": "No Tears Left To Cry",
         "url": "https://open.spotify.com/album/2QU9UieGw1gfqyyMh2187Y"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 238431,
       "name": "No Tears Left To Cry",
       "url": "https://open.spotify.com/track/4J4JYXUaYLxtKstFyABT5J"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/4vyTdD9HNj9BlOTXgTC4TT"
+      },
+      "artists": [
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/1sJaXDUlF4lz35ee4jUs6J"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -1739,18 +1739,18 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Saudade (Versi\u00f3n Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/5xc4bjwFbmiCkJkgUvIjeG"
+        "name": "Fast Car b/w Fire",
+        "url": "https://open.spotify.com/album/71iDfOWbiVriNL3FnD6fFJ"
       },
       "artists": [
         {
-          "name": "Ale Aguirre",
-          "url": "https://open.spotify.com/artist/4wShOBFUmcgdpWRF5v6KIS"
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
         }
       ],
-      "duration_ms": 238817,
-      "name": "Saudade - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/6bBLBYvXLXDNvpxX6ZcGn0"
+      "duration_ms": 342815,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/6Vjch0N0MK9NZ5piuLZHv1"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -1771,18 +1771,18 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Fast Car b/w Fire",
-        "url": "https://open.spotify.com/album/71iDfOWbiVriNL3FnD6fFJ"
+        "name": "Saudade (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/5xc4bjwFbmiCkJkgUvIjeG"
       },
       "artists": [
         {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+          "name": "Ale Aguirre",
+          "url": "https://open.spotify.com/artist/4wShOBFUmcgdpWRF5v6KIS"
         }
       ],
-      "duration_ms": 342815,
-      "name": "Fast Car",
-      "url": "https://open.spotify.com/track/6Vjch0N0MK9NZ5piuLZHv1"
+      "duration_ms": 238817,
+      "name": "Saudade - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/6bBLBYvXLXDNvpxX6ZcGn0"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Dancing With A Stranger",
-        "url": "https://open.spotify.com/album/40D54vrfgQGY9z8e5OtvLd"
-      },
-      "artists": [
-        {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
-        }
-      ],
-      "duration_ms": 188735,
-      "name": "Dancing With A Stranger",
-      "url": "https://open.spotify.com/track/6YOOCjjIb0pBZXbJjYgUlP"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
         "name": "Downtown (Acoustic Version)",
         "url": "https://open.spotify.com/album/3hj8ZTcYFuTmJqnrmeecKJ"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 204452,
       "name": "Downtown - Acoustic Version",
       "url": "https://open.spotify.com/track/5gxcFdhD5ST4Tyhfepxcke"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
+        "name": "Dancing With A Stranger",
+        "url": "https://open.spotify.com/album/40D54vrfgQGY9z8e5OtvLd"
+      },
+      "artists": [
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "duration_ms": 188735,
+      "name": "Dancing With A Stranger",
+      "url": "https://open.spotify.com/track/6YOOCjjIb0pBZXbJjYgUlP"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -1949,6 +1949,22 @@
       "url": "https://open.spotify.com/track/1rv56nMI7nSrcyqpQqgSQb"
     },
     {
+      "added_at": "2023-01-03 01:00:29",
+      "album": {
+        "name": "CSN",
+        "url": "https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+        }
+      ],
+      "duration_ms": 274040,
+      "name": "Shadow Captain",
+      "url": "https://open.spotify.com/track/7yw2UnCNLPTlPOQaaPHYCN"
+    },
+    {
       "added_at": "2021-07-16 14:31:12",
       "album": {
         "name": "Songs of Dylan",
@@ -1997,38 +2013,6 @@
       "url": "https://open.spotify.com/track/4Ocm5X4MdGoF9cvIGgOe39"
     },
     {
-      "added_at": "2023-01-03 01:00:29",
-      "album": {
-        "name": "CSN",
-        "url": "https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx"
-      },
-      "artists": [
-        {
-          "name": "Crosby, Stills & Nash",
-          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
-        }
-      ],
-      "duration_ms": 274040,
-      "name": "Shadow Captain",
-      "url": "https://open.spotify.com/track/7yw2UnCNLPTlPOQaaPHYCN"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
-        "name": "The Moons Detriment",
-        "url": "https://open.spotify.com/album/40uRLasPxbgmHu5yfueU2m"
-      },
-      "artists": [
-        {
-          "name": "Shannon Lay",
-          "url": "https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "The Moons Detriment",
-      "url": "https://open.spotify.com/track/6dRKRVyjzxa2efBCXZez6R"
-    },
-    {
       "added_at": "2021-07-16 14:31:12",
       "album": {
         "name": "Local Valley",
@@ -2067,18 +2051,18 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Physical (Acoustic)",
-        "url": "https://open.spotify.com/album/4AEHXePpm4bit5V0tm1kax"
+        "name": "The Moons Detriment",
+        "url": "https://open.spotify.com/album/40uRLasPxbgmHu5yfueU2m"
       },
       "artists": [
         {
-          "name": "Victoria Voss",
-          "url": "https://open.spotify.com/artist/2o1DwIg0eMGpA5m6zLLG2I"
+          "name": "Shannon Lay",
+          "url": "https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6"
         }
       ],
-      "duration_ms": 198608,
-      "name": "Physical - Acoustic",
-      "url": "https://open.spotify.com/track/62rpDZFDR3rzC7kNH4cjA1"
+      "duration_ms": 155000,
+      "name": "The Moons Detriment",
+      "url": "https://open.spotify.com/track/6dRKRVyjzxa2efBCXZez6R"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -2099,6 +2083,22 @@
       "duration_ms": 183599,
       "name": "Shape Of My Heart - Acoustic Version",
       "url": "https://open.spotify.com/track/7xAxfKxTaCQ5pz41x2zitm"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
+        "name": "Physical (Acoustic)",
+        "url": "https://open.spotify.com/album/4AEHXePpm4bit5V0tm1kax"
+      },
+      "artists": [
+        {
+          "name": "Victoria Voss",
+          "url": "https://open.spotify.com/artist/2o1DwIg0eMGpA5m6zLLG2I"
+        }
+      ],
+      "duration_ms": 198608,
+      "name": "Physical - Acoustic",
+      "url": "https://open.spotify.com/track/62rpDZFDR3rzC7kNH4cjA1"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -2245,6 +2245,22 @@
       "url": "https://open.spotify.com/track/4zeTSpN6852mqKTFZcUkgc"
     },
     {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
+        "name": "Perfect (Acoustic Guitar)",
+        "url": "https://open.spotify.com/album/7uLOIGQT1VKBQPOaPtlt8a"
+      },
+      "artists": [
+        {
+          "name": "Seth Luke",
+          "url": "https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Perfect - Acoustic Guitar",
+      "url": "https://open.spotify.com/track/4PiaKCDfrFPih8JJW0nyfP"
+    },
+    {
       "added_at": "2023-01-03 01:00:29",
       "album": {
         "name": "Terrace Rain/Grid Search",
@@ -2331,22 +2347,6 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Ransom",
-        "url": "https://open.spotify.com/album/0ZnQWH4dODWvFsYnEYriFb"
-      },
-      "artists": [
-        {
-          "name": "NTMY",
-          "url": "https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR"
-        }
-      ],
-      "duration_ms": 166698,
-      "name": "Ransom",
-      "url": "https://open.spotify.com/track/4XpWM2KLvxXf3Me4kw74Eb"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
         "name": "Old Town Road",
         "url": "https://open.spotify.com/album/5tsNukHkjhrH3RWBA2AVAv"
       },
@@ -2359,6 +2359,22 @@
       "duration_ms": 171866,
       "name": "Old Town Road",
       "url": "https://open.spotify.com/track/6Q1Gvu87DTf9SUkwUeBGGl"
+    },
+    {
+      "added_at": "2021-07-16 14:31:12",
+      "album": {
+        "name": "Ransom",
+        "url": "https://open.spotify.com/album/0ZnQWH4dODWvFsYnEYriFb"
+      },
+      "artists": [
+        {
+          "name": "NTMY",
+          "url": "https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR"
+        }
+      ],
+      "duration_ms": 166698,
+      "name": "Ransom",
+      "url": "https://open.spotify.com/track/4XpWM2KLvxXf3Me4kw74Eb"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -2411,18 +2427,18 @@
     {
       "added_at": "2021-07-16 14:31:12",
       "album": {
-        "name": "Perfect (Acoustic Guitar)",
-        "url": "https://open.spotify.com/album/7uLOIGQT1VKBQPOaPtlt8a"
+        "name": "Runaway (Deluxe)",
+        "url": "https://open.spotify.com/album/0Pvw8yEWsf4LlI8JWMIwC6"
       },
       "artists": [
         {
-          "name": "Seth Luke",
-          "url": "https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5"
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
         }
       ],
-      "duration_ms": 206000,
-      "name": "Perfect - Acoustic Guitar",
-      "url": "https://open.spotify.com/track/4PiaKCDfrFPih8JJW0nyfP"
+      "duration_ms": 220468,
+      "name": "Hell Or High Water",
+      "url": "https://open.spotify.com/track/723ZdKcJ6aqovM1MqOfU2m"
     },
     {
       "added_at": "2021-07-16 14:31:12",
@@ -2439,22 +2455,6 @@
       "duration_ms": 204428,
       "name": "Detalles",
       "url": "https://open.spotify.com/track/3TVMHcgCF8DFVaZpVPgoQq"
-    },
-    {
-      "added_at": "2021-07-16 14:31:12",
-      "album": {
-        "name": "Runaway (Deluxe)",
-        "url": "https://open.spotify.com/album/0Pvw8yEWsf4LlI8JWMIwC6"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 220468,
-      "name": "Hell Or High Water",
-      "url": "https://open.spotify.com/track/723ZdKcJ6aqovM1MqOfU2m"
     },
     {
       "added_at": "2021-07-16 14:31:12",

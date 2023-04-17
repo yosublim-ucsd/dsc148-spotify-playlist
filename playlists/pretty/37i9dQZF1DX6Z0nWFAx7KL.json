@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 30855,
+  "num_followers": 30887,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTMxMjI0MiwwMDAwMDAwMGZhYmQ4ODM2ZGZkOWVhMGJlNjE2MDU1MDNlM2QwNGUy",
+  "snapshot_id": "MTY4MTMxMjI0MiwwMDAwMDAwMDgwMWIzN2E1NDQ0Y2U4MjBhMjIzNTg2ZTYwNzExMWJk",
   "tracks": [
     {
       "added_at": "2023-04-12 15:10:42",
@@ -87,22 +87,6 @@
     {
       "added_at": "2023-04-12 15:10:42",
       "album": {
-        "name": "Sunday Monday",
-        "url": "https://open.spotify.com/album/1Mf0YgXEyGOxKIARtZKWvq"
-      },
-      "artists": [
-        {
-          "name": "Brando",
-          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
-        }
-      ],
-      "duration_ms": 147096,
-      "name": "Sunday Monday",
-      "url": "https://open.spotify.com/track/08D2l1z7iGDMbHbb227ydx"
-    },
-    {
-      "added_at": "2023-04-12 15:10:42",
-      "album": {
         "name": "Hold This Memory",
         "url": "https://open.spotify.com/album/7G39pVt7Ed3PTkC0tHw7QG"
       },
@@ -123,18 +107,18 @@
     {
       "added_at": "2023-04-12 15:10:42",
       "album": {
-        "name": "Thousand Lullabies",
-        "url": "https://open.spotify.com/album/2dItiBT8SSIoydzHmiIMBU"
+        "name": "Sunday Monday",
+        "url": "https://open.spotify.com/album/1Mf0YgXEyGOxKIARtZKWvq"
       },
       "artists": [
         {
-          "name": "Dynoro",
-          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
+          "name": "Brando",
+          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
         }
       ],
-      "duration_ms": 129573,
-      "name": "Thousand Lullabies",
-      "url": "https://open.spotify.com/track/4WRtXqu9TmvvwZ3bzdcCVQ"
+      "duration_ms": 147096,
+      "name": "Sunday Monday",
+      "url": "https://open.spotify.com/track/08D2l1z7iGDMbHbb227ydx"
     },
     {
       "added_at": "2023-04-12 15:10:42",
@@ -155,6 +139,22 @@
       "duration_ms": 158031,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/7sfpydlJrHpTi533idUuZV"
+    },
+    {
+      "added_at": "2023-04-12 15:10:42",
+      "album": {
+        "name": "Thousand Lullabies",
+        "url": "https://open.spotify.com/album/2dItiBT8SSIoydzHmiIMBU"
+      },
+      "artists": [
+        {
+          "name": "Dynoro",
+          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
+        }
+      ],
+      "duration_ms": 129573,
+      "name": "Thousand Lullabies",
+      "url": "https://open.spotify.com/track/4WRtXqu9TmvvwZ3bzdcCVQ"
     },
     {
       "added_at": "2023-04-12 15:10:42",
@@ -287,8 +287,8 @@
     {
       "added_at": "2023-04-12 15:10:42",
       "album": {
-        "name": "Found It With You",
-        "url": "https://open.spotify.com/album/6jqi6Ii1B5N7rODfX2RtlJ"
+        "name": "Hold On Tight",
+        "url": "https://open.spotify.com/album/5YfaJdPhaDcckpYgCdUYPl"
       },
       "artists": [
         {
@@ -296,17 +296,17 @@
           "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
         },
         {
-          "name": "Ali Bakgor",
-          "url": "https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs"
+          "name": "ASTIR",
+          "url": "https://open.spotify.com/artist/321JqFPEsiuwFpSmKwWi2h"
         },
         {
-          "name": "Lewyn",
-          "url": "https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR"
+          "name": "ALSO ASTIR",
+          "url": "https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv"
         }
       ],
-      "duration_ms": 163410,
-      "name": "Found It With You",
-      "url": "https://open.spotify.com/track/1ShSONF1T74kfTEakluK40"
+      "duration_ms": 206384,
+      "name": "Hold On Tight",
+      "url": "https://open.spotify.com/track/03YFjP88VNLZID5o112R3W"
     },
     {
       "added_at": "2023-04-12 15:10:42",
@@ -383,8 +383,8 @@
     {
       "added_at": "2023-04-12 15:10:42",
       "album": {
-        "name": "Hold On Tight",
-        "url": "https://open.spotify.com/album/5YfaJdPhaDcckpYgCdUYPl"
+        "name": "Found It With You",
+        "url": "https://open.spotify.com/album/6jqi6Ii1B5N7rODfX2RtlJ"
       },
       "artists": [
         {
@@ -392,17 +392,17 @@
           "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
         },
         {
-          "name": "ASTIR",
-          "url": "https://open.spotify.com/artist/321JqFPEsiuwFpSmKwWi2h"
+          "name": "Ali Bakgor",
+          "url": "https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs"
         },
         {
-          "name": "ALSO ASTIR",
-          "url": "https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv"
+          "name": "Lewyn",
+          "url": "https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR"
         }
       ],
-      "duration_ms": 206384,
-      "name": "Hold On Tight",
-      "url": "https://open.spotify.com/track/03YFjP88VNLZID5o112R3W"
+      "duration_ms": 163410,
+      "name": "Found It With You",
+      "url": "https://open.spotify.com/track/1ShSONF1T74kfTEakluK40"
     },
     {
       "added_at": "2023-04-12 15:10:42",
@@ -663,6 +663,30 @@
     {
       "added_at": "2023-04-12 15:10:42",
       "album": {
+        "name": "Feel Again",
+        "url": "https://open.spotify.com/album/2uqVgoe1PcKmwx3ihlbevM"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Matoma",
+          "url": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 151820,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/0BLxPjFEOG8G1q8AKLuz3V"
+    },
+    {
+      "added_at": "2023-04-12 15:10:42",
+      "album": {
         "name": "Better Now",
         "url": "https://open.spotify.com/album/223dHoItv1AL15XYaLYzjY"
       },
@@ -699,30 +723,6 @@
       "duration_ms": 175169,
       "name": "Easy On Me",
       "url": "https://open.spotify.com/track/0AJFIWIHpC8W2YUvEFNoAS"
-    },
-    {
-      "added_at": "2023-04-12 15:10:42",
-      "album": {
-        "name": "Feel Again",
-        "url": "https://open.spotify.com/album/2uqVgoe1PcKmwx3ihlbevM"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Matoma",
-          "url": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 151820,
-      "name": "Easy To Love",
-      "url": "https://open.spotify.com/track/0BLxPjFEOG8G1q8AKLuz3V"
     },
     {
       "added_at": "2023-04-12 15:10:42",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-04-12 15:10:42",
       "album": {
-        "name": "In The Sun",
-        "url": "https://open.spotify.com/album/6mY2Yfw2UaryA7F8KherNy"
-      },
-      "artists": [
-        {
-          "name": "Caius",
-          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "In The Sun",
-      "url": "https://open.spotify.com/track/2oOsMm1b1DchtPDNEjLBcm"
-    },
-    {
-      "added_at": "2023-04-12 15:10:42",
-      "album": {
         "name": "Madness",
         "url": "https://open.spotify.com/album/2RKql48vI660saCrq2IHdQ"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 197739,
       "name": "Falling",
       "url": "https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc"
+    },
+    {
+      "added_at": "2023-04-12 15:10:42",
+      "album": {
+        "name": "In The Sun",
+        "url": "https://open.spotify.com/album/6mY2Yfw2UaryA7F8KherNy"
+      },
+      "artists": [
+        {
+          "name": "Caius",
+          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "In The Sun",
+      "url": "https://open.spotify.com/track/2oOsMm1b1DchtPDNEjLBcm"
     },
     {
       "added_at": "2023-04-12 15:10:42",
@@ -1123,22 +1123,22 @@
     {
       "added_at": "2023-04-12 15:10:42",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/6GM324cKBxHB2Hb44u5G8y"
+        "name": "Juno Love",
+        "url": "https://open.spotify.com/album/2sTtx0M9ePDqz3wpDX7L38"
       },
       "artists": [
         {
-          "name": "AVIRA",
-          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
+          "name": "Nico Morano",
+          "url": "https://open.spotify.com/artist/4tgKBxZIclHP0c2Tp8yyyz"
         },
         {
-          "name": "Chris Howard",
-          "url": "https://open.spotify.com/artist/2TuEDoyqgGdr6B5DPqFqX9"
+          "name": "Mewhy",
+          "url": "https://open.spotify.com/artist/2haudpnLQ5Kjt6fplURp31"
         }
       ],
-      "duration_ms": 220644,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/22Gd0aeeTTa5E81i5bJ3FB"
+      "duration_ms": 446585,
+      "name": "Juno Love",
+      "url": "https://open.spotify.com/track/7qC70bOUaH16OI6VXuiqGy"
     },
     {
       "added_at": "2023-04-12 15:10:42",
@@ -1163,22 +1163,22 @@
     {
       "added_at": "2023-04-12 15:10:42",
       "album": {
-        "name": "Juno Love",
-        "url": "https://open.spotify.com/album/2sTtx0M9ePDqz3wpDX7L38"
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/6GM324cKBxHB2Hb44u5G8y"
       },
       "artists": [
         {
-          "name": "Nico Morano",
-          "url": "https://open.spotify.com/artist/4tgKBxZIclHP0c2Tp8yyyz"
+          "name": "AVIRA",
+          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
         },
         {
-          "name": "Mewhy",
-          "url": "https://open.spotify.com/artist/2haudpnLQ5Kjt6fplURp31"
+          "name": "Chris Howard",
+          "url": "https://open.spotify.com/artist/2TuEDoyqgGdr6B5DPqFqX9"
         }
       ],
-      "duration_ms": 446585,
-      "name": "Juno Love",
-      "url": "https://open.spotify.com/track/7qC70bOUaH16OI6VXuiqGy"
+      "duration_ms": 220644,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/22Gd0aeeTTa5E81i5bJ3FB"
     },
     {
       "added_at": "2023-04-12 15:10:42",

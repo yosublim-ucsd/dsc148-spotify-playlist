@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,172 likes - 100 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,193 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 63 | [Holy](https://open.spotify.com/track/6HqUbd3s956kPMGovpL9FI) | [Asami Tono](https://open.spotify.com/artist/5uyECggyaBp2soVsms3MNK) | [Holy](https://open.spotify.com/album/2e8EsnQduWjhDsdmQBBN15) | 2:52 |
 | 64 | [20220302 \- sarabande](https://open.spotify.com/track/7IYrIgIgomCRgXCNkHOXMX) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [12](https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4) | 3:10 |
 | 65 | [ドビュッシー:夢](https://open.spotify.com/track/3x7A5efAHawOPeh3MML8Ge) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Nobuyuki Tsujii](https://open.spotify.com/artist/5JvADyrajwcXaAeqxyDg5j) | [月の光 〜 辻井伸行 plays ドビュッシー](https://open.spotify.com/album/1HoEFHhXkso8pWbFQvyPG7) | 3:47 |
-| 66 | [Shadow In The Storm](https://open.spotify.com/track/5baV4ZFU0mhUVbrcZyv4FD) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Passing](https://open.spotify.com/album/3oPVTRtA5zQKKSgBPlYpzG) | 3:35 |
+| 66 | [Générique de fin](https://open.spotify.com/track/4nAvEP0TxzNPiu710Dl5va) | [Gabriel Yared](https://open.spotify.com/artist/6quKdQHmx2x7FBJwLhmpmB) | [Si tu voyais son cœur \(Bande originale du film\)](https://open.spotify.com/album/5mEahbNaoYS9Mic3KcE1In) | 1:41 |
 | 67 | [Newcastle](https://open.spotify.com/track/1O9v10ruWjTDPdxZ8AfDqt) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [Newcastle](https://open.spotify.com/album/2aa4KLeeVYptVBOWQ3Hbkc) | 5:43 |
-| 68 | [Générique de fin](https://open.spotify.com/track/4nAvEP0TxzNPiu710Dl5va) | [Gabriel Yared](https://open.spotify.com/artist/6quKdQHmx2x7FBJwLhmpmB) | [Si tu voyais son cœur \(Bande originale du film\)](https://open.spotify.com/album/5mEahbNaoYS9Mic3KcE1In) | 1:41 |
+| 68 | [Shadow In The Storm](https://open.spotify.com/track/5baV4ZFU0mhUVbrcZyv4FD) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Passing](https://open.spotify.com/album/3oPVTRtA5zQKKSgBPlYpzG) | 3:35 |
 | 69 | [Berceuse in D\-Flat Major, Op\. 57](https://open.spotify.com/track/54EA2jYguG3h7L5i22NZ8y) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Kotaro Fukuma](https://open.spotify.com/artist/2NXGOKB3pcM9r9W2poWyZK) | [Chopin Legacy](https://open.spotify.com/album/0ybt3QM7jBuI78W9UpkLTN) | 4:43 |
 | 70 | [LAW OF AWAKENING](https://open.spotify.com/track/2ZpaOyC5BtYzVCkWERZqW0) | [Shizuka Kanata](https://open.spotify.com/artist/1b1Iv5ZQQz9VXHOhFe1TCy), [Anzu Suhara](https://open.spotify.com/artist/6u30byKtb0cli6RU2iD1yj), [Junpei Hayashida](https://open.spotify.com/artist/7EFqed0fHG85IGP3XEbGo3), [Kensuke Yamauchi](https://open.spotify.com/artist/06xDUa8BpV0lfRPwWxBr15) | [LAW OF AWAKENING](https://open.spotify.com/album/7JWMMfWgw4fPYXm0cpWwgC) | 4:32 |
 | 71 | [Turbines/Pigs \- Live at Bush Hall](https://open.spotify.com/track/626DiLKaEAoQfJ7YLdjcaF) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Live at Bush Hall](https://open.spotify.com/album/1w7YBHqXz6UfLrVur8JAcW) | 9:46 |
@@ -93,20 +93,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 83 | [Clouds Over Bourbon Street](https://open.spotify.com/track/6IoVv51HuCcifPmHY7VdCb) | [Dnoir](https://open.spotify.com/artist/68SVqaQHSh7L6xsSMd5L5S) | [Clouds Over Bourbon Street](https://open.spotify.com/album/2ATy8fff9LsMoZb6mEsxu9) | 3:18 |
 | 84 | [Free In The Knowledge](https://open.spotify.com/track/0p8esvsm33EFp9iABb8wH9) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 4:12 |
 | 85 | [Starting Again](https://open.spotify.com/track/1WRwWWwaxm9zJKysz91T31) | [Timaeus](https://open.spotify.com/artist/5DWCBR1B1PkfYbWtGq9wLT) | [Starting Again](https://open.spotify.com/album/6f2umrRIEGBL3e5JcPoaT3) | 3:52 |
-| 86 | [Faisal \(London Bridge Station\)](https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 Piano EP \(February 2 \- October 15 2021\)](https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3) | 5:09 |
+| 86 | [a new romance](https://open.spotify.com/track/0LGbC0S4fcUIcaEk08Hc8r) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Néo\-Romance](https://open.spotify.com/album/0Uv7rvKUVNnEUOBkKyF1Q1) | 3:10 |
 | 87 | [By Night](https://open.spotify.com/track/4Hmg3T2TbcDfdOtj46dlqW) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [88 Keys](https://open.spotify.com/album/2TayNgXuzr6cjgzZ885R0g) | 1:40 |
 | 88 | [I'll take it](https://open.spotify.com/track/4AHLzWKtDb1eBIdHpOCOmz) | [LMYK](https://open.spotify.com/artist/7a2CrMd3xwcZDDC39OKUGg) | [DESSERTS](https://open.spotify.com/album/4fPMQPu5tsW7LxXrunroaD) | 3:28 |
 | 89 | [Spring Breeze](https://open.spotify.com/track/3PRkIiBuWU9jBZ04OWdQor) | [Seiji Igusa](https://open.spotify.com/artist/502q2lnpYtPkzMHyIpBABO) | [Spring Breeze](https://open.spotify.com/album/3Zg2jV3fqKlwEoEQSM6Sg0) | 2:52 |
 | 90 | [7 O'clock Clap](https://open.spotify.com/track/2XcFTsrCoFarJErjxaaYm9) | [Arthur Moon](https://open.spotify.com/artist/5iDcZ7vN17Cq55AbEqy0aC) | [7 O'clock Clap](https://open.spotify.com/album/4QqtF1Jw2lyD2JzKDGL0d4) | 2:34 |
-| 91 | [a new romance](https://open.spotify.com/track/0LGbC0S4fcUIcaEk08Hc8r) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Néo\-Romance](https://open.spotify.com/album/0Uv7rvKUVNnEUOBkKyF1Q1) | 3:10 |
+| 91 | [Faisal \(London Bridge Station\)](https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 Piano EP \(February 2 \- October 15 2021\)](https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3) | 5:09 |
 | 92 | [Love Song](https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Love Song](https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH) | 2:51 |
 | 93 | [Fix You](https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fix You](https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC) | 2:21 |
 | 94 | [Henry St.](https://open.spotify.com/track/70Ov0iAmFVnXsYQcQTP6AI) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Henry St.](https://open.spotify.com/album/5Y4VdmDCTKCFR1LXXL6SiN) | 4:29 |
 | 95 | [Ieta](https://open.spotify.com/track/7zgizTrRXUNJ67FRxKElml) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Ieta](https://open.spotify.com/album/5mbez8ICuEDgkSgmbCy899) | 3:19 |
 | 96 | [Sundays \- Just Piano Version](https://open.spotify.com/track/7hZnAqzJGdz58gS4XxRowB) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Just Piano](https://open.spotify.com/album/4zSVdjoEqSm18A6nkdLDyH) | 3:32 |
 | 97 | [Ascent](https://open.spotify.com/track/3Ygq0ec3IlNfBUCGW566Cx) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Ascent](https://open.spotify.com/album/3BqwGeDppomPKBHDO3Vkmj) | 2:12 |
-| 98 | [春よ、来い](https://open.spotify.com/track/6Omwpwl7DMVCgvyzdZJoYX) | [Shinya Kiyozuka](https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2) | [KIYOZUKA](https://open.spotify.com/album/6YsvJRT1Bhs3mOZuy6PqDQ) | 1:16 |
-| 99 | [Bye for now,](https://open.spotify.com/track/4Y9QwoUwo9blH9R9C5DCnk) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD) | 3:50 |
-| 100 | [TREE](https://open.spotify.com/track/5nW41zamR8GqKYUxvxo12d) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [TREE](https://open.spotify.com/album/3YW20Fu5fMy01J2EY4Dlav) | 4:38 |
+| 98 | [glued to the floor](https://open.spotify.com/track/20Y7AHrMDTxzOxMfw0jCv5) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [glued to the floor](https://open.spotify.com/album/0kA1PVu4d8eMmN0kc7EL9o) | 2:18 |
+| 99 | [春よ、来い](https://open.spotify.com/track/6Omwpwl7DMVCgvyzdZJoYX) | [Shinya Kiyozuka](https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2) | [KIYOZUKA](https://open.spotify.com/album/6YsvJRT1Bhs3mOZuy6PqDQ) | 1:16 |
+| 100 | [Bye for now,](https://open.spotify.com/track/4Y9QwoUwo9blH9R9C5DCnk) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD) | 3:50 |
 
-Snapshot ID: `MTY4MTM5ODAwMCwwMDAwMDAwMGZiMmI5MjZkYjVmYjYzMjhlMjE2Y2YzYzk2N2EzZGEz`
+Snapshot ID: `MTY4MTM5ODAwMCwwMDAwMDAwMGQyZDUyYTRmNDk4NmYwNzRkYTIzZGZjODFmMzY4NGQy`

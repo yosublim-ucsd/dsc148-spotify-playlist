@@ -1,12 +1,12 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 346136,
+  "num_followers": 346354,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTUyMTczNSwwMDAwMDAwMDRjY2U1ZDRkZWUwOTcxZDJlNGY2OWZlMjE1ODk2YzEy",
+  "snapshot_id": "MTY4MTUyMTczNSwwMDAwMDAwMGU4NGVmM2QxZmU1ZWI2YWQ4MDIyNWI2ZTQxY2RhNGRj",
   "tracks": [
     {
       "added_at": "2023-04-15 01:22:15",
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-04-15 01:22:15",
       "album": {
+        "name": "Quiet Eyes",
+        "url": "https://open.spotify.com/album/1KnEqKgjw9ryJcHvIgKHL0"
+      },
+      "artists": [
+        {
+          "name": "Davignon",
+          "url": "https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE"
+        }
+      ],
+      "duration_ms": 141451,
+      "name": "Quiet Eyes",
+      "url": "https://open.spotify.com/track/2oafUifmaR1uBS3o9o7uLO"
+    },
+    {
+      "added_at": "2023-04-15 01:22:15",
+      "album": {
         "name": "Nowesind",
         "url": "https://open.spotify.com/album/0nz4s5aDqAOYKdbogoo15X"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 143920,
       "name": "Benediction",
       "url": "https://open.spotify.com/track/0vebajCQqWh9EQ5wAYguqo"
-    },
-    {
-      "added_at": "2023-04-15 01:22:15",
-      "album": {
-        "name": "Quiet Eyes",
-        "url": "https://open.spotify.com/album/1KnEqKgjw9ryJcHvIgKHL0"
-      },
-      "artists": [
-        {
-          "name": "Davignon",
-          "url": "https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE"
-        }
-      ],
-      "duration_ms": 141451,
-      "name": "Quiet Eyes",
-      "url": "https://open.spotify.com/track/2oafUifmaR1uBS3o9o7uLO"
     },
     {
       "added_at": "2023-04-15 01:22:15",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-04-15 01:22:15",
       "album": {
-        "name": "fields of forever (sleep rework)",
-        "url": "https://open.spotify.com/album/2qYKIfapv7QBqNvZzzAOHS"
-      },
-      "artists": [
-        {
-          "name": "Chad Lawson",
-          "url": "https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8"
-        }
-      ],
-      "duration_ms": 221702,
-      "name": "Lawson: fields of forever - sleep rework",
-      "url": "https://open.spotify.com/track/1g3qZv1GGqwMBrXzogTpTx"
-    },
-    {
-      "added_at": "2023-04-15 01:22:15",
-      "album": {
         "name": "The Blue Notebooks (15 Years)",
         "url": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo"
       },
@@ -815,34 +799,18 @@
     {
       "added_at": "2023-04-15 01:22:15",
       "album": {
-        "name": "Twilights",
-        "url": "https://open.spotify.com/album/5gjIbZAtznmk77DLADIGFY"
+        "name": "fields of forever (sleep rework)",
+        "url": "https://open.spotify.com/album/2qYKIfapv7QBqNvZzzAOHS"
       },
       "artists": [
         {
-          "name": "Mirta da Silva",
-          "url": "https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj"
+          "name": "Chad Lawson",
+          "url": "https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8"
         }
       ],
-      "duration_ms": 137647,
-      "name": "Twilights",
-      "url": "https://open.spotify.com/track/10qZCmeusg6BbdHDTMADpr"
-    },
-    {
-      "added_at": "2023-04-15 01:22:15",
-      "album": {
-        "name": "Midsommarnatt",
-        "url": "https://open.spotify.com/album/3MGHKETrexY8Hl5lgry1uH"
-      },
-      "artists": [
-        {
-          "name": "Christian Peterson-Bergling",
-          "url": "https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH"
-        }
-      ],
-      "duration_ms": 176557,
-      "name": "Sommarvals",
-      "url": "https://open.spotify.com/track/0tL0JB08d5De5zBko245Y8"
+      "duration_ms": 221702,
+      "name": "Lawson: fields of forever - sleep rework",
+      "url": "https://open.spotify.com/track/1g3qZv1GGqwMBrXzogTpTx"
     },
     {
       "added_at": "2023-04-15 01:22:15",
@@ -879,6 +847,38 @@
     {
       "added_at": "2023-04-15 01:22:15",
       "album": {
+        "name": "Twilights",
+        "url": "https://open.spotify.com/album/5gjIbZAtznmk77DLADIGFY"
+      },
+      "artists": [
+        {
+          "name": "Mirta da Silva",
+          "url": "https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj"
+        }
+      ],
+      "duration_ms": 137647,
+      "name": "Twilights",
+      "url": "https://open.spotify.com/track/10qZCmeusg6BbdHDTMADpr"
+    },
+    {
+      "added_at": "2023-04-15 01:22:15",
+      "album": {
+        "name": "Midsommarnatt",
+        "url": "https://open.spotify.com/album/3MGHKETrexY8Hl5lgry1uH"
+      },
+      "artists": [
+        {
+          "name": "Christian Peterson-Bergling",
+          "url": "https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH"
+        }
+      ],
+      "duration_ms": 176557,
+      "name": "Sommarvals",
+      "url": "https://open.spotify.com/track/0tL0JB08d5De5zBko245Y8"
+    },
+    {
+      "added_at": "2023-04-15 01:22:15",
+      "album": {
         "name": "piano room",
         "url": "https://open.spotify.com/album/065gbiFR9Km7J1hQATfXtG"
       },
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-04-15 01:22:15",
       "album": {
-        "name": "Winterfall",
-        "url": "https://open.spotify.com/album/3dvaINV7eEgY6dPr5QVsvX"
-      },
-      "artists": [
-        {
-          "name": "Eric Ville de Soins",
-          "url": "https://open.spotify.com/artist/2KBG6OYKx3h3gyGCXNkVFj"
-        }
-      ],
-      "duration_ms": 159124,
-      "name": "Winterfall",
-      "url": "https://open.spotify.com/track/5Ooy87HjMYRxy5qiRNsilk"
-    },
-    {
-      "added_at": "2023-04-15 01:22:15",
-      "album": {
         "name": "If You Should Go",
         "url": "https://open.spotify.com/album/42aYTFmSW7WVfrgLJMgkvP"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 147936,
       "name": "Mid Air",
       "url": "https://open.spotify.com/track/5O3UGMP9XJLbshKKZHsrGN"
+    },
+    {
+      "added_at": "2023-04-15 01:22:15",
+      "album": {
+        "name": "Winterfall",
+        "url": "https://open.spotify.com/album/3dvaINV7eEgY6dPr5QVsvX"
+      },
+      "artists": [
+        {
+          "name": "Eric Ville de Soins",
+          "url": "https://open.spotify.com/artist/2KBG6OYKx3h3gyGCXNkVFj"
+        }
+      ],
+      "duration_ms": 159124,
+      "name": "Winterfall",
+      "url": "https://open.spotify.com/track/5Ooy87HjMYRxy5qiRNsilk"
     },
     {
       "added_at": "2023-04-15 01:22:15",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-04-15 01:22:15",
       "album": {
+        "name": "The Meadows \u8349\u5730",
+        "url": "https://open.spotify.com/album/5zPdjtWqbv8DUKFdXx2xAE"
+      },
+      "artists": [
+        {
+          "name": "Li Zemin",
+          "url": "https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA"
+        }
+      ],
+      "duration_ms": 170737,
+      "name": "The Meadows \u8349\u5730",
+      "url": "https://open.spotify.com/track/7hb7SEHUZXGA6O3ZZBoQGn"
+    },
+    {
+      "added_at": "2023-04-15 01:22:15",
+      "album": {
         "name": "Together Again",
         "url": "https://open.spotify.com/album/0qofCh2DmusIXaW9m7Fo6X"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 117800,
       "name": "Delightful",
       "url": "https://open.spotify.com/track/6WRGJsfwcYjyOtzgpyizPV"
-    },
-    {
-      "added_at": "2023-04-15 01:22:15",
-      "album": {
-        "name": "The Meadows \u8349\u5730",
-        "url": "https://open.spotify.com/album/5zPdjtWqbv8DUKFdXx2xAE"
-      },
-      "artists": [
-        {
-          "name": "Li Zemin",
-          "url": "https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA"
-        }
-      ],
-      "duration_ms": 170737,
-      "name": "The Meadows \u8349\u5730",
-      "url": "https://open.spotify.com/track/7hb7SEHUZXGA6O3ZZBoQGn"
     },
     {
       "added_at": "2023-04-15 01:22:15",
@@ -1183,6 +1183,38 @@
     {
       "added_at": "2023-04-15 01:22:15",
       "album": {
+        "name": "Inside \u5185",
+        "url": "https://open.spotify.com/album/4TDd4IzvZNsSanj4HxiAU6"
+      },
+      "artists": [
+        {
+          "name": "Li Zemin",
+          "url": "https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA"
+        }
+      ],
+      "duration_ms": 116718,
+      "name": "Inside \u5185",
+      "url": "https://open.spotify.com/track/1fFH5FN5xZx2WT2dBXm4qx"
+    },
+    {
+      "added_at": "2023-04-15 01:22:15",
+      "album": {
+        "name": "This Tender Appeal",
+        "url": "https://open.spotify.com/album/6mXWQfXOEZCFfEcYwC74qH"
+      },
+      "artists": [
+        {
+          "name": "Allysium",
+          "url": "https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin"
+        }
+      ],
+      "duration_ms": 168498,
+      "name": "This Tender Appeal",
+      "url": "https://open.spotify.com/track/3RI7rnK1YgmyRcXq9pkMqQ"
+    },
+    {
+      "added_at": "2023-04-15 01:22:15",
+      "album": {
         "name": "Periferi",
         "url": "https://open.spotify.com/album/1hlrScthcnYasjcFUZk5Ca"
       },
@@ -1227,22 +1259,6 @@
       "duration_ms": 148906,
       "name": "Hideaway",
       "url": "https://open.spotify.com/track/2HwCcCi8Up9NECNBRt0yTV"
-    },
-    {
-      "added_at": "2023-04-15 01:22:15",
-      "album": {
-        "name": "Inside \u5185",
-        "url": "https://open.spotify.com/album/4TDd4IzvZNsSanj4HxiAU6"
-      },
-      "artists": [
-        {
-          "name": "Li Zemin",
-          "url": "https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA"
-        }
-      ],
-      "duration_ms": 116718,
-      "name": "Inside \u5185",
-      "url": "https://open.spotify.com/track/1fFH5FN5xZx2WT2dBXm4qx"
     },
     {
       "added_at": "2023-04-15 01:22:15",
@@ -1327,22 +1343,6 @@
     {
       "added_at": "2023-04-15 01:22:15",
       "album": {
-        "name": "This Tender Appeal",
-        "url": "https://open.spotify.com/album/6mXWQfXOEZCFfEcYwC74qH"
-      },
-      "artists": [
-        {
-          "name": "Allysium",
-          "url": "https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin"
-        }
-      ],
-      "duration_ms": 168498,
-      "name": "This Tender Appeal",
-      "url": "https://open.spotify.com/track/3RI7rnK1YgmyRcXq9pkMqQ"
-    },
-    {
-      "added_at": "2023-04-15 01:22:15",
-      "album": {
         "name": "Je m'amoure de cette sensation",
         "url": "https://open.spotify.com/album/43fbFte7qzVb4OGBl0wTK8"
       },
@@ -1371,6 +1371,22 @@
       "duration_ms": 176000,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/38IQW5WbKIQwSDsMQPMLSk"
+    },
+    {
+      "added_at": "2023-04-15 01:22:15",
+      "album": {
+        "name": "Through The Blue (Piano Version)",
+        "url": "https://open.spotify.com/album/3Qq8Z12Xl0i4mWhwNljTFx"
+      },
+      "artists": [
+        {
+          "name": "Roger Eno",
+          "url": "https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo"
+        }
+      ],
+      "duration_ms": 225494,
+      "name": "Through The Blue - Piano Version",
+      "url": "https://open.spotify.com/track/5gbZe9oyXXQDMLXFGsR4YC"
     },
     {
       "added_at": "2023-04-15 01:22:15",
@@ -1407,22 +1423,6 @@
     {
       "added_at": "2023-04-15 01:22:15",
       "album": {
-        "name": "Untold Stories",
-        "url": "https://open.spotify.com/album/59nquXEWI0QEkmcdxz3wD3"
-      },
-      "artists": [
-        {
-          "name": "Josh Kramer",
-          "url": "https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG"
-        }
-      ],
-      "duration_ms": 182836,
-      "name": "Untold Stories",
-      "url": "https://open.spotify.com/track/5opvuJQY6nSCwA0Wj42yC9"
-    },
-    {
-      "added_at": "2023-04-15 01:22:15",
-      "album": {
         "name": "Azure",
         "url": "https://open.spotify.com/album/5IrqwVDmVO3cLqOzCc5dRG"
       },
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2023-04-15 01:22:15",
       "album": {
-        "name": "Through The Blue (Piano Version)",
-        "url": "https://open.spotify.com/album/3Qq8Z12Xl0i4mWhwNljTFx"
+        "name": "Coulant",
+        "url": "https://open.spotify.com/album/2yVjc4mMxopxCDyPDBP1Iq"
       },
       "artists": [
         {
-          "name": "Roger Eno",
-          "url": "https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo"
+          "name": "Les R\u00eaveries",
+          "url": "https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O"
         }
       ],
-      "duration_ms": 225494,
-      "name": "Through The Blue - Piano Version",
-      "url": "https://open.spotify.com/track/5gbZe9oyXXQDMLXFGsR4YC"
+      "duration_ms": 148500,
+      "name": "Coulant",
+      "url": "https://open.spotify.com/track/445KHitEvap0tspDZ3C78V"
     },
     {
       "added_at": "2023-04-15 01:22:15",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-04-15 01:22:15",
       "album": {
-        "name": "Coulant",
-        "url": "https://open.spotify.com/album/2yVjc4mMxopxCDyPDBP1Iq"
-      },
-      "artists": [
-        {
-          "name": "Les R\u00eaveries",
-          "url": "https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O"
-        }
-      ],
-      "duration_ms": 148500,
-      "name": "Coulant",
-      "url": "https://open.spotify.com/track/445KHitEvap0tspDZ3C78V"
-    },
-    {
-      "added_at": "2023-04-15 01:22:15",
-      "album": {
         "name": "Tr\u00e4umerei",
         "url": "https://open.spotify.com/album/08ACq6XiMkbZr3pouk4piJ"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 127250,
       "name": "Tr\u00e4umerei",
       "url": "https://open.spotify.com/track/5vz0Vls8TbtlI58CHQrIpb"
+    },
+    {
+      "added_at": "2023-04-15 01:22:15",
+      "album": {
+        "name": "Untold Stories",
+        "url": "https://open.spotify.com/album/59nquXEWI0QEkmcdxz3wD3"
+      },
+      "artists": [
+        {
+          "name": "Josh Kramer",
+          "url": "https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG"
+        }
+      ],
+      "duration_ms": 182836,
+      "name": "Untold Stories",
+      "url": "https://open.spotify.com/track/5opvuJQY6nSCwA0Wj42yC9"
     },
     {
       "added_at": "2023-04-15 01:22:15",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2023-04-15 01:22:15",
       "album": {
-        "name": "Remembrance",
-        "url": "https://open.spotify.com/album/18AmlmJCgCIBEXpFhKAvce"
+        "name": "Never Let You Go",
+        "url": "https://open.spotify.com/album/1FIwOBM5t5dIuJNXH5VaPT"
       },
       "artists": [
         {
-          "name": "Miriam Raye",
-          "url": "https://open.spotify.com/artist/3zpg5vjPLd2G5hQGaCuTS2"
+          "name": "Junie Graziano",
+          "url": "https://open.spotify.com/artist/3X2b9Hkj2Rk6gnPq8Lv9QT"
         }
       ],
-      "duration_ms": 191980,
-      "name": "Remembrance",
-      "url": "https://open.spotify.com/track/6stVkYBRCRAL6Eqomde583"
+      "duration_ms": 114232,
+      "name": "Never Let You Go",
+      "url": "https://open.spotify.com/track/4p1twb8bM9ZmWE2msuH8E8"
     }
   ],
   "unique_name": "Coffee and Piano",

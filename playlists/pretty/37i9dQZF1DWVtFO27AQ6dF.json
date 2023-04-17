@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica motivacional para quemar esa hamburguesa que comiste el finde.",
-  "num_followers": 286893,
+  "num_followers": 287003,
   "original_name": "Maldita Hamburguesa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODk5MTA1NCwwMDAwMDAwMDA4ZGQ3OTkxMmQ1M2Q1OTFlOTRmMTM3ZDQ5ZTg0Yzcy",
+  "snapshot_id": "MTY3ODk5MTA1NCwwMDAwMDAwMDlkM2YxMzU1NGI4MTM0NTBhZTk4OGQyYTY2NGYwZWVh",
   "tracks": [
     {
       "added_at": "2022-07-05 18:22:49",
@@ -203,18 +203,18 @@
     {
       "added_at": "2022-07-05 18:22:49",
       "album": {
-        "name": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
-        "url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
+        "name": "Outlandos D'Amour (Remastered 2003)",
+        "url": "https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf"
       },
       "artists": [
         {
-          "name": "Rage Against The Machine",
-          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
         }
       ],
-      "duration_ms": 313573,
-      "name": "Killing In The Name",
-      "url": "https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp"
+      "duration_ms": 191946,
+      "name": "Roxanne",
+      "url": "https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo"
     },
     {
       "added_at": "2022-07-05 18:22:49",
@@ -235,18 +235,18 @@
     {
       "added_at": "2022-07-05 18:22:49",
       "album": {
-        "name": "Outlandos D'Amour (Remastered 2003)",
-        "url": "https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf"
+        "name": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+        "url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
       },
       "artists": [
         {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+          "name": "Rage Against The Machine",
+          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
         }
       ],
-      "duration_ms": 191946,
-      "name": "Roxanne",
-      "url": "https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo"
+      "duration_ms": 313573,
+      "name": "Killing In The Name",
+      "url": "https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp"
     },
     {
       "added_at": "2022-07-05 18:22:49",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-07-05 18:22:49",
       "album": {
-        "name": "Vulgar Display of Power",
-        "url": "https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 315120,
-      "name": "Walk",
-      "url": "https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR"
-    },
-    {
-      "added_at": "2022-07-05 18:22:49",
-      "album": {
         "name": "1984 (Remastered)",
         "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 210226,
       "name": "Panama - 2015 Remaster",
       "url": "https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS"
+    },
+    {
+      "added_at": "2022-07-05 18:22:49",
+      "album": {
+        "name": "Vulgar Display of Power",
+        "url": "https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 315120,
+      "name": "Walk",
+      "url": "https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR"
     },
     {
       "added_at": "2022-07-05 18:22:49",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-07-05 18:22:49",
       "album": {
-        "name": "Paranoid (Remaster)",
-        "url": "https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7"
-      },
-      "artists": [
-        {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
-        }
-      ],
-      "duration_ms": 168405,
-      "name": "Paranoid - 2012 - Remaster",
-      "url": "https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc"
-    },
-    {
-      "added_at": "2022-07-05 18:22:49",
-      "album": {
         "name": "The Game (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 214653,
       "name": "Another One Bites The Dust - Remastered 2011",
       "url": "https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J"
+    },
+    {
+      "added_at": "2022-07-05 18:22:49",
+      "album": {
+        "name": "Paranoid (Remaster)",
+        "url": "https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "duration_ms": 168405,
+      "name": "Paranoid - 2012 - Remaster",
+      "url": "https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc"
     },
     {
       "added_at": "2022-07-05 18:22:49",
@@ -955,18 +955,18 @@
     {
       "added_at": "2022-07-05 18:22:49",
       "album": {
-        "name": "Use Your Illusion II",
-        "url": "https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C"
+        "name": "Disraeli Gears (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3W6CI0Lw7lElAPID2Fd3B4"
       },
       "artists": [
         {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
         }
       ],
-      "duration_ms": 343640,
-      "name": "You Could Be Mine",
-      "url": "https://open.spotify.com/track/0dlTGl67UFWcKupzkxZYOn"
+      "duration_ms": 250400,
+      "name": "Sunshine Of Your Love",
+      "url": "https://open.spotify.com/track/2K2M0TcglCRLLpFOzKeFZA"
     }
   ],
   "unique_name": "Maldita Hamburguesa",

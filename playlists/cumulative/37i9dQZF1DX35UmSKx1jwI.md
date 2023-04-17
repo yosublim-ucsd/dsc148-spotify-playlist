@@ -4,7 +4,7 @@
 
 > Feel good, high energy beats to keep you motivated for that every day workout!
 
-72 songs - 3 hr 59 min
+73 songs - 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Power](https://open.spotify.com/track/4CVOUJki8YUWol3jhLphgs) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Power](https://open.spotify.com/album/4G19LdhYXHY60QJepiSVbE) | 2:28 | 2019-05-21 |  |
 | [Power \(Remember Who You Are\) \- From The Flipper’s Skate Heist Short Film](https://open.spotify.com/track/7vQYsdVQMbB8d8DSxtHSgr) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Power \(Remember Who You Are\) \[From The Flipper’s Skate Heist Short Film\]](https://open.spotify.com/album/0U8rhl69WPOU67DqFhjPaq) | 3:25 | 2022-09-13 | 2023-01-24 |
 | [Prayer in C \- Robin Schulz Radio Edit](https://open.spotify.com/track/5fnA9mkIfScSqHIpeDyvck) | [Lilly Wood and The Prick](https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Prayer in C](https://open.spotify.com/album/6Ps0kbvAjuz75uK0uuZzWa) | 3:09 | 2018-09-19 |  |
-| [Pretty Please](https://open.spotify.com/track/5Rse8If81NbzXL1ARjHOTB) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Pretty Please](https://open.spotify.com/album/6ytnDl9t7n1ROdtbVzK7Kb) | 2:25 | 2020-09-07 |  |
+| [Pretty Please](https://open.spotify.com/track/5Rse8If81NbzXL1ARjHOTB) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Pretty Please](https://open.spotify.com/album/6ytnDl9t7n1ROdtbVzK7Kb) | 2:25 | 2020-09-07 | 2023-04-17 |
 | [Purple Hat](https://open.spotify.com/track/0bGH7ezs7WdDwpqnsvGf1z) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Purple Hat](https://open.spotify.com/album/4L9MrIcjiPN4luIoWP8XgG) | 2:58 | 2020-03-03 | 2022-12-14 |
 | [Purple Hat](https://open.spotify.com/track/4QVWoXs0dGVqZAZT6MPNVl) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [DANCING ON THE PEOPLE](https://open.spotify.com/album/2tkR7vg5l9QJRmHVXZ76sK) | 2:58 | 2020-03-03 |  |
 | [Ride It](https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev) | [Ride It](https://open.spotify.com/album/4zOhjJfe0dwqsNdDYk622E) | 2:37 | 2019-09-24 |  |
@@ -76,6 +76,7 @@
 | [The Business](https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [The Business](https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm) | 2:44 | 2021-09-30 |  |
 | [The Call](https://open.spotify.com/track/2iI556oF2qwtac9r1RzrXo) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Louis Leibfried](https://open.spotify.com/artist/0t9nu4uUtGK24BUkWa5b4R), [Edda Hayes](https://open.spotify.com/artist/0zJa53LLSg4TcZ5Lm4zFB8) | [The Call](https://open.spotify.com/album/5cjMwrHxN5kcvVTVfBntNV) | 3:42 | 2022-01-07 |  |
 | [Turn Me On \(feat\. Vula\)](https://open.spotify.com/track/0qaWEvPkts34WF68r8Dzx9) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Vula](https://open.spotify.com/artist/6YqhcZlSE8ugUcmoHLw9gz) | [Turn Me On \(feat\. Vula\)](https://open.spotify.com/album/7mtnp7B5yFt3D3PAznGzc8) | 3:28 | 2019-11-18 |  |
+| [Upside Down \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/2UDycsru4dEa1UFmyIvKYU) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Upside Down \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/2FmCevNKGGSYOa9uCuXydm) | 2:54 | 2023-04-13 |  |
 | [Waves \- Robin Schulz Radio Edit](https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Waves \(Robin Schulz Radio Edit\)](https://open.spotify.com/album/29RpLEpfNr1mnrnmtbO620) | 3:28 | 2018-09-19 |  |
 | [Won’t Stand Down](https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Won’t Stand Down](https://open.spotify.com/album/3bbeAIMaGSW6gUMeGqw5VS) | 3:29 | 2022-02-10 | 2023-02-20 |
 | [You Little Beauty](https://open.spotify.com/track/1gRQxbfL4ULWyTosgXSbWT) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [You Little Beauty](https://open.spotify.com/album/1voOnpa4pILlDPVsrIFl8b) | 3:26 | 2019-05-16 |  |

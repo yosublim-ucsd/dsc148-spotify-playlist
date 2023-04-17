@@ -1,12 +1,12 @@
 {
   "description": "El amor no se escucha, se siente...",
-  "num_followers": 487442,
+  "num_followers": 487636,
   "original_name": "Radio Coraz\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI5MDkwNywwMDAwMDAwMDQzMmQwNDcwMzVlNTJiYjY3ZTFlMWViMGZhNjBiNTM3",
+  "snapshot_id": "MTY4MDI5MDkwNywwMDAwMDAwMGMxYTA0Y2M2YjUyOGJiYjNhOTAzNTQ0M2Y1NjliYzkw",
   "tracks": [
     {
       "added_at": "2023-02-23 02:07:34",
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/28UP90XhjCovLtieduYr9P"
     },
     {
-      "added_at": "2023-04-16 00:49:01",
+      "added_at": "2023-04-17 00:13:03",
       "album": {
         "name": "Fugitivos",
         "url": "https://open.spotify.com/album/4ep9KHgO8WKp7ZEI3NoDTe"
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH"
     },
     {
-      "added_at": "2023-04-16 00:49:01",
+      "added_at": "2023-04-17 00:13:03",
       "album": {
         "name": "Flores",
         "url": "https://open.spotify.com/album/5rIabQTit12SrvdQKdNaiS"
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12"
     },
     {
-      "added_at": "2023-04-16 00:49:01",
+      "added_at": "2023-04-17 00:13:03",
       "album": {
         "name": "Qu\u00e9 Suerte",
         "url": "https://open.spotify.com/album/2e1pigjsm0n9gxjum8jQg6"
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/4Ofg5uuH7qqDIXpAJMpXZV"
     },
     {
-      "added_at": "2023-04-16 00:49:01",
+      "added_at": "2023-04-17 00:13:03",
       "album": {
         "name": "Me Acuerdo De Ti",
         "url": "https://open.spotify.com/album/1pJvqBTjliDkW7EUzEUO7Y"
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-02-23 02:07:34",
       "album": {
-        "name": "Primera Fila (En Vivo)",
-        "url": "https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 225480,
-      "name": "Amigos No por Favor (Primera Fila) - En Vivo",
-      "url": "https://open.spotify.com/track/2hyAEExgoEfxrVJKUJTqZV"
-    },
-    {
-      "added_at": "2023-02-23 02:07:34",
-      "album": {
         "name": "Si",
         "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 239226,
       "name": "Lento",
       "url": "https://open.spotify.com/track/2NsMwNWumJXCdTg2IZCLZ5"
+    },
+    {
+      "added_at": "2023-02-23 02:07:34",
+      "album": {
+        "name": "Primera Fila (En Vivo)",
+        "url": "https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 225480,
+      "name": "Amigos No por Favor (Primera Fila) - En Vivo",
+      "url": "https://open.spotify.com/track/2hyAEExgoEfxrVJKUJTqZV"
     },
     {
       "added_at": "2023-02-23 02:07:34",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-02-23 02:07:34",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/2FQeikDvH8PH7JhunCQ6j1"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
-        }
-      ],
-      "duration_ms": 218760,
-      "name": "La Mujer Que No So\u00f1\u00e9",
-      "url": "https://open.spotify.com/track/2rgH6C08H3J2AWlckoG9Vm"
-    },
-    {
-      "added_at": "2023-02-23 02:07:34",
-      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 307866,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l"
+    },
+    {
+      "added_at": "2023-02-23 02:07:34",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/2FQeikDvH8PH7JhunCQ6j1"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        }
+      ],
+      "duration_ms": 218760,
+      "name": "La Mujer Que No So\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/2rgH6C08H3J2AWlckoG9Vm"
     },
     {
       "added_at": "2023-02-23 02:07:34",
@@ -1519,22 +1519,18 @@
     {
       "added_at": "2023-02-23 02:07:34",
       "album": {
-        "name": "Plut\u00f3n",
-        "url": "https://open.spotify.com/album/6etaamYe4bL3P9MHoDcMSQ"
+        "name": "Solo Exitos",
+        "url": "https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1"
       },
       "artists": [
         {
-          "name": "CNCO",
-          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
-        },
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
         }
       ],
-      "duration_ms": 165533,
-      "name": "Plut\u00f3n",
-      "url": "https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke"
+      "duration_ms": 241226,
+      "name": "Quiero Dormir Cansado",
+      "url": "https://open.spotify.com/track/6LmKDVBBlMsWqUbuNTeCuF"
     },
     {
       "added_at": "2023-02-23 02:07:34",
@@ -1559,6 +1555,26 @@
     {
       "added_at": "2023-02-23 02:07:34",
       "album": {
+        "name": "Plut\u00f3n",
+        "url": "https://open.spotify.com/album/6etaamYe4bL3P9MHoDcMSQ"
+      },
+      "artists": [
+        {
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+        },
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 165533,
+      "name": "Plut\u00f3n",
+      "url": "https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke"
+    },
+    {
+      "added_at": "2023-02-23 02:07:34",
+      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/6fv6tD2JlEMZaFf6tF0GcH"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 208600,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/55CJCECkPMd9ZhGr4JOKn7"
-    },
-    {
-      "added_at": "2023-02-23 02:07:34",
-      "album": {
-        "name": "Solo Exitos",
-        "url": "https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
-        }
-      ],
-      "duration_ms": 241226,
-      "name": "Quiero Dormir Cansado",
-      "url": "https://open.spotify.com/track/6LmKDVBBlMsWqUbuNTeCuF"
     },
     {
       "added_at": "2023-02-23 02:07:34",

@@ -4,7 +4,7 @@
 
 > Un café, un croissant et c‘est parti pour une bonne journée.
 
-95 songs - 5 hr 31 min
+96 songs - 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Giving It In](https://open.spotify.com/track/1yoAw5lhSJZ3FutPzCm6EC) | [Faye Meana](https://open.spotify.com/artist/0IYLHzQ2biFwd5DNJUZ5yP) | [Giving It In](https://open.spotify.com/album/0qqvcHcINrNFwkFfaqpRO1) | 3:20 | 2022-12-21 | 2023-01-07 |
 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 | 2023-02-17 |  |
 | [Good Enough](https://open.spotify.com/track/5ubhHVO4Zk3Z5rEc067YBB) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Good Enough](https://open.spotify.com/album/5a79iYbVq5Gpor4febLhQP) | 3:08 | 2022-12-28 | 2023-03-25 |
-| [Hiding Out In The Open](https://open.spotify.com/track/3S8fsWbSzwTAbyRXWnLugk) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/2uDbIwcvfGsMEbzeU3iyoU) | 3:21 | 2023-03-23 |  |
+| [Hiding Out In The Open](https://open.spotify.com/track/3S8fsWbSzwTAbyRXWnLugk) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/2uDbIwcvfGsMEbzeU3iyoU) | 3:21 | 2023-03-23 | 2023-04-17 |
+| [Hiding Out In The Open](https://open.spotify.com/track/6Q34tUtXLuWst5c63ddQ7N) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn) | 3:21 | 2023-04-07 |  |
 | [Hiding Out In The Open](https://open.spotify.com/track/6rN8cR7iEcC1hAlHF4UpSN) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/4GErH8Za9b4VutH8jTSU1o) | 3:21 | 2023-02-17 | 2023-03-26 |
 | [Honey Pot](https://open.spotify.com/track/2daydqWuTYcHevpQm0bnYz) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI), [KESMAR](https://open.spotify.com/artist/3KHK5h7PZYBEfcTsGfkfJW) | [Honey Pot](https://open.spotify.com/album/4k98b6BUFd4WMauM70RI3Z) | 3:21 | 2022-12-21 | 2023-04-09 |
 | [I'll Be There for You](https://open.spotify.com/track/2cMPZpWcDGbgnWkPMpFwfb) | [Cocoon](https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD) | [I'll Be There for You](https://open.spotify.com/album/5DtpmZAIefcUlbdu0QmbUi) | 2:01 | 2022-12-21 | 2023-02-18 |

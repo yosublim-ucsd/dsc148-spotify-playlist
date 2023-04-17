@@ -1,12 +1,12 @@
 {
   "description": "Groovy, dancy, funky stuff.",
-  "num_followers": 241002,
+  "num_followers": 241240,
   "original_name": "Soir\u00e9e",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg0MDAwMCwwMDAwMDAwMDdlZGEwMGIzMzQ2YzhhODg3ZmIwMDNjODA3NWQyNzI5",
+  "snapshot_id": "MTY4MDg0MDAwMCwwMDAwMDAwMDJmMjRhOGNhODQ5OTYwZGVjMTBkOGRhYzg3MTE5ODE2",
   "tracks": [
     {
       "added_at": "2023-04-07 04:00:00",
@@ -131,18 +131,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Metamodernity",
-        "url": "https://open.spotify.com/album/1lgZZELIZZwafQJDycr47q"
+        "name": "Intimidated",
+        "url": "https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g"
       },
       "artists": [
         {
-          "name": "Vansire",
-          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
-      "duration_ms": 162663,
-      "name": "Metamodernity",
-      "url": "https://open.spotify.com/track/4RGWHfQeJftd5XrP8JUgFj"
+      "duration_ms": 207840,
+      "name": "Intimidated (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -199,22 +203,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Intimidated",
-        "url": "https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g"
+        "name": "Metamodernity",
+        "url": "https://open.spotify.com/album/1lgZZELIZZwafQJDycr47q"
       },
       "artists": [
         {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
         }
       ],
-      "duration_ms": 207840,
-      "name": "Intimidated (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa"
+      "duration_ms": 162663,
+      "name": "Metamodernity",
+      "url": "https://open.spotify.com/track/4RGWHfQeJftd5XrP8JUgFj"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -259,18 +259,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Music Sounds Better with You",
-        "url": "https://open.spotify.com/album/3HRJBkat1hIUQJ7f8maIDK"
+        "name": "99.9%",
+        "url": "https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa"
       },
       "artists": [
         {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
         }
       ],
-      "duration_ms": 198305,
-      "name": "Music Sounds Better with You",
-      "url": "https://open.spotify.com/track/1vMGIZbIkpaLSagdF2ygcV"
+      "duration_ms": 227706,
+      "name": "YOU'RE THE ONE",
+      "url": "https://open.spotify.com/track/70kdJnm1X6eEM8DbWa8Mnc"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -299,22 +303,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "99.9%",
-        "url": "https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa"
+        "name": "Music Sounds Better with You",
+        "url": "https://open.spotify.com/album/3HRJBkat1hIUQJ7f8maIDK"
       },
       "artists": [
         {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
         }
       ],
-      "duration_ms": 227706,
-      "name": "YOU'RE THE ONE",
-      "url": "https://open.spotify.com/track/70kdJnm1X6eEM8DbWa8Mnc"
+      "duration_ms": 198305,
+      "name": "Music Sounds Better with You",
+      "url": "https://open.spotify.com/track/1vMGIZbIkpaLSagdF2ygcV"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -355,18 +355,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Division",
-        "url": "https://open.spotify.com/album/2VG4oj0kGjOydr6j8deI7Z"
+        "name": "Untitled (Black Is)",
+        "url": "https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle"
       },
       "artists": [
         {
-          "name": "Jenevieve",
-          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
         }
       ],
-      "duration_ms": 176760,
-      "name": "Baby Powder",
-      "url": "https://open.spotify.com/track/4Nw7kywWurWS6ceinn1cHK"
+      "duration_ms": 206947,
+      "name": "Wildfires",
+      "url": "https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -387,38 +387,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Untitled (Black Is)",
-        "url": "https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle"
+        "name": "Division",
+        "url": "https://open.spotify.com/album/2VG4oj0kGjOydr6j8deI7Z"
       },
       "artists": [
         {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
         }
       ],
-      "duration_ms": 206947,
-      "name": "Wildfires",
-      "url": "https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "BUBBA",
-        "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 186680,
-      "name": "10%",
-      "url": "https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr"
+      "duration_ms": 176760,
+      "name": "Baby Powder",
+      "url": "https://open.spotify.com/track/4Nw7kywWurWS6ceinn1cHK"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -439,6 +419,26 @@
       "duration_ms": 261881,
       "name": "It Runs Through Me",
       "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "BUBBA",
+        "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 186680,
+      "name": "10%",
+      "url": "https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "I Feel Good",
-        "url": "https://open.spotify.com/album/4wKGNANAC9OHjccAiihjGO"
-      },
-      "artists": [
-        {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
-        }
-      ],
-      "duration_ms": 136058,
-      "name": "I Feel Good",
-      "url": "https://open.spotify.com/track/3lUQpvfWFcxZC3RYAVGE7F"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Something About You",
         "url": "https://open.spotify.com/album/5gOU7SYwgPAmw6tDUdsT9Q"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 225181,
       "name": "Something About You",
       "url": "https://open.spotify.com/track/5n9DJWUiwuKuPE9sCVbQ0n"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "I Feel Good",
+        "url": "https://open.spotify.com/album/4wKGNANAC9OHjccAiihjGO"
+      },
+      "artists": [
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        }
+      ],
+      "duration_ms": 136058,
+      "name": "I Feel Good",
+      "url": "https://open.spotify.com/track/3lUQpvfWFcxZC3RYAVGE7F"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Electric U",
-        "url": "https://open.spotify.com/album/5ZHpLNkTHkhNhuDwQbpFwY"
-      },
-      "artists": [
-        {
-          "name": "Kid Bloom",
-          "url": "https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P"
-        }
-      ],
-      "duration_ms": 171696,
-      "name": "Electric U",
-      "url": "https://open.spotify.com/track/1h3ODYcDJly0H53W2Ai42Q"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Starry Night",
         "url": "https://open.spotify.com/album/6EgGBFTnsLi1WZaHDtpeie"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 233978,
       "name": "Starry Night - Edit",
       "url": "https://open.spotify.com/track/2NeSirLM2VHQW4upn0nMfB"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Electric U",
+        "url": "https://open.spotify.com/album/5ZHpLNkTHkhNhuDwQbpFwY"
+      },
+      "artists": [
+        {
+          "name": "Kid Bloom",
+          "url": "https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P"
+        }
+      ],
+      "duration_ms": 171696,
+      "name": "Electric U",
+      "url": "https://open.spotify.com/track/1h3ODYcDJly0H53W2Ai42Q"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Sunsetter",
-        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 200093,
-      "name": "Lonely Nights",
-      "url": "https://open.spotify.com/track/1SJ7eKG6Ha5opLNxlXXvwa"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Sex & Food",
         "url": "https://open.spotify.com/album/2swiA7ANSFyAHKJhkD4mNR"
       },
@@ -839,6 +823,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "Sunsetter",
+        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 200093,
+      "name": "Lonely Nights",
+      "url": "https://open.spotify.com/track/1SJ7eKG6Ha5opLNxlXXvwa"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Dirty Computer",
         "url": "https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE"
       },
@@ -851,22 +851,6 @@
       "duration_ms": 194230,
       "name": "Make Me Feel",
       "url": "https://open.spotify.com/track/5gW5dSy3vXJxgzma4rQuzH"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Free Yourself",
-        "url": "https://open.spotify.com/album/4uslfFMaS0bfVnuM7MuQ7K"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 234493,
-      "name": "Free Yourself",
-      "url": "https://open.spotify.com/track/1BXAyGazbybUVNQ0VmGsdl"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -895,6 +879,22 @@
       "duration_ms": 272653,
       "name": "Rollin (feat. Future & Khalid)",
       "url": "https://open.spotify.com/track/0lMbuWUpfTWhEmOKxppEau"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Free Yourself",
+        "url": "https://open.spotify.com/album/4uslfFMaS0bfVnuM7MuQ7K"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 234493,
+      "name": "Free Yourself",
+      "url": "https://open.spotify.com/track/1BXAyGazbybUVNQ0VmGsdl"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Killing Me",
-        "url": "https://open.spotify.com/album/5yeTnVxNU9I1rdfvVN26Fm"
-      },
-      "artists": [
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        },
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        }
-      ],
-      "duration_ms": 194055,
-      "name": "Killing Me",
-      "url": "https://open.spotify.com/track/01cAvCmXqqHEnKzaQXkhzN"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Can\u2019t Let You Go",
         "url": "https://open.spotify.com/album/2imS9LbJ227zp5w9I8hgf8"
       },
@@ -1291,6 +1271,26 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "Killing Me",
+        "url": "https://open.spotify.com/album/5yeTnVxNU9I1rdfvVN26Fm"
+      },
+      "artists": [
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        },
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "duration_ms": 194055,
+      "name": "Killing Me",
+      "url": "https://open.spotify.com/track/01cAvCmXqqHEnKzaQXkhzN"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Ungodly Hour",
         "url": "https://open.spotify.com/album/1ReoUTt497nUg3u1ERgYwS"
       },
@@ -1303,22 +1303,6 @@
       "duration_ms": 255893,
       "name": "Ungodly Hour",
       "url": "https://open.spotify.com/track/4SJRgLsuBKTEBEl9n6JsNu"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "If This Isn\u2019t Nice, I Don\u2019t Know What Is",
-        "url": "https://open.spotify.com/album/0QnWm07An8WyO3eupjBDoP"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Rocky",
-      "url": "https://open.spotify.com/track/3E73eFyGL6v10qlK3jiLyR"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1339,6 +1323,22 @@
       "duration_ms": 271112,
       "name": "CooCool",
       "url": "https://open.spotify.com/track/0C8jkmcNV7VxyHemnI917F"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "If This Isn\u2019t Nice, I Don\u2019t Know What Is",
+        "url": "https://open.spotify.com/album/0QnWm07An8WyO3eupjBDoP"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Rocky",
+      "url": "https://open.spotify.com/track/3E73eFyGL6v10qlK3jiLyR"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/7jlUFBjbua4L7eZXpncXIG"
-      },
-      "artists": [
-        {
-          "name": "Austin Millz",
-          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
-        },
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        }
-      ],
-      "duration_ms": 175416,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/5Dz6wdHlI45KAOBAfMSJRS"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "times",
         "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
       },
@@ -1467,22 +1447,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "\u00bfT\u00e9o?",
-        "url": "https://open.spotify.com/album/5NhRAV4V8xcH0Wzj047C1g"
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/7jlUFBjbua4L7eZXpncXIG"
       },
       "artists": [
         {
-          "name": "\u00bfT\u00e9o?",
-          "url": "https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u"
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
         },
         {
-          "name": "Jaden Smith",
-          "url": "https://open.spotify.com/artist/4vDSXzhxGtPJVnMvnzSZW4"
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
         }
       ],
-      "duration_ms": 170125,
-      "name": "Uno Dos",
-      "url": "https://open.spotify.com/track/2YeKQ7zSBbalFl5K0EpEgH"
+      "duration_ms": 175416,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/5Dz6wdHlI45KAOBAfMSJRS"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1503,6 +1483,26 @@
       "duration_ms": 271756,
       "name": "DAYS GO BY",
       "url": "https://open.spotify.com/track/0IngWDycujRx7MPYCqImO0"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "\u00bfT\u00e9o?",
+        "url": "https://open.spotify.com/album/5NhRAV4V8xcH0Wzj047C1g"
+      },
+      "artists": [
+        {
+          "name": "\u00bfT\u00e9o?",
+          "url": "https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u"
+        },
+        {
+          "name": "Jaden Smith",
+          "url": "https://open.spotify.com/artist/4vDSXzhxGtPJVnMvnzSZW4"
+        }
+      ],
+      "duration_ms": 170125,
+      "name": "Uno Dos",
+      "url": "https://open.spotify.com/track/2YeKQ7zSBbalFl5K0EpEgH"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Cutie",
-        "url": "https://open.spotify.com/album/5bn7iiPpq2Za6KX1PekKD2"
-      },
-      "artists": [
-        {
-          "name": "COIN",
-          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
-        }
-      ],
-      "duration_ms": 184315,
-      "name": "Cutie",
-      "url": "https://open.spotify.com/track/4nLTOnpSCBwRlul92HLIyW"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Body Talk Pt. 1",
         "url": "https://open.spotify.com/album/4ektWErsV6EIxW0jBWq1Jn"
       },
@@ -1679,18 +1663,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "6am",
-        "url": "https://open.spotify.com/album/2pyGNsIfsvhBLb2GrQ9Orm"
+        "name": "Cutie",
+        "url": "https://open.spotify.com/album/5bn7iiPpq2Za6KX1PekKD2"
       },
       "artists": [
         {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+          "name": "COIN",
+          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
         }
       ],
-      "duration_ms": 221748,
-      "name": "6am",
-      "url": "https://open.spotify.com/track/1lx452Y4CLMvIois88vwBr"
+      "duration_ms": 184315,
+      "name": "Cutie",
+      "url": "https://open.spotify.com/track/4nLTOnpSCBwRlul92HLIyW"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1711,6 +1695,22 @@
       "duration_ms": 229610,
       "name": "Turn Up The Sunshine - From 'Minions: The Rise of Gru' Soundtrack",
       "url": "https://open.spotify.com/track/5FH5U5zlicxKUXK6DruWKM"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "6am",
+        "url": "https://open.spotify.com/album/2pyGNsIfsvhBLb2GrQ9Orm"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 221748,
+      "name": "6am",
+      "url": "https://open.spotify.com/track/1lx452Y4CLMvIois88vwBr"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Heaven To A Tortured Mind",
-        "url": "https://open.spotify.com/album/00R4y0gymycDUv9IVY7VvO"
-      },
-      "artists": [
-        {
-          "name": "Yves Tumor",
-          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
-        }
-      ],
-      "duration_ms": 198626,
-      "name": "Gospel For A New Century",
-      "url": "https://open.spotify.com/track/4qYvkWQqCcIWEBWekegE4y"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Dance Moves",
         "url": "https://open.spotify.com/album/0ZMXkL1EvpeOWxFQ2K3UKd"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 201376,
       "name": "Dance Moves",
       "url": "https://open.spotify.com/track/3zlJ0h0VFDMm6AIZAQzZBb"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Heaven To A Tortured Mind",
+        "url": "https://open.spotify.com/album/00R4y0gymycDUv9IVY7VvO"
+      },
+      "artists": [
+        {
+          "name": "Yves Tumor",
+          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
+        }
+      ],
+      "duration_ms": 198626,
+      "name": "Gospel For A New Century",
+      "url": "https://open.spotify.com/track/4qYvkWQqCcIWEBWekegE4y"
     },
     {
       "added_at": "2023-03-31 04:00:00",

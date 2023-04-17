@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 
 > Late night cool and the sound of smooth blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,094 likes - 80 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,235 likes - 80 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 | 38 | [Blue Midnight](https://open.spotify.com/track/7rDrwxr6IZNpBtsVoUToEd) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Hate To See You Go](https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI) | 2:24 |
 | 39 | [Love Letter To The Blues \- Bonus Track](https://open.spotify.com/track/3i7fHXcG7apdpiemYYPP1J) | [Connor Selby](https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc) | [Connor Selby \(Deluxe Edition\)](https://open.spotify.com/album/3MzRJbbq5PsBnmPqV9JzkU) | 4:53 |
 | 40 | [Personal Manager](https://open.spotify.com/track/4C0745bTNGF8nOOxqzLhtN) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [Born Under A Bad Sign](https://open.spotify.com/album/42WQ76qWDQmHlHvJa6Z3Uw) | 4:28 |
-| 41 | [Kind Hearted Woman Blues](https://open.spotify.com/track/3bDhok0xhx7ihIGWdt9Ft0) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Me and Mr\. Johnson](https://open.spotify.com/album/3DgSNj2EanKS98ViJovfrh) | 4:06 |
-| 42 | [Don't Worry](https://open.spotify.com/track/3NVy1z9t4I6qgkY29d0r7C) | [James Cooke](https://open.spotify.com/artist/3VokpYFCjGr97pLl2RVd9U) | [Put In a Little Time](https://open.spotify.com/album/4lMmRnqMe82gxF92t8dWXt) | 4:40 |
+| 41 | [Don't Worry](https://open.spotify.com/track/3NVy1z9t4I6qgkY29d0r7C) | [James Cooke](https://open.spotify.com/artist/3VokpYFCjGr97pLl2RVd9U) | [Put In a Little Time](https://open.spotify.com/album/4lMmRnqMe82gxF92t8dWXt) | 4:40 |
+| 42 | [Kind Hearted Woman Blues](https://open.spotify.com/track/3bDhok0xhx7ihIGWdt9Ft0) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Me and Mr\. Johnson](https://open.spotify.com/album/3DgSNj2EanKS98ViJovfrh) | 4:06 |
 | 43 | [Mama Roux](https://open.spotify.com/track/2J9x0DWR1kDyRZBPWKKT0Q) | [Matthis Pascaud](https://open.spotify.com/artist/1qn5qnZBihsurzBW3YrMTp), [Hugh Coltman](https://open.spotify.com/artist/6tV34lUTJjldwoOHb7EwIQ) | [Mama Roux](https://open.spotify.com/album/4mVyWlC7YuwWmHeUUSj9s5) | 4:40 |
-| 44 | [Teardrops](https://open.spotify.com/track/4E3n9S34nNuJ25OiR8UxRg) | [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs) | [Good Luck Man](https://open.spotify.com/album/2v0DQ5RtiQl8ldmxA3KOvs) | 7:08 |
-| 45 | [Help Me Through The Day](https://open.spotify.com/track/70b5CmxmkftPHqnnzy7H9G) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Woman Across The River](https://open.spotify.com/album/3iaVJullB48EV1OM2oMXJs) | 4:30 |
+| 44 | [Help Me Through The Day](https://open.spotify.com/track/70b5CmxmkftPHqnnzy7H9G) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Woman Across The River](https://open.spotify.com/album/3iaVJullB48EV1OM2oMXJs) | 4:30 |
+| 45 | [Teardrops](https://open.spotify.com/track/4E3n9S34nNuJ25OiR8UxRg) | [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs) | [Good Luck Man](https://open.spotify.com/album/2v0DQ5RtiQl8ldmxA3KOvs) | 7:08 |
 | 46 | [One Room Country Shack](https://open.spotify.com/track/1oG6p5Ue73whPJODUWTuCe) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [As Good As It Gets](https://open.spotify.com/album/49L5Gul5usm0h5SqS39ovJ) | 5:38 |
 | 47 | [Night Time Is the Right Time](https://open.spotify.com/track/5BFsVmmI84lGKuC2BGAhew) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [The Delta Meets Detroit: Aretha's Blues](https://open.spotify.com/album/0JZyURQWYeYAqUBcHy6PE9) | 4:50 |
-| 48 | [Let Me Be](https://open.spotify.com/track/2jgHuKeHNfhtYEHwIuc0iJ) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [Working Man](https://open.spotify.com/album/0gsSBr61g7HRuZmyW75VJu) | 5:32 |
-| 49 | [She Puts Me In The Mood](https://open.spotify.com/track/0t0CvqbxqwtETTajrzqKoW) | [Elvin Bishop](https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11) | [Big Fun](https://open.spotify.com/album/2Tkar3J9w5aUbxfE4ItKmV) | 3:34 |
+| 48 | [She Puts Me In The Mood](https://open.spotify.com/track/0t0CvqbxqwtETTajrzqKoW) | [Elvin Bishop](https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11) | [Big Fun](https://open.spotify.com/album/2Tkar3J9w5aUbxfE4ItKmV) | 3:34 |
+| 49 | [Let Me Be](https://open.spotify.com/track/2jgHuKeHNfhtYEHwIuc0iJ) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [Working Man](https://open.spotify.com/album/0gsSBr61g7HRuZmyW75VJu) | 5:32 |
 | 50 | [Black Angel Blues](https://open.spotify.com/track/5insosOirGOL3cvJ0li2bD) | [Robert Nighthawk](https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG) | [Presenting Robert Nighthawk](https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS) | 3:04 |
 | 51 | [Black Night](https://open.spotify.com/track/62x4lrYu1t1D9SpbzuTvEF) | [Savoy Brown Blues Band](https://open.spotify.com/artist/0UGx1mwAGKLhE3yTFez6YP) | [Shake Down](https://open.spotify.com/album/5F5h5lLNgbQXYvulMUZ2Vb) | 4:52 |
 | 52 | [Wednesday Evenin' Blues](https://open.spotify.com/track/3tXhd4rrp98AeFXsChONXB) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [That's My Story](https://open.spotify.com/album/7IudsICOiqekfeig8EZ5PE) | 3:34 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 | 56 | [Heartbreak Hotel](https://open.spotify.com/track/5KbTAN3GgXJCvBySnOZrih) | [Tony Joe White](https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P) | [Bad Mouthin'](https://open.spotify.com/album/1BDyQ67N0PjyWDF3yVjEoQ) | 3:43 |
 | 57 | [Driftin' Blues \- Live](https://open.spotify.com/track/4AHrZTgsMx95Ploai1UI8L) | [Charles Brown](https://open.spotify.com/artist/3trsSEaKM3UM2R9RBJwdtJ) | [Driftin' Blues \(Live\)](https://open.spotify.com/album/0YXmtUdgswptsKZTGvjAgh) | 4:12 |
 | 58 | [Beaumont Blues](https://open.spotify.com/track/2lWTmgOTlemZ0RJyKKhr0s) | [Phillip Walker](https://open.spotify.com/artist/2T268Ip7LMzPgTsWQsFXwo) | [Someday You'll Have These Blues](https://open.spotify.com/album/5LR8uHBua2uDt0D8V4HQxz) | 4:07 |
-| 59 | [Empty Bed Blues \- Mono](https://open.spotify.com/track/7DBKmXITq99xmNPr3ZX2nK) | [LaVern Baker](https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw) | [Sings Bessie Smith](https://open.spotify.com/album/2Em2NnnKeKydoEMzlcSHr4) | 4:52 |
-| 60 | [I Know I've Been Changed](https://open.spotify.com/track/6XV7DB5x0QbwPw2AJfiOlz) | [Miraculous Mule](https://open.spotify.com/artist/0gCceUhEHn81sIBxwjbGcf) | [Old Bones, New Fire](https://open.spotify.com/album/68tbX1vD7WbHabOlMQK9Fg) | 3:07 |
+| 59 | [I Know I've Been Changed](https://open.spotify.com/track/6XV7DB5x0QbwPw2AJfiOlz) | [Miraculous Mule](https://open.spotify.com/artist/0gCceUhEHn81sIBxwjbGcf) | [Old Bones, New Fire](https://open.spotify.com/album/68tbX1vD7WbHabOlMQK9Fg) | 3:07 |
+| 60 | [Empty Bed Blues \- Mono](https://open.spotify.com/track/7DBKmXITq99xmNPr3ZX2nK) | [LaVern Baker](https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw) | [Sings Bessie Smith](https://open.spotify.com/album/2Em2NnnKeKydoEMzlcSHr4) | 4:52 |
 | 61 | [Lights Are On, But Nobody's Home](https://open.spotify.com/track/3TeB242C2SSbghipVFGWzH) | [Matt Schofield](https://open.spotify.com/artist/2X84rq2QtQimpEoY6Ms7JE) | [Siftin' Thru Ashes](https://open.spotify.com/album/1EEuv8ktFyYOAvg4KdMWF3) | 6:36 |
 | 62 | [Sweet Little Angel](https://open.spotify.com/track/14DtWZA10VU7PZLxM5vO6g) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [In Europe](https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz) | 5:30 |
 | 63 | [Hoodoo Man](https://open.spotify.com/track/5S06MjT5dOy7nLDmHqnqic) | [Errol Linton](https://open.spotify.com/artist/5HNpXzOeP7gbZgqCkxYfaW) | [Packing My Bags](https://open.spotify.com/album/6os5LkCeAmF2N1XalMURcb) | 4:54 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 | 76 | [Suffering The Blues](https://open.spotify.com/track/0PEIlMSRprXJM0jKhGHOtZ) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [Ike & Tina Turner \- The Complete Collection](https://open.spotify.com/album/0Y8QtwYhF7RhMNRyHx3CL2) | 2:22 |
 | 77 | [Twenty\-Four Hours \- Digitally Remastered Version](https://open.spotify.com/track/1zdnfGx2EBPs6WBIAOqGjY) | [Steamhammer](https://open.spotify.com/artist/78sxSGdMQas5prtm6LZXyj) | [Reflection \(Digitally Remastered Version\)](https://open.spotify.com/album/63rMIZKgABeXOmbnA7aSTR) | 7:27 |
 | 78 | [Along About Midnight](https://open.spotify.com/track/76vDsjhP92WCp6KP9EoP8R) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [Soul Of The Blues](https://open.spotify.com/album/7qs6YroVKBlb1WZnUQX7Zr) | 4:05 |
-| 79 | [The River's Invitation](https://open.spotify.com/track/0YdyUFdhdcHxq7Nfw6prq3) | [Percy Mayfield](https://open.spotify.com/artist/4BfUHTiOoOcunsrw4mS2HU) | [Poet Of The Blues](https://open.spotify.com/album/7oD8K0s2rvJ53vjLurRLNf) | 2:52 |
-| 80 | [Weak Days](https://open.spotify.com/track/0ci4FY6foptsMwZZtVhYNw) | [Chris Duarte](https://open.spotify.com/artist/1W3SfQdOetqQqjsBCRpBqN) | [Ain't Giving Up](https://open.spotify.com/album/7if1zXFGoL0maOFlWKX6yE) | 7:00 |
+| 79 | [Weak Days](https://open.spotify.com/track/0ci4FY6foptsMwZZtVhYNw) | [Chris Duarte](https://open.spotify.com/artist/1W3SfQdOetqQqjsBCRpBqN) | [Ain't Giving Up](https://open.spotify.com/album/7if1zXFGoL0maOFlWKX6yE) | 7:00 |
+| 80 | [The River's Invitation](https://open.spotify.com/track/0YdyUFdhdcHxq7Nfw6prq3) | [Percy Mayfield](https://open.spotify.com/artist/4BfUHTiOoOcunsrw4mS2HU) | [Poet Of The Blues](https://open.spotify.com/album/7oD8K0s2rvJ53vjLurRLNf) | 2:52 |
 
-Snapshot ID: `MTY4MTQzMDQ2MCwwMDAwMDAwMDNkYjA5NmE5MTg0YmZhNWQ4M2E2YmQzNDViNTNkNzMy`
+Snapshot ID: `MTY4MTQzMDQ2MCwwMDAwMDAwMGJlNjE1NjU3ZTE1MmYwOGVhMGYzZWUzYmRhOWNlNjJk`

@@ -1,12 +1,12 @@
 {
   "description": "Celebramos a las figuras legendarias del rock en nuestro idioma. Foto: Soda Stereo.",
-  "num_followers": 570038,
+  "num_followers": 570365,
   "original_name": "Iconos del Rock Latinoamericano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTM4ODg1NiwwMDAwMDAwMGZjZTdmOTFhMDQwM2YwYjc1ZWU5NWRiYzU3Mjc1MDlk",
+  "snapshot_id": "MTY2MTM4ODg1NiwwMDAwMDAwMGRmZjhkM2M2ZTA5ZGQwNGY3MzIzZTY1ODMwODhhNzc4",
   "tracks": [
     {
       "added_at": "2022-05-20 13:11:18",
@@ -171,18 +171,18 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
-        "name": "Alma En Fuego",
-        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
+        "name": "El Grito Del Tiempo",
+        "url": "https://open.spotify.com/album/53ysLjWIelVJ47Si7ouHB3"
       },
       "artists": [
         {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+          "name": "Duncan Dhu",
+          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
         }
       ],
-      "duration_ms": 228426,
-      "name": "Amargo Adi\u00f3s",
-      "url": "https://open.spotify.com/track/0zCOT028cU3DeCqN1G18wE"
+      "duration_ms": 235626,
+      "name": "En alg\u00fan lugar",
+      "url": "https://open.spotify.com/track/3UIENhLRdFIOuRan92cAQu"
     },
     {
       "added_at": "2022-05-20 13:11:18",
@@ -203,18 +203,18 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
-        "name": "El Grito Del Tiempo",
-        "url": "https://open.spotify.com/album/53ysLjWIelVJ47Si7ouHB3"
+        "name": "Alma En Fuego",
+        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
       },
       "artists": [
         {
-          "name": "Duncan Dhu",
-          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 235626,
-      "name": "En alg\u00fan lugar",
-      "url": "https://open.spotify.com/track/3UIENhLRdFIOuRan92cAQu"
+      "duration_ms": 228426,
+      "name": "Amargo Adi\u00f3s",
+      "url": "https://open.spotify.com/track/0zCOT028cU3DeCqN1G18wE"
     },
     {
       "added_at": "2022-05-20 13:11:18",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
-        "name": "Jos\u00e9 Jos\u00e9, Un Tributo 1 & 2",
-        "url": "https://open.spotify.com/album/103zw9Qm9BRCdlb3mYsBOl"
-      },
-      "artists": [
-        {
-          "name": "DLD",
-          "url": "https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S"
-        }
-      ],
-      "duration_ms": 282760,
-      "name": "Mi Vida",
-      "url": "https://open.spotify.com/track/4f6bE40jl7zuFJ3cOCwaI1"
-    },
-    {
-      "added_at": "2022-05-20 13:11:18",
-      "album": {
         "name": "Finisterra",
         "url": "https://open.spotify.com/album/3Eubo97y5NcXWz7PsCzHIT"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 296751,
       "name": "Fiesta Pagana",
       "url": "https://open.spotify.com/track/02dphTJYUQ9pmdNC52iyOz"
+    },
+    {
+      "added_at": "2022-05-20 13:11:18",
+      "album": {
+        "name": "Jos\u00e9 Jos\u00e9, Un Tributo 1 & 2",
+        "url": "https://open.spotify.com/album/103zw9Qm9BRCdlb3mYsBOl"
+      },
+      "artists": [
+        {
+          "name": "DLD",
+          "url": "https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S"
+        }
+      ],
+      "duration_ms": 282760,
+      "name": "Mi Vida",
+      "url": "https://open.spotify.com/track/4f6bE40jl7zuFJ3cOCwaI1"
     },
     {
       "added_at": "2022-05-20 13:11:18",
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
-        "name": "Infame",
-        "url": "https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 156197,
-      "name": "Irresponsables",
-      "url": "https://open.spotify.com/track/0dsViRiDTIuexAL42Nc1Kh"
-    },
-    {
-      "added_at": "2022-05-20 13:11:18",
-      "album": {
         "name": "La Ley MTV Unplugged",
         "url": "https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 206133,
       "name": "Te Lo Pido por Favor",
       "url": "https://open.spotify.com/track/6iRkrVOhCjgKFB2cBWnx4M"
+    },
+    {
+      "added_at": "2022-05-20 13:11:18",
+      "album": {
+        "name": "Infame",
+        "url": "https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 156197,
+      "name": "Irresponsables",
+      "url": "https://open.spotify.com/track/0dsViRiDTIuexAL42Nc1Kh"
     },
     {
       "added_at": "2022-05-20 13:11:18",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
-        "name": "Peluson Of Milk",
-        "url": "https://open.spotify.com/album/0sEqp7Del2dp8HmXE8Geqv"
-      },
-      "artists": [
-        {
-          "name": "Luis Alberto Spinetta",
-          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
-        }
-      ],
-      "duration_ms": 160866,
-      "name": "Seguir Viviendo Sin Tu Amor",
-      "url": "https://open.spotify.com/track/2qBirMakpTdz9ymxrZEyzg"
-    },
-    {
-      "added_at": "2022-05-20 13:11:18",
-      "album": {
         "name": "Naufragios",
         "url": "https://open.spotify.com/album/16RM2JFvsvSSSlylWmxhSV"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 233733,
       "name": "A un minuto de ti",
       "url": "https://open.spotify.com/track/7HlULtRMJSTzorUMebka0f"
+    },
+    {
+      "added_at": "2022-05-20 13:11:18",
+      "album": {
+        "name": "Peluson Of Milk",
+        "url": "https://open.spotify.com/album/0sEqp7Del2dp8HmXE8Geqv"
+      },
+      "artists": [
+        {
+          "name": "Luis Alberto Spinetta",
+          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
+        }
+      ],
+      "duration_ms": 160866,
+      "name": "Seguir Viviendo Sin Tu Amor",
+      "url": "https://open.spotify.com/track/2qBirMakpTdz9ymxrZEyzg"
     },
     {
       "added_at": "2022-05-20 13:11:18",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
-        "name": "Dalt\u00f3nico",
-        "url": "https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy"
-      },
-      "artists": [
-        {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
-        }
-      ],
-      "duration_ms": 224085,
-      "name": "Dulce Soledad",
-      "url": "https://open.spotify.com/track/0BKJNlqLlNvvIunfg2BPCg"
-    },
-    {
-      "added_at": "2022-05-20 13:11:18",
-      "album": {
         "name": "Pante\u00f3n Rococ\u00f3",
         "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 225173,
       "name": "Vendedora de Caricias",
       "url": "https://open.spotify.com/track/4jikVslCvDrDysc3p4tFHM"
+    },
+    {
+      "added_at": "2022-05-20 13:11:18",
+      "album": {
+        "name": "Dalt\u00f3nico",
+        "url": "https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "duration_ms": 224085,
+      "name": "Dulce Soledad",
+      "url": "https://open.spotify.com/track/0BKJNlqLlNvvIunfg2BPCg"
     },
     {
       "added_at": "2022-05-20 13:11:18",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
-        "name": "Locura",
-        "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
-      },
-      "artists": [
-        {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
-        }
-      ],
-      "duration_ms": 316426,
-      "name": "Luna de Miel en la Mano",
-      "url": "https://open.spotify.com/track/1qWLCuCnNcQVVzJm4pu7Zv"
-    },
-    {
-      "added_at": "2022-05-20 13:11:18",
-      "album": {
         "name": "25 a\u00f1os",
         "url": "https://open.spotify.com/album/1nscC8n3kewpA9DAHybQ9L"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 230693,
       "name": "Pobre so\u00f1ador",
       "url": "https://open.spotify.com/track/6UjxBtLPznyXztlMAFrtOW"
+    },
+    {
+      "added_at": "2022-05-20 13:11:18",
+      "album": {
+        "name": "Locura",
+        "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
+      },
+      "artists": [
+        {
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+        }
+      ],
+      "duration_ms": 316426,
+      "name": "Luna de Miel en la Mano",
+      "url": "https://open.spotify.com/track/1qWLCuCnNcQVVzJm4pu7Zv"
     },
     {
       "added_at": "2022-05-20 13:11:18",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
-        "name": "Clics Modernos",
-        "url": "https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 206720,
-      "name": "Nos Siguen Pegando Abajo",
-      "url": "https://open.spotify.com/track/4VikOud5ZmdmHH6h7uQeDB"
-    },
-    {
-      "added_at": "2022-05-20 13:11:18",
-      "album": {
         "name": "Lo Esencial",
         "url": "https://open.spotify.com/album/7zrwTOHJUTWDJBSED3mhbD"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 245360,
       "name": "Obsesi\u00f3n",
       "url": "https://open.spotify.com/track/1l0mEM93oZMERzBmOCuiHe"
+    },
+    {
+      "added_at": "2022-05-20 13:11:18",
+      "album": {
+        "name": "Clics Modernos",
+        "url": "https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 206720,
+      "name": "Nos Siguen Pegando Abajo",
+      "url": "https://open.spotify.com/track/4VikOud5ZmdmHH6h7uQeDB"
     },
     {
       "added_at": "2022-05-20 13:11:18",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
-        "name": "La Flaca",
-        "url": "https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp"
+        "name": "Honestidad Brutal",
+        "url": "https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y"
       },
       "artists": [
         {
-          "name": "Jarabe De Palo",
-          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
-      "duration_ms": 212226,
-      "name": "Grita",
-      "url": "https://open.spotify.com/track/0wmYFlVkmGVUtfcY1r0SrP"
+      "duration_ms": 235560,
+      "name": "Te quiero igual",
+      "url": "https://open.spotify.com/track/7qIw4D1PcDHigDohKkLB0W"
     }
   ],
   "unique_name": "Iconos del Rock Latinoamericano",

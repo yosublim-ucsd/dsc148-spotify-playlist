@@ -1,12 +1,12 @@
 {
   "description": "Concentrate comfortably with sweet k-pop accompaniments without lyrics. (\uac00\uc0ac \uc5c6\ub294 \uac10\ubbf8\ub85c\uc6b4 \uac00\uc694 \ubc18\uc8fc\uace1\ub4e4\uacfc \ud3b8\uc548\ud558\uac8c \uc9d1\uc911\ud558\uc138\uc694.)",
-  "num_followers": 6352,
+  "num_followers": 6355,
   "original_name": "K-Pop Instruments (\uac00\uc694 \ubc18\uc8fc\uace1)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzM5NjQ1MywwMDAwMDAwMGRhYWE2ZTM2OWRhODFkNmFiYzk2MmZmOTk4ZmRlNDQ4",
+  "snapshot_id": "MTY2NzM5NjQ1MywwMDAwMDAwMGI5YjIyNGFiOTM0ZTY0NTYyMjlhMmE2NjMxNmM5Mjdh",
   "tracks": [
     {
       "added_at": "2022-11-02 13:40:53",
@@ -419,22 +419,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "DINNER MATE (Original Television Soundtrack, Pt. 4)",
-        "url": "https://open.spotify.com/album/7aF3Y9ZTC67P0ISGQeK7JF"
-      },
-      "artists": [
-        {
-          "name": "SHAUN",
-          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
-        }
-      ],
-      "duration_ms": 195789,
-      "name": "More Than Words - Instrumental",
-      "url": "https://open.spotify.com/track/78QbLG6ybYftybcqJxniL6"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "It's Okay to Not Be Okay (Original Television Soundtrack), Pt.1",
         "url": "https://open.spotify.com/album/63qfWGAvtGwa2YF4yC98Ak"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 234093,
       "name": "You're Cold - Instrumental",
       "url": "https://open.spotify.com/track/6D14Zg8SqVnXr5bxNoOwZ4"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "DINNER MATE (Original Television Soundtrack, Pt. 4)",
+        "url": "https://open.spotify.com/album/7aF3Y9ZTC67P0ISGQeK7JF"
+      },
+      "artists": [
+        {
+          "name": "SHAUN",
+          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
+        }
+      ],
+      "duration_ms": 195789,
+      "name": "More Than Words - Instrumental",
+      "url": "https://open.spotify.com/track/78QbLG6ybYftybcqJxniL6"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "The World of the Married, Pt. 5 (Original Television SoundTrack)",
-        "url": "https://open.spotify.com/album/3JNtbSAHXEcR67bAjVSscB"
-      },
-      "artists": [
-        {
-          "name": "Huh Gak",
-          "url": "https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys"
-        }
-      ],
-      "duration_ms": 256680,
-      "name": "Farewell In Tears - Instrumental",
-      "url": "https://open.spotify.com/track/3naRPYN8jxHrUppJ8qgE6v"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "The Beauty Inside Pt. 6 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/6w3jg4xGMI5LLr5DEL3zWY"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 194640,
       "name": "Goodbye - Instrumental",
       "url": "https://open.spotify.com/track/2tbYVzWr0YUqFC8AHcbxRx"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "The World of the Married, Pt. 5 (Original Television SoundTrack)",
+        "url": "https://open.spotify.com/album/3JNtbSAHXEcR67bAjVSscB"
+      },
+      "artists": [
+        {
+          "name": "Huh Gak",
+          "url": "https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys"
+        }
+      ],
+      "duration_ms": 256680,
+      "name": "Farewell In Tears - Instrumental",
+      "url": "https://open.spotify.com/track/3naRPYN8jxHrUppJ8qgE6v"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Oh My Baby (Original Television Soundtrack) Pt. 3",
-        "url": "https://open.spotify.com/album/2ODbnq7BEn2pSPiKEr7kmq"
-      },
-      "artists": [
-        {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
-        }
-      ],
-      "duration_ms": 212480,
-      "name": "Raindrops - Instrumental",
-      "url": "https://open.spotify.com/track/1V2Xa0tC01IrxtqM2aXCgl"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "Another Miss Oh (Original Television Soundtrack), Pt 2",
         "url": "https://open.spotify.com/album/2etoMy8fvyHuH777g9aIwW"
       },
@@ -891,18 +875,18 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "My Unfamiliar Family (Original Television Soundtrack), Pt. 2",
-        "url": "https://open.spotify.com/album/5XRPtycMCCWe4jpJyyUENu"
+        "name": "Oh My Baby (Original Television Soundtrack) Pt. 3",
+        "url": "https://open.spotify.com/album/2ODbnq7BEn2pSPiKEr7kmq"
       },
       "artists": [
         {
-          "name": "Sondia",
-          "url": "https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp"
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
         }
       ],
-      "duration_ms": 250000,
-      "name": "Love Message - Instrumental",
-      "url": "https://open.spotify.com/track/4VeLIyv4WczeFbvNpn9ZXT"
+      "duration_ms": 212480,
+      "name": "Raindrops - Instrumental",
+      "url": "https://open.spotify.com/track/1V2Xa0tC01IrxtqM2aXCgl"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -919,6 +903,22 @@
       "duration_ms": 240946,
       "name": "Leaning on you - Instrumental",
       "url": "https://open.spotify.com/track/2tSJ5EVYDOCB6LCdJFnCnH"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "My Unfamiliar Family (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/5XRPtycMCCWe4jpJyyUENu"
+      },
+      "artists": [
+        {
+          "name": "Sondia",
+          "url": "https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Love Message - Instrumental",
+      "url": "https://open.spotify.com/track/4VeLIyv4WczeFbvNpn9ZXT"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
+        "name": "Almost Famous (Original Television Soundtrack) Pt. 3",
+        "url": "https://open.spotify.com/album/1QkDlS5FWdQ2cRzLsPCqKC"
+      },
+      "artists": [
+        {
+          "name": "Standing Egg",
+          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
+        }
+      ],
+      "duration_ms": 230768,
+      "name": "Please Forget Me - Instrumental",
+      "url": "https://open.spotify.com/track/0xI92gm5ftOnLTEzQnpcZ6"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
         "name": "K-POP PIANO BEST",
         "url": "https://open.spotify.com/album/7jhaI82ddfeABIpMfUnBLZ"
       },
@@ -1179,18 +1195,18 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Almost Famous (Original Television Soundtrack) Pt. 3",
-        "url": "https://open.spotify.com/album/1QkDlS5FWdQ2cRzLsPCqKC"
+        "name": "K-pop Reimaginings",
+        "url": "https://open.spotify.com/album/5WXYTdgPeuGvSpHIxeOiKS"
       },
       "artists": [
         {
-          "name": "Standing Egg",
-          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
+          "name": "postmoderndisco",
+          "url": "https://open.spotify.com/artist/6E4pqcVaaYZWD5Ni9GBDWp"
         }
       ],
-      "duration_ms": 230768,
-      "name": "Please Forget Me - Instrumental",
-      "url": "https://open.spotify.com/track/0xI92gm5ftOnLTEzQnpcZ6"
+      "duration_ms": 131612,
+      "name": "Serendipity x Fake Love",
+      "url": "https://open.spotify.com/track/2A1AtpcXGZfNpfHdQwixyK"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1211,22 +1227,6 @@
       "duration_ms": 181680,
       "name": "OH NONONO - Instrumental",
       "url": "https://open.spotify.com/track/1Ajq6IgAXUCiJZ8aXDkg8q"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
-        "name": "K-pop Reimaginings",
-        "url": "https://open.spotify.com/album/5WXYTdgPeuGvSpHIxeOiKS"
-      },
-      "artists": [
-        {
-          "name": "postmoderndisco",
-          "url": "https://open.spotify.com/artist/6E4pqcVaaYZWD5Ni9GBDWp"
-        }
-      ],
-      "duration_ms": 131612,
-      "name": "Serendipity x Fake Love",
-      "url": "https://open.spotify.com/track/2A1AtpcXGZfNpfHdQwixyK"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
+        "name": "K-POP PIANO BEST",
+        "url": "https://open.spotify.com/album/7jhaI82ddfeABIpMfUnBLZ"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Jazz Blue",
+          "url": "https://open.spotify.com/artist/1RqKUH4eKbKQrzO1bh8IFI"
+        }
+      ],
+      "duration_ms": 314345,
+      "name": "LOVE SCENARIO - Piano Version",
+      "url": "https://open.spotify.com/track/1ppUu8SFXpY9ulzvu4KtA2"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
         "name": "K-pop Reimaginings",
         "url": "https://open.spotify.com/album/5WXYTdgPeuGvSpHIxeOiKS"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 249042,
       "name": "Epiphany",
       "url": "https://open.spotify.com/track/0LdxomJ9KOpvgcnYWOUdbl"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
-        "name": "K-POP PIANO BEST",
-        "url": "https://open.spotify.com/album/7jhaI82ddfeABIpMfUnBLZ"
-      },
-      "artists": [
-        {
-          "name": "Moonlight Jazz Blue",
-          "url": "https://open.spotify.com/artist/1RqKUH4eKbKQrzO1bh8IFI"
-        }
-      ],
-      "duration_ms": 314345,
-      "name": "LOVE SCENARIO - Piano Version",
-      "url": "https://open.spotify.com/track/1ppUu8SFXpY9ulzvu4KtA2"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1635,8 +1635,8 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Blood Sweat & Tears",
-        "url": "https://open.spotify.com/album/56EROHjI2C2z9MGg680i7o"
+        "name": "MAP OF THE SOUL: 7 Piano Collection",
+        "url": "https://open.spotify.com/album/3n5KzHi67JKyPkVBK9Ks2a"
       },
       "artists": [
         {
@@ -1644,9 +1644,9 @@
           "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
         }
       ],
-      "duration_ms": 241992,
-      "name": "Blood Sweat & Tears",
-      "url": "https://open.spotify.com/track/5DggVRzTXeN8Jm729lIKNA"
+      "duration_ms": 234480,
+      "name": "Make It Right",
+      "url": "https://open.spotify.com/track/1CalLW36KN3v7Qx57BgVTV"
     }
   ],
   "unique_name": "K-Pop Instruments (\uac00\uc694 \ubc18\uc8fc\uace1)",

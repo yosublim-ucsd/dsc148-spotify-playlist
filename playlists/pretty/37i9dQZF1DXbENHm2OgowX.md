@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 
 > wandering the forest as the fog floats through the trees
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,939 likes - 69 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,785 likes - 69 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 | 26 | [Hunter](https://open.spotify.com/track/052QjISGAv9TPgtypVETn1) | [Have A Nice Life](https://open.spotify.com/artist/0FRKTwQSToXpCxYMhyUzYY) | [Deathconsciousness](https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM) | 9:43 |
 | 27 | [The Dead Flag Blues](https://open.spotify.com/track/0YzMEu5sGNX0JKr9mdBtzd) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [F♯ A♯ ∞](https://open.spotify.com/album/7sh2Z8jj1iySpHRAnGd9w5) | 16:27 |
 | 28 | [Heavy Water/I'd Rather Be Sleeping](https://open.spotify.com/track/6IUwiHsyKAZtfBy37Wu4ij) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Dragging a Dead Deer Up a Hill](https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL) | 2:53 |
-| 29 | [They'll Only Miss You When You Leave](https://open.spotify.com/track/3FmLbfanuf7XgtBypPWWcS) | [Carissa's Wierd](https://open.spotify.com/artist/5VnYwYnG7QmpzQtxyubIwh) | [Songs About Leaving](https://open.spotify.com/album/0DUYAw29meoZyNTJIbXKkf) | 4:46 |
+| 29 | [come](https://open.spotify.com/track/6MX8v7cRooNQb5fW5Uo6Sm) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 5:17 |
 | 30 | [I'm Going to Do It](https://open.spotify.com/track/6pS0PVQYaBYGkKPRxT5PEl) | [Giles Corey](https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv) | [Giles Corey](https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu) | 6:16 |
 | 31 | [Words](https://open.spotify.com/track/01OXa5tVuCssU6j8TY7kxr) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [I Could Live In Hope](https://open.spotify.com/album/61dByu8oBt4qdym9Rkz39w) | 5:48 |
-| 32 | [come](https://open.spotify.com/track/6MX8v7cRooNQb5fW5Uo6Sm) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 5:17 |
+| 32 | [They'll Only Miss You When You Leave](https://open.spotify.com/track/3FmLbfanuf7XgtBypPWWcS) | [Carissa's Wierd](https://open.spotify.com/artist/5VnYwYnG7QmpzQtxyubIwh) | [Songs About Leaving](https://open.spotify.com/album/0DUYAw29meoZyNTJIbXKkf) | 4:46 |
 | 33 | [The Eternal \- 2007 Remaster](https://open.spotify.com/track/7rLB8H9GIzlxgXxXVqQltR) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Closer \(Collector's Edition\)](https://open.spotify.com/album/1HnxC8MLDciii5LebJ09Ko) | 6:04 |
 | 34 | [Warmth of You](https://open.spotify.com/track/11HCS8E6veZP3Mkf3f5Kal) | [Planning For Burial](https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD) | [Below the House](https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW) | 3:33 |
 | 35 | [Waiting for Your Train](https://open.spotify.com/track/4eUOEthFna4tWFZd9Xkd0R) | [Wreath](https://open.spotify.com/artist/3x9rlymTBij2DrVsEst9JX) | [Green Wall](https://open.spotify.com/album/5BBhvTuPLebldrjg1oyPqE) | 2:02 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 | 44 | [River Whispering Run](https://open.spotify.com/track/7A5ldrheWtMQn2SJulc8dI) | [Scanner](https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji) | [Earthbound Transmissions](https://open.spotify.com/album/6cfxV50gEXtH9Pn21VEK4h) | 5:08 |
 | 45 | [Gold of the Azure \- Marconi Union Remix](https://open.spotify.com/track/3PdFwrtQxYdw0S1urHwKO6) | [Digitonal](https://open.spotify.com/artist/5IRw6qWz0NFImXO3hNOyai), [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [Set the Weather Fair: Seasons](https://open.spotify.com/album/3OKHTxMZvKcIhB1tvZTNgq) | 6:36 |
 | 46 | [Close](https://open.spotify.com/track/2qZBYY1G1guH9FjToCn0g4) | [Deaf Center](https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA) | [Vintage Well](https://open.spotify.com/album/6Yq2E5sFMqeT3SsOsdVHTm) | 2:50 |
-| 47 | [The Marble Eye](https://open.spotify.com/track/3AoQFwWETVhTYaM7dzcuoe) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [Dead Magic](https://open.spotify.com/album/29haLrvX37jDkDfwVk4FKV) | 5:18 |
-| 48 | [Below the House](https://open.spotify.com/track/3pcc5i4J7FCGiDzYeq8IHd) | [Planning For Burial](https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD) | [Below the House](https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW) | 3:41 |
+| 47 | [Below the House](https://open.spotify.com/track/3pcc5i4J7FCGiDzYeq8IHd) | [Planning For Burial](https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD) | [Below the House](https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW) | 3:41 |
+| 48 | [The Marble Eye](https://open.spotify.com/track/3AoQFwWETVhTYaM7dzcuoe) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [Dead Magic](https://open.spotify.com/album/29haLrvX37jDkDfwVk4FKV) | 5:18 |
 | 49 | [The Promise of Snakes](https://open.spotify.com/track/46WOO9GoPEsmv4MwC9FK1D) | [The Angelic Process](https://open.spotify.com/artist/4nQSh4CawJC9OZSqwNDS8W) | [Weighing Souls With Sand](https://open.spotify.com/album/74wImGbm2f19lrSbMLuTnl) | 9:32 |
 | 50 | [Still Numbers](https://open.spotify.com/track/5USNS4qU4tmfTIhfYje4Sq) | [Ekin Fil](https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda) | [Heavy](https://open.spotify.com/album/0WsgCDRCCQwrGjXTBTkJmm) | 4:49 |
 | 51 | [Spectral](https://open.spotify.com/track/3U8n9dqqe4louRiL2Sg4fp) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Radio Amor](https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR) | 8:09 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 | 68 | [Polaroid](https://open.spotify.com/track/0ViKD5cWI2NaPeTMhKp9EO) | [Dead Melodies](https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu) | [Murken Hollow](https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q) | 6:57 |
 | 69 | [Slow Bloom](https://open.spotify.com/track/39W0Sl0GtgiLvr15Lq9vju) | [air hunger](https://open.spotify.com/artist/40UUOCP3GVEKusB4RZ50W0) | [Slow Bloom](https://open.spotify.com/album/2Vz8SP9YrEhrCK0seyZw2n) | 4:45 |
 
-Snapshot ID: `MTY4MTQwMjExMiwwMDAwMDAwMDc3MTY4MDI4NTRkNTQyYjI3NWM4MjUyNDg0ZTJhZmVm`
+Snapshot ID: `MTY4MTQwMjExMiwwMDAwMDAwMDFlZDZiYjg1MmE3MTNkZGU0ODZlMTc3ZjFhNThlN2Ji`

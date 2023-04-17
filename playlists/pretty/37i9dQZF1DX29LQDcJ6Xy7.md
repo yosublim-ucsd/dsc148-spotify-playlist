@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 
 > A collection of Industrial Metal – fresh and old tunes\. Cover: Rammstein
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,461 likes - 100 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,684 likes - 100 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,14 +37,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 27 | [Switchback](https://open.spotify.com/track/3lUwCryVobacobYrN5f2Je) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Celldweller \(Deluxe Edition\)](https://open.spotify.com/album/1gStSHuxB1XHGBzPDQHU9w) | 5:02 |
 | 28 | [Skills in Pills](https://open.spotify.com/track/6hvBZMTNAJTCei1BxEATzK) | [Lindemann](https://open.spotify.com/artist/65A714FqhSPjoFZeffQbTv) | [Skills in Pills](https://open.spotify.com/album/0koBPzLDxkhwKrKb3JmJ9n) | 4:15 |
 | 29 | [Save Yourself](https://open.spotify.com/track/13ZS2V2RsGWguOYYvIqDN5) | [Stabbing Westward](https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG) | [Darkest Days](https://open.spotify.com/album/2zbX9auxAGYaWoMEvB2uAg) | 4:13 |
-| 30 | [We're In This Together](https://open.spotify.com/track/3aN2V18W3EiW7eg5tHALpF) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Fragile](https://open.spotify.com/album/4uiVwLbTzE6VMkXpaDAwB8) | 7:16 |
+| 30 | [Every Day Is Exactly The Same](https://open.spotify.com/track/0ypg59NyOVCpWVzd0SUsT5) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [With Teeth](https://open.spotify.com/album/56Us3Q6UIM4jKJZlWhqddL) | 4:54 |
 | 31 | [Blizzard](https://open.spotify.com/track/2n0lbf90sDwDXqLiZP1j2j) | [Erdling](https://open.spotify.com/artist/1YbFcjdUGqumvNIWLVGcJK) | [Yggdrasil](https://open.spotify.com/album/7vQ4OHJ5VSq6M4M3bLKoAa) | 3:14 |
 | 32 | [Zeig dich](https://open.spotify.com/track/3d3k8g4GTVx9EFIFlOZOEX) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rammstein](https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek) | 4:15 |
 | 33 | [Just One Fix](https://open.spotify.com/track/0Vcpo9El50PNNbZXfKbNti) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [KE\*A\*H\*\* \(Psalm 69\)](https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5) | 5:10 |
 | 34 | [New Messiah](https://open.spotify.com/track/784D068nWk6mUvEXkufPnF) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [New Messiah](https://open.spotify.com/album/3M5G33aqX2jA7ZyaujjAem) | 4:30 |
 | 35 | [Liar](https://open.spotify.com/track/5SSgOEhCl3C20ioDkt96fr) | [Gothminister](https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx) | [Anima Inferna](https://open.spotify.com/album/3bu7vMto2xe6ZYLcDJVTLS) | 3:37 |
 | 36 | [My World](https://open.spotify.com/track/3GwzYHGrRn7wMfRtvbjg2U) | [Emigrate](https://open.spotify.com/artist/29fyAsYdzkCIH96xB40um1) | [Emigrate](https://open.spotify.com/album/6F84H4YaytAQkJk6cvP0ri) | 4:17 |
-| 37 | [Every Day Is Exactly The Same](https://open.spotify.com/track/0ypg59NyOVCpWVzd0SUsT5) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [With Teeth](https://open.spotify.com/album/56Us3Q6UIM4jKJZlWhqddL) | 4:54 |
+| 37 | [We're In This Together](https://open.spotify.com/track/3aN2V18W3EiW7eg5tHALpF) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Fragile](https://open.spotify.com/album/4uiVwLbTzE6VMkXpaDAwB8) | 7:16 |
 | 38 | [Megalomaniac](https://open.spotify.com/track/1d3iQh4fTm5D6iRtgrZPZ9) | [KMFDM](https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa) | [Symbols](https://open.spotify.com/album/6g99frcxtUThvTjTwo9LfC) | 6:07 |
 | 39 | [Jagdzeit](https://open.spotify.com/track/1mTCbTpcM1nKkH0wGf70Zq) | [Megaherz](https://open.spotify.com/artist/4tM8qmqg5cEZPHNLNQwHeb) | [Götterdämmerung](https://open.spotify.com/album/4JL1w8tZb0C07FcLYQROra) | 4:18 |
 | 40 | [Tyler Hadley](https://open.spotify.com/track/6Cpz693XZKlnvcxXs1886F) | [SKYND](https://open.spotify.com/artist/3Ca8UhvMDcgM1zyfAZGw3M) | [Chapter II](https://open.spotify.com/album/4HOffsoCDuHaWVjTmlf5jC) | 4:51 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 64 | [The Thing I Hate](https://open.spotify.com/track/4ibsb2epoSHZzDCeoZEluQ) | [Stabbing Westward](https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG) | [Darkest Days](https://open.spotify.com/album/2zbX9auxAGYaWoMEvB2uAg) | 3:36 |
 | 65 | [Jim Jones](https://open.spotify.com/track/7voqYiZoYUyEJnZWWa7d6d) | [SKYND](https://open.spotify.com/artist/3Ca8UhvMDcgM1zyfAZGw3M) | [Chapter II](https://open.spotify.com/album/4HOffsoCDuHaWVjTmlf5jC) | 6:34 |
 | 66 | [PUMPED UP KICKS](https://open.spotify.com/track/3ncucOcYMOd7VQ1jyAA6BU) | [3TEETH](https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2) | [PUMPED UP KICKS](https://open.spotify.com/album/0nCRRcaqMHBnb0hfKnfTPO) | 4:31 |
-| 67 | [Bits and Razors](https://open.spotify.com/track/1u9wZPcZ72MtBdmsmh0FdT) | [Rabbit Junk](https://open.spotify.com/artist/3Cnkej21cJ1XgbAh98CbaS) | [Bits and Razors](https://open.spotify.com/album/1SugTKvFL1DYE9jOrEvxlb) | 4:03 |
+| 67 | [I Sit on Acid](https://open.spotify.com/track/2bUUMb6Xo8G1hhBjzXlb5b) | [Lords Of Acid](https://open.spotify.com/artist/3O3qPC1hmSp7442HYefx5w) | [Lust \(Special Remastered Band Edition\)](https://open.spotify.com/album/568RScapveqsGN0tCmoUKu) | 5:52 |
 | 68 | [A Daisy Chain 4 Satan \- Acid & Flowers Mix](https://open.spotify.com/track/5FwLDsdAgRVc3lZjam3euf) | [My Life With The Thrill Kill Kult](https://open.spotify.com/artist/7FfAD7EYZbQ7aHPy9ujduD) | [Confessions of a Knife](https://open.spotify.com/album/07qAwgxJzZYQCPTQc157eT) | 5:31 |
-| 69 | [I Sit on Acid](https://open.spotify.com/track/2bUUMb6Xo8G1hhBjzXlb5b) | [Lords Of Acid](https://open.spotify.com/artist/3O3qPC1hmSp7442HYefx5w) | [Lust \(Special Remastered Band Edition\)](https://open.spotify.com/album/568RScapveqsGN0tCmoUKu) | 5:52 |
+| 69 | [Bits and Razors](https://open.spotify.com/track/1u9wZPcZ72MtBdmsmh0FdT) | [Rabbit Junk](https://open.spotify.com/artist/3Cnkej21cJ1XgbAh98CbaS) | [Bits and Razors](https://open.spotify.com/album/1SugTKvFL1DYE9jOrEvxlb) | 4:03 |
 | 70 | [Ofelia](https://open.spotify.com/track/3kYCOAQ2UuI4LO13zZ3Pk3) | [Rave The Reqviem](https://open.spotify.com/artist/1NcsVSxFdXsnwvE64zV9xX) | [Ofelia](https://open.spotify.com/album/3rMOT6Us0N6xkRqmoaDX5x) | 3:08 |
 | 71 | [Into the Void](https://open.spotify.com/track/2zAAXQbzIB5e2VpBiGI8SI) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Satellites](https://open.spotify.com/album/4OgyvunD0wEwor26qFeXr0) | 5:16 |
 | 72 | [Medicate Me](https://open.spotify.com/track/5y2aBi3vXTCH482nH6Aq58) | [Davey Suicide](https://open.spotify.com/artist/0JX3GwUe9y5BS2WuQ3qxsV), [Telle Smith](https://open.spotify.com/artist/3DefX0fquR1S2twqp0ui84) | [Rock Ain't Dead](https://open.spotify.com/album/3UQ9ITynmUFwFbbptocuNz) | 3:49 |
@@ -90,9 +90,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 80 | [Suffering You](https://open.spotify.com/track/0HzbDl381rdXtSOaJk20eH) | [16Volt](https://open.spotify.com/artist/4xhhi5wPHqN5vcYhUq1Jim) | [FullBlackHabit](https://open.spotify.com/album/4dy8WNRSh2TFjkHroqThz9) | 3:07 |
 | 81 | [Blitzkrieg](https://open.spotify.com/track/18JcWK7NWc3lNAt0H0UY28) | [Deathstars](https://open.spotify.com/artist/4Tg06Sex4LzwcgVdfRrHlp) | [Termination Bliss](https://open.spotify.com/album/4Ag57DqawdZcI8m6ns0zR7) | 4:06 |
 | 82 | [Prototype](https://open.spotify.com/track/7k2SHJ8HKjjW3sZcDj2eAz) | [The Silverblack](https://open.spotify.com/artist/0ckgPY5JROBCK0hB6tAG5r) | [Prototype 6:17](https://open.spotify.com/album/0AzQ3DznOByMMtnZSt9PvM) | 3:28 |
-| 83 | [Into the Void \- HARD BOX Remix](https://open.spotify.com/track/4gmrTnVyc2Ud9KMWnl05Fh) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ), [Hard Box](https://open.spotify.com/artist/5Eo9seYhBF9X41GH6KqOo3) | [Into the Void \(Remix Contest Compilation\)](https://open.spotify.com/album/456DhMrNFieRfFOI8R4p18) | 3:39 |
+| 83 | [Torpedoes](https://open.spotify.com/track/40Nz6mf4yuDeOW0sscIS63) | [MDFMK](https://open.spotify.com/artist/42rBYWqiCzxYUFQM0iKWwM) | [MDFMK](https://open.spotify.com/album/6kqX8YYU2vBjbzfGc03ya1) | 4:15 |
 | 84 | [Come Back to Life](https://open.spotify.com/track/4D1ucjSLckZ74e0rUfdFMg) | [Lock The Basement](https://open.spotify.com/artist/1zSnVk8QCuI5kAaNsfOQpi) | [Come Back to Life](https://open.spotify.com/album/7auksAd2OUTBNWgYFTmHCx) | 3:28 |
-| 85 | [Torpedoes](https://open.spotify.com/track/40Nz6mf4yuDeOW0sscIS63) | [MDFMK](https://open.spotify.com/artist/42rBYWqiCzxYUFQM0iKWwM) | [MDFMK](https://open.spotify.com/album/6kqX8YYU2vBjbzfGc03ya1) | 4:15 |
+| 85 | [Into the Void \- HARD BOX Remix](https://open.spotify.com/track/4gmrTnVyc2Ud9KMWnl05Fh) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ), [Hard Box](https://open.spotify.com/artist/5Eo9seYhBF9X41GH6KqOo3) | [Into the Void \(Remix Contest Compilation\)](https://open.spotify.com/album/456DhMrNFieRfFOI8R4p18) | 3:39 |
 | 86 | [Sins of the Flesh](https://open.spotify.com/track/1sVdAZGlSHDGUfOqLnJpeS) | [Sister Machine Gun](https://open.spotify.com/artist/7B4wpEyW6m6ptXf0OJzQId) | [Sins Of The Flesh](https://open.spotify.com/album/557HaDd1BQ1EsBCORYv542) | 5:06 |
 | 87 | [For the Beaten](https://open.spotify.com/track/6JcSvWld739CV14RqZyt9u) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [For the Beaten](https://open.spotify.com/album/4uiRHyMCLnJvQ09oMIha5T) | 3:31 |
 | 88 | [Shut Me Down](https://open.spotify.com/track/3LxT4mhYd4JkagpE43Nv9m) | [Godflesh](https://open.spotify.com/artist/5A4ebXQf38xWIq0xSWLhsS) | [A World Lit Only by Fire](https://open.spotify.com/album/1UbMFz1E6gcjrIvqohXoBk) | 4:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 99 | [Black Lipstick](https://open.spotify.com/track/0jXfVK691dITawcnze17h2) | [Powerman 5000](https://open.spotify.com/artist/5imUS9dQyCbAjUEJJ9QyWC) | [Black Lipstick](https://open.spotify.com/album/4sZ7rJiz0mmGjVFK8cC7ql) | 3:23 |
 | 100 | [Da Ya Think I'm Sexy?](https://open.spotify.com/track/2pCEaJskwTTp7omAyUKvR0) | [Revolting Cocks](https://open.spotify.com/artist/7vCJSBATlld5vDKTH87tpG) | [Linger Ficken' Good...And Other Barnyard Oddities](https://open.spotify.com/album/4tK8thYb8QtoE73oH4UzJC) | 5:37 |
 
-Snapshot ID: `MTY4MTIzMjU2MCwwMDAwMDAwMDhmYzA0ZjQxNjBjOTRkMDQzNGVmN2Y3ZGJmYzFjZmRm`
+Snapshot ID: `MTY4MTIzMjU2MCwwMDAwMDAwMDgwODczY2E4ZTc2NTY0Mjc1MDA3ZDM5ZTYzNTY1ZmQ5`

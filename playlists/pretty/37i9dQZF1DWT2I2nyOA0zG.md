@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2I2nyOA0zG.md) - [plain]
 
 > Cool vibes from the African continent.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,124 likes - 80 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,125 likes - 80 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2I2nyOA0zG.md) - [plain]
 | 70 | [Love Don't Cost A Dime](https://open.spotify.com/track/7cSKmgZrlNbSkw4y7sQEa7) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Magixx](https://open.spotify.com/album/4FZn99wJYWhH3sczHcDJDD) | 3:25 |
 | 71 | [Isoka](https://open.spotify.com/track/2gO1rty4jBXQaP7jSuVIh2) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Q Twins](https://open.spotify.com/artist/2krUPP3nMYoF1C5WX3yB7J), [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3) | [Isibuko](https://open.spotify.com/album/4yFM1aHZINPJ8p9Ei7uLOR) | 4:38 |
 | 72 | [SABABISHA](https://open.spotify.com/track/0CEI8Si1kO0UwxhFSCSiBZ) | [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [SAVAGE LEVEL](https://open.spotify.com/album/4PsVnXWUWZxtGddkxSX110) | 4:00 |
-| 73 | [Test Me](https://open.spotify.com/track/45VPTngfUEF7c5rBI2IOja) | [Jeune Lio](https://open.spotify.com/artist/1zz3LkV2ojd7rzmYf2QOsF), [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0), [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [A Night In Cocody](https://open.spotify.com/album/7HX3XJ5NzMPUVBkzYRQtWQ) | 3:40 |
+| 73 | [Test Me](https://open.spotify.com/track/7cb8EEwS3csiKjiee33ZP2) | [Jeune Lio](https://open.spotify.com/artist/1zz3LkV2ojd7rzmYf2QOsF), [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0), [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [A Night In Cocody](https://open.spotify.com/album/7fj4P4j4HNVXX5PZtMaEi2) | 3:40 |
 | 74 | [Inside](https://open.spotify.com/track/2F5IXlnz0CcA5pbLPfkvNp) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ), [London Rhodes](https://open.spotify.com/artist/0xOc1dxgxm7uqzHoq0yS7l) | [Comma](https://open.spotify.com/album/2h2XSOe208XHaiaP4Ska3r) | 3:30 |
 | 75 | [Ngisize Nami](https://open.spotify.com/track/4fyfjQNKxLTKBid9m3XMQc) | [DJ Ngwazi](https://open.spotify.com/artist/1G8HHPk0dZaahLJQPySFCi), [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Nokwazi](https://open.spotify.com/artist/212CRvd7gujQnCCLbRhylL), [Casswell P](https://open.spotify.com/artist/13TUuvzi6FAkiA5F9MiYF8) | [Ngisize Nami](https://open.spotify.com/album/5DTWzDShfa07dCTqMGYsmy) | 5:10 |
 | 76 | [How Are You \(My Friend\)](https://open.spotify.com/track/2QdqML21AFaQPWxmhuv1KW) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [How Are You \(My Friend\)](https://open.spotify.com/album/2h9jc7KGoE0qDayuf6o7pq) | 3:16 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2I2nyOA0zG.md) - [plain]
 | 79 | [Ease Up](https://open.spotify.com/track/6sgHkgLMPeSqZIDb5wGVrg) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Ease Up](https://open.spotify.com/album/1rTssvyovuKtbzwxwWOvrW) | 3:34 |
 | 80 | [Joro](https://open.spotify.com/track/3Yt1ovsh3v3VEzRuhI1TL5) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Joro](https://open.spotify.com/album/1Mj4mLvCC9P4b167keUsRh) | 4:22 |
 
-Snapshot ID: `MTY4MTQ3Njk0MiwwMDAwMDAwMDJiYWNjZDdlMjVkNDQyNDZkNzc2NDc4NDczYWIyN2Vi`
+Snapshot ID: `MTY4MTQ3Njk0MiwwMDAwMDAwMGQ5M2VlMjQzYzBmOTNmN2E5ZjgzNmFhZDM4ZWFiMTVj`

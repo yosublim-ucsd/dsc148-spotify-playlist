@@ -1,12 +1,12 @@
 {
   "description": "Chilled songs that you are familiar with - no surprises!",
-  "num_followers": 1802476,
+  "num_followers": 1803385,
   "original_name": "Comfort Zone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODA5MjA5MSwwMDAwMDAwMDkwYzYxZjIyNjlmYmE2MzEzODc0M2E4OTgwMjUwZWNm",
+  "snapshot_id": "MTY3ODA5MjA5MSwwMDAwMDAwMGU5Mzg3OTRkODliOWM2OGU3YTczYTZmMzA3Y2Y0YmNi",
   "tracks": [
     {
       "added_at": "2022-11-07 15:36:16",
@@ -629,22 +629,6 @@
       "url": "https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e"
     },
     {
-      "added_at": "2022-11-07 15:36:16",
-      "album": {
-        "name": "I met you when I was 18. (the playlist)",
-        "url": "https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 197436,
-      "name": "I Like Me Better",
-      "url": "https://open.spotify.com/track/0EcQcdcbQeVJn9fknj44Be"
-    },
-    {
       "added_at": "2022-12-13 08:59:01",
       "album": {
         "name": "Hollywood's Bleeding",
@@ -663,6 +647,22 @@
       "duration_ms": 157560,
       "name": "Sunflower - Spider-Man: Into the Spider-Verse",
       "url": "https://open.spotify.com/track/0RiRZpuVRbi7oqRdSMwhQY"
+    },
+    {
+      "added_at": "2022-11-07 15:36:16",
+      "album": {
+        "name": "I met you when I was 18. (the playlist)",
+        "url": "https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 197436,
+      "name": "I Like Me Better",
+      "url": "https://open.spotify.com/track/0EcQcdcbQeVJn9fknj44Be"
     },
     {
       "added_at": "2022-11-07 15:36:16",
@@ -735,6 +735,22 @@
     {
       "added_at": "2022-11-07 15:36:16",
       "album": {
+        "name": "Divinely Uninspired To A Hellish Extent",
+        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 220492,
+      "name": "Bruises",
+      "url": "https://open.spotify.com/track/4Of7rzpRpV1mWRbhp5rAqG"
+    },
+    {
+      "added_at": "2022-11-07 15:36:16",
+      "album": {
         "name": "Shawn Mendes (Deluxe)",
         "url": "https://open.spotify.com/album/0xzScN8P3hQAz3BT3YYX5w"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 212120,
       "name": "Let You Down",
       "url": "https://open.spotify.com/track/52okn5MNA47tk87PeZJLEL"
-    },
-    {
-      "added_at": "2022-11-07 15:36:16",
-      "album": {
-        "name": "Divinely Uninspired To A Hellish Extent",
-        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 220492,
-      "name": "Bruises",
-      "url": "https://open.spotify.com/track/4Of7rzpRpV1mWRbhp5rAqG"
     },
     {
       "added_at": "2022-11-07 15:36:16",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-11-07 15:36:16",
       "album": {
-        "name": "Elephunk",
-        "url": "https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 272533,
-      "name": "Where Is The Love?",
-      "url": "https://open.spotify.com/track/0xmjwnQ3FNE6HuWCt2nHdZ"
-    },
-    {
-      "added_at": "2022-11-07 15:36:16",
-      "album": {
         "name": "We Sing. We Dance. We Steal Things.",
         "url": "https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 242946,
       "name": "I'm Yours",
       "url": "https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA"
+    },
+    {
+      "added_at": "2022-11-07 15:36:16",
+      "album": {
+        "name": "Elephunk",
+        "url": "https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 272533,
+      "name": "Where Is The Love?",
+      "url": "https://open.spotify.com/track/0xmjwnQ3FNE6HuWCt2nHdZ"
     },
     {
       "added_at": "2022-11-07 15:36:16",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2022-11-07 15:36:16",
       "album": {
+        "name": "Wanted on Voyage (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 200733,
+      "name": "Budapest",
+      "url": "https://open.spotify.com/track/2ixsaeFioXJmMgkkbd4uj1"
+    },
+    {
+      "added_at": "2022-11-07 15:36:16",
+      "album": {
         "name": "JORDI (Deluxe)",
         "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 227395,
       "name": "Beautiful Mistakes (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/5zFglKYiknIxks8geR8rcL"
-    },
-    {
-      "added_at": "2022-11-07 15:36:16",
-      "album": {
-        "name": "Wanted on Voyage (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 200733,
-      "name": "Budapest",
-      "url": "https://open.spotify.com/track/2ixsaeFioXJmMgkkbd4uj1"
     },
     {
       "added_at": "2022-11-07 15:36:16",
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2022-11-07 15:36:16",
       "album": {
-        "name": "10,000 Hours (with Justin Bieber)",
-        "url": "https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 167693,
-      "name": "10,000 Hours (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa"
-    },
-    {
-      "added_at": "2022-11-07 15:36:16",
-      "album": {
         "name": "Cloud Nine",
         "url": "https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8"
       },
@@ -1579,6 +1559,26 @@
       "duration_ms": 271640,
       "name": "Firestone",
       "url": "https://open.spotify.com/track/1I8tHoNBFTuoJAlh4hfVVE"
+    },
+    {
+      "added_at": "2022-11-07 15:36:16",
+      "album": {
+        "name": "10,000 Hours (with Justin Bieber)",
+        "url": "https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 167693,
+      "name": "10,000 Hours (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa"
     },
     {
       "added_at": "2022-11-07 15:36:16",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2022-11-07 15:36:16",
       "album": {
+        "name": "Flicker (Deluxe)",
+        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 188174,
+      "name": "Slow Hands",
+      "url": "https://open.spotify.com/track/2cOUlop2ZakjOKe4WinesN"
+    },
+    {
+      "added_at": "2022-11-07 15:36:16",
+      "album": {
         "name": "Making Mirrors",
         "url": "https://open.spotify.com/album/1HjSyGjmLNjRAKgT9t1cna"
       },
@@ -1731,38 +1747,6 @@
     {
       "added_at": "2022-11-07 15:36:16",
       "album": {
-        "name": "Flicker (Deluxe)",
-        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 188174,
-      "name": "Slow Hands",
-      "url": "https://open.spotify.com/track/2cOUlop2ZakjOKe4WinesN"
-    },
-    {
-      "added_at": "2023-03-06 08:41:31",
-      "album": {
-        "name": "The Heart Wants What It Wants",
-        "url": "https://open.spotify.com/album/2iFTxCYwhF5oC1L8s1B0rI"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 227373,
-      "name": "The Heart Wants What It Wants",
-      "url": "https://open.spotify.com/track/6wJwkMo278iWVlWl1XQ4WA"
-    },
-    {
-      "added_at": "2022-11-07 15:36:16",
-      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/1I4W7JKzYbl8VKRfD61DIS"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 210090,
       "name": "Stay",
       "url": "https://open.spotify.com/track/6uBhi9gBXWjanegOb2Phh0"
+    },
+    {
+      "added_at": "2023-03-06 08:41:31",
+      "album": {
+        "name": "The Heart Wants What It Wants",
+        "url": "https://open.spotify.com/album/2iFTxCYwhF5oC1L8s1B0rI"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 227373,
+      "name": "The Heart Wants What It Wants",
+      "url": "https://open.spotify.com/track/6wJwkMo278iWVlWl1XQ4WA"
     },
     {
       "added_at": "2022-11-07 15:36:16",
@@ -2231,18 +2231,18 @@
     {
       "added_at": "2022-11-07 15:36:16",
       "album": {
-        "name": "All the Right Reasons",
-        "url": "https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3"
+        "name": "Ronan",
+        "url": "https://open.spotify.com/album/3T9Imnmd2Amt5lyDMqlFq9"
       },
       "artists": [
         {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+          "name": "Ronan Keating",
+          "url": "https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh"
         }
       ],
-      "duration_ms": 238173,
-      "name": "Far Away",
-      "url": "https://open.spotify.com/track/0ADZ5dmXhlfzjMw6lefoPl"
+      "duration_ms": 256825,
+      "name": "When You Say Nothing At All",
+      "url": "https://open.spotify.com/track/0gcjc7Vt5xtcfmJgf6g2IO"
     },
     {
       "added_at": "2022-11-07 15:36:16",
@@ -2263,18 +2263,18 @@
     {
       "added_at": "2022-11-07 15:36:16",
       "album": {
-        "name": "Ronan",
-        "url": "https://open.spotify.com/album/3T9Imnmd2Amt5lyDMqlFq9"
+        "name": "All the Right Reasons",
+        "url": "https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3"
       },
       "artists": [
         {
-          "name": "Ronan Keating",
-          "url": "https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh"
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
         }
       ],
-      "duration_ms": 256825,
-      "name": "When You Say Nothing At All",
-      "url": "https://open.spotify.com/track/0gcjc7Vt5xtcfmJgf6g2IO"
+      "duration_ms": 238173,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/0ADZ5dmXhlfzjMw6lefoPl"
     },
     {
       "added_at": "2022-11-07 15:36:16",
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2022-11-07 15:36:16",
       "album": {
-        "name": "How Do You Sleep?",
-        "url": "https://open.spotify.com/album/7baaCf70tVcUBL2bbkuXjo"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 202204,
-      "name": "How Do You Sleep?",
-      "url": "https://open.spotify.com/track/6b2RcmUt1g9N9mQ3CbjX2Y"
-    },
-    {
-      "added_at": "2022-11-07 15:36:16",
-      "album": {
         "name": "lovestrong.",
         "url": "https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n"
       },
@@ -2355,6 +2339,22 @@
       "duration_ms": 211763,
       "name": "Hold My Girl",
       "url": "https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu"
+    },
+    {
+      "added_at": "2022-11-07 15:36:16",
+      "album": {
+        "name": "How Do You Sleep?",
+        "url": "https://open.spotify.com/album/7baaCf70tVcUBL2bbkuXjo"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 202204,
+      "name": "How Do You Sleep?",
+      "url": "https://open.spotify.com/track/6b2RcmUt1g9N9mQ3CbjX2Y"
     },
     {
       "added_at": "2022-11-07 15:36:16",
@@ -2511,6 +2511,22 @@
     {
       "added_at": "2022-11-07 15:36:16",
       "album": {
+        "name": "Whoa, Nelly! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0emt7fmxNjW3lb37nTOXR0"
+      },
+      "artists": [
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        }
+      ],
+      "duration_ms": 243160,
+      "name": "I'm Like A Bird",
+      "url": "https://open.spotify.com/track/2aGw77pZqli064JiPuXYRi"
+    },
+    {
+      "added_at": "2022-11-07 15:36:16",
+      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ"
       },
@@ -2527,22 +2543,6 @@
       "duration_ms": 199549,
       "name": "Lose Somebody",
       "url": "https://open.spotify.com/track/1sgDyuLooyvEML4oHspNza"
-    },
-    {
-      "added_at": "2022-11-07 15:36:16",
-      "album": {
-        "name": "Whoa, Nelly! (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0emt7fmxNjW3lb37nTOXR0"
-      },
-      "artists": [
-        {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
-        }
-      ],
-      "duration_ms": 243160,
-      "name": "I'm Like A Bird",
-      "url": "https://open.spotify.com/track/2aGw77pZqli064JiPuXYRi"
     },
     {
       "added_at": "2022-11-07 15:36:16",
@@ -2597,22 +2597,6 @@
       "url": "https://open.spotify.com/track/3odrUVQ9tvRpkC9II2oWzx"
     },
     {
-      "added_at": "2023-02-14 06:01:37",
-      "album": {
-        "name": "Dan + Shay",
-        "url": "https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        }
-      ],
-      "duration_ms": 213386,
-      "name": "Speechless",
-      "url": "https://open.spotify.com/track/3GJ4hzg4lrGwU51Y3VARbF"
-    },
-    {
       "added_at": "2022-11-07 15:36:16",
       "album": {
         "name": "Cooleyhighharmony (Bonus Tracks Version)",
@@ -2643,6 +2627,22 @@
       "duration_ms": 183000,
       "name": "Only Human",
       "url": "https://open.spotify.com/track/0DiDStADDVh3SvAsoJAFMk"
+    },
+    {
+      "added_at": "2023-02-14 06:01:37",
+      "album": {
+        "name": "Dan + Shay",
+        "url": "https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 213386,
+      "name": "Speechless",
+      "url": "https://open.spotify.com/track/3GJ4hzg4lrGwU51Y3VARbF"
     },
     {
       "added_at": "2022-11-07 15:36:16",
@@ -2831,22 +2831,6 @@
     {
       "added_at": "2022-11-07 15:36:16",
       "album": {
-        "name": "Promises And Lies",
-        "url": "https://open.spotify.com/album/0B0RuH2PSWoEkIvi75xY5d"
-      },
-      "artists": [
-        {
-          "name": "UB40",
-          "url": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
-        }
-      ],
-      "duration_ms": 207440,
-      "name": "(I Can't Help) Falling In Love With You",
-      "url": "https://open.spotify.com/track/7ojJ4XvqBhBcteM0zjMebT"
-    },
-    {
-      "added_at": "2022-11-07 15:36:16",
-      "album": {
         "name": "18 Til I Die",
         "url": "https://open.spotify.com/album/29t8lxRlQIyG4K5Xaydt46"
       },
@@ -2863,18 +2847,18 @@
     {
       "added_at": "2022-11-07 15:36:16",
       "album": {
-        "name": "1950",
-        "url": "https://open.spotify.com/album/5p0UaZsYWMn4L1dSpc6AhN"
+        "name": "Promises And Lies",
+        "url": "https://open.spotify.com/album/0B0RuH2PSWoEkIvi75xY5d"
       },
       "artists": [
         {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+          "name": "UB40",
+          "url": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
         }
       ],
-      "duration_ms": 225133,
-      "name": "1950",
-      "url": "https://open.spotify.com/track/0CZ8lquoTX2Dkg7Ak2inwA"
+      "duration_ms": 207440,
+      "name": "(I Can't Help) Falling In Love With You",
+      "url": "https://open.spotify.com/track/7ojJ4XvqBhBcteM0zjMebT"
     },
     {
       "added_at": "2022-11-07 15:36:16",
@@ -2895,18 +2879,18 @@
     {
       "added_at": "2022-11-07 15:36:16",
       "album": {
-        "name": "Love Always",
-        "url": "https://open.spotify.com/album/5cmtcMzuUZq8vxS5T7NVPu"
+        "name": "1950",
+        "url": "https://open.spotify.com/album/5p0UaZsYWMn4L1dSpc6AhN"
       },
       "artists": [
         {
-          "name": "K-Ci & JoJo",
-          "url": "https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK"
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
         }
       ],
-      "duration_ms": 331240,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/5GorFaKkP2mLREQvhSblIg"
+      "duration_ms": 225133,
+      "name": "1950",
+      "url": "https://open.spotify.com/track/0CZ8lquoTX2Dkg7Ak2inwA"
     },
     {
       "added_at": "2022-11-07 15:36:16",
@@ -2927,18 +2911,18 @@
     {
       "added_at": "2022-11-07 15:36:16",
       "album": {
-        "name": "3 (The Purple Album)",
-        "url": "https://open.spotify.com/album/02gV87QEIFp2T9q7OqVBjj"
+        "name": "Love Always",
+        "url": "https://open.spotify.com/album/5cmtcMzuUZq8vxS5T7NVPu"
       },
       "artists": [
         {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+          "name": "K-Ci & JoJo",
+          "url": "https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK"
         }
       ],
-      "duration_ms": 205440,
-      "name": "Love Someone",
-      "url": "https://open.spotify.com/track/0OCRwXbQRdOZ1OtB4Imsp1"
+      "duration_ms": 331240,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/5GorFaKkP2mLREQvhSblIg"
     },
     {
       "added_at": "2022-11-07 15:36:16",
@@ -2955,6 +2939,22 @@
       "duration_ms": 278746,
       "name": "Adore You",
       "url": "https://open.spotify.com/track/5AnCLGg35ziFOloEnXK4uu"
+    },
+    {
+      "added_at": "2022-11-07 15:36:16",
+      "album": {
+        "name": "3 (The Purple Album)",
+        "url": "https://open.spotify.com/album/02gV87QEIFp2T9q7OqVBjj"
+      },
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        }
+      ],
+      "duration_ms": 205440,
+      "name": "Love Someone",
+      "url": "https://open.spotify.com/track/0OCRwXbQRdOZ1OtB4Imsp1"
     },
     {
       "added_at": "2022-11-07 15:36:16",
@@ -3123,6 +3123,22 @@
     {
       "added_at": "2022-11-07 15:36:16",
       "album": {
+        "name": "Sunset Lover",
+        "url": "https://open.spotify.com/album/4Ky2PpWb26OxNabAMffyBw"
+      },
+      "artists": [
+        {
+          "name": "Petit Biscuit",
+          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
+        }
+      ],
+      "duration_ms": 237792,
+      "name": "Sunset Lover",
+      "url": "https://open.spotify.com/track/0hNduWmlWmEmuwEFcYvRu1"
+    },
+    {
+      "added_at": "2022-11-07 15:36:16",
+      "album": {
         "name": "Lover (Remix) [feat. Shawn Mendes]",
         "url": "https://open.spotify.com/album/2UfvnX1YYeC2cExMQTMbXC"
       },
@@ -3143,38 +3159,6 @@
     {
       "added_at": "2022-11-07 15:36:16",
       "album": {
-        "name": "Sunset Lover",
-        "url": "https://open.spotify.com/album/4Ky2PpWb26OxNabAMffyBw"
-      },
-      "artists": [
-        {
-          "name": "Petit Biscuit",
-          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
-        }
-      ],
-      "duration_ms": 237792,
-      "name": "Sunset Lover",
-      "url": "https://open.spotify.com/track/0hNduWmlWmEmuwEFcYvRu1"
-    },
-    {
-      "added_at": "2022-11-07 15:36:16",
-      "album": {
-        "name": "Please Don't Go",
-        "url": "https://open.spotify.com/album/2SF8Wbc61u8hlQkZYGVCnx"
-      },
-      "artists": [
-        {
-          "name": "Joel Adams",
-          "url": "https://open.spotify.com/artist/36jaGQtMj5UWD0eO1fCVdD"
-        }
-      ],
-      "duration_ms": 210580,
-      "name": "Please Don't Go",
-      "url": "https://open.spotify.com/track/3cNjgVBKTJ1SvKhunrCdVy"
-    },
-    {
-      "added_at": "2022-11-07 15:36:16",
-      "album": {
         "name": "Electronic Earth (Expanded Edition)",
         "url": "https://open.spotify.com/album/6PBBbXmYV7dKnaik0fjkOI"
       },
@@ -3191,6 +3175,22 @@
       "duration_ms": 271813,
       "name": "Beneath Your Beautiful (feat. Emeli Sand\u00e9)",
       "url": "https://open.spotify.com/track/2EcsgXlxz99UMDSPg5T8RF"
+    },
+    {
+      "added_at": "2022-11-07 15:36:16",
+      "album": {
+        "name": "Please Don't Go",
+        "url": "https://open.spotify.com/album/2SF8Wbc61u8hlQkZYGVCnx"
+      },
+      "artists": [
+        {
+          "name": "Joel Adams",
+          "url": "https://open.spotify.com/artist/36jaGQtMj5UWD0eO1fCVdD"
+        }
+      ],
+      "duration_ms": 210580,
+      "name": "Please Don't Go",
+      "url": "https://open.spotify.com/track/3cNjgVBKTJ1SvKhunrCdVy"
     },
     {
       "added_at": "2022-11-07 15:36:16",
@@ -3299,22 +3299,6 @@
     {
       "added_at": "2022-11-07 15:36:16",
       "album": {
-        "name": "Please Keep Loving Me",
-        "url": "https://open.spotify.com/album/53ZfIHyk0AhUHeVRBCIl64"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 195920,
-      "name": "Please Keep Loving Me",
-      "url": "https://open.spotify.com/track/78zUxUPvONPgMIt46q5be6"
-    },
-    {
-      "added_at": "2022-11-07 15:36:16",
-      "album": {
         "name": "Broad Stories",
         "url": "https://open.spotify.com/album/0DjyKeAM1LL48qIipVMOBD"
       },
@@ -3327,6 +3311,22 @@
       "duration_ms": 191813,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/5M5IB1cNzJqbWFEUK4a1MD"
+    },
+    {
+      "added_at": "2022-11-07 15:36:16",
+      "album": {
+        "name": "Please Keep Loving Me",
+        "url": "https://open.spotify.com/album/53ZfIHyk0AhUHeVRBCIl64"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 195920,
+      "name": "Please Keep Loving Me",
+      "url": "https://open.spotify.com/track/78zUxUPvONPgMIt46q5be6"
     },
     {
       "added_at": "2022-11-07 15:36:16",

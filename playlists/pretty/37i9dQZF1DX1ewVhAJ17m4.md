@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 
 > All the best new songs from the pop punk scene\. Cover: Hot Milk
 
-[Spotify](https://open.spotify.com/user/spotify) - 551,215 likes - 82 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 551,271 likes - 82 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 62 | [Six Feet Under](https://open.spotify.com/track/54BhHvjtrz2eqGomjZK9mg) | [Ty Arena$](https://open.spotify.com/artist/08oF6bUJ3xPBr6XQsJdxpI), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Six Feet Under](https://open.spotify.com/album/4C8d8WgzPnrxZyJdlNgzHo) | 2:13 |
 | 63 | [Teenage Runaways](https://open.spotify.com/track/0n26pelcG2JrPeIhuA7YNh) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [The King and Queen of Gasoline](https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP) | 2:59 |
 | 64 | [HEAVYWEIGHT](https://open.spotify.com/track/6bAx3WfHbtY4LjuS7tdCPK) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7), [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [HEAVYWEIGHT](https://open.spotify.com/album/5c3oE6tatGA1ZeLDA4IIa9) | 2:49 |
-| 65 | [REAL SUPER DARK](https://open.spotify.com/track/6nXtGWUzOGxfI7q5hUa6Jj) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/7exaI7MyauQNCOqbyqU27C) | 2:29 |
+| 65 | [REAL SUPER DARK](https://open.spotify.com/track/2YGfjeZvYJyy1BQrbsLmGr) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:29 |
 | 66 | [Low Tide](https://open.spotify.com/track/3DOxjr9bzKOfWZS59phJ0p) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [Low Tide](https://open.spotify.com/album/3XLKkItEzGdJI4w4fC2VCV) | 3:37 |
 | 67 | [The Airport](https://open.spotify.com/track/4wEZvijBJiwUVRpRtOf57I) | [Cameron Sanderson](https://open.spotify.com/artist/182llcVnhxpVBBmfSElMHX) | [The Airport](https://open.spotify.com/album/7xhsmbA4nTan7kD38hwZin) | 3:16 |
 | 68 | [COLD BEER](https://open.spotify.com/track/5pYO1LrXa4dbO2SxSliUhs) | [LESANE](https://open.spotify.com/artist/57N1gBU2XPgJH1f8UPBW7L) | [GENRELESS](https://open.spotify.com/album/7kTqaUsZea6CxLpvgzRA3E) | 1:41 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 81 | [Nowhere, Ohio](https://open.spotify.com/track/1jxrEckdckgBi6Ooymx5j1) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [Nowhere, Ohio](https://open.spotify.com/album/4FCAlxabfOFH49RbFNrGWE) | 3:04 |
 | 82 | [Sand on the Beach](https://open.spotify.com/track/45WduJCqST7pBJPvxZ6ZgU) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Sand on the Beach](https://open.spotify.com/album/3vcKqp5Pque6sqEXiZvMtU) | 2:16 |
 
-Snapshot ID: `MTY4MDI4MDI0MiwwMDAwMDAwMDk0OTgwNGU2YzQzMGI2ZDBmNWJhNzU4OWJmZDIxNjY2`
+Snapshot ID: `MTY4MDI4MDI0MiwwMDAwMDAwMDhhNTg0NTFiNjIzMzg1NGEwMGYyM2EyNDgzMDUzOGVk`

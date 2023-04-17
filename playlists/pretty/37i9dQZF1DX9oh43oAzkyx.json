@@ -1,12 +1,12 @@
 {
   "description": "Energy tracks to get your beast mode on.",
-  "num_followers": 1537938,
+  "num_followers": 1539024,
   "original_name": "Beast Mode Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDhmYzkwNTA2NGRhMWMyZTIwMGI2ZTI1ZWViZGJhZjM3",
+  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDFjMTUwMTk2YWY5NWE2MGM4YWVlYTMzMTk3Nzc5OTM1",
   "tracks": [
     {
       "added_at": "2023-04-14 04:00:00",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Come Home The Kids Miss You",
-        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 135053,
-      "name": "Dua Lipa",
-      "url": "https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies",
         "url": "https://open.spotify.com/album/0kxA9Bc8pamypR5GYXmeti"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 200547,
       "name": "Super Gremlin",
       "url": "https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 135053,
+      "name": "Dua Lipa",
+      "url": "https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -575,26 +575,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "King Snipe",
-        "url": "https://open.spotify.com/album/2itGUEHsT50CrgnuO2msY7"
-      },
-      "artists": [
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 214593,
-      "name": "King Snipe",
-      "url": "https://open.spotify.com/track/0UMqDSXk4xvoCNRrIEPf7T"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Legendary",
         "url": "https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 229210,
       "name": "Taste (feat. Offset)",
       "url": "https://open.spotify.com/track/2toVe5hfuIi97ytDPDbQFt"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "King Snipe",
+        "url": "https://open.spotify.com/album/2itGUEHsT50CrgnuO2msY7"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 214593,
+      "name": "King Snipe",
+      "url": "https://open.spotify.com/track/0UMqDSXk4xvoCNRrIEPf7T"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Sremm 4 Life",
+        "url": "https://open.spotify.com/album/4tFqnaGkCBUjraLUw07Q67"
+      },
+      "artists": [
+        {
+          "name": "Rae Sremmurd",
+          "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Mississippi Slide",
+      "url": "https://open.spotify.com/track/4tiKQGqkoVmvshWNFDvFxG"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Sharing Locations (feat. Lil Baby & Lil Durk)",
         "url": "https://open.spotify.com/album/0q6qOUfC4ikWtv62KCnoip"
       },
@@ -1083,74 +1099,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Sremm 4 Life",
-        "url": "https://open.spotify.com/album/4tFqnaGkCBUjraLUw07Q67"
-      },
-      "artists": [
-        {
-          "name": "Rae Sremmurd",
-          "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Mississippi Slide",
-      "url": "https://open.spotify.com/track/4tiKQGqkoVmvshWNFDvFxG"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "IN DIMES WE TRUST",
-        "url": "https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF"
-      },
-      "artists": [
-        {
-          "name": "Mike Dimes",
-          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
-        }
-      ],
-      "duration_ms": 174915,
-      "name": "HOME",
-      "url": "https://open.spotify.com/track/1tIgeZloeOtSJrVx9WiArC"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Blow",
-        "url": "https://open.spotify.com/album/07AiRVrtrniKqkxHpLLY2g"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 182533,
-      "name": "Blow",
-      "url": "https://open.spotify.com/track/2g3qKijfeHfDyM7Fmaoi5M"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "SUVs (Black on Black)",
-        "url": "https://open.spotify.com/album/4K3SQSfKMXLcVnyUSFELZw"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        },
-        {
-          "name": "Pooh Shiesty",
-          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
-        }
-      ],
-      "duration_ms": 157675,
-      "name": "SUVs (Black on Black)",
-      "url": "https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "I'M REALLY LIKE THAT",
         "url": "https://open.spotify.com/album/6hFTxaqHvUadGLRV9xDEjV"
       },
@@ -1171,6 +1119,58 @@
       "duration_ms": 168856,
       "name": "Andale",
       "url": "https://open.spotify.com/track/4EgZqNfwsDJ1HvvSMEXypp"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Blow",
+        "url": "https://open.spotify.com/album/07AiRVrtrniKqkxHpLLY2g"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 182533,
+      "name": "Blow",
+      "url": "https://open.spotify.com/track/2g3qKijfeHfDyM7Fmaoi5M"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "IN DIMES WE TRUST",
+        "url": "https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF"
+      },
+      "artists": [
+        {
+          "name": "Mike Dimes",
+          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+        }
+      ],
+      "duration_ms": 174915,
+      "name": "HOME",
+      "url": "https://open.spotify.com/track/1tIgeZloeOtSJrVx9WiArC"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "SUVs (Black on Black)",
+        "url": "https://open.spotify.com/album/4K3SQSfKMXLcVnyUSFELZw"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        }
+      ],
+      "duration_ms": 157675,
+      "name": "SUVs (Black on Black)",
+      "url": "https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5"
     },
     {
       "added_at": "2023-04-14 04:00:00",

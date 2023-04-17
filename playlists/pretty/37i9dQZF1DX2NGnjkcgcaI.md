@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2NGnjkcgcaI.md) - [plain]
 
 > Deep sounds of minimal dub techno to keep you on track.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,900 likes - 58 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,944 likes - 58 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

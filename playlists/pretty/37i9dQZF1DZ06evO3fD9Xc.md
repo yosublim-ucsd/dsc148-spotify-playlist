@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3fD9Xc.md) - [plain]
 
 > This is Carolina Ross\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,287 likes - 49 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,308 likes - 49 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,22 +40,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3fD9Xc.md) - [plain]
 | 30 | [Adios Amor](https://open.spotify.com/track/5sF3HxdhvRIIDOd9XwE3rc) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers](https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY) | 3:44 |
 | 31 | [Cuando Caiga la Noche](https://open.spotify.com/track/15mqnAeCOQXcMB3u48RIin) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuando Caiga la Noche](https://open.spotify.com/album/366Q6rUOSrYDXjrDiuL1lU) | 3:21 |
 | 32 | [Y Tú](https://open.spotify.com/track/2yPP1AqeDgkVK1H2cZPsLS) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 3](https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy) | 2:06 |
-| 33 | [El Barco](https://open.spotify.com/track/0O195ut6Wlnv0ppzxmEpU4) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W) | 3:46 |
-| 34 | [Mi Mayor Anhelo](https://open.spotify.com/track/5GF4Jwl28VSwPZrweQEXst) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 5](https://open.spotify.com/album/269CUSn61yMvZIcJqkxGgH) | 3:11 |
+| 33 | [Mi Mayor Anhelo](https://open.spotify.com/track/5GF4Jwl28VSwPZrweQEXst) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 5](https://open.spotify.com/album/269CUSn61yMvZIcJqkxGgH) | 3:11 |
+| 34 | [El Barco](https://open.spotify.com/track/0O195ut6Wlnv0ppzxmEpU4) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W) | 3:46 |
 | 35 | [Tengo Que Colgar](https://open.spotify.com/track/5k9In7MRqmG3fSxjpaLIzD) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 2](https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR) | 4:02 |
-| 36 | [El Triste](https://open.spotify.com/track/7dS44IlBfrCBv1J6UP4NKP) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [El Triste](https://open.spotify.com/album/64XgI0RnipGlDqapRLDFA6) | 4:23 |
-| 37 | [Siempre Te Voy a Querer](https://open.spotify.com/track/2bNYigumZc9MMdc621Hn7N) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers](https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY) | 3:46 |
+| 36 | [Siempre Te Voy a Querer](https://open.spotify.com/track/2bNYigumZc9MMdc621Hn7N) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers](https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY) | 3:46 |
+| 37 | [El Triste](https://open.spotify.com/track/7dS44IlBfrCBv1J6UP4NKP) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [El Triste](https://open.spotify.com/album/64XgI0RnipGlDqapRLDFA6) | 4:23 |
 | 38 | [Si Quieres \- Versión Mariachi](https://open.spotify.com/track/1KOoIXcpacszpKQMhHhY1A) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Si Quieres \(Versión Mariachi\)](https://open.spotify.com/album/3C836EDbA7xMYdCKS42MLc) | 4:18 |
 | 39 | [Mi Sorpresa Fuiste Tú](https://open.spotify.com/track/3UncEao5y2QXGbDFaDsMQl) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 5](https://open.spotify.com/album/269CUSn61yMvZIcJqkxGgH) | 3:59 |
 | 40 | [Tú Eres Mi Lugar](https://open.spotify.com/track/07kodbU6prewaQmLdqvpFl) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Tú Eres Mi Lugar](https://open.spotify.com/album/3a9NkLItY49twhBwLBRGEo) | 2:47 |
 | 41 | [Como No Adorarla](https://open.spotify.com/track/1aqJMMLk8toQzNxYucJAxx) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 4](https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7) | 3:25 |
 | 42 | [Uno Y Uno](https://open.spotify.com/track/0icE6mNTDgKULNLMZuLebj) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W) | 3:53 |
-| 43 | [Ya Lo Sé Que Tú Te Vas](https://open.spotify.com/track/13JmKPnANDG4nNcXdURZNR) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers](https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY) | 3:16 |
-| 44 | [Despacito](https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 3](https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy) | 3:51 |
+| 43 | [Despacito](https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 3](https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy) | 3:51 |
+| 44 | [Ya Lo Sé Que Tú Te Vas](https://open.spotify.com/track/13JmKPnANDG4nNcXdURZNR) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers](https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY) | 3:16 |
 | 45 | [Si Me Tenías](https://open.spotify.com/track/5KQqFvTyDGh7eumS8WpbD5) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 4](https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7) | 4:00 |
 | 46 | [Me Va A Extrañar](https://open.spotify.com/track/6ba7EliMJofFCitLiNDX80) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 6](https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8) | 4:09 |
-| 47 | [Ni El Alcohol](https://open.spotify.com/track/5ggxJg5dMINcUxXWzs8dh7) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W) | 3:34 |
-| 48 | [Te Lo Pido por Favor](https://open.spotify.com/track/1Uv0WKqaR9JDqEUJvflJB9) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 3](https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy) | 2:44 |
+| 47 | [Te Lo Pido por Favor](https://open.spotify.com/track/1Uv0WKqaR9JDqEUJvflJB9) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 3](https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy) | 2:44 |
+| 48 | [Ni El Alcohol](https://open.spotify.com/track/5ggxJg5dMINcUxXWzs8dh7) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W) | 3:34 |
 | 49 | [Invéntame](https://open.spotify.com/track/6T8R9TnadyABz3IWs0F9Zi) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [MAS Norteño](https://open.spotify.com/album/2qZpfoPNjNiteXskjgTICQ) | 3:19 |
 
-Snapshot ID: `MjgwMjYwMzIsMDAwMDAwMDBiOTU1OGQ0MzJlOTg3NDQwNTkwNDI1NTIxMzk5YmMyZQ==`
+Snapshot ID: `MjgwMjc0MDEsMDAwMDAwMDAwM2E2MTc0MDU0NmQ5MzNmN2UxY2NiYWRkNWJiY2NlZQ==`

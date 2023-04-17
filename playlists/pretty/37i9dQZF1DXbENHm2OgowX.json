@@ -1,12 +1,12 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 32939,
+  "num_followers": 33785,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQwMjExMiwwMDAwMDAwMDc3MTY4MDI4NTRkNTQyYjI3NWM4MjUyNDg0ZTJhZmVm",
+  "snapshot_id": "MTY4MTQwMjExMiwwMDAwMDAwMDFlZDZiYjg1MmE3MTNkZGU0ODZlMTc3ZjFhNThlN2Ji",
   "tracks": [
     {
       "added_at": "2023-04-13 16:08:32",
@@ -463,18 +463,18 @@
     {
       "added_at": "2023-04-13 16:08:32",
       "album": {
-        "name": "Songs About Leaving",
-        "url": "https://open.spotify.com/album/0DUYAw29meoZyNTJIbXKkf"
+        "name": "songs",
+        "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
       },
       "artists": [
         {
-          "name": "Carissa's Wierd",
-          "url": "https://open.spotify.com/artist/5VnYwYnG7QmpzQtxyubIwh"
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 286160,
-      "name": "They'll Only Miss You When You Leave",
-      "url": "https://open.spotify.com/track/3FmLbfanuf7XgtBypPWWcS"
+      "duration_ms": 317455,
+      "name": "come",
+      "url": "https://open.spotify.com/track/6MX8v7cRooNQb5fW5Uo6Sm"
     },
     {
       "added_at": "2023-04-13 16:08:32",
@@ -511,18 +511,18 @@
     {
       "added_at": "2023-04-13 16:08:32",
       "album": {
-        "name": "songs",
-        "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
+        "name": "Songs About Leaving",
+        "url": "https://open.spotify.com/album/0DUYAw29meoZyNTJIbXKkf"
       },
       "artists": [
         {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+          "name": "Carissa's Wierd",
+          "url": "https://open.spotify.com/artist/5VnYwYnG7QmpzQtxyubIwh"
         }
       ],
-      "duration_ms": 317455,
-      "name": "come",
-      "url": "https://open.spotify.com/track/6MX8v7cRooNQb5fW5Uo6Sm"
+      "duration_ms": 286160,
+      "name": "They'll Only Miss You When You Leave",
+      "url": "https://open.spotify.com/track/3FmLbfanuf7XgtBypPWWcS"
     },
     {
       "added_at": "2023-04-13 16:08:32",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-04-13 16:08:32",
       "album": {
-        "name": "Dead Magic",
-        "url": "https://open.spotify.com/album/29haLrvX37jDkDfwVk4FKV"
-      },
-      "artists": [
-        {
-          "name": "Anna von Hausswolff",
-          "url": "https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6"
-        }
-      ],
-      "duration_ms": 318786,
-      "name": "The Marble Eye",
-      "url": "https://open.spotify.com/track/3AoQFwWETVhTYaM7dzcuoe"
-    },
-    {
-      "added_at": "2023-04-13 16:08:32",
-      "album": {
         "name": "Below the House",
         "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 221213,
       "name": "Below the House",
       "url": "https://open.spotify.com/track/3pcc5i4J7FCGiDzYeq8IHd"
+    },
+    {
+      "added_at": "2023-04-13 16:08:32",
+      "album": {
+        "name": "Dead Magic",
+        "url": "https://open.spotify.com/album/29haLrvX37jDkDfwVk4FKV"
+      },
+      "artists": [
+        {
+          "name": "Anna von Hausswolff",
+          "url": "https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6"
+        }
+      ],
+      "duration_ms": 318786,
+      "name": "The Marble Eye",
+      "url": "https://open.spotify.com/track/3AoQFwWETVhTYaM7dzcuoe"
     },
     {
       "added_at": "2023-04-13 16:08:32",

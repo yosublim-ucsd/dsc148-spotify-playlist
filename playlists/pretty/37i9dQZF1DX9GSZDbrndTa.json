@@ -1,12 +1,12 @@
 {
   "description": "The bluesy side of jazz",
-  "num_followers": 80756,
+  "num_followers": 80827,
   "original_name": "Jazz-Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTIzMSwwMDAwMDAwMGFlYTc3OGUzZTExODNlM2U4MTY5ZjQyODBjMjlhZWE5",
+  "snapshot_id": "MTY0ODQ5OTIzMSwwMDAwMDAwMGE5ZTQ3N2JjOTg0MTM4MmJmODNmMGExMTZmNDNjMzg0",
   "tracks": [
     {
       "added_at": "2020-10-12 18:15:54",
@@ -319,22 +319,6 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
-        "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 220520,
-      "name": "Red Pepper Blues",
-      "url": "https://open.spotify.com/track/2w3DhdtQDnAzeNNH39kfpJ"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
         "name": "Charlie Parker Memorial, Vol. 2",
         "url": "https://open.spotify.com/album/3WcccRKyAbHewZflPyCpxV"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 192186,
       "name": "Billie's Bounce - Original",
       "url": "https://open.spotify.com/track/35hrtW3WmLUVn32cOjFa6f"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
+        "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
+        "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 220520,
+      "name": "Red Pepper Blues",
+      "url": "https://open.spotify.com/track/2w3DhdtQDnAzeNNH39kfpJ"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -571,6 +571,22 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
+        "name": "The Complete Miles Davis Featuring John Coltrane",
+        "url": "https://open.spotify.com/album/1sR0Ymo55UT2tkcOn05Qur"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 583266,
+      "name": "Freddie Freeloader",
+      "url": "https://open.spotify.com/track/1UOH2i8z5xitX8PgVUH6nU"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
         "name": "Cookin' With The Miles Davis Quintet",
         "url": "https://open.spotify.com/album/6QPFCq6SHAOhBI1Vf14G0y"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 762666,
       "name": "Tenor madness",
       "url": "https://open.spotify.com/track/3FbVaUe0hFeLKun8dHAOls"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
-        "name": "The Complete Miles Davis Featuring John Coltrane",
-        "url": "https://open.spotify.com/album/1sR0Ymo55UT2tkcOn05Qur"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 583266,
-      "name": "Freddie Freeloader",
-      "url": "https://open.spotify.com/track/1UOH2i8z5xitX8PgVUH6nU"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -711,22 +711,6 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Bird 100",
-        "url": "https://open.spotify.com/album/28J5TDJB3TLEh9fCCzXHWW"
-      },
-      "artists": [
-        {
-          "name": "Charlie Parker Quartet",
-          "url": "https://open.spotify.com/artist/5GBe2GMfPm3IFagD5XuKKs"
-        }
-      ],
-      "duration_ms": 182866,
-      "name": "Chi Chi",
-      "url": "https://open.spotify.com/track/5FzhjFoN3ND1tvndL6rAOj"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
         "name": "Sweet Honey Bee",
         "url": "https://open.spotify.com/album/012q6K9l8vQ83WnDILovA0"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 358746,
       "name": "Ready Rudy?",
       "url": "https://open.spotify.com/track/4VhFcVYUSxazQVNDCAIGhP"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/7BgaGSjJZSWv6xyNTWAGij"
+      },
+      "artists": [
+        {
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+        }
+      ],
+      "duration_ms": 384706,
+      "name": "Turnaround",
+      "url": "https://open.spotify.com/track/3wBXrskjoga4hPUvewTxDR"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -759,18 +759,18 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/7BgaGSjJZSWv6xyNTWAGij"
+        "name": "Bird 100",
+        "url": "https://open.spotify.com/album/28J5TDJB3TLEh9fCCzXHWW"
       },
       "artists": [
         {
-          "name": "Joshua Redman",
-          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+          "name": "Charlie Parker Quartet",
+          "url": "https://open.spotify.com/artist/5GBe2GMfPm3IFagD5XuKKs"
         }
       ],
-      "duration_ms": 384706,
-      "name": "Turnaround",
-      "url": "https://open.spotify.com/track/3wBXrskjoga4hPUvewTxDR"
+      "duration_ms": 182866,
+      "name": "Chi Chi",
+      "url": "https://open.spotify.com/track/5FzhjFoN3ND1tvndL6rAOj"
     },
     {
       "added_at": "2020-10-12 18:15:54",

@@ -1,12 +1,12 @@
 {
   "description": "The home of Latin R&B. La casa del R&B Latino. Cover: Chicocurlyhead\n",
-  "num_followers": 105991,
+  "num_followers": 106035,
   "original_name": "Latin R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ4NDk1NiwwMDAwMDAwMGJkYjg3Y2JjNWY2NTA2ZjRiZjcwNDUzN2I5ZWE4MmVl",
+  "snapshot_id": "MTY3ODQ4NDk1NiwwMDAwMDAwMGY3OTUwNWIyMDMzZjk3ZjAzY2RkOGYwNDdiZjY1MWZl",
   "tracks": [
     {
       "added_at": "2023-03-10 21:49:16",
@@ -927,26 +927,6 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
-        "name": "Quiz\u00e1s",
-        "url": "https://open.spotify.com/album/6pu8sEx8UvVuGbVI2WvSLy"
-      },
-      "artists": [
-        {
-          "name": "Flowyn",
-          "url": "https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375"
-        },
-        {
-          "name": "DrefQuila",
-          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
-        }
-      ],
-      "duration_ms": 248550,
-      "name": "Quiz\u00e1s",
-      "url": "https://open.spotify.com/track/2WAt7nE4oWR5yn6dUil3Qp"
-    },
-    {
-      "added_at": "2023-03-10 21:49:16",
-      "album": {
         "name": "5 A.M.",
         "url": "https://open.spotify.com/album/2qd0uOP9veFhIFUKbuW2ks"
       },
@@ -963,18 +943,22 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
-        "name": "I.W.Y.",
-        "url": "https://open.spotify.com/album/0W3AKS1vhthN13diu18bTH"
+        "name": "Quiz\u00e1s",
+        "url": "https://open.spotify.com/album/6pu8sEx8UvVuGbVI2WvSLy"
       },
       "artists": [
         {
-          "name": "Carlos Unger",
-          "url": "https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf"
+          "name": "Flowyn",
+          "url": "https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375"
+        },
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
         }
       ],
-      "duration_ms": 173165,
-      "name": "I.W.Y.",
-      "url": "https://open.spotify.com/track/2qePnoTLNzI1aJHLdLBvQM"
+      "duration_ms": 248550,
+      "name": "Quiz\u00e1s",
+      "url": "https://open.spotify.com/track/2WAt7nE4oWR5yn6dUil3Qp"
     },
     {
       "added_at": "2023-03-10 21:49:16",
@@ -999,6 +983,22 @@
       "duration_ms": 215777,
       "name": "Supersad",
       "url": "https://open.spotify.com/track/45GH9XOvr1OR5znGgqXyxW"
+    },
+    {
+      "added_at": "2023-03-10 21:49:16",
+      "album": {
+        "name": "I.W.Y.",
+        "url": "https://open.spotify.com/album/0W3AKS1vhthN13diu18bTH"
+      },
+      "artists": [
+        {
+          "name": "Carlos Unger",
+          "url": "https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf"
+        }
+      ],
+      "duration_ms": 173165,
+      "name": "I.W.Y.",
+      "url": "https://open.spotify.com/track/2qePnoTLNzI1aJHLdLBvQM"
     },
     {
       "added_at": "2023-03-10 21:49:16",
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
-        "name": "Quiero (TDH's Version)",
-        "url": "https://open.spotify.com/album/0mPX5LdIJMkxNUDYhAHncL"
+        "name": "Flavors 3",
+        "url": "https://open.spotify.com/album/2AE8X5DCAuquqbJCQQRhT6"
       },
       "artists": [
         {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+          "name": "LATENIGHTJIGGY",
+          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
         }
       ],
-      "duration_ms": 157920,
-      "name": "Quiero - TDH's Version",
-      "url": "https://open.spotify.com/track/7e3cIM6xKrx10ermMTYu3L"
+      "duration_ms": 149458,
+      "name": "What More",
+      "url": "https://open.spotify.com/track/5nnj82z3JN9DALrgb6lowY"
     },
     {
       "added_at": "2023-03-10 21:49:16",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
-        "name": "Flavors 3",
-        "url": "https://open.spotify.com/album/2AE8X5DCAuquqbJCQQRhT6"
+        "name": "Quiero (TDH's Version)",
+        "url": "https://open.spotify.com/album/0mPX5LdIJMkxNUDYhAHncL"
       },
       "artists": [
         {
-          "name": "LATENIGHTJIGGY",
-          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
         }
       ],
-      "duration_ms": 149458,
-      "name": "What More",
-      "url": "https://open.spotify.com/track/5nnj82z3JN9DALrgb6lowY"
+      "duration_ms": 157920,
+      "name": "Quiero - TDH's Version",
+      "url": "https://open.spotify.com/track/7e3cIM6xKrx10ermMTYu3L"
     },
     {
       "added_at": "2023-03-10 21:49:16",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
-        "name": "Prende",
-        "url": "https://open.spotify.com/album/39dpTC9IGFK94L7Z2eh9oX"
-      },
-      "artists": [
-        {
-          "name": "Menor Menor",
-          "url": "https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW"
-        }
-      ],
-      "duration_ms": 173373,
-      "name": "Prende",
-      "url": "https://open.spotify.com/track/6r5ThDX3rDYvOHxixSjwvX"
-    },
-    {
-      "added_at": "2023-03-10 21:49:16",
-      "album": {
         "name": "Alumnos",
         "url": "https://open.spotify.com/album/224WofhHqF6PuYTGd63baR"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 198071,
       "name": "Alumnos",
       "url": "https://open.spotify.com/track/7pZw5QAA11FtUZFg5utXzp"
+    },
+    {
+      "added_at": "2023-03-10 21:49:16",
+      "album": {
+        "name": "Prende",
+        "url": "https://open.spotify.com/album/39dpTC9IGFK94L7Z2eh9oX"
+      },
+      "artists": [
+        {
+          "name": "Menor Menor",
+          "url": "https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW"
+        }
+      ],
+      "duration_ms": 173373,
+      "name": "Prende",
+      "url": "https://open.spotify.com/track/6r5ThDX3rDYvOHxixSjwvX"
     },
     {
       "added_at": "2023-03-10 21:49:16",

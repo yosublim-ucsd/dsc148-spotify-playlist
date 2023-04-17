@@ -1590,7 +1590,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-16",
+      "date_removed": null,
       "duration_ms": 200690,
       "name": "Anti-Hero",
       "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
@@ -2924,7 +2924,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 197571,
       "name": "BELDIA",
       "url": "https://open.spotify.com/track/25PoazVlExeMeDdxjfnId0"
@@ -3318,6 +3318,24 @@
       "duration_ms": 232412,
       "name": "Black Summer",
       "url": "https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b"
+    },
+    {
+      "album": {
+        "name": "BLACKOUT",
+        "url": "https://open.spotify.com/album/2mm9MvJe7UhHpDZBvdM0R8"
+      },
+      "artists": [
+        {
+          "name": "AK AUSSERKONTROLLE",
+          "url": "https://open.spotify.com/artist/07SFzTMeYf5P8Rd32a9Zzw"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165680,
+      "name": "BLACKOUT",
+      "url": "https://open.spotify.com/track/0mNWBN7udBbA3ZtkB80TPM"
     },
     {
       "album": {
@@ -7306,7 +7324,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 185580,
       "name": "Ein Auge blau",
       "url": "https://open.spotify.com/track/1po98uYmh7Wf2GFBOKQNGF"
@@ -10112,7 +10130,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 179140,
       "name": "Gr\u00fcne Augen l\u00fcgen nicht",
       "url": "https://open.spotify.com/track/4lptrKbbydmqa74YS0a1rt"
@@ -10622,6 +10640,24 @@
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
+    },
+    {
+      "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
     },
     {
       "album": {
@@ -17373,6 +17409,24 @@
     },
     {
       "album": {
+        "name": "Never Felt So Alone",
+        "url": "https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160166,
+      "name": "Never Felt So Alone",
+      "url": "https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo"
+    },
+    {
+      "album": {
         "name": "Never Going Home",
         "url": "https://open.spotify.com/album/3M2ev0LMKExe0Y9HaNrkfA"
       },
@@ -20980,7 +21034,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2023-04-12",
+      "date_removed": null,
       "duration_ms": 157093,
       "name": "Roller",
       "url": "https://open.spotify.com/track/6hw1Sy9wZ8UCxYGdpKrU6M"
@@ -27038,7 +27092,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 141935,
       "name": "Wichtig",
       "url": "https://open.spotify.com/track/0ctW3lmoAClcElU1SGTsTC"
@@ -27172,7 +27226,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 210880,
       "name": "Wish You The Best",
       "url": "https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3"

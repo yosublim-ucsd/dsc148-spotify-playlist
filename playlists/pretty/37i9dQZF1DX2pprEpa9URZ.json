@@ -1,12 +1,12 @@
 {
   "description": "A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 703487,
+  "num_followers": 703817,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTY3MzYwMCwwMDAwMDAwMGIwZDAzM2ZhM2ZiNWJkNjYyOGIxM2U1NjY1YzZkNjdi",
+  "snapshot_id": "MTY3OTY3MzYwMCwwMDAwMDAwMDU1MzlmNTU4NGQwMWIyZGMwYTk1MDk3ZjJkMmJmN2Vi",
   "tracks": [
     {
       "added_at": "2023-02-17 15:33:17",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-02-17 15:33:17",
       "album": {
-        "name": "Man Dies Alone",
-        "url": "https://open.spotify.com/album/3UMqCv5HqtHjRCTl4DAoPQ"
-      },
-      "artists": [
-        {
-          "name": "Depart",
-          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
-        }
-      ],
-      "duration_ms": 279000,
-      "name": "Man Dies Alone - Short Version",
-      "url": "https://open.spotify.com/track/06uE6yOg0nc1HFTJWOhFYJ"
-    },
-    {
-      "added_at": "2023-02-17 15:33:17",
-      "album": {
         "name": "Childhood",
         "url": "https://open.spotify.com/album/2RIEITFTclNIsuDA6kibJ7"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 242145,
       "name": "Childhood",
       "url": "https://open.spotify.com/track/4QVosKlgWRXc1IEwYdOBEz"
+    },
+    {
+      "added_at": "2023-02-17 15:33:17",
+      "album": {
+        "name": "Man Dies Alone",
+        "url": "https://open.spotify.com/album/3UMqCv5HqtHjRCTl4DAoPQ"
+      },
+      "artists": [
+        {
+          "name": "Depart",
+          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
+        }
+      ],
+      "duration_ms": 279000,
+      "name": "Man Dies Alone - Short Version",
+      "url": "https://open.spotify.com/track/06uE6yOg0nc1HFTJWOhFYJ"
     },
     {
       "added_at": "2023-02-17 15:33:17",
@@ -473,7 +473,7 @@
       "url": "https://open.spotify.com/track/6CVzxgkKa7TEBsnj9TgVoL"
     },
     {
-      "added_at": "2023-04-16 01:16:35",
+      "added_at": "2023-04-17 01:19:37",
       "album": {
         "name": "Chaghaf",
         "url": "https://open.spotify.com/album/0nNXlfoPUjAvvlqvbi3qDB"
@@ -513,7 +513,7 @@
       "url": "https://open.spotify.com/track/2lAZJjUyFklZXQK5vDjzbp"
     },
     {
-      "added_at": "2023-04-16 01:16:35",
+      "added_at": "2023-04-17 01:19:37",
       "album": {
         "name": "Limbo EP",
         "url": "https://open.spotify.com/album/3INuxTPDwTsRrSJVKcP22m"
@@ -639,26 +639,6 @@
     {
       "added_at": "2023-02-17 15:33:17",
       "album": {
-        "name": "La Isla",
-        "url": "https://open.spotify.com/album/7bKPkGw5CJeqCegPqzuTG0"
-      },
-      "artists": [
-        {
-          "name": "Megablast",
-          "url": "https://open.spotify.com/artist/3FkAamTY6TR8lc6xOFO21T"
-        },
-        {
-          "name": "Eribertho Cruz",
-          "url": "https://open.spotify.com/artist/6dQxJRakmUNWvvWVH8nQdb"
-        }
-      ],
-      "duration_ms": 193306,
-      "name": "La Isla - Radio Version",
-      "url": "https://open.spotify.com/track/2bwr0a2bbCfx3txaJ1uGro"
-    },
-    {
-      "added_at": "2023-02-17 15:33:17",
-      "album": {
         "name": "Nterini (Sparrow & Barbossa Remix)",
         "url": "https://open.spotify.com/album/3WdD0er2Bbwk3xy6hUnVNm"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 363765,
       "name": "Nterini - Sparrow & Barbossa Remix",
       "url": "https://open.spotify.com/track/6ZD6KxJrALrxyx0E01Rkgf"
+    },
+    {
+      "added_at": "2023-02-17 15:33:17",
+      "album": {
+        "name": "La Isla",
+        "url": "https://open.spotify.com/album/7bKPkGw5CJeqCegPqzuTG0"
+      },
+      "artists": [
+        {
+          "name": "Megablast",
+          "url": "https://open.spotify.com/artist/3FkAamTY6TR8lc6xOFO21T"
+        },
+        {
+          "name": "Eribertho Cruz",
+          "url": "https://open.spotify.com/artist/6dQxJRakmUNWvvWVH8nQdb"
+        }
+      ],
+      "duration_ms": 193306,
+      "name": "La Isla - Radio Version",
+      "url": "https://open.spotify.com/track/2bwr0a2bbCfx3txaJ1uGro"
     },
     {
       "added_at": "2023-02-17 15:33:17",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-02-17 15:33:17",
       "album": {
+        "name": "Astavakra",
+        "url": "https://open.spotify.com/album/1UjQXx7W5aoyUJi0wBgHZo"
+      },
+      "artists": [
+        {
+          "name": "Sadhu Sensi",
+          "url": "https://open.spotify.com/artist/3Muhm9HEowEpdC0i6NuW3P"
+        }
+      ],
+      "duration_ms": 420215,
+      "name": "Astavakra",
+      "url": "https://open.spotify.com/track/2vW8K1C2Vj81beuKOvBdf9"
+    },
+    {
+      "added_at": "2023-02-17 15:33:17",
+      "album": {
         "name": "Ma Gally",
         "url": "https://open.spotify.com/album/1komNaPBI0xb2FNDYRy6BC"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 433330,
       "name": "Ya Nahar Ya Gamel",
       "url": "https://open.spotify.com/track/4SKb9f6WJrAWaIzabSdUqy"
-    },
-    {
-      "added_at": "2023-02-17 15:33:17",
-      "album": {
-        "name": "Astavakra",
-        "url": "https://open.spotify.com/album/1UjQXx7W5aoyUJi0wBgHZo"
-      },
-      "artists": [
-        {
-          "name": "Sadhu Sensi",
-          "url": "https://open.spotify.com/artist/3Muhm9HEowEpdC0i6NuW3P"
-        }
-      ],
-      "duration_ms": 420215,
-      "name": "Astavakra",
-      "url": "https://open.spotify.com/track/2vW8K1C2Vj81beuKOvBdf9"
     },
     {
       "added_at": "2023-02-17 15:33:17",
@@ -801,7 +801,7 @@
       "url": "https://open.spotify.com/track/3Y3inhZXBQ1KPfhWYYeuR3"
     },
     {
-      "added_at": "2023-04-16 01:16:35",
+      "added_at": "2023-04-17 01:19:37",
       "album": {
         "name": "Dancing Colours",
         "url": "https://open.spotify.com/album/7zoVXfKEQorTWts3Lz3gmp"
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-02-17 15:33:17",
       "album": {
-        "name": "Magic Workout",
-        "url": "https://open.spotify.com/album/3Pxw0B2kNOVpHs4A0xaIY7"
-      },
-      "artists": [
-        {
-          "name": "islandman",
-          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
-        }
-      ],
-      "duration_ms": 335877,
-      "name": "Magic Workout",
-      "url": "https://open.spotify.com/track/0TnHMErhQe43aDAVWEuS71"
-    },
-    {
-      "added_at": "2023-02-17 15:33:17",
-      "album": {
         "name": "Alkebulan Remix",
         "url": "https://open.spotify.com/album/2JoZyLBoWtjzNLJKsXNoVs"
       },
@@ -947,6 +931,22 @@
     {
       "added_at": "2023-02-17 15:33:17",
       "album": {
+        "name": "Magic Workout",
+        "url": "https://open.spotify.com/album/3Pxw0B2kNOVpHs4A0xaIY7"
+      },
+      "artists": [
+        {
+          "name": "islandman",
+          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
+        }
+      ],
+      "duration_ms": 335877,
+      "name": "Magic Workout",
+      "url": "https://open.spotify.com/track/0TnHMErhQe43aDAVWEuS71"
+    },
+    {
+      "added_at": "2023-02-17 15:33:17",
+      "album": {
         "name": "Caminata",
         "url": "https://open.spotify.com/album/7Iy8qNYQd5MfCWHEb0mSSl"
       },
@@ -959,22 +959,6 @@
       "duration_ms": 416267,
       "name": "Caminata",
       "url": "https://open.spotify.com/track/5yNkX0lW8C2ccVN3Q1xRm9"
-    },
-    {
-      "added_at": "2023-04-16 01:16:35",
-      "album": {
-        "name": "Bekaboo",
-        "url": "https://open.spotify.com/album/1A05Xaf6VxzQVJpEiMsa75"
-      },
-      "artists": [
-        {
-          "name": "Sllash & Doppe",
-          "url": "https://open.spotify.com/artist/1mPUNeOkJql5onhKwqiLMj"
-        }
-      ],
-      "duration_ms": 189677,
-      "name": "Bekaboo",
-      "url": "https://open.spotify.com/track/1HYPIyMIgHN9Gmv12es0xd"
     },
     {
       "added_at": "2023-02-17 15:33:17",
@@ -1009,24 +993,20 @@
       "url": "https://open.spotify.com/track/4tBq8B4uW8szPKbsW2KmOS"
     },
     {
-      "added_at": "2023-02-17 15:33:17",
+      "added_at": "2023-04-17 01:19:37",
       "album": {
-        "name": "Leave the Bones",
-        "url": "https://open.spotify.com/album/30OeYX8aVRKtwzyUS9D1kZ"
+        "name": "Bekaboo",
+        "url": "https://open.spotify.com/album/1A05Xaf6VxzQVJpEiMsa75"
       },
       "artists": [
         {
-          "name": "Lakou Mizik",
-          "url": "https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r"
-        },
-        {
-          "name": "Joseph Ray",
-          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
+          "name": "Sllash & Doppe",
+          "url": "https://open.spotify.com/artist/1mPUNeOkJql5onhKwqiLMj"
         }
       ],
-      "duration_ms": 354043,
-      "name": "Kite Zo A",
-      "url": "https://open.spotify.com/track/4oxWMQjQLpDZ3UOS0km3JB"
+      "duration_ms": 189677,
+      "name": "Bekaboo",
+      "url": "https://open.spotify.com/track/1HYPIyMIgHN9Gmv12es0xd"
     },
     {
       "added_at": "2023-02-17 15:33:17",
@@ -1079,22 +1059,38 @@
     {
       "added_at": "2023-02-17 15:33:17",
       "album": {
-        "name": "Izivunguvungu (Chlo\u00e9 Remix)",
-        "url": "https://open.spotify.com/album/4WMhthWOI1jzCIuRoP0jwB"
+        "name": "Eliso",
+        "url": "https://open.spotify.com/album/3YJAnKGQpddtp0dSp8YkTD"
       },
       "artists": [
         {
-          "name": "Urban Village",
-          "url": "https://open.spotify.com/artist/60UHsALAJRgTJdAxZGAZDg"
-        },
-        {
-          "name": "Chlo\u00e9 (Th\u00e9venin)",
-          "url": "https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq"
+          "name": "Pablo Nouvelle",
+          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
         }
       ],
-      "duration_ms": 384330,
-      "name": "Izivunguvungu - Chlo\u00e9 Remix",
-      "url": "https://open.spotify.com/track/4smPVWbEXf5aq92BcNevXu"
+      "duration_ms": 176839,
+      "name": "Eliso Lyamu Katata",
+      "url": "https://open.spotify.com/track/4sAXWtXJa4XO3oFt9Bhrk0"
+    },
+    {
+      "added_at": "2023-02-17 15:33:17",
+      "album": {
+        "name": "Leave the Bones",
+        "url": "https://open.spotify.com/album/30OeYX8aVRKtwzyUS9D1kZ"
+      },
+      "artists": [
+        {
+          "name": "Lakou Mizik",
+          "url": "https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r"
+        },
+        {
+          "name": "Joseph Ray",
+          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
+        }
+      ],
+      "duration_ms": 354043,
+      "name": "Kite Zo A",
+      "url": "https://open.spotify.com/track/4oxWMQjQLpDZ3UOS0km3JB"
     },
     {
       "added_at": "2023-02-17 15:33:17",
@@ -1111,6 +1107,26 @@
       "duration_ms": 457843,
       "name": "Quetzal",
       "url": "https://open.spotify.com/track/3onp9CePJ7sNcJjIARM5YG"
+    },
+    {
+      "added_at": "2023-02-17 15:33:17",
+      "album": {
+        "name": "Izivunguvungu (Chlo\u00e9 Remix)",
+        "url": "https://open.spotify.com/album/4WMhthWOI1jzCIuRoP0jwB"
+      },
+      "artists": [
+        {
+          "name": "Urban Village",
+          "url": "https://open.spotify.com/artist/60UHsALAJRgTJdAxZGAZDg"
+        },
+        {
+          "name": "Chlo\u00e9 (Th\u00e9venin)",
+          "url": "https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq"
+        }
+      ],
+      "duration_ms": 384330,
+      "name": "Izivunguvungu - Chlo\u00e9 Remix",
+      "url": "https://open.spotify.com/track/4smPVWbEXf5aq92BcNevXu"
     },
     {
       "added_at": "2023-02-17 15:33:17",
@@ -1171,22 +1187,6 @@
     {
       "added_at": "2023-02-17 15:33:17",
       "album": {
-        "name": "Jendayi EP",
-        "url": "https://open.spotify.com/album/6qoVUCC8JnvxUbsox7MGks"
-      },
-      "artists": [
-        {
-          "name": "Anber",
-          "url": "https://open.spotify.com/artist/1d4RYfh3ZkMNamEAST8JLc"
-        }
-      ],
-      "duration_ms": 391511,
-      "name": "Jendayi",
-      "url": "https://open.spotify.com/track/0bdNsriJUCQUX4w1LbMKxp"
-    },
-    {
-      "added_at": "2023-02-17 15:33:17",
-      "album": {
         "name": "The Landing",
         "url": "https://open.spotify.com/album/65jdNET1pQoq35hAb6FXep"
       },
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2023-02-17 15:33:17",
       "album": {
+        "name": "Jendayi EP",
+        "url": "https://open.spotify.com/album/6qoVUCC8JnvxUbsox7MGks"
+      },
+      "artists": [
+        {
+          "name": "Anber",
+          "url": "https://open.spotify.com/artist/1d4RYfh3ZkMNamEAST8JLc"
+        }
+      ],
+      "duration_ms": 391511,
+      "name": "Jendayi",
+      "url": "https://open.spotify.com/track/0bdNsriJUCQUX4w1LbMKxp"
+    },
+    {
+      "added_at": "2023-02-17 15:33:17",
+      "album": {
         "name": "Parivartan",
         "url": "https://open.spotify.com/album/5DOEiK1Wt4SDsXmKWBYVPp"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 486879,
       "name": "Parivartan",
       "url": "https://open.spotify.com/track/2DKUPy6sTH7vZsjAe4DVUv"
-    },
-    {
-      "added_at": "2023-02-17 15:33:17",
-      "album": {
-        "name": "Eliso",
-        "url": "https://open.spotify.com/album/3YJAnKGQpddtp0dSp8YkTD"
-      },
-      "artists": [
-        {
-          "name": "Pablo Nouvelle",
-          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
-        }
-      ],
-      "duration_ms": 176839,
-      "name": "Eliso Lyamu Katata",
-      "url": "https://open.spotify.com/track/4sAXWtXJa4XO3oFt9Bhrk0"
     },
     {
       "added_at": "2023-02-17 15:33:17",
@@ -1275,6 +1275,26 @@
     {
       "added_at": "2023-02-17 15:33:17",
       "album": {
+        "name": "Mona Ki Ngi Xica (Everything Counts Remix)",
+        "url": "https://open.spotify.com/album/2SuKOpLD4bk74dJzeXQDa5"
+      },
+      "artists": [
+        {
+          "name": "Bonga",
+          "url": "https://open.spotify.com/artist/0I6bdBR4Q7uoc3HI1OgI8C"
+        },
+        {
+          "name": "Everything Counts",
+          "url": "https://open.spotify.com/artist/6989AtiGTOvptl9xyAWQIG"
+        }
+      ],
+      "duration_ms": 451375,
+      "name": "Mona Ki Ngi Xica - Everything Counts Remix",
+      "url": "https://open.spotify.com/track/0cFjfyfL6mVRb0dQn2XLBw"
+    },
+    {
+      "added_at": "2023-02-17 15:33:17",
+      "album": {
         "name": "Voodoo Guitar",
         "url": "https://open.spotify.com/album/1fvW1MQTnRPKT0xqE5cKzI"
       },
@@ -1299,22 +1319,22 @@
     {
       "added_at": "2023-02-17 15:33:17",
       "album": {
-        "name": "Mona Ki Ngi Xica (Everything Counts Remix)",
-        "url": "https://open.spotify.com/album/2SuKOpLD4bk74dJzeXQDa5"
+        "name": "Serbet",
+        "url": "https://open.spotify.com/album/52AK58uvvnMfWlmpDN6L17"
       },
       "artists": [
         {
-          "name": "Bonga",
-          "url": "https://open.spotify.com/artist/0I6bdBR4Q7uoc3HI1OgI8C"
+          "name": "Dim Angelo",
+          "url": "https://open.spotify.com/artist/2HN3iAUI25PURpr57IivF2"
         },
         {
-          "name": "Everything Counts",
-          "url": "https://open.spotify.com/artist/6989AtiGTOvptl9xyAWQIG"
+          "name": "Christos Papadopoulos",
+          "url": "https://open.spotify.com/artist/0OM0XQMApr269J1w5y6FEn"
         }
       ],
-      "duration_ms": 451375,
-      "name": "Mona Ki Ngi Xica - Everything Counts Remix",
-      "url": "https://open.spotify.com/track/0cFjfyfL6mVRb0dQn2XLBw"
+      "duration_ms": 312000,
+      "name": "Serbet",
+      "url": "https://open.spotify.com/track/5sv8aOslVoZR3PGxBLVnlw"
     },
     {
       "added_at": "2023-02-17 15:33:17",
@@ -1339,46 +1359,6 @@
     {
       "added_at": "2023-02-17 15:33:17",
       "album": {
-        "name": "Serbet",
-        "url": "https://open.spotify.com/album/52AK58uvvnMfWlmpDN6L17"
-      },
-      "artists": [
-        {
-          "name": "Dim Angelo",
-          "url": "https://open.spotify.com/artist/2HN3iAUI25PURpr57IivF2"
-        },
-        {
-          "name": "Christos Papadopoulos",
-          "url": "https://open.spotify.com/artist/0OM0XQMApr269J1w5y6FEn"
-        }
-      ],
-      "duration_ms": 312000,
-      "name": "Serbet",
-      "url": "https://open.spotify.com/track/5sv8aOslVoZR3PGxBLVnlw"
-    },
-    {
-      "added_at": "2023-02-17 15:33:17",
-      "album": {
-        "name": "Plut\u00f3n",
-        "url": "https://open.spotify.com/album/3lA2Wy5OpKlsRMlogDznKW"
-      },
-      "artists": [
-        {
-          "name": "Nacho Maldonado",
-          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
-        },
-        {
-          "name": "Tripoli",
-          "url": "https://open.spotify.com/artist/5kO8Lt8fTaDRmvwcmjDO46"
-        }
-      ],
-      "duration_ms": 382066,
-      "name": "Earth",
-      "url": "https://open.spotify.com/track/18Vds2ehiWC09W390vcptq"
-    },
-    {
-      "added_at": "2023-02-17 15:33:17",
-      "album": {
         "name": "15 Years of Akbal Music, Pt. 2",
         "url": "https://open.spotify.com/album/1y2JST2SwbJcG2MCrxvwlT"
       },
@@ -1399,6 +1379,26 @@
       "duration_ms": 464237,
       "name": "Caminando de Noche",
       "url": "https://open.spotify.com/track/4L7g38G0N4RWSdaciFkTdQ"
+    },
+    {
+      "added_at": "2023-02-17 15:33:17",
+      "album": {
+        "name": "Plut\u00f3n",
+        "url": "https://open.spotify.com/album/3lA2Wy5OpKlsRMlogDznKW"
+      },
+      "artists": [
+        {
+          "name": "Nacho Maldonado",
+          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
+        },
+        {
+          "name": "Tripoli",
+          "url": "https://open.spotify.com/artist/5kO8Lt8fTaDRmvwcmjDO46"
+        }
+      ],
+      "duration_ms": 382066,
+      "name": "Earth",
+      "url": "https://open.spotify.com/track/18Vds2ehiWC09W390vcptq"
     }
   ],
   "unique_name": "Org\u00e1nica",

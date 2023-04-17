@@ -4,7 +4,7 @@
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-717 songs - 1 day 23 hr 33 min
+719 songs - 1 day 23 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [BANG!!!](https://open.spotify.com/track/4o1s691Qn6lUmFh1Bl28NG) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [BANG!!!](https://open.spotify.com/album/7JruDbtqHdtkxzIXBf6gjO) | 3:16 | 2022-06-07 | 2023-04-02 |
 | [Be Down](https://open.spotify.com/track/46rQoQSSkFRYxYkd2p71Er) | [ACCAMER](https://open.spotify.com/artist/6fl8KnCZzMYMHTklUPWlX2) | [Be Down / ダイバーシティ](https://open.spotify.com/album/7eY44boPV2SC1H9CdFHCaj) | 4:04 | 2022-06-07 | 2022-07-26 |
 | [BE ME](https://open.spotify.com/track/6YXgarWY2jY2f1F7VVUE0Z) | [Doul](https://open.spotify.com/artist/6iCB8Oh5qNCfMM6Bjn3bOf) | [BE ME](https://open.spotify.com/album/0nJ24ELPglbislYG5leab8) | 3:31 | 2022-12-23 | 2023-01-21 |
-| [BEAUTIFUL \- Anime Edit](https://open.spotify.com/track/56LHN0v30yTGB6NFdihTg1) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [BEAUTIFUL \(Anime Edit\)](https://open.spotify.com/album/02LoAQmz9DRGyD3T3LBc5h) | 1:32 | 2022-06-07 |  |
+| [BEAUTIFUL \- Anime Edit](https://open.spotify.com/track/56LHN0v30yTGB6NFdihTg1) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [BEAUTIFUL \(Anime Edit\)](https://open.spotify.com/album/02LoAQmz9DRGyD3T3LBc5h) | 1:32 | 2022-06-07 | 2023-04-17 |
 | [Before the Nightmare](https://open.spotify.com/track/6yLMicWzVVOvzlkXN9rcPl) | [高槻かなこ](https://open.spotify.com/artist/2do49zyzTTvfteT4XSof5k) | [Before the Nightmare](https://open.spotify.com/album/1nDKk1Ao6Y1UYjYTDndFw9) | 3:33 | 2022-06-07 | 2022-07-15 |
 | [BELIEVE MYSELF](https://open.spotify.com/track/3CFqP29BSTS4yi70BwN3bT) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [BELIEVE MYSELF](https://open.spotify.com/album/1URkZlcuwbkx0GlbS1RQy3) | 3:33 | 2022-06-07 | 2022-06-17 |
 | [BELONG](https://open.spotify.com/track/7cbhfvV5kvpBWwjVpqvvJJ) | [SawanoHiroyuki\[nZk\]:Yosh](https://open.spotify.com/artist/2LjjIxKVSELsdFKkmABPNT) | [BELONG](https://open.spotify.com/album/7gkbhbpygQvDvGYekPOWNX) | 3:50 | 2022-06-07 | 2022-07-29 |
@@ -314,6 +314,8 @@
 | [Sense](https://open.spotify.com/track/6Nawx5sqYFIbcx2qQgrA67) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash](https://open.spotify.com/album/09kpnVq1iOLRwM8eWKXADw) | 3:24 | 2022-08-11 | 2022-11-13 |
 | [Sense](https://open.spotify.com/track/2jnCDRKe4IfoIN2teGn308) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Sense](https://open.spotify.com/album/6AaDmp2qhU98vhQ7ukQ6PQ) | 3:24 | 2022-06-07 | 2022-09-24 |
 | [Sense](https://open.spotify.com/track/6Tav592Kp5bcrdoLlZbSfM) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Sense](https://open.spotify.com/album/6X7WGh9omm3GVTmJIDBUbU) | 3:24 | 2022-06-07 | 2022-07-28 |
+| [Setsunano Chikai](https://open.spotify.com/track/1YKBiydKeMfqHXwDECHLU6) | [Neko Hacker](https://open.spotify.com/artist/2aQ9IoRPwXEhhBVj4wbS46), [由崎司](https://open.spotify.com/artist/57nGnwFiNGNY5t77bVWWw2) | [Setsunano Chikai](https://open.spotify.com/album/5RxLQesE8xz3LsCwyrLIDn) | 3:40 | 2023-04-13 |  |
+| [Shinda!](https://open.spotify.com/track/2wLuWWfrOHnPjbC3CUuuZ9) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Shinda!](https://open.spotify.com/album/2VQMSyKrXpA0m6PECjU8sm) | 3:40 | 2023-04-13 |  |
 | [Shinkai](https://open.spotify.com/track/44VYdLnwvhn1H1cfieb84a) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Kaikai Kitan / Ao No Waltz](https://open.spotify.com/album/6BZjN6j79mjz7PJfGmvCR1) | 4:26 | 2022-06-07 |  |
 | [SHINOBI\-NAI](https://open.spotify.com/track/4AhgsImL4D8rtJexUM9wss) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [SHINOBI\-NAI](https://open.spotify.com/album/3JZFR8yrhKphRDBatZRAfY) | 3:30 | 2022-06-07 | 2022-06-17 |
 | [SHOCK!](https://open.spotify.com/track/2L1HeoX1m3Zv8KPM6HdfZN) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [SHOCK!](https://open.spotify.com/album/4L33Z8w28HGEwywExm2Z4L) | 3:00 | 2023-01-07 |  |
@@ -329,7 +331,7 @@
 | [SLUMP \-Japanese ver.\-](https://open.spotify.com/track/66JOk3VWkYDxriXsuYtqDc) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SLUMP \-Japanese ver.\-](https://open.spotify.com/album/5ny4DPSYvFntWlN0NoCcDC) | 2:17 | 2022-06-07 | 2022-07-29 |
 | [Small world](https://open.spotify.com/track/2E2Ax3uzsMRM1KbzSzHfB3) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [Small world](https://open.spotify.com/album/2tPzJBPpHmEQfmn9xlVuLD) | 5:22 | 2022-06-07 |  |
 | [SOUVENIR](https://open.spotify.com/track/7qOsSOpiL3R8RKyiBtIYNQ) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [SOUVENIR](https://open.spotify.com/album/62Rk2K7V2le9NBC75ANiX7) | 4:24 | 2022-10-04 |  |
-| [SPARK\-AGAIN](https://open.spotify.com/track/3NEuSQZbVmfQwRuDKol40Y) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [SPARK\-AGAIN](https://open.spotify.com/album/3OBjI5LyxiWJZSEuBskBbG) | 4:04 | 2022-06-07 |  |
+| [SPARK\-AGAIN](https://open.spotify.com/track/3NEuSQZbVmfQwRuDKol40Y) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [SPARK\-AGAIN](https://open.spotify.com/album/3OBjI5LyxiWJZSEuBskBbG) | 4:04 | 2022-06-07 | 2023-04-17 |
 | [SPARKLES](https://open.spotify.com/track/3heytsqAvwcOmpvJvKop80) | [STEREO DIVE FOUNDATION](https://open.spotify.com/artist/6yLTrq59HxfE6aTq8r4gVP) | [SPARKLES](https://open.spotify.com/album/7DLjM7lmuv7rlhVShdIBXN) | 4:36 | 2022-12-23 | 2023-01-27 |
 | [STACKiNG](https://open.spotify.com/track/0B2ZtMEByFD3MNxgBbL81B) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [STACKiNG](https://open.spotify.com/album/4qovcBWVJKiCAmkOvJwJn4) | 4:10 | 2022-06-07 | 2022-06-30 |
 | [Stay With Me](https://open.spotify.com/track/40bWOGeQYljPPVRQoM8fNk) | [Seven Billion Dots](https://open.spotify.com/artist/15q0tk3egz6qJQAzRpMbMl) | [Stay With Me](https://open.spotify.com/album/4WJjpxxa5pXCAskyYNrK7k) | 4:41 | 2022-06-07 | 2022-07-29 |
@@ -452,7 +454,7 @@
 | [アトック](https://open.spotify.com/track/0vWlopeKCm1atNKaTv1Bhg) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [アトック](https://open.spotify.com/album/03nazQKVW3vGbmLAOYvnzO) | 4:11 | 2022-06-07 | 2022-07-10 |
 | [アルケミラ](https://open.spotify.com/track/1QBkrW9kGVFGHd1eS2Hsiw) | [Regal Lily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [アルケミラ](https://open.spotify.com/album/5BgWsO3TSxunG538f6zmK6) | 3:55 | 2022-06-07 | 2022-07-23 |
 | [アンチノミー](https://open.spotify.com/track/4q9x6Ze2ifhBElxbSDtx1D) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [アンチノミー](https://open.spotify.com/album/0KlgjlEvjQJIxsAu7EDEE1) | 5:03 | 2023-02-20 |  |
-| [イビツナコトバ](https://open.spotify.com/track/1ru7EpUF1bidYVq1n6VWUz) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [イビツナコトバ](https://open.spotify.com/album/2Q7Vw6B0q0ZSLdFhBx94o8) | 3:31 | 2023-04-10 |  |
+| [イビツナコトバ](https://open.spotify.com/track/1ru7EpUF1bidYVq1n6VWUz) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [イビツナコトバ](https://open.spotify.com/album/2Q7Vw6B0q0ZSLdFhBx94o8) | 3:31 | 2023-04-10 | 2023-04-17 |
 | [インフィニティ](https://open.spotify.com/track/3Gj9gaVfc3HHyqcIFaSa70) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [インフィニティ](https://open.spotify.com/album/5A7mNWIOtdsmE3TiDiAQvm) | 4:05 | 2022-06-07 | 2023-03-12 |
 | [インフェルノ](https://open.spotify.com/track/64yajM6CxtLghmgB53VeXT) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [インフェルノ](https://open.spotify.com/album/137FjNv5TRNvbW6D17bQc1) | 3:32 | 2022-06-07 |  |
 | [ウタカタララバイ](https://open.spotify.com/track/5HnfjLWXhy0xFvFEcEM1w3) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタカタララバイ](https://open.spotify.com/album/4vWfsyx7AkuLNuXwa075co) | 2:53 | 2022-08-11 | 2022-10-04 |
@@ -636,7 +638,7 @@
 | [最後の花弁 \(The meaning of love\)](https://open.spotify.com/track/6P0Nb6NCHckoZtZI54XS2l) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [最後の花弁 \(The meaning of love\)](https://open.spotify.com/album/13yUbPloFlPSQoQ3Ju8DR3) | 3:51 | 2022-06-07 | 2022-08-12 |
 | [最果て](https://open.spotify.com/track/0GiepUHAIfTH1WzpHqtVXT) | [SennaRin](https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D) | [最果て](https://open.spotify.com/album/6JffqDdgFVwPOjHmLte6kC) | 3:00 | 2022-11-22 |  |
 | [最深](https://open.spotify.com/track/40tZIkyZZGw1a4oQAFZL2P) | [ACCAMER](https://open.spotify.com/artist/6fl8KnCZzMYMHTklUPWlX2) | [最深](https://open.spotify.com/album/2Gh6LdxVej8gzAPU68hHSj) | 4:03 | 2022-06-07 | 2022-07-16 |
-| [朝が来る](https://open.spotify.com/track/6Mq4q5OIMO25vBsKpFdlnH) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [朝が来る](https://open.spotify.com/album/072aXGXyby8RpZ4TNP37Rx) | 4:54 | 2022-06-07 | 2023-02-21 |
+| [朝が来る](https://open.spotify.com/track/6Mq4q5OIMO25vBsKpFdlnH) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [朝が来る](https://open.spotify.com/album/072aXGXyby8RpZ4TNP37Rx) | 4:54 | 2022-06-07 |  |
 | [未来](https://open.spotify.com/track/7M2ZtqHQWtrDW9oGodD6vm) | [KOBUKURO](https://open.spotify.com/artist/0llYwFIMgF9Jzmp4ZY7wbr) | [TIMELESS WORLD](https://open.spotify.com/album/3PRhAHRAHkiPGCIDMi02LC) | 5:16 | 2022-06-07 |  |
 | [東京サニーパーティー](https://open.spotify.com/track/1HBxmRc7PCEw7Vtw3ykr8J) | [HoneyWorks](https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd), [涼海ひより（CV：水瀬いのり）](https://open.spotify.com/artist/5M0mn4erXCP6tSuakm8yuI), [服部樹里\(CV:佐倉綾音\)](https://open.spotify.com/artist/01NcNfcHfdCwrHIuALeHJ0), [中村千鶴\(CV:早見沙織\)](https://open.spotify.com/artist/27KTqdwWTPQL5HqhXOnOLf) | [東京サニーパーティー](https://open.spotify.com/album/2EfBXXdiFkhQdxthS4RXO0) | 4:02 | 2022-06-07 | 2022-06-13 |
 | [楽園](https://open.spotify.com/track/6X9m9JRk2ypGusClUBraII) | [Fujifabric](https://open.spotify.com/artist/2QgdUzpKFNxey5IuwvsGBL) | [楽園](https://open.spotify.com/album/0Mr39HG5mzEClMKWpQGrGo) | 3:45 | 2022-06-07 |  |

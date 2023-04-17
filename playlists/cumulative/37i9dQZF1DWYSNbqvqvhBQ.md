@@ -4,7 +4,7 @@
 
 > Luister naar de fijnste nieuwe songs en hits van dit moment! Cover: Son Mieux
 
-144 songs - 8 hr 19 min
+145 songs - 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,8 @@
 | [We doen wat we kunnen \(feat\. Geike\) \- Single Edit](https://open.spotify.com/track/5Bzuagyvt3iOyI7CgNTj9x) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB), [Geike](https://open.spotify.com/artist/5mkzx9Hq5mYTx1LZ0CUGiP) | [We doen wat we kunnen \(feat\. Geike\)](https://open.spotify.com/album/6OFRhULTO9UJf1yk7v9XfZ) | 4:00 | 2023-02-23 | 2023-03-18 |
 | [Weak In The Knees](https://open.spotify.com/track/7zTQERSGQl9Xnh58ocvOQa) | [Wulf](https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f), [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8) | [Weak In The Knees](https://open.spotify.com/album/2gei2GiI0zjYuVQOaBDgUJ) | 3:02 | 2023-02-23 | 2023-03-10 |
 | [Weightless](https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Weightless](https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp) | 4:02 | 2023-02-23 |  |
-| [WHEN IT HURTS](https://open.spotify.com/track/7vJRS4OzKPyR2ZyYg5pVOk) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [Jack Savoretti](https://open.spotify.com/artist/7nC05zmJukRGYObQeRgg3x) | [WHEN IT HURTS](https://open.spotify.com/album/58Zx7kZhWVVYH1KmYGT27z) | 3:01 | 2023-03-30 |  |
+| [WHEN IT HURTS](https://open.spotify.com/track/3AOHXWSY2iFEXPpIwLfYcP) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [Jack Savoretti](https://open.spotify.com/artist/7nC05zmJukRGYObQeRgg3x) | [For When It Hurts](https://open.spotify.com/album/4fyML49o9PKbI3jaTFA7gH) | 3:01 | 2023-04-13 |  |
+| [WHEN IT HURTS](https://open.spotify.com/track/7vJRS4OzKPyR2ZyYg5pVOk) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [Jack Savoretti](https://open.spotify.com/artist/7nC05zmJukRGYObQeRgg3x) | [WHEN IT HURTS](https://open.spotify.com/album/58Zx7kZhWVVYH1KmYGT27z) | 3:01 | 2023-03-30 | 2023-04-17 |
 | [Will o' the Wisp](https://open.spotify.com/track/0wumTIq5re4AmxBfKJPcBo) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [Love, Death & In Between](https://open.spotify.com/album/4jmQ3CvZiXkeHaLLUHctr2) | 3:23 | 2023-02-23 |  |
 | [Wiser](https://open.spotify.com/track/7dCCjVk2kAoXI8p9vGSV8S) | [PYRO](https://open.spotify.com/artist/1lgKBSJSuiEvyoiDwpRBFb) | [Wiser](https://open.spotify.com/album/1a7cqum0P2qEedF3Z1kwkL) | 3:35 | 2023-02-23 | 2023-03-10 |
 | [You Are You](https://open.spotify.com/track/2gsqXY6cxyCAJ7TiM3oyxW) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [Any Day Now](https://open.spotify.com/album/1T4QzY60Mpe02NYZDPWVFI) | 2:58 | 2023-04-06 |  |

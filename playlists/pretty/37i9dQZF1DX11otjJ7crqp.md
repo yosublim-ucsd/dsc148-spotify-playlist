@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: David Kushner
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,437 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,517 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 29 | [Stumbling](https://open.spotify.com/track/3PFwnVVcInGph5fjyDmseJ) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [Stumbling](https://open.spotify.com/album/4oCH7CmR7SFVQU9V2ArYhN) | 2:52 |
 | 30 | [This Is What A Sad Song Sounds Like](https://open.spotify.com/track/5lBT1uBU2EuK2bjqJuVm37) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [The Human Experience](https://open.spotify.com/artist/1NWjumiUC54F8S21p2W6cG) | [This Is What A Sad Song Sounds Like](https://open.spotify.com/album/5RlPuDGzPAg5i5pe1tqhgn) | 3:36 |
 | 31 | [Baby Don't Hurt Me](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Baby Don't Hurt Me](https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy) | 2:20 |
-| 32 | [Universe](https://open.spotify.com/track/1FRvoiI6aHCJS8aGUgjVBV) | [Lindsey Lomis](https://open.spotify.com/artist/7qY2O8bWspXlSwQl5JAkvn) | [Universe EP](https://open.spotify.com/album/4emQiMxvnlRMVFhoKYG38s) | 2:53 |
+| 32 | [Universe](https://open.spotify.com/track/1FRvoiI6aHCJS8aGUgjVBV) | [Lindsey Lomis](https://open.spotify.com/artist/7qY2O8bWspXlSwQl5JAkvn) | [Universe](https://open.spotify.com/album/4emQiMxvnlRMVFhoKYG38s) | 2:53 |
 | 33 | [Change](https://open.spotify.com/track/1m1WkrpWMJ5ic1D0oLd5EF) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Change](https://open.spotify.com/album/1kRceDDpkVLfnvC68Hy5lK) | 3:42 |
 | 34 | [Someone You Once Had](https://open.spotify.com/track/0xwjCE5vxusQU55F96GXYa) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Someone You Once Had](https://open.spotify.com/album/5Jgn1TXdSHxrWIfKyzsB67) | 3:12 |
 | 35 | [That’s Not How This Works \(feat\. Dan + Shay\)](https://open.spotify.com/track/28a0aMV1OKoyNiCJuNsWrY) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [That’s Not How This Works \(feat\. Dan + Shay\)](https://open.spotify.com/album/67IEDkeGYxOvS2RvcarzrT) | 2:45 |

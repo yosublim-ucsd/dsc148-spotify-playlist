@@ -1,12 +1,12 @@
 {
   "description": "Ac\u00e1 hay letra. Foto: Anuel AA.",
-  "num_followers": 142036,
+  "num_followers": 142116,
   "original_name": "Rimas y Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0MDQwMCwwMDAwMDAwMDA5NmRiNzUxN2M4MTc1MTNiMWM5NThjMzE2ODllOWJi",
+  "snapshot_id": "MTY2ODc0MDQwMCwwMDAwMDAwMDYwZjE1NDRmYTdmZDdkMzIzOGQ0YzU2NWJjMTRmNmMy",
   "tracks": [
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1387,6 +1387,30 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
+        "name": "Guayo",
+        "url": "https://open.spotify.com/album/7wGdslyqdVvqMV3nPAL6uN"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Haze",
+          "url": "https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE"
+        }
+      ],
+      "duration_ms": 222301,
+      "name": "Guayo",
+      "url": "https://open.spotify.com/track/4MR1AZhe1p0zTuH2HGhX9L"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
         "name": "S\u00faper Sangre Joven",
         "url": "https://open.spotify.com/album/1SbMoaKFJWo8u1tb2dAgHt"
       },
@@ -1411,30 +1435,6 @@
       "duration_ms": 220310,
       "name": "It's a Vibe",
       "url": "https://open.spotify.com/track/6HvD8JhIe9Mq6gyql32rYb"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "Guayo",
-        "url": "https://open.spotify.com/album/7wGdslyqdVvqMV3nPAL6uN"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Haze",
-          "url": "https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE"
-        }
-      ],
-      "duration_ms": 222301,
-      "name": "Guayo",
-      "url": "https://open.spotify.com/track/4MR1AZhe1p0zTuH2HGhX9L"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1907,30 +1907,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Baby Drip",
-        "url": "https://open.spotify.com/album/2q4H20bORpr7SZwnEYVT2d"
-      },
-      "artists": [
-        {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
-        },
-        {
-          "name": "ZARAMAY",
-          "url": "https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff"
-        },
-        {
-          "name": "Nahuel The Coach",
-          "url": "https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg"
-        }
-      ],
-      "duration_ms": 202746,
-      "name": "Baby Drip",
-      "url": "https://open.spotify.com/track/2WghMUtQxC4N6iTcfTqgoz"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "Phantom",
         "url": "https://open.spotify.com/album/4GclgY30bdbzH83JflpHPo"
       },
@@ -1951,6 +1927,30 @@
       "duration_ms": 205500,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/2fwycfb0beKkeRQ9JH8dmU"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "Baby Drip",
+        "url": "https://open.spotify.com/album/2q4H20bORpr7SZwnEYVT2d"
+      },
+      "artists": [
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        },
+        {
+          "name": "ZARAMAY",
+          "url": "https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff"
+        },
+        {
+          "name": "Nahuel The Coach",
+          "url": "https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg"
+        }
+      ],
+      "duration_ms": 202746,
+      "name": "Baby Drip",
+      "url": "https://open.spotify.com/track/2WghMUtQxC4N6iTcfTqgoz"
     },
     {
       "added_at": "2022-11-18 03:00:00",

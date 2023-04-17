@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 
 > Indian English tracks we love\. Cover\- Sid Sriram
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,905 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,923 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,21 +27,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 17 | [Perfect Life](https://open.spotify.com/track/61ayAzvFPbItOznMjWBZwu) | [Tsumyoki](https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X) | [Perfect Life](https://open.spotify.com/album/2qX6H9xdwN6uBmdzPqrdk5) | 4:02 |
 | 18 | [Love Is Love](https://open.spotify.com/track/6WOsXP6xYpm6KI1oHGiFo0) | [Anoushka Maskey](https://open.spotify.com/artist/2nDgCBr8jDMiGFjTkwR6ph), [Cosmic Grooves](https://open.spotify.com/artist/3dhy3RnTmsYSl0kZwIPOpn), [Mismatched \- Cast](https://open.spotify.com/artist/0NbgKDsEHiPzZBZkqZGkXm) | [Mismatched: Season 2 \(Music from the Netflix Series\)](https://open.spotify.com/album/0bPV8j4jfsKeoW5P3YQInX) | 2:52 |
 | 19 | [When We Feel Young](https://open.spotify.com/track/5GJPqaqlCSN19ReZ3Hmue4) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [When We Feel Young](https://open.spotify.com/album/3rvRY86fVViOvc7ry7IZWq) | 4:26 |
-| 20 | [Give Up](https://open.spotify.com/track/41b1nydaPsdAn4R3sqoVWu) | [Avanti Nagral](https://open.spotify.com/artist/2Wwa2Sov84hVY7Hxfqu71Y) | [Give Up](https://open.spotify.com/album/17GJjmUe6dkPDRN1DCOv3t) | 4:08 |
+| 20 | [So Good](https://open.spotify.com/track/0CawrCDxkBgaR2ImcpQYMm) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [So Good](https://open.spotify.com/album/7zp2nLduPlDbfn9ejFTuZE) | 2:59 |
 | 21 | [Favorite Peeps](https://open.spotify.com/track/0SHa9XHwYYB1UUmgbgHuhQ) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 3:13 |
-| 22 | [So Good](https://open.spotify.com/track/0CawrCDxkBgaR2ImcpQYMm) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [So Good](https://open.spotify.com/album/7zp2nLduPlDbfn9ejFTuZE) | 2:59 |
+| 22 | [Give Up](https://open.spotify.com/track/41b1nydaPsdAn4R3sqoVWu) | [Avanti Nagral](https://open.spotify.com/artist/2Wwa2Sov84hVY7Hxfqu71Y) | [Give Up](https://open.spotify.com/album/17GJjmUe6dkPDRN1DCOv3t) | 4:08 |
 | 23 | [Am I Overthinking This?](https://open.spotify.com/track/0nHm0hPOwDYwwCbZUs0XKv) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Am I Overthinking This?](https://open.spotify.com/album/54UsiUkSKRfIkSc7qPAhn1) | 2:47 |
-| 24 | [goodbye](https://open.spotify.com/track/73TI9VMC8u4UhlGQlsrh1A) | [Taarini](https://open.spotify.com/artist/7ha2CwInFLU6MVnKZoH2qv) | [goodbye](https://open.spotify.com/album/2jusN0A1JkUxGcSQaqNHde) | 3:11 |
-| 25 | [Just As Easily](https://open.spotify.com/track/7k695jTLLrMiNnFnyRWDCN) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [Just As Easily](https://open.spotify.com/album/4z4anMfIasayTBmyVIGlqa) | 3:09 |
+| 24 | [Just As Easily](https://open.spotify.com/track/7k695jTLLrMiNnFnyRWDCN) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [Just As Easily](https://open.spotify.com/album/4z4anMfIasayTBmyVIGlqa) | 3:09 |
+| 25 | [goodbye](https://open.spotify.com/track/73TI9VMC8u4UhlGQlsrh1A) | [Taarini](https://open.spotify.com/artist/7ha2CwInFLU6MVnKZoH2qv) | [goodbye](https://open.spotify.com/album/2jusN0A1JkUxGcSQaqNHde) | 3:11 |
 | 26 | [Sucks to Be Human](https://open.spotify.com/track/6z0GP8AOTDIShCXUOw1E3Y) | [The F16s](https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C) | [Sucks to Be Human](https://open.spotify.com/album/27Ume3SwDAJJd4h0vQBdgd) | 3:25 |
 | 27 | [Constellation](https://open.spotify.com/track/17PGQK2meDHoEqSHnWmPJ1) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [When We Feel Young](https://open.spotify.com/album/1AvbjQPZdXfaJ91hdcoOQo) | 3:15 |
 | 28 | [Spiced Lemonade](https://open.spotify.com/track/7AEZgaAQ0SnJQ5Odw5cBux) | [Chirag Todi](https://open.spotify.com/artist/44kXrtuLNc6FpMB8YNbMdE), [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Spiced Lemonade](https://open.spotify.com/album/2C1hH70PnKis3oD8Uaq8pR) | 3:18 |
 | 29 | [Unicorn and the Sheep](https://open.spotify.com/track/4YWeZa7AfJArkijVVq8ayc) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Unicorn And The Sheep](https://open.spotify.com/album/1Gd4ISqgkzf5WZHLjzUaHI) | 2:31 |
-| 30 | [Foolish Once Again](https://open.spotify.com/track/5fv2dx3jfxxX8Gqvzl6TjI) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [Foolish Once Again](https://open.spotify.com/album/2F8nmRroxmD3yHbnFiN1tV) | 4:03 |
+| 30 | [daydream](https://open.spotify.com/track/1vRJrhhctvUFI1X44CVn8V) | [Taarini](https://open.spotify.com/artist/7ha2CwInFLU6MVnKZoH2qv) | [daydream](https://open.spotify.com/album/4JB9jTAwRLkQPG3iLBWHCs) | 3:03 |
 | 31 | [Pause](https://open.spotify.com/track/5h1L6nOR9QYXeeNW14aeus) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Pause](https://open.spotify.com/album/3vKSAwLbfwXygEiGH1vpvs) | 2:51 |
 | 32 | [Some Kind Of Nothing](https://open.spotify.com/track/2ND8gHcSdiXH2rZx82qzqu) | [Tejas](https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl) | [Some Kind Of Nothing](https://open.spotify.com/album/0xc6rSHLKuwbxt7WZ9rnvM) | 3:05 |
 | 33 | [Spare My Heart](https://open.spotify.com/track/5jjnLuRNoiLsk2Ew7of6rI) | [Imcha Imchen](https://open.spotify.com/artist/279G7M1MozdYogR2qrcMtA) | [Spare My Heart](https://open.spotify.com/album/4yF6GYnhCa6GZvLBujpp0D) | 2:43 |
-| 34 | [daydream](https://open.spotify.com/track/1vRJrhhctvUFI1X44CVn8V) | [Taarini](https://open.spotify.com/artist/7ha2CwInFLU6MVnKZoH2qv) | [daydream](https://open.spotify.com/album/4JB9jTAwRLkQPG3iLBWHCs) | 3:03 |
+| 34 | [Foolish Once Again](https://open.spotify.com/track/5fv2dx3jfxxX8Gqvzl6TjI) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [Foolish Once Again](https://open.spotify.com/album/2F8nmRroxmD3yHbnFiN1tV) | 4:03 |
 | 35 | [Blue Sweatshirt](https://open.spotify.com/track/3lnKi2aWh2tS1MvHGLFA3B) | [Trance Effect](https://open.spotify.com/artist/21P08lfKfkMN14Fs25E93A) | [Blue Sweatshirt](https://open.spotify.com/album/35uZu48y9q6uQdfkR0kBjU) | 3:10 |
 | 36 | [Remember](https://open.spotify.com/track/3cqeFHqx2y05J7skmbc743) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [When We Feel Young](https://open.spotify.com/album/1AvbjQPZdXfaJ91hdcoOQo) | 4:11 |
 | 37 | [On My Own](https://open.spotify.com/track/12jHntVUvHSFiXiLW1eaVy) | [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [On My Own](https://open.spotify.com/album/3IpkOKy7xlKRyJ8TNZGOz0) | 2:36 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 72 | [As I'm Getting Older](https://open.spotify.com/track/1BwO9XLe7M3Qc4wrZ69wk9) | [Tejas](https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl) | [As I'm Getting Older](https://open.spotify.com/album/4KzZtZPmRN1YfdIWczXFb7) | 3:33 |
 | 73 | [Should I Ghost You...](https://open.spotify.com/track/2A15Ljc9Eu1wxwtmLtBpTY) | [Zodiac Wave](https://open.spotify.com/artist/3onhR4FeK0vglwIn5t2Xsy) | [Should I Ghost You...](https://open.spotify.com/album/3CFeHZxJgEC0AshQlK98BT) | 2:14 |
 | 74 | [Quietly](https://open.spotify.com/track/3aJDhov9eiYdUHCVaikyT9) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [Quietly](https://open.spotify.com/album/4bkS3W1Ytu01CF01e8ZBFn) | 2:16 |
-| 75 | [tell me it ain't](https://open.spotify.com/track/04NiWHL3IRkNfKHfpFBdh6) | [Elttwo](https://open.spotify.com/artist/5JXwR7SVpsf4ZLWMKO8rRq) | [tell me it ain't](https://open.spotify.com/album/6iqEAgS9F4FP4aUVhWzhY1) | 2:24 |
+| 75 | [I Saw You in a Dream](https://open.spotify.com/track/7mYEYvpOp49czRGOlQus9F) | [Rono](https://open.spotify.com/artist/7nAIsV0i8kg2XRCK14YUB6) | [I Saw You in a Dream](https://open.spotify.com/album/33p2rB65gI3GQDxw0XdOzw) | 3:02 |
 
-Snapshot ID: `MTY4MDY3ODMzNSwwMDAwMDAwMDhiMmU2Y2E5YzhlMjM2YmZkM2VmMjkyMzNhMTM1ZGIz`
+Snapshot ID: `MTY4MDY3ODMzNSwwMDAwMDAwMDA3Mzk1YTU5MDA5OGVmNTE2NTBlNTNhYmM4NjRmNmVh`

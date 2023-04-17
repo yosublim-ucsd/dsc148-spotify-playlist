@@ -1,12 +1,12 @@
 {
   "description": "rolitas para abrazar la tristeza \ud83d\ude14",
-  "num_followers": 59185,
+  "num_followers": 59476,
   "original_name": "domingo de baj\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI5MzMyNywwMDAwMDAwMDU4ODAxMWIzOTczNDdiYjAwOTk2YmFiNGU4MTA2ZWY2",
+  "snapshot_id": "MTY4MDI5MzMyNywwMDAwMDAwMDg2OTNjODkwZDcyYjk1Mzk0YzlmZmNlN2EyY2RlMzJi",
   "tracks": [
     {
       "added_at": "2023-03-31 20:08:47",
@@ -343,22 +343,18 @@
     {
       "added_at": "2023-03-31 20:08:47",
       "album": {
-        "name": "Ya Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/0v7kIoSFh2xLJX5cU8PZkK"
+        "name": "X 100PRE",
+        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
       },
       "artists": [
         {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 177666,
-      "name": "Ya Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/49lbKqbCI8SmJfW64OYXGZ"
+      "duration_ms": 169247,
+      "name": "Si Estuvi\u00e9semos Juntos",
+      "url": "https://open.spotify.com/track/35wvL50xvKpCHEJPxLOLPI"
     },
     {
       "added_at": "2023-03-31 20:08:47",
@@ -379,18 +375,22 @@
     {
       "added_at": "2023-03-31 20:08:47",
       "album": {
-        "name": "X 100PRE",
-        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
+        "name": "Ya Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0v7kIoSFh2xLJX5cU8PZkK"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         }
       ],
-      "duration_ms": 169247,
-      "name": "Si Estuvi\u00e9semos Juntos",
-      "url": "https://open.spotify.com/track/35wvL50xvKpCHEJPxLOLPI"
+      "duration_ms": 177666,
+      "name": "Ya Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/49lbKqbCI8SmJfW64OYXGZ"
     },
     {
       "added_at": "2023-03-31 20:08:47",

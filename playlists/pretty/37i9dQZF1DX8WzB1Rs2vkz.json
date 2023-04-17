@@ -1,12 +1,12 @@
 {
   "description": "Musiquita sabrosa que te hace bailar el coraz\u00f3n.",
-  "num_followers": 115566,
+  "num_followers": 115714,
   "original_name": "Amor Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDgwOGI0MjZjMzA3Nzg4MDNjODVlMGM2NzdiMTdhYzA1",
+  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDQ3NzJjMjljZDQ0OThmNDc0YWViM2Q0ZDNmYzJmMmQ1",
   "tracks": [
     {
       "added_at": "2023-04-14 04:00:00",
@@ -431,26 +431,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "LUNA",
-        "url": "https://open.spotify.com/album/7zxhGn6Fq3pcpOpHAcOpAD"
-      },
-      "artists": [
-        {
-          "name": "Jd Pantoja",
-          "url": "https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK"
-        },
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        }
-      ],
-      "duration_ms": 225640,
-      "name": "LUNA",
-      "url": "https://open.spotify.com/track/4lFKjvCI3fQ1yMuKvdEvGS"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "K.O.B. Live",
         "url": "https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 168520,
       "name": "Esta Noche",
       "url": "https://open.spotify.com/track/4vhkI8x68EaGQR3Kn7Pwhc"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "LUNA",
+        "url": "https://open.spotify.com/album/7zxhGn6Fq3pcpOpHAcOpAD"
+      },
+      "artists": [
+        {
+          "name": "Jd Pantoja",
+          "url": "https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK"
+        },
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        }
+      ],
+      "duration_ms": 225640,
+      "name": "LUNA",
+      "url": "https://open.spotify.com/track/4lFKjvCI3fQ1yMuKvdEvGS"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -591,22 +591,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "@dannocean",
-        "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
       },
       "artists": [
         {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 212914,
-      "name": "SI ES AMOR",
-      "url": "https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S"
+      "duration_ms": 316093,
+      "name": "Una Aventura",
+      "url": "https://open.spotify.com/track/26ucR33snMkRD6JExhoD6I"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -627,18 +623,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
+        "name": "@dannocean",
+        "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
       },
       "artists": [
         {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
         }
       ],
-      "duration_ms": 316093,
-      "name": "Una Aventura",
-      "url": "https://open.spotify.com/track/26ucR33snMkRD6JExhoD6I"
+      "duration_ms": 212914,
+      "name": "SI ES AMOR",
+      "url": "https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S"
     },
     {
       "added_at": "2023-04-14 04:00:00",

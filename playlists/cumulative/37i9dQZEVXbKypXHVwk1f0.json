@@ -2213,6 +2213,36 @@
     },
     {
       "album": {
+        "name": "CASA VERDE",
+        "url": "https://open.spotify.com/album/4RNy7HfUlON4eclMZlGo2R"
+      },
+      "artists": [
+        {
+          "name": "BARBEL",
+          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
+        },
+        {
+          "name": "Kevin Ice",
+          "url": "https://open.spotify.com/artist/5XQ0aNr3aINifZ93L4FUYI"
+        },
+        {
+          "name": "Haquil",
+          "url": "https://open.spotify.com/artist/3JptABIhEERG63NRckg6EG"
+        },
+        {
+          "name": "Nerry Money",
+          "url": "https://open.spotify.com/artist/6g6DtbtyBi3Ir0mxiDlouJ"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246804,
+      "name": "CASA VERDE",
+      "url": "https://open.spotify.com/track/04w93rJXoDQ4fayGw9BPT7"
+    },
+    {
+      "album": {
         "name": "Coexistencia",
         "url": "https://open.spotify.com/album/2Z4R6v7ghh8fbO1xYrk3lW"
       },
@@ -2812,7 +2842,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 174369,
       "name": "Cupido",
       "url": "https://open.spotify.com/track/04ndZkbKGthTgYSv3xS7en"

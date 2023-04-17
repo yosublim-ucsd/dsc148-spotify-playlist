@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 
 > All your favourite holiday jazz classics for your christmas dinner party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,157 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,140 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 20 | [The Happiest Christmas Tree](https://open.spotify.com/track/5aJP0MZjb8LtPAT5WicCZm) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 1:43 |
 | 21 | [Greensleeves](https://open.spotify.com/track/2H9zsdAjaue3tkg4d27jRm) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4) | 5:29 |
 | 22 | [The Chipmunk Song](https://open.spotify.com/track/0fQOIeqzT092q2p8wDDBYl) | [Sonny Magic Trio](https://open.spotify.com/artist/5UBpgvMO0TGIUiuD69RAP3) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/3owNP9iL5Db7iKu7JEyWEg) | 2:43 |
-| 23 | [All I Want For Christmas \(Is My Two Front Teeth\)](https://open.spotify.com/track/4xXMJbzVQSCyprr4PG5sBj) | [Nat King Cole Trio](https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ) | [Christmas Classics](https://open.spotify.com/album/3f22Ap0VSZYWsqrGcphUnY) | 2:31 |
-| 24 | [My Favourite Time of Year](https://open.spotify.com/track/61IXkIVYvfpKdjzEQeMU54) | [Kingsley Thomas](https://open.spotify.com/artist/754IxKxKlDAQO5YATUAd6t) | [My Favourite Time of Year](https://open.spotify.com/album/5erwrkAgvvtsofeB64etXw) | 4:02 |
+| 23 | [My Favourite Time of Year](https://open.spotify.com/track/61IXkIVYvfpKdjzEQeMU54) | [Kingsley Thomas](https://open.spotify.com/artist/754IxKxKlDAQO5YATUAd6t) | [My Favourite Time of Year](https://open.spotify.com/album/5erwrkAgvvtsofeB64etXw) | 4:02 |
+| 24 | [All I Want For Christmas \(Is My Two Front Teeth\)](https://open.spotify.com/track/4xXMJbzVQSCyprr4PG5sBj) | [Nat King Cole Trio](https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ) | [Christmas Classics](https://open.spotify.com/album/3f22Ap0VSZYWsqrGcphUnY) | 2:31 |
 | 25 | [O Little Town Of Bethlehem](https://open.spotify.com/track/07grjb29wSIEwP4xKtZUjH) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 2:19 |
 | 26 | [White Christmas](https://open.spotify.com/track/6uVCqvznAx7pOYHTNlxulb) | [Lyla Lee Band](https://open.spotify.com/artist/44QGQt033sUjbeecDPn791) | [Winter Wonderland](https://open.spotify.com/album/74pI1XqEAgFfo1T2UGDEZs) | 2:33 |
 | 27 | [God Rest Ye, Merry Gentlemen](https://open.spotify.com/track/4uTqFlXMoLOn8qbc50Ib5d) | [Rossdale Junction](https://open.spotify.com/artist/07lLIhOAtuwjGaZ0goh3iO) | [God Rest Ye, Merry Gentlemen](https://open.spotify.com/album/4YL35s4guMbT7Sfn696Rny) | 2:00 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 31 | [Here Comes Santa Claus \(Down Santa Claus Lane\)](https://open.spotify.com/track/70OUj8g2IUjubbLcW1vynZ) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6) | [Personal Christmas Collection](https://open.spotify.com/album/5gvprHdipdaEWUU7JH1qYc) | 2:36 |
 | 32 | [It's a Marshmallow World](https://open.spotify.com/track/2kSoq79VBHXG46PfHMpErb) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [It Had to Be You: Lost Radio Recordings](https://open.spotify.com/album/5WksWns07oPp5qwA9MCGGB) | 2:10 |
 | 33 | [Happy Holiday](https://open.spotify.com/track/2Zmibx9TsizyFYCJFWnJXc) | [Zander Jazz Trio](https://open.spotify.com/artist/5QBHt7kiJsvbsdJx30kMhl) | [A Jazzy Christmas](https://open.spotify.com/album/5Ov8mmEM065VnF8glNLZUH) | 5:07 |
-| 34 | [You're All I Want For Christmas](https://open.spotify.com/track/3TKli016N6D1XnU0Jz8xVx) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Happy Christmas, Little Friend](https://open.spotify.com/album/66xxXSW7xjV4bLQwj3FXtF) | 5:20 |
-| 35 | [It Is Well With My Soul](https://open.spotify.com/track/0qcckgiXgPlmE2DtJFRWAk) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [It Came Upon the Midnight Clear](https://open.spotify.com/album/55akvbir79e3aLW1XBS0pz) | 2:05 |
+| 34 | [It Is Well With My Soul](https://open.spotify.com/track/0qcckgiXgPlmE2DtJFRWAk) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [It Came Upon the Midnight Clear](https://open.spotify.com/album/55akvbir79e3aLW1XBS0pz) | 2:05 |
+| 35 | [You're All I Want For Christmas](https://open.spotify.com/track/3TKli016N6D1XnU0Jz8xVx) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Happy Christmas, Little Friend](https://open.spotify.com/album/66xxXSW7xjV4bLQwj3FXtF) | 5:20 |
 | 36 | [Ave Maria](https://open.spotify.com/track/4Ed2ZWI33fojtD1FRhVk29) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [That Christmas Feel](https://open.spotify.com/album/1eRIaiBeErayP8Cfve02kJ) | 3:54 |
 | 37 | [Once in Royal David's City](https://open.spotify.com/track/68ugUmH1wjIN0vCR98sC7G) | [Red Brick Lane](https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ) | [Once in Royal David's City](https://open.spotify.com/album/5dDT9Nh3MCITsacmvIv6lp) | 2:45 |
 | 38 | [Still, Still, Still](https://open.spotify.com/track/1L0op2aXXuCnWsGT8ltTMW) | [Kyle Mendes Jazz Trio](https://open.spotify.com/artist/0KZqPiOKt79SlPR6kzZUm2) | [I'll Be Home For Christmas](https://open.spotify.com/album/3JFeZMiH5g3cXfrxpNkXtS) | 2:21 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 90 | [Make Me a Present of You](https://open.spotify.com/track/09MXanUedyI3MBy3KXHxrk) | [Sissel](https://open.spotify.com/artist/2jaOpr7Go1avixlg1lfJOb) | [Reflections III Christmas](https://open.spotify.com/album/1fxObqAQsE5iz2lEWQwrL6) | 3:33 |
 | 91 | [Winter Wonderland](https://open.spotify.com/track/6fdJPqS50ZnxNnGk7O4wee) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL), [Clayton\-Hamilton Jazz Orchestra](https://open.spotify.com/artist/3BDNDjVtAxrIqFDIO5cUgy) | [Christmas Songs](https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO) | 3:14 |
 | 92 | [Christmas Eve](https://open.spotify.com/track/57vYmspSByGGELFVb4e8Tz) | [Billy Eckstine](https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt) | [Billy Eckstine Sings](https://open.spotify.com/album/75Xfs589ceaAnTYsOvHKqC) | 3:05 |
-| 93 | [Christmas Rainbows](https://open.spotify.com/track/3YriJtNU0FTmdTE8vZUaxd) | [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [That Holiday Feelin'](https://open.spotify.com/album/73x03sZD5Xkb6cOqbJ5R1j) | 5:13 |
-| 94 | [Merry Christmas Baby](https://open.spotify.com/track/4NqVOcOTZDGbr9KP5ZaMxF) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Have Yourself a Soulful Little Christmas](https://open.spotify.com/album/2qecynSla5V5qcg8Xdqzgw) | 3:23 |
+| 93 | [Merry Christmas Baby](https://open.spotify.com/track/4NqVOcOTZDGbr9KP5ZaMxF) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Have Yourself a Soulful Little Christmas](https://open.spotify.com/album/2qecynSla5V5qcg8Xdqzgw) | 3:23 |
+| 94 | [Christmas Rainbows](https://open.spotify.com/track/3YriJtNU0FTmdTE8vZUaxd) | [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [That Holiday Feelin'](https://open.spotify.com/album/73x03sZD5Xkb6cOqbJ5R1j) | 5:13 |
 | 95 | [Blue Christmas](https://open.spotify.com/track/7vdYX4mdSNdy9g8FeBSKRm) | [Nicki Parrott](https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7) | [Winter Wonderland](https://open.spotify.com/album/7Djta9G35BBXrjz4CnSg39) | 3:50 |
 | 96 | [Angels We Have Heard on High / Joy to the World](https://open.spotify.com/track/3ZtqRGAm0Q3hUjRKKGoDeA) | [Joe Pass](https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ) | [Joe Pass \- Six String Santa](https://open.spotify.com/album/1SXRnss2fnudVkXZrVxIJX) | 4:35 |
 | 97 | [Deck the Halls](https://open.spotify.com/track/1GyVQ3Lyz2XVTxYl42f1Kq) | [Michael Stylez & Co](https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT) | [Deck the Halls](https://open.spotify.com/album/3ih4Z7j1laYHVbeCzxssop) | 1:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 99 | [Christmas Time Is Here](https://open.spotify.com/track/1f9WJ3jehvcxTK5OTTYiOO) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Christmas Songs](https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO) | 3:34 |
 | 100 | [Baby It's Cold Outside](https://open.spotify.com/track/7m7tdsmeN4M0rZXJR4PHN7) | [Matt Belsante](https://open.spotify.com/artist/4xJmGeK78D0iQa6rk4wlgz) | [White Christmas](https://open.spotify.com/album/3YsRLmD4nlPi6fJOEmsO30) | 4:26 |
 
-Snapshot ID: `MTY3MjczMjI0NiwwMDAwMDAwMGI4MjM1MDRiYjRjZWNjZDVmYTViYmIyZDgwYWNjYzVi`
+Snapshot ID: `MTY3MjczMjI0NiwwMDAwMDAwMDY2MDVhYzc3NGNmNmM3ZWJjMzU4OTc2NWU2M2IwMzRk`

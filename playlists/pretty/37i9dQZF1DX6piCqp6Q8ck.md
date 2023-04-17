@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 
 > Uplifting and happy jazz christmas classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,339 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,320 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 | 59 | [What a Night!](https://open.spotify.com/track/3379BhHoOyWDkewjzpgZAv) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [What A Night! A Christmas Album](https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui) | 3:23 |
 | 60 | [O Come, All Ye Faithful](https://open.spotify.com/track/1B0jJzbxFwEBrsfVKOlSfx) | [Vincent Herring](https://open.spotify.com/artist/4vDfWi1S8RneRAgCPOIThL), [Dave Birkman](https://open.spotify.com/artist/4EfQMoNIcpy9wJDuCkYrzc), [Essiet Essiet](https://open.spotify.com/artist/1gQ8mRcuJnb3j7CJpMMTDa), [Carl Allen](https://open.spotify.com/artist/5ufrB7FmfeQ8whmRiRe9gF) | [Hot Jazz for a Cool Night: a Jazz Christmas](https://open.spotify.com/album/02iLLB1FrzSb0V0pRqpjHS) | 5:12 |
 | 61 | [O Tannenbaum](https://open.spotify.com/track/2uNFJN1qsfvZ3xepAGNoca) | [Vanguard Jazz Sextet](https://open.spotify.com/artist/5vAzmGwvrItLXbcCquKOQz) | [Hot Jazz for a Cool Night: a Jazz Christmas](https://open.spotify.com/album/02iLLB1FrzSb0V0pRqpjHS) | 4:54 |
-| 62 | [The Last Day of the Year](https://open.spotify.com/track/7IDmQ3XLrh6y3oauET1dWp) | [Peter Asplund](https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz), [Margareta Bengtson](https://open.spotify.com/artist/1JCdbZOcdCzEP77XJoj3Ov) | [The Christmas Feeling](https://open.spotify.com/album/2PAGkZAGKuOT3SWqoLwNLx) | 5:05 |
-| 63 | [Hang Your Lights](https://open.spotify.com/track/4JIxFcV0CSFRNjwSe1SyLG) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [The Pianoman at Christmas](https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5) | 4:56 |
+| 62 | [Hang Your Lights](https://open.spotify.com/track/4JIxFcV0CSFRNjwSe1SyLG) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [The Pianoman at Christmas](https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5) | 4:56 |
+| 63 | [The Last Day of the Year](https://open.spotify.com/track/7IDmQ3XLrh6y3oauET1dWp) | [Peter Asplund](https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz), [Margareta Bengtson](https://open.spotify.com/artist/1JCdbZOcdCzEP77XJoj3Ov) | [The Christmas Feeling](https://open.spotify.com/album/2PAGkZAGKuOT3SWqoLwNLx) | 5:05 |
 | 64 | [Christmas Blues](https://open.spotify.com/track/55EWToZszoZA6QDRPSNjqq) | [Eric Reed](https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU) | [Yule Be Miserable](https://open.spotify.com/album/072uKkYkhEsK8Dv6BIDCGY) | 4:11 |
 | 65 | [Christmas Time All Over the World](https://open.spotify.com/track/2KTDECCXQYjGftNlpsCkya) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [Christmas Jazz With The Stars](https://open.spotify.com/album/4sfq7INKFIAYi8NEigZ7RY) | 2:34 |
 | 66 | [Man With The Bag](https://open.spotify.com/track/0BCVQHXk8HY6Uip5gK2lrv) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o), [Kansas Smitty's](https://open.spotify.com/artist/7t02NhXZ77sXywJ3XghI7C) | [The Pianoman at Christmas \(The Complete Edition\)](https://open.spotify.com/album/0LuEO5CPU8DqYEA31cfaGV) | 2:54 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 | 69 | [Santa Claus Got Stuck \(In My Chimney\)](https://open.spotify.com/track/37DyuqC8sgnnfmqxA5I1Fq) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [The Ink Spots](https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY) | [The Complete Decca Singles Vol\. 4: 1950\-1955](https://open.spotify.com/album/3nXCCfwBpz0FlUdxJrMfwM) | 3:09 |
 | 70 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/79Vow814grawUCdrBlYZbs) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella & Louis Christmas](https://open.spotify.com/album/4Stxbm7asfnEVduhRpWpzl) | 2:44 |
 
-Snapshot ID: `MTY3MTgwMDY5MywwMDAwMDAwMDBiMGE1MmMxOGEyMTA2MDAxZTE5Yzg2MjUwOTZlODgw`
+Snapshot ID: `MTY3MTgwMDY5MywwMDAwMDAwMDZlYzM3OTg5MzUwNjVjNWI5MjIyYjIyMTExNjJiZDk4`

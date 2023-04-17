@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > Proudly marching to the beat of their own drum\. Cover: Cub Sport
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,984 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,989 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 24 | [Moon Rising \(10 Years\)](https://open.spotify.com/track/1Ss2yRnWazM2Vp7j4QZZ6c) | [Gayance](https://open.spotify.com/artist/6HkmFbqw9k63LmmlBlCQic), [Judith Little D](https://open.spotify.com/artist/5ndKESqmhnZNtrRnYeqHBz) | [Moon Rising \(10 Years\)](https://open.spotify.com/album/5A7UKjX9QT6yADRDVMFIOP) | 5:07 |
 | 25 | [Let's Go!](https://open.spotify.com/track/4IQTBYqOiAf5u7AvsrmJ5x) | [Kid Koala](https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN) | [Creatures of the Late Afternoon](https://open.spotify.com/album/1KsEcHA0CT8fLcQiT4qaMw) | 1:53 |
 | 26 | [Whenever I Want](https://open.spotify.com/track/28Cg98BS32bN4zUGzVM9Kn) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Whenever I Want](https://open.spotify.com/album/5m1zpQMkKIwT4PaDh9l4rA) | 4:29 |
-| 27 | [BBBBBB](https://open.spotify.com/track/2PrIK96A5GDg7GtbsCgJwg) | [MAUVEY](https://open.spotify.com/artist/6AdFoQsWjrVfWwi4BWYXCH) | [BEFORE THE ALBUM 2: a brief overview](https://open.spotify.com/album/2eYcC9osTDcUIIpqo1SgMd) | 2:48 |
+| 27 | [BBBBBB](https://open.spotify.com/track/2PrIK96A5GDg7GtbsCgJwg) | [MAUVEY](https://open.spotify.com/artist/6AdFoQsWjrVfWwi4BWYXCH), [Big Kill](https://open.spotify.com/artist/2F50OlzwdK2eRTnGCDVuIB) | [BEFORE THE ALBUM 2: a brief overview](https://open.spotify.com/album/2eYcC9osTDcUIIpqo1SgMd) | 2:48 |
 | 28 | [im gonna kill you \(feat\. Sahati\)](https://open.spotify.com/track/4jSctcEMRrrjbOo60pbfmj) | [CHEEYA](https://open.spotify.com/artist/6yFEAMfnclFaaurukvlVqu), [Sahati](https://open.spotify.com/artist/3PGzj3O66abGPzQNmKELCf) | [im gonna kill you \(feat\. Sahati\)](https://open.spotify.com/album/2Bom4X9Z5VZRH2tvWXRjx9) | 3:30 |
 | 29 | [enjoy the ride](https://open.spotify.com/track/4lRRYKmoNtDV6g8UaFpyA1) | [jungle bobby](https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl), [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [enjoy the ride](https://open.spotify.com/album/3U7Up8ryY3dAvKibe9pUl1) | 2:35 |
 | 30 | [Be Somebody](https://open.spotify.com/track/1zN4tWrJ4oGSSCichizR6D) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Be Somebody](https://open.spotify.com/album/5VWx4yKzDD4daztd1gn9D8) | 2:21 |

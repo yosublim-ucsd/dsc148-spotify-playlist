@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 123383,
+  "num_followers": 123658,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTUxODEwNCwwMDAwMDAwMGIwNTQwYzllNzNhOTc0ZTI0MWRhZGU0YmYzZTdjNTY1",
+  "snapshot_id": "MTY4MTUxODEwNCwwMDAwMDAwMGIxOGY4NjQ0YWMwMjg4YWI0YTI2YWExMTFjOGFhOWYz",
   "tracks": [
     {
       "added_at": "2023-03-16 18:20:17",
@@ -57,22 +57,6 @@
       "url": "https://open.spotify.com/track/1Ug6XFyqQE9nSE8ycck18M"
     },
     {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Cenotes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0Gk9ZPx40L9vCMS2okBUTZ"
-      },
-      "artists": [
-        {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Ma\u00f1ana Tepotzlan",
-      "url": "https://open.spotify.com/track/0uSBIec5LeDbZtyKjVzCLx"
-    },
-    {
       "added_at": "2022-08-03 03:35:17",
       "album": {
         "name": "Ali",
@@ -91,6 +75,22 @@
       "duration_ms": 316093,
       "name": "Savanne",
       "url": "https://open.spotify.com/track/7BeDGBnTV2SqchXGAegMNm"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Cenotes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0Gk9ZPx40L9vCMS2okBUTZ"
+      },
+      "artists": [
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Ma\u00f1ana Tepotzlan",
+      "url": "https://open.spotify.com/track/0uSBIec5LeDbZtyKjVzCLx"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -231,26 +231,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Camino de Flores",
-        "url": "https://open.spotify.com/album/0vdxye7k8StChBnsKnMjoo"
+        "name": "6",
+        "url": "https://open.spotify.com/album/5T31xBzocjWeu9JDn4Sinj"
       },
       "artists": [
         {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
         },
         {
-          "name": "Joaqu\u00edn Cornejo",
-          "url": "https://open.spotify.com/artist/6V4NgkMjgxnogUDJe1rAUx"
-        },
-        {
-          "name": "Minuk",
-          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
         }
       ],
-      "duration_ms": 341500,
-      "name": "Mirando El Fuego",
-      "url": "https://open.spotify.com/track/4LWhuOXAg8TiEH87RATu5X"
+      "duration_ms": 219600,
+      "name": "Hipn\u00f3tico",
+      "url": "https://open.spotify.com/track/7kNUjyZQ1YWN1Nv4JvTaiD"
     },
     {
       "added_at": "2023-03-31 17:34:58",
@@ -291,22 +287,26 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "6",
-        "url": "https://open.spotify.com/album/5T31xBzocjWeu9JDn4Sinj"
+        "name": "Camino de Flores",
+        "url": "https://open.spotify.com/album/0vdxye7k8StChBnsKnMjoo"
       },
       "artists": [
         {
-          "name": "CERO39",
-          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
         },
         {
-          "name": "Mula",
-          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
+          "name": "Joaqu\u00edn Cornejo",
+          "url": "https://open.spotify.com/artist/6V4NgkMjgxnogUDJe1rAUx"
+        },
+        {
+          "name": "Minuk",
+          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
         }
       ],
-      "duration_ms": 219600,
-      "name": "Hipn\u00f3tico",
-      "url": "https://open.spotify.com/track/7kNUjyZQ1YWN1Nv4JvTaiD"
+      "duration_ms": 341500,
+      "name": "Mirando El Fuego",
+      "url": "https://open.spotify.com/track/4LWhuOXAg8TiEH87RATu5X"
     },
     {
       "added_at": "2023-03-16 23:14:04",
@@ -323,6 +323,38 @@
       "duration_ms": 254908,
       "name": "Mi Gran Dolor",
       "url": "https://open.spotify.com/track/3XVA4rOpkLVHtrkCiCxiFh"
+    },
+    {
+      "added_at": "2022-09-30 04:03:44",
+      "album": {
+        "name": "Y tu te vas",
+        "url": "https://open.spotify.com/album/7omUCnWLUozEhrsODlxM0b"
+      },
+      "artists": [
+        {
+          "name": "La Femme",
+          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
+        }
+      ],
+      "duration_ms": 194346,
+      "name": "Y tu te vas",
+      "url": "https://open.spotify.com/track/5BkbrF1KA0Y6Y0B5M1N57v"
+    },
+    {
+      "added_at": "2023-03-22 17:52:31",
+      "album": {
+        "name": "SMT",
+        "url": "https://open.spotify.com/album/03D2z5rFjWwL1menJGfcmQ"
+      },
+      "artists": [
+        {
+          "name": "Pierre Kwenders",
+          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
+        }
+      ],
+      "duration_ms": 197600,
+      "name": "SMT",
+      "url": "https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415"
     },
     {
       "added_at": "2023-02-03 04:49:29",
@@ -345,20 +377,24 @@
       "url": "https://open.spotify.com/track/2eqLgrPkcSTgCvxEtsymiz"
     },
     {
-      "added_at": "2023-03-22 17:52:31",
+      "added_at": "2023-03-23 22:09:41",
       "album": {
-        "name": "SMT",
-        "url": "https://open.spotify.com/album/03D2z5rFjWwL1menJGfcmQ"
+        "name": "Agujas en el pecho",
+        "url": "https://open.spotify.com/album/2rCqZjc7bYddHbQ4h7ABHt"
       },
       "artists": [
         {
-          "name": "Pierre Kwenders",
-          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+        },
+        {
+          "name": "Catalina Garc\u00eda",
+          "url": "https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY"
         }
       ],
-      "duration_ms": 197600,
-      "name": "SMT",
-      "url": "https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415"
+      "duration_ms": 320682,
+      "name": "Agujas en el pecho",
+      "url": "https://open.spotify.com/track/0np9UFhTftjmtGJSe0C9wP"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -385,42 +421,6 @@
       "url": "https://open.spotify.com/track/2xoHLJpHsV08cZKGfk5315"
     },
     {
-      "added_at": "2023-03-23 22:09:41",
-      "album": {
-        "name": "Agujas en el pecho",
-        "url": "https://open.spotify.com/album/2rCqZjc7bYddHbQ4h7ABHt"
-      },
-      "artists": [
-        {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
-        },
-        {
-          "name": "Catalina Garc\u00eda",
-          "url": "https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY"
-        }
-      ],
-      "duration_ms": 320682,
-      "name": "Agujas en el pecho",
-      "url": "https://open.spotify.com/track/0np9UFhTftjmtGJSe0C9wP"
-    },
-    {
-      "added_at": "2022-09-30 04:03:44",
-      "album": {
-        "name": "Y tu te vas",
-        "url": "https://open.spotify.com/album/7omUCnWLUozEhrsODlxM0b"
-      },
-      "artists": [
-        {
-          "name": "La Femme",
-          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
-        }
-      ],
-      "duration_ms": 194346,
-      "name": "Y tu te vas",
-      "url": "https://open.spotify.com/track/5BkbrF1KA0Y6Y0B5M1N57v"
-    },
-    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "Aimez ces airs",
@@ -443,18 +443,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Feelings",
-        "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
+        "name": "On te l'avait dit",
+        "url": "https://open.spotify.com/album/769hXvYI0EBGEC2ldfRgnp"
       },
       "artists": [
         {
-          "name": "Brijean",
-          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+          "name": "Voilaaa",
+          "url": "https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1"
+        },
+        {
+          "name": "Sir Jean",
+          "url": "https://open.spotify.com/artist/4SkHS4kCrdABhw4KLVrOz0"
         }
       ],
-      "duration_ms": 134220,
-      "name": "Moody",
-      "url": "https://open.spotify.com/track/213H9vfVfLc7m2zRVWgCmJ"
+      "duration_ms": 432963,
+      "name": "Spies Are Watching Me",
+      "url": "https://open.spotify.com/track/1UIqpCB0b56K7U0JJPfskN"
     },
     {
       "added_at": "2023-03-23 20:20:58",
@@ -475,22 +479,18 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "On te l'avait dit",
-        "url": "https://open.spotify.com/album/769hXvYI0EBGEC2ldfRgnp"
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
       },
       "artists": [
         {
-          "name": "Voilaaa",
-          "url": "https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1"
-        },
-        {
-          "name": "Sir Jean",
-          "url": "https://open.spotify.com/artist/4SkHS4kCrdABhw4KLVrOz0"
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
         }
       ],
-      "duration_ms": 432963,
-      "name": "Spies Are Watching Me",
-      "url": "https://open.spotify.com/track/1UIqpCB0b56K7U0JJPfskN"
+      "duration_ms": 134220,
+      "name": "Moody",
+      "url": "https://open.spotify.com/track/213H9vfVfLc7m2zRVWgCmJ"
     },
     {
       "added_at": "2023-03-23 21:37:06",
@@ -509,6 +509,22 @@
       "url": "https://open.spotify.com/track/39R3eB7dlQ6R6B4FvZH004"
     },
     {
+      "added_at": "2022-07-01 02:43:42",
+      "album": {
+        "name": "Sacatela",
+        "url": "https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe"
+      },
+      "artists": [
+        {
+          "name": "La Femme",
+          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
+        }
+      ],
+      "duration_ms": 172026,
+      "name": "Sacatela",
+      "url": "https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku"
+    },
+    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "Sentir",
@@ -523,6 +539,22 @@
       "duration_ms": 228194,
       "name": "Sentir",
       "url": "https://open.spotify.com/track/52LzaPKWxeHxGTJq0GkEqx"
+    },
+    {
+      "added_at": "2023-04-12 01:34:05",
+      "album": {
+        "name": "Maria y la mar",
+        "url": "https://open.spotify.com/album/3iDlWCCITsHZ4suthyOzbQ"
+      },
+      "artists": [
+        {
+          "name": "Los Bosques",
+          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
+        }
+      ],
+      "duration_ms": 152400,
+      "name": "Maria y la mar",
+      "url": "https://open.spotify.com/track/0ThpvYh2VVpvv1U5PC5548"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -543,62 +575,6 @@
       "duration_ms": 359781,
       "name": "Laughter of the Sea",
       "url": "https://open.spotify.com/track/2AjB1CCKlumQX9uJG48mDS"
-    },
-    {
-      "added_at": "2023-04-12 01:34:05",
-      "album": {
-        "name": "Maria y la mar",
-        "url": "https://open.spotify.com/album/3iDlWCCITsHZ4suthyOzbQ"
-      },
-      "artists": [
-        {
-          "name": "Los Bosques",
-          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
-        }
-      ],
-      "duration_ms": 152400,
-      "name": "Maria y la mar",
-      "url": "https://open.spotify.com/track/0ThpvYh2VVpvv1U5PC5548"
-    },
-    {
-      "added_at": "2022-11-03 18:27:44",
-      "album": {
-        "name": "Mientras Tanto",
-        "url": "https://open.spotify.com/album/5GgeCHEvsDIpUR5AzHkYxK"
-      },
-      "artists": [
-        {
-          "name": "Los Eclipses",
-          "url": "https://open.spotify.com/artist/21EtvnD59JJJiUP0qZP7WY"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        },
-        {
-          "name": "Dan Solo",
-          "url": "https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Mientras Tanto",
-      "url": "https://open.spotify.com/track/2q8YqrDMb3SHmMQHbkd9tF"
-    },
-    {
-      "added_at": "2022-07-01 02:43:42",
-      "album": {
-        "name": "Sacatela",
-        "url": "https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe"
-      },
-      "artists": [
-        {
-          "name": "La Femme",
-          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
-        }
-      ],
-      "duration_ms": 172026,
-      "name": "Sacatela",
-      "url": "https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -623,6 +599,30 @@
       "duration_ms": 312914,
       "name": "Cumbia Sobre el Mar - El B\u00faho Remix",
       "url": "https://open.spotify.com/track/0p8LlXT1FG9vnrCH70dbuo"
+    },
+    {
+      "added_at": "2022-11-03 18:27:44",
+      "album": {
+        "name": "Mientras Tanto",
+        "url": "https://open.spotify.com/album/5GgeCHEvsDIpUR5AzHkYxK"
+      },
+      "artists": [
+        {
+          "name": "Los Eclipses",
+          "url": "https://open.spotify.com/artist/21EtvnD59JJJiUP0qZP7WY"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        },
+        {
+          "name": "Dan Solo",
+          "url": "https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Mientras Tanto",
+      "url": "https://open.spotify.com/track/2q8YqrDMb3SHmMQHbkd9tF"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Ondatr\u00f3pica (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2clte0oolrkkXFTJy72us2"
-      },
-      "artists": [
-        {
-          "name": "Ondatr\u00f3pica",
-          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
-        }
-      ],
-      "duration_ms": 245280,
-      "name": "Cumbia Espacial",
-      "url": "https://open.spotify.com/track/7y40GtUQ2pO4rV652rVazz"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "R\u00fambala",
         "url": "https://open.spotify.com/album/4yf3TyT75f33sAq1o1ORuR"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 178823,
       "name": "R\u00fambala",
       "url": "https://open.spotify.com/track/0YjGcWlFaksNtsCIxfrmur"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Ondatr\u00f3pica (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2clte0oolrkkXFTJy72us2"
+      },
+      "artists": [
+        {
+          "name": "Ondatr\u00f3pica",
+          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
+        }
+      ],
+      "duration_ms": 245280,
+      "name": "Cumbia Espacial",
+      "url": "https://open.spotify.com/track/7y40GtUQ2pO4rV652rVazz"
     },
     {
       "added_at": "2023-01-02 21:43:35",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Safe Passage",
-        "url": "https://open.spotify.com/album/6vV2zYfImg0HdmJ21FVIzp"
-      },
-      "artists": [
-        {
-          "name": "Gitkin",
-          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
-        }
-      ],
-      "duration_ms": 206684,
-      "name": "Nosotros Tambi\u00e9n",
-      "url": "https://open.spotify.com/track/2MVutCS0ZGcu2HbmYIhF3i"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Jungle Fire",
         "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 229080,
       "name": "At\u00f3mico",
       "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Safe Passage",
+        "url": "https://open.spotify.com/album/6vV2zYfImg0HdmJ21FVIzp"
+      },
+      "artists": [
+        {
+          "name": "Gitkin",
+          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
+        }
+      ],
+      "duration_ms": 206684,
+      "name": "Nosotros Tambi\u00e9n",
+      "url": "https://open.spotify.com/track/2MVutCS0ZGcu2HbmYIhF3i"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1121,24 +1121,24 @@
       "url": "https://open.spotify.com/track/507fmh8Qx1LfKff6h57moj"
     },
     {
-      "added_at": "2023-03-16 23:40:55",
+      "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Dj friendly",
-        "url": "https://open.spotify.com/album/0ec4p4yXwrLIOlFdwvE51o"
+        "name": "La Cura",
+        "url": "https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf"
       },
       "artists": [
         {
-          "name": "Plano",
-          "url": "https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1"
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
         },
         {
-          "name": "Vazl\u00e1",
-          "url": "https://open.spotify.com/artist/3HJyzDlSuzrNRCsRm67ENV"
+          "name": "Gizmo Varillas",
+          "url": "https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj"
         }
       ],
-      "duration_ms": 234900,
-      "name": "V\u00e1monos - Vazl\u00e1 Remix",
-      "url": "https://open.spotify.com/track/7lSBSAwgzzd9l5Vh2t94tl"
+      "duration_ms": 181000,
+      "name": "La Cura",
+      "url": "https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC"
     },
     {
       "added_at": "2023-02-02 00:29:46",
@@ -1157,30 +1157,6 @@
       "url": "https://open.spotify.com/track/3R050VaH43jmKAwoGluK2L"
     },
     {
-      "added_at": "2023-02-28 04:33:05",
-      "album": {
-        "name": "Crux Australis",
-        "url": "https://open.spotify.com/album/5NnNrnljeZVpPsW2lPfg4M"
-      },
-      "artists": [
-        {
-          "name": "Tunkuy",
-          "url": "https://open.spotify.com/artist/66E1mdKk5XT2HUZ3hkKEX0"
-        },
-        {
-          "name": "Man After Man",
-          "url": "https://open.spotify.com/artist/1jxHgQ48lEj9OZ7o3y1HfQ"
-        },
-        {
-          "name": "Dar\u00edo Abdala",
-          "url": "https://open.spotify.com/artist/7CfkX18xoIBT9BAFZdh1m3"
-        }
-      ],
-      "duration_ms": 306863,
-      "name": "Crux Australis",
-      "url": "https://open.spotify.com/track/1pWWrnSxMW5DniwdPXDE3B"
-    },
-    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "Out of This World",
@@ -1195,6 +1171,26 @@
       "duration_ms": 289576,
       "name": "Superstylin'",
       "url": "https://open.spotify.com/track/4G7sC4cJ8wl0W17zU3dAsb"
+    },
+    {
+      "added_at": "2023-03-16 23:40:55",
+      "album": {
+        "name": "Dj friendly",
+        "url": "https://open.spotify.com/album/0ec4p4yXwrLIOlFdwvE51o"
+      },
+      "artists": [
+        {
+          "name": "Plano",
+          "url": "https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1"
+        },
+        {
+          "name": "Vazl\u00e1",
+          "url": "https://open.spotify.com/artist/3HJyzDlSuzrNRCsRm67ENV"
+        }
+      ],
+      "duration_ms": 234900,
+      "name": "V\u00e1monos - Vazl\u00e1 Remix",
+      "url": "https://open.spotify.com/track/7lSBSAwgzzd9l5Vh2t94tl"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1223,26 +1219,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "La Cura",
-        "url": "https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf"
-      },
-      "artists": [
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        },
-        {
-          "name": "Gizmo Varillas",
-          "url": "https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "La Cura",
-      "url": "https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Theme from Selva",
         "url": "https://open.spotify.com/album/6ht7LwHxyNVk8gkqGaK6mM"
       },
@@ -1255,6 +1231,30 @@
       "duration_ms": 340720,
       "name": "Nineteen Hundred and Eighty Five",
       "url": "https://open.spotify.com/track/65KrPjUkVnvUUfQaDGn6n7"
+    },
+    {
+      "added_at": "2023-02-28 04:33:05",
+      "album": {
+        "name": "Crux Australis",
+        "url": "https://open.spotify.com/album/5NnNrnljeZVpPsW2lPfg4M"
+      },
+      "artists": [
+        {
+          "name": "Tunkuy",
+          "url": "https://open.spotify.com/artist/66E1mdKk5XT2HUZ3hkKEX0"
+        },
+        {
+          "name": "Man After Man",
+          "url": "https://open.spotify.com/artist/1jxHgQ48lEj9OZ7o3y1HfQ"
+        },
+        {
+          "name": "Dar\u00edo Abdala",
+          "url": "https://open.spotify.com/artist/7CfkX18xoIBT9BAFZdh1m3"
+        }
+      ],
+      "duration_ms": 306863,
+      "name": "Crux Australis",
+      "url": "https://open.spotify.com/track/1pWWrnSxMW5DniwdPXDE3B"
     },
     {
       "added_at": "2022-06-15 04:26:09",

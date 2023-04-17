@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gHUsLp9bcj.md) - [plain]
 
 > This is the Latin soundtrack of the 50s! Cover:  Pérez Prado
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,648 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,686 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gHUsLp9bcj.md) - [plain]
 | 31 | [La que se fue](https://open.spotify.com/track/7jbw51fAxM61ELUdfvx8Ua) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [60 Rancheras Inmortales](https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok) | 2:39 |
 | 32 | [Besame Mucho](https://open.spotify.com/track/6vJJdNPTJKUsUMDmDwfCuB) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Canciones del Corazon](https://open.spotify.com/album/0Ai4nrtCv5Z6jfOvGoyJ2u) | 3:05 |
 | 33 | [Cuando Calienta El Sol](https://open.spotify.com/track/7pP7yMX0Nu862YXP5S9Eqs) | [Trini Lopez](https://open.spotify.com/artist/5FlTKgucbhHvlJVf0pnvOv) | [His 28 Greatest Hits](https://open.spotify.com/album/0le6lAknFh1BF6GZ3GSTon) | 2:26 |
-| 34 | [Espinita](https://open.spotify.com/track/6elJAHz5ZQTjDbjD6PCEMw) | [Ana María González](https://open.spotify.com/artist/5kUndRPKfSpxJ8WoDImOZU) | [La Música en la Radio](https://open.spotify.com/album/2mzryIN4cCL6StAlH6tVqX) | 2:21 |
+| 34 | [La Cama de Piedra](https://open.spotify.com/track/0W2sWeK8d32hqAPIvpq8Kl) | [Cuco Sánchez](https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E) | [El Revolucionario](https://open.spotify.com/album/6nyUcQEosgPKpNUhkp3bAI) | 3:12 |
 | 35 | [Cherry Pink And Apple Blossom White](https://open.spotify.com/track/783XPWZlaGrFcgH3EMoGwB) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [The King of Mambo](https://open.spotify.com/album/4gIaN0sSqN7fjDq9NG4vFp) | 2:29 |
-| 36 | [La Cama de Piedra](https://open.spotify.com/track/0W2sWeK8d32hqAPIvpq8Kl) | [Cuco Sánchez](https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E) | [El Revolucionario](https://open.spotify.com/album/6nyUcQEosgPKpNUhkp3bAI) | 3:12 |
+| 36 | [Espinita](https://open.spotify.com/track/6elJAHz5ZQTjDbjD6PCEMw) | [Ana María González](https://open.spotify.com/artist/5kUndRPKfSpxJ8WoDImOZU) | [La Música en la Radio](https://open.spotify.com/album/2mzryIN4cCL6StAlH6tVqX) | 2:21 |
 | 37 | [Diana](https://open.spotify.com/track/5wgEPKwKpTS8g6fYejxXyh) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Éxitos](https://open.spotify.com/album/1rd76Pzbgwib2BMDklaFVU) | 2:24 |
 | 38 | [Quiereme Mucho \(Yours\)](https://open.spotify.com/track/3hThX54q9haPCi0olgOHG2) | [Los Copacabana](https://open.spotify.com/artist/3eBJqE3k7Jr4CZbI4N4Jrg) | [Mexico's Greatest Hits](https://open.spotify.com/album/2giGcyHpDs98pN0FsdvcCW) | 3:52 |
 | 39 | [Pénjamo](https://open.spotify.com/track/2vKYADIQCZb07DRE4LzwxK) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [60 Rancheras Inmortales](https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok) | 3:15 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gHUsLp9bcj.md) - [plain]
 | 45 | [Mambo en Sax](https://open.spotify.com/track/1hLZBnAopiRfEvbj7aurzi) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [The Best Of Perez Prado: The Original Mambo \#5](https://open.spotify.com/album/5tZ8FshywMxf1RdSTaZx5m) | 2:30 |
 | 46 | [Cha\-Cha De Pollos \(Cha\-Cha for Chicks\)](https://open.spotify.com/track/69M6PgRULo02mZYzsN7fq5) | [Tito Puente & His Orchestra](https://open.spotify.com/artist/1zN5Et4jcH3XQ0b60IGmp1) | [Cuban Carnival](https://open.spotify.com/album/0xIAUeelYazwvkKeY4NEYS) | 2:47 |
 | 47 | [El agarrao \- Remastered](https://open.spotify.com/track/1D8odg3YqpBNDPL9pIx5ql) | [Benny Moré](https://open.spotify.com/artist/4cnQXgOckSZPIh3YhB500P) | [Cienfuegos \(Remastered\)](https://open.spotify.com/album/53cadHSNf6jX0PLCeet7Fc) | 2:41 |
-| 48 | [Cuban Nightmare](https://open.spotify.com/track/66QFXwU9ctm6PiiBqJrSZV) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Hoy y Ayer](https://open.spotify.com/album/1Gg0LMPxbrR8SCXtAMveyG) | 3:03 |
-| 49 | [Somos \(Bolero\) \- Remastered](https://open.spotify.com/track/4vYLtJruIsptXIberxsgWM) | [Antonio Machín](https://open.spotify.com/artist/30iuQTTr3l7QihN6KKgJrG) | [Antonio Machin, Vol\. 3 \(1947\-1950 Remastered\)](https://open.spotify.com/album/6E45UvcXJk3sZNrisgRLho) | 3:07 |
+| 48 | [Somos \(Bolero\) \- Remastered](https://open.spotify.com/track/4vYLtJruIsptXIberxsgWM) | [Antonio Machín](https://open.spotify.com/artist/30iuQTTr3l7QihN6KKgJrG) | [Antonio Machin, Vol\. 3 \(1947\-1950 Remastered\)](https://open.spotify.com/album/6E45UvcXJk3sZNrisgRLho) | 3:07 |
+| 49 | [Cuban Nightmare](https://open.spotify.com/track/66QFXwU9ctm6PiiBqJrSZV) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Hoy y Ayer](https://open.spotify.com/album/1Gg0LMPxbrR8SCXtAMveyG) | 3:03 |
 | 50 | [Soy Feliz](https://open.spotify.com/track/6kzdmSs9Kmx4p3CXO5ydCE) | [María Victoria](https://open.spotify.com/artist/2ZaGoLikmuGjY9tFEFQ14o) | [María Victoria](https://open.spotify.com/album/64Rwiu8nkPZQpvhuHFwx6i) | 3:31 |
 
-Snapshot ID: `MTY3NjY2NzM5NSwwMDAwMDAwMGYwZGZhOGJmM2I5YzVlZGEzN2VmMmMzMGJkN2Q3ZjUy`
+Snapshot ID: `MTY3NjY2NzM5NSwwMDAwMDAwMGQ5ZjE0OTdmM2Q5MmZjMTdjY2E3YjUyYzEzNDc5NGYx`

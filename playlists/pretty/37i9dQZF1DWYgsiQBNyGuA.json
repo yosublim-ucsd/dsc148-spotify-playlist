@@ -1,12 +1,12 @@
 {
   "description": "Soul to brighten up your day.",
-  "num_followers": 52759,
+  "num_followers": 52847,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDE5ODE0MiwwMDAwMDAwMDk1NzNhZTQyMjBlNTFkOWY3M2JhYmEyYWUyMTdlNDkz",
+  "snapshot_id": "MTY4MDE5ODE0MiwwMDAwMDAwMDZkYjM4MTZjNWFkMzhhMjk0YmQyZjFiYWNmYThlNjU4",
   "tracks": [
     {
       "added_at": "2023-02-21 15:13:27",
@@ -167,22 +167,6 @@
     {
       "added_at": "2023-02-21 15:13:27",
       "album": {
-        "name": "Floetic",
-        "url": "https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi"
-      },
-      "artists": [
-        {
-          "name": "Floetry",
-          "url": "https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM"
-        }
-      ],
-      "duration_ms": 268373,
-      "name": "Say Yes",
-      "url": "https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw"
-    },
-    {
-      "added_at": "2023-02-21 15:13:27",
-      "album": {
         "name": "Comin' From Where I'm From",
         "url": "https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em"
       },
@@ -199,18 +183,18 @@
     {
       "added_at": "2023-02-21 15:13:27",
       "album": {
-        "name": "Queen Alone",
-        "url": "https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It"
+        "name": "Floetic",
+        "url": "https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi"
       },
       "artists": [
         {
-          "name": "Lady Wray",
-          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
+          "name": "Floetry",
+          "url": "https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM"
         }
       ],
-      "duration_ms": 214573,
-      "name": "Guilty",
-      "url": "https://open.spotify.com/track/3MLwKelG4PQ7rXkd8Qjz4g"
+      "duration_ms": 268373,
+      "name": "Say Yes",
+      "url": "https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw"
     },
     {
       "added_at": "2023-02-21 15:13:27",
@@ -231,6 +215,22 @@
     {
       "added_at": "2023-02-21 15:13:27",
       "album": {
+        "name": "Queen Alone",
+        "url": "https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It"
+      },
+      "artists": [
+        {
+          "name": "Lady Wray",
+          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
+        }
+      ],
+      "duration_ms": 214573,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/3MLwKelG4PQ7rXkd8Qjz4g"
+    },
+    {
+      "added_at": "2023-02-21 15:13:27",
+      "album": {
         "name": "Soul of a Woman",
         "url": "https://open.spotify.com/album/6dQ4PANge8QXfOywlHNd2J"
       },
@@ -245,7 +245,7 @@
       "url": "https://open.spotify.com/track/6oobvM9iZY1OF18kC36llz"
     },
     {
-      "added_at": "2023-04-16 00:12:06",
+      "added_at": "2023-04-17 00:13:14",
       "album": {
         "name": "Running Away",
         "url": "https://open.spotify.com/album/3E4Zo3HpawW7w2uBbhLY8H"
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-02-21 15:13:27",
       "album": {
-        "name": "Special Night",
-        "url": "https://open.spotify.com/album/02j4VRhJ7MKK0Jf3FtBBsD"
-      },
-      "artists": [
-        {
-          "name": "Lee Fields & The Expressions",
-          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
-        }
-      ],
-      "duration_ms": 265003,
-      "name": "Never Be Another You",
-      "url": "https://open.spotify.com/track/25z7NYgTEt6MiA5qExNSH2"
-    },
-    {
-      "added_at": "2023-02-21 15:13:27",
-      "album": {
         "name": "Back To Love (Deluxe Version)",
         "url": "https://open.spotify.com/album/545a3sdz0JkH85iYFZPiR4"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 226373,
       "name": "Best of Me",
       "url": "https://open.spotify.com/track/1JkhKUXAoNivi87ipmV3rp"
+    },
+    {
+      "added_at": "2023-02-21 15:13:27",
+      "album": {
+        "name": "Special Night",
+        "url": "https://open.spotify.com/album/02j4VRhJ7MKK0Jf3FtBBsD"
+      },
+      "artists": [
+        {
+          "name": "Lee Fields & The Expressions",
+          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
+        }
+      ],
+      "duration_ms": 265003,
+      "name": "Never Be Another You",
+      "url": "https://open.spotify.com/track/25z7NYgTEt6MiA5qExNSH2"
     },
     {
       "added_at": "2023-02-21 15:13:27",
@@ -399,26 +399,6 @@
     {
       "added_at": "2023-02-21 15:13:27",
       "album": {
-        "name": "My World",
-        "url": "https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc"
-      },
-      "artists": [
-        {
-          "name": "Lee Fields & The Expressions",
-          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
-        },
-        {
-          "name": "Lee Fields",
-          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
-        }
-      ],
-      "duration_ms": 246573,
-      "name": "Honey Dove",
-      "url": "https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH"
-    },
-    {
-      "added_at": "2023-02-21 15:13:27",
-      "album": {
         "name": "Avery*sunshine Album",
         "url": "https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB"
       },
@@ -467,22 +447,6 @@
     {
       "added_at": "2023-02-21 15:13:27",
       "album": {
-        "name": "Lazy Days",
-        "url": "https://open.spotify.com/album/3dsG1JN1wE7XL5DLuWNKk5"
-      },
-      "artists": [
-        {
-          "name": "Fat Night",
-          "url": "https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi"
-        }
-      ],
-      "duration_ms": 222320,
-      "name": "Sun Go Down",
-      "url": "https://open.spotify.com/track/6UJThOHpnTSWu583jJ4dbo"
-    },
-    {
-      "added_at": "2023-02-21 15:13:27",
-      "album": {
         "name": "My World",
         "url": "https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc"
       },
@@ -496,9 +460,25 @@
           "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
         }
       ],
-      "duration_ms": 257386,
-      "name": "Ladies",
-      "url": "https://open.spotify.com/track/6iNHWlOLt4NuDi9iSvtznO"
+      "duration_ms": 246573,
+      "name": "Honey Dove",
+      "url": "https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH"
+    },
+    {
+      "added_at": "2023-02-21 15:13:27",
+      "album": {
+        "name": "Lazy Days",
+        "url": "https://open.spotify.com/album/3dsG1JN1wE7XL5DLuWNKk5"
+      },
+      "artists": [
+        {
+          "name": "Fat Night",
+          "url": "https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi"
+        }
+      ],
+      "duration_ms": 222320,
+      "name": "Sun Go Down",
+      "url": "https://open.spotify.com/track/6UJThOHpnTSWu583jJ4dbo"
     },
     {
       "added_at": "2023-02-21 15:13:27",
@@ -627,6 +607,26 @@
     {
       "added_at": "2023-02-21 15:13:27",
       "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc"
+      },
+      "artists": [
+        {
+          "name": "Lee Fields & The Expressions",
+          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
+        },
+        {
+          "name": "Lee Fields",
+          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
+        }
+      ],
+      "duration_ms": 257386,
+      "name": "Ladies",
+      "url": "https://open.spotify.com/track/6iNHWlOLt4NuDi9iSvtznO"
+    },
+    {
+      "added_at": "2023-02-21 15:13:27",
+      "album": {
         "name": "Let My People Go",
         "url": "https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA"
       },
@@ -707,6 +707,22 @@
     {
       "added_at": "2023-02-21 15:13:27",
       "album": {
+        "name": "Sea of Noise",
+        "url": "https://open.spotify.com/album/2fRc3TJSXKXGFdnmcm17p2"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "duration_ms": 209440,
+      "name": "All I Ever Wonder",
+      "url": "https://open.spotify.com/track/6kUfA51KpIMGdKYrzWLkbn"
+    },
+    {
+      "added_at": "2023-02-21 15:13:27",
+      "album": {
         "name": "The Way I Feel",
         "url": "https://open.spotify.com/album/7mSNyOFmQg80PGsrVxYpa2"
       },
@@ -747,22 +763,6 @@
     {
       "added_at": "2023-02-21 15:13:27",
       "album": {
-        "name": "Sea of Noise",
-        "url": "https://open.spotify.com/album/2fRc3TJSXKXGFdnmcm17p2"
-      },
-      "artists": [
-        {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
-        }
-      ],
-      "duration_ms": 209440,
-      "name": "All I Ever Wonder",
-      "url": "https://open.spotify.com/track/6kUfA51KpIMGdKYrzWLkbn"
-    },
-    {
-      "added_at": "2023-02-21 15:13:27",
-      "album": {
         "name": "L.A.B",
         "url": "https://open.spotify.com/album/0bAw54Ih5LQ7SmC7uJ0IUv"
       },
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-02-21 15:13:27",
       "album": {
-        "name": "Run Home Slow",
-        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 249693,
-      "name": "Man of the Universe",
-      "url": "https://open.spotify.com/track/5LOqxE3oEe3tPTbIs6ytWM"
-    },
-    {
-      "added_at": "2023-02-21 15:13:27",
-      "album": {
         "name": "Rahsaan Patterson",
         "url": "https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 354093,
       "name": "Stop By",
       "url": "https://open.spotify.com/track/0Flm1lDGamEbFYLt674t3T"
+    },
+    {
+      "added_at": "2023-02-21 15:13:27",
+      "album": {
+        "name": "Run Home Slow",
+        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 249693,
+      "name": "Man of the Universe",
+      "url": "https://open.spotify.com/track/5LOqxE3oEe3tPTbIs6ytWM"
     },
     {
       "added_at": "2023-02-21 15:13:27",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-02-21 15:13:27",
       "album": {
+        "name": "Honest Man",
+        "url": "https://open.spotify.com/album/2DFtAZAQAHY7GGDPgljPC2"
+      },
+      "artists": [
+        {
+          "name": "Fat Night",
+          "url": "https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi"
+        }
+      ],
+      "duration_ms": 325145,
+      "name": "Honest Man",
+      "url": "https://open.spotify.com/track/5xdEYxSLIF1b7WC9NAHdcX"
+    },
+    {
+      "added_at": "2023-02-21 15:13:27",
+      "album": {
         "name": "Take You There",
         "url": "https://open.spotify.com/album/6JFYDZX9PRfYrvQBrljBhR"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 293400,
       "name": "Spend The Night",
       "url": "https://open.spotify.com/track/14VwBAL1qSlG4ovOSYUQF4"
-    },
-    {
-      "added_at": "2023-02-21 15:13:27",
-      "album": {
-        "name": "Honest Man",
-        "url": "https://open.spotify.com/album/2DFtAZAQAHY7GGDPgljPC2"
-      },
-      "artists": [
-        {
-          "name": "Fat Night",
-          "url": "https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi"
-        }
-      ],
-      "duration_ms": 325145,
-      "name": "Honest Man",
-      "url": "https://open.spotify.com/track/5xdEYxSLIF1b7WC9NAHdcX"
     },
     {
       "added_at": "2023-02-21 15:13:27",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-02-21 15:13:27",
       "album": {
-        "name": "The Woman I Am",
-        "url": "https://open.spotify.com/album/0xUs1n2GTs34q1JeFfZsDz"
-      },
-      "artists": [
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        }
-      ],
-      "duration_ms": 284840,
-      "name": "Love You All My Lifetime",
-      "url": "https://open.spotify.com/track/2yTswsiLkNGzzzX54WroNS"
-    },
-    {
-      "added_at": "2023-02-21 15:13:27",
-      "album": {
         "name": "Powerhouse",
         "url": "https://open.spotify.com/album/7jge7It8TJ7XVSjcKFRFfE"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 453533,
       "name": "I Found Love (On A Lonely Highway)",
       "url": "https://open.spotify.com/track/0k7kfdefyPCDVHtHzgaq6t"
+    },
+    {
+      "added_at": "2023-02-21 15:13:27",
+      "album": {
+        "name": "The Woman I Am",
+        "url": "https://open.spotify.com/album/0xUs1n2GTs34q1JeFfZsDz"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "duration_ms": 284840,
+      "name": "Love You All My Lifetime",
+      "url": "https://open.spotify.com/track/2yTswsiLkNGzzzX54WroNS"
     },
     {
       "added_at": "2023-02-21 15:13:27",

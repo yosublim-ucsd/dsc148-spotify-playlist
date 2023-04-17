@@ -4,7 +4,7 @@
 
 > it's a generation ⛓ ft\. waterparks
 
-519 songs - 1 day 1 hr 57 min
+520 songs - 1 day 2 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,7 +361,8 @@
 | [Propaganda](https://open.spotify.com/track/7ySX1sgdBBCzw7WacxCYiS) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [Propaganda](https://open.spotify.com/album/4DypGkmzZGw3chFK6Zh3Pr) | 2:26 | 2022-09-29 | 2022-11-18 |
 | [Punk](https://open.spotify.com/track/0tWjWVYAUOIDUEOhW8xTS1) | [Jalle](https://open.spotify.com/artist/3NiL0OfaA5v0eK59rJgAvB) | [I’m Sorry](https://open.spotify.com/album/1qm7E3fh18mC8VyagVrdVS) | 2:17 | 2022-01-07 | 2022-02-18 |
 | [R.I.P](https://open.spotify.com/track/37PZSNSxLG6iuJAlUo8Wqv) | [Dallas](https://open.spotify.com/artist/4G7Ft324bPwyWC2v35sns8) | [R.I.P](https://open.spotify.com/album/2PkakWXe2YnTBVv0QsRyNc) | 3:05 | 2022-03-25 | 2022-04-29 |
-| [REAL SUPER DARK](https://open.spotify.com/track/6nXtGWUzOGxfI7q5hUa6Jj) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/7exaI7MyauQNCOqbyqU27C) | 2:29 | 2023-01-27 |  |
+| [REAL SUPER DARK](https://open.spotify.com/track/2YGfjeZvYJyy1BQrbsLmGr) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:29 | 2023-04-13 |  |
+| [REAL SUPER DARK](https://open.spotify.com/track/6nXtGWUzOGxfI7q5hUa6Jj) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/7exaI7MyauQNCOqbyqU27C) | 2:29 | 2023-01-27 | 2023-04-17 |
 | [REAL SUPER DARK](https://open.spotify.com/track/7uuHc1gwZCKG9CGJopnSF3) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/1TyNSqm2av7ed9Z6BgHhFT) | 2:29 | 2023-01-27 | 2023-01-30 |
 | [Reasons To Live](https://open.spotify.com/track/3aBrBN6oAOGTLAS8taoNu8) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Reasons To Live](https://open.spotify.com/album/43qFxImtoXuGobNLMKOrbi) | 2:47 | 2022-06-09 | 2022-08-12 |
 | [Running Out Of Time](https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:12 | 2023-02-10 |  |

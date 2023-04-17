@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47ov4h4oSjW.md) - [plain]
 
 > Music to help you concentrate during your homework.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,209 likes - 100 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,196 likes - 100 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47ov4h4oSjW.md) - [plain]
 | 33 | [Ambre](https://open.spotify.com/track/25zykbJGBYXYjnq5VyhO3N) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Wintermusik](https://open.spotify.com/album/7wkQV8xvauPFBG2xC3pawK) | 3:47 |
 | 34 | [Seascape](https://open.spotify.com/track/55CV2zAzc0R9M31IRTm2vA) | [Joni Bernier](https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J) | [Seascape](https://open.spotify.com/album/1dnQVRgmoyYxwxRWPf9aBY) | 2:05 |
 | 35 | [Small Memory](https://open.spotify.com/track/78kPi2sLwSmILgJXz7wQxg) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Insides](https://open.spotify.com/album/124tr6mYSuv4yCQUKfyKTF) | 1:40 |
-| 36 | [Snow Kiss](https://open.spotify.com/track/2WCeRZDVyagKARVqAxr7QW) | [Freya Rääf](https://open.spotify.com/artist/160moq3FVNizaDKVSK4Pmj) | [Snow Kiss](https://open.spotify.com/album/0z2kjuU6HASKwJoOMCYw1T) | 1:56 |
-| 37 | [Home full of solipsism](https://open.spotify.com/track/0i5RkqFU2XfihIcxTxG3h1) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Home full of solipsism](https://open.spotify.com/album/6lO17gFILD6VAk71WT29dA) | 2:57 |
+| 36 | [Home full of solipsism](https://open.spotify.com/track/0i5RkqFU2XfihIcxTxG3h1) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Home full of solipsism](https://open.spotify.com/album/6lO17gFILD6VAk71WT29dA) | 2:57 |
+| 37 | [Snow Kiss](https://open.spotify.com/track/2WCeRZDVyagKARVqAxr7QW) | [Freya Rääf](https://open.spotify.com/artist/160moq3FVNizaDKVSK4Pmj) | [Snow Kiss](https://open.spotify.com/album/0z2kjuU6HASKwJoOMCYw1T) | 1:56 |
 | 38 | [Nos](https://open.spotify.com/track/5QIm5UVUJhPrpXwfFXAgKI) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [The Wind](https://open.spotify.com/album/4Ud5YQc9KHMuj0TQQfvnnj) | 1:21 |
 | 39 | [Soffia la notte](https://open.spotify.com/track/3BfKUxdpnG24qXFYX2e5XU) | [Fabrizio Paterlini](https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi) | [Viaggi in aeromobile](https://open.spotify.com/album/7gPDBvn3SRgtSmVFjqe6xI) | 3:24 |
 | 40 | [Remembrance](https://open.spotify.com/track/43z2LSP0180NFwr720P3xk) | [Elfrieda](https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t) | [Remembrance](https://open.spotify.com/album/7J0DCHHTGozed1GpKmge8J) | 2:26 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47ov4h4oSjW.md) - [plain]
 | 45 | [Time is the Longest Distance](https://open.spotify.com/track/1vViUoB7DpXUX10isPj7YL) | [Danielle Fleur](https://open.spotify.com/artist/4SlWk9stVDNIL6l4BK2MlI) | [Time is the Longest Distance](https://open.spotify.com/album/7c9zTWwG3gmkYRqWomwQ6Q) | 2:04 |
 | 46 | [Reverence](https://open.spotify.com/track/058YoEqihKwmd8ipTOEWse) | [Andrea Monet](https://open.spotify.com/artist/44OGVPM58fHybAAajAAHxk) | [Reverence](https://open.spotify.com/album/6qC9QuQTLqaRGlOv9DDNEI) | 2:18 |
 | 47 | [Un Lent Mouvement](https://open.spotify.com/track/05csUH7EHgeXK7Yky1nQFe) | [Moleno](https://open.spotify.com/artist/2uei4xlyU9Zv1sCLQvDmOt) | [Un Lent Mouvement](https://open.spotify.com/album/0y05yWTeZaHDO9hVZ3PLyb) | 2:41 |
-| 48 | [Eyes Closed And Traveling](https://open.spotify.com/track/6zYHwIlDPraiG9UTg4y0oe) | [Peter Broderick](https://open.spotify.com/artist/3haVJx9TUcufYl1rPyH0iv) | [Eyes Closed And Traveling](https://open.spotify.com/album/5Lc2PFEqSXXRAL3swmftRb) | 3:39 |
-| 49 | [Donde Nadas](https://open.spotify.com/track/0SpK2s8gJnetHIuzSBqgta) | [Lupe Sinsonte](https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE) | [Donde Nadas](https://open.spotify.com/album/6Yg0OOMxh7bywdOeUVzwXK) | 2:21 |
+| 48 | [Donde Nadas](https://open.spotify.com/track/0SpK2s8gJnetHIuzSBqgta) | [Lupe Sinsonte](https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE) | [Donde Nadas](https://open.spotify.com/album/6Yg0OOMxh7bywdOeUVzwXK) | 2:21 |
+| 49 | [Eyes Closed And Traveling](https://open.spotify.com/track/6zYHwIlDPraiG9UTg4y0oe) | [Peter Broderick](https://open.spotify.com/artist/3haVJx9TUcufYl1rPyH0iv) | [Eyes Closed And Traveling](https://open.spotify.com/album/5Lc2PFEqSXXRAL3swmftRb) | 3:39 |
 | 50 | [Light through a Willow's Leaves](https://open.spotify.com/track/1L5ABoW0UZyVWk7ZbXDokA) | [Qunfan Wen](https://open.spotify.com/artist/2qhWWY7F1cPThO3UfSJVcm) | [Light through a Willow's Leaves](https://open.spotify.com/album/4ERDVnEd0b6ul3FjS1FNB4) | 1:52 |
 | 51 | [Nocturnal Waltz](https://open.spotify.com/track/1cyZIM22N8kmBqdATPBmI7) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [Nocturnal Waltz](https://open.spotify.com/album/4WNTnQdoFo9GexkdBnAJus) | 2:08 |
 | 52 | [Coelicolor](https://open.spotify.com/track/59uTTjYZrhemOxdwht85fA) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Coelicolor](https://open.spotify.com/album/2u28DhrSjoAAtn6sVudqYI) | 2:42 |
@@ -83,9 +83,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47ov4h4oSjW.md) - [plain]
 | 73 | [Visionaire](https://open.spotify.com/track/3XmRYyDspHCnlXkvHAYVLL) | [Anna Goya](https://open.spotify.com/artist/3T6VP5tdYDJR2H9sc62fMW) | [Visionaire](https://open.spotify.com/album/3kAsZxO4D7aYpaJbcGyfQa) | 1:43 |
 | 74 | [Slowdance](https://open.spotify.com/track/1Qeltj3aBElDiFuaBtav77) | [Luca Mazzillo](https://open.spotify.com/artist/2nS5SNSV4Cc7Es2WsCElmm), [Jacopo Croci](https://open.spotify.com/artist/1bSkNeskReaGAMmsHDfp4G) | [Slowdance](https://open.spotify.com/album/72A4G4HmEmKGjet1K8slI8) | 2:02 |
 | 75 | [Lizards play](https://open.spotify.com/track/251Nfh1hvBFIUvZHt562NS) | [Emil Negri](https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6) | [Lizards play](https://open.spotify.com/album/5lPrbJLWMohcRtbX1SDn5p) | 2:26 |
-| 76 | [Paragon](https://open.spotify.com/track/7r2oQgswotJG7uxMvvomc6) | [Anton Lebedev](https://open.spotify.com/artist/1QCX4RcJeAWUjciKRD7bug) | [Paragon](https://open.spotify.com/album/2UizTfQJHP9iS8GTCrlgHe) | 2:40 |
+| 76 | [Always](https://open.spotify.com/track/4cmE5SPvjKEzIHzhrLq9jO) | [Olivier DeGrasse](https://open.spotify.com/artist/13mckNVoWSaXe2LubZG4Sb) | [Always](https://open.spotify.com/album/53GIKoxcqDkU8yZgA3o9FO) | 3:17 |
 | 77 | [Hideaway](https://open.spotify.com/track/3y4t41pbQBDpmD60HdCMRN) | [Dunham Froebel](https://open.spotify.com/artist/0MvupKzpYkQtaadEOoPsHT) | [Hideaway](https://open.spotify.com/album/2Ng37Ew03H9E7Q01Oao765) | 2:39 |
-| 78 | [Always](https://open.spotify.com/track/4cmE5SPvjKEzIHzhrLq9jO) | [Olivier DeGrasse](https://open.spotify.com/artist/13mckNVoWSaXe2LubZG4Sb) | [Always](https://open.spotify.com/album/53GIKoxcqDkU8yZgA3o9FO) | 3:17 |
+| 78 | [Paragon](https://open.spotify.com/track/7r2oQgswotJG7uxMvvomc6) | [Anton Lebedev](https://open.spotify.com/artist/1QCX4RcJeAWUjciKRD7bug) | [Paragon](https://open.spotify.com/album/2UizTfQJHP9iS8GTCrlgHe) | 2:40 |
 | 79 | [Tuesday Rain](https://open.spotify.com/track/1UQ81ra1A4myZmEoihQnPJ) | [Tjeerd Oosterhuis](https://open.spotify.com/artist/4fMW8mQKbMgeSKPmvQKbRi) | [Tuesday Rain](https://open.spotify.com/album/6fEGTTswJiXhRc7iIavTeF) | 1:48 |
 | 80 | [Compromise](https://open.spotify.com/track/7kymECxyr5OUG87vGN1vB2) | [Chris Snelling](https://open.spotify.com/artist/25ZHGX152rBqWlYA9C2iVp) | [Compromise](https://open.spotify.com/album/7r0yb6MxfuZ463XY9Qrvvo) | 2:31 |
 | 81 | [Trail of Light](https://open.spotify.com/track/02aWFfloZhQ0QXTRpG1D3n) | [Albie Monroy](https://open.spotify.com/artist/1v2h0KiWsSggTVVfv9QjhT) | [The Ember](https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE) | 3:18 |
@@ -95,10 +95,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47ov4h4oSjW.md) - [plain]
 | 85 | [Unyielding Faith](https://open.spotify.com/track/4sOJSA5LPjdT1gfrcQL3sQ) | [Leisel Walker](https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou) | [Unyielding Faith](https://open.spotify.com/album/29ZDRjpFRwS7waC0djMgPp) | 2:38 |
 | 86 | [Upraise](https://open.spotify.com/track/0TbUBfDnRESf3Z41MajK2D) | [Eleanor Neylan](https://open.spotify.com/artist/19XUo1Fg2WQ0oO3z0fP1uE) | [Upraise](https://open.spotify.com/album/7CtSyctCEaXNdTv4ZxTGnz) | 2:27 |
 | 87 | [The Winding Paths](https://open.spotify.com/track/5VceRZmSDeW6y7ipxiwOvK) | [Regina Mira](https://open.spotify.com/artist/5TxyXnLkmonAVNpdgJ7z4C) | [October](https://open.spotify.com/album/3csL43PsskrOpVuXSRTw91) | 1:59 |
-| 88 | [Avenues](https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4) | [Seth Fernsby](https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX) | [Avenues](https://open.spotify.com/album/0rvrpin8MFriRR4dIIneA1) | 2:19 |
-| 89 | [Eden](https://open.spotify.com/track/4jG0jO5ggIh1KLT1GKJeYo) | [Mary Steinbrecher](https://open.spotify.com/artist/2SKFOdoUtDTKWiIPfyerTa) | [Eden](https://open.spotify.com/album/0qlURxpEPDS25Wg74IAoeC) | 2:27 |
-| 90 | [Azure \- Piano Version](https://open.spotify.com/track/5b3i1A9Frf3c0UFffMtoXA) | [Aukai](https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny), [Büşra Kayıkçı](https://open.spotify.com/artist/0iOvtl1pydfRgGpJWOOP8E) | [Azure \(Piano Version\)](https://open.spotify.com/album/4lT2JzD3ZAEfjRx5crCbA5) | 3:42 |
-| 91 | [Nocturnes, Op\. 27: No\. 2 in D\-Flat Major](https://open.spotify.com/track/1nGDsTkP1npeWj4hJ9s9pw) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Arthur Rubinstein](https://open.spotify.com/artist/5N1GUHhFMRFFgMTjSOJDb9) | [50 Masterworks \- Arthur Rubinstein](https://open.spotify.com/album/49fd44zRwokYUaIBJRohZE) | 6:16 |
+| 88 | [Eden](https://open.spotify.com/track/4jG0jO5ggIh1KLT1GKJeYo) | [Mary Steinbrecher](https://open.spotify.com/artist/2SKFOdoUtDTKWiIPfyerTa) | [Eden](https://open.spotify.com/album/0qlURxpEPDS25Wg74IAoeC) | 2:27 |
+| 89 | [Avenues](https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4) | [Seth Fernsby](https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX) | [Avenues](https://open.spotify.com/album/0rvrpin8MFriRR4dIIneA1) | 2:19 |
+| 90 | [Nocturnes, Op\. 27: No\. 2 in D\-Flat Major](https://open.spotify.com/track/1nGDsTkP1npeWj4hJ9s9pw) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Arthur Rubinstein](https://open.spotify.com/artist/5N1GUHhFMRFFgMTjSOJDb9) | [50 Masterworks \- Arthur Rubinstein](https://open.spotify.com/album/49fd44zRwokYUaIBJRohZE) | 6:16 |
+| 91 | [Azure \- Piano Version](https://open.spotify.com/track/5b3i1A9Frf3c0UFffMtoXA) | [Aukai](https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny), [Büşra Kayıkçı](https://open.spotify.com/artist/0iOvtl1pydfRgGpJWOOP8E) | [Azure \(Piano Version\)](https://open.spotify.com/album/4lT2JzD3ZAEfjRx5crCbA5) | 3:42 |
 | 92 | [Mantra for Piano](https://open.spotify.com/track/2FifEFnO1xZHMsG8O6Ir6p) | [Carl Bonet](https://open.spotify.com/artist/3NvG2KsrNSJqeGRryYyl8x) | [Center of Gravity](https://open.spotify.com/album/53A24jAS0pIuBHGINApD71) | 3:18 |
 | 93 | [Next](https://open.spotify.com/track/3pnaiuAfeBJkcwYaEXkGGx) | [Emily Rubye](https://open.spotify.com/artist/1ra1CeoAhMOYZunkNRDvwp) | [Finding Rain](https://open.spotify.com/album/1ESiDXqip3u0Kfvc0ZXXFq) | 2:14 |
 | 94 | [Midnight Musette](https://open.spotify.com/track/1wC7zd8ZiRgiRaIT2THV8c) | [De Maynes](https://open.spotify.com/artist/46rRHXeWejBCxgPv6Sdjcn) | [Midnight Musette](https://open.spotify.com/album/1t0632m5eesD6Fbanaqfnb) | 3:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47ov4h4oSjW.md) - [plain]
 | 99 | [Beyond This Moment](https://open.spotify.com/track/54QFGiOthVqXeJtiXdlLYa) | [Patrick O'Hearn](https://open.spotify.com/artist/6T7JFvP8qvpOia4q43OmbJ) | [So Flows The Current](https://open.spotify.com/album/2G7NJdUQxp6vAO0arTebvj) | 4:49 |
 | 100 | [Carousel \#3](https://open.spotify.com/track/5a3frR7WKCWyLROlGbDg46) | [Federico Albanese](https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL) | [The Houseboat and the Moon](https://open.spotify.com/album/5w0YGqmvczvncmbxKhjqFK) | 4:23 |
 
-Snapshot ID: `MTY3ODYxNjMxOCwwMDAwMDAwMGJmYTQ1ZTViMzljMTIzNWU2MjY0YTk0MTY2NGE1Njgz`
+Snapshot ID: `MTY3ODYxNjMxOCwwMDAwMDAwMGQxZTRkZGU3ZGNjNGY4NzA3YmM1MzhmN2NlM2M1NjBm`

@@ -444,7 +444,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 183366,
       "name": "Hanuman Theme",
       "url": "https://open.spotify.com/track/6J4UQsBAj04eKLRdR480bZ"
@@ -828,6 +828,36 @@
       "duration_ms": 56905,
       "name": "Om Shanti Om (Instrumental)",
       "url": "https://open.spotify.com/track/4kqUlN3craCx3ZIBIfhp2X"
+    },
+    {
+      "album": {
+        "name": "Pathaan x Tiger Theme",
+        "url": "https://open.spotify.com/album/464iqgO24r33iqRwYgMRj6"
+      },
+      "artists": [
+        {
+          "name": "Sanchit Balhara",
+          "url": "https://open.spotify.com/artist/0LOdQDBSB8NYPykI3REezj"
+        },
+        {
+          "name": "Ankit Balhara",
+          "url": "https://open.spotify.com/artist/2FtpR8FWlo2HsessGvWxRg"
+        },
+        {
+          "name": "Julius Packiam",
+          "url": "https://open.spotify.com/artist/37dW5exIcXrrHEMmiItJas"
+        },
+        {
+          "name": "Riya Duggal",
+          "url": "https://open.spotify.com/artist/5goNlHuuRk93uDY86KcLET"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155417,
+      "name": "Pathaan x Tiger Theme",
+      "url": "https://open.spotify.com/track/4z1jSTY07dyKEdAJEulD8D"
     },
     {
       "album": {

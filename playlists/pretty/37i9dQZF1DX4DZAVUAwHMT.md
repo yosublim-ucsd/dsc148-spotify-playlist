@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: Another Sky
 
-[Spotify](https://open.spotify.com/user/spotify) - 587,283 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 587,266 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 7 | [The Summoning](https://open.spotify.com/track/1yCE0X5qLWOrLkR8NC0ZUJ) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [The Summoning](https://open.spotify.com/album/42fcciBOkkvnEu8dN7mByX) | 6:35 |
 | 8 | [Drones](https://open.spotify.com/track/5QNWATWEQiM9S7rsFUu0Ns) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Drones](https://open.spotify.com/album/2ZfElZEiFCJhbXZa1iVEGb) | 2:29 |
 | 9 | [GOSSIP \(feat\. Tom Morello\)](https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [GOSSIP \(feat\. Tom Morello\)](https://open.spotify.com/album/6kHJE5xnpA6zncKOD70bS8) | 2:48 |
-| 10 | [72 Seasons](https://open.spotify.com/track/6txhb14PWs9yrkTgR2jnU4) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/5vFa10TvQUWpEv9OkVBatc) | 7:39 |
+| 10 | [72 Seasons](https://open.spotify.com/track/4poeu6nUr4UQo1RXpp29Js) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 7:39 |
 | 11 | [It Hurts](https://open.spotify.com/track/4pQmwpx6EUeoBJRMUKooMs) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [It Hurts](https://open.spotify.com/album/0UztMLoY6Ebqv9rCmZwghR) | 3:18 |
 | 12 | [War](https://open.spotify.com/track/1ED1SD4TRK5NprtJ837Eaa) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 2:54 |
 | 13 | [A Crooked Melody](https://open.spotify.com/track/57bIv3ROVypmo9bzJzUShI) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [A Crooked Melody](https://open.spotify.com/album/4fIZzk4JQ6g5xFlOdz1rGE) | 3:55 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 16 | [Heaven Without You](https://open.spotify.com/track/4NardHbUoTLDH54bOBJ9T8) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Heaven Without You](https://open.spotify.com/album/21vS3D6XnWr0L0QZwiJFI6) | 2:55 |
 | 17 | [Do Or Die](https://open.spotify.com/track/49iTK9So8pHaCmVT9Pf1Q3) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN) | [Do Or Die](https://open.spotify.com/album/4IDkIjuZLrkW8XFrcjQmw9) | 2:50 |
 | 18 | [I Wish A Bitch Would](https://open.spotify.com/track/0gQYl1JVAzYrl2BDPStaIW) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [I Wish A Bitch Would](https://open.spotify.com/album/4m3NfqJmtGrRBi2wR7o2ZR) | 3:26 |
-| 19 | [REAL SUPER DARK](https://open.spotify.com/track/6nXtGWUzOGxfI7q5hUa6Jj) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/7exaI7MyauQNCOqbyqU27C) | 2:29 |
+| 19 | [REAL SUPER DARK](https://open.spotify.com/track/2YGfjeZvYJyy1BQrbsLmGr) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:29 |
 | 20 | [In My Head](https://open.spotify.com/track/3ryXl6OFAr9fzUpIjAnHIY) | [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD), [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [In My Head](https://open.spotify.com/album/0fAeiVQKeMPvewBk7UXsSm) | 2:52 |
 | 21 | [Run Baby Run](https://open.spotify.com/track/7g4Pmzoqr1dYbdZj25mHz7) | [Demob Happy](https://open.spotify.com/artist/6FKokxvL5PCWIxrVhMyDgI) | [Run Baby Run](https://open.spotify.com/album/6qA77EG6bTeqbcGdQgq8V0) | 3:49 |
 | 22 | [everybody hates me](https://open.spotify.com/track/4vSgdsddL3qTemKDkscyjd) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [everybody hates me](https://open.spotify.com/album/4IkWZIcTHndXokjUNG3B6q) | 2:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 49 | [Houses of American Style](https://open.spotify.com/track/5Kky5Fr02ofJwTnQCgzBFl) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Houses of American Style](https://open.spotify.com/album/4fVSfJltN2th0XhpMcgx0O) | 4:04 |
 | 50 | [Chain Reactions](https://open.spotify.com/track/4UejYXB2uDM2Aw6bZUG6IM) | [Dream State](https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw) | [Untethered](https://open.spotify.com/album/5w7LosrCdnBUoQJnCavlY3) | 3:51 |
 
-Snapshot ID: `MTY4MTQyNjgwMCwwMDAwMDAwMGUxMWQ1NjhlY2EwZjY4MTExYWY2MWYxODNkYTg2ZWIw`
+Snapshot ID: `MTY4MTQyNjgwMCwwMDAwMDAwMGE3NDA1MTI3MzNiYzkxNjk0ODMyZDg4YWQyMGZlN2U2`

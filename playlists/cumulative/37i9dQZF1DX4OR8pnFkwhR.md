@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: ねぐせ
 
-790 songs - 2 day 0 hr 44 min
+791 songs - 2 day 0 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Blank](https://open.spotify.com/track/4b0RQRCxvOa7qifoVPZ7NM) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS), [mao sasagawa](https://open.spotify.com/artist/4ZqPdBTOiHdOUnv40Wqpy8) | [Blank](https://open.spotify.com/album/5KKgfaPcmsuYRSbS1YmuvM) | 3:30 | 2022-08-09 | 2022-09-21 |
 | [bloom](https://open.spotify.com/track/4OjPtEtDQ5xqE7m8WuUley) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [bloom](https://open.spotify.com/album/551wBdThRnp6v8uT8AlQug) | 3:52 | 2022-02-22 | 2022-04-21 |
 | [Bloom Town Disco](https://open.spotify.com/track/4KAFgQqkNSPdDAyeMLvUE7) | [BLACK BERRY TIMES](https://open.spotify.com/artist/4J8XXHJfFASivijCfQwIj7) | [Bloom Town Disco](https://open.spotify.com/album/4U25KH02PxTYHtRSsIVp2G) | 3:34 | 2023-03-14 |  |
+| [Blue light](https://open.spotify.com/track/4maIfu6RioRLlTBOeTnP5g) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [Blue light](https://open.spotify.com/album/7CgmEdA9U6sm9bneO5gc6M) | 3:55 | 2023-04-16 |  |
 | [Boi](https://open.spotify.com/track/10R7Djb6myvWfSGEsERTOI) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [Boi](https://open.spotify.com/album/5Xsomj7rG5iSv8Qk3qK6KR) | 2:55 | 2022-10-04 | 2022-10-12 |
 | [Bomboclap](https://open.spotify.com/track/1CHN5TeKq86MnDC6VUrzLh) | [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v) | [Bomboclap](https://open.spotify.com/album/4VWKGhXXgH0Ww68yk7LTwn) | 5:41 | 2022-05-17 | 2022-06-01 |
 | [Bonnie & Clyde](https://open.spotify.com/track/6SJ6ILaHlY46nhHNigSCtP) | [Young Dalu](https://open.spotify.com/artist/0hdHoi970cAuqTINgtnLrm), [OSAMI](https://open.spotify.com/artist/5wKEj2ICoq0Va6spZNvfTr), [Wes Period](https://open.spotify.com/artist/0Pb8ZfFfE2O0pvsFdwVUYl) | [Bonnie & Clyde](https://open.spotify.com/album/6MSlBb3UVoJlgp5Dtkvpch) | 2:59 | 2022-03-29 | 2022-05-25 |
@@ -250,7 +251,7 @@
 | [Loova](https://open.spotify.com/track/6CjOWkHBN8ZDUNcDrR1XGz) | [aint lindy](https://open.spotify.com/artist/1fQGGKBMELqEeoBsoywDrC) | [Loova](https://open.spotify.com/album/49AVdl1YAYHYkZBqEsJLmG) | 3:31 | 2022-08-23 | 2022-10-19 |
 | [LOSER](https://open.spotify.com/track/4yKWOc2ZxCLm4CnhxwlzVt) | [Apes](https://open.spotify.com/artist/0kbl25Zya0X7bHFgPLcXQ4) | [LOSER](https://open.spotify.com/album/0L8xmVOSdDajUjsTjAAawb) | 4:45 | 2022-02-17 | 2022-03-23 |
 | [Love \(feat\. Skaai\)](https://open.spotify.com/track/33WmukupZpPsnobClDyZzs) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Love \(feat\. Skaai\)](https://open.spotify.com/album/3CTierTEtJQyHX3s6XlEUd) | 4:18 | 2023-02-01 |  |
-| [Love and distance](https://open.spotify.com/track/0wMOsutc9gJc24auYtUxJI) | [THE KING OF ROOKIE](https://open.spotify.com/artist/3ltjzVXtMNjDaf6BIyKMPX) | [Mixed juice rocket](https://open.spotify.com/album/4qbMk89DBqtQAbGOduuBjK) | 4:41 | 2023-04-04 |  |
+| [Love and distance](https://open.spotify.com/track/0wMOsutc9gJc24auYtUxJI) | [THE KING OF ROOKIE](https://open.spotify.com/artist/3ltjzVXtMNjDaf6BIyKMPX) | [Mixed juice rocket](https://open.spotify.com/album/4qbMk89DBqtQAbGOduuBjK) | 4:41 | 2023-04-04 | 2023-04-17 |
 | [Love is always](https://open.spotify.com/track/5mWFPBsJLGSt9LJjULiqKE) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [Love is always](https://open.spotify.com/album/4txs319mQ4SGQMJo4DujYt) | 4:39 | 2022-10-25 | 2022-12-28 |
 | [Love Letter](https://open.spotify.com/track/0p771me5mgbzHgZekj3iXD) | [中島雄士](https://open.spotify.com/artist/2FRIJWTtnozd9tZ0jH8CmN) | [Junction Pop](https://open.spotify.com/album/6Fm1I5GiQwoxjYTXPZS4f9) | 3:44 | 2023-03-22 |  |
 | [Love Like A Bomb \(feat\. ひかり\)](https://open.spotify.com/track/3B7jBMQUFsIMhrMDOtB39p) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [透明なガール](https://open.spotify.com/album/41dcBEgqNyYH3ifvH2al28) | 3:27 | 2022-10-04 | 2022-11-09 |

@@ -1,12 +1,12 @@
 {
   "description": "The most unforgettable love songs from the 70s.",
-  "num_followers": 1271851,
+  "num_followers": 1272381,
   "original_name": "70s Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTg4NTYxNSwwMDAwMDAwMDJhMTBjOThiZTY3MjBhZTllYmIxYjNlOWUzNDAwOGU0",
+  "snapshot_id": "MTY3OTg4NTYxNSwwMDAwMDAwMDhkYzUwYTVmNWQ3NDBlZjZmMDdkZjNlYzBiMzFiYzcz",
   "tracks": [
     {
       "added_at": "2023-03-27 02:53:35",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-03-27 02:53:35",
       "album": {
-        "name": "Nilsson Schmilsson",
-        "url": "https://open.spotify.com/album/3EfpOFKjotrMQTFTnxrXaB"
-      },
-      "artists": [
-        {
-          "name": "Harry Nilsson",
-          "url": "https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/6MrILERJLA3Jcq0E9poZsp"
-    },
-    {
-      "added_at": "2023-03-27 02:53:35",
-      "album": {
         "name": "Sleeper Catcher (Remastered 2022)",
         "url": "https://open.spotify.com/album/5XXymqS9NunPlUbovZK8WJ"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 257868,
       "name": "Reminiscing - Remastered 2022",
       "url": "https://open.spotify.com/track/7i3xpu7SFWvzhGa9AZyySR"
+    },
+    {
+      "added_at": "2023-03-27 02:53:35",
+      "album": {
+        "name": "Nilsson Schmilsson",
+        "url": "https://open.spotify.com/album/3EfpOFKjotrMQTFTnxrXaB"
+      },
+      "artists": [
+        {
+          "name": "Harry Nilsson",
+          "url": "https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/6MrILERJLA3Jcq0E9poZsp"
     },
     {
       "added_at": "2023-03-27 02:53:35",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-03-27 02:53:35",
       "album": {
-        "name": "Make Your Move",
-        "url": "https://open.spotify.com/album/6J8P3xCsQr5BPoEoukStSk"
-      },
-      "artists": [
-        {
-          "name": "Captain & Tennille",
-          "url": "https://open.spotify.com/artist/7BEfMxbaqx6dOpbtlEqScm"
-        }
-      ],
-      "duration_ms": 256666,
-      "name": "Do That To Me One More Time",
-      "url": "https://open.spotify.com/track/0m4jVVZrsv0bLkAr1uM6UG"
-    },
-    {
-      "added_at": "2023-03-27 02:53:35",
-      "album": {
         "name": "Hollies",
         "url": "https://open.spotify.com/album/17gEubRfhqZEFoYEnHVV5H"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 257106,
       "name": "The Air That I Breathe - 2008 Remaster",
       "url": "https://open.spotify.com/track/6yLIqXX9edg1x0HZS7cZEv"
+    },
+    {
+      "added_at": "2023-03-27 02:53:35",
+      "album": {
+        "name": "Make Your Move",
+        "url": "https://open.spotify.com/album/6J8P3xCsQr5BPoEoukStSk"
+      },
+      "artists": [
+        {
+          "name": "Captain & Tennille",
+          "url": "https://open.spotify.com/artist/7BEfMxbaqx6dOpbtlEqScm"
+        }
+      ],
+      "duration_ms": 256666,
+      "name": "Do That To Me One More Time",
+      "url": "https://open.spotify.com/track/0m4jVVZrsv0bLkAr1uM6UG"
     },
     {
       "added_at": "2023-03-27 02:53:35",

@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. 国内ロックシーンで活躍する女性アーティストたちを特集。Cover: アイナ・ジ・エンド \(AiNA THE END\)
 
-888 songs - 2 day 8 hr 26 min
+889 songs - 2 day 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [It's not too late](https://open.spotify.com/track/6msygryLZFEN7Fw7laGcAA) | [LOVE PSYCHEDELICO](https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp) | [It's not too late](https://open.spotify.com/album/03Dx5bwpehJewD0236CHfe) | 4:33 | 2022-07-19 | 2022-08-17 |
 | [It’s ME](https://open.spotify.com/track/62zWJ7aba8R1ZdjnAj48cv) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Chilli Beans.](https://open.spotify.com/album/4eAn8XoBrzPRhzNGTctv4O) | 2:41 | 2022-07-12 | 2022-09-15 |
 | [I’m In A Groovie](https://open.spotify.com/track/61fr0A4gRpafYYdWMdtBwJ) | [MONJOE](https://open.spotify.com/artist/5f9YLfnNCxH8NRdLHVh83P), [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [I’m In A Groovie](https://open.spotify.com/album/4Bz5U8M4Aj0hkUwbQbB2Rg) | 4:13 | 2022-05-26 | 2022-06-30 |
+| [JANAINDAYO](https://open.spotify.com/track/2VkHraJTHR6Uk29LTJ2DoQ) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ICHIJIKIKOKU](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) | 2:59 | 2023-04-13 |  |
 | [JANAINDAYO](https://open.spotify.com/track/2Ee7RTET4ZrfKJl6gXZTup) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [JANAINDAYO](https://open.spotify.com/album/7zLiRSoGuRjO4d5Ebmkqy0) | 3:00 | 2023-03-21 | 2023-04-16 |
 | [joke](https://open.spotify.com/track/21WdQDRDK2S2IwiAjNwub9) | [YMB](https://open.spotify.com/artist/4sRqEn62eCbn4ltnSZMNN5) | [joke](https://open.spotify.com/album/0H9WMlnLhHHh4UWnAysQuD) | 3:59 | 2022-06-21 | 2022-06-24 |
 | [Jun Bride](https://open.spotify.com/track/2ZkIaIzNRR6P29fFBMwyYY) | [MOSHIMO](https://open.spotify.com/artist/2wfyx0p7LKFYZh2SaM9pXy) | [Jun Bride](https://open.spotify.com/album/61aUgqGjFt1lz6ZgNJX5u1) | 4:18 | 2022-05-31 | 2022-07-15 |
@@ -767,7 +768,7 @@
 | [星屑ドライブ](https://open.spotify.com/track/4fgzgL0aDWPZLaldU4CMOm) | [Karin.](https://open.spotify.com/artist/0PZn9J0BdIbkiYVvfzP0eg) | [星屑ドライブ \- ep](https://open.spotify.com/album/3xYJlfLMWIPVlaa4We5XkB) | 4:38 | 2022-06-07 | 2022-07-29 |
 | [映画になれない僕たちへ](https://open.spotify.com/track/6MPxDfO1tGaV2FPuaoUn7r) | [HYLUL](https://open.spotify.com/artist/6OkxL4eH0SW3pwtXWp6ikX) | [映画になれない僕たちへ](https://open.spotify.com/album/7BeL3KsX2dtrpF5z2Gj1rC) | 3:53 | 2022-06-21 | 2022-06-23 |
 | [春](https://open.spotify.com/track/1iTpNmlgZudYmuMXzecDhT) | [\(yoru to\)SAMPO](https://open.spotify.com/artist/3LAWK80zCJtDxXGBa0BB1n) | [春](https://open.spotify.com/album/3mjWj8hExllnbdvnz498qe) | 3:35 | 2023-03-30 | 2023-04-05 |
-| [春](https://open.spotify.com/track/1EKokC3pWxtL2t1Y2AEol6) | [Sundae May Club](https://open.spotify.com/artist/75EyBBrypGbb1fNT8dagLM) | [春/POOL](https://open.spotify.com/album/45e8d35oEPGtFu58TwDSTx) | 2:54 | 2022-06-07 |  |
+| [春](https://open.spotify.com/track/1EKokC3pWxtL2t1Y2AEol6) | [Sundae May Club](https://open.spotify.com/artist/75EyBBrypGbb1fNT8dagLM) | [春/POOL](https://open.spotify.com/album/45e8d35oEPGtFu58TwDSTx) | 2:54 | 2022-06-07 | 2023-04-17 |
 | [春に迷い込んで](https://open.spotify.com/track/2l3caWJIq9PLMQkNrl98ZU) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [春に迷い込んで](https://open.spotify.com/album/2n3vgzctnQifXRmJhRsCS8) | 5:10 | 2022-05-26 | 2022-07-27 |
 | [普通のロック](https://open.spotify.com/track/3YolTYm3e3Bc23wosdUs70) | [peanut butters](https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP) | [E\-Peanut](https://open.spotify.com/album/1n6UmAxDAo3JMcKhKWcDu6) | 3:20 | 2022-08-30 | 2022-09-07 |
 | [晴るる](https://open.spotify.com/track/3AfLw9w3RWycN7XOdc4LzZ) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [晴るる](https://open.spotify.com/album/1CnBYMm94KUaPy6WFfSzFj) | 4:50 | 2022-06-07 | 2022-06-09 |

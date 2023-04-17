@@ -1,12 +1,12 @@
 {
   "description": "Estas son las indomables del Regional Mexicano. Chiquis en portada.",
-  "num_followers": 85758,
+  "num_followers": 85838,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ1MjAwMCwwMDAwMDAwMDBmNDExODBiODNhMTE5YWM4ZTExNDA5OTA0YzljMmM5",
+  "snapshot_id": "MTY4MTQ1MjAwMCwwMDAwMDAwMGQzY2Y2YTc1NzUxYjAzN2ExMjBlYjNmNDRmNDNkNDI5",
   "tracks": [
     {
       "added_at": "2023-04-14 06:00:00",
@@ -831,18 +831,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Confidente",
-        "url": "https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP"
+        "name": "Pa' Los Dolidos",
+        "url": "https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi"
       },
       "artists": [
         {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+          "name": "Laraim",
+          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
+        },
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
         }
       ],
-      "duration_ms": 150654,
-      "name": "Que Poquito Me Conoces",
-      "url": "https://open.spotify.com/track/3rxafxANDFSkB2onHUBUe6"
+      "duration_ms": 161927,
+      "name": "Desaires",
+      "url": "https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -863,22 +867,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Pa' Los Dolidos",
-        "url": "https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi"
+        "name": "Confidente",
+        "url": "https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP"
       },
       "artists": [
         {
-          "name": "Laraim",
-          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
-        },
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 161927,
-      "name": "Desaires",
-      "url": "https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto"
+      "duration_ms": 150654,
+      "name": "Que Poquito Me Conoces",
+      "url": "https://open.spotify.com/track/3rxafxANDFSkB2onHUBUe6"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1527,6 +1527,26 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
+        "name": "Amiga",
+        "url": "https://open.spotify.com/album/1Zc6hqIINyRhDkyvLNV1e8"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Pati\u00f1o",
+          "url": "https://open.spotify.com/artist/0QRuYvK5g5MBK4r27OyRmh"
+        },
+        {
+          "name": "Lady Yuliana",
+          "url": "https://open.spotify.com/artist/3WLVEbpQIsYvDslZadgxO2"
+        }
+      ],
+      "duration_ms": 205840,
+      "name": "Amiga",
+      "url": "https://open.spotify.com/track/5fB1anQrnZBMnSjilCnAZ8"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
         "name": "Una Tarde De Abril",
         "url": "https://open.spotify.com/album/3lESpmcn3r1pR2prmtMrfh"
       },
@@ -1555,26 +1575,6 @@
       "duration_ms": 206000,
       "name": "Contigo Aprend\u00ed - En Vivo",
       "url": "https://open.spotify.com/track/1Oj84aMBeOnTcjKyQ4yHkA"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Amiga",
-        "url": "https://open.spotify.com/album/1Zc6hqIINyRhDkyvLNV1e8"
-      },
-      "artists": [
-        {
-          "name": "Marilyn Pati\u00f1o",
-          "url": "https://open.spotify.com/artist/0QRuYvK5g5MBK4r27OyRmh"
-        },
-        {
-          "name": "Lady Yuliana",
-          "url": "https://open.spotify.com/artist/3WLVEbpQIsYvDslZadgxO2"
-        }
-      ],
-      "duration_ms": 205840,
-      "name": "Amiga",
-      "url": "https://open.spotify.com/track/5fB1anQrnZBMnSjilCnAZ8"
     },
     {
       "added_at": "2023-04-14 06:00:00",

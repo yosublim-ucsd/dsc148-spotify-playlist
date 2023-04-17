@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 
 > Relax to the sounds of acoustic blues and folk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,190 likes - 80 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,218 likes - 80 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,19 +15,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 | 5 | [Heavy Load](https://open.spotify.com/track/4ZgLOQB66wNk4VNB9H98E2) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Heavy Load Blues](https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan) | 7:18 |
 | 6 | [All Aboard](https://open.spotify.com/track/0BjnY6fLR9XNGIMmXnYXGG) | [Piers Faccini](https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd), [Abdelkebir Merchane](https://open.spotify.com/artist/7iiuXYxFPuc2tMe000sxe4), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Shapes of the Fall](https://open.spotify.com/album/4DWP3Ck7TsDJQH8OP2uiUU) | 3:31 |
 | 7 | [Cumberland Gap](https://open.spotify.com/track/1W3WoQ2ECZzQnpOEt3XZVK) | [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7) | [Nothing We Say \- EP](https://open.spotify.com/album/5iHIUbynfBik6g0Ik3zhl7) | 2:13 |
-| 8 | [Tumbling Tumbleweeds](https://open.spotify.com/track/6nHsZuDMPSyRQ90gBhaXoS) | [Leo Kottke](https://open.spotify.com/artist/6cjuHeJM6CHRUhIhApwFwx) | [Guitar Music](https://open.spotify.com/album/45GOwuG1VZqnLfdvPuZ2oj) | 2:44 |
-| 9 | [Twins](https://open.spotify.com/track/0SeCA3vPHuXGP6sizB05ZA) | [Matt Kivel](https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w) | [Days of Being Wild](https://open.spotify.com/album/4OUF3bDg60cOEqlHLsLDA0) | 0:50 |
-| 10 | [Mesquite Shade](https://open.spotify.com/track/39vGhSkzHBGwEnSi5PNKNn) | [Marisa Anderson](https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW) | [Mercury](https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv) | 1:36 |
+| 8 | [Twins](https://open.spotify.com/track/0SeCA3vPHuXGP6sizB05ZA) | [Matt Kivel](https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w) | [Days of Being Wild](https://open.spotify.com/album/4OUF3bDg60cOEqlHLsLDA0) | 0:50 |
+| 9 | [Mesquite Shade](https://open.spotify.com/track/39vGhSkzHBGwEnSi5PNKNn) | [Marisa Anderson](https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW) | [Mercury](https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv) | 1:36 |
+| 10 | [Tumbling Tumbleweeds](https://open.spotify.com/track/6nHsZuDMPSyRQ90gBhaXoS) | [Leo Kottke](https://open.spotify.com/artist/6cjuHeJM6CHRUhIhApwFwx) | [Guitar Music](https://open.spotify.com/album/45GOwuG1VZqnLfdvPuZ2oj) | 2:44 |
 | 11 | [Better Day](https://open.spotify.com/track/4iSvnsxzZBte3qgstEd5qI) | [Sonny Terry and Brownie McGhee](https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw) | [Brownie McGhee and Sonny Terry Sing](https://open.spotify.com/album/1bnGRRSXinuQPmeeQM7AIv) | 3:04 |
 | 12 | [They're Red Hot \- SA.2627\-1](https://open.spotify.com/track/4vrPulRxzgljqsYtgGQrpk) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [The Centennial Collection](https://open.spotify.com/album/0MG8ODOjmgu62MpgeS9dRF) | 2:58 |
 | 13 | [Bumble Bee](https://open.spotify.com/track/1FgQnc7KZLvaB89eWOfQ2R) | [Peter Case](https://open.spotify.com/artist/771bZ8ZHkvOqkI7baL68X3) | [The Midnight Broadcast](https://open.spotify.com/album/5XWkAsBVccgg9FFC77e9B6) | 3:34 |
 | 14 | [Butter and Eggs](https://open.spotify.com/track/1ba8qyfCD9olHnAfGGgxts) | [Julian Lage & Chris Eldridge](https://open.spotify.com/artist/0TRdPkXMabkeuB8JautkEf) | [Avalon](https://open.spotify.com/album/1UC7rVuAprZfBehFxiAGDr) | 3:24 |
 | 15 | [Well Well Well](https://open.spotify.com/track/6Gr0nYfH4DpKYrAggRGGZZ) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Blues In Mono](https://open.spotify.com/album/2IQagMayRx6kAilOpLcBhs) | 2:30 |
-| 16 | [Shadrach](https://open.spotify.com/track/0ksfRvHljT8MW9dlhmQMia) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Axis Mundi](https://open.spotify.com/album/1Br1pBqY2XH6L3cQpNUFLY) | 2:51 |
-| 17 | [Preachin' Blues](https://open.spotify.com/track/4YEoVkvvzx5eavtE2u5qG0) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [Preachin' Blues](https://open.spotify.com/album/2jBR825FVmX6BelMes5U4G) | 5:16 |
+| 16 | [Deep Gap](https://open.spotify.com/track/35VC12PD25DXOSOYf4Eg7N) | [Marisa Anderson](https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW) | [Mercury](https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv) | 3:23 |
+| 17 | [Shadrach](https://open.spotify.com/track/0ksfRvHljT8MW9dlhmQMia) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Axis Mundi](https://open.spotify.com/album/1Br1pBqY2XH6L3cQpNUFLY) | 2:51 |
 | 18 | [Dust My Broom](https://open.spotify.com/track/3OGfvgASu7KjQn8whfBALw) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [Dust My Broom](https://open.spotify.com/album/4wvZ1QR3tMnLNDzzxxn1pj) | 3:35 |
-| 19 | [Guitar Rag](https://open.spotify.com/track/5xwCQuoGnPdgqw2omrgmCq) | [Sylvester Weaver](https://open.spotify.com/artist/2m2vWbN6WZU0Mtv569ndeb) | [The Slide Guitar: Bottles, Knives & Steel](https://open.spotify.com/album/1v6Wu8KqYLWsax5EjmZNAf) | 2:58 |
-| 20 | [Deep Gap](https://open.spotify.com/track/35VC12PD25DXOSOYf4Eg7N) | [Marisa Anderson](https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW) | [Mercury](https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv) | 3:23 |
+| 19 | [Preachin' Blues](https://open.spotify.com/track/4YEoVkvvzx5eavtE2u5qG0) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [Preachin' Blues](https://open.spotify.com/album/2jBR825FVmX6BelMes5U4G) | 5:16 |
+| 20 | [Guitar Rag](https://open.spotify.com/track/5xwCQuoGnPdgqw2omrgmCq) | [Sylvester Weaver](https://open.spotify.com/artist/2m2vWbN6WZU0Mtv569ndeb) | [The Slide Guitar: Bottles, Knives & Steel](https://open.spotify.com/album/1v6Wu8KqYLWsax5EjmZNAf) | 2:58 |
 | 21 | [Alberta](https://open.spotify.com/track/6THJEXEOlRPu7BDyrQwJJP) | [Snooks Eaglin](https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS) | [New Orleans Street Singer](https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu) | 2:41 |
 | 22 | [Statesboro Blues](https://open.spotify.com/track/2T3YfMI0xRk93bmVMuJcKu) | [Blind Willie McTell](https://open.spotify.com/artist/4vRyd1UZ8Eq98EppbwOBg6) | [Presenting Blind Willie McTell](https://open.spotify.com/album/3CwFKuklZs4BJKkwqIR46z) | 2:32 |
 | 23 | [Death Letter](https://open.spotify.com/track/516maf2eNSuB5pTB1NedlN) | [Eric Johanson](https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z) | [Covered Tracks: Vol\. 2](https://open.spotify.com/album/41VD7CenbVd2qOPNLZiE5K) | 4:23 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 | 79 | [Dodge City](https://open.spotify.com/track/5ny1yG9VdXEa2UmfRImdjZ) | [Doug MacLeod](https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz) | [A Soul to Claim](https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj) | 5:16 |
 | 80 | [Wayfaring Stranger](https://open.spotify.com/track/4cQfiT5DgSOew8bZp1WaOW) | [Shake the Disease](https://open.spotify.com/artist/1YQSXwt14XWwFm2PI9VcFs) | [St\. James Infirmary Blues / Wayfaring Stranger \(Radio Edit\)](https://open.spotify.com/album/0iZaqrALa2jaXEvXNlqhuL) | 3:42 |
 
-Snapshot ID: `MTY4MTQwMTc3MiwwMDAwMDAwMGVkYzNmMWFiZWFhOGFhODNmYTU1ZDNhNWE2MmYzODhl`
+Snapshot ID: `MTY4MTQwMTc3MiwwMDAwMDAwMDcwYmFhMWZmM2RkMWI4MWE5YTY3YTU3MDZiYzYxMmJh`

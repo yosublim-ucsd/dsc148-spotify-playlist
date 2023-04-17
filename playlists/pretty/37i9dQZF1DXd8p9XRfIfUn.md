@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 
 > Lo mejor de la nueva\. Foto: Akrilla, SOULFIA
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,543 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,567 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 35 | [COMO TE VEO](https://open.spotify.com/track/0A2hY1pA45fdkd4TtIyyTN) | [Darho](https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq) | [COMO TE VEO](https://open.spotify.com/album/0Qvobw139ix8zLlfLjjtKC) | 3:26 |
 | 36 | [¿Por Qué Te Enojái?](https://open.spotify.com/track/6mLg5bAhcSrVnc0yPsS7Jy) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [¿Por Qué Te Enojái?](https://open.spotify.com/album/5ehSSGh8rREKoGtS4jURZc) | 3:37 |
 | 37 | [Pa´ Mi Casa](https://open.spotify.com/track/0JT2Dre9yTRQmetBwpKuvG) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg) | [Pa´ Mi Casa](https://open.spotify.com/album/2YzcyoOMf38T98oHrSosU2) | 4:01 |
-| 38 | [Pégate](https://open.spotify.com/track/003CpLpVCGuyfZe4dLB1No) | [ONIX](https://open.spotify.com/artist/0YMk9b6Lijw7f6PVUknCKn), [castleurbano](https://open.spotify.com/artist/1jS17bkQpQzybCKZ04CTws) | [Pégate](https://open.spotify.com/album/28NfWdCACj7M0DpWgxz3FI) | 2:00 |
-| 39 | [PERREANDO CON ALGUIEN QUE NO ME GUSTA](https://open.spotify.com/track/44WdAGGZvWjJsPg2mZF9oN) | [OMGisNEFF](https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g), [SokeThugPro](https://open.spotify.com/artist/44nEKYuxqc1juQ79QsVOl0) | [PERREANDO CON ALGUIEN QUE NO ME GUSTA](https://open.spotify.com/album/2ngsJuhJRJQDW3BXt0B2OX) | 3:01 |
+| 38 | [PERREANDO CON ALGUIEN QUE NO ME GUSTA](https://open.spotify.com/track/44WdAGGZvWjJsPg2mZF9oN) | [OMGisNEFF](https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g), [SokeThugPro](https://open.spotify.com/artist/44nEKYuxqc1juQ79QsVOl0) | [PERREANDO CON ALGUIEN QUE NO ME GUSTA](https://open.spotify.com/album/2ngsJuhJRJQDW3BXt0B2OX) | 3:01 |
+| 39 | [Pégate](https://open.spotify.com/track/003CpLpVCGuyfZe4dLB1No) | [ONIX](https://open.spotify.com/artist/0YMk9b6Lijw7f6PVUknCKn), [castleurbano](https://open.spotify.com/artist/1jS17bkQpQzybCKZ04CTws) | [Pégate](https://open.spotify.com/album/28NfWdCACj7M0DpWgxz3FI) | 2:00 |
 | 40 | [Traje Tusi](https://open.spotify.com/track/3uSjM5ngnPg1JGnBn31rYG) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V) | [Traje Tusi](https://open.spotify.com/album/10VJNxo5i9pnR5SZlNLuc7) | 3:02 |
 | 41 | [Q\-Lito](https://open.spotify.com/track/1W9c0BUe6ETdtBfQyqeOgw) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Q\-Lito](https://open.spotify.com/album/7vy05msyjhqtzv6wgemce7) | 3:08 |
 | 42 | [Bendición](https://open.spotify.com/track/54LxLkCDvShuYKRtTUQ2G4) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [Bendición](https://open.spotify.com/album/1ngKwKbpwwd5twNds3LN8N) | 3:05 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 56 | [X Ti Lo Digo](https://open.spotify.com/track/1nT6epkjhga9uBDKrHIWVe) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [X Ti Lo Digo](https://open.spotify.com/album/4ifI86bX1iJP68q2AogGBM) | 3:11 |
 | 57 | [Sigue Sola \(with Juhn & KHEA feat\. Totoy El Frio, Jerry Di & Beéle\)](https://open.spotify.com/track/7GRe01YSKYRxkXGmrjkcGU) | [Montano](https://open.spotify.com/artist/3LlWsXsjIJmaKmPaB9GIyH), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Sigue Sola \(with Juhn & KHEA feat\. Totoy El Frio, Jerry Di & Beéle\)](https://open.spotify.com/album/2I8pcFT4wfrgXi3hynkzag) | 4:53 |
 | 58 | [Que a Pasao](https://open.spotify.com/track/5s2SRpPmDiYFf0Qu17r9Uk) | [Big Apple](https://open.spotify.com/artist/5suUyNwJ1hw1M45oqdw8zE), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Que a Pasao](https://open.spotify.com/album/00LnZnMQqMsYFIhnTjGAEo) | 2:05 |
-| 59 | [La más Famosa](https://open.spotify.com/track/2kY3foijfdehX02ktsZ6E7) | [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [GATA PISTOLA](https://open.spotify.com/album/61WaPbQFOC0svswIVNQpUn) | 2:22 |
-| 60 | [IMPOSIBLE](https://open.spotify.com/track/5fMo4acbRCkXZRsSuwxYZX) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [IMPOSIBLE](https://open.spotify.com/album/4QerNrI0xPSnpiny4bROq6) | 3:07 |
+| 59 | [IMPOSIBLE](https://open.spotify.com/track/5fMo4acbRCkXZRsSuwxYZX) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [IMPOSIBLE](https://open.spotify.com/album/4QerNrI0xPSnpiny4bROq6) | 3:07 |
+| 60 | [La más Famosa](https://open.spotify.com/track/2kY3foijfdehX02ktsZ6E7) | [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [GATA PISTOLA](https://open.spotify.com/album/61WaPbQFOC0svswIVNQpUn) | 2:22 |
 
-Snapshot ID: `MTY3ODQ2NTU1NywwMDAwMDAwMDJmOTNhMTRiZDhmZDBjMjg0NDM0ZWZhNjdjZTAxYWY1`
+Snapshot ID: `MTY3ODQ2NTU1NywwMDAwMDAwMDJkYTg1YmJiOThjNTFiYjA3YzFiOGQ5OTFlYWIzNzBj`

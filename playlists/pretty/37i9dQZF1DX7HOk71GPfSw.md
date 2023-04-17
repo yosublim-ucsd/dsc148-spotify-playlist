@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > this heylog song is crazy\. Cover: 100 gecs
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,007 likes - 98 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,491 likes - 98 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

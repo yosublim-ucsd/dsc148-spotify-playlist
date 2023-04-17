@@ -1,12 +1,12 @@
 {
   "description": "That bouncy, groovy, dancey sound.",
-  "num_followers": 117570,
+  "num_followers": 117639,
   "original_name": "Choice Edit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDkwMjcxOCwwMDAwMDAwMDNiZWE1ZDRlY2ZiYzM0MWQ0YzU0YmM0OGI5ZTkyNGY0",
+  "snapshot_id": "MTY4MDkwMjcxOCwwMDAwMDAwMDJjMDhmZTI1OTA5Nzg0ZWEyNTZhOGM4MGZkMzBmZGY2",
   "tracks": [
     {
       "added_at": "2023-04-07 21:25:17",
@@ -569,26 +569,6 @@
       "url": "https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Inhale / Exhale (with Sabrina Claudio)",
-        "url": "https://open.spotify.com/album/1bq8eTRB7o4IWYYeUQ3p5c"
-      },
-      "artists": [
-        {
-          "name": "Austin Millz",
-          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
-        },
-        {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
-        }
-      ],
-      "duration_ms": 170213,
-      "name": "Inhale / Exhale (with Sabrina Claudio)",
-      "url": "https://open.spotify.com/track/4jhznF9z7jv08LIAtSZTnu"
-    },
-    {
       "added_at": "2022-07-30 02:24:25",
       "album": {
         "name": "PALAZZO",
@@ -607,6 +587,26 @@
       "duration_ms": 186002,
       "name": "PALAZZO",
       "url": "https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Inhale / Exhale (with Sabrina Claudio)",
+        "url": "https://open.spotify.com/album/1bq8eTRB7o4IWYYeUQ3p5c"
+      },
+      "artists": [
+        {
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+        },
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+        }
+      ],
+      "duration_ms": 170213,
+      "name": "Inhale / Exhale (with Sabrina Claudio)",
+      "url": "https://open.spotify.com/track/4jhznF9z7jv08LIAtSZTnu"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -727,26 +727,6 @@
     {
       "added_at": "2022-05-02 22:05:00",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/7jlUFBjbua4L7eZXpncXIG"
-      },
-      "artists": [
-        {
-          "name": "Austin Millz",
-          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
-        },
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        }
-      ],
-      "duration_ms": 175416,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/5Dz6wdHlI45KAOBAfMSJRS"
-    },
-    {
-      "added_at": "2022-05-02 22:05:00",
-      "album": {
         "name": "Moon Shoes EP",
         "url": "https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 223005,
       "name": "Lock Up",
       "url": "https://open.spotify.com/track/22sKJ38aklXtEzQtnDDluQ"
+    },
+    {
+      "added_at": "2022-05-02 22:05:00",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/7jlUFBjbua4L7eZXpncXIG"
+      },
+      "artists": [
+        {
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "duration_ms": 175416,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/5Dz6wdHlI45KAOBAfMSJRS"
     },
     {
       "added_at": "2022-07-30 02:24:25",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-05-02 22:05:00",
       "album": {
-        "name": "Last Year Was Weird, Vol. 2",
-        "url": "https://open.spotify.com/album/36nDwdvBHoJMIZn0wzYWrD"
-      },
-      "artists": [
-        {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
-        }
-      ],
-      "duration_ms": 233537,
-      "name": "24k",
-      "url": "https://open.spotify.com/track/0F2gXzgbzLvK9LrS7yKS8Q"
-    },
-    {
-      "added_at": "2022-05-02 22:05:00",
-      "album": {
         "name": "Iced Tea",
         "url": "https://open.spotify.com/album/56Z5er1cgYmXDuG49B953d"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 205384,
       "name": "Iced Tea",
       "url": "https://open.spotify.com/track/6kmXHLDDK7RQXTjHooTCzH"
+    },
+    {
+      "added_at": "2022-05-02 22:05:00",
+      "album": {
+        "name": "Last Year Was Weird, Vol. 2",
+        "url": "https://open.spotify.com/album/36nDwdvBHoJMIZn0wzYWrD"
+      },
+      "artists": [
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        }
+      ],
+      "duration_ms": 233537,
+      "name": "24k",
+      "url": "https://open.spotify.com/track/0F2gXzgbzLvK9LrS7yKS8Q"
     },
     {
       "added_at": "2022-05-02 22:05:00",

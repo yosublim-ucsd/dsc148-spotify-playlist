@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C7dIs.md) - [plain]
 
 > This is Nightwish\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,609 likes - 50 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,714 likes - 50 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C7dIs.md) - [plain]
 | 8 | [Over The Hills And Far Away](https://open.spotify.com/track/4004xnMLj5QGxWvu6JPcJ7) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Over The Hills And Far Away](https://open.spotify.com/album/4sPRDVFW50ZnrKDlg9SwIG) | 5:02 |
 | 9 | [Alpenglow](https://open.spotify.com/track/5UlVP9eewIYpqewZv6kToz) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Endless Forms Most Beautiful \(Deluxe Version\)](https://open.spotify.com/album/1tVEWlyn2nsAke3Lp7HoZ0) | 4:49 |
 | 10 | [End Of All Hope](https://open.spotify.com/track/3RqTWAc3noEuDS5B0BimD7) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Century Child](https://open.spotify.com/album/4FFDudC4xBVF6MYJUynRsN) | 3:53 |
-| 11 | [While Your Lips Are Still Red \- Theme from the Movie "Lieksa!"](https://open.spotify.com/track/3r3KRYYOFjNGD4OJB5ddam) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [The Sound of Nightwish Reborn](https://open.spotify.com/album/4A8TYBcOB8B2lIOlpU4k30) | 4:18 |
-| 12 | [Bye Bye Beautiful](https://open.spotify.com/track/6K03JHEberhdFjgZvFYcfs) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Dark Passion Play](https://open.spotify.com/album/33knvUBRR5ekNBrtLqQVTD) | 4:14 |
+| 11 | [Bye Bye Beautiful](https://open.spotify.com/track/6K03JHEberhdFjgZvFYcfs) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Dark Passion Play](https://open.spotify.com/album/33knvUBRR5ekNBrtLqQVTD) | 4:14 |
+| 12 | [While Your Lips Are Still Red \- Theme from the Movie "Lieksa!"](https://open.spotify.com/track/3r3KRYYOFjNGD4OJB5ddam) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [The Sound of Nightwish Reborn](https://open.spotify.com/album/4A8TYBcOB8B2lIOlpU4k30) | 4:18 |
 | 13 | [How's the Heart?](https://open.spotify.com/track/6lkVbijlh932FSS2I0gDrR) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [HUMAN\. :II: NATURE.](https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li) | 5:02 |
 | 14 | [Ever Dream](https://open.spotify.com/track/5SNDGulFALe3DpSbuYarl7) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Century Child](https://open.spotify.com/album/4FFDudC4xBVF6MYJUynRsN) | 4:42 |
 | 15 | [Wishmaster](https://open.spotify.com/track/5soihaBWFEQqCYu0HOUVzK) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Wishmaster](https://open.spotify.com/album/4u5Ik7NMYl3EITJngbMS4V) | 4:24 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C7dIs.md) - [plain]
 | 44 | [High Hopes](https://open.spotify.com/track/7LUYlbzPVix2varjKXAk6z) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [End of an Era](https://open.spotify.com/album/0vAgv1fFn8zW2hbpWJfgPX) | 6:54 |
 | 45 | [Wanderlust](https://open.spotify.com/track/5ZL7XCYicDTmqXjS7MNEep) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Wishmaster](https://open.spotify.com/album/4u5Ik7NMYl3EITJngbMS4V) | 4:50 |
 | 46 | [Gethsemane](https://open.spotify.com/track/3rf2cBQqaPG87cbp18Z0g7) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Oceanborn](https://open.spotify.com/album/37LveKPgKGwpuI0cEVbPj4) | 5:22 |
-| 47 | [Forever Yours](https://open.spotify.com/track/16pngF7qRDnAkXt2FMuUdl) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Century Child](https://open.spotify.com/album/4FFDudC4xBVF6MYJUynRsN) | 3:50 |
-| 48 | [Dead Gardens \- Remastered](https://open.spotify.com/track/6BjgGSC0hfQAHUztG6N23M) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Once \(Remastered\)](https://open.spotify.com/album/6qqKoGukMfzw9aYa2qaJOb) | 4:28 |
+| 47 | [Dead Gardens \- Remastered](https://open.spotify.com/track/6BjgGSC0hfQAHUztG6N23M) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Once \(Remastered\)](https://open.spotify.com/album/6qqKoGukMfzw9aYa2qaJOb) | 4:28 |
+| 48 | [Forever Yours](https://open.spotify.com/track/16pngF7qRDnAkXt2FMuUdl) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Century Child](https://open.spotify.com/album/4FFDudC4xBVF6MYJUynRsN) | 3:50 |
 | 49 | [Escapist](https://open.spotify.com/track/66X2i4bMFJB9zGgff9gyzq) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Bye Bye Beautiful](https://open.spotify.com/album/4qomktB4Z9mQVPm42eEYwd) | 5:01 |
 | 50 | [7 Days to the Wolves \- Live, at Wembley, 2015](https://open.spotify.com/track/1SQlzlYlaMXvBphd1Z1nmD) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Vehicle of Spirit: Wembley Arena \(Live\)](https://open.spotify.com/album/1y6lNpSBJck5Fi0iRwHot1) | 7:11 |
 
-Snapshot ID: `MjgwMjYwMzEsMDAwMDAwMDBjODFjZGY1MWI4ZGJiYmY0YThjNzM5OWYwZGU2YzAyMA==`
+Snapshot ID: `MjgwMjc0MDEsMDAwMDAwMDBlMTc3YmMxYWM5MjA4N2U2NmQ4OWY4NTNmNWJjZDVlMw==`

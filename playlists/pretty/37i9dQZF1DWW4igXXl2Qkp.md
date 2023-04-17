@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: Lil Blessin
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,775 likes - 75 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,814 likes - 75 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

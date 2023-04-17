@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 
 > We outside\. Cover: Popcaan
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,118 likes - 89 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,336 likes - 89 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

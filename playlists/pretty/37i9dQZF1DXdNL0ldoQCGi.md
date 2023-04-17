@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 
 > aquela lá q viralizou na net
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,852 likes - 80 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,123 likes - 80 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 34 | [Pra pra pra](https://open.spotify.com/track/4tDUIRZU50xaP0uRAGklqy) | [Deavele Santos](https://open.spotify.com/artist/4pby53BFNfng1G88nYhBaM) | [Plutão](https://open.spotify.com/album/6guynEevDTunJTTAWhNFXc) | 2:22 |
 | 35 | [Zona De Perigo](https://open.spotify.com/track/1jHgfC8T5KxUyC5Ldw6lk9) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Zona De Perigo](https://open.spotify.com/album/6dj4bRg0LCMm7B2P5Xenq5) | 2:22 |
 | 36 | [Noite Fria](https://open.spotify.com/track/3lT2haeJ7ype7nCJrV96nI) | [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [MC Pipokinha](https://open.spotify.com/artist/7BT8x82CjBZUjJy6xj1G3O), [DJ Glenner](https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK) | [Noite Fria](https://open.spotify.com/album/0aixHaAcI8UV5vBWmRnLni) | 2:40 |
-| 37 | [NUNCA SOZİNHO](https://open.spotify.com/track/0HAvN3XZPCnOrfFIFGcXp6) | [hamza7](https://open.spotify.com/artist/7541kRGbFjmVsqPV4CMVzp), [Votabia](https://open.spotify.com/artist/4klGZvLtbfhDtrdTTS2EhK) | [NUNCA SOZİNHO](https://open.spotify.com/album/1qF4rCJnQ6wnIHeIfK6BOk) | 2:17 |
+| 37 | [Nunca Sozinho](https://open.spotify.com/track/0uGpWtQgtZ6UcFXnFiNhNq) | [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka) | [Nunca Sozinho](https://open.spotify.com/album/5UDKZWc01Bse8OGYCR2wpb) | 2:17 |
 | 38 | [no longer bound](https://open.spotify.com/track/1lF7uD9Yu2CL17a6tm4Tkh) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [no longer bound](https://open.spotify.com/album/1ri9HxSukluBBAvkqPd39A) | 2:53 |
 | 39 | [Ai Papai](https://open.spotify.com/track/3hbtxis0jMinjRzv3Hy7iA) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Mc Danny](https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk), [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg) | [À Procura da Anitta Perfeita](https://open.spotify.com/album/1vaz2dIr146DBY4DC3rFjT) | 2:28 |
 | 40 | [A Loira a Morena e a Ruiva](https://open.spotify.com/track/1lazh9gDhkJ6zOL4nUq5uB) | [Josué Bom de Faixa](https://open.spotify.com/artist/6yEKZXXjkBPBcAQAFdvSlz) | [Josué Deluxe](https://open.spotify.com/album/0gpkmC0qK19Od3kHi6wjcm) | 2:48 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 79 | [Gostosinha é Ela](https://open.spotify.com/track/0XyPPyGes0omXppV5YE8gy) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [Gostosinha é Ela](https://open.spotify.com/album/4mh9PwttztTnpvYlPFCPRZ) | 2:18 |
 | 80 | [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 |
 
-Snapshot ID: `MTY4MTI0OTU3OSwwMDAwMDAwMDEzODhkYmI0OTIyNjAzYTU5MmFjZDJlODUyZWY2NGYy`
+Snapshot ID: `MTY4MTI0OTU3OSwwMDAwMDAwMDUzNjlkYWEyMzVhNzBhZWI0NGVjZTA5MWIxOTQxYjQ2`

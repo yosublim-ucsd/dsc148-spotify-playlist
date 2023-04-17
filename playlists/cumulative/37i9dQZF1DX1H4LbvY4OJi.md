@@ -4,7 +4,7 @@
 
 > Embrace those happy vibes with these feel\-good hits!
 
-942 songs - 2 day 5 hr 17 min
+943 songs - 2 day 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,7 +208,7 @@
 | [Don't Stop \- 2004 Remaster](https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 3:13 | 2021-02-28 | 2022-04-18 |
 | [Don't Stop Movin'](https://open.spotify.com/track/2mc3KhEpFAh8saVFVNb1hC) | [S Club 7](https://open.spotify.com/artist/1kM5rgJvkiDMOoKX56H6pX) | [Sunshine](https://open.spotify.com/album/1JXF1JKw7WPhqvBO8t8oPl) | 3:55 | 2019-07-31 | 2022-04-21 |
 | [Don't Worry Be Happy](https://open.spotify.com/track/5YbgcwHjQhdT1BYQ4rxWlD) | [Bobby McFerrin](https://open.spotify.com/artist/2FjkZT851ez950cyPjeYid) | [The Collection](https://open.spotify.com/album/5QXK9xXDSYvSOXYSJHdwOD) | 4:52 | 2021-02-26 | 2022-04-09 |
-| [Don't You Want Me](https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 3:56 | 2019-08-06 |  |
+| [Don't You Want Me](https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 3:56 | 2019-08-06 | 2023-04-17 |
 | [DON'T YOU WORRY](https://open.spotify.com/track/0gYXw7aPoybWFfB7btQ0eM) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [DON'T YOU WORRY](https://open.spotify.com/album/3plMoBhvQ07H4itII2Qdeb) | 3:16 | 2022-07-25 |  |
 | [Don’t Wake Me Up](https://open.spotify.com/track/3LEgGAl9zLcQWGTp7ptqtQ) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Don’t Wake Me Up](https://open.spotify.com/album/6ydP9IJkzpippCnXf2bpNs) | 3:08 | 2022-01-07 | 2022-11-14 |
 | [Dreams](https://open.spotify.com/track/2J3TcdKkdU42R9zWqWi6LJ) | [Jolyon Petch](https://open.spotify.com/artist/00Ja3YjvU4DYCHWt6cPs42) | [Dreams](https://open.spotify.com/album/2wvHFdSUM3Q6Dtu7dowYpf) | 3:18 | 2021-07-30 | 2022-07-27 |
@@ -538,6 +538,7 @@
 | [Mean It](https://open.spotify.com/track/3GRSqlALWISqLeNncZMbpX) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [\~how i'm feeling\~](https://open.spotify.com/album/4aoWQU2gSUjl4AZeCPSo1b) | 3:52 | 2019-11-30 | 2022-04-01 |
 | [Memories](https://open.spotify.com/track/2b8fOow8UzyDFAE27YhOZM) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Memories](https://open.spotify.com/album/3nR9B40hYLKLcR0Eph3Goc) | 3:09 | 2019-09-27 | 2022-04-16 |
 | [Memories](https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 3:09 | 2022-07-25 | 2023-03-23 |
+| [Memories Remix \(feat\. Nipsey Hussle & YG\)](https://open.spotify.com/track/3p4WMekidOIiyf8SFvfrIC) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 3:09 | 2023-03-30 |  |
 | [Message In A Bottle \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/3z6XUommYDWPHeFhmhhT6j) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 3:45 | 2022-01-07 | 2022-11-13 |
 | [Mickey](https://open.spotify.com/track/4SFuu7TOtRzccYotaYdUeV) | [Toni Basil](https://open.spotify.com/artist/59hMeIYY3k3NoX54rrVGPv) | [Best of Toni Basil: Mickey & Other Love Songs](https://open.spotify.com/album/4i8yZW5HsZiBQmtZzmeUWM) | 4:14 | 2019-08-01 | 2022-04-18 |
 | [Midnight \(feat\. Liam Payne\)](https://open.spotify.com/track/4ZTTUAjJCd4NMZmIU7RB4c) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [Midnight \(feat\. Liam Payne\)](https://open.spotify.com/album/4Cq0dfyCX1msQ6ZRbdT4YG) | 3:40 | 2020-04-16 | 2022-07-27 |

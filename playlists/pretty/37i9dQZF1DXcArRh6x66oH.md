@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 
 > The new sounds of Appalachia, red dirt and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,204 likes - 108 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,983 likes - 108 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 | 3 | [This Damn Song](https://open.spotify.com/track/784cuiNXGutuO6wJgqOFWd) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [This Damn Song](https://open.spotify.com/album/1SnlCthXFkWWkZPzNAdqrZ) | 4:40 |
 | 4 | [Tattoos](https://open.spotify.com/track/1XcxubL4Y4U4gxLeIbb8VM) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Purgatory](https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz) | 3:23 |
 | 5 | [Sleeping Alone](https://open.spotify.com/track/7Jv0DExnLwItv5yVTBWelP) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Homeland Insecurity](https://open.spotify.com/album/3zroVeqEo7fIQ55qf3A422) | 3:50 |
-| 6 | [Straight and Narrow](https://open.spotify.com/track/3ZJd3PCBk8ibpO8DVlkCsF) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Straight and Narrow](https://open.spotify.com/album/3THvfv2GtFgLL45lknPgiu) | 3:19 |
+| 6 | [Straight and Narrow](https://open.spotify.com/track/40vKwNlXXKUmQMGceAoEpy) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Straight and Narrow](https://open.spotify.com/album/0floBXCzvTvVMR3gXWZBav) | 3:19 |
 | 7 | [Wilder Days](https://open.spotify.com/track/2vubFQgAJO5SeuVa7ytIHc) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Reckless](https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio) | 4:11 |
 | 8 | [Loud and Heavy](https://open.spotify.com/track/1ppTqTBXqnlVGPxlluGHRE) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Adobe Sessions](https://open.spotify.com/album/0XwvWmuegqeWhDpg2FZaXW) | 3:50 |
 | 9 | [Western White Pines](https://open.spotify.com/track/2zqN6JNBQ13hRQZQMH8g3s) | [Colby Acuff](https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC) | [Western White Pines](https://open.spotify.com/album/1qb5MTuf6K5BpNZrtywVAw) | 4:07 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 | 107 | [The Jealous Kind \(Live from the Church\)](https://open.spotify.com/track/5s39a54LU092WwtEGoOmtp) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [The Jealous Kind \(Live from the Church\)](https://open.spotify.com/album/1KSDcbkwcDd1XrjYz8Lpx0) | 3:35 |
 | 108 | [Van Gogh](https://open.spotify.com/track/6mlqBATFPrEcg3EC9GYcm8) | [Pony Bradshaw](https://open.spotify.com/artist/0ATGYvt8HyUK8ydaxJybSi) | [Sudden Opera](https://open.spotify.com/album/5mczfTrIuyQboTG7frLuUE) | 2:52 |
 
-Snapshot ID: `MTY4MTQ0NDgwMCwwMDAwMDAwMGUxMWY3YzU0ZTNmNzNjZDNkODUyODk1ZDE0NmI1ZWEw`
+Snapshot ID: `MTY4MTQ0NDgwMCwwMDAwMDAwMDM1MGIwN2Y2MDA5ZjMxZDc4ZTM3YTdlOWRmMzZhMzk1`

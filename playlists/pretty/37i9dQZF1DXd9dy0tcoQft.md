@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9dy0tcoQft.md) - [plain]
 
 > Add some sweet soul music to your dinner\. Cover: Ben L'Oncle Soul
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,237 likes - 70 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,242 likes - 70 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9dy0tcoQft.md) - [plain]
 | 34 | [Crazy Good](https://open.spotify.com/track/6IpcrQBDNQqDzt0mFiGc7J) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL), [Roxanne](https://open.spotify.com/artist/5mGFb7wCIvqKWya2ePJQ7c) | [Crazy Good](https://open.spotify.com/album/4NsjoSNnHOpS1EKy3KYJX3) | 3:51 |
 | 35 | [Tropical Commotion](https://open.spotify.com/track/2Z1PLz4doUUmo18lIqFmry) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Pieces \(EP\)](https://open.spotify.com/album/40DNbdaTg3zjgf9pDCMhPw) | 3:47 |
 | 36 | [Miracles](https://open.spotify.com/track/10g4esqFA2aVAWAYc0XQ5Z) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ), [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi) | [Music](https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK) | 4:51 |
-| 37 | [Mad World](https://open.spotify.com/track/6OUXAJOrEgIEnmlN5kH72F) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Origin \(Deluxe Edition\)](https://open.spotify.com/album/6vlatUhYlcoUkMfNIvmtLE) | 3:15 |
-| 38 | [Loving You](https://open.spotify.com/track/1ba8Fr5ro68P3dLal3DhIe) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [Loving You](https://open.spotify.com/album/74eFO86CCuo4y6W3k7dPvP) | 3:48 |
+| 37 | [Loving You](https://open.spotify.com/track/1ba8Fr5ro68P3dLal3DhIe) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [Loving You](https://open.spotify.com/album/74eFO86CCuo4y6W3k7dPvP) | 3:48 |
+| 38 | [Mad World](https://open.spotify.com/track/6OUXAJOrEgIEnmlN5kH72F) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Origin \(Deluxe Edition\)](https://open.spotify.com/album/6vlatUhYlcoUkMfNIvmtLE) | 3:15 |
 | 39 | [Good People](https://open.spotify.com/track/7j95Sbh2IwxyCn512XSUue) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Good People](https://open.spotify.com/album/1bv8ZKWesoZtYkz4liyRyJ) | 3:31 |
 | 40 | [Be Bad](https://open.spotify.com/track/0aWLSxNvttlmRayiJMXZy1) | [Sofie Winterson](https://open.spotify.com/artist/5pKrorYHoVt088MOxEhNLg) | [Moral](https://open.spotify.com/album/2L2ncr9AyJlL3hE6TWenlb) | 2:34 |
 | 41 | [This Is The Day \- Full Band Version](https://open.spotify.com/track/75E9k76b255fUk9iSUqkG9) | [Mamas Gun](https://open.spotify.com/artist/09bP40OuEV5tOM1rQnZNxI) | [This Is The Day \(Full Band Version\)](https://open.spotify.com/album/6HIzNiydjxIffCg5TGxwBj) | 4:42 |
@@ -61,14 +61,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9dy0tcoQft.md) - [plain]
 | 51 | [April Showers](https://open.spotify.com/track/1YnlOIZAPG36FVoh8dIZQZ) | [Aïrto](https://open.spotify.com/artist/7v9nYk36K4skneq3CiKHDV) | [April Showers](https://open.spotify.com/album/2H6l9K78aQq25oCLUB0m9t) | 2:55 |
 | 52 | [Remember](https://open.spotify.com/track/0CkoWbWqoY8Blolkuz7LeS) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Mumu Fresh](https://open.spotify.com/artist/5UIl2yxuQbC2rU8m9pN8mD) | [Remember](https://open.spotify.com/album/2Q9MzaTH0z8WWcPAt50CLP) | 3:01 |
 | 53 | [Preaching To The Choir](https://open.spotify.com/track/3DKzKLzJcMtPQvSEaoX62t) | [Nona](https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb) | [Nona](https://open.spotify.com/album/2U5a0Ayv1HAjUiR866Z5tB) | 3:30 |
-| 54 | [Near Enough A Woman](https://open.spotify.com/track/1ncO5CMaYySNsnOrBXuFYd) | [otta](https://open.spotify.com/artist/2c04R4WjyZyi1qiRLPhpsO) | [Near Enough A Woman](https://open.spotify.com/album/3L341kxmBXonqWSRNLPLCT) | 3:34 |
-| 55 | [Waterfall](https://open.spotify.com/track/7lH5ojd6UtoTW6kKQCXdZm) | [Camo Columbo](https://open.spotify.com/artist/4PEjxQciyHLViBRsOmbrYm) | [Waterfall](https://open.spotify.com/album/7kFYzxYZnuuAU6ufNkTo4e) | 2:46 |
+| 54 | [Waterfall](https://open.spotify.com/track/7lH5ojd6UtoTW6kKQCXdZm) | [Camo Columbo](https://open.spotify.com/artist/4PEjxQciyHLViBRsOmbrYm) | [Waterfall](https://open.spotify.com/album/7kFYzxYZnuuAU6ufNkTo4e) | 2:46 |
+| 55 | [Near Enough A Woman](https://open.spotify.com/track/1ncO5CMaYySNsnOrBXuFYd) | [otta](https://open.spotify.com/artist/2c04R4WjyZyi1qiRLPhpsO) | [Near Enough A Woman](https://open.spotify.com/album/3L341kxmBXonqWSRNLPLCT) | 3:34 |
 | 56 | [Sanctuary](https://open.spotify.com/track/3I8IVGwQSv055Ue5OrI6Qf) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY) | [Genesis](https://open.spotify.com/album/4Pc3nWPVnnOQcMKRE53qYT) | 3:04 |
 | 57 | [Stay](https://open.spotify.com/track/6v0IFEV2M37sXSCuQMEBnj) | [Kartell](https://open.spotify.com/artist/3E4UsjXgFv2GdwshMkkJze), [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Stay](https://open.spotify.com/album/3LrU1Dgrr3aVsT7GWOGPGW) | 3:14 |
 | 58 | [9](https://open.spotify.com/track/2Lel4FPH7lwvWZv24c9Gj6) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Adi Oasis](https://open.spotify.com/album/06VfMuXIFM7QLs5ZIW0KYZ) | 4:31 |
 | 59 | [Pieces](https://open.spotify.com/track/3ebeQDcmkINL0z2G5f2vQ8) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Pieces](https://open.spotify.com/album/2VI86hd45OqHeDDzVhCkLa) | 3:43 |
-| 60 | [I Want You](https://open.spotify.com/track/6yDZ0JtlNLqA9xV7dVkgt0) | [Leela James](https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2) | [See Me](https://open.spotify.com/album/3AbP9rjHW5cejxH4INUuLE) | 4:08 |
-| 61 | [Can't Stop Loving \(What Your Heart Still Loves\)](https://open.spotify.com/track/6BRmMYY82M8kOcwgjvpiu9) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Soul Revolution](https://open.spotify.com/album/4qF4sSfF0dHMUdTkqF5yn8) | 3:23 |
+| 60 | [Can't Stop Loving \(What Your Heart Still Loves\)](https://open.spotify.com/track/6BRmMYY82M8kOcwgjvpiu9) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Soul Revolution](https://open.spotify.com/album/4qF4sSfF0dHMUdTkqF5yn8) | 3:23 |
+| 61 | [I Want You](https://open.spotify.com/track/6yDZ0JtlNLqA9xV7dVkgt0) | [Leela James](https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2) | [See Me](https://open.spotify.com/album/3AbP9rjHW5cejxH4INUuLE) | 4:08 |
 | 62 | [Ain't Gonna Let You Drown](https://open.spotify.com/track/44qiPcV2qOWxlIYpD0Xnha) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Rearview Paradise](https://open.spotify.com/album/0Q6UU1umlBC8FRK91jJVkg) | 4:17 |
 | 63 | [Yes I Am](https://open.spotify.com/track/4mAzDXo7ZVSAhk0iaoqa1b) | [Michelle David & The True\-tones](https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj) | [The Gospel Sessions, Vol\. 4](https://open.spotify.com/album/449DTVTvTCdQgAdmPqgsi8) | 3:56 |
 | 64 | [Start over Again](https://open.spotify.com/track/5M9lSUgxsJNSvndGh7h2Ef) | [Ntjam Rosie](https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R) | [Start over Again](https://open.spotify.com/album/2eRlK8WSBgZ1v1mB3Rxm1V) | 3:39 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9dy0tcoQft.md) - [plain]
 | 69 | [You Live In My Phone](https://open.spotify.com/track/1eNf04Rj2ongsgK8ErzZv7) | [Someone](https://open.spotify.com/artist/28pJPOOQTi0RQiZbkmLvfE) | [You Live In My Phone](https://open.spotify.com/album/6i13Syc3mQBIl0A7xd3hjX) | 4:33 |
 | 70 | [Safe Inside](https://open.spotify.com/track/56UvbaI7IehHOubQI44yK6) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [Honesty \(Deluxe Version\)](https://open.spotify.com/album/70FmaCiwtIv1wk7nthZJUU) | 2:47 |
 
-Snapshot ID: `MTY3NzE5MzIwMCwwMDAwMDAwMGMwYTEyZmM4ODRlM2YwNTgyMWQ5YjdlNDE5YjMwMmQ3`
+Snapshot ID: `MTY3NzE5MzIwMCwwMDAwMDAwMDYxZDg2NGUwM2Y1M2M5NTVkOGNjNGYxZDA5M2U1Nzgx`

@@ -4,7 +4,7 @@
 
 > The hottest tunes in rock\. Crank it up! Cover: Greta Van Fleet
 
-600 songs - 1 day 9 hr 54 min
+601 songs - 1 day 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [29](https://open.spotify.com/track/0REv856zadB0e8IM1brlwr) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [HOLY FVCK](https://open.spotify.com/album/2QX21ryT6SIcft6N3PkfeR) | 2:43 | 2022-08-19 | 2022-10-22 |
 | [5,6,7,8 \(feat\. girlfriends\)](https://open.spotify.com/track/6YAngZqMTJyorUHoeOpaqy) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0), [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [5,6,7,8 \(feat\. girlfriends\)](https://open.spotify.com/album/0SPIpADk9hv62agR2J5iy5) | 2:16 | 2023-03-24 |  |
 | [5150](https://open.spotify.com/track/14UzhtAQyCRGsuSjInmiJi) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:54 | 2022-03-25 | 2022-06-11 |
-| [72 Seasons](https://open.spotify.com/track/6txhb14PWs9yrkTgR2jnU4) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/5vFa10TvQUWpEv9OkVBatc) | 7:39 | 2023-04-14 |  |
+| [72 Seasons](https://open.spotify.com/track/4poeu6nUr4UQo1RXpp29Js) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 7:39 | 2023-04-14 |  |
+| [72 Seasons](https://open.spotify.com/track/6txhb14PWs9yrkTgR2jnU4) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/5vFa10TvQUWpEv9OkVBatc) | 7:39 | 2023-04-14 | 2023-04-17 |
 | [9 lives](https://open.spotify.com/track/17XY1uAyl0lrFqiMp1aQXO) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [mainstream sellout \(life in pink deluxe\)](https://open.spotify.com/album/5mj5NblnMMm5G3n1cugGH7) | 3:01 | 2022-06-24 | 2023-03-18 |
 | [<maybe> it's my fault](https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<maybe> it's my fault](https://open.spotify.com/album/139YquG3RpaLBq98PbsOIM) | 2:39 | 2022-06-24 | 2022-07-30 |
 | [A Beautiful Life](https://open.spotify.com/track/4lcQ64FgH8aBhBfx19jlA4) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [Gifts From The Holy Ghost](https://open.spotify.com/album/4kfE0W36et9sZgbRHNjHdl) | 3:35 | 2022-04-22 | 2023-02-18 |

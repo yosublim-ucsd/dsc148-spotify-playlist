@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "See also <a href=\"spotify:playlist:2z6FM4scrQ5lpsKId0jeki\">Intro</a>, <a href=\"spotify:playlist:1Z5SNtd1IWRRw3ESZfJZKe\">Pulse</a>, <a href=\"spotify:playlist:4pVcfz3aYYdCTMdwGHwJJs\">\u2640Filter</a> or <a href=\"spotify:playlist:6idjuynJ3Rgy9RIHaGKDAF\">2022</a>; or the Sounds of <a href=\"spotify:playlist:0evPZ6WIgSKYY2gnlfXIdA\">Renaissance</a>, <a href=\"spotify:playlist:6zc2HFPnDWeqqsBHhYEQER\">Trecento</a>, <a href=\"spotify:playlist:5WjxMg3QfWAmDH7I2MpMoT\">Troubadour</a>, <a href=\"spotify:playlist:0K86fmE0c0SFgz9GpwhwLm\">Early Music</a>, <a href=\"spotify:playlist:2UKjnmVx8ROXrNxIAeaE7M\">Ars subtilior</a>, <a href=\"spotify:playlist:2uc2oq6wQ8ZLSPmPr4qtte\">Early Music Ensemble</a>, <a href=\"spotify:playlist:0nqJegaRD3nkCjyIwg7mry\">Trouv\u00e8re</a>, <a href=\"spotify:playlist:0AVJ1UKXMQf244cvu4np0k\">Minnesang</a>, <a href=\"spotify:playlist:7b3qwPS9RTygJC5H8DPfGl\">Italian Renaissance</a> or <a href=\"spotify:playlist:511MabrP35Zp3tqYh2G4iJ\">Medieval Ensemble</a>; or much more at <a href=\"http://everynoise.com\">everynoise.com</a>.",
+  "description": "See also <a href=\"spotify:playlist:2z6FM4scrQ5lpsKId0jeki\">Intro</a>, <a href=\"spotify:playlist:1Z5SNtd1IWRRw3ESZfJZKe\">Pulse</a>, <a href=\"spotify:playlist:4pVcfz3aYYdCTMdwGHwJJs\">\u2640Filter</a> or <a href=\"spotify:playlist:6idjuynJ3Rgy9RIHaGKDAF\">2022</a>; or the Sounds of <a href=\"spotify:playlist:0evPZ6WIgSKYY2gnlfXIdA\">Renaissance</a>, <a href=\"spotify:playlist:6zc2HFPnDWeqqsBHhYEQER\">Trecento</a>, <a href=\"spotify:playlist:5WjxMg3QfWAmDH7I2MpMoT\">Troubadour</a>, <a href=\"spotify:playlist:2uc2oq6wQ8ZLSPmPr4qtte\">Early Music Ensemble</a>, <a href=\"spotify:playlist:0K86fmE0c0SFgz9GpwhwLm\">Early Music</a>, <a href=\"spotify:playlist:2UKjnmVx8ROXrNxIAeaE7M\">Ars subtilior</a>, <a href=\"spotify:playlist:0nqJegaRD3nkCjyIwg7mry\">Trouv\u00e8re</a>, <a href=\"spotify:playlist:0AVJ1UKXMQf244cvu4np0k\">Minnesang</a>, <a href=\"spotify:playlist:7b3qwPS9RTygJC5H8DPfGl\">Italian Renaissance</a> or <a href=\"spotify:playlist:511MabrP35Zp3tqYh2G4iJ\">Medieval Ensemble</a>; or much more at <a href=\"http://everynoise.com\">everynoise.com</a>.",
   "name": "The Sound of Medieval",
   "tracks": [
     {
@@ -4676,6 +4676,28 @@
       "duration_ms": 261660,
       "name": "Credo",
       "url": "https://open.spotify.com/track/0hCb60xlrP9u5Wand9jZWV"
+    },
+    {
+      "album": {
+        "name": "And the Sun Darkened: Music for Passiontide",
+        "url": "https://open.spotify.com/album/1apTqzWUjV9UaZm0znEqsA"
+      },
+      "artists": [
+        {
+          "name": "Loyset Comp\u00e8re",
+          "url": "https://open.spotify.com/artist/2jhNPQyrkPfW29fbnbEbgN"
+        },
+        {
+          "name": "New York Polyphony",
+          "url": "https://open.spotify.com/artist/6D34maQG535Jk9U2UzuMmz"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369400,
+      "name": "Crux triumphans",
+      "url": "https://open.spotify.com/track/6N34LW1EiCyHVFrKBQTdXp"
     },
     {
       "album": {
@@ -9664,6 +9686,58 @@
       "duration_ms": 222866,
       "name": "Lambardi: Toccata e gagliarda",
       "url": "https://open.spotify.com/track/1M2s3IqLcABhrgG9YeRwQB"
+    },
+    {
+      "album": {
+        "name": "Palestrina Choral Works",
+        "url": "https://open.spotify.com/album/7nxevVIeNtgBoeuezpoKy7"
+      },
+      "artists": [
+        {
+          "name": "Giovanni Pierluigi da Palestrina",
+          "url": "https://open.spotify.com/artist/0BS8IrFmvK1tXenMULjwem"
+        },
+        {
+          "name": "Dominique Vellard",
+          "url": "https://open.spotify.com/artist/7163RRfcsqPuQRplJ6PMQK"
+        },
+        {
+          "name": "Arlette Steyer",
+          "url": "https://open.spotify.com/artist/2olRnbf7RAeK4sQYf6IxK2"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456133,
+      "name": "Lamentations for Holy Saturday (3-8 Voices): Lectio I",
+      "url": "https://open.spotify.com/track/6M4y9IG8fYXiwvpoGrSTsq"
+    },
+    {
+      "album": {
+        "name": "Palestrina Choral Works",
+        "url": "https://open.spotify.com/album/7nxevVIeNtgBoeuezpoKy7"
+      },
+      "artists": [
+        {
+          "name": "Giovanni Pierluigi da Palestrina",
+          "url": "https://open.spotify.com/artist/0BS8IrFmvK1tXenMULjwem"
+        },
+        {
+          "name": "Dominique Vellard",
+          "url": "https://open.spotify.com/artist/7163RRfcsqPuQRplJ6PMQK"
+        },
+        {
+          "name": "Arlette Steyer",
+          "url": "https://open.spotify.com/artist/2olRnbf7RAeK4sQYf6IxK2"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 464960,
+      "name": "Lamentations for Holy Saturday (3-8 Voices): Lectio II",
+      "url": "https://open.spotify.com/track/1TXNn3lIZpj6xLDwvggmun"
     },
     {
       "album": {
@@ -17081,6 +17155,32 @@
     },
     {
       "album": {
+        "name": "Monastic Chant - 12th & 13th Century European Sacred Music",
+        "url": "https://open.spotify.com/album/2hm5P00Tydev5ViF7JkpUy"
+      },
+      "artists": [
+        {
+          "name": "Philippe Le Chancelier",
+          "url": "https://open.spotify.com/artist/21X7pTmINCpnkWvJXSwDGE"
+        },
+        {
+          "name": "Theatre Of Voices",
+          "url": "https://open.spotify.com/artist/4XFASxAPCD5LZ6omKGJI56"
+        },
+        {
+          "name": "Paul Hillier",
+          "url": "https://open.spotify.com/artist/5pECl3lGqlL7VfZXxrkAlF"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197693,
+      "name": "Ve mundo",
+      "url": "https://open.spotify.com/track/5AY9Ki94Or7KNPUZjy8Ocs"
+    },
+    {
+      "album": {
         "name": "Dunstable: Quam Pulchra Es / Veni Sancte Spiritus / Mass Movements",
         "url": "https://open.spotify.com/album/42dF8lsWScG35n44SXsOdR"
       },
@@ -17412,6 +17512,36 @@
       "duration_ms": 200066,
       "name": "Vos quied admiramini - Gratissima viginis species (Arr. Harre-Jones)",
       "url": "https://open.spotify.com/track/177fudOuHDU2MWhpIk64Qh"
+    },
+    {
+      "album": {
+        "name": "Vous ou la mort (Flemish Courtly Love Songs)",
+        "url": "https://open.spotify.com/album/1hach6CDokxkrMXsC2xuSv"
+      },
+      "artists": [
+        {
+          "name": "Loyset Comp\u00e8re",
+          "url": "https://open.spotify.com/artist/2jhNPQyrkPfW29fbnbEbgN"
+        },
+        {
+          "name": "Jan Caals",
+          "url": "https://open.spotify.com/artist/6iNYBfdeknO5o1Ixh8ouac"
+        },
+        {
+          "name": "Currende Consort",
+          "url": "https://open.spotify.com/artist/6JROqU5kcCJUztMn4bIrYw"
+        },
+        {
+          "name": "Erik van Nevel",
+          "url": "https://open.spotify.com/artist/3OhAgEsQtMLYWpAlT230ZO"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251346,
+      "name": "Vous ne me faites morir",
+      "url": "https://open.spotify.com/track/1xNyWHmUD7TevlNrmYNXrk"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx80ckNwI92.md) - [plain]
 
 > The future of African Indie and Alternative
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,258 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,265 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx80ckNwI92.md) - [plain]
 | 26 | [Vanity](https://open.spotify.com/track/4CiNVnqNQX05t0e4IWwVO1) | [Kade Spear](https://open.spotify.com/artist/6yyrDjt9pJEIWsIamkw60i) | [Vanity](https://open.spotify.com/album/1svaG1pydrkav2LDzMiFzb) | 2:47 |
 | 27 | [Try](https://open.spotify.com/track/4Zm8CIL9MxVyBQWSpLp5Ia) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Try](https://open.spotify.com/album/3txzhFYWBkCMkJR8dQcfe8) | 3:44 |
 | 28 | [waiting room\~](https://open.spotify.com/track/1qtnkooyf2Q7GNAK6w3sQb) | [Corbon Amodio](https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ) | [waiting room\~](https://open.spotify.com/album/0skQkcopAyXvozBn4nzzzx) | 2:37 |
-| 29 | [Numbers](https://open.spotify.com/track/2BR3axG2HyUqRgeND9Ufv2) | [Petite Noir](https://open.spotify.com/artist/4dGwtd1FYag1VY1vaR1U8y) | [Numbers](https://open.spotify.com/album/50i2QAMZyvMyEzOhy8M7bB) | 3:07 |
+| 29 | [Numbers](https://open.spotify.com/track/3GCwEJZBpdu7AUtBxlz70r) | [Petite Noir](https://open.spotify.com/artist/4dGwtd1FYag1VY1vaR1U8y) | [MotherFather](https://open.spotify.com/album/6G76PblQXf5i8JB7mC0mv3) | 3:07 |
 | 30 | [What's the Vibe](https://open.spotify.com/track/0FKkw6p2t57VZp8Ae8Gc1V) | [Sketchy Bongo](https://open.spotify.com/artist/6da0IfHaN561OqJxQ3JyKh) | [What's the Vibe](https://open.spotify.com/album/2vdcIrHOACvTep8tI9qY2K) | 2:30 |
-| 31 | [Simple Things](https://open.spotify.com/track/75hLIkx0MpoWDc8LJfOsPR) | [Petite Noir](https://open.spotify.com/artist/4dGwtd1FYag1VY1vaR1U8y), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [Simple Things](https://open.spotify.com/album/02ksay19qLiCSc2zWBGJsj) | 3:17 |
+| 31 | [Simple Things \(feat\. Theo Croker\)](https://open.spotify.com/track/12aouEbQ2CAzBg7yc4IYVf) | [Petite Noir](https://open.spotify.com/artist/4dGwtd1FYag1VY1vaR1U8y), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [MotherFather](https://open.spotify.com/album/6G76PblQXf5i8JB7mC0mv3) | 3:17 |
 | 32 | [Le Nna](https://open.spotify.com/track/0iITdLlvevSpWBiURJirKN) | [Espacio Dios](https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid) | [The First Kind](https://open.spotify.com/album/2mg5e4VrqplBIt4COvJngx) | 2:35 |
 | 33 | [Levels](https://open.spotify.com/track/0TalH2EQxBFEOJGNMk8Edm) | [Jimmy Nevis](https://open.spotify.com/artist/5qfN4DJ457Fvmu5z2DwUx3), [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE), [Hanna](https://open.spotify.com/artist/0s7581IIWDf3wgPuifQeMB) | [Things We Don't Talk About](https://open.spotify.com/album/6b10CoMCksM7uJYa4zOykU) | 3:49 |
 | 34 | [Lie/Idle](https://open.spotify.com/track/3RkdAeulXA3SWvX4yXwMrg) | [capespring.](https://open.spotify.com/artist/2VF53usTu5Chbp1fmxjUeS) | [Lie/Idle](https://open.spotify.com/album/691wG47mH7bj6zFtNe9qjS) | 2:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx80ckNwI92.md) - [plain]
 | 49 | [Canadian Tuxedo](https://open.spotify.com/track/0jWOcfI6BIjeJswYXKXVhv) | [Tano Jackson](https://open.spotify.com/artist/3mm6gcWlR8bu5jtddiuRwa), [Øbed](https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9) | [Canadian Tuxedo](https://open.spotify.com/album/5LhBwvU9Yo6TO0HuYCUSCg) | 3:10 |
 | 50 | [Hello Lady](https://open.spotify.com/track/4zqe6jCp2UmN8OVOgSt9U2) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Hello Lady](https://open.spotify.com/album/2IJt9NcgSGvdj37aQ9XsCD) | 3:25 |
 
-Snapshot ID: `MTY4MTQ0MjQ5OCwwMDAwMDAwMDYzNWM4Y2IzYjAxNWQ4MzExMTM4OWU0MWVkN2Q3MjFl`
+Snapshot ID: `MTY4MTQ0MjQ5OCwwMDAwMDAwMDQ0Mjk2MzkzYjMwZDVmNmU5NDA3N2FjODk2YmRhYjFm`

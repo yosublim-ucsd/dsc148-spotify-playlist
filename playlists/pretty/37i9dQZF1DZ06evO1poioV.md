@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1poioV.md) - [plain]
 
 > This is Brandi Carlile\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,852 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,888 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1poioV.md) - [plain]
 | 10 | [Right on Time](https://open.spotify.com/track/5i4WgW0TL9VSosy73Q3Ttv) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 3:05 |
 | 11 | [Take Me Home, Country Roads](https://open.spotify.com/track/154t1fkfSU7zyJojSN6gvR) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Take Me Home, Country Roads](https://open.spotify.com/album/4hL63mh3FYiIQp35YAKNoo) | 3:05 |
 | 12 | [Highwomen](https://open.spotify.com/track/0CTNLJMN9dMG4cl5qgsZSv) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN), [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [The Highwomen](https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl) | 3:32 |
-| 13 | [The Eye](https://open.spotify.com/track/0Plf9mewMoYkwEvncCjfxS) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [The Firewatcher's Daughter](https://open.spotify.com/album/5ZpxRLVRkCZ2BXXW1KYbTB) | 3:31 |
-| 14 | [Carried Me With You](https://open.spotify.com/track/0HL3y3bsKSARBSP0qaImwb) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Onward \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5GVC60ITCVDwfUGjblfsst) | 3:33 |
+| 13 | [Carried Me With You](https://open.spotify.com/track/0HL3y3bsKSARBSP0qaImwb) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Onward \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5GVC60ITCVDwfUGjblfsst) | 3:33 |
+| 14 | [The Eye](https://open.spotify.com/track/0Plf9mewMoYkwEvncCjfxS) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [The Firewatcher's Daughter](https://open.spotify.com/album/5ZpxRLVRkCZ2BXXW1KYbTB) | 3:31 |
 | 15 | [The Joke](https://open.spotify.com/track/18k8IlS52uxRWObykDUZFG) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By The Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:39 |
 | 16 | [How \(feat\. Brandi Carlile\)](https://open.spotify.com/track/171xo7JC4bf7vqFmjF88M8) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 3:44 |
 | 17 | [We Don’t Know We’re Living \(w/ Brandi Carlile & Joy Oladokun\)](https://open.spotify.com/track/67whVnjuQPRV27BE4lbqwI) | [Lucie Silvas](https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [We Don’t Know We’re Living \(w/ Brandi Carlile & Joy Oladokun\)](https://open.spotify.com/album/1vJ4hlzBjTPtW54msCMGb9) | 4:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1poioV.md) - [plain]
 | 49 | [Hold Out Your Hand](https://open.spotify.com/track/0xpKRzMR9x53jKSdugItan) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By The Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:22 |
 | 50 | [Old Soul](https://open.spotify.com/track/7sya6fSaMhZmcLYMckxpZm) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [The Highwomen](https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl) | 5:45 |
 
-Snapshot ID: `MjgwMjYwMzIsMDAwMDAwMDA1N2U1ZmVkMDg4ZmVhNTUyMDQwNTcxZWU3OGM4YTQzYw==`
+Snapshot ID: `MjgwMjc0MDEsMDAwMDAwMDBiZjlkYTk1ZmRlZDUzZWJlYTE1YmFjMTkyZTE2MmZhZA==`

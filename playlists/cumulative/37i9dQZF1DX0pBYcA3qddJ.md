@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-367 songs - 1 day 0 hr 38 min
+368 songs - 1 day 0 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Ghost World](https://open.spotify.com/track/4dwxdOkBE8OBXD9E6EruGv) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [5K](https://open.spotify.com/album/4vlWZZVe7ZSKYmnyp6xiI8) | 3:21 | 2023-03-30 |  |
 | [Glimpse of Us](https://open.spotify.com/track/4ewazQLXFTDC8XvCbhvtXs) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:53 | 2022-11-25 |  |
 | [Gluck: 妖精の踊り](https://open.spotify.com/track/3KCH3uAbvDwaEKdswsspgX) | [Christoph Willibald Gluck](https://open.spotify.com/artist/7vfydQ0nVBVgJ0ajs8EtRM), [Hitomi Niikura](https://open.spotify.com/artist/1JFGO7YoBFo4lzQGLXy1CR) | [鳥の歌](https://open.spotify.com/album/2WrUZcTKVmFZdbatMmx9oB) | 2:37 | 2022-10-20 | 2022-12-02 |
+| [glued to the floor](https://open.spotify.com/track/20Y7AHrMDTxzOxMfw0jCv5) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [glued to the floor](https://open.spotify.com/album/0kA1PVu4d8eMmN0kc7EL9o) | 2:18 | 2023-04-13 |  |
 | [Goldberg Variations, BWV 988: Variatio 7 a 1 ovvero 2 Clav\. Al tempo di Giga](https://open.spotify.com/track/5fzzSHwK0iFGanI4suSuCA) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Bach: Goldberg Variations \(Extended Edt.\)](https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95) | 2:20 | 2022-10-20 |  |
 | [Guess Who I Saw Today \(feat\. Gerald Clayton\) \- Duo Version](https://open.spotify.com/track/4VEOAK2Wf0HmxDfyk0r25t) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq), [Gerald Clayton](https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8) | [Guess Who I Saw Today \(Duo Version\)](https://open.spotify.com/album/2SZO6jit46DlAS8kE017FI) | 4:45 | 2023-03-09 |  |
 | [Générique de fin](https://open.spotify.com/track/4nAvEP0TxzNPiu710Dl5va) | [Gabriel Yared](https://open.spotify.com/artist/6quKdQHmx2x7FBJwLhmpmB) | [Si tu voyais son cœur \(Bande originale du film\)](https://open.spotify.com/album/5mEahbNaoYS9Mic3KcE1In) | 1:41 | 2022-10-20 |  |
@@ -287,7 +288,7 @@
 | [TO BE LOVED](https://open.spotify.com/track/2CUR2LpKhtKTa9RlDhVi2q) | [BERWYN](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR) | [TAPE 2/FOMALHAUT](https://open.spotify.com/album/640PhElbTyg4yZtb5jpWQD) | 3:09 | 2022-10-20 | 2023-03-16 |
 | [To Rage](https://open.spotify.com/track/3yYPoZq0fsQ6d5iLvraz72) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Stereo Mind Game](https://open.spotify.com/album/6xzsQpZtlqLFxmO1GeM7Cf) | 4:45 | 2023-04-06 |  |
 | [touten No.4](https://open.spotify.com/track/2iTmJTOBvoldQ980R4GlSB) | [Ayatake Ezaki](https://open.spotify.com/artist/30XTStA4lExo4PotWkoOQT) | [touten I](https://open.spotify.com/album/41LcXRuuDjV8JicIVvKUPc) | 2:59 | 2023-02-28 |  |
-| [TREE](https://open.spotify.com/track/5nW41zamR8GqKYUxvxo12d) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [TREE](https://open.spotify.com/album/3YW20Fu5fMy01J2EY4Dlav) | 4:38 | 2022-10-20 |  |
+| [TREE](https://open.spotify.com/track/5nW41zamR8GqKYUxvxo12d) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [TREE](https://open.spotify.com/album/3YW20Fu5fMy01J2EY4Dlav) | 4:38 | 2022-10-20 | 2023-04-17 |
 | [tsuru\-tsuki](https://open.spotify.com/track/1Tuq0XiJO21YcG5B9ImhGX) | [Ironomi](https://open.spotify.com/artist/62tSwHM7qLhiSDtVSf51Y5) | [Four Nocturnes](https://open.spotify.com/album/0aheGuEnQDm2C0f8tm6A3u) | 13:37 | 2023-02-28 |  |
 | [Turbines/Pigs \- Live at Bush Hall](https://open.spotify.com/track/626DiLKaEAoQfJ7YLdjcaF) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Live at Bush Hall](https://open.spotify.com/album/1w7YBHqXz6UfLrVur8JAcW) | 9:46 | 2023-03-23 |  |
 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2022-10-20 | 2022-12-14 |

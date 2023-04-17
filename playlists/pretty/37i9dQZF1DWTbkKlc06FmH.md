@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbkKlc06FmH.md) - [plain]
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,406 likes - 80 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,454 likes - 80 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,11 +55,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbkKlc06FmH.md) - [plain]
 | 45 | [F64](https://open.spotify.com/track/5DFi6D7SrYHRIgZbY5MqqE) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [F64](https://open.spotify.com/album/5SNPs8Oz8Nmhv0MA6YnJpE) | 3:24 |
 | 46 | [Comedy](https://open.spotify.com/track/5SuOikwiRyPMVoIQDJUgSV) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Comedy](https://open.spotify.com/album/41ERrwfzos93Xlf6hFBiDn) | 3:50 |
 | 47 | [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu) | 3:21 |
-| 48 | [grace](https://open.spotify.com/track/7tnYsRepXLaNhqj4xtcWP2) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [grace](https://open.spotify.com/album/0i6jJH5oVQh0KL8INSSPpu) | 4:49 |
-| 49 | [Since I Have A Lover](https://open.spotify.com/track/1qtwebmDBKPQEggSKGoSfy) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/6rnB57BMxdU6Z2TNExuPh7) | 4:42 |
+| 48 | [Fallin'](https://open.spotify.com/track/1pkK7kZtxGBoXb583vDS9E) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Fallin'](https://open.spotify.com/album/3jRxPwXTP8INLOVpmDxDxo) | 4:20 |
+| 49 | [grace](https://open.spotify.com/track/7tnYsRepXLaNhqj4xtcWP2) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [grace](https://open.spotify.com/album/0i6jJH5oVQh0KL8INSSPpu) | 4:49 |
 | 50 | [How You Feel](https://open.spotify.com/track/3LIhLCx8GJIxEgBjjliNAt) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [How You Feel](https://open.spotify.com/album/3qgty8ZFzuSYC7WNG0GOQX) | 3:03 |
 | 51 | [After Party](https://open.spotify.com/track/2eq9zlqLn7RqWkZrF85Ox4) | [Shunské G](https://open.spotify.com/artist/7nyrTOgHPowmRqSRPQML1B), [MILES WORD](https://open.spotify.com/artist/4zGeEscPCPkHGctsIivzOz) | [After Party](https://open.spotify.com/album/6Dlr3gWMOmQXTmjoS0QJFp) | 4:12 |
-| 52 | [Fallin'](https://open.spotify.com/track/1pkK7kZtxGBoXb583vDS9E) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Fallin'](https://open.spotify.com/album/3jRxPwXTP8INLOVpmDxDxo) | 4:20 |
+| 52 | [Since I Have A Lover](https://open.spotify.com/track/1qtwebmDBKPQEggSKGoSfy) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/6rnB57BMxdU6Z2TNExuPh7) | 4:42 |
 | 53 | [Take me home](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Take me home](https://open.spotify.com/album/4CykmPXyJzacASnoxR33ns) | 3:20 |
 | 54 | [Love's Train](https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Love's Train](https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR) | 5:07 |
 | 55 | [B\-Side](https://open.spotify.com/track/2DccHqTquzubziHAPZRdct) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 4:34 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbkKlc06FmH.md) - [plain]
 | 76 | [Good Care](https://open.spotify.com/track/1argqjqP7b6GjGfAGiBlF8) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O), [asiatic.wav](https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx) | [Good Care](https://open.spotify.com/album/6GE5HCTdt1M0ByOFLoXV4d) | 3:14 |
 | 77 | [The Sun Is Up Forever](https://open.spotify.com/track/4i17ViZoevssgUvRifo0V5) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [The Sun Is Up Forever](https://open.spotify.com/album/47axSNTeQ43lYBoW3simcR) | 3:44 |
 | 78 | [Curious \(feat\. Fabolous\)](https://open.spotify.com/track/3ED40EjXiD4plW6UMteKGx) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [1\(800\)HIT\-EAZY: Line 2](https://open.spotify.com/album/6KIxdiACBAewmOLM1YBPYJ) | 3:45 |
-| 79 | [Impurities](https://open.spotify.com/track/0yUpBx2Y5KwzENVCshSy3M) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Impurities](https://open.spotify.com/album/4bN7xco6FT5lDwmBcZ18tP) | 3:49 |
-| 80 | [CooCool](https://open.spotify.com/track/0C8jkmcNV7VxyHemnI917F) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [CooCool](https://open.spotify.com/album/4oPrQ3KXGrzE2DxJVnAU7F) | 4:31 |
+| 79 | [CooCool](https://open.spotify.com/track/0C8jkmcNV7VxyHemnI917F) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [CooCool](https://open.spotify.com/album/4oPrQ3KXGrzE2DxJVnAU7F) | 4:31 |
+| 80 | [Impurities](https://open.spotify.com/track/0yUpBx2Y5KwzENVCshSy3M) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Impurities](https://open.spotify.com/album/4bN7xco6FT5lDwmBcZ18tP) | 3:49 |
 
-Snapshot ID: `MTY4MTM5ODAwMCwwMDAwMDAwMGM4OWU5NjZlNWE3YmIzMTUxZDllOWQzZjUwNDAzYWQy`
+Snapshot ID: `MTY4MTM5ODAwMCwwMDAwMDAwMGQ4OGEwOTMyNjhmY2NiM2VhZTNlYTUyMWVmN2YxOTcw`

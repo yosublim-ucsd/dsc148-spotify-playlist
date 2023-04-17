@@ -1,12 +1,12 @@
 {
   "description": "Songs for lovers like you've never heard before. Cover: Muni Long",
-  "num_followers": 13633,
+  "num_followers": 13637,
   "original_name": "Spotify Singles: Love Edition",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTEwNDY0OSwwMDAwMDAwMGU1NmUwYTFlNTkzN2FmMTdiM2ZjNGFmZjVhODdjNjg5",
+  "snapshot_id": "MTY3NTEwNDY0OSwwMDAwMDAwMDA3ZTQ1NzEwZWE2NjMxMzc4M2QxY2YyYzdiZTJhZWZk",
   "tracks": [
     {
       "added_at": "2023-01-30 18:50:49",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-01-30 18:50:49",
       "album": {
-        "name": "Singles (Live From Spotify Studios NYC)",
-        "url": "https://open.spotify.com/album/2FOJBj2N8u5SX9yfOnnQNY"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Cutler",
-          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
-        }
-      ],
-      "duration_ms": 214381,
-      "name": "Summer Love - Live From Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0G080Vm22mv78YJwrsVpVu"
-    },
-    {
-      "added_at": "2023-01-30 18:50:49",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3yPPJlOdCyJVVXR7z7BmFs"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 177261,
       "name": "Watermelon Sugar (featuring Avenue Beat)",
       "url": "https://open.spotify.com/track/6pPD1k342KK4fMU6xPHufi"
+    },
+    {
+      "added_at": "2023-01-30 18:50:49",
+      "album": {
+        "name": "Singles (Live From Spotify Studios NYC)",
+        "url": "https://open.spotify.com/album/2FOJBj2N8u5SX9yfOnnQNY"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        }
+      ],
+      "duration_ms": 214381,
+      "name": "Summer Love - Live From Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0G080Vm22mv78YJwrsVpVu"
     },
     {
       "added_at": "2023-01-30 18:50:49",
@@ -672,6 +672,22 @@
       "added_at": "2023-01-30 18:50:49",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0AwgzJZxt4sf2teqdEjxwV"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Bad At Love - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/1kTugNMVMbaQep1srMua2q"
+    },
+    {
+      "added_at": "2023-01-30 18:50:49",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0IHfimWKQ6PMXKEekqHp36"
       },
       "artists": [
@@ -683,22 +699,6 @@
       "duration_ms": 221361,
       "name": "Let Me Love You - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1Ue0oCRGIs4ARyg3ucMmRJ"
-    },
-    {
-      "added_at": "2023-01-30 18:50:49",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4uwoaD00nLK3IYHMwN8Izk"
-      },
-      "artists": [
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        }
-      ],
-      "duration_ms": 205738,
-      "name": "In The Name Of Love - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/7dgURqWJNjjnKYkmlK1yUi"
     },
     {
       "added_at": "2023-01-30 18:50:49",
@@ -720,17 +720,17 @@
       "added_at": "2023-01-30 18:50:49",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0AwgzJZxt4sf2teqdEjxwV"
+        "url": "https://open.spotify.com/album/4uwoaD00nLK3IYHMwN8Izk"
       },
       "artists": [
         {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
         }
       ],
-      "duration_ms": 181000,
-      "name": "Bad At Love - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/1kTugNMVMbaQep1srMua2q"
+      "duration_ms": 205738,
+      "name": "In The Name Of Love - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7dgURqWJNjjnKYkmlK1yUi"
     },
     {
       "added_at": "2023-01-30 18:50:49",
@@ -1124,22 +1124,6 @@
       "added_at": "2023-01-30 18:50:49",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2EMazBF6QXkOSpRSVg8Pdj"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 183093,
-      "name": "Us - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/5rOI6O8olG9nobqsLzEqWZ"
-    },
-    {
-      "added_at": "2023-01-30 18:50:49",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr"
       },
       "artists": [
@@ -1151,6 +1135,22 @@
       "duration_ms": 182068,
       "name": "(You Make Me Feel Like) a Natural Woman - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/252Js3mNvVOHzeiStTUTNM"
+    },
+    {
+      "added_at": "2023-01-30 18:50:49",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2EMazBF6QXkOSpRSVg8Pdj"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 183093,
+      "name": "Us - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/5rOI6O8olG9nobqsLzEqWZ"
     },
     {
       "added_at": "2023-01-30 18:50:49",
@@ -1224,22 +1224,6 @@
       "added_at": "2023-01-30 18:50:49",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4QJIFDBNjpQ8ozKMym1nBT"
-      },
-      "artists": [
-        {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
-        }
-      ],
-      "duration_ms": 247767,
-      "name": "Shape of You - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5RMmI12HWgdBYtJHE1wEgY"
-    },
-    {
-      "added_at": "2023-01-30 18:50:49",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0MtApzOMJ5uGbMZHhgrMur"
       },
       "artists": [
@@ -1251,6 +1235,22 @@
       "duration_ms": 237693,
       "name": "Walking On A Dream - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5VxhB7hzV7rAR8YSjYPL8c"
+    },
+    {
+      "added_at": "2023-01-30 18:50:49",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4QJIFDBNjpQ8ozKMym1nBT"
+      },
+      "artists": [
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        }
+      ],
+      "duration_ms": 247767,
+      "name": "Shape of You - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5RMmI12HWgdBYtJHE1wEgY"
     },
     {
       "added_at": "2023-01-30 18:50:49",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2023-01-30 18:50:49",
       "album": {
-        "name": "8Track (Spotify Singles)",
-        "url": "https://open.spotify.com/album/22A8Pj7NfwUEGvH5QsIFae"
-      },
-      "artists": [
-        {
-          "name": "Greyson Chance",
-          "url": "https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX"
-        }
-      ],
-      "duration_ms": 192852,
-      "name": "8Track - Spotify Singles",
-      "url": "https://open.spotify.com/track/2qahKp827phhIRizQ5HVPW"
-    },
-    {
-      "added_at": "2023-01-30 18:50:49",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0AwgzJZxt4sf2teqdEjxwV"
       },
@@ -1795,18 +1779,18 @@
     {
       "added_at": "2023-01-30 18:50:49",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1aFpf6l2J6YEwtBWu8nJjz"
+        "name": "8Track (Spotify Singles)",
+        "url": "https://open.spotify.com/album/22A8Pj7NfwUEGvH5QsIFae"
       },
       "artists": [
         {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+          "name": "Greyson Chance",
+          "url": "https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX"
         }
       ],
-      "duration_ms": 221100,
-      "name": "Worst Of You - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/6XFNcVzKttxux0LJDEVXRJ"
+      "duration_ms": 192852,
+      "name": "8Track - Spotify Singles",
+      "url": "https://open.spotify.com/track/2qahKp827phhIRizQ5HVPW"
     },
     {
       "added_at": "2023-01-30 18:50:49",
@@ -1827,6 +1811,22 @@
       "duration_ms": 213800,
       "name": "Elvira (feat. The Oak Ridge Boys) - Recorded at Sound Stage Nashville",
       "url": "https://open.spotify.com/track/4XmLGH5lm3ofjbtZTI5dAm"
+    },
+    {
+      "added_at": "2023-01-30 18:50:49",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1aFpf6l2J6YEwtBWu8nJjz"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 221100,
+      "name": "Worst Of You - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/6XFNcVzKttxux0LJDEVXRJ"
     },
     {
       "added_at": "2023-01-30 18:50:49",
@@ -2008,22 +2008,6 @@
       "added_at": "2023-01-30 18:50:49",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3Jee64Z2Wkkj9joT4qHT1l"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 255553,
-      "name": "Better Place - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/61YvXZaJ3r5P0ZLSmSjQjU"
-    },
-    {
-      "added_at": "2023-01-30 18:50:49",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/10hkWR17NEvncSn3w1sYPz"
       },
       "artists": [
@@ -2040,17 +2024,33 @@
       "added_at": "2023-01-30 18:50:49",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S"
+        "url": "https://open.spotify.com/album/3Jee64Z2Wkkj9joT4qHT1l"
       },
       "artists": [
         {
-          "name": "Lennon Stella",
-          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
         }
       ],
-      "duration_ms": 158378,
-      "name": "Fear Of Being Alone - Alternate Version",
-      "url": "https://open.spotify.com/track/7aNtmcPpreJpoSpLWwa5Ef"
+      "duration_ms": 255553,
+      "name": "Better Place - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/61YvXZaJ3r5P0ZLSmSjQjU"
+    },
+    {
+      "added_at": "2023-01-30 18:50:49",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6w7pl7sOuPf7Kbe1bM4ADK"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "duration_ms": 212448,
+      "name": "I Can't Stop Thinking About You - Recorded At Spotfiy Studios NYC",
+      "url": "https://open.spotify.com/track/68xwAt1XAwQKSXksHReESE"
     }
   ],
   "unique_name": "Spotify Singles: Love Edition",

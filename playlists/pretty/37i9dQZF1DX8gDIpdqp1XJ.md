@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 864,007 likes - 99 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 864,427 likes - 99 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 23 | [Avalanche Of Love \(feat\. Sampa the Great\)](https://open.spotify.com/track/20yvPj3wzqoV5wvdkj89lj) | [WITCH](https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Avalanche of Love \(feat\. Sampa the Great\)](https://open.spotify.com/album/7JSj5PDFnh9x6DevquJxep) | 3:55 |
 | 24 | [Wings Of Time \- From the Motion Picture Dungeons & Dragons: Honor Among Thieves](https://open.spotify.com/track/6FzhHrUtyl7jWFccWxNFSS) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Wings Of Time \(From the Motion Picture Dungeons & Dragons: Honor Among Thieves\)](https://open.spotify.com/album/65pBo4TdEz2AaxENDqw3qZ) | 2:48 |
 | 25 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 |
-| 26 | [Afterlife](https://open.spotify.com/track/4RHjB7f6wc1mkIHno5bsNG) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Afterlife](https://open.spotify.com/album/7sHDo7EBwVqJXaXOYAIEhB) | 3:46 |
+| 26 | [Afterlife](https://open.spotify.com/track/5XfG0OjDoHFAOOBtPcSmX8) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Exotico](https://open.spotify.com/album/4rPbXiutTsGBMnkW9KESZQ) | 3:46 |
 | 27 | [Late Riser](https://open.spotify.com/track/470eRO1gcvW3zVf3HMlKTQ) | [Okey Dokey](https://open.spotify.com/artist/3hSFS64223jyO9Ck66rLOf) | [Late Riser](https://open.spotify.com/album/7sDSRMs5TsaMdJa4e8PyAl) | 4:10 |
 | 28 | [Dibujos De Mi Alma](https://open.spotify.com/track/32c15DJj92CagqUmp7idZ3) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Dibujos De Mi Alma](https://open.spotify.com/album/3KoomUMVp4pOCZg8YIg58l) | 4:12 |
 | 29 | [sAy sOMETHINg](https://open.spotify.com/track/1G7wqLzQQ3tveTYHcO5uVN) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Let’s Start Here.](https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK) | 3:32 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 98 | [cloud castle](https://open.spotify.com/track/6cSkQRxoJt6FHGrWVIGDTJ) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [jams EP](https://open.spotify.com/album/0qecSxB8NZ4ga9s9FqkboY) | 1:03 |
 | 99 | [Endless Summer](https://open.spotify.com/track/3RH7Vg6mLvxCYmQa9el2tV) | [Jack River](https://open.spotify.com/artist/4xrDCETyApzUQ6xzcc6QtS), [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Endless Summer](https://open.spotify.com/album/6QZnFtNZshIg5PeKFgwNP8) | 3:02 |
 
-Snapshot ID: `MTY4MTQ0NDg2MCwwMDAwMDAwMDQxNzVlNTlkNWRjZTBlYTNmNzhiODFjMGYxNmNlNTk4`
+Snapshot ID: `MTY4MTQ0NDg2MCwwMDAwMDAwMGNkYjJkZjY1MzhjNzk2MWY2MDhkZDJiYzY2OTI1NDI1`

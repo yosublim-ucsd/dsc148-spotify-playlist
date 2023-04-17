@@ -4,7 +4,7 @@
 
 > Press play and enjoy a relaxing meal\. Easy!
 
-242 songs - 14 hr 18 min
+243 songs - 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Have A Little Faith In Me](https://open.spotify.com/track/6CC7m07iUQA2oKr2Ky4gRl) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Have A Little Faith In Me](https://open.spotify.com/album/5tUKs4B9KY6Yd5qSiyvENz) | 3:17 | 2022-07-08 |  |
 | [Head And Heart On Fire](https://open.spotify.com/track/0p4j657L1sMElovvsUlyiD) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Apart](https://open.spotify.com/album/0x7mfCEXV2oWxFabJlD3uj) | 2:35 | 2022-07-22 |  |
 | [Head And Heart On Fire](https://open.spotify.com/track/4rqe64hyIfoMfiBcvVZqfT) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Head And Heart On Fire](https://open.spotify.com/album/5BVGCXvrNere2MrR5QbWVK) | 2:35 | 2021-11-05 | 2022-07-29 |
+| [Heading for Home \(feat\. John Legend\)](https://open.spotify.com/track/0LfxVKa6cf6HN5htCm9V89) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Heading for Home \(feat\. John Legend\)](https://open.spotify.com/album/7hQrKIVnV7JTDXP88O5VZF) | 4:22 | 2023-04-14 |  |
 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 | 2022-07-22 | 2023-01-14 |
 | [Here Comes The River](https://open.spotify.com/track/1bkmxox97PzwqGCEaFuFLD) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Wave](https://open.spotify.com/album/4sgJYX3we1RoranerDs8ph) | 4:13 | 2021-11-05 | 2022-06-29 |
 | [Hold Us Together \- From the Disney+ Original Motion Picture "Safety"](https://open.spotify.com/track/6731YdP19CJBKlSaJNBAK0) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Hold Us Together \(From the Disney+ Original Motion Picture "Safety"\)](https://open.spotify.com/album/0gRuyPMadbwQ0huqVsU91b) | 5:13 | 2021-11-05 | 2022-03-19 |
@@ -193,7 +194,7 @@
 | [Soldiers](https://open.spotify.com/track/7BwuuLN0Fcvd8OSMFw4cd9) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [Soldiers](https://open.spotify.com/album/5Ec2cine5I7z9tUjKnqyhC) | 3:01 | 2021-11-05 | 2022-07-29 |
 | [Somebody \- Acoustic](https://open.spotify.com/track/4uY3I4GYC1NfonzhQZuMax) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Somebody \(Acoustic\)](https://open.spotify.com/album/5yj17bTyrxIP9zpBc12WTh) | 2:48 | 2022-03-18 | 2022-07-29 |
 | [Someone Like You \(feat\. Joy Oladokun\)](https://open.spotify.com/track/0hiHNxqKGf3GZgVTIOAiiK) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 3:06 | 2021-11-05 |  |
-| [Somewhere Only We Know](https://open.spotify.com/track/2g5HVcE4OCp9SZybPEWzny) | [Miki Ratsula](https://open.spotify.com/artist/3Yq0Ww7oAbgxcoOxthlS30) | [Somewhere Only We Know](https://open.spotify.com/album/6xOnP1PFgnX5x2GxL9VoOf) | 3:20 | 2022-07-22 |  |
+| [Somewhere Only We Know](https://open.spotify.com/track/2g5HVcE4OCp9SZybPEWzny) | [Miki Ratsula](https://open.spotify.com/artist/3Yq0Ww7oAbgxcoOxthlS30) | [Somewhere Only We Know](https://open.spotify.com/album/6xOnP1PFgnX5x2GxL9VoOf) | 3:20 | 2022-07-22 | 2023-04-17 |
 | [Somewhere Only We Know](https://open.spotify.com/track/6Jk0TEVPYMKlDIr6TjH4hc) | [Miki Ratsula](https://open.spotify.com/artist/3Yq0Ww7oAbgxcoOxthlS30) | [Somewhere Only We Know](https://open.spotify.com/album/24rNOwKIshgOd8oTkycEsG) | 3:20 | 2022-04-19 | 2022-07-29 |
 | [Spirit](https://open.spotify.com/track/2vEJRouRvUxL7WXhX6WNSn) | [Tim Baker](https://open.spotify.com/artist/2peeSULgQ6AFn3kHzvWQTq) | [Forever Overhead](https://open.spotify.com/album/1jD5I8iDt4S9RfxZQZ72xM) | 4:58 | 2021-11-05 | 2022-07-29 |
 | [Stay Down](https://open.spotify.com/track/6GAAVgG5Lrxv6iBkr9GNf0) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Passwords](https://open.spotify.com/album/39GIa1tnCFCvvb3wBqMFiZ) | 3:20 | 2022-04-19 | 2022-04-21 |

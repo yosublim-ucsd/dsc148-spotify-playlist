@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover:  <a href="https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV?si=NzDdIWGSQ6OemBh7OewpSA"> Kwengface</a> and  <a href="https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW?si=BgcFwHFeRkeVhJ\_2IvUyfg"> Boj</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,781 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,849 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

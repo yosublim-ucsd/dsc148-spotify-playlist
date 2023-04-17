@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The hottest tunes in rock\. Crank it up! Cover: Greta Van Fleet
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,801 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,814 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [72 Seasons](https://open.spotify.com/track/6txhb14PWs9yrkTgR2jnU4) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/5vFa10TvQUWpEv9OkVBatc) | 7:39 |
+| 1 | [72 Seasons](https://open.spotify.com/track/4poeu6nUr4UQo1RXpp29Js) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 7:39 |
 | 2 | [Meeting The Master](https://open.spotify.com/track/6RuNa2kdO6HFq7QznOfl7C) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Meeting The Master](https://open.spotify.com/album/2KDIAu0OvfsRAcjAnknNUu) | 5:12 |
 | 3 | [Lady Of The Lake](https://open.spotify.com/track/0dO4yJPnKN7BreiWnwTgXs) | [Crown Lands](https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr) | [Fearless](https://open.spotify.com/album/7pksbj88zVcexbacR0GfrP) | 5:06 |
 | 4 | [Hold Me Like a Grudge](https://open.spotify.com/track/7u2nN6yhi4SfFyMHLE032Q) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5mWnMYLnfcnkDOCojHW6O1) | 3:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 99 | [Patient Number 9 \(feat\. Jeff Beck\)](https://open.spotify.com/track/6kAOsnRUgp21bPiUoVZeuJ) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Patient Number 9 \(feat\. Jeff Beck\)](https://open.spotify.com/album/6ofIoMgNMIM7cvlxjWNcpN) | 7:21 |
 | 100 | [Waiting On The Sky To Change](https://open.spotify.com/track/5qMSuD0mfQVQSA0CjifBi0) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa), [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Waiting On The Sky To Change](https://open.spotify.com/album/5y9BuOtk9gPseSVOJzBTFn) | 4:04 |
 
-Snapshot ID: `MTY4MTQ0NDgwMCwwMDAwMDAwMGZjNzgzM2NkODdiYjg2ZjEzZTQzNDI5YTczNDQ1MTZk`
+Snapshot ID: `MTY4MTQ0NDgwMCwwMDAwMDAwMDFjYzUwOWQ4NGU2MDgyNjFkMTFjN2M2NDhjMDRjY2Ux`

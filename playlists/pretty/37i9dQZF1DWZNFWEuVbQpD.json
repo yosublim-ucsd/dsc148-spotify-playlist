@@ -1,12 +1,12 @@
 {
   "description": "Perch\u00e9...It\u2019s Only Rock \u2019n Roll (But We Like It)!",
-  "num_followers": 337398,
+  "num_followers": 337508,
   "original_name": "Rock: i Classici",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTUwMzYzNCwwMDAwMDAwMDczMGMyYTIxZThiYTcwYmJiNjdmYjU4Njg5Mjk0ZmU4",
+  "snapshot_id": "MTY1MTUwMzYzNCwwMDAwMDAwMDc2ZmUwYjVkNDNiOWU5OTAxMjM0NDAyMGY5OGU5MmZl",
   "tracks": [
     {
       "added_at": "2021-02-23 10:54:29",
@@ -139,6 +139,22 @@
     {
       "added_at": "2021-02-23 10:54:29",
       "album": {
+        "name": "Pendulum (Expanded Edition)",
+        "url": "https://open.spotify.com/album/372cMadhAGlNuDnc8TssqF"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 160133,
+      "name": "Have You Ever Seen The Rain",
+      "url": "https://open.spotify.com/track/2LawezPeJhN4AWuSB0GtAU"
+    },
+    {
+      "added_at": "2021-02-23 10:54:29",
+      "album": {
         "name": "Aerosmith",
         "url": "https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 250546,
       "name": "Everlong",
       "url": "https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk"
-    },
-    {
-      "added_at": "2021-02-23 10:54:29",
-      "album": {
-        "name": "Pendulum (Expanded Edition)",
-        "url": "https://open.spotify.com/album/372cMadhAGlNuDnc8TssqF"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 160133,
-      "name": "Have You Ever Seen The Rain",
-      "url": "https://open.spotify.com/track/2LawezPeJhN4AWuSB0GtAU"
     },
     {
       "added_at": "2021-02-23 10:54:29",
@@ -251,6 +251,22 @@
     {
       "added_at": "2021-02-23 10:54:29",
       "album": {
+        "name": "Willy And The Poor Boys (Expanded Edition)",
+        "url": "https://open.spotify.com/album/31q47gQszFt0CddSyMksgO"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 140773,
+      "name": "Fortunate Son",
+      "url": "https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh"
+    },
+    {
+      "added_at": "2021-02-23 10:54:29",
+      "album": {
         "name": "United",
         "url": "https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE"
       },
@@ -287,22 +303,6 @@
     {
       "added_at": "2021-02-23 10:54:29",
       "album": {
-        "name": "Reckless (30th Anniversary / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 216053,
-      "name": "Summer Of '69",
-      "url": "https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3"
-    },
-    {
-      "added_at": "2021-02-23 10:54:29",
-      "album": {
         "name": "The Razors Edge",
         "url": "https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy"
       },
@@ -319,18 +319,18 @@
     {
       "added_at": "2021-02-23 10:54:29",
       "album": {
-        "name": "Willy And The Poor Boys (Expanded Edition)",
-        "url": "https://open.spotify.com/album/31q47gQszFt0CddSyMksgO"
+        "name": "Reckless (30th Anniversary / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
       },
       "artists": [
         {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
         }
       ],
-      "duration_ms": 140773,
-      "name": "Fortunate Son",
-      "url": "https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh"
+      "duration_ms": 216053,
+      "name": "Summer Of '69",
+      "url": "https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3"
     },
     {
       "added_at": "2021-02-23 10:54:29",
@@ -607,22 +607,6 @@
     {
       "added_at": "2021-02-23 10:54:29",
       "album": {
-        "name": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
-        "url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
-      },
-      "artists": [
-        {
-          "name": "Rage Against The Machine",
-          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
-        }
-      ],
-      "duration_ms": 313573,
-      "name": "Killing In The Name",
-      "url": "https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp"
-    },
-    {
-      "added_at": "2021-02-23 10:54:29",
-      "album": {
         "name": "Appetite For Destruction",
         "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
       },
@@ -655,18 +639,18 @@
     {
       "added_at": "2021-02-23 10:54:29",
       "album": {
-        "name": "Blur (Special Edition)",
-        "url": "https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q"
+        "name": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+        "url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
       },
       "artists": [
         {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+          "name": "Rage Against The Machine",
+          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
         }
       ],
-      "duration_ms": 121160,
-      "name": "Song 2 - 2012 Remaster",
-      "url": "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM"
+      "duration_ms": 313573,
+      "name": "Killing In The Name",
+      "url": "https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp"
     },
     {
       "added_at": "2021-02-23 10:54:29",
@@ -687,18 +671,34 @@
     {
       "added_at": "2021-02-23 10:54:29",
       "album": {
-        "name": "Franz Ferdinand",
-        "url": "https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z"
+        "name": "Blur (Special Edition)",
+        "url": "https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q"
       },
       "artists": [
         {
-          "name": "Franz Ferdinand",
-          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
         }
       ],
-      "duration_ms": 237026,
-      "name": "Take Me Out",
-      "url": "https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN"
+      "duration_ms": 121160,
+      "name": "Song 2 - 2012 Remaster",
+      "url": "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM"
+    },
+    {
+      "added_at": "2021-02-23 10:54:29",
+      "album": {
+        "name": "Use Your Illusion I",
+        "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 536066,
+      "name": "November Rain",
+      "url": "https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM"
     },
     {
       "added_at": "2021-02-23 10:54:29",
@@ -719,6 +719,22 @@
     {
       "added_at": "2021-02-23 10:54:29",
       "album": {
+        "name": "Franz Ferdinand",
+        "url": "https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "duration_ms": 237026,
+      "name": "Take Me Out",
+      "url": "https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN"
+    },
+    {
+      "added_at": "2021-02-23 10:54:29",
+      "album": {
         "name": "Combat Rock (Remastered)",
         "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 188986,
       "name": "Should I Stay or Should I Go - Remastered",
       "url": "https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz"
-    },
-    {
-      "added_at": "2021-02-23 10:54:29",
-      "album": {
-        "name": "Use Your Illusion I",
-        "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 536066,
-      "name": "November Rain",
-      "url": "https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM"
     },
     {
       "added_at": "2021-02-23 10:54:29",
@@ -815,22 +815,6 @@
     {
       "added_at": "2021-02-23 10:54:29",
       "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 301920,
-      "name": "Smells Like Teen Spirit",
-      "url": "https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T"
-    },
-    {
-      "added_at": "2021-02-23 10:54:29",
-      "album": {
         "name": "Enema Of The State",
         "url": "https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 148360,
       "name": "What's My Age Again?",
       "url": "https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52"
+    },
+    {
+      "added_at": "2021-02-23 10:54:29",
+      "album": {
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 301920,
+      "name": "Smells Like Teen Spirit",
+      "url": "https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T"
     },
     {
       "added_at": "2021-02-23 10:54:29",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2021-02-23 10:54:29",
       "album": {
-        "name": "Get Born",
-        "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
-      },
-      "artists": [
-        {
-          "name": "Jet",
-          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "Are You Gonna Be My Girl",
-      "url": "https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6"
-    },
-    {
-      "added_at": "2021-02-23 10:54:29",
-      "album": {
         "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
         "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 238746,
       "name": "Another Brick in the Wall, Pt. 2",
       "url": "https://open.spotify.com/track/4gMgiXfqyzZLMhsksGmbQV"
+    },
+    {
+      "added_at": "2021-02-23 10:54:29",
+      "album": {
+        "name": "Get Born",
+        "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
+      },
+      "artists": [
+        {
+          "name": "Jet",
+          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "Are You Gonna Be My Girl",
+      "url": "https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6"
     },
     {
       "added_at": "2021-02-23 10:54:29",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2021-02-23 10:54:29",
       "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
+        "name": "Even In The Quietest Moments",
+        "url": "https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w"
       },
       "artists": [
         {
-          "name": "Alien Ant Farm",
-          "url": "https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO"
+          "name": "Supertramp",
+          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
         }
       ],
-      "duration_ms": 209266,
-      "name": "Smooth Criminal",
-      "url": "https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy"
+      "duration_ms": 248173,
+      "name": "Give A Little Bit",
+      "url": "https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G"
     },
     {
       "added_at": "2021-02-23 10:54:29",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2021-02-23 10:54:29",
       "album": {
-        "name": "Even In The Quietest Moments",
-        "url": "https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w"
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
       },
       "artists": [
         {
-          "name": "Supertramp",
-          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+          "name": "Alien Ant Farm",
+          "url": "https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO"
         }
       ],
-      "duration_ms": 248173,
-      "name": "Give A Little Bit",
-      "url": "https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G"
+      "duration_ms": 209266,
+      "name": "Smooth Criminal",
+      "url": "https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy"
     },
     {
       "added_at": "2021-02-23 10:54:29",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2021-02-23 10:54:29",
       "album": {
-        "name": "Ace of Spades (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91"
-      },
-      "artists": [
-        {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
-        }
-      ],
-      "duration_ms": 166360,
-      "name": "Ace of Spades",
-      "url": "https://open.spotify.com/track/6EPRKhUOdiFSQwGBRBbvsZ"
-    },
-    {
-      "added_at": "2021-02-23 10:54:29",
-      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 193200,
       "name": "Faith - Remastered",
       "url": "https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ"
+    },
+    {
+      "added_at": "2021-02-23 10:54:29",
+      "album": {
+        "name": "Ace of Spades (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "duration_ms": 166360,
+      "name": "Ace of Spades",
+      "url": "https://open.spotify.com/track/6EPRKhUOdiFSQwGBRBbvsZ"
     }
   ],
   "unique_name": "Rock: i Classici",

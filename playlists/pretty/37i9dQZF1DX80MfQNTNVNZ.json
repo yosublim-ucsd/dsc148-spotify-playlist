@@ -1,12 +1,12 @@
 {
   "description": "Groove-heavy, soothing tunes for the soul and R&B",
-  "num_followers": 133689,
+  "num_followers": 133848,
   "original_name": "aloe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTM5ODAwMCwwMDAwMDAwMDgyZTM5ZGZlNjkxMWUzY2RjNzhlMjYxODQ5MTdiNDg1",
+  "snapshot_id": "MTY4MTM5ODAwMCwwMDAwMDAwMDI5NGFlZTAzNmUxNWViN2FhMWZlZTg3Y2I4M2NlODA2",
   "tracks": [
     {
       "added_at": "2023-04-13 15:00:00",
@@ -511,18 +511,18 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
-        "name": "The Juice: Vol. II",
-        "url": "https://open.spotify.com/album/6q8BNcH6wkWwWC0fGoJwkS"
+        "name": "Sleep Well",
+        "url": "https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO"
       },
       "artists": [
         {
-          "name": "Emotional Oranges",
-          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
         }
       ],
-      "duration_ms": 215386,
-      "name": "West Coast Love",
-      "url": "https://open.spotify.com/track/4NFD9ea0uH0MtoC30yNYE1"
+      "duration_ms": 175875,
+      "name": "Sleep Well",
+      "url": "https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1"
     },
     {
       "added_at": "2023-04-13 15:00:00",
@@ -551,18 +551,18 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
-        "name": "There is no Neil Frances",
-        "url": "https://open.spotify.com/album/4dIcsXIElacBzTpnDo3j3M"
+        "name": "The Juice: Vol. II",
+        "url": "https://open.spotify.com/album/6q8BNcH6wkWwWC0fGoJwkS"
       },
       "artists": [
         {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
         }
       ],
-      "duration_ms": 174213,
-      "name": "dancing",
-      "url": "https://open.spotify.com/track/2blNIRZz1KKV4fAC5OgI1o"
+      "duration_ms": 215386,
+      "name": "West Coast Love",
+      "url": "https://open.spotify.com/track/4NFD9ea0uH0MtoC30yNYE1"
     },
     {
       "added_at": "2023-04-13 15:00:00",
@@ -579,6 +579,38 @@
       "duration_ms": 209188,
       "name": "3 Boys",
       "url": "https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H"
+    },
+    {
+      "added_at": "2023-04-13 15:00:00",
+      "album": {
+        "name": "There is no Neil Frances",
+        "url": "https://open.spotify.com/album/4dIcsXIElacBzTpnDo3j3M"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        }
+      ],
+      "duration_ms": 174213,
+      "name": "dancing",
+      "url": "https://open.spotify.com/track/2blNIRZz1KKV4fAC5OgI1o"
+    },
+    {
+      "added_at": "2023-04-13 15:00:00",
+      "album": {
+        "name": "Go back / friends",
+        "url": "https://open.spotify.com/album/5HTy5a54bVrCSWYYrgIoZF"
+      },
+      "artists": [
+        {
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+        }
+      ],
+      "duration_ms": 232284,
+      "name": "Go back",
+      "url": "https://open.spotify.com/track/59rg9AKIjMeYBwCR5gKIYi"
     },
     {
       "added_at": "2023-04-13 15:00:00",
@@ -603,38 +635,6 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
-        "name": "Go back / friends",
-        "url": "https://open.spotify.com/album/5HTy5a54bVrCSWYYrgIoZF"
-      },
-      "artists": [
-        {
-          "name": "iri",
-          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
-        }
-      ],
-      "duration_ms": 232284,
-      "name": "Go back",
-      "url": "https://open.spotify.com/track/59rg9AKIjMeYBwCR5gKIYi"
-    },
-    {
-      "added_at": "2023-04-13 15:00:00",
-      "album": {
-        "name": "Loving In Stereo",
-        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 182040,
-      "name": "All Of The Time",
-      "url": "https://open.spotify.com/track/2ezQq2qWhGO6J6q5JwC50d"
-    },
-    {
-      "added_at": "2023-04-13 15:00:00",
-      "album": {
         "name": "Since I Have A Lover",
         "url": "https://open.spotify.com/album/6rnB57BMxdU6Z2TNExuPh7"
       },
@@ -651,26 +651,18 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
-        "name": "Gimme (feat. Koffee & Jessie Reyez)",
-        "url": "https://open.spotify.com/album/29euLJqXMHYLi2q2OBnoQ6"
+        "name": "Loving In Stereo",
+        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
-        },
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
         }
       ],
-      "duration_ms": 172113,
-      "name": "Gimme (feat. Koffee & Jessie Reyez)",
-      "url": "https://open.spotify.com/track/2GGN92tO0UbNAYrbMbQ4bf"
+      "duration_ms": 182040,
+      "name": "All Of The Time",
+      "url": "https://open.spotify.com/track/2ezQq2qWhGO6J6q5JwC50d"
     },
     {
       "added_at": "2023-04-13 15:00:00",
@@ -727,18 +719,26 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
-        "name": "Unstoppable",
-        "url": "https://open.spotify.com/album/52zyV45viU6MxjRZe3Xr1T"
+        "name": "Gimme (feat. Koffee & Jessie Reyez)",
+        "url": "https://open.spotify.com/album/29euLJqXMHYLi2q2OBnoQ6"
       },
       "artists": [
         {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        },
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
         }
       ],
-      "duration_ms": 247805,
-      "name": "Unstoppable",
-      "url": "https://open.spotify.com/track/57OHEGx7h74VFZw1jx37cg"
+      "duration_ms": 172113,
+      "name": "Gimme (feat. Koffee & Jessie Reyez)",
+      "url": "https://open.spotify.com/track/2GGN92tO0UbNAYrbMbQ4bf"
     },
     {
       "added_at": "2023-04-13 15:00:00",
@@ -795,18 +795,18 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
-        "name": "GABRIEL",
-        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/52zyV45viU6MxjRZe3Xr1T"
       },
       "artists": [
         {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         }
       ],
-      "duration_ms": 151301,
-      "name": "GET IT",
-      "url": "https://open.spotify.com/track/4LaZ8RpIP6DIgN73bXQVlO"
+      "duration_ms": 247805,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/57OHEGx7h74VFZw1jx37cg"
     },
     {
       "added_at": "2023-04-13 15:00:00",
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
-        "name": "Sleep Well",
-        "url": "https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO"
+        "name": "Try Me",
+        "url": "https://open.spotify.com/album/1zEHQu3XSlROYTbFdmISHx"
       },
       "artists": [
         {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 175875,
-      "name": "Sleep Well",
-      "url": "https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1"
+      "duration_ms": 213933,
+      "name": "Try Me",
+      "url": "https://open.spotify.com/track/3htVhQPsTXWAkAXYRkfRSz"
     },
     {
       "added_at": "2023-04-13 15:00:00",
@@ -863,18 +863,18 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
-        "name": "Careful (From The Original Motion Picture \"Magic Mike's Last Dance\")",
-        "url": "https://open.spotify.com/album/1TzD43H8N0nGO5GRIvlDge"
+        "name": "GABRIEL",
+        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
       },
       "artists": [
         {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
         }
       ],
-      "duration_ms": 192787,
-      "name": "Careful (From The Original Motion Picture \"Magic Mike's Last Dance\")",
-      "url": "https://open.spotify.com/track/5VRVc5Cq5MbKJG5llJ8XvH"
+      "duration_ms": 151301,
+      "name": "GET IT",
+      "url": "https://open.spotify.com/track/4LaZ8RpIP6DIgN73bXQVlO"
     },
     {
       "added_at": "2023-04-13 15:00:00",
@@ -899,18 +899,18 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
-        "name": "Sunsetter",
-        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
+        "name": "Careful (From The Original Motion Picture \"Magic Mike's Last Dance\")",
+        "url": "https://open.spotify.com/album/1TzD43H8N0nGO5GRIvlDge"
       },
       "artists": [
         {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         }
       ],
-      "duration_ms": 228853,
-      "name": "Take You Higher",
-      "url": "https://open.spotify.com/track/3QtNPpwrajozNB5AORHYzP"
+      "duration_ms": 192787,
+      "name": "Careful (From The Original Motion Picture \"Magic Mike's Last Dance\")",
+      "url": "https://open.spotify.com/track/5VRVc5Cq5MbKJG5llJ8XvH"
     },
     {
       "added_at": "2023-04-13 15:00:00",
@@ -931,18 +931,18 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
-        "name": "Weightless",
-        "url": "https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp"
+        "name": "Sunsetter",
+        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
       },
       "artists": [
         {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
         }
       ],
-      "duration_ms": 242922,
-      "name": "Weightless",
-      "url": "https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd"
+      "duration_ms": 228853,
+      "name": "Take You Higher",
+      "url": "https://open.spotify.com/track/3QtNPpwrajozNB5AORHYzP"
     },
     {
       "added_at": "2023-04-13 15:00:00",
@@ -967,22 +967,18 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
-        "name": "Sometimes I Might Be Introvert",
-        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp"
       },
       "artists": [
         {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        },
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
         }
       ],
-      "duration_ms": 185600,
-      "name": "Point and Kill",
-      "url": "https://open.spotify.com/track/52y4KhkcAbYcogFg2u7UVP"
+      "duration_ms": 242922,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd"
     },
     {
       "added_at": "2023-04-13 15:00:00",
@@ -1003,18 +999,22 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
-        "name": "Try Me",
-        "url": "https://open.spotify.com/album/1zEHQu3XSlROYTbFdmISHx"
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
       },
       "artists": [
         {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
         }
       ],
-      "duration_ms": 213933,
-      "name": "Try Me",
-      "url": "https://open.spotify.com/track/3htVhQPsTXWAkAXYRkfRSz"
+      "duration_ms": 185600,
+      "name": "Point and Kill",
+      "url": "https://open.spotify.com/track/52y4KhkcAbYcogFg2u7UVP"
     },
     {
       "added_at": "2023-04-13 15:00:00",
@@ -1071,22 +1071,26 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
-        "name": "Sometimes I Might Be Introvert",
-        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
+        "name": "Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer)",
+        "url": "https://open.spotify.com/album/0rFjAGsF5UhG8hPeirWaHV"
       },
       "artists": [
         {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
         },
         {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 269413,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho"
+      "duration_ms": 249946,
+      "name": "Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer)",
+      "url": "https://open.spotify.com/track/5m9OR6G4lNt9Da6dy1xpHx"
     },
     {
       "added_at": "2023-04-13 15:00:00",
@@ -1111,26 +1115,22 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
-        "name": "Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer)",
-        "url": "https://open.spotify.com/album/0rFjAGsF5UhG8hPeirWaHV"
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
       },
       "artists": [
         {
-          "name": "Jacob Collier",
-          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         },
         {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        },
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 249946,
-      "name": "Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer)",
-      "url": "https://open.spotify.com/track/5m9OR6G4lNt9Da6dy1xpHx"
+      "duration_ms": 269413,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho"
     }
   ],
   "unique_name": "aloe",

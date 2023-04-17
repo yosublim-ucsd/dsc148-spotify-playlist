@@ -82,6 +82,24 @@
     {
       "album": {
         "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459120,
+      "name": "72 Seasons",
+      "url": "https://open.spotify.com/track/4poeu6nUr4UQo1RXpp29Js"
+    },
+    {
+      "album": {
+        "name": "72 Seasons",
         "url": "https://open.spotify.com/album/5vFa10TvQUWpEv9OkVBatc"
       },
       "artists": [
@@ -92,7 +110,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 459120,
       "name": "72 Seasons",
       "url": "https://open.spotify.com/track/6txhb14PWs9yrkTgR2jnU4"
@@ -2311,6 +2329,24 @@
     },
     {
       "album": {
+        "name": "INTELLECTUAL PROPERTY",
+        "url": "https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149194,
+      "name": "REAL SUPER DARK",
+      "url": "https://open.spotify.com/track/2YGfjeZvYJyy1BQrbsLmGr"
+    },
+    {
+      "album": {
         "name": "REAL SUPER DARK",
         "url": "https://open.spotify.com/album/7exaI7MyauQNCOqbyqU27C"
       },
@@ -2322,7 +2358,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 149194,
       "name": "REAL SUPER DARK",
       "url": "https://open.spotify.com/track/6nXtGWUzOGxfI7q5hUa6Jj"

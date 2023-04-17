@@ -1,12 +1,12 @@
 {
   "description": "\u6df1\u591c\u306e\u8aad\u66f8\u3001\u304a\u9152\u3092\u98f2\u307f\u306a\u304c\u3089\u30cd\u30c3\u30c8\u30b5\u30fc\u30d5\u30a3\u30f3 ....\u305d\u3093\u306a\u30ea\u30e9\u30c3\u30af\u30b9\u30bf\u30a4\u30e0\u306e\u304a\u4f9b\u306b\u3002",
-  "num_followers": 109027,
+  "num_followers": 109077,
   "original_name": "Midnight Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTM5ODAwMCwwMDAwMDAwMDIxNTNlYWE2NmU1ZDdmNWM3ZmQyZGQwMjNiNDE2NDhk",
+  "snapshot_id": "MTY4MTM5ODAwMCwwMDAwMDAwMGRkNzkyYWJjZThhNjY0OTdkYmFkYzg5YjlkMjVmYjU0",
   "tracks": [
     {
       "added_at": "2023-04-13 15:00:00",
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
+        "name": "Strike (Holster)",
+        "url": "https://open.spotify.com/album/1v3fDc2dJvSEKOd3hOSjAH"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 148115,
+      "name": "Strike (Holster)",
+      "url": "https://open.spotify.com/track/7iTTWHbr4tAlsRJN4m4bay"
+    },
+    {
+      "added_at": "2023-04-13 15:00:00",
+      "album": {
         "name": "Two Tens (feat. Anderson .Paak)",
         "url": "https://open.spotify.com/album/32iVvfIYkmugGRxcTlzYjr"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 152371,
       "name": "Two Tens (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL"
-    },
-    {
-      "added_at": "2023-04-13 15:00:00",
-      "album": {
-        "name": "Let Me Go",
-        "url": "https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 216524,
-      "name": "Let Me Go",
-      "url": "https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ"
     },
     {
       "added_at": "2023-04-13 15:00:00",
@@ -751,18 +751,18 @@
     {
       "added_at": "2023-04-13 15:00:00",
       "album": {
-        "name": "Strike (Holster)",
-        "url": "https://open.spotify.com/album/1v3fDc2dJvSEKOd3hOSjAH"
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D"
       },
       "artists": [
         {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         }
       ],
-      "duration_ms": 148115,
-      "name": "Strike (Holster)",
-      "url": "https://open.spotify.com/track/7iTTWHbr4tAlsRJN4m4bay"
+      "duration_ms": 216524,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ"
     },
     {
       "added_at": "2023-04-13 15:00:00",

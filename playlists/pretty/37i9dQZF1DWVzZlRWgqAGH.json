@@ -1,12 +1,12 @@
 {
   "description": "Smooth joints. Cover: Daniel Caesar",
-  "num_followers": 778601,
+  "num_followers": 778604,
   "original_name": "BUTTER",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDZmM2RhNmE3YjM4YmMxNWQyM2I3YzhhNDFmODZlNmI5",
+  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDExYTkyNDQ1Nzc4MzhkMzcxMmFiZGY3YTE3ZjA5NzNl",
   "tracks": [
     {
       "added_at": "2023-04-14 04:00:00",
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Hu Man",
+        "url": "https://open.spotify.com/album/1weDKnsUBvJMN9sdlaqC2W"
+      },
+      "artists": [
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        }
+      ],
+      "duration_ms": 203240,
+      "name": "Hu Man",
+      "url": "https://open.spotify.com/track/2ZfVt2skRwfEq1Wb3D7GmP"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "The Silhouettes Project",
         "url": "https://open.spotify.com/album/65wZziwWVCSSkYVlfmBodL"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 153028,
       "name": "MOVIN'",
       "url": "https://open.spotify.com/track/4mWTAI8wYE4HpYIgPAASpV"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Hu Man",
-        "url": "https://open.spotify.com/album/1weDKnsUBvJMN9sdlaqC2W"
-      },
-      "artists": [
-        {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
-        }
-      ],
-      "duration_ms": 203240,
-      "name": "Hu Man",
-      "url": "https://open.spotify.com/track/2ZfVt2skRwfEq1Wb3D7GmP"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Mercury",
-        "url": "https://open.spotify.com/album/3pc9LMhg8lyfpPTyywABMd"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 298160,
-      "name": "Mercury",
-      "url": "https://open.spotify.com/track/3ixe45hov7EBKXm8tYBmvX"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/7H2TlAwM0GMWeZbT3XGI0F"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 215573,
       "name": "Everything",
       "url": "https://open.spotify.com/track/3ELZG2YLGrwCVesooFyF4e"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Mercury",
+        "url": "https://open.spotify.com/album/3pc9LMhg8lyfpPTyywABMd"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 298160,
+      "name": "Mercury",
+      "url": "https://open.spotify.com/track/3ixe45hov7EBKXm8tYBmvX"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "CHERIMOYA",
-        "url": "https://open.spotify.com/album/4PrcKgbbS0rudXsXJqfyR5"
-      },
-      "artists": [
-        {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
-        }
-      ],
-      "duration_ms": 129080,
-      "name": "CHERIMOYA",
-      "url": "https://open.spotify.com/track/2dldFaASbSWz8uzz9KY2al"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "The Silhouettes Project",
         "url": "https://open.spotify.com/album/65wZziwWVCSSkYVlfmBodL"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 160506,
       "name": "For South",
       "url": "https://open.spotify.com/track/0CwV9cfbSJEdjlBseVvo4H"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "CHERIMOYA",
+        "url": "https://open.spotify.com/album/4PrcKgbbS0rudXsXJqfyR5"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        }
+      ],
+      "duration_ms": 129080,
+      "name": "CHERIMOYA",
+      "url": "https://open.spotify.com/track/2dldFaASbSWz8uzz9KY2al"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "So Sunshine",
+        "url": "https://open.spotify.com/album/3tw7ZPvVJo1DqIZvdE6cos"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 136007,
+      "name": "So",
+      "url": "https://open.spotify.com/track/3fDHHkOEw2Fr8km3T4ixYQ"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Enough",
         "url": "https://open.spotify.com/album/3EoAucVdfV60XmjBKbKMCL"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 166156,
       "name": "Enough",
       "url": "https://open.spotify.com/track/7BNvivBdgxjl80EugbEHFA"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "So Sunshine",
-        "url": "https://open.spotify.com/album/3tw7ZPvVJo1DqIZvdE6cos"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 136007,
-      "name": "So",
-      "url": "https://open.spotify.com/track/3fDHHkOEw2Fr8km3T4ixYQ"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Palace",
+        "url": "https://open.spotify.com/album/7DAjdbPM5XfV7zSVnxUGcO"
+      },
+      "artists": [
+        {
+          "name": "Tora-i",
+          "url": "https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z"
+        }
+      ],
+      "duration_ms": 152396,
+      "name": "Palace",
+      "url": "https://open.spotify.com/track/3vkgn6CpM3UHEjyCrFj73C"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Hummingbird",
         "url": "https://open.spotify.com/album/2apckYBgnWwcXC4e0OV1Vy"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 263360,
       "name": "I Love You More Than You Know (feat. Childish Gambino)",
       "url": "https://open.spotify.com/track/3xfz3yzwXhSQCSvJXoM7fY"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Palace",
-        "url": "https://open.spotify.com/album/7DAjdbPM5XfV7zSVnxUGcO"
-      },
-      "artists": [
-        {
-          "name": "Tora-i",
-          "url": "https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z"
-        }
-      ],
-      "duration_ms": 152396,
-      "name": "Palace",
-      "url": "https://open.spotify.com/track/3vkgn6CpM3UHEjyCrFj73C"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1647,26 +1647,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Adonis",
-        "url": "https://open.spotify.com/album/0rE9cJ5I2j2SpbKegSCTFW"
-      },
-      "artists": [
-        {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
-        },
-        {
-          "name": "KIRBY",
-          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
-        }
-      ],
-      "duration_ms": 219146,
-      "name": "Adonis - feat. KIRBY",
-      "url": "https://open.spotify.com/track/1Ol7rmDYnjXadnWaEvY9em"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Go! Common Classics",
         "url": "https://open.spotify.com/album/2IGKisSgNle7264UoY57vO"
       },
@@ -1683,6 +1663,26 @@
       "duration_ms": 337573,
       "name": "Love Of My Life (An Ode To Hip Hop) - Longer Album Version",
       "url": "https://open.spotify.com/track/0ieS2bue78yadTdPiyzsaO"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Adonis",
+        "url": "https://open.spotify.com/album/0rE9cJ5I2j2SpbKegSCTFW"
+      },
+      "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        },
+        {
+          "name": "KIRBY",
+          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
+        }
+      ],
+      "duration_ms": 219146,
+      "name": "Adonis - feat. KIRBY",
+      "url": "https://open.spotify.com/track/1Ol7rmDYnjXadnWaEvY9em"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1783,42 +1783,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "FORWARD",
-        "url": "https://open.spotify.com/album/3B091Vt3mViGBReaUvMUCc"
-      },
-      "artists": [
-        {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
-        }
-      ],
-      "duration_ms": 158133,
-      "name": "FAMJAM4000",
-      "url": "https://open.spotify.com/track/6FDNS9i86Il7ZeGBf7H2Aa"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Grey Doubt",
-        "url": "https://open.spotify.com/album/3UTSxCYSRe6B9MO2EtHMHW"
-      },
-      "artists": [
-        {
-          "name": "The Colours That Rise",
-          "url": "https://open.spotify.com/artist/3DQd0TSC3qhevX7nb00xCV"
-        },
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 204005,
-      "name": "Atmosphere",
-      "url": "https://open.spotify.com/track/0PWtb8aCf6vVudatSVUSst"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Means The World",
         "url": "https://open.spotify.com/album/5O0iPLncgsSWVTr5FyF2o5"
       },
@@ -1847,6 +1811,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "FORWARD",
+        "url": "https://open.spotify.com/album/3B091Vt3mViGBReaUvMUCc"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        }
+      ],
+      "duration_ms": 158133,
+      "name": "FAMJAM4000",
+      "url": "https://open.spotify.com/track/6FDNS9i86Il7ZeGBf7H2Aa"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/48GGRBVO34uMUTyCII8ZpY"
       },
@@ -1863,6 +1843,26 @@
       "duration_ms": 205846,
       "name": "Outside",
       "url": "https://open.spotify.com/track/7HUWDK8W290h5FD9G5t3eH"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Grey Doubt",
+        "url": "https://open.spotify.com/album/3UTSxCYSRe6B9MO2EtHMHW"
+      },
+      "artists": [
+        {
+          "name": "The Colours That Rise",
+          "url": "https://open.spotify.com/artist/3DQd0TSC3qhevX7nb00xCV"
+        },
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "duration_ms": 204005,
+      "name": "Atmosphere",
+      "url": "https://open.spotify.com/track/0PWtb8aCf6vVudatSVUSst"
     },
     {
       "added_at": "2023-04-14 04:00:00",

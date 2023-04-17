@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 
 > Chill to these acoustic songs from the Middle East and North Africa\. Cover: Labess.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,982 likes - 70 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,028 likes - 70 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 | 65 | [Dayman Bekheir](https://open.spotify.com/track/7oOwRp54HH0BpomwZzzvXK) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [Dayman Bekheir](https://open.spotify.com/album/683ITXoJlmiLtLv7htGRZc) | 4:06 |
 | 66 | [Malak](https://open.spotify.com/track/2yaXvRBhiJB8qTljHWnhKw) | [Luay Hijazeen](https://open.spotify.com/artist/2a1uAKszGY1wTHnbT0Y9Y8) | [Malak](https://open.spotify.com/album/0w4C0NtyNXnNjVczCx2D5o) | 3:22 |
 | 67 | [Oully Ya Sahbi](https://open.spotify.com/track/3KujYyygA5owoZZ3o8iyAE) | [Natacha Atlas](https://open.spotify.com/artist/0aVJmlOwIxTZeHzhFiFL5Y), [Sofiane Saidi](https://open.spotify.com/artist/6VnkIRZde53ai5TtkMulr4) | [Mish Maoul](https://open.spotify.com/album/00oemMx6T4Jdd86Q29vmuW) | 5:33 |
-| 68 | [Wakfa](https://open.spotify.com/track/39u6elNoM6r2ZwjHJ2q5rx) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Oumniya](https://open.spotify.com/album/6q0t1SQ8v2P0rfTG2nN9xb) | 4:50 |
-| 69 | [Keber Al Alb](https://open.spotify.com/track/2gM94Dic9ifye4kt6Kvu5U) | [Amal Murkus](https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP) | [Fattah Al Ward](https://open.spotify.com/album/140bykvPQFbs8nc48OHN7g) | 2:53 |
+| 68 | [Keber Al Alb](https://open.spotify.com/track/2gM94Dic9ifye4kt6Kvu5U) | [Amal Murkus](https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP) | [Fattah Al Ward](https://open.spotify.com/album/140bykvPQFbs8nc48OHN7g) | 2:53 |
+| 69 | [Wakfa](https://open.spotify.com/track/39u6elNoM6r2ZwjHJ2q5rx) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Oumniya](https://open.spotify.com/album/6q0t1SQ8v2P0rfTG2nN9xb) | 4:50 |
 | 70 | [Ombre de mon amant](https://open.spotify.com/track/7FhNnHOK7kdwAYtnXRFzsE) | [Michel Lambert](https://open.spotify.com/artist/6DIgXovySNbDB3K5lTtUKT), [Rima Khcheich](https://open.spotify.com/artist/7FF1EHOrIunUaaW3a79n9y), [Maarten Ornstein](https://open.spotify.com/artist/4MCO3NSa8mKwFCbxHxabJl), [Mike Fentross](https://open.spotify.com/artist/5qX8j53VqHUuxBZE5KB2qH) | [Ombre de mon amant](https://open.spotify.com/album/3yYrA1GcNIHSkMjLqyKge1) | 6:29 |
 
-Snapshot ID: `MTY1NjQxNTIxOSwwMDAwMDAwMDdlMDI4MzBhMDlkMjVjMzE2ODllNzM5YmY0ZWEyYTky`
+Snapshot ID: `MTY1NjQxNTIxOSwwMDAwMDAwMGQ4NzNiMThjYjA2OWJjOTY5MjMyMGQ5ZWUwM2Y1NTEy`

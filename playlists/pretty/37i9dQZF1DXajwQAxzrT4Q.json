@@ -1,12 +1,12 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: Kanii",
-  "num_followers": 48341,
+  "num_followers": 48463,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTY3MzYwMCwwMDAwMDAwMGI2NGRlNjcxN2RiYjVkNTIwZWIyZTFmNjcxNTk3Zjg0",
+  "snapshot_id": "MTY3OTY3MzYwMCwwMDAwMDAwMGM0YmY5N2YxMTNkNGE4MjQwNzZmYjY3Y2U5NTkxMWJl",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -573,7 +573,7 @@
       "url": "https://open.spotify.com/track/0cGwZWfdBTLWZSiATC7OXm"
     },
     {
-      "added_at": "2023-04-16 01:30:54",
+      "added_at": "2023-04-17 01:01:35",
       "album": {
         "name": "Birthday",
         "url": "https://open.spotify.com/album/3r1BJLmb0IU2HrQAVy0FXs"
@@ -739,6 +739,26 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "We Are Young (Jersey Club)",
+        "url": "https://open.spotify.com/album/56kpBfXOfkpKg3QYHKKAJj"
+      },
+      "artists": [
+        {
+          "name": "Kyle Edwards",
+          "url": "https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2"
+        },
+        {
+          "name": "DJ Smallz 732",
+          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
+        }
+      ],
+      "duration_ms": 109124,
+      "name": "We Are Young (Jersey Club)",
+      "url": "https://open.spotify.com/track/4F8JgSAhDLib5yoUoykMMZ"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Self Esteem (feat. NLE Choppa) [DJ Smallz 732 Jersey Club Remix]",
         "url": "https://open.spotify.com/album/465P41bUBc9FVsLIGWkToC"
       },
@@ -759,26 +779,6 @@
       "duration_ms": 89072,
       "name": "Self Esteem (feat. NLE Choppa) - DJ Smallz 732 Jersey Club Remix",
       "url": "https://open.spotify.com/track/45AiClrOnkqbGmQe5OEEUu"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "We Are Young (Jersey Club)",
-        "url": "https://open.spotify.com/album/56kpBfXOfkpKg3QYHKKAJj"
-      },
-      "artists": [
-        {
-          "name": "Kyle Edwards",
-          "url": "https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2"
-        },
-        {
-          "name": "DJ Smallz 732",
-          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
-        }
-      ],
-      "duration_ms": 109124,
-      "name": "We Are Young (Jersey Club)",
-      "url": "https://open.spotify.com/track/4F8JgSAhDLib5yoUoykMMZ"
     },
     {
       "added_at": "2023-03-10 05:00:00",

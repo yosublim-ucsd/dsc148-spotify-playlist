@@ -1,15 +1,15 @@
 {
   "description": "Country tracks to pump up your gaming.",
-  "num_followers": 34103,
+  "num_followers": 34271,
   "original_name": "Country Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzY4ODY1MywwMDAwMDAwMDk1MzhkYWM0MDVkMzA2OWUwMmU4Y2U2YzkxZjU4ZWVl",
+  "snapshot_id": "MTY3NzY4ODY1MywwMDAwMDAwMDg1OGIyMjJkYTdmMGVhMGM4MjAxZWIzZWY1NjI3ZGZh",
   "tracks": [
     {
-      "added_at": "2023-04-16 00:35:37",
+      "added_at": "2023-04-17 00:56:26",
       "album": {
         "name": "3 Songs At A Time Sampler",
         "url": "https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk"
@@ -389,7 +389,7 @@
       "url": "https://open.spotify.com/track/6xHI9KjUjYT0FPtGO8Mxa1"
     },
     {
-      "added_at": "2023-04-16 00:35:37",
+      "added_at": "2023-04-17 00:56:26",
       "album": {
         "name": "Memory Lane",
         "url": "https://open.spotify.com/album/4Ih4ml34xMRc32OwssN9yw"
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "California Sunrise",
+        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
+      },
+      "artists": [
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "duration_ms": 201893,
+      "name": "Dirt On My Boots",
+      "url": "https://open.spotify.com/track/7f08qp3HROTkfrtNpiYGGo"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "Chief",
         "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
       },
@@ -543,22 +559,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "California Sunrise",
-        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
-      },
-      "artists": [
-        {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
-        }
-      ],
-      "duration_ms": 201893,
-      "name": "Dirt On My Boots",
-      "url": "https://open.spotify.com/track/7f08qp3HROTkfrtNpiYGGo"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "One Thing At A Time (Sampler)",
         "url": "https://open.spotify.com/album/04VpyPCr9PQRWRRp1ecOs1"
       },
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Cars (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3Xiz5kq12VOzTw9Kun7m0f"
-      },
-      "artists": [
-        {
-          "name": "Rascal Flatts",
-          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
-        }
-      ],
-      "duration_ms": 275640,
-      "name": "Life is a Highway",
-      "url": "https://open.spotify.com/track/5gB2IrxOCX2j9bMnHKP38i"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "You Get What You Give",
         "url": "https://open.spotify.com/album/7xnimikDuIBDpLeLrjptb8"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 203173,
       "name": "Knee Deep (feat. Jimmy Buffett)",
       "url": "https://open.spotify.com/track/60IGhnH20N82dNxKnc8jDd"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Cars (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3Xiz5kq12VOzTw9Kun7m0f"
+      },
+      "artists": [
+        {
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+        }
+      ],
+      "duration_ms": 275640,
+      "name": "Life is a Highway",
+      "url": "https://open.spotify.com/track/5gB2IrxOCX2j9bMnHKP38i"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -691,18 +691,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "A ROCK",
-        "url": "https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ"
+        "name": "Barefoot Blue Jean Night",
+        "url": "https://open.spotify.com/album/4GeJssW5iLOSLOIXhLfOUJ"
       },
       "artists": [
         {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+          "name": "Jake Owen",
+          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
         }
       ],
-      "duration_ms": 217801,
-      "name": "GIVE HEAVEN SOME HELL",
-      "url": "https://open.spotify.com/track/2bVeUlOC5JjTpkQXuUUoYm"
+      "duration_ms": 167426,
+      "name": "Barefoot Blue Jean Night",
+      "url": "https://open.spotify.com/track/3ts6xK5GzfMAAriT9AIBmP"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -723,66 +723,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Barefoot Blue Jean Night",
-        "url": "https://open.spotify.com/album/4GeJssW5iLOSLOIXhLfOUJ"
+        "name": "A ROCK",
+        "url": "https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ"
       },
       "artists": [
         {
-          "name": "Jake Owen",
-          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 167426,
-      "name": "Barefoot Blue Jean Night",
-      "url": "https://open.spotify.com/track/3ts6xK5GzfMAAriT9AIBmP"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Here's To The Good Times",
-        "url": "https://open.spotify.com/album/5MH765pytbQasmDxXArTah"
-      },
-      "artists": [
-        {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
-        }
-      ],
-      "duration_ms": 208960,
-      "name": "Cruise",
-      "url": "https://open.spotify.com/track/0i5el041vd6nxrGEU8QRxy"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "This Damn Song",
-        "url": "https://open.spotify.com/album/1SnlCthXFkWWkZPzNAdqrZ"
-      },
-      "artists": [
-        {
-          "name": "Pecos & the Rooftops",
-          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "This Damn Song",
-      "url": "https://open.spotify.com/track/784cuiNXGutuO6wJgqOFWd"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "My Bar",
-        "url": "https://open.spotify.com/album/5SaPpj7mUr3Yin6oaBSnEP"
-      },
-      "artists": [
-        {
-          "name": "Priscilla Block",
-          "url": "https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1"
-        }
-      ],
-      "duration_ms": 193053,
-      "name": "My Bar",
-      "url": "https://open.spotify.com/track/3rvEUrjnl3eXXmKiKLkzRN"
+      "duration_ms": 217801,
+      "name": "GIVE HEAVEN SOME HELL",
+      "url": "https://open.spotify.com/track/2bVeUlOC5JjTpkQXuUUoYm"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -803,6 +755,54 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "Here's To The Good Times",
+        "url": "https://open.spotify.com/album/5MH765pytbQasmDxXArTah"
+      },
+      "artists": [
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        }
+      ],
+      "duration_ms": 208960,
+      "name": "Cruise",
+      "url": "https://open.spotify.com/track/0i5el041vd6nxrGEU8QRxy"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "My Bar",
+        "url": "https://open.spotify.com/album/5SaPpj7mUr3Yin6oaBSnEP"
+      },
+      "artists": [
+        {
+          "name": "Priscilla Block",
+          "url": "https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1"
+        }
+      ],
+      "duration_ms": 193053,
+      "name": "My Bar",
+      "url": "https://open.spotify.com/track/3rvEUrjnl3eXXmKiKLkzRN"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "This Damn Song",
+        "url": "https://open.spotify.com/album/1SnlCthXFkWWkZPzNAdqrZ"
+      },
+      "artists": [
+        {
+          "name": "Pecos & the Rooftops",
+          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "This Damn Song",
+      "url": "https://open.spotify.com/track/784cuiNXGutuO6wJgqOFWd"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "Wide Open",
         "url": "https://open.spotify.com/album/7k9oif0MqtQ79j8swtZRMS"
       },
@@ -817,31 +817,7 @@
       "url": "https://open.spotify.com/track/0PspNrE4MSjr1JeB4OW0jn"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "A ROCK",
-        "url": "https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        },
-        {
-          "name": "Lauren Alaina",
-          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
-        },
-        {
-          "name": "Devin Dawson",
-          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
-        }
-      ],
-      "duration_ms": 173173,
-      "name": "ONE BEER (feat. Lauren Alaina & Devin Dawson)",
-      "url": "https://open.spotify.com/track/5Y05LYM8LhnQN78GqfjSeK"
-    },
-    {
-      "added_at": "2023-04-16 00:35:37",
+      "added_at": "2023-04-17 00:56:26",
       "album": {
         "name": "Y'all Life",
         "url": "https://open.spotify.com/album/50v40WMdEdqVFy9stzuW3y"
@@ -875,6 +851,30 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "A ROCK",
+        "url": "https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        },
+        {
+          "name": "Lauren Alaina",
+          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
+        },
+        {
+          "name": "Devin Dawson",
+          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
+        }
+      ],
+      "duration_ms": 173173,
+      "name": "ONE BEER (feat. Lauren Alaina & Devin Dawson)",
+      "url": "https://open.spotify.com/track/5Y05LYM8LhnQN78GqfjSeK"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "Flower Shops (feat. Morgan Wallen)",
         "url": "https://open.spotify.com/album/5gdgH8d7W2KwkK03Ea0vpi"
       },
@@ -895,18 +895,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "One Of Them Girls",
-        "url": "https://open.spotify.com/album/42Rl6aaMTG6EgYxzjP41qp"
+        "name": "JEKYLL + HYDE",
+        "url": "https://open.spotify.com/album/12WhHcWieyHNLP0RGbRtrr"
       },
       "artists": [
         {
-          "name": "Lee Brice",
-          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
         }
       ],
-      "duration_ms": 188893,
-      "name": "One Of Them Girls",
-      "url": "https://open.spotify.com/track/14GwnOeC9qYEKEA6uOZepa"
+      "duration_ms": 205000,
+      "name": "Homegrown",
+      "url": "https://open.spotify.com/track/2kR18wsL3gvXRXdNE4dCGc"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -923,6 +923,58 @@
       "duration_ms": 191693,
       "name": "Gunpowder & Lead",
       "url": "https://open.spotify.com/track/3z1PqYwMtct2Dm4R9lhWnT"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Here's To The Good Times...This Is How We Roll",
+        "url": "https://open.spotify.com/album/0uqAyKT7oMZDFMyteJOJWI"
+      },
+      "artists": [
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        },
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 220906,
+      "name": "This Is How We Roll",
+      "url": "https://open.spotify.com/track/2TR7A4ulH9R1PNwMyd8o8U"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "One Of Them Girls",
+        "url": "https://open.spotify.com/album/42Rl6aaMTG6EgYxzjP41qp"
+      },
+      "artists": [
+        {
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+        }
+      ],
+      "duration_ms": 188893,
+      "name": "One Of Them Girls",
+      "url": "https://open.spotify.com/track/14GwnOeC9qYEKEA6uOZepa"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Raised",
+        "url": "https://open.spotify.com/album/7tjtI8UJuD7gwNW7lBesUc"
+      },
+      "artists": [
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+        }
+      ],
+      "duration_ms": 214360,
+      "name": "The Neon",
+      "url": "https://open.spotify.com/track/0DFD2I4yGUHWeul4zjMDWf"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -959,38 +1011,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Raised",
-        "url": "https://open.spotify.com/album/7tjtI8UJuD7gwNW7lBesUc"
-      },
-      "artists": [
-        {
-          "name": "Hailey Whitters",
-          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
-        }
-      ],
-      "duration_ms": 214360,
-      "name": "The Neon",
-      "url": "https://open.spotify.com/track/0DFD2I4yGUHWeul4zjMDWf"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "JEKYLL + HYDE",
-        "url": "https://open.spotify.com/album/12WhHcWieyHNLP0RGbRtrr"
-      },
-      "artists": [
-        {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Homegrown",
-      "url": "https://open.spotify.com/track/2kR18wsL3gvXRXdNE4dCGc"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "God's Country",
         "url": "https://open.spotify.com/album/5b92Q0wcU49AnhBmu3IxOx"
       },
@@ -1003,22 +1023,6 @@
       "duration_ms": 205106,
       "name": "God's Country",
       "url": "https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Dierks Bentley",
-        "url": "https://open.spotify.com/album/2yeODPn8igz9qQiitOZRyJ"
-      },
-      "artists": [
-        {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
-        }
-      ],
-      "duration_ms": 260826,
-      "name": "What Was I Thinkin'",
-      "url": "https://open.spotify.com/track/0r8iDf65NHgFgZOGLwj5r8"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1039,22 +1043,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Here's To The Good Times...This Is How We Roll",
-        "url": "https://open.spotify.com/album/0uqAyKT7oMZDFMyteJOJWI"
+        "name": "Dierks Bentley",
+        "url": "https://open.spotify.com/album/2yeODPn8igz9qQiitOZRyJ"
       },
       "artists": [
         {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
-        },
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
         }
       ],
-      "duration_ms": 220906,
-      "name": "This Is How We Roll",
-      "url": "https://open.spotify.com/track/2TR7A4ulH9R1PNwMyd8o8U"
+      "duration_ms": 260826,
+      "name": "What Was I Thinkin'",
+      "url": "https://open.spotify.com/track/0r8iDf65NHgFgZOGLwj5r8"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1071,6 +1071,22 @@
       "duration_ms": 183573,
       "name": "Hate My Heart",
       "url": "https://open.spotify.com/track/4oGCfTHN1hmXGy5mqmJVc3"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Honeysuckle & Lightning Bugs",
+        "url": "https://open.spotify.com/album/4dwNsmLLMl2F4xM5rWfHmj"
+      },
+      "artists": [
+        {
+          "name": "Blanco Brown",
+          "url": "https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i"
+        }
+      ],
+      "duration_ms": 200593,
+      "name": "The Git Up",
+      "url": "https://open.spotify.com/track/2KKijf6Ett4kmVNJze2roh"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1095,22 +1111,6 @@
       "duration_ms": 155495,
       "name": "Wasted (feat. Kodak Black & Koe Wetzel)",
       "url": "https://open.spotify.com/track/7ndDjjFDzw6Q68TmIzgHep"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Honeysuckle & Lightning Bugs",
-        "url": "https://open.spotify.com/album/4dwNsmLLMl2F4xM5rWfHmj"
-      },
-      "artists": [
-        {
-          "name": "Blanco Brown",
-          "url": "https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i"
-        }
-      ],
-      "duration_ms": 200593,
-      "name": "The Git Up",
-      "url": "https://open.spotify.com/track/2KKijf6Ett4kmVNJze2roh"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1147,26 +1147,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Beers On Me",
-        "url": "https://open.spotify.com/album/5MCXOrCsU3R1xQ3kLI4oXM"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/12ZPTkxy23YJSeMvKpY7iK"
       },
       "artists": [
         {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
         },
         {
-          "name": "BRELAND",
-          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
-        },
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 174680,
-      "name": "Beers On Me",
-      "url": "https://open.spotify.com/track/19ZzEzb4BVK1wVO4brrmZz"
+      "duration_ms": 198120,
+      "name": "Up Down",
+      "url": "https://open.spotify.com/track/1zQMvZU0A2De2oaYo3DLRE"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1187,22 +1183,26 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/12ZPTkxy23YJSeMvKpY7iK"
+        "name": "Beers On Me",
+        "url": "https://open.spotify.com/album/5MCXOrCsU3R1xQ3kLI4oXM"
       },
       "artists": [
         {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
         },
         {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          "name": "BRELAND",
+          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 198120,
-      "name": "Up Down",
-      "url": "https://open.spotify.com/track/1zQMvZU0A2De2oaYo3DLRE"
+      "duration_ms": 174680,
+      "name": "Beers On Me",
+      "url": "https://open.spotify.com/track/19ZzEzb4BVK1wVO4brrmZz"
     },
     {
       "added_at": "2023-01-13 05:00:00",

@@ -4,7 +4,7 @@
 
 > The trending country songs and viral hits you need to know\. Cover: Hailey Whitters
 
-152 songs - 8 hr 22 min
+153 songs - 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,8 @@
 | [Side Effects](https://open.spotify.com/track/7oKZnoWkLDZjsNsPxYvIWx) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp) | [Side Effects](https://open.spotify.com/album/38q9a6NcGWx8y1uu0NZgNG) | 3:11 | 2021-12-03 |  |
 | [Sleeping Alone](https://open.spotify.com/track/7Jv0DExnLwItv5yVTBWelP) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Homeland Insecurity](https://open.spotify.com/album/3zroVeqEo7fIQ55qf3A422) | 3:50 | 2022-10-11 |  |
 | [Something Like That](https://open.spotify.com/track/6leiB1fEsTnVCuPiielde5) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [A Place In The Sun](https://open.spotify.com/album/2EkJjknrgd5DeIH2x9HLjD) | 3:03 | 2022-09-14 |  |
-| [Straight and Narrow](https://open.spotify.com/track/3ZJd3PCBk8ibpO8DVlkCsF) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Straight and Narrow](https://open.spotify.com/album/3THvfv2GtFgLL45lknPgiu) | 3:19 | 2023-04-14 |  |
+| [Straight and Narrow](https://open.spotify.com/track/3ZJd3PCBk8ibpO8DVlkCsF) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Straight and Narrow](https://open.spotify.com/album/3THvfv2GtFgLL45lknPgiu) | 3:19 | 2023-04-14 | 2023-04-17 |
+| [Straight and Narrow](https://open.spotify.com/track/40vKwNlXXKUmQMGceAoEpy) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Straight and Narrow](https://open.spotify.com/album/0floBXCzvTvVMR3gXWZBav) | 3:19 | 2023-04-14 |  |
 | [Tell Your Mom](https://open.spotify.com/track/6hZ7an4nKAiqBkgM5fSCAa) | [Georgia Webster](https://open.spotify.com/artist/0SBVbPO2gePQlaDiIfaKDl) | [Tell Your Mom](https://open.spotify.com/album/4ZaGuPG5ubzLHpB9nt28Df) | 3:02 | 2021-12-03 | 2022-07-29 |
 | [Tell Your Mom](https://open.spotify.com/track/6uxGwZV2t6c7Nq2oy1MHvU) | [Georgia Webster](https://open.spotify.com/artist/0SBVbPO2gePQlaDiIfaKDl) | [Tell Your Mom](https://open.spotify.com/album/49hM7XdEYqFUlVdUGn40Fg) | 3:02 | 2022-07-25 |  |
 | [Tennessee Orange](https://open.spotify.com/track/29zZmiBDLykYYTj7RN6VhV) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Tennessee Orange](https://open.spotify.com/album/24A7V0wuRxrZb2xv0QLqZ1) | 3:43 | 2022-09-14 | 2022-12-18 |

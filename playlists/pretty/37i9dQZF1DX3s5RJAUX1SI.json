@@ -1,12 +1,12 @@
 {
   "description": "despacito que no llevamos prisa",
-  "num_followers": 46704,
+  "num_followers": 46736,
   "original_name": "tranquilito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTU2MzcyMSwwMDAwMDAwMDkzZDMxYTRjYWY3NWJlMmUzNDkxZmFjYWU4ZTdiY2Fi",
+  "snapshot_id": "MTY1OTU2MzcyMSwwMDAwMDAwMDI1MThkNDcxMzI5OTM1ZGU1NTUwOTYwNzMzNmVmMDQ3",
   "tracks": [
     {
       "added_at": "2022-08-03 16:09:42",
@@ -195,22 +195,6 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "Dos Mundos - Evoluci\u00f3n",
-        "url": "https://open.spotify.com/album/6pJmik7KjCRidOZwEqYWuy"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 188893,
-      "name": "Me Hace Tanto Bien",
-      "url": "https://open.spotify.com/track/2mDLrugtj3r6XpH3SdlLGB"
-    },
-    {
-      "added_at": "2022-08-03 16:09:42",
-      "album": {
         "name": "El Ahijado Consentido",
         "url": "https://open.spotify.com/album/35F7wwWfEZV6FSrCppyNPP"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 189346,
       "name": "Ya Me Enter\u00e9",
       "url": "https://open.spotify.com/track/4ggabbjjuHrG06SsYnqvEs"
+    },
+    {
+      "added_at": "2022-08-03 16:09:42",
+      "album": {
+        "name": "Dos Mundos - Evoluci\u00f3n",
+        "url": "https://open.spotify.com/album/6pJmik7KjCRidOZwEqYWuy"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 188893,
+      "name": "Me Hace Tanto Bien",
+      "url": "https://open.spotify.com/track/2mDLrugtj3r6XpH3SdlLGB"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -815,22 +815,18 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "Joyas Prestadas - Pop",
-        "url": "https://open.spotify.com/album/4PbG5KBpRl1ObRpMJ9oLF6"
+        "name": "Gato de Madrugada",
+        "url": "https://open.spotify.com/album/70HmvEK5xlSxwVlyHNY4Y0"
       },
       "artists": [
         {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        },
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
         }
       ],
-      "duration_ms": 253133,
-      "name": "Basta Ya - Pop",
-      "url": "https://open.spotify.com/track/726JxH4rjuSfeYjtZBKp5w"
+      "duration_ms": 244653,
+      "name": "Gato de Madrugada",
+      "url": "https://open.spotify.com/track/4rhPhB61ylNbpiZReZbK9q"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -851,18 +847,22 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "Gato de Madrugada",
-        "url": "https://open.spotify.com/album/70HmvEK5xlSxwVlyHNY4Y0"
+        "name": "Joyas Prestadas - Pop",
+        "url": "https://open.spotify.com/album/4PbG5KBpRl1ObRpMJ9oLF6"
       },
       "artists": [
         {
-          "name": "Joss Favela",
-          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        },
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
         }
       ],
-      "duration_ms": 244653,
-      "name": "Gato de Madrugada",
-      "url": "https://open.spotify.com/track/4rhPhB61ylNbpiZReZbK9q"
+      "duration_ms": 253133,
+      "name": "Basta Ya - Pop",
+      "url": "https://open.spotify.com/track/726JxH4rjuSfeYjtZBKp5w"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -939,8 +939,8 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "Positivo",
-        "url": "https://open.spotify.com/album/24eUqyJPZ39GNoQsvc7ffM"
+        "name": "En Vivo CDMX",
+        "url": "https://open.spotify.com/album/1x7UM1LXYNvVuWhZbZf9uT"
       },
       "artists": [
         {
@@ -948,9 +948,9 @@
           "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 187440,
-      "name": "Positivo - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/1YcV3zr7FTJUcoUH3H5fWT"
+      "duration_ms": 629026,
+      "name": "Popurr\u00ed Acustico - En Vivo",
+      "url": "https://open.spotify.com/track/70ze28E0ye7nGsaj7yXvh7"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "No Lo Pod\u00eda Hacer Mejor",
-        "url": "https://open.spotify.com/album/6k964PchdjqpKVlAuoYvfL"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
-        }
-      ],
-      "duration_ms": 178980,
-      "name": "No Lo Pod\u00eda Hacer Mejor",
-      "url": "https://open.spotify.com/track/0miQuUmnk0hQ0HaviDOrUA"
-    },
-    {
-      "added_at": "2022-08-03 16:09:42",
-      "album": {
         "name": "Joyas Prestadas - Pop",
         "url": "https://open.spotify.com/album/4PbG5KBpRl1ObRpMJ9oLF6"
       },
@@ -1027,8 +1011,24 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "En Vivo CDMX",
-        "url": "https://open.spotify.com/album/1x7UM1LXYNvVuWhZbZf9uT"
+        "name": "No Lo Pod\u00eda Hacer Mejor",
+        "url": "https://open.spotify.com/album/6k964PchdjqpKVlAuoYvfL"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "duration_ms": 178980,
+      "name": "No Lo Pod\u00eda Hacer Mejor",
+      "url": "https://open.spotify.com/track/0miQuUmnk0hQ0HaviDOrUA"
+    },
+    {
+      "added_at": "2022-08-03 16:09:42",
+      "album": {
+        "name": "Positivo",
+        "url": "https://open.spotify.com/album/24eUqyJPZ39GNoQsvc7ffM"
       },
       "artists": [
         {
@@ -1036,9 +1036,9 @@
           "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 629026,
-      "name": "Popurr\u00ed Acustico - En Vivo",
-      "url": "https://open.spotify.com/track/70ze28E0ye7nGsaj7yXvh7"
+      "duration_ms": 187440,
+      "name": "Positivo - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/1YcV3zr7FTJUcoUH3H5fWT"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "Si Tu Amor No Vuelve",
-        "url": "https://open.spotify.com/album/43TkMF5ZgCAoKg6Rtuqhgl"
-      },
-      "artists": [
-        {
-          "name": "Cuitla Vega",
-          "url": "https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I"
-        }
-      ],
-      "duration_ms": 231633,
-      "name": "Si Tu Amor No Vuelve",
-      "url": "https://open.spotify.com/track/00AmxTFdakYxpgEvnazsOh"
-    },
-    {
-      "added_at": "2022-08-03 16:09:42",
-      "album": {
         "name": "Si Te Pudiera Mentir",
         "url": "https://open.spotify.com/album/2h07qjmYJBW1GZUN5DUYeW"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 289565,
       "name": "Si Te Pudiera Mentir",
       "url": "https://open.spotify.com/track/3kET1UwTaKPpOZI8DyioyE"
+    },
+    {
+      "added_at": "2022-08-03 16:09:42",
+      "album": {
+        "name": "Si Tu Amor No Vuelve",
+        "url": "https://open.spotify.com/album/43TkMF5ZgCAoKg6Rtuqhgl"
+      },
+      "artists": [
+        {
+          "name": "Cuitla Vega",
+          "url": "https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I"
+        }
+      ],
+      "duration_ms": 231633,
+      "name": "Si Tu Amor No Vuelve",
+      "url": "https://open.spotify.com/track/00AmxTFdakYxpgEvnazsOh"
     },
     {
       "added_at": "2022-08-03 16:09:42",

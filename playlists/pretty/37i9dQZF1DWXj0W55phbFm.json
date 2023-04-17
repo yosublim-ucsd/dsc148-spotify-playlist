@@ -1,12 +1,12 @@
 {
   "description": "The classic trumpet players in Jazz. Cover: Miles Davis",
-  "num_followers": 29570,
+  "num_followers": 29629,
   "original_name": "Jazz Trumpet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ1NDgxNiwwMDAwMDAwMDEzMzMwYTc0ZGRkMzBlNDgwNWI1MzNmNjQzMGJkNzVm",
+  "snapshot_id": "MTY4MTQ1NDgxNiwwMDAwMDAwMDhhOGM3Y2NkYjI1MjcyNWFmZjQ2NWM0Nzc0OGZmZmEz",
   "tracks": [
     {
       "added_at": "2023-04-14 06:46:55",
@@ -947,6 +947,38 @@
     {
       "added_at": "2023-04-14 06:46:55",
       "album": {
+        "name": "Moving Picture",
+        "url": "https://open.spotify.com/album/3g6UX28wugOtBMsiIga6fh"
+      },
+      "artists": [
+        {
+          "name": "Tom Harrell",
+          "url": "https://open.spotify.com/artist/3YO63Be7QxrxqBQtgKc4Oc"
+        }
+      ],
+      "duration_ms": 312313,
+      "name": "Apple House",
+      "url": "https://open.spotify.com/track/6X797mLARJh7FngEqsDkaL"
+    },
+    {
+      "added_at": "2023-04-14 06:46:55",
+      "album": {
+        "name": "Howard McGhee: Volume 2 / Tal Farlow Quartet",
+        "url": "https://open.spotify.com/album/05EaQrsQQrLM8wmmZRapyg"
+      },
+      "artists": [
+        {
+          "name": "Howard McGhee",
+          "url": "https://open.spotify.com/artist/3z4qqrJqPWfTl9CSUNxb93"
+        }
+      ],
+      "duration_ms": 250173,
+      "name": "Tranquillity - Remastered 1998",
+      "url": "https://open.spotify.com/track/0OpBBKn1A98ReYTtspUIfX"
+    },
+    {
+      "added_at": "2023-04-14 06:46:55",
+      "album": {
         "name": "Dona Nostra",
         "url": "https://open.spotify.com/album/5ld8MkClrbCUoPIud5B80N"
       },
@@ -983,38 +1015,6 @@
     {
       "added_at": "2023-04-14 06:46:55",
       "album": {
-        "name": "Moving Picture",
-        "url": "https://open.spotify.com/album/3g6UX28wugOtBMsiIga6fh"
-      },
-      "artists": [
-        {
-          "name": "Tom Harrell",
-          "url": "https://open.spotify.com/artist/3YO63Be7QxrxqBQtgKc4Oc"
-        }
-      ],
-      "duration_ms": 312313,
-      "name": "Apple House",
-      "url": "https://open.spotify.com/track/6X797mLARJh7FngEqsDkaL"
-    },
-    {
-      "added_at": "2023-04-14 06:46:55",
-      "album": {
-        "name": "Howard McGhee: Volume 2 / Tal Farlow Quartet",
-        "url": "https://open.spotify.com/album/05EaQrsQQrLM8wmmZRapyg"
-      },
-      "artists": [
-        {
-          "name": "Howard McGhee",
-          "url": "https://open.spotify.com/artist/3z4qqrJqPWfTl9CSUNxb93"
-        }
-      ],
-      "duration_ms": 250173,
-      "name": "Tranquillity - Remastered 1998",
-      "url": "https://open.spotify.com/track/0OpBBKn1A98ReYTtspUIfX"
-    },
-    {
-      "added_at": "2023-04-14 06:46:55",
-      "album": {
         "name": "On The Dance Floor",
         "url": "https://open.spotify.com/album/6mAJVe56utc3J2yd0rTd9B"
       },
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-04-14 06:46:55",
       "album": {
-        "name": "Dizzy 100",
-        "url": "https://open.spotify.com/album/5DGcQGe6AvE5LGdYyZlHfn"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
-        }
-      ],
-      "duration_ms": 303522,
-      "name": "Con Alma",
-      "url": "https://open.spotify.com/track/3cJZT2monFlaNCgXvuDQwZ"
-    },
-    {
-      "added_at": "2023-04-14 06:46:55",
-      "album": {
         "name": "The Complete Verve Studio Sessions",
         "url": "https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2"
       },
@@ -1067,26 +1051,18 @@
     {
       "added_at": "2023-04-14 06:46:55",
       "album": {
-        "name": "Hard Talk (Live)",
-        "url": "https://open.spotify.com/album/4ChlCGT8tJgkGPX1FNpoMb"
+        "name": "Dizzy 100",
+        "url": "https://open.spotify.com/album/5DGcQGe6AvE5LGdYyZlHfn"
       },
       "artists": [
         {
-          "name": "Mal Waldron",
-          "url": "https://open.spotify.com/artist/4cP0bprQSFtZdI9QEKKZA3"
-        },
-        {
-          "name": "Manfred Schoof",
-          "url": "https://open.spotify.com/artist/4gBdaOEelc50MG1QmlACtu"
-        },
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/1BEsuwAkTQMG50TeHB5qny"
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
         }
       ],
-      "duration_ms": 363360,
-      "name": "Russian Melody",
-      "url": "https://open.spotify.com/track/0tBaZxoxjql6D3LF0sOJ0r"
+      "duration_ms": 303522,
+      "name": "Con Alma",
+      "url": "https://open.spotify.com/track/3cJZT2monFlaNCgXvuDQwZ"
     },
     {
       "added_at": "2023-04-14 06:46:55",
@@ -1111,6 +1087,30 @@
       "duration_ms": 453146,
       "name": "What Is This Thing Called Love",
       "url": "https://open.spotify.com/track/3zqVCujN4nNryzTCwLGO3G"
+    },
+    {
+      "added_at": "2023-04-14 06:46:55",
+      "album": {
+        "name": "Hard Talk (Live)",
+        "url": "https://open.spotify.com/album/4ChlCGT8tJgkGPX1FNpoMb"
+      },
+      "artists": [
+        {
+          "name": "Mal Waldron",
+          "url": "https://open.spotify.com/artist/4cP0bprQSFtZdI9QEKKZA3"
+        },
+        {
+          "name": "Manfred Schoof",
+          "url": "https://open.spotify.com/artist/4gBdaOEelc50MG1QmlACtu"
+        },
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/1BEsuwAkTQMG50TeHB5qny"
+        }
+      ],
+      "duration_ms": 363360,
+      "name": "Russian Melody",
+      "url": "https://open.spotify.com/track/0tBaZxoxjql6D3LF0sOJ0r"
     },
     {
       "added_at": "2023-04-14 06:46:55",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-04-14 06:46:55",
       "album": {
+        "name": "Little Johnny C",
+        "url": "https://open.spotify.com/album/7tvH2wvGLShosVtm0RQLJJ"
+      },
+      "artists": [
+        {
+          "name": "Johnny Coles",
+          "url": "https://open.spotify.com/artist/0RKsF1pa3v0hhEeJbt5AxV"
+        }
+      ],
+      "duration_ms": 311000,
+      "name": "Little Johnny C",
+      "url": "https://open.spotify.com/track/59dZlpqcLwgzm8IgEz1oCv"
+    },
+    {
+      "added_at": "2023-04-14 06:46:55",
+      "album": {
         "name": "Gemini II",
         "url": "https://open.spotify.com/album/3t24XQw59bKiLTFjO49vAm"
       },
@@ -1199,18 +1215,26 @@
     {
       "added_at": "2023-04-14 06:46:55",
       "album": {
-        "name": "Little Johnny C",
-        "url": "https://open.spotify.com/album/7tvH2wvGLShosVtm0RQLJJ"
+        "name": "With The Swedish All Stars Vol. 1",
+        "url": "https://open.spotify.com/album/07IYJflVPQR4TYZ3tWOcrv"
       },
       "artists": [
         {
-          "name": "Johnny Coles",
-          "url": "https://open.spotify.com/artist/0RKsF1pa3v0hhEeJbt5AxV"
+          "name": "Clifford Brown",
+          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
+        },
+        {
+          "name": "Art Farmer",
+          "url": "https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u"
+        },
+        {
+          "name": "Swedish All Stars",
+          "url": "https://open.spotify.com/artist/2IeJ4FAeqqVo02SS62DzoG"
         }
       ],
-      "duration_ms": 311000,
-      "name": "Little Johnny C",
-      "url": "https://open.spotify.com/track/59dZlpqcLwgzm8IgEz1oCv"
+      "duration_ms": 320579,
+      "name": "Stockholm Sweetnin'",
+      "url": "https://open.spotify.com/track/2HTLAtih08iTty4hT6r8bj"
     },
     {
       "added_at": "2023-04-14 06:46:55",
@@ -1243,26 +1267,18 @@
     {
       "added_at": "2023-04-14 06:46:55",
       "album": {
-        "name": "With The Swedish All Stars Vol. 1",
-        "url": "https://open.spotify.com/album/07IYJflVPQR4TYZ3tWOcrv"
+        "name": "Open Sesame (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/4WF3FMkvyd8Ogh2Hz76C9v"
       },
       "artists": [
         {
-          "name": "Clifford Brown",
-          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
-        },
-        {
-          "name": "Art Farmer",
-          "url": "https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u"
-        },
-        {
-          "name": "Swedish All Stars",
-          "url": "https://open.spotify.com/artist/2IeJ4FAeqqVo02SS62DzoG"
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
         }
       ],
-      "duration_ms": 320579,
-      "name": "Stockholm Sweetnin'",
-      "url": "https://open.spotify.com/track/2HTLAtih08iTty4hT6r8bj"
+      "duration_ms": 336266,
+      "name": "All Or Nothing At All - Remastered 2002/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/7AA3gxoDwLN8NuVfZ5NEt9"
     },
     {
       "added_at": "2023-04-14 06:46:55",
@@ -1287,22 +1303,6 @@
       "duration_ms": 192626,
       "name": "You're the Cream in My Coffee",
       "url": "https://open.spotify.com/track/7qknVmDKIi9ml9qhyatq8g"
-    },
-    {
-      "added_at": "2023-04-14 06:46:55",
-      "album": {
-        "name": "Open Sesame (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/4WF3FMkvyd8Ogh2Hz76C9v"
-      },
-      "artists": [
-        {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
-        }
-      ],
-      "duration_ms": 336266,
-      "name": "All Or Nothing At All - Remastered 2002/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/7AA3gxoDwLN8NuVfZ5NEt9"
     },
     {
       "added_at": "2023-04-14 06:46:55",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-04-14 06:46:55",
       "album": {
-        "name": "Byrd In Hand",
-        "url": "https://open.spotify.com/album/1hU1LRBWzIGkktFqskyI0a"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 509373,
-      "name": "Witchcraft - Rudy Van Gelder Edition/Remastered 2003",
-      "url": "https://open.spotify.com/track/51dXsvAZy7hsyvSuQNlai2"
-    },
-    {
-      "added_at": "2023-04-14 06:46:55",
-      "album": {
         "name": "The Happy Horns Of Clark Terry",
         "url": "https://open.spotify.com/album/3Q5uSq6wabddPquHhufrUU"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 228200,
       "name": "High Towers",
       "url": "https://open.spotify.com/track/0LU5Zh4KkdZBv0H2ehLBPc"
+    },
+    {
+      "added_at": "2023-04-14 06:46:55",
+      "album": {
+        "name": "Byrd In Hand",
+        "url": "https://open.spotify.com/album/1hU1LRBWzIGkktFqskyI0a"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 509373,
+      "name": "Witchcraft - Rudy Van Gelder Edition/Remastered 2003",
+      "url": "https://open.spotify.com/track/51dXsvAZy7hsyvSuQNlai2"
     },
     {
       "added_at": "2023-04-14 06:46:55",
@@ -1611,54 +1611,6 @@
     {
       "added_at": "2023-04-14 06:46:55",
       "album": {
-        "name": "Jazz 'Round Midnight",
-        "url": "https://open.spotify.com/album/52pUEHXKxuDGs1TkdfKefD"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        }
-      ],
-      "duration_ms": 413333,
-      "name": "You're Getting To Be A Habit With Me",
-      "url": "https://open.spotify.com/track/7KA4JQkbGTry5ZzlyRjzZN"
-    },
-    {
-      "added_at": "2023-04-14 06:46:55",
-      "album": {
-        "name": "Payton's Place",
-        "url": "https://open.spotify.com/album/0lohKc2RubArv0PbjXJYNB"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Payton",
-          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
-        }
-      ],
-      "duration_ms": 429666,
-      "name": "Concentric Circles",
-      "url": "https://open.spotify.com/track/7x2rOBlvoS4c4wkb0IQwj7"
-    },
-    {
-      "added_at": "2023-04-14 06:46:55",
-      "album": {
-        "name": "Noir en rouge (Live in Paris)",
-        "url": "https://open.spotify.com/album/0xCalRdfS1AhMvGut4YniX"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Pelt",
-          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
-        }
-      ],
-      "duration_ms": 487946,
-      "name": "Re-invention - Live in Paris",
-      "url": "https://open.spotify.com/track/428KqU3SjN3UxUe3pQoyB6"
-    },
-    {
-      "added_at": "2023-04-14 06:46:55",
-      "album": {
         "name": "Complete Recordings",
         "url": "https://open.spotify.com/album/75J4YwN6TuTTTppIKbaK2O"
       },
@@ -1679,6 +1631,54 @@
       "duration_ms": 298493,
       "name": "Embraceable You",
       "url": "https://open.spotify.com/track/6bvCNMtf3FozBg2zZOh4TP"
+    },
+    {
+      "added_at": "2023-04-14 06:46:55",
+      "album": {
+        "name": "Payton's Place",
+        "url": "https://open.spotify.com/album/0lohKc2RubArv0PbjXJYNB"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Payton",
+          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
+        }
+      ],
+      "duration_ms": 429666,
+      "name": "Concentric Circles",
+      "url": "https://open.spotify.com/track/7x2rOBlvoS4c4wkb0IQwj7"
+    },
+    {
+      "added_at": "2023-04-14 06:46:55",
+      "album": {
+        "name": "Jazz 'Round Midnight",
+        "url": "https://open.spotify.com/album/52pUEHXKxuDGs1TkdfKefD"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 413333,
+      "name": "You're Getting To Be A Habit With Me",
+      "url": "https://open.spotify.com/track/7KA4JQkbGTry5ZzlyRjzZN"
+    },
+    {
+      "added_at": "2023-04-14 06:46:55",
+      "album": {
+        "name": "Noir en rouge (Live in Paris)",
+        "url": "https://open.spotify.com/album/0xCalRdfS1AhMvGut4YniX"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Pelt",
+          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
+        }
+      ],
+      "duration_ms": 487946,
+      "name": "Re-invention - Live in Paris",
+      "url": "https://open.spotify.com/track/428KqU3SjN3UxUe3pQoyB6"
     },
     {
       "added_at": "2023-04-14 06:46:55",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2023-04-14 06:46:55",
       "album": {
-        "name": "Lotus Flower",
-        "url": "https://open.spotify.com/album/6HeQbqtJT9KkuAcW8AusZH"
-      },
-      "artists": [
-        {
-          "name": "Woody Shaw",
-          "url": "https://open.spotify.com/artist/0yvEf1tqWWPiZu4ZbjyKGs"
-        }
-      ],
-      "duration_ms": 484000,
-      "name": "Rahsan's Run",
-      "url": "https://open.spotify.com/track/4LmV4eRie8x4dNP4k3aRG4"
-    },
-    {
-      "added_at": "2023-04-14 06:46:55",
-      "album": {
         "name": "Magnetic",
         "url": "https://open.spotify.com/album/7lKQFTVYJ30NpxHhYMIA98"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 479266,
       "name": "Jacob's Ladder",
       "url": "https://open.spotify.com/track/4sdEI4KEYvzon0FkfWvuYA"
+    },
+    {
+      "added_at": "2023-04-14 06:46:55",
+      "album": {
+        "name": "Lotus Flower",
+        "url": "https://open.spotify.com/album/6HeQbqtJT9KkuAcW8AusZH"
+      },
+      "artists": [
+        {
+          "name": "Woody Shaw",
+          "url": "https://open.spotify.com/artist/0yvEf1tqWWPiZu4ZbjyKGs"
+        }
+      ],
+      "duration_ms": 484000,
+      "name": "Rahsan's Run",
+      "url": "https://open.spotify.com/track/4LmV4eRie8x4dNP4k3aRG4"
     },
     {
       "added_at": "2023-04-14 06:46:55",

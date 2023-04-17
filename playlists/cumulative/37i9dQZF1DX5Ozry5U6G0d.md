@@ -4,7 +4,7 @@
 
 > That summer sound.
 
-261 songs - 15 hr 11 min
+262 songs - 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,8 @@
 | [Goodie Bag](https://open.spotify.com/track/297rZsBEjFw9d0Gl3iBLnd) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Goodie Bag](https://open.spotify.com/album/31u58iuxrUOJeKJj4SKqOl) | 2:26 | 2019-09-05\* | 2022-05-03 |
 | [Harvest Moon](https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Pacific Standard Time](https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9) | 6:08 | 2019-09-05\* | 2022-05-03 |
 | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO) | 2:46 | 2022-04-18 |  |
-| [Heat Waves](https://open.spotify.com/track/6CDzDgIUqeDY5g8ujExx2f) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Heat Waves](https://open.spotify.com/album/69K1zrf6TkXHdYUO8n2qVi) | 3:58 | 2020-07-09 |  |
+| [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 | 2023-04-14 |  |
+| [Heat Waves](https://open.spotify.com/track/6CDzDgIUqeDY5g8ujExx2f) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Heat Waves](https://open.spotify.com/album/69K1zrf6TkXHdYUO8n2qVi) | 3:58 | 2020-07-09 | 2023-04-17 |
 | [Hey Now \(Iko Iko\)](https://open.spotify.com/track/2wlfIduuDwZiAha3auaztw) | [Alx Veliz](https://open.spotify.com/artist/17rnpuu2LApoCL4x8fObZg), [RadioClub](https://open.spotify.com/artist/55VEENeFJiaUCpKJQkHarb), [Altur Santos](https://open.spotify.com/artist/022RWmmEi2RWjL5RsOPOqR) | [Hey Now \(Iko Iko\)](https://open.spotify.com/album/2QxD1CV4r9sJmtO8ogFd5u) | 2:49 | 2022-05-13 | 2022-07-29 |
 | [Higher Ground \(feat\. Naomi Wild\)](https://open.spotify.com/track/7D0t8BHJxakSnO6EVBglc4) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Naomi Wild](https://open.spotify.com/artist/5EBlHXi71tDXnFtroEh7Rg) | [Higher Ground](https://open.spotify.com/album/4biAcaKScPV4ItYa5qUrN6) | 3:35 | 2019-09-05\* | 2022-03-28 |
 | [Higher Love](https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Higher Love](https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE) | 3:48 | 2022-04-19 |  |

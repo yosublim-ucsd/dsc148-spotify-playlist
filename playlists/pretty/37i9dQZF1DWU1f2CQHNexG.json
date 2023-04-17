@@ -1,12 +1,12 @@
 {
   "description": "Dancing to electro-pop like a robot from 1984. Cover: Depeche Mode. ",
-  "num_followers": 78156,
+  "num_followers": 78342,
   "original_name": "Synthpop Classics ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM3MTI3MCwwMDAwMDAwMGYyMTNkZTEzM2QyYzQ5NzA2Y2ZmMjk2Zjk3NTQ1Y2Uw",
+  "snapshot_id": "MTY3NTM3MTI3MCwwMDAwMDAwMGIxZWFmYzYxN2NiNTFkMjViMDY1NTIxMGJmMmRjMzMz",
   "tracks": [
     {
       "added_at": "2023-01-25 15:11:28",
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/3KuAa8Y79xlfJgYtBKbynY"
     },
     {
-      "added_at": "2023-04-16 00:08:13",
+      "added_at": "2023-04-17 01:00:12",
       "album": {
         "name": "Mistaken Identity",
         "url": "https://open.spotify.com/album/3iMwQk5yE0UDDKbLCdcxZA"
@@ -697,22 +697,6 @@
       "url": "https://open.spotify.com/track/5yR9u8QiOt8hJaddv32oo7"
     },
     {
-      "added_at": "2023-04-16 00:08:13",
-      "album": {
-        "name": "Substance",
-        "url": "https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl"
-      },
-      "artists": [
-        {
-          "name": "New Order",
-          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
-        }
-      ],
-      "duration_ms": 355066,
-      "name": "True Faith",
-      "url": "https://open.spotify.com/track/4fpxnJGDWFxjGvLJOqPPt8"
-    },
-    {
       "added_at": "2023-01-25 15:11:28",
       "album": {
         "name": "Harold F",
@@ -727,6 +711,22 @@
       "duration_ms": 180866,
       "name": "Axel F",
       "url": "https://open.spotify.com/track/2kgqupahrJpYB4r1poTXEY"
+    },
+    {
+      "added_at": "2023-04-17 01:00:12",
+      "album": {
+        "name": "Substance",
+        "url": "https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl"
+      },
+      "artists": [
+        {
+          "name": "New Order",
+          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+        }
+      ],
+      "duration_ms": 355066,
+      "name": "True Faith",
+      "url": "https://open.spotify.com/track/4fpxnJGDWFxjGvLJOqPPt8"
     },
     {
       "added_at": "2023-01-25 15:11:28",
@@ -947,6 +947,22 @@
     {
       "added_at": "2023-01-25 15:11:28",
       "album": {
+        "name": "Into the Gap (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6tcBa4XORQYZBuFCILU3tX"
+      },
+      "artists": [
+        {
+          "name": "Thompson Twins",
+          "url": "https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn"
+        }
+      ],
+      "duration_ms": 286360,
+      "name": "Hold Me Now",
+      "url": "https://open.spotify.com/track/0ELzxemxnjAasucn8Sww3m"
+    },
+    {
+      "added_at": "2023-01-25 15:11:28",
+      "album": {
         "name": "Journeys to Glory (Special Edition)",
         "url": "https://open.spotify.com/album/6SeOw1xyjKM6CbEstaGzqd"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 241320,
       "name": "I'm In Love With A German Film Star",
       "url": "https://open.spotify.com/track/7A3rywP8wA9HbL36NMnD81"
-    },
-    {
-      "added_at": "2023-01-25 15:11:28",
-      "album": {
-        "name": "Into the Gap (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6tcBa4XORQYZBuFCILU3tX"
-      },
-      "artists": [
-        {
-          "name": "Thompson Twins",
-          "url": "https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn"
-        }
-      ],
-      "duration_ms": 286360,
-      "name": "Hold Me Now",
-      "url": "https://open.spotify.com/track/0ELzxemxnjAasucn8Sww3m"
     },
     {
       "added_at": "2023-01-25 15:11:28",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2023-01-25 15:11:28",
       "album": {
+        "name": "Crash",
+        "url": "https://open.spotify.com/album/5PHV7kFMuDYufMWOy68gNx"
+      },
+      "artists": [
+        {
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
+        }
+      ],
+      "duration_ms": 265320,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/537yo062QIz16oQOgxmul3"
+    },
+    {
+      "added_at": "2023-01-25 15:11:28",
+      "album": {
         "name": "You And Me Both",
         "url": "https://open.spotify.com/album/2R2ayUdwlcamdEKFJD5BZu"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 330960,
       "name": "Wishing (If I Had a Photograph of You)",
       "url": "https://open.spotify.com/track/6bJhaEuaDpObzFOrsOejlJ"
-    },
-    {
-      "added_at": "2023-01-25 15:11:28",
-      "album": {
-        "name": "Crash",
-        "url": "https://open.spotify.com/album/5PHV7kFMuDYufMWOy68gNx"
-      },
-      "artists": [
-        {
-          "name": "The Human League",
-          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
-        }
-      ],
-      "duration_ms": 265320,
-      "name": "Human",
-      "url": "https://open.spotify.com/track/537yo062QIz16oQOgxmul3"
     },
     {
       "added_at": "2023-01-25 15:11:28",

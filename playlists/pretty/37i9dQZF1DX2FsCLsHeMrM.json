@@ -1,12 +1,12 @@
 {
   "description": "Get jiggy in the kitchen with this groovy playlist.",
-  "num_followers": 926631,
+  "num_followers": 927274,
   "original_name": "Kitchen Swagger",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTU3MDY0MywwMDAwMDAwMDI1NmM3YzIwMTg3YTAzYmQ0ODExOTBlMDI1NmIyZDZh",
+  "snapshot_id": "MTY3OTU3MDY0MywwMDAwMDAwMDk4MmRhMjM0OWE2Y2NkYTAzZmQxZjU0ZTZjYWMyOTVj",
   "tracks": [
     {
       "added_at": "2023-02-10 11:00:00",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Return of the Mack",
-        "url": "https://open.spotify.com/album/6plavTFCGXv5vpy0jZVtOV"
-      },
-      "artists": [
-        {
-          "name": "Mark Morrison",
-          "url": "https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9"
-        }
-      ],
-      "duration_ms": 213093,
-      "name": "Return of the Mack",
-      "url": "https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Supernatural (Remastered)",
         "url": "https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 261973,
       "name": "Maria Maria (feat. The Product G&B)",
       "url": "https://open.spotify.com/track/3XKIUb7HzIF1Vu9usunMzc"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Return of the Mack",
+        "url": "https://open.spotify.com/album/6plavTFCGXv5vpy0jZVtOV"
+      },
+      "artists": [
+        {
+          "name": "Mark Morrison",
+          "url": "https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9"
+        }
+      ],
+      "duration_ms": 213093,
+      "name": "Return of the Mack",
+      "url": "https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/7tr2za8SQg2CI8EDgrdtNl"
     },
     {
-      "added_at": "2023-04-16 01:08:28",
+      "added_at": "2023-04-17 01:06:24",
       "album": {
         "name": "The Divine Feminine",
         "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "A Seat at the Table",
-        "url": "https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM"
-      },
-      "artists": [
-        {
-          "name": "Solange",
-          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
-        }
-      ],
-      "duration_ms": 250973,
-      "name": "Cranes in the Sky",
-      "url": "https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Keeping Me Under",
         "url": "https://open.spotify.com/album/0pim63nTKBI42Cm7FVeCMu"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 218926,
       "name": "Keeping Me Under",
       "url": "https://open.spotify.com/track/79ZQoLroAAQYHM9sJ1kbGh"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "A Seat at the Table",
+        "url": "https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM"
+      },
+      "artists": [
+        {
+          "name": "Solange",
+          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
+        }
+      ],
+      "duration_ms": 250973,
+      "name": "Cranes in the Sky",
+      "url": "https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Number Ones",
-        "url": "https://open.spotify.com/album/1jcYwZsN7JEve9xsq9BuUX"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 265933,
-      "name": "You Rock My World - Radio Edit",
-      "url": "https://open.spotify.com/track/4oY2T9ur7Ll5b2kpBlcWcb"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Dirty Computer",
         "url": "https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 194230,
       "name": "Make Me Feel",
       "url": "https://open.spotify.com/track/5gW5dSy3vXJxgzma4rQuzH"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Number Ones",
+        "url": "https://open.spotify.com/album/1jcYwZsN7JEve9xsq9BuUX"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 265933,
+      "name": "You Rock My World - Radio Edit",
+      "url": "https://open.spotify.com/track/4oY2T9ur7Ll5b2kpBlcWcb"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Lucy Pearl",
-        "url": "https://open.spotify.com/album/5cT0D5QzJo8coTaeT4OynR"
-      },
-      "artists": [
-        {
-          "name": "Lucy Pearl",
-          "url": "https://open.spotify.com/artist/0OUXTnqjvTg4iZ7Lhq6vv7"
-        }
-      ],
-      "duration_ms": 217666,
-      "name": "Don't Mess With My Man",
-      "url": "https://open.spotify.com/track/2J2hVpwVV25EK8Bvd3OgCK"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Good Thing",
         "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 207306,
       "name": "Bad Bad News",
       "url": "https://open.spotify.com/track/7FxzgizJRGTQ3fxUqfvljg"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Lucy Pearl",
+        "url": "https://open.spotify.com/album/5cT0D5QzJo8coTaeT4OynR"
+      },
+      "artists": [
+        {
+          "name": "Lucy Pearl",
+          "url": "https://open.spotify.com/artist/0OUXTnqjvTg4iZ7Lhq6vv7"
+        }
+      ],
+      "duration_ms": 217666,
+      "name": "Don't Mess With My Man",
+      "url": "https://open.spotify.com/track/2J2hVpwVV25EK8Bvd3OgCK"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "Fun Machine EP",
+        "url": "https://open.spotify.com/album/6mifXX0FC51XTiV2uqAf4z"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        }
+      ],
+      "duration_ms": 217920,
+      "name": "Rich Girl",
+      "url": "https://open.spotify.com/track/4ehS4c6As9l5slahfk0S8F"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "Coming Home (Deluxe)",
         "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
       },
@@ -1163,18 +1179,18 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Fun Machine EP",
-        "url": "https://open.spotify.com/album/6mifXX0FC51XTiV2uqAf4z"
+        "name": "Brown Sugar",
+        "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
       },
       "artists": [
         {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 217920,
-      "name": "Rich Girl",
-      "url": "https://open.spotify.com/track/4ehS4c6As9l5slahfk0S8F"
+      "duration_ms": 262893,
+      "name": "Brown Sugar",
+      "url": "https://open.spotify.com/track/7rt0kEDWRg3pgTZJKuszoE"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1199,38 +1215,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Brown Sugar",
-        "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 262893,
-      "name": "Brown Sugar",
-      "url": "https://open.spotify.com/track/7rt0kEDWRg3pgTZJKuszoE"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Yesterday's Tomorrow",
-        "url": "https://open.spotify.com/album/6IGDCUkBJ3LEUoAcoTD46u"
-      },
-      "artists": [
-        {
-          "name": "Phony Ppl",
-          "url": "https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6"
-        }
-      ],
-      "duration_ms": 331826,
-      "name": "Why iii Love The Moon.",
-      "url": "https://open.spotify.com/track/2x5Frs6ts14U4MSLrQQlXg"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Geography",
         "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 194023,
       "name": "Lost in Paris",
       "url": "https://open.spotify.com/track/6LxuNFEU3oIZ5ybBdWbZNT"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Yesterday's Tomorrow",
+        "url": "https://open.spotify.com/album/6IGDCUkBJ3LEUoAcoTD46u"
+      },
+      "artists": [
+        {
+          "name": "Phony Ppl",
+          "url": "https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6"
+        }
+      ],
+      "duration_ms": 331826,
+      "name": "Why iii Love The Moon.",
+      "url": "https://open.spotify.com/track/2x5Frs6ts14U4MSLrQQlXg"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "YESSIE",
-        "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
-      },
-      "artists": [
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 183895,
-      "name": "ONLY ONE",
-      "url": "https://open.spotify.com/track/04xnC2Uwq38RPrwCLv6f0G"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Hotter Than July",
         "url": "https://open.spotify.com/album/1ZuQduJGh0lBynUsfzD1tH"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 257670,
       "name": "Sumthin' Sumthin' - Remastered 2021",
       "url": "https://open.spotify.com/track/60Pjyla2BNnWzWxNXxGa4u"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "YESSIE",
+        "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 183895,
+      "name": "ONLY ONE",
+      "url": "https://open.spotify.com/track/04xnC2Uwq38RPrwCLv6f0G"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Sunrise European Single",
-        "url": "https://open.spotify.com/album/2gGRaRaEHSywDFAhQUfdGP"
-      },
-      "artists": [
-        {
-          "name": "Simply Red",
-          "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
-        }
-      ],
-      "duration_ms": 200173,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/0jGVEPscW8KmqktoHqv2Pa"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 291320,
       "name": "Thank You (Falettinme Be Mice Elf Agin) - Single Version",
       "url": "https://open.spotify.com/track/74iQ3gahRTOGc19bYadBE3"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Sunrise European Single",
+        "url": "https://open.spotify.com/album/2gGRaRaEHSywDFAhQUfdGP"
+      },
+      "artists": [
+        {
+          "name": "Simply Red",
+          "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
+        }
+      ],
+      "duration_ms": 200173,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/0jGVEPscW8KmqktoHqv2Pa"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Geography",
-        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 269815,
-      "name": "South of the River",
-      "url": "https://open.spotify.com/track/1ZwejHvd2KmKCWHn9HpAEw"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "The Best of George Benson",
         "url": "https://open.spotify.com/album/6MOO5U9nQ6tuGuvyOnFNfm"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 219560,
       "name": "Give Me the Night - Edit",
       "url": "https://open.spotify.com/track/7IQMKJNcppgahjNWVPmxkl"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Geography",
+        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 269815,
+      "name": "South of the River",
+      "url": "https://open.spotify.com/track/1ZwejHvd2KmKCWHn9HpAEw"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2135,22 +2135,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Songs In The Key Of Life",
-        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 162400,
-      "name": "Have A Talk With God",
-      "url": "https://open.spotify.com/track/5grvrZh5z2jsPjCOy1d8fP"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Move On",
         "url": "https://open.spotify.com/album/5kK0N3M1FTlqaTM6mCPKyd"
       },
@@ -2163,6 +2147,22 @@
       "duration_ms": 218027,
       "name": "Move On",
       "url": "https://open.spotify.com/track/4FoGNyJaWEY5g4N0AHBM3K"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 162400,
+      "name": "Have A Talk With God",
+      "url": "https://open.spotify.com/track/5grvrZh5z2jsPjCOy1d8fP"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2231,22 +2231,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Kaleidoscope Dream",
-        "url": "https://open.spotify.com/album/0vlIws8YGMQAbMEkubJgAP"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 193146,
-      "name": "Adorn",
-      "url": "https://open.spotify.com/track/3trS6e40JCVUOpPVt5OdHj"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "The Ecleftic -2 Sides II A Book",
         "url": "https://open.spotify.com/album/3FDZZk861xfI9wPNAlgrhm"
       },
@@ -2267,6 +2251,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "Kaleidoscope Dream",
+        "url": "https://open.spotify.com/album/0vlIws8YGMQAbMEkubJgAP"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 193146,
+      "name": "Adorn",
+      "url": "https://open.spotify.com/track/3trS6e40JCVUOpPVt5OdHj"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "No Pressure",
         "url": "https://open.spotify.com/album/64aMsMjyIBGTpIIWSFg4p7"
       },
@@ -2283,22 +2283,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/5QpKwmnzXq00f9W43yeAhY"
-      },
-      "artists": [
-        {
-          "name": "Dean Brady",
-          "url": "https://open.spotify.com/artist/02wmBVA2acqB6HLQdRfUwN"
-        }
-      ],
-      "duration_ms": 210679,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/1HXdD31DZc3RI4HpkcTccZ"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "The Way I Feel",
         "url": "https://open.spotify.com/album/7mSNyOFmQg80PGsrVxYpa2"
       },
@@ -2311,6 +2295,22 @@
       "duration_ms": 261933,
       "name": "Everlasting",
       "url": "https://open.spotify.com/track/7qeZlLUOEwoWAiNKHNo6Sw"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/5QpKwmnzXq00f9W43yeAhY"
+      },
+      "artists": [
+        {
+          "name": "Dean Brady",
+          "url": "https://open.spotify.com/artist/02wmBVA2acqB6HLQdRfUwN"
+        }
+      ],
+      "duration_ms": 210679,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/1HXdD31DZc3RI4HpkcTccZ"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2471,22 +2471,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "For All We Know",
-        "url": "https://open.spotify.com/album/2BmceJHiy9RTyvaB1IU0P6"
-      },
-      "artists": [
-        {
-          "name": "Nao",
-          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
-        }
-      ],
-      "duration_ms": 206160,
-      "name": "Fool to Love",
-      "url": "https://open.spotify.com/track/0uII79GWhvmTIvruhfIXlf"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "When Flowers Bloom",
         "url": "https://open.spotify.com/album/1LjYyb9wGDzAwo1x8RVbUG"
       },
@@ -2499,6 +2483,22 @@
       "duration_ms": 199770,
       "name": "Alone In Kenzo",
       "url": "https://open.spotify.com/track/6H5DZBYLOJ8pbmYy6JdTfq"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "For All We Know",
+        "url": "https://open.spotify.com/album/2BmceJHiy9RTyvaB1IU0P6"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        }
+      ],
+      "duration_ms": 206160,
+      "name": "Fool to Love",
+      "url": "https://open.spotify.com/track/0uII79GWhvmTIvruhfIXlf"
     },
     {
       "added_at": "2023-02-10 11:00:00",

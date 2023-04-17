@@ -1,12 +1,12 @@
 {
   "description": "Soft songs that gives you a gentle start of the day.",
-  "num_followers": 150940,
+  "num_followers": 150971,
   "original_name": "Soft Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODgwNTgyMCwwMDAwMDAwMDRiZDNmODZkZDMzNjQ4MDNjYjIwZjFkM2VhZDdmMjZk",
+  "snapshot_id": "MTY3ODgwNTgyMCwwMDAwMDAwMGJkMTZlM2QwYzQxY2JiMjg1OThhOGE2NjRiYzg3NDE5",
   "tracks": [
     {
       "added_at": "2023-02-24 11:06:00",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Naked (Acoustic Version)",
-        "url": "https://open.spotify.com/album/2aOYprwJcCTSVk3ARMlOMO"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 230440,
-      "name": "Naked - Acoustic Version",
-      "url": "https://open.spotify.com/track/77vv9vprh6SazfOXIJgYpx"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Front Porch",
         "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 231813,
       "name": "Front Porch",
       "url": "https://open.spotify.com/track/5sVyefkGgQeYCgnqr4KslQ"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Naked (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2aOYprwJcCTSVk3ARMlOMO"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 230440,
+      "name": "Naked - Acoustic Version",
+      "url": "https://open.spotify.com/track/77vv9vprh6SazfOXIJgYpx"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Bigger Heart (Acoustic)",
-        "url": "https://open.spotify.com/album/7ceIMQGqG1juOgQj4PLGXc"
-      },
-      "artists": [
-        {
-          "name": "Crying Day Care Choir",
-          "url": "https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl"
-        }
-      ],
-      "duration_ms": 288731,
-      "name": "Bigger Heart (Acoustic)",
-      "url": "https://open.spotify.com/track/0bUm2G8Iz9oWd6NvGyNWOz"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Summertime Sadness (Acoustic Cover) feat. Keelan Donovan",
         "url": "https://open.spotify.com/album/0NXkGd9M9rDxCHTGVvzC66"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 231013,
       "name": "Summertime Sadness (Acoustic Cover) feat. Keelan Donovan",
       "url": "https://open.spotify.com/track/6TqDrmjUDqQo4JiF1apQnL"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Bigger Heart (Acoustic)",
+        "url": "https://open.spotify.com/album/7ceIMQGqG1juOgQj4PLGXc"
+      },
+      "artists": [
+        {
+          "name": "Crying Day Care Choir",
+          "url": "https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl"
+        }
+      ],
+      "duration_ms": 288731,
+      "name": "Bigger Heart (Acoustic)",
+      "url": "https://open.spotify.com/track/0bUm2G8Iz9oWd6NvGyNWOz"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
+        "name": "The One I Love",
+        "url": "https://open.spotify.com/album/6Pf7ZUDD3Oup6DQOEhrBol"
+      },
+      "artists": [
+        {
+          "name": "Ellen Krauss",
+          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
+        }
+      ],
+      "duration_ms": 191386,
+      "name": "The One I Love",
+      "url": "https://open.spotify.com/track/4CTkHewevcDjIT3j9qb36e"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
         "name": "Hypersonic Missiles",
         "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
       },
@@ -871,26 +887,6 @@
       "duration_ms": 236653,
       "name": "Two People",
       "url": "https://open.spotify.com/track/0htjtrOVbQpWoDYYwPIrWY"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "honest (feat. moon tang)",
-        "url": "https://open.spotify.com/album/1zOZUQUEjtGprPtvKq6nk7"
-      },
-      "artists": [
-        {
-          "name": "Gareth.T",
-          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
-        },
-        {
-          "name": "moon tang",
-          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
-        }
-      ],
-      "duration_ms": 177818,
-      "name": "honest (feat. moon tang)",
-      "url": "https://open.spotify.com/track/6kEzWfX8TilHN8FenwdxCE"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -911,18 +907,22 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "The One I Love",
-        "url": "https://open.spotify.com/album/6Pf7ZUDD3Oup6DQOEhrBol"
+        "name": "honest (feat. moon tang)",
+        "url": "https://open.spotify.com/album/1zOZUQUEjtGprPtvKq6nk7"
       },
       "artists": [
         {
-          "name": "Ellen Krauss",
-          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
+          "name": "Gareth.T",
+          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+        },
+        {
+          "name": "moon tang",
+          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
         }
       ],
-      "duration_ms": 191386,
-      "name": "The One I Love",
-      "url": "https://open.spotify.com/track/4CTkHewevcDjIT3j9qb36e"
+      "duration_ms": 177818,
+      "name": "honest (feat. moon tang)",
+      "url": "https://open.spotify.com/track/6kEzWfX8TilHN8FenwdxCE"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Malibu Nights",
-        "url": "https://open.spotify.com/album/2yU2mqKklmIE9bWWLDjLsW"
-      },
-      "artists": [
-        {
-          "name": "Cole Norton",
-          "url": "https://open.spotify.com/artist/4DTWz8iNRSxYYpHqPNCixy"
-        }
-      ],
-      "duration_ms": 216422,
-      "name": "Malibu Nights",
-      "url": "https://open.spotify.com/track/59ETcec0EX4fyuq9TlTAmR"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Hold On (From \"Dear Edward\")",
         "url": "https://open.spotify.com/album/1bknYvQti8ecOKjWl7qEsm"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 156826,
       "name": "Hold On (From \"Dear Edward\")",
       "url": "https://open.spotify.com/track/1eAXHyBCQijbrNhePcFXGK"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Malibu Nights",
+        "url": "https://open.spotify.com/album/2yU2mqKklmIE9bWWLDjLsW"
+      },
+      "artists": [
+        {
+          "name": "Cole Norton",
+          "url": "https://open.spotify.com/artist/4DTWz8iNRSxYYpHqPNCixy"
+        }
+      ],
+      "duration_ms": 216422,
+      "name": "Malibu Nights",
+      "url": "https://open.spotify.com/track/59ETcec0EX4fyuq9TlTAmR"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "I'm Sure He Loves You",
-        "url": "https://open.spotify.com/album/3rokBmy1OT8QQtSq8zfw8w"
-      },
-      "artists": [
-        {
-          "name": "Ruben",
-          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
-        }
-      ],
-      "duration_ms": 183466,
-      "name": "I'm Sure He Loves You",
-      "url": "https://open.spotify.com/track/5kvHwA4cQJqyafyW9Zik3p"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Most of Us Are Strangers",
         "url": "https://open.spotify.com/album/5ufRr4lWvGLNQsd6caY2bE"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 222586,
       "name": "Most of Us Are Strangers",
       "url": "https://open.spotify.com/track/1xw0dNFXAfu6xJgKMlSUU5"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "I'm Sure He Loves You",
+        "url": "https://open.spotify.com/album/3rokBmy1OT8QQtSq8zfw8w"
+      },
+      "artists": [
+        {
+          "name": "Ruben",
+          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
+        }
+      ],
+      "duration_ms": 183466,
+      "name": "I'm Sure He Loves You",
+      "url": "https://open.spotify.com/track/5kvHwA4cQJqyafyW9Zik3p"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Chasing After the Moon",
-        "url": "https://open.spotify.com/album/5oAZS3TVg68hPGLlbkiP0u"
-      },
-      "artists": [
-        {
-          "name": "Michael Shynes",
-          "url": "https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3"
-        }
-      ],
-      "duration_ms": 238994,
-      "name": "Chasing After the Moon",
-      "url": "https://open.spotify.com/track/5KPoo3VVnP0DTA8JVj8Y4j"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Island Life Coffee House (Vol. 1)",
         "url": "https://open.spotify.com/album/0sghDmRPCLSkRUrL08FY9b"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 234133,
       "name": "Be As You Are - Acoustic",
       "url": "https://open.spotify.com/track/6wCWfx5yAyvQ7TlLp7OZZ6"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Chasing After the Moon",
+        "url": "https://open.spotify.com/album/5oAZS3TVg68hPGLlbkiP0u"
+      },
+      "artists": [
+        {
+          "name": "Michael Shynes",
+          "url": "https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3"
+        }
+      ],
+      "duration_ms": 238994,
+      "name": "Chasing After the Moon",
+      "url": "https://open.spotify.com/track/5KPoo3VVnP0DTA8JVj8Y4j"
     },
     {
       "added_at": "2023-02-10 06:37:00",

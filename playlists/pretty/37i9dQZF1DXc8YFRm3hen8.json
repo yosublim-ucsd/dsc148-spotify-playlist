@@ -1,12 +1,12 @@
 {
   "description": "La banda de sonido de tu d\u00eda.",
-  "num_followers": 147299,
+  "num_followers": 147383,
   "original_name": "Rock del D\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ4MzQxMywwMDAwMDAwMGVlNWYzZTdkYTc2Mjg4NjIzODQzYjkzZDI2NGE4MjNk",
+  "snapshot_id": "MTY4MTQ4MzQxMywwMDAwMDAwMDU1NjMzNDRiZmRmMTA5NTBkZTg5ZjQwMzRmMmVhNTBl",
   "tracks": [
     {
       "added_at": "2023-04-14 14:43:33",
@@ -443,18 +443,18 @@
     {
       "added_at": "2023-04-14 14:43:33",
       "album": {
-        "name": "La Sintesis O'Konor",
-        "url": "https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK"
+        "name": "Voragine",
+        "url": "https://open.spotify.com/album/7IlDM4DB3KkquIIQh0KDOb"
       },
       "artists": [
         {
-          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
-          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
         }
       ],
-      "duration_ms": 271400,
-      "name": "El Tesoro",
-      "url": "https://open.spotify.com/track/7HmuloxW2LLiPu0lcmkjoq"
+      "duration_ms": 281386,
+      "name": "Cae el Sol",
+      "url": "https://open.spotify.com/track/2nBOPYRoAYOwv6go12SQDs"
     },
     {
       "added_at": "2023-04-14 14:43:33",
@@ -475,18 +475,18 @@
     {
       "added_at": "2023-04-14 14:43:33",
       "album": {
-        "name": "Voragine",
-        "url": "https://open.spotify.com/album/7IlDM4DB3KkquIIQh0KDOb"
+        "name": "La Sintesis O'Konor",
+        "url": "https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK"
       },
       "artists": [
         {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
         }
       ],
-      "duration_ms": 281386,
-      "name": "Cae el Sol",
-      "url": "https://open.spotify.com/track/2nBOPYRoAYOwv6go12SQDs"
+      "duration_ms": 271400,
+      "name": "El Tesoro",
+      "url": "https://open.spotify.com/track/7HmuloxW2LLiPu0lcmkjoq"
     },
     {
       "added_at": "2023-04-14 14:43:33",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-04-14 14:43:33",
       "album": {
+        "name": "Chac Tu Chac",
+        "url": "https://open.spotify.com/album/5OWKnhm9lqNlQwZRXdzzLK"
+      },
+      "artists": [
+        {
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+        }
+      ],
+      "duration_ms": 240013,
+      "name": "Tan Solo",
+      "url": "https://open.spotify.com/track/6Soxxi73U6SO4rOGJwYYxI"
+    },
+    {
+      "added_at": "2023-04-14 14:43:33",
+      "album": {
         "name": "Otras Canciones",
         "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 237873,
       "name": "De Nada Sirve",
       "url": "https://open.spotify.com/track/2CFDPiNUxcSOqfQtUHYNxF"
-    },
-    {
-      "added_at": "2023-04-14 14:43:33",
-      "album": {
-        "name": "Chac Tu Chac",
-        "url": "https://open.spotify.com/album/5OWKnhm9lqNlQwZRXdzzLK"
-      },
-      "artists": [
-        {
-          "name": "Los Piojos",
-          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
-        }
-      ],
-      "duration_ms": 240013,
-      "name": "Tan Solo",
-      "url": "https://open.spotify.com/track/6Soxxi73U6SO4rOGJwYYxI"
     },
     {
       "added_at": "2023-04-14 14:43:33",
@@ -827,22 +827,18 @@
     {
       "added_at": "2023-04-14 14:43:33",
       "album": {
-        "name": "Pajaritos, Bravos Muchachitos",
-        "url": "https://open.spotify.com/album/2JpW90SnK1AAOKjDFqQ9Cn"
+        "name": "Jessico",
+        "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
       },
       "artists": [
         {
-          "name": "Indio Solari",
-          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
-        },
-        {
-          "name": "Los Fundamentalistas del Aire Acondicionado",
-          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
         }
       ],
-      "duration_ms": 268213,
-      "name": "Hab\u00eda una Vez ...",
-      "url": "https://open.spotify.com/track/11cjhnNrlgv8O5nyDleb0I"
+      "duration_ms": 277011,
+      "name": "Los Calientes",
+      "url": "https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY"
     },
     {
       "added_at": "2023-04-14 14:43:33",
@@ -879,18 +875,22 @@
     {
       "added_at": "2023-04-14 14:43:33",
       "album": {
-        "name": "Jessico",
-        "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
+        "name": "Pajaritos, Bravos Muchachitos",
+        "url": "https://open.spotify.com/album/2JpW90SnK1AAOKjDFqQ9Cn"
       },
       "artists": [
         {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+          "name": "Indio Solari",
+          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
+        },
+        {
+          "name": "Los Fundamentalistas del Aire Acondicionado",
+          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
         }
       ],
-      "duration_ms": 277011,
-      "name": "Los Calientes",
-      "url": "https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY"
+      "duration_ms": 268213,
+      "name": "Hab\u00eda una Vez ...",
+      "url": "https://open.spotify.com/track/11cjhnNrlgv8O5nyDleb0I"
     },
     {
       "added_at": "2023-04-14 14:43:33",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-04-14 14:43:33",
       "album": {
-        "name": "Aunque Cueste Ver El Sol",
-        "url": "https://open.spotify.com/album/0hIeX3j63GPq4UvoGcA67J"
-      },
-      "artists": [
-        {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        }
-      ],
-      "duration_ms": 263360,
-      "name": "Al Vac\u00edo",
-      "url": "https://open.spotify.com/track/2Et0SWz6wuSONAROBvCY71"
-    },
-    {
-      "added_at": "2023-04-14 14:43:33",
-      "album": {
         "name": "Vol I",
         "url": "https://open.spotify.com/album/3MMn99oMe2maysD6Vq441s"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 266786,
       "name": "La Calle Es Su Lugar",
       "url": "https://open.spotify.com/track/0u5w3ehyNtTgSPvKVMU2xv"
+    },
+    {
+      "added_at": "2023-04-14 14:43:33",
+      "album": {
+        "name": "Aunque Cueste Ver El Sol",
+        "url": "https://open.spotify.com/album/0hIeX3j63GPq4UvoGcA67J"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        }
+      ],
+      "duration_ms": 263360,
+      "name": "Al Vac\u00edo",
+      "url": "https://open.spotify.com/track/2Et0SWz6wuSONAROBvCY71"
     },
     {
       "added_at": "2023-04-14 14:43:33",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2023-04-14 14:43:33",
       "album": {
+        "name": "Girando",
+        "url": "https://open.spotify.com/album/5uXPldCWi4gWWQRkbT0m5B"
+      },
+      "artists": [
+        {
+          "name": "Ratones Paranoicos",
+          "url": "https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c"
+        }
+      ],
+      "duration_ms": 238506,
+      "name": "Sigue Girando",
+      "url": "https://open.spotify.com/track/4wjbUTC312rQO7rziAONDa"
+    },
+    {
+      "added_at": "2023-04-14 14:43:33",
+      "album": {
         "name": "El Tesoro de los Inocentes (Bingo Fuel)",
         "url": "https://open.spotify.com/album/6c7d0efZpNxeQCOm6Af7fD"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 258866,
       "name": "El Tesoro de los Inocentes",
       "url": "https://open.spotify.com/track/7qGn9WweEDJw8KZwJqB1KN"
-    },
-    {
-      "added_at": "2023-04-14 14:43:33",
-      "album": {
-        "name": "Girando",
-        "url": "https://open.spotify.com/album/5uXPldCWi4gWWQRkbT0m5B"
-      },
-      "artists": [
-        {
-          "name": "Ratones Paranoicos",
-          "url": "https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c"
-        }
-      ],
-      "duration_ms": 238506,
-      "name": "Sigue Girando",
-      "url": "https://open.spotify.com/track/4wjbUTC312rQO7rziAONDa"
     },
     {
       "added_at": "2023-04-14 14:43:33",

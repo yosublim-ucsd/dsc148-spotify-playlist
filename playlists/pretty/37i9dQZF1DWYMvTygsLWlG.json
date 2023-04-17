@@ -1,12 +1,12 @@
 {
   "description": "Some of the worlds most beautiful love songs.",
-  "num_followers": 2006719,
+  "num_followers": 2007162,
   "original_name": "Love Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzU3ODgyNiwwMDAwMDAwMDlmYThhZjI5YTY3YTM3YTY3OTExNjcyMzBiYjE5ZTMx",
+  "snapshot_id": "MTY3NzU3ODgyNiwwMDAwMDAwMGYxZDY2YWI4NWYxYzhjMTM3NDk5OTlhM2NmYWRlZmY5",
   "tracks": [
     {
       "added_at": "2022-12-02 12:00:00",
@@ -415,6 +415,22 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
+        "name": "The Temptations Sing Smokey",
+        "url": "https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH"
+    },
+    {
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
         "name": "Pointless",
         "url": "https://open.spotify.com/album/7DA9v7969Er1YXEb0z41E7"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 182360,
       "name": "Can't Help Falling in Love",
       "url": "https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC"
-    },
-    {
-      "added_at": "2022-12-02 12:00:00",
-      "album": {
-        "name": "The Temptations Sing Smokey",
-        "url": "https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "My Girl",
-      "url": "https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "Angel Baby",
-        "url": "https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 220779,
-      "name": "Angel Baby",
-      "url": "https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc"
-    },
-    {
-      "added_at": "2022-12-02 12:00:00",
-      "album": {
         "name": "If the World Was Ending (feat. Julia Michaels)",
         "url": "https://open.spotify.com/album/7BrlhEO8dHiNmU8A1Ep9RZ"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 208687,
       "name": "If the World Was Ending (feat. Julia Michaels)",
       "url": "https://open.spotify.com/track/2kJwzbxV2ppxnQoYw4GLBZ"
+    },
+    {
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
+        "name": "Angel Baby",
+        "url": "https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 220779,
+      "name": "Angel Baby",
+      "url": "https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "Repeat Offender",
-        "url": "https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG"
-      },
-      "artists": [
-        {
-          "name": "Richard Marx",
-          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
-        }
-      ],
-      "duration_ms": 264333,
-      "name": "Right Here Waiting",
-      "url": "https://open.spotify.com/track/4LFwNJWoj74Yd71fIr1W8x"
-    },
-    {
-      "added_at": "2022-12-02 12:00:00",
-      "album": {
         "name": "Cross Road",
         "url": "https://open.spotify.com/album/0tBfLeYdX3oBnl5NVpot4m"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 353026,
       "name": "Always",
       "url": "https://open.spotify.com/track/2RChe0r2cMoyOvuKobZy44"
+    },
+    {
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
+        "name": "Repeat Offender",
+        "url": "https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG"
+      },
+      "artists": [
+        {
+          "name": "Richard Marx",
+          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
+        }
+      ],
+      "duration_ms": 264333,
+      "name": "Right Here Waiting",
+      "url": "https://open.spotify.com/track/4LFwNJWoj74Yd71fIr1W8x"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "Look Up Child",
-        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 274693,
-      "name": "You Say",
-      "url": "https://open.spotify.com/track/6Up545NUflOiXo8cEraH49"
-    },
-    {
-      "added_at": "2022-12-02 12:00:00",
-      "album": {
         "name": "Extreme II - Pornograffitti",
         "url": "https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 334106,
       "name": "More Than Words",
       "url": "https://open.spotify.com/track/1gVgkQFOKa8Wc1HYsJtPdH"
+    },
+    {
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
+        "name": "Look Up Child",
+        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 274693,
+      "name": "You Say",
+      "url": "https://open.spotify.com/track/6Up545NUflOiXo8cEraH49"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "19",
-        "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 212040,
-      "name": "Make You Feel My Love",
-      "url": "https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF"
-    },
-    {
-      "added_at": "2022-12-02 12:00:00",
-      "album": {
         "name": "Savage Garden",
         "url": "https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 277266,
       "name": "Truly Madly Deeply",
       "url": "https://open.spotify.com/track/013AWvizllIUEC2FOBzOnh"
+    },
+    {
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
+        "name": "19",
+        "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 212040,
+      "name": "Make You Feel My Love",
+      "url": "https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -1527,18 +1527,18 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "XO",
-        "url": "https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1"
+        "name": "18 Til I Die",
+        "url": "https://open.spotify.com/album/29t8lxRlQIyG4K5Xaydt46"
       },
       "artists": [
         {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
         }
       ],
-      "duration_ms": 213626,
-      "name": "XO",
-      "url": "https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v"
+      "duration_ms": 291666,
+      "name": "Have You Ever Really Loved A Woman?",
+      "url": "https://open.spotify.com/track/32Gf5A7Hr8RdgggXG0Fdks"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "18 Til I Die",
-        "url": "https://open.spotify.com/album/29t8lxRlQIyG4K5Xaydt46"
+        "name": "XO",
+        "url": "https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1"
       },
       "artists": [
         {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 291666,
-      "name": "Have You Ever Really Loved A Woman?",
-      "url": "https://open.spotify.com/track/32Gf5A7Hr8RdgggXG0Fdks"
+      "duration_ms": 213626,
+      "name": "XO",
+      "url": "https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "Love Always",
-        "url": "https://open.spotify.com/album/5cmtcMzuUZq8vxS5T7NVPu"
-      },
-      "artists": [
-        {
-          "name": "K-Ci & JoJo",
-          "url": "https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK"
-        }
-      ],
-      "duration_ms": 331240,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/5GorFaKkP2mLREQvhSblIg"
-    },
-    {
-      "added_at": "2022-12-02 12:00:00",
-      "album": {
         "name": "All-4-One",
         "url": "https://open.spotify.com/album/4L5ZA0GukWNWjsk9b7HHDy"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 259853,
       "name": "I Swear",
       "url": "https://open.spotify.com/track/4WUnM4KNZ0kjp0CUeoyOnS"
+    },
+    {
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
+        "name": "Love Always",
+        "url": "https://open.spotify.com/album/5cmtcMzuUZq8vxS5T7NVPu"
+      },
+      "artists": [
+        {
+          "name": "K-Ci & JoJo",
+          "url": "https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK"
+        }
+      ],
+      "duration_ms": 331240,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/5GorFaKkP2mLREQvhSblIg"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "3 (The Purple Album)",
-        "url": "https://open.spotify.com/album/02gV87QEIFp2T9q7OqVBjj"
+        "name": "True Colors",
+        "url": "https://open.spotify.com/album/31TRqoVBTQi0lzlPLtvINn"
       },
       "artists": [
         {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
         }
       ],
-      "duration_ms": 205440,
-      "name": "Love Someone",
-      "url": "https://open.spotify.com/track/0OCRwXbQRdOZ1OtB4Imsp1"
+      "duration_ms": 227600,
+      "name": "True Colors",
+      "url": "https://open.spotify.com/track/2A6yzRGMgSQCUapR2ptm6A"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -1671,18 +1671,18 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "True Colors",
-        "url": "https://open.spotify.com/album/31TRqoVBTQi0lzlPLtvINn"
+        "name": "3 (The Purple Album)",
+        "url": "https://open.spotify.com/album/02gV87QEIFp2T9q7OqVBjj"
       },
       "artists": [
         {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
         }
       ],
-      "duration_ms": 227600,
-      "name": "True Colors",
-      "url": "https://open.spotify.com/track/2A6yzRGMgSQCUapR2ptm6A"
+      "duration_ms": 205440,
+      "name": "Love Someone",
+      "url": "https://open.spotify.com/track/0OCRwXbQRdOZ1OtB4Imsp1"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "Breakaway",
-        "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 219493,
-      "name": "Because of You",
-      "url": "https://open.spotify.com/track/3f3omU8n47Mqyab5nCaGyT"
-    },
-    {
-      "added_at": "2022-12-02 12:00:00",
-      "album": {
         "name": "Whitney Houston",
         "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 291400,
       "name": "Greatest Love of All",
       "url": "https://open.spotify.com/track/6yJxCltgtmGxIgKOS6ndnu"
+    },
+    {
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
+        "name": "Breakaway",
+        "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 219493,
+      "name": "Because of You",
+      "url": "https://open.spotify.com/track/3f3omU8n47Mqyab5nCaGyT"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -1847,6 +1847,22 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
+        "name": "My Love Is Your Love",
+        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 261573,
+      "name": "My Love Is Your Love",
+      "url": "https://open.spotify.com/track/1ckU1EhAO0Nr73QYw24SWJ"
+    },
+    {
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
         "name": "Secrets",
         "url": "https://open.spotify.com/album/6rxtWZH5ua9eANwWdwwf9o"
       },
@@ -1859,22 +1875,6 @@
       "duration_ms": 270333,
       "name": "Un-Break My Heart",
       "url": "https://open.spotify.com/track/5Ihd9HrPvOADyVoonH9ZjB"
-    },
-    {
-      "added_at": "2022-12-02 12:00:00",
-      "album": {
-        "name": "Please Keep Loving Me",
-        "url": "https://open.spotify.com/album/53ZfIHyk0AhUHeVRBCIl64"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 195920,
-      "name": "Please Keep Loving Me",
-      "url": "https://open.spotify.com/track/78zUxUPvONPgMIt46q5be6"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -1895,6 +1895,22 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
+        "name": "Please Keep Loving Me",
+        "url": "https://open.spotify.com/album/53ZfIHyk0AhUHeVRBCIl64"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 195920,
+      "name": "Please Keep Loving Me",
+      "url": "https://open.spotify.com/track/78zUxUPvONPgMIt46q5be6"
+    },
+    {
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
         "name": "When a Man Loves a Woman",
         "url": "https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M"
       },
@@ -1907,22 +1923,6 @@
       "duration_ms": 173866,
       "name": "When a Man Loves a Woman",
       "url": "https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av"
-    },
-    {
-      "added_at": "2022-12-02 12:00:00",
-      "album": {
-        "name": "My Love Is Your Love",
-        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 261573,
-      "name": "My Love Is Your Love",
-      "url": "https://open.spotify.com/track/1ckU1EhAO0Nr73QYw24SWJ"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "Nine Track Mind",
-        "url": "https://open.spotify.com/album/3kndSWeE2IYOrZEToZrHEV"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 194453,
-      "name": "One Call Away",
-      "url": "https://open.spotify.com/track/7soJgKhQTO8hLP2JPRkL5O"
-    },
-    {
-      "added_at": "2022-12-02 12:00:00",
-      "album": {
         "name": "Paid Vacation",
         "url": "https://open.spotify.com/album/4Rrm9Du0htwyux1jNjsYCx"
       },
@@ -2115,6 +2099,22 @@
       "duration_ms": 214826,
       "name": "Now And Forever",
       "url": "https://open.spotify.com/track/2V2pxcEfn5zs79sE7qcewA"
+    },
+    {
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
+        "name": "Nine Track Mind",
+        "url": "https://open.spotify.com/album/3kndSWeE2IYOrZEToZrHEV"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 194453,
+      "name": "One Call Away",
+      "url": "https://open.spotify.com/track/7soJgKhQTO8hLP2JPRkL5O"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -2443,18 +2443,18 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "Best Day of My Life",
-        "url": "https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw"
+        "name": "Christopher Cross",
+        "url": "https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh"
       },
       "artists": [
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
         }
       ],
-      "duration_ms": 182028,
-      "name": "Smiling All The Way Back Home",
-      "url": "https://open.spotify.com/track/2GMnysJaMa483o0gIOinzB"
+      "duration_ms": 258866,
+      "name": "Sailing",
+      "url": "https://open.spotify.com/track/4ogaI0XfmAunA0LyjveMSF"
     }
   ],
   "unique_name": "Love Ballads",

@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere\. Cover: beabadoobee.
 
-422 songs - 22 hr 9 min
+423 songs - 22 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,6 +300,7 @@
 | [Puzzle](https://open.spotify.com/track/55pSVqJsuWGmktWi3W81W1) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Puzzle](https://open.spotify.com/album/5M036X9ie02v6htGvb6aJN) | 2:58 | 2022-05-27 | 2022-07-29 |
 | [Raspberry Tongue](https://open.spotify.com/track/7dtUx6UNMsD6PQ8LhyUOXO) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Raspberry Tongue](https://open.spotify.com/album/6XQoQAnLR9icdYN9JItECG) | 2:58 | 2022-05-27 | 2022-06-25 |
 | [Ready For Love](https://open.spotify.com/track/0K7XBpcCaoEFnWRWbeuG3C) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Caslow](https://open.spotify.com/artist/40zwrE4brs61aEleZQ6SNq), [Exede](https://open.spotify.com/artist/2vtKZp9zZC9YenxW1szzco) | [Ready For Love](https://open.spotify.com/album/5B1cDRRu36L97uXUjJ32XK) | 2:42 | 2022-07-22 | 2022-09-17 |
+| [Regressa](https://open.spotify.com/track/33TpZOsFaBV09pXm15vBq6) | [Kaz Moon](https://open.spotify.com/artist/70TpT5Yq8mRwav91mSTKQV) | [Regressa](https://open.spotify.com/album/13tIJgBaVDaP0wnPolXpN0) | 1:36 | 2023-04-14 |  |
 | [Reminisce \(feat\. Yuna\)](https://open.spotify.com/track/0tT9RlzcD5Of5w05TPQKxk) | [PARADISE RISING](https://open.spotify.com/artist/0bGLIWZrNjcM3mIwPqxBNo), [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [semilucent 2](https://open.spotify.com/album/4cUc4EWmcbzamsCXOlJ8ez) | 3:22 | 2022-05-27 | 2022-07-29 |
 | [Rings of Saturn](https://open.spotify.com/track/6B2smPDLlM2Ms59jSB4pVH) | [Alann8h](https://open.spotify.com/artist/1PG2FugIT1iF2CWnzjw0We) | [Apollo 8](https://open.spotify.com/album/6ktVSiT3MwRj9z5CJjC2df) | 2:53 | 2022-06-10 | 2022-08-27 |
 | [RIP](https://open.spotify.com/track/2uRFxSw7uEN9vlGHjwoS29) | [Benita](https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA) | [SCARLET](https://open.spotify.com/album/2r4VnfYwKcsNFoBlwIhW1k) | 2:03 | 2022-05-27 | 2022-06-16 |
@@ -361,7 +362,7 @@
 | [SUGAR DIVE](https://open.spotify.com/track/3p3tezl8FJHkm68tczR0yP) | [Wesley Joseph](https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [SUGAR DIVE](https://open.spotify.com/album/6nhu2S33qQ7nhnSBPDaa39) | 3:14 | 2023-02-18 |  |
 | [Sunny day](https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:40 | 2022-07-15 |  |
 | [Take Me Higher](https://open.spotify.com/track/7oDizfJpMCEvjMxkT5NgiL) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Take Me Higher](https://open.spotify.com/album/25rc8xEfHYqqvcbY39BpW9) | 4:43 | 2022-05-27 | 2022-06-11 |
-| [Temple Fair](https://open.spotify.com/track/65IQJhKCLw0yHLL6OSiyvG) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Temple Fair](https://open.spotify.com/album/3sPEorgDnsLIHkEhWyQaZO) | 5:03 | 2022-10-07 |  |
+| [Temple Fair](https://open.spotify.com/track/65IQJhKCLw0yHLL6OSiyvG) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Temple Fair](https://open.spotify.com/album/3sPEorgDnsLIHkEhWyQaZO) | 5:03 | 2022-10-07 | 2023-04-17 |
 | [THANK YOU 4 LOVIN’ ME](https://open.spotify.com/track/557XVqKgnYAxvvyczr2zDg) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [LOVERs PLAYBOOK](https://open.spotify.com/album/78UznjghWeYXMeN201KLtC) | 4:29 | 2022-09-02 |  |
 | [That That \(prod\. & feat\. SUGA of BTS\)](https://open.spotify.com/track/5oH4DQAuu1J1800RzUsBWa) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [PSY 9th](https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4) | 2:54 | 2022-05-27 | 2022-07-25 |
 | [That That \(prod\. & feat\. SUGA of BTS\)](https://open.spotify.com/track/7GNRUsU3M4XNDDB9xle5Dz) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [PSY 9th](https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB) | 2:54 | 2022-07-22 | 2022-09-24 |

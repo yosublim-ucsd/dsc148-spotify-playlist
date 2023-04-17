@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 
 > Classic party anthems from the club to your ears!
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,560 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,691 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 | 33 | [Something Special \- Original Mix](https://open.spotify.com/track/0PQ591KWqZcslQeph3BRs5) | [Miguel Campbell](https://open.spotify.com/artist/4uZJDUKi3NXQsuMKP3rOeC) | [Back In Flight School](https://open.spotify.com/album/6GgrlO0KZDDgZDyjRkGOAj) | 4:42 |
 | 34 | [Talk to Me You'll Understand](https://open.spotify.com/track/4Z4i631BesV0P6LTvfLAdL) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [You'll Understand](https://open.spotify.com/album/6c94J2yum9wHxmbSB27YXE) | 6:57 |
 | 35 | [Time](https://open.spotify.com/track/2HOMVMnOukowkziBJZyf7o) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Delilah](https://open.spotify.com/artist/6J1pbNXDK0BTTMCvaO5xPv) | [No More Idols](https://open.spotify.com/album/245j9BaZFuEso2vfLRVnQr) | 4:20 |
-| 36 | [Lights On \(feat\. Ms Dynamite\) \- Single Mix](https://open.spotify.com/track/7FNcb05eBgScWaEEvJRKiw) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M), [Ms\. Dynamite](https://open.spotify.com/artist/42qLC3FgtazA9AvaIoiP62) | [On A Mission](https://open.spotify.com/album/6KV9kNSuC1mmzrXKx6p6vV) | 3:24 |
-| 37 | [The Renegade](https://open.spotify.com/track/7dyWwtPsaL3ThtPtkA4oQK) | [Friend Within](https://open.spotify.com/artist/4FJPplt1JOVw8Q7NiwFmLv) | [The Renegade EP](https://open.spotify.com/album/2nFqzhDJO6HBSQHGpsYhw7) | 2:30 |
+| 36 | [The Renegade](https://open.spotify.com/track/7dyWwtPsaL3ThtPtkA4oQK) | [Friend Within](https://open.spotify.com/artist/4FJPplt1JOVw8Q7NiwFmLv) | [The Renegade EP](https://open.spotify.com/album/2nFqzhDJO6HBSQHGpsYhw7) | 2:30 |
+| 37 | [Lights On \(feat\. Ms Dynamite\) \- Single Mix](https://open.spotify.com/track/7FNcb05eBgScWaEEvJRKiw) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M), [Ms\. Dynamite](https://open.spotify.com/artist/42qLC3FgtazA9AvaIoiP62) | [On A Mission](https://open.spotify.com/album/6KV9kNSuC1mmzrXKx6p6vV) | 3:24 |
 | 38 | [Promises](https://open.spotify.com/track/2LCCxYQ5dw1dz3Pu6APEUH) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Welcome Reality +](https://open.spotify.com/album/1hMXqmEdtxYenRDVm4hEgu) | 4:17 |
 | 39 | [Remind Me](https://open.spotify.com/track/7dFJsQQMwSlelur7tPuwnr) | [High Contrast](https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT) | [Night Gallery](https://open.spotify.com/album/4hzruXvXyUg5hJwP37CJrF) | 4:01 |
 | 40 | [Final Credits](https://open.spotify.com/track/5gC2aJwuSzGe3IJVlk9r2O) | [Midland](https://open.spotify.com/artist/1YFLNH4rO40x9i16RpLwdY) | [Final Credits](https://open.spotify.com/album/4DR47uL0VrENkV4fuTMdOE) | 7:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 | 49 | [Just](https://open.spotify.com/track/7MHjC4y8tMWDV1xA3CpqzX) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Just EP](https://open.spotify.com/album/1naCJmNjiY0CBbCqJ22r25) | 6:12 |
 | 50 | [The Jam](https://open.spotify.com/track/3eEStD7Va1vlaN5NBEbQmf) | [Kideko](https://open.spotify.com/artist/0ZwQMCRqfyh1OGQkBh9Cnj) | [The Jam](https://open.spotify.com/album/6wpCBPI0iVsZFycthRIXSH) | 3:12 |
 
-Snapshot ID: `MTY0MzI3ODQzNSwwMDAwMDAwMGQ1MThkYzBiMjRiOTg1YTIyOTQ3YzMwNjc3OWU1YmM0`
+Snapshot ID: `MTY0MzI3ODQzNSwwMDAwMDAwMDQ3YjhkNzM1Y2Y4MjU3Yjg5YjNkMzFiZWRjMjBmOGJj`

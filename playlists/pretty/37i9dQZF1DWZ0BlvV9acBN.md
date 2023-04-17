@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 
 > Grandes sucessos e novidades do rock Cristão\. Foto: PG
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,587 likes - 70 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,619 likes - 70 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,19 +28,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 18 | [A Alegria / O Exército de Deus / Caiam por Terra / Autoridade e Poder](https://open.spotify.com/track/1FA2ED4v1F9d15HviInZSO) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Lembre\-se 80's](https://open.spotify.com/album/29qCLrddHGIBvFBOu4almu) | 3:52 |
 | 19 | [Retrato](https://open.spotify.com/track/6jzcEtCzGYnslrheybOMoc) | [Oficina G3](https://open.spotify.com/artist/0gO5Vbklho8yrBrUdHhuLH) | [Retrato](https://open.spotify.com/album/1Dcw4IIzGiGcKFk8vVw5u8) | 5:33 |
 | 20 | [A Estátua](https://open.spotify.com/track/5dV1WilekeFKNrDVqmgo0s) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd), [Diego Rox](https://open.spotify.com/artist/1wrVWFQTN7fUh9cR0pUvJg) | [A Estátua](https://open.spotify.com/album/19cl5wWgzJsRjsPdyOBwpK) | 3:27 |
-| 21 | [Onde Tem Lenha](https://open.spotify.com/track/4C8R3nxWiBNaDqEMixBRKz) | [Luzlive](https://open.spotify.com/artist/40kzfUaDe3Pq6r0evczeaa), [Jeff Damaceno](https://open.spotify.com/artist/3hGe1TAvsdAEQMcubxxpgQ), [Jhonas Serra](https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH) | [Onde Tem Lenha](https://open.spotify.com/album/47FqGv4uJ97rwJ6L894DJI) | 9:54 |
-| 22 | [Cordeiro e Leão](https://open.spotify.com/track/0l7lyBcrTSSwBgu1AJ5ktC) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Cordeiro e Leão](https://open.spotify.com/album/5OrnFeXMXvUvhw2bvFbpFI) | 3:56 |
+| 21 | [Cordeiro e Leão](https://open.spotify.com/track/0l7lyBcrTSSwBgu1AJ5ktC) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Cordeiro e Leão](https://open.spotify.com/album/5OrnFeXMXvUvhw2bvFbpFI) | 3:56 |
+| 22 | [Onde Tem Lenha](https://open.spotify.com/track/4C8R3nxWiBNaDqEMixBRKz) | [Luzlive](https://open.spotify.com/artist/40kzfUaDe3Pq6r0evczeaa), [Jeff Damaceno](https://open.spotify.com/artist/3hGe1TAvsdAEQMcubxxpgQ), [Jhonas Serra](https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH) | [Onde Tem Lenha](https://open.spotify.com/album/47FqGv4uJ97rwJ6L894DJI) | 9:54 |
 | 23 | [Baile das Máscaras](https://open.spotify.com/track/5IGQBVvlJrovuvK6LxuwO0) | [Rosa de Saron](https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX) | [Baile das Máscaras](https://open.spotify.com/album/2DXK8ESfAJ14eUn2NZ3l3t) | 3:35 |
 | 24 | [Livre Sou](https://open.spotify.com/track/62aGtaEunlFAd8HagOBeWx) | [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73) | [Livre Sou](https://open.spotify.com/album/28NPgRLhM0u0UiIQnTvUKd) | 3:26 |
 | 25 | [Yeshua](https://open.spotify.com/track/7D3qbQOrea1ME7B7cUrYau) | [Os Bravos](https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm) | [Yeshua](https://open.spotify.com/album/2ubpSKz1ULV8ECWpKcBj20) | 5:46 |
-| 26 | [Eu Quero é Deus / Celebrai a Cristo / Aquele Que Está Feliz](https://open.spotify.com/track/7B0rqWEg7PPydoF1hKXFUf) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Lembre\-se 90's](https://open.spotify.com/album/3uj4RFLuFtfSIPVVvOcptS) | 4:43 |
+| 26 | [Tudo é Teu / Nova Criatura / Rede ao Mar](https://open.spotify.com/track/4G2fqa20Hkj8uTDwMOzfrr) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Tudo é Teu / Nova Criatura / Rede ao Mar](https://open.spotify.com/album/4LNn5OkVpjCZv5c8aKc4N4) | 5:04 |
 | 27 | [Eu Vou Amanhecer \- Ao Vivo](https://open.spotify.com/track/7MUFfFp3Voeu9N8hBBm960) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Eu Vou Amanhecer \(ao Vivo\)](https://open.spotify.com/album/0puuCUbHqQAhodavAxZbkj) | 5:41 |
 | 28 | [Tudo Fica Bem](https://open.spotify.com/track/7aiuugdiL75xtqcU2KYJi6) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd), [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [Tudo Fica Bem](https://open.spotify.com/album/74KhNQQ0J28XUQB5dC3JTE) | 5:04 |
 | 29 | [Luz \- Ao Vivo](https://open.spotify.com/track/2JMaIeyJ1Fa4ASLJCZRW6i) | [Os Arrais](https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS) | [Luz \(Ao Vivo\)](https://open.spotify.com/album/1TXYUnt8wrLDvKfROV0bxF) | 3:40 |
 | 30 | [A Vitória Da Cruz / Mais Que Vencedor \- Ao Vivo](https://open.spotify.com/track/7ynkuAtSuCtFWFZITYp6Nr) | [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [Salazar \(Ao Vivo\)](https://open.spotify.com/album/3rmdXtY0TwGeQvjOdljqqN) | 6:20 |
 | 31 | [As Sepulturas Se Abrirão \- Ao Vivo](https://open.spotify.com/track/2RE0vtoTP7U55ore8UUeTy) | [Palankin](https://open.spotify.com/artist/796gkD2e78sHPMakFcnqUJ), [Ana Rock](https://open.spotify.com/artist/7hh91Pi4y3ey6t0m8I0P5U) | [Na Terra Parte 2/3 \(Ao Vivo\)](https://open.spotify.com/album/2REZbS8CQZnhrBdEhmTZ1d) | 4:48 |
 | 32 | [Rookmaaker \- Ao Vivo](https://open.spotify.com/track/3pnxplHFEuyGnGEHVoKkPo) | [Palavrantiga](https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j) | [Palavrantiga Ao Vivo \(Pt\. 4\)](https://open.spotify.com/album/0zrjFPCQhd5XKGuQXEKswE) | 5:22 |
-| 33 | [Tudo é Teu / Nova Criatura / Rede ao Mar](https://open.spotify.com/track/4G2fqa20Hkj8uTDwMOzfrr) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Tudo é Teu / Nova Criatura / Rede ao Mar](https://open.spotify.com/album/4LNn5OkVpjCZv5c8aKc4N4) | 5:04 |
+| 33 | [Eu Quero é Deus / Celebrai a Cristo / Aquele Que Está Feliz](https://open.spotify.com/track/7B0rqWEg7PPydoF1hKXFUf) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Lembre\-se 90's](https://open.spotify.com/album/3uj4RFLuFtfSIPVVvOcptS) | 4:43 |
 | 34 | [Escolho Ser Fiel](https://open.spotify.com/track/5z9gHODKZUYCsA5cxj14my) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Mauro](https://open.spotify.com/album/7hEouc61wJMBhedf31Tonz) | 4:10 |
 | 35 | [O Que Me Espera](https://open.spotify.com/track/7CyBOf0w9Vd8YRIl9iRDoY) | [Rosa de Saron](https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX), [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG) | [O Que Me Espera](https://open.spotify.com/album/4EjrbsaksKz3F25AoZZ2rs) | 3:41 |
 | 36 | [A Carta](https://open.spotify.com/track/6wKQ84PvskrEA0Oum0sUMn) | [Abel Junho](https://open.spotify.com/artist/3oI345jxR8FTbMegl0N1mn) | [A Carta](https://open.spotify.com/album/1uFoMEXuKx7EBN3IDSXpba) | 4:56 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 69 | [Descanso](https://open.spotify.com/track/3QedBFF9E1St6Hkb2zWauL) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Descanso](https://open.spotify.com/album/5MMYVvEPVmYHmvF4VZqzlH) | 6:43 |
 | 70 | [Aonde Está Deus](https://open.spotify.com/track/5uFP9ZbZG1aqJx1jbaFNqF) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Basic Session, Vol\. 1](https://open.spotify.com/album/2a0ofu5yp0e9WPLpYjUZN4) | 4:24 |
 
-Snapshot ID: `MTY4MTU4MzcyMywwMDAwMDAwMDMwMjhkYTI3YjQ0NjNmMzY4ZjQyMjIxN2NjNGU1YWFh`
+Snapshot ID: `MTY4MTU4MzcyMywwMDAwMDAwMDBhYWJhOWI2NmQ1ZGUzNDgxMzJhMDk1NjVlNmRjNTE2`

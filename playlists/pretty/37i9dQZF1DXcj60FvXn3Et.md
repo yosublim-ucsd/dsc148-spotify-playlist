@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcj60FvXn3Et.md) - [plain]
 
 > Extraordinary soundtracks composed by extraordinary women\. Photo: <a href="spotify:artist:2lD1D6eEh7xQdBtnl2Ik7Y">Hildur Guðnadóttir</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,481 likes - 51 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,523 likes - 51 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Now We Are Free \- From "Gladiator" Soundtrack](https://open.spotify.com/track/1raWfcURBd1Q3W3K0ojDCM) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Klaus Badelt](https://open.spotify.com/artist/03GruNQP8X25PCoWzdvIGZ), [Lisa Gerrard](https://open.spotify.com/artist/3C4MmUJYQN9svNdedAR2BK), [Gavin Greenaway](https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q), [The Lyndhurst Orchestra](https://open.spotify.com/artist/6djeIA7Gl9v9gvnpRc1eIF) | [Gladiator \- Music From The Motion Picture](https://open.spotify.com/album/0HqvyHCJ9EaORFyA8BPDyW) | 4:14 |
+| 1 | [Now We Are Free \- From "Gladiator" Soundtrack](https://open.spotify.com/track/1yzAzGGN9wZNySoP6wGba6) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Klaus Badelt](https://open.spotify.com/artist/03GruNQP8X25PCoWzdvIGZ), [Lisa Gerrard](https://open.spotify.com/artist/3C4MmUJYQN9svNdedAR2BK), [Gavin Greenaway](https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q), [The Lyndhurst Orchestra](https://open.spotify.com/artist/6djeIA7Gl9v9gvnpRc1eIF) | [Cinema Sounds of Hans Zimmer](https://open.spotify.com/album/0rmQ3exOg2zn87yROU9RSX) | 4:14 |
 | 2 | [Bathroom Dance](https://open.spotify.com/track/4WiqPbWvLbv317E8fB4SJC) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Joker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ) | 2:08 |
 | 3 | [Toss A Coin To Your Witcher \- Solo Piano Version](https://open.spotify.com/track/2ITcTvOeKgwLGjmmZrpdCW) | [Sonya Belousova](https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP), [Giona Ostinelli](https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6), [Sonya Belousova & Giona Ostinelli](https://open.spotify.com/artist/6UgYjZpbEWBZL491Qzxw2E) | [Toss A Coin To Your Witcher \(Solo Piano Version\)](https://open.spotify.com/album/1mxxBPAxd3l5XVUtLEB4BM) | 3:19 |
 | 4 | [Finding the Pattern](https://open.spotify.com/track/4u2qyRFTBYm3Se02t0Ki7d) | [Jessica Curry](https://open.spotify.com/artist/7maqsg42XWKV2TOwesH5YF) | [Everybody's Gone to the Rapture \(Original Soundtrack\)](https://open.spotify.com/album/0gmge9DFfEc5VSi87yiXyM) | 4:00 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcj60FvXn3Et.md) - [plain]
 | 50 | [Love Blossoms](https://open.spotify.com/track/1HfTQWEZl6Qynha7AJj3LT) | [Jocelyn Pook](https://open.spotify.com/artist/0gDsjq3Se2YgMBdiJ88j06) | [Brick Lane OST](https://open.spotify.com/album/3nNhTbKbh3XhxalMqwUTp7) | 2:44 |
 | 51 | [Closed Roads \- Live](https://open.spotify.com/track/1C8nGDemdf5mTMiXRCv8E3) | [Eleni Karaindrou](https://open.spotify.com/artist/2ojmPypSGMyKaRvknyxKKP), [Kim Kashkashian](https://open.spotify.com/artist/6ZGBjaZJPB8JHVBpHvRrXG), [Camerata, Friends Of Music Orchestra](https://open.spotify.com/artist/4kB7GqlHxTWL4n2w0myL3h), [Alexandros Myrat](https://open.spotify.com/artist/11P5A51PLAT7giMJ8pUTMF) | [Concert In Athens \(Live In Athens / 2010\)](https://open.spotify.com/album/4VOhxBqjCJB8xsWMSOjxhH) | 5:36 |
 
-Snapshot ID: `MTYxNDYwNzQ1MCwwMDAwMDAwMDE2Yzg1NmI3ODc1Zjc5ODM5NGFjYTcxYTg0MmQ4MDk4`
+Snapshot ID: `MTYxNDYwNzQ1MCwwMDAwMDAwMDcxNmVjN2VmNTdiMDIyMTZmZGVmZWNkNDBjYjVjMDkz`

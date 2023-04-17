@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica en vivo de tus artistas favoritos del Regional Mexicano. Portada: Grupo Recluta y Adrian Chaparro",
-  "num_followers": 51123,
+  "num_followers": 51189,
   "original_name": "M\u00fasica Mexicana En Vivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAzMzk5MiwwMDAwMDAwMDFhNWMxZWI5MjUyYWNkNzM4YWQwN2U4MmI3ZGE1ZTU4",
+  "snapshot_id": "MTY3OTAzMzk5MiwwMDAwMDAwMDhmMTMwNTk4NTM5MmZlMzNmMzliYzY2ODQzYTAyZTky",
   "tracks": [
     {
       "added_at": "2023-03-17 06:19:52",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-03-17 06:19:52",
       "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/6YQnsEvPHOX3aSZsconRkP"
-      },
-      "artists": [
-        {
-          "name": "Los Dorados",
-          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
-        }
-      ],
-      "duration_ms": 201168,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/5jZ4F989lTH5jcFxT6ccbP"
-    },
-    {
-      "added_at": "2023-03-17 06:19:52",
-      "album": {
         "name": "El Deportivo",
         "url": "https://open.spotify.com/album/7vfslBmJvEgsacoR5oPGbg"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 192400,
       "name": "El Deportivo",
       "url": "https://open.spotify.com/track/73VqJQTEcqbgbVBxDPIaz6"
+    },
+    {
+      "added_at": "2023-03-17 06:19:52",
+      "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/6YQnsEvPHOX3aSZsconRkP"
+      },
+      "artists": [
+        {
+          "name": "Los Dorados",
+          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
+        }
+      ],
+      "duration_ms": 201168,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/5jZ4F989lTH5jcFxT6ccbP"
     },
     {
       "added_at": "2023-03-17 06:19:52",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-03-17 06:19:52",
       "album": {
-        "name": "De Botas O Gabanas (En Vivo)",
-        "url": "https://open.spotify.com/album/4u6foLRlj8VB70D3OarBww"
-      },
-      "artists": [
-        {
-          "name": "Los Nuevos Originales Del Bajio",
-          "url": "https://open.spotify.com/artist/18rmI6HslUFyiOEI9xRlOg"
-        }
-      ],
-      "duration_ms": 154338,
-      "name": "De Botas O Gabanas - En Vivo",
-      "url": "https://open.spotify.com/track/7CBW962s2j5BSgsNye2YQ7"
-    },
-    {
-      "added_at": "2023-03-17 06:19:52",
-      "album": {
         "name": "Lives Pa' la Raza",
         "url": "https://open.spotify.com/album/5yMgi325xqK2QyENnFzCHU"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 134234,
       "name": "La Flechita",
       "url": "https://open.spotify.com/track/5qmaaLhRmb0QZZtsLwYVwr"
+    },
+    {
+      "added_at": "2023-03-17 06:19:52",
+      "album": {
+        "name": "De Botas O Gabanas (En Vivo)",
+        "url": "https://open.spotify.com/album/4u6foLRlj8VB70D3OarBww"
+      },
+      "artists": [
+        {
+          "name": "Los Nuevos Originales Del Bajio",
+          "url": "https://open.spotify.com/artist/18rmI6HslUFyiOEI9xRlOg"
+        }
+      ],
+      "duration_ms": 154338,
+      "name": "De Botas O Gabanas - En Vivo",
+      "url": "https://open.spotify.com/track/7CBW962s2j5BSgsNye2YQ7"
     },
     {
       "added_at": "2023-03-17 06:19:52",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2023-03-17 06:19:52",
       "album": {
-        "name": "Pistiando Con Mi Tata Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/3wZbGWULrKLCcvpbHkNKTI"
+        "name": "Locamente Enamorado",
+        "url": "https://open.spotify.com/album/2pYaBSEubSIn7ZJhTJ18kf"
       },
       "artists": [
         {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+          "name": "Predilecto",
+          "url": "https://open.spotify.com/artist/6EQeKDiNOnU8zwKXp7G0Zl"
         }
       ],
-      "duration_ms": 167210,
-      "name": "Celos del Viento - En Vivo",
-      "url": "https://open.spotify.com/track/1kiDSbX6iYiK7zyTKpr4B0"
+      "duration_ms": 217495,
+      "name": "Locamente Enamorado",
+      "url": "https://open.spotify.com/track/1tjPu3BbasHcAWkgnlfAux"
     },
     {
       "added_at": "2023-03-17 06:19:52",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2023-03-17 06:19:52",
       "album": {
-        "name": "Locamente Enamorado",
-        "url": "https://open.spotify.com/album/2pYaBSEubSIn7ZJhTJ18kf"
+        "name": "Pistiando Con Mi Tata Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/3wZbGWULrKLCcvpbHkNKTI"
       },
       "artists": [
         {
-          "name": "Predilecto",
-          "url": "https://open.spotify.com/artist/6EQeKDiNOnU8zwKXp7G0Zl"
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 217495,
-      "name": "Locamente Enamorado",
-      "url": "https://open.spotify.com/track/1tjPu3BbasHcAWkgnlfAux"
+      "duration_ms": 167210,
+      "name": "Celos del Viento - En Vivo",
+      "url": "https://open.spotify.com/track/1kiDSbX6iYiK7zyTKpr4B0"
     },
     {
       "added_at": "2023-03-17 06:19:52",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2023-03-17 06:19:52",
       "album": {
+        "name": "No Me Ense\u00f1aste",
+        "url": "https://open.spotify.com/album/0p6Q8mu88Bg0vLsPrwwdJE"
+      },
+      "artists": [
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        }
+      ],
+      "duration_ms": 183893,
+      "name": "No Me Ense\u00f1aste",
+      "url": "https://open.spotify.com/track/6iuhmVeGj7e7hfkOhqzdnF"
+    },
+    {
+      "added_at": "2023-03-17 06:19:52",
+      "album": {
         "name": "En Vivo con Tololoche Vol. 1",
         "url": "https://open.spotify.com/album/6qUgwVEuv48l4qe2ZQrvOg"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 169877,
       "name": "Barba Negra (feat. Tito Torbellino Jr.)",
       "url": "https://open.spotify.com/track/1RhGQa1M4GbUuon7dbgUgU"
-    },
-    {
-      "added_at": "2023-03-17 06:19:52",
-      "album": {
-        "name": "No Me Ense\u00f1aste",
-        "url": "https://open.spotify.com/album/0p6Q8mu88Bg0vLsPrwwdJE"
-      },
-      "artists": [
-        {
-          "name": "Nathan Galante",
-          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
-        }
-      ],
-      "duration_ms": 183893,
-      "name": "No Me Ense\u00f1aste",
-      "url": "https://open.spotify.com/track/6iuhmVeGj7e7hfkOhqzdnF"
     },
     {
       "added_at": "2023-03-17 06:19:52",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2023-03-17 06:19:52",
       "album": {
+        "name": "La Vieja Escuela",
+        "url": "https://open.spotify.com/album/2vLAqABlhgj4081fzvRWpD"
+      },
+      "artists": [
+        {
+          "name": "Milicia Del Rancho",
+          "url": "https://open.spotify.com/artist/6Dfji9ASsLF7FALyFtUaSi"
+        }
+      ],
+      "duration_ms": 171885,
+      "name": "Popurr\u00ed de Los Morros (Chivo Tatemado/ Los Primos/ El Ultimo Billete)",
+      "url": "https://open.spotify.com/track/39MCJWKc558g8pMnnBgDbw"
+    },
+    {
+      "added_at": "2023-03-17 06:19:52",
+      "album": {
         "name": "F\u00e1cil Criticar (En Vivo)",
         "url": "https://open.spotify.com/album/14ZNyV1NsKtT5j76U5uVUn"
       },
@@ -1503,34 +1519,18 @@
     {
       "added_at": "2023-03-17 06:19:52",
       "album": {
-        "name": "La Vieja Escuela",
-        "url": "https://open.spotify.com/album/2vLAqABlhgj4081fzvRWpD"
+        "name": "En Vivo Desde El Rancho",
+        "url": "https://open.spotify.com/album/3I8GLnjxkdr32OnYSir6bh"
       },
       "artists": [
         {
-          "name": "Milicia Del Rancho",
-          "url": "https://open.spotify.com/artist/6Dfji9ASsLF7FALyFtUaSi"
+          "name": "Remmy Valenzuela",
+          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
         }
       ],
-      "duration_ms": 171885,
-      "name": "Popurr\u00ed de Los Morros (Chivo Tatemado/ Los Primos/ El Ultimo Billete)",
-      "url": "https://open.spotify.com/track/39MCJWKc558g8pMnnBgDbw"
-    },
-    {
-      "added_at": "2023-03-17 06:19:52",
-      "album": {
-        "name": "Puras de Servandozl",
-        "url": "https://open.spotify.com/album/2Y0BOVe7O4scEDCbgVFJjR"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 189315,
-      "name": "Los Mitotes - En Vivo",
-      "url": "https://open.spotify.com/track/26e8lUcchMWzFcNqtNTwYH"
+      "duration_ms": 173890,
+      "name": "La Novena Maravilla - En Vivo",
+      "url": "https://open.spotify.com/track/19qas85ZKj36Jj7pYFT207"
     },
     {
       "added_at": "2023-03-17 06:19:52",
@@ -1551,38 +1551,18 @@
     {
       "added_at": "2023-03-17 06:19:52",
       "album": {
-        "name": "En Vivo Desde El Rancho",
-        "url": "https://open.spotify.com/album/3I8GLnjxkdr32OnYSir6bh"
+        "name": "Puras de Servandozl",
+        "url": "https://open.spotify.com/album/2Y0BOVe7O4scEDCbgVFJjR"
       },
       "artists": [
         {
-          "name": "Remmy Valenzuela",
-          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 173890,
-      "name": "La Novena Maravilla - En Vivo",
-      "url": "https://open.spotify.com/track/19qas85ZKj36Jj7pYFT207"
-    },
-    {
-      "added_at": "2023-03-17 06:19:52",
-      "album": {
-        "name": "70 Calaveras (En Vivo)",
-        "url": "https://open.spotify.com/album/3hp1ptkk30lzRFQwpyjWxe"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 169394,
-      "name": "70 Calaveras - En Vivo",
-      "url": "https://open.spotify.com/track/0j4NhEUEQiiBtktxF7nEC4"
+      "duration_ms": 189315,
+      "name": "Los Mitotes - En Vivo",
+      "url": "https://open.spotify.com/track/26e8lUcchMWzFcNqtNTwYH"
     },
     {
       "added_at": "2023-03-17 06:19:52",
@@ -1607,6 +1587,26 @@
     {
       "added_at": "2023-03-17 06:19:52",
       "album": {
+        "name": "70 Calaveras (En Vivo)",
+        "url": "https://open.spotify.com/album/3hp1ptkk30lzRFQwpyjWxe"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 169394,
+      "name": "70 Calaveras - En Vivo",
+      "url": "https://open.spotify.com/track/0j4NhEUEQiiBtktxF7nEC4"
+    },
+    {
+      "added_at": "2023-03-17 06:19:52",
+      "album": {
         "name": "Desde La Cantina (Live At Nuevo Le\u00f3n M\u00e9xico/2009)",
         "url": "https://open.spotify.com/album/5516JjJfiO6IGxBuPjZIyy"
       },
@@ -1619,6 +1619,22 @@
       "duration_ms": 202280,
       "name": "Cielo Nublado Aka Cielo Nevado - En Vivo",
       "url": "https://open.spotify.com/track/1y4h8u7FJdByH32PCVvXiZ"
+    },
+    {
+      "added_at": "2023-03-17 06:19:52",
+      "album": {
+        "name": "En Vivo Desde El Rancho",
+        "url": "https://open.spotify.com/album/3I8GLnjxkdr32OnYSir6bh"
+      },
+      "artists": [
+        {
+          "name": "Remmy Valenzuela",
+          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
+        }
+      ],
+      "duration_ms": 521690,
+      "name": "Popurr\u00ed Cumbias: Se Muri\u00f3 De Amor/Desvelado/Otra Vez - En Vivo",
+      "url": "https://open.spotify.com/track/2rNksx1mb49Vb35MiKgUiJ"
     },
     {
       "added_at": "2023-03-17 06:19:52",
@@ -1732,9 +1748,9 @@
           "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
         }
       ],
-      "duration_ms": 521690,
-      "name": "Popurr\u00ed Cumbias: Se Muri\u00f3 De Amor/Desvelado/Otra Vez - En Vivo",
-      "url": "https://open.spotify.com/track/2rNksx1mb49Vb35MiKgUiJ"
+      "duration_ms": 205949,
+      "name": "Inv\u00e9ntame - En Vivo",
+      "url": "https://open.spotify.com/track/1HNCgUYyjpX4prbIlaT6iF"
     },
     {
       "added_at": "2023-03-17 06:19:52",
@@ -1823,6 +1839,26 @@
     {
       "added_at": "2023-03-17 06:19:52",
       "album": {
+        "name": "Directo 93-13 (En Vivo/20 Aniversario/Vol.1)",
+        "url": "https://open.spotify.com/album/0OoRd49fYSZCRieceLUBil"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        },
+        {
+          "name": "Celso Pi\u00f1a",
+          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
+        }
+      ],
+      "duration_ms": 255133,
+      "name": "Loco - En Vivo",
+      "url": "https://open.spotify.com/track/30VgitVQwLfrGiwbVMXe3i"
+    },
+    {
+      "added_at": "2023-03-17 06:19:52",
+      "album": {
         "name": "Traketeando (En Vivo)",
         "url": "https://open.spotify.com/album/2L0MqXft3PsJGmM8kuOrTL"
       },
@@ -1875,42 +1911,6 @@
       "duration_ms": 203066,
       "name": "Eres un encanto - En vivo",
       "url": "https://open.spotify.com/track/04xY2a4sWhjc1zCAdFwGSJ"
-    },
-    {
-      "added_at": "2023-03-17 06:19:52",
-      "album": {
-        "name": "En Vivo Desde El Rancho",
-        "url": "https://open.spotify.com/album/3I8GLnjxkdr32OnYSir6bh"
-      },
-      "artists": [
-        {
-          "name": "Remmy Valenzuela",
-          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
-        }
-      ],
-      "duration_ms": 205949,
-      "name": "Inv\u00e9ntame - En Vivo",
-      "url": "https://open.spotify.com/track/1HNCgUYyjpX4prbIlaT6iF"
-    },
-    {
-      "added_at": "2023-03-17 06:19:52",
-      "album": {
-        "name": "Directo 93-13 (En Vivo/20 Aniversario/Vol.1)",
-        "url": "https://open.spotify.com/album/0OoRd49fYSZCRieceLUBil"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        },
-        {
-          "name": "Celso Pi\u00f1a",
-          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
-        }
-      ],
-      "duration_ms": 255133,
-      "name": "Loco - En Vivo",
-      "url": "https://open.spotify.com/track/30VgitVQwLfrGiwbVMXe3i"
     },
     {
       "added_at": "2023-03-17 06:19:52",
@@ -1999,26 +1999,6 @@
     {
       "added_at": "2023-03-17 06:19:52",
       "album": {
-        "name": "De Lo M\u00e1s Interesante (En Vivo)",
-        "url": "https://open.spotify.com/album/64ussNq7ErhaSSFbSkoKuv"
-      },
-      "artists": [
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        },
-        {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "De Lo M\u00e1s Interesante - En Vivo",
-      "url": "https://open.spotify.com/track/11bCxgcltxjDErax0lBmKi"
-    },
-    {
-      "added_at": "2023-03-17 06:19:52",
-      "album": {
         "name": "Desde La Cantina (Live At Nuevo Le\u00f3n M\u00e9xico/2009)",
         "url": "https://open.spotify.com/album/5516JjJfiO6IGxBuPjZIyy"
       },
@@ -2035,6 +2015,26 @@
       "duration_ms": 178240,
       "name": "Tragos Amargos - Live At Nuevo Le\u00f3n M\u00e9xico/2009",
       "url": "https://open.spotify.com/track/3vsD7bXY5xQP2GJLAnJ8GA"
+    },
+    {
+      "added_at": "2023-03-17 06:19:52",
+      "album": {
+        "name": "De Lo M\u00e1s Interesante (En Vivo)",
+        "url": "https://open.spotify.com/album/64ussNq7ErhaSSFbSkoKuv"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        },
+        {
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "De Lo M\u00e1s Interesante - En Vivo",
+      "url": "https://open.spotify.com/track/11bCxgcltxjDErax0lBmKi"
     },
     {
       "added_at": "2023-03-17 06:19:52",
@@ -2099,22 +2099,6 @@
     {
       "added_at": "2023-03-17 06:19:52",
       "album": {
-        "name": "Chingo A Mi Madre (En Vivo)",
-        "url": "https://open.spotify.com/album/2LpiIeEgcYFGyAIKvdyYlc"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes",
-          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
-        }
-      ],
-      "duration_ms": 173053,
-      "name": "Chingo A Mi Madre - En Vivo",
-      "url": "https://open.spotify.com/track/38FmRkbp9iaBCpqW7DracY"
-    },
-    {
-      "added_at": "2023-03-17 06:19:52",
-      "album": {
         "name": "En Vivo Con Tololoche",
         "url": "https://open.spotify.com/album/5CbJZFr5frpDDgKoVxO7ma"
       },
@@ -2127,6 +2111,22 @@
       "duration_ms": 211945,
       "name": "Hace Un A\u00f1o - En Vivo",
       "url": "https://open.spotify.com/track/1vldXJyBmGmkNCvbH9uNif"
+    },
+    {
+      "added_at": "2023-03-17 06:19:52",
+      "album": {
+        "name": "Chingo A Mi Madre (En Vivo)",
+        "url": "https://open.spotify.com/album/2LpiIeEgcYFGyAIKvdyYlc"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        }
+      ],
+      "duration_ms": 173053,
+      "name": "Chingo A Mi Madre - En Vivo",
+      "url": "https://open.spotify.com/track/38FmRkbp9iaBCpqW7DracY"
     },
     {
       "added_at": "2023-03-17 06:19:52",
@@ -2163,26 +2163,6 @@
     {
       "added_at": "2023-03-17 06:19:52",
       "album": {
-        "name": "La Chapiza (En Vivo)",
-        "url": "https://open.spotify.com/album/0wP13AMhGNtY0GWQICl4T6"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        },
-        {
-          "name": "Wil Caro",
-          "url": "https://open.spotify.com/artist/0WmxPSzE2yXAEpVw1yA1A4"
-        }
-      ],
-      "duration_ms": 125956,
-      "name": "La Chapiza - En Vivo",
-      "url": "https://open.spotify.com/track/3mHFLPUuMgKHjPNmOS2XTg"
-    },
-    {
-      "added_at": "2023-03-17 06:19:52",
-      "album": {
         "name": "El Ranchero",
         "url": "https://open.spotify.com/album/2LJuDYooWfIvTvOuJpbJ8q"
       },
@@ -2199,6 +2179,26 @@
       "duration_ms": 159390,
       "name": "El Ranchero",
       "url": "https://open.spotify.com/track/6fTfNxZSs9aqXyOFACtSMD"
+    },
+    {
+      "added_at": "2023-03-17 06:19:52",
+      "album": {
+        "name": "La Chapiza (En Vivo)",
+        "url": "https://open.spotify.com/album/0wP13AMhGNtY0GWQICl4T6"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        },
+        {
+          "name": "Wil Caro",
+          "url": "https://open.spotify.com/artist/0WmxPSzE2yXAEpVw1yA1A4"
+        }
+      ],
+      "duration_ms": 125956,
+      "name": "La Chapiza - En Vivo",
+      "url": "https://open.spotify.com/track/3mHFLPUuMgKHjPNmOS2XTg"
     },
     {
       "added_at": "2023-03-17 06:19:52",
@@ -2271,6 +2271,22 @@
     {
       "added_at": "2023-03-17 06:19:52",
       "album": {
+        "name": "Recuerdos Para Pistear (En Vivo)",
+        "url": "https://open.spotify.com/album/16fN59xr7T4jknYJRfiH2F"
+      },
+      "artists": [
+        {
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+        }
+      ],
+      "duration_ms": 187143,
+      "name": "Edgar Guzman - En Vivo",
+      "url": "https://open.spotify.com/track/2LTE0DNDhRZqb5TQYHSl8D"
+    },
+    {
+      "added_at": "2023-03-17 06:19:52",
+      "album": {
         "name": "Los Diamantones (En Vivo)",
         "url": "https://open.spotify.com/album/2xIuSm3lBJOWYA9CiCl6w3"
       },
@@ -2287,22 +2303,6 @@
       "duration_ms": 188660,
       "name": "Los Diamantones (En Vivo)",
       "url": "https://open.spotify.com/track/1Dcs4sIcWy5lne4ijVFvZS"
-    },
-    {
-      "added_at": "2023-03-17 06:19:52",
-      "album": {
-        "name": "Recuerdos Para Pistear (En Vivo)",
-        "url": "https://open.spotify.com/album/16fN59xr7T4jknYJRfiH2F"
-      },
-      "artists": [
-        {
-          "name": "Ariel Camacho y Los Plebes Del Rancho",
-          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
-        }
-      ],
-      "duration_ms": 187143,
-      "name": "Edgar Guzman - En Vivo",
-      "url": "https://open.spotify.com/track/2LTE0DNDhRZqb5TQYHSl8D"
     },
     {
       "added_at": "2023-03-17 06:19:52",
@@ -2471,18 +2471,22 @@
     {
       "added_at": "2023-03-17 06:19:52",
       "album": {
-        "name": "Buscando Al Cholo (En Vivo)",
-        "url": "https://open.spotify.com/album/1NcG9qZxLOYnf9zc9OAw4V"
+        "name": "50 Guerreros (En Vivo)",
+        "url": "https://open.spotify.com/album/5bTlsmTczzSVsjulAnIep7"
       },
       "artists": [
         {
-          "name": "Panchito Arredondo",
-          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
+          "name": "Los Chavalos De La Perla",
+          "url": "https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO"
+        },
+        {
+          "name": "Chiken Lira",
+          "url": "https://open.spotify.com/artist/3OXtjz5aMVWAQ4DDQuoICn"
         }
       ],
-      "duration_ms": 202414,
-      "name": "Buscando Al Cholo (En Vivo)",
-      "url": "https://open.spotify.com/track/5VDC9Ym7gY8dgmRWintiFK"
+      "duration_ms": 161853,
+      "name": "50 Guerreros - En Vivo",
+      "url": "https://open.spotify.com/track/3Ny7oh2RrtcNzYCGZHHrdJ"
     },
     {
       "added_at": "2023-03-17 06:19:52",
@@ -2503,22 +2507,18 @@
     {
       "added_at": "2023-03-17 06:19:52",
       "album": {
-        "name": "50 Guerreros (En Vivo)",
-        "url": "https://open.spotify.com/album/5bTlsmTczzSVsjulAnIep7"
+        "name": "Buscando Al Cholo (En Vivo)",
+        "url": "https://open.spotify.com/album/1NcG9qZxLOYnf9zc9OAw4V"
       },
       "artists": [
         {
-          "name": "Los Chavalos De La Perla",
-          "url": "https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO"
-        },
-        {
-          "name": "Chiken Lira",
-          "url": "https://open.spotify.com/artist/3OXtjz5aMVWAQ4DDQuoICn"
+          "name": "Panchito Arredondo",
+          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
         }
       ],
-      "duration_ms": 161853,
-      "name": "50 Guerreros - En Vivo",
-      "url": "https://open.spotify.com/track/3Ny7oh2RrtcNzYCGZHHrdJ"
+      "duration_ms": 202414,
+      "name": "Buscando Al Cholo (En Vivo)",
+      "url": "https://open.spotify.com/track/5VDC9Ym7gY8dgmRWintiFK"
     },
     {
       "added_at": "2023-03-17 06:19:52",
@@ -2575,26 +2575,6 @@
     {
       "added_at": "2023-03-17 06:19:52",
       "album": {
-        "name": "La Perris (En Vivo)",
-        "url": "https://open.spotify.com/album/531dJejjsvqzjCvD1F8UNN"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Banda Culiacancito",
-          "url": "https://open.spotify.com/artist/6pHlsWmX5SSpyeZNsQFS0J"
-        }
-      ],
-      "duration_ms": 165492,
-      "name": "La Perris - En Vivo",
-      "url": "https://open.spotify.com/track/1jMs2NauraVMSzNBdfbMwS"
-    },
-    {
-      "added_at": "2023-03-17 06:19:52",
-      "album": {
         "name": "Desde La Cantina Vol. II (Live At Nuevo Le\u00f3n M\u00e9xico / 2009)",
         "url": "https://open.spotify.com/album/2irJrOSLxOnQJz6POcqJQF"
       },
@@ -2611,6 +2591,26 @@
       "duration_ms": 190080,
       "name": "Chiquilla Cari\u00f1osa - Live At Nuevo Le\u00f3n M\u00e9xico / 2009",
       "url": "https://open.spotify.com/track/5zNLwE72V2aXQAbMIG3Szp"
+    },
+    {
+      "added_at": "2023-03-17 06:19:52",
+      "album": {
+        "name": "La Perris (En Vivo)",
+        "url": "https://open.spotify.com/album/531dJejjsvqzjCvD1F8UNN"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Banda Culiacancito",
+          "url": "https://open.spotify.com/artist/6pHlsWmX5SSpyeZNsQFS0J"
+        }
+      ],
+      "duration_ms": 165492,
+      "name": "La Perris - En Vivo",
+      "url": "https://open.spotify.com/track/1jMs2NauraVMSzNBdfbMwS"
     },
     {
       "added_at": "2023-03-17 06:19:52",

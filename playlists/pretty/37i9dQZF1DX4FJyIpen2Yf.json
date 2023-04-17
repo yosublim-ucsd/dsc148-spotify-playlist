@@ -1,12 +1,12 @@
 {
   "description": "Listen to these flows during your yoga flow.",
-  "num_followers": 318151,
+  "num_followers": 318163,
   "original_name": "Hip-Hop Yoga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDExNDg5NCwwMDAwMDAwMDU3YzMzY2JkMGQ5OTQ1MjZjYWUwY2JmYTgxNzZlMDI3",
+  "snapshot_id": "MTY0MDExNDg5NCwwMDAwMDAwMGU5NDU2NjJhOGIzYzI1ZmZmMTliOTY4YTQ1NTU0OWJl",
   "tracks": [
     {
       "added_at": "2021-12-21 19:28:14",
@@ -131,6 +131,22 @@
     {
       "added_at": "2021-12-21 19:28:14",
       "album": {
+        "name": "\"Awaken, My Love!\"",
+        "url": "https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 326933,
+      "name": "Redbone",
+      "url": "https://open.spotify.com/track/0WtDGnWL2KrMCk0mI1Gpwz"
+    },
+    {
+      "added_at": "2021-12-21 19:28:14",
+      "album": {
         "name": "Drip Harder",
         "url": "https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 145542,
       "name": "Drip Too Hard (Lil Baby & Gunna)",
       "url": "https://open.spotify.com/track/78QR3Wp35dqAhFEc2qAGjE"
-    },
-    {
-      "added_at": "2021-12-21 19:28:14",
-      "album": {
-        "name": "\"Awaken, My Love!\"",
-        "url": "https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4"
-      },
-      "artists": [
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        }
-      ],
-      "duration_ms": 326933,
-      "name": "Redbone",
-      "url": "https://open.spotify.com/track/0WtDGnWL2KrMCk0mI1Gpwz"
     },
     {
       "added_at": "2021-12-21 19:28:14",
@@ -571,26 +571,6 @@
     {
       "added_at": "2021-12-21 19:28:14",
       "album": {
-        "name": "Luv Is Rage 2",
-        "url": "https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        },
-        {
-          "name": "Oh Wonder",
-          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
-        }
-      ],
-      "duration_ms": 221746,
-      "name": "The Way Life Goes (feat. Oh Wonder)",
-      "url": "https://open.spotify.com/track/2eAZfqOm4EnOF9VvN50Tyc"
-    },
-    {
-      "added_at": "2021-12-21 19:28:14",
-      "album": {
         "name": "WAP (feat. Megan Thee Stallion)",
         "url": "https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ"
       },
@@ -611,6 +591,26 @@
     {
       "added_at": "2021-12-21 19:28:14",
       "album": {
+        "name": "Luv Is Rage 2",
+        "url": "https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "Oh Wonder",
+          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
+        }
+      ],
+      "duration_ms": 221746,
+      "name": "The Way Life Goes (feat. Oh Wonder)",
+      "url": "https://open.spotify.com/track/2eAZfqOm4EnOF9VvN50Tyc"
+    },
+    {
+      "added_at": "2021-12-21 19:28:14",
+      "album": {
         "name": "Boss Bitch",
         "url": "https://open.spotify.com/album/4pmyFpGicLLIgNPc1TQXKc"
       },
@@ -627,18 +627,18 @@
     {
       "added_at": "2021-12-21 19:28:14",
       "album": {
-        "name": "Scorpion",
-        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
+        "name": "channel ORANGE",
+        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
         }
       ],
-      "duration_ms": 238614,
-      "name": "Nonstop",
-      "url": "https://open.spotify.com/track/0TlLq3lA83rQOYtrqBqSct"
+      "duration_ms": 200746,
+      "name": "Thinkin Bout You",
+      "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau"
     },
     {
       "added_at": "2021-12-21 19:28:14",
@@ -663,18 +663,18 @@
     {
       "added_at": "2021-12-21 19:28:14",
       "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
       },
       "artists": [
         {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 200746,
-      "name": "Thinkin Bout You",
-      "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau"
+      "duration_ms": 238614,
+      "name": "Nonstop",
+      "url": "https://open.spotify.com/track/0TlLq3lA83rQOYtrqBqSct"
     },
     {
       "added_at": "2021-12-21 19:28:14",
@@ -691,30 +691,6 @@
       "duration_ms": 299613,
       "name": "All Of The Lights",
       "url": "https://open.spotify.com/track/22L7bfCiAkJo5xGSQgmiIO"
-    },
-    {
-      "added_at": "2021-12-21 19:28:14",
-      "album": {
-        "name": "Invasion of Privacy",
-        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 253390,
-      "name": "I Like It",
-      "url": "https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z"
     },
     {
       "added_at": "2021-12-21 19:28:14",
@@ -767,6 +743,30 @@
       "duration_ms": 268434,
       "name": "Murder On My Mind",
       "url": "https://open.spotify.com/track/7eBqSVxrzQZtK2mmgRG6lC"
+    },
+    {
+      "added_at": "2021-12-21 19:28:14",
+      "album": {
+        "name": "Invasion of Privacy",
+        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 253390,
+      "name": "I Like It",
+      "url": "https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z"
     },
     {
       "added_at": "2021-12-21 19:28:14",
@@ -831,26 +831,6 @@
     {
       "added_at": "2021-12-21 19:28:14",
       "album": {
-        "name": "beerbongs & bentleys",
-        "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 221440,
-      "name": "Psycho (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/3swc6WTsr7rl9DqQKQA55C"
-    },
-    {
-      "added_at": "2021-12-21 19:28:14",
-      "album": {
         "name": "JACKBOYS",
         "url": "https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 201787,
       "name": "Nights Like This (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/6ZRuF2n1CQxyxxAAWsKJOy"
+    },
+    {
+      "added_at": "2021-12-21 19:28:14",
+      "album": {
+        "name": "beerbongs & bentleys",
+        "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 221440,
+      "name": "Psycho (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/3swc6WTsr7rl9DqQKQA55C"
     }
   ],
   "unique_name": "Hip-Hop Yoga",

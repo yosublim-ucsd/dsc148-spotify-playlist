@@ -1,12 +1,12 @@
 {
   "description": "Top hits from homegrown artists showcasing rich culture and talent from Uganda",
-  "num_followers": 1424,
+  "num_followers": 1425,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0OTM4NiwwMDAwMDAwMDMwMmZiOGZiMGEyMDUyNDVjNDk4ZTMwMWExNmUyMDZh",
+  "snapshot_id": "MTY4MTQ0OTM4NiwwMDAwMDAwMDA1ZDc1YTcyMTE3MGI1MjMyNGFhMzVkMWE1Mjk3NGJk",
   "tracks": [
     {
       "added_at": "2023-04-06 20:59:00",
@@ -251,6 +251,22 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
+        "name": "Sembera",
+        "url": "https://open.spotify.com/album/5waV4kXwhpQBV4Ws7d2Ppi"
+      },
+      "artists": [
+        {
+          "name": "Geosteady",
+          "url": "https://open.spotify.com/artist/7kam501AHBrZZvvuiku9VG"
+        }
+      ],
+      "duration_ms": 208988,
+      "name": "Sembera",
+      "url": "https://open.spotify.com/track/7vgMzmsgtspbBfMVpX9JSk"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
         "name": "Stuck On You",
         "url": "https://open.spotify.com/album/5YSGnmVJhAVx1vzbV54Uad"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 190000,
       "name": "Pretty Young Thing",
       "url": "https://open.spotify.com/track/67hRQkotvl3eGiEYD3r8FK"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
-        "name": "Sembera",
-        "url": "https://open.spotify.com/album/5waV4kXwhpQBV4Ws7d2Ppi"
-      },
-      "artists": [
-        {
-          "name": "Geosteady",
-          "url": "https://open.spotify.com/artist/7kam501AHBrZZvvuiku9VG"
-        }
-      ],
-      "duration_ms": 208988,
-      "name": "Sembera",
-      "url": "https://open.spotify.com/track/7vgMzmsgtspbBfMVpX9JSk"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -745,20 +745,24 @@
       "url": "https://open.spotify.com/track/4ctK1RbMMolmBH24Nws6bU"
     },
     {
-      "added_at": "2023-04-06 20:59:00",
+      "added_at": "2023-04-14 05:16:26",
       "album": {
-        "name": "Kika Buka",
-        "url": "https://open.spotify.com/album/4GjXFLosn6LolYRbupEkVc"
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/4XNZv5UNoT0UB8vXft9PBE"
       },
       "artists": [
         {
-          "name": "Sheebah",
-          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
+          "name": "Fancy Fingers",
+          "url": "https://open.spotify.com/artist/6GKFK8rXiyBshmwi6CMm0y"
+        },
+        {
+          "name": "Azawi",
+          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
         }
       ],
-      "duration_ms": 156961,
-      "name": "Kika Buka",
-      "url": "https://open.spotify.com/track/1jcnzmZk4F57GiRIOiSbMS"
+      "duration_ms": 179762,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/1PfbJNTVJw6zSuyqJvf14J"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -791,6 +795,38 @@
       "duration_ms": 140822,
       "name": "Geza Bugeza",
       "url": "https://open.spotify.com/track/0KCeBr5ylT1GJzt9bu4SkW"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
+        "name": "Kika Buka",
+        "url": "https://open.spotify.com/album/4GjXFLosn6LolYRbupEkVc"
+      },
+      "artists": [
+        {
+          "name": "Sheebah",
+          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
+        }
+      ],
+      "duration_ms": 156961,
+      "name": "Kika Buka",
+      "url": "https://open.spotify.com/track/1jcnzmZk4F57GiRIOiSbMS"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
+        "name": "Music for the Soul",
+        "url": "https://open.spotify.com/album/1Py43eA0a9cU9cRuhvF46K"
+      },
+      "artists": [
+        {
+          "name": "$hyli",
+          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
+        }
+      ],
+      "duration_ms": 215757,
+      "name": "Riri",
+      "url": "https://open.spotify.com/track/3kYMCCE3sV70yPOaFM4eCr"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -867,42 +903,6 @@
       "duration_ms": 189544,
       "name": "Kampala",
       "url": "https://open.spotify.com/track/5XSx18sFrYAjINCcqcxz74"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/3MJB9ehVEovi0DhK19B4tS"
-      },
-      "artists": [
-        {
-          "name": "Jesse10s",
-          "url": "https://open.spotify.com/artist/6oOIGUtyWVdPoJmgOE1bGH"
-        }
-      ],
-      "duration_ms": 174905,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/6v0S8ZVm5axCSsuoqcuB3J"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
-        "name": "Pause",
-        "url": "https://open.spotify.com/album/53V8rIv7Bix3IbNXbnG0px"
-      },
-      "artists": [
-        {
-          "name": "Mugaba",
-          "url": "https://open.spotify.com/artist/1EBLonfYVb5s9f047W2CS6"
-        },
-        {
-          "name": "Amani Greene",
-          "url": "https://open.spotify.com/artist/0nJznPzHXT4c62if3o5tsO"
-        }
-      ],
-      "duration_ms": 184778,
-      "name": "Pause",
-      "url": "https://open.spotify.com/track/2yx8yJQIWgyZ3xS67mg8Qp"
     }
   ],
   "unique_name": "Made In Uganda",

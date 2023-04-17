@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X277P8nU0l.md) - [plain]
 
 > Un café, un croissant et c‘est parti pour une bonne journée.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,091 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,181 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X277P8nU0l.md) - [plain]
 | 38 | [Forever More](https://open.spotify.com/track/3vQu0bmBILcVjLhKZIQgJk) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [If Words Were Flowers](https://open.spotify.com/album/0msliOKoJh1aYmcpuEoBn2) | 3:14 |
 | 39 | [Giant Feelings](https://open.spotify.com/track/2pSGUdDRQl6k0liOCbUza2) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Giant Feelings](https://open.spotify.com/album/19ICuGAKIU66VOA6MLc1WZ) | 2:19 |
 | 40 | [Fighting for Peace](https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Fighting for Peace](https://open.spotify.com/album/2IXjRTudNXd1hEczsBwcos) | 3:22 |
-| 41 | [Hiding Out In The Open](https://open.spotify.com/track/3S8fsWbSzwTAbyRXWnLugk) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/2uDbIwcvfGsMEbzeU3iyoU) | 3:21 |
+| 41 | [Hiding Out In The Open](https://open.spotify.com/track/6Q34tUtXLuWst5c63ddQ7N) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn) | 3:21 |
 | 42 | [The World](https://open.spotify.com/track/2KnfMlqUIr2RLFIRlCQzhw) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [The World](https://open.spotify.com/album/3cqrOjDqjzb2bdFmhntP8t) | 3:06 |
 | 43 | [Tramp Like You](https://open.spotify.com/track/2wWlrpVleWOYkOqhpkV2EJ) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Tramp Like You](https://open.spotify.com/album/21uaZE9JBRZDNHNouEO8Df) | 5:24 |
 | 44 | [The Otherside](https://open.spotify.com/track/7dXYHyEg7TdcnbwcG3R0xG) | [Bobby Oroza](https://open.spotify.com/artist/7DIW7zcnjQFBTMxhK6V2VQ), [Cold Diamond & Mink](https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b) | [Get On The Otherside](https://open.spotify.com/album/2S16kNpGs1zn39HYwcLaJ3) | 3:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X277P8nU0l.md) - [plain]
 | 49 | [Waiting by the Window](https://open.spotify.com/track/3NVDwR7cuCNy30L0DZPQil) | [mokina](https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc), [carbeau](https://open.spotify.com/artist/5MOkquoZnhyJEcXBpVHR2j) | [Waiting by the Window](https://open.spotify.com/album/1EnZIihjXvcmZW4IW84P6j) | 2:19 |
 | 50 | [Coffee Excess feat\. Orono \(Superorganism\) & Lennon](https://open.spotify.com/track/66lOGYNWhKurI1s4izrkdw) | [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP), [Orono](https://open.spotify.com/artist/0CqXZXwwLrqnlXqHrVm8ux), [Lennon](https://open.spotify.com/artist/3nPGCD8cnUmkXAmoQx2DbO) | [Coffee Excess feat\. Orono \(Superorganism\) & Lennon](https://open.spotify.com/album/1sdMAIlIq8yc3pU8eixDI1) | 2:14 |
 
-Snapshot ID: `MTY4MDkwNDgwMCwwMDAwMDAwMGFmMThkYjYxMjVjMmQ0OWNiNWIyY2ZlYmRjZDIwZjZj`
+Snapshot ID: `MTY4MDkwNDgwMCwwMDAwMDAwMGE5NWMwMjk4NGMxODMzYzA2NzljNWFlNmM0MmRjZjk3`

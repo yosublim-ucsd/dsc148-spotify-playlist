@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cizS4wQeF2.md) - [plain]
 
 > For a love that hits like a 2000s Romcom
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,088 likes - 60 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,200 likes - 60 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

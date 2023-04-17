@@ -1,12 +1,12 @@
 {
   "description": "Eclectic love songs with delicate lyrics that say it best.",
-  "num_followers": 204184,
+  "num_followers": 204434,
   "original_name": "Love Letter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDcyNDk3NywwMDAwMDAwMDRhMDE0MjRhZDlkMmFkYjdlY2M4MWJmYTM4YTFlZDhm",
+  "snapshot_id": "MTY4MDcyNDk3NywwMDAwMDAwMDcxOTNhNDMwYzNlNDM3YTM1OGE5MmNjZjRjNTMzZDdl",
   "tracks": [
     {
       "added_at": "2023-03-07 22:54:37",
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/0j3mqDTK4Z6lvrLzFCUUz6"
     },
     {
-      "added_at": "2023-04-16 01:03:49",
+      "added_at": "2023-04-17 00:56:45",
       "album": {
         "name": "Raging Bull",
         "url": "https://open.spotify.com/album/7ALsOonjasgDlpU4OkXSyo"
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-03-07 22:54:37",
       "album": {
-        "name": "Do You Like Me?",
-        "url": "https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 227663,
-      "name": "Do You Like Me?",
-      "url": "https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J"
-    },
-    {
-      "added_at": "2023-03-07 22:54:37",
-      "album": {
         "name": "Brand New Eyes",
         "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 267653,
       "name": "The Only Exception",
       "url": "https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs"
+    },
+    {
+      "added_at": "2023-03-07 22:54:37",
+      "album": {
+        "name": "Do You Like Me?",
+        "url": "https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 227663,
+      "name": "Do You Like Me?",
+      "url": "https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J"
     },
     {
       "added_at": "2023-03-07 22:54:37",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-03-07 22:54:37",
       "album": {
-        "name": "If You Leave",
-        "url": "https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM"
-      },
-      "artists": [
-        {
-          "name": "Daughter",
-          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
-        }
-      ],
-      "duration_ms": 253013,
-      "name": "Youth",
-      "url": "https://open.spotify.com/track/0UPMxtinlgA1dkne9PAKTW"
-    },
-    {
-      "added_at": "2023-03-07 22:54:37",
-      "album": {
         "name": "Seven Swans",
         "url": "https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 168040,
       "name": "To Be Alone With You",
       "url": "https://open.spotify.com/track/12homE4JpBey5cckgoepR7"
+    },
+    {
+      "added_at": "2023-03-07 22:54:37",
+      "album": {
+        "name": "If You Leave",
+        "url": "https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM"
+      },
+      "artists": [
+        {
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+        }
+      ],
+      "duration_ms": 253013,
+      "name": "Youth",
+      "url": "https://open.spotify.com/track/0UPMxtinlgA1dkne9PAKTW"
     },
     {
       "added_at": "2023-03-07 22:54:37",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-03-07 22:54:37",
       "album": {
-        "name": "Flowers & Chocolate",
-        "url": "https://open.spotify.com/album/3Ir7nA3B734XS42NL5HfCW"
-      },
-      "artists": [
-        {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        }
-      ],
-      "duration_ms": 195509,
-      "name": "Flowers & Chocolate",
-      "url": "https://open.spotify.com/track/3ne8gcrNZD2lJihBGl5RC5"
-    },
-    {
-      "added_at": "2023-03-07 22:54:37",
-      "album": {
         "name": "Simple Things",
         "url": "https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 183666,
       "name": "1234",
       "url": "https://open.spotify.com/track/2CzWeyC9zlDpIOZPUUKrBW"
+    },
+    {
+      "added_at": "2023-03-07 22:54:37",
+      "album": {
+        "name": "Flowers & Chocolate",
+        "url": "https://open.spotify.com/album/3Ir7nA3B734XS42NL5HfCW"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        }
+      ],
+      "duration_ms": 195509,
+      "name": "Flowers & Chocolate",
+      "url": "https://open.spotify.com/track/3ne8gcrNZD2lJihBGl5RC5"
     },
     {
       "added_at": "2023-03-07 22:54:37",

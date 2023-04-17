@@ -1,12 +1,12 @@
 {
   "description": "Qu\u00e9 bonito se siente el amor. \ud83d\udc98",
-  "num_followers": 1983268,
+  "num_followers": 1983515,
   "original_name": "Amor Amor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMGUwOWE1ZmM4ODllYzZmMDgxMjFjMDkyODU4MzA3OTll",
+  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDBhYTQ5Njc0ZTE3ZDE2NThiMTgwNTE5ODE0MGE3NDlm",
   "tracks": [
     {
       "added_at": "2023-04-14 04:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Cupido",
-        "url": "https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 144545,
-      "name": "Beso En Las Rocas",
-      "url": "https://open.spotify.com/track/63hQU0ll74dtGBDMcyvdEC"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "De Adentro Pa Afuera",
         "url": "https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 214520,
       "name": "\u00cdndigo",
       "url": "https://open.spotify.com/track/6i28Cxd4CUiHmcowzQW38w"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Cupido",
+        "url": "https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 144545,
+      "name": "Beso En Las Rocas",
+      "url": "https://open.spotify.com/track/63hQU0ll74dtGBDMcyvdEC"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -863,18 +863,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Lunas rotas",
-        "url": "https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg"
+        "name": "Un A\u00f1o",
+        "url": "https://open.spotify.com/album/4Vtx3PxyOfBUBuEYAIocsP"
       },
       "artists": [
         {
-          "name": "Rosana",
-          "url": "https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0"
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
         }
       ],
-      "duration_ms": 220546,
-      "name": "A fuego lento",
-      "url": "https://open.spotify.com/track/7nK3q1GgJDxlWfCwtiLV5a"
+      "duration_ms": 164440,
+      "name": "Un A\u00f1o",
+      "url": "https://open.spotify.com/track/5BDP2tky8oMQJPS33frKVp"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -895,22 +899,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Un A\u00f1o",
-        "url": "https://open.spotify.com/album/4Vtx3PxyOfBUBuEYAIocsP"
+        "name": "Lunas rotas",
+        "url": "https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg"
       },
       "artists": [
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+          "name": "Rosana",
+          "url": "https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0"
         }
       ],
-      "duration_ms": 164440,
-      "name": "Un A\u00f1o",
-      "url": "https://open.spotify.com/track/5BDP2tky8oMQJPS33frKVp"
+      "duration_ms": 220546,
+      "name": "A fuego lento",
+      "url": "https://open.spotify.com/track/7nK3q1GgJDxlWfCwtiLV5a"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "A la Mar",
-        "url": "https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE"
-      },
-      "artists": [
-        {
-          "name": "Vicente Garcia",
-          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
-        }
-      ],
-      "duration_ms": 181466,
-      "name": "Carmes\u00ed",
-      "url": "https://open.spotify.com/track/3fk5fBFB27GbWGATdBpOgr"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Franco De Vita En Primera Fila",
         "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 218760,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "A la Mar",
+        "url": "https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE"
+      },
+      "artists": [
+        {
+          "name": "Vicente Garcia",
+          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+        }
+      ],
+      "duration_ms": 181466,
+      "name": "Carmes\u00ed",
+      "url": "https://open.spotify.com/track/3fk5fBFB27GbWGATdBpOgr"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -995,6 +995,26 @@
       "duration_ms": 165533,
       "name": "Plut\u00f3n",
       "url": "https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/6fv6tD2JlEMZaFf6tF0GcH"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 208600,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/55CJCECkPMd9ZhGr4JOKn7"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1031,26 +1051,6 @@
       "duration_ms": 263666,
       "name": "Me Enamor\u00e9 de Ti",
       "url": "https://open.spotify.com/track/1sJFu2pvYJhtEOo9oVe1TZ"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/6fv6tD2JlEMZaFf6tF0GcH"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 208600,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/55CJCECkPMd9ZhGr4JOKn7"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1107,6 +1107,22 @@
       "duration_ms": 208954,
       "name": "Carm\u00edn (feat. Juan Luis Guerra)",
       "url": "https://open.spotify.com/track/7feNblkR0A56vttsAGTyzK"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "TV",
+        "url": "https://open.spotify.com/album/1QlWbtKAAJnMTxYnLcRupx"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 165200,
+      "name": "TV",
+      "url": "https://open.spotify.com/track/7umNRgkjLJEnGF8Iq8f2rI"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1203,22 +1219,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "TV",
-        "url": "https://open.spotify.com/album/1QlWbtKAAJnMTxYnLcRupx"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 165200,
-      "name": "TV",
-      "url": "https://open.spotify.com/track/7umNRgkjLJEnGF8Iq8f2rI"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "A la Mar",
         "url": "https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE"
       },
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Mucha Cosa Buena",
-        "url": "https://open.spotify.com/album/2Lvsyubptl5ITRCjy0FTmH"
-      },
-      "artists": [
-        {
-          "name": "Sie7e",
-          "url": "https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz"
-        }
-      ],
-      "duration_ms": 231573,
-      "name": "Tengo Tu Love",
-      "url": "https://open.spotify.com/track/2hgzokI1dOZAxs5PUG0gBT"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "M\u00e1s M\u00fasica + Alma + Sexo",
         "url": "https://open.spotify.com/album/0a9o88R6EXFDtbcbdYqKD2"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 216613,
       "name": "Lo Mejor de Mi Vida Eres T\u00fa (feat. Natalia Jim\u00e9nez)",
       "url": "https://open.spotify.com/track/2uhaDVmfG7pT94VO5jl2r4"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Mucha Cosa Buena",
+        "url": "https://open.spotify.com/album/2Lvsyubptl5ITRCjy0FTmH"
+      },
+      "artists": [
+        {
+          "name": "Sie7e",
+          "url": "https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz"
+        }
+      ],
+      "duration_ms": 231573,
+      "name": "Tengo Tu Love",
+      "url": "https://open.spotify.com/track/2hgzokI1dOZAxs5PUG0gBT"
     },
     {
       "added_at": "2023-04-14 04:00:00",

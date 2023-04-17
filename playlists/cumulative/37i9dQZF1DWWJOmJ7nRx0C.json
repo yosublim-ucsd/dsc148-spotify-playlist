@@ -132,6 +132,24 @@
     {
       "album": {
         "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459120,
+      "name": "72 Seasons",
+      "url": "https://open.spotify.com/track/4poeu6nUr4UQo1RXpp29Js"
+    },
+    {
+      "album": {
+        "name": "72 Seasons",
         "url": "https://open.spotify.com/album/5vFa10TvQUWpEv9OkVBatc"
       },
       "artists": [
@@ -142,7 +160,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 459120,
       "name": "72 Seasons",
       "url": "https://open.spotify.com/track/6txhb14PWs9yrkTgR2jnU4"
@@ -5947,6 +5965,24 @@
     },
     {
       "album": {
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396293,
+      "name": "If Darkness Had a Son",
+      "url": "https://open.spotify.com/track/3i4Nwzze8zflIoKsuoeBPM"
+    },
+    {
+      "album": {
         "name": "If Darkness Had a Son",
         "url": "https://open.spotify.com/album/07wqwU4JaQl7XTWwfiAobb"
       },
@@ -5958,7 +5994,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-17",
       "duration_ms": 396293,
       "name": "If Darkness Had a Son",
       "url": "https://open.spotify.com/track/69HjtjyHuP8KJT7xBaUmtW"

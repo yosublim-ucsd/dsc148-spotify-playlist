@@ -1,12 +1,12 @@
 {
   "description": "\u00a1El mejor condimento para tus comidas!",
-  "num_followers": 140575,
+  "num_followers": 140678,
   "original_name": "Cocina con Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0MTIwMCwwMDAwMDAwMDFhNTYzYjI4OWNhMGFmMDFjYzU2MDI1MmEyZDY2OTI5",
+  "snapshot_id": "MTY4MTQ0MTIwMCwwMDAwMDAwMGZkZjg5OGUzOGQ5MGQwMWJlZWJmZTJhODUwZTU0ZmMx",
   "tracks": [
     {
       "added_at": "2023-04-14 03:00:00",
@@ -232,7 +232,7 @@
           "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
         }
       ],
-      "duration_ms": 259240,
+      "duration_ms": 259239,
       "name": "Oye Mujer",
       "url": "https://open.spotify.com/track/37kCg5izHEMZ66xGdMVG5L"
     },
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Una Cerveza",
-        "url": "https://open.spotify.com/album/1g4pk2xu9KBJXTdtOwaO4C"
-      },
-      "artists": [
-        {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
-        }
-      ],
-      "duration_ms": 240853,
-      "name": "Una Cerveza",
-      "url": "https://open.spotify.com/track/3LNZSTiwQYL7BnTfHvIOII"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "No Se",
         "url": "https://open.spotify.com/album/6NJlOO58BXDL9pDfc4kuqb"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 160689,
       "name": "No Se",
       "url": "https://open.spotify.com/track/0tTkyk0axNyWRHzPBgRb8l"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Una Cerveza",
+        "url": "https://open.spotify.com/album/1g4pk2xu9KBJXTdtOwaO4C"
+      },
+      "artists": [
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        }
+      ],
+      "duration_ms": 240853,
+      "name": "Una Cerveza",
+      "url": "https://open.spotify.com/track/3LNZSTiwQYL7BnTfHvIOII"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -439,6 +439,42 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "ADI\u00d3S (Live Version)",
+        "url": "https://open.spotify.com/album/4kl31TLRY80ZsAGSAFn282"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        }
+      ],
+      "duration_ms": 164547,
+      "name": "ADI\u00d3S (Live Version)",
+      "url": "https://open.spotify.com/track/3jrn71DBQDQsenUUNspQwe"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Imparables",
+        "url": "https://open.spotify.com/album/7jfg9E2mgCCUgeRAHRJuIG"
+      },
+      "artists": [
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        }
+      ],
+      "duration_ms": 194800,
+      "name": "Mentirosa",
+      "url": "https://open.spotify.com/track/3Iw4UVS7fo2TdD6Spmgqaj"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "El Poder De La Cumbia",
         "url": "https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m"
       },
@@ -471,26 +507,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "ADI\u00d3S (Live Version)",
-        "url": "https://open.spotify.com/album/4kl31TLRY80ZsAGSAFn282"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        },
-        {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
-        }
-      ],
-      "duration_ms": 164547,
-      "name": "ADI\u00d3S (Live Version)",
-      "url": "https://open.spotify.com/track/3jrn71DBQDQsenUUNspQwe"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Guaracha Sabrosona",
         "url": "https://open.spotify.com/album/0UZNJ0LcKDFyozURk4DUKJ"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 219026,
       "name": "Guaracha Sabrosona",
       "url": "https://open.spotify.com/track/0p88CmD2dgRH9Y52unhHi3"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Imparables",
-        "url": "https://open.spotify.com/album/7jfg9E2mgCCUgeRAHRJuIG"
-      },
-      "artists": [
-        {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
-        }
-      ],
-      "duration_ms": 194800,
-      "name": "Mentirosa",
-      "url": "https://open.spotify.com/track/3Iw4UVS7fo2TdD6Spmgqaj"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Mu\u00e9vete",
-        "url": "https://open.spotify.com/album/2wlGJHKt8joZ35jI0nfzF1"
-      },
-      "artists": [
-        {
-          "name": "Los Telez",
-          "url": "https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A"
-        }
-      ],
-      "duration_ms": 225333,
-      "name": "Gritar\u00eda",
-      "url": "https://open.spotify.com/track/0t1UDIDBS2u8k0TltYUHaE"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Caifanes",
         "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 472400,
       "name": "La Negra Tomasa - Bilongo - Versi\u00f3n Tropical",
       "url": "https://open.spotify.com/track/6cVHu0HmKo4oEOSOqooTa3"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Mu\u00e9vete",
+        "url": "https://open.spotify.com/album/2wlGJHKt8joZ35jI0nfzF1"
+      },
+      "artists": [
+        {
+          "name": "Los Telez",
+          "url": "https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A"
+        }
+      ],
+      "duration_ms": 225333,
+      "name": "Gritar\u00eda",
+      "url": "https://open.spotify.com/track/0t1UDIDBS2u8k0TltYUHaE"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Me Gusta Todo De Ti",
-        "url": "https://open.spotify.com/album/3kvLgFBMMD55vLEuBjJUpU"
-      },
-      "artists": [
-        {
-          "name": "Noche de Brujas",
-          "url": "https://open.spotify.com/artist/1bwsprbGyKx2vBbPAwVebl"
-        }
-      ],
-      "duration_ms": 248680,
-      "name": "Me Gusta Todo De Ti",
-      "url": "https://open.spotify.com/track/2SEYkDv8jqEVMpppKoG3mY"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "No Se Va",
         "url": "https://open.spotify.com/album/1qYntEy4y4mTAisca3zseT"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 201804,
       "name": "No Se Va",
       "url": "https://open.spotify.com/track/0kS31L4yk4ZpSCvvwyZ6T3"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Me Gusta Todo De Ti",
+        "url": "https://open.spotify.com/album/3kvLgFBMMD55vLEuBjJUpU"
+      },
+      "artists": [
+        {
+          "name": "Noche de Brujas",
+          "url": "https://open.spotify.com/artist/1bwsprbGyKx2vBbPAwVebl"
+        }
+      ],
+      "duration_ms": 248680,
+      "name": "Me Gusta Todo De Ti",
+      "url": "https://open.spotify.com/track/2SEYkDv8jqEVMpppKoG3mY"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Vol\u00f3 la Paloma",
-        "url": "https://open.spotify.com/album/3CVPHYjfA1obSJsehR7C03"
-      },
-      "artists": [
-        {
-          "name": "Los Palmeras",
-          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
-        }
-      ],
-      "duration_ms": 290120,
-      "name": "Olv\u00eddala",
-      "url": "https://open.spotify.com/track/19oggfRyJpBt68pSKbFofW"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "La Champions Liga",
         "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 127973,
       "name": "Dime si eres feliz",
       "url": "https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Vol\u00f3 la Paloma",
+        "url": "https://open.spotify.com/album/3CVPHYjfA1obSJsehR7C03"
+      },
+      "artists": [
+        {
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+        }
+      ],
+      "duration_ms": 290120,
+      "name": "Olv\u00eddala",
+      "url": "https://open.spotify.com/track/19oggfRyJpBt68pSKbFofW"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Lo Nuevo Y\u2026Lo Mejor",
-        "url": "https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Sonador",
-          "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
-        }
-      ],
-      "duration_ms": 169640,
-      "name": "La Cumbia De La Cerveza",
-      "url": "https://open.spotify.com/track/2J0QDG9aKp41dl3nT9d9IQ"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Si Tu Supieras",
         "url": "https://open.spotify.com/album/5SYW3HfQPkp7vIglyaF0Uv"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 182599,
       "name": "Si Tu Supieras",
       "url": "https://open.spotify.com/track/1lyJIjlGdT429sZpukV0Ih"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Lo Nuevo Y\u2026Lo Mejor",
+        "url": "https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Sonador",
+          "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
+        }
+      ],
+      "duration_ms": 169640,
+      "name": "La Cumbia De La Cerveza",
+      "url": "https://open.spotify.com/track/2J0QDG9aKp41dl3nT9d9IQ"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1315,6 +1315,26 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "No Te Contaron Mal",
+        "url": "https://open.spotify.com/album/1SA0I1FbYvDLQ4KJ3KORMl"
+      },
+      "artists": [
+        {
+          "name": "Roman El Original",
+          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
+        },
+        {
+          "name": "Kekelandia",
+          "url": "https://open.spotify.com/artist/3cU7QclsaxDJY7usiRHYcy"
+        }
+      ],
+      "duration_ms": 176864,
+      "name": "No Te Contaron Mal",
+      "url": "https://open.spotify.com/track/3kTbCMCftDxUscAi7VO4nA"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "Boquita de Caramelo",
         "url": "https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm"
       },
@@ -1347,22 +1367,18 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "No Te Contaron Mal",
-        "url": "https://open.spotify.com/album/1SA0I1FbYvDLQ4KJ3KORMl"
+        "name": "Historias",
+        "url": "https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm"
       },
       "artists": [
         {
-          "name": "Roman El Original",
-          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
-        },
-        {
-          "name": "Kekelandia",
-          "url": "https://open.spotify.com/artist/3cU7QclsaxDJY7usiRHYcy"
+          "name": "Agrupaci\u00f3n Marilyn",
+          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
         }
       ],
-      "duration_ms": 176864,
-      "name": "No Te Contaron Mal",
-      "url": "https://open.spotify.com/track/3kTbCMCftDxUscAi7VO4nA"
+      "duration_ms": 224352,
+      "name": "Su Florcita",
+      "url": "https://open.spotify.com/track/558S2P5A4Ku4bnXheLaXeG"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1379,22 +1395,6 @@
       "duration_ms": 220533,
       "name": "Cumbia Francesa",
       "url": "https://open.spotify.com/track/6gcI2byXyIPQM2tFybviuo"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Historias",
-        "url": "https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm"
-      },
-      "artists": [
-        {
-          "name": "Agrupaci\u00f3n Marilyn",
-          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
-        }
-      ],
-      "duration_ms": 224352,
-      "name": "Su Florcita",
-      "url": "https://open.spotify.com/track/558S2P5A4Ku4bnXheLaXeG"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Furia Loca",
-        "url": "https://open.spotify.com/album/2I5YX797d9b7DN67fWhr8S"
+        "name": "No Est\u00e1 en la Flecha Sino en el Indio",
+        "url": "https://open.spotify.com/album/0c5AlFdcK0Tv073nYxrOBA"
       },
       "artists": [
         {
-          "name": "La Gran Magia Tropical",
-          "url": "https://open.spotify.com/artist/25n4vLuiRlvNe67pJ8WvdP"
+          "name": "Nene Malo",
+          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
         }
       ],
-      "duration_ms": 190970,
-      "name": "Furia Loca (Mujer C\u00f3smica)",
-      "url": "https://open.spotify.com/track/6cg8xpwqNvh7VVPG5dyymT"
+      "duration_ms": 185453,
+      "name": "Esc\u00e1pate Conmigo",
+      "url": "https://open.spotify.com/track/408q39K0rnY815TF5x52tb"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1495,38 +1495,34 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "No Est\u00e1 en la Flecha Sino en el Indio",
-        "url": "https://open.spotify.com/album/0c5AlFdcK0Tv073nYxrOBA"
+        "name": "Furia Loca",
+        "url": "https://open.spotify.com/album/2I5YX797d9b7DN67fWhr8S"
       },
       "artists": [
         {
-          "name": "Nene Malo",
-          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
+          "name": "La Gran Magia Tropical",
+          "url": "https://open.spotify.com/artist/25n4vLuiRlvNe67pJ8WvdP"
         }
       ],
-      "duration_ms": 185453,
-      "name": "Esc\u00e1pate Conmigo",
-      "url": "https://open.spotify.com/track/408q39K0rnY815TF5x52tb"
+      "duration_ms": 190970,
+      "name": "Furia Loca (Mujer C\u00f3smica)",
+      "url": "https://open.spotify.com/track/6cg8xpwqNvh7VVPG5dyymT"
     },
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "En El Ojo Del Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/6BvsB3GWe7LlRBZyK5nBAQ"
+        "name": "Cumbia Nena",
+        "url": "https://open.spotify.com/album/0CgHWdYF92LImrdVUO66Hm"
       },
       "artists": [
         {
-          "name": "Santaferia",
-          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
-        },
-        {
-          "name": "Illapu",
-          "url": "https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx"
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
         }
       ],
-      "duration_ms": 220226,
-      "name": "Si Te Marchas, No Hay Manera",
-      "url": "https://open.spotify.com/track/1Au0sqaCTdSjHdGkQdwQw8"
+      "duration_ms": 204293,
+      "name": "Yo Tomo",
+      "url": "https://open.spotify.com/track/3aMeh9RWiWwKoDF66AuyN3"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1551,34 +1547,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "15A\u00f1ero",
-        "url": "https://open.spotify.com/album/5n9sH3qpY2tYoe8mJ5UvDk"
+        "name": "En El Ojo Del Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/6BvsB3GWe7LlRBZyK5nBAQ"
       },
       "artists": [
         {
-          "name": "Villa Cari\u00f1o",
-          "url": "https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1"
-        }
-      ],
-      "duration_ms": 181840,
-      "name": "Para dormir contigo otra vez",
-      "url": "https://open.spotify.com/track/7eYjn1bChNho1ELP0mbyeA"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Cumbia Nena",
-        "url": "https://open.spotify.com/album/0CgHWdYF92LImrdVUO66Hm"
-      },
-      "artists": [
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+        },
         {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+          "name": "Illapu",
+          "url": "https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx"
         }
       ],
-      "duration_ms": 204293,
-      "name": "Yo Tomo",
-      "url": "https://open.spotify.com/track/3aMeh9RWiWwKoDF66AuyN3"
+      "duration_ms": 220226,
+      "name": "Si Te Marchas, No Hay Manera",
+      "url": "https://open.spotify.com/track/1Au0sqaCTdSjHdGkQdwQw8"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1599,6 +1583,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "15A\u00f1ero",
+        "url": "https://open.spotify.com/album/5n9sH3qpY2tYoe8mJ5UvDk"
+      },
+      "artists": [
+        {
+          "name": "Villa Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1"
+        }
+      ],
+      "duration_ms": 181840,
+      "name": "Para dormir contigo otra vez",
+      "url": "https://open.spotify.com/track/7eYjn1bChNho1ELP0mbyeA"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "Coraz\u00f3n Valiente",
         "url": "https://open.spotify.com/album/1qeqv8V5qkNHRmhcBD5QnD"
       },
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Altos Cumbieros - Cumbia Villera",
-        "url": "https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF"
-      },
-      "artists": [
-        {
-          "name": "Altos Cumbieros",
-          "url": "https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM"
-        }
-      ],
-      "duration_ms": 188720,
-      "name": "No voy a llorar",
-      "url": "https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Con la Misma Moneda",
         "url": "https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 266760,
       "name": "Con la Misma Moneda",
       "url": "https://open.spotify.com/track/6HIZ8QjtS1jGxAfTEYFyi4"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Altos Cumbieros - Cumbia Villera",
+        "url": "https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF"
+      },
+      "artists": [
+        {
+          "name": "Altos Cumbieros",
+          "url": "https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM"
+        }
+      ],
+      "duration_ms": 188720,
+      "name": "No voy a llorar",
+      "url": "https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1683,22 +1683,18 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Para Que La Cu\u00f1a Apriete",
-        "url": "https://open.spotify.com/album/643Req8SJXX188L5fuuVD2"
+        "name": "La Fiesta es de Nosotros",
+        "url": "https://open.spotify.com/album/67YStxw0rxexYKzFU6ocdT"
       },
       "artists": [
         {
-          "name": "Grupo Kual? Dinastia Pedraza Es Grupo Kein?",
-          "url": "https://open.spotify.com/artist/3mtUQL8wfuXoI3bcciosLd"
-        },
-        {
-          "name": "Grupo Kien? Los Reyes Del Sabor",
-          "url": "https://open.spotify.com/artist/5bK0A1q7E0UgBFrXZtedtU"
+          "name": "Villa Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1"
         }
       ],
-      "duration_ms": 296680,
-      "name": "La Rumba Quimbumba",
-      "url": "https://open.spotify.com/track/02pQk9G1SnyBBVh9yOtxau"
+      "duration_ms": 272044,
+      "name": "Serenata cruel",
+      "url": "https://open.spotify.com/track/2gEhAH0eZwl3b8si4l3tZ1"
     }
   ],
   "unique_name": "Cocina con Cumbia",

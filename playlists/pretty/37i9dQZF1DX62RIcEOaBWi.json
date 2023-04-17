@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica alegre para que el trabajo se te pase volando.",
-  "num_followers": 561036,
+  "num_followers": 561035,
   "original_name": "En el Trabajo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAzMjA1MSwwMDAwMDAwMDQ3OGI1NzdlNjRmYjY2MDE1YjY3ZWY3YzM3YTBmOWZm",
+  "snapshot_id": "MTY3NjAzMjA1MSwwMDAwMDAwMDU5MTI5MjBlOTRjMzkxNTRkYzMxMzczNjAyNzRlYmVh",
   "tracks": [
     {
       "added_at": "2023-01-05 13:15:22",
@@ -479,18 +479,18 @@
     {
       "added_at": "2023-01-05 13:15:22",
       "album": {
-        "name": "Never Gonna Not Dance Again",
-        "url": "https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR"
+        "name": "Hello, I Must Be Going! (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6sn6eWmPciSiHj0ltTBl7M"
       },
       "artists": [
         {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
         }
       ],
-      "duration_ms": 225789,
-      "name": "Never Gonna Not Dance Again",
-      "url": "https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0"
+      "duration_ms": 175746,
+      "name": "You Can't Hurry Love - 2016 Remaster",
+      "url": "https://open.spotify.com/track/4YwbSZaYeYja8Umyt222Qf"
     },
     {
       "added_at": "2023-01-05 13:15:22",
@@ -515,18 +515,18 @@
     {
       "added_at": "2023-01-05 13:15:22",
       "album": {
-        "name": "Hello, I Must Be Going! (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6sn6eWmPciSiHj0ltTBl7M"
+        "name": "Never Gonna Not Dance Again",
+        "url": "https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR"
       },
       "artists": [
         {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
         }
       ],
-      "duration_ms": 175746,
-      "name": "You Can't Hurry Love - 2016 Remaster",
-      "url": "https://open.spotify.com/track/4YwbSZaYeYja8Umyt222Qf"
+      "duration_ms": 225789,
+      "name": "Never Gonna Not Dance Again",
+      "url": "https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0"
     },
     {
       "added_at": "2023-01-05 13:15:22",
@@ -547,6 +547,22 @@
     {
       "added_at": "2023-01-05 13:15:22",
       "album": {
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 216773,
+      "name": "I Say a Little Prayer",
+      "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
+    },
+    {
+      "added_at": "2023-01-05 13:15:22",
+      "album": {
         "name": "Version",
         "url": "https://open.spotify.com/album/15uqXXD0sAdZuxNxTxktlR"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 219413,
       "name": "Valerie (feat. Amy Winehouse) - Version Revisited",
       "url": "https://open.spotify.com/track/6kopmMZiyLmw7h66uXcXR7"
-    },
-    {
-      "added_at": "2023-01-05 13:15:22",
-      "album": {
-        "name": "Aretha Now",
-        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 216773,
-      "name": "I Say a Little Prayer",
-      "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
     },
     {
       "added_at": "2023-01-05 13:15:22",
@@ -633,7 +633,7 @@
       "url": "https://open.spotify.com/track/1p7m9H4H8s0Y7SgRm7j3ED"
     },
     {
-      "added_at": "2023-04-16 00:40:50",
+      "added_at": "2023-04-17 01:14:31",
       "album": {
         "name": "How Can You Mend A Broken Heart",
         "url": "https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx"
@@ -665,22 +665,6 @@
       "url": "https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G"
     },
     {
-      "added_at": "2023-04-16 00:40:50",
-      "album": {
-        "name": "At The Close Of A Century",
-        "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 262240,
-      "name": "I Just Called To Say I Love You",
-      "url": "https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs"
-    },
-    {
       "added_at": "2023-01-05 13:15:22",
       "album": {
         "name": "Colour By Numbers",
@@ -695,6 +679,22 @@
       "duration_ms": 252773,
       "name": "Karma Chameleon - Remastered 2002",
       "url": "https://open.spotify.com/track/2wSAWEYUHkt92X4SBAPqZE"
+    },
+    {
+      "added_at": "2023-04-17 01:14:31",
+      "album": {
+        "name": "At The Close Of A Century",
+        "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 262240,
+      "name": "I Just Called To Say I Love You",
+      "url": "https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs"
     },
     {
       "added_at": "2023-01-05 13:15:22",
@@ -817,7 +817,7 @@
       "url": "https://open.spotify.com/track/7iXJg4IUyrWont5YSQrbKP"
     },
     {
-      "added_at": "2023-04-16 00:40:50",
+      "added_at": "2023-04-17 01:14:31",
       "album": {
         "name": "Sleeping With The Past (Remastered with bonus tracks)",
         "url": "https://open.spotify.com/album/0j12QW17dkUCCI7eOAiT1r"
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-01-05 13:15:22",
       "album": {
-        "name": "Escapology",
-        "url": "https://open.spotify.com/album/4QyE2i0y4nyxHsiwm6VK9V"
-      },
-      "artists": [
-        {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
-        }
-      ],
-      "duration_ms": 263866,
-      "name": "Feel",
-      "url": "https://open.spotify.com/track/2Ms33RTRCT6gArrpcrPxmo"
-    },
-    {
-      "added_at": "2023-01-05 13:15:22",
-      "album": {
         "name": "The Very Best Of",
         "url": "https://open.spotify.com/album/05owfigVGpgPe7RKJG1hum"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 183733,
       "name": "Red Red Wine",
       "url": "https://open.spotify.com/track/4uOKFydzAejjSFqYbv1XPt"
+    },
+    {
+      "added_at": "2023-01-05 13:15:22",
+      "album": {
+        "name": "Escapology",
+        "url": "https://open.spotify.com/album/4QyE2i0y4nyxHsiwm6VK9V"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "duration_ms": 263866,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/2Ms33RTRCT6gArrpcrPxmo"
     },
     {
       "added_at": "2023-01-05 13:15:22",
@@ -1039,6 +1039,38 @@
     {
       "added_at": "2023-01-05 13:15:22",
       "album": {
+        "name": "The Essential Journey",
+        "url": "https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "duration_ms": 248906,
+      "name": "Don't Stop Believin'",
+      "url": "https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg"
+    },
+    {
+      "added_at": "2023-04-17 01:14:31",
+      "album": {
+        "name": "Donde Hay M\u00fasica (Spanish Version)",
+        "url": "https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 265626,
+      "name": "La Cosa Mas Bella",
+      "url": "https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2"
+    },
+    {
+      "added_at": "2023-01-05 13:15:22",
+      "album": {
         "name": "Entre el Cielo y el Suelo (Bonus Tracks Edition)",
         "url": "https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy"
       },
@@ -1073,38 +1105,6 @@
       "url": "https://open.spotify.com/track/0EpdLuptraYGFZ6J7HNSLc"
     },
     {
-      "added_at": "2023-04-16 00:40:50",
-      "album": {
-        "name": "Donde Hay M\u00fasica (Spanish Version)",
-        "url": "https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 265626,
-      "name": "La Cosa Mas Bella",
-      "url": "https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2"
-    },
-    {
-      "added_at": "2023-01-05 13:15:22",
-      "album": {
-        "name": "The Essential Journey",
-        "url": "https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R"
-      },
-      "artists": [
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        }
-      ],
-      "duration_ms": 248906,
-      "name": "Don't Stop Believin'",
-      "url": "https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg"
-    },
-    {
       "added_at": "2023-01-05 13:15:22",
       "album": {
         "name": "In Between Dreams",
@@ -1119,26 +1119,6 @@
       "duration_ms": 207680,
       "name": "Better Together",
       "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
-    },
-    {
-      "added_at": "2023-01-05 13:15:22",
-      "album": {
-        "name": "Traductor",
-        "url": "https://open.spotify.com/album/5b4J3ESXsrkLZ3hLcoVVpl"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 222857,
-      "name": "Traductor",
-      "url": "https://open.spotify.com/track/77l75UICfUZK5k0G7WRGqg"
     },
     {
       "added_at": "2023-01-05 13:15:22",
@@ -1159,6 +1139,26 @@
       "duration_ms": 188213,
       "name": "El Mismo Aire - con Pablo Albor\u00e1n",
       "url": "https://open.spotify.com/track/5EbtodsuLbxrFDH6j5avVS"
+    },
+    {
+      "added_at": "2023-01-05 13:15:22",
+      "album": {
+        "name": "Traductor",
+        "url": "https://open.spotify.com/album/5b4J3ESXsrkLZ3hLcoVVpl"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 222857,
+      "name": "Traductor",
+      "url": "https://open.spotify.com/track/77l75UICfUZK5k0G7WRGqg"
     },
     {
       "added_at": "2023-01-05 13:15:22",
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2023-01-05 13:15:22",
       "album": {
-        "name": "Par\u00eds",
-        "url": "https://open.spotify.com/album/2dhk2kLdjVxWps1PW9WSTj"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 182187,
-      "name": "Par\u00eds",
-      "url": "https://open.spotify.com/track/3ehHqgYRzmeUi345MfHS2N"
-    },
-    {
-      "added_at": "2023-01-05 13:15:22",
-      "album": {
         "name": "Porfa no te vayas",
         "url": "https://open.spotify.com/album/5m71js7NkNRQNtS1wmfH7s"
       },
@@ -1259,6 +1239,26 @@
       "duration_ms": 209712,
       "name": "Porfa no te vayas",
       "url": "https://open.spotify.com/track/4J2HLNTxiVxxs6kWgTIN43"
+    },
+    {
+      "added_at": "2023-01-05 13:15:22",
+      "album": {
+        "name": "Par\u00eds",
+        "url": "https://open.spotify.com/album/2dhk2kLdjVxWps1PW9WSTj"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 182187,
+      "name": "Par\u00eds",
+      "url": "https://open.spotify.com/track/3ehHqgYRzmeUi345MfHS2N"
     },
     {
       "added_at": "2023-01-05 13:15:22",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-01-05 13:15:22",
       "album": {
-        "name": "Follow You / Cutthroat",
-        "url": "https://open.spotify.com/album/1nz0PWfAcTQVbFtpU6u1UY"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 175643,
-      "name": "Follow You",
-      "url": "https://open.spotify.com/track/7FdUvDkaE24o3FPIWTvzv2"
-    },
-    {
-      "added_at": "2023-01-05 13:15:22",
-      "album": {
         "name": "Tattoo (Remix with Camilo)",
         "url": "https://open.spotify.com/album/3Na85E6foBKxAeoAojX427"
       },
@@ -1355,6 +1339,22 @@
     {
       "added_at": "2023-01-05 13:15:22",
       "album": {
+        "name": "Follow You / Cutthroat",
+        "url": "https://open.spotify.com/album/1nz0PWfAcTQVbFtpU6u1UY"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 175643,
+      "name": "Follow You",
+      "url": "https://open.spotify.com/track/7FdUvDkaE24o3FPIWTvzv2"
+    },
+    {
+      "added_at": "2023-01-05 13:15:22",
+      "album": {
         "name": "Lady Soul (With Bonus Selections)",
         "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
       },
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-01-05 13:15:22",
       "album": {
-        "name": "Simple Pleasures",
-        "url": "https://open.spotify.com/album/4zhRkgoZKC2xCPPys1gK4b"
-      },
-      "artists": [
-        {
-          "name": "Bobby McFerrin",
-          "url": "https://open.spotify.com/artist/2FjkZT851ez950cyPjeYid"
-        }
-      ],
-      "duration_ms": 294400,
-      "name": "Don't Worry Be Happy",
-      "url": "https://open.spotify.com/track/4hObp5bmIJ3PP3cKA9K9GY"
-    },
-    {
-      "added_at": "2023-01-05 13:15:22",
-      "album": {
         "name": "El Amor En Los Tiempos Del Perreo",
         "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 211998,
       "name": "Tan Bonita",
       "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
+    },
+    {
+      "added_at": "2023-01-05 13:15:22",
+      "album": {
+        "name": "Simple Pleasures",
+        "url": "https://open.spotify.com/album/4zhRkgoZKC2xCPPys1gK4b"
+      },
+      "artists": [
+        {
+          "name": "Bobby McFerrin",
+          "url": "https://open.spotify.com/artist/2FjkZT851ez950cyPjeYid"
+        }
+      ],
+      "duration_ms": 294400,
+      "name": "Don't Worry Be Happy",
+      "url": "https://open.spotify.com/track/4hObp5bmIJ3PP3cKA9K9GY"
     },
     {
       "added_at": "2023-01-05 13:15:22",
@@ -1465,7 +1465,7 @@
       "url": "https://open.spotify.com/track/46GsFW8AFIvi8TUDlYRlXR"
     },
     {
-      "added_at": "2023-04-16 00:40:50",
+      "added_at": "2023-04-17 01:14:31",
       "album": {
         "name": "Un Cl\u00e1sico",
         "url": "https://open.spotify.com/album/5LIYLxHtGfeJkFJjfePMo0"
@@ -1479,26 +1479,6 @@
       "duration_ms": 172891,
       "name": "Un Cl\u00e1sico",
       "url": "https://open.spotify.com/track/1U6oVlu9LhCCj7mRfsomDp"
-    },
-    {
-      "added_at": "2023-01-05 13:15:22",
-      "album": {
-        "name": "TINI TINI TINI",
-        "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 144351,
-      "name": "Un Beso en Madrid",
-      "url": "https://open.spotify.com/track/351dqwRVsCDniedG9soXSf"
     },
     {
       "added_at": "2023-01-05 13:15:22",
@@ -1523,6 +1503,26 @@
       "duration_ms": 204414,
       "name": "La Ni\u00f1a de la Escuela",
       "url": "https://open.spotify.com/track/1g4cZvi0nLeeIycd0Rkljj"
+    },
+    {
+      "added_at": "2023-01-05 13:15:22",
+      "album": {
+        "name": "TINI TINI TINI",
+        "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 144351,
+      "name": "Un Beso en Madrid",
+      "url": "https://open.spotify.com/track/351dqwRVsCDniedG9soXSf"
     },
     {
       "added_at": "2023-01-05 13:15:22",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-01-05 13:15:22",
       "album": {
-        "name": "ADMV",
-        "url": "https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 193699,
-      "name": "ADMV",
-      "url": "https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6"
-    },
-    {
-      "added_at": "2023-01-05 13:15:22",
-      "album": {
         "name": "Canci\u00f3n Bonita",
         "url": "https://open.spotify.com/album/0MykRhKNiatX85K4bCHL8U"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 169559,
       "name": "Canci\u00f3n Bonita",
       "url": "https://open.spotify.com/track/5iF33sXejXwfTuidVHMll0"
+    },
+    {
+      "added_at": "2023-01-05 13:15:22",
+      "album": {
+        "name": "ADMV",
+        "url": "https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 193699,
+      "name": "ADMV",
+      "url": "https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6"
     },
     {
       "added_at": "2023-01-05 13:15:22",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2023-01-05 13:15:22",
       "album": {
-        "name": "Coti",
-        "url": "https://open.spotify.com/album/1msFprmU8cqzLu66TOX4rf"
-      },
-      "artists": [
-        {
-          "name": "Coti",
-          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
-        }
-      ],
-      "duration_ms": 208200,
-      "name": "Nada Fue Un Error",
-      "url": "https://open.spotify.com/track/5QhOF5HXgZ0OFUZSE5kEv1"
-    },
-    {
-      "added_at": "2023-01-05 13:15:22",
-      "album": {
         "name": "Un Mundo Diferente",
         "url": "https://open.spotify.com/album/6lQH3MxpJygGIGs9mOZUNf"
       },
@@ -1851,18 +1835,18 @@
     {
       "added_at": "2023-01-05 13:15:22",
       "album": {
-        "name": "Carne y Hueso",
-        "url": "https://open.spotify.com/album/77p7Bob5p0c15o7r9Wpxb9"
+        "name": "Coti",
+        "url": "https://open.spotify.com/album/1msFprmU8cqzLu66TOX4rf"
       },
       "artists": [
         {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+          "name": "Coti",
+          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
         }
       ],
-      "duration_ms": 178309,
-      "name": "Carne y Hueso",
-      "url": "https://open.spotify.com/track/3yeFTYLMz4nOtyPXWEMKsW"
+      "duration_ms": 208200,
+      "name": "Nada Fue Un Error",
+      "url": "https://open.spotify.com/track/5QhOF5HXgZ0OFUZSE5kEv1"
     },
     {
       "added_at": "2023-01-05 13:15:22",
@@ -1883,6 +1867,22 @@
       "duration_ms": 196802,
       "name": "A Partir De Hoy",
       "url": "https://open.spotify.com/track/3Z7JMhKrVBiMvMd0xV1vyI"
+    },
+    {
+      "added_at": "2023-01-05 13:15:22",
+      "album": {
+        "name": "Carne y Hueso",
+        "url": "https://open.spotify.com/album/77p7Bob5p0c15o7r9Wpxb9"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 178309,
+      "name": "Carne y Hueso",
+      "url": "https://open.spotify.com/track/3yeFTYLMz4nOtyPXWEMKsW"
     },
     {
       "added_at": "2023-01-05 13:15:22",
@@ -1937,7 +1937,7 @@
       "url": "https://open.spotify.com/track/6lhZLbb0czULpjb2kFryPS"
     },
     {
-      "added_at": "2023-04-16 00:40:50",
+      "added_at": "2023-04-17 01:14:31",
       "album": {
         "name": "Par\u00eds",
         "url": "https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8"
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2023-01-05 13:15:22",
       "album": {
-        "name": "Lunas rotas",
-        "url": "https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg"
-      },
-      "artists": [
-        {
-          "name": "Rosana",
-          "url": "https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0"
-        }
-      ],
-      "duration_ms": 220546,
-      "name": "A fuego lento",
-      "url": "https://open.spotify.com/track/7nK3q1GgJDxlWfCwtiLV5a"
-    },
-    {
-      "added_at": "2023-01-05 13:15:22",
-      "album": {
         "name": "Some Say",
         "url": "https://open.spotify.com/album/5pCAWYym13GcQN8CXEb89m"
       },
@@ -2023,6 +2007,22 @@
       "duration_ms": 175601,
       "name": "Some Say",
       "url": "https://open.spotify.com/track/4poybupy26pTWPr9zY1i7h"
+    },
+    {
+      "added_at": "2023-01-05 13:15:22",
+      "album": {
+        "name": "Lunas rotas",
+        "url": "https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg"
+      },
+      "artists": [
+        {
+          "name": "Rosana",
+          "url": "https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0"
+        }
+      ],
+      "duration_ms": 220546,
+      "name": "A fuego lento",
+      "url": "https://open.spotify.com/track/7nK3q1GgJDxlWfCwtiLV5a"
     },
     {
       "added_at": "2023-01-05 13:15:22",
@@ -2101,7 +2101,7 @@
       "url": "https://open.spotify.com/track/4RAJ1h4eqt2dHR6FyyiZLM"
     },
     {
-      "added_at": "2023-04-16 00:40:50",
+      "added_at": "2023-04-17 01:14:31",
       "album": {
         "name": "Rocanrol Bumerang",
         "url": "https://open.spotify.com/album/1YIw799VStxgysT27cUGwp"
@@ -2299,6 +2299,22 @@
     {
       "added_at": "2023-01-05 13:15:22",
       "album": {
+        "name": "Qui\u00e9n Dir\u00eda",
+        "url": "https://open.spotify.com/album/2zZljKaQGNaogYs8QN2wMM"
+      },
+      "artists": [
+        {
+          "name": "DePol",
+          "url": "https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0"
+        }
+      ],
+      "duration_ms": 183898,
+      "name": "Qui\u00e9n Dir\u00eda",
+      "url": "https://open.spotify.com/track/0Fd3900xH77g0ARXQjtYvV"
+    },
+    {
+      "added_at": "2023-01-05 13:15:22",
+      "album": {
         "name": "A Un Paso De La Luna",
         "url": "https://open.spotify.com/album/0IuCnS7obPd6pE3lJx0Ax8"
       },
@@ -2315,22 +2331,6 @@
       "duration_ms": 167313,
       "name": "A Un Paso De La Luna",
       "url": "https://open.spotify.com/track/7ql2RUmAmj36tkMUNWo7MT"
-    },
-    {
-      "added_at": "2023-01-05 13:15:22",
-      "album": {
-        "name": "Qui\u00e9n Dir\u00eda",
-        "url": "https://open.spotify.com/album/2zZljKaQGNaogYs8QN2wMM"
-      },
-      "artists": [
-        {
-          "name": "DePol",
-          "url": "https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0"
-        }
-      ],
-      "duration_ms": 183898,
-      "name": "Qui\u00e9n Dir\u00eda",
-      "url": "https://open.spotify.com/track/0Fd3900xH77g0ARXQjtYvV"
     },
     {
       "added_at": "2023-01-05 13:15:22",
@@ -2407,22 +2407,6 @@
     {
       "added_at": "2023-01-05 13:15:22",
       "album": {
-        "name": "Qu\u00e9 bonita",
-        "url": "https://open.spotify.com/album/1Em1AH6NyWHAPyCaVM7iGX"
-      },
-      "artists": [
-        {
-          "name": "DePol",
-          "url": "https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0"
-        }
-      ],
-      "duration_ms": 163768,
-      "name": "Qu\u00e9 bonita",
-      "url": "https://open.spotify.com/track/31TmMW92lP0UoxtAaF89hU"
-    },
-    {
-      "added_at": "2023-01-05 13:15:22",
-      "album": {
         "name": "TV",
         "url": "https://open.spotify.com/album/1QlWbtKAAJnMTxYnLcRupx"
       },
@@ -2479,6 +2463,22 @@
     {
       "added_at": "2023-01-05 13:15:22",
       "album": {
+        "name": "Qu\u00e9 bonita",
+        "url": "https://open.spotify.com/album/1Em1AH6NyWHAPyCaVM7iGX"
+      },
+      "artists": [
+        {
+          "name": "DePol",
+          "url": "https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0"
+        }
+      ],
+      "duration_ms": 163768,
+      "name": "Qu\u00e9 bonita",
+      "url": "https://open.spotify.com/track/31TmMW92lP0UoxtAaF89hU"
+    },
+    {
+      "added_at": "2023-01-05 13:15:22",
+      "album": {
         "name": "Brothers in Arms",
         "url": "https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s"
       },
@@ -2491,22 +2491,6 @@
       "duration_ms": 252466,
       "name": "Walk of Life",
       "url": "https://open.spotify.com/track/423o3ZHIaBtGXyhF1uH41a"
-    },
-    {
-      "added_at": "2023-01-05 13:15:22",
-      "album": {
-        "name": "Juramento eterno de sal",
-        "url": "https://open.spotify.com/album/181dabcN6rArn5DwOYr3eP"
-      },
-      "artists": [
-        {
-          "name": "\u00c1lvaro De Luna",
-          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
-        }
-      ],
-      "duration_ms": 205546,
-      "name": "Juramento eterno de sal",
-      "url": "https://open.spotify.com/track/23E53f3C9SJ9MqBh1f6hEw"
     },
     {
       "added_at": "2023-01-05 13:15:22",
@@ -2527,22 +2511,18 @@
     {
       "added_at": "2023-01-05 13:15:22",
       "album": {
-        "name": "999 (with Camilo)",
-        "url": "https://open.spotify.com/album/1ku34hDkNqM7caSllxf5Tu"
+        "name": "Juramento eterno de sal",
+        "url": "https://open.spotify.com/album/181dabcN6rArn5DwOYr3eP"
       },
       "artists": [
         {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
         }
       ],
-      "duration_ms": 224168,
-      "name": "999 (with Camilo)",
-      "url": "https://open.spotify.com/track/0EtuSDTRJYUwlPf4y6coIz"
+      "duration_ms": 205546,
+      "name": "Juramento eterno de sal",
+      "url": "https://open.spotify.com/track/23E53f3C9SJ9MqBh1f6hEw"
     },
     {
       "added_at": "2023-01-05 13:15:22",
@@ -2579,6 +2559,26 @@
       "duration_ms": 174026,
       "name": "Nada",
       "url": "https://open.spotify.com/track/4K8cyoCDovlc4FvtUr2Hfx"
+    },
+    {
+      "added_at": "2023-01-05 13:15:22",
+      "album": {
+        "name": "999 (with Camilo)",
+        "url": "https://open.spotify.com/album/1ku34hDkNqM7caSllxf5Tu"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 224168,
+      "name": "999 (with Camilo)",
+      "url": "https://open.spotify.com/track/0EtuSDTRJYUwlPf4y6coIz"
     },
     {
       "added_at": "2023-01-05 13:15:22",

@@ -1,12 +1,12 @@
 {
   "description": "Nothing but classic blues tracks",
-  "num_followers": 1067947,
+  "num_followers": 1068609,
   "original_name": "Blues Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzQ5MDk3MiwwMDAwMDAwMDc0NDFhMjM0NWRjMTc1N2IwODRjOGM4ZDMwYTIwYzBj",
+  "snapshot_id": "MTY2NzQ5MDk3MiwwMDAwMDAwMDk3YWZmYWJhMDlhM2Q1YjRjYzMyMjc2MjVhM2Y2OWJj",
   "tracks": [
     {
       "added_at": "2020-01-15 21:29:46",
@@ -212,6 +212,10 @@
       },
       "artists": [
         {
+          "name": "Sam Maghett",
+          "url": "https://open.spotify.com/artist/1xSXnf7mFuxNF0CMyQmpX2"
+        },
+        {
           "name": "John Mayall & The Bluesbreakers",
           "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
         },
@@ -241,22 +245,6 @@
       "url": "https://open.spotify.com/track/3E0VKSvZp76kvBU2WwwBul"
     },
     {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
-        "name": "Indianola Mississippi Seeds",
-        "url": "https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 293733,
-      "name": "Chains And Things",
-      "url": "https://open.spotify.com/track/5x7Oxaa9EEIx9nw17CC5yW"
-    },
-    {
       "added_at": "2018-03-29 19:44:07",
       "album": {
         "name": "Give It Up (2008 Remaster)",
@@ -271,6 +259,22 @@
       "duration_ms": 192200,
       "name": "Love Me Like a Man - 2008 Remaster",
       "url": "https://open.spotify.com/track/0h06YSqzwbAU9ZDuIvw8pk"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "Indianola Mississippi Seeds",
+        "url": "https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 293733,
+      "name": "Chains And Things",
+      "url": "https://open.spotify.com/track/5x7Oxaa9EEIx9nw17CC5yW"
     },
     {
       "added_at": "2018-03-29 19:44:07",
@@ -659,22 +663,6 @@
     {
       "added_at": "2018-03-29 19:44:07",
       "album": {
-        "name": "My Feeling For the Blues",
-        "url": "https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 216626,
-      "name": "Stumble",
-      "url": "https://open.spotify.com/track/0RTjFVHvqjTdpX2NawwyXI"
-    },
-    {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
         "name": "The Cream Of Clapton",
         "url": "https://open.spotify.com/album/64hcdH7h8noDQg9Zr5COkc"
       },
@@ -687,6 +675,22 @@
       "duration_ms": 255600,
       "name": "Crossroads - Live",
       "url": "https://open.spotify.com/track/1sxtxIKhRiQwuGpUwHoEHq"
+    },
+    {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
+        "name": "My Feeling For the Blues",
+        "url": "https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 216626,
+      "name": "Stumble",
+      "url": "https://open.spotify.com/track/0RTjFVHvqjTdpX2NawwyXI"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -753,22 +757,6 @@
       "url": "https://open.spotify.com/track/2Cg3GUkhjX96nO4p2WRlIa"
     },
     {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
-        "name": "Crawfish Fiesta (Remastered with Bonus Track)",
-        "url": "https://open.spotify.com/album/06pOxWHDhPhmyVGkWRqw4T"
-      },
-      "artists": [
-        {
-          "name": "Professor Longhair",
-          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
-        }
-      ],
-      "duration_ms": 194666,
-      "name": "Big Chief - Remastered",
-      "url": "https://open.spotify.com/track/2r6Ve8kNEzqg3u45UL0muX"
-    },
-    {
       "added_at": "2018-03-29 19:44:07",
       "album": {
         "name": "This Is Clarence Carter",
@@ -783,6 +771,22 @@
       "duration_ms": 161520,
       "name": "Part Time Love",
       "url": "https://open.spotify.com/track/7p5Xpx7dd9wSPJF4Q4Nfbu"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "Crawfish Fiesta (Remastered with Bonus Track)",
+        "url": "https://open.spotify.com/album/06pOxWHDhPhmyVGkWRqw4T"
+      },
+      "artists": [
+        {
+          "name": "Professor Longhair",
+          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
+        }
+      ],
+      "duration_ms": 194666,
+      "name": "Big Chief - Remastered",
+      "url": "https://open.spotify.com/track/2r6Ve8kNEzqg3u45UL0muX"
     },
     {
       "added_at": "2018-03-29 19:44:07",
@@ -885,22 +889,6 @@
       "url": "https://open.spotify.com/track/1ekio2Gk6WycLArAUJZfxM"
     },
     {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
-        "name": "Two Bugs and a Roach",
-        "url": "https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho"
-      },
-      "artists": [
-        {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
-        }
-      ],
-      "duration_ms": 259760,
-      "name": "Two Bugs and a Roach",
-      "url": "https://open.spotify.com/track/79lwbvYgFFw3eNbBx4bBRw"
-    },
-    {
       "added_at": "2018-03-29 19:44:07",
       "album": {
         "name": "Easy Blues (France, 1978) [Blues Reference]",
@@ -915,6 +903,22 @@
       "duration_ms": 252133,
       "name": "Short Dressed Woman",
       "url": "https://open.spotify.com/track/6tilCYbheGMHo3Hw4F22hF"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "Two Bugs and a Roach",
+        "url": "https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho"
+      },
+      "artists": [
+        {
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+        }
+      ],
+      "duration_ms": 259760,
+      "name": "Two Bugs and a Roach",
+      "url": "https://open.spotify.com/track/79lwbvYgFFw3eNbBx4bBRw"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -981,22 +985,6 @@
       "url": "https://open.spotify.com/track/7pzDaHQx6WFWtdx9PLPxcx"
     },
     {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
-        "name": "Johnny Winter",
-        "url": "https://open.spotify.com/album/5RNAJslV8AaTq2gM5JJ9Ch"
-      },
-      "artists": [
-        {
-          "name": "Johnny Winter",
-          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
-        }
-      ],
-      "duration_ms": 232453,
-      "name": "Mean Mistreater",
-      "url": "https://open.spotify.com/track/0tYJ6uY0ETQOtOM8KySMSp"
-    },
-    {
       "added_at": "2021-06-18 04:29:20",
       "album": {
         "name": "Alligator Records 50 Years Of Genuine Houserockin' Music",
@@ -1013,20 +1001,20 @@
       "url": "https://open.spotify.com/track/01noJYGB8kT65mi8Pc2Ola"
     },
     {
-      "added_at": "2021-06-18 04:29:20",
+      "added_at": "2018-03-29 19:44:07",
       "album": {
-        "name": "Alligator Records 50 Years Of Genuine Houserockin' Music",
-        "url": "https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0"
+        "name": "Johnny Winter",
+        "url": "https://open.spotify.com/album/5RNAJslV8AaTq2gM5JJ9Ch"
       },
       "artists": [
         {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
         }
       ],
-      "duration_ms": 334400,
-      "name": "Blue Monday Hangover - Remastered",
-      "url": "https://open.spotify.com/track/227N0C668UQBiN3T4HFzoQ"
+      "duration_ms": 232453,
+      "name": "Mean Mistreater",
+      "url": "https://open.spotify.com/track/0tYJ6uY0ETQOtOM8KySMSp"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -1061,6 +1049,22 @@
       "url": "https://open.spotify.com/track/44s75M70lhq25s3CiW0pxq"
     },
     {
+      "added_at": "2021-06-18 04:29:20",
+      "album": {
+        "name": "Alligator Records 50 Years Of Genuine Houserockin' Music",
+        "url": "https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 334400,
+      "name": "Blue Monday Hangover - Remastered",
+      "url": "https://open.spotify.com/track/227N0C668UQBiN3T4HFzoQ"
+    },
+    {
       "added_at": "2018-03-29 19:44:07",
       "album": {
         "name": "Two Bugs and a Roach",
@@ -1077,22 +1081,6 @@
       "url": "https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3"
     },
     {
-      "added_at": "2021-06-18 04:29:20",
-      "album": {
-        "name": "Alligator Records 50 Years Of Genuine Houserockin' Music",
-        "url": "https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0"
-      },
-      "artists": [
-        {
-          "name": "Hound Dog Taylor",
-          "url": "https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4"
-        }
-      ],
-      "duration_ms": 214520,
-      "name": "Give Me Back My Wig - Remastered",
-      "url": "https://open.spotify.com/track/3kkCpDqhrOEBf0eOR2igEE"
-    },
-    {
       "added_at": "2018-03-29 19:44:07",
       "album": {
         "name": "The Son Seals Blues Band",
@@ -1107,6 +1095,22 @@
       "duration_ms": 362400,
       "name": "Now That I'm Down",
       "url": "https://open.spotify.com/track/5KZrHPwscBkXturVJCJlM4"
+    },
+    {
+      "added_at": "2021-06-18 04:29:20",
+      "album": {
+        "name": "Alligator Records 50 Years Of Genuine Houserockin' Music",
+        "url": "https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0"
+      },
+      "artists": [
+        {
+          "name": "Hound Dog Taylor",
+          "url": "https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4"
+        }
+      ],
+      "duration_ms": 214520,
+      "name": "Give Me Back My Wig - Remastered",
+      "url": "https://open.spotify.com/track/3kkCpDqhrOEBf0eOR2igEE"
     },
     {
       "added_at": "2020-01-15 21:29:46",

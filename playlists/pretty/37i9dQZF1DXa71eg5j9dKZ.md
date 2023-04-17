@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Ross from Friends
 
-[Spotify](https://open.spotify.com/user/spotify) - 420,185 likes - 125 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 420,238 likes - 125 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

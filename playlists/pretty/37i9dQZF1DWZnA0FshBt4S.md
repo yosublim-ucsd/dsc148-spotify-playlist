@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnA0FshBt4S.md) - [plain]
 
 > The very best songs that soundtracked Youth Groups of the 90s & early 00s! Cover: DC Talk
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,307 likes - 75 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,429 likes - 75 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnA0FshBt4S.md) - [plain]
 | 34 | [Shine](https://open.spotify.com/track/03upgLFcOiiB0HlO4LmdLv) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [The Ultimate Collection](https://open.spotify.com/album/4tab0wm9wlaNYGEKAoRzFd) | 3:41 |
 | 35 | [I Want to Know You](https://open.spotify.com/track/3Vw3NlrSsQmE8W5Aqvf0vz) | [Sonicflood](https://open.spotify.com/artist/1lPSXeZw9i7js7PdFJXEJI) | [Sonicflood](https://open.spotify.com/album/6vULYuxP5cDOFdPADeBuUj) | 4:33 |
 | 36 | [Breathe](https://open.spotify.com/track/0TbBIyH8RXlKV07wM8HAVh) | [Rebecca St\. James](https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9) | [Worship God](https://open.spotify.com/album/70zjKqpAO7faWjYVbxLHdX) | 3:57 |
-| 37 | [Faith My Eyes](https://open.spotify.com/track/7IWNJRIemIyC3NA8qf5Zy8) | [Caedmon's Call](https://open.spotify.com/artist/0K1BPXwAU1CTd8DNZohopA) | [40 Acres](https://open.spotify.com/album/5uiJsWmOVFUVukiEJ7JJSL) | 4:41 |
-| 38 | [Supertones Strike Back](https://open.spotify.com/track/7aTrho0CMMab35UaanDEwu) | [The O.C\. Supertones](https://open.spotify.com/artist/61uwXZTKqYAAoXz8XvUUbE) | [Supertones Strike Back, The](https://open.spotify.com/album/4m5KGlpqUtKNT4nrH1Wq8k) | 2:41 |
+| 37 | [Supertones Strike Back](https://open.spotify.com/track/7aTrho0CMMab35UaanDEwu) | [The O.C\. Supertones](https://open.spotify.com/artist/61uwXZTKqYAAoXz8XvUUbE) | [Supertones Strike Back, The](https://open.spotify.com/album/4m5KGlpqUtKNT4nrH1Wq8k) | 2:41 |
+| 38 | [Faith My Eyes](https://open.spotify.com/track/7IWNJRIemIyC3NA8qf5Zy8) | [Caedmon's Call](https://open.spotify.com/artist/0K1BPXwAU1CTd8DNZohopA) | [40 Acres](https://open.spotify.com/album/5uiJsWmOVFUVukiEJ7JJSL) | 4:41 |
 | 39 | [A Flowery Song](https://open.spotify.com/track/6FYCcmTfxq84NSePWXLIby) | [Five Iron Frenzy](https://open.spotify.com/artist/1BcAEs4W94BrXMmVCOgwSx) | [Upbeats & Beatdowns](https://open.spotify.com/album/7IUjcWJ3ucGT2C97McF1Ua) | 3:40 |
 | 40 | [Enough](https://open.spotify.com/track/60kuYvjy5UaEKELsHLxd2n) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Great Is Our God: The Essential Collection](https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu) | 4:20 |
 | 41 | [Lord I Lift Your Name on High](https://open.spotify.com/track/1TIZNu7zA2EiixLFmrmsyF) | [Sonicflood](https://open.spotify.com/artist/1lPSXeZw9i7js7PdFJXEJI) | [Sonicpraise](https://open.spotify.com/album/5uzmXNAOurQhBSA4QUx4eq) | 6:21 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnA0FshBt4S.md) - [plain]
 | 44 | [Consuming Fire](https://open.spotify.com/track/2bAOXQyD64LzOK0jRv1jMi) | [Third Day](https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch) | [Third Day](https://open.spotify.com/album/0CbjyNnad3GgRLWrUshLXF) | 4:09 |
 | 45 | [Get Down](https://open.spotify.com/track/3PTHCjyRYLVMVxeUX59joC) | [Audio Adrenaline](https://open.spotify.com/artist/01PBXLThJADrhufsPS5tER) | [The Ultimate Collection](https://open.spotify.com/album/47NIFvfpDVQbVaoDcfwKqy) | 3:14 |
 | 46 | [Deeper](https://open.spotify.com/track/0hDWOLFu71QCiI8MblsMks) | [Delirious?](https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF) | [King of Fools](https://open.spotify.com/album/4FrXWYXrratJp2KfiFl32j) | 4:20 |
-| 47 | [Gasoline](https://open.spotify.com/track/050IFBYeEqDS4FavXJifoe) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Skillet](https://open.spotify.com/album/5PUVPlbwm347Jt0Vdcw3s5) | 4:02 |
-| 48 | [Welcome Home](https://open.spotify.com/track/3KzE6f3h07i1AiepzjfGHD) | [The O.C\. Supertones](https://open.spotify.com/artist/61uwXZTKqYAAoXz8XvUUbE) | [Hi Fi Revival](https://open.spotify.com/album/3h8idOY5EBpE4bN4idaGJR) | 2:43 |
+| 47 | [Welcome Home](https://open.spotify.com/track/3KzE6f3h07i1AiepzjfGHD) | [The O.C\. Supertones](https://open.spotify.com/artist/61uwXZTKqYAAoXz8XvUUbE) | [Hi Fi Revival](https://open.spotify.com/album/3h8idOY5EBpE4bN4idaGJR) | 2:43 |
+| 48 | [Gasoline](https://open.spotify.com/track/050IFBYeEqDS4FavXJifoe) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Skillet](https://open.spotify.com/album/5PUVPlbwm347Jt0Vdcw3s5) | 4:02 |
 | 49 | [Don't Look At Me](https://open.spotify.com/track/3fyMwcqHxruPGAaGtDt4sh) | [Stacie Orrico](https://open.spotify.com/artist/5QjWgYDeKNP2iPHTdTttnG) | [Genuine](https://open.spotify.com/album/3yurqtwBDlirDKcQt2pEMk) | 3:36 |
 | 50 | [Undo Me](https://open.spotify.com/track/5EV1UhPaelVqKHXkaxglAY) | [Jennifer Knapp](https://open.spotify.com/artist/2yAjgPqGeURdgCHPzuDeYi) | [The Collection](https://open.spotify.com/album/6O9oaYFECfRRBV5z2g0fbV) | 3:23 |
 | 51 | [Entertaining Angels](https://open.spotify.com/track/5lJEym4sjfKZJ20AAjpe1k) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [The Ultimate Collection](https://open.spotify.com/album/4tab0wm9wlaNYGEKAoRzFd) | 4:17 |
@@ -65,12 +65,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnA0FshBt4S.md) - [plain]
 | 55 | [Phenomenon](https://open.spotify.com/track/6qua1VkixdXsqWfxGBNf8d) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Welcome To Diverse City](https://open.spotify.com/album/08J3ZjZXN1J5qNbla71PYI) | 5:19 |
 | 56 | [Love Me Good](https://open.spotify.com/track/4ynh61vZS9j5L6xC63U11q) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Live The Life](https://open.spotify.com/album/1VKNgXQZcAcaYRr6qUMTwM) | 4:41 |
 | 57 | [Prophet, Priest and King](https://open.spotify.com/track/7rEDMH58B288SJZuKO0FuS) | [Smalltown Poets](https://open.spotify.com/artist/0mHos4yS8iAhpYPABHFdBc) | [Smalltown Poets](https://open.spotify.com/album/3VSgWtarqDC0SoLgLzoM8E) | 3:36 |
-| 58 | [Super Good Feeling \- Static Album Version](https://open.spotify.com/track/0kZQnBXiQDpoAaCDwCfPXI) | [Bleach](https://open.spotify.com/artist/6VLj1qK2dmR3P2yMNTSn2Y) | [Static](https://open.spotify.com/album/5QAcLf7DEB5OnTDgbCr1pU) | 3:19 |
-| 59 | [Speechless](https://open.spotify.com/track/6GhzOYfrReyXf19U4YuGXm) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [\# 1's Vol\. 1](https://open.spotify.com/album/0bYtirzI9EXXCcu3gz8FRP) | 5:06 |
-| 60 | [Love Liberty Disco](https://open.spotify.com/track/5K0KgpQUOZlag12UDC5ToB) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [The Ultimate Collection](https://open.spotify.com/album/4tab0wm9wlaNYGEKAoRzFd) | 3:43 |
-| 61 | [Free At Last \- Live](https://open.spotify.com/track/5zmoHiyoqhSnoV9EGcYhYi) | [DC Talk](https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh) | [Free At Last \(Live\)](https://open.spotify.com/album/7whdJR9MEFJixUeSmATRUD) | 4:44 |
-| 62 | [Thicker](https://open.spotify.com/track/5xYOwMkV5NGUYz2lfhR4se) | [Chasing Furies](https://open.spotify.com/artist/4YQBXdwBcvt5mvjfzhts7t) | [With Abandon](https://open.spotify.com/album/08AZTRKahrB3VLMQSNlaEl) | 3:57 |
-| 63 | [Goodbye](https://open.spotify.com/track/4T2YM2TrhtxE9QvyptdBos) | [Plankeye](https://open.spotify.com/artist/1BEzx2txNgJpTDRcgP3ub4) | [Relocation](https://open.spotify.com/album/3HNhQynHgqCzawAk6PGIu9) | 4:20 |
+| 58 | [Speechless](https://open.spotify.com/track/6GhzOYfrReyXf19U4YuGXm) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [\# 1's Vol\. 1](https://open.spotify.com/album/0bYtirzI9EXXCcu3gz8FRP) | 5:06 |
+| 59 | [Super Good Feeling \- Static Album Version](https://open.spotify.com/track/0kZQnBXiQDpoAaCDwCfPXI) | [Bleach](https://open.spotify.com/artist/6VLj1qK2dmR3P2yMNTSn2Y) | [Static](https://open.spotify.com/album/5QAcLf7DEB5OnTDgbCr1pU) | 3:19 |
+| 60 | [Free At Last \- Live](https://open.spotify.com/track/5zmoHiyoqhSnoV9EGcYhYi) | [DC Talk](https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh) | [Free At Last \(Live\)](https://open.spotify.com/album/7whdJR9MEFJixUeSmATRUD) | 4:44 |
+| 61 | [Love Liberty Disco](https://open.spotify.com/track/5K0KgpQUOZlag12UDC5ToB) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [The Ultimate Collection](https://open.spotify.com/album/4tab0wm9wlaNYGEKAoRzFd) | 3:43 |
+| 62 | [Goodbye](https://open.spotify.com/track/4T2YM2TrhtxE9QvyptdBos) | [Plankeye](https://open.spotify.com/artist/1BEzx2txNgJpTDRcgP3ub4) | [Relocation](https://open.spotify.com/album/3HNhQynHgqCzawAk6PGIu9) | 4:20 |
+| 63 | [Thicker](https://open.spotify.com/track/5xYOwMkV5NGUYz2lfhR4se) | [Chasing Furies](https://open.spotify.com/artist/4YQBXdwBcvt5mvjfzhts7t) | [With Abandon](https://open.spotify.com/album/08AZTRKahrB3VLMQSNlaEl) | 3:57 |
 | 64 | [The Sun Also Rises](https://open.spotify.com/track/1riMbTj6HbiQ0tpD1aRema) | [Brave Saint Saturn](https://open.spotify.com/artist/3ThPMQBJlcHA839lBHxQr9) | [The Light Of Things Hoped For](https://open.spotify.com/album/7nxwgdX2XXJ92gJ936QCa1) | 3:15 |
 | 65 | [Revive Us](https://open.spotify.com/track/3C6jSw9wdYUEdgtSMjLsZn) | [Anointed](https://open.spotify.com/artist/6GrYT1CB2T0IxumY1MQpZJ) | [Anointed](https://open.spotify.com/album/2E9vqclDxqceNEMbYn6IxB) | 4:08 |
 | 66 | [Gravity](https://open.spotify.com/track/6z5hemlFOgSeqGgArca8sS) | [Delirious?](https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF) | [Mezzamorphis](https://open.spotify.com/album/5GpaRJfeglVrlsClIlhPtn) | 3:20 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnA0FshBt4S.md) - [plain]
 | 74 | [Rain](https://open.spotify.com/track/1SvlSnI123v00sH5Ro9NZ7) | [dryve](https://open.spotify.com/artist/0hr4err987upnrCLPvCPA4) | [Thrifty Mr\. Kickstar](https://open.spotify.com/album/11bRlMEbcjxbrHnkNZcOuJ) | 6:46 |
 | 75 | [The Devil Is Bad](https://open.spotify.com/track/7HU4ubA9Ml4ztErtnHdOMW) | [The W's](https://open.spotify.com/artist/6hbwBTYR4mLag3kkI6wXSV) | [Fourth From The Last](https://open.spotify.com/album/5ZyJ4WdmnQEGI6vWOKs7Ab) | 3:33 |
 
-Snapshot ID: `MTY3NTIyNzIwMCwwMDAwMDAwMDk0OTQxZWEyMmE1MGMwMGI2Y2E0YTlhYjZmNDk3NmM0`
+Snapshot ID: `MTY3NTIyNzIwMCwwMDAwMDAwMDM5MWM5N2M5NmVmNTBlOTA1ZDgwZmUxYzg5ZjYzODI2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq7lvg1a3j6.md) - [plain]
 
 > Let these songs soundtrack your busy wedding season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,103 likes - 45 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,139 likes - 45 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

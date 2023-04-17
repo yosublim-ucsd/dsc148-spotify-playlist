@@ -1,12 +1,12 @@
 {
   "description": "\u56de\u5bb6\u7684\u8def\u4e0a\uff0c\u6709\u597d\u807d\u7684\u6b4c\u66f2\u966a\u4f34\uff0c\u6703\u8b93\u4eba\u66ab\u6642\u5fd8\u4e86\u75b2\u5026\u3002",
-  "num_followers": 59733,
+  "num_followers": 59779,
   "original_name": "\u8fd4\u5bb6\u8f15\u807d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTEwMzc0OSwwMDAwMDAwMDM3ZDAwN2JlMmY4ZTZiM2FmMGYyNzkxODUwODBlNzU0",
+  "snapshot_id": "MTY4MTEwMzc0OSwwMDAwMDAwMDBhMTNhYzBjZDY1NDA1ZDBlNGFjODZhMTgxODMyZjcz",
   "tracks": [
     {
       "added_at": "2023-04-03 05:20:28",
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/0USeB0Tykai3QZj5YAUclG"
     },
     {
-      "added_at": "2023-04-16 01:24:38",
+      "added_at": "2023-04-17 00:52:12",
       "album": {
         "name": "\u6211\u60f3\u8ba9\u4f60\u5feb\u4e50",
         "url": "https://open.spotify.com/album/3iwuRjVk0RqcgnmjnlstN3"
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-04-03 05:20:28",
       "album": {
-        "name": "Insignificance",
-        "url": "https://open.spotify.com/album/1iD3lBhC6wCUgqNTIMEidj"
-      },
-      "artists": [
-        {
-          "name": "Hebe Tien",
-          "url": "https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5"
-        }
-      ],
-      "duration_ms": 280524,
-      "name": "You Better Not Think About Me",
-      "url": "https://open.spotify.com/track/0mpo3w2SHXb3rsfepeG5Pr"
-    },
-    {
-      "added_at": "2023-04-03 05:20:28",
-      "album": {
         "name": "\u6211\u4ee5\u70ba\u4f60\u4e0d\u6703\u51fa\u73fe",
         "url": "https://open.spotify.com/album/6jCdDLLM1EH24grt1rqmIQ"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 346113,
       "name": "\u6211\u4ee5\u70ba\u4f60\u4e0d\u6703\u51fa\u73fe (UAG\u5b89\u5168\u611f\u5f62\u8c61\u66f2)",
       "url": "https://open.spotify.com/track/20OrMs4eAhIHyG82wHaGy0"
+    },
+    {
+      "added_at": "2023-04-03 05:20:28",
+      "album": {
+        "name": "Insignificance",
+        "url": "https://open.spotify.com/album/1iD3lBhC6wCUgqNTIMEidj"
+      },
+      "artists": [
+        {
+          "name": "Hebe Tien",
+          "url": "https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5"
+        }
+      ],
+      "duration_ms": 280524,
+      "name": "You Better Not Think About Me",
+      "url": "https://open.spotify.com/track/0mpo3w2SHXb3rsfepeG5Pr"
     },
     {
       "added_at": "2023-04-03 05:20:28",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-04-03 05:20:28",
       "album": {
-        "name": "\u6700\u5f8c\u4e00\u6b21",
-        "url": "https://open.spotify.com/album/1Kk3DZ5m4U8hyswoyvnaJo"
-      },
-      "artists": [
-        {
-          "name": "Kelly Pan",
-          "url": "https://open.spotify.com/artist/2hJxcuFTgP89GdmCVXfXyi"
-        }
-      ],
-      "duration_ms": 259000,
-      "name": "\u6700\u5f8c\u4e00\u6b21",
-      "url": "https://open.spotify.com/track/11W5Rb3oJgdsjVjbSIRYA9"
-    },
-    {
-      "added_at": "2023-04-03 05:20:28",
-      "album": {
         "name": "Ugly Beauty",
         "url": "https://open.spotify.com/album/7HFFEjrwzZNpbee44SJnn9"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 301875,
       "name": "\u5982\u679c\u6211\u6c92\u6709\u50b7\u53e3",
       "url": "https://open.spotify.com/track/7jWZPpaNaO8tp6p5RRcNG7"
+    },
+    {
+      "added_at": "2023-04-03 05:20:28",
+      "album": {
+        "name": "\u6700\u5f8c\u4e00\u6b21",
+        "url": "https://open.spotify.com/album/1Kk3DZ5m4U8hyswoyvnaJo"
+      },
+      "artists": [
+        {
+          "name": "Kelly Pan",
+          "url": "https://open.spotify.com/artist/2hJxcuFTgP89GdmCVXfXyi"
+        }
+      ],
+      "duration_ms": 259000,
+      "name": "\u6700\u5f8c\u4e00\u6b21",
+      "url": "https://open.spotify.com/track/11W5Rb3oJgdsjVjbSIRYA9"
     },
     {
       "added_at": "2023-04-03 05:20:28",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-04-03 05:20:28",
       "album": {
-        "name": "\u9ec3\u8272\u7684\u623f\u5b50\u6620\u7167\u6e05\u6668\u7684\u5929\u7a7a",
-        "url": "https://open.spotify.com/album/40hKCfVl08keyqMUPVimz3"
-      },
-      "artists": [
-        {
-          "name": "\u8001\u738b\u6a02\u968a",
-          "url": "https://open.spotify.com/artist/4MRQK5pLyNbcOW493n55iT"
-        }
-      ],
-      "duration_ms": 389645,
-      "name": "\u6625\u5929\u4e0d\u5982\u9810\u671f",
-      "url": "https://open.spotify.com/track/2MK1cGZzVDzNnwbniMmDrJ"
-    },
-    {
-      "added_at": "2023-04-03 05:20:28",
-      "album": {
         "name": "\u8655\u8655\u907a\u61be",
         "url": "https://open.spotify.com/album/6pCW8bXJ2lt3QBU5dFXGdu"
       },
@@ -1111,38 +1095,6 @@
       "duration_ms": 250614,
       "name": "\u8655\u8655\u907a\u61be",
       "url": "https://open.spotify.com/track/6vcl5gHFcDmGnioPoHBxER"
-    },
-    {
-      "added_at": "2023-04-03 05:20:28",
-      "album": {
-        "name": "\u5fc3\u613f",
-        "url": "https://open.spotify.com/album/5FPSPR3NOTVkZFsT0frnaZ"
-      },
-      "artists": [
-        {
-          "name": "Ren Ran",
-          "url": "https://open.spotify.com/artist/6f4srX54JFrLNK4aTJe2Sc"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "\u5fc3\u613f",
-      "url": "https://open.spotify.com/track/2JvBOfpVxHftlTPaCadw6P"
-    },
-    {
-      "added_at": "2023-04-03 05:20:28",
-      "album": {
-        "name": "\u7121\u4eba\u77e5\u66c9",
-        "url": "https://open.spotify.com/album/6bCnbjqqRgcPCpJwcnoLju"
-      },
-      "artists": [
-        {
-          "name": "Hebe Tien",
-          "url": "https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5"
-        }
-      ],
-      "duration_ms": 258533,
-      "name": "\u8af7\u523a\u7684\u60c5\u66f8",
-      "url": "https://open.spotify.com/track/77OJPbm053M9LA5Pqs2yOZ"
     },
     {
       "added_at": "2023-04-03 05:20:28",
@@ -1163,6 +1115,54 @@
       "duration_ms": 291600,
       "name": "\u4e0d\u6416\u6efe",
       "url": "https://open.spotify.com/track/1ZgxIcqFpdHYIF7pjHe1Yc"
+    },
+    {
+      "added_at": "2023-04-03 05:20:28",
+      "album": {
+        "name": "\u9ec3\u8272\u7684\u623f\u5b50\u6620\u7167\u6e05\u6668\u7684\u5929\u7a7a",
+        "url": "https://open.spotify.com/album/40hKCfVl08keyqMUPVimz3"
+      },
+      "artists": [
+        {
+          "name": "\u8001\u738b\u6a02\u968a",
+          "url": "https://open.spotify.com/artist/4MRQK5pLyNbcOW493n55iT"
+        }
+      ],
+      "duration_ms": 389645,
+      "name": "\u6625\u5929\u4e0d\u5982\u9810\u671f",
+      "url": "https://open.spotify.com/track/2MK1cGZzVDzNnwbniMmDrJ"
+    },
+    {
+      "added_at": "2023-04-03 05:20:28",
+      "album": {
+        "name": "\u7121\u4eba\u77e5\u66c9",
+        "url": "https://open.spotify.com/album/6bCnbjqqRgcPCpJwcnoLju"
+      },
+      "artists": [
+        {
+          "name": "Hebe Tien",
+          "url": "https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5"
+        }
+      ],
+      "duration_ms": 258533,
+      "name": "\u8af7\u523a\u7684\u60c5\u66f8",
+      "url": "https://open.spotify.com/track/77OJPbm053M9LA5Pqs2yOZ"
+    },
+    {
+      "added_at": "2023-04-03 05:20:28",
+      "album": {
+        "name": "\u5fc3\u613f",
+        "url": "https://open.spotify.com/album/5FPSPR3NOTVkZFsT0frnaZ"
+      },
+      "artists": [
+        {
+          "name": "Ren Ran",
+          "url": "https://open.spotify.com/artist/6f4srX54JFrLNK4aTJe2Sc"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "\u5fc3\u613f",
+      "url": "https://open.spotify.com/track/2JvBOfpVxHftlTPaCadw6P"
     },
     {
       "added_at": "2023-04-03 05:20:28",

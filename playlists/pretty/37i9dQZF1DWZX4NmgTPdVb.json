@@ -1,12 +1,12 @@
 {
   "description": "The songs of the 1970s that will make you dance all summer long!",
-  "num_followers": 126876,
+  "num_followers": 126963,
   "original_name": "Summer Hits of the 70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTMyMzIwMCwwMDAwMDAwMDJkZGY0NmEzZGRkYTRlM2ZkZTMzMTQ5Y2ZlZDNlYTM4",
+  "snapshot_id": "MTY1NTMyMzIwMCwwMDAwMDAwMGIzNTgxZDAyOTFjNGZhYWNjYWU1NmNhZWY1MzhjNGZm",
   "tracks": [
     {
       "added_at": "2022-04-18 23:11:58",
@@ -303,22 +303,6 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "Agents Of Fortune",
-        "url": "https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt"
-      },
-      "artists": [
-        {
-          "name": "Blue \u00d6yster Cult",
-          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
-        }
-      ],
-      "duration_ms": 308120,
-      "name": "(Don't Fear) The Reaper",
-      "url": "https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
         "name": "The Definitive Collection",
         "url": "https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 245493,
       "name": "Superstition - Single Version",
       "url": "https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
+        "name": "Agents Of Fortune",
+        "url": "https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt"
+      },
+      "artists": [
+        {
+          "name": "Blue \u00d6yster Cult",
+          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
+        }
+      ],
+      "duration_ms": 308120,
+      "name": "(Don't Fear) The Reaper",
+      "url": "https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -559,6 +559,26 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
+        "name": "Olivia's Greatest Hits (Vol. 2 / Deluxe Edition / Remastered)",
+        "url": "https://open.spotify.com/album/4OkHkHfwoZOOZpQteKJkby"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        },
+        {
+          "name": "John Travolta",
+          "url": "https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH"
+        }
+      ],
+      "duration_ms": 170485,
+      "name": "You're The One That I Want - Remastered 2022",
+      "url": "https://open.spotify.com/track/4sX1ehtL58WodjOP9bKZ18"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
         "name": "A Night At The Opera (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr"
       },
@@ -587,26 +607,6 @@
       "duration_ms": 295400,
       "name": "My Sharona",
       "url": "https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
-        "name": "Olivia's Greatest Hits (Vol. 2 / Deluxe Edition / Remastered)",
-        "url": "https://open.spotify.com/album/4OkHkHfwoZOOZpQteKJkby"
-      },
-      "artists": [
-        {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
-        },
-        {
-          "name": "John Travolta",
-          "url": "https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH"
-        }
-      ],
-      "duration_ms": 170485,
-      "name": "You're The One That I Want - Remastered 2022",
-      "url": "https://open.spotify.com/track/4sX1ehtL58WodjOP9bKZ18"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -643,6 +643,22 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
+        "name": "Can't Buy A Thrill",
+        "url": "https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 277467,
+      "name": "Reelin' In The Years",
+      "url": "https://open.spotify.com/track/1x1XQqhBViz4opcpwc7FVs"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
         "name": "Songs In The Key Of Life",
         "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 207266,
       "name": "Long Train Runnin'",
       "url": "https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
-        "name": "Can't Buy A Thrill",
-        "url": "https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 277467,
-      "name": "Reelin' In The Years",
-      "url": "https://open.spotify.com/track/1x1XQqhBViz4opcpwc7FVs"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "Still Bill",
-        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 228326,
-      "name": "Use Me",
-      "url": "https://open.spotify.com/track/4gRA0i5sxx3jAhHaVjPnUN"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
         "name": "Changes In Latitudes, Changes In Attitudes",
         "url": "https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 250933,
       "name": "Margaritaville",
       "url": "https://open.spotify.com/track/4EEjMyQub6tgFVshlM9j1M"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
+        "name": "Still Bill",
+        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 228326,
+      "name": "Use Me",
+      "url": "https://open.spotify.com/track/4gRA0i5sxx3jAhHaVjPnUN"
     },
     {
       "added_at": "2022-04-18 23:11:58",

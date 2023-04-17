@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1950s. Cover: Frank Sinatra.",
-  "num_followers": 287671,
+  "num_followers": 287901,
   "original_name": "Soft 50s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzkxNTU0MCwwMDAwMDAwMDQ4ZmUyZmNmMTc5OTJmZWQ1NmJhYTMxMmQ0ODJkZjM4",
+  "snapshot_id": "MTY1MzkxNTU0MCwwMDAwMDAwMDE1OWQ5OWI1NDM1MDZkNTE0ZTlmYzc3ZjIxNTE0ZDJi",
   "tracks": [
     {
       "added_at": "2022-05-30 12:59:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Rock with Sedaka (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO"
-      },
-      "artists": [
-        {
-          "name": "Neil Sedaka",
-          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
-        }
-      ],
-      "duration_ms": 157866,
-      "name": "You Mean Everything to Me",
-      "url": "https://open.spotify.com/track/18YPNs20cBfgqkY8YCJlOH"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "The Skyliners",
         "url": "https://open.spotify.com/album/1NkPqMACJL2PejSrAZzbiQ"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 158840,
       "name": "Since I Don't Have You (Alternative Take)",
       "url": "https://open.spotify.com/track/4uAalOPic5WOPJF1kANXCt"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "Rock with Sedaka (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO"
+      },
+      "artists": [
+        {
+          "name": "Neil Sedaka",
+          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
+        }
+      ],
+      "duration_ms": 157866,
+      "name": "You Mean Everything to Me",
+      "url": "https://open.spotify.com/track/18YPNs20cBfgqkY8YCJlOH"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Ritchie",
-        "url": "https://open.spotify.com/album/4PqrYD6697CVleVCdLJXle"
-      },
-      "artists": [
-        {
-          "name": "Ritchie Valens",
-          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
-        }
-      ],
-      "duration_ms": 144160,
-      "name": "Stay Beside Me - Single Version",
-      "url": "https://open.spotify.com/track/7zoSpb1iJ0C39KFgwt9dT2"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "It\u2019s All In The Game",
         "url": "https://open.spotify.com/album/5Pm6JmFRagCaNbD5OLlG3d"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 158520,
       "name": "It's All In The Game",
       "url": "https://open.spotify.com/track/2tvt5K7y1gndmCgtIoLo1f"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "Ritchie",
+        "url": "https://open.spotify.com/album/4PqrYD6697CVleVCdLJXle"
+      },
+      "artists": [
+        {
+          "name": "Ritchie Valens",
+          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
+        }
+      ],
+      "duration_ms": 144160,
+      "name": "Stay Beside Me - Single Version",
+      "url": "https://open.spotify.com/track/7zoSpb1iJ0C39KFgwt9dT2"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Golden Girl (The Columbia Recordings 1944-1966)",
-        "url": "https://open.spotify.com/album/5Vck2QyeSlhWymxrnQWpoM"
-      },
-      "artists": [
-        {
-          "name": "Doris Day",
-          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
-        }
-      ],
-      "duration_ms": 179373,
-      "name": "The Black Hills of Dakota",
-      "url": "https://open.spotify.com/track/5BWhyqnBtuh67TGr9TJpi7"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "Tennessee Waltz",
         "url": "https://open.spotify.com/album/6CNDRQpQTv47XJR9CMXdOb"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 181106,
       "name": "Tennessee Waltz",
       "url": "https://open.spotify.com/track/4W0sbtVR0pqOo2d7qAHhGr"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "Golden Girl (The Columbia Recordings 1944-1966)",
+        "url": "https://open.spotify.com/album/5Vck2QyeSlhWymxrnQWpoM"
+      },
+      "artists": [
+        {
+          "name": "Doris Day",
+          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
+        }
+      ],
+      "duration_ms": 179373,
+      "name": "The Black Hills of Dakota",
+      "url": "https://open.spotify.com/track/5BWhyqnBtuh67TGr9TJpi7"
     },
     {
       "added_at": "2022-05-30 12:59:00",

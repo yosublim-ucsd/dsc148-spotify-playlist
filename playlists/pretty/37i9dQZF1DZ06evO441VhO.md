@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO441VhO.md) - [plain]
 
 > This is zebrahead\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,469 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,476 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO441VhO.md) - [plain]
 | 43 | [Mental Health](https://open.spotify.com/track/732fs63uFgMhF2JZDByDAq) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Phoenix](https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP) | 3:13 |
 | 44 | [Headrush](https://open.spotify.com/track/1xtw6F4uIepvoH1TUAJaWB) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Walk the Plank](https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi) | 2:43 |
 | 45 | [Now or Never](https://open.spotify.com/track/4rH6H12XBmCpUDBb9Kuxo0) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Playmate Of The Year](https://open.spotify.com/album/2dtK7GDQ3xO6r8TYq1cJ0g) | 2:59 |
-| 46 | [Is It Hot in Here?](https://open.spotify.com/track/2JoMYA6pq2ZWhRLDZqA5aP) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Wanna Sell Your Soul? \- EP](https://open.spotify.com/album/0WRr0WoJcCyzU6XECYEakr) | 2:17 |
-| 47 | [We’re Not a Cover Band, We’re a Tribute Band](https://open.spotify.com/track/2c6XGY8oaMu6c0u0ggP81q) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [The Bonus Brothers \(Japan Only Bonus Tracks\)](https://open.spotify.com/album/3tzvxBdYuBLvwYloAnIybs) | 3:47 |
+| 46 | [We’re Not a Cover Band, We’re a Tribute Band](https://open.spotify.com/track/2c6XGY8oaMu6c0u0ggP81q) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [The Bonus Brothers \(Japan Only Bonus Tracks\)](https://open.spotify.com/album/3tzvxBdYuBLvwYloAnIybs) | 3:47 |
+| 47 | [Is It Hot in Here?](https://open.spotify.com/track/2JoMYA6pq2ZWhRLDZqA5aP) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Wanna Sell Your Soul? \- EP](https://open.spotify.com/album/0WRr0WoJcCyzU6XECYEakr) | 2:17 |
 | 48 | [Public Enemy Number One](https://open.spotify.com/track/2rlLzrOvZpnjJcERPojtWE) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Call Your Friends](https://open.spotify.com/album/6812xPomMsIkc9V0jg5hqs) | 3:30 |
 | 49 | [Broadcast To The World](https://open.spotify.com/track/1LRgvH3K5JpnOf50lFyNFC) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Broadcast to the World](https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ) | 3:16 |
 | 50 | [Out of Time](https://open.spotify.com/track/70fXq5ZlK9MYEuoHLuD6Na) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Out of Time](https://open.spotify.com/album/7IWrIlIVDc6wDioyrU3lN7) | 2:47 |
 
-Snapshot ID: `MjgwMjYwMzEsMDAwMDAwMDA4ODhjM2JmN2NiNzNiYWQ3NjBhZjZmZmEwZDQ3MWEzOA==`
+Snapshot ID: `MjgwMjc0MDEsMDAwMDAwMDA2NGJjZDhiMzIxNTQ5YjFkMDQ5MDc0YmZhNjQ0YTJjMw==`
